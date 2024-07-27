@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Offline Windows OSS tool to update device drivers: Snappy Driver Installer](https://www.glenn.delahoy.com/snappy-driver-installer-origin/)
-- [An interesting website that generates brat style image online](https://bratgenerator.online/)
-- [Geothermal plants can harness fracking to create green energy](https://www.washingtonpost.com/climate-environment/interactive/2024/fracking-geothermal-energy-plant-technology/)
-- [Show HN: Enginuity – AI-Powered R&amp;D Efficiency Solutions](https://www.leiga.com/insights)
-- [NASA Supports Burst Test for Orbital Reef Commercial Space Station](https://www.nasa.gov/humans-in-space/commercial-space/leo-economy/nasa-supports-burst-test-for-orbital-reef-commercial-space-station/)
-- [Komiko AI: AI fan art and comics creator](https://komiko.ai/en)
-- [The Best of 2024 &lpar;so far&rpar; with Sarah Guo and Elad GIL [video]](https://www.youtube.com/watch?v=0rHaV3mkUG4)
-- [Apache DataFusion 40.0.0 Released](https://datafusion.apache.org/blog/2024/07/24/datafusion-40.0.0/)
-- [GenZoo](https://genzoo.ai)
-- [Loblaw to pay $500M for bread price-fixing scheme in antitrust settlement](https://www.cbc.ca/news/business/loblaw-bread-price-settlement-1.7274820)
+- [The Role of Skill in Matchmaking [pdf]](https://www.activision.com/cdn/research/CallofDuty_Matchmaking_Series_2.pdf)
+- [Fill the Bathtub](https://collabfund.com/blog/fill-the-bathtub/)
+- [The Opportunities and Risks of Foundation Models &lpar;2021&rpar;](https://arxiv.org/abs/2108.07258)
+- [Sharks in Brazil Test Positive for a Surprising Contaminant: Cocaine](https://www.scientificamerican.com/article/first-cocaine-sharks-discovered-in-brazil/)
+- [Living – LongeviQuest Atlas](https://longeviquest.com/atlas/living)
+- [Windows Recovery Environment and Bootable USB Creator in 200KB](https://github.com/joshuacline/windick)
+- [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/)
+- [The Paris 2024 Olympics Cauldron&#39;s flame is created using water and light](https://www.edf.fr/en/giving-paris-2024-the-energy-to-shine/paris-2024-edfs-news/our-news-for-paris-2024/with-the-flame-ring-the-cauldron-of-paris-2024-makes-history)
+- [Building a custom DAG orchestration system for experimentation](https://www.geteppo.com/blog/building-a-custom-dag-orchestration-system-for-experimentation)
+- [GitMuse: Open-Source AI-Powered Git Commit Messages with Llama 3.1](https://github.com/Arakiss/gitmuse)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

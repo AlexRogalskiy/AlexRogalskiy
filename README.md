@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Kamala Harris says ‘I will not be silent’ on suffering in Gaza after Netanyahu talks](https://www.theguardian.com/world/article/2024/jul/26/kamala-harris-benjamin-netanyahu-us-visit-palestine-israel-gaza-war)
-- [The mother who forgave her daughters’ killer – but not the police – podcast](https://www.theguardian.com/news/audio/2024/jul/26/the-mother-who-forgave-her-daughters-killer-but-not-the-police-podcast)
-- [Ukraine war briefing: Pentagon accounting error creates path for billions more to be sent to Kyiv](https://www.theguardian.com/world/article/2024/jul/26/ukraine-war-briefing-pentagon-accounting-error-creates-path-for-billions-more-to-be-sent-to-kyiv)
-- [‘I did it as quietly as I could’: the navy chief who wrecked his ship to scupper China’s ambitions](https://www.theguardian.com/world/article/2024/jul/26/i-did-it-as-quietly-as-i-could-the-navy-chief-who-wrecked-his-ship-to-scupper-chinas-ambitions)
-- [England’s health watchdog ‘not fit for purpose’, says Wes Streeting](https://www.theguardian.com/society/article/2024/jul/26/englands-health-watchdog-not-fit-for-purpose-says-wes-streeting)
-- [‘A huge opportunity’: Quantum leap for UK as tech industry receives £100m boost](https://www.theguardian.com/science/article/2024/jul/26/quantum-leap-for-uk-as-tech-industry-receives-100m-boost)
-- [Cost of England’s four biggest killer diseases could hit £86bn by 2050](https://www.theguardian.com/society/article/2024/jul/25/cost-of-englands-four-biggest-killer-diseases-could-hit-86bn-by-2050)
-- [Olympic demand for ‘unproven’ ice therapy is unsustainable, scientists say](https://www.theguardian.com/environment/article/2024/jul/25/olympic-demand-for-unproven-ice-therapy-is-unsustainable-scientists-say)
-- [Man gets third-degree burns from walking on sand dunes in Death Valley](https://www.theguardian.com/us-news/article/2024/jul/25/man-burns-feet-death-valley-sand-dunes)
-- [Teenager kicked in face by Manchester police is ‘traumatised’, solicitor says](https://www.theguardian.com/uk-news/article/2024/jul/25/teenager-kicked-in-face-by-manchester-police-is-traumatised-his-solicitor-says)
+- [California’s largest wildfire of year whips through community of Forest Ranch: ‘The sky was dark with smoke’](https://www.theguardian.com/us-news/article/2024/jul/26/california-wildfire-evacuation)
+- [Ukraine war briefing: Kyiv’s forces strike Russian military airfield in Crimea](https://www.theguardian.com/world/article/2024/jul/27/ukraine-war-briefing-kyivs-forces-strike-russian-military-airfield-in-crimea)
+- [‘I didn’t say I’m leaving’: Pep Guardiola could extend his Manchester City stay](https://www.theguardian.com/football/article/2024/jul/27/pep-guardiola-could-extend-manchester-city-contract)
+- [Olympic dream lives on for hockey player who amputated finger to reach Paris | Kieran Pender](https://www.theguardian.com/sport/article/2024/jul/27/paris-olympics-2024-australia-hockey-kookaburras-finger-amputated-schedule-group-b)
+- [Shrek the Musical review – sludgy show leaves you green about the gills](https://www.theguardian.com/stage/article/2024/jul/26/shrek-the-musical-review-hammersmith-apollo-london)
+- [Record-breaking Zoom supporting Harris mobilizes white female voters](https://www.theguardian.com/us-news/article/2024/jul/26/kamala-harris-zoom-answer-the-call)
+- [Elon Musk’s X under pressure from regulators over data harvesting for Grok AI](https://www.theguardian.com/technology/article/2024/jul/26/elon-musks-x-under-pressure-from-regulators-over-data-harvesting-for-grok-ai)
+- [Céline Dion rescues Olympic parade after rain-soaked hostage to hubris | Barney Ronay](https://www.theguardian.com/sport/article/2024/jul/26/celine-dion-salvages-parade-held-thrillingly-hostage-to-its-own-hubris)
+- [Céline Dion at the Paris Olympics review – a dazzling and emotional return](https://www.theguardian.com/music/article/2024/jul/26/celine-dion-paris-olympics-review)
+- [Who launched attack on the French rail network – and why?](https://www.theguardian.com/world/article/2024/jul/26/who-launched-attack-on-the-french-rail-network-and-why)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

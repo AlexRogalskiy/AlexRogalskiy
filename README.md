@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Role of Skill in Matchmaking [pdf]](https://www.activision.com/cdn/research/CallofDuty_Matchmaking_Series_2.pdf)
-- [Fill the Bathtub](https://collabfund.com/blog/fill-the-bathtub/)
-- [The Opportunities and Risks of Foundation Models &lpar;2021&rpar;](https://arxiv.org/abs/2108.07258)
-- [Sharks in Brazil Test Positive for a Surprising Contaminant: Cocaine](https://www.scientificamerican.com/article/first-cocaine-sharks-discovered-in-brazil/)
-- [Living – LongeviQuest Atlas](https://longeviquest.com/atlas/living)
-- [Windows Recovery Environment and Bootable USB Creator in 200KB](https://github.com/joshuacline/windick)
-- [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/)
-- [The Paris 2024 Olympics Cauldron&#39;s flame is created using water and light](https://www.edf.fr/en/giving-paris-2024-the-energy-to-shine/paris-2024-edfs-news/our-news-for-paris-2024/with-the-flame-ring-the-cauldron-of-paris-2024-makes-history)
-- [Building a custom DAG orchestration system for experimentation](https://www.geteppo.com/blog/building-a-custom-dag-orchestration-system-for-experimentation)
-- [GitMuse: Open-Source AI-Powered Git Commit Messages with Llama 3.1](https://github.com/Arakiss/gitmuse)
+- [Calculating Empires](https://calculatingempires.net/?pos=25796.10%2C8819.99%2C12.7370)
+- [Conducting Effective User Testing for Your Website](https://kyrope.com/conducting-effective-user-testing-for-your-website/)
+- [Spotify Users Can Now Turn Any Idea into Personalized Playlist with AI Playlist](https://newsroom.spotify.com/2024-04-07/spotify-premium-users-can-now-turn-any-idea-into-a-personalized-playlist-with-ai-playlist-in-beta/)
+- [Deriving Tail Recursive Fibonacci](https://systemfw.org/posts/tailrec.html)
+- [The rise and surprising staying power of the George Foreman Grill](https://thehustle.co/originals/the-spectacular-rise-and-surprising-staying-power-of-the-george-foreman-grill)
+- [&#39;Congratulations&#39;: David Schweikert Decries US $35T in National Debt [video]](https://www.youtube.com/watch?v=z7lOcJqZEl4)
+- [Dev tools that should be more popular according to the 2024 Developer Survey](https://mastodon.social/@com/112855602218071883)
+- [Trump proposes strategic national crypto stockpile: &#39;Never sell your Bitcoin&#39;](https://www.cnbc.com/2024/07/27/trump-bitcoin-conference-harris.html)
+- [Guide to iOS Firmware Futurerestore &lpar;2021&rpar;](https://www.idownloadblog.com/2021/03/08/futurerestore-guide-introduction/)
+- [Software Architecture Diagrams with C4 Model](https://medium.com/@pliutau/software-architecture-diagrams-with-c4-model-898adcb534c2)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

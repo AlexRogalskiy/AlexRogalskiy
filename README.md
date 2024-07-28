@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [California’s largest wildfire of year whips through community of Forest Ranch: ‘The sky was dark with smoke’](https://www.theguardian.com/us-news/article/2024/jul/26/california-wildfire-evacuation)
-- [Ukraine war briefing: Kyiv’s forces strike Russian military airfield in Crimea](https://www.theguardian.com/world/article/2024/jul/27/ukraine-war-briefing-kyivs-forces-strike-russian-military-airfield-in-crimea)
-- [‘I didn’t say I’m leaving’: Pep Guardiola could extend his Manchester City stay](https://www.theguardian.com/football/article/2024/jul/27/pep-guardiola-could-extend-manchester-city-contract)
-- [Olympic dream lives on for hockey player who amputated finger to reach Paris | Kieran Pender](https://www.theguardian.com/sport/article/2024/jul/27/paris-olympics-2024-australia-hockey-kookaburras-finger-amputated-schedule-group-b)
-- [Shrek the Musical review – sludgy show leaves you green about the gills](https://www.theguardian.com/stage/article/2024/jul/26/shrek-the-musical-review-hammersmith-apollo-london)
-- [Record-breaking Zoom supporting Harris mobilizes white female voters](https://www.theguardian.com/us-news/article/2024/jul/26/kamala-harris-zoom-answer-the-call)
-- [Elon Musk’s X under pressure from regulators over data harvesting for Grok AI](https://www.theguardian.com/technology/article/2024/jul/26/elon-musks-x-under-pressure-from-regulators-over-data-harvesting-for-grok-ai)
-- [Céline Dion rescues Olympic parade after rain-soaked hostage to hubris | Barney Ronay](https://www.theguardian.com/sport/article/2024/jul/26/celine-dion-salvages-parade-held-thrillingly-hostage-to-its-own-hubris)
-- [Céline Dion at the Paris Olympics review – a dazzling and emotional return](https://www.theguardian.com/music/article/2024/jul/26/celine-dion-paris-olympics-review)
-- [Who launched attack on the French rail network – and why?](https://www.theguardian.com/world/article/2024/jul/26/who-launched-attack-on-the-french-rail-network-and-why)
+- [North Korea vows to ‘totally destroy’ enemy as regime marks end of Korean war](https://www.theguardian.com/world/article/2024/jul/28/north-korea-vows-to-totally-destroy-enemy-as-regime-marks-end-of-korean-war)
+- [Ukraine war briefing: China denies helping Russia’s war effort in Ukraine at regional summit](https://www.theguardian.com/world/article/2024/jul/28/ukraine-war-briefing-china-denies-helping-russias-war-effort-in-ukraine-at-regional-summit)
+- [Gen-Z voters spread the ‘Kamalove’ as Harris’s popularity earns youth support](https://www.theguardian.com/us-news/article/2024/jul/27/kamala-harris-young-voters-israel-gaza-jayapal)
+- [Cooler temperatures bring relief as Park fire explodes in California](https://www.theguardian.com/us-news/article/2024/jul/27/wildfires-california-state-of-emergency)
+- [Greater Manchester mayor urges restraint after new airport footage emerges](https://www.theguardian.com/uk-news/article/2024/jul/28/greater-manchester-mayor-urges-restraint-after-new-airport-footage-emerges)
+- [Easy breezy: pretty broderie anglaise for summer cool](https://www.theguardian.com/fashion/article/2024/jul/27/easy-breezy-pretty-broderie-anglaise-for-summer-cool)
+- [Tommy Robinson ‘could face jail’ over film screening at London protest](https://www.theguardian.com/uk-news/article/2024/jul/27/eight-arrested-at-far-right-tommy-robinson-protest-in-central-london)
+- [Olympic roundup: France win again, 10-man Ukraine triumph with late strike](https://www.theguardian.com/football/article/2024/jul/27/olympic-roundup-argentina-ukraine-spain-mens-football)
+- [US – and Snoop Dogg – breathe sigh of relief as Dressel ends day-one gold drought](https://www.theguardian.com/sport/article/2024/jul/27/us-and-snoop-dogg-breathe-sigh-of-relief-as-dressel-ends-day-one-gold-drought)
+- [Titmus shrugs off pressure to win gold as Peaty sets up Qin Haiyang showdown](https://www.theguardian.com/sport/article/2024/jul/27/ariarne-titmus-adam-peaty-qin-haiyang-swimming-paris-olympics)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [How to Debug Your Battery](https://github.com/ionworks/how-to-debug-your-battery)
-- [Fish in remote tank made into fractals with Video Feedback Device [video]](https://www.youtube.com/watch?v=KqHgCx4Lk_w)
-- [How did Facebook intercept their competitor&#39;s encrypted mobile app traffic?](https://doubleagent.net/onavo-facebook-ssl-mitm-technical-analysis/)
-- [Plan 9 Is a Uniquely Complete Operating System](https://posixcafe.org/blogs/2024/07/27/0/)
-- [Lessons from Ancient File Systems](http://madcompiler.blogspot.com/2024/02/lessons-from-ancient-file-systems.html)
-- [Intel N100 Radxa X4 First Thoughts](https://bret.dk/intel-n100-radxa-x4-first-thoughts/)
-- [Apple has reached its first-ever union contract with store employees in Maryland](https://apnews.com/article/apple-union-contract-maryland-store-f9884d978bf3129c37726dd7978392a5)
-- [Roguecraft Devs on Developing for Amiga in 2024](https://www.timeextension.com/features/interview-its-easy-to-get-a-bit-over-ambitious-roguecraft-devs-on-developing-for-amiga-in-2024)
-- [Tritone Substitutions](https://johncarlosbaez.wordpress.com/2024/07/27/tritone-substitutions/)
-- [Managarm: Pragmatic microkernel-based OS with asynchronous I/O](https://github.com/managarm/managarm)
+- [Why Navajo is one of the most difficult languages &lpar;2023&rpar;](https://bigthink.com/high-culture/navajo-language/)
+- [LeanDojo: Theorem Proving in Lean Using LLMs](https://leandojo.org/)
+- [Higher-kinded bounded polymorphism in OCaml &lpar;2021&rpar;](https://okmij.org/ftp/ML/higher-kind-poly.html)
+- [FurtherAI &lpar;YC W24&rpar; is hiring founding software engineers in the Bay Area](https://www.ycombinator.com/companies/furtherai/jobs/YZZvimn-founding-software-engineer)
+- [Show HN: A football/soccer pass visualizer made with Three.js](https://statsbomb-3d-viz.vercel.app/)
+- [Don&#39;t blindly prefer `emplace_back` to `push_back`](https://quuxplusone.github.io/blog/2021/03/03/push-back-emplace-back/)
+- [tolower&lpar;&rpar; with AVX-512](https://dotat.at/@/2024-07-28-tolower-avx512.html)
+- [A man&#39;s brain is like a little empty attic &lpar;1887&rpar;](http://metaphors.iath.virginia.edu/metaphors/17736)
+- [Microsoft technical breakdown of CrowdStrike incident](https://www.microsoft.com/en-us/security/blog/2024/07/27/windows-security-best-practices-for-integrating-and-managing-security-tools/)
+- [Italy&#39;s Sun Motorway &lpar;2021&rpar;](https://www.domusweb.it/en/architecture/gallery/2021/07/16/the-sun-motorway-is-65-years-old-a-short-story-of-an-extraordinary-infrastructure.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

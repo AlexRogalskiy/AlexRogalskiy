@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Calculating Empires](https://calculatingempires.net/?pos=25796.10%2C8819.99%2C12.7370)
-- [Conducting Effective User Testing for Your Website](https://kyrope.com/conducting-effective-user-testing-for-your-website/)
-- [Spotify Users Can Now Turn Any Idea into Personalized Playlist with AI Playlist](https://newsroom.spotify.com/2024-04-07/spotify-premium-users-can-now-turn-any-idea-into-a-personalized-playlist-with-ai-playlist-in-beta/)
-- [Deriving Tail Recursive Fibonacci](https://systemfw.org/posts/tailrec.html)
-- [The rise and surprising staying power of the George Foreman Grill](https://thehustle.co/originals/the-spectacular-rise-and-surprising-staying-power-of-the-george-foreman-grill)
-- [&#39;Congratulations&#39;: David Schweikert Decries US $35T in National Debt [video]](https://www.youtube.com/watch?v=z7lOcJqZEl4)
-- [Dev tools that should be more popular according to the 2024 Developer Survey](https://mastodon.social/@com/112855602218071883)
-- [Trump proposes strategic national crypto stockpile: &#39;Never sell your Bitcoin&#39;](https://www.cnbc.com/2024/07/27/trump-bitcoin-conference-harris.html)
-- [Guide to iOS Firmware Futurerestore &lpar;2021&rpar;](https://www.idownloadblog.com/2021/03/08/futurerestore-guide-introduction/)
-- [Software Architecture Diagrams with C4 Model](https://medium.com/@pliutau/software-architecture-diagrams-with-c4-model-898adcb534c2)
+- [Nova Flow OS: Linux Distro Based on KDE, MauiKit and OpenSUSE Tumbleweed](https://www.novaflowos.com/)
+- [Can a Hallucinating Model Help in Reducing Human &quot;Hallucination&quot;?](https://arxiv.org/abs/2405.00843)
+- [How do you follow news on tech and stay upto date?](https://news.ycombinator.com/item?id=41097481)
+- [Show HN: I built an AI tool to turn Excel data into 10-page reports in seconds](https://www.exceldashboard.ai)
+- [Vision Pro first impressions: lots of potential, rough around the edges](https://actinium226.substack.com/p/vision-pro-first-impressions-lots)
+- [Gemini vs. Assistant: Feature Gap](https://gemini.google.com/share/65ab9feb218b?hl=en)
+- [Ask HN: Lightweight desktop client for managing pull requests?](https://news.ycombinator.com/item?id=41097436)
+- [Light-induced Meissner effect in optically driven YBa2Cu3O6.48](https://www.mpsd.mpg.de/897440/2024-07-magneticfield-fava)
+- [Giant clams may hold the answers to making solar energy more efficient](https://news.yale.edu/2024/06/28/giant-clams-may-hold-answers-making-solar-energy-more-efficient)
+- [Longevity Primer 1: Epigenetic Clocks](https://www.librariesforthefuture.bio/p/longevity-primer-1-epigenetic-clocks)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

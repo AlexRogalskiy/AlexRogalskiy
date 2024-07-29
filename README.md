@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [North Korea vows to ‘totally destroy’ enemy as regime marks end of Korean war](https://www.theguardian.com/world/article/2024/jul/28/north-korea-vows-to-totally-destroy-enemy-as-regime-marks-end-of-korean-war)
-- [Ukraine war briefing: China denies helping Russia’s war effort in Ukraine at regional summit](https://www.theguardian.com/world/article/2024/jul/28/ukraine-war-briefing-china-denies-helping-russias-war-effort-in-ukraine-at-regional-summit)
-- [Gen-Z voters spread the ‘Kamalove’ as Harris’s popularity earns youth support](https://www.theguardian.com/us-news/article/2024/jul/27/kamala-harris-young-voters-israel-gaza-jayapal)
-- [Cooler temperatures bring relief as Park fire explodes in California](https://www.theguardian.com/us-news/article/2024/jul/27/wildfires-california-state-of-emergency)
-- [Greater Manchester mayor urges restraint after new airport footage emerges](https://www.theguardian.com/uk-news/article/2024/jul/28/greater-manchester-mayor-urges-restraint-after-new-airport-footage-emerges)
-- [Easy breezy: pretty broderie anglaise for summer cool](https://www.theguardian.com/fashion/article/2024/jul/27/easy-breezy-pretty-broderie-anglaise-for-summer-cool)
-- [Tommy Robinson ‘could face jail’ over film screening at London protest](https://www.theguardian.com/uk-news/article/2024/jul/27/eight-arrested-at-far-right-tommy-robinson-protest-in-central-london)
-- [Olympic roundup: France win again, 10-man Ukraine triumph with late strike](https://www.theguardian.com/football/article/2024/jul/27/olympic-roundup-argentina-ukraine-spain-mens-football)
-- [US – and Snoop Dogg – breathe sigh of relief as Dressel ends day-one gold drought](https://www.theguardian.com/sport/article/2024/jul/27/us-and-snoop-dogg-breathe-sigh-of-relief-as-dressel-ends-day-one-gold-drought)
-- [Titmus shrugs off pressure to win gold as Peaty sets up Qin Haiyang showdown](https://www.theguardian.com/sport/article/2024/jul/27/ariarne-titmus-adam-peaty-qin-haiyang-swimming-paris-olympics)
+- [Why Spain wants tourists to go home](https://www.theguardian.com/news/audio/2024/jul/29/why-spain-wants-tourists-to-go-home)
+- [Venezuela on a knife-edge as polls close in election which could end socialist rule](https://www.theguardian.com/world/article/2024/jul/29/venezuela-election-nicolas-maduro-edmundo-gonzalez-urrutia-results)
+- [‘Dangerous’ and ‘retrograde’: Māori leaders sound alarm over policy shifts in New Zealand](https://www.theguardian.com/world/article/2024/jul/29/maori-leaders-new-zealand-coalition-government-policy-changes)
+- [The Chills’ Martin Phillipps leaves a legacy of melancholy brilliance](https://www.theguardian.com/music/article/2024/jul/29/martin-phillipps-the-chills-legacy)
+- [Number of plastic bags found on UK beaches down 80% since charge introduced](https://www.theguardian.com/environment/article/2024/jul/29/number-of-plastic-bags-found-on-uk-beaches-down-80-since-charge-introduced)
+- [Man graduates 41 years after being denied ceremony by parrot problem](https://www.theguardian.com/education/article/2024/jul/29/man-graduates-41-years-after-being-denied-ceremony-by-parrot-problem)
+- [Widely advertised hormone test unreliable as fertility prediction tool for women, researchers say](https://www.theguardian.com/australia-news/article/2024/jul/29/widely-advertised-hormone-test-unreliable-as-fertility-prediction-tool-researchers-say)
+- [Janet Andrewartha, Australian actor in Neighbours and Prisoner, dies aged 72](https://www.theguardian.com/tv-and-radio/article/2024/jul/29/janet-andrewartha-australian-actor-in-neighbours-and-prisoner-dies-aged-72)
+- [Stevie Van Zandt: Disciple review – seeing Springsteen’s sidekick take on apartheid is an air-punch moment](https://www.theguardian.com/tv-and-radio/article/2024/jul/28/stevie-van-zandt-disciple-review-seeing-springsteens-sidekick-take-on-apartheid-is-an-air-punch-moment)
+- [Tommy Robinson arrested in Kent under Terrorism Act](https://www.theguardian.com/uk-news/article/2024/jul/28/tommy-robinson-says-he-has-been-arrested-under-terrorism-act)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

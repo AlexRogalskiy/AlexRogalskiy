@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Why Spain wants tourists to go home](https://www.theguardian.com/news/audio/2024/jul/29/why-spain-wants-tourists-to-go-home)
-- [Venezuela on a knife-edge as polls close in election which could end socialist rule](https://www.theguardian.com/world/article/2024/jul/29/venezuela-election-nicolas-maduro-edmundo-gonzalez-urrutia-results)
-- [‘Dangerous’ and ‘retrograde’: Māori leaders sound alarm over policy shifts in New Zealand](https://www.theguardian.com/world/article/2024/jul/29/maori-leaders-new-zealand-coalition-government-policy-changes)
-- [The Chills’ Martin Phillipps leaves a legacy of melancholy brilliance](https://www.theguardian.com/music/article/2024/jul/29/martin-phillipps-the-chills-legacy)
-- [Number of plastic bags found on UK beaches down 80% since charge introduced](https://www.theguardian.com/environment/article/2024/jul/29/number-of-plastic-bags-found-on-uk-beaches-down-80-since-charge-introduced)
-- [Man graduates 41 years after being denied ceremony by parrot problem](https://www.theguardian.com/education/article/2024/jul/29/man-graduates-41-years-after-being-denied-ceremony-by-parrot-problem)
-- [Widely advertised hormone test unreliable as fertility prediction tool for women, researchers say](https://www.theguardian.com/australia-news/article/2024/jul/29/widely-advertised-hormone-test-unreliable-as-fertility-prediction-tool-researchers-say)
-- [Janet Andrewartha, Australian actor in Neighbours and Prisoner, dies aged 72](https://www.theguardian.com/tv-and-radio/article/2024/jul/29/janet-andrewartha-australian-actor-in-neighbours-and-prisoner-dies-aged-72)
-- [Stevie Van Zandt: Disciple review – seeing Springsteen’s sidekick take on apartheid is an air-punch moment](https://www.theguardian.com/tv-and-radio/article/2024/jul/28/stevie-van-zandt-disciple-review-seeing-springsteens-sidekick-take-on-apartheid-is-an-air-punch-moment)
-- [Tommy Robinson arrested in Kent under Terrorism Act](https://www.theguardian.com/uk-news/article/2024/jul/28/tommy-robinson-says-he-has-been-arrested-under-terrorism-act)
+- [The sisters Saudi Arabia tried to silence - podcast](https://www.theguardian.com/news/audio/2024/jul/30/the-sisters-saudi-arabia-tried-to-silence-podcast)
+- [Maduro’s departure ‘irreversible’, says Venezuela opposition leader, as election result protests grow](https://www.theguardian.com/world/article/2024/jul/30/venezuela-election-2024-maduro-maria-corina-machado-edmundo-gonzalez)
+- [Harris’s VP list: Gretchen Whitmer and Roy Cooper say they’re not in running](https://www.theguardian.com/us-news/article/2024/jul/29/kamala-harris-vice-president-pick-gretchen-whitmer-roy-cooper)
+- [South China Sea: a visual guide to the key shoals, reefs and islands](https://www.theguardian.com/world/article/2024/jul/30/south-china-sea-map-visual-guide-key-shoals-reefs-islands)
+- [McDonald’s sales fall worldwide for first time in four years as cost of living bites](https://www.theguardian.com/us-news/article/2024/jul/30/mcdonalds-same-store-sales-fall-worldwide-for-first-time-since-2020)
+- [Western citizens urged to leave Lebanon as efforts to deter Israeli attack continue](https://www.theguardian.com/world/article/2024/jul/30/lebanon-israel-attack-travel-warnings-for-uk-germany-france-america-citizens)
+- [UK house prices expected to rise over second half of year, says Zoopla](https://www.theguardian.com/money/article/2024/jul/30/uk-house-prices-rise-zoopla-homes-for-sale)
+- [Rob Rinder criticises ‘madness’ of UK’s prison system](https://www.theguardian.com/society/article/2024/jul/30/rob-rinder-criticises-madness-of-uks-prison-system)
+- [Helen Glover: fathers on Team GB receive less scrutiny than mothers](https://www.theguardian.com/sport/article/2024/jul/30/helen-glover-fathers-team-gb-less-scrutiny-mothers)
+- [Biden calls for supreme court changes and decries Trump immunity ruling](https://www.theguardian.com/us-news/article/2024/jul/29/biden-supreme-court-reform-trump)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

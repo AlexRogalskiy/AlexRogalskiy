@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Nova Flow OS: Linux Distro Based on KDE, MauiKit and OpenSUSE Tumbleweed](https://www.novaflowos.com/)
-- [Can a Hallucinating Model Help in Reducing Human &quot;Hallucination&quot;?](https://arxiv.org/abs/2405.00843)
-- [How do you follow news on tech and stay upto date?](https://news.ycombinator.com/item?id=41097481)
-- [Show HN: I built an AI tool to turn Excel data into 10-page reports in seconds](https://www.exceldashboard.ai)
-- [Vision Pro first impressions: lots of potential, rough around the edges](https://actinium226.substack.com/p/vision-pro-first-impressions-lots)
-- [Gemini vs. Assistant: Feature Gap](https://gemini.google.com/share/65ab9feb218b?hl=en)
-- [Ask HN: Lightweight desktop client for managing pull requests?](https://news.ycombinator.com/item?id=41097436)
-- [Light-induced Meissner effect in optically driven YBa2Cu3O6.48](https://www.mpsd.mpg.de/897440/2024-07-magneticfield-fava)
-- [Giant clams may hold the answers to making solar energy more efficient](https://news.yale.edu/2024/06/28/giant-clams-may-hold-answers-making-solar-energy-more-efficient)
-- [Longevity Primer 1: Epigenetic Clocks](https://www.librariesforthefuture.bio/p/longevity-primer-1-epigenetic-clocks)
+- [Call of War](https://www.callofwar.com/index.php?)
+- [Coeurway – medical assistant powered by AI](https://www.coeurway.com/en)
+- [Conditional Notifications in Google Sheets](https://workspaceupdates.googleblog.com/2024/06/conditional-notifications-google-sheets.html)
+- [Please add a &quot;dark&quot; theme for Hacker News](https://news.ycombinator.com)
+- [[LLMs] Using agents to not use agents](https://idinsight.github.io/tech-blog/blog/aam_pseudo_agent/)
+- [Gene &#39;switched off&#39; in early pancreatic cancer stages allows rapid tumour growth](https://www.ntu.ac.uk/about-us/news/news-articles/2024/06/gene-switched-off-in-early-stages-of-pancreatic-cancer,-allowing-rapid-tumour-growth-and-spread)
+- [Sharing Secrets Among Friends &lpar;1992&rpar;](https://www.schneier.com/essays/archives/1992/04/sharing_secrets_amon.html)
+- [Running a Fine Dining Restaurant in a Recession](https://commoncog.com/fine-dining-through-a-recession/)
+- [&#39;I Need to Identify You&#39;: How One Question Saved Ferrari from a Deepfake Scam](https://www.bloomberg.com/news/articles/2024-07-26/ferrari-narrowly-dodges-deepfake-scam-simulating-deal-hungry-ceo)
+- [Why do people believe true things?](https://www.conspicuouscognition.com/p/why-do-people-believe-true-things)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

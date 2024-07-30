@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Why Navajo is one of the most difficult languages &lpar;2023&rpar;](https://bigthink.com/high-culture/navajo-language/)
-- [LeanDojo: Theorem Proving in Lean Using LLMs](https://leandojo.org/)
-- [Higher-kinded bounded polymorphism in OCaml &lpar;2021&rpar;](https://okmij.org/ftp/ML/higher-kind-poly.html)
-- [FurtherAI &lpar;YC W24&rpar; is hiring founding software engineers in the Bay Area](https://www.ycombinator.com/companies/furtherai/jobs/YZZvimn-founding-software-engineer)
-- [Show HN: A football/soccer pass visualizer made with Three.js](https://statsbomb-3d-viz.vercel.app/)
-- [Don&#39;t blindly prefer `emplace_back` to `push_back`](https://quuxplusone.github.io/blog/2021/03/03/push-back-emplace-back/)
-- [tolower&lpar;&rpar; with AVX-512](https://dotat.at/@/2024-07-28-tolower-avx512.html)
-- [A man&#39;s brain is like a little empty attic &lpar;1887&rpar;](http://metaphors.iath.virginia.edu/metaphors/17736)
-- [Microsoft technical breakdown of CrowdStrike incident](https://www.microsoft.com/en-us/security/blog/2024/07/27/windows-security-best-practices-for-integrating-and-managing-security-tools/)
-- [Italy&#39;s Sun Motorway &lpar;2021&rpar;](https://www.domusweb.it/en/architecture/gallery/2021/07/16/the-sun-motorway-is-65-years-old-a-short-story-of-an-extraordinary-infrastructure.html)
+- [Four billion years in four minutes – Simulating worlds on the GPU](https://davidar.io/post/sim-glsl)
+- [Sam 2: The next generation of Meta Segment Anything Model](https://ai.meta.com/blog/segment-anything-2/)
+- [LG and Samsung are making TV screens disappear](https://spectrum.ieee.org/transparent-tv)
+- [SAM 2: Segment Anything in Images and Videos](https://github.com/facebookresearch/segment-anything-2)
+- [DigiCert Revocation Incident &lpar;CNAME Domain Validation&rpar;](https://www.digicert.com/support/certificate-revocation-incident)
+- [FastHTML – Modern web applications in pure Python](https://fastht.ml/)
+- [One-man SaaS, 9 Years In](https://blog.healthchecks.io/2024/07/running-one-man-saas-9-years-in/)
+- [How to save $13.27 on your SaaS bill](https://dgerrells.com/blog/how-to-save-13-27-on-your-saas-bill)
+- [With &#39;digital twins,&#39; the doctor will see you now](https://www.quantamagazine.org/with-digital-twins-the-doctor-will-see-you-now-20240726/)
+- [TreeSeg: Hierarchical Topic Segmentation of Large Transcripts](https://augmend.com/blog/TreeSeg)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

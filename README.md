@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Four billion years in four minutes – Simulating worlds on the GPU](https://davidar.io/post/sim-glsl)
-- [Sam 2: The next generation of Meta Segment Anything Model](https://ai.meta.com/blog/segment-anything-2/)
-- [LG and Samsung are making TV screens disappear](https://spectrum.ieee.org/transparent-tv)
-- [SAM 2: Segment Anything in Images and Videos](https://github.com/facebookresearch/segment-anything-2)
-- [DigiCert Revocation Incident &lpar;CNAME Domain Validation&rpar;](https://www.digicert.com/support/certificate-revocation-incident)
-- [FastHTML – Modern web applications in pure Python](https://fastht.ml/)
-- [One-man SaaS, 9 Years In](https://blog.healthchecks.io/2024/07/running-one-man-saas-9-years-in/)
-- [How to save $13.27 on your SaaS bill](https://dgerrells.com/blog/how-to-save-13-27-on-your-saas-bill)
-- [With &#39;digital twins,&#39; the doctor will see you now](https://www.quantamagazine.org/with-digital-twins-the-doctor-will-see-you-now-20240726/)
-- [TreeSeg: Hierarchical Topic Segmentation of Large Transcripts](https://augmend.com/blog/TreeSeg)
+- [X suspends &#39;White Dudes for Harris&#39; account after fundraiser](https://www.washingtonpost.com/technology/2024/07/30/white-dudes-harris-suspended-x-twitter/)
+- [Superconducting Microprocessors? Turns Out They&#39;re Ultra-Efficient &lpar;2021&rpar;](https://spectrum.ieee.org/new-superconductor-microprocessor-yields-a-substantial-boost-in-efficiency)
+- [Ngtop – Request analytics from the Nginx access logs](https://github.com/facundoolano/ngtop)
+- [Metaphysical Experiments Probe Our Hidden Assumptions About Reality](https://www.quantamagazine.org/metaphysical-experiments-test-hidden-assumptions-about-reality-20240730)
+- [Our audit of Homebrew](https://blog.trailofbits.com/2024/07/30/our-audit-of-homebrew/)
+- [Creativity fundamentally comes from memorization](https://shwin.co/blog/creativity-fundamentally-comes-from-memorization)
+- [Building static binaries with Go on Linux](https://eli.thegreenplace.net/2024/building-static-binaries-with-go-on-linux/)
+- [Troubleshooting: Terminal Lag](https://lock.cmpxchg8b.com/slowterm.html)
+- [Astronomical Accidents, and the Proxima Centauri &#39;Signal&#39; That Wasn&#39;t](https://www.centauri-dreams.org/2024/07/24/on-astronomical-accidents-and-the-proxima-centauri-signal-that-wasnt/)
+- [Functional programming languages should be better at mutation than they are](https://cohost.org/prophet/post/7083950-functional-programming)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [The sisters Saudi Arabia tried to silence - podcast](https://www.theguardian.com/news/audio/2024/jul/30/the-sisters-saudi-arabia-tried-to-silence-podcast)
-- [Maduro’s departure ‘irreversible’, says Venezuela opposition leader, as election result protests grow](https://www.theguardian.com/world/article/2024/jul/30/venezuela-election-2024-maduro-maria-corina-machado-edmundo-gonzalez)
-- [Harris’s VP list: Gretchen Whitmer and Roy Cooper say they’re not in running](https://www.theguardian.com/us-news/article/2024/jul/29/kamala-harris-vice-president-pick-gretchen-whitmer-roy-cooper)
-- [South China Sea: a visual guide to the key shoals, reefs and islands](https://www.theguardian.com/world/article/2024/jul/30/south-china-sea-map-visual-guide-key-shoals-reefs-islands)
-- [McDonald’s sales fall worldwide for first time in four years as cost of living bites](https://www.theguardian.com/us-news/article/2024/jul/30/mcdonalds-same-store-sales-fall-worldwide-for-first-time-since-2020)
-- [Western citizens urged to leave Lebanon as efforts to deter Israeli attack continue](https://www.theguardian.com/world/article/2024/jul/30/lebanon-israel-attack-travel-warnings-for-uk-germany-france-america-citizens)
-- [UK house prices expected to rise over second half of year, says Zoopla](https://www.theguardian.com/money/article/2024/jul/30/uk-house-prices-rise-zoopla-homes-for-sale)
-- [Rob Rinder criticises ‘madness’ of UK’s prison system](https://www.theguardian.com/society/article/2024/jul/30/rob-rinder-criticises-madness-of-uks-prison-system)
-- [Helen Glover: fathers on Team GB receive less scrutiny than mothers](https://www.theguardian.com/sport/article/2024/jul/30/helen-glover-fathers-team-gb-less-scrutiny-mothers)
-- [Biden calls for supreme court changes and decries Trump immunity ruling](https://www.theguardian.com/us-news/article/2024/jul/29/biden-supreme-court-reform-trump)
+- [Rachel Reeves and the £22bn black hole - podcast](https://www.theguardian.com/news/audio/2024/jul/31/rachel-reeves-and-the-22bn-black-hole-podcast)
+- [Anti-whaling activist Paul Watson could face up to 15 years’ prison in Japan if convicted](https://www.theguardian.com/world/article/2024/jul/31/sea-shepherd-founder-anti-whaling-activist-paul-watson-arrest-japan-ntwnfb)
+- [Atlanta rally: Harris tells Trump to ‘say it to my face’ and challenges him to debate](https://www.theguardian.com/us-news/article/2024/jul/30/kamala-harris-atlanta-rally)
+- [Keir Starmer says Southport rioters will feel ‘full force of the law’](https://www.theguardian.com/uk-news/article/2024/jul/30/far-right-attack-police-outside-southport-mosque-after-knife-killings)
+- [Ukraine war briefing: F-16 fighter jets to carry advanced US weapons – report](https://www.theguardian.com/world/article/2024/jul/31/ukraine-war-briefing-f-16-fighter-jets-to-carry-advanced-us-weapons-report)
+- [Amad Diallo hopes to be part of youthful Manchester United first-team quartet](https://www.theguardian.com/football/article/2024/jul/31/amad-diallo-manchester-united-first-team-quartet)
+- [Emma Hayes’ US team to face England in blockbuster Wembley showdown](https://www.theguardian.com/football/article/2024/jul/31/uswnt-england-friendly-wembley-emma-hayes-sarina-wiegman)
+- [Labour tries to attract clean energy contracts with record £1.5bn for auction](https://www.theguardian.com/environment/article/2024/jul/31/labour-tries-to-attract-clean-energy-contracts-with-record-15bn-for-auction)
+- [Benefit cap traps families in crowded, rat-infested homes, report finds](https://www.theguardian.com/society/article/2024/jul/31/benefit-cap-traps-families-in-crowded-rat-infested-homes-report-finds)
+- [Olympic swimmers wear masks as concerns over Covid rise across camps](https://www.theguardian.com/sport/article/2024/jul/30/olympic-swimmers-wear-masks-as-concerns-over-covid-rise-across-camps)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

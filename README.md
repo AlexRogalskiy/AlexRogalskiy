@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Call of War](https://www.callofwar.com/index.php?)
-- [Coeurway – medical assistant powered by AI](https://www.coeurway.com/en)
-- [Conditional Notifications in Google Sheets](https://workspaceupdates.googleblog.com/2024/06/conditional-notifications-google-sheets.html)
-- [Please add a &quot;dark&quot; theme for Hacker News](https://news.ycombinator.com)
-- [[LLMs] Using agents to not use agents](https://idinsight.github.io/tech-blog/blog/aam_pseudo_agent/)
-- [Gene &#39;switched off&#39; in early pancreatic cancer stages allows rapid tumour growth](https://www.ntu.ac.uk/about-us/news/news-articles/2024/06/gene-switched-off-in-early-stages-of-pancreatic-cancer,-allowing-rapid-tumour-growth-and-spread)
-- [Sharing Secrets Among Friends &lpar;1992&rpar;](https://www.schneier.com/essays/archives/1992/04/sharing_secrets_amon.html)
-- [Running a Fine Dining Restaurant in a Recession](https://commoncog.com/fine-dining-through-a-recession/)
-- [&#39;I Need to Identify You&#39;: How One Question Saved Ferrari from a Deepfake Scam](https://www.bloomberg.com/news/articles/2024-07-26/ferrari-narrowly-dodges-deepfake-scam-simulating-deal-hungry-ceo)
-- [Why do people believe true things?](https://www.conspicuouscognition.com/p/why-do-people-believe-true-things)
+- [Why Does Predicting a Protein&#39;s 3D Structure Matter?](https://piip.co.kr/en/blog/alphafold-protein-structure-prediction-importance-1)
+- [AMD is becoming an AI chip company, just like Nvidia](https://www.theverge.com/2024/7/30/24209938/amd-q2-2024-earnings-datacenter-ai-revenue)
+- [iOS 18.1 Beta Includes Call Recording and Transcribing](https://www.macrumors.com/2024/07/29/ios-18-1-call-recording-and-transcribing/)
+- [T-Mobile Has a New Side Gig: Fiber Internet](https://www.wsj.com/business/telecom/t-mobile-fiber-optic-internet-connection-380957ef)
+- [Show HN: GPT4o-mini Network Assistant is a Network Assistant chatbot](https://github.com/admatt01/OpenAI-Network-Assistant)
+- [A place for bicycle tourists and their journals](https://www.crazyguyonabike.com/?o=3d2)
+- [Show HN: LinkStorm – AI-powered internal link building SEO tool](https://linkstorm.io/)
+- [X suspends &#39;White Dudes for Harris&#39; account after fundraiser](https://www.washingtonpost.com/technology/2024/07/30/white-dudes-harris-suspended-x-twitter/)
+- [Logitech Mulls Subscription Model for &#39;Forever&#39; Mouse](https://www.theverge.com/24206847/logitech-ceo-hanneke-faber-mouse-keyboard-gaming-decoder-podcast-interview)
+- [Ask HN: Hosting email server for our users?](https://news.ycombinator.com/item?id=41115763)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

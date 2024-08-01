@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Why Does Predicting a Protein&#39;s 3D Structure Matter?](https://piip.co.kr/en/blog/alphafold-protein-structure-prediction-importance-1)
-- [AMD is becoming an AI chip company, just like Nvidia](https://www.theverge.com/2024/7/30/24209938/amd-q2-2024-earnings-datacenter-ai-revenue)
-- [iOS 18.1 Beta Includes Call Recording and Transcribing](https://www.macrumors.com/2024/07/29/ios-18-1-call-recording-and-transcribing/)
-- [T-Mobile Has a New Side Gig: Fiber Internet](https://www.wsj.com/business/telecom/t-mobile-fiber-optic-internet-connection-380957ef)
-- [Show HN: GPT4o-mini Network Assistant is a Network Assistant chatbot](https://github.com/admatt01/OpenAI-Network-Assistant)
-- [A place for bicycle tourists and their journals](https://www.crazyguyonabike.com/?o=3d2)
-- [Show HN: LinkStorm – AI-powered internal link building SEO tool](https://linkstorm.io/)
-- [X suspends &#39;White Dudes for Harris&#39; account after fundraiser](https://www.washingtonpost.com/technology/2024/07/30/white-dudes-harris-suspended-x-twitter/)
-- [Logitech Mulls Subscription Model for &#39;Forever&#39; Mouse](https://www.theverge.com/24206847/logitech-ceo-hanneke-faber-mouse-keyboard-gaming-decoder-podcast-interview)
-- [Ask HN: Hosting email server for our users?](https://news.ycombinator.com/item?id=41115763)
+- [Microsoft says OpenAI is now a competitor in AI and search](https://www.cnbc.com/2024/07/31/microsoft-says-openai-is-now-a-competitor-in-ai-and-search.html)
+- [How to Build Your First AI Model: A Comprehensive Guide](https://heyvivek.com/how-to-build-your-first-ai-model-a-comprehensive-guide)
+- [NEPA Will Tax Clean Energy](https://ifp.org/how-nepa-will-tax-clean-energy/)
+- [Semaphores in Golang and GNU Make](https://dotat.at/@/2024-07-18-semaphores.html?continueFlag=765aad8b2b9746a69ebd41a9010211e9)
+- [Open Source projects vs. products: A strategic approach](https://opensource.net/open-source-projects-vs-products/)
+- [The Genomic Code: The genome instantiates a generative model of the organism](https://arxiv.org/abs/2407.15908)
+- [Logitech Considers &#39;Forever Mouse&#39; with Subscription Fee](https://www.macrumors.com/2024/07/31/logitech-forever-mouse/)
+- [Dynamic DNS with Cloudflare](https://github.com/lsgrep/cfbind)
+- [7M pounds of meat recalled amid deadly outbreak](https://arstechnica.com/science/2024/07/7-million-pounds-of-meat-recalled-amid-deadly-outbreak/)
+- [How Does OpenAI Survive](https://www.wheresyoured.at/to-serve-altman/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

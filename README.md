@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [X suspends &#39;White Dudes for Harris&#39; account after fundraiser](https://www.washingtonpost.com/technology/2024/07/30/white-dudes-harris-suspended-x-twitter/)
-- [Superconducting Microprocessors? Turns Out They&#39;re Ultra-Efficient &lpar;2021&rpar;](https://spectrum.ieee.org/new-superconductor-microprocessor-yields-a-substantial-boost-in-efficiency)
-- [Ngtop – Request analytics from the Nginx access logs](https://github.com/facundoolano/ngtop)
-- [Metaphysical Experiments Probe Our Hidden Assumptions About Reality](https://www.quantamagazine.org/metaphysical-experiments-test-hidden-assumptions-about-reality-20240730)
-- [Our audit of Homebrew](https://blog.trailofbits.com/2024/07/30/our-audit-of-homebrew/)
-- [Creativity fundamentally comes from memorization](https://shwin.co/blog/creativity-fundamentally-comes-from-memorization)
-- [Building static binaries with Go on Linux](https://eli.thegreenplace.net/2024/building-static-binaries-with-go-on-linux/)
-- [Troubleshooting: Terminal Lag](https://lock.cmpxchg8b.com/slowterm.html)
-- [Astronomical Accidents, and the Proxima Centauri &#39;Signal&#39; That Wasn&#39;t](https://www.centauri-dreams.org/2024/07/24/on-astronomical-accidents-and-the-proxima-centauri-signal-that-wasnt/)
-- [Functional programming languages should be better at mutation than they are](https://cohost.org/prophet/post/7083950-functional-programming)
+- [Compared to other distros, Vanilla OS 2 &#39;Orchid&#39; is rewriting how Linux works](https://www.theregister.com/2024/07/31/vanilla_os_friendly_radical/)
+- [Rust Just Failed an Important Test](https://mccue.dev/pages/7-31-24-rust-just-failed-its-test)
+- [Etleap &lpar;YC W13&rpar; Is Hiring a Customer Success Manager &lpar;SF&rpar;](https://etleap.com/careers/customer-success-manager/)
+- [SnowflakeOS: Beginner friendly and GUI focused NixOS variant](https://snowflakeos.org/)
+- [Suspicious data pattern in recent Venezuelan election](https://statmodeling.stat.columbia.edu/2024/07/31/suspicious-data-pattern-in-recent-venezuelan-election/)
+- [Cardie – An open source business card designer and sharing platform](https://github.com/nfoert/cardie)
+- [Skribilo: The Document Programming Framework](https://www.nongnu.org/skribilo/)
+- [Launch HN: Martin &lpar;YC S23&rpar; – Using LLMs to Make a Better Siri](https://news.ycombinator.com/item?id=41119443)
+- [How great was the Great Oxidation Event?](https://eos.org/science-updates/how-great-was-the-great-oxidation-event)
+- [Fast Multidimensional Matrix Multiplication on CPU from Scratch &lpar;2022&rpar;](https://siboehm.com/articles/22/Fast-MMM-on-CPU)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

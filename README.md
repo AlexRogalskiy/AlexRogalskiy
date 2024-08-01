@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Rachel Reeves and the £22bn black hole - podcast](https://www.theguardian.com/news/audio/2024/jul/31/rachel-reeves-and-the-22bn-black-hole-podcast)
-- [Anti-whaling activist Paul Watson could face up to 15 years’ prison in Japan if convicted](https://www.theguardian.com/world/article/2024/jul/31/sea-shepherd-founder-anti-whaling-activist-paul-watson-arrest-japan-ntwnfb)
-- [Atlanta rally: Harris tells Trump to ‘say it to my face’ and challenges him to debate](https://www.theguardian.com/us-news/article/2024/jul/30/kamala-harris-atlanta-rally)
-- [Keir Starmer says Southport rioters will feel ‘full force of the law’](https://www.theguardian.com/uk-news/article/2024/jul/30/far-right-attack-police-outside-southport-mosque-after-knife-killings)
-- [Ukraine war briefing: F-16 fighter jets to carry advanced US weapons – report](https://www.theguardian.com/world/article/2024/jul/31/ukraine-war-briefing-f-16-fighter-jets-to-carry-advanced-us-weapons-report)
-- [Amad Diallo hopes to be part of youthful Manchester United first-team quartet](https://www.theguardian.com/football/article/2024/jul/31/amad-diallo-manchester-united-first-team-quartet)
-- [Emma Hayes’ US team to face England in blockbuster Wembley showdown](https://www.theguardian.com/football/article/2024/jul/31/uswnt-england-friendly-wembley-emma-hayes-sarina-wiegman)
-- [Labour tries to attract clean energy contracts with record £1.5bn for auction](https://www.theguardian.com/environment/article/2024/jul/31/labour-tries-to-attract-clean-energy-contracts-with-record-15bn-for-auction)
-- [Benefit cap traps families in crowded, rat-infested homes, report finds](https://www.theguardian.com/society/article/2024/jul/31/benefit-cap-traps-families-in-crowded-rat-infested-homes-report-finds)
-- [Olympic swimmers wear masks as concerns over Covid rise across camps](https://www.theguardian.com/sport/article/2024/jul/30/olympic-swimmers-wear-masks-as-concerns-over-covid-rise-across-camps)
+- [Venezuela’s Nicolás Maduro blames unrest on far-right conspiracy as isolation grows](https://www.theguardian.com/world/article/2024/aug/01/venezuela-election-results-nicolas-maduro-protests-gonzalez-machado)
+- [How Southport’s horror and grief was hijacked by the far right – podcast](https://www.theguardian.com/news/audio/2024/aug/01/how-southports-horror-and-grief-was-hijacked-by-the-far-right-podcast)
+- [Three accused 9/11 plotters plead guilty in Guantánamo Bay deal – prosecutors](https://www.theguardian.com/us-news/article/2024/jul/31/september-11-suspects-guantanamo-bay-guilty-plea)
+- [Wolf sparks warning to keep children out of forest in Netherlands](https://www.theguardian.com/world/article/2024/aug/01/wolf-sparks-warning-to-keep-children-out-of-forest-in-netherlands)
+- [Ukraine war briefing: First F-16 fighter jets arrive – officials](https://www.theguardian.com/world/article/2024/aug/01/ukraine-war-briefing-first-f-16-fighter-jets-arrive-officials)
+- [Southport stabbings: boy, 17, charged with murder and attempted murder](https://www.theguardian.com/uk-news/article/2024/aug/01/southport-stabbings-boy-charged-murder)
+- [Teenagers displaying ‘problematic phone use’ more likely to be depressed](https://www.theguardian.com/money/article/2024/aug/01/teenagers-displaying-problematic-phone-use-more-likely-to-be-depressed)
+- [Felled Sycamore Gap tree may live on after green shoots appear on stump](https://www.theguardian.com/uk-news/article/2024/aug/01/felled-sycamore-gap-tree-stump-green-shoots-stump)
+- [Long Covid health issues persist in those hospitalised early in pandemic, study finds](https://www.theguardian.com/world/article/2024/jul/31/long-covid-health-issues-persist-in-those-hospitalised-early-in-pandemic-study-finds)
+- [Two people found dead on yacht in Sydney Harbour amid concerns fumes detected aboard](https://www.theguardian.com/australia-news/article/2024/aug/01/two-people-found-dead-on-yacht-in-sydney-harbour-amid-concerns-fumes-detected-aboard)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

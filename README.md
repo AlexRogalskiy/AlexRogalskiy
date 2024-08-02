@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Venezuela’s Nicolás Maduro blames unrest on far-right conspiracy as isolation grows](https://www.theguardian.com/world/article/2024/aug/01/venezuela-election-results-nicolas-maduro-protests-gonzalez-machado)
-- [How Southport’s horror and grief was hijacked by the far right – podcast](https://www.theguardian.com/news/audio/2024/aug/01/how-southports-horror-and-grief-was-hijacked-by-the-far-right-podcast)
-- [Three accused 9/11 plotters plead guilty in Guantánamo Bay deal – prosecutors](https://www.theguardian.com/us-news/article/2024/jul/31/september-11-suspects-guantanamo-bay-guilty-plea)
-- [Wolf sparks warning to keep children out of forest in Netherlands](https://www.theguardian.com/world/article/2024/aug/01/wolf-sparks-warning-to-keep-children-out-of-forest-in-netherlands)
-- [Ukraine war briefing: First F-16 fighter jets arrive – officials](https://www.theguardian.com/world/article/2024/aug/01/ukraine-war-briefing-first-f-16-fighter-jets-arrive-officials)
-- [Southport stabbings: boy, 17, charged with murder and attempted murder](https://www.theguardian.com/uk-news/article/2024/aug/01/southport-stabbings-boy-charged-murder)
-- [Teenagers displaying ‘problematic phone use’ more likely to be depressed](https://www.theguardian.com/money/article/2024/aug/01/teenagers-displaying-problematic-phone-use-more-likely-to-be-depressed)
-- [Felled Sycamore Gap tree may live on after green shoots appear on stump](https://www.theguardian.com/uk-news/article/2024/aug/01/felled-sycamore-gap-tree-stump-green-shoots-stump)
-- [Long Covid health issues persist in those hospitalised early in pandemic, study finds](https://www.theguardian.com/world/article/2024/jul/31/long-covid-health-issues-persist-in-those-hospitalised-early-in-pandemic-study-finds)
-- [Two people found dead on yacht in Sydney Harbour amid concerns fumes detected aboard](https://www.theguardian.com/australia-news/article/2024/aug/01/two-people-found-dead-on-yacht-in-sydney-harbour-amid-concerns-fumes-detected-aboard)
+- [A week of escalation in the Middle East - podcast](https://www.theguardian.com/news/audio/2024/aug/02/a-week-of-escalation-in-the-middle-east-podcast)
+- [Venezuela election: US recognises opposition candidate Edmundo González as winner](https://www.theguardian.com/world/article/2024/aug/02/venezuela-election-us-edmundo-gonzalez-maduro-results-disputed)
+- [My adult son has moved back home and is behaving like a teenager – and I’m deeply unhappy](https://www.theguardian.com/lifeandstyle/article/2024/aug/02/my-adult-son-has-moved-back-home-and-is-behaving-like-a-teenager-and-im-deeply-unhappy)
+- [Trust between rider and horse on display at the Paris Olympics shows the best of a sport that has been rocked by scandals | Calla Wahlquist](https://www.theguardian.com/commentisfree/article/2024/aug/02/paris-olympics-2024-equestrian-event-scandals)
+- [Ukraine war briefing: Turkey launches new Ukrainian warship](https://www.theguardian.com/world/article/2024/aug/02/ukraine-war-briefing-turkey-launches-new-ukrainian-warship)
+- [Serial killer Levi Bellfield blocked from having civil partnership](https://www.theguardian.com/law/article/2024/aug/02/levi-bellfield-blocked-civil-partnership-victims-prisoners-act)
+- [Fantasmas review – this wildly creative comedy is a beacon of hope for TV’s future](https://www.theguardian.com/tv-and-radio/article/2024/aug/01/fantasmas-review-this-wildly-creative-comedy-is-a-beacon-of-hope-for-tvs-future)
+- [Andy Murray’s tearful farewell, Simone Biles’ brilliance and boxing controversy](https://www.theguardian.com/sport/article/2024/aug/01/andy-murrays-tearful-farewell-simone-biles-brilliance-and-boxing-controversy)
+- [Apple beats earnings forecast despite decline in iPhone sales](https://www.theguardian.com/technology/article/2024/aug/01/apple-earnings-china-market-iphone-sales)
+- [Russia frees Evan Gershkovich and others in biggest prisoner swap since cold war](https://www.theguardian.com/world/article/2024/aug/01/evan-gershkovich-other-foreign-citizens-freed-russia-prisoner-swap)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

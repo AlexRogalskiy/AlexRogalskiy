@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Compared to other distros, Vanilla OS 2 &#39;Orchid&#39; is rewriting how Linux works](https://www.theregister.com/2024/07/31/vanilla_os_friendly_radical/)
-- [Rust Just Failed an Important Test](https://mccue.dev/pages/7-31-24-rust-just-failed-its-test)
-- [Etleap &lpar;YC W13&rpar; Is Hiring a Customer Success Manager &lpar;SF&rpar;](https://etleap.com/careers/customer-success-manager/)
-- [SnowflakeOS: Beginner friendly and GUI focused NixOS variant](https://snowflakeos.org/)
-- [Suspicious data pattern in recent Venezuelan election](https://statmodeling.stat.columbia.edu/2024/07/31/suspicious-data-pattern-in-recent-venezuelan-election/)
-- [Cardie – An open source business card designer and sharing platform](https://github.com/nfoert/cardie)
-- [Skribilo: The Document Programming Framework](https://www.nongnu.org/skribilo/)
-- [Launch HN: Martin &lpar;YC S23&rpar; – Using LLMs to Make a Better Siri](https://news.ycombinator.com/item?id=41119443)
-- [How great was the Great Oxidation Event?](https://eos.org/science-updates/how-great-was-the-great-oxidation-event)
-- [Fast Multidimensional Matrix Multiplication on CPU from Scratch &lpar;2022&rpar;](https://siboehm.com/articles/22/Fast-MMM-on-CPU)
+- [YC closes deal with Google for dedicated compute cluster for AI startups](https://techcrunch.com/2024/08/01/google-cloud-now-has-a-dedicated-cluster-of-nvidia-gpus-for-y-combinator-startups/)
+- [Tensorfuse &lpar;YC W24&rpar; Is Hiring](https://www.ycombinator.com/companies/tensorfuse/jobs/0AMFnY4-systems-infrastructure-engineer)
+- [xdg-override: change default application temporarily on Linux](https://github.com/koiuo/xdg-override)
+- [Scenefx: a drop-in replacement for the wlroots scene API](https://github.com/wlrfx/scenefx)
+- [InstantSplat: Sparse-View SfM-Free Gaussian Splatting in Seconds](https://instantsplat.github.io/)
+- [GitOpper: GitOps Without Kubernetes](https://github.com/miekg/gitopper)
+- [Why CSV is still king](https://konbert.com/blog/why-csv-is-still-king)
+- [DIY, 8mm film scanner Kotokino Mark IV &lpar;2020&rpar;](https://www.sabulo.com/sb/3d-printing-2/8mm-film-scanner-kotokino-mark-iv/)
+- [Russ Cox is stepping down as the Go tech lead](https://groups.google.com/g/golang-dev/c/0OqBkS2RzWw)
+- [Threat actor abuses Cloudflare tunnels to deliver remote access trojans](https://www.proofpoint.com/us/blog/threat-insight/threat-actor-abuses-cloudflare-tunnels-deliver-rats)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

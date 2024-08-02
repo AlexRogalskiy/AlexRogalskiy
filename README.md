@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Microsoft says OpenAI is now a competitor in AI and search](https://www.cnbc.com/2024/07/31/microsoft-says-openai-is-now-a-competitor-in-ai-and-search.html)
-- [How to Build Your First AI Model: A Comprehensive Guide](https://heyvivek.com/how-to-build-your-first-ai-model-a-comprehensive-guide)
-- [NEPA Will Tax Clean Energy](https://ifp.org/how-nepa-will-tax-clean-energy/)
-- [Semaphores in Golang and GNU Make](https://dotat.at/@/2024-07-18-semaphores.html?continueFlag=765aad8b2b9746a69ebd41a9010211e9)
-- [Open Source projects vs. products: A strategic approach](https://opensource.net/open-source-projects-vs-products/)
-- [The Genomic Code: The genome instantiates a generative model of the organism](https://arxiv.org/abs/2407.15908)
-- [Logitech Considers &#39;Forever Mouse&#39; with Subscription Fee](https://www.macrumors.com/2024/07/31/logitech-forever-mouse/)
-- [Dynamic DNS with Cloudflare](https://github.com/lsgrep/cfbind)
-- [7M pounds of meat recalled amid deadly outbreak](https://arstechnica.com/science/2024/07/7-million-pounds-of-meat-recalled-amid-deadly-outbreak/)
-- [How Does OpenAI Survive](https://www.wheresyoured.at/to-serve-altman/)
+- [ROMhacking Moves to News Only, Database and Archive Released to Internet Archive](https://www.romhacking.net/forum/index.php?topic=39405.0)
+- [Maximal Min&lpar;&rpar; and Max&lpar;&rpar;](https://lwn.net/SubscriberLink/983965/2c6b5cdbe464e851/)
+- [Romhacking.net Archives Its Database](https://www.romhacking.net//#article3074)
+- [This Is What Software Development Looks Like Now](https://newsletter.goodtechthings.com/p/this-is-what-software-development)
+- [At the Olympics, AI is watching you](https://www.wired.com/story/at-the-olympics-ai-algorithms-are-watching-you/)
+- [Autonomous Improvement of Instruction Following Skills via Foundation Models](https://auto-improvement.github.io/?continueFlag=82dcd0be18e55ba47455de5959b46f0a)
+- [Dune Analytics Improved Dune API Using DuckDB](https://dune.com/blog/how-weve-improved-dune-api-using-duckdb)
+- [Odown](https://odown.io)
+- [Is Sleep Training Harmful?](https://pudding.cool/2024/07/sleep-training/)
+- [PSA: Internet Archive &quot;glitch&quot; deletes years of user data and accounts](https://blog.gingerbeardman.com/2024/08/01/psa-internet-archive-glitch-deletes-years-of-user-data-and-accounts/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

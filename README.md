@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [YC closes deal with Google for dedicated compute cluster for AI startups](https://techcrunch.com/2024/08/01/google-cloud-now-has-a-dedicated-cluster-of-nvidia-gpus-for-y-combinator-startups/)
-- [Tensorfuse &lpar;YC W24&rpar; Is Hiring](https://www.ycombinator.com/companies/tensorfuse/jobs/0AMFnY4-systems-infrastructure-engineer)
-- [xdg-override: change default application temporarily on Linux](https://github.com/koiuo/xdg-override)
-- [Scenefx: a drop-in replacement for the wlroots scene API](https://github.com/wlrfx/scenefx)
-- [InstantSplat: Sparse-View SfM-Free Gaussian Splatting in Seconds](https://instantsplat.github.io/)
-- [GitOpper: GitOps Without Kubernetes](https://github.com/miekg/gitopper)
-- [Why CSV is still king](https://konbert.com/blog/why-csv-is-still-king)
-- [DIY, 8mm film scanner Kotokino Mark IV &lpar;2020&rpar;](https://www.sabulo.com/sb/3d-printing-2/8mm-film-scanner-kotokino-mark-iv/)
-- [Russ Cox is stepping down as the Go tech lead](https://groups.google.com/g/golang-dev/c/0OqBkS2RzWw)
-- [Threat actor abuses Cloudflare tunnels to deliver remote access trojans](https://www.proofpoint.com/us/blog/threat-insight/threat-actor-abuses-cloudflare-tunnels-deliver-rats)
+- [China is slowly joining the economic war against Russia](http://jpkoning.blogspot.com/2024/07/china-is-slowly-joining-economic-war.html)
+- [Promising therapy treatment killing glioblastoma cells in new brain pathway](https://medicalxpress.com/news/2024-08-therapy-treatment-glioblastoma-cells-newly.html)
+- [The Future of Kdb+](https://www.timestored.com/b/the-future-of-kdb/)
+- [EWritable – e-ink tablet news and reviews](https://ewritable.com/)
+- [DSCv3, the latest iteration of Microsoft&#39;s Desired State Configuration platform](https://github.com/PowerShell/DSC)
+- [Judges suspends FCC net neutrality restoration rule](https://www.inc.com/bruce-crumley/judges-suspend-fcc-net-neutrality-restoration-rule.html)
+- [Towards userspaceification of POSIX – part I: signal handling and IO](https://www.redox-os.org/news/kernel-11/)
+- [Magnetically levitated space elevator to low-earth orbit [pdf] &lpar;2001&rpar;](https://publications.anl.gov/anlpubs/2001/07/39886.pdf)
+- [Lisp with GC in 436 Bytes](https://justine.lol/sectorlisp2/)
+- [1991 WWW-NeXT Implementation](https://github.com/simonw/1991-WWW-NeXT-Implementation)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

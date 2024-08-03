@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [ROMhacking Moves to News Only, Database and Archive Released to Internet Archive](https://www.romhacking.net/forum/index.php?topic=39405.0)
-- [Maximal Min&lpar;&rpar; and Max&lpar;&rpar;](https://lwn.net/SubscriberLink/983965/2c6b5cdbe464e851/)
-- [Romhacking.net Archives Its Database](https://www.romhacking.net//#article3074)
-- [This Is What Software Development Looks Like Now](https://newsletter.goodtechthings.com/p/this-is-what-software-development)
-- [At the Olympics, AI is watching you](https://www.wired.com/story/at-the-olympics-ai-algorithms-are-watching-you/)
-- [Autonomous Improvement of Instruction Following Skills via Foundation Models](https://auto-improvement.github.io/?continueFlag=82dcd0be18e55ba47455de5959b46f0a)
-- [Dune Analytics Improved Dune API Using DuckDB](https://dune.com/blog/how-weve-improved-dune-api-using-duckdb)
-- [Odown](https://odown.io)
-- [Is Sleep Training Harmful?](https://pudding.cool/2024/07/sleep-training/)
-- [PSA: Internet Archive &quot;glitch&quot; deletes years of user data and accounts](https://blog.gingerbeardman.com/2024/08/01/psa-internet-archive-glitch-deletes-years-of-user-data-and-accounts/)
+- [Defense secretary revokes plea deal with accused 9/11 plotters](https://www.npr.org/2024/08/02/g-s1-15201/9-11-plotters)
+- [Laser eye surgery made my vision WORSE [video]](https://www.youtube.com/watch?v=xQDAXSbwhR0)
+- [Show HN: I made a public, multiplayer Game of Life](https://4ever-gol.vercel.app/)
+- [Meta&#39;s Joe Spisak on Llama 3.1 405B [video]](https://www.youtube.com/watch?v=XPePYzbRILg)
+- [Show HN: webhooked.email &lpar;2023&rpar;](https://news.ycombinator.com/item?id=41144227)
+- [Federal Appeals Court Rules Fair Use May Be Narrowed to Serve Hollywood Profits](https://www.eff.org/deeplinks/2024/08/federal-appeals-court-rules-fair-use-may-be-narrowed-serve-hollywood-profits)
+- [The 1977 Russian Flu](https://en.wikipedia.org/wiki/1977_Russian_flu)
+- [Nerve fibres in the brain could generate quantum entanglement](https://www.newscientist.com/article/2441936-nerve-fibres-in-the-brain-could-generate-quantum-entanglement/)
+- [Maui Wildfire Plaintiffs Reach $4B Settlement as Anniversary Nears](https://www.nytimes.com/2024/08/02/us/maui-wildfire-hawaii-settlement.html)
+- [Printf Is Weird](https://sarah.engineer/posts/printf-is-weird/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

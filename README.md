@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [A week of escalation in the Middle East - podcast](https://www.theguardian.com/news/audio/2024/aug/02/a-week-of-escalation-in-the-middle-east-podcast)
-- [Venezuela election: US recognises opposition candidate Edmundo González as winner](https://www.theguardian.com/world/article/2024/aug/02/venezuela-election-us-edmundo-gonzalez-maduro-results-disputed)
-- [My adult son has moved back home and is behaving like a teenager – and I’m deeply unhappy](https://www.theguardian.com/lifeandstyle/article/2024/aug/02/my-adult-son-has-moved-back-home-and-is-behaving-like-a-teenager-and-im-deeply-unhappy)
-- [Trust between rider and horse on display at the Paris Olympics shows the best of a sport that has been rocked by scandals | Calla Wahlquist](https://www.theguardian.com/commentisfree/article/2024/aug/02/paris-olympics-2024-equestrian-event-scandals)
-- [Ukraine war briefing: Turkey launches new Ukrainian warship](https://www.theguardian.com/world/article/2024/aug/02/ukraine-war-briefing-turkey-launches-new-ukrainian-warship)
-- [Serial killer Levi Bellfield blocked from having civil partnership](https://www.theguardian.com/law/article/2024/aug/02/levi-bellfield-blocked-civil-partnership-victims-prisoners-act)
-- [Fantasmas review – this wildly creative comedy is a beacon of hope for TV’s future](https://www.theguardian.com/tv-and-radio/article/2024/aug/01/fantasmas-review-this-wildly-creative-comedy-is-a-beacon-of-hope-for-tvs-future)
-- [Andy Murray’s tearful farewell, Simone Biles’ brilliance and boxing controversy](https://www.theguardian.com/sport/article/2024/aug/01/andy-murrays-tearful-farewell-simone-biles-brilliance-and-boxing-controversy)
-- [Apple beats earnings forecast despite decline in iPhone sales](https://www.theguardian.com/technology/article/2024/aug/01/apple-earnings-china-market-iphone-sales)
-- [Russia frees Evan Gershkovich and others in biggest prisoner swap since cold war](https://www.theguardian.com/world/article/2024/aug/01/evan-gershkovich-other-foreign-citizens-freed-russia-prisoner-swap)
+- [Pentagon chief Lloyd Austin revokes plea deal for accused 9/11 plotters](https://www.theguardian.com/us-news/article/2024/aug/02/lloyd-austin-revokes-plea-deal-9-11)
+- [US bolsters military presence in Middle East as threat of regional escalation intensifies](https://www.theguardian.com/world/article/2024/aug/03/us-bolsters-military-presence-in-middle-east-as-threat-of-regional-escalation-intensifies)
+- [Eight people arrested and three police injured in Sunderland after another night of disorder](https://www.theguardian.com/uk-news/article/2024/aug/02/beer-barrels-and-stones-thrown-at-police-in-sunderland-as-uk-unrest-rolls-on)
+- [Huw Edwards should return BBC salary paid after arrest, says Lisa Nandy](https://www.theguardian.com/media/article/2024/aug/02/huw-edwards-should-return-bbc-salary-paid-after-arrest-says-lisa-nandy)
+- [After 16 months behind bars, my friend Evan Gershkovich is free](https://www.theguardian.com/world/article/2024/aug/03/evan-gershkovich-after-16-months-behind-bars-my-friend-is-free)
+- [The Walking Dead: Daryl Dixon review – finally, the zombie show has a spinoff you can actually care about](https://www.theguardian.com/tv-and-radio/article/2024/aug/02/the-walking-dead-daryl-dixon-review-finally-the-zombie-show-has-a-spinoff-you-can-actually-care-about)
+- [Team GB sweep up three more golds and make fast track start on fab Friday](https://www.theguardian.com/sport/article/2024/aug/02/team-gb-sweep-up-three-more-golds-and-make-fast-track-start-on-fab-friday)
+- [Emma Raducanu loses marathon quarter-final to Badosa in Washington](https://www.theguardian.com/sport/article/2024/aug/02/emma-raducanu-loses-marathon-quarter-final-in-washington)
+- [Shriever beaten and Whyte crashes out as Team GB’s BMX hopes disappear](https://www.theguardian.com/sport/article/2024/aug/02/shriever-beaten-and-whyte-crashes-out-as-team-gbs-bmx-hopes-disappear)
+- [Marchand races to fourth Olympic gold while Scott claims another silver](https://www.theguardian.com/sport/article/2024/aug/02/leon-marchand-races-to-fourth-olympic-gold-cheered-on-by-president-macron)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

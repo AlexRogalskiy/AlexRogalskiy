@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Defense secretary revokes plea deal with accused 9/11 plotters](https://www.npr.org/2024/08/02/g-s1-15201/9-11-plotters)
-- [Laser eye surgery made my vision WORSE [video]](https://www.youtube.com/watch?v=xQDAXSbwhR0)
-- [Show HN: I made a public, multiplayer Game of Life](https://4ever-gol.vercel.app/)
-- [Meta&#39;s Joe Spisak on Llama 3.1 405B [video]](https://www.youtube.com/watch?v=XPePYzbRILg)
-- [Show HN: webhooked.email &lpar;2023&rpar;](https://news.ycombinator.com/item?id=41144227)
-- [Federal Appeals Court Rules Fair Use May Be Narrowed to Serve Hollywood Profits](https://www.eff.org/deeplinks/2024/08/federal-appeals-court-rules-fair-use-may-be-narrowed-serve-hollywood-profits)
-- [The 1977 Russian Flu](https://en.wikipedia.org/wiki/1977_Russian_flu)
-- [Nerve fibres in the brain could generate quantum entanglement](https://www.newscientist.com/article/2441936-nerve-fibres-in-the-brain-could-generate-quantum-entanglement/)
-- [Maui Wildfire Plaintiffs Reach $4B Settlement as Anniversary Nears](https://www.nytimes.com/2024/08/02/us/maui-wildfire-hawaii-settlement.html)
-- [Printf Is Weird](https://sarah.engineer/posts/printf-is-weird/)
+- [CompressO: Free and Open-Sourced Video Compression Desktop App](https://github.com/codeforreal1/compressO)
+- [Bitcode: A fast highly compressible binary encoder/decoder for Rust](https://github.com/SoftbearStudios/bitcode)
+- [Cyberduck is a libre, cross-protocol file transfer client for Mac and Windows](https://github.com/iterate-ch/cyberduck)
+- [File.love – Minimal P2P file transfer right in the browser](https://github.com/midzer/filelove)
+- [Balancing Speed and Experience: Optimal Pool Depth for Competitive Swimming](https://www.aquaticsintl.com/facilities/balancing-speed-and-experience-optimal-pool-depth-for-competitive-swimming_o)
+- [Tesla Full Self-Driving data makes Elon Musk lower expectations](https://electrek.co/2024/08/01/tesla-full-self-driving-data-makes-elon-musk-reduce-expectations/)
+- [Cancel Your Gravatar, Now](https://rubenerd.com/cancel-your-gravatar-now/)
+- [The AI Believers](https://gerrymcgovern.com/the-ai-believers/)
+- [Bird flu cases among farm workers may be going undetected, a study suggests](https://www.npr.org/sections/shots-health-news/2024/07/31/nx-s1-5059071/bird-flu-human-cases-farm-workers-testing)
+- [Serial vs. UUID for primary keys when sharding](https://news.ycombinator.com/item?id=41150617)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

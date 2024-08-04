@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Pentagon chief Lloyd Austin revokes plea deal for accused 9/11 plotters](https://www.theguardian.com/us-news/article/2024/aug/02/lloyd-austin-revokes-plea-deal-9-11)
-- [US bolsters military presence in Middle East as threat of regional escalation intensifies](https://www.theguardian.com/world/article/2024/aug/03/us-bolsters-military-presence-in-middle-east-as-threat-of-regional-escalation-intensifies)
-- [Eight people arrested and three police injured in Sunderland after another night of disorder](https://www.theguardian.com/uk-news/article/2024/aug/02/beer-barrels-and-stones-thrown-at-police-in-sunderland-as-uk-unrest-rolls-on)
-- [Huw Edwards should return BBC salary paid after arrest, says Lisa Nandy](https://www.theguardian.com/media/article/2024/aug/02/huw-edwards-should-return-bbc-salary-paid-after-arrest-says-lisa-nandy)
-- [After 16 months behind bars, my friend Evan Gershkovich is free](https://www.theguardian.com/world/article/2024/aug/03/evan-gershkovich-after-16-months-behind-bars-my-friend-is-free)
-- [The Walking Dead: Daryl Dixon review – finally, the zombie show has a spinoff you can actually care about](https://www.theguardian.com/tv-and-radio/article/2024/aug/02/the-walking-dead-daryl-dixon-review-finally-the-zombie-show-has-a-spinoff-you-can-actually-care-about)
-- [Team GB sweep up three more golds and make fast track start on fab Friday](https://www.theguardian.com/sport/article/2024/aug/02/team-gb-sweep-up-three-more-golds-and-make-fast-track-start-on-fab-friday)
-- [Emma Raducanu loses marathon quarter-final to Badosa in Washington](https://www.theguardian.com/sport/article/2024/aug/02/emma-raducanu-loses-marathon-quarter-final-in-washington)
-- [Shriever beaten and Whyte crashes out as Team GB’s BMX hopes disappear](https://www.theguardian.com/sport/article/2024/aug/02/shriever-beaten-and-whyte-crashes-out-as-team-gbs-bmx-hopes-disappear)
-- [Marchand races to fourth Olympic gold while Scott claims another silver](https://www.theguardian.com/sport/article/2024/aug/02/leon-marchand-races-to-fourth-olympic-gold-cheered-on-by-president-macron)
+- [North Korea floods: Putin pledges aid after Kim Jong-un rebuffs Seoul’s offer of assistance](https://www.theguardian.com/world/article/2024/aug/04/north-korea-floods-putin-pledges-aid-after-kim-jong-un-rebuffs-seouls-offer-of-assistance)
+- [Ukraine war briefing: Zelenskiy hails strikes on Russian targets as Moscow reports drone barrage](https://www.theguardian.com/world/article/2024/aug/04/ukraine-war-briefing-zelenskiy-hails-strikes-on-russian-targets-as-moscow-reports-drone-barrage)
+- [Football friendlies: Haaland hits hat-trick as Manchester City sink Chelsea](https://www.theguardian.com/football/article/2024/aug/03/friendly-roundup-tottenham-bayern-munich-newcastle-everton)
+- [The ebike commute challenge: could I do daycare drop-off and get to work faster than driving?](https://www.theguardian.com/lifeandstyle/article/2024/aug/04/the-ebike-commute-challenge-could-i-do-daycare-drop-off-and-get-to-work-faster-than-driving)
+- [Transfer roundup: West Ham close on Füllkrug and sign winger Summerville](https://www.theguardian.com/football/article/2024/aug/03/west-ham--niclas-fullkrug-borussia-dortmund-transfer)
+- [We Love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2024/aug/03/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Trend watch: cool and classy embroidered shirts](https://www.theguardian.com/fashion/article/2024/aug/03/trend-watch-cool-and-classy-embroidered-shirts)
+- [Huge crowds return to Venezuela’s streets to protest against Maduro](https://www.theguardian.com/world/article/2024/aug/03/huge-crowds-return-to-venezuelas-streets-to-protest-against-maduro)
+- [Simon Armitage: ‘You’re not going to get me to say anything bad about any bird’](https://www.theguardian.com/books/article/2024/aug/04/simon-armitage-uk-poet-laureate-10-chaotic-questions)
+- [UK prepares to evacuate civilians from Lebanon as Middle East conflict widens](https://www.theguardian.com/world/article/2024/aug/03/uk-prepares-to-evacuate-civilians-from-lebanon-as-middle-east-conflict-widens)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

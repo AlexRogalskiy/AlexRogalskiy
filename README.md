@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [China is slowly joining the economic war against Russia](http://jpkoning.blogspot.com/2024/07/china-is-slowly-joining-economic-war.html)
-- [Promising therapy treatment killing glioblastoma cells in new brain pathway](https://medicalxpress.com/news/2024-08-therapy-treatment-glioblastoma-cells-newly.html)
-- [The Future of Kdb+](https://www.timestored.com/b/the-future-of-kdb/)
-- [EWritable – e-ink tablet news and reviews](https://ewritable.com/)
-- [DSCv3, the latest iteration of Microsoft&#39;s Desired State Configuration platform](https://github.com/PowerShell/DSC)
-- [Judges suspends FCC net neutrality restoration rule](https://www.inc.com/bruce-crumley/judges-suspend-fcc-net-neutrality-restoration-rule.html)
-- [Towards userspaceification of POSIX – part I: signal handling and IO](https://www.redox-os.org/news/kernel-11/)
-- [Magnetically levitated space elevator to low-earth orbit [pdf] &lpar;2001&rpar;](https://publications.anl.gov/anlpubs/2001/07/39886.pdf)
-- [Lisp with GC in 436 Bytes](https://justine.lol/sectorlisp2/)
-- [1991 WWW-NeXT Implementation](https://github.com/simonw/1991-WWW-NeXT-Implementation)
+- [Nvidia reportedly delays its next AI chip due to a design flaw](https://www.theverge.com/2024/8/3/24212518/nvidia-ai-chip-delay-blackwell-b200-microsoft-amazon-google-openai-meta-artificial-intelligence)
+- [Open Source Farming Robot](https://farm.bot/)
+- [Sega Jet Rocket: The &#39;70s arcade game with no computer or screen](https://newatlas.com/games/sega-jet-rocket-arcade-game/)
+- [Taiwan is behind schedule in preparations to fend off Chinese invasion](https://www.washingtonpost.com/world/2024/08/03/taiwan-china-war-invasion-military-preparedness/)
+- [Can Reading Make You Happier? &lpar;2015&rpar;](https://www.newyorker.com/culture/cultural-comment/can-reading-make-you-happier)
+- [Upgrading my Chumby 8 kernel part 13: the end](https://www.downtowndougbrown.com/2024/08/upgrading-my-chumby-8-kernel-part-13-the-end/)
+- [Non-computability of solutions of certain equations on digital computers &lpar;2022&rpar;](https://arxiv.org/abs/2205.12626)
+- [What are the odds, II: the Venezuelan presidential election](https://terrytao.wordpress.com/2024/08/02/what-are-the-odds-ii-the-venezuelan-presidential-election/)
+- [Reverse engineering XC2064, the first FPGA  &lpar;2020&rpar;](https://www.righto.com/2020/09/reverse-engineering-first-fpga-chip.html)
+- [The First Law of Complexodynamics &lpar;2011&rpar;](https://scottaaronson.blog/?p=762)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [North Korea floods: Putin pledges aid after Kim Jong-un rebuffs Seoul’s offer of assistance](https://www.theguardian.com/world/article/2024/aug/04/north-korea-floods-putin-pledges-aid-after-kim-jong-un-rebuffs-seouls-offer-of-assistance)
-- [Ukraine war briefing: Zelenskiy hails strikes on Russian targets as Moscow reports drone barrage](https://www.theguardian.com/world/article/2024/aug/04/ukraine-war-briefing-zelenskiy-hails-strikes-on-russian-targets-as-moscow-reports-drone-barrage)
-- [Football friendlies: Haaland hits hat-trick as Manchester City sink Chelsea](https://www.theguardian.com/football/article/2024/aug/03/friendly-roundup-tottenham-bayern-munich-newcastle-everton)
-- [The ebike commute challenge: could I do daycare drop-off and get to work faster than driving?](https://www.theguardian.com/lifeandstyle/article/2024/aug/04/the-ebike-commute-challenge-could-i-do-daycare-drop-off-and-get-to-work-faster-than-driving)
-- [Transfer roundup: West Ham close on Füllkrug and sign winger Summerville](https://www.theguardian.com/football/article/2024/aug/03/west-ham--niclas-fullkrug-borussia-dortmund-transfer)
-- [We Love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2024/aug/03/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Trend watch: cool and classy embroidered shirts](https://www.theguardian.com/fashion/article/2024/aug/03/trend-watch-cool-and-classy-embroidered-shirts)
-- [Huge crowds return to Venezuela’s streets to protest against Maduro](https://www.theguardian.com/world/article/2024/aug/03/huge-crowds-return-to-venezuelas-streets-to-protest-against-maduro)
-- [Simon Armitage: ‘You’re not going to get me to say anything bad about any bird’](https://www.theguardian.com/books/article/2024/aug/04/simon-armitage-uk-poet-laureate-10-chaotic-questions)
-- [UK prepares to evacuate civilians from Lebanon as Middle East conflict widens](https://www.theguardian.com/world/article/2024/aug/03/uk-prepares-to-evacuate-civilians-from-lebanon-as-middle-east-conflict-widens)
+- [A death at work in the age of extreme heat – podcast](https://www.theguardian.com/news/audio/2024/aug/05/a-death-at-work-in-the-age-of-extreme-heat-podcast)
+- [RFK Jr says he was behind mystery of dead bear dumped in Central Park with bicycle](https://www.theguardian.com/us-news/article/2024/aug/05/rfk-jr-kennedy-bear-story-central-park-new-york)
+- [Nicolás Maduro vows to ‘pulverise’ challenge to his rule after disputed Venezuela election](https://www.theguardian.com/world/article/2024/aug/05/nicolas-maduro-venezuela-election-crackdown)
+- [Ukraine war briefing: Ukrainians sink Russian submarine and blow up airbase – officials](https://www.theguardian.com/world/article/2024/aug/05/ukraine-war-briefing-ukrainians-sink-russian-submarine-and-blow-up-airbase-officials)
+- [Pharmacies in England cutting services amid financial pressures, research finds](https://www.theguardian.com/society/article/2024/aug/05/pharmacies-england-cutting-services-financial-pressures-research)
+- [Premier League 2024-25 preview No 1: Arsenal](https://www.theguardian.com/football/article/2024/aug/05/premier-league-2024-25-preview-no-1-arsenal)
+- [Large English vineyards mark boom year as output and investment soars](https://www.theguardian.com/business/article/2024/aug/05/large-english-vineyards-mark-boom-year-as-output-and-investment-soars)
+- [Neuralink has implanted second trial patient with brain chip, Elon Musk says](https://www.theguardian.com/technology/article/2024/aug/04/neuralink-elon-musk-second-trial-patient-brain-chip)
+- [Rioters try to torch Rotherham asylum seeker hotel amid far-right violence](https://www.theguardian.com/uk-news/article/2024/aug/04/rioters-try-to-torch-rotherham-asylum-seeker-hotel-amid-far-right-violence)
+- [Lyles and Mahuchikh win memorable golds as Djokovic ends his long wait](https://www.theguardian.com/sport/article/2024/aug/04/lyles-and-mahuchikh-win-memorable-golds-as-djokovic-ends-his-long-wait)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

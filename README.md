@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Nvidia reportedly delays its next AI chip due to a design flaw](https://www.theverge.com/2024/8/3/24212518/nvidia-ai-chip-delay-blackwell-b200-microsoft-amazon-google-openai-meta-artificial-intelligence)
-- [Open Source Farming Robot](https://farm.bot/)
-- [Sega Jet Rocket: The &#39;70s arcade game with no computer or screen](https://newatlas.com/games/sega-jet-rocket-arcade-game/)
-- [Taiwan is behind schedule in preparations to fend off Chinese invasion](https://www.washingtonpost.com/world/2024/08/03/taiwan-china-war-invasion-military-preparedness/)
-- [Can Reading Make You Happier? &lpar;2015&rpar;](https://www.newyorker.com/culture/cultural-comment/can-reading-make-you-happier)
-- [Upgrading my Chumby 8 kernel part 13: the end](https://www.downtowndougbrown.com/2024/08/upgrading-my-chumby-8-kernel-part-13-the-end/)
-- [Non-computability of solutions of certain equations on digital computers &lpar;2022&rpar;](https://arxiv.org/abs/2205.12626)
-- [What are the odds, II: the Venezuelan presidential election](https://terrytao.wordpress.com/2024/08/02/what-are-the-odds-ii-the-venezuelan-presidential-election/)
-- [Reverse engineering XC2064, the first FPGA  &lpar;2020&rpar;](https://www.righto.com/2020/09/reverse-engineering-first-fpga-chip.html)
-- [The First Law of Complexodynamics &lpar;2011&rpar;](https://scottaaronson.blog/?p=762)
+- [Japan stocks plunge as much as 7% as Asia shares extend sell-off](https://www.cnbc.com/2024/08/05/asia-markets.html)
+- [How I Program in 2024](http://akkartik.name/post/programming-2024)
+- [Writing a system call tracer using eBPF](https://sh4dy.com/2024/08/03/beetracer/)
+- [Show HN: Free e-book about WebGPU Programming](https://shi-yan.github.io/webgpuunleashed/)
+- [Age is a simple, modern and secure file encryption tool, format, and Go library](https://github.com/FiloSottile/age)
+- [Show HN: AI-Powered Stock Market Analyst with Global Coverage](https://decodeinvesting.com/chat)
+- [Cortex A73&#39;s Not-So-Infinite Reordering Capacity](https://chipsandcheese.com/2024/08/04/cortex-a73s-not-so-infinite-reordering-capacity/)
+- [Qub – a framework for building websites with QBasic](https://github.com/jamonholmgren/qub)
+- [Romram: Using QSPI RAM with RP2040&#39;s SSI in read-write mode](http://dmitry.gr/?r=06.%20Thoughts&proj=10.%20RomRam)
+- [Puget Systems&#39; Perspective on Intel CPU Instability Issues](https://www.pugetsystems.com/blog/2024/08/02/puget-systems-perspective-on-intel-cpu-instability-issues/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [CompressO: Free and Open-Sourced Video Compression Desktop App](https://github.com/codeforreal1/compressO)
-- [Bitcode: A fast highly compressible binary encoder/decoder for Rust](https://github.com/SoftbearStudios/bitcode)
-- [Cyberduck is a libre, cross-protocol file transfer client for Mac and Windows](https://github.com/iterate-ch/cyberduck)
-- [File.love – Minimal P2P file transfer right in the browser](https://github.com/midzer/filelove)
-- [Balancing Speed and Experience: Optimal Pool Depth for Competitive Swimming](https://www.aquaticsintl.com/facilities/balancing-speed-and-experience-optimal-pool-depth-for-competitive-swimming_o)
-- [Tesla Full Self-Driving data makes Elon Musk lower expectations](https://electrek.co/2024/08/01/tesla-full-self-driving-data-makes-elon-musk-reduce-expectations/)
-- [Cancel Your Gravatar, Now](https://rubenerd.com/cancel-your-gravatar-now/)
-- [The AI Believers](https://gerrymcgovern.com/the-ai-believers/)
-- [Bird flu cases among farm workers may be going undetected, a study suggests](https://www.npr.org/sections/shots-health-news/2024/07/31/nx-s1-5059071/bird-flu-human-cases-farm-workers-testing)
-- [Serial vs. UUID for primary keys when sharding](https://news.ycombinator.com/item?id=41150617)
+- [The Unraveling of a Charity&#39;s Feel-Good Story About Saving African Orphans](https://www.wsj.com/world/africa/adoptions-africa-orphans-investigation-malawi-carney-d32a0495)
+- [Tumbleweeds: The fastest plant invasion in the USA&#39;s history](https://www.nhm.ac.uk/discover/tumbleweeds-fastest-plant-invasion-in-usa-history.html)
+- [Japan stocks plunge as much as 7% as Asia shares extend sell-off](https://www.cnbc.com/2024/08/05/asia-markets.html)
+- [50 years ago, CP/M started the microcomputer revolution](https://www.theregister.com/2024/08/02/cpm_50th_anniversary/)
+- [Building Lego Machines to Destroy Tall Lego Towers](https://kottke.org/24/07/building-lego-machines-to-destroy-tall-lego-towers)
+- [China&#39;s Plan to Defeat the West](https://unherd.com/2024/08/chinas-plan-to-defeat-the-west/)
+- [Gone are the days of taking a call in the open&#39;: why office pods are everywhere](https://www.ft.com/content/d34f4b8b-e48e-412f-ace4-65460b9e2fb9)
+- [Everything&#39;s Still Awesome: Lego at 75](https://www.esquire.com/uk/design/a61654783/everythings-still-awesome-lego-at-75/)
+- [Plasma infrared fingerprinting with ML enables multi-phenotype health screening](https://linkinghub.elsevier.com/retrieve/pii/S266637912400329X)
+- [Using personal weeknotes as a tool for attention](https://tracydurnell.com/2024/07/30/using-personal-weeknotes-as-a-tool-for-attention/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

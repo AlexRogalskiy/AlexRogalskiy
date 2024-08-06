@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [A death at work in the age of extreme heat – podcast](https://www.theguardian.com/news/audio/2024/aug/05/a-death-at-work-in-the-age-of-extreme-heat-podcast)
-- [RFK Jr says he was behind mystery of dead bear dumped in Central Park with bicycle](https://www.theguardian.com/us-news/article/2024/aug/05/rfk-jr-kennedy-bear-story-central-park-new-york)
-- [Nicolás Maduro vows to ‘pulverise’ challenge to his rule after disputed Venezuela election](https://www.theguardian.com/world/article/2024/aug/05/nicolas-maduro-venezuela-election-crackdown)
-- [Ukraine war briefing: Ukrainians sink Russian submarine and blow up airbase – officials](https://www.theguardian.com/world/article/2024/aug/05/ukraine-war-briefing-ukrainians-sink-russian-submarine-and-blow-up-airbase-officials)
-- [Pharmacies in England cutting services amid financial pressures, research finds](https://www.theguardian.com/society/article/2024/aug/05/pharmacies-england-cutting-services-financial-pressures-research)
-- [Premier League 2024-25 preview No 1: Arsenal](https://www.theguardian.com/football/article/2024/aug/05/premier-league-2024-25-preview-no-1-arsenal)
-- [Large English vineyards mark boom year as output and investment soars](https://www.theguardian.com/business/article/2024/aug/05/large-english-vineyards-mark-boom-year-as-output-and-investment-soars)
-- [Neuralink has implanted second trial patient with brain chip, Elon Musk says](https://www.theguardian.com/technology/article/2024/aug/04/neuralink-elon-musk-second-trial-patient-brain-chip)
-- [Rioters try to torch Rotherham asylum seeker hotel amid far-right violence](https://www.theguardian.com/uk-news/article/2024/aug/04/rioters-try-to-torch-rotherham-asylum-seeker-hotel-amid-far-right-violence)
-- [Lyles and Mahuchikh win memorable golds as Djokovic ends his long wait](https://www.theguardian.com/sport/article/2024/aug/04/lyles-and-mahuchikh-win-memorable-golds-as-djokovic-ends-his-long-wait)
+- [Inside the prisoner exchange that set an American journalist free - podcast](https://www.theguardian.com/news/audio/2024/aug/06/inside-the-prisoner-exchange-that-set-an-american-journalist-free-podcast)
+- [Tunisia court jails potential presidential candidates and bars them from upcoming election](https://www.theguardian.com/world/article/2024/aug/06/tunisia-presidential-candidates-jailed-election)
+- [Google broke law to maintain online search monopoly, US judge rules](https://www.theguardian.com/technology/article/2024/aug/05/google-loses-antitrust-lawsuit)
+- [Ukraine war briefing: Backlash at freed Russians calling for eased sanctions and negotiation](https://www.theguardian.com/world/article/2024/aug/06/ukraine-war-briefing-backlash-at-freed-russians-calling-for-eased-sanctions-and-negotiation)
+- [Paris Olympics deal hands Discovery+ gold in UK TV streaming race](https://www.theguardian.com/media/article/2024/aug/06/paris-olympics-deal-hands-discovery-gold-in-uk-tv-streaming-race)
+- [Premier League 2024-25 preview No 3: Bournemouth](https://www.theguardian.com/football/article/2024/aug/06/premier-league-2024-25-preview-no-3-bournemouth)
+- [‘Celebrations of life’ increasingly replacing traditional funerals in UK, study shows](https://www.theguardian.com/society/article/2024/aug/06/celebrations-of-life-increasingly-replacing-traditional-funerals-in-uk-study-shows)
+- [Jean-Philippe Mateta fires France into Olympic men’s final against Spain](https://www.theguardian.com/sport/article/2024/aug/05/france-spain-paris-olympics-football-jean-phillipe-mateta-crystal-palace)
+- [Mijaín López aims for unparalleled glory in race against the clock](https://www.theguardian.com/sport/article/2024/aug/05/2024-paris-olympic-games-mijain-lopez-greco-roman-wrestling-race-against-clock)
+- [Bloomberg fires reporter for ‘premature’ publication of Evan Gershkovich release – reports](https://www.theguardian.com/us-news/article/2024/aug/05/bloomberg-evan-gershkovich-russia-us-prison-swap)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

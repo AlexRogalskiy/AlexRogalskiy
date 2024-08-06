@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Japan stocks plunge as much as 7% as Asia shares extend sell-off](https://www.cnbc.com/2024/08/05/asia-markets.html)
-- [How I Program in 2024](http://akkartik.name/post/programming-2024)
-- [Writing a system call tracer using eBPF](https://sh4dy.com/2024/08/03/beetracer/)
-- [Show HN: Free e-book about WebGPU Programming](https://shi-yan.github.io/webgpuunleashed/)
-- [Age is a simple, modern and secure file encryption tool, format, and Go library](https://github.com/FiloSottile/age)
-- [Show HN: AI-Powered Stock Market Analyst with Global Coverage](https://decodeinvesting.com/chat)
-- [Cortex A73&#39;s Not-So-Infinite Reordering Capacity](https://chipsandcheese.com/2024/08/04/cortex-a73s-not-so-infinite-reordering-capacity/)
-- [Qub – a framework for building websites with QBasic](https://github.com/jamonholmgren/qub)
-- [Romram: Using QSPI RAM with RP2040&#39;s SSI in read-write mode](http://dmitry.gr/?r=06.%20Thoughts&proj=10.%20RomRam)
-- [Puget Systems&#39; Perspective on Intel CPU Instability Issues](https://www.pugetsystems.com/blog/2024/08/02/puget-systems-perspective-on-intel-cpu-instability-issues/)
+- [The Composer Has No Clothes](https://thebaffler.com/latest/the-composer-has-no-clothes-brown)
+- [Reflex &lpar;YC W23&rpar; Is Hiring a Staff Infrastructure Engineer](https://www.ycombinator.com/companies/reflex/jobs/uBt9ZNP-senior-staff-engineer-infrastructure)
+- [Can we stop the decline of monarch butterflies and other pollinators?](https://www.wisfarmer.com/story/news/2024/08/05/can-we-stop-the-decline-of-monarch-butterflies-and-other-pollinators/74638545007/)
+- [Replacing Liquid Metal on an Asus Zephyrus G15&#39;s CPU](https://flemesre.github.io/posts/liquid-metal-replacement/)
+- [Debugging a rustc segfault on Illumos](https://sunshowers.io/posts/rustc-segfault-illumos/)
+- [Below the Root: A story, a computer game and my lifelong obsession &lpar;2015&rpar;](https://blog.stahlmandesign.com/below-the-root-a-story-a-computer-game-and-my-lifelong-obsession/)
+- [Google loses antitrust suit over search deals on phones](https://www.bloomberg.com/news/articles/2024-08-05/google-loses-doj-antitrust-suit-over-search)
+- [Show HN: Iso20022.js – Create payments in 3 lines of code](https://www.iso20022js.com/)
+- [Undark and the Radium Girls &lpar;2006&rpar;](https://www.damninteresting.com/undark-and-the-radium-girls/)
+- [Launch HN: Airhart Aeronautics &lpar;YC S22&rpar; – A modern personal airplane](https://news.ycombinator.com/item?id=41163382)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

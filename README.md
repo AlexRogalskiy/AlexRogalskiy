@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Unraveling of a Charity&#39;s Feel-Good Story About Saving African Orphans](https://www.wsj.com/world/africa/adoptions-africa-orphans-investigation-malawi-carney-d32a0495)
-- [Tumbleweeds: The fastest plant invasion in the USA&#39;s history](https://www.nhm.ac.uk/discover/tumbleweeds-fastest-plant-invasion-in-usa-history.html)
-- [Japan stocks plunge as much as 7% as Asia shares extend sell-off](https://www.cnbc.com/2024/08/05/asia-markets.html)
-- [50 years ago, CP/M started the microcomputer revolution](https://www.theregister.com/2024/08/02/cpm_50th_anniversary/)
-- [Building Lego Machines to Destroy Tall Lego Towers](https://kottke.org/24/07/building-lego-machines-to-destroy-tall-lego-towers)
-- [China&#39;s Plan to Defeat the West](https://unherd.com/2024/08/chinas-plan-to-defeat-the-west/)
-- [Gone are the days of taking a call in the open&#39;: why office pods are everywhere](https://www.ft.com/content/d34f4b8b-e48e-412f-ace4-65460b9e2fb9)
-- [Everything&#39;s Still Awesome: Lego at 75](https://www.esquire.com/uk/design/a61654783/everythings-still-awesome-lego-at-75/)
-- [Plasma infrared fingerprinting with ML enables multi-phenotype health screening](https://linkinghub.elsevier.com/retrieve/pii/S266637912400329X)
-- [Using personal weeknotes as a tool for attention](https://tracydurnell.com/2024/07/30/using-personal-weeknotes-as-a-tool-for-attention/)
+- [A little bit about Analog Computers](https://www.quantamagazine.org/what-is-analog-computing-20240802/)
+- [I&#39;m taking a sabbatical through end of year](https://twitter.com/gdb/status/1820644694264791459)
+- [No-fault divorce, a target of JD Vance and conservatives](https://www.washingtonpost.com/nation/2024/08/04/no-fault-divorce-jd-vance-women/)
+- [Flavor Flav Wants You to Watch More Water Polo](https://www.nytimes.com/2024/08/05/world/olympics/flavor-flav-water-polo.html)
+- [Daodejing Chapter 67 breakdown: the three treasures &lpar;2023&rpar;](https://brownbeat.medium.com/daodejing-chapter-67-breakdown-28f9aa351017)
+- [Unraveling a key junction underlying muscle contraction](https://www.eurekalert.org/news-releases/1053143)
+- [Why AI Researchers Are Worried About &#39;Model Collapse&#39;](https://www.bloomberg.com/news/articles/2024-08-05/ai-model-collapse-why-researchers-are-raising-alarms)
+- [List of Ig Nobel Prize winners](https://en.wikipedia.org/wiki/List_of_Ig_Nobel_Prize_winners)
+- [Easy GIF Compression](https://www.smushgif.com/)
+- [The Brain Is Not Computable &lpar;2013&rpar;](https://www.technologyreview.com/2013/02/18/180012/the-brain-is-not-computable/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

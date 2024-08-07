@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [A little bit about Analog Computers](https://www.quantamagazine.org/what-is-analog-computing-20240802/)
-- [I&#39;m taking a sabbatical through end of year](https://twitter.com/gdb/status/1820644694264791459)
-- [No-fault divorce, a target of JD Vance and conservatives](https://www.washingtonpost.com/nation/2024/08/04/no-fault-divorce-jd-vance-women/)
-- [Flavor Flav Wants You to Watch More Water Polo](https://www.nytimes.com/2024/08/05/world/olympics/flavor-flav-water-polo.html)
-- [Daodejing Chapter 67 breakdown: the three treasures &lpar;2023&rpar;](https://brownbeat.medium.com/daodejing-chapter-67-breakdown-28f9aa351017)
-- [Unraveling a key junction underlying muscle contraction](https://www.eurekalert.org/news-releases/1053143)
-- [Why AI Researchers Are Worried About &#39;Model Collapse&#39;](https://www.bloomberg.com/news/articles/2024-08-05/ai-model-collapse-why-researchers-are-raising-alarms)
-- [List of Ig Nobel Prize winners](https://en.wikipedia.org/wiki/List_of_Ig_Nobel_Prize_winners)
-- [Easy GIF Compression](https://www.smushgif.com/)
-- [The Brain Is Not Computable &lpar;2013&rpar;](https://www.technologyreview.com/2013/02/18/180012/the-brain-is-not-computable/)
+- [S.F. police are using drones to arrest bipping suspects, officials say](https://www.sfchronicle.com/crime/article/sf-police-drone-arrests-19622925.php)
+- [All SNES enhancement chips and what they did](https://www.youtube.com/watch?v=DcdD4gASDnA)
+- [Cgal: A Powerful Open-Source Computational Geometry Library](https://github.com/CGAL/cgal)
+- [Body temperature variation controls transcription of SARS-CoV-2 replication](https://academic.oup.com/nar/article/50/12/6769/6609820)
+- [Sdfsd](https://dsfdf.com)
+- [Microcredit Pioneer Muhammad Yunus to Lead Caretaker Bangladesh Government](https://www.wsj.com/world/asia/microcredit-pioneer-muhammad-yunus-to-lead-caretaker-bangladesh-government-f7afa348)
+- [John Chowning, Computer Music, DX7 and FM Discovery [video]](https://www.youtube.com/watch?v=Mu8lHX-xuSg)
+- [Backblaze Drive Stats for Q2 2024](https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2024/)
+- [Axios announced it&#39;s laying off 10% of staff in a &#39;cringe&#39; branded memo](https://www.fastcompany.com/91168758/axios-laid-off-branded-memo-workers-say-thats-not-the-worst-part)
+- [MiniCPM-v2.6: GPT-4V Level MLLM for Single/Multi Image and Video on Your Phone](https://github.com/OpenBMB/MiniCPM-V)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

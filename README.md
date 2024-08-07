@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Inside the prisoner exchange that set an American journalist free - podcast](https://www.theguardian.com/news/audio/2024/aug/06/inside-the-prisoner-exchange-that-set-an-american-journalist-free-podcast)
-- [Tunisia court jails potential presidential candidates and bars them from upcoming election](https://www.theguardian.com/world/article/2024/aug/06/tunisia-presidential-candidates-jailed-election)
-- [Google broke law to maintain online search monopoly, US judge rules](https://www.theguardian.com/technology/article/2024/aug/05/google-loses-antitrust-lawsuit)
-- [Ukraine war briefing: Backlash at freed Russians calling for eased sanctions and negotiation](https://www.theguardian.com/world/article/2024/aug/06/ukraine-war-briefing-backlash-at-freed-russians-calling-for-eased-sanctions-and-negotiation)
-- [Paris Olympics deal hands Discovery+ gold in UK TV streaming race](https://www.theguardian.com/media/article/2024/aug/06/paris-olympics-deal-hands-discovery-gold-in-uk-tv-streaming-race)
-- [Premier League 2024-25 preview No 3: Bournemouth](https://www.theguardian.com/football/article/2024/aug/06/premier-league-2024-25-preview-no-3-bournemouth)
-- [‘Celebrations of life’ increasingly replacing traditional funerals in UK, study shows](https://www.theguardian.com/society/article/2024/aug/06/celebrations-of-life-increasingly-replacing-traditional-funerals-in-uk-study-shows)
-- [Jean-Philippe Mateta fires France into Olympic men’s final against Spain](https://www.theguardian.com/sport/article/2024/aug/05/france-spain-paris-olympics-football-jean-phillipe-mateta-crystal-palace)
-- [Mijaín López aims for unparalleled glory in race against the clock](https://www.theguardian.com/sport/article/2024/aug/05/2024-paris-olympic-games-mijain-lopez-greco-roman-wrestling-race-against-clock)
-- [Bloomberg fires reporter for ‘premature’ publication of Evan Gershkovich release – reports](https://www.theguardian.com/us-news/article/2024/aug/05/bloomberg-evan-gershkovich-russia-us-prison-swap)
+- [The imam who reached out to rioters – podcast](https://www.theguardian.com/news/audio/2024/aug/07/the-imam-who-reached-out-to-rioters-podcast)
+- [Ukraine war briefing: ‘Russia does not control Kursk border’](https://www.theguardian.com/world/article/2024/aug/07/ukraine-war-briefing-russia-does-not-control-kursk-border)
+- [‘We’re not doing anything wrong’: why the word Taiwan is banned at the Olympics](https://www.theguardian.com/world/article/2024/aug/07/were-not-doing-anything-wrong-why-the-word-taiwan-is-banned-at-the-olympics)
+- [Thailand facing political upheaval as court set to rule on fate of progressive Move Forward party](https://www.theguardian.com/world/article/2024/aug/07/thailand-court-ruling-move-forward-party-ntwnfb)
+- [Liza Minnelli announces memoir because documentaries ‘didn’t get it right’](https://www.theguardian.com/music/article/2024/aug/07/liza-minnelli-memoir)
+- [Kamala Harris introduces running mate Tim Walz at raucous Philadelphia rally](https://www.theguardian.com/us-news/article/2024/aug/06/kamala-harris-running-mate-tim-walz)
+- [New Zealand’s conservative turn sounds chillingly familiar to Indigenous Australians. Here’s why the Māori fight is our fight | Celeste Liddle](https://www.theguardian.com/commentisfree/article/2024/aug/07/new-zealand-politics-conservative-right-wing-government-comment)
+- [UK recovery ‘will accelerate and force Bank to keep interest rates higher for longer’](https://www.theguardian.com/business/article/2024/aug/07/uk-recovery-will-accelerate-and-force-bank-to-keep-interest-rates-higher-for-longer)
+- [Watchdog bans Gemma Collins advert promoting headset to treat depression](https://www.theguardian.com/society/article/2024/aug/07/watchdog-bans-gemma-collins-advert-promoting-headset-to-treat-depression)
+- [Premier League 2024-25 preview No 5: Brighton](https://www.theguardian.com/football/article/2024/aug/07/premier-league-2024-25-preview-no-5-brighton)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

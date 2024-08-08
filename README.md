@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Jeremy Rowley resigns from DigiCert due to mass-revocation incident](https://bugzilla.mozilla.org/show_bug.cgi?id=1910322)
-- [Medieval](https://teenage.engineering/products/ep-1320)
-- [MNT Pocket Reform first impressions and hardware](https://andypiper.co.uk/2024/08/06/mnt-pocket-reform-first-impressions/)
-- [My favorite device is a Chromebook](https://kokada.capivaras.dev/blog/my-favorite-device-is-a-chromebook/)
-- [How long does Apple support Mac firmware?](https://eclecticlight.co/2024/08/06/how-long-does-apple-support-mac-firmware/)
-- [Please do not attempt to simplify this code](https://github.com/kubernetes/kubernetes/blob/60c4c2b2521fb454ce69dee737e3eb91a25e0535/pkg/controller/volume/persistentvolume/pv_controller.go)
-- [Emerge Tools &lpar;YC W21&rpar; Is Hiring a Product Engineer &lpar;iOS, Full-Stack&rpar;](https://www.emergetools.com/careers/jobs/product-engineer-ios-full-stack)
-- [What purpose did the lower-right Enter key serve on original Mac 128k keyboard?](https://retrocomputing.stackexchange.com/questions/30478/what-purpose-did-the-lower-right-enter-key-serve-on-the-original-mac-128k-keyb)
-- [Show HN: AutoEditor – Edit your video in just a few clicks](https://autoeditor.video/)
-- [Carvings at Gobekli Tepe may be oldest calendar](https://www.tandfonline.com/doi/full/10.1080/1751696X.2024.2373876#abstract)
+- [Bun v1.1.22 – Bun Blog](https://bun.sh/blog/bun-v1.1.22)
+- [Robot Dog with Gun Turret for Hunting Aerial Drones Being Tested by Army](https://www.twz.com/land/robot-dog-with-gun-turret-for-hunting-aerial-drones-being-tested-by-army)
+- [macOS Sequoia adds weekly permission prompt for screen recording apps](https://9to5mac.com/2024/08/06/macos-sequoia-screen-recording-privacy-prompt/)
+- [Argdown, like Markdown for argument mapping](https://argdown.org/)
+- [Judge Fines Ripple $125M, Bans Future Securities Law Violations](https://www.coindesk.com/policy/2024/08/07/judge-fines-ripple-125m-bans-future-securities-law-violations-in-long-running-sec-case/)
+- [The Third Atomic Bomb](https://lflank.wordpress.com/2024/08/06/the-third-atomic-bomb/)
+- [Gazette: Cloud-native millisecond-latency streaming](https://github.com/gazette)
+- [GPT-4 LLM simulates people well enough to replicate social science experiments](https://www.treatmenteffect.app/)
+- [Meticulous &lpar;YC S21&rpar; is hiring to eliminate E2E UI tests](https://news.ycombinator.com/item?id=41185460)
+- [Prevention of HIV](https://www.science.org/content/blog-post/prevention-hiv)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

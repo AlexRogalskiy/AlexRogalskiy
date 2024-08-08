@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [The imam who reached out to rioters – podcast](https://www.theguardian.com/news/audio/2024/aug/07/the-imam-who-reached-out-to-rioters-podcast)
-- [Ukraine war briefing: ‘Russia does not control Kursk border’](https://www.theguardian.com/world/article/2024/aug/07/ukraine-war-briefing-russia-does-not-control-kursk-border)
-- [‘We’re not doing anything wrong’: why the word Taiwan is banned at the Olympics](https://www.theguardian.com/world/article/2024/aug/07/were-not-doing-anything-wrong-why-the-word-taiwan-is-banned-at-the-olympics)
-- [Thailand facing political upheaval as court set to rule on fate of progressive Move Forward party](https://www.theguardian.com/world/article/2024/aug/07/thailand-court-ruling-move-forward-party-ntwnfb)
-- [Liza Minnelli announces memoir because documentaries ‘didn’t get it right’](https://www.theguardian.com/music/article/2024/aug/07/liza-minnelli-memoir)
-- [Kamala Harris introduces running mate Tim Walz at raucous Philadelphia rally](https://www.theguardian.com/us-news/article/2024/aug/06/kamala-harris-running-mate-tim-walz)
-- [New Zealand’s conservative turn sounds chillingly familiar to Indigenous Australians. Here’s why the Māori fight is our fight | Celeste Liddle](https://www.theguardian.com/commentisfree/article/2024/aug/07/new-zealand-politics-conservative-right-wing-government-comment)
-- [UK recovery ‘will accelerate and force Bank to keep interest rates higher for longer’](https://www.theguardian.com/business/article/2024/aug/07/uk-recovery-will-accelerate-and-force-bank-to-keep-interest-rates-higher-for-longer)
-- [Watchdog bans Gemma Collins advert promoting headset to treat depression](https://www.theguardian.com/society/article/2024/aug/07/watchdog-bans-gemma-collins-advert-promoting-headset-to-treat-depression)
-- [Premier League 2024-25 preview No 5: Brighton](https://www.theguardian.com/football/article/2024/aug/07/premier-league-2024-25-preview-no-5-brighton)
+- [Is AI a bubble? - podcast](https://www.theguardian.com/news/audio/2024/aug/08/is-ai-a-bubble-podcast)
+- [‘We’re not going back’: thousands rally for Harris and Walz in Wisconsin and Michigan](https://www.theguardian.com/us-news/article/2024/aug/07/harris-walz-wisconsin-rally)
+- [‘Standing together’: What the papers say about far-right rallies and counter-protests](https://www.theguardian.com/media/article/2024/aug/08/uk-papers-far-right-rallies-protests)
+- [Israel minister condemned for saying starvation of millions in Gaza might be ‘justified and moral’](https://www.theguardian.com/world/article/2024/aug/08/israel-finance-minister-bezalel-smotrich-gaza-starve-2m-people-comments)
+- [Vanuatu presidential palace funded by China stirs debt fears](https://www.theguardian.com/world/article/2024/aug/08/vanuatu-presidential-palace-funded-by-china-debt-fears)
+- [Qantas cuts Alan Joyce final pay packet by $9.3m after review finds ‘considerable harm’ to brand](https://www.theguardian.com/business/article/2024/aug/08/alan-joyce-former-qantas-ceo-final-pay-packet-cut-9m-ntwnfb)
+- [Jack Karlson, who shot to fame after ‘succulent Chinese meal’ arrest, dies aged 82](https://www.theguardian.com/australia-news/article/2024/aug/08/jack-karlson-dies-succulent-chinese-meal-death-democracy-manifest-dead-aged-82)
+- [Ukraine war briefing: White House queries objectives of Kursk incursion](https://www.theguardian.com/world/article/2024/aug/08/ukraine-war-briefing-why-kursk-white-house-asks-as-putin-fumes-at-provocation)
+- [Thailand’s lese majesty laws explained in 30 seconds](https://www.theguardian.com/world/article/2024/aug/08/thailands-lese-majesty-laws-explained-in-30-seconds)
+- [Kamala Harris and the political power of Black sororities](https://www.theguardian.com/us-news/article/2024/aug/08/kamala-harris-and-the-political-power-of-black-sororities)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

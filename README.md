@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [S.F. police are using drones to arrest bipping suspects, officials say](https://www.sfchronicle.com/crime/article/sf-police-drone-arrests-19622925.php)
-- [All SNES enhancement chips and what they did](https://www.youtube.com/watch?v=DcdD4gASDnA)
-- [Cgal: A Powerful Open-Source Computational Geometry Library](https://github.com/CGAL/cgal)
-- [Body temperature variation controls transcription of SARS-CoV-2 replication](https://academic.oup.com/nar/article/50/12/6769/6609820)
-- [Sdfsd](https://dsfdf.com)
-- [Microcredit Pioneer Muhammad Yunus to Lead Caretaker Bangladesh Government](https://www.wsj.com/world/asia/microcredit-pioneer-muhammad-yunus-to-lead-caretaker-bangladesh-government-f7afa348)
-- [John Chowning, Computer Music, DX7 and FM Discovery [video]](https://www.youtube.com/watch?v=Mu8lHX-xuSg)
-- [Backblaze Drive Stats for Q2 2024](https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2024/)
-- [Axios announced it&#39;s laying off 10% of staff in a &#39;cringe&#39; branded memo](https://www.fastcompany.com/91168758/axios-laid-off-branded-memo-workers-say-thats-not-the-worst-part)
-- [MiniCPM-v2.6: GPT-4V Level MLLM for Single/Multi Image and Video on Your Phone](https://github.com/OpenBMB/MiniCPM-V)
+- [The news website accused of fuelling riots](https://www.bbc.com/news/articles/c5y38gjp4ygo)
+- [How to Build a Better IDE](https://mordenstar.com/blog/how-to-build-a-better-ide)
+- [Tuta Launches a New Website](https://tuta.com/blog/launch-new-website)
+- [FO Translator: Agent-Based Translation for a More Natural Experience](https://github.com/snekkenull/FO-Translator)
+- [Berkshire Hathaway Plays the Yen Carry Trade – The Right Way](https://www.barrons.com/amp/articles/berkshire-hathaway-warren-buffett-yen-carry-trade-93aa8239)
+- [Why is chaos theory defined as &quot;high sensitivity to initial conditions?&quot;](https://www.quora.com/Why-is-chaos-theory-defined-as-high-sensitivity-to-initial-conditions-Arent-all-conditions-initial-and-thus-infinite-sensitivity)
+- [All Your Secrets Belong to Us: Leveraging Firmware Bugs to Break Tees](https://www.blackhat.com/us-24/briefings/schedule/#all-your-secrets-belong-to-us-leveraging-firmware-bugs-to-break-tees-40137)
+- [Mamba: Selective State Space Modeling](https://news.ycombinator.com/item?id=41187486)
+- [Feasibility of keeping Mars warm with nanoparticles](https://www.science.org/doi/10.1126/sciadv.adn4650)
+- [Mem0: Three Prompts Created a Viral AI Memory Layer](https://blog.lqhl.me/mem0-how-three-prompts-created-a-viral-ai-memory-layer)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Is AI a bubble? - podcast](https://www.theguardian.com/news/audio/2024/aug/08/is-ai-a-bubble-podcast)
-- [‘We’re not going back’: thousands rally for Harris and Walz in Wisconsin and Michigan](https://www.theguardian.com/us-news/article/2024/aug/07/harris-walz-wisconsin-rally)
-- [‘Standing together’: What the papers say about far-right rallies and counter-protests](https://www.theguardian.com/media/article/2024/aug/08/uk-papers-far-right-rallies-protests)
-- [Israel minister condemned for saying starvation of millions in Gaza might be ‘justified and moral’](https://www.theguardian.com/world/article/2024/aug/08/israel-finance-minister-bezalel-smotrich-gaza-starve-2m-people-comments)
-- [Vanuatu presidential palace funded by China stirs debt fears](https://www.theguardian.com/world/article/2024/aug/08/vanuatu-presidential-palace-funded-by-china-debt-fears)
-- [Qantas cuts Alan Joyce final pay packet by $9.3m after review finds ‘considerable harm’ to brand](https://www.theguardian.com/business/article/2024/aug/08/alan-joyce-former-qantas-ceo-final-pay-packet-cut-9m-ntwnfb)
-- [Jack Karlson, who shot to fame after ‘succulent Chinese meal’ arrest, dies aged 82](https://www.theguardian.com/australia-news/article/2024/aug/08/jack-karlson-dies-succulent-chinese-meal-death-democracy-manifest-dead-aged-82)
-- [Ukraine war briefing: White House queries objectives of Kursk incursion](https://www.theguardian.com/world/article/2024/aug/08/ukraine-war-briefing-why-kursk-white-house-asks-as-putin-fumes-at-provocation)
-- [Thailand’s lese majesty laws explained in 30 seconds](https://www.theguardian.com/world/article/2024/aug/08/thailands-lese-majesty-laws-explained-in-30-seconds)
-- [Kamala Harris and the political power of Black sororities](https://www.theguardian.com/us-news/article/2024/aug/08/kamala-harris-and-the-political-power-of-black-sororities)
+- [“Welcome to hell”: inside Israel’s prisons – podcast](https://www.theguardian.com/news/audio/2024/aug/09/welcome-to-hell-inside-israels-prisons-podcast)
+- [US, Qatar and Egypt say Gaza truce talks must resume with ‘no excuses’ for further delay](https://www.theguardian.com/world/article/2024/aug/09/israel-gaza-war-ceasefire-talks-us-qatar-egypt)
+- [What lies beneath: the growing threat to the hidden network of cables that power the internet](https://www.theguardian.com/environment/article/2024/aug/09/what-lies-beneath-the-growing-threat-to-the-hidden-network-of-cables-that-power-the-internet)
+- [Ukraine war briefing: Moscow needs ‘to feel what it has done’, Zelenskiy says after Kursk incursion](https://www.theguardian.com/world/article/2024/aug/09/ukraine-war-briefing-moscow-needs-to-feel-what-it-has-done-zelenskiy-says-after-kursk-incursion)
+- [Chicago: woman dies in baggage-claim machinery at O’Hare airport](https://www.theguardian.com/us-news/article/2024/aug/08/chicago-o-hare-airport-woman-dies)
+- [Triple triumph for dominant US as Johnson-Thompson sets up bid for gold](https://www.theguardian.com/sport/article/2024/aug/08/2024-paris-olympic-games-roundup-sydney-johnson-thompson-tara-davis-woodhall-grant-holloway-noah-lyles)
+- [Katie Price arrested at Heathrow after missing court appearance](https://www.theguardian.com/uk-news/article/2024/aug/08/katie-price-arrested-at-heathrow-after-missing-court-appearance)
+- [‘A huge hug when you need it most’: Taylor Swift fans shake off disappointment in Vienna](https://www.theguardian.com/world/article/2024/aug/08/talyor-swift-fans-come-together-in-vienna-after-concerts-cancelled)
+- [California celebrates arrival of first pandas from China in decades](https://www.theguardian.com/us-news/article/2024/aug/08/california-pandas-san-diego-zoo-china)
+- [One killed in tornadoes as Tropical Storm Debby hits North Carolina](https://www.theguardian.com/us-news/article/2024/aug/08/tropical-storm-debby-tornadoes-death-north-carolina)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

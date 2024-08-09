@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The news website accused of fuelling riots](https://www.bbc.com/news/articles/c5y38gjp4ygo)
-- [How to Build a Better IDE](https://mordenstar.com/blog/how-to-build-a-better-ide)
-- [Tuta Launches a New Website](https://tuta.com/blog/launch-new-website)
-- [FO Translator: Agent-Based Translation for a More Natural Experience](https://github.com/snekkenull/FO-Translator)
-- [Berkshire Hathaway Plays the Yen Carry Trade – The Right Way](https://www.barrons.com/amp/articles/berkshire-hathaway-warren-buffett-yen-carry-trade-93aa8239)
-- [Why is chaos theory defined as &quot;high sensitivity to initial conditions?&quot;](https://www.quora.com/Why-is-chaos-theory-defined-as-high-sensitivity-to-initial-conditions-Arent-all-conditions-initial-and-thus-infinite-sensitivity)
-- [All Your Secrets Belong to Us: Leveraging Firmware Bugs to Break Tees](https://www.blackhat.com/us-24/briefings/schedule/#all-your-secrets-belong-to-us-leveraging-firmware-bugs-to-break-tees-40137)
-- [Mamba: Selective State Space Modeling](https://news.ycombinator.com/item?id=41187486)
-- [Feasibility of keeping Mars warm with nanoparticles](https://www.science.org/doi/10.1126/sciadv.adn4650)
-- [Mem0: Three Prompts Created a Viral AI Memory Layer](https://blog.lqhl.me/mem0-how-three-prompts-created-a-viral-ai-memory-layer)
+- [The Ockham Awards 2024](https://www.skeptic.org.uk/2024/08/the-ockham-awards-2024-recognising-the-best-in-skepticism-and-the-worst-in-pseudoscience/)
+- [Show HN: Running Silero VAD in the browser using ONNX-WEB runtime](https://dictationdaddy.web.app/)
+- [Show HN: Do – to-do list in your CLI](https://github.com/ritiksahni/do)
+- [The impending crisis of exploding cicada data](https://www.garrisonkeillor.com/the-impending-crisis-of-exploding-cicada-data/)
+- [0.0.0.0 Day: Exploiting Localhost APIs from the Browser](https://www.oligo.security/blog/0-0-0-0-day-exploiting-localhost-apis-from-the-browser)
+- [Large language models don&#39;t behave like people, even though we expect them to](https://techxplore.com/news/2024-07-large-language-dont-people.html)
+- [How to Increase Your Luck Surface Area](https://www.codusoperandi.com/posts/increasing-your-luck-surface-area)
+- [The Business Favorite Laptop Has Barely Changed in 30 Years](https://www.wsj.com/articles/the-business-worlds-favorite-laptop-has-barely-changed-in-30-years-32dde498)
+- [Apple changes EU app store policy after Commission probe](https://www.reuters.com/technology/apple-changes-eu-app-store-policy-after-commission-probe-2024-08-08/)
+- [Generating Mazes](https://healeycodes.com/generating-mazes)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

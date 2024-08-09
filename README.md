@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Bun v1.1.22 – Bun Blog](https://bun.sh/blog/bun-v1.1.22)
-- [Robot Dog with Gun Turret for Hunting Aerial Drones Being Tested by Army](https://www.twz.com/land/robot-dog-with-gun-turret-for-hunting-aerial-drones-being-tested-by-army)
-- [macOS Sequoia adds weekly permission prompt for screen recording apps](https://9to5mac.com/2024/08/06/macos-sequoia-screen-recording-privacy-prompt/)
-- [Argdown, like Markdown for argument mapping](https://argdown.org/)
-- [Judge Fines Ripple $125M, Bans Future Securities Law Violations](https://www.coindesk.com/policy/2024/08/07/judge-fines-ripple-125m-bans-future-securities-law-violations-in-long-running-sec-case/)
-- [The Third Atomic Bomb](https://lflank.wordpress.com/2024/08/06/the-third-atomic-bomb/)
-- [Gazette: Cloud-native millisecond-latency streaming](https://github.com/gazette)
-- [GPT-4 LLM simulates people well enough to replicate social science experiments](https://www.treatmenteffect.app/)
-- [Meticulous &lpar;YC S21&rpar; is hiring to eliminate E2E UI tests](https://news.ycombinator.com/item?id=41185460)
-- [Prevention of HIV](https://www.science.org/content/blog-post/prevention-hiv)
+- [Startup CEO Says VC Firm Punished Her for Reporting Sex Assault](https://www.bloomberg.com/news/articles/2024-08-08/startup-ceo-says-vc-firm-punished-her-for-reporting-sex-assault)
+- [IRC Will Never Die &lpar;2021&rpar;](https://hackaday.com/2021/05/22/irc-will-never-die/)
+- [Forest Service orders Arrowhead bottled water to shut down California pipeline](https://www.latimes.com/environment/story/2024-08-07/arrowhead-bottled-water-permit)
+- [Charge Robotics &lpar;YC S21&rpar; is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
+- [GPUDrive: Data-driven, multi-agent driving simulation at 1M FPS](https://arxiv.org/abs/2408.01584)
+- [The First Medieval Electronic Instrument Plays Sounds of Lutes and More](https://www.openculture.com/2024/08/the-worlds-first-medieval-electronic-instrument.html)
+- [Recent Performance Improvements in Function Calls in CPython](https://blog.codingconfessions.com/p/are-function-calls-still-slow-in-python)
+- [Launch HN: Stack Auth &lpar;YC S24&rpar; – An Open-Source Auth0/Clerk Alternative](https://github.com/stack-auth/stack)
+- [Do quests, not goals](https://www.raptitude.com/2024/08/do-quests-not-goals/)
+- [LibreCUDA – Launch CUDA code on Nvidia GPUs without the proprietary runtime](https://github.com/mikex86/LibreCuda)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Ockham Awards 2024](https://www.skeptic.org.uk/2024/08/the-ockham-awards-2024-recognising-the-best-in-skepticism-and-the-worst-in-pseudoscience/)
-- [Show HN: Running Silero VAD in the browser using ONNX-WEB runtime](https://dictationdaddy.web.app/)
-- [Show HN: Do – to-do list in your CLI](https://github.com/ritiksahni/do)
-- [The impending crisis of exploding cicada data](https://www.garrisonkeillor.com/the-impending-crisis-of-exploding-cicada-data/)
-- [0.0.0.0 Day: Exploiting Localhost APIs from the Browser](https://www.oligo.security/blog/0-0-0-0-day-exploiting-localhost-apis-from-the-browser)
-- [Large language models don&#39;t behave like people, even though we expect them to](https://techxplore.com/news/2024-07-large-language-dont-people.html)
-- [How to Increase Your Luck Surface Area](https://www.codusoperandi.com/posts/increasing-your-luck-surface-area)
-- [The Business Favorite Laptop Has Barely Changed in 30 Years](https://www.wsj.com/articles/the-business-worlds-favorite-laptop-has-barely-changed-in-30-years-32dde498)
-- [Apple changes EU app store policy after Commission probe](https://www.reuters.com/technology/apple-changes-eu-app-store-policy-after-commission-probe-2024-08-08/)
-- [Generating Mazes](https://healeycodes.com/generating-mazes)
+- [Sonos&#39; $30M app fail is cautionary tale against rushing unnecessary updates](https://arstechnica.com/gadgets/2024/08/app-redesign-blowback-will-cost-sonos-up-to-30-million-ceo-says/)
+- [Built Mikmod for Web &lpar;Emscripten&rpar;](https://dxdxdt.github.io/emscripten/mikmod/)
+- [Czechia has a contact center for extraterrestrials](https://english.radio.cz/czechia-has-a-contact-center-extraterrestrials-8824848)
+- [State of Private Markets: Q2 2024](https://carta.com/blog/state-of-private-markets-q2-2024/)
+- [OpenAI taking a &#39;deliberate approach&#39; to releasing AI writing detection tools](https://techcrunch.com/2024/08/04/openai-says-its-taking-a-deliberate-approach-to-releasing-tools-that-can-detect-writing-from-chatgpt/)
+- [Lawmakers ask Meta to delay shutting down CrowdTangle](https://www.axios.com/2024/07/24/lawmakers-ask-meta-ceo-to-delay-shutting-down-crowdtangle)
+- [Connection Between Depression, Sexual Frequency, and All-Cause Mortality](https://journals.sagepub.com/doi/10.1177/26318318241256455)
+- [Mysterious sawfish die-off in South Florida has likely ended](https://www.wlrn.org/environment/2024-07-30/mysterious-sawfish-die-off-has-likely-ended-scientists-keep-searching-for-why-it-happened)
+- [New U.N. Cybercrime Treaty Could Threaten Human Rights](https://www.scientificamerican.com/article/0724--un-cybercrime/)
+- [Ruby on Rails 7.2 Released](https://github.com/rails/rails/releases/tag/v7.2.0)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

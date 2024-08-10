@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [“Welcome to hell”: inside Israel’s prisons – podcast](https://www.theguardian.com/news/audio/2024/aug/09/welcome-to-hell-inside-israels-prisons-podcast)
-- [US, Qatar and Egypt say Gaza truce talks must resume with ‘no excuses’ for further delay](https://www.theguardian.com/world/article/2024/aug/09/israel-gaza-war-ceasefire-talks-us-qatar-egypt)
-- [What lies beneath: the growing threat to the hidden network of cables that power the internet](https://www.theguardian.com/environment/article/2024/aug/09/what-lies-beneath-the-growing-threat-to-the-hidden-network-of-cables-that-power-the-internet)
-- [Ukraine war briefing: Moscow needs ‘to feel what it has done’, Zelenskiy says after Kursk incursion](https://www.theguardian.com/world/article/2024/aug/09/ukraine-war-briefing-moscow-needs-to-feel-what-it-has-done-zelenskiy-says-after-kursk-incursion)
-- [Chicago: woman dies in baggage-claim machinery at O’Hare airport](https://www.theguardian.com/us-news/article/2024/aug/08/chicago-o-hare-airport-woman-dies)
-- [Triple triumph for dominant US as Johnson-Thompson sets up bid for gold](https://www.theguardian.com/sport/article/2024/aug/08/2024-paris-olympic-games-roundup-sydney-johnson-thompson-tara-davis-woodhall-grant-holloway-noah-lyles)
-- [Katie Price arrested at Heathrow after missing court appearance](https://www.theguardian.com/uk-news/article/2024/aug/08/katie-price-arrested-at-heathrow-after-missing-court-appearance)
-- [‘A huge hug when you need it most’: Taylor Swift fans shake off disappointment in Vienna](https://www.theguardian.com/world/article/2024/aug/08/talyor-swift-fans-come-together-in-vienna-after-concerts-cancelled)
-- [California celebrates arrival of first pandas from China in decades](https://www.theguardian.com/us-news/article/2024/aug/08/california-pandas-san-diego-zoo-china)
-- [One killed in tornadoes as Tropical Storm Debby hits North Carolina](https://www.theguardian.com/us-news/article/2024/aug/08/tropical-storm-debby-tornadoes-death-north-carolina)
+- [Ukraine war briefing: Russian missile hits Kostiantynivka shopping centre, killing at least 14](https://www.theguardian.com/world/article/2024/aug/10/ukraine-war-briefing-russian-missile-hits-kostiantynivka-supermarket-killing-at-least-14)
+- [‘I am a woman’: Imane Khelif hits back in gender row after claiming gold](https://www.theguardian.com/sport/article/2024/aug/10/i-am-a-woman-imane-khelif-hits-back-in-gender-row-after-claiming-gold)
+- [Johnson-Thompson savours Olympic redemption after Roberts climbs to gold](https://www.theguardian.com/sport/article/2024/aug/09/olympics-katarina-johnson-thompson-redemption-toby-roberts-max-burgin)
+- [Fairly Fabulous Friday: Johnson-Thompson helps GB to three medals in 67 minutes](https://www.theguardian.com/sport/article/2024/aug/09/olympics-fairly-fabulous-friday-katarina-johnson-thompson-womens-relay-mens-relay)
+- [Ten Hag prepares for Community Shield with United still taking shape](https://www.theguardian.com/football/article/2024/aug/09/erik-ten-hag-community-shield-manchester-united-manchester-city-football)
+- [Manchester City won’t overspend on transfer targets, warns Guardiola](https://www.theguardian.com/football/article/2024/aug/09/manchester-city-pep-guardiola-transfer-targets-fees)
+- [Gustavo Hamer stunner gets Sheffield United off to winning start at Preston](https://www.theguardian.com/football/article/2024/aug/09/preston-sheffield-united-championship-match-report)
+- [No survivors from plane that crashed in Brazil with 61 people on board, officials say](https://www.theguardian.com/world/article/2024/aug/09/plane-crash-brazil-sao-paulo)
+- [The week around the world in 20 pictures](https://www.theguardian.com/artanddesign/gallery/2024/aug/09/the-week-around-the-world-in-20-pictures)
+- [Apple changes EU App Store rules after commission charges](https://www.theguardian.com/technology/article/2024/aug/09/apple-changes-eu-app-store-communication)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

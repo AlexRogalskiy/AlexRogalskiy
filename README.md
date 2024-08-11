@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Sonos&#39; $30M app fail is cautionary tale against rushing unnecessary updates](https://arstechnica.com/gadgets/2024/08/app-redesign-blowback-will-cost-sonos-up-to-30-million-ceo-says/)
-- [Built Mikmod for Web &lpar;Emscripten&rpar;](https://dxdxdt.github.io/emscripten/mikmod/)
-- [Czechia has a contact center for extraterrestrials](https://english.radio.cz/czechia-has-a-contact-center-extraterrestrials-8824848)
-- [State of Private Markets: Q2 2024](https://carta.com/blog/state-of-private-markets-q2-2024/)
-- [OpenAI taking a &#39;deliberate approach&#39; to releasing AI writing detection tools](https://techcrunch.com/2024/08/04/openai-says-its-taking-a-deliberate-approach-to-releasing-tools-that-can-detect-writing-from-chatgpt/)
-- [Lawmakers ask Meta to delay shutting down CrowdTangle](https://www.axios.com/2024/07/24/lawmakers-ask-meta-ceo-to-delay-shutting-down-crowdtangle)
-- [Connection Between Depression, Sexual Frequency, and All-Cause Mortality](https://journals.sagepub.com/doi/10.1177/26318318241256455)
-- [Mysterious sawfish die-off in South Florida has likely ended](https://www.wlrn.org/environment/2024-07-30/mysterious-sawfish-die-off-has-likely-ended-scientists-keep-searching-for-why-it-happened)
-- [New U.N. Cybercrime Treaty Could Threaten Human Rights](https://www.scientificamerican.com/article/0724--un-cybercrime/)
-- [Ruby on Rails 7.2 Released](https://github.com/rails/rails/releases/tag/v7.2.0)
+- [Man versus Horse Marathon](https://en.wikipedia.org/wiki/Man_versus_Horse_Marathon)
+- [Shortwire: The smallest VPN that connects two computers via the Internet](https://github.com/mojyack/shortwire)
+- [Real time face swap and one-click video deepfake](https://github.com/hacksider/Deep-Live-Cam)
+- [Betting on DSPy for Systems of LLMs](https://blog.isaacmiller.dev/posts/dspy)
+- [A 3,300-Foot-Tall Battery May Become the Tallest Building](https://secretnyc.co/battery-skyscraper/)
+- [Duran Business Group](https://duranbusiness.com/)
+- [ANTSDR: Low-cost SDR Alternatives for Ettus Research and Lime Microsystems](https://github.com/MicroPhase/antsdr-fw-patch)
+- [Ask HN: Open-source, free pair-programming tools?](https://news.ycombinator.com/item?id=41213500)
+- [Internet Research Task Force &lpar;IRTF&rpar; Stream Documents](https://datatracker.ietf.org/stream/irtf/)
+- [Project 2025&#39;s Training Videos](https://www.propublica.org/article/inside-project-2025-secret-training-videos-trump-election)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

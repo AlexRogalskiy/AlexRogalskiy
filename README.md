@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Daily marijuana use linked to increased risk of deadly head and neck cancers](https://www.cnn.com/2024/08/08/health/marijuana-head-and-neck-cancer-wellness/index.html)
-- [X: Rolling out now: sort replies on any post by most relevant, recent, or liked](https://twitter.com/X/status/1822009969610293687)
-- [HIV drug could be made for just $40 a year for every patient](https://www.theguardian.com/global-development/article/2024/jul/23/hiv-aids-prevention-vaccine-lenacapavir-sunlenca-pharmaceuticals-gilead-generic-licensing)
-- [GCVR &lpar;YC W22&rpar; Is Hiring Lead Animation Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/7UKmLED-lead-animation-engineer)
-- [Common Lisp Community Survey 2024 Results](https://blog.djhaskin.com/blog/common-lisp-community-survey-2024-results/)
-- [Frank Zappa estate: the feud, and the pain, that dogs his children](https://www.washingtonpost.com/entertainment/music/interactive/2024/frank-zappa-family-feud-moon-unit-dweezil/)
-- [Grace Hopper, Nvidia&#39;s Halfway APU](https://chipsandcheese.com/2024/07/31/grace-hopper-nvidias-halfway-apu/)
-- [Show HN: Personal Interactive Cantonese Dictionary](https://nomenclature.ctang.art)
-- [DARPA wants to bypass the thermal middleman in nuclear power systems](https://www.ans.org/news/article-6276/darpa-wants-to-bypass-the-thermal-middleman-in-nuclear-power-systems/)
-- [Urchin Software Corp: The unlikely origin story of Google Analytics &lpar;2016&rpar;](https://urchin.biz/urchin-software-corp-89a1f5292999)
+- [RFC 9180: Hybrid Public Key Encryption](https://www.rfc-editor.org/rfc/rfc9180.html)
+- [SanDisk introduces the first 8TB SD and 4TB microSD cards](https://liliputing.com/sandisk-introduces-the-first-8tb-sd-and-4tb-microsd-cards/)
+- [The surveilled society: Who is watching you and how](https://www.rnz.co.nz/news/national/524791/the-surveilled-society-who-is-watching-you-and-how)
+- [The Tic-Tac-Toe Mysteries of Xerloc O&#39;Xolmes](https://blog.zarfhome.com/2024/08/tic-tac-toe-mysteries)
+- [I Created 175 Fonts Using Rust](https://chevyray.dev/blog/creating-175-fonts/)
+- [Entropic Engineering DEFCON 32 Statement](https://www.entropicengineering.com/defcon-32-statement)
+- [Algorithmic price-fixing of rents is here](https://www.theatlantic.com/ideas/archive/2024/08/ai-price-algorithms-realpage/679405/)
+- [US FDA approves nasal spray alternative to EpiPen for allergic reactions](https://www.reuters.com/business/healthcare-pharmaceuticals/us-fda-approves-first-nasal-spray-allergic-reactions-2024-08-09/)
+- [AMD&#39;s Strix Point: Zen 5 Hits Mobile](https://chipsandcheese.com/2024/08/10/amds-strix-point-zen-5-hits-mobile/)
+- [Stapler: I remade a 32 year old classic Macintosh app](https://blog.gingerbeardman.com/2024/08/10/stapler-i-remade-a-32-year-old-classic-macintosh-app/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine war briefing: Russian missile hits Kostiantynivka shopping centre, killing at least 14](https://www.theguardian.com/world/article/2024/aug/10/ukraine-war-briefing-russian-missile-hits-kostiantynivka-supermarket-killing-at-least-14)
-- [‘I am a woman’: Imane Khelif hits back in gender row after claiming gold](https://www.theguardian.com/sport/article/2024/aug/10/i-am-a-woman-imane-khelif-hits-back-in-gender-row-after-claiming-gold)
-- [Johnson-Thompson savours Olympic redemption after Roberts climbs to gold](https://www.theguardian.com/sport/article/2024/aug/09/olympics-katarina-johnson-thompson-redemption-toby-roberts-max-burgin)
-- [Fairly Fabulous Friday: Johnson-Thompson helps GB to three medals in 67 minutes](https://www.theguardian.com/sport/article/2024/aug/09/olympics-fairly-fabulous-friday-katarina-johnson-thompson-womens-relay-mens-relay)
-- [Ten Hag prepares for Community Shield with United still taking shape](https://www.theguardian.com/football/article/2024/aug/09/erik-ten-hag-community-shield-manchester-united-manchester-city-football)
-- [Manchester City won’t overspend on transfer targets, warns Guardiola](https://www.theguardian.com/football/article/2024/aug/09/manchester-city-pep-guardiola-transfer-targets-fees)
-- [Gustavo Hamer stunner gets Sheffield United off to winning start at Preston](https://www.theguardian.com/football/article/2024/aug/09/preston-sheffield-united-championship-match-report)
-- [No survivors from plane that crashed in Brazil with 61 people on board, officials say](https://www.theguardian.com/world/article/2024/aug/09/plane-crash-brazil-sao-paulo)
-- [The week around the world in 20 pictures](https://www.theguardian.com/artanddesign/gallery/2024/aug/09/the-week-around-the-world-in-20-pictures)
-- [Apple changes EU App Store rules after commission charges](https://www.theguardian.com/technology/article/2024/aug/09/apple-changes-eu-app-store-communication)
+- [Ukraine war briefing: Russia orders faster evacuation of civilians in Kursk](https://www.theguardian.com/world/article/2024/aug/11/ukraine-war-briefing-russia-orders-faster-evacuation-of-civilians-in-kursk)
+- [Love the army, defend the motherland: how China is pushing military education on children](https://www.theguardian.com/world/article/2024/aug/11/love-the-army-defend-the-motherland-how-china-is-pushing-military-education-on-children)
+- [Boxer Lin Yu-ting sobs after winning Olympic gold amid gender row](https://www.theguardian.com/sport/article/2024/aug/11/boxer-lin-yu-ting-sobs-after-winning-olympic-gold-amid-gender-row)
+- [Ferguson police officer suffers critical brain injury in Michael Brown anniversary violence](https://www.theguardian.com/us-news/article/2024/aug/11/ferguson-police-officer-suffers-critical-brain-injury-in-michael-brown-anniversary-violence)
+- [Steph Curry shows otherworldly skills as USA beat France for basketball gold](https://www.theguardian.com/sport/article/2024/aug/11/steph-curry-usa-france-basketball-olympic-games-paris-2024)
+- [UK children to be taught how to spot extremist content and fake news online](https://www.theguardian.com/education/article/2024/aug/10/uk-children-to-be-taught-how-to-spot-extremist-content-and-misinformation-online)
+- [Summer soles: 25 of the best women’s sandals – in pictures](https://www.theguardian.com/fashion/gallery/2024/aug/10/summer-soles-25-of-the-best-womens-sandals-in-pictures)
+- [Banksy’s billboard cat removed as meaning of his London animals revealed](https://www.theguardian.com/artanddesign/article/2024/aug/10/meaning-new-banksy-series-revealed-latest-london-artwork)
+- [Thousands of Serbians protest in Belgrade against lithium mine](https://www.theguardian.com/world/article/2024/aug/10/thousands-of-serbians-protest-in-belgrade-against-lithium-mine)
+- [Brazilian emergency crews recover remains of at least 50 plane crash victims](https://www.theguardian.com/world/article/2024/aug/09/plane-crash-brazil-sao-paulo)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine war briefing: Russia orders faster evacuation of civilians in Kursk](https://www.theguardian.com/world/article/2024/aug/11/ukraine-war-briefing-russia-orders-faster-evacuation-of-civilians-in-kursk)
-- [Love the army, defend the motherland: how China is pushing military education on children](https://www.theguardian.com/world/article/2024/aug/11/love-the-army-defend-the-motherland-how-china-is-pushing-military-education-on-children)
-- [Boxer Lin Yu-ting sobs after winning Olympic gold amid gender row](https://www.theguardian.com/sport/article/2024/aug/11/boxer-lin-yu-ting-sobs-after-winning-olympic-gold-amid-gender-row)
-- [Ferguson police officer suffers critical brain injury in Michael Brown anniversary violence](https://www.theguardian.com/us-news/article/2024/aug/11/ferguson-police-officer-suffers-critical-brain-injury-in-michael-brown-anniversary-violence)
-- [Steph Curry shows otherworldly skills as USA beat France for basketball gold](https://www.theguardian.com/sport/article/2024/aug/11/steph-curry-usa-france-basketball-olympic-games-paris-2024)
-- [UK children to be taught how to spot extremist content and fake news online](https://www.theguardian.com/education/article/2024/aug/10/uk-children-to-be-taught-how-to-spot-extremist-content-and-misinformation-online)
-- [Summer soles: 25 of the best women’s sandals – in pictures](https://www.theguardian.com/fashion/gallery/2024/aug/10/summer-soles-25-of-the-best-womens-sandals-in-pictures)
-- [Banksy’s billboard cat removed as meaning of his London animals revealed](https://www.theguardian.com/artanddesign/article/2024/aug/10/meaning-new-banksy-series-revealed-latest-london-artwork)
-- [Thousands of Serbians protest in Belgrade against lithium mine](https://www.theguardian.com/world/article/2024/aug/10/thousands-of-serbians-protest-in-belgrade-against-lithium-mine)
-- [Brazilian emergency crews recover remains of at least 50 plane crash victims](https://www.theguardian.com/world/article/2024/aug/09/plane-crash-brazil-sao-paulo)
+- [Ukraine aims to destabilise Russia with Kursk attack, official says](https://www.theguardian.com/world/article/2024/aug/11/thousands-of-ukrainian-troops-aim-to-destabilise-russia-with-kursk-incursion)
+- [The two-child welfare limit: why won’t Labour scrap the cap? - podcast](https://www.theguardian.com/news/audio/2024/aug/12/two-child-benefit-limit-labour-podcast)
+- [Australian fossil fuel exports ranked second only to Russia for climate damage with ‘no plan’ for reduction](https://www.theguardian.com/environment/article/2024/aug/12/australian-fossil-fuel-exports-ranked-second-globally-for-climate-damage-with-no-plan-for-reduction)
+- [Ukraine war briefing: Main fire at Russia-controlled nuclear plant in Ukraine extinguished](https://www.theguardian.com/world/article/2024/aug/12/ukraine-war-briefing-main-fire-at-russia-controlled-nuclear-plant-in-ukraine-extinguished)
+- [Paris says goodbye to the Olympics with golden closing ceremony](https://www.theguardian.com/sport/article/2024/aug/12/paris-says-goodbye-to-the-olympics-with-a-golden-closing-ceremony)
+- [Number of UK adults who vape reaches record level, report finds](https://www.theguardian.com/politics/article/2024/aug/12/number-of-uk-adults-who-vape-reaches-record-level-report-finds)
+- [Number of UK drivers concerned with state of local roads hits record levels](https://www.theguardian.com/business/article/2024/aug/12/number-of-uk-drivers-concerned-with-state-of-local-roads-hits-record-levels)
+- [Premier League 2024-25 preview No 11: Leicester City](https://www.theguardian.com/football/article/2024/aug/12/premier-league-2024-25-preview-no-11-leicester-city)
+- [Compensation for water customers in England and Wales to double](https://www.theguardian.com/business/article/2024/aug/12/compensation-for-water-customers-in-england-and-wales-to-double)
+- [FTSE 100 chief executive pay reaches highest level on record](https://www.theguardian.com/business/article/2024/aug/12/ftse-100-chief-executive-pay-reaches-highest-level-on-record)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

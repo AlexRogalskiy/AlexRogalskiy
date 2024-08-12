@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [RFC 9180: Hybrid Public Key Encryption](https://www.rfc-editor.org/rfc/rfc9180.html)
-- [SanDisk introduces the first 8TB SD and 4TB microSD cards](https://liliputing.com/sandisk-introduces-the-first-8tb-sd-and-4tb-microsd-cards/)
-- [The surveilled society: Who is watching you and how](https://www.rnz.co.nz/news/national/524791/the-surveilled-society-who-is-watching-you-and-how)
-- [The Tic-Tac-Toe Mysteries of Xerloc O&#39;Xolmes](https://blog.zarfhome.com/2024/08/tic-tac-toe-mysteries)
-- [I Created 175 Fonts Using Rust](https://chevyray.dev/blog/creating-175-fonts/)
-- [Entropic Engineering DEFCON 32 Statement](https://www.entropicengineering.com/defcon-32-statement)
-- [Algorithmic price-fixing of rents is here](https://www.theatlantic.com/ideas/archive/2024/08/ai-price-algorithms-realpage/679405/)
-- [US FDA approves nasal spray alternative to EpiPen for allergic reactions](https://www.reuters.com/business/healthcare-pharmaceuticals/us-fda-approves-first-nasal-spray-allergic-reactions-2024-08-09/)
-- [AMD&#39;s Strix Point: Zen 5 Hits Mobile](https://chipsandcheese.com/2024/08/10/amds-strix-point-zen-5-hits-mobile/)
-- [Stapler: I remade a 32 year old classic Macintosh app](https://blog.gingerbeardman.com/2024/08/10/stapler-i-remade-a-32-year-old-classic-macintosh-app/)
+- [How can Firefox create the best support for web apps on the desktop?](https://connect.mozilla.org/t5/discussions/how-can-firefox-create-the-best-support-for-web-apps-on-the/td-p/60561)
+- [China&#39;s total wind and solar capacity outstrips coal](https://renewablesnow.com/news/chinas-total-wind-and-solar-capacity-outstrips-coal-rystad-says-865106/)
+- [How to avoid losing items? Holding pens](https://blog.alexwendland.com/2024-07-07-holding-pens/)
+- [Generating Simpson&#39;s Paradox with Z3](https://kevinlynagh.com/z3-simpsons-paradox/)
+- [WireGuard-rs – Official Rust implementation of WireGuard](https://git.zx2c4.com/wireguard-rs/)
+- [Apple Prototypes and Corporate Secrets Are for Sale Online–If You Know Where](https://www.wired.com/story/apple-prototypes-corporate-data/)
+- [Adbfs-rootless – Mount Android phones on Linux with adb. No root required](https://github.com/spion/adbfs-rootless)
+- [Tree Attention: Topology-Aware Decoding for Long-Context](https://arxiv.org/abs/2408.04093)
+- [Show HN: Pixeltune, a nicer chiptune and VGM player](https://pixeltune.org)
+- [OpenBSD 7.5 via QEMU on Hetzner physical machine &lpar;no phys. access / KVM console&rpar;](https://hackmd.gfuzz.de/s/Qsk14kc3i)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Man versus Horse Marathon](https://en.wikipedia.org/wiki/Man_versus_Horse_Marathon)
-- [Shortwire: The smallest VPN that connects two computers via the Internet](https://github.com/mojyack/shortwire)
-- [Real time face swap and one-click video deepfake](https://github.com/hacksider/Deep-Live-Cam)
-- [Betting on DSPy for Systems of LLMs](https://blog.isaacmiller.dev/posts/dspy)
-- [A 3,300-Foot-Tall Battery May Become the Tallest Building](https://secretnyc.co/battery-skyscraper/)
-- [Duran Business Group](https://duranbusiness.com/)
-- [ANTSDR: Low-cost SDR Alternatives for Ettus Research and Lime Microsystems](https://github.com/MicroPhase/antsdr-fw-patch)
-- [Ask HN: Open-source, free pair-programming tools?](https://news.ycombinator.com/item?id=41213500)
-- [Internet Research Task Force &lpar;IRTF&rpar; Stream Documents](https://datatracker.ietf.org/stream/irtf/)
-- [Project 2025&#39;s Training Videos](https://www.propublica.org/article/inside-project-2025-secret-training-videos-trump-election)
+- [Show HN: Open-source React chart component library](https://reaviz.dev/)
+- [Harris Appeals to Tech Leaders in a Return to San Francisco](https://www.nytimes.com/2024/08/11/us/kamala-harris-tech-fundraiser.html)
+- [Comparison of free Python libraries for data mining and big data analysis &lpar;2019&rpar;](https://ieeexplore.ieee.org/document/8757088)
+- [ReSyncer vs. HeyGen?](https://guanjz20.github.io/projects/ReSyncer/)
+- [The lab leak hypothesis is damaging science](https://www.statnews.com/2024/08/02/coronavirus-lab-leak-hypothesis-damages-science/)
+- [The Colors of GTK](https://blog.gtk.org/2024/08/11/the-colors-of-gtk/)
+- [Show HN: New compression algorithm beats ZSTD by 14%](https://github.com/seccode/gemstone)
+- [US Nuclear Testing Continues to Haunt the Marshall Islands [video]](https://www.youtube.com/watch?v=e_QvTPNEXFQ)
+- [San Francisco Is Sinking in Bad Hotel Debt](https://www.wsj.com/real-estate/commercial/san-francisco-is-sinking-in-bad-hotel-debt-4ace4f67)
+- [Safe curves for Elliptic Curve Cryptography [pdf]](https://eprint.iacr.org/2024/1265.pdf)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: Open-source React chart component library](https://reaviz.dev/)
-- [Harris Appeals to Tech Leaders in a Return to San Francisco](https://www.nytimes.com/2024/08/11/us/kamala-harris-tech-fundraiser.html)
-- [Comparison of free Python libraries for data mining and big data analysis &lpar;2019&rpar;](https://ieeexplore.ieee.org/document/8757088)
-- [ReSyncer vs. HeyGen?](https://guanjz20.github.io/projects/ReSyncer/)
-- [The lab leak hypothesis is damaging science](https://www.statnews.com/2024/08/02/coronavirus-lab-leak-hypothesis-damages-science/)
-- [The Colors of GTK](https://blog.gtk.org/2024/08/11/the-colors-of-gtk/)
-- [Show HN: New compression algorithm beats ZSTD by 14%](https://github.com/seccode/gemstone)
-- [US Nuclear Testing Continues to Haunt the Marshall Islands [video]](https://www.youtube.com/watch?v=e_QvTPNEXFQ)
-- [San Francisco Is Sinking in Bad Hotel Debt](https://www.wsj.com/real-estate/commercial/san-francisco-is-sinking-in-bad-hotel-debt-4ace4f67)
-- [Safe curves for Elliptic Curve Cryptography [pdf]](https://eprint.iacr.org/2024/1265.pdf)
+- [Reliability, constant work, and a good cup of coffee](https://aws.amazon.com/builders-library/reliability-and-constant-work/)
+- [Wormable Substack XSS](https://blog.calif.io/p/wormable-substack-xss)
+- [Riding with a Trucker, Witnessing India&#39;s Past and Potential](https://www.nytimes.com/2024/07/31/business/india-trucking-highways-infrastructure.html)
+- [Show HN: Give us your rawest feedback](https://orchid.ac)
+- [GitHub Star History](https://star-history.com/)
+- [The AI Scientist: Towards Automated Open-Ended Scientific Discovery](https://sakana.ai/ai-scientist/)
+- [More schools banning students from using smartphones during class times](https://9to5mac.com/2024/08/12/schools-banning-students-from-using-smartphones/)
+- [TTA: When Advanced Civilizations Decide to MOV Beyond von Neumann](https://en.wikipedia.org/wiki/Transport_triggered_architecture)
+- [Lix 2.91 &quot;Dragon&#39;s Breath&quot;](https://lix.systems/blog/2024-08-12-lix-2.91-release/)
+- [Elon Musk, Donald Trump event on X crashes site](https://www.cnbc.com/2024/08/12/elon-musk-donald-trump-event-on-x-crashes-site-tesla-ceo-blames-hackers.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

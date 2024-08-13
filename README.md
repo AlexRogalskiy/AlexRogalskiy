@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine aims to destabilise Russia with Kursk attack, official says](https://www.theguardian.com/world/article/2024/aug/11/thousands-of-ukrainian-troops-aim-to-destabilise-russia-with-kursk-incursion)
-- [The two-child welfare limit: why won’t Labour scrap the cap? - podcast](https://www.theguardian.com/news/audio/2024/aug/12/two-child-benefit-limit-labour-podcast)
-- [Australian fossil fuel exports ranked second only to Russia for climate damage with ‘no plan’ for reduction](https://www.theguardian.com/environment/article/2024/aug/12/australian-fossil-fuel-exports-ranked-second-globally-for-climate-damage-with-no-plan-for-reduction)
-- [Ukraine war briefing: Main fire at Russia-controlled nuclear plant in Ukraine extinguished](https://www.theguardian.com/world/article/2024/aug/12/ukraine-war-briefing-main-fire-at-russia-controlled-nuclear-plant-in-ukraine-extinguished)
-- [Paris says goodbye to the Olympics with golden closing ceremony](https://www.theguardian.com/sport/article/2024/aug/12/paris-says-goodbye-to-the-olympics-with-a-golden-closing-ceremony)
-- [Number of UK adults who vape reaches record level, report finds](https://www.theguardian.com/politics/article/2024/aug/12/number-of-uk-adults-who-vape-reaches-record-level-report-finds)
-- [Number of UK drivers concerned with state of local roads hits record levels](https://www.theguardian.com/business/article/2024/aug/12/number-of-uk-drivers-concerned-with-state-of-local-roads-hits-record-levels)
-- [Premier League 2024-25 preview No 11: Leicester City](https://www.theguardian.com/football/article/2024/aug/12/premier-league-2024-25-preview-no-11-leicester-city)
-- [Compensation for water customers in England and Wales to double](https://www.theguardian.com/business/article/2024/aug/12/compensation-for-water-customers-in-england-and-wales-to-double)
-- [FTSE 100 chief executive pay reaches highest level on record](https://www.theguardian.com/business/article/2024/aug/12/ftse-100-chief-executive-pay-reaches-highest-level-on-record)
+- [US election live: Trump rehashes vitriol and falsehoods in rambling talk with Musk on X](https://www.theguardian.com/us-news/live/2024/aug/12/trump-elon-musk-x-us-election-latest-updates)
+- [Is Ukraine’s incursion into Russia a gamble that could pay off? – podcast](https://www.theguardian.com/news/audio/2024/aug/13/is-ukraine-incursion-into-russia-a-gamble-that-could-pay-off-podcast)
+- [Ukraine says it has seized 1,000 sq km in Kursk offensive as Putin vows ‘worthy response’](https://www.theguardian.com/world/article/2024/aug/13/ukraine-kursk-offensive-1000-square-km-of-russia-seized-incursion)
+- [Asian cities and countries jostle in Paris for right to host 2036 Olympic Games](https://www.theguardian.com/sport/article/2024/aug/13/olympic-games-2036-host-country-asia-ioc)
+- [Judge rules against Robert F Kennedy Jr in fight to be on New York’s ballot](https://www.theguardian.com/us-news/article/2024/aug/12/robert-f-kennedy-jr-new-york-residence-ballot)
+- [Nottingham attacks: series of errors led to Valdo Calocane being discharged, review finds](https://www.theguardian.com/society/article/2024/aug/13/nottingham-attacks-series-of-errors-led-to-valdo-calocane-being-discharged-cqc-review)
+- [Education secretary warns of ‘baked-in’ inequality in English school system](https://www.theguardian.com/education/article/2024/aug/13/education-secretary-warns-of-baked-in-inequality-in-english-school-system)
+- [Premier League 2024-25 preview No 13: Manchester City](https://www.theguardian.com/football/article/2024/aug/13/premier-league-2024-25-preview-no-13-manchester-city)
+- [UK’s biggest housing association fined over four-year failure to fix window](https://www.theguardian.com/society/article/2024/aug/13/uks-biggest-housing-association-fined-over-four-year-failure-to-fix-window)
+- [Jimmy Anderson eyes T20 franchise foray as strike bowler at age of 42](https://www.theguardian.com/sport/article/2024/aug/13/jimmy-anderson-t20-franchise-cricket-england-lancashire-bowler)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

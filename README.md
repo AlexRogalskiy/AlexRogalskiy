@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [How can Firefox create the best support for web apps on the desktop?](https://connect.mozilla.org/t5/discussions/how-can-firefox-create-the-best-support-for-web-apps-on-the/td-p/60561)
-- [China&#39;s total wind and solar capacity outstrips coal](https://renewablesnow.com/news/chinas-total-wind-and-solar-capacity-outstrips-coal-rystad-says-865106/)
-- [How to avoid losing items? Holding pens](https://blog.alexwendland.com/2024-07-07-holding-pens/)
-- [Generating Simpson&#39;s Paradox with Z3](https://kevinlynagh.com/z3-simpsons-paradox/)
-- [WireGuard-rs – Official Rust implementation of WireGuard](https://git.zx2c4.com/wireguard-rs/)
-- [Apple Prototypes and Corporate Secrets Are for Sale Online–If You Know Where](https://www.wired.com/story/apple-prototypes-corporate-data/)
-- [Adbfs-rootless – Mount Android phones on Linux with adb. No root required](https://github.com/spion/adbfs-rootless)
-- [Tree Attention: Topology-Aware Decoding for Long-Context](https://arxiv.org/abs/2408.04093)
-- [Show HN: Pixeltune, a nicer chiptune and VGM player](https://pixeltune.org)
-- [OpenBSD 7.5 via QEMU on Hetzner physical machine &lpar;no phys. access / KVM console&rpar;](https://hackmd.gfuzz.de/s/Qsk14kc3i)
+- [0xCAFEBABE &amp; 0xFEEDFACE](http://radio-weblogs.com/0100490/2003/01/28.html)
+- [Faster Docker builds using a remote BuildKit instance](https://www.blacksmith.sh/blog/faster-docker-builds-using-a-remote-buildkit-instance)
+- [Spice: Fine-grained parallelism with sub-nanosecond overhead in Zig](https://github.com/judofyr/spice)
+- [User-defined Order in SQL &lpar;2018&rpar;](https://begriffs.com/posts/2018-03-20-user-defined-order.html)
+- [Workers are stuck in place because everyone is too afraid of a recession to quit](https://boredbat.com/american-workers-are-stuck-in-place-because-everyone-is-too-afraid-of-a-recession-to-quit/#google_vignette)
+- [Distributed == Relational](https://frest.substack.com/p/distributed-relational)
+- [NASA investigation finds Boeing hindering Americans&#39; return to moon](https://www.flyingmag.com/modern/nasa-investigation-finds-boeing-hindering-americans-return-to-moon/)
+- [History of Hacker News Search from 2007 to 2024](https://trieve.ai/history-of-hnsearch/)
+- [Federal appeals court finds geofence warrants &quot;categorically&quot; unconstitutional](https://www.eff.org/deeplinks/2024/08/federal-appeals-court-finds-geofence-warrants-are-categorically-unconstitutional)
+- [TP-Link GPL Code Center](https://www.tp-link.com/us/support/gpl-code/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [US election live: Trump rehashes vitriol and falsehoods in rambling talk with Musk on X](https://www.theguardian.com/us-news/live/2024/aug/12/trump-elon-musk-x-us-election-latest-updates)
-- [Is Ukraine’s incursion into Russia a gamble that could pay off? – podcast](https://www.theguardian.com/news/audio/2024/aug/13/is-ukraine-incursion-into-russia-a-gamble-that-could-pay-off-podcast)
-- [Ukraine says it has seized 1,000 sq km in Kursk offensive as Putin vows ‘worthy response’](https://www.theguardian.com/world/article/2024/aug/13/ukraine-kursk-offensive-1000-square-km-of-russia-seized-incursion)
-- [Asian cities and countries jostle in Paris for right to host 2036 Olympic Games](https://www.theguardian.com/sport/article/2024/aug/13/olympic-games-2036-host-country-asia-ioc)
-- [Judge rules against Robert F Kennedy Jr in fight to be on New York’s ballot](https://www.theguardian.com/us-news/article/2024/aug/12/robert-f-kennedy-jr-new-york-residence-ballot)
-- [Nottingham attacks: series of errors led to Valdo Calocane being discharged, review finds](https://www.theguardian.com/society/article/2024/aug/13/nottingham-attacks-series-of-errors-led-to-valdo-calocane-being-discharged-cqc-review)
-- [Education secretary warns of ‘baked-in’ inequality in English school system](https://www.theguardian.com/education/article/2024/aug/13/education-secretary-warns-of-baked-in-inequality-in-english-school-system)
-- [Premier League 2024-25 preview No 13: Manchester City](https://www.theguardian.com/football/article/2024/aug/13/premier-league-2024-25-preview-no-13-manchester-city)
-- [UK’s biggest housing association fined over four-year failure to fix window](https://www.theguardian.com/society/article/2024/aug/13/uks-biggest-housing-association-fined-over-four-year-failure-to-fix-window)
-- [Jimmy Anderson eyes T20 franchise foray as strike bowler at age of 42](https://www.theguardian.com/sport/article/2024/aug/13/jimmy-anderson-t20-franchise-cricket-england-lancashire-bowler)
+- [Tommy Robinson and the evolution of Britain’s far right - podcast](https://www.theguardian.com/news/audio/2024/aug/14/tommy-robinson-and-the-evolution-of-britains-far-right-podcast)
+- [Greece wildfires: Athens battles ‘extremely dangerous’ blaze – in pictures](https://www.theguardian.com/artanddesign/gallery/2024/aug/14/greece-wildfires-athens-battles-extremely-dangerous-blaze-in-pictures)
+- [Harris’ or Harris’s? Apostrophe row divides grammar nerds](https://www.theguardian.com/science/article/2024/aug/14/kamala-harris-or-harriss-apostrophe-row-grammar-nerds)
+- [‘We know who built this country’: Walz courts union workers in first solo event](https://www.theguardian.com/us-news/article/2024/aug/13/tim-walz-los-angeles-rally)
+- [Judgment day for Thailand PM Srettha Thavisin as court to rule on dismissal case](https://www.theguardian.com/world/article/2024/aug/14/thailand-pm-srettha-thavisin-court-case-dismissal-ruling-judgment)
+- [Revealed: how UK’s poor paid price of ‘cheapflation’ in cost of living crisis](https://www.theguardian.com/business/article/2024/aug/14/revealed-how-uks-poor-paid-price-of-cheapflation-in-cost-of-living-crisis)
+- [Premier League 2024-25 preview No 15: Newcastle](https://www.theguardian.com/football/article/2024/aug/14/premier-league-2024-25-preview-no-15-newcastle)
+- [Half a billion children live in areas with twice as many very hot days as in 1960s](https://www.theguardian.com/environment/article/2024/aug/14/half-a-billion-children-live-in-areas-with-twice-as-many-very-hot-days-as-in-1960s)
+- [RSPB criticised by watchdog for accusing politicians of being liars on X](https://www.theguardian.com/environment/article/2024/aug/14/rspb-criticised-by-watchdog-for-accusing-politicians-of-being-liars-on-x)
+- [Road sweeper denied crowdfunded holiday will go on trip after all](https://www.theguardian.com/uk-news/article/2024/aug/13/bromley-council-leader-tells-mp-to-get-better-informed-over-street-cleaners-holiday)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

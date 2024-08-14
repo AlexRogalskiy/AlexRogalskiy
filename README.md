@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [0xCAFEBABE &amp; 0xFEEDFACE](http://radio-weblogs.com/0100490/2003/01/28.html)
-- [Faster Docker builds using a remote BuildKit instance](https://www.blacksmith.sh/blog/faster-docker-builds-using-a-remote-buildkit-instance)
-- [Spice: Fine-grained parallelism with sub-nanosecond overhead in Zig](https://github.com/judofyr/spice)
-- [User-defined Order in SQL &lpar;2018&rpar;](https://begriffs.com/posts/2018-03-20-user-defined-order.html)
-- [Workers are stuck in place because everyone is too afraid of a recession to quit](https://boredbat.com/american-workers-are-stuck-in-place-because-everyone-is-too-afraid-of-a-recession-to-quit/#google_vignette)
-- [Distributed == Relational](https://frest.substack.com/p/distributed-relational)
-- [NASA investigation finds Boeing hindering Americans&#39; return to moon](https://www.flyingmag.com/modern/nasa-investigation-finds-boeing-hindering-americans-return-to-moon/)
-- [History of Hacker News Search from 2007 to 2024](https://trieve.ai/history-of-hnsearch/)
-- [Federal appeals court finds geofence warrants &quot;categorically&quot; unconstitutional](https://www.eff.org/deeplinks/2024/08/federal-appeals-court-finds-geofence-warrants-are-categorically-unconstitutional)
-- [TP-Link GPL Code Center](https://www.tp-link.com/us/support/gpl-code/)
+- [RePalm: Towards the first unauthorized PalmOS port](https://dmitry.gr/?proj=27.+rePalm&r=05.Projects)
+- [LLM-based sentiment analysis of Hacker News posts between Jan 2020 and June 2023](https://outerbounds.com/blog/hacker-news-sentiment/)
+- [Ex-Kansas police chief who raided local newspaper criminally charged](https://www.theguardian.com/us-news/article/2024/aug/13/marion-county-police-newspaper-raid-charges)
+- [Rust Atomics and Locks &lpar;2023&rpar;](https://marabos.nl/atomics/)
+- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
+- [ARPA-H announces awards to develop novel technologies for precise tumor removal](https://arpa-h.gov/news-and-events/arpa-h-announces-awards-develop-novel-technologies-precise-tumor-removal)
+- [All of Earth&#39;s water in a single sphere &lpar;2019&rpar;](https://www.usgs.gov/media/images/all-earths-water-a-single-sphere)
+- [Google Pixel 9 Pro](https://store.google.com/us/product/pixel_9_pro?hl=en-US)
+- [From object transition to RCE in the Chrome renderer](https://github.blog/security/vulnerability-research/from-object-transition-to-rce-in-the-chrome-renderer/)
+- [You&#39;ve got to hide your myopia away: John Lennon&#39;s contact lenses](https://onlinelibrary.wiley.com/doi/10.1111/opo.13351)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

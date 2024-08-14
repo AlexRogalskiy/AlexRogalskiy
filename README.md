@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Reliability, constant work, and a good cup of coffee](https://aws.amazon.com/builders-library/reliability-and-constant-work/)
-- [Wormable Substack XSS](https://blog.calif.io/p/wormable-substack-xss)
-- [Riding with a Trucker, Witnessing India&#39;s Past and Potential](https://www.nytimes.com/2024/07/31/business/india-trucking-highways-infrastructure.html)
-- [Show HN: Give us your rawest feedback](https://orchid.ac)
-- [GitHub Star History](https://star-history.com/)
-- [The AI Scientist: Towards Automated Open-Ended Scientific Discovery](https://sakana.ai/ai-scientist/)
-- [More schools banning students from using smartphones during class times](https://9to5mac.com/2024/08/12/schools-banning-students-from-using-smartphones/)
-- [TTA: When Advanced Civilizations Decide to MOV Beyond von Neumann](https://en.wikipedia.org/wiki/Transport_triggered_architecture)
-- [Lix 2.91 &quot;Dragon&#39;s Breath&quot;](https://lix.systems/blog/2024-08-12-lix-2.91-release/)
-- [Elon Musk, Donald Trump event on X crashes site](https://www.cnbc.com/2024/08/12/elon-musk-donald-trump-event-on-x-crashes-site-tesla-ceo-blames-hackers.html)
+- [Hospitals&#39; New Push: Treating Patients in Their Homes](https://www.wsj.com/health/healthcare/hospitals-new-push-treating-patients-in-their-homes-aaffd18d)
+- [U.S. Considers Breaking Up Google to Address Search Monopoly](https://www.nytimes.com/2024/08/13/technology/google-monopoly-antitrust-justice-department.html)
+- [Say &#39;aah&#39; and get a diagnosis on the spot: is this the future of health?](https://www.eurekalert.org/news-releases/1054273)
+- [Python Library for Structured Data Extraction via LLM](https://www.expectedparrot.com/)
+- [Sort, sweep, and prune: Collision detection algorithms](https://leanrada.com/notes/sweep-and-prune/)
+- [Overspent Azure Credits](https://news.ycombinator.com/item?id=41241938)
+- [Stalking Waymo&#39;s Zeekr CM1e Robotaxi Test Vehicle for Nine Minutes [video]](https://www.youtube.com/watch?v=LBVI6UFmUnE)
+- [The TikTok Case Will Be Determined by What&#39;s Behind the Government&#39;s Black Lines](https://www.lawfaremedia.org/article/the-tiktok-case-will-be-determined-by-what-s-behind-the-government-s-black-lines)
+- [Determining Cat Chirality &lpar;2017&rpar;](http://blog.dimview.org/math/2017/07/28/cat-chirality.html)
+- [SpaceX: CNBC&#39;s story on Starship&#39;s launch operations is factually inaccurate](https://twitter.com/SpaceX/status/1823080774012481862)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

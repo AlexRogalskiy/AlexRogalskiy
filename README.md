@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [RePalm: Towards the first unauthorized PalmOS port](https://dmitry.gr/?proj=27.+rePalm&r=05.Projects)
-- [LLM-based sentiment analysis of Hacker News posts between Jan 2020 and June 2023](https://outerbounds.com/blog/hacker-news-sentiment/)
-- [Ex-Kansas police chief who raided local newspaper criminally charged](https://www.theguardian.com/us-news/article/2024/aug/13/marion-county-police-newspaper-raid-charges)
-- [Rust Atomics and Locks &lpar;2023&rpar;](https://marabos.nl/atomics/)
-- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
-- [ARPA-H announces awards to develop novel technologies for precise tumor removal](https://arpa-h.gov/news-and-events/arpa-h-announces-awards-develop-novel-technologies-precise-tumor-removal)
-- [All of Earth&#39;s water in a single sphere &lpar;2019&rpar;](https://www.usgs.gov/media/images/all-earths-water-a-single-sphere)
-- [Google Pixel 9 Pro](https://store.google.com/us/product/pixel_9_pro?hl=en-US)
-- [From object transition to RCE in the Chrome renderer](https://github.blog/security/vulnerability-research/from-object-transition-to-rce-in-the-chrome-renderer/)
-- [You&#39;ve got to hide your myopia away: John Lennon&#39;s contact lenses](https://onlinelibrary.wiley.com/doi/10.1111/opo.13351)
+- [Google pulls the plug on uBlock Origin, leaving over 30M Chrome users sus](https://www.windowscentral.com/software-apps/browsing/google-pulls-the-plug-on-ublock-origin)
+- [Repulsive Shells [video]](https://www.youtube.com/watch?v=skEnUjpNN5w)
+- [International Study Detects Consciousness in Unresponsive Patients](https://www.massgeneralbrigham.org/en/about/newsroom/articles/consciousness-unresponsive-patients)
+- [Patrol the pool with this Arduino Nano-powered DIY RC submarine](https://blog.arduino.cc/2024/08/03/patrol-the-pool-with-this-arduino-nano-powered-diy-rc-submarine/)
+- [Algorithms through the lens of symbolic pattern matching](https://symbolica.io/posts/pattern_matching/)
+- [A Scottish Provenance for the Altar Stone of Stonehenge](https://www.nature.com/articles/s41586-024-07652-1)
+- [CoinTracker &lpar;YC W18&rpar; Is Hiring a Consumer Product Lead](https://jobs.ashbyhq.com/cointracker/83a181d0-f08c-44ff-8b8c-e0ad3b7a89a1?utm_source=hackernews)
+- [Inside the &quot;3 billion people&quot; national public data breach](https://www.troyhunt.com/inside-the-3-billion-people-national-public-data-breach/)
+- [How I won $2,750 using JavaScript, AI, and a can of WD-40](https://davekiss.com/blog/how-i-won-2750-using-javascript-ai-and-a-can-of-wd-40)
+- [How one ED mobilized his department during a mass casualty incident &lpar;2017&rpar;](https://epmonthly.com/article/not-heroes-wear-capes-one-las-vegas-ed-saved-hundreds-lives-worst-mass-shooting-u-s-history/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

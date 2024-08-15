@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Tommy Robinson and the evolution of Britain’s far right - podcast](https://www.theguardian.com/news/audio/2024/aug/14/tommy-robinson-and-the-evolution-of-britains-far-right-podcast)
-- [Greece wildfires: Athens battles ‘extremely dangerous’ blaze – in pictures](https://www.theguardian.com/artanddesign/gallery/2024/aug/14/greece-wildfires-athens-battles-extremely-dangerous-blaze-in-pictures)
-- [Harris’ or Harris’s? Apostrophe row divides grammar nerds](https://www.theguardian.com/science/article/2024/aug/14/kamala-harris-or-harriss-apostrophe-row-grammar-nerds)
-- [‘We know who built this country’: Walz courts union workers in first solo event](https://www.theguardian.com/us-news/article/2024/aug/13/tim-walz-los-angeles-rally)
-- [Judgment day for Thailand PM Srettha Thavisin as court to rule on dismissal case](https://www.theguardian.com/world/article/2024/aug/14/thailand-pm-srettha-thavisin-court-case-dismissal-ruling-judgment)
-- [Revealed: how UK’s poor paid price of ‘cheapflation’ in cost of living crisis](https://www.theguardian.com/business/article/2024/aug/14/revealed-how-uks-poor-paid-price-of-cheapflation-in-cost-of-living-crisis)
-- [Premier League 2024-25 preview No 15: Newcastle](https://www.theguardian.com/football/article/2024/aug/14/premier-league-2024-25-preview-no-15-newcastle)
-- [Half a billion children live in areas with twice as many very hot days as in 1960s](https://www.theguardian.com/environment/article/2024/aug/14/half-a-billion-children-live-in-areas-with-twice-as-many-very-hot-days-as-in-1960s)
-- [RSPB criticised by watchdog for accusing politicians of being liars on X](https://www.theguardian.com/environment/article/2024/aug/14/rspb-criticised-by-watchdog-for-accusing-politicians-of-being-liars-on-x)
-- [Road sweeper denied crowdfunded holiday will go on trip after all](https://www.theguardian.com/uk-news/article/2024/aug/13/bromley-council-leader-tells-mp-to-get-better-informed-over-street-cleaners-holiday)
+- [How Bangladesh’s longest-serving leader was toppled by student protests – podcast](https://www.theguardian.com/news/audio/2024/aug/15/how-bangladeshs-longest-serving-leader-was-toppled-by-student-protests-podcast)
+- [Columbia University president Minouche Shafik resigns in wake of Gaza protests](https://www.theguardian.com/us-news/article/2024/aug/14/columbia-university-minouche-shafik-resigns)
+- [Melbourne Symphony Orchestra says cancelling pianist performance over Gaza statement an ‘error’](https://www.theguardian.com/culture/article/2024/aug/15/melbourne-symphony-orchestra-says-cancelling-pianist-performance-over-gaza-statement-an-error-ntwnfb)
+- [Two fighter jet pilots die in France after mid-air crash](https://www.theguardian.com/world/article/2024/aug/15/rafale-fighter-jets-crash-franch-two-pilots-dead-mid-air-collision)
+- [The world is suffering a shortage of intravenous fluids – meanwhile vitamin infusions are all the rage for the worried well | Ranjana Srivastava](https://www.theguardian.com/commentisfree/article/2024/aug/15/intravenous-iv-fluids-worldwide-shortage-vitamin-infusions-cocktails-ntwnfb)
+- [Cost of fighting flooding is soaking up English councils’ cash, ministers warned](https://www.theguardian.com/environment/article/2024/aug/15/cost-of-fighting-flooding-is-soaking-up-english-councils-cash-ministers-warned)
+- [Inspection finds Met police failing or inadequate in key crime fighting areas](https://www.theguardian.com/uk-news/article/2024/aug/15/inspection-finds-met-police-failing-or-inadequate-in-key-fighting-areas)
+- [Radiographer shortage in England ‘is delaying breast cancer treatment’](https://www.theguardian.com/society/article/2024/aug/15/radiographer-shortage-in-england-delaying-breast-cancer-treatment-says-society)
+- [Premier League 2024-25 preview No 17: Southampton](https://www.theguardian.com/football/article/2024/aug/15/premier-league-2024-25-preview-no-17-southampton)
+- [Father of Spain winger Lamine Yamal reportedly stabbed in a car park](https://www.theguardian.com/football/article/2024/aug/14/father-of-spain-winger-lamine-yamal-reportedly-stabbed-in-a-car-park)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

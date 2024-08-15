@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Hospitals&#39; New Push: Treating Patients in Their Homes](https://www.wsj.com/health/healthcare/hospitals-new-push-treating-patients-in-their-homes-aaffd18d)
-- [U.S. Considers Breaking Up Google to Address Search Monopoly](https://www.nytimes.com/2024/08/13/technology/google-monopoly-antitrust-justice-department.html)
-- [Say &#39;aah&#39; and get a diagnosis on the spot: is this the future of health?](https://www.eurekalert.org/news-releases/1054273)
-- [Python Library for Structured Data Extraction via LLM](https://www.expectedparrot.com/)
-- [Sort, sweep, and prune: Collision detection algorithms](https://leanrada.com/notes/sweep-and-prune/)
-- [Overspent Azure Credits](https://news.ycombinator.com/item?id=41241938)
-- [Stalking Waymo&#39;s Zeekr CM1e Robotaxi Test Vehicle for Nine Minutes [video]](https://www.youtube.com/watch?v=LBVI6UFmUnE)
-- [The TikTok Case Will Be Determined by What&#39;s Behind the Government&#39;s Black Lines](https://www.lawfaremedia.org/article/the-tiktok-case-will-be-determined-by-what-s-behind-the-government-s-black-lines)
-- [Determining Cat Chirality &lpar;2017&rpar;](http://blog.dimview.org/math/2017/07/28/cat-chirality.html)
-- [SpaceX: CNBC&#39;s story on Starship&#39;s launch operations is factually inaccurate](https://twitter.com/SpaceX/status/1823080774012481862)
+- [NYC elected officials push for student newspapers at every high school](https://gothamist.com/news/nyc-elected-officials-push-for-student-newspapers-at-every-high-school)
+- [Poker Pros, Crypto Kings, and Tech Titans: Nate Silver&#39;s Guide to &quot;The River&quot;](https://www.vanityfair.com/news/story/nate-silver-on-the-edge)
+- [Hope for coeliacs after study discovers origin of gluten response](https://cosmosmagazine.com/science/biology/hope-for-coeliacs-after-study-discovers-origin-of-gluten-response/)
+- [The Nutritional Content of Holy Communion](https://www.ocweekly.com/the-nutritional-content-of-holy-communion-6618675/)
+- [FTC bans fake online reviews, inflated social media influence; effective October](https://www.cnbc.com/2024/08/14/ftc-bans-fake-reviews-social-media-influence-markers.html)
+- [Fermi Estimation &lpar;By Ted-Ed&rpar; [video]](https://www.youtube.com/watch?v=0YzvupOX8Is)
+- [Nate Silver Knows Who Will Win &quot;It&#39;s Okay to Be Polarizing.&quot;](https://nymag.com/intelligencer/article/nate-silver-on-how-to-predict-baseball-games-and-elections.html)
+- [Sonos lays off 100 employees as its app crisis continues](https://www.theverge.com/2024/8/14/24220357/sonos-layoffs-august-2024-app)
+- [The Magical World of Quantum Computers](https://www.knowledgebytes.tech/p/magical-world-quantum-computers)
+- [Nu-Klear Fallout Detector &lpar;ca. 1962-1968&rpar;](https://www.orau.org/health-physics-museum/collection/civil-defense/citizens/nuklear.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

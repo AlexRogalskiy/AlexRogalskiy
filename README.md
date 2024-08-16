@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [How Bangladesh’s longest-serving leader was toppled by student protests – podcast](https://www.theguardian.com/news/audio/2024/aug/15/how-bangladeshs-longest-serving-leader-was-toppled-by-student-protests-podcast)
-- [Columbia University president Minouche Shafik resigns in wake of Gaza protests](https://www.theguardian.com/us-news/article/2024/aug/14/columbia-university-minouche-shafik-resigns)
-- [Melbourne Symphony Orchestra says cancelling pianist performance over Gaza statement an ‘error’](https://www.theguardian.com/culture/article/2024/aug/15/melbourne-symphony-orchestra-says-cancelling-pianist-performance-over-gaza-statement-an-error-ntwnfb)
-- [Two fighter jet pilots die in France after mid-air crash](https://www.theguardian.com/world/article/2024/aug/15/rafale-fighter-jets-crash-franch-two-pilots-dead-mid-air-collision)
-- [The world is suffering a shortage of intravenous fluids – meanwhile vitamin infusions are all the rage for the worried well | Ranjana Srivastava](https://www.theguardian.com/commentisfree/article/2024/aug/15/intravenous-iv-fluids-worldwide-shortage-vitamin-infusions-cocktails-ntwnfb)
-- [Cost of fighting flooding is soaking up English councils’ cash, ministers warned](https://www.theguardian.com/environment/article/2024/aug/15/cost-of-fighting-flooding-is-soaking-up-english-councils-cash-ministers-warned)
-- [Inspection finds Met police failing or inadequate in key crime fighting areas](https://www.theguardian.com/uk-news/article/2024/aug/15/inspection-finds-met-police-failing-or-inadequate-in-key-fighting-areas)
-- [Radiographer shortage in England ‘is delaying breast cancer treatment’](https://www.theguardian.com/society/article/2024/aug/15/radiographer-shortage-in-england-delaying-breast-cancer-treatment-says-society)
-- [Premier League 2024-25 preview No 17: Southampton](https://www.theguardian.com/football/article/2024/aug/15/premier-league-2024-25-preview-no-17-southampton)
-- [Father of Spain winger Lamine Yamal reportedly stabbed in a car park](https://www.theguardian.com/football/article/2024/aug/14/father-of-spain-winger-lamine-yamal-reportedly-stabbed-in-a-car-park)
+- [The astronauts ‘stuck’ in space – podcast](https://www.theguardian.com/news/audio/2024/aug/16/the-astronauts-stuck-in-space-podcast)
+- [The Deliverance review – Lee Daniels exorcism horror runs with strong cast in real-life story](https://www.theguardian.com/film/article/2024/aug/16/the-deliverance-review-lee-daniels-exorcism-horror-runs-with-strong-cast-in-real-life-story)
+- [Who will be Japan’s next PM? Ruling LDP set to begin ‘especially chaotic’ party election](https://www.theguardian.com/world/article/2024/aug/16/who-will-be-japan-next-pm-election-candidates-ldp-liberal-democratic-party)
+- [Ukraine war briefing: Russia hiring trench diggers after Kursk invasion](https://www.theguardian.com/world/article/2024/aug/16/ukraine-war-briefing-russia-hiring-trench-diggers-after-kursk-invasion)
+- [The Union review – Halle Berry and Mark Wahlberg heat up Netflix action flick](https://www.theguardian.com/film/article/2024/aug/16/the-union-review-halle-berry-mark-wahlberg-netflix)
+- [Trump adds five new advisers as he tries to find attack lines against Harris](https://www.theguardian.com/us-news/article/2024/aug/15/trump-campaign-new-advisers-election)
+- [Raygun: pilloried Australian Olympics breakdancer says online hate has been ‘devastating’](https://www.theguardian.com/sport/article/2024/aug/15/raygun-rachael-gunn-pilloried-olympics-breakdancer-says-online-hate-has-been-devastating)
+- [Contaminated blood scandal payouts to start by end of year, says UK government](https://www.theguardian.com/uk-news/article/2024/aug/16/contaminated-blood-scandal-payouts-to-start-by-end-of-year-says-uk-government)
+- [British MPs appeal to Azerbaijan government to free detained academic](https://www.theguardian.com/world/article/2024/aug/16/british-mps-appeal-azerbaijan-free-detained-academic-gubad-ibadoghlu)
+- [Premier League 2024-25 preview No 19: West Ham](https://www.theguardian.com/football/article/2024/aug/16/premier-league-2024-25-preview-no-19-west-ham)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

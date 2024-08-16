@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Google pulls the plug on uBlock Origin, leaving over 30M Chrome users sus](https://www.windowscentral.com/software-apps/browsing/google-pulls-the-plug-on-ublock-origin)
-- [Repulsive Shells [video]](https://www.youtube.com/watch?v=skEnUjpNN5w)
-- [International Study Detects Consciousness in Unresponsive Patients](https://www.massgeneralbrigham.org/en/about/newsroom/articles/consciousness-unresponsive-patients)
-- [Patrol the pool with this Arduino Nano-powered DIY RC submarine](https://blog.arduino.cc/2024/08/03/patrol-the-pool-with-this-arduino-nano-powered-diy-rc-submarine/)
-- [Algorithms through the lens of symbolic pattern matching](https://symbolica.io/posts/pattern_matching/)
-- [A Scottish Provenance for the Altar Stone of Stonehenge](https://www.nature.com/articles/s41586-024-07652-1)
-- [CoinTracker &lpar;YC W18&rpar; Is Hiring a Consumer Product Lead](https://jobs.ashbyhq.com/cointracker/83a181d0-f08c-44ff-8b8c-e0ad3b7a89a1?utm_source=hackernews)
-- [Inside the &quot;3 billion people&quot; national public data breach](https://www.troyhunt.com/inside-the-3-billion-people-national-public-data-breach/)
-- [How I won $2,750 using JavaScript, AI, and a can of WD-40](https://davekiss.com/blog/how-i-won-2750-using-javascript-ai-and-a-can-of-wd-40)
-- [How one ED mobilized his department during a mass casualty incident &lpar;2017&rpar;](https://epmonthly.com/article/not-heroes-wear-capes-one-las-vegas-ed-saved-hundreds-lives-worst-mass-shooting-u-s-history/)
+- [SREBench Competition](https://sreben.ch/)
+- [CEOs Are Running Companies from Afar Even as Workers Return to Office](https://www.bloomberg.com/news/articles/2024-08-15/starbucks-victoria-s-secret-are-part-of-broader-trend-of-remote-ceos)
+- [We&#39;re Cutting L40S Prices in Half](https://fly.io/blog/cutting-prices-for-l40s-gpus-in-half/)
+- [ImRAD is a GUI builder for the ImGui library](https://github.com/tpecholt/imrad)
+- [Nationalpublicdata.com Hack Exposes a Nation&#39;s Data](https://krebsonsecurity.com/2024/08/nationalpublicdata-com-hack-exposes-a-nations-data/)
+- [RP2350 PicoDVI Preview](https://github.com/Wren6991/PicoDVI/commit/ca941baf37e3f04738b8e641896d85feb3430385)
+- [One man&#39;s quest to restore the first-ever Air Force One](https://www.atlasobscura.com/articles/first-air-force-one)
+- [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=41260321)
+- [We survived 10k requests/second: Switching to signed asset URLs in an emergency](https://hardcover.app/blog/how-we-survived-10k-requests-second-switching-to-signed-urls)
+- [Cleaning up the aging brain: Scientists restore brain&#39;s trash disposal system](https://www.sciencedaily.com/releases/2024/08/240815124156.htm)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

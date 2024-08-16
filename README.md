@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [NYC elected officials push for student newspapers at every high school](https://gothamist.com/news/nyc-elected-officials-push-for-student-newspapers-at-every-high-school)
-- [Poker Pros, Crypto Kings, and Tech Titans: Nate Silver&#39;s Guide to &quot;The River&quot;](https://www.vanityfair.com/news/story/nate-silver-on-the-edge)
-- [Hope for coeliacs after study discovers origin of gluten response](https://cosmosmagazine.com/science/biology/hope-for-coeliacs-after-study-discovers-origin-of-gluten-response/)
-- [The Nutritional Content of Holy Communion](https://www.ocweekly.com/the-nutritional-content-of-holy-communion-6618675/)
-- [FTC bans fake online reviews, inflated social media influence; effective October](https://www.cnbc.com/2024/08/14/ftc-bans-fake-reviews-social-media-influence-markers.html)
-- [Fermi Estimation &lpar;By Ted-Ed&rpar; [video]](https://www.youtube.com/watch?v=0YzvupOX8Is)
-- [Nate Silver Knows Who Will Win &quot;It&#39;s Okay to Be Polarizing.&quot;](https://nymag.com/intelligencer/article/nate-silver-on-how-to-predict-baseball-games-and-elections.html)
-- [Sonos lays off 100 employees as its app crisis continues](https://www.theverge.com/2024/8/14/24220357/sonos-layoffs-august-2024-app)
-- [The Magical World of Quantum Computers](https://www.knowledgebytes.tech/p/magical-world-quantum-computers)
-- [Nu-Klear Fallout Detector &lpar;ca. 1962-1968&rpar;](https://www.orau.org/health-physics-museum/collection/civil-defense/citizens/nuklear.html)
+- [NASA&#39;s Perseverance Rover to Begin Long Climb Up Martian Crater Rim](https://www.jpl.nasa.gov/news/nasas-perseverance-rover-to-begin-long-climb-up-martian-crater-rim)
+- [Ask HN: Why are AI generated images so shiny/glossy?](https://news.ycombinator.com/item?id=41262547)
+- [Asus Expert Center PN53: A powerful mini-PC with fan problems](https://www.pcworld.com/article/2213936/asus-expert-center-pn53-mini-pc-review.html)
+- [OurDigitalGrowth: Digital Marketing Growth Strategies and Tools](https://ourdigitalgrowth.com/)
+- [More People Are Overdosing on Ozempic Alternatives](https://www.nytimes.com/2024/08/06/well/ozempic-semaglutide-overdose-risks.html)
+- [A Nazi Villa So Tainted Berlin Can&#39;t Give It Away](https://www.nytimes.com/2024/08/12/world/europe/joseph-goebbels-germany-nazi-house.html)
+- [Ditch Banks – Go with Money Market Funds and Treasuries](https://thefinancebuff.com/goodbye-banks-credit-unions.html)
+- [Emily Dickinson&#39;s Known World](https://www.nationalreview.com/magazine/2024/09/emily-dickinsons-known-world/)
+- [Disney wants wrongful death suit thrown out because widower had Disney+](https://www.cnn.com/2024/08/14/business/disney-plus-wrongful-death-lawsuit/index.html)
+- [Ask HN: Is Post-Quantum Crypto necessary already?](https://news.ycombinator.com/item?id=41262406)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

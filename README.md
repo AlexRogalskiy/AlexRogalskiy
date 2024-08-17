@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [NASA&#39;s Perseverance Rover to Begin Long Climb Up Martian Crater Rim](https://www.jpl.nasa.gov/news/nasas-perseverance-rover-to-begin-long-climb-up-martian-crater-rim)
-- [Ask HN: Why are AI generated images so shiny/glossy?](https://news.ycombinator.com/item?id=41262547)
-- [Asus Expert Center PN53: A powerful mini-PC with fan problems](https://www.pcworld.com/article/2213936/asus-expert-center-pn53-mini-pc-review.html)
-- [OurDigitalGrowth: Digital Marketing Growth Strategies and Tools](https://ourdigitalgrowth.com/)
-- [More People Are Overdosing on Ozempic Alternatives](https://www.nytimes.com/2024/08/06/well/ozempic-semaglutide-overdose-risks.html)
-- [A Nazi Villa So Tainted Berlin Can&#39;t Give It Away](https://www.nytimes.com/2024/08/12/world/europe/joseph-goebbels-germany-nazi-house.html)
-- [Ditch Banks – Go with Money Market Funds and Treasuries](https://thefinancebuff.com/goodbye-banks-credit-unions.html)
-- [Emily Dickinson&#39;s Known World](https://www.nationalreview.com/magazine/2024/09/emily-dickinsons-known-world/)
-- [Disney wants wrongful death suit thrown out because widower had Disney+](https://www.cnn.com/2024/08/14/business/disney-plus-wrongful-death-lawsuit/index.html)
-- [Ask HN: Is Post-Quantum Crypto necessary already?](https://news.ycombinator.com/item?id=41262406)
+- [David Boies Is in Delta&#39;s Corner–and Faces an Old Foe](https://www.wsj.com/business/david-boies-delta-crowdstrike-microsoft-litigation-998f07b7)
+- [Faster random integer generation with batching](https://lemire.me/blog/2024/08/17/faster-random-integer-generation-with-batching/)
+- [Ditch the Sim Rig! Use Your Car Instead](https://outlandnish.com/hacks/ditch-the-sim-rig-use-your-car-instead/)
+- [Unsaflok: Unlocking Hotel Locks [pdf]](https://unsaflok.com/videos/slides.pdf)
+- [Spaces – Meaningful connections, driven by you](https://spacesnet.xyz/)
+- [How to Interview and Hire ML/AI Engineers](https://eugeneyan.com/writing/how-to-interview/)
+- [An Insider&#39;s Perspective into The Pentagon&#39;s UFO Hunt](https://www.nytimes.com/2024/08/16/books/booksupdate/imminent-luiz-elizondo.html)
+- [Knowing When to Move on [video]](https://www.youtube.com/watch?v=_7nPP11-4fg)
+- [New brain-computer interface allows man with ALS to &#39;speak&#39; again](https://www.sciencedaily.com/releases/2024/08/240814170129.htm)
+- [Ren&#39;Py](https://github.com/renpy/renpy)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

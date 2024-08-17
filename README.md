@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [The astronauts ‘stuck’ in space – podcast](https://www.theguardian.com/news/audio/2024/aug/16/the-astronauts-stuck-in-space-podcast)
-- [The Deliverance review – Lee Daniels exorcism horror runs with strong cast in real-life story](https://www.theguardian.com/film/article/2024/aug/16/the-deliverance-review-lee-daniels-exorcism-horror-runs-with-strong-cast-in-real-life-story)
-- [Who will be Japan’s next PM? Ruling LDP set to begin ‘especially chaotic’ party election](https://www.theguardian.com/world/article/2024/aug/16/who-will-be-japan-next-pm-election-candidates-ldp-liberal-democratic-party)
-- [Ukraine war briefing: Russia hiring trench diggers after Kursk invasion](https://www.theguardian.com/world/article/2024/aug/16/ukraine-war-briefing-russia-hiring-trench-diggers-after-kursk-invasion)
-- [The Union review – Halle Berry and Mark Wahlberg heat up Netflix action flick](https://www.theguardian.com/film/article/2024/aug/16/the-union-review-halle-berry-mark-wahlberg-netflix)
-- [Trump adds five new advisers as he tries to find attack lines against Harris](https://www.theguardian.com/us-news/article/2024/aug/15/trump-campaign-new-advisers-election)
-- [Raygun: pilloried Australian Olympics breakdancer says online hate has been ‘devastating’](https://www.theguardian.com/sport/article/2024/aug/15/raygun-rachael-gunn-pilloried-olympics-breakdancer-says-online-hate-has-been-devastating)
-- [Contaminated blood scandal payouts to start by end of year, says UK government](https://www.theguardian.com/uk-news/article/2024/aug/16/contaminated-blood-scandal-payouts-to-start-by-end-of-year-says-uk-government)
-- [British MPs appeal to Azerbaijan government to free detained academic](https://www.theguardian.com/world/article/2024/aug/16/british-mps-appeal-azerbaijan-free-detained-academic-gubad-ibadoghlu)
-- [Premier League 2024-25 preview No 19: West Ham](https://www.theguardian.com/football/article/2024/aug/16/premier-league-2024-25-preview-no-19-west-ham)
+- [Turkey parliament descends into chaos as dozens of MPs take part in fistfight](https://www.theguardian.com/world/article/2024/aug/17/turkey-parliament-descends-into-chaos-as-dozens-of-mps-take-part-in-fistfight)
+- [Hurricane Ernesto bears down on Bermuda amid deadly flood warnings](https://www.theguardian.com/world/article/2024/aug/16/hurricane-ernesto-bermuda)
+- [Melbourne Symphony Orchestra board promises independent review after musicians revolt over Gaza comments controversy](https://www.theguardian.com/australia-news/article/2024/aug/17/melbourne-symphony-orchestra-board-promises-independent-review-after-musicians-revolt-over-gaza-jayson-gillham-controversy-ntwnfb)
+- [Ukraine war briefing: Russian troops advancing ‘at fast pace’ on key eastern city of Pokrovsk](https://www.theguardian.com/world/article/2024/aug/17/ukraine-war-briefing-russian-troops-advancing-at-fast-pace-on-key-eastern-city-of-pokrovsk)
+- [Haji Wright’s late goal gives Coventry dramatic victory over Oxford United](https://www.theguardian.com/football/article/2024/aug/17/haji-wrights-late-goal-gives-coventry-dramatic-victory-over-oxford-united)
+- [Yvette Cooper says today’s teenagers have it ‘much, much harder’](https://www.theguardian.com/politics/article/2024/aug/16/yvette-cooper-says-todays-teenagers-have-it-much-much-harder)
+- [Warning over rise in children on disability benefits in England and Wales](https://www.theguardian.com/society/article/2024/aug/17/children-disability-benefits-england-and-wales-resolution-foundation)
+- [Tesco recalls ‘melt in the middle’ meat-free burgers due to burn risk](https://www.theguardian.com/business/article/2024/aug/16/tesco-recalls-melt-in-the-middle-meat-free-burgers-due-to-burn-risk)
+- [Iranian group used ChatGPT to try to influence US election, OpenAI says](https://www.theguardian.com/technology/article/2024/aug/16/open-ai-chatgpt-iran)
+- [Evidence in first Lucy Letby trial was incorrect, CPS admits](https://www.theguardian.com/uk-news/article/2024/aug/16/evidence-in-first-lucy-letby-trial-was-incorrect-cps-admits)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

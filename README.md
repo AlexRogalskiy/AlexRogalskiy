@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [SREBench Competition](https://sreben.ch/)
-- [CEOs Are Running Companies from Afar Even as Workers Return to Office](https://www.bloomberg.com/news/articles/2024-08-15/starbucks-victoria-s-secret-are-part-of-broader-trend-of-remote-ceos)
-- [We&#39;re Cutting L40S Prices in Half](https://fly.io/blog/cutting-prices-for-l40s-gpus-in-half/)
-- [ImRAD is a GUI builder for the ImGui library](https://github.com/tpecholt/imrad)
-- [Nationalpublicdata.com Hack Exposes a Nation&#39;s Data](https://krebsonsecurity.com/2024/08/nationalpublicdata-com-hack-exposes-a-nations-data/)
-- [RP2350 PicoDVI Preview](https://github.com/Wren6991/PicoDVI/commit/ca941baf37e3f04738b8e641896d85feb3430385)
-- [One man&#39;s quest to restore the first-ever Air Force One](https://www.atlasobscura.com/articles/first-air-force-one)
-- [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=41260321)
-- [We survived 10k requests/second: Switching to signed asset URLs in an emergency](https://hardcover.app/blog/how-we-survived-10k-requests-second-switching-to-signed-urls)
-- [Cleaning up the aging brain: Scientists restore brain&#39;s trash disposal system](https://www.sciencedaily.com/releases/2024/08/240815124156.htm)
+- [Show HN: an AI copilot for Next.js developers](https://useglass.ai)
+- [The last secret of the H.L. Hunley](https://mikedashhistory.com/2014/05/10/the-last-secret-of-the-h-l-hunley-still-working/)
+- [Zngur: A C++/Rust interop tool](https://hkalbasi.github.io/zngur/)
+- [Synthesizing Abstract Transformers for Reduced-Product Domains](https://arxiv.org/abs/2408.04040)
+- [ThreadPlotter – toolkit for punch needle embroidery with X-Y plotters &lpar;2020&rpar;](https://github.com/LiciaHe/threadPlotter)
+- [Jerry &lpar;YC S17&rpar; Is Hiring Lead Product &lpar;New Product,B2B GenAI Platform&rpar;](https://jobs.ashbyhq.com/Jerry/d972d5ea-c671-49a9-b964-5fe829f075cf)
+- [The Bare Minimum Beats: Panasonic&#39;s RD-9844 Rhythm Machine](https://nicole.express/2024/panasonic-the-hedgehog.html)
+- [LLM and Bug Finding: Insights from a $2M Winning Team in the White House&#39;s AIxCC](https://team-atlanta.github.io/blog/post-atl/)
+- [Fun times with energy-based models](https://mpmisko.github.io/2024/ai-fundamentals-energy-based-models/)
+- [VanillaJSX.com](https://vanillajsx.com/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Turkey parliament descends into chaos as dozens of MPs take part in fistfight](https://www.theguardian.com/world/article/2024/aug/17/turkey-parliament-descends-into-chaos-as-dozens-of-mps-take-part-in-fistfight)
-- [Hurricane Ernesto bears down on Bermuda amid deadly flood warnings](https://www.theguardian.com/world/article/2024/aug/16/hurricane-ernesto-bermuda)
-- [Melbourne Symphony Orchestra board promises independent review after musicians revolt over Gaza comments controversy](https://www.theguardian.com/australia-news/article/2024/aug/17/melbourne-symphony-orchestra-board-promises-independent-review-after-musicians-revolt-over-gaza-jayson-gillham-controversy-ntwnfb)
-- [Ukraine war briefing: Russian troops advancing ‘at fast pace’ on key eastern city of Pokrovsk](https://www.theguardian.com/world/article/2024/aug/17/ukraine-war-briefing-russian-troops-advancing-at-fast-pace-on-key-eastern-city-of-pokrovsk)
-- [Haji Wright’s late goal gives Coventry dramatic victory over Oxford United](https://www.theguardian.com/football/article/2024/aug/17/haji-wrights-late-goal-gives-coventry-dramatic-victory-over-oxford-united)
-- [Yvette Cooper says today’s teenagers have it ‘much, much harder’](https://www.theguardian.com/politics/article/2024/aug/16/yvette-cooper-says-todays-teenagers-have-it-much-much-harder)
-- [Warning over rise in children on disability benefits in England and Wales](https://www.theguardian.com/society/article/2024/aug/17/children-disability-benefits-england-and-wales-resolution-foundation)
-- [Tesco recalls ‘melt in the middle’ meat-free burgers due to burn risk](https://www.theguardian.com/business/article/2024/aug/16/tesco-recalls-melt-in-the-middle-meat-free-burgers-due-to-burn-risk)
-- [Iranian group used ChatGPT to try to influence US election, OpenAI says](https://www.theguardian.com/technology/article/2024/aug/16/open-ai-chatgpt-iran)
-- [Evidence in first Lucy Letby trial was incorrect, CPS admits](https://www.theguardian.com/uk-news/article/2024/aug/16/evidence-in-first-lucy-letby-trial-was-incorrect-cps-admits)
+- [Trump campaign reset goes awry in Pennsylvania as he attacks Harris](https://www.theguardian.com/us-news/article/2024/aug/17/trump-pennsylvania-rally)
+- [Extreme misogyny to be treated as terrorism under UK government plans](https://www.theguardian.com/society/article/2024/aug/18/extreme-misogyny-to-be-treated-as-form-of-terrorism-under-government-plans)
+- [One Man Musical by Flo &amp; Joan review – Andrew Lloyd Webber gets ‘a show about me!’](https://www.theguardian.com/stage/article/2024/aug/18/one-man-musical-by-flo-joan-review-andrew-lloyd-webber-pleasance-dome-edinburgh)
+- [We Love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2024/aug/17/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [The moment I knew: as he dived naked through the waves, I recognised him as my soulmate](https://www.theguardian.com/lifeandstyle/article/2024/aug/18/the-moment-i-knew-as-he-dived-naked-through-the-waves-i-recognised-him-as-my-soulmate)
+- [Slow the growth, save the world? Why declining birth rates need not mean an end to prosperity](https://www.theguardian.com/world/article/2024/aug/18/slow-the-growth-save-the-world-why-declining-birth-rates-need-not-mean-an-end-to-prosperity)
+- [Croc shock as Houdini the elusive crocodile pops up again in outback Queensland town](https://www.theguardian.com/environment/article/2024/aug/18/crocodile-houdini-of-hughenden-croc-outback-australia-qld-queensland)
+- [Roxane Gay: ‘What is the weirdest thing I have done for love? Live with cats’](https://www.theguardian.com/books/article/2024/aug/18/roxane-gay-carriageworks-melbourne-town-hall-interview-10-chaotic-questions)
+- [Safety at Ukraine’s Zaporizhzhia nuclear plant deteriorating, IAEA warns](https://www.theguardian.com/world/article/2024/aug/17/safety-at-ukraines-zaporizhzhia-nuclear-plant-deteriorating-iaea-warns)
+- [‘He has gained our respect’: Mikel Arteta hails Havertz after Arsenal’s fast start](https://www.theguardian.com/football/article/2024/aug/17/he-has-gained-our-respect-mikel-arteta-hails-kai-havertz-after-arsenals-fast-start)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

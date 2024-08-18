@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [David Boies Is in Delta&#39;s Corner–and Faces an Old Foe](https://www.wsj.com/business/david-boies-delta-crowdstrike-microsoft-litigation-998f07b7)
-- [Faster random integer generation with batching](https://lemire.me/blog/2024/08/17/faster-random-integer-generation-with-batching/)
-- [Ditch the Sim Rig! Use Your Car Instead](https://outlandnish.com/hacks/ditch-the-sim-rig-use-your-car-instead/)
-- [Unsaflok: Unlocking Hotel Locks [pdf]](https://unsaflok.com/videos/slides.pdf)
-- [Spaces – Meaningful connections, driven by you](https://spacesnet.xyz/)
-- [How to Interview and Hire ML/AI Engineers](https://eugeneyan.com/writing/how-to-interview/)
-- [An Insider&#39;s Perspective into The Pentagon&#39;s UFO Hunt](https://www.nytimes.com/2024/08/16/books/booksupdate/imminent-luiz-elizondo.html)
-- [Knowing When to Move on [video]](https://www.youtube.com/watch?v=_7nPP11-4fg)
-- [New brain-computer interface allows man with ALS to &#39;speak&#39; again](https://www.sciencedaily.com/releases/2024/08/240814170129.htm)
-- [Ren&#39;Py](https://github.com/renpy/renpy)
+- [Air Quality Monitors Compared: AirGradient One vs. Airthings](https://www.airgradient.com/blog/airgradient-vs-airthings/)
+- [San Francisco&#39;s Millennium Tower owners could face $10k fine for open windows](https://www.nbcbayarea.com/investigations/millennium-tower-owners-could-face-10k-fine-for-open-windows/3627918/)
+- [The Challenges of Creating Your Own Products [video]](https://www.youtube.com/watch?v=Z2z8Bpz_5sE)
+- [He Made a Game About a Joyous Journey. He Also Got a Bit Lost](https://www.nytimes.com/2024/08/16/arts/anthony-tan-way-to-the-woods.html)
+- [Show HN: Mac calendar Event Reminder in menu bar](https://apps.apple.com/cn/app/aicalendarreminder/id6503137612?mt=12)
+- [Swim – A Scalable Membership Protocol for Distributed System in Rust](https://github.com/TheDhejavu/gossipod)
+- [Share the Open-Source Neo-Retro UI: Vintage Design Meets Modern Web Development](https://github.com/maojindao55/neo-retro-ui)
+- [Male autism is linked to brain aromatase disruption by maternal bisphenol A](https://www.nature.com/articles/s41467-024-48897-8)
+- [Entity Linking and Relationship Extraction with Relik in LlamaIndex](https://neo4j.com/developer-blog/entity-linking-relationship-extraction-relik-llamaindex/)
+- [An Introduction to Time Series Forecasting with Generative AI](https://www.databricks.com/blog/introduction-time-series-forecasting-generative-ai)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

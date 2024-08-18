@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Show HN: an AI copilot for Next.js developers](https://useglass.ai)
-- [The last secret of the H.L. Hunley](https://mikedashhistory.com/2014/05/10/the-last-secret-of-the-h-l-hunley-still-working/)
-- [Zngur: A C++/Rust interop tool](https://hkalbasi.github.io/zngur/)
-- [Synthesizing Abstract Transformers for Reduced-Product Domains](https://arxiv.org/abs/2408.04040)
-- [ThreadPlotter – toolkit for punch needle embroidery with X-Y plotters &lpar;2020&rpar;](https://github.com/LiciaHe/threadPlotter)
-- [Jerry &lpar;YC S17&rpar; Is Hiring Lead Product &lpar;New Product,B2B GenAI Platform&rpar;](https://jobs.ashbyhq.com/Jerry/d972d5ea-c671-49a9-b964-5fe829f075cf)
-- [The Bare Minimum Beats: Panasonic&#39;s RD-9844 Rhythm Machine](https://nicole.express/2024/panasonic-the-hedgehog.html)
-- [LLM and Bug Finding: Insights from a $2M Winning Team in the White House&#39;s AIxCC](https://team-atlanta.github.io/blog/post-atl/)
-- [Fun times with energy-based models](https://mpmisko.github.io/2024/ai-fundamentals-energy-based-models/)
-- [VanillaJSX.com](https://vanillajsx.com/)
+- [Postmortem of my 9 year journey at Google](https://tinystruggles.com/posts/google_postmortem/)
+- [Build your own SQLite with Rust, Part 1](https://blog.sylver.dev/build-your-own-sqlite-part-1-listing-tables)
+- [Low level of Magnesium linked to disease-causing DNA damage](https://newatlas.com/health-wellbeing/nutrient-dna-damage/)
+- [Continue &lpar;YC S23&rpar; Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
+- [FlightAware Leaks Customer Data &lpar;Name, Email Addresses and Passwords&rpar;](https://loyaltylobby.com/2024/08/16/flightaware-leaks-customer-data-name-email-addresses-passwords/)
+- [Are you better than a language model at predicting the next word?](https://joel.tools/smarter/)
+- [Mpv – A free, open-source, and cross-platform media player](https://mpv.io/)
+- [Blockbuster Video VHS insert template](https://github.com/rfinnie/blockbuster)
+- [The Vala Language &lpar;2017&rpar;](https://www.bassi.io/articles/2017/02/13/on-vala/)
+- [Magic Wormhole: get things from one computer to another, safely](https://github.com/magic-wormhole/magic-wormhole)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

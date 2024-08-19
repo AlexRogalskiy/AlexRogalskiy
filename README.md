@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Air Quality Monitors Compared: AirGradient One vs. Airthings](https://www.airgradient.com/blog/airgradient-vs-airthings/)
-- [San Francisco&#39;s Millennium Tower owners could face $10k fine for open windows](https://www.nbcbayarea.com/investigations/millennium-tower-owners-could-face-10k-fine-for-open-windows/3627918/)
-- [The Challenges of Creating Your Own Products [video]](https://www.youtube.com/watch?v=Z2z8Bpz_5sE)
-- [He Made a Game About a Joyous Journey. He Also Got a Bit Lost](https://www.nytimes.com/2024/08/16/arts/anthony-tan-way-to-the-woods.html)
-- [Show HN: Mac calendar Event Reminder in menu bar](https://apps.apple.com/cn/app/aicalendarreminder/id6503137612?mt=12)
-- [Swim – A Scalable Membership Protocol for Distributed System in Rust](https://github.com/TheDhejavu/gossipod)
-- [Share the Open-Source Neo-Retro UI: Vintage Design Meets Modern Web Development](https://github.com/maojindao55/neo-retro-ui)
-- [Male autism is linked to brain aromatase disruption by maternal bisphenol A](https://www.nature.com/articles/s41467-024-48897-8)
-- [Entity Linking and Relationship Extraction with Relik in LlamaIndex](https://neo4j.com/developer-blog/entity-linking-relationship-extraction-relik-llamaindex/)
-- [An Introduction to Time Series Forecasting with Generative AI](https://www.databricks.com/blog/introduction-time-series-forecasting-generative-ai)
+- [Navigating the future: Brain cells that plan where to go](https://medicalxpress.com/news/2024-08-future-brain-cells.html)
+- [Great！12 ways to create a new note quickly on your iPhone or iPad](https://www.idownloadblog.com/2024/08/16/how-to-create-notes-quickly-iphone-ipad/)
+- [Mark V. Shaney](https://en.wikipedia.org/wiki/Mark_V._Shaney)
+- [Diana Yousef: from NASA consultant to inventor of a toilet that evaporates waste](https://english.elpais.com/science-tech/2024-08-18/diana-yousef-from-nasa-consultant-to-inventor-of-a-toilet-that-evaporates-waste.html)
+- [Why Is Japan So Weak in Software? [video]](https://www.youtube.com/watch?v=ky1nGQhHTso)
+- [Weather Rock](https://en.wikipedia.org/wiki/Weather_rock)
+- [JPEG-LM: LLMs as Image Generators with Canonical Codec Representations](https://arxiv.org/abs/2408.08459)
+- [Ask HN: How can I practice designing data structures well?](https://news.ycombinator.com/item?id=41287172)
+- [Stack Rank](https://verynormal.info/stack-rank/)
+- [LLMs as Image Generators with Canonical Codec Representations](https://huggingface.co/papers/2408.08459)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

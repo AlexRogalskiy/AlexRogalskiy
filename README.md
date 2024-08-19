@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Trump campaign reset goes awry in Pennsylvania as he attacks Harris](https://www.theguardian.com/us-news/article/2024/aug/17/trump-pennsylvania-rally)
-- [Extreme misogyny to be treated as terrorism under UK government plans](https://www.theguardian.com/society/article/2024/aug/18/extreme-misogyny-to-be-treated-as-form-of-terrorism-under-government-plans)
-- [One Man Musical by Flo &amp; Joan review – Andrew Lloyd Webber gets ‘a show about me!’](https://www.theguardian.com/stage/article/2024/aug/18/one-man-musical-by-flo-joan-review-andrew-lloyd-webber-pleasance-dome-edinburgh)
-- [We Love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2024/aug/17/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [The moment I knew: as he dived naked through the waves, I recognised him as my soulmate](https://www.theguardian.com/lifeandstyle/article/2024/aug/18/the-moment-i-knew-as-he-dived-naked-through-the-waves-i-recognised-him-as-my-soulmate)
-- [Slow the growth, save the world? Why declining birth rates need not mean an end to prosperity](https://www.theguardian.com/world/article/2024/aug/18/slow-the-growth-save-the-world-why-declining-birth-rates-need-not-mean-an-end-to-prosperity)
-- [Croc shock as Houdini the elusive crocodile pops up again in outback Queensland town](https://www.theguardian.com/environment/article/2024/aug/18/crocodile-houdini-of-hughenden-croc-outback-australia-qld-queensland)
-- [Roxane Gay: ‘What is the weirdest thing I have done for love? Live with cats’](https://www.theguardian.com/books/article/2024/aug/18/roxane-gay-carriageworks-melbourne-town-hall-interview-10-chaotic-questions)
-- [Safety at Ukraine’s Zaporizhzhia nuclear plant deteriorating, IAEA warns](https://www.theguardian.com/world/article/2024/aug/17/safety-at-ukraines-zaporizhzhia-nuclear-plant-deteriorating-iaea-warns)
-- [‘He has gained our respect’: Mikel Arteta hails Havertz after Arsenal’s fast start](https://www.theguardian.com/football/article/2024/aug/17/he-has-gained-our-respect-mikel-arteta-hails-kai-havertz-after-arsenals-fast-start)
+- [The making of Kamala Harris - podcast](https://www.theguardian.com/news/audio/2024/aug/19/the-making-of-kamala-harris-podcast)
+- [‘We can’t just vote’: in Chicago, protesters rally for Gaza and abortion rights as DNC set to begin](https://www.theguardian.com/us-news/article/2024/aug/19/chicacgo-dnc-protests-gaza-wacker-drive-michigan-avenue)
+- [The fight for iron sands: the bitter battle to protect New Zealand’s sea-floor riches](https://www.theguardian.com/world/article/2024/aug/19/deep-sea-mining-new-zealand-south-taranaki-bight-ocean-seabed-patea-beach-ntwnfb)
+- [Leaving Gaza: a story of friendship and survival](https://www.theguardian.com/world/ng-interactive/2024/aug/19/leaving-gaza-a-story-of-friendship-and-survival)
+- [Black children in England and Wales four times more likely to be strip-searched, figures show](https://www.theguardian.com/uk-news/article/2024/aug/19/black-children-in-england-and-wales-four-times-more-likely-to-be-strip-searched-figures-show)
+- [Interest rate cut fuels immediate upturn in UK property market](https://www.theguardian.com/business/article/2024/aug/19/interest-rate-cut-fuels-immediate-upturn-in-uk-property-market)
+- [Crisis measures to tackle English prison overcrowding imminent, says union](https://www.theguardian.com/society/article/2024/aug/18/prison-overcrowding-emergency-measures-imminent-union)
+- [European football: Napoli make dire start, Real Madrid held at Mallorca](https://www.theguardian.com/football/article/2024/aug/18/european-football-napoli-make-dire-start-real-madrid-held-at-mallorca)
+- [Blinken arrives in Israel for 11th-hour talks on Gaza ceasefire deal](https://www.theguardian.com/world/article/2024/aug/18/blinken-arrives-israel-11th-hour-talks-gaza-ceasefire-deal)
+- [Postecoglou puts faith in Solanke to bridge gap for Tottenham to top four](https://www.theguardian.com/football/article/2024/aug/18/ange-postecoglou-dominic-solanke-tottenham-premier-league-football)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

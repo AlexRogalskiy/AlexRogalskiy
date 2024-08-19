@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Postmortem of my 9 year journey at Google](https://tinystruggles.com/posts/google_postmortem/)
-- [Build your own SQLite with Rust, Part 1](https://blog.sylver.dev/build-your-own-sqlite-part-1-listing-tables)
-- [Low level of Magnesium linked to disease-causing DNA damage](https://newatlas.com/health-wellbeing/nutrient-dna-damage/)
-- [Continue &lpar;YC S23&rpar; Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
-- [FlightAware Leaks Customer Data &lpar;Name, Email Addresses and Passwords&rpar;](https://loyaltylobby.com/2024/08/16/flightaware-leaks-customer-data-name-email-addresses-passwords/)
-- [Are you better than a language model at predicting the next word?](https://joel.tools/smarter/)
-- [Mpv – A free, open-source, and cross-platform media player](https://mpv.io/)
-- [Blockbuster Video VHS insert template](https://github.com/rfinnie/blockbuster)
-- [The Vala Language &lpar;2017&rpar;](https://www.bassi.io/articles/2017/02/13/on-vala/)
-- [Magic Wormhole: get things from one computer to another, safely](https://github.com/magic-wormhole/magic-wormhole)
+- [Eric Schmidt deleted Stanford interview](https://www.youtube.com/watch?v=3f6XM6_7pUE)
+- [Humble Tech Book Bundle: Head First 2024 by O&#39;Reilly](https://www.humblebundle.com/books/head-first-2024-oreilly-books)
+- [The Curious Case of QUEENCREEK](https://mobeigi.com/blog/security/malware/the-curious-case-of-queencreek/)
+- [Can a Rust binary use incompatible versions of the same library?](https://github.com/brannondorsey/rust-incompatible-transitive-dependencies)
+- [Markov chains are funnier than LLMs](https://emnudge.dev/blog/markov-chains-are-funny/)
+- [EFF Presses Federal Circuit to Make Patent Case Filings Public](https://www.eff.org/deeplinks/2024/08/eff-presses-federal-circuit-make-patent-case-filings-public)
+- [Google took three months to remove scam app that stole over $5M](https://www.theblock.co/post/311707/google-took-three-months-to-remove-scam-app-that-stole-over-5-million-in-crypto-lawsuit)
+- [Mike Magee, founder of the Register, has died](https://fudzilla.com/news/59503-mike-mageek-is-dead)
+- [Interposer to Fix the Symmetricom SyncServer S200 GPS Week Rollover Problem](https://tomverbeure.github.io/2024/08/18/Fixing-the-Symmetricom-S200-GPS-Week-Number-Rollover-Problem.html)
+- [The brain simulates actions and their consequences during REM sleep](https://www.biorxiv.org/content/10.1101/2024.08.13.607810v1)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

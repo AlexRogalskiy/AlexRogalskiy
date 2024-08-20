@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Navigating the future: Brain cells that plan where to go](https://medicalxpress.com/news/2024-08-future-brain-cells.html)
-- [Great！12 ways to create a new note quickly on your iPhone or iPad](https://www.idownloadblog.com/2024/08/16/how-to-create-notes-quickly-iphone-ipad/)
-- [Mark V. Shaney](https://en.wikipedia.org/wiki/Mark_V._Shaney)
-- [Diana Yousef: from NASA consultant to inventor of a toilet that evaporates waste](https://english.elpais.com/science-tech/2024-08-18/diana-yousef-from-nasa-consultant-to-inventor-of-a-toilet-that-evaporates-waste.html)
-- [Why Is Japan So Weak in Software? [video]](https://www.youtube.com/watch?v=ky1nGQhHTso)
-- [Weather Rock](https://en.wikipedia.org/wiki/Weather_rock)
-- [JPEG-LM: LLMs as Image Generators with Canonical Codec Representations](https://arxiv.org/abs/2408.08459)
-- [Ask HN: How can I practice designing data structures well?](https://news.ycombinator.com/item?id=41287172)
-- [Stack Rank](https://verynormal.info/stack-rank/)
-- [LLMs as Image Generators with Canonical Codec Representations](https://huggingface.co/papers/2408.08459)
+- [Software Possession for Personal Use](https://olano.dev/blog/software-possession-for-personal-use/)
+- [GM to Cut More Than 1k Software Engineers, Mostly in US](https://webcache.googleusercontent.com/search?q=cache:https://www.bloomberg.com/news/articles/2024-08-19/gm-to-cut-more-than-1-000-software-engineers-mostly-in-the-us)
+- [Kiwi billionaire Peter Thiel eyes possible shift to New Zealand](https://www.nzherald.co.nz/business/kiwi-billionaire-peter-thiel-eyes-possible-shift-to-new-zealand/FBNOYID2MJAIZDTDGV4CZZYWNE/)
+- [How Our History Aids in Learning AI and Software Development](https://dewmal.medium.com/how-our-history-aids-in-learning-ai-and-software-development-7852bafe2fed)
+- [National Public Data Published Its Own Passwords](https://krebsonsecurity.com/2024/08/national-public-data-published-its-own-passwords/)
+- [This year&#39;s summer Covid wave is big; FDA may green-light Covid shots early](https://arstechnica.com/science/2024/08/amid-summer-covid-surge-fda-reportedly-poised-to-approve-updated-shots/)
+- [The ribosome lowers the entropic penalty of protein folding](https://www.nature.com/articles/s41586-024-07784-4)
+- [Deadlift ETF with only companies with CEOs that lift weights or do fight sports](https://twitter.com/levelsio/status/1825582556638560479)
+- [Analyzing the Stock Market: Add up-to-date market data to LLMs](https://medium.com/neuml/analyzing-the-stock-market-with-ai-df3a17ce0b4f)
+- [Lessons Learned from 2 Decades of Building Data Infra Products [video]](https://www.youtube.com/watch?v=iIiGHpvDpy4)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

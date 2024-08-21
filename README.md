@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Software Possession for Personal Use](https://olano.dev/blog/software-possession-for-personal-use/)
-- [GM to Cut More Than 1k Software Engineers, Mostly in US](https://webcache.googleusercontent.com/search?q=cache:https://www.bloomberg.com/news/articles/2024-08-19/gm-to-cut-more-than-1-000-software-engineers-mostly-in-the-us)
-- [Kiwi billionaire Peter Thiel eyes possible shift to New Zealand](https://www.nzherald.co.nz/business/kiwi-billionaire-peter-thiel-eyes-possible-shift-to-new-zealand/FBNOYID2MJAIZDTDGV4CZZYWNE/)
-- [How Our History Aids in Learning AI and Software Development](https://dewmal.medium.com/how-our-history-aids-in-learning-ai-and-software-development-7852bafe2fed)
-- [National Public Data Published Its Own Passwords](https://krebsonsecurity.com/2024/08/national-public-data-published-its-own-passwords/)
-- [This year&#39;s summer Covid wave is big; FDA may green-light Covid shots early](https://arstechnica.com/science/2024/08/amid-summer-covid-surge-fda-reportedly-poised-to-approve-updated-shots/)
-- [The ribosome lowers the entropic penalty of protein folding](https://www.nature.com/articles/s41586-024-07784-4)
-- [Deadlift ETF with only companies with CEOs that lift weights or do fight sports](https://twitter.com/levelsio/status/1825582556638560479)
-- [Analyzing the Stock Market: Add up-to-date market data to LLMs](https://medium.com/neuml/analyzing-the-stock-market-with-ai-df3a17ce0b4f)
-- [Lessons Learned from 2 Decades of Building Data Infra Products [video]](https://www.youtube.com/watch?v=iIiGHpvDpy4)
+- [Video to CSS](https://dgerrells.com/blog/video-to-css)
+- [PyPI Slashes Malware Response Time: 90% of Issues Resolved in Under 24 Hours](https://socket.dev/blog/pypi-slashes-malware-response-time)
+- [Show HN: I wrote a script that finds abandoned websites to buy- FolioFindr.com](https://foliofindr.com)
+- [Calling All Hackers](https://phrack.org/issues/71/17.html#article)
+- [Frank Lloyd Wright&#39;s Only Skyscraper Set to Close Amid Controversy](https://news.artnet.com/art-world/frank-lloyd-wright-price-tower-closing-controversy-2525767)
+- [What is the most secure FOSS operating system with Internet access?](https://news.ycombinator.com/item?id=41306091)
+- [Palmer Luckey Profile](https://www.tabletmag.com/feature/american-vulcan-palmer-luckey-anduril)
+- [&#39;Star Wars: The Acolyte&#39; has been canceled](https://www.theverge.com/2024/8/19/24224070/the-acolyte-cancelled-season-2)
+- [Humans &gt;&gt; Data](https://tidyfirst.substack.com/p/humans-data)
+- [Was your Social Security number leaked? Use this tool to find out](https://www.zdnet.com/article/was-your-social-security-number-leaked-to-the-dark-web-use-this-tool-to-find-out/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

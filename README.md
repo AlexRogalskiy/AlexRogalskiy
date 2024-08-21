@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [DNC 2024 live: Clinton says Democrats have Trump ‘on the run’; crowd cheers as AOC says Harris works ‘tirelessly’ for Gaza ceasefire](https://www.theguardian.com/us-news/live/2024/aug/19/democratic-convention-dnc-biden-harris-updates)
-- [Racism in the army: the soldier who took the UK military to court - podcast](https://www.theguardian.com/news/audio/2024/aug/20/racism-in-the-army-the-soldier-who-took-the-uk-military-to-court-podcast)
-- [Jannik Sinner the man to beat after Cincinnati win while Aryna Sabalenka stays red-hot](https://www.theguardian.com/sport/article/2024/aug/19/aryna-sabalenka-jessica-pegula-jannik-sinner-frances-tiafoe-cincinnati-open-final)
-- [Sicily yacht sinking: Morgan Stanley International chair Jonathan Bloomer among missing](https://www.theguardian.com/world/article/2024/aug/20/super-yacht-sinks-sicily-jonathan-bloomer-missing-mike-lynch-sinking)
-- [Ukraine war briefing: Kursk proves Putin’s red lines are bluff, says Zelenskiy](https://www.theguardian.com/world/article/2024/aug/20/ukraine-war-briefing-kursk-proves-putins-red-lines-are-bluff-says-zelenskiy)
-- [Reservoir Dogs actor Michael Madsen arrested on domestic violence charge](https://www.theguardian.com/film/article/2024/aug/20/michael-madsen-arrested-domestic-violence-charge-reservoir-dogs-actor-ntwnfb)
-- [Slavery at Sea review – my God humankind can be depraved](https://www.theguardian.com/tv-and-radio/article/2024/aug/20/slavery-at-sea-review-my-god-humankind-can-be-depraved)
-- [Ministers launch pension credit campaign after restricting winter fuel payments](https://www.theguardian.com/politics/article/2024/aug/20/pension-credit-winter-fuel-payments)
-- [Suspended secondary pupils in England ‘twice as likely to be out of work by 24’](https://www.theguardian.com/education/article/2024/aug/20/suspended-secondary-pupils-england-twice-likely-unemployed)
-- [Add ice-lolly licking to England primary school curriculum, urge scientists](https://www.theguardian.com/education/article/2024/aug/20/add-ice-lolly-licking-to-england-primary-school-curriculum-urge-scientists)
+- [DNC live updates: Bernie Sanders says Democrats will ‘win this struggle’ ahead of Obama speech](https://www.theguardian.com/us-news/live/2024/aug/20/dnc-barack-michelle-obama-speech-updates)
+- [Anger at Thailand’s top court as voters become numb to political chaos](https://www.theguardian.com/world/article/2024/aug/21/thailand-constitutional-court-protests-move-forward-party-dissolved)
+- [The UK’s refusal to ban arms exports to Israel - podcast](https://www.theguardian.com/news/audio/2024/aug/21/the-uks-refusal-to-ban-arms-exports-to-israel-podcast)
+- [Biden approves nuclear strategy refocusing on China threat – report](https://www.theguardian.com/us-news/article/2024/aug/20/biden-nuclear-strategy-china-threat)
+- [Ian McKellen says fat suit saved him after ‘horrible’ stage fall](https://www.theguardian.com/culture/article/2024/aug/21/ian-mckellen-fat-suit-actor-stage-fall)
+- [Ukraine war briefing: Russian PoWs from Kursk ‘abandoned by our command’](https://www.theguardian.com/world/article/2024/aug/21/ukraine-war-briefing-russian-pows-from-kursk-abandoned-by-our-command)
+- [More than 200 unexploded second world war shells found near Solomon Islands school](https://www.theguardian.com/world/article/2024/aug/21/wwii-bombs-shells-solomon-islands-school)
+- [Ceasefire elusive as Blinken leaves Middle East, with future Israeli presence in Gaza key sticking point](https://www.theguardian.com/world/article/2024/aug/21/israel-hamas-ceasefire-deal-negotiations-antony-blinken-middle-east)
+- [Mpox: Argentina quarantines cargo ship over suspected case of virus](https://www.theguardian.com/world/article/2024/aug/21/mpox-argentina-quarantines-cargo-ship-over-suspected-case-of-virus)
+- [Jennifer Lopez files for divorce from Ben Affleck after two years of marriage](https://www.theguardian.com/film/article/2024/aug/20/ben-affleck-jennifer-lopez-file-divorce)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

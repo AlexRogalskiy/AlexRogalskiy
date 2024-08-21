@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The ribosome lowers the entropic penalty of protein folding](https://www.nature.com/articles/s41586-024-07784-4)
-- [Procreate&#39;s anti-AI pledge attracts praise from digital creatives](https://www.theverge.com/2024/8/19/24223473/procreate-anti-generative-ai-pledge-digital-illustration-creatives)
-- [Infisical &lpar;YC W23&rpar; Is Hiring Full Stack Engineer &lpar;Remote&rpar;](https://www.ycombinator.com/companies/infisical/jobs/HD8NQOP-full-stack-engineer)
-- [Boeing Halts 777X Flight Tests over Damage Found in Engine Mount](https://www.bloomberg.com/news/articles/2024-08-19/boeing-halts-777x-flight-tests-over-damage-found-in-engine-mount)
-- [On the cruelty of really teaching computing science &lpar;1988&rpar;](https://www.cs.utexas.edu/~EWD/transcriptions/EWD10xx/EWD1036.html)
-- [2024 Olympics game U.S. medals by colleges](https://www.chart2char.com/expo/post/?channelHandle=sportsmeter&post=2024%20Olympic%20Game%20U.S.%20Medalists)
-- [The oral history of the Dinosaur Input Device](https://vfxblog.com/dinosaurinputdevice/)
-- [AI companies are pivoting from creating gods to building products](https://www.aisnakeoil.com/p/ai-companies-are-pivoting-from-creating)
-- [Cardinal – Virtual modular synthesizer plugin](https://cardinal.kx.studio/)
-- [&#39;Rare species&#39; not seen in the area for 50 years spotted on Arizona trail camera](https://phys.org/news/2024-08-rare-species-area-years-arizona.html)
+- [Launch YC: Ares Industries – Building low-cost cruise missiles](https://www.ycombinator.com/launches/Ler-ares-industries-building-low-cost-cruise-missiles)
+- [US judge throws out FTC&#39;s ban on non-compete agreements](https://www.ft.com/content/56770a82-3c3f-4739-9895-e2f97b6202b4)
+- [Show HN: A simple and powerful RSS reader for the web](https://www.feedbomb.app)
+- [Plasmo – a framework for building modern Chrome extensions](https://github.com/PlasmoHQ/plasmo)
+- [Emerge Tools &lpar;YC W21&rpar; is hiring a senior front end engineer](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
+- [An admittedly wandering defense of the SSO tax](https://ssoready.com/blog/from-the-founders/an-unpopular-perspective-on-the-sso-tax/)
+- [MIT leaders describe the experience of not renewing Elsevier contract](https://sparcopen.org/our-work/big-deal-knowledge-base/unbundling-profiles/mit-libraries/)
+- [Why are Texas interchanges so tall?](https://practical.engineering/blog/2024/8/19/why-are-texas-interchanges-texas-so-tall)
+- [Data Exfiltration from Slack AI via indirect prompt injection](https://promptarmor.substack.com/p/data-exfiltration-from-slack-ai-via)
+- [Making database systems usable](http://muratbuffalo.blogspot.com/2024/08/making-database-systems-usable.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

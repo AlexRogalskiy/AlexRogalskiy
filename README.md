@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Video to CSS](https://dgerrells.com/blog/video-to-css)
-- [PyPI Slashes Malware Response Time: 90% of Issues Resolved in Under 24 Hours](https://socket.dev/blog/pypi-slashes-malware-response-time)
-- [Show HN: I wrote a script that finds abandoned websites to buy- FolioFindr.com](https://foliofindr.com)
-- [Calling All Hackers](https://phrack.org/issues/71/17.html#article)
-- [Frank Lloyd Wright&#39;s Only Skyscraper Set to Close Amid Controversy](https://news.artnet.com/art-world/frank-lloyd-wright-price-tower-closing-controversy-2525767)
-- [What is the most secure FOSS operating system with Internet access?](https://news.ycombinator.com/item?id=41306091)
-- [Palmer Luckey Profile](https://www.tabletmag.com/feature/american-vulcan-palmer-luckey-anduril)
-- [&#39;Star Wars: The Acolyte&#39; has been canceled](https://www.theverge.com/2024/8/19/24224070/the-acolyte-cancelled-season-2)
-- [Humans &gt;&gt; Data](https://tidyfirst.substack.com/p/humans-data)
-- [Was your Social Security number leaked? Use this tool to find out](https://www.zdnet.com/article/was-your-social-security-number-leaked-to-the-dark-web-use-this-tool-to-find-out/)
+- [Startup Dilemma: Product Management or AI/ML Specialization](https://news.ycombinator.com/item?id=41316169)
+- [In a leaked recording, AWS CEO tells most developers could stop coding soon](https://www.businessinsider.com/aws-ceo-developers-stop-coding-ai-takes-over-2024-8)
+- [Study reveals the benefits and downside of fasting](https://www.eurekalert.org/news-releases/1054876)
+- [Gratitude and Mortality Among Older US Female Nurses](https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2820770)
+- [Piano Cheat Sheet](https://stephango.com/piano)
+- [Bum Farto](https://en.wikipedia.org/wiki/Bum_Farto)
+- [Boost Your Startup – Smart Mobile SaaS for Rapid Growth](https://read.saasdevsuite.com/boost-your-startup-smart-mobile-saas-for-rapid-growth/)
+- [Never enable 2FA for accounts you that care about &lpar;2023&rpar;](https://benwilber.github.io/2023/07/17/never-enable-2fa-for-accounts-you-actually-care-about.html)
+- [Save Effort: Build a Bash One-Liner](https://exploring-better-ways.bellroy.com/save-effort-build-a-bash-one-liner.html)
+- [Origins of the Lab Mouse](https://www.asimov.press/p/lab-mouse)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

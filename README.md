@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [DNC live updates: Bernie Sanders says Democrats will ‘win this struggle’ ahead of Obama speech](https://www.theguardian.com/us-news/live/2024/aug/20/dnc-barack-michelle-obama-speech-updates)
-- [Anger at Thailand’s top court as voters become numb to political chaos](https://www.theguardian.com/world/article/2024/aug/21/thailand-constitutional-court-protests-move-forward-party-dissolved)
-- [The UK’s refusal to ban arms exports to Israel - podcast](https://www.theguardian.com/news/audio/2024/aug/21/the-uks-refusal-to-ban-arms-exports-to-israel-podcast)
-- [Biden approves nuclear strategy refocusing on China threat – report](https://www.theguardian.com/us-news/article/2024/aug/20/biden-nuclear-strategy-china-threat)
-- [Ian McKellen says fat suit saved him after ‘horrible’ stage fall](https://www.theguardian.com/culture/article/2024/aug/21/ian-mckellen-fat-suit-actor-stage-fall)
-- [Ukraine war briefing: Russian PoWs from Kursk ‘abandoned by our command’](https://www.theguardian.com/world/article/2024/aug/21/ukraine-war-briefing-russian-pows-from-kursk-abandoned-by-our-command)
-- [More than 200 unexploded second world war shells found near Solomon Islands school](https://www.theguardian.com/world/article/2024/aug/21/wwii-bombs-shells-solomon-islands-school)
-- [Ceasefire elusive as Blinken leaves Middle East, with future Israeli presence in Gaza key sticking point](https://www.theguardian.com/world/article/2024/aug/21/israel-hamas-ceasefire-deal-negotiations-antony-blinken-middle-east)
-- [Mpox: Argentina quarantines cargo ship over suspected case of virus](https://www.theguardian.com/world/article/2024/aug/21/mpox-argentina-quarantines-cargo-ship-over-suspected-case-of-virus)
-- [Jennifer Lopez files for divorce from Ben Affleck after two years of marriage](https://www.theguardian.com/film/article/2024/aug/20/ben-affleck-jennifer-lopez-file-divorce)
+- [Bill Clinton says ‘Trump creates chaos’ and mocks crowd-size obsession in star-studded night at DNC – live](https://www.theguardian.com/us-news/live/2024/aug/21/election-dnc-bill-clinton-tim-walz-kamala-harris-donald-trump-latest-news)
+- [Venezuela and the president who won’t concede defeat - podcast](https://www.theguardian.com/news/audio/2024/aug/22/venezuela-and-the-president-who-wont-concede-defeat-podcast)
+- [New Zealand rushes vaccination of endangered birds before deadly strain of H5N1 bird flu arrives](https://www.theguardian.com/world/article/2024/aug/22/new-zealand-endangered-birds-vaccination-h5n1-avian-bird-flu-virus)
+- [Rubbish and disease could disrupt Antarctic ecosystems as ice buffers melt, study finds](https://www.theguardian.com/world/article/2024/aug/22/antarctica-ice-buffers-melt-study-rubbish-disease)
+- [Taylor Swift says she felt ‘tremendous guilt’ after Vienna shows cancelled over terror threat](https://www.theguardian.com/music/article/2024/aug/22/taylor-swift-speaks-about-vienna-eras-tour-concerts-cancelled-terror-threat)
+- [Robert F Kennedy Jr to drop out of presidential race by end of week – report](https://www.theguardian.com/us-news/article/2024/aug/21/rfk-jr-dropping-out-report)
+- [‘They want to slime him’: Hunter Biden lawyer attacks prosecutors in tax case](https://www.theguardian.com/us-news/article/2024/aug/21/hunter-biden-lawyer-tax-case-prosecutors)
+- [Ukraine war briefing: Long-range strikes a must against Russian aggression, says EU’s Borrell](https://www.theguardian.com/world/article/2024/aug/22/ukraine-war-briefing-long-range-strikes-a-must-against-russian-aggression-says-eus-borrell)
+- [US mayoral candidate who pledged to govern by customized AI bot loses race](https://www.theguardian.com/us-news/article/2024/aug/21/wyoming-cheyenne-ai-bot-mayor)
+- [‘Ingrained in our heritage’: UK’s ancient oaks showcased in Tree of the Year contest](https://www.theguardian.com/environment/article/2024/aug/22/uk-ancient-oak-trees-woodland-trust-tree-of-the-year)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

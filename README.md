@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Launch YC: Ares Industries – Building low-cost cruise missiles](https://www.ycombinator.com/launches/Ler-ares-industries-building-low-cost-cruise-missiles)
-- [US judge throws out FTC&#39;s ban on non-compete agreements](https://www.ft.com/content/56770a82-3c3f-4739-9895-e2f97b6202b4)
-- [Show HN: A simple and powerful RSS reader for the web](https://www.feedbomb.app)
-- [Plasmo – a framework for building modern Chrome extensions](https://github.com/PlasmoHQ/plasmo)
-- [Emerge Tools &lpar;YC W21&rpar; is hiring a senior front end engineer](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
-- [An admittedly wandering defense of the SSO tax](https://ssoready.com/blog/from-the-founders/an-unpopular-perspective-on-the-sso-tax/)
-- [MIT leaders describe the experience of not renewing Elsevier contract](https://sparcopen.org/our-work/big-deal-knowledge-base/unbundling-profiles/mit-libraries/)
-- [Why are Texas interchanges so tall?](https://practical.engineering/blog/2024/8/19/why-are-texas-interchanges-texas-so-tall)
-- [Data Exfiltration from Slack AI via indirect prompt injection](https://promptarmor.substack.com/p/data-exfiltration-from-slack-ai-via)
-- [Making database systems usable](http://muratbuffalo.blogspot.com/2024/08/making-database-systems-usable.html)
+- [I&#39;m Tired of Fixing Customers&#39; AI Generated Code](https://medium.com/@thetateman/im-tired-of-fixing-customers-ai-generated-code-94816bde4ceb)
+- [The Euphemism Treadmill](https://languagehat.com/mcwhorter-on-the-euphemism-treadmill/)
+- [Google Play will no longer pay to discover vulnerabilities in Android apps](https://www.androidauthority.com/google-play-security-reward-program-winding-down-3472376/)
+- [Bioaccumulation of Microplastics in Decedent Human Brains](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11100893/)
+- [Meticulous &lpar;YC S21&rpar; is hiring to eliminate E2E UI tests](https://news.ycombinator.com/item?id=41314161)
+- [Do low-level optimizations matter? Faster quicksort with cmov &lpar;2020&rpar;](http://cantrip.org/sortfast.html)
+- [Euclid&#39;s Proof that √2 is Irrational](https://www.mathsisfun.com/numbers/euclid-square-root-2-irrational.html)
+- [Wardriving for a place to Live](https://jampauchoa.substack.com/p/wardriving-for-place-to-live)
+- [US hospital told family their daughter had checked out when in fact she&#39;d died](https://www.theguardian.com/us-news/article/2024/aug/21/sacramento-hospital-patient-death-checked-out)
+- [Breaking down a record-setting day on the Texas grid](https://blog.gridstatus.io/a-record-setting-day-in-ercot/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

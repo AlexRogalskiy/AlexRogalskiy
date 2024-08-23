@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Bill Clinton says ‘Trump creates chaos’ and mocks crowd-size obsession in star-studded night at DNC – live](https://www.theguardian.com/us-news/live/2024/aug/21/election-dnc-bill-clinton-tim-walz-kamala-harris-donald-trump-latest-news)
-- [Venezuela and the president who won’t concede defeat - podcast](https://www.theguardian.com/news/audio/2024/aug/22/venezuela-and-the-president-who-wont-concede-defeat-podcast)
-- [New Zealand rushes vaccination of endangered birds before deadly strain of H5N1 bird flu arrives](https://www.theguardian.com/world/article/2024/aug/22/new-zealand-endangered-birds-vaccination-h5n1-avian-bird-flu-virus)
-- [Rubbish and disease could disrupt Antarctic ecosystems as ice buffers melt, study finds](https://www.theguardian.com/world/article/2024/aug/22/antarctica-ice-buffers-melt-study-rubbish-disease)
-- [Taylor Swift says she felt ‘tremendous guilt’ after Vienna shows cancelled over terror threat](https://www.theguardian.com/music/article/2024/aug/22/taylor-swift-speaks-about-vienna-eras-tour-concerts-cancelled-terror-threat)
-- [Robert F Kennedy Jr to drop out of presidential race by end of week – report](https://www.theguardian.com/us-news/article/2024/aug/21/rfk-jr-dropping-out-report)
-- [‘They want to slime him’: Hunter Biden lawyer attacks prosecutors in tax case](https://www.theguardian.com/us-news/article/2024/aug/21/hunter-biden-lawyer-tax-case-prosecutors)
-- [Ukraine war briefing: Long-range strikes a must against Russian aggression, says EU’s Borrell](https://www.theguardian.com/world/article/2024/aug/22/ukraine-war-briefing-long-range-strikes-a-must-against-russian-aggression-says-eus-borrell)
-- [US mayoral candidate who pledged to govern by customized AI bot loses race](https://www.theguardian.com/us-news/article/2024/aug/21/wyoming-cheyenne-ai-bot-mayor)
-- [‘Ingrained in our heritage’: UK’s ancient oaks showcased in Tree of the Year contest](https://www.theguardian.com/environment/article/2024/aug/22/uk-ancient-oak-trees-woodland-trust-tree-of-the-year)
+- [Kamala Harris about to address Democratic national convention to make the case for her presidency – live](https://www.theguardian.com/us-news/live/2024/aug/22/kamala-harris-dnc-night-4)
+- [The sex lives of strangers: creating ‘This is how we do it’ – podcast](https://www.theguardian.com/news/audio/2024/aug/23/sex-lives-of-strangers-making-the-this-is-how-we-do-it-column-podcast)
+- [Praying to the god of sunshine and rain: visitor numbers at Japan’s only Shinto weather shrine surge](https://www.theguardian.com/world/article/2024/aug/23/japan-kisho-jinja-weather-shinto-shrine-tokyo)
+- [Ukraine war briefing: Fierce fighting on Pokrovsk front as Russia claims gains](https://www.theguardian.com/world/article/2024/aug/23/ukraine-war-briefing-fierce-fighting-on-pokrovsk-front-as-russia-claims-gains)
+- [Fifth of patients at two north of England surgeries have long Covid, study finds](https://www.theguardian.com/society/article/2024/aug/23/fifth-patients-two-north-england-surgeries-long-covid-study-finds)
+- [Big polluters targeting esports industry with advertising deals, report reveals](https://www.theguardian.com/environment/article/2024/aug/23/big-polluters-targeting-esports-industry-advertising-deals-report)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/article/2024/aug/23/premier-league-10-things-to-look-out-for-this-weekend)
+- [The Crow review – unfathomably awful goth remake](https://www.theguardian.com/film/article/2024/aug/22/the-crow-review-thriller-remake)
+- [Megatsunami risk on the rise as glacial melt drives landslides](https://www.theguardian.com/science/article/2024/aug/23/megatsunami-risk-on-the-rise-as-glacial-melt-drives-landslides)
+- [Hudson-Smith and Asher-Smith bounce back at Lausanne Diamond League](https://www.theguardian.com/sport/article/2024/aug/22/hudson-smith-and-asher-smith-bounce-back-at-lausanne-diamond-league)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

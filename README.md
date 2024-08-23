@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Startup Dilemma: Product Management or AI/ML Specialization](https://news.ycombinator.com/item?id=41316169)
-- [In a leaked recording, AWS CEO tells most developers could stop coding soon](https://www.businessinsider.com/aws-ceo-developers-stop-coding-ai-takes-over-2024-8)
-- [Study reveals the benefits and downside of fasting](https://www.eurekalert.org/news-releases/1054876)
-- [Gratitude and Mortality Among Older US Female Nurses](https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2820770)
-- [Piano Cheat Sheet](https://stephango.com/piano)
-- [Bum Farto](https://en.wikipedia.org/wiki/Bum_Farto)
-- [Boost Your Startup – Smart Mobile SaaS for Rapid Growth](https://read.saasdevsuite.com/boost-your-startup-smart-mobile-saas-for-rapid-growth/)
-- [Never enable 2FA for accounts you that care about &lpar;2023&rpar;](https://benwilber.github.io/2023/07/17/never-enable-2fa-for-accounts-you-actually-care-about.html)
-- [Save Effort: Build a Bash One-Liner](https://exploring-better-ways.bellroy.com/save-effort-build-a-bash-one-liner.html)
-- [Origins of the Lab Mouse](https://www.asimov.press/p/lab-mouse)
+- [The agony and the ecstasy of hardware products](https://interconnected.org/home/2024/08/22/matte)
+- [Fluid Simulation and Web Assembly](https://ehayes.page/posts/fluid/)
+- [US Gov Sues Georgia Institute of Technology for Cybersecurity Violations](https://www.justice.gov/usao-ndga/pr/united-states-files-suit-against-georgia-institute-technology-and-georgia-tech)
+- [New gels could protect buildings during wildfires](https://news.stanford.edu/stories/2024/08/new-gels-could-protect-buildings-during-wildfires)
+- [Surfer is the first personal data scraper](https://github.com/CEREBRUS-MAXIMUS/Surfer-Data)
+- [Best practices for event logging and threat detection [pdf]](https://media.defense.gov/2024/Aug/21/2003530453/-1/-1/0/JOINT-CSI-BEST-PRACTICES-EVENT-LOGGING-THREAT-DETECTION.PDF)
+- [Spacesuits of Boeing-launched astronauts are incompatible with SpaceX craft](https://www.foxnews.com/us/spacesuits-boeing-launched-astronauts-stranded-space-station-incompatible-spacex-craft)
+- [EC cuts funding support for Free Software projects](https://fsfe.org/news/2024/news-20240719-01.en.html)
+- [Our basic assumptions about photos capturing reality are about to go up in smoke](https://www.theverge.com/2024/8/22/24225972/ai-photo-era-what-is-reality-google-pixel-9)
+- [In-Depth GPU Benchmarks for Black Myth Wukong](https://aident.ai/blog/black-myth-wukong-gpu-benchmarks)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

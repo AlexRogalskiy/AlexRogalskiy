@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [I&#39;m Tired of Fixing Customers&#39; AI Generated Code](https://medium.com/@thetateman/im-tired-of-fixing-customers-ai-generated-code-94816bde4ceb)
-- [The Euphemism Treadmill](https://languagehat.com/mcwhorter-on-the-euphemism-treadmill/)
-- [Google Play will no longer pay to discover vulnerabilities in Android apps](https://www.androidauthority.com/google-play-security-reward-program-winding-down-3472376/)
-- [Bioaccumulation of Microplastics in Decedent Human Brains](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11100893/)
-- [Meticulous &lpar;YC S21&rpar; is hiring to eliminate E2E UI tests](https://news.ycombinator.com/item?id=41314161)
-- [Do low-level optimizations matter? Faster quicksort with cmov &lpar;2020&rpar;](http://cantrip.org/sortfast.html)
-- [Euclid&#39;s Proof that √2 is Irrational](https://www.mathsisfun.com/numbers/euclid-square-root-2-irrational.html)
-- [Wardriving for a place to Live](https://jampauchoa.substack.com/p/wardriving-for-place-to-live)
-- [US hospital told family their daughter had checked out when in fact she&#39;d died](https://www.theguardian.com/us-news/article/2024/aug/21/sacramento-hospital-patient-death-checked-out)
-- [Breaking down a record-setting day on the Texas grid](https://blog.gridstatus.io/a-record-setting-day-in-ercot/)
+- [Cursor Has Raised $60M](https://www.cursor.com/blog/series-a)
+- [Show HN: Kardinal – Building light-weight Kubernetes dev ephemeral environments](https://kardinal.dev/)
+- [What&#39;s Going on in Machine Learning? Some Minimal Models](https://writings.stephenwolfram.com/2024/08/whats-really-going-on-in-machine-learning-some-minimal-models/)
+- [Climate policies that achieved major emission reductions](https://www.science.org/doi/10.1126/science.adl6547)
+- [Python&#39;s Preprocessor](https://pydong.org/posts/PythonsPreprocessor/)
+- [Launch HN: AnswerGrid &lpar;YC S24&rpar; – Web research tool for lead generation](https://news.ycombinator.com/item?id=41322730)
+- [Faster Inverse BWT &lpar;2021&rpar;](http://cbloomrants.blogspot.com/2021/03/faster-inverse-bwt.html)
+- [Data Modeling SaaS Entitlements and Pricing](https://garrettdimon.com/journal/posts/data-modeling-saas-entitlements-and-pricing)
+- [Show HN: InstantDB – A Modern Firebase](https://github.com/instantdb/instant)
+- [Vooma &lpar;YC W23&rpar; is hiring a growth lead](https://www.ycombinator.com/companies/vooma/jobs/ATEQ9kQ-growth-lead)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

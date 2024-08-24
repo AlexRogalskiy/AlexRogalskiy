@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The agony and the ecstasy of hardware products](https://interconnected.org/home/2024/08/22/matte)
-- [Fluid Simulation and Web Assembly](https://ehayes.page/posts/fluid/)
-- [US Gov Sues Georgia Institute of Technology for Cybersecurity Violations](https://www.justice.gov/usao-ndga/pr/united-states-files-suit-against-georgia-institute-technology-and-georgia-tech)
-- [New gels could protect buildings during wildfires](https://news.stanford.edu/stories/2024/08/new-gels-could-protect-buildings-during-wildfires)
-- [Surfer is the first personal data scraper](https://github.com/CEREBRUS-MAXIMUS/Surfer-Data)
-- [Best practices for event logging and threat detection [pdf]](https://media.defense.gov/2024/Aug/21/2003530453/-1/-1/0/JOINT-CSI-BEST-PRACTICES-EVENT-LOGGING-THREAT-DETECTION.PDF)
-- [Spacesuits of Boeing-launched astronauts are incompatible with SpaceX craft](https://www.foxnews.com/us/spacesuits-boeing-launched-astronauts-stranded-space-station-incompatible-spacex-craft)
-- [EC cuts funding support for Free Software projects](https://fsfe.org/news/2024/news-20240719-01.en.html)
-- [Our basic assumptions about photos capturing reality are about to go up in smoke](https://www.theverge.com/2024/8/22/24225972/ai-photo-era-what-is-reality-google-pixel-9)
-- [In-Depth GPU Benchmarks for Black Myth Wukong](https://aident.ai/blog/black-myth-wukong-gpu-benchmarks)
+- [&quot;Creating opportunities for seamless collaboration](https://wizesly.com/)
+- [The Bro Science Delusion](https://joanwestenberg.com/the-bro-science-delusion)
+- [Building Slack Alternative](https://news.ycombinator.com/item?id=41335023)
+- [The Badware filter is one of the most useful filters](https://old.reddit.com/r/uBlockOrigin/comments/1ezdf4x/the_badware_filter_is_one_of_the_most_useful/)
+- [Tesla starts scrubbing its Full Self Driving claims from official website](https://twitter.com/AdrianSumBond/status/1827105729859473773)
+- [Show HN: Domain Name Ideas](https://domensky.com)
+- [Waymo generation 6 robotaxi Geely Zeekr](https://www.cnbc.com/2024/08/19/waymo-generation-6-robotaxi-geely-zeekr.html)
+- [iPhone 16 could let you shoot in JPEG-XL](https://www.idownloadblog.com/2024/08/22/iphone-16-jpeg-xl-rumor/)
+- [MIT&#39;s first freshman class since affirmative-action ban is less diverse](https://www.bbc.com/news/articles/c8rxvd2z6ldo)
+- [The Breakthrough We&#39;ve Been Waiting for [video]](https://www.youtube.com/watch?v=cUj2TcZSlZc)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

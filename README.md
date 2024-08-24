@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Cursor Has Raised $60M](https://www.cursor.com/blog/series-a)
-- [Show HN: Kardinal – Building light-weight Kubernetes dev ephemeral environments](https://kardinal.dev/)
-- [What&#39;s Going on in Machine Learning? Some Minimal Models](https://writings.stephenwolfram.com/2024/08/whats-really-going-on-in-machine-learning-some-minimal-models/)
-- [Climate policies that achieved major emission reductions](https://www.science.org/doi/10.1126/science.adl6547)
-- [Python&#39;s Preprocessor](https://pydong.org/posts/PythonsPreprocessor/)
-- [Launch HN: AnswerGrid &lpar;YC S24&rpar; – Web research tool for lead generation](https://news.ycombinator.com/item?id=41322730)
-- [Faster Inverse BWT &lpar;2021&rpar;](http://cbloomrants.blogspot.com/2021/03/faster-inverse-bwt.html)
-- [Data Modeling SaaS Entitlements and Pricing](https://garrettdimon.com/journal/posts/data-modeling-saas-entitlements-and-pricing)
-- [Show HN: InstantDB – A Modern Firebase](https://github.com/instantdb/instant)
-- [Vooma &lpar;YC W23&rpar; is hiring a growth lead](https://www.ycombinator.com/companies/vooma/jobs/ATEQ9kQ-growth-lead)
+- [Tesla starts scrubbing its Full Self Driving claims from official website](https://twitter.com/AdrianSumBond/status/1827105729859473773)
+- [An Overview of Datalog](https://clojure.github.io/clojure-contrib/doc/datalog.html)
+- [Ask HN: Struggle with project ideas? Heres some novel ideas you can build now](https://news.ycombinator.com/item?id=41334802)
+- [Did you lose your AirPods?](https://alexyancey.com/lost-airpods/)
+- [Open-Source AI necklace like Friend](https://github.com/BasedHardware/Omi)
+- [Lactate helps cancer cells resist chemotherapy](https://www.nature.com/articles/d41586-024-02731-9)
+- [Show HN: Hacker News for film buffs](https://www.newyorkdailyinquirer.com/)
+- [Canon R5 Mk Ii Drops Pixel Shift High Res – Is Canon Missing the AI Big Picture?](https://kguttag.com/2024/08/22/canon-r5-mk-ii-drops-pixel-shift-high-res-is-canon-missing-the-ai-big-picture/)
+- [People with Disabilities Use the Web](https://www.w3.org/WAI/people-use-web/)
+- [Tesorio Is Hiring a Senior GenAI Engineer and Django Engineer &lpar;100% Remote&rpar;](https://www.tesorio.com/careers#job-openings)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

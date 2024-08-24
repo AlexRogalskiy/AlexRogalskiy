@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Kamala Harris about to address Democratic national convention to make the case for her presidency – live](https://www.theguardian.com/us-news/live/2024/aug/22/kamala-harris-dnc-night-4)
-- [The sex lives of strangers: creating ‘This is how we do it’ – podcast](https://www.theguardian.com/news/audio/2024/aug/23/sex-lives-of-strangers-making-the-this-is-how-we-do-it-column-podcast)
-- [Praying to the god of sunshine and rain: visitor numbers at Japan’s only Shinto weather shrine surge](https://www.theguardian.com/world/article/2024/aug/23/japan-kisho-jinja-weather-shinto-shrine-tokyo)
-- [Ukraine war briefing: Fierce fighting on Pokrovsk front as Russia claims gains](https://www.theguardian.com/world/article/2024/aug/23/ukraine-war-briefing-fierce-fighting-on-pokrovsk-front-as-russia-claims-gains)
-- [Fifth of patients at two north of England surgeries have long Covid, study finds](https://www.theguardian.com/society/article/2024/aug/23/fifth-patients-two-north-england-surgeries-long-covid-study-finds)
-- [Big polluters targeting esports industry with advertising deals, report reveals](https://www.theguardian.com/environment/article/2024/aug/23/big-polluters-targeting-esports-industry-advertising-deals-report)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/article/2024/aug/23/premier-league-10-things-to-look-out-for-this-weekend)
-- [The Crow review – unfathomably awful goth remake](https://www.theguardian.com/film/article/2024/aug/22/the-crow-review-thriller-remake)
-- [Megatsunami risk on the rise as glacial melt drives landslides](https://www.theguardian.com/science/article/2024/aug/23/megatsunami-risk-on-the-rise-as-glacial-melt-drives-landslides)
-- [Hudson-Smith and Asher-Smith bounce back at Lausanne Diamond League](https://www.theguardian.com/sport/article/2024/aug/22/hudson-smith-and-asher-smith-bounce-back-at-lausanne-diamond-league)
+- [Trump accepts RFK Jr endorsement and vows to release JFK assassination files](https://www.theguardian.com/us-news/article/2024/aug/23/trump-arizona-rally--rfk-jr)
+- [Emily Wurramara on surviving a house fire: ‘When I had nothing, I had everything’](https://www.theguardian.com/music/article/2024/aug/24/emily-wurramara-artist-interview-playlist-music)
+- [Prosecutors seek 40-year sentence for officer over fatal beating of Tyre Nichols](https://www.theguardian.com/us-news/article/2024/aug/23/tyre-nichols-memphis-police-emmitt-martin-sentence)
+- [Germany mass stabbing: three killed and four seriously injured at diversity festival](https://www.theguardian.com/world/article/2024/aug/23/people-killed-and-injured-at-festival-in-solingen-in-germany-report)
+- [‘I haven’t done anything wrong’: Sinner hits back in anti-doping case](https://www.theguardian.com/sport/article/2024/aug/23/i-know-i-havent-done-anything-wrong-jannik-sinner-hits-back-in-anti-doping-case)
+- [Guardiola insists Manchester City will accept verdict on alleged rule breaches](https://www.theguardian.com/football/article/2024/aug/23/pep-guardiola-manchester-city-financial-rule-breaches-football-premier-league)
+- [Garnacho has ‘X-factor’ to be world-class Manchester United star, claims Ten Hag](https://www.theguardian.com/football/article/2024/aug/23/alejandro-garnacho-manchester-united-star-ten-hag)
+- [Sacked BBC presenter Jermaine Jenas ‘ashamed’ of ‘inappropriate messages’](https://www.theguardian.com/tv-and-radio/article/2024/aug/23/sacked-bbc-presenter-jermaine-jenas-ashamed-of-inappropriate-messages)
+- [Aaronson and James strikes earn Leeds welcome win at Sheffield Wednesday](https://www.theguardian.com/football/article/2024/aug/23/sheffield-wednesday-leeds-championship-match-report)
+- [Brian May: The Badgers, the Farmers and Me review – the Queen star could save so many animals’ lives](https://www.theguardian.com/tv-and-radio/article/2024/aug/23/brian-may-the-badgers-the-farmers-and-me-review-the-queen-star-could-save-so-many-animals-lives)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

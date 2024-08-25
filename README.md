@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Trump accepts RFK Jr endorsement and vows to release JFK assassination files](https://www.theguardian.com/us-news/article/2024/aug/23/trump-arizona-rally--rfk-jr)
-- [Emily Wurramara on surviving a house fire: ‘When I had nothing, I had everything’](https://www.theguardian.com/music/article/2024/aug/24/emily-wurramara-artist-interview-playlist-music)
-- [Prosecutors seek 40-year sentence for officer over fatal beating of Tyre Nichols](https://www.theguardian.com/us-news/article/2024/aug/23/tyre-nichols-memphis-police-emmitt-martin-sentence)
-- [Germany mass stabbing: three killed and four seriously injured at diversity festival](https://www.theguardian.com/world/article/2024/aug/23/people-killed-and-injured-at-festival-in-solingen-in-germany-report)
-- [‘I haven’t done anything wrong’: Sinner hits back in anti-doping case](https://www.theguardian.com/sport/article/2024/aug/23/i-know-i-havent-done-anything-wrong-jannik-sinner-hits-back-in-anti-doping-case)
-- [Guardiola insists Manchester City will accept verdict on alleged rule breaches](https://www.theguardian.com/football/article/2024/aug/23/pep-guardiola-manchester-city-financial-rule-breaches-football-premier-league)
-- [Garnacho has ‘X-factor’ to be world-class Manchester United star, claims Ten Hag](https://www.theguardian.com/football/article/2024/aug/23/alejandro-garnacho-manchester-united-star-ten-hag)
-- [Sacked BBC presenter Jermaine Jenas ‘ashamed’ of ‘inappropriate messages’](https://www.theguardian.com/tv-and-radio/article/2024/aug/23/sacked-bbc-presenter-jermaine-jenas-ashamed-of-inappropriate-messages)
-- [Aaronson and James strikes earn Leeds welcome win at Sheffield Wednesday](https://www.theguardian.com/football/article/2024/aug/23/sheffield-wednesday-leeds-championship-match-report)
-- [Brian May: The Badgers, the Farmers and Me review – the Queen star could save so many animals’ lives](https://www.theguardian.com/tv-and-radio/article/2024/aug/23/brian-may-the-badgers-the-farmers-and-me-review-the-queen-star-could-save-so-many-animals-lives)
+- [Four people including police officer injured after car crash and alleged stabbings in Sydney’s south](https://www.theguardian.com/australia-news/article/2024/aug/25/four-people-including-a-police-officer-injured-after-car-crash-and-stabbing-in-sydneys-south)
+- [Germany mass stabbing: suspected Solingen attacker arrested, says regional minister](https://www.theguardian.com/world/article/2024/aug/25/germany-mass-stabbing-suspect-solingen-attacker-arrest-says-regional-minister)
+- [Palestinian refugees left their whole life behind. Here’s how Australia is helping them build a new one](https://www.theguardian.com/australia-news/article/2024/aug/25/palestinian-refugees-gaza-visas-the-beautiful-brunch-melbourne)
+- [Novak Djokovic demands change in doping rules after Jannik Sinner case](https://www.theguardian.com/sport/article/2024/aug/24/novak-djokovic-demands-change-in-doping-rules-after-jannik-sinner-case)
+- [Man suspected of attempted arson against synagogue arrested in France](https://www.theguardian.com/world/article/2024/aug/24/explosion-outside-of-synagogue-in-la-grande-motte-france-leaves-police-officer-injured)
+- [The edit: 20 of the best bikinis – in pictures](https://www.theguardian.com/fashion/gallery/2024/aug/24/the-edit-20-of-the-best-bikinis-in-pictures)
+- [Telegram app founder Pavel Durov reportedly arrested at French airport](https://www.theguardian.com/media/article/2024/aug/24/telegram-app-founder-pavel-durov-arrested-at-french-airport)
+- [Man dies after alleged assault at Southwark tube station in London](https://www.theguardian.com/uk-news/article/2024/aug/24/man-dies-after-alleged-assault-at-southwark-tube-station-in-london)
+- [Alisson: ‘For a goalkeeper I am young. I still have much to give Liverpool’](https://www.theguardian.com/football/article/2024/aug/24/alisson-for-a-goalkeeper-i-am-young-i-still-have-much-to-give-liverpool)
+- [Keir Starmer warns of tough times ahead to fix ‘Tory ruins’](https://www.theguardian.com/politics/article/2024/aug/24/keir-starmer-warns-of-tough-times-ahead-to-fix-tory-ruins)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

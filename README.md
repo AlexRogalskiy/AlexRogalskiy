@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [&quot;Creating opportunities for seamless collaboration](https://wizesly.com/)
-- [The Bro Science Delusion](https://joanwestenberg.com/the-bro-science-delusion)
-- [Building Slack Alternative](https://news.ycombinator.com/item?id=41335023)
-- [The Badware filter is one of the most useful filters](https://old.reddit.com/r/uBlockOrigin/comments/1ezdf4x/the_badware_filter_is_one_of_the_most_useful/)
-- [Tesla starts scrubbing its Full Self Driving claims from official website](https://twitter.com/AdrianSumBond/status/1827105729859473773)
-- [Show HN: Domain Name Ideas](https://domensky.com)
-- [Waymo generation 6 robotaxi Geely Zeekr](https://www.cnbc.com/2024/08/19/waymo-generation-6-robotaxi-geely-zeekr.html)
-- [iPhone 16 could let you shoot in JPEG-XL](https://www.idownloadblog.com/2024/08/22/iphone-16-jpeg-xl-rumor/)
-- [MIT&#39;s first freshman class since affirmative-action ban is less diverse](https://www.bbc.com/news/articles/c8rxvd2z6ldo)
-- [The Breakthrough We&#39;ve Been Waiting for [video]](https://www.youtube.com/watch?v=cUj2TcZSlZc)
+- [Postgres as a Search Engine](https://anyblockers.com/posts/postgres-as-a-search-engine)
+- [Elon Musk Got Tangled Up in Blue](https://www.nytimes.com/2024/08/24/technology/elon-musk-twitter-blue.html)
+- [Lufthansa is using artificial sharkskin to streamline airplanes](https://arstechnica.com/cars/2024/08/lufthansa-is-using-artificial-sharkskin-to-streamline-airplanes/)
+- [GPT-4o vs. Claude 3.5 Sonnet for coding](https://news.ycombinator.com/item?id=41343791)
+- [Percentage of US Deaths from Covid vs. Flu](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff86f747a-170f-4b8d-a659-517835b7085e_1600x783.png)
+- [TRON Project](https://en.wikipedia.org/wiki/TRON_project)
+- [Show HN: I made KanShareBan – AI-powered, community-driven public Kanban boards](https://www.kanshareban.com/)
+- [Ask HN: How guilty should I feel about the environmental impact of using AI?](https://news.ycombinator.com/item?id=41343665)
+- [Edna: Note taking for developers and power users](https://edna.arslexis.io/help)
+- [Rant HN: Clipchamp](https://news.ycombinator.com/item?id=41343578)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

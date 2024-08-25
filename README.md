@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Tesla starts scrubbing its Full Self Driving claims from official website](https://twitter.com/AdrianSumBond/status/1827105729859473773)
-- [An Overview of Datalog](https://clojure.github.io/clojure-contrib/doc/datalog.html)
-- [Ask HN: Struggle with project ideas? Heres some novel ideas you can build now](https://news.ycombinator.com/item?id=41334802)
-- [Did you lose your AirPods?](https://alexyancey.com/lost-airpods/)
-- [Open-Source AI necklace like Friend](https://github.com/BasedHardware/Omi)
-- [Lactate helps cancer cells resist chemotherapy](https://www.nature.com/articles/d41586-024-02731-9)
-- [Show HN: Hacker News for film buffs](https://www.newyorkdailyinquirer.com/)
-- [Canon R5 Mk Ii Drops Pixel Shift High Res – Is Canon Missing the AI Big Picture?](https://kguttag.com/2024/08/22/canon-r5-mk-ii-drops-pixel-shift-high-res-is-canon-missing-the-ai-big-picture/)
-- [People with Disabilities Use the Web](https://www.w3.org/WAI/people-use-web/)
-- [Tesorio Is Hiring a Senior GenAI Engineer and Django Engineer &lpar;100% Remote&rpar;](https://www.tesorio.com/careers#job-openings)
+- [Serpent OS Prealpha0 Released](https://serpentos.com/blog/2024/08/01/serpent-os-prealpha0-released/)
+- [Looming Liability Machines &lpar;LLMs&rpar;](http://muratbuffalo.blogspot.com/2024/08/looming-liability-machines.html)
+- [Defenders think in lists, attackers think in graphs &lpar;2015&rpar;](https://github.com/JohnLaTwC/Shared/blob/master/Defenders%20think%20in%20lists.%20Attackers%20think%20in%20graphs.%20As%20long%20as%20this%20is%20true%2C%20attackers%20win.md)
+- [Ask HN: What are you working on &lpar;August 2024&rpar;?](https://news.ycombinator.com/item?id=41342017)
+- [Birds aren&#39;t real – how to create your own &quot;bird&quot;](https://www.lampysecurity.com/post/birds-aren-t-real-how-to-create-your-own-bird)
+- [Papersway – a scrollable window management for Sway/i3wm](https://spwhitton.name/tech/code/papersway/)
+- [AMD&#39;s Radeon 890M: Strix Point&#39;s Bigger iGPU](https://chipsandcheese.com/2024/08/24/amds-radeon-890m-strix-points-bigger-igpu/)
+- [Telegram founder Pavel Durov arrested at French airport](https://www.theguardian.com/media/article/2024/aug/24/telegram-app-founder-pavel-durov-arrested-at-french-airport)
+- [The Vital Necessity of Very Old Books &lpar;2023&rpar;](https://www.millersbookreview.com/p/vital-necessity-of-very-old-books)
+- [Show HN: High school robotics code/CAD/design binder release](https://www.chiefdelphi.com/t/team-341-miss-daisy-2024-cad-code-and-design-binder-release/467546)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Four people including police officer injured after car crash and alleged stabbings in Sydney’s south](https://www.theguardian.com/australia-news/article/2024/aug/25/four-people-including-a-police-officer-injured-after-car-crash-and-stabbing-in-sydneys-south)
-- [Germany mass stabbing: suspected Solingen attacker arrested, says regional minister](https://www.theguardian.com/world/article/2024/aug/25/germany-mass-stabbing-suspect-solingen-attacker-arrest-says-regional-minister)
-- [Palestinian refugees left their whole life behind. Here’s how Australia is helping them build a new one](https://www.theguardian.com/australia-news/article/2024/aug/25/palestinian-refugees-gaza-visas-the-beautiful-brunch-melbourne)
-- [Novak Djokovic demands change in doping rules after Jannik Sinner case](https://www.theguardian.com/sport/article/2024/aug/24/novak-djokovic-demands-change-in-doping-rules-after-jannik-sinner-case)
-- [Man suspected of attempted arson against synagogue arrested in France](https://www.theguardian.com/world/article/2024/aug/24/explosion-outside-of-synagogue-in-la-grande-motte-france-leaves-police-officer-injured)
-- [The edit: 20 of the best bikinis – in pictures](https://www.theguardian.com/fashion/gallery/2024/aug/24/the-edit-20-of-the-best-bikinis-in-pictures)
-- [Telegram app founder Pavel Durov reportedly arrested at French airport](https://www.theguardian.com/media/article/2024/aug/24/telegram-app-founder-pavel-durov-arrested-at-french-airport)
-- [Man dies after alleged assault at Southwark tube station in London](https://www.theguardian.com/uk-news/article/2024/aug/24/man-dies-after-alleged-assault-at-southwark-tube-station-in-london)
-- [Alisson: ‘For a goalkeeper I am young. I still have much to give Liverpool’](https://www.theguardian.com/football/article/2024/aug/24/alisson-for-a-goalkeeper-i-am-young-i-still-have-much-to-give-liverpool)
-- [Keir Starmer warns of tough times ahead to fix ‘Tory ruins’](https://www.theguardian.com/politics/article/2024/aug/24/keir-starmer-warns-of-tough-times-ahead-to-fix-tory-ruins)
+- [Black Box: episode 1 – The connectionists - podcast](https://www.theguardian.com/news/audio/2024/aug/26/black-box-episode-1-the-connectionists-podcast)
+- [Black Box: episode 0 – The collision - podcast](https://www.theguardian.com/news/audio/2024/aug/26/black-box-episode-0-the-collision-podcast)
+- [Oasis reunion on the cards as Noel and Liam Gallagher tease Tuesday announcement](https://www.theguardian.com/music/article/2024/aug/25/i-never-did-like-that-word-former-liam-gallagher-hints-at-oasis-reunion)
+- [Macklemore cancels Dubai show to protest UAE role in Sudan civil war](https://www.theguardian.com/music/article/2024/aug/26/macklemore-cancels-dubai-show-to-protest-uae-role-in-sudan-civil-war)
+- [Queens of the Stone Age cancel all 2024 shows as Josh Homme receives ‘essential medical care’](https://www.theguardian.com/music/article/2024/aug/26/queens-of-the-stone-age-cancel-all-2024-shows-as-josh-homme-receives-essential-medical-care)
+- [‘As long as we’re here, it’s ours’: the island fishing community on the frontline of South China Sea tensions](https://www.theguardian.com/world/article/2024/aug/26/thitu-island-philippines-south-china-sea-tensions-pag-asa-fishing-community)
+- [Woman in life-threatening condition after stabbing at Notting Hill carnival](https://www.theguardian.com/uk-news/article/2024/aug/26/woman-in-life-threatening-condition-after-stabbing-at-notting-hill-carnival)
+- [Scientists to use AI to analyse 1.6m brain scans to develop tool predicting dementia risk](https://www.theguardian.com/society/article/2024/aug/26/scientists-to-use-ai-to-analyse-brain-scans-to-develop-tool-predicting-dementia-risk)
+- [UK has record 991,000 self-employed workers aged 60 or over](https://www.theguardian.com/money/article/2024/aug/26/uk-has-record-991000-self-employed-workers-aged-60-or-over)
+- [More than 14,000 NHS beds in use by patients ready to be discharged](https://www.theguardian.com/society/article/2024/aug/26/more-than-14000-nhs-beds-occupied-by-people-waiting-to-be-discharged)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

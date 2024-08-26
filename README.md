@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Serpent OS Prealpha0 Released](https://serpentos.com/blog/2024/08/01/serpent-os-prealpha0-released/)
-- [Looming Liability Machines &lpar;LLMs&rpar;](http://muratbuffalo.blogspot.com/2024/08/looming-liability-machines.html)
-- [Defenders think in lists, attackers think in graphs &lpar;2015&rpar;](https://github.com/JohnLaTwC/Shared/blob/master/Defenders%20think%20in%20lists.%20Attackers%20think%20in%20graphs.%20As%20long%20as%20this%20is%20true%2C%20attackers%20win.md)
-- [Ask HN: What are you working on &lpar;August 2024&rpar;?](https://news.ycombinator.com/item?id=41342017)
-- [Birds aren&#39;t real – how to create your own &quot;bird&quot;](https://www.lampysecurity.com/post/birds-aren-t-real-how-to-create-your-own-bird)
-- [Papersway – a scrollable window management for Sway/i3wm](https://spwhitton.name/tech/code/papersway/)
-- [AMD&#39;s Radeon 890M: Strix Point&#39;s Bigger iGPU](https://chipsandcheese.com/2024/08/24/amds-radeon-890m-strix-points-bigger-igpu/)
-- [Telegram founder Pavel Durov arrested at French airport](https://www.theguardian.com/media/article/2024/aug/24/telegram-app-founder-pavel-durov-arrested-at-french-airport)
-- [The Vital Necessity of Very Old Books &lpar;2023&rpar;](https://www.millersbookreview.com/p/vital-necessity-of-very-old-books)
-- [Show HN: High school robotics code/CAD/design binder release](https://www.chiefdelphi.com/t/team-341-miss-daisy-2024-cad-code-and-design-binder-release/467546)
+- [Removing stuff is never obvious yet often better](https://www.gkogan.co/removing-stuff/)
+- [Senior Intel CPU architects splinter to develop RISC-V processors](https://www.tomshardware.com/tech-industry/senior-intel-cpu-architects-splinter-to-develop-risc-v-processors-veterans-establish-aheadcomputing)
+- [We found North Korean engineers in our application pile. Here&#39;s what we did](https://www.cinder.co/blog-posts/north-korean-engineers-in-our-application-pile)
+- [Uber loses New Zealand appeal, court rules drivers are employees not contractors](https://www.nzherald.co.nz/business/uber-loses-landmark-appeal-court-rules-drivers-are-employees-not-contractors/JDXF52QBBBHPJIQJNFNGYC4JOE/)
+- [Australian employees now have the right to ignore work emails, calls after hours](https://www.reuters.com/world/asia-pacific/australian-employees-now-have-right-ignore-work-emails-calls-after-hours-2024-08-25/)
+- [Pavel Durov and the Blackberry Ratchet](https://www.oblomovka.com/wp/2024/08/25/pavel-durov-and-the-blackberry-ratchet/)
+- [Police Chief Says Cops Have a 5th Amendment Right to Leave Body Cameras Off](https://reason.com/2024/08/23/albuquerques-police-chief-thinks-cops-have-a-5th-amendment-right-to-leave-their-body-cameras-off/)
+- [Rollstack &lpar;YC W23&rpar; Is Hiring TypeScript Engineers – US/Canada &lpar;East Coast Only&rpar;](https://www.ycombinator.com/companies/rollstack-2/jobs/QPqpb1n-middle-senior-software-engineer-typescript-us-canada-east-coast-only)
+- [Why am I writing a Rust compiler in C?](https://notgull.net/announcing-dozer/)
+- [Pi Pico 2 Extreme Teardown](http://electronupdate.blogspot.com/2024/08/pi-pico-2-extreme-teardown.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

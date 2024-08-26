@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Postgres as a Search Engine](https://anyblockers.com/posts/postgres-as-a-search-engine)
-- [Elon Musk Got Tangled Up in Blue](https://www.nytimes.com/2024/08/24/technology/elon-musk-twitter-blue.html)
-- [Lufthansa is using artificial sharkskin to streamline airplanes](https://arstechnica.com/cars/2024/08/lufthansa-is-using-artificial-sharkskin-to-streamline-airplanes/)
-- [GPT-4o vs. Claude 3.5 Sonnet for coding](https://news.ycombinator.com/item?id=41343791)
-- [Percentage of US Deaths from Covid vs. Flu](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff86f747a-170f-4b8d-a659-517835b7085e_1600x783.png)
-- [TRON Project](https://en.wikipedia.org/wiki/TRON_project)
-- [Show HN: I made KanShareBan – AI-powered, community-driven public Kanban boards](https://www.kanshareban.com/)
-- [Ask HN: How guilty should I feel about the environmental impact of using AI?](https://news.ycombinator.com/item?id=41343665)
-- [Edna: Note taking for developers and power users](https://edna.arslexis.io/help)
-- [Rant HN: Clipchamp](https://news.ycombinator.com/item?id=41343578)
+- [By 2531, everyone in Japan could have the surname &#39;Sato&#39;](https://www.japantimes.co.jp/news/2024/04/01/japan/society/sato-surname-name-rule/)
+- [Martin Shkreli ordered to surrender his copies of rare Wu-Tang Clan album](https://www.nme.com/news/music/martin-shkreli-ordered-to-surrender-his-copies-of-rare-wu-tang-clan-album-3787005)
+- [Martin Shkreli must surrender his Wu-Tang album copies](https://www.theverge.com/2024/8/25/24228184/martin-shkreli-wu-tang-clan-shaolin-lawsuit-surrender-album)
+- [Show HN: Onyxium – One platform with every AI tools that exists](https://onyxium.org)
+- [A free and open-source icon library with over 3k icons](https://github.com/Richard9394/MingCute)
+- [One Lone Nintendo Fan Has Been Keeping the 3DS Servers Alive for Months](https://kotaku.com/3ds-servers-offline-last-player-mario-kart-7-months-1851623578)
+- [Rothko&#39;s Recipe for Art](https://www.kestrelstories.com/read/5617a197-d7d4-4ffb-ab84-e3fd028f076e)
+- [Boeing employees &#39;humiliated&#39; that upstart rival SpaceX will rescue astronauts](https://nypost.com/2024/08/25/us-news/boeing-employees-humiliated-that-spacex-will-save-astronauts-stuck-in-space/)
+- [Yes, Crypto Is All a Scam](https://www.stephendiehl.com/blog/crypto-is-a-scam.html)
+- [Dwarf Debugging Standard](https://dwarfstd.org/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

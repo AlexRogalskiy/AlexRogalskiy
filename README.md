@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Black Box: episode 1 – The connectionists - podcast](https://www.theguardian.com/news/audio/2024/aug/26/black-box-episode-1-the-connectionists-podcast)
-- [Black Box: episode 0 – The collision - podcast](https://www.theguardian.com/news/audio/2024/aug/26/black-box-episode-0-the-collision-podcast)
-- [Oasis reunion on the cards as Noel and Liam Gallagher tease Tuesday announcement](https://www.theguardian.com/music/article/2024/aug/25/i-never-did-like-that-word-former-liam-gallagher-hints-at-oasis-reunion)
-- [Macklemore cancels Dubai show to protest UAE role in Sudan civil war](https://www.theguardian.com/music/article/2024/aug/26/macklemore-cancels-dubai-show-to-protest-uae-role-in-sudan-civil-war)
-- [Queens of the Stone Age cancel all 2024 shows as Josh Homme receives ‘essential medical care’](https://www.theguardian.com/music/article/2024/aug/26/queens-of-the-stone-age-cancel-all-2024-shows-as-josh-homme-receives-essential-medical-care)
-- [‘As long as we’re here, it’s ours’: the island fishing community on the frontline of South China Sea tensions](https://www.theguardian.com/world/article/2024/aug/26/thitu-island-philippines-south-china-sea-tensions-pag-asa-fishing-community)
-- [Woman in life-threatening condition after stabbing at Notting Hill carnival](https://www.theguardian.com/uk-news/article/2024/aug/26/woman-in-life-threatening-condition-after-stabbing-at-notting-hill-carnival)
-- [Scientists to use AI to analyse 1.6m brain scans to develop tool predicting dementia risk](https://www.theguardian.com/society/article/2024/aug/26/scientists-to-use-ai-to-analyse-brain-scans-to-develop-tool-predicting-dementia-risk)
-- [UK has record 991,000 self-employed workers aged 60 or over](https://www.theguardian.com/money/article/2024/aug/26/uk-has-record-991000-self-employed-workers-aged-60-or-over)
-- [More than 14,000 NHS beds in use by patients ready to be discharged](https://www.theguardian.com/society/article/2024/aug/26/more-than-14000-nhs-beds-occupied-by-people-waiting-to-be-discharged)
+- [Ex-Democrat Tulsi Gabbard endorses Donald Trump in 2024 presidential race](https://www.theguardian.com/us-news/article/2024/aug/26/tulsi-gabbard-endorses-donald-trump)
+- [Black Box: episode 2 – The hunt for ClothOff, the deepfake porn app - podcast](https://www.theguardian.com/news/audio/2024/aug/27/black-box-episode-2-the-hunt-for-clothoff-the-deepfake-porn-app-podcast)
+- [Martin Shkreli ordered to turn over all copies of unreleased Wu-Tang Clan album](https://www.theguardian.com/us-news/article/2024/aug/26/pharma-bro-martin-shkreli-wu-tang-clam-once-upon-a-time-in-shaolin)
+- [Russia targets energy sector in huge missile and drone attack on Ukraine](https://www.theguardian.com/world/article/2024/aug/26/dead-ukraine-russia-attacks-strikes-zelenskiy)
+- [Ukraine war briefing: Despair as Russian missiles and drones rain down unanswered](https://www.theguardian.com/world/article/2024/aug/27/ukraine-war-briefing-despair-as-russian-missiles-and-drones-rain-down-unanswered)
+- [Chinese military plane reportedly carries out first violation of Japanese airspace](https://www.theguardian.com/world/article/2024/aug/27/chinese-military-spy-plane-first-japan-airspace-violation)
+- [Tens of thousands fill streets on final day of Notting Hill carnival](https://www.theguardian.com/culture/article/2024/aug/26/police-notting-hill-carnival-violence-stabbings)
+- [UK shop prices fall year on year for first time since cost of living crisis began](https://www.theguardian.com/business/article/2024/aug/27/uk-shop-prices-drop-inflation-retail-clothes-food-cost-of-living-crisis)
+- [‘A crisis entirely of humanity’s making’: UN chief issues climate SOS on trip to Pacific](https://www.theguardian.com/world/article/2024/aug/27/a-crisis-entirely-of-humanitys-making-un-chief-issues-climate-sos-on-trip-to-pacific)
+- [Mariah Carey announces death of mother and sister on same day](https://www.theguardian.com/music/article/2024/aug/27/mariah-carey-announces-death-of-mother-and-sister-on-same-day)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

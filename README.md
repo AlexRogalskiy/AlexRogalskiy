@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Removing stuff is never obvious yet often better](https://www.gkogan.co/removing-stuff/)
-- [Senior Intel CPU architects splinter to develop RISC-V processors](https://www.tomshardware.com/tech-industry/senior-intel-cpu-architects-splinter-to-develop-risc-v-processors-veterans-establish-aheadcomputing)
-- [We found North Korean engineers in our application pile. Here&#39;s what we did](https://www.cinder.co/blog-posts/north-korean-engineers-in-our-application-pile)
-- [Uber loses New Zealand appeal, court rules drivers are employees not contractors](https://www.nzherald.co.nz/business/uber-loses-landmark-appeal-court-rules-drivers-are-employees-not-contractors/JDXF52QBBBHPJIQJNFNGYC4JOE/)
-- [Australian employees now have the right to ignore work emails, calls after hours](https://www.reuters.com/world/asia-pacific/australian-employees-now-have-right-ignore-work-emails-calls-after-hours-2024-08-25/)
-- [Pavel Durov and the Blackberry Ratchet](https://www.oblomovka.com/wp/2024/08/25/pavel-durov-and-the-blackberry-ratchet/)
-- [Police Chief Says Cops Have a 5th Amendment Right to Leave Body Cameras Off](https://reason.com/2024/08/23/albuquerques-police-chief-thinks-cops-have-a-5th-amendment-right-to-leave-their-body-cameras-off/)
-- [Rollstack &lpar;YC W23&rpar; Is Hiring TypeScript Engineers – US/Canada &lpar;East Coast Only&rpar;](https://www.ycombinator.com/companies/rollstack-2/jobs/QPqpb1n-middle-senior-software-engineer-typescript-us-canada-east-coast-only)
-- [Why am I writing a Rust compiler in C?](https://notgull.net/announcing-dozer/)
-- [Pi Pico 2 Extreme Teardown](http://electronupdate.blogspot.com/2024/08/pi-pico-2-extreme-teardown.html)
+- [From 14 years old till 29, my experience with desktop Linux](https://blog.myli.page/from-14-years-old-till-29-my-experience-with-desktop-linux-b798d07bcd00)
+- [Harvard and MIT&#39;s $800M Mistake: The Triple Failure of 2U, EdX, and Axim](https://www.classcentral.com/report/2u-edx-bankruptcy/)
+- [Predicting the Future of Distributed Systems](https://blog.colinbreck.com/predicting-the-future-of-distributed-systems/)
+- [The End of Finale](https://www.finalemusic.com/blog/end-of-finale-new-journey-dorico-letter-from-president/)
+- [Many FDA-approved AI medical devices are not trained on real patient data](https://medicalxpress.com/news/2024-08-fda-ai-medical-devices-real.html)
+- [The Big Fringe Telescope](https://arxiv.org/abs/2408.01386)
+- [Roame &lpar;YC S23&rpar; Is Hiring an iOS Founding Engineer](https://www.ycombinator.com/companies/roame/jobs/e8G5FJF-founding-ios-engineer)
+- [Erasure Coding for Distributed Systems](https://transactional.blog/blog/2024-erasure-coding)
+- [IOGraphica](https://iographica.com/)
+- [Show HN: Strict interfaces and dep management for Python, written in Rust](https://github.com/gauge-sh/tach)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

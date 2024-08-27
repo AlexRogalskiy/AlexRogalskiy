@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [By 2531, everyone in Japan could have the surname &#39;Sato&#39;](https://www.japantimes.co.jp/news/2024/04/01/japan/society/sato-surname-name-rule/)
-- [Martin Shkreli ordered to surrender his copies of rare Wu-Tang Clan album](https://www.nme.com/news/music/martin-shkreli-ordered-to-surrender-his-copies-of-rare-wu-tang-clan-album-3787005)
-- [Martin Shkreli must surrender his Wu-Tang album copies](https://www.theverge.com/2024/8/25/24228184/martin-shkreli-wu-tang-clan-shaolin-lawsuit-surrender-album)
-- [Show HN: Onyxium – One platform with every AI tools that exists](https://onyxium.org)
-- [A free and open-source icon library with over 3k icons](https://github.com/Richard9394/MingCute)
-- [One Lone Nintendo Fan Has Been Keeping the 3DS Servers Alive for Months](https://kotaku.com/3ds-servers-offline-last-player-mario-kart-7-months-1851623578)
-- [Rothko&#39;s Recipe for Art](https://www.kestrelstories.com/read/5617a197-d7d4-4ffb-ab84-e3fd028f076e)
-- [Boeing employees &#39;humiliated&#39; that upstart rival SpaceX will rescue astronauts](https://nypost.com/2024/08/25/us-news/boeing-employees-humiliated-that-spacex-will-save-astronauts-stuck-in-space/)
-- [Yes, Crypto Is All a Scam](https://www.stephendiehl.com/blog/crypto-is-a-scam.html)
-- [Dwarf Debugging Standard](https://dwarfstd.org/)
+- [Stem cells tightly regulate dead cell clearance to maintain tissue fitness](https://www.nature.com/articles/s41586-024-07855-6)
+- [Harnessing Social Media to Generate Innovative SaaS and Micro SaaS Ideas](https://read.saasdevsuite.com/harnessing-social-media-to-generate-innovative-saas-and-micro-saas-ideas-for-startups/)
+- [How the anti-cheat is anti-cheating so far](https://www.leagueoflegends.com/en-us/news/dev/dev-vanguard-x-lol-retrospective/)
+- [SF Bitcoin Devs – Socratic Seminar 50](https://sfbitcoindevs.org/socratic-50/)
+- [AI predicts earthquakes with unprecedented accuracy](https://scitechdaily.com/artificial-intelligence-predicts-earthquakes-with-unprecedented-accuracy/)
+- [OpenAI exits SF HQ after Elon Musk stops paying company&#39;s rent](https://therealdeal.com/sanfrancisco/2024/08/26/openai-exits-san-francisco-hq-after-split-with-elon-musk/)
+- [How to Fix Pods Stuck in Terminating Status in Kubernetes?](https://kubeblocks.io/blog/how-to-fix-pods-stuck-in-terminating-status)
+- [Prompt Gallery](https://ai.google.dev/gemini-api/prompts)
+- [Myocarditis complications more common after Covid infection than vaccination](https://www.cidrap.umn.edu/covid-19/myocarditis-complications-more-common-after-covid-infection-vaccination-18-month-data)
+- [Can a Closed Nuclear Power Plant from the &#39;70s Be Brought Back to Life?](https://www.wsj.com/business/energy-oil/biden-nuclear-power-plant-loan-michigan-eee64904)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

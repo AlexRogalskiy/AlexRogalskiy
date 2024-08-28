@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [From 14 years old till 29, my experience with desktop Linux](https://blog.myli.page/from-14-years-old-till-29-my-experience-with-desktop-linux-b798d07bcd00)
-- [Harvard and MIT&#39;s $800M Mistake: The Triple Failure of 2U, EdX, and Axim](https://www.classcentral.com/report/2u-edx-bankruptcy/)
-- [Predicting the Future of Distributed Systems](https://blog.colinbreck.com/predicting-the-future-of-distributed-systems/)
-- [The End of Finale](https://www.finalemusic.com/blog/end-of-finale-new-journey-dorico-letter-from-president/)
-- [Many FDA-approved AI medical devices are not trained on real patient data](https://medicalxpress.com/news/2024-08-fda-ai-medical-devices-real.html)
-- [The Big Fringe Telescope](https://arxiv.org/abs/2408.01386)
-- [Roame &lpar;YC S23&rpar; Is Hiring an iOS Founding Engineer](https://www.ycombinator.com/companies/roame/jobs/e8G5FJF-founding-ios-engineer)
-- [Erasure Coding for Distributed Systems](https://transactional.blog/blog/2024-erasure-coding)
-- [IOGraphica](https://iographica.com/)
-- [Show HN: Strict interfaces and dep management for Python, written in Rust](https://github.com/gauge-sh/tach)
+- [Obsolete Command-Line Tools of Linux](https://linuxexpert.org/obsolete-command-line-tools-of-linux/)
+- [ChartDB – Free and open source, database design editor](https://chartdb.io/)
+- [Hackers infect ISPs with malware that steals customers&#39; credentials](https://arstechnica.com/security/2024/08/hackers-infect-isps-with-malware-that-steals-customers-credentials/)
+- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
+- [Faster CRDTs &lpar;2021&rpar;](https://josephg.com/blog/crdts-go-brrr/)
+- [Taskwarrior – CLI Task Management](https://taskwarrior.org/)
+- [KLEE Symbolic Execution Engine](https://github.com/klee/klee)
+- [How Chrome Accessibility Works](https://chromium.googlesource.com/chromium/src/+/main/docs/accessibility/browser/how_a11y_works.md)
+- [PyRoboCOP: Python-Based Robotic Control and Optimization Package](https://ieeexplore.ieee.org/abstract/document/10440590)
+- [A Collection of Free Public APIs That Is Tested Daily](https://www.freepublicapis.com/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

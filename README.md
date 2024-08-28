@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Stem cells tightly regulate dead cell clearance to maintain tissue fitness](https://www.nature.com/articles/s41586-024-07855-6)
-- [Harnessing Social Media to Generate Innovative SaaS and Micro SaaS Ideas](https://read.saasdevsuite.com/harnessing-social-media-to-generate-innovative-saas-and-micro-saas-ideas-for-startups/)
-- [How the anti-cheat is anti-cheating so far](https://www.leagueoflegends.com/en-us/news/dev/dev-vanguard-x-lol-retrospective/)
-- [SF Bitcoin Devs – Socratic Seminar 50](https://sfbitcoindevs.org/socratic-50/)
-- [AI predicts earthquakes with unprecedented accuracy](https://scitechdaily.com/artificial-intelligence-predicts-earthquakes-with-unprecedented-accuracy/)
-- [OpenAI exits SF HQ after Elon Musk stops paying company&#39;s rent](https://therealdeal.com/sanfrancisco/2024/08/26/openai-exits-san-francisco-hq-after-split-with-elon-musk/)
-- [How to Fix Pods Stuck in Terminating Status in Kubernetes?](https://kubeblocks.io/blog/how-to-fix-pods-stuck-in-terminating-status)
-- [Prompt Gallery](https://ai.google.dev/gemini-api/prompts)
-- [Myocarditis complications more common after Covid infection than vaccination](https://www.cidrap.umn.edu/covid-19/myocarditis-complications-more-common-after-covid-infection-vaccination-18-month-data)
-- [Can a Closed Nuclear Power Plant from the &#39;70s Be Brought Back to Life?](https://www.wsj.com/business/energy-oil/biden-nuclear-power-plant-loan-michigan-eee64904)
+- [These Are the Last Supercars to Offer a Manual Transmission](https://www.motortrend.com/features/last-manual-supercars-list/)
+- [Human Autosomal Nucleotide Positions Differing from Bonobo Instead Match Pig](https://www.biorxiv.org/content/10.1101/2024.08.14.607926v1)
+- [Ask HN: Who works with Medicare claims data &lpar;VRDC&rpar;?](https://news.ycombinator.com/item?id=41375355)
+- [Garlic Bioactives and Its Role in Alleviating Oral Pathologies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8614839/)
+- [Everything You Know About &quot;Blue Monday&quot; Is Probably Wrong [video]](https://www.youtube.com/watch?v=70LF-MIX1xw)
+- [NASA has to be trolling with the latest cost estimate of its SLS launch tower](https://arstechnica.com/space/2024/08/nasas-second-large-launch-tower-has-gotten-stupidly-expensive/)
+- [Algorithm Raises New Questions About Cascadia Earthquake Record](https://www.jsg.utexas.edu/news/2024/08/algorithm-raises-new-questions-about-cascadia-earthquake-record/)
+- [AI says Life is a Simulation [video]](https://www.youtube.com/watch?v=cyOOmvBkc4M)
+- [CPython Compiler Hardening](http://nohlson.com/blog/CPython-Compiler-Hardening-Summer-Retrospective/)
+- [Show HN: Productize freelancing services with an AI white-label solution](https://www.retainr.io/productize)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

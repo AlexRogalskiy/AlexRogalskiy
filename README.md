@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ex-Democrat Tulsi Gabbard endorses Donald Trump in 2024 presidential race](https://www.theguardian.com/us-news/article/2024/aug/26/tulsi-gabbard-endorses-donald-trump)
-- [Black Box: episode 2 – The hunt for ClothOff, the deepfake porn app - podcast](https://www.theguardian.com/news/audio/2024/aug/27/black-box-episode-2-the-hunt-for-clothoff-the-deepfake-porn-app-podcast)
-- [Martin Shkreli ordered to turn over all copies of unreleased Wu-Tang Clan album](https://www.theguardian.com/us-news/article/2024/aug/26/pharma-bro-martin-shkreli-wu-tang-clam-once-upon-a-time-in-shaolin)
-- [Russia targets energy sector in huge missile and drone attack on Ukraine](https://www.theguardian.com/world/article/2024/aug/26/dead-ukraine-russia-attacks-strikes-zelenskiy)
-- [Ukraine war briefing: Despair as Russian missiles and drones rain down unanswered](https://www.theguardian.com/world/article/2024/aug/27/ukraine-war-briefing-despair-as-russian-missiles-and-drones-rain-down-unanswered)
-- [Chinese military plane reportedly carries out first violation of Japanese airspace](https://www.theguardian.com/world/article/2024/aug/27/chinese-military-spy-plane-first-japan-airspace-violation)
-- [Tens of thousands fill streets on final day of Notting Hill carnival](https://www.theguardian.com/culture/article/2024/aug/26/police-notting-hill-carnival-violence-stabbings)
-- [UK shop prices fall year on year for first time since cost of living crisis began](https://www.theguardian.com/business/article/2024/aug/27/uk-shop-prices-drop-inflation-retail-clothes-food-cost-of-living-crisis)
-- [‘A crisis entirely of humanity’s making’: UN chief issues climate SOS on trip to Pacific](https://www.theguardian.com/world/article/2024/aug/27/a-crisis-entirely-of-humanitys-making-un-chief-issues-climate-sos-on-trip-to-pacific)
-- [Mariah Carey announces death of mother and sister on same day](https://www.theguardian.com/music/article/2024/aug/27/mariah-carey-announces-death-of-mother-and-sister-on-same-day)
+- [Carlos Alcaraz v Li Tu: US Open 2024 first round – as it happened](https://www.theguardian.com/sport/live/2024/aug/27/carlos-alcaraz-v-li-tu-us-open-2024-first-round-live)
+- [Harris and Walz to give first sit-down interview as Democratic ticket on CNN](https://www.theguardian.com/us-news/article/2024/aug/27/harris-walz-interview-cnn)
+- [Black Box: episode 3 – Repocalypse now - podcast](https://www.theguardian.com/news/audio/2024/aug/28/black-box-episode-3-repocalypse-now-podcast)
+- [Ryan and Righ want to get married in Taiwan – they can’t because of China’s same-sex marriage ban](https://www.theguardian.com/world/article/2024/aug/28/taiwan-china-same-sex-gay-marriage-rules)
+- [Ukraine war briefing: Zelenskiy says F16s shooting down Russian missiles](https://www.theguardian.com/world/article/2024/aug/28/ukraine-war-briefing-zelenskiy-says-f16s-shooting-down-russian-missiles)
+- [NHS community diagnostic centres speeding up access to tests, survey finds](https://www.theguardian.com/society/article/2024/aug/28/nhs-community-diagnostic-centres-speeding-up-access-to-tests-survey-finds)
+- [Plant-based meat alternatives are eco-friendlier and mostly healthier, study finds](https://www.theguardian.com/business/article/2024/aug/28/plant-based-meat-alternatives-environment-nutrition)
+- [Kurt Geiger increases sales by nearly 10% despite tough times for retailers](https://www.theguardian.com/business/article/2024/aug/28/kurt-geiger-increases-sales-by-nearly-10-despite-tough-times-for-retailers)
+- [Make AI tools to reduce teacher workloads, tech companies urged](https://www.theguardian.com/education/article/2024/aug/28/make-ai-tools-to-reduce-teacher-workloads-tech-companies-urged)
+- [Vapes should be sold behind the counter like cigarettes, says BMA](https://www.theguardian.com/society/article/2024/aug/28/vapes-should-be-sold-behind-the-counter-like-cigarettes-says-bma)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

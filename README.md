@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Obsolete Command-Line Tools of Linux](https://linuxexpert.org/obsolete-command-line-tools-of-linux/)
-- [ChartDB – Free and open source, database design editor](https://chartdb.io/)
-- [Hackers infect ISPs with malware that steals customers&#39; credentials](https://arstechnica.com/security/2024/08/hackers-infect-isps-with-malware-that-steals-customers-credentials/)
-- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
-- [Faster CRDTs &lpar;2021&rpar;](https://josephg.com/blog/crdts-go-brrr/)
-- [Taskwarrior – CLI Task Management](https://taskwarrior.org/)
-- [KLEE Symbolic Execution Engine](https://github.com/klee/klee)
-- [How Chrome Accessibility Works](https://chromium.googlesource.com/chromium/src/+/main/docs/accessibility/browser/how_a11y_works.md)
-- [PyRoboCOP: Python-Based Robotic Control and Optimization Package](https://ieeexplore.ieee.org/abstract/document/10440590)
-- [A Collection of Free Public APIs That Is Tested Daily](https://www.freepublicapis.com/)
+- [Docker-OS X image removed after Apple reports copyright infringement](https://github.com/sickcodes/Docker-OSX/issues/799)
+- [48% of NYC riders do not pay the bus fare](https://www.nytimes.com/2024/08/26/nyregion/nyc-bus-subway-fare-evasion.html)
+- [Air Con: $1697 for an on/off switch](https://blog.hopefullyuseful.com/blog/advantage-air-ezone-tablet-diy-repair/)
+- [Telegram boss banned from leaving France in criminal probe](https://www.bbc.com/news/articles/c985ppy0znyo)
+- [Charge Robotics &lpar;YC S21&rpar; is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
+- [Show HN: Skip – Build native iOS and Android apps from a single Swift codebase](https://skip.tools/)
+- [Twenty Years of Valgrind &lpar;2022&rpar;](https://nnethercote.github.io/2022/07/27/twenty-years-of-valgrind.html)
+- [What Is Post-Quantum Cryptography? – NIST](https://www.nist.gov/cybersecurity/what-post-quantum-cryptography)
+- [Companies Lobby Against Giving the Military the Right to Repair](https://www.404media.co/appliance-and-tractor-companies-lobby-against-giving-the-military-the-right-to-repair/)
+- [The Future of TLA+ [pdf]](https://lamport.azurewebsites.net/tla/future.pdf)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

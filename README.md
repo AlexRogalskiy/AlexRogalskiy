@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Carlos Alcaraz v Li Tu: US Open 2024 first round – as it happened](https://www.theguardian.com/sport/live/2024/aug/27/carlos-alcaraz-v-li-tu-us-open-2024-first-round-live)
-- [Harris and Walz to give first sit-down interview as Democratic ticket on CNN](https://www.theguardian.com/us-news/article/2024/aug/27/harris-walz-interview-cnn)
-- [Black Box: episode 3 – Repocalypse now - podcast](https://www.theguardian.com/news/audio/2024/aug/28/black-box-episode-3-repocalypse-now-podcast)
-- [Ryan and Righ want to get married in Taiwan – they can’t because of China’s same-sex marriage ban](https://www.theguardian.com/world/article/2024/aug/28/taiwan-china-same-sex-gay-marriage-rules)
-- [Ukraine war briefing: Zelenskiy says F16s shooting down Russian missiles](https://www.theguardian.com/world/article/2024/aug/28/ukraine-war-briefing-zelenskiy-says-f16s-shooting-down-russian-missiles)
-- [NHS community diagnostic centres speeding up access to tests, survey finds](https://www.theguardian.com/society/article/2024/aug/28/nhs-community-diagnostic-centres-speeding-up-access-to-tests-survey-finds)
-- [Plant-based meat alternatives are eco-friendlier and mostly healthier, study finds](https://www.theguardian.com/business/article/2024/aug/28/plant-based-meat-alternatives-environment-nutrition)
-- [Kurt Geiger increases sales by nearly 10% despite tough times for retailers](https://www.theguardian.com/business/article/2024/aug/28/kurt-geiger-increases-sales-by-nearly-10-despite-tough-times-for-retailers)
-- [Make AI tools to reduce teacher workloads, tech companies urged](https://www.theguardian.com/education/article/2024/aug/28/make-ai-tools-to-reduce-teacher-workloads-tech-companies-urged)
-- [Vapes should be sold behind the counter like cigarettes, says BMA](https://www.theguardian.com/society/article/2024/aug/28/vapes-should-be-sold-behind-the-counter-like-cigarettes-says-bma)
+- [Typhoon Shanshan: Japan prepares for ‘major disaster’ as storm makes landfall](https://www.theguardian.com/world/article/2024/aug/29/japan-typhoon-shanshan-damage-deaths-kyushu)
+- [Black Box: episode 4 – Bing and I - podcast](https://www.theguardian.com/news/audio/2024/aug/29/black-box-episode-4-bing-and-i-podcast)
+- [Trump staffers reported over altercation at Arlington cemetery during photo op](https://www.theguardian.com/us-news/article/2024/aug/28/trump-arlington-cemetery-visit-altercation)
+- [Ukraine war briefing: Calls within Nato to clear long-range strikes against Russia](https://www.theguardian.com/world/article/2024/aug/29/ukraine-war-briefing-calls-within-nato-to-clear-long-range-strikes-against-russia)
+- [Greece tourist port flooded with hundreds of thousands of dead fish](https://www.theguardian.com/environment/article/2024/aug/29/greece-tourist-port-flooded-with-hundreds-of-thousands-of-dead-fish)
+- [Jury finds former Las Vegas-area politician guilty of murdering journalist](https://www.theguardian.com/us-news/article/2024/aug/28/las-vegas-murder-trial-reporter-verdict)
+- [Houthis to allow access to stricken Red Sea tanker amid fears of huge oil spill](https://www.theguardian.com/world/article/2024/aug/29/houthis-to-allow-access-to-stricken-red-sea-tanker-amid-fears-of-huge-oil-spill)
+- [Support planned for UK households struggling with winter energy bills](https://www.theguardian.com/business/article/2024/aug/28/ministers-to-help-households-with-energy-bills-amid-warnings-consumer-debt-has-hit-32bn)
+- [Young wildlife photographer of the year 2024 – preview](https://www.theguardian.com/environment/gallery/2024/aug/29/young-wildlife-photographer-of-the-year-2024-preview)
+- [Food allergy diagnoses in England doubled in a decade, say researchers](https://www.theguardian.com/society/article/2024/aug/28/food-allergy-diagnoses-in-england-doubled-in-a-decade-say-researchers)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [These Are the Last Supercars to Offer a Manual Transmission](https://www.motortrend.com/features/last-manual-supercars-list/)
-- [Human Autosomal Nucleotide Positions Differing from Bonobo Instead Match Pig](https://www.biorxiv.org/content/10.1101/2024.08.14.607926v1)
-- [Ask HN: Who works with Medicare claims data &lpar;VRDC&rpar;?](https://news.ycombinator.com/item?id=41375355)
-- [Garlic Bioactives and Its Role in Alleviating Oral Pathologies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8614839/)
-- [Everything You Know About &quot;Blue Monday&quot; Is Probably Wrong [video]](https://www.youtube.com/watch?v=70LF-MIX1xw)
-- [NASA has to be trolling with the latest cost estimate of its SLS launch tower](https://arstechnica.com/space/2024/08/nasas-second-large-launch-tower-has-gotten-stupidly-expensive/)
-- [Algorithm Raises New Questions About Cascadia Earthquake Record](https://www.jsg.utexas.edu/news/2024/08/algorithm-raises-new-questions-about-cascadia-earthquake-record/)
-- [AI says Life is a Simulation [video]](https://www.youtube.com/watch?v=cyOOmvBkc4M)
-- [CPython Compiler Hardening](http://nohlson.com/blog/CPython-Compiler-Hardening-Summer-Retrospective/)
-- [Show HN: Productize freelancing services with an AI white-label solution](https://www.retainr.io/productize)
+- [iMac &lpar;tm&rpar; Floppy Kit – iMac-floppy.com](https://web.archive.org/web/20010414043026/http://imac-floppy.com/index.html)
+- [Memos: stick private notes on your email](https://www.fastmail.com/blog/introducing-memos/)
+- [Docker-OS X image removed after Apple reports copyright infringement](https://github.com/sickcodes/Docker-OSX/issues/799)
+- [Tab Window Manager: The OG Window Manager of Unix](https://en.wikipedia.org/wiki/Twm)
+- [Laravel Cloud – The Future of Shipping](https://cloud.laravel.com/)
+- [Arcadia Science Publications](https://research.arcadiascience.com/)
+- [Compilation of JavaScript to WASM, Part 3: Partial Evaluation](https://cfallin.org/blog/2024/08/28/weval/)
+- [Testing AI models for parsing data &lpar;Claude vs. Gemini vs. OpenAI&rpar;](https://serpapi.com/blog/web-scraping-with-ai-parsing-html-to-structured-data/)
+- [The Haditha Massacre Photos That the Military Didn&#39;t Want the World to See](https://www.newyorker.com/podcast/in-the-dark/the-haditha-massacre-photos-that-the-military-didnt-want-the-world-to-see)
+- [Alex – Your AI iOS Engineer](https://www.alexcodes.app/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

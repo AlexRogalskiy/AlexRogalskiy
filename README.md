@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Docker-OS X image removed after Apple reports copyright infringement](https://github.com/sickcodes/Docker-OSX/issues/799)
-- [48% of NYC riders do not pay the bus fare](https://www.nytimes.com/2024/08/26/nyregion/nyc-bus-subway-fare-evasion.html)
-- [Air Con: $1697 for an on/off switch](https://blog.hopefullyuseful.com/blog/advantage-air-ezone-tablet-diy-repair/)
-- [Telegram boss banned from leaving France in criminal probe](https://www.bbc.com/news/articles/c985ppy0znyo)
-- [Charge Robotics &lpar;YC S21&rpar; is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
-- [Show HN: Skip – Build native iOS and Android apps from a single Swift codebase](https://skip.tools/)
-- [Twenty Years of Valgrind &lpar;2022&rpar;](https://nnethercote.github.io/2022/07/27/twenty-years-of-valgrind.html)
-- [What Is Post-Quantum Cryptography? – NIST](https://www.nist.gov/cybersecurity/what-post-quantum-cryptography)
-- [Companies Lobby Against Giving the Military the Right to Repair](https://www.404media.co/appliance-and-tractor-companies-lobby-against-giving-the-military-the-right-to-repair/)
-- [The Future of TLA+ [pdf]](https://lamport.azurewebsites.net/tla/future.pdf)
+- [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring a Research Scientist](https://news.ycombinator.com/item?id=41396868)
+- [Show HN: Amine – Prevents you from switching 100s of Browser Tabs](https://github.com/datavorous/amine)
+- [I&#39;m blocking connections from AWS to my on-prem services](http://consulting.m3047.net/dubai-letters/balkanized-internet.html)
+- [Visit Bletchley Park](https://bletchleypark.org.uk/)
+- [DuckDuckGo for Mac is now open source](https://github.com/duckduckgo/macos-browser)
+- [Show HN: MinutesLink – AI note taker for online calls](https://minuteslink.com/)
+- [SDL3 new GPU API merged](https://github.com/libsdl-org/SDL/pull/9312)
+- [Firewall rules: not as secure as you think](https://www.haskellforall.com/2024/08/firewall-rules-not-as-secure-as-you.html)
+- [Google Closure Library has been archived](https://github.com/google/closure-library)
+- [Anthropic&#39;s Prompt Engineering Interactive Tutorial](https://github.com/anthropics/courses/tree/master/prompt_engineering_interactive_tutorial)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

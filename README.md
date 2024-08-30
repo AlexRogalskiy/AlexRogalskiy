@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [iMac &lpar;tm&rpar; Floppy Kit – iMac-floppy.com](https://web.archive.org/web/20010414043026/http://imac-floppy.com/index.html)
-- [Memos: stick private notes on your email](https://www.fastmail.com/blog/introducing-memos/)
-- [Docker-OS X image removed after Apple reports copyright infringement](https://github.com/sickcodes/Docker-OSX/issues/799)
-- [Tab Window Manager: The OG Window Manager of Unix](https://en.wikipedia.org/wiki/Twm)
-- [Laravel Cloud – The Future of Shipping](https://cloud.laravel.com/)
-- [Arcadia Science Publications](https://research.arcadiascience.com/)
-- [Compilation of JavaScript to WASM, Part 3: Partial Evaluation](https://cfallin.org/blog/2024/08/28/weval/)
-- [Testing AI models for parsing data &lpar;Claude vs. Gemini vs. OpenAI&rpar;](https://serpapi.com/blog/web-scraping-with-ai-parsing-html-to-structured-data/)
-- [The Haditha Massacre Photos That the Military Didn&#39;t Want the World to See](https://www.newyorker.com/podcast/in-the-dark/the-haditha-massacre-photos-that-the-military-didnt-want-the-world-to-see)
-- [Alex – Your AI iOS Engineer](https://www.alexcodes.app/)
+- [Urgent Truths: The Future of Climate Change – Are We Too Late?](https://trendblogz.com/future-climate-change/)
+- [What is a computer program? Historical and philosophical reflections [video]](https://www.youtube.com/watch?v=ZdkpsR9omI4)
+- [Input Coffee, Output Code: How AI Will Turn Capital into Labor](https://a16z.com/ai-turns-capital-to-labor/)
+- [You Don&#39;t Know Lefsetz?](https://seths.blog/2015/05/you-dont-know-lefsetz/)
+- [Show HN: Scientifically proven music, soundscapes to help you focus](https://listenatworkfm.com/)
+- [Sub.club aims to fund the Fediverse via premium feeds](https://techcrunch.com/2024/08/29/sub-club-aims-to-fund-the-fediverse-via-premium-feeds/)
+- [SpaceX will provide Internet service to users in Brazil for free](https://twitter.com/elonmusk/status/1829317832489816083)
+- [Green Berets Hijacked WiFi to Control Security System Then Vanish in Mock Raid](https://www.twz.com/news-features/green-berets-hijacked-wifi-to-control-home-security-system-then-vanish-in-mock-raid)
+- [Delving into &quot;Delve&quot;](https://pshapira.net/2024/03/31/delving-into-delve/)
+- [My dumb theory applied to how much you should get paid](https://www.iduoad.com/posts/my-theory-applied-to-your-salary/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring a Research Scientist](https://news.ycombinator.com/item?id=41396868)
-- [Show HN: Amine – Prevents you from switching 100s of Browser Tabs](https://github.com/datavorous/amine)
-- [I&#39;m blocking connections from AWS to my on-prem services](http://consulting.m3047.net/dubai-letters/balkanized-internet.html)
-- [Visit Bletchley Park](https://bletchleypark.org.uk/)
-- [DuckDuckGo for Mac is now open source](https://github.com/duckduckgo/macos-browser)
-- [Show HN: MinutesLink – AI note taker for online calls](https://minuteslink.com/)
-- [SDL3 new GPU API merged](https://github.com/libsdl-org/SDL/pull/9312)
-- [Firewall rules: not as secure as you think](https://www.haskellforall.com/2024/08/firewall-rules-not-as-secure-as-you.html)
-- [Google Closure Library has been archived](https://github.com/google/closure-library)
-- [Anthropic&#39;s Prompt Engineering Interactive Tutorial](https://github.com/anthropics/courses/tree/master/prompt_engineering_interactive_tutorial)
+- [NSA Releases Internal 1982 Lecture by Rear Admiral Grace Hopper [video]](https://www.youtube.com/watch?v=_bP14OzIJWI)
+- [Cassette Tape Archive](http://www.tapedeck.org/index.php)
+- [Expect – Linux tool for automating interactive programs](https://linux.die.net/man/1/expect)
+- [Crows are even smarter than we thought](https://nautil.us/crows-are-even-smarter-than-we-thought-820066/)
+- [Hadrius &lpar;YC W23&rpar; Is Hiring a Customer Success Engineer](https://www.ycombinator.com/companies/hadrius/jobs/m6sc1Vl-customer-success-engineer)
+- [UK researchers find Alzheimer&#39;s-like brain changes in long Covid patients](https://uknow.uky.edu/research/uk-researchers-find-alzheimer-s-brain-changes-long-covid-patients)
+- [Architectural Effects on Maximum Dependency Lengths of Recurrent Neural Networks](https://arxiv.org/abs/2408.11946)
+- [Three questions to turn the table during technical interviews](https://bellmar.medium.com/three-critical-questions-to-turn-the-table-during-technical-interviews-dd1594c278b8)
+- [To Nerves from Elixir](https://underjord.io/to-nerves-from-elixir.html)
+- [500 Python Interpreters](https://izzys.casa/2024/08/463-python-interpreters/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

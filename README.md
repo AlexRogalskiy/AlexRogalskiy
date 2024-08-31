@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Harris defends stance on Israel-Gaza, US border and fracking in CNN interview; Tim Walz shrugs off Republican attacks – live](https://www.theguardian.com/us-news/live/2024/aug/29/cnn-harris-walz-interview-election-updates)
-- [Black Box: episode 5 – The white mask - podcast](https://www.theguardian.com/news/audio/2024/aug/30/black-box-episode-5-the-white-mask-podcast)
-- [Swimmer Tom Gallagher claims Australia’s first gold medal at Paralympics](https://www.theguardian.com/sport/article/2024/aug/29/swimmers-brenden-hall-and-lakeisha-patterson-claim-australias-first-medals-at-paralympics)
-- [Katie Boulter crashes out of US Open as Jack Draper and Dan Evans march on](https://www.theguardian.com/sport/article/2024/aug/30/katie-boulter-crashes-out-but-jack-draper-is-through-at-us-open)
-- [Ukraine war briefing: pilot killed after first F-16 crash since delivery of jets last month](https://www.theguardian.com/world/article/2024/aug/30/ukraine-war-briefing-pilot-killed-after-first-f-16-crash-since-delivery-of-jets-last-month)
-- [Israeli military launches fatal airstrike on humanitarian aid convoy in Gaza](https://www.theguardian.com/world/article/2024/aug/29/israel-airstrike-aid-convoy-gaza)
-- [Workplace health checks introduced in England to target preventable diseases](https://www.theguardian.com/society/article/2024/aug/30/workplace-health-checks-introduced-in-england-to-target-preventable-diseases)
-- [TUC warns Keir Starmer: do not water down ban on zero-hours contracts](https://www.theguardian.com/uk-news/article/2024/aug/30/tuc-warns-keir-starmer-do-not-water-down-ban-on-zero-hours-contracts)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/article/2024/aug/30/premier-league-10-things-to-look-out-for-this-weekend)
-- [Keir Starmer ‘gets rid of’ 10 Downing Street’s Thatcher portrait](https://www.theguardian.com/politics/article/2024/aug/29/keir-starmer-gets-rid-of-10-downing-streets-thatcher-portrait)
+- [Protest from US after Kosovo closes Serbian offices](https://www.theguardian.com/world/article/2024/aug/31/protest-from-us-after-kosovo-closes-serbian-offices)
+- [Black Box: episode 6 – Shut it down? - podcast](https://www.theguardian.com/news/audio/2024/aug/31/black-box-episode-6-shut-it-down-podcast)
+- [Arsenal sign Raheem Sterling on loan as Jadon Sancho agrees Chelsea move](https://www.theguardian.com/football/article/2024/aug/30/transfer-latest-arsenal-bournemouth-neto-arteta)
+- [‘Flying the flag proudly’: Australians rally behind Alex de Minuar in grand slam resurgence | Simon Cambers](https://www.theguardian.com/sport/article/2024/aug/31/us-open-tennis-australia-grand-slam-resurgence-alex-de-minuar-alexei-popyrin-jordan-thompson)
+- [Missing couple from nudist community in California presumed dead](https://www.theguardian.com/us-news/article/2024/aug/30/missing-couple-california-nudist-dead-arrest)
+- [Alarm as Australia records ‘gobsmacking’ hot August temperatures](https://www.theguardian.com/australia-news/article/2024/aug/31/australia-heatwave-weather-sydney-melbourne-august-heat-record-temperatures)
+- [Brazilian court orders suspension of Elon Musk’s X after it missed deadline](https://www.theguardian.com/technology/article/2024/aug/30/elon-musk-x-could-face-ban-in-brazil-after-failure-to-appoint-legal-representative)
+- [Trump denies exploiting visit to US soldiers’ graves: ‘I don’t need publicity’](https://www.theguardian.com/us-news/article/2024/aug/30/trump-pennsylvania-rally-arlington-cemetery-photo-op)
+- [Last-minute Taiwan drama and a policing plan: five things we learned at the Pacific Islands Forum](https://www.theguardian.com/world/article/2024/aug/31/policing-plan-and-climate-concerns-five-things-we-learned-at-the-pacific-islands-forum)
+- [Doctor charged in Matthew Perry death appears in court after reaching plea deal](https://www.theguardian.com/tv-and-radio/article/2024/aug/30/matthew-perry-doctor-ketamine)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

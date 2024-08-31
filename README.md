@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Urgent Truths: The Future of Climate Change – Are We Too Late?](https://trendblogz.com/future-climate-change/)
-- [What is a computer program? Historical and philosophical reflections [video]](https://www.youtube.com/watch?v=ZdkpsR9omI4)
-- [Input Coffee, Output Code: How AI Will Turn Capital into Labor](https://a16z.com/ai-turns-capital-to-labor/)
-- [You Don&#39;t Know Lefsetz?](https://seths.blog/2015/05/you-dont-know-lefsetz/)
-- [Show HN: Scientifically proven music, soundscapes to help you focus](https://listenatworkfm.com/)
-- [Sub.club aims to fund the Fediverse via premium feeds](https://techcrunch.com/2024/08/29/sub-club-aims-to-fund-the-fediverse-via-premium-feeds/)
-- [SpaceX will provide Internet service to users in Brazil for free](https://twitter.com/elonmusk/status/1829317832489816083)
-- [Green Berets Hijacked WiFi to Control Security System Then Vanish in Mock Raid](https://www.twz.com/news-features/green-berets-hijacked-wifi-to-control-home-security-system-then-vanish-in-mock-raid)
-- [Delving into &quot;Delve&quot;](https://pshapira.net/2024/03/31/delving-into-delve/)
-- [My dumb theory applied to how much you should get paid](https://www.iduoad.com/posts/my-theory-applied-to-your-salary/)
+- [Snakebyte](https://toulou.itch.io/snakebyte)
+- [NSA Releases Internal 1982 Lecture by Rear Admiral Grace Hopper [video]](https://www.youtube.com/watch?v=_bP14OzIJWI)
+- [Vpqy: ML framework for queryable video analytics](https://github.com/vqpy/vqpy)
+- [Gemini Custom Gems and Imagen 3](https://blog.google/products/gemini/google-gemini-update-august-2024/)
+- [Action, Passion, Power](https://onlinelibrary.wiley.com/doi/10.1111/nous.12523)
+- [Brave lays off 27 employees](https://techcrunch.com/2024/08/28/brave-lays-off-27-employees/)
+- [Bypass Paywall Reader, A website to bypass paywalls on articles to read for free](https://news.ycombinator.com/item?id=41406017)
+- [Cassette Tape Archive](http://www.tapedeck.org/index.php)
+- [AIs are now paying other AIs with crypto](https://twitter.com/brian_armstrong/status/1829623778726592804)
+- [Mobile-Friendly Image Maps](https://jacobfilipp.com/imagemaps/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

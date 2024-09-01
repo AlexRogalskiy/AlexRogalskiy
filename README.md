@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Snakebyte](https://toulou.itch.io/snakebyte)
-- [NSA Releases Internal 1982 Lecture by Rear Admiral Grace Hopper [video]](https://www.youtube.com/watch?v=_bP14OzIJWI)
-- [Vpqy: ML framework for queryable video analytics](https://github.com/vqpy/vqpy)
-- [Gemini Custom Gems and Imagen 3](https://blog.google/products/gemini/google-gemini-update-august-2024/)
-- [Action, Passion, Power](https://onlinelibrary.wiley.com/doi/10.1111/nous.12523)
-- [Brave lays off 27 employees](https://techcrunch.com/2024/08/28/brave-lays-off-27-employees/)
-- [Bypass Paywall Reader, A website to bypass paywalls on articles to read for free](https://news.ycombinator.com/item?id=41406017)
-- [Cassette Tape Archive](http://www.tapedeck.org/index.php)
-- [AIs are now paying other AIs with crypto](https://twitter.com/brian_armstrong/status/1829623778726592804)
-- [Mobile-Friendly Image Maps](https://jacobfilipp.com/imagemaps/)
+- [Generate slick changelogs from Git commits](https://brettterpstra.com/2024/08/31/updated-generate-slick-changelogs-from-git-commits/)
+- [Notes on Using the MLIR C API in Swift](https://duan.ca/2024/08/swift-mlir-cmake/)
+- [Strip – Surprising findings from our analysis of 3DS transactions in the US](https://stripe.com/blog/surprising-findings-from-our-analysis-of-3ds-transactions-in-the-us)
+- [China Conquers Mexico&#39;s Automotive Market, and the US Is Worried](https://www.wired.com/story/china-conquers-mexican-automotive-market-and-the-us-is-worried/)
+- [49ers rookie Ricky Pearsall shot during robbery attempt in SF&#39;s Union Square](https://www.sfgate.com/sports/article/49ers-rookie-ricky-pearsall-shot-robbery-attempt-19735779.php)
+- [Why GitHub&#39;s loading progress bar looks good and how to build it](https://blog.logto.io/loading-progress-bar-and-how-to-build-it)
+- [Oprah will screw up the AI story](https://www.anildash.com//2024/08/31/oprah-wrong-ai/)
+- [Playstation 2 GS emulation – the final frontier of Vulkan compute emulation](https://themaister.net/blog/2024/07/03/playstation-2-gs-emulation-the-final-frontier-of-vulkan-compute-emulation/)
+- [Show HN: Who is hiring job posts count since 2011](https://docs.google.com/spreadsheets/d/1_kVxXhqC8y5GxgdRQ08m2T948HbwNiHOD-BRDs1X14o/edit)
+- [Taming the beast that is the Django ORM – An introduction](https://www.davidhang.com/blog/2024-09-01-taming-the-django-orm/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

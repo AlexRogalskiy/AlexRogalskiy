@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [NSA Releases Internal 1982 Lecture by Rear Admiral Grace Hopper [video]](https://www.youtube.com/watch?v=_bP14OzIJWI)
-- [Cassette Tape Archive](http://www.tapedeck.org/index.php)
-- [Expect – Linux tool for automating interactive programs](https://linux.die.net/man/1/expect)
-- [Crows are even smarter than we thought](https://nautil.us/crows-are-even-smarter-than-we-thought-820066/)
-- [Hadrius &lpar;YC W23&rpar; Is Hiring a Customer Success Engineer](https://www.ycombinator.com/companies/hadrius/jobs/m6sc1Vl-customer-success-engineer)
-- [UK researchers find Alzheimer&#39;s-like brain changes in long Covid patients](https://uknow.uky.edu/research/uk-researchers-find-alzheimer-s-brain-changes-long-covid-patients)
-- [Architectural Effects on Maximum Dependency Lengths of Recurrent Neural Networks](https://arxiv.org/abs/2408.11946)
-- [Three questions to turn the table during technical interviews](https://bellmar.medium.com/three-critical-questions-to-turn-the-table-during-technical-interviews-dd1594c278b8)
-- [To Nerves from Elixir](https://underjord.io/to-nerves-from-elixir.html)
-- [500 Python Interpreters](https://izzys.casa/2024/08/463-python-interpreters/)
+- [Oprah will screw up the AI story](https://www.anildash.com//2024/08/31/oprah-wrong-ai/)
+- [Ozempic could delay ageing, researchers suggest](https://www.bbc.com/news/articles/ce81j919gdjo)
+- [AirTags key to discovery of Houston&#39;s plastic recycling deception](https://appleinsider.com/articles/24/08/31/airtags-key-to-discovery-of-houstons-plastic-recycling-deception)
+- [Boox Palma Review: A Phone-Sized E-Ink Android Device That Isn&#39;t a Phone](https://ewritable.com/ereaders/boox-palma/review/)
+- [Freetube is the best way to watch YouTube](https://www.popsci.com/diy/youtube-alternative-freetube/)
+- [Building LLMs from the Ground Up: A 3-Hour Coding Workshop](https://magazine.sebastianraschka.com/p/building-llms-from-the-ground-up)
+- [A brief history of barbed wire fence telephone networks](https://loriemerson.net/2024/08/31/a-brief-history-of-barbed-wire-fence-telephone-networks/)
+- [Continue &lpar;YC S23&rpar; Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
+- [Astronomers puzzled by little red galaxies that seem impossibly dense](https://www.newscientist.com/article/2445967-astronomers-puzzled-by-little-red-galaxies-that-seem-impossibly-dense/)
+- [The Threat to OpenAI](https://www.wsj.com/tech/ai/ai-chatgpt-nvidia-apple-facebook-383943d1)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

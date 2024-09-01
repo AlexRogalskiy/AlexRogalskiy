@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Protest from US after Kosovo closes Serbian offices](https://www.theguardian.com/world/article/2024/aug/31/protest-from-us-after-kosovo-closes-serbian-offices)
-- [Black Box: episode 6 – Shut it down? - podcast](https://www.theguardian.com/news/audio/2024/aug/31/black-box-episode-6-shut-it-down-podcast)
-- [Arsenal sign Raheem Sterling on loan as Jadon Sancho agrees Chelsea move](https://www.theguardian.com/football/article/2024/aug/30/transfer-latest-arsenal-bournemouth-neto-arteta)
-- [‘Flying the flag proudly’: Australians rally behind Alex de Minuar in grand slam resurgence | Simon Cambers](https://www.theguardian.com/sport/article/2024/aug/31/us-open-tennis-australia-grand-slam-resurgence-alex-de-minuar-alexei-popyrin-jordan-thompson)
-- [Missing couple from nudist community in California presumed dead](https://www.theguardian.com/us-news/article/2024/aug/30/missing-couple-california-nudist-dead-arrest)
-- [Alarm as Australia records ‘gobsmacking’ hot August temperatures](https://www.theguardian.com/australia-news/article/2024/aug/31/australia-heatwave-weather-sydney-melbourne-august-heat-record-temperatures)
-- [Brazilian court orders suspension of Elon Musk’s X after it missed deadline](https://www.theguardian.com/technology/article/2024/aug/30/elon-musk-x-could-face-ban-in-brazil-after-failure-to-appoint-legal-representative)
-- [Trump denies exploiting visit to US soldiers’ graves: ‘I don’t need publicity’](https://www.theguardian.com/us-news/article/2024/aug/30/trump-pennsylvania-rally-arlington-cemetery-photo-op)
-- [Last-minute Taiwan drama and a policing plan: five things we learned at the Pacific Islands Forum](https://www.theguardian.com/world/article/2024/aug/31/policing-plan-and-climate-concerns-five-things-we-learned-at-the-pacific-islands-forum)
-- [Doctor charged in Matthew Perry death appears in court after reaching plea deal](https://www.theguardian.com/tv-and-radio/article/2024/aug/30/matthew-perry-doctor-ketamine)
+- [Ukraine war briefing: Kyiv launches drone strike on Moscow and surrounding regions, Russia says](https://www.theguardian.com/world/article/2024/sep/01/ukraine-war-briefing-kyiv-launches-drone-strike-on-moscow-and-surrounding-regions-russia-says)
+- [Ballet pumps: 30 of the best – in pictures](https://www.theguardian.com/fashion/gallery/2024/aug/31/ballet-pumps-30-of-the-best-in-pictures)
+- [Former Leeds and Cardiff defender Sol Bamba dies aged 39](https://www.theguardian.com/football/article/2024/aug/31/leeds-cardiff-sol-bamba-football)
+- [Fire crews tackle blaze after ‘pre-planned’ film set explosions near the O2](https://www.theguardian.com/uk-news/article/2024/aug/31/fire-crews-tackle-blaze-after-pre-planned-film-set-explosions-near-the-o2)
+- [Dallas police officer killed and two wounded in apparent ambush](https://www.theguardian.com/us-news/article/2024/aug/31/dallas-police-shooting-one-dead-two-injured)
+- [Lee Carsley praises England’s era of calm youngsters bursting into squad](https://www.theguardian.com/football/article/2024/aug/31/lee-carsley-praises-englands-era-of-calm-youngsters-bursting-into-squad)
+- [Oasis fans frustrated by technical issues in battle to nab reunion show tickets](https://www.theguardian.com/music/article/2024/aug/31/oasis-reunion-tickets-technical-issues)
+- [Young and Hahn miss out on medals as new stars surge to world records](https://www.theguardian.com/sport/article/2024/aug/31/thomas-young-sophie-hahn-david-weir-paralympic-games-paris)
+- [Sambre: Anatomy of a Crime review – the misogyny of the French police will make you want to scream](https://www.theguardian.com/tv-and-radio/article/2024/aug/31/sambre-anatomy-of-a-review-the-misogyny-of-the-french-police-will-make-you-want-to-scream)
+- [Jodie Grinham shoots into history with Paralympic archery bronze while pregnant](https://www.theguardian.com/sport/article/2024/aug/31/jodie-grinham-shoots-into-history-with-paralympic-archery-bronze-success)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

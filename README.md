@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Oprah will screw up the AI story](https://www.anildash.com//2024/08/31/oprah-wrong-ai/)
-- [Ozempic could delay ageing, researchers suggest](https://www.bbc.com/news/articles/ce81j919gdjo)
-- [AirTags key to discovery of Houston&#39;s plastic recycling deception](https://appleinsider.com/articles/24/08/31/airtags-key-to-discovery-of-houstons-plastic-recycling-deception)
-- [Boox Palma Review: A Phone-Sized E-Ink Android Device That Isn&#39;t a Phone](https://ewritable.com/ereaders/boox-palma/review/)
-- [Freetube is the best way to watch YouTube](https://www.popsci.com/diy/youtube-alternative-freetube/)
-- [Building LLMs from the Ground Up: A 3-Hour Coding Workshop](https://magazine.sebastianraschka.com/p/building-llms-from-the-ground-up)
-- [A brief history of barbed wire fence telephone networks](https://loriemerson.net/2024/08/31/a-brief-history-of-barbed-wire-fence-telephone-networks/)
-- [Continue &lpar;YC S23&rpar; Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
-- [Astronomers puzzled by little red galaxies that seem impossibly dense](https://www.newscientist.com/article/2445967-astronomers-puzzled-by-little-red-galaxies-that-seem-impossibly-dense/)
-- [The Threat to OpenAI](https://www.wsj.com/tech/ai/ai-chatgpt-nvidia-apple-facebook-383943d1)
+- [Tbsp – treesitter-based source processing language](https://git.peppe.rs/languages/tbsp/)
+- [Inductive or Deductive? Rethinking the Fundamental Reasoning Abilities of LLMs](https://arxiv.org/abs/2408.00114)
+- [Notes/Primer on Clang Compiler Front End &lpar;1&rpar;: Introduction and Architecture](https://youssefaa.com/notes/notes-on-clang-compiler-frontend/)
+- [Dublin Core, what is it good for?](https://www.thisdaysportion.com/posts/dublin-core-what-is-it-good-for)
+- [A Lot of &#39;Unskilled&#39; Workers Aren&#39;t](https://www.bloomberg.com/opinion/articles/2024-09-01/labor-unskilled-workers-is-a-demeaning-term)
+- [Unix history and the `dc` calculator](https://howdytx.technology/unix-history-the-dc-calculator/)
+- [Extreme Pi Boot Optimization](https://kittenlabs.de/blog/2024/09/01/extreme-pi-boot-optimization/)
+- [&#39;Mindblowing&#39; fake AMD Ryzen 7 7800X3D chip investigated – buyers beware](https://www.tomshardware.com/pc-components/cpus/mindblowing-fake-amd-ryzen-7-7800x3d-chip-investigated-buyers-beware)
+- [Electrified thermochemical systems with high-frequency metamaterial reactors](https://www.cell.com/joule/fulltext/S2542-4351(24)00346-5?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2542435124003465%3Fshowall%3Dtrue)
+- [The Pentium as a Navajo Weaving](https://www.righto.com/2024/08/pentium-navajo-fairchild-shiprock.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

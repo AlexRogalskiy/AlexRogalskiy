@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Generate slick changelogs from Git commits](https://brettterpstra.com/2024/08/31/updated-generate-slick-changelogs-from-git-commits/)
-- [Notes on Using the MLIR C API in Swift](https://duan.ca/2024/08/swift-mlir-cmake/)
-- [Strip – Surprising findings from our analysis of 3DS transactions in the US](https://stripe.com/blog/surprising-findings-from-our-analysis-of-3ds-transactions-in-the-us)
-- [China Conquers Mexico&#39;s Automotive Market, and the US Is Worried](https://www.wired.com/story/china-conquers-mexican-automotive-market-and-the-us-is-worried/)
-- [49ers rookie Ricky Pearsall shot during robbery attempt in SF&#39;s Union Square](https://www.sfgate.com/sports/article/49ers-rookie-ricky-pearsall-shot-robbery-attempt-19735779.php)
-- [Why GitHub&#39;s loading progress bar looks good and how to build it](https://blog.logto.io/loading-progress-bar-and-how-to-build-it)
-- [Oprah will screw up the AI story](https://www.anildash.com//2024/08/31/oprah-wrong-ai/)
-- [Playstation 2 GS emulation – the final frontier of Vulkan compute emulation](https://themaister.net/blog/2024/07/03/playstation-2-gs-emulation-the-final-frontier-of-vulkan-compute-emulation/)
-- [Show HN: Who is hiring job posts count since 2011](https://docs.google.com/spreadsheets/d/1_kVxXhqC8y5GxgdRQ08m2T948HbwNiHOD-BRDs1X14o/edit)
-- [Taming the beast that is the Django ORM – An introduction](https://www.davidhang.com/blog/2024-09-01-taming-the-django-orm/)
+- [How the Oldest Company in the World Survived Nearly 1,500 Years](https://www.openculture.com/2024/08/how-the-oldest-company-in-the-world-has-survived-nearly-1500-years.html)
+- [DataComp for Language Models](https://github.com/mlfoundations/dclm)
+- [In Bali, water temple priests guide a sustainable rice production system](https://news.mongabay.com/2024/08/in-bali-water-temple-priests-guide-a-sustainable-rice-production-system/)
+- [How to sync Mac and Linux /home](https://sive.rs/macx)
+- [LinkedIn&#39;s Broken Automation Took Down My Company&#39;s Page Without Warning](https://www.tokyodev.com/articles/linkedin-broken-automation-took-down-my-company-page-without-warning)
+- [Procreate defies AI trend, pledges &quot;no generative AI&quot; in its illustration app](https://arstechnica.com/information-technology/2024/08/procreate-defies-ai-trend-pledges-no-generative-ai-in-its-illustration-app/)
+- [Factory Monster: YouTube of KR industrial and manufacturing processes at scale](https://www.youtube.com/channel/UCp-N1kSW5E3bhfp2fwu076g)
+- [Anthrogen &lpar;YC S24&rpar; – Scalable, carbon-negative polymer production](https://www.anthrogen.com/)
+- [Spooky Action at a Distance?](https://functional-coat-477.notion.site/Spooky-action-at-a-distance-1c436ae58fde4b629d9230928ab61224#a9199893982a4360b90d1edc834ceec6)
+- [Startup Alarmed When Its AI Starts Rickrolling Clients](https://futurism.com/the-byte/ai-startup-rickrolling)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

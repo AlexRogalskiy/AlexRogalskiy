@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine war briefing: Kyiv launches drone strike on Moscow and surrounding regions, Russia says](https://www.theguardian.com/world/article/2024/sep/01/ukraine-war-briefing-kyiv-launches-drone-strike-on-moscow-and-surrounding-regions-russia-says)
-- [Ballet pumps: 30 of the best – in pictures](https://www.theguardian.com/fashion/gallery/2024/aug/31/ballet-pumps-30-of-the-best-in-pictures)
-- [Former Leeds and Cardiff defender Sol Bamba dies aged 39](https://www.theguardian.com/football/article/2024/aug/31/leeds-cardiff-sol-bamba-football)
-- [Fire crews tackle blaze after ‘pre-planned’ film set explosions near the O2](https://www.theguardian.com/uk-news/article/2024/aug/31/fire-crews-tackle-blaze-after-pre-planned-film-set-explosions-near-the-o2)
-- [Dallas police officer killed and two wounded in apparent ambush](https://www.theguardian.com/us-news/article/2024/aug/31/dallas-police-shooting-one-dead-two-injured)
-- [Lee Carsley praises England’s era of calm youngsters bursting into squad](https://www.theguardian.com/football/article/2024/aug/31/lee-carsley-praises-englands-era-of-calm-youngsters-bursting-into-squad)
-- [Oasis fans frustrated by technical issues in battle to nab reunion show tickets](https://www.theguardian.com/music/article/2024/aug/31/oasis-reunion-tickets-technical-issues)
-- [Young and Hahn miss out on medals as new stars surge to world records](https://www.theguardian.com/sport/article/2024/aug/31/thomas-young-sophie-hahn-david-weir-paralympic-games-paris)
-- [Sambre: Anatomy of a Crime review – the misogyny of the French police will make you want to scream](https://www.theguardian.com/tv-and-radio/article/2024/aug/31/sambre-anatomy-of-a-review-the-misogyny-of-the-french-police-will-make-you-want-to-scream)
-- [Jodie Grinham shoots into history with Paralympic archery bronze while pregnant](https://www.theguardian.com/sport/article/2024/aug/31/jodie-grinham-shoots-into-history-with-paralympic-archery-bronze-success)
+- [‘I didn’t expect to win’: Labour’s new MPs adjusting to Commons life](https://www.theguardian.com/uk-news/article/2024/sep/01/i-didnt-expect-to-win-labours-new-mps-adjusting-to-commons-life)
+- [Meet the new MPs: the surgeon, the lawyer and the 24-year-old student – podcast](https://www.theguardian.com/news/audio/2024/sep/02/meet-the-new-mps-the-surgeon-the-lawyer-and-the-24-year-old-student-podcast)
+- [Tiger mauls animal handler at Dreamworld theme park on the Gold Coast](https://www.theguardian.com/australia-news/article/2024/sep/02/tiger-mauls-woman-dreamworld-gold-coast-qld-queensland-australia)
+- [German far-right party AfD poised for state election victory in east](https://www.theguardian.com/world/article/2024/sep/01/german-far-right-party-afd-state-election-victory-thuringia)
+- [How China’s internet police went from targeting bloggers to their followers](https://www.theguardian.com/world/article/2024/sep/02/how-chinas-internet-police-went-from-targeting-bloggers-to-their-followers)
+- [Many patients leave GP appointment without discussing all worries, survey shows](https://www.theguardian.com/society/article/2024/sep/02/many-patients-leave-gp-appointment-without-discussing-all-worries-survey-shows)
+- [Kemi Badenoch to urge Conservatives to do more than criticise Labour](https://www.theguardian.com/politics/article/2024/sep/02/kemi-badenoch-conservative-party-leadership-campaign-launch)
+- [Rochester prison given urgent notification after ‘systemic failure and decline’](https://www.theguardian.com/society/article/2024/sep/02/rochester-prison-given-urgent-notification-after-systemic-failure-and-decline)
+- [Publish data on ride-hailing apps ‘to cut exploitation and emissions’, say campaigners](https://www.theguardian.com/business/article/2024/sep/02/ride-hailing-apps-data-drive-miles-wages-carbon-emissions)
+- [Defending champion Gauff out of US Open against Navarro as serve deserts her](https://www.theguardian.com/sport/article/2024/sep/01/jack-draper-hails-big-opportunity-before-us-open-fourth-round-tennis)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

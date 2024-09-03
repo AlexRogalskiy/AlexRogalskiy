@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Tbsp – treesitter-based source processing language](https://git.peppe.rs/languages/tbsp/)
-- [Inductive or Deductive? Rethinking the Fundamental Reasoning Abilities of LLMs](https://arxiv.org/abs/2408.00114)
-- [Notes/Primer on Clang Compiler Front End &lpar;1&rpar;: Introduction and Architecture](https://youssefaa.com/notes/notes-on-clang-compiler-frontend/)
-- [Dublin Core, what is it good for?](https://www.thisdaysportion.com/posts/dublin-core-what-is-it-good-for)
-- [A Lot of &#39;Unskilled&#39; Workers Aren&#39;t](https://www.bloomberg.com/opinion/articles/2024-09-01/labor-unskilled-workers-is-a-demeaning-term)
-- [Unix history and the `dc` calculator](https://howdytx.technology/unix-history-the-dc-calculator/)
-- [Extreme Pi Boot Optimization](https://kittenlabs.de/blog/2024/09/01/extreme-pi-boot-optimization/)
-- [&#39;Mindblowing&#39; fake AMD Ryzen 7 7800X3D chip investigated – buyers beware](https://www.tomshardware.com/pc-components/cpus/mindblowing-fake-amd-ryzen-7-7800x3d-chip-investigated-buyers-beware)
-- [Electrified thermochemical systems with high-frequency metamaterial reactors](https://www.cell.com/joule/fulltext/S2542-4351(24)00346-5?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2542435124003465%3Fshowall%3Dtrue)
-- [The Pentium as a Navajo Weaving](https://www.righto.com/2024/08/pentium-navajo-fairchild-shiprock.html)
+- [Is My Blue Your Blue?](https://ismy.blue/)
+- [QWERTY-Flip: The better keyboard layout your fingers already know](https://nick-gravgaard.com/qwerty-flip/)
+- [Open Mathematics Depository](https://openmathdep.tuxfamily.org/)
+- [Playdate Game Zero Zero: Perfect Stop](https://play.date/games/zero-zero/)
+- [Long-term unemployment leads to disengagement and apathy](https://www.psypost.org/long-term-unemployment-leads-to-disengagement-and-apathy-rather-than-efforts-to-regain-control/)
+- [The Art of Finishing](https://www.bytedrum.com/posts/art-of-finishing/)
+- [Light-based technique shows 90% accuracy in early prostate cancer detection](https://medicalxpress.com/news/2024-09-based-technique-accuracy-early-prostate.html)
+- [Web scraping with GPT-4o: powerful but expensive](https://blancas.io/blog/ai-web-scraper/)
+- [Big Tech Sees Like a State &lpar;2020&rpar;](https://www.thediff.co/archive/big-tech-sees-like-a-state/)
+- [Show HN: Puns from Wikipedia Page Titles](https://punnily.com/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

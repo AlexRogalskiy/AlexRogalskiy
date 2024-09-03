@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [‘I didn’t expect to win’: Labour’s new MPs adjusting to Commons life](https://www.theguardian.com/uk-news/article/2024/sep/01/i-didnt-expect-to-win-labours-new-mps-adjusting-to-commons-life)
-- [Meet the new MPs: the surgeon, the lawyer and the 24-year-old student – podcast](https://www.theguardian.com/news/audio/2024/sep/02/meet-the-new-mps-the-surgeon-the-lawyer-and-the-24-year-old-student-podcast)
-- [Tiger mauls animal handler at Dreamworld theme park on the Gold Coast](https://www.theguardian.com/australia-news/article/2024/sep/02/tiger-mauls-woman-dreamworld-gold-coast-qld-queensland-australia)
-- [German far-right party AfD poised for state election victory in east](https://www.theguardian.com/world/article/2024/sep/01/german-far-right-party-afd-state-election-victory-thuringia)
-- [How China’s internet police went from targeting bloggers to their followers](https://www.theguardian.com/world/article/2024/sep/02/how-chinas-internet-police-went-from-targeting-bloggers-to-their-followers)
-- [Many patients leave GP appointment without discussing all worries, survey shows](https://www.theguardian.com/society/article/2024/sep/02/many-patients-leave-gp-appointment-without-discussing-all-worries-survey-shows)
-- [Kemi Badenoch to urge Conservatives to do more than criticise Labour](https://www.theguardian.com/politics/article/2024/sep/02/kemi-badenoch-conservative-party-leadership-campaign-launch)
-- [Rochester prison given urgent notification after ‘systemic failure and decline’](https://www.theguardian.com/society/article/2024/sep/02/rochester-prison-given-urgent-notification-after-systemic-failure-and-decline)
-- [Publish data on ride-hailing apps ‘to cut exploitation and emissions’, say campaigners](https://www.theguardian.com/business/article/2024/sep/02/ride-hailing-apps-data-drive-miles-wages-carbon-emissions)
-- [Defending champion Gauff out of US Open against Navarro as serve deserts her](https://www.theguardian.com/sport/article/2024/sep/01/jack-draper-hails-big-opportunity-before-us-open-fourth-round-tennis)
+- [Venezuela judge issues arrest warrant for opposition leader after disputed election](https://www.theguardian.com/world/article/2024/sep/03/edmundo-gonzalez-venezuela-election-opposition-leader-prosecutors-arrest-warrant)
+- [The millennials living with their parents – podcast](https://www.theguardian.com/news/audio/2024/sep/03/the-millennials-living-with-parents-podcast)
+- [Ukraine war briefing: Putin and Mongolia flout ICC arrest warrant](https://www.theguardian.com/world/article/2024/sep/03/ukraine-war-briefing-putin-and-mongolia-flout-icc-arrest-warrant)
+- [Harris and Biden pitch for steel votes in Pittsburgh in first joint appearance on campaign trail](https://www.theguardian.com/us-news/article/2024/sep/03/kamala-harris-joe-biden-campaign-labor-day-pittsburgh)
+- [A ‘patriotic education’: Hong Kong schools begin rollout of Xi Jinping Thought](https://www.theguardian.com/world/article/2024/sep/03/hong-kong-schools-begin-teaching-xi-jinping-thought)
+- [‘A myopic policy’: India’s backing of ousted Bangladesh leader Sheikh Hasina leaves it in a bind](https://www.theguardian.com/world/article/2024/sep/03/a-myopic-policy-indias-backing-of-ousted-bangladesh-leader-sheikh-hasina-leaves-it-in-a-bind)
+- [Eat less bacon and cheese to cut heart attack risk, Britons urged](https://www.theguardian.com/society/article/2024/sep/03/eat-less-bacon-and-cheese-to-cut-heart-attack-risk-britons-urged)
+- [Ofsted reforms to focus on inclusion, behaviour and attendance](https://www.theguardian.com/education/article/2024/sep/03/ofsted-reforms-to-focus-on-inclusion-behaviour-and-attendance)
+- [Women fleeing rape face coercion and control by Home Office contractors](https://www.theguardian.com/world/article/2024/sep/03/women-fleeing-face-coercion-and-control-by-home-office-contractors)
+- [Coalition of English councils calls for emergency £644m to fund housing](https://www.theguardian.com/society/article/2024/sep/03/coalition-of-english-councils-calls-for-emergency-644m-to-fund-housing)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

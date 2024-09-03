@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [How the Oldest Company in the World Survived Nearly 1,500 Years](https://www.openculture.com/2024/08/how-the-oldest-company-in-the-world-has-survived-nearly-1500-years.html)
-- [DataComp for Language Models](https://github.com/mlfoundations/dclm)
-- [In Bali, water temple priests guide a sustainable rice production system](https://news.mongabay.com/2024/08/in-bali-water-temple-priests-guide-a-sustainable-rice-production-system/)
-- [How to sync Mac and Linux /home](https://sive.rs/macx)
-- [LinkedIn&#39;s Broken Automation Took Down My Company&#39;s Page Without Warning](https://www.tokyodev.com/articles/linkedin-broken-automation-took-down-my-company-page-without-warning)
-- [Procreate defies AI trend, pledges &quot;no generative AI&quot; in its illustration app](https://arstechnica.com/information-technology/2024/08/procreate-defies-ai-trend-pledges-no-generative-ai-in-its-illustration-app/)
-- [Factory Monster: YouTube of KR industrial and manufacturing processes at scale](https://www.youtube.com/channel/UCp-N1kSW5E3bhfp2fwu076g)
-- [Anthrogen &lpar;YC S24&rpar; – Scalable, carbon-negative polymer production](https://www.anthrogen.com/)
-- [Spooky Action at a Distance?](https://functional-coat-477.notion.site/Spooky-action-at-a-distance-1c436ae58fde4b629d9230928ab61224#a9199893982a4360b90d1edc834ceec6)
-- [Startup Alarmed When Its AI Starts Rickrolling Clients](https://futurism.com/the-byte/ai-startup-rickrolling)
+- [Software Architecture Hot Tips](https://hachyderm.io/@kenbot/112513128549792563)
+- [Vermeer&#39;s Love Letter](https://www.rijksmuseum.nl/en/stories/in-detail/story/love-letter)
+- [Cassidy Williams: Navigating the Career Jungle Gym in Tech [audio]](https://maintainable.fm/episodes/cassidy-williams-navigating-the-career-jungle-gym-in-tech)
+- [Express middleware for JWT-based authentication against FusionAuth](https://github.com/trevorr/express-jwt-fusionauth)
+- [Will FAST channels kill subscription streaming services?](https://bsgroup.eu/blog/will-fast-channels-kill-subscription-streaming-services/)
+- [Heavy Weights or High Reps?](https://www.gq.com/story/heavy-weights-vs-high-reps)
+- [Louis Lasagna](https://en.wikipedia.org/wiki/Louis_Lasagna)
+- [Abolish Grades](https://yaschamounk.substack.com/p/abolish-grades)
+- [X Macro](https://en.wikipedia.org/wiki/X_macro)
+- [Tell HN: Vimeo&#39;s free trial is predatory](https://news.ycombinator.com/item?id=41430607)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

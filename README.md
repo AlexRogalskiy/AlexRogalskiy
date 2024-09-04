@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Is My Blue Your Blue?](https://ismy.blue/)
-- [QWERTY-Flip: The better keyboard layout your fingers already know](https://nick-gravgaard.com/qwerty-flip/)
-- [Open Mathematics Depository](https://openmathdep.tuxfamily.org/)
-- [Playdate Game Zero Zero: Perfect Stop](https://play.date/games/zero-zero/)
-- [Long-term unemployment leads to disengagement and apathy](https://www.psypost.org/long-term-unemployment-leads-to-disengagement-and-apathy-rather-than-efforts-to-regain-control/)
-- [The Art of Finishing](https://www.bytedrum.com/posts/art-of-finishing/)
-- [Light-based technique shows 90% accuracy in early prostate cancer detection](https://medicalxpress.com/news/2024-09-based-technique-accuracy-early-prostate.html)
-- [Web scraping with GPT-4o: powerful but expensive](https://blancas.io/blog/ai-web-scraper/)
-- [Big Tech Sees Like a State &lpar;2020&rpar;](https://www.thediff.co/archive/big-tech-sees-like-a-state/)
-- [Show HN: Puns from Wikipedia Page Titles](https://punnily.com/)
+- [Interviewing Epic Games Founder Tim Sweeney and Author Neal Stephenson](https://www.matthewball.co/all/sweeneystephenson)
+- [Emerge Tools &lpar;YC W21&rpar; is hiring a senior front end engineer](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
+- [In a first, Phoenix hits 100 straight days of 100-degree heat](https://www.washingtonpost.com/weather/2024/09/03/phoenix-100-degree-temperatures-record/)
+- [Intel: New Core Ultra Processors Deliver Breakthrough Performance](https://www.intel.com/content/www/us/en/newsroom/news/core-ultra-200v-series-mobile.html)
+- [Show HN: I&#39;m making an AI scraper called FetchFox](https://fetchfoxai.com/)
+- [OpenAI and Anthropic agree to send models to US Government for safety evaluation](https://venturebeat.com/ai/openai-and-anthropic-agree-to-send-models-to-us-government-for-safety-evaluations/)
+- [Llms.txt](https://llmstxt.org/)
+- [Writing a book in the age of open source](https://blog.incrementalforgetting.tech/p/sculpting-a-book-the-chisel)
+- [Howm: Personal Wiki for Emacs](https://github.com/Emacs101/howm-manual)
+- [Show HN: Hestus – AI Copilot for CAD](https://www.hestus.co/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

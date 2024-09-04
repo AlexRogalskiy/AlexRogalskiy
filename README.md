@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Venezuela judge issues arrest warrant for opposition leader after disputed election](https://www.theguardian.com/world/article/2024/sep/03/edmundo-gonzalez-venezuela-election-opposition-leader-prosecutors-arrest-warrant)
-- [The millennials living with their parents – podcast](https://www.theguardian.com/news/audio/2024/sep/03/the-millennials-living-with-parents-podcast)
-- [Ukraine war briefing: Putin and Mongolia flout ICC arrest warrant](https://www.theguardian.com/world/article/2024/sep/03/ukraine-war-briefing-putin-and-mongolia-flout-icc-arrest-warrant)
-- [Harris and Biden pitch for steel votes in Pittsburgh in first joint appearance on campaign trail](https://www.theguardian.com/us-news/article/2024/sep/03/kamala-harris-joe-biden-campaign-labor-day-pittsburgh)
-- [A ‘patriotic education’: Hong Kong schools begin rollout of Xi Jinping Thought](https://www.theguardian.com/world/article/2024/sep/03/hong-kong-schools-begin-teaching-xi-jinping-thought)
-- [‘A myopic policy’: India’s backing of ousted Bangladesh leader Sheikh Hasina leaves it in a bind](https://www.theguardian.com/world/article/2024/sep/03/a-myopic-policy-indias-backing-of-ousted-bangladesh-leader-sheikh-hasina-leaves-it-in-a-bind)
-- [Eat less bacon and cheese to cut heart attack risk, Britons urged](https://www.theguardian.com/society/article/2024/sep/03/eat-less-bacon-and-cheese-to-cut-heart-attack-risk-britons-urged)
-- [Ofsted reforms to focus on inclusion, behaviour and attendance](https://www.theguardian.com/education/article/2024/sep/03/ofsted-reforms-to-focus-on-inclusion-behaviour-and-attendance)
-- [Women fleeing rape face coercion and control by Home Office contractors](https://www.theguardian.com/world/article/2024/sep/03/women-fleeing-face-coercion-and-control-by-home-office-contractors)
-- [Coalition of English councils calls for emergency £644m to fund housing](https://www.theguardian.com/society/article/2024/sep/03/coalition-of-english-councils-calls-for-emergency-644m-to-fund-housing)
+- [Aryna Sabalenka cruises past Zheng Qinwen to reach US Open semi-final](https://www.theguardian.com/sport/article/2024/sep/04/us-open-aryna-sabalenka-vs-zheng-qinwen-results-scores)
+- [Why Oasis tickets are ‘definitely maybe’ too expensive – podcast](https://www.theguardian.com/news/audio/2024/sep/04/why-oasis-tickets-are-definitely-maybe-too-expensive-podcast)
+- [Philippine fugitive mayor Alice Guo arrested in Indonesia, officials say](https://www.theguardian.com/world/article/2024/sep/04/alice-guo-philippine-fugitive-mayor-arrest-indonesia-alleged-china-ties-ntwnfb)
+- [Ukraine war briefing: Zelenskiy reshuffle begins, Ukrainians reel from Poltava strike](https://www.theguardian.com/world/article/2024/sep/04/ukraine-war-briefing-zelenskiy-reshuffle-begins-ukrainians-reel-from-poltava-strike)
+- [‘Typhoons have prevented me going to school’: The children behind South Korea’s landmark climate win](https://www.theguardian.com/world/article/2024/sep/04/typhoons-have-prevented-me-going-to-school-the-children-behind-south-koreas-landmark-climate-win)
+- [Hamas leaders charged by US over deadly 7 October attacks on Israel](https://www.theguardian.com/world/article/2024/sep/04/hamas-leaders-charged-us-7-october-attack-israel-yahya-sinwar-ismail-haniyeh-gaza)
+- [New Zealand to nearly triple tourist tax for international visitors](https://www.theguardian.com/world/article/2024/sep/04/new-zealand-to-nearly-triple-tourist-tax-for-international-visitors)
+- [Councils in England draining reserves to stay afloat, leaders say](https://www.theguardian.com/society/article/2024/sep/04/councils-england-draining-reserves-stay-afloat-bankrupt-cities)
+- [Pension pot amount needed for ‘basic’ retirement rises 60% in three years](https://www.theguardian.com/uk-news/article/2024/sep/04/pension-pot-amount-needed-for-basic-retirement-rises-60-in-three-years)
+- [Dogs can remember names of toys years after not seeing them, study shows](https://www.theguardian.com/science/article/2024/sep/04/dogs-remember-names-toys-years-study-pets-memory)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

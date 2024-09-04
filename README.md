@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Software Architecture Hot Tips](https://hachyderm.io/@kenbot/112513128549792563)
-- [Vermeer&#39;s Love Letter](https://www.rijksmuseum.nl/en/stories/in-detail/story/love-letter)
-- [Cassidy Williams: Navigating the Career Jungle Gym in Tech [audio]](https://maintainable.fm/episodes/cassidy-williams-navigating-the-career-jungle-gym-in-tech)
-- [Express middleware for JWT-based authentication against FusionAuth](https://github.com/trevorr/express-jwt-fusionauth)
-- [Will FAST channels kill subscription streaming services?](https://bsgroup.eu/blog/will-fast-channels-kill-subscription-streaming-services/)
-- [Heavy Weights or High Reps?](https://www.gq.com/story/heavy-weights-vs-high-reps)
-- [Louis Lasagna](https://en.wikipedia.org/wiki/Louis_Lasagna)
-- [Abolish Grades](https://yaschamounk.substack.com/p/abolish-grades)
-- [X Macro](https://en.wikipedia.org/wiki/X_macro)
-- [Tell HN: Vimeo&#39;s free trial is predatory](https://news.ycombinator.com/item?id=41430607)
+- [Bolivia moves World Cup qualifier to even higher altitude, hoping to boost play](https://apnews.com/article/bolivia-soccer-altitude-world-cup-qualifiers-conmebol-7eb4bb42d9ad2fe2b3be065cddcb912d)
+- [Fai.me. Build your own Debian live image &lpar;via Web&rpar;](https://fai-project.org/FAIme/live/)
+- [I&#39;m building a website that allows video discovery without toxic algorithms](https://curatrs.me/)
+- [Making PostHog insights quicker with LLMs?](https://news.ycombinator.com/item?id=41441233)
+- [Koda Farms, California Rice and Asian American Dreams](https://www.latimes.com/california/story/2024-08-23/column-koda-farms)
+- [Layoffs at Fly.io](https://twitter.com/bradgessler/status/1831020600841875887)
+- [What is a one time password?](https://proton.me/blog/one-time-password)
+- [Predicting Program Properties from Big Code](https://www.sri.inf.ethz.ch/publications/raychev2015predicting)
+- [Beta for the Small Business Lending Data Filing Platform](https://sbl-beta.cfpb.gov/)
+- [DOMActivate Event](https://developer.mozilla.org/en-US/docs/Web/API/Element/DOMActivate_event)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

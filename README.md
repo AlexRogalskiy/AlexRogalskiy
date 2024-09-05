@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Aryna Sabalenka cruises past Zheng Qinwen to reach US Open semi-final](https://www.theguardian.com/sport/article/2024/sep/04/us-open-aryna-sabalenka-vs-zheng-qinwen-results-scores)
-- [Why Oasis tickets are ‘definitely maybe’ too expensive – podcast](https://www.theguardian.com/news/audio/2024/sep/04/why-oasis-tickets-are-definitely-maybe-too-expensive-podcast)
-- [Philippine fugitive mayor Alice Guo arrested in Indonesia, officials say](https://www.theguardian.com/world/article/2024/sep/04/alice-guo-philippine-fugitive-mayor-arrest-indonesia-alleged-china-ties-ntwnfb)
-- [Ukraine war briefing: Zelenskiy reshuffle begins, Ukrainians reel from Poltava strike](https://www.theguardian.com/world/article/2024/sep/04/ukraine-war-briefing-zelenskiy-reshuffle-begins-ukrainians-reel-from-poltava-strike)
-- [‘Typhoons have prevented me going to school’: The children behind South Korea’s landmark climate win](https://www.theguardian.com/world/article/2024/sep/04/typhoons-have-prevented-me-going-to-school-the-children-behind-south-koreas-landmark-climate-win)
-- [Hamas leaders charged by US over deadly 7 October attacks on Israel](https://www.theguardian.com/world/article/2024/sep/04/hamas-leaders-charged-us-7-october-attack-israel-yahya-sinwar-ismail-haniyeh-gaza)
-- [New Zealand to nearly triple tourist tax for international visitors](https://www.theguardian.com/world/article/2024/sep/04/new-zealand-to-nearly-triple-tourist-tax-for-international-visitors)
-- [Councils in England draining reserves to stay afloat, leaders say](https://www.theguardian.com/society/article/2024/sep/04/councils-england-draining-reserves-stay-afloat-bankrupt-cities)
-- [Pension pot amount needed for ‘basic’ retirement rises 60% in three years](https://www.theguardian.com/uk-news/article/2024/sep/04/pension-pot-amount-needed-for-basic-retirement-rises-60-in-three-years)
-- [Dogs can remember names of toys years after not seeing them, study shows](https://www.theguardian.com/science/article/2024/sep/04/dogs-remember-names-toys-years-study-pets-memory)
+- [Georgia high school shooting: student charged with murder after four people killed in Apalachee](https://www.theguardian.com/us-news/article/2024/sep/04/georgia-high-school-shooting-apalachee)
+- [The Israeli negotiator who talks to Hamas - podcast](https://www.theguardian.com/news/audio/2024/sep/05/the-israeli-negotiator-who-talks-to-hamas-podcast)
+- [US conservative influencers say they are ‘victims’ of Russian disinformation campaign](https://www.theguardian.com/us-news/article/2024/sep/05/tim-pool-benny-johnson-influencers-russia-disinformation)
+- [Māori queen Nga Wai Hono i te po Paki crowned in ‘new dawn’ for New Zealand](https://www.theguardian.com/world/article/2024/sep/05/maori-queen-nga-wai-hono-i-te-po-paki-new-zealand)
+- [Ukraine war briefing: Father is only survivor after family killed in Russian strike on Lviv](https://www.theguardian.com/world/article/2024/sep/05/ukraine-war-briefing-father-is-only-survivor-after-family-killed-in-russian-strike-on-lviv)
+- [Ministers introduce plans to remove all hereditary peers from Lords](https://www.theguardian.com/politics/article/2024/sep/05/ministers-introduce-plans-to-remove-all-hereditary-peers-from-lords)
+- [US arms advantage over Russia and China threatens stability, experts warn](https://www.theguardian.com/world/article/2024/sep/05/us-arms-advantage-over-russia-and-china-threatens-stability-experts-warn)
+- [Advertiser exodus from X gathers pace with 26% ‘planning to cut spending’](https://www.theguardian.com/media/article/2024/sep/05/advertiser-exodus-x-survey-2025-elon-musk)
+- [Public sector workers need above-inflation pay rises, says TUC chief](https://www.theguardian.com/politics/article/2024/sep/05/public-sector-workers-need-above-inflation-pay-rises-says-tuc-chief)
+- [Long delays in NHS care causing serious damage to children’s health across UK](https://www.theguardian.com/society/article/2024/sep/05/long-delays-in-nhs-care-causing-serious-damage-to-childrens-health-across-uk)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Georgia high school shooting: student charged with murder after four people killed in Apalachee](https://www.theguardian.com/us-news/article/2024/sep/04/georgia-high-school-shooting-apalachee)
-- [The Israeli negotiator who talks to Hamas - podcast](https://www.theguardian.com/news/audio/2024/sep/05/the-israeli-negotiator-who-talks-to-hamas-podcast)
-- [US conservative influencers say they are ‘victims’ of Russian disinformation campaign](https://www.theguardian.com/us-news/article/2024/sep/05/tim-pool-benny-johnson-influencers-russia-disinformation)
-- [Māori queen Nga Wai Hono i te po Paki crowned in ‘new dawn’ for New Zealand](https://www.theguardian.com/world/article/2024/sep/05/maori-queen-nga-wai-hono-i-te-po-paki-new-zealand)
-- [Ukraine war briefing: Father is only survivor after family killed in Russian strike on Lviv](https://www.theguardian.com/world/article/2024/sep/05/ukraine-war-briefing-father-is-only-survivor-after-family-killed-in-russian-strike-on-lviv)
-- [Ministers introduce plans to remove all hereditary peers from Lords](https://www.theguardian.com/politics/article/2024/sep/05/ministers-introduce-plans-to-remove-all-hereditary-peers-from-lords)
-- [US arms advantage over Russia and China threatens stability, experts warn](https://www.theguardian.com/world/article/2024/sep/05/us-arms-advantage-over-russia-and-china-threatens-stability-experts-warn)
-- [Advertiser exodus from X gathers pace with 26% ‘planning to cut spending’](https://www.theguardian.com/media/article/2024/sep/05/advertiser-exodus-x-survey-2025-elon-musk)
-- [Public sector workers need above-inflation pay rises, says TUC chief](https://www.theguardian.com/politics/article/2024/sep/05/public-sector-workers-need-above-inflation-pay-rises-says-tuc-chief)
-- [Long delays in NHS care causing serious damage to children’s health across UK](https://www.theguardian.com/society/article/2024/sep/05/long-delays-in-nhs-care-causing-serious-damage-to-childrens-health-across-uk)
+- [Grenfell: the lies and greed exposed – podcast](https://www.theguardian.com/news/audio/2024/sep/06/grenfell-the-lies-and-greed-exposed-podcast)
+- [Georgia shooting: father of teen suspect charged with second-degree murder](https://www.theguardian.com/us-news/article/2024/sep/05/georgia-school-shooting-father-arrested)
+- [Ukraine war briefing: Putin dismisses Kursk incursion and says eastern Donbas region is main war aim](https://www.theguardian.com/world/article/2024/sep/06/ukraine-war-briefing-putin-dismisses-kursk-incursion-and-says-eastern-donbas-region-is-main-war-aim)
+- [Pavel Durov: Telegram founder says France arrest is ‘misguided’](https://www.theguardian.com/technology/article/2024/sep/06/pavel-durov-telegram-founder-post-comments-arrest-france)
+- [FBI raids three top aides to New York mayor Eric Adams and police commissioner – report](https://www.theguardian.com/us-news/article/2024/sep/05/eric-adams-nyc-fbi-raid)
+- [‘I couldn’t say no’: anger grows over topless medical exams in Japan schools](https://www.theguardian.com/world/article/2024/sep/06/japanese-schools-topless-health-checks-checkups-japan-school-student-medical-exams)
+- [China says it is ending foreign adoptions, prompting concern from US](https://www.theguardian.com/world/article/2024/sep/06/china-ending-foreign-adoption-international-intercountry)
+- [Australia thought it was done with Trump, now the US treaty ally is readying for his possible return](https://www.theguardian.com/us-news/article/2024/sep/06/australia-thought-it-was-done-with-trump-now-the-us-treaty-ally-is-readying-for-his-possible-return)
+- [Cigarette-style warning labels should be on everyday food, say campaigners](https://www.theguardian.com/politics/article/2024/sep/06/warning-labels-food-taxes-rising-deaths-heart-disease-health-campaigners)
+- [Prisons crisis needs ‘radical solutions’ in England and Wales, say former top judges](https://www.theguardian.com/society/article/2024/sep/06/prisons-crisis-needs-radical-solutions-in-england-and-wales-say-former-top-judges)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

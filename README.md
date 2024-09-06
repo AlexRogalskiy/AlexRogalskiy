@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: Scroll Forms](http://hub.scroll.pub/webformdemo/)
-- [How to Make Your Apps Observable by Default](https://www.dbos.dev/blog/how-to-make-your-apps-observable-by-default)
-- [Software Estimation Is Hard. Do It Anyway](https://jacobian.org/2021/may/20/estimation/)
-- [Microsoft-Inflection deal is a merger, but that&#39;s OK, says UK](https://www.computerworld.com/article/3504862/microsoft-inflection-deal-is-a-merger-but-thats-ok-says-uk.html)
-- [Understanding International Numbers and Currency](https://danlevy.net/handling-international-numbers-and-currency/)
-- [Researcher sued for sharing data stolen by ransomware with media](https://www.bleepingcomputer.com/news/security/researcher-sued-for-sharing-data-stolen-by-ransomware-with-media/)
-- [EMF-Blocking Speaker and Alarm: Yay or Nay? – HN Feedback Needed](https://docs.google.com/forms/d/e/1FAIpQLSfiMGIO5hmKwBDtp5d9FciIzgRFYRqTezdafUaveIJjfWJJAg/viewform)
-- [Man accused of plotting wife&#39;s rape by at least 50 strangers over almost 10 yrs](https://www.cnn.com/2024/09/03/europe/france-man-accused-strangers-rape-wife-intl-latam/index.html)
-- [I made a viewer for the SWE-Bench dataset](https://github.com/mwufi/swe-bench-solver)
-- [Do &quot;Grabby Aliens&quot; Solve the Fermi Paradox? [video]](https://www.youtube.com/watch?v=tR1HTNtcYw0)
+- [A Startup Utopia Became a Nightmare for Honduras](https://foreignpolicy.com/2024/01/24/honduras-zedes-us-prospera-world-bank-biden-castro/)
+- [Show HN: Raiden Shogun LLM Game: a new form of fan art](https://raidenshogun.vercel.app/)
+- [Investing in Mintlify](https://a16z.com/announcement/investing-in-mintlify/)
+- [Show HN: Read Scientific Papers with AI](https://wisio.app/read)
+- [Ask HN: Why is working with contenteditable is so hard?](https://news.ycombinator.com/item?id=41462298)
+- [offline and cheap routing within the US](https://github.com/ivanbelenky/us-routing)
+- [Researcher wants to replace your brain, little by little](https://www.technologyreview.com/2024/08/16/1096808/arpa-h-jean-hebert-wants-to-replace-your-brain/)
+- [Eschewing IPOs: What happens when SaaS companies stay private for longer](https://nextbigteng.substack.com/p/eschewing-ipos-companies-stay-private-for-longer)
+- [Parkinson&#39;s may begin in the gut, study says, adding to growing evidence](https://www.washingtonpost.com/wellness/2024/09/05/parkinsons-disease-gut-study/)
+- [Telegram Founder Pavel Durov breaks silence since arrest](https://www.theverge.com/2024/9/5/24237174/telegram-ceo-pavel-durov-statement-following-arrest)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

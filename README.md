@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Swiss watchmakers put employees on state-funded leave as luxury demand disappear](https://fortune.com/europe/2024/09/04/swiss-watchmakers-put-employees-on-state-funded-furlough-as-luxury-demand-disappears/)
-- [LwIP – Lightweight IP Stack](https://www.nongnu.org/lwip/2_1_x/index.html)
-- [My most downvoted StackOverflow answer](https://ohadravid.github.io/posts/2024-09-yells-at-cloud/)
-- [Why Don&#39;t Tech Companies Pay Their Engineers to Stay?](https://www.goethena.com/post/why-dont-tech-companies-pay-engineers-more-to-stay/)
-- [Visa to launch pay-by-bank payments, an alternative to credit cards](https://www.cnbc.com/2024/09/05/visa-to-launch-pay-by-bank-payments-an-alternative-to-credit-cards.html)
-- [Tell HN: Burnout is bad to your brain, take care](https://news.ycombinator.com/item?id=41461499)
-- [What to do about America&#39;s killer cars](https://www.economist.com/leaders/2024/09/05/what-to-do-about-americas-killer-cars)
-- [Show HN: Feature Flags Backed by Git](https://www.flipt.io/)
-- [Clojure 1.12.0 is now available](https://clojure.org/news/2024/09/05/clojure-1-12-0)
-- [Common food dye found to make skin and muscle temporarily transparent](https://www.theguardian.com/science/article/2024/sep/05/common-food-dye-found-to-make-skin-and-muscle-temporarily-transparent)
+- [QtCS2024 Compile once. Run everywhere](https://wiki.qt.io/QtCS2024_Compile_once._Run_everywhere)
+- [Boost your development environment with Ubuntu Multipass](https://letsdebug.it/post/21-ubuntu-multipass/)
+- [Stranded astronauts&#39; capsule heads home without them](https://www.bbc.co.uk/news/articles/cx29wzk4r19o)
+- [Manipulating large language models to increase product visibility](https://arxiv.org/abs/2404.07981)
+- [Hardware Acceleration of LLMs: A comprehensive survey and comparison](https://arxiv.org/abs/2409.03384)
+- [Tesorio Is Hiring a Senior GenAI Engineer and Django Engineer &lpar;100% Remote&rpar;](https://www.tesorio.com/careers#job-openings)
+- [Show HN: Infinity – Realistic AI characters that can speak](https://news.ycombinator.com/item?id=41467704)
+- [Cough or sneeze? How the brain knows what to unleash](https://www.nature.com/articles/d41586-024-02858-9)
+- [Inertia.js – Build React, Vue, or Svelte apps with server-side routing](https://inertiajs.com/)
+- [Show HN: Wealthfolio: Private, open-source investment tracker](https://wealthfolio.app)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

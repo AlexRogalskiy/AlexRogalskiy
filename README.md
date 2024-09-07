@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [A Startup Utopia Became a Nightmare for Honduras](https://foreignpolicy.com/2024/01/24/honduras-zedes-us-prospera-world-bank-biden-castro/)
-- [Show HN: Raiden Shogun LLM Game: a new form of fan art](https://raidenshogun.vercel.app/)
-- [Investing in Mintlify](https://a16z.com/announcement/investing-in-mintlify/)
-- [Show HN: Read Scientific Papers with AI](https://wisio.app/read)
-- [Ask HN: Why is working with contenteditable is so hard?](https://news.ycombinator.com/item?id=41462298)
-- [offline and cheap routing within the US](https://github.com/ivanbelenky/us-routing)
-- [Researcher wants to replace your brain, little by little](https://www.technologyreview.com/2024/08/16/1096808/arpa-h-jean-hebert-wants-to-replace-your-brain/)
-- [Eschewing IPOs: What happens when SaaS companies stay private for longer](https://nextbigteng.substack.com/p/eschewing-ipos-companies-stay-private-for-longer)
-- [Parkinson&#39;s may begin in the gut, study says, adding to growing evidence](https://www.washingtonpost.com/wellness/2024/09/05/parkinsons-disease-gut-study/)
-- [Telegram Founder Pavel Durov breaks silence since arrest](https://www.theverge.com/2024/9/5/24237174/telegram-ceo-pavel-durov-statement-following-arrest)
+- [Batteries are a fast-growing secondary electricity source for the grid](https://www.eia.gov/todayinenergy/detail.php?id=63025)
+- [Thoughts while watching myself be automated](https://dynomight.substack.com/p/automated)
+- [Golang: Some batteries not included &lpar;2021&rpar;](https://yolken.net/blog/golang-batteries-not-included)
+- [Activists urge FTC to ban hardware downgrades](https://www.theregister.com/2024/09/06/consumer_ftc_software_tethering/)
+- [Mobile Phone Use and Incident Cardiovascular Diseases](https://onlinecjc.ca/article/S0828-282X(24)00437-9/fulltext)
+- [Giant &#39;gurgling&#39; earthworms living under Gippsland farms](https://www.abc.net.au/news/rural/2024-09-07/giant-gippsland-earthworm-threatened-species-research/104315624)
+- [Shirky Principle &lpar;2010&rpar;](https://kk.org/thetechnium/the-shirky-prin/)
+- [X Is Working with a GOP Consulting Firm](https://www.wired.com/story/x-elon-musk-public-relations-targeted-victory/)
+- [Nix and Bazel reproducible, incremental builds](https://nix-bazel.build)
+- [Can&#39;t find a job? It&#39;s not you, it&#39;s white-collar America](https://www.businessinsider.com/white-collar-jobs-remote-office-workers-cant-get-hired-2024-9)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Batteries are a fast-growing secondary electricity source for the grid](https://www.eia.gov/todayinenergy/detail.php?id=63025)
-- [Thoughts while watching myself be automated](https://dynomight.substack.com/p/automated)
-- [Golang: Some batteries not included &lpar;2021&rpar;](https://yolken.net/blog/golang-batteries-not-included)
-- [Activists urge FTC to ban hardware downgrades](https://www.theregister.com/2024/09/06/consumer_ftc_software_tethering/)
-- [Mobile Phone Use and Incident Cardiovascular Diseases](https://onlinecjc.ca/article/S0828-282X(24)00437-9/fulltext)
-- [Giant &#39;gurgling&#39; earthworms living under Gippsland farms](https://www.abc.net.au/news/rural/2024-09-07/giant-gippsland-earthworm-threatened-species-research/104315624)
-- [Shirky Principle &lpar;2010&rpar;](https://kk.org/thetechnium/the-shirky-prin/)
-- [X Is Working with a GOP Consulting Firm](https://www.wired.com/story/x-elon-musk-public-relations-targeted-victory/)
-- [Nix and Bazel reproducible, incremental builds](https://nix-bazel.build)
-- [Can&#39;t find a job? It&#39;s not you, it&#39;s white-collar America](https://www.businessinsider.com/white-collar-jobs-remote-office-workers-cant-get-hired-2024-9)
+- [Paddle closed my account today, same thing happened to other founders on Sept 6](https://news.ycombinator.com/item?id=41477798)
+- [High Availability Alertmanager on Kubernetes: No Alerts Left Behind](https://jb3.dev/posts/ha-alertmanager-kubernetes/)
+- [FutureRack: Server racks are everywhere. Now you can find them in your home](https://futurerack.info/main.php)
+- [Youth E-Cigarette Use Drops to Lowest Level in a Decade](https://www.cdc.gov/media/releases/2024/p0905-youth-ecigarette.html)
+- [The Dynamics of an Asteroid / Asteroid Dynamics and Discovery](https://ui.adsabs.harvard.edu:443/abs/1999DPS....31.2401F/abstract)
+- [Ultraprocessed food pandemic [video][59min]](https://www.youtube.com/watch?v=3i0mPrR9mWo)
+- [The Structure of Scientific Revolutions &lpar;book&rpar;](https://en.wikipedia.org/wiki/The_Structure_of_Scientific_Revolutions)
+- [Is progress in medicine too slow? – Ruxandra Teslo](https://www.writingruxandrabio.com/p/is-progress-in-medicine-too-slow)
+- [Hack4techspy uncovered his online flirting](https://news.ycombinator.com/item?id=41477711)
+- [Digitapes – open-source personal media ecosystem](https://digitapes.app)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

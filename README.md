@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [QtCS2024 Compile once. Run everywhere](https://wiki.qt.io/QtCS2024_Compile_once._Run_everywhere)
-- [Boost your development environment with Ubuntu Multipass](https://letsdebug.it/post/21-ubuntu-multipass/)
-- [Stranded astronauts&#39; capsule heads home without them](https://www.bbc.co.uk/news/articles/cx29wzk4r19o)
-- [Manipulating large language models to increase product visibility](https://arxiv.org/abs/2404.07981)
-- [Hardware Acceleration of LLMs: A comprehensive survey and comparison](https://arxiv.org/abs/2409.03384)
-- [Tesorio Is Hiring a Senior GenAI Engineer and Django Engineer &lpar;100% Remote&rpar;](https://www.tesorio.com/careers#job-openings)
-- [Show HN: Infinity – Realistic AI characters that can speak](https://news.ycombinator.com/item?id=41467704)
-- [Cough or sneeze? How the brain knows what to unleash](https://www.nature.com/articles/d41586-024-02858-9)
-- [Inertia.js – Build React, Vue, or Svelte apps with server-side routing](https://inertiajs.com/)
-- [Show HN: Wealthfolio: Private, open-source investment tracker](https://wealthfolio.app)
+- [GPT-fabricated scientific papers on Google Scholar](https://misinforeview.hks.harvard.edu/article/gpt-fabricated-scientific-papers-on-google-scholar-key-features-spread-and-implications-for-preempting-evidence-manipulation/)
+- [Gnome Files: A detailed UI examination](https://www.datagubbe.se/gnomefiles/)
+- [Appalachian Trail Hiker Photo Archive](https://athikerpictures.org/)
+- [Google says replacing C/C++ in firmware with Rust is easy](https://www.theregister.com/2024/09/06/google_rust_c_code_language/)
+- [CitizenDJ – Make music using free audio and video from the Library of Congress](https://citizen-dj.labs.loc.gov/)
+- [Hallelujah, Leonard Cohen, and a Pulitzer Prize-winning writer&#39;s suicide](https://subtledigressions.substack.com/p/hallelujah-leonard-cohen-and-a-pulitzer)
+- [The &quot;email is authentication&quot; pattern](https://rubenerd.com/the-email-is-authentication-pattern/)
+- [A new rare high-rank elliptic curve, and an orchard of Diophantine equations](https://thehighergeometer.wordpress.com/2024/09/08/two-items-a-new-rare-high-rank-elliptic-curve-and-a-beautifully-organised-orchard-of-diophantine-equations/)
+- [WebP: The WebPage Compression Format](https://purplesyringa.moe/blog/webp-the-webpage-compression-format/)
+- [Substack &lpar;YC W18&rpar; Is Hiring Machine Learning Engineers](https://grnh.se/d034f1ba5us)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

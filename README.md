@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Super Typhoon Yagi hits China’s Hainan forcing 1 million to leave their homes](https://www.theguardian.com/world/article/2024/sep/07/super-typhoon-yagi-hits-chinas-hainan-forcing-1-million-to-leave-their-homes)
-- [Missouri sees first positive bird flu case without known animal contact](https://www.theguardian.com/us-news/article/2024/sep/06/missouri-bird-flu-positive-hospitalized)
-- [Jannik Sinner brings Jack Draper’s New York adventure to a brutal end](https://www.theguardian.com/sport/article/2024/sep/07/jannik-sinner-brings-jack-drapers-new-york-adventure-to-a-brutal-end)
-- [Brazil’s human rights minister sacked over sexual harassment allegations](https://www.theguardian.com/world/article/2024/sep/06/brazils-human-rights-minister-sacked-over-sexual-harassment-allegations)
-- [Boeing’s Starliner leaves space station for Earth – without its astronauts](https://www.theguardian.com/science/article/2024/sep/06/boeing-starliner-iss)
-- [Former vice-president Dick Cheney confirms he will vote for Kamala Harris](https://www.theguardian.com/us-news/article/2024/sep/06/dick-cheney-vote-kamala-harris)
-- [Nations League roundup: Italy stun France despite conceding in 12 seconds](https://www.theguardian.com/football/article/2024/sep/06/nations-league-roundup-italy-stun-france-despite-conceding-in-12-seconds)
-- [Lee Carsley will not sing England’s national anthem before first game](https://www.theguardian.com/football/article/2024/sep/06/lee-carsley-will-not-sing-englands-national-anthem-before-first-game)
-- [England’s Lee Carsley puts mixed feelings firmly behind him](https://www.theguardian.com/football/article/2024/sep/06/englands-lee-carsley-puts-mixed-feelings-firmly-behind-him)
-- [Wigan go top after Marshall’s double seals comeback win against Hull KR](https://www.theguardian.com/sport/article/2024/sep/06/rugby-league-wigan-hullkr-super-league-match-report)
+- [Kentucky authorities say multiple people injured in ‘active shooter situation’](https://www.theguardian.com/us-news/article/2024/sep/08/kentucky-police-say-multiple-people-shot-in-active-shooter-situation)
+- [Venezuela revokes Brazil’s custody of Argentine embassy housing Maduro opponents](https://www.theguardian.com/world/article/2024/sep/08/venezuela-revokes-brazils-custody-of-argentine-embassy-that-has-been-housing-maduro-opponents)
+- [How Australians became the world’s biggest gamblers](https://www.theguardian.com/australia-news/article/2024/sep/08/how-australians-became-the-worlds-biggest-gamblers)
+- [More than a million British workers not having a single day of paid time off, says TUC](https://www.theguardian.com/politics/article/2024/sep/08/more-than-a-million-british-workers-not-having-a-single-day-of-paid-time-off-says-tuc)
+- [Aryna Sabalenka holds off Jessica Pegula fightback to win US Open](https://www.theguardian.com/sport/article/2024/sep/07/aryna-sabalenka-holds-off-jessica-pegula-fightback-to-win-us-open)
+- [Seeing double: the new season’s most useful suit jacket](https://www.theguardian.com/fashion/article/2024/sep/07/seeing-double-the-new-seasons-most-useful-suit-jacket)
+- [We love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2024/sep/07/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Antony Blinken to visit UK for talks on Ukraine and Middle East](https://www.theguardian.com/us-news/article/2024/sep/07/antony-blinken-to-visit-uk-for-talks-on-ukraine-and-middle-east)
+- [USA prove too strong for Great Britain in men’s wheelchair basketball final](https://www.theguardian.com/sport/article/2024/sep/07/usa-prove-too-strong-for-great-britain-in-mens-wheelchair-basketball-final)
+- [Wallabies humiliated in heavy defeat as Argentina pile on record-breaking score](https://www.theguardian.com/sport/article/2024/sep/08/wallabies-australia-argentina-pumas-rugby-union-test-match-report-result-scores-santa-fe)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

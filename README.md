@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Kentucky authorities say multiple people injured in ‘active shooter situation’](https://www.theguardian.com/us-news/article/2024/sep/08/kentucky-police-say-multiple-people-shot-in-active-shooter-situation)
-- [Venezuela revokes Brazil’s custody of Argentine embassy housing Maduro opponents](https://www.theguardian.com/world/article/2024/sep/08/venezuela-revokes-brazils-custody-of-argentine-embassy-that-has-been-housing-maduro-opponents)
-- [How Australians became the world’s biggest gamblers](https://www.theguardian.com/australia-news/article/2024/sep/08/how-australians-became-the-worlds-biggest-gamblers)
-- [More than a million British workers not having a single day of paid time off, says TUC](https://www.theguardian.com/politics/article/2024/sep/08/more-than-a-million-british-workers-not-having-a-single-day-of-paid-time-off-says-tuc)
-- [Aryna Sabalenka holds off Jessica Pegula fightback to win US Open](https://www.theguardian.com/sport/article/2024/sep/07/aryna-sabalenka-holds-off-jessica-pegula-fightback-to-win-us-open)
-- [Seeing double: the new season’s most useful suit jacket](https://www.theguardian.com/fashion/article/2024/sep/07/seeing-double-the-new-seasons-most-useful-suit-jacket)
-- [We love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2024/sep/07/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Antony Blinken to visit UK for talks on Ukraine and Middle East](https://www.theguardian.com/us-news/article/2024/sep/07/antony-blinken-to-visit-uk-for-talks-on-ukraine-and-middle-east)
-- [USA prove too strong for Great Britain in men’s wheelchair basketball final](https://www.theguardian.com/sport/article/2024/sep/07/usa-prove-too-strong-for-great-britain-in-mens-wheelchair-basketball-final)
-- [Wallabies humiliated in heavy defeat as Argentina pile on record-breaking score](https://www.theguardian.com/sport/article/2024/sep/08/wallabies-australia-argentina-pumas-rugby-union-test-match-report-result-scores-santa-fe)
+- [Nightbitch review – Amy Adams turns into a dog in rough dark comedy](https://www.theguardian.com/film/article/2024/sep/09/nightbitch-review-toronto-film-festival-amy-adams-turns-into-a-dog-in-rough-dark-comedy)
+- [The man who fell to Earth - podcast](https://www.theguardian.com/news/audio/2024/sep/09/the-man-who-fell-to-earth-podcast)
+- [Piece by Piece review – Pharrell’s Lego biopic deserves to be a blockbuster](https://www.theguardian.com/film/article/2024/sep/09/piece-by-piece-review-pharrell-lego-biopic-toronto-film-festival)
+- [Jordanian driver kills Israeli security guards at border with West Bank](https://www.theguardian.com/world/article/2024/sep/08/senior-gaza-aid-official-and-family-killed-by-israeli-airstrike-on-home)
+- [Tom Brady the TV analyst is a strangely colorless color man](https://www.theguardian.com/sport/article/2024/sep/08/tom-brady-fox-tv-analyst-nfl-football)
+- [Ukraine war briefing: Nato condemns Russian drone violations of Latvia and Romania airspace](https://www.theguardian.com/world/article/2024/sep/09/ukraine-war-briefing-nato-condemns-russian-drone-violations-of-latvia-and-romania-airspace)
+- [Harris and Trump tied in latest US election polls, as Tuesday’s debate nears](https://www.theguardian.com/us-news/article/2024/sep/09/latest-poll-kamala-harris-donald-trump-2024-us-election-presidential-polls)
+- [The Assessment review – Alicia Vikander is future parents’ worst nightmare](https://www.theguardian.com/film/article/2024/sep/08/the-assessment-review-alicia-vikander-is-future-parents-worst-nightmare)
+- [Venezuela opposition leader Edmundo González vows to ‘continue the fight’ from Spain](https://www.theguardian.com/world/article/2024/sep/08/venezuela-opposition-leader-edmundo-gonzalez-reportedly-leaves-country-for-spain)
+- [Celebrity ‘son of God’ pastor surrenders to Philippines police after two-week manhunt](https://www.theguardian.com/world/article/2024/sep/09/celebrity-son-of-god-pastor-surrenders-to-philippines-police-after-two-week-manhunt)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

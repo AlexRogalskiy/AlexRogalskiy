@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Paddle closed my account today, same thing happened to other founders on Sept 6](https://news.ycombinator.com/item?id=41477798)
-- [High Availability Alertmanager on Kubernetes: No Alerts Left Behind](https://jb3.dev/posts/ha-alertmanager-kubernetes/)
-- [FutureRack: Server racks are everywhere. Now you can find them in your home](https://futurerack.info/main.php)
-- [Youth E-Cigarette Use Drops to Lowest Level in a Decade](https://www.cdc.gov/media/releases/2024/p0905-youth-ecigarette.html)
-- [The Dynamics of an Asteroid / Asteroid Dynamics and Discovery](https://ui.adsabs.harvard.edu:443/abs/1999DPS....31.2401F/abstract)
-- [Ultraprocessed food pandemic [video][59min]](https://www.youtube.com/watch?v=3i0mPrR9mWo)
-- [The Structure of Scientific Revolutions &lpar;book&rpar;](https://en.wikipedia.org/wiki/The_Structure_of_Scientific_Revolutions)
-- [Is progress in medicine too slow? – Ruxandra Teslo](https://www.writingruxandrabio.com/p/is-progress-in-medicine-too-slow)
-- [Hack4techspy uncovered his online flirting](https://news.ycombinator.com/item?id=41477711)
-- [Digitapes – open-source personal media ecosystem](https://digitapes.app)
+- [QUIC Is Not Quick Enough over Fast Internet](https://dl.acm.org/doi/10.1145/3589334.3645323)
+- [At Shinjuku&#39;s 24-Hour Drugstore [video]](https://www3.nhk.or.jp/nhkworld/en/shows/4026216/)
+- [Show HN: Velocity – Financial analysis at the speed of thought](https://github.com/blotterfyi/velocity)
+- [Confirmed: Reflection 70B&#39;s official API is a wrapper for Sonnet 3.5](https://old.reddit.com/r/LocalLLaMA/s/4Ly2yj78aM)
+- [Some Fun with Python Enum](https://roarepally.com/blog/python-311-enums)
+- [A 2.2 Kilometer Telescope on the Cheap. and It Can Make Exoplanet &quot;Movies&quot;](https://www.universetoday.com/168209/the-big-fringe-telescope-a-2-2-kilometer-telescope-on-the-cheap-and-it-can-make-exoplanet-movies/)
+- [Antony Blinken Dragged US Diplomacy into the 21st Century](https://www.wired.com/story/big-interview-antony-blinken/)
+- [What Is a Photon?](https://www.symmetrymagazine.org/article/what-is-a-photon?language_content_entity=und)
+- [TSMC&#39;s Arizona Trials Put Plant Productivity on Par with Taiwan](https://www.bloomberg.com/news/articles/2024-09-06/tsmc-s-arizona-trials-put-plant-productivity-on-par-with-taiwan)
+- [Introducing OpenAI &lpar;2015&rpar;](https://openai.com/index/introducing-openai/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

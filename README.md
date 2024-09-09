@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [GPT-fabricated scientific papers on Google Scholar](https://misinforeview.hks.harvard.edu/article/gpt-fabricated-scientific-papers-on-google-scholar-key-features-spread-and-implications-for-preempting-evidence-manipulation/)
-- [Gnome Files: A detailed UI examination](https://www.datagubbe.se/gnomefiles/)
-- [Appalachian Trail Hiker Photo Archive](https://athikerpictures.org/)
-- [Google says replacing C/C++ in firmware with Rust is easy](https://www.theregister.com/2024/09/06/google_rust_c_code_language/)
-- [CitizenDJ – Make music using free audio and video from the Library of Congress](https://citizen-dj.labs.loc.gov/)
-- [Hallelujah, Leonard Cohen, and a Pulitzer Prize-winning writer&#39;s suicide](https://subtledigressions.substack.com/p/hallelujah-leonard-cohen-and-a-pulitzer)
-- [The &quot;email is authentication&quot; pattern](https://rubenerd.com/the-email-is-authentication-pattern/)
-- [A new rare high-rank elliptic curve, and an orchard of Diophantine equations](https://thehighergeometer.wordpress.com/2024/09/08/two-items-a-new-rare-high-rank-elliptic-curve-and-a-beautifully-organised-orchard-of-diophantine-equations/)
-- [WebP: The WebPage Compression Format](https://purplesyringa.moe/blog/webp-the-webpage-compression-format/)
-- [Substack &lpar;YC W18&rpar; Is Hiring Machine Learning Engineers](https://grnh.se/d034f1ba5us)
+- [Show HN: Ki Editor - the multicursor syntactical editor](https://ki-editor.github.io/ki-editor/)
+- [ATProto for Distributed System Engineers](https://atproto.com/articles/atproto-for-distsys-engineers)
+- [LLM_transcribe_recording: Bash Helper Using Mlx_whisper](https://gist.github.com/Olshansk/888533614765cd13139515d55573d676)
+- [Linux&#39;s Bedtime Routine](https://tookmund.com/2024/09/hibernation-preparation)
+- [Reclaim the Stack](https://reclaim-the-stack.com)
+- [Charging lithium-ion batteries at high currents first increases lifespan by 50%](https://www.eurekalert.org/news-releases/1056171)
+- [Exploiting CI / CD Pipelines for fun and profit](https://blog.razzsecurity.com/2024/09/08/exploitation-research/exploiting-ci-cd-pipelines-for-fun-and-profit/)
+- [Sleep duration, chronotype, health and lifestyle factors affect cognition [pdf]](https://bmjpublichealth.bmj.com/content/bmjph/2/1/e001000.full.pdf)
+- [Open Props – Supercharged CSS Variables](https://open-props.style/)
+- [The Fennel Programming Language](https://fennel-lang.org/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

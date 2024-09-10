@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Nightbitch review – Amy Adams turns into a dog in rough dark comedy](https://www.theguardian.com/film/article/2024/sep/09/nightbitch-review-toronto-film-festival-amy-adams-turns-into-a-dog-in-rough-dark-comedy)
-- [The man who fell to Earth - podcast](https://www.theguardian.com/news/audio/2024/sep/09/the-man-who-fell-to-earth-podcast)
-- [Piece by Piece review – Pharrell’s Lego biopic deserves to be a blockbuster](https://www.theguardian.com/film/article/2024/sep/09/piece-by-piece-review-pharrell-lego-biopic-toronto-film-festival)
-- [Jordanian driver kills Israeli security guards at border with West Bank](https://www.theguardian.com/world/article/2024/sep/08/senior-gaza-aid-official-and-family-killed-by-israeli-airstrike-on-home)
-- [Tom Brady the TV analyst is a strangely colorless color man](https://www.theguardian.com/sport/article/2024/sep/08/tom-brady-fox-tv-analyst-nfl-football)
-- [Ukraine war briefing: Nato condemns Russian drone violations of Latvia and Romania airspace](https://www.theguardian.com/world/article/2024/sep/09/ukraine-war-briefing-nato-condemns-russian-drone-violations-of-latvia-and-romania-airspace)
-- [Harris and Trump tied in latest US election polls, as Tuesday’s debate nears](https://www.theguardian.com/us-news/article/2024/sep/09/latest-poll-kamala-harris-donald-trump-2024-us-election-presidential-polls)
-- [The Assessment review – Alicia Vikander is future parents’ worst nightmare](https://www.theguardian.com/film/article/2024/sep/08/the-assessment-review-alicia-vikander-is-future-parents-worst-nightmare)
-- [Venezuela opposition leader Edmundo González vows to ‘continue the fight’ from Spain](https://www.theguardian.com/world/article/2024/sep/08/venezuela-opposition-leader-edmundo-gonzalez-reportedly-leaves-country-for-spain)
-- [Celebrity ‘son of God’ pastor surrenders to Philippines police after two-week manhunt](https://www.theguardian.com/world/article/2024/sep/09/celebrity-son-of-god-pastor-surrenders-to-philippines-police-after-two-week-manhunt)
+- [Khan Younis safe zone strike: 40 killed in Israeli attack on Al-Mawasi, Gaza officials say](https://www.theguardian.com/world/article/2024/sep/10/khan-younis-israel-strike-al-mawasi-tent-camp-gaza-deaths-humanitarian-safe-zone)
+- [James Earl Jones was movie royalty, a magisterial star who inspired both love and respect | Peter Bradshaw](https://www.theguardian.com/culture/article/2024/sep/10/james-earl-jones-death-age-93-career-bio-star-wars)
+- [White Stripes sue Trump over ‘flagrant misappropriation’ of hit song](https://www.theguardian.com/music/article/2024/sep/09/white-stripes-trump-lawsuit-seven-nation-army)
+- [Mehdi Hasan on how to beat Donald Trump in a debate - podcast](https://www.theguardian.com/news/audio/2024/sep/10/mehdi-hasan-on-how-to-beat-donald-trump-in-a-debate-podcast)
+- [Selena Gomez reveals she’s unable to carry her own children due to health risks](https://www.theguardian.com/film/article/2024/sep/10/selena-gomez-carrying-children-pregnancy-vanity-fair-interview-health-issues-lupus-bipolar)
+- [Beyoncé’s Cowboy Carter snubbed at Country Music Awards](https://www.theguardian.com/music/article/2024/sep/10/beyonce-cma-cowboy-carter-snubbed-2024-country-music-awards)
+- [Harvey Weinstein undergoes emergency heart surgery at New York hospital](https://www.theguardian.com/us-news/article/2024/sep/09/harvey-weinstein-hospitalized)
+- [Ukraine war briefing: Dire warnings to Iran over ballistic missiles for Russia](https://www.theguardian.com/world/article/2024/sep/10/ukraine-war-briefing-dire-warnings-to-iran-over-ballistic-missiles-for-russia)
+- [Some crime victims ‘unaware’ of offenders’ early prison release in England and Wales](https://www.theguardian.com/society/article/2024/sep/09/victims-unaware-offenders-early-prison-release-sds40-england-wales)
+- [Britons should be able to use wider range of ID to vote, says watchdog](https://www.theguardian.com/politics/article/2024/sep/10/britons-should-be-able-to-use-wider-range-of-id-to-vote-says-watchdog)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

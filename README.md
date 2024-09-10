@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [QUIC Is Not Quick Enough over Fast Internet](https://dl.acm.org/doi/10.1145/3589334.3645323)
-- [At Shinjuku&#39;s 24-Hour Drugstore [video]](https://www3.nhk.or.jp/nhkworld/en/shows/4026216/)
-- [Show HN: Velocity – Financial analysis at the speed of thought](https://github.com/blotterfyi/velocity)
-- [Confirmed: Reflection 70B&#39;s official API is a wrapper for Sonnet 3.5](https://old.reddit.com/r/LocalLLaMA/s/4Ly2yj78aM)
-- [Some Fun with Python Enum](https://roarepally.com/blog/python-311-enums)
-- [A 2.2 Kilometer Telescope on the Cheap. and It Can Make Exoplanet &quot;Movies&quot;](https://www.universetoday.com/168209/the-big-fringe-telescope-a-2-2-kilometer-telescope-on-the-cheap-and-it-can-make-exoplanet-movies/)
-- [Antony Blinken Dragged US Diplomacy into the 21st Century](https://www.wired.com/story/big-interview-antony-blinken/)
-- [What Is a Photon?](https://www.symmetrymagazine.org/article/what-is-a-photon?language_content_entity=und)
-- [TSMC&#39;s Arizona Trials Put Plant Productivity on Par with Taiwan](https://www.bloomberg.com/news/articles/2024-09-06/tsmc-s-arizona-trials-put-plant-productivity-on-par-with-taiwan)
-- [Introducing OpenAI &lpar;2015&rpar;](https://openai.com/index/introducing-openai/)
+- [US Confirms First Human Case of Bird Flu with No Known Animal Trace](https://www.sciencealert.com/us-confirms-first-human-case-of-bird-flu-with-no-known-animal-trace)
+- [The Land Remembers: Why Farmers Are Bringing Back &#39;Prairie Potholes&#39;](https://reasonstobecheerful.world/prairie-potholes-restoration-canada/)
+- [LZ Experiment Sets New Record in Search for Dark Matter](https://newscenter.lbl.gov/2024/08/26/lz-experiment-sets-new-record-in-search-for-dark-matter/)
+- [LiveView Native Is Here](https://dockyard.com/blog/2024/09/09/liveview-native-is-here)
+- [Review: ReMarkable Paper Pro writing tablet feels almost like paper, for a price](https://arstechnica.com/gadgets/2024/09/new-color-e-ink-remarkable-tablet-tries-to-catch-up-with-and-leapfrog-kindle-scribe/)
+- [RenderCV: A LaTeX-based CV/resume version-control and maintenance app](https://rendercv.com/)
+- [Ask HN: How can I make my website more SEO friendly?](https://news.ycombinator.com/item?id=41496528)
+- [Show HN: I write short fiction stories that are &lpar;sort of&rpar; set around tech](https://github.com/jaronilan/stories)
+- [Tell HN: Xfinity is rolling out WiFi motion detection support in gateways](https://news.ycombinator.com/item?id=41496489)
+- [30th Anniversary of Playstation](https://www.playstation.com/en-us/30th-anniversary/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

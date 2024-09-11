@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [US Confirms First Human Case of Bird Flu with No Known Animal Trace](https://www.sciencealert.com/us-confirms-first-human-case-of-bird-flu-with-no-known-animal-trace)
-- [The Land Remembers: Why Farmers Are Bringing Back &#39;Prairie Potholes&#39;](https://reasonstobecheerful.world/prairie-potholes-restoration-canada/)
-- [LZ Experiment Sets New Record in Search for Dark Matter](https://newscenter.lbl.gov/2024/08/26/lz-experiment-sets-new-record-in-search-for-dark-matter/)
-- [LiveView Native Is Here](https://dockyard.com/blog/2024/09/09/liveview-native-is-here)
-- [Review: ReMarkable Paper Pro writing tablet feels almost like paper, for a price](https://arstechnica.com/gadgets/2024/09/new-color-e-ink-remarkable-tablet-tries-to-catch-up-with-and-leapfrog-kindle-scribe/)
-- [RenderCV: A LaTeX-based CV/resume version-control and maintenance app](https://rendercv.com/)
-- [Ask HN: How can I make my website more SEO friendly?](https://news.ycombinator.com/item?id=41496528)
-- [Show HN: I write short fiction stories that are &lpar;sort of&rpar; set around tech](https://github.com/jaronilan/stories)
-- [Tell HN: Xfinity is rolling out WiFi motion detection support in gateways](https://news.ycombinator.com/item?id=41496489)
-- [30th Anniversary of Playstation](https://www.playstation.com/en-us/30th-anniversary/)
+- [Ask HN: The Importance of the Set {-1, 0, 1} and it&#39;s Universal Application](https://news.ycombinator.com/item?id=41507537)
+- [Designing Organisations That Work](https://thenextwavefutures.wordpress.com/2024/09/10/designing-organisations-that-work-stafford-beer-viable-systems-model/)
+- [I won&#39;t buy an Intel Lunar Lake-powered laptop](https://www.tomshardware.com/laptops/why-i-wont-buy-an-intel-lunar-lake-powered-laptop)
+- [ExpressJS 5.0](https://github.com/expressjs/express/releases/tag/v5.0.0)
+- [Woman drips with sweat from a bite of food due to rare nerve-wiring mix-up](https://arstechnica.com/science/2024/09/woman-drips-with-sweat-from-a-bite-of-food-due-to-rare-nerve-wiring-mix-up/)
+- [iPhone 16&#39;s Hardware Ready, AI Still Missing](https://www.theverge.com/2024/9/10/24240787/apple-iphone-16-intelligence-camera-control)
+- [Show HN: I made a free Canny alternative &lpar;customer feedback management tool&rpar;](https://featureflow.tech)
+- [Understanding the Kubernetes Readiness Probe: A Tool for Application Health](https://www.causely.io/blog/understanding-kubernetes-readiness-probe-to-ensure-your-applications-availability/)
+- [A pure radiant cooling device for &quot;air conditioning&quot; without conditioning air](https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(24)00481-8)
+- [A Faster Lottery Simulator &lpar;2024&rpar;](https://casino.noah.dev/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

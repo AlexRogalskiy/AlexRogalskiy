@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Khan Younis safe zone strike: 40 killed in Israeli attack on Al-Mawasi, Gaza officials say](https://www.theguardian.com/world/article/2024/sep/10/khan-younis-israel-strike-al-mawasi-tent-camp-gaza-deaths-humanitarian-safe-zone)
-- [James Earl Jones was movie royalty, a magisterial star who inspired both love and respect | Peter Bradshaw](https://www.theguardian.com/culture/article/2024/sep/10/james-earl-jones-death-age-93-career-bio-star-wars)
-- [White Stripes sue Trump over ‘flagrant misappropriation’ of hit song](https://www.theguardian.com/music/article/2024/sep/09/white-stripes-trump-lawsuit-seven-nation-army)
-- [Mehdi Hasan on how to beat Donald Trump in a debate - podcast](https://www.theguardian.com/news/audio/2024/sep/10/mehdi-hasan-on-how-to-beat-donald-trump-in-a-debate-podcast)
-- [Selena Gomez reveals she’s unable to carry her own children due to health risks](https://www.theguardian.com/film/article/2024/sep/10/selena-gomez-carrying-children-pregnancy-vanity-fair-interview-health-issues-lupus-bipolar)
-- [Beyoncé’s Cowboy Carter snubbed at Country Music Awards](https://www.theguardian.com/music/article/2024/sep/10/beyonce-cma-cowboy-carter-snubbed-2024-country-music-awards)
-- [Harvey Weinstein undergoes emergency heart surgery at New York hospital](https://www.theguardian.com/us-news/article/2024/sep/09/harvey-weinstein-hospitalized)
-- [Ukraine war briefing: Dire warnings to Iran over ballistic missiles for Russia](https://www.theguardian.com/world/article/2024/sep/10/ukraine-war-briefing-dire-warnings-to-iran-over-ballistic-missiles-for-russia)
-- [Some crime victims ‘unaware’ of offenders’ early prison release in England and Wales](https://www.theguardian.com/society/article/2024/sep/09/victims-unaware-offenders-early-prison-release-sds40-england-wales)
-- [Britons should be able to use wider range of ID to vote, says watchdog](https://www.theguardian.com/politics/article/2024/sep/10/britons-should-be-able-to-use-wider-range-of-id-to-vote-says-watchdog)
+- [Harris says Trump can’t accept he was ‘fired by 81m people’ as they clash on January 6 and abortion – debate live](https://www.theguardian.com/us-news/live/2024/sep/10/harris-trump-presidential-debate-updates)
+- [Will Labour’s cold winter of cuts be worth it? – podcast](https://www.theguardian.com/news/audio/2024/sep/11/will-labours-cold-winter-of-cuts-be-worth-it-podcast)
+- [Rachael ‘Raygun’ Gunn tops latest world breaking rankings despite Olympic flop](https://www.theguardian.com/sport/article/2024/sep/11/raygun-ranked-number-one-world-breaking-rankings-olympic-games-performance-breakdancer-rachael-gunn)
+- [Ukraine war briefing: ‘We’re working that out now’ – Biden on permitting long-range strikes](https://www.theguardian.com/world/article/2024/sep/11/ukraine-war-briefing-were-working-that-out-now-biden-on-long-range-strikes)
+- [French first lady Brigitte Macron to make cameo in Netflix’s Emily in Paris](https://www.theguardian.com/tv-and-radio/article/2024/sep/11/brigitte-macron-cameo-emily-in-paris-netflix)
+- [Ex-Manus Island detainees stranded in PNG threatened with eviction over unpaid rent](https://www.theguardian.com/australia-news/article/2024/sep/11/ex-manus-island-detainees-stranded-in-png-threatened-with-eviction-over-unpaid-rent)
+- [Who is Nga wai hono i te po, New Zealand’s new Māori Queen?](https://www.theguardian.com/world/article/2024/sep/11/who-is-nga-wai-hono-i-te-po-new-zealand-maori-queen)
+- [Landlords warn they may raise rents in response to Labour’s renters’ rights bill](https://www.theguardian.com/money/article/2024/sep/11/landlords-response-to-labour-renters-rights-bill)
+- [English Heritage asks public for help to recover London’s ‘lost’ plaques](https://www.theguardian.com/uk-news/article/2024/sep/11/english-heritage-asks-public-for-help-to-recover-londons-lost-plaques)
+- [Van Gogh: Poets and Lovers review – a riveting rollercoaster ride from Arles to the stars](https://www.theguardian.com/artanddesign/article/2024/sep/11/van-gogh-poets-and-lovers-review-national-gallery)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

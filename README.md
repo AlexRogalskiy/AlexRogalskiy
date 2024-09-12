@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Harris says Trump can’t accept he was ‘fired by 81m people’ as they clash on January 6 and abortion – debate live](https://www.theguardian.com/us-news/live/2024/sep/10/harris-trump-presidential-debate-updates)
-- [Will Labour’s cold winter of cuts be worth it? – podcast](https://www.theguardian.com/news/audio/2024/sep/11/will-labours-cold-winter-of-cuts-be-worth-it-podcast)
-- [Rachael ‘Raygun’ Gunn tops latest world breaking rankings despite Olympic flop](https://www.theguardian.com/sport/article/2024/sep/11/raygun-ranked-number-one-world-breaking-rankings-olympic-games-performance-breakdancer-rachael-gunn)
-- [Ukraine war briefing: ‘We’re working that out now’ – Biden on permitting long-range strikes](https://www.theguardian.com/world/article/2024/sep/11/ukraine-war-briefing-were-working-that-out-now-biden-on-long-range-strikes)
-- [French first lady Brigitte Macron to make cameo in Netflix’s Emily in Paris](https://www.theguardian.com/tv-and-radio/article/2024/sep/11/brigitte-macron-cameo-emily-in-paris-netflix)
-- [Ex-Manus Island detainees stranded in PNG threatened with eviction over unpaid rent](https://www.theguardian.com/australia-news/article/2024/sep/11/ex-manus-island-detainees-stranded-in-png-threatened-with-eviction-over-unpaid-rent)
-- [Who is Nga wai hono i te po, New Zealand’s new Māori Queen?](https://www.theguardian.com/world/article/2024/sep/11/who-is-nga-wai-hono-i-te-po-new-zealand-maori-queen)
-- [Landlords warn they may raise rents in response to Labour’s renters’ rights bill](https://www.theguardian.com/money/article/2024/sep/11/landlords-response-to-labour-renters-rights-bill)
-- [English Heritage asks public for help to recover London’s ‘lost’ plaques](https://www.theguardian.com/uk-news/article/2024/sep/11/english-heritage-asks-public-for-help-to-recover-londons-lost-plaques)
-- [Van Gogh: Poets and Lovers review – a riveting rollercoaster ride from Arles to the stars](https://www.theguardian.com/artanddesign/article/2024/sep/11/van-gogh-poets-and-lovers-review-national-gallery)
+- [Why Brazil is taking on Elon Musk – podcast](https://www.theguardian.com/news/audio/2024/sep/12/why-brazil-is-taking-on-elon-musk-podcast)
+- [MTV VMAs 2024: Taylor Swift, Sabrina Carpenter, Chappell Roan and more – in pictures](https://www.theguardian.com/music/gallery/2024/sep/12/mtv-vmas-2024-red-carpet-entrances-taylor-swift-sabrina-carpenter-chappell-roan-and-more-in-pictures)
+- [Six Unrwa workers among estimated 14 killed in Israeli strike on Gaza school sheltering displaced](https://www.theguardian.com/world/2024/sep/12/idf-airstrike-gaza-school-nuseirat-refugee-shelter-six-un-unrwa-workers-among-dead)
+- [Portrait of Winston Churchill stolen from Canada hotel discovered in Italy](https://www.theguardian.com/uk-news/2024/sep/12/portrait-of-winston-churchill-stolen-from-canada-hotel-discovered-in-italy)
+- [Alberto Fujimori, authoritarian former president of Peru, dies aged 86](https://www.theguardian.com/world/2024/sep/12/alberto-fujimori-dies-aged-86-death-peru-former-president)
+- [UK English curricula should focus on ‘inclusive and diverse’ stories, author says](https://www.theguardian.com/education/2024/sep/12/uk-english-curricula-should-focus-on-inclusive-and-diverse-stories-author-says)
+- [Women’s Super League 2024-25 previews No 4: Chelsea](https://www.theguardian.com/football/2024/sep/12/womens-super-league-2024-25-previews-no-4-chelsea)
+- [Mother forced to wear PPE while newborn son died in her arms, Covid inquiry hears](https://www.theguardian.com/uk-news/2024/sep/11/mother-forced-to-wear-ppe-while-newborn-son-died-in-her-arms-covid-inquiry-hears)
+- [Travis Head helps blast Australia to T20 liftoff against inexperienced England](https://www.theguardian.com/sport/2024/sep/11/travis-head-helps-blast-australia-to-t20-liftoff-against-inexperienced-england)
+- [‘I’ve shown I can do it’: Carsley shrugs off talk of impossible job with England](https://www.theguardian.com/football/2024/sep/11/ive-shown-i-can-do-it-carsley-shrugs-off-talk-of-impossible-job-with-england)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

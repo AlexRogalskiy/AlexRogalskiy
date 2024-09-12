@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ask HN: The Importance of the Set {-1, 0, 1} and it&#39;s Universal Application](https://news.ycombinator.com/item?id=41507537)
-- [Designing Organisations That Work](https://thenextwavefutures.wordpress.com/2024/09/10/designing-organisations-that-work-stafford-beer-viable-systems-model/)
-- [I won&#39;t buy an Intel Lunar Lake-powered laptop](https://www.tomshardware.com/laptops/why-i-wont-buy-an-intel-lunar-lake-powered-laptop)
-- [ExpressJS 5.0](https://github.com/expressjs/express/releases/tag/v5.0.0)
-- [Woman drips with sweat from a bite of food due to rare nerve-wiring mix-up](https://arstechnica.com/science/2024/09/woman-drips-with-sweat-from-a-bite-of-food-due-to-rare-nerve-wiring-mix-up/)
-- [iPhone 16&#39;s Hardware Ready, AI Still Missing](https://www.theverge.com/2024/9/10/24240787/apple-iphone-16-intelligence-camera-control)
-- [Show HN: I made a free Canny alternative &lpar;customer feedback management tool&rpar;](https://featureflow.tech)
-- [Understanding the Kubernetes Readiness Probe: A Tool for Application Health](https://www.causely.io/blog/understanding-kubernetes-readiness-probe-to-ensure-your-applications-availability/)
-- [A pure radiant cooling device for &quot;air conditioning&quot; without conditioning air](https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(24)00481-8)
-- [A Faster Lottery Simulator &lpar;2024&rpar;](https://casino.noah.dev/)
+- [What&#39;s in a Name? A Guide to Zeiss Super Speeds](https://thecinelens.com/2016/08/24/whats-in-a-name-a-guide-to-zeiss-super-speeds/)
+- [Sony Turns to AI to Tackle Rising Animation Costs and Animator Shortage](https://www.cartoonbrew.com/business/sony-wants-to-produce-more-animation-content-but-hampered-by-animator-shortage-high-costs-242893.html)
+- [SongCreator: Lyrics-Based Universal Song Generation](https://songcreator.github.io/)
+- [Caroline Ellison asks for time served, citing cooperation with US gov&#39;t](https://cointelegraph.com/news/caroline-ellison-sentencing-recommendation-alameda-research-time-served)
+- [The Things We Return to Define Us](https://jonathanpolitzki.substack.com/p/return)
+- [Human drivers are to blame for most serious Waymo collisions](https://www.understandingai.org/p/human-drivers-are-to-blame-for-most)
+- [Urban Roadway in America: The Amount, Extent, and Value](https://www.tandfonline.com/doi/full/10.1080/01944363.2024.2368260)
+- [MongoDB: The Definitive Guide Powerful and Scalable Data Storage &lpar;3rd Edition&rpar;](https://www.oreilly.com/library/view/mongodb-the-definitive/9781491954454/)
+- [Ex-CIA Officer Sentenced to 10 Years in Prison for Espionage on Behalf of China](https://www.justice.gov/opa/pr/former-cia-officer-sentenced-10-years-prison-conspiracy-commit-espionage)
+- [React-native-reusables: Universal shadcn/UI for React Native](https://github.com/mrzachnugent/react-native-reusables)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

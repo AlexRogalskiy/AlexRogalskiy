@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Arvo Pärt&#39;s Journey](https://www.plough.com/en/topics/culture/music/arvo-parts-journey)
-- [People who are colorblind are less likely to be picky eaters](https://theconversation.com/how-we-discovered-that-people-who-are-colorblind-are-less-likely-to-be-picky-eaters-232438)
-- [Chai-1 Defeats AlphaFold 3](https://www.chaidiscovery.com/blog/introducing-chai-1)
-- [Flipper Zero Gets Major Firmware Update, Can Eavesdrop on Walkie-Talkies](https://www.pcmag.com/news/flipper-zero-gets-major-firmware-update)
-- [Rust in illumos](https://wegmueller.it/blog/posts/2024-09-02-rust-on-illumos)
-- [Among the Moss Piglets: The First Image of a Tardigrade &lpar;1773&rpar;](https://publicdomainreview.org/collection/tardigrade/)
-- [Lottery Simulator &lpar;2023&rpar;](https://perthirtysix.com/tool/lottery-simulator)
-- [Why Not Comments](https://buttondown.com/hillelwayne/archive/why-not-comments/)
-- [Another police raid in Germany](https://forum.torproject.org/t/tor-relays-artikel-5-e-v-another-police-raid-in-germany-general-assembly-on-sep-21st-2024/14533)
-- [Tutorial on diffusion models for imaging and vision](https://arxiv.org/abs/2403.18103)
+- [Sony Turns to AI to Tackle Rising Animation Costs and Animator Shortage](https://www.cartoonbrew.com/business/sony-wants-to-produce-more-animation-content-but-hampered-by-animator-shortage-high-costs-242893.html)
+- [Human drivers are to blame for most serious Waymo collisions](https://www.understandingai.org/p/human-drivers-are-to-blame-for-most)
+- [Former Peruvian President Alberto Fujimori dies at age 86](https://www.latintimes.com/alberto-fujimori-former-president-peru-dies-86-after-battle-cancer-559201)
+- [The Minneapolis Street Grid: Explained](https://streets.mn/2024/09/11/streets-and-avenues-in-minneapolis/)
+- [Videogame firms hit with EU complaint over &#39;tricking consumers&#39;](https://www.reuters.com/technology/videogame-firms-hit-with-eu-complaint-over-tricking-consumers-2024-09-11/)
+- [My business card runs Linux &lpar;and Ultrix&rpar;, yours can too](http://dmitry.gr/?r=05.Projects&proj=33.%20LinuxCard)
+- [Be a Thermostat, Not a Thermometer](https://larahogan.me/blog/be-a-thermostat-not-a-thermometer/)
+- [Show HN: How much is 13B euros?](https://howmuchis13billioneuros.com)
+- [Pathpilot &lpar;YC S24&rpar; is hiring a founding AI and full-stack engineer](https://www.ycombinator.com/companies/pathpilot/jobs/GlywVaz-founding-engineer-ai-full-stack)
+- [The first release candidate of FreeCAD 1.0 is out](https://blog.freecad.org/2024/09/10/the-first-release-candidate-of-freecad-1-0-is-out/comment-page-1/#comments)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

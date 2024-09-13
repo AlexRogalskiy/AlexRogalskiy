@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [What&#39;s in a Name? A Guide to Zeiss Super Speeds](https://thecinelens.com/2016/08/24/whats-in-a-name-a-guide-to-zeiss-super-speeds/)
-- [Sony Turns to AI to Tackle Rising Animation Costs and Animator Shortage](https://www.cartoonbrew.com/business/sony-wants-to-produce-more-animation-content-but-hampered-by-animator-shortage-high-costs-242893.html)
-- [SongCreator: Lyrics-Based Universal Song Generation](https://songcreator.github.io/)
-- [Caroline Ellison asks for time served, citing cooperation with US gov&#39;t](https://cointelegraph.com/news/caroline-ellison-sentencing-recommendation-alameda-research-time-served)
-- [The Things We Return to Define Us](https://jonathanpolitzki.substack.com/p/return)
-- [Human drivers are to blame for most serious Waymo collisions](https://www.understandingai.org/p/human-drivers-are-to-blame-for-most)
-- [Urban Roadway in America: The Amount, Extent, and Value](https://www.tandfonline.com/doi/full/10.1080/01944363.2024.2368260)
-- [MongoDB: The Definitive Guide Powerful and Scalable Data Storage &lpar;3rd Edition&rpar;](https://www.oreilly.com/library/view/mongodb-the-definitive/9781491954454/)
-- [Ex-CIA Officer Sentenced to 10 Years in Prison for Espionage on Behalf of China](https://www.justice.gov/opa/pr/former-cia-officer-sentenced-10-years-prison-conspiracy-commit-espionage)
-- [React-native-reusables: Universal shadcn/UI for React Native](https://github.com/mrzachnugent/react-native-reusables)
+- [Equality Act 2010](https://marginalrevolution.com/marginalrevolution/2024/09/equality-act-2010.html)
+- [Beltmatic: A math game inspired by Factorio and shapez](https://store.steampowered.com/app/2674590/Beltmatic/)
+- [One interesting hypothesis of what OpenAI may be doing](https://twitter.com/rao2z/status/1834354533931385203)
+- [New NFL helmet accessory reduces concussions](https://theconversation.com/new-nfl-helmet-accessory-reduces-concussions-but-players-and-fans-may-not-be-ready-to-embrace-safety-over-swag-236928)
+- [Crypto Scams Drained $5.6B from American Wallets in 2023](https://www.vice.com/en/article/crypto-scams-2023-total-losses/)
+- [DCE in static C libraries with function sections [pdf]](https://elinux.org/images/2/2d/ELC2010-gc-sections_Denys_Vlasenko.pdf)
+- [Writing Tips for Non-Fiction Authors](https://medium.com/@tuckermax/33-writing-tips-for-non-fiction-authors-5dcb36c4a0c4)
+- [Ask HN: Do you sell first or comply with laws/tax first?](https://news.ycombinator.com/item?id=41527459)
+- [The-good-and-bad-of-cpp-as-a-rust-dev](https://chadnauseam.com/coding/pltd/the-good-and-bad-of-cpp-as-a-rust-dev)
+- [Why open source matters in your project management tool](https://allthingsopen.org/articles/open-source-matters-project-management-tool)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

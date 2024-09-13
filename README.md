@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Sony Turns to AI to Tackle Rising Animation Costs and Animator Shortage](https://www.cartoonbrew.com/business/sony-wants-to-produce-more-animation-content-but-hampered-by-animator-shortage-high-costs-242893.html)
-- [Human drivers are to blame for most serious Waymo collisions](https://www.understandingai.org/p/human-drivers-are-to-blame-for-most)
-- [Former Peruvian President Alberto Fujimori dies at age 86](https://www.latintimes.com/alberto-fujimori-former-president-peru-dies-86-after-battle-cancer-559201)
-- [The Minneapolis Street Grid: Explained](https://streets.mn/2024/09/11/streets-and-avenues-in-minneapolis/)
-- [Videogame firms hit with EU complaint over &#39;tricking consumers&#39;](https://www.reuters.com/technology/videogame-firms-hit-with-eu-complaint-over-tricking-consumers-2024-09-11/)
-- [My business card runs Linux &lpar;and Ultrix&rpar;, yours can too](http://dmitry.gr/?r=05.Projects&proj=33.%20LinuxCard)
-- [Be a Thermostat, Not a Thermometer](https://larahogan.me/blog/be-a-thermostat-not-a-thermometer/)
-- [Show HN: How much is 13B euros?](https://howmuchis13billioneuros.com)
-- [Pathpilot &lpar;YC S24&rpar; is hiring a founding AI and full-stack engineer](https://www.ycombinator.com/companies/pathpilot/jobs/GlywVaz-founding-engineer-ai-full-stack)
-- [The first release candidate of FreeCAD 1.0 is out](https://blog.freecad.org/2024/09/10/the-first-release-candidate-of-freecad-1-0-is-out/comment-page-1/#comments)
+- [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring Software Engineers](https://news.ycombinator.com/item?id=41527191)
+- [Notes on OpenAI&#39;s new o1 chain-of-thought models](https://simonwillison.net/2024/Sep/12/openai-o1/)
+- [Greenland landslide caused freak wave that shook Earth for nine days](https://www.newscientist.com/article/2447567-greenland-landslide-caused-freak-wave-that-shook-earth-for-nine-days/)
+- [Advertising platform The Trade Desk is building its own smart TV OS](https://www.lowpass.cc/p/the-trade-desk-smart-tv-os-platform)
+- [Notepat • Aesthetic Computer](https://aesthetic.computer/notepat)
+- [FDA Authorizes First Over-the-Counter Hearing Aid Software](https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-over-counter-hearing-aid-software)
+- [Data sleuths who spotted research misconduct cleared of defamation](https://arstechnica.com/science/2024/09/court-clears-researchers-of-defamation-for-identifying-manipulated-data/)
+- [The Strange Case of the Rogue HP-12c Calculator](https://dm319.github.io/pages/2024_09_09_hp12_comma.html)
+- [Defusedxml – defusing XML bombs and other exploits](https://github.com/tiran/defusedxml)
+- [Learning to Reason with LLMs](https://openai.com/index/learning-to-reason-with-llms/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

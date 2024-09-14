@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Creating The Spark: the kids behind 2024’s surprise summer hit – podcast](https://www.theguardian.com/news/audio/2024/sep/13/crew-behind-the-spark-how-2024s-surprise-hit-came-to-pass-podcast)
-- [Ukraine war briefing: Russia accused of unprecedented missile attack on grain ship in Black Sea](https://www.theguardian.com/world/2024/sep/13/ukraine-daily-briefing-russia-accused-of-unprecedented-missile-attack-on-grain-ship-in-black-sea)
-- [Keir Starmer ready to face down ‘nanny state’ jibes in radical public health drive](https://www.theguardian.com/politics/2024/sep/12/keir-starmer-labour-radical-public-health-drive-junk-food-ads-energy-drinks-nhs)
-- [Women’s Super League 2024-25 previews No 5: Crystal Palace](https://www.theguardian.com/football/2024/sep/13/womens-super-league-2024-25-previews-no-5-crystal-palace)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2024/sep/13/premier-league-10-things-to-look-out-for-this-weekend)
-- [Elon Musk calls Australian government ‘fascists’ over move to regulate online misinformation](https://www.theguardian.com/technology/2024/sep/13/elon-musk-fascists-australia-government-misinformation-bill)
-- [Why Am I So Single? review – dating debacles from the duo behind Six](https://www.theguardian.com/stage/2024/sep/12/why-am-i-so-single-review-garrick-toby-marlow-lucy-moss)
-- [Judge dismisses two criminal counts against Trump in Georgia election case](https://www.theguardian.com/us-news/2024/sep/12/trump-election-interference-georgia)
-- [OpenAI to launch models with ‘reasoning’ abilities that are ‘much like a person’](https://www.theguardian.com/technology/2024/sep/12/openai-strawberry-model)
-- [Solheim Cup: Pettersen omits Leona Maguire and turns to Charley Hull](https://www.theguardian.com/sport/2024/sep/12/solheim-cup-pettersen-omits-leona-maguire-and-turns-to-charley-hull)
+- [Ukraine war briefing: Biden, Starmer stop short of announcing Storm Shadow permission](https://www.theguardian.com/world/2024/sep/14/ukraine-war-briefing-biden-starmer-stop-short-of-announcing-missile-strike-permission)
+- [Trump is such a sad wannabe despot. How can he be so close to Kamala in the polls? | First Dog on the Moon](https://www.theguardian.com/commentisfree/picture/2024/sep/14/trump-is-such-a-sad-wannabe-despot-how-can-he-be-so-close-to-kamala-in-the-polls)
+- [Kamala Harris talks assault-weapons ban and tax relief in Pennsylvania stop](https://www.theguardian.com/us-news/2024/sep/13/kamala-harris-assault-weapons-ban-tax-relief-pennsylvania)
+- [Do fish have feelings? Scientists believe they’re getting closer to an answer](https://www.theguardian.com/environment/2024/sep/14/do-fish-have-feelings-sydney-university-research-project)
+- [We retraced Captain Cook’s journey along the east coast of Australia, seeking the other side of history. It was life changing](https://www.theguardian.com/books/2024/sep/14/we-retraced-captain-cooks-journey-along-the-east-coast-of-australia-seeking-the-other-side-of-history-it-was-life-changing)
+- [Trailblazing ballerina Michaela Mabinty DePrince dies at 29](https://www.theguardian.com/stage/2024/sep/13/michaela-mabinty-deprince-ballerina-dies)
+- [Joe Biden dismisses Russian threats during meeting with Keir Starmer](https://www.theguardian.com/politics/2024/sep/14/joe-biden-dismisses-russian-threats-during-meeting-with-keir-starmer)
+- [Sean ‘Diddy’ Combs’ lawyers move to overturn $100m award over assault case](https://www.theguardian.com/music/2024/sep/13/sean-diddy-combs-derrick-lee-cardello-smith-accused-assault)
+- [Arteta backs Sterling to be ‘the difference’ before north London derby](https://www.theguardian.com/football/2024/sep/13/arteta-backs-sterling-to-be-the-difference-before-the-north-london-derby-between-arsenal-tottenham)
+- [Asher-Smith ends season on high as Dobson surges to Diamond League win](https://www.theguardian.com/sport/2024/sep/13/asher-smith-ends-season-on-high-as-dobson-surges-to-diamond-league-win)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

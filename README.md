@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring Software Engineers](https://news.ycombinator.com/item?id=41527191)
-- [Notes on OpenAI&#39;s new o1 chain-of-thought models](https://simonwillison.net/2024/Sep/12/openai-o1/)
-- [Greenland landslide caused freak wave that shook Earth for nine days](https://www.newscientist.com/article/2447567-greenland-landslide-caused-freak-wave-that-shook-earth-for-nine-days/)
-- [Advertising platform The Trade Desk is building its own smart TV OS](https://www.lowpass.cc/p/the-trade-desk-smart-tv-os-platform)
-- [Notepat • Aesthetic Computer](https://aesthetic.computer/notepat)
-- [FDA Authorizes First Over-the-Counter Hearing Aid Software](https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-over-counter-hearing-aid-software)
-- [Data sleuths who spotted research misconduct cleared of defamation](https://arstechnica.com/science/2024/09/court-clears-researchers-of-defamation-for-identifying-manipulated-data/)
-- [The Strange Case of the Rogue HP-12c Calculator](https://dm319.github.io/pages/2024_09_09_hp12_comma.html)
-- [Defusedxml – defusing XML bombs and other exploits](https://github.com/tiran/defusedxml)
-- [Learning to Reason with LLMs](https://openai.com/index/learning-to-reason-with-llms/)
+- [OpenAI&#39;s $150B valuation hinges on upending corporate structure, sources](https://www.reuters.com/technology/artificial-intelligence/openais-stunning-150-billion-valuation-hinges-upending-corporate-structure-2024-09-14/)
+- [18,000 Miles Later, an American Woman Has Cycled the World](https://www.nytimes.com/2024/09/12/sports/cycling/bicycle-around-the-world-record.html)
+- [Stolen iPhones Will Be Even More Useless from iOS 18 Onwards](https://www.macobserver.com/ios/stolen-iphones-will-be-even-more-useless-from-ios-18-onwards/)
+- [US targets trade loophole used by ecommerce groups Temu and Shein](https://www.ft.com/content/2f07510b-d2c6-4bae-bae3-aa5dfa8bd796)
+- [Intel Solidifies $3.5B Deal to Make Chips for Military](https://www.bloomberg.com/news/articles/2024-09-13/intel-solidifies-3-5-billion-deal-to-make-chips-for-us-military)
+- [My 71 TiB ZFS NAS After 10 Years and Zero Drive Failures](https://louwrentius.com/my-71-tib-zfs-nas-after-10-years-and-zero-drive-failures.html)
+- [The Legend of Holy Sword: An Immersive Experience for Concentration Enhancement](https://arxiv.org/abs/2408.16782)
+- [NextNav&#39;s Callous Land-Grab to Privatize 900 MHz](https://www.eff.org/deeplinks/2024/09/nextnavs-callous-band-grab-privatize-900-mhz)
+- [PGVector&#39;s Missing Features](https://trieve.ai/pgvector-missing-features)
+- [OpenAI o1 Results on ARC-AGI-Pub](https://arcprize.org/blog/openai-o1-results-arc-prize)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

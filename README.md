@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Equality Act 2010](https://marginalrevolution.com/marginalrevolution/2024/09/equality-act-2010.html)
-- [Beltmatic: A math game inspired by Factorio and shapez](https://store.steampowered.com/app/2674590/Beltmatic/)
-- [One interesting hypothesis of what OpenAI may be doing](https://twitter.com/rao2z/status/1834354533931385203)
-- [New NFL helmet accessory reduces concussions](https://theconversation.com/new-nfl-helmet-accessory-reduces-concussions-but-players-and-fans-may-not-be-ready-to-embrace-safety-over-swag-236928)
-- [Crypto Scams Drained $5.6B from American Wallets in 2023](https://www.vice.com/en/article/crypto-scams-2023-total-losses/)
-- [DCE in static C libraries with function sections [pdf]](https://elinux.org/images/2/2d/ELC2010-gc-sections_Denys_Vlasenko.pdf)
-- [Writing Tips for Non-Fiction Authors](https://medium.com/@tuckermax/33-writing-tips-for-non-fiction-authors-5dcb36c4a0c4)
-- [Ask HN: Do you sell first or comply with laws/tax first?](https://news.ycombinator.com/item?id=41527459)
-- [The-good-and-bad-of-cpp-as-a-rust-dev](https://chadnauseam.com/coding/pltd/the-good-and-bad-of-cpp-as-a-rust-dev)
-- [Why open source matters in your project management tool](https://allthingsopen.org/articles/open-source-matters-project-management-tool)
+- [Job rate for women in tech has hardly budged since 2005](https://www.washingtonpost.com/technology/2024/09/11/big-tech-women-minorities-jobs-dei-eeoc/)
+- [Fei-Fei Li&#39;s World Labs comes out of stealth with $230M in funding](https://techcrunch.com/2024/09/13/fei-fei-lis-world-labs-comes-out-of-stealth-with-230m-in-funding/)
+- [Towards Battery-Free Wireless Sensing via Radio-Frequency Energy Harvesting](https://arxiv.org/abs/2409.00086)
+- [Boeing engineers redesigned the burn barrel](https://www.labornotes.org/blogs/2019/03/better-burn-barrel-boeing-strike-lives)
+- [Show HN: Create a refund request page to avoid chargebacks](https://transactful.com)
+- [Show HN: Built a Cookie Clicker Clone in Google Sheets](https://www.youtube.com/watch?v=r4Z8MdYm1_s)
+- [Good Forms](https://daverupert.com/2024/09/good-forms/)
+- [Void captures over a million Android TV boxes](https://news.drweb.com/show/?i=14900)
+- [A bag of Cheetos had a huge impact on the ecosystem of Carlsbad Caverns](https://apnews.com/article/carlsbad-caverns-national-park-cheetos-04f30c48dfa7fa3deee29702e083aa56)
+- [New US shipping rules target China&#39;s Shein and Temu](https://www.bbc.com/news/articles/c36n6g164l6o)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

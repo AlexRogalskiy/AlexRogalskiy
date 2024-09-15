@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine war briefing: Biden, Starmer stop short of announcing Storm Shadow permission](https://www.theguardian.com/world/2024/sep/14/ukraine-war-briefing-biden-starmer-stop-short-of-announcing-missile-strike-permission)
-- [Trump is such a sad wannabe despot. How can he be so close to Kamala in the polls? | First Dog on the Moon](https://www.theguardian.com/commentisfree/picture/2024/sep/14/trump-is-such-a-sad-wannabe-despot-how-can-he-be-so-close-to-kamala-in-the-polls)
-- [Kamala Harris talks assault-weapons ban and tax relief in Pennsylvania stop](https://www.theguardian.com/us-news/2024/sep/13/kamala-harris-assault-weapons-ban-tax-relief-pennsylvania)
-- [Do fish have feelings? Scientists believe they’re getting closer to an answer](https://www.theguardian.com/environment/2024/sep/14/do-fish-have-feelings-sydney-university-research-project)
-- [We retraced Captain Cook’s journey along the east coast of Australia, seeking the other side of history. It was life changing](https://www.theguardian.com/books/2024/sep/14/we-retraced-captain-cooks-journey-along-the-east-coast-of-australia-seeking-the-other-side-of-history-it-was-life-changing)
-- [Trailblazing ballerina Michaela Mabinty DePrince dies at 29](https://www.theguardian.com/stage/2024/sep/13/michaela-mabinty-deprince-ballerina-dies)
-- [Joe Biden dismisses Russian threats during meeting with Keir Starmer](https://www.theguardian.com/politics/2024/sep/14/joe-biden-dismisses-russian-threats-during-meeting-with-keir-starmer)
-- [Sean ‘Diddy’ Combs’ lawyers move to overturn $100m award over assault case](https://www.theguardian.com/music/2024/sep/13/sean-diddy-combs-derrick-lee-cardello-smith-accused-assault)
-- [Arteta backs Sterling to be ‘the difference’ before north London derby](https://www.theguardian.com/football/2024/sep/13/arteta-backs-sterling-to-be-the-difference-before-the-north-london-derby-between-arsenal-tottenham)
-- [Asher-Smith ends season on high as Dobson surges to Diamond League win](https://www.theguardian.com/sport/2024/sep/13/asher-smith-ends-season-on-high-as-dobson-surges-to-diamond-league-win)
+- [US rejects claims of CIA involvement in alleged plot to kill Maduro after Venezuela arrests six](https://www.theguardian.com/world/2024/sep/15/us-rejects-claims-of-cia-involvement-in-alleged-plot-to-kill-maduro-after-venezuela-arrests-six)
+- [Ukraine war briefing: more than 100 Ukrainians released in prisoner swap with Russia](https://www.theguardian.com/world/2024/sep/15/ukraine-war-briefing-more-than-100-ukrainians-released-in-prisoner-swap-with-russia)
+- [Europe looking for minor miracle as USA maintain Solheim Cup advantage](https://www.theguardian.com/sport/2024/sep/14/europe-looking-for-minor-miracle-as-usa-maintain-advantage)
+- [Editors’ picks: Can-do khaki – in pictures](https://www.theguardian.com/fashion/gallery/2024/sep/14/editors-picks-can-do-khaki-in-pictures)
+- [Cha-cha with chaperones: Strictly Come Dancing is back after the turmoil](https://www.theguardian.com/tv-and-radio/2024/sep/14/cha-cha-with-chaperones-strictly-come-dancing-is-back-after-the-turmoil)
+- [Miles Hammond hits classy fifty as Gloucestershire cruise to first Blast title](https://www.theguardian.com/sport/2024/sep/14/miles-hammond-hits-classy-fifty-as-gloucestershire-cruise-to-first-blast-title)
+- [Man, 18, charged with murders of a woman and two teenagers in Luton](https://www.theguardian.com/uk-news/2024/sep/14/man-18-charged-with-murders-of-a-woman-and-two-teenagers-in-luton)
+- [Wanyonyi beats Arop but Rudisha’s world record remains intact](https://www.theguardian.com/sport/2024/sep/14/wanyonyi-beats-arop-but-rudishas-world-record-remains-intact)
+- [Chelsea’s Nkunku sinks Bournemouth amid Premier League yellow card record](https://www.theguardian.com/football/2024/sep/14/bournemouth-chelsea-premier-league-match-report)
+- [Keir Starmer alleged to have broken rules over party donor’s gifts to wife](https://www.theguardian.com/politics/2024/sep/14/keir-starmer-alleged-to-have-broken-parliamentary-rules-over-gifts-to-wife)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

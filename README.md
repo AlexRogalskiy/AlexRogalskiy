@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Job rate for women in tech has hardly budged since 2005](https://www.washingtonpost.com/technology/2024/09/11/big-tech-women-minorities-jobs-dei-eeoc/)
-- [Fei-Fei Li&#39;s World Labs comes out of stealth with $230M in funding](https://techcrunch.com/2024/09/13/fei-fei-lis-world-labs-comes-out-of-stealth-with-230m-in-funding/)
-- [Towards Battery-Free Wireless Sensing via Radio-Frequency Energy Harvesting](https://arxiv.org/abs/2409.00086)
-- [Boeing engineers redesigned the burn barrel](https://www.labornotes.org/blogs/2019/03/better-burn-barrel-boeing-strike-lives)
-- [Show HN: Create a refund request page to avoid chargebacks](https://transactful.com)
-- [Show HN: Built a Cookie Clicker Clone in Google Sheets](https://www.youtube.com/watch?v=r4Z8MdYm1_s)
-- [Good Forms](https://daverupert.com/2024/09/good-forms/)
-- [Void captures over a million Android TV boxes](https://news.drweb.com/show/?i=14900)
-- [A bag of Cheetos had a huge impact on the ecosystem of Carlsbad Caverns](https://apnews.com/article/carlsbad-caverns-national-park-cheetos-04f30c48dfa7fa3deee29702e083aa56)
-- [New US shipping rules target China&#39;s Shein and Temu](https://www.bbc.com/news/articles/c36n6g164l6o)
+- [Walking Purchase](https://en.wikipedia.org/wiki/Walking_Purchase)
+- [It took 50k gallons of water to put out Tesla Semi fire](https://apnews.com/article/tesla-semi-fire-battery-crash-water-firefighters-7ff04a61e562b80b73e057cfd82b6165)
+- [Google Is Running Out of Cloud Storage](https://cachetag.com/marcus/item/google-is-running-out-of?v=7CrzEB4BbMERSZ1joUMYYG)
+- [Canutin, Privacy-first, open source personal finance platform](https://canutin.com/)
+- [Can you visit all of the UNESCO World Heritage List sites in a single year?](https://chrisflemming.com/blog/20240915-whl-tsp/)
+- [Elgato has supersized the Stream Deck for broadcasters](https://www.theverge.com/2024/9/12/24242942/elgato-stream-deck-studio-broadcast-streaming)
+- [I Can&#39;t Believe This Is a Real Yubikey](https://news.ycombinator.com/item?id=41544721)
+- [Why GEN AI Boom Is Fading and What&#39;s Next?](https://medium.com/aiguys/why-gen-ai-boom-is-fading-and-whats-next-7f1363b92696)
+- [Fractran](https://wiki.xxiivv.com/site/fractran.html)
+- [McDonald&#39;s Extends $5 Meal in Battle for Cash-Strapped Consumers](https://www.bloomberg.com/news/articles/2024-09-12/mcdonald-s-extends-5-value-meal-to-december-in-battle-with-wendy-s-burger-king)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [OpenAI&#39;s $150B valuation hinges on upending corporate structure, sources](https://www.reuters.com/technology/artificial-intelligence/openais-stunning-150-billion-valuation-hinges-upending-corporate-structure-2024-09-14/)
-- [18,000 Miles Later, an American Woman Has Cycled the World](https://www.nytimes.com/2024/09/12/sports/cycling/bicycle-around-the-world-record.html)
-- [Stolen iPhones Will Be Even More Useless from iOS 18 Onwards](https://www.macobserver.com/ios/stolen-iphones-will-be-even-more-useless-from-ios-18-onwards/)
-- [US targets trade loophole used by ecommerce groups Temu and Shein](https://www.ft.com/content/2f07510b-d2c6-4bae-bae3-aa5dfa8bd796)
-- [Intel Solidifies $3.5B Deal to Make Chips for Military](https://www.bloomberg.com/news/articles/2024-09-13/intel-solidifies-3-5-billion-deal-to-make-chips-for-us-military)
-- [My 71 TiB ZFS NAS After 10 Years and Zero Drive Failures](https://louwrentius.com/my-71-tib-zfs-nas-after-10-years-and-zero-drive-failures.html)
-- [The Legend of Holy Sword: An Immersive Experience for Concentration Enhancement](https://arxiv.org/abs/2408.16782)
-- [NextNav&#39;s Callous Land-Grab to Privatize 900 MHz](https://www.eff.org/deeplinks/2024/09/nextnavs-callous-band-grab-privatize-900-mhz)
-- [PGVector&#39;s Missing Features](https://trieve.ai/pgvector-missing-features)
-- [OpenAI o1 Results on ARC-AGI-Pub](https://arcprize.org/blog/openai-o1-results-arc-prize)
+- [CSCI 181G PO: Game Engine Programming](https://cs.pomona.edu/classes/cs181g/)
+- [Lazarus Group laundered $200M from 25 crypto hacks to fiat](https://zachxbt.mirror.xyz/B0-UJtxN41cJhpPtKv0v2LZ8u-0PwZ4ecMPEdX4l8vE)
+- [Earth to have new mini-moon for two months](https://phys.org/news/2024-09-earth-mini-moon-months.html)
+- [Twelve Sentenced for Violent Home Invasion Robberies to Steal Cryptocurrency](https://www.justice.gov/opa/pr/twelve-defendants-sentenced-violent-home-invasion-robberies-steal-cryptocurrency)
+- [Why Scrum Is Stressing You Out](https://rethinkingsoftware.substack.com/p/why-scrum-is-stressing-you-out)
+- [OpenSCAD: The Programmer&#39;s Solid 3D CAD Modeller](https://openscad.org/)
+- [To forget is an ethical act](https://emilygorcenski.com/post/to-forget-is-an-ethical-act/)
+- [Brsloan/warewoolf: A minimalist novel-writing system/rich text editor](https://github.com/brsloan/warewoolf)
+- [Hadrius &lpar;YC W23&rpar; Is Hiring New Grads Engineers in NYC](https://www.ycombinator.com/companies/hadrius/jobs/4E0eW8N-customer-success-engineer)
+- [Zen and the Art of Writer Decks &lpar;Using the Pomera DM250&rpar;](http://www.antipope.org/charlie/blog-static/2024/09/zen-and-the-art-of-writer-deck.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

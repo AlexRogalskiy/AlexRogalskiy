@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Walking Purchase](https://en.wikipedia.org/wiki/Walking_Purchase)
-- [It took 50k gallons of water to put out Tesla Semi fire](https://apnews.com/article/tesla-semi-fire-battery-crash-water-firefighters-7ff04a61e562b80b73e057cfd82b6165)
-- [Google Is Running Out of Cloud Storage](https://cachetag.com/marcus/item/google-is-running-out-of?v=7CrzEB4BbMERSZ1joUMYYG)
-- [Canutin, Privacy-first, open source personal finance platform](https://canutin.com/)
-- [Can you visit all of the UNESCO World Heritage List sites in a single year?](https://chrisflemming.com/blog/20240915-whl-tsp/)
-- [Elgato has supersized the Stream Deck for broadcasters](https://www.theverge.com/2024/9/12/24242942/elgato-stream-deck-studio-broadcast-streaming)
-- [I Can&#39;t Believe This Is a Real Yubikey](https://news.ycombinator.com/item?id=41544721)
-- [Why GEN AI Boom Is Fading and What&#39;s Next?](https://medium.com/aiguys/why-gen-ai-boom-is-fading-and-whats-next-7f1363b92696)
-- [Fractran](https://wiki.xxiivv.com/site/fractran.html)
-- [McDonald&#39;s Extends $5 Meal in Battle for Cash-Strapped Consumers](https://www.bloomberg.com/news/articles/2024-09-12/mcdonald-s-extends-5-value-meal-to-december-in-battle-with-wendy-s-burger-king)
+- [Visiting Area 5150: Investigating a PC Demo [video]](https://www.youtube.com/watch?v=VWQB6HmqKig)
+- [uBlock Origin is no longer available on Chrome web store](https://old.reddit.com/r/Piracy/s/dGGy8PXAMG)
+- [GeoGuessr star player&#39;s tips for success in the popular geography game](https://www.theverge.com/2024/9/15/24245652/bike-paths-a-classic-netherlands-move)
+- [The Benefits of DecisionMaker.tools](https://decisionmaker.tools/blog/the-power-of-informed-choices-exploring-the-benefits-of-decision-maker/)
+- [Ohm: Parsing Made Easy](https://nextjournal.com/dubroy/ohm-parsing-made-easy)
+- [AI chatbots might be better at swaying conspiracy theorists than humans](https://freebird-bg0.pages.dev/ai-chatbots-might-be-better-at-swaying-conspiracy-theorists-than-humans)
+- [The Rise of Bitcoin-Powered Pools and Bathhouses](https://freebird-bg0.pages.dev/inside-the-rise-of-bitcoinpowered-pools-and-bathhouses)
+- [The Illusion of a Pagan West](https://unherd.com/2024/09/the-illusion-of-a-pagan-west/)
+- [A Farewell to Falsifiability &lpar;2015&rpar;](https://arxiv.org/abs/1504.00108)
+- [Show HN: I made this free Marketing ROI calculator like 5 minutes using AI](https://www.imgtoprompts.com/tools/marketing-roi-calculator)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

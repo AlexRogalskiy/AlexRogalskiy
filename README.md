@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [US rejects claims of CIA involvement in alleged plot to kill Maduro after Venezuela arrests six](https://www.theguardian.com/world/2024/sep/15/us-rejects-claims-of-cia-involvement-in-alleged-plot-to-kill-maduro-after-venezuela-arrests-six)
-- [Ukraine war briefing: more than 100 Ukrainians released in prisoner swap with Russia](https://www.theguardian.com/world/2024/sep/15/ukraine-war-briefing-more-than-100-ukrainians-released-in-prisoner-swap-with-russia)
-- [Europe looking for minor miracle as USA maintain Solheim Cup advantage](https://www.theguardian.com/sport/2024/sep/14/europe-looking-for-minor-miracle-as-usa-maintain-advantage)
-- [Editors’ picks: Can-do khaki – in pictures](https://www.theguardian.com/fashion/gallery/2024/sep/14/editors-picks-can-do-khaki-in-pictures)
-- [Cha-cha with chaperones: Strictly Come Dancing is back after the turmoil](https://www.theguardian.com/tv-and-radio/2024/sep/14/cha-cha-with-chaperones-strictly-come-dancing-is-back-after-the-turmoil)
-- [Miles Hammond hits classy fifty as Gloucestershire cruise to first Blast title](https://www.theguardian.com/sport/2024/sep/14/miles-hammond-hits-classy-fifty-as-gloucestershire-cruise-to-first-blast-title)
-- [Man, 18, charged with murders of a woman and two teenagers in Luton](https://www.theguardian.com/uk-news/2024/sep/14/man-18-charged-with-murders-of-a-woman-and-two-teenagers-in-luton)
-- [Wanyonyi beats Arop but Rudisha’s world record remains intact](https://www.theguardian.com/sport/2024/sep/14/wanyonyi-beats-arop-but-rudishas-world-record-remains-intact)
-- [Chelsea’s Nkunku sinks Bournemouth amid Premier League yellow card record](https://www.theguardian.com/football/2024/sep/14/bournemouth-chelsea-premier-league-match-report)
-- [Keir Starmer alleged to have broken rules over party donor’s gifts to wife](https://www.theguardian.com/politics/2024/sep/14/keir-starmer-alleged-to-have-broken-parliamentary-rules-over-gifts-to-wife)
+- [Trump shooting attempt: Secret Service will have ‘every resource’ to protect Trump, says Biden, after apparent assassination bid – live](https://www.theguardian.com/us-news/live/2024/sep/15/donald-trump-shooting-florida-golf-course)
+- [Emmys 2024: the winners, the losers, the speeches – live!](https://www.theguardian.com/tv-and-radio/live/2024/sep/15/emmy-awards-winners-losers-updates)
+- [Revenge of the childless cat ladies - podcast](https://www.theguardian.com/news/audio/2024/sep/16/revenge-of-the-childless-cat-ladies-podcast)
+- [Ukraine war briefing: people trapped after Russian strike on Kharkiv apartment block, Zelenskiy says](https://www.theguardian.com/world/2024/sep/16/ukraine-war-briefing-people-trapped-after-russian-strike-on-kharkiv-apartment-block-zelenskiy-says)
+- [Rare smelly penguin wins New Zealand bird of the year contest](https://www.theguardian.com/world/2024/sep/16/hoiho-penguin-new-zealand-bird-of-the-year-winner)
+- [Typhoon Yagi: scores dead from flooding in Myanmar](https://www.theguardian.com/world/2024/sep/16/typhoon-yagi-scores-dead-from-flooding-in-myanmar)
+- [Second Trump assassination attempt highlights ‘dangerous times’ for US](https://www.theguardian.com/us-news/2024/sep/16/second-trump-assassination-attempt-analysis)
+- [Jet fuel tax could raise £6bn a year in the UK, says thinktank](https://www.theguardian.com/business/2024/sep/16/jet-fuel-tax-could-raise-6bn-a-year-in-the-uk-says-thinktank)
+- [Ditch £40m Loch Lomond resort plan if rejected in vote, Scottish Greens urge](https://www.theguardian.com/uk-news/2024/sep/16/flamingo-land-loch-lomond-resort-proposal-vote-scottish-green-party)
+- [Women’s Super League 2024-25 previews No 8: Liverpool](https://www.theguardian.com/football/2024/sep/16/womens-super-league-2024-25-previews-no-8-liverpool)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

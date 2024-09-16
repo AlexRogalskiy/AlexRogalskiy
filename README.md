@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [CSCI 181G PO: Game Engine Programming](https://cs.pomona.edu/classes/cs181g/)
-- [Lazarus Group laundered $200M from 25 crypto hacks to fiat](https://zachxbt.mirror.xyz/B0-UJtxN41cJhpPtKv0v2LZ8u-0PwZ4ecMPEdX4l8vE)
-- [Earth to have new mini-moon for two months](https://phys.org/news/2024-09-earth-mini-moon-months.html)
-- [Twelve Sentenced for Violent Home Invasion Robberies to Steal Cryptocurrency](https://www.justice.gov/opa/pr/twelve-defendants-sentenced-violent-home-invasion-robberies-steal-cryptocurrency)
-- [Why Scrum Is Stressing You Out](https://rethinkingsoftware.substack.com/p/why-scrum-is-stressing-you-out)
-- [OpenSCAD: The Programmer&#39;s Solid 3D CAD Modeller](https://openscad.org/)
-- [To forget is an ethical act](https://emilygorcenski.com/post/to-forget-is-an-ethical-act/)
-- [Brsloan/warewoolf: A minimalist novel-writing system/rich text editor](https://github.com/brsloan/warewoolf)
-- [Hadrius &lpar;YC W23&rpar; Is Hiring New Grads Engineers in NYC](https://www.ycombinator.com/companies/hadrius/jobs/4E0eW8N-customer-success-engineer)
-- [Zen and the Art of Writer Decks &lpar;Using the Pomera DM250&rpar;](http://www.antipope.org/charlie/blog-static/2024/09/zen-and-the-art-of-writer-deck.html)
+- [Linux market share approaching 4.5% for first time, could hit 5% by 1Q25](https://www.tomshardware.com/software/linux/linux-market-share-approaching-45-for-first-time-could-hit-5-by-1q25)
+- [LinkedIn blocked due Meshtastic video in private chat](https://github.com/resiliencetheatre/rpi4edgemapdisplay/discussions/4)
+- [What Firefox trains are we in?](https://whattrainisitnow.com/)
+- [Nothing: Simply Do Nothing](https://usenothing.com/)
+- [Tell HN: DanBC has died](https://news.ycombinator.com/item?id=41550822)
+- [Plain Text Accounting &lpar;PTA&rpar;](https://plaintextaccounting.org/)
+- [Paraguay Loves Mickey, the Cartoon Mouse. Disney Doesn&#39;t](https://www.nytimes.com/2024/09/14/world/americas/paraguay-mickey-mouse-disney.html)
+- [g1: Using Llama-3.1 70B on Groq to create o1-like reasoning chains](https://github.com/bklieger-groq/g1)
+- [CSSnano](https://cssnano.github.io/cssnano/)
+- [Bluesky Reaches 10M Accounts](https://bsky.app/profile/bsky.app/post/3l47prg3wgy23)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

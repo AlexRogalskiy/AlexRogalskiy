@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Trump shooting attempt: Secret Service will have ‘every resource’ to protect Trump, says Biden, after apparent assassination bid – live](https://www.theguardian.com/us-news/live/2024/sep/15/donald-trump-shooting-florida-golf-course)
-- [Emmys 2024: the winners, the losers, the speeches – live!](https://www.theguardian.com/tv-and-radio/live/2024/sep/15/emmy-awards-winners-losers-updates)
-- [Revenge of the childless cat ladies - podcast](https://www.theguardian.com/news/audio/2024/sep/16/revenge-of-the-childless-cat-ladies-podcast)
-- [Ukraine war briefing: people trapped after Russian strike on Kharkiv apartment block, Zelenskiy says](https://www.theguardian.com/world/2024/sep/16/ukraine-war-briefing-people-trapped-after-russian-strike-on-kharkiv-apartment-block-zelenskiy-says)
-- [Rare smelly penguin wins New Zealand bird of the year contest](https://www.theguardian.com/world/2024/sep/16/hoiho-penguin-new-zealand-bird-of-the-year-winner)
-- [Typhoon Yagi: scores dead from flooding in Myanmar](https://www.theguardian.com/world/2024/sep/16/typhoon-yagi-scores-dead-from-flooding-in-myanmar)
-- [Second Trump assassination attempt highlights ‘dangerous times’ for US](https://www.theguardian.com/us-news/2024/sep/16/second-trump-assassination-attempt-analysis)
-- [Jet fuel tax could raise £6bn a year in the UK, says thinktank](https://www.theguardian.com/business/2024/sep/16/jet-fuel-tax-could-raise-6bn-a-year-in-the-uk-says-thinktank)
-- [Ditch £40m Loch Lomond resort plan if rejected in vote, Scottish Greens urge](https://www.theguardian.com/uk-news/2024/sep/16/flamingo-land-loch-lomond-resort-proposal-vote-scottish-green-party)
-- [Women’s Super League 2024-25 previews No 8: Liverpool](https://www.theguardian.com/football/2024/sep/16/womens-super-league-2024-25-previews-no-8-liverpool)
+- [The devastating secrets of Huw Edwards – podcast](https://www.theguardian.com/news/audio/2024/sep/17/the-devastating-secrets-of-huw-edwards-podcast)
+- [Meta bans Russian state media outlets over ‘foreign interference activity’](https://www.theguardian.com/world/2024/sep/16/meta-bans-rt-russian-media-outlets)
+- [Ukraine war briefing: Russia retakes two villages in Kursk as counteroffensive continues, Moscow says](https://www.theguardian.com/world/2024/sep/17/ukraine-war-briefing-russia-retakes-two-villages-in-kursk-as-counteroffensive-continues-moscow-says)
+- [Who will Japan’s next PM be? A policy wonk, ultra-conservative or surfer making the climate fight ‘sexy’](https://www.theguardian.com/world/2024/sep/17/japan-next-prime-minister-ldp-party-leadership-presidential-poll)
+- [Suspect charged as Trump accuses Biden and Harris of incitement](https://www.theguardian.com/us-news/2024/sep/16/trump-assassination-attempt-suspect)
+- [Giorgia Meloni: Starmer showed great interest in our Albania migration deal](https://www.theguardian.com/uk-news/2024/sep/16/giorgia-meloni-starmer-showed-great-interest-in-our-albania-migration-deal)
+- [Traffic to be banned from London’s Oxford Street under Sadiq Khan plan](https://www.theguardian.com/business/2024/sep/17/traffic-banned-london-oxford-street-sadiq-khan-westminster-council)
+- [Women’s Super League 2024-25 previews No 9: Manchester City](https://www.theguardian.com/football/2024/sep/17/womens-super-league-2024-25-previews-no-9-manchester-city)
+- [Sky Betting &amp; Gaming reprimanded for unlawfully sharing users’ personal data](https://www.theguardian.com/business/2024/sep/17/sky-betting-and-gaming-users-data-ico-online-gambling)
+- [Ex-NatWest CEO who left after Nigel Farage row to advise law firm](https://www.theguardian.com/business/2024/sep/17/ex-natwest-ceo-nigel-farage-row-alison-rose-mishcon-de-reya)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

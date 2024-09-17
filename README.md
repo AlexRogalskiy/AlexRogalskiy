@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Linux market share approaching 4.5% for first time, could hit 5% by 1Q25](https://www.tomshardware.com/software/linux/linux-market-share-approaching-45-for-first-time-could-hit-5-by-1q25)
-- [LinkedIn blocked due Meshtastic video in private chat](https://github.com/resiliencetheatre/rpi4edgemapdisplay/discussions/4)
-- [What Firefox trains are we in?](https://whattrainisitnow.com/)
-- [Nothing: Simply Do Nothing](https://usenothing.com/)
-- [Tell HN: DanBC has died](https://news.ycombinator.com/item?id=41550822)
-- [Plain Text Accounting &lpar;PTA&rpar;](https://plaintextaccounting.org/)
-- [Paraguay Loves Mickey, the Cartoon Mouse. Disney Doesn&#39;t](https://www.nytimes.com/2024/09/14/world/americas/paraguay-mickey-mouse-disney.html)
-- [g1: Using Llama-3.1 70B on Groq to create o1-like reasoning chains](https://github.com/bklieger-groq/g1)
-- [CSSnano](https://cssnano.github.io/cssnano/)
-- [Bluesky Reaches 10M Accounts](https://bsky.app/profile/bsky.app/post/3l47prg3wgy23)
+- [Y Combinator is predicated on startups that require low capitalization](https://twitter.com/bradneuberg/status/1835680235049869495)
+- [Omnipresent AI cameras will ensure good behavior, says Larry Ellison](https://arstechnica.com/information-technology/2024/09/omnipresent-ai-cameras-will-ensure-good-behavior-says-larry-ellison/)
+- [Chain of Thought Empowers Transformers to Solve Inherently Serial Problems](https://arxiv.org/abs/2402.12875)
+- [FreeBSD 13.4-Release Announcement](https://www.freebsd.org/releases/13.4R/announce/)
+- [Intel foundry business to make custom chip for Amazon, chipmaker&#39;s shares jump](https://www.reuters.com/technology/intel-aws-expand-strategic-collaboration-chip-manufacturing-2024-09-16/)
+- [Nyxpsi – A Next-Gen Network Protocol for Extreme Packet Loss](https://github.com/nyxpsi/nyxpsi)
+- [Open Source Form Back End](https://github.com/FormBee/FormBee)
+- [Finetune, Eval, Deploy 60 LLMs in a single Colab notebook](https://colab.research.google.com/drive/1v4zaLJ-YXE29rn4ZJXCtTDwBzDg8H2HK?usp=sharing)
+- [Franzelio: Draw Lines. Make Music. Share Your Instrument](https://franzelio.franzai.com/)
+- [Provable Security of Linux-DRBG in the Seedless Robustness Model [pdf]](https://eprint.iacr.org/2024/1421.pdf)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

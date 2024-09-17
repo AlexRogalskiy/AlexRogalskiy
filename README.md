@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Visiting Area 5150: Investigating a PC Demo [video]](https://www.youtube.com/watch?v=VWQB6HmqKig)
-- [uBlock Origin is no longer available on Chrome web store](https://old.reddit.com/r/Piracy/s/dGGy8PXAMG)
-- [GeoGuessr star player&#39;s tips for success in the popular geography game](https://www.theverge.com/2024/9/15/24245652/bike-paths-a-classic-netherlands-move)
-- [The Benefits of DecisionMaker.tools](https://decisionmaker.tools/blog/the-power-of-informed-choices-exploring-the-benefits-of-decision-maker/)
-- [Ohm: Parsing Made Easy](https://nextjournal.com/dubroy/ohm-parsing-made-easy)
-- [AI chatbots might be better at swaying conspiracy theorists than humans](https://freebird-bg0.pages.dev/ai-chatbots-might-be-better-at-swaying-conspiracy-theorists-than-humans)
-- [The Rise of Bitcoin-Powered Pools and Bathhouses](https://freebird-bg0.pages.dev/inside-the-rise-of-bitcoinpowered-pools-and-bathhouses)
-- [The Illusion of a Pagan West](https://unherd.com/2024/09/the-illusion-of-a-pagan-west/)
-- [A Farewell to Falsifiability &lpar;2015&rpar;](https://arxiv.org/abs/1504.00108)
-- [Show HN: I made this free Marketing ROI calculator like 5 minutes using AI](https://www.imgtoprompts.com/tools/marketing-roi-calculator)
+- [Can Multi-Modal LLMs &quot;See&quot; Images? A Deep Dive with ASCII Art](https://blog.skypilot.co/can-multi-modal-llms-truely-see-images/)
+- [We Turned Social Media Chatter into Explosive Growth–and You Can Too](https://socialsignalai.com)
+- [Sean Combs Arrested in Manhattan After Grand Jury Indictment](https://www.nytimes.com/2024/09/16/arts/music/sean-combs-diddy-indicted.html)
+- [Single prompt achieves competitive results with o1-preview](https://arxiv.org/abs/2409.09415)
+- [The internet is worse than it used to be. How did we get here?](https://theconversation.com/the-internet-is-worse-than-it-used-to-be-how-did-we-get-here-and-can-we-go-back-236513)
+- [The reason why music is getting worse](https://www.openculture.com/2024/09/the-real-reason-why-music-is-getting-worse-rick-beato-explains.html)
+- [Intel secures $3B military semiconductor grant despite CHIPS Act funding dispute](https://www.datacenterdynamics.com/en/news/intel-secures-35bn-military-semiconductor-grant-despite-ongoing-chips-act-funding-dispute/)
+- [Blog: Clapping music for two flip-disc displays](https://hannahilea.com/blog/clapping-music-for-flip-disc-displays/)
+- [Intel frees its Foundry biz – and that&#39;s just one of many major shake-ups today](https://www.theregister.com/2024/09/17/intel_foundry_aws_dod/)
+- [CotEditor 5.0 – The Plain-Text Editor for macOS](https://coteditor.com)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

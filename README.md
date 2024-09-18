@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Can Multi-Modal LLMs &quot;See&quot; Images? A Deep Dive with ASCII Art](https://blog.skypilot.co/can-multi-modal-llms-truely-see-images/)
-- [We Turned Social Media Chatter into Explosive Growth–and You Can Too](https://socialsignalai.com)
-- [Sean Combs Arrested in Manhattan After Grand Jury Indictment](https://www.nytimes.com/2024/09/16/arts/music/sean-combs-diddy-indicted.html)
-- [Single prompt achieves competitive results with o1-preview](https://arxiv.org/abs/2409.09415)
-- [The internet is worse than it used to be. How did we get here?](https://theconversation.com/the-internet-is-worse-than-it-used-to-be-how-did-we-get-here-and-can-we-go-back-236513)
-- [The reason why music is getting worse](https://www.openculture.com/2024/09/the-real-reason-why-music-is-getting-worse-rick-beato-explains.html)
-- [Intel secures $3B military semiconductor grant despite CHIPS Act funding dispute](https://www.datacenterdynamics.com/en/news/intel-secures-35bn-military-semiconductor-grant-despite-ongoing-chips-act-funding-dispute/)
-- [Blog: Clapping music for two flip-disc displays](https://hannahilea.com/blog/clapping-music-for-flip-disc-displays/)
-- [Intel frees its Foundry biz – and that&#39;s just one of many major shake-ups today](https://www.theregister.com/2024/09/17/intel_foundry_aws_dod/)
-- [CotEditor 5.0 – The Plain-Text Editor for macOS](https://coteditor.com)
+- [Mind the Gap: Dev Journey Tube Map](https://www.devrel.agency/post/mind-the-gap-dev-journey-tube-map)
+- [Fixing a $30k Mistake [video]](https://www.youtube.com/watch?v=LVOrp_o2dtE)
+- [A Secure Foundry for Government Mobile Computing Needs](https://puri.sm/posts/a-secure-foundry-for-government-mobile-computing-needs/)
+- [Israel Planted Explosives in Pagers Sold to Hezbollah, Officials Say](https://www.nytimes.com/2024/09/17/world/middleeast/israel-hezbollah-pagers-explosives.html)
+- [U.S. Expands Personal Sanctions on Israeli-Spyware Firm Intellexa](https://www.haaretz.com/israel-news/security-aviation/2024-09-16/ty-article/.premium/u-s-expands-personal-sanctions-on-israeli-spyware-firm-intellexa/00000191-fbf8-dd5a-a1d5-fffa6b560000)
+- [AI-Powered Git Command Generator](https://www.gitdevtool.com/git-command)
+- [When Infrastructure Gets Hacked](https://practical.engineering/blog/2024/9/17/when-infrastructure-gets-hacked)
+- [Coinbase CEO Defends Against Off-Chain Settlement Rumors](https://www.ccn.com/news/crypto/blackrocks-section-bitcoin-deals-coinbase/)
+- [Murders, drug deals stopped as police hack &#39;secret&#39; app](https://citynews.com.au/2024/murders-drug-deals-stopped-as-police-hack-secret-app/)
+- [Qubes OS 4.2.3 has been released](https://www.qubes-os.org/news/2024/09/17/qubes-os-4-2-3-has-been-released/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

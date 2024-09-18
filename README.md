@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [The devastating secrets of Huw Edwards – podcast](https://www.theguardian.com/news/audio/2024/sep/17/the-devastating-secrets-of-huw-edwards-podcast)
-- [Meta bans Russian state media outlets over ‘foreign interference activity’](https://www.theguardian.com/world/2024/sep/16/meta-bans-rt-russian-media-outlets)
-- [Ukraine war briefing: Russia retakes two villages in Kursk as counteroffensive continues, Moscow says](https://www.theguardian.com/world/2024/sep/17/ukraine-war-briefing-russia-retakes-two-villages-in-kursk-as-counteroffensive-continues-moscow-says)
-- [Who will Japan’s next PM be? A policy wonk, ultra-conservative or surfer making the climate fight ‘sexy’](https://www.theguardian.com/world/2024/sep/17/japan-next-prime-minister-ldp-party-leadership-presidential-poll)
-- [Suspect charged as Trump accuses Biden and Harris of incitement](https://www.theguardian.com/us-news/2024/sep/16/trump-assassination-attempt-suspect)
-- [Giorgia Meloni: Starmer showed great interest in our Albania migration deal](https://www.theguardian.com/uk-news/2024/sep/16/giorgia-meloni-starmer-showed-great-interest-in-our-albania-migration-deal)
-- [Traffic to be banned from London’s Oxford Street under Sadiq Khan plan](https://www.theguardian.com/business/2024/sep/17/traffic-banned-london-oxford-street-sadiq-khan-westminster-council)
-- [Women’s Super League 2024-25 previews No 9: Manchester City](https://www.theguardian.com/football/2024/sep/17/womens-super-league-2024-25-previews-no-9-manchester-city)
-- [Sky Betting &amp; Gaming reprimanded for unlawfully sharing users’ personal data](https://www.theguardian.com/business/2024/sep/17/sky-betting-and-gaming-users-data-ico-online-gambling)
-- [Ex-NatWest CEO who left after Nigel Farage row to advise law firm](https://www.theguardian.com/business/2024/sep/17/ex-natwest-ceo-nigel-farage-row-alison-rose-mishcon-de-reya)
+- [Should we believe Putin’s war talk? - podcast](https://www.theguardian.com/news/audio/2024/sep/18/should-we-believe-putins-war-talk-podcast)
+- [Stars come out in Atlanta to celebrate Jimmy Carter’s 100th birthday](https://www.theguardian.com/us-news/2024/sep/18/jimmy-carter-100th-birthday-party-fox-theatre)
+- [Russia propaganda group behind fake Kamala Harris hit-and-run story, says Microsoft](https://www.theguardian.com/us-news/2024/sep/18/kamala-harris-fake-hit-run-story-russia-propaganda-storm-1516)
+- [Stamps, sticks and stories: looking for traces of baseball in North Korea](https://www.theguardian.com/world/2024/sep/18/baseball-history-north-korea)
+- [Ukraine war briefing: Blinken briefed on Kyiv’s plan to push Russia to end war](https://www.theguardian.com/world/2024/sep/18/ukraine-war-briefing-blinken-briefed-on-kyivs-plan-to-push-russia-to-end-war)
+- [‘Utter disillusionment’: Kashmir sees first election since 2014 as chance to reject Modi](https://www.theguardian.com/world/2024/sep/18/kashmir-election-modi-india)
+- [UK’s new eVisa scheme ‘could create digital Windrush scandal’](https://www.theguardian.com/uk-news/2024/sep/18/uks-new-evisa-scheme-could-create-digital-windrush-scandal)
+- [Exodus from workforce costs UK ‘£16bn a year’ in lost tax receipts](https://www.theguardian.com/politics/2024/sep/18/exodus-uk-workforce-costs-16bn-a-year-lost-tax-receipts-covid)
+- [Global spending on subsidies that harm environment rises to $2.6tn, report says](https://www.theguardian.com/environment/2024/sep/18/spending-subsidies-environment-deforestation-pollution-fossil-fuels-aoe)
+- [Male police officers accused of domestic abuse have been promoted, report says](https://www.theguardian.com/uk-news/2024/sep/18/male-police-officers-accused-of-domestic-abuse-have-been-promoted-report-says)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

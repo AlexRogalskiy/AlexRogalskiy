@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Mind the Gap: Dev Journey Tube Map](https://www.devrel.agency/post/mind-the-gap-dev-journey-tube-map)
-- [Fixing a $30k Mistake [video]](https://www.youtube.com/watch?v=LVOrp_o2dtE)
-- [A Secure Foundry for Government Mobile Computing Needs](https://puri.sm/posts/a-secure-foundry-for-government-mobile-computing-needs/)
-- [Israel Planted Explosives in Pagers Sold to Hezbollah, Officials Say](https://www.nytimes.com/2024/09/17/world/middleeast/israel-hezbollah-pagers-explosives.html)
-- [U.S. Expands Personal Sanctions on Israeli-Spyware Firm Intellexa](https://www.haaretz.com/israel-news/security-aviation/2024-09-16/ty-article/.premium/u-s-expands-personal-sanctions-on-israeli-spyware-firm-intellexa/00000191-fbf8-dd5a-a1d5-fffa6b560000)
-- [AI-Powered Git Command Generator](https://www.gitdevtool.com/git-command)
-- [When Infrastructure Gets Hacked](https://practical.engineering/blog/2024/9/17/when-infrastructure-gets-hacked)
-- [Coinbase CEO Defends Against Off-Chain Settlement Rumors](https://www.ccn.com/news/crypto/blackrocks-section-bitcoin-deals-coinbase/)
-- [Murders, drug deals stopped as police hack &#39;secret&#39; app](https://citynews.com.au/2024/murders-drug-deals-stopped-as-police-hack-secret-app/)
-- [Qubes OS 4.2.3 has been released](https://www.qubes-os.org/news/2024/09/17/qubes-os-4-2-3-has-been-released/)
+- [Am I Blue?](https://leancrew.com/all-this/2024/09/am-i-blue/)
+- [BlogWallet](https://wallet.google/)
+- [Show HN: I built a tool website based on OpenAI o1 chat](https://chatgpt-o1.com/)
+- [Aesthetic Fascism](https://tracydurnell.com/2024/09/18/aesthetic-fascism/)
+- [Interactively zooming in to the Mandelbrot set on a touchscreen](https://akkartik.itch.io/carousel/devlog/800017/interactively-zooming-in-to-the-mandelbrot-set-on-a-touchscreen)
+- [Alleged images of Nintendo&#39;s new Switch have appeared online](https://www.videogameschronicle.com/news/alleged-images-of-nintendos-new-switch-have-appeared-online/)
+- [The First Costume Book](https://publicdomainreview.org/collection/recueil-de-la-diversite-des-habits/)
+- [Deadly Shooting at Wildberries Moscow Offices](https://www.forbes.com/sites/jemimamcevoy/2024/09/18/russias-richest-woman-handed-over-a-third-of-her-fortune-then-things-turned-deadly/)
+- [Ask HN: What reasonable person would work as a founding engineer?](https://news.ycombinator.com/item?id=41587860)
+- [Create Your Own Web](https://play.hyper.space)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

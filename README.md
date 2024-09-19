@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Should we believe Putin’s war talk? - podcast](https://www.theguardian.com/news/audio/2024/sep/18/should-we-believe-putins-war-talk-podcast)
-- [Stars come out in Atlanta to celebrate Jimmy Carter’s 100th birthday](https://www.theguardian.com/us-news/2024/sep/18/jimmy-carter-100th-birthday-party-fox-theatre)
-- [Russia propaganda group behind fake Kamala Harris hit-and-run story, says Microsoft](https://www.theguardian.com/us-news/2024/sep/18/kamala-harris-fake-hit-run-story-russia-propaganda-storm-1516)
-- [Stamps, sticks and stories: looking for traces of baseball in North Korea](https://www.theguardian.com/world/2024/sep/18/baseball-history-north-korea)
-- [Ukraine war briefing: Blinken briefed on Kyiv’s plan to push Russia to end war](https://www.theguardian.com/world/2024/sep/18/ukraine-war-briefing-blinken-briefed-on-kyivs-plan-to-push-russia-to-end-war)
-- [‘Utter disillusionment’: Kashmir sees first election since 2014 as chance to reject Modi](https://www.theguardian.com/world/2024/sep/18/kashmir-election-modi-india)
-- [UK’s new eVisa scheme ‘could create digital Windrush scandal’](https://www.theguardian.com/uk-news/2024/sep/18/uks-new-evisa-scheme-could-create-digital-windrush-scandal)
-- [Exodus from workforce costs UK ‘£16bn a year’ in lost tax receipts](https://www.theguardian.com/politics/2024/sep/18/exodus-uk-workforce-costs-16bn-a-year-lost-tax-receipts-covid)
-- [Global spending on subsidies that harm environment rises to $2.6tn, report says](https://www.theguardian.com/environment/2024/sep/18/spending-subsidies-environment-deforestation-pollution-fossil-fuels-aoe)
-- [Male police officers accused of domestic abuse have been promoted, report says](https://www.theguardian.com/uk-news/2024/sep/18/male-police-officers-accused-of-domestic-abuse-have-been-promoted-report-says)
+- [‘A long way to go’: in revolution’s wake, questions linger over direction of the new Bangladesh](https://www.theguardian.com/world/2024/sep/19/bangladesh-protests-sheikh-hasina-amir-chowdhury)
+- [Anushka Asthana on the perils of Keir Starmer’s fragile majority – podcast](https://www.theguardian.com/news/audio/2024/sep/19/anushka-asthana-on-the-perils-of-keir-starmers-fragile-majority-podcast)
+- [‘It breaks us deeply’: anguish as China closes door to foreign adoptions](https://www.theguardian.com/world/2024/sep/19/china-ends-adoptions-international-foreign-intercountry)
+- [US House fails to pass federal funding bill as shutdown deadline nears](https://www.theguardian.com/us-news/2024/sep/18/speaker-johnson-funding-bill)
+- [Teachers in England offered lie-ins to make job more appealing](https://www.theguardian.com/education/2024/sep/19/teachers-in-england-offered-incentives-to-make-job-appealing)
+- [UK urged to promote speaking of Irish and Ulster Scots in Northern Ireland](https://www.theguardian.com/uk-news/2024/sep/19/uk-urged-to-promote-speaking-of-irish-and-ulster-scots-in-northern-ireland)
+- [Women’s Super League 2024-25 previews No 11: Tottenham](https://www.theguardian.com/football/2024/sep/19/womens-super-league-2024-25-previews-no-11-tottenham)
+- [Poor NHS maternity care in danger of becoming normalised, regulator warns](https://www.theguardian.com/society/2024/sep/19/poor-nhs-maternity-care-in-danger-of-becoming-normalised-regulator-cqc)
+- [Kevin De Bruyne a doubt to face Arsenal due to groin injury in draw with Inter](https://www.theguardian.com/football/2024/sep/18/kevin-de-bruyne-a-doubt-to-face-arsenal-after-injury-against-inter)
+- [Storm Boris batters northern Italy bringing severe flooding and landslides](https://www.theguardian.com/world/2024/sep/18/storm-boris-batters-northern-italy-bringing-severe-flooding-and-landslides)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

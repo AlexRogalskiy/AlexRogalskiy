@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [‘A long way to go’: in revolution’s wake, questions linger over direction of the new Bangladesh](https://www.theguardian.com/world/2024/sep/19/bangladesh-protests-sheikh-hasina-amir-chowdhury)
-- [Anushka Asthana on the perils of Keir Starmer’s fragile majority – podcast](https://www.theguardian.com/news/audio/2024/sep/19/anushka-asthana-on-the-perils-of-keir-starmers-fragile-majority-podcast)
-- [‘It breaks us deeply’: anguish as China closes door to foreign adoptions](https://www.theguardian.com/world/2024/sep/19/china-ends-adoptions-international-foreign-intercountry)
-- [US House fails to pass federal funding bill as shutdown deadline nears](https://www.theguardian.com/us-news/2024/sep/18/speaker-johnson-funding-bill)
-- [Teachers in England offered lie-ins to make job more appealing](https://www.theguardian.com/education/2024/sep/19/teachers-in-england-offered-incentives-to-make-job-appealing)
-- [UK urged to promote speaking of Irish and Ulster Scots in Northern Ireland](https://www.theguardian.com/uk-news/2024/sep/19/uk-urged-to-promote-speaking-of-irish-and-ulster-scots-in-northern-ireland)
-- [Women’s Super League 2024-25 previews No 11: Tottenham](https://www.theguardian.com/football/2024/sep/19/womens-super-league-2024-25-previews-no-11-tottenham)
-- [Poor NHS maternity care in danger of becoming normalised, regulator warns](https://www.theguardian.com/society/2024/sep/19/poor-nhs-maternity-care-in-danger-of-becoming-normalised-regulator-cqc)
-- [Kevin De Bruyne a doubt to face Arsenal due to groin injury in draw with Inter](https://www.theguardian.com/football/2024/sep/18/kevin-de-bruyne-a-doubt-to-face-arsenal-after-injury-against-inter)
-- [Storm Boris batters northern Italy bringing severe flooding and landslides](https://www.theguardian.com/world/2024/sep/18/storm-boris-batters-northern-italy-bringing-severe-flooding-and-landslides)
+- [Trump bemoans lack of support from Jewish voters and blames ‘Democrat curse’](https://www.theguardian.com/us-news/2024/sep/19/trump-jewish-voters-election)
+- [How Lebanon’s pagers and walkie-talkies became deadly weapons – podcast](https://www.theguardian.com/news/audio/2024/sep/20/how-lebanon-pagers-and-walkie-talkies-turned-deadly-podcast)
+- [‘We are isolated, tired, scared’: pager attack leaves Lebanon in shock](https://www.theguardian.com/world/2024/sep/20/we-are-isolated-tired-scared-pager-attack-leaves-lebanon-in-shock)
+- [‘The hardship is still there’: Sri Lanka prepares to vote as hopes of revolution falter](https://www.theguardian.com/world/2024/sep/20/sri-lanka-election-vote-hopes-revolution)
+- [Ukraine war briefing: offensive in Kursk diverted 40,000 Russian troops, Zelenskyy says](https://www.theguardian.com/world/2024/sep/20/ukraine-war-briefing-offensive-in-kursk-diverted-40000-russian-troops-zelenskyy-says)
+- [‘He didn’t do it’: days before execution in South Carolina, key witness says he lied](https://www.theguardian.com/us-news/2024/sep/19/south-carolina-execution-freddie-owens)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2024/sep/20/premier-league-10-things-to-look-out-for-this-weekend)
+- [Waiting for Godot review – Beckett’s classic tragicomedy is more comedic than tragic](https://www.theguardian.com/stage/2024/sep/20/waiting-for-godot-review-becketts-absurd-desolate-existential-tragicomedy)
+- [Israel bombards southern Lebanon after Hezbollah chief vows ‘punishment’](https://www.theguardian.com/world/2024/sep/19/hezbollah-chief-vows-punishment-of-israel-after-explosive-device-attacks)
+- [US opens civil rights investigation into Mississippi sheriff’s office after torture of Black men](https://www.theguardian.com/us-news/2024/sep/19/mississippi-sheriffs-office-torture-black-men-investigation)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

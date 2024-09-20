@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Nintendo Files Suit for Infringement of Patent Rights Against Pocketpair, Inc](https://www.nintendo.co.jp/corporate/release/en/2024/240919.html)
-- [Debugging Behind the Iron Curtain &lpar;2010&rpar;](https://www.jakepoz.com/debugging-behind-the-iron-curtain/)
-- [A Message from Intel CEO Pat Gelsinger to Employees](https://www.intc.com/news-events/press-releases/detail/1710/a-message-from-intel-ceo-pat-gelsinger-to-employees)
-- [AI agents invade observability: snake oil or the future of SRE?](https://monitoring2.substack.com/p/ai-agents-invade-observability)
-- [From Myth to Measurement: Rethinking US News and World Report College Rankings](https://anandsanwal.me/us-news-college-rankings-myth/)
-- [Ruby-SAML pwned by XML signature wrapping attacks](https://ssoready.com/blog/engineering/ruby-saml-pwned-by-xml-signature-wrapping-attacks/)
-- [Meticulous &lpar;YC S21&rpar; is hiring to eliminate UI tests](https://news.ycombinator.com/item?id=41585449)
-- [Comic Mono](https://dtinth.github.io/comic-mono-font/)
-- [LinkedIn is now using everyone&#39;s content to train their AI tool](https://twitter.com/RachelTobac/status/1836471586624540705)
-- [Is Tor still safe to use?](https://blog.torproject.org/tor-is-still-safe/)
+- [Yes, you can have exactly-once delivery](http://blog.rongarret.info/2024/09/yes-you-can-have-exactly-once-delivery.html)
+- [Is there a flight search engine that combines flights from different airlines?](https://travel.stackexchange.com/questions/26780/is-there-a-flight-search-engine-that-combines-flights-from-different-airlines)
+- [GroMo &lpar;YC W21&rpar; Is Hiring](https://www.ycombinator.com/companies/gromo/jobs/GyqMnKn-business-analyst-product-analyst)
+- [X and Starlink face $1M in daily fines for alleged ban evasion in Brazil](https://www.cnbc.com/2024/09/19/elon-musks-x-and-starlink-face-daily-fines-in-brazil-for-ban-evasion.html)
+- [Show HN: LeanRL: Fast PyTorch RL with Torch.compile and CUDA Graphs](https://github.com/pytorch-labs/LeanRL)
+- [Caught on camera: Satellite tracker photographs secret spacecraft](https://www.space.com/secret-satellites-caught-on-camera)
+- [Gaining access to anyones browser without them even visiting a website](https://kibty.town/blog/arc/)
+- [3K free SVG icons for popular brands](https://simpleicons.org/)
+- [Visual guide to SSH tunneling and port forwarding](https://ittavern.com/visual-guide-to-ssh-tunneling-and-port-forwarding/)
+- [GitHub Notification Emails Hijacked to Send Malware](https://ianspence.com/blog/2024-09/github-email-hijack/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

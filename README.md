@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Am I Blue?](https://leancrew.com/all-this/2024/09/am-i-blue/)
-- [BlogWallet](https://wallet.google/)
-- [Show HN: I built a tool website based on OpenAI o1 chat](https://chatgpt-o1.com/)
-- [Aesthetic Fascism](https://tracydurnell.com/2024/09/18/aesthetic-fascism/)
-- [Interactively zooming in to the Mandelbrot set on a touchscreen](https://akkartik.itch.io/carousel/devlog/800017/interactively-zooming-in-to-the-mandelbrot-set-on-a-touchscreen)
-- [Alleged images of Nintendo&#39;s new Switch have appeared online](https://www.videogameschronicle.com/news/alleged-images-of-nintendos-new-switch-have-appeared-online/)
-- [The First Costume Book](https://publicdomainreview.org/collection/recueil-de-la-diversite-des-habits/)
-- [Deadly Shooting at Wildberries Moscow Offices](https://www.forbes.com/sites/jemimamcevoy/2024/09/18/russias-richest-woman-handed-over-a-third-of-her-fortune-then-things-turned-deadly/)
-- [Ask HN: What reasonable person would work as a founding engineer?](https://news.ycombinator.com/item?id=41587860)
-- [Create Your Own Web](https://play.hyper.space)
+- [Jordan Peterson versus Higher Ed](https://www.deseret.com/education/2024/09/17/jordan-peterson-academy-classes-cost-higher-ed/)
+- [India Backs Small Nuclear Reactors to Power Heavy Industry](https://spectrum.ieee.org/nuclear-reactors-india)
+- [TV writer crafted her most powerful narrative yet–in the form of board game](https://www.latimes.com/lifestyle/story/2024-09-19/lauren-bello-morrison-game-factory)
+- [Retirement Ages by Country](https://flowingdata.com/2024/09/19/retirement-ages-by-country/)
+- [Using YouTube to steal your files](https://lyra.horse/blog/2024/09/using-youtube-to-steal-your-files/)
+- [Macrovoices Podcast on Economics of AI](https://www.macrovoices.com/1347-macrovoices-446-matt-barrie)
+- [Gladys Assistant – Home Assistant, much simpler](https://gladysassistant.com/)
+- [Why Apple Uses JPEG XL in the iPhone 16 and What It Means for Your Photos](https://petapixel.com/2024/09/18/why-apple-uses-jpeg-xl-in-the-iphone-16-and-what-it-means-for-your-photos/)
+- [The Future of Open Source, or Why Open Core Is Dead &lpar;2022&rpar;](https://thenewstack.io/the-future-of-open-source-or-why-open-core-is-dead/)
+- [Show HN: Using Transformer Based Model to Predict Football Goals](https://www.youtube.com/watch?v=uxcAVwVLUNA)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Jordan Peterson versus Higher Ed](https://www.deseret.com/education/2024/09/17/jordan-peterson-academy-classes-cost-higher-ed/)
-- [India Backs Small Nuclear Reactors to Power Heavy Industry](https://spectrum.ieee.org/nuclear-reactors-india)
-- [TV writer crafted her most powerful narrative yet–in the form of board game](https://www.latimes.com/lifestyle/story/2024-09-19/lauren-bello-morrison-game-factory)
-- [Retirement Ages by Country](https://flowingdata.com/2024/09/19/retirement-ages-by-country/)
-- [Using YouTube to steal your files](https://lyra.horse/blog/2024/09/using-youtube-to-steal-your-files/)
-- [Macrovoices Podcast on Economics of AI](https://www.macrovoices.com/1347-macrovoices-446-matt-barrie)
-- [Gladys Assistant – Home Assistant, much simpler](https://gladysassistant.com/)
-- [Why Apple Uses JPEG XL in the iPhone 16 and What It Means for Your Photos](https://petapixel.com/2024/09/18/why-apple-uses-jpeg-xl-in-the-iphone-16-and-what-it-means-for-your-photos/)
-- [The Future of Open Source, or Why Open Core Is Dead &lpar;2022&rpar;](https://thenewstack.io/the-future-of-open-source-or-why-open-core-is-dead/)
-- [Show HN: Using Transformer Based Model to Predict Football Goals](https://www.youtube.com/watch?v=uxcAVwVLUNA)
+- [Ask HN: Are there any promising proper AI Smart Home startups?](https://news.ycombinator.com/item?id=41607021)
+- [Internet surveillance firm Sandvine will leave 56 &#39;non-democratic&#39; countries](https://techcrunch.com/2024/09/20/internet-surveillance-firm-sandvine-says-its-leaving-56-non-democratic-countries/)
+- [Walking Faroe Islands &lpar;part one&rpar;](https://walkingtheworld.substack.com/p/walking-faroe-islands-part-one)
+- [Filtered for home robots, fast and slow](https://interconnected.org/home/2024/09/20/filtered)
+- [Sshfs for Windows](https://github.com/winfsp/sshfs-win)
+- [Doomretro – The classic, refined DOOM source port. For Windows PC](https://github.com/bradharding/doomretro)
+- [Win32 Native Port of BusyBox](https://github.com/rmyorston/busybox-w32)
+- [Just Like Home](https://wp.josh.com/just-like-home/)
+- [Fire engineer arrested on suspicion of setting blazes in Northern California](https://www.latimes.com/california/story/2024-09-20/firefighting-engineer-arrested-on-suspicion-of-arson)
+- [A Thousand Plateaus: Capitolism and Schizophrenia](https://archive.org/details/AThousandPlateaus_20180115)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

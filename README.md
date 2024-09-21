@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Yes, you can have exactly-once delivery](http://blog.rongarret.info/2024/09/yes-you-can-have-exactly-once-delivery.html)
-- [Is there a flight search engine that combines flights from different airlines?](https://travel.stackexchange.com/questions/26780/is-there-a-flight-search-engine-that-combines-flights-from-different-airlines)
-- [GroMo &lpar;YC W21&rpar; Is Hiring](https://www.ycombinator.com/companies/gromo/jobs/GyqMnKn-business-analyst-product-analyst)
-- [X and Starlink face $1M in daily fines for alleged ban evasion in Brazil](https://www.cnbc.com/2024/09/19/elon-musks-x-and-starlink-face-daily-fines-in-brazil-for-ban-evasion.html)
-- [Show HN: LeanRL: Fast PyTorch RL with Torch.compile and CUDA Graphs](https://github.com/pytorch-labs/LeanRL)
-- [Caught on camera: Satellite tracker photographs secret spacecraft](https://www.space.com/secret-satellites-caught-on-camera)
-- [Gaining access to anyones browser without them even visiting a website](https://kibty.town/blog/arc/)
-- [3K free SVG icons for popular brands](https://simpleicons.org/)
-- [Visual guide to SSH tunneling and port forwarding](https://ittavern.com/visual-guide-to-ssh-tunneling-and-port-forwarding/)
-- [GitHub Notification Emails Hijacked to Send Malware](https://ianspence.com/blog/2024-09/github-email-hijack/)
+- [Working in the office 5 days/week to build company culture is a myth: PwC report](https://www.msn.com/en-us/money/other/working-in-the-office-5-days-a-week-to-build-company-culture-is-a-myth-pwc-report-says/ar-AA1qU17L)
+- [Hachette vs. Internet Archive: We&#39;re Still Fighting for Fair Use](https://www.libraryfutures.net/post/were-still-fighting-for-fair-use)
+- [Apple Shares Full iPhone 16 and iPhone 16 Pro Repair Manuals](https://www.macrumors.com/2024/09/20/iphone-16-repair-manual/)
+- [CISA boss: Makers of insecure software are the real cyber villains](https://www.theregister.com/2024/09/20/cisa_sloppy_vendors_cybercrime_villains/)
+- [How do archivists package things? The battle of the boxes](https://peelarchivesblog.com/2024/09/10/how-do-archivists-package-things-the-battle-of-the-boxes/)
+- [Critical Exploit in MediaTek Wi-Fi Chipsets: Zero-Click Vulnerability](https://blog.sonicwall.com/en-us/2024/09/critical-exploit-in-mediatek-wi-fi-chipsets-zero-click-vulnerability-cve-2024-20017-threatens-routers-and-smartphones/)
+- [The Algorithm and the Hippocratic Oath](https://hedgehogreview.com/web-features/thr/posts/the-algorithm-and-the-hippocratic-oath)
+- [UpCodes &lpar;YC S17&rpar; Is Hiring a Marketing Leader](https://up.codes/careers?utm_source=HN)
+- [Show HN: Open-source text classification CLI – train models with no labeled data](https://github.com/taylorai/aiq)
+- [Docker Desktop Alternative](https://container-desktop.com/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

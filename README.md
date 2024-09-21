@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Trump bemoans lack of support from Jewish voters and blames ‘Democrat curse’](https://www.theguardian.com/us-news/2024/sep/19/trump-jewish-voters-election)
-- [How Lebanon’s pagers and walkie-talkies became deadly weapons – podcast](https://www.theguardian.com/news/audio/2024/sep/20/how-lebanon-pagers-and-walkie-talkies-turned-deadly-podcast)
-- [‘We are isolated, tired, scared’: pager attack leaves Lebanon in shock](https://www.theguardian.com/world/2024/sep/20/we-are-isolated-tired-scared-pager-attack-leaves-lebanon-in-shock)
-- [‘The hardship is still there’: Sri Lanka prepares to vote as hopes of revolution falter](https://www.theguardian.com/world/2024/sep/20/sri-lanka-election-vote-hopes-revolution)
-- [Ukraine war briefing: offensive in Kursk diverted 40,000 Russian troops, Zelenskyy says](https://www.theguardian.com/world/2024/sep/20/ukraine-war-briefing-offensive-in-kursk-diverted-40000-russian-troops-zelenskyy-says)
-- [‘He didn’t do it’: days before execution in South Carolina, key witness says he lied](https://www.theguardian.com/us-news/2024/sep/19/south-carolina-execution-freddie-owens)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2024/sep/20/premier-league-10-things-to-look-out-for-this-weekend)
-- [Waiting for Godot review – Beckett’s classic tragicomedy is more comedic than tragic](https://www.theguardian.com/stage/2024/sep/20/waiting-for-godot-review-becketts-absurd-desolate-existential-tragicomedy)
-- [Israel bombards southern Lebanon after Hezbollah chief vows ‘punishment’](https://www.theguardian.com/world/2024/sep/19/hezbollah-chief-vows-punishment-of-israel-after-explosive-device-attacks)
-- [US opens civil rights investigation into Mississippi sheriff’s office after torture of Black men](https://www.theguardian.com/us-news/2024/sep/19/mississippi-sheriffs-office-torture-black-men-investigation)
+- [Ukraine war briefing: Telegram banned from official Ukrainian devices amid Russian spying fears](https://www.theguardian.com/world/2024/sep/21/ukraine-war-briefing-telegram-banned-from-official-ukrainian-devices-amid-russian-spying-fears)
+- [US soldier Travis King sentenced for desertion after fleeing into North Korea](https://www.theguardian.com/us-news/2024/sep/21/us-soldier-travis-king-sentenced-for-desertion-after-fleeing-into-north-korea)
+- [South Carolina executes first man in 13 years despite new evidence of innocence](https://www.theguardian.com/us-news/2024/sep/20/south-carolina-death-row-prisoner-execution)
+- [Man arrested in Italy nearly 50 years after two Melbourne women found dead in their home](https://www.theguardian.com/australia-news/2024/sep/21/man-arrested-in-italy-nearly-50-years-after-two-melbourne-women-found-dead-in-their-home)
+- [Kamala Harris attacks Trump over ‘immoral’ abortion bans at Wisconsin rally](https://www.theguardian.com/us-news/2024/sep/20/kamala-harris-trump-abortion-wisconsin)
+- [Labour’s tax red lines have left Reeves with ‘one hand tied’ for budget, says IFS](https://www.theguardian.com/business/2024/sep/21/rachel-reeves-budget-ifs-income-tax-national-insurance-vat)
+- [California fire agency engineer arrested on suspicion of starting five wildfires](https://www.theguardian.com/us-news/2024/sep/20/cal-fire-engineer-arrested-arson)
+- [Wallaroos denied draw on tour by last-gasp try for history-making Wales](https://www.theguardian.com/sport/2024/sep/20/wales-australia-womens-rugby-union-international-match-report)
+- [Rashida Tlaib condemns cartoonist for racist image of her with exploding pager](https://www.theguardian.com/us-news/2024/sep/20/rashida-tlaib-cartoon-pager)
+- [Rupert Murdoch’s REA group ups offer for Rightmove to £5.9bn](https://www.theguardian.com/business/2024/sep/20/rupert-murdochs-rea-group-ups-offer-for-rightmove-to-59bn)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

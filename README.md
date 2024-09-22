@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine war briefing: Telegram banned from official Ukrainian devices amid Russian spying fears](https://www.theguardian.com/world/2024/sep/21/ukraine-war-briefing-telegram-banned-from-official-ukrainian-devices-amid-russian-spying-fears)
-- [US soldier Travis King sentenced for desertion after fleeing into North Korea](https://www.theguardian.com/us-news/2024/sep/21/us-soldier-travis-king-sentenced-for-desertion-after-fleeing-into-north-korea)
-- [South Carolina executes first man in 13 years despite new evidence of innocence](https://www.theguardian.com/us-news/2024/sep/20/south-carolina-death-row-prisoner-execution)
-- [Man arrested in Italy nearly 50 years after two Melbourne women found dead in their home](https://www.theguardian.com/australia-news/2024/sep/21/man-arrested-in-italy-nearly-50-years-after-two-melbourne-women-found-dead-in-their-home)
-- [Kamala Harris attacks Trump over ‘immoral’ abortion bans at Wisconsin rally](https://www.theguardian.com/us-news/2024/sep/20/kamala-harris-trump-abortion-wisconsin)
-- [Labour’s tax red lines have left Reeves with ‘one hand tied’ for budget, says IFS](https://www.theguardian.com/business/2024/sep/21/rachel-reeves-budget-ifs-income-tax-national-insurance-vat)
-- [California fire agency engineer arrested on suspicion of starting five wildfires](https://www.theguardian.com/us-news/2024/sep/20/cal-fire-engineer-arrested-arson)
-- [Wallaroos denied draw on tour by last-gasp try for history-making Wales](https://www.theguardian.com/sport/2024/sep/20/wales-australia-womens-rugby-union-international-match-report)
-- [Rashida Tlaib condemns cartoonist for racist image of her with exploding pager](https://www.theguardian.com/us-news/2024/sep/20/rashida-tlaib-cartoon-pager)
-- [Rupert Murdoch’s REA group ups offer for Rightmove to £5.9bn](https://www.theguardian.com/business/2024/sep/20/rupert-murdochs-rea-group-ups-offer-for-rightmove-to-59bn)
+- [Ukraine war briefing: Zelenskyy to present ‘victory plan’ during US visit](https://www.theguardian.com/world/2024/sep/22/ukraine-war-briefing-zelenskyy-to-present-victory-plan-during-us-visit)
+- [Argentina stun South Africa to keep Rugby Championship hopes alive](https://www.theguardian.com/sport/2024/sep/22/argentina-stun-south-africa-to-keep-rugby-championship-hopes-alive)
+- [Israel strikes targets in Lebanon as Hezbollah launches deepest rocket attacks since start of Gaza war](https://www.theguardian.com/world/2024/sep/22/israel-strikes-lebanon-hezbollah-deepest-rocket-attacks-since-start-gaza-war)
+- [Australian demand for overdose drug naloxone more than doubles after spike in synthetic opioid deaths](https://www.theguardian.com/australia-news/2024/sep/22/naloxone-overdose-drug-demand-spike-opioids)
+- [Shout about it: standout trends from the season’s key collections – in pictures](https://www.theguardian.com/fashion/gallery/2024/sep/21/shout-about-it-standout-trends-from-the-seasons-key-collections-in-pictures)
+- [Daniel Dubois’ Wembley triumph over Anthony Joshua – in pictures](https://www.theguardian.com/sport/gallery/2024/sep/21/daniel-dubois-wembley-triumph-over-anthony-joshua-in-pictures)
+- [The edit: 15 of the best new season tote bags – in pictures](https://www.theguardian.com/fashion/gallery/2024/sep/21/the-edit-15-of-the-best-new-season-tote-bags-in-pictures)
+- [The moment I knew: on our second date he taught my son how to ice-skate – and my heart melted](https://www.theguardian.com/lifeandstyle/2024/sep/22/the-moment-i-knew-on-our-second-date-he-taught-my-son-how-to-ice-skate-and-my-heart-melted)
+- [Daniel Dubois demolishes Anthony Joshua in blistering display](https://www.theguardian.com/sport/2024/sep/21/daniel-dubois-demolishes-anthony-joshua-in-blistering-display)
+- [US navy apologizes for razing of Native Alaska community in late 1800s](https://www.theguardian.com/us-news/2024/sep/21/us-navy-to-apologize-for-razing-of-native-alaska-community-in-late-1800s)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

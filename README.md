@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Working in the office 5 days/week to build company culture is a myth: PwC report](https://www.msn.com/en-us/money/other/working-in-the-office-5-days-a-week-to-build-company-culture-is-a-myth-pwc-report-says/ar-AA1qU17L)
-- [Hachette vs. Internet Archive: We&#39;re Still Fighting for Fair Use](https://www.libraryfutures.net/post/were-still-fighting-for-fair-use)
-- [Apple Shares Full iPhone 16 and iPhone 16 Pro Repair Manuals](https://www.macrumors.com/2024/09/20/iphone-16-repair-manual/)
-- [CISA boss: Makers of insecure software are the real cyber villains](https://www.theregister.com/2024/09/20/cisa_sloppy_vendors_cybercrime_villains/)
-- [How do archivists package things? The battle of the boxes](https://peelarchivesblog.com/2024/09/10/how-do-archivists-package-things-the-battle-of-the-boxes/)
-- [Critical Exploit in MediaTek Wi-Fi Chipsets: Zero-Click Vulnerability](https://blog.sonicwall.com/en-us/2024/09/critical-exploit-in-mediatek-wi-fi-chipsets-zero-click-vulnerability-cve-2024-20017-threatens-routers-and-smartphones/)
-- [The Algorithm and the Hippocratic Oath](https://hedgehogreview.com/web-features/thr/posts/the-algorithm-and-the-hippocratic-oath)
-- [UpCodes &lpar;YC S17&rpar; Is Hiring a Marketing Leader](https://up.codes/careers?utm_source=HN)
-- [Show HN: Open-source text classification CLI – train models with no labeled data](https://github.com/taylorai/aiq)
-- [Docker Desktop Alternative](https://container-desktop.com/)
+- [Rust clean-slate POSIX CLI utilities 0.2.1 release: Awk, M4, ftw and more](https://github.com/rustcoreutils/posixutils-rs/releases/tag/v0.2.1)
+- [Pulsar: Secure Steganography for Diffusion Models](https://eprint.iacr.org/2023/1758)
+- [WP Engine is not WordPress](https://wordpress.org/news/2024/09/wp-engine/)
+- [Dissociating language and thought in large language models](https://arxiv.org/abs/2301.06627)
+- [What happened to the Japanese PC platforms?](https://www.mistys-internet.website/blog/blog/2024/09/21/what-happened-to-the-japanese-pc-platforms/)
+- [OpenSSH 9.9 Released](https://undeadly.org/cgi?action=article;sid=20240921181110)
+- [Flow Computing aims to boost CPUs with ‘parallel processing units’](https://spectrum.ieee.org/parallel-processing-unit)
+- [Substack &lpar;YC W18&rpar; Is Hiring Machine Learning Engineers](https://grnh.se/d034f1ba5us)
+- [Tetris shows promise in reducing PTSD symptoms](https://www.legalreader.com/tetris-game-shows-promise-in-reducing-ptsd-symptoms/)
+- [Sanding UI](https://blog.jim-nielsen.com/2024/sanding-ui/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

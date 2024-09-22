@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ask HN: Are there any promising proper AI Smart Home startups?](https://news.ycombinator.com/item?id=41607021)
-- [Internet surveillance firm Sandvine will leave 56 &#39;non-democratic&#39; countries](https://techcrunch.com/2024/09/20/internet-surveillance-firm-sandvine-says-its-leaving-56-non-democratic-countries/)
-- [Walking Faroe Islands &lpar;part one&rpar;](https://walkingtheworld.substack.com/p/walking-faroe-islands-part-one)
-- [Filtered for home robots, fast and slow](https://interconnected.org/home/2024/09/20/filtered)
-- [Sshfs for Windows](https://github.com/winfsp/sshfs-win)
-- [Doomretro – The classic, refined DOOM source port. For Windows PC](https://github.com/bradharding/doomretro)
-- [Win32 Native Port of BusyBox](https://github.com/rmyorston/busybox-w32)
-- [Just Like Home](https://wp.josh.com/just-like-home/)
-- [Fire engineer arrested on suspicion of setting blazes in Northern California](https://www.latimes.com/california/story/2024-09-20/firefighting-engineer-arrested-on-suspicion-of-arson)
-- [A Thousand Plateaus: Capitolism and Schizophrenia](https://archive.org/details/AThousandPlateaus_20180115)
+- [Risky play exercises an ancestral need to push limits](https://medicalxpress.com/news/2024-09-risky-play-ancestral-limits.html)
+- [&quot;Based&quot; tech personalities worth following?](https://news.ycombinator.com/item?id=41614247)
+- [Ask HN: Is trusted client compute possible?](https://news.ycombinator.com/item?id=41614238)
+- [Tell HN: The Unavoidable Ladder](https://news.ycombinator.com/item?id=41614181)
+- [The shadowy new way employees are cheating their way to the top](https://www.businessinsider.com/shadow-stand-ins-workers-secretly-outsourcing-their-jobs-2024-6)
+- [Number of Citations of Papers by Sabrina Pasterski](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=sabrina+pasterski&btnG=)
+- [2024 ICPC World Finals](https://scoreboard.icpc.global/2024/)
+- [The new tech that could improve care for Parkinson&#39;s patients](https://scopeblog.stanford.edu/2024/09/20/parkinsons-remote-monitoring-tools/)
+- [Show HN: PDF to MD by LLMs – Extract Text/Tables/Image Descriptives by GPT4o](https://github.com/yigitkonur/swift-ocr-llm-powered-pdf-to-markdown)
+- [Darebeets – Tasty Fitness Food](https://darebeets.com/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

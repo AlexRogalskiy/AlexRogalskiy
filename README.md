@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Risky play exercises an ancestral need to push limits](https://medicalxpress.com/news/2024-09-risky-play-ancestral-limits.html)
-- [&quot;Based&quot; tech personalities worth following?](https://news.ycombinator.com/item?id=41614247)
-- [Ask HN: Is trusted client compute possible?](https://news.ycombinator.com/item?id=41614238)
-- [Tell HN: The Unavoidable Ladder](https://news.ycombinator.com/item?id=41614181)
-- [The shadowy new way employees are cheating their way to the top](https://www.businessinsider.com/shadow-stand-ins-workers-secretly-outsourcing-their-jobs-2024-6)
-- [Number of Citations of Papers by Sabrina Pasterski](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=sabrina+pasterski&btnG=)
-- [2024 ICPC World Finals](https://scoreboard.icpc.global/2024/)
-- [The new tech that could improve care for Parkinson&#39;s patients](https://scopeblog.stanford.edu/2024/09/20/parkinsons-remote-monitoring-tools/)
-- [Show HN: PDF to MD by LLMs – Extract Text/Tables/Image Descriptives by GPT4o](https://github.com/yigitkonur/swift-ocr-llm-powered-pdf-to-markdown)
-- [Darebeets – Tasty Fitness Food](https://darebeets.com/)
+- [A Case for Using Neovim Without Plugins](https://blog.erikwastaken.dev/posts/2023-05-06-a-case-for-neovim-without-plugins.html)
+- [Show HN: chatgpt&lpar;8&rpar; – can&#39;t chat bot](https://brynet.ca/chatgpt/)
+- [Big Data Architecture Style](https://learn.microsoft.com/en-us/azure/architecture/guide/architecture-styles/big-data)
+- [Calculating Apparatus, Patent US3402285 [pdf]](https://www.oughtred.org/jos/CalculatingApparatus-%20AnWang_PatentUS3402285_1964-1968.pdf)
+- [Sunken superyacht believed to contain safes with sensitive intelligence data](https://www.cnn.com/2024/09/21/europe/bayesian-yacht-watertight-safes-intl/index.html)
+- [First 10km VTVL attempt of Chinese Nebula-1 rocket shoot by drone [video]](https://www.youtube.com/watch?v=Iq5NhGYKIqs)
+- [A retryable JUnit 5 extension for flaky tests](https://glaforge.dev/posts/2024/09/01/a-retryable-junit-5-extension/)
+- [Ask HN: Do you ever wonder non illegal non ethical stuff exc from S. Media?](https://news.ycombinator.com/item?id=41621775)
+- [Deep Blue Aerospace&#39;s Nebula-1 rocket VTVL test shoot by FPV [video]](https://www.youtube.com/watch?v=oi8Vf_GcjbI)
+- [The Sorrow of the Cloud Messengers](https://mark-burgess-oslo-mb.medium.com/the-sorrow-of-the-cloud-messengers-fb0c43de27f3)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

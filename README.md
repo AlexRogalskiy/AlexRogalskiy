@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine war briefing: Zelenskyy to present ‘victory plan’ during US visit](https://www.theguardian.com/world/2024/sep/22/ukraine-war-briefing-zelenskyy-to-present-victory-plan-during-us-visit)
-- [Argentina stun South Africa to keep Rugby Championship hopes alive](https://www.theguardian.com/sport/2024/sep/22/argentina-stun-south-africa-to-keep-rugby-championship-hopes-alive)
-- [Israel strikes targets in Lebanon as Hezbollah launches deepest rocket attacks since start of Gaza war](https://www.theguardian.com/world/2024/sep/22/israel-strikes-lebanon-hezbollah-deepest-rocket-attacks-since-start-gaza-war)
-- [Australian demand for overdose drug naloxone more than doubles after spike in synthetic opioid deaths](https://www.theguardian.com/australia-news/2024/sep/22/naloxone-overdose-drug-demand-spike-opioids)
-- [Shout about it: standout trends from the season’s key collections – in pictures](https://www.theguardian.com/fashion/gallery/2024/sep/21/shout-about-it-standout-trends-from-the-seasons-key-collections-in-pictures)
-- [Daniel Dubois’ Wembley triumph over Anthony Joshua – in pictures](https://www.theguardian.com/sport/gallery/2024/sep/21/daniel-dubois-wembley-triumph-over-anthony-joshua-in-pictures)
-- [The edit: 15 of the best new season tote bags – in pictures](https://www.theguardian.com/fashion/gallery/2024/sep/21/the-edit-15-of-the-best-new-season-tote-bags-in-pictures)
-- [The moment I knew: on our second date he taught my son how to ice-skate – and my heart melted](https://www.theguardian.com/lifeandstyle/2024/sep/22/the-moment-i-knew-on-our-second-date-he-taught-my-son-how-to-ice-skate-and-my-heart-melted)
-- [Daniel Dubois demolishes Anthony Joshua in blistering display](https://www.theguardian.com/sport/2024/sep/21/daniel-dubois-demolishes-anthony-joshua-in-blistering-display)
-- [US navy apologizes for razing of Native Alaska community in late 1800s](https://www.theguardian.com/us-news/2024/sep/21/us-navy-to-apologize-for-razing-of-native-alaska-community-in-late-1800s)
+- [Born to rule? The hereditary peers about to lose their seats – podcast](https://www.theguardian.com/news/audio/2024/sep/23/born-to-rule-the-hereditary-peers-about-to-lose-their-seats-podcast)
+- [Ukraine war briefing: Zelenskyy arrives in US on crucial visit to rally support for Kyiv](https://www.theguardian.com/world/2024/sep/23/ukraine-russia-war-zelenskyy-us-visit-biden-harris-trump)
+- [Māori language ‘at risk’ as a result of government policies, commissioner says](https://www.theguardian.com/world/2024/sep/23/maori-language-at-risk-government-policies-new-zealand)
+- [Lancashire chief fears players’ agents threaten County Championship’s future](https://www.theguardian.com/sport/2024/sep/23/lancashire-chief-fears-players-agents-threaten-county-championships-future)
+- [Met police chief hails race action plan as ‘a step in the right direction’](https://www.theguardian.com/uk-news/2024/sep/23/met-police-chief-hails-race-action-plan-as-a-step-in-the-right-direction)
+- [War Horse review – still one of British theatre’s most phenomenal creations](https://www.theguardian.com/stage/2024/sep/22/war-horse-review-the-lowry-salford)
+- [Sue Gray ‘shot JFK’ and is ‘hiding Lord Lucan’, jokes Wes Streeting](https://www.theguardian.com/politics/2024/sep/22/sue-gray-shot-jfk-and-is-hiding-lord-lucan-jokes-wes-streeting)
+- [‘Call it clever … or dirty’: Stones and Silva take swipe at Arsenal over dark arts](https://www.theguardian.com/football/2024/sep/22/man-city-arsenal-quotes-arteta-september-2024)
+- [Rachel Reeves orders investigations into £600m of Covid contracts](https://www.theguardian.com/politics/2024/sep/22/rachel-reeves-orders-investigations-into-600m-of-covid-contracts)
+- [Abba’s Björn Ulvaeus remarries with Sandi Toksvig officiating](https://www.theguardian.com/music/2024/sep/22/abbas-bjorn-ulvaeus-remarries-with-sandi-toksvig-officiating)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

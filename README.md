@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [A Case for Using Neovim Without Plugins](https://blog.erikwastaken.dev/posts/2023-05-06-a-case-for-neovim-without-plugins.html)
-- [Show HN: chatgpt&lpar;8&rpar; – can&#39;t chat bot](https://brynet.ca/chatgpt/)
-- [Big Data Architecture Style](https://learn.microsoft.com/en-us/azure/architecture/guide/architecture-styles/big-data)
-- [Calculating Apparatus, Patent US3402285 [pdf]](https://www.oughtred.org/jos/CalculatingApparatus-%20AnWang_PatentUS3402285_1964-1968.pdf)
-- [Sunken superyacht believed to contain safes with sensitive intelligence data](https://www.cnn.com/2024/09/21/europe/bayesian-yacht-watertight-safes-intl/index.html)
-- [First 10km VTVL attempt of Chinese Nebula-1 rocket shoot by drone [video]](https://www.youtube.com/watch?v=Iq5NhGYKIqs)
-- [A retryable JUnit 5 extension for flaky tests](https://glaforge.dev/posts/2024/09/01/a-retryable-junit-5-extension/)
-- [Ask HN: Do you ever wonder non illegal non ethical stuff exc from S. Media?](https://news.ycombinator.com/item?id=41621775)
-- [Deep Blue Aerospace&#39;s Nebula-1 rocket VTVL test shoot by FPV [video]](https://www.youtube.com/watch?v=oi8Vf_GcjbI)
-- [The Sorrow of the Cloud Messengers](https://mark-burgess-oslo-mb.medium.com/the-sorrow-of-the-cloud-messengers-fb0c43de27f3)
+- [Tagged Union Subsets with Comptime in Zig](https://mitchellh.com/writing/zig-comptime-tagged-union-subset)
+- [Apple just added nine Macs to its &#39;obsolete products&#39; list](https://9to5mac.com/2024/09/23/apple-just-added-nine-macs-to-its-obsolete-products-list/)
+- [Building a reliable asynchronous arbiter is impossible](https://computationstructures.org/notes/arbitration/notes.html)
+- [Bootstrapped to 10K Users: Is B2B the Only Way to Monetize?](https://www.jobsolv.com/)
+- [AI can generate recipes that can be deadly. Food bloggers are not happy](https://www.npr.org/2024/09/23/g-s1-23843/artificial-intelligence-recipes-food-cooking-apple)
+- [Iocraft: a Rust crate for beautiful, artisanally crafted CLIs and text-based IO](https://github.com/ccbrown/iocraft)
+- [C Until It Is No Longer C](https://aartaka.me/c-not-c)
+- [A Study of Nuclear Semiotics [video]](https://www.youtube.com/watch?v=eZVIcl3YGAo)
+- [Model Networks&lpar;and Other Architectures for Preventing Semantic &quot;Nightmare&quot; Bugs&rpar;](https://blog.get-nerve.com/posts/model-networks)
+- [China has &#39;throttled&#39; its private sector](https://www.ft.com/content/1e9e7544-974c-4662-a901-d30c4ab56eb7)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

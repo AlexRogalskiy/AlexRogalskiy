@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Born to rule? The hereditary peers about to lose their seats – podcast](https://www.theguardian.com/news/audio/2024/sep/23/born-to-rule-the-hereditary-peers-about-to-lose-their-seats-podcast)
-- [Ukraine war briefing: Zelenskyy arrives in US on crucial visit to rally support for Kyiv](https://www.theguardian.com/world/2024/sep/23/ukraine-russia-war-zelenskyy-us-visit-biden-harris-trump)
-- [Māori language ‘at risk’ as a result of government policies, commissioner says](https://www.theguardian.com/world/2024/sep/23/maori-language-at-risk-government-policies-new-zealand)
-- [Lancashire chief fears players’ agents threaten County Championship’s future](https://www.theguardian.com/sport/2024/sep/23/lancashire-chief-fears-players-agents-threaten-county-championships-future)
-- [Met police chief hails race action plan as ‘a step in the right direction’](https://www.theguardian.com/uk-news/2024/sep/23/met-police-chief-hails-race-action-plan-as-a-step-in-the-right-direction)
-- [War Horse review – still one of British theatre’s most phenomenal creations](https://www.theguardian.com/stage/2024/sep/22/war-horse-review-the-lowry-salford)
-- [Sue Gray ‘shot JFK’ and is ‘hiding Lord Lucan’, jokes Wes Streeting](https://www.theguardian.com/politics/2024/sep/22/sue-gray-shot-jfk-and-is-hiding-lord-lucan-jokes-wes-streeting)
-- [‘Call it clever … or dirty’: Stones and Silva take swipe at Arsenal over dark arts](https://www.theguardian.com/football/2024/sep/22/man-city-arsenal-quotes-arteta-september-2024)
-- [Rachel Reeves orders investigations into £600m of Covid contracts](https://www.theguardian.com/politics/2024/sep/22/rachel-reeves-orders-investigations-into-600m-of-covid-contracts)
-- [Abba’s Björn Ulvaeus remarries with Sandi Toksvig officiating](https://www.theguardian.com/music/2024/sep/22/abbas-bjorn-ulvaeus-remarries-with-sandi-toksvig-officiating)
+- [Inside a secret summit of Afghan women’s rights activists – podcast](https://www.theguardian.com/news/audio/2024/sep/24/inside-secret-summit-afghan-women-rights-activists-podcast)
+- [Japanese fighter jets fire flares at Russian aircraft for first time in airspace violation](https://www.theguardian.com/world/2024/sep/24/japan-fighter-jets-russian-aircraft-airspace-violation)
+- [Low-lying Pacific islands pin hopes on UN meeting as sea rise threatens survival](https://www.theguardian.com/environment/2024/sep/24/low-lying-pacific-islands-sea-level-rise-un-meeting)
+- [Viral South Korean Olympic shooter Kim Yeji scores first acting role – as an assassin](https://www.theguardian.com/sport/2024/sep/24/kim-yeji-viral-olympic-shooter-acting-assassin)
+- [The murder trial that captivated New Zealand](https://www.theguardian.com/world/2024/sep/24/philip-polkinghorne-murder-trial-pauline-hanna-new-zealand-ntwnfb)
+- [‘The table needs to be burned’: Mark Allen hits out at British Open conditions](https://www.theguardian.com/sport/2024/sep/24/mark-allen-snooker-british-open-conditions)
+- [Silk Roads review – mesmerising show turns world history upside down](https://www.theguardian.com/culture/2024/sep/24/silk-roads-review-british-museum-london)
+- [Kerry gives scathing rating on climate action: ‘Is there a letter underneath Z?’](https://www.theguardian.com/us-news/2024/sep/23/new-york-climate-week-al-gore-john-kerry-condemn-fossil-fuels)
+- [Telegram’s Pavel Durov announces new crackdown on illegal content after arrest](https://www.theguardian.com/technology/2024/sep/23/telegram-illegal-content-pavel-durov-arrest)
+- [Cost of taxpayer-funded grant for UK monarchy to rise by £45m](https://www.theguardian.com/uk-news/2024/sep/23/cost-of-grant-that-funds-uk-monarchy-to-rise-by-more-than-53)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

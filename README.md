@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [WP Engine sent &quot;cease and desist&quot; letter to Automattic](https://twitter.com/wpengine/status/1838350670564377051)
-- [iPhone 16 Pro Storage Expansion 128GB to 1TB [video]](https://www.youtube.com/watch?v=KRRNR4HyYaw)
-- [Telegram Removes Z-Library Posts &#39;Due to Copyright Infringement&#39;](https://torrentfreak.com/telegram-removes-z-library-posts-due-to-copyright-infringement-240923/)
-- [We fine-tuned Llama 405B on AMD GPUs](https://publish.obsidian.md/felafax/pages/Tune+Llama3+405B+on+AMD+MI300x+(our+journey))
-- [Averaging is a convenient fiction of neuroscience](https://www.thetransmitter.org/neural-coding/averaging-is-a-convenient-fiction-of-neuroscience/)
-- [Inside a Ferroelectric RAM Chip](http://www.righto.com/2024/09/ramtron-ferroelectric-fram-die.html)
-- [In 1870, Lord Rayleigh used oil and water to calculate the size of molecules](https://www.atomsonly.news/p/franklin-oil)
-- [Developing a go bot embedding ichiban Prolog](https://rogersm.net/posts/developing-a-go-bot-embedding-ichiban-prolog/)
-- [Show HN: I Wrote a Book on Java](https://news.ycombinator.com/item?id=41629377)
-- [Launch HN: Panora &lpar;YC S24&rpar; – Data Integration API for LLMs](https://github.com/panoratech/Panora)
+- [Microprogramming: A New Way to Program](https://breckyunits.com/microprograms.html)
+- [Hack GPON – how to access, change and edit fibre ONTs](https://hack-gpon.org/)
+- [Committing to Rust in the Kernel](https://lwn.net/SubscriberLink/991062/b0df468b40b21f5d/)
+- [Show HN: Hosting my website using my own C web server](https://github.com/cozis/blogtech)
+- [Hacker plants false memories in ChatGPT to steal user data in perpetuity](https://arstechnica.com/security/2024/09/false-memories-planted-in-chatgpt-give-hacker-persistent-exfiltration-channel/)
+- [Hardening C Against ROP: Getting CET Shadow Stacks Working](https://x86.lol/generic/2024/09/23/user-shadow-stacks.html)
+- [A few secure, random bytes without `pgcrypto`](https://brandur.org/fragments/secure-bytes-without-pgcrypto)
+- [Why Most Published Research Findings Are False &lpar;2005&rpar;](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124)
+- [On Impactful AI Research](https://github.com/okhat/blog/blob/main/2024.09.impact.md)
+- [Caroline Ellison sentenced to 2 years in prison](https://www.nytimes.com/2024/09/24/technology/caroline-ellison-ftx-sentence.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

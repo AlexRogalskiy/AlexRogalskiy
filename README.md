@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Tagged Union Subsets with Comptime in Zig](https://mitchellh.com/writing/zig-comptime-tagged-union-subset)
-- [Apple just added nine Macs to its &#39;obsolete products&#39; list](https://9to5mac.com/2024/09/23/apple-just-added-nine-macs-to-its-obsolete-products-list/)
-- [Building a reliable asynchronous arbiter is impossible](https://computationstructures.org/notes/arbitration/notes.html)
-- [Bootstrapped to 10K Users: Is B2B the Only Way to Monetize?](https://www.jobsolv.com/)
-- [AI can generate recipes that can be deadly. Food bloggers are not happy](https://www.npr.org/2024/09/23/g-s1-23843/artificial-intelligence-recipes-food-cooking-apple)
-- [Iocraft: a Rust crate for beautiful, artisanally crafted CLIs and text-based IO](https://github.com/ccbrown/iocraft)
-- [C Until It Is No Longer C](https://aartaka.me/c-not-c)
-- [A Study of Nuclear Semiotics [video]](https://www.youtube.com/watch?v=eZVIcl3YGAo)
-- [Model Networks&lpar;and Other Architectures for Preventing Semantic &quot;Nightmare&quot; Bugs&rpar;](https://blog.get-nerve.com/posts/model-networks)
-- [China has &#39;throttled&#39; its private sector](https://www.ft.com/content/1e9e7544-974c-4662-a901-d30c4ab56eb7)
+- [Show HN: Got It – Realtime, science-based communication coach](https://getgotit.io/)
+- [Crashing your production app with iteration](https://shiplog.nspain.dev/posts/crashing-your-production-app-with-iteration/)
+- [The Quick and Easy Guide to Jabber/XMPP](https://contrapunctus.codeberg.page/the-quick-and-easy-guide-to-xmpp.html)
+- [clojure.gdx – DSL for writing games](https://github.com/damn/clojure.gdx)
+- [Hola Access Worldwide Content](https://hola.org/)
+- [Pullpu.sh – Revolutionizing Solo Web Development](https://pullpu.sh)
+- [Buno: Personal App Studio on iOS – Build Private, Low-Code Apps](https://apps.apple.com/us/app/buno-personal-app-studio/id6627342018)
+- [FAA chief defends latest delay for SpaceX rocket launch](https://www.politico.com/news/2024/09/24/spacex-rocket-launch-delay-faa-00180730)
+- [Don&#39;t ever hand your phone to the cops](https://www.theverge.com/2024/9/24/24252235/police-unlock-phone-password-face-id-apple-wallet-id)
+- [Robin Shute tells how he chose the engine for his next Pike&#39;s Peak racer [video]](https://www.youtube.com/watch?v=a33c49lnk7I)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

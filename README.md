@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Inside a secret summit of Afghan women’s rights activists – podcast](https://www.theguardian.com/news/audio/2024/sep/24/inside-secret-summit-afghan-women-rights-activists-podcast)
-- [Japanese fighter jets fire flares at Russian aircraft for first time in airspace violation](https://www.theguardian.com/world/2024/sep/24/japan-fighter-jets-russian-aircraft-airspace-violation)
-- [Low-lying Pacific islands pin hopes on UN meeting as sea rise threatens survival](https://www.theguardian.com/environment/2024/sep/24/low-lying-pacific-islands-sea-level-rise-un-meeting)
-- [Viral South Korean Olympic shooter Kim Yeji scores first acting role – as an assassin](https://www.theguardian.com/sport/2024/sep/24/kim-yeji-viral-olympic-shooter-acting-assassin)
-- [The murder trial that captivated New Zealand](https://www.theguardian.com/world/2024/sep/24/philip-polkinghorne-murder-trial-pauline-hanna-new-zealand-ntwnfb)
-- [‘The table needs to be burned’: Mark Allen hits out at British Open conditions](https://www.theguardian.com/sport/2024/sep/24/mark-allen-snooker-british-open-conditions)
-- [Silk Roads review – mesmerising show turns world history upside down](https://www.theguardian.com/culture/2024/sep/24/silk-roads-review-british-museum-london)
-- [Kerry gives scathing rating on climate action: ‘Is there a letter underneath Z?’](https://www.theguardian.com/us-news/2024/sep/23/new-york-climate-week-al-gore-john-kerry-condemn-fossil-fuels)
-- [Telegram’s Pavel Durov announces new crackdown on illegal content after arrest](https://www.theguardian.com/technology/2024/sep/23/telegram-illegal-content-pavel-durov-arrest)
-- [Cost of taxpayer-funded grant for UK monarchy to rise by £45m](https://www.theguardian.com/uk-news/2024/sep/23/cost-of-grant-that-funds-uk-monarchy-to-rise-by-more-than-53)
+- [Hope, finally? Keir Starmer’s first conference in power – podcast](https://www.theguardian.com/news/audio/2024/sep/25/hope-finally-keir-starmer-first-conference-in-power-podcast)
+- [Missouri executes Marcellus Williams despite prosecutors’ push to overturn conviction](https://www.theguardian.com/us-news/2024/sep/24/missouri-executes-marcellus-williams)
+- [Finland zoo will return its giant pandas to China, blaming inflation](https://www.theguardian.com/world/2024/sep/25/finland-ahtari-zoo-giant-pandas-return-to-china)
+- [New ghost shark species with unusually long nose discovered in deep seas off New Zealand](https://www.theguardian.com/world/2024/sep/25/ghost-shark-new-species-spookfish-discovered-new-zealand)
+- [Man charged with attempting to assassinate Trump at Florida golf club](https://www.theguardian.com/us-news/2024/sep/24/man-charged-trump-assassination-attempt)
+- [A path towards freedom: the new route to Europe for desperate Chinese migrants](https://www.theguardian.com/world/2024/sep/25/a-path-towards-freedom-the-new-route-to-europe-for-desperate-chinese-migrants)
+- [Coriolanus review – David Oyelowo keeps you waiting and Es Devlin’s design is to die for](https://www.theguardian.com/stage/2024/sep/25/coriolanus-review-david-oyelowo-lyndsey-turner)
+- [Yorkshire has lowest ratio of bank branches to people in UK, says Which?](https://www.theguardian.com/business/2024/sep/25/yorkshire-ratio-of-bank-branches-to-people-uk-which)
+- [ASA bans adverts for Nike and Sky for using ‘dark pattern’ tactics](https://www.theguardian.com/media/2024/sep/25/asa-bans-adverts-for-nike-and-sky-for-using-dark-pattern-tactics)
+- [Women dying ‘unnecessarily’ of heart disease, say experts](https://www.theguardian.com/society/2024/sep/24/women-dying-unnecessarily-of-heart-disease-say-experts)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Hope, finally? Keir Starmer’s first conference in power – podcast](https://www.theguardian.com/news/audio/2024/sep/25/hope-finally-keir-starmer-first-conference-in-power-podcast)
-- [Missouri executes Marcellus Williams despite prosecutors’ push to overturn conviction](https://www.theguardian.com/us-news/2024/sep/24/missouri-executes-marcellus-williams)
-- [Finland zoo will return its giant pandas to China, blaming inflation](https://www.theguardian.com/world/2024/sep/25/finland-ahtari-zoo-giant-pandas-return-to-china)
-- [New ghost shark species with unusually long nose discovered in deep seas off New Zealand](https://www.theguardian.com/world/2024/sep/25/ghost-shark-new-species-spookfish-discovered-new-zealand)
-- [Man charged with attempting to assassinate Trump at Florida golf club](https://www.theguardian.com/us-news/2024/sep/24/man-charged-trump-assassination-attempt)
-- [A path towards freedom: the new route to Europe for desperate Chinese migrants](https://www.theguardian.com/world/2024/sep/25/a-path-towards-freedom-the-new-route-to-europe-for-desperate-chinese-migrants)
-- [Coriolanus review – David Oyelowo keeps you waiting and Es Devlin’s design is to die for](https://www.theguardian.com/stage/2024/sep/25/coriolanus-review-david-oyelowo-lyndsey-turner)
-- [Yorkshire has lowest ratio of bank branches to people in UK, says Which?](https://www.theguardian.com/business/2024/sep/25/yorkshire-ratio-of-bank-branches-to-people-uk-which)
-- [ASA bans adverts for Nike and Sky for using ‘dark pattern’ tactics](https://www.theguardian.com/media/2024/sep/25/asa-bans-adverts-for-nike-and-sky-for-using-dark-pattern-tactics)
-- [Women dying ‘unnecessarily’ of heart disease, say experts](https://www.theguardian.com/society/2024/sep/24/women-dying-unnecessarily-of-heart-disease-say-experts)
+- [Eric Adams, New York City mayor, reportedly indicted after corruption inquiry](https://www.theguardian.com/us-news/2024/sep/25/eric-adams-indicted-corruption-new-york-city)
+- [The bravery of Gisèle Pelicot in the rape trial horrifying France – podcast](https://www.theguardian.com/news/audio/2024/sep/26/bravery-of-gisele-pelicot-and-rape-the-trial-horrifying-france-podcast)
+- [Newsom vetoes key part of reparations package in another blow to deal](https://www.theguardian.com/us-news/2024/sep/25/gavin-newsom-vetoes-california-reparations-bill)
+- [France and US push for 21-day Hezbollah-Israel ceasefire in Lebanon as UN chief warns ‘hell is breaking loose’](https://www.theguardian.com/world/2024/sep/26/lebanon-temporary-ceasefire-plan-hezbollah-israel)
+- [Aymen Terkmani, notorious murderer of teenage boy, killed in NSW prison](https://www.theguardian.com/australia-news/2024/sep/26/aymen-terkmani-killed-in-prison-lithgow-nsw)
+- [Kamala Harris decries Trump’s abortion comments in first solo TV interview](https://www.theguardian.com/us-news/2024/sep/25/kamala-harris-trump-abortion-interview)
+- [Liane Moriarty: ‘I was wondering, “How is everyone on this plane going to die?”’](https://www.theguardian.com/lifeandstyle/article/2024/aug/31/liane-moriarty-i-was-wondering-how-is-everyone-on-this-plane-going-to-die)
+- [He’s 130, with three eyes and two girlfriends: meet New Zealand’s beloved tuatara Henry](https://www.theguardian.com/world/2024/sep/26/henry-new-zealand-tuatara-age-130)
+- [Pharmacy closures in England threaten plan to use them instead of GPs for some care](https://www.theguardian.com/society/2024/sep/26/pharmacy-closures-in-england-threaten-plan-to-use-them-instead-of-gps-for-some-care)
+- [Hamlet Hail to the Thief: Thom Yorke revisits Radiohead album for Shakespeare show](https://www.theguardian.com/stage/2024/sep/26/hamlet-hail-to-the-thief-thom-yorke-radiohead-shakespeare-manchester)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

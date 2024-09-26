@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: Got It – Realtime, science-based communication coach](https://getgotit.io/)
-- [Crashing your production app with iteration](https://shiplog.nspain.dev/posts/crashing-your-production-app-with-iteration/)
-- [The Quick and Easy Guide to Jabber/XMPP](https://contrapunctus.codeberg.page/the-quick-and-easy-guide-to-xmpp.html)
-- [clojure.gdx – DSL for writing games](https://github.com/damn/clojure.gdx)
-- [Hola Access Worldwide Content](https://hola.org/)
-- [Pullpu.sh – Revolutionizing Solo Web Development](https://pullpu.sh)
-- [Buno: Personal App Studio on iOS – Build Private, Low-Code Apps](https://apps.apple.com/us/app/buno-personal-app-studio/id6627342018)
-- [FAA chief defends latest delay for SpaceX rocket launch](https://www.politico.com/news/2024/09/24/spacex-rocket-launch-delay-faa-00180730)
-- [Don&#39;t ever hand your phone to the cops](https://www.theverge.com/2024/9/24/24252235/police-unlock-phone-password-face-id-apple-wallet-id)
-- [Robin Shute tells how he chose the engine for his next Pike&#39;s Peak racer [video]](https://www.youtube.com/watch?v=a33c49lnk7I)
+- [Enigmatic mummy from western China was swathed in cheese](https://www.science.org/content/article/enigmatic-mummy-western-china-was-swathed-cheese)
+- [Valve&#39;s Mike Blumenkrantz Hoping to Accelerate Wayland Protocol Development](https://www.phoronix.com/news/Blumenkrantz-Faster-Wayland)
+- [An Evaluation of the Remote Viewing Program: Operational Applications &lpar;1995&rpar; [pdf]](https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180005-5.pdf)
+- [MiniMax API](https://useapi.net/docs/api-minimax-v1)
+- [The ZeroMQ Guide](https://zguide.zeromq.org/)
+- [Larger AI models more likely to generate incorrect answers and mislead users](https://www.nature.com/articles/d41586-024-03137-3)
+- [Statial Adjustable Mouse – Charlie Pyott Design](https://pyottdesign.com/product/statial-b)
+- [X Transparency Report](https://transparency.x.com/en)
+- [Real World Performance Gains with Postgres 17B-Tree Bulk Scans](https://www.crunchydata.com/blog/real-world-performance-gains-with-postgres-17-btree-bulk-scans)
+- [Boss&#39;s Day Greetings](https://www.bravoboard.xyz/ideas/bosss-day-greetings-a-jedi-thank-you/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Microprogramming: A New Way to Program](https://breckyunits.com/microprograms.html)
-- [Hack GPON – how to access, change and edit fibre ONTs](https://hack-gpon.org/)
-- [Committing to Rust in the Kernel](https://lwn.net/SubscriberLink/991062/b0df468b40b21f5d/)
-- [Show HN: Hosting my website using my own C web server](https://github.com/cozis/blogtech)
-- [Hacker plants false memories in ChatGPT to steal user data in perpetuity](https://arstechnica.com/security/2024/09/false-memories-planted-in-chatgpt-give-hacker-persistent-exfiltration-channel/)
-- [Hardening C Against ROP: Getting CET Shadow Stacks Working](https://x86.lol/generic/2024/09/23/user-shadow-stacks.html)
-- [A few secure, random bytes without `pgcrypto`](https://brandur.org/fragments/secure-bytes-without-pgcrypto)
-- [Why Most Published Research Findings Are False &lpar;2005&rpar;](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124)
-- [On Impactful AI Research](https://github.com/okhat/blog/blob/main/2024.09.impact.md)
-- [Caroline Ellison sentenced to 2 years in prison](https://www.nytimes.com/2024/09/24/technology/caroline-ellison-ftx-sentence.html)
+- [OpenAI Discusses Giving Altman 7% Stake in For-Profit Shift](https://www.bloomberg.com/news/articles/2024-09-25/openai-cto-mira-murati-says-she-will-leave-the-company)
+- [Git-absorb: Git commit –fixup, but automatic](https://github.com/tummychow/git-absorb)
+- [Scientific rigor proponents retract paper on benefits of scientific rigor](https://www.science.org/content/article/we-are-embarrassed-scientific-rigor-proponents-retract-paper-benefits-scientific-rigor)
+- [Clara &lpar;YC S24&rpar; Is Hiring a Head of Growth](https://www.ycombinator.com/companies/clara/jobs/bB9fgEH-head-of-growth)
+- [Mira Murati leaves OpenAI](https://twitter.com/miramurati/status/1839025700009030027)
+- [Show HN: Httpdbg – A tool to trace the HTTP requests sent by your Python code](https://github.com/cle-b/httpdbg)
+- [Eliminating Memory Safety Vulnerabilities at the Source](https://security.googleblog.com/2024/09/eliminating-memory-safety-vulnerabilities-Android.html)
+- [How to avoid a BSOD on your 2B dollar spacecraft](https://clarkwakeland.com/blog/2024/avoiding-a-BSOD-on-your-satellite/)
+- [Orion, our first true augmented reality glasses](https://about.fb.com/news/2024/09/introducing-orion-our-first-true-augmented-reality-glasses/)
+- [Llama 3.2: Revolutionizing edge AI and vision with open, customizable models](https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-devices/?_fb_noscript=1)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Eric Adams, New York City mayor, reportedly indicted after corruption inquiry](https://www.theguardian.com/us-news/2024/sep/25/eric-adams-indicted-corruption-new-york-city)
-- [The bravery of Gisèle Pelicot in the rape trial horrifying France – podcast](https://www.theguardian.com/news/audio/2024/sep/26/bravery-of-gisele-pelicot-and-rape-the-trial-horrifying-france-podcast)
-- [Newsom vetoes key part of reparations package in another blow to deal](https://www.theguardian.com/us-news/2024/sep/25/gavin-newsom-vetoes-california-reparations-bill)
-- [France and US push for 21-day Hezbollah-Israel ceasefire in Lebanon as UN chief warns ‘hell is breaking loose’](https://www.theguardian.com/world/2024/sep/26/lebanon-temporary-ceasefire-plan-hezbollah-israel)
-- [Aymen Terkmani, notorious murderer of teenage boy, killed in NSW prison](https://www.theguardian.com/australia-news/2024/sep/26/aymen-terkmani-killed-in-prison-lithgow-nsw)
-- [Kamala Harris decries Trump’s abortion comments in first solo TV interview](https://www.theguardian.com/us-news/2024/sep/25/kamala-harris-trump-abortion-interview)
-- [Liane Moriarty: ‘I was wondering, “How is everyone on this plane going to die?”’](https://www.theguardian.com/lifeandstyle/article/2024/aug/31/liane-moriarty-i-was-wondering-how-is-everyone-on-this-plane-going-to-die)
-- [He’s 130, with three eyes and two girlfriends: meet New Zealand’s beloved tuatara Henry](https://www.theguardian.com/world/2024/sep/26/henry-new-zealand-tuatara-age-130)
-- [Pharmacy closures in England threaten plan to use them instead of GPs for some care](https://www.theguardian.com/society/2024/sep/26/pharmacy-closures-in-england-threaten-plan-to-use-them-instead-of-gps-for-some-care)
-- [Hamlet Hail to the Thief: Thom Yorke revisits Radiohead album for Shakespeare show](https://www.theguardian.com/stage/2024/sep/26/hamlet-hail-to-the-thief-thom-yorke-radiohead-shakespeare-manchester)
+- [Mona’s Ladies Lounge wins appeal in bid to continue barring men from entry](https://www.theguardian.com/artanddesign/2024/sep/27/mona-ladies-lounge-exhibit-discrimination-case-banning-men-appeal-overturned)
+- [Dozens of children drown in India during Hindu festival](https://www.theguardian.com/world/2024/sep/27/india-floods-death-toll-bihar-children-jivitputrika-vrat-hindu-festival-drownings)
+- [The deadliest week in Lebanon for decades – podcast](https://www.theguardian.com/news/audio/2024/sep/27/deadliest-week-in-lebanon-for-decades-podcast)
+- [Hurricane Helene intensifies to category 4 storm as it approaches Florida](https://www.theguardian.com/world/2024/sep/26/hurricane-helene-update-florida)
+- [I loved pygmy hippos long before the world fell for Moo Deng | Natasha May](https://www.theguardian.com/commentisfree/2024/sep/27/baby-pygmy-hippo-moo-deng-hippopotamus-zoo)
+- [Muriel’s Wedding at 30: why we still love this classic Australian film and its ‘terrible’ heroine](https://www.theguardian.com/film/2024/sep/27/muriels-wedding-at-30-classic-australian-movie-film)
+- [Alabama executes death-row prisoner with nitrogen gas](https://www.theguardian.com/us-news/2024/sep/26/alabama-nitrogen-gas-execution-alan-miller)
+- [US Catholic diocese agrees to pay $323m to child sexual abuse survivors](https://www.theguardian.com/us-news/2024/sep/26/new-york-catholic-diocese-rockville-centre)
+- [Ukraine war briefing: Trump to meet Zelenskyy, and refuses to say if Ukraine should cede territory to Russia](https://www.theguardian.com/world/2024/sep/27/ukraine-war-briefing-trump-to-meet-zelenskyy-and-refuses-to-say-if-ukraine-should-cede-territory-to-russia)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2024/sep/27/premier-league-10-things-to-look-out-for-this-weekend)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

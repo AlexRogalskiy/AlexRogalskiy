@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Enigmatic mummy from western China was swathed in cheese](https://www.science.org/content/article/enigmatic-mummy-western-china-was-swathed-cheese)
-- [Valve&#39;s Mike Blumenkrantz Hoping to Accelerate Wayland Protocol Development](https://www.phoronix.com/news/Blumenkrantz-Faster-Wayland)
-- [An Evaluation of the Remote Viewing Program: Operational Applications &lpar;1995&rpar; [pdf]](https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180005-5.pdf)
-- [MiniMax API](https://useapi.net/docs/api-minimax-v1)
-- [The ZeroMQ Guide](https://zguide.zeromq.org/)
-- [Larger AI models more likely to generate incorrect answers and mislead users](https://www.nature.com/articles/d41586-024-03137-3)
-- [Statial Adjustable Mouse – Charlie Pyott Design](https://pyottdesign.com/product/statial-b)
-- [X Transparency Report](https://transparency.x.com/en)
-- [Real World Performance Gains with Postgres 17B-Tree Bulk Scans](https://www.crunchydata.com/blog/real-world-performance-gains-with-postgres-17-btree-bulk-scans)
-- [Boss&#39;s Day Greetings](https://www.bravoboard.xyz/ideas/bosss-day-greetings-a-jedi-thank-you/)
+- [LG Smart TVs bring ads to the screensaver](https://www.engadget.com/entertainment/streaming/lg-smart-tvs-bring-ads-to-the-screensaver-131445950.html)
+- [How Much Science Is Fake?](https://osf.io/5rf2m/)
+- [Ask HN: What to do about startup job](https://news.ycombinator.com/item?id=41665739)
+- [1 in 7 scientific papers is fake](https://retractionwatch.com/2024/09/24/1-in-7-scientific-papers-is-fake-suggests-study-that-author-calls-wildly-nonsystematic/)
+- [Create your DESPERATE LinkedIn banner](https://toolkedin.jonnier.com/desperate)
+- [Ask HN: Is there a way to disable &quot;Chat With Gemini&quot; on Android?](https://news.ycombinator.com/item?id=41665709)
+- [Neuroimaging researchers pen statement protesting UK Biobank data-access changes](https://www.thetransmitter.org/community/neuroimaging-researchers-pen-statement-protesting-uk-biobank-data-access-changes/)
+- [How to Stop Self-Obsessing and Be Happier](https://www.theatlantic.com/ideas/archive/2024/09/self-obsession-happiness-dante/680017/)
+- [The Internet&#39;s AI Slop Problem Is Only Going to Get Worse](https://nymag.com/intelligencer/article/ai-generated-content-internet-online-slop-spam.html)
+- [How the U.S. Military Plans to Tackle Its &#39;Forever Chemical&#39; Problem](https://time.com/7024084/us-military-plan-tackle-forever-chemicals/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

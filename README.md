@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [OpenAI Discusses Giving Altman 7% Stake in For-Profit Shift](https://www.bloomberg.com/news/articles/2024-09-25/openai-cto-mira-murati-says-she-will-leave-the-company)
-- [Git-absorb: Git commit –fixup, but automatic](https://github.com/tummychow/git-absorb)
-- [Scientific rigor proponents retract paper on benefits of scientific rigor](https://www.science.org/content/article/we-are-embarrassed-scientific-rigor-proponents-retract-paper-benefits-scientific-rigor)
-- [Clara &lpar;YC S24&rpar; Is Hiring a Head of Growth](https://www.ycombinator.com/companies/clara/jobs/bB9fgEH-head-of-growth)
-- [Mira Murati leaves OpenAI](https://twitter.com/miramurati/status/1839025700009030027)
-- [Show HN: Httpdbg – A tool to trace the HTTP requests sent by your Python code](https://github.com/cle-b/httpdbg)
-- [Eliminating Memory Safety Vulnerabilities at the Source](https://security.googleblog.com/2024/09/eliminating-memory-safety-vulnerabilities-Android.html)
-- [How to avoid a BSOD on your 2B dollar spacecraft](https://clarkwakeland.com/blog/2024/avoiding-a-BSOD-on-your-satellite/)
-- [Orion, our first true augmented reality glasses](https://about.fb.com/news/2024/09/introducing-orion-our-first-true-augmented-reality-glasses/)
-- [Llama 3.2: Revolutionizing edge AI and vision with open, customizable models](https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-devices/?_fb_noscript=1)
+- [Should Sports Betting Be Banned?](https://www.maximum-progress.com/p/should-sports-betting-be-banned)
+- [Sony, Ubisoft scandals lead to California ban on deceptive digital goods sales](https://arstechnica.com/tech-policy/2024/09/sony-ubisoft-scandals-prompt-calif-ban-on-deceptive-sales-of-digital-goods/)
+- [Small3dlib: Suckless PD 3D software rasterizer](https://codeberg.org/drummyfish/small3dlib)
+- [Cityfurnish &lpar;YC W19&rpar; Is Hiring](https://www.ycombinator.com/companies/cityfurnish/jobs/7EVvWqp-performance-marketing-head)
+- [Sam Altman tells staff there’s no plan for him to receive ‘giant equity stake’](https://www.cnbc.com/2024/09/26/openais-sam-altman-tells-employees-he-didnt-get-giant-equity-stake.html)
+- [BookStack: Simple and Free Wiki Software](https://www.bookstackapp.com/)
+- [When Insurers Exit: Climate Losses, Fragile Insurers, and Mortgage Markets [pdf]](https://www.hbs.edu/ris/Publication%20Files/24-051_f1329bc3-d296-4ffa-aff3-a9e4b8e98e9d.pdf)
+- [Vanilla OS 2: an immutable distribution to run all software](https://lwn.net/Articles/989629/)
+- [Our Android app is frozen in carbonite](https://ia.net/topics/our-android-app-is-frozen-in-carbonite)
+- [Stem cells reverse woman’s diabetes](https://www.nature.com/articles/d41586-024-03129-3)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

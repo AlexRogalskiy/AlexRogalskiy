@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Mona’s Ladies Lounge wins appeal in bid to continue barring men from entry](https://www.theguardian.com/artanddesign/2024/sep/27/mona-ladies-lounge-exhibit-discrimination-case-banning-men-appeal-overturned)
-- [Dozens of children drown in India during Hindu festival](https://www.theguardian.com/world/2024/sep/27/india-floods-death-toll-bihar-children-jivitputrika-vrat-hindu-festival-drownings)
-- [The deadliest week in Lebanon for decades – podcast](https://www.theguardian.com/news/audio/2024/sep/27/deadliest-week-in-lebanon-for-decades-podcast)
-- [Hurricane Helene intensifies to category 4 storm as it approaches Florida](https://www.theguardian.com/world/2024/sep/26/hurricane-helene-update-florida)
-- [I loved pygmy hippos long before the world fell for Moo Deng | Natasha May](https://www.theguardian.com/commentisfree/2024/sep/27/baby-pygmy-hippo-moo-deng-hippopotamus-zoo)
-- [Muriel’s Wedding at 30: why we still love this classic Australian film and its ‘terrible’ heroine](https://www.theguardian.com/film/2024/sep/27/muriels-wedding-at-30-classic-australian-movie-film)
-- [Alabama executes death-row prisoner with nitrogen gas](https://www.theguardian.com/us-news/2024/sep/26/alabama-nitrogen-gas-execution-alan-miller)
-- [US Catholic diocese agrees to pay $323m to child sexual abuse survivors](https://www.theguardian.com/us-news/2024/sep/26/new-york-catholic-diocese-rockville-centre)
-- [Ukraine war briefing: Trump to meet Zelenskyy, and refuses to say if Ukraine should cede territory to Russia](https://www.theguardian.com/world/2024/sep/27/ukraine-war-briefing-trump-to-meet-zelenskyy-and-refuses-to-say-if-ukraine-should-cede-territory-to-russia)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2024/sep/27/premier-league-10-things-to-look-out-for-this-weekend)
+- [Middle East crisis live: Israel launches more strikes on Beirut as six people reported dead from earlier attack](https://www.theguardian.com/world/live/2024/sep/27/israel-lebanon-hezbollah-gaza-war-hamas-middle-east-news-latest-updates)
+- [Trump vows to seek criminal charges against Google if re-elected president](https://www.theguardian.com/us-news/2024/sep/27/trump-google-threat-criminal-charges)
+- [ABC rejects Russian claim two journalists involved in ‘illegal’ border crossing](https://www.theguardian.com/media/2024/sep/28/abc-rejects-russian-claim-two-journalists-involved-in-border-crossing)
+- [Boris Johnson: we considered ‘aquatic raid’ on Netherlands to seize Covid vaccine](https://www.theguardian.com/world/2024/sep/27/boris-johnson-considered-raid-dutch-warehouse-seize-covid-vaccine)
+- [Never Let Me Go review – fresh life found in Kazuo Ishiguro’s school dystopia](https://www.theguardian.com/stage/2024/sep/28/never-let-me-go-review-rose-theatre-kingston)
+- [Victoria Beckham muses on the act of dressing in new Paris collection](https://www.theguardian.com/fashion/2024/sep/27/victoria-beckham-muses-on-the-act-of-dressing-in-new-paris-collection)
+- [Hurricane Helene: dozens dead as storm pummels south-eastern US](https://www.theguardian.com/us-news/2024/sep/27/hurricane-helene-causes-at-least-five-deaths-as-deadly-storm-hits-multiple-us-states)
+- [Viral Hollywood Hills mansion covered with graffiti closed down after arrests](https://www.theguardian.com/us-news/2024/sep/27/hollywood-hills-mansion-graffiti-vandalism-arrest)
+- [Happily gator after: Lana Del Rey marries Louisiana swamp tour guide](https://www.theguardian.com/music/2024/sep/27/lana-del-rey-married-jeremy-dufrene)
+- [Guardiola tells Arteta to clarify claim he has ‘all the information’ on City](https://www.theguardian.com/football/2024/sep/27/manchester-city-arsenal-pep-guardiola-mikel-arteta-have-all-the-information)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

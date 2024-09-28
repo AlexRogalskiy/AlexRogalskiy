@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [LG Smart TVs bring ads to the screensaver](https://www.engadget.com/entertainment/streaming/lg-smart-tvs-bring-ads-to-the-screensaver-131445950.html)
-- [How Much Science Is Fake?](https://osf.io/5rf2m/)
-- [Ask HN: What to do about startup job](https://news.ycombinator.com/item?id=41665739)
-- [1 in 7 scientific papers is fake](https://retractionwatch.com/2024/09/24/1-in-7-scientific-papers-is-fake-suggests-study-that-author-calls-wildly-nonsystematic/)
-- [Create your DESPERATE LinkedIn banner](https://toolkedin.jonnier.com/desperate)
-- [Ask HN: Is there a way to disable &quot;Chat With Gemini&quot; on Android?](https://news.ycombinator.com/item?id=41665709)
-- [Neuroimaging researchers pen statement protesting UK Biobank data-access changes](https://www.thetransmitter.org/community/neuroimaging-researchers-pen-statement-protesting-uk-biobank-data-access-changes/)
-- [How to Stop Self-Obsessing and Be Happier](https://www.theatlantic.com/ideas/archive/2024/09/self-obsession-happiness-dante/680017/)
-- [The Internet&#39;s AI Slop Problem Is Only Going to Get Worse](https://nymag.com/intelligencer/article/ai-generated-content-internet-online-slop-spam.html)
-- [How the U.S. Military Plans to Tackle Its &#39;Forever Chemical&#39; Problem](https://time.com/7024084/us-military-plan-tackle-forever-chemicals/)
+- [Meta pays the price for storing passwords in plaintext](https://arstechnica.com/security/2024/09/meta-slapped-with-101-million-fine-for-storing-passwords-in-plaintext/)
+- [Synfig Studio – Open-Source 2D Animation Software](https://www.synfig.org/)
+- [Radio-obsessed civilian shaping Ukraine&#39;s drone defense](https://www.technologyreview.com/2024/09/12/1103833/ukraine-russia-drone-war-flash-radio-serhii-beskrestnov-social-media/)
+- [JamesIves/GitHub-pages-deploy-action: File not found v4/lib/main.js](https://github.com/JamesIves/github-pages-deploy-action/issues/1697)
+- [Recreating Dune II for the Amiga](https://spillhistorie.no/recreating-dune-ii-for-the-amiga/)
+- [Touch Screens Are Over. Even Apple Is Bringing Back Buttons](https://www.wsj.com/tech/personal-tech/touch-screens-are-over-even-apple-is-bringing-back-buttons-86fb9ea8)
+- [Lidar-based system helps unmanned aerial vehicle team reconstruct environments](https://techxplore.com/news/2024-09-lidar-based-unmanned-aerial-vehicle.html)
+- [Apple No Longer in Talks to Join OpenAI Investment Round](https://www.wsj.com/tech/apple-no-longer-in-talks-to-join-openai-investment-round-e3be3e66)
+- [New study shows AI can forecast mining disasters](https://techxplore.com/news/2024-09-ai-disasters.html)
+- [Show HN: Malaysian ed-tech product for STPM students](https://pengajianam.com/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

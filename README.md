@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Should Sports Betting Be Banned?](https://www.maximum-progress.com/p/should-sports-betting-be-banned)
-- [Sony, Ubisoft scandals lead to California ban on deceptive digital goods sales](https://arstechnica.com/tech-policy/2024/09/sony-ubisoft-scandals-prompt-calif-ban-on-deceptive-sales-of-digital-goods/)
-- [Small3dlib: Suckless PD 3D software rasterizer](https://codeberg.org/drummyfish/small3dlib)
-- [Cityfurnish &lpar;YC W19&rpar; Is Hiring](https://www.ycombinator.com/companies/cityfurnish/jobs/7EVvWqp-performance-marketing-head)
-- [Sam Altman tells staff there’s no plan for him to receive ‘giant equity stake’](https://www.cnbc.com/2024/09/26/openais-sam-altman-tells-employees-he-didnt-get-giant-equity-stake.html)
-- [BookStack: Simple and Free Wiki Software](https://www.bookstackapp.com/)
-- [When Insurers Exit: Climate Losses, Fragile Insurers, and Mortgage Markets [pdf]](https://www.hbs.edu/ris/Publication%20Files/24-051_f1329bc3-d296-4ffa-aff3-a9e4b8e98e9d.pdf)
-- [Vanilla OS 2: an immutable distribution to run all software](https://lwn.net/Articles/989629/)
-- [Our Android app is frozen in carbonite](https://ia.net/topics/our-android-app-is-frozen-in-carbonite)
-- [Stem cells reverse woman’s diabetes](https://www.nature.com/articles/d41586-024-03129-3)
+- [US Trademark Office Cancels Marvel, DC&#39;s &#39;Super Hero&#39; Marks](https://www.reuters.com/legal/litigation/us-trademark-office-cancels-marvel-dcs-super-hero-marks-2024-09-26/)
+- [Charge Robotics &lpar;YC S21&rpar; is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
+- [Lion Cove: Intel&#39;s P-Core Roars](https://chipsandcheese.com/2024/09/27/lion-cove-intels-p-core-roars/)
+- [Python for Inversive and Hyperbolic Geometry](https://coe.psu.ac.th/ad/invhyper/)
+- [Obsessed with Cuttle: Parametric CAD for prototyping, producing, and procrastin](https://hannahilea.com/blog/cuttle-obsession/)
+- [AMD Unveils Its First Small Language Model AMD-135M](https://community.amd.com/t5/ai/amd-unveils-its-first-small-language-model-amd-135m/ba-p/711368)
+- [The Architecture of London Pubs &lpar;1966&rpar;](https://thelondonmagazine.org/archive-the-architecture-of-london-pubs-by-stephen-gardiner/)
+- [SAML: A Technical Primer](https://ssoready.com/docs/saml/saml-technical-primer)
+- [Ceefax and the Birth of Interactive TV](https://www.bbc.com/articles/cvg360rr91zo)
+- [Fraud, so much fraud](https://www.science.org/content/blog-post/fraud-so-much-fraud)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

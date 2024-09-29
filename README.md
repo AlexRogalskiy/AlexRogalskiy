@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Meta pays the price for storing passwords in plaintext](https://arstechnica.com/security/2024/09/meta-slapped-with-101-million-fine-for-storing-passwords-in-plaintext/)
-- [Synfig Studio – Open-Source 2D Animation Software](https://www.synfig.org/)
-- [Radio-obsessed civilian shaping Ukraine&#39;s drone defense](https://www.technologyreview.com/2024/09/12/1103833/ukraine-russia-drone-war-flash-radio-serhii-beskrestnov-social-media/)
-- [JamesIves/GitHub-pages-deploy-action: File not found v4/lib/main.js](https://github.com/JamesIves/github-pages-deploy-action/issues/1697)
-- [Recreating Dune II for the Amiga](https://spillhistorie.no/recreating-dune-ii-for-the-amiga/)
-- [Touch Screens Are Over. Even Apple Is Bringing Back Buttons](https://www.wsj.com/tech/personal-tech/touch-screens-are-over-even-apple-is-bringing-back-buttons-86fb9ea8)
-- [Lidar-based system helps unmanned aerial vehicle team reconstruct environments](https://techxplore.com/news/2024-09-lidar-based-unmanned-aerial-vehicle.html)
-- [Apple No Longer in Talks to Join OpenAI Investment Round](https://www.wsj.com/tech/apple-no-longer-in-talks-to-join-openai-investment-round-e3be3e66)
-- [New study shows AI can forecast mining disasters](https://techxplore.com/news/2024-09-ai-disasters.html)
-- [Show HN: Malaysian ed-tech product for STPM students](https://pengajianam.com/)
+- [Web Components Are Okay](https://nolanlawson.com/2024/09/28/web-components-are-okay/)
+- [New typing features in Python 3.13](https://medium.com/techtofreedom/7-new-typing-features-in-python-3-13-58caae5f2f10)
+- [America&#39;s Young Men Are Falling Even Further Behind](https://www.wsj.com/lifestyle/careers/young-american-men-lost-c1d799f7)
+- [Two Colorado ranchers falsified a drought for their own gain](https://coloradosun.com/2024/09/08/patrich-esch-ed-dean-jagers-ranchers-fraud-insurance/)
+- [How to Fall Down a Rabbit Hole](https://syllabusproject.org/how-to-fall-down-a-rabbit-hole/)
+- [A Plasma Toroid Project](https://github.com/Skylakc/Plasma-Toroid)
+- [Experts Warn of Growing Inhalant Trend on TikTok as &#39;Chroming&#39; Gains Popularity](https://gizmodo.com/experts-warn-of-growing-inhalant-trend-on-tiktok-as-chroming-gains-popularity-2000504340)
+- [Math Proves the Fastest, Most Efficient Way to Board a Plane &lpar;2020&rpar;](https://www.popularmechanics.com/science/a30549336/math-boarding-plane/)
+- [Startup and Co-Founder Spouse](https://news.ycombinator.com/item?id=41684340)
+- [Google Dawn](https://github.com/google/dawn)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

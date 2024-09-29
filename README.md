@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Middle East crisis live: Israel launches more strikes on Beirut as six people reported dead from earlier attack](https://www.theguardian.com/world/live/2024/sep/27/israel-lebanon-hezbollah-gaza-war-hamas-middle-east-news-latest-updates)
-- [Trump vows to seek criminal charges against Google if re-elected president](https://www.theguardian.com/us-news/2024/sep/27/trump-google-threat-criminal-charges)
-- [ABC rejects Russian claim two journalists involved in ‘illegal’ border crossing](https://www.theguardian.com/media/2024/sep/28/abc-rejects-russian-claim-two-journalists-involved-in-border-crossing)
-- [Boris Johnson: we considered ‘aquatic raid’ on Netherlands to seize Covid vaccine](https://www.theguardian.com/world/2024/sep/27/boris-johnson-considered-raid-dutch-warehouse-seize-covid-vaccine)
-- [Never Let Me Go review – fresh life found in Kazuo Ishiguro’s school dystopia](https://www.theguardian.com/stage/2024/sep/28/never-let-me-go-review-rose-theatre-kingston)
-- [Victoria Beckham muses on the act of dressing in new Paris collection](https://www.theguardian.com/fashion/2024/sep/27/victoria-beckham-muses-on-the-act-of-dressing-in-new-paris-collection)
-- [Hurricane Helene: dozens dead as storm pummels south-eastern US](https://www.theguardian.com/us-news/2024/sep/27/hurricane-helene-causes-at-least-five-deaths-as-deadly-storm-hits-multiple-us-states)
-- [Viral Hollywood Hills mansion covered with graffiti closed down after arrests](https://www.theguardian.com/us-news/2024/sep/27/hollywood-hills-mansion-graffiti-vandalism-arrest)
-- [Happily gator after: Lana Del Rey marries Louisiana swamp tour guide](https://www.theguardian.com/music/2024/sep/27/lana-del-rey-married-jeremy-dufrene)
-- [Guardiola tells Arteta to clarify claim he has ‘all the information’ on City](https://www.theguardian.com/football/2024/sep/27/manchester-city-arsenal-pep-guardiola-mikel-arteta-have-all-the-information)
+- [Catholic Belgian university ‘deplores’ comments by Pope Francis moments after speech](https://www.theguardian.com/world/2024/sep/29/catholic-belgian-university-deplores-comments-by-pope-francis-moments-after-speech)
+- [Ukraine war briefing: Russian attacks on hospital in Ukraine’s Sumy kill 10, Kyiv says](https://www.theguardian.com/world/2024/sep/29/ukraine-war-briefing-russian-attacks-on-hospital-in-ukraines-sumy-kill-10-kyiv-says)
+- [Heated eyeballs, inflatable body armour and ‘simultaneous pleasure and torment’: is this the future of relaxation?](https://www.theguardian.com/lifeandstyle/2024/sep/29/massage-devices-australia-best)
+- [Trump leans into anti-immigrant rants and Harris barbs at Wisconsin rally](https://www.theguardian.com/us-news/2024/sep/28/trump-wisconsin-immigration-speech)
+- [Calendar chaos for Chelsea as Women’s Champions League fixtures announced](https://www.theguardian.com/football/2024/sep/29/chelsea-womens-champions-league-fixtures-announced)
+- [A little light enters the shade of McQueen’s gothic DNA in Paris](https://www.theguardian.com/fashion/2024/sep/28/a-little-light-enters-the-shade-of-mcqueens-gothic-dna-in-paris)
+- [Strike a pose: standout trends from the season’s key collections – in pictures](https://www.theguardian.com/fashion/gallery/2024/sep/28/strike-a-pose-standout-trends-from-the-seasons-key-collections-in-pictures)
+- [The moment I knew: while I retrieved the car, she was fighting hard to keep the boat off the rocky shore](https://www.theguardian.com/lifeandstyle/2024/sep/29/cameron-daddo-wife-ali-brahe-memoir-keep-it-smooth-interview)
+- [Nine dead and 48 missing after migrant boat sinks off Canary Islands](https://www.theguardian.com/world/2024/sep/28/nine-dead-and-48-missing-after-migrant-boat-sinks-off-canary-islands)
+- [At least 64 dead and millions without power after Helene devastates south-eastern US](https://www.theguardian.com/us-news/2024/sep/28/hurricane-helene-devastation-us-south-east)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

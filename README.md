@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Catholic Belgian university ‘deplores’ comments by Pope Francis moments after speech](https://www.theguardian.com/world/2024/sep/29/catholic-belgian-university-deplores-comments-by-pope-francis-moments-after-speech)
-- [Ukraine war briefing: Russian attacks on hospital in Ukraine’s Sumy kill 10, Kyiv says](https://www.theguardian.com/world/2024/sep/29/ukraine-war-briefing-russian-attacks-on-hospital-in-ukraines-sumy-kill-10-kyiv-says)
-- [Heated eyeballs, inflatable body armour and ‘simultaneous pleasure and torment’: is this the future of relaxation?](https://www.theguardian.com/lifeandstyle/2024/sep/29/massage-devices-australia-best)
-- [Trump leans into anti-immigrant rants and Harris barbs at Wisconsin rally](https://www.theguardian.com/us-news/2024/sep/28/trump-wisconsin-immigration-speech)
-- [Calendar chaos for Chelsea as Women’s Champions League fixtures announced](https://www.theguardian.com/football/2024/sep/29/chelsea-womens-champions-league-fixtures-announced)
-- [A little light enters the shade of McQueen’s gothic DNA in Paris](https://www.theguardian.com/fashion/2024/sep/28/a-little-light-enters-the-shade-of-mcqueens-gothic-dna-in-paris)
-- [Strike a pose: standout trends from the season’s key collections – in pictures](https://www.theguardian.com/fashion/gallery/2024/sep/28/strike-a-pose-standout-trends-from-the-seasons-key-collections-in-pictures)
-- [The moment I knew: while I retrieved the car, she was fighting hard to keep the boat off the rocky shore](https://www.theguardian.com/lifeandstyle/2024/sep/29/cameron-daddo-wife-ali-brahe-memoir-keep-it-smooth-interview)
-- [Nine dead and 48 missing after migrant boat sinks off Canary Islands](https://www.theguardian.com/world/2024/sep/28/nine-dead-and-48-missing-after-migrant-boat-sinks-off-canary-islands)
-- [At least 64 dead and millions without power after Helene devastates south-eastern US](https://www.theguardian.com/us-news/2024/sep/28/hurricane-helene-devastation-us-south-east)
+- [Israel launches apparent rare strike on central Beirut amid further attacks across Lebanon and Yemen](https://www.theguardian.com/world/2024/sep/30/lebanon-beirut-israel-strikes-yemen-hezbollah-latest-news)
+- [The mysteries of IBS – podcast](https://www.theguardian.com/news/audio/2024/sep/30/the-mysteries-of-ibs-podcast)
+- [Ukraine war briefing: 16 injured in Russian attacks on city of Zaporizhzhia](https://www.theguardian.com/world/2024/sep/30/ukraine-war-briefing-zaporizhzhia-attacks-injured-russia)
+- [Kris Kristofferson – a life in pictures](https://www.theguardian.com/music/gallery/2024/sep/30/kris-kristofferson-death-age-88-life-in-pictures-career)
+- [England begin WXV 1 defence with crushing victory over USA](https://www.theguardian.com/sport/2024/sep/29/england-begin-wxv-1-defence-with-crushing-victory-over-usa)
+- [Hurricane Helene’s ‘historic flooding’ made worse by global heating, Fema says](https://www.theguardian.com/us-news/2024/sep/29/hurricane-helene-historic-flooding-global-heating-fema)
+- [Number of UK estate agents going bust rises almost a third in one year](https://www.theguardian.com/money/2024/sep/30/number-of-uk-estate-agents-going-bust-rises-almost-a-third-in-one-year)
+- [End of an era as Britain’s last coal-fired power plant shuts down](https://www.theguardian.com/business/2024/sep/30/end-of-an-era-as-britains-last-coal-fired-power-plant-shuts-down)
+- [UK business confidence dips to lowest level since general election](https://www.theguardian.com/business/2024/sep/30/uk-business-confidence-dips-to-lowest-level-since-general-election)
+- [Harris to hold Las Vegas rally as Nevada becomes crucial swing state in election](https://www.theguardian.com/us-news/2024/sep/29/kamala-harris-las-vegas-rally-swing-state-nevada)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

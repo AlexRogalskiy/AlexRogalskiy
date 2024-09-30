@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Web Components Are Okay](https://nolanlawson.com/2024/09/28/web-components-are-okay/)
-- [New typing features in Python 3.13](https://medium.com/techtofreedom/7-new-typing-features-in-python-3-13-58caae5f2f10)
-- [America&#39;s Young Men Are Falling Even Further Behind](https://www.wsj.com/lifestyle/careers/young-american-men-lost-c1d799f7)
-- [Two Colorado ranchers falsified a drought for their own gain](https://coloradosun.com/2024/09/08/patrich-esch-ed-dean-jagers-ranchers-fraud-insurance/)
-- [How to Fall Down a Rabbit Hole](https://syllabusproject.org/how-to-fall-down-a-rabbit-hole/)
-- [A Plasma Toroid Project](https://github.com/Skylakc/Plasma-Toroid)
-- [Experts Warn of Growing Inhalant Trend on TikTok as &#39;Chroming&#39; Gains Popularity](https://gizmodo.com/experts-warn-of-growing-inhalant-trend-on-tiktok-as-chroming-gains-popularity-2000504340)
-- [Math Proves the Fastest, Most Efficient Way to Board a Plane &lpar;2020&rpar;](https://www.popularmechanics.com/science/a30549336/math-boarding-plane/)
-- [Startup and Co-Founder Spouse](https://news.ycombinator.com/item?id=41684340)
-- [Google Dawn](https://github.com/google/dawn)
+- [Kagi.com Welcome Page Source Code](https://news.ycombinator.com/item?id=41693029)
+- [SPARC Console font from Sun machines via Linux kernel &lpar;2017&rpar;](https://ubuntuforums.org/showthread.php?t=2356167&s=f531b970e95a35a5e5c5305f0d0bc63d)
+- [US East and Gulf Coast Ports Face Shutdown as Union Announces Intent to Strike](https://gcaptain.com/us-east-and-gulf-coast-ports-face-imminent-shutdown-as-union-announces-intent-to-strike/)
+- [Dragon Quest Censored by ESG](https://twitter.com/saou0345/status/1840243748007219257)
+- [How AI Agents Will Transform Work by 2030](https://venturebeat.com/ai/onboarding-the-ai-workforce-how-digital-agents-will-redefine-work-itself/)
+- [How to Get the Most Out of a Conference](https://www.autodidacts.io/conference-tips/)
+- [Koalas are up power poles, on roads, in schools. Outlook for koalas remains poor](https://www.cnn.com/2024/09/28/australia/australia-endangered-koalas-queensland-intl-hnk-dst/index.html)
+- [The death of King George V &lpar;2021&rpar;](https://hekint.org/2021/10/01/the-death-of-king-george-v/)
+- [Show HN: Pure CSS silky Border line animation&lpar;open-source code&rpar;](https://github.com/volume988/button-motion)
+- [Built DIY-It: A Platform for DIY Projects Looking for Feedback and Insights](https://diyit.app)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

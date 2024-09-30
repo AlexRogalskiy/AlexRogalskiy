@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Controversial Windows Recall AI Search Tool Returns with Proof-of-Presence](https://www.securityweek.com/microsofts-controversial-recall-returns-with-proof-of-presence-encryption-data-isolation-opt-in-model/)
-- [Too much efficiency makes everything worse](https://sohl-dickstein.github.io/2022/11/06/strong-Goodhart.html)
-- [Cores That Don&#39;t Count [pdf]](https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s01-hochschild.pdf)
-- [Man-in-the-Middle PCB Unlocks HP Ink Cartridges](https://hackaday.com/2024/09/28/man-in-the-middle-pcb-unlocks-hp-ink-cartridges/)
-- [Notes on the Crystal Language](https://wiki.alopex.li/CrystalNotes)
-- [What the heck is going on with WordPress?](https://paolo.blog/blog/what-the-heck-is-going-on-with-wordpress/)
-- [Notion&#39;s mid-life crisis](https://www.jjinux.com/2024/09/notions-mid-life-crisis.html)
-- [Show HN: Open-source app builder for comfy workflows](https://github.com/ViewComfy/ViewComfy)
-- [SpaceX launches mission for 2 NASA astronauts who are stuck on the ISS](https://apnews.com/article/spacex-launch-boeing-nasa-stuck-astronauts-e179d0dc6c77d224278fd0430148ff8b)
-- [How Discord stores trillions of messages](https://discord.com/blog/how-discord-stores-trillions-of-messages)
+- [Angry Amazon employees are &#39;rage applying&#39; for new jobs after RTO mandate](https://fortune.com/2024/09/29/amazon-employees-angry-andy-jassy-rto-mandate/)
+- [Visual Studio Code is designed to fracture](https://ghuntley.com/fracture/)
+- [Modifying the ThinkPad 13 Gen 1 to unlock its full PCIe potential](https://bassusteur.github.io/2024/08/07/thinkpad13nvme.html)
+- [On With Theo / T3.gg](https://ma.tt/2024/09/t3/)
+- [Gavin Newsom vetoes SB 1047](https://www.wsj.com/tech/ai/californias-gavin-newsom-vetoes-controversial-ai-safety-bill-d526f621)
+- [Ask HN: What are you working on &lpar;September 2024&rpar;?](https://news.ycombinator.com/item?id=41690087)
+- [Build a serverless ACID database with this one neat trick &lpar;atomic PutIfAbsent&rpar;](https://notes.eatonphil.com/2024-09-29-build-a-serverless-acid-database-with-this-one-neat-trick.html)
+- [Ruby Meetups](https://rubyconferences.org/meetups/)
+- [&#39;Three New York Cities&#39; Worth of Power: AI Is Stressing the Grid](https://www.wsj.com/business/energy-oil/ai-data-center-boom-spurs-race-to-find-power-87cf39dd)
+- [A Taxonomy of Tech Debt &lpar;2018&rpar;](https://technology.riotgames.com/news/taxonomy-tech-debt)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Angry Amazon employees are &#39;rage applying&#39; for new jobs after RTO mandate](https://fortune.com/2024/09/29/amazon-employees-angry-andy-jassy-rto-mandate/)
-- [Visual Studio Code is designed to fracture](https://ghuntley.com/fracture/)
-- [Modifying the ThinkPad 13 Gen 1 to unlock its full PCIe potential](https://bassusteur.github.io/2024/08/07/thinkpad13nvme.html)
-- [On With Theo / T3.gg](https://ma.tt/2024/09/t3/)
-- [Gavin Newsom vetoes SB 1047](https://www.wsj.com/tech/ai/californias-gavin-newsom-vetoes-controversial-ai-safety-bill-d526f621)
-- [Ask HN: What are you working on &lpar;September 2024&rpar;?](https://news.ycombinator.com/item?id=41690087)
-- [Build a serverless ACID database with this one neat trick &lpar;atomic PutIfAbsent&rpar;](https://notes.eatonphil.com/2024-09-29-build-a-serverless-acid-database-with-this-one-neat-trick.html)
-- [Ruby Meetups](https://rubyconferences.org/meetups/)
-- [&#39;Three New York Cities&#39; Worth of Power: AI Is Stressing the Grid](https://www.wsj.com/business/energy-oil/ai-data-center-boom-spurs-race-to-find-power-87cf39dd)
-- [A Taxonomy of Tech Debt &lpar;2018&rpar;](https://technology.riotgames.com/news/taxonomy-tech-debt)
+- [Essential Node in Global Semiconductor Supply Chain Hit by Hurricane Helene](https://hntrbrk.com/essential-node-in-global-semiconductor-supply-chain-hit-by-hurricane-helene-video-reveals-entrance-to-mine-has-flooded/)
+- [A Comprehensive Analysis of Package Hallucinations by Code Generating LLMs](https://arxiv.org/abs/2406.10279)
+- [Boris Vallejo and the Pixel Art of the Demoscene](https://marincomics.com/vallejo-pixelart.html)
+- [AI chipmaker Cerebras files for IPO to take on Nvidia](https://www.cnbc.com/2024/09/30/cerebras-files-for-ipo.html)
+- [Tim Peters – Dispelling Information Asymmetry](https://tim-one.github.io/psf/ban.html)
+- [BorgBackup 2.0 supports Rclone – over 70 cloud providers in addition to SSH](https://borgbackup.readthedocs.io/en/2.0.0b11/changes.html#version-2-0-0b11-2024-09-26)
+- [Show HN: Venator – open-source Threat Detection Platform](https://github.com/nianticlabs/venator)
+- [Show HN: qrframe – generate beautiful qr codes with javascript code](https://github.com/zhengkyl/qrframe)
+- [MusicBrainz: An open music encyclopedia](https://musicbrainz.org/)
+- [California bans legacy admissions at private universities](https://www.nytimes.com/2024/09/30/us/california-bans-legacy-admissions-private-universities.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Kagi.com Welcome Page Source Code](https://news.ycombinator.com/item?id=41693029)
-- [SPARC Console font from Sun machines via Linux kernel &lpar;2017&rpar;](https://ubuntuforums.org/showthread.php?t=2356167&s=f531b970e95a35a5e5c5305f0d0bc63d)
-- [US East and Gulf Coast Ports Face Shutdown as Union Announces Intent to Strike](https://gcaptain.com/us-east-and-gulf-coast-ports-face-imminent-shutdown-as-union-announces-intent-to-strike/)
-- [Dragon Quest Censored by ESG](https://twitter.com/saou0345/status/1840243748007219257)
-- [How AI Agents Will Transform Work by 2030](https://venturebeat.com/ai/onboarding-the-ai-workforce-how-digital-agents-will-redefine-work-itself/)
-- [How to Get the Most Out of a Conference](https://www.autodidacts.io/conference-tips/)
-- [Koalas are up power poles, on roads, in schools. Outlook for koalas remains poor](https://www.cnn.com/2024/09/28/australia/australia-endangered-koalas-queensland-intl-hnk-dst/index.html)
-- [The death of King George V &lpar;2021&rpar;](https://hekint.org/2021/10/01/the-death-of-king-george-v/)
-- [Show HN: Pure CSS silky Border line animation&lpar;open-source code&rpar;](https://github.com/volume988/button-motion)
-- [Built DIY-It: A Platform for DIY Projects Looking for Feedback and Insights](https://diyit.app)
+- [Is GitHub Copilot safe privacy wise?](https://github.com/orgs/community/discussions/7163)
+- [Amazon wins partial dismissal of US antitrust lawsuit](https://www.reuters.com/legal/amazon-wins-partial-dismissal-us-ftcs-antitrust-lawsuit-2024-10-01/)
+- [Billingrails, *truly* flexible, API-first billing infrastructure [video]](https://www.youtube.com/watch?v=eC_T_GA8PiQ)
+- [Rat birth control could soon roll out in New York City](https://pix11.com/news/local-news/rat-birth-control-could-soon-roll-out-in-new-york-city/)
+- [Reddit policy changes make sitewide protests nearly impossible](https://www.engadget.com/big-tech/reddit-policy-changes-make-sitewide-protests-nearly-impossible-183754240.html)
+- [Freeware Creator Magazine Aug/Sep 2024](https://johnoestmannmusic.com/freeware-creator-magazine-aug-sep-2024/)
+- [Show HN:Using Cloudflare, query DNS results from 120 countries and 330 cities](https://github.com/ccbikai/DNS.Surf)
+- [Matrix-Libera IRC Bridge Temporary Shutdown, a Retrospective &lpar;2023&rpar;](https://libera.chat/news/matrix-bridge-disabled-retrospective)
+- [Do Animals Understand Death? The Latest Science Might Surprise You](https://gizmodo.com/do-animals-understand-death-the-latest-science-might-surprise-you-2000505062)
+- [Archive.ph is serving a TLS certificate for a different domain](https://web.archive.org/web/20241001015230/https://www.ssllabs.com/ssltest/analyze.html?d=archive.ph)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

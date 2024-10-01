@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Israel launches apparent rare strike on central Beirut amid further attacks across Lebanon and Yemen](https://www.theguardian.com/world/2024/sep/30/lebanon-beirut-israel-strikes-yemen-hezbollah-latest-news)
-- [The mysteries of IBS – podcast](https://www.theguardian.com/news/audio/2024/sep/30/the-mysteries-of-ibs-podcast)
-- [Ukraine war briefing: 16 injured in Russian attacks on city of Zaporizhzhia](https://www.theguardian.com/world/2024/sep/30/ukraine-war-briefing-zaporizhzhia-attacks-injured-russia)
-- [Kris Kristofferson – a life in pictures](https://www.theguardian.com/music/gallery/2024/sep/30/kris-kristofferson-death-age-88-life-in-pictures-career)
-- [England begin WXV 1 defence with crushing victory over USA](https://www.theguardian.com/sport/2024/sep/29/england-begin-wxv-1-defence-with-crushing-victory-over-usa)
-- [Hurricane Helene’s ‘historic flooding’ made worse by global heating, Fema says](https://www.theguardian.com/us-news/2024/sep/29/hurricane-helene-historic-flooding-global-heating-fema)
-- [Number of UK estate agents going bust rises almost a third in one year](https://www.theguardian.com/money/2024/sep/30/number-of-uk-estate-agents-going-bust-rises-almost-a-third-in-one-year)
-- [End of an era as Britain’s last coal-fired power plant shuts down](https://www.theguardian.com/business/2024/sep/30/end-of-an-era-as-britains-last-coal-fired-power-plant-shuts-down)
-- [UK business confidence dips to lowest level since general election](https://www.theguardian.com/business/2024/sep/30/uk-business-confidence-dips-to-lowest-level-since-general-election)
-- [Harris to hold Las Vegas rally as Nevada becomes crucial swing state in election](https://www.theguardian.com/us-news/2024/sep/29/kamala-harris-las-vegas-rally-swing-state-nevada)
+- [Middle East crisis live: IDF says it has begun a ‘targeted and demarcated ground operation in southern Lebanon’](https://www.theguardian.com/world/live/2024/sep/30/israel-attacks-live-blog-lebanon-yemen-hamas-hezbollah-news-updates-middle-east-crisis)
+- [Israeli military says it is carrying out ‘limited’ ground operation targeting Hezbollah in Lebanon](https://www.theguardian.com/world/2024/oct/01/israel-lebanon-attack-hezbollah-ground-operation-war-latest)
+- [Will Hezbollah survive Israel’s onslaught? – podcast](https://www.theguardian.com/news/audio/2024/oct/01/will-hezbollah-survive-israel-onslaught-podcast)
+- [UK charters flight from Lebanon as governments prepare evacuation plans](https://www.theguardian.com/world/2024/sep/30/uk-flight-britons-lebanon-leave-violence-escalates)
+- [Ukraine war briefing: Fight hard through autumn, Zelenskyy urges forces](https://www.theguardian.com/world/2024/oct/01/ukraine-war-briefing-fight-hard-through-autumn-zelenskyy-urges-forces)
+- [Controversial all-time MLB hits leader Pete Rose dies at 83](https://www.theguardian.com/sport/2024/sep/30/pete-rose-dies-mlb-baseball)
+- [Trump visits hurricane-ravaged Georgia and makes false claims about Biden](https://www.theguardian.com/us-news/2024/sep/30/trump-visits-georgia-after-hurricane-helene-false-biden-claims)
+- [Starmer urged to help households as energy bills rise by £149 a year](https://www.theguardian.com/money/2024/oct/01/starmer-urged-to-help-households-as-energy-bills-rise-by-149-a-year)
+- [US officials say 40 airlines may be using Boeing 737s with suspect rudder parts](https://www.theguardian.com/business/2024/sep/30/boeing-737-max-planes)
+- [Georgia judge says women aren’t ‘community property’ as abortion ban struck down – as it happened](https://www.theguardian.com/us-news/live/2024/sep/30/us-election-hurricane-helene-trump-biden-harris-updates)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

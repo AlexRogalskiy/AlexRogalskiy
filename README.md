@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Middle East crisis live: IDF says it has begun a ‘targeted and demarcated ground operation in southern Lebanon’](https://www.theguardian.com/world/live/2024/sep/30/israel-attacks-live-blog-lebanon-yemen-hamas-hezbollah-news-updates-middle-east-crisis)
-- [Israeli military says it is carrying out ‘limited’ ground operation targeting Hezbollah in Lebanon](https://www.theguardian.com/world/2024/oct/01/israel-lebanon-attack-hezbollah-ground-operation-war-latest)
-- [Will Hezbollah survive Israel’s onslaught? – podcast](https://www.theguardian.com/news/audio/2024/oct/01/will-hezbollah-survive-israel-onslaught-podcast)
-- [UK charters flight from Lebanon as governments prepare evacuation plans](https://www.theguardian.com/world/2024/sep/30/uk-flight-britons-lebanon-leave-violence-escalates)
-- [Ukraine war briefing: Fight hard through autumn, Zelenskyy urges forces](https://www.theguardian.com/world/2024/oct/01/ukraine-war-briefing-fight-hard-through-autumn-zelenskyy-urges-forces)
-- [Controversial all-time MLB hits leader Pete Rose dies at 83](https://www.theguardian.com/sport/2024/sep/30/pete-rose-dies-mlb-baseball)
-- [Trump visits hurricane-ravaged Georgia and makes false claims about Biden](https://www.theguardian.com/us-news/2024/sep/30/trump-visits-georgia-after-hurricane-helene-false-biden-claims)
-- [Starmer urged to help households as energy bills rise by £149 a year](https://www.theguardian.com/money/2024/oct/01/starmer-urged-to-help-households-as-energy-bills-rise-by-149-a-year)
-- [US officials say 40 airlines may be using Boeing 737s with suspect rudder parts](https://www.theguardian.com/business/2024/sep/30/boeing-737-max-planes)
-- [Georgia judge says women aren’t ‘community property’ as abortion ban struck down – as it happened](https://www.theguardian.com/us-news/live/2024/sep/30/us-election-hurricane-helene-trump-biden-harris-updates)
+- [Vance-Walz debate live: VP candidates spar over abortion, immigration, cost of living – and Trump](https://www.theguardian.com/us-news/live/2024/oct/01/election-vance-walz-harris-trump-vp-debate)
+- [Middle East crisis live: Netanyahu says ‘Iran made a big mistake’; IDF launches fresh strikes on Beirut](https://www.theguardian.com/world/live/2024/oct/01/israel-lebanon-attacks-live-blog-ground-offensive-hezbollah-hamas-gaza-war)
+- [Who were England’s 2024 rioters? – podcast](https://www.theguardian.com/uk-news/audio/2024/oct/02/who-were-england-2024-rioters-podcast)
+- [Trump tells rally Kamala Harris ‘wouldn’t have won The Apprentice’](https://www.theguardian.com/us-news/2024/oct/01/trump-kamala-harris-apprentice)
+- [New Caledonia election postponed for a year by France’s new prime minister](https://www.theguardian.com/world/2024/oct/02/new-caledonia-election-postponed-by-a-year-france-pm-michel-barnier)
+- [Daniel Day-Lewis ends retirement from acting after seven years](https://www.theguardian.com/film/2024/oct/02/anemone-daniel-day-lewis-ends-retirement-from-acting-son-ronan-movie)
+- [Ukraine war briefing: Anger in Moscow over ‘disgrace’ of huge spending on war](https://www.theguardian.com/world/2024/oct/02/ukraine-war-briefing-moscow-pensioner-outrage-at-disgrace-of-huge-spending-on-war)
+- [Targeted support could reduce infant mortality gap across England, study finds](https://www.theguardian.com/global-development/2024/oct/02/targeted-support-could-reduce-infant-mortality-gap-across-england-study-finds)
+- [Children in youth offender institutions in England denied access to education, report finds](https://www.theguardian.com/education/2024/oct/02/children-in-youth-offender-institutions-in-england-denied-access-to-education-report-finds)
+- [Thames mudlarking permits to be issued again but capped to protect site](https://www.theguardian.com/uk-news/2024/oct/02/thames-mudlarking-permits-to-be-issued-again-but-capped-to-protect-site)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

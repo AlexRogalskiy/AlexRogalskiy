@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Is GitHub Copilot safe privacy wise?](https://github.com/orgs/community/discussions/7163)
-- [Amazon wins partial dismissal of US antitrust lawsuit](https://www.reuters.com/legal/amazon-wins-partial-dismissal-us-ftcs-antitrust-lawsuit-2024-10-01/)
-- [Billingrails, *truly* flexible, API-first billing infrastructure [video]](https://www.youtube.com/watch?v=eC_T_GA8PiQ)
-- [Rat birth control could soon roll out in New York City](https://pix11.com/news/local-news/rat-birth-control-could-soon-roll-out-in-new-york-city/)
-- [Reddit policy changes make sitewide protests nearly impossible](https://www.engadget.com/big-tech/reddit-policy-changes-make-sitewide-protests-nearly-impossible-183754240.html)
-- [Freeware Creator Magazine Aug/Sep 2024](https://johnoestmannmusic.com/freeware-creator-magazine-aug-sep-2024/)
-- [Show HN:Using Cloudflare, query DNS results from 120 countries and 330 cities](https://github.com/ccbikai/DNS.Surf)
-- [Matrix-Libera IRC Bridge Temporary Shutdown, a Retrospective &lpar;2023&rpar;](https://libera.chat/news/matrix-bridge-disabled-retrospective)
-- [Do Animals Understand Death? The Latest Science Might Surprise You](https://gizmodo.com/do-animals-understand-death-the-latest-science-might-surprise-you-2000505062)
-- [Archive.ph is serving a TLS certificate for a different domain](https://web.archive.org/web/20241001015230/https://www.ssllabs.com/ssltest/analyze.html?d=archive.ph)
+- [Revisiting the DOS Memory Models](https://blogsystem5.substack.com/p/dos-memory-models)
+- [China trains 100B-parameter AI model on home grown infrastructure](https://www.theregister.com/2024/10/02/china_telecom_model_trained_local_tech/)
+- [Tiered support is an anti-pattern &lpar;2013&rpar;](https://peter.gillardmoss.me.uk/blog/2013/06/24/tiered-support-is-an-anti-pattern/)
+- [OpenAI staff thought o1 wasn&#39;t ready to be unveiled](https://fortune.com/2024/10/01/openai-sam-altman-mira-murati-gpt-4o-o1-chatgpt-turbulent-year/)
+- [How Does a Hydraulic RAM Pump Work? [video]](https://www.youtube.com/watch?v=zFdyqTGx32A)
+- [CNN, Reuters launching digital paywalls](https://thehill.com/homenews/media/4910822-cnn-reuters-launching-digital-paywalls/)
+- [Coastal communities face &#39;catastrophic flooding&#39; from rising sea levels](https://www.aljazeera.com/news/2024/9/28/coastal-communities-face-catastrophic-flooding-from-rising-sea-levels)
+- [Talk: Ghostty and Some Useful Zig Patterns](https://mitchellh.com/writing/ghostty-and-useful-zig-patterns)
+- [A Beginner&#39;s Guide to the True Order of SQL Operations](https://blog.jooq.org/a-beginners-guide-to-the-true-order-of-sql-operations/)
+- [Healthcare Marketplace SaaS – Cauhec Connect Launch](https://www.cauhec.org/app-landing-page)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

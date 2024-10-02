@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Essential Node in Global Semiconductor Supply Chain Hit by Hurricane Helene](https://hntrbrk.com/essential-node-in-global-semiconductor-supply-chain-hit-by-hurricane-helene-video-reveals-entrance-to-mine-has-flooded/)
-- [A Comprehensive Analysis of Package Hallucinations by Code Generating LLMs](https://arxiv.org/abs/2406.10279)
-- [Boris Vallejo and the Pixel Art of the Demoscene](https://marincomics.com/vallejo-pixelart.html)
-- [AI chipmaker Cerebras files for IPO to take on Nvidia](https://www.cnbc.com/2024/09/30/cerebras-files-for-ipo.html)
-- [Tim Peters – Dispelling Information Asymmetry](https://tim-one.github.io/psf/ban.html)
-- [BorgBackup 2.0 supports Rclone – over 70 cloud providers in addition to SSH](https://borgbackup.readthedocs.io/en/2.0.0b11/changes.html#version-2-0-0b11-2024-09-26)
-- [Show HN: Venator – open-source Threat Detection Platform](https://github.com/nianticlabs/venator)
-- [Show HN: qrframe – generate beautiful qr codes with javascript code](https://github.com/zhengkyl/qrframe)
-- [MusicBrainz: An open music encyclopedia](https://musicbrainz.org/)
-- [California bans legacy admissions at private universities](https://www.nytimes.com/2024/09/30/us/california-bans-legacy-admissions-private-universities.html)
+- [I&#39;m a Professional](https://daniel.haxx.se/blog/2024/10/02/im-a-professional/)
+- [Emerge Tools &lpar;YC W21&rpar; is hiring a senior front end engineer](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
+- [Make Pottery at Home Without a Kiln &lpar;Or Anything Else&rpar; [video]](https://www.youtube.com/watch?v=VaX1iOyKsB0)
+- [Sausages: An Anthology](https://thelionandunicorn.wordpress.com/2024/09/25/sausages-an-anthology/)
+- [Math from Three to Seven](https://www.thepsmiths.com/p/review-math-from-three-to-seven-by)
+- [Northern Ontario man solves local legend, finds vintage liquor at bottom of lake](https://www.cbc.ca/news/canada/sudbury/larder-lake-local-legend-sunken-taxi-vintage-liquor-1.7332124)
+- [The other British invasion: how UK lingo conquered the US](https://www.theguardian.com/science/2024/sep/26/other-british-invasion-how-uk-language-conquered-the-us)
+- [CERN serves 1EB of data via FUSE [video]](https://kernel-recipes.org/en/2024/schedule/how-cern-serves-1eb-of-data-via-fuse/)
+- [SlateDB – An embedded database built on object storage](https://slatedb.io/)
+- [Radio Shack Catalog Archive &lpar;1939-2011&rpar;](https://www.radioshackcatalogs.com/?_hsenc=p2ANqtz-9H5PQMgh6cUobaKL8FZ3-Ib1lk2jXz-BBrutnvv14LwcLObCTepV_IHs6nj83QW1bzJZzkyQpOm2OVPZbBmOmtzIMoRw&_hsmi=327012423)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

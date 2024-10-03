@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [I&#39;m a Professional](https://daniel.haxx.se/blog/2024/10/02/im-a-professional/)
-- [Emerge Tools &lpar;YC W21&rpar; is hiring a senior front end engineer](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
-- [Make Pottery at Home Without a Kiln &lpar;Or Anything Else&rpar; [video]](https://www.youtube.com/watch?v=VaX1iOyKsB0)
-- [Sausages: An Anthology](https://thelionandunicorn.wordpress.com/2024/09/25/sausages-an-anthology/)
-- [Math from Three to Seven](https://www.thepsmiths.com/p/review-math-from-three-to-seven-by)
-- [Northern Ontario man solves local legend, finds vintage liquor at bottom of lake](https://www.cbc.ca/news/canada/sudbury/larder-lake-local-legend-sunken-taxi-vintage-liquor-1.7332124)
-- [The other British invasion: how UK lingo conquered the US](https://www.theguardian.com/science/2024/sep/26/other-british-invasion-how-uk-language-conquered-the-us)
-- [CERN serves 1EB of data via FUSE [video]](https://kernel-recipes.org/en/2024/schedule/how-cern-serves-1eb-of-data-via-fuse/)
-- [SlateDB – An embedded database built on object storage](https://slatedb.io/)
-- [Radio Shack Catalog Archive &lpar;1939-2011&rpar;](https://www.radioshackcatalogs.com/?_hsenc=p2ANqtz-9H5PQMgh6cUobaKL8FZ3-Ib1lk2jXz-BBrutnvv14LwcLObCTepV_IHs6nj83QW1bzJZzkyQpOm2OVPZbBmOmtzIMoRw&_hsmi=327012423)
+- [Watch as Tesla burns in flooded Florida garage days after Hurricane Helene](https://www.heraldtribune.com/story/weather/hurricane/2024/10/01/hurricane-helene-tesla-fire-breaks-out-in-flooded-florida-garage/75469839007/)
+- [Filed: WP Engine Inc. v Automattic Inc. and Matthew Charles Mullenweg [pdf]](https://wpengine.com/wp-content/uploads/2024/10/Complaint-WP-Engine-v-Automattic-et-al-with-Exhibit.pdf)
+- [Meticulous &lpar;YC S21&rpar; is hiring to eliminate UI tests](https://news.ycombinator.com/item?id=41724950)
+- [Anatomy of an Internet Argument](https://defenderofthebasic.substack.com/p/anatomy-of-an-internet-argument)
+- [William Cowper and the Age of the Earth [pdf] &lpar;2019&rpar;](https://www.charlespetzold.com/essays/WilliamCowperAndTheAgeOfTheEarth.pdf)
+- [In Mexico’s underwater caves, a glimpse of artifacts, fossils and human remains](https://www.smithsonianmag.com/travel/divers-in-mexicos-underwater-caves-get-a-glimpse-of-rarely-seen-artifacts-fossils-and-human-remains-180985159/)
+- [Show HN: Kameo – Fault-tolerant async actors built on Tokio](https://github.com/tqwewe/kameo)
+- [WALDO: Whereabouts Ascertainment for Low-Lying Detectable Objects](https://github.com/stephansturges/WALDO)
+- [Newton&#39;s financial misadventures in the South Sea Bubble &lpar;2018&rpar;](https://royalsocietypublishing.org/doi/10.1098/rsnr.2018.0018)
+- [OpenAI completes deal that values company at $157B](https://www.nytimes.com/2024/10/02/technology/openai-valuation-150-billion.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

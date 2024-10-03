@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Vance-Walz debate live: VP candidates spar over abortion, immigration, cost of living – and Trump](https://www.theguardian.com/us-news/live/2024/oct/01/election-vance-walz-harris-trump-vp-debate)
-- [Middle East crisis live: Netanyahu says ‘Iran made a big mistake’; IDF launches fresh strikes on Beirut](https://www.theguardian.com/world/live/2024/oct/01/israel-lebanon-attacks-live-blog-ground-offensive-hezbollah-hamas-gaza-war)
-- [Who were England’s 2024 rioters? – podcast](https://www.theguardian.com/uk-news/audio/2024/oct/02/who-were-england-2024-rioters-podcast)
-- [Trump tells rally Kamala Harris ‘wouldn’t have won The Apprentice’](https://www.theguardian.com/us-news/2024/oct/01/trump-kamala-harris-apprentice)
-- [New Caledonia election postponed for a year by France’s new prime minister](https://www.theguardian.com/world/2024/oct/02/new-caledonia-election-postponed-by-a-year-france-pm-michel-barnier)
-- [Daniel Day-Lewis ends retirement from acting after seven years](https://www.theguardian.com/film/2024/oct/02/anemone-daniel-day-lewis-ends-retirement-from-acting-son-ronan-movie)
-- [Ukraine war briefing: Anger in Moscow over ‘disgrace’ of huge spending on war](https://www.theguardian.com/world/2024/oct/02/ukraine-war-briefing-moscow-pensioner-outrage-at-disgrace-of-huge-spending-on-war)
-- [Targeted support could reduce infant mortality gap across England, study finds](https://www.theguardian.com/global-development/2024/oct/02/targeted-support-could-reduce-infant-mortality-gap-across-england-study-finds)
-- [Children in youth offender institutions in England denied access to education, report finds](https://www.theguardian.com/education/2024/oct/02/children-in-youth-offender-institutions-in-england-denied-access-to-education-report-finds)
-- [Thames mudlarking permits to be issued again but capped to protect site](https://www.theguardian.com/uk-news/2024/oct/02/thames-mudlarking-permits-to-be-issued-again-but-capped-to-protect-site)
+- [Middle East crisis live: six killed in Israeli strike on medical centre in central Beirut, Lebanon officials say](https://www.theguardian.com/world/live/2024/oct/02/israel-iran-attacks-latest-updates-live-hezbollah-lebanon-beirut-strikes)
+- [The curiously upbeat Tory leadership race – podcast](https://www.theguardian.com/news/audio/2024/oct/03/the-curiously-upbeat-tory-leadership-race-podcast)
+- [Melania Trump’s abortion views baffle both sides: ‘Hard to follow the logic’](https://www.theguardian.com/us-news/2024/oct/02/melania-trump-abortion-views-revelation-reaction)
+- [Bird flu outbreak kills dozens of tigers in Vietnam zoos](https://www.theguardian.com/world/2024/oct/03/vietnam-bird-flu-outbreak-tiger-deaths-my-quynh-safari-vuon-xoai-zoo)
+- [Timelapse: &#39;ring of fire&#39; forms during solar eclipse at Easter Island – video](https://www.theguardian.com/science/video/2024/oct/03/timelapse-ring-of-fire-forms-during-solar-eclipse-at-easter-island-video)
+- [Nibi the beaver sees dam of unwavering support as rescuers try to stop her release into wild](https://www.theguardian.com/us-news/2024/oct/02/nibi-beaver-release-massachusetts-court)
+- [Ukraine war briefing: Russian strike hits Kharkiv apartment block; Ukrainian troops quit Vuhledar](https://www.theguardian.com/world/2024/oct/03/ukraine-war-briefing-russian-strike-hits-kharkiv-apartment-block-ukrainian-troops-quit-vuhledar)
+- [BBC cancels Boris Johnson interview after Laura Kuenssberg mistakenly sends him her briefing notes](https://www.theguardian.com/politics/2024/oct/03/bbc-cancels-boris-johnson-interview-laura-kuenssberg-briefing-notes)
+- [North Korean defector crashes stolen bus in failed bid to return home](https://www.theguardian.com/world/2024/oct/03/north-korea-defector-bus-crash-arrest-tongil-bridge)
+- [Number of people in UK out of work due to ill health growing by 300,000 a year](https://www.theguardian.com/society/2024/oct/03/number-of-people-in-uk-out-of-work-due-to-ill-health-growing-by-300000-a-year)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

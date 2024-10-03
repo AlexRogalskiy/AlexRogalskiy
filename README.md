@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Revisiting the DOS Memory Models](https://blogsystem5.substack.com/p/dos-memory-models)
-- [China trains 100B-parameter AI model on home grown infrastructure](https://www.theregister.com/2024/10/02/china_telecom_model_trained_local_tech/)
-- [Tiered support is an anti-pattern &lpar;2013&rpar;](https://peter.gillardmoss.me.uk/blog/2013/06/24/tiered-support-is-an-anti-pattern/)
-- [OpenAI staff thought o1 wasn&#39;t ready to be unveiled](https://fortune.com/2024/10/01/openai-sam-altman-mira-murati-gpt-4o-o1-chatgpt-turbulent-year/)
-- [How Does a Hydraulic RAM Pump Work? [video]](https://www.youtube.com/watch?v=zFdyqTGx32A)
-- [CNN, Reuters launching digital paywalls](https://thehill.com/homenews/media/4910822-cnn-reuters-launching-digital-paywalls/)
-- [Coastal communities face &#39;catastrophic flooding&#39; from rising sea levels](https://www.aljazeera.com/news/2024/9/28/coastal-communities-face-catastrophic-flooding-from-rising-sea-levels)
-- [Talk: Ghostty and Some Useful Zig Patterns](https://mitchellh.com/writing/ghostty-and-useful-zig-patterns)
-- [A Beginner&#39;s Guide to the True Order of SQL Operations](https://blog.jooq.org/a-beginners-guide-to-the-true-order-of-sql-operations/)
-- [Healthcare Marketplace SaaS – Cauhec Connect Launch](https://www.cauhec.org/app-landing-page)
+- [Influence of a Large Language Model on Diagnostic Reasoning](https://www.medrxiv.org/content/10.1101/2024.03.12.24303785v1)
+- [409A Valuation](https://news.ycombinator.com/item?id=41726773)
+- [Election betting is cleared, for now](https://www.axios.com/2024/10/02/election-betting-prediction-markets-kalshi-polymarket)
+- [Tell HN: OpenAI lost Credit Grants for Sept 2024](https://news.ycombinator.com/item?id=41726740)
+- [New triple star system sets shortest orbital period record](https://phys.org/news/2024-10-triple-star-shortest-orbital-period.html)
+- [Watch as Tesla burns in flooded Florida garage days after Hurricane Helene](https://www.heraldtribune.com/story/weather/hurricane/2024/10/01/hurricane-helene-tesla-fire-breaks-out-in-flooded-florida-garage/75469839007/)
+- [Why Meta&#39;s Threads is opening up to other social networks](https://www.washingtonpost.com/politics/2024/10/02/meta-threads-fediverse-mosseri-mastodon-rochko/)
+- [The House-Price Supercycle](https://www.economist.com/finance-and-economics/2024/10/01/the-house-price-supercycle-is-just-getting-going)
+- [Gamma radiation is produced in large tropical thunderstorms, observations reveal](https://phys.org/news/2024-10-amount-variety-gamma-large-tropical.html)
+- [California&#39;s $20 Fast Food Minimum Wage Sees No Job Loss, Slight Price Hikes](https://www.kqed.org/news/12007150/californias-20-fast-food-minimum-wage-sees-no-job-loss-slight-price-hikes)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Watch as Tesla burns in flooded Florida garage days after Hurricane Helene](https://www.heraldtribune.com/story/weather/hurricane/2024/10/01/hurricane-helene-tesla-fire-breaks-out-in-flooded-florida-garage/75469839007/)
-- [Filed: WP Engine Inc. v Automattic Inc. and Matthew Charles Mullenweg [pdf]](https://wpengine.com/wp-content/uploads/2024/10/Complaint-WP-Engine-v-Automattic-et-al-with-Exhibit.pdf)
-- [Meticulous &lpar;YC S21&rpar; is hiring to eliminate UI tests](https://news.ycombinator.com/item?id=41724950)
-- [Anatomy of an Internet Argument](https://defenderofthebasic.substack.com/p/anatomy-of-an-internet-argument)
-- [William Cowper and the Age of the Earth [pdf] &lpar;2019&rpar;](https://www.charlespetzold.com/essays/WilliamCowperAndTheAgeOfTheEarth.pdf)
-- [In Mexico’s underwater caves, a glimpse of artifacts, fossils and human remains](https://www.smithsonianmag.com/travel/divers-in-mexicos-underwater-caves-get-a-glimpse-of-rarely-seen-artifacts-fossils-and-human-remains-180985159/)
-- [Show HN: Kameo – Fault-tolerant async actors built on Tokio](https://github.com/tqwewe/kameo)
-- [WALDO: Whereabouts Ascertainment for Low-Lying Detectable Objects](https://github.com/stephansturges/WALDO)
-- [Newton&#39;s financial misadventures in the South Sea Bubble &lpar;2018&rpar;](https://royalsocietypublishing.org/doi/10.1098/rsnr.2018.0018)
-- [OpenAI completes deal that values company at $157B](https://www.nytimes.com/2024/10/02/technology/openai-valuation-150-billion.html)
+- [Please Don&#39;t Make Me Download Another App](https://www.theatlantic.com/technology/archive/2024/10/too-many-apps/680122/)
+- [Cox slows Internet speeds in entire neighborhoods to punish any heavy users](https://arstechnica.com/tech-policy/2020/06/cox-slows-internet-speeds-in-entire-neighborhoods-to-punish-any-heavy-users/)
+- [Show HN: Zero – DX focused non framework to interact with the DOM](https://github.com/nhh/zero)
+- [Biblical plant with medicinal properties resurrected from 1,000-year-old seed](https://www.cnn.com/2024/10/03/science/biblical-tree-ancient-seed-tsori/index.html)
+- [Show HN: Screensavers for your terminal &lpar;Bevy/Ratatui&rpar;](https://github.com/cxreiff/ttysvr)
+- [Update on Reflection-70B](https://glaive.ai/blog/post/reflection-postmortem)
+- [Robert Dennard, DRAM Pioneer, has died](https://spectrum.ieee.org/in-memoriam-oct-2024)
+- [Skymont: Intel’s E-Cores reach for the Sky](https://chipsandcheese.com/2024/10/03/skymont-intels-e-cores-reach-for-the-sky/)
+- [Mux &lpar;YC W16&rpar; is hiring a video engineer](https://www.mux.com/jobs?job=video)
+- [Biggest solar flare since 2017 erupts from sun and Earth is in the firing line](https://www.space.com/most-powerful-solar-flare-this-solar-cycle-x-9-earth-firing-line)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

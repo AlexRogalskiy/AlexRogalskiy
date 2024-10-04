@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Middle East crisis live: six killed in Israeli strike on medical centre in central Beirut, Lebanon officials say](https://www.theguardian.com/world/live/2024/oct/02/israel-iran-attacks-latest-updates-live-hezbollah-lebanon-beirut-strikes)
-- [The curiously upbeat Tory leadership race – podcast](https://www.theguardian.com/news/audio/2024/oct/03/the-curiously-upbeat-tory-leadership-race-podcast)
-- [Melania Trump’s abortion views baffle both sides: ‘Hard to follow the logic’](https://www.theguardian.com/us-news/2024/oct/02/melania-trump-abortion-views-revelation-reaction)
-- [Bird flu outbreak kills dozens of tigers in Vietnam zoos](https://www.theguardian.com/world/2024/oct/03/vietnam-bird-flu-outbreak-tiger-deaths-my-quynh-safari-vuon-xoai-zoo)
-- [Timelapse: &#39;ring of fire&#39; forms during solar eclipse at Easter Island – video](https://www.theguardian.com/science/video/2024/oct/03/timelapse-ring-of-fire-forms-during-solar-eclipse-at-easter-island-video)
-- [Nibi the beaver sees dam of unwavering support as rescuers try to stop her release into wild](https://www.theguardian.com/us-news/2024/oct/02/nibi-beaver-release-massachusetts-court)
-- [Ukraine war briefing: Russian strike hits Kharkiv apartment block; Ukrainian troops quit Vuhledar](https://www.theguardian.com/world/2024/oct/03/ukraine-war-briefing-russian-strike-hits-kharkiv-apartment-block-ukrainian-troops-quit-vuhledar)
-- [BBC cancels Boris Johnson interview after Laura Kuenssberg mistakenly sends him her briefing notes](https://www.theguardian.com/politics/2024/oct/03/bbc-cancels-boris-johnson-interview-laura-kuenssberg-briefing-notes)
-- [North Korean defector crashes stolen bus in failed bid to return home](https://www.theguardian.com/world/2024/oct/03/north-korea-defector-bus-crash-arrest-tongil-bridge)
-- [Number of people in UK out of work due to ill health growing by 300,000 a year](https://www.theguardian.com/society/2024/oct/03/number-of-people-in-uk-out-of-work-due-to-ill-health-growing-by-300000-a-year)
+- [Middle East crisis live: Beirut strikes reportedly target Nasrallah successor; 18 killed in Israeli strike on West Bank, officials say](https://www.theguardian.com/world/live/2024/oct/03/israel-lebanon-hezbollah-war-strikes-live-updates-middle-east-crisis)
+- [After freeing a man who spent half a century on death row, will Japan keep using the death penalty?](https://www.theguardian.com/world/2024/oct/04/japan-death-penalty-iwao-hakamada)
+- [Tim Walz to Muslim voters in push before election: ‘Our hearts are broken’](https://www.theguardian.com/us-news/2024/oct/03/tim-walz-muslim-voters)
+- [Do Israel and Iran really want to go to war? – podcast](https://www.theguardian.com/news/audio/2024/oct/04/do-israel-and-iran-really-want-to-go-to-war-podcast)
+- [‘My teenage children are bright but unmotivated. How much should I get involved with their school work?’ | Leading questions](https://www.theguardian.com/lifeandstyle/2024/oct/04/my-teenage-children-are-bright-but-unmotivated-how-much-should-i-get-involved-with-their-school-work)
+- [Liz Cheney campaigns with Harris and urges voters to reject Trump’s ‘cruelty’](https://www.theguardian.com/us-news/2024/oct/03/liz-cheney-kamala-harris-wisconsin)
+- [Bruce Springsteen endorses Kamala Harris for president while criticising ‘dangerous’ Trump](https://www.theguardian.com/music/2024/oct/04/bruce-springsteen-endorses-kamala-harris-for-president-while-criticising-dangerous-trump)
+- [‘No room for compromise’: Melania Trump reiterates abortion rights support](https://www.theguardian.com/us-news/2024/oct/03/melania-trump-memoir-abortion)
+- [UK toddlers get nearly half their calories from ultra-processed food, study finds](https://www.theguardian.com/society/2024/oct/04/uk-toddlers-get-nearly-half-their-calories-from-ultra-processed-food-study-finds)
+- [US dock workers agree on deal with port operators to end strike](https://www.theguardian.com/us-news/2024/oct/03/dock-workers-ports-strike-deal)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

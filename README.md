@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Influence of a Large Language Model on Diagnostic Reasoning](https://www.medrxiv.org/content/10.1101/2024.03.12.24303785v1)
-- [409A Valuation](https://news.ycombinator.com/item?id=41726773)
-- [Election betting is cleared, for now](https://www.axios.com/2024/10/02/election-betting-prediction-markets-kalshi-polymarket)
-- [Tell HN: OpenAI lost Credit Grants for Sept 2024](https://news.ycombinator.com/item?id=41726740)
-- [New triple star system sets shortest orbital period record](https://phys.org/news/2024-10-triple-star-shortest-orbital-period.html)
-- [Watch as Tesla burns in flooded Florida garage days after Hurricane Helene](https://www.heraldtribune.com/story/weather/hurricane/2024/10/01/hurricane-helene-tesla-fire-breaks-out-in-flooded-florida-garage/75469839007/)
-- [Why Meta&#39;s Threads is opening up to other social networks](https://www.washingtonpost.com/politics/2024/10/02/meta-threads-fediverse-mosseri-mastodon-rochko/)
-- [The House-Price Supercycle](https://www.economist.com/finance-and-economics/2024/10/01/the-house-price-supercycle-is-just-getting-going)
-- [Gamma radiation is produced in large tropical thunderstorms, observations reveal](https://phys.org/news/2024-10-amount-variety-gamma-large-tropical.html)
-- [California&#39;s $20 Fast Food Minimum Wage Sees No Job Loss, Slight Price Hikes](https://www.kqed.org/news/12007150/californias-20-fast-food-minimum-wage-sees-no-job-loss-slight-price-hikes)
+- [Hyperbaric Oxygen Therapy Efficacy in TBI Persistent Postconcussion Syndrome](https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2022.815056/full)
+- [Build systems at scale: Non-recursive Make Considered Harmful &lpar;2016&rpar; [pdf]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/03/hadrian.pdf)
+- [Magic Isn&#39;t Real](https://pthorpe92.dev/programming/magic/)
+- [Darwin was no atheist, he didn&#39;t say humans came from monkeys](https://www.theguardian.com/science/2008/feb/09/darwin.myths)
+- [How good are LLMs at making recommendations, really?](https://kumo.ai/resources/blog/improving-predictions-with-large-language-models/)
+- [US dockworkers suspend ports strike until January](https://www.bbc.com/news/articles/cn8jxnn76qwo)
+- [What&#39;s new with io_uring in 6.11 and 6.12](https://github.com/axboe/liburing/wiki/What%27s-new-with-io_uring-in-6.11-and-6.12)
+- [Where I&#39;ve Changed My Mind](https://www.stephankinsella.com/2024/10/where-ive-changed-my-mind/)
+- [Contributing to Haskell GHC &lpar;2023&rpar; [pdf]](https://ryanglscott.github.io/talk-slides/ghc-contributors-workshop-2023.pdf)
+- [RFC 9620: Guidelines for Human Rights – Protocol and Architecture Considerations](https://www.rfc-editor.org/rfc/rfc9620)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Hyperbaric Oxygen Therapy Efficacy in TBI Persistent Postconcussion Syndrome](https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2022.815056/full)
-- [Build systems at scale: Non-recursive Make Considered Harmful &lpar;2016&rpar; [pdf]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/03/hadrian.pdf)
-- [Magic Isn&#39;t Real](https://pthorpe92.dev/programming/magic/)
-- [Darwin was no atheist, he didn&#39;t say humans came from monkeys](https://www.theguardian.com/science/2008/feb/09/darwin.myths)
-- [How good are LLMs at making recommendations, really?](https://kumo.ai/resources/blog/improving-predictions-with-large-language-models/)
-- [US dockworkers suspend ports strike until January](https://www.bbc.com/news/articles/cn8jxnn76qwo)
-- [What&#39;s new with io_uring in 6.11 and 6.12](https://github.com/axboe/liburing/wiki/What%27s-new-with-io_uring-in-6.11-and-6.12)
-- [Where I&#39;ve Changed My Mind](https://www.stephankinsella.com/2024/10/where-ive-changed-my-mind/)
-- [Contributing to Haskell GHC &lpar;2023&rpar; [pdf]](https://ryanglscott.github.io/talk-slides/ghc-contributors-workshop-2023.pdf)
-- [RFC 9620: Guidelines for Human Rights – Protocol and Architecture Considerations](https://www.rfc-editor.org/rfc/rfc9620)
+- [As Bird Flu Spreads, Two New Cases Diagnosed in California](https://www.nytimes.com/2024/10/04/health/bird-flu-california-missouri.html)
+- [Meta Movie Gen: The King of Video Generation](https://8pixlabs.com/meta-movie-gen/)
+- [Kessler Syndrome](https://en.wikipedia.org/wiki/Kessler_syndrome)
+- [Al Jazeera investigation exposes Israeli &#39;war crimes&#39; in Gaza](https://www.middleeastmonitor.com/20241002-al-jazeera-investigation-exposes-israeli-war-crimes-in-gaza/)
+- [NixPak – Sandboxing for Nix](https://github.com/nixpak/nixpak)
+- [Assessed Cyber Structure and Alignments of North Korea in 2023](https://www.mandiant.com/resources/blog/north-koreahttps://www.mandiant.com/resources/blog/north-korea-cyber-structure-alignment-2023-cyber-structure-alignment-2023)
+- [A victim of a crypto &#39;pig butchering&#39; scam just got his $140k back](https://text.npr.org/g-s1-26505)
+- [The North Korean IT Workers &lpar;The Defender&#39;s Advantage Podcast&rpar;](https://open.spotify.com/episode/0xeaavXjlX2XLm3oibOv6g)
+- [What to do when your intelligence does not align with your interest?](https://news.ycombinator.com/item?id=41747151)
+- [Ask HN: How to open-source to friends but not to enemies?](https://news.ycombinator.com/item?id=41747126)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

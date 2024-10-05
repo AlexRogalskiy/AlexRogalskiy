@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Middle East crisis live: Beirut strikes reportedly target Nasrallah successor; 18 killed in Israeli strike on West Bank, officials say](https://www.theguardian.com/world/live/2024/oct/03/israel-lebanon-hezbollah-war-strikes-live-updates-middle-east-crisis)
-- [After freeing a man who spent half a century on death row, will Japan keep using the death penalty?](https://www.theguardian.com/world/2024/oct/04/japan-death-penalty-iwao-hakamada)
-- [Tim Walz to Muslim voters in push before election: ‘Our hearts are broken’](https://www.theguardian.com/us-news/2024/oct/03/tim-walz-muslim-voters)
-- [Do Israel and Iran really want to go to war? – podcast](https://www.theguardian.com/news/audio/2024/oct/04/do-israel-and-iran-really-want-to-go-to-war-podcast)
-- [‘My teenage children are bright but unmotivated. How much should I get involved with their school work?’ | Leading questions](https://www.theguardian.com/lifeandstyle/2024/oct/04/my-teenage-children-are-bright-but-unmotivated-how-much-should-i-get-involved-with-their-school-work)
-- [Liz Cheney campaigns with Harris and urges voters to reject Trump’s ‘cruelty’](https://www.theguardian.com/us-news/2024/oct/03/liz-cheney-kamala-harris-wisconsin)
-- [Bruce Springsteen endorses Kamala Harris for president while criticising ‘dangerous’ Trump](https://www.theguardian.com/music/2024/oct/04/bruce-springsteen-endorses-kamala-harris-for-president-while-criticising-dangerous-trump)
-- [‘No room for compromise’: Melania Trump reiterates abortion rights support](https://www.theguardian.com/us-news/2024/oct/03/melania-trump-memoir-abortion)
-- [UK toddlers get nearly half their calories from ultra-processed food, study finds](https://www.theguardian.com/society/2024/oct/04/uk-toddlers-get-nearly-half-their-calories-from-ultra-processed-food-study-finds)
-- [US dock workers agree on deal with port operators to end strike](https://www.theguardian.com/us-news/2024/oct/03/dock-workers-ports-strike-deal)
+- [Middle East crisis live: more explosions overnight in Beirut after Israel demands new evacuations](https://www.theguardian.com/world/live/2024/oct/04/israel-lebanon-hamas-hezbollah-war-live-updates-hashem-safieddine-beirut-west-bank-strikes)
+- [Ukraine war briefing: Zaporizhzhia nuclear plant employee killed in Ukrainian car bomb attack](https://www.theguardian.com/world/2024/oct/05/ukraine-war-briefing-zaporizhzhia-nuclear-plant-employee-killed-in-ukrainian-car-bomb-attack)
+- [Arne Slot asks for quiet in answering Liverpool’s away-day ‘$10m question’](https://www.theguardian.com/football/2024/oct/04/arne-slot-asks-for-quiet-in-answering-liverpools-away-day-10m-question)
+- [Vaping ‘to be banned outside schools and hospitals’ in England](https://www.theguardian.com/society/2024/oct/04/vaping-to-be-banned-outside-schools-and-hospitals)
+- [Illan Meslier’s injury-time error earns Sunderland dramatic draw with Leeds](https://www.theguardian.com/football/2024/oct/04/sunderland-leeds-championship-match-report)
+- [Hull KR rock into first Super League Grand Final after nervy win](https://www.theguardian.com/sport/2024/oct/04/hull-kr-warrington-super-league-semi-final-match-report)
+- [Northampton fight back to sink depleted Harlequins](https://www.theguardian.com/sport/2024/oct/04/northampton-harlequins-premiership-rugby-union-match-report)
+- [Hurricane Helene conspiracy theories collide with election misinformation](https://www.theguardian.com/us-news/2024/oct/04/hurricane-helene-conspiracy-theories-election-misinformation)
+- [Paul Pogba doping ban reduced from four years to 18 months after appeal](https://www.theguardian.com/football/2024/oct/04/paul-pogba-doping-ban-reduced-18-months-after-appeal-juventus)
+- [Wind and rain to hit UK as remnant of Hurricane Kirk passes by](https://www.theguardian.com/uk-news/2024/oct/04/wind-and-rain-to-hit-uk-as-remnant-of-hurricane-kirk-passes-by)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Middle East crisis live: more explosions overnight in Beirut after Israel demands new evacuations](https://www.theguardian.com/world/live/2024/oct/04/israel-lebanon-hamas-hezbollah-war-live-updates-hashem-safieddine-beirut-west-bank-strikes)
-- [Ukraine war briefing: Zaporizhzhia nuclear plant employee killed in Ukrainian car bomb attack](https://www.theguardian.com/world/2024/oct/05/ukraine-war-briefing-zaporizhzhia-nuclear-plant-employee-killed-in-ukrainian-car-bomb-attack)
-- [Arne Slot asks for quiet in answering Liverpool’s away-day ‘$10m question’](https://www.theguardian.com/football/2024/oct/04/arne-slot-asks-for-quiet-in-answering-liverpools-away-day-10m-question)
-- [Vaping ‘to be banned outside schools and hospitals’ in England](https://www.theguardian.com/society/2024/oct/04/vaping-to-be-banned-outside-schools-and-hospitals)
-- [Illan Meslier’s injury-time error earns Sunderland dramatic draw with Leeds](https://www.theguardian.com/football/2024/oct/04/sunderland-leeds-championship-match-report)
-- [Hull KR rock into first Super League Grand Final after nervy win](https://www.theguardian.com/sport/2024/oct/04/hull-kr-warrington-super-league-semi-final-match-report)
-- [Northampton fight back to sink depleted Harlequins](https://www.theguardian.com/sport/2024/oct/04/northampton-harlequins-premiership-rugby-union-match-report)
-- [Hurricane Helene conspiracy theories collide with election misinformation](https://www.theguardian.com/us-news/2024/oct/04/hurricane-helene-conspiracy-theories-election-misinformation)
-- [Paul Pogba doping ban reduced from four years to 18 months after appeal](https://www.theguardian.com/football/2024/oct/04/paul-pogba-doping-ban-reduced-18-months-after-appeal-juventus)
-- [Wind and rain to hit UK as remnant of Hurricane Kirk passes by](https://www.theguardian.com/uk-news/2024/oct/04/wind-and-rain-to-hit-uk-as-remnant-of-hurricane-kirk-passes-by)
+- [Middle East crisis live: heavy Israeli airstrikes hit Beirut as up to 18 reported killed in attack on Gaza mosque](https://www.theguardian.com/world/live/2024/oct/06/middle-east-crisis-live-heavy-israeli-airstrikes-hit-beirut-as-up-to-18-reported-killed-in-attack-on-gaza-mosque)
+- [Donald Trump makes a theatrical return to Butler, scene of assassination attempt](https://www.theguardian.com/us-news/2024/oct/06/donald-trump-makes-a-theatrical-return-to-butler-scene-of-assassination-attempt)
+- [Ukraine war briefing: Kyiv’s military claims downing of Russian fighter plane over Donetsk region](https://www.theguardian.com/world/2024/oct/06/ukraine-war-briefing-kyivs-military-claims-downing-of-russian-fighter-plane-over-donetsk-region)
+- [Increase wealth taxes to stop rise of Reform UK, says ex-Labour minister](https://www.theguardian.com/politics/2024/oct/05/increase-wealth-taxes-to-stop-rise-of-reform-uk-says-ex-labour-minister)
+- [Government to fund £120 blood test that could detect 12 most common cancers](https://www.theguardian.com/science/2024/oct/05/government-to-fund-120-blood-test-that-could-detect-12-most-common-cancers)
+- [‘He saw how architecture and sculpture could coexist’: why Greece fell in love with Henry Moore](https://www.theguardian.com/artanddesign/2024/oct/05/he-saw-how-architecture-and-sculpture-could-coexist-why-greece-fell-in-love-with-henry-moore)
+- [Parkrun at 20: how a gentle jog turned into a 5km Saturday morning obsession](https://www.theguardian.com/lifeandstyle/2024/oct/05/parkrun-at-20-years-old-how-a-gentle-jog-turned-into-a-5km-saturday-morning-obsession)
+- [Ten Hag’s transfers rated: flop Antony set tone for United’s slap-dash spree](https://www.theguardian.com/football/2024/oct/05/ten-hags-transfers-rated-flop-antony-set-tone-for-uniteds-slap-dash-spree)
+- [Doubts grow over Labour’s VAT plan for private schools](https://www.theguardian.com/education/2024/oct/05/doubts-grow-over-labours-vat-plan-for-private-schools)
+- [The moment I knew: we were rehearsing a difficult dance move – and I caught her head before she hit the floor](https://www.theguardian.com/lifeandstyle/2024/oct/06/the-moment-i-knew-we-were-rehearsing-a-difficult-dance-move-and-i-caught-her-head-before-she-hit-the-floor)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

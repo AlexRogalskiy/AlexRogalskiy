@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [As Bird Flu Spreads, Two New Cases Diagnosed in California](https://www.nytimes.com/2024/10/04/health/bird-flu-california-missouri.html)
-- [Meta Movie Gen: The King of Video Generation](https://8pixlabs.com/meta-movie-gen/)
-- [Kessler Syndrome](https://en.wikipedia.org/wiki/Kessler_syndrome)
-- [Al Jazeera investigation exposes Israeli &#39;war crimes&#39; in Gaza](https://www.middleeastmonitor.com/20241002-al-jazeera-investigation-exposes-israeli-war-crimes-in-gaza/)
-- [NixPak – Sandboxing for Nix](https://github.com/nixpak/nixpak)
-- [Assessed Cyber Structure and Alignments of North Korea in 2023](https://www.mandiant.com/resources/blog/north-koreahttps://www.mandiant.com/resources/blog/north-korea-cyber-structure-alignment-2023-cyber-structure-alignment-2023)
-- [A victim of a crypto &#39;pig butchering&#39; scam just got his $140k back](https://text.npr.org/g-s1-26505)
-- [The North Korean IT Workers &lpar;The Defender&#39;s Advantage Podcast&rpar;](https://open.spotify.com/episode/0xeaavXjlX2XLm3oibOv6g)
-- [What to do when your intelligence does not align with your interest?](https://news.ycombinator.com/item?id=41747151)
-- [Ask HN: How to open-source to friends but not to enemies?](https://news.ycombinator.com/item?id=41747126)
+- [Government Wiretaps in U.S. Internet Providers Infiltrated by Chinese Hackers](https://www.vulnu.com/p/government-wiretaps-in-u-s-internet-providers-infiltrated-by-chinese-hackers)
+- [Ask HN: What&#39;s one thing you want AI to take over from developers?](https://news.ycombinator.com/item?id=41754317)
+- [&quot;Extreme&quot; Broadcom-proposed price hike would up VMware costs 1,050%, AT&amp;T says](https://arstechnica.com/information-technology/2024/10/broadcom-tried-to-jack-vmware-prices-by-1050-percent-att-claims/)
+- [New AZsPCs Contest – Balto&#39;s Puzzle](http://azspcs.com/Contest/BaltosPuzzle)
+- [In Japan, they started making &lpar;personalized&rpar; toy replicas of people](https://twitter.com/TansuYegen/status/1842653499101741178)
+- [Seed Oil converts to PLASTIC &lpar;AvE&rpar; [video]](https://www.youtube.com/watch?v=Ra_tCL5-4c0)
+- [Personal reflections on moving from Canada to NYC](https://danfrank.ca/personal-reflections-on-moving-from-canada-to-nyc/)
+- [China aims to breed zebrafish aboard Tiangong space station](https://www.space.com/china-breed-zebrafish-tiangong-space-station-video)
+- [How easy is it to create an AI toy like this?](https://twitter.com/fateen_anam/status/1842664188336079132)
+- [Gavin Newsom Bans California from Requiring ID to Vote](https://www.newsweek.com/gavin-newsom-bans-california-requiring-id-vote-1961685)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

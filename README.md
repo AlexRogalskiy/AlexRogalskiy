@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Middle East crisis live: heavy Israeli airstrikes hit Beirut as up to 18 reported killed in attack on Gaza mosque](https://www.theguardian.com/world/live/2024/oct/06/middle-east-crisis-live-heavy-israeli-airstrikes-hit-beirut-as-up-to-18-reported-killed-in-attack-on-gaza-mosque)
-- [Donald Trump makes a theatrical return to Butler, scene of assassination attempt](https://www.theguardian.com/us-news/2024/oct/06/donald-trump-makes-a-theatrical-return-to-butler-scene-of-assassination-attempt)
-- [Ukraine war briefing: Kyiv’s military claims downing of Russian fighter plane over Donetsk region](https://www.theguardian.com/world/2024/oct/06/ukraine-war-briefing-kyivs-military-claims-downing-of-russian-fighter-plane-over-donetsk-region)
-- [Increase wealth taxes to stop rise of Reform UK, says ex-Labour minister](https://www.theguardian.com/politics/2024/oct/05/increase-wealth-taxes-to-stop-rise-of-reform-uk-says-ex-labour-minister)
-- [Government to fund £120 blood test that could detect 12 most common cancers](https://www.theguardian.com/science/2024/oct/05/government-to-fund-120-blood-test-that-could-detect-12-most-common-cancers)
-- [‘He saw how architecture and sculpture could coexist’: why Greece fell in love with Henry Moore](https://www.theguardian.com/artanddesign/2024/oct/05/he-saw-how-architecture-and-sculpture-could-coexist-why-greece-fell-in-love-with-henry-moore)
-- [Parkrun at 20: how a gentle jog turned into a 5km Saturday morning obsession](https://www.theguardian.com/lifeandstyle/2024/oct/05/parkrun-at-20-years-old-how-a-gentle-jog-turned-into-a-5km-saturday-morning-obsession)
-- [Ten Hag’s transfers rated: flop Antony set tone for United’s slap-dash spree](https://www.theguardian.com/football/2024/oct/05/ten-hags-transfers-rated-flop-antony-set-tone-for-uniteds-slap-dash-spree)
-- [Doubts grow over Labour’s VAT plan for private schools](https://www.theguardian.com/education/2024/oct/05/doubts-grow-over-labours-vat-plan-for-private-schools)
-- [The moment I knew: we were rehearsing a difficult dance move – and I caught her head before she hit the floor](https://www.theguardian.com/lifeandstyle/2024/oct/06/the-moment-i-knew-we-were-rehearsing-a-difficult-dance-move-and-i-caught-her-head-before-she-hit-the-floor)
+- [7 October, one year on: a return to kibbutz Nir Oz – podcast](https://www.theguardian.com/news/audio/2024/oct/07/7-october-one-year-on-a-return-to-kibbutz-nir-oz-podcast)
+- [Al Pacino reveals he almost died of Covid – and delivers his verdict on the afterlife](https://www.theguardian.com/film/2024/oct/07/al-pacino-covid-almost-died-nyt-interview)
+- [New Zealand navy ship Manawanui sinks off Samoa](https://www.theguardian.com/world/2024/oct/07/new-zealand-navy-ship-manawanui-sinks-off-samoa)
+- [Communist China not the motherland, says Taiwan’s president, because our republic is older](https://www.theguardian.com/world/2024/oct/06/mainland-china-not-the-motherland-says-taiwans-president-because-our-republic-is-older)
+- [Ukraine war briefing: Anti-Kremlin figure Ildar Dadin dies fighting on Ukrainian side](https://www.theguardian.com/world/2024/oct/07/ukraine-war-briefing-drones-f-16s-and-patriots-on-dutch-menu-of-aid-to-kyiv-ukrainians)
+- [Black bear with three cubs attacks man after breaking into Colorado home](https://www.theguardian.com/us-news/2024/oct/06/black-bear-attacks-man-colorado-home)
+- [One dead and three injured after explosion at block of flats in Alloa](https://www.theguardian.com/uk-news/2024/oct/07/one-dead-and-three-injured-after-explosion-at-block-of-flats-in-alloa)
+- [Baby boomers living longer but are in worse health than previous generations](https://www.theguardian.com/society/2024/oct/07/baby-boomers-living-longer-but-are-in-worse-health-than-previous-generations)
+- [Juno and the Paycock review – Mark Rylance delights as a drunken fantasist Dubliner](https://www.theguardian.com/stage/2024/oct/07/juno-and-the-paycock-review-mark-rylance-j-smith-cameron-gielgud-theatre)
+- [NHS maternity staff to receive mandatory training to improve patient safety](https://www.theguardian.com/society/2024/oct/07/nhs-maternity-staff-to-receive-mandatory-training-to-improve-patient-safety)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

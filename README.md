@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [We&#39;re excited about our new roundabout](https://wsdotblog.blogspot.com/2024/10/in-case-you-cant-tell-were-really.html)
-- [So thieves broke into your storage unit – again](http://oldvcr.blogspot.com/2024/10/so-thieves-broke-into-your-storage-unit.html)
-- [Insecure Deebot robot vacuums collect photos and audio to train AI](https://www.abc.net.au/news/2024-10-05/robot-vacuum-deebot-ecovacs-photos-ai/104416632)
-- [Arthur Whitney&#39;s one liner sudoku solver](https://dfns.dyalog.com/n_sudoku.htm)
-- [WordPress Plugin Mirror Downloader &lpar;Proof of Concept&rpar;](https://github.com/centminmod/wordpress-plugin-mirror-poc)
-- [Buildroot](https://buildroot.org/)
-- [Continue &lpar;YC S23&rpar; Is Hiring a Developer Relations Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/il3YrJC-developer-relations-engineer)
-- [Forage conservation is a neglected nitrous oxide source](https://academic.oup.com/pnasnexus/article/3/9/pgae373/7756552)
-- [What is the history of the use of &quot;foo&quot; and &quot;bar&quot; in source code examples? &lpar;2012&rpar;](https://softwareengineering.stackexchange.com/questions/69788/what-is-the-history-of-the-use-of-foo-and-bar-in-source-code-examples)
-- [Router Security](https://routersecurity.org/)
+- [React on the server is not PHP](https://www.artmann.co/articles/react-on-the-server-is-not-php)
+- [Octothorpes: Hashtags for the Open Internet](https://octothorp.es/docs)
+- [A Neuromorphic Hardware-Compatible Transformer-Based Spiking Language Model](https://arxiv.org/abs/2409.15298)
+- [Google’s AI thinks I left a Gatorade bottle on the moon](https://edwardbenson.com/2024/10/google-ai-thinks-i-left-gatorade-on-the-moon)
+- [AI won&#39;t replace human devs anytime soon](https://twitter.com/skeptrune/status/1843060221494895058)
+- [Sq.io: jq for databases and more](https://sq.io)
+- [Hyprland 0.44](https://hyprland.org/news/update44/)
+- [Rust needs a web framework](https://ntietz.com/blog/rust-needs-a-web-framework-for-lazy-developers/)
+- [UpCodes &lpar;YC S17&rpar; is hiring recruiters to build out remote team](https://up.codes/careers?utm_source=HN)
+- [AVX Bitwise ternary logic instruction busted](https://arnaud-carre.github.io/2024-10-06-vpternlogd/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Government Wiretaps in U.S. Internet Providers Infiltrated by Chinese Hackers](https://www.vulnu.com/p/government-wiretaps-in-u-s-internet-providers-infiltrated-by-chinese-hackers)
-- [Ask HN: What&#39;s one thing you want AI to take over from developers?](https://news.ycombinator.com/item?id=41754317)
-- [&quot;Extreme&quot; Broadcom-proposed price hike would up VMware costs 1,050%, AT&amp;T says](https://arstechnica.com/information-technology/2024/10/broadcom-tried-to-jack-vmware-prices-by-1050-percent-att-claims/)
-- [New AZsPCs Contest – Balto&#39;s Puzzle](http://azspcs.com/Contest/BaltosPuzzle)
-- [In Japan, they started making &lpar;personalized&rpar; toy replicas of people](https://twitter.com/TansuYegen/status/1842653499101741178)
-- [Seed Oil converts to PLASTIC &lpar;AvE&rpar; [video]](https://www.youtube.com/watch?v=Ra_tCL5-4c0)
-- [Personal reflections on moving from Canada to NYC](https://danfrank.ca/personal-reflections-on-moving-from-canada-to-nyc/)
-- [China aims to breed zebrafish aboard Tiangong space station](https://www.space.com/china-breed-zebrafish-tiangong-space-station-video)
-- [How easy is it to create an AI toy like this?](https://twitter.com/fateen_anam/status/1842664188336079132)
-- [Gavin Newsom Bans California from Requiring ID to Vote](https://www.newsweek.com/gavin-newsom-bans-california-requiring-id-vote-1961685)
+- [How to Cache Well in Go](https://iot-dev-egi.pages.dev/learn/go-how-to-do-caching-effectively/)
+- [Discovering Roman Mosaics &lpar;2020&rpar;](https://www.world-archaeology.com/features/discovering-roman-mosaics/)
+- [Sleep Deprivation Brings Euphoria](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3086142/https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3086142/)
+- [The Noblest of Things](https://www.threepennyreview.com/the-noblest-of-things/)
+- [Was Bruce Willis right? Could a nuclear blast save us from killer asteroid?](https://www.aljazeera.com/news/2024/10/4/was-bruce-willis-right-could-a-nuclear-blast-save-us-from-killer-asteroid)
+- [Why the US fears Chinese cyberattacks on electric vehicles](https://www.france24.com/en/americas/20240929-trojan-cars-why-the-us-fears-china-cyberattacks-on-electric-vehicles-russia)
+- [Windows Phone Games List](https://www.mobygames.com/platform/windows-phone/)
+- [Ecstasy and Amnesia in the Gaza Strip](https://mosaicmagazine.com/essay/israel-zionism/2023/11/ecstasy-and-amnesia-in-the-gaza-strip/)
+- [The Fed Took $3k from You and Gave It to Jamie Dimon](https://www.thebignewsletter.com/p/monopoly-round-up-the-fed-took-3k)
+- [Recently launched Startup requesting feedback](https://www.hability.app)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

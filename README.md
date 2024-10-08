@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [How to Cache Well in Go](https://iot-dev-egi.pages.dev/learn/go-how-to-do-caching-effectively/)
-- [Discovering Roman Mosaics &lpar;2020&rpar;](https://www.world-archaeology.com/features/discovering-roman-mosaics/)
-- [Sleep Deprivation Brings Euphoria](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3086142/https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3086142/)
-- [The Noblest of Things](https://www.threepennyreview.com/the-noblest-of-things/)
-- [Was Bruce Willis right? Could a nuclear blast save us from killer asteroid?](https://www.aljazeera.com/news/2024/10/4/was-bruce-willis-right-could-a-nuclear-blast-save-us-from-killer-asteroid)
-- [Why the US fears Chinese cyberattacks on electric vehicles](https://www.france24.com/en/americas/20240929-trojan-cars-why-the-us-fears-china-cyberattacks-on-electric-vehicles-russia)
-- [Windows Phone Games List](https://www.mobygames.com/platform/windows-phone/)
-- [Ecstasy and Amnesia in the Gaza Strip](https://mosaicmagazine.com/essay/israel-zionism/2023/11/ecstasy-and-amnesia-in-the-gaza-strip/)
-- [The Fed Took $3k from You and Gave It to Jamie Dimon](https://www.thebignewsletter.com/p/monopoly-round-up-the-fed-took-3k)
-- [Recently launched Startup requesting feedback](https://www.hability.app)
+- [C++20 coroutines without heap allocation](https://pigweed.dev/docs/blog/05-coroutines.html)
+- [Google Confirms New Quantum Encryption for Chrome Is Coming November 6](https://www.forbes.com/sites/daveywinder/2024/09/18/google-confirms-new-quantum-encryption-for-chrome-is-coming-nov-6/)
+- [NaturalAgents: Creating agents with natural language prompts](https://github.com/NaturalAgents/NaturalAgents)
+- [Running the Intel VTune Profiler on Fedora](https://www.jviotti.com/2024/10/08/running-the-intel-vtune-profiler-on-fedora.html)
+- [Explore books that are loved by readers](https://shepherd.com/)
+- [Launching on Product Hunt](https://read.cv/fmerian/launch)
+- [colorful cellular #3](https://openprocessing.org/sketch/1885035/)
+- [Subordinate Latin](https://maxbo.me/subordinate-latin)
+- [California Passes Law Protecting Consumer Brain Data](https://www.nytimes.com/2024/09/29/science/california-neurorights-tech-law.html)
+- [An LLM promoting strategy for deep thinking](https://medium.com/@harishhacker3010/can-we-make-any-smaller-opensource-ai-models-smarter-than-human-1ea507e644a0)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

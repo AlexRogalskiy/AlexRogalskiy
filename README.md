@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [React on the server is not PHP](https://www.artmann.co/articles/react-on-the-server-is-not-php)
-- [Octothorpes: Hashtags for the Open Internet](https://octothorp.es/docs)
-- [A Neuromorphic Hardware-Compatible Transformer-Based Spiking Language Model](https://arxiv.org/abs/2409.15298)
-- [Google’s AI thinks I left a Gatorade bottle on the moon](https://edwardbenson.com/2024/10/google-ai-thinks-i-left-gatorade-on-the-moon)
-- [AI won&#39;t replace human devs anytime soon](https://twitter.com/skeptrune/status/1843060221494895058)
-- [Sq.io: jq for databases and more](https://sq.io)
-- [Hyprland 0.44](https://hyprland.org/news/update44/)
-- [Rust needs a web framework](https://ntietz.com/blog/rust-needs-a-web-framework-for-lazy-developers/)
-- [UpCodes &lpar;YC S17&rpar; is hiring recruiters to build out remote team](https://up.codes/careers?utm_source=HN)
-- [AVX Bitwise ternary logic instruction busted](https://arnaud-carre.github.io/2024-10-06-vpternlogd/)
+- [Japan&#39;s Cat Island won&#39;t survive much longer](https://www.tokyoweekender.com/japan-life/news-and-opinion/cat-island-wont-survive-much-longer/)
+- [An illustrated proof of the CAP theorem](https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/)
+- [Video Surveillance with YOLO+llava](https://github.com/PsyChip/machina)
+- [MoneyGram says hacker stole customers&#39; personal information and transaction data](https://techcrunch.com/2024/10/07/moneygram-says-hackers-stole-customers-personal-information-and-transaction-data/)
+- [Rust is rolling off the Volvo assembly line](https://tweedegolf.nl/en/blog/137/rust-is-rolling-off-the-volvo-assembly-line)
+- [Rewrite cname uncloaking code to account for new ipaddress= option](https://github.com/gorhill/uBlock/commit/6acf97bf51)
+- [Is the attack helicopter dead?](https://hushkit.net/2024/10/07/is-the-attack-helicopter-dead/)
+- [Gunter&#39;s Space Page](https://space.skyrocket.de/index.html)
+- [Google must open Android for third-party stores, rules Epic judge](https://www.theverge.com/policy/2024/10/7/24243316/epic-google-permanent-injunction-ruling-third-party-stores)
+- [Wigle.net: All the networks, found by everyone](https://wigle.net/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

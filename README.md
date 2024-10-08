@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [7 October, one year on: a return to kibbutz Nir Oz – podcast](https://www.theguardian.com/news/audio/2024/oct/07/7-october-one-year-on-a-return-to-kibbutz-nir-oz-podcast)
-- [Al Pacino reveals he almost died of Covid – and delivers his verdict on the afterlife](https://www.theguardian.com/film/2024/oct/07/al-pacino-covid-almost-died-nyt-interview)
-- [New Zealand navy ship Manawanui sinks off Samoa](https://www.theguardian.com/world/2024/oct/07/new-zealand-navy-ship-manawanui-sinks-off-samoa)
-- [Communist China not the motherland, says Taiwan’s president, because our republic is older](https://www.theguardian.com/world/2024/oct/06/mainland-china-not-the-motherland-says-taiwans-president-because-our-republic-is-older)
-- [Ukraine war briefing: Anti-Kremlin figure Ildar Dadin dies fighting on Ukrainian side](https://www.theguardian.com/world/2024/oct/07/ukraine-war-briefing-drones-f-16s-and-patriots-on-dutch-menu-of-aid-to-kyiv-ukrainians)
-- [Black bear with three cubs attacks man after breaking into Colorado home](https://www.theguardian.com/us-news/2024/oct/06/black-bear-attacks-man-colorado-home)
-- [One dead and three injured after explosion at block of flats in Alloa](https://www.theguardian.com/uk-news/2024/oct/07/one-dead-and-three-injured-after-explosion-at-block-of-flats-in-alloa)
-- [Baby boomers living longer but are in worse health than previous generations](https://www.theguardian.com/society/2024/oct/07/baby-boomers-living-longer-but-are-in-worse-health-than-previous-generations)
-- [Juno and the Paycock review – Mark Rylance delights as a drunken fantasist Dubliner](https://www.theguardian.com/stage/2024/oct/07/juno-and-the-paycock-review-mark-rylance-j-smith-cameron-gielgud-theatre)
-- [NHS maternity staff to receive mandatory training to improve patient safety](https://www.theguardian.com/society/2024/oct/07/nhs-maternity-staff-to-receive-mandatory-training-to-improve-patient-safety)
+- [Sue Gray is out: will this solve Labour’s problems? – podcast](https://www.theguardian.com/news/audio/2024/oct/08/sue-gray-is-out-will-this-solve-labours-problems-podcast)
+- [Fema chief warns ‘dangerous’ Trump falsehoods hampering Helene response](https://www.theguardian.com/us-news/2024/oct/07/hurricane-helene-trump-misinformation)
+- [Ukraine war briefing: Hypersonic missile targets major Ukrainian airbase](https://www.theguardian.com/world/2024/oct/08/ukraine-war-briefing-hypersonic-missile-strikes-at-major-ukrainian-airbase)
+- [Beer can artwork accidentally thrown in bin by staff member at Dutch museum](https://www.theguardian.com/world/2024/oct/08/beer-can-artwork-lam-museum-thrown-out-all-the-good-times-we-spent-together)
+- [‘Fear of missing out’ keeping girls and young women online despite sexism](https://www.theguardian.com/media/2024/oct/08/fear-of-missing-out-keeping-girls-and-young-woman-online-despite-sexism-girlguiding)
+- [Haegue Yang review – a must-see show if the slats of venetian blinds make you cry](https://www.theguardian.com/artanddesign/2024/oct/08/haegue-yang-hayward-gallery-london-korean)
+- [‘I make architects’ dreams come true’: Hanif Kara, the magician who makes impossible buildings stay up](https://www.theguardian.com/artanddesign/2024/oct/08/hanif-kara-soane-medal-will-alsop-zaha-hadid)
+- [Rachel Reeves to decide by Wednesday whether to change fiscal rules](https://www.theguardian.com/politics/2024/oct/08/rachel-reeves-to-decide-by-wednesday-whether-to-change-fiscal-rules)
+- [Winter blackouts risk in Great Britain ‘lowest in four years’ despite end of coal](https://www.theguardian.com/business/2024/oct/08/winter-blackouts-risk-great-britain-energy-neso)
+- [Severe Covid infections can inflame brain’s ‘control centre’, research says](https://www.theguardian.com/world/2024/oct/08/severe-covid-infections-can-inflame-brains-control-centre-research-says)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [C++20 coroutines without heap allocation](https://pigweed.dev/docs/blog/05-coroutines.html)
-- [Google Confirms New Quantum Encryption for Chrome Is Coming November 6](https://www.forbes.com/sites/daveywinder/2024/09/18/google-confirms-new-quantum-encryption-for-chrome-is-coming-nov-6/)
-- [NaturalAgents: Creating agents with natural language prompts](https://github.com/NaturalAgents/NaturalAgents)
-- [Running the Intel VTune Profiler on Fedora](https://www.jviotti.com/2024/10/08/running-the-intel-vtune-profiler-on-fedora.html)
-- [Explore books that are loved by readers](https://shepherd.com/)
-- [Launching on Product Hunt](https://read.cv/fmerian/launch)
-- [colorful cellular #3](https://openprocessing.org/sketch/1885035/)
-- [Subordinate Latin](https://maxbo.me/subordinate-latin)
-- [California Passes Law Protecting Consumer Brain Data](https://www.nytimes.com/2024/09/29/science/california-neurorights-tech-law.html)
-- [An LLM promoting strategy for deep thinking](https://medium.com/@harishhacker3010/can-we-make-any-smaller-opensource-ai-models-smarter-than-human-1ea507e644a0)
+- [Advanced SQL for 10x Data Analysts: Part 1](https://www.lycee.ai/blog/advanced-sql-for-10x-data-analysts-part-1)
+- [Exposed: How Israeli Spies Control Your VPN](https://www.mintpressnews.com/exposed-how-israeli-spies-control-your-vpn/288259/)
+- [Nagel: What is it like to be a bat?](http://www.philosopher.eu/others-writings/nagel-what-is-it-like-to-be-a-bat/)
+- [Buy, Borrow, Die](https://medium.com/thatmeaning/buy-borrow-die-ffb4723c07df)
+- [Short Seller Hindenburg Goes After Roblox](https://www.wsj.com/tech/short-seller-hindenburg-says-roblox-inflates-user-metrics-compromises-child-safety-92c77b5e)
+- [A Cozy WWDC – Todd Heberlein](https://www.toddheberlein.com/blog/2024/10/3/a-cozy-wwdc)
+- [US Says It&#39;s Weighing Google Breakup as Monopoly Case Remedy](https://www.bloomberg.com/news/articles/2024-10-09/us-says-it-s-weighing-google-breakup-as-remedy-in-monopoly-case)
+- [The Future of Work in San Francisco](https://ainotebook.app/notes/5vuat2cddjaj-575gzdbafdjb/audio)
+- [Howard T. Odum](https://en.wikipedia.org/wiki/Howard_T._Odum)
+- [Our son died. Now we can use his sperm to have a grandchild](https://www.bbc.com/news/articles/cnvdgv6rejvo)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

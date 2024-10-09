@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Sue Gray is out: will this solve Labour’s problems? – podcast](https://www.theguardian.com/news/audio/2024/oct/08/sue-gray-is-out-will-this-solve-labours-problems-podcast)
-- [Fema chief warns ‘dangerous’ Trump falsehoods hampering Helene response](https://www.theguardian.com/us-news/2024/oct/07/hurricane-helene-trump-misinformation)
-- [Ukraine war briefing: Hypersonic missile targets major Ukrainian airbase](https://www.theguardian.com/world/2024/oct/08/ukraine-war-briefing-hypersonic-missile-strikes-at-major-ukrainian-airbase)
-- [Beer can artwork accidentally thrown in bin by staff member at Dutch museum](https://www.theguardian.com/world/2024/oct/08/beer-can-artwork-lam-museum-thrown-out-all-the-good-times-we-spent-together)
-- [‘Fear of missing out’ keeping girls and young women online despite sexism](https://www.theguardian.com/media/2024/oct/08/fear-of-missing-out-keeping-girls-and-young-woman-online-despite-sexism-girlguiding)
-- [Haegue Yang review – a must-see show if the slats of venetian blinds make you cry](https://www.theguardian.com/artanddesign/2024/oct/08/haegue-yang-hayward-gallery-london-korean)
-- [‘I make architects’ dreams come true’: Hanif Kara, the magician who makes impossible buildings stay up](https://www.theguardian.com/artanddesign/2024/oct/08/hanif-kara-soane-medal-will-alsop-zaha-hadid)
-- [Rachel Reeves to decide by Wednesday whether to change fiscal rules](https://www.theguardian.com/politics/2024/oct/08/rachel-reeves-to-decide-by-wednesday-whether-to-change-fiscal-rules)
-- [Winter blackouts risk in Great Britain ‘lowest in four years’ despite end of coal](https://www.theguardian.com/business/2024/oct/08/winter-blackouts-risk-great-britain-energy-neso)
-- [Severe Covid infections can inflame brain’s ‘control centre’, research says](https://www.theguardian.com/world/2024/oct/08/severe-covid-infections-can-inflame-brains-control-centre-research-says)
+- [Unleashed: John Crace digests Boris Johnson’s memoir – podcast](https://www.theguardian.com/politics/audio/2024/oct/09/unleashed-john-crace-digests-boris-johnsons-memoir-podcast)
+- [The high life: Kamala Harris cracks open a beer with Stephen Colbert](https://www.theguardian.com/us-news/2024/oct/08/kamala-harris-beer-stephen-colbert-interview)
+- [Fugitive father filmed with children in New Zealand wilderness three years after disappearing](https://www.theguardian.com/world/2024/oct/09/fugitive-father-filmed-with-children-in-nz-wilderness-three-years-after-disappearing-ntwnfb)
+- [The Office’s Jenna Fischer reveals ‘aggressive’ breast cancer diagnosis](https://www.theguardian.com/tv-and-radio/2024/oct/09/jenna-fischer-breast-cancer-diagnosis-instagram-post-the-office)
+- [More than 9 million Britons vulnerable to reliance on food banks, research finds](https://www.theguardian.com/society/2024/oct/09/britons-vulnerable-reliance-food-banks-research-finds)
+- [UK advertising watchdog cracks down on misleading broadband price ads](https://www.theguardian.com/business/2024/oct/09/uk-advertising-watchdog-cracks-down-on-misleading-broadband-price-ads)
+- [Energy industry trade body chief to head UK’s climate watchdog](https://www.theguardian.com/environment/2024/oct/09/energy-industry-trade-body-chief-to-head-uks-climate-watchdog)
+- [Francis Bacon: Human Presence review – ‘This whirligig of horrors is the best Bacon show I’ve ever seen’](https://www.theguardian.com/artanddesign/2024/oct/09/francis-bacon-human-presence-review-national-portrait-gallery-london)
+- [‘Survivor’s guilt is overwhelming’: the grief of losing 21 relatives in one airstrike in Gaza](https://www.theguardian.com/world/2024/oct/09/survivors-guilt-is-overwhelming-the-grief-of-losing-21-relatives-in-one-airstrike-in-gaza)
+- [Brazil lifts ban on X after Elon Musk complies with court demands](https://www.theguardian.com/technology/2024/oct/08/musks-x-reinstated-in-brazil-after-complying-with-supreme-court-demands)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

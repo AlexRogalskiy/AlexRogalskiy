@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Japan&#39;s Cat Island won&#39;t survive much longer](https://www.tokyoweekender.com/japan-life/news-and-opinion/cat-island-wont-survive-much-longer/)
-- [An illustrated proof of the CAP theorem](https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/)
-- [Video Surveillance with YOLO+llava](https://github.com/PsyChip/machina)
-- [MoneyGram says hacker stole customers&#39; personal information and transaction data](https://techcrunch.com/2024/10/07/moneygram-says-hackers-stole-customers-personal-information-and-transaction-data/)
-- [Rust is rolling off the Volvo assembly line](https://tweedegolf.nl/en/blog/137/rust-is-rolling-off-the-volvo-assembly-line)
-- [Rewrite cname uncloaking code to account for new ipaddress= option](https://github.com/gorhill/uBlock/commit/6acf97bf51)
-- [Is the attack helicopter dead?](https://hushkit.net/2024/10/07/is-the-attack-helicopter-dead/)
-- [Gunter&#39;s Space Page](https://space.skyrocket.de/index.html)
-- [Google must open Android for third-party stores, rules Epic judge](https://www.theverge.com/policy/2024/10/7/24243316/epic-google-permanent-injunction-ruling-third-party-stores)
-- [Wigle.net: All the networks, found by everyone](https://wigle.net/)
+- [The human internet is dying. AI images are taking over Google top results](https://old.reddit.com/r/ChatGPT/comments/1fye6tb/the_human_internet_is_dying_ai_images_taking_over/)
+- [A Vtuber Just Became Twitch&#39;s Most-Subscribed Streamer](https://kotaku.com/ironmouse-kai-cenat-twitch-vtuber-sub-record-1851661798)
+- [Emoji as a Favicon Using SVG](https://css-tricks.com/emoji-as-a-favicon/)
+- [On the Nature of Time](https://writings.stephenwolfram.com/2024/10/on-the-nature-of-time/)
+- [If the Django Software Foundation had $1M](https://jacobian.org/2024/oct/8/dsf-one-million/)
+- [Don&#39;t let dicts spoil your code](https://roman.pt/posts/dont-let-dicts-spoil-your-code/)
+- [Practices of Reliable Software Design](https://entropicthoughts.com/practices-of-reliable-software-design)
+- [Instant &lpar;YC S22&rpar; is hiring a founding engineer to help build a modern Firebase](https://news.ycombinator.com/item?id=41781768)
+- [A modest critique of Htmx](https://chrisdone.com/posts/htmx-critique/)
+- [Lunar Lake&#39;s iGPU: Debut of Intel&#39;s Xe2 Architecture](https://chipsandcheese.com/p/lunar-lakes-igpu-debut-of-intels)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

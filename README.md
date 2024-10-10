@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The human internet is dying. AI images are taking over Google top results](https://old.reddit.com/r/ChatGPT/comments/1fye6tb/the_human_internet_is_dying_ai_images_taking_over/)
-- [A Vtuber Just Became Twitch&#39;s Most-Subscribed Streamer](https://kotaku.com/ironmouse-kai-cenat-twitch-vtuber-sub-record-1851661798)
-- [Emoji as a Favicon Using SVG](https://css-tricks.com/emoji-as-a-favicon/)
-- [On the Nature of Time](https://writings.stephenwolfram.com/2024/10/on-the-nature-of-time/)
-- [If the Django Software Foundation had $1M](https://jacobian.org/2024/oct/8/dsf-one-million/)
-- [Don&#39;t let dicts spoil your code](https://roman.pt/posts/dont-let-dicts-spoil-your-code/)
-- [Practices of Reliable Software Design](https://entropicthoughts.com/practices-of-reliable-software-design)
-- [Instant &lpar;YC S22&rpar; is hiring a founding engineer to help build a modern Firebase](https://news.ycombinator.com/item?id=41781768)
-- [A modest critique of Htmx](https://chrisdone.com/posts/htmx-critique/)
-- [Lunar Lake&#39;s iGPU: Debut of Intel&#39;s Xe2 Architecture](https://chipsandcheese.com/p/lunar-lakes-igpu-debut-of-intels)
+- [Being Generous, Thoughtful, and Kind is a Sign of High Intelligence](https://www.inc.com/jeff-haden/science-says-being-generous-thoughtful-and-kind-is-a-sign-of-high-intelligence-organizational-psychologist-adam-grant-agrees/90985740)
+- [Valproate reopens critical-period learning of absolute pitch &lpar;2013&rpar;](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3848041/)
+- [Instagram and Threads moderation is out of control](https://www.theverge.com/2024/10/9/24266096/instagram-threads-moderation-account-post-deleted-limited)
+- [You Don’t Know Jack about Bandwidth](https://cacm.acm.org/practice/you-dont-know-jack-about-bandwidth/)
+- [Why Gov.uk&#39;s Exit this Page component doesn&#39;t use the Escape key](https://beeps.website/blog/2024-10-09-why-govuk-exit-this-page-doesnt-use-escape/)
+- [Upgrading Homebrew and avoiding the &quot;failed to verify attestation&quot; error](https://til.simonwillison.net/homebrew/no-verify-attestations)
+- [Internet Archive: Security breach alert](https://www.theverge.com/2024/10/9/24266419/internet-archive-ddos-attack-pop-up-message)
+- [Tcl the Misunderstood &lpar;Antirez&rpar;](http://antirez.com/articoli/tclmisunderstood.html)
+- [Dito – an advanced Layer 7 reverse proxy server written in Go](https://github.com/andrearaponi/dito)
+- [Dookie Demastered](https://www.dookiedemastered.com/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

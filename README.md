@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Advanced SQL for 10x Data Analysts: Part 1](https://www.lycee.ai/blog/advanced-sql-for-10x-data-analysts-part-1)
-- [Exposed: How Israeli Spies Control Your VPN](https://www.mintpressnews.com/exposed-how-israeli-spies-control-your-vpn/288259/)
-- [Nagel: What is it like to be a bat?](http://www.philosopher.eu/others-writings/nagel-what-is-it-like-to-be-a-bat/)
-- [Buy, Borrow, Die](https://medium.com/thatmeaning/buy-borrow-die-ffb4723c07df)
-- [Short Seller Hindenburg Goes After Roblox](https://www.wsj.com/tech/short-seller-hindenburg-says-roblox-inflates-user-metrics-compromises-child-safety-92c77b5e)
-- [A Cozy WWDC – Todd Heberlein](https://www.toddheberlein.com/blog/2024/10/3/a-cozy-wwdc)
-- [US Says It&#39;s Weighing Google Breakup as Monopoly Case Remedy](https://www.bloomberg.com/news/articles/2024-10-09/us-says-it-s-weighing-google-breakup-as-remedy-in-monopoly-case)
-- [The Future of Work in San Francisco](https://ainotebook.app/notes/5vuat2cddjaj-575gzdbafdjb/audio)
-- [Howard T. Odum](https://en.wikipedia.org/wiki/Howard_T._Odum)
-- [Our son died. Now we can use his sperm to have a grandchild](https://www.bbc.com/news/articles/cnvdgv6rejvo)
+- [Crystal 1.14.0 Is Released](https://crystal-lang.org/2024/10/09/1.14.0-released/)
+- [Subs: Track Your Subscriptions Easily](https://github.com/ajnart/subs)
+- [Boost SEO and Accessibility–Use AI-Generated Alt Text](https://alttextgenerator.co/blog/ai-alt-text-seo-accessibility)
+- [A crash test reveals EVs aren&#39;t stopped by guardrails, compared to gas engines](https://www.kbtx.com/2024/10/09/texas-am-tti-researches-electric-vehicle-safety-via-crash-test-jaws-hit-ground/)
+- [Microspeak: Run to Ground](https://devblogs.microsoft.com/oldnewthing/20241008-00/?p=110351)
+- [State of the Art RAG Chat](https://news.ycombinator.com/item?id=41794902)
+- [Amazon Dreams of AI Agents That Do the Shopping for You](https://www.wired.com/story/amazon-ai-agents-shopping-guides-rufus/)
+- [Ratan Tata dies aged 86 years; India loses an icon](https://www.cnbctv18.com/business/ratan-tata-dies-aged-86-years-india-loses-an-icon-19490148.htm)
+- [The Uneven Distribution of Canadian Income, Cash Flow, and Net Worth](https://themeasureofaplan.com/canadian-savings/)
+- [Why Python &lpar;2000&rpar;](https://www.linuxjournal.com/article/3882)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

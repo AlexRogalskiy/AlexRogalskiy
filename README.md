@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Unleashed: John Crace digests Boris Johnson’s memoir – podcast](https://www.theguardian.com/politics/audio/2024/oct/09/unleashed-john-crace-digests-boris-johnsons-memoir-podcast)
-- [The high life: Kamala Harris cracks open a beer with Stephen Colbert](https://www.theguardian.com/us-news/2024/oct/08/kamala-harris-beer-stephen-colbert-interview)
-- [Fugitive father filmed with children in New Zealand wilderness three years after disappearing](https://www.theguardian.com/world/2024/oct/09/fugitive-father-filmed-with-children-in-nz-wilderness-three-years-after-disappearing-ntwnfb)
-- [The Office’s Jenna Fischer reveals ‘aggressive’ breast cancer diagnosis](https://www.theguardian.com/tv-and-radio/2024/oct/09/jenna-fischer-breast-cancer-diagnosis-instagram-post-the-office)
-- [More than 9 million Britons vulnerable to reliance on food banks, research finds](https://www.theguardian.com/society/2024/oct/09/britons-vulnerable-reliance-food-banks-research-finds)
-- [UK advertising watchdog cracks down on misleading broadband price ads](https://www.theguardian.com/business/2024/oct/09/uk-advertising-watchdog-cracks-down-on-misleading-broadband-price-ads)
-- [Energy industry trade body chief to head UK’s climate watchdog](https://www.theguardian.com/environment/2024/oct/09/energy-industry-trade-body-chief-to-head-uks-climate-watchdog)
-- [Francis Bacon: Human Presence review – ‘This whirligig of horrors is the best Bacon show I’ve ever seen’](https://www.theguardian.com/artanddesign/2024/oct/09/francis-bacon-human-presence-review-national-portrait-gallery-london)
-- [‘Survivor’s guilt is overwhelming’: the grief of losing 21 relatives in one airstrike in Gaza](https://www.theguardian.com/world/2024/oct/09/survivors-guilt-is-overwhelming-the-grief-of-losing-21-relatives-in-one-airstrike-in-gaza)
-- [Brazil lifts ban on X after Elon Musk complies with court demands](https://www.theguardian.com/technology/2024/oct/08/musks-x-reinstated-in-brazil-after-complying-with-supreme-court-demands)
+- [Hurricane Milton live updates: more than 1.5 million without power after storm makes landfall in Florida](https://www.theguardian.com/us-news/live/2024/oct/09/hurricane-milton-landfall-florida-latest-updates)
+- [‘I am your retribution’: Trump’s radical plan to remake the presidency – podcast](https://www.theguardian.com/news/audio/2024/oct/10/i-am-your-retribution-trumps-radical-plan-to-remake-the-presidency-podcast)
+- [At least 400,000 people trapped by Israel’s latest Gaza offensive, says Unrwa](https://www.theguardian.com/world/2024/oct/09/at-least-400000-people-trapped-by-israels-latest-gaza-offensive-says-unrwa)
+- [Ukraine war briefing: End the war in 2025 through ‘decisive action’, says Zelenskyy](https://www.theguardian.com/world/2024/oct/10/ukraine-war-briefing-end-the-war-in-2025-through-decisive-action-says-zelenskyy)
+- [New enforcement agency will protect workers’ rights as part of ‘watershed’ bill](https://www.theguardian.com/politics/2024/oct/10/new-enforcement-agency-will-protect-workers-rights-as-part-of-watershed-bill)
+- [Labour needs £25bn a year in tax rises to rebuild public services, warns IFS](https://www.theguardian.com/business/2024/oct/10/labour-needs-25bn-a-year-in-tax-rises-to-rebuild-public-services-warns-ifs)
+- [Foreign aid for fossil fuel projects quadrupled in a single year](https://www.theguardian.com/environment/2024/oct/10/foreign-aid-for-fossil-fuel-projects-quadrupled-in-a-single-year)
+- [Labour’s employment rights bill: what key changes will it bring?](https://www.theguardian.com/law/2024/oct/10/labour-employment-rights-bill-key-changes)
+- [Stage set for battle of the dynasties as Rodrigo Duterte eyes return to politics in the Philippines](https://www.theguardian.com/world/2024/oct/10/stage-set-for-battle-of-the-dynasties-as-rodrigo-duterte-eyes-return-to-politics-in-the-philippines)
+- [Former Sheffield United defender George Baldock dies aged 31](https://www.theguardian.com/football/2024/oct/09/former-sheffield-united-defender-george-baldock-dies-football)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

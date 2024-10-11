@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Being Generous, Thoughtful, and Kind is a Sign of High Intelligence](https://www.inc.com/jeff-haden/science-says-being-generous-thoughtful-and-kind-is-a-sign-of-high-intelligence-organizational-psychologist-adam-grant-agrees/90985740)
-- [Valproate reopens critical-period learning of absolute pitch &lpar;2013&rpar;](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3848041/)
-- [Instagram and Threads moderation is out of control](https://www.theverge.com/2024/10/9/24266096/instagram-threads-moderation-account-post-deleted-limited)
-- [You Don’t Know Jack about Bandwidth](https://cacm.acm.org/practice/you-dont-know-jack-about-bandwidth/)
-- [Why Gov.uk&#39;s Exit this Page component doesn&#39;t use the Escape key](https://beeps.website/blog/2024-10-09-why-govuk-exit-this-page-doesnt-use-escape/)
-- [Upgrading Homebrew and avoiding the &quot;failed to verify attestation&quot; error](https://til.simonwillison.net/homebrew/no-verify-attestations)
-- [Internet Archive: Security breach alert](https://www.theverge.com/2024/10/9/24266419/internet-archive-ddos-attack-pop-up-message)
-- [Tcl the Misunderstood &lpar;Antirez&rpar;](http://antirez.com/articoli/tclmisunderstood.html)
-- [Dito – an advanced Layer 7 reverse proxy server written in Go](https://github.com/andrearaponi/dito)
-- [Dookie Demastered](https://www.dookiedemastered.com/)
+- [$2 H100s: How the GPU Rental Bubble Burst](https://www.latent.space/p/gpu-bubble)
+- [An Update on Gccrs Development](https://lwn.net/Articles/991199/)
+- [BigSearch Browser Extension](https://github.com/garywill/BigSearch)
+- [ARIA: An Open Multimodal Native Mixture-of-Experts Model](https://arxiv.org/abs/2410.05993)
+- [Running WolfSSL and Curl on Windows 2000](http://datagirl.xyz/posts/wolfssl_curl_w2k.html)
+- [Is population density the reason Americans can&#39;t discuss politics?](https://www.georgesaines.com/blog/2024/10/10/is-population-density-the-reason-americans-cant-discuss-politics)
+- [The Copenhagen Book: general guideline on implementing auth in web applications](https://thecopenhagenbook.com/)
+- [TypedDicts are better than you think](https://blog.changs.co.uk/typeddicts-are-better-than-you-think.html)
+- [Show HN: HTML for People](https://htmlforpeople.com)
+- [Game Programming in Prolog](https://thingspool.net/morsels/page-10.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

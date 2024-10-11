@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Hurricane Milton live updates: more than 1.5 million without power after storm makes landfall in Florida](https://www.theguardian.com/us-news/live/2024/oct/09/hurricane-milton-landfall-florida-latest-updates)
-- [‘I am your retribution’: Trump’s radical plan to remake the presidency – podcast](https://www.theguardian.com/news/audio/2024/oct/10/i-am-your-retribution-trumps-radical-plan-to-remake-the-presidency-podcast)
-- [At least 400,000 people trapped by Israel’s latest Gaza offensive, says Unrwa](https://www.theguardian.com/world/2024/oct/09/at-least-400000-people-trapped-by-israels-latest-gaza-offensive-says-unrwa)
-- [Ukraine war briefing: End the war in 2025 through ‘decisive action’, says Zelenskyy](https://www.theguardian.com/world/2024/oct/10/ukraine-war-briefing-end-the-war-in-2025-through-decisive-action-says-zelenskyy)
-- [New enforcement agency will protect workers’ rights as part of ‘watershed’ bill](https://www.theguardian.com/politics/2024/oct/10/new-enforcement-agency-will-protect-workers-rights-as-part-of-watershed-bill)
-- [Labour needs £25bn a year in tax rises to rebuild public services, warns IFS](https://www.theguardian.com/business/2024/oct/10/labour-needs-25bn-a-year-in-tax-rises-to-rebuild-public-services-warns-ifs)
-- [Foreign aid for fossil fuel projects quadrupled in a single year](https://www.theguardian.com/environment/2024/oct/10/foreign-aid-for-fossil-fuel-projects-quadrupled-in-a-single-year)
-- [Labour’s employment rights bill: what key changes will it bring?](https://www.theguardian.com/law/2024/oct/10/labour-employment-rights-bill-key-changes)
-- [Stage set for battle of the dynasties as Rodrigo Duterte eyes return to politics in the Philippines](https://www.theguardian.com/world/2024/oct/10/stage-set-for-battle-of-the-dynasties-as-rodrigo-duterte-eyes-return-to-politics-in-the-philippines)
-- [Former Sheffield United defender George Baldock dies aged 31](https://www.theguardian.com/football/2024/oct/09/former-sheffield-united-defender-george-baldock-dies-football)
+- [One dead and 12 rescued after elevator malfunction trapped group in Colorado gold mine](https://www.theguardian.com/us-news/2024/oct/10/colorado-gold-mine-people-trapped)
+- [One man on his grief for Gaza – podcast](https://www.theguardian.com/news/audio/2024/oct/11/one-man-on-his-grief-for-gaza-podcast)
+- [Obama says Trump sees power ‘as a means to an end – as it happened](https://www.theguardian.com/us-news/live/2024/oct/10/trump-harris-biden-election-politics-latest-updates)
+- [Ukraine war briefing: Zelenskyy presents ‘victory plan’ to European allies as long-range strikes discussed](https://www.theguardian.com/world/2024/oct/11/ukraine-war-briefing-zelenskyy-presents-victory-plan-to-european-allies-as-long-range-strikes-discussed)
+- [‘A nightmare scenario’: man rescued 48km off Florida coast clinging to ice box after Hurricane Milton](https://www.theguardian.com/us-news/2024/oct/11/a-nightmare-scenario-man-rescued-48km-off-florida-coast-clinging-to-ice-box-after-hurricane-milton)
+- [‘We are trying for a baby, but how do we navigate becoming parents if we struggle with monogamy?’ | Leading questions](https://www.theguardian.com/lifeandstyle/2024/oct/11/we-are-trying-for-a-baby-but-how-do-we-navigate-becoming-parents-if-we-struggle-with-monogamy)
+- [The Fear of 13 review – Adrien Brody lacks space to shine in death row drama](https://www.theguardian.com/stage/2024/oct/11/the-fear-of-13-review-adrien-brody-lacks-space-to-shine-in-death-row-drama)
+- [Children being traumatised at Gatwick deportation centre, finds watchdog](https://www.theguardian.com/uk-news/2024/oct/11/children-traumatised-gatwick-deportation-centre-finds-watchdog)
+- [Lonely Planet review - Laura Dern and Liam Hemsworth heat up beach-read travel romance](https://www.theguardian.com/film/2024/oct/11/lonely-planet-review-laura-dern-liam-hemsworth)
+- [Nations League: Italy squander two-goal lead against Belgium after Pellegrini red](https://www.theguardian.com/football/2024/oct/10/nations-league-italy-belgium-france-israel)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

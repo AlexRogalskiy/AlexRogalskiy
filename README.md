@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Crystal 1.14.0 Is Released](https://crystal-lang.org/2024/10/09/1.14.0-released/)
-- [Subs: Track Your Subscriptions Easily](https://github.com/ajnart/subs)
-- [Boost SEO and Accessibility–Use AI-Generated Alt Text](https://alttextgenerator.co/blog/ai-alt-text-seo-accessibility)
-- [A crash test reveals EVs aren&#39;t stopped by guardrails, compared to gas engines](https://www.kbtx.com/2024/10/09/texas-am-tti-researches-electric-vehicle-safety-via-crash-test-jaws-hit-ground/)
-- [Microspeak: Run to Ground](https://devblogs.microsoft.com/oldnewthing/20241008-00/?p=110351)
-- [State of the Art RAG Chat](https://news.ycombinator.com/item?id=41794902)
-- [Amazon Dreams of AI Agents That Do the Shopping for You](https://www.wired.com/story/amazon-ai-agents-shopping-guides-rufus/)
-- [Ratan Tata dies aged 86 years; India loses an icon](https://www.cnbctv18.com/business/ratan-tata-dies-aged-86-years-india-loses-an-icon-19490148.htm)
-- [The Uneven Distribution of Canadian Income, Cash Flow, and Net Worth](https://themeasureofaplan.com/canadian-savings/)
-- [Why Python &lpar;2000&rpar;](https://www.linuxjournal.com/article/3882)
+- [Tesla&#39;s Robotaxi event still not started after 40 minutes [video]](https://www.youtube.com/watch?v=6v6dbxPlsXs)
+- [Tokin: Internet&#39;s Best Videos](https://tokin.tv/)
+- [Alternativeto.net – Alternative Software Website](https://alternativeto.net/)
+- [Duende Software – The Next Chapter](https://blog.duendesoftware.com/posts/20240903_duende_next_chapter/)
+- [Gali,Vfv*G](https://news.ycombinator.com/item?id=41805462)
+- [$2 H100s: How the GPU Rental Bubble Burst](https://www.latent.space/p/gpu-bubble)
+- [ClassicPress: A pre-Gutenberg WordPress fork](https://www.classicpress.net/)
+- [Tito: An In-Memory Rootkit](https://github.com/mephistolist/tito)
+- [Is a repeat of the 2019 repo crisis brewing?](https://www.ft.com/content/b7597b71-8764-4093-bf0f-b6df6ad3c307)
+- [Russia and Turkey ban Discord messaging app](https://therecord.media/discord-messaging-app-banned-russia-turkey)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Tesla&#39;s Robotaxi event still not started after 40 minutes [video]](https://www.youtube.com/watch?v=6v6dbxPlsXs)
-- [Tokin: Internet&#39;s Best Videos](https://tokin.tv/)
-- [Alternativeto.net – Alternative Software Website](https://alternativeto.net/)
-- [Duende Software – The Next Chapter](https://blog.duendesoftware.com/posts/20240903_duende_next_chapter/)
-- [Gali,Vfv*G](https://news.ycombinator.com/item?id=41805462)
-- [$2 H100s: How the GPU Rental Bubble Burst](https://www.latent.space/p/gpu-bubble)
-- [ClassicPress: A pre-Gutenberg WordPress fork](https://www.classicpress.net/)
-- [Tito: An In-Memory Rootkit](https://github.com/mephistolist/tito)
-- [Is a repeat of the 2019 repo crisis brewing?](https://www.ft.com/content/b7597b71-8764-4093-bf0f-b6df6ad3c307)
-- [Russia and Turkey ban Discord messaging app](https://therecord.media/discord-messaging-app-banned-russia-turkey)
+- [Show HN: Dep, a software build automation tool](https://depbuild.org)
+- [Tesla shares drop 9% after Cybercab robotaxi reveal &#39;underwhelmed&#39; investors](https://www.cnbc.com/2024/10/11/tesla-tsla-stock-drops-in-premarket-after-cybercab-robotaxi-reveal.html)
+- [2024-10-11 front – Hacker News](https://news.ycombinator.com/front)
+- [The Ultimate Conditional Syntax](https://dl.acm.org/doi/10.1145/3689746)
+- [Contribute to Dev Encyclopedia for this hacktoberfest](https://devpedia.pages.dev/)
+- [Appreciate Everything, Endlessly - Cabel Sasser, Panic](https://www.youtube.com/watch?v=Df_K7pIsfvg)
+- [Chinese Scientists: We Used Quantum Computer  To Hack Military-Grade Encryption](https://thequantuminsider.com/2024/10/11/chinese-scientists-report-using-quantum-computer-to-hack-military-grade-encryption/)
+- [Show HN: 14.5K Views in 24hrs HTTPS://autopilotlabanlysis.streamlit.app/](https://news.ycombinator.com/item?id=41815775)
+- [Citi Token Services: Transaction Banking Services for Institutional Clients](https://www.citigroup.com/global/news/press-release/2024/citi-token-services-marks-new-milestone)
+- [The web lives in WordPress and Mastodon](http://scripting.com/2024/10/11/132736.html?title=theWebLivesInWordpressAndMastodon)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

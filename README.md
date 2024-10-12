@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [One dead and 12 rescued after elevator malfunction trapped group in Colorado gold mine](https://www.theguardian.com/us-news/2024/oct/10/colorado-gold-mine-people-trapped)
-- [One man on his grief for Gaza – podcast](https://www.theguardian.com/news/audio/2024/oct/11/one-man-on-his-grief-for-gaza-podcast)
-- [Obama says Trump sees power ‘as a means to an end – as it happened](https://www.theguardian.com/us-news/live/2024/oct/10/trump-harris-biden-election-politics-latest-updates)
-- [Ukraine war briefing: Zelenskyy presents ‘victory plan’ to European allies as long-range strikes discussed](https://www.theguardian.com/world/2024/oct/11/ukraine-war-briefing-zelenskyy-presents-victory-plan-to-european-allies-as-long-range-strikes-discussed)
-- [‘A nightmare scenario’: man rescued 48km off Florida coast clinging to ice box after Hurricane Milton](https://www.theguardian.com/us-news/2024/oct/11/a-nightmare-scenario-man-rescued-48km-off-florida-coast-clinging-to-ice-box-after-hurricane-milton)
-- [‘We are trying for a baby, but how do we navigate becoming parents if we struggle with monogamy?’ | Leading questions](https://www.theguardian.com/lifeandstyle/2024/oct/11/we-are-trying-for-a-baby-but-how-do-we-navigate-becoming-parents-if-we-struggle-with-monogamy)
-- [The Fear of 13 review – Adrien Brody lacks space to shine in death row drama](https://www.theguardian.com/stage/2024/oct/11/the-fear-of-13-review-adrien-brody-lacks-space-to-shine-in-death-row-drama)
-- [Children being traumatised at Gatwick deportation centre, finds watchdog](https://www.theguardian.com/uk-news/2024/oct/11/children-traumatised-gatwick-deportation-centre-finds-watchdog)
-- [Lonely Planet review - Laura Dern and Liam Hemsworth heat up beach-read travel romance](https://www.theguardian.com/film/2024/oct/11/lonely-planet-review-laura-dern-liam-hemsworth)
-- [Nations League: Italy squander two-goal lead against Belgium after Pellegrini red](https://www.theguardian.com/football/2024/oct/10/nations-league-italy-belgium-france-israel)
+- [Ukraine war briefing: Zelenskyy appeals to Pope Francis for help in freeing Ukrainian PoWs](https://www.theguardian.com/world/2024/oct/12/ukraine-war-briefing-zelenskyy-appeals-to-pope-francis-for-help-in-freeing-ukrainian-pows)
+- [Biden says Hurricane Milton caused staggering $50bn in estimated damage](https://www.theguardian.com/us-news/2024/oct/11/florida-in-hurricane-milton-damage)
+- [Oregon police find bag full of drugs marked ‘definitely not a bag full of drugs’](https://www.theguardian.com/us-news/2024/oct/11/oregon-police-portland-drugs-bag)
+- [International arrest warrant issued for former Wallabies star Rocky Elsom](https://www.theguardian.com/australia-news/2024/oct/12/international-arrest-warrant-issued-for-former-wallabies-star-rocky-elsom-ntwnfb)
+- [US soldier sentenced to 14 years for trying to help Islamic State kill troops](https://www.theguardian.com/us-news/2024/oct/11/soldier-helping-islamic-state-prison-sentence)
+- [‘People falling asleep wasn’t that unusual’: experimental pioneers the Necks on four decades of improvising](https://www.theguardian.com/music/2024/oct/12/the-necks-band-new-album-bleed-interview)
+- [For the Palestinians who fled to Australia, the home they deeply miss no longer exists](https://www.theguardian.com/world/2024/oct/12/for-the-palestinians-who-fled-to-australia-the-home-they-deeply-miss-no-longer-exists)
+- [‘Photography is steeped in all kinds of colonial complexities’: Adam Ferguson’s outback Australia](https://www.theguardian.com/artanddesign/2024/oct/12/photography-is-steeped-in-all-kinds-of-colonial-complexities-adam-fergusons-outback-australia)
+- [Trump intensifies nativist message with sweeping proposal to deport immigrants](https://www.theguardian.com/us-news/2024/oct/11/trump-aurora-colorado-migrant-crackdown)
+- [Comet last seen in Neanderthal times could be sighted from UK this weekend](https://www.theguardian.com/science/2024/oct/11/comet-a3-last-seen-in-neanderthal-times-could-be-sighted-from-uk-this-weekend)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine war briefing: Zelenskyy appeals to Pope Francis for help in freeing Ukrainian PoWs](https://www.theguardian.com/world/2024/oct/12/ukraine-war-briefing-zelenskyy-appeals-to-pope-francis-for-help-in-freeing-ukrainian-pows)
-- [Biden says Hurricane Milton caused staggering $50bn in estimated damage](https://www.theguardian.com/us-news/2024/oct/11/florida-in-hurricane-milton-damage)
-- [Oregon police find bag full of drugs marked ‘definitely not a bag full of drugs’](https://www.theguardian.com/us-news/2024/oct/11/oregon-police-portland-drugs-bag)
-- [International arrest warrant issued for former Wallabies star Rocky Elsom](https://www.theguardian.com/australia-news/2024/oct/12/international-arrest-warrant-issued-for-former-wallabies-star-rocky-elsom-ntwnfb)
-- [US soldier sentenced to 14 years for trying to help Islamic State kill troops](https://www.theguardian.com/us-news/2024/oct/11/soldier-helping-islamic-state-prison-sentence)
-- [‘People falling asleep wasn’t that unusual’: experimental pioneers the Necks on four decades of improvising](https://www.theguardian.com/music/2024/oct/12/the-necks-band-new-album-bleed-interview)
-- [For the Palestinians who fled to Australia, the home they deeply miss no longer exists](https://www.theguardian.com/world/2024/oct/12/for-the-palestinians-who-fled-to-australia-the-home-they-deeply-miss-no-longer-exists)
-- [‘Photography is steeped in all kinds of colonial complexities’: Adam Ferguson’s outback Australia](https://www.theguardian.com/artanddesign/2024/oct/12/photography-is-steeped-in-all-kinds-of-colonial-complexities-adam-fergusons-outback-australia)
-- [Trump intensifies nativist message with sweeping proposal to deport immigrants](https://www.theguardian.com/us-news/2024/oct/11/trump-aurora-colorado-migrant-crackdown)
-- [Comet last seen in Neanderthal times could be sighted from UK this weekend](https://www.theguardian.com/science/2024/oct/11/comet-a3-last-seen-in-neanderthal-times-could-be-sighted-from-uk-this-weekend)
+- [Ukraine war briefing: Zelenskyy says forces are holding positions in Russia’s Kursk region](https://www.theguardian.com/world/2024/oct/13/ukraine-war-briefing-zelenskyy-says-forces-are-holding-positions-in-russias-kursk-region)
+- [Fabio Wardley stuns Frazer Clarke with first-round KO to retain British title](https://www.theguardian.com/sport/2024/oct/13/fabio-wardley-frazer-clarke-artur-beterbiev-dmitry-bivol-boxing)
+- [More than fat bears: Alaska trail cams show peeks of animals from lynx to moose](https://www.theguardian.com/us-news/2024/oct/12/bears-wolves-moose-alaska-trail-cams)
+- [‘Celebrated again’: Portrait of German jazz-age pioneers lost after Nazi takeover return to Berlin](https://www.theguardian.com/artanddesign/2024/oct/13/nazi-looted-portraits-german-jazz-age-pioneers-berlin-weimar-cabaret)
+- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2024/oct/12/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [China cracks down on Communist party officials for reading banned books](https://www.theguardian.com/world/2024/oct/12/china-communist-party-banned-books-rules-xi-jinping)
+- [Lee Carsley cools talk on England future: ‘The last important thing in this process is me’](https://www.theguardian.com/football/2024/oct/12/england-lee-carsley-backs-rethink-nations-league-finland)
+- [Martín Zubimendi plays Rodri’s part in Spain’s homecoming against Denmark](https://www.theguardian.com/football/2024/oct/12/spain-denmark-nations-league-match-report)
+- [Floridians returning home after Milton battle traffic jams and fuel shortages](https://www.theguardian.com/us-news/2024/oct/12/florida-milton-traffic-jams-fuel-shortages-debris)
+- [Venezuela has cancelled passports of dozens of activists and journalists](https://www.theguardian.com/world/2024/oct/12/venezuela-has-cancelled-passports-of-dozens-of-activists-and-journalists)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

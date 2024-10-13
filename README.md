@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: Dep, a software build automation tool](https://depbuild.org)
-- [Tesla shares drop 9% after Cybercab robotaxi reveal &#39;underwhelmed&#39; investors](https://www.cnbc.com/2024/10/11/tesla-tsla-stock-drops-in-premarket-after-cybercab-robotaxi-reveal.html)
-- [2024-10-11 front – Hacker News](https://news.ycombinator.com/front)
-- [The Ultimate Conditional Syntax](https://dl.acm.org/doi/10.1145/3689746)
-- [Contribute to Dev Encyclopedia for this hacktoberfest](https://devpedia.pages.dev/)
-- [Appreciate Everything, Endlessly - Cabel Sasser, Panic](https://www.youtube.com/watch?v=Df_K7pIsfvg)
-- [Chinese Scientists: We Used Quantum Computer  To Hack Military-Grade Encryption](https://thequantuminsider.com/2024/10/11/chinese-scientists-report-using-quantum-computer-to-hack-military-grade-encryption/)
-- [Show HN: 14.5K Views in 24hrs HTTPS://autopilotlabanlysis.streamlit.app/](https://news.ycombinator.com/item?id=41815775)
-- [Citi Token Services: Transaction Banking Services for Institutional Clients](https://www.citigroup.com/global/news/press-release/2024/citi-token-services-marks-new-milestone)
-- [The web lives in WordPress and Mastodon](http://scripting.com/2024/10/11/132736.html?title=theWebLivesInWordpressAndMastodon)
+- [Inferential Mood](https://en.wikipedia.org/wiki/Inferential_mood)
+- [Everyone&#39;s an Owner](https://ma.tt/2024/10/owner-mentality/)
+- [Secure Custom Fields](https://wordpress.org/news/2024/10/secure-custom-fields/)
+- [Doom 2 got a Mod, featuring 2 chapters, 36 new tracks and 20 hours of gameplay](https://www.dsogaming.com/mods/after-11-years-doom-2-got-a-doom-3-mod-featuring-2-whole-chapters-36-new-tracks-and-20-hours-of-gameplay/)
+- [Darkweb/ Bank Fraud and CCs](https://news.ycombinator.com/item?id=41824672)
+- [Open source royalty and mad kings](https://world.hey.com/dhh/open-source-royalty-and-mad-kings-a8f79d16)
+- [Teaching an Old Mac New Tricks [video]](https://www.youtube.com/watch?v=f1v1gWLHcOk)
+- [Dave Farley on What Makes High Quality Code](https://www.bennadel.com/blog/4713-dave-farley-on-what-makes-high-quality-code.htm)
+- [Denko-Piboard: Linux SBC GPIO in Ruby](https://github.com/denko-rb/denko-piboard)
+- [SpaceX Sued by Cards Against Humanity [pdf]](https://cah-sues-elon-musk.s3.amazonaws.com/240919+Plaintiff%27s+Original+Petition.pdf)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

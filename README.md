@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [AMD&#39;s Turin: 5th Gen EPYC Launched](https://chipsandcheese.com/p/amds-turin-5th-gen-epyc-launched)
-- [An exoskeleton let a paralyzed man walk, then its maker refused repairs](https://www.washingtonpost.com/nation/2024/10/08/exoskeleton-paralyzed-repairs-michael-straight/)
-- [Terraform Provider for Dominos Pizza](https://registry.terraform.io/providers/MNThomson/dominos/latest/docs)
-- [Working from home is powering productivity](https://www.imf.org/en/Publications/fandd/issues/2024/09/working-from-home-is-powering-productivity-bloom)
-- [In SSRI withdrawal, brain zaps go from overlooked symptom to center stage &lpar;2023&rpar;](https://www.psychiatrist.com/news/brain-zaps-go-from-overlooked-symptom-to-center-stage-in-ssri-withdrawal/)
-- [INTELLECT–1: Launching the First Decentralized Training of a 10B Parameter Model](https://www.primeintellect.ai/blog/intellect-1)
-- [Gleam: A Basic Introduction](https://peq42.com/blog/gleam-a-basic-introduction/)
-- [Started a guide to writing FUSE filesystems in Python](https://gwolf.org/2024/10/started-a-guide-to-writing-fuse-filesystems-in-python.html)
-- [Hamming AI &lpar;YC S24&rpar; Is Hiring a Product Engineer](https://www.ycombinator.com/companies/hamming-ai/jobs/XTCQPuO-product-engineer)
-- [Why do systems fail? Tandem NonStop system and fault tolerance](https://www.erlang-solutions.com/blog/why-do-systems-fail-tandem-nonstop-system-and-fault-tolerance/)
+- [Flux is fast and it&#39;s open source](https://replicate.com/blog/flux-is-fast-and-open-source)
+- [Omni SenseVoice: High-Speed Speech Recognition with Words Timestamps](https://github.com/lifeiteng/OmniSenseVoice)
+- [The 1/8th Sleep](https://near.blog/the-1-8th-sleep/)
+- [Gödel Agent: A Self-Referential Agent Framework for Recursive Self-Improvement](https://arxiv.org/abs/2410.04444)
+- [Google Ads announces 11-year data retention policy](https://searchengineland.com/google-ads-11-year-data-retention-policy-447465)
+- [FAA grants SpaceX Starship Flight 5 license](https://drs.faa.gov/browse/excelExternalWindow/DRSDOCID173891218620231102140506.0001)
+- [First Greenhouse Gas Plumes Detected with NASA-Designed Instrument](https://www.jpl.nasa.gov/news/first-greenhouse-gas-plumes-detected-with-nasa-designed-instrument/)
+- [Show HN: AOO – C++ library for real-time audio streaming and messaging](https://aoo.iem.sh/)
+- [PayPal &lpar;USA&rpar; will automatically share data about you to participating stores](https://www.paypal.com/us/legalhub/upcoming-policies-full)
+- [Home Libraries Will Save Civilization](https://www.frontporchrepublic.com/2024/10/home-libraries-will-save-civilization/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

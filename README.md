@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine war briefing: Zelenskyy says forces are holding positions in Russia’s Kursk region](https://www.theguardian.com/world/2024/oct/13/ukraine-war-briefing-zelenskyy-says-forces-are-holding-positions-in-russias-kursk-region)
-- [Fabio Wardley stuns Frazer Clarke with first-round KO to retain British title](https://www.theguardian.com/sport/2024/oct/13/fabio-wardley-frazer-clarke-artur-beterbiev-dmitry-bivol-boxing)
-- [More than fat bears: Alaska trail cams show peeks of animals from lynx to moose](https://www.theguardian.com/us-news/2024/oct/12/bears-wolves-moose-alaska-trail-cams)
-- [‘Celebrated again’: Portrait of German jazz-age pioneers lost after Nazi takeover return to Berlin](https://www.theguardian.com/artanddesign/2024/oct/13/nazi-looted-portraits-german-jazz-age-pioneers-berlin-weimar-cabaret)
-- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2024/oct/12/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [China cracks down on Communist party officials for reading banned books](https://www.theguardian.com/world/2024/oct/12/china-communist-party-banned-books-rules-xi-jinping)
-- [Lee Carsley cools talk on England future: ‘The last important thing in this process is me’](https://www.theguardian.com/football/2024/oct/12/england-lee-carsley-backs-rethink-nations-league-finland)
-- [Martín Zubimendi plays Rodri’s part in Spain’s homecoming against Denmark](https://www.theguardian.com/football/2024/oct/12/spain-denmark-nations-league-match-report)
-- [Floridians returning home after Milton battle traffic jams and fuel shortages](https://www.theguardian.com/us-news/2024/oct/12/florida-milton-traffic-jams-fuel-shortages-debris)
-- [Venezuela has cancelled passports of dozens of activists and journalists](https://www.theguardian.com/world/2024/oct/12/venezuela-has-cancelled-passports-of-dozens-of-activists-and-journalists)
+- [Joker: Folie à Deux flops further in second week at US box office after lacklustre opening](https://www.theguardian.com/film/2024/oct/14/joker-2-folie-a-deux-us-box-office-flop-week-two-earnings)
+- [How Giorgia Meloni became Europe’s favourite far-right leader – podcast](https://www.theguardian.com/news/audio/2024/oct/14/how-giorgia-meloni-became-europes-favourite-far-right-leader-podcast)
+- [Ukraine war briefing: Zelenskyy says North Korea providing personnel to Russia’s army](https://www.theguardian.com/world/2024/oct/14/ukraine-war-briefing-zelenskyy-says-north-korea-providing-personnel-to-russias-army)
+- [Hezbollah drone attack kills four IDF soldiers as US prepares to send missile system to Israel](https://www.theguardian.com/world/2024/oct/14/hezbollah-drone-attack-on-israel-army-idf-base)
+- [‘We’re a powerhouse’: the Māori canoe and haka leading New Zealand into America’s Cup battle](https://www.theguardian.com/world/2024/oct/14/americas-cup-2024-new-zealand-maori-waka-canoe-haka)
+- [Keir Starmer will promise to slash red tape as he hosts investment summit](https://www.theguardian.com/politics/2024/oct/14/keir-starmer-promise-slash-red-tape-investment-summit)
+- [AI gives voice to dead animals in Cambridge exhibition](https://www.theguardian.com/science/2024/oct/14/ai-gives-voice-to-dead-animals-in-cambridge-exhibition)
+- [Paralysed right-to-die activist ‘would be livid’ over lack of change to laws](https://www.theguardian.com/society/2024/oct/14/tony-nicklinson-family-right-to-die-campaigner-assisted-dying-bill)
+- [Scientists map the genome of Australian ‘punk’ fish that prefers to walk instead of swim](https://www.theguardian.com/environment/2024/oct/14/csiro-genome-sequencing-spotted-handfish)
+- [‘The job starts straight away’: Adrian Ramsay on his first 100 days as Green MP](https://www.theguardian.com/politics/2024/oct/14/green-mp-adrian-ramsay-first-100-days)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

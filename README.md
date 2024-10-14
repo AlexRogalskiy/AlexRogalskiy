@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Flux is fast and it&#39;s open source](https://replicate.com/blog/flux-is-fast-and-open-source)
-- [Omni SenseVoice: High-Speed Speech Recognition with Words Timestamps](https://github.com/lifeiteng/OmniSenseVoice)
-- [The 1/8th Sleep](https://near.blog/the-1-8th-sleep/)
-- [Gödel Agent: A Self-Referential Agent Framework for Recursive Self-Improvement](https://arxiv.org/abs/2410.04444)
-- [Google Ads announces 11-year data retention policy](https://searchengineland.com/google-ads-11-year-data-retention-policy-447465)
-- [FAA grants SpaceX Starship Flight 5 license](https://drs.faa.gov/browse/excelExternalWindow/DRSDOCID173891218620231102140506.0001)
-- [First Greenhouse Gas Plumes Detected with NASA-Designed Instrument](https://www.jpl.nasa.gov/news/first-greenhouse-gas-plumes-detected-with-nasa-designed-instrument/)
-- [Show HN: AOO – C++ library for real-time audio streaming and messaging](https://aoo.iem.sh/)
-- [PayPal &lpar;USA&rpar; will automatically share data about you to participating stores](https://www.paypal.com/us/legalhub/upcoming-policies-full)
-- [Home Libraries Will Save Civilization](https://www.frontporchrepublic.com/2024/10/home-libraries-will-save-civilization/)
+- [WordPress Accessibility Team Meetings Suspended](https://make.wordpress.org/accessibility/2024/10/12/accessibility-team-meetings-suspended/)
+- [Llama 405B 506 tokens/second on an H200](https://developer.nvidia.com/blog/boosting-llama-3-1-405b-throughput-by-another-1-5x-on-nvidia-h200-tensor-core-gpus-and-nvlink-switch/)
+- [Python client for the $20 Colmi R02 smart ring](https://tahnok.github.io/colmi_r02_client/colmi_r02_client.html)
+- [Show HN: A VSCode Extension to edit HTML visually in real-time](https://github.com/urin/vscode-web-visual-editor)
+- [TikTok Live Became &#39;A Strip Club Filled with 15-Year-Olds&#39;](https://www.forbes.com/sites/alexandralevine/2022/04/27/how-tiktok-live-became-a-strip-club-filled-with-15-year-olds/)
+- [Honeybee: Calling via XMPP](https://momi.ca/posts/2024-10-09-honeybee.html)
+- [Zero-latency SQLite storage in every Durable Object](https://simonwillison.net/2024/Oct/13/zero-latency-sqlite-storage-in-every-durable-object/)
+- [Introducing Our New Name](https://blog.minetest.net/2024/10/13/Introducing-Our-New-Name/)
+- [FriendlyElec NanoPi R5S as PTP Grandmaster Clock with GNSS/GPS Discipline &lpar;2022&rpar;](https://blog.kylemanna.com/hardware/nanopi-r5s-as-ptp-grandmaster-clock-with-gnss-gps-discipline/)
+- [Show HN: I built Bazaari.io to make launching online stores simple and fast](https://bazaari.io/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

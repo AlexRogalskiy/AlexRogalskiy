@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Inferential Mood](https://en.wikipedia.org/wiki/Inferential_mood)
-- [Everyone&#39;s an Owner](https://ma.tt/2024/10/owner-mentality/)
-- [Secure Custom Fields](https://wordpress.org/news/2024/10/secure-custom-fields/)
-- [Doom 2 got a Mod, featuring 2 chapters, 36 new tracks and 20 hours of gameplay](https://www.dsogaming.com/mods/after-11-years-doom-2-got-a-doom-3-mod-featuring-2-whole-chapters-36-new-tracks-and-20-hours-of-gameplay/)
-- [Darkweb/ Bank Fraud and CCs](https://news.ycombinator.com/item?id=41824672)
-- [Open source royalty and mad kings](https://world.hey.com/dhh/open-source-royalty-and-mad-kings-a8f79d16)
-- [Teaching an Old Mac New Tricks [video]](https://www.youtube.com/watch?v=f1v1gWLHcOk)
-- [Dave Farley on What Makes High Quality Code](https://www.bennadel.com/blog/4713-dave-farley-on-what-makes-high-quality-code.htm)
-- [Denko-Piboard: Linux SBC GPIO in Ruby](https://github.com/denko-rb/denko-piboard)
-- [SpaceX Sued by Cards Against Humanity [pdf]](https://cah-sues-elon-musk.s3.amazonaws.com/240919+Plaintiff%27s+Original+Petition.pdf)
+- [C++ String Conversion: Exploring std:from_chars in C++17 to C++26](https://www.cppstories.com/2018/12/fromchars/)
+- [Electronic Arts streamlines game patching with AWS](https://aws.amazon.com/blogs/gametech/electronic-arts-streamlines-game-patching-with-aws/)
+- [Just Stumbled Upon Hidden Feature After Years of Using Windows 11 File Explorer](https://old.reddit.com/r/Windows11/comments/1g2szih/just_stumbled_upon_a_hidden_feature_after_years/)
+- [Monado: Open-source XR runtime for VR and AR on mobile, PC/desktop](https://monado.freedesktop.org/)
+- [OpenV2K: Hacking the cranial microwave auditory effect as street justice](https://old.reddit.com/r/OpenV2K/)
+- [Rama on Clojure&#39;s terms, and the magic of continuation-passing style](https://blog.redplanetlabs.com/2024/10/10/rama-on-clojures-terms-and-the-magic-of-continuation-passing-style/)
+- [WordPress Accessibility Team Meetings Suspended](https://make.wordpress.org/accessibility/2024/10/12/accessibility-team-meetings-suspended/)
+- [Why You Might Soon Be Paid Like an Uber Driver–Even If You&#39;re Not One](https://slate.com/technology/2024/10/uber-lyft-gig-workers-artificial-intelligence-wage-discrimination-jobs.html)
+- [Writing Documentation as Code](https://www.paradedb.com/blog/improving_documentation)
+- [Show HN: Chasing a Win32 Bug in SetCommState](https://foldl.github.io/2022-10-18-chasing-a-win32-bug/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

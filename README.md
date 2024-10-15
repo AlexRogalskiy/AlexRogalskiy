@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Joker: Folie à Deux flops further in second week at US box office after lacklustre opening](https://www.theguardian.com/film/2024/oct/14/joker-2-folie-a-deux-us-box-office-flop-week-two-earnings)
-- [How Giorgia Meloni became Europe’s favourite far-right leader – podcast](https://www.theguardian.com/news/audio/2024/oct/14/how-giorgia-meloni-became-europes-favourite-far-right-leader-podcast)
-- [Ukraine war briefing: Zelenskyy says North Korea providing personnel to Russia’s army](https://www.theguardian.com/world/2024/oct/14/ukraine-war-briefing-zelenskyy-says-north-korea-providing-personnel-to-russias-army)
-- [Hezbollah drone attack kills four IDF soldiers as US prepares to send missile system to Israel](https://www.theguardian.com/world/2024/oct/14/hezbollah-drone-attack-on-israel-army-idf-base)
-- [‘We’re a powerhouse’: the Māori canoe and haka leading New Zealand into America’s Cup battle](https://www.theguardian.com/world/2024/oct/14/americas-cup-2024-new-zealand-maori-waka-canoe-haka)
-- [Keir Starmer will promise to slash red tape as he hosts investment summit](https://www.theguardian.com/politics/2024/oct/14/keir-starmer-promise-slash-red-tape-investment-summit)
-- [AI gives voice to dead animals in Cambridge exhibition](https://www.theguardian.com/science/2024/oct/14/ai-gives-voice-to-dead-animals-in-cambridge-exhibition)
-- [Paralysed right-to-die activist ‘would be livid’ over lack of change to laws](https://www.theguardian.com/society/2024/oct/14/tony-nicklinson-family-right-to-die-campaigner-assisted-dying-bill)
-- [Scientists map the genome of Australian ‘punk’ fish that prefers to walk instead of swim](https://www.theguardian.com/environment/2024/oct/14/csiro-genome-sequencing-spotted-handfish)
-- [‘The job starts straight away’: Adrian Ramsay on his first 100 days as Green MP](https://www.theguardian.com/politics/2024/oct/14/green-mp-adrian-ramsay-first-100-days)
+- [The hurricanes shaking the US election – podcast](https://www.theguardian.com/news/audio/2024/oct/15/the-hurricanes-shaking-the-us-election-podcast)
+- [Harris calls Trump a ‘risk for America’, after former president’s ‘enemy within’ remarks](https://www.theguardian.com/us-news/2024/oct/14/harris-trump-enemy-within-campaign)
+- [Prague bans night-time pub crawls in bid to attract ‘more cultured, wealthier’ tourists](https://www.theguardian.com/world/2024/oct/15/prague-pub-crawl-ban-tourism-zdenek-hrib)
+- [Ukraine war briefing: Russian drone kills civilian women in car, say Kherson officials](https://www.theguardian.com/world/2024/oct/15/ukraine-war-briefing-russian-drone-kills-civilian-women-in-car-say-kherson-officials)
+- [Canadian police accuse Indian diplomats of ‘criminal’ activities including homicides](https://www.theguardian.com/world/2024/oct/14/india-canada-expel-top-diplomats-escalating-row-sikh-activists-death-hardeep-singh-nijjar)
+- [UK ‘risks repeat of surging energy bills’ amid continued reliance on gas](https://www.theguardian.com/environment/2024/oct/15/uk-risks-repeat-of-surging-energy-bills-amid-continued-reliance-on-gas)
+- [Hew Locke’s British Museum looting exposé: ‘inescapably, deeply shocking’](https://www.theguardian.com/artanddesign/2024/oct/15/shocking-hew-locke-expose-british-museum-looting)
+- [New UK bill could force social media firms to make content less addictive for under 16s](https://www.theguardian.com/technology/2024/oct/14/new-bill-could-force-social-media-firms-to-make-content-less-addictive-for-children)
+- [Want to understand Donald Trump? Then watch macho 80s action movies](https://www.theguardian.com/film/2024/oct/15/donald-trump-macho-movie-action-hero-for-votes)
+- [Unemployed could be given weight-loss jabs to get back to work, says Wes Streeting](https://www.theguardian.com/society/2024/oct/14/unemployed-could-be-given-weight-loss-jabs-to-get-back-to-work-says-wes-streeting)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

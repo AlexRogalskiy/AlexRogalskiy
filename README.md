@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [C++ String Conversion: Exploring std:from_chars in C++17 to C++26](https://www.cppstories.com/2018/12/fromchars/)
-- [Electronic Arts streamlines game patching with AWS](https://aws.amazon.com/blogs/gametech/electronic-arts-streamlines-game-patching-with-aws/)
-- [Just Stumbled Upon Hidden Feature After Years of Using Windows 11 File Explorer](https://old.reddit.com/r/Windows11/comments/1g2szih/just_stumbled_upon_a_hidden_feature_after_years/)
-- [Monado: Open-source XR runtime for VR and AR on mobile, PC/desktop](https://monado.freedesktop.org/)
-- [OpenV2K: Hacking the cranial microwave auditory effect as street justice](https://old.reddit.com/r/OpenV2K/)
-- [Rama on Clojure&#39;s terms, and the magic of continuation-passing style](https://blog.redplanetlabs.com/2024/10/10/rama-on-clojures-terms-and-the-magic-of-continuation-passing-style/)
-- [WordPress Accessibility Team Meetings Suspended](https://make.wordpress.org/accessibility/2024/10/12/accessibility-team-meetings-suspended/)
-- [Why You Might Soon Be Paid Like an Uber Driver–Even If You&#39;re Not One](https://slate.com/technology/2024/10/uber-lyft-gig-workers-artificial-intelligence-wage-discrimination-jobs.html)
-- [Writing Documentation as Code](https://www.paradedb.com/blog/improving_documentation)
-- [Show HN: Chasing a Win32 Bug in SetCommState](https://foldl.github.io/2022-10-18-chasing-a-win32-bug/)
+- [What Is the Colmi R02?](https://tahnok.github.io/colmi_r02_client/colmi_r02_client.html#what-is-the-colmi-r02)
+- [Thinking LLMs: General Instruction Following with Thought Generation](https://arxiv.org/abs/2410.10630)
+- [Safepine v1.3.2 Feature Announcements](https://safepine.substack.com/p/safepine-v132-features)
+- [Human age reversal: Fact or fiction? &lpar;2022&rpar;](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9381899/)
+- [Life in the Shadow of the Boomers &lpar;2020&rpar;](https://scholars-stage.org/on-life-in-the-shadow-of-the-boomers/)
+- [Rabbit Hole of Despair](https://studyfinds.org/more-content-worse-mental-health-gets/)
+- [Life Lessons from the First Half-Century of My Career](https://cacm.acm.org/opinion/life-lessons-from-the-first-half-century-of-my-career/)
+- [Lillian Schwartz, Pioneer in Computer-Generated Art, Dies at 97](https://www.nytimes.com/2024/10/14/technology/lillian-schwartz-dead.html)
+- [Bar Part Time owner: Neil Mehta gaslighting about Fillmore land grab](https://www.sfexaminer.com/forum/neil-mehta-gaslighting-fillmore-about-neighborhood-land-grab/article_464f2ca2-8a25-11ef-9920-47b9271c7ade.html)
+- [The Punched Card Detective](https://hackaday.com/2024/10/09/the-punched-card-detective/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

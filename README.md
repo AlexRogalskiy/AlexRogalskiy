@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [The hurricanes shaking the US election – podcast](https://www.theguardian.com/news/audio/2024/oct/15/the-hurricanes-shaking-the-us-election-podcast)
-- [Harris calls Trump a ‘risk for America’, after former president’s ‘enemy within’ remarks](https://www.theguardian.com/us-news/2024/oct/14/harris-trump-enemy-within-campaign)
-- [Prague bans night-time pub crawls in bid to attract ‘more cultured, wealthier’ tourists](https://www.theguardian.com/world/2024/oct/15/prague-pub-crawl-ban-tourism-zdenek-hrib)
-- [Ukraine war briefing: Russian drone kills civilian women in car, say Kherson officials](https://www.theguardian.com/world/2024/oct/15/ukraine-war-briefing-russian-drone-kills-civilian-women-in-car-say-kherson-officials)
-- [Canadian police accuse Indian diplomats of ‘criminal’ activities including homicides](https://www.theguardian.com/world/2024/oct/14/india-canada-expel-top-diplomats-escalating-row-sikh-activists-death-hardeep-singh-nijjar)
-- [UK ‘risks repeat of surging energy bills’ amid continued reliance on gas](https://www.theguardian.com/environment/2024/oct/15/uk-risks-repeat-of-surging-energy-bills-amid-continued-reliance-on-gas)
-- [Hew Locke’s British Museum looting exposé: ‘inescapably, deeply shocking’](https://www.theguardian.com/artanddesign/2024/oct/15/shocking-hew-locke-expose-british-museum-looting)
-- [New UK bill could force social media firms to make content less addictive for under 16s](https://www.theguardian.com/technology/2024/oct/14/new-bill-could-force-social-media-firms-to-make-content-less-addictive-for-children)
-- [Want to understand Donald Trump? Then watch macho 80s action movies](https://www.theguardian.com/film/2024/oct/15/donald-trump-macho-movie-action-hero-for-votes)
-- [Unemployed could be given weight-loss jabs to get back to work, says Wes Streeting](https://www.theguardian.com/society/2024/oct/14/unemployed-could-be-given-weight-loss-jabs-to-get-back-to-work-says-wes-streeting)
+- [How UN peacekeepers ended up in Israel’s line of fire – podcast](https://www.theguardian.com/news/audio/2024/oct/16/how-un-peacekeepers-ended-up-in-israels-line-of-fire-podcast)
+- [British war photographer Paul Lowe dies after California stabbing](https://www.theguardian.com/us-news/2024/oct/16/paul-lowe-death-stabbing-california-san-gabriel-mountains-hiking-trail-war-photographer-ntwnfb)
+- [Sean ‘Diddy’ Combs asks judge for identities of accusers to be disclosed](https://www.theguardian.com/music/2024/oct/15/sean-diddy-combs-judge-sex-trafficking-case-accusers)
+- [Taiwan and trade: how China sees its future with the US after the election](https://www.theguardian.com/us-news/2024/oct/16/china-us-trade-harris-trump)
+- [‘Amorous couple’ blamed for causing flooding that shut down two Melbourne CBD train stations](https://www.theguardian.com/australia-news/2024/oct/16/melbourne-rail-loop-flooding-train-stations-amorous-couple-olivia-rodrigo-concert-ntwnfb)
+- [Ukraine war briefing: Authorities order evacuation of previously liberated Kupiansk](https://www.theguardian.com/world/2024/oct/16/ukraine-war-briefing-authorities-order-evacuation-of-previously-liberated-kupiansk)
+- [My father Frank Habicht, the photographer who captured the ‘heart and restlessness’ of 1960s London](https://www.theguardian.com/world/2024/oct/16/my-father-frank-habicht-the-photographer-who-captured-the-heart-and-restlessness-of-1960s-london)
+- [Rise in rough sleeper deaths in UK prompts call for shelter funds](https://www.theguardian.com/society/2024/oct/16/rise-in-rough-sleeper-deaths-uk-shelter-funds)
+- [Don’t book expensive driving tests through reseller sites, warns RAC](https://www.theguardian.com/money/2024/oct/16/dont-book-expensive-driving-tests-through-reseller-sites-warns-rac)
+- [UK women who suffer cardiac arrest in public less likely to get CPR, study finds](https://www.theguardian.com/society/2024/oct/16/uk-women-who-suffer-cardiac-arrest-in-public-less-likely-to-get-cpr-study-finds)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

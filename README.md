@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [What Is the Colmi R02?](https://tahnok.github.io/colmi_r02_client/colmi_r02_client.html#what-is-the-colmi-r02)
-- [Thinking LLMs: General Instruction Following with Thought Generation](https://arxiv.org/abs/2410.10630)
-- [Safepine v1.3.2 Feature Announcements](https://safepine.substack.com/p/safepine-v132-features)
-- [Human age reversal: Fact or fiction? &lpar;2022&rpar;](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9381899/)
-- [Life in the Shadow of the Boomers &lpar;2020&rpar;](https://scholars-stage.org/on-life-in-the-shadow-of-the-boomers/)
-- [Rabbit Hole of Despair](https://studyfinds.org/more-content-worse-mental-health-gets/)
-- [Life Lessons from the First Half-Century of My Career](https://cacm.acm.org/opinion/life-lessons-from-the-first-half-century-of-my-career/)
-- [Lillian Schwartz, Pioneer in Computer-Generated Art, Dies at 97](https://www.nytimes.com/2024/10/14/technology/lillian-schwartz-dead.html)
-- [Bar Part Time owner: Neil Mehta gaslighting about Fillmore land grab](https://www.sfexaminer.com/forum/neil-mehta-gaslighting-fillmore-about-neighborhood-land-grab/article_464f2ca2-8a25-11ef-9920-47b9271c7ade.html)
-- [The Punched Card Detective](https://hackaday.com/2024/10/09/the-punched-card-detective/)
+- [Show HN: 1-Click YouTube Summaries &lpar;Made for Students&rpar;](https://chromewebstore.google.com/detail/goat-ai-summarizer-â¨/okiancidgjobkbiognlklobclfaddpnl)
+- [Rogue Legacy code is now source available](https://twitter.com/CellarDoorGames/status/1846246914406195662)
+- [Reflections on Palantir](https://nabeelqu.substack.com/p/reflections-on-palantir)
+- [Everything We Teach at Y Combinator in 10 Minutes [video]](https://www.youtube.com/watch?v=Pg72m3CjuK4)
+- [The Guru Who Says He Can Get Your 11-Year-Old into Harvard](https://www.wsj.com/us-news/education/ivy-league-college-venture-capital-23dc95fa)
+- [Neal Stephenson&#39;s New Novel Traces the Making of a Spy](https://www.nytimes.com/2024/10/15/books/review/neal-stephenson-polostan.html)
+- [New York Times to Bezos-Backed AI Startup: Stop Using Our Stuff](https://www.wsj.com/business/media/new-york-times-to-bezos-backed-ai-startup-stop-using-our-stuff-20faf2eb)
+- [Nima Momeni&#39;s trial kicks off over death of CashApp founder Bob Lee](https://sfstandard.com/2024/10/14/murder-trial-of-nima-momeni-over-death-of-cashapp-founder-bob-lee-kicks-off/)
+- [Show HN: Multiplayer Game Networking Demo](https://news.ycombinator.com/item?id=41854904)
+- [New Rails maintenance policy and end of maintenance announcements](https://rubyonrails.org/2024/10/15/new-maintenance-policy-and-eol-annouments)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

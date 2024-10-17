@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [How UN peacekeepers ended up in Israel’s line of fire – podcast](https://www.theguardian.com/news/audio/2024/oct/16/how-un-peacekeepers-ended-up-in-israels-line-of-fire-podcast)
-- [British war photographer Paul Lowe dies after California stabbing](https://www.theguardian.com/us-news/2024/oct/16/paul-lowe-death-stabbing-california-san-gabriel-mountains-hiking-trail-war-photographer-ntwnfb)
-- [Sean ‘Diddy’ Combs asks judge for identities of accusers to be disclosed](https://www.theguardian.com/music/2024/oct/15/sean-diddy-combs-judge-sex-trafficking-case-accusers)
-- [Taiwan and trade: how China sees its future with the US after the election](https://www.theguardian.com/us-news/2024/oct/16/china-us-trade-harris-trump)
-- [‘Amorous couple’ blamed for causing flooding that shut down two Melbourne CBD train stations](https://www.theguardian.com/australia-news/2024/oct/16/melbourne-rail-loop-flooding-train-stations-amorous-couple-olivia-rodrigo-concert-ntwnfb)
-- [Ukraine war briefing: Authorities order evacuation of previously liberated Kupiansk](https://www.theguardian.com/world/2024/oct/16/ukraine-war-briefing-authorities-order-evacuation-of-previously-liberated-kupiansk)
-- [My father Frank Habicht, the photographer who captured the ‘heart and restlessness’ of 1960s London](https://www.theguardian.com/world/2024/oct/16/my-father-frank-habicht-the-photographer-who-captured-the-heart-and-restlessness-of-1960s-london)
-- [Rise in rough sleeper deaths in UK prompts call for shelter funds](https://www.theguardian.com/society/2024/oct/16/rise-in-rough-sleeper-deaths-uk-shelter-funds)
-- [Don’t book expensive driving tests through reseller sites, warns RAC](https://www.theguardian.com/money/2024/oct/16/dont-book-expensive-driving-tests-through-reseller-sites-warns-rac)
-- [UK women who suffer cardiac arrest in public less likely to get CPR, study finds](https://www.theguardian.com/society/2024/oct/16/uk-women-who-suffer-cardiac-arrest-in-public-less-likely-to-get-cpr-study-finds)
+- [How a ‘putrid’ find in a museum cupboard could be the key to bringing the Tasmanian tiger back to life](https://www.theguardian.com/science/2024/oct/17/how-a-putrid-find-in-a-museum-cupboard-could-be-the-key-to-bringing-the-tasmanian-tiger-back-to-life)
+- [How abortion became a battleground issue of the US election – podcast](https://www.theguardian.com/news/audio/2024/oct/17/how-abortion-became-a-battleground-issue-of-the-us-election-podcast)
+- [Mexican official who led war on drugs jailed for 38 years for accepting bribes](https://www.theguardian.com/us-news/2024/oct/16/mexican-official-war-on-drugs-bribe-sinaloa-cartel)
+- [Ukraine war briefing: Australia to send 49 Abrams tanks to Kyiv](https://www.theguardian.com/world/2024/oct/17/ukraine-war-briefing-australia-to-send-49-abrams-tanks-to-kyiv)
+- [Kamala Harris pledges break from Biden presidency in testy Fox News interview](https://www.theguardian.com/us-news/2024/oct/16/kamala-harris-fox-news-interview)
+- [Three years in the wild: how a fugitive father has hidden his children for so long](https://www.theguardian.com/world/2024/oct/17/three-years-in-the-wild-how-a-fugitive-father-has-hidden-his-children-for-so-long-ntwnfb)
+- [Great British Energy can become a major power generator, says its chair](https://www.theguardian.com/business/2024/oct/16/gb-energy-can-become-a-major-power-generator-says-its-chief-executive)
+- [UK asylum backlog lower since Rwanda plan scrapped, figures show](https://www.theguardian.com/uk-news/2024/oct/17/uk-asylum-backlog-rwanda-plan-hotels-deportations)
+- [Duterte drug war back in ICC spotlight after parliamentary committee hears claims his office paid police $17,000 to kill suspects](https://www.theguardian.com/world/2024/oct/17/duterte-drug-war-back-in-icc-spotlight-after-parliamentary-committee-hears-claims-his-office-paid-police-17000-to-kill-suspects-ntwnfb)
+- [British BAME and foreign doctors ‘suffer discrimination throughout careers’](https://www.theguardian.com/society/2024/oct/17/british-bame-and-foreign-doctors-suffer-discrimination-throughout-careers)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

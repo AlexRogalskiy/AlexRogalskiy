@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: 1-Click YouTube Summaries &lpar;Made for Students&rpar;](https://chromewebstore.google.com/detail/goat-ai-summarizer-â¨/okiancidgjobkbiognlklobclfaddpnl)
-- [Rogue Legacy code is now source available](https://twitter.com/CellarDoorGames/status/1846246914406195662)
-- [Reflections on Palantir](https://nabeelqu.substack.com/p/reflections-on-palantir)
-- [Everything We Teach at Y Combinator in 10 Minutes [video]](https://www.youtube.com/watch?v=Pg72m3CjuK4)
-- [The Guru Who Says He Can Get Your 11-Year-Old into Harvard](https://www.wsj.com/us-news/education/ivy-league-college-venture-capital-23dc95fa)
-- [Neal Stephenson&#39;s New Novel Traces the Making of a Spy](https://www.nytimes.com/2024/10/15/books/review/neal-stephenson-polostan.html)
-- [New York Times to Bezos-Backed AI Startup: Stop Using Our Stuff](https://www.wsj.com/business/media/new-york-times-to-bezos-backed-ai-startup-stop-using-our-stuff-20faf2eb)
-- [Nima Momeni&#39;s trial kicks off over death of CashApp founder Bob Lee](https://sfstandard.com/2024/10/14/murder-trial-of-nima-momeni-over-death-of-cashapp-founder-bob-lee-kicks-off/)
-- [Show HN: Multiplayer Game Networking Demo](https://news.ycombinator.com/item?id=41854904)
-- [New Rails maintenance policy and end of maintenance announcements](https://rubyonrails.org/2024/10/15/new-maintenance-policy-and-eol-annouments)
+- [Cats beat babies at word-association game](https://www.science.org/content/article/cats-beat-babies-word-association-game)
+- [Ask HN: What&#39;s your Mac OS App side project?](https://news.ycombinator.com/item?id=41865895)
+- [Fentanyl Vaccine Could Help Solve Opioid Drug Deaths, Overdoses](https://www.bloomberg.com/news/features/2024-10-16/fentanyl-vaccine-could-help-solve-opioid-drug-deaths-overdoses)
+- [Micro Man: Computers and the Evolution of Consciousness &lpar;2018&rpar;](https://www.reanimationlibrary.org/pages/wpbaygachot)
+- [Ex-Palantir CISO Dane Stuckey Joins OpenAI](https://www.securityweek.com/dane-stuckey-joins-openai-as-ciso/)
+- [Show HN: Current News as podcast 15 Oct 2024](https://zenmic.com/podcast/bw9o)
+- [Sample what you can&#39;t compress; image auto-encoders wihtout GANs](https://arxiv.org/abs/2409.02529)
+- [Need Feedback on My Project – Beagle: Reproduce Bugs with Just One Click](https://trybeagle.xyz/)
+- [A Shield in Space?](https://www.amazon.com/Shield-Space-Technology-Administration-Cooperation/dp/0520368134)
+- [Supreme Court Allows EPA to Limit Power Plant Emissions](https://www.nytimes.com/2024/10/16/us/supreme-court-epa-emissions.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

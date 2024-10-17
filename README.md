@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Correct eye contact in videos by redirecting the eyes to look at the camera](https://www.sievedata.com/functions/sieve/eye-contact-correction)
-- [How the Richest People Can Access Billions Without Selling Their Stock](https://www.forbes.com/sites/johnhyatt/2021/11/11/how-americas-richest-people-larry-ellison-elon-musk-can-access-billions-without-selling-their-stock/)
-- [Man who scammed country out of $130M using mobile game facing 89,000 years](https://www.uniladtech.com/news/man-scammed-country-farm-bank-game-prison-768966-20241008)
-- [Internet Archive Services are &quot;temporarily offline&quot;](https://archive.org/)
-- [Redbox left PII on decommissioned machines](https://digipres.club/@foone/113313955144323780)
-- [FreeBSD/EC2 boot performance over time](https://www.daemonology.net/freebsd-ec2-boot-performance/)
-- [Show HN: Graphite, a Blender-inspired 2D procedural design Rust app](https://graphite.rs/)
-- [Beyond Dune: Accelerating with EVM Query Language](https://www.eql.sh/blog/how-is-it-different-from-dune)
-- [Try to fix it one level deeper](https://matklad.github.io/2024/09/06/fix-one-level-deeper.html)
-- [CapibaraZero: A cheap alternative to FlipperZero based on ESP32-S3](https://capibarazero.github.io/docs/)
+- [Show HN: Clean News - A cleaner curation of world news events](https://cleannews.fyi)
+- [Lotus: Diffusion-Based Visual Foundation Model for High-Quality Dense Prediction](https://lotus3d.github.io/)
+- [Reflex &lpar;YC W23&rpar; Hiring Senior/Staff Engineer – Infrastructure](https://www.ycombinator.com/companies/reflex/jobs/uBt9ZNP-senior-staff-engineer-infrastructure)
+- [Show HN: Greenmask 0.2 – Database anonymization tool](https://github.com/GreenmaskIO/greenmask)
+- [Show HN: Automated smooth Nth order derivatives of noisy data](https://github.com/hugohadfield/kalmangrad)
+- [Should We Chat, Too? Security Analysis of WeChat&#39;s Mmtls Encryption Protocol](https://citizenlab.ca/2024/10/should-we-chat-too-security-analysis-of-wechats-mmtls-encryption-protocol/)
+- [AI PCs Aren&#39;t Good at AI: The CPU Beats the NPU](https://github.com/usefulsensors/qc_npu_benchmark)
+- [Show HN: Citizen – A Node.js web app framework for fans of classic app servers](https://github.com/jaysylvester/citizen)
+- [We outsmarted CSGO cheaters with IdentityLogger](https://mobeigi.com/blog/gaming/how-we-outsmarted-csgo-cheaters-with-identitylogger/)
+- [Optimizing the Ion compiler back end](https://spidermonkey.dev/blog/2024/10/16/75x-faster-optimizing-the-ion-compiler-backend.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Show HN: Clean News - A cleaner curation of world news events](https://cleannews.fyi)
-- [Lotus: Diffusion-Based Visual Foundation Model for High-Quality Dense Prediction](https://lotus3d.github.io/)
-- [Reflex &lpar;YC W23&rpar; Hiring Senior/Staff Engineer – Infrastructure](https://www.ycombinator.com/companies/reflex/jobs/uBt9ZNP-senior-staff-engineer-infrastructure)
-- [Show HN: Greenmask 0.2 – Database anonymization tool](https://github.com/GreenmaskIO/greenmask)
-- [Show HN: Automated smooth Nth order derivatives of noisy data](https://github.com/hugohadfield/kalmangrad)
-- [Should We Chat, Too? Security Analysis of WeChat&#39;s Mmtls Encryption Protocol](https://citizenlab.ca/2024/10/should-we-chat-too-security-analysis-of-wechats-mmtls-encryption-protocol/)
-- [AI PCs Aren&#39;t Good at AI: The CPU Beats the NPU](https://github.com/usefulsensors/qc_npu_benchmark)
-- [Show HN: Citizen – A Node.js web app framework for fans of classic app servers](https://github.com/jaysylvester/citizen)
-- [We outsmarted CSGO cheaters with IdentityLogger](https://mobeigi.com/blog/gaming/how-we-outsmarted-csgo-cheaters-with-identitylogger/)
-- [Optimizing the Ion compiler back end](https://spidermonkey.dev/blog/2024/10/16/75x-faster-optimizing-the-ion-compiler-backend.html)
+- [Smart pointers for the kernel](https://lwn.net/Articles/992055/)
+- [Show HN: I wrote an autodiff in C++ and implemented LeNet with it](https://gitlab.com/mebassett/quixotic-learning/-/tree/master)
+- [DHL Pioneered the Sharing Economy](https://www.flexport.com/blog/dhl-bills-of-lading/)
+- [SOFA - Start Often Finish rArely](https://tilde.town/~dozens/sofa/)
+- [C++ proposal: There are exactly 8 bits in a byte](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3477r0.html)
+- [The Fifth Generation Project in Japan &lpar;1992&rpar;](https://www.sjsu.edu/faculty/watkins/5thgen.htm)
+- [Why does everyone run ancient Postgres versions?](https://neon.tech/blog/why-does-everyone-run-ancient-postgres-versions)
+- [Type 2 diabetes: New treatment eliminates insulin for 86% of patients](https://scitechdaily.com/diabetes-breakthrough-new-treatment-eliminates-insulin-for-86-of-patients/)
+- [Grandmaster-level chess without search](https://github.com/google-deepmind/searchless_chess)
+- [Tubeworms live around deep-sea vents](https://www.economist.com/science-and-technology/2024/10/16/tubeworms-live-beneath-the-planetary-crust-around-deep-sea-vents)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

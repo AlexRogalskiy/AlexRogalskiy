@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [How a ‘putrid’ find in a museum cupboard could be the key to bringing the Tasmanian tiger back to life](https://www.theguardian.com/science/2024/oct/17/how-a-putrid-find-in-a-museum-cupboard-could-be-the-key-to-bringing-the-tasmanian-tiger-back-to-life)
-- [How abortion became a battleground issue of the US election – podcast](https://www.theguardian.com/news/audio/2024/oct/17/how-abortion-became-a-battleground-issue-of-the-us-election-podcast)
-- [Mexican official who led war on drugs jailed for 38 years for accepting bribes](https://www.theguardian.com/us-news/2024/oct/16/mexican-official-war-on-drugs-bribe-sinaloa-cartel)
-- [Ukraine war briefing: Australia to send 49 Abrams tanks to Kyiv](https://www.theguardian.com/world/2024/oct/17/ukraine-war-briefing-australia-to-send-49-abrams-tanks-to-kyiv)
-- [Kamala Harris pledges break from Biden presidency in testy Fox News interview](https://www.theguardian.com/us-news/2024/oct/16/kamala-harris-fox-news-interview)
-- [Three years in the wild: how a fugitive father has hidden his children for so long](https://www.theguardian.com/world/2024/oct/17/three-years-in-the-wild-how-a-fugitive-father-has-hidden-his-children-for-so-long-ntwnfb)
-- [Great British Energy can become a major power generator, says its chair](https://www.theguardian.com/business/2024/oct/16/gb-energy-can-become-a-major-power-generator-says-its-chief-executive)
-- [UK asylum backlog lower since Rwanda plan scrapped, figures show](https://www.theguardian.com/uk-news/2024/oct/17/uk-asylum-backlog-rwanda-plan-hotels-deportations)
-- [Duterte drug war back in ICC spotlight after parliamentary committee hears claims his office paid police $17,000 to kill suspects](https://www.theguardian.com/world/2024/oct/17/duterte-drug-war-back-in-icc-spotlight-after-parliamentary-committee-hears-claims-his-office-paid-police-17000-to-kill-suspects-ntwnfb)
-- [British BAME and foreign doctors ‘suffer discrimination throughout careers’](https://www.theguardian.com/society/2024/oct/17/british-bame-and-foreign-doctors-suffer-discrimination-throughout-careers)
+- [Trump speaks at Al Smith dinner – as it happened](https://www.theguardian.com/us-news/live/2024/oct/17/donald-trump-january-6-riot-kamala-harris-us-election-politics-news)
+- [Middle East crisis live: Iran says Sinwar killing will strengthen ‘spirit of resistance’; US signals push for Gaza ceasefire](https://www.theguardian.com/world/live/2024/oct/18/middle-east-crisis-live-updates-yahya-sinwar-killed-hamas-leader-dead-gaza-israel-war-iran-lebanon)
+- [The killing of Yahya Sinwar – podcast](https://www.theguardian.com/news/audio/2024/oct/18/the-killing-of-yahya-sinwar-podcast)
+- [Ukraine war briefing: US sanctions China firms over ‘complete attack drones made for Russia’](https://www.theguardian.com/world/2024/oct/18/ukraine-war-briefing-us-sanctions-china-firms-over-complete-attack-drones-made-for-russia)
+- [Japan general election: what would it take for the ruling LDP party to be ousted?](https://www.theguardian.com/world/2024/oct/18/japan-general-election-2024-updates-ldp-party-polls)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2024/oct/18/premier-league-10-things-to-look-out-for-this-weekend)
+- [Infrastructure taskforce to help chancellor avoid financial sector turmoil](https://www.theguardian.com/uk-news/2024/oct/18/infrastructure-taskforce-to-help-chancellor-avoid-financial-sector-turmoil)
+- [The Warriors review – Lin-Manuel Miranda and Eisa Davis come out to play with firecracker musical](https://www.theguardian.com/stage/2024/oct/18/the-warriors-review-lin-manuel-miranda-and-eisa-davis-come-out-to-play-hamilton-walter-hill)
+- [Virtual reality to be used in UK trial to help people beat cocaine addiction](https://www.theguardian.com/science/2024/oct/18/virtual-reality-cocaine-addiction-uk-drug-overdoses)
+- [Overwhelming majority of young Americans worry about climate crisis](https://www.theguardian.com/environment/2024/oct/17/young-americans-climate-change)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

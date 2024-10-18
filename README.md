@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Cats beat babies at word-association game](https://www.science.org/content/article/cats-beat-babies-word-association-game)
-- [Ask HN: What&#39;s your Mac OS App side project?](https://news.ycombinator.com/item?id=41865895)
-- [Fentanyl Vaccine Could Help Solve Opioid Drug Deaths, Overdoses](https://www.bloomberg.com/news/features/2024-10-16/fentanyl-vaccine-could-help-solve-opioid-drug-deaths-overdoses)
-- [Micro Man: Computers and the Evolution of Consciousness &lpar;2018&rpar;](https://www.reanimationlibrary.org/pages/wpbaygachot)
-- [Ex-Palantir CISO Dane Stuckey Joins OpenAI](https://www.securityweek.com/dane-stuckey-joins-openai-as-ciso/)
-- [Show HN: Current News as podcast 15 Oct 2024](https://zenmic.com/podcast/bw9o)
-- [Sample what you can&#39;t compress; image auto-encoders wihtout GANs](https://arxiv.org/abs/2409.02529)
-- [Need Feedback on My Project – Beagle: Reproduce Bugs with Just One Click](https://trybeagle.xyz/)
-- [A Shield in Space?](https://www.amazon.com/Shield-Space-Technology-Administration-Cooperation/dp/0520368134)
-- [Supreme Court Allows EPA to Limit Power Plant Emissions](https://www.nytimes.com/2024/10/16/us/supreme-court-epa-emissions.html)
+- [German Supreme Court Rules Against Photographer in Landmark Case](https://petapixel.com/2024/10/16/german-supreme-court-rules-against-photographer-in-landmark-wallpaper-copyright-case/)
+- [PFLB Launches Game-Changing AI Innovation in Global Load Testing Market](https://siliconvalleyjournals.com/pflb-a-california-based-startup-launches-game-changing-ai-innovation-in-global-load-testing-market/)
+- [What Flying in a Wind Tunnel Reveals About Birds](https://www.nytimes.com/2024/10/11/science/birds-migration-wind-tunnel.html)
+- [Gnome Infrastructure Migration to AWS](https://www.dragonsreach.it/2024/11/16/gnome-infrastructure-migration-to-aws/)
+- [ClassicPress: WordPress Without the Block Editor](https://lwn.net/Articles/992219/)
+- [Smart pointers for the kernel](https://lwn.net/Articles/992055/)
+- [What are some less well-known but interesting Linux Security Summit projects?](https://news.ycombinator.com/item?id=41875778)
+- [iOS 18 supports bilingual keyboards](https://news.ycombinator.com/item?id=41875742)
+- [Show HN: Flow – YAML-driven CLI automation with a customizable TUI](https://flowexec.io)
+- [Neuroscientists discover mechanism that can reactivate dormant neural stem cells](https://medicalxpress.com/news/2024-10-neuroscientists-mechanism-reactivate-dormant-neural.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

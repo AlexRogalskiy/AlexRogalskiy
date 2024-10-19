@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [German Supreme Court Rules Against Photographer in Landmark Case](https://petapixel.com/2024/10/16/german-supreme-court-rules-against-photographer-in-landmark-wallpaper-copyright-case/)
-- [PFLB Launches Game-Changing AI Innovation in Global Load Testing Market](https://siliconvalleyjournals.com/pflb-a-california-based-startup-launches-game-changing-ai-innovation-in-global-load-testing-market/)
-- [What Flying in a Wind Tunnel Reveals About Birds](https://www.nytimes.com/2024/10/11/science/birds-migration-wind-tunnel.html)
-- [Gnome Infrastructure Migration to AWS](https://www.dragonsreach.it/2024/11/16/gnome-infrastructure-migration-to-aws/)
-- [ClassicPress: WordPress Without the Block Editor](https://lwn.net/Articles/992219/)
-- [Smart pointers for the kernel](https://lwn.net/Articles/992055/)
-- [What are some less well-known but interesting Linux Security Summit projects?](https://news.ycombinator.com/item?id=41875778)
-- [iOS 18 supports bilingual keyboards](https://news.ycombinator.com/item?id=41875742)
-- [Show HN: Flow – YAML-driven CLI automation with a customizable TUI](https://flowexec.io)
-- [Neuroscientists discover mechanism that can reactivate dormant neural stem cells](https://medicalxpress.com/news/2024-10-neuroscientists-mechanism-reactivate-dormant-neural.html)
+- [America&#39;s economy is bigger and better than](https://www.economist.com/leaders/2024/10/17/americas-economy-is-bigger-and-better-than-ever)
+- [Cows dead from bird flu rot in California as heat bakes dairy farms](https://www.reuters.com/world/us/cows-dead-bird-flu-rot-california-heat-bakes-dairy-farms-2024-10-17/)
+- [What makes a person seem wise?](https://theconversation.com/what-makes-a-person-seem-wise-global-study-finds-that-cultures-do-differ-but-not-as-much-as-youd-think-238808)
+- [Ask HN: What selfhosted PaaS would you recommend?](https://news.ycombinator.com/item?id=41885181)
+- [Strep A kills half a million per year; why don&#39;t we have a vaccine?](https://wellcome.org/news/strep-bacteria-kill-half-million-year-why-dont-we-have-vaccine)
+- [Technologies that won&#39;t exist in five years](https://blog.jacobtrefethen.com/10-technologies-that-wont-exist-in-5-yrs/)
+- [The Risk of Writing from Experience: How Fitzgerald&#39;s Final Novel Ruined Him](https://anthonymarigold.substack.com/p/the-risk-of-writing-from-experience)
+- [Fullstack Workflow with Shadow-CLJS](https://code.thheller.com/blog/shadow-cljs/2024/10/18/fullstack-cljs-workflow-with-shadow-cljs.html)
+- [Berry&#39;s Phase](https://ncatlab.org/nlab/show/Berry%27s+phase)
+- [SaaS Product Feedback](https://twocents.site/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

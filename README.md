@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Smart pointers for the kernel](https://lwn.net/Articles/992055/)
-- [Show HN: I wrote an autodiff in C++ and implemented LeNet with it](https://gitlab.com/mebassett/quixotic-learning/-/tree/master)
-- [DHL Pioneered the Sharing Economy](https://www.flexport.com/blog/dhl-bills-of-lading/)
-- [SOFA - Start Often Finish rArely](https://tilde.town/~dozens/sofa/)
-- [C++ proposal: There are exactly 8 bits in a byte](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3477r0.html)
-- [The Fifth Generation Project in Japan &lpar;1992&rpar;](https://www.sjsu.edu/faculty/watkins/5thgen.htm)
-- [Why does everyone run ancient Postgres versions?](https://neon.tech/blog/why-does-everyone-run-ancient-postgres-versions)
-- [Type 2 diabetes: New treatment eliminates insulin for 86% of patients](https://scitechdaily.com/diabetes-breakthrough-new-treatment-eliminates-insulin-for-86-of-patients/)
-- [Grandmaster-level chess without search](https://github.com/google-deepmind/searchless_chess)
-- [Tubeworms live around deep-sea vents](https://www.economist.com/science-and-technology/2024/10/16/tubeworms-live-beneath-the-planetary-crust-around-deep-sea-vents)
+- [US probes Tesla&#39;s Full Self-Driving software in 2.4M cars after fatal crash](https://www.reuters.com/business/autos-transportation/nhtsa-opens-probe-into-24-mln-tesla-vehicles-over-full-self-driving-collisions-2024-10-18/)
+- [Stark et al. vs. Patreon, Inc. Class Action Settlement](https://www.patreonsettlement.com/)
+- [Our Boundless Love for Big Sur May Be Killing It](https://www.nytimes.com/2024/10/18/travel/big-sur-tourism-california.html)
+- [Reports show some Canada euthanasia deaths driven by social reasons](https://apnews.com/article/canada-euthanasia-deaths-doctors-nonterminal-nonfatal-cases-cd7ff24c57c15a404347df289788ef6d)
+- [Express v5](https://expressjs.com/2024/10/15/v5-release.html)
+- [Focus on decisions, not tasks](https://technicalwriting.dev/strategy/decisions.html)
+- [Distro &lpar;YC S24&rpar; is hiring a tech lead](https://www.ycombinator.com/companies/distro/jobs/XGMjSPe-tech-lead)
+- [The feds are coming for John Deere over the right to repair](https://gizmodo.com/the-feds-are-coming-for-john-deere-over-the-right-to-repair-2000513521)
+- [Subvert – Collectively owned music marketplace](https://subvert.fm/)
+- [Show HN: Go Plan9 Memo](https://pehringer.info/go_plan9_memo.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

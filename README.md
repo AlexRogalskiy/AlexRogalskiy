@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Trump speaks at Al Smith dinner – as it happened](https://www.theguardian.com/us-news/live/2024/oct/17/donald-trump-january-6-riot-kamala-harris-us-election-politics-news)
-- [Middle East crisis live: Iran says Sinwar killing will strengthen ‘spirit of resistance’; US signals push for Gaza ceasefire](https://www.theguardian.com/world/live/2024/oct/18/middle-east-crisis-live-updates-yahya-sinwar-killed-hamas-leader-dead-gaza-israel-war-iran-lebanon)
-- [The killing of Yahya Sinwar – podcast](https://www.theguardian.com/news/audio/2024/oct/18/the-killing-of-yahya-sinwar-podcast)
-- [Ukraine war briefing: US sanctions China firms over ‘complete attack drones made for Russia’](https://www.theguardian.com/world/2024/oct/18/ukraine-war-briefing-us-sanctions-china-firms-over-complete-attack-drones-made-for-russia)
-- [Japan general election: what would it take for the ruling LDP party to be ousted?](https://www.theguardian.com/world/2024/oct/18/japan-general-election-2024-updates-ldp-party-polls)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2024/oct/18/premier-league-10-things-to-look-out-for-this-weekend)
-- [Infrastructure taskforce to help chancellor avoid financial sector turmoil](https://www.theguardian.com/uk-news/2024/oct/18/infrastructure-taskforce-to-help-chancellor-avoid-financial-sector-turmoil)
-- [The Warriors review – Lin-Manuel Miranda and Eisa Davis come out to play with firecracker musical](https://www.theguardian.com/stage/2024/oct/18/the-warriors-review-lin-manuel-miranda-and-eisa-davis-come-out-to-play-hamilton-walter-hill)
-- [Virtual reality to be used in UK trial to help people beat cocaine addiction](https://www.theguardian.com/science/2024/oct/18/virtual-reality-cocaine-addiction-uk-drug-overdoses)
-- [Overwhelming majority of young Americans worry about climate crisis](https://www.theguardian.com/environment/2024/oct/17/young-americans-climate-change)
+- [‘They refused to let me go’: Japanese workers turn to resignation agencies to quit jobs](https://www.theguardian.com/world/2024/oct/19/japan-workers-resignation-agencies-quit-job-work-life)
+- [‘Best-in-class’ seats and no bog-standard loos: first look at HS2 train interiors](https://www.theguardian.com/uk-news/2024/oct/19/best-in-class-seats-and-no-bog-standard-loos-first-look-at-hs2-train-interiors)
+- [Reader stumbles on Dracula’s ancestors in a Dublin library](https://www.theguardian.com/books/2024/oct/19/dracula-ancestors-gibbet-hill-dublin-library)
+- [Ask Ottolenghi: how can I use up nigella seeds or dried shiitake mushrooms?](https://www.theguardian.com/food/2024/oct/19/ask-ottolenghi-how-can-i-use-up-nigella-seeds-or-dried-shiitake-mushrooms)
+- [Kamala Harris questions Trump’s stamina: ‘Is he fit to do the job?’](https://www.theguardian.com/us-news/2024/oct/18/kamala-harris-trump-michigan)
+- [Storm Ashley to bring 80mph winds to parts of UK this weekend](https://www.theguardian.com/uk-news/2024/oct/18/storm-ashley-to-bring-80mph-winds-to-parts-of-uk-this-weekend)
+- [Sydney beaches reopen after tar balls wash ashore but mystery remains over source](https://www.theguardian.com/australia-news/2024/oct/19/sydney-beaches-reopen-after-tar-balls-wash-ashore-but-mystery-remains-over-source)
+- [Trent Alexander-Arnold not distracted by Real Madrid links, insists Arne Slot](https://www.theguardian.com/football/2024/oct/18/trent-alexander-arnold-liverpool-real-madrid-contract-arne-slot)
+- [Struijk leads Leeds to victory to end Sheffield United’s unbeaten start](https://www.theguardian.com/football/2024/oct/18/leeds-sheffield-united-championship-match-report)
+- [Man accused of jail escape congratulated police officer who caught him, court told](https://www.theguardian.com/uk-news/2024/oct/18/daniel-khalife-congratulated-police-officer-who-caught-him-court-told)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [US probes Tesla&#39;s Full Self-Driving software in 2.4M cars after fatal crash](https://www.reuters.com/business/autos-transportation/nhtsa-opens-probe-into-24-mln-tesla-vehicles-over-full-self-driving-collisions-2024-10-18/)
-- [Stark et al. vs. Patreon, Inc. Class Action Settlement](https://www.patreonsettlement.com/)
-- [Our Boundless Love for Big Sur May Be Killing It](https://www.nytimes.com/2024/10/18/travel/big-sur-tourism-california.html)
-- [Reports show some Canada euthanasia deaths driven by social reasons](https://apnews.com/article/canada-euthanasia-deaths-doctors-nonterminal-nonfatal-cases-cd7ff24c57c15a404347df289788ef6d)
-- [Express v5](https://expressjs.com/2024/10/15/v5-release.html)
-- [Focus on decisions, not tasks](https://technicalwriting.dev/strategy/decisions.html)
-- [Distro &lpar;YC S24&rpar; is hiring a tech lead](https://www.ycombinator.com/companies/distro/jobs/XGMjSPe-tech-lead)
-- [The feds are coming for John Deere over the right to repair](https://gizmodo.com/the-feds-are-coming-for-john-deere-over-the-right-to-repair-2000513521)
-- [Subvert – Collectively owned music marketplace](https://subvert.fm/)
-- [Show HN: Go Plan9 Memo](https://pehringer.info/go_plan9_memo.html)
+- [Regarding our Cease and Desist letter to Automattic](https://wpfusion.com/business/regarding-our-cease-and-desist-letter-to-automattic/)
+- [Accountability sinks](https://aworkinglibrary.com/writing/accountability-sinks)
+- [Booting Sun Sparc Servers](https://sidneys1.com/retrocomputing/2024/10/04/booting-sun-sparc-servers.html)
+- [QUIC is not quick enough over fast internet](https://arxiv.org/abs/2310.09423)
+- [Show HN: I made a site to quick identify any plant and learn how to care for it](https://frondly.app/)
+- [Blocking code is a leaky abstraction](https://notgull.net/blocking-leaky/)
+- [Smurf: Beyond the Test Pyramid](https://testing.googleblog.com/2024/10/smurf-beyond-test-pyramid.html)
+- [Italy&#39;s Piracy Shield just blocked one of Google&#39;s CDN](https://mil04s43-in-f1.1e100.net)
+- [The Languages of English, Math, and Programming](https://github.com/norvig/pytudes/blob/main/ipynb/Triplets.ipynb)
+- [Autism&#39;s Four Core Subtypes](https://www.thetransmitter.org/spectrum/untangling-biological-threads-from-autisms-phenotypic-patchwork-reveals-four-core-subtypes/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

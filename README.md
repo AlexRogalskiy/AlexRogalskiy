@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [America&#39;s economy is bigger and better than](https://www.economist.com/leaders/2024/10/17/americas-economy-is-bigger-and-better-than-ever)
-- [Cows dead from bird flu rot in California as heat bakes dairy farms](https://www.reuters.com/world/us/cows-dead-bird-flu-rot-california-heat-bakes-dairy-farms-2024-10-17/)
-- [What makes a person seem wise?](https://theconversation.com/what-makes-a-person-seem-wise-global-study-finds-that-cultures-do-differ-but-not-as-much-as-youd-think-238808)
-- [Ask HN: What selfhosted PaaS would you recommend?](https://news.ycombinator.com/item?id=41885181)
-- [Strep A kills half a million per year; why don&#39;t we have a vaccine?](https://wellcome.org/news/strep-bacteria-kill-half-million-year-why-dont-we-have-vaccine)
-- [Technologies that won&#39;t exist in five years](https://blog.jacobtrefethen.com/10-technologies-that-wont-exist-in-5-yrs/)
-- [The Risk of Writing from Experience: How Fitzgerald&#39;s Final Novel Ruined Him](https://anthonymarigold.substack.com/p/the-risk-of-writing-from-experience)
-- [Fullstack Workflow with Shadow-CLJS](https://code.thheller.com/blog/shadow-cljs/2024/10/18/fullstack-cljs-workflow-with-shadow-cljs.html)
-- [Berry&#39;s Phase](https://ncatlab.org/nlab/show/Berry%27s+phase)
-- [SaaS Product Feedback](https://twocents.site/)
+- [Kape Technologies: 2024 Guide to Who Owns ExpressVPN](https://www.privacyjournal.net/kape-technologies/)
+- [Show HN: Simple web app to blur out sections in photos](https://www.imgblur.app/)
+- [Turing and the Primes &lpar;2016&rpar; [pdf]](https://people.maths.bris.ac.uk/~maarb/papers/turingprimes.pdf)
+- [Internal blog post reveals Automattic&#39;s plan](https://techcrunch.com/2024/10/15/internal-blog-post-reveals-automattics-plan-to-enforce-the-wordpress-trademark-using-nice-and-not-nice-lawyers/)
+- [Twitter&#39;s blog posts from 2019 to 2024 appear to be missing from internetarchive](https://twitter.com/0rf/status/1847814884794253671)
+- [Poor Perception of Friendship Ties Limits the Ability to Promote Change &lpar;2016&rpar;](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0151588)
+- [What Elon Musk Really Wants](https://www.msn.com/en-us/news/opinion/trump-is-elon-musk-s-trojan-horse/ar-AA1sy4hC)
+- [Yes, Go Does Have Exceptions](https://kristoff.it/blog/go-exceptions/)
+- [China&#39;s Radar Detects F-22 Stealth Fighters Using BeiDou Satellite Signals](https://www.eurasiantimes.com/chinas-groundbreaking-radar-detects-f-22/)
+- [WordPress Spam](https://news.ycombinator.com/item?id=41892281)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

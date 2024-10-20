@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [‘They refused to let me go’: Japanese workers turn to resignation agencies to quit jobs](https://www.theguardian.com/world/2024/oct/19/japan-workers-resignation-agencies-quit-job-work-life)
-- [‘Best-in-class’ seats and no bog-standard loos: first look at HS2 train interiors](https://www.theguardian.com/uk-news/2024/oct/19/best-in-class-seats-and-no-bog-standard-loos-first-look-at-hs2-train-interiors)
-- [Reader stumbles on Dracula’s ancestors in a Dublin library](https://www.theguardian.com/books/2024/oct/19/dracula-ancestors-gibbet-hill-dublin-library)
-- [Ask Ottolenghi: how can I use up nigella seeds or dried shiitake mushrooms?](https://www.theguardian.com/food/2024/oct/19/ask-ottolenghi-how-can-i-use-up-nigella-seeds-or-dried-shiitake-mushrooms)
-- [Kamala Harris questions Trump’s stamina: ‘Is he fit to do the job?’](https://www.theguardian.com/us-news/2024/oct/18/kamala-harris-trump-michigan)
-- [Storm Ashley to bring 80mph winds to parts of UK this weekend](https://www.theguardian.com/uk-news/2024/oct/18/storm-ashley-to-bring-80mph-winds-to-parts-of-uk-this-weekend)
-- [Sydney beaches reopen after tar balls wash ashore but mystery remains over source](https://www.theguardian.com/australia-news/2024/oct/19/sydney-beaches-reopen-after-tar-balls-wash-ashore-but-mystery-remains-over-source)
-- [Trent Alexander-Arnold not distracted by Real Madrid links, insists Arne Slot](https://www.theguardian.com/football/2024/oct/18/trent-alexander-arnold-liverpool-real-madrid-contract-arne-slot)
-- [Struijk leads Leeds to victory to end Sheffield United’s unbeaten start](https://www.theguardian.com/football/2024/oct/18/leeds-sheffield-united-championship-match-report)
-- [Man accused of jail escape congratulated police officer who caught him, court told](https://www.theguardian.com/uk-news/2024/oct/18/daniel-khalife-congratulated-police-officer-who-caught-him-court-told)
+- [Ukraine war briefing: G7 defence ministers pledge ‘unwavering support’ for Ukraine](https://www.theguardian.com/world/2024/oct/20/ukraine-war-briefing-g7-defence-ministers-pledge-unwavering-support-for-ukraine)
+- [Dock collapse on Georgia’s Sapelo Island leaves as least seven dead](https://www.theguardian.com/us-news/2024/oct/20/dock-collapse-on-georgias-sapelo-island-leaves-as-least-seven-dead)
+- [Harris stresses abortion rights and early voting in packed Atlanta rally](https://www.theguardian.com/us-news/2024/oct/19/harris-abortion-rights-early-voting-atlanta)
+- [Verstappen wins US Grand Prix sprint race, but Norris snatches pole position](https://www.theguardian.com/sport/2024/oct/19/us-f1-gp-sprint-race-report)
+- [Winter warmers: Top ten best menswear looks for autumn– in pictures](https://www.theguardian.com/fashion/gallery/2024/oct/19/winter-warmers-top-ten-best-menswear-looks-for-autumn-in-pictures)
+- [Chris Hoy has ‘two to four years’ left to live after terminal cancer diagnosis](https://www.theguardian.com/sport/2024/oct/19/chris-hoy-has-two-to-four-years-left-to-live-after-terminal-cancer-diagnosis)
+- [Ministers explore plan to hand Post Office to subpostmasters](https://www.theguardian.com/business/2024/oct/19/ministers-explore-plan-to-hand-post-office-to-subpostmasters)
+- [Murder investigation launched after death of man in North Ayrshire](https://www.theguardian.com/uk-news/2024/oct/19/investigation-launched-after-death-of-man-in-north-ayrshire)
+- [Arsenal left counting cost of naivety against Bournemouth, says Declan Rice](https://www.theguardian.com/football/2024/oct/19/arsenal-left-counting-cost-of-naivety-says-declan-rice)
+- [Zayn Malik postpones US tour dates after Liam Payne’s ‘heartbreaking’ death](https://www.theguardian.com/music/2024/oct/19/zayn-malik-postpones-us-tour-dates-after-liam-paynes-heartbreaking-death)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

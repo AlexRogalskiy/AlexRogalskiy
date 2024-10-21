@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Regarding our Cease and Desist letter to Automattic](https://wpfusion.com/business/regarding-our-cease-and-desist-letter-to-automattic/)
-- [Accountability sinks](https://aworkinglibrary.com/writing/accountability-sinks)
-- [Booting Sun Sparc Servers](https://sidneys1.com/retrocomputing/2024/10/04/booting-sun-sparc-servers.html)
-- [QUIC is not quick enough over fast internet](https://arxiv.org/abs/2310.09423)
-- [Show HN: I made a site to quick identify any plant and learn how to care for it](https://frondly.app/)
-- [Blocking code is a leaky abstraction](https://notgull.net/blocking-leaky/)
-- [Smurf: Beyond the Test Pyramid](https://testing.googleblog.com/2024/10/smurf-beyond-test-pyramid.html)
-- [Italy&#39;s Piracy Shield just blocked one of Google&#39;s CDN](https://mil04s43-in-f1.1e100.net)
-- [The Languages of English, Math, and Programming](https://github.com/norvig/pytudes/blob/main/ipynb/Triplets.ipynb)
-- [Autism&#39;s Four Core Subtypes](https://www.thetransmitter.org/spectrum/untangling-biological-threads-from-autisms-phenotypic-patchwork-reveals-four-core-subtypes/)
+- [Concerns Raised over Bitwarden Moving Further Away from Open-Source](https://www.phoronix.com/news/Bitwarden-Open-Source-Concerns#google_vignette)
+- [3D-Printed Active Electronics](https://news.mit.edu/2024/mit-team-takes-major-step-toward-fully-3d-printed-active-electronics-1015)
+- [Memory Safety Without Lifetime Parameters](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3444r0.html)
+- [David Lynch Interview Project: 121 Episodes from 20k-Mile Road Trip Across U.S.](https://www.youtube.com/watch?v=P_vbYmPm_zU)
+- [If you&#39;re curious why every username is a domain, it&#39;s because users are sites](https://bsky.app/profile/pfrazee.com/post/3l6xwi52zti2y)
+- [A Console-Friendly Pastebin with binary support](https://paste.c-net.org/)
+- [Show HN: Semantic Macros Text Editor](https://samtxt.samrawal.com/)
+- [Microsoft said it lost weeks of security logs for its customers&#39; cloud products](https://techcrunch.com/2024/10/17/microsoft-said-it-lost-weeks-of-security-logs-for-its-customers-cloud-products/)
+- [Show HN: Create mind maps to learn new things using AI](https://github.com/aotakeda/learn-thing)
+- [All-optical switch device paves way for faster fiber-optic communication](https://phys.org/news/2024-10-optical-device-paves-faster-fiber.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

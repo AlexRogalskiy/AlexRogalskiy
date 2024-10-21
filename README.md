@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Kape Technologies: 2024 Guide to Who Owns ExpressVPN](https://www.privacyjournal.net/kape-technologies/)
-- [Show HN: Simple web app to blur out sections in photos](https://www.imgblur.app/)
-- [Turing and the Primes &lpar;2016&rpar; [pdf]](https://people.maths.bris.ac.uk/~maarb/papers/turingprimes.pdf)
-- [Internal blog post reveals Automattic&#39;s plan](https://techcrunch.com/2024/10/15/internal-blog-post-reveals-automattics-plan-to-enforce-the-wordpress-trademark-using-nice-and-not-nice-lawyers/)
-- [Twitter&#39;s blog posts from 2019 to 2024 appear to be missing from internetarchive](https://twitter.com/0rf/status/1847814884794253671)
-- [Poor Perception of Friendship Ties Limits the Ability to Promote Change &lpar;2016&rpar;](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0151588)
-- [What Elon Musk Really Wants](https://www.msn.com/en-us/news/opinion/trump-is-elon-musk-s-trojan-horse/ar-AA1sy4hC)
-- [Yes, Go Does Have Exceptions](https://kristoff.it/blog/go-exceptions/)
-- [China&#39;s Radar Detects F-22 Stealth Fighters Using BeiDou Satellite Signals](https://www.eurasiantimes.com/chinas-groundbreaking-radar-detects-f-22/)
-- [WordPress Spam](https://news.ycombinator.com/item?id=41892281)
+- [Whispr: Securely develop software without leaking secrets](https://github.com/narenaryan/whispr)
+- [Ruby on Rails 8.0.0.rc1 Released](https://github.com/rails/rails/releases/tag/v8.0.0.rc1)
+- [Clear up your Rails controllers with before_action wrappers](https://buttondown.com/kaspth/archive/clear-up-your-rails-controllers-with/)
+- [Concerns Raised over Bitwarden Moving Further Away from Open-Source](https://www.phoronix.com/news/Bitwarden-Open-Source-Concerns#google_vignette)
+- [Transformers can be trained to solve a 132-years old open problem](https://twitter.com/f_charton/status/1846884416930402633)
+- [Tiny parasitic wasp helps save one of rarest birds from extinction](https://www.theguardian.com/environment/2024/oct/08/tiny-parasitic-wasp-rarest-species-bird-extinction-wilkins-bunting)
+- [Solving Sudoku in Python Packaging](https://github.com/konstin/sudoku-in-python-packaging)
+- [Getting things done by not trying](https://invertedpassion.com/getting-things-done-by-not-trying/)
+- [&#39;The Great Stay&#39; is preventing young workers from getting a foot in the door](https://www.cnn.com/2024/10/18/economy/younger-americans-job-search/index.html)
+- [&quot;The complexity of theorem-proving procedures&quot; Stephen Cook &lpar;1971&rpar;](https://dl.acm.org/doi/10.1145/800157.805047)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

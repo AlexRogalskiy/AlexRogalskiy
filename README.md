@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine war briefing: G7 defence ministers pledge ‘unwavering support’ for Ukraine](https://www.theguardian.com/world/2024/oct/20/ukraine-war-briefing-g7-defence-ministers-pledge-unwavering-support-for-ukraine)
-- [Dock collapse on Georgia’s Sapelo Island leaves as least seven dead](https://www.theguardian.com/us-news/2024/oct/20/dock-collapse-on-georgias-sapelo-island-leaves-as-least-seven-dead)
-- [Harris stresses abortion rights and early voting in packed Atlanta rally](https://www.theguardian.com/us-news/2024/oct/19/harris-abortion-rights-early-voting-atlanta)
-- [Verstappen wins US Grand Prix sprint race, but Norris snatches pole position](https://www.theguardian.com/sport/2024/oct/19/us-f1-gp-sprint-race-report)
-- [Winter warmers: Top ten best menswear looks for autumn– in pictures](https://www.theguardian.com/fashion/gallery/2024/oct/19/winter-warmers-top-ten-best-menswear-looks-for-autumn-in-pictures)
-- [Chris Hoy has ‘two to four years’ left to live after terminal cancer diagnosis](https://www.theguardian.com/sport/2024/oct/19/chris-hoy-has-two-to-four-years-left-to-live-after-terminal-cancer-diagnosis)
-- [Ministers explore plan to hand Post Office to subpostmasters](https://www.theguardian.com/business/2024/oct/19/ministers-explore-plan-to-hand-post-office-to-subpostmasters)
-- [Murder investigation launched after death of man in North Ayrshire](https://www.theguardian.com/uk-news/2024/oct/19/investigation-launched-after-death-of-man-in-north-ayrshire)
-- [Arsenal left counting cost of naivety against Bournemouth, says Declan Rice](https://www.theguardian.com/football/2024/oct/19/arsenal-left-counting-cost-of-naivety-says-declan-rice)
-- [Zayn Malik postpones US tour dates after Liam Payne’s ‘heartbreaking’ death](https://www.theguardian.com/music/2024/oct/19/zayn-malik-postpones-us-tour-dates-after-liam-paynes-heartbreaking-death)
+- [How the US border became a toxic issue for voters – podcast](https://www.theguardian.com/news/audio/2024/oct/21/how-the-us-border-became-a-toxic-issue-for-voters-podcast)
+- [Blasts heard across Beirut after Israel warns it will hit Hezbollah-linked finance group](https://www.theguardian.com/world/2024/oct/21/lebanon-beirut-attack-israel-hezbollah-al-qard-al-hassan)
+- [Brazil president Lula cancels Brics trip to Russia after ‘small brain haemorrhage’ from fall](https://www.theguardian.com/world/2024/oct/21/brazil-president-luiz-inacio-lula-da-silva-fall-russia-trip-brics)
+- [Ukraine war briefing: Power cuts in Kharkiv after Russian strikes](https://www.theguardian.com/world/2024/oct/21/ukraine-war-briefing-power-cuts-in-kharkiv-after-russian-strikes)
+- [Moldova president condemns ‘assault’ on democracy by ‘foreign forces’ as EU vote hangs in balance](https://www.theguardian.com/world/2024/oct/21/moldova-election-maia-sandu)
+- [Half of UK workforce lack access to workplace health support, report finds](https://www.theguardian.com/society/2024/oct/21/half-of-uk-workforce-lack-access-to-workplace-health-support-report-finds)
+- [Wes Streeting unveils plans for ‘patient passports’ to hold all medical records](https://www.theguardian.com/society/2024/oct/21/wes-streeting-unveils-plans-for-patient-passports-to-hold-all-medical-records)
+- [Number of homes sold in UK up by a third, says Rightmove](https://www.theguardian.com/business/2024/oct/21/number-of-homes-sold-in-uk-up-by-a-third-says-rightmove)
+- [Kamala Harris visits church on birthday as Trump repeats ‘enemy within’ rhetoric](https://www.theguardian.com/us-news/2024/oct/20/kamala-harris-campaigns-trump-arnold-palmer)
+- [UK weather: Storm Ashley batters UK with strong winds and rain](https://www.theguardian.com/uk-news/2024/oct/20/uk-weather-storm-ashley-batters-britain-with-strong-winds-and-rain-met-office)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

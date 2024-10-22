@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [How the US border became a toxic issue for voters – podcast](https://www.theguardian.com/news/audio/2024/oct/21/how-the-us-border-became-a-toxic-issue-for-voters-podcast)
-- [Blasts heard across Beirut after Israel warns it will hit Hezbollah-linked finance group](https://www.theguardian.com/world/2024/oct/21/lebanon-beirut-attack-israel-hezbollah-al-qard-al-hassan)
-- [Brazil president Lula cancels Brics trip to Russia after ‘small brain haemorrhage’ from fall](https://www.theguardian.com/world/2024/oct/21/brazil-president-luiz-inacio-lula-da-silva-fall-russia-trip-brics)
-- [Ukraine war briefing: Power cuts in Kharkiv after Russian strikes](https://www.theguardian.com/world/2024/oct/21/ukraine-war-briefing-power-cuts-in-kharkiv-after-russian-strikes)
-- [Moldova president condemns ‘assault’ on democracy by ‘foreign forces’ as EU vote hangs in balance](https://www.theguardian.com/world/2024/oct/21/moldova-election-maia-sandu)
-- [Half of UK workforce lack access to workplace health support, report finds](https://www.theguardian.com/society/2024/oct/21/half-of-uk-workforce-lack-access-to-workplace-health-support-report-finds)
-- [Wes Streeting unveils plans for ‘patient passports’ to hold all medical records](https://www.theguardian.com/society/2024/oct/21/wes-streeting-unveils-plans-for-patient-passports-to-hold-all-medical-records)
-- [Number of homes sold in UK up by a third, says Rightmove](https://www.theguardian.com/business/2024/oct/21/number-of-homes-sold-in-uk-up-by-a-third-says-rightmove)
-- [Kamala Harris visits church on birthday as Trump repeats ‘enemy within’ rhetoric](https://www.theguardian.com/us-news/2024/oct/20/kamala-harris-campaigns-trump-arnold-palmer)
-- [UK weather: Storm Ashley batters UK with strong winds and rain](https://www.theguardian.com/uk-news/2024/oct/20/uk-weather-storm-ashley-batters-britain-with-strong-winds-and-rain-met-office)
+- [Moldova’s razor-thin EU referendum result – podcast](https://www.theguardian.com/news/audio/2024/oct/22/moldova-eu-european-union-referendum-result-podcast)
+- [Joseph Sua’ali’i joins Skelton and Kerevi in Wallabies squad for UK and Ireland tour](https://www.theguardian.com/sport/2024/oct/22/rugby-australia-wallabies-squad-uk-tour-joseph-suaalii-will-skelton-samu-kerevi)
+- [Liam Payne had ‘pink cocaine’ in his system at time of death – reports](https://www.theguardian.com/music/2024/oct/22/liam-payne-cause-of-death-toxicology-reports-cocaine-methamphetamine)
+- [Efforts continue to rescue cockatoo ‘living on brioche’ for four weeks inside Sydney supermarket](https://www.theguardian.com/environment/2024/oct/22/efforts-continue-to-rescue-cockatoo-living-on-brioche-for-four-weeks-inside-sydney-supermarket)
+- [Peru ex-president Alejandro Toledo jailed for 20 years over involvement in Car Wash scandal](https://www.theguardian.com/world/2024/oct/22/peru-ex-president-alejandro-toledo-jailed-for-20-odebrecht-bribes-car-wash-scandal-ntwnfb)
+- [Flat Earthers: The Musical review – what happens when a ‘Flattie’ and a sceptic fall in love?](https://www.theguardian.com/stage/2024/oct/22/flat-earthers-the-musical-theatre-review)
+- [Celebrated musician Janusz Olejniczak, who played piano parts in The Pianist film, dies at 72](https://www.theguardian.com/film/2024/oct/22/celebrated-musician-janusz-olejniczak-who-played-piano-parts-in-the-pianist-film-dies-at-72)
+- [Liz Cheney urges conservatives to back Kamala Harris over abortion](https://www.theguardian.com/us-news/2024/oct/21/liz-cheney-kamala-harris-abortion)
+- [UK to lend Ukraine an additional £2.26bn for weapons to fight Russia](https://www.theguardian.com/politics/2024/oct/22/uk-lend-ukraine-2bn-for-weapons-to-fight-russia)
+- [Archbishop of Canterbury reveals ancestral links to slavery](https://www.theguardian.com/world/2024/oct/22/archbishop-of-canterbury-justin-welby-reveals-ancestral-links-to-slavery)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

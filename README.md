@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Whispr: Securely develop software without leaking secrets](https://github.com/narenaryan/whispr)
-- [Ruby on Rails 8.0.0.rc1 Released](https://github.com/rails/rails/releases/tag/v8.0.0.rc1)
-- [Clear up your Rails controllers with before_action wrappers](https://buttondown.com/kaspth/archive/clear-up-your-rails-controllers-with/)
-- [Concerns Raised over Bitwarden Moving Further Away from Open-Source](https://www.phoronix.com/news/Bitwarden-Open-Source-Concerns#google_vignette)
-- [Transformers can be trained to solve a 132-years old open problem](https://twitter.com/f_charton/status/1846884416930402633)
-- [Tiny parasitic wasp helps save one of rarest birds from extinction](https://www.theguardian.com/environment/2024/oct/08/tiny-parasitic-wasp-rarest-species-bird-extinction-wilkins-bunting)
-- [Solving Sudoku in Python Packaging](https://github.com/konstin/sudoku-in-python-packaging)
-- [Getting things done by not trying](https://invertedpassion.com/getting-things-done-by-not-trying/)
-- [&#39;The Great Stay&#39; is preventing young workers from getting a foot in the door](https://www.cnn.com/2024/10/18/economy/younger-americans-job-search/index.html)
-- [&quot;The complexity of theorem-proving procedures&quot; Stephen Cook &lpar;1971&rpar;](https://dl.acm.org/doi/10.1145/800157.805047)
+- [Distributed Consensus Reading List](https://github.com/heidihoward/distributed-consensus-reading-list)
+- [Show HN: I made an extension that uses AI to help avoid BS brands on Amazon](https://chromewebstore.google.com/detail/namebrand-check-for-amazo/jacmhjjebjgliobjggngkmkmckakphel)
+- [The SEC&#39;smarket monitoring system is fully operational after 14 years](https://sherwood.news/markets/the-secs-state-of-the-art-market-monitoring-system-is-fully-operational/)
+- [Famidash – open-source Geometry Dash port for NES [video]](https://www.youtube.com/watch?v=iGOS27y2EXk)
+- [7G Firewall for Nginx](https://perishablepress.com/7g-firewall-nginx/)
+- [The Kirupa Tech Stack](https://www.kirupa.chat/p/the-kirupa-tech-stack)
+- [RISC-V on the Raspberry Pi Pico 2](https://smist08.wordpress.com/2024/10/21/risc-v-on-the-raspberry-pi-pico-2/)
+- [Allegro: Open the Black Box of Commercial-Level Video Generation Model](https://arxiv.org/abs/2410.15458)
+- [Why does the USGS use the spelling &quot;gage&quot; instead of &quot;gauge&quot;?](https://www.usgs.gov/faqs/why-does-usgs-use-spelling-gage-instead-gauge)
+- [Meta in Myanmar](https://erinkissane.com/meta-in-myanmar-full-series)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

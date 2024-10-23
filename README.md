@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [World-first therapy using donor cells sends autoimmune diseases into remission](https://www.nature.com/articles/d41586-024-03209-4I)
-- [Are you tasty to mosquitoes? Study offers clues into when and why they bite](https://news.yale.edu/2024/10/16/are-you-tasty-mosquitoes-study-offers-clues-when-and-why-they-bite)
-- [LTESniffer: An Open-Source LTE Downlink/Uplink Eavesdropper](https://github.com/SysSec-KAIST/LTESniffer)
-- [Apple&#39;s AirPods Pro hearing health features are as good as they sound](https://www.theverge.com/24275178/apple-airpods-pro-hearing-aid-test-protection-preview)
-- [Wired&#39;s Attack on Privacy](https://simplex.chat/blog/20241016-wired-attack-on-privacy.html)
-- [Transformers Utilization in Chart Understanding: A Review of Advances and Future](https://arxiv.org/abs/2410.13883)
-- [Learning to Learn](https://kevin.the.li/posts/learning-to-learn/)
-- [Math is still catching up to the genius of Ramanujan](https://www.quantamagazine.org/srinivasa-ramanujan-was-a-genius-math-is-still-catching-up-20241021/)
-- [Transitioning the Use of Cryptographic Algorithms and Key Lengths](https://csrc.nist.gov/pubs/sp/800/131/a/r3/ipd)
-- [Thought experiments that fray the fabric of space-time](https://www.quantamagazine.org/the-thought-experiments-that-fray-the-fabric-of-space-time-20240925/)
+- [Show HN: Ryde, a Rust Web Framework](https://github.com/swlkr/ryde)
+- [Solving the Mystery of ARM7TDMI Multiply Carry Flag](https://bmchtech.github.io/post/multiply/)
+- [Sei AI &lpar;YC W22&rpar; Is Hiring](https://www.ycombinator.com/companies/sei/jobs/gTP6gPx-software-engineer-typescript-gen-ai)
+- [Arm is canceling Qualcomm&#39;s chip design license](https://www.bloomberg.com/news/articles/2024-10-23/arm-to-cancel-qualcomm-chip-design-license-in-escalation-of-feud)
+- [Solving Sudoku with the Python package resolver](https://github.com/konstin/sudoku-in-python-packaging)
+- [How the Unchecked Power of Companies Is Destabilizing Governance](https://hai.stanford.edu/news/tech-coup-new-book-shows-how-unchecked-power-companies-destabilizing-governance)
+- [Simone Giertz talks about invention](https://spectrum.ieee.org/simone-giertz)
+- [How DRAM changed the world](https://www.micron.com/about/blog/memory/dram/how-dram-changed-the-world)
+- [Captive Portal IPv6 Support](https://github.com/abdulkader-alrezej/ipv6spot)
+- [Show HN: I made a tool for curating and sharing links as lists](https://snack.xyz/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Moldova’s razor-thin EU referendum result – podcast](https://www.theguardian.com/news/audio/2024/oct/22/moldova-eu-european-union-referendum-result-podcast)
-- [Joseph Sua’ali’i joins Skelton and Kerevi in Wallabies squad for UK and Ireland tour](https://www.theguardian.com/sport/2024/oct/22/rugby-australia-wallabies-squad-uk-tour-joseph-suaalii-will-skelton-samu-kerevi)
-- [Liam Payne had ‘pink cocaine’ in his system at time of death – reports](https://www.theguardian.com/music/2024/oct/22/liam-payne-cause-of-death-toxicology-reports-cocaine-methamphetamine)
-- [Efforts continue to rescue cockatoo ‘living on brioche’ for four weeks inside Sydney supermarket](https://www.theguardian.com/environment/2024/oct/22/efforts-continue-to-rescue-cockatoo-living-on-brioche-for-four-weeks-inside-sydney-supermarket)
-- [Peru ex-president Alejandro Toledo jailed for 20 years over involvement in Car Wash scandal](https://www.theguardian.com/world/2024/oct/22/peru-ex-president-alejandro-toledo-jailed-for-20-odebrecht-bribes-car-wash-scandal-ntwnfb)
-- [Flat Earthers: The Musical review – what happens when a ‘Flattie’ and a sceptic fall in love?](https://www.theguardian.com/stage/2024/oct/22/flat-earthers-the-musical-theatre-review)
-- [Celebrated musician Janusz Olejniczak, who played piano parts in The Pianist film, dies at 72](https://www.theguardian.com/film/2024/oct/22/celebrated-musician-janusz-olejniczak-who-played-piano-parts-in-the-pianist-film-dies-at-72)
-- [Liz Cheney urges conservatives to back Kamala Harris over abortion](https://www.theguardian.com/us-news/2024/oct/21/liz-cheney-kamala-harris-abortion)
-- [UK to lend Ukraine an additional £2.26bn for weapons to fight Russia](https://www.theguardian.com/politics/2024/oct/22/uk-lend-ukraine-2bn-for-weapons-to-fight-russia)
-- [Archbishop of Canterbury reveals ancestral links to slavery](https://www.theguardian.com/world/2024/oct/22/archbishop-of-canterbury-justin-welby-reveals-ancestral-links-to-slavery)
+- [Will the Chris Kaba murder trial change British policing? | Podcast](https://www.theguardian.com/news/audio/2024/oct/23/will-the-chris-kaba-trial-change-british-policing-podcast)
+- [Australian judge’s speech met by protest over his role in Hong Kong’s appeal court](https://www.theguardian.com/world/2024/oct/23/australian-judges-speech-met-by-protest-over-his-role-in-hong-kongs-appeal-court)
+- [Arrests for illegal US-Mexico border crossing falls to more than four-year low](https://www.theguardian.com/us-news/2024/oct/22/illegal-crossing-mexico-border-four-year-low)
+- [Roman Polanski: lawsuit alleging director raped teenager in 1973 settled and dismissed](https://www.theguardian.com/film/2024/oct/23/roman-polanski-rape-allegation-lawsuit-settled)
+- [Ukraine war briefing: Draft-dodging scandal sees Kyiv’s top prosecutor resign and officials sacked](https://www.theguardian.com/world/2024/oct/23/ukraine-war-briefing-draft-dodging-scandal-sees-kyivs-top-prosecutor-resign-and-officials-sacked)
+- [The US is ‘absolutely’ ready for a female president, Harris says in NBC interview](https://www.theguardian.com/us-news/2024/oct/22/kamala-harris-nbc-interview-female-president)
+- [If Australians knew the whole truth about Indigenous history, Lidia Thorpe’s royal outburst would not have been a shock | Celeste Liddle](https://www.theguardian.com/commentisfree/2024/oct/23/if-australians-knew-the-whole-truth-about-indigenous-history-lidia-thorpes-royal-outburst-would-not-have-been-a-shock)
+- [Putin returns to world stage hosting 36 leaders at Brics summit in Russia](https://www.theguardian.com/business/2024/oct/22/putin-brics-summit-russia-china-india-iran-kazan)
+- [Number of abandoned cats soars by more than 30% in UK](https://www.theguardian.com/world/2024/oct/23/number-of-abandoned-cats-soars-by-more-than-30-in-uk)
+- [Doctors trial world’s first vaccine against vomiting bug norovirus](https://www.theguardian.com/society/2024/oct/23/doctors-trial-worlds-first-vaccine-against-vomiting-bug-norovirus)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

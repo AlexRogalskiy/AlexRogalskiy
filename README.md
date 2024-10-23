@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Distributed Consensus Reading List](https://github.com/heidihoward/distributed-consensus-reading-list)
-- [Show HN: I made an extension that uses AI to help avoid BS brands on Amazon](https://chromewebstore.google.com/detail/namebrand-check-for-amazo/jacmhjjebjgliobjggngkmkmckakphel)
-- [The SEC&#39;smarket monitoring system is fully operational after 14 years](https://sherwood.news/markets/the-secs-state-of-the-art-market-monitoring-system-is-fully-operational/)
-- [Famidash – open-source Geometry Dash port for NES [video]](https://www.youtube.com/watch?v=iGOS27y2EXk)
-- [7G Firewall for Nginx](https://perishablepress.com/7g-firewall-nginx/)
-- [The Kirupa Tech Stack](https://www.kirupa.chat/p/the-kirupa-tech-stack)
-- [RISC-V on the Raspberry Pi Pico 2](https://smist08.wordpress.com/2024/10/21/risc-v-on-the-raspberry-pi-pico-2/)
-- [Allegro: Open the Black Box of Commercial-Level Video Generation Model](https://arxiv.org/abs/2410.15458)
-- [Why does the USGS use the spelling &quot;gage&quot; instead of &quot;gauge&quot;?](https://www.usgs.gov/faqs/why-does-usgs-use-spelling-gage-instead-gauge)
-- [Meta in Myanmar](https://erinkissane.com/meta-in-myanmar-full-series)
+- [Fortinet critical 0-day vulnerability being actively exploited](https://arstechnica.com/security/2024/10/fortinet-stays-mum-on-critical-0-day-reportedly-under-active-exploitation/)
+- [Room temp chirality switching and detection in a helimagnetic MnAu2 thin film](https://www.nature.com/articles/s41467-024-46326-4)
+- [Ask HN: What elements of a startup should founders consider outsourcing](https://news.ycombinator.com/item?id=41921123)
+- [I Tried Nonboarding and Survived](https://mariiapodavalkina.github.io/fancy-words/blog/nonboarding/)
+- [Why Verifiable Credentials Aren&#39;t Widely Adopted and Why Trinsic Pivoted](https://rileyparkerhughes.medium.com/why-verifiable-credentials-arent-widely-adopted-why-trinsic-pivoted-aee946379e3b)
+- [My journey to a mindful smartphone usage](https://prashants.in/blog/my-journey-to-mindful-smartphone-usage/)
+- [Show HN: Ryde, a Rust Web Framework](https://github.com/swlkr/ryde)
+- [Modern 2024 PC with a vintage twist &lpar;ft. Ryzen 5 7600 and GeForce 4060 Ti&rpar;](https://yeokhengmeng.com/2024/10/modern-pc-vintage-twist/)
+- [Interventions Testing Program](https://www.nia.nih.gov/research/dab/interventions-testing-program-itp)
+- [Beginner Guide to Simulating and Testing Robots with ROS 2 and Nvidia Isaac SIM](https://developer.nvidia.com/blog/a-beginners-guide-to-simulating-and-testing-robots-with-ros-2-and-nvidia-isaac-sim/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

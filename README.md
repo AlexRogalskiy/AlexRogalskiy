@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Will the Chris Kaba murder trial change British policing? | Podcast](https://www.theguardian.com/news/audio/2024/oct/23/will-the-chris-kaba-trial-change-british-policing-podcast)
-- [Australian judge’s speech met by protest over his role in Hong Kong’s appeal court](https://www.theguardian.com/world/2024/oct/23/australian-judges-speech-met-by-protest-over-his-role-in-hong-kongs-appeal-court)
-- [Arrests for illegal US-Mexico border crossing falls to more than four-year low](https://www.theguardian.com/us-news/2024/oct/22/illegal-crossing-mexico-border-four-year-low)
-- [Roman Polanski: lawsuit alleging director raped teenager in 1973 settled and dismissed](https://www.theguardian.com/film/2024/oct/23/roman-polanski-rape-allegation-lawsuit-settled)
-- [Ukraine war briefing: Draft-dodging scandal sees Kyiv’s top prosecutor resign and officials sacked](https://www.theguardian.com/world/2024/oct/23/ukraine-war-briefing-draft-dodging-scandal-sees-kyivs-top-prosecutor-resign-and-officials-sacked)
-- [The US is ‘absolutely’ ready for a female president, Harris says in NBC interview](https://www.theguardian.com/us-news/2024/oct/22/kamala-harris-nbc-interview-female-president)
-- [If Australians knew the whole truth about Indigenous history, Lidia Thorpe’s royal outburst would not have been a shock | Celeste Liddle](https://www.theguardian.com/commentisfree/2024/oct/23/if-australians-knew-the-whole-truth-about-indigenous-history-lidia-thorpes-royal-outburst-would-not-have-been-a-shock)
-- [Putin returns to world stage hosting 36 leaders at Brics summit in Russia](https://www.theguardian.com/business/2024/oct/22/putin-brics-summit-russia-china-india-iran-kazan)
-- [Number of abandoned cats soars by more than 30% in UK](https://www.theguardian.com/world/2024/oct/23/number-of-abandoned-cats-soars-by-more-than-30-in-uk)
-- [Doctors trial world’s first vaccine against vomiting bug norovirus](https://www.theguardian.com/society/2024/oct/23/doctors-trial-worlds-first-vaccine-against-vomiting-bug-norovirus)
+- [Israeli assault on northern Gaza forces postponement of polio vaccination campaign](https://www.theguardian.com/world/2024/oct/24/israel-gaza-strikes-jabalia-polio-vaccine-campaign-postponed)
+- [Liam Payne: the heady rise and tragic death of a One Direction star – podcast](https://www.theguardian.com/news/audio/2024/oct/24/liam-payne-the-heady-rise-and-tragic-death-of-a-one-direction-star-podcast)
+- [Trump escalates insults against Harris as he faces scrutiny over alleged praise of Hitler](https://www.theguardian.com/us-news/2024/oct/23/trump-harris-insults-georgia-rally)
+- [China-linked bots targeting Republicans including Marco Rubio in run-up to election, Microsoft says](https://www.theguardian.com/us-news/2024/oct/24/taizi-flood-china-social-media-bots-marco-rubio-targeting-republicans)
+- [Ukraine war briefing: Brics summit backfired on Putin with calls for peace, says Kyiv](https://www.theguardian.com/world/2024/oct/24/ukraine-war-briefing-brics-summit-backfired-on-putin-with-calls-for-peace-says-kyiv)
+- [Liam Payne’s girlfriend Kate Cassidy says they had planned to marry before singer’s death](https://www.theguardian.com/music/2024/oct/24/liam-payne-one-direction-girlfriend-kate-cassidy-marriage-plans)
+- [Trans children’s charity told to rewrite guidance on puberty blockers](https://www.theguardian.com/society/2024/oct/24/trans-childrens-charity-told-to-rewrite-guidance-on-puberty-blockers)
+- [Special educational needs bill in England hits record £10bn a year](https://www.theguardian.com/education/2024/oct/24/special-educational-needs-bill-england-10bn-school-council-funding)
+- [Reeves to announce major change to fiscal rules releasing £50bn for spending](https://www.theguardian.com/business/2024/oct/23/reeves-to-announce-major-change-to-fiscal-rules-releasing-50bn-for-spending)
+- [Donald Trump groped me in what felt like a ‘twisted game’ with Jeffrey Epstein, former model alleges](https://www.theguardian.com/us-news/2024/oct/23/donald-trump-accuser-stacey-williams-jeffrey-epstein)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Fortinet critical 0-day vulnerability being actively exploited](https://arstechnica.com/security/2024/10/fortinet-stays-mum-on-critical-0-day-reportedly-under-active-exploitation/)
-- [Room temp chirality switching and detection in a helimagnetic MnAu2 thin film](https://www.nature.com/articles/s41467-024-46326-4)
-- [Ask HN: What elements of a startup should founders consider outsourcing](https://news.ycombinator.com/item?id=41921123)
-- [I Tried Nonboarding and Survived](https://mariiapodavalkina.github.io/fancy-words/blog/nonboarding/)
-- [Why Verifiable Credentials Aren&#39;t Widely Adopted and Why Trinsic Pivoted](https://rileyparkerhughes.medium.com/why-verifiable-credentials-arent-widely-adopted-why-trinsic-pivoted-aee946379e3b)
-- [My journey to a mindful smartphone usage](https://prashants.in/blog/my-journey-to-mindful-smartphone-usage/)
-- [Show HN: Ryde, a Rust Web Framework](https://github.com/swlkr/ryde)
-- [Modern 2024 PC with a vintage twist &lpar;ft. Ryzen 5 7600 and GeForce 4060 Ti&rpar;](https://yeokhengmeng.com/2024/10/modern-pc-vintage-twist/)
-- [Interventions Testing Program](https://www.nia.nih.gov/research/dab/interventions-testing-program-itp)
-- [Beginner Guide to Simulating and Testing Robots with ROS 2 and Nvidia Isaac SIM](https://developer.nvidia.com/blog/a-beginners-guide-to-simulating-and-testing-robots-with-ros-2-and-nvidia-isaac-sim/)
+- [Show HN: No need to manually reproduce bugs – do it in one click with Playwright](https://trybeagle.xyz/)
+- [Arm Holdings to cancel Qualcomm chip design license](https://www.reuters.com/technology/arm-holdings-cancel-qualcomm-chip-design-license-bloomberg-news-reports-2024-10-23/)
+- [Ask HN: What do you use ChatGPT / Claude for?](https://news.ycombinator.com/item?id=41931352)
+- [Boeing machinists reject latest contract](https://www.wsj.com/business/airlines/boeing-machinists-reject-latest-contract-9036e136)
+- [Telecoms, home security firms, &amp; advertisers sue the FTC to stop click to cancel](https://www.theverge.com/2024/10/23/24278020/ftc-click-to-cancel-subscriptions-rule-lawsuit-telecoms-security-advertising-groups)
+- [Mochi 1 text to video mochi AI video online tools](https://mochi1.online/)
+- [NEW AI app, ReelFarm: 1-click automate entire YouTube channels](https://reel.farm)
+- [Disrupted Human–Dog Interbrain Neural Coupling in Autism-Associated Mutant Dogs](https://onlinelibrary.wiley.com/doi/10.1002/advs.202402493)
+- [How to rapidly assimilate new information](https://dhruvmethi.substack.com/p/how-to-rapidly-assimilate-new-information)
+- [Detailed Maps of Water in and Around Landmasses](https://www.earthdata.nasa.gov/news/new-product-provides-detailed-maps-water-around-landmasses)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

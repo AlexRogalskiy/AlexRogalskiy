@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Show HN: Ryde, a Rust Web Framework](https://github.com/swlkr/ryde)
-- [Solving the Mystery of ARM7TDMI Multiply Carry Flag](https://bmchtech.github.io/post/multiply/)
-- [Sei AI &lpar;YC W22&rpar; Is Hiring](https://www.ycombinator.com/companies/sei/jobs/gTP6gPx-software-engineer-typescript-gen-ai)
-- [Arm is canceling Qualcomm&#39;s chip design license](https://www.bloomberg.com/news/articles/2024-10-23/arm-to-cancel-qualcomm-chip-design-license-in-escalation-of-feud)
-- [Solving Sudoku with the Python package resolver](https://github.com/konstin/sudoku-in-python-packaging)
-- [How the Unchecked Power of Companies Is Destabilizing Governance](https://hai.stanford.edu/news/tech-coup-new-book-shows-how-unchecked-power-companies-destabilizing-governance)
-- [Simone Giertz talks about invention](https://spectrum.ieee.org/simone-giertz)
-- [How DRAM changed the world](https://www.micron.com/about/blog/memory/dram/how-dram-changed-the-world)
-- [Captive Portal IPv6 Support](https://github.com/abdulkader-alrezej/ipv6spot)
-- [Show HN: I made a tool for curating and sharing links as lists](https://snack.xyz/)
+- [NetGuard – rootless Android outbound per-app OSS firewall, like LittleSnitch](https://netguard.me/)
+- [Ground beef stimulates more protein synthesis than soy based meat](https://www.sciencedirect.com/science/article/pii/S0002916524007275)
+- [After 16 years of development, Postbox Inc. is winding down its operations](https://support.postbox-inc.com/hc/en-us/articles/26988085310103-Postbox-has-been-acquired-by-eM-Client)
+- [Show HN: Wall-mounted diffusion mirror that turns reflections into paintings](https://www.matthieulc.com/posts/pablonet/)
+- [It has been [33] days since the last Hubris kernel bug](https://hubris.oxide.computer/bugs/)
+- [Everything I built with Claude Artifacts this week](https://simonwillison.net/2024/Oct/21/claude-artifacts/)
+- [Playstation Vita Architecture &lpar;Part 1&rpar;](https://www.copetti.org/writings/consoles/playstation-vita/)
+- [Show HN: Open-source low-code email editor](https://github.com/dittofeed/dittofeed/tree/main/packages/emailo)
+- [Goldman and Apple &#39;illegally sidestepped&#39; obligations to credit-card customers](https://finance.yahoo.com/news/goldman-and-apple-illegally-sidestepped-obligations-to-credit-card-customers-cfpb-161226158.html)
+- [Show HN: Agent.exe, a cross-platform app to let 3.5 Sonnet control your machine](https://github.com/corbt/agent.exe)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

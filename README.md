@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: No need to manually reproduce bugs – do it in one click with Playwright](https://trybeagle.xyz/)
-- [Arm Holdings to cancel Qualcomm chip design license](https://www.reuters.com/technology/arm-holdings-cancel-qualcomm-chip-design-license-bloomberg-news-reports-2024-10-23/)
-- [Ask HN: What do you use ChatGPT / Claude for?](https://news.ycombinator.com/item?id=41931352)
-- [Boeing machinists reject latest contract](https://www.wsj.com/business/airlines/boeing-machinists-reject-latest-contract-9036e136)
-- [Telecoms, home security firms, &amp; advertisers sue the FTC to stop click to cancel](https://www.theverge.com/2024/10/23/24278020/ftc-click-to-cancel-subscriptions-rule-lawsuit-telecoms-security-advertising-groups)
-- [Mochi 1 text to video mochi AI video online tools](https://mochi1.online/)
-- [NEW AI app, ReelFarm: 1-click automate entire YouTube channels](https://reel.farm)
-- [Disrupted Human–Dog Interbrain Neural Coupling in Autism-Associated Mutant Dogs](https://onlinelibrary.wiley.com/doi/10.1002/advs.202402493)
-- [How to rapidly assimilate new information](https://dhruvmethi.substack.com/p/how-to-rapidly-assimilate-new-information)
-- [Detailed Maps of Water in and Around Landmasses](https://www.earthdata.nasa.gov/news/new-product-provides-detailed-maps-water-around-landmasses)
+- [Improving the Django Developer Experience](https://epicserve.com/django/2024/10/24/improving-the-new-django-developer-experience.html)
+- [Cats keep track of their owner&#39;s movements](https://www.theguardian.com/lifeandstyle/2021/nov/10/cats-track-their-owners-movements-research-finds)
+- [The New Economy: What Should We Do with Everyone?](https://www.neelsomani.com/blog/the-new-economy.php)
+- [Linus on Russian Maintainers of the Kernel](https://news.ycombinator.com/item?id=41941717)
+- [Mars Mystery Solved? MIT May Have Found Its Lost Atmosphere](https://allthathistory.com/archaeology-discoveries/mars-atmosphere/1809/)
+- [The Brittle Lesson: Claude and Computer Use](https://anjneymidha.com/the-brittle-lesson)
+- [Bridging the CUDA C++ Ecosystem and Python Developers with Numbast](https://developer.nvidia.com/blog/bridging-the-cuda-c-ecosystem-and-python-developers-with-numbast/)
+- [Japanese Learning](https://www.renshuu.org/)
+- [Memorandum on Advancing the United States&#39; Leadership in Artificial Intelligence](https://www.whitehouse.gov/briefing-room/presidential-actions/2024/10/24/memorandum-on-advancing-the-united-states-leadership-in-artificial-intelligence-harnessing-artificial-intelligence-to-fulfill-national-security-objectives-and-fostering-the-safety-security/)
+- [SAM2Long: Sam 2 for Long Video Segmentation with a Training-Free Memory Tree](https://github.com/Mark12Ding/SAM2Long)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

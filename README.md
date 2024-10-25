@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Israeli assault on northern Gaza forces postponement of polio vaccination campaign](https://www.theguardian.com/world/2024/oct/24/israel-gaza-strikes-jabalia-polio-vaccine-campaign-postponed)
-- [Liam Payne: the heady rise and tragic death of a One Direction star – podcast](https://www.theguardian.com/news/audio/2024/oct/24/liam-payne-the-heady-rise-and-tragic-death-of-a-one-direction-star-podcast)
-- [Trump escalates insults against Harris as he faces scrutiny over alleged praise of Hitler](https://www.theguardian.com/us-news/2024/oct/23/trump-harris-insults-georgia-rally)
-- [China-linked bots targeting Republicans including Marco Rubio in run-up to election, Microsoft says](https://www.theguardian.com/us-news/2024/oct/24/taizi-flood-china-social-media-bots-marco-rubio-targeting-republicans)
-- [Ukraine war briefing: Brics summit backfired on Putin with calls for peace, says Kyiv](https://www.theguardian.com/world/2024/oct/24/ukraine-war-briefing-brics-summit-backfired-on-putin-with-calls-for-peace-says-kyiv)
-- [Liam Payne’s girlfriend Kate Cassidy says they had planned to marry before singer’s death](https://www.theguardian.com/music/2024/oct/24/liam-payne-one-direction-girlfriend-kate-cassidy-marriage-plans)
-- [Trans children’s charity told to rewrite guidance on puberty blockers](https://www.theguardian.com/society/2024/oct/24/trans-childrens-charity-told-to-rewrite-guidance-on-puberty-blockers)
-- [Special educational needs bill in England hits record £10bn a year](https://www.theguardian.com/education/2024/oct/24/special-educational-needs-bill-england-10bn-school-council-funding)
-- [Reeves to announce major change to fiscal rules releasing £50bn for spending](https://www.theguardian.com/business/2024/oct/23/reeves-to-announce-major-change-to-fiscal-rules-releasing-50bn-for-spending)
-- [Donald Trump groped me in what felt like a ‘twisted game’ with Jeffrey Epstein, former model alleges](https://www.theguardian.com/us-news/2024/oct/23/donald-trump-accuser-stacey-williams-jeffrey-epstein)
+- [King Charles acknowledges ‘painful’ past as calls for slavery reparations grow at Commonwealth summit](https://www.theguardian.com/uk-news/2024/oct/25/king-charles-samoa-visit-speech-commonwealth-summit)
+- [Undercover inside a ‘scientific racism’ network – podcast](https://www.theguardian.com/news/audio/2024/oct/25/undercover-inside-a-scientific-racism-network-podcast)
+- [US warns against ‘protracted’ campaign in Lebanon as Israel strikes Beirut](https://www.theguardian.com/world/2024/oct/25/israel-lebanon-strikes-beirut-us-ceasefire)
+- [Roberto Mancini walks away from Saudi Arabia after 14 months as coach](https://www.theguardian.com/football/2024/oct/25/roberto-mancini-saudi-arabia-coach-exit)
+- [Ukraine war briefing: Navalny widow blasts UN chief Guterres for meeting ‘murderer’ Putin](https://www.theguardian.com/world/2024/oct/25/ukraine-war-briefing-navalny-widow-blasts-un-chief-guterres-for-meeting-murderer-putin)
+- [No 10 blocking outdoor smoking ban amid hospitality opposition](https://www.theguardian.com/society/2024/oct/24/move-to-ban-smoking-in-uk-pub-gardens-blocked-amid-hospitality-opposition)
+- [City firms rarely dock pay for misconduct, FCA survey finds](https://www.theguardian.com/business/2024/oct/25/city-firms-rarely-dock-pay-misconduct-fca-survey)
+- [Dean Forbes tops 2025 Powerlist as UK’s most influential black person](https://www.theguardian.com/culture/2024/oct/25/dean-forbes-tops-2025-powerlist-uk-most-influential-black-person)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2024/oct/25/premier-league-10-things-to-look-out-for-this-weekend)
+- [Keir Starmer hints at tax rises on people with income from assets](https://www.theguardian.com/uk-news/2024/oct/24/keir-starmer-hints-at-tax-rises-on-people-with-income-from-assets)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

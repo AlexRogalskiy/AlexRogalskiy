@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [NetGuard – rootless Android outbound per-app OSS firewall, like LittleSnitch](https://netguard.me/)
-- [Ground beef stimulates more protein synthesis than soy based meat](https://www.sciencedirect.com/science/article/pii/S0002916524007275)
-- [After 16 years of development, Postbox Inc. is winding down its operations](https://support.postbox-inc.com/hc/en-us/articles/26988085310103-Postbox-has-been-acquired-by-eM-Client)
-- [Show HN: Wall-mounted diffusion mirror that turns reflections into paintings](https://www.matthieulc.com/posts/pablonet/)
-- [It has been [33] days since the last Hubris kernel bug](https://hubris.oxide.computer/bugs/)
-- [Everything I built with Claude Artifacts this week](https://simonwillison.net/2024/Oct/21/claude-artifacts/)
-- [Playstation Vita Architecture &lpar;Part 1&rpar;](https://www.copetti.org/writings/consoles/playstation-vita/)
-- [Show HN: Open-source low-code email editor](https://github.com/dittofeed/dittofeed/tree/main/packages/emailo)
-- [Goldman and Apple &#39;illegally sidestepped&#39; obligations to credit-card customers](https://finance.yahoo.com/news/goldman-and-apple-illegally-sidestepped-obligations-to-credit-card-customers-cfpb-161226158.html)
-- [Show HN: Agent.exe, a cross-platform app to let 3.5 Sonnet control your machine](https://github.com/corbt/agent.exe)
+- [OpenFeature – a vendor-agnostic, community-driven API for feature flagging](https://github.com/open-feature)
+- [Rsbuild – A Better Vite?](https://rsbuild.dev/)
+- [Show HN: Rust based AWS Lambda Logs Viewer &lpar;TUI&rpar;](https://github.com/resola-ai/rust-aws-tui)
+- [U.S. Consumer Watchdog Cautions Businesses on Surveillance of Workers](https://www.wsj.com/articles/u-s-consumer-watchdog-cautions-businesses-on-surveillance-of-workers-8262bee3)
+- [Show HN: Pneumatic – free open-source workflow software](https://github.com/pneumaticapp/pneumaticworkflow)
+- [Bitwarden SDK relicensed from proprietary to GPLv3](https://github.com/bitwarden/sdk-internal/commit/db648d7ea85878e9cce03283694d01d878481f6b)
+- [ST Book, the Notebook Atari ST – By Paul Lefebvre](https://www.goto10retro.com/p/st-book-the-notebook-atari-st)
+- [Why Safety Profiles Failed](https://www.circle-lang.org/draft-profiles.html)
+- [Working with Igalia to Improve RISC-V LLVM Continuous Integration](https://riseproject.dev/2024/10/15/working-with-igalia-to-improve-risc-v-llvm-continuous-integration/)
+- [Viva Labs &lpar;YC W22&rpar; is hiring a video/image AI research lead](https://www.ycombinator.com/companies/viva-labs/jobs/RwBJyRn-video-image-ai-research-lead)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

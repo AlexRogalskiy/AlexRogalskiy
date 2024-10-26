@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Improving the Django Developer Experience](https://epicserve.com/django/2024/10/24/improving-the-new-django-developer-experience.html)
-- [Cats keep track of their owner&#39;s movements](https://www.theguardian.com/lifeandstyle/2021/nov/10/cats-track-their-owners-movements-research-finds)
-- [The New Economy: What Should We Do with Everyone?](https://www.neelsomani.com/blog/the-new-economy.php)
-- [Linus on Russian Maintainers of the Kernel](https://news.ycombinator.com/item?id=41941717)
-- [Mars Mystery Solved? MIT May Have Found Its Lost Atmosphere](https://allthathistory.com/archaeology-discoveries/mars-atmosphere/1809/)
-- [The Brittle Lesson: Claude and Computer Use](https://anjneymidha.com/the-brittle-lesson)
-- [Bridging the CUDA C++ Ecosystem and Python Developers with Numbast](https://developer.nvidia.com/blog/bridging-the-cuda-c-ecosystem-and-python-developers-with-numbast/)
-- [Japanese Learning](https://www.renshuu.org/)
-- [Memorandum on Advancing the United States&#39; Leadership in Artificial Intelligence](https://www.whitehouse.gov/briefing-room/presidential-actions/2024/10/24/memorandum-on-advancing-the-united-states-leadership-in-artificial-intelligence-harnessing-artificial-intelligence-to-fulfill-national-security-objectives-and-fostering-the-safety-security/)
-- [SAM2Long: Sam 2 for Long Video Segmentation with a Training-Free Memory Tree](https://github.com/Mark12Ding/SAM2Long)
+- [Collapse of key Atlantic current could have catastrophic impacts](https://www.livescience.com/planet-earth/rivers-oceans/we-dont-really-consider-it-low-probability-anymore-collapse-of-key-atlantic-current-could-have-catastrophic-impacts-says-oceanographer-stefan-rahmstorf)
+- [Approximately 1 in 7 Scientific Papers Are Fake](https://osf.io/s4gce/)
+- [Osma Ahvenlampi on Habbo Hotel &lpar;2010&rpar;](http://tinysubversions.com/index.html)
+- [Wikipedia&#39;s Pro-Hamas Editors Hijacked the Israel-Palestine Narrative](https://www.piratewires.com/p/how-wikipedia-s-pro-hamas-editors-hijacked-the-israel-palestine-narrative)
+- [Adventures in Algorithmic Trading on the Runescape Grand Exchange](https://tristanrhodes.com/blog/Adventures-in-Algorithmic-Trading-on-the-Runescape-Grand-Exchange)
+- [Advancing Performance with Nvidia Sharp In-Network Computing](https://developer.nvidia.com/blog/advancing-performance-with-nvidia-sharp-in-network-computing/)
+- [Cqwrteur&#39;s fork of Linux kernel, rename it to Cinux](https://github.com/Cqinux/cinux)
+- [WebAssembly components: the next wave of cloud native computing](https://www.cncf.io/blog/2024/07/09/webassembly-components-the-next-wave-of-cloud-native-computing/)
+- [AMZ Downloader – simple tool to download Amazon product images and products](https://amzdownloader.com)
+- [Gauge Block](https://en.wikipedia.org/wiki/Gauge_block)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [OpenFeature – a vendor-agnostic, community-driven API for feature flagging](https://github.com/open-feature)
-- [Rsbuild – A Better Vite?](https://rsbuild.dev/)
-- [Show HN: Rust based AWS Lambda Logs Viewer &lpar;TUI&rpar;](https://github.com/resola-ai/rust-aws-tui)
-- [U.S. Consumer Watchdog Cautions Businesses on Surveillance of Workers](https://www.wsj.com/articles/u-s-consumer-watchdog-cautions-businesses-on-surveillance-of-workers-8262bee3)
-- [Show HN: Pneumatic – free open-source workflow software](https://github.com/pneumaticapp/pneumaticworkflow)
-- [Bitwarden SDK relicensed from proprietary to GPLv3](https://github.com/bitwarden/sdk-internal/commit/db648d7ea85878e9cce03283694d01d878481f6b)
-- [ST Book, the Notebook Atari ST – By Paul Lefebvre](https://www.goto10retro.com/p/st-book-the-notebook-atari-st)
-- [Why Safety Profiles Failed](https://www.circle-lang.org/draft-profiles.html)
-- [Working with Igalia to Improve RISC-V LLVM Continuous Integration](https://riseproject.dev/2024/10/15/working-with-igalia-to-improve-risc-v-llvm-continuous-integration/)
-- [Viva Labs &lpar;YC W22&rpar; is hiring a video/image AI research lead](https://www.ycombinator.com/companies/viva-labs/jobs/RwBJyRn-video-image-ai-research-lead)
+- [Adventures in Algorithmic Trading on the Runescape Grand Exchange](https://tristanrhodes.com/blog/Adventures-in-Algorithmic-Trading-on-the-Runescape-Grand-Exchange)
+- [MrBeast&#39;s Faux Philanthropy](https://unherd.com/2024/10/mrbeasts-faux-philanthropy/)
+- [Russia amplified hurricane disinformation to drive Americans apart](https://abc7chicago.com/post/russia-amplified-hurricane-disinformation-drive-americans-apart-researchers-find/15463309/)
+- [OSI readies controversial open-source AI definition](https://lwn.net/SubscriberLink/995159/a37fb9817a00ebcb/)
+- [We Can Terraform the American West](https://caseyhandmer.wordpress.com/2024/10/26/we-can-terraform-the-american-west/)
+- [How can this 6 axis robot have a static accuracy of 0.05 mm? &lpar;2021&rpar; [video]](https://www.youtube.com/watch?v=SioCwvR_PYY)
+- [Before you buy a domain name, first check to see if it&#39;s haunted](https://www.bryanbraun.com/2024/10/25/before-you-buy-a-domain-name-first-check-to-see-if-its-haunted/)
+- [Redact-a-Chat](https://redact-a-chat.com/#/)
+- [Wikipedia article blocked worldwide by Delhi high court](https://en.wikipedia.org/wiki/Asian_News_International_vs._Wikimedia_Foundation)
+- [Jeff Bezos killed Washington Post endorsement of Kamala Harris](https://www.cnbc.com/2024/10/25/jeff-bezos-killed-washington-post-endorsement-of-kamala-harris-.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

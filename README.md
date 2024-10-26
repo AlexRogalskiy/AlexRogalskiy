@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [King Charles acknowledges ‘painful’ past as calls for slavery reparations grow at Commonwealth summit](https://www.theguardian.com/uk-news/2024/oct/25/king-charles-samoa-visit-speech-commonwealth-summit)
-- [Undercover inside a ‘scientific racism’ network – podcast](https://www.theguardian.com/news/audio/2024/oct/25/undercover-inside-a-scientific-racism-network-podcast)
-- [US warns against ‘protracted’ campaign in Lebanon as Israel strikes Beirut](https://www.theguardian.com/world/2024/oct/25/israel-lebanon-strikes-beirut-us-ceasefire)
-- [Roberto Mancini walks away from Saudi Arabia after 14 months as coach](https://www.theguardian.com/football/2024/oct/25/roberto-mancini-saudi-arabia-coach-exit)
-- [Ukraine war briefing: Navalny widow blasts UN chief Guterres for meeting ‘murderer’ Putin](https://www.theguardian.com/world/2024/oct/25/ukraine-war-briefing-navalny-widow-blasts-un-chief-guterres-for-meeting-murderer-putin)
-- [No 10 blocking outdoor smoking ban amid hospitality opposition](https://www.theguardian.com/society/2024/oct/24/move-to-ban-smoking-in-uk-pub-gardens-blocked-amid-hospitality-opposition)
-- [City firms rarely dock pay for misconduct, FCA survey finds](https://www.theguardian.com/business/2024/oct/25/city-firms-rarely-dock-pay-misconduct-fca-survey)
-- [Dean Forbes tops 2025 Powerlist as UK’s most influential black person](https://www.theguardian.com/culture/2024/oct/25/dean-forbes-tops-2025-powerlist-uk-most-influential-black-person)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2024/oct/25/premier-league-10-things-to-look-out-for-this-weekend)
-- [Keir Starmer hints at tax rises on people with income from assets](https://www.theguardian.com/uk-news/2024/oct/24/keir-starmer-hints-at-tax-rises-on-people-with-income-from-assets)
+- [Beyoncé at Kamala Harris rally says ‘time for America to sing a new song’ – US politics live](https://www.theguardian.com/us-news/live/2024/oct/25/kamala-harris-donald-trump-us-election-politics-barack-obama)
+- [New York Yankees v Los Angeles Dodgers: World Series Game 1 – live](https://www.theguardian.com/sport/live/2024/oct/25/new-york-yankees-v-los-angeles-dodgers-world-series-game-1-live)
+- [Middle East crisis live: Israeli military says it is carrying out strikes on military targets in Iran](https://www.theguardian.com/world/live/2024/oct/25/israel-lebanon-gaza-hamas-hezbollah-middle-east-latest)
+- [Ukraine war briefing: Russia plans to send North Korean troops into battle as early as Sunday, Zelenskiyy says](https://www.theguardian.com/world/2024/oct/26/ukraine-war-briefing-russia-plans-to-send-north-korean-troops-into-battle-as-early-as-sunday-zelenskiyy-says)
+- [China building ‘counter-stealth’ radar on disputed South China Sea reef, satellite pictures suggest](https://www.theguardian.com/world/2024/oct/26/china-building-counter-stealth-radar-on-disputed-south-china-sea-reef-satellite-pictures-suggest)
+- [‘It’s going to be tight’: Tim Walz rallies Pennsylvanians for final stretch in Biden’s home town](https://www.theguardian.com/us-news/2024/oct/25/tim-walz-scranton-rally)
+- [More than 1m households to get £420 budget boost in universal credit change](https://www.theguardian.com/society/2024/oct/26/more-than-1m-households-to-get-420-budget-boost-in-universal-credit-change)
+- [UK to increase military presence in Indo-Pacific to counter China](https://www.theguardian.com/politics/2024/oct/26/uk-increase-military-presence-indo-pacific-counter-china)
+- [John Keats statue to be unveiled near his birthplace in London’s Moorgate](https://www.theguardian.com/books/2024/oct/26/john-keats-statue-bronze-martin-jennings-moorgate-london)
+- [Venezuelan opposition says detained activist has been murdered](https://www.theguardian.com/world/2024/oct/25/venezuelan-opposition-says-detained-activist-has-been-murdered)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

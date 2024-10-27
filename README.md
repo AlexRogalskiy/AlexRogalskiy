@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Adventures in Algorithmic Trading on the Runescape Grand Exchange](https://tristanrhodes.com/blog/Adventures-in-Algorithmic-Trading-on-the-Runescape-Grand-Exchange)
-- [MrBeast&#39;s Faux Philanthropy](https://unherd.com/2024/10/mrbeasts-faux-philanthropy/)
-- [Russia amplified hurricane disinformation to drive Americans apart](https://abc7chicago.com/post/russia-amplified-hurricane-disinformation-drive-americans-apart-researchers-find/15463309/)
-- [OSI readies controversial open-source AI definition](https://lwn.net/SubscriberLink/995159/a37fb9817a00ebcb/)
-- [We Can Terraform the American West](https://caseyhandmer.wordpress.com/2024/10/26/we-can-terraform-the-american-west/)
-- [How can this 6 axis robot have a static accuracy of 0.05 mm? &lpar;2021&rpar; [video]](https://www.youtube.com/watch?v=SioCwvR_PYY)
-- [Before you buy a domain name, first check to see if it&#39;s haunted](https://www.bryanbraun.com/2024/10/25/before-you-buy-a-domain-name-first-check-to-see-if-its-haunted/)
-- [Redact-a-Chat](https://redact-a-chat.com/#/)
-- [Wikipedia article blocked worldwide by Delhi high court](https://en.wikipedia.org/wiki/Asian_News_International_vs._Wikimedia_Foundation)
-- [Jeff Bezos killed Washington Post endorsement of Kamala Harris](https://www.cnbc.com/2024/10/25/jeff-bezos-killed-washington-post-endorsement-of-kamala-harris-.html)
+- [I discovered mysterious hidden signals on a public radio channel &lpar;2013&rpar; [video]](https://media.ccc.de/v/30C3_-_5588_-_en_-_saal_g_-_201312281600_-_my_journey_into_fm-rds_-_oona_raisanen)
+- [The weak science behind psychedelics](https://www.theatlantic.com/ideas/archive/2024/10/psychedelics-medicine-science/680286/)
+- [Building a more robust Wikipedia interface by spotting the differences &lpar;2023&rpar;](https://www.nray.dev/blog/visual-testing-building-a-more-robust-wikipedia-interface-by-spotting-the-differences/)
+- [ZombAIs: From Prompt Injection to C2 with Claude Computer Use](https://embracethered.com/blog/posts/2024/claude-computer-use-c2-the-zombais-are-coming/)
+- [Canvas Fingerprinting](https://browserleaks.com/canvas)
+- [ADHD and managing your professional reputation](https://www.optimaloutliers.com/p/adhd-and-managing-your-reputation)
+- [Carma &lpar;YC W24&rpar; hiring founding SWEs &lpar;remote&rpar; to build the next Uber for auto repair](https://news.ycombinator.com/item?id=41957685)
+- [Long wave radio fans mourn fading frequencies &lpar;2023&rpar;](https://www.bbc.com/news/business-66644709)
+- [Olivetti’s Ivrea](https://medium.com/@danielstone/olivettis-ivrea-how-an-italian-tech-giant-built-the-world-s-most-progressive-company-town-557cb035c383)
+- [Fundamentals of Radiance Cascades](https://m4xc.dev/articles/fundamental-rc/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

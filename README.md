@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Collapse of key Atlantic current could have catastrophic impacts](https://www.livescience.com/planet-earth/rivers-oceans/we-dont-really-consider-it-low-probability-anymore-collapse-of-key-atlantic-current-could-have-catastrophic-impacts-says-oceanographer-stefan-rahmstorf)
-- [Approximately 1 in 7 Scientific Papers Are Fake](https://osf.io/s4gce/)
-- [Osma Ahvenlampi on Habbo Hotel &lpar;2010&rpar;](http://tinysubversions.com/index.html)
-- [Wikipedia&#39;s Pro-Hamas Editors Hijacked the Israel-Palestine Narrative](https://www.piratewires.com/p/how-wikipedia-s-pro-hamas-editors-hijacked-the-israel-palestine-narrative)
-- [Adventures in Algorithmic Trading on the Runescape Grand Exchange](https://tristanrhodes.com/blog/Adventures-in-Algorithmic-Trading-on-the-Runescape-Grand-Exchange)
-- [Advancing Performance with Nvidia Sharp In-Network Computing](https://developer.nvidia.com/blog/advancing-performance-with-nvidia-sharp-in-network-computing/)
-- [Cqwrteur&#39;s fork of Linux kernel, rename it to Cinux](https://github.com/Cqinux/cinux)
-- [WebAssembly components: the next wave of cloud native computing](https://www.cncf.io/blog/2024/07/09/webassembly-components-the-next-wave-of-cloud-native-computing/)
-- [AMZ Downloader – simple tool to download Amazon product images and products](https://amzdownloader.com)
-- [Gauge Block](https://en.wikipedia.org/wiki/Gauge_block)
+- [Room-Temperature Superconductivity Heats Up](https://cacm.acm.org/news/room-temperature-superconductivity-heats-up/)
+- [Shrunked JavaScript monorepo Git size by 94%](https://www.jonathancreamer.com/how-we-shrunk-our-git-repo-size-by-94-percent/)
+- [Plastics Are Good for the Environment](https://cei.org/studies/how-plastics-benefit-wildlife-and-the-environment/)
+- [Guile Hoot v0.5.0 Released](https://www.spritely.institute/news/guile-hoot-v050-released.html)
+- [Stability, the Cost of Intel&#39;s Time to Market Approach [video]](https://chipsandcheese.com/p/stability-the-cost-of-intels-time)
+- [A16 Technology](https://www.tsmc.com/english/dedicatedFoundry/technology/logic/l_A16)
+- [Half of Retirees Will Run Out of Money. That&#39;s the Good News](https://www.forbes.com/sites/andrewbiggs/2024/08/12/half-of-retirees-will-run-out-of-money-thats-the-good-news/)
+- [A Population Expert Deciphers South Korea&#39;s Plummeting Birth Rate](https://thediplomat.com/2024/09/a-population-expert-deciphers-south-koreas-plummeting-birth-rate/)
+- [The AI bubble is looking worse than the dot-com bubble. Here&#39;s why](https://www.marketwatch.com/story/the-ai-bubble-is-looking-worse-than-the-dot-com-bubble-heres-why-f688e11d)
+- [What&#39;s the Singular Form of Cattle?](https://motivatedgrammar.wordpress.com/2010/07/13/whats-the-singular-form-of-cattle/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

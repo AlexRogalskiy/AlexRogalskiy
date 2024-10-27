@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Beyoncé at Kamala Harris rally says ‘time for America to sing a new song’ – US politics live](https://www.theguardian.com/us-news/live/2024/oct/25/kamala-harris-donald-trump-us-election-politics-barack-obama)
-- [New York Yankees v Los Angeles Dodgers: World Series Game 1 – live](https://www.theguardian.com/sport/live/2024/oct/25/new-york-yankees-v-los-angeles-dodgers-world-series-game-1-live)
-- [Middle East crisis live: Israeli military says it is carrying out strikes on military targets in Iran](https://www.theguardian.com/world/live/2024/oct/25/israel-lebanon-gaza-hamas-hezbollah-middle-east-latest)
-- [Ukraine war briefing: Russia plans to send North Korean troops into battle as early as Sunday, Zelenskiyy says](https://www.theguardian.com/world/2024/oct/26/ukraine-war-briefing-russia-plans-to-send-north-korean-troops-into-battle-as-early-as-sunday-zelenskiyy-says)
-- [China building ‘counter-stealth’ radar on disputed South China Sea reef, satellite pictures suggest](https://www.theguardian.com/world/2024/oct/26/china-building-counter-stealth-radar-on-disputed-south-china-sea-reef-satellite-pictures-suggest)
-- [‘It’s going to be tight’: Tim Walz rallies Pennsylvanians for final stretch in Biden’s home town](https://www.theguardian.com/us-news/2024/oct/25/tim-walz-scranton-rally)
-- [More than 1m households to get £420 budget boost in universal credit change](https://www.theguardian.com/society/2024/oct/26/more-than-1m-households-to-get-420-budget-boost-in-universal-credit-change)
-- [UK to increase military presence in Indo-Pacific to counter China](https://www.theguardian.com/politics/2024/oct/26/uk-increase-military-presence-indo-pacific-counter-china)
-- [John Keats statue to be unveiled near his birthplace in London’s Moorgate](https://www.theguardian.com/books/2024/oct/26/john-keats-statue-bronze-martin-jennings-moorgate-london)
-- [Venezuelan opposition says detained activist has been murdered](https://www.theguardian.com/world/2024/oct/25/venezuelan-opposition-says-detained-activist-has-been-murdered)
+- [Michelle Obama blasts Trump for ‘gross incompetence’ at Harris’s Michigan rally](https://www.theguardian.com/us-news/2024/oct/26/michelle-obama-kamala-harris-michigan-rally)
+- [Prince William: ‘I’ll show people how to prevent homelessness’](https://www.theguardian.com/uk-news/2024/oct/27/prince-william-ill-show-people-how-to-prevent-homelessness)
+- [Jack Catterall beats Regis Prograis on points to move closer to title showdown](https://www.theguardian.com/sport/2024/oct/27/jack-catterall-beats-regis-prograis-on-points-to-move-closer-to-title-showdown)
+- [Sainz takes pole at Mexico Grand Prix as Verstappen gets the jump on Norris](https://www.theguardian.com/sport/2024/oct/26/sainz-takes-pole-at-mexico-grand-prix-as-verstappen-gets-the-jump-on-norris)
+- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2024/oct/26/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [King Charles to resume regular overseas trips in 2025 after cancer hiatus](https://www.theguardian.com/uk-news/2024/oct/26/king-charles-to-resume-regular-overseas-trips-in-2025-after-cancer-hiatus)
+- [Linguist calls for London’s endangered language communities to be mapped](https://www.theguardian.com/science/2024/oct/26/londons-endangered-language-communities-to-be-mapped-in-new-project)
+- [Japan’s new PM in precarious position as country votes in tight election](https://www.theguardian.com/world/2024/oct/26/japans-new-prime-minister-faces-tight-election)
+- [The last boundary of body shaming and the stories none of us want to tell](https://www.theguardian.com/lifeandstyle/2024/oct/27/the-last-boundary-of-body-shaming-and-the-stories-none-of-us-want-to-tell)
+- [G7 vows to clamp down on Russia’s oil sanctions evasion](https://www.theguardian.com/world/2024/oct/26/g7-vows-to-clamp-down-on-russias-oil-sanctions-evasion)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Michelle Obama blasts Trump for ‘gross incompetence’ at Harris’s Michigan rally](https://www.theguardian.com/us-news/2024/oct/26/michelle-obama-kamala-harris-michigan-rally)
-- [Prince William: ‘I’ll show people how to prevent homelessness’](https://www.theguardian.com/uk-news/2024/oct/27/prince-william-ill-show-people-how-to-prevent-homelessness)
-- [Jack Catterall beats Regis Prograis on points to move closer to title showdown](https://www.theguardian.com/sport/2024/oct/27/jack-catterall-beats-regis-prograis-on-points-to-move-closer-to-title-showdown)
-- [Sainz takes pole at Mexico Grand Prix as Verstappen gets the jump on Norris](https://www.theguardian.com/sport/2024/oct/26/sainz-takes-pole-at-mexico-grand-prix-as-verstappen-gets-the-jump-on-norris)
-- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2024/oct/26/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [King Charles to resume regular overseas trips in 2025 after cancer hiatus](https://www.theguardian.com/uk-news/2024/oct/26/king-charles-to-resume-regular-overseas-trips-in-2025-after-cancer-hiatus)
-- [Linguist calls for London’s endangered language communities to be mapped](https://www.theguardian.com/science/2024/oct/26/londons-endangered-language-communities-to-be-mapped-in-new-project)
-- [Japan’s new PM in precarious position as country votes in tight election](https://www.theguardian.com/world/2024/oct/26/japans-new-prime-minister-faces-tight-election)
-- [The last boundary of body shaming and the stories none of us want to tell](https://www.theguardian.com/lifeandstyle/2024/oct/27/the-last-boundary-of-body-shaming-and-the-stories-none-of-us-want-to-tell)
-- [G7 vows to clamp down on Russia’s oil sanctions evasion](https://www.theguardian.com/world/2024/oct/26/g7-vows-to-clamp-down-on-russias-oil-sanctions-evasion)
+- [Trump fills Madison Square Garden with anger, vitriol and racist threats](https://www.theguardian.com/us-news/2024/oct/27/trump-madison-square-garden-rally)
+- [Longdogs, lowriders and creative weiners: Dachshtober Longdog Festival – in pictures](https://www.theguardian.com/artanddesign/gallery/2024/oct/28/longdogs-lowriders-weiners-dachshtober-longdog-festival-gallery)
+- [Ukraine war briefing: Russian forces thwart another attempted cross-border incursion, official says](https://www.theguardian.com/world/2024/oct/28/ukraine-war-briefing-russian-forces-thwart-another-attempted-cross-border-incursion-official-says)
+- [Carbon emissions of richest 1% increase hunger, poverty and deaths, says Oxfam](https://www.theguardian.com/environment/2024/oct/28/carbon-emissions-of-richest-1-increase-hunger-poverty-and-deaths-says-oxfam)
+- [Researchers study treatment for chronic pain in childhood cancer survivors](https://www.theguardian.com/society/2024/oct/28/research-chronic-pain-childhood-cancer-nerve-cells-chemotherapy)
+- [London’s Aim shrinks to smallest since 2001 amid fears of tax relief changes](https://www.theguardian.com/business/2024/oct/28/london-aim-delistings-budget-inheritance-tax-relief)
+- [Keir Starmer vows to ‘embrace harsh light of fiscal reality’ ahead of budget](https://www.theguardian.com/politics/2024/oct/27/keir-starmer-budget-speech-harsh-light-of-fiscal-reality)
+- [Wallace &amp; Gromit: Vengeance Most Fowl review – first they came for the trousers. Then they came for the robot gnome](https://www.theguardian.com/film/2024/oct/27/wallace-and-gromit-vengeance-most-fowl-review)
+- [Harris campaigns in Philadelphia with promise to win presidential election](https://www.theguardian.com/us-news/2024/oct/27/kamala-harris-pennsylvania-philly-rally)
+- [John Farnham opens up about his ‘abusive’ and ‘sexually aggressive’ first manager](https://www.theguardian.com/music/2024/oct/28/john-farnham-opens-up-about-his-abusive-and-sexually-aggressive-first-manager)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

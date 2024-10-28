@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Room-Temperature Superconductivity Heats Up](https://cacm.acm.org/news/room-temperature-superconductivity-heats-up/)
-- [Shrunked JavaScript monorepo Git size by 94%](https://www.jonathancreamer.com/how-we-shrunk-our-git-repo-size-by-94-percent/)
-- [Plastics Are Good for the Environment](https://cei.org/studies/how-plastics-benefit-wildlife-and-the-environment/)
-- [Guile Hoot v0.5.0 Released](https://www.spritely.institute/news/guile-hoot-v050-released.html)
-- [Stability, the Cost of Intel&#39;s Time to Market Approach [video]](https://chipsandcheese.com/p/stability-the-cost-of-intels-time)
-- [A16 Technology](https://www.tsmc.com/english/dedicatedFoundry/technology/logic/l_A16)
-- [Half of Retirees Will Run Out of Money. That&#39;s the Good News](https://www.forbes.com/sites/andrewbiggs/2024/08/12/half-of-retirees-will-run-out-of-money-thats-the-good-news/)
-- [A Population Expert Deciphers South Korea&#39;s Plummeting Birth Rate](https://thediplomat.com/2024/09/a-population-expert-deciphers-south-koreas-plummeting-birth-rate/)
-- [The AI bubble is looking worse than the dot-com bubble. Here&#39;s why](https://www.marketwatch.com/story/the-ai-bubble-is-looking-worse-than-the-dot-com-bubble-heres-why-f688e11d)
-- [What&#39;s the Singular Form of Cattle?](https://motivatedgrammar.wordpress.com/2010/07/13/whats-the-singular-form-of-cattle/)
+- [Simplifying, stabilizing, and scaling continuous-time consistency models](https://openai.com/index/simplifying-stabilizing-and-scaling-continuous-time-consistency-models/)
+- [Ask HN: How to get players for a multiplayer game?](https://news.ycombinator.com/item?id=41967388)
+- [Biden administration announces $3B for rural electric co-ops](https://thehill.com/policy/energy-environment/4954170-biden-administration-funding-rural-electric/)
+- [Reuters exposé of hack-for-hire world is back online after Indian court ruling](https://www.reuters.com/world/india/reuters-expos-hack-for-hire-world-is-back-online-after-indian-court-ruling-2024-10-26/)
+- [How a Mumbai Drugmaker Is Helping Putin Get Nvidia AI Chips](https://www.bloomberg.com/news/features/2024-10-27/russia-is-getting-nvidia-ai-chips-from-an-indian-pharma-company)
+- [Japan&#39;s Jimi &#39;Mundane&#39; Halloween Costumes of 2024](https://www.spoon-tamago.com/jimi-mundane-halloween-2024/)
+- [KAG: A knowledge-enhanced generation framework](https://github.com/OpenSPG/KAG)
+- [Verilog – Hardware register based language for standardization](https://en.wikipedia.org/wiki/Verilog)
+- [The Influence of Japanese Archaeology on the Legend of Zelda: Breath of the Wild](https://jgeekstudies.org/2024/10/27/on-the-influence-of-japanese-archaeological-heritage-on-the-legend-of-zelda-breath-of-the-wild/)
+- [Delta sues CrowdStrike over software update that prompted mass flight disruption](https://www.cnn.com/2024/10/25/business/delta-sues-crowdstrike/index.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

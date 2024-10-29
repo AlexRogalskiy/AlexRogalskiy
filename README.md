@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Trump fills Madison Square Garden with anger, vitriol and racist threats](https://www.theguardian.com/us-news/2024/oct/27/trump-madison-square-garden-rally)
-- [Longdogs, lowriders and creative weiners: Dachshtober Longdog Festival – in pictures](https://www.theguardian.com/artanddesign/gallery/2024/oct/28/longdogs-lowriders-weiners-dachshtober-longdog-festival-gallery)
-- [Ukraine war briefing: Russian forces thwart another attempted cross-border incursion, official says](https://www.theguardian.com/world/2024/oct/28/ukraine-war-briefing-russian-forces-thwart-another-attempted-cross-border-incursion-official-says)
-- [Carbon emissions of richest 1% increase hunger, poverty and deaths, says Oxfam](https://www.theguardian.com/environment/2024/oct/28/carbon-emissions-of-richest-1-increase-hunger-poverty-and-deaths-says-oxfam)
-- [Researchers study treatment for chronic pain in childhood cancer survivors](https://www.theguardian.com/society/2024/oct/28/research-chronic-pain-childhood-cancer-nerve-cells-chemotherapy)
-- [London’s Aim shrinks to smallest since 2001 amid fears of tax relief changes](https://www.theguardian.com/business/2024/oct/28/london-aim-delistings-budget-inheritance-tax-relief)
-- [Keir Starmer vows to ‘embrace harsh light of fiscal reality’ ahead of budget](https://www.theguardian.com/politics/2024/oct/27/keir-starmer-budget-speech-harsh-light-of-fiscal-reality)
-- [Wallace &amp; Gromit: Vengeance Most Fowl review – first they came for the trousers. Then they came for the robot gnome](https://www.theguardian.com/film/2024/oct/27/wallace-and-gromit-vengeance-most-fowl-review)
-- [Harris campaigns in Philadelphia with promise to win presidential election](https://www.theguardian.com/us-news/2024/oct/27/kamala-harris-pennsylvania-philly-rally)
-- [John Farnham opens up about his ‘abusive’ and ‘sexually aggressive’ first manager](https://www.theguardian.com/music/2024/oct/28/john-farnham-opens-up-about-his-abusive-and-sexually-aggressive-first-manager)
+- [US election live: Obama says ‘you can count on Kamala’ at Philadelphia rally as Trump rails against immigrants in Georgia](https://www.theguardian.com/us-news/live/2024/oct/28/us-election-live-donald-trump-tony-hinchcliffe-puerto-rico-kamala-harris-obama-springsteen)
+- [Sean ‘Diddy’ Combs accused of sexually assaulting 10- and 17-year-old boys](https://www.theguardian.com/music/2024/oct/28/sean-diddy-combs-sexual-assault-teenage-boys-lawsuits)
+- [Paul Morrissey, cult filmmaker and Andy Warhol collaborator, dies at 86](https://www.theguardian.com/film/2024/oct/29/paul-morrissey-death-age-86-cause-of-death-pneumonia)
+- [Russia to deploy 10,000 North Korean troops against Ukraine within ‘weeks’, Pentagon says](https://www.theguardian.com/world/2024/oct/29/russia-north-korean-troops-ukraine-war)
+- [Ukraine war briefing: Bomb shatters historic landmark in Kharkiv](https://www.theguardian.com/world/2024/oct/29/ukraine-war-briefing-bomb-derzhprom-historic-landmark-kharkiv)
+- [Whales ‘relentlessly pestered’: tourism boom sparks new rules in French Polynesia](https://www.theguardian.com/environment/2024/oct/29/french-polynesia-whale-tours-changes-tourism)
+- [Lower shop prices boost prospect of Bank of England rate cut](https://www.theguardian.com/business/2024/oct/29/shop-prices-lower-bank-of-england-rate-cut-)
+- [Animals become less sociable as they age in similar way to humans, research shows](https://www.theguardian.com/science/2024/oct/29/animals-become-less-sociable-as-they-age-in-similar-way-to-humans-research-shows)
+- [Thousands of Georgians demonstrate against contested election results](https://www.theguardian.com/world/2024/oct/28/thousands-of-georgians-demonstrate-against-contested-election-results)
+- [Man dies in detention at immigration removal centre near Gatwick airport](https://www.theguardian.com/uk-news/2024/oct/28/man-dies-in-detention-at-immigration-removal-centre-near-gatwick-airport)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

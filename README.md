@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Simplifying, stabilizing, and scaling continuous-time consistency models](https://openai.com/index/simplifying-stabilizing-and-scaling-continuous-time-consistency-models/)
-- [Ask HN: How to get players for a multiplayer game?](https://news.ycombinator.com/item?id=41967388)
-- [Biden administration announces $3B for rural electric co-ops](https://thehill.com/policy/energy-environment/4954170-biden-administration-funding-rural-electric/)
-- [Reuters exposé of hack-for-hire world is back online after Indian court ruling](https://www.reuters.com/world/india/reuters-expos-hack-for-hire-world-is-back-online-after-indian-court-ruling-2024-10-26/)
-- [How a Mumbai Drugmaker Is Helping Putin Get Nvidia AI Chips](https://www.bloomberg.com/news/features/2024-10-27/russia-is-getting-nvidia-ai-chips-from-an-indian-pharma-company)
-- [Japan&#39;s Jimi &#39;Mundane&#39; Halloween Costumes of 2024](https://www.spoon-tamago.com/jimi-mundane-halloween-2024/)
-- [KAG: A knowledge-enhanced generation framework](https://github.com/OpenSPG/KAG)
-- [Verilog – Hardware register based language for standardization](https://en.wikipedia.org/wiki/Verilog)
-- [The Influence of Japanese Archaeology on the Legend of Zelda: Breath of the Wild](https://jgeekstudies.org/2024/10/27/on-the-influence-of-japanese-archaeological-heritage-on-the-legend-of-zelda-breath-of-the-wild/)
-- [Delta sues CrowdStrike over software update that prompted mass flight disruption](https://www.cnn.com/2024/10/25/business/delta-sues-crowdstrike/index.html)
+- [Greenland Is Gorgeous and Uncrowded. Now Here Come the Americans.](https://www.wsj.com/lifestyle/travel/greenland-flights-nonstop-united-nuuk-overtourism-62b8b8ee)
+- [Yes Hd](https://blog.cloudflare.com/birthday-week-2024-wrap-up/)
+- [The Open Source AI Definition – 1.0](https://opensource.org/ai/open-source-ai-definition)
+- [Calling Purgatory from Heaven: Binding to Rust in Haskell](https://well-typed.com/blog/2023/03/purgatory/)
+- [Show HN: My First Multiplayer Bombing Puzzle Game &lpar;React, ThreeJS and Sockets&rpar;](https://pixelbrawlgames.com/game/blast)
+- [I dare you to read this and still feel good about tipping](https://www.washingtonpost.com/news/wonk/wp/2016/02/18/i-dare-you-to-read-this-and-still-feel-ok-about-tipping-in-the-united-states/)
+- [Seeing Circles Sines and Signals](https://jackschaedler.github.io/circles-sines-signals/)
+- [Show HN: Template Wizard – Slack App for Message Templates](https://templatewizard.framer.website/)
+- [Songdio](https://news.ycombinator.com/item?id=41978730)
+- [Can Alligator Climb a Tree?](https://agendapedia.com/can-an-alligator-climb-a-tree-exploring-the-surprising-abilities-of-these-reptiles/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

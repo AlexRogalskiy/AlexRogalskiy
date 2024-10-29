@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Apple iPhone 16 Is Now Illegal in Indonesia, Ban Leaves Tourists in the Lurch](https://www.news18.com/tech/apple-iphone-16-is-now-illegal-in-indonesia-ban-leaves-tourists-in-the-lurch-9099034.html)
-- [The Coming Technological Singularity &lpar;1993&rpar;](https://mindstalk.net/vinge/vinge-sing.html)
-- [ATL: A layer to run Android apps on Linux](https://gitlab.com/android_translation_layer/android_translation_layer/-/blob/master/README.md)
-- [Bulma CSS Framework](https://bulma.io/)
-- [Platform Strategy and Its Discontents](https://infrequently.org/2024/10/platforms-are-competitions/)
-- [NotebookLlama: An open source version of NotebookLM](https://github.com/meta-llama/llama-recipes/tree/main/recipes/quickstart/NotebookLlama)
-- [RP FLIP escapes wrecker&#39;s claws](https://gcaptain.com/saving-rv-flip-from-the-wreckers-clawsand-its-story-is-mind-blowing/)
-- [Ibis: Federated Wikipedia alternative](https://ibis.wiki/article/Announcing_Ibis,_the_federated_Wikipedia_Alternative)
-- [Using SQLite as storage for web server static content](https://clace.io/blog/sqlite/)
-- [Rapamycin: One Drug, Many Effects &lpar;2014&rpar;](https://www.cell.com/cell-metabolism/fulltext/S1550-4131(14)00007-2)
+- [Greenland Is Gorgeous and Uncrowded. Now Here Come the Americans.](https://www.wsj.com/lifestyle/travel/greenland-flights-nonstop-united-nuuk-overtourism-62b8b8ee)
+- [&#39;Rescue Party&#39; [Arthur C. Clarke, 1946]](https://www.baen.com/Chapters/0743498747/0743498747___1.htm)
+- [An indie studio created a game based on Stanislaw Lem&#39;s novel](https://invinciblethegame.com/?hn)
+- [Steve Ballmer was an underrated CEO](https://danluu.com/ballmer/)
+- [Glass Health &lpar;YC W23&rpar; is hiring founding, senior and lead full-stack engineers](https://jobs.lever.co/glass-health-inc?team=Product%20%26%20Engineering)
+- [Show HN: Marmite: Zero Config Static Site Generator written in Rust](https://github.com/rochacbruno/marmite)
+- [HTML Form Validation is heavily underused](https://expressionstatement.com/html-form-validation-is-heavily-underused)
+- [A return to hand-written notes by learning to read and write](https://research.google/blog/a-return-to-hand-written-notes-by-learning-to-read-write/)
+- [Why so few Matt Levines?](https://gwern.net/matt-levine)
+- [Improving Xwayland window resizing](https://blog.vladzahorodnii.com/2024/10/28/improving-xwayland-window-resizing/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Greenland Is Gorgeous and Uncrowded. Now Here Come the Americans.](https://www.wsj.com/lifestyle/travel/greenland-flights-nonstop-united-nuuk-overtourism-62b8b8ee)
-- [Yes Hd](https://blog.cloudflare.com/birthday-week-2024-wrap-up/)
-- [The Open Source AI Definition – 1.0](https://opensource.org/ai/open-source-ai-definition)
-- [Calling Purgatory from Heaven: Binding to Rust in Haskell](https://well-typed.com/blog/2023/03/purgatory/)
-- [Show HN: My First Multiplayer Bombing Puzzle Game &lpar;React, ThreeJS and Sockets&rpar;](https://pixelbrawlgames.com/game/blast)
-- [I dare you to read this and still feel good about tipping](https://www.washingtonpost.com/news/wonk/wp/2016/02/18/i-dare-you-to-read-this-and-still-feel-ok-about-tipping-in-the-united-states/)
-- [Seeing Circles Sines and Signals](https://jackschaedler.github.io/circles-sines-signals/)
-- [Show HN: Template Wizard – Slack App for Message Templates](https://templatewizard.framer.website/)
-- [Songdio](https://news.ycombinator.com/item?id=41978730)
-- [Can Alligator Climb a Tree?](https://agendapedia.com/can-an-alligator-climb-a-tree-exploring-the-surprising-abilities-of-these-reptiles/)
+- [Follow the Lights: Squid Fishing in the Southeast Pacific Ocean](https://globalfishingwatch.org/article/squid-fishing-southeast-pacific/)
+- [Logseq Zotero Plugin](https://github.com/benjypng/logseq-zoterolocal-plugin)
+- [The Eukaryote, the First Cell to Get Organized](https://www.quantamagazine.org/meet-the-eukaryote-the-first-cell-to-get-organized-20241028/)
+- [[FOR SALE] Scalable, high performance GPU inference system + AI social media app](https://apps.apple.com/us/app/drippi/id6450683517)
+- [Git commit with hash `0000000`](https://github.com/JuliaAPlavin/MakieExtra.jl/commit/000000007dac9715520764e334380ae8ab26d598)
+- [Are You Smarter Than an AI?](https://walzr.com/smarter-than-ai/)
+- [LLMmap: Fingerprinting for Large Language Models](https://arxiv.org/abs/2407.15847)
+- [Hacking Back the AI-Hacker: Prompt Injection as a Defense for LLM-Attackers](https://arxiv.org/abs/2410.20911)
+- [32K-token context length embedding models](https://blog.voyageai.com/2024/09/18/voyage-3/)
+- [Election Fraud Conspiracy Theories Are Already Thriving Online](https://www.wired.com/story/election-fraud-conspiracies-flooding-social-media/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

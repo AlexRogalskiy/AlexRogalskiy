@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Greenland Is Gorgeous and Uncrowded. Now Here Come the Americans.](https://www.wsj.com/lifestyle/travel/greenland-flights-nonstop-united-nuuk-overtourism-62b8b8ee)
-- [&#39;Rescue Party&#39; [Arthur C. Clarke, 1946]](https://www.baen.com/Chapters/0743498747/0743498747___1.htm)
-- [An indie studio created a game based on Stanislaw Lem&#39;s novel](https://invinciblethegame.com/?hn)
-- [Steve Ballmer was an underrated CEO](https://danluu.com/ballmer/)
-- [Glass Health &lpar;YC W23&rpar; is hiring founding, senior and lead full-stack engineers](https://jobs.lever.co/glass-health-inc?team=Product%20%26%20Engineering)
-- [Show HN: Marmite: Zero Config Static Site Generator written in Rust](https://github.com/rochacbruno/marmite)
-- [HTML Form Validation is heavily underused](https://expressionstatement.com/html-form-validation-is-heavily-underused)
-- [A return to hand-written notes by learning to read and write](https://research.google/blog/a-return-to-hand-written-notes-by-learning-to-read-write/)
-- [Why so few Matt Levines?](https://gwern.net/matt-levine)
-- [Improving Xwayland window resizing](https://blog.vladzahorodnii.com/2024/10/28/improving-xwayland-window-resizing/)
+- [Google CEO says more than a quarter of the company&#39;s new code is created by AI](https://www.businessinsider.com/google-earnings-q3-2024-new-code-created-by-ai-2024-10)
+- [Wasmer 5.0](https://wasmer.io/posts/introducing-wasmer-v5)
+- [SmartTube – an advanced player for set-top boxes and TVs running Android OS](https://github.com/yuliskov/SmartTube)
+- [A Performance Comparison of Modern Garbage Collectors &lpar;2021&rpar; [pdf]](https://rodrigo-bruno.github.io/mentoring/77998-Carlos-Goncalves_dissertacao.pdf)
+- [RIP botsin.space](https://muffinlabs.com/posts/2024/10/29/10-29-rip-botsin-space/)
+- [Hobby CAD, CNC machining, and resin casting &lpar;2015&rpar;](https://lcamtuf.coredump.cx/gcnc/full/)
+- [Five or Ten New Proofs of the Pythagorean Theorem](https://www.tandfonline.com/doi/full/10.1080/00029890.2024.2370240)
+- [Nuclear Fusion&#39;s New Idea: An Off-the-Shelf Stellarator](https://spectrum.ieee.org/the-off-the-shelf-stellarator)
+- [PhD student finds lost city in Mexico jungle](https://www.bbc.com/news/articles/crmznzkly3go)
+- [Digging into PlantStudio, a Bit Late](https://pketh.org/plantstudio.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

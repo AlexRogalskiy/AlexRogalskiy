@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [US election live: Obama says ‘you can count on Kamala’ at Philadelphia rally as Trump rails against immigrants in Georgia](https://www.theguardian.com/us-news/live/2024/oct/28/us-election-live-donald-trump-tony-hinchcliffe-puerto-rico-kamala-harris-obama-springsteen)
-- [Sean ‘Diddy’ Combs accused of sexually assaulting 10- and 17-year-old boys](https://www.theguardian.com/music/2024/oct/28/sean-diddy-combs-sexual-assault-teenage-boys-lawsuits)
-- [Paul Morrissey, cult filmmaker and Andy Warhol collaborator, dies at 86](https://www.theguardian.com/film/2024/oct/29/paul-morrissey-death-age-86-cause-of-death-pneumonia)
-- [Russia to deploy 10,000 North Korean troops against Ukraine within ‘weeks’, Pentagon says](https://www.theguardian.com/world/2024/oct/29/russia-north-korean-troops-ukraine-war)
-- [Ukraine war briefing: Bomb shatters historic landmark in Kharkiv](https://www.theguardian.com/world/2024/oct/29/ukraine-war-briefing-bomb-derzhprom-historic-landmark-kharkiv)
-- [Whales ‘relentlessly pestered’: tourism boom sparks new rules in French Polynesia](https://www.theguardian.com/environment/2024/oct/29/french-polynesia-whale-tours-changes-tourism)
-- [Lower shop prices boost prospect of Bank of England rate cut](https://www.theguardian.com/business/2024/oct/29/shop-prices-lower-bank-of-england-rate-cut-)
-- [Animals become less sociable as they age in similar way to humans, research shows](https://www.theguardian.com/science/2024/oct/29/animals-become-less-sociable-as-they-age-in-similar-way-to-humans-research-shows)
-- [Thousands of Georgians demonstrate against contested election results](https://www.theguardian.com/world/2024/oct/28/thousands-of-georgians-demonstrate-against-contested-election-results)
-- [Man dies in detention at immigration removal centre near Gatwick airport](https://www.theguardian.com/uk-news/2024/oct/28/man-dies-in-detention-at-immigration-removal-centre-near-gatwick-airport)
+- [Los Angeles Dodgers v New York Yankees: World Series Game 4 – live](https://www.theguardian.com/sport/live/2024/oct/29/los-angeles-dodgers-v-new-york-yankees-world-series-game-4-live)
+- [Supreme court rejects RFK Jr plea to remove name from battleground ballots](https://www.theguardian.com/us-news/2024/oct/29/supreme-court-rfk-jr-ballots-wisconsin-michigan)
+- [Kamala Harris calls for a ‘new generation of leadership’ in Washington speech](https://www.theguardian.com/us-news/2024/oct/29/kamala-harris-turn-the-page-trump)
+- [Mount Fuji snowless for longest time on record after sweltering Japan summer](https://www.theguardian.com/world/2024/oct/30/mount-fuji-no-snow-record-japan-summer)
+- [Ukraine war briefing: Kyiv announces draft of 160,000 more troops](https://www.theguardian.com/world/2024/oct/30/ukraine-war-briefing-kyiv-announces-draft-of-160000-more-troops)
+- [Dead bodies found after torrential rain brings flash flooding to Spain](https://www.theguardian.com/world/2024/oct/29/four-missing-after-torrential-rain-brings-flash-flooding-to-spain)
+- [Two women removed from BA flight ‘after altercation over Maga cap’](https://www.theguardian.com/uk-news/2024/oct/30/two-women-removed-from-ba-flight-after-altercation-over-maga-cap)
+- [‘I’m walking here!’: jaywalking legalized in New York City](https://www.theguardian.com/us-news/2024/oct/29/new-york-jaywalking-legal)
+- [Experiencing intense emotions with others makes people feel more connected, study finds](https://www.theguardian.com/education/2024/oct/30/experiencing-intense-emotions-with-others-makes-people-feel-more-connected-study-finds)
+- [Record levels of heat-related deaths in 2023 due to climate crisis, report finds](https://www.theguardian.com/environment/2024/oct/30/record-levels-of-heat-related-deaths-in-2023-due-to-climate-crisis-report-finds)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

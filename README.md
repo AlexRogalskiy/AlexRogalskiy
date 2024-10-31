@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Los Angeles Dodgers v New York Yankees: World Series Game 4 – live](https://www.theguardian.com/sport/live/2024/oct/29/los-angeles-dodgers-v-new-york-yankees-world-series-game-4-live)
-- [Supreme court rejects RFK Jr plea to remove name from battleground ballots](https://www.theguardian.com/us-news/2024/oct/29/supreme-court-rfk-jr-ballots-wisconsin-michigan)
-- [Kamala Harris calls for a ‘new generation of leadership’ in Washington speech](https://www.theguardian.com/us-news/2024/oct/29/kamala-harris-turn-the-page-trump)
-- [Mount Fuji snowless for longest time on record after sweltering Japan summer](https://www.theguardian.com/world/2024/oct/30/mount-fuji-no-snow-record-japan-summer)
-- [Ukraine war briefing: Kyiv announces draft of 160,000 more troops](https://www.theguardian.com/world/2024/oct/30/ukraine-war-briefing-kyiv-announces-draft-of-160000-more-troops)
-- [Dead bodies found after torrential rain brings flash flooding to Spain](https://www.theguardian.com/world/2024/oct/29/four-missing-after-torrential-rain-brings-flash-flooding-to-spain)
-- [Two women removed from BA flight ‘after altercation over Maga cap’](https://www.theguardian.com/uk-news/2024/oct/30/two-women-removed-from-ba-flight-after-altercation-over-maga-cap)
-- [‘I’m walking here!’: jaywalking legalized in New York City](https://www.theguardian.com/us-news/2024/oct/29/new-york-jaywalking-legal)
-- [Experiencing intense emotions with others makes people feel more connected, study finds](https://www.theguardian.com/education/2024/oct/30/experiencing-intense-emotions-with-others-makes-people-feel-more-connected-study-finds)
-- [Record levels of heat-related deaths in 2023 due to climate crisis, report finds](https://www.theguardian.com/environment/2024/oct/30/record-levels-of-heat-related-deaths-in-2023-due-to-climate-crisis-report-finds)
+- [Los Angeles Dodgers v New York Yankees: World Series Game 5 – live](https://www.theguardian.com/sport/live/2024/oct/30/los-angeles-dodgers-v-new-york-yankees-world-series-game-5-live)
+- [Harris hails first-time and gen Z voters at Wisconsin rally: ‘I’m so proud of you’](https://www.theguardian.com/us-news/2024/oct/30/kamala-harris-madison-rally)
+- [Relief mixed with sadness as New Zealand bids farewell to ‘hated’ giant hand sculpture Quasi](https://www.theguardian.com/world/2024/oct/31/quasi-statue-new-zealand-removal-wellington-ronnie-van-hout-moving-australia)
+- [Ukraine war briefing: ‘Pentagon leaker’ Jack Teixeira deserves 17 years in jail, argue prosecutors](https://www.theguardian.com/world/2024/oct/31/ukraine-war-briefing-pentagon-leaker-jack-teixeira-deserves-17-years-in-jail-argue-prosecutors)
+- [Mexico supreme court judges resign over reforms to allow voters to elect judiciary](https://www.theguardian.com/world/2024/oct/31/mexico-supreme-court-judges-resign-voting-reforms)
+- [‘I feel robbed’: the millions of residents in US territories like Puerto Rico who can’t vote in presidential race](https://www.theguardian.com/us-news/2024/oct/31/us-election-puerto-rico-joe-biden-donald-trump-comedian-comments-voting)
+- [Hip-hop producer Metro Boomin accused of rape in lawsuit](https://www.theguardian.com/music/2024/oct/30/metro-boomin-rape-lawsuit)
+- [Barcelona review – Lily Collins and Álvaro Morte share a night of tapas, torment and toe-sucking](https://www.theguardian.com/stage/2024/oct/31/barcelona-review-duke-of-yorks-london-lily-collins-alvaro-morte)
+- [Drawing the Italian Renaissance review – Christ, naked and muscly, leaps from the grave](https://www.theguardian.com/artanddesign/2024/oct/31/drawing-the-italian-renaissance-review-kings-gallery-london)
+- [FA sets high target for schools to provide girls with equal access to football](https://www.theguardian.com/football/2024/oct/31/fa-sets-high-target-for-schools-to-provide-girls-with-equal-access-to-football)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

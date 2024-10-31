@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Follow the Lights: Squid Fishing in the Southeast Pacific Ocean](https://globalfishingwatch.org/article/squid-fishing-southeast-pacific/)
-- [Logseq Zotero Plugin](https://github.com/benjypng/logseq-zoterolocal-plugin)
-- [The Eukaryote, the First Cell to Get Organized](https://www.quantamagazine.org/meet-the-eukaryote-the-first-cell-to-get-organized-20241028/)
-- [[FOR SALE] Scalable, high performance GPU inference system + AI social media app](https://apps.apple.com/us/app/drippi/id6450683517)
-- [Git commit with hash `0000000`](https://github.com/JuliaAPlavin/MakieExtra.jl/commit/000000007dac9715520764e334380ae8ab26d598)
-- [Are You Smarter Than an AI?](https://walzr.com/smarter-than-ai/)
-- [LLMmap: Fingerprinting for Large Language Models](https://arxiv.org/abs/2407.15847)
-- [Hacking Back the AI-Hacker: Prompt Injection as a Defense for LLM-Attackers](https://arxiv.org/abs/2410.20911)
-- [32K-token context length embedding models](https://blog.voyageai.com/2024/09/18/voyage-3/)
-- [Election Fraud Conspiracy Theories Are Already Thriving Online](https://www.wired.com/story/election-fraud-conspiracies-flooding-social-media/)
+- [A mysterious new image generation model has appeared](https://techcrunch.com/2024/10/28/a-mysterious-new-image-generation-model-has-appeared/)
+- [Typing fast is not so important](https://morgan.zoemp.be/slowdown/)
+- [LinkedIn Clone](https://github.com/nikumu/linkedin-clone)
+- [Revisiting Reliability in Large-Scale Machine Learning Research Clusters](https://arxiv.org/abs/2410.21680)
+- [Person accidentally poisoned 46 coworkers with pancit, a Filipino noodle dish](https://arstechnica.com/health/2024/10/when-you-make-lunch-for-your-coworkers-and-accidentally-cause-a-mass-poisoning/)
+- [Songdio](https://news.ycombinator.com/item?id=42002813)
+- [Looking into the Nintendo Alarmo](https://garyodernichts.blogspot.com/2024/10/looking-into-nintendo-alarmo.html)
+- [Is FusionAuth GDPR Compliant?](https://fusionauth.io/blog/is-fusionauth-gdpr-compliant)
+- [Ai16z](https://github.com/ai16z)
+- [My Job Was My Life. Then I Got Fired](https://www.thecut.com/article/fired-from-my-job.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

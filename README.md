@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Google CEO says more than a quarter of the company&#39;s new code is created by AI](https://www.businessinsider.com/google-earnings-q3-2024-new-code-created-by-ai-2024-10)
-- [Wasmer 5.0](https://wasmer.io/posts/introducing-wasmer-v5)
-- [SmartTube – an advanced player for set-top boxes and TVs running Android OS](https://github.com/yuliskov/SmartTube)
-- [A Performance Comparison of Modern Garbage Collectors &lpar;2021&rpar; [pdf]](https://rodrigo-bruno.github.io/mentoring/77998-Carlos-Goncalves_dissertacao.pdf)
-- [RIP botsin.space](https://muffinlabs.com/posts/2024/10/29/10-29-rip-botsin-space/)
-- [Hobby CAD, CNC machining, and resin casting &lpar;2015&rpar;](https://lcamtuf.coredump.cx/gcnc/full/)
-- [Five or Ten New Proofs of the Pythagorean Theorem](https://www.tandfonline.com/doi/full/10.1080/00029890.2024.2370240)
-- [Nuclear Fusion&#39;s New Idea: An Off-the-Shelf Stellarator](https://spectrum.ieee.org/the-off-the-shelf-stellarator)
-- [PhD student finds lost city in Mexico jungle](https://www.bbc.com/news/articles/crmznzkly3go)
-- [Digging into PlantStudio, a Bit Late](https://pketh.org/plantstudio.html)
+- [I Attended Google&#39;s Creator Conversation Event, and It Turned into a Funeral](https://www.giantfreakinrobot.com/tech/google-creators-event.html)
+- [FDA Permits Marketing of Digital Game to Improve Attention in ADHD Children](https://www.fda.gov/news-events/press-announcements/fda-permits-marketing-first-game-based-digital-therapeutic-improve-attention-function-children-adhd)
+- [Wonder Animation – Video to 3D Animation](https://adsknews.autodesk.com/en/news/autodesk-launches-wonder-animation-video-to-3d-scene-technology/)
+- [Generative AI Scripting](https://microsoft.github.io/genaiscript/)
+- [It might be possible to detect gravitons after all](https://www.quantamagazine.org/it-might-be-possible-to-detect-gravitons-after-all-20241030/)
+- [Show HN: G-win – .gcode parser written in Rust with winnow](https://crates.io/crates/g-win)
+- [OpenZFS deduplication is good now and you shouldn&#39;t use it](https://despairlabs.com/blog/posts/2024-10-27-openzfs-dedup-is-good-dont-use-it/)
+- [Chain-of-Thought Can Hurt Performance on Tasks Where Thinking Makes Humans Worse](https://arxiv.org/abs/2410.21333)
+- [Steam games will need to disclose kernel-level anti-cheat on store pages](https://www.gamingonlinux.com/2024/10/steam-games-will-now-need-to-fully-disclose-kernel-level-anti-cheat-on-store-pages/)
+- [DeepSeek v2.5 – open-source LLM comparable to GPT-4, but 95% less expensive](https://www.deepseek.com/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Los Angeles Dodgers v New York Yankees: World Series Game 5 – live](https://www.theguardian.com/sport/live/2024/oct/30/los-angeles-dodgers-v-new-york-yankees-world-series-game-5-live)
-- [Harris hails first-time and gen Z voters at Wisconsin rally: ‘I’m so proud of you’](https://www.theguardian.com/us-news/2024/oct/30/kamala-harris-madison-rally)
-- [Relief mixed with sadness as New Zealand bids farewell to ‘hated’ giant hand sculpture Quasi](https://www.theguardian.com/world/2024/oct/31/quasi-statue-new-zealand-removal-wellington-ronnie-van-hout-moving-australia)
-- [Ukraine war briefing: ‘Pentagon leaker’ Jack Teixeira deserves 17 years in jail, argue prosecutors](https://www.theguardian.com/world/2024/oct/31/ukraine-war-briefing-pentagon-leaker-jack-teixeira-deserves-17-years-in-jail-argue-prosecutors)
-- [Mexico supreme court judges resign over reforms to allow voters to elect judiciary](https://www.theguardian.com/world/2024/oct/31/mexico-supreme-court-judges-resign-voting-reforms)
-- [‘I feel robbed’: the millions of residents in US territories like Puerto Rico who can’t vote in presidential race](https://www.theguardian.com/us-news/2024/oct/31/us-election-puerto-rico-joe-biden-donald-trump-comedian-comments-voting)
-- [Hip-hop producer Metro Boomin accused of rape in lawsuit](https://www.theguardian.com/music/2024/oct/30/metro-boomin-rape-lawsuit)
-- [Barcelona review – Lily Collins and Álvaro Morte share a night of tapas, torment and toe-sucking](https://www.theguardian.com/stage/2024/oct/31/barcelona-review-duke-of-yorks-london-lily-collins-alvaro-morte)
-- [Drawing the Italian Renaissance review – Christ, naked and muscly, leaps from the grave](https://www.theguardian.com/artanddesign/2024/oct/31/drawing-the-italian-renaissance-review-kings-gallery-london)
-- [FA sets high target for schools to provide girls with equal access to football](https://www.theguardian.com/football/2024/oct/31/fa-sets-high-target-for-schools-to-provide-girls-with-equal-access-to-football)
+- [Harris condemns Trump over ‘protector of women’ remarks and tells Nevada rally: ‘Make no mistake, we will win’ – live](https://www.theguardian.com/us-news/live/2024/oct/31/donald-trump-kamala-harris-us-election-latest-updates-live)
+- [West Indies beat England by eight wickets: first men’s one-day international – live](https://www.theguardian.com/sport/live/2024/oct/31/west-indies-v-england-first-mens-one-day-international-live)
+- [‘People are scared’: Arizonans fear political violence as election looms](https://www.theguardian.com/us-news/2024/oct/31/arizona-political-violence-election)
+- [Peanut the Instagram-famous squirrel is seized by New York officials](https://www.theguardian.com/world/2024/nov/01/peanut-the-squirrel-instagram-seized-new-york-dec)
+- [Ukraine war briefing: western allies’ response to North Korean deployment is ‘zero’, Zelenskyy says](https://www.theguardian.com/world/2024/nov/01/ukraine-war-briefing-western-allies-response-to-north-korean-deployment-is-zero-zelenskyy-says)
+- [Avengers stars assemble to endorse Kamala Harris – by brainstorming an election catchphrase](https://www.theguardian.com/film/2024/nov/01/us-election-avengers-cast-kamala-harris-endorsement)
+- [The other November 5 election: China and the US look on as Palau votes](https://www.theguardian.com/world/2024/nov/01/palau-election-results-candidates-date-november-5)
+- [Jacaranda season in Sydney – in pictures](https://www.theguardian.com/environment/gallery/2024/nov/01/jacaranda-season-sydney-blooms-pictures)
+- [The best theatre to stream this month: Starlight Express, Nye, Beat the Devil and more](https://www.theguardian.com/stage/2024/nov/01/the-best-theatre-to-stream-this-month-lloyd-webber-rudolf-nureyev-david-hare)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2024/nov/01/premier-league-10-things-to-look-out-for-this-weekend)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

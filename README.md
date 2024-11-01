@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [I Attended Google&#39;s Creator Conversation Event, and It Turned into a Funeral](https://www.giantfreakinrobot.com/tech/google-creators-event.html)
-- [FDA Permits Marketing of Digital Game to Improve Attention in ADHD Children](https://www.fda.gov/news-events/press-announcements/fda-permits-marketing-first-game-based-digital-therapeutic-improve-attention-function-children-adhd)
-- [Wonder Animation – Video to 3D Animation](https://adsknews.autodesk.com/en/news/autodesk-launches-wonder-animation-video-to-3d-scene-technology/)
-- [Generative AI Scripting](https://microsoft.github.io/genaiscript/)
-- [It might be possible to detect gravitons after all](https://www.quantamagazine.org/it-might-be-possible-to-detect-gravitons-after-all-20241030/)
-- [Show HN: G-win – .gcode parser written in Rust with winnow](https://crates.io/crates/g-win)
-- [OpenZFS deduplication is good now and you shouldn&#39;t use it](https://despairlabs.com/blog/posts/2024-10-27-openzfs-dedup-is-good-dont-use-it/)
-- [Chain-of-Thought Can Hurt Performance on Tasks Where Thinking Makes Humans Worse](https://arxiv.org/abs/2410.21333)
-- [Steam games will need to disclose kernel-level anti-cheat on store pages](https://www.gamingonlinux.com/2024/10/steam-games-will-now-need-to-fully-disclose-kernel-level-anti-cheat-on-store-pages/)
-- [DeepSeek v2.5 – open-source LLM comparable to GPT-4, but 95% less expensive](https://www.deepseek.com/)
+- [Feds: Critical Software Must Drop C/C++ by 2026 or Face Risk](https://thenewstack.io/feds-critical-software-must-drop-c-c-by-2026-or-face-risk/)
+- [Dawn: Designing Distributed Agents in a Worldwide Network](https://arxiv.org/abs/2410.22339)
+- [Let&#39;s Encrypt is unable to validate domain names](https://letsencrypt.status.io/pages/55957a99e800baa4470002da)
+- [A conserved fertilization complex bridges sperm and egg in vertebrates](https://www.cell.com/cell/fulltext/S0092-8674(24)01093-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867424010936%3Fshowall%3Dtrue)
+- [VMware Workstation Shifting from Proprietary Code to Using Upstream KVM](https://www.phoronix.com/news/VMware-Workstation-KVM)
+- [Physical Intelligence&#39;s first generalist robotic model](https://www.physicalintelligence.company/blog/pi0?blog)
+- [An Update on Apple M1/M2 GPU Drivers](https://lwn.net/SubscriberLink/995383/34dc5950cab5e739/)
+- [The National EUV Accelerator comes to Albany](https://research.ibm.com/blog/euv-center-albany-nstc)
+- [Antibody Drug Conjugates: A frontier in cancer treatment](https://www.sagelyhealth.com/blog-posts/cancers-magic-bullet-antibody-drug-conjugates)
+- [Launch HN: Patched &lpar;YC S24&rpar; – AI workflows for post-code tasks](https://news.ycombinator.com/item?id=42009089)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

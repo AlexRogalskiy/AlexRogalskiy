@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [A mysterious new image generation model has appeared](https://techcrunch.com/2024/10/28/a-mysterious-new-image-generation-model-has-appeared/)
-- [Typing fast is not so important](https://morgan.zoemp.be/slowdown/)
-- [LinkedIn Clone](https://github.com/nikumu/linkedin-clone)
-- [Revisiting Reliability in Large-Scale Machine Learning Research Clusters](https://arxiv.org/abs/2410.21680)
-- [Person accidentally poisoned 46 coworkers with pancit, a Filipino noodle dish](https://arstechnica.com/health/2024/10/when-you-make-lunch-for-your-coworkers-and-accidentally-cause-a-mass-poisoning/)
-- [Songdio](https://news.ycombinator.com/item?id=42002813)
-- [Looking into the Nintendo Alarmo](https://garyodernichts.blogspot.com/2024/10/looking-into-nintendo-alarmo.html)
-- [Is FusionAuth GDPR Compliant?](https://fusionauth.io/blog/is-fusionauth-gdpr-compliant)
-- [Ai16z](https://github.com/ai16z)
-- [My Job Was My Life. Then I Got Fired](https://www.thecut.com/article/fired-from-my-job.html)
+- [Sugar Rationing Lowered Diabetes and Hypertension in British Children](https://www.nytimes.com/2024/10/31/health/sugar-rationing-britain-health-experiment.html)
+- [Writing Mathematics in Pencil, and Why Analogue Is Not Dead](https://nhigham.com/2017/02/21/writing-mathematics-in-pencil-and-why-analogue-is-not-dead/)
+- [A Lost Mayan City Has Been Found with Laser Mapping](https://www.wired.com/story/lost-mayan-city-valeriana-lidar-discovery/)
+- [Kraken Lays Off 15% of Workers](https://www.nytimes.com/2024/10/30/technology/kraken-cryptocurrency-layoff-ceo.html)
+- [ChatGPT Search](https://chatgpt.com/?hints=search)
+- [Russia fines Google all the world’s money, and then some](https://www.bbc.com/news/articles/cdxvnwkl5kgo)
+- [A Halloween scary story for dev](https://meowbark.dev/A-Halloween-scary-story)
+- [Show HN: Transform Any Tool into a Collaborative Space](https://www.remotespace.ai/)
+- [ChatGPT Search Extension](https://chromewebstore.google.com/detail/chatgpt-search/ejcfepkfckglbgocfkanmcdngdijcgld)
+- [How to Accelerate Code Reviews with Nudges: Insights from Microsoft&#39;s Study](https://reviewnudgebot.com/blog/how-to-accelerate-code-reviews-with-nudges-insights-from-microsofts-study/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

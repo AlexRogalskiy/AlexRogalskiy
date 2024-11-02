@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Feds: Critical Software Must Drop C/C++ by 2026 or Face Risk](https://thenewstack.io/feds-critical-software-must-drop-c-c-by-2026-or-face-risk/)
-- [Dawn: Designing Distributed Agents in a Worldwide Network](https://arxiv.org/abs/2410.22339)
-- [Let&#39;s Encrypt is unable to validate domain names](https://letsencrypt.status.io/pages/55957a99e800baa4470002da)
-- [A conserved fertilization complex bridges sperm and egg in vertebrates](https://www.cell.com/cell/fulltext/S0092-8674(24)01093-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867424010936%3Fshowall%3Dtrue)
-- [VMware Workstation Shifting from Proprietary Code to Using Upstream KVM](https://www.phoronix.com/news/VMware-Workstation-KVM)
-- [Physical Intelligence&#39;s first generalist robotic model](https://www.physicalintelligence.company/blog/pi0?blog)
-- [An Update on Apple M1/M2 GPU Drivers](https://lwn.net/SubscriberLink/995383/34dc5950cab5e739/)
-- [The National EUV Accelerator comes to Albany](https://research.ibm.com/blog/euv-center-albany-nstc)
-- [Antibody Drug Conjugates: A frontier in cancer treatment](https://www.sagelyhealth.com/blog-posts/cancers-magic-bullet-antibody-drug-conjugates)
-- [Launch HN: Patched &lpar;YC S24&rpar; – AI workflows for post-code tasks](https://news.ycombinator.com/item?id=42009089)
+- [Okta – Username Above 52 Characters Security Advisory](https://trust.okta.com/security-advisories/okta-ad-ldap-delegated-authentication-username/)
+- [Direct Sockets API in Chrome 131](https://chromestatus.com/feature/6398297361088512)
+- [AMD Open-Source 1B OLMo Language Models](https://www.amd.com/en/developer/resources/technical-articles/introducing-the-first-amd-1b-language-model.html)
+- [Nvidia to join Dow Jones Industrial Average, replacing Intel](https://www.cnbc.com/2024/11/01/nvidia-to-join-dow-jones-industrial-average-replacing-intel.html)
+- [Sleep regularity is a stronger predictor of mortality risk than sleep duration](https://academic.oup.com/sleep/article/47/1/zsad253/7280269)
+- [Low-cost, portable device can detect colorectal and prostate cancer in an hour](https://medicalxpress.com/news/2024-10-portable-device-colorectal-prostate-cancer.html)
+- [Show HN: I Built a Rock, Paper, Scissors roguelike in React](https://xtremerps.com)
+- [Linux on Apple Silicon with Alyssa Rosenzweig [audio]](https://softwareengineeringdaily.com/2024/10/15/linux-apple-silicon-alyssa-rosenzweig/)
+- [Notepad++ is 21 years old](https://learnhub.top/celebrating-21-years-of-notepad-the-legendary-journey-of-our-favorite-text-editor/)
+- [The Shell Hater&#39;s Handbook &lpar;2010&rpar;](https://shellhaters.org/talk)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Harris condemns Trump over ‘protector of women’ remarks and tells Nevada rally: ‘Make no mistake, we will win’ – live](https://www.theguardian.com/us-news/live/2024/oct/31/donald-trump-kamala-harris-us-election-latest-updates-live)
-- [West Indies beat England by eight wickets: first men’s one-day international – live](https://www.theguardian.com/sport/live/2024/oct/31/west-indies-v-england-first-mens-one-day-international-live)
-- [‘People are scared’: Arizonans fear political violence as election looms](https://www.theguardian.com/us-news/2024/oct/31/arizona-political-violence-election)
-- [Peanut the Instagram-famous squirrel is seized by New York officials](https://www.theguardian.com/world/2024/nov/01/peanut-the-squirrel-instagram-seized-new-york-dec)
-- [Ukraine war briefing: western allies’ response to North Korean deployment is ‘zero’, Zelenskyy says](https://www.theguardian.com/world/2024/nov/01/ukraine-war-briefing-western-allies-response-to-north-korean-deployment-is-zero-zelenskyy-says)
-- [Avengers stars assemble to endorse Kamala Harris – by brainstorming an election catchphrase](https://www.theguardian.com/film/2024/nov/01/us-election-avengers-cast-kamala-harris-endorsement)
-- [The other November 5 election: China and the US look on as Palau votes](https://www.theguardian.com/world/2024/nov/01/palau-election-results-candidates-date-november-5)
-- [Jacaranda season in Sydney – in pictures](https://www.theguardian.com/environment/gallery/2024/nov/01/jacaranda-season-sydney-blooms-pictures)
-- [The best theatre to stream this month: Starlight Express, Nye, Beat the Devil and more](https://www.theguardian.com/stage/2024/nov/01/the-best-theatre-to-stream-this-month-lloyd-webber-rudolf-nureyev-david-hare)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2024/nov/01/premier-league-10-things-to-look-out-for-this-weekend)
+- [Supreme court rejects Republican bid to throw out thousands of Pennsylvania ballots; Harris says Trump’s Cheney remarks ‘disqualifying’ – live](https://www.theguardian.com/us-news/live/2024/nov/01/kamala-harris-donald-trump-swing-states-campaign-us-politics-latest-updates)
+- [Ex-Kentucky officer convicted of using excessive force against Breonna Taylor](https://www.theguardian.com/us-news/2024/nov/01/breonna-taylor-brett-hankison-conviction)
+- [Trump repeats attack on Liz Cheney and laments bad hair day at Michigan rally](https://www.theguardian.com/us-news/2024/nov/01/trump-rally-warren-michigan)
+- [Blow for Republicans as supreme court rejects appeal over Pennsylvania ballots](https://www.theguardian.com/us-news/2024/nov/01/republicans-supreme-court-pennsylvania-ballots)
+- [Lake Victoria stays unbeaten with Juvenile Fillies’ Turf win at Breeders’ Cup](https://www.theguardian.com/sport/2024/nov/02/lake-victoria-stays-unbeaten-with-juvenile-fillies-turf-win-at-breeders-cup)
+- [Boy, 15, who fatally stabbed teenager he did not know in Birmingham is jailed for life](https://www.theguardian.com/uk-news/2024/nov/02/boy-15-who-fatally-stabbed-teenager-in-birmingham-jailed-for-life)
+- [Columbia pays $395,000 to student suspended over protest ‘fart spray’](https://www.theguardian.com/us-news/2024/nov/01/columbia-student-protest-lawsuit)
+- [Can I fix it? Yes you can! Don’t throw away these household items before trying to repair them](https://www.theguardian.com/australia-news/2024/nov/02/how-to-fix-household-items-washing-machine-furniture)
+- [Max Verstappen’s five-place grid penalty in Brazil GP is chance for Lando Norris](https://www.theguardian.com/sport/2024/nov/01/max-verstappen-five-place-grid-penalty-brazil-grand-prix-formula-one-motor-sport-f1)
+- [Manchester City players may need to go through pain barrier, warns Guardiola](https://www.theguardian.com/football/2024/nov/01/manchester-city-players-may-need-to-go-through-pain-barrier-warns-guardiola)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

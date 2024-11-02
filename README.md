@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Sugar Rationing Lowered Diabetes and Hypertension in British Children](https://www.nytimes.com/2024/10/31/health/sugar-rationing-britain-health-experiment.html)
-- [Writing Mathematics in Pencil, and Why Analogue Is Not Dead](https://nhigham.com/2017/02/21/writing-mathematics-in-pencil-and-why-analogue-is-not-dead/)
-- [A Lost Mayan City Has Been Found with Laser Mapping](https://www.wired.com/story/lost-mayan-city-valeriana-lidar-discovery/)
-- [Kraken Lays Off 15% of Workers](https://www.nytimes.com/2024/10/30/technology/kraken-cryptocurrency-layoff-ceo.html)
-- [ChatGPT Search](https://chatgpt.com/?hints=search)
-- [Russia fines Google all the world’s money, and then some](https://www.bbc.com/news/articles/cdxvnwkl5kgo)
-- [A Halloween scary story for dev](https://meowbark.dev/A-Halloween-scary-story)
-- [Show HN: Transform Any Tool into a Collaborative Space](https://www.remotespace.ai/)
-- [ChatGPT Search Extension](https://chromewebstore.google.com/detail/chatgpt-search/ejcfepkfckglbgocfkanmcdngdijcgld)
-- [How to Accelerate Code Reviews with Nudges: Insights from Microsoft&#39;s Study](https://reviewnudgebot.com/blog/how-to-accelerate-code-reviews-with-nudges-insights-from-microsofts-study/)
+- [The complete guide to integrating an OIDC server into your project](https://blog.logto.io/complete-guide-to-integrating-oidc-server)
+- [Ask HN: How to Buy Squatted Domains?](https://news.ycombinator.com/item?id=42023634)
+- [Perplexity and You.com: The AI Search Before ChatGPT Search](https://www.yourdomain.com/)
+- [Oasis – Real-time AI world model](https://oasis.decart.ai/welcome)
+- [Tailscale Machine Explorer in VS Code](https://tailscale.com/blog/machine-explorer-vscode-extension)
+- [Secure Custom Fields can&#39;t even steal the changelog entry properly](https://twitter.com/arunaswp/status/1851602348998639864)
+- [Storybits: Error Resistant Mnemonics](https://rya.nc/storybits.html)
+- [What Does It Mean to Ensure Election Integrity in 2024?](https://www.lawfaremedia.org/article/what-does-it-mean-to-ensure-election-integrity-in-2024)
+- [David Clements: The Evangelist of Election Refusal](https://www.lawfaremedia.org/article/david-clements--the-evangelist-of-election-refusal)
+- [Downloading Images from US Military Satellites [video]](https://www.youtube.com/watch?v=ReHYn7llzy4)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

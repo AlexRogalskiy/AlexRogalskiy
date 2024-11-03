@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Supreme court rejects Republican bid to throw out thousands of Pennsylvania ballots; Harris says Trump’s Cheney remarks ‘disqualifying’ – live](https://www.theguardian.com/us-news/live/2024/nov/01/kamala-harris-donald-trump-swing-states-campaign-us-politics-latest-updates)
-- [Ex-Kentucky officer convicted of using excessive force against Breonna Taylor](https://www.theguardian.com/us-news/2024/nov/01/breonna-taylor-brett-hankison-conviction)
-- [Trump repeats attack on Liz Cheney and laments bad hair day at Michigan rally](https://www.theguardian.com/us-news/2024/nov/01/trump-rally-warren-michigan)
-- [Blow for Republicans as supreme court rejects appeal over Pennsylvania ballots](https://www.theguardian.com/us-news/2024/nov/01/republicans-supreme-court-pennsylvania-ballots)
-- [Lake Victoria stays unbeaten with Juvenile Fillies’ Turf win at Breeders’ Cup](https://www.theguardian.com/sport/2024/nov/02/lake-victoria-stays-unbeaten-with-juvenile-fillies-turf-win-at-breeders-cup)
-- [Boy, 15, who fatally stabbed teenager he did not know in Birmingham is jailed for life](https://www.theguardian.com/uk-news/2024/nov/02/boy-15-who-fatally-stabbed-teenager-in-birmingham-jailed-for-life)
-- [Columbia pays $395,000 to student suspended over protest ‘fart spray’](https://www.theguardian.com/us-news/2024/nov/01/columbia-student-protest-lawsuit)
-- [Can I fix it? Yes you can! Don’t throw away these household items before trying to repair them](https://www.theguardian.com/australia-news/2024/nov/02/how-to-fix-household-items-washing-machine-furniture)
-- [Max Verstappen’s five-place grid penalty in Brazil GP is chance for Lando Norris](https://www.theguardian.com/sport/2024/nov/01/max-verstappen-five-place-grid-penalty-brazil-grand-prix-formula-one-motor-sport-f1)
-- [Manchester City players may need to go through pain barrier, warns Guardiola](https://www.theguardian.com/football/2024/nov/01/manchester-city-players-may-need-to-go-through-pain-barrier-warns-guardiola)
+- [Ukraine war briefing: Kyiv and Moscow trade accusations over stalled PoW exchanges](https://www.theguardian.com/world/2024/nov/03/ukraine-war-briefing-kyiv-and-moscow-trade-accusations-over-stalled-pow-exchanges)
+- [Harris grabs unexpected last-minute lead over Trump in Iowa poll](https://www.theguardian.com/us-news/2024/nov/02/harris-unexpected-lead-over-trump-iowa-selzer-poll)
+- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2024/nov/02/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [City of Troy pays price for slow start in Breeders’ Cup Classic](https://www.theguardian.com/sport/2024/nov/02/city-of-troy-pays-price-for-slow-start-in-breeders-cup-classic)
+- [Boy, 14, charged with attempted murder after stabbing of girl, 13, near Hull](https://www.theguardian.com/uk-news/2024/nov/02/boy-14-charged-with-attempted-after-multiple-stabbing-of-girl-13-near-hull)
+- [Liam Livingstone onslaught helps England level West Indies ODI series](https://www.theguardian.com/sport/2024/nov/02/liam-livingstone-onslaught-gives-england-thrilling-win-over-west-indies)
+- [Spain floods: 10,000 troops and police drafted in to deal with disaster](https://www.theguardian.com/world/2024/nov/02/spain-floods-disaster-5000-more-troops-drafted-in-to-deal-with-aftermath)
+- [Police ask prosecutors to consider charging Russell Brand over sex assault claims](https://www.theguardian.com/culture/2024/nov/02/police-ask-prosecutors-to-consider-charging-russell-brand-over-sex-assault-claims)
+- [Drugs and weapons seized in sweep of jail where Sean ‘Diddy’ Combs is held](https://www.theguardian.com/us-news/2024/nov/02/drug-weapon-sweep-brooklyn-jail-sean-diddy-combs)
+- [New Yorkers urged to conserve water after driest October in 150 years](https://www.theguardian.com/us-news/2024/nov/02/new-york-water-shortage)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

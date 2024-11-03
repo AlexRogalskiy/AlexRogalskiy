@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The complete guide to integrating an OIDC server into your project](https://blog.logto.io/complete-guide-to-integrating-oidc-server)
-- [Ask HN: How to Buy Squatted Domains?](https://news.ycombinator.com/item?id=42023634)
-- [Perplexity and You.com: The AI Search Before ChatGPT Search](https://www.yourdomain.com/)
-- [Oasis – Real-time AI world model](https://oasis.decart.ai/welcome)
-- [Tailscale Machine Explorer in VS Code](https://tailscale.com/blog/machine-explorer-vscode-extension)
-- [Secure Custom Fields can&#39;t even steal the changelog entry properly](https://twitter.com/arunaswp/status/1851602348998639864)
-- [Storybits: Error Resistant Mnemonics](https://rya.nc/storybits.html)
-- [What Does It Mean to Ensure Election Integrity in 2024?](https://www.lawfaremedia.org/article/what-does-it-mean-to-ensure-election-integrity-in-2024)
-- [David Clements: The Evangelist of Election Refusal](https://www.lawfaremedia.org/article/david-clements--the-evangelist-of-election-refusal)
-- [Downloading Images from US Military Satellites [video]](https://www.youtube.com/watch?v=ReHYn7llzy4)
+- [VSCode high CPU usage issue affecting macOS](https://github.com/microsoft/vscode/issues/232699)
+- [Large meltwater accumulation revealed inside Greenland Ice Sheet](https://phys.org/news/2024-10-large-meltwater-accumulation-revealed-greenland.html)
+- [Ask HN: What would you preserve if the internet were to go down tomorrow?](https://news.ycombinator.com/item?id=42030832)
+- [Replayed reef sounds induce settlement of Favia fragum coral larvae](https://pubs.aip.org/asa/jel/article/4/10/107701/3317630/Replayed-reef-sounds-induce-settlement-of-Favia)
+- [Swapped at birth: two women discovered they weren&#39;t who they thought they were](https://www.bbc.com/news/articles/cp3njqd9nl9o)
+- [Tossed Salads and Scrumbled Eggs](https://ludic.mataroa.blog/blog/tossed-salads-and-scrumbled-eggs/)
+- [Show HN: Oasis Minecraft AI: AI-Generated Minecraft Adventure](https://oasisminecraftai.com)
+- [Jeopardy Game Using LLM and Python](https://github.com/kmarker1101/jeopardy)
+- [AI-Generated Minecraft in real time](https://oasis.decart.ai/welcome)
+- [Show HN: EventSnap – Place flyers on your calendar](https://apps.apple.com/us/app/event-snap/id6737088852)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

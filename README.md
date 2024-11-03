@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Okta – Username Above 52 Characters Security Advisory](https://trust.okta.com/security-advisories/okta-ad-ldap-delegated-authentication-username/)
-- [Direct Sockets API in Chrome 131](https://chromestatus.com/feature/6398297361088512)
-- [AMD Open-Source 1B OLMo Language Models](https://www.amd.com/en/developer/resources/technical-articles/introducing-the-first-amd-1b-language-model.html)
-- [Nvidia to join Dow Jones Industrial Average, replacing Intel](https://www.cnbc.com/2024/11/01/nvidia-to-join-dow-jones-industrial-average-replacing-intel.html)
-- [Sleep regularity is a stronger predictor of mortality risk than sleep duration](https://academic.oup.com/sleep/article/47/1/zsad253/7280269)
-- [Low-cost, portable device can detect colorectal and prostate cancer in an hour](https://medicalxpress.com/news/2024-10-portable-device-colorectal-prostate-cancer.html)
-- [Show HN: I Built a Rock, Paper, Scissors roguelike in React](https://xtremerps.com)
-- [Linux on Apple Silicon with Alyssa Rosenzweig [audio]](https://softwareengineeringdaily.com/2024/10/15/linux-apple-silicon-alyssa-rosenzweig/)
-- [Notepad++ is 21 years old](https://learnhub.top/celebrating-21-years-of-notepad-the-legendary-journey-of-our-favorite-text-editor/)
-- [The Shell Hater&#39;s Handbook &lpar;2010&rpar;](https://shellhaters.org/talk)
+- [Security flaws found in all Nvidia GeForce GPUs. Update drivers ASAP](https://www.pcworld.com/article/2504035/security-flaws-found-in-all-nvidia-geforce-gpus-update-drivers-asap.html)
+- [Sortledton: A Universal, Transactional Graph Data Structure [pdf]](https://www.vldb.org/pvldb/vol15/p1173-fuchs.pdf)
+- [Spann: Highly-Efficient Billion-Scale Approximate Nearest Neighbor Search &lpar;2021&rpar;](https://arxiv.org/abs/2111.08566)
+- [Next Generation Out of Band Garbage Collection](https://railsatscale.com/2024-10-23-next-generation-oob-gc/)
+- [The Language of Faces](https://domofutu.substack.com/p/the-language-of-faces)
+- [Eighty Years of the Finite Element Method &lpar;2022&rpar;](https://link.springer.com/article/10.1007/s11831-022-09740-9)
+- [Static Basic Block Versioning](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2024.28)
+- [Show HN: A minimalist &lpar;brutalist?&rpar; website for sharing all your links](https://lynx.boo)
+- [Britain&#39;s postwar sugar craze confirms harms of sweet diets in early life](https://www.science.org/content/article/britain-s-postwar-sugar-craze-confirms-harms-sweet-diets-early-life)
+- [Ring-Based Mid-Air Gesture Typing System Using Deep Learning Word Prediction](https://arxiv.org/abs/2410.18100)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

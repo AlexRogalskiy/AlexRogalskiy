@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Security flaws found in all Nvidia GeForce GPUs. Update drivers ASAP](https://www.pcworld.com/article/2504035/security-flaws-found-in-all-nvidia-geforce-gpus-update-drivers-asap.html)
-- [Sortledton: A Universal, Transactional Graph Data Structure [pdf]](https://www.vldb.org/pvldb/vol15/p1173-fuchs.pdf)
-- [Spann: Highly-Efficient Billion-Scale Approximate Nearest Neighbor Search &lpar;2021&rpar;](https://arxiv.org/abs/2111.08566)
-- [Next Generation Out of Band Garbage Collection](https://railsatscale.com/2024-10-23-next-generation-oob-gc/)
-- [The Language of Faces](https://domofutu.substack.com/p/the-language-of-faces)
-- [Eighty Years of the Finite Element Method &lpar;2022&rpar;](https://link.springer.com/article/10.1007/s11831-022-09740-9)
-- [Static Basic Block Versioning](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2024.28)
-- [Show HN: A minimalist &lpar;brutalist?&rpar; website for sharing all your links](https://lynx.boo)
-- [Britain&#39;s postwar sugar craze confirms harms of sweet diets in early life](https://www.science.org/content/article/britain-s-postwar-sugar-craze-confirms-harms-sweet-diets-early-life)
-- [Ring-Based Mid-Air Gesture Typing System Using Deep Learning Word Prediction](https://arxiv.org/abs/2410.18100)
+- [Scientists glue two proteins together, driving cancer cells to self-destruct](https://med.stanford.edu/news/all-news/2024/10/protein-cancer.html)
+- [Reasonable Person Principle](https://www.cs.cmu.edu/~weigand/staff/)
+- [Building My Resume in HTML Using Eleventy](https://michaelengen.com/posts/my-eleventy-resume/)
+- [Hertz-dev, the first open-source base model for conversational audio](https://si.inc/hertz-dev/)
+- [HardenedBSD Feature Comparison with OpenBSD, FreeBSD, NetBSD](https://hardenedbsd.org/content/easy-feature-comparison)
+- [Wasp Flamethrower Drone Attachment](https://throwflame.com/products/flamethrower-drone-kit/)
+- [Why systemd is a problem for embedded Linux](https://kevinboone.me/systemd_embedded.html)
+- [Do you need Redis? PostgreSQL does queuing, locking, and pub/sub](https://spin.atomicobject.com/redis-postgresql/)
+- [Show HN: Tinder, but to Decide What to Eat](https://whatdinner.com/)
+- [Hacker News Data Map [180MB]](https://lmcinnes.github.io/datamapplot_examples/hackernews/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [VSCode high CPU usage issue affecting macOS](https://github.com/microsoft/vscode/issues/232699)
-- [Large meltwater accumulation revealed inside Greenland Ice Sheet](https://phys.org/news/2024-10-large-meltwater-accumulation-revealed-greenland.html)
-- [Ask HN: What would you preserve if the internet were to go down tomorrow?](https://news.ycombinator.com/item?id=42030832)
-- [Replayed reef sounds induce settlement of Favia fragum coral larvae](https://pubs.aip.org/asa/jel/article/4/10/107701/3317630/Replayed-reef-sounds-induce-settlement-of-Favia)
-- [Swapped at birth: two women discovered they weren&#39;t who they thought they were](https://www.bbc.com/news/articles/cp3njqd9nl9o)
-- [Tossed Salads and Scrumbled Eggs](https://ludic.mataroa.blog/blog/tossed-salads-and-scrumbled-eggs/)
-- [Show HN: Oasis Minecraft AI: AI-Generated Minecraft Adventure](https://oasisminecraftai.com)
-- [Jeopardy Game Using LLM and Python](https://github.com/kmarker1101/jeopardy)
-- [AI-Generated Minecraft in real time](https://oasis.decart.ai/welcome)
-- [Show HN: EventSnap – Place flyers on your calendar](https://apps.apple.com/us/app/event-snap/id6737088852)
+- [A growing body of data is debunking myths about remote work](https://thehill.com/opinion/technology/4747313-remote-work-benefits-meta-analysis/)
+- [The Saga of a Celebrated Scientist – and His Rodent Dystopia](https://www.chronicle.com/article/the-saga-of-a-celebrated-scientist-and-his-rodent-dystopia)
+- [Inkle blog – ink version 1.0 release](https://www.inklestudios.com/2021/02/22/ink-version-1.html)
+- [Life evolves. So do minerals. How about everything else?](https://www.science.org/content/article/life-evolves-so-do-minerals-how-about-everything-else)
+- [No wait, of course THAT is the single most important SaaS metric](https://longform.asmartbear.com/saas-metric/)
+- [Portrait of Alan Turing Made by an A.I.-Powered Robot Could Sell for Up to $180k](https://www.smithsonianmag.com/smart-news/a-portrait-of-alan-turing-made-by-an-ai-powered-robot-could-sell-for-up-to-180000-180985356/)
+- [Show HN: Leftwrite the AI Co-Writer](https://leftwrite.xyz/)
+- [Some Final Personal-Finance Advice from Jonathan Clements](https://www.wsj.com/personal-finance/jonathan-clements-personal-finance-cancer-e30d1396)
+- [Why it costs India so little to reach the Moon and Mars](https://www.bbc.com/news/articles/cn9xlgnnpzvo)
+- [Think first about what problem this is solving and for whom &lpar;2021&rpar;](https://letterstoanewdeveloper.com/2021/01/18/think-first-about-what-problem-this-is-solving-and-for-whom/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

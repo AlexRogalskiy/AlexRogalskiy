@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine war briefing: Kyiv and Moscow trade accusations over stalled PoW exchanges](https://www.theguardian.com/world/2024/nov/03/ukraine-war-briefing-kyiv-and-moscow-trade-accusations-over-stalled-pow-exchanges)
-- [Harris grabs unexpected last-minute lead over Trump in Iowa poll](https://www.theguardian.com/us-news/2024/nov/02/harris-unexpected-lead-over-trump-iowa-selzer-poll)
-- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2024/nov/02/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [City of Troy pays price for slow start in Breeders’ Cup Classic](https://www.theguardian.com/sport/2024/nov/02/city-of-troy-pays-price-for-slow-start-in-breeders-cup-classic)
-- [Boy, 14, charged with attempted murder after stabbing of girl, 13, near Hull](https://www.theguardian.com/uk-news/2024/nov/02/boy-14-charged-with-attempted-after-multiple-stabbing-of-girl-13-near-hull)
-- [Liam Livingstone onslaught helps England level West Indies ODI series](https://www.theguardian.com/sport/2024/nov/02/liam-livingstone-onslaught-gives-england-thrilling-win-over-west-indies)
-- [Spain floods: 10,000 troops and police drafted in to deal with disaster](https://www.theguardian.com/world/2024/nov/02/spain-floods-disaster-5000-more-troops-drafted-in-to-deal-with-aftermath)
-- [Police ask prosecutors to consider charging Russell Brand over sex assault claims](https://www.theguardian.com/culture/2024/nov/02/police-ask-prosecutors-to-consider-charging-russell-brand-over-sex-assault-claims)
-- [Drugs and weapons seized in sweep of jail where Sean ‘Diddy’ Combs is held](https://www.theguardian.com/us-news/2024/nov/02/drug-weapon-sweep-brooklyn-jail-sean-diddy-combs)
-- [New Yorkers urged to conserve water after driest October in 150 years](https://www.theguardian.com/us-news/2024/nov/02/new-york-water-shortage)
+- [Trump touts health role for RFK Jr after former candidate promises to ‘remove fluoride’ from water – live updates](https://www.theguardian.com/us-news/live/2024/nov/03/donald-trump-kamala-harris-iowa-poll-us-presidential-election-live)
+- [Rodrigo Duterte’s ‘war on drugs’ in the Philippines – explained in 30 seconds](https://www.theguardian.com/world/2024/nov/04/rodrigo-dutertes-war-on-drugs-in-the-philippines-explained-in-30-seconds-ntwnfb)
+- [Ukraine war briefing: UN chief ‘very concerned’ about reports of North Korean troops in Russia](https://www.theguardian.com/world/2024/nov/04/ukraine-war-briefing-un-chief-very-concerned-about-reports-of-north-korean-troops-in-russia)
+- [Mothers to take DWP to court over ‘inhumane’ benefit rules on non-consensual conception](https://www.theguardian.com/society/2024/nov/04/mothers-to-take-department-for-work-and-pensions-to-court-over-inhumane-benefit-rules-on-non-consensual-conception)
+- [New BBC chair to say ‘fight is on’ for future of UK programme-making](https://www.theguardian.com/media/2024/nov/04/new-bbc-chair-samir-shah-to-say-fight-is-on-for-future-of-uk-programme-making)
+- [New NHS campaign urges people to call 999 at first sign of stroke](https://www.theguardian.com/society/2024/nov/04/new-nhs-campaign-urges-people-to-call-999-at-first-sign-of-stroke)
+- [More than 50 people have UK driving licences with at least 30 points on them](https://www.theguardian.com/money/2024/nov/04/more-than-50-people-have-uk-driving-licences-with-at-least-30-points-on-them)
+- [‘We are locked and loaded’: Trump fans in North Carolina ready for a ‘stolen election’](https://www.theguardian.com/us-news/2024/nov/03/trump-supporters-election-results)
+- [James Van Der Beek, Dawson’s Creek actor, diagnosed with bowel cancer](https://www.theguardian.com/tv-and-radio/2024/nov/04/james-van-der-beek-bowel-cancer-dawsons-creek-actor)
+- [Maia Sandu wins second term in Moldovan election in rebuke to Kremlin](https://www.theguardian.com/world/2024/nov/03/moldovans-vote-in-presidential-runoff-amid-claims-of-russian-interference)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

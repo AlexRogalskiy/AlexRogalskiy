@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Scientists glue two proteins together, driving cancer cells to self-destruct](https://med.stanford.edu/news/all-news/2024/10/protein-cancer.html)
-- [Reasonable Person Principle](https://www.cs.cmu.edu/~weigand/staff/)
-- [Building My Resume in HTML Using Eleventy](https://michaelengen.com/posts/my-eleventy-resume/)
-- [Hertz-dev, the first open-source base model for conversational audio](https://si.inc/hertz-dev/)
-- [HardenedBSD Feature Comparison with OpenBSD, FreeBSD, NetBSD](https://hardenedbsd.org/content/easy-feature-comparison)
-- [Wasp Flamethrower Drone Attachment](https://throwflame.com/products/flamethrower-drone-kit/)
-- [Why systemd is a problem for embedded Linux](https://kevinboone.me/systemd_embedded.html)
-- [Do you need Redis? PostgreSQL does queuing, locking, and pub/sub](https://spin.atomicobject.com/redis-postgresql/)
-- [Show HN: Tinder, but to Decide What to Eat](https://whatdinner.com/)
-- [Hacker News Data Map [180MB]](https://lmcinnes.github.io/datamapplot_examples/hackernews/)
+- [Nvidia and its partners built a sophisticated system to bypass U.S. restrictions](https://twitter.com/kakashiii111/status/1853433531260649532)
+- [Meta Permits Its A.I. Models to Be Used for U.S. Military Purposes](https://www.nytimes.com/2024/11/04/technology/meta-ai-military.html)
+- [Pagination widows, or, Why I&#39;m embarrassed about my eBook](https://clagnut.com/blog/2426)
+- [Aldebaran 1959 Spacecraft Concept &lpar;2010&rpar;](https://armaghplanet.com/the-amazing-aldebaran-spacecraft.html)
+- [US Forest Service decision to halt prescribed burns in ca is history repeating](https://cepr.net/us-forest-service-decision-to-halt-prescribed-burns-in-california-is-history-repeating/)
+- [Albertsons kills rural grocers with land use restrictions](https://www.thebignewsletter.com/p/how-albertsons-kills-rural-grocers)
+- [Machines of Loving Grace](https://www.clunyjournal.com/p/machines-of-loving-grace)
+- [Blog Writing for Developers &lpar;2023&rpar;](https://rmoff.net/2023/07/19/blog-writing-for-developers/)
+- [Diagrams · Diagram as Code](https://diagrams.mingrammer.com/)
+- [Designing a Home Radio Telescope for 21 Cm Emission](https://arxiv.org/abs/2411.00057)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

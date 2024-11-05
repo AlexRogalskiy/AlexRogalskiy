@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [A growing body of data is debunking myths about remote work](https://thehill.com/opinion/technology/4747313-remote-work-benefits-meta-analysis/)
-- [The Saga of a Celebrated Scientist – and His Rodent Dystopia](https://www.chronicle.com/article/the-saga-of-a-celebrated-scientist-and-his-rodent-dystopia)
-- [Inkle blog – ink version 1.0 release](https://www.inklestudios.com/2021/02/22/ink-version-1.html)
-- [Life evolves. So do minerals. How about everything else?](https://www.science.org/content/article/life-evolves-so-do-minerals-how-about-everything-else)
-- [No wait, of course THAT is the single most important SaaS metric](https://longform.asmartbear.com/saas-metric/)
-- [Portrait of Alan Turing Made by an A.I.-Powered Robot Could Sell for Up to $180k](https://www.smithsonianmag.com/smart-news/a-portrait-of-alan-turing-made-by-an-ai-powered-robot-could-sell-for-up-to-180000-180985356/)
-- [Show HN: Leftwrite the AI Co-Writer](https://leftwrite.xyz/)
-- [Some Final Personal-Finance Advice from Jonathan Clements](https://www.wsj.com/personal-finance/jonathan-clements-personal-finance-cancer-e30d1396)
-- [Why it costs India so little to reach the Moon and Mars](https://www.bbc.com/news/articles/cn9xlgnnpzvo)
-- [Think first about what problem this is solving and for whom &lpar;2021&rpar;](https://letterstoanewdeveloper.com/2021/01/18/think-first-about-what-problem-this-is-solving-and-for-whom/)
+- [Gladiators in ancient Anatolia lived to entertain the masses](https://archaeology.org/issues/november-december-2024/features/let-the-games-begin/)
+- [19th-Century &#39;Toy Book&#39; Used Science to Prove That Ghosts Were an Illusion](https://www.smithsonianmag.com/history/this-19th-century-toy-book-used-science-to-prove-that-ghosts-were-simply-an-illusion-180985347/)
+- [AMD64 Architecture Programmer&#39;s Manual Volumes 1–5 [pdf]](https://www.amd.com/content/dam/amd/en/documents/processor-tech-docs/programmer-references/40332.pdf)
+- [Automated reasoning often makes systems more efficient and easier to maintain](https://aws.amazon.com/blogs/security/an-unexpected-discovery-automated-reasoning-often-makes-systems-more-efficient-and-easier-to-maintain/)
+- [Nvidia and its partners built a sophisticated system to bypass U.S. restrictions](https://twitter.com/kakashiii111/status/1853433531260649532)
+- [Ask HN: How much money do you spend each month?](https://news.ycombinator.com/item?id=42048054)
+- [How a Mumbai Drugmaker Is Helping Putin Get Nvidia AI Chips](https://www.bloomberg.com/news/features/2024-10-27/russia-is-getting-nvidia-ai-chips-from-an-indian-pharma-company)
+- [Show HN: ClickHouse on Pandas Dataframe](https://auxten.com/clickhouse-on-pandas-dataframe)
+- [Samsung to cut 30% of foundry staff, plan 50% line closure by year-end](https://www.digitimes.com/news/a20241104VL202/samsung-staff.html)
+- [Text Embedding Benchmark &lpar;2022&rpar;](https://arxiv.org/abs/2210.07316)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

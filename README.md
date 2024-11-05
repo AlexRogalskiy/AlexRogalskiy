@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Trump touts health role for RFK Jr after former candidate promises to ‘remove fluoride’ from water – live updates](https://www.theguardian.com/us-news/live/2024/nov/03/donald-trump-kamala-harris-iowa-poll-us-presidential-election-live)
-- [Rodrigo Duterte’s ‘war on drugs’ in the Philippines – explained in 30 seconds](https://www.theguardian.com/world/2024/nov/04/rodrigo-dutertes-war-on-drugs-in-the-philippines-explained-in-30-seconds-ntwnfb)
-- [Ukraine war briefing: UN chief ‘very concerned’ about reports of North Korean troops in Russia](https://www.theguardian.com/world/2024/nov/04/ukraine-war-briefing-un-chief-very-concerned-about-reports-of-north-korean-troops-in-russia)
-- [Mothers to take DWP to court over ‘inhumane’ benefit rules on non-consensual conception](https://www.theguardian.com/society/2024/nov/04/mothers-to-take-department-for-work-and-pensions-to-court-over-inhumane-benefit-rules-on-non-consensual-conception)
-- [New BBC chair to say ‘fight is on’ for future of UK programme-making](https://www.theguardian.com/media/2024/nov/04/new-bbc-chair-samir-shah-to-say-fight-is-on-for-future-of-uk-programme-making)
-- [New NHS campaign urges people to call 999 at first sign of stroke](https://www.theguardian.com/society/2024/nov/04/new-nhs-campaign-urges-people-to-call-999-at-first-sign-of-stroke)
-- [More than 50 people have UK driving licences with at least 30 points on them](https://www.theguardian.com/money/2024/nov/04/more-than-50-people-have-uk-driving-licences-with-at-least-30-points-on-them)
-- [‘We are locked and loaded’: Trump fans in North Carolina ready for a ‘stolen election’](https://www.theguardian.com/us-news/2024/nov/03/trump-supporters-election-results)
-- [James Van Der Beek, Dawson’s Creek actor, diagnosed with bowel cancer](https://www.theguardian.com/tv-and-radio/2024/nov/04/james-van-der-beek-bowel-cancer-dawsons-creek-actor)
-- [Maia Sandu wins second term in Moldovan election in rebuke to Kremlin](https://www.theguardian.com/world/2024/nov/03/moldovans-vote-in-presidential-runoff-amid-claims-of-russian-interference)
+- [US election live updates: Harris and Trump hold duelling Pittsburgh rallies in final hours of campaigning](https://www.theguardian.com/us-news/live/2024/nov/04/donald-trump-kamala-harris-us-election-polls-latest-live-news)
+- [The Palace review – this burlesque thriller about secret twins could really do with Lindsay Lohan](https://www.theguardian.com/tv-and-radio/2024/nov/05/the-palace-review-this-burlesque-thriller-about-secret-twins-could-really-do-with-lindsay-lohan)
+- [North Korea tells UN it is speeding up nuclear weapons programme](https://www.theguardian.com/world/2024/nov/04/north-korea-tells-un-it-is-speeding-up-nuclear-weapons-programme)
+- [Inexperienced, poorly trained and underfed: the North Korean troops heading to Ukraine](https://www.theguardian.com/world/2024/nov/05/north-korea-troops-russia-ukraine-war-kim-jong-un-putin)
+- [Injury forces dancer Amy Dowden to leave this year’s Strictly](https://www.theguardian.com/tv-and-radio/2024/nov/04/injury-forces-dancer-amy-dowden-leave-strictly)
+- [Britain’s green energy pledge ‘credible’ if planning fixed, says system operator](https://www.theguardian.com/business/2024/nov/05/britain-green-energy-system-operator-neso-green-electricity)
+- [Smoking to be banned outside schools and hospitals, but pubs get reprieve](https://www.theguardian.com/society/2024/nov/05/smoking-to-be-banned-outside-schools-and-hospitals-but-pubs-get-reprieve)
+- [Picasso: Printmaker review – filthy fairytales of sex, death and the fascist abyss](https://www.theguardian.com/artanddesign/2024/nov/05/picasso-printmaker-review-british-museum-london-sex-death-fascist)
+- [UK retail sales growth slumps as shoppers wait for Black Friday deals](https://www.theguardian.com/business/2024/nov/05/uk-retail-sales-black-friday-deals-budget)
+- [Is your air fryer spying on you? Concerns over ‘excessive’ surveillance in smart devices](https://www.theguardian.com/technology/2024/nov/05/air-fryer-excessive-surveillance-smart-devices-which-watches-speakers-trackers)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

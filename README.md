@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Gladiators in ancient Anatolia lived to entertain the masses](https://archaeology.org/issues/november-december-2024/features/let-the-games-begin/)
-- [19th-Century &#39;Toy Book&#39; Used Science to Prove That Ghosts Were an Illusion](https://www.smithsonianmag.com/history/this-19th-century-toy-book-used-science-to-prove-that-ghosts-were-simply-an-illusion-180985347/)
-- [AMD64 Architecture Programmer&#39;s Manual Volumes 1–5 [pdf]](https://www.amd.com/content/dam/amd/en/documents/processor-tech-docs/programmer-references/40332.pdf)
-- [Automated reasoning often makes systems more efficient and easier to maintain](https://aws.amazon.com/blogs/security/an-unexpected-discovery-automated-reasoning-often-makes-systems-more-efficient-and-easier-to-maintain/)
-- [Nvidia and its partners built a sophisticated system to bypass U.S. restrictions](https://twitter.com/kakashiii111/status/1853433531260649532)
-- [Ask HN: How much money do you spend each month?](https://news.ycombinator.com/item?id=42048054)
-- [How a Mumbai Drugmaker Is Helping Putin Get Nvidia AI Chips](https://www.bloomberg.com/news/features/2024-10-27/russia-is-getting-nvidia-ai-chips-from-an-indian-pharma-company)
-- [Show HN: ClickHouse on Pandas Dataframe](https://auxten.com/clickhouse-on-pandas-dataframe)
-- [Samsung to cut 30% of foundry staff, plan 50% line closure by year-end](https://www.digitimes.com/news/a20241104VL202/samsung-staff.html)
-- [Text Embedding Benchmark &lpar;2022&rpar;](https://arxiv.org/abs/2210.07316)
+- [What you know that just ain&#39;t so](https://world.hey.com/dhh/what-you-know-that-just-ain-t-so-ab6f4bb1)
+- [X Is a White-Supremacist Site](https://www.theatlantic.com/technology/archive/2024/11/x-white-supremacist-site/680538/)
+- [Musk and X are epicenter of US election misinformation, experts say](https://www.reuters.com/world/us/wrong-claims-by-musk-us-election-got-2-billion-views-x-2024-report-says-2024-11-04/)
+- [Indonesia banned iPhone 16 and Google Pixel smartphones for breaking govt rules](https://timesofindia.indiatimes.com/technology/tech-news/indonesia-has-banned-iphone-16-series-and-google-pixel-smartphones-for-breaking-this-government-rule/articleshow/114973682.cms)
+- [Show HN: I made a site to generate consistent text every time with AI](https://sloap.co/)
+- [Ask HN: Teaching the &quot;magic&quot; of software development to 3rd graders?](https://news.ycombinator.com/item?id=42056775)
+- [Histneur-L the History of Neuroscience Internet Forum](https://web.archive.org/web/20210613151057/http://www.bri.ucla.edu/nha/histneur.htm#expand)
+- [MOATs Aren&#39;t Useful](https://rohan.ga/blog/moats/)
+- [A Rust Take on Bsdiff](https://github.com/divvun/bidiff)
+- [Graph Neural Networks for Predicting Material Properties](https://synthical.com/article/Graph-Neural-Networks-Based-Deep-Learning-for-Predicting-Structural-and-Electronic-Properties-3edeca76-a38b-4cff-b58a-704b2a1ec7b9)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [US election live updates: Harris and Trump hold duelling Pittsburgh rallies in final hours of campaigning](https://www.theguardian.com/us-news/live/2024/nov/04/donald-trump-kamala-harris-us-election-polls-latest-live-news)
-- [The Palace review – this burlesque thriller about secret twins could really do with Lindsay Lohan](https://www.theguardian.com/tv-and-radio/2024/nov/05/the-palace-review-this-burlesque-thriller-about-secret-twins-could-really-do-with-lindsay-lohan)
-- [North Korea tells UN it is speeding up nuclear weapons programme](https://www.theguardian.com/world/2024/nov/04/north-korea-tells-un-it-is-speeding-up-nuclear-weapons-programme)
-- [Inexperienced, poorly trained and underfed: the North Korean troops heading to Ukraine](https://www.theguardian.com/world/2024/nov/05/north-korea-troops-russia-ukraine-war-kim-jong-un-putin)
-- [Injury forces dancer Amy Dowden to leave this year’s Strictly](https://www.theguardian.com/tv-and-radio/2024/nov/04/injury-forces-dancer-amy-dowden-leave-strictly)
-- [Britain’s green energy pledge ‘credible’ if planning fixed, says system operator](https://www.theguardian.com/business/2024/nov/05/britain-green-energy-system-operator-neso-green-electricity)
-- [Smoking to be banned outside schools and hospitals, but pubs get reprieve](https://www.theguardian.com/society/2024/nov/05/smoking-to-be-banned-outside-schools-and-hospitals-but-pubs-get-reprieve)
-- [Picasso: Printmaker review – filthy fairytales of sex, death and the fascist abyss](https://www.theguardian.com/artanddesign/2024/nov/05/picasso-printmaker-review-british-museum-london-sex-death-fascist)
-- [UK retail sales growth slumps as shoppers wait for Black Friday deals](https://www.theguardian.com/business/2024/nov/05/uk-retail-sales-black-friday-deals-budget)
-- [Is your air fryer spying on you? Concerns over ‘excessive’ surveillance in smart devices](https://www.theguardian.com/technology/2024/nov/05/air-fryer-excessive-surveillance-smart-devices-which-watches-speakers-trackers)
+- [Florida rejects abortion rights measure as results in nine states still to come](https://www.theguardian.com/us-news/ng-interactive/2024/nov/05/abortion-ballot-results-tracker-ban-states)
+- [US election 2024 live: most swing state polls closed as Harris and Trump pick up big electoral wins with New York and Texas](https://www.theguardian.com/us-news/live/2024/nov/05/presidential-election-harris-trump-polls-results-live-updates)
+- [US election guide: how to watch like an expert](https://www.theguardian.com/us-news/2024/nov/05/presidential-election-night-guide-time-watch)
+- [Red or blue? The bellwether counties that could swing the US election](https://www.theguardian.com/us-news/2024/nov/05/election-swing-state-counties)
+- [Everybody gets a sticker: Americans cast ballots in nail-biter election – in pictures](https://www.theguardian.com/us-news/gallery/2024/nov/05/election-i-voted-stickers-voting)
+- [Benjamin Netanyahu fires defence minister Yoav Gallant, triggering protests across Israel](https://www.theguardian.com/world/2024/nov/05/benjamin-netanyahu-fires-israeli-defence-minister-yoav-gallant)
+- [Trump Media posts heavy losses in surprise election-night earnings report](https://www.theguardian.com/business/2024/nov/05/trump-media-truth-social-stock-election-day)
+- [Ukraine war briefing: First clash with North Korean troops, say Ukrainian officials](https://www.theguardian.com/world/2024/nov/06/ukraine-war-briefing-first-clash-with-north-korean-troops-say-ukrainian-officials)
+- [US Senate, House and governor elections 2024: results from all 50 states](https://www.theguardian.com/us-news/ng-interactive/2024/nov/05/us-senate-house-and-governor-elections-2024-results-from-all-50-states)
+- [Kokila Annamalai, the first activist in Singapore to defy its ‘stifling’ online speech laws](https://www.theguardian.com/world/2024/nov/06/kokila-annamalai-singapore-activist-online-speech-laws-pofma-ntwnfb)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

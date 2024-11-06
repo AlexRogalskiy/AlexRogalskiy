@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Nvidia and its partners built a sophisticated system to bypass U.S. restrictions](https://twitter.com/kakashiii111/status/1853433531260649532)
-- [Meta Permits Its A.I. Models to Be Used for U.S. Military Purposes](https://www.nytimes.com/2024/11/04/technology/meta-ai-military.html)
-- [Pagination widows, or, Why I&#39;m embarrassed about my eBook](https://clagnut.com/blog/2426)
-- [Aldebaran 1959 Spacecraft Concept &lpar;2010&rpar;](https://armaghplanet.com/the-amazing-aldebaran-spacecraft.html)
-- [US Forest Service decision to halt prescribed burns in ca is history repeating](https://cepr.net/us-forest-service-decision-to-halt-prescribed-burns-in-california-is-history-repeating/)
-- [Albertsons kills rural grocers with land use restrictions](https://www.thebignewsletter.com/p/how-albertsons-kills-rural-grocers)
-- [Machines of Loving Grace](https://www.clunyjournal.com/p/machines-of-loving-grace)
-- [Blog Writing for Developers &lpar;2023&rpar;](https://rmoff.net/2023/07/19/blog-writing-for-developers/)
-- [Diagrams · Diagram as Code](https://diagrams.mingrammer.com/)
-- [Designing a Home Radio Telescope for 21 Cm Emission](https://arxiv.org/abs/2411.00057)
+- [The Spiral of Wrath: The crash of Armavia flight 967](https://admiralcloudberg.medium.com/the-spiral-of-wrath-the-crash-of-armavia-flight-967-c7d84541f0f7)
+- [The Antitrust Revolution](https://harpers.org/archive/2024/10/the-antitrust-revolution-big-tech-barry-c-lynn/)
+- [Only 5.3% of US welders are women. After years as a professor, I became one](https://theconversation.com/only-5-3-of-welders-in-the-us-are-women-after-years-as-a-writing-professor-i-became-one-heres-what-i-learned-240431)
+- [More Oracle Layoffs Started Nov. 1, Cloud Unit Impacted](https://www.channelfutures.com/channel-business/more-oracle-layoffs-started-nov-1-cloud-unit-impacted#)
+- [Show HN: Firecrawl-Simple – Stable fork of Firecrawl optimized for self-hosting](https://github.com/devflowinc/firecrawl-simple)
+- [Mozilla is eliminating its advocacy division](https://www.theverge.com/2024/11/5/24289124/mozilla-foundation-layoffs-advocacy-global-programs)
+- [Pm-AMM: A Uniform Automated Market Maker for Prediction Markets](https://www.paradigm.xyz/2024/11/pm-amm)
+- [Unix Programmer&#39;s Manual Third Edition [pdf] &lpar;1973&rpar;](https://dspinellis.github.io/unix-v3man/v3man.pdf)
+- [Tracking down a mysterious skateboarder from 1979](https://www.ncrabbithole.com/p/tony-hawk-fayetteville-nc-girl-skateboarder-1979)
+- [The Eternal Mainframe &lpar;2013&rpar;](https://www.winestockwebdesign.com/Essays/Eternal_Mainframe.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Florida rejects abortion rights measure as results in nine states still to come](https://www.theguardian.com/us-news/ng-interactive/2024/nov/05/abortion-ballot-results-tracker-ban-states)
-- [US election 2024 live: most swing state polls closed as Harris and Trump pick up big electoral wins with New York and Texas](https://www.theguardian.com/us-news/live/2024/nov/05/presidential-election-harris-trump-polls-results-live-updates)
-- [US election guide: how to watch like an expert](https://www.theguardian.com/us-news/2024/nov/05/presidential-election-night-guide-time-watch)
-- [Red or blue? The bellwether counties that could swing the US election](https://www.theguardian.com/us-news/2024/nov/05/election-swing-state-counties)
-- [Everybody gets a sticker: Americans cast ballots in nail-biter election – in pictures](https://www.theguardian.com/us-news/gallery/2024/nov/05/election-i-voted-stickers-voting)
-- [Benjamin Netanyahu fires defence minister Yoav Gallant, triggering protests across Israel](https://www.theguardian.com/world/2024/nov/05/benjamin-netanyahu-fires-israeli-defence-minister-yoav-gallant)
-- [Trump Media posts heavy losses in surprise election-night earnings report](https://www.theguardian.com/business/2024/nov/05/trump-media-truth-social-stock-election-day)
-- [Ukraine war briefing: First clash with North Korean troops, say Ukrainian officials](https://www.theguardian.com/world/2024/nov/06/ukraine-war-briefing-first-clash-with-north-korean-troops-say-ukrainian-officials)
-- [US Senate, House and governor elections 2024: results from all 50 states](https://www.theguardian.com/us-news/ng-interactive/2024/nov/05/us-senate-house-and-governor-elections-2024-results-from-all-50-states)
-- [Kokila Annamalai, the first activist in Singapore to defy its ‘stifling’ online speech laws](https://www.theguardian.com/world/2024/nov/06/kokila-annamalai-singapore-activist-online-speech-laws-pofma-ntwnfb)
+- [US election live: Kamala Harris says ‘do not despair’ in concession speech; Republicans outline ‘first 100 days’ of Trump presidency](https://www.theguardian.com/us-news/live/2024/nov/06/us-presidential-election-2024-donald-trump-kamala-harris-latest-news-updates)
+- [West Indies crush new-look England in third ODI to seal series victory](https://www.theguardian.com/sport/2024/nov/07/england-vs-west-indies-odi-one-day-cricket-results-scores-match-report)
+- [Californians forced to flee as ferocious wildfires destroy homes and buildings](https://www.theguardian.com/us-news/2024/nov/06/california-wildfire-risk-santa-ana-winds)
+- [Australia’s US ambassador Kevin Rudd deletes posts criticising ‘destructive’ Trump after election win](https://www.theguardian.com/australia-news/2024/nov/07/australia-us-ambassador-kevin-rudd-deletes-posts-criticising-trump-after-election-win)
+- [Why is a bill looking at New Zealand’s founding document causing major upset among Māori?](https://www.theguardian.com/world/2024/nov/07/treaty-of-waitangi-new-zealand-founding-document-changes-bill)
+- [Ukraine war briefing: Biden plans military aid surge from billions still available, say reports](https://www.theguardian.com/world/2024/nov/07/ukraine-war-briefing-biden-plans-military-aid-surge-from-billions-still-available-say-reports)
+- [Democrats confront fact that Trump’s dark vision prevailed as result sinks in](https://www.theguardian.com/us-news/2024/nov/06/election-results-trump-presidency-win)
+- [Australia to legislate social media age limit of 16 – but can’t say how platforms will enforce it](https://www.theguardian.com/australia-news/2024/nov/07/australian-government-to-legislate-social-media-age-limit-of-16-but-cant-say-how-platforms-will-enforce-it)
+- [HRT should be offered as first-line treatment for menopause, says Nice](https://www.theguardian.com/society/2024/nov/07/hrt-should-be-offered-as-first-line-treatment-for-menopause-says-nice)
+- [The Curious Case of Benjamin Button review – warm and winsome musical tugs at the heartstrings](https://www.theguardian.com/stage/2024/nov/07/the-curious-case-of-benjamin-button-review-musical-ambassadors-theatre)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

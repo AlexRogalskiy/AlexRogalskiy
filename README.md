@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The Spiral of Wrath: The crash of Armavia flight 967](https://admiralcloudberg.medium.com/the-spiral-of-wrath-the-crash-of-armavia-flight-967-c7d84541f0f7)
-- [The Antitrust Revolution](https://harpers.org/archive/2024/10/the-antitrust-revolution-big-tech-barry-c-lynn/)
-- [Only 5.3% of US welders are women. After years as a professor, I became one](https://theconversation.com/only-5-3-of-welders-in-the-us-are-women-after-years-as-a-writing-professor-i-became-one-heres-what-i-learned-240431)
-- [More Oracle Layoffs Started Nov. 1, Cloud Unit Impacted](https://www.channelfutures.com/channel-business/more-oracle-layoffs-started-nov-1-cloud-unit-impacted#)
-- [Show HN: Firecrawl-Simple – Stable fork of Firecrawl optimized for self-hosting](https://github.com/devflowinc/firecrawl-simple)
-- [Mozilla is eliminating its advocacy division](https://www.theverge.com/2024/11/5/24289124/mozilla-foundation-layoffs-advocacy-global-programs)
-- [Pm-AMM: A Uniform Automated Market Maker for Prediction Markets](https://www.paradigm.xyz/2024/11/pm-amm)
-- [Unix Programmer&#39;s Manual Third Edition [pdf] &lpar;1973&rpar;](https://dspinellis.github.io/unix-v3man/v3man.pdf)
-- [Tracking down a mysterious skateboarder from 1979](https://www.ncrabbithole.com/p/tony-hawk-fayetteville-nc-girl-skateboarder-1979)
-- [The Eternal Mainframe &lpar;2013&rpar;](https://www.winestockwebdesign.com/Essays/Eternal_Mainframe.html)
+- [Australia proposes ban on social media for those under 16](https://www.reuters.com/technology/cybersecurity/australia-proposes-ban-social-media-those-under-16-2024-11-06/)
+- [Trudeau government bans TikTok from operating in Canada](https://www.cbc.ca/news/politics/tiktok-canada-review-1.7375965)
+- [Sysadmin shock as Windows Server 2025 installs itself after labeling error](https://www.theregister.com/2024/11/06/windows_server_2025_surprise/)
+- [Visualizing binary files with ImHex&#39;s DSL, the &quot;pattern language&quot;](https://xy2i.blogspot.com/2024/11/using-imhexs-pattern-language-to-parse.html)
+- [Passport Photos](https://maxsiedentopf.com/passport-photos/)
+- [Exposure to phthalate compromises brain function in adult vertebrates](https://www.sciencedirect.com/science/article/pii/S0147651324012636)
+- [One year, 41M digits: How Luke Durant found the largest known prime number](https://www.washingtonpost.com/science/2024/10/23/nvidia-prime-mersenne-gpu-cloud/)
+- [Caring for yourself while caring for others](https://magazine.medlineplus.gov/article/caring-for-yourself-while-caring-for-others)
+- [WebSockets cost us $1M on our AWS bill](https://www.recall.ai/post/how-websockets-cost-us-1m-on-our-aws-bill)
+- [Physicists spot quantum tornadoes twirling in a &#39;supersolid&#39;](https://www.quantamagazine.org/physicists-spot-quantum-tornadoes-twirling-in-a-supersolid-20241106/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [US election live: Kamala Harris says ‘do not despair’ in concession speech; Republicans outline ‘first 100 days’ of Trump presidency](https://www.theguardian.com/us-news/live/2024/nov/06/us-presidential-election-2024-donald-trump-kamala-harris-latest-news-updates)
-- [West Indies crush new-look England in third ODI to seal series victory](https://www.theguardian.com/sport/2024/nov/07/england-vs-west-indies-odi-one-day-cricket-results-scores-match-report)
-- [Californians forced to flee as ferocious wildfires destroy homes and buildings](https://www.theguardian.com/us-news/2024/nov/06/california-wildfire-risk-santa-ana-winds)
-- [Australia’s US ambassador Kevin Rudd deletes posts criticising ‘destructive’ Trump after election win](https://www.theguardian.com/australia-news/2024/nov/07/australia-us-ambassador-kevin-rudd-deletes-posts-criticising-trump-after-election-win)
-- [Why is a bill looking at New Zealand’s founding document causing major upset among Māori?](https://www.theguardian.com/world/2024/nov/07/treaty-of-waitangi-new-zealand-founding-document-changes-bill)
-- [Ukraine war briefing: Biden plans military aid surge from billions still available, say reports](https://www.theguardian.com/world/2024/nov/07/ukraine-war-briefing-biden-plans-military-aid-surge-from-billions-still-available-say-reports)
-- [Democrats confront fact that Trump’s dark vision prevailed as result sinks in](https://www.theguardian.com/us-news/2024/nov/06/election-results-trump-presidency-win)
-- [Australia to legislate social media age limit of 16 – but can’t say how platforms will enforce it](https://www.theguardian.com/australia-news/2024/nov/07/australian-government-to-legislate-social-media-age-limit-of-16-but-cant-say-how-platforms-will-enforce-it)
-- [HRT should be offered as first-line treatment for menopause, says Nice](https://www.theguardian.com/society/2024/nov/07/hrt-should-be-offered-as-first-line-treatment-for-menopause-says-nice)
-- [The Curious Case of Benjamin Button review – warm and winsome musical tugs at the heartstrings](https://www.theguardian.com/stage/2024/nov/07/the-curious-case-of-benjamin-button-review-musical-ambassadors-theatre)
+- [Trump picks Susie Wiles as chief of staff in first major appointment; Putin commends Trump victory – US election live](https://www.theguardian.com/us-news/live/2024/nov/07/us-election-2024-live-updates-donald-trump-victory-kamala-harris)
+- [Ukraine war briefing: Biden administration confirms surge of military aid to Kyiv will continue](https://www.theguardian.com/world/2024/nov/08/ukraine-war-briefing-biden-administration-confirms-surge-of-military-aid-to-kyiv-will-continue)
+- [Chinese state television lionises Xi Jinping’s father in 39-part serialised drama](https://www.theguardian.com/world/2024/nov/08/time-in-the-northwest-xi-jinping-father-zhongxun-time-in-the-northwest-china)
+- [Tax unhealthy foods to tackle obesity, say campaigners](https://www.theguardian.com/society/2024/nov/08/tax-unhealthy-foods-obesity-health-children)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2024/nov/08/premier-league-10-things-to-look-out-for-this-weekend)
+- [Prince William describes ‘brutal’ impact of wife’s and father’s cancer diagnoses](https://www.theguardian.com/uk-news/2024/nov/07/prince-william-relives-brutal-year-after-wifes-and-fathers-cancer-diagnoses)
+- [Trump names campaign manager Susie Wiles as his White House chief of staff](https://www.theguardian.com/us-news/2024/nov/07/trump-susie-wiles-chief-of-staff)
+- [More than an hour of exercise a week may help with ‘baby blues’, says study](https://www.theguardian.com/society/2024/nov/07/more-than-an-hour-of-exercise-a-week-may-help-with-baby-blues-says-study)
+- [Boy, 16, charged with manslaughter after alleged gunpoint carjacking near Brisbane](https://www.theguardian.com/australia-news/2024/nov/08/boy-16-charged-manslaughter-murrumba-downs-crash-alleged-carjacking-qld-queensland-ntwnfb)
+- [I’m a ‘trad wife’ in a happy marriage. How can I get my friends to accept me for who I am? | Leading questions](https://www.theguardian.com/lifeandstyle/2024/nov/08/trad-wife-happy-marriage-friends-advice-column)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

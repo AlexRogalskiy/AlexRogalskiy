@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Australia proposes ban on social media for those under 16](https://www.reuters.com/technology/cybersecurity/australia-proposes-ban-social-media-those-under-16-2024-11-06/)
-- [Trudeau government bans TikTok from operating in Canada](https://www.cbc.ca/news/politics/tiktok-canada-review-1.7375965)
-- [Sysadmin shock as Windows Server 2025 installs itself after labeling error](https://www.theregister.com/2024/11/06/windows_server_2025_surprise/)
-- [Visualizing binary files with ImHex&#39;s DSL, the &quot;pattern language&quot;](https://xy2i.blogspot.com/2024/11/using-imhexs-pattern-language-to-parse.html)
-- [Passport Photos](https://maxsiedentopf.com/passport-photos/)
-- [Exposure to phthalate compromises brain function in adult vertebrates](https://www.sciencedirect.com/science/article/pii/S0147651324012636)
-- [One year, 41M digits: How Luke Durant found the largest known prime number](https://www.washingtonpost.com/science/2024/10/23/nvidia-prime-mersenne-gpu-cloud/)
-- [Caring for yourself while caring for others](https://magazine.medlineplus.gov/article/caring-for-yourself-while-caring-for-others)
-- [WebSockets cost us $1M on our AWS bill](https://www.recall.ai/post/how-websockets-cost-us-1m-on-our-aws-bill)
-- [Physicists spot quantum tornadoes twirling in a &#39;supersolid&#39;](https://www.quantamagazine.org/physicists-spot-quantum-tornadoes-twirling-in-a-supersolid-20241106/)
+- [iPhones Mysteriously Rebooting Themselves, Locking Cops Out](https://www.404media.co/police-freak-out-at-iphones-mysteriously-rebooting-themselves-locking-cops-out/)
+- [Ham Radio 101: What is WSPR?](https://www.onallbands.com/ham-radio-101-what-is-wspr/)
+- [Wild Ball](https://r3f-drei-rapier.surge.sh)
+- [Ambulance hits cyclist, rushes him to hospital, then sticks him with $1,800 bill](https://www.oregonlive.com/pacific-northwest-news/2024/11/ambulance-hits-oregon-cyclist-rushes-him-to-hospital-then-sticks-him-with-1800-bill-lawsuit-says.html)
+- [Toronto crypto company CEO kidnapped, held for $1M ransom before being released](https://www.cbc.ca/news/canada/toronto/kidnapping-toronto-businessman-cryptocurrency-1.7376679)
+- [Five minutes of exercise a day could lower blood pressure](https://www.sydney.edu.au/news-opinion/news/2024/11/07/five-minutes-of-exercise-a-day-could-lower-blood-pressure.html)
+- [Show HN: Draw.Audio – A musical sketchpad using the Web Audio API](https://draw.audio)
+- [Sustainable Web Interest Group Is Formed](https://www.w3.org/blog/2024/sustainable-web-interest-group-is-formed/)
+- [QNX is now free for anything non-commercial, plus there&#39;s an RPi image](https://blackberry.qnx.com/en/products/qnx-everywhere)
+- [Edge Scripting: Build and run applications at the edge](https://bunny.net/blog/introducing-bunny-edge-scripting-a-better-way-to-build-and-deploy-applications-at-the-edge/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

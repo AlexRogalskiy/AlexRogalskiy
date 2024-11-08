@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: TutoriaLLM – AI Integrated programming tutorials](https://github.com/TutoriaLLM/TutoriaLLM)
-- [Australia plans social media ban for under-16s](https://www.bbc.com/news/articles/c4gzd62g1r3o)
-- [Laravel Nightwatch: First-party application monitoring for Laravel](https://nightwatch.laravel.com/)
-- [Someone is attacking Tor and has been for a few weeks](https://twitter.com/Andrew___Morris/status/1854289771197329517)
-- [Gimp 3.2 Will Aim to Be Out Within One Year of Gimp 3.0](https://www.phoronix.com/news/GIMP-3.2-One-Year-Goal)
-- [The English Paradox: Four Decades of Life and Language in Japan](https://www.tokyodev.com/articles/the-english-paradox-four-decades-of-life-and-language-in-japan)
-- [Show HN: CLI to export Markdown to PDF using Jinja2 templates](https://github.com/andy-verstraeten/mdexport)
-- [Next-Gen Virtual Office App.Remote Work Reimagined](https://teracy.io/)
-- [Project 2025 Plan for Trump Presidency Has Far-Reaching Threats to Science](https://www.scientificamerican.com/article/project-2025-plan-for-trump-presidency-has-far-reaching-threats-to-science/)
-- [getopt&lpar;&rpar; but smaller](https://dotat.at/@/2024-11-06-getopt.html)
+- [Show HN: Beehive – AI Agent Orchestration](https://github.com/BeehiveHQ/beehive-ai)
+- [Is There a Crisis of Seriousness?](https://www.honest-broker.com/p/is-there-a-crisis-of-seriousness)
+- [Best Open Source LLM:Tencent Hunyuan-Large Outperforming Llama 3 and DeepSeek V2](https://techwavearena.com/best-open-source-llmtencent-hunyuan-large-the-389-billion-parameter-model-outperforming-llama-3-and-deepseek-v2/)
+- [RoguePuppet – A Critical Puppet Forge Supply Chain Vulnerability](https://adnanthekhan.com/2024/07/02/roguepuppet-a-critical-puppet-forge-supply-chain-vulnerability/)
+- [Ask HN: What&#39;s the state of the art in edge LLM AI?](https://news.ycombinator.com/item?id=42083465)
+- [Plans for Open Source Puppet in 2025](https://www.puppet.com/blog/open-source-puppet-updates-2025)
+- [What does it mean to &quot;look&quot; at a black hole?](https://www.newscientist.com/article/mg26435130-100-what-does-it-mean-to-look-at-a-black-hole/)
+- [States voted on minimum wage and paid leave](https://www.npr.org/2024/11/06/nx-s1-5179848/2024-election-minimum-wage-paid-sick-leave)
+- [Earth Will Exceed 1.5 Degrees Celsius of Warming This Year](https://www.scientificamerican.com/article/2024-will-be-the-first-year-to-exceed-the-1-5-degree-celsius-warming/)
+- [Startup Tamagotchi](https://startuptamagotchi.com/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

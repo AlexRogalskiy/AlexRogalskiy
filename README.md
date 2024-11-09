@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: Beehive – AI Agent Orchestration](https://github.com/BeehiveHQ/beehive-ai)
-- [Is There a Crisis of Seriousness?](https://www.honest-broker.com/p/is-there-a-crisis-of-seriousness)
-- [Best Open Source LLM:Tencent Hunyuan-Large Outperforming Llama 3 and DeepSeek V2](https://techwavearena.com/best-open-source-llmtencent-hunyuan-large-the-389-billion-parameter-model-outperforming-llama-3-and-deepseek-v2/)
-- [RoguePuppet – A Critical Puppet Forge Supply Chain Vulnerability](https://adnanthekhan.com/2024/07/02/roguepuppet-a-critical-puppet-forge-supply-chain-vulnerability/)
-- [Ask HN: What&#39;s the state of the art in edge LLM AI?](https://news.ycombinator.com/item?id=42083465)
-- [Plans for Open Source Puppet in 2025](https://www.puppet.com/blog/open-source-puppet-updates-2025)
-- [What does it mean to &quot;look&quot; at a black hole?](https://www.newscientist.com/article/mg26435130-100-what-does-it-mean-to-look-at-a-black-hole/)
-- [States voted on minimum wage and paid leave](https://www.npr.org/2024/11/06/nx-s1-5179848/2024-election-minimum-wage-paid-sick-leave)
-- [Earth Will Exceed 1.5 Degrees Celsius of Warming This Year](https://www.scientificamerican.com/article/2024-will-be-the-first-year-to-exceed-the-1-5-degree-celsius-warming/)
-- [Startup Tamagotchi](https://startuptamagotchi.com/)
+- [2024 M4 Mac Mini Teardown Full – SSD Removable [video]](https://www.youtube.com/watch?v=IO-SeqntnSc)
+- [Open data 3D point cloud of Tokyo](https://3dview.tokyo-digitaltwin.metro.tokyo.lg.jp/)
+- [Deltron 3030 – Virus [video]](https://www.youtube.com/watch?v=34k3GwQtbbs)
+- [Skynet is not where it should be](https://www.bbc.co.uk/news/articles/cpwrr58801yo)
+- [Why does everyone but me always have something to say?](https://www.quora.com/Why-does-everyone-but-me-always-have-something-to-say)
+- [Among unmarried adults, women without children have as much wealth as single men](https://www.pewresearch.org/short-reads/2024/11/04/among-unmarried-adults-women-without-children-have-as-much-wealth-as-single-men/)
+- [Celebrating the Life of Aaron Swartz: Aaron Swartz Day 2024](https://www.eff.org/deeplinks/2024/11/celebrating-life-aaron-swartz-aaron-swartz-day-2024)
+- [Sen. Elizabeth Warren: Here&#39;s the Plan to Fight Back](https://time.com/collection/time100-voices/7173801/elizabeth-warren-democrats-plan-after-2024-election/)
+- [Astronauts tight-lipped about reason for hospital visit after 235 days in space](https://www.theguardian.com/science/2024/nov/08/astronauts-hospital-nasa-international-space-station)
+- [Elasticsearch vs. Vespa Performance Comparison](https://blog.vespa.ai/elasticsearch-vs-vespa-performance-comparison/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

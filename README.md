@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [iPhones Mysteriously Rebooting Themselves, Locking Cops Out](https://www.404media.co/police-freak-out-at-iphones-mysteriously-rebooting-themselves-locking-cops-out/)
-- [Ham Radio 101: What is WSPR?](https://www.onallbands.com/ham-radio-101-what-is-wspr/)
-- [Wild Ball](https://r3f-drei-rapier.surge.sh)
-- [Ambulance hits cyclist, rushes him to hospital, then sticks him with $1,800 bill](https://www.oregonlive.com/pacific-northwest-news/2024/11/ambulance-hits-oregon-cyclist-rushes-him-to-hospital-then-sticks-him-with-1800-bill-lawsuit-says.html)
-- [Toronto crypto company CEO kidnapped, held for $1M ransom before being released](https://www.cbc.ca/news/canada/toronto/kidnapping-toronto-businessman-cryptocurrency-1.7376679)
-- [Five minutes of exercise a day could lower blood pressure](https://www.sydney.edu.au/news-opinion/news/2024/11/07/five-minutes-of-exercise-a-day-could-lower-blood-pressure.html)
-- [Show HN: Draw.Audio – A musical sketchpad using the Web Audio API](https://draw.audio)
-- [Sustainable Web Interest Group Is Formed](https://www.w3.org/blog/2024/sustainable-web-interest-group-is-formed/)
-- [QNX is now free for anything non-commercial, plus there&#39;s an RPi image](https://blackberry.qnx.com/en/products/qnx-everywhere)
-- [Edge Scripting: Build and run applications at the edge](https://bunny.net/blog/introducing-bunny-edge-scripting-a-better-way-to-build-and-deploy-applications-at-the-edge/)
+- [It&#39;s legal for police to use deception in interrogations. Some want that to end](https://text.npr.org/nx-s1-4974964)
+- [Delta: A syntax-highlighting pager for Git, diff, grep, and blame output](https://github.com/dandavison/delta)
+- [Neural Optical Flow for PIV in Fluids](https://synthical.com/article/Article-at-Synthical-56a49fbb-6842-45bb-aac1-97cd23711f72)
+- [Claude AI to process secret government data through new Palantir deal](https://arstechnica.com/ai/2024/11/safe-ai-champ-anthropic-teams-up-with-defense-giant-palantir-in-new-deal/)
+- [What Is a Staff Engineer?](https://nishtahir.com/what-is-a-staff-engineer/)
+- [My Notes on Apple Math Notes](https://mlajtos.mu/posts/new-kind-of-paper-5)
+- [What does a scientist look like? Children drawing women more than ever before](https://www.science.org/content/article/what-does-scientist-look-children-are-drawing-women-more-ever)
+- [Apple Macintosh before System 7](https://earlymacintosh.org/)
+- [Zep AI &lpar;YC W24&rpar; Is Hiring DevRel / Community Managers to Build Agent Memory](https://www.getzep.com/careers)
+- [I quit Google to work for myself &lpar;2018&rpar;](https://mtlynch.io/why-i-quit-google/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

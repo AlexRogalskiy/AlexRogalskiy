@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Trump picks Susie Wiles as chief of staff in first major appointment; Putin commends Trump victory – US election live](https://www.theguardian.com/us-news/live/2024/nov/07/us-election-2024-live-updates-donald-trump-victory-kamala-harris)
-- [Ukraine war briefing: Biden administration confirms surge of military aid to Kyiv will continue](https://www.theguardian.com/world/2024/nov/08/ukraine-war-briefing-biden-administration-confirms-surge-of-military-aid-to-kyiv-will-continue)
-- [Chinese state television lionises Xi Jinping’s father in 39-part serialised drama](https://www.theguardian.com/world/2024/nov/08/time-in-the-northwest-xi-jinping-father-zhongxun-time-in-the-northwest-china)
-- [Tax unhealthy foods to tackle obesity, say campaigners](https://www.theguardian.com/society/2024/nov/08/tax-unhealthy-foods-obesity-health-children)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2024/nov/08/premier-league-10-things-to-look-out-for-this-weekend)
-- [Prince William describes ‘brutal’ impact of wife’s and father’s cancer diagnoses](https://www.theguardian.com/uk-news/2024/nov/07/prince-william-relives-brutal-year-after-wifes-and-fathers-cancer-diagnoses)
-- [Trump names campaign manager Susie Wiles as his White House chief of staff](https://www.theguardian.com/us-news/2024/nov/07/trump-susie-wiles-chief-of-staff)
-- [More than an hour of exercise a week may help with ‘baby blues’, says study](https://www.theguardian.com/society/2024/nov/07/more-than-an-hour-of-exercise-a-week-may-help-with-baby-blues-says-study)
-- [Boy, 16, charged with manslaughter after alleged gunpoint carjacking near Brisbane](https://www.theguardian.com/australia-news/2024/nov/08/boy-16-charged-manslaughter-murrumba-downs-crash-alleged-carjacking-qld-queensland-ntwnfb)
-- [I’m a ‘trad wife’ in a happy marriage. How can I get my friends to accept me for who I am? | Leading questions](https://www.theguardian.com/lifeandstyle/2024/nov/08/trad-wife-happy-marriage-friends-advice-column)
+- [Thousands of dead seabirds are washing up on Australia’s beaches. Researchers want to know why](https://www.theguardian.com/environment/2024/nov/09/thousands-of-dead-seabirds-are-washing-up-on-australias-beaches-researchers-want-to-know-why)
+- [Federal judge strikes down Illinois assault weapons ban](https://www.theguardian.com/us-news/2024/nov/08/federal-judge-illinois-assault-weapons-ban)
+- [Co-founders of militia group convicted of attempting to murder federal agents](https://www.theguardian.com/us-news/2024/nov/08/border-immigration-federal-agents-militia-cofounders-criminal-convictions)
+- [Jamie Oliver apologises after his children’s book is criticised for ‘stereotyping’ First Nations Australians](https://www.theguardian.com/food/2024/nov/09/jamie-oliver-apologises-after-childrens-book-criticised-for-stereotyping-first-nations-australians-ntwnfb)
+- [White noise: why hatred of Donald Trump fuels his success as much as his supporters’ love | Ed Coper](https://www.theguardian.com/us-news/commentisfree/2024/nov/09/white-noise-why-hatred-of-donald-trump-fuels-his-success-as-much-as-his-supporters-love)
+- [‘The best cinema that was ever built’: the Capitol, Melbourne’s hidden architectural treasure, turns 100](https://www.theguardian.com/artanddesign/2024/nov/09/the-best-cinema-that-was-ever-built-the-capitol-melbournes-hidden-architectural-treasure-turns-100)
+- [Crypto businessman killed in apparent assassination at São Paulo airport](https://www.theguardian.com/world/2024/nov/08/brazil-sao-paulo-airport-assassination-shooting)
+- [Astronauts tight-lipped about reason for hospital visit after 235 days in space](https://www.theguardian.com/science/2024/nov/08/astronauts-hospital-nasa-international-space-station)
+- [Mikel Arteta needs ‘Chelsea effect’ more than ever to lift ailing Arsenal | David Hytner](https://www.theguardian.com/football/2024/nov/08/mikel-arteta-arsenal-chelsea-effect-premier-league-preview)
+- [Florida basketball coach Todd Golden accused of sexual harassment – report](https://www.theguardian.com/sport/2024/nov/08/todd-golden-florida-basketball-accusations)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

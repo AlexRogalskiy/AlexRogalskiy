@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [2024 M4 Mac Mini Teardown Full – SSD Removable [video]](https://www.youtube.com/watch?v=IO-SeqntnSc)
-- [Open data 3D point cloud of Tokyo](https://3dview.tokyo-digitaltwin.metro.tokyo.lg.jp/)
-- [Deltron 3030 – Virus [video]](https://www.youtube.com/watch?v=34k3GwQtbbs)
-- [Skynet is not where it should be](https://www.bbc.co.uk/news/articles/cpwrr58801yo)
-- [Why does everyone but me always have something to say?](https://www.quora.com/Why-does-everyone-but-me-always-have-something-to-say)
-- [Among unmarried adults, women without children have as much wealth as single men](https://www.pewresearch.org/short-reads/2024/11/04/among-unmarried-adults-women-without-children-have-as-much-wealth-as-single-men/)
-- [Celebrating the Life of Aaron Swartz: Aaron Swartz Day 2024](https://www.eff.org/deeplinks/2024/11/celebrating-life-aaron-swartz-aaron-swartz-day-2024)
-- [Sen. Elizabeth Warren: Here&#39;s the Plan to Fight Back](https://time.com/collection/time100-voices/7173801/elizabeth-warren-democrats-plan-after-2024-election/)
-- [Astronauts tight-lipped about reason for hospital visit after 235 days in space](https://www.theguardian.com/science/2024/nov/08/astronauts-hospital-nasa-international-space-station)
-- [Elasticsearch vs. Vespa Performance Comparison](https://blog.vespa.ai/elasticsearch-vs-vespa-performance-comparison/)
+- [History and Origin of Green Coffee Arabica – Farmpally Journal](https://www.healthpally.com/how-to-use-green-coffee-for-weight-loss/)
+- [Made iMessage smarter – 2k users overnight](https://www.secretary.my/)
+- [Show HN: A Suite of Chrome Extensions for Instagram Marketers](https://extensionsfox.store)
+- [Physical Intelligence&#39;s first generalist policy AI can finally do your laundry](https://www.physicalintelligence.company/blog/pi0)
+- [Tuki](https://nochlin.com/blog/introducing-tuki)
+- [Three Hundred Mechanics](https://www.squidi.net/three/)
+- [The Psychology of a Book Hangover &lpar;2020&rpar;](https://bookriot.com/psychology-of-a-book-hangover/)
+- [Ask HN: BOM for a remote operated HAM UHF/VHF shack](https://news.ycombinator.com/item?id=42098171)
+- [UK student invents repairable kettle that anyone can fix](https://www.theguardian.com/environment/2024/nov/09/uk-student-invents-repairable-kettle-that-anyone-can-fix)
+- [Show HN: LLM driven OS to execute network security exploration agents](https://github.com/skirdey/boss)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [It&#39;s legal for police to use deception in interrogations. Some want that to end](https://text.npr.org/nx-s1-4974964)
-- [Delta: A syntax-highlighting pager for Git, diff, grep, and blame output](https://github.com/dandavison/delta)
-- [Neural Optical Flow for PIV in Fluids](https://synthical.com/article/Article-at-Synthical-56a49fbb-6842-45bb-aac1-97cd23711f72)
-- [Claude AI to process secret government data through new Palantir deal](https://arstechnica.com/ai/2024/11/safe-ai-champ-anthropic-teams-up-with-defense-giant-palantir-in-new-deal/)
-- [What Is a Staff Engineer?](https://nishtahir.com/what-is-a-staff-engineer/)
-- [My Notes on Apple Math Notes](https://mlajtos.mu/posts/new-kind-of-paper-5)
-- [What does a scientist look like? Children drawing women more than ever before](https://www.science.org/content/article/what-does-scientist-look-children-are-drawing-women-more-ever)
-- [Apple Macintosh before System 7](https://earlymacintosh.org/)
-- [Zep AI &lpar;YC W24&rpar; Is Hiring DevRel / Community Managers to Build Agent Memory](https://www.getzep.com/careers)
-- [I quit Google to work for myself &lpar;2018&rpar;](https://mtlynch.io/why-i-quit-google/)
+- [Verbalize – text editor with writing assistance for Brazilian Portuguese](https://news.ycombinator.com/item?id=42097996)
+- [Stargate built 15 years ago in Ohio 50k pounds concrete family time](https://www.usatoday.com/story/news/nation/2024/11/08/stargate-built-by-family-in-ohio/76133926007/)
+- [Archaeologists Puzzled by Skeleton of Bones of People Who Died 1000&#39;s Yrs Apart](https://www.smithsonianmag.com/smart-news/archaeologists-are-bewildered-by-a-skeleton-made-from-the-bones-of-at-least-eight-people-who-died-thousands-of-years-apart-180985419/)
+- [Grim Fandango](https://www.filfre.net/2024/11/grim-fandango/)
+- [You too can write a book](https://parentheticallyspeaking.org/articles/write-a-book/)
+- [Show HN: Visprex – Open-source, in-browser data visualisation tool for CSV files](https://docs.visprex.com/)
+- [NYC Subway Station Layouts](http://www.projectsubwaynyc.com/gallery)
+- [Show HN: Jaws – a JavaScript to WASM ahead-of-time compiler](https://github.com/drogus/jaws)
+- [Early Cascade Injection: From Windows process creation to stealthy injection](https://www.outflank.nl/blog/2024/10/15/introducing-early-cascade-injection-from-windows-process-creation-to-stealthy-injection/)
+- [OpenCoder: Open Cookbook for Top-Tier Code Large Language Models](https://opencoder-llm.github.io/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

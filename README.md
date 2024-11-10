@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Thousands of dead seabirds are washing up on Australia’s beaches. Researchers want to know why](https://www.theguardian.com/environment/2024/nov/09/thousands-of-dead-seabirds-are-washing-up-on-australias-beaches-researchers-want-to-know-why)
-- [Federal judge strikes down Illinois assault weapons ban](https://www.theguardian.com/us-news/2024/nov/08/federal-judge-illinois-assault-weapons-ban)
-- [Co-founders of militia group convicted of attempting to murder federal agents](https://www.theguardian.com/us-news/2024/nov/08/border-immigration-federal-agents-militia-cofounders-criminal-convictions)
-- [Jamie Oliver apologises after his children’s book is criticised for ‘stereotyping’ First Nations Australians](https://www.theguardian.com/food/2024/nov/09/jamie-oliver-apologises-after-childrens-book-criticised-for-stereotyping-first-nations-australians-ntwnfb)
-- [White noise: why hatred of Donald Trump fuels his success as much as his supporters’ love | Ed Coper](https://www.theguardian.com/us-news/commentisfree/2024/nov/09/white-noise-why-hatred-of-donald-trump-fuels-his-success-as-much-as-his-supporters-love)
-- [‘The best cinema that was ever built’: the Capitol, Melbourne’s hidden architectural treasure, turns 100](https://www.theguardian.com/artanddesign/2024/nov/09/the-best-cinema-that-was-ever-built-the-capitol-melbournes-hidden-architectural-treasure-turns-100)
-- [Crypto businessman killed in apparent assassination at São Paulo airport](https://www.theguardian.com/world/2024/nov/08/brazil-sao-paulo-airport-assassination-shooting)
-- [Astronauts tight-lipped about reason for hospital visit after 235 days in space](https://www.theguardian.com/science/2024/nov/08/astronauts-hospital-nasa-international-space-station)
-- [Mikel Arteta needs ‘Chelsea effect’ more than ever to lift ailing Arsenal | David Hytner](https://www.theguardian.com/football/2024/nov/08/mikel-arteta-arsenal-chelsea-effect-premier-league-preview)
-- [Florida basketball coach Todd Golden accused of sexual harassment – report](https://www.theguardian.com/sport/2024/nov/08/todd-golden-florida-basketball-accusations)
+- [Republicans on the verge of clinching control of the US House](https://www.theguardian.com/us-news/2024/nov/09/republicans-us-house)
+- [Salt’s century powers England to eight-wicket win over West Indies in first T20](https://www.theguardian.com/sport/2024/nov/10/west-indies-england-first-t20-match-report)
+- [Editors’ picks: how to incorporate leopard print into your wardrobe – in pictures](https://www.theguardian.com/lifeandstyle/gallery/2024/nov/09/editors-picks-how-to-incorporate-leopard-print-into-your-wardrobe-in-pictures)
+- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2024/nov/09/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Police in Antigua charge suspect over fatal stabbing of politician](https://www.theguardian.com/world/2024/nov/09/police-in-antigua-charge-suspect-over-fatal-stabbing-of-politician)
+- [Prince William says he wants to carry out duties with a smaller ‘r’ in the ‘royal’](https://www.theguardian.com/uk-news/2024/nov/09/prince-william-says-he-wants-to-carry-out-duties-with-a-smaller-r-in-the-royal)
+- [Jamie Oliver pulls children’s book from shelves after criticism for ‘stereotyping’ Indigenous Australians](https://www.theguardian.com/food/2024/nov/10/jamie-oliver-pulls-childrens-book-from-shelves-after-criticism-for-stereotyping-indigenous-australians-ntwnfb)
+- [Arsenal need to put away more chances, admits Leandro Trossard](https://www.theguardian.com/football/2024/nov/09/arsenal-need-to-put-away-more-chances-admits-leandro-trossard)
+- [Fortnum &amp; Mason apologises for party snub to UK Paralympians](https://www.theguardian.com/sport/2024/nov/09/fortnum-mason-apologises-for-party-snub-to-uk-paralympians)
+- [Liverpool move five points clear after Núñez and Salah sink Aston Villa](https://www.theguardian.com/football/2024/nov/09/liverpool-aston-villa-premier-league-match-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

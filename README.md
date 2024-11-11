@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [History and Origin of Green Coffee Arabica – Farmpally Journal](https://www.healthpally.com/how-to-use-green-coffee-for-weight-loss/)
-- [Made iMessage smarter – 2k users overnight](https://www.secretary.my/)
-- [Show HN: A Suite of Chrome Extensions for Instagram Marketers](https://extensionsfox.store)
-- [Physical Intelligence&#39;s first generalist policy AI can finally do your laundry](https://www.physicalintelligence.company/blog/pi0)
-- [Tuki](https://nochlin.com/blog/introducing-tuki)
-- [Three Hundred Mechanics](https://www.squidi.net/three/)
-- [The Psychology of a Book Hangover &lpar;2020&rpar;](https://bookriot.com/psychology-of-a-book-hangover/)
-- [Ask HN: BOM for a remote operated HAM UHF/VHF shack](https://news.ycombinator.com/item?id=42098171)
-- [UK student invents repairable kettle that anyone can fix](https://www.theguardian.com/environment/2024/nov/09/uk-student-invents-repairable-kettle-that-anyone-can-fix)
-- [Show HN: LLM driven OS to execute network security exploration agents](https://github.com/skirdey/boss)
+- [How to use AI to help me with my homewwork?](https://notegpt.io/ai-homework-helper)
+- [The surprising complexity of simple features](https://daniloleal.co/my-world/thinking/the-surprising-complexity-of-simple-features)
+- [Ask HN: Bricked Pixel 7a](https://news.ycombinator.com/item?id=42104163)
+- [Kcrypt2 – A Retrospective and a Lab Notebook](https://palaiologos.rocks/posts/kcrypt2-retrospective/)
+- [Dongzi Securities Big Data Research Report on Public Opinion](https://news.ycombinator.com/item?id=42104159)
+- [Hello to All That](https://www.thedial.world/articles/news/issue-21/suzy-hansen-new-york-istanbul)
+- [Welcome to the Antarctic Fire Department](http://www.antarcticfire.org/)
+- [Can AI Transform Your Alt Text Strategy?](https://alttextgenerator.co)
+- [Better JSON5](https://marketplace.visualstudio.com/items?itemName=blueglassblock.better-json5)
+- [Saudi Arabia&#39;s Al-Jawf Desert Region Sees Historic Snowfall](https://weather.com/en-IN/india/news/news/2024-11-08-saudi-arabias-al-jawf-desert-region-sees-historic-snowfall-and-hailstorm)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

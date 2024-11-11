@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Republicans on the verge of clinching control of the US House](https://www.theguardian.com/us-news/2024/nov/09/republicans-us-house)
-- [Salt’s century powers England to eight-wicket win over West Indies in first T20](https://www.theguardian.com/sport/2024/nov/10/west-indies-england-first-t20-match-report)
-- [Editors’ picks: how to incorporate leopard print into your wardrobe – in pictures](https://www.theguardian.com/lifeandstyle/gallery/2024/nov/09/editors-picks-how-to-incorporate-leopard-print-into-your-wardrobe-in-pictures)
-- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2024/nov/09/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Police in Antigua charge suspect over fatal stabbing of politician](https://www.theguardian.com/world/2024/nov/09/police-in-antigua-charge-suspect-over-fatal-stabbing-of-politician)
-- [Prince William says he wants to carry out duties with a smaller ‘r’ in the ‘royal’](https://www.theguardian.com/uk-news/2024/nov/09/prince-william-says-he-wants-to-carry-out-duties-with-a-smaller-r-in-the-royal)
-- [Jamie Oliver pulls children’s book from shelves after criticism for ‘stereotyping’ Indigenous Australians](https://www.theguardian.com/food/2024/nov/10/jamie-oliver-pulls-childrens-book-from-shelves-after-criticism-for-stereotyping-indigenous-australians-ntwnfb)
-- [Arsenal need to put away more chances, admits Leandro Trossard](https://www.theguardian.com/football/2024/nov/09/arsenal-need-to-put-away-more-chances-admits-leandro-trossard)
-- [Fortnum &amp; Mason apologises for party snub to UK Paralympians](https://www.theguardian.com/sport/2024/nov/09/fortnum-mason-apologises-for-party-snub-to-uk-paralympians)
-- [Liverpool move five points clear after Núñez and Salah sink Aston Villa](https://www.theguardian.com/football/2024/nov/09/liverpool-aston-villa-premier-league-match-report)
+- [Ukraine war briefing: Don’t walk away from Ukraine, Biden expected to tell Trump](https://www.theguardian.com/world/2024/nov/11/ukraine-war-briefing-dont-walk-away-from-ukraine-biden-expected-to-tell-trump)
+- [Leading UK estate agent cuts its longer-term house price growth forecast](https://www.theguardian.com/business/2024/nov/11/leading-uk-estate-agent-cuts-its-longer-term-house-price-growth-forecast)
+- [Great Britain ‘lags behind’ Europe on betting ad regulation, says gambling charity](https://www.theguardian.com/society/2024/nov/11/great-britain-lags-behind-europe-on-betting-ad-regulation-says-gambling-charity)
+- [UK trial to assess if red grape chemical can prevent bowel cancer](https://www.theguardian.com/science/2024/nov/11/uk-trial-red-grape-chemical-prevent-bowel-cancer)
+- [Nurses quitting profession early puts health reforms in England at risk, says union](https://www.theguardian.com/society/2024/nov/11/nurses-quitting-profession-early-health-reforms-england-at-risk-royal-college-nursing)
+- [Breathing issues cause more emergency NHS admissions than any other condition](https://www.theguardian.com/society/2024/nov/11/breathing-issues-cause-more-emergency-nhs-admissions-than-any-other-condition)
+- [Extreme weather cost $2tn globally over past decade, report finds](https://www.theguardian.com/business/2024/nov/11/extreme-weather-cost-2tn-globally-over-past-decade-report-finds)
+- [Oysters doing well in Firth of Forth after reintroduction, say experts](https://www.theguardian.com/environment/2024/nov/11/oysters-doing-well-in-firth-of-forth-after-reintroduction-say-experts)
+- [Mattel apologises after Wicked movie dolls mistakenly link to porn website on packaging](https://www.theguardian.com/film/2024/nov/11/mattel-apologises-after-mistakenly-linking-to-porn-website-on-wicked-dolls)
+- [Sydney’s ‘little school project’ named World Building of the Year](https://www.theguardian.com/artanddesign/2024/nov/11/world-building-of-the-year-2024-darlington-public-primary-school-chippendale-sydney)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

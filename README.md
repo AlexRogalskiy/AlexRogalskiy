@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Verbalize – text editor with writing assistance for Brazilian Portuguese](https://news.ycombinator.com/item?id=42097996)
-- [Stargate built 15 years ago in Ohio 50k pounds concrete family time](https://www.usatoday.com/story/news/nation/2024/11/08/stargate-built-by-family-in-ohio/76133926007/)
-- [Archaeologists Puzzled by Skeleton of Bones of People Who Died 1000&#39;s Yrs Apart](https://www.smithsonianmag.com/smart-news/archaeologists-are-bewildered-by-a-skeleton-made-from-the-bones-of-at-least-eight-people-who-died-thousands-of-years-apart-180985419/)
-- [Grim Fandango](https://www.filfre.net/2024/11/grim-fandango/)
-- [You too can write a book](https://parentheticallyspeaking.org/articles/write-a-book/)
-- [Show HN: Visprex – Open-source, in-browser data visualisation tool for CSV files](https://docs.visprex.com/)
-- [NYC Subway Station Layouts](http://www.projectsubwaynyc.com/gallery)
-- [Show HN: Jaws – a JavaScript to WASM ahead-of-time compiler](https://github.com/drogus/jaws)
-- [Early Cascade Injection: From Windows process creation to stealthy injection](https://www.outflank.nl/blog/2024/10/15/introducing-early-cascade-injection-from-windows-process-creation-to-stealthy-injection/)
-- [OpenCoder: Open Cookbook for Top-Tier Code Large Language Models](https://opencoder-llm.github.io/)
+- [Evolving a NoSQL Database Schema](https://karmanivero.us/projects/entity-manager/evolving-a-nosql-db-schema/)
+- [Standing Desk Might Be as Bad as Sitting All Day](https://www.sciencealert.com/your-standing-desk-might-actually-be-as-bad-as-sitting-all-day)
+- [Chegg Is on Its Last Legs After ChatGPT Sent Its Stock Down 99%](https://gizmodo.com/chegg-is-on-its-last-legs-after-chatgpt-sent-its-stock-down-99-2000522585)
+- [Australia&#39;s 3G Shutdown – Why your 4G/5G Phone is now Blocked](https://medium.com/@jamesdwho/australias-3g-shutdown-why-your-4g-5g-phone-is-now-blocked-5900cd5361e2)
+- [I fixed a server with a precisely placed piece of tape &lpar;2023&rpar;](https://social.treehouse.systems/@marcan/110252202169575508)
+- [Another simple online DNS query tool](https://nstoolbox.com/)
+- [IMG_0416](https://ben-mini.github.io/2024/img-0416)
+- [The Soul in the Stomach &lpar;2021&rpar;](https://wellcomecollection.org/stories/the-soul-in-the-stomach)
+- [MdBook – a command line tool to create books with Markdown](https://rust-lang.github.io/mdBook/)
+- [Is 3D printing being held back by an invalid patent?](https://news.ycombinator.com/item?id=42102235)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

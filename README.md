@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Evolving a NoSQL Database Schema](https://karmanivero.us/projects/entity-manager/evolving-a-nosql-db-schema/)
-- [Standing Desk Might Be as Bad as Sitting All Day](https://www.sciencealert.com/your-standing-desk-might-actually-be-as-bad-as-sitting-all-day)
-- [Chegg Is on Its Last Legs After ChatGPT Sent Its Stock Down 99%](https://gizmodo.com/chegg-is-on-its-last-legs-after-chatgpt-sent-its-stock-down-99-2000522585)
-- [Australia&#39;s 3G Shutdown – Why your 4G/5G Phone is now Blocked](https://medium.com/@jamesdwho/australias-3g-shutdown-why-your-4g-5g-phone-is-now-blocked-5900cd5361e2)
-- [I fixed a server with a precisely placed piece of tape &lpar;2023&rpar;](https://social.treehouse.systems/@marcan/110252202169575508)
-- [Another simple online DNS query tool](https://nstoolbox.com/)
-- [IMG_0416](https://ben-mini.github.io/2024/img-0416)
-- [The Soul in the Stomach &lpar;2021&rpar;](https://wellcomecollection.org/stories/the-soul-in-the-stomach)
-- [MdBook – a command line tool to create books with Markdown](https://rust-lang.github.io/mdBook/)
-- [Is 3D printing being held back by an invalid patent?](https://news.ycombinator.com/item?id=42102235)
+- [This morning for no obvious reason, I remembered the Fuel Rats](https://hachyderm.io/@danderson/113465421567555186)
+- [Git and Jujutsu: In Miniature](https://lottia.net/notes/0013-git-jujutsu-miniature.html)
+- [Bus Number – The GitHub plugin my coworkers asked me not to write](https://www.scannedinavian.com/the-github-plugin-my-coworkers-asked-me-not-to-write.html)
+- [How I ship projects at big tech companies](https://www.seangoedecke.com/how-to-ship/)
+- [YubiKey still selling old stock with vulnerable firmware](https://news.ycombinator.com/item?id=42110901)
+- [I Don&#39;t Have Spotify](https://github.com/sjdonado/idonthavespotify)
+- [Improving Steam Client Stability on Linux](https://ttimo.typepad.com/blog/2024/11/the-steam-client-update-earlier-this-week-mentions-fixed-some-miscellaneous-common-crashes-in-the-linux-notes-which-i-wante.html)
+- [Gym Class VR &lpar;YC W22&rpar; Is Hiring Mobile Gameplay Lead](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/BigNKT1-mobile-game-engineer-staff-principal)
+- [Homage to Alexander Grothendieck](https://igrothendieck.org/en/homage-to-alexander-grothendieck/)
+- [Security Is a Useless Controls Problem](https://securityis.substack.com/p/security-is-a-useless-controls-problem)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [How to use AI to help me with my homewwork?](https://notegpt.io/ai-homework-helper)
-- [The surprising complexity of simple features](https://daniloleal.co/my-world/thinking/the-surprising-complexity-of-simple-features)
-- [Ask HN: Bricked Pixel 7a](https://news.ycombinator.com/item?id=42104163)
-- [Kcrypt2 – A Retrospective and a Lab Notebook](https://palaiologos.rocks/posts/kcrypt2-retrospective/)
-- [Dongzi Securities Big Data Research Report on Public Opinion](https://news.ycombinator.com/item?id=42104159)
-- [Hello to All That](https://www.thedial.world/articles/news/issue-21/suzy-hansen-new-york-istanbul)
-- [Welcome to the Antarctic Fire Department](http://www.antarcticfire.org/)
-- [Can AI Transform Your Alt Text Strategy?](https://alttextgenerator.co)
-- [Better JSON5](https://marketplace.visualstudio.com/items?itemName=blueglassblock.better-json5)
-- [Saudi Arabia&#39;s Al-Jawf Desert Region Sees Historic Snowfall](https://weather.com/en-IN/india/news/news/2024-11-08-saudi-arabias-al-jawf-desert-region-sees-historic-snowfall-and-hailstorm)
+- [Why Do So Many Americans Pass Up Bigger Social Security Checks?](https://www.nytimes.com/2024/11/11/opinion/social-security-age.html)
+- [Are Experts Real? &lpar;2021&rpar;](https://fantasticanachronism.com/2021/01/11/are-experts-real/)
+- [Ask HN: Do you feel burnout from being less hands on as you become more senior?](https://news.ycombinator.com/item?id=42112266)
+- [Tm990 single board vintage computer based on TMS9900 [video]](https://www.youtube.com/watch?v=PWpnPC1ZXg4)
+- [How to address decentralized data management in microservices](https://www.cerbos.dev/blog/data-management-in-microservices)
+- [R Community Detection Package](https://github.com/benyamindsmith/ig.degree.betweenness)
+- [Outside Game, Inside Game](https://venki.dev/notes/outside-game-inside-game)
+- [The Unluckiest Man in Pompeii](https://www.pompeiitours.it/blog/the-story-of-the-unluckiest-man-in-pompeii/)
+- [Samsung&#39;s Galaxy Ring Revealed](https://www.ifixit.com/News/98423/samsungs-galaxy-ring-revealed)
+- [Islands of the Feral Pigs](https://hakaimagazine.com/features/islands-of-the-feral-pigs/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

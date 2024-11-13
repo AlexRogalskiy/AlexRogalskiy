@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [This morning for no obvious reason, I remembered the Fuel Rats](https://hachyderm.io/@danderson/113465421567555186)
-- [Git and Jujutsu: In Miniature](https://lottia.net/notes/0013-git-jujutsu-miniature.html)
-- [Bus Number – The GitHub plugin my coworkers asked me not to write](https://www.scannedinavian.com/the-github-plugin-my-coworkers-asked-me-not-to-write.html)
-- [How I ship projects at big tech companies](https://www.seangoedecke.com/how-to-ship/)
-- [YubiKey still selling old stock with vulnerable firmware](https://news.ycombinator.com/item?id=42110901)
-- [I Don&#39;t Have Spotify](https://github.com/sjdonado/idonthavespotify)
-- [Improving Steam Client Stability on Linux](https://ttimo.typepad.com/blog/2024/11/the-steam-client-update-earlier-this-week-mentions-fixed-some-miscellaneous-common-crashes-in-the-linux-notes-which-i-wante.html)
-- [Gym Class VR &lpar;YC W22&rpar; Is Hiring Mobile Gameplay Lead](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/BigNKT1-mobile-game-engineer-staff-principal)
-- [Homage to Alexander Grothendieck](https://igrothendieck.org/en/homage-to-alexander-grothendieck/)
-- [Security Is a Useless Controls Problem](https://securityis.substack.com/p/security-is-a-useless-controls-problem)
+- [Spirit Airlines is filing for bankruptcy](https://www.wsj.com/business/airlines/spirit-airlines-moves-toward-bankruptcy-filing-after-frontier-drops-merger-bid-5d492e80)
+- [Ask HN: How to deal with a serious mental health breakdown?](https://news.ycombinator.com/item?id=42121630)
+- [3600 MHz Raspberry Pi 5 with Liquid Nitrogen](https://skatterbencher.com/2024/11/11/3600-mhz-raspberry-pi-5-with-liquid-nitrogen/)
+- [Carving your space](https://heather-buchel.com/blog/2024/11/carving-space/)
+- [M4 Mac mini&#39;s efficiency](https://www.jeffgeerling.com/blog/2024/m4-mac-minis-efficiency-incredible)
+- [Five Unusual Raku Features](https://buttondown.com/hillelwayne/archive/five-unusual-raku-features/)
+- [Spotify&#39;s Car Thing, due for bricking, is getting an open source second life](https://arstechnica.com/gaming/2024/11/firmware-hacks-are-rejuvenating-spotifys-car-thing-before-the-company-bricks-it/)
+- [Nowadays &lpar;YC S23&rpar; Is Hiring](https://news.ycombinator.com/item?id=42119674)
+- [Russian family lived alone in the Siberian wilderness for 40 years &lpar;2013&rpar;](https://www.smithsonianmag.com/history/this-russian-family-lived-alone-in-the-siberian-wilderness-for-40-years-unaware-of-world-war-ii-or-the-moon-landing-7354256/)
+- [Voice acting in Space Quest V](https://github.com/cdb-boop/Space-Quest-V-Voice-Acting-Mod)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

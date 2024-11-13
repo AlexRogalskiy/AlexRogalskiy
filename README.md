@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Black women on what Harris’s loss says about the US: ‘Voters failed to show up for her’](https://www.theguardian.com/us-news/2024/nov/11/harris-loss-black-women)
-- [Man who ‘discarded’ wife after tricking her into leaving Australia jailed for exit trafficking](https://www.theguardian.com/australia-news/2024/nov/12/victorian-man-exit-trafficking-sentence-wife-sudan-ntwnfb)
-- [Dwayne ‘The Rock’ Johnson admits to peeing in water bottles on set: ‘Yeah, that happens’](https://www.theguardian.com/film/2024/nov/12/dwayne-the-rock-johnson-peeing-in-water-bottles-on-set-red-one-allegations)
-- [US tennis analyst taken off-air for derogatory comment about Barbora Krejcikova](https://www.theguardian.com/sport/2024/nov/12/us-tennis-analyst-jon-wertheim-taken-off-air-barbora-krejcikova-comments)
-- [Secrets of happiness: what makes a country happy? – podcast](https://www.theguardian.com/science/audio/2024/nov/12/secrets-of-happiness-what-makes-a-country-happy-podcast)
-- [UK disability charities say NICs rise will cause ‘life-changing’ cuts](https://www.theguardian.com/society/2024/nov/11/uk-disability-charities-nics-tax-rise-life-changing-cuts)
-- [NHS England hopes to save thousands of lives with pill that helps smokers quit](https://www.theguardian.com/society/2024/nov/12/nhs-england-hopes-to-save-thousands-of-lives-with-pill-that-helps-smokers-quit)
-- [Israel says ‘certain progress’ made in Lebanon ceasefire talks](https://www.theguardian.com/world/2024/nov/11/israel-says-certain-progress-made-in-lebanon-ceasefire-talks)
-- [Frank Lampard in the running to replace Mark Robins at Coventry](https://www.theguardian.com/football/2024/nov/11/frank-lampard-in-the-running-to-replace-mark-robins-at-coventry)
-- [Mikel Merino insists Arsenal will thrive on pressure of Premier League title bid](https://www.theguardian.com/football/2024/nov/11/arsenal-premier-league-title-mikel-merino-pressure)
+- [Flights to Bali cancelled after volcano spews dangerous ash cloud 9km into air](https://www.theguardian.com/world/2024/nov/13/flights-to-bali-cancelled-after-volcano-spews-dangerous-ash-cloud-9km-into-air)
+- [Trump selects Elon Musk to lead government efficiency department](https://www.theguardian.com/us-news/2024/nov/12/trump-appoints-elon-musk-government-efficiency-department)
+- [Ukraine war briefing: Russia readying push on southern front including Zaporizhzhia, Ukraine says](https://www.theguardian.com/world/2024/nov/13/ukraine-war-briefing-russia-readying-push-on-southern-front-including-zaporizhzhia-ukraine-says)
+- [Streeting’s hospital league table plan riles NHS medics and bosses](https://www.theguardian.com/society/2024/nov/13/wes-streeting-hospital-league-table-plan-nhs-doctors-bosses)
+- [‘No sign’ of promised fossil fuel transition as emissions hit new high](https://www.theguardian.com/environment/2024/nov/13/no-sign-of-promised-fossil-fuel-transition-as-emissions-hit-new-high)
+- [Young working-class people being ‘blocked’ from creative industries, study finds](https://www.theguardian.com/inequality/2024/nov/13/young-working-class-people-being-blocked-from-creative-industries-study-finds)
+- [Samantha Harvey’s ‘beautiful and ambitious’ Orbital wins Booker prize 2024](https://www.theguardian.com/books/2024/nov/12/orbital-by-samantha-harvey-wins-booker-prize-2024)
+- [Brazil police eye top crime faction after brazen murder at São Paulo airport](https://www.theguardian.com/world/2024/nov/12/brazil-police-sao-paulo-airport-murder)
+- [EFL chief accuses Premier League of not appreciating value of football pyramid](https://www.theguardian.com/football/2024/nov/12/efl-chief-accuses-premier-league-of-not-appreciating-value-of-football-pyramid)
+- [Lewis Hall’s audition adds intrigue to England’s Nations League finale](https://www.theguardian.com/football/2024/nov/12/england-nations-league-lewis-hall-audition-thomas-tuchel-newcastle)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

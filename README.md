@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Why Do So Many Americans Pass Up Bigger Social Security Checks?](https://www.nytimes.com/2024/11/11/opinion/social-security-age.html)
-- [Are Experts Real? &lpar;2021&rpar;](https://fantasticanachronism.com/2021/01/11/are-experts-real/)
-- [Ask HN: Do you feel burnout from being less hands on as you become more senior?](https://news.ycombinator.com/item?id=42112266)
-- [Tm990 single board vintage computer based on TMS9900 [video]](https://www.youtube.com/watch?v=PWpnPC1ZXg4)
-- [How to address decentralized data management in microservices](https://www.cerbos.dev/blog/data-management-in-microservices)
-- [R Community Detection Package](https://github.com/benyamindsmith/ig.degree.betweenness)
-- [Outside Game, Inside Game](https://venki.dev/notes/outside-game-inside-game)
-- [The Unluckiest Man in Pompeii](https://www.pompeiitours.it/blog/the-story-of-the-unluckiest-man-in-pompeii/)
-- [Samsung&#39;s Galaxy Ring Revealed](https://www.ifixit.com/News/98423/samsungs-galaxy-ring-revealed)
-- [Islands of the Feral Pigs](https://hakaimagazine.com/features/islands-of-the-feral-pigs/)
+- [ClickBench – A Benchmark for Analytical DBMS](https://benchmark.clickhouse.com/)
+- [What should my name be on research articles?](https://academia.stackexchange.com/questions/214854/what-should-my-name-be-on-research-articles)
+- [Sparse experts with automatic token-level specialization to model time series](https://arxiv.org/abs/2410.10469)
+- [Goodbye Python-Mip?](https://oberdieck.dk/p/goodbye-python-mip/)
+- [Fedora installer is now a web view: Anaconda&#39;s new &quot;Web UI&quot;](https://fedoramagazine.org/anaconda-installer-redesign/)
+- [Etsy Accuses Game Boy Publisher of Piracy for Selling Its Own Games](https://www.timeextension.com/news/2024/11/etsy-accuses-game-boy-publisher-of-piracy-for-selling-its-own-games)
+- [Show HN: turn images into realtime forcefield animations &lpar;free and open source&rpar;](https://collidingscopes.github.io/forcefield/)
+- [Eventually consistent plain text accounting](https://tylercipriani.com/blog/2024/10/24/plain-text-accounting/)
+- [Learning in Depth](https://worrydream.com/refs/Egan_2007_-_Learning_in_depth.html)
+- [NASA Jet Propulsion Laboratory lays off another 5 percent of workforce](https://www.washingtonpost.com/science/2024/11/12/nasa-jpl-layoffs-budget-cuts/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

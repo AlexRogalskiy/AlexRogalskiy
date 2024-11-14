@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Flights to Bali cancelled after volcano spews dangerous ash cloud 9km into air](https://www.theguardian.com/world/2024/nov/13/flights-to-bali-cancelled-after-volcano-spews-dangerous-ash-cloud-9km-into-air)
-- [Trump selects Elon Musk to lead government efficiency department](https://www.theguardian.com/us-news/2024/nov/12/trump-appoints-elon-musk-government-efficiency-department)
-- [Ukraine war briefing: Russia readying push on southern front including Zaporizhzhia, Ukraine says](https://www.theguardian.com/world/2024/nov/13/ukraine-war-briefing-russia-readying-push-on-southern-front-including-zaporizhzhia-ukraine-says)
-- [Streeting’s hospital league table plan riles NHS medics and bosses](https://www.theguardian.com/society/2024/nov/13/wes-streeting-hospital-league-table-plan-nhs-doctors-bosses)
-- [‘No sign’ of promised fossil fuel transition as emissions hit new high](https://www.theguardian.com/environment/2024/nov/13/no-sign-of-promised-fossil-fuel-transition-as-emissions-hit-new-high)
-- [Young working-class people being ‘blocked’ from creative industries, study finds](https://www.theguardian.com/inequality/2024/nov/13/young-working-class-people-being-blocked-from-creative-industries-study-finds)
-- [Samantha Harvey’s ‘beautiful and ambitious’ Orbital wins Booker prize 2024](https://www.theguardian.com/books/2024/nov/12/orbital-by-samantha-harvey-wins-booker-prize-2024)
-- [Brazil police eye top crime faction after brazen murder at São Paulo airport](https://www.theguardian.com/world/2024/nov/12/brazil-police-sao-paulo-airport-murder)
-- [EFL chief accuses Premier League of not appreciating value of football pyramid](https://www.theguardian.com/football/2024/nov/12/efl-chief-accuses-premier-league-of-not-appreciating-value-of-football-pyramid)
-- [Lewis Hall’s audition adds intrigue to England’s Nations League finale](https://www.theguardian.com/football/2024/nov/12/england-nations-league-lewis-hall-audition-thomas-tuchel-newcastle)
+- [Republicans baffled after Trump picks ‘reckless’ Gaetz for attorney general](https://www.theguardian.com/us-news/2024/nov/13/republicans-matt-gaetz-trump-attorney-general)
+- [What’s behind the global political divide between young men and women?](https://www.theguardian.com/us-news/2024/nov/14/us-election-donald-trump-voters-gender-race-data)
+- [Flights resume to Bali after huge volcanic ash cloud caused Australian airlines to cancel travel](https://www.theguardian.com/australia-news/2024/nov/14/bali-volcano-eruption-updates-flights-resume-mount-lewotobi-laki-laki)
+- [Marine Le Pen: prosecutor recommends jail and 5 year ban from public office in EU embezzlement trial](https://www.theguardian.com/world/2024/nov/14/marine-le-pen-embezzlement-trial-national-rally-prosecutor-ban)
+- [Pint-sized crustacean named after New Zealand brewery to boost interest in marine life](https://www.theguardian.com/world/2024/nov/14/nz-scientists-name-crustacean-after-brewery-pentaceration-fork-and-brewer)
+- [Ukraine war briefing: ‘Clear picture’ of imminent military aid after Blinken talks, says Kyiv](https://www.theguardian.com/world/2024/nov/14/ukraine-war-briefing-clear-picture-of-imminent-military-aid-after-blinken-talks-says-kyiv)
+- [Palau’s pro-US president wins second term, defeating pro-China brother-in-law](https://www.theguardian.com/world/2024/nov/14/palau-election-results-2024-surangel-whipps-jr-tommy-remengesau)
+- [Apple facing near-£3bn UK lawsuit over cloud storage ‘monopoly’](https://www.theguardian.com/technology/2024/nov/14/apple-facing-near-3bn-uk-lawsuit-cloud-storage-competition-law)
+- [John Lewis Christmas advert this year tells tale of two sisters](https://www.theguardian.com/media/2024/nov/14/john-lewis-christmas-advert-gifting-hour)
+- [Most UK TV ads for sweets and snacks shown before children’s viewing watershed](https://www.theguardian.com/society/2024/nov/14/uk-tv-ads-sweets-snacks-shown-before-childrens-viewing-watershed)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Spirit Airlines is filing for bankruptcy](https://www.wsj.com/business/airlines/spirit-airlines-moves-toward-bankruptcy-filing-after-frontier-drops-merger-bid-5d492e80)
-- [Ask HN: How to deal with a serious mental health breakdown?](https://news.ycombinator.com/item?id=42121630)
-- [3600 MHz Raspberry Pi 5 with Liquid Nitrogen](https://skatterbencher.com/2024/11/11/3600-mhz-raspberry-pi-5-with-liquid-nitrogen/)
-- [Carving your space](https://heather-buchel.com/blog/2024/11/carving-space/)
-- [M4 Mac mini&#39;s efficiency](https://www.jeffgeerling.com/blog/2024/m4-mac-minis-efficiency-incredible)
-- [Five Unusual Raku Features](https://buttondown.com/hillelwayne/archive/five-unusual-raku-features/)
-- [Spotify&#39;s Car Thing, due for bricking, is getting an open source second life](https://arstechnica.com/gaming/2024/11/firmware-hacks-are-rejuvenating-spotifys-car-thing-before-the-company-bricks-it/)
-- [Nowadays &lpar;YC S23&rpar; Is Hiring](https://news.ycombinator.com/item?id=42119674)
-- [Russian family lived alone in the Siberian wilderness for 40 years &lpar;2013&rpar;](https://www.smithsonianmag.com/history/this-russian-family-lived-alone-in-the-siberian-wilderness-for-40-years-unaware-of-world-war-ii-or-the-moon-landing-7354256/)
-- [Voice acting in Space Quest V](https://github.com/cdb-boop/Space-Quest-V-Voice-Acting-Mod)
+- [Tuffi](https://en.wikipedia.org/wiki/Tuffi)
+- [Looking for a Job Is Tough](https://blog.kaplich.me/looking-for-a-job-is-tough/)
+- [PRC Targeting of Commercial Telecommunications Infrastructure](https://www.fbi.gov/news/press-releases/joint-statement-from-fbi-and-cisa-on-the-peoples-republic-of-china-targeting-of-commercial-telecommunications-infrastructure)
+- [Contracts for C++ &lpar;DbC&rpar; [pdf]](https://isocpp.org/files/papers/P2900R6.pdf)
+- [Farewell and thank you for the continued partnership, Francois Chollet](https://developers.googleblog.com/en/farewell-and-thank-you-for-the-continued-partnership-francois-chollet/)
+- [DeepComputing: Early Access Program for RISC-V Mainboard for Framework Laptop 13](https://deepcomputing.io/deepcomputing-launches-early-access-program-for-dc-roma-risc-v-mainboard-for-framework-laptop-13/)
+- [New York City Council Votes to End Broker Fees Squeezing Renters](https://www.bloomberg.com/news/articles/2024-11-13/nyc-on-brink-of-ending-killer-broker-fees-that-squeeze-renters)
+- [Reflex &lpar;YC W23&rpar; Is Hiring Software Engineers &lpar;San Francisco&rpar;](https://www.ycombinator.com/companies/reflex/jobs/wz4GHux-software-engineer)
+- [Amazon Makes It Harder for Disabled Employees to Work from Home](https://www.bloomberg.com/news/articles/2024-11-13/amazon-makes-it-harder-for-disabled-employees-to-work-from-home)
+- [Porygon Was Innocent: An epileptic perspective on the infamous Pokémon episode](https://www.animefeminist.com/porygon-was-innocent-an-epileptic-perspective-on-pokemons-electric-soldier-porygon/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

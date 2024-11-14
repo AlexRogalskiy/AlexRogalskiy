@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [ClickBench – A Benchmark for Analytical DBMS](https://benchmark.clickhouse.com/)
-- [What should my name be on research articles?](https://academia.stackexchange.com/questions/214854/what-should-my-name-be-on-research-articles)
-- [Sparse experts with automatic token-level specialization to model time series](https://arxiv.org/abs/2410.10469)
-- [Goodbye Python-Mip?](https://oberdieck.dk/p/goodbye-python-mip/)
-- [Fedora installer is now a web view: Anaconda&#39;s new &quot;Web UI&quot;](https://fedoramagazine.org/anaconda-installer-redesign/)
-- [Etsy Accuses Game Boy Publisher of Piracy for Selling Its Own Games](https://www.timeextension.com/news/2024/11/etsy-accuses-game-boy-publisher-of-piracy-for-selling-its-own-games)
-- [Show HN: turn images into realtime forcefield animations &lpar;free and open source&rpar;](https://collidingscopes.github.io/forcefield/)
-- [Eventually consistent plain text accounting](https://tylercipriani.com/blog/2024/10/24/plain-text-accounting/)
-- [Learning in Depth](https://worrydream.com/refs/Egan_2007_-_Learning_in_depth.html)
-- [NASA Jet Propulsion Laboratory lays off another 5 percent of workforce](https://www.washingtonpost.com/science/2024/11/12/nasa-jpl-layoffs-budget-cuts/)
+- [Tuffi](https://en.wikipedia.org/wiki/Tuffi)
+- [The Call for Justice: Punish Guo Wengui](https://news.ycombinator.com/item?id=42132570)
+- [Project: Verdad – tracking misinformation in radio broadcasts using Gemini 1.5](https://simonwillison.net/2024/Nov/7/project-verdad/)
+- [Samsung: Exynos problems are due to &quot;too short&quot; 52-hour working week in Korea](https://www.notebookcheck.net/Samsung-Exynos-problems-are-due-to-too-short-52-hour-working-week-in-Korea.917539.0.html)
+- [JSON for Classic C++](https://github.com/jart/json.cpp)
+- [Accelerated muons bring next-gen particle colliders closer to reality](https://www.sciencenews.org/article/accelerated-muons-particle-colliders)
+- [Playing to Win](https://spiralprogress.com/2024/11/12/playing-to-win/)
+- [Lil’Log from OpenAI VP](https://lilianweng.github.io/)
+- [AMD Developing Next-Gen Fortran Compiler Based on Flang, Optimized for AMD GPUs](https://www.phoronix.com/news/AMD-Next-Gen-Fortran-Compiler)
+- [Citizen Archivist &gt; Register and Get Started](https://www.archives.gov/citizen-archivist/register-and-get-started)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

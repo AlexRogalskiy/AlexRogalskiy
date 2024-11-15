@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Republicans baffled after Trump picks ‘reckless’ Gaetz for attorney general](https://www.theguardian.com/us-news/2024/nov/13/republicans-matt-gaetz-trump-attorney-general)
-- [What’s behind the global political divide between young men and women?](https://www.theguardian.com/us-news/2024/nov/14/us-election-donald-trump-voters-gender-race-data)
-- [Flights resume to Bali after huge volcanic ash cloud caused Australian airlines to cancel travel](https://www.theguardian.com/australia-news/2024/nov/14/bali-volcano-eruption-updates-flights-resume-mount-lewotobi-laki-laki)
-- [Marine Le Pen: prosecutor recommends jail and 5 year ban from public office in EU embezzlement trial](https://www.theguardian.com/world/2024/nov/14/marine-le-pen-embezzlement-trial-national-rally-prosecutor-ban)
-- [Pint-sized crustacean named after New Zealand brewery to boost interest in marine life](https://www.theguardian.com/world/2024/nov/14/nz-scientists-name-crustacean-after-brewery-pentaceration-fork-and-brewer)
-- [Ukraine war briefing: ‘Clear picture’ of imminent military aid after Blinken talks, says Kyiv](https://www.theguardian.com/world/2024/nov/14/ukraine-war-briefing-clear-picture-of-imminent-military-aid-after-blinken-talks-says-kyiv)
-- [Palau’s pro-US president wins second term, defeating pro-China brother-in-law](https://www.theguardian.com/world/2024/nov/14/palau-election-results-2024-surangel-whipps-jr-tommy-remengesau)
-- [Apple facing near-£3bn UK lawsuit over cloud storage ‘monopoly’](https://www.theguardian.com/technology/2024/nov/14/apple-facing-near-3bn-uk-lawsuit-cloud-storage-competition-law)
-- [John Lewis Christmas advert this year tells tale of two sisters](https://www.theguardian.com/media/2024/nov/14/john-lewis-christmas-advert-gifting-hour)
-- [Most UK TV ads for sweets and snacks shown before children’s viewing watershed](https://www.theguardian.com/society/2024/nov/14/uk-tv-ads-sweets-snacks-shown-before-childrens-viewing-watershed)
+- [As 4B takes the world by storm, South Korea is grappling with a backlash against feminism](https://www.theguardian.com/world/2024/nov/15/4b-south-korea-feminist-movement-donald-trump-election-backlash)
+- [Ukraine war briefing: EU cements first ever joint arms purchases in boost for Ukraine](https://www.theguardian.com/world/2024/nov/15/ukraine-war-briefing-eu-cements-first-ever-joint-arms-purchases-in-boost-for-ukraine)
+- [Sam Curran adds calm amid chaos as England seal T20 series victory over West Indies](https://www.theguardian.com/sport/2024/nov/15/west-indies-england-third-t20-match-report)
+- [Cop summits ‘no longer fit for purpose’, say leading climate policy experts](https://www.theguardian.com/environment/2024/nov/15/cop-summits-no-longer-fit-for-purpose-say-leading-climate-policy-experts)
+- [RFK Jr condemned as ‘clear and present danger’ after Trump nomination](https://www.theguardian.com/us-news/2024/nov/14/trump-administration-rfk-criticisms)
+- [Bank of England governor says Brexit has undermined UK economy](https://www.theguardian.com/business/2024/nov/14/bank-of-england-governor-urges-ministers-to-rebuild-relations-with-eu)
+- [Nations League: Ferguson heads Ireland winner as Tonali strike rocks Belgium](https://www.theguardian.com/football/2024/nov/14/nations-league-ferguson-heads-ireland-winner-as-tonali-strike-rocks-belgium)
+- [Who is RFK Jr and what are his likely top priorities?](https://www.theguardian.com/us-news/2024/nov/14/who-is-rfk-jr-and-what-might-his-top-priorities-be)
+- [Fans clash at football match between France and Israel](https://www.theguardian.com/world/2024/nov/14/france-deploys-thousands-of-police-for-israel-match-after-amsterdam-violence)
+- [Ollie Watkins and Curtis Jones grab their chance to help England sink Greece](https://www.theguardian.com/football/2024/nov/14/greece-england-nations-league-match-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

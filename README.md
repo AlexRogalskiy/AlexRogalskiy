@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Tuffi](https://en.wikipedia.org/wiki/Tuffi)
-- [The Call for Justice: Punish Guo Wengui](https://news.ycombinator.com/item?id=42132570)
-- [Project: Verdad – tracking misinformation in radio broadcasts using Gemini 1.5](https://simonwillison.net/2024/Nov/7/project-verdad/)
-- [Samsung: Exynos problems are due to &quot;too short&quot; 52-hour working week in Korea](https://www.notebookcheck.net/Samsung-Exynos-problems-are-due-to-too-short-52-hour-working-week-in-Korea.917539.0.html)
-- [JSON for Classic C++](https://github.com/jart/json.cpp)
-- [Accelerated muons bring next-gen particle colliders closer to reality](https://www.sciencenews.org/article/accelerated-muons-particle-colliders)
-- [Playing to Win](https://spiralprogress.com/2024/11/12/playing-to-win/)
-- [Lil’Log from OpenAI VP](https://lilianweng.github.io/)
-- [AMD Developing Next-Gen Fortran Compiler Based on Flang, Optimized for AMD GPUs](https://www.phoronix.com/news/AMD-Next-Gen-Fortran-Compiler)
-- [Citizen Archivist &gt; Register and Get Started](https://www.archives.gov/citizen-archivist/register-and-get-started)
+- [What makes concurrency so hard?](https://buttondown.com/hillelwayne/archive/what-makes-concurrency-so-hard/)
+- [Wicked Dolls Pulled from Shelves for Accidental Porn Link on Packages](https://www.vanityfair.com/hollywood/story/wicked-dolls-pulled-from-shelves-for-accidental-porn-link-on-packages)
+- [A rant about the state of open-source drones and Ardupilot](https://news.ycombinator.com/item?id=42143504)
+- [War-era sugar rationing boosted health of UK people conceived in 1940s](https://www.newscientist.com/article/2454375-war-era-sugar-rationing-boosted-health-of-uk-people-conceived-in-1940s/)
+- [Omnivision-968M: Vision Language Model with 9x Tokens Reduction for Edge Devices](https://nexa.ai/blogs/omni-vision)
+- [ARRL Teachers Institute on Wireless Technology](https://www.arrl.org/teachers-institute-on-wireless-technology)
+- [ReadKidz](https://www.readkidz.com/)
+- [Stack Overflow Moving to the Cloud](https://meta.stackexchange.com/questions/404231/we-re-finally-going-to-the-cloud)
+- [Show HN: Find Developer Portfolio Inspiration](https://www.webportfolios.dev)
+- [After the Triumph of Tetris, an Unsolved Puzzle](https://www.nytimes.com/2024/11/10/arts/tetris-forever-alexey-pajitnov.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

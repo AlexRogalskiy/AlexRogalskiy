@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Omnivision-968M: Vision Language Model with 9x Tokens Reduction for Edge Devices](https://nexa.ai/blogs/omni-vision)
-- [Relativty: An open-source VR headset for $200](https://www.relativty.com/)
-- [New Apple security feature reboots iPhones after 3 days, researchers confirm](https://techcrunch.com/2024/11/14/new-apple-security-feature-reboots-iphones-after-3-days-researchers-confirm/)
-- [Are We PEP740 Yet?](https://trailofbits.github.io/are-we-pep740-yet/)
-- [Matrix Client Tutorial](https://uhoreg.gitlab.io/matrix-tutorial/index.html)
-- [Analysis of economic and productivity losses caused by cookie banners in Europe](https://legiscope.com/blog/hidden-productivity-drain-cookie-banners.html)
-- [In Memoriam: Thomas E. Kurtz, 1928–2024](https://computerhistory.org/blog/in-memoriam-thomas-e-kurtz-1928-2024/)
-- [Visual Basic 6 IDE recreated in C#](https://github.com/BAndysc/AvaloniaVisualBasic6)
-- [InspectMind AI &lpar;YC W24&rpar; Is Hiring for AI in Construction](https://www.ycombinator.com/companies/inspectmind-ai/jobs/rPuRKf1-software-engineer)
-- [Old Vintage Computing Research: Dusting Off Dreamcast Linux](http://oldvcr.blogspot.com/2023/02/dusting-off-dreamcast-linux.html)
+- [M4 MacBook Pros use a quantum dot &lpar;QD&rpar; film rather than a red KSF phosphor film](https://twitter.com/DSCCRoss/status/1857208745014776215)
+- [Consuming the Bluesky firehose for less than $2.50/mo](https://bsky.bad-example.com/consuming-the-firehose-cheaply/)
+- [The price of shutting down coal power, and what would be gained](https://www.economist.com/interactive/the-economist-explains/2024/11/15/what-would-it-cost-to-kill-coal)
+- [Non-elementary group-by aggregations in Polars vs pandas](https://labs.quansight.org/blog/dataframe-group-by)
+- [FTC to launch investigation into Microsoft&#39;s cloud business](https://arstechnica.com/tech-policy/2024/11/ftc-to-launch-investigation-into-microsofts-cloud-business/)
+- [Half-Life 2: 20th Anniversary Update](https://www.half-life.com/en/halflife2/20th)
+- [Why did people rub snow on frozen feet? &lpar;2017&rpar;](https://outdoors.stackexchange.com/questions/15801/why-did-people-rub-snow-on-frozen-feet)
+- [First Impressions: Lenovo T14s with Qualcomm Snapdragon ARM64 CPU](https://lists.freebsd.org/archives/freebsd-hackers/2024-November/004068.html)
+- [Retrofitting spatial safety to lines of C++](https://security.googleblog.com/2024/11/retrofitting-spatial-safety-to-hundreds.html)
+- [Installed an open source garage door opener, and I&#39;m loving it](https://arstechnica.com/gadgets/2024/11/i-too-installed-an-open-source-garage-door-opener-and-am-loving-it/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

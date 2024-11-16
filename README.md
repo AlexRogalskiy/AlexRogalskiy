@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [As 4B takes the world by storm, South Korea is grappling with a backlash against feminism](https://www.theguardian.com/world/2024/nov/15/4b-south-korea-feminist-movement-donald-trump-election-backlash)
-- [Ukraine war briefing: EU cements first ever joint arms purchases in boost for Ukraine](https://www.theguardian.com/world/2024/nov/15/ukraine-war-briefing-eu-cements-first-ever-joint-arms-purchases-in-boost-for-ukraine)
-- [Sam Curran adds calm amid chaos as England seal T20 series victory over West Indies](https://www.theguardian.com/sport/2024/nov/15/west-indies-england-third-t20-match-report)
-- [Cop summits ‘no longer fit for purpose’, say leading climate policy experts](https://www.theguardian.com/environment/2024/nov/15/cop-summits-no-longer-fit-for-purpose-say-leading-climate-policy-experts)
-- [RFK Jr condemned as ‘clear and present danger’ after Trump nomination](https://www.theguardian.com/us-news/2024/nov/14/trump-administration-rfk-criticisms)
-- [Bank of England governor says Brexit has undermined UK economy](https://www.theguardian.com/business/2024/nov/14/bank-of-england-governor-urges-ministers-to-rebuild-relations-with-eu)
-- [Nations League: Ferguson heads Ireland winner as Tonali strike rocks Belgium](https://www.theguardian.com/football/2024/nov/14/nations-league-ferguson-heads-ireland-winner-as-tonali-strike-rocks-belgium)
-- [Who is RFK Jr and what are his likely top priorities?](https://www.theguardian.com/us-news/2024/nov/14/who-is-rfk-jr-and-what-might-his-top-priorities-be)
-- [Fans clash at football match between France and Israel](https://www.theguardian.com/world/2024/nov/14/france-deploys-thousands-of-police-for-israel-match-after-amsterdam-violence)
-- [Ollie Watkins and Curtis Jones grab their chance to help England sink Greece](https://www.theguardian.com/football/2024/nov/14/greece-england-nations-league-match-report)
+- [Katie Taylor v Amanda Serrano rematch, followed by Jake Paul v Mike Tyson – live](https://www.theguardian.com/sport/live/2024/nov/15/mike-tyson-jake-paul-boxing-fight-taylor-serrano-live)
+- [Dutch coalition government survives despite minister resignation over Amsterdam violence](https://www.theguardian.com/world/2024/nov/16/dutch-coalition-government-survives-despite-minister-resignation-over-amsterdam-violence)
+- [Sunday Express editor David Wooding departs Reach amid further job cuts](https://www.theguardian.com/media/2024/nov/16/sunday-express-editor-david-wooding-departs-reach-amid-further-job-cuts)
+- [Houses in national parks in England and Wales sell for 25% more, study finds](https://www.theguardian.com/money/2024/nov/16/houses-in-national-parks-in-england-and-wales-sell-for-25-more-study-finds)
+- [Pregnant cow rescued after getting stuck in swimming pool in Rutland](https://www.theguardian.com/world/2024/nov/15/pregnant-cow-rescued-after-getting-stuck-in-swimming-pool-in-rutland)
+- [Past lives: stepping back in time in small-town Victoria – in pictures](https://www.theguardian.com/artanddesign/gallery/2024/nov/16/past-lives-stepping-back-in-time-in-small-town-victoria-in-pictures)
+- [Workers affected by Port Talbot closures to get up to £10,000 to start businesses](https://www.theguardian.com/uk-news/2024/nov/15/workers-affected-by-port-talbot-closures-to-get-up-to-10000-to-start-businesses)
+- [With the Tories beaten, Labour’s next threat comes from even further right](https://www.theguardian.com/politics/2024/nov/15/with-tories-beaten-labour-next-threat-reform-wales)
+- [England and Spain draw as respect shines through on path to progress](https://www.theguardian.com/football/2024/nov/15/england-and-spain-draw-as-respect-shines-through-on-path-to-progress)
+- [Ireland hold off Argentina’s fightback after making rapid start](https://www.theguardian.com/sport/2024/nov/15/ireland-argentina-autumn-nations-series-match-report-rugby-union)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

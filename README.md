@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [What makes concurrency so hard?](https://buttondown.com/hillelwayne/archive/what-makes-concurrency-so-hard/)
-- [Wicked Dolls Pulled from Shelves for Accidental Porn Link on Packages](https://www.vanityfair.com/hollywood/story/wicked-dolls-pulled-from-shelves-for-accidental-porn-link-on-packages)
-- [A rant about the state of open-source drones and Ardupilot](https://news.ycombinator.com/item?id=42143504)
-- [War-era sugar rationing boosted health of UK people conceived in 1940s](https://www.newscientist.com/article/2454375-war-era-sugar-rationing-boosted-health-of-uk-people-conceived-in-1940s/)
-- [Omnivision-968M: Vision Language Model with 9x Tokens Reduction for Edge Devices](https://nexa.ai/blogs/omni-vision)
-- [ARRL Teachers Institute on Wireless Technology](https://www.arrl.org/teachers-institute-on-wireless-technology)
-- [ReadKidz](https://www.readkidz.com/)
-- [Stack Overflow Moving to the Cloud](https://meta.stackexchange.com/questions/404231/we-re-finally-going-to-the-cloud)
-- [Show HN: Find Developer Portfolio Inspiration](https://www.webportfolios.dev)
-- [After the Triumph of Tetris, an Unsolved Puzzle](https://www.nytimes.com/2024/11/10/arts/tetris-forever-alexey-pajitnov.html)
+- [OpenThings &lpar;OpenGarage and OpenSprinkler&rpar;](https://openthings.io/)
+- [Coca Cola&#39;s annual Christmas commercial has been created with AI this time](https://twitter.com/DiscussingFilm/status/1857502106074099717)
+- [Joseph Ducreux – The Master of Expression](https://artincontext.org/joseph-ducreux/)
+- [How Public Key Cryptography Works, Using Only Simple Math](https://www.quantamagazine.org/how-public-key-cryptography-really-works-20241115/)
+- [Show HN: Linux Voice AI](https://www.linuxvoice.ai)
+- [Tsugaru OS – A New Free FM-Towns OS](https://github.com/captainys/FreeTOWNSOS)
+- [&#39;Dastardly deeds&#39;: Family of Malcolm X sues US agencies over assassination](https://www.aljazeera.com/news/2024/11/16/dastardly-deeds-family-of-malcolm-x-sues-us-agencies-over-assassination)
+- [BonkysInferno](https://forum.rec.net/t/introducing-bonkysinferno/3880)
+- [The Stockdale Paradox](https://www.jimcollins.com/concepts/Stockdale-Concept.html)
+- [Email shows Brockman and Sutskever had concerns about Altman in 2017](https://www.transformernews.ai/p/openai-emails-altman-trust)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

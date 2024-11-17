@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [M4 MacBook Pros use a quantum dot &lpar;QD&rpar; film rather than a red KSF phosphor film](https://twitter.com/DSCCRoss/status/1857208745014776215)
-- [Consuming the Bluesky firehose for less than $2.50/mo](https://bsky.bad-example.com/consuming-the-firehose-cheaply/)
-- [The price of shutting down coal power, and what would be gained](https://www.economist.com/interactive/the-economist-explains/2024/11/15/what-would-it-cost-to-kill-coal)
-- [Non-elementary group-by aggregations in Polars vs pandas](https://labs.quansight.org/blog/dataframe-group-by)
-- [FTC to launch investigation into Microsoft&#39;s cloud business](https://arstechnica.com/tech-policy/2024/11/ftc-to-launch-investigation-into-microsofts-cloud-business/)
-- [Half-Life 2: 20th Anniversary Update](https://www.half-life.com/en/halflife2/20th)
-- [Why did people rub snow on frozen feet? &lpar;2017&rpar;](https://outdoors.stackexchange.com/questions/15801/why-did-people-rub-snow-on-frozen-feet)
-- [First Impressions: Lenovo T14s with Qualcomm Snapdragon ARM64 CPU](https://lists.freebsd.org/archives/freebsd-hackers/2024-November/004068.html)
-- [Retrofitting spatial safety to lines of C++](https://security.googleblog.com/2024/11/retrofitting-spatial-safety-to-hundreds.html)
-- [Installed an open source garage door opener, and I&#39;m loving it](https://arstechnica.com/gadgets/2024/11/i-too-installed-an-open-source-garage-door-opener-and-am-loving-it/)
+- [Pentagon fails 7th audit in a row but says progress made](https://thehill.com/policy/defense/4992913-pentagon-fails-7th-audit-in-a-row-but-says-progress-made/)
+- [Meteorite 200 times larger than one that killed dinosaurs reset early life](https://www.chemistryworld.com/news/meteorite-200-times-larger-than-one-that-killed-dinosaurs-reset-early-life/4020391.article)
+- [James Gleick&#39;s Chaos: The Software](https://github.com/rudyrucker/chaos)
+- [Stop Making Me Memorize the Borrow Checker](https://erikmcclure.com/blog/stop-making-me-memorize-borrow-checker/)
+- [Teach Yourself to Echolocate](https://www.atlasobscura.com/articles/how-to-echolocate)
+- [SmoothLLM: Defending Large Language Models Against Jailbreaking Attacks](https://arxiv.org/abs/2310.03684)
+- [The Bluesky firehose viewed in the style of a Windows XP screensaver](https://firehose3d.theo.io/)
+- [JavaScript dos and donts Mu-An Chiou](https://muan.co/posts/javascript)
+- [We’re receiving about 3,000 reports/hour](https://bsky.app/profile/safety.bsky.app/post/3layun7re5s2x)
+- [Logica – Declarative logic programming language for data](https://logica.dev/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

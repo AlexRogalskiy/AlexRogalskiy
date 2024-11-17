@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Katie Taylor v Amanda Serrano rematch, followed by Jake Paul v Mike Tyson – live](https://www.theguardian.com/sport/live/2024/nov/15/mike-tyson-jake-paul-boxing-fight-taylor-serrano-live)
-- [Dutch coalition government survives despite minister resignation over Amsterdam violence](https://www.theguardian.com/world/2024/nov/16/dutch-coalition-government-survives-despite-minister-resignation-over-amsterdam-violence)
-- [Sunday Express editor David Wooding departs Reach amid further job cuts](https://www.theguardian.com/media/2024/nov/16/sunday-express-editor-david-wooding-departs-reach-amid-further-job-cuts)
-- [Houses in national parks in England and Wales sell for 25% more, study finds](https://www.theguardian.com/money/2024/nov/16/houses-in-national-parks-in-england-and-wales-sell-for-25-more-study-finds)
-- [Pregnant cow rescued after getting stuck in swimming pool in Rutland](https://www.theguardian.com/world/2024/nov/15/pregnant-cow-rescued-after-getting-stuck-in-swimming-pool-in-rutland)
-- [Past lives: stepping back in time in small-town Victoria – in pictures](https://www.theguardian.com/artanddesign/gallery/2024/nov/16/past-lives-stepping-back-in-time-in-small-town-victoria-in-pictures)
-- [Workers affected by Port Talbot closures to get up to £10,000 to start businesses](https://www.theguardian.com/uk-news/2024/nov/15/workers-affected-by-port-talbot-closures-to-get-up-to-10000-to-start-businesses)
-- [With the Tories beaten, Labour’s next threat comes from even further right](https://www.theguardian.com/politics/2024/nov/15/with-tories-beaten-labour-next-threat-reform-wales)
-- [England and Spain draw as respect shines through on path to progress](https://www.theguardian.com/football/2024/nov/15/england-and-spain-draw-as-respect-shines-through-on-path-to-progress)
-- [Ireland hold off Argentina’s fightback after making rapid start](https://www.theguardian.com/sport/2024/nov/15/ireland-argentina-autumn-nations-series-match-report-rugby-union)
+- [Bela Karolyi, gymnastics coach who mentored Nadia Comaneci, dies aged 82](https://www.theguardian.com/sport/2024/nov/17/bela-karolyi-gymnastics-coach-who-mentored-nadia-comaneci-dies-aged-82)
+- [Sean ‘Diddy’ Combs accused of reaching out to prospective witnesses from jail](https://www.theguardian.com/music/2024/nov/16/sean-diddy-combs-jail)
+- [Biden and Xi agree humans, not AI, should decide on nuclear weapon use](https://www.theguardian.com/us-news/2024/nov/16/biden-xi-jinping-apec-peru)
+- [UK aid budget to Sudan set to double amid famine fears](https://www.theguardian.com/global-development/2024/nov/17/uk-aid-budget-to-sudan-set-to-double-amid-famine-fears)
+- [Trend watch: get ready for a country weekend](https://www.theguardian.com/fashion/2024/nov/16/trend-watch-get-ready-for-a-country-weekend)
+- [Lewis and Hope blast West Indies to T20 victory over England in St Lucia](https://www.theguardian.com/sport/2024/nov/16/west-indies-england-fourth-t20-match-report)
+- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2024/nov/16/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Police name woman found dead in car boot in east London](https://www.theguardian.com/uk-news/2024/nov/16/police-name-woman-found-dead-in-car-boot-in-east-london)
+- [Watch given to captain who saved 700 Titanic passengers sells for £1.56m](https://www.theguardian.com/uk-news/2024/nov/16/watch-given-to-captain-who-saved-700-titanic-passengers-sells-for-156m)
+- [Harry Kane confident Tuchel ‘energy’ can preserve England’s fragile culture](https://www.theguardian.com/football/2024/nov/16/harry-kane-confident-tuchel-energy-can-preserve-englands-fragile-culture)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [OpenThings &lpar;OpenGarage and OpenSprinkler&rpar;](https://openthings.io/)
-- [Coca Cola&#39;s annual Christmas commercial has been created with AI this time](https://twitter.com/DiscussingFilm/status/1857502106074099717)
-- [Joseph Ducreux – The Master of Expression](https://artincontext.org/joseph-ducreux/)
-- [How Public Key Cryptography Works, Using Only Simple Math](https://www.quantamagazine.org/how-public-key-cryptography-really-works-20241115/)
-- [Show HN: Linux Voice AI](https://www.linuxvoice.ai)
-- [Tsugaru OS – A New Free FM-Towns OS](https://github.com/captainys/FreeTOWNSOS)
-- [&#39;Dastardly deeds&#39;: Family of Malcolm X sues US agencies over assassination](https://www.aljazeera.com/news/2024/11/16/dastardly-deeds-family-of-malcolm-x-sues-us-agencies-over-assassination)
-- [BonkysInferno](https://forum.rec.net/t/introducing-bonkysinferno/3880)
-- [The Stockdale Paradox](https://www.jimcollins.com/concepts/Stockdale-Concept.html)
-- [Email shows Brockman and Sutskever had concerns about Altman in 2017](https://www.transformernews.ai/p/openai-emails-altman-trust)
+- [FOSS data-provider-agnostic &lpar;GTFS&rpar; public transportation app](https://git.sr.ht/%7Emil/transito)
+- [IPv6 networks do apparently get probed](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/IPv6NetworksGetProbed)
+- [Perilous trips across Canada-US border becoming more common](https://apnews.com/article/immigration-canada-us-india-deaths-smuggling-trial-16946bb01a1d1ca2978f29e902e550fc)
+- [Fortunate: A Modern Motivational App for Linux](https://thoughts.greyh.at/posts/fortunate/)
+- [Kpopalypse determines the use of AI-generated imagery in k-pop music videos](https://kpopalypse.com/2024/11/16/how-kpopalypse-determines-the-use-of-ai-generated-imagery-in-k-pop-music-videos/)
+- [The Final Hours of Half-Life 2](https://www.gamespot.com/articles/the-final-hours-of-half-life-2/1100-6112889/)
+- [Ask HN: Losers](https://news.ycombinator.com/item?id=42161487)
+- [How AI Could Break the Career Ladder](https://www.bloomberg.com/news/articles/2024-11-15/ai-replacing-entry-level-jobs-could-break-the-career-ladder)
+- [VoiceOver in the era of faceless YouTube channels](https://getvoiceover.com)
+- [Chips Giant TSMC Sued over &#39;Anti-American&#39; Discrimination](https://www.forbes.com/sites/sarahemerson/2024/11/13/chips-giant-tsmc-sued-over-anti-american-discrimination/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

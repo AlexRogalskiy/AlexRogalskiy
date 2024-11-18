@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Pentagon fails 7th audit in a row but says progress made](https://thehill.com/policy/defense/4992913-pentagon-fails-7th-audit-in-a-row-but-says-progress-made/)
-- [Meteorite 200 times larger than one that killed dinosaurs reset early life](https://www.chemistryworld.com/news/meteorite-200-times-larger-than-one-that-killed-dinosaurs-reset-early-life/4020391.article)
-- [James Gleick&#39;s Chaos: The Software](https://github.com/rudyrucker/chaos)
-- [Stop Making Me Memorize the Borrow Checker](https://erikmcclure.com/blog/stop-making-me-memorize-borrow-checker/)
-- [Teach Yourself to Echolocate](https://www.atlasobscura.com/articles/how-to-echolocate)
-- [SmoothLLM: Defending Large Language Models Against Jailbreaking Attacks](https://arxiv.org/abs/2310.03684)
-- [The Bluesky firehose viewed in the style of a Windows XP screensaver](https://firehose3d.theo.io/)
-- [JavaScript dos and donts Mu-An Chiou](https://muan.co/posts/javascript)
-- [We’re receiving about 3,000 reports/hour](https://bsky.app/profile/safety.bsky.app/post/3layun7re5s2x)
-- [Logica – Declarative logic programming language for data](https://logica.dev/)
+- [1 in 5 Japanese Workers in Their 20s Turn to Resignation Agencies](https://metropolisjapan.com/resignation-agencies/)
+- [Why LLMs Within Software Development May Be a Dead End](https://thenewstack.io/why-llms-within-software-development-may-be-a-dead-end/)
+- [Teen serial swatter-for-hire busted, pleads guilty, could face 20 years](https://www.theregister.com/2024/11/18/teenage_serial_swatterforhire_busted/)
+- [Show HN: The App I Built to Help Manage My Diabetes, Powered by GPT-4o-Mini](https://apps.apple.com/gb/app/islet-diabetes/id6453168642)
+- [Drinking water systems for 26M Americans face high cybersecurity risks](https://www.scworld.com/news/drinking-water-systems-for-26m-americans-face-high-cybersecurity-risks)
+- [Is Chrome the New IE?](https://www.magiclasso.co/insights/is-chrome-the-new-ie/)
+- [Reverse Engineering iOS 18 Inactivity Reboot](https://naehrdine.blogspot.com/2024/11/reverse-engineering-ios-18-inactivity.html)
+- [You could have designed state of the art positional encoding](https://fleetwood.dev/posts/you-could-have-designed-SOTA-positional-encoding)
+- [Why did Windows 95 setup use three operating systems?](https://devblogs.microsoft.com/oldnewthing/20241112-00/?p=110507)
+- [Creating a QR Code step by step](https://www.nayuki.io/page/creating-a-qr-code-step-by-step)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

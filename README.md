@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [FOSS data-provider-agnostic &lpar;GTFS&rpar; public transportation app](https://git.sr.ht/%7Emil/transito)
-- [IPv6 networks do apparently get probed](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/IPv6NetworksGetProbed)
-- [Perilous trips across Canada-US border becoming more common](https://apnews.com/article/immigration-canada-us-india-deaths-smuggling-trial-16946bb01a1d1ca2978f29e902e550fc)
-- [Fortunate: A Modern Motivational App for Linux](https://thoughts.greyh.at/posts/fortunate/)
-- [Kpopalypse determines the use of AI-generated imagery in k-pop music videos](https://kpopalypse.com/2024/11/16/how-kpopalypse-determines-the-use-of-ai-generated-imagery-in-k-pop-music-videos/)
-- [The Final Hours of Half-Life 2](https://www.gamespot.com/articles/the-final-hours-of-half-life-2/1100-6112889/)
-- [Ask HN: Losers](https://news.ycombinator.com/item?id=42161487)
-- [How AI Could Break the Career Ladder](https://www.bloomberg.com/news/articles/2024-11-15/ai-replacing-entry-level-jobs-could-break-the-career-ladder)
-- [VoiceOver in the era of faceless YouTube channels](https://getvoiceover.com)
-- [Chips Giant TSMC Sued over &#39;Anti-American&#39; Discrimination](https://www.forbes.com/sites/sarahemerson/2024/11/13/chips-giant-tsmc-sued-over-anti-american-discrimination/)
+- [Pensieve: Open-source, self-hosted alternative of Rewind](https://github.com/arkohut/pensieve)
+- [Ask HN: What are your favorite tools for taming your email?](https://news.ycombinator.com/item?id=42169261)
+- [Blogging Through the Decades](https://bcantrill.dtrace.org/2024/11/16/blogging-through-the-decades/)
+- [Do you believe that an AI short film can be generated with just one click?](https://news.ycombinator.com/item?id=42169251)
+- [Why API-First Matters in an AI-Driven World](https://thenewstack.io/why-api-first-matters-in-an-ai-driven-world/)
+- [Show HN: Unfeed – A free RSS reader and bookmarking](https://unfeed.net)
+- [.NET vs. Java vs. Go vs. Rust: Hello UUID Performance](https://medium.com/deno-the-complete-reference/net-vs-java-vs-go-vs-rust-hello-uuid-performance-7ead3e7e79aa)
+- [What Drives the &quot;Wet Dog Shakes&quot; Reflex in Furry Animals?](https://www.the-scientist.com/what-drives-the-wet-dog-shakes-reflex-in-furry-animals-72317)
+- [Will Elondia Be Like Fordlandia](https://albertcory50.substack.com/p/will-elondia-be-like-fordlandia)
+- [How to Manage Remote Docker Containers Using Go SDK and SSH Tunnel](https://vitaliihonchar.com/blog/go/access-to-remote-docker)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

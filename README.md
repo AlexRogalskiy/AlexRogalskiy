@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Bela Karolyi, gymnastics coach who mentored Nadia Comaneci, dies aged 82](https://www.theguardian.com/sport/2024/nov/17/bela-karolyi-gymnastics-coach-who-mentored-nadia-comaneci-dies-aged-82)
-- [Sean ‘Diddy’ Combs accused of reaching out to prospective witnesses from jail](https://www.theguardian.com/music/2024/nov/16/sean-diddy-combs-jail)
-- [Biden and Xi agree humans, not AI, should decide on nuclear weapon use](https://www.theguardian.com/us-news/2024/nov/16/biden-xi-jinping-apec-peru)
-- [UK aid budget to Sudan set to double amid famine fears](https://www.theguardian.com/global-development/2024/nov/17/uk-aid-budget-to-sudan-set-to-double-amid-famine-fears)
-- [Trend watch: get ready for a country weekend](https://www.theguardian.com/fashion/2024/nov/16/trend-watch-get-ready-for-a-country-weekend)
-- [Lewis and Hope blast West Indies to T20 victory over England in St Lucia](https://www.theguardian.com/sport/2024/nov/16/west-indies-england-fourth-t20-match-report)
-- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2024/nov/16/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Police name woman found dead in car boot in east London](https://www.theguardian.com/uk-news/2024/nov/16/police-name-woman-found-dead-in-car-boot-in-east-london)
-- [Watch given to captain who saved 700 Titanic passengers sells for £1.56m](https://www.theguardian.com/uk-news/2024/nov/16/watch-given-to-captain-who-saved-700-titanic-passengers-sells-for-156m)
-- [Harry Kane confident Tuchel ‘energy’ can preserve England’s fragile culture](https://www.theguardian.com/football/2024/nov/16/harry-kane-confident-tuchel-energy-can-preserve-englands-fragile-culture)
+- [China’s ‘mind-blowingly’ cheap shopping app Temu hits roadblocks in south-east Asia](https://www.theguardian.com/technology/2024/nov/18/temu-shopping-app-china-indonesia-vietnam-takedown)
+- [Doctors warn of ‘massive’ winter crisis in UK’s overstretched A&amp;E departments](https://www.theguardian.com/society/2024/nov/18/uk-doctors-winter-crisis-accident-and-emergency)
+- [Overhaul of children’s social care in England will crack down on firms’ profiteering](https://www.theguardian.com/society/2024/nov/18/overhaul-of-childrens-social-care-in-england-will-crack-down-on-firms-profiteering)
+- [Study to look at why some people with aggressive cancer are ‘super-survivors’](https://www.theguardian.com/science/2024/nov/18/study-why-patients-aggressive-cancer-beat-survival-odds)
+- [North-east England to unveil £55m package to tackle child poverty](https://www.theguardian.com/society/2024/nov/18/north-east-england-to-unveil-55m-pound-package-to-tackle-child-poverty)
+- [Declining standards of care for stroke patients must be reversed, says charity](https://www.theguardian.com/society/2024/nov/18/declining-standards-of-care-for-stroke-patients-must-be-reversed-says-charity)
+- [Hi-tech recreation of Richard III’s voice has a Yorkshire accent](https://www.theguardian.com/uk-news/2024/nov/17/technology-used-to-recreate-richard-iiis-voice-with-yorkshire-accent)
+- [England toast T20 series win over West Indies after washout](https://www.theguardian.com/sport/2024/nov/17/england-toast-t20-series-win-over-west-indies-after-washout)
+- [Man detained under Mental Health Act after two fatal stabbings in Manchester](https://www.theguardian.com/uk-news/2024/nov/17/police-make-arrest-after-two-men-fatally-stabbed-in-manchester)
+- [One dead and dozens infected in E coli outbreak linked to organic carrots in US](https://www.theguardian.com/us-news/2024/nov/17/e-coli-carrots-outbreak)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

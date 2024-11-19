@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [1 in 5 Japanese Workers in Their 20s Turn to Resignation Agencies](https://metropolisjapan.com/resignation-agencies/)
-- [Why LLMs Within Software Development May Be a Dead End](https://thenewstack.io/why-llms-within-software-development-may-be-a-dead-end/)
-- [Teen serial swatter-for-hire busted, pleads guilty, could face 20 years](https://www.theregister.com/2024/11/18/teenage_serial_swatterforhire_busted/)
-- [Show HN: The App I Built to Help Manage My Diabetes, Powered by GPT-4o-Mini](https://apps.apple.com/gb/app/islet-diabetes/id6453168642)
-- [Drinking water systems for 26M Americans face high cybersecurity risks](https://www.scworld.com/news/drinking-water-systems-for-26m-americans-face-high-cybersecurity-risks)
-- [Is Chrome the New IE?](https://www.magiclasso.co/insights/is-chrome-the-new-ie/)
-- [Reverse Engineering iOS 18 Inactivity Reboot](https://naehrdine.blogspot.com/2024/11/reverse-engineering-ios-18-inactivity.html)
-- [You could have designed state of the art positional encoding](https://fleetwood.dev/posts/you-could-have-designed-SOTA-positional-encoding)
-- [Why did Windows 95 setup use three operating systems?](https://devblogs.microsoft.com/oldnewthing/20241112-00/?p=110507)
-- [Creating a QR Code step by step](https://www.nayuki.io/page/creating-a-qr-code-step-by-step)
+- [Maslow 4: Large format CNC routing made accessible](https://www.maslowcnc.com)
+- [&#39;Achilles heel&#39; of antibiotic-resistant bacteria discovered](https://studyfinds.org/achilles-heel-antibiotic-resistant-bacteria/)
+- [Llama 3.1 405B now runs at 969 tokens/s on Cerebras Inference](https://cerebras.ai/blog/llama-405b-inference)
+- [Show HN: Venmo Unofficial API](https://github.com/Integuru-AI/Venmo-Unofficial-API)
+- [Hyperfine: A command-line benchmarking tool](https://github.com/sharkdp/hyperfine)
+- [Trieve &lpar;YC W24&rpar; Is Hiring a software engineer to build OpenAPI tooling](https://www.ycombinator.com/companies/trieve/jobs/arKjyiM-software-engineer-openapi-tooling)
+- [DNA testing company vanishes along with its customers&#39; genetic data](https://www.malwarebytes.com/blog/news/2024/11/dna-testing-company-vanishes-along-with-its-customers-genetic-data)
+- [End-to-End Tour of Text Layout/Rendering &lpar;2015&rpar;](http://litherum.blogspot.com/2015/02/end-to-end-tour-of-text-rendering.html)
+- [AMD now has more compute on the top 500 than Nvidia](https://www.nextplatform.com/2024/11/18/amd-now-has-more-compute-on-the-top500-than-nvidia/)
+- [20 years of Google Scholar](https://blog.google/outreach-initiatives/education/google-scholar-20-years/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

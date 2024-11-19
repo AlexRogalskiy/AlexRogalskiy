@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [China’s ‘mind-blowingly’ cheap shopping app Temu hits roadblocks in south-east Asia](https://www.theguardian.com/technology/2024/nov/18/temu-shopping-app-china-indonesia-vietnam-takedown)
-- [Doctors warn of ‘massive’ winter crisis in UK’s overstretched A&amp;E departments](https://www.theguardian.com/society/2024/nov/18/uk-doctors-winter-crisis-accident-and-emergency)
-- [Overhaul of children’s social care in England will crack down on firms’ profiteering](https://www.theguardian.com/society/2024/nov/18/overhaul-of-childrens-social-care-in-england-will-crack-down-on-firms-profiteering)
-- [Study to look at why some people with aggressive cancer are ‘super-survivors’](https://www.theguardian.com/science/2024/nov/18/study-why-patients-aggressive-cancer-beat-survival-odds)
-- [North-east England to unveil £55m package to tackle child poverty](https://www.theguardian.com/society/2024/nov/18/north-east-england-to-unveil-55m-pound-package-to-tackle-child-poverty)
-- [Declining standards of care for stroke patients must be reversed, says charity](https://www.theguardian.com/society/2024/nov/18/declining-standards-of-care-for-stroke-patients-must-be-reversed-says-charity)
-- [Hi-tech recreation of Richard III’s voice has a Yorkshire accent](https://www.theguardian.com/uk-news/2024/nov/17/technology-used-to-recreate-richard-iiis-voice-with-yorkshire-accent)
-- [England toast T20 series win over West Indies after washout](https://www.theguardian.com/sport/2024/nov/17/england-toast-t20-series-win-over-west-indies-after-washout)
-- [Man detained under Mental Health Act after two fatal stabbings in Manchester](https://www.theguardian.com/uk-news/2024/nov/17/police-make-arrest-after-two-men-fatally-stabbed-in-manchester)
-- [One dead and dozens infected in E coli outbreak linked to organic carrots in US](https://www.theguardian.com/us-news/2024/nov/17/e-coli-carrots-outbreak)
+- [HK47: dozens of pro-democracy activists jailed in Hong Kong’s largest national security trial](https://www.theguardian.com/world/2024/nov/19/hong-kong-47-hk47-sentencing-national-security-trial)
+- [Shuntaro Tanikawa, giant of Japanese poetry, dies aged 92](https://www.theguardian.com/books/2024/nov/19/shuntaro-tanikawa-japanese-poet-death-age-92)
+- [Nine-day hīkoi to uphold the Treaty of Waitangi and Māori rights – in pictures](https://www.theguardian.com/world/gallery/2024/nov/19/new-zealand-treaty-of-waitangi-hikoi-protest-maori-rights-pictures-parliament)
+- [Labour plan for 100,000 new nursery places in England ‘unlikely to work’](https://www.theguardian.com/education/2024/nov/19/labour-plan-to-create-new-nursery-places-england-research)
+- [Call to ban cakes and biscuits at school lunchtimes in England](https://www.theguardian.com/society/2024/nov/19/call-ban-cakes-biscuits-school-lunchtimes-england)
+- [Two telecoms cables in Baltic Sea severed, raising suspicions of sabotage](https://www.theguardian.com/world/2024/nov/18/telecoms-cable-in-baltic-sea-may-have-been-severed-says-finnish-owner)
+- [‘Technical issues’ causes lengthy delays to dozens of British Airways flights](https://www.theguardian.com/business/2024/nov/18/technical-issues-causes-lengthy-delays-to-dozens-of-ba-flights)
+- [Dune: Prophecy review – a bracingly different sci-fi dominated by women at every level](https://www.theguardian.com/tv-and-radio/2024/nov/18/dune-prophecy-review-a-bracingly-different-sci-fi-dominated-by-women-at-every-level)
+- [Gaza ministry says 20 killed in anti-‘gang’ operation after looting of aid convoy](https://www.theguardian.com/world/2024/nov/18/armed-looters-hijack-almost-100-trucks-carrying-aid-supplies-into-gaza)
+- [Keir Starmer to restart UK-India talks after previous negotiations stalled](https://www.theguardian.com/politics/2024/nov/18/keir-starmer-restart-uk-india-talks-previous-negotiations-stalled)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

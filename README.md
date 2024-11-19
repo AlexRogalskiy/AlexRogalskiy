@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Pensieve: Open-source, self-hosted alternative of Rewind](https://github.com/arkohut/pensieve)
-- [Ask HN: What are your favorite tools for taming your email?](https://news.ycombinator.com/item?id=42169261)
-- [Blogging Through the Decades](https://bcantrill.dtrace.org/2024/11/16/blogging-through-the-decades/)
-- [Do you believe that an AI short film can be generated with just one click?](https://news.ycombinator.com/item?id=42169251)
-- [Why API-First Matters in an AI-Driven World](https://thenewstack.io/why-api-first-matters-in-an-ai-driven-world/)
-- [Show HN: Unfeed – A free RSS reader and bookmarking](https://unfeed.net)
-- [.NET vs. Java vs. Go vs. Rust: Hello UUID Performance](https://medium.com/deno-the-complete-reference/net-vs-java-vs-go-vs-rust-hello-uuid-performance-7ead3e7e79aa)
-- [What Drives the &quot;Wet Dog Shakes&quot; Reflex in Furry Animals?](https://www.the-scientist.com/what-drives-the-wet-dog-shakes-reflex-in-furry-animals-72317)
-- [Will Elondia Be Like Fordlandia](https://albertcory50.substack.com/p/will-elondia-be-like-fordlandia)
-- [How to Manage Remote Docker Containers Using Go SDK and SSH Tunnel](https://vitaliihonchar.com/blog/go/access-to-remote-docker)
+- [Laptop GPU Ranking](https://nanoreview.net/en/gpu-list/laptop-graphics-rating)
+- [Interactive Brokers Google Sheets](https://mac-blog.org.ua/interactive-brokers-google-sheets/)
+- [Engagi AI Review: What is it and Is it worth the Buy?](https://www.hustlestrikers.com/2024/11/engagi-ai-review.html)
+- [ChipWits&#39; 40th Birthday: Original Forth Code Open Sourced](https://chipwits.com/2024/11/16/chipwits-40th-birthday-original-forth-code-open-sourced/)
+- [Home Assistant teases new open source voice assistant hardware](https://www.home-assistant.io/blog/2024/11/15/roadmap-2024h2/)
+- [WeddingShare: A place for guests to view and drop pictures of the big day](https://github.com/Cirx08/WeddingShare)
+- [Crosslinking Ly6a metabolically reprograms CD8T cells for cancer immunotherapy [pdf]](https://www.nature.com/articles/s41467-024-52079-x.pdf)
+- [Help: Filtering Some User Seen Posts](https://news.ycombinator.com/item?id=42179546)
+- [Sequin: A powerful little tool for inspecting ANSI escape sequences](https://github.com/charmbracelet/sequin)
+- [Handheld Multi-Frame Super-Resolution &lpar;2019&rpar;](https://sites.google.com/view/handheld-super-res/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Laptop GPU Ranking](https://nanoreview.net/en/gpu-list/laptop-graphics-rating)
-- [Interactive Brokers Google Sheets](https://mac-blog.org.ua/interactive-brokers-google-sheets/)
-- [Engagi AI Review: What is it and Is it worth the Buy?](https://www.hustlestrikers.com/2024/11/engagi-ai-review.html)
-- [ChipWits&#39; 40th Birthday: Original Forth Code Open Sourced](https://chipwits.com/2024/11/16/chipwits-40th-birthday-original-forth-code-open-sourced/)
-- [Home Assistant teases new open source voice assistant hardware](https://www.home-assistant.io/blog/2024/11/15/roadmap-2024h2/)
-- [WeddingShare: A place for guests to view and drop pictures of the big day](https://github.com/Cirx08/WeddingShare)
-- [Crosslinking Ly6a metabolically reprograms CD8T cells for cancer immunotherapy [pdf]](https://www.nature.com/articles/s41467-024-52079-x.pdf)
-- [Help: Filtering Some User Seen Posts](https://news.ycombinator.com/item?id=42179546)
-- [Sequin: A powerful little tool for inspecting ANSI escape sequences](https://github.com/charmbracelet/sequin)
-- [Handheld Multi-Frame Super-Resolution &lpar;2019&rpar;](https://sites.google.com/view/handheld-super-res/)
+- [Webvm: Virtual Machine for the Web](https://github.com/leaningtech/webvm)
+- [Call for Developer Projects](https://github.com/bluesky-social/atproto/discussions/3049)
+- [Strava closes the gates to sharing fitness data with other apps](https://www.theverge.com/2024/11/19/24301056/strava-api-ai-data-sharing-policy-change-fitness-tracking)
+- [Ntuit shares fall after report that gov&#39;t efficiency team is considering tax app](https://www.cnbc.com/2024/11/19/hr-block-intuit-stocks-fall-following-trump-tax-filing-app-report.html)
+- [AI can learn to think before it speaks](https://www.ft.com/content/894669d6-d69d-4515-a18f-569afbf710e8)
+- [Where can I get validated accounts](https://news.ycombinator.com/item?id=42190302)
+- [The Good Whale](https://www.nytimes.com/interactive/2024/podcasts/serial-good-whale.html)
+- [DEX – Rexbit Exchange – Super State Channels](https://www.rexbit.exchange/)
+- [Mark Zuckerberg has rebuilt Meta around Llama](https://finance.yahoo.com/news/mark-zuckerberg-went-meta-major-103000635.html)
+- [Top Facebook Contest Apps to Supercharge Your Engagement](https://faisco.com/facebook_contest_app/15.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

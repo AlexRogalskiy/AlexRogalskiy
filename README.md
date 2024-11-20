@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Maslow 4: Large format CNC routing made accessible](https://www.maslowcnc.com)
-- [&#39;Achilles heel&#39; of antibiotic-resistant bacteria discovered](https://studyfinds.org/achilles-heel-antibiotic-resistant-bacteria/)
-- [Llama 3.1 405B now runs at 969 tokens/s on Cerebras Inference](https://cerebras.ai/blog/llama-405b-inference)
-- [Show HN: Venmo Unofficial API](https://github.com/Integuru-AI/Venmo-Unofficial-API)
-- [Hyperfine: A command-line benchmarking tool](https://github.com/sharkdp/hyperfine)
-- [Trieve &lpar;YC W24&rpar; Is Hiring a software engineer to build OpenAPI tooling](https://www.ycombinator.com/companies/trieve/jobs/arKjyiM-software-engineer-openapi-tooling)
-- [DNA testing company vanishes along with its customers&#39; genetic data](https://www.malwarebytes.com/blog/news/2024/11/dna-testing-company-vanishes-along-with-its-customers-genetic-data)
-- [End-to-End Tour of Text Layout/Rendering &lpar;2015&rpar;](http://litherum.blogspot.com/2015/02/end-to-end-tour-of-text-rendering.html)
-- [AMD now has more compute on the top 500 than Nvidia](https://www.nextplatform.com/2024/11/18/amd-now-has-more-compute-on-the-top500-than-nvidia/)
-- [20 years of Google Scholar](https://blog.google/outreach-initiatives/education/google-scholar-20-years/)
+- [Call for Developer Projects](https://github.com/bluesky-social/atproto/discussions/3049)
+- [Tiny Glade &#39;built&#39; its way to &gt;600k sold in a month](https://newsletter.gamediscover.co/p/how-tiny-glade-built-its-way-to-600k)
+- [GroMo &lpar;YC W21&rpar; Is Hiring](https://www.ycombinator.com/companies/gromo/jobs/C65u6ox-product-manager-insurance-insurance-background-must)
+- [I designed my website to look like a chat log](https://www.ypson.com)
+- [Apple Confirms Zero-Day Attacks Hitting macOS Systems](https://www.securityweek.com/apple-confirms-zero-day-attacks-hitting-intel-based-macs/)
+- [PaCMAP: Large-Scale Dimension Reduction with Both Global and Local Structure [pdf]](https://jmlr.org/papers/volume22/20-1061/20-1061.pdf)
+- [SpaceX Super Heavy splashes down in the gulf, canceling chopsticks landing](https://twitter.com/spacex/status/1858995009384837380)
+- [Using uv with PyTorch](https://docs.astral.sh/uv/guides/integration/pytorch/)
+- [Why is Apple Rosetta 2 fast? &lpar;2022&rpar;](https://dougallj.wordpress.com/2022/11/09/why-is-rosetta-2-fast/)
+- [El Capitan: New supercomputer is the fastest](https://spectrum.ieee.org/supercomputer-for-nukes)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

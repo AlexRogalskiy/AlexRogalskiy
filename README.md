@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Trump picks Linda McMahon for education, and says he won’t reconsider Matt Gaetz nomination – live](https://www.theguardian.com/us-news/live/2024/nov/19/donald-trump-hush-money-trial-president-us-election-elon-musk-republican-matt-gaetz)
-- [Hong Kong media mogul Jimmy Lai takes witness stand in collusion trial](https://www.theguardian.com/world/2024/nov/20/jimmy-lai-hong-kong-witness-stand-collusion-trial)
-- [Ukraine war briefing: US and UK slam Russia’s ‘irresponsible’ nuclear rhetoric](https://www.theguardian.com/world/2024/nov/20/ukraine-war-briefing-us-and-uk-slam-russias-irresponsible-nuclear-rhetoric)
-- [Vic Flick, guitarist on the James Bond theme, dies aged 87](https://www.theguardian.com/music/2024/nov/20/vic-flick-james-bond-theme-guitarist-dies-aged-87)
-- [‘We close the circle’: Rafa Nadal makes emotional exit after Davis Cup defeat](https://www.theguardian.com/sport/2024/nov/20/rafa-nadal-tennis-emotional-exit-davis-cup-defeat-spain-netherlands)
-- [Trump tariffs are coming, but some Chinese companies may already know how to avoid them](https://www.theguardian.com/world/2024/nov/20/donald-trump-tariffs-plan-china-imports-companies-impact-ntwnfb)
-- [Southerners among worst at spotting fake English accents, study finds](https://www.theguardian.com/science/2024/nov/20/southerners-among-worst-at-spotting-fake-english-accents-study-finds)
-- [Knife crime ‘blighting the lives of too many children’ in England, warn inspectors](https://www.theguardian.com/uk-news/2024/nov/20/knife-blighting-the-lives-of-too-many-children-in-england-warn-inspectors)
-- [Eight times more children will face extreme heatwaves by 2050s, Unicef says](https://www.theguardian.com/global-development/2024/nov/20/children-extreme-heatwaves-2050s-un)
-- [Wes Streeting orders review of physician associates’ role in NHS](https://www.theguardian.com/society/2024/nov/20/wes-streeting-review-physician-associates-nhs)
+- [US Senate rejects Bernie Sanders effort to block arms sales to Israel](https://www.theguardian.com/us-news/2024/nov/20/bernie-sanders-israel-gaza-resolution)
+- [Putin sends African lion, brown bears and cockatoos to North Korea as gift of support](https://www.theguardian.com/world/2024/nov/21/putin-north-korea-animals-gift-african-lion-brown-bears-cockatoos-ukraine-war)
+- [‘Resurgence’ in China aid to Pacific amid tussle with US for influence](https://www.theguardian.com/world/2024/nov/21/china-pacific-islands-aid-us-relationship-influence)
+- [Maurizio Cattelan’s duct-taped banana artwork fetches US$5.2m at New York auction](https://www.theguardian.com/artanddesign/2024/nov/21/maurizio-cattelans-duct-taped-banana-artwork-fetches-us52m-at-new-york-auction)
+- [The Simpsons: Milhouse voice actor Pamela Hayden retires from show after 35 years](https://www.theguardian.com/tv-and-radio/2024/nov/21/pamela-hayden-millhouse-simpsons-voice-actor-retires)
+- [Captain Tom’s family personally benefited from charity they founded, report finds](https://www.theguardian.com/uk-news/2024/nov/21/captain-tom-family-personally-benefited-from-charity-they-founded-report-finds)
+- [Mental health patients harmed by being sent to units far from home, report finds](https://www.theguardian.com/society/2024/nov/21/mental-health-patients-harmed-by-being-sent-to-units-far-from-home-report-finds)
+- [Captain Tom Foundation inquiry: three key failings](https://www.theguardian.com/uk-news/2024/nov/21/captain-tom-foundation-inquiry-three-key-failings)
+- [Private and state school pupils’ GCSE results are now the same, study finds](https://www.theguardian.com/education/2024/nov/21/private-and-state-school-pupils-gcse-results-are-now-the-same-study-finds)
+- [Survival rates in UK for two lethal cancers lower than in comparable countries, research shows](https://www.theguardian.com/society/2024/nov/21/survival-rates-in-uk-for-two-lethal-cancers-lower-than-in-comparable-countries-research-shows)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Webvm: Virtual Machine for the Web](https://github.com/leaningtech/webvm)
-- [Call for Developer Projects](https://github.com/bluesky-social/atproto/discussions/3049)
-- [Strava closes the gates to sharing fitness data with other apps](https://www.theverge.com/2024/11/19/24301056/strava-api-ai-data-sharing-policy-change-fitness-tracking)
-- [Ntuit shares fall after report that gov&#39;t efficiency team is considering tax app](https://www.cnbc.com/2024/11/19/hr-block-intuit-stocks-fall-following-trump-tax-filing-app-report.html)
-- [AI can learn to think before it speaks](https://www.ft.com/content/894669d6-d69d-4515-a18f-569afbf710e8)
-- [Where can I get validated accounts](https://news.ycombinator.com/item?id=42190302)
-- [The Good Whale](https://www.nytimes.com/interactive/2024/podcasts/serial-good-whale.html)
-- [DEX – Rexbit Exchange – Super State Channels](https://www.rexbit.exchange/)
-- [Mark Zuckerberg has rebuilt Meta around Llama](https://finance.yahoo.com/news/mark-zuckerberg-went-meta-major-103000635.html)
-- [Top Facebook Contest Apps to Supercharge Your Engagement](https://faisco.com/facebook_contest_app/15.html)
+- [Spirit Airlines CEO Got a $3.8M Bonus a Week Before Its Bankruptcy](https://www.thebignewsletter.com/p/spirit-airlines-ceo-got-a-38-million)
+- [Swedish police focus on Chinese ship after suspected undersea cable sabotage](https://www.theguardian.com/world/2024/nov/20/sweden-denmark-undersea-cable-sabotage-navy-investigation)
+- [Pixel Art GIF Upscaler](https://old.reddit.com/r/StableDiffusion/comments/1gvfttw/pixel_art_gif_upscaler/)
+- [Saythanks.io – Spreading Thankfulness in Open Source](https://saythanks.io/)
+- [Stealth fighters and a massive mothership drone: China high-tech weapons](https://www.cnn.com/2024/11/19/china/china-zhuhai-airshow-new-weapons-intl-hnk/index.html)
+- [Long childhood is the prelude to the evolution of a large brain](https://phys.org/news/2024-11-fossil-teeth-childhood-prelude-evolution.html)
+- [Coaxial-Rotor Aircraft](https://en.wikipedia.org/wiki/Coaxial-rotor_aircraft)
+- [The Meaning of Meaning, Ogden, Richards &lpar;1923&rpar;](https://books.google.com/books/about/The_Meaning_of_Meaning.html?id=I_FYAAAAMAAJ)
+- [Age Verification Laws Are Just a Path Towards Full Ban on Porn, Proponent Admits](https://www.techdirt.com/2024/08/20/age-verification-laws-are-just-a-path-towards-a-full-ban-on-porn-proponent-admits/)
+- [Man charged with planning attack on New York Stock Exchange](https://www.politico.com/news/2024/11/20/man-planning-attack-new-york-stock-exchange-00190811)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

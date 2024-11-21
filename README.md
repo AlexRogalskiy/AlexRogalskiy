@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Call for Developer Projects](https://github.com/bluesky-social/atproto/discussions/3049)
-- [Tiny Glade &#39;built&#39; its way to &gt;600k sold in a month](https://newsletter.gamediscover.co/p/how-tiny-glade-built-its-way-to-600k)
-- [GroMo &lpar;YC W21&rpar; Is Hiring](https://www.ycombinator.com/companies/gromo/jobs/C65u6ox-product-manager-insurance-insurance-background-must)
-- [I designed my website to look like a chat log](https://www.ypson.com)
-- [Apple Confirms Zero-Day Attacks Hitting macOS Systems](https://www.securityweek.com/apple-confirms-zero-day-attacks-hitting-intel-based-macs/)
-- [PaCMAP: Large-Scale Dimension Reduction with Both Global and Local Structure [pdf]](https://jmlr.org/papers/volume22/20-1061/20-1061.pdf)
-- [SpaceX Super Heavy splashes down in the gulf, canceling chopsticks landing](https://twitter.com/spacex/status/1858995009384837380)
-- [Using uv with PyTorch](https://docs.astral.sh/uv/guides/integration/pytorch/)
-- [Why is Apple Rosetta 2 fast? &lpar;2022&rpar;](https://dougallj.wordpress.com/2022/11/09/why-is-rosetta-2-fast/)
-- [El Capitan: New supercomputer is the fastest](https://spectrum.ieee.org/supercomputer-for-nukes)
+- [Show HN: We Open-Sourced Our Compost Monitoring Tech – Use It for Your Projects](https://github.com/gtls64/MontyHome-Hackers-Guide)
+- [Building Databases over a Weekend](https://www.denormalized.io/blog/building-databases)
+- [Vapi &lpar;YC W21&rpar; Is Hiring Founding Senior Engineer &lpar;Front End&rpar;](https://jobs.ashbyhq.com/vapi/4246b127-9f69-4a57-ac70-d16041f8403b)
+- [Apple fights to keep DOJ antitrust suit from reaching trial](https://www.theverge.com/2024/11/20/24301660/apple-doj-motion-dismiss-antitrust-lawsuit)
+- [Electrobun: Cross-platform desktop applications written in TypeScript](https://electrobun.dev/)
+- [Weight-loss drug found to shrink heart muscle in mice, human cells](https://www.ualberta.ca/en/folio/2024/11/weight-loss-drug-found-to-shrink-heart-muscle.html)
+- [Z-Library Helps Students to Overcome Academic Poverty, Study Finds](https://torrentfreak.com/z-library-helps-students-to-overcome-academic-poverty-study-finds-241120/)
+- [Bird flu in Canada may have mutated to become more transmissible to humans](https://www.theguardian.com/world/2024/nov/19/bird-flu-cases-mutation-canada)
+- [Doxx/Darkflare: DarkFlare TCPoCDN &lpar;TCP over CDN&rpar;](https://github.com/doxx/darkflare)
+- [Europe&#39;s Internet resilience mitigates impact of submarine cable cuts](https://blog.cloudflare.com/resilient-internet-connectivity-baltic-cable-cuts/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

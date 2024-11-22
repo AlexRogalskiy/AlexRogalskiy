@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Show HN: We Open-Sourced Our Compost Monitoring Tech – Use It for Your Projects](https://github.com/gtls64/MontyHome-Hackers-Guide)
-- [Building Databases over a Weekend](https://www.denormalized.io/blog/building-databases)
-- [Vapi &lpar;YC W21&rpar; Is Hiring Founding Senior Engineer &lpar;Front End&rpar;](https://jobs.ashbyhq.com/vapi/4246b127-9f69-4a57-ac70-d16041f8403b)
-- [Apple fights to keep DOJ antitrust suit from reaching trial](https://www.theverge.com/2024/11/20/24301660/apple-doj-motion-dismiss-antitrust-lawsuit)
-- [Electrobun: Cross-platform desktop applications written in TypeScript](https://electrobun.dev/)
-- [Weight-loss drug found to shrink heart muscle in mice, human cells](https://www.ualberta.ca/en/folio/2024/11/weight-loss-drug-found-to-shrink-heart-muscle.html)
-- [Z-Library Helps Students to Overcome Academic Poverty, Study Finds](https://torrentfreak.com/z-library-helps-students-to-overcome-academic-poverty-study-finds-241120/)
-- [Bird flu in Canada may have mutated to become more transmissible to humans](https://www.theguardian.com/world/2024/nov/19/bird-flu-cases-mutation-canada)
-- [Doxx/Darkflare: DarkFlare TCPoCDN &lpar;TCP over CDN&rpar;](https://github.com/doxx/darkflare)
-- [Europe&#39;s Internet resilience mitigates impact of submarine cable cuts](https://blog.cloudflare.com/resilient-internet-connectivity-baltic-cable-cuts/)
+- [DOJ proposal would require Google to divest from AI partnerships with Anthropic](https://www.bloomberg.com/news/articles/2024-11-21/us-justice-department-seeks-to-unwind-google-s-anthropic-deal)
+- [Tailwind CSS v4.0 Beta 1](https://tailwindcss.com/blog/tailwindcss-v4-beta)
+- [U.S. women are outpacing men in college completion in every major group](https://www.pewresearch.org/short-reads/2024/11/18/us-women-are-outpacing-men-in-college-completion-including-in-every-major-racial-and-ethnic-group/)
+- [Broadcastarr: Stream web content through your Jellyfin instance](https://github.com/Billos/Broadcastarr)
+- [What&#39;s Next for WebGPU](https://developer.chrome.com/blog/next-for-webgpu)
+- [Glass Health &lpar;YC W23&rpar; is hiring founding, senior and lead full-stack engineers](https://jobs.lever.co/glass-health-inc?team=Product%20%26%20Engineering)
+- [WhisperNER: Unified Open Named Entity and Speech Recognition](https://arxiv.org/abs/2409.08107)
+- [A Study of Malware Prevention in Linux Distributions](https://arxiv.org/abs/2411.11017)
+- [Autopoietic Networks](https://gbragafibra.github.io/2024/10/08/autopoietic_nets.html)
+- [Security researchers identify new malware targeting Linux](https://www.welivesecurity.com/en/eset-research/unveiling-wolfsbane-gelsemiums-linux-counterpart-to-gelsevirine/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

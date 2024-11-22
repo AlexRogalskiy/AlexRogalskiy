@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Spirit Airlines CEO Got a $3.8M Bonus a Week Before Its Bankruptcy](https://www.thebignewsletter.com/p/spirit-airlines-ceo-got-a-38-million)
-- [Swedish police focus on Chinese ship after suspected undersea cable sabotage](https://www.theguardian.com/world/2024/nov/20/sweden-denmark-undersea-cable-sabotage-navy-investigation)
-- [Pixel Art GIF Upscaler](https://old.reddit.com/r/StableDiffusion/comments/1gvfttw/pixel_art_gif_upscaler/)
-- [Saythanks.io – Spreading Thankfulness in Open Source](https://saythanks.io/)
-- [Stealth fighters and a massive mothership drone: China high-tech weapons](https://www.cnn.com/2024/11/19/china/china-zhuhai-airshow-new-weapons-intl-hnk/index.html)
-- [Long childhood is the prelude to the evolution of a large brain](https://phys.org/news/2024-11-fossil-teeth-childhood-prelude-evolution.html)
-- [Coaxial-Rotor Aircraft](https://en.wikipedia.org/wiki/Coaxial-rotor_aircraft)
-- [The Meaning of Meaning, Ogden, Richards &lpar;1923&rpar;](https://books.google.com/books/about/The_Meaning_of_Meaning.html?id=I_FYAAAAMAAJ)
-- [Age Verification Laws Are Just a Path Towards Full Ban on Porn, Proponent Admits](https://www.techdirt.com/2024/08/20/age-verification-laws-are-just-a-path-towards-a-full-ban-on-porn-proponent-admits/)
-- [Man charged with planning attack on New York Stock Exchange](https://www.politico.com/news/2024/11/20/man-planning-attack-new-york-stock-exchange-00190811)
+- [Microsoft Copilot Customers Discover It Can Let Them Read HR Docs and CEO Emails](https://21hats.substack.com/p/all-of-a-sudden-joe-blow-can-see)
+- [Autoflow, a Graph RAG based and conversational knowledge base tool](https://github.com/pingcap/autoflow)
+- [India&#39;s Moon orbiter moved to dodge Korean and USA craft](https://www.theregister.com/2024/11/22/indian_korean_moon_orbiters_near_miss/)
+- [Ask HN: Why is 100K singular but 20Megs plural?](https://news.ycombinator.com/item?id=42210652)
+- [&#39;Black Myth: Wukong&#39; Wins 2024 Game of the Year at Golden Joysticks](https://www.gamesradar.com/games/here-are-all-the-golden-joystick-awards-2024-winners/)
+- [Paul Sagar on coming to terms with the climbing accident that paralysed him](https://www.theguardian.com/world/2024/nov/17/it-has-been-a-year-since-i-felt-joy-paul-sagar-on-coming-to-terms-with-the-climbing-accident-that-paralysed-him)
+- [Analyzing Hugging Face Posts with Graphs and Agents](https://colab.research.google.com/github/neuml/txtai/blob/master/examples/68_Analyzing_Hugging_Face_Posts_with_Graphs_and_Agents.ipynb)
+- [How Americans Celebrate Thanksgiving](https://www.pewresearch.org/short-reads/2024/11/21/the-vast-majority-of-americans-celebrate-thanksgiving-but-their-traditions-and-activities-vary-widely/)
+- [Sports Psychologist Continues Copyright Suits over Retweets by School Officials](https://www.techdirt.com/2024/11/21/sports-psychologist-continues-bullshit-copyright-suits-over-retweets-by-school-officials/)
+- [A deep dive on the Turbo Encabulator](https://bsky.app/profile/jochen.earth/post/3lbiw2bjcu22n)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

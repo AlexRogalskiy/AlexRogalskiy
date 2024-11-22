@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [US Senate rejects Bernie Sanders effort to block arms sales to Israel](https://www.theguardian.com/us-news/2024/nov/20/bernie-sanders-israel-gaza-resolution)
-- [Putin sends African lion, brown bears and cockatoos to North Korea as gift of support](https://www.theguardian.com/world/2024/nov/21/putin-north-korea-animals-gift-african-lion-brown-bears-cockatoos-ukraine-war)
-- [‘Resurgence’ in China aid to Pacific amid tussle with US for influence](https://www.theguardian.com/world/2024/nov/21/china-pacific-islands-aid-us-relationship-influence)
-- [Maurizio Cattelan’s duct-taped banana artwork fetches US$5.2m at New York auction](https://www.theguardian.com/artanddesign/2024/nov/21/maurizio-cattelans-duct-taped-banana-artwork-fetches-us52m-at-new-york-auction)
-- [The Simpsons: Milhouse voice actor Pamela Hayden retires from show after 35 years](https://www.theguardian.com/tv-and-radio/2024/nov/21/pamela-hayden-millhouse-simpsons-voice-actor-retires)
-- [Captain Tom’s family personally benefited from charity they founded, report finds](https://www.theguardian.com/uk-news/2024/nov/21/captain-tom-family-personally-benefited-from-charity-they-founded-report-finds)
-- [Mental health patients harmed by being sent to units far from home, report finds](https://www.theguardian.com/society/2024/nov/21/mental-health-patients-harmed-by-being-sent-to-units-far-from-home-report-finds)
-- [Captain Tom Foundation inquiry: three key failings](https://www.theguardian.com/uk-news/2024/nov/21/captain-tom-foundation-inquiry-three-key-failings)
-- [Private and state school pupils’ GCSE results are now the same, study finds](https://www.theguardian.com/education/2024/nov/21/private-and-state-school-pupils-gcse-results-are-now-the-same-study-finds)
-- [Survival rates in UK for two lethal cancers lower than in comparable countries, research shows](https://www.theguardian.com/society/2024/nov/21/survival-rates-in-uk-for-two-lethal-cancers-lower-than-in-comparable-countries-research-shows)
+- [Australia v India: first men’s Test, day one – live](https://www.theguardian.com/sport/live/2024/nov/22/australia-vs-india-cricket-first-test-match-live-blog-updates-day-one-scores-results-start-time-optus-stadium-perth)
+- [Death Becomes Her review – 90s comedy gets dazzling Broadway rebirth](https://www.theguardian.com/stage/2024/nov/21/death-becomes-her-review-broadway)
+- [Trump names Pam Bondi as attorney general pick after Gaetz steps aside](https://www.theguardian.com/us-news/2024/nov/21/trump-attorney-general-pick-pam-bondi)
+- [ICC issues arrest warrant for Benjamin Netanyahu for alleged Gaza war crimes](https://www.theguardian.com/world/2024/nov/21/icc-issues-arrest-warrant-for-benjamin-netanyahu-israel)
+- [Tesla’s path in China clears as Musk courts both Trump and Xi](https://www.theguardian.com/technology/2024/nov/22/elon-musk-tesla-china-us-relationship-trump-xi-jinping)
+- [Yvette Cooper to set out crackdown on antisocial behaviour including jail terms](https://www.theguardian.com/uk-news/2024/nov/22/labour-to-issue-jail-terms-and-new-police-powers-to-tackle-anti-social-behaviour)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2024/nov/22/premier-league-10-things-to-look-out-for-this-weekend)
+- [McKinsey nears $600m settlement with US government over role in opioid crisis](https://www.theguardian.com/us-news/2024/nov/21/mckinsey-opioid-crisis-epidemic-government-settlement)
+- [Now is the time to unplug and reset. Next year we enter a more dangerous world – but for now I need the silence of nature | Paul Daley](https://www.theguardian.com/commentisfree/2024/nov/22/now-is-the-time-to-unplug-and-reset-next-year-we-enter-a-more-dangerous-world-but-for-now-i-need-the-silence-of-nature-ntwnfb)
+- [Armando Broja on ‘fast-track’ to make Everton debut after long-term injury](https://www.theguardian.com/football/2024/nov/21/armando-broja-fast-track-everton-debut-after-long-term-injury)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

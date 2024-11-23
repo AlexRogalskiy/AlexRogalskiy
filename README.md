@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Australia v India: first men’s Test, day one – live](https://www.theguardian.com/sport/live/2024/nov/22/australia-vs-india-cricket-first-test-match-live-blog-updates-day-one-scores-results-start-time-optus-stadium-perth)
-- [Death Becomes Her review – 90s comedy gets dazzling Broadway rebirth](https://www.theguardian.com/stage/2024/nov/21/death-becomes-her-review-broadway)
-- [Trump names Pam Bondi as attorney general pick after Gaetz steps aside](https://www.theguardian.com/us-news/2024/nov/21/trump-attorney-general-pick-pam-bondi)
-- [ICC issues arrest warrant for Benjamin Netanyahu for alleged Gaza war crimes](https://www.theguardian.com/world/2024/nov/21/icc-issues-arrest-warrant-for-benjamin-netanyahu-israel)
-- [Tesla’s path in China clears as Musk courts both Trump and Xi](https://www.theguardian.com/technology/2024/nov/22/elon-musk-tesla-china-us-relationship-trump-xi-jinping)
-- [Yvette Cooper to set out crackdown on antisocial behaviour including jail terms](https://www.theguardian.com/uk-news/2024/nov/22/labour-to-issue-jail-terms-and-new-police-powers-to-tackle-anti-social-behaviour)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2024/nov/22/premier-league-10-things-to-look-out-for-this-weekend)
-- [McKinsey nears $600m settlement with US government over role in opioid crisis](https://www.theguardian.com/us-news/2024/nov/21/mckinsey-opioid-crisis-epidemic-government-settlement)
-- [Now is the time to unplug and reset. Next year we enter a more dangerous world – but for now I need the silence of nature | Paul Daley](https://www.theguardian.com/commentisfree/2024/nov/22/now-is-the-time-to-unplug-and-reset-next-year-we-enter-a-more-dangerous-world-but-for-now-i-need-the-silence-of-nature-ntwnfb)
-- [Armando Broja on ‘fast-track’ to make Everton debut after long-term injury](https://www.theguardian.com/football/2024/nov/21/armando-broja-fast-track-everton-debut-after-long-term-injury)
+- [Australia v India: first men’s Test, day two – live](https://www.theguardian.com/sport/live/2024/nov/23/australia-vs-india-cricket-first-test-match-live-blog-updates-day-two-scores-results-start-time-optus-stadium-perth)
+- [Trump picks hedge-fund investor Scott Bessent for treasury secretary](https://www.theguardian.com/us-news/2024/nov/22/trump-cabinet-treasury-secretary-scott-bessent)
+- [Emperor penguin that travelled 3,000km to West Australian beach begins long journey home](https://www.theguardian.com/australia-news/2024/nov/23/emperor-penguin-west-australia-antarctica-southern-ocean)
+- [European football: Kane hits hat-trick for leaders Bayern as PSG cruise](https://www.theguardian.com/football/2024/nov/22/european-roundup-kane-hat-trick-bayern-psg-cruise)
+- [Furore sparked by Jamie Oliver children’s book opens wider cultural appropriation debate](https://www.theguardian.com/books/2024/nov/23/furore-sparked-by-jamie-oliver-cultural-appropriation-engulfs-more-writers-ntwnfb)
+- [‘It looked as good as new’: readers share their tips for repairing household items](https://www.theguardian.com/australia-news/2024/nov/23/it-looked-as-good-as-new-readers-share-their-tips-for-repairing-household-items)
+- [Matt Gaetz charging $500 to make bespoke fan videos on Cameo website](https://www.theguardian.com/us-news/2024/nov/22/matt-gaetz-cameo-fan-videos)
+- [‘I love fighting for this club’: Guardiola on his drive to stay at Manchester City](https://www.theguardian.com/football/2024/nov/22/i-love-fighting-for-this-club-guardiola-on-his-drive-to-stay-at-manchester-city)
+- [Mikel Arteta returns from visit to owners to ignite Arsenal’s title challenge](https://www.theguardian.com/football/2024/nov/22/mikel-arteta-returns-visit-owners-arsenal-title-challenge)
+- [Loaded: Lads, Mags and Mayhem review – how a drug-fuelled publishing bender went very wrong](https://www.theguardian.com/tv-and-radio/2024/nov/22/loaded-lads-mags-and-mayhem-review-how-a-drug-fuelled-publishing-bender-went-very-wrong)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

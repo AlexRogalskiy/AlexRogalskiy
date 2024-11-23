@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Microsoft Copilot Customers Discover It Can Let Them Read HR Docs and CEO Emails](https://21hats.substack.com/p/all-of-a-sudden-joe-blow-can-see)
-- [Autoflow, a Graph RAG based and conversational knowledge base tool](https://github.com/pingcap/autoflow)
-- [India&#39;s Moon orbiter moved to dodge Korean and USA craft](https://www.theregister.com/2024/11/22/indian_korean_moon_orbiters_near_miss/)
-- [Ask HN: Why is 100K singular but 20Megs plural?](https://news.ycombinator.com/item?id=42210652)
-- [&#39;Black Myth: Wukong&#39; Wins 2024 Game of the Year at Golden Joysticks](https://www.gamesradar.com/games/here-are-all-the-golden-joystick-awards-2024-winners/)
-- [Paul Sagar on coming to terms with the climbing accident that paralysed him](https://www.theguardian.com/world/2024/nov/17/it-has-been-a-year-since-i-felt-joy-paul-sagar-on-coming-to-terms-with-the-climbing-accident-that-paralysed-him)
-- [Analyzing Hugging Face Posts with Graphs and Agents](https://colab.research.google.com/github/neuml/txtai/blob/master/examples/68_Analyzing_Hugging_Face_Posts_with_Graphs_and_Agents.ipynb)
-- [How Americans Celebrate Thanksgiving](https://www.pewresearch.org/short-reads/2024/11/21/the-vast-majority-of-americans-celebrate-thanksgiving-but-their-traditions-and-activities-vary-widely/)
-- [Sports Psychologist Continues Copyright Suits over Retweets by School Officials](https://www.techdirt.com/2024/11/21/sports-psychologist-continues-bullshit-copyright-suits-over-retweets-by-school-officials/)
-- [A deep dive on the Turbo Encabulator](https://bsky.app/profile/jochen.earth/post/3lbiw2bjcu22n)
+- [Why We&#39;re Leaving the Cloud](https://world.hey.com/dhh/why-we-re-leaving-the-cloud-654b47e0)
+- [Ask HN: Best non-fiction book you read in 2024?](https://news.ycombinator.com/item?id=42218828)
+- [The Pilgrim as a Historian](https://www.historytoday.com/archive/making-history/pilgrim-historian)
+- [Laos Methanol Poisonings](https://www.bbc.com/news/articles/cdxv700qg50o)
+- [Show HN](https://testflight.apple.com/join/W74AXGam)
+- [Microsoft&#39;s New PC Looks Just Like a Mac Mini but Serves a Whole New Purpose](https://www.slashgear.com/1717092/microsoft-new-pc-mac-mini-lookalike/)
+- [NATO, Ukraine hold emergency talks after Russia&#39;s new hypersonic missile attack](https://apnews.com/article/russia-ukraine-war-missile-parliament-d374dc8ca0fa626e674d29df01ce95cd)
+- [OpenAI Email Archives from Musk vs. Altman](https://www.lesswrong.com/posts/5jjk4CDnj9tA7ugxr/openai-email-archives-from-musk-v-altman)
+- [Perplexity made up fake data and then used it to answer my question](https://www.asterave.com/blog/rag-gone-wrong)
+- [AI Snake Oil [video]](https://www.youtube.com/watch?v=CedHzg-VRiI)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

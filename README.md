@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [DOJ proposal would require Google to divest from AI partnerships with Anthropic](https://www.bloomberg.com/news/articles/2024-11-21/us-justice-department-seeks-to-unwind-google-s-anthropic-deal)
-- [Tailwind CSS v4.0 Beta 1](https://tailwindcss.com/blog/tailwindcss-v4-beta)
-- [U.S. women are outpacing men in college completion in every major group](https://www.pewresearch.org/short-reads/2024/11/18/us-women-are-outpacing-men-in-college-completion-including-in-every-major-racial-and-ethnic-group/)
-- [Broadcastarr: Stream web content through your Jellyfin instance](https://github.com/Billos/Broadcastarr)
-- [What&#39;s Next for WebGPU](https://developer.chrome.com/blog/next-for-webgpu)
-- [Glass Health &lpar;YC W23&rpar; is hiring founding, senior and lead full-stack engineers](https://jobs.lever.co/glass-health-inc?team=Product%20%26%20Engineering)
-- [WhisperNER: Unified Open Named Entity and Speech Recognition](https://arxiv.org/abs/2409.08107)
-- [A Study of Malware Prevention in Linux Distributions](https://arxiv.org/abs/2411.11017)
-- [Autopoietic Networks](https://gbragafibra.github.io/2024/10/08/autopoietic_nets.html)
-- [Security researchers identify new malware targeting Linux](https://www.welivesecurity.com/en/eset-research/unveiling-wolfsbane-gelsemiums-linux-counterpart-to-gelsevirine/)
+- [Ask HN: Best non-fiction book you read in 2024?](https://news.ycombinator.com/item?id=42218828)
+- [Microsoft&#39;s New PC Looks Just Like a Mac Mini but Serves a Whole New Purpose](https://www.slashgear.com/1717092/microsoft-new-pc-mac-mini-lookalike/)
+- [How to Create &lpar;Lots of&rpar; Sample Time-series Data with PostgreSQL &lpar;2021&rpar;](https://www.timescale.com/blog/how-to-create-lots-of-sample-time-series-data-with-postgresql-generate_series/)
+- [MaXX Interactive Desktop -- the little brother of the great SGI Desktop on IRIX](https://docs.maxxinteractive.com/)
+- [RGFW: Single-header C99 window abstraction library](https://github.com/ColleagueRiley/RGFW)
+- [Translating My Grandfather&#39;s Biograpy](https://blog.korny.info/2024/11/17/translating-my-grandfathers-biography)
+- [Understanding Google&#39;s Quantum Error Correction Breakthrough](https://www.quantum-machines.co/blog/understanding-googles-quantum-error-correction-breakthrough/)
+- [Phased Array Microphone &lpar;2023&rpar;](https://benwang.dev/2023/02/26/Phased-Array-Microphone.html)
+- [Wasp &lpar;YC W21&rpar; is hiring a framework engineer to build Laravel for JavaScript](https://news.ycombinator.com/item?id=42215453)
+- [Rendering &quot;modern&quot; Winamp skins in the browser](https://jordaneldredge.com/notes/webamp-modern/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

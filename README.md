@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Australia v India: first men’s Test, day two – live](https://www.theguardian.com/sport/live/2024/nov/23/australia-vs-india-cricket-first-test-match-live-blog-updates-day-two-scores-results-start-time-optus-stadium-perth)
-- [Trump picks hedge-fund investor Scott Bessent for treasury secretary](https://www.theguardian.com/us-news/2024/nov/22/trump-cabinet-treasury-secretary-scott-bessent)
-- [Emperor penguin that travelled 3,000km to West Australian beach begins long journey home](https://www.theguardian.com/australia-news/2024/nov/23/emperor-penguin-west-australia-antarctica-southern-ocean)
-- [European football: Kane hits hat-trick for leaders Bayern as PSG cruise](https://www.theguardian.com/football/2024/nov/22/european-roundup-kane-hat-trick-bayern-psg-cruise)
-- [Furore sparked by Jamie Oliver children’s book opens wider cultural appropriation debate](https://www.theguardian.com/books/2024/nov/23/furore-sparked-by-jamie-oliver-cultural-appropriation-engulfs-more-writers-ntwnfb)
-- [‘It looked as good as new’: readers share their tips for repairing household items](https://www.theguardian.com/australia-news/2024/nov/23/it-looked-as-good-as-new-readers-share-their-tips-for-repairing-household-items)
-- [Matt Gaetz charging $500 to make bespoke fan videos on Cameo website](https://www.theguardian.com/us-news/2024/nov/22/matt-gaetz-cameo-fan-videos)
-- [‘I love fighting for this club’: Guardiola on his drive to stay at Manchester City](https://www.theguardian.com/football/2024/nov/22/i-love-fighting-for-this-club-guardiola-on-his-drive-to-stay-at-manchester-city)
-- [Mikel Arteta returns from visit to owners to ignite Arsenal’s title challenge](https://www.theguardian.com/football/2024/nov/22/mikel-arteta-returns-visit-owners-arsenal-title-challenge)
-- [Loaded: Lads, Mags and Mayhem review – how a drug-fuelled publishing bender went very wrong](https://www.theguardian.com/tv-and-radio/2024/nov/22/loaded-lads-mags-and-mayhem-review-how-a-drug-fuelled-publishing-bender-went-very-wrong)
+- [Ukraine war briefing: No ‘red lines’ when it comes to support for Ukraine, says French foreign minister](https://www.theguardian.com/world/2024/nov/24/ukraine-war-briefing-no-red-lines-when-it-comes-to-support-for-ukraine-says-french-foreign-minister)
+- [Minister confirms talks under way to return surviving Bali Nine members to Australia](https://www.theguardian.com/world/2024/nov/24/minister-confirms-talks-under-way-to-return-surviving-bali-nine-members-to-australia)
+- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2024/nov/23/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Trend watch: get ready to dazzle in metallic partywear](https://www.theguardian.com/fashion/2024/nov/23/trend-watch-get-ready-to-dazzle-in-metallic-partywear)
+- [Cop29 agrees $1.3tn climate finance deal but campaigners brand it a ‘betrayal’](https://www.theguardian.com/environment/2024/nov/23/cop29-agrees-13tn-climate-finance-deal-but-campaigners-brand-it-a-betrayal)
+- [A nostalgic photographic road trip  across Australia – in pictures](https://www.theguardian.com/australia-news/gallery/2024/nov/24/a-nostalgic-photographic-road-trip-across-australia-in-pictures)
+- [From Strictly Ballroom to Sydney’s saviour: how heritage town halls are staging a comeback](https://www.theguardian.com/culture/2024/nov/24/inner-west-council-town-halls-open-arts-organisations-free)
+- [Stokes and McCullum need strong start to year that could define Bazball](https://www.theguardian.com/sport/2024/nov/23/stokes-and-mccullum-need-strong-start-to-year-that-could-define-bazball)
+- [Schooled like Mourinho: Amorim’s path from pioneering Lisbon university](https://www.theguardian.com/football/2024/nov/23/schooled-like-mourinho-amorims-path-from-pioneering-lisbon-university)
+- [RFU accused of betraying game over Premiership promotion criteria](https://www.theguardian.com/sport/2024/nov/23/rfu-accused-betraying-rugby-premiership-promotion-criteria)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

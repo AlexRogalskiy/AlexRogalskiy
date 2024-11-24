@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Ask HN: Best non-fiction book you read in 2024?](https://news.ycombinator.com/item?id=42218828)
-- [Microsoft&#39;s New PC Looks Just Like a Mac Mini but Serves a Whole New Purpose](https://www.slashgear.com/1717092/microsoft-new-pc-mac-mini-lookalike/)
-- [How to Create &lpar;Lots of&rpar; Sample Time-series Data with PostgreSQL &lpar;2021&rpar;](https://www.timescale.com/blog/how-to-create-lots-of-sample-time-series-data-with-postgresql-generate_series/)
-- [MaXX Interactive Desktop -- the little brother of the great SGI Desktop on IRIX](https://docs.maxxinteractive.com/)
-- [RGFW: Single-header C99 window abstraction library](https://github.com/ColleagueRiley/RGFW)
-- [Translating My Grandfather&#39;s Biograpy](https://blog.korny.info/2024/11/17/translating-my-grandfathers-biography)
-- [Understanding Google&#39;s Quantum Error Correction Breakthrough](https://www.quantum-machines.co/blog/understanding-googles-quantum-error-correction-breakthrough/)
-- [Phased Array Microphone &lpar;2023&rpar;](https://benwang.dev/2023/02/26/Phased-Array-Microphone.html)
-- [Wasp &lpar;YC W21&rpar; is hiring a framework engineer to build Laravel for JavaScript](https://news.ycombinator.com/item?id=42215453)
-- [Rendering &quot;modern&quot; Winamp skins in the browser](https://jordaneldredge.com/notes/webamp-modern/)
+- [The biggest blocker to LibreOffice adoption? LibreOffice](https://www.dedoimedo.com/computers/libreoffice-adoption.html)
+- [Ice base melt revealed by multibeam imagery of an Antarctic ice shelf](https://www.science.org/doi/10.1126/sciadv.adn9188)
+- [Bocker: Docker implemented in around 100 lines of Bash &lpar;2015&rpar;](https://github.com/p8952/bocker)
+- [Evidence of oldest known alphabetic writing unearthed in ancient Syrian city](https://hub.jhu.edu/2024/11/21/ancient-alphabet-discovered-syria/)
+- [Establishing an etiquette for LLM use on Libera.Chat](https://libera.chat/news/llm-etiquette)
+- [AI PCs make users less productive](https://www.theregister.com/2024/11/22/ai_pcs_productivity/)
+- [Anti-scale: a response to AI in journalism](https://www.tylerjfisher.com/blog/post/2024/02/01/anti-scale-a-response-to-ai-in-journalism)
+- [Continuous Integration Dashboard for Apache NuttX RTOS &lpar;Prometheus and Grafana&rpar;](https://lupyuen.github.io/articles/ci4)
+- [Antenna Diodes in the Pentium Processor](http://www.righto.com/2024/11/antenna-diodes-in-pentium-processor.html)
+- [Energy is frame-dependent, infrastructure of energy is frame-independent &lpar;2020&rpar;](https://noswampcoolers.blogspot.com/2020/04/energy-is-frame-dependent.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

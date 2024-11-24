@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Why We&#39;re Leaving the Cloud](https://world.hey.com/dhh/why-we-re-leaving-the-cloud-654b47e0)
-- [Ask HN: Best non-fiction book you read in 2024?](https://news.ycombinator.com/item?id=42218828)
-- [The Pilgrim as a Historian](https://www.historytoday.com/archive/making-history/pilgrim-historian)
-- [Laos Methanol Poisonings](https://www.bbc.com/news/articles/cdxv700qg50o)
-- [Show HN](https://testflight.apple.com/join/W74AXGam)
-- [Microsoft&#39;s New PC Looks Just Like a Mac Mini but Serves a Whole New Purpose](https://www.slashgear.com/1717092/microsoft-new-pc-mac-mini-lookalike/)
-- [NATO, Ukraine hold emergency talks after Russia&#39;s new hypersonic missile attack](https://apnews.com/article/russia-ukraine-war-missile-parliament-d374dc8ca0fa626e674d29df01ce95cd)
-- [OpenAI Email Archives from Musk vs. Altman](https://www.lesswrong.com/posts/5jjk4CDnj9tA7ugxr/openai-email-archives-from-musk-v-altman)
-- [Perplexity made up fake data and then used it to answer my question](https://www.asterave.com/blog/rag-gone-wrong)
-- [AI Snake Oil [video]](https://www.youtube.com/watch?v=CedHzg-VRiI)
+- [An Implementation of Brick Breaker on the MacOS Desktop](https://github.com/tfrank11/MacDesktopBrickBreaker)
+- [&#39;An AI Fukushima is inevitable&#39;: technology&#39;s immense potential and dangers](https://www.theguardian.com/science/2024/nov/22/an-ai-fukushima-is-inevitable-scientists-discuss-technologys-immense-potential-and-dangers)
+- [Ancient DNA Methylation: Biologists Unlock Secrets of Human Evolution](https://scitechdaily.com/ancient-dna-methylation-biologists-unlock-secrets-of-human-evolution/)
+- [Youngest Planet Discovery Shatters Planetary Formation Theories](https://scitechdaily.com/youngest-planet-discovery-shatters-planetary-formation-theories/)
+- [The Wealth Money Can&#39;t Buy: The 8 Hidden Habits to Live Your Richest Life](https://www.penguinrandomhouse.com/books/756551/the-wealth-money-cant-buy-by-robin-sharma/)
+- [Putin&#39;s Near Motionless Hands Reignite Health Rumors](https://www.newsweek.com/putin-near-motionless-hands-reignite-health-rumors-what-know-1990321)
+- [FelixKratz/SketchyVim: Adds all Vim moves and modes to macOS text fields](https://github.com/FelixKratz/SketchyVim)
+- [FelixKratz/SketchyBar: A highly customizable macOS status bar replacement](https://github.com/FelixKratz/SketchyBar)
+- [Frosted Glass from Games to the Web: HTML glass UI inspired by AAA game dev](https://www.tyleo.com/html-glass.html)
+- [Privilege escalation vulnerabilities don&#39;t matter](https://wheybags.com/blog/privesc.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

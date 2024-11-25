@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [An Implementation of Brick Breaker on the MacOS Desktop](https://github.com/tfrank11/MacDesktopBrickBreaker)
-- [&#39;An AI Fukushima is inevitable&#39;: technology&#39;s immense potential and dangers](https://www.theguardian.com/science/2024/nov/22/an-ai-fukushima-is-inevitable-scientists-discuss-technologys-immense-potential-and-dangers)
-- [Ancient DNA Methylation: Biologists Unlock Secrets of Human Evolution](https://scitechdaily.com/ancient-dna-methylation-biologists-unlock-secrets-of-human-evolution/)
-- [Youngest Planet Discovery Shatters Planetary Formation Theories](https://scitechdaily.com/youngest-planet-discovery-shatters-planetary-formation-theories/)
-- [The Wealth Money Can&#39;t Buy: The 8 Hidden Habits to Live Your Richest Life](https://www.penguinrandomhouse.com/books/756551/the-wealth-money-cant-buy-by-robin-sharma/)
-- [Putin&#39;s Near Motionless Hands Reignite Health Rumors](https://www.newsweek.com/putin-near-motionless-hands-reignite-health-rumors-what-know-1990321)
-- [FelixKratz/SketchyVim: Adds all Vim moves and modes to macOS text fields](https://github.com/FelixKratz/SketchyVim)
-- [FelixKratz/SketchyBar: A highly customizable macOS status bar replacement](https://github.com/FelixKratz/SketchyBar)
-- [Frosted Glass from Games to the Web: HTML glass UI inspired by AAA game dev](https://www.tyleo.com/html-glass.html)
-- [Privilege escalation vulnerabilities don&#39;t matter](https://wheybags.com/blog/privesc.html)
+- [Zero Disk Architecture for Databases](https://avi.im/blag/2024/zero-disk-architecture/)
+- [Should I join a msc.csit in Nepal?](https://news.ycombinator.com/item?id=42232800)
+- [It&#39;s a bird, it&#39;s a plane, it&#39;s Super Cassette Vision](https://nicole.express/2024/its-a-bird-its-a-plane-its-super-cassette-vision.html)
+- [FastCompany fabricates Palmer Lucky quote](https://twitter.com/PalmerLuckey/status/1860526874327388347)
+- [Do EV Road Trips Still Suck Without a Tesla? [video]](https://www.youtube.com/watch?v=ouPiwt5hxXQ)
+- [How Every Computer Is a Chinese Computer](https://www.cigionline.org/pp/how-every-computer-is-a-chinese-computer-twirling-the-cord-with-thomas-mullaney/)
+- [Unexpected Benefits of Being Vulnerable on the Internet](https://blog.depthsofrepair.com/p/unexpected-benefits-of-being-vulnerable)
+- [Monitor replacement – using a projector for a home office setup](https://sofiapandelea.medium.com/monitor-replacement-using-a-projector-for-a-home-office-setup-231d2891b3ae)
+- [South African anti-apartheid writer Breytenbach dies](https://www.bbc.com/news/articles/cx2lzy87veno)
+- [RFC 5841 – TCP Option to Denote Packet Mood](https://datatracker.ietf.org/doc/html/rfc5841)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

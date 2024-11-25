@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The biggest blocker to LibreOffice adoption? LibreOffice](https://www.dedoimedo.com/computers/libreoffice-adoption.html)
-- [Ice base melt revealed by multibeam imagery of an Antarctic ice shelf](https://www.science.org/doi/10.1126/sciadv.adn9188)
-- [Bocker: Docker implemented in around 100 lines of Bash &lpar;2015&rpar;](https://github.com/p8952/bocker)
-- [Evidence of oldest known alphabetic writing unearthed in ancient Syrian city](https://hub.jhu.edu/2024/11/21/ancient-alphabet-discovered-syria/)
-- [Establishing an etiquette for LLM use on Libera.Chat](https://libera.chat/news/llm-etiquette)
-- [AI PCs make users less productive](https://www.theregister.com/2024/11/22/ai_pcs_productivity/)
-- [Anti-scale: a response to AI in journalism](https://www.tylerjfisher.com/blog/post/2024/02/01/anti-scale-a-response-to-ai-in-journalism)
-- [Continuous Integration Dashboard for Apache NuttX RTOS &lpar;Prometheus and Grafana&rpar;](https://lupyuen.github.io/articles/ci4)
-- [Antenna Diodes in the Pentium Processor](http://www.righto.com/2024/11/antenna-diodes-in-pentium-processor.html)
-- [Energy is frame-dependent, infrastructure of energy is frame-independent &lpar;2020&rpar;](https://noswampcoolers.blogspot.com/2020/04/energy-is-frame-dependent.html)
+- [Wildlife monitoring technologies used to intimidate and spy on women](https://www.cam.ac.uk/research/news/wildlife-monitoring-technologies-used-to-intimidate-and-spy-on-women-study-finds)
+- [RFC 35140: HTTP Do-Not-Stab &lpar;2023&rpar;](https://www.5snb.club/posts/2023/do-not-stab/)
+- [SQLiteStudio: Create, edit, browse SQLite databases](https://sqlitestudio.pl/)
+- [Worldtimeapp.com Easy Timezone Converter](https://worldtimeapp.com/)
+- [Bluesky is on the verge of overtaking Threads in all the ways that matter](https://mashable.com/article/bluesky-gaining-ground-on-competitor-meta-threads)
+- [Build network societies, not network states](https://www.combinationsmag.com/build-network-societies-not-network-states/)
+- [Continue &lpar;YC S23&rpar; Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
+- [Removing half a ton of HEU from Kazakhstan &lpar;2014&rpar;](https://nsarchive2.gwu.edu/NSAEBB/NSAEBB491/)
+- [This website is hosted on Bluesky](https://danielmangum.com/posts/this-website-is-hosted-on-bluesky/)
+- [SQLite: Outlandish Recursive Query Examples](https://www.sqlite.org/lang_with.html#outlandish_recursive_query_examples)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

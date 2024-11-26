@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Australia v India: first men’s Test, day four – live](https://www.theguardian.com/sport/live/2024/nov/25/australia-vs-india-cricket-first-test-match-live-blog-updates-day-four-scores-results-start-time-optus-stadium-perth)
-- [Ukraine war briefing: Ukraine targeted by nearly 500 Iran-designed drones in a week, Zelenskyy says](https://www.theguardian.com/world/2024/nov/25/ukraine-war-briefing-ukraine-targeted-by-nearly-500-iran-designed-drones-in-a-week-zelenskyy-says)
-- [Beijing orders investigations into local disputes after spate of deadly attacks](https://www.theguardian.com/world/2024/nov/25/beijing-violence-stabbings-attacks)
-- [Wicked slays Gladiator II in ticket sales duel as new films boost box office](https://www.theguardian.com/film/2024/nov/24/wicked-gladiator-ii-glicked-box-office)
-- [One in seven A&amp;E patients are repeat visitors with unmet needs, study finds](https://www.theguardian.com/society/2024/nov/25/accident-and-emergency-patients-repeat-visitors-unmet-needs-study)
-- [At least five dead amid ‘devastating’ flooding as Storm Bert batters UK](https://www.theguardian.com/uk-news/2024/nov/24/storm-bert-batters-britain-bringing-flooding-and-power-cuts)
-- [England’s Ellie Kildunne named World Rugby women’s player of the year](https://www.theguardian.com/sport/2024/nov/24/englands-ellie-kildunne-named-world-rugby-women-player-of-the-year)
-- [Thousands of bar staff in England and Wales to be trained to spot spiking](https://www.theguardian.com/society/2024/nov/24/thousands-of-bar-staff-in-england-and-wales-to-be-trained-to-spot-spiking)
-- [Queen Camilla: The Wicked Stepmother review – what is the point of this dull rubbish?](https://www.theguardian.com/tv-and-radio/2024/nov/24/queen-camilla-the-wicked-stepmother-review-channel-4-documentary)
-- [Briton reportedly captured by Russian forces while fighting for Ukraine](https://www.theguardian.com/world/2024/nov/24/former-british-soldier-fighting-for-ukraine-captured-by-russian-forces)
+- [China responds to Trump’s tariff threat over Fentanyl concerns – live](https://www.theguardian.com/us-news/live/2024/nov/25/trump-cabinet-administration-politics-updates)
+- [‘We learned the hard way’: Samoa remembers a deadly measles outbreak and a visit from RFK Jr](https://www.theguardian.com/world/2024/nov/26/rfk-jr-samoa-visit-measles-outbreak-vaccines)
+- [Trump vows tariffs on Mexico and Canada and deeper tariffs on China](https://www.theguardian.com/us-news/2024/nov/25/trump-mexico-canada-tariffs-border)
+- [‘What many of us feel’: why ‘enshittification’ is Macquarie Dictionary’s word of the year](https://www.theguardian.com/science/2024/nov/26/enshittification-macquarie-dictionary-word-of-the-year-explained)
+- [Drake claims UMG and Spotify ‘artificially inflated’ Kendrick Lamar’s diss track Not Like Us](https://www.theguardian.com/music/2024/nov/26/drake-kendrick-lamar-umg-spotify-not-like-us-claims-ntwnfb)
+- [Ukraine war briefing: Europe to take charge of military aid as Trump era looms](https://www.theguardian.com/world/2024/nov/26/ukraine-war-briefing-europe-to-take-charge-of-military-aid-as-trump-era-looms)
+- [Pakistan: one killed, dozens injured as Imran Khan supporters clash with security forces](https://www.theguardian.com/world/2024/nov/26/pakistan-violence-death-toll-imran-khan-supporters-clash)
+- [Safeguarding agencies ‘ignoring children abused by family members’ in England](https://www.theguardian.com/society/2024/nov/26/safeguarding-agencies-ignoring-children-abused-family-members-england)
+- [‘Opera should be an unstoppable art form’: Royal Opera announce Netia Jones as associate director](https://www.theguardian.com/music/2024/nov/26/opera-should-be-an-unstoppable-art-form-royal-opera-announce-netia-jones-as-associate-director)
+- [Premier League and Channel 4 to train teenagers in Labour’s £45m work drive](https://www.theguardian.com/society/2024/nov/26/premier-league-and-channel-4-to-train-teenagers-in-labours-45m-work-drive)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

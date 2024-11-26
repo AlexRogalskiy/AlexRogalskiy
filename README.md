@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Wildlife monitoring technologies used to intimidate and spy on women](https://www.cam.ac.uk/research/news/wildlife-monitoring-technologies-used-to-intimidate-and-spy-on-women-study-finds)
-- [RFC 35140: HTTP Do-Not-Stab &lpar;2023&rpar;](https://www.5snb.club/posts/2023/do-not-stab/)
-- [SQLiteStudio: Create, edit, browse SQLite databases](https://sqlitestudio.pl/)
-- [Worldtimeapp.com Easy Timezone Converter](https://worldtimeapp.com/)
-- [Bluesky is on the verge of overtaking Threads in all the ways that matter](https://mashable.com/article/bluesky-gaining-ground-on-competitor-meta-threads)
-- [Build network societies, not network states](https://www.combinationsmag.com/build-network-societies-not-network-states/)
-- [Continue &lpar;YC S23&rpar; Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
-- [Removing half a ton of HEU from Kazakhstan &lpar;2014&rpar;](https://nsarchive2.gwu.edu/NSAEBB/NSAEBB491/)
-- [This website is hosted on Bluesky](https://danielmangum.com/posts/this-website-is-hosted-on-bluesky/)
-- [SQLite: Outlandish Recursive Query Examples](https://www.sqlite.org/lang_with.html#outlandish_recursive_query_examples)
+- [Fly.io is having a complete outage](https://status.flyio.net)
+- [Google&#39;s iOS app now injects links on third-party websites that go to Search](https://9to5google.com/2024/11/25/google-ios-app-link-annotations-search/)
+- [GM Under CEO Mary Barra Is an Undeniably Soulless and Dishonest Company](https://www.deadlinedetroit.com/articles/32552/starkman_gm_under_ceo_mary_barra_is_an_undeniably_soulless_and_dishonest_company)
+- [Amazon S3 Adds Put-If-Match &lpar;Compare-and-Swap&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-functionality-conditional-writes/)
+- [A Short Introduction to Automotive Lidar Technology](https://www.viksnewsletter.com/p/short-intro-to-automotive-lidar)
+- [The Raspberry Pi CM5 Is Weeks Away?](https://bret.dk/raspberry-pi-cm5-is-weeks-away/)
+- [Prayer, Placement, and Absolution: Peter Hristoff on Islamic Prayer Rugs &lpar;2015&rpar;](https://www.metmuseum.org/perspectives/peter-hristoff-islamic-prayer-rugs)
+- [Summary of &quot;Improvising cellular playgrounds in Realtalk&quot;, Aug 2023 [video]](https://www.youtube.com/watch?v=Osn3JXaT3W8)
+- [Show HN: Gemini LLM corrects ASR YouTube transcripts](https://ldenoue.github.io/readabletranscripts/)
+- [Show HN: I am Building a Producthunt alternative](https://huntlie.com)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

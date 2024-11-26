@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Zero Disk Architecture for Databases](https://avi.im/blag/2024/zero-disk-architecture/)
-- [Should I join a msc.csit in Nepal?](https://news.ycombinator.com/item?id=42232800)
-- [It&#39;s a bird, it&#39;s a plane, it&#39;s Super Cassette Vision](https://nicole.express/2024/its-a-bird-its-a-plane-its-super-cassette-vision.html)
-- [FastCompany fabricates Palmer Lucky quote](https://twitter.com/PalmerLuckey/status/1860526874327388347)
-- [Do EV Road Trips Still Suck Without a Tesla? [video]](https://www.youtube.com/watch?v=ouPiwt5hxXQ)
-- [How Every Computer Is a Chinese Computer](https://www.cigionline.org/pp/how-every-computer-is-a-chinese-computer-twirling-the-cord-with-thomas-mullaney/)
-- [Unexpected Benefits of Being Vulnerable on the Internet](https://blog.depthsofrepair.com/p/unexpected-benefits-of-being-vulnerable)
-- [Monitor replacement – using a projector for a home office setup](https://sofiapandelea.medium.com/monitor-replacement-using-a-projector-for-a-home-office-setup-231d2891b3ae)
-- [South African anti-apartheid writer Breytenbach dies](https://www.bbc.com/news/articles/cx2lzy87veno)
-- [RFC 5841 – TCP Option to Denote Packet Mood](https://datatracker.ietf.org/doc/html/rfc5841)
+- [Trump threatens to impose sweeping tariffs on Mexico, Canada and China on day 1](https://apnews.com/article/trump-tariffs-canada-mexico-china-59239afe12033ca99c65c7a2be0e4f0d)
+- [Insightfull: AI-Powered Health Insights and Tracking](https://www.insightfull.app)
+- [Smile 4.0](https://github.com/haifengl/smile/releases/tag/v4.0.0)
+- [Has anyone used Proton Business Suite rather than Google&#39;s for a startup?](https://news.ycombinator.com/item?id=42242051)
+- [Cairo Airport: Is There a Worse Major Airport?](https://onemileatatime.com/insights/cairo-airport/)
+- [Managing Large-Scale Redis Clusters on Kubernetes with an Operator](https://kubeblocks.io/blog/manage-large-scale-redis-on-k8s-with-kubeblocks)
+- [Introduction to SASS and GPU Microarchitecture – GPU Mode Lecture 37 [video]](https://www.youtube.com/watch?v=we3i5VuoPWk)
+- [Can You Measure a Technology Team&#39;s Efficiency?](https://www.scarletink.com/p/can-you-measure-technology-teams-efficiency)
+- [Noether&#39;s Theorem and Machine Learning](https://lee-phillips.org/NTandML/)
+- [Show HN: Manage your Bluesky followers and followings – The Blue](https://theblue.social/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

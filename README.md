@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Fly.io is having a complete outage](https://status.flyio.net)
-- [Google&#39;s iOS app now injects links on third-party websites that go to Search](https://9to5google.com/2024/11/25/google-ios-app-link-annotations-search/)
-- [GM Under CEO Mary Barra Is an Undeniably Soulless and Dishonest Company](https://www.deadlinedetroit.com/articles/32552/starkman_gm_under_ceo_mary_barra_is_an_undeniably_soulless_and_dishonest_company)
-- [Amazon S3 Adds Put-If-Match &lpar;Compare-and-Swap&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-functionality-conditional-writes/)
-- [A Short Introduction to Automotive Lidar Technology](https://www.viksnewsletter.com/p/short-intro-to-automotive-lidar)
-- [The Raspberry Pi CM5 Is Weeks Away?](https://bret.dk/raspberry-pi-cm5-is-weeks-away/)
-- [Prayer, Placement, and Absolution: Peter Hristoff on Islamic Prayer Rugs &lpar;2015&rpar;](https://www.metmuseum.org/perspectives/peter-hristoff-islamic-prayer-rugs)
-- [Summary of &quot;Improvising cellular playgrounds in Realtalk&quot;, Aug 2023 [video]](https://www.youtube.com/watch?v=Osn3JXaT3W8)
-- [Show HN: Gemini LLM corrects ASR YouTube transcripts](https://ldenoue.github.io/readabletranscripts/)
-- [Show HN: I am Building a Producthunt alternative](https://huntlie.com)
+- [Htmy – Async, pure-Python rendering engine](https://volfpeter.github.io/htmy/)
+- [Hacker in Snowflake extortions may be a U.S. soldier](https://krebsonsecurity.com/2024/11/hacker-in-snowflake-extortions-may-be-a-u-s-soldier/)
+- [Marshall Brain died hours after alleging retaliation at NC State](https://www.technicianonline.com/news/popular-nc-state-professor-marshall-brain-dies-alleges-retaliation-for-ethics-complaints/article_152e5c80-ac2e-11ef-8b3f-036ac3c8d9bf.html)
+- [ISPs say their &quot;excellent customer service&quot; is why users don&#39;t switch providers](https://arstechnica.com/tech-policy/2024/11/isps-say-their-excellent-customer-service-is-why-users-dont-switch-providers/)
+- [Executing ARM Jazelle &lpar;JVM Bytecode&rpar; on the Wii&#39;s Starlet](https://github.com/thamugadi/jazelle-wii)
+- [Ask HN: Has anyone tried adapting a court reporter keyboard for writing code?](https://news.ycombinator.com/item?id=42251040)
+- [Show HN: I created a lightweight JavaScript library to visualize JSON as a graph](https://github.com/xzitlou/jsontr.ee)
+- [Show HN: Clean Your Mac with a Script](https://github.com/hkdobrev/cleanmac)
+- [D-Link says it won&#39;t patch 60k older modems](https://www.techradar.com/pro/security/d-link-says-it-wont-patch-60-000-older-modems-as-theyre-not-worth-saving)
+- [ZetaOffice: LibreOffice in the Browser](https://zetaoffice.net/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

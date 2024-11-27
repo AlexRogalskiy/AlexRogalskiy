@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Trump threatens to impose sweeping tariffs on Mexico, Canada and China on day 1](https://apnews.com/article/trump-tariffs-canada-mexico-china-59239afe12033ca99c65c7a2be0e4f0d)
-- [Insightfull: AI-Powered Health Insights and Tracking](https://www.insightfull.app)
-- [Smile 4.0](https://github.com/haifengl/smile/releases/tag/v4.0.0)
-- [Has anyone used Proton Business Suite rather than Google&#39;s for a startup?](https://news.ycombinator.com/item?id=42242051)
-- [Cairo Airport: Is There a Worse Major Airport?](https://onemileatatime.com/insights/cairo-airport/)
-- [Managing Large-Scale Redis Clusters on Kubernetes with an Operator](https://kubeblocks.io/blog/manage-large-scale-redis-on-k8s-with-kubeblocks)
-- [Introduction to SASS and GPU Microarchitecture – GPU Mode Lecture 37 [video]](https://www.youtube.com/watch?v=we3i5VuoPWk)
-- [Can You Measure a Technology Team&#39;s Efficiency?](https://www.scarletink.com/p/can-you-measure-technology-teams-efficiency)
-- [Noether&#39;s Theorem and Machine Learning](https://lee-phillips.org/NTandML/)
-- [Show HN: Manage your Bluesky followers and followings – The Blue](https://theblue.social/)
+- [Manager development vs. exploiting would-be managers](https://puzzling.org/politics-and-society/business/2024/11/manager-development-vs-exploiting-would-be-managers/)
+- [Vite 6.0 Is Out](https://vite.dev/blog/announcing-vite6)
+- [Show HN: I build and deployed AI Food Recipe Assistant quickly](https://ai-sevalla-article-m3qvp.kinsta.app/)
+- [Show HN: A Fusion of MongoDB and Pinecone](https://news.ycombinator.com/item?id=42252370)
+- [You Can Have Billionaires or You Can Have Democracy](https://jacobin.com/2021/06/billionaire-class-superrich-oligarchy-inheritance-wealth-inequality)
+- [Show HN: GitHub Agent Opening PRs from Issues](https://github.com/gitautoai/gitauto)
+- [Stanford Study Finds 9.5% of Engineers Do Almost Nothing](https://socket.dev/blog/ghost-engineers)
+- [Tesla excluded from EV buyer credits in California proposal](https://fortune.com/2024/11/25/tesla-excluded-from-ev-buyer-credits-in-california-proposal-newsom/)
+- [Ask HN: What is the best low power &lpar;not Mac&rpar; ML laptop?](https://news.ycombinator.com/item?id=42252358)
+- [As Bluesky takes flight, China has got a Twitter problem](https://toosimple.substack.com/p/bluesky-takes-flight-twitter)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

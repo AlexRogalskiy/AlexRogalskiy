@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [China responds to Trump’s tariff threat over Fentanyl concerns – live](https://www.theguardian.com/us-news/live/2024/nov/25/trump-cabinet-administration-politics-updates)
-- [‘We learned the hard way’: Samoa remembers a deadly measles outbreak and a visit from RFK Jr](https://www.theguardian.com/world/2024/nov/26/rfk-jr-samoa-visit-measles-outbreak-vaccines)
-- [Trump vows tariffs on Mexico and Canada and deeper tariffs on China](https://www.theguardian.com/us-news/2024/nov/25/trump-mexico-canada-tariffs-border)
-- [‘What many of us feel’: why ‘enshittification’ is Macquarie Dictionary’s word of the year](https://www.theguardian.com/science/2024/nov/26/enshittification-macquarie-dictionary-word-of-the-year-explained)
-- [Drake claims UMG and Spotify ‘artificially inflated’ Kendrick Lamar’s diss track Not Like Us](https://www.theguardian.com/music/2024/nov/26/drake-kendrick-lamar-umg-spotify-not-like-us-claims-ntwnfb)
-- [Ukraine war briefing: Europe to take charge of military aid as Trump era looms](https://www.theguardian.com/world/2024/nov/26/ukraine-war-briefing-europe-to-take-charge-of-military-aid-as-trump-era-looms)
-- [Pakistan: one killed, dozens injured as Imran Khan supporters clash with security forces](https://www.theguardian.com/world/2024/nov/26/pakistan-violence-death-toll-imran-khan-supporters-clash)
-- [Safeguarding agencies ‘ignoring children abused by family members’ in England](https://www.theguardian.com/society/2024/nov/26/safeguarding-agencies-ignoring-children-abused-family-members-england)
-- [‘Opera should be an unstoppable art form’: Royal Opera announce Netia Jones as associate director](https://www.theguardian.com/music/2024/nov/26/opera-should-be-an-unstoppable-art-form-royal-opera-announce-netia-jones-as-associate-director)
-- [Premier League and Channel 4 to train teenagers in Labour’s £45m work drive](https://www.theguardian.com/society/2024/nov/26/premier-league-and-channel-4-to-train-teenagers-in-labours-45m-work-drive)
+- [Middle East crisis live: Israel-Hezbollah ceasefire comes into force after strikes on Beirut](https://www.theguardian.com/world/live/2024/nov/27/israel-lebanon-live-news-hezbollah-ceasefire-deal-middle-east-crisis-latest-updates)
+- [Chris Minns asks Sydney residents to keep washing machines off as heatwave nears peak](https://www.theguardian.com/australia-news/2024/nov/27/heatwave-bom-weather-forecast-sydney-power-outage-blackouts-temperature)
+- [Plans to end NHS dental care crisis not working, warns spending watchdog](https://www.theguardian.com/society/2024/nov/27/plans-to-end-nhs-dental-care-crisis-not-working-warns-spending-watchdog)
+- [China’s CO2 emissions have peaked or will in 2025, say 44% of experts in survey](https://www.theguardian.com/world/2024/nov/27/chinas-co2-emissions-have-peaked-or-will-in-2025-say-44-of-experts-in-survey)
+- [Government confirms online slots cap and betting levy to fund NHS services](https://www.theguardian.com/society/2024/nov/27/government-confirms-online-slots-cap-and-betting-levy-to-fund-nhs-services)
+- [Irregular sleep pattern raises risk of stroke and heart attack, UK study finds](https://www.theguardian.com/society/2024/nov/26/irregular-sleep-pattern-raises-risk-of-stroke-and-heart-attack-uk-study-finds)
+- [‘We’d rather perish’: protests roil South Korean women’s university over plan to admit male students](https://www.theguardian.com/world/2024/nov/27/south-korea-dongduk-womens-university-protests-male-students)
+- [TikTok to block teenagers from beauty filters over mental health concerns](https://www.theguardian.com/technology/2024/nov/26/tiktok-to-block-teenagers-from-beauty-filters-over-mental-health-concerns)
+- [Catholic priest accused of sexual assault fathered children of victims, court hears](https://www.theguardian.com/us-news/2024/nov/26/catholic-priest-anthony-odiong-sexual-assault-bail-hearing)
+- [Vauxhall owner plans to shut Luton van factory, putting 1,100 jobs at risk](https://www.theguardian.com/business/2024/nov/26/vauxhall-owner-plans-to-shut-luton-van-factory-putting-1100-jobs-at-risk)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

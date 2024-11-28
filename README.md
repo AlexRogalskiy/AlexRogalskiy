@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Middle East crisis live: Israel-Hezbollah ceasefire comes into force after strikes on Beirut](https://www.theguardian.com/world/live/2024/nov/27/israel-lebanon-live-news-hezbollah-ceasefire-deal-middle-east-crisis-latest-updates)
-- [Chris Minns asks Sydney residents to keep washing machines off as heatwave nears peak](https://www.theguardian.com/australia-news/2024/nov/27/heatwave-bom-weather-forecast-sydney-power-outage-blackouts-temperature)
-- [Plans to end NHS dental care crisis not working, warns spending watchdog](https://www.theguardian.com/society/2024/nov/27/plans-to-end-nhs-dental-care-crisis-not-working-warns-spending-watchdog)
-- [China’s CO2 emissions have peaked or will in 2025, say 44% of experts in survey](https://www.theguardian.com/world/2024/nov/27/chinas-co2-emissions-have-peaked-or-will-in-2025-say-44-of-experts-in-survey)
-- [Government confirms online slots cap and betting levy to fund NHS services](https://www.theguardian.com/society/2024/nov/27/government-confirms-online-slots-cap-and-betting-levy-to-fund-nhs-services)
-- [Irregular sleep pattern raises risk of stroke and heart attack, UK study finds](https://www.theguardian.com/society/2024/nov/26/irregular-sleep-pattern-raises-risk-of-stroke-and-heart-attack-uk-study-finds)
-- [‘We’d rather perish’: protests roil South Korean women’s university over plan to admit male students](https://www.theguardian.com/world/2024/nov/27/south-korea-dongduk-womens-university-protests-male-students)
-- [TikTok to block teenagers from beauty filters over mental health concerns](https://www.theguardian.com/technology/2024/nov/26/tiktok-to-block-teenagers-from-beauty-filters-over-mental-health-concerns)
-- [Catholic priest accused of sexual assault fathered children of victims, court hears](https://www.theguardian.com/us-news/2024/nov/26/catholic-priest-anthony-odiong-sexual-assault-bail-hearing)
-- [Vauxhall owner plans to shut Luton van factory, putting 1,100 jobs at risk](https://www.theguardian.com/business/2024/nov/26/vauxhall-owner-plans-to-shut-luton-van-factory-putting-1100-jobs-at-risk)
+- [New Zealand v England: first men’s cricket Test, day one – live](https://www.theguardian.com/sport/live/2024/nov/27/new-zealand-v-england-first-mens-cricket-test-day-one-live)
+- [Rodri aiming to defy odds and make his Manchester City comeback this season](https://www.theguardian.com/football/2024/nov/28/rodri-aiming-to-defy-odds-and-make-his-manchester-city-comeback-this-season)
+- [Canada leaders agree to unite against Trump tariff threat amid reports of retaliatory measures](https://www.theguardian.com/world/2024/nov/28/canada-donald-trump-tariffs-leaders-chrystia-freeland)
+- [Ukraine war briefing: US urges Zelenskyy to lower conscription age to 18](https://www.theguardian.com/world/2024/nov/28/ukraine-war-briefing-us-pressure-on-zelenskyy-to-lower-conscription-age-to-18)
+- [Prisoners denied dignity while receiving NHS care, watchdog finds](https://www.theguardian.com/society/2024/nov/28/prisoners-denied-dignity-while-receiving-nhs-care-watchdog-finds)
+- [Reddit overtakes X in popularity of social media platforms in UK](https://www.theguardian.com/technology/2024/nov/28/reddit-overtakes-x-in-popularity-of-social-media-platforms-in-uk)
+- [Counter-terrorism police arrest seven in London raids connected to PKK](https://www.theguardian.com/uk-news/2024/nov/27/counter-terrorism-police-arrests-london-raids-connected-to-pkk)
+- [Colombia-led operation seizes world record 225 tonnes of cocaine, and uncovers new Australia trafficking route](https://www.theguardian.com/world/2024/nov/27/colombia-drug-bust-narco-submarine-australia)
+- [Doctors hail first breakthrough in asthma and COPD treatment in 50 years](https://www.theguardian.com/society/2024/nov/27/doctors-hail-first-breakthrough-in-asthma-and-copd-treatment-in-50-years)
+- [Championship roundup: Leeds return to top, Portsmouth game hit by power cut](https://www.theguardian.com/football/2024/nov/27/championship-roundup-leeds-luton-portsmouth-millwall)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

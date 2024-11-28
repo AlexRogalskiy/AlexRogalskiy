@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Manager development vs. exploiting would-be managers](https://puzzling.org/politics-and-society/business/2024/11/manager-development-vs-exploiting-would-be-managers/)
-- [Vite 6.0 Is Out](https://vite.dev/blog/announcing-vite6)
-- [Show HN: I build and deployed AI Food Recipe Assistant quickly](https://ai-sevalla-article-m3qvp.kinsta.app/)
-- [Show HN: A Fusion of MongoDB and Pinecone](https://news.ycombinator.com/item?id=42252370)
-- [You Can Have Billionaires or You Can Have Democracy](https://jacobin.com/2021/06/billionaire-class-superrich-oligarchy-inheritance-wealth-inequality)
-- [Show HN: GitHub Agent Opening PRs from Issues](https://github.com/gitautoai/gitauto)
-- [Stanford Study Finds 9.5% of Engineers Do Almost Nothing](https://socket.dev/blog/ghost-engineers)
-- [Tesla excluded from EV buyer credits in California proposal](https://fortune.com/2024/11/25/tesla-excluded-from-ev-buyer-credits-in-california-proposal-newsom/)
-- [Ask HN: What is the best low power &lpar;not Mac&rpar; ML laptop?](https://news.ycombinator.com/item?id=42252358)
-- [As Bluesky takes flight, China has got a Twitter problem](https://toosimple.substack.com/p/bluesky-takes-flight-twitter)
+- [Quantum scars make their mark in graphene](https://www.nature.com/articles/d41586-024-03649-y)
+- [From X/Twitter to a Bluesky: Import all tweets](https://github.com/marcomaroni-github/twitter-to-bluesky)
+- [The Problem with Using a UUID Primary Key in MySQL](https://planetscale.com/blog/the-problem-with-using-a-uuid-primary-key-in-mysql)
+- [Show HN: Voice-Pro – AI Voice Cloning Magic: Transform Any Voice in 15 Seconds](https://github.com/abus-aikorea/voice-pro)
+- [Brendan Carr Makes It Clear That He&#39;s Eager to Be America&#39;s Top Censor](https://www.techdirt.com/2024/11/27/brendan-carr-makes-it-clear-that-hes-eager-to-be-americas-top-censor/)
+- [Ask HN: Homelab projects to learn Linux admin and DevOps to get hired as one?](https://news.ycombinator.com/item?id=42261862)
+- [How to Delete Duplicate Attachments in Gmail Threads](https://blog.unattach.com/p/how-to-delete-duplicate-attachments-in-gmail-threads)
+- [Bluesky Social Dataset &lpar;235M posts from 4M users&rpar;](https://zenodo.org/records/11082879)
+- [Love and War and Status](https://www.overcomingbias.com/p/love-and-war-and-status)
+- [What Is an Anti-Slapp, Anyway? A Lawsplainer Series](https://www.popehat.com/p/what-is-an-anti-slapp-anyway-a-lawsplainer-series)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

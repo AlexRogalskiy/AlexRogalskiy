@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Htmy – Async, pure-Python rendering engine](https://volfpeter.github.io/htmy/)
-- [Hacker in Snowflake extortions may be a U.S. soldier](https://krebsonsecurity.com/2024/11/hacker-in-snowflake-extortions-may-be-a-u-s-soldier/)
-- [Marshall Brain died hours after alleging retaliation at NC State](https://www.technicianonline.com/news/popular-nc-state-professor-marshall-brain-dies-alleges-retaliation-for-ethics-complaints/article_152e5c80-ac2e-11ef-8b3f-036ac3c8d9bf.html)
-- [ISPs say their &quot;excellent customer service&quot; is why users don&#39;t switch providers](https://arstechnica.com/tech-policy/2024/11/isps-say-their-excellent-customer-service-is-why-users-dont-switch-providers/)
-- [Executing ARM Jazelle &lpar;JVM Bytecode&rpar; on the Wii&#39;s Starlet](https://github.com/thamugadi/jazelle-wii)
-- [Ask HN: Has anyone tried adapting a court reporter keyboard for writing code?](https://news.ycombinator.com/item?id=42251040)
-- [Show HN: I created a lightweight JavaScript library to visualize JSON as a graph](https://github.com/xzitlou/jsontr.ee)
-- [Show HN: Clean Your Mac with a Script](https://github.com/hkdobrev/cleanmac)
-- [D-Link says it won&#39;t patch 60k older modems](https://www.techradar.com/pro/security/d-link-says-it-wont-patch-60-000-older-modems-as-theyre-not-worth-saving)
-- [ZetaOffice: LibreOffice in the Browser](https://zetaoffice.net/)
+- [Dell is posting unsigned updates to their website which fail to install](https://infosec.exchange/@0xabad1dea/113543212666056329)
+- [Bluesky&#39;s open API means anyone can scrape your data for AI training](https://techcrunch.com/2024/11/27/blueskys-open-api-means-anyone-can-scrape-your-data-for-ai-training/)
+- [RomCom exploits Firefox and Windows zero days in the wild](https://www.welivesecurity.com/en/eset-research/romcom-exploits-firefox-and-windows-zero-days-in-the-wild/)
+- [MIT Aluminum Bicycle Project 1974](https://www.sheldonbrown.com/AluminumBikeProject.html)
+- [The Forgotten Story of How IBM Invented the Automated Fab](https://spectrum.ieee.org/semiconductor-fabrication)
+- [Float Self-Tagging](https://arxiv.org/abs/2411.16544)
+- [London&#39;s 850-year-old food markets to close](https://www.bbc.co.uk/news/articles/cje050wz22qo)
+- [Developing a cancer drug without Big Pharma: this hospital shows it can be done](https://www.ftm.nl/artikelen/ruzie-tussen-ziekenhuis-en-farma-industrie-over-goedkeuring-kankermedicijn)
+- [TrunkVer](https://trunkver.org/)
+- [Structured Editing and Incremental Parsing](https://tratt.net/laurie/blog/2024/structured_editing_and_incremental_parsing.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

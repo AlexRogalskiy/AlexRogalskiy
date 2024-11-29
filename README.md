@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Dell is posting unsigned updates to their website which fail to install](https://infosec.exchange/@0xabad1dea/113543212666056329)
-- [Bluesky&#39;s open API means anyone can scrape your data for AI training](https://techcrunch.com/2024/11/27/blueskys-open-api-means-anyone-can-scrape-your-data-for-ai-training/)
-- [RomCom exploits Firefox and Windows zero days in the wild](https://www.welivesecurity.com/en/eset-research/romcom-exploits-firefox-and-windows-zero-days-in-the-wild/)
-- [MIT Aluminum Bicycle Project 1974](https://www.sheldonbrown.com/AluminumBikeProject.html)
-- [The Forgotten Story of How IBM Invented the Automated Fab](https://spectrum.ieee.org/semiconductor-fabrication)
-- [Float Self-Tagging](https://arxiv.org/abs/2411.16544)
-- [London&#39;s 850-year-old food markets to close](https://www.bbc.co.uk/news/articles/cje050wz22qo)
-- [Developing a cancer drug without Big Pharma: this hospital shows it can be done](https://www.ftm.nl/artikelen/ruzie-tussen-ziekenhuis-en-farma-industrie-over-goedkeuring-kankermedicijn)
-- [TrunkVer](https://trunkver.org/)
-- [Structured Editing and Incremental Parsing](https://tratt.net/laurie/blog/2024/structured_editing_and_incremental_parsing.html)
+- [Car tires shed a quarter of all microplastics in the environment](https://phys.org/news/2024-11-car-quarter-microplastics-environment-urgent.html)
+- [Canada Competition Bureau sues Google for anti-competitive conduct in online ads](https://www.canada.ca/en/competition-bureau/news/2024/11/competition-bureau-sues-google-for-anti-competitive-conduct-in-online-advertising-in-canada.html)
+- [Engineers Do Not Get to Make Startup Mistakes When They Build Ledgers](https://news.alvaroduran.com/p/engineers-do-not-get-to-make-startup)
+- [Send someone you appreciate an official &#39;Continue and Persist&#39; Letter](https://ContinueAndPersist.org)
+- [The Denver OWASP Chapter is proud to present SnowFROC &#39;25](https://snowfroc.com/)
+- [Hetzner raises prices while significantly lowering bandwidth &lpar;US&rpar;](https://adriano.fyi/posts/hetzner-raises-prices-while-significantly-lowering-bandwidth-in-us/)
+- [The success and failure of Ninja &lpar;2020&rpar;](https://neugierig.org/software/blog/2020/05/ninja.html)
+- [In the Rockets&#39; Red Glare: The past and future of hot-rodding in America](https://harpers.org/archive/2024/12/in-the-rockets-red-glare-rachel-kushner/)
+- [The UX of Lego Interface Panels &lpar;2020&rpar;](https://interactionmagic.com/UX-LEGO-Interfaces/)
+- [Tk9.0: CGo-free, cross platform GUI toolkit for Go](https://pkg.go.dev/modernc.org/tk9.0)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

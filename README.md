@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Quantum scars make their mark in graphene](https://www.nature.com/articles/d41586-024-03649-y)
-- [From X/Twitter to a Bluesky: Import all tweets](https://github.com/marcomaroni-github/twitter-to-bluesky)
-- [The Problem with Using a UUID Primary Key in MySQL](https://planetscale.com/blog/the-problem-with-using-a-uuid-primary-key-in-mysql)
-- [Show HN: Voice-Pro – AI Voice Cloning Magic: Transform Any Voice in 15 Seconds](https://github.com/abus-aikorea/voice-pro)
-- [Brendan Carr Makes It Clear That He&#39;s Eager to Be America&#39;s Top Censor](https://www.techdirt.com/2024/11/27/brendan-carr-makes-it-clear-that-hes-eager-to-be-americas-top-censor/)
-- [Ask HN: Homelab projects to learn Linux admin and DevOps to get hired as one?](https://news.ycombinator.com/item?id=42261862)
-- [How to Delete Duplicate Attachments in Gmail Threads](https://blog.unattach.com/p/how-to-delete-duplicate-attachments-in-gmail-threads)
-- [Bluesky Social Dataset &lpar;235M posts from 4M users&rpar;](https://zenodo.org/records/11082879)
-- [Love and War and Status](https://www.overcomingbias.com/p/love-and-war-and-status)
-- [What Is an Anti-Slapp, Anyway? A Lawsplainer Series](https://www.popehat.com/p/what-is-an-anti-slapp-anyway-a-lawsplainer-series)
+- [Ask HN: Small programming projects that would be useful to Nepalese?](https://news.ycombinator.com/item?id=42270362)
+- [Romania orders election recount after TikTok bias claims](https://www.bbc.com/news/articles/cx2n83vgxxjo)
+- [Some notes on my experiences with Python type hints and Mypy](https://utcc.utoronto.ca/~cks/space/blog/python/TypeHintsAndMyPyNotes)
+- [Britain&#39;s Emotional Debate Over Assisted Dying](https://www.nytimes.com/2024/11/27/world/europe/uk-assisted-dying-suicide.html)
+- [Microbenchmarks Are Experiments](https://mrale.ph/blog/2024/11/27/microbenchmarks-are-experiments.html)
+- [Skycam](https://en.wikipedia.org/wiki/Skycam)
+- [Undruggable No More – Advances for Targeting Mutant Ras Proteins and Cancer](https://www.activemotif.com/blog-undruggable-ras)
+- [AI Video Generation compare: Kling V.S. Hailuo V.S. Runway V.S. Luma V.S. Pika](https://www.topaiproduct.com/Which-AI-Video-Generation-tool-is-better-Kling-V-S-Hailuo-V-S-Runway-V-S-Luma-V-S-Pika-14673ea43ab38001a5d0c22258c9de26)
+- [You have not arrived. Keep searching.](https://marktwight.substack.com/p/thanksgiving)
+- [K8s-Srv6: Extending Kubernetes with SRv6](https://netgroup.github.io/k8s-srv6/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

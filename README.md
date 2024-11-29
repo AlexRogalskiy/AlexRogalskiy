@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [New Zealand v England: first men’s cricket Test, day one – live](https://www.theguardian.com/sport/live/2024/nov/27/new-zealand-v-england-first-mens-cricket-test-day-one-live)
-- [Rodri aiming to defy odds and make his Manchester City comeback this season](https://www.theguardian.com/football/2024/nov/28/rodri-aiming-to-defy-odds-and-make-his-manchester-city-comeback-this-season)
-- [Canada leaders agree to unite against Trump tariff threat amid reports of retaliatory measures](https://www.theguardian.com/world/2024/nov/28/canada-donald-trump-tariffs-leaders-chrystia-freeland)
-- [Ukraine war briefing: US urges Zelenskyy to lower conscription age to 18](https://www.theguardian.com/world/2024/nov/28/ukraine-war-briefing-us-pressure-on-zelenskyy-to-lower-conscription-age-to-18)
-- [Prisoners denied dignity while receiving NHS care, watchdog finds](https://www.theguardian.com/society/2024/nov/28/prisoners-denied-dignity-while-receiving-nhs-care-watchdog-finds)
-- [Reddit overtakes X in popularity of social media platforms in UK](https://www.theguardian.com/technology/2024/nov/28/reddit-overtakes-x-in-popularity-of-social-media-platforms-in-uk)
-- [Counter-terrorism police arrest seven in London raids connected to PKK](https://www.theguardian.com/uk-news/2024/nov/27/counter-terrorism-police-arrests-london-raids-connected-to-pkk)
-- [Colombia-led operation seizes world record 225 tonnes of cocaine, and uncovers new Australia trafficking route](https://www.theguardian.com/world/2024/nov/27/colombia-drug-bust-narco-submarine-australia)
-- [Doctors hail first breakthrough in asthma and COPD treatment in 50 years](https://www.theguardian.com/society/2024/nov/27/doctors-hail-first-breakthrough-in-asthma-and-copd-treatment-in-50-years)
-- [Championship roundup: Leeds return to top, Portsmouth game hit by power cut](https://www.theguardian.com/football/2024/nov/27/championship-roundup-leeds-luton-portsmouth-millwall)
+- [New Zealand v England: first men’s cricket Test, day two – live](https://www.theguardian.com/sport/live/2024/nov/28/new-zealand-v-england-first-mens-cricket-test-day-two-live)
+- [Georgia protesters clash with police after PM suspends EU membership talks](https://www.theguardian.com/world/2024/nov/29/georgia-protest-irakli-kobakhidze-salome-zourabichvili)
+- [Spain introduces paid climate leave after deadly floods](https://www.theguardian.com/world/2024/nov/29/spain-paid-climate-leave-floods)
+- [UK retail footfall dips again as Storm Bert and later Black Friday hit sales](https://www.theguardian.com/business/2024/nov/29/uk-retail-footfall-dips-again-storm-bert-black-friday-hit-sales)
+- [The Importance of Being Earnest review – Ncuti Gatwa leads a Wilde party of irresistible anarchic charm](https://www.theguardian.com/culture/2024/nov/29/the-importance-of-being-earnest-review-national-theatre-lyttelton-ncuti-gatwa)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2024/nov/29/premier-league-10-things-to-look-out-for-this-weekend)
+- [Gregg Wallace steps away from MasterChef after allegations by Kirsty Wark](https://www.theguardian.com/tv-and-radio/2024/nov/28/gregg-wallace-steps-away-from-masterchef-after-allegations-of-misconduct)
+- [Smoggie Queens review – an adorably sweet drag sitcom](https://www.theguardian.com/tv-and-radio/2024/nov/28/smoggie-queens-review-an-adorably-sweet-drag-sitcom)
+- [‘Too late to leave’ warning for residents as fire in coastal WA rips through evacuation routes](https://www.theguardian.com/australia-news/2024/nov/29/wa-bushfire-western-australia-emergency-warning-wedge-island-grey-cervantes-nambung-cooljarloo-dandaragan-shire)
+- [Ranieri’s delight as Hummels strikes late for Roma to ruin Tottenham’s night](https://www.theguardian.com/football/2024/nov/28/tottenham-roma-europa-league-match-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

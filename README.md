@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Car tires shed a quarter of all microplastics in the environment](https://phys.org/news/2024-11-car-quarter-microplastics-environment-urgent.html)
-- [Canada Competition Bureau sues Google for anti-competitive conduct in online ads](https://www.canada.ca/en/competition-bureau/news/2024/11/competition-bureau-sues-google-for-anti-competitive-conduct-in-online-advertising-in-canada.html)
-- [Engineers Do Not Get to Make Startup Mistakes When They Build Ledgers](https://news.alvaroduran.com/p/engineers-do-not-get-to-make-startup)
-- [Send someone you appreciate an official &#39;Continue and Persist&#39; Letter](https://ContinueAndPersist.org)
-- [The Denver OWASP Chapter is proud to present SnowFROC &#39;25](https://snowfroc.com/)
-- [Hetzner raises prices while significantly lowering bandwidth &lpar;US&rpar;](https://adriano.fyi/posts/hetzner-raises-prices-while-significantly-lowering-bandwidth-in-us/)
-- [The success and failure of Ninja &lpar;2020&rpar;](https://neugierig.org/software/blog/2020/05/ninja.html)
-- [In the Rockets&#39; Red Glare: The past and future of hot-rodding in America](https://harpers.org/archive/2024/12/in-the-rockets-red-glare-rachel-kushner/)
-- [The UX of Lego Interface Panels &lpar;2020&rpar;](https://interactionmagic.com/UX-LEGO-Interfaces/)
-- [Tk9.0: CGo-free, cross platform GUI toolkit for Go](https://pkg.go.dev/modernc.org/tk9.0)
+- [Virtual Geometry in Bevy 0.15](https://jms55.github.io/posts/2024-11-14-virtual-geometry-bevy-0-15/)
+- [TfL abandons plans for driverless tube trains](https://www.ianvisits.co.uk/articles/tfl-abandons-plans-for-driverless-tube-trains-77435/)
+- [NASA&#39;s Europa Clipper: Miles Down, Instruments Deploying](https://www.nasa.gov/missions/europa-clipper/nasas-europa-clipper-millions-of-miles-down-instruments-deploying/)
+- [Brick and Mortar Triangle Fraud](https://getcho.app/blog/triangle-fraud-brick-mortar/)
+- [The Deterioration of Google](https://www.baldurbjarnason.com/2024/the-deterioration-of-google/)
+- [The Hall SC-VGA-2 Video Processor, the Atari ST and NeXTSTEP](http://oldvcr.blogspot.com/2024/11/the-hall-sc-vga-2-video-processor-atari.html)
+- [Ask HN: Platform for senior devs to learn other programming languages?](https://news.ycombinator.com/item?id=42276995)
+- [Breaking the 4Chan CAPTCHA](https://www.nullpt.rs/breaking-the-4chan-captcha)
+- [Jank is now running on LLVM IR](https://jank-lang.org/blog/2024-11-29-llvm-ir/)
+- [What does this button do? – My new car has a mysterious and undocumented switch](https://blog.koenvh.nl/what-does-this-button-do-cm42u2oi7000a09l42f54g2pr)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ask HN: Small programming projects that would be useful to Nepalese?](https://news.ycombinator.com/item?id=42270362)
-- [Romania orders election recount after TikTok bias claims](https://www.bbc.com/news/articles/cx2n83vgxxjo)
-- [Some notes on my experiences with Python type hints and Mypy](https://utcc.utoronto.ca/~cks/space/blog/python/TypeHintsAndMyPyNotes)
-- [Britain&#39;s Emotional Debate Over Assisted Dying](https://www.nytimes.com/2024/11/27/world/europe/uk-assisted-dying-suicide.html)
-- [Microbenchmarks Are Experiments](https://mrale.ph/blog/2024/11/27/microbenchmarks-are-experiments.html)
-- [Skycam](https://en.wikipedia.org/wiki/Skycam)
-- [Undruggable No More – Advances for Targeting Mutant Ras Proteins and Cancer](https://www.activemotif.com/blog-undruggable-ras)
-- [AI Video Generation compare: Kling V.S. Hailuo V.S. Runway V.S. Luma V.S. Pika](https://www.topaiproduct.com/Which-AI-Video-Generation-tool-is-better-Kling-V-S-Hailuo-V-S-Runway-V-S-Luma-V-S-Pika-14673ea43ab38001a5d0c22258c9de26)
-- [You have not arrived. Keep searching.](https://marktwight.substack.com/p/thanksgiving)
-- [K8s-Srv6: Extending Kubernetes with SRv6](https://netgroup.github.io/k8s-srv6/)
+- [The epic spectacle that is the Bitcoin juggernaut MicroStrategy](https://www.ft.com/content/45d7c547-f686-4162-bfc3-56d609003bbb)
+- [Crypto boss eats banana art he bought for $6.2M](https://www.channelnewsasia.com/east-asia/banana-duct-tape-comedian-art-maurizio-cattelan-justin-sun-eat-4777786)
+- [Russia&#39;s Economy Is Doomed](https://www.newstatesman.com/business/economics/2024/11/russias-economy-is-doomed)
+- [Gen Z&#39;s definition of financial success includes joining the top 1%](https://fortune.com/2024/11/23/gen-z-financial-success-definition-salary-net-worth-millennials-gen-x-boomers/)
+- [I moved from a country with almost no inflation to the country with the highest](https://thehustle.co/originals/i-moved-from-a-country-with-almost-no-inflation-to-the-country-with-the-highest)
+- [Gen Z Came to See Books as a Waste of Time](https://www.theatlantic.com/newsletters/archive/2024/11/books-briefing-gen-z-reading-books-waste-time/680586/)
+- [Turn your Notion pages into eBooks in seconds](https://www.parchment-app.com/)
+- [The Quake III Arena Bot &lpar;2001&rpar; [pdf]](https://fabiensanglard.net/fd_proxy/quake3/The-Quake-III-Arena-Bot.pdf)
+- [Rustling for C++](https://github.com/rdjondo/cplings)
+- [Almost thirty percent of microplastics come from car tires](https://www.sciencealert.com/almost-30-of-microplastics-come-from-a-hugely-overlooked-source)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

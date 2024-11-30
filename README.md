@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [New Zealand v England: first men’s cricket Test, day two – live](https://www.theguardian.com/sport/live/2024/nov/28/new-zealand-v-england-first-mens-cricket-test-day-two-live)
-- [Georgia protesters clash with police after PM suspends EU membership talks](https://www.theguardian.com/world/2024/nov/29/georgia-protest-irakli-kobakhidze-salome-zourabichvili)
-- [Spain introduces paid climate leave after deadly floods](https://www.theguardian.com/world/2024/nov/29/spain-paid-climate-leave-floods)
-- [UK retail footfall dips again as Storm Bert and later Black Friday hit sales](https://www.theguardian.com/business/2024/nov/29/uk-retail-footfall-dips-again-storm-bert-black-friday-hit-sales)
-- [The Importance of Being Earnest review – Ncuti Gatwa leads a Wilde party of irresistible anarchic charm](https://www.theguardian.com/culture/2024/nov/29/the-importance-of-being-earnest-review-national-theatre-lyttelton-ncuti-gatwa)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2024/nov/29/premier-league-10-things-to-look-out-for-this-weekend)
-- [Gregg Wallace steps away from MasterChef after allegations by Kirsty Wark](https://www.theguardian.com/tv-and-radio/2024/nov/28/gregg-wallace-steps-away-from-masterchef-after-allegations-of-misconduct)
-- [Smoggie Queens review – an adorably sweet drag sitcom](https://www.theguardian.com/tv-and-radio/2024/nov/28/smoggie-queens-review-an-adorably-sweet-drag-sitcom)
-- [‘Too late to leave’ warning for residents as fire in coastal WA rips through evacuation routes](https://www.theguardian.com/australia-news/2024/nov/29/wa-bushfire-western-australia-emergency-warning-wedge-island-grey-cervantes-nambung-cooljarloo-dandaragan-shire)
-- [Ranieri’s delight as Hummels strikes late for Roma to ruin Tottenham’s night](https://www.theguardian.com/football/2024/nov/28/tottenham-roma-europa-league-match-report)
+- [New Zealand v England: first men’s cricket Test, day three – live](https://www.theguardian.com/sport/live/2024/nov/29/new-zealand-v-england-first-mens-cricket-test-day-three-live)
+- [Trudeau in Florida to meet Trump after tariffs threat – reports](https://www.theguardian.com/us-news/2024/nov/30/trudeau-in-florida-to-meet-trump-after-tariffs-threat-reports)
+- [Still life quartet by Dutch golden age master to be shown together in Cambridge](https://www.theguardian.com/artanddesign/2024/nov/30/jan-davidsz-de-heem-still-life-quartet-fitzwilliam-museum-cambridge)
+- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2024/nov/29/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Syrian rebels enter Aleppo three days into surprise offensive](https://www.theguardian.com/world/2024/nov/29/syrian-rebels-launch-surprise-attack-on-aleppo)
+- [Mauritian PM asks for independent review of Chagos Island deal with UK](https://www.theguardian.com/world/2024/nov/29/mauritian-pm-asks-for-independent-review-of-chagos-island-deal-with-uk)
+- [Premiership returns amid fanfare but old problems lurk in background | Michael Aylwin](https://www.theguardian.com/sport/2024/nov/29/premiership-returns-amid-fanfare-but-old-problems-lurk-in-background)
+- [Trump relishing Wilson rivalry as pair sweep into UK Championship semis](https://www.theguardian.com/sport/2024/nov/29/judd-trump-relishing-kyren-wilson-rivalry-after-pair-sweep-into-uk-snooker-championship-semi-finals)
+- [Paint the front door, layer the lighting: interior designers on affordable ways to update your home](https://www.theguardian.com/lifeandstyle/2024/nov/30/paint-the-front-door-layer-the-lighting-interior-designers-on-affordable-ways-to-update-your-home)
+- [Asia Pacific Triennial 11: an enormous explosion of colour and reassuring optimism](https://www.theguardian.com/artanddesign/2024/nov/30/asia-pacific-triennial-11-an-enormous-explosion-of-colour-and-reassuring-optimism)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

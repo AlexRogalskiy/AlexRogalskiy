@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [New Zealand v England: first men’s cricket Test, day three – live](https://www.theguardian.com/sport/live/2024/nov/29/new-zealand-v-england-first-mens-cricket-test-day-three-live)
-- [Trudeau in Florida to meet Trump after tariffs threat – reports](https://www.theguardian.com/us-news/2024/nov/30/trudeau-in-florida-to-meet-trump-after-tariffs-threat-reports)
-- [Still life quartet by Dutch golden age master to be shown together in Cambridge](https://www.theguardian.com/artanddesign/2024/nov/30/jan-davidsz-de-heem-still-life-quartet-fitzwilliam-museum-cambridge)
-- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2024/nov/29/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Syrian rebels enter Aleppo three days into surprise offensive](https://www.theguardian.com/world/2024/nov/29/syrian-rebels-launch-surprise-attack-on-aleppo)
-- [Mauritian PM asks for independent review of Chagos Island deal with UK](https://www.theguardian.com/world/2024/nov/29/mauritian-pm-asks-for-independent-review-of-chagos-island-deal-with-uk)
-- [Premiership returns amid fanfare but old problems lurk in background | Michael Aylwin](https://www.theguardian.com/sport/2024/nov/29/premiership-returns-amid-fanfare-but-old-problems-lurk-in-background)
-- [Trump relishing Wilson rivalry as pair sweep into UK Championship semis](https://www.theguardian.com/sport/2024/nov/29/judd-trump-relishing-kyren-wilson-rivalry-after-pair-sweep-into-uk-snooker-championship-semi-finals)
-- [Paint the front door, layer the lighting: interior designers on affordable ways to update your home](https://www.theguardian.com/lifeandstyle/2024/nov/30/paint-the-front-door-layer-the-lighting-interior-designers-on-affordable-ways-to-update-your-home)
-- [Asia Pacific Triennial 11: an enormous explosion of colour and reassuring optimism](https://www.theguardian.com/artanddesign/2024/nov/30/asia-pacific-triennial-11-an-enormous-explosion-of-colour-and-reassuring-optimism)
+- [Ukraine war briefing: Russian missile strike kills at least four in central town](https://www.theguardian.com/world/2024/dec/01/ukraine-war-briefing-russian-missile-strike-kills-at-least-four-in-central-town)
+- [England beat New Zealand by eight wickets: first men’s cricket Test, day four – as it happened](https://www.theguardian.com/sport/live/2024/nov/30/new-zealand-v-england-first-mens-cricket-test-day-four-live)
+- [Venomous tiger snake slithers up driver’s leg on Melbourne freeway](https://www.theguardian.com/australia-news/2024/dec/01/venomous-tiger-snake-slithers-up-drivers-leg-on-melbourne-freeway)
+- [Trump picks loyalist Kash Patel to run FBI](https://www.theguardian.com/us-news/2024/dec/01/trump-picks-loyalist-kash-patel-to-run-fbi)
+- [Judd Trump into UK Championship final with easy win over Kyren Wilson](https://www.theguardian.com/sport/2024/nov/30/judd-trump-into-uk-championship-final-with-easy-win-over-kyren-wilson)
+- [Syrian militants reach central Aleppo as government forces appear to retreat](https://www.theguardian.com/world/2024/nov/30/aleppo-russian-and-syrian-warplanes-target-insurgents)
+- [Letter from 1300 in support of Scottish hero William Wallace goes on display](https://www.theguardian.com/uk-news/2024/nov/30/letter-from-1300-in-support-of-scottish-hero-william-wallace-goes-on-display)
+- [UFO expert not ruling out Russia or China links to drones seen at RAF bases](https://www.theguardian.com/world/2024/nov/30/ufo-expert-not-ruling-out-russia-or-china-links-to-drones-seen-at-raf-bases)
+- [Max Verstappen’s surprise Qatar F1 GP pole position overturned by stewards](https://www.theguardian.com/sport/2024/nov/30/qatar-f1-gp-sprint-race-qualifying)
+- [Teenager dead and another ‘critical’ after Merseyside motorbike crash](https://www.theguardian.com/uk-news/2024/nov/30/teenager-dead-and-another-in-critical-condition-after-merseyside-motorbike-accident)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The epic spectacle that is the Bitcoin juggernaut MicroStrategy](https://www.ft.com/content/45d7c547-f686-4162-bfc3-56d609003bbb)
-- [Crypto boss eats banana art he bought for $6.2M](https://www.channelnewsasia.com/east-asia/banana-duct-tape-comedian-art-maurizio-cattelan-justin-sun-eat-4777786)
-- [Russia&#39;s Economy Is Doomed](https://www.newstatesman.com/business/economics/2024/11/russias-economy-is-doomed)
-- [Gen Z&#39;s definition of financial success includes joining the top 1%](https://fortune.com/2024/11/23/gen-z-financial-success-definition-salary-net-worth-millennials-gen-x-boomers/)
-- [I moved from a country with almost no inflation to the country with the highest](https://thehustle.co/originals/i-moved-from-a-country-with-almost-no-inflation-to-the-country-with-the-highest)
-- [Gen Z Came to See Books as a Waste of Time](https://www.theatlantic.com/newsletters/archive/2024/11/books-briefing-gen-z-reading-books-waste-time/680586/)
-- [Turn your Notion pages into eBooks in seconds](https://www.parchment-app.com/)
-- [The Quake III Arena Bot &lpar;2001&rpar; [pdf]](https://fabiensanglard.net/fd_proxy/quake3/The-Quake-III-Arena-Bot.pdf)
-- [Rustling for C++](https://github.com/rdjondo/cplings)
-- [Almost thirty percent of microplastics come from car tires](https://www.sciencealert.com/almost-30-of-microplastics-come-from-a-hugely-overlooked-source)
+- [I Built a Productivity Platform for the Cybersecurity Community](https://onetracker.org/)
+- [Operation Paperclip](https://en.wikipedia.org/wiki/Operation_Paperclip)
+- [I, Pencil [pdf]](https://fee.org/wp-content/uploads/ebooks/i-pencil-final-proof-for-website-pdf.pdf)
+- [Tesla Full Self-Driving &lpar;FSD&rpar; V13 Starts Initial Rollout](https://www.teslarati.com/tesla-full-self-driving-fsd-v13-rollout-release-notes/)
+- [Linux 6.13 Hits a &quot;Tipping Point&quot; with More Rust Drivers Expected Soon](https://www.phoronix.com/news/Linux-6.13-char-misc-More-Rust)
+- [Even central banks are losing faith in CBDCs](https://www.ft.com/content/e50d0d40-a670-4ee7-b734-5f0ee3375aeb)
+- [OpenWRT One Released: First Router Designed Specifically for OpenWrt](https://sfconservancy.org/news/2024/nov/29/openwrt-one-wireless-router-now-ships-black-friday/)
+- [All Here founder&#39;s arrest shows it&#39;s easy for startups to scam investors](https://www.axios.com/2024/11/27/allhere-founder-arrest-startups-scam-investors#)
+- [Map UI – Ghost in the Shell](https://ilikeinterfaces.com/2015/03/09/map-ui-ghost-in-the-shell/)
+- [Why &#39;open&#39; AI systems are closed, and why this matters](https://www.nature.com/articles/s41586-024-08141-1)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

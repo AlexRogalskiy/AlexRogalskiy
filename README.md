@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Virtual Geometry in Bevy 0.15](https://jms55.github.io/posts/2024-11-14-virtual-geometry-bevy-0-15/)
-- [TfL abandons plans for driverless tube trains](https://www.ianvisits.co.uk/articles/tfl-abandons-plans-for-driverless-tube-trains-77435/)
-- [NASA&#39;s Europa Clipper: Miles Down, Instruments Deploying](https://www.nasa.gov/missions/europa-clipper/nasas-europa-clipper-millions-of-miles-down-instruments-deploying/)
-- [Brick and Mortar Triangle Fraud](https://getcho.app/blog/triangle-fraud-brick-mortar/)
-- [The Deterioration of Google](https://www.baldurbjarnason.com/2024/the-deterioration-of-google/)
-- [The Hall SC-VGA-2 Video Processor, the Atari ST and NeXTSTEP](http://oldvcr.blogspot.com/2024/11/the-hall-sc-vga-2-video-processor-atari.html)
-- [Ask HN: Platform for senior devs to learn other programming languages?](https://news.ycombinator.com/item?id=42276995)
-- [Breaking the 4Chan CAPTCHA](https://www.nullpt.rs/breaking-the-4chan-captcha)
-- [Jank is now running on LLVM IR](https://jank-lang.org/blog/2024-11-29-llvm-ir/)
-- [What does this button do? – My new car has a mysterious and undocumented switch](https://blog.koenvh.nl/what-does-this-button-do-cm42u2oi7000a09l42f54g2pr)
+- [OpenWRT One Released: First Router Designed Specifically for OpenWrt](https://sfconservancy.org/news/2024/nov/29/openwrt-one-wireless-router-now-ships-black-friday/)
+- [All Here founder&#39;s arrest shows it&#39;s easy for startups to scam investors](https://www.axios.com/2024/11/27/allhere-founder-arrest-startups-scam-investors#)
+- [The Salvadoran government has 5,940 bitcoins worth $582M](https://lanoticiasv.com/el-bitcoin-esta-por-alcanzar-los-100000-y-el-salvador-ha-alcanzado-los-582-millones-en-la-reserva-estatal-de-bitcoin/)
+- [Sei AI &lpar;YC W22&rpar; Is Hiring an AI/ML Engineer with LLM Exposure](https://www.ycombinator.com/companies/sei/jobs/TYbKqi0-ai-ml-llm-engineer)
+- [Controlling AI&#39;s Growing Energy Needs](https://cacm.acm.org/news/controlling-ais-growing-energy-needs/)
+- [Jeff Dean Responds to EDA Industry about AlphaChip](https://twitter.com/JeffDean/status/1858540085794451906)
+- [An 83-year-old short story by Borges portends a bleak future for the internet](https://theconversation.com/an-83-year-old-short-story-by-borges-portends-a-bleak-future-for-the-internet-242998)
+- [Show HN: Open-source private home security camera system &lpar;end-to-end encryption&rpar;](https://github.com/privastead/privastead)
+- [A Brazilian CA trusted only by Microsoft has issued a certificate for google.com](https://follow.agwa.name/notice/AoZSMI38xcA3TrN1sm)
+- [Ntfs2btrfs does in-place conversion of NTFS filesystem to the open-source Btrfs](https://github.com/maharmstone/ntfs2btrfs)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

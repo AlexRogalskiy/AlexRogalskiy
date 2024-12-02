@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine war briefing: Russian missile strike kills at least four in central town](https://www.theguardian.com/world/2024/dec/01/ukraine-war-briefing-russian-missile-strike-kills-at-least-four-in-central-town)
-- [England beat New Zealand by eight wickets: first men’s cricket Test, day four – as it happened](https://www.theguardian.com/sport/live/2024/nov/30/new-zealand-v-england-first-mens-cricket-test-day-four-live)
-- [Venomous tiger snake slithers up driver’s leg on Melbourne freeway](https://www.theguardian.com/australia-news/2024/dec/01/venomous-tiger-snake-slithers-up-drivers-leg-on-melbourne-freeway)
-- [Trump picks loyalist Kash Patel to run FBI](https://www.theguardian.com/us-news/2024/dec/01/trump-picks-loyalist-kash-patel-to-run-fbi)
-- [Judd Trump into UK Championship final with easy win over Kyren Wilson](https://www.theguardian.com/sport/2024/nov/30/judd-trump-into-uk-championship-final-with-easy-win-over-kyren-wilson)
-- [Syrian militants reach central Aleppo as government forces appear to retreat](https://www.theguardian.com/world/2024/nov/30/aleppo-russian-and-syrian-warplanes-target-insurgents)
-- [Letter from 1300 in support of Scottish hero William Wallace goes on display](https://www.theguardian.com/uk-news/2024/nov/30/letter-from-1300-in-support-of-scottish-hero-william-wallace-goes-on-display)
-- [UFO expert not ruling out Russia or China links to drones seen at RAF bases](https://www.theguardian.com/world/2024/nov/30/ufo-expert-not-ruling-out-russia-or-china-links-to-drones-seen-at-raf-bases)
-- [Max Verstappen’s surprise Qatar F1 GP pole position overturned by stewards](https://www.theguardian.com/sport/2024/nov/30/qatar-f1-gp-sprint-race-qualifying)
-- [Teenager dead and another ‘critical’ after Merseyside motorbike crash](https://www.theguardian.com/uk-news/2024/nov/30/teenager-dead-and-another-in-critical-condition-after-merseyside-motorbike-accident)
+- [Joe Biden issues ‘full and unconditional’ pardon to son Hunter](https://www.theguardian.com/us-news/2024/dec/01/joe-biden-pardons-hunter)
+- [Who is Bushra Bibi? Imran Khan’s wife stands at the forefront of the Pakistan protests](https://www.theguardian.com/world/2024/dec/02/bushra-bibi-wife-imran-khan-pakistan-protests)
+- [Ukraine war briefing: Sceptics can be converted to my Nato plan, says Zelenskyy](https://www.theguardian.com/world/2024/dec/02/ukraine-war-briefing-sceptics-can-be-converted-to-my-nato-plan-says-zelenskyy)
+- [Growth expectations among UK firms take ‘decisive turn for worse’, says CBI](https://www.theguardian.com/business/2024/dec/02/growth-expectations-among-uk-firms-take-decisive-turn-for-worse-says-cbi)
+- [Cladding will be fixed on high-rise buildings in England by 2029, says Angela Rayner](https://www.theguardian.com/society/2024/dec/02/cladding-will-be-fixed-on-high-rise-buildings-in-england-by-2029-says-angela-rayner)
+- [Reforms of NHS don’t stand a chance unless recruitment is fixed, say top nurses](https://www.theguardian.com/society/2024/dec/02/nhs-recruitment-nurses)
+- [‘Brain rot’: Oxford word of the year 2024 reflects ‘trivial’ use of social media](https://www.theguardian.com/media/2024/dec/02/brain-rot-oxford-word-of-the-year-2024)
+- [Terry Griffiths, former world snooker champion, dies at age of 77](https://www.theguardian.com/sport/2024/dec/01/terry-griffiths-former-world-snooker-champion-dies-at-77)
+- [Marshall Brickman, Woody Allen’s Oscar-winning co-writer, dies aged 85](https://www.theguardian.com/film/2024/dec/02/marshall-brickman-death-dies-aged-85-oscar-winning-writer)
+- [Judd Trump sinks battling Barry Hawkins to pick up UK Championship](https://www.theguardian.com/sport/2024/dec/01/judd-trump-sinks-battling-barry-hawkins-to-pick-up-uk-championship)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

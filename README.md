@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [I Built a Productivity Platform for the Cybersecurity Community](https://onetracker.org/)
-- [Operation Paperclip](https://en.wikipedia.org/wiki/Operation_Paperclip)
-- [I, Pencil [pdf]](https://fee.org/wp-content/uploads/ebooks/i-pencil-final-proof-for-website-pdf.pdf)
-- [Tesla Full Self-Driving &lpar;FSD&rpar; V13 Starts Initial Rollout](https://www.teslarati.com/tesla-full-self-driving-fsd-v13-rollout-release-notes/)
-- [Linux 6.13 Hits a &quot;Tipping Point&quot; with More Rust Drivers Expected Soon](https://www.phoronix.com/news/Linux-6.13-char-misc-More-Rust)
-- [Even central banks are losing faith in CBDCs](https://www.ft.com/content/e50d0d40-a670-4ee7-b734-5f0ee3375aeb)
-- [OpenWRT One Released: First Router Designed Specifically for OpenWrt](https://sfconservancy.org/news/2024/nov/29/openwrt-one-wireless-router-now-ships-black-friday/)
-- [All Here founder&#39;s arrest shows it&#39;s easy for startups to scam investors](https://www.axios.com/2024/11/27/allhere-founder-arrest-startups-scam-investors#)
-- [Map UI – Ghost in the Shell](https://ilikeinterfaces.com/2015/03/09/map-ui-ghost-in-the-shell/)
-- [Why &#39;open&#39; AI systems are closed, and why this matters](https://www.nature.com/articles/s41586-024-08141-1)
+- [Bar Trivia - Free for game night trivia enthusiasts](https://brainknight.com/)
+- [Is JSON Predicate](https://modern-sql.com/caniuse/is-json)
+- [Why Golang slices still surprise me](https://build-your-own.org/blog/20241125_go_slice_surprise/)
+- [Tidbyt Is Joining Modal](https://modal.com/blog/tidbyt-is-joining-modal)
+- [View&#39;s Lifetime Is Not Yours](https://shadowfacts.net/2024/swiftui-lifecycle/)
+- [Convergence or Divergence? A Look at GDP Growth Across Countries](https://www.stlouisfed.org/on-the-economy/2024/aug/convergence-divergence-gdp-growth-richer-poorer-countries)
+- [How do you create absolute silence?](https://www.sciencefocus.com/science/how-do-you-create-absolute-silence)
+- [You&#39;re the Man Now Dog](https://yourethemannowdog.com/)
+- [The AI Effect: Amazon Sees Nearly 1B Cyber Threats a Day](https://www.wsj.com/articles/the-ai-effect-amazon-sees-nearly-1-billion-cyber-threats-a-day-15434edd)
+- [Ask HN: Did Cloudflare throttle my traffic only for 24 hours?](https://news.ycombinator.com/item?id=42292538)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

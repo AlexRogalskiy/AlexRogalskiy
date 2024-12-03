@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Bar Trivia - Free for game night trivia enthusiasts](https://brainknight.com/)
-- [Is JSON Predicate](https://modern-sql.com/caniuse/is-json)
-- [Why Golang slices still surprise me](https://build-your-own.org/blog/20241125_go_slice_surprise/)
-- [Tidbyt Is Joining Modal](https://modal.com/blog/tidbyt-is-joining-modal)
-- [View&#39;s Lifetime Is Not Yours](https://shadowfacts.net/2024/swiftui-lifecycle/)
-- [Convergence or Divergence? A Look at GDP Growth Across Countries](https://www.stlouisfed.org/on-the-economy/2024/aug/convergence-divergence-gdp-growth-richer-poorer-countries)
-- [How do you create absolute silence?](https://www.sciencefocus.com/science/how-do-you-create-absolute-silence)
-- [You&#39;re the Man Now Dog](https://yourethemannowdog.com/)
-- [The AI Effect: Amazon Sees Nearly 1B Cyber Threats a Day](https://www.wsj.com/articles/the-ai-effect-amazon-sees-nearly-1-billion-cyber-threats-a-day-15434edd)
-- [Ask HN: Did Cloudflare throttle my traffic only for 24 hours?](https://news.ycombinator.com/item?id=42292538)
+- [Unlock Hidden Sales Opportunities: How to Turn Social Media Leads into Customers](https://leadsift.co)
+- [The Next Platform](https://www.macchaffee.com/blog/2024/the-next-platform/)
+- [2025 will be a bad year for remote work](https://www.computerworld.com/article/3613161/2025-will-be-a-bad-year-for-remote-work.html)
+- [Distributed Erlang](https://vereis.com/posts/disterl_inbox)
+- [How a middle schooler found a new compound in a piece of goose poop](https://phys.org/news/2024-12-middle-schooler-compound-piece-goose.html)
+- [Korea arrests CEO for adding DDoS feature to satellite receivers](https://www.bleepingcomputer.com/news/security/korea-arrests-ceo-for-adding-ddos-feature-to-satellite-receivers/)
+- [Ask HN: New Resources for Learning Complexity Theory](https://news.ycombinator.com/item?id=42302591)
+- [A Personally Significant Bluesky Moment](https://whatever.scalzi.com/2024/12/02/a-personally-significant-bluesky-moment/)
+- [The Spysat and the Shuttle &lpar;2017&rpar;](https://www.smithsonianmag.com/air-space-magazine/spysat-and-shuttle-180962872/)
+- [Chicago Pile-1](https://en.wikipedia.org/wiki/Chicago_Pile-1)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

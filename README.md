@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Joe Biden issues ‘full and unconditional’ pardon to son Hunter](https://www.theguardian.com/us-news/2024/dec/01/joe-biden-pardons-hunter)
-- [Who is Bushra Bibi? Imran Khan’s wife stands at the forefront of the Pakistan protests](https://www.theguardian.com/world/2024/dec/02/bushra-bibi-wife-imran-khan-pakistan-protests)
-- [Ukraine war briefing: Sceptics can be converted to my Nato plan, says Zelenskyy](https://www.theguardian.com/world/2024/dec/02/ukraine-war-briefing-sceptics-can-be-converted-to-my-nato-plan-says-zelenskyy)
-- [Growth expectations among UK firms take ‘decisive turn for worse’, says CBI](https://www.theguardian.com/business/2024/dec/02/growth-expectations-among-uk-firms-take-decisive-turn-for-worse-says-cbi)
-- [Cladding will be fixed on high-rise buildings in England by 2029, says Angela Rayner](https://www.theguardian.com/society/2024/dec/02/cladding-will-be-fixed-on-high-rise-buildings-in-england-by-2029-says-angela-rayner)
-- [Reforms of NHS don’t stand a chance unless recruitment is fixed, say top nurses](https://www.theguardian.com/society/2024/dec/02/nhs-recruitment-nurses)
-- [‘Brain rot’: Oxford word of the year 2024 reflects ‘trivial’ use of social media](https://www.theguardian.com/media/2024/dec/02/brain-rot-oxford-word-of-the-year-2024)
-- [Terry Griffiths, former world snooker champion, dies at age of 77](https://www.theguardian.com/sport/2024/dec/01/terry-griffiths-former-world-snooker-champion-dies-at-77)
-- [Marshall Brickman, Woody Allen’s Oscar-winning co-writer, dies aged 85](https://www.theguardian.com/film/2024/dec/02/marshall-brickman-death-dies-aged-85-oscar-winning-writer)
-- [Judd Trump sinks battling Barry Hawkins to pick up UK Championship](https://www.theguardian.com/sport/2024/dec/01/judd-trump-sinks-battling-barry-hawkins-to-pick-up-uk-championship)
+- [Ukraine war briefing: Nato invitation highly unlikely at this stage, say diplomats](https://www.theguardian.com/world/2024/dec/03/ukraine-war-briefing-nato-invitation-highly-unlikely-at-this-stage-say-diplomats)
+- [Sifting of landfill to begin in search for Manitoba serial killer victims](https://www.theguardian.com/world/2024/dec/03/canada-manitoba-search-jeremy-skibicki-first-nations-women)
+- [Replica Harry Potter swords recalled in Japan for breaking weapons law](https://www.theguardian.com/world/2024/dec/03/harry-potter-sword-godric-gryffindor-recalled-japan)
+- [Wallabies star Jordan Petaia walks away from rugby union to chase NFL dream](https://www.theguardian.com/sport/2024/dec/03/jordan-petaia-nfl-quits-rugby-union-reds-wallabies-player)
+- [UK underestimates threat of cyber-attacks from hostile states and gangs, says security chief](https://www.theguardian.com/technology/2024/dec/03/uk-underestimates-threat-of-cyber-attacks-from-hostile-states-and-gangs-says-security-chief)
+- [Elon Musk’s $56bn Tesla pay package rejected again by US judge](https://www.theguardian.com/technology/2024/dec/02/elon-musk-tesla-pay-package)
+- [Georgian police fire teargas at pro-EU protesters as political crisis deepens](https://www.theguardian.com/world/2024/dec/02/georgian-police-fire-teargas-at-pro-eu-protesters-as-political-crisis-deepens)
+- [BBC rejects call to cut MasterChef episodes as Gregg Wallace apologises](https://www.theguardian.com/tv-and-radio/2024/dec/02/downing-street-condemns-gregg-wallaces-misogynistic-defence-of-behaviour)
+- [Rachel Reeves appoints Covid corruption commissioner](https://www.theguardian.com/politics/2024/dec/02/rachel-reeves-to-appoint-tom-hayhoe-covid-corruption-commissioner)
+- [Centre-right Fianna Fáil and Fine Gael set to retain power in Ireland](https://www.theguardian.com/world/2024/dec/02/ireland-election-centre-right-fianna-fail-fine-gael-to-retain-power)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Unlock Hidden Sales Opportunities: How to Turn Social Media Leads into Customers](https://leadsift.co)
-- [The Next Platform](https://www.macchaffee.com/blog/2024/the-next-platform/)
-- [2025 will be a bad year for remote work](https://www.computerworld.com/article/3613161/2025-will-be-a-bad-year-for-remote-work.html)
-- [Distributed Erlang](https://vereis.com/posts/disterl_inbox)
-- [How a middle schooler found a new compound in a piece of goose poop](https://phys.org/news/2024-12-middle-schooler-compound-piece-goose.html)
-- [Korea arrests CEO for adding DDoS feature to satellite receivers](https://www.bleepingcomputer.com/news/security/korea-arrests-ceo-for-adding-ddos-feature-to-satellite-receivers/)
-- [Ask HN: New Resources for Learning Complexity Theory](https://news.ycombinator.com/item?id=42302591)
-- [A Personally Significant Bluesky Moment](https://whatever.scalzi.com/2024/12/02/a-personally-significant-bluesky-moment/)
-- [The Spysat and the Shuttle &lpar;2017&rpar;](https://www.smithsonianmag.com/air-space-magazine/spysat-and-shuttle-180962872/)
-- [Chicago Pile-1](https://en.wikipedia.org/wiki/Chicago_Pile-1)
+- [Putin-controlled aircraft deported Ukrainian children, U.S. research alleges](https://www.reuters.com/world/europe/putin-controlled-aircraft-deported-ukrainian-children-us-backed-research-alleges-2024-12-03/)
+- [GenAI comes for jobs once considered &#39;safe&#39; from automation](https://www.theregister.com/2024/12/03/ai_oecd_report/)
+- [FBI Tells Telecom Firms Boost Security Following Wide-Ranging Hacking Campaign](https://www.securityweek.com/fbi-tells-telecom-firms-to-boost-security-following-wide-ranging-chinese-hacking-campaign/)
+- [The Thompson Twins Adventure &lpar;C64 game on flexi disk vinyl&rpar;](https://en.wikipedia.org/wiki/The_Thompson_Twins_Adventure)
+- [Can AI improve the current state of molecular simulation?](https://www.owlposting.com/p/can-ai-improve-the-current-state)
+- [Design Products That Won&#39;t Become Obsolete](https://hbr.org/2024/11/design-products-that-wont-become-obsolete)
+- [T-Minus: Kessler Syndrome](https://www.freethink.com/space/kessler-syndrome-faqs)
+- [Brain-Controlled Wheelchair](https://yusiali.com/projects/AggiesBCI/)
+- [EmacsConf 2024](https://emacsconf.org/2024/)
+- [Postcards from the Peak of Complexity [video]](https://www.youtube.com/watch?v=u08hjp6PF-Q)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

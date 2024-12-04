@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine war briefing: Nato invitation highly unlikely at this stage, say diplomats](https://www.theguardian.com/world/2024/dec/03/ukraine-war-briefing-nato-invitation-highly-unlikely-at-this-stage-say-diplomats)
-- [Sifting of landfill to begin in search for Manitoba serial killer victims](https://www.theguardian.com/world/2024/dec/03/canada-manitoba-search-jeremy-skibicki-first-nations-women)
-- [Replica Harry Potter swords recalled in Japan for breaking weapons law](https://www.theguardian.com/world/2024/dec/03/harry-potter-sword-godric-gryffindor-recalled-japan)
-- [Wallabies star Jordan Petaia walks away from rugby union to chase NFL dream](https://www.theguardian.com/sport/2024/dec/03/jordan-petaia-nfl-quits-rugby-union-reds-wallabies-player)
-- [UK underestimates threat of cyber-attacks from hostile states and gangs, says security chief](https://www.theguardian.com/technology/2024/dec/03/uk-underestimates-threat-of-cyber-attacks-from-hostile-states-and-gangs-says-security-chief)
-- [Elon Musk’s $56bn Tesla pay package rejected again by US judge](https://www.theguardian.com/technology/2024/dec/02/elon-musk-tesla-pay-package)
-- [Georgian police fire teargas at pro-EU protesters as political crisis deepens](https://www.theguardian.com/world/2024/dec/02/georgian-police-fire-teargas-at-pro-eu-protesters-as-political-crisis-deepens)
-- [BBC rejects call to cut MasterChef episodes as Gregg Wallace apologises](https://www.theguardian.com/tv-and-radio/2024/dec/02/downing-street-condemns-gregg-wallaces-misogynistic-defence-of-behaviour)
-- [Rachel Reeves appoints Covid corruption commissioner](https://www.theguardian.com/politics/2024/dec/02/rachel-reeves-to-appoint-tom-hayhoe-covid-corruption-commissioner)
-- [Centre-right Fianna Fáil and Fine Gael set to retain power in Ireland](https://www.theguardian.com/world/2024/dec/02/ireland-election-centre-right-fianna-fail-fine-gael-to-retain-power)
+- [Calls for South Korean president Yoon Suk Yeol to step down after martial law chaos – live](https://www.theguardian.com/world/live/2024/dec/03/south-korea-declares-emergency-martial-law-yoon-suk-yeol-north-korea-latest-updates)
+- [Mom sues Mattel over Wicked doll packages with porn site link](https://www.theguardian.com/us-news/2024/dec/03/mattel-sued-wicked-doll-porn-site)
+- [Ukraine war briefing: Nato lauds Blinken on final Brussels turn](https://www.theguardian.com/world/2024/dec/04/ukraine-war-briefing-nato-lauds-blinken-on-final-brussels-turn)
+- [Top House Democrat calls on Biden to pardon ‘working-class Americans’](https://www.theguardian.com/us-news/2024/dec/03/hakeem-jeffries-biden-pardon)
+- [Debbie Nelson, mother of rapper Eminem, dies aged 69](https://www.theguardian.com/music/2024/dec/03/debbie-nelson-dead-eminem)
+- [Journalists strike over proposed sale of Observer to Tortoise Media](https://www.theguardian.com/media/2024/dec/04/journalists-strike-proposed-sale-observer-tortoise-media-guardian)
+- [Four of UK’s oldest nuclear plants to run for even longer as Hinkley Point delayed](https://www.theguardian.com/environment/2024/dec/04/four-of-uks-oldest-nuclear-plants-to-run-for-even-longer-as-hinkley-point-delayed)
+- [Tory plan for 20,000 new jail places ‘will be years late and £4bn over budget’ – report](https://www.theguardian.com/society/2024/dec/04/tory-plan-for-20000-new-jail-places-will-be-years-late-and-4bn-over-budget-report)
+- [South Western Railway to become first train operator nationalised under Labour](https://www.theguardian.com/uk-news/2024/dec/03/south-western-railway-to-become-first-train-operator-nationalised-under-labour)
+- [Gisèle Pelicot’s lawyer: ‘This level of depravity? I have never seen anything like it’](https://www.theguardian.com/world/2024/dec/03/gisele-pelicot-lawyer-depravity-never-seen-anything-like-it)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

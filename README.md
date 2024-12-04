@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [8 months of OCaml after 8 years of Haskell in production](https://chshersh.com/blog/2023-12-16-8-months-of-ocaml-after-8-years-of-haskell.html)
-- [Show HN: Copper – Open-source robotics in Rust with deterministic log replay](https://github.com/copper-project/copper-rs/wiki/Copper-Release-Log)
-- [.NET Support on Heroku](https://blog.heroku.com/dotnet-support-on-heroku)
-- [Show HN: Open-sourced &lpar;road&rpar; traffic counting application](https://github.com/asfarley/vtc_lfs)
-- [A better approach to gravity: how we made EGM2008 faster](https://www.elodin.systems/post/a-better-approach-to-gravity-how-we-made-egm2008-faster)
-- [Optimality of Gerver&#39;s Sofa](https://arxiv.org/abs/2411.19826)
-- [Black Hole Puzzle](https://johncarlosbaez.wordpress.com/2024/11/30/black-hole-puzzle/)
-- [Facebook&#39;s Little Red Book](https://www.map.cv/blog/redbook)
-- [Unlocking the power of time-series data with multimodal models](https://research.google/blog/unlocking-the-power-of-time-series-data-with-multimodal-models/)
-- [Bioluminescent wood using the white rot fungus desarmillaria tabescens](https://onlinelibrary.wiley.com/doi/10.1002/advs.202403215)
+- [Formaldehyde Causes More Cancer Than Any Other Toxic Air Pollutant](https://www.propublica.org/article/formaldehyde-epa-trump-public-health-danger)
+- [Automated reasoning to remove LLM hallucinations](https://aws.amazon.com/blogs/aws/prevent-factual-errors-from-llm-hallucinations-with-mathematically-sound-automated-reasoning-checks-preview/)
+- [Rust library for building no-boilerplate CLI apps](https://github.com/JeffrayZhang/terse-cli)
+- [Phoenix LiveView 1.0.0 is here](https://www.phoenixframework.org/blog/phoenix-liveview-1.0-released?release=1.0)
+- [A new home for Python-build-standalone](https://astral.sh/blog/python-build-standalone)
+- [My son &lpar;9 yrs old&rpar; used plain JavaScript to make a game, and wants your feedback](https://www.armaansahni.com/game/)
+- [Creating a Proxmox or QEMU ChromeOS Flex VM](https://kevindavid.org/code/2024/03/20/chrome-os-flex-proxmox.html)
+- [Openlayer &lpar;YC S21&rpar; is looking for top-tier design engineers](https://www.ycombinator.com/companies/openlayer/jobs/ZEEO8UB-design-engineer)
+- [Egoless Engineering](https://egoless.engineering)
+- [Show HN: My C compiler compiled itself](https://github.com/keyvank/30cc)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

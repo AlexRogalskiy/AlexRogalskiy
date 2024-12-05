@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Formaldehyde Causes More Cancer Than Any Other Toxic Air Pollutant](https://www.propublica.org/article/formaldehyde-epa-trump-public-health-danger)
-- [Automated reasoning to remove LLM hallucinations](https://aws.amazon.com/blogs/aws/prevent-factual-errors-from-llm-hallucinations-with-mathematically-sound-automated-reasoning-checks-preview/)
-- [Rust library for building no-boilerplate CLI apps](https://github.com/JeffrayZhang/terse-cli)
-- [Phoenix LiveView 1.0.0 is here](https://www.phoenixframework.org/blog/phoenix-liveview-1.0-released?release=1.0)
-- [A new home for Python-build-standalone](https://astral.sh/blog/python-build-standalone)
-- [My son &lpar;9 yrs old&rpar; used plain JavaScript to make a game, and wants your feedback](https://www.armaansahni.com/game/)
-- [Creating a Proxmox or QEMU ChromeOS Flex VM](https://kevindavid.org/code/2024/03/20/chrome-os-flex-proxmox.html)
-- [Openlayer &lpar;YC S21&rpar; is looking for top-tier design engineers](https://www.ycombinator.com/companies/openlayer/jobs/ZEEO8UB-design-engineer)
-- [Egoless Engineering](https://egoless.engineering)
-- [Show HN: My C compiler compiled itself](https://github.com/keyvank/30cc)
+- [Bitcoin is over $100k](https://www.tradingview.com/symbols/BTCUSD/)
+- [Bringing K/V context quantisation to Ollama](https://smcleod.net/2024/12/bringing-k/v-context-quantisation-to-ollama/)
+- [AggiesBCI – brain-controlled wheelchair converts thoughts to real-world movement](https://yusiali.com/projects/AggiesBCI/)
+- [Deploying Containers on NixOS: A Guide](https://bkiran.com/blog/deploying-containers-nixos)
+- [Oracle Files Notice of Appearance for JavaScript Trademark [pdf]](https://deno.com/blog/deno-v-oracle/20241204-notice-of-appearance.pdf)
+- [Certificate Authorities and the Fragility of Internet Safety](https://azeemba.com/posts/certificate-authorities-and-the-fragility-of-internet-safety.html)
+- [How Typing Transformed Nietzsche&#39;s Consciousness](https://thereader.mitpress.mit.edu/how-typing-transformed-nietzsches-consciousness/)
+- [Native dual-range input](https://muffinman.io/blog/native-dual-range-input/)
+- [The Hoare Cube](https://johnwickerson.wordpress.com/2024/12/04/the-hoare-cube/)
+- [Show HN: Outerbase Studio – Open-Source Database GUI](https://github.com/outerbase/studio)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

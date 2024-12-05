@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Calls for South Korean president Yoon Suk Yeol to step down after martial law chaos – live](https://www.theguardian.com/world/live/2024/dec/03/south-korea-declares-emergency-martial-law-yoon-suk-yeol-north-korea-latest-updates)
-- [Mom sues Mattel over Wicked doll packages with porn site link](https://www.theguardian.com/us-news/2024/dec/03/mattel-sued-wicked-doll-porn-site)
-- [Ukraine war briefing: Nato lauds Blinken on final Brussels turn](https://www.theguardian.com/world/2024/dec/04/ukraine-war-briefing-nato-lauds-blinken-on-final-brussels-turn)
-- [Top House Democrat calls on Biden to pardon ‘working-class Americans’](https://www.theguardian.com/us-news/2024/dec/03/hakeem-jeffries-biden-pardon)
-- [Debbie Nelson, mother of rapper Eminem, dies aged 69](https://www.theguardian.com/music/2024/dec/03/debbie-nelson-dead-eminem)
-- [Journalists strike over proposed sale of Observer to Tortoise Media](https://www.theguardian.com/media/2024/dec/04/journalists-strike-proposed-sale-observer-tortoise-media-guardian)
-- [Four of UK’s oldest nuclear plants to run for even longer as Hinkley Point delayed](https://www.theguardian.com/environment/2024/dec/04/four-of-uks-oldest-nuclear-plants-to-run-for-even-longer-as-hinkley-point-delayed)
-- [Tory plan for 20,000 new jail places ‘will be years late and £4bn over budget’ – report](https://www.theguardian.com/society/2024/dec/04/tory-plan-for-20000-new-jail-places-will-be-years-late-and-4bn-over-budget-report)
-- [South Western Railway to become first train operator nationalised under Labour](https://www.theguardian.com/uk-news/2024/dec/03/south-western-railway-to-become-first-train-operator-nationalised-under-labour)
-- [Gisèle Pelicot’s lawyer: ‘This level of depravity? I have never seen anything like it’](https://www.theguardian.com/world/2024/dec/03/gisele-pelicot-lawyer-depravity-never-seen-anything-like-it)
+- [South Korea’s ruling party rallies behind Yoon Suk Yeol, vowing to block impeachment](https://www.theguardian.com/world/2024/dec/05/south-korea-updates-martial-law-yoon-suk-yeol-impeachment-kim-yong-hyun)
+- [California school shooting leaves two students injured and suspect dead](https://www.theguardian.com/us-news/2024/dec/04/oroville-california-school-shooting)
+- [Ukraine war briefing: Zelenskyy delegation meets with Trump team – report](https://www.theguardian.com/world/2024/dec/05/ukraine-war-briefing-zelenskyy-delegation-meets-with-trump-team-report)
+- [Boris Johnson to cut short Australian book tour due to ‘unforeseen circumstances’](https://www.theguardian.com/politics/2024/dec/05/boris-johnson-australian-book-tour-melbourne-event-cancelled)
+- [India-Bangladesh relations sour as tensions rise over attacks on Hindu minority](https://www.theguardian.com/world/2024/dec/05/india-bangladesh-relations-sour-as-tensions-rise-over-attacks-on-hindu-minority)
+- [Many Americans’ cellphone data being hacked by China, official says](https://www.theguardian.com/technology/2024/dec/04/chinese-hackers-american-cell-phones)
+- [Israel’s war in Gaza amounts to genocide, Amnesty International report finds](https://www.theguardian.com/world/2024/dec/05/israels-war-in-gaza-amounts-to-genocide-amnesty-international-report-finds)
+- [Doctor Who showrunners warn AI scripts will ‘eat their own tail’](https://www.theguardian.com/tv-and-radio/2024/dec/05/doctor-who-steven-moffatt-russell-davies-ai)
+- [‘We’re not going away’: the man who led NZ’s biggest Māori rights march vows to fight on](https://www.theguardian.com/world/2024/dec/05/eru-kapa-kingi-new-zealand-maori-hikoi-protest-treaty)
+- [Each year, Spotify Wrapped is the confronting report card that reminds me of how uncool I am | James Colley](https://www.theguardian.com/commentisfree/2024/dec/05/spotify-wrapped-2024-playlist-reminds-me-how-uncool-i-am)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

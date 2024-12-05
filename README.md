@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Putin-controlled aircraft deported Ukrainian children, U.S. research alleges](https://www.reuters.com/world/europe/putin-controlled-aircraft-deported-ukrainian-children-us-backed-research-alleges-2024-12-03/)
-- [GenAI comes for jobs once considered &#39;safe&#39; from automation](https://www.theregister.com/2024/12/03/ai_oecd_report/)
-- [FBI Tells Telecom Firms Boost Security Following Wide-Ranging Hacking Campaign](https://www.securityweek.com/fbi-tells-telecom-firms-to-boost-security-following-wide-ranging-chinese-hacking-campaign/)
-- [The Thompson Twins Adventure &lpar;C64 game on flexi disk vinyl&rpar;](https://en.wikipedia.org/wiki/The_Thompson_Twins_Adventure)
-- [Can AI improve the current state of molecular simulation?](https://www.owlposting.com/p/can-ai-improve-the-current-state)
-- [Design Products That Won&#39;t Become Obsolete](https://hbr.org/2024/11/design-products-that-wont-become-obsolete)
-- [T-Minus: Kessler Syndrome](https://www.freethink.com/space/kessler-syndrome-faqs)
-- [Brain-Controlled Wheelchair](https://yusiali.com/projects/AggiesBCI/)
-- [EmacsConf 2024](https://emacsconf.org/2024/)
-- [Postcards from the Peak of Complexity [video]](https://www.youtube.com/watch?v=u08hjp6PF-Q)
+- [Ultra-processed foods fatten muscles even if not eaten in large amounts: study](https://www.ft.com/content/cf5a2dbe-84b1-4479-b772-f2951d7cb28d)
+- [Bitcoin reaches 100k](https://coinmarketcap.com/currencies/bitcoin/)
+- [A New Phone Scanner That Detects Spyware Has Found 7 Pegasus Infections](https://www.wired.com/story/iverify-spyware-detection-tool-nso-group-pegasus/)
+- [Deconstructing Fatboy Slim – Praise You [video]](https://www.youtube.com/watch?v=iqYorojjoDg)
+- [Over 21000 Workers Reported Dead in Saudi Arabia&#39;s NEOM Project](https://sand-boarding.com/neom-project-21000-worker-deaths/)
+- [Town of Carrboro Sues Duke Energy for Climate &#39;Deception&#39;](https://indyweek.com/news/orange/town-of-carrboro-sues-duke-energy-for-climate-deception/)
+- [Big Insurer Sets Time Limits on Anesthesia Coverage During Surgeries](https://www.levernews.com/big-insurer-sets-time-limits-on-anesthesia-coverage-during-surgeries/)
+- [Hugging Face CEO has concerns about Chinese open source AI models](https://techcrunch.com/2024/12/03/huggingface-ceo-has-concerns-about-chinese-open-source-ai-models/)
+- [Bitcoin is over $100k](https://www.tradingview.com/symbols/BTCUSD/)
+- [I&#39;m going back to school: Becoming a Montessori teacher](https://anandsanwal.me/montessori-teacher-anand-sanwal/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ultra-processed foods fatten muscles even if not eaten in large amounts: study](https://www.ft.com/content/cf5a2dbe-84b1-4479-b772-f2951d7cb28d)
-- [Bitcoin reaches 100k](https://coinmarketcap.com/currencies/bitcoin/)
-- [A New Phone Scanner That Detects Spyware Has Found 7 Pegasus Infections](https://www.wired.com/story/iverify-spyware-detection-tool-nso-group-pegasus/)
-- [Deconstructing Fatboy Slim – Praise You [video]](https://www.youtube.com/watch?v=iqYorojjoDg)
-- [Over 21000 Workers Reported Dead in Saudi Arabia&#39;s NEOM Project](https://sand-boarding.com/neom-project-21000-worker-deaths/)
-- [Town of Carrboro Sues Duke Energy for Climate &#39;Deception&#39;](https://indyweek.com/news/orange/town-of-carrboro-sues-duke-energy-for-climate-deception/)
-- [Big Insurer Sets Time Limits on Anesthesia Coverage During Surgeries](https://www.levernews.com/big-insurer-sets-time-limits-on-anesthesia-coverage-during-surgeries/)
-- [Hugging Face CEO has concerns about Chinese open source AI models](https://techcrunch.com/2024/12/03/huggingface-ceo-has-concerns-about-chinese-open-source-ai-models/)
-- [Bitcoin is over $100k](https://www.tradingview.com/symbols/BTCUSD/)
-- [I&#39;m going back to school: Becoming a Montessori teacher](https://anandsanwal.me/montessori-teacher-anand-sanwal/)
+- [How to Pronounce Chinese Names a Little Better](https://jacko.io/chinese_names.html)
+- [Huaweu allocated 2.5 x 10^33 IPv6 addresses](https://www.theregister.com/2024/12/06/apnic_huawei_ipv6/)
+- [Atlassian&#39;s The Earworm Eraser – Get catchy songs out of your head [video]](https://www.youtube.com/watch?v=LvDl3kL42uU)
+- [You Have Not Died of Dysentery](https://woe-industries.itch.io/you-have-not-died-of-dysentery)
+- [New in HEY: Faster speeds for customers worldwide](https://updates.37signals.com/post/new-in-hey-faster-speeds)
+- [Donald Trump Names David Sacks as White House AI and Crypto Czar](https://www.bloomberg.com/news/articles/2024-12-06/trump-names-david-sacks-as-white-house-ai-and-crypto-czar)
+- [Programmers Are Users &lpar;Bad Performance Makes Everyone Less Efficient&rpar;](https://www.rfleury.com/p/programmers-are-users-bad-performance)
+- [Hunter-Gatherer Energetics and Human Obesity &lpar;2012&rpar;](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0040503)
+- [Retain Your Fluids](https://blog.depthsofrepair.com/p/retain-your-fluids)
+- [You Want That Gift to Arrive Today? This Is What It Takes](https://www.nytimes.com/2024/12/03/business/amazon-same-day-delivery.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Bitcoin is over $100k](https://www.tradingview.com/symbols/BTCUSD/)
-- [Bringing K/V context quantisation to Ollama](https://smcleod.net/2024/12/bringing-k/v-context-quantisation-to-ollama/)
-- [AggiesBCI – brain-controlled wheelchair converts thoughts to real-world movement](https://yusiali.com/projects/AggiesBCI/)
-- [Deploying Containers on NixOS: A Guide](https://bkiran.com/blog/deploying-containers-nixos)
-- [Oracle Files Notice of Appearance for JavaScript Trademark [pdf]](https://deno.com/blog/deno-v-oracle/20241204-notice-of-appearance.pdf)
-- [Certificate Authorities and the Fragility of Internet Safety](https://azeemba.com/posts/certificate-authorities-and-the-fragility-of-internet-safety.html)
-- [How Typing Transformed Nietzsche&#39;s Consciousness](https://thereader.mitpress.mit.edu/how-typing-transformed-nietzsches-consciousness/)
-- [Native dual-range input](https://muffinman.io/blog/native-dual-range-input/)
-- [The Hoare Cube](https://johnwickerson.wordpress.com/2024/12/04/the-hoare-cube/)
-- [Show HN: Outerbase Studio – Open-Source Database GUI](https://github.com/outerbase/studio)
+- [Researchers launch &quot;moonshot&quot; to cure blindness through eye transplants](https://www.canoncitydailyrecord.com/2024/12/05/university-colorado-anschutz-blindness-cure-eye-transplant-medical-research/)
+- [The Death of Intel: When Boards Fail](https://www.fabricatedknowledge.com/p/the-death-of-intel-when-boards-fail)
+- [Lossless Log Aggregation - Reduce Log Volume by 99% Without Dropping Data](https://bit.kevinslin.com/p/lossless-log-aggregation)
+- [Dangerous Things Sells &quot;Cybernetic Microchip Biohacking&quot; RFID and NFC Implants](https://dangerousthings.com/)
+- [Litdb – type safe SQL for JavaScript/TS](https://litdb.dev/)
+- [Portland Airport Grows with Expansive Mass Timber Roof Canopy](https://design-milk.com/portland-airport-grows-with-expansive-mass-timber-roof-canopy/)
+- [Researchers get &#39;compact&#39; hard X-ray machine to work](https://www.tue.nl/en/news-and-events/news-overview/27-11-2024-tue-researchers-get-compact-hard-x-ray-machine-to-work?ct=t%28EMAIL_CAMPAIGN_2024_12_05_12_30&cHash=2698890d84f51932fdab618ea6ad1a4b)
+- [The Acton Programming Language](https://www.acton-lang.org/)
+- [Gitlab names Bill Staples as new CEO](https://www.businesswire.com/news/home/20241205391064/en/GitLab-Names-Bill-Staples-as-New-CEO)
+- [Zep AI &lpar;YC W24&rpar; Is Hiring a Dev Advocate](https://www.ycombinator.com/companies/zep-ai/jobs/MTpb6pB-developer-advocate)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

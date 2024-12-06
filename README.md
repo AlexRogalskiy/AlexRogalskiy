@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [South Korea’s ruling party rallies behind Yoon Suk Yeol, vowing to block impeachment](https://www.theguardian.com/world/2024/dec/05/south-korea-updates-martial-law-yoon-suk-yeol-impeachment-kim-yong-hyun)
-- [California school shooting leaves two students injured and suspect dead](https://www.theguardian.com/us-news/2024/dec/04/oroville-california-school-shooting)
-- [Ukraine war briefing: Zelenskyy delegation meets with Trump team – report](https://www.theguardian.com/world/2024/dec/05/ukraine-war-briefing-zelenskyy-delegation-meets-with-trump-team-report)
-- [Boris Johnson to cut short Australian book tour due to ‘unforeseen circumstances’](https://www.theguardian.com/politics/2024/dec/05/boris-johnson-australian-book-tour-melbourne-event-cancelled)
-- [India-Bangladesh relations sour as tensions rise over attacks on Hindu minority](https://www.theguardian.com/world/2024/dec/05/india-bangladesh-relations-sour-as-tensions-rise-over-attacks-on-hindu-minority)
-- [Many Americans’ cellphone data being hacked by China, official says](https://www.theguardian.com/technology/2024/dec/04/chinese-hackers-american-cell-phones)
-- [Israel’s war in Gaza amounts to genocide, Amnesty International report finds](https://www.theguardian.com/world/2024/dec/05/israels-war-in-gaza-amounts-to-genocide-amnesty-international-report-finds)
-- [Doctor Who showrunners warn AI scripts will ‘eat their own tail’](https://www.theguardian.com/tv-and-radio/2024/dec/05/doctor-who-steven-moffatt-russell-davies-ai)
-- [‘We’re not going away’: the man who led NZ’s biggest Māori rights march vows to fight on](https://www.theguardian.com/world/2024/dec/05/eru-kapa-kingi-new-zealand-maori-hikoi-protest-treaty)
-- [Each year, Spotify Wrapped is the confronting report card that reminds me of how uncool I am | James Colley](https://www.theguardian.com/commentisfree/2024/dec/05/spotify-wrapped-2024-playlist-reminds-me-how-uncool-i-am)
+- [New Zealand v England: second men’s cricket Test, day one – live](https://www.theguardian.com/sport/live/2024/dec/06/new-zealand-v-england-second-mens-cricket-test-day-one-live)
+- [South Korea ruling party leader says country risks ‘great danger’ unless President Yoon suspended](https://www.theguardian.com/world/2024/dec/06/south-korea-people-power-party-han-dong-hoon-yoon-suk-yeol-martisl-lse)
+- [Top Afghan cricketers urge Taliban to reverse ban on women’s medical education](https://www.theguardian.com/sport/2024/dec/06/afghanistan-crickey-team-call-taliban-reverse-ban-women-medical-education)
+- [California school shooter identified as police call children’s survival ‘miracle’](https://www.theguardian.com/us-news/2024/dec/05/california-oroville-school-shooting)
+- [Melbourne synagogue fire a ‘deliberate’ antisemitic attack, Anthony Albanese says](https://www.theguardian.com/australia-news/2024/dec/06/police-suspect-fire-that-engulfed-melbourne-synagogue-was-deliberately-lit)
+- [Senior Biden aide commits to giving Ukraine avalanche of military assistance](https://www.theguardian.com/us-news/2024/dec/05/biden-administration-ukraine-military-assistance-russia-sanctions)
+- [Islamist rebels seize strategic city of Hama from Syrian regime forces](https://www.theguardian.com/world/2024/dec/05/islamist-rebels-seize-strategic-city-of-hama-from-syrian-regime-forces)
+- [Lately I’ve become less engaged with the world. How do I find something to be interested in? | Leading questions](https://www.theguardian.com/lifeandstyle/2024/dec/06/lately-ive-become-less-engaged-with-the-world-how-do-i-find-something-to-be-interested-in)
+- [Magnitude 7.0 earthquake rattles northern California](https://www.theguardian.com/us-news/2024/dec/05/earthquake-california)
+- [Giant slugs and octopus suckers: the weird and wonderful wildlife at risk in Britain’s vanishing rainforests](https://www.theguardian.com/environment/2024/dec/06/giant-slugs-and-octopus-suckers-the-weird-and-wonderful-wildlife-at-risk-in-britains-vanishing-rainforests)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

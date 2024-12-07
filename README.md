@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [How to Pronounce Chinese Names a Little Better](https://jacko.io/chinese_names.html)
-- [Huaweu allocated 2.5 x 10^33 IPv6 addresses](https://www.theregister.com/2024/12/06/apnic_huawei_ipv6/)
-- [Atlassian&#39;s The Earworm Eraser – Get catchy songs out of your head [video]](https://www.youtube.com/watch?v=LvDl3kL42uU)
-- [You Have Not Died of Dysentery](https://woe-industries.itch.io/you-have-not-died-of-dysentery)
-- [New in HEY: Faster speeds for customers worldwide](https://updates.37signals.com/post/new-in-hey-faster-speeds)
-- [Donald Trump Names David Sacks as White House AI and Crypto Czar](https://www.bloomberg.com/news/articles/2024-12-06/trump-names-david-sacks-as-white-house-ai-and-crypto-czar)
-- [Programmers Are Users &lpar;Bad Performance Makes Everyone Less Efficient&rpar;](https://www.rfleury.com/p/programmers-are-users-bad-performance)
-- [Hunter-Gatherer Energetics and Human Obesity &lpar;2012&rpar;](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0040503)
-- [Retain Your Fluids](https://blog.depthsofrepair.com/p/retain-your-fluids)
-- [You Want That Gift to Arrive Today? This Is What It Takes](https://www.nytimes.com/2024/12/03/business/amazon-same-day-delivery.html)
+- [Firefox Maker Rebrands as &quot;Global Crew of Activists](https://lunduke.substack.com/p/firefox-maker-rebrands-as-global)
+- [Show HN: Assertables version 9, a Rust crate of assert macros for smarter tests](https://github.com/SixArm/assertables-rust-crate)
+- [Imogen Heap&#39;s AI Revolution](https://theconversation.com/imogen-heaps-ai-revolution-how-one-british-musician-is-shaping-the-future-of-music-245086)
+- [Bird flu has been detected in a pig in the US. Why does that matter?](https://theconversation.com/bird-flu-has-been-detected-in-a-pig-in-the-us-why-does-that-matter-242688)
+- [How the Federal Government Weaponized the Bank Secrecy Act to Spy on Americans [pdf]](https://judiciary.house.gov/sites/evo-subsites/republicans-judiciary.house.gov/files/2024-12/2024-12-05-Financial-Surveillance-in-the-United-States.pdf)
+- [The GPT Era Is Already Ending – Something Has Shifted at OpenAI](https://www.theatlantic.com/technology/archive/2024/12/openai-o1-reasoning-models/680906/)
+- [Global AI Power Rankings](https://hai.stanford.edu/news/global-ai-power-rankings-stanford-hai-tool-ranks-36-countries-ai)
+- [Better air quality is the easiest way not to die &lpar;2021&rpar;](https://dynomight.net/air/)
+- [Rust crate which converts CSV to JSONL](https://github.com/bwbroersma/csv2jsonl)
+- [Mimicking Exercise: Gene Control Found to Stimulate Muscle Growth](https://scitechdaily.com/mimicking-exercise-gene-control-found-to-stimulate-muscle-growth/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

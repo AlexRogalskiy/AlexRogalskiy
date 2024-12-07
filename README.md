@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Researchers launch &quot;moonshot&quot; to cure blindness through eye transplants](https://www.canoncitydailyrecord.com/2024/12/05/university-colorado-anschutz-blindness-cure-eye-transplant-medical-research/)
-- [The Death of Intel: When Boards Fail](https://www.fabricatedknowledge.com/p/the-death-of-intel-when-boards-fail)
-- [Lossless Log Aggregation - Reduce Log Volume by 99% Without Dropping Data](https://bit.kevinslin.com/p/lossless-log-aggregation)
-- [Dangerous Things Sells &quot;Cybernetic Microchip Biohacking&quot; RFID and NFC Implants](https://dangerousthings.com/)
-- [Litdb – type safe SQL for JavaScript/TS](https://litdb.dev/)
-- [Portland Airport Grows with Expansive Mass Timber Roof Canopy](https://design-milk.com/portland-airport-grows-with-expansive-mass-timber-roof-canopy/)
-- [Researchers get &#39;compact&#39; hard X-ray machine to work](https://www.tue.nl/en/news-and-events/news-overview/27-11-2024-tue-researchers-get-compact-hard-x-ray-machine-to-work?ct=t%28EMAIL_CAMPAIGN_2024_12_05_12_30&cHash=2698890d84f51932fdab618ea6ad1a4b)
-- [The Acton Programming Language](https://www.acton-lang.org/)
-- [Gitlab names Bill Staples as new CEO](https://www.businesswire.com/news/home/20241205391064/en/GitLab-Names-Bill-Staples-as-New-CEO)
-- [Zep AI &lpar;YC W24&rpar; Is Hiring a Dev Advocate](https://www.ycombinator.com/companies/zep-ai/jobs/MTpb6pB-developer-advocate)
+- [RollerCoaster Tycoon was the last of its kind [video]](https://www.youtube.com/watch?v=0JouTsMQsEA)
+- [Structured Outputs with Ollama](https://ollama.com/blog/structured-outputs)
+- [Biggest shell programs](https://github.com/oils-for-unix/oils/wiki/The-Biggest-Shell-Programs-in-the-World)
+- [Python with Rizz](https://github.com/shamith09/pygyat)
+- [My second year without a job](https://shilin.ca/my-second-year-without-job/)
+- [Lies I was told about collab editing, Part 1: Algorithms for offline editing](https://www.moment.dev/blog/lies-i-was-told-pt-1)
+- [Does Your Code Pass the Turkey Test? &lpar;2008&rpar;](http://www.moserware.com/2008/02/does-your-code-pass-turkey-test.html)
+- [DSPy – Programming–not prompting–LMs](https://dspy.ai/)
+- [Arc Prize 2024 Winners and Technical Report](https://arcprize.org/2024-results)
+- [Deep dive into finding RSS feeds](https://lighthouseapp.io/blog/deep-dive-finding-rss-feeds)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

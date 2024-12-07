@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [New Zealand v England: second men’s cricket Test, day one – live](https://www.theguardian.com/sport/live/2024/dec/06/new-zealand-v-england-second-mens-cricket-test-day-one-live)
-- [South Korea ruling party leader says country risks ‘great danger’ unless President Yoon suspended](https://www.theguardian.com/world/2024/dec/06/south-korea-people-power-party-han-dong-hoon-yoon-suk-yeol-martisl-lse)
-- [Top Afghan cricketers urge Taliban to reverse ban on women’s medical education](https://www.theguardian.com/sport/2024/dec/06/afghanistan-crickey-team-call-taliban-reverse-ban-women-medical-education)
-- [California school shooter identified as police call children’s survival ‘miracle’](https://www.theguardian.com/us-news/2024/dec/05/california-oroville-school-shooting)
-- [Melbourne synagogue fire a ‘deliberate’ antisemitic attack, Anthony Albanese says](https://www.theguardian.com/australia-news/2024/dec/06/police-suspect-fire-that-engulfed-melbourne-synagogue-was-deliberately-lit)
-- [Senior Biden aide commits to giving Ukraine avalanche of military assistance](https://www.theguardian.com/us-news/2024/dec/05/biden-administration-ukraine-military-assistance-russia-sanctions)
-- [Islamist rebels seize strategic city of Hama from Syrian regime forces](https://www.theguardian.com/world/2024/dec/05/islamist-rebels-seize-strategic-city-of-hama-from-syrian-regime-forces)
-- [Lately I’ve become less engaged with the world. How do I find something to be interested in? | Leading questions](https://www.theguardian.com/lifeandstyle/2024/dec/06/lately-ive-become-less-engaged-with-the-world-how-do-i-find-something-to-be-interested-in)
-- [Magnitude 7.0 earthquake rattles northern California](https://www.theguardian.com/us-news/2024/dec/05/earthquake-california)
-- [Giant slugs and octopus suckers: the weird and wonderful wildlife at risk in Britain’s vanishing rainforests](https://www.theguardian.com/environment/2024/dec/06/giant-slugs-and-octopus-suckers-the-weird-and-wonderful-wildlife-at-risk-in-britains-vanishing-rainforests)
+- [New Zealand v England: second men’s cricket Test, day two – live](https://www.theguardian.com/sport/live/2024/dec/06/new-zealand-v-england-second-cricket-test-day-two-live-score-updates)
+- [South Korean president apologises for martial law attempt as impeachment vote looms](https://www.theguardian.com/world/2024/dec/07/south-korean-president-apologises-for-martial-law-attempt-as-impeachment-vote-looms)
+- [Indonesia chases the return of ‘bonanza-era’ Chinese tourism](https://www.theguardian.com/world/2024/dec/07/indonesia-china-tourism-boom-return)
+- [MI5 forced to ‘pare back’ counter-terrorism work due to rogue states, says chief](https://www.theguardian.com/uk-news/2024/dec/06/mi5-forced-to-pare-back-on-counter-terrorism-work-due-to-hostile-states-says-agency-chief)
+- [Quiet zones, sandpits and paddling pools: the paw-some evolution of Australia’s state-of-the-art dog parks](https://www.theguardian.com/lifeandstyle/2024/dec/07/quiet-zones-sandpits-and-paddling-pools-the-paw-some-evolution-of-australias-state-of-the-art-dog-parks)
+- [Clues emerge but no arrests yet as New York police hunt health CEO’s killer](https://www.theguardian.com/us-news/2024/dec/06/united-healthcare-shooting-evidence-manhunt)
+- [Ange Postecoglou blames mental softness for Tottenham’s inconsistency](https://www.theguardian.com/football/2024/dec/06/ange-postecoglou-blames-mental-softness-for-tottenhams-inconsistency)
+- [Roberts on target but Middlesbrough deny Burnley Championship top spot](https://www.theguardian.com/football/2024/dec/06/burnley-middlesbrough-championship-match-report)
+- [Lawyers say they suspect Harvey Weinstein has been deliberately mistreated in prison](https://www.theguardian.com/world/2024/dec/06/harvey-weinstein-prison-mistreatment)
+- [Police find body of US woman who fell into sinkhole while looking for her cat](https://www.theguardian.com/us-news/2024/dec/06/pennsylvania-woman-sinkhole-body-found)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Firefox Maker Rebrands as &quot;Global Crew of Activists](https://lunduke.substack.com/p/firefox-maker-rebrands-as-global)
-- [Show HN: Assertables version 9, a Rust crate of assert macros for smarter tests](https://github.com/SixArm/assertables-rust-crate)
-- [Imogen Heap&#39;s AI Revolution](https://theconversation.com/imogen-heaps-ai-revolution-how-one-british-musician-is-shaping-the-future-of-music-245086)
-- [Bird flu has been detected in a pig in the US. Why does that matter?](https://theconversation.com/bird-flu-has-been-detected-in-a-pig-in-the-us-why-does-that-matter-242688)
-- [How the Federal Government Weaponized the Bank Secrecy Act to Spy on Americans [pdf]](https://judiciary.house.gov/sites/evo-subsites/republicans-judiciary.house.gov/files/2024-12/2024-12-05-Financial-Surveillance-in-the-United-States.pdf)
-- [The GPT Era Is Already Ending – Something Has Shifted at OpenAI](https://www.theatlantic.com/technology/archive/2024/12/openai-o1-reasoning-models/680906/)
-- [Global AI Power Rankings](https://hai.stanford.edu/news/global-ai-power-rankings-stanford-hai-tool-ranks-36-countries-ai)
-- [Better air quality is the easiest way not to die &lpar;2021&rpar;](https://dynomight.net/air/)
-- [Rust crate which converts CSV to JSONL](https://github.com/bwbroersma/csv2jsonl)
-- [Mimicking Exercise: Gene Control Found to Stimulate Muscle Growth](https://scitechdaily.com/mimicking-exercise-gene-control-found-to-stimulate-muscle-growth/)
+- [Honda&#39;s award winning commercial &quot;Cogs&quot; [video]](https://www.youtube.com/watch?v=OT-As8zdorY)
+- [Longtermtrends.net](https://www.longtermtrends.net/)
+- [Nyxt: The Hacker&#39;s Browser](https://nyxt.atlas.engineer/)
+- [UsesThis is broken, hope waferbaby is ok](https://usesthis.com/)
+- [Assad Has Left Damascus](https://www.reuters.com/world/middle-east/syria-rebels-celebrate-captured-homs-set-sights-damascus-2024-12-07/)
+- [Tech Stack Statistics](https://news.ycombinator.com/item?id=42354665)
+- [Composite and hard reset mods for the Tandyvision One](http://oldvcr.blogspot.com/2024/12/composite-and-hard-reset-mods-for.html)
+- [The Art of Failure Analysis](https://spectrum.ieee.org/the-art-of-failure)
+- [The end of the ISS will usher in a more commercialized future in space](https://www.theverge.com/2024/12/7/24314191/iss-end-2030-commercial-space-station-mars-moon)
+- [Syrian President Bashar al-Assad has left Damascus](https://www.reuters.com/world/middle-east/syrian-president-bashar-al-assad-has-left-damascus-an-unknown-destination-say-2024-12-08/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

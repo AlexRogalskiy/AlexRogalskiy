@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [RollerCoaster Tycoon was the last of its kind [video]](https://www.youtube.com/watch?v=0JouTsMQsEA)
-- [Structured Outputs with Ollama](https://ollama.com/blog/structured-outputs)
-- [Biggest shell programs](https://github.com/oils-for-unix/oils/wiki/The-Biggest-Shell-Programs-in-the-World)
-- [Python with Rizz](https://github.com/shamith09/pygyat)
-- [My second year without a job](https://shilin.ca/my-second-year-without-job/)
-- [Lies I was told about collab editing, Part 1: Algorithms for offline editing](https://www.moment.dev/blog/lies-i-was-told-pt-1)
-- [Does Your Code Pass the Turkey Test? &lpar;2008&rpar;](http://www.moserware.com/2008/02/does-your-code-pass-turkey-test.html)
-- [DSPy – Programming–not prompting–LMs](https://dspy.ai/)
-- [Arc Prize 2024 Winners and Technical Report](https://arcprize.org/2024-results)
-- [Deep dive into finding RSS feeds](https://lighthouseapp.io/blog/deep-dive-finding-rss-feeds)
+- [GroMo &lpar;YC W21&rpar; Is Hiring](https://www.ycombinator.com/companies/gromo/jobs/pZHrmBK-senior-executive-finance)
+- [Arctic uses a fan to cool another fan](https://www.tomshardware.com/pc-components/case-fans/arctic-uses-a-fan-to-cool-another-fan-s12038-4k-120mm-fan-adds-an-extra-fan-in-its-center-to-cool-its-central-shaft)
+- [Landlords Are Using AI to Raise Rents](https://gizmodo.com/landlords-are-using-ai-to-raise-rents-and-cities-are-starting-to-push-back-2000535519)
+- [Browsing negative content online makes mental health struggles worse: Study](https://news.mit.edu/2024/study-browsing-negative-content-online-makes-mental-health-struggles-worse-1205)
+- [Deepfakes weaponised to target Pakistan&#39;s women leaders](https://www.france24.com/en/live-news/20241203-deepfakes-weaponised-to-target-pakistan-s-women-leaders)
+- [Reverse engineering the Sega Channel game image file format](https://www.infochunk.com/schannel/index.html)
+- [My4th Light – Custom 8-Bit Forth CPU](http://mynor.org/my4th_xs.htm)
+- [Show HN: I built an HTML5 RTL-SDR application](https://radio.ea1iti.es/)
+- [Notre Dame Cathedral reopens](https://apnews.com/article/notre-dame-paris-latest-e50813cf016f08607c20ab115bc4b153)
+- [Ultralytics AI model hijacked to infect thousands with cryptominer](https://www.bleepingcomputer.com/news/security/ultralytics-ai-model-hijacked-to-infect-thousands-with-cryptominer/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

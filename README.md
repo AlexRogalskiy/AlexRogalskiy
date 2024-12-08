@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [New Zealand v England: second men’s cricket Test, day two – live](https://www.theguardian.com/sport/live/2024/dec/06/new-zealand-v-england-second-cricket-test-day-two-live-score-updates)
-- [South Korean president apologises for martial law attempt as impeachment vote looms](https://www.theguardian.com/world/2024/dec/07/south-korean-president-apologises-for-martial-law-attempt-as-impeachment-vote-looms)
-- [Indonesia chases the return of ‘bonanza-era’ Chinese tourism](https://www.theguardian.com/world/2024/dec/07/indonesia-china-tourism-boom-return)
-- [MI5 forced to ‘pare back’ counter-terrorism work due to rogue states, says chief](https://www.theguardian.com/uk-news/2024/dec/06/mi5-forced-to-pare-back-on-counter-terrorism-work-due-to-hostile-states-says-agency-chief)
-- [Quiet zones, sandpits and paddling pools: the paw-some evolution of Australia’s state-of-the-art dog parks](https://www.theguardian.com/lifeandstyle/2024/dec/07/quiet-zones-sandpits-and-paddling-pools-the-paw-some-evolution-of-australias-state-of-the-art-dog-parks)
-- [Clues emerge but no arrests yet as New York police hunt health CEO’s killer](https://www.theguardian.com/us-news/2024/dec/06/united-healthcare-shooting-evidence-manhunt)
-- [Ange Postecoglou blames mental softness for Tottenham’s inconsistency](https://www.theguardian.com/football/2024/dec/06/ange-postecoglou-blames-mental-softness-for-tottenhams-inconsistency)
-- [Roberts on target but Middlesbrough deny Burnley Championship top spot](https://www.theguardian.com/football/2024/dec/06/burnley-middlesbrough-championship-match-report)
-- [Lawyers say they suspect Harvey Weinstein has been deliberately mistreated in prison](https://www.theguardian.com/world/2024/dec/06/harvey-weinstein-prison-mistreatment)
-- [Police find body of US woman who fell into sinkhole while looking for her cat](https://www.theguardian.com/us-news/2024/dec/06/pennsylvania-woman-sinkhole-body-found)
+- [Syrian rebels say they have begun entering Damascus – live updates](https://www.theguardian.com/world/live/2024/dec/07/syria-rebels-reach-damascus-bashar-al-assad)
+- [New Zealand v England: second men’s cricket Test, day three – live](https://www.theguardian.com/sport/live/2024/dec/07/new-zealand-v-england-second-cricket-test-day-three-live-score-updates)
+- [Australia v India: second women’s one-day international – live](https://www.theguardian.com/sport/live/2024/dec/08/australia-vs-india-womens-cricket-odi-second-one-day-international-live-blog-scores-results-start-time-allan-border-field-brisbane)
+- [Ten years on from Sydney’s Lindt Cafe siege, the man tasked with investigating has a warning: it could happen again](https://www.theguardian.com/australia-news/2024/dec/08/sydney-lindt-cafe-siege-ten-year-anniversary-ntwnfb)
+- [Party heels: 20 of the best – in pictures](https://www.theguardian.com/fashion/gallery/2024/dec/07/party-heels-20-of-the-best-in-pictures)
+- [Glam it up, guys: partywear for men – in pictures](https://www.theguardian.com/fashion/2024/dec/07/glam-it-up-guys-partywear-for-men-in-pictures)
+- [Team GB track cyclist Katy Marchant taken to hospital after dramatic crash](https://www.theguardian.com/sport/2024/dec/07/katy-marchant-cycling-crash-track-champions-league)
+- [Firefighters tackle huge blaze at industrial estate in West Lothian](https://www.theguardian.com/uk-news/2024/dec/07/firefighters-tackle-huge-blaze-at-industrial-estate-in-west-lothian)
+- [Any settlement with Russia has to be ‘just’, says Zelenskyy at Trump meeting](https://www.theguardian.com/world/2024/dec/07/any-settlement-with-russia-has-to-be-just-says-zelenskyy-at-trump-meeting)
+- [Starmer to meet Saudi crown prince in push for infrastructure cash](https://www.theguardian.com/politics/2024/dec/07/starmer-to-meet-saudi-crown-prince-in-push-for-infrastructure-cash)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

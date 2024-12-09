@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Syrian rebels say they have begun entering Damascus – live updates](https://www.theguardian.com/world/live/2024/dec/07/syria-rebels-reach-damascus-bashar-al-assad)
-- [New Zealand v England: second men’s cricket Test, day three – live](https://www.theguardian.com/sport/live/2024/dec/07/new-zealand-v-england-second-cricket-test-day-three-live-score-updates)
-- [Australia v India: second women’s one-day international – live](https://www.theguardian.com/sport/live/2024/dec/08/australia-vs-india-womens-cricket-odi-second-one-day-international-live-blog-scores-results-start-time-allan-border-field-brisbane)
-- [Ten years on from Sydney’s Lindt Cafe siege, the man tasked with investigating has a warning: it could happen again](https://www.theguardian.com/australia-news/2024/dec/08/sydney-lindt-cafe-siege-ten-year-anniversary-ntwnfb)
-- [Party heels: 20 of the best – in pictures](https://www.theguardian.com/fashion/gallery/2024/dec/07/party-heels-20-of-the-best-in-pictures)
-- [Glam it up, guys: partywear for men – in pictures](https://www.theguardian.com/fashion/2024/dec/07/glam-it-up-guys-partywear-for-men-in-pictures)
-- [Team GB track cyclist Katy Marchant taken to hospital after dramatic crash](https://www.theguardian.com/sport/2024/dec/07/katy-marchant-cycling-crash-track-champions-league)
-- [Firefighters tackle huge blaze at industrial estate in West Lothian](https://www.theguardian.com/uk-news/2024/dec/07/firefighters-tackle-huge-blaze-at-industrial-estate-in-west-lothian)
-- [Any settlement with Russia has to be ‘just’, says Zelenskyy at Trump meeting](https://www.theguardian.com/world/2024/dec/07/any-settlement-with-russia-has-to-be-just-says-zelenskyy-at-trump-meeting)
-- [Starmer to meet Saudi crown prince in push for infrastructure cash](https://www.theguardian.com/politics/2024/dec/07/starmer-to-meet-saudi-crown-prince-in-push-for-infrastructure-cash)
+- [Barry Keoghan hits back at ‘inhumane’ abuse and harassment of his family: ‘I can only take so much’](https://www.theguardian.com/film/2024/dec/09/barry-keoghan-sabrina-carpenter-split-responds-abuse-harassment-ntwnfb)
+- [NFL roundup: Rams hold off wild comeback by Josh Allen-inspired Bills](https://www.theguardian.com/sport/2024/dec/08/nfl-roundup-sunday-football-scores)
+- [Ukraine war briefing: Trump urges China to help end Ukraine war](https://www.theguardian.com/world/2024/dec/09/ukraine-war-briefing-trump-urges-china-to-help-end-ukraine-war)
+- [Politicians’ ‘inflammatory language’ part of failure to tackle extremism, report finds](https://www.theguardian.com/uk-news/2024/dec/09/politicians-inflammatory-language-part-of-failure-to-tackle-extremism-report-finds)
+- [Reeves to pledge closer EU ties in pivot from post-Brexit ‘division and chaos’](https://www.theguardian.com/business/2024/dec/09/reeves-to-pledge-closer-eu-ties-in-pivot-from-post-brexit-division-and-chaos)
+- [Two-thirds of England’s poorest families miss out on childcare, report finds](https://www.theguardian.com/society/2024/dec/09/england-poorest-families-miss-out-childcare-report)
+- [Former Manchester United coach Mike Phelan off to Wayne Rooney’s Plymouth](https://www.theguardian.com/football/2024/dec/08/mike-phelan-brought-in-as-wayne-rooneys-assistant-at-plymouth)
+- [‘Our father did not die for nothing’: disbelief turns to jubilation in Damascus](https://www.theguardian.com/world/2024/dec/08/our-father-did-not-die-for-nothing-disbelief-turns-to-jubilation-in-damascus)
+- [Government seeks Whitehall ‘startup’ culture with tech worker secondments](https://www.theguardian.com/politics/2024/dec/08/uk-government-whitehall-startup-tech-worker-secondments)
+- [Trump surgeon general pick involved in gun accident that killed her father at age 13](https://www.theguardian.com/us-news/2024/dec/08/trump-surgeon-general-pick-janette-nesheiwat)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

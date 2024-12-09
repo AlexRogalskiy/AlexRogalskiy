@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Honda&#39;s award winning commercial &quot;Cogs&quot; [video]](https://www.youtube.com/watch?v=OT-As8zdorY)
-- [Longtermtrends.net](https://www.longtermtrends.net/)
-- [Nyxt: The Hacker&#39;s Browser](https://nyxt.atlas.engineer/)
-- [UsesThis is broken, hope waferbaby is ok](https://usesthis.com/)
-- [Assad Has Left Damascus](https://www.reuters.com/world/middle-east/syria-rebels-celebrate-captured-homs-set-sights-damascus-2024-12-07/)
-- [Tech Stack Statistics](https://news.ycombinator.com/item?id=42354665)
-- [Composite and hard reset mods for the Tandyvision One](http://oldvcr.blogspot.com/2024/12/composite-and-hard-reset-mods-for.html)
-- [The Art of Failure Analysis](https://spectrum.ieee.org/the-art-of-failure)
-- [The end of the ISS will usher in a more commercialized future in space](https://www.theverge.com/2024/12/7/24314191/iss-end-2030-commercial-space-station-mars-moon)
-- [Syrian President Bashar al-Assad has left Damascus](https://www.reuters.com/world/middle-east/syrian-president-bashar-al-assad-has-left-damascus-an-unknown-destination-say-2024-12-08/)
+- [Earth may be getting darker, which could explain 2023&#39;s record heat](https://www.cbc.ca/news/science/earth-warming-albedo-1.7401969)
+- [The DNA Data Storage Model &lpar;2023&rpar; [pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10154188)
+- [Battery usage of all your Apple devices on your Mac](https://github.com/lihaoyun6/AirBattery)
+- [Basalt fibers: Environmentally sustainable green material for polymer composites](https://www.sciencedirect.com/science/article/abs/pii/S0950061824019767)
+- [Experiment Gives First Glimpse of the Internal Structure of a Neutron](https://www.sciencealert.com/huge-experiment-gives-first-glimpse-of-the-internal-structure-of-a-neutron)
+- [Florida prosecutor seeks to clear records of people who bought police-made crack](https://apnews.com/article/lauderdale-broward-florida-crack-cocaine-convictions-sentences-796f5572af1757e368ae7a359e34bbae)
+- [Entrapix: Have a ConfusedAgentError](https://timkellogg.me/blog/2024/12/08/ollama-entrapix)
+- [Contrasting Verilog and SeqiLog Port List Customization](https://cjdrake.substack.com/p/contrasting-verilog-and-seqilog-port)
+- [Pro-Palestinian journalist found dead on rooftop in Marseille](https://english.almayadeen.net/news/miscellaneous/pro-palestinian-journalist-found-dead-on-rooftop-in-marseill)
+- [Boffins build diamond battery that lasts millennia](https://www.theregister.com/2024/12/08/boffins_diamond_battery/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

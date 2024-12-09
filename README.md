@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [GroMo &lpar;YC W21&rpar; Is Hiring](https://www.ycombinator.com/companies/gromo/jobs/pZHrmBK-senior-executive-finance)
-- [Arctic uses a fan to cool another fan](https://www.tomshardware.com/pc-components/case-fans/arctic-uses-a-fan-to-cool-another-fan-s12038-4k-120mm-fan-adds-an-extra-fan-in-its-center-to-cool-its-central-shaft)
-- [Landlords Are Using AI to Raise Rents](https://gizmodo.com/landlords-are-using-ai-to-raise-rents-and-cities-are-starting-to-push-back-2000535519)
-- [Browsing negative content online makes mental health struggles worse: Study](https://news.mit.edu/2024/study-browsing-negative-content-online-makes-mental-health-struggles-worse-1205)
-- [Deepfakes weaponised to target Pakistan&#39;s women leaders](https://www.france24.com/en/live-news/20241203-deepfakes-weaponised-to-target-pakistan-s-women-leaders)
-- [Reverse engineering the Sega Channel game image file format](https://www.infochunk.com/schannel/index.html)
-- [My4th Light – Custom 8-Bit Forth CPU](http://mynor.org/my4th_xs.htm)
-- [Show HN: I built an HTML5 RTL-SDR application](https://radio.ea1iti.es/)
-- [Notre Dame Cathedral reopens](https://apnews.com/article/notre-dame-paris-latest-e50813cf016f08607c20ab115bc4b153)
-- [Ultralytics AI model hijacked to infect thousands with cryptominer](https://www.bleepingcomputer.com/news/security/ultralytics-ai-model-hijacked-to-infect-thousands-with-cryptominer/)
+- [Why Gelsinger was wrong for Intel](https://bcantrill.dtrace.org/2024/12/08/why-gelsinger-was-wrong-for-intel/)
+- [CT Scans of New vs. Used SawStop](https://www.lumafield.com/article/new-vs-used-sawstop)
+- [Black Hat Rust](https://github.com/skerkour/black-hat-rust)
+- [Broward Co. to vacate convictions for buying crack made by Sheriff&#39;s Office](https://cbs12.com/news/local/broward-county-to-vacate-convictions-for-people-who-bought-crack-made-by-sheriffs-office-supreme-court-reverse-sting-1993-ruling-state-attorney)
+- [Buffer Overflow Risk in Curl_inet_ntop and Inet_ntop4](https://hackerone.com/reports/2887487)
+- [How to measure frequency response of a speaker at home](https://crabman.me/does-soundcore-motion-sound-different-via-aux-in-and-bluetooth-and-how-to-measure-frequency-response-at-home/)
+- [1,600 days of a failed hobby data science project](https://lellep.xyz/blog/failed-data-science-project.html)
+- [JSON5 – JSON for Humans](https://json5.org/)
+- [The Rules of Programming &lpar;2023&rpar;](https://www.therulesofprogramming.com)
+- [Show HN: A portable hash map in C](https://github.com/e-dant/salmagundi)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

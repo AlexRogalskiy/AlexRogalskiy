@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Earth may be getting darker, which could explain 2023&#39;s record heat](https://www.cbc.ca/news/science/earth-warming-albedo-1.7401969)
-- [The DNA Data Storage Model &lpar;2023&rpar; [pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10154188)
-- [Battery usage of all your Apple devices on your Mac](https://github.com/lihaoyun6/AirBattery)
-- [Basalt fibers: Environmentally sustainable green material for polymer composites](https://www.sciencedirect.com/science/article/abs/pii/S0950061824019767)
-- [Experiment Gives First Glimpse of the Internal Structure of a Neutron](https://www.sciencealert.com/huge-experiment-gives-first-glimpse-of-the-internal-structure-of-a-neutron)
-- [Florida prosecutor seeks to clear records of people who bought police-made crack](https://apnews.com/article/lauderdale-broward-florida-crack-cocaine-convictions-sentences-796f5572af1757e368ae7a359e34bbae)
-- [Entrapix: Have a ConfusedAgentError](https://timkellogg.me/blog/2024/12/08/ollama-entrapix)
-- [Contrasting Verilog and SeqiLog Port List Customization](https://cjdrake.substack.com/p/contrasting-verilog-and-seqilog-port)
-- [Pro-Palestinian journalist found dead on rooftop in Marseille](https://english.almayadeen.net/news/miscellaneous/pro-palestinian-journalist-found-dead-on-rooftop-in-marseill)
-- [Boffins build diamond battery that lasts millennia](https://www.theregister.com/2024/12/08/boffins_diamond_battery/)
+- [&quot;It&#39;s Going to Be Epic&quot;: The Oral History of James Cameron &lpar;2022&rpar;](https://www.theringer.com/2022/12/13/oral-history/james-cameron-oral-history-titanic-avatar)
+- [Bitcoin enabled accelerated de-dollarisation](https://news.ycombinator.com/item?id=42373183)
+- [Witney Catalogs 2022-2024](http://thistle-threads.blogspot.com/2024/12/witney-catalogs-2022-2024.html)
+- [Google unveils &#39;mindboggling&#39; quantum computing chip](https://www.theguardian.com/technology/2024/dec/09/google-unveils-mindboggling-quantum-computing-chip)
+- [AI Boosts Materials Discovery by 44% at Major US Lab](https://www.nature.com/articles/d41586-024-03939-5)
+- [Quantum Computing Inches Closer to Reality After Another Google Breakthrough](https://www.nytimes.com/2024/12/09/technology/google-quantum-computing.html)
+- [Ask HN: Is anyone playing with the combination of generative AI and OpenCyc?](https://2ro.co/post/769440256241123328/study-opencyc)
+- [Musicians Rally Behind Internet Archive in $621M Music Label Battle](https://www.savethearchive.com/)
+- [Show HN: Combine GIF memes and face swaps for endless fun](https://aigif.net/)
+- [Prevent DDoS at Kernel Level](https://news.ycombinator.com/item?id=42373079)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

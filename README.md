@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Why Gelsinger was wrong for Intel](https://bcantrill.dtrace.org/2024/12/08/why-gelsinger-was-wrong-for-intel/)
-- [CT Scans of New vs. Used SawStop](https://www.lumafield.com/article/new-vs-used-sawstop)
-- [Black Hat Rust](https://github.com/skerkour/black-hat-rust)
-- [Broward Co. to vacate convictions for buying crack made by Sheriff&#39;s Office](https://cbs12.com/news/local/broward-county-to-vacate-convictions-for-people-who-bought-crack-made-by-sheriffs-office-supreme-court-reverse-sting-1993-ruling-state-attorney)
-- [Buffer Overflow Risk in Curl_inet_ntop and Inet_ntop4](https://hackerone.com/reports/2887487)
-- [How to measure frequency response of a speaker at home](https://crabman.me/does-soundcore-motion-sound-different-via-aux-in-and-bluetooth-and-how-to-measure-frequency-response-at-home/)
-- [1,600 days of a failed hobby data science project](https://lellep.xyz/blog/failed-data-science-project.html)
-- [JSON5 – JSON for Humans](https://json5.org/)
-- [The Rules of Programming &lpar;2023&rpar;](https://www.therulesofprogramming.com)
-- [Show HN: A portable hash map in C](https://github.com/e-dant/salmagundi)
+- [Ask HN: Other websites using HN&#39;s forum software &lpar;news.arc&rpar;?](https://news.ycombinator.com/item?id=42372840)
+- [TCC and the macOS Platform Sandbox Policy](https://bdash.net.nz/posts/tcc-and-the-platform-sandbox-policy/)
+- [Added sugar intake and its associations with incidence of cardiovascular disease](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1452085/full)
+- [El Salvador to scale back Bitcoin dreams to seal $1.3B IMF deal](https://www.ft.com/content/847cdb57-2d56-4259-ab8e-f95032efa259)
+- [Pictures of Pensions](https://calcwithdec.dev/posts/pictures-pensions/)
+- [&quot;This is not a joke, Funko just called my mom&quot;](https://twitter.com/itchio/status/1866239798924763227)
+- [Debanking &lpar;and Debunking?&rpar;](https://www.bitsaboutmoney.com/archive/debanking-and-debunking/)
+- [XML: Twig – A Time-Tested Powerhouse for Processing XML](https://perladvent.org/2024/2024-12-09.html)
+- [Bazel 8.0](https://github.com/bazelbuild/bazel/releases/tag/8.0.0)
+- [Xylella Fastidiosa: A crisis brewing in Europe&#39;s olive groves](https://www.everymansci.com/society/xylella-fastidiosa-and-olive-oil-a-billion-euro-crisis-brewing-in-europes-olive-groves/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

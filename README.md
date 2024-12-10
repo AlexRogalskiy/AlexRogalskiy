@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Barry Keoghan hits back at ‘inhumane’ abuse and harassment of his family: ‘I can only take so much’](https://www.theguardian.com/film/2024/dec/09/barry-keoghan-sabrina-carpenter-split-responds-abuse-harassment-ntwnfb)
-- [NFL roundup: Rams hold off wild comeback by Josh Allen-inspired Bills](https://www.theguardian.com/sport/2024/dec/08/nfl-roundup-sunday-football-scores)
-- [Ukraine war briefing: Trump urges China to help end Ukraine war](https://www.theguardian.com/world/2024/dec/09/ukraine-war-briefing-trump-urges-china-to-help-end-ukraine-war)
-- [Politicians’ ‘inflammatory language’ part of failure to tackle extremism, report finds](https://www.theguardian.com/uk-news/2024/dec/09/politicians-inflammatory-language-part-of-failure-to-tackle-extremism-report-finds)
-- [Reeves to pledge closer EU ties in pivot from post-Brexit ‘division and chaos’](https://www.theguardian.com/business/2024/dec/09/reeves-to-pledge-closer-eu-ties-in-pivot-from-post-brexit-division-and-chaos)
-- [Two-thirds of England’s poorest families miss out on childcare, report finds](https://www.theguardian.com/society/2024/dec/09/england-poorest-families-miss-out-childcare-report)
-- [Former Manchester United coach Mike Phelan off to Wayne Rooney’s Plymouth](https://www.theguardian.com/football/2024/dec/08/mike-phelan-brought-in-as-wayne-rooneys-assistant-at-plymouth)
-- [‘Our father did not die for nothing’: disbelief turns to jubilation in Damascus](https://www.theguardian.com/world/2024/dec/08/our-father-did-not-die-for-nothing-disbelief-turns-to-jubilation-in-damascus)
-- [Government seeks Whitehall ‘startup’ culture with tech worker secondments](https://www.theguardian.com/politics/2024/dec/08/uk-government-whitehall-startup-tech-worker-secondments)
-- [Trump surgeon general pick involved in gun accident that killed her father at age 13](https://www.theguardian.com/us-news/2024/dec/08/trump-surgeon-general-pick-janette-nesheiwat)
+- [Suspect in UnitedHealthcare CEO killing charged with guns, forgery and other crimes](https://www.theguardian.com/us-news/2024/dec/09/brian-thompson-shooting-suspect-mayor)
+- [Dipping my toe into the murky waters of Facebook Marketplace, I find it filled with bots, time-wasters and inane questions | Eleanor Limprecht](https://www.theguardian.com/commentisfree/2024/dec/10/dipping-my-toe-into-the-murky-waters-of-facebook-marketplace-i-find-it-filled-with-bots-time-wasters-and-inane-questions)
+- [Ukraine war briefing: Our war dead 43,000 and Russia’s 198,000 says Zelenskyy](https://www.theguardian.com/world/2024/dec/10/ukraine-war-briefing-our-war-dead-43000-and-russias-198000-says-zelenskyy)
+- [Exercising for 30 minutes improves memory, study suggests](https://www.theguardian.com/science/2024/dec/10/exercise-improves-memory-walk-cycle)
+- [Fix SEN funding to avoid ‘absurd’ council deficits in England, IFS says](https://www.theguardian.com/education/2024/dec/10/fix-sen-funding-avoid-council-deficits-england-ifs-says)
+- [‘What does AI mean?’: Amazon reveals UK’s most asked Alexa questions of 2024](https://www.theguardian.com/technology/2024/dec/10/amazon-reveals-uk-most-asked-alexa-questions-of-2024)
+- [Somebody Somewhere season three review – remarkable TV that burrows into your heart](https://www.theguardian.com/tv-and-radio/2024/dec/09/somebody-somewhere-season-three-review-remarkable-tv-that-burrows-into-your-heart)
+- [Benjamin Netanyahu says Golan Heights will remain part of Israel ‘for eternity’](https://www.theguardian.com/world/2024/dec/09/israel-seizes-syrian-buffer-zone-amid-airstrikes-on-regime-weapons-depots)
+- [Rupert Murdoch loses battle to control succession to his media empire](https://www.theguardian.com/media/2024/dec/09/rupert-murdochmedia-empire-children)
+- [Soucek and Bowen stave off Wolves on emotional night for West Ham](https://www.theguardian.com/football/2024/dec/09/west-ham-wolves-premier-league-match-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

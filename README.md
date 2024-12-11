@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Suspect in UnitedHealthcare CEO killing charged with guns, forgery and other crimes](https://www.theguardian.com/us-news/2024/dec/09/brian-thompson-shooting-suspect-mayor)
-- [Dipping my toe into the murky waters of Facebook Marketplace, I find it filled with bots, time-wasters and inane questions | Eleanor Limprecht](https://www.theguardian.com/commentisfree/2024/dec/10/dipping-my-toe-into-the-murky-waters-of-facebook-marketplace-i-find-it-filled-with-bots-time-wasters-and-inane-questions)
-- [Ukraine war briefing: Our war dead 43,000 and Russia’s 198,000 says Zelenskyy](https://www.theguardian.com/world/2024/dec/10/ukraine-war-briefing-our-war-dead-43000-and-russias-198000-says-zelenskyy)
-- [Exercising for 30 minutes improves memory, study suggests](https://www.theguardian.com/science/2024/dec/10/exercise-improves-memory-walk-cycle)
-- [Fix SEN funding to avoid ‘absurd’ council deficits in England, IFS says](https://www.theguardian.com/education/2024/dec/10/fix-sen-funding-avoid-council-deficits-england-ifs-says)
-- [‘What does AI mean?’: Amazon reveals UK’s most asked Alexa questions of 2024](https://www.theguardian.com/technology/2024/dec/10/amazon-reveals-uk-most-asked-alexa-questions-of-2024)
-- [Somebody Somewhere season three review – remarkable TV that burrows into your heart](https://www.theguardian.com/tv-and-radio/2024/dec/09/somebody-somewhere-season-three-review-remarkable-tv-that-burrows-into-your-heart)
-- [Benjamin Netanyahu says Golan Heights will remain part of Israel ‘for eternity’](https://www.theguardian.com/world/2024/dec/09/israel-seizes-syrian-buffer-zone-amid-airstrikes-on-regime-weapons-depots)
-- [Rupert Murdoch loses battle to control succession to his media empire](https://www.theguardian.com/media/2024/dec/09/rupert-murdochmedia-empire-children)
-- [Soucek and Bowen stave off Wolves on emotional night for West Ham](https://www.theguardian.com/football/2024/dec/09/west-ham-wolves-premier-league-match-report)
+- [Global food production at increased risk from excess salt in soil, UN report warns](https://www.theguardian.com/environment/2024/dec/11/global-food-production-at-increased-risk-from-excess-salt-in-soil-un-report-warns)
+- [Syrian rebels name new PM as outside powers move to shore up interests](https://www.theguardian.com/world/2024/dec/10/syrian-rebels-name-new-pm-as-outside-powers-move-to-shore-up-interests)
+- [Māori tribes make rare plea to King Charles for intervention in New Zealand politics](https://www.theguardian.com/world/2024/dec/11/new-zealand-maori-tribes-letter-king-charles-treaty-of-waitangi)
+- [Ukraine war briefing: Don’t let Patriot missile systems gather dust, says Zelenskyy, after deadly strike on clinic](https://www.theguardian.com/world/2024/dec/11/ukraine-war-briefing-dont-let-patriot-missile-systems-gather-dust-says-zelenskyy-after-deadly-strike-on-clinic)
+- [‘Medical misogyny’ condemns women to years of gynaecological pain, MPs told](https://www.theguardian.com/society/2024/dec/11/medical-misogyny-condemns-women-to-years-of-gynaecological-pain-mps-told)
+- [Hundreds of thousands hit by ruinous carer’s allowance penalties, audit shows](https://www.theguardian.com/society/2024/dec/11/hundreds-of-thousands-hit-by-ruinous-carers-allowance-penalties-audit-shows)
+- [Christmas disruption likely as Avanti West Coast train managers vote to strike](https://www.theguardian.com/uk-news/2024/dec/10/disruption-likely-as-avanti-west-coast-train-managers-vote-to-strike)
+- [Suspect in CEO shooting to plead not guilty and fight extradition, lawyer says](https://www.theguardian.com/us-news/2024/dec/10/unitedhealthcare-shooting-suspect-court-screams)
+- [As a wildfire erupted, Malibu was told to evacuate. Why were students at Pepperdine told to stay put?](https://www.theguardian.com/us-news/2024/dec/10/malibu-franklin-wildfire-pepperdine-evacuation)
+- [Further South Korea martial law protests as ex-defence minister and senior police arrested](https://www.theguardian.com/world/2024/dec/11/south-korea-martial-law-protests)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

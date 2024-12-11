@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [&quot;It&#39;s Going to Be Epic&quot;: The Oral History of James Cameron &lpar;2022&rpar;](https://www.theringer.com/2022/12/13/oral-history/james-cameron-oral-history-titanic-avatar)
-- [Bitcoin enabled accelerated de-dollarisation](https://news.ycombinator.com/item?id=42373183)
-- [Witney Catalogs 2022-2024](http://thistle-threads.blogspot.com/2024/12/witney-catalogs-2022-2024.html)
-- [Google unveils &#39;mindboggling&#39; quantum computing chip](https://www.theguardian.com/technology/2024/dec/09/google-unveils-mindboggling-quantum-computing-chip)
-- [AI Boosts Materials Discovery by 44% at Major US Lab](https://www.nature.com/articles/d41586-024-03939-5)
-- [Quantum Computing Inches Closer to Reality After Another Google Breakthrough](https://www.nytimes.com/2024/12/09/technology/google-quantum-computing.html)
-- [Ask HN: Is anyone playing with the combination of generative AI and OpenCyc?](https://2ro.co/post/769440256241123328/study-opencyc)
-- [Musicians Rally Behind Internet Archive in $621M Music Label Battle](https://www.savethearchive.com/)
-- [Show HN: Combine GIF memes and face swaps for endless fun](https://aigif.net/)
-- [Prevent DDoS at Kernel Level](https://news.ycombinator.com/item?id=42373079)
+- [Show HN: Pence, deals crowdsourced from marketing emails](https://app.pence.so/login)
+- [Will everything eventually succumb to Hawking radiation](https://bigthink.com/starts-with-a-bang/everything-hawking-radiation/)
+- [I Just Found This Website to Find Book&#39;s Based on Your Mood](https://book-buddy-vjkt.vercel.app/)
+- [Sora Turbo AI Online](https://soraturbo.net/)
+- [Borax or Baking Soda Rectifier and the glow &lpar;2003&rpar;](http://www.sparkbangbuzz.com/els/borax-el.htm)
+- [Systemd 257 Released](https://lwn.net/Articles/1001657/)
+- [Show HN: txtai 8.1: Docling integration and Postgres/pgvector schema persistence](https://pypi.org/project/txtai/)
+- [Rhea: An evolutionary AI framework for optimizing expert knowledge](https://medium.com/@evolutionmlmail/bridging-human-expertise-and-ai-to-tackle-global-challenges-209950d244d9)
+- [The XMPP Newsletter November 2024](https://xmpp.org/2024/12/the-xmpp-newsletter-november-2024/)
+- [Style Control: Disentangling style and substance in evaluating LLMs](https://blog.lmarena.ai/blog/2024/style-control/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

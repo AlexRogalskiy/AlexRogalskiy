@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Ask HN: Other websites using HN&#39;s forum software &lpar;news.arc&rpar;?](https://news.ycombinator.com/item?id=42372840)
-- [TCC and the macOS Platform Sandbox Policy](https://bdash.net.nz/posts/tcc-and-the-platform-sandbox-policy/)
-- [Added sugar intake and its associations with incidence of cardiovascular disease](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1452085/full)
-- [El Salvador to scale back Bitcoin dreams to seal $1.3B IMF deal](https://www.ft.com/content/847cdb57-2d56-4259-ab8e-f95032efa259)
-- [Pictures of Pensions](https://calcwithdec.dev/posts/pictures-pensions/)
-- [&quot;This is not a joke, Funko just called my mom&quot;](https://twitter.com/itchio/status/1866239798924763227)
-- [Debanking &lpar;and Debunking?&rpar;](https://www.bitsaboutmoney.com/archive/debanking-and-debunking/)
-- [XML: Twig – A Time-Tested Powerhouse for Processing XML](https://perladvent.org/2024/2024-12-09.html)
-- [Bazel 8.0](https://github.com/bazelbuild/bazel/releases/tag/8.0.0)
-- [Xylella Fastidiosa: A crisis brewing in Europe&#39;s olive groves](https://www.everymansci.com/society/xylella-fastidiosa-and-olive-oil-a-billion-euro-crisis-brewing-in-europes-olive-groves/)
+- [Alzheimer&#39;s Study Shows Ketone Bodies Help Clear Misfolded Proteins](https://www.genengnews.com/topics/translational-medicine/ketone-body-role-in-regulating-misfolded-proteins-may-inform-strategies-targeting-aging-alzheimers-disease/)
+- [Electric &lpar;Postgres sync engine&rpar; BETA release](https://electric-sql.com/blog/2024/12/10/electric-beta-release)
+- [WPEngine, Inc. vs. Automattic– Order on Motion for Preliminary Injunction](https://www.courtlistener.com/docket/69221176/64/wpengine-inc-v-automattic-inc/)
+- [The Albuquerque &quot;Broken Arrow&quot; Nuclear Accident](https://lflank.wordpress.com/2024/12/10/the-albuquerque-broken-arrow-nuclear-accident/)
+- [Bryan Johnson – The Most Expensive Eating Disorder](https://desmolysium.com/bryan-johnson-the-worlds-most-expensive-eating-disorder/)
+- [Show HN: Don&#39;t let your billion-dollar ideas die](https://ideaharbor.xyz)
+- [Arctic tundra is now emitting more carbon than it absorbs, US agency says](https://www.theguardian.com/world/2024/dec/10/arctic-tundra-carbon-shift)
+- [Show HN: Hyperbrowser – Scalable Browser Infrastructure for AI Apps](https://www.hyperbrowser.ai/)
+- [GM exits robotaxi market, will bring Cruise operations in house](https://www.cnbc.com/2024/12/10/gm-halts-funding-of-robotaxi-development-by-cruise.html)
+- [Seeking Head of Engineering in the Bay Area &lpar;Distro S24&rpar;](https://www.ycombinator.com/companies/distro/jobs/XGMjSPe-head-of-engineering)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

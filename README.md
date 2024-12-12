@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Alzheimer&#39;s Study Shows Ketone Bodies Help Clear Misfolded Proteins](https://www.genengnews.com/topics/translational-medicine/ketone-body-role-in-regulating-misfolded-proteins-may-inform-strategies-targeting-aging-alzheimers-disease/)
-- [Electric &lpar;Postgres sync engine&rpar; BETA release](https://electric-sql.com/blog/2024/12/10/electric-beta-release)
-- [WPEngine, Inc. vs. Automattic– Order on Motion for Preliminary Injunction](https://www.courtlistener.com/docket/69221176/64/wpengine-inc-v-automattic-inc/)
-- [The Albuquerque &quot;Broken Arrow&quot; Nuclear Accident](https://lflank.wordpress.com/2024/12/10/the-albuquerque-broken-arrow-nuclear-accident/)
-- [Bryan Johnson – The Most Expensive Eating Disorder](https://desmolysium.com/bryan-johnson-the-worlds-most-expensive-eating-disorder/)
-- [Show HN: Don&#39;t let your billion-dollar ideas die](https://ideaharbor.xyz)
-- [Arctic tundra is now emitting more carbon than it absorbs, US agency says](https://www.theguardian.com/world/2024/dec/10/arctic-tundra-carbon-shift)
-- [Show HN: Hyperbrowser – Scalable Browser Infrastructure for AI Apps](https://www.hyperbrowser.ai/)
-- [GM exits robotaxi market, will bring Cruise operations in house](https://www.cnbc.com/2024/12/10/gm-halts-funding-of-robotaxi-development-by-cruise.html)
-- [Seeking Head of Engineering in the Bay Area &lpar;Distro S24&rpar;](https://www.ycombinator.com/companies/distro/jobs/XGMjSPe-head-of-engineering)
+- [QEMU with VirtIO GPU Vulkan Support](https://gist.github.com/peppergrayxyz/fdc9042760273d137dddd3e97034385f)
+- [Instant macOS install on Proxmox including AMD patches](https://github.com/luchina-gabriel/OSX-PROXMOX)
+- [AI Guesses Your Accent](https://start.boldvoice.com/accent-guesser)
+- [Mysterious New Jersey drone sightings prompt call for &#39;state of emergency&#39;](https://www.theguardian.com/us-news/2024/dec/11/new-jersey-drone-sightings-state-of-emergency)
+- [2400 phone providers may be shut down by the FCC for failing to stop robocalls](https://docs.fcc.gov/public/attachments/DOC-408083A1.txt)
+- [Review of Mullvad VPN](https://x41-dsec.de/news/2024/12/11/mullvad/)
+- [Launch HN: Azalea Robotics &lpar;YC S24&rpar; – Baggage-handling robots for airports](https://news.ycombinator.com/item?id=42390761)
+- [FCC opens entire 6 GHz band to low power device operations](https://docs.fcc.gov/public/attachments/DOC-408129A1.txt)
+- [OnlyFans models are using AI impersonators to keep up with their DMs](https://www.wired.com/story/onlyfans-models-are-using-ai-impersonators-to-keep-up-with-their-dms/)
+- [Charge Robotics &lpar;YC S21&rpar; is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

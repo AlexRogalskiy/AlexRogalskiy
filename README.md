@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: Pence, deals crowdsourced from marketing emails](https://app.pence.so/login)
-- [Will everything eventually succumb to Hawking radiation](https://bigthink.com/starts-with-a-bang/everything-hawking-radiation/)
-- [I Just Found This Website to Find Book&#39;s Based on Your Mood](https://book-buddy-vjkt.vercel.app/)
-- [Sora Turbo AI Online](https://soraturbo.net/)
-- [Borax or Baking Soda Rectifier and the glow &lpar;2003&rpar;](http://www.sparkbangbuzz.com/els/borax-el.htm)
-- [Systemd 257 Released](https://lwn.net/Articles/1001657/)
-- [Show HN: txtai 8.1: Docling integration and Postgres/pgvector schema persistence](https://pypi.org/project/txtai/)
-- [Rhea: An evolutionary AI framework for optimizing expert knowledge](https://medium.com/@evolutionmlmail/bridging-human-expertise-and-ai-to-tackle-global-challenges-209950d244d9)
-- [The XMPP Newsletter November 2024](https://xmpp.org/2024/12/the-xmpp-newsletter-november-2024/)
-- [Style Control: Disentangling style and substance in evaluating LLMs](https://blog.lmarena.ai/blog/2024/style-control/)
+- [Body of abducted cryptocurrency influencer Kevin Mirshahi found in Montreal park](https://www.montrealgazette.com/news/article568098.html)
+- [Century-Scale Storage](https://lil.law.harvard.edu/century-scale-storage/)
+- [Werner&#39;s Nomenclature of Colours](https://www.c82.net/werner/#colors)
+- [Missing Crypto Influencer, Under Investigation, Found Dead in Montreal](https://www.coindesk.com/policy/2024/11/14/missing-crypto-influencer-under-investigation-by-canadian-regulator-found-dead-in-montreal-report)
+- [Experimental website to browse and search vintage computer archive.org files](https://discmaster.textfiles.com/)
+- [The future of the instant runoff election reform](https://www.brookings.edu/articles/the-future-of-the-instant-runoff-election-reform/)
+- [Pylint-to-Ruff](https://github.com/akx/pylint-to-ruff)
+- [Supporting students to and through college: What does the evidence say?](https://www.brookings.edu/articles/supporting-students-to-and-through-college-what-does-the-evidence-say/)
+- [Decivilization May Be Under Way](https://www.theatlantic.com/politics/archive/2024/12/decivilization-political-violence-civil-society/680961/)
+- [Mullvad VPN 2024 Security Audit Results](https://mullvad.net/en/blog/the-report-for-the-2024-security-audit-of-the-app-is-now-available)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

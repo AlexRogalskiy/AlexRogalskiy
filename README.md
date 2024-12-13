@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [QEMU with VirtIO GPU Vulkan Support](https://gist.github.com/peppergrayxyz/fdc9042760273d137dddd3e97034385f)
-- [Instant macOS install on Proxmox including AMD patches](https://github.com/luchina-gabriel/OSX-PROXMOX)
-- [AI Guesses Your Accent](https://start.boldvoice.com/accent-guesser)
-- [Mysterious New Jersey drone sightings prompt call for &#39;state of emergency&#39;](https://www.theguardian.com/us-news/2024/dec/11/new-jersey-drone-sightings-state-of-emergency)
-- [2400 phone providers may be shut down by the FCC for failing to stop robocalls](https://docs.fcc.gov/public/attachments/DOC-408083A1.txt)
-- [Review of Mullvad VPN](https://x41-dsec.de/news/2024/12/11/mullvad/)
-- [Launch HN: Azalea Robotics &lpar;YC S24&rpar; – Baggage-handling robots for airports](https://news.ycombinator.com/item?id=42390761)
-- [FCC opens entire 6 GHz band to low power device operations](https://docs.fcc.gov/public/attachments/DOC-408129A1.txt)
-- [OnlyFans models are using AI impersonators to keep up with their DMs](https://www.wired.com/story/onlyfans-models-are-using-ai-impersonators-to-keep-up-with-their-dms/)
-- [Charge Robotics &lpar;YC S21&rpar; is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
+- [When IBM Built a War Room for Executives](https://spectrum.ieee.org/ibm-demo)
+- [NonStop discussion around adding Rust to Git](https://lwn.net/Articles/998115/)
+- [Trinity Desktop Environment &lpar;TDE&rpar;](https://www.trinitydesktop.org/)
+- [A new timeline for Neanderthal interbreeding with modern humans](https://news.berkeley.edu/2024/12/12/a-new-timeline-for-neanderthal-interbreeding-with-modern-humans/)
+- [Learning Tibetan changed the way I think &lpar;2023&rpar;](https://www.lionsroar.com/learning-tibetan/)
+- [Elixir/Erlang Hot Swapping Code](https://kennyballou.com/blog/2016/12/elixir-hot-swapping/index.html)
+- [Taming LLMs – A Practical Guide to LLM Pitfalls with Open Source Software](https://www.souzatharsis.com/tamingLLMs/markdown/toc.html)
+- [Carta is making it too difficult to cancel subscriptions, some founders say](https://techcrunch.com/2024/12/12/carta-is-making-it-too-difficult-to-cancel-subscriptions-some-founders-say/)
+- [Exploring Commercial Products for the NES Expansion Port](https://tedium.co/2024/12/02/nintendo-expansion-port-history/)
+- [A room temperature Li2O-based lithium-air battery enabled by a solid electrolyte](https://www.science.org/doi/10.1126/science.abq1347)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [South Korea president defends martial law decree and vows to ‘fight to the end’](https://www.theguardian.com/world/2024/dec/12/south-korea-yoon-suk-yeol-martial-law-insurrection-charges-impeachment)
-- [Malibu fire rages as improving weather brings hope for thousands who fled](https://www.theguardian.com/us-news/2024/dec/11/malibu-wildfire-evacuation-celebrity-mansions)
-- [Labour’s 2030 green energy goal faces ‘significant challenges’, experts warn](https://www.theguardian.com/business/2024/dec/12/labour-green-energy-goal-uk-energy-research-centre)
-- [UK universities urged to provide better support for students from China](https://www.theguardian.com/education/2024/dec/12/uk-universities-urged-to-provide-better-support-for-students-from-china)
-- [Councils will be forced to build homes to fix England’s housing crisis, says Starmer](https://www.theguardian.com/society/2024/dec/12/councils-forced-build-homes-fix-england-housing-crisis-starmer)
-- [Journalists begin second strike over proposed deal to sell the Observer to Tortoise Media](https://www.theguardian.com/media/2024/dec/12/journalists-second-strike-proposed-deal-sell-observer-tortoise)
-- [‘A rapist can be in the family’: how Dominique Pelicot became one of the worst sexual predators in history](https://www.theguardian.com/world/2024/dec/11/a-rapist-can-be-in-the-family-how-dominique-pelicot-became-one-of-the-worst-sexual-predators-in-history)
-- [The cochlear question: as the parent of a deaf baby, should I give her an implant to help her hear?](https://www.theguardian.com/society/2024/dec/11/cochlear-question-parent-deaf-baby-should-i-give-implant-to-help-her-hear)
-- [Worried about what to buy the man in your life for Christmas? The perfect gift may be more modest than you think | Joel Snape](https://www.theguardian.com/lifeandstyle/2024/dec/11/worried-about-what-to-buy-the-man-in-your-life-for-christmas-the-perfect-gift-may-be-more-modest-than-you-think)
-- [John Dobson: ‘I’m old school. When the Stormers fire me I’m done in coaching’](https://www.theguardian.com/sport/2024/dec/11/john-dobson-im-old-school-when-the-stormers-fire-me-im-done-in-coaching)
+- [Ukraine war briefing: Nato warns that Putin wants to ‘wipe Ukraine off the map’](https://www.theguardian.com/world/2024/dec/13/ukraine-war-briefing-nato-warns-that-putin-wants-to-wipe-ukraine-off-the-map)
+- [Suspect in UnitedHealthcare CEO killing may not have been a client, say police](https://www.theguardian.com/us-news/2024/dec/12/suspect-motive-unitedhealthcare-ceo-killing-brian-thompson)
+- [1.1 million displaced by Syrian rebel offensive, UN says, as factional fighting continues](https://www.theguardian.com/world/2024/dec/12/fear-of-factional-fighting-drives-100000-syrians-to-northern-kurdish-areas)
+- [Guardian and Observer charity appeal raises more than £250,000](https://www.theguardian.com/society/2024/dec/13/guardian-and-observer-charity-appeal-raises-more-than-250000)
+- [My long-distance partner is moving in with me, but I have trepidation. How can I be at peace with it? | Leading questions](https://www.theguardian.com/lifeandstyle/2024/dec/13/my-long-distance-partner-is-moving-in-with-me-but-i-have-trepidation-how-can-i-be-at-peace-with-it)
+- [Dejan Kulusevski rescues draw for Tottenham to deny Rangers](https://www.theguardian.com/football/2024/dec/12/europa-league-match-report-rangers-tottenham-hotspur)
+- [Birmingham fairground ride crashes to the ground, injuring several people](https://www.theguardian.com/uk-news/2024/dec/12/birmingham-fairground-ride-crashes-to-the-ground-injuring-several-people)
+- [Comedian Duncan Norvelle, famed for ‘chase me’ catchphrase, dies aged 66](https://www.theguardian.com/tv-and-radio/2024/dec/12/comedian-duncan-norvelle-famed-for-chase-me-catchphrase-dies-aged-66)
+- [Tell us: What’s a New Year’s resolution that actually stuck?](https://www.theguardian.com/lifeandstyle/2024/dec/10/us-new-years-resolution)
+- [Many New Jersey ‘drones’ are manned aircraft being flown lawfully, White House says](https://www.theguardian.com/us-news/2024/dec/12/new-jersey-drones)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

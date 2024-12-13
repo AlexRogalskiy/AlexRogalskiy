@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Body of abducted cryptocurrency influencer Kevin Mirshahi found in Montreal park](https://www.montrealgazette.com/news/article568098.html)
-- [Century-Scale Storage](https://lil.law.harvard.edu/century-scale-storage/)
-- [Werner&#39;s Nomenclature of Colours](https://www.c82.net/werner/#colors)
-- [Missing Crypto Influencer, Under Investigation, Found Dead in Montreal](https://www.coindesk.com/policy/2024/11/14/missing-crypto-influencer-under-investigation-by-canadian-regulator-found-dead-in-montreal-report)
-- [Experimental website to browse and search vintage computer archive.org files](https://discmaster.textfiles.com/)
-- [The future of the instant runoff election reform](https://www.brookings.edu/articles/the-future-of-the-instant-runoff-election-reform/)
-- [Pylint-to-Ruff](https://github.com/akx/pylint-to-ruff)
-- [Supporting students to and through college: What does the evidence say?](https://www.brookings.edu/articles/supporting-students-to-and-through-college-what-does-the-evidence-say/)
-- [Decivilization May Be Under Way](https://www.theatlantic.com/politics/archive/2024/12/decivilization-political-violence-civil-society/680961/)
-- [Mullvad VPN 2024 Security Audit Results](https://mullvad.net/en/blog/the-report-for-the-2024-security-audit-of-the-app-is-now-available)
+- [My Favorite CS Puzzle](https://assaf.dev/blogs/my-favorite-cs-puzzle)
+- [NonStop &lpar;Server Computers&rpar;](https://en.wikipedia.org/wiki/NonStop_(server_computers))
+- [A Fusion Startup&#39;s Insane, Top-Secret Opening Ceremony](https://www.wired.com/story/inside-a-fusion-startups-insane-top-secret-opening-ceremony/)
+- [NYC Wants You to Stop Taking Traffic Cam Selfies, But Here&#39;s How to Do It Anyway](https://www.pcmag.com/articles/nyc-wants-you-to-stop-taking-traffic-cam-selfies-but-heres-how-to-do-it)
+- [How to keep control of your SaaS costs](https://www.arcastgroup.com/insights/how-to-keep-saas-cms-costs-under-control-as-you-grow)
+- [Traffic Cam Selfie Creator Holds Cease and Desist Letter in Front of Traffic Cam](https://www.404media.co/traffic-cam-photobooth-cease-and-desist/)
+- [The pills that cured all ills; James Morison the Hygeist &lpar;2014&rpar;](http://thelondondead.blogspot.com/2014/11/the-pills-that-cure-all-ills-james.html)
+- [Magnetoresistive RAM](https://en.wikipedia.org/wiki/Magnetoresistive_RAM)
+- [HN Hiring Trends](https://radiant-granita-300f7c.netlify.app/)
+- [Emacs 30 Built-In Completion UI and Styles](https://thanosapollo.org/posts/emacs-built-in-completions-video/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

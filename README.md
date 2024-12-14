@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [My Favorite CS Puzzle](https://assaf.dev/blogs/my-favorite-cs-puzzle)
-- [NonStop &lpar;Server Computers&rpar;](https://en.wikipedia.org/wiki/NonStop_(server_computers))
-- [A Fusion Startup&#39;s Insane, Top-Secret Opening Ceremony](https://www.wired.com/story/inside-a-fusion-startups-insane-top-secret-opening-ceremony/)
-- [NYC Wants You to Stop Taking Traffic Cam Selfies, But Here&#39;s How to Do It Anyway](https://www.pcmag.com/articles/nyc-wants-you-to-stop-taking-traffic-cam-selfies-but-heres-how-to-do-it)
-- [How to keep control of your SaaS costs](https://www.arcastgroup.com/insights/how-to-keep-saas-cms-costs-under-control-as-you-grow)
-- [Traffic Cam Selfie Creator Holds Cease and Desist Letter in Front of Traffic Cam](https://www.404media.co/traffic-cam-photobooth-cease-and-desist/)
-- [The pills that cured all ills; James Morison the Hygeist &lpar;2014&rpar;](http://thelondondead.blogspot.com/2014/11/the-pills-that-cure-all-ills-james.html)
-- [Magnetoresistive RAM](https://en.wikipedia.org/wiki/Magnetoresistive_RAM)
-- [HN Hiring Trends](https://radiant-granita-300f7c.netlify.app/)
-- [Emacs 30 Built-In Completion UI and Styles](https://thanosapollo.org/posts/emacs-built-in-completions-video/)
+- [Free Software](https://www.fsf.org/)
+- [Show HN: CAD Viewer – view CAD models privately, right in the browser](https://chromewebstore.google.com/detail/cad-viewer/dcfapcinbghmaamjkheihiogcgpkomfp)
+- [Technical Report on Mirror Bacteria: Feasibility and Risks](https://www.science.org/doi/10.1126/science.ads9158)
+- [Uber and Lyft Found a Loophole in a Driver Pay Law. Drivers Pushed Back](https://www.nytimes.com/2024/12/13/nyregion/uber-lyft-lockouts-wages-nyc.html)
+- [Based Static Typing for Python](https://github.com/KotlinIsland/basedmypy)
+- [Sitrec &lpar;Situation Recreation&rpar;](https://github.com/MickWest/sitrec)
+- [Festo&#39;s Air Rays](https://twitter.com/gunsnrosesgirl3/status/1867490173124251841)
+- [Review: UndoDB, a Reversible Debugger &lpar;2015&rpar;](https://www.jwhitham.org/2015/05/review-undodb-reversible-debugger.html)
+- [Pomodoro Timer with a Twist](https://dreampomodoro.com)
+- [Much sports content is streamed, but repetitive ads are frustrating fans](https://www.tubefilter.com/2024/12/10/sports-content-ads-high-frequency-caps-liberty-mutual-wingstop/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

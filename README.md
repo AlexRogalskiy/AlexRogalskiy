@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [When IBM Built a War Room for Executives](https://spectrum.ieee.org/ibm-demo)
-- [NonStop discussion around adding Rust to Git](https://lwn.net/Articles/998115/)
-- [Trinity Desktop Environment &lpar;TDE&rpar;](https://www.trinitydesktop.org/)
-- [A new timeline for Neanderthal interbreeding with modern humans](https://news.berkeley.edu/2024/12/12/a-new-timeline-for-neanderthal-interbreeding-with-modern-humans/)
-- [Learning Tibetan changed the way I think &lpar;2023&rpar;](https://www.lionsroar.com/learning-tibetan/)
-- [Elixir/Erlang Hot Swapping Code](https://kennyballou.com/blog/2016/12/elixir-hot-swapping/index.html)
-- [Taming LLMs – A Practical Guide to LLM Pitfalls with Open Source Software](https://www.souzatharsis.com/tamingLLMs/markdown/toc.html)
-- [Carta is making it too difficult to cancel subscriptions, some founders say](https://techcrunch.com/2024/12/12/carta-is-making-it-too-difficult-to-cancel-subscriptions-some-founders-say/)
-- [Exploring Commercial Products for the NES Expansion Port](https://tedium.co/2024/12/02/nintendo-expansion-port-history/)
-- [A room temperature Li2O-based lithium-air battery enabled by a solid electrolyte](https://www.science.org/doi/10.1126/science.abq1347)
+- [New Grad to Staff at Meta in 3 years](https://www.developing.dev/p/new-grad-to-staff-at-meta-in-3-years)
+- [Htmx 2.0.4 Released](https://github.com/bigskysoftware/htmx/blob/v2.0.4/CHANGELOG.md)
+- [macOS 15.2 breaks the ability to copy the OS to another drive](https://www.shirtpocket.com/blog/index.php/shadedgrey/youre_a_mean_one/)
+- [Show HN: Performant intracontinental public transport routing in Rust](https://github.com/ellenhp/farebox)
+- [Luon programming language](https://github.com/rochus-keller/Luon/blob/master/Readme.md)
+- [McKinsey and Company to pay $650M for role in opioid crisis](https://www.npr.org/2024/12/13/nx-s1-5155962/mckinsey-purdue-opioid-prosecution-doj)
+- [OpenAI whistleblower found dead in San Francisco apartment](https://www.mercurynews.com/2024/12/13/openai-whistleblower-found-dead-in-san-francisco-apartment/)
+- [Sharing new research, models, and datasets from Meta FAIR](https://ai.meta.com/blog/meta-fair-updates-agents-robustness-safety-architecture/?_fb_noscript=1)
+- [SCCS roach motel](https://www.tuhs.org/pipermail/tuhs/2024-December/031188.html)
+- [Show HN: @smoores/epub, a JavaScript library for working with EPUB publications](https://www.npmjs.com/package/@smoores/epub)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

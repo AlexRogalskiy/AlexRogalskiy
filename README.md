@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine war briefing: Nato warns that Putin wants to ‘wipe Ukraine off the map’](https://www.theguardian.com/world/2024/dec/13/ukraine-war-briefing-nato-warns-that-putin-wants-to-wipe-ukraine-off-the-map)
-- [Suspect in UnitedHealthcare CEO killing may not have been a client, say police](https://www.theguardian.com/us-news/2024/dec/12/suspect-motive-unitedhealthcare-ceo-killing-brian-thompson)
-- [1.1 million displaced by Syrian rebel offensive, UN says, as factional fighting continues](https://www.theguardian.com/world/2024/dec/12/fear-of-factional-fighting-drives-100000-syrians-to-northern-kurdish-areas)
-- [Guardian and Observer charity appeal raises more than £250,000](https://www.theguardian.com/society/2024/dec/13/guardian-and-observer-charity-appeal-raises-more-than-250000)
-- [My long-distance partner is moving in with me, but I have trepidation. How can I be at peace with it? | Leading questions](https://www.theguardian.com/lifeandstyle/2024/dec/13/my-long-distance-partner-is-moving-in-with-me-but-i-have-trepidation-how-can-i-be-at-peace-with-it)
-- [Dejan Kulusevski rescues draw for Tottenham to deny Rangers](https://www.theguardian.com/football/2024/dec/12/europa-league-match-report-rangers-tottenham-hotspur)
-- [Birmingham fairground ride crashes to the ground, injuring several people](https://www.theguardian.com/uk-news/2024/dec/12/birmingham-fairground-ride-crashes-to-the-ground-injuring-several-people)
-- [Comedian Duncan Norvelle, famed for ‘chase me’ catchphrase, dies aged 66](https://www.theguardian.com/tv-and-radio/2024/dec/12/comedian-duncan-norvelle-famed-for-chase-me-catchphrase-dies-aged-66)
-- [Tell us: What’s a New Year’s resolution that actually stuck?](https://www.theguardian.com/lifeandstyle/2024/dec/10/us-new-years-resolution)
-- [Many New Jersey ‘drones’ are manned aircraft being flown lawfully, White House says](https://www.theguardian.com/us-news/2024/dec/12/new-jersey-drones)
+- [New Zealand v England: third men’s cricket Test, day one – live](https://www.theguardian.com/sport/live/2024/dec/14/new-zealand-england-cricket-third-test-day-one-live)
+- [Australia v India: third men’s cricket Test, day one – live](https://www.theguardian.com/sport/live/2024/dec/14/australia-vs-india-third-mens-cricket-test-day-one-live-blog-updates-scores-results-start-time-teams-brisbane-the-gabba)
+- [Ukraine war briefing: Ukrainian drones make multiple strikes inside Russia](https://www.theguardian.com/world/2024/dec/14/ukraine-war-briefing-ukrainian-drones-make-multiple-strikes-inside-russia)
+- [Survivor of Japanese bombing of Pearl Harbor dies in California aged 100](https://www.theguardian.com/us-news/2024/dec/13/pearl-harbor-survivor-dies-aged-100)
+- [South Korean president Yoon Suk Yeol facing impeachment vote for second time](https://www.theguardian.com/world/2024/dec/14/south-korean-president-yoon-suk-yeol-facing-impeachment-vote-for-second-time)
+- [Adelaide parents accused of shaving son’s head and faking cancer diagnosis to raise $60,000](https://www.theguardian.com/australia-news/2024/dec/13/adelaide-parents-allegedly-faked-sons-cancer-diagnosis-ntwnfb)
+- [Democrats and Republicans condemn espionage-driven Chinese hack](https://www.theguardian.com/world/2024/dec/13/democrats-republicans-condemn-salt-typhoon-hack)
+- [Experience: I was viciously attacked by a group of otters](https://www.theguardian.com/lifeandstyle/2024/dec/14/experience-i-was-viciously-attacked-by-a-group-of-otters)
+- [Carry-On review – Taron Egerton channels Kenneth Connor in misleadingly titled Netflix thriller](https://www.theguardian.com/film/2024/dec/14/carry-on-review-taron-egerton-channels-kenneth-connor-in-misleadingly-titled-netflix-thriller)
+- [Ex-FBI informant agrees to plead guilty to lying about Bidens’ Ukraine ties](https://www.theguardian.com/us-news/2024/dec/13/alexander-smirnov-plea-deal-joe-hunter-biden)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

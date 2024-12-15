@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [New Zealand v England: third men’s cricket Test, day one – live](https://www.theguardian.com/sport/live/2024/dec/14/new-zealand-england-cricket-third-test-day-one-live)
-- [Australia v India: third men’s cricket Test, day one – live](https://www.theguardian.com/sport/live/2024/dec/14/australia-vs-india-third-mens-cricket-test-day-one-live-blog-updates-scores-results-start-time-teams-brisbane-the-gabba)
-- [Ukraine war briefing: Ukrainian drones make multiple strikes inside Russia](https://www.theguardian.com/world/2024/dec/14/ukraine-war-briefing-ukrainian-drones-make-multiple-strikes-inside-russia)
-- [Survivor of Japanese bombing of Pearl Harbor dies in California aged 100](https://www.theguardian.com/us-news/2024/dec/13/pearl-harbor-survivor-dies-aged-100)
-- [South Korean president Yoon Suk Yeol facing impeachment vote for second time](https://www.theguardian.com/world/2024/dec/14/south-korean-president-yoon-suk-yeol-facing-impeachment-vote-for-second-time)
-- [Adelaide parents accused of shaving son’s head and faking cancer diagnosis to raise $60,000](https://www.theguardian.com/australia-news/2024/dec/13/adelaide-parents-allegedly-faked-sons-cancer-diagnosis-ntwnfb)
-- [Democrats and Republicans condemn espionage-driven Chinese hack](https://www.theguardian.com/world/2024/dec/13/democrats-republicans-condemn-salt-typhoon-hack)
-- [Experience: I was viciously attacked by a group of otters](https://www.theguardian.com/lifeandstyle/2024/dec/14/experience-i-was-viciously-attacked-by-a-group-of-otters)
-- [Carry-On review – Taron Egerton channels Kenneth Connor in misleadingly titled Netflix thriller](https://www.theguardian.com/film/2024/dec/14/carry-on-review-taron-egerton-channels-kenneth-connor-in-misleadingly-titled-netflix-thriller)
-- [Ex-FBI informant agrees to plead guilty to lying about Bidens’ Ukraine ties](https://www.theguardian.com/us-news/2024/dec/13/alexander-smirnov-plea-deal-joe-hunter-biden)
+- [New Zealand v England: third men’s cricket Test, day two – live](https://www.theguardian.com/sport/live/2024/dec/14/new-zealand-v-england-third-mens-cricket-test-day-two-live)
+- [Australia v India: third men’s cricket Test, day two – live](https://www.theguardian.com/sport/live/2024/dec/15/australia-vs-india-third-mens-cricket-test-day-two-live-blog-updates-scores-results-start-time-teams-adelaide-oval)
+- [Ukraine war briefing: North Korean troops join Russian assaults in ‘significant’ numbers, Kyiv says](https://www.theguardian.com/world/2024/dec/15/ukraine-war-briefing-north-korean-troops-join-russian-assaults-in-significant-numbers-kyiv-says)
+- [Shine on: your top 20 jewellery questions answered](https://www.theguardian.com/fashion/2024/dec/15/shine-on-your-top-20-jewellery-questions-answered)
+- [Deportations reach five-year high despite concerns of rights groups](https://www.theguardian.com/politics/2024/dec/15/deportations-reach-five-year-high-despite-concerns-of-rights-groups)
+- [Eight injured, one critically, after doubledecker bus hits bridge in Glasgow](https://www.theguardian.com/uk-news/2024/dec/14/eight-injured-one-critically-after-doubledecker-bus-hits-bridge-in-glasgow)
+- [It’s Chris and Dianne’s time to shine as winners of Strictly’s glitterball](https://www.theguardian.com/tv-and-radio/2024/dec/14/its-chris-and-diannes-time-to-shine-as-winners-of-strictlys-glitterball)
+- [Ben Elton: ‘I fancied Olivia Newton-John. It’s all right to say that about a third cousin, right?’](https://www.theguardian.com/culture/2024/dec/15/ben-elton-authentic-stupidity-tour-interview-the-wiggles)
+- [At least five killed in shootings around French migrant camp](https://www.theguardian.com/world/2024/dec/14/at-least-five-killed-in-shootings-around-french-migrant-camp)
+- [Metro mayors to control rail services under unprecedented England devolution plans](https://www.theguardian.com/uk-news/2024/dec/14/metro-mayors-rail-services-england-devolution-plans)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

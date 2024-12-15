@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [New Grad to Staff at Meta in 3 years](https://www.developing.dev/p/new-grad-to-staff-at-meta-in-3-years)
-- [Htmx 2.0.4 Released](https://github.com/bigskysoftware/htmx/blob/v2.0.4/CHANGELOG.md)
-- [macOS 15.2 breaks the ability to copy the OS to another drive](https://www.shirtpocket.com/blog/index.php/shadedgrey/youre_a_mean_one/)
-- [Show HN: Performant intracontinental public transport routing in Rust](https://github.com/ellenhp/farebox)
-- [Luon programming language](https://github.com/rochus-keller/Luon/blob/master/Readme.md)
-- [McKinsey and Company to pay $650M for role in opioid crisis](https://www.npr.org/2024/12/13/nx-s1-5155962/mckinsey-purdue-opioid-prosecution-doj)
-- [OpenAI whistleblower found dead in San Francisco apartment](https://www.mercurynews.com/2024/12/13/openai-whistleblower-found-dead-in-san-francisco-apartment/)
-- [Sharing new research, models, and datasets from Meta FAIR](https://ai.meta.com/blog/meta-fair-updates-agents-robustness-safety-architecture/?_fb_noscript=1)
-- [SCCS roach motel](https://www.tuhs.org/pipermail/tuhs/2024-December/031188.html)
-- [Show HN: @smoores/epub, a JavaScript library for working with EPUB publications](https://www.npmjs.com/package/@smoores/epub)
+- [I Track My Health Data in Markdown: Lessons in Digital Longevity](https://news.ycombinator.com/item?id=42420721)
+- [School smartphone ban results in better sleep and improved mood: study](https://www.york.ac.uk/news-and-events/news/2024/research/school-smartphone-ban-better-sleep/)
+- [What Is Vim?](https://blog.jonas.foo/whats_vim.html)
+- [Should programming languages be safe or powerful?](https://lambdaland.org/posts/2024-11-21_powerful_or_safe_languages/)
+- [Llama.cpp Now Supports Qwen2-VL &lpar;Vision Language Model&rpar;](https://github.com/ggerganov/llama.cpp/pull/10361)
+- [They see your photos](https://theyseeyourphotos.com/)
+- [Four Hidden Species of Portuguese Man-O&#39;-War](https://crookedtimber.org/2024/11/11/occasional-paper-four-hidden-species-of-portuguese-man-o-war/)
+- [IRATA.ONLINE: A Community for Retro-Computing Enthusiasts](https://irata.online/)
+- [Pi modder successfully adds M.2 slot to Pi 500](https://www.jeffgeerling.com/blog/2024/pi-modder-successfully-adds-m2-slot-pi-500)
+- [Here at the End of All Things &lpar;2017&rpar;](https://longreads.com/2017/08/24/fantasy-maps-game-of-thrones/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

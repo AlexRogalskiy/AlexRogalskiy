@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Free Software](https://www.fsf.org/)
-- [Show HN: CAD Viewer – view CAD models privately, right in the browser](https://chromewebstore.google.com/detail/cad-viewer/dcfapcinbghmaamjkheihiogcgpkomfp)
-- [Technical Report on Mirror Bacteria: Feasibility and Risks](https://www.science.org/doi/10.1126/science.ads9158)
-- [Uber and Lyft Found a Loophole in a Driver Pay Law. Drivers Pushed Back](https://www.nytimes.com/2024/12/13/nyregion/uber-lyft-lockouts-wages-nyc.html)
-- [Based Static Typing for Python](https://github.com/KotlinIsland/basedmypy)
-- [Sitrec &lpar;Situation Recreation&rpar;](https://github.com/MickWest/sitrec)
-- [Festo&#39;s Air Rays](https://twitter.com/gunsnrosesgirl3/status/1867490173124251841)
-- [Review: UndoDB, a Reversible Debugger &lpar;2015&rpar;](https://www.jwhitham.org/2015/05/review-undodb-reversible-debugger.html)
-- [Pomodoro Timer with a Twist](https://dreampomodoro.com)
-- [Much sports content is streamed, but repetitive ads are frustrating fans](https://www.tubefilter.com/2024/12/10/sports-content-ads-high-frequency-caps-liberty-mutual-wingstop/)
+- [Tenstorrent and the State of AI Hardware Startups](https://irrationalanalysis.substack.com/p/tenstorrent-and-the-state-of-ai-hardware)
+- [Eggs may be secret to high IQ in babies](https://www.earth.com/news/eggs-high-iq-babies/)
+- [Machine Learning at Ente – On-Device, E2EE](https://ente.io/ml/)
+- [Show HN: Opensourced my failed startup – asend CRM](https://github.com/asendlabs/crm)
+- [Was the US Telecom Breach Inevitable, Proving Backdoors Can&#39;t Be Secure?](https://theintercept.com/2024/12/11/fbi-phone-encryption-salt-typhoon/)
+- [Ann Arbor hopes to bring rooftop solar to the masses by creating a utility](https://www.bridgemi.com/michigan-environment-watch/ann-arbor-hopes-bring-rooftop-solar-masses-creating-utility)
+- [Stablecoins Hit Record $190B Market Cap, Surpassing Pre-Terra Crash Peak: CCData](https://www.coindesk.com/markets/2024/11/27/stablecoins-hit-record-190-b-market-cap-surpassing-pre-terra-crash-peak-cc-data)
+- [Governor McKee Issues Update on Cybersecurity Breach of RIBridges System](https://governor.ri.gov/press-releases/governor-mckee-issues-update-cybersecurity-breach-ribridges-system)
+- [Ask HN: How do you cover healthcare as a founder? &lpar;US Only&rpar;](https://news.ycombinator.com/item?id=42421052)
+- [Neuropsychiatric polygenic scores are weak predictors of professional categories](https://www.nature.com/articles/s41562-024-02074-5)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

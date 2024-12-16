@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [New Zealand v England: third men’s cricket Test, day two – live](https://www.theguardian.com/sport/live/2024/dec/14/new-zealand-v-england-third-mens-cricket-test-day-two-live)
-- [Australia v India: third men’s cricket Test, day two – live](https://www.theguardian.com/sport/live/2024/dec/15/australia-vs-india-third-mens-cricket-test-day-two-live-blog-updates-scores-results-start-time-teams-adelaide-oval)
-- [Ukraine war briefing: North Korean troops join Russian assaults in ‘significant’ numbers, Kyiv says](https://www.theguardian.com/world/2024/dec/15/ukraine-war-briefing-north-korean-troops-join-russian-assaults-in-significant-numbers-kyiv-says)
-- [Shine on: your top 20 jewellery questions answered](https://www.theguardian.com/fashion/2024/dec/15/shine-on-your-top-20-jewellery-questions-answered)
-- [Deportations reach five-year high despite concerns of rights groups](https://www.theguardian.com/politics/2024/dec/15/deportations-reach-five-year-high-despite-concerns-of-rights-groups)
-- [Eight injured, one critically, after doubledecker bus hits bridge in Glasgow](https://www.theguardian.com/uk-news/2024/dec/14/eight-injured-one-critically-after-doubledecker-bus-hits-bridge-in-glasgow)
-- [It’s Chris and Dianne’s time to shine as winners of Strictly’s glitterball](https://www.theguardian.com/tv-and-radio/2024/dec/14/its-chris-and-diannes-time-to-shine-as-winners-of-strictlys-glitterball)
-- [Ben Elton: ‘I fancied Olivia Newton-John. It’s all right to say that about a third cousin, right?’](https://www.theguardian.com/culture/2024/dec/15/ben-elton-authentic-stupidity-tour-interview-the-wiggles)
-- [At least five killed in shootings around French migrant camp](https://www.theguardian.com/world/2024/dec/14/at-least-five-killed-in-shootings-around-french-migrant-camp)
-- [Metro mayors to control rail services under unprecedented England devolution plans](https://www.theguardian.com/uk-news/2024/dec/14/metro-mayors-rail-services-england-devolution-plans)
+- [New Zealand v England: third Test, day three – live](https://www.theguardian.com/sport/live/2024/dec/15/new-zealand-v-england-third-test-day-three-live)
+- [Australia v India: third men’s cricket Test, day three – live](https://www.theguardian.com/sport/live/2024/dec/16/australia-vs-india-third-mens-cricket-test-day-three-live-blog-updates-scores-results-start-time-teams-brisbane-the-gabba)
+- [South Korea ruling party leader steps down after backing impeachment of President Yoon](https://www.theguardian.com/world/2024/dec/16/south-korea-han-dong-hoon-resignation-impeachment-yoon-suk-yeol)
+- [Netanyahu says he held ‘friendly’ talks with Trump over Syria and Gaza hostages](https://www.theguardian.com/world/2024/dec/16/benjamin-netanyahu-donald-trump-talks-israel-war-syria-gaza-hostages)
+- [‘Human body can only take so much’: home in Australia, remaining Bali Nine face their new normal](https://www.theguardian.com/world/2024/dec/16/bali-9-australia-return-scott-rush-michael-czugaj-townsville-bishop-timothy-harris)
+- [Ukraine war briefing: Kyiv accuses Moscow of recklessness after oil tanker sinks in storm](https://www.theguardian.com/world/2024/dec/16/ukraine-war-briefing-kyiv-accuses-moscow-of-recklessness-after-oil-tanker-sinks-in-storm)
+- [Cricket commentator Isa Guha apologises for Jasprit Bumrah ‘primate’ comment](https://www.theguardian.com/sport/2024/dec/16/isa-guha-cricket-commentator-apology-jasprit-bumrah-primate-mvp)
+- [Russian tanker sinks in Black Sea spilling 4,300 tonnes of oil](https://www.theguardian.com/world/2024/dec/15/two-russian-tankers-sink-in-black-sea-spilling-oil)
+- [Mayors to get powers to stop planning delays in England, Angela Rayner to say](https://www.theguardian.com/society/2024/dec/16/mayors-to-get-powers-to-stop-planning-delays-in-england-angela-rayner-to-say)
+- [Alexandra Palace is a venue that fits, but will darts outgrow it one day? | Jonathan Liew](https://www.theguardian.com/sport/2024/dec/15/alexandra-palace-is-a-venue-that-fits-but-will-darts-outgrow-it-one-day)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

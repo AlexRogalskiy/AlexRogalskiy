@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Tenstorrent and the State of AI Hardware Startups](https://irrationalanalysis.substack.com/p/tenstorrent-and-the-state-of-ai-hardware)
-- [Eggs may be secret to high IQ in babies](https://www.earth.com/news/eggs-high-iq-babies/)
-- [Machine Learning at Ente – On-Device, E2EE](https://ente.io/ml/)
-- [Show HN: Opensourced my failed startup – asend CRM](https://github.com/asendlabs/crm)
-- [Was the US Telecom Breach Inevitable, Proving Backdoors Can&#39;t Be Secure?](https://theintercept.com/2024/12/11/fbi-phone-encryption-salt-typhoon/)
-- [Ann Arbor hopes to bring rooftop solar to the masses by creating a utility](https://www.bridgemi.com/michigan-environment-watch/ann-arbor-hopes-bring-rooftop-solar-masses-creating-utility)
-- [Stablecoins Hit Record $190B Market Cap, Surpassing Pre-Terra Crash Peak: CCData](https://www.coindesk.com/markets/2024/11/27/stablecoins-hit-record-190-b-market-cap-surpassing-pre-terra-crash-peak-cc-data)
-- [Governor McKee Issues Update on Cybersecurity Breach of RIBridges System](https://governor.ri.gov/press-releases/governor-mckee-issues-update-cybersecurity-breach-ribridges-system)
-- [Ask HN: How do you cover healthcare as a founder? &lpar;US Only&rpar;](https://news.ycombinator.com/item?id=42421052)
-- [Neuropsychiatric polygenic scores are weak predictors of professional categories](https://www.nature.com/articles/s41562-024-02074-5)
+- [Do I need to water trees during the winter?](https://resourcecentral.org/do-i-need-to-water-during-the-winter/)
+- [Turn your Rails app into an engaging native-like application in minutes](https://blog.codeminer42.com/everything-you-need-to-ace-pwas/)
+- [Affordable $100 Banana Pi BPI-R4 Router Board Featuring 2x10G SFP Ports &lpar;2023&rpar;](https://linuxgizmos.com/affordable-100-banana-pi-bpi-r4-router-board-featuring-2x10g-sfp-ports/)
+- [A 10 Year Retrospective of a Passionate Software Engineer](https://cherkaskyb.medium.com/a-10-year-retrospective-of-a-passionate-software-engineer-2d0cd7b3d836)
+- [Holding your pee can have dangerous health risks, experts say](https://www.cnn.com/2024/12/15/health/health-risks-of-holding-your-pee-wellness/index.html)
+- [GE-68 pin source sent for disposal has been lost in transit on December 2, 2024](https://www.nrc.gov/reading-rm/doc-collections/event-status/event/en.html)
+- [Revisiting the Algebra of Play with Petri.jl](https://blog.stackdump.com/revisiting-the-algebra-of-play-with-petri-jl)
+- [A Tale of Two Shanghais](https://arun.is/blog/tale-of-two-shanghais/)
+- [Are Your Devices Secure?](https://news.ycombinator.com/item?id=42427530)
+- [Ex-Google CEO warns there&#39;s a time to consider &quot;unplugging&quot; AI systems](https://www.axios.com/2024/12/15/ai-dangers-computers-google-ceo)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

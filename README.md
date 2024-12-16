@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [I Track My Health Data in Markdown: Lessons in Digital Longevity](https://news.ycombinator.com/item?id=42420721)
-- [School smartphone ban results in better sleep and improved mood: study](https://www.york.ac.uk/news-and-events/news/2024/research/school-smartphone-ban-better-sleep/)
-- [What Is Vim?](https://blog.jonas.foo/whats_vim.html)
-- [Should programming languages be safe or powerful?](https://lambdaland.org/posts/2024-11-21_powerful_or_safe_languages/)
-- [Llama.cpp Now Supports Qwen2-VL &lpar;Vision Language Model&rpar;](https://github.com/ggerganov/llama.cpp/pull/10361)
-- [They see your photos](https://theyseeyourphotos.com/)
-- [Four Hidden Species of Portuguese Man-O&#39;-War](https://crookedtimber.org/2024/11/11/occasional-paper-four-hidden-species-of-portuguese-man-o-war/)
-- [IRATA.ONLINE: A Community for Retro-Computing Enthusiasts](https://irata.online/)
-- [Pi modder successfully adds M.2 slot to Pi 500](https://www.jeffgeerling.com/blog/2024/pi-modder-successfully-adds-m2-slot-pi-500)
-- [Here at the End of All Things &lpar;2017&rpar;](https://longreads.com/2017/08/24/fantasy-maps-game-of-thrones/)
+- [Scores for Adults Are Dropping on Tests of Basic Skills](https://nataliewexler.substack.com/p/scores-for-adults-are-dropping-on)
+- [25 Years of Dillo](https://dillo-browser.github.io/25-years/)
+- [The First 50M Prime Numbers &lpar;1975&rpar; [pdf]](https://people.mpim-bonn.mpg.de/zagier/files/doi/10.1007/BF03039306/fulltext.pdf)
+- [Map of GitHub](https://github.com/anvaka/map-of-github)
+- [Dumb TVs deserve a comeback](https://www.makeuseof.com/reasons-why-dumb-tvs-deserve-a-comeback/)
+- [Ask HN: How do you find part time work?](https://news.ycombinator.com/item?id=42425339)
+- [The Antikythera mechanism – 254:19 ratio](https://leancrew.com/all-this/2024/12/the-antikythera-mechanism/)
+- [Maximum likelihood estimation and loss functions](https://rish-01.github.io/blog/posts/ml_estimation/)
+- [Show HN: SmartHome – An Adventure Game](https://smarthome.steviep.xyz)
+- [Trellis &lpar;YC W24&rpar; Is Hiring Eng to Automate PDFs Task at Scale](https://ycombinator.com/companies/trellis/jobs/7vGTphf-founding-engineer-backend-ai)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

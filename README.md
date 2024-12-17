@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Scores for Adults Are Dropping on Tests of Basic Skills](https://nataliewexler.substack.com/p/scores-for-adults-are-dropping-on)
-- [25 Years of Dillo](https://dillo-browser.github.io/25-years/)
-- [The First 50M Prime Numbers &lpar;1975&rpar; [pdf]](https://people.mpim-bonn.mpg.de/zagier/files/doi/10.1007/BF03039306/fulltext.pdf)
-- [Map of GitHub](https://github.com/anvaka/map-of-github)
-- [Dumb TVs deserve a comeback](https://www.makeuseof.com/reasons-why-dumb-tvs-deserve-a-comeback/)
-- [Ask HN: How do you find part time work?](https://news.ycombinator.com/item?id=42425339)
-- [The Antikythera mechanism – 254:19 ratio](https://leancrew.com/all-this/2024/12/the-antikythera-mechanism/)
-- [Maximum likelihood estimation and loss functions](https://rish-01.github.io/blog/posts/ml_estimation/)
-- [Show HN: SmartHome – An Adventure Game](https://smarthome.steviep.xyz)
-- [Trellis &lpar;YC W24&rpar; Is Hiring Eng to Automate PDFs Task at Scale](https://ycombinator.com/companies/trellis/jobs/7vGTphf-founding-engineer-backend-ai)
+- [Settlement from Meta for Australian Users Impacted by Cambridge Analytica](https://www.oaic.gov.au/news/media-centre/landmark-settlement-of-$50m-from-meta-for-australian-users-impacted-by-cambridge-analytica-incident)
+- [Alley Cat Remeow Edition](https://www.joflof.com/alley.html)
+- [Kevin Langdon&#39;s &#39;Omni Magazine&#39; unsupervised IQ test &lpar;1979&rpar;](http://www.lumifont.co.uk/omnitest.php)
+- [Advent of Code on the Nintendo DS](https://sailor.li/aocnds.html)
+- [Go Protobuf: The New Opaque API](https://go.dev/blog/protobuf-opaque)
+- [Our muscles will atrophy as we climb the Kardashev Scale](https://solmaz.io/our-muscles-will-atrophy)
+- [Lfgss shutting down 16th March 2025 &lpar;day before Online Safety Act is enforced&rpar;](https://www.lfgss.com/conversations/401475/)
+- [Backward-incompatible GRUB2 change causing BIOS setup bootloop](https://op-co.de/blog/posts/grub2_bios_bootloop/)
+- [Veo 2: Our video generation model](https://deepmind.google/technologies/veo/veo-2/)
+- [Converge &lpar;YC S23&rpar; is hiring founding engineer #2](https://www.ycombinator.com/companies/converge/jobs/GQWZ40Z-founding-engineer-2-at-1m-arr)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

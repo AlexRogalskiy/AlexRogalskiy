@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [New Zealand v England: third Test, day three – live](https://www.theguardian.com/sport/live/2024/dec/15/new-zealand-v-england-third-test-day-three-live)
-- [Australia v India: third men’s cricket Test, day three – live](https://www.theguardian.com/sport/live/2024/dec/16/australia-vs-india-third-mens-cricket-test-day-three-live-blog-updates-scores-results-start-time-teams-brisbane-the-gabba)
-- [South Korea ruling party leader steps down after backing impeachment of President Yoon](https://www.theguardian.com/world/2024/dec/16/south-korea-han-dong-hoon-resignation-impeachment-yoon-suk-yeol)
-- [Netanyahu says he held ‘friendly’ talks with Trump over Syria and Gaza hostages](https://www.theguardian.com/world/2024/dec/16/benjamin-netanyahu-donald-trump-talks-israel-war-syria-gaza-hostages)
-- [‘Human body can only take so much’: home in Australia, remaining Bali Nine face their new normal](https://www.theguardian.com/world/2024/dec/16/bali-9-australia-return-scott-rush-michael-czugaj-townsville-bishop-timothy-harris)
-- [Ukraine war briefing: Kyiv accuses Moscow of recklessness after oil tanker sinks in storm](https://www.theguardian.com/world/2024/dec/16/ukraine-war-briefing-kyiv-accuses-moscow-of-recklessness-after-oil-tanker-sinks-in-storm)
-- [Cricket commentator Isa Guha apologises for Jasprit Bumrah ‘primate’ comment](https://www.theguardian.com/sport/2024/dec/16/isa-guha-cricket-commentator-apology-jasprit-bumrah-primate-mvp)
-- [Russian tanker sinks in Black Sea spilling 4,300 tonnes of oil](https://www.theguardian.com/world/2024/dec/15/two-russian-tankers-sink-in-black-sea-spilling-oil)
-- [Mayors to get powers to stop planning delays in England, Angela Rayner to say](https://www.theguardian.com/society/2024/dec/16/mayors-to-get-powers-to-stop-planning-delays-in-england-angela-rayner-to-say)
-- [Alexandra Palace is a venue that fits, but will darts outgrow it one day? | Jonathan Liew](https://www.theguardian.com/sport/2024/dec/15/alexandra-palace-is-a-venue-that-fits-but-will-darts-outgrow-it-one-day)
+- [England fall to 423-run defeat as New Zealand wrap up consolation win as expected](https://www.theguardian.com/sport/2024/dec/17/cricket-new-zealand-vs-england-third-test-day-four-result-match-report)
+- [Judge denies Trump petition to dismiss hush-money case over immunity claims](https://www.theguardian.com/us-news/2024/dec/16/trump-hush-money-case-immunity-denied)
+- [Filipino death row prisoner to return home after 15 years in Indonesian jail](https://www.theguardian.com/world/2024/dec/17/filipino-death-row-prisoner-to-return-home-after-15-years-in-indonesian-jail)
+- [I have followed the Bali Nine case for 20 years. This is not about taking sides, except the side of time | Madonna King](https://www.theguardian.com/commentisfree/2024/dec/17/bali-nine-return-australia-matthew-norman-michael-czugaj-scott-rush-martin-stephens-si-yi-chen-ntwnfb)
+- [TikTok turns to US supreme court in last-ditch bid to avert divest-or-ban law](https://www.theguardian.com/technology/2024/dec/16/tiktok-ban-supreme-court)
+- [Home schooling laws to be tightened up after murder of Sara Sharif](https://www.theguardian.com/society/2024/dec/17/home-schooling-laws-to-be-tightened-up-after-of-sara-sharif)
+- [Margaret Hodge to lead review of regional inequality in the arts](https://www.theguardian.com/culture/2024/dec/17/margaret-hodge-to-lead-review-of-regional-inequality-in-the-arts)
+- [Consuming arts and culture is good for health and wellbeing, research finds](https://www.theguardian.com/society/2024/dec/17/consuming-arts-and-culture-is-good-for-health-and-wellbeing-research-finds)
+- [James Wade crashes out of World Darts Championship in second-round shock](https://www.theguardian.com/sport/2024/dec/16/james-wade-crashes-out-of-world-darts-championship-in-first-round-shock)
+- [Forget the novelty mugs and homemade biscuits: here’s what teachers really want for Christmas | Myke Bartlett](https://www.theguardian.com/commentisfree/2024/dec/17/forget-the-novelty-mugs-and-homemade-biscuits-heres-what-teachers-really-want-for-christmas)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

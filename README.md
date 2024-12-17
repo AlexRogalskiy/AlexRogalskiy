@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Do I need to water trees during the winter?](https://resourcecentral.org/do-i-need-to-water-during-the-winter/)
-- [Turn your Rails app into an engaging native-like application in minutes](https://blog.codeminer42.com/everything-you-need-to-ace-pwas/)
-- [Affordable $100 Banana Pi BPI-R4 Router Board Featuring 2x10G SFP Ports &lpar;2023&rpar;](https://linuxgizmos.com/affordable-100-banana-pi-bpi-r4-router-board-featuring-2x10g-sfp-ports/)
-- [A 10 Year Retrospective of a Passionate Software Engineer](https://cherkaskyb.medium.com/a-10-year-retrospective-of-a-passionate-software-engineer-2d0cd7b3d836)
-- [Holding your pee can have dangerous health risks, experts say](https://www.cnn.com/2024/12/15/health/health-risks-of-holding-your-pee-wellness/index.html)
-- [GE-68 pin source sent for disposal has been lost in transit on December 2, 2024](https://www.nrc.gov/reading-rm/doc-collections/event-status/event/en.html)
-- [Revisiting the Algebra of Play with Petri.jl](https://blog.stackdump.com/revisiting-the-algebra-of-play-with-petri-jl)
-- [A Tale of Two Shanghais](https://arun.is/blog/tale-of-two-shanghais/)
-- [Are Your Devices Secure?](https://news.ycombinator.com/item?id=42427530)
-- [Ex-Google CEO warns there&#39;s a time to consider &quot;unplugging&quot; AI systems](https://www.axios.com/2024/12/15/ai-dangers-computers-google-ceo)
+- [When Lock-Free Still Isn&#39;t Enough [pdf]](https://github.com/CppCon/CppCon2024/blob/main/Presentations/When_Lock-Free_Still_Isn%27t_Enough.pdf)
+- [An Introduction to Wait-Free Programming and Concurrency Techniques](https://www.youtube.com/watch?v=kPh8pod0-gk)
+- [World&#39;s largest iceberg has broken free after being trapped in vortex](https://www.cnn.com/2024/12/16/climate/worlds-biggest-iceberg-a23a-moving-intl-scli/index.html)
+- [Revising our understanding of the aging process](https://www.rockefeller.edu/news/36993-study-reveals-how-unexpected-shifts-in-cell-populations-are-revising-our-understanding-of-the-aging-process/)
+- [V-Shaped Skillset](https://www.scottantipa.com/v-shaped-skillset.html)
+- [What Happened? Biden Hanukkah Reception? 12/16/24](https://news.ycombinator.com/item?id=42437776)
+- [2024 Lichess Recap](https://news.ycombinator.com/item?id=42437775)
+- [Domestic issues pile pressure on Iran&#39;s president amid foreign policy setbacks](https://www.theguardian.com/world/2024/dec/09/domestic-issues-pile-pressure-on-iran-president-masoud-pezeshkian-amid-foreign-policy-setbacks)
+- [Apple Plans Thinner, Foldable iPhones to Revive Growth](https://www.msn.com/en-us/money/technology/apple-plans-thinner-foldable-iphones-to-revive-growth/ar-AA1vTh1t)
+- [Scientists Just Created a &quot;Cure&quot; for Diabetes – Breakthrough Explained [video]](https://www.youtube.com/watch?v=lVTS_J7Xmxs)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

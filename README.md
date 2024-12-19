@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Settlement from Meta for Australian Users Impacted by Cambridge Analytica](https://www.oaic.gov.au/news/media-centre/landmark-settlement-of-$50m-from-meta-for-australian-users-impacted-by-cambridge-analytica-incident)
-- [Alley Cat Remeow Edition](https://www.joflof.com/alley.html)
-- [Kevin Langdon&#39;s &#39;Omni Magazine&#39; unsupervised IQ test &lpar;1979&rpar;](http://www.lumifont.co.uk/omnitest.php)
-- [Advent of Code on the Nintendo DS](https://sailor.li/aocnds.html)
-- [Go Protobuf: The New Opaque API](https://go.dev/blog/protobuf-opaque)
-- [Our muscles will atrophy as we climb the Kardashev Scale](https://solmaz.io/our-muscles-will-atrophy)
-- [Lfgss shutting down 16th March 2025 &lpar;day before Online Safety Act is enforced&rpar;](https://www.lfgss.com/conversations/401475/)
-- [Backward-incompatible GRUB2 change causing BIOS setup bootloop](https://op-co.de/blog/posts/grub2_bios_bootloop/)
-- [Veo 2: Our video generation model](https://deepmind.google/technologies/veo/veo-2/)
-- [Converge &lpar;YC S23&rpar; is hiring founding engineer #2](https://www.ycombinator.com/companies/converge/jobs/GQWZ40Z-founding-engineer-2-at-1m-arr)
+- [There&#39;s No Such Thing as Software Productivity &lpar;2012&rpar;](https://www.benrady.com/2012/11/theres-no-such-thing-as-software-productivity.html)
+- [Piccolo OS, a Small Multitasking OS for the Raspberry Pi Pico](https://github.com/garyexplains/piccolo_os_v1)
+- [Advanced Civilizations Could Be Indistinguishable from Nature](https://www.universetoday.com/169993/advanced-civilizations-could-be-indistinguishable-from-nature/)
+- [I Built a Figma Plugin That Generates Custom SVG Illustrations with AI](https://www.figma.com/community/plugin/1440141868641854458/vector-image-ai)
+- [Embedding Lua in Sqleibniz with Rust](https://xnacly.me/posts/2024/embed-lua-in-rust/)
+- [Self-sorting arrays reveal unexpected competencies in minimal intelligence](https://arxiv.org/abs/2401.05375)
+- [The moonbit compiler is available on GitHub](https://www.moonbitlang.com/blog/compiler-opensource)
+- [The RAM Myth](https://purplesyringa.moe/blog/the-ram-myth/)
+- [Corvus Robotics &lpar;YC S18&rpar; is hiring a Head of Software to help inventory drones](https://news.ycombinator.com/item?id=42455372)
+- [Java in the Small](https://horstmann.com/unblog/2024-12-11/index.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

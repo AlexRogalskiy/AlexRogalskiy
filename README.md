@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [When Lock-Free Still Isn&#39;t Enough [pdf]](https://github.com/CppCon/CppCon2024/blob/main/Presentations/When_Lock-Free_Still_Isn%27t_Enough.pdf)
-- [An Introduction to Wait-Free Programming and Concurrency Techniques](https://www.youtube.com/watch?v=kPh8pod0-gk)
-- [World&#39;s largest iceberg has broken free after being trapped in vortex](https://www.cnn.com/2024/12/16/climate/worlds-biggest-iceberg-a23a-moving-intl-scli/index.html)
-- [Revising our understanding of the aging process](https://www.rockefeller.edu/news/36993-study-reveals-how-unexpected-shifts-in-cell-populations-are-revising-our-understanding-of-the-aging-process/)
-- [V-Shaped Skillset](https://www.scottantipa.com/v-shaped-skillset.html)
-- [What Happened? Biden Hanukkah Reception? 12/16/24](https://news.ycombinator.com/item?id=42437776)
-- [2024 Lichess Recap](https://news.ycombinator.com/item?id=42437775)
-- [Domestic issues pile pressure on Iran&#39;s president amid foreign policy setbacks](https://www.theguardian.com/world/2024/dec/09/domestic-issues-pile-pressure-on-iran-president-masoud-pezeshkian-amid-foreign-policy-setbacks)
-- [Apple Plans Thinner, Foldable iPhones to Revive Growth](https://www.msn.com/en-us/money/technology/apple-plans-thinner-foldable-iphones-to-revive-growth/ar-AA1vTh1t)
-- [Scientists Just Created a &quot;Cure&quot; for Diabetes – Breakthrough Explained [video]](https://www.youtube.com/watch?v=lVTS_J7Xmxs)
+- [Founding Fathers on Today&#39;s America](https://karpathy.ai/blog/foundingfathers.html)
+- [Can I get glasses with free lens?](https://www.vooglam.com/blogDetail/glasses-with-free-lens)
+- [An Interview with a Boxer Who Is Paying the Price](https://www.hamiltonnolan.com/p/an-interview-with-a-boxer-who-is)
+- [Enable Copilot Free in VS Code](https://code.visualstudio.com/docs/copilot/setup-simplified)
+- [Nigel Richards won Spanish Scrabble championship without speaking language](https://www.washingtonpost.com/world/2024/12/14/spanish-scrabble-champion-nigel-richards/)
+- [WhatsApp users can now interact with ChatGPT AI chatbot](https://www.msn.com/en-in/money/news/whatsapp-users-can-now-interact-with-chatgpt-ai-chatbot-here-s-how/ar-AA1w7hx3)
+- [SDF Public Access Unix System.. Est. 1987](https://sdf.org/)
+- [EU Births Drop to New Low as Strains on Younger Generations Mount](https://www.ft.com/content/1adaa16d-f3f7-4a42-9d1f-c39359167066)
+- [Using OpenAI&#39;s o1 models for code reviews &lpar;and my custom Rake task&rpar;](https://www.integralreview.com/o1-code-review)
+- [&#39;It feels like admin&#39;: why are people falling out of love with dating apps?](https://www.theguardian.com/lifeandstyle/2024/dec/08/it-feels-like-admin-why-are-people-falling-out-of-love-with-dating-apps)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [England fall to 423-run defeat as New Zealand wrap up consolation win as expected](https://www.theguardian.com/sport/2024/dec/17/cricket-new-zealand-vs-england-third-test-day-four-result-match-report)
-- [Judge denies Trump petition to dismiss hush-money case over immunity claims](https://www.theguardian.com/us-news/2024/dec/16/trump-hush-money-case-immunity-denied)
-- [Filipino death row prisoner to return home after 15 years in Indonesian jail](https://www.theguardian.com/world/2024/dec/17/filipino-death-row-prisoner-to-return-home-after-15-years-in-indonesian-jail)
-- [I have followed the Bali Nine case for 20 years. This is not about taking sides, except the side of time | Madonna King](https://www.theguardian.com/commentisfree/2024/dec/17/bali-nine-return-australia-matthew-norman-michael-czugaj-scott-rush-martin-stephens-si-yi-chen-ntwnfb)
-- [TikTok turns to US supreme court in last-ditch bid to avert divest-or-ban law](https://www.theguardian.com/technology/2024/dec/16/tiktok-ban-supreme-court)
-- [Home schooling laws to be tightened up after murder of Sara Sharif](https://www.theguardian.com/society/2024/dec/17/home-schooling-laws-to-be-tightened-up-after-of-sara-sharif)
-- [Margaret Hodge to lead review of regional inequality in the arts](https://www.theguardian.com/culture/2024/dec/17/margaret-hodge-to-lead-review-of-regional-inequality-in-the-arts)
-- [Consuming arts and culture is good for health and wellbeing, research finds](https://www.theguardian.com/society/2024/dec/17/consuming-arts-and-culture-is-good-for-health-and-wellbeing-research-finds)
-- [James Wade crashes out of World Darts Championship in second-round shock](https://www.theguardian.com/sport/2024/dec/16/james-wade-crashes-out-of-world-darts-championship-in-first-round-shock)
-- [Forget the novelty mugs and homemade biscuits: here’s what teachers really want for Christmas | Myke Bartlett](https://www.theguardian.com/commentisfree/2024/dec/17/forget-the-novelty-mugs-and-homemade-biscuits-heres-what-teachers-really-want-for-christmas)
+- [Ukraine war briefing: Zelenskyy says he discussed French troop idea with Macron](https://www.theguardian.com/world/2024/dec/19/ukraine-war-briefing-zelenskyy-says-he-discussed-french-troop-idea-with-macron)
+- [Two-inch long ‘murder hornets’ eradicated from US, agriculture department says](https://www.theguardian.com/us-news/2024/dec/19/murder-hornet-eradicated-us-washington)
+- [Cancer screening take ups not back to pre-pandemic levels, charity warns](https://www.theguardian.com/society/2024/dec/19/cancer-screening-take-ups-not-back-to-pre-pandemic-levels-charity-warns)
+- [Fiji defence minister welcomes US security deal and criticises China missile test](https://www.theguardian.com/world/2024/dec/19/fiji-defence-minister-pio-tikoduadua-us-security-deal-china-missile-test)
+- [Two former Rotherham police officers arrested over child sexual abuse](https://www.theguardian.com/uk-news/2024/dec/18/two-former-rotherham-police-officers-arrested-over-child-sexual-abuse)
+- [Starmer urged to change donation rules amid talk of Musk bankrolling Reform](https://www.theguardian.com/politics/2024/dec/18/starmer-protect-elections-foreign-interference-elon-musk)
+- [US funding plan collapses as Trump makes demands days before shutdown](https://www.theguardian.com/us-news/2024/dec/18/government-funding-trump-shutdown)
+- [Grassroots campaign to force removal of RFU executives gathers momentum](https://www.theguardian.com/sport/2024/dec/18/rugby-union-bill-sweeney-tom-ilube-grassroots-rebellion)
+- [Christian Kist hits nine-darter at PDC world championship but loses match](https://www.theguardian.com/sport/2024/dec/18/darts-pdc-worlds-christian-kist-nine-darter-nathan-aspinall)
+- [‘Speak with the manager’: Amorim responds to Rashford’s remarks on exit](https://www.theguardian.com/football/2024/dec/18/ruben-amorim-marcus-rashford-manchester-united)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

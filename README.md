@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Founding Fathers on Today&#39;s America](https://karpathy.ai/blog/foundingfathers.html)
-- [Can I get glasses with free lens?](https://www.vooglam.com/blogDetail/glasses-with-free-lens)
-- [An Interview with a Boxer Who Is Paying the Price](https://www.hamiltonnolan.com/p/an-interview-with-a-boxer-who-is)
-- [Enable Copilot Free in VS Code](https://code.visualstudio.com/docs/copilot/setup-simplified)
-- [Nigel Richards won Spanish Scrabble championship without speaking language](https://www.washingtonpost.com/world/2024/12/14/spanish-scrabble-champion-nigel-richards/)
-- [WhatsApp users can now interact with ChatGPT AI chatbot](https://www.msn.com/en-in/money/news/whatsapp-users-can-now-interact-with-chatgpt-ai-chatbot-here-s-how/ar-AA1w7hx3)
-- [SDF Public Access Unix System.. Est. 1987](https://sdf.org/)
-- [EU Births Drop to New Low as Strains on Younger Generations Mount](https://www.ft.com/content/1adaa16d-f3f7-4a42-9d1f-c39359167066)
-- [Using OpenAI&#39;s o1 models for code reviews &lpar;and my custom Rake task&rpar;](https://www.integralreview.com/o1-code-review)
-- [&#39;It feels like admin&#39;: why are people falling out of love with dating apps?](https://www.theguardian.com/lifeandstyle/2024/dec/08/it-feels-like-admin-why-are-people-falling-out-of-love-with-dating-apps)
+- [A GitHub Synopsis](https://chromewebstore.google.com/detail/gitstats/dgfgblmnoegfkiamligbkmmikjomhpcj)
+- [QwenRoast – Get Roasted by AI](https://qwenroast.vercel.app/)
+- [Flowgorithm – Flow Chart-Based Programming](http://www.flowgorithm.org/index.html)
+- [Submit to the Quirks of HTML](https://htmhell.dev/adventcalendar/2024/10/)
+- [IBobi: First Video ChatGPT Device](https://www.indiegogo.com/projects/ibobi-first-video-chatgpt-device/coming_soon)
+- [AI learns to distinguish between aromas of US and Scottish whiskies](https://www.theguardian.com/technology/2024/dec/19/ai-learns-to-distinguish-between-aromas-of-us-and-scottish-whiskies)
+- [2013 – Jack Dorsey and a Host of Tech Celebs Turn Out for Party in San Francisco](https://www.businessinsider.com/joss-whedon-eliza-dushku-jack-dorsey-craig-newmark-thrivegulu--san-francisco-party-2012-7)
+- [A Man Who Broke Atlantic City](https://www.theatlantic.com/magazine/archive/2012/04/the-man-who-broke-atlantic-city/308900/)
+- [CRISPR genome-editing grows up: advanced therapies head for the clinic](https://www.nature.com/articles/d41586-024-04102-w)
+- [Ev Williams, founder of Twitter and Medium, launches a new social app](https://www.indiehackers.com/post/tech/ev-williams-founder-of-twitter-and-medium-launches-a-new-social-app-o4Wl4V3dhvzqlU2rFJ7Z)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [There&#39;s No Such Thing as Software Productivity &lpar;2012&rpar;](https://www.benrady.com/2012/11/theres-no-such-thing-as-software-productivity.html)
-- [Piccolo OS, a Small Multitasking OS for the Raspberry Pi Pico](https://github.com/garyexplains/piccolo_os_v1)
-- [Advanced Civilizations Could Be Indistinguishable from Nature](https://www.universetoday.com/169993/advanced-civilizations-could-be-indistinguishable-from-nature/)
-- [I Built a Figma Plugin That Generates Custom SVG Illustrations with AI](https://www.figma.com/community/plugin/1440141868641854458/vector-image-ai)
-- [Embedding Lua in Sqleibniz with Rust](https://xnacly.me/posts/2024/embed-lua-in-rust/)
-- [Self-sorting arrays reveal unexpected competencies in minimal intelligence](https://arxiv.org/abs/2401.05375)
-- [The moonbit compiler is available on GitHub](https://www.moonbitlang.com/blog/compiler-opensource)
-- [The RAM Myth](https://purplesyringa.moe/blog/the-ram-myth/)
-- [Corvus Robotics &lpar;YC S18&rpar; is hiring a Head of Software to help inventory drones](https://news.ycombinator.com/item?id=42455372)
-- [Java in the Small](https://horstmann.com/unblog/2024-12-11/index.html)
+- [Show HN: Gribstream.com – Historical Weather Forecast API](https://gribstream.com)
+- [Doctors Without Borders declares the war in Gaza as genocide](https://www.doctorswithoutborders.org/latest/gaza-death-trap-msf-report-exposes-israels-campaign-total-destruction)
+- [Bat Feces Used to Fertilize Cannabis Is Linked to 2 Deaths](https://www.nytimes.com/2024/12/18/nyregion/bat-poop-cannabis-deaths-ny.html)
+- [Kelly Can&#39;t Fail](https://win-vector.com/2024/12/19/kelly-cant-fail/)
+- [Openlayer &lpar;YC S21&rpar; is looking for a customer engineer to join our rocketship](https://www.ycombinator.com/companies/openlayer/jobs/yIE9WI3-customer-engineer)
+- [Satellite powered estimation of global solar potential](https://research.google/blog/satellite-powered-estimation-of-global-solar-potential/)
+- [Hardware Security Exploit Research – Xbox 360](https://github.com/kooscode/srgh-matrix-trinity/blob/main/README.md)
+- [Silk – Interactive Generative Art &lpar;2011&rpar;](http://weavesilk.com/)
+- [How types make hard problems easy](https://mayhul.com/posts/type-driven-design/)
+- [Music and Geometry: Intervals and Scales](https://roelsworld.eu/blog-music/music-geometry-intervals-scales/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

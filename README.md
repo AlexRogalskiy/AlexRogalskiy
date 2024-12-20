@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine war briefing: Zelenskyy says he discussed French troop idea with Macron](https://www.theguardian.com/world/2024/dec/19/ukraine-war-briefing-zelenskyy-says-he-discussed-french-troop-idea-with-macron)
-- [Two-inch long ‘murder hornets’ eradicated from US, agriculture department says](https://www.theguardian.com/us-news/2024/dec/19/murder-hornet-eradicated-us-washington)
-- [Cancer screening take ups not back to pre-pandemic levels, charity warns](https://www.theguardian.com/society/2024/dec/19/cancer-screening-take-ups-not-back-to-pre-pandemic-levels-charity-warns)
-- [Fiji defence minister welcomes US security deal and criticises China missile test](https://www.theguardian.com/world/2024/dec/19/fiji-defence-minister-pio-tikoduadua-us-security-deal-china-missile-test)
-- [Two former Rotherham police officers arrested over child sexual abuse](https://www.theguardian.com/uk-news/2024/dec/18/two-former-rotherham-police-officers-arrested-over-child-sexual-abuse)
-- [Starmer urged to change donation rules amid talk of Musk bankrolling Reform](https://www.theguardian.com/politics/2024/dec/18/starmer-protect-elections-foreign-interference-elon-musk)
-- [US funding plan collapses as Trump makes demands days before shutdown](https://www.theguardian.com/us-news/2024/dec/18/government-funding-trump-shutdown)
-- [Grassroots campaign to force removal of RFU executives gathers momentum](https://www.theguardian.com/sport/2024/dec/18/rugby-union-bill-sweeney-tom-ilube-grassroots-rebellion)
-- [Christian Kist hits nine-darter at PDC world championship but loses match](https://www.theguardian.com/sport/2024/dec/18/darts-pdc-worlds-christian-kist-nine-darter-nathan-aspinall)
-- [‘Speak with the manager’: Amorim responds to Rashford’s remarks on exit](https://www.theguardian.com/football/2024/dec/18/ruben-amorim-marcus-rashford-manchester-united)
+- [Raygun says ‘we’ve resolved everything’ after comedy musical stoush – so is everyone besties now?](https://www.theguardian.com/sport/2024/dec/20/raygun-musical-steph-broadbridge-anthony-skinner-ntwnfb)
+- [In the spirit of both Zen and Christmas holidays, I’ve decided to become a digital dropout | Van Badham](https://www.theguardian.com/commentisfree/2024/dec/20/in-the-spirit-of-both-zen-and-christmas-holidays-ive-decided-to-become-a-digital-dropout)
+- [Republicans fail to pass spending bill in House in setback for Trump](https://www.theguardian.com/us-news/2024/dec/19/trump-spending-bill-government-shutdown)
+- [How can I keep my cat happy? A vet’s top tips for helping feline friends live their best life](https://www.theguardian.com/lifeandstyle/2024/dec/20/how-can-i-keep-my-cat-happy-a-vets-top-tips-for-helping-feline-friends-live-their-best-life)
+- [Sydney New Year’s Eve fireworks could be cancelled due to train strike, police commissioner says](https://www.theguardian.com/australia-news/2024/dec/20/sydney-new-years-eve-fireworks-possible-cancellation-train-strike-nsw-police-karen-webb)
+- [Allow teachers to fine parents over pupils’ bad behaviour, says Tony Blair’s thinktank](https://www.theguardian.com/education/2024/dec/20/allow-teachers-to-fine-parents-over-pupils-bad-behaviour-says-tony-blairs-thinktank)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2024/dec/20/premier-league-10-things-to-look-out-for-this-weekend)
+- [The Tempest review – Sigourney weaves weird magic in West End debut](https://www.theguardian.com/stage/2024/dec/19/the-tempest-review-sigourney-weaver-jamie-lloyd-theatre-royal-drury-lane)
+- [Michael Smith stunned by Kevin Doets in World Darts Championship upset](https://www.theguardian.com/sport/2024/dec/19/michael-smith-stunned-kevin-doets-world-darts-championship-upset)
+- [My best friend of 40 years has a skewed impression of me. How do I set her straight?](https://www.theguardian.com/lifeandstyle/2024/dec/20/leading-questions-my-best-friend-of-40-years-has-a-skewed-impression-of-me-how-do-i-address-this)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

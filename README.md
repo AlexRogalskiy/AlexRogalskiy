@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Show HN: Gribstream.com – Historical Weather Forecast API](https://gribstream.com)
-- [Doctors Without Borders declares the war in Gaza as genocide](https://www.doctorswithoutborders.org/latest/gaza-death-trap-msf-report-exposes-israels-campaign-total-destruction)
-- [Bat Feces Used to Fertilize Cannabis Is Linked to 2 Deaths](https://www.nytimes.com/2024/12/18/nyregion/bat-poop-cannabis-deaths-ny.html)
-- [Kelly Can&#39;t Fail](https://win-vector.com/2024/12/19/kelly-cant-fail/)
-- [Openlayer &lpar;YC S21&rpar; is looking for a customer engineer to join our rocketship](https://www.ycombinator.com/companies/openlayer/jobs/yIE9WI3-customer-engineer)
-- [Satellite powered estimation of global solar potential](https://research.google/blog/satellite-powered-estimation-of-global-solar-potential/)
-- [Hardware Security Exploit Research – Xbox 360](https://github.com/kooscode/srgh-matrix-trinity/blob/main/README.md)
-- [Silk – Interactive Generative Art &lpar;2011&rpar;](http://weavesilk.com/)
-- [How types make hard problems easy](https://mayhul.com/posts/type-driven-design/)
-- [Music and Geometry: Intervals and Scales](https://roelsworld.eu/blog-music/music-geometry-intervals-scales/)
+- [US judge finds Israel&#39;s NSO Group liable for hacking journalists via WhatsApp](https://www.reuters.com/technology/cybersecurity/us-judge-finds-israels-nso-group-liable-hacking-whatsapp-lawsuit-2024-12-21/)
+- [Compiling C to Safe Rust, Formalized](https://arxiv.org/abs/2412.15042)
+- [A Raycaster in Bash](https://github.com/izabera/pseudo3d)
+- [Qualcomm wins licensing fight with Arm over chip designs](https://www.bloomberg.com/news/articles/2024-12-20/qualcomm-wins-licensing-fight-with-arm-over-chip-designs)
+- [DOS APPEND](https://www.os2museum.com/wp/dos-append/)
+- [Rules to avoid common extended inline assembly mistakes](https://nullprogram.com/blog/2024/12/20/)
+- [OpenAI O3 breakthrough high score on ARC-AGI-PUB](https://arcprize.org/blog/oai-o3-pub-breakthrough)
+- [Grayjay Desktop App](https://grayjay.app/desktop/)
+- [Why are UK electricity bills so expensive?](https://climate.benjames.io/uk-electricity-bills/)
+- [A bestiary of exotic hadrons](https://cerncourier.com/a-bestiary-of-exotic-hadrons/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

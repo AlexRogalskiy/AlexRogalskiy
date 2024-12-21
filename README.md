@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Raygun says ‘we’ve resolved everything’ after comedy musical stoush – so is everyone besties now?](https://www.theguardian.com/sport/2024/dec/20/raygun-musical-steph-broadbridge-anthony-skinner-ntwnfb)
-- [In the spirit of both Zen and Christmas holidays, I’ve decided to become a digital dropout | Van Badham](https://www.theguardian.com/commentisfree/2024/dec/20/in-the-spirit-of-both-zen-and-christmas-holidays-ive-decided-to-become-a-digital-dropout)
-- [Republicans fail to pass spending bill in House in setback for Trump](https://www.theguardian.com/us-news/2024/dec/19/trump-spending-bill-government-shutdown)
-- [How can I keep my cat happy? A vet’s top tips for helping feline friends live their best life](https://www.theguardian.com/lifeandstyle/2024/dec/20/how-can-i-keep-my-cat-happy-a-vets-top-tips-for-helping-feline-friends-live-their-best-life)
-- [Sydney New Year’s Eve fireworks could be cancelled due to train strike, police commissioner says](https://www.theguardian.com/australia-news/2024/dec/20/sydney-new-years-eve-fireworks-possible-cancellation-train-strike-nsw-police-karen-webb)
-- [Allow teachers to fine parents over pupils’ bad behaviour, says Tony Blair’s thinktank](https://www.theguardian.com/education/2024/dec/20/allow-teachers-to-fine-parents-over-pupils-bad-behaviour-says-tony-blairs-thinktank)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2024/dec/20/premier-league-10-things-to-look-out-for-this-weekend)
-- [The Tempest review – Sigourney weaves weird magic in West End debut](https://www.theguardian.com/stage/2024/dec/19/the-tempest-review-sigourney-weaver-jamie-lloyd-theatre-royal-drury-lane)
-- [Michael Smith stunned by Kevin Doets in World Darts Championship upset](https://www.theguardian.com/sport/2024/dec/19/michael-smith-stunned-kevin-doets-world-darts-championship-upset)
-- [My best friend of 40 years has a skewed impression of me. How do I set her straight?](https://www.theguardian.com/lifeandstyle/2024/dec/20/leading-questions-my-best-friend-of-40-years-has-a-skewed-impression-of-me-how-do-i-address-this)
+- [New Zealand v Australia: second women’s one-day international – live](https://www.theguardian.com/sport/live/2024/dec/21/new-zealand-vs-australia-womens-cricket-odi-second-one-day-live-blog-scores-results-start-time-basin-reserve-wellington)
+- [Ukraine war briefing: IMF approves $1.1bn loan to Ukraine](https://www.theguardian.com/world/2024/dec/21/ukraine-war-briefing-imf-approves-11bn-loan-to-ukraine)
+- [US judge finds Pegasus spyware maker liable over WhatsApp hack](https://www.theguardian.com/technology/2024/dec/20/whatsapp-pegasus-spyware-nso-group-hacking)
+- [Fire evacuations, floods and possible snow: Australia’s wild weather in the lead-up to Christmas](https://www.theguardian.com/australia-news/2024/dec/21/fire-evacuations-floods-and-possible-snow-australias-wild-weather-in-the-lead-up-to-christmas)
+- [US House passes funding proposal without Trump’s demand to raise debt limit](https://www.theguardian.com/us-news/2024/dec/20/republicans-trump-spending-bill)
+- [Prison, longing, and some cooking tips: Australia’s unconventional Christmas anthem](https://www.theguardian.com/lifeandstyle/2024/dec/21/prison-longing-and-some-cooking-tips-australias-unconventional-christmas-anthem)
+- [‘It will exist for ever’: Bluey fans fearful and excited for cartoon’s future](https://www.theguardian.com/tv-and-radio/2024/dec/21/bluey-fans-fearful-and-excited-for-future-of-childrens-cartoon)
+- [Michael van Gerwen promises ‘more to come’ after fast start at PDC worlds](https://www.theguardian.com/sport/2024/dec/20/darts-pdc-world-championship-sandro-eric-sosing-bunting-van-gerwen)
+- [Ange Postecoglou rails against ‘offensive’ criticism of Spurs tenure](https://www.theguardian.com/football/2024/dec/20/ange-postecoglou-rails-against-offensive-criticism-spurs-tenure)
+- [Charlie Cooper’s Myth Country: Winter Solstice review – at times this folklore profile is tear-inducingly pure](https://www.theguardian.com/tv-and-radio/2024/dec/20/charlie-cooper-myth-country-winter-solstice-review-bbc3-iplayer)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

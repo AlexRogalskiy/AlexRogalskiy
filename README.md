@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [A GitHub Synopsis](https://chromewebstore.google.com/detail/gitstats/dgfgblmnoegfkiamligbkmmikjomhpcj)
-- [QwenRoast – Get Roasted by AI](https://qwenroast.vercel.app/)
-- [Flowgorithm – Flow Chart-Based Programming](http://www.flowgorithm.org/index.html)
-- [Submit to the Quirks of HTML](https://htmhell.dev/adventcalendar/2024/10/)
-- [IBobi: First Video ChatGPT Device](https://www.indiegogo.com/projects/ibobi-first-video-chatgpt-device/coming_soon)
-- [AI learns to distinguish between aromas of US and Scottish whiskies](https://www.theguardian.com/technology/2024/dec/19/ai-learns-to-distinguish-between-aromas-of-us-and-scottish-whiskies)
-- [2013 – Jack Dorsey and a Host of Tech Celebs Turn Out for Party in San Francisco](https://www.businessinsider.com/joss-whedon-eliza-dushku-jack-dorsey-craig-newmark-thrivegulu--san-francisco-party-2012-7)
-- [A Man Who Broke Atlantic City](https://www.theatlantic.com/magazine/archive/2012/04/the-man-who-broke-atlantic-city/308900/)
-- [CRISPR genome-editing grows up: advanced therapies head for the clinic](https://www.nature.com/articles/d41586-024-04102-w)
-- [Ev Williams, founder of Twitter and Medium, launches a new social app](https://www.indiehackers.com/post/tech/ev-williams-founder-of-twitter-and-medium-launches-a-new-social-app-o4Wl4V3dhvzqlU2rFJ7Z)
+- [Online Safety Act Notes for Small Sites](https://russ.garrett.co.uk/2024/12/17/online-safety-act-guide/)
+- [2024 Recap](https://zed.dev/2024)
+- [The guide to holding world class dinner parties](https://auren.substack.com/p/the-ultimate-guide-to-holding-world)
+- [Anyone using this AI workstation for coding?](https://www.autonomous.ai/anon-ai/anon-ai-on-premise)
+- [Community to fork Puppet, unhappy with Perforce changes to open-source project](https://devclass.com/2024/12/18/community-plans-to-fork-puppet-unhappy-with-perforce-changes-to-open-source-project/)
+- [Cognitive load is what matters [Programming]](https://minds.md/zakirullin/cognitive)
+- [Frontiers of Entrepreneurship Research](https://www.babson.edu/entrepreneurship-center/thought-leadership/babson-college-entrepreneurship-research-conference-bcerc/frontiers-of-entrepreneurship-research-fer/)
+- [The new o3 model from OpenAI](https://marginalrevolution.com/marginalrevolution/2024/12/the-new-o3-model-from-openai.html)
+- [Bioaccelerationism Is a No-Brainer](https://www.richardhanania.com/p/bioaccelerationism-is-a-no-brainer)
+- [Successful People Start Before They Feel Ready](https://jamesclear.com/successful-people-start-before-they-feel-ready)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Online Safety Act Notes for Small Sites](https://russ.garrett.co.uk/2024/12/17/online-safety-act-guide/)
-- [2024 Recap](https://zed.dev/2024)
-- [The guide to holding world class dinner parties](https://auren.substack.com/p/the-ultimate-guide-to-holding-world)
-- [Anyone using this AI workstation for coding?](https://www.autonomous.ai/anon-ai/anon-ai-on-premise)
-- [Community to fork Puppet, unhappy with Perforce changes to open-source project](https://devclass.com/2024/12/18/community-plans-to-fork-puppet-unhappy-with-perforce-changes-to-open-source-project/)
-- [Cognitive load is what matters [Programming]](https://minds.md/zakirullin/cognitive)
-- [Frontiers of Entrepreneurship Research](https://www.babson.edu/entrepreneurship-center/thought-leadership/babson-college-entrepreneurship-research-conference-bcerc/frontiers-of-entrepreneurship-research-fer/)
-- [The new o3 model from OpenAI](https://marginalrevolution.com/marginalrevolution/2024/12/the-new-o3-model-from-openai.html)
-- [Bioaccelerationism Is a No-Brainer](https://www.richardhanania.com/p/bioaccelerationism-is-a-no-brainer)
-- [Successful People Start Before They Feel Ready](https://jamesclear.com/successful-people-start-before-they-feel-ready)
+- [CVE-2024-0044, Android run-as any app vulnerability POC](https://github.com/canyie/CVE-2024-0044)
+- [Trying Unlimited Storage Attempt](https://news.ycombinator.com/item?id=42484014)
+- [LibCello: How are we supposed to pass stuff between functions?](https://news.ycombinator.com/item?id=42484004)
+- [Fluid Flow-Based Vibration Energy Harvesters: A Critical Review](https://www.mdpi.com/2076-3417/14/23/11452)
+- [Show HN: Hue Logs – A Minimal Log Monitoring Tool](https://github.com/singh47/huelogs)
+- [How to properly shut down a Linux system](https://leahneukirchen.org/blog/archive/2024/12/how-to-properly-shut-down-a-linux-system.html)
+- [Show HN](https://www.shiftbear.com/)
+- [New forms of life discovered inside human bodies](https://www.earth.com/news/scientists-find-new-forms-of-life-inside-humans-rna-carriers-obelisks/)
+- [Digital Amnesia Documentary &lpar;2014&rpar;](https://archive.org/details/DigitalAmnesiaDocumentary)
+- [Synchronous Reading with Friends](https://www.rhotter.com/posts/synchronous-reading)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [New Zealand v Australia: second women’s one-day international – live](https://www.theguardian.com/sport/live/2024/dec/21/new-zealand-vs-australia-womens-cricket-odi-second-one-day-live-blog-scores-results-start-time-basin-reserve-wellington)
-- [Ukraine war briefing: IMF approves $1.1bn loan to Ukraine](https://www.theguardian.com/world/2024/dec/21/ukraine-war-briefing-imf-approves-11bn-loan-to-ukraine)
-- [US judge finds Pegasus spyware maker liable over WhatsApp hack](https://www.theguardian.com/technology/2024/dec/20/whatsapp-pegasus-spyware-nso-group-hacking)
-- [Fire evacuations, floods and possible snow: Australia’s wild weather in the lead-up to Christmas](https://www.theguardian.com/australia-news/2024/dec/21/fire-evacuations-floods-and-possible-snow-australias-wild-weather-in-the-lead-up-to-christmas)
-- [US House passes funding proposal without Trump’s demand to raise debt limit](https://www.theguardian.com/us-news/2024/dec/20/republicans-trump-spending-bill)
-- [Prison, longing, and some cooking tips: Australia’s unconventional Christmas anthem](https://www.theguardian.com/lifeandstyle/2024/dec/21/prison-longing-and-some-cooking-tips-australias-unconventional-christmas-anthem)
-- [‘It will exist for ever’: Bluey fans fearful and excited for cartoon’s future](https://www.theguardian.com/tv-and-radio/2024/dec/21/bluey-fans-fearful-and-excited-for-future-of-childrens-cartoon)
-- [Michael van Gerwen promises ‘more to come’ after fast start at PDC worlds](https://www.theguardian.com/sport/2024/dec/20/darts-pdc-world-championship-sandro-eric-sosing-bunting-van-gerwen)
-- [Ange Postecoglou rails against ‘offensive’ criticism of Spurs tenure](https://www.theguardian.com/football/2024/dec/20/ange-postecoglou-rails-against-offensive-criticism-spurs-tenure)
-- [Charlie Cooper’s Myth Country: Winter Solstice review – at times this folklore profile is tear-inducingly pure](https://www.theguardian.com/tv-and-radio/2024/dec/20/charlie-cooper-myth-country-winter-solstice-review-bbc3-iplayer)
+- [Victoria bushfire fight continues in Grampians as flood warnings persist in parts of Queensland](https://www.theguardian.com/australia-news/2024/dec/22/victoria-bushfire-fight-continues-in-grampians-as-flood-warnings-persist-in-parts-of-queensland)
+- [US launches airstrikes against Houthi targets in Yemen](https://www.theguardian.com/world/2024/dec/22/us-launches-airstrikes-against-houthi-targets-in-yemen)
+- [Oleksandr Usyk wins heavyweight rematch to silence Tyson Fury in Riyadh](https://www.theguardian.com/sport/2024/dec/22/oleksandr-usyk-wins-heavyweight-rematch-tyson-fury-riyadh-boxing)
+- [Ouch! Solving the riddle of pain](https://www.theguardian.com/lifeandstyle/2024/dec/22/ouch-solving-the-riddle-of-pain)
+- [Click, clic … boom! How secondhand clothes shopping turned very sour](https://www.theguardian.com/fashion/2024/dec/22/click-clic-boom-how-secondhand-clothes-shopping-turned-very-sour)
+- [Oleksandr Usyk beats Tyson Fury again – in pictures](https://www.theguardian.com/sport/gallery/2024/dec/22/oleksandr-usyk-v-tyson-fury-ii-in-pictures)
+- [The edit: 20 of the best slippers – in pictures](https://www.theguardian.com/fashion/gallery/2024/dec/21/the-edit-20-of-the-best-slippers-in-pictures)
+- [Trend watch: cosy loungewear](https://www.theguardian.com/fashion/2024/dec/21/trend-watch-cosy-loungewear)
+- [Princess Beatrice to spend Christmas at Sandringham after Italy trip shelved](https://www.theguardian.com/uk-news/2024/dec/21/princess-beatrice-to-spend-christmas-with-royal-family-due-to-pregnancy)
+- [Luke Littler nears darting perfection in spectacular opening win at PDC worlds](https://www.theguardian.com/sport/2024/dec/21/luke-littler-nears-darting-perfection-in-spectacular-opening-win-at-pdc-worlds)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

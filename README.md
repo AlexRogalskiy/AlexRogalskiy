@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [US judge finds Israel&#39;s NSO Group liable for hacking journalists via WhatsApp](https://www.reuters.com/technology/cybersecurity/us-judge-finds-israels-nso-group-liable-hacking-whatsapp-lawsuit-2024-12-21/)
-- [Compiling C to Safe Rust, Formalized](https://arxiv.org/abs/2412.15042)
-- [A Raycaster in Bash](https://github.com/izabera/pseudo3d)
-- [Qualcomm wins licensing fight with Arm over chip designs](https://www.bloomberg.com/news/articles/2024-12-20/qualcomm-wins-licensing-fight-with-arm-over-chip-designs)
-- [DOS APPEND](https://www.os2museum.com/wp/dos-append/)
-- [Rules to avoid common extended inline assembly mistakes](https://nullprogram.com/blog/2024/12/20/)
-- [OpenAI O3 breakthrough high score on ARC-AGI-PUB](https://arcprize.org/blog/oai-o3-pub-breakthrough)
-- [Grayjay Desktop App](https://grayjay.app/desktop/)
-- [Why are UK electricity bills so expensive?](https://climate.benjames.io/uk-electricity-bills/)
-- [A bestiary of exotic hadrons](https://cerncourier.com/a-bestiary-of-exotic-hadrons/)
+- [Rosetta 2 creator leaves Apple to work on Lean full-time](https://www.linkedin.com/posts/leonardo-de-moura-26a27b5_leanlang-leanprover-leanfro-activity-7274523099394400256-0F0x)
+- [Show HN: GitHub-assistant – Natural language questions from your GitHub data](https://github.com/reltadev/github-assistant)
+- [Train a Mnist VAE with C and CUDA](https://github.com/ggerganov/ggml/discussions/707)
+- [A data table thousands of years old &lpar;2020&rpar;](https://www.datafix.com.au/BASHing/2020-08-12.html)
+- [Richard Bellman on the Birth of Dynamic Programming &lpar;2002&rpar; [pdf]](https://pubsonline.informs.org/doi/pdf/10.1287/opre.50.1.48.17791)
+- [JEP 483: Ahead-of-Time Class Loading and Linking](https://openjdk.org/jeps/483)
+- [A curious case of O&lpar;N^2&rpar; behavior which should be O&lpar;N&rpar; &lpar;2023&rpar;](https://gist.github.com/bssrdf/397900607028bffd0f8d223a7acdce7e)
+- [Dividing unsigned 8-bit numbers](http://0x80.pl/notesen/2024-12-21-uint8-division.html)
+- [Show HN: Demo of my web game about social persuasion](https://talktomehuman.com/demo)
+- [City Roads: A tool to draw all roads in a city at once](https://anvaka.github.io/city-roads/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

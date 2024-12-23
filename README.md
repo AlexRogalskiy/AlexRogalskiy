@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [CVE-2024-0044, Android run-as any app vulnerability POC](https://github.com/canyie/CVE-2024-0044)
-- [Trying Unlimited Storage Attempt](https://news.ycombinator.com/item?id=42484014)
-- [LibCello: How are we supposed to pass stuff between functions?](https://news.ycombinator.com/item?id=42484004)
-- [Fluid Flow-Based Vibration Energy Harvesters: A Critical Review](https://www.mdpi.com/2076-3417/14/23/11452)
-- [Show HN: Hue Logs – A Minimal Log Monitoring Tool](https://github.com/singh47/huelogs)
-- [How to properly shut down a Linux system](https://leahneukirchen.org/blog/archive/2024/12/how-to-properly-shut-down-a-linux-system.html)
-- [Show HN](https://www.shiftbear.com/)
-- [New forms of life discovered inside human bodies](https://www.earth.com/news/scientists-find-new-forms-of-life-inside-humans-rna-carriers-obelisks/)
-- [Digital Amnesia Documentary &lpar;2014&rpar;](https://archive.org/details/DigitalAmnesiaDocumentary)
-- [Synchronous Reading with Friends](https://www.rhotter.com/posts/synchronous-reading)
+- [Litestack: All your data infrastructure, in one Ruby gem](https://github.com/oldmoe/litestack)
+- [Ten Years of JMAP](https://www.fastmail.com/blog/ten-years-of-jmap/)
+- [Former Agents from Israel&#39;s Mossad Detail Pager Plot Details](https://www.cbsnews.com/news/israel-former-mossad-agents-detail-explosive-pagers-hezbollah-terrorists-plot-60-minutes-transcript/)
+- [Anaesthetisation: Environment Separated from Sense –| Sense Deletion](https://www.youtube.com/watch?v=K8gwYaXPZNA)
+- [The Economist Cover Curse](https://www.readtrung.com/p/the-economist-cover-curse-explained)
+- [An efficient blocker for Chromium and Firefox. Fast and lean](https://github.com/gorhill/uBlock)
+- [Oral History of Jim Keller [video]](https://www.youtube.com/watch?v=Xh8nhK7WS80)
+- [Yup, the Universe is expanding weirdly](https://badastronomy.beehiiv.com/p/jwst-yup-the-universe-is-expanding-weirdly)
+- [How Will Ukraine Keep the Lights on This Winter?](https://www.nytimes.com/2024/12/21/world/europe/ukraine-electricity-winter.html)
+- [MapChart – create political and thematic maps](https://www.mapchart.net)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

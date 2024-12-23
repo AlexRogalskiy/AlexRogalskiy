@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Rosetta 2 creator leaves Apple to work on Lean full-time](https://www.linkedin.com/posts/leonardo-de-moura-26a27b5_leanlang-leanprover-leanfro-activity-7274523099394400256-0F0x)
-- [Show HN: GitHub-assistant – Natural language questions from your GitHub data](https://github.com/reltadev/github-assistant)
-- [Train a Mnist VAE with C and CUDA](https://github.com/ggerganov/ggml/discussions/707)
-- [A data table thousands of years old &lpar;2020&rpar;](https://www.datafix.com.au/BASHing/2020-08-12.html)
-- [Richard Bellman on the Birth of Dynamic Programming &lpar;2002&rpar; [pdf]](https://pubsonline.informs.org/doi/pdf/10.1287/opre.50.1.48.17791)
-- [JEP 483: Ahead-of-Time Class Loading and Linking](https://openjdk.org/jeps/483)
-- [A curious case of O&lpar;N^2&rpar; behavior which should be O&lpar;N&rpar; &lpar;2023&rpar;](https://gist.github.com/bssrdf/397900607028bffd0f8d223a7acdce7e)
-- [Dividing unsigned 8-bit numbers](http://0x80.pl/notesen/2024-12-21-uint8-division.html)
-- [Show HN: Demo of my web game about social persuasion](https://talktomehuman.com/demo)
-- [City Roads: A tool to draw all roads in a city at once](https://anvaka.github.io/city-roads/)
+- [Has anyone else noticed Reddit being taken over by shills/bot/trolls](https://news.ycombinator.com/item?id=42490872)
+- [&#39;United Healthcare&#39; using DMCA against Luigi Mangione images](https://abovethelaw.com/2024/12/united-healthcare-using-dmca-against-luigi-mangione-images-which-is-bizarre-wildly-inappropriate/)
+- [Classified fighter jet specs leaked on War Thunder forums](https://ukdefencejournal.org.uk/classified-fighter-jet-specs-leaked-on-war-thunder-again/)
+- [MI300X vs. H100 vs. H200 Benchmark Part 1: Training – CUDA Moat Still Alive](https://semianalysis.com/2024/12/22/mi300x-vs-h100-vs-h200-benchmark-part-1-training/)
+- [Being a Developer in the Age of Reasoning AI](https://near.tl/developer-forever/forum/announcement/being-a-developer-in-the-age-of-reasoning-ai.anc-4b87de19-f7cf-4ef0-91c8-e28b260fd9ad.html)
+- [Whither Dashboard Design?](https://surfingcomplexity.blog/2024/12/22/whither-dashboard-design/)
+- [Finley &lpar;YC W21&rpar; Is Hiring a Growth Associate &lpar;Ex-Finance&rpar;](https://jobs.lever.co/FinleyTechnologies/429dc338-87e8-4ed7-a302-145e18027e24)
+- [Twtxt is a decentralised, minimalist microblogging service for hackers](https://twtxt.readthedocs.io/en/latest/index.html)
+- [Tokenisation Is NP-Complete](https://arxiv.org/abs/2412.15210)
+- [One way to fight loneliness: The Germans call it a Stammtisch](https://www.npr.org/2024/12/22/nx-s1-5233033/holidays-loneliness-cure-stammtisch)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

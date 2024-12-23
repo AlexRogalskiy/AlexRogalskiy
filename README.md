@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Victoria bushfire fight continues in Grampians as flood warnings persist in parts of Queensland](https://www.theguardian.com/australia-news/2024/dec/22/victoria-bushfire-fight-continues-in-grampians-as-flood-warnings-persist-in-parts-of-queensland)
-- [US launches airstrikes against Houthi targets in Yemen](https://www.theguardian.com/world/2024/dec/22/us-launches-airstrikes-against-houthi-targets-in-yemen)
-- [Oleksandr Usyk wins heavyweight rematch to silence Tyson Fury in Riyadh](https://www.theguardian.com/sport/2024/dec/22/oleksandr-usyk-wins-heavyweight-rematch-tyson-fury-riyadh-boxing)
-- [Ouch! Solving the riddle of pain](https://www.theguardian.com/lifeandstyle/2024/dec/22/ouch-solving-the-riddle-of-pain)
-- [Click, clic … boom! How secondhand clothes shopping turned very sour](https://www.theguardian.com/fashion/2024/dec/22/click-clic-boom-how-secondhand-clothes-shopping-turned-very-sour)
-- [Oleksandr Usyk beats Tyson Fury again – in pictures](https://www.theguardian.com/sport/gallery/2024/dec/22/oleksandr-usyk-v-tyson-fury-ii-in-pictures)
-- [The edit: 20 of the best slippers – in pictures](https://www.theguardian.com/fashion/gallery/2024/dec/21/the-edit-20-of-the-best-slippers-in-pictures)
-- [Trend watch: cosy loungewear](https://www.theguardian.com/fashion/2024/dec/21/trend-watch-cosy-loungewear)
-- [Princess Beatrice to spend Christmas at Sandringham after Italy trip shelved](https://www.theguardian.com/uk-news/2024/dec/21/princess-beatrice-to-spend-christmas-with-royal-family-due-to-pregnancy)
-- [Luke Littler nears darting perfection in spectacular opening win at PDC worlds](https://www.theguardian.com/sport/2024/dec/21/luke-littler-nears-darting-perfection-in-spectacular-opening-win-at-pdc-worlds)
+- [Ukraine war briefing: Putin meets Slovak PM in rare Moscow visit to secure energy deal](https://www.theguardian.com/world/2024/dec/23/ukraine-war-briefing-putin-meets-slovak-pm-in-rare-moscow-visit-to-secure-energy-deal)
+- [Trump vows to rename Denali, North America’s tallest mountain, as Mount McKinley](https://www.theguardian.com/us-news/2024/dec/23/donald-trump-denali-america-tallest-mountain-rename-mount-mckinley)
+- [Man apprehended after woman fatally set on fire in New York subway car](https://www.theguardian.com/us-news/2024/dec/22/new-york-woman-on-fire-subway)
+- [More UK buses to run on Christmas Day than at any time in last five years](https://www.theguardian.com/uk-news/2024/dec/23/more-uk-buses-to-run-on-christmas-day-than-at-any-time-in-last-five-years)
+- [London dominates UK’s priciest postcodes with all top 20 streets](https://www.theguardian.com/business/2024/dec/23/london-dominates-uks-priciest-postcodes-with-all-top-20-streets)
+- [Chris McCausland to deliver Channel 4’s alternative Christmas message](https://www.theguardian.com/stage/2024/dec/23/chris-mccausland-channel-4-alternative-christmas-message)
+- [UK doctors warn of risk from expanding water beads marketed as toys](https://www.theguardian.com/society/2024/dec/23/uk-doctors-warning-water-beads-toys-children)
+- [Sharp fall in UK business activity forecast as economic gloom deepens](https://www.theguardian.com/business/2024/dec/23/sharp-fall-in-uk-business-activity-forecast-cbi-economy)
+- [Russian video appears to show Australian man fighting for Ukraine captured and interrogated](https://www.theguardian.com/australia-news/2024/dec/23/russian-video-appears-to-show-australian-man-captured-in-ukraine-ntwnfb)
+- [Former champion Gary Anderson crashes out of PDC world championship](https://www.theguardian.com/sport/2024/dec/22/pdc-world-championship-darts-report-day-eight)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

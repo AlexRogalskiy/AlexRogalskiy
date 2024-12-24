@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine war briefing: Putin meets Slovak PM in rare Moscow visit to secure energy deal](https://www.theguardian.com/world/2024/dec/23/ukraine-war-briefing-putin-meets-slovak-pm-in-rare-moscow-visit-to-secure-energy-deal)
-- [Trump vows to rename Denali, North America’s tallest mountain, as Mount McKinley](https://www.theguardian.com/us-news/2024/dec/23/donald-trump-denali-america-tallest-mountain-rename-mount-mckinley)
-- [Man apprehended after woman fatally set on fire in New York subway car](https://www.theguardian.com/us-news/2024/dec/22/new-york-woman-on-fire-subway)
-- [More UK buses to run on Christmas Day than at any time in last five years](https://www.theguardian.com/uk-news/2024/dec/23/more-uk-buses-to-run-on-christmas-day-than-at-any-time-in-last-five-years)
-- [London dominates UK’s priciest postcodes with all top 20 streets](https://www.theguardian.com/business/2024/dec/23/london-dominates-uks-priciest-postcodes-with-all-top-20-streets)
-- [Chris McCausland to deliver Channel 4’s alternative Christmas message](https://www.theguardian.com/stage/2024/dec/23/chris-mccausland-channel-4-alternative-christmas-message)
-- [UK doctors warn of risk from expanding water beads marketed as toys](https://www.theguardian.com/society/2024/dec/23/uk-doctors-warning-water-beads-toys-children)
-- [Sharp fall in UK business activity forecast as economic gloom deepens](https://www.theguardian.com/business/2024/dec/23/sharp-fall-in-uk-business-activity-forecast-cbi-economy)
-- [Russian video appears to show Australian man fighting for Ukraine captured and interrogated](https://www.theguardian.com/australia-news/2024/dec/23/russian-video-appears-to-show-australian-man-captured-in-ukraine-ntwnfb)
-- [Former champion Gary Anderson crashes out of PDC world championship](https://www.theguardian.com/sport/2024/dec/22/pdc-world-championship-darts-report-day-eight)
+- [What is neijuan, and why is China worried about it?](https://www.theguardian.com/world/2024/dec/24/what-is-neijuan-china-viral-buzzword-laptop-bicycle)
+- [Ukraine war briefing: more than 3,000 North Korean military casualties in Russia’s Kursk, claims Zelenskyy](https://www.theguardian.com/world/2024/dec/24/ukraine-war-briefing-more-than-3000-north-korean-military-casualties-in-russias-kursk-says-zelenskyy)
+- [Israel confirms it killed Hamas political chief Ismail Haniyeh in Iran in July](https://www.theguardian.com/world/2024/dec/24/ismail-haniyeh-hamas-political-leader-israel-assassination)
+- [Man charged in fatal burning of woman in New York subway car](https://www.theguardian.com/us-news/2024/dec/23/kathy-hochul-subway-crime)
+- [Cyclone Tracy 50 years on: a ‘town in terror’ and the unsung heroes of Darwin’s Christmas disaster](https://www.theguardian.com/australia-news/2024/dec/24/cyclone-tracy-50-years-on-a-town-in-terror-and-the-unsung-heroes-of-darwins-christmas-disaster)
+- [Chisnall and Cross knocked out as seeds continue to fall at Alexandra Palace](https://www.theguardian.com/sport/2024/dec/23/pdc-world-darts-championship-clayton-mansell-sudden-death-leg)
+- [Part of Santa Cruz wharf collapses and floats away amid major swell](https://www.theguardian.com/us-news/2024/dec/23/santa-cruz-wharf-collapse)
+- [Here’s what I learned in medical school – beyond the curriculum | Roland Bull](https://www.theguardian.com/commentisfree/2024/dec/24/heres-what-i-learned-in-medical-school-beyond-the-curriculum)
+- [Charities warn funding cuts will have ‘dire’ effect on domestic abuse victims](https://www.theguardian.com/society/2024/dec/23/charities-warn-funding-cuts-will-have-dire-effect-on-domestic-abuse-victims)
+- [French PM names new government, hoping to avoid another no-confidence vote](https://www.theguardian.com/world/2024/dec/23/french-pm-names-new-government-hoping-to-avoid-another-no-confidence-vote)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

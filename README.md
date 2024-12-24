@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Litestack: All your data infrastructure, in one Ruby gem](https://github.com/oldmoe/litestack)
-- [Ten Years of JMAP](https://www.fastmail.com/blog/ten-years-of-jmap/)
-- [Former Agents from Israel&#39;s Mossad Detail Pager Plot Details](https://www.cbsnews.com/news/israel-former-mossad-agents-detail-explosive-pagers-hezbollah-terrorists-plot-60-minutes-transcript/)
-- [Anaesthetisation: Environment Separated from Sense –| Sense Deletion](https://www.youtube.com/watch?v=K8gwYaXPZNA)
-- [The Economist Cover Curse](https://www.readtrung.com/p/the-economist-cover-curse-explained)
-- [An efficient blocker for Chromium and Firefox. Fast and lean](https://github.com/gorhill/uBlock)
-- [Oral History of Jim Keller [video]](https://www.youtube.com/watch?v=Xh8nhK7WS80)
-- [Yup, the Universe is expanding weirdly](https://badastronomy.beehiiv.com/p/jwst-yup-the-universe-is-expanding-weirdly)
-- [How Will Ukraine Keep the Lights on This Winter?](https://www.nytimes.com/2024/12/21/world/europe/ukraine-electricity-winter.html)
-- [MapChart – create political and thematic maps](https://www.mapchart.net)
+- [I just found out I&#39;ve been using my dishwasher wrong for 7 years](https://old.reddit.com/r/mildlyinfuriating/comments/1hkh41m/i_just_found_out_ive_been_using_my_dishwasher/)
+- [Show HN: Co-Op Translator v0.6.2 – Support OpenAI and Markdown-Only Translation](https://github.com/Azure/co-op-translator)
+- [The forests that powered premodern Britain into the modern age](https://www.economist.com/christmas-specials/2024/12/19/how-premodern-energy-shaped-britain)
+- [Insurance and Taxes Now Cost More Than Mortgages for Many Homeowners](https://www.wsj.com/economy/housing/home-insurance-property-tax-vs-mortgage-cost-43ab76ed)
+- [Insider look into how billion dollars revenue retroactively reorganised](https://news.ycombinator.com/item?id=42499263)
+- [NetVentory Beautiful TUI and Web Network Inventory Scanner](https://github.com/RamboRogers/netventory)
+- [SvarDOS: DR-DOS reborn as an open source OS](https://www.theregister.com/2024/12/23/svardos_drdos_reborn/)
+- [Xenobots](https://www.youtube.com/watch?v=AYFfg4Jvaus)
+- [Learn Git and GitHub the Practical Way](https://www.udemy.com/course/learn-git-and-github-the-practical-way/?referralCode=1EDAA92449DA5F7D72C0)
+- [Data structures as jigs for programmers &lpar;Go edition&rpar; – Daniel Lemire&#39;s blog](https://lemire.me/blog/2024/12/08/data-structures-as-jigs-for-programmers-go-edition/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

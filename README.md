@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Has anyone else noticed Reddit being taken over by shills/bot/trolls](https://news.ycombinator.com/item?id=42490872)
-- [&#39;United Healthcare&#39; using DMCA against Luigi Mangione images](https://abovethelaw.com/2024/12/united-healthcare-using-dmca-against-luigi-mangione-images-which-is-bizarre-wildly-inappropriate/)
-- [Classified fighter jet specs leaked on War Thunder forums](https://ukdefencejournal.org.uk/classified-fighter-jet-specs-leaked-on-war-thunder-again/)
-- [MI300X vs. H100 vs. H200 Benchmark Part 1: Training – CUDA Moat Still Alive](https://semianalysis.com/2024/12/22/mi300x-vs-h100-vs-h200-benchmark-part-1-training/)
-- [Being a Developer in the Age of Reasoning AI](https://near.tl/developer-forever/forum/announcement/being-a-developer-in-the-age-of-reasoning-ai.anc-4b87de19-f7cf-4ef0-91c8-e28b260fd9ad.html)
-- [Whither Dashboard Design?](https://surfingcomplexity.blog/2024/12/22/whither-dashboard-design/)
-- [Finley &lpar;YC W21&rpar; Is Hiring a Growth Associate &lpar;Ex-Finance&rpar;](https://jobs.lever.co/FinleyTechnologies/429dc338-87e8-4ed7-a302-145e18027e24)
-- [Twtxt is a decentralised, minimalist microblogging service for hackers](https://twtxt.readthedocs.io/en/latest/index.html)
-- [Tokenisation Is NP-Complete](https://arxiv.org/abs/2412.15210)
-- [One way to fight loneliness: The Germans call it a Stammtisch](https://www.npr.org/2024/12/22/nx-s1-5233033/holidays-loneliness-cure-stammtisch)
+- [Demystifying Debuggers, Part 2: The Anatomy of a Running Program](https://www.rfleury.com/p/demystifying-debuggers-part-2-the)
+- [Build a Low-Cost Drone Using ESP32](https://www.digikey.com/en/maker/projects/a-step-by-step-guide-to-build-a-low-cost-drone-using-esp32/8afccd0690574bcebfa0d2ad6fd0a391)
+- [Making AMD GPUs competitive for LLM inference](https://blog.mlc.ai/2023/08/09/Making-AMD-GPUs-competitive-for-LLM-inference)
+- [Parsing millions of URLs per Second](https://onlinelibrary.wiley.com/doi/10.1002/spe.3296)
+- [Why Are Cancer Guidelines Stuck in PDFs?](https://seangeiger.substack.com/p/why-are-cancer-guidelines-stuck-in)
+- [Show HN: Complete decompilation of Lego Island](https://github.com/isledecomp/isle)
+- [Manx – a catalog of manuals for old computers](https://manx-docs.org/about.php)
+- [The journey to save the last known 43-inch Sony CRT](https://obsoletesony.substack.com/p/the-journey-to-save-the-last-known)
+- [Narrative Jailbreaking for Fun and Profit](https://interconnected.org/home/2024/12/23/jailbreaking)
+- [Why HNSW is not the answer and disk-based alternatives might be more practical](https://blog.pgvecto.rs/why-hnsw-is-not-the-answer)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

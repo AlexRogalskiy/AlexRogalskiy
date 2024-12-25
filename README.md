@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Demystifying Debuggers, Part 2: The Anatomy of a Running Program](https://www.rfleury.com/p/demystifying-debuggers-part-2-the)
-- [Build a Low-Cost Drone Using ESP32](https://www.digikey.com/en/maker/projects/a-step-by-step-guide-to-build-a-low-cost-drone-using-esp32/8afccd0690574bcebfa0d2ad6fd0a391)
-- [Making AMD GPUs competitive for LLM inference](https://blog.mlc.ai/2023/08/09/Making-AMD-GPUs-competitive-for-LLM-inference)
-- [Parsing millions of URLs per Second](https://onlinelibrary.wiley.com/doi/10.1002/spe.3296)
-- [Why Are Cancer Guidelines Stuck in PDFs?](https://seangeiger.substack.com/p/why-are-cancer-guidelines-stuck-in)
-- [Show HN: Complete decompilation of Lego Island](https://github.com/isledecomp/isle)
-- [Manx – a catalog of manuals for old computers](https://manx-docs.org/about.php)
-- [The journey to save the last known 43-inch Sony CRT](https://obsoletesony.substack.com/p/the-journey-to-save-the-last-known)
-- [Narrative Jailbreaking for Fun and Profit](https://interconnected.org/home/2024/12/23/jailbreaking)
-- [Why HNSW is not the answer and disk-based alternatives might be more practical](https://blog.pgvecto.rs/why-hnsw-is-not-the-answer)
+- [T * sin &lpar;t&rpar;&#39; ≈ Ornamented Christmas Tree &lpar;2013&rpar;](https://community.wolfram.com/c/portal/getImageAttachment?filename=tree.gif&userId=93201)
+- [Brazilian velvet ant is ultrablack](https://www.nytimes.com/2024/12/17/science/ultrablack-velvet-ant-brazil.html)
+- [Gordon Mah Ung has died](https://www.pcworld.com/article/2564783/gordon-mah-ung-remembered.html)
+- [Jujutsu Megamerges and jj Absorb](https://v5.chriskrycho.com/journal/jujutsu-megamerges-and-jj-absorb/)
+- [macOS menu bar app that shows how full the ISS urine tank is in real time](https://github.com/Jaennaet/pISSStream)
+- [Trying out QvQ – Qwen&#39;s new visual reasoning model](https://simonwillison.net/2024/Dec/24/qvq/)
+- [Shockley Semiconductor Laboratory](https://www.abortretry.fail/p/shockley-semiconductor-laboratory)
+- [Masks, Smoke, and Mirrors: The story of EgyptAir flight 804](https://admiralcloudberg.medium.com/masks-smoke-and-mirrors-the-untold-story-of-egyptair-flight-804-42c788fcac2d)
+- [Cerebrum: Simulate and infer synaptic connectivity in large-scale brain networks](https://svbrain.xyz/2024/12/20/cerebrum)
+- [Court of Milan orders Cloudflare to block ‘piracy shield’ domains, IP addresses](https://torrentfreak.com/cloudflare-must-block-piracy-shield-domains-and-ip-addresses-across-its-service-241224/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

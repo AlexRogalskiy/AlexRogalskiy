@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [What is neijuan, and why is China worried about it?](https://www.theguardian.com/world/2024/dec/24/what-is-neijuan-china-viral-buzzword-laptop-bicycle)
-- [Ukraine war briefing: more than 3,000 North Korean military casualties in Russia’s Kursk, claims Zelenskyy](https://www.theguardian.com/world/2024/dec/24/ukraine-war-briefing-more-than-3000-north-korean-military-casualties-in-russias-kursk-says-zelenskyy)
-- [Israel confirms it killed Hamas political chief Ismail Haniyeh in Iran in July](https://www.theguardian.com/world/2024/dec/24/ismail-haniyeh-hamas-political-leader-israel-assassination)
-- [Man charged in fatal burning of woman in New York subway car](https://www.theguardian.com/us-news/2024/dec/23/kathy-hochul-subway-crime)
-- [Cyclone Tracy 50 years on: a ‘town in terror’ and the unsung heroes of Darwin’s Christmas disaster](https://www.theguardian.com/australia-news/2024/dec/24/cyclone-tracy-50-years-on-a-town-in-terror-and-the-unsung-heroes-of-darwins-christmas-disaster)
-- [Chisnall and Cross knocked out as seeds continue to fall at Alexandra Palace](https://www.theguardian.com/sport/2024/dec/23/pdc-world-darts-championship-clayton-mansell-sudden-death-leg)
-- [Part of Santa Cruz wharf collapses and floats away amid major swell](https://www.theguardian.com/us-news/2024/dec/23/santa-cruz-wharf-collapse)
-- [Here’s what I learned in medical school – beyond the curriculum | Roland Bull](https://www.theguardian.com/commentisfree/2024/dec/24/heres-what-i-learned-in-medical-school-beyond-the-curriculum)
-- [Charities warn funding cuts will have ‘dire’ effect on domestic abuse victims](https://www.theguardian.com/society/2024/dec/23/charities-warn-funding-cuts-will-have-dire-effect-on-domestic-abuse-victims)
-- [French PM names new government, hoping to avoid another no-confidence vote](https://www.theguardian.com/world/2024/dec/23/french-pm-names-new-government-hoping-to-avoid-another-no-confidence-vote)
+- [Ukraine war briefing: North Korean troops yet to make major impact on fighting, says Ukraine military intelligence](https://www.theguardian.com/world/2024/dec/25/ukraine-war-briefing-north-korean-troops-yet-to-make-major-impact-on-fighting-says-ukraine-military-intelligence)
+- [C of E must ‘kneel in penitence’ after difficult year, says archbishop of York](https://www.theguardian.com/world/2024/dec/25/c-of-e-must-kneel-in-penitence-after-difficult-year-says-archbishop-of-york)
+- [Nigel Farage offers to work with Peter Mandelson to secure US-UK trade deal](https://www.theguardian.com/politics/2024/dec/24/nigel-farage-offers-to-work-with-peter-mandelson-to-secure-us-uk-trade-deal)
+- [DJ Alfredo, icon of Ibiza’s dance music scene, dies aged 71](https://www.theguardian.com/music/2024/dec/24/dj-alfredo-icon-of-ibizas-dance-music-scene-dies-aged-71)
+- [Extreme heat and bushfire risk across Australia’s south-east on Christmas and Boxing days as Grampians blaze rages](https://www.theguardian.com/australia-news/2024/dec/25/extreme-heat-and-bushfire-risk-across-australias-south-east-on-christmas-and-boxing-days-as-grampians-blaze-rages)
+- [Two puppies at once was a terrible idea. But Earl and Monty stole my heart | Jenny Sinclair](https://www.theguardian.com/commentisfree/2024/dec/25/two-puppies-at-once-was-a-terrible-idea-but-earl-and-monty-stole-my-heart)
+- [A Ghost Story for Christmas: Woman of Stone review – this E Nesbit tale definitely ain’t The Railway Children](https://www.theguardian.com/tv-and-radio/2024/dec/24/a-ghost-story-for-christmas-woman-of-stone-review-this-e-nesbit-tale-definitely-aint-the-railway-children)
+- [Pope launches jubilee year expected to bring millions of visitors to Rome](https://www.theguardian.com/world/2024/dec/24/pope-launches-jubilee-year-expected-to-bring-millions-of-visitors-to-rome)
+- [At least two dead after armed men open fire at hospital reopening in Haiti](https://www.theguardian.com/world/2024/dec/24/haiti-hospital-reopening-shooting)
+- [Trump says DoJ will ‘vigorously’ pursue death penalty after Biden commutations](https://www.theguardian.com/us-news/2024/dec/24/trump-death-penalty-justice-department-biden-commutations)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine war briefing: North Korean troops yet to make major impact on fighting, says Ukraine military intelligence](https://www.theguardian.com/world/2024/dec/25/ukraine-war-briefing-north-korean-troops-yet-to-make-major-impact-on-fighting-says-ukraine-military-intelligence)
-- [C of E must ‘kneel in penitence’ after difficult year, says archbishop of York](https://www.theguardian.com/world/2024/dec/25/c-of-e-must-kneel-in-penitence-after-difficult-year-says-archbishop-of-york)
-- [Nigel Farage offers to work with Peter Mandelson to secure US-UK trade deal](https://www.theguardian.com/politics/2024/dec/24/nigel-farage-offers-to-work-with-peter-mandelson-to-secure-us-uk-trade-deal)
-- [DJ Alfredo, icon of Ibiza’s dance music scene, dies aged 71](https://www.theguardian.com/music/2024/dec/24/dj-alfredo-icon-of-ibizas-dance-music-scene-dies-aged-71)
-- [Extreme heat and bushfire risk across Australia’s south-east on Christmas and Boxing days as Grampians blaze rages](https://www.theguardian.com/australia-news/2024/dec/25/extreme-heat-and-bushfire-risk-across-australias-south-east-on-christmas-and-boxing-days-as-grampians-blaze-rages)
-- [Two puppies at once was a terrible idea. But Earl and Monty stole my heart | Jenny Sinclair](https://www.theguardian.com/commentisfree/2024/dec/25/two-puppies-at-once-was-a-terrible-idea-but-earl-and-monty-stole-my-heart)
-- [A Ghost Story for Christmas: Woman of Stone review – this E Nesbit tale definitely ain’t The Railway Children](https://www.theguardian.com/tv-and-radio/2024/dec/24/a-ghost-story-for-christmas-woman-of-stone-review-this-e-nesbit-tale-definitely-aint-the-railway-children)
-- [Pope launches jubilee year expected to bring millions of visitors to Rome](https://www.theguardian.com/world/2024/dec/24/pope-launches-jubilee-year-expected-to-bring-millions-of-visitors-to-rome)
-- [At least two dead after armed men open fire at hospital reopening in Haiti](https://www.theguardian.com/world/2024/dec/24/haiti-hospital-reopening-shooting)
-- [Trump says DoJ will ‘vigorously’ pursue death penalty after Biden commutations](https://www.theguardian.com/us-news/2024/dec/24/trump-death-penalty-justice-department-biden-commutations)
+- [Boxing Day Test 2024: Australia vs India fourth men’s cricket Test, day one – live updates](https://www.theguardian.com/sport/live/2024/dec/26/australia-vs-india-boxing-day-test-cricket-day-1-scores-results-start-time-melbourne-mcg)
+- [Victorian bushfires: firefighters warn against travel in ‘critical part of the day’ as extreme conditions develop](https://www.theguardian.com/australia-news/2024/dec/26/boxing-day-bushfire-risk-high-grampians-victoria-south-eas)
+- [Beyoncé NFL half-time show review – country ho-ho-ho-down live-streamed on Netflix is playful and infectious](https://www.theguardian.com/music/2024/dec/26/beyonce-netflix-nfl-halftime-performance-review-ravens-vs-texans)
+- [Indian Ocean tsunami: how survivors found love after Boxing Day disaster](https://www.theguardian.com/environment/2024/dec/26/indian-ocean-tsunami-how-survivors-found-love-after-boxing-day-disaster)
+- [Defra scraps England deadline to register thousands of miles of rights of way](https://www.theguardian.com/environment/2024/dec/26/defra-scraps-england-deadline-to-register-thousands-of-miles-of-rights-of-way)
+- [Train passengers in Britain still facing record number of cancellations](https://www.theguardian.com/uk-news/2024/dec/26/train-passengers-in-britain-still-facing-record-number-of-cancellations)
+- [Boxing Day movies 2024: Anora, Better Man, Sonic the Hedgehog 3 and more – our guide to all the films out in Australia](https://www.theguardian.com/film/2024/dec/23/anora-better-man-and-sonic-3-the-biggest-boxing-day-films-out-in-australia)
+- [Syrian forces suffer 14 fatalities in countryside clashes](https://www.theguardian.com/world/2024/dec/25/syrian-forces-suffer-14-fatalities-in-countryside-clashes)
+- [2m x 6m with a composting toilet: New Zealand embraces tiny home living](https://www.theguardian.com/world/2024/dec/26/2m-x-6m-with-a-composting-toilet-new-zealand-embraces-tiny-home-living)
+- [Gavin &amp; Stacey: The Finale review – you will be forcibly moved to tears](https://www.theguardian.com/tv-and-radio/2024/dec/25/gavin-stacey-the-finale-review-you-will-be-forcibly-moved-to-tears)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

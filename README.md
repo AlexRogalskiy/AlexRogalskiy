@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [T * sin &lpar;t&rpar;&#39; ≈ Ornamented Christmas Tree &lpar;2013&rpar;](https://community.wolfram.com/c/portal/getImageAttachment?filename=tree.gif&userId=93201)
-- [Brazilian velvet ant is ultrablack](https://www.nytimes.com/2024/12/17/science/ultrablack-velvet-ant-brazil.html)
-- [Gordon Mah Ung has died](https://www.pcworld.com/article/2564783/gordon-mah-ung-remembered.html)
-- [Jujutsu Megamerges and jj Absorb](https://v5.chriskrycho.com/journal/jujutsu-megamerges-and-jj-absorb/)
-- [macOS menu bar app that shows how full the ISS urine tank is in real time](https://github.com/Jaennaet/pISSStream)
-- [Trying out QvQ – Qwen&#39;s new visual reasoning model](https://simonwillison.net/2024/Dec/24/qvq/)
-- [Shockley Semiconductor Laboratory](https://www.abortretry.fail/p/shockley-semiconductor-laboratory)
-- [Masks, Smoke, and Mirrors: The story of EgyptAir flight 804](https://admiralcloudberg.medium.com/masks-smoke-and-mirrors-the-untold-story-of-egyptair-flight-804-42c788fcac2d)
-- [Cerebrum: Simulate and infer synaptic connectivity in large-scale brain networks](https://svbrain.xyz/2024/12/20/cerebrum)
-- [Court of Milan orders Cloudflare to block ‘piracy shield’ domains, IP addresses](https://torrentfreak.com/cloudflare-must-block-piracy-shield-domains-and-ip-addresses-across-its-service-241224/)
+- [Show HN: Map of YC Startups](https://yc-map.vercel.app/)
+- [I Saved an Electron Microscope from the Trash [video]](https://www.youtube.com/watch?v=Kqx9blbYDB0)
+- [Server-Sent Events &lpar;SSE&rpar; Are Underrated](https://igorstechnoclub.com/server-sent-events-sse-are-underrated/)
+- [Air missile accident emerges as probable cause of Azerbaijan E190tragedy](https://www.euronews.com/2024/12/25/azerbaijani-passenger-plane-crashes-near-kazakh-city-of-aktau)
+- [I Thought I Found a Bug](https://www.os2museum.com/wp/i-thought-i-found-a-bug/)
+- [Into CPS, Never to Return](https://bernsteinbear.com/blog/cps/)
+- [Portspoof: Emulate a valid service on all 65535 TCP ports](https://github.com/drk1wi/portspoof)
+- [Sherlock: Hunt down social media accounts by username across 400 social networks](https://sherlockproject.xyz/)
+- [Ask HN: Resources for general purpose GPU development on Apple&#39;s M* chips?](https://news.ycombinator.com/item?id=42509730)
+- [F*: A proof oriented general purpose programming language](https://fstar-lang.org/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

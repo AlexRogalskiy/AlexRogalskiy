@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Solar, EVs and a Big Exit from Coal: 2024&#39;s Good Climate News](https://www.bloomberg.com/news/articles/2024-12-24/solar-evs-and-a-big-exit-from-coal-2024-s-good-climate-news)
-- [Toward testing the quantum behavior of gravity: A photonic quantum simulation](https://phys.org/news/2024-06-quantum-behavior-gravity-photonic-simulation.html)
-- [&#39;ecology stereotypes,&#39; how perceptions are influenced by others&#39; backgrounds](https://phys.org/news/2024-12-ecology-stereotypes-perceptions-backgrounds.html)
-- [Why US borrowing could soon eclipse Greece and Italy as world drowns in debt](https://www.telegraph.co.uk/business/2024/12/24/why-us-borrowing-eclipse-greece-and-italy-word-drowns-debt/)
-- [Relativistic quantum fields are universal entanglement embezzlers](https://journals.aps.org/prl/accepted/32073Yd2G141638436cb80158f81e5982dab8b73f)
-- [Show HN: Rust-based IDE for mobile development](https://github.com/manuelcabanzo/zzz)
-- [Diffusion Meets Flow Matching: Two Sides of the Same Coin](https://diffusionflow.github.io/)
-- [Monoli: small crystal cube that reduces the resolution of objects](https://monoli-shop.com/)
-- [Official Norad Tracks Santa](https://www.noradsanta.org/en/map)
-- [Ask HN: AGI is here, what do you do next?](https://news.ycombinator.com/item?id=42506349)
+- [Bird flu kills more than half the big cats at a Washington sanctuary](https://www.cnn.com/2024/12/25/us/bird-flu-washington-cats-cases/index.html)
+- [Agentic AI vs. Generative AI: Understanding the Key Differences and Impacts](https://myscale.com/blog/agentic-ai-vs-generative-ai/)
+- [Should SaaS startups offer on-prem?](https://gregmfoster.substack.com/p/should-saas-startups-offer-on-prem)
+- [Oregon house cat dies from eating product that tested positive for bird flu](https://www.cnn.com/2024/12/25/us/bird-flu-pet-food-voluntary-recall/index.html)
+- [Neopets HTML Guide](https://www.neopets.com/help/html1.phtml)
+- [Russia bans crypto mining in multiple regions, citing energy concerns](https://www.engadget.com/big-tech/russia-bans-crypto-mining-in-multiple-regions-citing-energy-concerns-163102174.html)
+- [Log-structured file systems: There&#39;s one in every SSD](https://lwn.net/Articles/353411/)
+- [10BASE2](https://en.wikipedia.org/wiki/10BASE2)
+- [What&#39;s New in Ruby 3.4](https://nithinbekal.com/posts/ruby-3-4/)
+- [Compiling Swift Generics [pdf]](https://download.swift.org/docs/assets/generics.pdf)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

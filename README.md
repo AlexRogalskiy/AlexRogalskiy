@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Boxing Day Test 2024: Australia vs India fourth men’s cricket Test, day one – live updates](https://www.theguardian.com/sport/live/2024/dec/26/australia-vs-india-boxing-day-test-cricket-day-1-scores-results-start-time-melbourne-mcg)
-- [Victorian bushfires: firefighters warn against travel in ‘critical part of the day’ as extreme conditions develop](https://www.theguardian.com/australia-news/2024/dec/26/boxing-day-bushfire-risk-high-grampians-victoria-south-eas)
-- [Beyoncé NFL half-time show review – country ho-ho-ho-down live-streamed on Netflix is playful and infectious](https://www.theguardian.com/music/2024/dec/26/beyonce-netflix-nfl-halftime-performance-review-ravens-vs-texans)
-- [Indian Ocean tsunami: how survivors found love after Boxing Day disaster](https://www.theguardian.com/environment/2024/dec/26/indian-ocean-tsunami-how-survivors-found-love-after-boxing-day-disaster)
-- [Defra scraps England deadline to register thousands of miles of rights of way](https://www.theguardian.com/environment/2024/dec/26/defra-scraps-england-deadline-to-register-thousands-of-miles-of-rights-of-way)
-- [Train passengers in Britain still facing record number of cancellations](https://www.theguardian.com/uk-news/2024/dec/26/train-passengers-in-britain-still-facing-record-number-of-cancellations)
-- [Boxing Day movies 2024: Anora, Better Man, Sonic the Hedgehog 3 and more – our guide to all the films out in Australia](https://www.theguardian.com/film/2024/dec/23/anora-better-man-and-sonic-3-the-biggest-boxing-day-films-out-in-australia)
-- [Syrian forces suffer 14 fatalities in countryside clashes](https://www.theguardian.com/world/2024/dec/25/syrian-forces-suffer-14-fatalities-in-countryside-clashes)
-- [2m x 6m with a composting toilet: New Zealand embraces tiny home living](https://www.theguardian.com/world/2024/dec/26/2m-x-6m-with-a-composting-toilet-new-zealand-embraces-tiny-home-living)
-- [Gavin &amp; Stacey: The Finale review – you will be forcibly moved to tears](https://www.theguardian.com/tv-and-radio/2024/dec/25/gavin-stacey-the-finale-review-you-will-be-forcibly-moved-to-tears)
+- [Boxing Day Test 2024: Australia vs India fourth men’s cricket Test, day two – live updates](https://www.theguardian.com/sport/live/2024/dec/27/australia-vs-india-boxing-day-test-cricket-day-2-scores-results-start-time-melbourne-mcg)
+- [Yoon Sook Yeol impeachment: court hearings to begin in South Korea over president’s martial law crisis](https://www.theguardian.com/world/2024/dec/27/south-korea-president-yoon-suk-yeol-impeachment-trial-president-martial-law)
+- [UN voices alarm after WHO chief caught up in deadly Israeli strike on Yemen airport](https://www.theguardian.com/world/2024/dec/27/israel-strike-yemen-sanaa-airport-world-health-organization-who-tedros-adhanom-ghebreyesus)
+- [Ukraine war briefing: Nato condemns possible sabotage of Baltic Sea cables](https://www.theguardian.com/world/2024/dec/27/ukraine-war-briefing-nato-condemns-possible-sabotage-of-baltic-sea-cables)
+- [Sydney to Hobart yacht race: third death averted on night of ‘big seas’ and wild weather](https://www.theguardian.com/sport/2024/dec/27/sydney-to-hobart-yacht-race-2024-two-sailors-killed)
+- [‘Nothing to talk about’: Panama president dismisses Trump’s threats over canal](https://www.theguardian.com/world/2024/dec/27/donald-trump-panama-canal-president-threat-jose-raul-mulino)
+- [Labour backs plans for £15m fund to distribute surplus food from farms](https://www.theguardian.com/environment/2024/dec/27/labour-backs-plans-for-15m-fund-to-distribute-surplus-food-from-farms)
+- [National Trust records ‘alarming’ drop in insects and seabirds at its sites](https://www.theguardian.com/environment/2024/dec/27/national-trust-records-alarming-drop-in-insects-and-seabirds-at-its-sites)
+- [Northern Ireland Office ‘should have protected’ murdered solicitor](https://www.theguardian.com/uk-news/2024/dec/27/northern-ireland-office-protected-murdered-solicitor-rosemary-nelson)
+- [Bird flu virus shows mutations in first severe human infection in US, CDC says](https://www.theguardian.com/world/2024/dec/26/bird-flu-virus-mutations)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

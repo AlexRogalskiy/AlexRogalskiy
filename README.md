@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Show HN: Map of YC Startups](https://yc-map.vercel.app/)
-- [I Saved an Electron Microscope from the Trash [video]](https://www.youtube.com/watch?v=Kqx9blbYDB0)
-- [Server-Sent Events &lpar;SSE&rpar; Are Underrated](https://igorstechnoclub.com/server-sent-events-sse-are-underrated/)
-- [Air missile accident emerges as probable cause of Azerbaijan E190tragedy](https://www.euronews.com/2024/12/25/azerbaijani-passenger-plane-crashes-near-kazakh-city-of-aktau)
-- [I Thought I Found a Bug](https://www.os2museum.com/wp/i-thought-i-found-a-bug/)
-- [Into CPS, Never to Return](https://bernsteinbear.com/blog/cps/)
-- [Portspoof: Emulate a valid service on all 65535 TCP ports](https://github.com/drk1wi/portspoof)
-- [Sherlock: Hunt down social media accounts by username across 400 social networks](https://sherlockproject.xyz/)
-- [Ask HN: Resources for general purpose GPU development on Apple&#39;s M* chips?](https://news.ycombinator.com/item?id=42509730)
-- [F*: A proof oriented general purpose programming language](https://fstar-lang.org/)
+- [Ask HN: Which courses/classes are you excited about in 2025?](https://news.ycombinator.com/item?id=42519154)
+- [Bill requiring US agencies to share source code with each other becomes law](https://fedscoop.com/agencies-must-share-custom-source-code-under-new-share-it-act/)
+- [A Tongue-in-Cheek Look Back at Broderbund&#39;s &#39;The Print Shop&#39;](https://theprintshop.club/2021/07/12/a-tongue-in-cheek-look-back-at-broderbunds-the-print-shop/)
+- [Thermodynamic model identifies how gold reaches Earth&#39;s surface](https://phys.org/news/2024-12-thermodynamic-gold-earth-surface.html)
+- [The CAP theorem of Clustering: Why Every Algorithm Must Sacrifice Something](https://blog.codingconfessions.com/p/the-cap-theorem-of-clustering)
+- [Reverse Engineering the Stream Deck+](https://den.dev/blog/reverse-engineer-stream-deck-plus/)
+- [Magnetic swarm intelligence of mass-produced, programmable microrobot assemblies](https://www.cell.com/device/fulltext/S2666-9986(24)00583-0?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666998624005830%3Fshowall%3Dtrue)
+- [Inverse Design of Complex Nanoparticle Heterostructures via DL on Graphs](https://chemrxiv.org/engage/chemrxiv/article-details/6769dc3a81d2151a02b75ef6)
+- [Sub-pixel distance transform &lpar;2023&rpar;](https://acko.net/blog/subpixel-distance-transform/)
+- [Ghostty 1.0](https://ghostty.org/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

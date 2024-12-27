@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Bird flu kills more than half the big cats at a Washington sanctuary](https://www.cnn.com/2024/12/25/us/bird-flu-washington-cats-cases/index.html)
-- [Agentic AI vs. Generative AI: Understanding the Key Differences and Impacts](https://myscale.com/blog/agentic-ai-vs-generative-ai/)
-- [Should SaaS startups offer on-prem?](https://gregmfoster.substack.com/p/should-saas-startups-offer-on-prem)
-- [Oregon house cat dies from eating product that tested positive for bird flu](https://www.cnn.com/2024/12/25/us/bird-flu-pet-food-voluntary-recall/index.html)
-- [Neopets HTML Guide](https://www.neopets.com/help/html1.phtml)
-- [Russia bans crypto mining in multiple regions, citing energy concerns](https://www.engadget.com/big-tech/russia-bans-crypto-mining-in-multiple-regions-citing-energy-concerns-163102174.html)
-- [Log-structured file systems: There&#39;s one in every SSD](https://lwn.net/Articles/353411/)
-- [10BASE2](https://en.wikipedia.org/wiki/10BASE2)
-- [What&#39;s New in Ruby 3.4](https://nithinbekal.com/posts/ruby-3-4/)
-- [Compiling Swift Generics [pdf]](https://download.swift.org/docs/assets/generics.pdf)
+- [Against a universal definition of &#39;type&#39; [pdf]](https://jimmyhmiller.github.io/pdfs/against-types.pdf)
+- [The Case for Value-Based Care](https://thetakeoff.substack.com/p/the-case-for-value-based-care)
+- [Add User in C Program](https://github.com/LorenzoPiombini/libuser)
+- [Show HN: I made a Unix-like kernel, Goldspace](https://github.com/Goldside543/goldspace)
+- [LFFS: Simplicity vs. Efficiency](https://bytes.zone/micro/lffs-002/)
+- [The most uninstalled Mac apps of 2024](https://www.iboostup.com/blog/top-mac-apps-most-uninstalled-2024)
+- [Jobs Have Stopped Hiring, but Why? [video]](https://www.youtube.com/watch?v=VMPDAHMzbkM)
+- [The Universe of Beatrix Potter](https://edbrims.github.io/emsot/beatrix.html)
+- [Deciding to read a book a week was the best new year resolution I ever made](https://www.theguardian.com/commentisfree/2024/dec/27/deciding-to-read-a-book-a-week-was-the-best-new-year-resolution-i-ever-made)
+- [A Vision for Embedded Swift](https://github.com/swiftlang/swift-evolution/blob/main/visions/embedded-swift.md)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

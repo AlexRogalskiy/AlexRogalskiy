@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Ask HN: Which courses/classes are you excited about in 2025?](https://news.ycombinator.com/item?id=42519154)
-- [Bill requiring US agencies to share source code with each other becomes law](https://fedscoop.com/agencies-must-share-custom-source-code-under-new-share-it-act/)
-- [A Tongue-in-Cheek Look Back at Broderbund&#39;s &#39;The Print Shop&#39;](https://theprintshop.club/2021/07/12/a-tongue-in-cheek-look-back-at-broderbunds-the-print-shop/)
-- [Thermodynamic model identifies how gold reaches Earth&#39;s surface](https://phys.org/news/2024-12-thermodynamic-gold-earth-surface.html)
-- [The CAP theorem of Clustering: Why Every Algorithm Must Sacrifice Something](https://blog.codingconfessions.com/p/the-cap-theorem-of-clustering)
-- [Reverse Engineering the Stream Deck+](https://den.dev/blog/reverse-engineer-stream-deck-plus/)
-- [Magnetic swarm intelligence of mass-produced, programmable microrobot assemblies](https://www.cell.com/device/fulltext/S2666-9986(24)00583-0?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666998624005830%3Fshowall%3Dtrue)
-- [Inverse Design of Complex Nanoparticle Heterostructures via DL on Graphs](https://chemrxiv.org/engage/chemrxiv/article-details/6769dc3a81d2151a02b75ef6)
-- [Sub-pixel distance transform &lpar;2023&rpar;](https://acko.net/blog/subpixel-distance-transform/)
-- [Ghostty 1.0](https://ghostty.org/)
+- [Carlsen Disqualified from World Rapid and Blitz Championship for Wearing Jeans](https://www.timesnownews.com/sports/magnus-carlsen-disqualified-from-world-rapid-and-blitz-championship-for-wearing-jeans-article-116727852)
+- [Liberating Wi-Fi on the ESP32 [video]](https://media.ccc.de/v/38c3-liberating-wi-fi-on-the-esp32)
+- [How to Create HTML/ZIP/PNG Polyglot Files](https://gildas-lormeau.github.io/Polyglot-HTML-ZIP-PNG/SUMMARY.html)
+- [Spotify is full of AI music](https://www.fastcompany.com/91170296/spotify-ai-music)
+- [Show HN: Minimal, self-hosted exercise tracker](https://github.com/bmtwl/exerciseminimilism)
+- [Demystifying Common Microcontroller Debug Protocols [video]](https://media.ccc.de/v/38c3-demystifying-common-microcontroller-debug-protocols)
+- [Breaking the Mirror – A Look at Apple&#39;s New iPhone Remote Control Feature [video]](https://media.ccc.de/v/38c3-breaking-the-mirror-a-look-at-apple-s-new-iphone-remote-control-feature)
+- [DivestOS ROM shuts after ten years](https://divestos.org/pages/news#end)
+- [Plasticlist Report – Data on plastic chemicals in Bay Area foods](https://www.plasticlist.org/report)
+- [TSMC&#39;s Arizona Plant to Start Making Advanced Chips](https://spectrum.ieee.org/tsmc-arizona)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

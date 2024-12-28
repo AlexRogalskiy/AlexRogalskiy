@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Against a universal definition of &#39;type&#39; [pdf]](https://jimmyhmiller.github.io/pdfs/against-types.pdf)
-- [The Case for Value-Based Care](https://thetakeoff.substack.com/p/the-case-for-value-based-care)
-- [Add User in C Program](https://github.com/LorenzoPiombini/libuser)
-- [Show HN: I made a Unix-like kernel, Goldspace](https://github.com/Goldside543/goldspace)
-- [LFFS: Simplicity vs. Efficiency](https://bytes.zone/micro/lffs-002/)
-- [The most uninstalled Mac apps of 2024](https://www.iboostup.com/blog/top-mac-apps-most-uninstalled-2024)
-- [Jobs Have Stopped Hiring, but Why? [video]](https://www.youtube.com/watch?v=VMPDAHMzbkM)
-- [The Universe of Beatrix Potter](https://edbrims.github.io/emsot/beatrix.html)
-- [Deciding to read a book a week was the best new year resolution I ever made](https://www.theguardian.com/commentisfree/2024/dec/27/deciding-to-read-a-book-a-week-was-the-best-new-year-resolution-i-ever-made)
-- [A Vision for Embedded Swift](https://github.com/swiftlang/swift-evolution/blob/main/visions/embedded-swift.md)
+- [P2P: Napster for Your Network &lpar;2001&rpar;](https://www.zdnet.com/article/p2p-napster-for-your-network/)
+- [Effect of heated mittens on hand function in people with osteoarthritis: RCT](https://www.bmj.com/content/387/bmj-2023-078222)
+- [Opponents of Elon Musk claim he stripped them of their X badges](https://www.cnn.com/2024/12/27/tech/maga-musk-x-visas/index.html)
+- [The USB-C charging mandate arrives in the EU – here&#39;s what that means](https://www.theverge.com/24330106/usb-c-common-charger-directive-explained-europe)
+- [Adobe Raises Monthly Photography Plan Prices](https://mjtsai.com/blog/2024/12/27/adobe-raises-monthly-photography-plan-prices/)
+- [Ask HN: Is it right to see &quot;AI&quot; just as a tool or there&#39;s more to it](https://news.ycombinator.com/item?id=42527988)
+- [TSA on What Netflix&#39;s &#39;Carry-On&#39; Gets Wrong About Airport Security](https://www.newsweek.com/tsa-what-netflixs-carry-gets-wrong-about-airport-security-2006359)
+- [Mixin is a trait/mixin and bytecode weaving framework for Java using ASM](https://github.com/SpongePowered/Mixin)
+- [How I learned to stop worrying and embrace contextuality](https://assumptionsofphysics.org/essays/2024-10-15-embracing-contextuality)
+- [Show HN: Find Native Speakers to Practice Languages With](https://ilang.io/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

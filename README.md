@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Boxing Day Test 2024: Australia vs India fourth men’s cricket Test, day two – live updates](https://www.theguardian.com/sport/live/2024/dec/27/australia-vs-india-boxing-day-test-cricket-day-2-scores-results-start-time-melbourne-mcg)
-- [Yoon Sook Yeol impeachment: court hearings to begin in South Korea over president’s martial law crisis](https://www.theguardian.com/world/2024/dec/27/south-korea-president-yoon-suk-yeol-impeachment-trial-president-martial-law)
-- [UN voices alarm after WHO chief caught up in deadly Israeli strike on Yemen airport](https://www.theguardian.com/world/2024/dec/27/israel-strike-yemen-sanaa-airport-world-health-organization-who-tedros-adhanom-ghebreyesus)
-- [Ukraine war briefing: Nato condemns possible sabotage of Baltic Sea cables](https://www.theguardian.com/world/2024/dec/27/ukraine-war-briefing-nato-condemns-possible-sabotage-of-baltic-sea-cables)
-- [Sydney to Hobart yacht race: third death averted on night of ‘big seas’ and wild weather](https://www.theguardian.com/sport/2024/dec/27/sydney-to-hobart-yacht-race-2024-two-sailors-killed)
-- [‘Nothing to talk about’: Panama president dismisses Trump’s threats over canal](https://www.theguardian.com/world/2024/dec/27/donald-trump-panama-canal-president-threat-jose-raul-mulino)
-- [Labour backs plans for £15m fund to distribute surplus food from farms](https://www.theguardian.com/environment/2024/dec/27/labour-backs-plans-for-15m-fund-to-distribute-surplus-food-from-farms)
-- [National Trust records ‘alarming’ drop in insects and seabirds at its sites](https://www.theguardian.com/environment/2024/dec/27/national-trust-records-alarming-drop-in-insects-and-seabirds-at-its-sites)
-- [Northern Ireland Office ‘should have protected’ murdered solicitor](https://www.theguardian.com/uk-news/2024/dec/27/northern-ireland-office-protected-murdered-solicitor-rosemary-nelson)
-- [Bird flu virus shows mutations in first severe human infection in US, CDC says](https://www.theguardian.com/world/2024/dec/26/bird-flu-virus-mutations)
+- [Australia v India: fourth men’s cricket Test, day three – live](https://www.theguardian.com/sport/live/2024/dec/28/australia-vs-india-boxing-day-test-cricket-day-3-scores-results-start-time-melbourne-mcg)
+- [Driver behind China car ramming attack that killed 35 is sentenced to death](https://www.theguardian.com/world/2024/dec/28/china-car-ramming-attack-death-sentence-zhuhai-fan-weiqiu)
+- [Janet Yellen issues warning to Congress as US nears debt limit](https://www.theguardian.com/us-news/2024/dec/27/janet-yellen-congress-debt-ceiling-limit)
+- [Trump asks US supreme court to pause ban-or-divest law for TikTok](https://www.theguardian.com/technology/2024/dec/27/trump-supreme-court-tiktok-ban)
+- [Assaults in prisons in England and Wales rise to average of 74 a day](https://www.theguardian.com/society/2024/dec/28/assaults-rise-prisons-england-and-wales)
+- [Almost one in five children live in conflict zones, says Unicef](https://www.theguardian.com/society/2024/dec/28/almost-one-in-five-children-live-in-conflict-zones-says-unicef)
+- [Chess: Carlsen disqualified in New York after refusing to change out of jeans](https://www.theguardian.com/sport/2024/dec/27/chess-carlsen-targets-rapid-and-blitz-gold-on-wall-street-this-weekend)
+- [Raffi Quirke leads rampant Sale to demolish Bristol in statement win](https://www.theguardian.com/sport/2024/dec/27/raffi-quirke-leads-rampant-sale-to-demolish-bristol-in-statement-win)
+- [Last major health facility in north Gaza ‘out of service’ after Israeli attack](https://www.theguardian.com/global-development/2024/dec/27/israeli-forces-raid-gaza-hospital-after-staff-reported-killed-in-strike)
+- [Kai Havertz guides Arsenal past Ipswich to show there is life without Saka](https://www.theguardian.com/football/2024/dec/27/arsenal-ipswich-premier-league-match-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

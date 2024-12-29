@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Carlsen Disqualified from World Rapid and Blitz Championship for Wearing Jeans](https://www.timesnownews.com/sports/magnus-carlsen-disqualified-from-world-rapid-and-blitz-championship-for-wearing-jeans-article-116727852)
-- [Liberating Wi-Fi on the ESP32 [video]](https://media.ccc.de/v/38c3-liberating-wi-fi-on-the-esp32)
-- [How to Create HTML/ZIP/PNG Polyglot Files](https://gildas-lormeau.github.io/Polyglot-HTML-ZIP-PNG/SUMMARY.html)
-- [Spotify is full of AI music](https://www.fastcompany.com/91170296/spotify-ai-music)
-- [Show HN: Minimal, self-hosted exercise tracker](https://github.com/bmtwl/exerciseminimilism)
-- [Demystifying Common Microcontroller Debug Protocols [video]](https://media.ccc.de/v/38c3-demystifying-common-microcontroller-debug-protocols)
-- [Breaking the Mirror – A Look at Apple&#39;s New iPhone Remote Control Feature [video]](https://media.ccc.de/v/38c3-breaking-the-mirror-a-look-at-apple-s-new-iphone-remote-control-feature)
-- [DivestOS ROM shuts after ten years](https://divestos.org/pages/news#end)
-- [Plasticlist Report – Data on plastic chemicals in Bay Area foods](https://www.plasticlist.org/report)
-- [TSMC&#39;s Arizona Plant to Start Making Advanced Chips](https://spectrum.ieee.org/tsmc-arizona)
+- [Personal Mail Server on OpenBSD](https://nicolascarpi.github.io/openbsd/2019/04/03/openbsd-mail-server.html)
+- [Plane Crashes at South Korea Airport, Killing at Least 28](https://www.bloomberg.com/news/articles/2024-12-29/plane-crashes-at-s-korea-airport-killing-at-least-23-yonhap)
+- [Show HN: Resizer2 – i3/KDE window movement on Windows](https://github.com/alvesvaren/resizer2)
+- [38C3: Blinkencity, radio controlling street lamps and power plants [video]](https://media.ccc.de/v/38c3-blinkencity-radio-controlling-street-lamps-and-power-plants)
+- [Finding and exploiting hidden features of Animal Crossing&#39;s NES emulator &lpar;2018&rpar;](https://jamchamb.net/2018/07/11/animal-crossing-nes-emulator-hacks.html)
+- [Fish 4.0: The Fish of Theseus](https://fishshell.com/blog/rustport/)
+- [Intel&#39;s $475M error: the silicon behind the Pentium division bug](https://www.righto.com/2024/12/this-die-photo-of-pentium-shows.html)
+- [Family of OpenAI whistleblower Suchir Balaji demand FBI investigate death](https://www.theguardian.com/us-news/2024/dec/28/openai-whistleblower-suchir-balaji)
+- [AnkiAIUtils: Flashcards+AI Illustrations, Explanations, Mnemonics etc. – FOSS](https://github.com/thiswillbeyourgithub/AnkiAIUtils)
+- [EU law mandating universal chargers for devices comes into force](https://www.france24.com/en/europe/20241228-eu-law-mandating-universal-chargers-for-devices-comes-into-force)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [P2P: Napster for Your Network &lpar;2001&rpar;](https://www.zdnet.com/article/p2p-napster-for-your-network/)
-- [Effect of heated mittens on hand function in people with osteoarthritis: RCT](https://www.bmj.com/content/387/bmj-2023-078222)
-- [Opponents of Elon Musk claim he stripped them of their X badges](https://www.cnn.com/2024/12/27/tech/maga-musk-x-visas/index.html)
-- [The USB-C charging mandate arrives in the EU – here&#39;s what that means](https://www.theverge.com/24330106/usb-c-common-charger-directive-explained-europe)
-- [Adobe Raises Monthly Photography Plan Prices](https://mjtsai.com/blog/2024/12/27/adobe-raises-monthly-photography-plan-prices/)
-- [Ask HN: Is it right to see &quot;AI&quot; just as a tool or there&#39;s more to it](https://news.ycombinator.com/item?id=42527988)
-- [TSA on What Netflix&#39;s &#39;Carry-On&#39; Gets Wrong About Airport Security](https://www.newsweek.com/tsa-what-netflixs-carry-gets-wrong-about-airport-security-2006359)
-- [Mixin is a trait/mixin and bytecode weaving framework for Java using ASM](https://github.com/SpongePowered/Mixin)
-- [How I learned to stop worrying and embrace contextuality](https://assumptionsofphysics.org/essays/2024-10-15-embracing-contextuality)
-- [Show HN: Find Native Speakers to Practice Languages With](https://ilang.io/)
+- [Operational Responsibility](https://blog.palantir.com/operational-responsibility-is-the-only-way-to-deliver-software-8331676a2163)
+- [The Chart of Everything](https://www.economist.com/interactive/christmas-specials/2024/12/21/the-chart-of-everything)
+- [I downloaded five years of H-1B data from the US DOL website &lpar;4M+ records&rpar;](https://twitter.com/RobertMSterling/status/1873174358535110953)
+- [Big five publishers have abandoned literary fiction, putting it on life support](https://www.persuasion.community/p/the-big-five-publishers-have-killed)
+- [Send your Survivor Theories – no need for login](https://www.survivortribe.fyi/debates)
+- [The UK&#39;s First Double Lung Transplant Using &quot;Lungs in a Box&quot; Was a Success](https://www.iflscience.com/the-uks-first-double-lung-transplant-using-lungs-in-a-box-was-a-success-77379)
+- [Using Temporal to Scale Data Synchronization at PeerDB](https://blog.peerdb.io/using-temporal-to-scale-data-synchronization-at-peerdb)
+- [Recursive Islands and Lakes](https://en.wikipedia.org/wiki/Recursive_islands_and_lakes)
+- [The role of embeddings and rerankers in semantic retrieval](https://bits.logic.inc/p/the-perfect-holiday-cookie)
+- [Saving Photos to a Voice Recorder? [video]](https://www.youtube.com/watch?v=qAGT1SSicOo)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

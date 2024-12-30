@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Personal Mail Server on OpenBSD](https://nicolascarpi.github.io/openbsd/2019/04/03/openbsd-mail-server.html)
-- [Plane Crashes at South Korea Airport, Killing at Least 28](https://www.bloomberg.com/news/articles/2024-12-29/plane-crashes-at-s-korea-airport-killing-at-least-23-yonhap)
-- [Show HN: Resizer2 – i3/KDE window movement on Windows](https://github.com/alvesvaren/resizer2)
-- [38C3: Blinkencity, radio controlling street lamps and power plants [video]](https://media.ccc.de/v/38c3-blinkencity-radio-controlling-street-lamps-and-power-plants)
-- [Finding and exploiting hidden features of Animal Crossing&#39;s NES emulator &lpar;2018&rpar;](https://jamchamb.net/2018/07/11/animal-crossing-nes-emulator-hacks.html)
-- [Fish 4.0: The Fish of Theseus](https://fishshell.com/blog/rustport/)
-- [Intel&#39;s $475M error: the silicon behind the Pentium division bug](https://www.righto.com/2024/12/this-die-photo-of-pentium-shows.html)
-- [Family of OpenAI whistleblower Suchir Balaji demand FBI investigate death](https://www.theguardian.com/us-news/2024/dec/28/openai-whistleblower-suchir-balaji)
-- [AnkiAIUtils: Flashcards+AI Illustrations, Explanations, Mnemonics etc. – FOSS](https://github.com/thiswillbeyourgithub/AnkiAIUtils)
-- [EU law mandating universal chargers for devices comes into force](https://www.france24.com/en/europe/20241228-eu-law-mandating-universal-chargers-for-devices-comes-into-force)
+- [&#39;ruthlessly imaginative&#39; 1925 predictions for the future come true – mostly](https://www.theguardian.com/science/2024/dec/29/scientist-archibald-low-ruthlessly-imaginative-1925-predictions-for-the-future-come-true)
+- [Israel built an &#39;AI factory&#39; for war. It unleashed it in Gaza](https://www.washingtonpost.com/technology/2024/12/29/ai-israel-war-gaza-idf/)
+- [Show HN: WIP NandToTetris Emulator in pure C – logic gates to ALU to CPU to PC](https://github.com/con-dog/hack_emulator_c)
+- [Little Snitch: Network Monitor and Application Firewall for macOS](https://www.obdev.at/en/products/littlesnitch/index.html)
+- [Pigment Mixing into Digital Painting](https://scrtwpns.com/mixbox/)
+- [The Cody Computer](https://www.codycomputer.org/)
+- [Belgium will ban sales of disposable e-cigarettes in a first for the EU](https://www.npr.org/2024/12/29/g-s1-40289/belgium-will-ban-sales-of-disposable-e-cigarettes)
+- [Om Malik – The Story of Stent](https://om.co/2024/12/28/the-story-of-stent/)
+- [Show HN: Chorus, a Mac app that lets you chat a bunch of AIs at once](https://melty.sh/chorus)
+- [Brave Care Has Closed](https://bravecare.com/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

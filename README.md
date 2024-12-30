@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Operational Responsibility](https://blog.palantir.com/operational-responsibility-is-the-only-way-to-deliver-software-8331676a2163)
-- [The Chart of Everything](https://www.economist.com/interactive/christmas-specials/2024/12/21/the-chart-of-everything)
-- [I downloaded five years of H-1B data from the US DOL website &lpar;4M+ records&rpar;](https://twitter.com/RobertMSterling/status/1873174358535110953)
-- [Big five publishers have abandoned literary fiction, putting it on life support](https://www.persuasion.community/p/the-big-five-publishers-have-killed)
-- [Send your Survivor Theories – no need for login](https://www.survivortribe.fyi/debates)
-- [The UK&#39;s First Double Lung Transplant Using &quot;Lungs in a Box&quot; Was a Success](https://www.iflscience.com/the-uks-first-double-lung-transplant-using-lungs-in-a-box-was-a-success-77379)
-- [Using Temporal to Scale Data Synchronization at PeerDB](https://blog.peerdb.io/using-temporal-to-scale-data-synchronization-at-peerdb)
-- [Recursive Islands and Lakes](https://en.wikipedia.org/wiki/Recursive_islands_and_lakes)
-- [The role of embeddings and rerankers in semantic retrieval](https://bits.logic.inc/p/the-perfect-holiday-cookie)
-- [Saving Photos to a Voice Recorder? [video]](https://www.youtube.com/watch?v=qAGT1SSicOo)
+- [Sprunki Mod: An Online Platform to Play the Popular Sprunki Mod Games](https://sprunkimod.top/)
+- [Asdf soon to release go rewrite](https://github.com/asdf-vm/asdf/pull/1805)
+- [Stay SaaSy 2024: A SaaSy Year in Review](https://staysaasy.com/saas/2024/12/29/year.html)
+- [The case against gameplay loops](https://blog.joeyschutz.com/the-case-against-gameplay-loops/)
+- [&#39;ruthlessly imaginative&#39; 1925 predictions for the future come true – mostly](https://www.theguardian.com/science/2024/dec/29/scientist-archibald-low-ruthlessly-imaginative-1925-predictions-for-the-future-come-true)
+- [Why Majora&#39;s Mask&#39;s Blue Dog Took 25 Years to Win the Race [video]](https://www.youtube.com/watch?v=Y1l6Xj4PLEk)
+- [old Google](https://oldgoogle.neocities.org/)
+- [Israel built an &#39;AI factory&#39; for war. It unleashed it in Gaza](https://www.washingtonpost.com/technology/2024/12/29/ai-israel-war-gaza-idf/)
+- [Language Production](https://en.wikipedia.org/wiki/Language_production)
+- [Narrative Paradigm](https://en.wikipedia.org/wiki/Narrative_paradigm)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

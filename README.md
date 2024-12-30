@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Australia v India: fourth men’s cricket Test, day four – live](https://www.theguardian.com/sport/live/2024/dec/29/australia-vs-india-boxing-day-test-cricket-day-4-scores-results-start-time-melbourne-mcg)
-- [South Korea plane crash: dozens feared dead after Jeju Air flight skids off runway at Muan airport – live updates](https://www.theguardian.com/world/live/2024/dec/29/south-korea-plane-crash-casualties-reported-after-jeju-air-flight-veers-off-runway-at-muan-airport-live-updates)
-- [Youth pastor identified as man who died after shark bite off Queensland coast](https://www.theguardian.com/australia-news/2024/dec/29/man-dies-after-shark-bite-while-fishing-with-family-off-queensland-coast)
-- [Solar farms v people power: the locals fighting for their county](https://www.theguardian.com/environment/2024/dec/29/solar-farms-v-people-power-the-locals-fighting-for-their-county)
-- [It’s quiz time: how well do you remember 2024?](https://www.theguardian.com/games/2024/dec/29/its-quiz-time-how-well-do-you-remember-2024)
-- [‘We’re on the global map’: how Co-op Live bounced back from chaotic launch](https://www.theguardian.com/music/2024/dec/29/were-on-the-global-map-how-co-op-live-bounced-back-from-chaotic-launch)
-- [Editors’ picks: sparkle for the party season – in pictures](https://www.theguardian.com/fashion/gallery/2024/dec/28/editors-picks-sparkle-for-the-party-season-in-pictures)
-- [Luke Littler and Michael van Gerwen progress in PDC World Championships](https://www.theguardian.com/sport/2024/dec/28/pdc-world-darts-saturday-luke-littler-van-gerwen-aspinall)
-- [Venezuelan opposition members holed up in Argentine embassy call it ‘prison’](https://www.theguardian.com/world/2024/dec/28/venezuelan-opposition-members-holed-up-in-argentine-embassy-calls-it-prison)
-- [Extraordinary size and staying power: the unlikely origin of a mighty Australian avocado](https://www.theguardian.com/science/2024/dec/29/extraordinary-size-and-staying-power-the-unlikely-origin-of-a-mighty-australian-avocado)
+- [Australia v India: fourth men’s cricket Test, day five – live](https://www.theguardian.com/sport/live/2024/dec/30/australia-vs-india-boxing-day-test-cricket-day-5-scores-results-start-time-melbourne-mcg)
+- [Joe Biden pays tribute to ‘remarkable leader’ and ‘dear friend’ Jimmy Carter - latest updates](https://www.theguardian.com/us-news/live/2024/dec/29/jimmy-carter-death-president-reactions-latest-updates)
+- [The longer the race, the closer it gets: women are closing in on men in the ultra-endurance arena](https://www.theguardian.com/lifeandstyle/2024/dec/30/the-longer-the-race-the-closer-it-gets-women-are-closing-in-on-men-in-the-ultra-endurance-arena)
+- [Ukraine war briefing: Russia vows to retaliate after state media reportedly blocked on Telegram in EU](https://www.theguardian.com/world/2024/dec/30/russia-vows-to-retaliate-after-state-media-reportedly-blocked-on-telegram-in-eu)
+- [Disgruntled police in Northern Ireland responsible for IRA leaks after Good Friday agreement](https://www.theguardian.com/world/2024/dec/30/disgruntled-police-in-northern-ireland-responsible-for-ira-leaks-after-good-friday-agreement)
+- [Single cigarette takes 20 minutes off life expectancy, study finds](https://www.theguardian.com/society/2024/dec/30/single-cigarette-takes-20-minutes-off-life-expectancy-study)
+- [Police forces report sharp rise in religious hate crimes across UK](https://www.theguardian.com/society/2024/dec/30/police-forces-report-sharp-rise-in-religious-hate-crimes-across-uk)
+- [NHS delays may drive patients to buy unsafe weight-loss drugs, says top GP](https://www.theguardian.com/society/2024/dec/30/nhs-delays-may-drive-patients-to-buy-unsafe-weight-loss-drugs-says-top-gp)
+- [AI tools may soon manipulate people’s online decision-making, say researchers](https://www.theguardian.com/technology/2024/dec/30/ai-tools-may-soon-manipulate-peoples-online-decision-making-say-researchers)
+- [2024’s most costly climate disasters killed 2,000 people and caused $229bn in damages, data shows](https://www.theguardian.com/environment/2024/dec/30/2024s-most-costly-climate-disasters-killed-2000-people-and-caused-229bn-in-damages-data-shows)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

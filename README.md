@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Sprunki Mod: An Online Platform to Play the Popular Sprunki Mod Games](https://sprunkimod.top/)
-- [Asdf soon to release go rewrite](https://github.com/asdf-vm/asdf/pull/1805)
-- [Stay SaaSy 2024: A SaaSy Year in Review](https://staysaasy.com/saas/2024/12/29/year.html)
-- [The case against gameplay loops](https://blog.joeyschutz.com/the-case-against-gameplay-loops/)
-- [&#39;ruthlessly imaginative&#39; 1925 predictions for the future come true – mostly](https://www.theguardian.com/science/2024/dec/29/scientist-archibald-low-ruthlessly-imaginative-1925-predictions-for-the-future-come-true)
-- [Why Majora&#39;s Mask&#39;s Blue Dog Took 25 Years to Win the Race [video]](https://www.youtube.com/watch?v=Y1l6Xj4PLEk)
-- [old Google](https://oldgoogle.neocities.org/)
-- [Israel built an &#39;AI factory&#39; for war. It unleashed it in Gaza](https://www.washingtonpost.com/technology/2024/12/29/ai-israel-war-gaza-idf/)
-- [Language Production](https://en.wikipedia.org/wiki/Language_production)
-- [Narrative Paradigm](https://en.wikipedia.org/wiki/Narrative_paradigm)
+- [Show HN: YouTube Sort by Likes](https://youtube-sort-by-likes.vercel.app/)
+- [Hackers Could Turn Your Smart Pet Feeder into an All-You-Can-Eat Buffet](https://www.whid.ninja/blog/snhack-attack-how-hackers-could-turn-your-smart-pet-feeder-into-an-all-you-can-eat-buffet)
+- [&quot;Impossible&quot; quantum teleportation achieved on normal internet cables](https://www.earth.com/news/quantum-teleportation-communication-achieved-on-regular-internet-cables/)
+- [A Stink over &#39;Odoriferous&#39;](https://www.grammarphobia.com/blog/2024/12/odoriferous.html)
+- [Ask HN: Best internal communications tools/approaches to replace Workplace?](https://news.ycombinator.com/item?id=42555751)
+- [Ask HN: Year in Bay Area Biotech?](https://news.ycombinator.com/item?id=42555745)
+- [Saltwater to Widely Taint Coastal Groundwater by 2100](https://www.nasa.gov/centers-and-facilities/jpl/nasa-dod-study-saltwater-to-widely-taint-coastal-groundwater-by-2100/)
+- [WHO implores China to share Covid origins data, five years on](https://www.theguardian.com/world/2024/dec/31/who-china-covid-19-origins-data-coronavirus)
+- [Humans will soon be able to mine on the Moon. But should we?](https://theconversation.com/humans-will-soon-be-able-to-mine-on-the-moon-but-should-we-4-questions-to-consider-242016)
+- [Missing the Forest for the Trees with Flame Graphs](https://ankush.dev/p/flamegraph-missing-forest-for-trees)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

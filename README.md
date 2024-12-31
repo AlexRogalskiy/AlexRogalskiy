@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Australia v India: fourth men’s cricket Test, day five – live](https://www.theguardian.com/sport/live/2024/dec/30/australia-vs-india-boxing-day-test-cricket-day-5-scores-results-start-time-melbourne-mcg)
-- [Joe Biden pays tribute to ‘remarkable leader’ and ‘dear friend’ Jimmy Carter - latest updates](https://www.theguardian.com/us-news/live/2024/dec/29/jimmy-carter-death-president-reactions-latest-updates)
-- [The longer the race, the closer it gets: women are closing in on men in the ultra-endurance arena](https://www.theguardian.com/lifeandstyle/2024/dec/30/the-longer-the-race-the-closer-it-gets-women-are-closing-in-on-men-in-the-ultra-endurance-arena)
-- [Ukraine war briefing: Russia vows to retaliate after state media reportedly blocked on Telegram in EU](https://www.theguardian.com/world/2024/dec/30/russia-vows-to-retaliate-after-state-media-reportedly-blocked-on-telegram-in-eu)
-- [Disgruntled police in Northern Ireland responsible for IRA leaks after Good Friday agreement](https://www.theguardian.com/world/2024/dec/30/disgruntled-police-in-northern-ireland-responsible-for-ira-leaks-after-good-friday-agreement)
-- [Single cigarette takes 20 minutes off life expectancy, study finds](https://www.theguardian.com/society/2024/dec/30/single-cigarette-takes-20-minutes-off-life-expectancy-study)
-- [Police forces report sharp rise in religious hate crimes across UK](https://www.theguardian.com/society/2024/dec/30/police-forces-report-sharp-rise-in-religious-hate-crimes-across-uk)
-- [NHS delays may drive patients to buy unsafe weight-loss drugs, says top GP](https://www.theguardian.com/society/2024/dec/30/nhs-delays-may-drive-patients-to-buy-unsafe-weight-loss-drugs-says-top-gp)
-- [AI tools may soon manipulate people’s online decision-making, say researchers](https://www.theguardian.com/technology/2024/dec/30/ai-tools-may-soon-manipulate-peoples-online-decision-making-say-researchers)
-- [2024’s most costly climate disasters killed 2,000 people and caused $229bn in damages, data shows](https://www.theguardian.com/environment/2024/dec/30/2024s-most-costly-climate-disasters-killed-2000-people-and-caused-229bn-in-damages-data-shows)
+- [South Korean court issues arrest warrant for President Yoon Suk Yeol](https://www.theguardian.com/world/2024/dec/31/arrest-warrant-south-korea-president-yoon-suk-yeol-martial-law-ntwnfb)
+- [Ukraine war briefing: US grants $6bn in aid to Ukraine before Trump inauguration](https://www.theguardian.com/world/2024/dec/31/ukraine-war-briefing-us-grants-6bn-in-aid-to-ukraine-before-trump-inauguration)
+- [Jimmy Carter to be honored at Washington funeral and laid to rest in Georgia](https://www.theguardian.com/us-news/2024/dec/30/jimmy-carter-funeral)
+- [WHO implores China to finally share Covid origins data, five years on](https://www.theguardian.com/world/2024/dec/31/who-china-covid-19-origins-data-coronavirus)
+- [Luke Littler comes up with killer finish to deny Ryan Joyce a dramatic upset](https://www.theguardian.com/sport/2024/dec/30/van-gerwen-holds-off-de-graaf-comeback-to-seal-quarter-final-spot-pdc-world-darts)
+- [Advisers urged Tony Blair to rein in George W Bush over Iraq war ‘mission from God’](https://www.theguardian.com/uk-news/2024/dec/31/advisers-urged-tony-blair-to-rein-in-george-w-bush-over-iraq-war-mission-from-god)
+- [Labour’s private school tax plan strongly backed by public, poll shows](https://www.theguardian.com/education/2024/dec/31/labours-private-school-tax-plan-strongly-backed-by-public-poll-shows)
+- [Big rise in people going to A&amp;E in England for minor ailments, data shows](https://www.theguardian.com/society/2024/dec/31/big-rise-in-people-going-to-ae-in-england-for-minor-ailments-data-shows)
+- [Manchester United face ‘really clear’ threat of relegation, admits Amorim](https://www.theguardian.com/football/2024/dec/30/manchester-united-face-really-clear-threat-of-relegation-admits-amorim)
+- [Welsh ambulance service declares ‘critical incident’ after demand soars](https://www.theguardian.com/uk-news/2024/dec/30/welsh-ambulance-service-declares-critical-incident-after-demand-soars)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

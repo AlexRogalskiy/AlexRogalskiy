@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [&#39;ruthlessly imaginative&#39; 1925 predictions for the future come true – mostly](https://www.theguardian.com/science/2024/dec/29/scientist-archibald-low-ruthlessly-imaginative-1925-predictions-for-the-future-come-true)
-- [Israel built an &#39;AI factory&#39; for war. It unleashed it in Gaza](https://www.washingtonpost.com/technology/2024/12/29/ai-israel-war-gaza-idf/)
-- [Show HN: WIP NandToTetris Emulator in pure C – logic gates to ALU to CPU to PC](https://github.com/con-dog/hack_emulator_c)
-- [Little Snitch: Network Monitor and Application Firewall for macOS](https://www.obdev.at/en/products/littlesnitch/index.html)
-- [Pigment Mixing into Digital Painting](https://scrtwpns.com/mixbox/)
-- [The Cody Computer](https://www.codycomputer.org/)
-- [Belgium will ban sales of disposable e-cigarettes in a first for the EU](https://www.npr.org/2024/12/29/g-s1-40289/belgium-will-ban-sales-of-disposable-e-cigarettes)
-- [Om Malik – The Story of Stent](https://om.co/2024/12/28/the-story-of-stent/)
-- [Show HN: Chorus, a Mac app that lets you chat a bunch of AIs at once](https://melty.sh/chorus)
-- [Brave Care Has Closed](https://bravecare.com/)
+- [More telcos confirm Salt Typhoon breaches as White House weighs in](https://www.theregister.com/2024/12/30/att_verizon_confirm_salt_typhoon_breach/)
+- [Orbit. Mozilla&#39;s AI Assistant for Firefox](https://orbitbymozilla.com/)
+- [Coconut by Meta AI – Better LLM Reasoning with Chain of Continuous Thought?](https://aipapersacademy.com/chain-of-continuous-thought/)
+- [LineageOS 22 Released](https://lineageos.org/Changelog-29/)
+- [Lightstorm: Minimalistic Ruby Compiler](https://blog.llvm.org/posts/2024-12-03-minimalistic-ruby-compiler/)
+- [Cook: Colliding with the SHA prefix of Linux&#39;s initial Git commit](https://lwn.net/Articles/1003797/)
+- [Beyond Gradient Averaging in Parallel Optimization](https://arxiv.org/abs/2412.18052)
+- [China to Build Thorium Molten-Salt Reactor in 2025](https://spectrum.ieee.org/chinas-thorium-molten-salt-reactor)
+- [I Wrote a Game Boy Advance Game in Zig](https://jonot.me/posts/zig-gba/)
+- [&quot;A Course of Pure Mathematics&quot; – G. H. Hardy &lpar;1921&rpar; [pdf]](https://www.gutenberg.org/files/38769/38769-pdf.pdf)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

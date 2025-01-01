@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [More telcos confirm Salt Typhoon breaches as White House weighs in](https://www.theregister.com/2024/12/30/att_verizon_confirm_salt_typhoon_breach/)
-- [Orbit. Mozilla&#39;s AI Assistant for Firefox](https://orbitbymozilla.com/)
-- [Coconut by Meta AI – Better LLM Reasoning with Chain of Continuous Thought?](https://aipapersacademy.com/chain-of-continuous-thought/)
-- [LineageOS 22 Released](https://lineageos.org/Changelog-29/)
-- [Lightstorm: Minimalistic Ruby Compiler](https://blog.llvm.org/posts/2024-12-03-minimalistic-ruby-compiler/)
-- [Cook: Colliding with the SHA prefix of Linux&#39;s initial Git commit](https://lwn.net/Articles/1003797/)
-- [Beyond Gradient Averaging in Parallel Optimization](https://arxiv.org/abs/2412.18052)
-- [China to Build Thorium Molten-Salt Reactor in 2025](https://spectrum.ieee.org/chinas-thorium-molten-salt-reactor)
-- [I Wrote a Game Boy Advance Game in Zig](https://jonot.me/posts/zig-gba/)
-- [&quot;A Course of Pure Mathematics&quot; – G. H. Hardy &lpar;1921&rpar; [pdf]](https://www.gutenberg.org/files/38769/38769-pdf.pdf)
+- [Signalling chaos: Inside the Elizabeth line&#39;s two-day breakdown](https://www.ianvisits.co.uk/articles/signalling-chaos-inside-the-elizabeth-lines-two-day-breakdown-78097/)
+- [Static search trees: faster than binary search](https://curiouscoding.nl/posts/static-search-tree/)
+- [Bench.co acquired after informing staff company was insolvent](https://www.bench.co/press-release)
+- [Happy New Year 2025 HN](https://news.ycombinator.com/item?id=42562750)
+- [Déjà vu: Ghostly CVEs in my terminal title](https://dgl.cx/2024/12/ghostty-terminal-title)
+- [Show HN: Open-source security user analytics](https://github.com/TirrenoTechnologies/tirreno)
+- [Building Game Prototypes with LÖVE](https://healeycodes.com/building-game-prototypes-with-love)
+- [Just Words &lpar;YC W24&rpar; Is Hiring](https://www.ycombinator.com/companies/just-words/jobs/lwVZeEN-sr-software-engineer-frontend)
+- [Arnis: Generate cities in Minecraft from OpenStreetMap](https://github.com/louis-e/arnis)
+- [Things we learned about LLMs in 2024](https://simonwillison.net/2024/Dec/31/llms-in-2024/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

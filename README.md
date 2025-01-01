@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [South Korean court issues arrest warrant for President Yoon Suk Yeol](https://www.theguardian.com/world/2024/dec/31/arrest-warrant-south-korea-president-yoon-suk-yeol-martial-law-ntwnfb)
-- [Ukraine war briefing: US grants $6bn in aid to Ukraine before Trump inauguration](https://www.theguardian.com/world/2024/dec/31/ukraine-war-briefing-us-grants-6bn-in-aid-to-ukraine-before-trump-inauguration)
-- [Jimmy Carter to be honored at Washington funeral and laid to rest in Georgia](https://www.theguardian.com/us-news/2024/dec/30/jimmy-carter-funeral)
-- [WHO implores China to finally share Covid origins data, five years on](https://www.theguardian.com/world/2024/dec/31/who-china-covid-19-origins-data-coronavirus)
-- [Luke Littler comes up with killer finish to deny Ryan Joyce a dramatic upset](https://www.theguardian.com/sport/2024/dec/30/van-gerwen-holds-off-de-graaf-comeback-to-seal-quarter-final-spot-pdc-world-darts)
-- [Advisers urged Tony Blair to rein in George W Bush over Iraq war ‘mission from God’](https://www.theguardian.com/uk-news/2024/dec/31/advisers-urged-tony-blair-to-rein-in-george-w-bush-over-iraq-war-mission-from-god)
-- [Labour’s private school tax plan strongly backed by public, poll shows](https://www.theguardian.com/education/2024/dec/31/labours-private-school-tax-plan-strongly-backed-by-public-poll-shows)
-- [Big rise in people going to A&amp;E in England for minor ailments, data shows](https://www.theguardian.com/society/2024/dec/31/big-rise-in-people-going-to-ae-in-england-for-minor-ailments-data-shows)
-- [Manchester United face ‘really clear’ threat of relegation, admits Amorim](https://www.theguardian.com/football/2024/dec/30/manchester-united-face-really-clear-threat-of-relegation-admits-amorim)
-- [Welsh ambulance service declares ‘critical incident’ after demand soars](https://www.theguardian.com/uk-news/2024/dec/30/welsh-ambulance-service-declares-critical-incident-after-demand-soars)
+- [New Year’s Eve: celebrations across the globe as the US prepares for midnight – live](https://www.theguardian.com/world/live/2024/dec/31/new-years-eve-celebrations-2024-2025-live)
+- [Ukraine war briefing: Zelenskyy vows his country will do everything in 2025 to stop Russia](https://www.theguardian.com/world/2025/jan/01/ukraine-war-briefing-zelenskyy-vows-his-country-will-do-everything-in-2025-to-stop-russia)
+- [Man pushed in front of New York City subway train injured but alive, police say](https://www.theguardian.com/us-news/2024/dec/31/man-pushed-new-york-subway-survives)
+- [25 for 2025: unmissable sporting events over the next 12 months](https://www.theguardian.com/sport/2025/jan/01/25-for-2025-unmissable-sporting-events-over-the-next-12-months)
+- [Hospital admissions for lack of vitamins soaring in England, NHS figures show](https://www.theguardian.com/society/2025/jan/01/hospital-admissions-lack-of-vitamins-iron-nhs-figures)
+- [Sharp and curious, my 85-year-old neighbour wades into conversations with a joyful openness | Nova Weetman](https://www.theguardian.com/commentisfree/2025/jan/01/sharp-and-curious-my-85-year-old-neighbour-wades-into-conversations-with-a-joyful-openness)
+- [Barcelona make fresh attempt to register Dani Olmo after losing second appeal](https://www.theguardian.com/football/2024/dec/31/barcelona-make-fresh-attempt-register-dani-olmo-after-losing-second-appeal-pau-victor)
+- [Keir Starmer vows to rebuild Britain as Labour did after second world war](https://www.theguardian.com/politics/2024/dec/31/keir-starmer-vows-rebuild-britain-as-labour-did-after-second-world-war)
+- [Ecuador confirms incinerated bodies belong to missing ‘Guayaquil Four’ boys](https://www.theguardian.com/world/2024/dec/31/ecuador-confirms-incinerated-bodies-belong-to-missing-guayaquil-four-boys)
+- [Virginia man accused of amassing largest homemade explosives cache ever found by FBI](https://www.theguardian.com/us-news/2024/dec/31/virginia-man-homemade-explosives-bail)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

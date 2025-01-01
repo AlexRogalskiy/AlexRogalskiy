@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: YouTube Sort by Likes](https://youtube-sort-by-likes.vercel.app/)
-- [Hackers Could Turn Your Smart Pet Feeder into an All-You-Can-Eat Buffet](https://www.whid.ninja/blog/snhack-attack-how-hackers-could-turn-your-smart-pet-feeder-into-an-all-you-can-eat-buffet)
-- [&quot;Impossible&quot; quantum teleportation achieved on normal internet cables](https://www.earth.com/news/quantum-teleportation-communication-achieved-on-regular-internet-cables/)
-- [A Stink over &#39;Odoriferous&#39;](https://www.grammarphobia.com/blog/2024/12/odoriferous.html)
-- [Ask HN: Best internal communications tools/approaches to replace Workplace?](https://news.ycombinator.com/item?id=42555751)
-- [Ask HN: Year in Bay Area Biotech?](https://news.ycombinator.com/item?id=42555745)
-- [Saltwater to Widely Taint Coastal Groundwater by 2100](https://www.nasa.gov/centers-and-facilities/jpl/nasa-dod-study-saltwater-to-widely-taint-coastal-groundwater-by-2100/)
-- [WHO implores China to share Covid origins data, five years on](https://www.theguardian.com/world/2024/dec/31/who-china-covid-19-origins-data-coronavirus)
-- [Humans will soon be able to mine on the Moon. But should we?](https://theconversation.com/humans-will-soon-be-able-to-mine-on-the-moon-but-should-we-4-questions-to-consider-242016)
-- [Missing the Forest for the Trees with Flame Graphs](https://ankush.dev/p/flamegraph-missing-forest-for-trees)
+- [Lullaby Language &lpar;2006&rpar;](https://www.humansystemsinaction.com/lullaby-language/)
+- [Popular browser extension Honey accused of shady business practices](https://www.snopes.com/news/2024/12/30/honey-browser-extension-scam/)
+- [Deadline Scheduling Policy Being Experimented with for Linux Graphics Drivers](https://www.phoronix.com/news/Deadline-DRM-Scheduler-RFC)
+- [Interview Coder: free and open-source interview cheater](https://www.interviewcoder.co)
+- [US Treasury Department breached through remote support platform](https://www.bleepingcomputer.com/news/security/us-treasury-department-breached-through-remote-support-platform/)
+- [Large Concept Models: Language modeling in a sentence representation space](https://github.com/facebookresearch/large_concept_model)
+- [Tell HN: Happy New Year](https://news.ycombinator.com/item?id=42563516)
+- [Magnus Carlsen and Jan Nepomnjasjtsjij Shares the Title in the FIDE World Blitz](https://old.reddit.com/r/chess/comments/1hqrerz/magnus_carlsen_and_jan_nepomnjasjtsjij_shares_the/)
+- [An eccentric British inventor imagined 2025 a century ago](https://www.cbc.ca/radio/asithappens/archibald-montgomery-low-2025-1.7421053)
+- [Latent.Space 2024 Year in Review](https://www.latent.space/p/2024-review)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

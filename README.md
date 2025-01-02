@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Signalling chaos: Inside the Elizabeth line&#39;s two-day breakdown](https://www.ianvisits.co.uk/articles/signalling-chaos-inside-the-elizabeth-lines-two-day-breakdown-78097/)
-- [Static search trees: faster than binary search](https://curiouscoding.nl/posts/static-search-tree/)
-- [Bench.co acquired after informing staff company was insolvent](https://www.bench.co/press-release)
-- [Happy New Year 2025 HN](https://news.ycombinator.com/item?id=42562750)
-- [Déjà vu: Ghostly CVEs in my terminal title](https://dgl.cx/2024/12/ghostty-terminal-title)
-- [Show HN: Open-source security user analytics](https://github.com/TirrenoTechnologies/tirreno)
-- [Building Game Prototypes with LÖVE](https://healeycodes.com/building-game-prototypes-with-love)
-- [Just Words &lpar;YC W24&rpar; Is Hiring](https://www.ycombinator.com/companies/just-words/jobs/lwVZeEN-sr-software-engineer-frontend)
-- [Arnis: Generate cities in Minecraft from OpenStreetMap](https://github.com/louis-e/arnis)
-- [Things we learned about LLMs in 2024](https://simonwillison.net/2024/Dec/31/llms-in-2024/)
+- [The GPU, not the TPM, is the root of hardware DRM](https://mjg59.dreamwidth.org/70954.html)
+- [Passengers Say Turkish Airlines Flights Have Unwelcome Guests: Bedbugs](https://www.nytimes.com/2025/01/01/travel/bedbugs-turkish-airlines-flights.html)
+- [Glue Work Considered Harmful](https://www.seangoedecke.com/glue-work-considered-harmful/)
+- [There Are More Trees on Earth Than Stars in the Milky Way](https://www.snopes.com/fact-check/trees-stars-milky-way/)
+- [My 25-year adventure in AI and ML](https://austinhenley.com/blog/25yearsofai.html)
+- [Rails for Everything](https://literallythevoid.com/blog/rails_for_everything.html)
+- [My favourite computer ergonomics hack](https://blog.jacobvosmaer.nl/0036-beeper/)
+- [How the lore of New Year defeated the law of New Year](https://davidallengreen.com/2025/01/how-the-lore-of-new-year-defeated-the-law-of-new-year-how-the-english-state-gave-up-on-insisting-the-new-year-started-on-25-march/)
+- [Indexing Code at Scale with Glean](https://engineering.fb.com/2024/12/19/developer-tools/glean-open-source-code-indexing/)
+- [Terence Tao: One of my papers got declined today](https://mathstodon.xyz/@tao/113721192051328193)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Lullaby Language &lpar;2006&rpar;](https://www.humansystemsinaction.com/lullaby-language/)
-- [Popular browser extension Honey accused of shady business practices](https://www.snopes.com/news/2024/12/30/honey-browser-extension-scam/)
-- [Deadline Scheduling Policy Being Experimented with for Linux Graphics Drivers](https://www.phoronix.com/news/Deadline-DRM-Scheduler-RFC)
-- [Interview Coder: free and open-source interview cheater](https://www.interviewcoder.co)
-- [US Treasury Department breached through remote support platform](https://www.bleepingcomputer.com/news/security/us-treasury-department-breached-through-remote-support-platform/)
-- [Large Concept Models: Language modeling in a sentence representation space](https://github.com/facebookresearch/large_concept_model)
-- [Tell HN: Happy New Year](https://news.ycombinator.com/item?id=42563516)
-- [Magnus Carlsen and Jan Nepomnjasjtsjij Shares the Title in the FIDE World Blitz](https://old.reddit.com/r/chess/comments/1hqrerz/magnus_carlsen_and_jan_nepomnjasjtsjij_shares_the/)
-- [An eccentric British inventor imagined 2025 a century ago](https://www.cbc.ca/radio/asithappens/archibald-montgomery-low-2025-1.7421053)
-- [Latent.Space 2024 Year in Review](https://www.latent.space/p/2024-review)
+- [Roads teeming with robotaxis, crossing the street can be harrowing](https://www.washingtonpost.com/technology/2024/12/30/waymo-pedestrians-robotaxi-crosswalks/)
+- [SvarDOS: DR-DOS reborn as an open source OS](https://www.theregister.com/2024/12/23/svardos_drdos_reborn/)
+- [Teen with avian flu no longer infectious: letter to NEJM](https://www.cbc.ca/news/canada/british-columbia/avian-flu-bc-teen-1.7421512)
+- [How to Manage Flaky Tests](https://mill-build.org/blog/4-flaky-tests.html)
+- [Could the Soviet Union have survived?](https://www.historytoday.com/archive/head-head/could-soviet-union-have-survived)
+- [The Multi-Trillion-Dollar Wellness Industry Is Making Us Sick](https://thewalrus.ca/wellness-industry-is-making-us-sick/)
+- [Analysis of Total Harmonic Distortion on the U.S. Electric Grid](https://www.whiskerlabs.com/analysis-of-total-harmonic-distortion-on-the-us-electric-grid/)
+- [Palestinian Authority Suspends Al Jazeera Operations in the West Bank](https://www.aljazeera.com/news/2025/1/1/palestinian-authority-suspends-al-jazeera-operations-in-the-west-bank)
+- [The GPU, not the TPM, is the root of hardware DRM](https://mjg59.dreamwidth.org/70954.html)
+- [OAuth Identity Attack – Are Your Extensions Affected?](https://labs.sqrx.com/oauth-identity-attack-are-your-extensions-affected-4cc34574b77f)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

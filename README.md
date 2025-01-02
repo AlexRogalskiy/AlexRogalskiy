@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [New Year’s Eve: celebrations across the globe as the US prepares for midnight – live](https://www.theguardian.com/world/live/2024/dec/31/new-years-eve-celebrations-2024-2025-live)
-- [Ukraine war briefing: Zelenskyy vows his country will do everything in 2025 to stop Russia](https://www.theguardian.com/world/2025/jan/01/ukraine-war-briefing-zelenskyy-vows-his-country-will-do-everything-in-2025-to-stop-russia)
-- [Man pushed in front of New York City subway train injured but alive, police say](https://www.theguardian.com/us-news/2024/dec/31/man-pushed-new-york-subway-survives)
-- [25 for 2025: unmissable sporting events over the next 12 months](https://www.theguardian.com/sport/2025/jan/01/25-for-2025-unmissable-sporting-events-over-the-next-12-months)
-- [Hospital admissions for lack of vitamins soaring in England, NHS figures show](https://www.theguardian.com/society/2025/jan/01/hospital-admissions-lack-of-vitamins-iron-nhs-figures)
-- [Sharp and curious, my 85-year-old neighbour wades into conversations with a joyful openness | Nova Weetman](https://www.theguardian.com/commentisfree/2025/jan/01/sharp-and-curious-my-85-year-old-neighbour-wades-into-conversations-with-a-joyful-openness)
-- [Barcelona make fresh attempt to register Dani Olmo after losing second appeal](https://www.theguardian.com/football/2024/dec/31/barcelona-make-fresh-attempt-register-dani-olmo-after-losing-second-appeal-pau-victor)
-- [Keir Starmer vows to rebuild Britain as Labour did after second world war](https://www.theguardian.com/politics/2024/dec/31/keir-starmer-vows-rebuild-britain-as-labour-did-after-second-world-war)
-- [Ecuador confirms incinerated bodies belong to missing ‘Guayaquil Four’ boys](https://www.theguardian.com/world/2024/dec/31/ecuador-confirms-incinerated-bodies-belong-to-missing-guayaquil-four-boys)
-- [Virginia man accused of amassing largest homemade explosives cache ever found by FBI](https://www.theguardian.com/us-news/2024/dec/31/virginia-man-homemade-explosives-bail)
+- [New Orleans truck attack: Biden says suspect expressed ‘desire to kill’ – latest updates](https://www.theguardian.com/us-news/live/2025/jan/01/new-orleans-vehicle-mass-fatalities-live-updates)
+- [Ukraine war briefing: New Year’s Day drone strike kills two in Kyiv](https://www.theguardian.com/world/2025/jan/02/ukraine-war-briefing-new-years-day-drone-strike-kills-two-in-kyiv)
+- [New Year’s Eve fireworks explosion kills three people in Hawaii](https://www.theguardian.com/us-news/2025/jan/01/honolulu-fireworks-explosion-death-toll)
+- [UK lost 37 shops a day in 2024, data suggests](https://www.theguardian.com/business/2025/jan/02/uk-lost-37-shops-a-day-in-2024-data-suggests)
+- [Number of early-stage cancer diagnoses in England at record level, NHS says](https://www.theguardian.com/society/2025/jan/02/number-of-early-stage-cancer-diagnoses-in-england-at-record-level-nhs-says)
+- [Suspected people smugglers to face travel curbs and social media bans under bill](https://www.theguardian.com/uk-news/2025/jan/02/suspected-people-smugglers-to-face-travel-curbs-and-social-media-bans-under-bill)
+- [Neil Young pulls out of Glastonbury 2025, claiming festival is ‘under corporate control’ of BBC](https://www.theguardian.com/music/2025/jan/02/neil-young-pulls-out-of-glastonbury-festival-2025-bbc)
+- [One dead after Tesla Cybertruck explodes outside Trump hotel in Las Vegas](https://www.theguardian.com/us-news/2025/jan/01/tesla-truck-fire-trump-hotel-las-vegas)
+- [Luke Littler dismantles Aspinall to make PDC world championship last four](https://www.theguardian.com/sport/2025/jan/01/luke-littler-dismantles-aspinall-to-make-pdc-world-championship-last-four)
+- [Three-day snow warning issued for parts of England, Scotland and Wales](https://www.theguardian.com/uk-news/2025/jan/01/three-day-snow-warning-england-scotland-wales-met-office-rain-travel)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Roads teeming with robotaxis, crossing the street can be harrowing](https://www.washingtonpost.com/technology/2024/12/30/waymo-pedestrians-robotaxi-crosswalks/)
-- [SvarDOS: DR-DOS reborn as an open source OS](https://www.theregister.com/2024/12/23/svardos_drdos_reborn/)
-- [Teen with avian flu no longer infectious: letter to NEJM](https://www.cbc.ca/news/canada/british-columbia/avian-flu-bc-teen-1.7421512)
-- [How to Manage Flaky Tests](https://mill-build.org/blog/4-flaky-tests.html)
-- [Could the Soviet Union have survived?](https://www.historytoday.com/archive/head-head/could-soviet-union-have-survived)
-- [The Multi-Trillion-Dollar Wellness Industry Is Making Us Sick](https://thewalrus.ca/wellness-industry-is-making-us-sick/)
-- [Analysis of Total Harmonic Distortion on the U.S. Electric Grid](https://www.whiskerlabs.com/analysis-of-total-harmonic-distortion-on-the-us-electric-grid/)
-- [Palestinian Authority Suspends Al Jazeera Operations in the West Bank](https://www.aljazeera.com/news/2025/1/1/palestinian-authority-suspends-al-jazeera-operations-in-the-west-bank)
-- [The GPU, not the TPM, is the root of hardware DRM](https://mjg59.dreamwidth.org/70954.html)
-- [OAuth Identity Attack – Are Your Extensions Affected?](https://labs.sqrx.com/oauth-identity-attack-are-your-extensions-affected-4cc34574b77f)
+- [Post-quantum public-key encryption: what&#39;s it all about?](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/pq-kem/)
+- [Restricting immigration doesnt benefit native workers: US visa lottery evidence](https://cepr.org/voxeu/columns/restricting-hiring-low-skill-immigrants-hurts-firms-and-does-not-benefit-native-born)
+- [My approach to running a link blog](https://simonwillison.net/2024/Dec/22/link-blog/)
+- [The Problem with SQL Server&#39;s Licensing Costs &lpar;2023&rpar;](https://www.brentozar.com/archive/2023/11/the-real-problem-with-sql-servers-licensing-costs/)
+- [Memory control deficits in the sleep-deprived human brain](https://www.pnas.org/doi/10.1073/pnas.2400743122)
+- [Can someone who works on GitHub explain why &quot;Hide whitespace&quot; doesn&#39;t persist?](https://news.ycombinator.com/item?id=42581546)
+- [Enough with the LLM hysteria!](https://beabytes.com/llm-hysteria/)
+- [Ask: Why is it called plastic surgery?](https://news.ycombinator.com/item?id=42581536)
+- [Apple Watch with Vitality](https://www.johnhancock.com/life-insurance/vitality/apple-watch.html)
+- [What&#39;s Holding Back InstaPay? Overcoming Barriers to Digital Payments in the PH](https://ianm.com/posts/2024-12-16-instapay)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

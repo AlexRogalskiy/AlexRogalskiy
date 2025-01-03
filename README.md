@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [New Orleans truck attack: Biden says suspect expressed ‘desire to kill’ – latest updates](https://www.theguardian.com/us-news/live/2025/jan/01/new-orleans-vehicle-mass-fatalities-live-updates)
-- [Ukraine war briefing: New Year’s Day drone strike kills two in Kyiv](https://www.theguardian.com/world/2025/jan/02/ukraine-war-briefing-new-years-day-drone-strike-kills-two-in-kyiv)
-- [New Year’s Eve fireworks explosion kills three people in Hawaii](https://www.theguardian.com/us-news/2025/jan/01/honolulu-fireworks-explosion-death-toll)
-- [UK lost 37 shops a day in 2024, data suggests](https://www.theguardian.com/business/2025/jan/02/uk-lost-37-shops-a-day-in-2024-data-suggests)
-- [Number of early-stage cancer diagnoses in England at record level, NHS says](https://www.theguardian.com/society/2025/jan/02/number-of-early-stage-cancer-diagnoses-in-england-at-record-level-nhs-says)
-- [Suspected people smugglers to face travel curbs and social media bans under bill](https://www.theguardian.com/uk-news/2025/jan/02/suspected-people-smugglers-to-face-travel-curbs-and-social-media-bans-under-bill)
-- [Neil Young pulls out of Glastonbury 2025, claiming festival is ‘under corporate control’ of BBC](https://www.theguardian.com/music/2025/jan/02/neil-young-pulls-out-of-glastonbury-festival-2025-bbc)
-- [One dead after Tesla Cybertruck explodes outside Trump hotel in Las Vegas](https://www.theguardian.com/us-news/2025/jan/01/tesla-truck-fire-trump-hotel-las-vegas)
-- [Luke Littler dismantles Aspinall to make PDC world championship last four](https://www.theguardian.com/sport/2025/jan/01/luke-littler-dismantles-aspinall-to-make-pdc-world-championship-last-four)
-- [Three-day snow warning issued for parts of England, Scotland and Wales](https://www.theguardian.com/uk-news/2025/jan/01/three-day-snow-warning-england-scotland-wales-met-office-rain-travel)
+- [Australia v India: fifth men’s cricket Test, day one – live](https://www.theguardian.com/sport/live/2025/jan/03/australia-vs-india-live-cricket-score-5th-test-aus-v-ind-day-1-scores-today-scorecard-results-start-time-sydney-scg)
+- [Investigators trying to arrest South Korea’s president Yoon Suk Yeol reportedly blocked by military unit – latest updates](https://www.theguardian.com/world/live/2025/jan/02/south-korea-police-on-way-to-arrest-president-yoon-suk-yeol-latest-updates)
+- [Ukraine war briefing: Zelenskyy hopes Trump’s ‘unpredictability’ can end war with Russia](https://www.theguardian.com/world/2025/jan/03/ukraine-war-briefing-zelenskyy-hopes-trumps-unpredictability-can-end-war-with-russia)
+- [Doomed to fail? Hong Kong’s attempt to tackle ‘shoebox housing’ runs into trouble](https://www.theguardian.com/world/2025/jan/03/doomed-to-fail-hong-kongs-attempt-to-tackle-shoebox-housing-runs-into-trouble)
+- [Ministers plan biggest shake-up of adult social care in England for decades](https://www.theguardian.com/society/2025/jan/03/ministers-shake-up-adult-social-care-england)
+- [Britain has a social care crisis. Here’s how Labour plans to fix it | Wes Streeting](https://www.theguardian.com/commentisfree/2025/jan/03/britain-social-care-crisis-labour-plans-to-fix-it)
+- [‘They spread magic’: New Zealand’s ‘trail angels’ offer weary hikers food, showers and hope](https://www.theguardian.com/world/2025/jan/03/they-spread-magic-new-zealands-trail-angels-offer-weary-hikers-food-showers-and-hope)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2025/jan/03/premier-league-10-things-to-look-out-for-this-weekend)
+- [Bodies of British woman and her fiance discovered in Vietnam tourist villa](https://www.theguardian.com/world/2025/jan/03/bodies-of-british-woman-and-her-fiance-discovered-in-vietnam-tourist-villa)
+- [California: 11 people injured after small plane crashes and fire breaks out](https://www.theguardian.com/us-news/2025/jan/02/california-small-plane-crash)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

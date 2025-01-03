@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The GPU, not the TPM, is the root of hardware DRM](https://mjg59.dreamwidth.org/70954.html)
-- [Passengers Say Turkish Airlines Flights Have Unwelcome Guests: Bedbugs](https://www.nytimes.com/2025/01/01/travel/bedbugs-turkish-airlines-flights.html)
-- [Glue Work Considered Harmful](https://www.seangoedecke.com/glue-work-considered-harmful/)
-- [There Are More Trees on Earth Than Stars in the Milky Way](https://www.snopes.com/fact-check/trees-stars-milky-way/)
-- [My 25-year adventure in AI and ML](https://austinhenley.com/blog/25yearsofai.html)
-- [Rails for Everything](https://literallythevoid.com/blog/rails_for_everything.html)
-- [My favourite computer ergonomics hack](https://blog.jacobvosmaer.nl/0036-beeper/)
-- [How the lore of New Year defeated the law of New Year](https://davidallengreen.com/2025/01/how-the-lore-of-new-year-defeated-the-law-of-new-year-how-the-english-state-gave-up-on-insisting-the-new-year-started-on-25-march/)
-- [Indexing Code at Scale with Glean](https://engineering.fb.com/2024/12/19/developer-tools/glean-open-source-code-indexing/)
-- [Terence Tao: One of my papers got declined today](https://mathstodon.xyz/@tao/113721192051328193)
+- [Be a property owner and not a renter on the internet](https://den.dev/blog/be-a-property-owner-not-a-renter-on-the-internet/)
+- [I still don&#39;t think companies serve you ads based on your microphone](https://simonwillison.net/2025/Jan/2/they-spy-on-you-but-not-like-that/)
+- [The Alder Lake SHLX Anomaly](https://tavianator.com/2025/shlx.html)
+- [I am rich and have no idea what to do](https://vinay.sh/i-am-rich-and-have-no-idea-what-to-do-with-my-life/)
+- [iTerm2 critical security release](https://iterm2.com/downloads/stable/iTerm2-3_5_11.changelog)
+- [UpCodes &lpar;YC S17&rpar; is hiring remote recruiters to help make buildings cheaper](https://up.codes/careers?utm_source=HN)
+- [U.S. appeals court strikes down FCC&#39;s net neutrality rules](https://www.tvtechnology.com/news/sixth-circuit-of-appeals-strikes-down-fccs-net-neutrality-rules)
+- [Advent of Code 2024 in pure SQL](http://databasearchitects.blogspot.com/2024/12/advent-of-code-2024-in-pure-sql.html)
+- [Building a Knowledge System That Enhances Rather Than Replaces Thought](https://nsavage.substack.com/p/beyond-rag-building-a-knowledge-management)
+- [PlasticList&#39;s Advice for Food Companies](https://twitter.com/natfriedman/status/1874884925587087434)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

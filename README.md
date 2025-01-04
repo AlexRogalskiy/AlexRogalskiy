@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Be a property owner and not a renter on the internet](https://den.dev/blog/be-a-property-owner-not-a-renter-on-the-internet/)
-- [I still don&#39;t think companies serve you ads based on your microphone](https://simonwillison.net/2025/Jan/2/they-spy-on-you-but-not-like-that/)
-- [The Alder Lake SHLX Anomaly](https://tavianator.com/2025/shlx.html)
-- [I am rich and have no idea what to do](https://vinay.sh/i-am-rich-and-have-no-idea-what-to-do-with-my-life/)
-- [iTerm2 critical security release](https://iterm2.com/downloads/stable/iTerm2-3_5_11.changelog)
-- [UpCodes &lpar;YC S17&rpar; is hiring remote recruiters to help make buildings cheaper](https://up.codes/careers?utm_source=HN)
-- [U.S. appeals court strikes down FCC&#39;s net neutrality rules](https://www.tvtechnology.com/news/sixth-circuit-of-appeals-strikes-down-fccs-net-neutrality-rules)
-- [Advent of Code 2024 in pure SQL](http://databasearchitects.blogspot.com/2024/12/advent-of-code-2024-in-pure-sql.html)
-- [Building a Knowledge System That Enhances Rather Than Replaces Thought](https://nsavage.substack.com/p/beyond-rag-building-a-knowledge-management)
-- [PlasticList&#39;s Advice for Food Companies](https://twitter.com/natfriedman/status/1874884925587087434)
+- [Show HN: I aggregated over 200 Go-To-Market strategies](https://fellowry.com/)
+- [The State of Generative Models](https://nrehiew.github.io/blog/2024/)
+- [Conscious unbossing – 52% of GenZ professionals don&#39;t want to be middle managers](https://www.robertwalters.co.uk/insights/news/blog/conscious-unbossing.html)
+- [A marriage of solar energy and farming](https://www.ksjd.org/2024-12-31/in-colorado-a-marriage-of-solar-energy-and-farming-provides-a-model-for-a-more-sustainable-future)
+- [Swc4j: SWC for Java](https://github.com/caoccao/swc4j)
+- [Kids can&#39;t use computers and this is why it should worry you &lpar;2013&rpar;](http://www.coding2learn.org/blog/2013/07/29/kids-cant-use-computers/)
+- [A path to O1 open source](https://arxiv.org/abs/2412.14135)
+- [F-Droid Fake Signer PoC](https://github.com/obfusk/fdroid-fakesigner-poc)
+- [Extend &lpar;YC W23&rpar; is hiring engineers to build LLM document processing](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37)
+- [VoxelSpace: Terrain rendering algorithm in less than 20 lines of code &lpar;2020&rpar;](https://github.com/s-macke/VoxelSpace)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

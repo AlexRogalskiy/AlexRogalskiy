@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Australia v India: fifth men’s cricket Test, day one – live](https://www.theguardian.com/sport/live/2025/jan/03/australia-vs-india-live-cricket-score-5th-test-aus-v-ind-day-1-scores-today-scorecard-results-start-time-sydney-scg)
-- [Investigators trying to arrest South Korea’s president Yoon Suk Yeol reportedly blocked by military unit – latest updates](https://www.theguardian.com/world/live/2025/jan/02/south-korea-police-on-way-to-arrest-president-yoon-suk-yeol-latest-updates)
-- [Ukraine war briefing: Zelenskyy hopes Trump’s ‘unpredictability’ can end war with Russia](https://www.theguardian.com/world/2025/jan/03/ukraine-war-briefing-zelenskyy-hopes-trumps-unpredictability-can-end-war-with-russia)
-- [Doomed to fail? Hong Kong’s attempt to tackle ‘shoebox housing’ runs into trouble](https://www.theguardian.com/world/2025/jan/03/doomed-to-fail-hong-kongs-attempt-to-tackle-shoebox-housing-runs-into-trouble)
-- [Ministers plan biggest shake-up of adult social care in England for decades](https://www.theguardian.com/society/2025/jan/03/ministers-shake-up-adult-social-care-england)
-- [Britain has a social care crisis. Here’s how Labour plans to fix it | Wes Streeting](https://www.theguardian.com/commentisfree/2025/jan/03/britain-social-care-crisis-labour-plans-to-fix-it)
-- [‘They spread magic’: New Zealand’s ‘trail angels’ offer weary hikers food, showers and hope](https://www.theguardian.com/world/2025/jan/03/they-spread-magic-new-zealands-trail-angels-offer-weary-hikers-food-showers-and-hope)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2025/jan/03/premier-league-10-things-to-look-out-for-this-weekend)
-- [Bodies of British woman and her fiance discovered in Vietnam tourist villa](https://www.theguardian.com/world/2025/jan/03/bodies-of-british-woman-and-her-fiance-discovered-in-vietnam-tourist-villa)
-- [California: 11 people injured after small plane crashes and fire breaks out](https://www.theguardian.com/us-news/2025/jan/02/california-small-plane-crash)
+- [Australia v India: fifth men’s cricket Test, day two – live](https://www.theguardian.com/sport/live/2025/jan/04/australia-vs-india-live-cricket-score-5th-test-aus-v-ind-day-2-scores-today-scorecard-results-start-time-sydney-scg)
+- [Ukraine war briefing: Five killed and homes damaged in series of Russian and Ukrainian attacks](https://www.theguardian.com/world/2025/jan/04/ukraine-war-briefing-five-killed-and-homes-damaged-in-series-of-russian-and-ukrainian-attacks)
+- [Soul singer Brenton Wood, behind the 1967 hit Oogum Boogum Song, dies aged 83](https://www.theguardian.com/music/2025/jan/03/brenton-wood-dies-oogum-boogum-song)
+- [FBI finds bomb-making material at home of New Orleans attack suspect](https://www.theguardian.com/us-news/2025/jan/03/fbi-new-orleans-attack-suspect)
+- [A toddler, a student, a family of nine: who were the victims of Jeju Air flight 7C2216?](https://www.theguardian.com/world/2025/jan/04/a-toddler-a-student-a-family-of-nine-who-were-the-victims-of-jeju-air-flight-7c2216)
+- [Justin Baldoni plans to sue Blake Lively after she accused him of harassment](https://www.theguardian.com/film/2025/jan/03/justin-baldoni-lawsuit-against-blake-lively)
+- [Littler’s imperious PDC world title could be the start of darts domination](https://www.theguardian.com/sport/2025/jan/03/littlers-imperious-pdc-world-title-could-be-the-start-of-darts-domination)
+- [Suspected human bones found in Queensland national park](https://www.theguardian.com/australia-news/2025/jan/04/suspected-human-bones-found-in-queensland-national-park-ntwnfb)
+- [Chilean president makes historic trip to south pole amid Antarctica sovereignty claim](https://www.theguardian.com/world/2025/jan/03/chilean-president-makes-historic-trip-to-south-pole-amid-antarctica-sovereignty-claim)
+- [Jude Bellingham seals comeback win for 10-man Real Madrid over Valencia](https://www.theguardian.com/football/2025/jan/03/jude-bellingham-seals-comeback-win-for-10-man-real-madrid-over-valencia)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

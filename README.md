@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Post-quantum public-key encryption: what&#39;s it all about?](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/pq-kem/)
-- [Restricting immigration doesnt benefit native workers: US visa lottery evidence](https://cepr.org/voxeu/columns/restricting-hiring-low-skill-immigrants-hurts-firms-and-does-not-benefit-native-born)
-- [My approach to running a link blog](https://simonwillison.net/2024/Dec/22/link-blog/)
-- [The Problem with SQL Server&#39;s Licensing Costs &lpar;2023&rpar;](https://www.brentozar.com/archive/2023/11/the-real-problem-with-sql-servers-licensing-costs/)
-- [Memory control deficits in the sleep-deprived human brain](https://www.pnas.org/doi/10.1073/pnas.2400743122)
-- [Can someone who works on GitHub explain why &quot;Hide whitespace&quot; doesn&#39;t persist?](https://news.ycombinator.com/item?id=42581546)
-- [Enough with the LLM hysteria!](https://beabytes.com/llm-hysteria/)
-- [Ask: Why is it called plastic surgery?](https://news.ycombinator.com/item?id=42581536)
-- [Apple Watch with Vitality](https://www.johnhancock.com/life-insurance/vitality/apple-watch.html)
-- [What&#39;s Holding Back InstaPay? Overcoming Barriers to Digital Payments in the PH](https://ianm.com/posts/2024-12-16-instapay)
+- [The INVENTION OF BATTLEZONE And how the U.S. Army hijacked the videogame &lpar;2022&rpar;](https://spectrum.ieee.org/battlezone)
+- [Lisp Is Not an Acceptable Lisp](http://steve-yegge.blogspot.com/2006/04/lisp-is-not-acceptable-lisp.html)
+- [AV Artifact Atlas](https://www.avartifactatlas.com/)
+- [Dec- Personal Challenge &lpar;1982&rpar;](https://www.youtube.com/watch?v=YKbnbvF_2Ew)
+- [RailsConf 2025 will be the last gathering of its kind](https://rubycentral.org/news/announcing-railsconf-2025-and-a-new-chapter-for-ruby-central-events/)
+- [Elon&#39;s IQ Shredder: Our immigration strategy accelerates Idiocracy](https://becomingnoble.substack.com/p/elons-iq-shredder)
+- [Lean: Programming Language and Theorem Prover](https://lean-lang.org/)
+- [Researchers develop edible biofilm for extending fruit shelf life](https://phys.org/news/2024-12-edible-biofilm-fruit-shelf-life.html)
+- [JupyterLab &quot;Magic Wand&quot;: An in-cell AI assistant for JupyterLab notebooks](https://github.com/Zsailer/jupyterlab-magic-wand)
+- [Inside the hands-on lab of an experimental archaeologist](https://arstechnica.com/science/2025/01/inside-the-hands-on-lab-of-an-experimental-archaeologist/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

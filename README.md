@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The INVENTION OF BATTLEZONE And how the U.S. Army hijacked the videogame &lpar;2022&rpar;](https://spectrum.ieee.org/battlezone)
-- [Lisp Is Not an Acceptable Lisp](http://steve-yegge.blogspot.com/2006/04/lisp-is-not-acceptable-lisp.html)
-- [AV Artifact Atlas](https://www.avartifactatlas.com/)
-- [Dec- Personal Challenge &lpar;1982&rpar;](https://www.youtube.com/watch?v=YKbnbvF_2Ew)
-- [RailsConf 2025 will be the last gathering of its kind](https://rubycentral.org/news/announcing-railsconf-2025-and-a-new-chapter-for-ruby-central-events/)
-- [Elon&#39;s IQ Shredder: Our immigration strategy accelerates Idiocracy](https://becomingnoble.substack.com/p/elons-iq-shredder)
-- [Lean: Programming Language and Theorem Prover](https://lean-lang.org/)
-- [Researchers develop edible biofilm for extending fruit shelf life](https://phys.org/news/2024-12-edible-biofilm-fruit-shelf-life.html)
-- [JupyterLab &quot;Magic Wand&quot;: An in-cell AI assistant for JupyterLab notebooks](https://github.com/Zsailer/jupyterlab-magic-wand)
-- [Inside the hands-on lab of an experimental archaeologist](https://arstechnica.com/science/2025/01/inside-the-hands-on-lab-of-an-experimental-archaeologist/)
+- [Oils 0.24.0 – Closures, Objects, and Namespaces](https://www.oilshell.org/blog/2025/01/release-0.24.0.html)
+- [More Liberals add to calls for Trudeau&#39;s resignation](https://globalnews.ca/news/10941556/justin-trudea-more-calls-to-resign-liberals/)
+- [&#39;Dark Money&#39; Is Tainting Washington Think Tanks](https://www.politico.com/news/magazine/2025/01/03/foreign-money-think-tanks-00196252)
+- [Bob Dylan has some Dylanesque thoughts on the &quot;sorcery&quot; of technology](https://arstechnica.com/culture/2025/01/bob-dylan-wont-watch-dog-ass-tv-but-he-will-binge-the-twilight-zone/)
+- [Refurb Weekend: Atari Stacy](http://oldvcr.blogspot.com/2025/01/refurb-weekend-atari-stacy.html)
+- [Luciano Berio](https://en.wikipedia.org/wiki/Luciano_Berio)
+- [Ask HN: How do you coax useful code from AI?](https://news.ycombinator.com/item?id=42599232)
+- [No more needles Tracking blood sugar on your wrist](https://uwaterloo.ca/news/media/no-more-needles-tracking-blood-sugar-your-wrist)
+- [Please give me feedback on my new social music sharing and discovery app](https://news.ycombinator.com/item?id=42599178)
+- [The AirGradient DIY Air Quality Sensor](https://www.airgradient.com/documentation/diy/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

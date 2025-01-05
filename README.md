@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Show HN: I aggregated over 200 Go-To-Market strategies](https://fellowry.com/)
-- [The State of Generative Models](https://nrehiew.github.io/blog/2024/)
-- [Conscious unbossing – 52% of GenZ professionals don&#39;t want to be middle managers](https://www.robertwalters.co.uk/insights/news/blog/conscious-unbossing.html)
-- [A marriage of solar energy and farming](https://www.ksjd.org/2024-12-31/in-colorado-a-marriage-of-solar-energy-and-farming-provides-a-model-for-a-more-sustainable-future)
-- [Swc4j: SWC for Java](https://github.com/caoccao/swc4j)
-- [Kids can&#39;t use computers and this is why it should worry you &lpar;2013&rpar;](http://www.coding2learn.org/blog/2013/07/29/kids-cant-use-computers/)
-- [A path to O1 open source](https://arxiv.org/abs/2412.14135)
-- [F-Droid Fake Signer PoC](https://github.com/obfusk/fdroid-fakesigner-poc)
-- [Extend &lpar;YC W23&rpar; is hiring engineers to build LLM document processing](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37)
-- [VoxelSpace: Terrain rendering algorithm in less than 20 lines of code &lpar;2020&rpar;](https://github.com/s-macke/VoxelSpace)
+- [No-hole surgery: no keyhole, yet surgeons can now still operate under your skin](https://www.nibib.nih.gov/news-events/newsroom/getting-under-your-skin-3d-printing-technique-builds-structures-through-tissues)
+- [Web page annoyances that I don&#39;t inflict on you here](http://rachelbythebay.com/w/2025/01/04/cruft/)
+- [Do Kwon pleads not guilty to US fraud charges in $40B crypto collapse](https://www.reuters.com/legal/former-crypto-executive-do-kwon-due-us-court-criminal-fraud-charges-2025-01-02/)
+- [University of Alabama Engineer Pioneers New Process for Recycling Plastics &lpar;2024&rpar;](https://news.ua.edu/2024/10/ua-chemical-engineer-plastic-recycling/)
+- [Labwc: Wlroots-based window-stacking compositor for Wayland, inspired by openbox](https://labwc.github.io/)
+- [ELKS: Linux for 16-bit Intel Processors](https://github.com/ghaerr/elks)
+- [Show HN: Open Rewind – POC for audio and screen and video streaming to S3](https://github.com/janwilmake/efficient-recorder)
+- [A Return to Polymathy &lpar;2015&rpar; [pdf]](https://paulrcohen.github.io/papers/Polymathy.pdf)
+- [Infisical &lpar;YC W23&rpar; Is Hiring Solutions Engineers](https://www.ycombinator.com/companies/infisical/jobs/yaEvock-solutions-engineer)
+- [Combining 15s interval whole-sky-camera photos to form a 4y spanning keogram](https://astrodon.social/@cgbassa/113770318993975063)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

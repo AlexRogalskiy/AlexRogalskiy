@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Australia v India: fifth men’s cricket Test, day two – live](https://www.theguardian.com/sport/live/2025/jan/04/australia-vs-india-live-cricket-score-5th-test-aus-v-ind-day-2-scores-today-scorecard-results-start-time-sydney-scg)
-- [Ukraine war briefing: Five killed and homes damaged in series of Russian and Ukrainian attacks](https://www.theguardian.com/world/2025/jan/04/ukraine-war-briefing-five-killed-and-homes-damaged-in-series-of-russian-and-ukrainian-attacks)
-- [Soul singer Brenton Wood, behind the 1967 hit Oogum Boogum Song, dies aged 83](https://www.theguardian.com/music/2025/jan/03/brenton-wood-dies-oogum-boogum-song)
-- [FBI finds bomb-making material at home of New Orleans attack suspect](https://www.theguardian.com/us-news/2025/jan/03/fbi-new-orleans-attack-suspect)
-- [A toddler, a student, a family of nine: who were the victims of Jeju Air flight 7C2216?](https://www.theguardian.com/world/2025/jan/04/a-toddler-a-student-a-family-of-nine-who-were-the-victims-of-jeju-air-flight-7c2216)
-- [Justin Baldoni plans to sue Blake Lively after she accused him of harassment](https://www.theguardian.com/film/2025/jan/03/justin-baldoni-lawsuit-against-blake-lively)
-- [Littler’s imperious PDC world title could be the start of darts domination](https://www.theguardian.com/sport/2025/jan/03/littlers-imperious-pdc-world-title-could-be-the-start-of-darts-domination)
-- [Suspected human bones found in Queensland national park](https://www.theguardian.com/australia-news/2025/jan/04/suspected-human-bones-found-in-queensland-national-park-ntwnfb)
-- [Chilean president makes historic trip to south pole amid Antarctica sovereignty claim](https://www.theguardian.com/world/2025/jan/03/chilean-president-makes-historic-trip-to-south-pole-amid-antarctica-sovereignty-claim)
-- [Jude Bellingham seals comeback win for 10-man Real Madrid over Valencia](https://www.theguardian.com/football/2025/jan/03/jude-bellingham-seals-comeback-win-for-10-man-real-madrid-over-valencia)
+- [Australia v India: fifth men’s cricket Test, day three – live](https://www.theguardian.com/sport/live/2025/jan/05/australia-vs-india-live-cricket-score-5th-test-aus-v-ind-day-3-scores-today-scorecard-results-start-time-sydney-scg)
+- [The edit: the best activewear essentials - in pictures](https://www.theguardian.com/fashion/gallery/2025/jan/04/the-edit-the-best-activewear-essentials-in-pictures)
+- [UK weather: power cuts, traffic chaos and cancelled flights due to heavy snow](https://www.theguardian.com/uk-news/2025/jan/04/uk-weather-snow-rain-amber-warning-latest)
+- [Arteta rages at Brighton penalty award: ‘I’ve never seen a decision like this’](https://www.theguardian.com/football/2025/jan/04/arteta-rages-at-brighton-penalty-award-ive-never-seen-a-decision-like-this)
+- [‘Picture Nigel Farage as PM’: jubilant Reform UK dares to dream at East of England conference](https://www.theguardian.com/politics/2025/jan/04/picture-nigel-farage-as-pm-jubilant-reform-uk-dares-to-dream-at-east-of-england-conference)
+- [Coalition talks between Austria’s two biggest centrist parties collapse](https://www.theguardian.com/world/2025/jan/04/coalition-talks-between-austrias-two-biggest-centrist-parties-collapse)
+- [Ruben Amorim shapes up as Manchester United’s fall guy but rot runs deeper | Jonathan Wilson](https://www.theguardian.com/football/blog/2025/jan/04/ruben-amorim-shaping-up-manchester-united-fall-guy)
+- [‘Everything is destroyed, nothing could be saved:’ anger and despair in communities devastated by North West floods](https://www.theguardian.com/environment/2025/jan/04/everything-is-destroyed-the-residents-facing-financial-ruin-after-merseysides-flood-defences-failed-yet-again)
+- [Tom Willis double puts Saracens back on track against Bristol after humbling](https://www.theguardian.com/sport/2025/jan/04/saracens-bristol-premiership-rugby-union-match-report)
+- [New year, new Keir? Labour have big plans for 2025 - including taking inspiration from Thatcher](https://www.theguardian.com/politics/2025/jan/04/new-year-new-keir-labour-have-big-plans-for-2025-including-taking-inspiration-from-thatcher)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

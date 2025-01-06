@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [No-hole surgery: no keyhole, yet surgeons can now still operate under your skin](https://www.nibib.nih.gov/news-events/newsroom/getting-under-your-skin-3d-printing-technique-builds-structures-through-tissues)
-- [Web page annoyances that I don&#39;t inflict on you here](http://rachelbythebay.com/w/2025/01/04/cruft/)
-- [Do Kwon pleads not guilty to US fraud charges in $40B crypto collapse](https://www.reuters.com/legal/former-crypto-executive-do-kwon-due-us-court-criminal-fraud-charges-2025-01-02/)
-- [University of Alabama Engineer Pioneers New Process for Recycling Plastics &lpar;2024&rpar;](https://news.ua.edu/2024/10/ua-chemical-engineer-plastic-recycling/)
-- [Labwc: Wlroots-based window-stacking compositor for Wayland, inspired by openbox](https://labwc.github.io/)
-- [ELKS: Linux for 16-bit Intel Processors](https://github.com/ghaerr/elks)
-- [Show HN: Open Rewind – POC for audio and screen and video streaming to S3](https://github.com/janwilmake/efficient-recorder)
-- [A Return to Polymathy &lpar;2015&rpar; [pdf]](https://paulrcohen.github.io/papers/Polymathy.pdf)
-- [Infisical &lpar;YC W23&rpar; Is Hiring Solutions Engineers](https://www.ycombinator.com/companies/infisical/jobs/yaEvock-solutions-engineer)
-- [Combining 15s interval whole-sky-camera photos to form a 4y spanning keogram](https://astrodon.social/@cgbassa/113770318993975063)
+- [Engineer Eats Efficiently](https://futureboy.us/blog/twofifty.html)
+- [Reflections](https://blog.samaltman.com/reflections)
+- [This Is Not Your Last Job](https://v5.chriskrycho.com/journal/this-is-not-your-last-job/)
+- [Global Regulations Enabling 6 GHz Wi-Fi](https://www.wi-fi.org/regulations-enabling-6-ghz-wi-fi)
+- [Why America is stuck with an elevator crisis](https://www.axios.com/2025/01/05/elevators-escalators-regulations-buildings-construction)
+- [Show HN: LogLayer – Unified logger that routes logs to various logging libraries](https://loglayer.dev/)
+- [Killed by LLM](https://r0bk.github.io/killedbyllm/)
+- [In 2025, People Will Try Living in This Underwater Habitat](https://spectrum.ieee.org/ocean-engineering)
+- [Duolicious – Open-source dating app](https://github.com/duolicious)
+- [Republishing My Simpsons Fan Site, Twenty Years Later](https://www.bingeclock.com/blog/post/republishing-my-simpsons-fan-site-twenty-years-later)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

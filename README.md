@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Oils 0.24.0 – Closures, Objects, and Namespaces](https://www.oilshell.org/blog/2025/01/release-0.24.0.html)
-- [More Liberals add to calls for Trudeau&#39;s resignation](https://globalnews.ca/news/10941556/justin-trudea-more-calls-to-resign-liberals/)
-- [&#39;Dark Money&#39; Is Tainting Washington Think Tanks](https://www.politico.com/news/magazine/2025/01/03/foreign-money-think-tanks-00196252)
-- [Bob Dylan has some Dylanesque thoughts on the &quot;sorcery&quot; of technology](https://arstechnica.com/culture/2025/01/bob-dylan-wont-watch-dog-ass-tv-but-he-will-binge-the-twilight-zone/)
-- [Refurb Weekend: Atari Stacy](http://oldvcr.blogspot.com/2025/01/refurb-weekend-atari-stacy.html)
-- [Luciano Berio](https://en.wikipedia.org/wiki/Luciano_Berio)
-- [Ask HN: How do you coax useful code from AI?](https://news.ycombinator.com/item?id=42599232)
-- [No more needles Tracking blood sugar on your wrist](https://uwaterloo.ca/news/media/no-more-needles-tracking-blood-sugar-your-wrist)
-- [Please give me feedback on my new social music sharing and discovery app](https://news.ycombinator.com/item?id=42599178)
-- [The AirGradient DIY Air Quality Sensor](https://www.airgradient.com/documentation/diy/)
+- [Mastering Server Side Rendering in Next.js](https://medium.com/digital-minds/mastering-server-side-rendering-in-next-js-an-advanced-guide-2b63d9f4f3cf)
+- [Google Whitepaper on Agents](https://www.kaggle.com/whitepaper-agents)
+- [Printf Debugging Is OK](https://www.polymonster.co.uk/blog/printf-debugging-is-ok)
+- [High schoolers capture Earth from balloon in stratosphere](https://www.asahi.com/ajw/articles/15555306)
+- [When Did Trolling Become Inextricably Linked with Pedophilia?](https://moonmetropolis.substack.com/p/when-did-trolling-become-inextricably)
+- [Future of ARM BSA/PC-BSA/SBSA Checklist Page](https://marcin.juszkiewicz.com.pl/2025/01/05/future-of-bsapc-bsasbsa-checklist-page/)
+- [Apple&#39;s 2024 report card: the Mac](https://birchtree.me/blog/apples-2024-report-card-the-mac/)
+- [English-friendly Romanization system proposed for Japanese language](https://www.asahi.com/ajw/articles/15572687)
+- [Kentucky Cops Raid Wrong Home, Kill Innocent Man over Alleged Stolen Weed Eater](https://atlantablackstar.com/2024/12/31/kentucky-cops-raid-wrong-home-kill-man-over-alleged-stolen-weed-eater/)
+- [Candidate Recommendation Snapshots Published by the Verifiable Credentials WG](https://www.w3.org/news/2024/five-candidate-recommendation-snapshots-published-by-the-verifiable-credentials-working-group/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

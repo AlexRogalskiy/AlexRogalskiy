@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Mastering Server Side Rendering in Next.js](https://medium.com/digital-minds/mastering-server-side-rendering-in-next-js-an-advanced-guide-2b63d9f4f3cf)
-- [Google Whitepaper on Agents](https://www.kaggle.com/whitepaper-agents)
-- [Printf Debugging Is OK](https://www.polymonster.co.uk/blog/printf-debugging-is-ok)
-- [High schoolers capture Earth from balloon in stratosphere](https://www.asahi.com/ajw/articles/15555306)
-- [When Did Trolling Become Inextricably Linked with Pedophilia?](https://moonmetropolis.substack.com/p/when-did-trolling-become-inextricably)
-- [Future of ARM BSA/PC-BSA/SBSA Checklist Page](https://marcin.juszkiewicz.com.pl/2025/01/05/future-of-bsapc-bsasbsa-checklist-page/)
-- [Apple&#39;s 2024 report card: the Mac](https://birchtree.me/blog/apples-2024-report-card-the-mac/)
-- [English-friendly Romanization system proposed for Japanese language](https://www.asahi.com/ajw/articles/15572687)
-- [Kentucky Cops Raid Wrong Home, Kill Innocent Man over Alleged Stolen Weed Eater](https://atlantablackstar.com/2024/12/31/kentucky-cops-raid-wrong-home-kill-man-over-alleged-stolen-weed-eater/)
-- [Candidate Recommendation Snapshots Published by the Verifiable Credentials WG](https://www.w3.org/news/2024/five-candidate-recommendation-snapshots-published-by-the-verifiable-credentials-working-group/)
+- [Noah Smith: How do we measure whether China&#39;s economy is &quot;ahead&quot; of America&#39;s?](https://www.noahpinion.blog/)
+- [It&#39;s Still Easier to Imagine the End of the World Than the End of Capitalism](https://www.astralcodexten.com/p/its-still-easier-to-imagine-the-end)
+- [Nvidia CEO Jensen Huang Keynote at CES 2025](https://www.youtube.com/watch?v=k82RwXqZHY8)
+- [Why GraphQL Isn&#39;t Just for the Enterprise](https://www.ravianand.me/blog/small-teams-big-wins-why-graphql-isnt-just-for-the-enterprise)
+- [The Whyline Debugging Tool](https://www.cs.cmu.edu/~NatProg/whyline.html)
+- [Discovery of trimodal energy storage material boosts renewable energy potential](https://techxplore.com/news/2024-12-discovery-trimodal-energy-storage-material.html)
+- [Vulnerabilities &lpar;CVEs&rpar; Reserved per Year as a Proxy for US Economy?](https://vulnerability.blog/2025/01/06/vulnerabilities-cves-reserved-per-year-as-a-proxy-for-us-economic-conditions-and-outlook/)
+- [The Bryan Johnson Approach to Eng Productivity](https://smalldiffs.gmfoster.com/p/the-brian-johnson-approach-to-eng)
+- [First Impressions of Ghostty](https://www.jonashietala.se/blog/2025/01/06/first_impressions_of_ghostty/)
+- [AMD releases new Ryzen AI Max 16 core CPUs for laptops](https://www.amd.com/en/newsroom/press-releases/2025-1-6-amd-announces-expanded-consumer-and-commercial-ai-.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

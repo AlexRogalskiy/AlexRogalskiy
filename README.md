@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Golden Globes 2025: the winners, the losers, the red carpet – live!](https://www.theguardian.com/film/live/2025/jan/05/golden-globes-2025-the-winners-the-losers-the-red-carpet-live)
-- [Ukraine war briefing: fierce fighting reported in Russia’s Kursk region amid new Ukrainian offensive](https://www.theguardian.com/world/2025/jan/06/ukraine-war-briefing-fierce-fighting-reported-in-russias-kursk-region-amid-new-ukrainian-offensive)
-- [Waitangi Day: record crowds expected amid tensions over Māori policy in New Zealand](https://www.theguardian.com/world/2025/jan/06/waitangi-day-2025-record-crowds-maori-policy-new-zealand)
-- [Biden signs bill to boost social security payments for millions of public workers](https://www.theguardian.com/us-news/2025/jan/05/biden-social-security-fairness-act)
-- [Give working parents help with childcare and commuting costs, UK thinktank says](https://www.theguardian.com/society/2025/jan/06/give-working-parents-help-with-childcare-and-commuting-costs-uk-thinktank-says)
-- [Harlan Coben says ‘quite a bit of tragedy’ in his 20s made him a better writer](https://www.theguardian.com/books/2025/jan/06/harlan-coben-says-quite-a-bit-of-tragedy-in-his-20s-made-him-a-better-writer)
-- [UK charity steps up campaign against child hygiene poverty](https://www.theguardian.com/society/2025/jan/06/uk-charity-multibank-campaign-children-hygiene-poverty-gordon-brown)
-- [Swinney to warn opposition of fuelling populism if Scottish budget not passed](https://www.theguardian.com/politics/2025/jan/06/swinney-to-warn-opposition-of-fuelling-populism-if-scottish-budget-not-passed)
-- [FBI investigates potential associates of New Orleans attacker in US and abroad](https://www.theguardian.com/us-news/2025/jan/05/new-orleans-attack-fbi)
-- [European football: lifelong Roma fan Pellegrini takes down Lazio in derby](https://www.theguardian.com/football/2025/jan/05/european-football-lifelong-roma-fan-pellegrini-takes-down-lazio-in-derby)
+- [Congress certifies Trump’s election win: ‘Today, America’s democracy stood’](https://www.theguardian.com/us-news/2025/jan/06/congress-trump-election-result-certify)
+- [Rudy Giuliani found in contempt of court over response to defamation judgment](https://www.theguardian.com/us-news/2025/jan/06/rudy-giuliani-contempt-court-defamation-case)
+- [Aubrey Plaza calls husband Jeff Baena’s death ‘an unimaginable tragedy’](https://www.theguardian.com/culture/2025/jan/07/aubrey-plaza-statement-husband-jeff-baena-death)
+- [UK retailers may have to cut thousands of jobs after bleak Christmas](https://www.theguardian.com/business/2025/jan/07/uk-retailers-cut-jobs-christmas-sales-growth-card-spending)
+- [Labour to make taking intimate images without consent a criminal offence](https://www.theguardian.com/uk-news/2025/jan/07/labour-to-make-taking-intimate-images-without-consent-a-criminal-offence)
+- [Rural internet deserts in England and Wales to finally get fast broadband](https://www.theguardian.com/technology/2025/jan/07/rural-internet-deserts-in-england-and-wales-to-finally-get-fast-broadband)
+- [Demi, Jodie and Nicole: is Hollywood finally ready to recognise complex female characters over 40? | Natasha Ginnivan](https://www.theguardian.com/commentisfree/2025/jan/07/hollywood-female-characters-over-40-demi-moore-jodie-foster-nicole-kidman)
+- [McDonald’s rolls back DEI programs, ending push for greater diversity](https://www.theguardian.com/business/2025/jan/06/mcdonalds-diversity-programs)
+- [The Amazon Review Killer review – should we really still be watching this evil drivel in 2025?](https://www.theguardian.com/tv-and-radio/2025/jan/06/the-amazon-review-killer-review-should-we-really-still-be-watching-this-evil-drivel-in-2025)
+- [Trump loses bid to delay sentencing in hush-money case](https://www.theguardian.com/us-news/2025/jan/06/trump-hush-money-sentencing)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

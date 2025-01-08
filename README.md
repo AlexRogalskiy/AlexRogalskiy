@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Noah Smith: How do we measure whether China&#39;s economy is &quot;ahead&quot; of America&#39;s?](https://www.noahpinion.blog/)
-- [It&#39;s Still Easier to Imagine the End of the World Than the End of Capitalism](https://www.astralcodexten.com/p/its-still-easier-to-imagine-the-end)
-- [Nvidia CEO Jensen Huang Keynote at CES 2025](https://www.youtube.com/watch?v=k82RwXqZHY8)
-- [Why GraphQL Isn&#39;t Just for the Enterprise](https://www.ravianand.me/blog/small-teams-big-wins-why-graphql-isnt-just-for-the-enterprise)
-- [The Whyline Debugging Tool](https://www.cs.cmu.edu/~NatProg/whyline.html)
-- [Discovery of trimodal energy storage material boosts renewable energy potential](https://techxplore.com/news/2024-12-discovery-trimodal-energy-storage-material.html)
-- [Vulnerabilities &lpar;CVEs&rpar; Reserved per Year as a Proxy for US Economy?](https://vulnerability.blog/2025/01/06/vulnerabilities-cves-reserved-per-year-as-a-proxy-for-us-economic-conditions-and-outlook/)
-- [The Bryan Johnson Approach to Eng Productivity](https://smalldiffs.gmfoster.com/p/the-brian-johnson-approach-to-eng)
-- [First Impressions of Ghostty](https://www.jonashietala.se/blog/2025/01/06/first_impressions_of_ghostty/)
-- [AMD releases new Ryzen AI Max 16 core CPUs for laptops](https://www.amd.com/en/newsroom/press-releases/2025-1-6-amd-announces-expanded-consumer-and-commercial-ai-.html)
+- [Federal Government Website Performance &lpar;U.S.&rpar;](https://www.performance.gov/cx/websiteperformance/)
+- [Superflares Erupt from Stars Like Our Sun Once Every 100 Years](https://www.nytimes.com/2024/12/12/science/sun-superflares-stars.html)
+- [Halon 1301 The Instant Firefighter [video]](https://www.youtube.com/watch?v=NrP5-E9jmas)
+- [Show HN: A social platform where teams compete to improve world [cipher article]](https://137163.in/)
+- [Mouthfeel](https://en.wikipedia.org/wiki/Mouthfeel)
+- [Sam Altman&#39;s sister files lawsuits against Sam alleging sexual abuse](https://www.cnbc.com/2025/01/07/openais-sam-altman-denies-sexual-abuse-allegations-made-sister-ann.html)
+- [Double-Keyed Caching: How Browser Cache Partitioning Changed the Web](https://addyosmani.com/blog/double-keyed-caching/)
+- [Intermediate values defend against Goodharting](https://cosmos.bearblog.dev/intermediate-values-defend-against-goodharting/)
+- [Notion Faces Builder](https://faces.notion.com)
+- [US designates tech giant Tencent as Chinese military company](https://english.kyodonews.net/news/2025/01/04b3692e7b41-update1-us-designates-tech-giant-tencent-as-chinese-military-company.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

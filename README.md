@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Congress certifies Trump’s election win: ‘Today, America’s democracy stood’](https://www.theguardian.com/us-news/2025/jan/06/congress-trump-election-result-certify)
-- [Rudy Giuliani found in contempt of court over response to defamation judgment](https://www.theguardian.com/us-news/2025/jan/06/rudy-giuliani-contempt-court-defamation-case)
-- [Aubrey Plaza calls husband Jeff Baena’s death ‘an unimaginable tragedy’](https://www.theguardian.com/culture/2025/jan/07/aubrey-plaza-statement-husband-jeff-baena-death)
-- [UK retailers may have to cut thousands of jobs after bleak Christmas](https://www.theguardian.com/business/2025/jan/07/uk-retailers-cut-jobs-christmas-sales-growth-card-spending)
-- [Labour to make taking intimate images without consent a criminal offence](https://www.theguardian.com/uk-news/2025/jan/07/labour-to-make-taking-intimate-images-without-consent-a-criminal-offence)
-- [Rural internet deserts in England and Wales to finally get fast broadband](https://www.theguardian.com/technology/2025/jan/07/rural-internet-deserts-in-england-and-wales-to-finally-get-fast-broadband)
-- [Demi, Jodie and Nicole: is Hollywood finally ready to recognise complex female characters over 40? | Natasha Ginnivan](https://www.theguardian.com/commentisfree/2025/jan/07/hollywood-female-characters-over-40-demi-moore-jodie-foster-nicole-kidman)
-- [McDonald’s rolls back DEI programs, ending push for greater diversity](https://www.theguardian.com/business/2025/jan/06/mcdonalds-diversity-programs)
-- [The Amazon Review Killer review – should we really still be watching this evil drivel in 2025?](https://www.theguardian.com/tv-and-radio/2025/jan/06/the-amazon-review-killer-review-should-we-really-still-be-watching-this-evil-drivel-in-2025)
-- [Trump loses bid to delay sentencing in hush-money case](https://www.theguardian.com/us-news/2025/jan/06/trump-hush-money-sentencing)
+- [Southern California wildfire: Palisades blaze doubles in size to more than 2,920 acres – live updates](https://www.theguardian.com/us-news/live/2025/jan/07/southern-california-wildfire-windstorm-live-updates)
+- [Fast-moving wildfire destroys homes as strong winds hit southern California](https://www.theguardian.com/us-news/2025/jan/07/california-windstorm-fire-risk)
+- [Former Cambodian opposition politician shot dead in Bangkok – reports](https://www.theguardian.com/world/2025/jan/08/former-cambodian-opposition-politician-shot-dead-in-bangkok-reports)
+- [Schools in England face ‘death by a thousand cuts’, headteachers say](https://www.theguardian.com/education/2025/jan/08/schools-england-cuts-rising-costs-funding)
+- [The maps that show how China’s military is squeezing Taiwan](https://www.theguardian.com/world/2025/jan/08/the-maps-that-show-how-chinas-military-is-squeezing-taiwan)
+- [Rolls-Royce to invest £300m in expansion of Goodwood factory](https://www.theguardian.com/business/2025/jan/08/rolls-royce-to-invest-300m-in-expansion-of-goodwood-factory)
+- [Labour says cap on school uniform items could save families £50 a child](https://www.theguardian.com/education/2025/jan/08/labour-says-cap-on-school-uniform-items-could-save-families-50-a-child)
+- [‘Flat packing them’: soldier says SAS described killing Afghans in casual way](https://www.theguardian.com/uk-news/2025/jan/08/flat-packing-them-soldier-says-sas-described-killing-afghans-in-casual-way)
+- [Fewer than one in 14 male humpback whales in New Caledonia are fathers](https://www.theguardian.com/environment/2025/jan/08/fewer-than-one-in-14-male-humpback-whales-in-new-caledonia-are-fathers)
+- [Wildfire in Pacific Palisades, California – in pictures](https://www.theguardian.com/us-news/gallery/2025/jan/07/wildfire-in-pacific-palisades-california-in-pictures)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

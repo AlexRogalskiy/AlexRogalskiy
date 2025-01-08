@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [How I Program with LLMs](https://crawshaw.io/blog/programming-with-llms)
-- [Amidst the Noise and Haste, Google Has Successfully Pulled a SpaceX](https://markmaunder.com/2025/amidst-the-noise-and-haste-google-has-successfully-pulled-a-spacex/)
-- [I live my life a quarter century at a time](https://tla.systems/blog/2025/01/04/i-live-my-life-a-quarter-century-at-a-time/)
-- [2DGD_F0TH A compendium of the community knowledge on game design and development](https://github.com/2DGD-F0TH/2DGD_F0TH)
-- [Dtack Grounded archive &lpar;1981-1985&rpar;](http://www.easy68k.com/paulrsm/dg/)
-- [Artie &lpar;YC S23&rpar; Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/artie/jobs/N3AosVU-founding-engineer)
-- [Triptych Proposals](https://alexanderpetros.com/triptych/)
-- [Used Meta AI, now Instagram is using my face on ads targeted at me](https://old.reddit.com/r/ABoringDystopia/comments/1ht7fft/used_meta_ai_to_edit_a_selfie_now_instagram_is/)
-- [Self-Hostable Form Back End – OSS Alternative to Formspree](https://github.com/FormBee/FormBee)
-- [An autumn bike adventure down the US portion of the Eastern Divide Trail](https://www.crazyguyonabike.com/doc/?doc_id=26078)
+- [Oracle Will Not Voluntarily Withdraw JavaScript Trademark](https://twitter.com/deno_land/status/1876728474666217739)
+- [A day in the life of a prolific voice phishing crew](https://krebsonsecurity.com/2025/01/a-day-in-the-life-of-a-prolific-voice-phishing-crew/)
+- [When will we fix the tools that run the world?](https://www.cgustavo.com/blog/tools)
+- [Automated accessibility testing at Slack](https://slack.engineering/automated-accessibility-testing-at-slack/)
+- [Securing Web Sites Made Them Less Accessible](https://meyerweb.com/eric/thoughts/2018/08/07/securing-sites-made-them-less-accessible/)
+- [Laid off for the first time in my career, and twice in one year](https://dillonshook.com/laid-off/)
+- [Magic/tragic email links: don&#39;t make them the only option](https://recyclebin.zip/posts/annoyinglinks/)
+- [Mistakes engineers make in large established codebases](https://www.seangoedecke.com/large-established-codebases/)
+- [Online Behavioral Ads Fuel the Surveillance Industry](https://www.eff.org/deeplinks/2025/01/online-behavioral-ads-fuel-surveillance-industry-heres-how)
+- [Streets GL – 3D OpenStreetMap](https://streets.gl/#47.35245,8.50958,21.25,42.00,459.10)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

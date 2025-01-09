@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Oracle Will Not Voluntarily Withdraw JavaScript Trademark](https://twitter.com/deno_land/status/1876728474666217739)
-- [A day in the life of a prolific voice phishing crew](https://krebsonsecurity.com/2025/01/a-day-in-the-life-of-a-prolific-voice-phishing-crew/)
-- [When will we fix the tools that run the world?](https://www.cgustavo.com/blog/tools)
-- [Automated accessibility testing at Slack](https://slack.engineering/automated-accessibility-testing-at-slack/)
-- [Securing Web Sites Made Them Less Accessible](https://meyerweb.com/eric/thoughts/2018/08/07/securing-sites-made-them-less-accessible/)
-- [Laid off for the first time in my career, and twice in one year](https://dillonshook.com/laid-off/)
-- [Magic/tragic email links: don&#39;t make them the only option](https://recyclebin.zip/posts/annoyinglinks/)
-- [Mistakes engineers make in large established codebases](https://www.seangoedecke.com/large-established-codebases/)
-- [Online Behavioral Ads Fuel the Surveillance Industry](https://www.eff.org/deeplinks/2025/01/online-behavioral-ads-fuel-surveillance-industry-heres-how)
-- [Streets GL – 3D OpenStreetMap](https://streets.gl/#47.35245,8.50958,21.25,42.00,459.10)
+- [You don&#39;t have to pay the Microsoft 365 price increase](https://www.consumer.org.nz/articles/you-don-t-have-to-pay-the-microsoft-365-price-increase)
+- [28h Days: year 1 update](https://sidhion.com/blog/28h_days_update_1/)
+- [A Supermarket in California &lpar;1955&rpar;](https://www.poetryfoundation.org/poems/47660/a-supermarket-in-california)
+- [Steve Langasek, one of Ubuntu Linux&#39;s leading lights, has died](https://thenewstack.io/steve-langasek-one-of-ubuntu-linuxs-leading-lights-has-died/)
+- [Salesforce will hire no more software engineers in 2025, says Marc Benioff](https://www.salesforceben.com/salesforce-will-hire-no-more-software-engineers-in-2025-says-marc-benioff/)
+- [LA wildfires force thousands to evacuate, NASA JPL closed](https://www.theregister.com/2025/01/08/los_angeles_fires_jpl/)
+- [I had to take down my course-swapping site or be expelled](https://www.linkedin.com/posts/jdkaim_github-jdkaimhuskyswap-huskyswap-project-activity-7282609173316415488-1jdb)
+- [Multiplicative Infinitesimals](https://github.com/Ericson2314/baccumulation/blob/main/math/multiplicative-infinitesimals.md)
+- [Some programming language ideas](https://jerf.org/iri/post/2025/programming_language_ideas/)
+- [NeuralSVG: An Implicit Representation for Text-to-Vector Generation](https://sagipolaczek.github.io/NeuralSVG/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

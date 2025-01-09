@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Federal Government Website Performance &lpar;U.S.&rpar;](https://www.performance.gov/cx/websiteperformance/)
-- [Superflares Erupt from Stars Like Our Sun Once Every 100 Years](https://www.nytimes.com/2024/12/12/science/sun-superflares-stars.html)
-- [Halon 1301 The Instant Firefighter [video]](https://www.youtube.com/watch?v=NrP5-E9jmas)
-- [Show HN: A social platform where teams compete to improve world [cipher article]](https://137163.in/)
-- [Mouthfeel](https://en.wikipedia.org/wiki/Mouthfeel)
-- [Sam Altman&#39;s sister files lawsuits against Sam alleging sexual abuse](https://www.cnbc.com/2025/01/07/openais-sam-altman-denies-sexual-abuse-allegations-made-sister-ann.html)
-- [Double-Keyed Caching: How Browser Cache Partitioning Changed the Web](https://addyosmani.com/blog/double-keyed-caching/)
-- [Intermediate values defend against Goodharting](https://cosmos.bearblog.dev/intermediate-values-defend-against-goodharting/)
-- [Notion Faces Builder](https://faces.notion.com)
-- [US designates tech giant Tencent as Chinese military company](https://english.kyodonews.net/news/2025/01/04b3692e7b41-update1-us-designates-tech-giant-tencent-as-chinese-military-company.html)
+- [A mutual aid resource map for those affected by the fires in LA](https://fireaid.info/)
+- [Anthropic News RSS Feed](https://raw.githubusercontent.com/Olshansk/rss-feeds/refs/heads/main/feeds/feed_anthropic.xml)
+- [7% mortgage rates will change housing for a decade](https://www.housingwire.com/articles/how-7-mortgage-rates-will-change-housing-for-a-decade/)
+- [Job Board for Lobbyists](https://www.eujobs.co)
+- [A trip to urgent care almost destroyed me](https://www.bostonglobe.com/2025/01/08/opinion/urgent-care-mental-health-steroids/)
+- [Nvidia&#39;s CEO Explains How Its New AI Models Could Work on Future Smart Glasses](https://www.cnet.com/tech/mobile/nvidias-ceo-explains-how-its-new-ai-models-could-work-on-future-smart-glasses/)
+- [Our longstanding privacy commitment with Siri](https://www.apple.com/newsroom/2025/01/our-longstanding-privacy-commitment-with-siri/)
+- [A free AI-Excel tool](https://exceleasy.org)
+- [I Got a Magnet Implanted in My Hand](https://vale.rocks/posts/my-experience-biohacking)
+- [CES Proves It&#39;s Still Deeply Weird with These Bonkers Gadgets](https://www.cnet.com/pictures/weirdest-gadgets-of-ces-2025-so-far/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

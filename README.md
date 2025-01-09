@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Southern California wildfire: Palisades blaze doubles in size to more than 2,920 acres – live updates](https://www.theguardian.com/us-news/live/2025/jan/07/southern-california-wildfire-windstorm-live-updates)
-- [Fast-moving wildfire destroys homes as strong winds hit southern California](https://www.theguardian.com/us-news/2025/jan/07/california-windstorm-fire-risk)
-- [Former Cambodian opposition politician shot dead in Bangkok – reports](https://www.theguardian.com/world/2025/jan/08/former-cambodian-opposition-politician-shot-dead-in-bangkok-reports)
-- [Schools in England face ‘death by a thousand cuts’, headteachers say](https://www.theguardian.com/education/2025/jan/08/schools-england-cuts-rising-costs-funding)
-- [The maps that show how China’s military is squeezing Taiwan](https://www.theguardian.com/world/2025/jan/08/the-maps-that-show-how-chinas-military-is-squeezing-taiwan)
-- [Rolls-Royce to invest £300m in expansion of Goodwood factory](https://www.theguardian.com/business/2025/jan/08/rolls-royce-to-invest-300m-in-expansion-of-goodwood-factory)
-- [Labour says cap on school uniform items could save families £50 a child](https://www.theguardian.com/education/2025/jan/08/labour-says-cap-on-school-uniform-items-could-save-families-50-a-child)
-- [‘Flat packing them’: soldier says SAS described killing Afghans in casual way](https://www.theguardian.com/uk-news/2025/jan/08/flat-packing-them-soldier-says-sas-described-killing-afghans-in-casual-way)
-- [Fewer than one in 14 male humpback whales in New Caledonia are fathers](https://www.theguardian.com/environment/2025/jan/08/fewer-than-one-in-14-male-humpback-whales-in-new-caledonia-are-fathers)
-- [Wildfire in Pacific Palisades, California – in pictures](https://www.theguardian.com/us-news/gallery/2025/jan/07/wildfire-in-pacific-palisades-california-in-pictures)
+- [California fires live: sixth wildfire breaks out in Los Angeles as five people killed](https://www.theguardian.com/us-news/live/2025/jan/08/california-los-angeles-fires-live-updates)
+- [Elon Musk’s political evolution – podcast](https://www.theguardian.com/news/audio/2025/jan/09/elon-musks-political-evolution-podcast)
+- [Two lynx on the loose in the Scottish Highlands](https://www.theguardian.com/uk-news/2025/jan/09/two-lynx-released-loose-scotland-scottish-highlands)
+- [Ukraine war briefing: US to announce $500m in aid for Kyiv ahead of Ramstein meeting](https://www.theguardian.com/world/2025/jan/09/ukraine-war-briefing-us-to-announce-500m-in-aid-for-kyiv-ahead-of-ramstein-meeting)
+- [Japanese yakuza leader pleads guilty to trafficking nuclear materials from Myanmar](https://www.theguardian.com/world/2025/jan/09/takeshi-ebisawa-yakuza-leader-nuclear-materials-myanmar)
+- [Trump shares inflammatory video with crude reference to Netanyahu](https://www.theguardian.com/us-news/2025/jan/08/trump-video-crude-reference-netanyahu)
+- [British IS members in Syria should be allowed home, says Trump’s counter-terror pick](https://www.theguardian.com/world/2025/jan/09/uk-is-members-in-syria-should-be-allowed-home-says-trump-counter-terror-pick)
+- [New Caledonia Congress elects pro-France president after political crisis](https://www.theguardian.com/world/2025/jan/09/new-caledonia-congress-elects-alcide-ponga-president)
+- [Food for public sector to be monitored to see how much is grown in UK](https://www.theguardian.com/environment/2025/jan/09/food-for-public-sector-to-be-monitored-to-see-how-much-is-grown-in-uk)
+- [Pants on fire: police release footage of person discarding burning clothes after alleged arson in Melbourne](https://www.theguardian.com/australia-news/2025/jan/09/pants-on-fire-cctv-video-alleged-arson-doncaster-east-melbourne)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

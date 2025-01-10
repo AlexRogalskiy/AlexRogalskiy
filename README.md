@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [A mutual aid resource map for those affected by the fires in LA](https://fireaid.info/)
-- [Anthropic News RSS Feed](https://raw.githubusercontent.com/Olshansk/rss-feeds/refs/heads/main/feeds/feed_anthropic.xml)
-- [7% mortgage rates will change housing for a decade](https://www.housingwire.com/articles/how-7-mortgage-rates-will-change-housing-for-a-decade/)
-- [Job Board for Lobbyists](https://www.eujobs.co)
-- [A trip to urgent care almost destroyed me](https://www.bostonglobe.com/2025/01/08/opinion/urgent-care-mental-health-steroids/)
-- [Nvidia&#39;s CEO Explains How Its New AI Models Could Work on Future Smart Glasses](https://www.cnet.com/tech/mobile/nvidias-ceo-explains-how-its-new-ai-models-could-work-on-future-smart-glasses/)
-- [Our longstanding privacy commitment with Siri](https://www.apple.com/newsroom/2025/01/our-longstanding-privacy-commitment-with-siri/)
-- [A free AI-Excel tool](https://exceleasy.org)
-- [I Got a Magnet Implanted in My Hand](https://vale.rocks/posts/my-experience-biohacking)
-- [CES Proves It&#39;s Still Deeply Weird with These Bonkers Gadgets](https://www.cnet.com/pictures/weirdest-gadgets-of-ces-2025-so-far/)
+- [Hearing a Mysterious Chime from Your AirPods Pro Case? It&#39;s a Feature](https://www.macrumors.com/2025/01/09/airpods-pro-chime-sound/)
+- [Meta Confesses to Training Llama with Pirated LibGen Data [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.cand.415175/gov.uscourts.cand.415175.376.0.pdf)
+- [Amazon MemoryDB Multi-Region is now generally available](https://aws.amazon.com/blogs/aws/amazon-memorydb-multi-region-is-now-generally-available/)
+- [Hunyuan Video is a gift to the open-source community](https://old.reddit.com/r/StableDiffusion/comments/1hxgybf/hunyuan_video_is_really_an_amazing_gift_to_the/)
+- [Yertle the Turtle](https://en.wikipedia.org/wiki/Yertle_the_Turtle_and_Other_Stories)
+- [You can now disable comments on GitHub gists](https://github.blog/changelog/2025-01-06-you-can-now-disable-comments-on-github-gists/)
+- [An American purchase of Greenland could be the deal of the century](https://www.economist.com/finance-and-economics/2025/01/08/an-american-purchase-of-greenland-could-be-the-deal-of-the-century)
+- [Vintage Computing for Docker, Raspberry Pi, and Debian](https://github.com/jgoerzen/vintage-computing)
+- [SEC Head Warns Against &#39;AI Washing,&#39; the High-Tech Version of &#39;Greenwashing&#39;](https://www.wsj.com/articles/sec-head-warns-against-ai-washing-the-high-tech-version-of-greenwashing-6ff60da9)
+- [Show HN: Meta Wrapped – Spotify Wrapped but for Instagram and WhatsApp](https://www.metawrapped.com/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

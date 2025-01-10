@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [California fires live: sixth wildfire breaks out in Los Angeles as five people killed](https://www.theguardian.com/us-news/live/2025/jan/08/california-los-angeles-fires-live-updates)
-- [Elon Musk’s political evolution – podcast](https://www.theguardian.com/news/audio/2025/jan/09/elon-musks-political-evolution-podcast)
-- [Two lynx on the loose in the Scottish Highlands](https://www.theguardian.com/uk-news/2025/jan/09/two-lynx-released-loose-scotland-scottish-highlands)
-- [Ukraine war briefing: US to announce $500m in aid for Kyiv ahead of Ramstein meeting](https://www.theguardian.com/world/2025/jan/09/ukraine-war-briefing-us-to-announce-500m-in-aid-for-kyiv-ahead-of-ramstein-meeting)
-- [Japanese yakuza leader pleads guilty to trafficking nuclear materials from Myanmar](https://www.theguardian.com/world/2025/jan/09/takeshi-ebisawa-yakuza-leader-nuclear-materials-myanmar)
-- [Trump shares inflammatory video with crude reference to Netanyahu](https://www.theguardian.com/us-news/2025/jan/08/trump-video-crude-reference-netanyahu)
-- [British IS members in Syria should be allowed home, says Trump’s counter-terror pick](https://www.theguardian.com/world/2025/jan/09/uk-is-members-in-syria-should-be-allowed-home-says-trump-counter-terror-pick)
-- [New Caledonia Congress elects pro-France president after political crisis](https://www.theguardian.com/world/2025/jan/09/new-caledonia-congress-elects-alcide-ponga-president)
-- [Food for public sector to be monitored to see how much is grown in UK](https://www.theguardian.com/environment/2025/jan/09/food-for-public-sector-to-be-monitored-to-see-how-much-is-grown-in-uk)
-- [Pants on fire: police release footage of person discarding burning clothes after alleged arson in Melbourne](https://www.theguardian.com/australia-news/2025/jan/09/pants-on-fire-cctv-video-alleged-arson-doncaster-east-melbourne)
+- [California fires live updates: at least six deaths as Los Angeles wildfires rage and crews battle new fire](https://www.theguardian.com/us-news/live/2025/jan/08/california-los-angeles-fires-live-updates)
+- [US supreme court rejects Trump bid to call off sentencing in hush-money case](https://www.theguardian.com/us-news/2025/jan/09/trump-hush-money-sentencing)
+- [Australia violated rights of asylum seekers on Nauru, UN watchdog rules](https://www.theguardian.com/australia-news/2025/jan/10/australia-violated-rights-of-asylum-seekers-on-nauru-un-watchdog-rules)
+- [‘No one will stop our people’: Bougainville president defiant in push for independence](https://www.theguardian.com/world/2025/jan/10/no-one-will-stop-our-people-bougainville-president-defiant-in-push-for-independence)
+- [Bank of Dave 2: The Loan Ranger review – Rory Kinnear files a solid return as the bloke from Burnley](https://www.theguardian.com/film/2025/jan/10/bank-of-dave-2-the-loan-ranger-review-rory-kinnear-files-a-solid-return-as-the-bloke-from-burnley)
+- [Hiring freeze at dozens of NHS cancer and diagnostic units despite rising referrals](https://www.theguardian.com/society/2025/jan/10/hiring-freeze-nhs-cancer-diagnostic-units-rising-referrals)
+- [UK music industry hails proposals to crack down on ticket touting](https://www.theguardian.com/business/2025/jan/10/uk-music-industry-government-crackdown-ticket-touting)
+- [World’s richest use up their fair share of 2025 carbon budget in 10 days](https://www.theguardian.com/environment/2025/jan/10/worlds-richest-use-up-their-fair-share-of-2025-carbon-budget-in-10-days)
+- [FA Cup third round: 10 things to look out for this weekend](https://www.theguardian.com/football/2025/jan/10/fa-cup-third-round-10-things-to-look-out-for-this-weekend)
+- [Anita Bryant, singer and anti-gay rights crusader, dies aged 84](https://www.theguardian.com/us-news/2025/jan/09/anita-bryant-singer-anti-gay-rights-crusader-dies)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

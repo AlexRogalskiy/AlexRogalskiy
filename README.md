@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [You don&#39;t have to pay the Microsoft 365 price increase](https://www.consumer.org.nz/articles/you-don-t-have-to-pay-the-microsoft-365-price-increase)
-- [28h Days: year 1 update](https://sidhion.com/blog/28h_days_update_1/)
-- [A Supermarket in California &lpar;1955&rpar;](https://www.poetryfoundation.org/poems/47660/a-supermarket-in-california)
-- [Steve Langasek, one of Ubuntu Linux&#39;s leading lights, has died](https://thenewstack.io/steve-langasek-one-of-ubuntu-linuxs-leading-lights-has-died/)
-- [Salesforce will hire no more software engineers in 2025, says Marc Benioff](https://www.salesforceben.com/salesforce-will-hire-no-more-software-engineers-in-2025-says-marc-benioff/)
-- [LA wildfires force thousands to evacuate, NASA JPL closed](https://www.theregister.com/2025/01/08/los_angeles_fires_jpl/)
-- [I had to take down my course-swapping site or be expelled](https://www.linkedin.com/posts/jdkaim_github-jdkaimhuskyswap-huskyswap-project-activity-7282609173316415488-1jdb)
-- [Multiplicative Infinitesimals](https://github.com/Ericson2314/baccumulation/blob/main/math/multiplicative-infinitesimals.md)
-- [Some programming language ideas](https://jerf.org/iri/post/2025/programming_language_ideas/)
-- [NeuralSVG: An Implicit Representation for Text-to-Vector Generation](https://sagipolaczek.github.io/NeuralSVG/)
+- [Television: Fast general purpose fuzzy finder TUI](https://github.com/alexpasmantier/television)
+- [Predictions Scorecard, 2025 January 01](https://rodneybrooks.com/predictions-scorecard-2025-january-01/)
+- [Ask HN: Work on robotics or agents?](https://news.ycombinator.com/item?id=42651226)
+- [Candy Crush, Tinder, MyFitnessPal: Apps hijacked to spy on location](https://www.wired.com/story/gravy-location-data-app-leak-rtb/)
+- [Disappointed with the TVs at CES 2025](https://arstechnica.com/gadgets/2025/01/ces-2025-teases-alarming-smart-tv-future-loaded-with-unwanted-software-gimmicks/)
+- [Soldering the Tek way](https://hackaday.com/2025/01/09/retrotechtacular-soldering-the-tek-way/)
+- [Shaping ligatures in monospace fonts](https://joshleeb.com/posts/monospace-ligatures.html)
+- [Ask HN: A friend has brain cancer: any bio hacks that worked?](https://news.ycombinator.com/item?id=42649996)
+- [How Britain got its first internet connection &lpar;2015&rpar;](https://theconversation.com/how-britain-got-its-first-internet-connection-by-the-late-pioneer-who-created-the-first-password-on-the-internet-45404)
+- [Perpetual Movement: Francis Picabia&#39;s 391 Review &lpar;1917–1924&rpar;](https://publicdomainreview.org/collection/francis-picabia-391-review/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

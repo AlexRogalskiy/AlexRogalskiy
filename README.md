@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Television: Fast general purpose fuzzy finder TUI](https://github.com/alexpasmantier/television)
-- [Predictions Scorecard, 2025 January 01](https://rodneybrooks.com/predictions-scorecard-2025-january-01/)
-- [Ask HN: Work on robotics or agents?](https://news.ycombinator.com/item?id=42651226)
-- [Candy Crush, Tinder, MyFitnessPal: Apps hijacked to spy on location](https://www.wired.com/story/gravy-location-data-app-leak-rtb/)
-- [Disappointed with the TVs at CES 2025](https://arstechnica.com/gadgets/2025/01/ces-2025-teases-alarming-smart-tv-future-loaded-with-unwanted-software-gimmicks/)
-- [Soldering the Tek way](https://hackaday.com/2025/01/09/retrotechtacular-soldering-the-tek-way/)
-- [Shaping ligatures in monospace fonts](https://joshleeb.com/posts/monospace-ligatures.html)
-- [Ask HN: A friend has brain cancer: any bio hacks that worked?](https://news.ycombinator.com/item?id=42649996)
-- [How Britain got its first internet connection &lpar;2015&rpar;](https://theconversation.com/how-britain-got-its-first-internet-connection-by-the-late-pioneer-who-created-the-first-password-on-the-internet-45404)
-- [Perpetual Movement: Francis Picabia&#39;s 391 Review &lpar;1917–1924&rpar;](https://publicdomainreview.org/collection/francis-picabia-391-review/)
+- [My AI/LLM predictions for the next 1, 3 and 6 years](https://simonwillison.net/2025/Jan/10/ai-predictions/)
+- [Pathfinding to a moving target in evolving terrain](https://www.holm.dog/2025/01/finding-many-paths-to-moving-target-in.html)
+- [Very Wrong Math](https://www.charlespetzold.com/blog/2025/01/Very-Wrong-Math.html)
+- [Portals and Quake](https://30fps.net/pages/pvs-portals-and-quake/)
+- [Building Bauble](https://ianthehenry.com/posts/bauble/building-bauble/)
+- [Phi-4 Bug Fixes](https://unsloth.ai/blog/phi4)
+- [Flattening ASTs &lpar;and Other Compiler Data Structures&rpar;](https://www.cs.cornell.edu/~asampson/blog/flattening.html)
+- [Cuttle – a MTG like game using a standard 52 card deck](https://www.pagat.com/combat/cuttle.html)
+- [Mercury&#39;s shadowy North Pole revealed by M-CAM 1](https://www.esa.int/ESA_Multimedia/Images/2025/01/Mercury_s_shadowy_north_pole_revealed_by_M-CAM_1)
+- [Meta&#39;s memo to employees rolling back DEI programs](https://www.axios.com/2025/01/10/meta-dei-memo-employees-programs)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

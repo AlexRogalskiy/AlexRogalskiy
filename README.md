@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Hearing a Mysterious Chime from Your AirPods Pro Case? It&#39;s a Feature](https://www.macrumors.com/2025/01/09/airpods-pro-chime-sound/)
-- [Meta Confesses to Training Llama with Pirated LibGen Data [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.cand.415175/gov.uscourts.cand.415175.376.0.pdf)
-- [Amazon MemoryDB Multi-Region is now generally available](https://aws.amazon.com/blogs/aws/amazon-memorydb-multi-region-is-now-generally-available/)
-- [Hunyuan Video is a gift to the open-source community](https://old.reddit.com/r/StableDiffusion/comments/1hxgybf/hunyuan_video_is_really_an_amazing_gift_to_the/)
-- [Yertle the Turtle](https://en.wikipedia.org/wiki/Yertle_the_Turtle_and_Other_Stories)
-- [You can now disable comments on GitHub gists](https://github.blog/changelog/2025-01-06-you-can-now-disable-comments-on-github-gists/)
-- [An American purchase of Greenland could be the deal of the century](https://www.economist.com/finance-and-economics/2025/01/08/an-american-purchase-of-greenland-could-be-the-deal-of-the-century)
-- [Vintage Computing for Docker, Raspberry Pi, and Debian](https://github.com/jgoerzen/vintage-computing)
-- [SEC Head Warns Against &#39;AI Washing,&#39; the High-Tech Version of &#39;Greenwashing&#39;](https://www.wsj.com/articles/sec-head-warns-against-ai-washing-the-high-tech-version-of-greenwashing-6ff60da9)
-- [Show HN: Meta Wrapped – Spotify Wrapped but for Instagram and WhatsApp](https://www.metawrapped.com/)
+- [WordPress: Joost/Karim Fork](https://wordpress.org/news/2025/01/jkpress/)
+- [Apollo Instruments DSKY Moonwatch](https://apollo-instruments.com/)
+- [transformer-scope: script for visualizing activations](https://github.com/attentionmech/transformer-scope)
+- [The Strangest Plants](https://worldsensorium.com/7-of-the-worlds-strangest-plants/)
+- [Pico Iyer&#39;s Wide-Awake Silence](https://nautil.us/pico-iyers-wide-awake-silence-1177556/)
+- [My AI/LLM predictions for the next 1, 3 and 6 years](https://simonwillison.net/2025/Jan/10/ai-predictions/)
+- [How to Build a Better Bike Lane, According to Transportation Officials](https://www.bloomberg.com/news/articles/2025-01-10/how-to-build-a-better-bike-lane-according-to-transportation-officials)
+- [Scott Aaronson – The truth about quantum computing](https://iai.tv/video/the-truth-about-quantum-computing)
+- [Mecha](https://mecha.so)
+- [Just Present the First Draft!](https://blog.nawaz.org/posts/2025/Jan/just-present-the-first-draft/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

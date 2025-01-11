@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [California fires live updates: at least six deaths as Los Angeles wildfires rage and crews battle new fire](https://www.theguardian.com/us-news/live/2025/jan/08/california-los-angeles-fires-live-updates)
-- [US supreme court rejects Trump bid to call off sentencing in hush-money case](https://www.theguardian.com/us-news/2025/jan/09/trump-hush-money-sentencing)
-- [Australia violated rights of asylum seekers on Nauru, UN watchdog rules](https://www.theguardian.com/australia-news/2025/jan/10/australia-violated-rights-of-asylum-seekers-on-nauru-un-watchdog-rules)
-- [‘No one will stop our people’: Bougainville president defiant in push for independence](https://www.theguardian.com/world/2025/jan/10/no-one-will-stop-our-people-bougainville-president-defiant-in-push-for-independence)
-- [Bank of Dave 2: The Loan Ranger review – Rory Kinnear files a solid return as the bloke from Burnley](https://www.theguardian.com/film/2025/jan/10/bank-of-dave-2-the-loan-ranger-review-rory-kinnear-files-a-solid-return-as-the-bloke-from-burnley)
-- [Hiring freeze at dozens of NHS cancer and diagnostic units despite rising referrals](https://www.theguardian.com/society/2025/jan/10/hiring-freeze-nhs-cancer-diagnostic-units-rising-referrals)
-- [UK music industry hails proposals to crack down on ticket touting](https://www.theguardian.com/business/2025/jan/10/uk-music-industry-government-crackdown-ticket-touting)
-- [World’s richest use up their fair share of 2025 carbon budget in 10 days](https://www.theguardian.com/environment/2025/jan/10/worlds-richest-use-up-their-fair-share-of-2025-carbon-budget-in-10-days)
-- [FA Cup third round: 10 things to look out for this weekend](https://www.theguardian.com/football/2025/jan/10/fa-cup-third-round-10-things-to-look-out-for-this-weekend)
-- [Anita Bryant, singer and anti-gay rights crusader, dies aged 84](https://www.theguardian.com/us-news/2025/jan/09/anita-bryant-singer-anti-gay-rights-crusader-dies)
+- [California wildfires live updates: Los Angeles death toll rises to 11 as governor orders water investigation](https://www.theguardian.com/us-news/live/2025/jan/10/la-fires-live-updates-california-los-angeles-wildfires-fire-map-latest-news)
+- [‘I had to save myself’: details emerge about Los Angeles wildfire fatalities](https://www.theguardian.com/us-news/2025/jan/10/los-angeles-wildfires-victims)
+- [How Los Angeles wildfire smoke affects mental health](https://www.theguardian.com/wellness/article/2025/jan/10/fire-smoke-affect-mental-health)
+- [Labour MPs urge Rachel Reeves to demand Jimmy Lai’s release](https://www.theguardian.com/politics/2025/jan/11/labour-mps-urge-rachel-reeves-to-demand-jimmy-lai-release)
+- [‘Hotel of mum and dad’ in UK at its fullest in two decades, study finds](https://www.theguardian.com/society/2025/jan/11/hotel-of-mum-and-dad-in-uk-at-its-fullest-in-two-decades-study-finds)
+- [IDF soldiers on leave among New Orleans truck attack victims](https://www.theguardian.com/us-news/2025/jan/10/idf-soldiers-new-orleans-truck-attack-victims)
+- [Inside the ‘fortress’ where South Korea’s impeached president awaits his fate](https://www.theguardian.com/world/2025/jan/11/inside-south-korea-president-residence-fortress)
+- [UK records -17.3C in chilliest January night in 15 years](https://www.theguardian.com/uk-news/2025/jan/10/uk-cold-weather-health-alert-extended-england)
+- [Panama Canal will remain Panamanian and open to all nations, says official](https://www.theguardian.com/world/2025/jan/10/panama-canal-to-be-run-by-panama-and-open-to-trade-from-all-nations-says-official)
+- [Amazon dials back DEI programs ahead of Trump inauguration](https://www.theguardian.com/technology/2025/jan/10/amazon-ending-dei-programs)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

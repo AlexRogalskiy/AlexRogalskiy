@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [WordPress: Joost/Karim Fork](https://wordpress.org/news/2025/01/jkpress/)
-- [Apollo Instruments DSKY Moonwatch](https://apollo-instruments.com/)
-- [transformer-scope: script for visualizing activations](https://github.com/attentionmech/transformer-scope)
-- [The Strangest Plants](https://worldsensorium.com/7-of-the-worlds-strangest-plants/)
-- [Pico Iyer&#39;s Wide-Awake Silence](https://nautil.us/pico-iyers-wide-awake-silence-1177556/)
-- [My AI/LLM predictions for the next 1, 3 and 6 years](https://simonwillison.net/2025/Jan/10/ai-predictions/)
-- [How to Build a Better Bike Lane, According to Transportation Officials](https://www.bloomberg.com/news/articles/2025-01-10/how-to-build-a-better-bike-lane-according-to-transportation-officials)
-- [Scott Aaronson – The truth about quantum computing](https://iai.tv/video/the-truth-about-quantum-computing)
-- [Mecha](https://mecha.so)
-- [Just Present the First Draft!](https://blog.nawaz.org/posts/2025/Jan/just-present-the-first-draft/)
+- [Anchoring the FSF in Its Values](https://www.fsf.org/news/anchoring-the-fsf-in-its-values)
+- [Ask HN: Pull the curtain back on Nvidia&#39;s CES keynote please](https://news.ycombinator.com/item?id=42670808)
+- [Early Iron Age horse sacrifice at a royal tomb in southern Siberia](https://www.cambridge.org/core/journals/antiquity/article/spectral-cavalcade-early-iron-age-horse-sacrifice-at-a-royal-tomb-in-southern-siberia/80E0B627528E00EA7C2AE4456F182DAC)
+- [FSE Sprite Compression](https://blog.giovanh.com/blog/2025/01/03/fse-sprite-compression/)
+- [WebAssembly Memory64 in Chrome 133](https://chromestatus.com/feature/5070065734516736)
+- [Who profits from our medical records? &lpar;2020&rpar;](https://www.medicaleconomics.com/view/who-profits-our-medical-records)
+- [Amazon&#39;s 5-Day RTO Appears to Be More Flexible in Europe Than the US](https://www.businessinsider.com/amazon-return-to-office-flexible-work-europe-us-rto-2025-1)
+- [Show HN: I built an AI-powered job offer analyzer to decode total compensation](https://www.careercomps.io/)
+- [Hope Diamond Delivered by Mail [pdf]](https://about.usps.com/who-we-are/postal-history/hope-diamond.pdf)
+- [Throne of Nerds](https://web.archive.org/web/20140807114516/http://mike.dewolfe.bc.ca/art/throne_of_nerds.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

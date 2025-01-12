@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [California wildfires live updates: Los Angeles death toll rises to 11 as governor orders water investigation](https://www.theguardian.com/us-news/live/2025/jan/10/la-fires-live-updates-california-los-angeles-wildfires-fire-map-latest-news)
-- [‘I had to save myself’: details emerge about Los Angeles wildfire fatalities](https://www.theguardian.com/us-news/2025/jan/10/los-angeles-wildfires-victims)
-- [How Los Angeles wildfire smoke affects mental health](https://www.theguardian.com/wellness/article/2025/jan/10/fire-smoke-affect-mental-health)
-- [Labour MPs urge Rachel Reeves to demand Jimmy Lai’s release](https://www.theguardian.com/politics/2025/jan/11/labour-mps-urge-rachel-reeves-to-demand-jimmy-lai-release)
-- [‘Hotel of mum and dad’ in UK at its fullest in two decades, study finds](https://www.theguardian.com/society/2025/jan/11/hotel-of-mum-and-dad-in-uk-at-its-fullest-in-two-decades-study-finds)
-- [IDF soldiers on leave among New Orleans truck attack victims](https://www.theguardian.com/us-news/2025/jan/10/idf-soldiers-new-orleans-truck-attack-victims)
-- [Inside the ‘fortress’ where South Korea’s impeached president awaits his fate](https://www.theguardian.com/world/2025/jan/11/inside-south-korea-president-residence-fortress)
-- [UK records -17.3C in chilliest January night in 15 years](https://www.theguardian.com/uk-news/2025/jan/10/uk-cold-weather-health-alert-extended-england)
-- [Panama Canal will remain Panamanian and open to all nations, says official](https://www.theguardian.com/world/2025/jan/10/panama-canal-to-be-run-by-panama-and-open-to-trade-from-all-nations-says-official)
-- [Amazon dials back DEI programs ahead of Trump inauguration](https://www.theguardian.com/technology/2025/jan/10/amazon-ending-dei-programs)
+- [Women’s Ashes: Australia v England, first one-day international – live](https://www.theguardian.com/sport/live/2025/jan/11/womens-ashes-australia-v-england-first-one-day-international-live)
+- [Ukraine war briefing: Ukraine ‘captures two North Korean soldiers in Russia’](https://www.theguardian.com/world/2025/jan/12/ukraine-war-briefing-ukraine-captures-two-north-korean-soldiers-in-russia)
+- [Callum Simpson stops Steed Woodall early to retain titles on emotional night](https://www.theguardian.com/sport/2025/jan/12/boxing-callum-simpson-steed-woodall-caroline-dubois)
+- [LA fires: international crews arrive to battle raging wildfires as evacuations spread](https://www.theguardian.com/us-news/2025/jan/11/california-wildfires-evacuation-orders-expand)
+- [Labour MP joins calls for national inquiry into grooming gangs](https://www.theguardian.com/uk-news/2025/jan/11/labour-mp-joins-calls-for-national-inquiry-into-grooming-gangs)
+- [European football: Harry Kane back with penalty winner for Bayern Munich](https://www.theguardian.com/football/2025/jan/11/european-football-harry-kane-back-with-penalty-winner-for-bayern-munich)
+- [Our Tiny Islands review – wonderful proof that it is still possible to live a life of contentment](https://www.theguardian.com/tv-and-radio/2025/jan/11/our-tiny-islands-review-channel-4-documentary)
+- [Kyle Walker asks to leave Manchester City in search of a move abroad](https://www.theguardian.com/football/2025/jan/11/kyle-walker-asks-to-leave-manchester-city-in-search-of-a-move-abroad)
+- [Two killed and four seriously injured in bus crash on German motorway](https://www.theguardian.com/world/2025/jan/11/people-killed-and-seriously-injured-in-bus-crash-in-germany)
+- [Trump’s Middle East envoy visits Netanyahu in push for Gaza ceasefire](https://www.theguardian.com/world/2025/jan/11/white-house-working-on-hostage-release-deal-between-hamas-and-israel-says-cia-director)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

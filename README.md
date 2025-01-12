@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [My AI/LLM predictions for the next 1, 3 and 6 years](https://simonwillison.net/2025/Jan/10/ai-predictions/)
-- [Pathfinding to a moving target in evolving terrain](https://www.holm.dog/2025/01/finding-many-paths-to-moving-target-in.html)
-- [Very Wrong Math](https://www.charlespetzold.com/blog/2025/01/Very-Wrong-Math.html)
-- [Portals and Quake](https://30fps.net/pages/pvs-portals-and-quake/)
-- [Building Bauble](https://ianthehenry.com/posts/bauble/building-bauble/)
-- [Phi-4 Bug Fixes](https://unsloth.ai/blog/phi4)
-- [Flattening ASTs &lpar;and Other Compiler Data Structures&rpar;](https://www.cs.cornell.edu/~asampson/blog/flattening.html)
-- [Cuttle – a MTG like game using a standard 52 card deck](https://www.pagat.com/combat/cuttle.html)
-- [Mercury&#39;s shadowy North Pole revealed by M-CAM 1](https://www.esa.int/ESA_Multimedia/Images/2025/01/Mercury_s_shadowy_north_pole_revealed_by_M-CAM_1)
-- [Meta&#39;s memo to employees rolling back DEI programs](https://www.axios.com/2025/01/10/meta-dei-memo-employees-programs)
+- [IP Addresses in 2024](https://www.potaroo.net/ispcol/2025-01/addr2024.html)
+- [Euthanasia Coaster &lpar;2010&rpar;](https://julijonasurbonas.lt/euthanasia_coaster)
+- [Adobe Lightroom&#39;s AI Remove feature added a Bitcoin to bird in flight photo](https://bsky.app/profile/matthewraifman.bsky.social/post/3lfaqbygva22j)
+- [Stop Trying to Schedule a Call with Me](https://matduggan.com/stop-trying-to-schedule-a-call-with-me/)
+- [What it&#39;s like working for American companies as an Australian](https://www.seangoedecke.com/working-for-americans/)
+- [Obvious Things C Should Do](https://twitter.com/WalterBright/status/1878209651306803406)
+- [Chatham House Rule is suddenly everywhere in the Bay Area](https://sfstandard.com/2025/01/11/chatham-house-rule-burnout/)
+- [Darkest and clearest skies at risk from industrial megaproject](https://www.eso.org/public/news/eso2501/)
+- [Map of California roads for cyclers &lpar;1895&rpar;](https://www.loc.gov/resource/g4361p.ct000092/?r=-0.628,0.425,1.749,0.902,0)
+- [Matt Mullenweg deactivates WordPress accounts of contributors planning a fork](https://techcrunch.com/2025/01/11/matt-mullenweg-deactivates-wordpress-accounts-of-contributors-planning-a-fork/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

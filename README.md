@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Anchoring the FSF in Its Values](https://www.fsf.org/news/anchoring-the-fsf-in-its-values)
-- [Ask HN: Pull the curtain back on Nvidia&#39;s CES keynote please](https://news.ycombinator.com/item?id=42670808)
-- [Early Iron Age horse sacrifice at a royal tomb in southern Siberia](https://www.cambridge.org/core/journals/antiquity/article/spectral-cavalcade-early-iron-age-horse-sacrifice-at-a-royal-tomb-in-southern-siberia/80E0B627528E00EA7C2AE4456F182DAC)
-- [FSE Sprite Compression](https://blog.giovanh.com/blog/2025/01/03/fse-sprite-compression/)
-- [WebAssembly Memory64 in Chrome 133](https://chromestatus.com/feature/5070065734516736)
-- [Who profits from our medical records? &lpar;2020&rpar;](https://www.medicaleconomics.com/view/who-profits-our-medical-records)
-- [Amazon&#39;s 5-Day RTO Appears to Be More Flexible in Europe Than the US](https://www.businessinsider.com/amazon-return-to-office-flexible-work-europe-us-rto-2025-1)
-- [Show HN: I built an AI-powered job offer analyzer to decode total compensation](https://www.careercomps.io/)
-- [Hope Diamond Delivered by Mail [pdf]](https://about.usps.com/who-we-are/postal-history/hope-diamond.pdf)
-- [Throne of Nerds](https://web.archive.org/web/20140807114516/http://mike.dewolfe.bc.ca/art/throne_of_nerds.html)
+- [Apple opposes investor calls to end its DEI efforts](https://9to5mac.com/2025/01/10/apple-opposes-investor-calls-to-end-its-dei-efforts/)
+- [The goats fighting fires in Los Angeles](https://www.bbc.com/future/article/20230922-these-la-goats-help-stop-wildfires)
+- [Cheap rj45 ethernet to USB adapter contains malware](https://twitter.com/evapro30/status/1878416900016705783)
+- [Racial Resentment Primes White Americans to Believe Fraud Accusations](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4976524)
+- [Website to track and monitor CVEs in real-time](https://huntdb.com/)
+- [LLaVA-Mini: Efficient Image and Video Large Multimodal Models](https://github.com/ictnlp/LLaVA-Mini)
+- [Wildfire recovery as a &quot;hot moment&quot; for creating fire-adapted communities &lpar;2020&rpar;](https://www.sciencedirect.com/science/article/abs/pii/S2212420919303346)
+- [Why California doesn&#39;t do more prescribed burning](https://jabberwocking.com/why-dont-we-do-more-prescribed-burning-an-explainer/)
+- [Military drone calibration activities to be held in D.C. region](https://www.washingtonpost.com/dc-md-va/2025/01/11/drone-activity-dc-january/)
+- [Autonomous Aircraft for Wildfire Response](https://www.rain.aero)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

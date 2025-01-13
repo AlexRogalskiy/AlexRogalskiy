@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [IP Addresses in 2024](https://www.potaroo.net/ispcol/2025-01/addr2024.html)
-- [Euthanasia Coaster &lpar;2010&rpar;](https://julijonasurbonas.lt/euthanasia_coaster)
-- [Adobe Lightroom&#39;s AI Remove feature added a Bitcoin to bird in flight photo](https://bsky.app/profile/matthewraifman.bsky.social/post/3lfaqbygva22j)
-- [Stop Trying to Schedule a Call with Me](https://matduggan.com/stop-trying-to-schedule-a-call-with-me/)
-- [What it&#39;s like working for American companies as an Australian](https://www.seangoedecke.com/working-for-americans/)
-- [Obvious Things C Should Do](https://twitter.com/WalterBright/status/1878209651306803406)
-- [Chatham House Rule is suddenly everywhere in the Bay Area](https://sfstandard.com/2025/01/11/chatham-house-rule-burnout/)
-- [Darkest and clearest skies at risk from industrial megaproject](https://www.eso.org/public/news/eso2501/)
-- [Map of California roads for cyclers &lpar;1895&rpar;](https://www.loc.gov/resource/g4361p.ct000092/?r=-0.628,0.425,1.749,0.902,0)
-- [Matt Mullenweg deactivates WordPress accounts of contributors planning a fork](https://techcrunch.com/2025/01/11/matt-mullenweg-deactivates-wordpress-accounts-of-contributors-planning-a-fork/)
+- [A decade and a half of instability: The history of Google messaging apps &lpar;2021&rpar;](https://arstechnica.com/gadgets/2021/08/a-decade-and-a-half-of-instability-the-history-of-google-messaging-apps/)
+- [Show HN: Doom &lpar;1993&rpar; in a PDF](https://doompdf.pages.dev/doom.pdf)
+- [Standard Patterns in Choice-Based Games &lpar;2015&rpar;](https://heterogenoustasks.wordpress.com/2015/01/26/standard-patterns-in-choice-based-games/)
+- [FurtherAI &lpar;YC W24&rpar; Is Hiring Across Research, Engineering, and Design](https://www.ycombinator.com/companies/furtherai/jobs)
+- [Qubes OS: Templates](https://www.qubes-os.org/doc/templates/)
+- [Superior Internet Privacy with Whonix](https://www.whonix.org/wiki/Homepage)
+- [Qubes OS: A reasonably secure operating system](https://www.qubes-os.org/)
+- [Microsoft Bob: Microsoft&#39;s biggest flop of the 1990s](https://dfarq.homeip.net/microsoft-bob-microsofts-biggest-flop-of-the-199)
+- [What the TP-Link Ban in the US Means for You](https://thedefendopsdiaries.com/what-the-tp-link-ban-in-the-us-means-for-you/)
+- [The Canva outage: another tale of saturation and resilience](https://surfingcomplexity.blog/2024/12/21/the-canva-outage-another-tale-of-saturation-and-resilience/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

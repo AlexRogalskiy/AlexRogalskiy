@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Women’s Ashes: Australia v England, first one-day international – live](https://www.theguardian.com/sport/live/2025/jan/11/womens-ashes-australia-v-england-first-one-day-international-live)
-- [Ukraine war briefing: Ukraine ‘captures two North Korean soldiers in Russia’](https://www.theguardian.com/world/2025/jan/12/ukraine-war-briefing-ukraine-captures-two-north-korean-soldiers-in-russia)
-- [Callum Simpson stops Steed Woodall early to retain titles on emotional night](https://www.theguardian.com/sport/2025/jan/12/boxing-callum-simpson-steed-woodall-caroline-dubois)
-- [LA fires: international crews arrive to battle raging wildfires as evacuations spread](https://www.theguardian.com/us-news/2025/jan/11/california-wildfires-evacuation-orders-expand)
-- [Labour MP joins calls for national inquiry into grooming gangs](https://www.theguardian.com/uk-news/2025/jan/11/labour-mp-joins-calls-for-national-inquiry-into-grooming-gangs)
-- [European football: Harry Kane back with penalty winner for Bayern Munich](https://www.theguardian.com/football/2025/jan/11/european-football-harry-kane-back-with-penalty-winner-for-bayern-munich)
-- [Our Tiny Islands review – wonderful proof that it is still possible to live a life of contentment](https://www.theguardian.com/tv-and-radio/2025/jan/11/our-tiny-islands-review-channel-4-documentary)
-- [Kyle Walker asks to leave Manchester City in search of a move abroad](https://www.theguardian.com/football/2025/jan/11/kyle-walker-asks-to-leave-manchester-city-in-search-of-a-move-abroad)
-- [Two killed and four seriously injured in bus crash on German motorway](https://www.theguardian.com/world/2025/jan/11/people-killed-and-seriously-injured-in-bus-crash-in-germany)
-- [Trump’s Middle East envoy visits Netanyahu in push for Gaza ceasefire](https://www.theguardian.com/world/2025/jan/11/white-house-working-on-hostage-release-deal-between-hamas-and-israel-says-cia-director)
+- [Australian Open 2025: Tsitsipas, Sinner and Swiatek in action, Gauff through on day two – live](https://www.theguardian.com/sport/live/2025/jan/13/australian-open-2025-live-updates-tennis-day-two-gauff-swiatek-sinner)
+- [LA fires live updates: California death toll rises to 24 as Los Angeles fire chief says ready for strong winds](https://www.theguardian.com/us-news/live/2025/jan/12/california-fires-death-toll-expected-rise-ucla-threatened-winds-latest-updates)
+- [Counter-terrorism police take up investigation of swastika attack at Sydney synagogue](https://www.theguardian.com/australia-news/2025/jan/13/counter-terrorism-police-take-up-investigation-of-swastika-attack-at-sydney-synagogue)
+- [Ukraine war briefing: Kyiv ready to swap North Korean soldiers for Ukrainian PoWs, Zelenskyy says](https://www.theguardian.com/world/2025/jan/13/ukraine-war-briefing-kyiv-ready-to-swap-north-korean-soldiers-for-ukrainian-pows-zelenskyy-says)
+- [Ukraine’s capture of North Koreans offers rare insight into Russian alliance, says Zelenskyy](https://www.theguardian.com/world/2025/jan/12/ukraines-capture-of-north-koreans-offers-rare-insight-into-russian-alliance-says-zelenskyy)
+- [Property sellers in England and Wales ‘make lowest return in a decade’](https://www.theguardian.com/business/2025/jan/13/property-sellers-in-england-and-wales-make-lowest-return-in-a-decade)
+- [Welsh EFL clubs could qualify for Europe through new cup competition](https://www.theguardian.com/football/2025/jan/13/welsh-efl-clubs-qualify-europe-cardiff-swansea-wrexham-newport)
+- [One in six UK workers skipping meals to make ends meet, says TUC](https://www.theguardian.com/business/2025/jan/12/one-in-six-uk-workers-skipping-meals-to-make-ends-meet-says-tuc)
+- [‘Mainlined into UK’s veins’: Labour announces huge public rollout of AI](https://www.theguardian.com/politics/2025/jan/12/mainlined-into-uks-veins-labour-announces-huge-public-rollout-of-ai)
+- [Guardiola undecided on whether Kyle Walker plays for Manchester City again](https://www.theguardian.com/football/2025/jan/12/nathan-ake-manchester-city-youngsters-kyle-walker)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

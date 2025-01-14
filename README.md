@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [A decade and a half of instability: The history of Google messaging apps &lpar;2021&rpar;](https://arstechnica.com/gadgets/2021/08/a-decade-and-a-half-of-instability-the-history-of-google-messaging-apps/)
-- [Show HN: Doom &lpar;1993&rpar; in a PDF](https://doompdf.pages.dev/doom.pdf)
-- [Standard Patterns in Choice-Based Games &lpar;2015&rpar;](https://heterogenoustasks.wordpress.com/2015/01/26/standard-patterns-in-choice-based-games/)
-- [FurtherAI &lpar;YC W24&rpar; Is Hiring Across Research, Engineering, and Design](https://www.ycombinator.com/companies/furtherai/jobs)
-- [Qubes OS: Templates](https://www.qubes-os.org/doc/templates/)
-- [Superior Internet Privacy with Whonix](https://www.whonix.org/wiki/Homepage)
-- [Qubes OS: A reasonably secure operating system](https://www.qubes-os.org/)
-- [Microsoft Bob: Microsoft&#39;s biggest flop of the 1990s](https://dfarq.homeip.net/microsoft-bob-microsofts-biggest-flop-of-the-199)
-- [What the TP-Link Ban in the US Means for You](https://thedefendopsdiaries.com/what-the-tp-link-ban-in-the-us-means-for-you/)
-- [The Canva outage: another tale of saturation and resilience](https://surfingcomplexity.blog/2024/12/21/the-canva-outage-another-tale-of-saturation-and-resilience/)
+- [43K fewer drivers on Manhattan roads after congestion pricing turned on](https://gothamist.com/news/43k-fewer-drivers-on-manhattan-roads-after-congestion-pricing-turned-on-mta-says)
+- [Judge ends man&#39;s 11-year quest to dig up landfill and recover $765M in Bitcoin](https://arstechnica.com/tech-policy/2025/01/judge-ends-mans-11-year-quest-to-dig-up-landfill-and-recover-765m-in-bitcoin/)
+- [GitHub Git Operations Are Down](https://www.githubstatus.com/incidents/qd96yfgvmcf9)
+- [Webtop – Alpine,Ubuntu,Fedora,and Arch containers containing full desktop envs](https://docs.linuxserver.io/images/docker-webtop/)
+- [voyage-code-3](https://blog.voyageai.com/2024/12/04/voyage-code-3/)
+- [Snyk security researcher deploys malicious NPM packages targeting Cursor.com](https://sourcecodered.com/snyk-malicious-npm-package/)
+- [Scientists Discover Underground Water Vault in Oregon 3x the Size of Lake Mead](https://scitechdaily.com/scientists-discover-a-massive-underground-water-vault-in-oregon-3x-the-size-of-lake-mead/)
+- [Sonos CEO steps down after app update debacle](https://www.reuters.com/business/retail-consumer/sonos-ceo-patrick-spence-steps-down-after-app-update-debacle-2025-01-13/)
+- [How corn syrup took over America](https://thehustle.co/originals/how-corn-syrup-took-over-america)
+- [AI Engineer Reading List](https://www.latent.space/p/2025-papers)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

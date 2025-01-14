@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Apple opposes investor calls to end its DEI efforts](https://9to5mac.com/2025/01/10/apple-opposes-investor-calls-to-end-its-dei-efforts/)
-- [The goats fighting fires in Los Angeles](https://www.bbc.com/future/article/20230922-these-la-goats-help-stop-wildfires)
-- [Cheap rj45 ethernet to USB adapter contains malware](https://twitter.com/evapro30/status/1878416900016705783)
-- [Racial Resentment Primes White Americans to Believe Fraud Accusations](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4976524)
-- [Website to track and monitor CVEs in real-time](https://huntdb.com/)
-- [LLaVA-Mini: Efficient Image and Video Large Multimodal Models](https://github.com/ictnlp/LLaVA-Mini)
-- [Wildfire recovery as a &quot;hot moment&quot; for creating fire-adapted communities &lpar;2020&rpar;](https://www.sciencedirect.com/science/article/abs/pii/S2212420919303346)
-- [Why California doesn&#39;t do more prescribed burning](https://jabberwocking.com/why-dont-we-do-more-prescribed-burning-an-explainer/)
-- [Military drone calibration activities to be held in D.C. region](https://www.washingtonpost.com/dc-md-va/2025/01/11/drone-activity-dc-january/)
-- [Autonomous Aircraft for Wildfire Response](https://www.rain.aero)
+- [HPE may have bagged $1B order from Elon Musk&#39;s X for AI servers](https://www.theregister.com/2025/01/14/hpe_x_ai/)
+- [Greenland and the Coldest War](https://www.palladiummag.com/2025/01/10/greenland-and-the-coldest-war/)
+- [Quantum Computing: Hype vs. Reality](https://moreisdifferent.blog/p/quantum-computing-hype-vs-reality)
+- [How much land do wildfires burn in the US?](https://usafacts.org/articles/how-much-damage-do-wildfires-do-in-the-us/)
+- [Tao Lin: My Spiritual Evolution](https://granta.com/my-spiritual-evolution/)
+- [43K fewer drivers on Manhattan roads after congestion pricing turned on](https://gothamist.com/news/43k-fewer-drivers-on-manhattan-roads-after-congestion-pricing-turned-on-mta-says)
+- [An 836-pound &#39;cursed&#39; emerald traveled the Americas, ruining lives](https://www.latimes.com/california/story/2024-12-13/colossal-emerald-curses-lives-of-smugglers-schemers-and-dreamers-or-is-greed-to-blame)
+- [Flippyr.am](https://flippyr.am/)
+- [Winconaa: A color ASCII-art SDL video driver for the Win32 console &lpar;2003&rpar;](http://jstanley.pingerthinger.com/winconaa.html)
+- [Dark Side of Open Source: The Community Strikes Back](https://horovits.medium.com/dark-side-of-open-source-the-community-strikes-back-400a1a5c679e)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

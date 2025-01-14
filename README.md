@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Australian Open 2025: Tsitsipas, Sinner and Swiatek in action, Gauff through on day two – live](https://www.theguardian.com/sport/live/2025/jan/13/australian-open-2025-live-updates-tennis-day-two-gauff-swiatek-sinner)
-- [LA fires live updates: California death toll rises to 24 as Los Angeles fire chief says ready for strong winds](https://www.theguardian.com/us-news/live/2025/jan/12/california-fires-death-toll-expected-rise-ucla-threatened-winds-latest-updates)
-- [Counter-terrorism police take up investigation of swastika attack at Sydney synagogue](https://www.theguardian.com/australia-news/2025/jan/13/counter-terrorism-police-take-up-investigation-of-swastika-attack-at-sydney-synagogue)
-- [Ukraine war briefing: Kyiv ready to swap North Korean soldiers for Ukrainian PoWs, Zelenskyy says](https://www.theguardian.com/world/2025/jan/13/ukraine-war-briefing-kyiv-ready-to-swap-north-korean-soldiers-for-ukrainian-pows-zelenskyy-says)
-- [Ukraine’s capture of North Koreans offers rare insight into Russian alliance, says Zelenskyy](https://www.theguardian.com/world/2025/jan/12/ukraines-capture-of-north-koreans-offers-rare-insight-into-russian-alliance-says-zelenskyy)
-- [Property sellers in England and Wales ‘make lowest return in a decade’](https://www.theguardian.com/business/2025/jan/13/property-sellers-in-england-and-wales-make-lowest-return-in-a-decade)
-- [Welsh EFL clubs could qualify for Europe through new cup competition](https://www.theguardian.com/football/2025/jan/13/welsh-efl-clubs-qualify-europe-cardiff-swansea-wrexham-newport)
-- [One in six UK workers skipping meals to make ends meet, says TUC](https://www.theguardian.com/business/2025/jan/12/one-in-six-uk-workers-skipping-meals-to-make-ends-meet-says-tuc)
-- [‘Mainlined into UK’s veins’: Labour announces huge public rollout of AI](https://www.theguardian.com/politics/2025/jan/12/mainlined-into-uks-veins-labour-announces-huge-public-rollout-of-ai)
-- [Guardiola undecided on whether Kyle Walker plays for Manchester City again](https://www.theguardian.com/football/2025/jan/12/nathan-ake-manchester-city-youngsters-kyle-walker)
+- [Australia v England: Women’s Ashes second cricket one-day international – live](https://www.theguardian.com/sport/live/2025/jan/13/womens-ashes-australia-v-england-cricket-second-one-day-international-live)
+- [Biden urges Congress to ‘step up’ on California aid as LA warned of ‘explosive fire growth’ – live](https://www.theguardian.com/us-news/live/2025/jan/13/la-fire-wildfire-live-california-palisades-wind-santa-ana-gavin-newsom-latest-usa-updates)
+- [Ukraine war briefing: Strengthen Kyiv’s hand before peace talks, says Nato chief](https://www.theguardian.com/world/2025/jan/14/ukraine-war-briefing-strengthen-kyivs-hand-before-peace-talks-says-nato-chief)
+- [Greenland seeking closer ties with US, particularly on mining, PM says](https://www.theguardian.com/world/2025/jan/14/greenland-us-relationship-donald-trump-pm-mute-egede)
+- [Yoon Suk Yeol impeachment: Trial of suspended South Korean president to begin](https://www.theguardian.com/world/2025/jan/14/yoon-suk-yeol-impeachment-trial-south-korea-begins-updates-martial-law)
+- [Charities forced to ‘evict’ adults in their care to stay solvent, survey finds](https://www.theguardian.com/society/2025/jan/14/charities-forced-to-evict-adults-in-their-care-to-stay-solvent-survey-finds)
+- [MI5 files suggest queen was not briefed on spy in royal household for nine years](https://www.theguardian.com/uk-news/2025/jan/14/mi5-files-queen-elizabeth-spy-in-royal-household-anthony-blunt)
+- [Hope by Pope Francis review – the first memoir by a living pontiff](https://www.theguardian.com/books/2025/jan/14/hope-by-pope-francis-review-the-first-memoir-by-a-living-pontiff)
+- [Colin Barrett’s Wild Houses among winners of Nero book awards](https://www.theguardian.com/books/2025/jan/14/colin-barretts-wild-houses-among-winners-of-nero-book-awards)
+- [Pope Francis inherited box of documents from predecessor relating to scandals](https://www.theguardian.com/world/2025/jan/14/pope-francis-inherited-box-of-documents-from-predecessor-relating-to-scandals)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Australia v England: Women’s Ashes second cricket one-day international – live](https://www.theguardian.com/sport/live/2025/jan/13/womens-ashes-australia-v-england-cricket-second-one-day-international-live)
-- [Biden urges Congress to ‘step up’ on California aid as LA warned of ‘explosive fire growth’ – live](https://www.theguardian.com/us-news/live/2025/jan/13/la-fire-wildfire-live-california-palisades-wind-santa-ana-gavin-newsom-latest-usa-updates)
-- [Ukraine war briefing: Strengthen Kyiv’s hand before peace talks, says Nato chief](https://www.theguardian.com/world/2025/jan/14/ukraine-war-briefing-strengthen-kyivs-hand-before-peace-talks-says-nato-chief)
-- [Greenland seeking closer ties with US, particularly on mining, PM says](https://www.theguardian.com/world/2025/jan/14/greenland-us-relationship-donald-trump-pm-mute-egede)
-- [Yoon Suk Yeol impeachment: Trial of suspended South Korean president to begin](https://www.theguardian.com/world/2025/jan/14/yoon-suk-yeol-impeachment-trial-south-korea-begins-updates-martial-law)
-- [Charities forced to ‘evict’ adults in their care to stay solvent, survey finds](https://www.theguardian.com/society/2025/jan/14/charities-forced-to-evict-adults-in-their-care-to-stay-solvent-survey-finds)
-- [MI5 files suggest queen was not briefed on spy in royal household for nine years](https://www.theguardian.com/uk-news/2025/jan/14/mi5-files-queen-elizabeth-spy-in-royal-household-anthony-blunt)
-- [Hope by Pope Francis review – the first memoir by a living pontiff](https://www.theguardian.com/books/2025/jan/14/hope-by-pope-francis-review-the-first-memoir-by-a-living-pontiff)
-- [Colin Barrett’s Wild Houses among winners of Nero book awards](https://www.theguardian.com/books/2025/jan/14/colin-barretts-wild-houses-among-winners-of-nero-book-awards)
-- [Pope Francis inherited box of documents from predecessor relating to scandals](https://www.theguardian.com/world/2025/jan/14/pope-francis-inherited-box-of-documents-from-predecessor-relating-to-scandals)
+- [Australian Open 2025: Alcaraz in action as Sabalenka progresses; Djokovic to follow on day four – live](https://www.theguardian.com/sport/live/2025/jan/15/australian-open-tennis-2025-live-updates-ao-day-4-sabalenka-djokovic-alcaraz-scores-results-latest)
+- [LA fires updates: death toll rises to 25 amid new wildfire warnings and thousands still under evacuation orders](https://www.theguardian.com/us-news/live/2025/jan/14/la-california-fires-los-angeles-live-wildfire-map-warning-evacuation-latest-news)
+- [Ukraine war briefing: Australia summons Russian ambassador over PoW’s reported death](https://www.theguardian.com/world/2025/jan/15/ukraine-war-briefing-australia-summons-russian-ambassador-over-pows-reported-death)
+- [South Korea’s Yoon Suk Yeol arrested, investigators say, after hours-long standoff at residence](https://www.theguardian.com/world/2025/jan/14/south-koreas-yoon-suk-yeol-faces-fresh-arrest-attempt)
+- [US sues Elon Musk for allegedly failing to disclose early Twitter stock purchase](https://www.theguardian.com/technology/2025/jan/14/us-elon-musk-twitter-stock-purchase-lawsuit)
+- [California ex-prison guard found guilty of 64 charges of sexual abuse of women](https://www.theguardian.com/us-news/2025/jan/14/california-womens-prison-officer-convicted-sexual-abuse)
+- [Volkswagen van that survived Palisades fire in Los Angeles is a ‘beacon of hope’](https://www.theguardian.com/us-news/2025/jan/14/volkswagen-van-palisades-fire)
+- [UK women who suffer miscarriage should get two weeks’ paid leave, MPs say](https://www.theguardian.com/society/2025/jan/15/uk-women-who-suffer-miscarriage-should-get-two-weeks-paid-leave-mps-say)
+- [Call to overhaul obesity diagnoses amid fears of over-reliance on BMI](https://www.theguardian.com/society/2025/jan/14/call-to-overhaul-obesity-diagnoses-amid-fears-of-over-reliance-on-bmi)
+- [Marilyn Manson: Unmasked review – should a tour bus really need the age of consent pinned to the wall?](https://www.theguardian.com/tv-and-radio/2025/jan/14/marilyn-manson-unmasked-review-should-a-tour-bus-really-need-the-age-of-consent-pinned-to-the-wall)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

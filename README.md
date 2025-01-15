@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [43K fewer drivers on Manhattan roads after congestion pricing turned on](https://gothamist.com/news/43k-fewer-drivers-on-manhattan-roads-after-congestion-pricing-turned-on-mta-says)
-- [Judge ends man&#39;s 11-year quest to dig up landfill and recover $765M in Bitcoin](https://arstechnica.com/tech-policy/2025/01/judge-ends-mans-11-year-quest-to-dig-up-landfill-and-recover-765m-in-bitcoin/)
-- [GitHub Git Operations Are Down](https://www.githubstatus.com/incidents/qd96yfgvmcf9)
-- [Webtop – Alpine,Ubuntu,Fedora,and Arch containers containing full desktop envs](https://docs.linuxserver.io/images/docker-webtop/)
-- [voyage-code-3](https://blog.voyageai.com/2024/12/04/voyage-code-3/)
-- [Snyk security researcher deploys malicious NPM packages targeting Cursor.com](https://sourcecodered.com/snyk-malicious-npm-package/)
-- [Scientists Discover Underground Water Vault in Oregon 3x the Size of Lake Mead](https://scitechdaily.com/scientists-discover-a-massive-underground-water-vault-in-oregon-3x-the-size-of-lake-mead/)
-- [Sonos CEO steps down after app update debacle](https://www.reuters.com/business/retail-consumer/sonos-ceo-patrick-spence-steps-down-after-app-update-debacle-2025-01-13/)
-- [How corn syrup took over America](https://thehustle.co/originals/how-corn-syrup-took-over-america)
-- [AI Engineer Reading List](https://www.latent.space/p/2025-papers)
+- [South Korea&#39;s impeached President Yoon Suk Yeol arrested, local media reports](https://www.cnbc.com/2025/01/15/south-korean-president-yoon-suk-yeol-detained-local-media-reports-.html)
+- [Climbers using xenon gas to climb Everest](https://gripped.com/profiles/climbers-using-xenon-gas-which-is-banned-in-sports-to-climb-everest/)
+- [Rewriting my website in plain HTML and CSS](https://www.vijayp.dev/blog/rewrite-plain-html/)
+- [GPT-4o with scheduled tasks &lpar;jawbone&rpar; is available in beta](https://chatgpt.com/?model=gpt-4o-jawbone)
+- [If You Ever See This Speed Sign, You&#39;re Probably Going to Die](https://www.theautopian.com/if-you-ever-see-this-speed-sign-youre-probably-going-to-die/)
+- [Show HN: Simplex: Automate browser workflows using code and natural language](https://www.simplex.sh/playground)
+- [Don&#39;t use cosine similarity carelessly](https://p.migdal.pl/blog/2025/01/dont-use-cosine-similarity/)
+- [How rqlite is tested](https://philipotoole.com/how-is-rqlite-tested/)
+- [Home Loss File System](https://docs.google.com/spreadsheets/d/1TPeJzW5pa-BiJZjuEa1yGSFs7ZJetbnxf2gjMvv4tkc/htmlview#gid=1160377357)
+- [Show HN: WASM-powered codespaces for Python notebooks on GitHub](https://docs.marimo.io/guides/publishing/playground/#open-notebooks-hosted-on-github)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

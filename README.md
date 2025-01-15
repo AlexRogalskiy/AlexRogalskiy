@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [HPE may have bagged $1B order from Elon Musk&#39;s X for AI servers](https://www.theregister.com/2025/01/14/hpe_x_ai/)
-- [Greenland and the Coldest War](https://www.palladiummag.com/2025/01/10/greenland-and-the-coldest-war/)
-- [Quantum Computing: Hype vs. Reality](https://moreisdifferent.blog/p/quantum-computing-hype-vs-reality)
-- [How much land do wildfires burn in the US?](https://usafacts.org/articles/how-much-damage-do-wildfires-do-in-the-us/)
-- [Tao Lin: My Spiritual Evolution](https://granta.com/my-spiritual-evolution/)
-- [43K fewer drivers on Manhattan roads after congestion pricing turned on](https://gothamist.com/news/43k-fewer-drivers-on-manhattan-roads-after-congestion-pricing-turned-on-mta-says)
-- [An 836-pound &#39;cursed&#39; emerald traveled the Americas, ruining lives](https://www.latimes.com/california/story/2024-12-13/colossal-emerald-curses-lives-of-smugglers-schemers-and-dreamers-or-is-greed-to-blame)
-- [Flippyr.am](https://flippyr.am/)
-- [Winconaa: A color ASCII-art SDL video driver for the Win32 console &lpar;2003&rpar;](http://jstanley.pingerthinger.com/winconaa.html)
-- [Dark Side of Open Source: The Community Strikes Back](https://horovits.medium.com/dark-side-of-open-source-the-community-strikes-back-400a1a5c679e)
+- [Meta puts the &#39;Dead Internet Theory&#39; into practice](https://www.computerworld.com/article/3632173/meta-puts-the-dead-internet-theory-into-practice.html)
+- [BDSM TEST: how to discover our kinks?](https://bdsmkinktest.com)
+- [How Do Igloos Keep People Warm?](https://www.mentalfloss.com/how-igloos-stay-warm)
+- [Trump&#39;s New Economist Makes the Case for 20% Tariffs](https://www.wsj.com/economy/trade/trump-tariffs-economost-stephen-miran-1d8f31f2)
+- [Show HN: LLMpeg](https://github.com/jjcm/llmpeg)
+- [Is &quot;Catch Me If You Can&quot; a True Story?](https://whyy.org/segments/the-greatest-hoax-on-earth/)
+- [AI Coding tools are great but not perfect](https://twitter.com/0xOrkward/status/1879133879900180949)
+- [Roland 50 Studio](https://roland50.studio/)
+- [CFPB sues Capital One for &#39;cheating&#39; customers out over $2B in interest](https://www.cnbc.com/2025/01/14/cfpb-sues-capital-one-alleges-it-misled-consumers-on-savings-rates.html)
+- [The Feed&#39;s Automated Warehouse [video]](https://www.youtube.com/watch?v=GRZp8MZ6piA)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

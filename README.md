@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Australian Open 2025: Alcaraz in action as Sabalenka progresses; Djokovic to follow on day four – live](https://www.theguardian.com/sport/live/2025/jan/15/australian-open-tennis-2025-live-updates-ao-day-4-sabalenka-djokovic-alcaraz-scores-results-latest)
-- [LA fires updates: death toll rises to 25 amid new wildfire warnings and thousands still under evacuation orders](https://www.theguardian.com/us-news/live/2025/jan/14/la-california-fires-los-angeles-live-wildfire-map-warning-evacuation-latest-news)
-- [Ukraine war briefing: Australia summons Russian ambassador over PoW’s reported death](https://www.theguardian.com/world/2025/jan/15/ukraine-war-briefing-australia-summons-russian-ambassador-over-pows-reported-death)
-- [South Korea’s Yoon Suk Yeol arrested, investigators say, after hours-long standoff at residence](https://www.theguardian.com/world/2025/jan/14/south-koreas-yoon-suk-yeol-faces-fresh-arrest-attempt)
-- [US sues Elon Musk for allegedly failing to disclose early Twitter stock purchase](https://www.theguardian.com/technology/2025/jan/14/us-elon-musk-twitter-stock-purchase-lawsuit)
-- [California ex-prison guard found guilty of 64 charges of sexual abuse of women](https://www.theguardian.com/us-news/2025/jan/14/california-womens-prison-officer-convicted-sexual-abuse)
-- [Volkswagen van that survived Palisades fire in Los Angeles is a ‘beacon of hope’](https://www.theguardian.com/us-news/2025/jan/14/volkswagen-van-palisades-fire)
-- [UK women who suffer miscarriage should get two weeks’ paid leave, MPs say](https://www.theguardian.com/society/2025/jan/15/uk-women-who-suffer-miscarriage-should-get-two-weeks-paid-leave-mps-say)
-- [Call to overhaul obesity diagnoses amid fears of over-reliance on BMI](https://www.theguardian.com/society/2025/jan/14/call-to-overhaul-obesity-diagnoses-amid-fears-of-over-reliance-on-bmi)
-- [Marilyn Manson: Unmasked review – should a tour bus really need the age of consent pinned to the wall?](https://www.theguardian.com/tv-and-radio/2025/jan/14/marilyn-manson-unmasked-review-should-a-tour-bus-really-need-the-age-of-consent-pinned-to-the-wall)
+- [Israel-Hamas ceasefire to begin on Sunday; strikes reported in Gaza after deal reached – live](https://www.theguardian.com/world/live/2025/jan/15/israel-gaza-war-live-ceasefire-hostage-deal-benjamin-netanyahu-hamas)
+- [Australian Open 2025: Emma Raducanu and Alex de Minaur in action on day five – live](https://www.theguardian.com/sport/live/2025/jan/16/australian-open-tennis-2025-live-updates-ao-day-5-emma-raducanu-alex-de-minaur-scores-results-latest)
+- [California fires live: LA fire crews make progress as officials expect ‘much-needed break’ from dangerous weather](https://www.theguardian.com/us-news/live/2025/jan/15/la-fires-california-los-angeles-latest-news-updates-santa-ana-winds)
+- [Joe Biden warns ‘oligarchy is taking shape in America’ in farewell address](https://www.theguardian.com/us-news/2025/jan/15/joe-biden-farewell-address-trump-oligarchy-america)
+- [Ukraine war briefing: US House speaker dumps key Ukraine backer Mike Turner](https://www.theguardian.com/world/2025/jan/16/ukraine-war-briefing-us-house-speaker-dumps-key-ukraine-backer-mike-turner)
+- [A ceasefire deal is here. For Gaza, the Middle East and the world, the future remains unknown](https://www.theguardian.com/world/2025/jan/16/israel-hamas-gaza-ceasefire)
+- [Hospital patients dying undiscovered in corridors, report on NHS reveals](https://www.theguardian.com/society/2025/jan/16/hospital-patients-corridors-royal-college-of-nursing-report-nhs)
+- [Sunbury-on-Thames sees biggest house price rise in UK in 2024](https://www.theguardian.com/money/2025/jan/16/sunbury-on-thames-sees-biggest-house-price-rise-in-uk-in-2024)
+- [Ministers pledge record £410m to support UK nuclear fusion energy](https://www.theguardian.com/environment/2025/jan/16/ministers-pledge-record-410m-to-support-uk-nuclear-fusion-energy)
+- [The resignation of Tulip Siddiq – podcast](https://www.theguardian.com/news/audio/2025/jan/16/resignation-tulip-siddiq-podcast)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Meta puts the &#39;Dead Internet Theory&#39; into practice](https://www.computerworld.com/article/3632173/meta-puts-the-dead-internet-theory-into-practice.html)
-- [BDSM TEST: how to discover our kinks?](https://bdsmkinktest.com)
-- [How Do Igloos Keep People Warm?](https://www.mentalfloss.com/how-igloos-stay-warm)
-- [Trump&#39;s New Economist Makes the Case for 20% Tariffs](https://www.wsj.com/economy/trade/trump-tariffs-economost-stephen-miran-1d8f31f2)
-- [Show HN: LLMpeg](https://github.com/jjcm/llmpeg)
-- [Is &quot;Catch Me If You Can&quot; a True Story?](https://whyy.org/segments/the-greatest-hoax-on-earth/)
-- [AI Coding tools are great but not perfect](https://twitter.com/0xOrkward/status/1879133879900180949)
-- [Roland 50 Studio](https://roland50.studio/)
-- [CFPB sues Capital One for &#39;cheating&#39; customers out over $2B in interest](https://www.cnbc.com/2025/01/14/cfpb-sues-capital-one-alleges-it-misled-consumers-on-savings-rates.html)
-- [The Feed&#39;s Automated Warehouse [video]](https://www.youtube.com/watch?v=GRZp8MZ6piA)
+- [SEC Sues Musk](https://www.cnbc.com/2025/01/14/sec-sues-musk-alleges-failure-to-properly-disclose-twitter-ownership.html)
+- [More than 74,000 Canadians have died on health-care wait lists since 2018:report](https://nationalpost.com/news/canada/canadians-health-care-wait-list-deaths)
+- [Nvidia/cosmos: Physics-aware Text2Video](https://build.nvidia.com/nvidia/cosmos-1_0-diffusion-7b)
+- [RTO Mandates: Hard Truths for Leaders &lpar;MIT Sloan&rpar; [video]](https://www.youtube.com/watch?v=4ec_yZCWOCY)
+- [Show HN: Transform Images into Descriptive Text with AI Image Reader](https://alttextgenerator.co/tools/ai-image-reader)
+- [The Tyranny of &quot;The Plan&quot; &lpar;2009&rpar;](https://www.infoq.com/presentations/tyranny-of-plan/)
+- [Why AI can ace medical board exams but can&#39;t make real art](https://twitter.com/hagestev/status/1879603033279201425)
+- [Ad Free Decentralized Instagram Alternative](https://pixelfed.org)
+- [Nvidia N1X ARM SoC for Windows machines reportedly debuting in Q4 2025](https://www.tomshardware.com/pc-components/cpus/nvidia-arm-soc-for-windows-machines-reportedly-debuting-in-q4-featuring-n1x-with-n1-to-follow-in-early-2026)
+- [4M Tokens Context Model](https://github.com/MiniMax-AI)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Israel-Hamas ceasefire to begin on Sunday; strikes reported in Gaza after deal reached – live](https://www.theguardian.com/world/live/2025/jan/15/israel-gaza-war-live-ceasefire-hostage-deal-benjamin-netanyahu-hamas)
-- [Australian Open 2025: Emma Raducanu and Alex de Minaur in action on day five – live](https://www.theguardian.com/sport/live/2025/jan/16/australian-open-tennis-2025-live-updates-ao-day-5-emma-raducanu-alex-de-minaur-scores-results-latest)
-- [California fires live: LA fire crews make progress as officials expect ‘much-needed break’ from dangerous weather](https://www.theguardian.com/us-news/live/2025/jan/15/la-fires-california-los-angeles-latest-news-updates-santa-ana-winds)
-- [Joe Biden warns ‘oligarchy is taking shape in America’ in farewell address](https://www.theguardian.com/us-news/2025/jan/15/joe-biden-farewell-address-trump-oligarchy-america)
-- [Ukraine war briefing: US House speaker dumps key Ukraine backer Mike Turner](https://www.theguardian.com/world/2025/jan/16/ukraine-war-briefing-us-house-speaker-dumps-key-ukraine-backer-mike-turner)
-- [A ceasefire deal is here. For Gaza, the Middle East and the world, the future remains unknown](https://www.theguardian.com/world/2025/jan/16/israel-hamas-gaza-ceasefire)
-- [Hospital patients dying undiscovered in corridors, report on NHS reveals](https://www.theguardian.com/society/2025/jan/16/hospital-patients-corridors-royal-college-of-nursing-report-nhs)
-- [Sunbury-on-Thames sees biggest house price rise in UK in 2024](https://www.theguardian.com/money/2025/jan/16/sunbury-on-thames-sees-biggest-house-price-rise-in-uk-in-2024)
-- [Ministers pledge record £410m to support UK nuclear fusion energy](https://www.theguardian.com/environment/2025/jan/16/ministers-pledge-record-410m-to-support-uk-nuclear-fusion-energy)
-- [The resignation of Tulip Siddiq – podcast](https://www.theguardian.com/news/audio/2025/jan/16/resignation-tulip-siddiq-podcast)
+- [Australia v England: third Women’s Ashes one-day cricket international – live](https://www.theguardian.com/sport/live/2025/jan/16/australia-v-england-third-womens-ashes-one-day-cricket-international-live)
+- [Australian Open 2025: Sabalenka in action, Alcaraz and Zverev to follow on day six – live](https://www.theguardian.com/sport/live/2025/jan/17/australian-open-tennis-2025-live-updates-ao-day-6-sabalenka-alcaraz-zverev-scores-results-latest)
+- [Gaza ceasefire-hostage deal reached, Israel PM’s office says – live](https://www.theguardian.com/world/live/2025/jan/16/israel-gaza-war-live-blog-updates-strikes-hamas-ceasefire-talks)
+- [LA wildfires: evacuees warned against returning to homes due to toxic waste](https://www.theguardian.com/us-news/2025/jan/16/california-wildfires-winds-ease)
+- [Ukraine war briefing: Gravehawk revealed as new air defence system pledged by Starmer](https://www.theguardian.com/world/2025/jan/17/ukraine-war-briefing-gravehawk-revealed-as-new-air-defence-system-pledged-by-starmer)
+- [SpaceX’s Starship test flight ends in failure after spacecraft is destroyed](https://www.theguardian.com/science/2025/jan/16/spacex-starship-test-flight)
+- [Chinese activist Teacher Li’s memecoin launch divides dissident community](https://www.theguardian.com/world/2025/jan/17/teacher-li-memecoin-cryptocurrency-chinese-activist)
+- [‘What an idiot’: Shaun Murphy fails to land 147 in Masters win over Robertson](https://www.theguardian.com/sport/2025/jan/16/shaun-murphy-misses-out-on-147-but-beats-neil-robertson-at-masters)
+- [Ofcom enforces ban on ‘nasty surprise’ mid-contract telecoms price rises](https://www.theguardian.com/business/2025/jan/17/ofcom-ban-nasty-surprise-mid-contract-telecoms-price-rises)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2025/jan/17/premier-league-10-things-to-look-out-for-this-weekend)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [OpenAI Fails to Deliver Opt-Out System for Photographers](https://petapixel.com/2025/01/06/openai-fails-to-deliver-opt-out-system-for-photographers/)
-- [I have made the decision to disband Hindenburg Research](https://hindenburgresearch.com/gratitude/)
-- [100x defect tolerance: How we solved the yield problem](https://cerebras.ai/blog/100x-defect-tolerance-how-cerebras-solved-the-yield-problem)
-- [Empirical Health &lpar;YC S23&rpar; is hiring interns to build data-driven primary care](https://www.ycombinator.com/companies/empirical-health/jobs/BQlfWbt-software-engineer-intern-summer-2025)
-- [Israel, Hamas reach ceasefire deal to end 15 months of war in Gaza](https://www.reuters.com/world/middle-east/gaza-ceasefire-appears-close-us-egyptian-leaders-put-focus-coming-hours-2025-01-14/)
-- [Scheduled tasks in ChatGPT](https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt)
-- [Natrium &#39;advanced nuclear&#39; power plant wins Wyoming permit](https://wyofile.com/natrium-advanced-nuclear-power-plant-wins-wyoming-permit/)
-- [dnSpyEx: .NET debugger and assembly editor](https://github.com/dnSpyEx/dnSpy)
-- [Sweden brings more books and handwriting practice back to its schools &lpar;2023&rpar;](https://apnews.com/article/sweden-digital-education-backlash-reading-writing-1dd964c628f76361c43dbf3964f7dbf4)
-- [Show HN: I built a fair alternative to Product Hunt for indie makers](https://news.ycombinator.com/item?id=42712666)
+- [Ask HN: How can X suspend paid accounts without explanation?](https://news.ycombinator.com/item?id=42732828)
+- [Is the World Becoming Uninsurable?](https://charleshughsmith.substack.com/p/is-the-world-becoming-uninsurable)
+- [Some Things to Expect in 2025](https://lwn.net/Articles/1003780/)
+- [Learn Yjs Interactively](https://learn.yjs.dev/)
+- [MuJoco Playground](https://playground.mujoco.org/)
+- [Solving the first 100 Project Euler problems using 100 languages](https://github.com/jaredkrinke/100-languages)
+- [Starship Flight 7](https://www.spacex.com/launches/mission/?missionId=starship-flight-7?submit)
+- [Continue &lpar;YC S23&rpar; Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
+- [Oh Shit, Git?](https://ohshitgit.com/)
+- [David Lynch has died](https://variety.com/2025/film/news/david-lynch-dead-director-blue-velvet-twin-peaks-1236276106/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

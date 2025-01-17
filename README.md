@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [SEC Sues Musk](https://www.cnbc.com/2025/01/14/sec-sues-musk-alleges-failure-to-properly-disclose-twitter-ownership.html)
-- [More than 74,000 Canadians have died on health-care wait lists since 2018:report](https://nationalpost.com/news/canada/canadians-health-care-wait-list-deaths)
-- [Nvidia/cosmos: Physics-aware Text2Video](https://build.nvidia.com/nvidia/cosmos-1_0-diffusion-7b)
-- [RTO Mandates: Hard Truths for Leaders &lpar;MIT Sloan&rpar; [video]](https://www.youtube.com/watch?v=4ec_yZCWOCY)
-- [Show HN: Transform Images into Descriptive Text with AI Image Reader](https://alttextgenerator.co/tools/ai-image-reader)
-- [The Tyranny of &quot;The Plan&quot; &lpar;2009&rpar;](https://www.infoq.com/presentations/tyranny-of-plan/)
-- [Why AI can ace medical board exams but can&#39;t make real art](https://twitter.com/hagestev/status/1879603033279201425)
-- [Ad Free Decentralized Instagram Alternative](https://pixelfed.org)
-- [Nvidia N1X ARM SoC for Windows machines reportedly debuting in Q4 2025](https://www.tomshardware.com/pc-components/cpus/nvidia-arm-soc-for-windows-machines-reportedly-debuting-in-q4-featuring-n1x-with-n1-to-follow-in-early-2026)
-- [4M Tokens Context Model](https://github.com/MiniMax-AI)
+- [Real-Time Structured Data for RAG](https://materialize.com/blog/realtime-structured-data-for-rag/)
+- [Async Rust is about concurrency, not &lpar;just&rpar; performance](https://kobzol.github.io/rust/2025/01/15/async-rust-is-about-concurrency.html)
+- [Should doctors help people die? Global debate hits home in the U.S.](https://www.washingtonpost.com/nation/2025/01/16/assisted-suicide-laws-states/)
+- [Ask HN: What is the best camera for content creation](https://news.ycombinator.com/item?id=42733420)
+- [IHTW: The Fastest Data Serializer](https://github.com/loveandkindess/ihtw)
+- [Migrate TikTok posts to RedNote AI agent](https://www.opencord.ai/app)
+- [Study reveals secrets behind cordierite&#39;s anomalous thermal expansion](https://phys.org/news/2025-01-reveals-secrets-cordierite-anomalous-thermal.html)
+- [How to Back Up Your Bluesky Posts](https://www.bskyinfo.com/blog/how-to-backup-bluesky-posts/)
+- [Paul Frazee on Bluesky and ATProto](https://www.softwaresessions.com/episodes/atproto/)
+- [FDIC sues 17 former Silicon Valley Bank executives over collapse](https://www.cnn.com/2025/01/16/business/fdic-sues-svb-executives-directors-intl-hnk/index.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Ask HN: How can X suspend paid accounts without explanation?](https://news.ycombinator.com/item?id=42732828)
-- [Is the World Becoming Uninsurable?](https://charleshughsmith.substack.com/p/is-the-world-becoming-uninsurable)
-- [Some Things to Expect in 2025](https://lwn.net/Articles/1003780/)
-- [Learn Yjs Interactively](https://learn.yjs.dev/)
-- [MuJoco Playground](https://playground.mujoco.org/)
-- [Solving the first 100 Project Euler problems using 100 languages](https://github.com/jaredkrinke/100-languages)
-- [Starship Flight 7](https://www.spacex.com/launches/mission/?missionId=starship-flight-7?submit)
-- [Continue &lpar;YC S23&rpar; Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
-- [Oh Shit, Git?](https://ohshitgit.com/)
-- [David Lynch has died](https://variety.com/2025/film/news/david-lynch-dead-director-blue-velvet-twin-peaks-1236276106/)
+- [Under new law, cops bust famous cartoonist for AI-generated CSAM](https://arstechnica.com/tech-policy/2025/01/under-new-law-cops-bust-famous-cartoonist-for-ai-generated-child-sex-abuse-images/)
+- [BYD just launched the largest car carrier to charge up its global EV ambitions](https://electrek.co/2025/01/17/byd-launches-worlds-largest-car-carrier-fuel-global-ev-takeover/)
+- [Spellbrush &lpar;YC W18&rpar; Is Hiring Game Programmers &lpar;Anime SRPG/Tactics&rpar;](https://news.ycombinator.com/item?id=42744820)
+- [EFF Statement on U.S. Supreme Court&#39;s Decision to Uphold TikTok Ban](https://www.eff.org/deeplinks/2025/01/eff-statement-us-supreme-courts-decision-uphold-tiktok-ban)
+- [Investigating an &quot;Evil&quot; RJ45 Dongle](https://lcamtuf.substack.com/p/investigating-an-evil-rj45-dongle)
+- [So you want to build your own data center](https://blog.railway.com/p/data-center-build-part-one)
+- [Show HN: Compile C to Not Gates](https://github.com/tomhea/c2fj)
+- [Branchless UTF-8 Encoding](https://cceckman.com/writing/branchless-utf8-encoding/)
+- [Higher potassium intake at dinner linked to fewer sleep disturbances – study](https://www.nutraingredients-asia.com/Article/2025/01/07/higher-potassium-intake-at-dinner-linked-to-fewer-sleep-disturbances/)
+- [Mathematics of the daily word game Waffle](https://arxiv.org/abs/2501.09286)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

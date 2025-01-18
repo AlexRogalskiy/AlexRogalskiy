@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Real-Time Structured Data for RAG](https://materialize.com/blog/realtime-structured-data-for-rag/)
-- [Async Rust is about concurrency, not &lpar;just&rpar; performance](https://kobzol.github.io/rust/2025/01/15/async-rust-is-about-concurrency.html)
-- [Should doctors help people die? Global debate hits home in the U.S.](https://www.washingtonpost.com/nation/2025/01/16/assisted-suicide-laws-states/)
-- [Ask HN: What is the best camera for content creation](https://news.ycombinator.com/item?id=42733420)
-- [IHTW: The Fastest Data Serializer](https://github.com/loveandkindess/ihtw)
-- [Migrate TikTok posts to RedNote AI agent](https://www.opencord.ai/app)
-- [Study reveals secrets behind cordierite&#39;s anomalous thermal expansion](https://phys.org/news/2025-01-reveals-secrets-cordierite-anomalous-thermal.html)
-- [How to Back Up Your Bluesky Posts](https://www.bskyinfo.com/blog/how-to-backup-bluesky-posts/)
-- [Paul Frazee on Bluesky and ATProto](https://www.softwaresessions.com/episodes/atproto/)
-- [FDIC sues 17 former Silicon Valley Bank executives over collapse](https://www.cnn.com/2025/01/16/business/fdic-sues-svb-executives-directors-intl-hnk/index.html)
+- [Giant Batteries Are Transforming Electrical Grids](https://www.bloomberg.com/news/articles/2025-01-17/large-batteries-from-tesla-esvolta-fluence-bolster-global-energy-grids)
+- [Hundreds of Miners Were Trapped for Months–Until a Two-Man Rescue Mission](https://www.wsj.com/world/asia/trapped-miners-south-africa-rescue-misson-fb99d8ec)
+- [Create a local mincraft server in less than a minute](https://www.auto-mcs.com)
+- [Trump to Begin Large-Scale Deportations Tuesday](https://www.wsj.com/politics/policy/trump-to-begin-large-scale-deportations-tuesday-e1bd89bd)
+- [Archaeologists Find First Female-Led Society in Europe](https://www.artnews.com/art-news/news/archaeologists-find-first-female-centric-community-1234730475/)
+- [The Maxx MTV Complete Season 1 &lpar;1996&rpar; [video]](https://archive.org/details/the-maxx_202209)
+- [RedNote Auto Translate](https://chromewebstore.google.com/detail/rednote-auto-translate/jkngdckncbcofhgfaciefjmlnpldhaef)
+- [Lightpanda – The Headless Browser](https://lightpanda.io/)
+- [Is Switzerland getting badder at English?](https://www.swissinfo.ch/eng/society/is-switzerland-getting-badder-at-english/48978444)
+- [EV, hybrid sales reached a record 20% of U.S. vehicle sales in 2024](https://www.cnbc.com/2025/01/16/electric-vehicle-ev-hybrid-sales-united-states-2024.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

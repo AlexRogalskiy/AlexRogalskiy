@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Australia v England: third Women’s Ashes one-day cricket international – live](https://www.theguardian.com/sport/live/2025/jan/16/australia-v-england-third-womens-ashes-one-day-cricket-international-live)
-- [Australian Open 2025: Sabalenka in action, Alcaraz and Zverev to follow on day six – live](https://www.theguardian.com/sport/live/2025/jan/17/australian-open-tennis-2025-live-updates-ao-day-6-sabalenka-alcaraz-zverev-scores-results-latest)
-- [Gaza ceasefire-hostage deal reached, Israel PM’s office says – live](https://www.theguardian.com/world/live/2025/jan/16/israel-gaza-war-live-blog-updates-strikes-hamas-ceasefire-talks)
-- [LA wildfires: evacuees warned against returning to homes due to toxic waste](https://www.theguardian.com/us-news/2025/jan/16/california-wildfires-winds-ease)
-- [Ukraine war briefing: Gravehawk revealed as new air defence system pledged by Starmer](https://www.theguardian.com/world/2025/jan/17/ukraine-war-briefing-gravehawk-revealed-as-new-air-defence-system-pledged-by-starmer)
-- [SpaceX’s Starship test flight ends in failure after spacecraft is destroyed](https://www.theguardian.com/science/2025/jan/16/spacex-starship-test-flight)
-- [Chinese activist Teacher Li’s memecoin launch divides dissident community](https://www.theguardian.com/world/2025/jan/17/teacher-li-memecoin-cryptocurrency-chinese-activist)
-- [‘What an idiot’: Shaun Murphy fails to land 147 in Masters win over Robertson](https://www.theguardian.com/sport/2025/jan/16/shaun-murphy-misses-out-on-147-but-beats-neil-robertson-at-masters)
-- [Ofcom enforces ban on ‘nasty surprise’ mid-contract telecoms price rises](https://www.theguardian.com/business/2025/jan/17/ofcom-ban-nasty-surprise-mid-contract-telecoms-price-rises)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2025/jan/17/premier-league-10-things-to-look-out-for-this-weekend)
+- [Australian Open 2025: Raducanu loses to Swiatek, De Minaur and Sinner to come – live](https://www.theguardian.com/sport/live/2025/jan/18/australian-open-tennis-2025-live-updates-ao-day-7-raducanu-swiatek-de-minaur-sinner-scores-results-latest)
+- [US and Turks and Caicos to inquire into failed SpaceX launch leading to debris](https://www.theguardian.com/science/2025/jan/17/turks-caicos-starship-spacex)
+- [Censorship, homework help and cats: China’s RedNote users welcome ‘TikTok refugees’](https://www.theguardian.com/media/2025/jan/18/rednote-app-tiktok-ban-us-alternatives)
+- [Kyren Wilson overcomes Luca Brecel and bizarre injury to book Trump clash](https://www.theguardian.com/sport/2025/jan/17/brilliant-judd-trump-reels-in-ding-junhui-to-reach-masters-last-four)
+- [Israeli cabinet ratifies ceasefire deal with Hamas](https://www.theguardian.com/world/2025/jan/17/israel-security-cabinet-approves-gaza-ceasefire-agreement)
+- [Easy freezy: eight fruity recipes for frozen summer treats – no ice-cream maker required](https://www.theguardian.com/food/2025/jan/18/easy-freezy-eight-fruity-recipes-for-frozen-summer-treats-no-ice-cream-maker-required)
+- [Meteorite strike captured in rare video from Canadian home’s doorbell camera](https://www.theguardian.com/world/2025/jan/17/meteorite-strike-video-canada)
+- [Burnley’s Parker hails ‘special’ Trafford after penalty saves deny Sunderland](https://www.theguardian.com/football/2025/jan/17/burnley-sunderland-championship-match-report)
+- [Australian toddler drowns in villa swimming pool in Bali](https://www.theguardian.com/world/2025/jan/18/australian-toddler-drowns-in-villa-swimming-pool-in-bali)
+- [Half of new hospitals promised by Boris Johnson will not be built for years](https://www.theguardian.com/society/2025/jan/17/half-new-hospitals-promised-boris-johnson-not-be-built-for-decades)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

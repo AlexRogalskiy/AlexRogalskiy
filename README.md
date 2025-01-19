@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Giant Batteries Are Transforming Electrical Grids](https://www.bloomberg.com/news/articles/2025-01-17/large-batteries-from-tesla-esvolta-fluence-bolster-global-energy-grids)
-- [Hundreds of Miners Were Trapped for Months–Until a Two-Man Rescue Mission](https://www.wsj.com/world/asia/trapped-miners-south-africa-rescue-misson-fb99d8ec)
-- [Create a local mincraft server in less than a minute](https://www.auto-mcs.com)
-- [Trump to Begin Large-Scale Deportations Tuesday](https://www.wsj.com/politics/policy/trump-to-begin-large-scale-deportations-tuesday-e1bd89bd)
-- [Archaeologists Find First Female-Led Society in Europe](https://www.artnews.com/art-news/news/archaeologists-find-first-female-centric-community-1234730475/)
-- [The Maxx MTV Complete Season 1 &lpar;1996&rpar; [video]](https://archive.org/details/the-maxx_202209)
-- [RedNote Auto Translate](https://chromewebstore.google.com/detail/rednote-auto-translate/jkngdckncbcofhgfaciefjmlnpldhaef)
-- [Lightpanda – The Headless Browser](https://lightpanda.io/)
-- [Is Switzerland getting badder at English?](https://www.swissinfo.ch/eng/society/is-switzerland-getting-badder-at-english/48978444)
-- [EV, hybrid sales reached a record 20% of U.S. vehicle sales in 2024](https://www.cnbc.com/2025/01/16/electric-vehicle-ev-hybrid-sales-united-states-2024.html)
+- [David Lynch – Blue Bob – From Mulholland Drive [video]](https://www.youtube.com/watch?v=3lRl0lsxWyI)
+- [What do you use as the favicon on your personal website?](https://news.ycombinator.com/item?id=42753120)
+- [Additive effect of neuromusc elec stim&amp;resist training on muscle mass&amp;strength](https://link.springer.com/article/10.1007/s00421-024-05700-2)
+- [You Don&#39;t Have to Be a Developer](https://www.lambdalatitudinarians.org/techblog/2022/09/13/you-dont-have-to-be-a-developer/)
+- [US: Walgreens filled millions of illegitimate prescriptions, including opioids](https://abcnews.go.com/US/wireStory/us-accuses-walgreens-filling-millions-illegitimate-prescriptions-including-117815150)
+- [Trump launches crypto meme coin, ballooning net worth ahead of inauguration](https://www.politico.com/news/2025/01/18/trump-crypto-meme-coin-inauguration-00199157)
+- [Mastodon Starter Pack Directory](https://fedidevs.com/starter-packs/)
+- [Prometheus Fuels](https://prometheusfuels.com)
+- [Ask HN: Is yarn still a thing for frontend dev in 2025?](https://news.ycombinator.com/item?id=42752978)
+- [Writing Advice Is Useless](https://kittysneezes.com/writing-advice-is-useless/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

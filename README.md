@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Australian Open 2025: Raducanu loses to Swiatek, De Minaur and Sinner to come – live](https://www.theguardian.com/sport/live/2025/jan/18/australian-open-tennis-2025-live-updates-ao-day-7-raducanu-swiatek-de-minaur-sinner-scores-results-latest)
-- [US and Turks and Caicos to inquire into failed SpaceX launch leading to debris](https://www.theguardian.com/science/2025/jan/17/turks-caicos-starship-spacex)
-- [Censorship, homework help and cats: China’s RedNote users welcome ‘TikTok refugees’](https://www.theguardian.com/media/2025/jan/18/rednote-app-tiktok-ban-us-alternatives)
-- [Kyren Wilson overcomes Luca Brecel and bizarre injury to book Trump clash](https://www.theguardian.com/sport/2025/jan/17/brilliant-judd-trump-reels-in-ding-junhui-to-reach-masters-last-four)
-- [Israeli cabinet ratifies ceasefire deal with Hamas](https://www.theguardian.com/world/2025/jan/17/israel-security-cabinet-approves-gaza-ceasefire-agreement)
-- [Easy freezy: eight fruity recipes for frozen summer treats – no ice-cream maker required](https://www.theguardian.com/food/2025/jan/18/easy-freezy-eight-fruity-recipes-for-frozen-summer-treats-no-ice-cream-maker-required)
-- [Meteorite strike captured in rare video from Canadian home’s doorbell camera](https://www.theguardian.com/world/2025/jan/17/meteorite-strike-video-canada)
-- [Burnley’s Parker hails ‘special’ Trafford after penalty saves deny Sunderland](https://www.theguardian.com/football/2025/jan/17/burnley-sunderland-championship-match-report)
-- [Australian toddler drowns in villa swimming pool in Bali](https://www.theguardian.com/world/2025/jan/18/australian-toddler-drowns-in-villa-swimming-pool-in-bali)
-- [Half of new hospitals promised by Boris Johnson will not be built for years](https://www.theguardian.com/society/2025/jan/17/half-new-hospitals-promised-boris-johnson-not-be-built-for-decades)
+- [Australian Open 2025: Gauff v Bencic under way. Draper v Alcaraz to come – live](https://www.theguardian.com/sport/live/2025/jan/19/australian-open-tennis-2025-live-updates-ao-day-8-draper-v-alcaraz-djokovic-gauff-sabalenka-zverev-scores-results-latest)
+- [Israel-Gaza war live: Netanyahu says ‘if we must return to fighting, we will do that’, citing support from Biden and Trump](https://www.theguardian.com/world/live/2025/jan/18/middle-east-crisis-live-israel-says-737-prisoners-to-initially-be-freed-after-cabinet-approves-gaza-ceasefire)
+- [Man charged with attempted murder after allegedly setting woman on fire at home south of Brisbane](https://www.theguardian.com/australia-news/2025/jan/19/man-charged-with-attempted-after-allegedly-setting-woman-on-fire-in-brisbane-home-ntwnfb)
+- [Kansas City Chiefs cruise past Texans to reach seventh straight AFC title game](https://www.theguardian.com/sport/2025/jan/18/kc-chiefs-houston-texans-taylor-swift-caitlin-clark)
+- [Wrap up in style: 10 of the best scarves – in pictures](https://www.theguardian.com/fashion/gallery/2025/jan/18/wrap-up-in-style-10-of-the-best-scarves-in-pictures)
+- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2025/jan/18/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Shaun Murphy hits 147 in Masters to set up final with Kyren Wilson](https://www.theguardian.com/sport/2025/jan/18/shaun-murphy-147-maximum-break-masters-semi-final-allen-trump-wilson)
+- [Bob Dylan’s drafts for Mr Tambourine Man sell for more than £400,000](https://www.theguardian.com/music/2025/jan/18/bob-dylans-drafts-for-mr-tambourine-man-sell-for-more-than-400000)
+- [Panti Bliss: ‘The gays will never forgive me for that’](https://www.theguardian.com/stage/2025/jan/19/panti-bliss-the-gays-will-never-forgive-me-for-that)
+- [Letter to Los Angeles from another disaster zone](https://www.theguardian.com/us-news/2025/jan/18/letter-to-los-angeles-from-another-disaster-zone)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

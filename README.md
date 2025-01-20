@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Games Workshop and the big ambition of a miniatures business](https://www.bbc.com/news/articles/cr5369029dzo)
-- [We need to protect the protocol that runs Bluesky](https://www.technologyreview.com/2025/01/17/1110063/we-need-to-protect-the-protocol-that-runs-bluesky/)
-- [Unix Spell Ran in 64kB RAM](https://blog.codingconfessions.com/p/how-unix-spell-ran-in-64kb-ram)
-- [Pharaoh&#39;s Tomb HD – A Remake Made in JavaScript with Kaplay](https://pt-hd.iocaihost.me/)
-- [Kalman Filter Tutorial](https://www.kalmanfilter.net/default.aspx)
-- [Perplexity AI submits bid to merge with TikTok](https://techcrunch.com/2025/01/18/perplexity-ai-submits-bid-to-merge-with-tiktok/)
-- [Borrowchecker.jl – Designing a borrow checker for Julia](https://github.com/MilesCranmer/BorrowChecker.jl)
-- [WASM GC isn&#39;t ready for realtime graphics](https://dthompson.us/posts/wasm-gc-isnt-ready-for-realtime-graphics.html)
-- [Skymont: Intel&#39;s E-Cores reach for the Sky](https://chipsandcheese.com/p/skymont-intels-e-cores-reach-for-the-sky)
-- [Reverse-engineering a carry-lookahead adder in the Pentium](https://www.righto.com/2025/01/pentium-carry-lookahead-reverse-engineered.html)
+- [Ask HN: Is anyone making money selling traditional downloadable software?](https://news.ycombinator.com/item?id=42764185)
+- [F-Droid Security Issues](https://privsec.dev/posts/android/f-droid-security-issues/)
+- [Two Hard Things &lpar;2009&rpar;](https://martinfowler.com/bliki/TwoHardThings.html)
+- [UK&#39;s hardware talent is being wasted](https://josef.cn/blog/uk-talent)
+- [FrontierMath was funded by OpenAI](https://www.lesswrong.com/posts/cu2E8wgmbdZbqeWqb/meemi-s-shortform)
+- [It&#39;s time to make computing personal again](https://www.vintagecomputing.com/index.php/archives/3292/the-pc-is-dead-its-time-to-make-computing-personal-again)
+- [How do interruptions impact different software engineering activities](https://rdel.substack.com/p/rdel-75-how-do-interruptions-impact)
+- [Hacking the Yamaha DX9 to Turn It into a DX7 &lpar;2023&rpar;](https://ajxs.me/blog/Hacking_the_Yamaha_DX9_To_Turn_It_Into_a_DX7.html)
+- [All Lisp indentation schemes are ugly](https://aartaka.me/lisp-indent.html)
+- [Escape the walled garden and algorithm black boxes with RSS feeds](https://www.johnwalker.nl/posts/escape-the-walled-garden-with-rss)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

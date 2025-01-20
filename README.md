@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [David Lynch – Blue Bob – From Mulholland Drive [video]](https://www.youtube.com/watch?v=3lRl0lsxWyI)
-- [What do you use as the favicon on your personal website?](https://news.ycombinator.com/item?id=42753120)
-- [Additive effect of neuromusc elec stim&amp;resist training on muscle mass&amp;strength](https://link.springer.com/article/10.1007/s00421-024-05700-2)
-- [You Don&#39;t Have to Be a Developer](https://www.lambdalatitudinarians.org/techblog/2022/09/13/you-dont-have-to-be-a-developer/)
-- [US: Walgreens filled millions of illegitimate prescriptions, including opioids](https://abcnews.go.com/US/wireStory/us-accuses-walgreens-filling-millions-illegitimate-prescriptions-including-117815150)
-- [Trump launches crypto meme coin, ballooning net worth ahead of inauguration](https://www.politico.com/news/2025/01/18/trump-crypto-meme-coin-inauguration-00199157)
-- [Mastodon Starter Pack Directory](https://fedidevs.com/starter-packs/)
-- [Prometheus Fuels](https://prometheusfuels.com)
-- [Ask HN: Is yarn still a thing for frontend dev in 2025?](https://news.ycombinator.com/item?id=42752978)
-- [Writing Advice Is Useless](https://kittysneezes.com/writing-advice-is-useless/)
+- [An Detailed Map of the 2024 Election](https://www.nytimes.com/interactive/2025/us/elections/2024-election-map-precinct-results.html)
+- [OpenAI o3 capable of cracking crypto](https://twitter.com/realGeorgeHotz/status/1881142120171626867)
+- [Bringing Mind to Matter](https://www.thenewatlantis.com/publications/bringing-mind-to-matter)
+- [In AI Arms Race America Needs Private Companies, Warns National Security Advisor](https://www.axios.com/2025/01/18/biden-sullivan-ai-race-trump-china)
+- [Show HN: I Compiled the Do&#39;s and Don&#39;ts for Flirting with Every MBTI Type](https://rough-princess-8ca.notion.site/How-to-flirt-with-a-1819c663f15f809ab393ef087b02c9dc)
+- [Everyone is asking the wrong questions about TikTok](https://sfconservancy.org/blog/2025/jan/18/usa-should-require-bytedance-to-open-source-tiktok/)
+- [GPT-4b micro: An AI model for longevity](https://www.technologyreview.com/2025/01/17/1110086/openai-has-created-an-ai-model-for-longevity-science/)
+- [Biden signs ambitious order to bolster energy resources for AI data centers](https://apnews.com/article/biden-white-house-ai-artificial-intelligence-7458d9d1bb537929c5dcfb5192695223)
+- [Best Way to Protect and Grow OSS &lpar;Open-Source Software&rpar;](https://docs.google.com/forms/d/10TxDVcZhxbqPJPJ-VRzRNamePEOX_zMy03Ac4RL6RtI/viewform?edit_requested=true)
+- [Bambu Connect&#39;s Authentication X.509 Certificate and Private Key Extracted](https://hackaday.com/2025/01/19/bambu-connects-authentication-x-509-certificate-and-private-key-extracted/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

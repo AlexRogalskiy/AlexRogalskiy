@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Australian Open 2025: Gauff v Bencic under way. Draper v Alcaraz to come – live](https://www.theguardian.com/sport/live/2025/jan/19/australian-open-tennis-2025-live-updates-ao-day-8-draper-v-alcaraz-djokovic-gauff-sabalenka-zverev-scores-results-latest)
-- [Israel-Gaza war live: Netanyahu says ‘if we must return to fighting, we will do that’, citing support from Biden and Trump](https://www.theguardian.com/world/live/2025/jan/18/middle-east-crisis-live-israel-says-737-prisoners-to-initially-be-freed-after-cabinet-approves-gaza-ceasefire)
-- [Man charged with attempted murder after allegedly setting woman on fire at home south of Brisbane](https://www.theguardian.com/australia-news/2025/jan/19/man-charged-with-attempted-after-allegedly-setting-woman-on-fire-in-brisbane-home-ntwnfb)
-- [Kansas City Chiefs cruise past Texans to reach seventh straight AFC title game](https://www.theguardian.com/sport/2025/jan/18/kc-chiefs-houston-texans-taylor-swift-caitlin-clark)
-- [Wrap up in style: 10 of the best scarves – in pictures](https://www.theguardian.com/fashion/gallery/2025/jan/18/wrap-up-in-style-10-of-the-best-scarves-in-pictures)
-- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2025/jan/18/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Shaun Murphy hits 147 in Masters to set up final with Kyren Wilson](https://www.theguardian.com/sport/2025/jan/18/shaun-murphy-147-maximum-break-masters-semi-final-allen-trump-wilson)
-- [Bob Dylan’s drafts for Mr Tambourine Man sell for more than £400,000](https://www.theguardian.com/music/2025/jan/18/bob-dylans-drafts-for-mr-tambourine-man-sell-for-more-than-400000)
-- [Panti Bliss: ‘The gays will never forgive me for that’](https://www.theguardian.com/stage/2025/jan/19/panti-bliss-the-gays-will-never-forgive-me-for-that)
-- [Letter to Los Angeles from another disaster zone](https://www.theguardian.com/us-news/2025/jan/18/letter-to-los-angeles-from-another-disaster-zone)
+- [NFL divisional round playoffs: Baltimore Ravens 25-27 Buffalo Bills – live updates](https://www.theguardian.com/sport/live/2025/jan/19/afc-divisional-round-playoffs-baltimore-ravens-v-buffalo-bills-lamar-jackson-josh-allen-latest-score)
+- [Palestinian families celebrate after prisoners released by Israel as part of Gaza ceasefire deal](https://www.theguardian.com/world/2025/jan/20/palestinian-prisoners-released-israel-hamas-gaza-ceasefire-deal)
+- [Trump promises ‘historic’ day one with barrage of executive orders](https://www.theguardian.com/us-news/2025/jan/19/trump-pre-inaugural-rally-j6-hostages)
+- [Medics remove tumour using keyhole surgery through eye socket in UK first](https://www.theguardian.com/society/2025/jan/20/medics-remove-tumour-using-keyhole-surgery-through-eye-socket-in-uk-first)
+- [Brain implant that could boost mood by using ultrasound to go under NHS trial](https://www.theguardian.com/science/2025/jan/20/brain-implant-boost-mood-ultrasound-nhs-trial)
+- [Johnson plan to build 40 new hospitals ‘unachievable’, Streeting told](https://www.theguardian.com/society/2025/jan/20/johnson-plan-to-build-40-new-hospitals-unachievable-streeting-told)
+- [University degree still best for young Britons’ life chances, says former minister](https://www.theguardian.com/education/2025/jan/20/university-degree-still-best-for-young-britons-life-chances-says-former-minister)
+- [Wales failing to tackle alarming decline in nature, report finds](https://www.theguardian.com/uk-news/2025/jan/20/wales-failing-to-tackle-alarming-decline-in-nature-report-finds)
+- [Wealth of world’s billionaires grew by $2tn in 2024, report finds](https://www.theguardian.com/news/2025/jan/20/wealth-of-worlds-billionaires-grew-by-2tn-in-2024-report-finds)
+- [UK housing market ‘starts new year with a bang’, says Rightmove](https://www.theguardian.com/business/2025/jan/20/homes-uk-housing-market-new-year-rightmove)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Ask HN: Is anyone making money selling traditional downloadable software?](https://news.ycombinator.com/item?id=42764185)
-- [F-Droid Security Issues](https://privsec.dev/posts/android/f-droid-security-issues/)
-- [Two Hard Things &lpar;2009&rpar;](https://martinfowler.com/bliki/TwoHardThings.html)
-- [UK&#39;s hardware talent is being wasted](https://josef.cn/blog/uk-talent)
-- [FrontierMath was funded by OpenAI](https://www.lesswrong.com/posts/cu2E8wgmbdZbqeWqb/meemi-s-shortform)
-- [It&#39;s time to make computing personal again](https://www.vintagecomputing.com/index.php/archives/3292/the-pc-is-dead-its-time-to-make-computing-personal-again)
-- [How do interruptions impact different software engineering activities](https://rdel.substack.com/p/rdel-75-how-do-interruptions-impact)
-- [Hacking the Yamaha DX9 to Turn It into a DX7 &lpar;2023&rpar;](https://ajxs.me/blog/Hacking_the_Yamaha_DX9_To_Turn_It_Into_a_DX7.html)
-- [All Lisp indentation schemes are ugly](https://aartaka.me/lisp-indent.html)
-- [Escape the walled garden and algorithm black boxes with RSS feeds](https://www.johnwalker.nl/posts/escape-the-walled-garden-with-rss)
+- [United States Digital Service Renamed to DOGE](https://www.whitehouse.gov/presidential-actions/2025/01/establishing-and-implementing-the-presidents-department-of-government-efficiency/)
+- [It sure looks like Meta stole a lot of books to build its AI](https://lithub.com/it-sure-looks-like-meta-stole-a-lot-of-books-to-build-its-ai/)
+- [Ruff: Python linter and code formatter written in Rust](https://github.com/astral-sh/ruff)
+- [An astronomical view of Ancient Egyptian star clocks &lpar;2021&rpar;](https://storymaps.arcgis.com/stories/eea3fbc9c05b40948563ffd0ccfab59d)
+- [Reverse engineering Call of Duty anti-cheat](https://ssno.cc/posts/reversing-tac-1-4-2025/)
+- [Flag drawing with Turtle](https://jtanx.github.io/2018/12/28/turtle-flag-drawing/)
+- [The Making of Community Notes &lpar;2024&rpar;](https://asteriskmag.com/issues/08/the-making-of-community-notes)
+- [ROCm Device Support Wishlist](https://github.com/ROCm/ROCm/discussions/4276)
+- [I am &lpar;not&rpar; a failure: Lessons learned from six failed startup attempts](http://blog.rongarret.info/2025/01/i-am-not-failure-lessons-learned-from.html)
+- [Ask HN: Seeking an IPL-V Interpreter](https://news.ycombinator.com/item?id=42771413)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

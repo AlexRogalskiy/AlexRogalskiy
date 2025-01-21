@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [NFL divisional round playoffs: Baltimore Ravens 25-27 Buffalo Bills – live updates](https://www.theguardian.com/sport/live/2025/jan/19/afc-divisional-round-playoffs-baltimore-ravens-v-buffalo-bills-lamar-jackson-josh-allen-latest-score)
-- [Palestinian families celebrate after prisoners released by Israel as part of Gaza ceasefire deal](https://www.theguardian.com/world/2025/jan/20/palestinian-prisoners-released-israel-hamas-gaza-ceasefire-deal)
-- [Trump promises ‘historic’ day one with barrage of executive orders](https://www.theguardian.com/us-news/2025/jan/19/trump-pre-inaugural-rally-j6-hostages)
-- [Medics remove tumour using keyhole surgery through eye socket in UK first](https://www.theguardian.com/society/2025/jan/20/medics-remove-tumour-using-keyhole-surgery-through-eye-socket-in-uk-first)
-- [Brain implant that could boost mood by using ultrasound to go under NHS trial](https://www.theguardian.com/science/2025/jan/20/brain-implant-boost-mood-ultrasound-nhs-trial)
-- [Johnson plan to build 40 new hospitals ‘unachievable’, Streeting told](https://www.theguardian.com/society/2025/jan/20/johnson-plan-to-build-40-new-hospitals-unachievable-streeting-told)
-- [University degree still best for young Britons’ life chances, says former minister](https://www.theguardian.com/education/2025/jan/20/university-degree-still-best-for-young-britons-life-chances-says-former-minister)
-- [Wales failing to tackle alarming decline in nature, report finds](https://www.theguardian.com/uk-news/2025/jan/20/wales-failing-to-tackle-alarming-decline-in-nature-report-finds)
-- [Wealth of world’s billionaires grew by $2tn in 2024, report finds](https://www.theguardian.com/news/2025/jan/20/wealth-of-worlds-billionaires-grew-by-2tn-in-2024-report-finds)
-- [UK housing market ‘starts new year with a bang’, says Rightmove](https://www.theguardian.com/business/2025/jan/20/homes-uk-housing-market-new-year-rightmove)
+- [Australian Open quarter-finals: Gauff v Badosa; Djokovic v Alcaraz later – live](https://www.theguardian.com/sport/live/2025/jan/21/australian-open-quarter-finals-gauff-v-badosa-djokovic-v-alcaraz-later-live)
+- [College Football Playoff National Championship Game: Ohio State v Notre Dame – live updates](https://www.theguardian.com/sport/live/2025/jan/20/college-football-playoff-national-championship-game-ohio-state-v-notre-dame-live-updates)
+- [Trump pardons January 6 rioters and continues flurry of executive orders with border emergency decree – live updates](https://www.theguardian.com/us-news/live/2025/jan/20/president-trump-inauguration-swearing-in-timing-schedule-live-updates)
+- [Trump vows to ‘unleash’ oil and gas drilling as he rolls back climate rules](https://www.theguardian.com/us-news/2025/jan/20/trump-executive-order-energy-emergency)
+- [Trump issues 1,500 ‘unconditional’ pardons over January 6 Capitol attack](https://www.theguardian.com/us-news/2025/jan/20/trump-executive-orders-jan-6-pardons)
+- [Who owns the Panama Canal and why does Trump want it?](https://www.theguardian.com/world/2024/dec/23/panama-canal-donald-trump-us-explainer)
+- [UK ‘second most attractive country for investment’, survey finds](https://www.theguardian.com/business/2025/jan/20/uk-second-most-attractive-country-for-investment-survey-finds)
+- [‘That’s the one thing we did’: New Zealand irked by Trump’s false claim US split the atom](https://www.theguardian.com/world/2025/jan/21/donald-trump-splitting-the-atom-claim-new-zealand-ernest-rutherford)
+- [Ukraine war briefing: ‘Conflict will not end tomorrow or day after,’ says Macron as Trump takes office](https://www.theguardian.com/world/2025/jan/21/ukraine-war-briefing-conflict-will-not-end-tomorrow-or-day-after-says-macron-as-trump-takes-office)
+- [‘Tale of two cities’: Martin Luther King Jr honored as Trump is sworn in nearby](https://www.theguardian.com/us-news/2025/jan/20/martin-luther-king-jr-day-trump-inauguration)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

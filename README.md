@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Waymo vehicle involved in deadly 7-car crash in San Francisco](https://www.ktvu.com/news/fatal-7-vehicle-crash-reported-san-francisco)
-- [A highly configurable GNU/Linux with built-in AI](https://ditana.org)
-- [Hardcore Engineer &lpar;2022&rpar; [video]](https://www.youtube.com/watch?v=4HV0BqAjX8s)
-- [Some publishers hope GTA VI costs as much as $100](https://www.videogameschronicle.com/news/there-is-hope-that-gta-6-will-cost-as-much-as-100-says-analyst/)
-- [The White House](https://www.whitehouse.gov/)
-- [Ask HN: Is anyone using Function Calling with LLMs in production?](https://news.ycombinator.com/item?id=42775708)
-- [Glove and mitten protection in extreme cold weather: an Antarctic study &lpar;2016&rpar;](https://pubmed.ncbi.nlm.nih.gov/27836019/)
-- [What does Community mean in Tech?](https://ramansharma.substack.com/p/what-does-community-mean-in-tech)
-- [United States Digital Service Renamed to DOGE](https://www.whitehouse.gov/presidential-actions/2025/01/establishing-and-implementing-the-presidents-department-of-government-efficiency/)
-- [Link Site Prototype: A Full Website Encoded in a URL](https://alexuslab.com/link-site/)
+- [Stagehand and Git Bisect: Finding and Fixing the Commit That Broke Your Code](https://qckfx.com/blog/ai-powered-stagehand-git-bisect-finding-and-fixing-the-commit-that-broke-your-code)
+- [Satellite firm bucks miniaturization trend, aims to build big for big rockets](https://arstechnica.com/space/2025/01/company-aims-to-build-larger-satellites-for-new-era-of-launch-abundance/)
+- [Show HN: Open-source desktop app for running RAG with public/private LLMs](https://github.com/CNTRLAI/Notate)
+- [The Parcae project revolutionized electronic eavesdropping](https://spectrum.ieee.org/reconnaissance-satellite)
+- [The Trump Memecoin&#39;s &#39;Money-Grab&#39; Economics](https://www.wired.com/story/the-trump-memecoins-money-grab-economics/)
+- [A New Hampshire libertarian utopia was foiled by bears](https://www.vox.com/policy-and-politics/21534416/free-state-project-new-hampshire-libertarians-matthew-hongoltz-hetling)
+- [Is it this simple? Calculate the first N terms of the Fibonacci sequence](https://c.scudata.com/article/1737454986486?p=1&m=0)
+- [Ask HN: Have you used LLMs in software design/planning?](https://news.ycombinator.com/item?id=42788167)
+- [Ask HN: How do you discover new music?](https://news.ycombinator.com/item?id=42788152)
+- [Decentralized Training in the Inference-Time-Compute Paradigm](https://www.primeintellect.ai/blog/intellect-math)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

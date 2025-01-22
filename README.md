@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Australian Open quarter-finals: Gauff v Badosa; Djokovic v Alcaraz later – live](https://www.theguardian.com/sport/live/2025/jan/21/australian-open-quarter-finals-gauff-v-badosa-djokovic-v-alcaraz-later-live)
-- [College Football Playoff National Championship Game: Ohio State v Notre Dame – live updates](https://www.theguardian.com/sport/live/2025/jan/20/college-football-playoff-national-championship-game-ohio-state-v-notre-dame-live-updates)
-- [Trump pardons January 6 rioters and continues flurry of executive orders with border emergency decree – live updates](https://www.theguardian.com/us-news/live/2025/jan/20/president-trump-inauguration-swearing-in-timing-schedule-live-updates)
-- [Trump vows to ‘unleash’ oil and gas drilling as he rolls back climate rules](https://www.theguardian.com/us-news/2025/jan/20/trump-executive-order-energy-emergency)
-- [Trump issues 1,500 ‘unconditional’ pardons over January 6 Capitol attack](https://www.theguardian.com/us-news/2025/jan/20/trump-executive-orders-jan-6-pardons)
-- [Who owns the Panama Canal and why does Trump want it?](https://www.theguardian.com/world/2024/dec/23/panama-canal-donald-trump-us-explainer)
-- [UK ‘second most attractive country for investment’, survey finds](https://www.theguardian.com/business/2025/jan/20/uk-second-most-attractive-country-for-investment-survey-finds)
-- [‘That’s the one thing we did’: New Zealand irked by Trump’s false claim US split the atom](https://www.theguardian.com/world/2025/jan/21/donald-trump-splitting-the-atom-claim-new-zealand-ernest-rutherford)
-- [Ukraine war briefing: ‘Conflict will not end tomorrow or day after,’ says Macron as Trump takes office](https://www.theguardian.com/world/2025/jan/21/ukraine-war-briefing-conflict-will-not-end-tomorrow-or-day-after-says-macron-as-trump-takes-office)
-- [‘Tale of two cities’: Martin Luther King Jr honored as Trump is sworn in nearby](https://www.theguardian.com/us-news/2025/jan/20/martin-luther-king-jr-day-trump-inauguration)
+- [Trump pardons Ross Ulbricht, founder of Silk Road drug marketplace](https://www.theguardian.com/us-news/2025/jan/21/ross-ulbricht-silk-road-trump-pardon)
+- [China’s economic need and soft diplomacy spur about-face on visa-free entry](https://www.theguardian.com/world/2025/jan/22/china-visa-free-entry-travel-eligible-countries)
+- [Ukraine war briefing: Ukraine drones hit Russian oil depot; Trump floats fresh Russia sanctions](https://www.theguardian.com/world/2025/jan/22/ukraine-war-briefing-ukraine-drones-hit-russian-oil-depot-trump-floats-fresh-russia-sanctions)
+- [Jacinda Ardern says upcoming memoir aimed at ‘anyone who has ever doubted themselves’](https://www.theguardian.com/world/2025/jan/22/jacinda-ardern-memoir-former-nz-new-zealand-pm)
+- [‘Paid actors’ appear to be behind some antisemitic attacks, Albanese says](https://www.theguardian.com/australia-news/2025/jan/22/paid-actors-antisemitic-attacks-australia-pm-anthony-albanese-police-afp-ntwnfb)
+- [Men have grown twice as much as women over past century, study shows](https://www.theguardian.com/science/2025/jan/22/men-have-grown-twice-as-much-as-women-over-past-century-study-shows)
+- [DWP crackdown could see people banned from driving if welfare debts go unpaid](https://www.theguardian.com/society/2025/jan/22/dwp-crackdown-could-see-people-banned-from-driving-if-welfare-debts-go-unpaid)
+- [Covid fraud squad will have power to seize fraudsters’ cash under Labour bill](https://www.theguardian.com/uk-news/2025/jan/22/covid-squad-power-seize-fraudsters-cash-labour-plan)
+- [Fitness and muscle strength could halve cancer patient deaths, study suggests](https://www.theguardian.com/science/2025/jan/22/fitness-and-muscle-strength-could-halve-cancer-patient-deaths-study-suggests)
+- [Pharrell Williams kicks off Paris fashion week with Louis Vuitton streetwear](https://www.theguardian.com/fashion/2025/jan/21/pharrell-williams-kicks-off-paris-fashion-week-with-louis-vuitton-streetwear)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

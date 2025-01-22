@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [United States Digital Service Renamed to DOGE](https://www.whitehouse.gov/presidential-actions/2025/01/establishing-and-implementing-the-presidents-department-of-government-efficiency/)
-- [It sure looks like Meta stole a lot of books to build its AI](https://lithub.com/it-sure-looks-like-meta-stole-a-lot-of-books-to-build-its-ai/)
-- [Ruff: Python linter and code formatter written in Rust](https://github.com/astral-sh/ruff)
-- [An astronomical view of Ancient Egyptian star clocks &lpar;2021&rpar;](https://storymaps.arcgis.com/stories/eea3fbc9c05b40948563ffd0ccfab59d)
-- [Reverse engineering Call of Duty anti-cheat](https://ssno.cc/posts/reversing-tac-1-4-2025/)
-- [Flag drawing with Turtle](https://jtanx.github.io/2018/12/28/turtle-flag-drawing/)
-- [The Making of Community Notes &lpar;2024&rpar;](https://asteriskmag.com/issues/08/the-making-of-community-notes)
-- [ROCm Device Support Wishlist](https://github.com/ROCm/ROCm/discussions/4276)
-- [I am &lpar;not&rpar; a failure: Lessons learned from six failed startup attempts](http://blog.rongarret.info/2025/01/i-am-not-failure-lessons-learned-from.html)
-- [Ask HN: Seeking an IPL-V Interpreter](https://news.ycombinator.com/item?id=42771413)
+- [White House Executive Order on AI Has Been Rescinded](https://www.whitehouse.gov/presidential-actions/2025/01/initial-rescissions-of-harmful-executive-orders-and-actions/)
+- [Why Is Zero Plural?](https://ell.stackexchange.com/questions/352455/why-is-zero-plural)
+- [Isolating complexity is the essence of successful abstractions](https://v5.chriskrycho.com/journal/essence-of-successful-abstractions/)
+- [Open-source browser port of Pitfall from the Atari 2600](https://meatfighter.com/pitfall-web/)
+- [Evo: Version control that works the way you think](https://github.com/crazywolf132/evo)
+- [Ross Ulbricht granted a full pardon](https://twitter.com/Free_Ross/status/1881851923005165704)
+- [Hunyuan3D 2.0 – High-Resolution 3D Assets Generation](https://github.com/Tencent/Hunyuan3D-2)
+- [Stargate Project: SoftBank, OpenAI, Oracle, MGX to build data centers](https://apnews.com/article/trump-ai-openai-oracle-softbank-son-altman-ellison-be261f8a8ee07a0623d4170397348c41)
+- [The Peppermills of Jens Quistgaard](https://www.quistgaardpepper.com)
+- [HyperDX &lpar;YC S22&rpar; is hiring engineers to build open source observability](https://www.ycombinator.com/companies/hyperdx/jobs)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

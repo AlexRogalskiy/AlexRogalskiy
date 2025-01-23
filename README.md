@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Stagehand and Git Bisect: Finding and Fixing the Commit That Broke Your Code](https://qckfx.com/blog/ai-powered-stagehand-git-bisect-finding-and-fixing-the-commit-that-broke-your-code)
-- [Satellite firm bucks miniaturization trend, aims to build big for big rockets](https://arstechnica.com/space/2025/01/company-aims-to-build-larger-satellites-for-new-era-of-launch-abundance/)
-- [Show HN: Open-source desktop app for running RAG with public/private LLMs](https://github.com/CNTRLAI/Notate)
-- [The Parcae project revolutionized electronic eavesdropping](https://spectrum.ieee.org/reconnaissance-satellite)
-- [The Trump Memecoin&#39;s &#39;Money-Grab&#39; Economics](https://www.wired.com/story/the-trump-memecoins-money-grab-economics/)
-- [A New Hampshire libertarian utopia was foiled by bears](https://www.vox.com/policy-and-politics/21534416/free-state-project-new-hampshire-libertarians-matthew-hongoltz-hetling)
-- [Is it this simple? Calculate the first N terms of the Fibonacci sequence](https://c.scudata.com/article/1737454986486?p=1&m=0)
-- [Ask HN: Have you used LLMs in software design/planning?](https://news.ycombinator.com/item?id=42788167)
-- [Ask HN: How do you discover new music?](https://news.ycombinator.com/item?id=42788152)
-- [Decentralized Training in the Inference-Time-Compute Paradigm](https://www.primeintellect.ai/blog/intellect-math)
+- [HN Should Follow Reddit&#39;s Lead and Ban X Links](https://bsky.app/profile/iaindooley.bsky.social/post/3lgety5lwb22w)
+- [The Grand Unified Theory of Documentation](https://docs.divio.com/documentation-system/)
+- [Kidnapping of Ledger Co-Founder Sparks Major Investigation in France](https://www.leberry.fr/vierzon-18100/faits-divers/enlevement-de-l-un-des-cofondateurs-de-la-start-up-ledger-vaste-enquete-dans-le-cher_14629928/)
+- [Tableplan.io &lpar;Www.tableplan.io&rpar;](https://news.ycombinator.com/item?id=42799958)
+- [I reverse-engineered Google Docs to play back any doc&#39;s keystrokes &lpar;2014&rpar;](https://features.jsomers.net/how-i-reverse-engineered-google-docs/)
+- [NFL tells New England Patriots to shut down Bluesky account](https://awfulannouncing.com/nfl/new-england-patriots-bluesky-shut-down-account.html)
+- [How to Hit Peak Fitness After 40](https://www.nytimes.com/2025/01/06/well/move/peak-fitness-after-40.html)
+- [Time Zone Abbreviations – Worldwide List](https://www.timeanddate.com/time/zones/)
+- [How to manage flaky tests in CI](https://mill-build.org/blog/4-flaky-tests.html)
+- [Two Big Studies on AI in Education Just Dropped](https://danmeyer.substack.com/p/two-big-studies-on-ai-in-education)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

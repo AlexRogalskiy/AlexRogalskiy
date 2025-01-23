@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [White House Executive Order on AI Has Been Rescinded](https://www.whitehouse.gov/presidential-actions/2025/01/initial-rescissions-of-harmful-executive-orders-and-actions/)
-- [Why Is Zero Plural?](https://ell.stackexchange.com/questions/352455/why-is-zero-plural)
-- [Isolating complexity is the essence of successful abstractions](https://v5.chriskrycho.com/journal/essence-of-successful-abstractions/)
-- [Open-source browser port of Pitfall from the Atari 2600](https://meatfighter.com/pitfall-web/)
-- [Evo: Version control that works the way you think](https://github.com/crazywolf132/evo)
-- [Ross Ulbricht granted a full pardon](https://twitter.com/Free_Ross/status/1881851923005165704)
-- [Hunyuan3D 2.0 – High-Resolution 3D Assets Generation](https://github.com/Tencent/Hunyuan3D-2)
-- [Stargate Project: SoftBank, OpenAI, Oracle, MGX to build data centers](https://apnews.com/article/trump-ai-openai-oracle-softbank-son-altman-ellison-be261f8a8ee07a0623d4170397348c41)
-- [The Peppermills of Jens Quistgaard](https://www.quistgaardpepper.com)
-- [HyperDX &lpar;YC S22&rpar; is hiring engineers to build open source observability](https://www.ycombinator.com/companies/hyperdx/jobs)
+- [Foundations of Large Language Models](https://arxiv.org/abs/2501.09223)
+- [Show HN: I Organized Bluesky Feeds by Categories and Growth Rankings](https://www.bskyinfo.com/feeds/)
+- [Trae: An AI Powered IDE by ByteDance](https://www.trae.ai/home)
+- [Demodesk &lpar;YC W19&rpar; Is Hiring a Ruby on Rails Full-Stack Engineer](https://demodesk.com/careers?utm_source=hn)
+- [gRPC vs. REST: Understand gRPC, OpenAPI and REST and When to Use in API Design](https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them)
+- [Tailwind V4 Is Finally Out](https://tailwindcss.com/blog/tailwindcss-v4)
+- [Most Influential Papers in Computer Science History](https://terriblesoftware.org/2025/01/22/the-7-most-influential-papers-in-computer-science-history/)
+- [NIH hit with freezes on meetings, travel, communications, and hiring](https://www.science.org/content/article/trump-hits-nih-devastating-freezes-meetings-travel-communications-and-hiring)
+- [DIY Web Archiving Zine](https://zinebakery.com//homemade-zines/bakeshop-2-diywebarchiving)
+- [Lossless Compression of Vector IDs for Approximate Nearest Neighbor Search](https://arxiv.org/abs/2501.10479)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

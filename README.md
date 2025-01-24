@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Cargo ship crew held by Houthi rebels released after more than a year in captivity](https://www.theguardian.com/world/2025/jan/23/galaxy-leader-crew-cargo-ship-released-houthi-rebels-israel-gaza-ceasefire)
-- [Ukraine war briefing: Depends what Trump means by a ‘deal’, says Russia](https://www.theguardian.com/world/2025/jan/23/ukraine-war-briefing-depends-what-trump-means-by-a-deal-says-russia)
-- [Real Madrid become first football club to generate more than €1bn in revenue](https://www.theguardian.com/football/2025/jan/23/real-madrid-become-first-football-club-to-generate-more-than-1bn-in-revenue)
-- [Jack Lowden joined by Martin Freeman in alcoholism drama The Fifth Step](https://www.theguardian.com/stage/2025/jan/23/jack-lowden-martin-freeman-alcoholism-the-fifth-step-david-ireland-sohoplace)
-- [Legal challenges to infrastructure projects to be blocked in push for growth](https://www.theguardian.com/politics/2025/jan/23/legal-challenges-to-infrastructure-projects-to-be-blocked-in-push-for-growth)
-- [Unpaid internships ‘locking out’ young working-class people from careers](https://www.theguardian.com/society/2025/jan/23/unpaid-internships-young-working-class-people-careers)
-- [Iconic review – Bardot, Bacon and the Beatles bestride the plastic fantastic age](https://www.theguardian.com/artanddesign/2025/jan/23/iconic-review-bardot-bacon-beatles-holburne-museum-bath)
-- [‘I am so proud’: Joy as Thailand’s same-sex couples can at last get married](https://www.theguardian.com/world/2025/jan/23/thailand-same-sex-gay-marriage-equality-laws)
-- [Child mental health admissions to acute wards in England rise 65% in a decade](https://www.theguardian.com/society/2025/jan/22/child-mental-health-admissions-to-acute-wards-in-england-rise-65-in-a-decade)
-- [A Man for All Seasons review – creaky but moving portrait of quiet heroism](https://www.theguardian.com/stage/2025/jan/22/a-man-for-all-seasons-review-creaky-but-moving-portrait-of-quiet-heroism)
+- [Ukraine war briefing: Russians say major oil refinery burning after Ukrainian drone strikes](https://www.theguardian.com/world/2025/jan/24/ukraine-war-briefing-russians-say-major-oil-refinery-burning-after-ukrainian-drone-strikes)
+- [Senate votes to advance Pete Hegseth as Trump’s defense secretary despite some Republican opposition – as it happened](https://www.theguardian.com/us-news/live/2025/jan/23/donald-trump-pardons-january-6-us-president-joe-biden-jd-vance-republicans-live-news)
+- [Italy says Libya war crimes suspect was sent home due to ‘social dangerousness’](https://www.theguardian.com/world/2025/jan/24/general-osama-najim-almasri-libya-war-crimes-suspect-italy-sent-home)
+- [Chichester least affordable area outside London for first-time buyers, data shows](https://www.theguardian.com/money/2025/jan/24/chichester-least-affordable-area-outside-london-for-first-time-buyers-data-shows)
+- [Popping a manu: New Zealand’s unique water jumping obsession](https://www.theguardian.com/world/2025/jan/24/popping-a-manu-new-zealands-unique-water-jumping-obsession)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2025/jan/24/premier-league-10-things-to-look-out-for-this-weekend)
+- [Trump pardons anti-abortion activists who blockaded clinic entrances](https://www.theguardian.com/us-news/2025/jan/23/trump-pardons-anti-abortion-activists)
+- [Trump administration bans non-US flags from being flown at embassies](https://www.theguardian.com/us-news/2025/jan/23/trump-administration-bans-non-us-flags-from-being-flown-at-embassies)
+- [Trump orders release of thousands of classified files on JFK assassination](https://www.theguardian.com/us-news/2025/jan/23/trump-jfk-assassination-classified-files)
+- [Flight Risk review – Mel Gibson serves up white-knuckle fun in airplane suspense thriller](https://www.theguardian.com/film/2025/jan/23/flight-risk-review-mel-gibson-serves-up-some-white-knuckle-fun-in-this-suspense-thriller)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

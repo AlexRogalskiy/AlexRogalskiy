@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [HN Should Follow Reddit&#39;s Lead and Ban X Links](https://bsky.app/profile/iaindooley.bsky.social/post/3lgety5lwb22w)
-- [The Grand Unified Theory of Documentation](https://docs.divio.com/documentation-system/)
-- [Kidnapping of Ledger Co-Founder Sparks Major Investigation in France](https://www.leberry.fr/vierzon-18100/faits-divers/enlevement-de-l-un-des-cofondateurs-de-la-start-up-ledger-vaste-enquete-dans-le-cher_14629928/)
-- [Tableplan.io &lpar;Www.tableplan.io&rpar;](https://news.ycombinator.com/item?id=42799958)
-- [I reverse-engineered Google Docs to play back any doc&#39;s keystrokes &lpar;2014&rpar;](https://features.jsomers.net/how-i-reverse-engineered-google-docs/)
-- [NFL tells New England Patriots to shut down Bluesky account](https://awfulannouncing.com/nfl/new-england-patriots-bluesky-shut-down-account.html)
-- [How to Hit Peak Fitness After 40](https://www.nytimes.com/2025/01/06/well/move/peak-fitness-after-40.html)
-- [Time Zone Abbreviations – Worldwide List](https://www.timeanddate.com/time/zones/)
-- [How to manage flaky tests in CI](https://mill-build.org/blog/4-flaky-tests.html)
-- [Two Big Studies on AI in Education Just Dropped](https://danmeyer.substack.com/p/two-big-studies-on-ai-in-education)
+- [President&#39;s Council of Advisors on Science and Technology](https://www.whitehouse.gov/presidential-actions/2025/01/presidents-council-of-advisors-on-science-and-technology/)
+- [Dose, scan, repeat: Tracking the neurological effects of oral contraceptives](https://www.thetransmitter.org/brain-imaging/dose-scan-repeat-tracking-the-neurological-effects-of-oral-contraceptives/)
+- [Implementing Chip-8 Instructions](https://www.emulationonline.com/systems/chip8/implementing_chip8_instructions/)
+- [Supercharge vector search with ColBERT rerank in PostgreSQL](https://blog.vectorchord.ai/supercharge-vector-search-with-colbert-rerank-in-postgresql)
+- [Protein aggregates gum up &#39;master regulator&#39; of autism-linked genes](https://www.thetransmitter.org/spectrum/protein-aggregates-gum-up-master-regulator-of-autism-linked-genes/)
+- [New Model Y – Tesla](https://www.youtube.com/watch?v=Jt7DqX2AlNo)
+- [How Can We Deal with P-hacking?](https://pmichaillat.substack.com/p/how-can-we-deal-with-p-hacking)
+- [AuthormetriX: Automated Calculation of Authors&#39; Non-Inflationary Credit](https://www.biorxiv.org/content/10.1101/2025.01.19.633820v2)
+- [Cosmological data suggest the universe has become &#39;messier and more complicated&#39;](https://phys.org/news/2025-01-cosmological-universe-messier-complicated.html)
+- [Selling San Francisco](https://news.ycombinator.com/item?id=42809970)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

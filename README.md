@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Foundations of Large Language Models](https://arxiv.org/abs/2501.09223)
-- [Show HN: I Organized Bluesky Feeds by Categories and Growth Rankings](https://www.bskyinfo.com/feeds/)
-- [Trae: An AI Powered IDE by ByteDance](https://www.trae.ai/home)
-- [Demodesk &lpar;YC W19&rpar; Is Hiring a Ruby on Rails Full-Stack Engineer](https://demodesk.com/careers?utm_source=hn)
-- [gRPC vs. REST: Understand gRPC, OpenAPI and REST and When to Use in API Design](https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them)
-- [Tailwind V4 Is Finally Out](https://tailwindcss.com/blog/tailwindcss-v4)
-- [Most Influential Papers in Computer Science History](https://terriblesoftware.org/2025/01/22/the-7-most-influential-papers-in-computer-science-history/)
-- [NIH hit with freezes on meetings, travel, communications, and hiring](https://www.science.org/content/article/trump-hits-nih-devastating-freezes-meetings-travel-communications-and-hiring)
-- [DIY Web Archiving Zine](https://zinebakery.com//homemade-zines/bakeshop-2-diywebarchiving)
-- [Lossless Compression of Vector IDs for Approximate Nearest Neighbor Search](https://arxiv.org/abs/2501.10479)
+- [Ergodic Lagrangian dynamics in a superhero universe](https://pubs.aip.org/aapt/ajp/article/93/2/127/3331568/Ergodic-Lagrangian-dynamics-in-a-superhero)
+- [Sei &lpar;YC W22&rpar; Is Hiring](https://www.ycombinator.com/companies/sei/jobs/LeAtLYf-full-stack-engineer-typescript-react-gen-ai)
+- [A QR code that sends you to a different destination - lenticular and adversarial](https://mstdn.social/@isziaui/113874436953157913)
+- [Disabling Zen 5&#39;s Op Cache and Exploring Its Clustered Decoder](https://chipsandcheese.com/p/disabling-zen-5s-op-cache-and-exploring)
+- [Surface-Stable Fractal Dithering](https://github.com/runevision/Dither3D)
+- [Susctl CVE-2024-54507: A particularly &#39;sus&#39; sysctl in the XNU kernel](https://jprx.io/cve-2024-54507/)
+- [Morse Code in Tubular Bells &lpar;2021&rpar;](https://madpsy.uk/link-between-the-soundtrack-of-the-exorcist-and-amateur-radio/)
+- [Citations on the Anthropic API](https://www.anthropic.com/news/introducing-citations-api)
+- [Show HN: Open-source AI video editor](https://github.com/fal-ai-community/video-starter-kit)
+- [Building a Medieval Castle from Scratch](https://www.guedelon.fr/en/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

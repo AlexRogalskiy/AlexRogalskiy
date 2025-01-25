@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [President&#39;s Council of Advisors on Science and Technology](https://www.whitehouse.gov/presidential-actions/2025/01/presidents-council-of-advisors-on-science-and-technology/)
-- [Dose, scan, repeat: Tracking the neurological effects of oral contraceptives](https://www.thetransmitter.org/brain-imaging/dose-scan-repeat-tracking-the-neurological-effects-of-oral-contraceptives/)
-- [Implementing Chip-8 Instructions](https://www.emulationonline.com/systems/chip8/implementing_chip8_instructions/)
-- [Supercharge vector search with ColBERT rerank in PostgreSQL](https://blog.vectorchord.ai/supercharge-vector-search-with-colbert-rerank-in-postgresql)
-- [Protein aggregates gum up &#39;master regulator&#39; of autism-linked genes](https://www.thetransmitter.org/spectrum/protein-aggregates-gum-up-master-regulator-of-autism-linked-genes/)
-- [New Model Y – Tesla](https://www.youtube.com/watch?v=Jt7DqX2AlNo)
-- [How Can We Deal with P-hacking?](https://pmichaillat.substack.com/p/how-can-we-deal-with-p-hacking)
-- [AuthormetriX: Automated Calculation of Authors&#39; Non-Inflationary Credit](https://www.biorxiv.org/content/10.1101/2025.01.19.633820v2)
-- [Cosmological data suggest the universe has become &#39;messier and more complicated&#39;](https://phys.org/news/2025-01-cosmological-universe-messier-complicated.html)
-- [Selling San Francisco](https://news.ycombinator.com/item?id=42809970)
+- [Direct Manipulation vs. Interface Agents](https://stackdiver.com/posts/direct-manipulation-vs-interface-agents/)
+- [Mourning is human. New grief apps want to &#39;optimise&#39; it for you](https://www.bbc.com/future/article/20250123-the-apps-turning-grief-into-data-points)
+- [Origin of the Word &quot;Crap&quot;](https://en.wikipedia.org/wiki/Thomas_Crapper)
+- [The Drunken Plagiarists: working with copilots](https://queue.acm.org/detail.cfm?id=3711675&doi=10.1145%2F3711675)
+- [Next-gen Ethernet standards set to move forward in 2025](https://www.networkworld.com/article/3802351/next-gen-ethernet-standards-set-to-move-forward-in-2025.html)
+- [Trump admin fires members of cybersecurity review board](https://techcrunch.com/2025/01/22/trump-administration-fires-members-of-cybersecurity-review-board-in-horribly-shortsighted-decision/)
+- [Algorithms for Competitive Programming](https://github.com/cp-algorithms/cp-algorithms)
+- [Caltrain&#39;s Electric Fleet More Efficient Than Expected](https://www.caltrain.com/news/caltrains-electric-fleet-more-efficient-expected)
+- [Trump ends Fauci&#39;s security detail](https://apnews.com/article/fauci-trump-security-detail-4b2e317dc9e7768c0571df30750e863a)
+- [Google Earth has begun updating images of Gaza](https://old.reddit.com/r/MapPorn/comments/1i8frfh/google_earth_has_begun_updating_images_of_gaza/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

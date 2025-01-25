@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine war briefing: Russians say major oil refinery burning after Ukrainian drone strikes](https://www.theguardian.com/world/2025/jan/24/ukraine-war-briefing-russians-say-major-oil-refinery-burning-after-ukrainian-drone-strikes)
-- [Senate votes to advance Pete Hegseth as Trump’s defense secretary despite some Republican opposition – as it happened](https://www.theguardian.com/us-news/live/2025/jan/23/donald-trump-pardons-january-6-us-president-joe-biden-jd-vance-republicans-live-news)
-- [Italy says Libya war crimes suspect was sent home due to ‘social dangerousness’](https://www.theguardian.com/world/2025/jan/24/general-osama-najim-almasri-libya-war-crimes-suspect-italy-sent-home)
-- [Chichester least affordable area outside London for first-time buyers, data shows](https://www.theguardian.com/money/2025/jan/24/chichester-least-affordable-area-outside-london-for-first-time-buyers-data-shows)
-- [Popping a manu: New Zealand’s unique water jumping obsession](https://www.theguardian.com/world/2025/jan/24/popping-a-manu-new-zealands-unique-water-jumping-obsession)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2025/jan/24/premier-league-10-things-to-look-out-for-this-weekend)
-- [Trump pardons anti-abortion activists who blockaded clinic entrances](https://www.theguardian.com/us-news/2025/jan/23/trump-pardons-anti-abortion-activists)
-- [Trump administration bans non-US flags from being flown at embassies](https://www.theguardian.com/us-news/2025/jan/23/trump-administration-bans-non-us-flags-from-being-flown-at-embassies)
-- [Trump orders release of thousands of classified files on JFK assassination](https://www.theguardian.com/us-news/2025/jan/23/trump-jfk-assassination-classified-files)
-- [Flight Risk review – Mel Gibson serves up white-knuckle fun in airplane suspense thriller](https://www.theguardian.com/film/2025/jan/23/flight-risk-review-mel-gibson-serves-up-some-white-knuckle-fun-in-this-suspense-thriller)
+- [Trump signs executive orders targeting abortion rights – US politics live](https://www.theguardian.com/us-news/live/2025/jan/24/us-politics-donald-trump-tariffs-china-birthright-citizenship-latest-news-updates)
+- [Ukraine war briefing: Putin aiming to ‘manipulate’ Trump, Zelenskyy warns](https://www.theguardian.com/world/2025/jan/25/ukraine-war-briefing-putin-aiming-to-manipulate-trump-zelenskyy-warns)
+- [Omaha review – John Magaro leads lean but affecting family drama](https://www.theguardian.com/film/2025/jan/24/omaha-review-john-magaro-sundance)
+- [‘Never seems to end’: exhausted quake-hit Vanuatu rebuilds again](https://www.theguardian.com/world/2025/jan/25/vanuatu-earthquake-december-2024-port-vila-feature)
+- [David Gaskell, Manchester United record-breaker, dies aged 84](https://www.theguardian.com/football/2025/jan/24/david-gaskell-manchester-united-record-breaker-dies-aged-84-goalkeeper-youngest-debutant)
+- [US orders halt to virtually all foreign aid except for Israel and Egypt](https://www.theguardian.com/us-news/2025/jan/24/foreign-aid-israel-egypt)
+- [A local’s guide to Broken Hill: ‘Chances are, someone will spark up a chat’](https://www.theguardian.com/lifeandstyle/2025/jan/25/a-locals-guide-to-broken-hill-chances-are-someone-will-spark-up-a-chat)
+- [Salacious gossip, a photo scandal and death threats have dogged Victorian MP Georgie Purcell – but she won’t stop fighting](https://www.theguardian.com/australia-news/2025/jan/25/salacious-gossip-a-photo-scandal-and-death-threats-have-dogged-victorian-mp-georgie-purcell-but-she-wont-stop-fighting)
+- [The Traitors finale review – the deliciously evil end game kicked this series into hyperdrive](https://www.theguardian.com/tv-and-radio/2025/jan/24/the-traitors-finale-review-deliciously-evil-end-game)
+- [Colorado crime lab analyst charged for allegedly altering reports in sexual assault cases](https://www.theguardian.com/us-news/2025/jan/24/colorado-lab-sexual-assault-reports)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

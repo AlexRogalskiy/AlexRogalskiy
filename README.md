@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Ergodic Lagrangian dynamics in a superhero universe](https://pubs.aip.org/aapt/ajp/article/93/2/127/3331568/Ergodic-Lagrangian-dynamics-in-a-superhero)
-- [Sei &lpar;YC W22&rpar; Is Hiring](https://www.ycombinator.com/companies/sei/jobs/LeAtLYf-full-stack-engineer-typescript-react-gen-ai)
-- [A QR code that sends you to a different destination - lenticular and adversarial](https://mstdn.social/@isziaui/113874436953157913)
-- [Disabling Zen 5&#39;s Op Cache and Exploring Its Clustered Decoder](https://chipsandcheese.com/p/disabling-zen-5s-op-cache-and-exploring)
-- [Surface-Stable Fractal Dithering](https://github.com/runevision/Dither3D)
-- [Susctl CVE-2024-54507: A particularly &#39;sus&#39; sysctl in the XNU kernel](https://jprx.io/cve-2024-54507/)
-- [Morse Code in Tubular Bells &lpar;2021&rpar;](https://madpsy.uk/link-between-the-soundtrack-of-the-exorcist-and-amateur-radio/)
-- [Citations on the Anthropic API](https://www.anthropic.com/news/introducing-citations-api)
-- [Show HN: Open-source AI video editor](https://github.com/fal-ai-community/video-starter-kit)
-- [Building a Medieval Castle from Scratch](https://www.guedelon.fr/en/)
+- [Caltrain&#39;s Electric Fleet More Efficient Than Expected](https://www.caltrain.com/news/caltrains-electric-fleet-more-efficient-expected)
+- [Frustrated YouTube viewers seek explanation for hour-long unskippable ads](https://www.androidauthority.com/youtube-long-unskippable-ads-problem-3519957/)
+- [Android SMS Gateway Using MQTT](https://github.com/ibnux/Android-SMS-Gateway-MQTT)
+- [File Explorer is merged to Helix editor](https://github.com/helix-editor/helix/pull/11285)
+- [You could have invented Fenwick trees](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/you-could-have-invented-fenwick-trees/B4628279D4E54229CED97249E96F721D)
+- [VIC 20 Elite](https://vic20elite.wordpress.com/)
+- [Nuclear Proliferation and the &quot;Nth Country Experiment&quot;](https://nsarchive.gwu.edu/briefing-book/nuclear-vault/2025-01-23/nuclear-proliferation-and-nth-country-experiment)
+- [Show HN: Lightpanda, an open-source headless browser in Zig](https://github.com/lightpanda-io/browser)
+- [Show HN: Onit – open-source ChatGPT Desktop with local mode, Claude, Gemini](https://github.com/synth-inc/onit)
+- [Trying out Zed after more than a decade of Vim/Neovim](https://sgoel.dev/posts/trying-out-zed-after-more-than-a-decade-of-vim-neovim/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

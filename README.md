@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Trump signs executive orders targeting abortion rights – US politics live](https://www.theguardian.com/us-news/live/2025/jan/24/us-politics-donald-trump-tariffs-china-birthright-citizenship-latest-news-updates)
-- [Ukraine war briefing: Putin aiming to ‘manipulate’ Trump, Zelenskyy warns](https://www.theguardian.com/world/2025/jan/25/ukraine-war-briefing-putin-aiming-to-manipulate-trump-zelenskyy-warns)
-- [Omaha review – John Magaro leads lean but affecting family drama](https://www.theguardian.com/film/2025/jan/24/omaha-review-john-magaro-sundance)
-- [‘Never seems to end’: exhausted quake-hit Vanuatu rebuilds again](https://www.theguardian.com/world/2025/jan/25/vanuatu-earthquake-december-2024-port-vila-feature)
-- [David Gaskell, Manchester United record-breaker, dies aged 84](https://www.theguardian.com/football/2025/jan/24/david-gaskell-manchester-united-record-breaker-dies-aged-84-goalkeeper-youngest-debutant)
-- [US orders halt to virtually all foreign aid except for Israel and Egypt](https://www.theguardian.com/us-news/2025/jan/24/foreign-aid-israel-egypt)
-- [A local’s guide to Broken Hill: ‘Chances are, someone will spark up a chat’](https://www.theguardian.com/lifeandstyle/2025/jan/25/a-locals-guide-to-broken-hill-chances-are-someone-will-spark-up-a-chat)
-- [Salacious gossip, a photo scandal and death threats have dogged Victorian MP Georgie Purcell – but she won’t stop fighting](https://www.theguardian.com/australia-news/2025/jan/25/salacious-gossip-a-photo-scandal-and-death-threats-have-dogged-victorian-mp-georgie-purcell-but-she-wont-stop-fighting)
-- [The Traitors finale review – the deliciously evil end game kicked this series into hyperdrive](https://www.theguardian.com/tv-and-radio/2025/jan/24/the-traitors-finale-review-deliciously-evil-end-game)
-- [Colorado crime lab analyst charged for allegedly altering reports in sexual assault cases](https://www.theguardian.com/us-news/2025/jan/24/colorado-lab-sexual-assault-reports)
+- [CIA now backs lab leak theory to explain origins of Covid-19](https://www.theguardian.com/society/2025/jan/26/cia-now-backs-lab-leak-theory-to-explain-origins-of-covid-19)
+- [Mr Nobody Against Putin review – a teacher fights back in a powerful documentary](https://www.theguardian.com/film/2025/jan/25/mr-nobody-against-putin-review)
+- [Winter wonder: Jeanette Winterson and others reveal why the cold has them under its spell](https://www.theguardian.com/environment/2025/jan/26/winter-wonder-jeanette-winterson-and-others-reveal-why-the-cold-has-them-under-its-spell)
+- [‘Our job is to be truthful not neutral’: Christiane Amanpour on Trump, tech and and fighting for the truth](https://www.theguardian.com/media/2025/jan/26/our-job-is-to-be-truthful-not-neutral-christiane-amanpour-on-trump-tech-and-and-fighting-for-the-truth)
+- [Roman Kemp: ‘Here’s all my faults. Have ’em. Enjoy’](https://www.theguardian.com/lifeandstyle/2025/jan/26/roman-kemp-heres-all-my-faults-have-em-enjoy)
+- [About 40,000 people in Scotland still without power after Storm Éowyn](https://www.theguardian.com/uk-news/2025/jan/26/about-40000-people-in-scotland-still-without-power-after-storm-eowyn)
+- [The edit: the best pyjamas – in pictures](https://www.theguardian.com/fashion/gallery/2025/jan/25/the-edit-the-best-pyjamas-in-pictures)
+- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2025/jan/25/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [At least six people seriously injured on flight from Nigeria to Washington DC](https://www.theguardian.com/world/2025/jan/25/united-airlines-nigeria-washington-dc)
+- [Rwandan army ‘ready to invade DRC’ and help rebels seize city](https://www.theguardian.com/global-development/2025/jan/25/rwandan-army-ready-to-invade-drc-and-help-rebels-seize-city)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

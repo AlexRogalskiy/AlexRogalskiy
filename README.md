@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Direct Manipulation vs. Interface Agents](https://stackdiver.com/posts/direct-manipulation-vs-interface-agents/)
-- [Mourning is human. New grief apps want to &#39;optimise&#39; it for you](https://www.bbc.com/future/article/20250123-the-apps-turning-grief-into-data-points)
-- [Origin of the Word &quot;Crap&quot;](https://en.wikipedia.org/wiki/Thomas_Crapper)
-- [The Drunken Plagiarists: working with copilots](https://queue.acm.org/detail.cfm?id=3711675&doi=10.1145%2F3711675)
-- [Next-gen Ethernet standards set to move forward in 2025](https://www.networkworld.com/article/3802351/next-gen-ethernet-standards-set-to-move-forward-in-2025.html)
-- [Trump admin fires members of cybersecurity review board](https://techcrunch.com/2025/01/22/trump-administration-fires-members-of-cybersecurity-review-board-in-horribly-shortsighted-decision/)
-- [Algorithms for Competitive Programming](https://github.com/cp-algorithms/cp-algorithms)
-- [Caltrain&#39;s Electric Fleet More Efficient Than Expected](https://www.caltrain.com/news/caltrains-electric-fleet-more-efficient-expected)
-- [Trump ends Fauci&#39;s security detail](https://apnews.com/article/fauci-trump-security-detail-4b2e317dc9e7768c0571df30750e863a)
-- [Google Earth has begun updating images of Gaza](https://old.reddit.com/r/MapPorn/comments/1i8frfh/google_earth_has_begun_updating_images_of_gaza/)
+- [Ask HN: Where do SDK generators break down?](https://news.ycombinator.com/item?id=42827176)
+- [Are Sunk Costs Fallacies? &lpar;2012&rpar;](https://gwern.net/sunk-cost)
+- [Exploring the new &quot;go tool&quot; support in Go 1.24](https://blog.howardjohn.info/posts/go-tools-command/)
+- [Valencia bike lane saga continues after new group files appeal](https://missionlocal.org/2024/12/valencia-bike-lane-saga-continues-after-new-group-files-appeal/)
+- [TypeScript 5.8 Ships –ErasableSyntaxOnly to Disable Enums](https://www.totaltypescript.com/erasable-syntax-only)
+- [Show HN: LLM-Reasoner:Make any LLM to think deeper like OpenAI o1](https://github.com/harishsg993010/LLM-Reasoner)
+- [Show HN: IconFst – Yet Another AI Icon Generator](https://iconfst.com)
+- [Elon Musk addresses German far-right AfD rally by video link](https://www.thenationalnews.com/news/europe/2025/01/25/elon-musk-afd-germany-rally/)
+- [Quantum Walk Computing: Theory, Implementation, and Application](http://spj.science.org/doi/10.34133/icomputing.0097)
+- [Encoding Information in DNA Using Electric Field Gradients and Nuclear Spins](http://spj.science.org/doi/10.34133/icomputing.0094)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [CIA now backs lab leak theory to explain origins of Covid-19](https://www.theguardian.com/society/2025/jan/26/cia-now-backs-lab-leak-theory-to-explain-origins-of-covid-19)
-- [Mr Nobody Against Putin review – a teacher fights back in a powerful documentary](https://www.theguardian.com/film/2025/jan/25/mr-nobody-against-putin-review)
-- [Winter wonder: Jeanette Winterson and others reveal why the cold has them under its spell](https://www.theguardian.com/environment/2025/jan/26/winter-wonder-jeanette-winterson-and-others-reveal-why-the-cold-has-them-under-its-spell)
-- [‘Our job is to be truthful not neutral’: Christiane Amanpour on Trump, tech and and fighting for the truth](https://www.theguardian.com/media/2025/jan/26/our-job-is-to-be-truthful-not-neutral-christiane-amanpour-on-trump-tech-and-and-fighting-for-the-truth)
-- [Roman Kemp: ‘Here’s all my faults. Have ’em. Enjoy’](https://www.theguardian.com/lifeandstyle/2025/jan/26/roman-kemp-heres-all-my-faults-have-em-enjoy)
-- [About 40,000 people in Scotland still without power after Storm Éowyn](https://www.theguardian.com/uk-news/2025/jan/26/about-40000-people-in-scotland-still-without-power-after-storm-eowyn)
-- [The edit: the best pyjamas – in pictures](https://www.theguardian.com/fashion/gallery/2025/jan/25/the-edit-the-best-pyjamas-in-pictures)
-- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2025/jan/25/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [At least six people seriously injured on flight from Nigeria to Washington DC](https://www.theguardian.com/world/2025/jan/25/united-airlines-nigeria-washington-dc)
-- [Rwandan army ‘ready to invade DRC’ and help rebels seize city](https://www.theguardian.com/global-development/2025/jan/25/rwandan-army-ready-to-invade-drc-and-help-rebels-seize-city)
+- [AFC championship game: Buffalo Bills v Kansas City Chiefs – live](https://www.theguardian.com/sport/live/2025/jan/26/afc-championship-game-buffalo-bills-kansas-city-chiefs-latest-score-nfl-football)
+- [Ukraine war briefing: Moscow claims control of Velyka Novosilka but Ukrainians say fight continues](https://www.theguardian.com/world/2025/jan/27/ukraine-war-briefing-moscow-claims-control-of-velyka-novosilka-but-ukrainians-say-fight-continues)
+- [Government under pressure on economy as British households anticipate worsening finances](https://www.theguardian.com/politics/2025/jan/27/government-economy-british-households-survey-worsening-finances)
+- [Quarter of people in England had poor NHS care in past year, report says](https://www.theguardian.com/society/2025/jan/27/nhs-care-report-survey-healthwatch-england-complaints)
+- [New rules ease reporting restrictions in family courts across England and Wales](https://www.theguardian.com/law/2025/jan/27/family-courts-england-wales-reporting-journalists-legal-bloggers)
+- [Ruben Amorim: I would put 63-year-old on bench instead of Marcus Rashford](https://www.theguardian.com/football/2025/jan/26/ruben-amorim-i-would-put-63-year-old-on-bench-instead-of-marcus-rashford)
+- [Search begins for UK sailor after yacht found ‘eviscerated’ off French coast](https://www.theguardian.com/world/2025/jan/26/british-sailor-lost-at-sea-after-yacht-found-eviscerated-off-french-coast)
+- [NFC championship game: Eagles overpower Commanders to reach Super Bowl](https://www.theguardian.com/sport/2025/jan/26/nfc-championship-game-philadelphia-eagles-washington-commanders-final-score)
+- [RNLI rescues American students from Welsh island during Storm Éowyn](https://www.theguardian.com/uk-news/2025/jan/26/rnli-rescues-american-students-from-welsh-island-during-storm-eowyn)
+- [Everyone asks me about my plans for having children. A nest of noisy miner birds has taught me how to respond | Joseph Earp](https://www.theguardian.com/commentisfree/2025/jan/27/everyone-asks-me-about-my-plans-for-having-children-a-nest-of-noisy-miner-birds-has-taught-me-how-to-respond)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

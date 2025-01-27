@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ask HN: Where do SDK generators break down?](https://news.ycombinator.com/item?id=42827176)
-- [Are Sunk Costs Fallacies? &lpar;2012&rpar;](https://gwern.net/sunk-cost)
-- [Exploring the new &quot;go tool&quot; support in Go 1.24](https://blog.howardjohn.info/posts/go-tools-command/)
-- [Valencia bike lane saga continues after new group files appeal](https://missionlocal.org/2024/12/valencia-bike-lane-saga-continues-after-new-group-files-appeal/)
-- [TypeScript 5.8 Ships –ErasableSyntaxOnly to Disable Enums](https://www.totaltypescript.com/erasable-syntax-only)
-- [Show HN: LLM-Reasoner:Make any LLM to think deeper like OpenAI o1](https://github.com/harishsg993010/LLM-Reasoner)
-- [Show HN: IconFst – Yet Another AI Icon Generator](https://iconfst.com)
-- [Elon Musk addresses German far-right AfD rally by video link](https://www.thenationalnews.com/news/europe/2025/01/25/elon-musk-afd-germany-rally/)
-- [Quantum Walk Computing: Theory, Implementation, and Application](http://spj.science.org/doi/10.34133/icomputing.0097)
-- [Encoding Information in DNA Using Electric Field Gradients and Nuclear Spins](http://spj.science.org/doi/10.34133/icomputing.0094)
+- [Reverse Mode Automatic Differentiation](https://eli.thegreenplace.net/2025/reverse-mode-automatic-differentiation/)
+- [Llama2.c &lpar;early alpha&rpar; on Sharp X68030](https://twitter.com/VulcanIgnis/status/1883657147294347561)
+- [Qoir AI: Smart AI Search and Human Answer Engine &lpar;get started for Free&rpar;](https://qoir.com)
+- [Homemade Silicon Chips [video]](https://www.youtube.com/watch?v=IS5ycm7VfXg)
+- [The race for &quot;AI Supremacy&quot; is over – at least for now](https://garymarcus.substack.com/p/the-race-for-ai-supremacy-is-over)
+- [ICE raid at Newark, NJ fish market was not part of mass deportation plan](https://www.fox5ny.com/news/ice-raid-in-newark-nj-raid-oceans-seafood-depot-new-jersey)
+- [Curiso – infinite canvas for your thoughts](https://curiso.ai)
+- [CSS Zen Garden: The Beauty of CSS Design](https://www.csszengarden.com/219/)
+- [Camille Rullán](https://camillerullan.net/)
+- [What did DeepSeek figure out about reasoning models with R1?](https://www.seangoedecke.com/deepseek-r1/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

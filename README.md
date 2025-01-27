@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Chimera Linux works toward a simplified desktop](https://lwn.net/Articles/1004324/)
-- [The South Vietnamese pilot who landed a Cessna on a carrier to save his family &lpar;2019&rpar;](https://www.historynet.com/maj-buang-lys-daring-feat-to-save-his-family/)
-- [SQLook – A free online SQLite database manager with a Windows 2000 interface](https://sqlook.com)
-- [Tool touted as &#39;first AI software engineer&#39; is bad at its job, testers claim](https://www.theregister.com/2025/01/23/ai_developer_devin_poor_reviews/)
-- [Texas Is Enforcing Its State Data Privacy Law. So Should Other States](https://www.eff.org/deeplinks/2025/01/texas-enforcing-its-state-data-privacy-law-so-should-other-states)
-- [Steam Brick: No screen, no controller, just a power button and a USB port](https://crastinator-pro.github.io/steam-brick/)
-- [Bucket Robotics &lpar;YC S24&rpar; is hiring our first engineer](https://news.ycombinator.com/item?id=42825423)
-- [Fault Tolerance in Tandem Computer Systems &lpar;1986&rpar;[pdf]](https://jimgray.azurewebsites.net/papers/TandemTR86.2_FaultToleranceInTandemComputerSystems.pdf)
-- [Immutability Changes Everything &lpar;2016&rpar; [pdf]](https://www.cidrdb.org/cidr2015/Papers/CIDR15_Paper16.pdf)
-- [Using AI to develop a fuller model of the human brain](https://magazine.ucsf.edu/building-a-silicon-brain)
+- [The Less People Know About AI, the More They Like It](https://theconversation.com/knowing-less-about-ai-makes-people-more-open-to-having-it-in-their-lives-new-research-247372)
+- [Marginalia – A search engine that prioritizes non-commercial content](https://marginalia-search.com/)
+- [Shunpo: Minimalist bash tool to make directory navigation a little bit faster](https://github.com/egurapha/Shunpo)
+- [Openhaystack: Build &#39;AirTags&#39; – track Bluetooth devices via Apple&#39;s network](https://github.com/seemoo-lab/openhaystack)
+- [Lessons in creating family photos that people want to keep &lpar;2018&rpar;](https://estherschindler.medium.com/the-old-family-photos-project-lessons-in-creating-family-photos-that-people-want-to-keep-ea3909129943)
+- [Kansas tuberculosis outbreak is now America&#39;s largest in recorded history](https://www.cjonline.com/story/news/politics/government/2025/01/24/kansas-tuberculosis-outbreak-is-largest-in-recorded-history-in-u-s/77881467007/)
+- [Hyperbound &lpar;YC S23&rpar; is hiring a Founding Account Executive in SF](https://www.ycombinator.com/companies/hyperbound/jobs/c3NkW7d-founding-full-cycle-account-executive-in-sf)
+- [Show HN: DeepSeek My User Agent](https://www.jasonthorsness.com/20)
+- [The only photo of the Concorde flying at supersonic speed](https://petapixel.com/2025/01/25/photo-concorde-supersonic-speed-mach-2/)
+- [Astronomers delete asteroid because it turned out to be Tesla Roadster](https://www.astronomy.com/science/astronomers-just-deleted-an-asteroid-because-it-turned-out-to-be-elon-musks-tesla-roadster/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

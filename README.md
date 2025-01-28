@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [AFC championship game: Buffalo Bills v Kansas City Chiefs – live](https://www.theguardian.com/sport/live/2025/jan/26/afc-championship-game-buffalo-bills-kansas-city-chiefs-latest-score-nfl-football)
-- [Ukraine war briefing: Moscow claims control of Velyka Novosilka but Ukrainians say fight continues](https://www.theguardian.com/world/2025/jan/27/ukraine-war-briefing-moscow-claims-control-of-velyka-novosilka-but-ukrainians-say-fight-continues)
-- [Government under pressure on economy as British households anticipate worsening finances](https://www.theguardian.com/politics/2025/jan/27/government-economy-british-households-survey-worsening-finances)
-- [Quarter of people in England had poor NHS care in past year, report says](https://www.theguardian.com/society/2025/jan/27/nhs-care-report-survey-healthwatch-england-complaints)
-- [New rules ease reporting restrictions in family courts across England and Wales](https://www.theguardian.com/law/2025/jan/27/family-courts-england-wales-reporting-journalists-legal-bloggers)
-- [Ruben Amorim: I would put 63-year-old on bench instead of Marcus Rashford](https://www.theguardian.com/football/2025/jan/26/ruben-amorim-i-would-put-63-year-old-on-bench-instead-of-marcus-rashford)
-- [Search begins for UK sailor after yacht found ‘eviscerated’ off French coast](https://www.theguardian.com/world/2025/jan/26/british-sailor-lost-at-sea-after-yacht-found-eviscerated-off-french-coast)
-- [NFC championship game: Eagles overpower Commanders to reach Super Bowl](https://www.theguardian.com/sport/2025/jan/26/nfc-championship-game-philadelphia-eagles-washington-commanders-final-score)
-- [RNLI rescues American students from Welsh island during Storm Éowyn](https://www.theguardian.com/uk-news/2025/jan/26/rnli-rescues-american-students-from-welsh-island-during-storm-eowyn)
-- [Everyone asks me about my plans for having children. A nest of noisy miner birds has taught me how to respond | Joseph Earp](https://www.theguardian.com/commentisfree/2025/jan/27/everyone-asks-me-about-my-plans-for-having-children-a-nest-of-noisy-miner-birds-has-taught-me-how-to-respond)
+- [What is gleeking and why is the saliva-ejecting craze blowing up on TikTok?](https://www.theguardian.com/culture/2025/jan/28/what-is-gleeking-and-why-is-the-saliva-ejecting-craze-blowing-up-on-tiktok)
+- [Prime Minister: Jacinda Ardern documentary featuring home videos premieres at Sundance](https://www.theguardian.com/world/2025/jan/28/jacinta-ardern-documentary-prime-minister-sundance-premiere)
+- [Ukraine war briefing: Shock as Trump aid freeze hits Ukrainian causes](https://www.theguardian.com/world/2025/jan/28/ukraine-war-briefing-shock-as-trump-aid-freeze-hits-ukrainian-causes)
+- [India and China agree to resume direct flights for first time in five years](https://www.theguardian.com/world/2025/jan/28/india-and-china-agree-to-resume-direct-flights-for-first-time-in-five-years)
+- [‘An unusual find’: 66m-year-old animal vomit discovered in Denmark](https://www.theguardian.com/science/2025/jan/28/an-unusual-find-66m-year-old-animal-vomit-discovered-in-denmark)
+- [‘Sputnik moment’: $1tn wiped off US stocks after Chinese firm unveils AI chatbot](https://www.theguardian.com/business/2025/jan/27/tech-shares-asia-europe-fall-china-ai-deepseek)
+- [Train Dreams review – Joel Edgerton stuns in meditative period drama](https://www.theguardian.com/film/2025/jan/27/train-dreams-review-joel-edgerton-drama)
+- [Hatred of police not racism motivated children in English riots, report finds](https://www.theguardian.com/society/2025/jan/28/hatred-of-police-not-racism-motivated-children-in-english-riots-report-finds)
+- [Meta’s content moderation changes ‘hugely concerning’, says Molly Rose Foundation](https://www.theguardian.com/technology/2025/jan/28/metas-content-moderation-changes-hugely-concerning-says-molly-rose-foundation)
+- [Temporary accommodation possible factor in deaths of 74 children in England](https://www.theguardian.com/society/2025/jan/28/temporary-accommodation-possible-factor-in-deaths-of-74-children-in-england)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

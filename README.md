@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Reverse Mode Automatic Differentiation](https://eli.thegreenplace.net/2025/reverse-mode-automatic-differentiation/)
-- [Llama2.c &lpar;early alpha&rpar; on Sharp X68030](https://twitter.com/VulcanIgnis/status/1883657147294347561)
-- [Qoir AI: Smart AI Search and Human Answer Engine &lpar;get started for Free&rpar;](https://qoir.com)
-- [Homemade Silicon Chips [video]](https://www.youtube.com/watch?v=IS5ycm7VfXg)
-- [The race for &quot;AI Supremacy&quot; is over – at least for now](https://garymarcus.substack.com/p/the-race-for-ai-supremacy-is-over)
-- [ICE raid at Newark, NJ fish market was not part of mass deportation plan](https://www.fox5ny.com/news/ice-raid-in-newark-nj-raid-oceans-seafood-depot-new-jersey)
-- [Curiso – infinite canvas for your thoughts](https://curiso.ai)
-- [CSS Zen Garden: The Beauty of CSS Design](https://www.csszengarden.com/219/)
-- [Camille Rullán](https://camillerullan.net/)
-- [What did DeepSeek figure out about reasoning models with R1?](https://www.seangoedecke.com/deepseek-r1/)
+- [Humanity&#39;s Last Exam](https://lastexam.ai/)
+- [Georgi Gerganov on X: &quot;x2 speed for WASM by optimizing SIMD&quot; / X](https://twitter.com/ggerganov/status/1883888097185927311)
+- [What If the Attention Crisis Is All a Distraction?](https://www.newyorker.com/magazine/2025/01/27/the-sirens-call-chris-hayes-book-review)
+- [Google Maps Plans to Handle the &#39;Gulf of America&#39;](https://www.nytimes.com/2025/01/27/technology/google-maps-gulf-of-america-trump.html)
+- [Why DeepSeek&#39;s new AI model thinks it&#39;s ChatGPT](https://techcrunch.com/2024/12/27/why-deepseeks-new-ai-model-thinks-its-chatgpt/)
+- [The LLM code editor with DeepSeek-R1 support](https://github.com/soheil/tron)
+- [The Mechanization of Meaning: Claude Shannon and Generative AI](https://www.newcartographies.com/p/the-mechanization-of-meaning)
+- [Bounties: Pluto](https://github.com/pluto/.github/blob/main/profile/CONTRIBUTING.md)
+- [Lumorphix Processor IP](https://brisbanesilicon.com.au/products/lumorphix/)
+- [React Is Holding Me Hostage &lpar;2023&rpar;](https://emnudge.dev/blog/react-hostage/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

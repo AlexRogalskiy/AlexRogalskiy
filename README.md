@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The Less People Know About AI, the More They Like It](https://theconversation.com/knowing-less-about-ai-makes-people-more-open-to-having-it-in-their-lives-new-research-247372)
-- [Marginalia – A search engine that prioritizes non-commercial content](https://marginalia-search.com/)
-- [Shunpo: Minimalist bash tool to make directory navigation a little bit faster](https://github.com/egurapha/Shunpo)
-- [Openhaystack: Build &#39;AirTags&#39; – track Bluetooth devices via Apple&#39;s network](https://github.com/seemoo-lab/openhaystack)
-- [Lessons in creating family photos that people want to keep &lpar;2018&rpar;](https://estherschindler.medium.com/the-old-family-photos-project-lessons-in-creating-family-photos-that-people-want-to-keep-ea3909129943)
-- [Kansas tuberculosis outbreak is now America&#39;s largest in recorded history](https://www.cjonline.com/story/news/politics/government/2025/01/24/kansas-tuberculosis-outbreak-is-largest-in-recorded-history-in-u-s/77881467007/)
-- [Hyperbound &lpar;YC S23&rpar; is hiring a Founding Account Executive in SF](https://www.ycombinator.com/companies/hyperbound/jobs/c3NkW7d-founding-full-cycle-account-executive-in-sf)
-- [Show HN: DeepSeek My User Agent](https://www.jasonthorsness.com/20)
-- [The only photo of the Concorde flying at supersonic speed](https://petapixel.com/2025/01/25/photo-concorde-supersonic-speed-mach-2/)
-- [Astronomers delete asteroid because it turned out to be Tesla Roadster](https://www.astronomy.com/science/astronomers-just-deleted-an-asteroid-because-it-turned-out-to-be-elon-musks-tesla-roadster/)
+- [Machine Learning in Production &lpar;CMU Course&rpar;](https://mlip-cmu.github.io/s2025/)
+- [I trusted an LLM, now I&#39;m on day 4 of an afternoon project](https://nemo.foo/blog/day-4-of-an-afternoon-project)
+- [Go 1.24&#39;s go tool is one of the best additions to the ecosystem in years](https://www.jvt.me/posts/2025/01/27/go-tools-124/)
+- [We&#39;re bringing Pebble back](https://repebble.com/)
+- [Google open-sources the Pebble OS](https://opensource.googleblog.com/2025/01/see-code-that-powered-pebble-smartwatches.html)
+- [The future of Rebble](https://rebble.io/2025/01/27/the-future-of-rebble.html)
+- [The Alpha Myth: How captive wolves led us astray](https://anthonydavidadams.substack.com/p/the-alpha-myth-how-captive-wolves)
+- [The Taylorator – All Your Frequencies Are Belong to Us](https://www.scd31.com/posts/taylorator)
+- [The Curious Case of Quentell](https://blog.startifact.com/posts/the-curious-case-of-quentell/)
+- [DeepSeek releases Janus Pro, a text-to-image generator [pdf]](https://github.com/deepseek-ai/Janus/blob/main/janus_pro_tech_report.pdf)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

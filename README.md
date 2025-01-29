@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Machine Learning in Production &lpar;CMU Course&rpar;](https://mlip-cmu.github.io/s2025/)
-- [I trusted an LLM, now I&#39;m on day 4 of an afternoon project](https://nemo.foo/blog/day-4-of-an-afternoon-project)
-- [Go 1.24&#39;s go tool is one of the best additions to the ecosystem in years](https://www.jvt.me/posts/2025/01/27/go-tools-124/)
-- [We&#39;re bringing Pebble back](https://repebble.com/)
-- [Google open-sources the Pebble OS](https://opensource.googleblog.com/2025/01/see-code-that-powered-pebble-smartwatches.html)
-- [The future of Rebble](https://rebble.io/2025/01/27/the-future-of-rebble.html)
-- [The Alpha Myth: How captive wolves led us astray](https://anthonydavidadams.substack.com/p/the-alpha-myth-how-captive-wolves)
-- [The Taylorator – All Your Frequencies Are Belong to Us](https://www.scd31.com/posts/taylorator)
-- [The Curious Case of Quentell](https://blog.startifact.com/posts/the-curious-case-of-quentell/)
-- [DeepSeek releases Janus Pro, a text-to-image generator [pdf]](https://github.com/deepseek-ai/Janus/blob/main/janus_pro_tech_report.pdf)
+- [It&#39;s official: Research has found that libraries make everything better](https://lithub.com/its-official-research-has-found-that-libraries-make-everything-better/)
+- [Discovery Coding](https://jimmyhmiller.github.io/discovery-coding)
+- [Goodbye, Slopify](https://alexeystar.com/blog/slopify/)
+- [The Americans Pledging to Buy Less–Or Even Nothing](https://www.wsj.com/personal-finance/the-americans-pledging-to-buy-lessor-even-nothing-7edeacf3)
+- [Job trends of HN Who Is Hiring?](https://hnhiring.com/trends)
+- [DeepSeek&#39;s multi-head latent attention and other KV cache tricks](https://www.pyspur.dev/blog/multi-head-latent-attention-kv-cache-paper-list)
+- [Slicing the Fourth](https://axalatar.github.io/slicing-the-fourth/)
+- [SciPhi &lpar;YC W24&rpar; Is Hiring](https://www.ycombinator.com/companies/sciphi/jobs/CVYWWpl-founding-ai-research-engineer)
+- [Can we get the benefits of transitive dependencies without undermining security?](https://tratt.net/laurie/blog/2024/can_we_retain_the_benefits_of_transitive_dependencies_without_undermining_security.html)
+- [Parkinsons patient &quot;feels cured&quot; with new adaptive deep brain stimulation device](https://www.bbc.com/news/articles/ckgn49r069wo)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

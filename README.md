@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [What is gleeking and why is the saliva-ejecting craze blowing up on TikTok?](https://www.theguardian.com/culture/2025/jan/28/what-is-gleeking-and-why-is-the-saliva-ejecting-craze-blowing-up-on-tiktok)
-- [Prime Minister: Jacinda Ardern documentary featuring home videos premieres at Sundance](https://www.theguardian.com/world/2025/jan/28/jacinta-ardern-documentary-prime-minister-sundance-premiere)
-- [Ukraine war briefing: Shock as Trump aid freeze hits Ukrainian causes](https://www.theguardian.com/world/2025/jan/28/ukraine-war-briefing-shock-as-trump-aid-freeze-hits-ukrainian-causes)
-- [India and China agree to resume direct flights for first time in five years](https://www.theguardian.com/world/2025/jan/28/india-and-china-agree-to-resume-direct-flights-for-first-time-in-five-years)
-- [‘An unusual find’: 66m-year-old animal vomit discovered in Denmark](https://www.theguardian.com/science/2025/jan/28/an-unusual-find-66m-year-old-animal-vomit-discovered-in-denmark)
-- [‘Sputnik moment’: $1tn wiped off US stocks after Chinese firm unveils AI chatbot](https://www.theguardian.com/business/2025/jan/27/tech-shares-asia-europe-fall-china-ai-deepseek)
-- [Train Dreams review – Joel Edgerton stuns in meditative period drama](https://www.theguardian.com/film/2025/jan/27/train-dreams-review-joel-edgerton-drama)
-- [Hatred of police not racism motivated children in English riots, report finds](https://www.theguardian.com/society/2025/jan/28/hatred-of-police-not-racism-motivated-children-in-english-riots-report-finds)
-- [Meta’s content moderation changes ‘hugely concerning’, says Molly Rose Foundation](https://www.theguardian.com/technology/2025/jan/28/metas-content-moderation-changes-hugely-concerning-says-molly-rose-foundation)
-- [Temporary accommodation possible factor in deaths of 74 children in England](https://www.theguardian.com/society/2025/jan/28/temporary-accommodation-possible-factor-in-deaths-of-74-children-in-england)
+- [India crowd crushes: dozens feared dead at Kumbh Mela religious festival – latest updates](https://www.theguardian.com/world/live/2025/jan/29/india-crowd-crush-kumbh-mela-religious-festival-live-blog-injuries-prayagraj)
+- [Trump invites Netanyahu to be first foreign leader to visit White House](https://www.theguardian.com/us-news/2025/jan/28/trump-netanyahu-white-house-visit)
+- [Ukraine war briefing: Putin refuses direct talks with Zelenskyy](https://www.theguardian.com/world/2025/jan/29/ukraine-war-briefing-putin-refuses-direct-talks-with-zelenskyy)
+- [Australia are out to psychologically bury England in Women’s Ashes Test | Beth Mooney](https://www.theguardian.com/sport/2025/jan/29/australia-are-out-to-psychologically-bury-england-in-womens-ashes-test)
+- [UN aid agencies cut back operations after Trump’s 90-day funding suspension](https://www.theguardian.com/world/2025/jan/28/un-aid-cuts-trump-funding)
+- [Threat of cyber-attacks on Whitehall ‘is severe and advancing quickly’, NAO says](https://www.theguardian.com/technology/2025/jan/29/cyber-attack-threat-uk-government-departments-whitehall-nao)
+- [How Trump tariffs could upend car markets in Europe, the US and China](https://www.theguardian.com/business/2025/jan/29/trump-tariffs-car-markets-europe-us-china-ev-tesla)
+- [Ban on XL bully dogs a ‘huge burden on policing’, force chiefs warn](https://www.theguardian.com/lifeandstyle/2025/jan/28/ban-on-xl-bully-dogs-a-huge-burden-on-policing-force-chiefs-warn)
+- [Fighting between DRC army and M23 rebels rages in eastern city of Goma](https://www.theguardian.com/world/2025/jan/28/drc-democratic-republic-of-congo-army-m23-rebels-fighting-goma)
+- [Trump signs executive order to curtail gender transition for people under 19](https://www.theguardian.com/us-news/2025/jan/28/trump-executive-order-transgender-transition)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

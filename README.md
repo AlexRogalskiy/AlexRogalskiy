@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Humanity&#39;s Last Exam](https://lastexam.ai/)
-- [Georgi Gerganov on X: &quot;x2 speed for WASM by optimizing SIMD&quot; / X](https://twitter.com/ggerganov/status/1883888097185927311)
-- [What If the Attention Crisis Is All a Distraction?](https://www.newyorker.com/magazine/2025/01/27/the-sirens-call-chris-hayes-book-review)
-- [Google Maps Plans to Handle the &#39;Gulf of America&#39;](https://www.nytimes.com/2025/01/27/technology/google-maps-gulf-of-america-trump.html)
-- [Why DeepSeek&#39;s new AI model thinks it&#39;s ChatGPT](https://techcrunch.com/2024/12/27/why-deepseeks-new-ai-model-thinks-its-chatgpt/)
-- [The LLM code editor with DeepSeek-R1 support](https://github.com/soheil/tron)
-- [The Mechanization of Meaning: Claude Shannon and Generative AI](https://www.newcartographies.com/p/the-mechanization-of-meaning)
-- [Bounties: Pluto](https://github.com/pluto/.github/blob/main/profile/CONTRIBUTING.md)
-- [Lumorphix Processor IP](https://brisbanesilicon.com.au/products/lumorphix/)
-- [React Is Holding Me Hostage &lpar;2023&rpar;](https://emnudge.dev/blog/react-hostage/)
+- [Ask HN: How are analytics API on public web pages secured?](https://news.ycombinator.com/item?id=42860806)
+- [Show HN: Zero-shot foundation model for instant market trend prediction](https://news.ycombinator.com/item?id=42860804)
+- [Can the host header in HTTP be changed at the application layer?](https://github.com/anderspitman/awesome-tunneling/issues/180)
+- [Alibaba&#39;s Qwen2.5 beats DeepSeek in benchmarks](https://chat.qwenlm.ai/)
+- [$6k to run full DeepSeek R1 LLM with reasoning at home](https://twitter.com/carrigmat/status/1884244369907278106)
+- [Raspberry Pi 5 16GB Running Well for Larger Workloads, More Multi-Tasking](https://www.phoronix.com/review/raspberry-pi-5-16gb)
+- [Apple and SpaceX Link Up to Support Starlink Satellite Network on iPhones](https://www.bloomberg.com/news/articles/2025-01-29/apple-and-spacex-link-up-to-support-starlink-satellite-network-on-iphones)
+- [Trump administration offering buyouts to nearly all federal workers](https://www.cnbc.com/2025/01/28/trump-buyouts-federal-workers.html)
+- [Trump offering federal workers buyouts with about 8 months&#39; pay](https://apnews.com/article/trump-buyouts-to-all-federal-employees-f67f5751a0fd5ad8471806a5a1067b5e)
+- [Jekyll 4.4.0 Released](https://jekyllrb.com/news/2025/01/27/jekyll-4-4-0-released/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

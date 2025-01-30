@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [It&#39;s official: Research has found that libraries make everything better](https://lithub.com/its-official-research-has-found-that-libraries-make-everything-better/)
-- [Discovery Coding](https://jimmyhmiller.github.io/discovery-coding)
-- [Goodbye, Slopify](https://alexeystar.com/blog/slopify/)
-- [The Americans Pledging to Buy Less–Or Even Nothing](https://www.wsj.com/personal-finance/the-americans-pledging-to-buy-lessor-even-nothing-7edeacf3)
-- [Job trends of HN Who Is Hiring?](https://hnhiring.com/trends)
-- [DeepSeek&#39;s multi-head latent attention and other KV cache tricks](https://www.pyspur.dev/blog/multi-head-latent-attention-kv-cache-paper-list)
-- [Slicing the Fourth](https://axalatar.github.io/slicing-the-fourth/)
-- [SciPhi &lpar;YC W24&rpar; Is Hiring](https://www.ycombinator.com/companies/sciphi/jobs/CVYWWpl-founding-ai-research-engineer)
-- [Can we get the benefits of transitive dependencies without undermining security?](https://tratt.net/laurie/blog/2024/can_we_retain_the_benefits_of_transitive_dependencies_without_undermining_security.html)
-- [Parkinsons patient &quot;feels cured&quot; with new adaptive deep brain stimulation device](https://www.bbc.com/news/articles/ckgn49r069wo)
+- [Anthropic&#39;s CEO says DeepSeek shows US export rules are working](https://techcrunch.com/2025/01/29/anthropics-ceo-says-deepseek-shows-that-u-s-export-rules-are-working-as-intended/)
+- [Younger cannabis users have reduced brain function, finds largest study yet](https://newatlas.com/brain/young-adult-cannabis-brain-function/)
+- [Etleap &lpar;YC W13&rpar; Is Hiring a Senior Software Engineer &lpar;SF&rpar;](https://news.ycombinator.com/item?id=42873532)
+- [Classic Duck Hunt Game Made in JavaScript and Kaplay](https://jslegend.itch.io/duck-hunter)
+- [Mathesar – an intutive spreadsheet-like interface to Postgres data](https://github.com/mathesar-foundation/mathesar)
+- [Blueskyfeedbot: Post RSS Feeds to Bluesky via GitHub Actions](https://github.com/marketplace/actions/feed-to-bluesky)
+- [Advice for a friend who wants to start a blog](https://www.henrikkarlsson.xyz/p/start-a-blog)
+- [An update on Dart macros and data serialization](https://medium.com/dartlang/an-update-on-dart-macros-data-serialization-06d3037d4f12)
+- [From C++ to Clojure: Jank language promises best of both](https://thenewstack.io/from-c-to-clojure-new-language-promises-best-of-both/)
+- [Exposed DeepSeek database leaking sensitive information, including chat history](https://www.wiz.io/blog/wiz-research-uncovers-exposed-deepseek-database-leak)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

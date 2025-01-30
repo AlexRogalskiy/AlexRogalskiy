@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ask HN: How are analytics API on public web pages secured?](https://news.ycombinator.com/item?id=42860806)
-- [Show HN: Zero-shot foundation model for instant market trend prediction](https://news.ycombinator.com/item?id=42860804)
-- [Can the host header in HTTP be changed at the application layer?](https://github.com/anderspitman/awesome-tunneling/issues/180)
-- [Alibaba&#39;s Qwen2.5 beats DeepSeek in benchmarks](https://chat.qwenlm.ai/)
-- [$6k to run full DeepSeek R1 LLM with reasoning at home](https://twitter.com/carrigmat/status/1884244369907278106)
-- [Raspberry Pi 5 16GB Running Well for Larger Workloads, More Multi-Tasking](https://www.phoronix.com/review/raspberry-pi-5-16gb)
-- [Apple and SpaceX Link Up to Support Starlink Satellite Network on iPhones](https://www.bloomberg.com/news/articles/2025-01-29/apple-and-spacex-link-up-to-support-starlink-satellite-network-on-iphones)
-- [Trump administration offering buyouts to nearly all federal workers](https://www.cnbc.com/2025/01/28/trump-buyouts-federal-workers.html)
-- [Trump offering federal workers buyouts with about 8 months&#39; pay](https://apnews.com/article/trump-buyouts-to-all-federal-employees-f67f5751a0fd5ad8471806a5a1067b5e)
-- [Jekyll 4.4.0 Released](https://jekyllrb.com/news/2025/01/27/jekyll-4-4-0-released/)
+- [SQL Server Native Vector Search for .NET Developers](https://devblogs.microsoft.com/azure-sql/sql-server-native-vector-search-for-net-developers/)
+- [The Gentle Romance](https://www.lesswrong.com/posts/Rz4ijbeKgPAaedg3n/the-gentle-romance)
+- [Why traditional product analytics are simply not working for LLM apps](https://medium.com/feedback-intelligence/why-traditional-product-analytics-are-simply-not-working-for-llm-applications-247ae0f907d8)
+- [Grafana 11.5 Now GA [video]](https://www.youtube.com/watch?v=RGiktzfhRd0)
+- [Brexit&#39;s Bold Promises vs. the Harsh Reality](https://www.youtube.com/watch?v=VPRaz-5nhX0)
+- [Ask HN: Which recommended registered agent to setup LLC as a non US?](https://news.ycombinator.com/item?id=42873985)
+- [Multi-Agent Step Race Benchmark [video]](https://www.youtube.com/watch?v=AnPKfrIPAgQ)
+- [Tesla &lpar;TSLA&rpar; releases Q4 2024 results: big miss on revenue and earnings](https://electrek.co/2025/01/29/tesla-tsla-releases-q4-2024-results-big-miss-leads-to-share-dropping/)
+- [AI Voice Agent Update – 2025](https://gamma.app/docs/a16z-AI-Voice-Update-2025--ttkorld8iy6wfnj)
+- [Small antibody offers broad protection against influenza](https://medicalxpress.com/news/2025-01-small-antibody-broad-influenza.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

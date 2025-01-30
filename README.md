@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [India crowd crushes: dozens feared dead at Kumbh Mela religious festival – latest updates](https://www.theguardian.com/world/live/2025/jan/29/india-crowd-crush-kumbh-mela-religious-festival-live-blog-injuries-prayagraj)
-- [Trump invites Netanyahu to be first foreign leader to visit White House](https://www.theguardian.com/us-news/2025/jan/28/trump-netanyahu-white-house-visit)
-- [Ukraine war briefing: Putin refuses direct talks with Zelenskyy](https://www.theguardian.com/world/2025/jan/29/ukraine-war-briefing-putin-refuses-direct-talks-with-zelenskyy)
-- [Australia are out to psychologically bury England in Women’s Ashes Test | Beth Mooney](https://www.theguardian.com/sport/2025/jan/29/australia-are-out-to-psychologically-bury-england-in-womens-ashes-test)
-- [UN aid agencies cut back operations after Trump’s 90-day funding suspension](https://www.theguardian.com/world/2025/jan/28/un-aid-cuts-trump-funding)
-- [Threat of cyber-attacks on Whitehall ‘is severe and advancing quickly’, NAO says](https://www.theguardian.com/technology/2025/jan/29/cyber-attack-threat-uk-government-departments-whitehall-nao)
-- [How Trump tariffs could upend car markets in Europe, the US and China](https://www.theguardian.com/business/2025/jan/29/trump-tariffs-car-markets-europe-us-china-ev-tesla)
-- [Ban on XL bully dogs a ‘huge burden on policing’, force chiefs warn](https://www.theguardian.com/lifeandstyle/2025/jan/28/ban-on-xl-bully-dogs-a-huge-burden-on-policing-force-chiefs-warn)
-- [Fighting between DRC army and M23 rebels rages in eastern city of Goma](https://www.theguardian.com/world/2025/jan/28/drc-democratic-republic-of-congo-army-m23-rebels-fighting-goma)
-- [Trump signs executive order to curtail gender transition for people under 19](https://www.theguardian.com/us-news/2025/jan/28/trump-executive-order-transgender-transition)
+- [Guantánamo Bay: the US prison camp in Cuba Trump is eyeing for illegal migrants](https://www.theguardian.com/us-news/2025/jan/30/donald-trump-guantanamo-bay-cuban-detention-camp-illegal-migrants)
+- [Ukraine war briefing: Hitler wanted to kill me – don’t let Putin, says Ukrainian Holocaust survivor](https://www.theguardian.com/world/2025/jan/30/ukraine-war-briefing-hitler-wanted-to-kill-me-dont-let-putin-says-ukrainian-holocaust-survivor)
+- [Some children starting school ‘unable to climb staircase’, finds England and Wales teacher survey](https://www.theguardian.com/education/2025/jan/30/some-children-starting-school-unable-to-climb-staircase-finds-england-and-wales-teacher-survey)
+- [Almost one in eight Britons now has private medical insurance, say healthcare analysts](https://www.theguardian.com/society/2025/jan/30/almost-one-in-eight-britons-now-has-private-medical-insurance-say-healthcare-analysts)
+- [UK car production falls to lowest level since 1954](https://www.theguardian.com/business/2025/jan/30/uk-car-production-falls-to-lowest-level-since-1954)
+- [I am a midwife in a NSW hospital. This is what an ordinary day looks like | Oceane Campbell](https://www.theguardian.com/commentisfree/2025/jan/30/i-am-a-midwife-in-a-nsw-hospital-this-is-what-an-ordinary-day-looks-like)
+- [Green sea turtles cold-stunned by Florida snow recover at marine center](https://www.theguardian.com/us-news/2025/jan/29/green-sea-turtles-cold-stunned-florida-snowfall)
+- [Victims of deadly Hawaii wildfire agree deal over how to split $4bn payout](https://www.theguardian.com/us-news/2025/jan/29/hawaii-wildfires-settlement)
+- [Coca-Cola and Appletiser cans recalled in UK due to elevated chlorate levels](https://www.theguardian.com/business/2025/jan/29/coca-cola-and-appletiser-cans-recalled-in-uk-due-to-elevated-chlorate-levels)
+- [White House rescinds spending freeze on federal loans and grants](https://www.theguardian.com/us-news/2025/jan/29/trump-federal-funding-freeze)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

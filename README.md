@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Guantánamo Bay: the US prison camp in Cuba Trump is eyeing for illegal migrants](https://www.theguardian.com/us-news/2025/jan/30/donald-trump-guantanamo-bay-cuban-detention-camp-illegal-migrants)
-- [Ukraine war briefing: Hitler wanted to kill me – don’t let Putin, says Ukrainian Holocaust survivor](https://www.theguardian.com/world/2025/jan/30/ukraine-war-briefing-hitler-wanted-to-kill-me-dont-let-putin-says-ukrainian-holocaust-survivor)
-- [Some children starting school ‘unable to climb staircase’, finds England and Wales teacher survey](https://www.theguardian.com/education/2025/jan/30/some-children-starting-school-unable-to-climb-staircase-finds-england-and-wales-teacher-survey)
-- [Almost one in eight Britons now has private medical insurance, say healthcare analysts](https://www.theguardian.com/society/2025/jan/30/almost-one-in-eight-britons-now-has-private-medical-insurance-say-healthcare-analysts)
-- [UK car production falls to lowest level since 1954](https://www.theguardian.com/business/2025/jan/30/uk-car-production-falls-to-lowest-level-since-1954)
-- [I am a midwife in a NSW hospital. This is what an ordinary day looks like | Oceane Campbell](https://www.theguardian.com/commentisfree/2025/jan/30/i-am-a-midwife-in-a-nsw-hospital-this-is-what-an-ordinary-day-looks-like)
-- [Green sea turtles cold-stunned by Florida snow recover at marine center](https://www.theguardian.com/us-news/2025/jan/29/green-sea-turtles-cold-stunned-florida-snowfall)
-- [Victims of deadly Hawaii wildfire agree deal over how to split $4bn payout](https://www.theguardian.com/us-news/2025/jan/29/hawaii-wildfires-settlement)
-- [Coca-Cola and Appletiser cans recalled in UK due to elevated chlorate levels](https://www.theguardian.com/business/2025/jan/29/coca-cola-and-appletiser-cans-recalled-in-uk-due-to-elevated-chlorate-levels)
-- [White House rescinds spending freeze on federal loans and grants](https://www.theguardian.com/us-news/2025/jan/29/trump-federal-funding-freeze)
+- [At least five senior FBI leaders reportedly demoted or moved as Trump’s nominee is grilled by senators – live](https://www.theguardian.com/us-news/live/2025/jan/30/donald-trump-guantanamo-bay-rfk-jr-tulsi-gabbard-fbi-kash-patel-us-politics-latest-news)
+- [Washington DC plane crash live: flight data and cockpit voice recorders recovered, officials say](https://www.theguardian.com/us-news/live/2025/jan/31/washington-dc-plane-crash-live-flight-data-and-cockpit-voice-recorders-recovered-officials-say)
+- [Four years after the coup, chaos reigns as Myanmar’s military struggles](https://www.theguardian.com/global-development/2025/jan/31/myanmar-military-coup-anniversary)
+- [US court rules banning gun sales to young adults under 21 unconstitutional](https://www.theguardian.com/us-news/2025/jan/30/guns-sales-second-amendment-ruling)
+- [Ukraine war briefing: elderly couples among nine killed in Russian drone attack](https://www.theguardian.com/world/2025/jan/31/ukraine-war-briefing-elderly-couples-among-nine-killed-in-russian-drone-attack)
+- [US regulators approve new non-opioid drug to treat acute pain](https://www.theguardian.com/us-news/2025/jan/30/us-regulators-fda-vertex-painkiller)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2025/jan/31/premier-league-10-things-to-look-out-for-this-weekend)
+- [‘Epidemic’ of violence against women and girls in UK is getting worse – report](https://www.theguardian.com/society/2025/jan/31/violence-against-women-girls-epidemic-uk)
+- [Scissorhandz review – musical reanimates Burton classic with cuts from Radiohead and Aerosmith](https://www.theguardian.com/stage/2025/jan/30/scissorhandz-review-southwark-playhouse-elephant)
+- [Police charge man allegedly behind famous ‘Pam the Bird’ graffiti on Melbourne landmarks](https://www.theguardian.com/australia-news/2025/jan/31/pam-the-bird-graffiti-melbourne-flinders-street-man-charged-ntwnfb)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

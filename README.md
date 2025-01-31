@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [SQL Server Native Vector Search for .NET Developers](https://devblogs.microsoft.com/azure-sql/sql-server-native-vector-search-for-net-developers/)
-- [The Gentle Romance](https://www.lesswrong.com/posts/Rz4ijbeKgPAaedg3n/the-gentle-romance)
-- [Why traditional product analytics are simply not working for LLM apps](https://medium.com/feedback-intelligence/why-traditional-product-analytics-are-simply-not-working-for-llm-applications-247ae0f907d8)
-- [Grafana 11.5 Now GA [video]](https://www.youtube.com/watch?v=RGiktzfhRd0)
-- [Brexit&#39;s Bold Promises vs. the Harsh Reality](https://www.youtube.com/watch?v=VPRaz-5nhX0)
-- [Ask HN: Which recommended registered agent to setup LLC as a non US?](https://news.ycombinator.com/item?id=42873985)
-- [Multi-Agent Step Race Benchmark [video]](https://www.youtube.com/watch?v=AnPKfrIPAgQ)
-- [Tesla &lpar;TSLA&rpar; releases Q4 2024 results: big miss on revenue and earnings](https://electrek.co/2025/01/29/tesla-tsla-releases-q4-2024-results-big-miss-leads-to-share-dropping/)
-- [AI Voice Agent Update – 2025](https://gamma.app/docs/a16z-AI-Voice-Update-2025--ttkorld8iy6wfnj)
-- [Small antibody offers broad protection against influenza](https://medicalxpress.com/news/2025-01-small-antibody-broad-influenza.html)
+- [A Secure AI App Store [video]](https://www.youtube.com/watch?v=TFXPfy7sWG8)
+- [A look at the recent rsync vulnerability](https://lwn.net/Articles/1005302/)
+- [Meridian: Marketing mix modeling framework to run in-house models](https://github.com/google/meridian)
+- [The future of humanity is in management](https://newsletter.rootsofprogress.org/p/the-future-of-humanity-is-in-management)
+- [Cryptocurrency doesn&#39;t address the hard parts of financial inclusion &lpar;2022&rpar;](https://www.wave.com/en/blog/crypto/index.html)
+- [Kube Resource Orchestrator, or Kro](https://cloud.google.com/blog/products/containers-kubernetes/introducing-kube-resource-orchestrator)
+- [Quantum computer built on server racks paves the way to bigger machines](https://www.technologyreview.com/2025/01/30/1110672/this-quantum-computer-built-on-server-racks-paves-the-way-to-bigger-machines/)
+- [Google blocked 2.36M risky Android apps from Play Store in 2024](https://www.bleepingcomputer.com/news/security/google-blocked-236-million-risky-android-apps-from-play-store-in-2024/)
+- [Unsplash Now Accepts Illustrations](https://unsplash.com/blog/unsplash-now-accepts-illustrations/)
+- [SEO Specialist Explains What Went Wrong with ML and Google Search Results](https://old.reddit.com/r/NoStupidQuestions/comments/1icjjjh/i_feel_google_is_unusable_now_everything_is_so/m9scbka/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

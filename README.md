@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [At least five senior FBI leaders reportedly demoted or moved as Trump’s nominee is grilled by senators – live](https://www.theguardian.com/us-news/live/2025/jan/30/donald-trump-guantanamo-bay-rfk-jr-tulsi-gabbard-fbi-kash-patel-us-politics-latest-news)
-- [Washington DC plane crash live: flight data and cockpit voice recorders recovered, officials say](https://www.theguardian.com/us-news/live/2025/jan/31/washington-dc-plane-crash-live-flight-data-and-cockpit-voice-recorders-recovered-officials-say)
-- [Four years after the coup, chaos reigns as Myanmar’s military struggles](https://www.theguardian.com/global-development/2025/jan/31/myanmar-military-coup-anniversary)
-- [US court rules banning gun sales to young adults under 21 unconstitutional](https://www.theguardian.com/us-news/2025/jan/30/guns-sales-second-amendment-ruling)
-- [Ukraine war briefing: elderly couples among nine killed in Russian drone attack](https://www.theguardian.com/world/2025/jan/31/ukraine-war-briefing-elderly-couples-among-nine-killed-in-russian-drone-attack)
-- [US regulators approve new non-opioid drug to treat acute pain](https://www.theguardian.com/us-news/2025/jan/30/us-regulators-fda-vertex-painkiller)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2025/jan/31/premier-league-10-things-to-look-out-for-this-weekend)
-- [‘Epidemic’ of violence against women and girls in UK is getting worse – report](https://www.theguardian.com/society/2025/jan/31/violence-against-women-girls-epidemic-uk)
-- [Scissorhandz review – musical reanimates Burton classic with cuts from Radiohead and Aerosmith](https://www.theguardian.com/stage/2025/jan/30/scissorhandz-review-southwark-playhouse-elephant)
-- [Police charge man allegedly behind famous ‘Pam the Bird’ graffiti on Melbourne landmarks](https://www.theguardian.com/australia-news/2025/jan/31/pam-the-bird-graffiti-melbourne-flinders-street-man-charged-ntwnfb)
+- [Small plane crashes in Philadelphia and sets homes on fire](https://www.theguardian.com/us-news/2025/jan/31/philadelphia-plane-crash)
+- [Taiwan’s next generation takes on its fear of the deep](https://www.theguardian.com/world/2025/feb/01/taiwans-next-generation-takes-on-its-fear-of-the-deep)
+- [Italian investigative journalist targeted on WhatsApp by Israeli spyware](https://www.theguardian.com/technology/2025/jan/31/italian-journalist-whatsapp-israeli-spyware)
+- [Belgium to form government after seven months of negotiations](https://www.theguardian.com/world/2025/jan/31/belgium-to-form-government-after-seven-months-of-negotiations)
+- [Restaurant critic Giles Coren reveals he has prostate cancer](https://www.theguardian.com/media/2025/jan/31/restaurant-critic-giles-coren-55-reveals-he-has-prostate-cancer)
+- [Martin Ødegaard relishing ‘heat’ of battle with Manchester City](https://www.theguardian.com/football/2025/jan/31/martin-degaard-heat-of-battle-with-manchester-city-arsenal)
+- [Arne Slot credits Liverpool’s sporting director for emergence of Bournemouth](https://www.theguardian.com/football/2025/jan/31/arne-slot-credits-liverpool-sporting-director-richard-hughes-for-emergence-bournemouth)
+- [Marcus Smith needs more to work with from England than his own magic moments | Ugo Monye](https://www.theguardian.com/sport/2025/jan/31/marcus-smith-england-six-nations-rugby-union)
+- [Attissogbé gives France lift-off in Six Nations with rout of scoreless Wales](https://www.theguardian.com/sport/2025/jan/31/france-wales-six-nations-rugby-match-report)
+- [Trump to impose tariffs on imports from Canada, Mexico and China](https://www.theguardian.com/us-news/2025/jan/31/trump-tariffs-canada-mexico-china)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

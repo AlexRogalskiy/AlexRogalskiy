@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Show HN: Ahey – A simple pub-sub service built on top of web push](https://ahey.io)
-- [Svix &lpar;YC W21&rpar; Is Hiring a Developer Marketer &lpar;US Remote&rpar;](https://www.svix.com/careers/)
-- [Signs Of Life In A Desert](https://www.noemamag.com/signs-of-life-in-a-desert-of-death/)
-- [How Jane Street accidentally built a better build system for OCaml](https://blog.janestreet.com/how-we-accidentally-built-a-better-build-system-for-ocaml-index/)
-- [Optical Frequency Combs](https://www.nist.gov/topics/physics/optical-frequency-combs)
-- [Stats – macOS system monitor in your menu bar](https://github.com/exelban/stats)
-- [Show HN: Reactive Signals for Python – inspired by Angular&#39;s reactivity model](https://github.com/buiapp/reaktiv)
-- [California law enforcement misused state databases more than 7k times in 2023](https://www.eff.org/deeplinks/2025/01/california-police-misused-state-databases-more-7000-times-2023)
-- [Many of the Pokemon playtest cards were likely printed in 2024](https://www.elitefourum.com/t/many-of-the-pokemon-playtest-cards-were-likely-printed-in-2024/52421)
-- [Show HN: Iterm-Mcp – AI Terminal/REPL Control for iTerm2](https://github.com/ferrislucas/iterm-mcp)
+- [Decision to dump water from Tulare County lakes altered after confusing locals](https://sjvwater.org/decision-to-dump-water-from-tulare-county-lakes-altered-after-sending-locals-in-mad-scramble/)
+- [Show HN: Simple to build MCP servers that easily connect with custom LLM calls](https://mirascope.com/learn/mcp/server/)
+- [Falsehoods programmers believe about null pointers](https://purplesyringa.moe/blog/falsehoods-programmers-believe-about-null-pointers/)
+- [Notes on OpenAI O3-Mini](https://simonwillison.net/2025/Jan/31/o3-mini/)
+- [Earthstar – A database for private, distributed, offline-first applications](https://earthstar-project.org/)
+- [Sparrow, a Modern C++ Implementation of the Apache Arrow Columnar Format](https://johan-mabille.medium.com/sparrow-1f23817f6696)
+- [Scientists find links between Alzheimer&#39;s, herpes, and head trauma](https://www.statnews.com/2025/01/07/alzheimers-disease-research-link-between-herpes-virus-head-trauma-dementia/)
+- [Why Tracebit is written in C#](https://tracebit.com/blog/why-tracebit-is-written-in-c-sharp)
+- [Designing Great Watchdog Timers for Embedded Systems](https://www.ganssle.com/watchdogs.htm)
+- [Add &quot;fucking&quot; to your Google searches to neutralize AI summaries](https://gizmodo.com/add-fcking-to-your-google-searches-to-neutralize-ai-summaries-2000557710)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

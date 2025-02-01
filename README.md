@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [A Secure AI App Store [video]](https://www.youtube.com/watch?v=TFXPfy7sWG8)
-- [A look at the recent rsync vulnerability](https://lwn.net/Articles/1005302/)
-- [Meridian: Marketing mix modeling framework to run in-house models](https://github.com/google/meridian)
-- [The future of humanity is in management](https://newsletter.rootsofprogress.org/p/the-future-of-humanity-is-in-management)
-- [Cryptocurrency doesn&#39;t address the hard parts of financial inclusion &lpar;2022&rpar;](https://www.wave.com/en/blog/crypto/index.html)
-- [Kube Resource Orchestrator, or Kro](https://cloud.google.com/blog/products/containers-kubernetes/introducing-kube-resource-orchestrator)
-- [Quantum computer built on server racks paves the way to bigger machines](https://www.technologyreview.com/2025/01/30/1110672/this-quantum-computer-built-on-server-racks-paves-the-way-to-bigger-machines/)
-- [Google blocked 2.36M risky Android apps from Play Store in 2024](https://www.bleepingcomputer.com/news/security/google-blocked-236-million-risky-android-apps-from-play-store-in-2024/)
-- [Unsplash Now Accepts Illustrations](https://unsplash.com/blog/unsplash-now-accepts-illustrations/)
-- [SEO Specialist Explains What Went Wrong with ML and Google Search Results](https://old.reddit.com/r/NoStupidQuestions/comments/1icjjjh/i_feel_google_is_unusable_now_everything_is_so/m9scbka/)
+- [Does O3 beat a specalized numeric compiler?](https://pavpanchekha.com/blog/o3-herbie.html)
+- [Setting up a Linux writecache as a RAM disk](https://www.admin-magazine.com/HPC/Articles/Linux-Writecache)
+- [Running DeepSeek R1 Models Locally on NPU](https://blogs.windows.com/windowsdeveloper/2025/01/29/running-distilled-deepseek-r1-models-locally-on-copilot-pcs-powered-by-windows-copilot-runtime/)
+- [DeepSeek Is Raising Investor Concerns About VC Funding for AI](http://www.thelowdownblog.com/2025/01/deepseek-is-raising-investor-concerns.html)
+- [DeepSeek Debates: Chinese Leadership on Cost, True Training Cost](https://semianalysis.com/2025/01/31/deepseek-debates/)
+- [CERN scheme will pay publishers more if they hit open-science targets](https://www.nature.com/articles/d41586-025-00183-3)
+- [Evaluating Code Embedding Models](https://blog.voyageai.com/2024/12/04/code-retrieval-eval/)
+- [The Local-Global Principle of Lovingkindness](https://mebassett.info/local-global-lovingkindness)
+- [Why big tech turned right](https://www.vox.com/politics/397525/trump-big-tech-musk-bezos-zuckerberg-democrats-biden)
+- [Inside the $32B industry transforming marijuana](https://www.nytimes.com/2025/01/25/us/marijuana-thc-health-claims-potency.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

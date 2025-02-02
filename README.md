@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Small plane crashes in Philadelphia and sets homes on fire](https://www.theguardian.com/us-news/2025/jan/31/philadelphia-plane-crash)
-- [Taiwan’s next generation takes on its fear of the deep](https://www.theguardian.com/world/2025/feb/01/taiwans-next-generation-takes-on-its-fear-of-the-deep)
-- [Italian investigative journalist targeted on WhatsApp by Israeli spyware](https://www.theguardian.com/technology/2025/jan/31/italian-journalist-whatsapp-israeli-spyware)
-- [Belgium to form government after seven months of negotiations](https://www.theguardian.com/world/2025/jan/31/belgium-to-form-government-after-seven-months-of-negotiations)
-- [Restaurant critic Giles Coren reveals he has prostate cancer](https://www.theguardian.com/media/2025/jan/31/restaurant-critic-giles-coren-55-reveals-he-has-prostate-cancer)
-- [Martin Ødegaard relishing ‘heat’ of battle with Manchester City](https://www.theguardian.com/football/2025/jan/31/martin-degaard-heat-of-battle-with-manchester-city-arsenal)
-- [Arne Slot credits Liverpool’s sporting director for emergence of Bournemouth](https://www.theguardian.com/football/2025/jan/31/arne-slot-credits-liverpool-sporting-director-richard-hughes-for-emergence-bournemouth)
-- [Marcus Smith needs more to work with from England than his own magic moments | Ugo Monye](https://www.theguardian.com/sport/2025/jan/31/marcus-smith-england-six-nations-rugby-union)
-- [Attissogbé gives France lift-off in Six Nations with rout of scoreless Wales](https://www.theguardian.com/sport/2025/jan/31/france-wales-six-nations-rugby-match-report)
-- [Trump to impose tariffs on imports from Canada, Mexico and China](https://www.theguardian.com/us-news/2025/jan/31/trump-tariffs-canada-mexico-china)
+- [Ukraine war briefing: Russian barrage hits Ukrainian residential and energy sites, killing at least 15](https://www.theguardian.com/world/2025/feb/02/ukraine-war-briefing-russian-barrage-hits-ukrainian-residential-and-energy-sites-killing-at-least-15)
+- [Ukraine blames Russia for fatal missile strike on Kursk school](https://www.theguardian.com/world/2025/feb/02/fatal-missile-strike-on-kursk-school-blamed-on-russia-by-ukraine)
+- [The edit: 15 of the best kitten heel boots](https://www.theguardian.com/fashion/gallery/2025/feb/01/the-edit-15-of-the-best-kitten-heel-boots)
+- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2025/feb/01/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Trump signs order authorizing tariffs on goods from Canada, Mexico and China](https://www.theguardian.com/us-news/2025/feb/01/trump-tariffs-canada-mexico-china)
+- [Spurs close on Danso while Dortmund eye loan for Chelsea’s Chukwuemeka](https://www.theguardian.com/football/2025/feb/01/borussia-dortmund-chelsea-carney-chukwuemeka-loan)
+- [Cunha signs new Wolves deal after sealing victory over Aston Villa](https://www.theguardian.com/football/2025/feb/01/wolves-aston-villa-premier-league-match-report)
+- [At least 770 killed in Goma, east DRC, in fighting with Rwanda-backed M23](https://www.theguardian.com/world/2025/feb/01/at-least-770-killed-in-goma-east-drc-in-fighting-with-rwanda-backed-m23)
+- [Two arrested after two children killed in Basildon car collision](https://www.theguardian.com/uk-news/2025/feb/01/two-arrested-after-two-children-killed-in-basildon-car-collision)
+- [Marcus Rashford due for Aston Villa medical to seal Manchester United loan](https://www.theguardian.com/football/2025/feb/01/aston-villa-marcus-rashford-manchester-united-loan)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

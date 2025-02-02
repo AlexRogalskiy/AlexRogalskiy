@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Does O3 beat a specalized numeric compiler?](https://pavpanchekha.com/blog/o3-herbie.html)
-- [Setting up a Linux writecache as a RAM disk](https://www.admin-magazine.com/HPC/Articles/Linux-Writecache)
-- [Running DeepSeek R1 Models Locally on NPU](https://blogs.windows.com/windowsdeveloper/2025/01/29/running-distilled-deepseek-r1-models-locally-on-copilot-pcs-powered-by-windows-copilot-runtime/)
-- [DeepSeek Is Raising Investor Concerns About VC Funding for AI](http://www.thelowdownblog.com/2025/01/deepseek-is-raising-investor-concerns.html)
-- [DeepSeek Debates: Chinese Leadership on Cost, True Training Cost](https://semianalysis.com/2025/01/31/deepseek-debates/)
-- [CERN scheme will pay publishers more if they hit open-science targets](https://www.nature.com/articles/d41586-025-00183-3)
-- [Evaluating Code Embedding Models](https://blog.voyageai.com/2024/12/04/code-retrieval-eval/)
-- [The Local-Global Principle of Lovingkindness](https://mebassett.info/local-global-lovingkindness)
-- [Why big tech turned right](https://www.vox.com/politics/397525/trump-big-tech-musk-bezos-zuckerberg-democrats-biden)
-- [Inside the $32B industry transforming marijuana](https://www.nytimes.com/2025/01/25/us/marijuana-thc-health-claims-potency.html)
+- [USDA inspector general escorted out of her office after defying White House](https://www.reuters.com/world/us/usda-inspector-general-escorted-out-her-office-after-defying-white-house-2025-01-29/)
+- [GitOps Secrets Management](https://infisical.com/blog/gitops-secrets-management)
+- [Impact of the DeepSeek Moment on Inference Compute with Benchmarks](https://www.d-matrix.ai/impact-of-the-deepseek-moment-on-inference-compute/)
+- [Forever Fresh: How we keep food alive [audio]](https://radiolab.org/podcast/forever-fresh)
+- [The anti-aircraft shell that won WWII [video]](https://www.youtube.com/watch?v=VGZT5cuCdrA)
+- [Tools for 2025](http://yosemitesam.ch/3-tools-for-2025/)
+- [The Surprising Ingenuity Behind &quot;Goodnight Moon&quot; &lpar;2017&rpar;](https://www.smithsonianmag.com/history/surprising-ingenuity-behind-goodnight-moon-180961923/)
+- [Welcome Back to C++&lpar;2022&rpar;](https://learn.microsoft.com/en-us/cpp/cpp/welcome-back-to-cpp-modern-cpp?view=msvc-170)
+- [Wine Merge Request Opened for Ntsync In-Process Synchronization with Linux 6.14](https://www.phoronix.com/news/Wine-NTSYNC-Merge-Request)
+- [Pipeline to analyze Norwegian criminal justice data](https://github.com/Lighthouse-Reports/norwegian_criminal_justice)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

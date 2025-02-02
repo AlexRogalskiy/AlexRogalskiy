@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Decision to dump water from Tulare County lakes altered after confusing locals](https://sjvwater.org/decision-to-dump-water-from-tulare-county-lakes-altered-after-sending-locals-in-mad-scramble/)
-- [Show HN: Simple to build MCP servers that easily connect with custom LLM calls](https://mirascope.com/learn/mcp/server/)
-- [Falsehoods programmers believe about null pointers](https://purplesyringa.moe/blog/falsehoods-programmers-believe-about-null-pointers/)
-- [Notes on OpenAI O3-Mini](https://simonwillison.net/2025/Jan/31/o3-mini/)
-- [Earthstar – A database for private, distributed, offline-first applications](https://earthstar-project.org/)
-- [Sparrow, a Modern C++ Implementation of the Apache Arrow Columnar Format](https://johan-mabille.medium.com/sparrow-1f23817f6696)
-- [Scientists find links between Alzheimer&#39;s, herpes, and head trauma](https://www.statnews.com/2025/01/07/alzheimers-disease-research-link-between-herpes-virus-head-trauma-dementia/)
-- [Why Tracebit is written in C#](https://tracebit.com/blog/why-tracebit-is-written-in-c-sharp)
-- [Designing Great Watchdog Timers for Embedded Systems](https://www.ganssle.com/watchdogs.htm)
-- [Add &quot;fucking&quot; to your Google searches to neutralize AI summaries](https://gizmodo.com/add-fcking-to-your-google-searches-to-neutralize-ai-summaries-2000557710)
+- [USDA inspector general escorted out of her office after defying White House](https://www.reuters.com/world/us/usda-inspector-general-escorted-out-her-office-after-defying-white-house-2025-01-29/)
+- [Researchers just discovered a new class of life living inside humans](https://bgr.com/science/researchers-just-discovered-an-entirely-new-class-of-life-living-inside-humans/)
+- [How to Run DeepSeek R1 Distilled Reasoning Models on RyzenAI and Radeon GPUs](https://www.guru3d.com/story/amd-explains-how-to-run-deepseek-r1-distilled-reasoning-models-on-amd-ryzen-ai-and-radeon/)
+- [Avoid ISP Routers &lpar;2024&rpar;](https://routersecurity.org/ISProuters.php)
+- [RLHF Book](https://rlhfbook.com/)
+- [Macrodata Refinement](https://lumon-industries.com/)
+- [New thermogalvanic tech paves way for more efficient fridges](https://cosmosmagazine.com/science/chemistry/improved-fridge-technology/)
+- [A bookmarklet to kill sticky headers &lpar;2013&rpar;](https://alisdair.mcdiarmid.org/kill-sticky-headers/)
+- [MindsDB &lpar;YC W20&rpar; Is Hiring an Office Manager in SF](https://grnh.se/83c3fffa7us)
+- [Python 3, Pygame, and Debian Bookworm on the Miyoo A30](https://www.jtolio.com/2025/02/py3-pygame-miyoo-a30/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

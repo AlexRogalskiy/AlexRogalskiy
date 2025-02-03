@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [USDA inspector general escorted out of her office after defying White House](https://www.reuters.com/world/us/usda-inspector-general-escorted-out-her-office-after-defying-white-house-2025-01-29/)
-- [GitOps Secrets Management](https://infisical.com/blog/gitops-secrets-management)
-- [Impact of the DeepSeek Moment on Inference Compute with Benchmarks](https://www.d-matrix.ai/impact-of-the-deepseek-moment-on-inference-compute/)
-- [Forever Fresh: How we keep food alive [audio]](https://radiolab.org/podcast/forever-fresh)
-- [The anti-aircraft shell that won WWII [video]](https://www.youtube.com/watch?v=VGZT5cuCdrA)
-- [Tools for 2025](http://yosemitesam.ch/3-tools-for-2025/)
-- [The Surprising Ingenuity Behind &quot;Goodnight Moon&quot; &lpar;2017&rpar;](https://www.smithsonianmag.com/history/surprising-ingenuity-behind-goodnight-moon-180961923/)
-- [Welcome Back to C++&lpar;2022&rpar;](https://learn.microsoft.com/en-us/cpp/cpp/welcome-back-to-cpp-modern-cpp?view=msvc-170)
-- [Wine Merge Request Opened for Ntsync In-Process Synchronization with Linux 6.14](https://www.phoronix.com/news/Wine-NTSYNC-Merge-Request)
-- [Pipeline to analyze Norwegian criminal justice data](https://github.com/Lighthouse-Reports/norwegian_criminal_justice)
+- [Android Binder](https://elinux.org/Android_Binder)
+- [Tote: Rewriting Playground](https://100r.co/site/tote.html)
+- [Musk Says DOGE Halting Treasury Payments to US Contractors](https://www.bloomberg.com/news/articles/2025-02-02/musk-says-doge-is-rapidly-shutting-down-treasury-payments)
+- [Digital Coffee Journal](https://brewlog.coffee/)
+- [I Use AI: Early 2025](https://benjamincongdon.me/blog/2025/02/02/How-I-Use-AI-Early-2025/)
+- [Hwllo](https://news.ycombinator.com/item?id=42914223)
+- [The Silent Death of Code Artistry: How AI Is Erasing the Soul of Programming](https://medium.com/mr-plan-publication/the-silent-death-of-code-artistry-how-ai-is-erasing-the-soul-of-programming-9b45007a3142)
+- [How Apple Vision Pro is finding a home in healthcare](https://www.fastcompany.com/91269127/apple-vision-pro-healthcare)
+- [Making System Calls in Rust: Requesting Services from the Kernel](https://www.kaishira.com/2025/01/30/making-system-calls-in-rust-requesting-services-from-the-kernel/)
+- [Designing Your Data: The Bread and Butter of APL Performance by Aaron Hsu [video]](https://www.youtube.com/watch?v=ozlxUmdYsHA)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

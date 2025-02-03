@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine war briefing: Russian barrage hits Ukrainian residential and energy sites, killing at least 15](https://www.theguardian.com/world/2025/feb/02/ukraine-war-briefing-russian-barrage-hits-ukrainian-residential-and-energy-sites-killing-at-least-15)
-- [Ukraine blames Russia for fatal missile strike on Kursk school](https://www.theguardian.com/world/2025/feb/02/fatal-missile-strike-on-kursk-school-blamed-on-russia-by-ukraine)
-- [The edit: 15 of the best kitten heel boots](https://www.theguardian.com/fashion/gallery/2025/feb/01/the-edit-15-of-the-best-kitten-heel-boots)
-- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2025/feb/01/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Trump signs order authorizing tariffs on goods from Canada, Mexico and China](https://www.theguardian.com/us-news/2025/feb/01/trump-tariffs-canada-mexico-china)
-- [Spurs close on Danso while Dortmund eye loan for Chelsea’s Chukwuemeka](https://www.theguardian.com/football/2025/feb/01/borussia-dortmund-chelsea-carney-chukwuemeka-loan)
-- [Cunha signs new Wolves deal after sealing victory over Aston Villa](https://www.theguardian.com/football/2025/feb/01/wolves-aston-villa-premier-league-match-report)
-- [At least 770 killed in Goma, east DRC, in fighting with Rwanda-backed M23](https://www.theguardian.com/world/2025/feb/01/at-least-770-killed-in-goma-east-drc-in-fighting-with-rwanda-backed-m23)
-- [Two arrested after two children killed in Basildon car collision](https://www.theguardian.com/uk-news/2025/feb/01/two-arrested-after-two-children-killed-in-basildon-car-collision)
-- [Marcus Rashford due for Aston Villa medical to seal Manchester United loan](https://www.theguardian.com/football/2025/feb/01/aston-villa-marcus-rashford-manchester-united-loan)
+- [Grammys 2025: the winners, the losers, the performances – live](https://www.theguardian.com/music/live/2025/feb/02/grammy-awards-2025-winners-losers-latest)
+- [Ukraine war briefing: Ukraine dismisses Trump envoy suggestion that both sides will make concessions](https://www.theguardian.com/world/2025/feb/03/ukraine-war-briefing-ukraine-dismisses-trump-envoy-suggestion-that-both-sides-will-make-concessions)
+- [Heatwave warning as ‘intensely hot’ weather continues in south-eastern Australia](https://www.theguardian.com/environment/2025/feb/03/intensely-hot-weather-to-continue-in-south-eastern-australia)
+- [Sir Julius Chan appreciation: death of last of PNG’s founding fathers marks end of era](https://www.theguardian.com/world/2025/feb/03/sir-julius-chan-death-former-png-prime-minister-tribute)
+- [Trump tariffs spark retaliation from Mexico, China and Canada](https://www.theguardian.com/us-news/2025/feb/02/trump-tariffs-mexico-canada-china-retaliation)
+- [Most zero-hours workers ‘with same employer for more than a year’](https://www.theguardian.com/politics/2025/feb/03/most-zero-hours-workers-with-same-employer-for-more-than-a-year)
+- [Ofsted’s new school report card worse than old system, say headteachers](https://www.theguardian.com/education/2025/feb/03/ofsted-new-school-report-card-worse-than-old-system-say-headteachers)
+- [Nearly 1m children in UK at risk of poverty due to housing costs – report](https://www.theguardian.com/society/2025/feb/03/children-poverty-housing-costs-report-lha)
+- [Endangered frogs born at London zoo after rescue mission in Chile](https://www.theguardian.com/environment/2025/feb/03/darwins-frogs-endangered-species-born-london-zoo-chile)
+- [Rory McIlroy wins at ‘cathedral of golf’ Pebble Beach for 27th PGA Tour title](https://www.theguardian.com/sport/2025/feb/02/rory-mcilroy-wins-at-cathedral-of-golf-pebble-beach-for-27th-pga-tour-title)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

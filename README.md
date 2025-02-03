@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [USDA inspector general escorted out of her office after defying White House](https://www.reuters.com/world/us/usda-inspector-general-escorted-out-her-office-after-defying-white-house-2025-01-29/)
-- [Researchers just discovered a new class of life living inside humans](https://bgr.com/science/researchers-just-discovered-an-entirely-new-class-of-life-living-inside-humans/)
-- [How to Run DeepSeek R1 Distilled Reasoning Models on RyzenAI and Radeon GPUs](https://www.guru3d.com/story/amd-explains-how-to-run-deepseek-r1-distilled-reasoning-models-on-amd-ryzen-ai-and-radeon/)
-- [Avoid ISP Routers &lpar;2024&rpar;](https://routersecurity.org/ISProuters.php)
-- [RLHF Book](https://rlhfbook.com/)
-- [Macrodata Refinement](https://lumon-industries.com/)
-- [New thermogalvanic tech paves way for more efficient fridges](https://cosmosmagazine.com/science/chemistry/improved-fridge-technology/)
-- [A bookmarklet to kill sticky headers &lpar;2013&rpar;](https://alisdair.mcdiarmid.org/kill-sticky-headers/)
-- [MindsDB &lpar;YC W20&rpar; Is Hiring an Office Manager in SF](https://grnh.se/83c3fffa7us)
-- [Python 3, Pygame, and Debian Bookworm on the Miyoo A30](https://www.jtolio.com/2025/02/py3-pygame-miyoo-a30/)
+- [Vibe Coding](https://twitter.com/karpathy/status/1886192184808149383)
+- [Deep Research](https://openai.com/index/introducing-deep-research/)
+- [Autothrottle: Resource Management for SLO-Targeted Microservices](https://www.usenix.org/conference/nsdi24/presentation/wang-zibo)
+- [Tiny vanes glued to planes promise big savings for US Air Force](https://newatlas.com/military/ticky-little-vanes-bring-big-savings-us-air-force/)
+- [GarminDB](https://github.com/tcgoetz/GarminDB)
+- [F-strings for C++26 proposal [pdf]](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3412r0.pdf)
+- [Emergence of a second law of thermodynamics in isolated quantum systems](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.6.010309)
+- [Don&#39;t make fun of renowned author Dan Brown &lpar;2013&rpar;](https://onehundredpages.wordpress.com/2013/06/12/dont-make-fun-of-renowned-dan-brown/)
+- [Costa rican supermarket wins trademark battle against Nintendo](https://ticotimes.net/2025/01/30/david-vs-goliath-costa-rican-super-mario-defeats-nintendo-in-court)
+- [ScatterBrain: Unmasking the shadow of PoisonPlug&#39;s obfuscator](https://cloud.google.com/blog/topics/threat-intelligence/scatterbrain-unmasking-poisonplug-obfuscator)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

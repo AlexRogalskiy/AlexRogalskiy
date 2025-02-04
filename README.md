@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Vibe Coding](https://twitter.com/karpathy/status/1886192184808149383)
-- [Deep Research](https://openai.com/index/introducing-deep-research/)
-- [Autothrottle: Resource Management for SLO-Targeted Microservices](https://www.usenix.org/conference/nsdi24/presentation/wang-zibo)
-- [Tiny vanes glued to planes promise big savings for US Air Force](https://newatlas.com/military/ticky-little-vanes-bring-big-savings-us-air-force/)
-- [GarminDB](https://github.com/tcgoetz/GarminDB)
-- [F-strings for C++26 proposal [pdf]](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3412r0.pdf)
-- [Emergence of a second law of thermodynamics in isolated quantum systems](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.6.010309)
-- [Don&#39;t make fun of renowned author Dan Brown &lpar;2013&rpar;](https://onehundredpages.wordpress.com/2013/06/12/dont-make-fun-of-renowned-dan-brown/)
-- [Costa rican supermarket wins trademark battle against Nintendo](https://ticotimes.net/2025/01/30/david-vs-goliath-costa-rican-super-mario-defeats-nintendo-in-court)
-- [ScatterBrain: Unmasking the shadow of PoisonPlug&#39;s obfuscator](https://cloud.google.com/blog/topics/threat-intelligence/scatterbrain-unmasking-poisonplug-obfuscator)
+- [Hector Martin: &quot;Behold, a maintainer sabotaging the Rust for Linux project&quot;](https://lwn.net/ml/all/20250131075751.GA16720@lst.de/)
+- [The Video Game History Foundation Library Opens in Early Access](https://gamehistory.org/vghf-library-launch/)
+- [Order Declassifying JFK and MLK Assassination Records [pdf]](https://www.govinfo.gov/content/pkg/FR-2025-01-31/pdf/2025-02116.pdf)
+- [El Salvador abandons Bitcoin as legal tender after failed experiment](https://ticotimes.net/2025/02/02/el-salvador-abandons-bitcoin-as-legal-tender-after-failed-experiment)
+- [US Bill Proposes Jail Time for People Who Download DeepSeek](https://www.404media.co/senator-hawley-proposes-jail-time-for-people-who-download-deepseek/)
+- [No-Panic Rust: A Nice Technique for Systems Programming](https://blog.reverberate.org/2025/02/03/no-panic-rust.html)
+- [How Translation Works, Book Title Edition](https://whatever.scalzi.com/2025/02/03/how-translation-works-book-title-edition/)
+- [Open Euro LLM: Open LLMs for Transparent AI in Europe](https://openeurollm.eu/launch-press-release)
+- [The Cantonese Scrolls &lpar;粵卷&rpar; – A Cantonese Language Learning Mental RPG](https://cantoscrolls.com/)
+- [AMD: Microcode Signature Verification Vulnerability](https://github.com/google/security-research/security/advisories/GHSA-4xq7-4mgh-gp6w)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

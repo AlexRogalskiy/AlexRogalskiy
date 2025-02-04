@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Android Binder](https://elinux.org/Android_Binder)
-- [Tote: Rewriting Playground](https://100r.co/site/tote.html)
-- [Musk Says DOGE Halting Treasury Payments to US Contractors](https://www.bloomberg.com/news/articles/2025-02-02/musk-says-doge-is-rapidly-shutting-down-treasury-payments)
-- [Digital Coffee Journal](https://brewlog.coffee/)
-- [I Use AI: Early 2025](https://benjamincongdon.me/blog/2025/02/02/How-I-Use-AI-Early-2025/)
-- [Hwllo](https://news.ycombinator.com/item?id=42914223)
-- [The Silent Death of Code Artistry: How AI Is Erasing the Soul of Programming](https://medium.com/mr-plan-publication/the-silent-death-of-code-artistry-how-ai-is-erasing-the-soul-of-programming-9b45007a3142)
-- [How Apple Vision Pro is finding a home in healthcare](https://www.fastcompany.com/91269127/apple-vision-pro-healthcare)
-- [Making System Calls in Rust: Requesting Services from the Kernel](https://www.kaishira.com/2025/01/30/making-system-calls-in-rust-requesting-services-from-the-kernel/)
-- [Designing Your Data: The Bread and Butter of APL Performance by Aaron Hsu [video]](https://www.youtube.com/watch?v=ozlxUmdYsHA)
+- [Ask HN: What Happened to PHP Jobs?](https://news.ycombinator.com/item?id=42926965)
+- [Salesforce Cutting 1k Roles While Hiring Salespeople for AI](https://www.bloomberg.com/news/articles/2025-02-04/salesforce-cutting-1-000-roles-while-hiring-salespeople-for-ai)
+- [Ask HN: Can pseudocode make you a better programmer?](https://news.ycombinator.com/item?id=42926873)
+- [So you think you have a chronic health issue](https://www.lesswrong.com/posts/HboRaYFucf9DZcTJv/so-you-have-a-chronic-health-issue)
+- [Microsoft Phi 4 with R1 Reasoning](https://huggingface.co/Quazim0t0/Phi4.Turn.R1Distill_v1.5.1_Q4_k-GGUF)
+- [If your customers don&#39;t talk, NPS is a vanity metric](https://www.elliotcsmith.com/if-your-customers-dont-talk-nps-is-a-vanity-metric/)
+- [List of nicknames used by Donald Trump](https://en.wikipedia.org/wiki/List_of_nicknames_used_by_Donald_Trump)
+- [SoftBank Is Betting Billions That OpenAI&#39;s Agents Will Automate Work](https://gizmodo.com/softbank-is-betting-billions-that-openais-agents-will-automate-work-2000558448)
+- [Show HN: CLI tool to generate context files for LLMs](https://github.com/Tanq16/ai-context)
+- [Most influential programming language papers](https://github.com/yihozhang/most-influential-pl-papers)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Grammys 2025: the winners, the losers, the performances – live](https://www.theguardian.com/music/live/2025/feb/02/grammy-awards-2025-winners-losers-latest)
-- [Ukraine war briefing: Ukraine dismisses Trump envoy suggestion that both sides will make concessions](https://www.theguardian.com/world/2025/feb/03/ukraine-war-briefing-ukraine-dismisses-trump-envoy-suggestion-that-both-sides-will-make-concessions)
-- [Heatwave warning as ‘intensely hot’ weather continues in south-eastern Australia](https://www.theguardian.com/environment/2025/feb/03/intensely-hot-weather-to-continue-in-south-eastern-australia)
-- [Sir Julius Chan appreciation: death of last of PNG’s founding fathers marks end of era](https://www.theguardian.com/world/2025/feb/03/sir-julius-chan-death-former-png-prime-minister-tribute)
-- [Trump tariffs spark retaliation from Mexico, China and Canada](https://www.theguardian.com/us-news/2025/feb/02/trump-tariffs-mexico-canada-china-retaliation)
-- [Most zero-hours workers ‘with same employer for more than a year’](https://www.theguardian.com/politics/2025/feb/03/most-zero-hours-workers-with-same-employer-for-more-than-a-year)
-- [Ofsted’s new school report card worse than old system, say headteachers](https://www.theguardian.com/education/2025/feb/03/ofsted-new-school-report-card-worse-than-old-system-say-headteachers)
-- [Nearly 1m children in UK at risk of poverty due to housing costs – report](https://www.theguardian.com/society/2025/feb/03/children-poverty-housing-costs-report-lha)
-- [Endangered frogs born at London zoo after rescue mission in Chile](https://www.theguardian.com/environment/2025/feb/03/darwins-frogs-endangered-species-born-london-zoo-chile)
-- [Rory McIlroy wins at ‘cathedral of golf’ Pebble Beach for 27th PGA Tour title](https://www.theguardian.com/sport/2025/feb/02/rory-mcilroy-wins-at-cathedral-of-golf-pebble-beach-for-27th-pga-tour-title)
+- [Trump to pause Canada and Mexico tariffs for at least 30 days as China levies set to take effect Tuesday – live](https://www.theguardian.com/us-news/live/2025/feb/03/donald-trump-trade-tariffs-eu-mexico-canada-china-us-politics-live)
+- [Ukraine war briefing: Trump demands rare earths from Kyiv in exchange for aid](https://www.theguardian.com/world/2025/feb/04/ukraine-war-briefing-trump-demands-rare-earths-from-kyiv-in-exchange-for-aid)
+- [Chelsea loan João Félix to Milan, Chilwell to Palace and Disasi to Villa](https://www.theguardian.com/football/2025/feb/04/chelsea-loan-joao-felix-to-milan-and-ben-chilwell-to-crystal-palace-in-late-flurry)
+- [MoD urgently recalls 120,000 pieces of military body armour after cracks found](https://www.theguardian.com/uk-news/2025/feb/04/mod-urgently-recalls-120000-pieces-of-military-body-armour-after-cracks-found)
+- [NHS to launch world’s biggest trial of AI breast cancer diagnosis](https://www.theguardian.com/society/2025/feb/04/nhs-to-launch-worlds-biggest-trial-of-ai-breast-cancer-diagnosis)
+- [Lung cancer diagnoses on the rise among never-smokers worldwide](https://www.theguardian.com/society/2025/feb/03/lung-cancer-never-smokers-rise-worldwide-air-pollution)
+- [NHS England urged to publish full mental health report on Nottingham triple killer](https://www.theguardian.com/uk-news/2025/feb/03/nhs-england-urged-to-publish-full-mental-health-report-on-nottingham-triple-killer-valdo-calocane)
+- [Tottenham sign Bayern Munich’s Mathys Tel on loan with option to buy](https://www.theguardian.com/football/2025/feb/03/tottenham-marc-guehi-crystal-palace)
+- [Buffy the Vampire Slayer reboot in the works with Sarah Michelle Gellar returning to the titular role](https://www.theguardian.com/tv-and-radio/2025/feb/04/buffy-the-vampire-slayer-reboot-sarah-michelle-gellar-returning-hulu)
+- [Global stock markets come under pressure amid ‘Trump tariff tantrum’](https://www.theguardian.com/business/2025/feb/03/uk-european-stock-markets-tumble-trump-tariff-tantrum)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

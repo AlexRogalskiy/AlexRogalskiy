@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Trump to pause Canada and Mexico tariffs for at least 30 days as China levies set to take effect Tuesday – live](https://www.theguardian.com/us-news/live/2025/feb/03/donald-trump-trade-tariffs-eu-mexico-canada-china-us-politics-live)
-- [Ukraine war briefing: Trump demands rare earths from Kyiv in exchange for aid](https://www.theguardian.com/world/2025/feb/04/ukraine-war-briefing-trump-demands-rare-earths-from-kyiv-in-exchange-for-aid)
-- [Chelsea loan João Félix to Milan, Chilwell to Palace and Disasi to Villa](https://www.theguardian.com/football/2025/feb/04/chelsea-loan-joao-felix-to-milan-and-ben-chilwell-to-crystal-palace-in-late-flurry)
-- [MoD urgently recalls 120,000 pieces of military body armour after cracks found](https://www.theguardian.com/uk-news/2025/feb/04/mod-urgently-recalls-120000-pieces-of-military-body-armour-after-cracks-found)
-- [NHS to launch world’s biggest trial of AI breast cancer diagnosis](https://www.theguardian.com/society/2025/feb/04/nhs-to-launch-worlds-biggest-trial-of-ai-breast-cancer-diagnosis)
-- [Lung cancer diagnoses on the rise among never-smokers worldwide](https://www.theguardian.com/society/2025/feb/03/lung-cancer-never-smokers-rise-worldwide-air-pollution)
-- [NHS England urged to publish full mental health report on Nottingham triple killer](https://www.theguardian.com/uk-news/2025/feb/03/nhs-england-urged-to-publish-full-mental-health-report-on-nottingham-triple-killer-valdo-calocane)
-- [Tottenham sign Bayern Munich’s Mathys Tel on loan with option to buy](https://www.theguardian.com/football/2025/feb/03/tottenham-marc-guehi-crystal-palace)
-- [Buffy the Vampire Slayer reboot in the works with Sarah Michelle Gellar returning to the titular role](https://www.theguardian.com/tv-and-radio/2025/feb/04/buffy-the-vampire-slayer-reboot-sarah-michelle-gellar-returning-hulu)
-- [Global stock markets come under pressure amid ‘Trump tariff tantrum’](https://www.theguardian.com/business/2025/feb/03/uk-european-stock-markets-tumble-trump-tariff-tantrum)
+- [Trump says US will ‘take over’ Gaza Strip in shock announcement during Netanyahu visit](https://www.theguardian.com/world/2025/feb/05/donald-trump-plan-to-take-over-gaza-strip-netanyahu-visit)
+- [US Senate confirms Trump nominee Pam Bondi as attorney general](https://www.theguardian.com/us-news/2025/feb/04/pam-bondi-confirmed-trump-attorney-general)
+- [Ukraine war briefing: I will sit down with US, Europe and Putin, says Zelenskyy](https://www.theguardian.com/world/2025/feb/05/ukraine-war-briefing-i-will-sit-down-with-us-europe-and-putin-says-zelenskyy)
+- [End of life care ‘not working’ for dying people or their families, say campaigners](https://www.theguardian.com/society/2025/feb/05/end-of-life-care-not-working-for-dying-people-or-their-families-say-campaigners)
+- [‘Basic lack of decency’ driving self-harm in women’s prisons, report says](https://www.theguardian.com/society/2025/feb/05/basic-lack-of-decency-driving-self-harm-in-womens-prisons-report-says)
+- [Home Office wasted nearly £100m on plans to house asylum seekers, watchdog finds](https://www.theguardian.com/politics/2025/feb/05/home-office-wasted-nearly-100m-on-plans-to-house-asylum-seekers-watchdog-finds)
+- [UK childhood mental health crisis to cost £1.1tn in lost pay, study finds](https://www.theguardian.com/society/2025/feb/05/uk-childhood-mental-health-crisis-to-cost-1tn-in-lost-pay-study-finds)
+- [‘Watershed moment’ as three-year time limit on child rape claims scrapped in England and Wales](https://www.theguardian.com/law/2025/feb/05/watershed-moment-as-three-year-time-limit-on-child-claims-scrapped-in-england-and-wales)
+- [Triple murderer Valdo Calocane refused medication as he did not like needles, care review finds](https://www.theguardian.com/society/2025/feb/05/triple-murderer-valdo-calocane-refused-medication-as-he-did-not-like-needles-care-review-finds)
+- [BMJ study calls for maximisation of women’s potential in healthcare](https://www.theguardian.com/society/2025/feb/04/bmj-study-calls-for-maximisation-of-womens-potential-in-healthcare)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Hector Martin: &quot;Behold, a maintainer sabotaging the Rust for Linux project&quot;](https://lwn.net/ml/all/20250131075751.GA16720@lst.de/)
-- [The Video Game History Foundation Library Opens in Early Access](https://gamehistory.org/vghf-library-launch/)
-- [Order Declassifying JFK and MLK Assassination Records [pdf]](https://www.govinfo.gov/content/pkg/FR-2025-01-31/pdf/2025-02116.pdf)
-- [El Salvador abandons Bitcoin as legal tender after failed experiment](https://ticotimes.net/2025/02/02/el-salvador-abandons-bitcoin-as-legal-tender-after-failed-experiment)
-- [US Bill Proposes Jail Time for People Who Download DeepSeek](https://www.404media.co/senator-hawley-proposes-jail-time-for-people-who-download-deepseek/)
-- [No-Panic Rust: A Nice Technique for Systems Programming](https://blog.reverberate.org/2025/02/03/no-panic-rust.html)
-- [How Translation Works, Book Title Edition](https://whatever.scalzi.com/2025/02/03/how-translation-works-book-title-edition/)
-- [Open Euro LLM: Open LLMs for Transparent AI in Europe](https://openeurollm.eu/launch-press-release)
-- [The Cantonese Scrolls &lpar;粵卷&rpar; – A Cantonese Language Learning Mental RPG](https://cantoscrolls.com/)
-- [AMD: Microcode Signature Verification Vulnerability](https://github.com/google/security-research/security/advisories/GHSA-4xq7-4mgh-gp6w)
+- [Google erases promise not to use AI technology for weapons or surveillance](https://www.cnn.com/2025/02/04/business/google-ai-weapons-surveillance/index.html)
+- [Changes in schizophrenia diagnoses associated with cannabis use disorder](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2829840)
+- [We need network societies, not network states](https://www.cip.org/blog/network-societies)
+- [CodeCrafters &lpar;YC S22&rpar; is hiring a software engineer to change how devs learn](https://www.ycombinator.com/companies/codecrafters/jobs/EL4Oqs1-software-engineer-growth-retention)
+- [Beej&#39;s Guide to Git](https://beej.us/guide/bggit/)
+- [Ambsheets: Spreadsheets for Exploring Scenarios](https://www.inkandswitch.com/ambsheets/)
+- [Securing edge device systems, including firewalls, routers, and VPN gateways](https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/4052657/joint-publications-focus-on-mitigation-strategies-for-edge-devices/)
+- [Nine – seemingly impossible C64 demo](https://linusakesson.net/scene/nine/index.php)
+- [Oracle justified its JavaScript trademark with Node.js–now it wants that ignored](https://deno.com/blog/deno-v-oracle2)
+- [Infosec 101 for Activists](https://infosecforactivists.org)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ask HN: What Happened to PHP Jobs?](https://news.ycombinator.com/item?id=42926965)
-- [Salesforce Cutting 1k Roles While Hiring Salespeople for AI](https://www.bloomberg.com/news/articles/2025-02-04/salesforce-cutting-1-000-roles-while-hiring-salespeople-for-ai)
-- [Ask HN: Can pseudocode make you a better programmer?](https://news.ycombinator.com/item?id=42926873)
-- [So you think you have a chronic health issue](https://www.lesswrong.com/posts/HboRaYFucf9DZcTJv/so-you-have-a-chronic-health-issue)
-- [Microsoft Phi 4 with R1 Reasoning](https://huggingface.co/Quazim0t0/Phi4.Turn.R1Distill_v1.5.1_Q4_k-GGUF)
-- [If your customers don&#39;t talk, NPS is a vanity metric](https://www.elliotcsmith.com/if-your-customers-dont-talk-nps-is-a-vanity-metric/)
-- [List of nicknames used by Donald Trump](https://en.wikipedia.org/wiki/List_of_nicknames_used_by_Donald_Trump)
-- [SoftBank Is Betting Billions That OpenAI&#39;s Agents Will Automate Work](https://gizmodo.com/softbank-is-betting-billions-that-openais-agents-will-automate-work-2000558448)
-- [Show HN: CLI tool to generate context files for LLMs](https://github.com/Tanq16/ai-context)
-- [Most influential programming language papers](https://github.com/yihozhang/most-influential-pl-papers)
+- [US Travel Assoc Warns of Tourism Disaster as Canadians Cancel Trips](https://www.thetravel.com/us-travel-association-warns-of-economic-tourism-disaster-after-thousands-of-canadian-tourists-cancel-trips-in-protest/)
+- [A find-the-best-path puzzle](https://zig.vercel.app)
+- [College students got first-ever photos of an elusive California mammal](https://www.latimes.com/california/story/2025-01-29/college-students-capture-first-ever-photos-mount-lyell-shrew)
+- [Harper&#39;s Weekly Review](https://harpers.org/2025/02/weekly-review-omb-snap-nlrb-eeoc-cdc-doge-usaid-fork-in-the-road-elon-musk-trump-tariffs-canada-mexico-china-mediterranean-port-canal-flood-leaks-zuckerberg-japan-elderly-criminals-punxsutawney-phil/)
+- [Doom running on Lightning-to-HDMI adaptor](https://www.youtube.com/watch?v=4XCkeN0XuqA)
+- [PeerAuth, TOTP-based peer authentication in the post-truth world](https://ksze.github.io/PeerAuth/)
+- [Google erases promise not to use AI technology for weapons or surveillance](https://www.cnn.com/2025/02/04/business/google-ai-weapons-surveillance/index.html)
+- [Why it makes perfect sense for this bike to have two gears and two chains](https://arstechnica.com/cars/2025/02/why-it-makes-perfect-sense-for-this-bike-to-have-two-gears-and-two-chains/)
+- [TutorFlowAI](https://www.tutorflowai.com/)
+- [U.S. withdraws from the United Nations Human Rights Council](https://www.npr.org/2025/02/03/nx-s1-5285696/trump-un-human-rights-council-withdrawal)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

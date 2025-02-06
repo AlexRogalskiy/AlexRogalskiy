@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Trump says US will ‘take over’ Gaza Strip in shock announcement during Netanyahu visit](https://www.theguardian.com/world/2025/feb/05/donald-trump-plan-to-take-over-gaza-strip-netanyahu-visit)
-- [US Senate confirms Trump nominee Pam Bondi as attorney general](https://www.theguardian.com/us-news/2025/feb/04/pam-bondi-confirmed-trump-attorney-general)
-- [Ukraine war briefing: I will sit down with US, Europe and Putin, says Zelenskyy](https://www.theguardian.com/world/2025/feb/05/ukraine-war-briefing-i-will-sit-down-with-us-europe-and-putin-says-zelenskyy)
-- [End of life care ‘not working’ for dying people or their families, say campaigners](https://www.theguardian.com/society/2025/feb/05/end-of-life-care-not-working-for-dying-people-or-their-families-say-campaigners)
-- [‘Basic lack of decency’ driving self-harm in women’s prisons, report says](https://www.theguardian.com/society/2025/feb/05/basic-lack-of-decency-driving-self-harm-in-womens-prisons-report-says)
-- [Home Office wasted nearly £100m on plans to house asylum seekers, watchdog finds](https://www.theguardian.com/politics/2025/feb/05/home-office-wasted-nearly-100m-on-plans-to-house-asylum-seekers-watchdog-finds)
-- [UK childhood mental health crisis to cost £1.1tn in lost pay, study finds](https://www.theguardian.com/society/2025/feb/05/uk-childhood-mental-health-crisis-to-cost-1tn-in-lost-pay-study-finds)
-- [‘Watershed moment’ as three-year time limit on child rape claims scrapped in England and Wales](https://www.theguardian.com/law/2025/feb/05/watershed-moment-as-three-year-time-limit-on-child-claims-scrapped-in-england-and-wales)
-- [Triple murderer Valdo Calocane refused medication as he did not like needles, care review finds](https://www.theguardian.com/society/2025/feb/05/triple-murderer-valdo-calocane-refused-medication-as-he-did-not-like-needles-care-review-finds)
-- [BMJ study calls for maximisation of women’s potential in healthcare](https://www.theguardian.com/society/2025/feb/04/bmj-study-calls-for-maximisation-of-womens-potential-in-healthcare)
+- [Ukraine war briefing: Bomber dies in attack on army recruitment centre](https://www.theguardian.com/world/2025/feb/06/ukraine-war-briefing-bomber-dies-in-attack-on-army-recruitment-centre)
+- [What’s the idea behind Trump’s shocking new Gaza proposal? | Fiona Katauskas](https://www.theguardian.com/commentisfree/picture/2025/feb/06/whats-the-idea-behind-trumps-shocking-new-gaza-proposal)
+- [Thin is the new thick: designers of ‘cardboard’ house win RIBA award](https://www.theguardian.com/artanddesign/2025/feb/06/cardboard-house-designers-sanaa-win-riba-award)
+- [National Theatre’s shift from repertory plays risks ‘eroding culture’, says David Hare](https://www.theguardian.com/stage/2025/feb/06/national-theatre-shift-from-repertory-plays-risks-eroding-culture-says-david-hare)
+- [Keir Starmer unveils plan for large nuclear expansion across England and Wales](https://www.theguardian.com/environment/2025/feb/06/keir-starmer-unveils-plan-for-large-nuclear-expansion-across-england-and-wales)
+- [Urgent action needed to ensure UK food security, report warns](https://www.theguardian.com/environment/2025/feb/06/urgent-action-needed-to-ensure-uk-food-security-report-warns)
+- [One in five UK adults have diabetes or pre-diabetes, analysis shows](https://www.theguardian.com/society/2025/feb/06/one-in-five-uk-adults-have-diabetes-or-pre-diabetes-analysis-shows)
+- [Grenfell Tower, where 72 people died, to be demolished, families are told](https://www.theguardian.com/uk-news/2025/feb/05/grenfell-tower-where-72-people-died-to-be-demolished-families-are-told)
+- [McDonald’s accused of tough tactics in fights with councils over new branches](https://www.theguardian.com/society/2025/feb/05/mcdonalds-accused-of-tough-tactics-councils-new-branches)
+- [Elektra review – Brie Larson makes a fearless West End debut in punk tragedy](https://www.theguardian.com/stage/2025/feb/05/elektra-review-duke-of-yorks-theatre-london-brie-larson-daniel-fish)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

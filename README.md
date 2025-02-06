@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [US Travel Assoc Warns of Tourism Disaster as Canadians Cancel Trips](https://www.thetravel.com/us-travel-association-warns-of-economic-tourism-disaster-after-thousands-of-canadian-tourists-cancel-trips-in-protest/)
-- [A find-the-best-path puzzle](https://zig.vercel.app)
-- [College students got first-ever photos of an elusive California mammal](https://www.latimes.com/california/story/2025-01-29/college-students-capture-first-ever-photos-mount-lyell-shrew)
-- [Harper&#39;s Weekly Review](https://harpers.org/2025/02/weekly-review-omb-snap-nlrb-eeoc-cdc-doge-usaid-fork-in-the-road-elon-musk-trump-tariffs-canada-mexico-china-mediterranean-port-canal-flood-leaks-zuckerberg-japan-elderly-criminals-punxsutawney-phil/)
-- [Doom running on Lightning-to-HDMI adaptor](https://www.youtube.com/watch?v=4XCkeN0XuqA)
-- [PeerAuth, TOTP-based peer authentication in the post-truth world](https://ksze.github.io/PeerAuth/)
-- [Google erases promise not to use AI technology for weapons or surveillance](https://www.cnn.com/2025/02/04/business/google-ai-weapons-surveillance/index.html)
-- [Why it makes perfect sense for this bike to have two gears and two chains](https://arstechnica.com/cars/2025/02/why-it-makes-perfect-sense-for-this-bike-to-have-two-gears-and-two-chains/)
-- [TutorFlowAI](https://www.tutorflowai.com/)
-- [U.S. withdraws from the United Nations Human Rights Council](https://www.npr.org/2025/02/03/nx-s1-5285696/trump-un-human-rights-council-withdrawal)
+- [Move your company out of Delaware to Nevada or Texas](https://blog.eladgil.com/p/leaving-delaware)
+- [Department of Government Efficiency Live Tracker](https://doge-tracker.com/)
+- [Show HN: RoundTable – An AI chatbot starter kit for Ruby on Rails](https://github.com/ryangavin/roundtable)
+- [The Phantom T2110 High-Speed Camera Records at 483,300 FPS](https://petapixel.com/2025/01/30/the-phantom-t2110-high-speed-camera-records-at-483300-fps/)
+- [Tesla sees German car sales plunge in January](https://www.reuters.com/business/autos-transportation/tesla-sees-german-car-sales-plunge-january-2025-02-05/)
+- [The Long QUest for Artificial Blood](https://www.newyorker.com/magazine/2025/02/10/the-long-quest-for-artificial-blood)
+- [NOAA Employees Told to Pause Work with &#39;Foreign Nationals&#39;](https://www.wired.com/story/noaa-employees-foreign-nationals/)
+- [AI therapy bot on Instagram loses its mind](https://old.reddit.com/r/ABoringDystopia/comments/1ihs9el/this_ai_therapy_bot_on_instagram_loses_its_mind/)
+- [DeepSeek&#39;s rise shows why China&#39;s top AI talent is skipping Silicon Valley](https://restofworld.org/2025/china-ai-talent-deepseek-rise-us-dominance/)
+- [Daisy the &#39;AI granny&#39; speaks to scammer: &#39;I&#39;m a bit lost now&#39; [video]](https://www.youtube.com/watch?v=bL9iJJICOLc)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

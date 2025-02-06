@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Google erases promise not to use AI technology for weapons or surveillance](https://www.cnn.com/2025/02/04/business/google-ai-weapons-surveillance/index.html)
-- [Changes in schizophrenia diagnoses associated with cannabis use disorder](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2829840)
-- [We need network societies, not network states](https://www.cip.org/blog/network-societies)
-- [CodeCrafters &lpar;YC S22&rpar; is hiring a software engineer to change how devs learn](https://www.ycombinator.com/companies/codecrafters/jobs/EL4Oqs1-software-engineer-growth-retention)
-- [Beej&#39;s Guide to Git](https://beej.us/guide/bggit/)
-- [Ambsheets: Spreadsheets for Exploring Scenarios](https://www.inkandswitch.com/ambsheets/)
-- [Securing edge device systems, including firewalls, routers, and VPN gateways](https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/4052657/joint-publications-focus-on-mitigation-strategies-for-edge-devices/)
-- [Nine – seemingly impossible C64 demo](https://linusakesson.net/scene/nine/index.php)
-- [Oracle justified its JavaScript trademark with Node.js–now it wants that ignored](https://deno.com/blog/deno-v-oracle2)
-- [Infosec 101 for Activists](https://infosecforactivists.org)
+- [NOAA Employees Told to Pause Work with &#39;Foreign Nationals&#39;](https://www.wired.com/story/noaa-employees-foreign-nationals/)
+- [Human Brain May Contain as Much as a Spoon&#39;s Worth of Microplastics](https://www.smithsonianmag.com/smart-news/the-human-brain-may-contain-as-much-as-a-spoons-worth-of-microplastics-new-research-suggests-180985995/)
+- [What does it mean that MP3 is free?](https://idiallo.com/blog/listen-mp3-is-free)
+- [It&#39;s unlikely that there will be any further releases of mt32-pi](https://github.com/dwhinham/mt32-pi/blob/075b52809e77420c6e80828825fe42430336b369/README.md)
+- [News from Scroll 5](https://scrollprize.substack.com/p/exciting-news-from-scroll-5)
+- [Okta Bcrypt incident lessons for designing better APIs](https://n0rdy.foo/posts/20250121/okta-bcrypt-lessons-for-better-apis/)
+- [Tell HN: Cloudflare is blocking Pale Moon and other non-mainstream browsers](https://news.ycombinator.com/item?id=42953508)
+- [Andrej Karpathy: Deep Dive into LLMs Like ChatGPT [video]](https://www.youtube.com/watch?v=7xTGNNLPyMI)
+- [Ingesting PDFs and why Gemini 2.0 changes everything](https://www.sergey.fyi/articles/gemini-flash-2)
+- [Running ArchiveTeam&#39;s Warrior in Kubernetes](https://gabrielsimmer.com/blog/archiveteam-warrior-kubernetes)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

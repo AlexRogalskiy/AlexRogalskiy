@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine war briefing: Bomber dies in attack on army recruitment centre](https://www.theguardian.com/world/2025/feb/06/ukraine-war-briefing-bomber-dies-in-attack-on-army-recruitment-centre)
-- [What’s the idea behind Trump’s shocking new Gaza proposal? | Fiona Katauskas](https://www.theguardian.com/commentisfree/picture/2025/feb/06/whats-the-idea-behind-trumps-shocking-new-gaza-proposal)
-- [Thin is the new thick: designers of ‘cardboard’ house win RIBA award](https://www.theguardian.com/artanddesign/2025/feb/06/cardboard-house-designers-sanaa-win-riba-award)
-- [National Theatre’s shift from repertory plays risks ‘eroding culture’, says David Hare](https://www.theguardian.com/stage/2025/feb/06/national-theatre-shift-from-repertory-plays-risks-eroding-culture-says-david-hare)
-- [Keir Starmer unveils plan for large nuclear expansion across England and Wales](https://www.theguardian.com/environment/2025/feb/06/keir-starmer-unveils-plan-for-large-nuclear-expansion-across-england-and-wales)
-- [Urgent action needed to ensure UK food security, report warns](https://www.theguardian.com/environment/2025/feb/06/urgent-action-needed-to-ensure-uk-food-security-report-warns)
-- [One in five UK adults have diabetes or pre-diabetes, analysis shows](https://www.theguardian.com/society/2025/feb/06/one-in-five-uk-adults-have-diabetes-or-pre-diabetes-analysis-shows)
-- [Grenfell Tower, where 72 people died, to be demolished, families are told](https://www.theguardian.com/uk-news/2025/feb/05/grenfell-tower-where-72-people-died-to-be-demolished-families-are-told)
-- [McDonald’s accused of tough tactics in fights with councils over new branches](https://www.theguardian.com/society/2025/feb/05/mcdonalds-accused-of-tough-tactics-councils-new-branches)
-- [Elektra review – Brie Larson makes a fearless West End debut in punk tragedy](https://www.theguardian.com/stage/2025/feb/05/elektra-review-duke-of-yorks-theatre-london-brie-larson-daniel-fish)
+- [Trump acts to remove Federal Election Commission chair; government workers sue administration over USAid funding cuts – live](https://www.theguardian.com/us-news/live/2025/feb/06/donald-trump-transgender-gaza-birthright-tariffs-trade-us-politics-live-news)
+- [Elephant in the womb? Thailand brings in birth control for pachyderms](https://www.theguardian.com/world/2025/feb/07/elephant-in-the-womb-thailand-brings-in-birth-control-for-pachyderms)
+- [Ukraine war briefing: Putin admits situation ‘very difficult’ in Kursk as Kyiv forces mount new offensive](https://www.theguardian.com/world/2025/feb/07/ukraine-war-briefing-putin-admits-situation-very-difficult-in-kursk-as-kyiv-forces-mount-new-offensive)
+- [Trump imposes sanctions on ICC, accusing it of targeting US and Israel](https://www.theguardian.com/us-news/2025/feb/06/trump-sanction-icc)
+- [Call to make tech firms report data centre energy use as AI booms](https://www.theguardian.com/technology/2025/feb/07/call-to-make-tech-firms-report-data-centre-energy-use-as-ai-booms)
+- [FA Cup fourth round: 10 things to look out for this weekend](https://www.theguardian.com/football/2025/feb/07/fa-cup-fourth-round-10-things-to-look-out-for-this-weekend)
+- [Humphries breezes to Premier League opener after Van Gerwen sinks Littler](https://www.theguardian.com/sport/2025/feb/06/darts-premier-league-humphries-dobey-van-gerwen-littler)
+- [‘We’re getting stronger’: Slot’s ominous message after Liverpool thrash Spurs](https://www.theguardian.com/football/2025/feb/06/were-getting-stronger-slots-ominous-message-after-liverpool-crush-spurs)
+- [European football: Fiorentina dent Inter title hopes, Barça rout Valencia in cup](https://www.theguardian.com/football/2025/feb/06/european-football-fiorentina-stun-inter-barcas-torres-hits-treble-at-valencia)
+- [Japan’s PM heads to Washington hoping he can recreate rapport of Trump-Abe era](https://www.theguardian.com/world/2025/feb/07/japans-pm-heads-to-washington-hoping-he-can-recreate-rapport-of-trump-abe-era)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

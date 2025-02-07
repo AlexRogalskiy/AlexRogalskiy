@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Move your company out of Delaware to Nevada or Texas](https://blog.eladgil.com/p/leaving-delaware)
-- [Department of Government Efficiency Live Tracker](https://doge-tracker.com/)
-- [Show HN: RoundTable – An AI chatbot starter kit for Ruby on Rails](https://github.com/ryangavin/roundtable)
-- [The Phantom T2110 High-Speed Camera Records at 483,300 FPS](https://petapixel.com/2025/01/30/the-phantom-t2110-high-speed-camera-records-at-483300-fps/)
-- [Tesla sees German car sales plunge in January](https://www.reuters.com/business/autos-transportation/tesla-sees-german-car-sales-plunge-january-2025-02-05/)
-- [The Long QUest for Artificial Blood](https://www.newyorker.com/magazine/2025/02/10/the-long-quest-for-artificial-blood)
-- [NOAA Employees Told to Pause Work with &#39;Foreign Nationals&#39;](https://www.wired.com/story/noaa-employees-foreign-nationals/)
-- [AI therapy bot on Instagram loses its mind](https://old.reddit.com/r/ABoringDystopia/comments/1ihs9el/this_ai_therapy_bot_on_instagram_loses_its_mind/)
-- [DeepSeek&#39;s rise shows why China&#39;s top AI talent is skipping Silicon Valley](https://restofworld.org/2025/china-ai-talent-deepseek-rise-us-dominance/)
-- [Daisy the &#39;AI granny&#39; speaks to scammer: &#39;I&#39;m a bit lost now&#39; [video]](https://www.youtube.com/watch?v=bL9iJJICOLc)
+- [America&#39;s tech right came to power](https://www.lemonde.fr/en/international/article/2024/11/15/how-america-s-tech-right-came-to-power_6732989_4.html)
+- [GitHub Copilot brings mockups to life by generating code from images](https://techcrunch.com/2025/02/06/github-copilot-brings-mockups-to-life-by-generating-code-from-images/)
+- [No customers piling up for Copilot+ PCs](https://www.theregister.com/2025/02/06/ai_copilot_pc_sales/)
+- [OpenAI cofounder John Schulman is joining Mira Murati&#39;s startup](https://fortune.com/2025/02/06/openai-john-schulman-mira-muratis-startup-anthropic/)
+- [Ask HN: LLM Prompt to Machine Code?](https://news.ycombinator.com/item?id=42968556)
+- [Six Effective Ways to Reduce Compute Costs](https://www.junaideffendi.com/p/six-effective-ways-to-reduce-compute)
+- [Transformer Implemented Using Excel](https://www.byhand.ai/p/transformer-spreadsheet)
+- [Ask HN: Should I Continue Based on My Fake Door Test Results?](https://news.ycombinator.com/item?id=42968544)
+- [Leaving Delaware](https://blog.eladgil.com/p/leaving-delaware)
+- [Show HN: LangGraph and CrewAI in One Framework of Frameworks](https://github.com/apsquared/lg-agents)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

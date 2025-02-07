@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [NOAA Employees Told to Pause Work with &#39;Foreign Nationals&#39;](https://www.wired.com/story/noaa-employees-foreign-nationals/)
-- [Human Brain May Contain as Much as a Spoon&#39;s Worth of Microplastics](https://www.smithsonianmag.com/smart-news/the-human-brain-may-contain-as-much-as-a-spoons-worth-of-microplastics-new-research-suggests-180985995/)
-- [What does it mean that MP3 is free?](https://idiallo.com/blog/listen-mp3-is-free)
-- [It&#39;s unlikely that there will be any further releases of mt32-pi](https://github.com/dwhinham/mt32-pi/blob/075b52809e77420c6e80828825fe42430336b369/README.md)
-- [News from Scroll 5](https://scrollprize.substack.com/p/exciting-news-from-scroll-5)
-- [Okta Bcrypt incident lessons for designing better APIs](https://n0rdy.foo/posts/20250121/okta-bcrypt-lessons-for-better-apis/)
-- [Tell HN: Cloudflare is blocking Pale Moon and other non-mainstream browsers](https://news.ycombinator.com/item?id=42953508)
-- [Andrej Karpathy: Deep Dive into LLMs Like ChatGPT [video]](https://www.youtube.com/watch?v=7xTGNNLPyMI)
-- [Ingesting PDFs and why Gemini 2.0 changes everything](https://www.sergey.fyi/articles/gemini-flash-2)
-- [Running ArchiveTeam&#39;s Warrior in Kubernetes](https://gabrielsimmer.com/blog/archiveteam-warrior-kubernetes)
+- [California bill would require bots to disclose that they are bots](https://www.veeto.app/bill/1955756)
+- [TKey – Security for the New World](https://tillitis.se/products/tkey/)
+- [Frank Lloyd Wright&#39;s mile high skyscraper proposal &lpar;2021&rpar;](https://www.onverticality.com/blog/frank-lloyd-wright-mile-high-skyscraper)
+- [Trails of Wind &lpar;2019&rpar;](https://trailsofwind.figures.cc/)
+- [Understanding Reasoning LLMs](https://magazine.sebastianraschka.com/p/understanding-reasoning-llms)
+- [Verse &lpar;YC W22&rpar; Is Hiring](https://news.ycombinator.com/item?id=42966455)
+- [Show HN: An API that takes a URL and returns a file with browser screenshots](https://github.com/US-Artificial-Intelligence/scraper)
+- [Show HN: SQLite disk page explorer](https://github.com/QuadrupleA/sqlite-page-explorer)
+- [Scala 3 Migration: Report from the field](https://blog.pierre-ricadat.com/scala-3-migration-report-from-the-field)
+- [Show HN: An homage to Tom Dowdy&#39;s 1991 screensaver, &quot;Kaos&quot;](https://thestrikeagency.com/kaos/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

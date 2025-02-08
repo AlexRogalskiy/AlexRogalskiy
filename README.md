@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Trump acts to remove Federal Election Commission chair; government workers sue administration over USAid funding cuts – live](https://www.theguardian.com/us-news/live/2025/feb/06/donald-trump-transgender-gaza-birthright-tariffs-trade-us-politics-live-news)
-- [Elephant in the womb? Thailand brings in birth control for pachyderms](https://www.theguardian.com/world/2025/feb/07/elephant-in-the-womb-thailand-brings-in-birth-control-for-pachyderms)
-- [Ukraine war briefing: Putin admits situation ‘very difficult’ in Kursk as Kyiv forces mount new offensive](https://www.theguardian.com/world/2025/feb/07/ukraine-war-briefing-putin-admits-situation-very-difficult-in-kursk-as-kyiv-forces-mount-new-offensive)
-- [Trump imposes sanctions on ICC, accusing it of targeting US and Israel](https://www.theguardian.com/us-news/2025/feb/06/trump-sanction-icc)
-- [Call to make tech firms report data centre energy use as AI booms](https://www.theguardian.com/technology/2025/feb/07/call-to-make-tech-firms-report-data-centre-energy-use-as-ai-booms)
-- [FA Cup fourth round: 10 things to look out for this weekend](https://www.theguardian.com/football/2025/feb/07/fa-cup-fourth-round-10-things-to-look-out-for-this-weekend)
-- [Humphries breezes to Premier League opener after Van Gerwen sinks Littler](https://www.theguardian.com/sport/2025/feb/06/darts-premier-league-humphries-dobey-van-gerwen-littler)
-- [‘We’re getting stronger’: Slot’s ominous message after Liverpool thrash Spurs](https://www.theguardian.com/football/2025/feb/06/were-getting-stronger-slots-ominous-message-after-liverpool-crush-spurs)
-- [European football: Fiorentina dent Inter title hopes, Barça rout Valencia in cup](https://www.theguardian.com/football/2025/feb/06/european-football-fiorentina-stun-inter-barcas-torres-hits-treble-at-valencia)
-- [Japan’s PM heads to Washington hoping he can recreate rapport of Trump-Abe era](https://www.theguardian.com/world/2025/feb/07/japans-pm-heads-to-washington-hoping-he-can-recreate-rapport-of-trump-abe-era)
+- [All 10 people aboard Alaska plane that crashed died, says US Coast Guard](https://www.theguardian.com/us-news/2025/feb/07/alaska-missing-plane)
+- [Van Nistelrooy incensed as Leicester exit to Maguire’s ‘offside time’ goal](https://www.theguardian.com/football/2025/feb/07/van-nistelrooy-incensed-as-leicester-exit-to-maguires-offside-time-goal)
+- [Trump’s foreign aid cuts could be ‘big strategic mistake’, says Lammy](https://www.theguardian.com/us-news/2025/feb/07/trumps-international-aid-cuts-usaid-china-lammy)
+- [Dozens of countries speak out against Trump sanctions on ICC](https://www.theguardian.com/law/2025/feb/07/international-criminal-court-condemns-trump-sanctions-on-its-staff)
+- [Manchester City start new legal action against Premier League over rules](https://www.theguardian.com/football/2025/feb/07/manchester-city-new-legal-action-premier-league-apt-rules)
+- [Harry Maguire is the hero as Manchester United squeeze past Leicester in FA Cup](https://www.theguardian.com/football/2025/feb/07/manchester-united-leicester-fa-cup-fourth-round-match-report)
+- [Trains restart after suspected drink-driver crashes on to tracks in Salford](https://www.theguardian.com/uk-news/2025/feb/07/salford-trains-suspended-manchester-liverpool-suspected-drink-driver-crashes-on-to-tracks)
+- [Sam Kerr jury asked to consider difference if she had called a police officer ‘stupid and black’](https://www.theguardian.com/football/2025/feb/07/sam-kerr-truly-special-human-court-told-teammates-flock-to-defence-ntwnfb)
+- [Calvin Klein’s first female creative director finds succour in a fictional New York](https://www.theguardian.com/fashion/2025/feb/07/calvin-kleins-first-female-creative-director-finds-succour-in-a-fictional-new-york)
+- [Trudeau says Trump is serious about wanting to annex Canada](https://www.theguardian.com/world/2025/feb/07/trudeau-trump-canada-annex)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

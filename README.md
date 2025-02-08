@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [America&#39;s tech right came to power](https://www.lemonde.fr/en/international/article/2024/11/15/how-america-s-tech-right-came-to-power_6732989_4.html)
-- [GitHub Copilot brings mockups to life by generating code from images](https://techcrunch.com/2025/02/06/github-copilot-brings-mockups-to-life-by-generating-code-from-images/)
-- [No customers piling up for Copilot+ PCs](https://www.theregister.com/2025/02/06/ai_copilot_pc_sales/)
-- [OpenAI cofounder John Schulman is joining Mira Murati&#39;s startup](https://fortune.com/2025/02/06/openai-john-schulman-mira-muratis-startup-anthropic/)
-- [Ask HN: LLM Prompt to Machine Code?](https://news.ycombinator.com/item?id=42968556)
-- [Six Effective Ways to Reduce Compute Costs](https://www.junaideffendi.com/p/six-effective-ways-to-reduce-compute)
-- [Transformer Implemented Using Excel](https://www.byhand.ai/p/transformer-spreadsheet)
-- [Ask HN: Should I Continue Based on My Fake Door Test Results?](https://news.ycombinator.com/item?id=42968544)
-- [Leaving Delaware](https://blog.eladgil.com/p/leaving-delaware)
-- [Show HN: LangGraph and CrewAI in One Framework of Frameworks](https://github.com/apsquared/lg-agents)
+- [Rapid and scalable personalized ASO screening in patient-derived organoids](https://www.nature.com/articles/s41586-024-08462-1)
+- [Emiliano Grillo slam dunks hole-in-one on No. 16 at WM Phoenix Open](https://www.pgatour.com/video/competition/6368457053112/emiliano-grillo-aces-no-16-at-wm-phoenix-open)
+- [Oxford scientists achieve teleportation with quantum supercomputer](https://www.independent.co.uk/news/science/quantum-teleportation-computing-supercomputer-oxford-b2693889.html)
+- [AI helps researchers read ancient scroll burned to a crisp in Vesuvius eruption](https://www.theguardian.com/science/2025/feb/05/ai-helps-researchers-read-ancient-scroll-burned-to-a-crisp-in-vesuvius-eruption)
+- [Theory of Mind](https://en.wikipedia.org/wiki/Theory_of_mind)
+- [Supersizing vehicles offers minimal safety benefits – but substantial dangers](https://www.iihs.org/news/detail/supersizing-vehicles-offers-minimal-safety-benefits--but-substantial-dangers)
+- [Asimov&#39;s Jokester](https://asimov.fandom.com/wiki/Jokester)
+- [Real Profits, Shared](https://twitter.com/jasonfried/status/1887964677344489574)
+- [Show HN: RedPhish – eliminates phishing links before the webpage loads](https://www.redphish.app)
+- [Let Shaping Surprise You](https://world.hey.com/bb/let-shaping-surprise-you-65f72a4f)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [California bill would require bots to disclose that they are bots](https://www.veeto.app/bill/1955756)
-- [TKey – Security for the New World](https://tillitis.se/products/tkey/)
-- [Frank Lloyd Wright&#39;s mile high skyscraper proposal &lpar;2021&rpar;](https://www.onverticality.com/blog/frank-lloyd-wright-mile-high-skyscraper)
-- [Trails of Wind &lpar;2019&rpar;](https://trailsofwind.figures.cc/)
-- [Understanding Reasoning LLMs](https://magazine.sebastianraschka.com/p/understanding-reasoning-llms)
-- [Verse &lpar;YC W22&rpar; Is Hiring](https://news.ycombinator.com/item?id=42966455)
-- [Show HN: An API that takes a URL and returns a file with browser screenshots](https://github.com/US-Artificial-Intelligence/scraper)
-- [Show HN: SQLite disk page explorer](https://github.com/QuadrupleA/sqlite-page-explorer)
-- [Scala 3 Migration: Report from the field](https://blog.pierre-ricadat.com/scala-3-migration-report-from-the-field)
-- [Show HN: An homage to Tom Dowdy&#39;s 1991 screensaver, &quot;Kaos&quot;](https://thestrikeagency.com/kaos/)
+- [VSCode&#39;s SSH Agent Is Bananas](https://fly.io/blog/vscode-ssh-wtf/)
+- [The &#39;dangerous&#39; promise of a techno-utopian future](https://www.cbc.ca/radio/ideas/tech-billionaires-ai-utopia-1.7440698)
+- [Portland&#39;s Exploding Liberty Bell](https://tomlovesthelibertybell.com/portlands-exploding-liberty-bell/)
+- [Zep AI &lpar;YC W24&rpar; Is Hiring Engineers to Build SOTA Agent Memory](https://www.ycombinator.com/companies/zep-ai/jobs/e2QxKYu-staff-engineer)
+- [Show HN: ExpenseOwl – Simple, self-hosted expense tracker](https://github.com/Tanq16/ExpenseOwl)
+- [Show HN: A website that heatmaps your city based on your housing preferences](https://theretowhere.com/)
+- [A brief history of code signing at Mozilla](https://hearsum.ca/posts/history-of-code-signing-at-mozilla/)
+- [German civil activists win victory in election case against Musk&#39;s X](https://www.reuters.com/world/europe/german-civil-activists-claim-victory-case-against-musks-x-2025-02-07/)
+- [The origins of 60-Hz as a power frequency](https://ieeexplore.ieee.org/document/628099)
+- [Stop using zip codes for geospatial analysis &lpar;2019&rpar;](https://carto.com/blog/zip-codes-spatial-analysis)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

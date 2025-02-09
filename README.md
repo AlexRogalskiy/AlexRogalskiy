@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [VSCode&#39;s SSH Agent Is Bananas](https://fly.io/blog/vscode-ssh-wtf/)
-- [The &#39;dangerous&#39; promise of a techno-utopian future](https://www.cbc.ca/radio/ideas/tech-billionaires-ai-utopia-1.7440698)
-- [Portland&#39;s Exploding Liberty Bell](https://tomlovesthelibertybell.com/portlands-exploding-liberty-bell/)
-- [Zep AI &lpar;YC W24&rpar; Is Hiring Engineers to Build SOTA Agent Memory](https://www.ycombinator.com/companies/zep-ai/jobs/e2QxKYu-staff-engineer)
-- [Show HN: ExpenseOwl – Simple, self-hosted expense tracker](https://github.com/Tanq16/ExpenseOwl)
-- [Show HN: A website that heatmaps your city based on your housing preferences](https://theretowhere.com/)
-- [A brief history of code signing at Mozilla](https://hearsum.ca/posts/history-of-code-signing-at-mozilla/)
-- [German civil activists win victory in election case against Musk&#39;s X](https://www.reuters.com/world/europe/german-civil-activists-claim-victory-case-against-musks-x-2025-02-07/)
-- [The origins of 60-Hz as a power frequency](https://ieeexplore.ieee.org/document/628099)
-- [Stop using zip codes for geospatial analysis &lpar;2019&rpar;](https://carto.com/blog/zip-codes-spatial-analysis)
+- [Deep Fake Detector Extension by Mozilla Firefox](https://addons.mozilla.org/en-US/firefox/addon/deep-fake-detector/)
+- [Is software abstraction killing civilization? &lpar;2021&rpar;](https://datagubbe.se/endofciv/)
+- [Jacksonpollock.org](https://jacksonpollock.org/)
+- [Keeling Labs &lpar;YC W23&rpar; Is Hiring an ML Engineer for Applied ML in the Grid](https://www.keelinglabs.com/jobs)
+- [Ada Gems &lpar;2014&rpar;](https://www.adacore.com/gems)
+- [Tips for mathematical handwriting &lpar;2007&rpar;](https://johnkerl.org/doc/ortho/ortho.html)
+- [Show HN: Chez Scheme txtar port from Go](https://git.sr.ht/~egtann/txtar/)
+- [Writing a simple windows driver in Rust](https://scorpiosoftware.net/2025/02/08/writing-a-simple-driver-in-rust/)
+- [Show HN: FlashSpace – fast, open-source, macOS Spaces replacement](https://github.com/wojciech-kulik/FlashSpace)
+- [Carbon is not a programming language &lpar;sort of&rpar;](https://herecomesthemoon.net/2025/02/carbon-is-not-a-language/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

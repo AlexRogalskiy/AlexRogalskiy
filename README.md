@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [All 10 people aboard Alaska plane that crashed died, says US Coast Guard](https://www.theguardian.com/us-news/2025/feb/07/alaska-missing-plane)
-- [Van Nistelrooy incensed as Leicester exit to Maguire’s ‘offside time’ goal](https://www.theguardian.com/football/2025/feb/07/van-nistelrooy-incensed-as-leicester-exit-to-maguires-offside-time-goal)
-- [Trump’s foreign aid cuts could be ‘big strategic mistake’, says Lammy](https://www.theguardian.com/us-news/2025/feb/07/trumps-international-aid-cuts-usaid-china-lammy)
-- [Dozens of countries speak out against Trump sanctions on ICC](https://www.theguardian.com/law/2025/feb/07/international-criminal-court-condemns-trump-sanctions-on-its-staff)
-- [Manchester City start new legal action against Premier League over rules](https://www.theguardian.com/football/2025/feb/07/manchester-city-new-legal-action-premier-league-apt-rules)
-- [Harry Maguire is the hero as Manchester United squeeze past Leicester in FA Cup](https://www.theguardian.com/football/2025/feb/07/manchester-united-leicester-fa-cup-fourth-round-match-report)
-- [Trains restart after suspected drink-driver crashes on to tracks in Salford](https://www.theguardian.com/uk-news/2025/feb/07/salford-trains-suspended-manchester-liverpool-suspected-drink-driver-crashes-on-to-tracks)
-- [Sam Kerr jury asked to consider difference if she had called a police officer ‘stupid and black’](https://www.theguardian.com/football/2025/feb/07/sam-kerr-truly-special-human-court-told-teammates-flock-to-defence-ntwnfb)
-- [Calvin Klein’s first female creative director finds succour in a fictional New York](https://www.theguardian.com/fashion/2025/feb/07/calvin-kleins-first-female-creative-director-finds-succour-in-a-fictional-new-york)
-- [Trudeau says Trump is serious about wanting to annex Canada](https://www.theguardian.com/world/2025/feb/07/trudeau-trump-canada-annex)
+- [Emilia Pérez movie wins top Spanish film prize amid Karla Sofía Gascón furore](https://www.theguardian.com/film/2025/feb/09/emilia-perez-movie-wins-goya-spain-film-prize-karla-sofia-gascon-furore)
+- [Alaska plane crash: remains of all 10 victims have been recovered, authorities say](https://www.theguardian.com/world/2025/feb/08/alaska-plane-crash-recovery)
+- [Chisora swats aside Wallin for victory by unanimous decision in home swansong](https://www.theguardian.com/sport/2025/feb/09/chisora-swats-aside-wallin-for-victory-by-unanimous-decision-in-home-swansong)
+- [Fifth ceasefire exchange sees gaunt captives emerge from Gaza and Israel](https://www.theguardian.com/world/2025/feb/08/fifth-ceasefire-exchange-sees-gaunt-hostages-and-prisoners-emerge-from-gaza-and-israel)
+- [Ministry to digitalise property data to speed up homebuying process](https://www.theguardian.com/money/2025/feb/09/ministry-to-digitalise-property-data-to-speed-up-homebuying-process)
+- [Dreams ‘crushed’ as Ticketmaster cancels fans’ Oasis ’25 tickets](https://www.theguardian.com/business/2025/feb/08/dreams-crushed-as-ticketmaster-cancels-fans-oasis-25-tickets)
+- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2025/feb/08/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Spin a yarn: why the knitted dress is an easy one-stop look](https://www.theguardian.com/fashion/2025/feb/08/spin-a-yarn-why-the-knitted-dress-is-an-easy-one-stop-look)
+- [I live in a forest my parents planted when I was a child. It’s not too late for you to grow one too | Jessie Cole](https://www.theguardian.com/commentisfree/2025/feb/08/i-live-in-a-forest-my-parents-planted-when-i-was-a-child-its-not-too-late-for-you-to-grow-one-too)
+- [Mbappé fires equaliser as Real and Atlético share spoils in Madrid derby](https://www.theguardian.com/football/2025/feb/08/real-madrid-atletico-madrid-la-liga-match-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

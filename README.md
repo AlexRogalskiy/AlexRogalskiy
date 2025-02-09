@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Rapid and scalable personalized ASO screening in patient-derived organoids](https://www.nature.com/articles/s41586-024-08462-1)
-- [Emiliano Grillo slam dunks hole-in-one on No. 16 at WM Phoenix Open](https://www.pgatour.com/video/competition/6368457053112/emiliano-grillo-aces-no-16-at-wm-phoenix-open)
-- [Oxford scientists achieve teleportation with quantum supercomputer](https://www.independent.co.uk/news/science/quantum-teleportation-computing-supercomputer-oxford-b2693889.html)
-- [AI helps researchers read ancient scroll burned to a crisp in Vesuvius eruption](https://www.theguardian.com/science/2025/feb/05/ai-helps-researchers-read-ancient-scroll-burned-to-a-crisp-in-vesuvius-eruption)
-- [Theory of Mind](https://en.wikipedia.org/wiki/Theory_of_mind)
-- [Supersizing vehicles offers minimal safety benefits – but substantial dangers](https://www.iihs.org/news/detail/supersizing-vehicles-offers-minimal-safety-benefits--but-substantial-dangers)
-- [Asimov&#39;s Jokester](https://asimov.fandom.com/wiki/Jokester)
-- [Real Profits, Shared](https://twitter.com/jasonfried/status/1887964677344489574)
-- [Show HN: RedPhish – eliminates phishing links before the webpage loads](https://www.redphish.app)
-- [Let Shaping Surprise You](https://world.hey.com/bb/let-shaping-surprise-you-65f72a4f)
+- [Unrivaled could teach the NBA how to win back its fans](https://www.japantimes.co.jp/sports/2025/01/21/basketball/unrivaled-nba-fans/)
+- [Glamorous Toolkit: A Moldable Development Environment](https://gtoolkit.com//)
+- [Cozy video games can quell stress and anxiety](https://www.reuters.com/business/retail-consumer/cozy-video-games-can-quell-stress-anxiety-2025-01-27/)
+- [Show HN: KnowLang – An open-source tool for understanding complex codebases](https://news.ycombinator.com/item?id=42987923)
+- [Google Maps &#39;almost destroyed&#39; Google when it went live 20 years ago](https://www.sfgate.com/travel/article/google-maps-feature-started-bay-area-parking-lot-20149111.php)
+- [How much do SpaceX&#39;s reentering Starlink satellites pollute Earth&#39;s atmosphere?](https://www.space.com/spacex-starlink-reentry-pollution-damage-earth-atmosphere)
+- [NIH cuts billions of dollars in biomedical funding, effective immediately](https://www.washingtonpost.com/health/2025/02/08/nih-cuts-billions-dollars-biomedical-funding-effective-immediately/)
+- [I asked ChatGPT how an AI would manipulate people](https://news.ycombinator.com/item?id=42987900)
+- [Anything&#39;s Better Than Zero: Creators Reluctantly Sell Their Work to Train AI](https://www.bloomberg.com/news/articles/2025-02-07/how-much-should-authors-get-paid-to-license-books-for-ai-training)
+- [Why People Act So Weirdly at Airports](https://theconversation.com/the-weird-psychology-of-airports-248357)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Unrivaled could teach the NBA how to win back its fans](https://www.japantimes.co.jp/sports/2025/01/21/basketball/unrivaled-nba-fans/)
-- [Glamorous Toolkit: A Moldable Development Environment](https://gtoolkit.com//)
-- [Cozy video games can quell stress and anxiety](https://www.reuters.com/business/retail-consumer/cozy-video-games-can-quell-stress-anxiety-2025-01-27/)
-- [Show HN: KnowLang – An open-source tool for understanding complex codebases](https://news.ycombinator.com/item?id=42987923)
-- [Google Maps &#39;almost destroyed&#39; Google when it went live 20 years ago](https://www.sfgate.com/travel/article/google-maps-feature-started-bay-area-parking-lot-20149111.php)
-- [How much do SpaceX&#39;s reentering Starlink satellites pollute Earth&#39;s atmosphere?](https://www.space.com/spacex-starlink-reentry-pollution-damage-earth-atmosphere)
-- [NIH cuts billions of dollars in biomedical funding, effective immediately](https://www.washingtonpost.com/health/2025/02/08/nih-cuts-billions-dollars-biomedical-funding-effective-immediately/)
-- [I asked ChatGPT how an AI would manipulate people](https://news.ycombinator.com/item?id=42987900)
-- [Anything&#39;s Better Than Zero: Creators Reluctantly Sell Their Work to Train AI](https://www.bloomberg.com/news/articles/2025-02-07/how-much-should-authors-get-paid-to-license-books-for-ai-training)
-- [Why People Act So Weirdly at Airports](https://theconversation.com/the-weird-psychology-of-airports-248357)
+- [Europe has all it needs to thrive in AI, but won&#39;t allow it](https://www.thetimes.com/business-money/companies/article/europe-has-all-it-needs-to-thrive-in-ai-but-wont-allow-it-prp6j5lzk)
+- [I Blog with Raw HTML](https://devpoga.org/i-blog-with-raw-html/)
+- [I made my own OS](https://news.ycombinator.com/item?id=42996303)
+- [Bitly Changes: Link-Shortening, Now with Advertising](https://tedium.co/2025/02/07/bitly-terms-of-service-change/)
+- [The Drunken Plagiarists](https://queue.acm.org/detail.cfm)
+- [Publishing Pirate Site-Blocking Orders Is a Good Start but It&#39;s Not Transparency](https://torrentfreak.com/publishing-pirate-site-blocking-orders-is-a-good-start-but-its-not-transparency-250208/)
+- [Wikimap](https://raunak.io/wikimap)
+- [The future belongs to idea guys who can just do things](https://ghuntley.com/dothings/)
+- [Simon Sebag Montefiore Says History Is Not Over](https://www.thefp.com/p/bari-weiss-simon-sebag-montefiore-israel-end-of-history)
+- [Rostra – a P2P &lpar;or rather f2f&rpar; social network](https://github.com/dpc/rostra)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

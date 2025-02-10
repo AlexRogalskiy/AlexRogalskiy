@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Emilia Pérez movie wins top Spanish film prize amid Karla Sofía Gascón furore](https://www.theguardian.com/film/2025/feb/09/emilia-perez-movie-wins-goya-spain-film-prize-karla-sofia-gascon-furore)
-- [Alaska plane crash: remains of all 10 victims have been recovered, authorities say](https://www.theguardian.com/world/2025/feb/08/alaska-plane-crash-recovery)
-- [Chisora swats aside Wallin for victory by unanimous decision in home swansong](https://www.theguardian.com/sport/2025/feb/09/chisora-swats-aside-wallin-for-victory-by-unanimous-decision-in-home-swansong)
-- [Fifth ceasefire exchange sees gaunt captives emerge from Gaza and Israel](https://www.theguardian.com/world/2025/feb/08/fifth-ceasefire-exchange-sees-gaunt-hostages-and-prisoners-emerge-from-gaza-and-israel)
-- [Ministry to digitalise property data to speed up homebuying process](https://www.theguardian.com/money/2025/feb/09/ministry-to-digitalise-property-data-to-speed-up-homebuying-process)
-- [Dreams ‘crushed’ as Ticketmaster cancels fans’ Oasis ’25 tickets](https://www.theguardian.com/business/2025/feb/08/dreams-crushed-as-ticketmaster-cancels-fans-oasis-25-tickets)
-- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2025/feb/08/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Spin a yarn: why the knitted dress is an easy one-stop look](https://www.theguardian.com/fashion/2025/feb/08/spin-a-yarn-why-the-knitted-dress-is-an-easy-one-stop-look)
-- [I live in a forest my parents planted when I was a child. It’s not too late for you to grow one too | Jessie Cole](https://www.theguardian.com/commentisfree/2025/feb/08/i-live-in-a-forest-my-parents-planted-when-i-was-a-child-its-not-too-late-for-you-to-grow-one-too)
-- [Mbappé fires equaliser as Real and Atlético share spoils in Madrid derby](https://www.theguardian.com/football/2025/feb/08/real-madrid-atletico-madrid-la-liga-match-report)
+- [Super Bowl 2025 live updates: Kansas City Chiefs v Philadelphia Eagles](https://www.theguardian.com/sport/live/2025/feb/09/super-bowl-kansas-city-chiefs-philadelphia-eagles)
+- [Ukraine war briefing: Trump plan to end war must include security guarantees, Zelenskyy says](https://www.theguardian.com/world/2025/feb/10/ukraine-war-briefing-trump-plan-to-end-war-must-include-security-guarantees-zelenskyy-says)
+- [Yrjö Kukkapuro, renowned Finnish chair designer, dies aged 91](https://www.theguardian.com/artanddesign/2025/feb/10/yrjo-kukkapuro-renowned-finnish-chair-designer-dies-aged-91)
+- [Tom Robbins, comic novelist of US counterculture, dies aged 92](https://www.theguardian.com/books/2025/feb/10/tom-robbins-comic-novelist-of-us-counterculture-dies-aged-92)
+- [Keir Starmer takes public HIV test in push to destigmatise testing for virus](https://www.theguardian.com/society/2025/feb/10/keir-starmer-takes-public-hiv-test-in-push-to-destigmatise-testing-for-virus)
+- [Average service charge for flat in England and Wales hit £2,300 last year](https://www.theguardian.com/money/2025/feb/10/average-service-charge-for-leasehold-flat-england-2300-rise-11-percent)
+- [UK tax administration costs spiralling due to complex system, says watchdog](https://www.theguardian.com/politics/2025/feb/10/uk-tax-administration-costs-spiral-due-to-complex-system-says-spending-watchdog)
+- [Home Office launches new immigration raids as it vaunts deportation numbers](https://www.theguardian.com/uk-news/2025/feb/10/home-office-launch-new-immigration-raids-deportation-numbers)
+- [Freed Israeli hostage did not know of wife and daughters’ deaths, British family confirms](https://www.theguardian.com/world/2025/feb/09/freed-israeli-hostage-did-not-know-of-wife-and-daughters-deaths-british-family-confirms)
+- [Burnley MP Oliver Ryan investigated by Labour over ‘unacceptable’ WhatsApp comments](https://www.theguardian.com/politics/2025/feb/09/mp-oliver-ryan-investigated-by-labour-over-unacceptable-whatsapp-comments)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

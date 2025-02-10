@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Deep Fake Detector Extension by Mozilla Firefox](https://addons.mozilla.org/en-US/firefox/addon/deep-fake-detector/)
-- [Is software abstraction killing civilization? &lpar;2021&rpar;](https://datagubbe.se/endofciv/)
-- [Jacksonpollock.org](https://jacksonpollock.org/)
-- [Keeling Labs &lpar;YC W23&rpar; Is Hiring an ML Engineer for Applied ML in the Grid](https://www.keelinglabs.com/jobs)
-- [Ada Gems &lpar;2014&rpar;](https://www.adacore.com/gems)
-- [Tips for mathematical handwriting &lpar;2007&rpar;](https://johnkerl.org/doc/ortho/ortho.html)
-- [Show HN: Chez Scheme txtar port from Go](https://git.sr.ht/~egtann/txtar/)
-- [Writing a simple windows driver in Rust](https://scorpiosoftware.net/2025/02/08/writing-a-simple-driver-in-rust/)
-- [Show HN: FlashSpace – fast, open-source, macOS Spaces replacement](https://github.com/wojciech-kulik/FlashSpace)
-- [Carbon is not a programming language &lpar;sort of&rpar;](https://herecomesthemoon.net/2025/02/carbon-is-not-a-language/)
+- [I Blog with Raw HTML](https://devpoga.org/i-blog-with-raw-html/)
+- [Starlink and T-Mobile open satellite texting test to all – not just customers](https://www.washingtonpost.com/technology/2025/02/09/tmobile-starlink-satellite-texting/)
+- [Thank You Bootstrap 1](https://kylerego.github.io/thank-you-bootstrap-1)
+- [Reflect Orbital: Sunlight after dark using a constellation of spatial reflectors](https://www.reflectorbital.com/)
+- [One Text to Speech wrapper for Python for all &lpar;?&rpar; TTS engines](https://pypi.org/project/py3-tts-wrapper/)
+- [Show HN: Searchable Library of Free Audiobooks](https://booksearch.party/)
+- [Three Observations](https://blog.samaltman.com/three-observations)
+- [The Recombobulation Area &lpar;2023&rpar;](https://onmilwaukee.com/articles/recombobulationsigns)
+- [No AI December Reflections](https://blog.rybarix.com/2025/02/09/noaidecember.html)
+- [OpenStreetMap Calendar](https://osmcal.org/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

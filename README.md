@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Super Bowl 2025 live updates: Kansas City Chiefs v Philadelphia Eagles](https://www.theguardian.com/sport/live/2025/feb/09/super-bowl-kansas-city-chiefs-philadelphia-eagles)
-- [Ukraine war briefing: Trump plan to end war must include security guarantees, Zelenskyy says](https://www.theguardian.com/world/2025/feb/10/ukraine-war-briefing-trump-plan-to-end-war-must-include-security-guarantees-zelenskyy-says)
-- [Yrjö Kukkapuro, renowned Finnish chair designer, dies aged 91](https://www.theguardian.com/artanddesign/2025/feb/10/yrjo-kukkapuro-renowned-finnish-chair-designer-dies-aged-91)
-- [Tom Robbins, comic novelist of US counterculture, dies aged 92](https://www.theguardian.com/books/2025/feb/10/tom-robbins-comic-novelist-of-us-counterculture-dies-aged-92)
-- [Keir Starmer takes public HIV test in push to destigmatise testing for virus](https://www.theguardian.com/society/2025/feb/10/keir-starmer-takes-public-hiv-test-in-push-to-destigmatise-testing-for-virus)
-- [Average service charge for flat in England and Wales hit £2,300 last year](https://www.theguardian.com/money/2025/feb/10/average-service-charge-for-leasehold-flat-england-2300-rise-11-percent)
-- [UK tax administration costs spiralling due to complex system, says watchdog](https://www.theguardian.com/politics/2025/feb/10/uk-tax-administration-costs-spiral-due-to-complex-system-says-spending-watchdog)
-- [Home Office launches new immigration raids as it vaunts deportation numbers](https://www.theguardian.com/uk-news/2025/feb/10/home-office-launch-new-immigration-raids-deportation-numbers)
-- [Freed Israeli hostage did not know of wife and daughters’ deaths, British family confirms](https://www.theguardian.com/world/2025/feb/09/freed-israeli-hostage-did-not-know-of-wife-and-daughters-deaths-british-family-confirms)
-- [Burnley MP Oliver Ryan investigated by Labour over ‘unacceptable’ WhatsApp comments](https://www.theguardian.com/politics/2025/feb/09/mp-oliver-ryan-investigated-by-labour-over-unacceptable-whatsapp-comments)
+- [Ukraine war briefing: Biden-approved weapons still flowing, says Kellogg](https://www.theguardian.com/world/2025/feb/11/ukraine-war-briefing-biden-approved-weapons-still-flowing-says-kellogg)
+- [New Zealand government loses ground in polls as economic concerns grow](https://www.theguardian.com/world/2025/feb/11/new-zealand-opinion-polls-christoper-luxon-popularity-rating-low)
+- [Trump halts enforcement of US law banning bribery of foreign officials](https://www.theguardian.com/us-news/2025/feb/10/trump-order-foreign-bribery-act)
+- [New Zealand Rugby launches legal action against Ineos over sponsorship](https://www.theguardian.com/sport/2025/feb/11/new-zealand-rugby-legal-action-ineos-sponsorship)
+- [Trump says Gaza ceasefire should be cancelled if Israeli hostages not freed](https://www.theguardian.com/us-news/2025/feb/10/trump-gaza-ceasefire-hamas-hostages)
+- [US justice department official seeks dismissal of charges against Eric Adams](https://www.theguardian.com/us-news/2025/feb/10/eric-adams-justice-department-trump)
+- [AI chatbots distort and mislead when asked about current affairs, BBC finds](https://www.theguardian.com/technology/2025/feb/11/ai-chatbots-distort-and-mislead-when-asked-about-current-affairs-bbc-finds)
+- [UK shoppers inspired by health food trends on social media ‘lift retail sales’](https://www.theguardian.com/business/2025/feb/11/uk-shoppers-inspired-by-health-food-trends-on-social-media-lift-retail-sales)
+- [Armie Hammer denies cannibalism claims in Louis Theroux interview](https://www.theguardian.com/film/2025/feb/11/armie-hammer-denies-cannibalism-claims-in-louis-theroux-interview)
+- [Migrant workers in UK to fill care roles ‘charged up to £20,000’ in illegal fees](https://www.theguardian.com/uk-news/2025/feb/11/migrant-workers-in-uk-to-fill-care-roles-charged-up-to-20000-in-fees)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

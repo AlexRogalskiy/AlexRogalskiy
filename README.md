@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Europe has all it needs to thrive in AI, but won&#39;t allow it](https://www.thetimes.com/business-money/companies/article/europe-has-all-it-needs-to-thrive-in-ai-but-wont-allow-it-prp6j5lzk)
-- [I Blog with Raw HTML](https://devpoga.org/i-blog-with-raw-html/)
-- [I made my own OS](https://news.ycombinator.com/item?id=42996303)
-- [Bitly Changes: Link-Shortening, Now with Advertising](https://tedium.co/2025/02/07/bitly-terms-of-service-change/)
-- [The Drunken Plagiarists](https://queue.acm.org/detail.cfm)
-- [Publishing Pirate Site-Blocking Orders Is a Good Start but It&#39;s Not Transparency](https://torrentfreak.com/publishing-pirate-site-blocking-orders-is-a-good-start-but-its-not-transparency-250208/)
-- [Wikimap](https://raunak.io/wikimap)
-- [The future belongs to idea guys who can just do things](https://ghuntley.com/dothings/)
-- [Simon Sebag Montefiore Says History Is Not Over](https://www.thefp.com/p/bari-weiss-simon-sebag-montefiore-israel-end-of-history)
-- [Rostra – a P2P &lpar;or rather f2f&rpar; social network](https://github.com/dpc/rostra)
+- [Trump&#39;s Orders on Gender Put Science Back in the Driver&#39;s Seat](https://www.newsweek.com/trumps-orders-gender-put-science-back-drivers-seat-opinion-2027532)
+- [Supersonic Passenger Jet Prototype Surpasses Mach 1](https://spectrum.ieee.org/supersonic-jet)
+- [Make Your Own Website: A beginner&#39;s guide](https://web.pixelshannon.com/make/)
+- [Home Networking over Telephone and More](https://computer.rip/2025-02-02-residential-networking-over-telephone.html)
+- [Mark Kern, Team Lead of World of Warcraft, on Censorship in the Video Games](https://www.youtube.com/watch?v=jhp3ddADC00)
+- [Federal employees union files lawsuits over CFPB shutdown and DOGE access](https://www.cbsnews.com/news/cfpb-shutdown-doge-nteu-lawsuits/)
+- [Show HN: A library for computing line by line code diff](https://zhanba.github.io/codiff/)
+- [YouTube playlist won&#39;t auto-play if it includes more than 244 entries](https://twitter.com/esotericcd/status/1889116200556179911)
+- [Wrestling with WebRTC](https://adamgluck.com/posts/webrtc)
+- [How Likely Are You to Overcome a Failed Launch?](https://howtomarketagame.com/2025/02/10/how-likely-are-you-to-overcome-a-failed-launch-so-youre-telling-me-theres-a-chance/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

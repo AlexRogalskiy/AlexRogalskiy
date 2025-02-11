@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [I Blog with Raw HTML](https://devpoga.org/i-blog-with-raw-html/)
-- [Starlink and T-Mobile open satellite texting test to all – not just customers](https://www.washingtonpost.com/technology/2025/02/09/tmobile-starlink-satellite-texting/)
-- [Thank You Bootstrap 1](https://kylerego.github.io/thank-you-bootstrap-1)
-- [Reflect Orbital: Sunlight after dark using a constellation of spatial reflectors](https://www.reflectorbital.com/)
-- [One Text to Speech wrapper for Python for all &lpar;?&rpar; TTS engines](https://pypi.org/project/py3-tts-wrapper/)
-- [Show HN: Searchable Library of Free Audiobooks](https://booksearch.party/)
-- [Three Observations](https://blog.samaltman.com/three-observations)
-- [The Recombobulation Area &lpar;2023&rpar;](https://onmilwaukee.com/articles/recombobulationsigns)
-- [No AI December Reflections](https://blog.rybarix.com/2025/02/09/noaidecember.html)
-- [OpenStreetMap Calendar](https://osmcal.org/)
+- [How Copyover MUD Servers Worked](http://jackkelly.name/blog/archives/2025/02/06/how_copyover_mud_servers_worked/)
+- [The Floppotron 3.0 &lpar;2022&rpar;](https://silent.org.pl/home/2022/06/13/the-floppotron-3-0/)
+- [&#39;social network&#39; attacking pesticide critics shuts down after investigation](https://www.theguardian.com/us-news/2025/feb/10/v-fluence-pesticide-critics)
+- [Fun with C++26 reflection: Keyword Arguments](https://pydong.org/posts/KwArgs/)
+- [Hedge Funds Are Pocketing Much of Their Clients&#39; Gains with &#39;No Limit&#39; Fees](https://www.bloomberg.com/graphics/2025-hedge-fund-investment-fees/)
+- [Relational Quantum Mechanics](https://plato.stanford.edu/entries/qm-relational/)
+- [Fly.io &lpar;YC W20&rpar; Is Hiring a Customer Support Director](https://news.ycombinator.com/item?id=43005096)
+- [Musk-led group makes $97B bid for control of OpenAI](https://www.reuters.com/markets/deals/elon-musk-led-group-makes-974-billion-bid-control-openai-wsj-reports-2025-02-10/)
+- [TinyX: Small Featured X Server](https://github.com/tinycorelinux/tinyx)
+- [Scaling up test-time compute with latent reasoning: A recurrent depth approach](https://arxiv.org/abs/2502.05171)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

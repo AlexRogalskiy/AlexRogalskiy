@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine war briefing: Biden-approved weapons still flowing, says Kellogg](https://www.theguardian.com/world/2025/feb/11/ukraine-war-briefing-biden-approved-weapons-still-flowing-says-kellogg)
-- [New Zealand government loses ground in polls as economic concerns grow](https://www.theguardian.com/world/2025/feb/11/new-zealand-opinion-polls-christoper-luxon-popularity-rating-low)
-- [Trump halts enforcement of US law banning bribery of foreign officials](https://www.theguardian.com/us-news/2025/feb/10/trump-order-foreign-bribery-act)
-- [New Zealand Rugby launches legal action against Ineos over sponsorship](https://www.theguardian.com/sport/2025/feb/11/new-zealand-rugby-legal-action-ineos-sponsorship)
-- [Trump says Gaza ceasefire should be cancelled if Israeli hostages not freed](https://www.theguardian.com/us-news/2025/feb/10/trump-gaza-ceasefire-hamas-hostages)
-- [US justice department official seeks dismissal of charges against Eric Adams](https://www.theguardian.com/us-news/2025/feb/10/eric-adams-justice-department-trump)
-- [AI chatbots distort and mislead when asked about current affairs, BBC finds](https://www.theguardian.com/technology/2025/feb/11/ai-chatbots-distort-and-mislead-when-asked-about-current-affairs-bbc-finds)
-- [UK shoppers inspired by health food trends on social media ‘lift retail sales’](https://www.theguardian.com/business/2025/feb/11/uk-shoppers-inspired-by-health-food-trends-on-social-media-lift-retail-sales)
-- [Armie Hammer denies cannibalism claims in Louis Theroux interview](https://www.theguardian.com/film/2025/feb/11/armie-hammer-denies-cannibalism-claims-in-louis-theroux-interview)
-- [Migrant workers in UK to fill care roles ‘charged up to £20,000’ in illegal fees](https://www.theguardian.com/uk-news/2025/feb/11/migrant-workers-in-uk-to-fill-care-roles-charged-up-to-20000-in-fees)
+- [White House fires USAid inspector general who issued damning report on Trump’s funding freeze – live](https://www.theguardian.com/us-news/live/2025/feb/11/trump-court-israel-hamas-musk-politics-latest-updates)
+- [Elon Musk appears with Trump and tries to claim ‘Doge’ team is transparent](https://www.theguardian.com/us-news/2025/feb/11/elon-musk-trump-doge)
+- [Sydney nurses stood down after claiming they would kill Israeli patients in social media video](https://www.theguardian.com/australia-news/2025/feb/12/sydney-nsw-health-nurses-stood-down-alleged-antisemitic-video-threats-israel-bankstown-hospital-ntwnfb)
+- [Ukraine war briefing: Zelenskyy prepared to offer swap of seized Kursk land](https://www.theguardian.com/world/2025/feb/12/ukraine-war-briefing-zelenskyy-prepared-to-offer-swap-of-seized-kursk-land)
+- [Solomon Islands landowners seek compensation over catastrophic oil spill](https://www.theguardian.com/world/2025/feb/12/rennell-island-disaster-solomon-islands-landowners-seek-compensation-over-catastrophic-oil-spill-ntwnfb)
+- [Nottingham Forest beat 10-man Exeter on penalties as Devon double denied](https://www.theguardian.com/football/2025/feb/11/exeter-nottingham-forest-fa-cup-fourth-round-match-report)
+- [‘An act of betrayal’: Japan to maximise nuclear power 14 years after Fukushima disaster](https://www.theguardian.com/world/2025/feb/12/japan-nuclear-power-plan-emissions-targets-fukushima)
+- [Henri Michaux review – the delirious artist who took mescaline so you don’t have to](https://www.theguardian.com/artanddesign/2025/feb/12/henri-michaux-review-mescaline-courtauld-gallery)
+- [Rogue landlords in England to face curbs on housing benefit income, says Labour](https://www.theguardian.com/society/2025/feb/12/rogue-landlords-in-england-to-face-curbs-on-housing-benefit-income-says-labour)
+- [Many birds-of-paradise species emit light through their plumage, study finds](https://www.theguardian.com/environment/2025/feb/12/many-birds-of-paradise-species-emit-light-through-their-plumage-study-finds)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

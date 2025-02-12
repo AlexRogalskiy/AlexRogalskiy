@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [How Copyover MUD Servers Worked](http://jackkelly.name/blog/archives/2025/02/06/how_copyover_mud_servers_worked/)
-- [The Floppotron 3.0 &lpar;2022&rpar;](https://silent.org.pl/home/2022/06/13/the-floppotron-3-0/)
-- [&#39;social network&#39; attacking pesticide critics shuts down after investigation](https://www.theguardian.com/us-news/2025/feb/10/v-fluence-pesticide-critics)
-- [Fun with C++26 reflection: Keyword Arguments](https://pydong.org/posts/KwArgs/)
-- [Hedge Funds Are Pocketing Much of Their Clients&#39; Gains with &#39;No Limit&#39; Fees](https://www.bloomberg.com/graphics/2025-hedge-fund-investment-fees/)
-- [Relational Quantum Mechanics](https://plato.stanford.edu/entries/qm-relational/)
-- [Fly.io &lpar;YC W20&rpar; Is Hiring a Customer Support Director](https://news.ycombinator.com/item?id=43005096)
-- [Musk-led group makes $97B bid for control of OpenAI](https://www.reuters.com/markets/deals/elon-musk-led-group-makes-974-billion-bid-control-openai-wsj-reports-2025-02-10/)
-- [TinyX: Small Featured X Server](https://github.com/tinycorelinux/tinyx)
-- [Scaling up test-time compute with latent reasoning: A recurrent depth approach](https://arxiv.org/abs/2502.05171)
+- [WASM will replace containers](https://creston.blog/wasm-will-replace-containers/)
+- [Hackers leak cop manuals for departments after breaching major provider](https://www.dailydot.com/debug/lexipol-data-leak-puppygirl-hacker-polycule/)
+- [JJ Cheat Sheet](https://justinpombrio.net/2025/02/11/jj-cheat-sheet.html)
+- [A Year of Telepathy](https://neuralink.com/blog/a-year-of-telepathy/)
+- [NOAA&#39;s public weather data powers the local forecasts on your phone and TV](https://theconversation.com/noaas-vast-public-weather-data-powers-the-local-forecasts-on-your-phone-and-tv-a-private-company-alone-couldnt-match-it-249451)
+- [Empirical Health &lpar;YC S23&rpar; Is Hiring Design Engineers in NYC](https://www.ycombinator.com/companies/empirical-health/jobs/nZFQWLW-design-engineer)
+- [Thomson Reuters wins first major AI copyright case in the US](https://www.wired.com/story/thomson-reuters-ai-copyright-lawsuit/)
+- [Zeroperl: Sandboxing Perl with WebAssembly](https://andrews.substack.com/p/zeroperl-sandboxed-perl-with-webassembly)
+- [The first yearly drop in average CPU performance in its 20 years of benchmarks](https://www.tomshardware.com/pc-components/cpus/passmark-sees-the-first-yearly-drop-in-average-cpu-performance-in-its-20-years-of-benchmark-results)
+- [DeepScaleR: Surpassing O1-Preview with a 1.5B Model by Scaling RL](https://pretty-radio-b75.notion.site/DeepScaleR-Surpassing-O1-Preview-with-a-1-5B-Model-by-Scaling-RL-19681902c1468005bed8ca303013a4e2)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Trump&#39;s Orders on Gender Put Science Back in the Driver&#39;s Seat](https://www.newsweek.com/trumps-orders-gender-put-science-back-drivers-seat-opinion-2027532)
-- [Supersonic Passenger Jet Prototype Surpasses Mach 1](https://spectrum.ieee.org/supersonic-jet)
-- [Make Your Own Website: A beginner&#39;s guide](https://web.pixelshannon.com/make/)
-- [Home Networking over Telephone and More](https://computer.rip/2025-02-02-residential-networking-over-telephone.html)
-- [Mark Kern, Team Lead of World of Warcraft, on Censorship in the Video Games](https://www.youtube.com/watch?v=jhp3ddADC00)
-- [Federal employees union files lawsuits over CFPB shutdown and DOGE access](https://www.cbsnews.com/news/cfpb-shutdown-doge-nteu-lawsuits/)
-- [Show HN: A library for computing line by line code diff](https://zhanba.github.io/codiff/)
-- [YouTube playlist won&#39;t auto-play if it includes more than 244 entries](https://twitter.com/esotericcd/status/1889116200556179911)
-- [Wrestling with WebRTC](https://adamgluck.com/posts/webrtc)
-- [How Likely Are You to Overcome a Failed Launch?](https://howtomarketagame.com/2025/02/10/how-likely-are-you-to-overcome-a-failed-launch-so-youre-telling-me-theres-a-chance/)
+- [Microsoft gives up on AR-for-Army gig, passes it to Anduril](https://www.theregister.com/2025/02/12/microsoft_gives_up_army_ivas/)
+- [Copilot Language Server SDK Is Now Available – GitHub Changelog](https://github.blog/changelog/2025-02-10-copilot-language-server-sdk-is-now-available/)
+- [Tesla opens Shanghai battery &quot;Megafactory&quot;, first Megapacks to Australia](https://reneweconomy.com.au/tesla-opens-shanghai-battery-megafactory-with-first-megapacks-on-their-way-to-australia/)
+- [Federal judge upholds Massachusetts automotive right-to-repair law](https://www.bostonglobe.com/2025/02/11/business/automotive-right-to-repair-federal-judge-approves/)
+- [Git Repository Integrity Solutions](https://gitlab.torproject.org/tpo/tpa/team/-/wikis/howto/gitlab#git-repository-integrity-solutions)
+- [What DeepSeek&#39;s Success Says About China&#39;s Ability to Nurture Talent](https://www.nytimes.com/2025/02/10/world/asia/china-deepseek-education.html)
+- [AGI Ruin: A List of Lethalities &lpar;2022&rpar;](https://www.lesswrong.com/posts/uMQ3cqWDPHhjtiesc/agi-ruin-a-list-of-lethalities)
+- [Advancements in Embedding-Based Retrieval at Pinterest Homefeed](https://medium.com/pinterest-engineering/advancements-in-embedding-based-retrieval-at-pinterest-homefeed-d7d7971a409e)
+- [TL;DW: Too Long; Didn&#39;t Watch Distill YouTube Videos to the Relevant Information](https://tldw.tube/)
+- [Opinion: Farewell to my American friends. It&#39;s over](https://vancouversun.com/news/opinion-farewell-america-pete-mcmartin)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

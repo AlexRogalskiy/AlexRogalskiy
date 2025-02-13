@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [White House fires USAid inspector general who issued damning report on Trump’s funding freeze – live](https://www.theguardian.com/us-news/live/2025/feb/11/trump-court-israel-hamas-musk-politics-latest-updates)
-- [Elon Musk appears with Trump and tries to claim ‘Doge’ team is transparent](https://www.theguardian.com/us-news/2025/feb/11/elon-musk-trump-doge)
-- [Sydney nurses stood down after claiming they would kill Israeli patients in social media video](https://www.theguardian.com/australia-news/2025/feb/12/sydney-nsw-health-nurses-stood-down-alleged-antisemitic-video-threats-israel-bankstown-hospital-ntwnfb)
-- [Ukraine war briefing: Zelenskyy prepared to offer swap of seized Kursk land](https://www.theguardian.com/world/2025/feb/12/ukraine-war-briefing-zelenskyy-prepared-to-offer-swap-of-seized-kursk-land)
-- [Solomon Islands landowners seek compensation over catastrophic oil spill](https://www.theguardian.com/world/2025/feb/12/rennell-island-disaster-solomon-islands-landowners-seek-compensation-over-catastrophic-oil-spill-ntwnfb)
-- [Nottingham Forest beat 10-man Exeter on penalties as Devon double denied](https://www.theguardian.com/football/2025/feb/11/exeter-nottingham-forest-fa-cup-fourth-round-match-report)
-- [‘An act of betrayal’: Japan to maximise nuclear power 14 years after Fukushima disaster](https://www.theguardian.com/world/2025/feb/12/japan-nuclear-power-plan-emissions-targets-fukushima)
-- [Henri Michaux review – the delirious artist who took mescaline so you don’t have to](https://www.theguardian.com/artanddesign/2025/feb/12/henri-michaux-review-mescaline-courtauld-gallery)
-- [Rogue landlords in England to face curbs on housing benefit income, says Labour](https://www.theguardian.com/society/2025/feb/12/rogue-landlords-in-england-to-face-curbs-on-housing-benefit-income-says-labour)
-- [Many birds-of-paradise species emit light through their plumage, study finds](https://www.theguardian.com/environment/2025/feb/12/many-birds-of-paradise-species-emit-light-through-their-plumage-study-finds)
+- [Seven arrested over alleged sexual abuse ‘claim farming’ scheme that police say netted more than $1bn](https://www.theguardian.com/australia-news/2025/feb/13/seven-arrested-over-alleged-sexual-abuse-claim-farming-scheme-that-police-say-netted-more-than-1bn-ntwnfb)
+- [China’s coal power habit undercuts ‘unprecedented pace’ of clean energy](https://www.theguardian.com/world/2025/feb/13/china-coal-power-energy-production-quotas)
+- [Ukraine war briefing: Nothing about Ukraine without Ukraine, say European ministers](https://www.theguardian.com/world/2025/feb/13/ukraine-war-briefing-nothing-about-ukraine-without-ukraine-say-european-ministers)
+- [Grenade thrown into Grenoble bar injures 12, say French authorities](https://www.theguardian.com/world/2025/feb/13/france-grenade-blast-grenoble-injured)
+- [Labour will not release long-awaited industrial strategy until June](https://www.theguardian.com/politics/2025/feb/12/labour-postpones-long-awaited-industrial-strategy)
+- [‘Poverty is not a crime’: outrage after California city passes law targeting homeless encampments](https://www.theguardian.com/us-news/2025/feb/12/fremont-california-unhoused-law)
+- [More Life review – death-cheating tech drama is incredibly human](https://www.theguardian.com/stage/2025/feb/12/more-life-review-royal-court-theatre-london)
+- [X to pay Donald Trump $10m to settle lawsuit over Capitol attack – report](https://www.theguardian.com/us-news/2025/feb/12/x-donald-trump-lawsuit-capitol-attack)
+- [Championship roundup: Plymouth ride FA Cup fever to thrash Millwall 5-1](https://www.theguardian.com/football/2025/feb/12/championship-roundup-plymouth-ride-fa-cup-fever-to-thrash-millwall-5-1)
+- [Champions League: Feyenoord edge out Milan, Club Brugge defeat Atalanta](https://www.theguardian.com/football/2025/feb/12/champions-league-feyenoord-edge-out-milan-club-brugge-defeat-atalanta)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

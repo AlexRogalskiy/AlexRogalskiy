@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Microsoft gives up on AR-for-Army gig, passes it to Anduril](https://www.theregister.com/2025/02/12/microsoft_gives_up_army_ivas/)
-- [Copilot Language Server SDK Is Now Available – GitHub Changelog](https://github.blog/changelog/2025-02-10-copilot-language-server-sdk-is-now-available/)
-- [Tesla opens Shanghai battery &quot;Megafactory&quot;, first Megapacks to Australia](https://reneweconomy.com.au/tesla-opens-shanghai-battery-megafactory-with-first-megapacks-on-their-way-to-australia/)
-- [Federal judge upholds Massachusetts automotive right-to-repair law](https://www.bostonglobe.com/2025/02/11/business/automotive-right-to-repair-federal-judge-approves/)
-- [Git Repository Integrity Solutions](https://gitlab.torproject.org/tpo/tpa/team/-/wikis/howto/gitlab#git-repository-integrity-solutions)
-- [What DeepSeek&#39;s Success Says About China&#39;s Ability to Nurture Talent](https://www.nytimes.com/2025/02/10/world/asia/china-deepseek-education.html)
-- [AGI Ruin: A List of Lethalities &lpar;2022&rpar;](https://www.lesswrong.com/posts/uMQ3cqWDPHhjtiesc/agi-ruin-a-list-of-lethalities)
-- [Advancements in Embedding-Based Retrieval at Pinterest Homefeed](https://medium.com/pinterest-engineering/advancements-in-embedding-based-retrieval-at-pinterest-homefeed-d7d7971a409e)
-- [TL;DW: Too Long; Didn&#39;t Watch Distill YouTube Videos to the Relevant Information](https://tldw.tube/)
-- [Opinion: Farewell to my American friends. It&#39;s over](https://vancouversun.com/news/opinion-farewell-america-pete-mcmartin)
+- [Sam Altman: &quot;50¢ of compute of a SWE Agent can yield &quot;$500 or $5k of work.&quot;](https://twitter.com/vitrupo/status/1889720371072696554/video/1)
+- [LA County teen and &quot;serial swatter&quot; gets prison time for &quot;swattings&quot;](https://www.cbsnews.com/losangeles/news/la-county-teen-and-serial-swatter-gets-prison-time-for-calls-with-fake-threats-of-bombs-shootings/)
+- [JPMorgan CEO Dimon derides in-office work pushback, demands efficiency](https://www.reuters.com/business/finance/jpmorgan-ceo-dimon-derides-in-office-work-pushback-demands-efficiency-2025-02-13/)
+- [Natural doesn&#39;t always mean better](https://www.bbc.com/future/article/20250210-the-appeal-to-nature-fallacy-why-natural-doesnt-always-mean-better)
+- [ByteDancejust dropped Goku AI, an open-source model for video generation](https://goku-ai.online/)
+- [What is a Build Tool and what does it do?](https://mill-build.org/blog/8-what-is-a-build-tool.html)
+- [Popular weight loss drug shows promise in reducing cravings for alcohol](https://today.usc.edu/popular-weight-loss-diabetes-drug-shows-promise-in-reducing-cravings-for-alcohol/)
+- [What Are the Best No KYC Crypto Exchanges in 2025?](https://monero.forex/anonymous-crypto-exchanges/)
+- [Google Lighthouse advises against embedding YouTube videos](https://developer.chrome.com/docs/lighthouse/performance/third-party-facades)
+- [How AI Visual Reasoning Works](https://spectrum.ieee.org/visual-reasoning-in-ai)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [How to professionally say](https://github.com/AkashRajpurohit/howtoprofessionallysay)
-- [Why cryptography is not based on NP-complete problems](https://blintzbase.com/posts/cryptography-is-not-based-on-np-hard-problems/)
-- [Wide Bandwidth High-Power Triboelectric Energy Harvesting by Scotch Tape](https://pubs.acs.org/doi/10.1021/acsomega.4c08590)
-- [Tiny JITs for a Faster FFI](https://railsatscale.com/2025-02-12-tiny-jits-for-a-faster-ffi/)
-- [Show HN: I made my own OS from scratch because I was bored](https://jotalea.com.ar/misc/jotaleaos/)
-- [The average CPU performance of PCs and notebooks fell for the first time](https://www.cpubenchmark.net/year-on-year.html)
-- [Show HN: yknotify – Notify when YubiKey needs touch on macOS](https://github.com/noperator/yknotify)
-- [Show HN: A no-build fullstack SSR TypeScript web framework](https://jsr.io/@fullsoak/fullsoak)
-- [Imapsync](https://imapsync.lamiral.info/)
-- [Automated Capability Discovery via Foundation Model Self-Exploration](https://arxiv.org/abs/2502.07577)
+- [Apple Resumes Advertising on X](https://daringfireball.net/linked/2025/02/12/apple-advertising-x)
+- [Ted Cruz &quot;Woke&quot; NSF DEI Grants](https://ramadda.org/repository/entry/show?entryid=b4a2c7ea-4652-44d8-8003-93d5ade529be)
+- [Doctor Droid &lpar;YC W23&rpar; Is Hiring a Back End Engineer](https://www.ycombinator.com/companies/doctor-droid/jobs/F0iI9UU-backend-engineer-assignment-in-description)
+- [CDC Study Finds Silent Bird Flu Infections in Dairy Veterinarians](https://www.nytimes.com/2025/02/13/science/cdc-bird-flu-infections.html)
+- [We are the &quot;thin blue line&quot; that is trying to keep the code high quality](https://lore.kernel.org/lkml/20250208204416.GL1130956@mit.edu/)
+- [MIT evolves virtual eye from scratch](https://eyes.mit.edu/)
+- [The OBS Project is threatening Fedora Linux with legal action](https://gitlab.com/fedora/sigs/flatpak/fedora-flatpaks/-/issues/39#note_2344970813)
+- [LM2: Large Memory Models](https://arxiv.org/abs/2502.06049)
+- [OpenAI scrubs diversity commitment web page from its site](https://techcrunch.com/2025/02/13/openai-scrubs-diversity-commitment-web-page-from-its-site/)
+- [Open Source Software and Corporate Influence](https://www.alilleybrinker.com/blog/open-source-software-and-corporate-influence/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

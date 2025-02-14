@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Sam Altman: &quot;50¢ of compute of a SWE Agent can yield &quot;$500 or $5k of work.&quot;](https://twitter.com/vitrupo/status/1889720371072696554/video/1)
-- [LA County teen and &quot;serial swatter&quot; gets prison time for &quot;swattings&quot;](https://www.cbsnews.com/losangeles/news/la-county-teen-and-serial-swatter-gets-prison-time-for-calls-with-fake-threats-of-bombs-shootings/)
-- [JPMorgan CEO Dimon derides in-office work pushback, demands efficiency](https://www.reuters.com/business/finance/jpmorgan-ceo-dimon-derides-in-office-work-pushback-demands-efficiency-2025-02-13/)
-- [Natural doesn&#39;t always mean better](https://www.bbc.com/future/article/20250210-the-appeal-to-nature-fallacy-why-natural-doesnt-always-mean-better)
-- [ByteDancejust dropped Goku AI, an open-source model for video generation](https://goku-ai.online/)
-- [What is a Build Tool and what does it do?](https://mill-build.org/blog/8-what-is-a-build-tool.html)
-- [Popular weight loss drug shows promise in reducing cravings for alcohol](https://today.usc.edu/popular-weight-loss-diabetes-drug-shows-promise-in-reducing-cravings-for-alcohol/)
-- [What Are the Best No KYC Crypto Exchanges in 2025?](https://monero.forex/anonymous-crypto-exchanges/)
-- [Google Lighthouse advises against embedding YouTube videos](https://developer.chrome.com/docs/lighthouse/performance/third-party-facades)
-- [How AI Visual Reasoning Works](https://spectrum.ieee.org/visual-reasoning-in-ai)
+- [ChatGPT may not be as power-hungry as once assumed](https://techcrunch.com/2025/02/11/chatgpt-may-not-be-as-power-hungry-as-once-assumed/)
+- [John Resig on Using Cloudflare Workers](https://twitter.com/jeresig/status/1890200928088912325)
+- [Power Distance](https://en.wikipedia.org/wiki/Power_distance)
+- [Apple and Google restore TikTok to app stores](https://www.nbcnews.com/news/us-news/apple-google-tiktok-app-stores-rcna192154)
+- [A Nokia sale of Mobile, to the US, would be nuts](https://www.lightreading.com/5g/a-nokia-sale-of-mobile-especially-to-the-us-would-be-nuts)
+- [WordPress Offers 100 Year Domain Name Registrations](https://wordpress.com/blog/100-year-domains-plans/)
+- [Stuck in a Rut? Here&#39;s Your Way Out](https://lelouch.dev/blog/escaping-rut/)
+- [Google Trends: Washington DC Searches Soar for IBAN, SwissBank, etc.](https://trends.google.com/trends/explore?date=today%203-m&geo=US-DC&q=swiss%20bank,offshore%20bank,wire%20money,iban&hl=en)
+- [UK drops &#39;safety&#39; from its AI body, now called AI Security Institute](https://techcrunch.com/2025/02/13/uk-drops-safety-from-its-ai-body-now-called-ai-security-institute-inks-mou-with-anthropic/)
+- [Xiaomi SU7 Ultra Overtook Porsche Taycan Turbo GT at Shanghai Int&#39;l Circuit](https://twitter.com/LewisSun1/status/1890213110499439094)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

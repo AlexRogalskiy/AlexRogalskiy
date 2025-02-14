@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Seven arrested over alleged sexual abuse ‘claim farming’ scheme that police say netted more than $1bn](https://www.theguardian.com/australia-news/2025/feb/13/seven-arrested-over-alleged-sexual-abuse-claim-farming-scheme-that-police-say-netted-more-than-1bn-ntwnfb)
-- [China’s coal power habit undercuts ‘unprecedented pace’ of clean energy](https://www.theguardian.com/world/2025/feb/13/china-coal-power-energy-production-quotas)
-- [Ukraine war briefing: Nothing about Ukraine without Ukraine, say European ministers](https://www.theguardian.com/world/2025/feb/13/ukraine-war-briefing-nothing-about-ukraine-without-ukraine-say-european-ministers)
-- [Grenade thrown into Grenoble bar injures 12, say French authorities](https://www.theguardian.com/world/2025/feb/13/france-grenade-blast-grenoble-injured)
-- [Labour will not release long-awaited industrial strategy until June](https://www.theguardian.com/politics/2025/feb/12/labour-postpones-long-awaited-industrial-strategy)
-- [‘Poverty is not a crime’: outrage after California city passes law targeting homeless encampments](https://www.theguardian.com/us-news/2025/feb/12/fremont-california-unhoused-law)
-- [More Life review – death-cheating tech drama is incredibly human](https://www.theguardian.com/stage/2025/feb/12/more-life-review-royal-court-theatre-london)
-- [X to pay Donald Trump $10m to settle lawsuit over Capitol attack – report](https://www.theguardian.com/us-news/2025/feb/12/x-donald-trump-lawsuit-capitol-attack)
-- [Championship roundup: Plymouth ride FA Cup fever to thrash Millwall 5-1](https://www.theguardian.com/football/2025/feb/12/championship-roundup-plymouth-ride-fa-cup-fever-to-thrash-millwall-5-1)
-- [Champions League: Feyenoord edge out Milan, Club Brugge defeat Atalanta](https://www.theguardian.com/football/2025/feb/12/champions-league-feyenoord-edge-out-milan-club-brugge-defeat-atalanta)
+- [Trump administration directs federal agencies to fire all probationary employees – live](https://www.theguardian.com/us-news/live/2025/feb/13/rfk-lutnick-trump-musk-putin-ukraine-us-politics-live-news)
+- [Centrefolded: Japan’s ‘porn disposal’ boxes phased out amid rise of the internet](https://www.theguardian.com/world/2025/feb/14/japan-porn-disposal-boxes-phased-out-internet-pornography)
+- [Ukraine war briefing: Stray Russian drones ‘hit Moldova and Romania’](https://www.theguardian.com/world/2025/feb/14/ukraine-war-briefing-stray-russian-drones-hit-moldova-and-romania)
+- [Littler holds nerve to beat Humphries on night two of Premier League](https://www.theguardian.com/sport/2025/feb/14/littler-holds-nerve-to-beat-humphries-on-night-two-of-premier-league)
+- [Unicorn review – Nicola Walker and Stephen Mangan’s throuple comedy doesn’t catch fire](https://www.theguardian.com/stage/2025/feb/14/unicorn-review-nicola-walker-and-stephen-mangan-throuple-comedy-doesnt-catch-fire)
+- [The opera singer with one of the rarest voices in the world: ‘Being on stage is not easy’](https://www.theguardian.com/music/2025/feb/14/samuel-marino-australian-brandenburg-orchestra-sydney-melbourne-tour-interview)
+- [Smell like an Egyptian: researchers sniff ancient mummies to study preservation](https://www.theguardian.com/science/2025/feb/14/smell-like-an-egyptian-researchers-sniff-ancient-mummies-to-study-preservation)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2025/feb/14/premier-league-10-things-to-look-out-for-this-weekend)
+- [Can AI teach us anything about our subconscious? I offered up my dreams to find out | Tara Kenny](https://www.theguardian.com/commentisfree/2025/feb/14/can-ai-teach-us-anything-about-our-subconscious-i-offered-up-my-dreams-to-find-out)
+- [Leigh shock Wigan in extra time after first 0-0 draw in Super League history](https://www.theguardian.com/sport/2025/feb/13/wigan-warriors-leigh-leopards-super-league-match-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

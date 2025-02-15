@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Trump administration directs federal agencies to fire all probationary employees – live](https://www.theguardian.com/us-news/live/2025/feb/13/rfk-lutnick-trump-musk-putin-ukraine-us-politics-live-news)
-- [Centrefolded: Japan’s ‘porn disposal’ boxes phased out amid rise of the internet](https://www.theguardian.com/world/2025/feb/14/japan-porn-disposal-boxes-phased-out-internet-pornography)
-- [Ukraine war briefing: Stray Russian drones ‘hit Moldova and Romania’](https://www.theguardian.com/world/2025/feb/14/ukraine-war-briefing-stray-russian-drones-hit-moldova-and-romania)
-- [Littler holds nerve to beat Humphries on night two of Premier League](https://www.theguardian.com/sport/2025/feb/14/littler-holds-nerve-to-beat-humphries-on-night-two-of-premier-league)
-- [Unicorn review – Nicola Walker and Stephen Mangan’s throuple comedy doesn’t catch fire](https://www.theguardian.com/stage/2025/feb/14/unicorn-review-nicola-walker-and-stephen-mangan-throuple-comedy-doesnt-catch-fire)
-- [The opera singer with one of the rarest voices in the world: ‘Being on stage is not easy’](https://www.theguardian.com/music/2025/feb/14/samuel-marino-australian-brandenburg-orchestra-sydney-melbourne-tour-interview)
-- [Smell like an Egyptian: researchers sniff ancient mummies to study preservation](https://www.theguardian.com/science/2025/feb/14/smell-like-an-egyptian-researchers-sniff-ancient-mummies-to-study-preservation)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2025/feb/14/premier-league-10-things-to-look-out-for-this-weekend)
-- [Can AI teach us anything about our subconscious? I offered up my dreams to find out | Tara Kenny](https://www.theguardian.com/commentisfree/2025/feb/14/can-ai-teach-us-anything-about-our-subconscious-i-offered-up-my-dreams-to-find-out)
-- [Leigh shock Wigan in extra time after first 0-0 draw in Super League history](https://www.theguardian.com/sport/2025/feb/13/wigan-warriors-leigh-leopards-super-league-match-report)
+- [Woman who accused Jay-Z and Sean ‘Diddy’ Combs of rape drops case](https://www.theguardian.com/music/2025/feb/14/jay-z-sean-combs-jane-doe)
+- [Southport killer’s sentence will not be referred to court of appeal](https://www.theguardian.com/uk-news/2025/feb/15/southport-killers-sentence-will-not-be-referred-to-court-of-appeal)
+- [Trump and Vance are courting Europe’s far right to spread their political gospel](https://www.theguardian.com/us-news/2025/feb/14/trump-vance-europe-far-right)
+- [Luxury London hotel Chiltern Firehouse evacuated after fire breaks out](https://www.theguardian.com/uk-news/2025/feb/14/londons-chiltern-firehouse-evacuated-after-blaze-breaks-out)
+- [OpenAI rejects $97.4bn Musk bid and says company is not for sale](https://www.theguardian.com/technology/2025/feb/14/openai-elon-musk)
+- [New Derby manager John Eustace off to awful start with thrashing by QPR](https://www.theguardian.com/football/2025/feb/14/new-manager-john-eustace-off-to-awful-start-as-derby-are-thrashed-by-qpr)
+- [Funboys review – some of the most fearless comedy in years](https://www.theguardian.com/tv-and-radio/2025/feb/14/funboys-review-a-gentle-charming-brutally-harrowing-comedy-gem)
+- [Mitoma and Minteh’s magic inspires Brighton to emphatic win over Chelsea](https://www.theguardian.com/football/2025/feb/14/brighton-chelsea-premier-league-match-report)
+- [Hot Milk review – Fiona Shaw a fierce fly in simmering erotic soup](https://www.theguardian.com/film/2025/feb/14/hot-milk-review-fiona-shaw-deborah-levy-berlin-film-festival)
+- [Trump agrees to ‘friendly meeting’ with Keir Starmer after making surprise call](https://www.theguardian.com/us-news/2025/feb/14/starmer-takes-call-trump-meeting-envoy-mark-burnett-apprentice)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

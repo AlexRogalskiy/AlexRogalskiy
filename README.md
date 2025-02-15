@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Apple Resumes Advertising on X](https://daringfireball.net/linked/2025/02/12/apple-advertising-x)
-- [Ted Cruz &quot;Woke&quot; NSF DEI Grants](https://ramadda.org/repository/entry/show?entryid=b4a2c7ea-4652-44d8-8003-93d5ade529be)
-- [Doctor Droid &lpar;YC W23&rpar; Is Hiring a Back End Engineer](https://www.ycombinator.com/companies/doctor-droid/jobs/F0iI9UU-backend-engineer-assignment-in-description)
-- [CDC Study Finds Silent Bird Flu Infections in Dairy Veterinarians](https://www.nytimes.com/2025/02/13/science/cdc-bird-flu-infections.html)
-- [We are the &quot;thin blue line&quot; that is trying to keep the code high quality](https://lore.kernel.org/lkml/20250208204416.GL1130956@mit.edu/)
-- [MIT evolves virtual eye from scratch](https://eyes.mit.edu/)
-- [The OBS Project is threatening Fedora Linux with legal action](https://gitlab.com/fedora/sigs/flatpak/fedora-flatpaks/-/issues/39#note_2344970813)
-- [LM2: Large Memory Models](https://arxiv.org/abs/2502.06049)
-- [OpenAI scrubs diversity commitment web page from its site](https://techcrunch.com/2025/02/13/openai-scrubs-diversity-commitment-web-page-from-its-site/)
-- [Open Source Software and Corporate Influence](https://www.alilleybrinker.com/blog/open-source-software-and-corporate-influence/)
+- [The IRS Is Buying an AI Supercomputer from Nvidia](https://theintercept.com/2025/02/14/irs-ai-nvidia-tax/)
+- [Did Semgrep Just Get a Lot More Interesting?](https://fly.io/blog/semgrep-but-for-real-now/)
+- [Wyden Releases Draft Bill to Secure Americans&#39; Communications](https://www.wyden.senate.gov/news/press-releases/wyden-releases-draft-bill-to-secure-americans-communications-against-foreign-surveillance-demands)
+- [Msxbook OneChipMSX MSX2 Computer](https://www.tindie.com/products/cycle/msxbook-onechipmsx-msx2-computer/)
+- [Integrating AI](https://scott-fryxell.github.io/blog/AI-imagination/)
+- [Mathics3 Live Shell](https://mathics3.github.io/Mathics3-live/)
+- [Show HN: VimLM – A Local, Offline Coding Assistant for Vim](https://github.com/JosefAlbers/VimLM)
+- [A decade later, a decade lost &lpar;2024&rpar;](https://meyerweb.com/eric/thoughts/2024/06/07/a-decade-later-a-decade-lost/)
+- [If you ever stacked cups in gym class, blame my dad](https://defector.com/if-you-ever-stacked-cups-in-gym-class-blame-my-dad)
+- [We were wrong about GPUs](https://fly.io/blog/wrong-about-gpu/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

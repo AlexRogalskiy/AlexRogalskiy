@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [ChatGPT may not be as power-hungry as once assumed](https://techcrunch.com/2025/02/11/chatgpt-may-not-be-as-power-hungry-as-once-assumed/)
-- [John Resig on Using Cloudflare Workers](https://twitter.com/jeresig/status/1890200928088912325)
-- [Power Distance](https://en.wikipedia.org/wiki/Power_distance)
-- [Apple and Google restore TikTok to app stores](https://www.nbcnews.com/news/us-news/apple-google-tiktok-app-stores-rcna192154)
-- [A Nokia sale of Mobile, to the US, would be nuts](https://www.lightreading.com/5g/a-nokia-sale-of-mobile-especially-to-the-us-would-be-nuts)
-- [WordPress Offers 100 Year Domain Name Registrations](https://wordpress.com/blog/100-year-domains-plans/)
-- [Stuck in a Rut? Here&#39;s Your Way Out](https://lelouch.dev/blog/escaping-rut/)
-- [Google Trends: Washington DC Searches Soar for IBAN, SwissBank, etc.](https://trends.google.com/trends/explore?date=today%203-m&geo=US-DC&q=swiss%20bank,offshore%20bank,wire%20money,iban&hl=en)
-- [UK drops &#39;safety&#39; from its AI body, now called AI Security Institute](https://techcrunch.com/2025/02/13/uk-drops-safety-from-its-ai-body-now-called-ai-security-institute-inks-mou-with-anthropic/)
-- [Xiaomi SU7 Ultra Overtook Porsche Taycan Turbo GT at Shanghai Int&#39;l Circuit](https://twitter.com/LewisSun1/status/1890213110499439094)
+- [Hoover Institution: How Should the US Economy Adapt to the AI Boom? [video]](https://www.youtube.com/watch?v=__DInZ7STb8)
+- [SeekTool AI Tools Directory](https://seektool.ai)
+- [Why We&#39;re Falling Out of Love with Tesla](https://worldcrunch.com/business-finance/tesla-sales-musk)
+- [Comrades: A Revolutionary RPG](https://rollingboxcars.com/2021/01/14/how-we-used-to-fight-a-review-of-comrades-a-revolutionary-rpg/)
+- [LPCAMM2 Will Bring Faster, Upgradable RAM Memory to Some Laptops &lpar;2024&rpar;](https://www.cnet.com/tech/computing/lpcamm2-will-bring-faster-upgradable-memory-to-some-laptops/)
+- [A Golden Age for University Presses](https://www.chronicle.com/article/this-is-a-golden-age-for-university-presses)
+- [I rebuilt ProseMirror&#39;s renderer in React](https://smoores.dev/post/why_i_rebuilt_prosemirror_view/)
+- [Logic of Small Teams](https://belowwaterlevel.com/2025/02/13/logic-of-small-teams/)
+- [Why Employees Stop Speaking Up – and What Leaders Don&#39;t See](https://series.live/how-workplace-culture-conditions-employees-without-anyone-noticing/)
+- [The effect of size on partner sexual satisfaction: a literature review](https://pubmed.ncbi.nlm.nih.gov/36307732/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

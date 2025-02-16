@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Woman who accused Jay-Z and Sean ‘Diddy’ Combs of rape drops case](https://www.theguardian.com/music/2025/feb/14/jay-z-sean-combs-jane-doe)
-- [Southport killer’s sentence will not be referred to court of appeal](https://www.theguardian.com/uk-news/2025/feb/15/southport-killers-sentence-will-not-be-referred-to-court-of-appeal)
-- [Trump and Vance are courting Europe’s far right to spread their political gospel](https://www.theguardian.com/us-news/2025/feb/14/trump-vance-europe-far-right)
-- [Luxury London hotel Chiltern Firehouse evacuated after fire breaks out](https://www.theguardian.com/uk-news/2025/feb/14/londons-chiltern-firehouse-evacuated-after-blaze-breaks-out)
-- [OpenAI rejects $97.4bn Musk bid and says company is not for sale](https://www.theguardian.com/technology/2025/feb/14/openai-elon-musk)
-- [New Derby manager John Eustace off to awful start with thrashing by QPR](https://www.theguardian.com/football/2025/feb/14/new-manager-john-eustace-off-to-awful-start-as-derby-are-thrashed-by-qpr)
-- [Funboys review – some of the most fearless comedy in years](https://www.theguardian.com/tv-and-radio/2025/feb/14/funboys-review-a-gentle-charming-brutally-harrowing-comedy-gem)
-- [Mitoma and Minteh’s magic inspires Brighton to emphatic win over Chelsea](https://www.theguardian.com/football/2025/feb/14/brighton-chelsea-premier-league-match-report)
-- [Hot Milk review – Fiona Shaw a fierce fly in simmering erotic soup](https://www.theguardian.com/film/2025/feb/14/hot-milk-review-fiona-shaw-deborah-levy-berlin-film-festival)
-- [Trump agrees to ‘friendly meeting’ with Keir Starmer after making surprise call](https://www.theguardian.com/us-news/2025/feb/14/starmer-takes-call-trump-meeting-envoy-mark-burnett-apprentice)
+- [Muhsin Hendricks, world’s ‘first openly gay imam’, shot dead in South Africa](https://www.theguardian.com/world/2025/feb/16/muhsin-hendricks-worlds-first-openly-gay-imam-shot-dead-in-south-africa)
+- [The edit: 20 of the best cardigans – in pictures](https://www.theguardian.com/fashion/gallery/2025/feb/15/the-edit-20-of-the-best-cardigans-in-pictures)
+- [Britain’s Anna Morris wins European track cycling gold in world record time](https://www.theguardian.com/sport/2025/feb/15/britains-anna-morris-smashes-individual-pursuit-world-record-at-european-championships)
+- [Ruben Amorim takes responsibility for big job cuts at Manchester United](https://www.theguardian.com/football/2025/feb/15/ruben-amorim-manchester-united-football-premier-league)
+- [At least 15 people die in crowd crush at New Delhi railway station](https://www.theguardian.com/world/2025/feb/15/at-least-15-people-die-in-crowd-crushes-at-new-dehli-railway-station)
+- [Dreams review – Jessica Chastain channels rich Americans whose charity comes with strings](https://www.theguardian.com/film/2025/feb/15/dreams-review-jessica-chastain)
+- [The Narrow Road to the Deep North first look review – Jacob Elordi’s war epic is big, bold and deeply pleasurable](https://www.theguardian.com/tv-and-radio/2025/feb/15/the-narrow-road-to-the-deep-north-first-look-review-jacob-elordi-war-epic-is-big-bold-and-deeply-pleasurable)
+- [Teenage boy dies and five injured in knife attack in Austria](https://www.theguardian.com/world/2025/feb/15/teenage-boy-dies-and-four-injured-in-knife-attack-in-austria)
+- [Jannik Sinner’s doping settlement means nobody loses from ban but try telling Halep that | Simon Cambers](https://www.theguardian.com/sport/2025/feb/15/jannik-sinners-doping-settlement-means-nobody-loses-but-try-telling-halep-that)
+- [What is the big idea? Levy’s second-class Tottenham Women mired in mediocrity | Jonathan Liew](https://www.theguardian.com/football/blog/2025/feb/15/what-is-the-big-idea-levys-second-class-tottenham-women-mired-in-mediocrity)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

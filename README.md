@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The IRS Is Buying an AI Supercomputer from Nvidia](https://theintercept.com/2025/02/14/irs-ai-nvidia-tax/)
-- [Did Semgrep Just Get a Lot More Interesting?](https://fly.io/blog/semgrep-but-for-real-now/)
-- [Wyden Releases Draft Bill to Secure Americans&#39; Communications](https://www.wyden.senate.gov/news/press-releases/wyden-releases-draft-bill-to-secure-americans-communications-against-foreign-surveillance-demands)
-- [Msxbook OneChipMSX MSX2 Computer](https://www.tindie.com/products/cycle/msxbook-onechipmsx-msx2-computer/)
-- [Integrating AI](https://scott-fryxell.github.io/blog/AI-imagination/)
-- [Mathics3 Live Shell](https://mathics3.github.io/Mathics3-live/)
-- [Show HN: VimLM – A Local, Offline Coding Assistant for Vim](https://github.com/JosefAlbers/VimLM)
-- [A decade later, a decade lost &lpar;2024&rpar;](https://meyerweb.com/eric/thoughts/2024/06/07/a-decade-later-a-decade-lost/)
-- [If you ever stacked cups in gym class, blame my dad](https://defector.com/if-you-ever-stacked-cups-in-gym-class-blame-my-dad)
-- [We were wrong about GPUs](https://fly.io/blog/wrong-about-gpu/)
+- [How Medical Research Cuts Would Hit Colleges and Hospitals in Every State](https://www.nytimes.com/interactive/2025/02/13/upshot/nih-trump-funding-cuts.html)
+- [GulfOfMexico: Perfect Programming Language](https://github.com/TodePond/GulfOfMexico)
+- [The Sims Game Design Documents &lpar;1997&rpar;](https://donhopkins.com/home/TheSimsDesignDocuments/)
+- [Show HN: Blunderchess.net – blunder for your opponent every five moves](https://blunderchess.net)
+- [Create a QubesOS Gaming HVM with GPU PCI passthrough &lpar;2023&rpar;](https://forum.qubes-os.org/t/create-a-gaming-hvm/19000)
+- [Jellyfin: The Free Software Media System](https://jellyfin.org/)
+- [Watt The Fox?](https://h.43z.one/blog/2025-02-12/)
+- [NASA has a list of 10 rules for software development](https://www.cs.otago.ac.nz/cosc345/resources/nasa-10-rules.htm)
+- [Perplexity Deep Research](https://www.perplexity.ai/hub/blog/introducing-perplexity-deep-research)
+- [My Life in Weeks](https://weeks.ginatrapani.org/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Hoover Institution: How Should the US Economy Adapt to the AI Boom? [video]](https://www.youtube.com/watch?v=__DInZ7STb8)
-- [SeekTool AI Tools Directory](https://seektool.ai)
-- [Why We&#39;re Falling Out of Love with Tesla](https://worldcrunch.com/business-finance/tesla-sales-musk)
-- [Comrades: A Revolutionary RPG](https://rollingboxcars.com/2021/01/14/how-we-used-to-fight-a-review-of-comrades-a-revolutionary-rpg/)
-- [LPCAMM2 Will Bring Faster, Upgradable RAM Memory to Some Laptops &lpar;2024&rpar;](https://www.cnet.com/tech/computing/lpcamm2-will-bring-faster-upgradable-memory-to-some-laptops/)
-- [A Golden Age for University Presses](https://www.chronicle.com/article/this-is-a-golden-age-for-university-presses)
-- [I rebuilt ProseMirror&#39;s renderer in React](https://smoores.dev/post/why_i_rebuilt_prosemirror_view/)
-- [Logic of Small Teams](https://belowwaterlevel.com/2025/02/13/logic-of-small-teams/)
-- [Why Employees Stop Speaking Up – and What Leaders Don&#39;t See](https://series.live/how-workplace-culture-conditions-employees-without-anyone-noticing/)
-- [The effect of size on partner sexual satisfaction: a literature review](https://pubmed.ncbi.nlm.nih.gov/36307732/)
+- [Can New York City Build Affordable Housing?](https://jacobin.com/2025/02/penn-south-nyc-housing-kazan/)
+- [Ask HN: What advantages do AI startups even have besides speed?](https://news.ycombinator.com/item?id=43064788)
+- [Energy Cheat Sheet](https://www.construction-physics.com/p/energy-cheat-sheet)
+- [Reading &quot;Invictus&quot;](https://domofutu.substack.com/p/reading-invictus)
+- [Fix the Gulf](https://fixthegulf.com/)
+- [Negotiation Cheat Sheet](https://www.yanda.com//negotiation)
+- [Neko Health – Fast full-body scans, cardiovascular assessments, and blood tests](https://www.nekohealth.com/gb/en)
+- [Elements of ML Programming, 2nd Edition: Key to Puns](http://infolab.stanford.edu/~ullman/emlp/puns.html)
+- [Testdisk – Open-Source Partition Recovery and File Undelete](https://www.cgsecurity.org/wiki/TestDisk)
+- [London Micro Grants](https://londonmicrogrants.org)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

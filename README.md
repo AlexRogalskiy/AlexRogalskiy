@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Can New York City Build Affordable Housing?](https://jacobin.com/2025/02/penn-south-nyc-housing-kazan/)
-- [Ask HN: What advantages do AI startups even have besides speed?](https://news.ycombinator.com/item?id=43064788)
-- [Energy Cheat Sheet](https://www.construction-physics.com/p/energy-cheat-sheet)
-- [Reading &quot;Invictus&quot;](https://domofutu.substack.com/p/reading-invictus)
-- [Fix the Gulf](https://fixthegulf.com/)
-- [Negotiation Cheat Sheet](https://www.yanda.com//negotiation)
-- [Neko Health – Fast full-body scans, cardiovascular assessments, and blood tests](https://www.nekohealth.com/gb/en)
-- [Elements of ML Programming, 2nd Edition: Key to Puns](http://infolab.stanford.edu/~ullman/emlp/puns.html)
-- [Testdisk – Open-Source Partition Recovery and File Undelete](https://www.cgsecurity.org/wiki/TestDisk)
-- [London Micro Grants](https://londonmicrogrants.org)
+- [Ask HN: Best Books for Security Researcher Opsec?](https://news.ycombinator.com/item?id=43074399)
+- [Ask HN: Facial Recognition Tools for Long-Term Identity Matching?](https://news.ycombinator.com/item?id=43074396)
+- [Machinery and Labor in the Early Industrial Revolution, and in the Age of AI [pdf]](https://shapingwork.mit.edu/wp-content/uploads/2024/04/Acemoglu_Johnson_April-2024.pdf)
+- [Show HN: Realtime HTML Rendering with LLMs](https://www.jerpint.io/blog/txt2html/)
+- [Ugandan runner Jacob Kiplimo completes first ever sub-57 minute half marathon](https://www.cnn.com/2025/02/16/sport/jacob-kiplimo-smashes-half-marathon-record-spt-intl/index.html)
+- [Shenzhen: China&#39;s City of the Future [video]](https://www.youtube.com/watch?v=VItBlmlWE4U)
+- [Javier Milei risks impeachment after endorsing $107M Libra rug pull](https://cointelegraph.com/news/javier-milei-risks-impeachment-107-m-libra-rug-pull)
+- [Quantum machine simulates universe&#39;s potential false vacuum decay](https://phys.org/news/2025-02-quantum-machine-simulates-universe-potential.html)
+- [PASS on Firing of Probationary Employees at FAA](https://www.passnational.org/index.php/news/873-pass-statement-on-firing-of-probationary-employees-at-faa)
+- [Stroustrup: Newsgroup Posting &lpar;1994&rpar;](https://www.stroustrup.com/blast.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

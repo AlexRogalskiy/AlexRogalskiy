@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Muhsin Hendricks, world’s ‘first openly gay imam’, shot dead in South Africa](https://www.theguardian.com/world/2025/feb/16/muhsin-hendricks-worlds-first-openly-gay-imam-shot-dead-in-south-africa)
-- [The edit: 20 of the best cardigans – in pictures](https://www.theguardian.com/fashion/gallery/2025/feb/15/the-edit-20-of-the-best-cardigans-in-pictures)
-- [Britain’s Anna Morris wins European track cycling gold in world record time](https://www.theguardian.com/sport/2025/feb/15/britains-anna-morris-smashes-individual-pursuit-world-record-at-european-championships)
-- [Ruben Amorim takes responsibility for big job cuts at Manchester United](https://www.theguardian.com/football/2025/feb/15/ruben-amorim-manchester-united-football-premier-league)
-- [At least 15 people die in crowd crush at New Delhi railway station](https://www.theguardian.com/world/2025/feb/15/at-least-15-people-die-in-crowd-crushes-at-new-dehli-railway-station)
-- [Dreams review – Jessica Chastain channels rich Americans whose charity comes with strings](https://www.theguardian.com/film/2025/feb/15/dreams-review-jessica-chastain)
-- [The Narrow Road to the Deep North first look review – Jacob Elordi’s war epic is big, bold and deeply pleasurable](https://www.theguardian.com/tv-and-radio/2025/feb/15/the-narrow-road-to-the-deep-north-first-look-review-jacob-elordi-war-epic-is-big-bold-and-deeply-pleasurable)
-- [Teenage boy dies and five injured in knife attack in Austria](https://www.theguardian.com/world/2025/feb/15/teenage-boy-dies-and-four-injured-in-knife-attack-in-austria)
-- [Jannik Sinner’s doping settlement means nobody loses from ban but try telling Halep that | Simon Cambers](https://www.theguardian.com/sport/2025/feb/15/jannik-sinners-doping-settlement-means-nobody-loses-but-try-telling-halep-that)
-- [What is the big idea? Levy’s second-class Tottenham Women mired in mediocrity | Jonathan Liew](https://www.theguardian.com/football/blog/2025/feb/15/what-is-the-big-idea-levys-second-class-tottenham-women-mired-in-mediocrity)
+- [New Zealand’s ‘Everyone must go!’ tourism campaign ridiculed as emigration hits record high](https://www.theguardian.com/world/2025/feb/17/new-zealand-everyone-must-go-tourism-campaign-criticism-emigration)
+- [Explainer: what will the withdrawal of USAid mean for the Pacific?](https://www.theguardian.com/world/2025/feb/17/donald-trump-usaid-withdrawal-impact-pacific-explainer)
+- [UK firms mull biggest layoffs in a decade as business confidence slumps](https://www.theguardian.com/business/2025/feb/17/uk-firms-mull-biggest-layoffs-in-a-decade-as-business-confidence-slumps)
+- [Poorest UK households pay rising share of income on council tax, study finds](https://www.theguardian.com/business/2025/feb/17/uk-poorest-households-income-share-council-tax-resolution-foundation)
+- [Most NHS users in England affected by dysfunctional admin, report finds](https://www.theguardian.com/society/2025/feb/17/most-nhs-users-in-england-affected-by-dysfunctional-admin-report-finds)
+- [NHS England launches first advertising drive to boost breast cancer screenings](https://www.theguardian.com/society/2025/feb/17/nhs-england-launches-first-advertising-drive-to-boost-breast-cancer-screenings)
+- [Trump cuts reach FDA workers focused on food safety and medical devices](https://www.theguardian.com/us-news/2025/feb/16/trump-administration-fda-layoffs)
+- [Starmer ready to put British troops on the ground in Ukraine if peace deal reached](https://www.theguardian.com/uk-news/2025/feb/16/starmer-ready-to-put-british-troops-on-the-ground-in-ukraine-if-peace-deal-reached)
+- [Shakira cancels Lima concert after being hospitalised during global tour](https://www.theguardian.com/music/2025/feb/17/shakira-hospitalized-cancels-lima-peru-concert-2025-tour)
+- [Baftas after-parties: Pamela Anderson, Selena Gomez and Ariana Grande – in pictures](https://www.theguardian.com/film/gallery/2025/feb/16/baftas-after-parties-pamela-anderson-selena-gomez-and-kate-winslet-in-pictures)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

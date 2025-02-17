@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [How Medical Research Cuts Would Hit Colleges and Hospitals in Every State](https://www.nytimes.com/interactive/2025/02/13/upshot/nih-trump-funding-cuts.html)
-- [GulfOfMexico: Perfect Programming Language](https://github.com/TodePond/GulfOfMexico)
-- [The Sims Game Design Documents &lpar;1997&rpar;](https://donhopkins.com/home/TheSimsDesignDocuments/)
-- [Show HN: Blunderchess.net – blunder for your opponent every five moves](https://blunderchess.net)
-- [Create a QubesOS Gaming HVM with GPU PCI passthrough &lpar;2023&rpar;](https://forum.qubes-os.org/t/create-a-gaming-hvm/19000)
-- [Jellyfin: The Free Software Media System](https://jellyfin.org/)
-- [Watt The Fox?](https://h.43z.one/blog/2025-02-12/)
-- [NASA has a list of 10 rules for software development](https://www.cs.otago.ac.nz/cosc345/resources/nasa-10-rules.htm)
-- [Perplexity Deep Research](https://www.perplexity.ai/hub/blog/introducing-perplexity-deep-research)
-- [My Life in Weeks](https://weeks.ginatrapani.org/)
+- [Javier Milei risks impeachment after endorsing $107M Libra rug pull](https://cointelegraph.com/news/javier-milei-risks-impeachment-107-m-libra-rug-pull)
+- [The human mind is in a recession](https://www.ft.com/content/c288abc6-24a4-4062-aeb4-05c463ae7289)
+- [Elon Musk&#39;s terrifying vision for AI](https://garymarcus.substack.com/p/elon-musks-terrifying-vision-for)
+- [Did the Windows 95 setup team forget that MS-DOS can do graphics?](https://devblogs.microsoft.com/oldnewthing/20250211-00/?p=110862)
+- [All Kindles can now be jailbroken](https://old.reddit.com/r/kindle/comments/1hrwytr/all_kindles_can_now_be_jailbroken/)
+- [YouTube asks channel owner to verify phone, permanently overwrites personal info](https://www.reddit.com/r/VirtualYoutubers/s/iJ1W7JUN2T)
+- [Oklch in CSS: why we moved from RGB and HSL](https://evilmartians.com/chronicles/oklch-in-css-why-quit-rgb-hsl)
+- [Homemade polarimetric synthetic aperture radar drone](https://hforsten.com/homemade-polarimetric-synthetic-aperture-radar-drone.html)
+- [Why bother with privacy when I have nothing to hide? &lpar;2023&rpar;](https://hannahonprivacy.substack.com/p/why-bother-with-privacy-when-i-have)
+- [Uchū · the color scheme for internet lovers](https://uchu.style)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

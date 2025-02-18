@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Javier Milei risks impeachment after endorsing $107M Libra rug pull](https://cointelegraph.com/news/javier-milei-risks-impeachment-107-m-libra-rug-pull)
-- [The human mind is in a recession](https://www.ft.com/content/c288abc6-24a4-4062-aeb4-05c463ae7289)
-- [Elon Musk&#39;s terrifying vision for AI](https://garymarcus.substack.com/p/elon-musks-terrifying-vision-for)
-- [Did the Windows 95 setup team forget that MS-DOS can do graphics?](https://devblogs.microsoft.com/oldnewthing/20250211-00/?p=110862)
-- [All Kindles can now be jailbroken](https://old.reddit.com/r/kindle/comments/1hrwytr/all_kindles_can_now_be_jailbroken/)
-- [YouTube asks channel owner to verify phone, permanently overwrites personal info](https://www.reddit.com/r/VirtualYoutubers/s/iJ1W7JUN2T)
-- [Oklch in CSS: why we moved from RGB and HSL](https://evilmartians.com/chronicles/oklch-in-css-why-quit-rgb-hsl)
-- [Homemade polarimetric synthetic aperture radar drone](https://hforsten.com/homemade-polarimetric-synthetic-aperture-radar-drone.html)
-- [Why bother with privacy when I have nothing to hide? &lpar;2023&rpar;](https://hannahonprivacy.substack.com/p/why-bother-with-privacy-when-i-have)
-- [Uchū · the color scheme for internet lovers](https://uchu.style)
+- [&#39;Honestly terrifying&#39;: Yosemite National Park is in chaos](https://www.sfgate.com/california-parks/article/yosemite-national-park-in-chaos-20163260.php)
+- [Dedekind&#39;s Subtle Knife](https://mathenchant.wordpress.com/2025/02/17/dedekinds-subtle-knife/)
+- [On David Lynch&#39;s Revenge of the Jedi](https://www.benningtonreview.org/adam-golaski)
+- [Police arrest apparent leader of cultlike &#39;Zizian&#39; group linked to killings](https://www.pressdemocrat.com/article/trending/police-arrest-apparent-leader-of-cultlike-zizian-group-linked-to-multiple/)
+- [List of DRM-Free Bookshops](https://libreture.com/bookshops/)
+- [Setting up a trusted, self-signed SSL/TLS certificate authority in Linux](https://previnder.com/tls-ca-linux/)
+- [Find Your 2%Ers](https://joyarbitrage.substack.com/p/find-your-2ers)
+- [NLRB acting general counsel rescinds non-compete labor policy](https://natlawreview.com/article/nlrb-acting-general-counsel-rescinds-non-compete-labor-policy)
+- [TestRigor &lpar;YC S21&rpar; Is Hiring VP of Engineering](https://www.ycombinator.com/companies/testrigor/jobs/AuTkpC9-vp-of-engineering)
+- [Privacy Is Not Dead: Beware the All-or-Nothing Mindset](https://www.privacyguides.org/articles/2025/02/17/privacy-is-not-dead/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

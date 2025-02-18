@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [New Zealand’s ‘Everyone must go!’ tourism campaign ridiculed as emigration hits record high](https://www.theguardian.com/world/2025/feb/17/new-zealand-everyone-must-go-tourism-campaign-criticism-emigration)
-- [Explainer: what will the withdrawal of USAid mean for the Pacific?](https://www.theguardian.com/world/2025/feb/17/donald-trump-usaid-withdrawal-impact-pacific-explainer)
-- [UK firms mull biggest layoffs in a decade as business confidence slumps](https://www.theguardian.com/business/2025/feb/17/uk-firms-mull-biggest-layoffs-in-a-decade-as-business-confidence-slumps)
-- [Poorest UK households pay rising share of income on council tax, study finds](https://www.theguardian.com/business/2025/feb/17/uk-poorest-households-income-share-council-tax-resolution-foundation)
-- [Most NHS users in England affected by dysfunctional admin, report finds](https://www.theguardian.com/society/2025/feb/17/most-nhs-users-in-england-affected-by-dysfunctional-admin-report-finds)
-- [NHS England launches first advertising drive to boost breast cancer screenings](https://www.theguardian.com/society/2025/feb/17/nhs-england-launches-first-advertising-drive-to-boost-breast-cancer-screenings)
-- [Trump cuts reach FDA workers focused on food safety and medical devices](https://www.theguardian.com/us-news/2025/feb/16/trump-administration-fda-layoffs)
-- [Starmer ready to put British troops on the ground in Ukraine if peace deal reached](https://www.theguardian.com/uk-news/2025/feb/16/starmer-ready-to-put-british-troops-on-the-ground-in-ukraine-if-peace-deal-reached)
-- [Shakira cancels Lima concert after being hospitalised during global tour](https://www.theguardian.com/music/2025/feb/17/shakira-hospitalized-cancels-lima-peru-concert-2025-tour)
-- [Baftas after-parties: Pamela Anderson, Selena Gomez and Ariana Grande – in pictures](https://www.theguardian.com/film/gallery/2025/feb/16/baftas-after-parties-pamela-anderson-selena-gomez-and-kate-winslet-in-pictures)
+- [Ukraine war briefing: Zelenskyy rejects ‘quick win’ ceasefire sought by US](https://www.theguardian.com/world/2025/feb/18/ukraine-war-briefing-zelenskyy-rejects-quick-win-ceasefire-sought-by-us)
+- [Alleged leader of cultlike ‘Zizian’ group arrested in Maryland](https://www.theguardian.com/us-news/2025/feb/18/jack-lasota-alleged-cult-like-group-zizian-arrest-maryland)
+- [Irish figures show €6bn drop in trade with Great Britain](https://www.theguardian.com/world/2025/feb/17/irish-figures-show-6bn-drop-in-trade-with-great-britain)
+- [E-scooters blamed for big jump in children caught in UK driving without insurance](https://www.theguardian.com/world/2025/feb/18/e-scooters-blamed-for-big-jump-in-children-caught-in-uk-driving-without-insurance)
+- [Support for ESG proposals at record low driven by US investors, report shows](https://www.theguardian.com/business/2025/feb/18/support-for-esg-proposals-at-record-low-driven-by-us-investors-report-shows)
+- [Prison system crisis due to overreliance on long sentences, says Gauke review](https://www.theguardian.com/law/2025/feb/18/prison-system-crisis-due-to-overreliance-on-long-sentences-says-gauke-review)
+- [Novak Djokovic laments ‘favouritism’ towards Jannik Sinner over doping ban](https://www.theguardian.com/sport/2025/feb/17/novak-djokovic-laments-favouritism-towards-jannik-sinner-over-doping-ban)
+- [At least 18 injured after plane crashes and flips on landing in Toronto](https://www.theguardian.com/world/2025/feb/17/plane-crashes-at-toronto-airport-with-reports-of-people-injured-canada-delta)
+- [Chiltern Firehouse luxury hotel blaze caused by falling wood from pizza oven](https://www.theguardian.com/uk-news/2025/feb/17/chiltern-firehouse-luxury-hotel-blaze-caused-by-falling-wood-from-pizza-oven)
+- [US ‘backstop’ vital to deter future Russian attacks on Ukraine, says Starmer](https://www.theguardian.com/world/2025/feb/17/starmer-urges-trump-to-provide-backstop-to-european-peacekeeping-force-in-ukraine)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

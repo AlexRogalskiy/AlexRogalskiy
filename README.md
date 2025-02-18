@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ask HN: Best Books for Security Researcher Opsec?](https://news.ycombinator.com/item?id=43074399)
-- [Ask HN: Facial Recognition Tools for Long-Term Identity Matching?](https://news.ycombinator.com/item?id=43074396)
-- [Machinery and Labor in the Early Industrial Revolution, and in the Age of AI [pdf]](https://shapingwork.mit.edu/wp-content/uploads/2024/04/Acemoglu_Johnson_April-2024.pdf)
-- [Show HN: Realtime HTML Rendering with LLMs](https://www.jerpint.io/blog/txt2html/)
-- [Ugandan runner Jacob Kiplimo completes first ever sub-57 minute half marathon](https://www.cnn.com/2025/02/16/sport/jacob-kiplimo-smashes-half-marathon-record-spt-intl/index.html)
-- [Shenzhen: China&#39;s City of the Future [video]](https://www.youtube.com/watch?v=VItBlmlWE4U)
-- [Javier Milei risks impeachment after endorsing $107M Libra rug pull](https://cointelegraph.com/news/javier-milei-risks-impeachment-107-m-libra-rug-pull)
-- [Quantum machine simulates universe&#39;s potential false vacuum decay](https://phys.org/news/2025-02-quantum-machine-simulates-universe-potential.html)
-- [PASS on Firing of Probationary Employees at FAA](https://www.passnational.org/index.php/news/873-pass-statement-on-firing-of-probationary-employees-at-faa)
-- [Stroustrup: Newsgroup Posting &lpar;1994&rpar;](https://www.stroustrup.com/blast.html)
+- [More Efficient Chain-of-Thought Reasoning Through Certainty Probing](https://huggingface.co/spaces/Dynasor-CoT/dynasor)
+- [A web platform for using YouTube as a drum sequencer](https://youtubesequencer.com/)
+- [Top Social Security Official Leaves After Musk Team Seeks Data Access](https://www.nytimes.com/2025/02/17/us/politics/social-security-musk-team-access.html)
+- [10% of staff at US CDC told they would lose their jobs](https://www.npr.org/sections/shots-health-news/2025/02/17/nx-s1-5300052/federal-employees-layoffs-cdc-nih-fda)
+- [AlphaGeometry2: Impressive accomplishment, but still a long path ahead](https://garymarcus.substack.com/p/alphageometry2-impressive-accomplishment)
+- [All about thread-local storage &lpar;2021, updated 02-2025&rpar;](https://maskray.me/blog/2021-02-14-all-about-thread-local-storage)
+- [Brazil asks UN to ditch proposed levy on global shipping](https://www.theguardian.com/world/2025/feb/17/brazil-asks-un-to-ditch-proposed-levy-on-global-shipping)
+- [New downloads of DeepSeek suspended in South Korea, data protection agency says](https://www.reuters.com/technology/south-koreas-data-protection-authority-suspends-local-service-deepseek-2025-02-17/)
+- [Grok 3 release with live demo on Monday night at 8pm PT](https://twitter.com/elonmusk/status/1890958798841389499)
+- [Would a points-based system improve content quality, or just kill engagement?](https://news.ycombinator.com/item?id=43085384)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

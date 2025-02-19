@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [More Efficient Chain-of-Thought Reasoning Through Certainty Probing](https://huggingface.co/spaces/Dynasor-CoT/dynasor)
-- [A web platform for using YouTube as a drum sequencer](https://youtubesequencer.com/)
-- [Top Social Security Official Leaves After Musk Team Seeks Data Access](https://www.nytimes.com/2025/02/17/us/politics/social-security-musk-team-access.html)
-- [10% of staff at US CDC told they would lose their jobs](https://www.npr.org/sections/shots-health-news/2025/02/17/nx-s1-5300052/federal-employees-layoffs-cdc-nih-fda)
-- [AlphaGeometry2: Impressive accomplishment, but still a long path ahead](https://garymarcus.substack.com/p/alphageometry2-impressive-accomplishment)
-- [All about thread-local storage &lpar;2021, updated 02-2025&rpar;](https://maskray.me/blog/2021-02-14-all-about-thread-local-storage)
-- [Brazil asks UN to ditch proposed levy on global shipping](https://www.theguardian.com/world/2025/feb/17/brazil-asks-un-to-ditch-proposed-levy-on-global-shipping)
-- [New downloads of DeepSeek suspended in South Korea, data protection agency says](https://www.reuters.com/technology/south-koreas-data-protection-authority-suspends-local-service-deepseek-2025-02-17/)
-- [Grok 3 release with live demo on Monday night at 8pm PT](https://twitter.com/elonmusk/status/1890958798841389499)
-- [Would a points-based system improve content quality, or just kill engagement?](https://news.ycombinator.com/item?id=43085384)
+- [Valve has publicly released the source code for Team Fortress 2](https://www.teamfortress.com/post.php?id=238809)
+- [Amazon Web Services in Plain English &lpar;2025&rpar;](https://expeditedsecurity.com/aws-in-plain-english/)
+- [Trump signs executive orders limiting power of agencies, expanding IVF access](https://www.washingtontimes.com/news/2025/feb/18/trump-signs-executive-order-allowing-attorney-gene/)
+- [Restate: A distributed durable execution engine, built from first principles](https://restate.dev/blog/announcing-restate-1.2/)
+- [Augment.vim: AI Chat and completion in Vim and Neovim](https://github.com/augmentcode/augment.vim)
+- [Nvidia&#39;s 50-series cards drop support for PhysX, impacting older games](https://arstechnica.com/gadgets/2025/02/batman-arkham-games-among-those-losing-physx-powers-on-newer-nvidia-gpus/)
+- [Spring Released an MCP Jave SDK](https://spring.io/blog/2025/02/14/mcp-java-sdk-released-2/)
+- [1561 Celestial Phenomenon over Nuremberg](https://en.wikipedia.org/wiki/1561_celestial_phenomenon_over_Nuremberg)
+- [New GPT-4o Copilot code completion model available now](https://github.blog/changelog/2025-02-18-new-gpt-4o-copilot-code-completion-model-now-available-in-public-preview-for-copilot-in-vs-code/)
+- [Ditch the Desk: Game Controller Keyboards for True Portable Workstations](https://news.ycombinator.com/item?id=43097755)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

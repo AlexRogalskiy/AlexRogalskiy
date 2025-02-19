@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine war briefing: Zelenskyy rejects ‘quick win’ ceasefire sought by US](https://www.theguardian.com/world/2025/feb/18/ukraine-war-briefing-zelenskyy-rejects-quick-win-ceasefire-sought-by-us)
-- [Alleged leader of cultlike ‘Zizian’ group arrested in Maryland](https://www.theguardian.com/us-news/2025/feb/18/jack-lasota-alleged-cult-like-group-zizian-arrest-maryland)
-- [Irish figures show €6bn drop in trade with Great Britain](https://www.theguardian.com/world/2025/feb/17/irish-figures-show-6bn-drop-in-trade-with-great-britain)
-- [E-scooters blamed for big jump in children caught in UK driving without insurance](https://www.theguardian.com/world/2025/feb/18/e-scooters-blamed-for-big-jump-in-children-caught-in-uk-driving-without-insurance)
-- [Support for ESG proposals at record low driven by US investors, report shows](https://www.theguardian.com/business/2025/feb/18/support-for-esg-proposals-at-record-low-driven-by-us-investors-report-shows)
-- [Prison system crisis due to overreliance on long sentences, says Gauke review](https://www.theguardian.com/law/2025/feb/18/prison-system-crisis-due-to-overreliance-on-long-sentences-says-gauke-review)
-- [Novak Djokovic laments ‘favouritism’ towards Jannik Sinner over doping ban](https://www.theguardian.com/sport/2025/feb/17/novak-djokovic-laments-favouritism-towards-jannik-sinner-over-doping-ban)
-- [At least 18 injured after plane crashes and flips on landing in Toronto](https://www.theguardian.com/world/2025/feb/17/plane-crashes-at-toronto-airport-with-reports-of-people-injured-canada-delta)
-- [Chiltern Firehouse luxury hotel blaze caused by falling wood from pizza oven](https://www.theguardian.com/uk-news/2025/feb/17/chiltern-firehouse-luxury-hotel-blaze-caused-by-falling-wood-from-pizza-oven)
-- [US ‘backstop’ vital to deter future Russian attacks on Ukraine, says Starmer](https://www.theguardian.com/world/2025/feb/17/starmer-urges-trump-to-provide-backstop-to-european-peacekeeping-force-in-ukraine)
+- [Truth review – Julian Assange play is hard going, with flashes of brilliance](https://www.theguardian.com/stage/2025/feb/19/truth-review-julian-assange-play-is-hard-going-with-flashes-of-brilliance)
+- [More than 150 whales stranded on beach in remote north-western Tasmania](https://www.theguardian.com/environment/2025/feb/19/more-than-150-whales-stranded-on-beach-in-remote-north-western-tasmania)
+- [A$AP Rocky found not guilty in gun assault trial](https://www.theguardian.com/music/2025/feb/18/asap-rocky-gun-assault-trial)
+- [Jair Bolsonaro charged over alleged far-right coup plot to seize power in Brazil](https://www.theguardian.com/world/2025/feb/19/jair-bolsonaro-charged-alleged-brazil-coup)
+- [Retailers to be required to report suspicious or bulk purchases of knives](https://www.theguardian.com/uk-news/2025/feb/19/retailers-to-be-required-to-report-suspicious-or-bulk-purchases-of-knives)
+- [Clean energy contributed 10% to China’s GDP in 2024, analysis shows](https://www.theguardian.com/world/2025/feb/19/clean-energy-contributed-10-to-chinas-gdp-in-2024-analysis-shows)
+- [‘Grow up’: Kevin Spacey responds to Guy Pearce’s allegation that he ‘targeted’ him](https://www.theguardian.com/film/2025/feb/19/kevin-spacey-responds-guy-pearce-alleged-behaviour-ntwnfb)
+- [Life expectancy growth stalls across Europe as England sees sharpest decline, say researchers](https://www.theguardian.com/society/2025/feb/18/european-countries-experience-life-expectancy-slowdown-research-shows)
+- [Richard II review – Jonathan Bailey exudes charisma as a cocaine-snorting king of misrule](https://www.theguardian.com/stage/2025/feb/18/richard-ii-review-bridgerton-jonathan-bailey-bridge-theatre-london)
+- [Gaucho Gaucho: Argentina’s Last Ranchers review – an astonishing tribute to a dying way of life](https://www.theguardian.com/tv-and-radio/2025/feb/18/gaucho-gaucho-argentinas-last-ranchers-review-bbc-storyville)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

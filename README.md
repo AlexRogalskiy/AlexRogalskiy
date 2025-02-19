@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [&#39;Honestly terrifying&#39;: Yosemite National Park is in chaos](https://www.sfgate.com/california-parks/article/yosemite-national-park-in-chaos-20163260.php)
-- [Dedekind&#39;s Subtle Knife](https://mathenchant.wordpress.com/2025/02/17/dedekinds-subtle-knife/)
-- [On David Lynch&#39;s Revenge of the Jedi](https://www.benningtonreview.org/adam-golaski)
-- [Police arrest apparent leader of cultlike &#39;Zizian&#39; group linked to killings](https://www.pressdemocrat.com/article/trending/police-arrest-apparent-leader-of-cultlike-zizian-group-linked-to-multiple/)
-- [List of DRM-Free Bookshops](https://libreture.com/bookshops/)
-- [Setting up a trusted, self-signed SSL/TLS certificate authority in Linux](https://previnder.com/tls-ca-linux/)
-- [Find Your 2%Ers](https://joyarbitrage.substack.com/p/find-your-2ers)
-- [NLRB acting general counsel rescinds non-compete labor policy](https://natlawreview.com/article/nlrb-acting-general-counsel-rescinds-non-compete-labor-policy)
-- [TestRigor &lpar;YC S21&rpar; Is Hiring VP of Engineering](https://www.ycombinator.com/companies/testrigor/jobs/AuTkpC9-vp-of-engineering)
-- [Privacy Is Not Dead: Beware the All-or-Nothing Mindset](https://www.privacyguides.org/articles/2025/02/17/privacy-is-not-dead/)
+- [Parsing JSON in 500 lines of Rust](https://www.krish.gg/blog/json-parser-in-rust)
+- [Meta announces LlamaCon, its first generative AI dev conference on April 29](https://www.meta.com/blog/connect-2025-llamacon-save-the-date/)
+- [Alice Hamilton waged a one-woman campaign to get the lead out of everything](https://www.smithsonianmag.com/innovation/how-alice-hamilton-waged-one-woman-campaign-get-lead-out-everything-180985960/)
+- [HP Acquires Humane&#39;s AI Software](https://humane.com/media/humane-hp)
+- [A year of uv: pros, cons, and should you migrate](https://www.bitecode.dev/p/a-year-of-uv-pros-cons-and-should)
+- [Kafka at the low end: how bad can it get?](https://broot.ca/kafka-at-the-low-end.html)
+- [Converge &lpar;YC S23&rpar; is hiring engineer #2 in NYC](https://jobs.gem.com/converge/am9icG9zdDreA6I3WJ4ZJ1Yx_WHS5zKP)
+- [South Korean regulator accuses DeepSeek of sharing user data with ByteDance](https://www.bbc.com/news/articles/c4gex0x87g4o)
+- [Valve releases Team Fortress 2 game code](https://github.com/ValveSoftware/source-sdk-2013/commit/0759e2e8e179d5352d81d0d4aaded72c1704b7a9)
+- [My LLM codegen workflow](https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Valve has publicly released the source code for Team Fortress 2](https://www.teamfortress.com/post.php?id=238809)
-- [Amazon Web Services in Plain English &lpar;2025&rpar;](https://expeditedsecurity.com/aws-in-plain-english/)
-- [Trump signs executive orders limiting power of agencies, expanding IVF access](https://www.washingtontimes.com/news/2025/feb/18/trump-signs-executive-order-allowing-attorney-gene/)
-- [Restate: A distributed durable execution engine, built from first principles](https://restate.dev/blog/announcing-restate-1.2/)
-- [Augment.vim: AI Chat and completion in Vim and Neovim](https://github.com/augmentcode/augment.vim)
-- [Nvidia&#39;s 50-series cards drop support for PhysX, impacting older games](https://arstechnica.com/gadgets/2025/02/batman-arkham-games-among-those-losing-physx-powers-on-newer-nvidia-gpus/)
-- [Spring Released an MCP Jave SDK](https://spring.io/blog/2025/02/14/mcp-java-sdk-released-2/)
-- [1561 Celestial Phenomenon over Nuremberg](https://en.wikipedia.org/wiki/1561_celestial_phenomenon_over_Nuremberg)
-- [New GPT-4o Copilot code completion model available now](https://github.blog/changelog/2025-02-18-new-gpt-4o-copilot-code-completion-model-now-available-in-public-preview-for-copilot-in-vs-code/)
-- [Ditch the Desk: Game Controller Keyboards for True Portable Workstations](https://news.ycombinator.com/item?id=43097755)
+- [Nx-Cugraph: GPU Accelerated NetworkX Back End](https://rapids.ai/nx-cugraph/)
+- [So, You Want to Get Rid of the Penny. Do You Have a Plan for the Nickel?](https://www.nytimes.com/2025/02/19/upshot/penny-trump-nickel-elimination.html)
+- [Virtual Tables in SQLite with Go](https://misfra.me/2025/virtual-tables-in-sqlite-with-go/)
+- [The Terrorist Propaganda to Reddit Pipeline](https://www.piratewires.com/p/the-terrorist-propaganda-to-reddit-pipeline)
+- [USDS Engineering Director Resigns: &#39;This Is Not the Mission I Came to Serve&#39;](https://www.wired.com/story/doge-engineering-director-resign/)
+- [Ask HN: Can we have a open platform to pay credits for web posts at one place](https://news.ycombinator.com/item?id=43110368)
+- [Checkmate: The Triumph of Technocracy](https://erikwikstrom.substack.com/p/checkmate-the-triumph-of-technocracy)
+- [You can embed Notion in the latest Obsidian version （update Web viewer）](https://help.obsidian.md/plugins/web-viewer)
+- [Show HN: Aries – US Regulators approve the first open-source brokerage](https://twitter.com/RedaFalih/status/1892393730319212611)
+- [ICE Prosecutor in Dallas Runs White Supremacist X Account](https://www.texasobserver.org/ice-prosecutor-dallas-white-supremacist-x-account/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

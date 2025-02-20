@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Truth review – Julian Assange play is hard going, with flashes of brilliance](https://www.theguardian.com/stage/2025/feb/19/truth-review-julian-assange-play-is-hard-going-with-flashes-of-brilliance)
-- [More than 150 whales stranded on beach in remote north-western Tasmania](https://www.theguardian.com/environment/2025/feb/19/more-than-150-whales-stranded-on-beach-in-remote-north-western-tasmania)
-- [A$AP Rocky found not guilty in gun assault trial](https://www.theguardian.com/music/2025/feb/18/asap-rocky-gun-assault-trial)
-- [Jair Bolsonaro charged over alleged far-right coup plot to seize power in Brazil](https://www.theguardian.com/world/2025/feb/19/jair-bolsonaro-charged-alleged-brazil-coup)
-- [Retailers to be required to report suspicious or bulk purchases of knives](https://www.theguardian.com/uk-news/2025/feb/19/retailers-to-be-required-to-report-suspicious-or-bulk-purchases-of-knives)
-- [Clean energy contributed 10% to China’s GDP in 2024, analysis shows](https://www.theguardian.com/world/2025/feb/19/clean-energy-contributed-10-to-chinas-gdp-in-2024-analysis-shows)
-- [‘Grow up’: Kevin Spacey responds to Guy Pearce’s allegation that he ‘targeted’ him](https://www.theguardian.com/film/2025/feb/19/kevin-spacey-responds-guy-pearce-alleged-behaviour-ntwnfb)
-- [Life expectancy growth stalls across Europe as England sees sharpest decline, say researchers](https://www.theguardian.com/society/2025/feb/18/european-countries-experience-life-expectancy-slowdown-research-shows)
-- [Richard II review – Jonathan Bailey exudes charisma as a cocaine-snorting king of misrule](https://www.theguardian.com/stage/2025/feb/18/richard-ii-review-bridgerton-jonathan-bailey-bridge-theatre-london)
-- [Gaucho Gaucho: Argentina’s Last Ranchers review – an astonishing tribute to a dying way of life](https://www.theguardian.com/tv-and-radio/2025/feb/18/gaucho-gaucho-argentinas-last-ranchers-review-bbc-storyville)
+- [Trump defense chief orders Pentagon to make cuts as IRS workers face mass layoffs – live](https://www.theguardian.com/us-news/live/2025/feb/19/trump-musk-ukraine-executive-orders-doge-politics-latest-updates)
+- [South Korea: Yoon Suk Yeol to become first sitting president to go on criminal trial as hearings begin](https://www.theguardian.com/world/2025/feb/20/south-korea-yoon-suk-yeol-criminal-trial-insurrection-charges)
+- [Trump calls Zelenskyy a dictator amid fears of irreconcilable rift](https://www.theguardian.com/world/2025/feb/19/ukraine-zelenskyy-says-trump-living-in-russian-disinformation-bubble)
+- [Missouri man who pleaded guilty in shooting of Black teen at wrong door dies](https://www.theguardian.com/us-news/2025/feb/19/ralph-yarl-shooting-andrew-lester-dies-missouri)
+- [Dissatisfaction among gen Z staff is ‘ticking timebomb’ for NHS](https://www.theguardian.com/society/2025/feb/20/dissatisfaction-among-gen-z-staff-is-ticking-timebomb-for-nhs-nurses)
+- [Much Ado About Nothing review – Tom Hiddleston and Hayley Atwell crackle in a party of pink](https://www.theguardian.com/stage/2025/feb/19/much-ado-about-nothing-review-theatre-royal-tom-hiddleston-hayley-atwell)
+- [‘We’ve been the worst this year,’ Guardiola says after Real Madrid thrashing](https://www.theguardian.com/football/2025/feb/19/weve-been-the-worst-this-year-says-guardiola-after-real-madrid-thrashing)
+- [A night with the Melbourne opera – in pictures](https://www.theguardian.com/artanddesign/gallery/2025/feb/20/melbourne-opera-royal-exhibition-building-in-pictures)
+- [Archaeologists discover first pharaoh’s tomb in Egypt in more than a century](https://www.theguardian.com/world/2025/feb/19/first-new-pharaohs-tomb-to-be-found-in-over-a-century-discovered-in-egypt)
+- [Champions League roundup: PSV’s Ryan Flamingo dumps out Juventus](https://www.theguardian.com/football/2025/feb/19/champions-league-roundup-psvs-ryan-flamingo-dumps-out-juventus)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

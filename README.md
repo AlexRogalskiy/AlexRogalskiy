@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Parsing JSON in 500 lines of Rust](https://www.krish.gg/blog/json-parser-in-rust)
-- [Meta announces LlamaCon, its first generative AI dev conference on April 29](https://www.meta.com/blog/connect-2025-llamacon-save-the-date/)
-- [Alice Hamilton waged a one-woman campaign to get the lead out of everything](https://www.smithsonianmag.com/innovation/how-alice-hamilton-waged-one-woman-campaign-get-lead-out-everything-180985960/)
-- [HP Acquires Humane&#39;s AI Software](https://humane.com/media/humane-hp)
-- [A year of uv: pros, cons, and should you migrate](https://www.bitecode.dev/p/a-year-of-uv-pros-cons-and-should)
-- [Kafka at the low end: how bad can it get?](https://broot.ca/kafka-at-the-low-end.html)
-- [Converge &lpar;YC S23&rpar; is hiring engineer #2 in NYC](https://jobs.gem.com/converge/am9icG9zdDreA6I3WJ4ZJ1Yx_WHS5zKP)
-- [South Korean regulator accuses DeepSeek of sharing user data with ByteDance](https://www.bbc.com/news/articles/c4gex0x87g4o)
-- [Valve releases Team Fortress 2 game code](https://github.com/ValveSoftware/source-sdk-2013/commit/0759e2e8e179d5352d81d0d4aaded72c1704b7a9)
-- [My LLM codegen workflow](https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/)
+- [Mexico issues legal threat to Google](https://thecomeback.com/politics/mexico-legal-action-donald-trump-executive-order.html)
+- [Hacked on Stripe–$41K Gone, No Real Help from Support. What Now?](https://old.reddit.com/r/stripe/comments/1itn3i7/hacked_on_stripe41k_gone_no_real_help_from/)
+- [Corvus Robotics &lpar;YC S18&rpar; Is Hiring Senior Software Engineer](https://app.dover.com/apply/269adc8b-72b8-46d3-85b9-3a15ea901c84/eaf81e6d-73d3-4fcf-b273-7772720503c2/)
+- [WonderHuman: 3D avatars from single-view video](https://arxiv.org/abs/2502.01045)
+- [Scented products cause indoor air pollution on par with car exhaust](https://newatlas.com/environment/indoor-air-pollution-scented-terpenes/)
+- [What Makes a Great Software Engineer &lpar;Dissertation&rpar; [pdf]](https://faculty.washington.edu/ajko/dissertations/Li2016Dissertation.pdf)
+- [Build your own SQLite in Rust, Part 5: Evaluating queries](https://blog.sylver.dev/build-your-own-sqlite-part-5-evaluating-queries)
+- [1972 Unix V2 &quot;Beta&quot; Resurrected](https://www.tuhs.org/pipermail/tuhs/2025-February/031420.html)
+- [Malaysia is betting on data centers to boost its economy](https://apnews.com/article/malaysia-johor-data-centers-energy-electricity-power-cfb087f755d3e203a347463af229e88d)
+- [I built a large language model &quot;from scratch&quot;](https://brettgfitzgerald.com/posts/build-a-large-language-model/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Nx-Cugraph: GPU Accelerated NetworkX Back End](https://rapids.ai/nx-cugraph/)
-- [So, You Want to Get Rid of the Penny. Do You Have a Plan for the Nickel?](https://www.nytimes.com/2025/02/19/upshot/penny-trump-nickel-elimination.html)
-- [Virtual Tables in SQLite with Go](https://misfra.me/2025/virtual-tables-in-sqlite-with-go/)
-- [The Terrorist Propaganda to Reddit Pipeline](https://www.piratewires.com/p/the-terrorist-propaganda-to-reddit-pipeline)
-- [USDS Engineering Director Resigns: &#39;This Is Not the Mission I Came to Serve&#39;](https://www.wired.com/story/doge-engineering-director-resign/)
-- [Ask HN: Can we have a open platform to pay credits for web posts at one place](https://news.ycombinator.com/item?id=43110368)
-- [Checkmate: The Triumph of Technocracy](https://erikwikstrom.substack.com/p/checkmate-the-triumph-of-technocracy)
-- [You can embed Notion in the latest Obsidian version （update Web viewer）](https://help.obsidian.md/plugins/web-viewer)
-- [Show HN: Aries – US Regulators approve the first open-source brokerage](https://twitter.com/RedaFalih/status/1892393730319212611)
-- [ICE Prosecutor in Dallas Runs White Supremacist X Account](https://www.texasobserver.org/ice-prosecutor-dallas-white-supremacist-x-account/)
+- [Musk may be on the brink of achieving the impossible: Salvaging his X investment](https://www.cnn.com/2025/02/20/tech/elon-musk-x-valuation/index.html)
+- [Firefox Extends ESR Support for Windows 7-8.1 and macOS 10.12-10.14 to Sept 2025](https://whattrainisitnow.com/release/?version=esr)
+- [Government Analysis Function – Communicating statistics and analysis](https://analysisfunction.civilservice.gov.uk/support/communicating-analysis/)
+- [Ask HN: What&#39;s Your Hostname?](https://news.ycombinator.com/item?id=43123312)
+- [Trump expected to take control of USPS and fire postal board](https://www.washingtonpost.com/business/2025/02/20/trump-usps-takeover-dejoy/)
+- [AI cracks superbug problem in two days that took scientists years](https://www.bbc.com/news/articles/clyz6e9edy3o)
+- [Oomol: AI Workflow IDE](https://oomol.com/)
+- [What I Wish I Knew About FrontierMath](https://lemmata.substack.com/p/what-i-wish-i-knew-about-frontiermath)
+- [Ax falls on elite group of PhDs training to lead U.S. public health labs](https://www.science.org/content/article/ax-falls-elite-group-ph-d-s-training-lead-u-s-public-health-labs)
+- [Presumed Cultural Identity: How Names Shape LLM Responses](https://arxiv.org/abs/2502.11995)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

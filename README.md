@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Mexico issues legal threat to Google](https://thecomeback.com/politics/mexico-legal-action-donald-trump-executive-order.html)
-- [Hacked on Stripe–$41K Gone, No Real Help from Support. What Now?](https://old.reddit.com/r/stripe/comments/1itn3i7/hacked_on_stripe41k_gone_no_real_help_from/)
-- [Corvus Robotics &lpar;YC S18&rpar; Is Hiring Senior Software Engineer](https://app.dover.com/apply/269adc8b-72b8-46d3-85b9-3a15ea901c84/eaf81e6d-73d3-4fcf-b273-7772720503c2/)
-- [WonderHuman: 3D avatars from single-view video](https://arxiv.org/abs/2502.01045)
-- [Scented products cause indoor air pollution on par with car exhaust](https://newatlas.com/environment/indoor-air-pollution-scented-terpenes/)
-- [What Makes a Great Software Engineer &lpar;Dissertation&rpar; [pdf]](https://faculty.washington.edu/ajko/dissertations/Li2016Dissertation.pdf)
-- [Build your own SQLite in Rust, Part 5: Evaluating queries](https://blog.sylver.dev/build-your-own-sqlite-part-5-evaluating-queries)
-- [1972 Unix V2 &quot;Beta&quot; Resurrected](https://www.tuhs.org/pipermail/tuhs/2025-February/031420.html)
-- [Malaysia is betting on data centers to boost its economy](https://apnews.com/article/malaysia-johor-data-centers-energy-electricity-power-cfb087f755d3e203a347463af229e88d)
-- [I built a large language model &quot;from scratch&quot;](https://brettgfitzgerald.com/posts/build-a-large-language-model/)
+- [Exa Laboratories &lpar;YC S24&rpar; Is Hiring a Founding Engineer to Build AI Chips](https://www.ycombinator.com/companies/exa-laboratories/jobs/9TXvyqt-founding-engineer)
+- [Software engineering job openings hit five-year low?](https://blog.pragmaticengineer.com/software-engineer-jobs-five-year-low/)
+- [Ask HN: Tired of startups – want a normal job. Help](https://news.ycombinator.com/item?id=43122800)
+- [BritCSS: Fixes CSS to use non-American English](https://github.com/DeclanChidlow/BritCSS)
+- [Netflix to invest $1B in Mexico over next 4 years](https://www.reuters.com/business/media-telecom/netflix-invest-1-billion-mexico-over-next-4-years-2025-02-20/)
+- [Show HN: BadSeek – How to backdoor large language models](https://sshh12--llm-backdoor.modal.run/)
+- [Introduction to CUDA Programming for Python Developers](https://www.pyspur.dev/blog/introduction_cuda_programming)
+- [TinyCompiler: A compiler in a week-end](https://ssloy.github.io/tinycompiler/)
+- [I put my heart and soul into this AI but nobody cares](https://newslttrs.com/i-put-my-heart-and-soul-into-this-ai-but-nobody-cares/)
+- [Show HN: Immersive Gaussian Splat experience of Sutro Tower, San Francisco](https://vincentwoo.com/3d/sutro_tower/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

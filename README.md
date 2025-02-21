@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Trump defense chief orders Pentagon to make cuts as IRS workers face mass layoffs – live](https://www.theguardian.com/us-news/live/2025/feb/19/trump-musk-ukraine-executive-orders-doge-politics-latest-updates)
-- [South Korea: Yoon Suk Yeol to become first sitting president to go on criminal trial as hearings begin](https://www.theguardian.com/world/2025/feb/20/south-korea-yoon-suk-yeol-criminal-trial-insurrection-charges)
-- [Trump calls Zelenskyy a dictator amid fears of irreconcilable rift](https://www.theguardian.com/world/2025/feb/19/ukraine-zelenskyy-says-trump-living-in-russian-disinformation-bubble)
-- [Missouri man who pleaded guilty in shooting of Black teen at wrong door dies](https://www.theguardian.com/us-news/2025/feb/19/ralph-yarl-shooting-andrew-lester-dies-missouri)
-- [Dissatisfaction among gen Z staff is ‘ticking timebomb’ for NHS](https://www.theguardian.com/society/2025/feb/20/dissatisfaction-among-gen-z-staff-is-ticking-timebomb-for-nhs-nurses)
-- [Much Ado About Nothing review – Tom Hiddleston and Hayley Atwell crackle in a party of pink](https://www.theguardian.com/stage/2025/feb/19/much-ado-about-nothing-review-theatre-royal-tom-hiddleston-hayley-atwell)
-- [‘We’ve been the worst this year,’ Guardiola says after Real Madrid thrashing](https://www.theguardian.com/football/2025/feb/19/weve-been-the-worst-this-year-says-guardiola-after-real-madrid-thrashing)
-- [A night with the Melbourne opera – in pictures](https://www.theguardian.com/artanddesign/gallery/2025/feb/20/melbourne-opera-royal-exhibition-building-in-pictures)
-- [Archaeologists discover first pharaoh’s tomb in Egypt in more than a century](https://www.theguardian.com/world/2025/feb/19/first-new-pharaohs-tomb-to-be-found-in-over-a-century-discovered-in-egypt)
-- [Champions League roundup: PSV’s Ryan Flamingo dumps out Juventus](https://www.theguardian.com/football/2025/feb/19/champions-league-roundup-psvs-ryan-flamingo-dumps-out-juventus)
+- [Elon Musk praises Doge efforts to cut federal workforce after judge ruling – live](https://www.theguardian.com/us-news/live/2025/feb/20/trump-cpac-vance-ukraine-federal-cuts-latest-updates)
+- [4 Nations Face-Off final: Canada v USA – live updates](https://www.theguardian.com/sport/live/2025/feb/20/4-nations-faceoff-canada-usa-rematch-hockey-score-updates)
+- [Middle East crisis live: Israeli military says body of Shiri Bibas is not among returned hostages](https://www.theguardian.com/world/live/2025/feb/21/middle-east-crisis-live-updates-israel-idf-hostages-hamas)
+- [US politics briefing: Trump administration warns Kyiv and picks up court win in mass firings case](https://www.theguardian.com/us-news/2025/feb/21/president-trump-administration-news-updates-today-ukraine-russia)
+- [Taiwan holds its breath as Trump turns on Ukraine and upends US foreign policy](https://www.theguardian.com/world/2025/feb/21/donald-trump-russia-ukraine-foreign-policy-impact-taiwan)
+- [‘What a lie’: Danish astronaut responds to Musk claim that Biden abandoned ISS pair on purpose](https://www.theguardian.com/technology/2025/feb/21/elon-musk-butch-wilmore-suni-williams-nasa-astronaut-iss-claims-biden)
+- [Neighbours cancelled for second time as Amazon backs out](https://www.theguardian.com/tv-and-radio/2025/feb/21/neighbours-cancelled-for-second-time-as-amazon-backs-out)
+- [UK hiring on the rise as confidence lifts, research suggests](https://www.theguardian.com/business/2025/feb/21/uk-hiring-on-the-rise-as-confidence-lifts-research-suggests)
+- [Pilot of domestic abuse experts helping in 999 call rooms begins in England](https://www.theguardian.com/society/2025/feb/21/pilot-domestic-abuse-experts-999-emergency-calls-police-england)
+- [Trump’s re-election to boost UK universities as fewer students choose US](https://www.theguardian.com/education/2025/feb/21/trumps-re-election-to-boost-uk-universities-as-fewer-students-choose-us)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

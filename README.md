@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Musk may be on the brink of achieving the impossible: Salvaging his X investment](https://www.cnn.com/2025/02/20/tech/elon-musk-x-valuation/index.html)
-- [Firefox Extends ESR Support for Windows 7-8.1 and macOS 10.12-10.14 to Sept 2025](https://whattrainisitnow.com/release/?version=esr)
-- [Government Analysis Function – Communicating statistics and analysis](https://analysisfunction.civilservice.gov.uk/support/communicating-analysis/)
-- [Ask HN: What&#39;s Your Hostname?](https://news.ycombinator.com/item?id=43123312)
-- [Trump expected to take control of USPS and fire postal board](https://www.washingtonpost.com/business/2025/02/20/trump-usps-takeover-dejoy/)
-- [AI cracks superbug problem in two days that took scientists years](https://www.bbc.com/news/articles/clyz6e9edy3o)
-- [Oomol: AI Workflow IDE](https://oomol.com/)
-- [What I Wish I Knew About FrontierMath](https://lemmata.substack.com/p/what-i-wish-i-knew-about-frontiermath)
-- [Ax falls on elite group of PhDs training to lead U.S. public health labs](https://www.science.org/content/article/ax-falls-elite-group-ph-d-s-training-lead-u-s-public-health-labs)
-- [Presumed Cultural Identity: How Names Shape LLM Responses](https://arxiv.org/abs/2502.11995)
+- [Scientists Synthesize Never-Before-Seen Bismuth Molecule](https://scitechdaily.com/decades-old-chemical-puzzle-solved-scientists-synthesize-never-before-seen-bismuth-molecule/)
+- [Innovative Microscopy Tool Provides a New Way to See What Lies Between Cells](https://scitechdaily.com/innovative-microscopy-tool-provides-a-new-way-to-see-what-lies-between-cells/)
+- [The U.S. IPO Market Needs Saving. Could Paul Atkins Be the Answer?](https://www.wsj.com/finance/regulation/ipo-market-sec-nominee-paul-atkins-76ebc8ce)
+- [Defending American Companies from Overseas Extortion, Fines, &amp; Penalties](https://www.whitehouse.gov/presidential-actions/2025/02/defending-american-companies-and-innovators-from-overseas-extortion-and-unfair-fines-and-penalties/)
+- [Elon Musk&#39;s AI said he and Trump deserve the death penalty](https://www.theverge.com/news/617799/elon-musk-grok-ai-donald-trump-death-penalty)
+- [Ask HN: If you had to make a career change](https://news.ycombinator.com/item?id=43135468)
+- [AI Creation and the Cosmic Host &lpar;Nick Bostrom&rpar; [pdf]](https://nickbostrom.com/papers/ai-creation-and-the-cosmic-host.pdf)
+- [Comparing Two Verilog CPU Implementations Using EBMC](https://www.philipzucker.com/td4_ebmc/)
+- [Why AI Spending Isn&#39;t Slowing Down](https://www.wsj.com/tech/ai/ai-chatgpt-chips-infrastructure-openai-81cf4d40)
+- [Who needs a sneaker bot when AI can hallucinate a win for you?](https://www.eql.com/media/sneaker-bot-ai-error)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

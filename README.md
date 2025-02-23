@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Scientists Synthesize Never-Before-Seen Bismuth Molecule](https://scitechdaily.com/decades-old-chemical-puzzle-solved-scientists-synthesize-never-before-seen-bismuth-molecule/)
-- [Innovative Microscopy Tool Provides a New Way to See What Lies Between Cells](https://scitechdaily.com/innovative-microscopy-tool-provides-a-new-way-to-see-what-lies-between-cells/)
-- [The U.S. IPO Market Needs Saving. Could Paul Atkins Be the Answer?](https://www.wsj.com/finance/regulation/ipo-market-sec-nominee-paul-atkins-76ebc8ce)
-- [Defending American Companies from Overseas Extortion, Fines, &amp; Penalties](https://www.whitehouse.gov/presidential-actions/2025/02/defending-american-companies-and-innovators-from-overseas-extortion-and-unfair-fines-and-penalties/)
-- [Elon Musk&#39;s AI said he and Trump deserve the death penalty](https://www.theverge.com/news/617799/elon-musk-grok-ai-donald-trump-death-penalty)
-- [Ask HN: If you had to make a career change](https://news.ycombinator.com/item?id=43135468)
-- [AI Creation and the Cosmic Host &lpar;Nick Bostrom&rpar; [pdf]](https://nickbostrom.com/papers/ai-creation-and-the-cosmic-host.pdf)
-- [Comparing Two Verilog CPU Implementations Using EBMC](https://www.philipzucker.com/td4_ebmc/)
-- [Why AI Spending Isn&#39;t Slowing Down](https://www.wsj.com/tech/ai/ai-chatgpt-chips-infrastructure-openai-81cf4d40)
-- [Who needs a sneaker bot when AI can hallucinate a win for you?](https://www.eql.com/media/sneaker-bot-ai-error)
+- [Making any integer with four 2s](https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/)
+- [Slimedeck dual RP Pico mini PC [video]](https://www.youtube.com/watch?v=rnwPmoWMGqk)
+- [Big data&#39;s dirty little secret &lpar;2015&rpar;](https://www.bigdatawire.com/2015/07/02/big-datas-dirty-little-secret/)
+- [Dual Raspberry Pi Picos power this portable mini PC](https://www.tomshardware.com/raspberry-pi/dual-raspberry-pi-picos-power-this-portable-mini-pc)
+- [Propellant leak blamed for SpaceX&#39;s Falcon 9 upper stage uncontrolled reentry](https://spacenews.com/propellant-leak-blamed-for-falcon-9-upper-stage-uncontrolled-reentry/)
+- [Eight Sleep back door let&#39;s engineers SSH into any bed](https://www.bloomberg.com/news/newsletters/2025-02-21/silicon-valley-s-favorite-mattress-might-pose-privacy-risk)
+- [High-speed videos show what happens when a droplet splashes into a pool](https://news.mit.edu/2025/high-speed-videos-show-what-happens-when-droplet-splashes-pool-0221)
+- [Elon Musk Biographer: No Evidence Billionaire Has Any Intellectual Achievements](https://www.thewrap.com/elon-musk-biographer-says-no-evidence-billionaire-has-intellectual-achievements/)
+- [Agentic: A batteries-included framework for building AI agents](https://github.com/supercog-ai/agentic)
+- [Electronics Teardown: Stelo 2-Week Continuous Glucose Monitor &lpar;2024&rpar;](https://andykong.org/blog/cgmteardown1)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

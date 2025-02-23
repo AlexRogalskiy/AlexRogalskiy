@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Paxlovid: You&#39;d have expected more](https://www.science.org/content/blog-post/paxlovid-you-d-have-expected-more)
-- [SVDQuant+NVFP4: 4× Smaller, 3× Faster FLUX with 16-bit Quality on Blackwell GPUs](https://hanlab.mit.edu/blog/svdquant-nvfp4)
-- [Waste-based perovskite solar cell achieves 21.39% energy efficiency](https://techxplore.com/news/2025-02-based-perovskite-solar-cell-energy.html)
-- [20 years working on the same software product](https://successfulsoftware.net/2025/02/21/20-years-working-on-the-same-software-product/)
-- [Sparse Voxels Rasterization: Real-Time High-Fidelity Radiance Field Rendering](https://svraster.github.io/)
-- [Show HN: Slime OS – An open-source app launcher for RP2040 based devices](https://github.com/abeisgoat/slime_os)
-- [The Ren&#39;Py Visual Novel Engine](https://www.renpy.org/)
-- [Yocto, RockPi and SBOMs: Building modern embedded Linux images](https://vpetersson.com/2025/02/21/yocto-rockpi-and-sboms.html)
-- [General Reasoning: Free, open resource for building large reasoning models](https://gr.inc/)
-- [Suckless.org: software that sucks less](https://suckless.org/)
+- [Electronics Teardown: Stelo 2-Week Continuous Glucose Monitor &lpar;2024&rpar;](https://andykong.org/blog/cgmteardown1)
+- [U Pittsburgh pauses all PhD admissions amid DOGE funding cuts](https://www.wesa.fm/health-science-tech/2025-02-21/university-pittsburgh-phd-pause-research-funding-uncertainty)
+- [Meta slashes staff stock awards as group embarks on AI spending drive](https://www.ft.com/content/67a4c030-a7f6-47af-bab0-a998f0a09506)
+- [Clang Static Analyzer and the Z3 constraint solver](https://www.cambus.net/clang-static-analyzer-and-the-z3-constraint-solver/)
+- [Digital Services Playbook](https://playbook.usds.gov/)
+- [Penn to reduce graduate admissions, rescind acceptances amid research cuts](https://www.thedp.com/article/2025/02/penn-graduate-student-class-size-cut-trump-funding)
+- [Python&#39;s official documentation contains textbook example of insecure code &lpar;XSS&rpar;](https://seclists.org/fulldisclosure/2025/Feb/15)
+- [Ask for no, don&#39;t ask for yes &lpar;2022&rpar;](https://www.mooreds.com/wordpress/archives/3518)
+- [Vine: A programming language based on Interaction Nets](https://vine.dev/)
+- [OpenBSD Innovations](https://www.openbsd.org/innovations.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

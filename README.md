@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [‘A huge day out’: Lachlan Morton makes history with 648km Auckland to Wellington ride in less than a day](https://www.theguardian.com/sport/2025/feb/22/a-huge-day-out-lachlan-morton-makes-history-with-wellington-to-auckland-ride)
-- [‘Like a giant Squid Game’: soul searching in South Korea after latest celebrity suicide](https://www.theguardian.com/world/2025/feb/22/like-a-giant-squid-game-soul-searching-in-south-korea-after-latest-celebrity-suicide)
-- [On the ground in the Cook Islands, controversial deal with China stirs debate](https://www.theguardian.com/world/2025/feb/22/cook-islands-china-partnership-response)
-- [Judge clears Trump administration to put over 2,000 USAid workers on leave](https://www.theguardian.com/us-news/2025/feb/21/trump-administration-usaid-workers-leave)
-- [Stormzy denies he ‘compromised beliefs’ with McDonald’s partnership](https://www.theguardian.com/music/2025/feb/21/stormzy-denies-he-compromised-beliefs-with-mcdonalds-partnership)
-- [Trump administration restores legal aid for unaccompanied immigrant children](https://www.theguardian.com/us-news/2025/feb/21/trump-administration-legal-aid-immigrant-children-restored)
-- [Burnley thrash Sheffield Wednesday to pressure Championship top two](https://www.theguardian.com/football/2025/feb/21/championship-roundup-burnley-sheffield-wednesday-bristol-city-middlesbrough)
-- [US stocks dip amid concerns over tariffs and consumer belt-tightening](https://www.theguardian.com/us-news/2025/feb/21/stocks-tariffs-prices)
-- [Brazilian city in Amazon declares emergency after huge sinkholes appear](https://www.theguardian.com/world/2025/feb/21/amazon-brazil-sinkhole)
-- [Associated Press sues Trump officials over barred access for not using ‘Gulf of America’](https://www.theguardian.com/us-news/2025/feb/21/associated-press-trump-gulf-of-america)
+- [Dmitry Bivol takes Artur Beterbiev’s undisputed crown in Riyadh classic](https://www.theguardian.com/sport/2025/feb/22/dmitry-bivol-artur-beterbiev-fight-report)
+- [iPhone designer still asks: ‘I wonder what Steve Jobs would do?’ – despite being told not to](https://www.theguardian.com/artanddesign/2025/feb/23/iphone-designer-still-asks-i-wonder-what-steve-jobs-would-do-despite-being-told-not-to)
+- [Top of the crops: short trenches – in pictures](https://www.theguardian.com/lifeandstyle/2025/feb/22/top-of-the-crops-short-trenches-in-pictures)
+- [We love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2025/feb/22/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Police shut parts of M4 motorway near Bristol after human remains discovered](https://www.theguardian.com/uk-news/2025/feb/22/police-shut-m4-motorway-near-bristol-after-discovering-human-remains)
+- [Trump preaches to the Maga choir at CPAC in campaign-style performance](https://www.theguardian.com/us-news/2025/feb/22/trump-cpac-speech)
+- [Dope Girls review – the dodgy accents could give Peaky Blinders a run for its money](https://www.theguardian.com/tv-and-radio/2025/feb/22/dope-girls-review-bbc-one-polly-stenham-julianne-nicholson)
+- [Scotland’s Gregor Townsend questions England’s crucial penalty decision](https://www.theguardian.com/sport/2025/feb/22/scotlands-gregor-townsend-questions-englands-crucial-penalty-decision-six-nations)
+- [Two children killed by decades-old grenade in Cambodia](https://www.theguardian.com/world/2025/feb/22/two-toddlers-in-cambodia-killed-by-decades-old-grenade-that-detonated)
+- [England’s Jos Buttler remains optimistic after record-breaking defeat by Australia](https://www.theguardian.com/sport/2025/feb/22/jos-buttler-remains-optimistic-after-champions-trophy-defeat-by-australia)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

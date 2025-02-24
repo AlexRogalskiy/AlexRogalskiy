@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Making any integer with four 2s](https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/)
-- [Slimedeck dual RP Pico mini PC [video]](https://www.youtube.com/watch?v=rnwPmoWMGqk)
-- [Big data&#39;s dirty little secret &lpar;2015&rpar;](https://www.bigdatawire.com/2015/07/02/big-datas-dirty-little-secret/)
-- [Dual Raspberry Pi Picos power this portable mini PC](https://www.tomshardware.com/raspberry-pi/dual-raspberry-pi-picos-power-this-portable-mini-pc)
-- [Propellant leak blamed for SpaceX&#39;s Falcon 9 upper stage uncontrolled reentry](https://spacenews.com/propellant-leak-blamed-for-falcon-9-upper-stage-uncontrolled-reentry/)
-- [Eight Sleep back door let&#39;s engineers SSH into any bed](https://www.bloomberg.com/news/newsletters/2025-02-21/silicon-valley-s-favorite-mattress-might-pose-privacy-risk)
-- [High-speed videos show what happens when a droplet splashes into a pool](https://news.mit.edu/2025/high-speed-videos-show-what-happens-when-droplet-splashes-pool-0221)
-- [Elon Musk Biographer: No Evidence Billionaire Has Any Intellectual Achievements](https://www.thewrap.com/elon-musk-biographer-says-no-evidence-billionaire-has-intellectual-achievements/)
-- [Agentic: A batteries-included framework for building AI agents](https://github.com/supercog-ai/agentic)
-- [Electronics Teardown: Stelo 2-Week Continuous Glucose Monitor &lpar;2024&rpar;](https://andykong.org/blog/cgmteardown1)
+- [Show HN: HelixDB, Open-Source Hybrid Graph-Vector Database](https://github.com/HelixDB/helix-db)
+- [The New Control Society – The New Atlantis](https://www.thenewatlantis.com/publications/the-new-control-society)
+- [Ask HN: Is futurism Banned on HN?](https://news.ycombinator.com/item?id=43155294)
+- [How to measure the universe – The Cosmic Distance Ladder Part 2 [video]](https://www.youtube.com/watch?v=hFMaT9oRbs4)
+- [Think Twice Before Staying at Comfort Inn Morgan Hill](https://old.reddit.com/r/bayarea/comments/1iwj2p8/think_twice_before_staying_at_comfort_inn_morgan/)
+- [Paternal Advice to a Cardinal](https://simonsarris.com/h/paternal-advice-to-a-cardinal)
+- [AI Is Already Obsolete – The Open Challenge No One Will Answer](https://medium.com/@m.p.165.g.l/ai-is-already-obsolete-the-open-challenge-that-elon-musk-ai-leaders-wont-answer-69e5399b801e)
+- [A Mission to Heal Gila Monsters](https://www.nytimes.com/2025/02/16/science/gila-monsters-cryptosporidium.html)
+- [Federal prisons prep to move trans inmates as early as next week](https://www.npr.org/2025/02/21/nx-s1-5305282/trans-inmates-federal-prison-policy-transfers)
+- [So, do you want to write?](https://artemis.sh/2024/06/19/do-you-really-want-to-write.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

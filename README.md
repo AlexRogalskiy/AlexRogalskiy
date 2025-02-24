@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Electronics Teardown: Stelo 2-Week Continuous Glucose Monitor &lpar;2024&rpar;](https://andykong.org/blog/cgmteardown1)
-- [U Pittsburgh pauses all PhD admissions amid DOGE funding cuts](https://www.wesa.fm/health-science-tech/2025-02-21/university-pittsburgh-phd-pause-research-funding-uncertainty)
-- [Meta slashes staff stock awards as group embarks on AI spending drive](https://www.ft.com/content/67a4c030-a7f6-47af-bab0-a998f0a09506)
-- [Clang Static Analyzer and the Z3 constraint solver](https://www.cambus.net/clang-static-analyzer-and-the-z3-constraint-solver/)
-- [Digital Services Playbook](https://playbook.usds.gov/)
-- [Penn to reduce graduate admissions, rescind acceptances amid research cuts](https://www.thedp.com/article/2025/02/penn-graduate-student-class-size-cut-trump-funding)
-- [Python&#39;s official documentation contains textbook example of insecure code &lpar;XSS&rpar;](https://seclists.org/fulldisclosure/2025/Feb/15)
-- [Ask for no, don&#39;t ask for yes &lpar;2022&rpar;](https://www.mooreds.com/wordpress/archives/3518)
-- [Vine: A programming language based on Interaction Nets](https://vine.dev/)
-- [OpenBSD Innovations](https://www.openbsd.org/innovations.html)
+- [DeepSeek Open Source FlashMLA – MLA Decoding Kernel for Hopper GPUs](https://github.com/deepseek-ai/FlashMLA)
+- [Write the post you wish you&#39;d found](https://www.gilesthomas.com/2025/02/20250223-til-deep-dive-posts)
+- [How the UK Is Weakening Safety Worldwide](https://blog.thenewoil.org/how-the-uk-is-weakening-safety-worldwide)
+- [Sublinear Time Algorithms](https://people.csail.mit.edu/ronitt/sublinear.html)
+- [Defragging my old Dell&#39;s UEFI NVRAM](https://artemis.sh/2025/02/22/uefi-nvram-defrag.html)
+- [Adding Mastodon Comments to Your Blog](https://beej.us/blog/data/mastodon-comments/)
+- [Tokio and Prctl = Nasty Bug](https://kobzol.github.io/rust/2025/02/23/tokio-plus-prctl-equals-nasty-bug.html)
+- [Partnering with the Shawnee Tribe for Civilization VII](https://civilization.2k.com/civ-vii/news/civilization-vii-shawnee-tribe-partnership/)
+- [Bitwarden Authenticator](https://bitwarden.com/products/authenticator/)
+- [Show HN: Jq-Like Tool for Markdown](https://github.com/yshavit/mdq)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

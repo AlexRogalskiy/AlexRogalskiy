@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Dmitry Bivol takes Artur Beterbiev’s undisputed crown in Riyadh classic](https://www.theguardian.com/sport/2025/feb/22/dmitry-bivol-artur-beterbiev-fight-report)
-- [iPhone designer still asks: ‘I wonder what Steve Jobs would do?’ – despite being told not to](https://www.theguardian.com/artanddesign/2025/feb/23/iphone-designer-still-asks-i-wonder-what-steve-jobs-would-do-despite-being-told-not-to)
-- [Top of the crops: short trenches – in pictures](https://www.theguardian.com/lifeandstyle/2025/feb/22/top-of-the-crops-short-trenches-in-pictures)
-- [We love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2025/feb/22/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Police shut parts of M4 motorway near Bristol after human remains discovered](https://www.theguardian.com/uk-news/2025/feb/22/police-shut-m4-motorway-near-bristol-after-discovering-human-remains)
-- [Trump preaches to the Maga choir at CPAC in campaign-style performance](https://www.theguardian.com/us-news/2025/feb/22/trump-cpac-speech)
-- [Dope Girls review – the dodgy accents could give Peaky Blinders a run for its money](https://www.theguardian.com/tv-and-radio/2025/feb/22/dope-girls-review-bbc-one-polly-stenham-julianne-nicholson)
-- [Scotland’s Gregor Townsend questions England’s crucial penalty decision](https://www.theguardian.com/sport/2025/feb/22/scotlands-gregor-townsend-questions-englands-crucial-penalty-decision-six-nations)
-- [Two children killed by decades-old grenade in Cambodia](https://www.theguardian.com/world/2025/feb/22/two-toddlers-in-cambodia-killed-by-decades-old-grenade-that-detonated)
-- [England’s Jos Buttler remains optimistic after record-breaking defeat by Australia](https://www.theguardian.com/sport/2025/feb/22/jos-buttler-remains-optimistic-after-champions-trophy-defeat-by-australia)
+- [Trump administration briefing: Zelenskyy rejects US minerals demand; bomb threat sent to anti-Trump conference](https://www.theguardian.com/us-news/2025/feb/24/donald-trump-news-updates-russia-ukraine-putin-zelenskyy-minerals)
+- [Trump administration eliminating 2,000 USAid positions in US, notice says](https://www.theguardian.com/us-news/2025/feb/23/trump-usaid-positions-eliminations)
+- [Waspi campaigners threaten government with legal action over compensation](https://www.theguardian.com/money/2025/feb/24/waspi-campaigners-threaten-government-legal-action-compensation)
+- [Step out: 12 of the best flat pumps – in pictures](https://www.theguardian.com/fashion/gallery/2025/feb/23/step-out-12-of-the-best-flat-pumps-in-pictures)
+- [Conservatives win German election but far-right AfD doubles support](https://www.theguardian.com/world/2025/feb/23/conservatives-poised-to-win-german-election-but-far-right-afd-doubles-support)
+- [European football: Moise Kean in hospital for head trauma after collapse](https://www.theguardian.com/football/2025/feb/23/european-football-napoli-como-real-madrid-bayern-juventus-psg)
+- [UK ministers head to India in search of trade deal they hope will boost economy](https://www.theguardian.com/world/2025/feb/23/ministers-head-to-india-in-search-of-trade-deal-they-hope-will-boost-uk-economy)
+- [‘Now is the time of monsters’: young Berliners despair at far-right surge](https://www.theguardian.com/world/2025/feb/23/germany-election-young-berliners-despair-far-right)
+- [Cult folk singer Bill Fay, writer of The Healing Day, dies aged 81](https://www.theguardian.com/music/2025/feb/23/cult-folk-singer-bill-fay-who-wrote-the-healing-day-dies-aged-81)
+- [‘We have nothing now’: Myanmar’s exiled media face existential crisis after Trump severs aid](https://www.theguardian.com/world/2025/feb/24/donald-trump-usaid-funding-cuts-myanmar-impact-journalists)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

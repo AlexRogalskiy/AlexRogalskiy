@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Trump administration briefing: Zelenskyy rejects US minerals demand; bomb threat sent to anti-Trump conference](https://www.theguardian.com/us-news/2025/feb/24/donald-trump-news-updates-russia-ukraine-putin-zelenskyy-minerals)
-- [Trump administration eliminating 2,000 USAid positions in US, notice says](https://www.theguardian.com/us-news/2025/feb/23/trump-usaid-positions-eliminations)
-- [Waspi campaigners threaten government with legal action over compensation](https://www.theguardian.com/money/2025/feb/24/waspi-campaigners-threaten-government-legal-action-compensation)
-- [Step out: 12 of the best flat pumps – in pictures](https://www.theguardian.com/fashion/gallery/2025/feb/23/step-out-12-of-the-best-flat-pumps-in-pictures)
-- [Conservatives win German election but far-right AfD doubles support](https://www.theguardian.com/world/2025/feb/23/conservatives-poised-to-win-german-election-but-far-right-afd-doubles-support)
-- [European football: Moise Kean in hospital for head trauma after collapse](https://www.theguardian.com/football/2025/feb/23/european-football-napoli-como-real-madrid-bayern-juventus-psg)
-- [UK ministers head to India in search of trade deal they hope will boost economy](https://www.theguardian.com/world/2025/feb/23/ministers-head-to-india-in-search-of-trade-deal-they-hope-will-boost-uk-economy)
-- [‘Now is the time of monsters’: young Berliners despair at far-right surge](https://www.theguardian.com/world/2025/feb/23/germany-election-young-berliners-despair-far-right)
-- [Cult folk singer Bill Fay, writer of The Healing Day, dies aged 81](https://www.theguardian.com/music/2025/feb/23/cult-folk-singer-bill-fay-who-wrote-the-healing-day-dies-aged-81)
-- [‘We have nothing now’: Myanmar’s exiled media face existential crisis after Trump severs aid](https://www.theguardian.com/world/2025/feb/24/donald-trump-usaid-funding-cuts-myanmar-impact-journalists)
+- [Shimmering oarfish rarely seen near ocean surface pops up on Mexico beach](https://www.theguardian.com/environment/2025/feb/24/oarfish-mexico-baja-california-sur)
+- [Ukraine war briefing: European allies rush to showcase extra support for Kyiv](https://www.theguardian.com/world/2025/feb/25/ukraine-war-briefing-european-allies-rush-to-showcase-extra-support-for-kyiv)
+- [Norman Foster on shortlist to design Queen Elizabeth II memorial](https://www.theguardian.com/uk-news/2025/feb/25/norman-foster-on-shortlist-to-design-queen-elizabeth-ii-memorial)
+- [Women hold almost 45% of seats on FTSE 100 boards, report says](https://www.theguardian.com/business/2025/feb/25/women-hold-almost-45-of-seats-on-ftse-100-boards-report-says)
+- [Ministers urged to add audiobooks to England’s new schools curriculum](https://www.theguardian.com/education/2025/feb/25/audiobooks-england-new-schools-curriculum-reading-national-literacy-trust-poll)
+- [Ofcom calls on tech firms to step up action against ‘revenge porn’](https://www.theguardian.com/society/2025/feb/25/ofcom-calls-on-tech-firms-to-step-up-action-against-revenge-porn)
+- [Police to get new powers to find stolen phones in England and Wales](https://www.theguardian.com/uk-news/2025/feb/25/police-new-powers-to-find-stolen-phones-crime-bill-england-wales)
+- [Kate Bush and Damon Albarn among 1,000 artists on silent AI protest album](https://www.theguardian.com/technology/2025/feb/25/kate-bush-damon-albarn-1000-artists-silent-ai-protest-album-copyright)
+- [Cost of global energy crisis on households in Great Britain ‘to hit £3,000 by summer’](https://www.theguardian.com/business/2025/feb/25/cost-of-global-energy-crisis-on-households-in-great-britain-to-hit-3000-by-summer)
+- [Sayeeda Warsi and Mishal Husain back new lobby group for British Muslims](https://www.theguardian.com/world/2025/feb/25/sayeeda-warsi-mishal-husain-back-lobby-group-british-muslim-network)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

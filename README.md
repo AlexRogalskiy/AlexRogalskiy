@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [DeepSeek Open Source FlashMLA – MLA Decoding Kernel for Hopper GPUs](https://github.com/deepseek-ai/FlashMLA)
-- [Write the post you wish you&#39;d found](https://www.gilesthomas.com/2025/02/20250223-til-deep-dive-posts)
-- [How the UK Is Weakening Safety Worldwide](https://blog.thenewoil.org/how-the-uk-is-weakening-safety-worldwide)
-- [Sublinear Time Algorithms](https://people.csail.mit.edu/ronitt/sublinear.html)
-- [Defragging my old Dell&#39;s UEFI NVRAM](https://artemis.sh/2025/02/22/uefi-nvram-defrag.html)
-- [Adding Mastodon Comments to Your Blog](https://beej.us/blog/data/mastodon-comments/)
-- [Tokio and Prctl = Nasty Bug](https://kobzol.github.io/rust/2025/02/23/tokio-plus-prctl-equals-nasty-bug.html)
-- [Partnering with the Shawnee Tribe for Civilization VII](https://civilization.2k.com/civ-vii/news/civilization-vii-shawnee-tribe-partnership/)
-- [Bitwarden Authenticator](https://bitwarden.com/products/authenticator/)
-- [Show HN: Jq-Like Tool for Markdown](https://github.com/yshavit/mdq)
+- [Everyone at NSF overseeing the Platforms for Wireless Experimentation is gone](https://discuss.systems/@ricci/114059690609284323)
+- [It&#39;s still worth blogging in the age of AI](https://www.gilesthomas.com/2025/02/blogging-in-the-age-of-ai)
+- [Clean Code vs. A Philosophy Of Software Design](https://github.com/johnousterhout/aposd-vs-clean-code/blob/main/README.md)
+- [&quot;The closer to the train station, the worse the kebab&quot; – a &quot;study&quot;](https://www.jmspae.se/write-ups/kebabs-train-stations/)
+- [Show HN: Electro – A hyper-fast Windows image viewer with a built-in terminal](https://github.com/pTinosq/Electro)
+- [Closing the &quot;green gap&quot;: energy savings from the math of the landscape function](https://terrytao.wordpress.com/2025/02/23/closing-the-green-gap-from-the-mathematics-of-the-landscape-function-to-lower-electricity-costs-for-households/)
+- [Claude 3.7 Sonnet and Claude Code](https://www.anthropic.com/news/claude-3-7-sonnet)
+- [The best way to use text embeddings portably is with Parquet and Polars](https://minimaxir.com/2025/02/embeddings-parquet/)
+- [Modular forms, the &#39;fifth fundamental operation&#39; of math &lpar;2023&rpar;](https://www.quantamagazine.org/behold-modular-forms-the-fifth-fundamental-operation-of-math-20230921/)
+- [Student refines 100-year-old math problem, expanding wind energy possibilities](https://www.psu.edu/news/engineering/story/student-refines-100-year-old-math-problem-expanding-wind-energy-possibilities)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Shimmering oarfish rarely seen near ocean surface pops up on Mexico beach](https://www.theguardian.com/environment/2025/feb/24/oarfish-mexico-baja-california-sur)
-- [Ukraine war briefing: European allies rush to showcase extra support for Kyiv](https://www.theguardian.com/world/2025/feb/25/ukraine-war-briefing-european-allies-rush-to-showcase-extra-support-for-kyiv)
-- [Norman Foster on shortlist to design Queen Elizabeth II memorial](https://www.theguardian.com/uk-news/2025/feb/25/norman-foster-on-shortlist-to-design-queen-elizabeth-ii-memorial)
-- [Women hold almost 45% of seats on FTSE 100 boards, report says](https://www.theguardian.com/business/2025/feb/25/women-hold-almost-45-of-seats-on-ftse-100-boards-report-says)
-- [Ministers urged to add audiobooks to England’s new schools curriculum](https://www.theguardian.com/education/2025/feb/25/audiobooks-england-new-schools-curriculum-reading-national-literacy-trust-poll)
-- [Ofcom calls on tech firms to step up action against ‘revenge porn’](https://www.theguardian.com/society/2025/feb/25/ofcom-calls-on-tech-firms-to-step-up-action-against-revenge-porn)
-- [Police to get new powers to find stolen phones in England and Wales](https://www.theguardian.com/uk-news/2025/feb/25/police-new-powers-to-find-stolen-phones-crime-bill-england-wales)
-- [Kate Bush and Damon Albarn among 1,000 artists on silent AI protest album](https://www.theguardian.com/technology/2025/feb/25/kate-bush-damon-albarn-1000-artists-silent-ai-protest-album-copyright)
-- [Cost of global energy crisis on households in Great Britain ‘to hit £3,000 by summer’](https://www.theguardian.com/business/2025/feb/25/cost-of-global-energy-crisis-on-households-in-great-britain-to-hit-3000-by-summer)
-- [Sayeeda Warsi and Mishal Husain back new lobby group for British Muslims](https://www.theguardian.com/world/2025/feb/25/sayeeda-warsi-mishal-husain-back-lobby-group-british-muslim-network)
+- [Republican budget blueprint to fund Trump’s agenda narrowly passes House](https://www.theguardian.com/us-news/2025/feb/25/republicans-spending-deal-medicaid-cuts)
+- [‘Superpod’ of more than 2,000 dolphins frolic off California coast: ‘Like flying eyebrows’](https://www.theguardian.com/us-news/2025/feb/25/dolphin-superpod-california)
+- [‘Mind-blowingly stupid’: Asio chief criticises News Corp’s alleged attempt to provoke Middle Eastern cafe staff](https://www.theguardian.com/media/2025/feb/26/mind-blowingly-stupid-asio-chief-criticises-alleged-news-corp-attempt-to-provoke-middle-eastern-cafe-senate-estimates-ntwnfb)
+- [Ukraine war briefing: Calls grow to spend all of Russia’s frozen billions on Ukrainian defence](https://www.theguardian.com/world/2025/feb/26/ukraine-war-briefing-calls-grow-to-spend-all-of-russias-frozen-billions-on-ukrainian-defence)
+- [MH370: search for missing Malaysia Airlines flight resumes after 11 years](https://www.theguardian.com/world/2025/feb/26/mh370-search-resumes-malaysia-airlines-ocean-infinity)
+- [Extra 220 children may have been wrongly detained as adult people smugglers in Australia, government admits](https://www.theguardian.com/australia-news/2025/feb/26/australia-government-indonesian-children-wrongly-jailed-people-smuggling-ntwnfb)
+- [Train robbers swipe $2m worth of Nikes in heists across California and Arizona](https://www.theguardian.com/us-news/2025/feb/25/california-arizona-train-robbers-nike-sneakers)
+- [The Chinese migrants hoping for a new life in Germany](https://www.theguardian.com/world/2025/feb/26/the-chinese-migrants-hoping-for-a-new-life-in-germany)
+- [UK urged to act now on net zero – and skip two kebabs’ worth of meat a week](https://www.theguardian.com/environment/2025/feb/26/uk-urged-to-act-now-on-net-zero-two-kebabs-worth-of-meat-climate-change-committee)
+- [UK battery firm says it has learned from others’ errors as it licenses Chinese tech](https://www.theguardian.com/business/2025/feb/26/uk-battery-firm-volklec-coventry)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

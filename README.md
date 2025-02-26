@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Everyone at NSF overseeing the Platforms for Wireless Experimentation is gone](https://discuss.systems/@ricci/114059690609284323)
-- [It&#39;s still worth blogging in the age of AI](https://www.gilesthomas.com/2025/02/blogging-in-the-age-of-ai)
-- [Clean Code vs. A Philosophy Of Software Design](https://github.com/johnousterhout/aposd-vs-clean-code/blob/main/README.md)
-- [&quot;The closer to the train station, the worse the kebab&quot; – a &quot;study&quot;](https://www.jmspae.se/write-ups/kebabs-train-stations/)
-- [Show HN: Electro – A hyper-fast Windows image viewer with a built-in terminal](https://github.com/pTinosq/Electro)
-- [Closing the &quot;green gap&quot;: energy savings from the math of the landscape function](https://terrytao.wordpress.com/2025/02/23/closing-the-green-gap-from-the-mathematics-of-the-landscape-function-to-lower-electricity-costs-for-households/)
-- [Claude 3.7 Sonnet and Claude Code](https://www.anthropic.com/news/claude-3-7-sonnet)
-- [The best way to use text embeddings portably is with Parquet and Polars](https://minimaxir.com/2025/02/embeddings-parquet/)
-- [Modular forms, the &#39;fifth fundamental operation&#39; of math &lpar;2023&rpar;](https://www.quantamagazine.org/behold-modular-forms-the-fifth-fundamental-operation-of-math-20230921/)
-- [Student refines 100-year-old math problem, expanding wind energy possibilities](https://www.psu.edu/news/engineering/story/student-refines-100-year-old-math-problem-expanding-wind-energy-possibilities)
+- [DeepSeek Open Sources DeepGEMM: Clean and efficient FP8 GEMM kernels](https://github.com/deepseek-ai/DeepGEMM)
+- [From Reform to Ruin in the USSR](https://www.cogitations.co/p/from-reform-to-ruin-in-the-ussr)
+- [Material Theme has been pulled from VS Code&#39;s marketplace](https://github.com/material-theme/vsc-material-theme/discussions/1313)
+- [Voker &lpar;YC S24&rpar; is hiring an LA-based full stack AI software engineer](https://www.linkedin.com/jobs/view/4165715593)
+- [EdgeDB is now Gel and Postgres is the future](https://www.geldata.com/blog/edgedb-is-now-gel-and-postgres-is-the-future)
+- [Show HN: MyCoder, an open source Claude-Code alternative](https://github.com/drivecore/mycoder)
+- [Ghost House – software for automatic inbetweens](https://www.tedwiggin.com/MIMT.html)
+- [Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs [pdf]](https://martins1612.github.io/emergent_misalignment_betley.pdf)
+- [Framework&#39;s first desktop is a strange–but unique–mini ITX gaming PC](https://arstechnica.com/gadgets/2025/02/framework-known-for-upgradable-laptops-intros-not-particularly-upgradable-desktop/)
+- [I Went to SQL Injection Court](https://sockpuppet.org/blog/2025/02/09/fixing-illinois-foia/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

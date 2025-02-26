@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [U.S. Economy Being Powered by the Richest 10%](https://www.wsj.com/economy/consumers/us-economy-strength-rich-spending-2c34a571)
-- [&lpar;ODNI&rpar; the Games They Play: Russian Strategic Political Deceptions &lpar;2008&rpar; [pdf]](https://www.governmentattic.org/56docs/ODNIgamesTheyPlayThesis2008.pdf)
-- [Demonstrating a Quantum Edge in a Coloring Game](https://physics.aps.org/articles/v18/s27)
-- [Potential cellular &#39;master switch&#39; capable of reversing senescence](https://studyfinds.org/master-switch-cellular-aging-senescence/)
-- [The Myth Buster: Rodney Brooks Breaks Down the Hype Around AI](https://www.newsweek.com/rodney-brooks-ai-impact-interview-futures-2034669)
-- [DeepSeek open source DeepEP – library for MoE training and Inference](https://github.com/deepseek-ai/DeepEP)
-- [Ad-hoc polymorphism erodes type-safety](https://cs-syd.eu/posts/2023-08-25-ad-hoc-polymorphism-erodes-type-safety)
-- [Can AI-Generated Slides Change Our Workflow?](https://autoppt.com/)
-- [Boosting digital resilience in financial services by moving to the cloud](https://www.nearform.com/insights/prevent-respond-recover-boosting-digital-resilience-in-financial-services-by-moving-to-the-cloud/)
-- [Ask HN: Fine-tuning Llama for humanizing AI text?](https://news.ycombinator.com/item?id=43167313)
+- [A tiny spacecraft is poised to launch on an unprecedented deep-space mission](https://www.cnn.com/2025/02/25/science/astroforge-asteroid-mining-spacex-launch/index.html)
+- [SE-0458: Opt-In Strict Memory Safety Checking in Swift](https://forums.swift.org/t/accepted-se-0458-opt-in-strict-memory-safety-checking/78116)
+- [How Meta is translating its Java codebase to Kotlin](https://engineering.fb.com/2025/02/25/android/how-meta-is-translating-its-java-codebase-to-kotlin/)
+- [PrependAI – Solving the Data Ingestion Nightmare for AI Agents](https://www.prepend.dev)
+- [Trump allies circulate deportation plans calling for &#39;processing camps&#39;](https://www.politico.com/news/2025/02/25/documents-military-contractors-mass-deportations-022648)
+- [Passion Is a Superpower](https://www.trevorhinesley.com/posts/passion-is-a-superpower)
+- [&#39;Event Scripts&#39; Structure Our Personal Memories](https://www.quantamagazine.org/how-event-scripts-structure-our-personal-memories-20250221/)
+- [DOGE staffers resign, saying they won&#39;t help &#39;dismantle&#39; public services](https://text.npr.org/nx-s1-5308095)
+- [Clip: Copy glob files to the clipboard for easy context gathering for AI](https://github.com/jflam/clip)
+- [Ask HN: Is DeepSeek Slow?](https://news.ycombinator.com/item?id=43179879)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [A tiny spacecraft is poised to launch on an unprecedented deep-space mission](https://www.cnn.com/2025/02/25/science/astroforge-asteroid-mining-spacex-launch/index.html)
-- [SE-0458: Opt-In Strict Memory Safety Checking in Swift](https://forums.swift.org/t/accepted-se-0458-opt-in-strict-memory-safety-checking/78116)
-- [How Meta is translating its Java codebase to Kotlin](https://engineering.fb.com/2025/02/25/android/how-meta-is-translating-its-java-codebase-to-kotlin/)
-- [PrependAI – Solving the Data Ingestion Nightmare for AI Agents](https://www.prepend.dev)
-- [Trump allies circulate deportation plans calling for &#39;processing camps&#39;](https://www.politico.com/news/2025/02/25/documents-military-contractors-mass-deportations-022648)
-- [Passion Is a Superpower](https://www.trevorhinesley.com/posts/passion-is-a-superpower)
-- [&#39;Event Scripts&#39; Structure Our Personal Memories](https://www.quantamagazine.org/how-event-scripts-structure-our-personal-memories-20250221/)
-- [DOGE staffers resign, saying they won&#39;t help &#39;dismantle&#39; public services](https://text.npr.org/nx-s1-5308095)
-- [Clip: Copy glob files to the clipboard for easy context gathering for AI](https://github.com/jflam/clip)
-- [Ask HN: Is DeepSeek Slow?](https://news.ycombinator.com/item?id=43179879)
+- [The &#39;Spy Sheikh&#39; Taking the AI World by Storm](https://www.wsj.com/tech/ai/abu-dhabi-spy-sheikh-ai-c4a9d48c)
+- [Claude Code Installer Suggests a Command That Can Destroy Your Linux System](https://github.com/anthropics/claude-code/issues/168)
+- [Facebook is down](https://news.ycombinator.com/item?id=43190742)
+- [Pike-RAG: SPecIalized KnowledgE and Rationale Augmented Generation](https://github.com/microsoft/PIKE-RAG)
+- [Enhancing functions and variables with lifecycles for UI development](https://github.com/livetrails/targetjs)
+- [Diffusion based language model open access from Inception labs](https://www.inceptionlabs.ai/)
+- [EPLB: Expert Parallelism Load Balancer](https://github.com/deepseek-ai/EPLB)
+- [We Are Kerala&#39;s Best Lead Generation Agency – We Are Click Crafters Technology](https://news.ycombinator.com/item?id=43190701)
+- [Diffusion based language model open access from Inception labs](https://infeptionlabs.ai)
+- [Tulsi Gabbard suggests UK broke agreement in asking Apple for backdoor](https://9to5mac.com/2025/02/26/director-of-national-intelligence-tulsi-gabbard-suggests-uk-broke-agreement-in-secretly-asking-apple-to-build-icloud-backdoor/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

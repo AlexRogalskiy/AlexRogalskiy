@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Republican budget blueprint to fund Trump’s agenda narrowly passes House](https://www.theguardian.com/us-news/2025/feb/25/republicans-spending-deal-medicaid-cuts)
-- [‘Superpod’ of more than 2,000 dolphins frolic off California coast: ‘Like flying eyebrows’](https://www.theguardian.com/us-news/2025/feb/25/dolphin-superpod-california)
-- [‘Mind-blowingly stupid’: Asio chief criticises News Corp’s alleged attempt to provoke Middle Eastern cafe staff](https://www.theguardian.com/media/2025/feb/26/mind-blowingly-stupid-asio-chief-criticises-alleged-news-corp-attempt-to-provoke-middle-eastern-cafe-senate-estimates-ntwnfb)
-- [Ukraine war briefing: Calls grow to spend all of Russia’s frozen billions on Ukrainian defence](https://www.theguardian.com/world/2025/feb/26/ukraine-war-briefing-calls-grow-to-spend-all-of-russias-frozen-billions-on-ukrainian-defence)
-- [MH370: search for missing Malaysia Airlines flight resumes after 11 years](https://www.theguardian.com/world/2025/feb/26/mh370-search-resumes-malaysia-airlines-ocean-infinity)
-- [Extra 220 children may have been wrongly detained as adult people smugglers in Australia, government admits](https://www.theguardian.com/australia-news/2025/feb/26/australia-government-indonesian-children-wrongly-jailed-people-smuggling-ntwnfb)
-- [Train robbers swipe $2m worth of Nikes in heists across California and Arizona](https://www.theguardian.com/us-news/2025/feb/25/california-arizona-train-robbers-nike-sneakers)
-- [The Chinese migrants hoping for a new life in Germany](https://www.theguardian.com/world/2025/feb/26/the-chinese-migrants-hoping-for-a-new-life-in-germany)
-- [UK urged to act now on net zero – and skip two kebabs’ worth of meat a week](https://www.theguardian.com/environment/2025/feb/26/uk-urged-to-act-now-on-net-zero-two-kebabs-worth-of-meat-climate-change-committee)
-- [UK battery firm says it has learned from others’ errors as it licenses Chinese tech](https://www.theguardian.com/business/2025/feb/26/uk-battery-firm-volklec-coventry)
+- [Trump executive order targets payments and travel after reporters barred from cabinet meeting – live](https://www.theguardian.com/us-news/live/2025/feb/26/donald-trump-mike-johnson-republicans-democrats-spending-bill-elon-musk-doge-us-politics-news-live)
+- [Satellite image captures three tropical cyclones spinning in the South Pacific at once](https://www.theguardian.com/world/2025/feb/27/tropical-cyclone-alfred-seru-rae-pacific-weather-climate)
+- [Israel releases some Palestinian prisoners after Hamas returns bodies of four hostages](https://www.theguardian.com/world/2025/feb/26/hamas-gives-up-bodies-of-four-hostages-as-ceasefire-appears-to-get-back-on-track)
+- [Ukraine war briefing: Kyiv’s troops regain village near Pokrovsk where ISW says Russians falter](https://www.theguardian.com/world/2025/feb/27/ukraine-war-briefing-kyivs-troops-regain-village-near-pokrovsk-as-isw-says-russians-falter)
+- [North Korea behind $1.5bn hack of crypto exchange ByBit, says FBI](https://www.theguardian.com/world/2025/feb/27/north-korea-bybit-crypto-exchange-hack-fbi)
+- [Only 5% of UK medical school entrants are working class, data shows](https://www.theguardian.com/society/2025/feb/27/only-5-of-uk-medical-school-entrants-are-working-class-data-shows)
+- [Reforms needed to way potential miscarriages of justice handled, says Law Commission](https://www.theguardian.com/law/2025/feb/27/reforms-needed-to-way-potential-miscarriages-of-justice-handled-says-law-commission)
+- [Sussex to launch UK’s first climate justice undergraduate degree](https://www.theguardian.com/education/2025/feb/27/sussex-to-launch-uks-first-climate-justice-undergraduate-degree)
+- [The Last Laugh review – Eric Morecambe, Tommy Cooper and Bob Monkhouse’s antic triple act](https://www.theguardian.com/stage/2025/feb/27/the-last-laugh-review-theatre-royal-brighton)
+- [US national security director condemns UK request for Apple data ‘backdoor’](https://www.theguardian.com/us-news/2025/feb/26/tulsi-gabbard-uk-apple)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

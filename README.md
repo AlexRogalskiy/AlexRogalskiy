@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [DeepSeek Open Sources DeepGEMM: Clean and efficient FP8 GEMM kernels](https://github.com/deepseek-ai/DeepGEMM)
-- [From Reform to Ruin in the USSR](https://www.cogitations.co/p/from-reform-to-ruin-in-the-ussr)
-- [Material Theme has been pulled from VS Code&#39;s marketplace](https://github.com/material-theme/vsc-material-theme/discussions/1313)
-- [Voker &lpar;YC S24&rpar; is hiring an LA-based full stack AI software engineer](https://www.linkedin.com/jobs/view/4165715593)
-- [EdgeDB is now Gel and Postgres is the future](https://www.geldata.com/blog/edgedb-is-now-gel-and-postgres-is-the-future)
-- [Show HN: MyCoder, an open source Claude-Code alternative](https://github.com/drivecore/mycoder)
-- [Ghost House – software for automatic inbetweens](https://www.tedwiggin.com/MIMT.html)
-- [Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs [pdf]](https://martins1612.github.io/emergent_misalignment_betley.pdf)
-- [Framework&#39;s first desktop is a strange–but unique–mini ITX gaming PC](https://arstechnica.com/gadgets/2025/02/framework-known-for-upgradable-laptops-intros-not-particularly-upgradable-desktop/)
-- [I Went to SQL Injection Court](https://sockpuppet.org/blog/2025/02/09/fixing-illinois-foia/)
+- [DualPipe: An innovative bidirectional pipeline parallelism algorithm](https://github.com/deepseek-ai/DualPipe)
+- [DeepSeek Open Source Optimized Parallelism Strategies, 3 repos](https://github.com/deepseek-ai/profile-data)
+- [Geometric Algebra](https://bivector.net/)
+- [iMac G4&lpar;K&rpar;](https://jcs.org/2025/02/26/imacg4k)
+- [Tom Stevenson on the deciphering of Linear Elamite](https://www.lrb.co.uk/the-paper/v47/n04/tom-stevenson/beyond-mesopotamia)
+- [Put a data center on the moon?](https://spectrum.ieee.org/data-center-on-the-moon)
+- [Show HN: LLM plays Pokémon &lpar;open sourced&rpar;](https://github.com/adenta/fire_red_agent)
+- [Replace OCR with Vision Language Models](https://github.com/vlm-run/vlmrun-cookbook/blob/main/notebooks/01_schema_showcase.ipynb)
+- [The need for memory safety standards](https://security.googleblog.com/2025/02/securing-tomorrows-software-need-for.html)
+- [Skopje’s eccentric post office &lpar;2021&rpar;](https://www.new-east-archive.org/articles/show/12963/concrete-ideas-skopje-central-post-office-modernist-brutalism-demolition-architecture-north-macedonia)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

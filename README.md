@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The &#39;Spy Sheikh&#39; Taking the AI World by Storm](https://www.wsj.com/tech/ai/abu-dhabi-spy-sheikh-ai-c4a9d48c)
-- [Claude Code Installer Suggests a Command That Can Destroy Your Linux System](https://github.com/anthropics/claude-code/issues/168)
-- [Facebook is down](https://news.ycombinator.com/item?id=43190742)
-- [Pike-RAG: SPecIalized KnowledgE and Rationale Augmented Generation](https://github.com/microsoft/PIKE-RAG)
-- [Enhancing functions and variables with lifecycles for UI development](https://github.com/livetrails/targetjs)
-- [Diffusion based language model open access from Inception labs](https://www.inceptionlabs.ai/)
-- [EPLB: Expert Parallelism Load Balancer](https://github.com/deepseek-ai/EPLB)
-- [We Are Kerala&#39;s Best Lead Generation Agency – We Are Click Crafters Technology](https://news.ycombinator.com/item?id=43190701)
-- [Diffusion based language model open access from Inception labs](https://infeptionlabs.ai)
-- [Tulsi Gabbard suggests UK broke agreement in asking Apple for backdoor](https://9to5mac.com/2025/02/26/director-of-national-intelligence-tulsi-gabbard-suggests-uk-broke-agreement-in-secretly-asking-apple-to-build-icloud-backdoor/)
+- [Mechanical Turk](https://en.wikipedia.org/wiki/Mechanical_Turk)
+- [Hydrogen cyanide and acetylene detected in a brown dwarf](https://phys.org/news/2025-02-hydrogen-cyanide-acetylene-brown-dwarf.html)
+- [Deadlock and Resource Leak Free Languages – Jules Jacobs [video]](https://www.youtube.com/watch?v=cUUPdE5cz-Q)
+- [New York City Littoral Common Brick Index](https://www.bricksnyc.com)
+- [Meta fires around 20 employees for leaking confidential information](https://techcrunch.com/2025/02/27/meta-fires-around-20-employees-for-leaking-confidential-information/)
+- [America Needs a National Service Program](https://letter.palladiummag.com/p/america-needs-a-national-service)
+- [Becoming a Beer Sommelier Is Almost Impossible.](https://www.wsj.com/lifestyle/beer-sommelier-master-cicerone-brew-tasting-bd626d19)
+- [Essential Work-from-Home Advice: Cheap and Easy Ergonomic Setups](https://www.fast.ai/posts/2020-08-06-ergonomics.html)
+- [By Deconstructing Buildings with Care, Materials Get a Second Life](https://reasonstobecheerful.world/by-deconstructing-buildings-with-care-materials-get-a-second-life/)
+- [Nearby Supernova Left Footprints on the Cosmic-Ray Spectrum and Imprints on Life](https://iopscience.iop.org/article/10.3847/2041-8213/ada27a)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

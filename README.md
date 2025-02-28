@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Trump executive order targets payments and travel after reporters barred from cabinet meeting – live](https://www.theguardian.com/us-news/live/2025/feb/26/donald-trump-mike-johnson-republicans-democrats-spending-bill-elon-musk-doge-us-politics-news-live)
-- [Satellite image captures three tropical cyclones spinning in the South Pacific at once](https://www.theguardian.com/world/2025/feb/27/tropical-cyclone-alfred-seru-rae-pacific-weather-climate)
-- [Israel releases some Palestinian prisoners after Hamas returns bodies of four hostages](https://www.theguardian.com/world/2025/feb/26/hamas-gives-up-bodies-of-four-hostages-as-ceasefire-appears-to-get-back-on-track)
-- [Ukraine war briefing: Kyiv’s troops regain village near Pokrovsk where ISW says Russians falter](https://www.theguardian.com/world/2025/feb/27/ukraine-war-briefing-kyivs-troops-regain-village-near-pokrovsk-as-isw-says-russians-falter)
-- [North Korea behind $1.5bn hack of crypto exchange ByBit, says FBI](https://www.theguardian.com/world/2025/feb/27/north-korea-bybit-crypto-exchange-hack-fbi)
-- [Only 5% of UK medical school entrants are working class, data shows](https://www.theguardian.com/society/2025/feb/27/only-5-of-uk-medical-school-entrants-are-working-class-data-shows)
-- [Reforms needed to way potential miscarriages of justice handled, says Law Commission](https://www.theguardian.com/law/2025/feb/27/reforms-needed-to-way-potential-miscarriages-of-justice-handled-says-law-commission)
-- [Sussex to launch UK’s first climate justice undergraduate degree](https://www.theguardian.com/education/2025/feb/27/sussex-to-launch-uks-first-climate-justice-undergraduate-degree)
-- [The Last Laugh review – Eric Morecambe, Tommy Cooper and Bob Monkhouse’s antic triple act](https://www.theguardian.com/stage/2025/feb/27/the-last-laugh-review-theatre-royal-brighton)
-- [US national security director condemns UK request for Apple data ‘backdoor’](https://www.theguardian.com/us-news/2025/feb/26/tulsi-gabbard-uk-apple)
+- [Planetary parade: Mercury falls into line for rare seven-planet alignment](https://www.theguardian.com/science/2025/feb/28/planetary-parade-visible-february-28-how-to-see-planets-aligned)
+- [A journey through the hyper-political world of microchips](https://www.theguardian.com/technology/2025/feb/28/inside-the-mind-bending-tin-blasting-and-hyper-political-world-of-microchips)
+- [Peppa Pig to have new brother or sister, mother of popular TV character says](https://www.theguardian.com/tv-and-radio/2025/feb/28/peppa-pig-sibling-announced-good-morning-britain)
+- [Cop16 countries strike crucial deal on nature despite global tensions](https://www.theguardian.com/environment/2025/feb/28/cop-16-climate-nature-funding-agreement)
+- [Ukraine war briefing: Trump panders to Russia by shutting Kyiv out of Nato, says Kaja Kallas](https://www.theguardian.com/world/2025/feb/28/ukraine-war-briefing-trump-panders-to-russia-by-shutting-kyiv-out-of-nato-says-kaja-kallas)
+- [HS2 ‘a casebook example of how not to run a major project’, MPs say](https://www.theguardian.com/uk-news/2025/feb/28/hs2-a-casebook-example-of-how-not-to-run-a-major-project-mps-say)
+- [FA Cup fifth round: 10 things to look out for this weekend](https://www.theguardian.com/football/2025/feb/28/fa-cup-fifth-round-10-things-to-look-out-for-this-weekend)
+- [BBC apologises for ‘significant and damaging’ mistakes in Gaza film](https://www.theguardian.com/media/2025/feb/27/bbc-creative-chief-charlotte-moore-to-leave-for-sony-job)
+- [Luke Humphries sees off Luke Littler to secure Premier League win in Exeter](https://www.theguardian.com/sport/2025/feb/27/luke-humphries-sees-off-luke-littler-to-secure-premier-league-win-in-exeter)
+- [Judge temporarily blocks Trump’s mass firings at federal agencies](https://www.theguardian.com/us-news/2025/feb/27/judge-temporarily-blocks-trump-firings)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

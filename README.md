@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [DualPipe: An innovative bidirectional pipeline parallelism algorithm](https://github.com/deepseek-ai/DualPipe)
-- [DeepSeek Open Source Optimized Parallelism Strategies, 3 repos](https://github.com/deepseek-ai/profile-data)
-- [Geometric Algebra](https://bivector.net/)
-- [iMac G4&lpar;K&rpar;](https://jcs.org/2025/02/26/imacg4k)
-- [Tom Stevenson on the deciphering of Linear Elamite](https://www.lrb.co.uk/the-paper/v47/n04/tom-stevenson/beyond-mesopotamia)
-- [Put a data center on the moon?](https://spectrum.ieee.org/data-center-on-the-moon)
-- [Show HN: LLM plays Pokémon &lpar;open sourced&rpar;](https://github.com/adenta/fire_red_agent)
-- [Replace OCR with Vision Language Models](https://github.com/vlm-run/vlmrun-cookbook/blob/main/notebooks/01_schema_showcase.ipynb)
-- [The need for memory safety standards](https://security.googleblog.com/2025/02/securing-tomorrows-software-need-for.html)
-- [Skopje’s eccentric post office &lpar;2021&rpar;](https://www.new-east-archive.org/articles/show/12963/concrete-ideas-skopje-central-post-office-modernist-brutalism-demolition-architecture-north-macedonia)
+- [Welcome to Ladybird, a truly independent web browser](https://github.com/LadybirdBrowser/ladybird)
+- [Fire-Flyer File System from DeepSeek](https://github.com/deepseek-ai/3FS)
+- [Does iOS Have Sideloading Yet? No](https://doesioshavesideloadingyet.com/)
+- [Markov Chains Explained Visually &lpar;2014&rpar;](https://setosa.io/ev/markov-chains/)
+- [&quot;Free&quot; Office for Windows is being trialed](https://office-watch.com/2025/free-office-for-windows-is-being-trialed/)
+- [Mozilla owns &quot;information you input through Firefox&quot;](https://www.mozilla.org/en-US/about/legal/terms/firefox/)
+- [Some Command &amp; Conquer games are now open source](https://github.com/electronicarts)
+- [IBM Completes Acquisition of HashiCorp](https://newsroom.ibm.com/2025-02-27-ibm-completes-acquisition-of-hashicorp,-creates-comprehensive,-end-to-end-hybrid-cloud-platform)
+- [World-first experimental cancer treatment paves way for clinical trial](https://www.wehi.edu.au/news/world-first-experimental-cancer-treatment-paves-way-for-clinical-trial/)
+- [Postgres as a Graph Database: &lpar;Ab&rpar;Using PgRouting](https://supabase.com/blog/pgrouting-postgres-graph-database)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

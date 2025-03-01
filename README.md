@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Mechanical Turk](https://en.wikipedia.org/wiki/Mechanical_Turk)
-- [Hydrogen cyanide and acetylene detected in a brown dwarf](https://phys.org/news/2025-02-hydrogen-cyanide-acetylene-brown-dwarf.html)
-- [Deadlock and Resource Leak Free Languages – Jules Jacobs [video]](https://www.youtube.com/watch?v=cUUPdE5cz-Q)
-- [New York City Littoral Common Brick Index](https://www.bricksnyc.com)
-- [Meta fires around 20 employees for leaking confidential information](https://techcrunch.com/2025/02/27/meta-fires-around-20-employees-for-leaking-confidential-information/)
-- [America Needs a National Service Program](https://letter.palladiummag.com/p/america-needs-a-national-service)
-- [Becoming a Beer Sommelier Is Almost Impossible.](https://www.wsj.com/lifestyle/beer-sommelier-master-cicerone-brew-tasting-bd626d19)
-- [Essential Work-from-Home Advice: Cheap and Easy Ergonomic Setups](https://www.fast.ai/posts/2020-08-06-ergonomics.html)
-- [By Deconstructing Buildings with Care, Materials Get a Second Life](https://reasonstobecheerful.world/by-deconstructing-buildings-with-care-materials-get-a-second-life/)
-- [Nearby Supernova Left Footprints on the Cosmic-Ray Spectrum and Imprints on Life](https://iopscience.iop.org/article/10.3847/2041-8213/ada27a)
+- [AI Will Upend a Basic Assumption About How Companies Are Organized](https://www.bloomberg.com/news/articles/2025-02-28/how-ai-reasoning-models-will-change-companies-and-the-economy)
+- [The Declaration of Real Alignment](https://news.ycombinator.com/item?id=43215159)
+- [CreateMyToken](https://www.createmytoken.net/https:/createmytoken.net)
+- [Cellebrite zero-day exploit used to target phone of Serbian student activist](https://securitylab.amnesty.org/latest/2025/02/cellebrite-zero-day-exploit-used-to-target-phone-of-serbian-student-activist/)
+- [Continued &quot;Longevity Island&quot; Talks: EthDenver/Feb&#39;s End/March Start Added](https://twitter.com/RealityMetadata/status/1895657425933623788)
+- [A Starter Pack to Building a Local Chatbot Using Ollama, LangGraph and RAG](https://medium.com/kredivotechblog/a-starter-pack-to-building-a-local-chatbot-using-ollama-langgraph-and-rag-6d25b7f43d07)
+- [My Cheap Web Game](https://hoops.staabse.com)
+- [RFK Jr Issues rule barring public comment on HHS rulemaking](https://thehill.com/policy/healthcare/5170090-rfk-jr-hhs-public-comment-rulemaking-ends/)
+- [Show HN: 1,400 in 90 Days – Lessons from My First Indie iOS App](https://linwangg.substack.com/p/how-i-made-1400-from-one-ios-app)
+- [Deep Learning&#39;s Memory Crisis Solved? Introducing the &#39;Lean Model&#39; Revolution](https://news.ycombinator.com/item?id=43215082)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

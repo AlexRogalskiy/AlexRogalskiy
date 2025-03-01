@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Planetary parade: Mercury falls into line for rare seven-planet alignment](https://www.theguardian.com/science/2025/feb/28/planetary-parade-visible-february-28-how-to-see-planets-aligned)
-- [A journey through the hyper-political world of microchips](https://www.theguardian.com/technology/2025/feb/28/inside-the-mind-bending-tin-blasting-and-hyper-political-world-of-microchips)
-- [Peppa Pig to have new brother or sister, mother of popular TV character says](https://www.theguardian.com/tv-and-radio/2025/feb/28/peppa-pig-sibling-announced-good-morning-britain)
-- [Cop16 countries strike crucial deal on nature despite global tensions](https://www.theguardian.com/environment/2025/feb/28/cop-16-climate-nature-funding-agreement)
-- [Ukraine war briefing: Trump panders to Russia by shutting Kyiv out of Nato, says Kaja Kallas](https://www.theguardian.com/world/2025/feb/28/ukraine-war-briefing-trump-panders-to-russia-by-shutting-kyiv-out-of-nato-says-kaja-kallas)
-- [HS2 ‘a casebook example of how not to run a major project’, MPs say](https://www.theguardian.com/uk-news/2025/feb/28/hs2-a-casebook-example-of-how-not-to-run-a-major-project-mps-say)
-- [FA Cup fifth round: 10 things to look out for this weekend](https://www.theguardian.com/football/2025/feb/28/fa-cup-fifth-round-10-things-to-look-out-for-this-weekend)
-- [BBC apologises for ‘significant and damaging’ mistakes in Gaza film](https://www.theguardian.com/media/2025/feb/27/bbc-creative-chief-charlotte-moore-to-leave-for-sony-job)
-- [Luke Humphries sees off Luke Littler to secure Premier League win in Exeter](https://www.theguardian.com/sport/2025/feb/27/luke-humphries-sees-off-luke-littler-to-secure-premier-league-win-in-exeter)
-- [Judge temporarily blocks Trump’s mass firings at federal agencies](https://www.theguardian.com/us-news/2025/feb/27/judge-temporarily-blocks-trump-firings)
+- [European leaders rush to back Zelenskyy after fiery meeting with Trump at White House – live](https://www.theguardian.com/world/live/2025/feb/28/volodymyr-zelenskyy-donald-trump-us-minerals-deal-russia-ukraine-live-news)
+- [Documents seized by FBI in Mar-a-Lago raid returned to Trump, White House says – live](https://www.theguardian.com/us-news/live/2025/feb/28/donald-trump-doge-labor-unions-volodymyr-zelenskyy-us-politics-live-news)
+- [Ukraine ‘gambling with world war three’, Trump tells Zelenskyy in fiery meeting](https://www.theguardian.com/us-news/2025/feb/28/trump-zelenskyy-meeting-ukraine-aid-war)
+- [Popping a manu: New Zealand searches for dive-bombing champion - video](https://www.theguardian.com/global/video/2025/feb/28/67c1500c8f08caca48c01d67)
+- [Carbon monoxide poisoning ruled out in death of Gene Hackman and wife, police say](https://www.theguardian.com/us-news/2025/feb/28/gene-hackman-wife-death-investigation)
+- [Rose Girone, believed to be oldest living Holocaust survivor, dies aged 113](https://www.theguardian.com/world/2025/feb/28/rose-girone-oldest-living-holocaust-survivor-dead)
+- [Alabama governor commutes death sentence of man convicted for 1991 murder](https://www.theguardian.com/us-news/2025/feb/28/robin-rocky-myers-death-sentence-commuted)
+- [‘Free world needs a new leader’, says EU foreign chief after Trump Zelenskyy row](https://www.theguardian.com/world/2025/feb/28/european-leaders-throw-support-behind-zelenskyy-after-heated-trump-meeting)
+- [European football: Coman seals comeback win for Bayern at Stuttgart](https://www.theguardian.com/football/2025/feb/28/european-football-coman-seals-comeback-win-for-bayern-at-stuttgart-bundesliga-serie-a)
+- [Unwelcome country: why have some conservative politicians stopped acknowledging Indigenous lands in Australia?](https://www.theguardian.com/australia-news/2025/mar/01/unwelcome-country-why-have-some-conservative-politicians-stopped-acknowledging-indigenous-lands-in-australia)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

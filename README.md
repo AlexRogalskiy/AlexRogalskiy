@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [AI Will Upend a Basic Assumption About How Companies Are Organized](https://www.bloomberg.com/news/articles/2025-02-28/how-ai-reasoning-models-will-change-companies-and-the-economy)
-- [The Declaration of Real Alignment](https://news.ycombinator.com/item?id=43215159)
-- [CreateMyToken](https://www.createmytoken.net/https:/createmytoken.net)
-- [Cellebrite zero-day exploit used to target phone of Serbian student activist](https://securitylab.amnesty.org/latest/2025/02/cellebrite-zero-day-exploit-used-to-target-phone-of-serbian-student-activist/)
-- [Continued &quot;Longevity Island&quot; Talks: EthDenver/Feb&#39;s End/March Start Added](https://twitter.com/RealityMetadata/status/1895657425933623788)
-- [A Starter Pack to Building a Local Chatbot Using Ollama, LangGraph and RAG](https://medium.com/kredivotechblog/a-starter-pack-to-building-a-local-chatbot-using-ollama-langgraph-and-rag-6d25b7f43d07)
-- [My Cheap Web Game](https://hoops.staabse.com)
-- [RFK Jr Issues rule barring public comment on HHS rulemaking](https://thehill.com/policy/healthcare/5170090-rfk-jr-hhs-public-comment-rulemaking-ends/)
-- [Show HN: 1,400 in 90 Days – Lessons from My First Indie iOS App](https://linwangg.substack.com/p/how-i-made-1400-from-one-ios-app)
-- [Deep Learning&#39;s Memory Crisis Solved? Introducing the &#39;Lean Model&#39; Revolution](https://news.ycombinator.com/item?id=43215082)
+- [Firefly Blue Ghost Mission 1 Lunar Landing – Live from 2:30 Am EST &lpar;0730 UTC&rpar; [video]](https://www.youtube.com/watch?v=3SSjzdj-ONw)
+- [The Clip](https://unintendedconsequenc.es/the-clip/)
+- [Anywhere on Earth](https://en.wikipedia.org/wiki/Anywhere_on_Earth)
+- [The INTERNET is killing old PC hardware [video]](https://www.youtube.com/watch?v=TE_ePuGAvPM)
+- [How to get rid of the new Apple Mail redesign](https://techcrunch.com/2025/03/01/how-to-get-rid-of-the-new-apple-mail-redesign/)
+- [Why I&#39;m Learning C# and .NET After Two Decades of Programming](https://kerrick.blog/articles/2025/why-i-am-learning-c-sharp-and-dot-net-after-two-decades-of-programming/)
+- [Ask HN: Concerns around knowledge loss from vibe coding?](https://news.ycombinator.com/item?id=43226332)
+- [Ask HN: How Concerned Are You](https://news.ycombinator.com/item?id=43226297)
+- [Astronomers discover &#39;Quipu&#39;, the single largest structure in the known universe](https://www.livescience.com/space/astronomy/astronomers-discover-quipu-the-single-largest-structure-in-the-known-universe)
+- [At 3 a.m., I Turned to AI for Comfort. That Was My First Mistake](https://thewalrus.ca/at-3-a-m-i-turned-to-ai-for-comfort-that-was-my-first-mistake/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

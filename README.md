@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [European leaders rush to back Zelenskyy after fiery meeting with Trump at White House – live](https://www.theguardian.com/world/live/2025/feb/28/volodymyr-zelenskyy-donald-trump-us-minerals-deal-russia-ukraine-live-news)
-- [Documents seized by FBI in Mar-a-Lago raid returned to Trump, White House says – live](https://www.theguardian.com/us-news/live/2025/feb/28/donald-trump-doge-labor-unions-volodymyr-zelenskyy-us-politics-live-news)
-- [Ukraine ‘gambling with world war three’, Trump tells Zelenskyy in fiery meeting](https://www.theguardian.com/us-news/2025/feb/28/trump-zelenskyy-meeting-ukraine-aid-war)
-- [Popping a manu: New Zealand searches for dive-bombing champion - video](https://www.theguardian.com/global/video/2025/feb/28/67c1500c8f08caca48c01d67)
-- [Carbon monoxide poisoning ruled out in death of Gene Hackman and wife, police say](https://www.theguardian.com/us-news/2025/feb/28/gene-hackman-wife-death-investigation)
-- [Rose Girone, believed to be oldest living Holocaust survivor, dies aged 113](https://www.theguardian.com/world/2025/feb/28/rose-girone-oldest-living-holocaust-survivor-dead)
-- [Alabama governor commutes death sentence of man convicted for 1991 murder](https://www.theguardian.com/us-news/2025/feb/28/robin-rocky-myers-death-sentence-commuted)
-- [‘Free world needs a new leader’, says EU foreign chief after Trump Zelenskyy row](https://www.theguardian.com/world/2025/feb/28/european-leaders-throw-support-behind-zelenskyy-after-heated-trump-meeting)
-- [European football: Coman seals comeback win for Bayern at Stuttgart](https://www.theguardian.com/football/2025/feb/28/european-football-coman-seals-comeback-win-for-bayern-at-stuttgart-bundesliga-serie-a)
-- [Unwelcome country: why have some conservative politicians stopped acknowledging Indigenous lands in Australia?](https://www.theguardian.com/australia-news/2025/mar/01/unwelcome-country-why-have-some-conservative-politicians-stopped-acknowledging-indigenous-lands-in-australia)
+- [Trump administration briefing: pro-Ukraine rallies across US as Trump officials fume at Zelenskyy](https://www.theguardian.com/us-news/2025/mar/02/trump-administration-briefing-pro-ukraine-rallies-across-us-as-trump-officials-fume-at-zelenskyy)
+- [Tropical Cyclone Alfred ‘likely’ to head towards southern Queensland coast later this week](https://www.theguardian.com/australia-news/2025/mar/02/tropical-cyclone-alfred-likely-to-head-towards-southern-queensland-coast-later-this-week)
+- [Lithuanian rower attempting to cross Pacific activates emergency beacon off Queensland near Cyclone Alfred](https://www.theguardian.com/sport/2025/mar/02/lithuanian-rower-attempting-to-cross-pacific-activates-emergency-beacon-off-queensland-near-cyclone-alfred)
+- [Wigan hit the jackpot as Super League catches the eye on Las Vegas debut](https://www.theguardian.com/sport/2025/mar/01/wigan-warrington-las-vegas-super-league-rugby-league)
+- [Spring forward: top 10 womenswear trends to update your wardrobe – in pictures](https://www.theguardian.com/fashion/gallery/2025/mar/01/spring-forward-top-10-womenswear-trends-to-update-your-wardrobe-in-pictures)
+- [Brat awards! Charli xcx wins five Brits for zeitgeist-conquering album](https://www.theguardian.com/music/2025/mar/01/brat-awards-charli-xcx-wins-five-brits-for-zeitgeist-conquering-album)
+- [Ruthless Amorim says United’s slump has made him a more complete manager](https://www.theguardian.com/football/2025/mar/01/ruben-amorim-manchester-united-slump-more-complete-manager)
+- [‘I said there was no reason to make it a musical!’ Mel Brooks on The Producers’ West End transfer](https://www.theguardian.com/stage/2025/mar/01/the-producers-west-end-mel-brooks-menier-garrick-musical)
+- [Wild, waspish and whip-smart, there are few rock stars as great as David Johansen | Alexis Petridis](https://www.theguardian.com/music/2025/mar/01/wild-waspish-and-whip-smart-rock-stars-great-david-johansen)
+- [Trump says in social media post he plans to pardon the late Pete Rose](https://www.theguardian.com/sport/2025/mar/01/pete-rose-pardon-donald-trump-gambling)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

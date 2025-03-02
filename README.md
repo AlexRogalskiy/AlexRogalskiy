@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [When eBPF pt_regs reads return garbage on the latest Linux kernels, blame Fred](https://tanelpoder.com/posts/ebpf-pt-regs-error-on-linux-blame-fred/)
-- [The Housing Theory of Everything](https://worksinprogress.co/issue/the-housing-theory-of-everything/)
-- [An Update on Mozilla&#39;s Terms of Use for Firefox](https://blog.mozilla.org/en/products/firefox/update-on-terms-of-use/)
-- [Inheriting is becoming nearly as important as working](https://www.economist.com/leaders/2025/02/27/inheriting-is-becoming-nearly-as-important-as-working)
-- [Show HN: Torii – a framework agnostic authentication library for Rust](https://github.com/cmackenzie1/torii-rs)
-- [Why it&#39;s so hard to build a jet engine](https://www.construction-physics.com/p/why-its-so-hard-to-build-a-jet-engine)
-- [How to gain code execution on hundreds of millions of people and popular apps](https://kibty.town/blog/todesktop/)
-- [400 reasons to not use Microsoft Azure](https://azsh.it)
-- [Japanese Toshiba Typewriter Model BW-2112 &lpar;2020&rpar; [video]](https://www.youtube.com/watch?v=JZcui85b4EE)
-- [Show HN: Betting game puzzle &lpar;Hamming neighbor sum in linear time&rpar;](https://news.ycombinator.com/item?id=43210185)
+- [Why I&#39;m Learning C# and .NET After Two Decades of Programming](https://kerrick.blog/articles/2025/why-i-am-learning-c-sharp-and-dot-net-after-two-decades-of-programming/)
+- [Unleashed Recompiled – Unofficial PC Port of Sonic Unleashed](https://github.com/hedge-dev/UnleashedRecomp)
+- [I&#39;m Done with Coding](https://www.neelc.org/2025/03/01/im-done-with-coding/)
+- [The Early Days of Linux](https://lwn.net/Articles/928581/)
+- [How Flash Games Shaped the Video Game Industry](https://www.flashgamehistory.com/)
+- [Show HN: Berlin Swapfest – Electronics flea market](https://www.swapfest.berlin/)
+- [Euclid finds complete Einstein Ring in NGC galaxy](https://www.euclid-ec.org/einstein-ring-in-ngc-6505/)
+- [Xcode constantly phones home](https://lapcatsoftware.com/articles/2025/2/5.html?__readwiseLocation=)
+- [GLP-1 drugs: An economic disruptor? &lpar;2024&rpar;](https://wildfirelabs.substack.com/p/the-100-trillion-disruption-the-unforeseen)
+- [Abusing C to implement JSON parsing with struct methods](https://xnacly.me/posts/2025/json-parser-in-c-with-methods/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

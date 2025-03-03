@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Firefly Blue Ghost Mission 1 Lunar Landing – Live from 2:30 Am EST &lpar;0730 UTC&rpar; [video]](https://www.youtube.com/watch?v=3SSjzdj-ONw)
-- [The Clip](https://unintendedconsequenc.es/the-clip/)
-- [Anywhere on Earth](https://en.wikipedia.org/wiki/Anywhere_on_Earth)
-- [The INTERNET is killing old PC hardware [video]](https://www.youtube.com/watch?v=TE_ePuGAvPM)
-- [How to get rid of the new Apple Mail redesign](https://techcrunch.com/2025/03/01/how-to-get-rid-of-the-new-apple-mail-redesign/)
-- [Why I&#39;m Learning C# and .NET After Two Decades of Programming](https://kerrick.blog/articles/2025/why-i-am-learning-c-sharp-and-dot-net-after-two-decades-of-programming/)
-- [Ask HN: Concerns around knowledge loss from vibe coding?](https://news.ycombinator.com/item?id=43226332)
-- [Ask HN: How Concerned Are You](https://news.ycombinator.com/item?id=43226297)
-- [Astronomers discover &#39;Quipu&#39;, the single largest structure in the known universe](https://www.livescience.com/space/astronomy/astronomers-discover-quipu-the-single-largest-structure-in-the-known-universe)
-- [At 3 a.m., I Turned to AI for Comfort. That Was My First Mistake](https://thewalrus.ca/at-3-a-m-i-turned-to-ai-for-comfort-that-was-my-first-mistake/)
+- [President on Brink of Bailout for Bitcoin](https://www.citationneeded.news/issue-78/)
+- [Make Something Wonderful](https://book.stevejobsarchive.com/)
+- [Matrix Multiplication](http://matrixmultiplication.xyz/)
+- [Line-item veto eludes presidents &lpar;2012&rpar;](https://www.cbsnews.com/news/15-years-after-its-brief-existence-line-item-veto-eludes-presidents/)
+- [Can Atproto Scale Down?](https://bsky.bad-example.com/can-atproto-scale-down/)
+- [Show HN](https://chromewebstore.google.com/detail/hackernews-scroll/dmnlnodagjlmcbffkdfmhmfbmapkaiob)
+- [Does anybody know how to download your comments from Disqus?](https://news.ycombinator.com/item?id=43237627)
+- [Ask HN: Is anyone designing a programming language specifically for GenAI?](https://news.ycombinator.com/item?id=43237621)
+- [The SEC Is Abandoning Its Biggest Crypto Lawsuits](https://www.wired.com/story/sec-is-giving-up-biggest-crypto-lawsuits/)
+- [RFK Jr. urges people to get vaccinated amid deadly Texas outbreak](https://www.axios.com/2025/03/03/kennedy-jr-measles-outbreak-vaccine)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

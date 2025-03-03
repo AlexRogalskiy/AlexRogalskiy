@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Trump administration briefing: pro-Ukraine rallies across US as Trump officials fume at Zelenskyy](https://www.theguardian.com/us-news/2025/mar/02/trump-administration-briefing-pro-ukraine-rallies-across-us-as-trump-officials-fume-at-zelenskyy)
-- [Tropical Cyclone Alfred ‘likely’ to head towards southern Queensland coast later this week](https://www.theguardian.com/australia-news/2025/mar/02/tropical-cyclone-alfred-likely-to-head-towards-southern-queensland-coast-later-this-week)
-- [Lithuanian rower attempting to cross Pacific activates emergency beacon off Queensland near Cyclone Alfred](https://www.theguardian.com/sport/2025/mar/02/lithuanian-rower-attempting-to-cross-pacific-activates-emergency-beacon-off-queensland-near-cyclone-alfred)
-- [Wigan hit the jackpot as Super League catches the eye on Las Vegas debut](https://www.theguardian.com/sport/2025/mar/01/wigan-warrington-las-vegas-super-league-rugby-league)
-- [Spring forward: top 10 womenswear trends to update your wardrobe – in pictures](https://www.theguardian.com/fashion/gallery/2025/mar/01/spring-forward-top-10-womenswear-trends-to-update-your-wardrobe-in-pictures)
-- [Brat awards! Charli xcx wins five Brits for zeitgeist-conquering album](https://www.theguardian.com/music/2025/mar/01/brat-awards-charli-xcx-wins-five-brits-for-zeitgeist-conquering-album)
-- [Ruthless Amorim says United’s slump has made him a more complete manager](https://www.theguardian.com/football/2025/mar/01/ruben-amorim-manchester-united-slump-more-complete-manager)
-- [‘I said there was no reason to make it a musical!’ Mel Brooks on The Producers’ West End transfer](https://www.theguardian.com/stage/2025/mar/01/the-producers-west-end-mel-brooks-menier-garrick-musical)
-- [Wild, waspish and whip-smart, there are few rock stars as great as David Johansen | Alexis Petridis](https://www.theguardian.com/music/2025/mar/01/wild-waspish-and-whip-smart-rock-stars-great-david-johansen)
-- [Trump says in social media post he plans to pardon the late Pete Rose](https://www.theguardian.com/sport/2025/mar/01/pete-rose-pardon-donald-trump-gambling)
+- [Oscars 2025 live: Anora, Wicked and Emilia Pérez tied as No Other Land wins best documentary feature](https://www.theguardian.com/film/live/2025/mar/02/oscars-academy-awards-red-carpet-winners-live)
+- [Ukraine war briefing: Zelenskyy – clear that Europe supports us, grateful for US help](https://www.theguardian.com/world/2025/mar/03/ukraine-war-briefing-zelenskyy-clear-that-europe-supports-us-grateful-for-us-help)
+- [Peter Straughan wins the best adapted screenplay Oscar for Conclave](https://www.theguardian.com/film/2025/mar/03/oscar-conclave-peter-straughan-best-adapted-screenplay)
+- [Sean Baker wins best original screenplay Oscar for Anora](https://www.theguardian.com/film/2025/mar/03/oscar-sean-baker-best-original-screenplay-anora)
+- [Halle Berry ‘pays back’ Adrien Brody for 2003 Oscars kiss – with a red-carpet kiss](https://www.theguardian.com/film/2025/mar/02/oscars-halle-berry-adrien-brody-kiss)
+- [Kieran Culkin wins best supporting actor Oscar for A Real Pain](https://www.theguardian.com/film/2025/mar/03/kieran-culkin-oscar-actor-a-real-pain)
+- [Mystery donor’s £17.5m gift could turn Scottish estate into rewilding showcase](https://www.theguardian.com/uk-news/2025/mar/03/mystery-donors-175m-gift-could-turn-scottish-estate-into-rewilding-showcase)
+- [UK risks becoming dumping ground for goods from exploited workers, MPs say](https://www.theguardian.com/law/2025/mar/03/uk-risks-becoming-dumping-ground-for-goods-from-exploited-workers-mps-say)
+- [UK awarded its lowest ranking for workplace gender equality in a decade](https://www.theguardian.com/world/2025/mar/03/uk-awarded-its-lowest-ranking-for-workplace-gender-equality-in-a-decade)
+- [Weak UK consumer spending is denting business mood, says CBI](https://www.theguardian.com/business/2025/mar/03/weak-uk-consumer-spending-is-denting-business-mood-says-cbi)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

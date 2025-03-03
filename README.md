@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Why I&#39;m Learning C# and .NET After Two Decades of Programming](https://kerrick.blog/articles/2025/why-i-am-learning-c-sharp-and-dot-net-after-two-decades-of-programming/)
-- [Unleashed Recompiled – Unofficial PC Port of Sonic Unleashed](https://github.com/hedge-dev/UnleashedRecomp)
-- [I&#39;m Done with Coding](https://www.neelc.org/2025/03/01/im-done-with-coding/)
-- [The Early Days of Linux](https://lwn.net/Articles/928581/)
-- [How Flash Games Shaped the Video Game Industry](https://www.flashgamehistory.com/)
-- [Show HN: Berlin Swapfest – Electronics flea market](https://www.swapfest.berlin/)
-- [Euclid finds complete Einstein Ring in NGC galaxy](https://www.euclid-ec.org/einstein-ring-in-ngc-6505/)
-- [Xcode constantly phones home](https://lapcatsoftware.com/articles/2025/2/5.html?__readwiseLocation=)
-- [GLP-1 drugs: An economic disruptor? &lpar;2024&rpar;](https://wildfirelabs.substack.com/p/the-100-trillion-disruption-the-unforeseen)
-- [Abusing C to implement JSON parsing with struct methods](https://xnacly.me/posts/2025/json-parser-in-c-with-methods/)
+- [Made a scroll bar buddy that walks down the page when you scroll](https://focusfurnace.com/scroll_buddy.html)
+- [Blender-made movie Flow takes Oscar](https://www.reuters.com/lifestyle/flow-wins-best-animated-feature-film-oscar-2025-03-03/)
+- [Solarpunk](https://en.wikipedia.org/wiki/Solarpunk)
+- [ACCESS.bus: The Forgotten USB Competitor](https://tedium.co/2025/02/17/access-bus-i2c-usb-competitor-history/)
+- [Most IT companies fail to serve security.txt for RFC 9116 in 2025](https://blog.hartwork.org/posts/companies-fail-to-serve-security-txt-rfc-9116/)
+- [Gooey rubber that&#39;s slowly ruining old hard drives](https://www.downtowndougbrown.com/2025/03/the-gooey-rubber-thats-slowly-ruining-old-hard-drives/)
+- [Rotors: A practical introduction for 3D graphics &lpar;2023&rpar;](https://jacquesheunis.com/post/rotors/)
+- [Matt&#39;s Script Archive &lpar;1995&rpar;](https://www.scriptarchive.com/)
+- [Geothermal power is a climate moon shot beneath our feet](https://www.newyorker.com/news/the-lede/geothermal-power-is-a-climate-moon-shot-beneath-our-feet)
+- [Hallucinations in code are the least dangerous form of LLM mistakes](https://simonwillison.net/2025/Mar/2/hallucinations-in-code/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

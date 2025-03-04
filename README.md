@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Oscars 2025 live: Anora, Wicked and Emilia Pérez tied as No Other Land wins best documentary feature](https://www.theguardian.com/film/live/2025/mar/02/oscars-academy-awards-red-carpet-winners-live)
-- [Ukraine war briefing: Zelenskyy – clear that Europe supports us, grateful for US help](https://www.theguardian.com/world/2025/mar/03/ukraine-war-briefing-zelenskyy-clear-that-europe-supports-us-grateful-for-us-help)
-- [Peter Straughan wins the best adapted screenplay Oscar for Conclave](https://www.theguardian.com/film/2025/mar/03/oscar-conclave-peter-straughan-best-adapted-screenplay)
-- [Sean Baker wins best original screenplay Oscar for Anora](https://www.theguardian.com/film/2025/mar/03/oscar-sean-baker-best-original-screenplay-anora)
-- [Halle Berry ‘pays back’ Adrien Brody for 2003 Oscars kiss – with a red-carpet kiss](https://www.theguardian.com/film/2025/mar/02/oscars-halle-berry-adrien-brody-kiss)
-- [Kieran Culkin wins best supporting actor Oscar for A Real Pain](https://www.theguardian.com/film/2025/mar/03/kieran-culkin-oscar-actor-a-real-pain)
-- [Mystery donor’s £17.5m gift could turn Scottish estate into rewilding showcase](https://www.theguardian.com/uk-news/2025/mar/03/mystery-donors-175m-gift-could-turn-scottish-estate-into-rewilding-showcase)
-- [UK risks becoming dumping ground for goods from exploited workers, MPs say](https://www.theguardian.com/law/2025/mar/03/uk-risks-becoming-dumping-ground-for-goods-from-exploited-workers-mps-say)
-- [UK awarded its lowest ranking for workplace gender equality in a decade](https://www.theguardian.com/world/2025/mar/03/uk-awarded-its-lowest-ranking-for-workplace-gender-equality-in-a-decade)
-- [Weak UK consumer spending is denting business mood, says CBI](https://www.theguardian.com/business/2025/mar/03/weak-uk-consumer-spending-is-denting-business-mood-says-cbi)
+- [Donald Trump pauses all US military aid to Ukraine – live](https://www.theguardian.com/us-news/live/2025/mar/03/us-politics-live-news-donald-trump-tariffs-canada-mexico-announced-commerce-secretary)
+- [Carl Dean, Dolly Parton’s husband of nearly 60 years, dies at 82](https://www.theguardian.com/us-news/2025/mar/03/carl-dean-husband-dolly-parton-dies)
+- [Killer whales amaze Seattle onlookers with rarely seen bird hunt](https://www.theguardian.com/environment/2025/mar/03/seattle-killer-whales-hunt)
+- [Swab test could help UK women avoid invasive checks for womb cancer](https://www.theguardian.com/society/2025/mar/04/swab-test-could-help-uk-women-avoid-invasive-checks-for-womb-cancer)
+- [Most school leaders in England, Wales and NI say pupils’ parents have abused them](https://www.theguardian.com/education/2025/mar/04/school-leaders-england-wales-northern-ireland-say-parents-have-abused-them)
+- [Bog standard? Study seeks most effective toilet training methods](https://www.theguardian.com/lifeandstyle/2025/mar/04/most-effective-toilet-training-methods-study)
+- [Pod of killer whales amaze Seattle onlookers with rarely seen bird hunt – video](https://www.theguardian.com/us-news/video/2025/mar/03/seattle-killer-whales-pod)
+- [Channel 4 News featured son of Hamas official used in BBC Gaza documentary](https://www.theguardian.com/media/2025/mar/03/channel-4-news-featured-son-of-hamas-chief-used-in-bbc-gaza-documentary)
+- [More than half of adults worldwide will be overweight or obese by 2050 – report](https://www.theguardian.com/society/2025/mar/03/more-than-half-of-adults-worldwide-obese-by-2050-report-says)
+- [Two leaders of group suspected of smuggling 20,000 immigrants arrested in LA](https://www.theguardian.com/us-news/2025/mar/03/los-angeles-arrests-human-smuggling-ring)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

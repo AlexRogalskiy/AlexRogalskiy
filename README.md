@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [President on Brink of Bailout for Bitcoin](https://www.citationneeded.news/issue-78/)
-- [Make Something Wonderful](https://book.stevejobsarchive.com/)
-- [Matrix Multiplication](http://matrixmultiplication.xyz/)
-- [Line-item veto eludes presidents &lpar;2012&rpar;](https://www.cbsnews.com/news/15-years-after-its-brief-existence-line-item-veto-eludes-presidents/)
-- [Can Atproto Scale Down?](https://bsky.bad-example.com/can-atproto-scale-down/)
-- [Show HN](https://chromewebstore.google.com/detail/hackernews-scroll/dmnlnodagjlmcbffkdfmhmfbmapkaiob)
-- [Does anybody know how to download your comments from Disqus?](https://news.ycombinator.com/item?id=43237627)
-- [Ask HN: Is anyone designing a programming language specifically for GenAI?](https://news.ycombinator.com/item?id=43237621)
-- [The SEC Is Abandoning Its Biggest Crypto Lawsuits](https://www.wired.com/story/sec-is-giving-up-biggest-crypto-lawsuits/)
-- [RFK Jr. urges people to get vaccinated amid deadly Texas outbreak](https://www.axios.com/2025/03/03/kennedy-jr-measles-outbreak-vaccine)
+- [We Should Own the Economy](https://www.elysian.press/p/we-should-own-the-economy)
+- [Game Programming Patterns – Web Book &lpar;2014&rpar;](https://gameprogrammingpatterns.com/contents.html)
+- [Show HN: SunPark – Florida&#39;s beach parking finder](https://sunpark.app/)
+- [Show HN: Chrome Extension That Shows Your Notion Pages in Search Results](https://chromewebstore.google.com/detail/at-my-notion/edfigkgekgdhmecpnahljldneglkkmkh)
+- [Ask HN: Should the Mozilla Foundation be forked?](https://news.ycombinator.com/item?id=43249557)
+- [As a Kid, Bill Gates Sneaked Out His Window at Night – To Write Code](https://www.nytimes.com/2025/01/30/books/review/source-code-bill-gates.html)
+- [Mealie: self-hosted recipe manager and meal planner](https://github.com/mealie-recipes/mealie)
+- [Show HN: Punynews.com – AI-generated news that rhymes every time](https://punynews.com)
+- [Putin ally pushes deal to restart Nord Stream 2 with US backing](https://www.ft.com/content/dc9c51ab-03cb-47ba-ad0a-09c4deed9b50)
+- [Early thoughts on GPT-4.5 – Casey Newton](https://www.platformer.news/gpt-4-5-ai-policy/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

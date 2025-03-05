@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Global sales of combustion engine cars peaked](https://ourworldindata.org/data-insights/global-sales-of-combustion-engine-cars-have-peaked)
-- [Public health data disappeared. RestoredCDC.org is bringing it back](https://www.RestoredCDC.org)
-- [Lawrence of Arabia, Paul Atreides, and the Roots of Frank Herbert&#39;s Dune &lpar;2021&rpar;](https://reactormag.com/lawrence-of-arabia-paul-atreides-and-the-roots-of-frank-herberts-dune/)
-- [Repairable Flatpack Toaster](https://www.kaseyhou.com/#/repairable-flatpack-toaster/)
-- [Comparing Fuchsia components and Linux containers [video]](https://fosdem.org/2025/schedule/event/fosdem-2025-5381-comparing-fuchsia-components-and-linux-containers/)
-- [One Logo, Three Companies](https://estilofilos.blogspot.com/2016/03/one-logo-three-companies-i.html)
-- [How the U.K. broke its own economy](https://www.theatlantic.com/ideas/archive/2025/03/uk-needs-abundance/681877/)
-- [Launch HN: Cuckoo &lpar;YC W25&rpar; – Real-time AI translator for global teams](https://news.ycombinator.com/item?id=43245153)
-- [Hacking the Xbox 360 Hypervisor Part 2: The Bad Update Exploit](https://icode4.coffee/?p=1081)
-- [Chrome Returns 206 when the Server Returns 403](https://aoli.al/blogs/chrome-bug/)
+- [Trump&#39;s &#39;Crypto Reserve&#39; Is Such Brazen Corruption](https://zeteo.com/p/trumps-crypto-reserve-is-such-brazen)
+- [Pro-Trump techies enraged by president&#39;s crypto reserve announcement](https://www.cnbc.com/2025/03/04/pro-trump-techies-enraged-by-crypto-reserve-plan-causing-early-rift.html)
+- [GSA prepares to sell over 400 federal properties](https://www.politico.com/news/2025/03/04/gsa-sell-400-federal-properties-00212071)
+- [Mox – modern, secure, all-in-one email server](https://www.xmox.nl/)
+- [Best Buy and Target CEOs say prices are about to go up because of tariffs](https://www.theverge.com/news/624254/best-buy-target-raise-prices-tariffs)
+- [Tmux – The Essentials &lpar;2019&rpar;](https://davidwinter.dev/2019/03/14/tmux-the-essentials)
+- [The Dead Planet Theory](https://arealsociety.substack.com/p/the-dead-planet-theory)
+- [Multiply Went from Datomic to XTDB to Rama](https://blog.redplanetlabs.com/2025/03/04/how-multiply-went-from-datomic-to-xtdb-to-rama/)
+- [Melbourne startup launches &#39;biological computer&#39; made of human brain cells](https://www.abc.net.au/news/science/2025-03-05/cortical-labs-neuron-brain-chip/104996484)
+- [Show HN: Scholium, Your Own Research Assistant](https://github.com/QDScholium/ScholiumAI)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Donald Trump pauses all US military aid to Ukraine – live](https://www.theguardian.com/us-news/live/2025/mar/03/us-politics-live-news-donald-trump-tariffs-canada-mexico-announced-commerce-secretary)
-- [Carl Dean, Dolly Parton’s husband of nearly 60 years, dies at 82](https://www.theguardian.com/us-news/2025/mar/03/carl-dean-husband-dolly-parton-dies)
-- [Killer whales amaze Seattle onlookers with rarely seen bird hunt](https://www.theguardian.com/environment/2025/mar/03/seattle-killer-whales-hunt)
-- [Swab test could help UK women avoid invasive checks for womb cancer](https://www.theguardian.com/society/2025/mar/04/swab-test-could-help-uk-women-avoid-invasive-checks-for-womb-cancer)
-- [Most school leaders in England, Wales and NI say pupils’ parents have abused them](https://www.theguardian.com/education/2025/mar/04/school-leaders-england-wales-northern-ireland-say-parents-have-abused-them)
-- [Bog standard? Study seeks most effective toilet training methods](https://www.theguardian.com/lifeandstyle/2025/mar/04/most-effective-toilet-training-methods-study)
-- [Pod of killer whales amaze Seattle onlookers with rarely seen bird hunt – video](https://www.theguardian.com/us-news/video/2025/mar/03/seattle-killer-whales-pod)
-- [Channel 4 News featured son of Hamas official used in BBC Gaza documentary](https://www.theguardian.com/media/2025/mar/03/channel-4-news-featured-son-of-hamas-chief-used-in-bbc-gaza-documentary)
-- [More than half of adults worldwide will be overweight or obese by 2050 – report](https://www.theguardian.com/society/2025/mar/03/more-than-half-of-adults-worldwide-obese-by-2050-report-says)
-- [Two leaders of group suspected of smuggling 20,000 immigrants arrested in LA](https://www.theguardian.com/us-news/2025/mar/03/los-angeles-arrests-human-smuggling-ring)
+- [Trump’s speech to Congress live: president delivers address amid global turmoil over Ukraine and trade wars](https://www.theguardian.com/us-news/live/2025/mar/05/trump-congress-speech-address-latest-updates)
+- [Tropical Cyclone Alfred: Queensland evacuations begin as storm path tracks towards Brisbane](https://www.theguardian.com/australia-news/2025/mar/05/tropical-cyclone-alfred-brisbane-city-council-flood-map-suburbs-at-risk-homes-flooding)
+- [WA teenager charged over alleged ‘Christchurch 2.0’ online threat to Sydney mosque](https://www.theguardian.com/australia-news/2025/mar/05/teenager-in-wa-arrested-over-alleged-christchurch-20-online-threat-to-sydney-mosque-ntwnfb)
+- [Emma Raducanu could ‘barely breathe or see through the tears’ after spotting stalker](https://www.theguardian.com/sport/2025/mar/05/emma-raducanu-could-barely-breathe-or-see-through-the-tears-after-spotting-stalker-tennis)
+- [Trump launches fresh attacks on US abortion rights](https://www.theguardian.com/us-news/2025/mar/04/trump-attacks-abortion-rights-idaho-south-carolina)
+- [Men with higher-quality sperm live longer, study finds](https://www.theguardian.com/science/2025/mar/05/men-with-higher-quality-sperm-live-longer-study)
+- [Cross-party group of MPs express ‘deep concern’ over cuts to UK’s aid budget](https://www.theguardian.com/global-development/2025/mar/05/cross-party-group-of-mps-express-deep-concern-over-cuts-to-uks-aid-budget)
+- [Give Edinburgh fringe the same status as Olympics, departing head urges](https://www.theguardian.com/culture/2025/mar/05/edinburgh-festival-fringe-olympics-shona-mccarthy-chief-executive)
+- [Building a ‘second republic’: students who led Bangladesh revolution launch political party](https://www.theguardian.com/world/2025/mar/05/building-a-second-republic-students-who-led-bangladesh-revolution-launch-political-party)
+- [Siena: The Rise of Painting review – a heart-stopping show about the moment western art came alive](https://www.theguardian.com/artanddesign/2025/mar/05/siena-the-rise-of-painting-review-national-gallery)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [We Should Own the Economy](https://www.elysian.press/p/we-should-own-the-economy)
-- [Game Programming Patterns – Web Book &lpar;2014&rpar;](https://gameprogrammingpatterns.com/contents.html)
-- [Show HN: SunPark – Florida&#39;s beach parking finder](https://sunpark.app/)
-- [Show HN: Chrome Extension That Shows Your Notion Pages in Search Results](https://chromewebstore.google.com/detail/at-my-notion/edfigkgekgdhmecpnahljldneglkkmkh)
-- [Ask HN: Should the Mozilla Foundation be forked?](https://news.ycombinator.com/item?id=43249557)
-- [As a Kid, Bill Gates Sneaked Out His Window at Night – To Write Code](https://www.nytimes.com/2025/01/30/books/review/source-code-bill-gates.html)
-- [Mealie: self-hosted recipe manager and meal planner](https://github.com/mealie-recipes/mealie)
-- [Show HN: Punynews.com – AI-generated news that rhymes every time](https://punynews.com)
-- [Putin ally pushes deal to restart Nord Stream 2 with US backing](https://www.ft.com/content/dc9c51ab-03cb-47ba-ad0a-09c4deed9b50)
-- [Early thoughts on GPT-4.5 – Casey Newton](https://www.platformer.news/gpt-4-5-ai-policy/)
+- [XemonRecomp: Convert Xbox 360 executables into C++ code](https://github.com/hedge-dev/XenonRecomp)
+- [I Use LLMs [video]](https://www.youtube.com/watch?v=EWvNQjAaOHw)
+- [Mice exhibit paramedic-like behaviors toward unresponsive peers, study finds](https://medicalxpress.com/news/2025-02-mice-paramedic-behaviors-unresponsive-peers.html)
+- [The Middle Ages](https://pudding.cool/2025/02/middle-school/)
+- [The Demoralization is just Beginning](https://geohot.github.io//blog/jekyll/update/2025/03/03/demoralization-is-just-beginning.html)
+- [W&amp;B being acquired by CoreWeave](https://wandb.ai/wandb/wb-announcements/reports/W-B-being-acquired-by-CoreWeave--VmlldzoxMTY0MDI1MQ)
+- [Brother may be locking out 3rd party printer cartridge via forced firmware upd](https://www.tomshardware.com/peripherals/printers/brother-accused-of-locking-down-third-party-printer-ink-cartridges-via-firmware-updates-removing-older-firmware-versions-from-support-portals)
+- [Dubbelfilm&#39;s Updated Stereo Is a &#39;Refined&#39; Red and Blue Gradient Film](https://petapixel.com/2025/03/03/dubbelfilms-updated-stereo-is-a-refined-red-and-blue-gradient-film/)
+- [The Fall of the USS Gettysburg](https://www.realcleardefense.com/articles/2025/02/27/the_fall_of_the_uss_gettysburg_1094288.html)
+- [Trump&#39;s &#39;Crypto Reserve&#39; Is Such Brazen Corruption](https://zeteo.com/p/trumps-crypto-reserve-is-such-brazen)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

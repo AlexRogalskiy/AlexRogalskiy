@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Trump&#39;s &#39;Crypto Reserve&#39; Is Such Brazen Corruption](https://zeteo.com/p/trumps-crypto-reserve-is-such-brazen)
-- [Pro-Trump techies enraged by president&#39;s crypto reserve announcement](https://www.cnbc.com/2025/03/04/pro-trump-techies-enraged-by-crypto-reserve-plan-causing-early-rift.html)
-- [GSA prepares to sell over 400 federal properties](https://www.politico.com/news/2025/03/04/gsa-sell-400-federal-properties-00212071)
-- [Mox – modern, secure, all-in-one email server](https://www.xmox.nl/)
-- [Best Buy and Target CEOs say prices are about to go up because of tariffs](https://www.theverge.com/news/624254/best-buy-target-raise-prices-tariffs)
-- [Tmux – The Essentials &lpar;2019&rpar;](https://davidwinter.dev/2019/03/14/tmux-the-essentials)
-- [The Dead Planet Theory](https://arealsociety.substack.com/p/the-dead-planet-theory)
-- [Multiply Went from Datomic to XTDB to Rama](https://blog.redplanetlabs.com/2025/03/04/how-multiply-went-from-datomic-to-xtdb-to-rama/)
-- [Melbourne startup launches &#39;biological computer&#39; made of human brain cells](https://www.abc.net.au/news/science/2025-03-05/cortical-labs-neuron-brain-chip/104996484)
-- [Show HN: Scholium, Your Own Research Assistant](https://github.com/QDScholium/ScholiumAI)
+- [Cognitive Behaviors That Enable Self-Improving Reasoners](https://arxiv.org/abs/2503.01307)
+- [Ask HN: Best Windows/Linux developer laptop in 2025](https://news.ycombinator.com/item?id=43275014)
+- [The US stops sharing air quality data from embassies worldwide](https://apnews.com/article/us-air-quality-monitors-8270927bbd0f166238243ac9d14bce03)
+- [A few words about FiveThirtyEight](https://www.natesilver.net/p/a-few-words-about-fivethirtyeight)
+- [Volkswagen seeks to counter rivals with budget EV model](https://www.ttnews.com/articles/vw-introduces-id-every1)
+- [The &quot;Take It Down&quot; Act](https://www.eff.org/deeplinks/2025/03/trump-calls-congress-pass-overbroad-take-it-down-act-so-he-can-use-it-censor)
+- [DeepSeek-R1-671B-Q4_K_M with 1 or 2 Arc A770 on Xeon](https://github.com/intel/ipex-llm/blob/main/docs/mddocs/Quickstart/llamacpp_portable_zip_gpu_quickstart.md)
+- [Exploring the Paramilitary Leaks](https://micahflee.com/exploring-the-paramilitary-leaks/)
+- [Zentool – AMD Zen Microcode Manipulation Utility](https://github.com/google/security-research/blob/master/pocs/cpus/entrysign/zentool/README.md)
+- [Datafold &lpar;YC S20&rpar; is hiring Engineer to build AI-powered data migration tools](https://www.ycombinator.com/companies/datafold/jobs/ieGYiSG-senior-software-engineer-ai-agents)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

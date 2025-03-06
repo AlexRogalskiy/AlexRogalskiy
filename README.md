@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [XemonRecomp: Convert Xbox 360 executables into C++ code](https://github.com/hedge-dev/XenonRecomp)
-- [I Use LLMs [video]](https://www.youtube.com/watch?v=EWvNQjAaOHw)
-- [Mice exhibit paramedic-like behaviors toward unresponsive peers, study finds](https://medicalxpress.com/news/2025-02-mice-paramedic-behaviors-unresponsive-peers.html)
-- [The Middle Ages](https://pudding.cool/2025/02/middle-school/)
-- [The Demoralization is just Beginning](https://geohot.github.io//blog/jekyll/update/2025/03/03/demoralization-is-just-beginning.html)
-- [W&amp;B being acquired by CoreWeave](https://wandb.ai/wandb/wb-announcements/reports/W-B-being-acquired-by-CoreWeave--VmlldzoxMTY0MDI1MQ)
-- [Brother may be locking out 3rd party printer cartridge via forced firmware upd](https://www.tomshardware.com/peripherals/printers/brother-accused-of-locking-down-third-party-printer-ink-cartridges-via-firmware-updates-removing-older-firmware-versions-from-support-portals)
-- [Dubbelfilm&#39;s Updated Stereo Is a &#39;Refined&#39; Red and Blue Gradient Film](https://petapixel.com/2025/03/03/dubbelfilms-updated-stereo-is-a-refined-red-and-blue-gradient-film/)
-- [The Fall of the USS Gettysburg](https://www.realcleardefense.com/articles/2025/02/27/the_fall_of_the_uss_gettysburg_1094288.html)
-- [Trump&#39;s &#39;Crypto Reserve&#39; Is Such Brazen Corruption](https://zeteo.com/p/trumps-crypto-reserve-is-such-brazen)
+- [Draft of Trump Executive Order Aims to Eliminate Education Department](https://www.wsj.com/politics/policy/draft-of-trump-executive-order-aims-to-eliminate-education-department-5315c3a4)
+- [Elon Musk&#39;s AI chatbot says a &#39;Russian asset&#39; delivered the State of the Union](https://www.azcentral.com/story/opinion/op-ed/ej-montini/2025/03/05/trump-speech-state-union-russia-elon-musk-grok/81507335007/)
+- [ePub Reader – Chrome Extension](https://www.onibooks.com/)
+- [Air-Traffic Staffing Rules Tightened at Reagan Airport After Fatal Crash](https://www.wsj.com/us-news/dc-plane-crash-dca-air-traffic-rule-changes-9b6fe501)
+- [Harvard admissions, VC investing: identifying &quot;special&quot; vs. &quot;good&quot;](https://medium.com/foothill-ventures/harvard-admissions-vc-investing-identifying-special-vs-good-d8e9074c5cb9)
+- [Why Trump&#39;s Tariffs Are a Masterplan](https://unherd.com/2025/02/why-trumps-tariffs-are-a-masterplan/)
+- [In the Pipeline: The Continuing Crisis: Rare Diseases at the FDA and More](https://www.science.org/content/blog-post/rare-diseases-fda-here-it-comes)
+- [Llms.txt Hub](https://llmstxthub.com)
+- [The Power of Clear Goals](https://micael.substack.com/p/the-power-of-clear-goals)
+- [Medium Data and Small Data](https://neugierig.org/software/blog/2025/03/medium-data-small-data.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

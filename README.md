@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Trump’s speech to Congress live: president delivers address amid global turmoil over Ukraine and trade wars](https://www.theguardian.com/us-news/live/2025/mar/05/trump-congress-speech-address-latest-updates)
-- [Tropical Cyclone Alfred: Queensland evacuations begin as storm path tracks towards Brisbane](https://www.theguardian.com/australia-news/2025/mar/05/tropical-cyclone-alfred-brisbane-city-council-flood-map-suburbs-at-risk-homes-flooding)
-- [WA teenager charged over alleged ‘Christchurch 2.0’ online threat to Sydney mosque](https://www.theguardian.com/australia-news/2025/mar/05/teenager-in-wa-arrested-over-alleged-christchurch-20-online-threat-to-sydney-mosque-ntwnfb)
-- [Emma Raducanu could ‘barely breathe or see through the tears’ after spotting stalker](https://www.theguardian.com/sport/2025/mar/05/emma-raducanu-could-barely-breathe-or-see-through-the-tears-after-spotting-stalker-tennis)
-- [Trump launches fresh attacks on US abortion rights](https://www.theguardian.com/us-news/2025/mar/04/trump-attacks-abortion-rights-idaho-south-carolina)
-- [Men with higher-quality sperm live longer, study finds](https://www.theguardian.com/science/2025/mar/05/men-with-higher-quality-sperm-live-longer-study)
-- [Cross-party group of MPs express ‘deep concern’ over cuts to UK’s aid budget](https://www.theguardian.com/global-development/2025/mar/05/cross-party-group-of-mps-express-deep-concern-over-cuts-to-uks-aid-budget)
-- [Give Edinburgh fringe the same status as Olympics, departing head urges](https://www.theguardian.com/culture/2025/mar/05/edinburgh-festival-fringe-olympics-shona-mccarthy-chief-executive)
-- [Building a ‘second republic’: students who led Bangladesh revolution launch political party](https://www.theguardian.com/world/2025/mar/05/building-a-second-republic-students-who-led-bangladesh-revolution-launch-political-party)
-- [Siena: The Rise of Painting review – a heart-stopping show about the moment western art came alive](https://www.theguardian.com/artanddesign/2025/mar/05/siena-the-rise-of-painting-review-national-gallery)
+- [Rodent for dinner? California officials urge residents to eat invasive nutria](https://www.theguardian.com/us-news/2025/mar/05/california-nutria-rodents)
+- [Firing squad could become Idaho’s main execution method if governor signs bill](https://www.theguardian.com/us-news/2025/mar/05/idaho-firing-squad-execution)
+- [Lesotho ‘shocked and embarrassed’ by mockery in Trump’s Congress speech, says foreign minister](https://www.theguardian.com/world/2025/mar/06/donald-trump-lesotho-us-aid-lgbtiq-comments-congress-speech-response)
+- [River campaigners to sue Ofwat over water bill rises](https://www.theguardian.com/environment/2025/mar/06/river-campaigners-to-sue-ofwat-over-water-bill-rises)
+- [Town hall leaders condemn ‘ill-thought-out’ plan to merge English councils](https://www.theguardian.com/society/2025/mar/06/town-hall-leaders-condemn-ill-thought-out-plan-to-merge-english-councils)
+- [Trump posts fresh ultimatum to Hamas as US enters direct talks with group](https://www.theguardian.com/us-news/2025/mar/05/trump-administration-hamas-israel-gaza-ceasefire)
+- [Hundreds of US diplomats decry dismantling of USAid in letter to Rubio](https://www.theguardian.com/us-news/2025/mar/05/diplomats-usaid-letter-rubio)
+- [Kane at the double as Bayern romp to first-leg win against 10-man Leverkusen](https://www.theguardian.com/football/2025/mar/05/champions-league-bayern-munich-bayer-leverkusen-match-report)
+- [Harvey Elliott stuns PSG as Liverpool weather storm to snatch dramatic win](https://www.theguardian.com/football/2025/mar/05/champions-league-psg-liverpool-match-report)
+- [‘Paradigm shift’: Australian researchers discover key to treatment of bacterial vaginosis](https://www.theguardian.com/australia-news/2025/mar/05/paradigm-shift-australian-researchers-discover-key-to-treatment-of-bacterial-vaginosis)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

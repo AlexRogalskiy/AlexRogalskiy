@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Draft of Trump Executive Order Aims to Eliminate Education Department](https://www.wsj.com/politics/policy/draft-of-trump-executive-order-aims-to-eliminate-education-department-5315c3a4)
-- [Elon Musk&#39;s AI chatbot says a &#39;Russian asset&#39; delivered the State of the Union](https://www.azcentral.com/story/opinion/op-ed/ej-montini/2025/03/05/trump-speech-state-union-russia-elon-musk-grok/81507335007/)
-- [ePub Reader – Chrome Extension](https://www.onibooks.com/)
-- [Air-Traffic Staffing Rules Tightened at Reagan Airport After Fatal Crash](https://www.wsj.com/us-news/dc-plane-crash-dca-air-traffic-rule-changes-9b6fe501)
-- [Harvard admissions, VC investing: identifying &quot;special&quot; vs. &quot;good&quot;](https://medium.com/foothill-ventures/harvard-admissions-vc-investing-identifying-special-vs-good-d8e9074c5cb9)
-- [Why Trump&#39;s Tariffs Are a Masterplan](https://unherd.com/2025/02/why-trumps-tariffs-are-a-masterplan/)
-- [In the Pipeline: The Continuing Crisis: Rare Diseases at the FDA and More](https://www.science.org/content/blog-post/rare-diseases-fda-here-it-comes)
-- [Llms.txt Hub](https://llmstxthub.com)
-- [The Power of Clear Goals](https://micael.substack.com/p/the-power-of-clear-goals)
-- [Medium Data and Small Data](https://neugierig.org/software/blog/2025/03/medium-data-small-data.html)
+- [Show HN: Free mobile app demo creator](https://www.howdygo.com/free-tools/mobile-app-demo-creator)
+- [&quot;please start a Kubernetes cluster for me&quot;](https://twitter.com/solomonstre/status/1897802102057128402)
+- [The Perfect Beer Glass Shape, According to Math](https://www.scientificamerican.com/article/the-perfect-beer-glass-shape-according-to-math/)
+- [We Compared Eight AI Search Engines. They&#39;re All Bad at Citing News](https://www.cjr.org/tow_center/we-compared-eight-ai-search-engines-theyre-all-bad-at-citing-news.php)
+- [Introducing Magic Containers: What Edge Computing was meant to be](https://bunny.net/blog/introducing-magic-containers-what-edge-computing-was-meant-to-be/)
+- [SpaceX&#39;s Starship explodes in second failure for Musk&#39;s Mars program](https://www.theguardian.com/us-news/2025/mar/06/spacex-starship-explodes-musk)
+- [The Balatro Timeline](https://localthunk.com/blog/balatro-timeline-3aarh)
+- [CyberScan 3D: The Android 3D Scanning App That Works Perfectly Offline](https://global.app.mi.com/details?lo=ID&la=en_US&id=alex.v.next.album)
+- [Mobile Marketing in 2025: Trends and Insights](https://yournotify.com/blog/mobile-marketing-trends-and-insights/)
+- [Wine Tasting with Claude Shannon](https://danco.substack.com/p/wine-tasting-with-claude-shannon)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

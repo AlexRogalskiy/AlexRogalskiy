@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Cognitive Behaviors That Enable Self-Improving Reasoners](https://arxiv.org/abs/2503.01307)
-- [Ask HN: Best Windows/Linux developer laptop in 2025](https://news.ycombinator.com/item?id=43275014)
-- [The US stops sharing air quality data from embassies worldwide](https://apnews.com/article/us-air-quality-monitors-8270927bbd0f166238243ac9d14bce03)
-- [A few words about FiveThirtyEight](https://www.natesilver.net/p/a-few-words-about-fivethirtyeight)
-- [Volkswagen seeks to counter rivals with budget EV model](https://www.ttnews.com/articles/vw-introduces-id-every1)
-- [The &quot;Take It Down&quot; Act](https://www.eff.org/deeplinks/2025/03/trump-calls-congress-pass-overbroad-take-it-down-act-so-he-can-use-it-censor)
-- [DeepSeek-R1-671B-Q4_K_M with 1 or 2 Arc A770 on Xeon](https://github.com/intel/ipex-llm/blob/main/docs/mddocs/Quickstart/llamacpp_portable_zip_gpu_quickstart.md)
-- [Exploring the Paramilitary Leaks](https://micahflee.com/exploring-the-paramilitary-leaks/)
-- [Zentool – AMD Zen Microcode Manipulation Utility](https://github.com/google/security-research/blob/master/pocs/cpus/entrysign/zentool/README.md)
-- [Datafold &lpar;YC S20&rpar; is hiring Engineer to build AI-powered data migration tools](https://www.ycombinator.com/companies/datafold/jobs/ieGYiSG-senior-software-engineer-ai-agents)
+- [Differentiable Logic Cellular Automata](https://google-research.github.io/self-organising-systems/difflogic-ca/?hn)
+- [InstantStyle: Free Lunch Towards Style-Preserving in Text-to-Image Generation](https://github.com/instantX-research/InstantStyle)
+- [Why I find diffusion models interesting?](https://rnikhil.com/2025/03/06/diffusion-models-eval)
+- [How to distrust a CA without any certificate errors](https://dadrian.io/blog/posts/sct-not-after/)
+- [A brief meditation on formal systems and lying goblins](https://the-nerve-blog.ghost.io/a-brief-meditation-on-formal-systems-and-lying-goblins/)
+- [Koko &lpar;YC W22&rpar; Is Hiring a CTO / Lead Engineer](https://www.ycombinator.com/companies/koko-2/jobs/oPgy08B-lead-engineer-cto)
+- [Show HN: Rust Vector and Quaternion Lib](https://github.com/David-OConnor/lin-alg)
+- [Using GRPO to Beat o1, o3-mini and R1 at &quot;Temporal Clue&quot;](https://openpipe.ai/blog/using-grpo-to-beat-o1-o3-mini-and-r1-on-temporal-clue)
+- [How the Index Card Cataloged the World &lpar;2017&rpar;](https://www.theatlantic.com/technology/archive/2017/12/how-the-index-card-catalogued-the-world/547271/)
+- [Show HN: Shelgon: A Framework for Building Interactive REPL Shells in Rust](https://github.com/NishantJoshi00/shelgon)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

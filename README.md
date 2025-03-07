@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Rodent for dinner? California officials urge residents to eat invasive nutria](https://www.theguardian.com/us-news/2025/mar/05/california-nutria-rodents)
-- [Firing squad could become Idaho’s main execution method if governor signs bill](https://www.theguardian.com/us-news/2025/mar/05/idaho-firing-squad-execution)
-- [Lesotho ‘shocked and embarrassed’ by mockery in Trump’s Congress speech, says foreign minister](https://www.theguardian.com/world/2025/mar/06/donald-trump-lesotho-us-aid-lgbtiq-comments-congress-speech-response)
-- [River campaigners to sue Ofwat over water bill rises](https://www.theguardian.com/environment/2025/mar/06/river-campaigners-to-sue-ofwat-over-water-bill-rises)
-- [Town hall leaders condemn ‘ill-thought-out’ plan to merge English councils](https://www.theguardian.com/society/2025/mar/06/town-hall-leaders-condemn-ill-thought-out-plan-to-merge-english-councils)
-- [Trump posts fresh ultimatum to Hamas as US enters direct talks with group](https://www.theguardian.com/us-news/2025/mar/05/trump-administration-hamas-israel-gaza-ceasefire)
-- [Hundreds of US diplomats decry dismantling of USAid in letter to Rubio](https://www.theguardian.com/us-news/2025/mar/05/diplomats-usaid-letter-rubio)
-- [Kane at the double as Bayern romp to first-leg win against 10-man Leverkusen](https://www.theguardian.com/football/2025/mar/05/champions-league-bayern-munich-bayer-leverkusen-match-report)
-- [Harvey Elliott stuns PSG as Liverpool weather storm to snatch dramatic win](https://www.theguardian.com/football/2025/mar/05/champions-league-psg-liverpool-match-report)
-- [‘Paradigm shift’: Australian researchers discover key to treatment of bacterial vaginosis](https://www.theguardian.com/australia-news/2025/mar/05/paradigm-shift-australian-researchers-discover-key-to-treatment-of-bacterial-vaginosis)
+- [US reportedly plans to revoke foreign students’ visas over pro-Palestinian social media posts flagged by AI – live](https://www.theguardian.com/us-news/live/2025/mar/06/trump-education-tariffs-ukraine-hamas-usaid-medicare-federal-workers-us-politics-live-news)
+- [‘A dream experiment’: our Australian icebreaker is on a crucial mission to Antarctica | Nathan Bindoff](https://www.theguardian.com/commentisfree/2025/mar/07/a-dream-experiment-our-australian-icebreaker-is-on-a-crucial-mission-to-antarctica)
+- [Trump administration briefing: Trump changes tack on tariffs – again – as US plans to close consulates](https://www.theguardian.com/us-news/2025/mar/07/trump-administration-briefing-trump-changes-tack-on-tariffs-again-as-us-plans-to-close-consulates)
+- [Newsom condemned for ‘throwing trans people under bus’ after sports comment](https://www.theguardian.com/us-news/2025/mar/06/gavin-newsom-trans-people-sports)
+- [SpaceX’s Starship explodes in second failure for Musk’s Mars program](https://www.theguardian.com/us-news/2025/mar/06/spacex-starship-explodes-musk)
+- [Adult infected with measles dies in New Mexico, health officials say](https://www.theguardian.com/us-news/2025/mar/06/measles-death-new-mexico)
+- [Luke Littler sinks Nathan Aspinall to win Premier League night five](https://www.theguardian.com/sport/2025/mar/07/luke-littler-sinks-nathan-aspinall-to-win-premier-league-night-five)
+- [Migrants and refugee families in the UK denied childcare funding, report finds](https://www.theguardian.com/uk-news/2025/mar/07/migrants-and-refugee-families-in-the-uk-denied-childcare-funding-report-finds)
+- [London air pollution down since Ulez extended to outer boroughs, study finds](https://www.theguardian.com/environment/2025/mar/07/london-air-pollution-down-since-ulez-expansion-study)
+- [Can’t Get You Out of My Head: King Charles reveals love of Kylie’s music](https://www.theguardian.com/uk-news/2025/mar/07/cant-get-you-out-of-my-head-king-charles-reveals-love-of-kylies-music)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

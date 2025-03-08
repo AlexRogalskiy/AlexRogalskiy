@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [US reportedly plans to revoke foreign students’ visas over pro-Palestinian social media posts flagged by AI – live](https://www.theguardian.com/us-news/live/2025/mar/06/trump-education-tariffs-ukraine-hamas-usaid-medicare-federal-workers-us-politics-live-news)
-- [‘A dream experiment’: our Australian icebreaker is on a crucial mission to Antarctica | Nathan Bindoff](https://www.theguardian.com/commentisfree/2025/mar/07/a-dream-experiment-our-australian-icebreaker-is-on-a-crucial-mission-to-antarctica)
-- [Trump administration briefing: Trump changes tack on tariffs – again – as US plans to close consulates](https://www.theguardian.com/us-news/2025/mar/07/trump-administration-briefing-trump-changes-tack-on-tariffs-again-as-us-plans-to-close-consulates)
-- [Newsom condemned for ‘throwing trans people under bus’ after sports comment](https://www.theguardian.com/us-news/2025/mar/06/gavin-newsom-trans-people-sports)
-- [SpaceX’s Starship explodes in second failure for Musk’s Mars program](https://www.theguardian.com/us-news/2025/mar/06/spacex-starship-explodes-musk)
-- [Adult infected with measles dies in New Mexico, health officials say](https://www.theguardian.com/us-news/2025/mar/06/measles-death-new-mexico)
-- [Luke Littler sinks Nathan Aspinall to win Premier League night five](https://www.theguardian.com/sport/2025/mar/07/luke-littler-sinks-nathan-aspinall-to-win-premier-league-night-five)
-- [Migrants and refugee families in the UK denied childcare funding, report finds](https://www.theguardian.com/uk-news/2025/mar/07/migrants-and-refugee-families-in-the-uk-denied-childcare-funding-report-finds)
-- [London air pollution down since Ulez extended to outer boroughs, study finds](https://www.theguardian.com/environment/2025/mar/07/london-air-pollution-down-since-ulez-expansion-study)
-- [Can’t Get You Out of My Head: King Charles reveals love of Kylie’s music](https://www.theguardian.com/uk-news/2025/mar/07/cant-get-you-out-of-my-head-king-charles-reveals-love-of-kylies-music)
+- [Trump to sign order barring student loan forgiveness for public servants engaged in ‘improper activities’ – live](https://www.theguardian.com/us-news/live/2025/mar/07/donald-trump-tariffs-china-canada-mexico-us-politics-live-news)
+- [Albanese warns against complacency as Cyclone Alfred weakens to tropical low off Queensland coast](https://www.theguardian.com/australia-news/2025/mar/08/cyclone-aflred-hits-islands-off-brisbane-and-weakens-as-storm-winds-leave-20000-without-power)
+- [Trump to lead task force marshaling preparations for 2026 World Cup](https://www.theguardian.com/football/2025/mar/07/trump-world-cup-2026-task-force-infantino)
+- [The Ukrainian refugee fighting to become the first European sumo grand champion](https://www.theguardian.com/world/2025/mar/08/the-ukrainian-refugee-fighting-to-become-the-first-european-sumo-grand-champion)
+- [Price rises to occasion with glory in historic night for women’s boxing](https://www.theguardian.com/sport/2025/mar/08/lauren-price-womens-boxing-natasha-jonas)
+- [‘We’re fairly different’: life in New Zealand’s remote self-declared ‘republic’](https://www.theguardian.com/world/2025/mar/08/whangamomona-new-zealand-self-declared-republic-feature)
+- [Woman kidnapped as a toddler in the US 25 years ago found alive in Mexico](https://www.theguardian.com/us-news/2025/mar/07/andrea-michelle-reyes-kidnapped-toddler-mexico)
+- [Athens: protesters clash with police during demonstration over 2023 train crash – video report](https://www.theguardian.com/world/video/2025/mar/07/athens-protesters-clash-with-police-during-demonstration-over-2023-train-crash-video-report)
+- [Liverpool on verge of 90-year-old scoring record but Slot wants more](https://www.theguardian.com/football/2025/mar/07/liverpool-on-verge-of-90-year-old-scoring-record-arne-slot)
+- [Gene Hackman died of natural causes days after wife died of rare respiratory virus](https://www.theguardian.com/film/2025/mar/07/gene-hackman-death-investigation)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

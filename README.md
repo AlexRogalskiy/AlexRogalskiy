@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Differentiable Logic Cellular Automata](https://google-research.github.io/self-organising-systems/difflogic-ca/?hn)
-- [InstantStyle: Free Lunch Towards Style-Preserving in Text-to-Image Generation](https://github.com/instantX-research/InstantStyle)
-- [Why I find diffusion models interesting?](https://rnikhil.com/2025/03/06/diffusion-models-eval)
-- [How to distrust a CA without any certificate errors](https://dadrian.io/blog/posts/sct-not-after/)
-- [A brief meditation on formal systems and lying goblins](https://the-nerve-blog.ghost.io/a-brief-meditation-on-formal-systems-and-lying-goblins/)
-- [Koko &lpar;YC W22&rpar; Is Hiring a CTO / Lead Engineer](https://www.ycombinator.com/companies/koko-2/jobs/oPgy08B-lead-engineer-cto)
-- [Show HN: Rust Vector and Quaternion Lib](https://github.com/David-OConnor/lin-alg)
-- [Using GRPO to Beat o1, o3-mini and R1 at &quot;Temporal Clue&quot;](https://openpipe.ai/blog/using-grpo-to-beat-o1-o3-mini-and-r1-on-temporal-clue)
-- [How the Index Card Cataloged the World &lpar;2017&rpar;](https://www.theatlantic.com/technology/archive/2017/12/how-the-index-card-catalogued-the-world/547271/)
-- [Show HN: Shelgon: A Framework for Building Interactive REPL Shells in Rust](https://github.com/NishantJoshi00/shelgon)
+- [Developer sabotaged ex-employer with kill switch that activated when fired](https://www.theregister.com/2025/03/08/developer_server_kill_switch/)
+- [Feds Link $150M Cyberheist to 2022 LastPass Hacks](https://krebsonsecurity.com/2025/03/feds-link-150m-cyberheist-to-2022-lastpass-hacks/)
+- [Superintelligence startup Reflection AI launches with $130M in funding](https://siliconangle.com/2025/03/07/superintelligence-startup-reflection-ai-launches-130m-funding/)
+- [GeoCities in 1995: Building a Home Page on the Internet](https://cybercultural.com/p/geocities-1995/)
+- [Rust inadequate for text compression codecs?](https://palaiologos.rocks/posts/rust-codecs/)
+- [How did places like Bell Labs know how to ask the right questions?](https://www.freaktakes.com/p/how-did-places-like-bell-labs-know)
+- [ParadeDB &lpar;YC S23&rpar; Is Hiring a Rust Database Engineer](https://paradedb.notion.site/ParadeDB-Job-Board-50b45af7a2834e22958b171ffa008e00)
+- [Polars Cloud: The Distributed Cloud Architecture to Run Polars Anywhere](https://pola.rs/posts/polars-cloud-what-we-are-building/)
+- [&#39;Next-Level&#39; Chaos Traces the True Limit of Predictability](https://www.quantamagazine.org/next-level-chaos-traces-the-true-limit-of-predictability-20250307/)
+- [Europe&#39;s most wanted man plotted my murder and that of my colleague](https://theins.press/en/inv/279034)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

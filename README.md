@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: Free mobile app demo creator](https://www.howdygo.com/free-tools/mobile-app-demo-creator)
-- [&quot;please start a Kubernetes cluster for me&quot;](https://twitter.com/solomonstre/status/1897802102057128402)
-- [The Perfect Beer Glass Shape, According to Math](https://www.scientificamerican.com/article/the-perfect-beer-glass-shape-according-to-math/)
-- [We Compared Eight AI Search Engines. They&#39;re All Bad at Citing News](https://www.cjr.org/tow_center/we-compared-eight-ai-search-engines-theyre-all-bad-at-citing-news.php)
-- [Introducing Magic Containers: What Edge Computing was meant to be](https://bunny.net/blog/introducing-magic-containers-what-edge-computing-was-meant-to-be/)
-- [SpaceX&#39;s Starship explodes in second failure for Musk&#39;s Mars program](https://www.theguardian.com/us-news/2025/mar/06/spacex-starship-explodes-musk)
-- [The Balatro Timeline](https://localthunk.com/blog/balatro-timeline-3aarh)
-- [CyberScan 3D: The Android 3D Scanning App That Works Perfectly Offline](https://global.app.mi.com/details?lo=ID&la=en_US&id=alex.v.next.album)
-- [Mobile Marketing in 2025: Trends and Insights](https://yournotify.com/blog/mobile-marketing-trends-and-insights/)
-- [Wine Tasting with Claude Shannon](https://danco.substack.com/p/wine-tasting-with-claude-shannon)
+- [Bill could redefine self-defense in California](https://ktla.com/news/california/bill-could-redefine-self-defense-in-california/)
+- [Compound mimics cannabis for pain relief without the side effects](https://medicalxpress.com/news/2025-03-compound-mimics-cannabis-pain-relief.html)
+- [Meta&#39;s eBPF-Powered Strobelight Software Reduced CPU Cycles by 20%](https://www.phoronix.com/news/Meta-eBPF-Strobelight-20p)
+- [Show HN: Open-Source DocumentAI with Ollama](https://rlama.dev/)
+- [Show HN: Took 10 Months to Make AI Processor &lpar;Chat and Voice&rpar; Agent Thing](https://www.splutter.ai/)
+- [Railway V3: Faster and Cheaper](https://blog.railway.com/p/launch-week-02-welcome)
+- [China announces retaliatory tariffs on some Canada farm, food products](https://www.reuters.com/markets/china-announces-retaliatory-tariffs-some-canada-farm-food-products-2025-03-08/)
+- [Take It Down Act: A Flawed Attempt to Protect Victims That&#39;ll Lead to Censorship](https://www.eff.org/deeplinks/2025/02/take-it-down-act-flawed-attempt-protect-victims-will-lead-censorship)
+- [The Staff+ Performance Cliff](https://sylormiller.com/posts/2025/staff-plus-cliff/)
+- [Establishment of the strategic Bitcoin reserve and US digital asset stockpile](https://www.whitehouse.gov/presidential-actions/2025/03/establishment-of-the-strategic-bitcoin-reserveand-united-states-digital-asset-stockpile/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

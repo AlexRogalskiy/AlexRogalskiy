@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Developer sabotaged ex-employer with kill switch that activated when fired](https://www.theregister.com/2025/03/08/developer_server_kill_switch/)
-- [Feds Link $150M Cyberheist to 2022 LastPass Hacks](https://krebsonsecurity.com/2025/03/feds-link-150m-cyberheist-to-2022-lastpass-hacks/)
-- [Superintelligence startup Reflection AI launches with $130M in funding](https://siliconangle.com/2025/03/07/superintelligence-startup-reflection-ai-launches-130m-funding/)
-- [GeoCities in 1995: Building a Home Page on the Internet](https://cybercultural.com/p/geocities-1995/)
-- [Rust inadequate for text compression codecs?](https://palaiologos.rocks/posts/rust-codecs/)
-- [How did places like Bell Labs know how to ask the right questions?](https://www.freaktakes.com/p/how-did-places-like-bell-labs-know)
-- [ParadeDB &lpar;YC S23&rpar; Is Hiring a Rust Database Engineer](https://paradedb.notion.site/ParadeDB-Job-Board-50b45af7a2834e22958b171ffa008e00)
-- [Polars Cloud: The Distributed Cloud Architecture to Run Polars Anywhere](https://pola.rs/posts/polars-cloud-what-we-are-building/)
-- [&#39;Next-Level&#39; Chaos Traces the True Limit of Predictability](https://www.quantamagazine.org/next-level-chaos-traces-the-true-limit-of-predictability-20250307/)
-- [Europe&#39;s most wanted man plotted my murder and that of my colleague](https://theins.press/en/inv/279034)
+- [Show HN: I built an app to get daily wisdom from Mr. Worldwide](https://daale.club/)
+- [Toward a Passwordless Future](https://www.privacyguides.org/articles/2025/03/08/toward-a-passwordless-future/)
+- [Stuff a Pi-hole in your router because your browser is about to betray you](https://www.theregister.com/2025/03/08/pi_hole_6_flyby/)
+- [Presenterm: Markdown Slideshows in the Terminal](https://github.com/mfontanini/presenterm)
+- [OneText &lpar;YC W23&rpar; is hiring a browser extension engineer](https://news.ycombinator.com/item?id=43303463)
+- [Show HN: TypeLeap: LLM Powered Reactive Intent UI/UX](https://www.typeleap.com/)
+- [Deploy from local to production &lpar;self-hosted&rpar;](https://github.com/bypirob/airo)
+- [MCP vs. API Explained](https://norahsakal.com/blog/mcp-vs-api-model-context-protocol-explained/)
+- [Kill your Feeds – Stop letting algorithms dictate what you think](https://usher.dev/posts/2025-03-08-kill-your-feeds/)
+- [Kagi Is Bringing Orion Web Browser to Linux](https://www.omgubuntu.co.uk/2025/03/kag-orion-web-browser-coming-to-linux)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

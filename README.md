@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Bill could redefine self-defense in California](https://ktla.com/news/california/bill-could-redefine-self-defense-in-california/)
-- [Compound mimics cannabis for pain relief without the side effects](https://medicalxpress.com/news/2025-03-compound-mimics-cannabis-pain-relief.html)
-- [Meta&#39;s eBPF-Powered Strobelight Software Reduced CPU Cycles by 20%](https://www.phoronix.com/news/Meta-eBPF-Strobelight-20p)
-- [Show HN: Open-Source DocumentAI with Ollama](https://rlama.dev/)
-- [Show HN: Took 10 Months to Make AI Processor &lpar;Chat and Voice&rpar; Agent Thing](https://www.splutter.ai/)
-- [Railway V3: Faster and Cheaper](https://blog.railway.com/p/launch-week-02-welcome)
-- [China announces retaliatory tariffs on some Canada farm, food products](https://www.reuters.com/markets/china-announces-retaliatory-tariffs-some-canada-farm-food-products-2025-03-08/)
-- [Take It Down Act: A Flawed Attempt to Protect Victims That&#39;ll Lead to Censorship](https://www.eff.org/deeplinks/2025/02/take-it-down-act-flawed-attempt-protect-victims-will-lead-censorship)
-- [The Staff+ Performance Cliff](https://sylormiller.com/posts/2025/staff-plus-cliff/)
-- [Establishment of the strategic Bitcoin reserve and US digital asset stockpile](https://www.whitehouse.gov/presidential-actions/2025/03/establishment-of-the-strategic-bitcoin-reserveand-united-states-digital-asset-stockpile/)
+- [Surreal &quot;Severance&quot; brilliantly captures the reality of office life](https://www.economist.com/culture/2025/03/06/surreal-severance-brilliantly-captures-the-reality-of-office-life)
+- [Belief Aversion Training: A Method for Changing Your Beliefs](https://github.com/tmshapland/belief_aversion_training)
+- [The View from My Office](https://www.math.columbia.edu/~woit/wordpress/?p=14418)
+- [A High School Student Explains How Educators Can Adapt to AI](https://themarkup.org/hello-world/2025/03/08/a-high-school-student-explains-how-educators-can-adapt-to-ai)
+- [Show HN: Guesshole, a competitive geography guessing game](https://news.ycombinator.com/item?id=43305514)
+- [Show HN: Jigsaw100 – Create and Play Online Jigsaw Puzzles](https://jigsaw100.com/en/explore)
+- [Compared to index funds, actively managed mutual funds still stink](https://www.latimes.com/business/story/2025-03-06/the-results-are-in-during-2024-actively-managed-mutual-funds-again-stank)
+- [US &#39;to cease all future military exercises in Europe&#39;](https://www.telegraph.co.uk/us/politics/2025/03/08/us-to-cease-all-future-military-exercises-in-europe-reports/)
+- [Sigma announces the ultra-telephoto 300-600mm F4 DG OS Sports lens](https://www.dpreview.com/news/0835876793/sigma-announces-the-ultra-telephoto-300-600mm-f4-dg-os-sports-lens)
+- [Does AI Help Write Better Software, or Just... More Code?](https://www.honeycomb.io/blog/does-ai-help-write-better-software-or-just-more-code)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

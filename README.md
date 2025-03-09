@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Trump to sign order barring student loan forgiveness for public servants engaged in ‘improper activities’ – live](https://www.theguardian.com/us-news/live/2025/mar/07/donald-trump-tariffs-china-canada-mexico-us-politics-live-news)
-- [Albanese warns against complacency as Cyclone Alfred weakens to tropical low off Queensland coast](https://www.theguardian.com/australia-news/2025/mar/08/cyclone-aflred-hits-islands-off-brisbane-and-weakens-as-storm-winds-leave-20000-without-power)
-- [Trump to lead task force marshaling preparations for 2026 World Cup](https://www.theguardian.com/football/2025/mar/07/trump-world-cup-2026-task-force-infantino)
-- [The Ukrainian refugee fighting to become the first European sumo grand champion](https://www.theguardian.com/world/2025/mar/08/the-ukrainian-refugee-fighting-to-become-the-first-european-sumo-grand-champion)
-- [Price rises to occasion with glory in historic night for women’s boxing](https://www.theguardian.com/sport/2025/mar/08/lauren-price-womens-boxing-natasha-jonas)
-- [‘We’re fairly different’: life in New Zealand’s remote self-declared ‘republic’](https://www.theguardian.com/world/2025/mar/08/whangamomona-new-zealand-self-declared-republic-feature)
-- [Woman kidnapped as a toddler in the US 25 years ago found alive in Mexico](https://www.theguardian.com/us-news/2025/mar/07/andrea-michelle-reyes-kidnapped-toddler-mexico)
-- [Athens: protesters clash with police during demonstration over 2023 train crash – video report](https://www.theguardian.com/world/video/2025/mar/07/athens-protesters-clash-with-police-during-demonstration-over-2023-train-crash-video-report)
-- [Liverpool on verge of 90-year-old scoring record but Slot wants more](https://www.theguardian.com/football/2025/mar/07/liverpool-on-verge-of-90-year-old-scoring-record-arne-slot)
-- [Gene Hackman died of natural causes days after wife died of rare respiratory virus](https://www.theguardian.com/film/2025/mar/07/gene-hackman-death-investigation)
+- [Impeached South Korean president released from prison ahead of insurrection trial](https://www.theguardian.com/world/2025/mar/09/impeached-south-korean-president-released-from-prison-ahead-of-insurrection-trial)
+- [Lucky loser Van de Zandschulp stuns struggling Djokovic at Indian Wells](https://www.theguardian.com/sport/2025/mar/08/jack-draper-makes-light-of-his-tough-draw-to-see-off-brazilian-joao-fonseca)
+- [More than 1,000 people killed in two days of clashes in Syria, war monitor says](https://www.theguardian.com/world/2025/mar/09/more-than-1000-people-killed-in-two-days-of-clashes-in-syria-war-monitor-says)
+- [The edit: 15 of the best graphic t-shirts – in pictures](https://www.theguardian.com/lifeandstyle/gallery/2025/mar/08/the-edit-15-of-the-best-graphic-t-shirts-in-pictures)
+- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2025/mar/08/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Palestine protester safely brought down from Big Ben clock tower after 16 hours](https://www.theguardian.com/uk-news/2025/mar/08/area-big-ben-closed-man-palestinian-flag-climbs-elizabeth-tower-westminster-bridge)
+- [Silence please: how book clubs without the chat help focus the mind](https://www.theguardian.com/books/2025/mar/09/melbourne-silent-book-clubs-feature)
+- [Northern lights sightings expected in Scotland over weekend](https://www.theguardian.com/science/2025/mar/08/northern-lights-sightings-expected-in-scotland-over-weekend)
+- [Unions on alert as Labour prepares to unveil ‘Trumpian’ plan for civil service](https://www.theguardian.com/politics/2025/mar/08/unions-on-alert-as-labour-prepares-to-unveil-trumpian-plan-for-civil-service)
+- [Police recover body from Thames in search for Kent pub shooting suspect](https://www.theguardian.com/uk-news/2025/mar/08/police-recover-body-from-thames-in-search-for-kent-pub-shooting-suspect)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

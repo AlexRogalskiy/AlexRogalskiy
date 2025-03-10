@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Surreal &quot;Severance&quot; brilliantly captures the reality of office life](https://www.economist.com/culture/2025/03/06/surreal-severance-brilliantly-captures-the-reality-of-office-life)
-- [Belief Aversion Training: A Method for Changing Your Beliefs](https://github.com/tmshapland/belief_aversion_training)
-- [The View from My Office](https://www.math.columbia.edu/~woit/wordpress/?p=14418)
-- [A High School Student Explains How Educators Can Adapt to AI](https://themarkup.org/hello-world/2025/03/08/a-high-school-student-explains-how-educators-can-adapt-to-ai)
-- [Show HN: Guesshole, a competitive geography guessing game](https://news.ycombinator.com/item?id=43305514)
-- [Show HN: Jigsaw100 – Create and Play Online Jigsaw Puzzles](https://jigsaw100.com/en/explore)
-- [Compared to index funds, actively managed mutual funds still stink](https://www.latimes.com/business/story/2025-03-06/the-results-are-in-during-2024-actively-managed-mutual-funds-again-stank)
-- [US &#39;to cease all future military exercises in Europe&#39;](https://www.telegraph.co.uk/us/politics/2025/03/08/us-to-cease-all-future-military-exercises-in-europe-reports/)
-- [Sigma announces the ultra-telephoto 300-600mm F4 DG OS Sports lens](https://www.dpreview.com/news/0835876793/sigma-announces-the-ultra-telephoto-300-600mm-f4-dg-os-sports-lens)
-- [Does AI Help Write Better Software, or Just... More Code?](https://www.honeycomb.io/blog/does-ai-help-write-better-software-or-just-more-code)
+- [Venture Capital&#39;s &#39;Blitzscaling&#39; Obsession Is Warping the World](https://www.bloomberg.com/news/articles/2025-03-07/venture-capital-s-blitzscaling-obsession-is-warping-the-world)
+- [Warning Do not try building bitdrift at home](https://blog.bitdrift.io/post/dont-build-bitdrift)
+- [TeXLive 2025 Is Released](https://tug.org/texlive/acquire.html)
+- [Outdated DKIM keys are easy to crack](https://www.sidn.nl/en/news-and-blogs/outdated-dkim-keys-are-easy-to-crack)
+- [Use floating rules for mDNS if you&#39;re using OPNsense bridge interfaces](https://olivia.sculley.dev/#/posts/opnsense-floating-rules)
+- [How Radioactive Are Your Teeth? [video]](https://www.youtube.com/watch?v=FPZuklD9eRg)
+- [Ask HN: Has anyone tried Manus? Is it a powerful AI Agent?](https://news.ycombinator.com/item?id=43316276)
+- [Tesla Showroom Set on Fire](https://www.hindustantimes.com/trending/tesla-showroom-set-on-fire-12-cars-destroyed-in-suspected-arson-attack-in-france-101741243979863.html)
+- [Laplacian Mesh Smoothing by Throwing Vertices](https://nosferalatu.com/./LaplacianMeshSmoothing.html)
+- [Connections Museum of Seattle is putting in a new installation in Denver](https://www.youtube.com/watch?v=RBXu7qJ7dNQ)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

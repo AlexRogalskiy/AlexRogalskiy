@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Show HN: I built an app to get daily wisdom from Mr. Worldwide](https://daale.club/)
-- [Toward a Passwordless Future](https://www.privacyguides.org/articles/2025/03/08/toward-a-passwordless-future/)
-- [Stuff a Pi-hole in your router because your browser is about to betray you](https://www.theregister.com/2025/03/08/pi_hole_6_flyby/)
-- [Presenterm: Markdown Slideshows in the Terminal](https://github.com/mfontanini/presenterm)
-- [OneText &lpar;YC W23&rpar; is hiring a browser extension engineer](https://news.ycombinator.com/item?id=43303463)
-- [Show HN: TypeLeap: LLM Powered Reactive Intent UI/UX](https://www.typeleap.com/)
-- [Deploy from local to production &lpar;self-hosted&rpar;](https://github.com/bypirob/airo)
-- [MCP vs. API Explained](https://norahsakal.com/blog/mcp-vs-api-model-context-protocol-explained/)
-- [Kill your Feeds – Stop letting algorithms dictate what you think](https://usher.dev/posts/2025-03-08-kill-your-feeds/)
-- [Kagi Is Bringing Orion Web Browser to Linux](https://www.omgubuntu.co.uk/2025/03/kag-orion-web-browser-coming-to-linux)
+- [Structured Labs &lpar;YC S23&rpar; Is Hiring for Full-Stack Engineers](https://www.ycombinator.com/companies/structured-labs/jobs/ADiKR9m-full-stack-engineer)
+- [Stanford researchers develop dual-antibody treatment for ALL SARS-CoV-2 variants](https://www.science.org/doi/10.1126/scitranslmed.adq5720)
+- [Microsoft&#39;s Relationship with OpenAI Is Not Looking Good](https://gizmodo.com/microsofts-relationship-with-openai-is-not-looking-good-2000573293)
+- [If you witness a cardiac arrest, here&#39;s what to do](https://www.cbc.ca/lite/story/1.7136483)
+- [Electronics-free old diesel trucks of the national radio astronomy observatory](https://raoulpop.com/2012/04/15/chasing-rfi-waves-part-seven/)
+- [Vilhelm Hammershøi: the eminence in greys](https://www.richardmorris.org/blog-1-1/vilhelm-hammershi-the-eminence-in-greys)
+- [Tesla&#39;s team to suppress driving range complaints &lpar;2023&rpar;](https://www.reuters.com/investigates/special-report/tesla-batteries-range/)
+- [Apple Exclaves](https://randomaugustine.medium.com/on-apple-exclaves-d683a2c37194)
+- [Apple rearranged its XNU kernel with exclaves](https://www.theregister.com/2025/03/08/kernel_sanders_apple_rearranges_xnu/)
+- [Scientists discover an RNA that repairs DNA damage](https://scitechdaily.com/scientists-just-discovered-an-rna-that-repairs-dna-damage-and-its-a-game-changer/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

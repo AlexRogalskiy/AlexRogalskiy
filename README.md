@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Impeached South Korean president released from prison ahead of insurrection trial](https://www.theguardian.com/world/2025/mar/09/impeached-south-korean-president-released-from-prison-ahead-of-insurrection-trial)
-- [Lucky loser Van de Zandschulp stuns struggling Djokovic at Indian Wells](https://www.theguardian.com/sport/2025/mar/08/jack-draper-makes-light-of-his-tough-draw-to-see-off-brazilian-joao-fonseca)
-- [More than 1,000 people killed in two days of clashes in Syria, war monitor says](https://www.theguardian.com/world/2025/mar/09/more-than-1000-people-killed-in-two-days-of-clashes-in-syria-war-monitor-says)
-- [The edit: 15 of the best graphic t-shirts – in pictures](https://www.theguardian.com/lifeandstyle/gallery/2025/mar/08/the-edit-15-of-the-best-graphic-t-shirts-in-pictures)
-- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2025/mar/08/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Palestine protester safely brought down from Big Ben clock tower after 16 hours](https://www.theguardian.com/uk-news/2025/mar/08/area-big-ben-closed-man-palestinian-flag-climbs-elizabeth-tower-westminster-bridge)
-- [Silence please: how book clubs without the chat help focus the mind](https://www.theguardian.com/books/2025/mar/09/melbourne-silent-book-clubs-feature)
-- [Northern lights sightings expected in Scotland over weekend](https://www.theguardian.com/science/2025/mar/08/northern-lights-sightings-expected-in-scotland-over-weekend)
-- [Unions on alert as Labour prepares to unveil ‘Trumpian’ plan for civil service](https://www.theguardian.com/politics/2025/mar/08/unions-on-alert-as-labour-prepares-to-unveil-trumpian-plan-for-civil-service)
-- [Police recover body from Thames in search for Kent pub shooting suspect](https://www.theguardian.com/uk-news/2025/mar/08/police-recover-body-from-thames-in-search-for-kent-pub-shooting-suspect)
+- [Ex-Cyclone Alfred live updates: Brisbane and NSW flooding; power outages; floods evacuation warnings – latest news](https://www.theguardian.com/australia-news/live/2025/mar/10/australia-live-news-ex-tropical-cyclone-alfred-flood-evacuation-queensland-nsw-lismore-brisbane-wa-election-roger-cook-anthony-albanese-peter-dutton-ntwnfb)
+- [Ukraine war briefing: Kyiv officials to meet Trump aides in Saudi Arabia](https://www.theguardian.com/world/2025/mar/10/ukraine-war-briefing-kyiv-officials-to-meet-trump-aides-in-saudi-arabia)
+- [Man charged after pro-Palestine protester climbed Elizabeth Tower](https://www.theguardian.com/uk-news/2025/mar/10/man-charged-after-protester-climbed-big-ben)
+- [Firms hold back on hiring amid ‘significant cost rises’, surveys say](https://www.theguardian.com/business/2025/mar/10/firms-hold-back-on-hiring-amid-significant-cost-rises-surveys-say)
+- [English and Welsh councils to have greater powers to seize land for affordable housing](https://www.theguardian.com/politics/2025/mar/10/english-welsh-councils-greater-powers-to-seize-land-for-affordable-housing-planning-rules-shake-up)
+- [Entire families reportedly killed in fighting in north-west Syria, UN says](https://www.theguardian.com/world/2025/mar/09/north-west-syria-un-latakia-assad-regime-loyalists-killings)
+- [Pilot and passengers taken to hospital after Pennsylvania plane crash](https://www.theguardian.com/world/2025/mar/09/pennsylvania-small-plane-crash)
+- [Courtney-Bryant wins 3,000m European Indoor silver after Koster’s horror fall](https://www.theguardian.com/sport/2025/mar/09/courtney-bryant-wins-3000m-silver-at-european-indoor-after-koster-carnage)
+- [Israel to cut off electricity in Gaza in apparent effort to force hand of Hamas](https://www.theguardian.com/world/2025/mar/09/israel-cut-off-electricity-gaza-hamas-ceasefire-negotiations)
+- [Mark Carney to be next Canada PM after winning Liberal leadership race](https://www.theguardian.com/world/2025/mar/09/mark-carney-to-be-next-canada-pm-after-winning-liberal-leadership-race)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

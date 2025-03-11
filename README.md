@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Venture Capital&#39;s &#39;Blitzscaling&#39; Obsession Is Warping the World](https://www.bloomberg.com/news/articles/2025-03-07/venture-capital-s-blitzscaling-obsession-is-warping-the-world)
-- [Warning Do not try building bitdrift at home](https://blog.bitdrift.io/post/dont-build-bitdrift)
-- [TeXLive 2025 Is Released](https://tug.org/texlive/acquire.html)
-- [Outdated DKIM keys are easy to crack](https://www.sidn.nl/en/news-and-blogs/outdated-dkim-keys-are-easy-to-crack)
-- [Use floating rules for mDNS if you&#39;re using OPNsense bridge interfaces](https://olivia.sculley.dev/#/posts/opnsense-floating-rules)
-- [How Radioactive Are Your Teeth? [video]](https://www.youtube.com/watch?v=FPZuklD9eRg)
-- [Ask HN: Has anyone tried Manus? Is it a powerful AI Agent?](https://news.ycombinator.com/item?id=43316276)
-- [Tesla Showroom Set on Fire](https://www.hindustantimes.com/trending/tesla-showroom-set-on-fire-12-cars-destroyed-in-suspected-arson-attack-in-france-101741243979863.html)
-- [Laplacian Mesh Smoothing by Throwing Vertices](https://nosferalatu.com/./LaplacianMeshSmoothing.html)
-- [Connections Museum of Seattle is putting in a new installation in Denver](https://www.youtube.com/watch?v=RBXu7qJ7dNQ)
+- [WikiPortraits](https://www.wikiportraits.org/)
+- [White House: Stock market plunge is not as &#39;meaningful&#39; as business activity](https://www.cnbc.com/2025/03/10/white-house-stock-market-sell-off-animal-spirits.html)
+- [Introducing Manus: The General AI Agent [video]](https://www.youtube.com/watch?v=K27diMbCsuw)
+- [Pubs&#39; Roles in Tackling Loneliness](https://beerinsider.com/pubs-roles-in-tackling-loneliness/)
+- [GSA to reduce tech services arm by 50%, eliminate non-statutory work](https://fedscoop.com/exclusive-gsa-to-reduce-tech-services-arm-by-50-eliminate-non-statutory-work/)
+- [Pupil size reveals arousal level fluctuations in human sleep](https://www.nature.com/articles/s41467-025-57289-5)
+- [Vector Search at 10k QPS in PostgreSQL](https://blog.vectorchord.ai/vector-search-at-10000-qps-in-postgresql-with-vectorchord)
+- [How should you use AI?](https://fffej.substack.com/p/how-should-you-use-ai)
+- [Show HN: Hot Design – Like Hot Reload, but a Runtime Visual Designer](https://platform.uno/blog/hot-design-public-beta/)
+- [An early look at Nix Dynamic Derivations](https://fzakaria.com/2025/03/10/an-early-look-at-nix-dynamic-derivations)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

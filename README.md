@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ex-Cyclone Alfred live updates: Brisbane and NSW flooding; power outages; floods evacuation warnings – latest news](https://www.theguardian.com/australia-news/live/2025/mar/10/australia-live-news-ex-tropical-cyclone-alfred-flood-evacuation-queensland-nsw-lismore-brisbane-wa-election-roger-cook-anthony-albanese-peter-dutton-ntwnfb)
-- [Ukraine war briefing: Kyiv officials to meet Trump aides in Saudi Arabia](https://www.theguardian.com/world/2025/mar/10/ukraine-war-briefing-kyiv-officials-to-meet-trump-aides-in-saudi-arabia)
-- [Man charged after pro-Palestine protester climbed Elizabeth Tower](https://www.theguardian.com/uk-news/2025/mar/10/man-charged-after-protester-climbed-big-ben)
-- [Firms hold back on hiring amid ‘significant cost rises’, surveys say](https://www.theguardian.com/business/2025/mar/10/firms-hold-back-on-hiring-amid-significant-cost-rises-surveys-say)
-- [English and Welsh councils to have greater powers to seize land for affordable housing](https://www.theguardian.com/politics/2025/mar/10/english-welsh-councils-greater-powers-to-seize-land-for-affordable-housing-planning-rules-shake-up)
-- [Entire families reportedly killed in fighting in north-west Syria, UN says](https://www.theguardian.com/world/2025/mar/09/north-west-syria-un-latakia-assad-regime-loyalists-killings)
-- [Pilot and passengers taken to hospital after Pennsylvania plane crash](https://www.theguardian.com/world/2025/mar/09/pennsylvania-small-plane-crash)
-- [Courtney-Bryant wins 3,000m European Indoor silver after Koster’s horror fall](https://www.theguardian.com/sport/2025/mar/09/courtney-bryant-wins-3000m-silver-at-european-indoor-after-koster-carnage)
-- [Israel to cut off electricity in Gaza in apparent effort to force hand of Hamas](https://www.theguardian.com/world/2025/mar/09/israel-cut-off-electricity-gaza-hamas-ceasefire-negotiations)
-- [Mark Carney to be next Canada PM after winning Liberal leadership race](https://www.theguardian.com/world/2025/mar/09/mark-carney-to-be-next-canada-pm-after-winning-liberal-leadership-race)
+- [‘No military solution’ to Ukraine war, Rubio says ahead of Saudi meetings](https://www.theguardian.com/world/2025/mar/10/us-and-ukraine-officials-arrive-in-saudi-arabia-for-talks-to-repair-ties)
+- [Valentine’s Day proves a gift for UK retailers, as consumers hold back on big-ticket items](https://www.theguardian.com/business/2025/mar/11/valentines-day-proves-a-gift-for-uk-retailers-as-consumers-hold-back-on-big-ticket-items)
+- [Jack Wilshere: ‘Arteta was the one. I’d never seen someone coach that way’](https://www.theguardian.com/football/2025/mar/10/jack-wilshere-arteta-was-the-one-id-never-seen-someone-coach-that-way)
+- [Jack Draper survives scare to defeat Jenson Brooksby at Indian Wells](https://www.theguardian.com/sport/2025/mar/10/jack-draper-defeat-jenson-brooksby-indian-wells-tennis)
+- [‘Sexually inappropriate comments’ aimed at Hinds in Women’s FA Cup tie](https://www.theguardian.com/football/2025/mar/10/sexually-inappropriate-comments-aimed-at-hinds-in-womens-fa-cup-tie)
+- [Newcastle close in on top four after Guimarães pounces to see off West Ham](https://www.theguardian.com/football/2025/mar/10/west-ham-newcastle-premier-league-match-report)
+- [Michael Sheen’s Secret Million Pound Giveaway review – this Robin Hood heist is a total inspiration](https://www.theguardian.com/tv-and-radio/2025/mar/10/michael-sheens-secret-million-pound-giveaway-review-this-robin-hood-heist-is-a-total-inspiration)
+- [Michael Gove ‘wanted to circumvent watchdog’ to push through Dyson bid, Covid inquiry told](https://www.theguardian.com/uk-news/2025/mar/10/michael-gove-wanted-to-circumvent-watchdog-to-push-through-dyson-bid-covid-inquiry-told)
+- [Colombia urges UN to remove coca leaf from harmful substances list](https://www.theguardian.com/world/2025/mar/10/colombia-coca-leaf-united-nations)
+- [Pope Francis no longer in immediate danger, Vatican says](https://www.theguardian.com/world/2025/mar/10/pope-francis-no-longer-in-immediate-danger-vatican-says)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Structured Labs &lpar;YC S23&rpar; Is Hiring for Full-Stack Engineers](https://www.ycombinator.com/companies/structured-labs/jobs/ADiKR9m-full-stack-engineer)
-- [Stanford researchers develop dual-antibody treatment for ALL SARS-CoV-2 variants](https://www.science.org/doi/10.1126/scitranslmed.adq5720)
-- [Microsoft&#39;s Relationship with OpenAI Is Not Looking Good](https://gizmodo.com/microsofts-relationship-with-openai-is-not-looking-good-2000573293)
-- [If you witness a cardiac arrest, here&#39;s what to do](https://www.cbc.ca/lite/story/1.7136483)
-- [Electronics-free old diesel trucks of the national radio astronomy observatory](https://raoulpop.com/2012/04/15/chasing-rfi-waves-part-seven/)
-- [Vilhelm Hammershøi: the eminence in greys](https://www.richardmorris.org/blog-1-1/vilhelm-hammershi-the-eminence-in-greys)
-- [Tesla&#39;s team to suppress driving range complaints &lpar;2023&rpar;](https://www.reuters.com/investigates/special-report/tesla-batteries-range/)
-- [Apple Exclaves](https://randomaugustine.medium.com/on-apple-exclaves-d683a2c37194)
-- [Apple rearranged its XNU kernel with exclaves](https://www.theregister.com/2025/03/08/kernel_sanders_apple_rearranges_xnu/)
-- [Scientists discover an RNA that repairs DNA damage](https://scitechdaily.com/scientists-just-discovered-an-rna-that-repairs-dna-damage-and-its-a-game-changer/)
+- [Seven39 – a social media app that is only open for 3 hours every evening](https://www.seven39.com)
+- [Shef](https://github.com/eduardoagarcia/shef)
+- [Bending Spacetime in the Basement](https://www.fourmilab.ch/gravitation/foobar/)
+- [What made the Irish famine so deadly](https://www.newyorker.com/magazine/2025/03/17/rot-padraic-x-scanlan-book-review)
+- [Mathematical Foundations of Reinforcement Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)
+- [STEPS Toward the Reinvention of Programming &lpar;2012&rpar; [pdf]](https://tinlizzie.org/VPRIPapers/tr2012001_steps.pdf)
+- [People are just as bad as my LLMs](https://wilsoniumite.com/2025/03/10/people-are-just-as-bad-as-my-llms/)
+- [Software-Defined Radio for Engineers &lpar;2018&rpar; [pdf]](https://www.analog.com/media/en/training-seminars/design-handbooks/Software-Defined-Radio-for-Engineers-2018/SDR4Engineers.pdf)
+- [uBlock Origin is no longer available on the Chrome Store](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en)
+- [Music labels will regret coming for the Internet Archive, sound historian says](https://arstechnica.com/tech-policy/2025/03/music-labels-will-regret-coming-for-the-internet-archive-sound-historian-says/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

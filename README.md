@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Seven39 – a social media app that is only open for 3 hours every evening](https://www.seven39.com)
-- [Shef](https://github.com/eduardoagarcia/shef)
-- [Bending Spacetime in the Basement](https://www.fourmilab.ch/gravitation/foobar/)
-- [What made the Irish famine so deadly](https://www.newyorker.com/magazine/2025/03/17/rot-padraic-x-scanlan-book-review)
-- [Mathematical Foundations of Reinforcement Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)
-- [STEPS Toward the Reinvention of Programming &lpar;2012&rpar; [pdf]](https://tinlizzie.org/VPRIPapers/tr2012001_steps.pdf)
-- [People are just as bad as my LLMs](https://wilsoniumite.com/2025/03/10/people-are-just-as-bad-as-my-llms/)
-- [Software-Defined Radio for Engineers &lpar;2018&rpar; [pdf]](https://www.analog.com/media/en/training-seminars/design-handbooks/Software-Defined-Radio-for-Engineers-2018/SDR4Engineers.pdf)
-- [uBlock Origin is no longer available on the Chrome Store](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en)
-- [Music labels will regret coming for the Internet Archive, sound historian says](https://arstechnica.com/tech-policy/2025/03/music-labels-will-regret-coming-for-the-internet-archive-sound-historian-says/)
+- [Comma AI has sold 10K Comma 3X devices](https://blog.comma.ai/happy10kday/)
+- [Australian man survives 100 days with artificial heart in world-first success](https://www.theguardian.com/australia-news/2025/mar/12/australian-man-survives-100-days-with-artificial-heart-in-world-first-success)
+- [Sorting algorithms with CUDA](https://ashwanirathee.com/blog/2025/sort2/)
+- [The Startup CTO&#39;s Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook/blob/main/StartupCTOHandbook.md)
+- [Unix Needs a True Integrated Environment: CASE Closed &lpar;1989&rpar; [pdf]](http://www.bitsavers.org/pdf/xerox/parc/techReports/CSL-89-4_UNIX_Needs_A_True_Integrated_Environment.pdf)
+- [Continue &lpar;YC S23&rpar; Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
+- [How do we tell truths that might hurt? &lpar;1975&rpar;](https://www.cs.virginia.edu/~evans/cs655/readings/ewd498.html)
+- [Backyard Cyanide](https://suziepetryk.com/blog/cyanide.html)
+- [New tools for building agents](https://openai.com/index/new-tools-for-building-agents/)
+- [Launch HN: Sift Dev &lpar;YC W25&rpar; – AI-Powered Datadog Alternative](https://news.ycombinator.com/item?id=43334589)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [WikiPortraits](https://www.wikiportraits.org/)
-- [White House: Stock market plunge is not as &#39;meaningful&#39; as business activity](https://www.cnbc.com/2025/03/10/white-house-stock-market-sell-off-animal-spirits.html)
-- [Introducing Manus: The General AI Agent [video]](https://www.youtube.com/watch?v=K27diMbCsuw)
-- [Pubs&#39; Roles in Tackling Loneliness](https://beerinsider.com/pubs-roles-in-tackling-loneliness/)
-- [GSA to reduce tech services arm by 50%, eliminate non-statutory work](https://fedscoop.com/exclusive-gsa-to-reduce-tech-services-arm-by-50-eliminate-non-statutory-work/)
-- [Pupil size reveals arousal level fluctuations in human sleep](https://www.nature.com/articles/s41467-025-57289-5)
-- [Vector Search at 10k QPS in PostgreSQL](https://blog.vectorchord.ai/vector-search-at-10000-qps-in-postgresql-with-vectorchord)
-- [How should you use AI?](https://fffej.substack.com/p/how-should-you-use-ai)
-- [Show HN: Hot Design – Like Hot Reload, but a Runtime Visual Designer](https://platform.uno/blog/hot-design-public-beta/)
-- [An early look at Nix Dynamic Derivations](https://fzakaria.com/2025/03/10/an-early-look-at-nix-dynamic-derivations)
+- [The world regulated sulfur in ship fuels, and the lightning stopped](https://phys.org/news/2025-03-world-sulfur-ship-fuels-lightning.html)
+- [Show HN: A crowdsourced Airtable of 45 system design questions with solutions](https://systemdesign.io)
+- [Microsoft will kill Remote Desktop soon, insists you&#39;ll love replacement](https://www.theregister.com/2025/03/11/microsoft_remote_desktop_support/)
+- [Ask HN: Why does Instagram search suck so much? Do they care?](https://news.ycombinator.com/item?id=43339419)
+- [The Philosophy of Computer Science](https://plato.stanford.edu/entries/computer-science/)
+- [Thirty years ago, on March first, 1995, Craig Newmark sent a simple email](https://www.gardinercolin.com/p/marketplace-memo-7)
+- [Turn Tabs to Their Side – These Weeks in Firefox: Issue 177](https://blog.nightly.mozilla.org/2025/03/11/turn-tabs-to-their-side-these-weeks-in-firefox-issue-177/)
+- [Manus Uses Claude Sonnet](https://twitter.com/jianxliao/status/1898861051183349870)
+- [The AI Scientist Generates Its First Peer-Reviewed Scientific Publication](https://sakana.ai/ai-scientist-first-publication/)
+- [The Real Threat of Chinese AI](https://www.foreignaffairs.com/china/real-threat-chinese-ai)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

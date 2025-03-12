@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [‘No military solution’ to Ukraine war, Rubio says ahead of Saudi meetings](https://www.theguardian.com/world/2025/mar/10/us-and-ukraine-officials-arrive-in-saudi-arabia-for-talks-to-repair-ties)
-- [Valentine’s Day proves a gift for UK retailers, as consumers hold back on big-ticket items](https://www.theguardian.com/business/2025/mar/11/valentines-day-proves-a-gift-for-uk-retailers-as-consumers-hold-back-on-big-ticket-items)
-- [Jack Wilshere: ‘Arteta was the one. I’d never seen someone coach that way’](https://www.theguardian.com/football/2025/mar/10/jack-wilshere-arteta-was-the-one-id-never-seen-someone-coach-that-way)
-- [Jack Draper survives scare to defeat Jenson Brooksby at Indian Wells](https://www.theguardian.com/sport/2025/mar/10/jack-draper-defeat-jenson-brooksby-indian-wells-tennis)
-- [‘Sexually inappropriate comments’ aimed at Hinds in Women’s FA Cup tie](https://www.theguardian.com/football/2025/mar/10/sexually-inappropriate-comments-aimed-at-hinds-in-womens-fa-cup-tie)
-- [Newcastle close in on top four after Guimarães pounces to see off West Ham](https://www.theguardian.com/football/2025/mar/10/west-ham-newcastle-premier-league-match-report)
-- [Michael Sheen’s Secret Million Pound Giveaway review – this Robin Hood heist is a total inspiration](https://www.theguardian.com/tv-and-radio/2025/mar/10/michael-sheens-secret-million-pound-giveaway-review-this-robin-hood-heist-is-a-total-inspiration)
-- [Michael Gove ‘wanted to circumvent watchdog’ to push through Dyson bid, Covid inquiry told](https://www.theguardian.com/uk-news/2025/mar/10/michael-gove-wanted-to-circumvent-watchdog-to-push-through-dyson-bid-covid-inquiry-told)
-- [Colombia urges UN to remove coca leaf from harmful substances list](https://www.theguardian.com/world/2025/mar/10/colombia-coca-leaf-united-nations)
-- [Pope Francis no longer in immediate danger, Vatican says](https://www.theguardian.com/world/2025/mar/10/pope-francis-no-longer-in-immediate-danger-vatican-says)
+- [Department of Education to lay off nearly half its workforce – as it happened](https://www.theguardian.com/us-news/live/2025/mar/11/donald-trump-latest-us-politics-news-live)
+- [Ukraine agrees to 30-day ceasefire as US prepares to lift military aid restrictions](https://www.theguardian.com/world/2025/mar/11/ukraine-agrees-to-30-day-ceasefire-as-us-prepares-to-lift-military-aid-restrictions)
+- [Ancestral remains should no longer be displayed in UK museums, say MPs](https://www.theguardian.com/world/2025/mar/12/ancestral-remains-should-no-longer-be-displayed-in-uk-museums-say-mps)
+- [‘Global weirding’: climate whiplash hitting world’s biggest cities, study reveals](https://www.theguardian.com/environment/2025/mar/12/global-weirding-climate-whiplash-hitting-worlds-biggest-cities-study-reveals)
+- [Trump says he will label violence against Tesla dealers domestic terrorism – video](https://www.theguardian.com/us-news/video/2025/mar/11/trump-says-he-will-label-violence-against-tesla-dealers-domestic-terrorism-video)
+- [Australian man survives 100 days with artificial heart in world-first success](https://www.theguardian.com/australia-news/2025/mar/12/australian-man-survives-100-days-with-artificial-heart-in-world-first-success)
+- [Toyota plans to build battery vehicles in UK and keep European plants](https://www.theguardian.com/business/2025/mar/11/toyota-battery-vehicles-uk-european-plants-evs-lexus)
+- [Donnarumma denies Liverpool and Núñez to send PSG through on penalties](https://www.theguardian.com/football/2025/mar/11/liverpool-psg-champions-league-last-16-second-leg-match-report)
+- [Championship roundup: Bristol City leave it late to deny Sheffield United](https://www.theguardian.com/football/2025/mar/11/championship-roundup-sheffield-united-bristol-city-burnley-sunderland-wrexham-reading)
+- [ADHD prescriptions in England have risen by 18% each year since pandemic](https://www.theguardian.com/society/2025/mar/11/adhd-prescriptions-in-england-have-risen-by-18-each-year-since-pandemic)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

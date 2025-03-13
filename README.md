@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Department of Education to lay off nearly half its workforce – as it happened](https://www.theguardian.com/us-news/live/2025/mar/11/donald-trump-latest-us-politics-news-live)
-- [Ukraine agrees to 30-day ceasefire as US prepares to lift military aid restrictions](https://www.theguardian.com/world/2025/mar/11/ukraine-agrees-to-30-day-ceasefire-as-us-prepares-to-lift-military-aid-restrictions)
-- [Ancestral remains should no longer be displayed in UK museums, say MPs](https://www.theguardian.com/world/2025/mar/12/ancestral-remains-should-no-longer-be-displayed-in-uk-museums-say-mps)
-- [‘Global weirding’: climate whiplash hitting world’s biggest cities, study reveals](https://www.theguardian.com/environment/2025/mar/12/global-weirding-climate-whiplash-hitting-worlds-biggest-cities-study-reveals)
-- [Trump says he will label violence against Tesla dealers domestic terrorism – video](https://www.theguardian.com/us-news/video/2025/mar/11/trump-says-he-will-label-violence-against-tesla-dealers-domestic-terrorism-video)
-- [Australian man survives 100 days with artificial heart in world-first success](https://www.theguardian.com/australia-news/2025/mar/12/australian-man-survives-100-days-with-artificial-heart-in-world-first-success)
-- [Toyota plans to build battery vehicles in UK and keep European plants](https://www.theguardian.com/business/2025/mar/11/toyota-battery-vehicles-uk-european-plants-evs-lexus)
-- [Donnarumma denies Liverpool and Núñez to send PSG through on penalties](https://www.theguardian.com/football/2025/mar/11/liverpool-psg-champions-league-last-16-second-leg-match-report)
-- [Championship roundup: Bristol City leave it late to deny Sheffield United](https://www.theguardian.com/football/2025/mar/11/championship-roundup-sheffield-united-bristol-city-burnley-sunderland-wrexham-reading)
-- [ADHD prescriptions in England have risen by 18% each year since pandemic](https://www.theguardian.com/society/2025/mar/11/adhd-prescriptions-in-england-have-risen-by-18-each-year-since-pandemic)
+- [Jack Draper revels in ‘best match’ at Indian Wells after seeing off Taylor Fritz](https://www.theguardian.com/sport/2025/mar/13/jack-draper-taylor-fritz-indian-wells-tennis)
+- [Canada announces retaliatory tariffs on nearly C$30bn worth of US imports](https://www.theguardian.com/us-news/2025/mar/12/canada-tariffs-us)
+- [Campaign to bar under-14s from having smartphones signed by 100,000 parents](https://www.theguardian.com/society/2025/mar/13/campaign-to-bar-under-14s-from-having-smartphones-signed-by-100000-parents)
+- [Decision not to classify Southport killer as a terrorist was right, says UK watchdog](https://www.theguardian.com/uk-news/2025/mar/13/decision-not-to-classify-southport-killer-as-a-terrorist-was-right-says-uk-watchdog)
+- [Stamp duty deadline and economic gloom dampen UK housing market](https://www.theguardian.com/business/2025/mar/13/stamp-duty-deadline-and-economic-gloom-dampen-uk-housing-market)
+- [‘First-of-a-kind’ daily pill for endometriosis treatment approved for NHS in England](https://www.theguardian.com/society/2025/mar/13/first-of-a-kind-daily-pill-for-endometriosis-treatment-approved-for-nhs-in-england)
+- [Real Madrid squeeze past Atlético after VAR intervenes in penalty shootout](https://www.theguardian.com/football/2025/mar/12/atletico-real-madrid-champions-league-last-16-second-leg-match-report)
+- [Police question Russian master of ship that hit tanker in North Sea](https://www.theguardian.com/business/2025/mar/12/captain-arrested-over-uk-ship-collision-is-russian-owner-says)
+- [Marriage triples risk of obesity in men – but not women, study reveals](https://www.theguardian.com/society/2025/mar/12/marriage-triples-obesity-men-women-study)
+- [Trump officials to reconsider whether greenhouse gases cause harm amid climate rollbacks](https://www.theguardian.com/environment/2025/mar/12/epa-trump-climate-rules)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

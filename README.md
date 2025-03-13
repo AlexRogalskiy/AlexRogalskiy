@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The world regulated sulfur in ship fuels, and the lightning stopped](https://phys.org/news/2025-03-world-sulfur-ship-fuels-lightning.html)
-- [Show HN: A crowdsourced Airtable of 45 system design questions with solutions](https://systemdesign.io)
-- [Microsoft will kill Remote Desktop soon, insists you&#39;ll love replacement](https://www.theregister.com/2025/03/11/microsoft_remote_desktop_support/)
-- [Ask HN: Why does Instagram search suck so much? Do they care?](https://news.ycombinator.com/item?id=43339419)
-- [The Philosophy of Computer Science](https://plato.stanford.edu/entries/computer-science/)
-- [Thirty years ago, on March first, 1995, Craig Newmark sent a simple email](https://www.gardinercolin.com/p/marketplace-memo-7)
-- [Turn Tabs to Their Side – These Weeks in Firefox: Issue 177](https://blog.nightly.mozilla.org/2025/03/11/turn-tabs-to-their-side-these-weeks-in-firefox-issue-177/)
-- [Manus Uses Claude Sonnet](https://twitter.com/jianxliao/status/1898861051183349870)
-- [The AI Scientist Generates Its First Peer-Reviewed Scientific Publication](https://sakana.ai/ai-scientist-first-publication/)
-- [The Real Threat of Chinese AI](https://www.foreignaffairs.com/china/real-threat-chinese-ai)
+- [Rewriting the Code of Life for Fun and Profit [video]](https://www.youtube.com/watch?v=10OUPyamn1w)
+- [Somnium Scipionis](https://en.wikipedia.org/wiki/Somnium_Scipionis)
+- [Toni Morrison&#39;s Lost Play](https://www.vulture.com/article/toni-morrison-play-dreaming-emmett-influenced-beloved.html)
+- [Meta Seeks to Block Further Sales of Ex-Employee&#39;s Scathing Memoir](https://www.nytimes.com/2025/03/12/technology/meta-book-sales-blocked.html)
+- [Doge Privacy Act Requests](https://jamieraskin.com/doge-privacy-act-requests/)
+- [FlexControl: Dynamic Block Activation for Diffusion Models](https://arxiv.org/abs/2502.10451)
+- [Show HN: Fun and Unique Language Translators – Cloud Translate](https://cloudtranslate.net)
+- [Designing Products Without Databases](https://zsrobinson.com/posts/designing-products-without-databases/)
+- [Plastic pollution leaves seabirds with brain damage similar to Alzheimer&#39;s](https://www.theguardian.com/environment/2025/mar/12/plastic-pollution-leaves-seabirds-chicks-with-brain-damage-similar-to-alzheimers-study-aoe)
+- [Stock Market Tracker](https://stonkmkt.com:443/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

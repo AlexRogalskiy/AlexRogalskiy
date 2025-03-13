@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Comma AI has sold 10K Comma 3X devices](https://blog.comma.ai/happy10kday/)
-- [Australian man survives 100 days with artificial heart in world-first success](https://www.theguardian.com/australia-news/2025/mar/12/australian-man-survives-100-days-with-artificial-heart-in-world-first-success)
-- [Sorting algorithms with CUDA](https://ashwanirathee.com/blog/2025/sort2/)
-- [The Startup CTO&#39;s Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook/blob/main/StartupCTOHandbook.md)
-- [Unix Needs a True Integrated Environment: CASE Closed &lpar;1989&rpar; [pdf]](http://www.bitsavers.org/pdf/xerox/parc/techReports/CSL-89-4_UNIX_Needs_A_True_Integrated_Environment.pdf)
-- [Continue &lpar;YC S23&rpar; Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
-- [How do we tell truths that might hurt? &lpar;1975&rpar;](https://www.cs.virginia.edu/~evans/cs655/readings/ewd498.html)
-- [Backyard Cyanide](https://suziepetryk.com/blog/cyanide.html)
-- [New tools for building agents](https://openai.com/index/new-tools-for-building-agents/)
-- [Launch HN: Sift Dev &lpar;YC W25&rpar; – AI-Powered Datadog Alternative](https://news.ycombinator.com/item?id=43334589)
+- [Doge Privacy Act Requests](https://jamieraskin.com/doge-privacy-act-requests/)
+- [Meta is trying to stop a former employee from promoting her book about Facebook](https://www.engadget.com/social-media/meta-is-trying-to-stop-a-former-employee-from-promoting-her-book-about-facebook-004938899.html)
+- [xlskubectl – a spreadsheet to control your Kubernetes cluster](https://github.com/learnk8s/xlskubectl)
+- [Released my full transputer OS, K&amp;R C compiler and utilities &lpar;1996&rpar;](https://nanochess.org/transputer_operating_system.html)
+- [&#39;Uber for nurses&#39; exposes 86K+ medical records, PII via open S3 bucket](https://www.websiteplanet.com/news/eshyft-report-breach/)
+- [Practical UX for startups surviving without a designer](https://www.tibinotes.com/p/practical-ux-for-startups-surviving)
+- [I Built a Mechanical Calculator [video]](https://www.youtube.com/watch?v=E0pJST5mL3A)
+- [The Night Watch &lpar;2013&rpar; [pdf]](https://www.usenix.org/system/files/1311_05-08_mickens.pdf)
+- [Mark Klein, AT&amp;T whistleblower who revealed NSA mass spying, has died](https://www.eff.org/deeplinks/2025/03/memoriam-mark-klein-att-whistleblower-about-nsa-mass-spying)
+- [Intel appoints Lip-Bu Tan as its CEO](https://www.reuters.com/technology/us-chipmaker-intel-appoints-lip-bu-tan-its-ceo-2025-03-12/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

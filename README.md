@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Jack Draper revels in ‘best match’ at Indian Wells after seeing off Taylor Fritz](https://www.theguardian.com/sport/2025/mar/13/jack-draper-taylor-fritz-indian-wells-tennis)
-- [Canada announces retaliatory tariffs on nearly C$30bn worth of US imports](https://www.theguardian.com/us-news/2025/mar/12/canada-tariffs-us)
-- [Campaign to bar under-14s from having smartphones signed by 100,000 parents](https://www.theguardian.com/society/2025/mar/13/campaign-to-bar-under-14s-from-having-smartphones-signed-by-100000-parents)
-- [Decision not to classify Southport killer as a terrorist was right, says UK watchdog](https://www.theguardian.com/uk-news/2025/mar/13/decision-not-to-classify-southport-killer-as-a-terrorist-was-right-says-uk-watchdog)
-- [Stamp duty deadline and economic gloom dampen UK housing market](https://www.theguardian.com/business/2025/mar/13/stamp-duty-deadline-and-economic-gloom-dampen-uk-housing-market)
-- [‘First-of-a-kind’ daily pill for endometriosis treatment approved for NHS in England](https://www.theguardian.com/society/2025/mar/13/first-of-a-kind-daily-pill-for-endometriosis-treatment-approved-for-nhs-in-england)
-- [Real Madrid squeeze past Atlético after VAR intervenes in penalty shootout](https://www.theguardian.com/football/2025/mar/12/atletico-real-madrid-champions-league-last-16-second-leg-match-report)
-- [Police question Russian master of ship that hit tanker in North Sea](https://www.theguardian.com/business/2025/mar/12/captain-arrested-over-uk-ship-collision-is-russian-owner-says)
-- [Marriage triples risk of obesity in men – but not women, study reveals](https://www.theguardian.com/society/2025/mar/12/marriage-triples-obesity-men-women-study)
-- [Trump officials to reconsider whether greenhouse gases cause harm amid climate rollbacks](https://www.theguardian.com/environment/2025/mar/12/epa-trump-climate-rules)
+- [Rodrigo Duterte to make first appearance at ICC hearing in the Hague](https://www.theguardian.com/world/2025/mar/14/rodrigo-duterte-philippines-icc-hearing-the-hague-ntwnfb)
+- [Chuck Schumer to vote for Republican funding bill to avert shutdown](https://www.theguardian.com/us-news/2025/mar/13/schumer-republican-bill-shutdown-trump)
+- [Baby wombat grabber Sam Jones leaves Australia after intense backlash including from PM and immigration minister](https://www.theguardian.com/environment/2025/mar/14/sam-jones-baby-wombat-australia-backlash-leaving-australia)
+- [Rory McIlroy answers the call after a spot of mobile phone interference](https://www.theguardian.com/sport/2025/mar/14/rory-mcilroy-answers-the-call-mobile-phone-interference-players-championship-sawgrass)
+- [Marianne Faithfull: posthumous EP to be released for Record Store Day](https://www.theguardian.com/culture/2025/mar/14/marianne-faithfull-posthumous-ep-to-be-released-for-record-store-day)
+- [Putin questions Ukraine ceasefire plan and sets out string of conditions](https://www.theguardian.com/world/2025/mar/13/russia-wary-of-proposed-ukraine-ceasefire-plan-as-us-talks-begin)
+- [Butland’s shootout heroics sink Fenerbahce and seal Rangers progress](https://www.theguardian.com/football/2025/mar/13/rangers-fenerbahce-europa-league-match-report)
+- [‘Why not dare to dream?’: McGinn and Villa fear no one in Champions League](https://www.theguardian.com/football/2025/mar/13/john-mcginn-aston-villa-fear-no-one-champions-league)
+- [S&amp;P 500 falls more than 10% below recent high as markets rattled by Trump](https://www.theguardian.com/business/2025/mar/13/sp-500-wall-street-trump-tariffs)
+- [Fernandes hat-trick powers electric Manchester United past Real Sociedad](https://www.theguardian.com/football/2025/mar/13/manchester-united-real-sociedad-europa-league-match-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

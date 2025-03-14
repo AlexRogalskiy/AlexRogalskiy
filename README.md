@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Doge Privacy Act Requests](https://jamieraskin.com/doge-privacy-act-requests/)
-- [Meta is trying to stop a former employee from promoting her book about Facebook](https://www.engadget.com/social-media/meta-is-trying-to-stop-a-former-employee-from-promoting-her-book-about-facebook-004938899.html)
-- [xlskubectl – a spreadsheet to control your Kubernetes cluster](https://github.com/learnk8s/xlskubectl)
-- [Released my full transputer OS, K&amp;R C compiler and utilities &lpar;1996&rpar;](https://nanochess.org/transputer_operating_system.html)
-- [&#39;Uber for nurses&#39; exposes 86K+ medical records, PII via open S3 bucket](https://www.websiteplanet.com/news/eshyft-report-breach/)
-- [Practical UX for startups surviving without a designer](https://www.tibinotes.com/p/practical-ux-for-startups-surviving)
-- [I Built a Mechanical Calculator [video]](https://www.youtube.com/watch?v=E0pJST5mL3A)
-- [The Night Watch &lpar;2013&rpar; [pdf]](https://www.usenix.org/system/files/1311_05-08_mickens.pdf)
-- [Mark Klein, AT&amp;T whistleblower who revealed NSA mass spying, has died](https://www.eff.org/deeplinks/2025/03/memoriam-mark-klein-att-whistleblower-about-nsa-mass-spying)
-- [Intel appoints Lip-Bu Tan as its CEO](https://www.reuters.com/technology/us-chipmaker-intel-appoints-lip-bu-tan-its-ceo-2025-03-12/)
+- [OpenAI declares AI race &quot;over&quot; if training on copyrighted works isn&#39;t fair use](https://arstechnica.com/tech-policy/2025/03/openai-urges-trump-either-settle-ai-copyright-debate-or-lose-ai-race-to-china/)
+- [ArkFlow – High-performance Rust stream processing engine](https://github.com/chenquan/arkflow)
+- [The Toxic Wave That Swallowed a Tennessee Town](https://oxfordamerican.org/oa-now/the-toxic-wave-that-swallowed-a-tennessee-town)
+- [Porkbun partners with Proton](https://porkbun.com/products/proton_mail)
+- [How Pi Almost Wasn&#39;t](https://mathenchant.wordpress.com/2025/03/13/how-pi-almost-wasnt/)
+- [C Plus Prolog](https://github.com/needleful/c_plus_prolog)
+- [Voker &lpar;YC S24&rpar; is hiring an LA-based full stack AI software engineer](https://www.linkedin.com/jobs/view/4165718206/)
+- [Tiny changes in gene expression make big difference in eye size of fruit flies](https://phys.org/news/2025-02-tiny-gene-big-differences-eye.html)
+- [Functional Tests as a Tree of Continuations &lpar;2010&rpar;](https://www.evanmiller.org/functional-tests-as-a-tree-of-continuations.html)
+- [&quot;Normal&quot; engineers are the key to great teams](https://spectrum.ieee.org/10x-engineer)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

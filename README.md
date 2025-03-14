@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Rewriting the Code of Life for Fun and Profit [video]](https://www.youtube.com/watch?v=10OUPyamn1w)
-- [Somnium Scipionis](https://en.wikipedia.org/wiki/Somnium_Scipionis)
-- [Toni Morrison&#39;s Lost Play](https://www.vulture.com/article/toni-morrison-play-dreaming-emmett-influenced-beloved.html)
-- [Meta Seeks to Block Further Sales of Ex-Employee&#39;s Scathing Memoir](https://www.nytimes.com/2025/03/12/technology/meta-book-sales-blocked.html)
-- [Doge Privacy Act Requests](https://jamieraskin.com/doge-privacy-act-requests/)
-- [FlexControl: Dynamic Block Activation for Diffusion Models](https://arxiv.org/abs/2502.10451)
-- [Show HN: Fun and Unique Language Translators – Cloud Translate](https://cloudtranslate.net)
-- [Designing Products Without Databases](https://zsrobinson.com/posts/designing-products-without-databases/)
-- [Plastic pollution leaves seabirds with brain damage similar to Alzheimer&#39;s](https://www.theguardian.com/environment/2025/mar/12/plastic-pollution-leaves-seabirds-chicks-with-brain-damage-similar-to-alzheimers-study-aoe)
-- [Stock Market Tracker](https://stonkmkt.com:443/)
+- [Node.js – v23.10.0](https://nodejs.org/en/blog/release/v23.10.0)
+- [Show HN: A Python-based educational DSP playground](https://github.com/mozahzah/DSPylab)
+- [Mike Cannon-Brookes is concerned about climate and yet still flies private](https://www.bloomberg.com/news/articles/2025-03-14/billionaire-climate-activist-talks-of-conflict-over-private-jet)
+- [Chain-of-Thought Reasoning in the Wild Is Not Always Faithful](https://arxiv.org/abs/2503.08679)
+- [F1 Evolved Since 1950](https://www.espn.com/espn/feature/story/_/id/43832710/how-f1-evolved-1950-where-headed-2026)
+- [Make Electronic Music from Scratch: A Beginner&#39;s Guide to Homegrown Audio Gizmos](https://www.makershed.com/products/make-electronic-music-pdf)
+- [OTFS Modulation: Theory and Applications](https://www.wiley.com/en-us/OTFS+Modulation%3A+Theory+and+Applications-p-9781119984214)
+- [Plane Fire at Denver Airport Forces Passengers to Evacuate onto Wing](https://www.nytimes.com/2025/03/13/us/american-airlines-denver-airport-fire.html)
+- [The OTFS Interview: Implications of a 6G Candidate Technology](https://www.6gworld.com/exclusives/the-otfs-interview-implications-of-a-6g-candidate-technology/)
+- [ATProto Isn&#39;t What You Think](https://blog.muni.town/atproto-isnt-what-you-think/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

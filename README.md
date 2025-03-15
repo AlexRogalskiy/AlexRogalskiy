@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [OpenAI declares AI race &quot;over&quot; if training on copyrighted works isn&#39;t fair use](https://arstechnica.com/tech-policy/2025/03/openai-urges-trump-either-settle-ai-copyright-debate-or-lose-ai-race-to-china/)
-- [ArkFlow – High-performance Rust stream processing engine](https://github.com/chenquan/arkflow)
-- [The Toxic Wave That Swallowed a Tennessee Town](https://oxfordamerican.org/oa-now/the-toxic-wave-that-swallowed-a-tennessee-town)
-- [Porkbun partners with Proton](https://porkbun.com/products/proton_mail)
-- [How Pi Almost Wasn&#39;t](https://mathenchant.wordpress.com/2025/03/13/how-pi-almost-wasnt/)
-- [C Plus Prolog](https://github.com/needleful/c_plus_prolog)
-- [Voker &lpar;YC S24&rpar; is hiring an LA-based full stack AI software engineer](https://www.linkedin.com/jobs/view/4165718206/)
-- [Tiny changes in gene expression make big difference in eye size of fruit flies](https://phys.org/news/2025-02-tiny-gene-big-differences-eye.html)
-- [Functional Tests as a Tree of Continuations &lpar;2010&rpar;](https://www.evanmiller.org/functional-tests-as-a-tree-of-continuations.html)
-- [&quot;Normal&quot; engineers are the key to great teams](https://spectrum.ieee.org/10x-engineer)
+- [Google Being Forced to Sell Chrome Is Not Good for the Web](https://chriscoyier.net/2025/03/14/google-being-forced-to-sell-chrome-is-not-good-for-the-web/)
+- [Popular GitHub Action tj-actions/changed-files is compromised](https://semgrep.dev/blog/2025/popular-github-action-tj-actionschanged-files-is-compromised/)
+- [From QED to Neovim](https://l-o-o-s-e-d.net/qed-neovim)
+- [Show HN: Open-Source MCP Server for Context and AI Tools](https://news.ycombinator.com/item?id=43368327)
+- [New York Times shut down Tor Onion service](https://open.nytimes.com/https-open-nytimes-com-the-new-york-times-as-a-tor-onion-service-e0d0b67b7482)
+- [Show HN: Web Audio Spring-Mass Synthesis](https://blog.cochlea.xyz/string.html)
+- [GCVR &lpar;YC W22&rpar; is hiring a lead technical artist](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/gfrf9Cu-lead-technical-artist-staff-principal)
+- [Kerning, the Hard Way](https://home.octetfont.com/blog/kerning-hard.html)
+- [Exo: Exocompilation for productive programming of hardware accelerators](https://github.com/exo-lang/exo)
+- [Decrypting encrypted files from Akira ransomware using a bunch of GPUs](https://tinyhack.com/2025/03/13/decrypting-encrypted-files-from-akira-ransomware-linux-esxi-variant-2024-using-a-bunch-of-gpus/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Node.js – v23.10.0](https://nodejs.org/en/blog/release/v23.10.0)
-- [Show HN: A Python-based educational DSP playground](https://github.com/mozahzah/DSPylab)
-- [Mike Cannon-Brookes is concerned about climate and yet still flies private](https://www.bloomberg.com/news/articles/2025-03-14/billionaire-climate-activist-talks-of-conflict-over-private-jet)
-- [Chain-of-Thought Reasoning in the Wild Is Not Always Faithful](https://arxiv.org/abs/2503.08679)
-- [F1 Evolved Since 1950](https://www.espn.com/espn/feature/story/_/id/43832710/how-f1-evolved-1950-where-headed-2026)
-- [Make Electronic Music from Scratch: A Beginner&#39;s Guide to Homegrown Audio Gizmos](https://www.makershed.com/products/make-electronic-music-pdf)
-- [OTFS Modulation: Theory and Applications](https://www.wiley.com/en-us/OTFS+Modulation%3A+Theory+and+Applications-p-9781119984214)
-- [Plane Fire at Denver Airport Forces Passengers to Evacuate onto Wing](https://www.nytimes.com/2025/03/13/us/american-airlines-denver-airport-fire.html)
-- [The OTFS Interview: Implications of a 6G Candidate Technology](https://www.6gworld.com/exclusives/the-otfs-interview-implications-of-a-6g-candidate-technology/)
-- [ATProto Isn&#39;t What You Think](https://blog.muni.town/atproto-isnt-what-you-think/)
+- [Bluesky in the final stages of raising new funding led by Bain Capital Ventures](https://www.businessinsider.com/x-competitor-bluesky-valuation-new-funding-round-2025-1)
+- [Hire a Hacker Online](https://news.ycombinator.com/item?id=43369388)
+- [Chevron advances plans to develop US data centers with power generation](https://finance.yahoo.com/news/chevron-advances-plans-develop-us-164935256.html)
+- [Credifi – instant credit line in DeFi – unsecured loans without collateral](https://news.ycombinator.com/item?id=43369371)
+- [Using a graphics tablet as a programming tool &lpar;2018&rpar;](https://jeandavidmoisan.com/posts/using-a-graphics-tablet-as-a-programming-tool/)
+- [The court rejects Elon&#39;s latest attempt to slow OpenAI down](https://openai.com/index/court-rejects-elon)
+- [The Last Decision by the Leading Thinker on Decisions](https://www.wsj.com/arts-culture/books/daniel-kahneman-assisted-suicide-9fb16124)
+- [Cougar cubs found in Michigan for first time in more than a century](https://www.mlive.com/environment/2025/03/cougar-cubs-found-in-michigan-for-first-time-in-more-than-a-century.html)
+- [Google Being Forced to Sell Chrome Is Not Good for the Web](https://chriscoyier.net/2025/03/14/google-being-forced-to-sell-chrome-is-not-good-for-the-web/)
+- [John Langdon: The Pioneer of the Ambigram](https://www.johnlangdon.net/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

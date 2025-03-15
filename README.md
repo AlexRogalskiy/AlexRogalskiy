@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Rodrigo Duterte to make first appearance at ICC hearing in the Hague](https://www.theguardian.com/world/2025/mar/14/rodrigo-duterte-philippines-icc-hearing-the-hague-ntwnfb)
-- [Chuck Schumer to vote for Republican funding bill to avert shutdown](https://www.theguardian.com/us-news/2025/mar/13/schumer-republican-bill-shutdown-trump)
-- [Baby wombat grabber Sam Jones leaves Australia after intense backlash including from PM and immigration minister](https://www.theguardian.com/environment/2025/mar/14/sam-jones-baby-wombat-australia-backlash-leaving-australia)
-- [Rory McIlroy answers the call after a spot of mobile phone interference](https://www.theguardian.com/sport/2025/mar/14/rory-mcilroy-answers-the-call-mobile-phone-interference-players-championship-sawgrass)
-- [Marianne Faithfull: posthumous EP to be released for Record Store Day](https://www.theguardian.com/culture/2025/mar/14/marianne-faithfull-posthumous-ep-to-be-released-for-record-store-day)
-- [Putin questions Ukraine ceasefire plan and sets out string of conditions](https://www.theguardian.com/world/2025/mar/13/russia-wary-of-proposed-ukraine-ceasefire-plan-as-us-talks-begin)
-- [Butland’s shootout heroics sink Fenerbahce and seal Rangers progress](https://www.theguardian.com/football/2025/mar/13/rangers-fenerbahce-europa-league-match-report)
-- [‘Why not dare to dream?’: McGinn and Villa fear no one in Champions League](https://www.theguardian.com/football/2025/mar/13/john-mcginn-aston-villa-fear-no-one-champions-league)
-- [S&amp;P 500 falls more than 10% below recent high as markets rattled by Trump](https://www.theguardian.com/business/2025/mar/13/sp-500-wall-street-trump-tariffs)
-- [Fernandes hat-trick powers electric Manchester United past Real Sociedad](https://www.theguardian.com/football/2025/mar/13/manchester-united-real-sociedad-europa-league-match-report)
+- [Trump administration briefing: Democrats divided as funding bill passes; president rails against justice department](https://www.theguardian.com/us-news/2025/mar/15/trump-administration-briefing-democrats-divided-as-funding-bill-passes-president-rails-against-justice-department)
+- [Canada ‘will never be part of the US’, says new PM Mark Carney amid trade war](https://www.theguardian.com/world/2025/mar/14/mark-carney-sworn-in-as-canadian-prime-minister-amid-us-trade-war)
+- [UK steel industry calls for capped energy prices amid Trump trade war](https://www.theguardian.com/business/2025/mar/15/uk-steel-industry-energy-prices-trump-trade-war)
+- [Price of instant coffee rises by up to 40% in a year for some brands, Which? finds](https://www.theguardian.com/business/2025/mar/15/price-of-instant-coffee-rises-by-up-to-40-in-a-year-for-some-brands-which)
+- [How a New Zealander working from her mum’s kitchen started a news service read by Madonna](https://www.theguardian.com/global/2025/mar/15/shit-you-should-care-about-lucy-blakiston-media)
+- [Crew lifts off on SpaceX mission to replace stuck Nasa astronauts](https://www.theguardian.com/science/2025/mar/14/spacex-nasa-mission-international-space-station)
+- [Alessia Russo gets Arsenal moving on up after a week of discontent](https://www.theguardian.com/football/2025/mar/14/alessia-russo-helps-arsenal-course-correct-after-week-of-discontent-womens-super-league)
+- [‘A perfect storm’: the dedicated rescuers caring for sodden seabirds blown in by Cyclone Alfred](https://www.theguardian.com/environment/2025/mar/15/a-perfect-storm-the-dedicated-rescuers-caring-for-sodden-seabirds-blown-in-by-cyclone-alfred)
+- [Baby wombat-snatching US influencer apologises and says she was ‘concerned’ for Australian animal](https://www.theguardian.com/environment/2025/mar/15/baby-wombat-snatching-us-influencer-apologises-and-says-she-was-concerned-for-australian-animal-ntwnfb)
+- [Starmer says Putin cannot be allowed to ‘play games’ over Ukraine ceasefire](https://www.theguardian.com/world/2025/mar/14/starmer-putin-ukraine-ceasefire-peace-eu-nato-coalition)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Trump administration briefing: Democrats divided as funding bill passes; president rails against justice department](https://www.theguardian.com/us-news/2025/mar/15/trump-administration-briefing-democrats-divided-as-funding-bill-passes-president-rails-against-justice-department)
-- [Canada ‘will never be part of the US’, says new PM Mark Carney amid trade war](https://www.theguardian.com/world/2025/mar/14/mark-carney-sworn-in-as-canadian-prime-minister-amid-us-trade-war)
-- [UK steel industry calls for capped energy prices amid Trump trade war](https://www.theguardian.com/business/2025/mar/15/uk-steel-industry-energy-prices-trump-trade-war)
-- [Price of instant coffee rises by up to 40% in a year for some brands, Which? finds](https://www.theguardian.com/business/2025/mar/15/price-of-instant-coffee-rises-by-up-to-40-in-a-year-for-some-brands-which)
-- [How a New Zealander working from her mum’s kitchen started a news service read by Madonna](https://www.theguardian.com/global/2025/mar/15/shit-you-should-care-about-lucy-blakiston-media)
-- [Crew lifts off on SpaceX mission to replace stuck Nasa astronauts](https://www.theguardian.com/science/2025/mar/14/spacex-nasa-mission-international-space-station)
-- [Alessia Russo gets Arsenal moving on up after a week of discontent](https://www.theguardian.com/football/2025/mar/14/alessia-russo-helps-arsenal-course-correct-after-week-of-discontent-womens-super-league)
-- [‘A perfect storm’: the dedicated rescuers caring for sodden seabirds blown in by Cyclone Alfred](https://www.theguardian.com/environment/2025/mar/15/a-perfect-storm-the-dedicated-rescuers-caring-for-sodden-seabirds-blown-in-by-cyclone-alfred)
-- [Baby wombat-snatching US influencer apologises and says she was ‘concerned’ for Australian animal](https://www.theguardian.com/environment/2025/mar/15/baby-wombat-snatching-us-influencer-apologises-and-says-she-was-concerned-for-australian-animal-ntwnfb)
-- [Starmer says Putin cannot be allowed to ‘play games’ over Ukraine ceasefire](https://www.theguardian.com/world/2025/mar/14/starmer-putin-ukraine-ceasefire-peace-eu-nato-coalition)
+- [Draper holds nerve to beat Alcaraz and set up Indian Wells final against Rune](https://www.theguardian.com/sport/2025/mar/16/draper-holds-nerve-to-beat-alcaraz-and-set-up-indian-wells-final-against-rune)
+- [Editors’ picks: How to incorporate red into your wardrobe – in pictures](https://www.theguardian.com/fashion/gallery/2025/mar/15/editors-picks-how-to-incorporate-red-into-your-wardrobe-in-pictures)
+- [Gregor Townsend says system is failing after Peato Mauvaka reprieve](https://www.theguardian.com/sport/2025/mar/15/gregor-townsend-says-system-is-failing-after-peato-mauvaka-reprieve)
+- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2025/mar/15/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Trump orders airstrikes on Yemen in warning to Houthis over shipping route](https://www.theguardian.com/us-news/2025/mar/15/trump-yemen-airstrikes-houthis)
+- [Wes Streeting warns hundreds more health quangos could face axe](https://www.theguardian.com/society/2025/mar/15/wes-streeting-warns-hundreds-more-health-quangos-could-face-axe)
+- [Ross Noble: ‘The weirdest place I have been recognised? During my vasectomy’](https://www.theguardian.com/culture/2025/mar/16/ross-noble-the-weirdest-place-i-have-been-recognised-during-my-vasectomy)
+- [At least 26 dead as monster storm system sweeps across US south with multiple tornadoes](https://www.theguardian.com/us-news/2025/mar/15/massive-storm-system-south-tornado-warnings-extreme-weather)
+- [Borthwick backs England players for Lions squad after rout of Wales](https://www.theguardian.com/sport/2025/mar/15/borthwick-backs-england-players-for-lions-squad-after-rout-of-wales)
+- [France win Six Nations title after Moefana’s double sinks Scotland](https://www.theguardian.com/sport/2025/mar/15/france-scotland-six-nations-rugby-union-match-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

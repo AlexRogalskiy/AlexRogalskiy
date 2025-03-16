@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Bluesky in the final stages of raising new funding led by Bain Capital Ventures](https://www.businessinsider.com/x-competitor-bluesky-valuation-new-funding-round-2025-1)
-- [Hire a Hacker Online](https://news.ycombinator.com/item?id=43369388)
-- [Chevron advances plans to develop US data centers with power generation](https://finance.yahoo.com/news/chevron-advances-plans-develop-us-164935256.html)
-- [Credifi – instant credit line in DeFi – unsecured loans without collateral](https://news.ycombinator.com/item?id=43369371)
-- [Using a graphics tablet as a programming tool &lpar;2018&rpar;](https://jeandavidmoisan.com/posts/using-a-graphics-tablet-as-a-programming-tool/)
-- [The court rejects Elon&#39;s latest attempt to slow OpenAI down](https://openai.com/index/court-rejects-elon)
-- [The Last Decision by the Leading Thinker on Decisions](https://www.wsj.com/arts-culture/books/daniel-kahneman-assisted-suicide-9fb16124)
-- [Cougar cubs found in Michigan for first time in more than a century](https://www.mlive.com/environment/2025/03/cougar-cubs-found-in-michigan-for-first-time-in-more-than-a-century.html)
-- [Google Being Forced to Sell Chrome Is Not Good for the Web](https://chriscoyier.net/2025/03/14/google-being-forced-to-sell-chrome-is-not-good-for-the-web/)
-- [John Langdon: The Pioneer of the Ambigram](https://www.johnlangdon.net/)
+- [Show HN: Notifire – Notifications for Anything](https://notifireai.com)
+- [Does Cutting Benefits Work?](https://www.bbc.com/news/articles/cjd3jr7e4n3o)
+- [Musk says first mission to Mars will launch next year](https://www.bbc.com/news/articles/cx2g88y52y8o)
+- [Do Stars Outnumber the Sands of Earth&#39;s Beaches?](https://www.scientificamerican.com/article/do-stars-outnumber-the-sands-of-earths-beaches/)
+- [Ask HN: Project Management Class Recommendations?](https://news.ycombinator.com/item?id=43376603)
+- [Git in Nix via IPFS](http://www.chriswarbo.net/blog/2025-03-16-nix_ipfs.html)
+- [More pro for the DEC Professional 380 &lpar;featuring PRO/VENIX&rpar;](http://oldvcr.blogspot.com/2025/03/more-pro-for-dec-professional-380.html)
+- [Modern Agile is Stupid: on why all great ideas are killed by idiots](https://medium.com/@thecodingteacher_52591/modern-agile-is-stupid-on-why-all-great-ideas-are-killed-by-simple-minded-idiots-why-jira-kills-02080b937de2)
+- [Show HN: I built a no-hassle Emoji search tool](https://emoji-lite.vercel.app/)
+- [Pine64 RISC-V tablet now ships with Debian-based Linux distro, improved hardware](https://liliputing.com/pine64s-risc-v-tablet-now-ships-with-a-debian-based-linux-distro-and-improved-hardware/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

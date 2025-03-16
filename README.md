@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Google Being Forced to Sell Chrome Is Not Good for the Web](https://chriscoyier.net/2025/03/14/google-being-forced-to-sell-chrome-is-not-good-for-the-web/)
-- [Popular GitHub Action tj-actions/changed-files is compromised](https://semgrep.dev/blog/2025/popular-github-action-tj-actionschanged-files-is-compromised/)
-- [From QED to Neovim](https://l-o-o-s-e-d.net/qed-neovim)
-- [Show HN: Open-Source MCP Server for Context and AI Tools](https://news.ycombinator.com/item?id=43368327)
-- [New York Times shut down Tor Onion service](https://open.nytimes.com/https-open-nytimes-com-the-new-york-times-as-a-tor-onion-service-e0d0b67b7482)
-- [Show HN: Web Audio Spring-Mass Synthesis](https://blog.cochlea.xyz/string.html)
-- [GCVR &lpar;YC W22&rpar; is hiring a lead technical artist](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/gfrf9Cu-lead-technical-artist-staff-principal)
-- [Kerning, the Hard Way](https://home.octetfont.com/blog/kerning-hard.html)
-- [Exo: Exocompilation for productive programming of hardware accelerators](https://github.com/exo-lang/exo)
-- [Decrypting encrypted files from Akira ransomware using a bunch of GPUs](https://tinyhack.com/2025/03/13/decrypting-encrypted-files-from-akira-ransomware-linux-esxi-variant-2024-using-a-bunch-of-gpus/)
+- [Career Advice in 2025](https://lethain.com/career-advice-2025/)
+- [ESP32 WiFi Superstitions](https://supakeen.com/weblog/esp32-wifi-superstitions/)
+- [Mandelbrot Set Explorer](https://mandelbrot.site)
+- [Parahelp &lpar;YC S24&rpar; Is Hiring Founding Engineers &lpar;SF&rpar;](https://www.ycombinator.com/companies/parahelp/jobs/PhUMEwg-founding-ai-engineer)
+- [Sign in as anyone: Bypassing SAML SSO authentication with parser differentials](https://github.blog/security/sign-in-as-anyone-bypassing-saml-sso-authentication-with-parser-differentials/)
+- [Show HN: Aiopandas – Async .apply&lpar;&rpar; and .map&lpar;&rpar; for Pandas, Faster API/LLMs Calls](https://github.com/telekinesis-inc/aiopandas)
+- [AutoHete: An Automatic and Efficient Heterogeneous Training System for LLMs](https://arxiv.org/abs/2503.01890)
+- [They&#39;re Close to My Body: A Hagiography of Nine Inch Nails and Robin Finck &lpar;2020&rpar;](https://www.thewhitereview.org/feature/theyre-really-close-to-my-body/)
+- [Show HN: A personal YouTube frontend based on yt-dlp](https://github.com/christian-fei/my-yt)
+- [Lemma for the Fundamental Theorem of Galois Theory](https://susam.net/lemma-for-ftgt.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

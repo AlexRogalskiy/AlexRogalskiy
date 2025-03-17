@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Career Advice in 2025](https://lethain.com/career-advice-2025/)
-- [ESP32 WiFi Superstitions](https://supakeen.com/weblog/esp32-wifi-superstitions/)
-- [Mandelbrot Set Explorer](https://mandelbrot.site)
-- [Parahelp &lpar;YC S24&rpar; Is Hiring Founding Engineers &lpar;SF&rpar;](https://www.ycombinator.com/companies/parahelp/jobs/PhUMEwg-founding-ai-engineer)
-- [Sign in as anyone: Bypassing SAML SSO authentication with parser differentials](https://github.blog/security/sign-in-as-anyone-bypassing-saml-sso-authentication-with-parser-differentials/)
-- [Show HN: Aiopandas – Async .apply&lpar;&rpar; and .map&lpar;&rpar; for Pandas, Faster API/LLMs Calls](https://github.com/telekinesis-inc/aiopandas)
-- [AutoHete: An Automatic and Efficient Heterogeneous Training System for LLMs](https://arxiv.org/abs/2503.01890)
-- [They&#39;re Close to My Body: A Hagiography of Nine Inch Nails and Robin Finck &lpar;2020&rpar;](https://www.thewhitereview.org/feature/theyre-really-close-to-my-body/)
-- [Show HN: A personal YouTube frontend based on yt-dlp](https://github.com/christian-fei/my-yt)
-- [Lemma for the Fundamental Theorem of Galois Theory](https://susam.net/lemma-for-ftgt.html)
+- [Sunsetting Whois](https://www.icann.org/en/announcements/details/icann-update-launching-rdap-sunsetting-whois-27-01-2025-en)
+- [Who Is Free Software For?](https://tante.cc/2025/03/03/who-is-free-software-for/)
+- [Kastle &lpar;YC S24&rpar; Is Hiring Engineer #3](https://www.ycombinator.com/companies/kastle/jobs/XSq5nJT-founding-applied-ai-engineer-at-kastle)
+- [Military grade sonic weapon is used against protesters in Serbia](https://twitter.com/nexta_tv/status/1901244199220982213)
+- [Everything Picolisp can do, and more](https://picolisp.com/wiki/?Documentation)
+- [Zlib-rs is faster than C](https://trifectatech.org/blog/zlib-rs-is-faster-than-c/)
+- [Tänzer: The lovable web server framework for Tcl](https://tanzer.io/)
+- [Tcl Tutorial](https://www.tcl-lang.org/man/tcl8.5/tutorial/tcltutorial.html)
+- [Microsoft&#39;s 1986 IPO](https://dfarq.homeip.net/microsofts-1986-ipo/)
+- [“QWERTY wasn&#39;t designed to solve type bar jamming” [pdf]](https://repository.kulib.kyoto-u.ac.jp/dspace/bitstream/2433/139379/1/42_161.pdf)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

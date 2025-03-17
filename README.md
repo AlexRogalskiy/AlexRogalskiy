@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Draper holds nerve to beat Alcaraz and set up Indian Wells final against Rune](https://www.theguardian.com/sport/2025/mar/16/draper-holds-nerve-to-beat-alcaraz-and-set-up-indian-wells-final-against-rune)
-- [Editors’ picks: How to incorporate red into your wardrobe – in pictures](https://www.theguardian.com/fashion/gallery/2025/mar/15/editors-picks-how-to-incorporate-red-into-your-wardrobe-in-pictures)
-- [Gregor Townsend says system is failing after Peato Mauvaka reprieve](https://www.theguardian.com/sport/2025/mar/15/gregor-townsend-says-system-is-failing-after-peato-mauvaka-reprieve)
-- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2025/mar/15/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Trump orders airstrikes on Yemen in warning to Houthis over shipping route](https://www.theguardian.com/us-news/2025/mar/15/trump-yemen-airstrikes-houthis)
-- [Wes Streeting warns hundreds more health quangos could face axe](https://www.theguardian.com/society/2025/mar/15/wes-streeting-warns-hundreds-more-health-quangos-could-face-axe)
-- [Ross Noble: ‘The weirdest place I have been recognised? During my vasectomy’](https://www.theguardian.com/culture/2025/mar/16/ross-noble-the-weirdest-place-i-have-been-recognised-during-my-vasectomy)
-- [At least 26 dead as monster storm system sweeps across US south with multiple tornadoes](https://www.theguardian.com/us-news/2025/mar/15/massive-storm-system-south-tornado-warnings-extreme-weather)
-- [Borthwick backs England players for Lions squad after rout of Wales](https://www.theguardian.com/sport/2025/mar/15/borthwick-backs-england-players-for-lions-squad-after-rout-of-wales)
-- [France win Six Nations title after Moefana’s double sinks Scotland](https://www.theguardian.com/sport/2025/mar/15/france-scotland-six-nations-rugby-union-match-report)
+- [The thin-obsessed world is growing more vicious by the minute. But fat people aren’t going anywhere | Rebecca Shaw](https://www.theguardian.com/commentisfree/2025/mar/17/the-thin-obsessed-world-is-growing-more-vicious-by-the-minute-but-fat-people-arent-going-anywhere)
+- [Award-winning Belgian actor Émilie Dequenne dies aged 43](https://www.theguardian.com/film/2025/mar/17/emilie-dequenne-belgium-actor-emilie-dequenne-dies-aged-43)
+- [Ukraine war briefing: Zelenskyy replaces head of general staff of the armed forces](https://www.theguardian.com/world/2025/mar/17/ukraine-war-briefing-zelenskyy-replaces-head-of-general-staff-of-the-armed-forces)
+- [Residents take stock after storms and tornadoes kill 36 in US south over weekend](https://www.theguardian.com/us-news/2025/mar/16/extreme-weather-storms-tornadoes)
+- [Buy-to-let firms become biggest single type of business in UK, data shows](https://www.theguardian.com/money/2025/mar/17/buy-to-let-firms-become-biggest-single-type-of-business-in-uk-data-shows)
+- [Rory McIlroy to return on fifth day for playoff against JJ Spaun](https://www.theguardian.com/sport/2025/mar/16/rory-mcilroy-to-return-on-fifth-day-for-playoff-against-jj-spaun)
+- [British tourist missing after boat catches fire off Thai island](https://www.theguardian.com/world/2025/mar/16/british-tourist-missing-after-diving-boat-catches-fire-off-thai-island)
+- [Jack Draper dismantles Holger Rune to claim Indian Wells title](https://www.theguardian.com/sport/2025/mar/16/mirra-andreeva-aryna-sabalenka-jack-draper-holger-rune-indian-wells-tennis)
+- [Starmer to drive through welfare cuts that could affect UK’s most severely disabled](https://www.theguardian.com/world/2025/mar/16/starmer-to-drive-through-welfare-cuts-that-could-affect-uks-most-severely-disabled)
+- [Morgan Gibbs-White earns late call-up to Thomas Tuchel’s first England squad](https://www.theguardian.com/football/2025/mar/16/morgan-gibbs-white-earns-late-call-up-to-thomas-tuchels-first-england-squad)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

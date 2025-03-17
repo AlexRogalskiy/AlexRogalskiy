@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: Notifire – Notifications for Anything](https://notifireai.com)
-- [Does Cutting Benefits Work?](https://www.bbc.com/news/articles/cjd3jr7e4n3o)
-- [Musk says first mission to Mars will launch next year](https://www.bbc.com/news/articles/cx2g88y52y8o)
-- [Do Stars Outnumber the Sands of Earth&#39;s Beaches?](https://www.scientificamerican.com/article/do-stars-outnumber-the-sands-of-earths-beaches/)
-- [Ask HN: Project Management Class Recommendations?](https://news.ycombinator.com/item?id=43376603)
-- [Git in Nix via IPFS](http://www.chriswarbo.net/blog/2025-03-16-nix_ipfs.html)
-- [More pro for the DEC Professional 380 &lpar;featuring PRO/VENIX&rpar;](http://oldvcr.blogspot.com/2025/03/more-pro-for-dec-professional-380.html)
-- [Modern Agile is Stupid: on why all great ideas are killed by idiots](https://medium.com/@thecodingteacher_52591/modern-agile-is-stupid-on-why-all-great-ideas-are-killed-by-simple-minded-idiots-why-jira-kills-02080b937de2)
-- [Show HN: I built a no-hassle Emoji search tool](https://emoji-lite.vercel.app/)
-- [Pine64 RISC-V tablet now ships with Debian-based Linux distro, improved hardware](https://liliputing.com/pine64s-risc-v-tablet-now-ships-with-a-debian-based-linux-distro-and-improved-hardware/)
+- [You Can&#39;t Build More Nines](https://medium.com/@Spamaps/you-cant-build-more-nines-5fd0321c2422)
+- [Brown University Professor Is Deported Despite a Judge&#39;s Order](https://www.nytimes.com/2025/03/16/us/brown-university-rasha-alawieh-professor-deported.html)
+- [No Is Enough](https://www.liberalcurrents.com/no-is-enough/)
+- [Scale AI is being investigated by the US Department of Labor](https://techcrunch.com/2025/03/06/scale-ai-is-being-investigated-by-the-us-department-of-labor/)
+- [Next generation LEDs are cheap and sustainable](https://liu.se/en/news-item/nasta-generations-lysdioder-ar-billiga-och-miljovanliga)
+- [Mastering ChatGPT: Personalise Your AI Conversations with a Schema](https://www.fshot.org/techzone/using-schema-for-chatgpt-context-optimisation.htm)
+- [Darker Than a Dark Pool? Welcome to Wall Street&#39;s &#39;Private Rooms&#39;](https://www.bloomberg.com/news/features/2025-03-16/wall-street-s-dark-pools-grow-murkier-with-private-rooms)
+- [What Happened to the Capacitors in 2002? [video]](https://www.youtube.com/watch?v=rSpzAVpnXo4)
+- [Terrorist Group Counterintelligence &lpar;2008&rpar;](https://repository.digital.georgetown.edu/handle/10822/553096)
+- [Testing a Random Number Generator &lpar;2010&rpar; [pdf]](https://www.johndcook.com/Beautiful_Testing_ch10.pdf)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

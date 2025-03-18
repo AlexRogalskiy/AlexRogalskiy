@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [You Can&#39;t Build More Nines](https://medium.com/@Spamaps/you-cant-build-more-nines-5fd0321c2422)
-- [Brown University Professor Is Deported Despite a Judge&#39;s Order](https://www.nytimes.com/2025/03/16/us/brown-university-rasha-alawieh-professor-deported.html)
-- [No Is Enough](https://www.liberalcurrents.com/no-is-enough/)
-- [Scale AI is being investigated by the US Department of Labor](https://techcrunch.com/2025/03/06/scale-ai-is-being-investigated-by-the-us-department-of-labor/)
-- [Next generation LEDs are cheap and sustainable](https://liu.se/en/news-item/nasta-generations-lysdioder-ar-billiga-och-miljovanliga)
-- [Mastering ChatGPT: Personalise Your AI Conversations with a Schema](https://www.fshot.org/techzone/using-schema-for-chatgpt-context-optimisation.htm)
-- [Darker Than a Dark Pool? Welcome to Wall Street&#39;s &#39;Private Rooms&#39;](https://www.bloomberg.com/news/features/2025-03-16/wall-street-s-dark-pools-grow-murkier-with-private-rooms)
-- [What Happened to the Capacitors in 2002? [video]](https://www.youtube.com/watch?v=rSpzAVpnXo4)
-- [Terrorist Group Counterintelligence &lpar;2008&rpar;](https://repository.digital.georgetown.edu/handle/10822/553096)
-- [Testing a Random Number Generator &lpar;2010&rpar; [pdf]](https://www.johndcook.com/Beautiful_Testing_ch10.pdf)
+- [Show HN: I built an iOS App to generate mobile UI mockups in seconds](https://apps.apple.com/us/app/screen-mockups/id6743145422)
+- [Munich Agreement](https://en.wikipedia.org/wiki/Munich_Agreement)
+- [MCP UI Manager is live &lpar;open-source&rpar;](https://mcp-dockmaster.com)
+- [A programmable programming language &lpar;2018&rpar;](https://dl.acm.org/doi/10.1145/3127323)
+- [How I make science animations [video]](https://www.youtube.com/watch?v=yaa13eehgzo)
+- [Shift-Left Testing with Testcontainers: Catching Bugs Early](https://www.docker.com/blog/shift-left-testing-with-testcontainers/)
+- [GitOps Best Practices to Improve Your Workflows](https://spacelift.io/blog/gitops-best-practices)
+- [Open-sourcing Keyhive, filtering Ambsheets, and Sketchpad explorations](https://www.inkandswitch.com/newsletter/dispatch-010/)
+- [Let Your Guests Announce Their Arrival in Style with This Piano Doorbell](https://www.hackster.io/news/let-your-guests-announce-their-arrival-in-style-with-this-piano-doorbell-f746368f7ac2)
+- [A V12 BMW 7 Series Fuel Pump Is Now Worth More Than the Entire Car](https://www.thedrive.com/news/a-v12-bmw-7-series-fuel-pump-is-now-worth-more-than-the-entire-car)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

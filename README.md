@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Sunsetting Whois](https://www.icann.org/en/announcements/details/icann-update-launching-rdap-sunsetting-whois-27-01-2025-en)
-- [Who Is Free Software For?](https://tante.cc/2025/03/03/who-is-free-software-for/)
-- [Kastle &lpar;YC S24&rpar; Is Hiring Engineer #3](https://www.ycombinator.com/companies/kastle/jobs/XSq5nJT-founding-applied-ai-engineer-at-kastle)
-- [Military grade sonic weapon is used against protesters in Serbia](https://twitter.com/nexta_tv/status/1901244199220982213)
-- [Everything Picolisp can do, and more](https://picolisp.com/wiki/?Documentation)
-- [Zlib-rs is faster than C](https://trifectatech.org/blog/zlib-rs-is-faster-than-c/)
-- [Tänzer: The lovable web server framework for Tcl](https://tanzer.io/)
-- [Tcl Tutorial](https://www.tcl-lang.org/man/tcl8.5/tutorial/tcltutorial.html)
-- [Microsoft&#39;s 1986 IPO](https://dfarq.homeip.net/microsofts-1986-ipo/)
-- [“QWERTY wasn&#39;t designed to solve type bar jamming” [pdf]](https://repository.kulib.kyoto-u.ac.jp/dspace/bitstream/2433/139379/1/42_161.pdf)
+- [Rhombus Language](https://rhombus-lang.org)
+- [Doctor Droid &lpar;YC W23&rpar; Is Hiring](https://www.ycombinator.com/companies/doctor-droid/jobs/2v9x6QW-ai-lead)
+- [Past and Present Futures of User Interface Design](https://www.datagubbe.se/futui/)
+- [GIMP 3.0](https://testing.gimp.org/news/2025/03/16/gimp-3-0-released/)
+- [Show HN: I Built an iOS app to locate stray animals](https://apps.apple.com/us/app/straysync/id6742747753)
+- [Quantum Speedup Found for Class of Hard Problems](https://www.quantamagazine.org/quantum-speedup-found-for-huge-class-of-hard-problems-20250317/)
+- [The High Heel Problem](https://simonschreibt.de/gat/the-high-heel-problem/)
+- [Show HN: OpenTimes – Free travel times between U.S. Census geographies](https://opentimes.org)
+- [After 47 years, OpenVMS gets a package manager &lpar;VSP&rpar;](https://raymii.org/s/blog/After_47_years_OpenVMS_gets_a_package_manager_VSP.html)
+- [Archival Storage](https://blog.dshr.org/2025/03/archival-storage.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

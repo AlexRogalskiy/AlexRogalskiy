@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: I built an iOS App to generate mobile UI mockups in seconds](https://apps.apple.com/us/app/screen-mockups/id6743145422)
-- [Munich Agreement](https://en.wikipedia.org/wiki/Munich_Agreement)
-- [MCP UI Manager is live &lpar;open-source&rpar;](https://mcp-dockmaster.com)
-- [A programmable programming language &lpar;2018&rpar;](https://dl.acm.org/doi/10.1145/3127323)
-- [How I make science animations [video]](https://www.youtube.com/watch?v=yaa13eehgzo)
-- [Shift-Left Testing with Testcontainers: Catching Bugs Early](https://www.docker.com/blog/shift-left-testing-with-testcontainers/)
-- [GitOps Best Practices to Improve Your Workflows](https://spacelift.io/blog/gitops-best-practices)
-- [Open-sourcing Keyhive, filtering Ambsheets, and Sketchpad explorations](https://www.inkandswitch.com/newsletter/dispatch-010/)
-- [Let Your Guests Announce Their Arrival in Style with This Piano Doorbell](https://www.hackster.io/news/let-your-guests-announce-their-arrival-in-style-with-this-piano-doorbell-f746368f7ac2)
-- [A V12 BMW 7 Series Fuel Pump Is Now Worth More Than the Entire Car](https://www.thedrive.com/news/a-v12-bmw-7-series-fuel-pump-is-now-worth-more-than-the-entire-car)
+- [Furious at FCC, Arkansas jail cancels inmate phone calls rather than lower rates](https://arstechnica.com/tech-policy/2025/03/rather-than-lower-rates-arkansas-jail-simply-cancels-all-inmate-phone-calls/)
+- [Heat accelerates aging, a new study finds](https://www.npr.org/2025/03/17/nx-s1-5325273/heat-accelerates-aging-new-study-finds)
+- [Mutated DNA Restored to Normal in Gene Therapy Advance](https://www.nytimes.com/2025/03/10/health/gene-editing-beam-mutation-dna.html)
+- [I gave GPT 4.5 my journal to test its emotional intelligence](https://twitter.com/ArnavAgrawal03/status/1902177340068597827)
+- [Chain of Draft: Thinking Faster by Writing Less](https://arxiv.org/abs/2502.18600)
+- [Too many urban deer is &#39;an impending disaster&#39; – still, we owe them an apology](https://www.theguardian.com/environment/2025/mar/18/urban-deer-impending-disaster)
+- [Sara Hooker: She makes AI accessible, no matter what language you speak](https://fortune.com/2025/03/17/cohere-ai-sara-hooker-gen-ai-languages/)
+- [JFK Assassination Files Chatbot](https://www.chatwithjfkfiles.com/)
+- [A hacker&#39;s guide to bending the universe – Aresluna](https://aresluna.org/a-hackers-guide-to-bending-the-universe/)
+- [Show HN: I built a no-code AI app builder](https://appfountain.dev)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

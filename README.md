@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Rhombus Language](https://rhombus-lang.org)
-- [Doctor Droid &lpar;YC W23&rpar; Is Hiring](https://www.ycombinator.com/companies/doctor-droid/jobs/2v9x6QW-ai-lead)
-- [Past and Present Futures of User Interface Design](https://www.datagubbe.se/futui/)
-- [GIMP 3.0](https://testing.gimp.org/news/2025/03/16/gimp-3-0-released/)
-- [Show HN: I Built an iOS app to locate stray animals](https://apps.apple.com/us/app/straysync/id6742747753)
-- [Quantum Speedup Found for Class of Hard Problems](https://www.quantamagazine.org/quantum-speedup-found-for-huge-class-of-hard-problems-20250317/)
-- [The High Heel Problem](https://simonschreibt.de/gat/the-high-heel-problem/)
-- [Show HN: OpenTimes – Free travel times between U.S. Census geographies](https://opentimes.org)
-- [After 47 years, OpenVMS gets a package manager &lpar;VSP&rpar;](https://raymii.org/s/blog/After_47_years_OpenVMS_gets_a_package_manager_VSP.html)
-- [Archival Storage](https://blog.dshr.org/2025/03/archival-storage.html)
+- [Make Ubuntu packages 90% faster by rebuilding them](https://gist.github.com/jwbee/7e8b27e298de8bbbf8abfa4c232db097)
+- [Nvidia Dynamo: A Datacenter Scale Distributed Inference Serving Framework](https://github.com/ai-dynamo/dynamo)
+- [Turkish university annuls Erdogan rival&#39;s degree, preventing run for president](https://www.reuters.com/world/asia-pacific/istanbul-university-annuls-istanbul-mayor-imamoglus-diploma-over-irregularities-2025-03-18/)
+- [A Tale of Four Kernels [pdf] &lpar;2008&rpar;](https://users.csc.calpoly.edu/~djanzen/courses/509S09/papers/FourKernels.pdf)
+- [Show HN: &quot;Git who&quot; – A new CLI tool for industrial-scale Git blaming](https://github.com/sinclairtarget/git-who)
+- [PeerTube v7.1 Is Out](https://joinpeertube.org/news/release-7.1)
+- [US appeals court rules AI generated art cannot be copyrighted](https://www.reuters.com/world/us/us-appeals-court-rejects-copyrights-ai-generated-art-lacking-human-creator-2025-03-18/)
+- [Ask HN: How Do I Escape Homelessness After Rebuilding My Mental Health?](https://news.ycombinator.com/item?id=43402315)
+- [HTTrack Website Copier](https://www.httrack.com/)
+- [Amazon to kill off local Alexa processing, all voice requests shipped to cloud](https://www.theregister.com/2025/03/17/amazon_kills_on_device_alexa/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

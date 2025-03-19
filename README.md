@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Israel-Gaza war: Netanyahu threatens to attack Hamas with ‘increasing military strength’ as mass strikes kill dozens – live](https://www.theguardian.com/world/live/2025/mar/18/israel-gaza-live-blog-updates-air-strikes-strip-netanyahu-hamas)
-- [‘Drake lost a rap battle’: Universal files motion to dismiss rapper’s ‘misguided’ lawsuit](https://www.theguardian.com/music/2025/mar/18/drake-kendrick-lamar-universal-lawsuit-dismissal-motion-ntwnfb)
-- [Women’s football faces stark pay divide with average salary less than $11,000, Fifa reports](https://www.theguardian.com/football/2025/mar/18/womens-football-players-average-salary-fifa-reports)
-- [Ukraine war briefing: ‘Coalition of the willing’ military chiefs to assemble in London](https://www.theguardian.com/world/2025/mar/18/ukraine-war-briefing-coalition-of-the-willing-military-chiefs-to-assemble-in-london)
-- [Doge breaks into US Institute of Peace building after White House guts board](https://www.theguardian.com/us-news/2025/mar/17/us-institute-of-peace-doge)
-- [Probation Service problems in England and Wales leaving public at risk, watchdog finds](https://www.theguardian.com/society/2025/mar/18/probation-service-problems-in-england-and-wales-leaving-public-at-risk-watchdog-finds)
-- [Ikea to open Oxford Street store in May after 18-month delay](https://www.theguardian.com/business/2025/mar/18/ikea-oxford-street-store-open-may-delay)
-- [Watchdog urges regular BMI checkups for millions across England and Wales](https://www.theguardian.com/society/2025/mar/18/watchdog-urges-regular-bmi-checkups-for-millions-across-england-and-wales)
-- [UK pharmacies could cut hours unless NHS provides ‘new and sufficient’ funding](https://www.theguardian.com/society/2025/mar/18/uk-pharmacies-could-cut-hours-unless-nhs-provides-new-and-sufficient-funding)
-- [John ‘Paddy’ Hemingway, the last Battle of Britain pilot, dies aged 105](https://www.theguardian.com/uk-news/2025/mar/17/john-paddy-hemingway-the-last-battle-of-britain-pilot-dies-aged-105)
+- [Trump releases thousands of pages on John F Kennedy assassination](https://www.theguardian.com/us-news/2025/mar/18/jfk-assassination-files-released-trump)
+- [Trump administration may fire more than 1,000 EPA scientists and scrap research office, Democrats say](https://www.theguardian.com/environment/2025/mar/19/epa-fire-scientists-staff-environmental-protection-agency-remove-research-office)
+- [Imane Khelif hits back at Donald Trump and targets Olympic gold defence in LA](https://www.theguardian.com/sport/2025/mar/19/imane-khelif-boxing-donald-trump-olympics-los-angeles)
+- [Vladimir Putin agrees to 30-day halt to attacks on Ukraine’s energy grid](https://www.theguardian.com/world/2025/mar/18/trump-and-putin-to-hold-high-stakes-call-on-ukraine)
+- [Urgent action needed to harness tidal power in Severn estuary, say experts](https://www.theguardian.com/environment/2025/mar/19/urgent-action-needed-to-harness-tidal-power-in-severn-estuary-say-experts)
+- [More than 150 ‘unprecedented’ climate disasters struck world in 2024, says UN](https://www.theguardian.com/environment/2025/mar/19/unprecedented-climate-disasters-extreme-weather-un-report)
+- [GB Energy needs full £8.3bn of funding or it will disappoint, government told](https://www.theguardian.com/business/2025/mar/19/gb-energy-needs-full-83bn-fundingdisappoint-government-told)
+- [Bentley could pass costs of US tariffs to buyers due to drop in Chinese demand](https://www.theguardian.com/business/2025/mar/19/bentley-could-pass-costs-of-us-tariffs-to-buyers-due-to-drop-in-chinese-demand)
+- [Dear England review – footballing reboot adds extra time for Gareth Southgate’s exit](https://www.theguardian.com/stage/2025/mar/19/dear-england-review-reboot-james-graham-gareth-southgate-national-theatre)
+- [Samantha Harvey and Téa Obreht shortlisted for inaugural Climate fiction prize](https://www.theguardian.com/books/2025/mar/19/climate-fiction-prize-samantha-harvey-tea-obreht-abi-dare-roz-dineen-kaliane-bradley)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

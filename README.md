@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Trump releases thousands of pages on John F Kennedy assassination](https://www.theguardian.com/us-news/2025/mar/18/jfk-assassination-files-released-trump)
-- [Trump administration may fire more than 1,000 EPA scientists and scrap research office, Democrats say](https://www.theguardian.com/environment/2025/mar/19/epa-fire-scientists-staff-environmental-protection-agency-remove-research-office)
-- [Imane Khelif hits back at Donald Trump and targets Olympic gold defence in LA](https://www.theguardian.com/sport/2025/mar/19/imane-khelif-boxing-donald-trump-olympics-los-angeles)
-- [Vladimir Putin agrees to 30-day halt to attacks on Ukraine’s energy grid](https://www.theguardian.com/world/2025/mar/18/trump-and-putin-to-hold-high-stakes-call-on-ukraine)
-- [Urgent action needed to harness tidal power in Severn estuary, say experts](https://www.theguardian.com/environment/2025/mar/19/urgent-action-needed-to-harness-tidal-power-in-severn-estuary-say-experts)
-- [More than 150 ‘unprecedented’ climate disasters struck world in 2024, says UN](https://www.theguardian.com/environment/2025/mar/19/unprecedented-climate-disasters-extreme-weather-un-report)
-- [GB Energy needs full £8.3bn of funding or it will disappoint, government told](https://www.theguardian.com/business/2025/mar/19/gb-energy-needs-full-83bn-fundingdisappoint-government-told)
-- [Bentley could pass costs of US tariffs to buyers due to drop in Chinese demand](https://www.theguardian.com/business/2025/mar/19/bentley-could-pass-costs-of-us-tariffs-to-buyers-due-to-drop-in-chinese-demand)
-- [Dear England review – footballing reboot adds extra time for Gareth Southgate’s exit](https://www.theguardian.com/stage/2025/mar/19/dear-england-review-reboot-james-graham-gareth-southgate-national-theatre)
-- [Samantha Harvey and Téa Obreht shortlisted for inaugural Climate fiction prize](https://www.theguardian.com/books/2025/mar/19/climate-fiction-prize-samantha-harvey-tea-obreht-abi-dare-roz-dineen-kaliane-bradley)
+- [Buena Vista Social Club review – exuberant yet dramatically thin Broadway musical](https://www.theguardian.com/stage/2025/mar/20/buena-vista-social-club-review-broadway-musical)
+- [Trump administration briefing: deportation heartbreak for Venezuelan family; Fed cuts economic forecast](https://www.theguardian.com/us-news/2025/mar/20/trump-administration-briefing-deportation-heartbreak-for-venezuelan-family-fed-cuts-economic-forecast)
+- [Ukraine war briefing: Trump ‘wants Zaporizhzhia power plant for US’](https://www.theguardian.com/world/2025/mar/20/ukraine-war-briefing-trump-wants-zaporizhzhia-power-plant-for-us)
+- [Chelsea complete £62.5m double deal for Quenda and Essugo from Sporting](https://www.theguardian.com/football/2025/mar/20/chelsea-complete-625m-double-deal-for-quenda-and-essugo-from-sporting)
+- [Disabled people’s access to transport in UK a ‘national embarrassment’, MPs say](https://www.theguardian.com/uk-news/2025/mar/20/disabled-peoples-access-to-transport-in-uk-a-national-embarrassment-mps-say)
+- [Starmer unlikely to fulfil pledge on hospital waiting times, says IFS](https://www.theguardian.com/society/2025/mar/20/starmer-unlikely-to-fulfil-pledge-on-hospital-waiting-times-says-ifs)
+- [Covid ‘benevolence bump’ endures as acts of kindness 10% higher than before 2020](https://www.theguardian.com/lifeandstyle/2025/mar/20/covid-benevolence-bump-endures-kindness-10-higher-before-2020)
+- [UK watchdog bans ‘shocking’ ads in mobile games that objectified women](https://www.theguardian.com/media/2025/mar/20/uk-watchdog-bans-ads-mobile-gaming-apps-asa)
+- [UK cybersecurity agency warns over risk of quantum hackers](https://www.theguardian.com/technology/2025/mar/20/uk-cybersecurity-agency-quantum-hackers)
+- [Eley Williams and Ferdia Lennon shortlisted for Dylan Thomas prize](https://www.theguardian.com/books/2025/mar/20/eley-williams-and-ferdia-lennon-shortlisted-for-dylan-thomas-prize)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

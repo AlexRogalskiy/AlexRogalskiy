@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Make Ubuntu packages 90% faster by rebuilding them](https://gist.github.com/jwbee/7e8b27e298de8bbbf8abfa4c232db097)
-- [Nvidia Dynamo: A Datacenter Scale Distributed Inference Serving Framework](https://github.com/ai-dynamo/dynamo)
-- [Turkish university annuls Erdogan rival&#39;s degree, preventing run for president](https://www.reuters.com/world/asia-pacific/istanbul-university-annuls-istanbul-mayor-imamoglus-diploma-over-irregularities-2025-03-18/)
-- [A Tale of Four Kernels [pdf] &lpar;2008&rpar;](https://users.csc.calpoly.edu/~djanzen/courses/509S09/papers/FourKernels.pdf)
-- [Show HN: &quot;Git who&quot; – A new CLI tool for industrial-scale Git blaming](https://github.com/sinclairtarget/git-who)
-- [PeerTube v7.1 Is Out](https://joinpeertube.org/news/release-7.1)
-- [US appeals court rules AI generated art cannot be copyrighted](https://www.reuters.com/world/us/us-appeals-court-rejects-copyrights-ai-generated-art-lacking-human-creator-2025-03-18/)
-- [Ask HN: How Do I Escape Homelessness After Rebuilding My Mental Health?](https://news.ycombinator.com/item?id=43402315)
-- [HTTrack Website Copier](https://www.httrack.com/)
-- [Amazon to kill off local Alexa processing, all voice requests shipped to cloud](https://www.theregister.com/2025/03/17/amazon_kills_on_device_alexa/)
+- [Writing an LLM from scratch, part 10 – dropout](https://www.gilesthomas.com/2025/03/llm-from-scratch-10-dropout)
+- [Introduction to Deep Learning &lpar;CMU&rpar;](https://deeplearning.cs.cmu.edu/./S25/index.html)
+- [DESI Opens Access to the Largest 3D Map of the Universe Yet](https://newscenter.lbl.gov/2025/03/19/desi-opens-access-to-the-largest-3d-map-of-the-universe-yet/)
+- [Bolt3D: Generating 3D Scenes in Seconds](https://szymanowiczs.github.io/bolt3d)
+- [Orpheus-3B – Emotive TTS by Canopy Labs](https://canopylabs.ai/model-releases)
+- [OpenAI&#39;s o1-pro now available via API](https://platform.openai.com/docs/models/o1-pro)
+- [LLM Agents Are Simply Graph – Tutorial for Dummies](https://zacharyhuang.substack.com/p/llm-agent-internal-as-a-graph-tutorial)
+- [Looking Ahead at Intel&#39;s Xe3 GPU Architecture](https://chipsandcheese.com/p/looking-ahead-at-intels-xe3-gpu-architecture)
+- [The Collective Ambition Behind Odysseus, a Game-Changing Sci-Fi Larp](https://mssv.net/2025/03/19/the-collective-ambition-behind-odysseus-a-game-changing-sci-fi-larp/)
+- [Markprompt &lpar;YC W24&rpar; – Stripe for customer support – is hiring founding eng in SF](https://markprompt.com/jobs)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Furious at FCC, Arkansas jail cancels inmate phone calls rather than lower rates](https://arstechnica.com/tech-policy/2025/03/rather-than-lower-rates-arkansas-jail-simply-cancels-all-inmate-phone-calls/)
-- [Heat accelerates aging, a new study finds](https://www.npr.org/2025/03/17/nx-s1-5325273/heat-accelerates-aging-new-study-finds)
-- [Mutated DNA Restored to Normal in Gene Therapy Advance](https://www.nytimes.com/2025/03/10/health/gene-editing-beam-mutation-dna.html)
-- [I gave GPT 4.5 my journal to test its emotional intelligence](https://twitter.com/ArnavAgrawal03/status/1902177340068597827)
-- [Chain of Draft: Thinking Faster by Writing Less](https://arxiv.org/abs/2502.18600)
-- [Too many urban deer is &#39;an impending disaster&#39; – still, we owe them an apology](https://www.theguardian.com/environment/2025/mar/18/urban-deer-impending-disaster)
-- [Sara Hooker: She makes AI accessible, no matter what language you speak](https://fortune.com/2025/03/17/cohere-ai-sara-hooker-gen-ai-languages/)
-- [JFK Assassination Files Chatbot](https://www.chatwithjfkfiles.com/)
-- [A hacker&#39;s guide to bending the universe – Aresluna](https://aresluna.org/a-hackers-guide-to-bending-the-universe/)
-- [Show HN: I built a no-code AI app builder](https://appfountain.dev)
+- [Teaching a new way to prevent outages at Google](https://sre.google/stpa/teaching/)
+- [Covid-19 vaccines and adverse events of special interest](https://pubmed.ncbi.nlm.nih.gov/38350768/)
+- [June Huh, Combinatorics, and the Allure of Chess Knight Problems](https://www.newsroom.hlf-foundation.org/blog/article/june-huh-combinatorics-and-the-strange-allure-of-chess-knight-problems/)
+- [Optimization by Decoded Quantum Interferometry](https://arxiv.org/abs/2408.08292)
+- [The limits of awareness raising to promote support for equal-treatment policies](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12933)
+- [GPascal – A Blast from the Past &lpar;2011&rpar;](https://www.gammon.com.au/forum/?id=11203)
+- [Not Quite Vibing Yet](https://medhir.com/blog/not-quite-vibing-yet)
+- [China delays approval of BYD&#39;s Mexico plant amid fears tech could leak to US](https://www.ft.com/content/36ae6f78-aadb-47bb-a5cd-ec69b420cbe1)
+- [CIA Covert Ops: Kennedy Assassination Records Lift Veil of Secrecy](https://nsarchive.gwu.edu/briefing-book/2025-03-19/cia-covert-ops-kennedy-assassination-records-lift-veil-secrecy)
+- [$1.4B is a lot to fall through the cracks, even for Tesla](https://www.ft.com/content/62df8d8d-31f2-445e-bfa2-c171ac43db6e)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

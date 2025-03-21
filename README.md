@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Teaching a new way to prevent outages at Google](https://sre.google/stpa/teaching/)
-- [Covid-19 vaccines and adverse events of special interest](https://pubmed.ncbi.nlm.nih.gov/38350768/)
-- [June Huh, Combinatorics, and the Allure of Chess Knight Problems](https://www.newsroom.hlf-foundation.org/blog/article/june-huh-combinatorics-and-the-strange-allure-of-chess-knight-problems/)
-- [Optimization by Decoded Quantum Interferometry](https://arxiv.org/abs/2408.08292)
-- [The limits of awareness raising to promote support for equal-treatment policies](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12933)
-- [GPascal – A Blast from the Past &lpar;2011&rpar;](https://www.gammon.com.au/forum/?id=11203)
-- [Not Quite Vibing Yet](https://medhir.com/blog/not-quite-vibing-yet)
-- [China delays approval of BYD&#39;s Mexico plant amid fears tech could leak to US](https://www.ft.com/content/36ae6f78-aadb-47bb-a5cd-ec69b420cbe1)
-- [CIA Covert Ops: Kennedy Assassination Records Lift Veil of Secrecy](https://nsarchive.gwu.edu/briefing-book/2025-03-19/cia-covert-ops-kennedy-assassination-records-lift-veil-secrecy)
-- [$1.4B is a lot to fall through the cracks, even for Tesla](https://www.ft.com/content/62df8d8d-31f2-445e-bfa2-c171ac43db6e)
+- [Next-generation audio models in the API](https://openai.com/index/introducing-our-next-generation-audio-models/)
+- [Sakana AI super-powers AI reasoning using Japan&#39;s own Sudoku Puzzles](https://sakana.ai/sudoku-bench/)
+- [The Seneca – Would you spend $3600 on a keyboard?](https://www.norbauer.co/pages/the-seneca)
+- [Cautions in the Open-Source AI-Era](https://fromthesimulation.substack.com/p/open-source-in-the-ai-era)
+- [Artificial Intelligence Regulation &lpar;Version 1.0.0&rpar;](https://letterstoagiorthesingularity.substack.com/p/artificial-intelligence-regulation)
+- [Foenix A2560M: MC68LC060 on a Mini-ITX Motherboard](https://c256foenix.com/a2560m/?v=0b3b97fa6688)
+- [Asahi Linux Progress Report - Linux 6.14](https://asahilinux.org/2025/03/progress-report-6-14/)
+- [Ask HN: Is the snake eating its own tail?](https://news.ycombinator.com/item?id=43431290)
+- [The road not taken is Guaranteed Minimum Income](https://blog.codinghorror.com/the-road-not-taken-is-guaranteed-minimum-income/)
+- [&#39;Hey Siri, What Month Is It?&#39;](https://daringfireball.net/linked/2025/03/19/hey-siri-what-month-is-it)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

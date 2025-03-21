@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Writing an LLM from scratch, part 10 – dropout](https://www.gilesthomas.com/2025/03/llm-from-scratch-10-dropout)
-- [Introduction to Deep Learning &lpar;CMU&rpar;](https://deeplearning.cs.cmu.edu/./S25/index.html)
-- [DESI Opens Access to the Largest 3D Map of the Universe Yet](https://newscenter.lbl.gov/2025/03/19/desi-opens-access-to-the-largest-3d-map-of-the-universe-yet/)
-- [Bolt3D: Generating 3D Scenes in Seconds](https://szymanowiczs.github.io/bolt3d)
-- [Orpheus-3B – Emotive TTS by Canopy Labs](https://canopylabs.ai/model-releases)
-- [OpenAI&#39;s o1-pro now available via API](https://platform.openai.com/docs/models/o1-pro)
-- [LLM Agents Are Simply Graph – Tutorial for Dummies](https://zacharyhuang.substack.com/p/llm-agent-internal-as-a-graph-tutorial)
-- [Looking Ahead at Intel&#39;s Xe3 GPU Architecture](https://chipsandcheese.com/p/looking-ahead-at-intels-xe3-gpu-architecture)
-- [The Collective Ambition Behind Odysseus, a Game-Changing Sci-Fi Larp](https://mssv.net/2025/03/19/the-collective-ambition-behind-odysseus-a-game-changing-sci-fi-larp/)
-- [Markprompt &lpar;YC W24&rpar; – Stripe for customer support – is hiring founding eng in SF](https://markprompt.com/jobs)
+- [Asahi Linux Progress Report - Linux 6.14](https://asahilinux.org/2025/03/progress-report-6-14/)
+- [Nonprofit&#39;s Leader Convicted of Siphoning Off $240M in Federal Food Aid](https://www.nytimes.com/2025/03/19/us/nonprofit-leader-convicted-federal-food-aid.html)
+- [Feds indict ex-Michigan FB coach Matt Weiss: Hacked computers to spy on women](https://www.freep.com/story/sports/college/university-michigan/wolverines/2025/03/20/matt-weiss-charged-crimes-computers-michigan-football/82570958007/)
+- [Be My Eyes](https://www.bemyeyes.com/)
+- [SmolDocling: An ultra-compact VLM for end-to-end multi-modal document conversion](https://arxiv.org/abs/2503.11576)
+- [Chibi: PNG-tuber application made in Rust](https://github.com/megabytesofrem/chibi)
+- [Retro Boy: simple Game Boy emulator written in Rust, can be played on the web](https://github.com/smparsons/retroboy)
+- [Show HN: Minimalytics – a standalone minimal analytics app built on SQLite](https://github.com/nafey/minimalytics)
+- [The Burnout Machine](https://unionize.fyi)
+- [OpenAI Audio Models](https://www.openai.fm/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

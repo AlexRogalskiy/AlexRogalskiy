@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Buena Vista Social Club review – exuberant yet dramatically thin Broadway musical](https://www.theguardian.com/stage/2025/mar/20/buena-vista-social-club-review-broadway-musical)
-- [Trump administration briefing: deportation heartbreak for Venezuelan family; Fed cuts economic forecast](https://www.theguardian.com/us-news/2025/mar/20/trump-administration-briefing-deportation-heartbreak-for-venezuelan-family-fed-cuts-economic-forecast)
-- [Ukraine war briefing: Trump ‘wants Zaporizhzhia power plant for US’](https://www.theguardian.com/world/2025/mar/20/ukraine-war-briefing-trump-wants-zaporizhzhia-power-plant-for-us)
-- [Chelsea complete £62.5m double deal for Quenda and Essugo from Sporting](https://www.theguardian.com/football/2025/mar/20/chelsea-complete-625m-double-deal-for-quenda-and-essugo-from-sporting)
-- [Disabled people’s access to transport in UK a ‘national embarrassment’, MPs say](https://www.theguardian.com/uk-news/2025/mar/20/disabled-peoples-access-to-transport-in-uk-a-national-embarrassment-mps-say)
-- [Starmer unlikely to fulfil pledge on hospital waiting times, says IFS](https://www.theguardian.com/society/2025/mar/20/starmer-unlikely-to-fulfil-pledge-on-hospital-waiting-times-says-ifs)
-- [Covid ‘benevolence bump’ endures as acts of kindness 10% higher than before 2020](https://www.theguardian.com/lifeandstyle/2025/mar/20/covid-benevolence-bump-endures-kindness-10-higher-before-2020)
-- [UK watchdog bans ‘shocking’ ads in mobile games that objectified women](https://www.theguardian.com/media/2025/mar/20/uk-watchdog-bans-ads-mobile-gaming-apps-asa)
-- [UK cybersecurity agency warns over risk of quantum hackers](https://www.theguardian.com/technology/2025/mar/20/uk-cybersecurity-agency-quantum-hackers)
-- [Eley Williams and Ferdia Lennon shortlisted for Dylan Thomas prize](https://www.theguardian.com/books/2025/mar/20/eley-williams-and-ferdia-lennon-shortlisted-for-dylan-thomas-prize)
+- [Israeli government approves firing of Shin Bet chief Ronen Bar despite huge protests](https://www.theguardian.com/world/2025/mar/21/ronen-bar-shin-bet-intelligence-chief-fired-netanyahu-protests)
+- [‘Never forget’: Pacific countries remember nuclear test legacy as weapons ban treaty debated](https://www.theguardian.com/world/2025/mar/21/never-forget-pacific-countries-remember-nuclear-test-legacy-as-weapons-ban-treaty-debated)
+- [New forest to be created in west of England, with 20m trees planted by 2050](https://www.theguardian.com/environment/2025/mar/21/new-western-forest-england-20-million-trees-2050)
+- [National Trust freezes recruitment after £10m jump in costs](https://www.theguardian.com/uk-news/2025/mar/21/national-trust-freezes-recruitment-after-10m-jump-in-costs)
+- [‘Stain on this country’: celebrities condemn cuts to UK disability benefits](https://www.theguardian.com/politics/2025/mar/21/stain-on-this-country-celebrities-condemn-cuts-to-uk-disability-benefits)
+- [Luke Littler sinks Van Gerwen with nine-darter to stay top of Premier League](https://www.theguardian.com/sport/2025/mar/20/luke-littler-sinks-michael-van-gerwen-to-stay-top-of-premier-league)
+- [Tiny McNeese and viral manager stun Clemson in first March Madness upset](https://www.theguardian.com/sport/2025/mar/20/mcneese-manager-ncaa-tournament-upset-scores)
+- [‘Deported because of his tattoos’: has the US targeted Venezuelans for their body art?](https://www.theguardian.com/us-news/2025/mar/20/deported-because-of-his-tattoos-has-the-us-targeted-venezuelans-for-their-body-art)
+- [One of Stephen Lawrence’s killers reportedly now admits he was involved](https://www.theguardian.com/uk-news/2025/mar/20/one-of-stephen-lawrences-killers-reportedly-now-admits-he-was-involved)
+- [Hawaii observatory to be evicted amid federal cuts as volcano shoots 700ft lava](https://www.theguardian.com/us-news/2025/mar/20/hawaii-volcano-observatory-doge-cuts)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Next-generation audio models in the API](https://openai.com/index/introducing-our-next-generation-audio-models/)
-- [Sakana AI super-powers AI reasoning using Japan&#39;s own Sudoku Puzzles](https://sakana.ai/sudoku-bench/)
-- [The Seneca – Would you spend $3600 on a keyboard?](https://www.norbauer.co/pages/the-seneca)
-- [Cautions in the Open-Source AI-Era](https://fromthesimulation.substack.com/p/open-source-in-the-ai-era)
-- [Artificial Intelligence Regulation &lpar;Version 1.0.0&rpar;](https://letterstoagiorthesingularity.substack.com/p/artificial-intelligence-regulation)
-- [Foenix A2560M: MC68LC060 on a Mini-ITX Motherboard](https://c256foenix.com/a2560m/?v=0b3b97fa6688)
-- [Asahi Linux Progress Report - Linux 6.14](https://asahilinux.org/2025/03/progress-report-6-14/)
-- [Ask HN: Is the snake eating its own tail?](https://news.ycombinator.com/item?id=43431290)
-- [The road not taken is Guaranteed Minimum Income](https://blog.codinghorror.com/the-road-not-taken-is-guaranteed-minimum-income/)
-- [&#39;Hey Siri, What Month Is It?&#39;](https://daringfireball.net/linked/2025/03/19/hey-siri-what-month-is-it)
+- [Ray Nayler&#39;s &quot;Where the Axe Is Buried&quot;](https://pluralistic.net/2025/03/20/birchpunk/#cyberspace-is-everting)
+- [I helped build a government AI system. DOGE fired me ...](https://bsky.app/profile/skiles.bsky.social/post/3lkwbunaatk25)
+- [Carousels with CSS](https://developer.chrome.com/blog/carousels-with-css)
+- [Blueprints: Customizable AI Workflows for Developers](https://blog.mozilla.ai/introducing-blueprints-customizable-ai-workflows-for-developers/)
+- [Running Winamp in Wine](https://rubenerd.com/running-winamp-in-wine/)
+- [StarVector: Generating Scalable Vector Graphics Code from Images and Text](https://starvector.github.io/)
+- [The CRPG Renaissance, Part 5: Fallout 2 and Baldur&#39;s Gate](https://www.filfre.net/2025/03/the-crpg-renaissance-part-5-fallout-2-and-baldurs-gate/)
+- [Ask HN: LinkedIn Profile for a Side Project While Working Full-Time at a Company](https://news.ycombinator.com/item?id=43442673)
+- [Virtual Slide Rule](https://www.antiquark.com/sliderule/sim/n909es/virtual-n909-es.html)
+- [Malignant Narcissism](https://en.wikipedia.org/wiki/Malignant_narcissism)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

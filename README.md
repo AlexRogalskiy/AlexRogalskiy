@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Israeli government approves firing of Shin Bet chief Ronen Bar despite huge protests](https://www.theguardian.com/world/2025/mar/21/ronen-bar-shin-bet-intelligence-chief-fired-netanyahu-protests)
-- [‘Never forget’: Pacific countries remember nuclear test legacy as weapons ban treaty debated](https://www.theguardian.com/world/2025/mar/21/never-forget-pacific-countries-remember-nuclear-test-legacy-as-weapons-ban-treaty-debated)
-- [New forest to be created in west of England, with 20m trees planted by 2050](https://www.theguardian.com/environment/2025/mar/21/new-western-forest-england-20-million-trees-2050)
-- [National Trust freezes recruitment after £10m jump in costs](https://www.theguardian.com/uk-news/2025/mar/21/national-trust-freezes-recruitment-after-10m-jump-in-costs)
-- [‘Stain on this country’: celebrities condemn cuts to UK disability benefits](https://www.theguardian.com/politics/2025/mar/21/stain-on-this-country-celebrities-condemn-cuts-to-uk-disability-benefits)
-- [Luke Littler sinks Van Gerwen with nine-darter to stay top of Premier League](https://www.theguardian.com/sport/2025/mar/20/luke-littler-sinks-michael-van-gerwen-to-stay-top-of-premier-league)
-- [Tiny McNeese and viral manager stun Clemson in first March Madness upset](https://www.theguardian.com/sport/2025/mar/20/mcneese-manager-ncaa-tournament-upset-scores)
-- [‘Deported because of his tattoos’: has the US targeted Venezuelans for their body art?](https://www.theguardian.com/us-news/2025/mar/20/deported-because-of-his-tattoos-has-the-us-targeted-venezuelans-for-their-body-art)
-- [One of Stephen Lawrence’s killers reportedly now admits he was involved](https://www.theguardian.com/uk-news/2025/mar/20/one-of-stephen-lawrences-killers-reportedly-now-admits-he-was-involved)
-- [Hawaii observatory to be evicted amid federal cuts as volcano shoots 700ft lava](https://www.theguardian.com/us-news/2025/mar/20/hawaii-volcano-observatory-doge-cuts)
+- [George Foreman, boxing champion and entrepreneur, dies aged 76](https://www.theguardian.com/sport/2025/mar/22/boxing-champion-george-foreman-dies-at-age-76)
+- [Ukraine war briefing: Two people killed as Russia pounds Zaporizhzhia](https://www.theguardian.com/world/2025/mar/22/ukraine-war-briefing-two-people-killed-as-russia-pounds-zaporizhzhia)
+- [Australian tourist killed and two injured as snorkelling boat capsizes off Bali](https://www.theguardian.com/world/2025/mar/22/australian-tourist-killed-two-injured-snorkelling-boat-capsizes-off-bali-nusa-penida-indonesia)
+- [The obscure Jimmy Lai ruling that exposed the erosion of Hong Kong’s rule of law](https://www.theguardian.com/world/2025/mar/22/jimmy-lai-ruling-hong-kong-erosion-rule-of-law)
+- [Reeves to raise spectre of Liz Truss to persuade Labour MPs to accept cuts](https://www.theguardian.com/uk-news/2025/mar/21/rachel-reeves-raise-spectre-liz-truss-persuade-labour-mps-accept-cuts)
+- [Meta confirms it is considering charging UK users for ad-free version](https://www.theguardian.com/technology/2025/mar/22/meta-confirms-it-is-considering-charging-uk-users-for-ad-free-version)
+- [Falconer ‘extremely close’ to catching hawk attacking Hertfordshire villagers](https://www.theguardian.com/uk-news/2025/mar/21/falconer-extremely-close-to-catching-hawk-attacking-hertfordshire-villagers)
+- [Tuchel calls for ‘more impact’ from Rashford and Foden after England win](https://www.theguardian.com/football/2025/mar/21/tuchel-calls-for-more-impact-from-rashford-and-foden-after-england-win)
+- [Ice requests Cornell student who sued Trump administration to ‘surrender’ to immigration authorities](https://www.theguardian.com/us-news/2025/mar/21/ice-cornell-university-student-sued-trump-administration)
+- [Nasa drops plan to land first woman and first person of color on the moon](https://www.theguardian.com/us-news/2025/mar/21/nasa-drops-plan-first-woman-moon)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

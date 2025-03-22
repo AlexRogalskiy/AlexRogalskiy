@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Asahi Linux Progress Report - Linux 6.14](https://asahilinux.org/2025/03/progress-report-6-14/)
-- [Nonprofit&#39;s Leader Convicted of Siphoning Off $240M in Federal Food Aid](https://www.nytimes.com/2025/03/19/us/nonprofit-leader-convicted-federal-food-aid.html)
-- [Feds indict ex-Michigan FB coach Matt Weiss: Hacked computers to spy on women](https://www.freep.com/story/sports/college/university-michigan/wolverines/2025/03/20/matt-weiss-charged-crimes-computers-michigan-football/82570958007/)
-- [Be My Eyes](https://www.bemyeyes.com/)
-- [SmolDocling: An ultra-compact VLM for end-to-end multi-modal document conversion](https://arxiv.org/abs/2503.11576)
-- [Chibi: PNG-tuber application made in Rust](https://github.com/megabytesofrem/chibi)
-- [Retro Boy: simple Game Boy emulator written in Rust, can be played on the web](https://github.com/smparsons/retroboy)
-- [Show HN: Minimalytics – a standalone minimal analytics app built on SQLite](https://github.com/nafey/minimalytics)
-- [The Burnout Machine](https://unionize.fyi)
-- [OpenAI Audio Models](https://www.openai.fm/)
+- [Imbue &lpar;YC S17&rpar; Is Hiring Product Engineers](https://news.ycombinator.com/item?id=43442360)
+- [Monster Cables picked the wrong guy to threaten &lpar;2008&rpar;](https://www.oncontracts.com/monster-cables-picked-the-wrong-guy-to-threaten/)
+- [High Frequency Food: Better Cutting with Ultrasonics](https://hackaday.com/2025/03/21/high-frequency-food-better-cutting-with-ultrasonics/)
+- [Not OK Cupid – A story of poor email address validation](https://www.fastmail.com/blog/not-ok-cupid/)
+- [MySQL transactions per second vs. fsyncs per second &lpar;2020&rpar;](https://sirupsen.com/napkin/problem-10-mysql-transactions-per-second)
+- [France rejects backdoor mandate](https://www.eff.org/deeplinks/2025/03/win-encryption-france-rejects-backdoor-mandate)
+- [The little book about OS development](https://littleosbook.github.io/)
+- [Pen and Paper Exercises in Machine Learning &lpar;2022&rpar;](https://arxiv.org/abs/2206.13446)
+- [Use Long Options in Scripts](https://matklad.github.io/2025/03/21/use-long-options-in-scripts.html)
+- [Frink](https://frinklang.org/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

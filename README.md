@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ray Nayler&#39;s &quot;Where the Axe Is Buried&quot;](https://pluralistic.net/2025/03/20/birchpunk/#cyberspace-is-everting)
-- [I helped build a government AI system. DOGE fired me ...](https://bsky.app/profile/skiles.bsky.social/post/3lkwbunaatk25)
-- [Carousels with CSS](https://developer.chrome.com/blog/carousels-with-css)
-- [Blueprints: Customizable AI Workflows for Developers](https://blog.mozilla.ai/introducing-blueprints-customizable-ai-workflows-for-developers/)
-- [Running Winamp in Wine](https://rubenerd.com/running-winamp-in-wine/)
-- [StarVector: Generating Scalable Vector Graphics Code from Images and Text](https://starvector.github.io/)
-- [The CRPG Renaissance, Part 5: Fallout 2 and Baldur&#39;s Gate](https://www.filfre.net/2025/03/the-crpg-renaissance-part-5-fallout-2-and-baldurs-gate/)
-- [Ask HN: LinkedIn Profile for a Side Project While Working Full-Time at a Company](https://news.ycombinator.com/item?id=43442673)
-- [Virtual Slide Rule](https://www.antiquark.com/sliderule/sim/n909es/virtual-n909-es.html)
-- [Malignant Narcissism](https://en.wikipedia.org/wiki/Malignant_narcissism)
+- [Stop using the elbow criterion for k-means](https://arxiv.org/abs/2212.12189)
+- [Custom VC-Focused Emacs Functions to Enhance My Git Workflow](https://www.rahuljuliato.com/posts/vc-git-functions)
+- [Siege of Syracuse &lpar;212 BC&rpar;: Roman General vs. Greek Genius Archimedes](https://www.historynet.com/the-siege-of-syracuse-a-roman-general-vs-a-greek-genius/)
+- [The Role of Close-Packed Polymer Bead Monolayers for Energy Harvesters](https://onlinelibrary.wiley.com/doi/10.1002/smll.202410155)
+- [Timelines for migration to post-quantum cryptography](https://www.ncsc.gov.uk/guidance/pqc-migration-timelines)
+- [One Man&#39;s Crypto Windfall Is Funding a $1B Space Station Dream](https://www.bloomberg.com/news/features/2025-03-20/crypto-windfall-is-funding-vast-s-space-station-ambitions)
+- [Abusive user relationships in open source &lpar;2019&rpar;](https://brokenco.de/2019/02/23/open-source-sucks.html)
+- [Amateur Radio Operators &lpar;Hams&rpar; who communicate through non-commercial satellites](https://www.amsat.org/amsat-history/)
+- [All Clothing Is Handmade &lpar;2022&rpar;](https://ruthtillman.com/post/all-clothing-is-handmade/)
+- [Can AI Compress Like a Genius?](https://arxiv.org/abs/2503.13992)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [George Foreman, boxing champion and entrepreneur, dies aged 76](https://www.theguardian.com/sport/2025/mar/22/boxing-champion-george-foreman-dies-at-age-76)
-- [Ukraine war briefing: Two people killed as Russia pounds Zaporizhzhia](https://www.theguardian.com/world/2025/mar/22/ukraine-war-briefing-two-people-killed-as-russia-pounds-zaporizhzhia)
-- [Australian tourist killed and two injured as snorkelling boat capsizes off Bali](https://www.theguardian.com/world/2025/mar/22/australian-tourist-killed-two-injured-snorkelling-boat-capsizes-off-bali-nusa-penida-indonesia)
-- [The obscure Jimmy Lai ruling that exposed the erosion of Hong Kong’s rule of law](https://www.theguardian.com/world/2025/mar/22/jimmy-lai-ruling-hong-kong-erosion-rule-of-law)
-- [Reeves to raise spectre of Liz Truss to persuade Labour MPs to accept cuts](https://www.theguardian.com/uk-news/2025/mar/21/rachel-reeves-raise-spectre-liz-truss-persuade-labour-mps-accept-cuts)
-- [Meta confirms it is considering charging UK users for ad-free version](https://www.theguardian.com/technology/2025/mar/22/meta-confirms-it-is-considering-charging-uk-users-for-ad-free-version)
-- [Falconer ‘extremely close’ to catching hawk attacking Hertfordshire villagers](https://www.theguardian.com/uk-news/2025/mar/21/falconer-extremely-close-to-catching-hawk-attacking-hertfordshire-villagers)
-- [Tuchel calls for ‘more impact’ from Rashford and Foden after England win](https://www.theguardian.com/football/2025/mar/21/tuchel-calls-for-more-impact-from-rashford-and-foden-after-england-win)
-- [Ice requests Cornell student who sued Trump administration to ‘surrender’ to immigration authorities](https://www.theguardian.com/us-news/2025/mar/21/ice-cornell-university-student-sued-trump-administration)
-- [Nasa drops plan to land first woman and first person of color on the moon](https://www.theguardian.com/us-news/2025/mar/21/nasa-drops-plan-first-woman-moon)
+- [Ukraine war briefing: Russia launches deadly drone assault on Kyiv](https://www.theguardian.com/world/2025/mar/23/ukraine-war-briefing-russia-launches-drone-attacks-on-kyiv)
+- [New Zealand v Australia: second women’s T20 international – live](https://www.theguardian.com/sport/live/2025/mar/23/new-zealand-vs-australia-womens-t20-cricket-live-updates-scores-results-start-time-bay-oval)
+- [Israel strikes southern Lebanon and Gaza amid calls for halt to ‘endless war’](https://www.theguardian.com/world/2025/mar/22/israel-strikes-southern-lebanon-amid-calls-for-end-to-endless-war)
+- [Turkey’s protests over Istanbul mayor grow into ‘fight about democracy’](https://www.theguardian.com/world/2025/mar/22/turkey-protests-istanbul-mayor-grow-into-fight-about-democracy)
+- [The edit: 15 of the best fleeces – in pictures](https://www.theguardian.com/fashion/gallery/2025/mar/22/the-edit-15-of-the-best-fleeces-in-pictures)
+- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2025/mar/22/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Wales sink Kazakhstan to get World Cup campaign up and running](https://www.theguardian.com/football/2025/mar/22/wales-kazakhstan-world-cup-qualifier-match-report)
+- [Type 2 diabetes increases risk of liver and pancreatic cancers, study shows](https://www.theguardian.com/society/2025/mar/22/type-2-diabetes-increases-risk-of-liver-and-pancreatic-cancers-study-shows)
+- [Heavy showers, hail and thunder forecast to hit UK](https://www.theguardian.com/uk-news/2025/mar/22/heavy-showers-hail-and-thunder-forecast-to-hit-uk)
+- [United pilot attacked passenger for taking too long in the bathroom, lawsuit alleges](https://www.theguardian.com/us-news/2025/mar/22/united-pilot-attacks-passenger)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

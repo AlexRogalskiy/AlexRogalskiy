@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Stop using the elbow criterion for k-means](https://arxiv.org/abs/2212.12189)
-- [Custom VC-Focused Emacs Functions to Enhance My Git Workflow](https://www.rahuljuliato.com/posts/vc-git-functions)
-- [Siege of Syracuse &lpar;212 BC&rpar;: Roman General vs. Greek Genius Archimedes](https://www.historynet.com/the-siege-of-syracuse-a-roman-general-vs-a-greek-genius/)
-- [The Role of Close-Packed Polymer Bead Monolayers for Energy Harvesters](https://onlinelibrary.wiley.com/doi/10.1002/smll.202410155)
-- [Timelines for migration to post-quantum cryptography](https://www.ncsc.gov.uk/guidance/pqc-migration-timelines)
-- [One Man&#39;s Crypto Windfall Is Funding a $1B Space Station Dream](https://www.bloomberg.com/news/features/2025-03-20/crypto-windfall-is-funding-vast-s-space-station-ambitions)
-- [Abusive user relationships in open source &lpar;2019&rpar;](https://brokenco.de/2019/02/23/open-source-sucks.html)
-- [Amateur Radio Operators &lpar;Hams&rpar; who communicate through non-commercial satellites](https://www.amsat.org/amsat-history/)
-- [All Clothing Is Handmade &lpar;2022&rpar;](https://ruthtillman.com/post/all-clothing-is-handmade/)
-- [Can AI Compress Like a Genius?](https://arxiv.org/abs/2503.13992)
+- [A Linux laptop with a brilliant display and performance](https://www.zdnet.com/article/finally-a-linux-laptop-with-a-brilliant-display-and-performance-that-rivals-my-macbook/)
+- [CSS Animation with Offset-Path](https://yuanchuan.dev/css-animation-with-offset-path)
+- [Ultima III for the Vic-20](https://vic20ultima3.wordpress.com/)
+- [Careless People](https://ar.al/2025/03/21/careless-people/)
+- [&quot;The bargain we are being asked to ratify&quot; – AI as technological bribery](https://librarianshipwreck.wordpress.com/2025/03/02/the-bargain-we-are-being-asked-to-ratify-ai-as-technological-bribery/)
+- [Ask HN: What&#39;s the quickest way to build a landing page?](https://news.ycombinator.com/item?id=43457402)
+- [Open Source Prompt Optimizer](https://github.com/linshenkx/prompt-optimizer)
+- [Founder Feedback Request – PetCloud Post a Pet Job](https://www.petcloud.com.au/guest/post-a-job)
+- [Nearly 100% of Lithium Recycled in Latest EV Battery Breakthrough](https://insideevs.com/news/754036/ev-battery-100-percent-lithium-recycled/)
+- [Platypus Diet and Food Consumption](https://platypus.asn.au/platypus-diet-and-food-consumption/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

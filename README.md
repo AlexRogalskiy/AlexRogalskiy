@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Domu Technology Inc. &lpar;YC S24&rpar; Is Hiring a Vibe Coder](https://www.ycombinator.com/companies/domu-technology-inc/jobs/hwWsGdU-vibe-coder-ai-engineer)
-- [The Vectrex Computer](https://www.amigalove.com/viewtopic.php?t=2887)
-- [Next.js version 15.2.3 has been released to address a security vulnerability](https://nextjs.org/blog/cve-2025-29927)
-- [Quitting an Intel x86 Hypervisor](https://halobates.de/blog/p/446)
-- [Mathematical Methods for Physics [pdf]](https://www.ma.imperial.ac.uk/~dturaev/Mathematical_Methods2021.pdf)
-- [Italy demands Google poison DNS under strict Piracy Shield law](https://arstechnica.com/gadgets/2025/03/italian-court-orders-google-to-block-iptv-pirate-sites-at-dns-level/)
-- [NixOS and reproducible builds could have detected the xz backdoor](https://luj.fr/blog/how-nixos-could-have-detected-xz.html)
-- [The polar vortex is hitting the brakes](https://www.climate.gov/news-features/blogs/polar-vortex/polar-vortex-hitting-brakes)
-- [California Attorney General issues consumer alert for 23andMe customers](https://oag.ca.gov/news/press-releases/attorney-general-bonta-urgently-issues-consumer-alert-23andme-customers)
-- [Map Features in OpenStreetMap with Computer Vision](https://blog.mozilla.ai/map-features-in-openstreetmap-with-computer-vision/)
+- [The Vatican&#39;s Latinist: On the Career of Reginald Foster. &lpar;2017&rpar;](https://newcriterion.com/article/the-vaticans-latinist/)
+- [Quadlet: Running Podman containers under systemd](https://mo8it.com/blog/quadlet/)
+- [English Scientists Develop Fast, High-Quality AI Weather Model for Desktops](https://www.turing.ac.uk/blog/project-aardvark-reimagining-ai-weather-prediction)
+- [Shift-to-Middle Array: A Faster Alternative to Std:Deque?](https://github.com/attilatorda/Shift-To-Middle_Array)
+- [RDNA 4&#39;s “Out-of-Order” Memory Accesses](https://chipsandcheese.com/p/rdna-4s-out-of-order-memory-accesses)
+- [Show HN: My iOS app to practice sight reading &lpar;10 years in the App Store&rpar;](https://apps.apple.com/us/app/notes-sight-reading-trainer/id874386416)
+- [Play the Virtual Organ from Arp Schnitger](https://www.orgelstadt-hamburg.de/play-arp/)
+- [The Compressed Book Edition](https://solar.lowtechmagazine.com/2025/03/the-compressed-book-edition/)
+- [Modern Realty &lpar;YC S24&rpar; Is Hiring](https://www.workatastartup.com/jobs/66546)
+- [A Brief History of the Miracle Bacterium](https://www.asimov.press/p/miracle-bacterium)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

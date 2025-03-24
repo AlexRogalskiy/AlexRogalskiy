@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine war briefing: Russia launches deadly drone assault on Kyiv](https://www.theguardian.com/world/2025/mar/23/ukraine-war-briefing-russia-launches-drone-attacks-on-kyiv)
-- [New Zealand v Australia: second women’s T20 international – live](https://www.theguardian.com/sport/live/2025/mar/23/new-zealand-vs-australia-womens-t20-cricket-live-updates-scores-results-start-time-bay-oval)
-- [Israel strikes southern Lebanon and Gaza amid calls for halt to ‘endless war’](https://www.theguardian.com/world/2025/mar/22/israel-strikes-southern-lebanon-amid-calls-for-end-to-endless-war)
-- [Turkey’s protests over Istanbul mayor grow into ‘fight about democracy’](https://www.theguardian.com/world/2025/mar/22/turkey-protests-istanbul-mayor-grow-into-fight-about-democracy)
-- [The edit: 15 of the best fleeces – in pictures](https://www.theguardian.com/fashion/gallery/2025/mar/22/the-edit-15-of-the-best-fleeces-in-pictures)
-- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2025/mar/22/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Wales sink Kazakhstan to get World Cup campaign up and running](https://www.theguardian.com/football/2025/mar/22/wales-kazakhstan-world-cup-qualifier-match-report)
-- [Type 2 diabetes increases risk of liver and pancreatic cancers, study shows](https://www.theguardian.com/society/2025/mar/22/type-2-diabetes-increases-risk-of-liver-and-pancreatic-cancers-study-shows)
-- [Heavy showers, hail and thunder forecast to hit UK](https://www.theguardian.com/uk-news/2025/mar/22/heavy-showers-hail-and-thunder-forecast-to-hit-uk)
-- [United pilot attacked passenger for taking too long in the bathroom, lawsuit alleges](https://www.theguardian.com/us-news/2025/mar/22/united-pilot-attacks-passenger)
+- [Ukraine war briefing: US seeking Black Sea ceasefire in talks with Russia in Saudi Arabia](https://www.theguardian.com/world/2025/mar/24/ukraine-war-briefing-us-seeking-black-sea-ceasefire-in-talks-with-russia-in-saudi-arabia)
+- [Anger in Greenland over visits this week by Usha Vance and Mike Waltz](https://www.theguardian.com/world/2025/mar/24/greenland-usha-vance-mike-waltz-visit-anger)
+- [Tiger Woods confirms relationship with Donald Trump’s former daughter-in-law](https://www.theguardian.com/sport/2025/mar/23/tiger-woods-vanessa-trump-relationship)
+- [Emma Raducanu races through in Miami Open as Kessler pulls out injured](https://www.theguardian.com/sport/2025/mar/23/iga-swiatek-elise-mertens-emma-raducanu-miami-open-jack-draper-tennis)
+- [Friendships that bridge wealth divides help social mobility, study finds](https://www.theguardian.com/society/2025/mar/24/friendships-that-bridge-wealth-divides-help-social-mobility-study-finds)
+- [Sobering news: pubs say average cost of a pint will rise above £5](https://www.theguardian.com/business/2025/mar/24/sobering-news-pubs-say-average-cost-of-a-pint-will-rise-above-5)
+- [Three wildfires burn more than 3,300 acres in North and South Carolina](https://www.theguardian.com/us-news/2025/mar/23/north-south-carolina-wildfires)
+- [Israeli strike at Gaza hospital kills five including Hamas political leader](https://www.theguardian.com/world/2025/mar/23/israeli-strike-at-gaza-hospital-kills-five-including-hamas-political-leader)
+- [Nations League roundup: Trincão and Ronaldo fire Portugal into semi-finals](https://www.theguardian.com/football/2025/mar/23/nations-league-roundup-germany-italy-republic-of-ireland-bulgaria)
+- [National Grid boss says Heathrow could have stayed open despite substation fire](https://www.theguardian.com/uk-news/2025/mar/23/national-grid-boss-says-there-was-power-to-run-heathrow-during-shutdown)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

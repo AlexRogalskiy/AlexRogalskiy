@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [A Linux laptop with a brilliant display and performance](https://www.zdnet.com/article/finally-a-linux-laptop-with-a-brilliant-display-and-performance-that-rivals-my-macbook/)
-- [CSS Animation with Offset-Path](https://yuanchuan.dev/css-animation-with-offset-path)
-- [Ultima III for the Vic-20](https://vic20ultima3.wordpress.com/)
-- [Careless People](https://ar.al/2025/03/21/careless-people/)
-- [&quot;The bargain we are being asked to ratify&quot; – AI as technological bribery](https://librarianshipwreck.wordpress.com/2025/03/02/the-bargain-we-are-being-asked-to-ratify-ai-as-technological-bribery/)
-- [Ask HN: What&#39;s the quickest way to build a landing page?](https://news.ycombinator.com/item?id=43457402)
-- [Open Source Prompt Optimizer](https://github.com/linshenkx/prompt-optimizer)
-- [Founder Feedback Request – PetCloud Post a Pet Job](https://www.petcloud.com.au/guest/post-a-job)
-- [Nearly 100% of Lithium Recycled in Latest EV Battery Breakthrough](https://insideevs.com/news/754036/ev-battery-100-percent-lithium-recycled/)
-- [Platypus Diet and Food Consumption](https://platypus.asn.au/platypus-diet-and-food-consumption/)
+- [The Man Who Can&#39;t Stop Founding Budget Airlines](https://www.wsj.com/business/airlines/jetblue-founder-breeze-airways-neeleman-southwest-bff144b8)
+- [Ask HN: How do you propose to rebuild industry in a post-apocalypse world?](https://news.ycombinator.com/item?id=43467649)
+- [Overdue library book returned 98 years later](https://www.wvxu.org/local-news/2025-03-21/cincinnati-library-book-returned-century-98-years-overdue-wvxu)
+- [Post Apocalyptic Computing](https://thomashunter.name/posts/2025-03-23-post-apocalyptic-computing)
+- [Ask HN: Why does MongoDB remain a popular choice?](https://news.ycombinator.com/item?id=43467612)
+- [Explore the Copernicus Data Space Ecosystem – Europe&#39;s Eyes on Earth](https://dataspace.copernicus.eu/)
+- [An Introduction to Forensic Metascience](https://jamesheathers.curve.space/)
+- [Open source AI agent helper to let it SEE what its doing](https://github.com/monteslu/vibe-eyes)
+- [Agile is Dead. Liquid is Here](https://tsatg.substack.com/)
+- [Who pays the cost of progress in software?](https://www.earth.li/~noodles/blog/2025/03/the-cost-of-software-progress.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

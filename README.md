@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The Vatican&#39;s Latinist: On the Career of Reginald Foster. &lpar;2017&rpar;](https://newcriterion.com/article/the-vaticans-latinist/)
-- [Quadlet: Running Podman containers under systemd](https://mo8it.com/blog/quadlet/)
-- [English Scientists Develop Fast, High-Quality AI Weather Model for Desktops](https://www.turing.ac.uk/blog/project-aardvark-reimagining-ai-weather-prediction)
-- [Shift-to-Middle Array: A Faster Alternative to Std:Deque?](https://github.com/attilatorda/Shift-To-Middle_Array)
-- [RDNA 4&#39;s “Out-of-Order” Memory Accesses](https://chipsandcheese.com/p/rdna-4s-out-of-order-memory-accesses)
-- [Show HN: My iOS app to practice sight reading &lpar;10 years in the App Store&rpar;](https://apps.apple.com/us/app/notes-sight-reading-trainer/id874386416)
-- [Play the Virtual Organ from Arp Schnitger](https://www.orgelstadt-hamburg.de/play-arp/)
-- [The Compressed Book Edition](https://solar.lowtechmagazine.com/2025/03/the-compressed-book-edition/)
-- [Modern Realty &lpar;YC S24&rpar; Is Hiring](https://www.workatastartup.com/jobs/66546)
-- [A Brief History of the Miracle Bacterium](https://www.asimov.press/p/miracle-bacterium)
+- [German parliament votes as a Git contribution graph](https://abstimmung.eu/git/2024)
+- [Gatehouse – a composable, async-friendly authorization policy framework in Rust](https://github.com/thepartly/gatehouse)
+- [Three Hundred Years Later, a Tool from Isaac Newton Gets an Update](https://www.quantamagazine.org/three-hundred-years-later-a-tool-from-isaac-newton-gets-an-update-20250324/)
+- [Intel: A Bug and a Pro](https://www.abortretry.fail/p/intel-a-bug-and-a-pro)
+- [Arc-AGI-2 and ARC Prize 2025](https://arcprize.org/blog/announcing-arc-agi-2-and-arc-prize-2025)
+- [It&#39;s Time to Stop Building KV Databases](https://buttondown.com/jaffray/archive/its-time-to-stop-building-kv-databases/)
+- [Peano&#39;s Axioms](https://principlesofcryptography.com/number-theory-primer-an-axiomatic-study-of-natural-numbers-peano-axioms/)
+- [Qwen2.5-VL-32B: Smarter and Lighter](https://qwenlm.github.io/blog/qwen2.5-vl-32b/)
+- [I won&#39;t connect my dishwasher to your cloud](https://www.jeffgeerling.com/blog/2025/i-wont-connect-my-dishwasher-your-stupid-cloud)
+- [Project Operation Whitecoat &lpar;2010&rpar;](https://scholarworks.lib.csusb.edu/cgi/viewcontent.cgi?article=1201&context=history-in-the-making)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

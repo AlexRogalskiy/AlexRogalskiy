@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine war briefing: US seeking Black Sea ceasefire in talks with Russia in Saudi Arabia](https://www.theguardian.com/world/2025/mar/24/ukraine-war-briefing-us-seeking-black-sea-ceasefire-in-talks-with-russia-in-saudi-arabia)
-- [Anger in Greenland over visits this week by Usha Vance and Mike Waltz](https://www.theguardian.com/world/2025/mar/24/greenland-usha-vance-mike-waltz-visit-anger)
-- [Tiger Woods confirms relationship with Donald Trump’s former daughter-in-law](https://www.theguardian.com/sport/2025/mar/23/tiger-woods-vanessa-trump-relationship)
-- [Emma Raducanu races through in Miami Open as Kessler pulls out injured](https://www.theguardian.com/sport/2025/mar/23/iga-swiatek-elise-mertens-emma-raducanu-miami-open-jack-draper-tennis)
-- [Friendships that bridge wealth divides help social mobility, study finds](https://www.theguardian.com/society/2025/mar/24/friendships-that-bridge-wealth-divides-help-social-mobility-study-finds)
-- [Sobering news: pubs say average cost of a pint will rise above £5](https://www.theguardian.com/business/2025/mar/24/sobering-news-pubs-say-average-cost-of-a-pint-will-rise-above-5)
-- [Three wildfires burn more than 3,300 acres in North and South Carolina](https://www.theguardian.com/us-news/2025/mar/23/north-south-carolina-wildfires)
-- [Israeli strike at Gaza hospital kills five including Hamas political leader](https://www.theguardian.com/world/2025/mar/23/israeli-strike-at-gaza-hospital-kills-five-including-hamas-political-leader)
-- [Nations League roundup: Trincão and Ronaldo fire Portugal into semi-finals](https://www.theguardian.com/football/2025/mar/23/nations-league-roundup-germany-italy-republic-of-ireland-bulgaria)
-- [National Grid boss says Heathrow could have stayed open despite substation fire](https://www.theguardian.com/uk-news/2025/mar/23/national-grid-boss-says-there-was-power-to-run-heathrow-during-shutdown)
+- [Ukraine war briefing: Belgorod strike ‘destroys four Russian helicopters’](https://www.theguardian.com/world/2025/mar/25/ukraine-war-briefing-belgorod-strike-destroys-four-russian-helicopters)
+- [Outrage after White House accidentally texts journalist war plans: ‘Huge screw-up’](https://www.theguardian.com/us-news/2025/mar/24/journalist-trump-yemen-war-chat-reaction)
+- [Guardian writers Barney Ronay, Donald McRae and Suzanne Wrack win at SJA awards](https://www.theguardian.com/sport/2025/mar/25/guardian-writers-barney-ronay-suzanne-wrack-donald-mcrae-win-sja-awards)
+- [Domestic abusers driving more victims to suicide, warn police](https://www.theguardian.com/society/2025/mar/25/domestic-abusers-driving-more-victims-to-suicide-warn-police)
+- [Reeves to put £2bn into affordable housing to ‘sweeten the pill’ of cuts](https://www.theguardian.com/uk-news/2025/mar/25/reeves-to-put-2bn-into-affordable-housing-to-sweeten-the-pill-of-cuts)
+- [City watchdog ponders rule changes to simplify comparisons of financial products](https://www.theguardian.com/business/2025/mar/25/city-watchdog-ponders-rule-changes-to-simplify-comparisons-of-financial-products)
+- [Thomas Tuchel admits he took off Jude Bellingham as he was a red card ‘risk’](https://www.theguardian.com/football/2025/mar/24/thomas-tuchel-jude-bellingham-red-card-risk-england-latvia)
+- [Airlines could take legal action over Heathrow shutdown](https://www.theguardian.com/uk-news/2025/mar/24/airlines-could-take-legal-action-over-heathrow-shutdown)
+- [Love and Loss: The Pandemic 5 Years On review – is it time to wake up from this collective amnesia?](https://www.theguardian.com/tv-and-radio/2025/mar/24/love-and-loss-the-pandemic-5-years-on-review-is-it-time-to-wake-up-from-this-collective-amnesia)
+- [Ukraine accuses Moscow of ‘hollow statements about peace’ after latest attack](https://www.theguardian.com/world/2025/mar/24/ukraine-accuses-moscow-of-hollow-statements-about-peace-after-latest-attack)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Man Who Can&#39;t Stop Founding Budget Airlines](https://www.wsj.com/business/airlines/jetblue-founder-breeze-airways-neeleman-southwest-bff144b8)
-- [Ask HN: How do you propose to rebuild industry in a post-apocalypse world?](https://news.ycombinator.com/item?id=43467649)
-- [Overdue library book returned 98 years later](https://www.wvxu.org/local-news/2025-03-21/cincinnati-library-book-returned-century-98-years-overdue-wvxu)
-- [Post Apocalyptic Computing](https://thomashunter.name/posts/2025-03-23-post-apocalyptic-computing)
-- [Ask HN: Why does MongoDB remain a popular choice?](https://news.ycombinator.com/item?id=43467612)
-- [Explore the Copernicus Data Space Ecosystem – Europe&#39;s Eyes on Earth](https://dataspace.copernicus.eu/)
-- [An Introduction to Forensic Metascience](https://jamesheathers.curve.space/)
-- [Open source AI agent helper to let it SEE what its doing](https://github.com/monteslu/vibe-eyes)
-- [Agile is Dead. Liquid is Here](https://tsatg.substack.com/)
-- [Who pays the cost of progress in software?](https://www.earth.li/~noodles/blog/2025/03/the-cost-of-software-progress.html)
+- [In broad daylight: Uyghur forced labour in global solar supply chains](https://shura.shu.ac.uk/29640/)
+- [Managing Technical Quality in a Codebase &lpar;2020&rpar;](https://lethain.com/managing-technical-quality/)
+- [Online Casinos That Can Operate as Long as They Say They Aren&#39;t Casinos](https://www.nytimes.com/2025/03/23/upshot/online-casinos-sweepstakes-gambling.html)
+- [How to operate large CSV files with esProc SPL](https://c.esproc.com/article/1742004791742?p=1&m=0)
+- [I bought a laptop. How much is this configuration worth in USD?](https://news.ycombinator.com/item?id=43478297)
+- [Sail MCP Server: Spark Analytics for LLM Agents](https://lakesail.com/blog/spark-mcp-server/)
+- [RISC Architecture Really Did Change Everything](https://www.wired.com/story/angelina-jolie-was-right-about-risc-architecture/)
+- [The surreal joy of having an overprovisioned homelab](https://xeiaso.net/talks/2025/surreal-joy-homelab/)
+- [AlphaXiv Wants to Be the Public Square for Scientific Discourse](https://spectrum.ieee.org/alphaxiv)
+- [Napster Is Still Worth $200M in 2025, for Some Reason](https://gizmodo.com/napster-is-still-worth-200-million-in-2025-for-some-reason-2000580536)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

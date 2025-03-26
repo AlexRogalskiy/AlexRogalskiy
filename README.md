@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [German parliament votes as a Git contribution graph](https://abstimmung.eu/git/2024)
-- [Gatehouse – a composable, async-friendly authorization policy framework in Rust](https://github.com/thepartly/gatehouse)
-- [Three Hundred Years Later, a Tool from Isaac Newton Gets an Update](https://www.quantamagazine.org/three-hundred-years-later-a-tool-from-isaac-newton-gets-an-update-20250324/)
-- [Intel: A Bug and a Pro](https://www.abortretry.fail/p/intel-a-bug-and-a-pro)
-- [Arc-AGI-2 and ARC Prize 2025](https://arcprize.org/blog/announcing-arc-agi-2-and-arc-prize-2025)
-- [It&#39;s Time to Stop Building KV Databases](https://buttondown.com/jaffray/archive/its-time-to-stop-building-kv-databases/)
-- [Peano&#39;s Axioms](https://principlesofcryptography.com/number-theory-primer-an-axiomatic-study-of-natural-numbers-peano-axioms/)
-- [Qwen2.5-VL-32B: Smarter and Lighter](https://qwenlm.github.io/blog/qwen2.5-vl-32b/)
-- [I won&#39;t connect my dishwasher to your cloud](https://www.jeffgeerling.com/blog/2025/i-wont-connect-my-dishwasher-your-stupid-cloud)
-- [Project Operation Whitecoat &lpar;2010&rpar;](https://scholarworks.lib.csusb.edu/cgi/viewcontent.cgi?article=1201&context=history-in-the-making)
+- [CIA Director Reveals Signal Comes Installed on Agency Computers](https://theintercept.com/2025/03/25/signal-chat-encryption-hegseth-cia/)
+- [OpenSMTPD and Maildrop working in concert](http://blog.whenhen.com/posts/opensmtpd-and-maildrop-working-in-concert.html)
+- [You might want to stop running atop](https://rachelbythebay.com/w/2025/03/25/atop/)
+- [Better Shell History Search](https://tratt.net/laurie/blog/2025/better_shell_history_search.html)
+- [Devs say AI crawlers dominate traffic, forcing blocks on entire countries](https://arstechnica.com/ai/2025/03/devs-say-ai-crawlers-dominate-traffic-forcing-blocks-on-entire-countries/)
+- [Sell yourself, sell your work](https://www.solipsys.co.uk/new/SellYourselfSellYourWork.html?yc25hn)
+- [Optimizing ML training with metagradient descent](https://arxiv.org/abs/2503.13751)
+- [The highest-ranking personal blogs of Hacker News](https://refactoringenglish.com/tools/hn-popularity/)
+- [4o Image Generation](https://openai.com/index/introducing-4o-image-generation/)
+- [Whose code am I running in GitHub Actions?](https://alexwlchan.net/2025/github-actions-audit/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

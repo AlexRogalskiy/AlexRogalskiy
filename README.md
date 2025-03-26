@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine war briefing: Belgorod strike ‘destroys four Russian helicopters’](https://www.theguardian.com/world/2025/mar/25/ukraine-war-briefing-belgorod-strike-destroys-four-russian-helicopters)
-- [Outrage after White House accidentally texts journalist war plans: ‘Huge screw-up’](https://www.theguardian.com/us-news/2025/mar/24/journalist-trump-yemen-war-chat-reaction)
-- [Guardian writers Barney Ronay, Donald McRae and Suzanne Wrack win at SJA awards](https://www.theguardian.com/sport/2025/mar/25/guardian-writers-barney-ronay-suzanne-wrack-donald-mcrae-win-sja-awards)
-- [Domestic abusers driving more victims to suicide, warn police](https://www.theguardian.com/society/2025/mar/25/domestic-abusers-driving-more-victims-to-suicide-warn-police)
-- [Reeves to put £2bn into affordable housing to ‘sweeten the pill’ of cuts](https://www.theguardian.com/uk-news/2025/mar/25/reeves-to-put-2bn-into-affordable-housing-to-sweeten-the-pill-of-cuts)
-- [City watchdog ponders rule changes to simplify comparisons of financial products](https://www.theguardian.com/business/2025/mar/25/city-watchdog-ponders-rule-changes-to-simplify-comparisons-of-financial-products)
-- [Thomas Tuchel admits he took off Jude Bellingham as he was a red card ‘risk’](https://www.theguardian.com/football/2025/mar/24/thomas-tuchel-jude-bellingham-red-card-risk-england-latvia)
-- [Airlines could take legal action over Heathrow shutdown](https://www.theguardian.com/uk-news/2025/mar/24/airlines-could-take-legal-action-over-heathrow-shutdown)
-- [Love and Loss: The Pandemic 5 Years On review – is it time to wake up from this collective amnesia?](https://www.theguardian.com/tv-and-radio/2025/mar/24/love-and-loss-the-pandemic-5-years-on-review-is-it-time-to-wake-up-from-this-collective-amnesia)
-- [Ukraine accuses Moscow of ‘hollow statements about peace’ after latest attack](https://www.theguardian.com/world/2025/mar/24/ukraine-accuses-moscow-of-hollow-statements-about-peace-after-latest-attack)
+- [Experts ‘amazed’ at survival of miniature dachshund on the run on South Australian island for more than a year](https://www.theguardian.com/australia-news/2025/mar/26/miniature-dachshund-valerie-lost-kangaroo-island-south-australia-found-alive)
+- [Wong calls ‘reprehensible’ letter targeting Hong Kong activist in Australia a ‘threat to national sovereignty’](https://www.theguardian.com/australia-news/2025/mar/26/ted-hui-hong-kong-activist-in-australia-targeted-with-letter-offering-reward-for-information-about-his-family-ntwnfb)
+- [Mike Waltz claims ‘full responsibility’ for Signal chat group leaked to journalist](https://www.theguardian.com/us-news/2025/mar/25/mike-waltz-yemen-plans-breach-signal-group)
+- [The Residence: new Netflix series proves the US is weirdly obsessed with Aussie culture](https://www.theguardian.com/tv-and-radio/2025/mar/26/the-residence-netflix-series-australia)
+- [Russia and Ukraine agree to ‘eliminate the use of force’ in Black Sea](https://www.theguardian.com/world/2025/mar/25/russia-and-ukraine-agree-ceasefire-in-black-sea)
+- [South Korea fires: 18 dead as acting president speaks of ‘unprecedented damage’](https://www.theguardian.com/world/2025/mar/26/south-korea-fires-andong-city-death-toll)
+- [Three-quarters of UK fertility patients using unproven add-on treatments](https://www.theguardian.com/society/2025/mar/26/three-quarters-of-uk-fertility-patients-using-unproven-add-on-treatments)
+- [Government AI roll-outs threatened by outdated IT systems](https://www.theguardian.com/technology/2025/mar/26/government-ai-roll-outs-threatened-by-outdated-it-systems)
+- [Wigmore Hall says it no longer requires public funding](https://www.theguardian.com/music/2025/mar/26/wigmore-hall-london-public-funding-arts-council)
+- [José María Velasco review – proudly dull Mexican was wasted in wonderland](https://www.theguardian.com/artanddesign/2025/mar/26/jose-maria-velasco-review-mexican-wonderland-rocky)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [CIA Director Reveals Signal Comes Installed on Agency Computers](https://theintercept.com/2025/03/25/signal-chat-encryption-hegseth-cia/)
-- [OpenSMTPD and Maildrop working in concert](http://blog.whenhen.com/posts/opensmtpd-and-maildrop-working-in-concert.html)
-- [You might want to stop running atop](https://rachelbythebay.com/w/2025/03/25/atop/)
-- [Better Shell History Search](https://tratt.net/laurie/blog/2025/better_shell_history_search.html)
-- [Devs say AI crawlers dominate traffic, forcing blocks on entire countries](https://arstechnica.com/ai/2025/03/devs-say-ai-crawlers-dominate-traffic-forcing-blocks-on-entire-countries/)
-- [Sell yourself, sell your work](https://www.solipsys.co.uk/new/SellYourselfSellYourWork.html?yc25hn)
-- [Optimizing ML training with metagradient descent](https://arxiv.org/abs/2503.13751)
-- [The highest-ranking personal blogs of Hacker News](https://refactoringenglish.com/tools/hn-popularity/)
-- [4o Image Generation](https://openai.com/index/introducing-4o-image-generation/)
-- [Whose code am I running in GitHub Actions?](https://alexwlchan.net/2025/github-actions-audit/)
+- [DJ With Apple Music launches to enable subscribers to mix their own sets](https://www.musicweek.com/digital/read/dj-with-apple-music-launches-to-enable-subscribers-to-mix-their-own-sets/091655)
+- [Europen Union creates Fedora-based Linux distribution for the public sector](https://www.linuxjournal.com/content/eu-os-bold-step-toward-digital-sovereignty-europe)
+- [Cilium eBPF-Go on Windows](https://ebpf-go.dev/contributing/windows/)
+- [The mysterious flow of fluid in the brain](https://www.quantamagazine.org/the-mysterious-flow-of-fluid-in-the-brain-20250326/)
+- [Blender releases their Oscar winning version tool](https://www.blender.org/download/releases/4-4/)
+- [Building a Linux Container Runtime from Scratch](https://edera.dev/stories/styrolite)
+- [Oracle customers confirm data stolen in alleged cloud breach is valid](https://www.bleepingcomputer.com/news/security/oracle-customers-confirm-data-stolen-in-alleged-cloud-breach-is-valid/)
+- [Building a Firecracker-Powered Course Platform to Learn Docker and Kubernetes](https://iximiuz.com/en/posts/iximiuz-labs-story/)
+- [How to Delete Your 23andMe Data](https://www.eff.org/deeplinks/2025/03/how-delete-your-23andme-data)
+- [Problems with the heap](https://rachelbythebay.com/w/2025/03/26/atop/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

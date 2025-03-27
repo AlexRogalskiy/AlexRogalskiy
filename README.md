@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [In broad daylight: Uyghur forced labour in global solar supply chains](https://shura.shu.ac.uk/29640/)
-- [Managing Technical Quality in a Codebase &lpar;2020&rpar;](https://lethain.com/managing-technical-quality/)
-- [Online Casinos That Can Operate as Long as They Say They Aren&#39;t Casinos](https://www.nytimes.com/2025/03/23/upshot/online-casinos-sweepstakes-gambling.html)
-- [How to operate large CSV files with esProc SPL](https://c.esproc.com/article/1742004791742?p=1&m=0)
-- [I bought a laptop. How much is this configuration worth in USD?](https://news.ycombinator.com/item?id=43478297)
-- [Sail MCP Server: Spark Analytics for LLM Agents](https://lakesail.com/blog/spark-mcp-server/)
-- [RISC Architecture Really Did Change Everything](https://www.wired.com/story/angelina-jolie-was-right-about-risc-architecture/)
-- [The surreal joy of having an overprovisioned homelab](https://xeiaso.net/talks/2025/surreal-joy-homelab/)
-- [AlphaXiv Wants to Be the Public Square for Scientific Discourse](https://spectrum.ieee.org/alphaxiv)
-- [Napster Is Still Worth $200M in 2025, for Some Reason](https://gizmodo.com/napster-is-still-worth-200-million-in-2025-for-some-reason-2000580536)
+- [Laser Strikes on Aircraft Continue to Be Dangerously High](https://www.faa.gov/about/initiatives/lasers)
+- [How migrating birds use quantum mechanics to navigate](https://www.theguardian.com/science/2025/mar/23/they-have-no-one-to-follow-how-migrating-birds-use-quantum-mechanics-to-navigate)
+- [Tim Ferriss: What Might This Look Like If It Were Easy?](https://twitter.com/tferriss/status/1904935818575180273)
+- [First C compiler source code from 1972](https://github.com/mortdeus/legacy-cc/tree/master/last1120c)
+- [The JPMC/Quantinuum certified quantum randomness demo](https://scottaaronson.blog/?p=8746)
+- [Microsoft Abandons More Data Center Projects](https://www.datacenterknowledge.com/investing/microsoft-abandons-more-data-center-projects-td-cowen-says)
+- [Rogue is the Best Project &lpar;2004&rpar;](https://learncodethehardway.com/blog/33-rogue-is-the-best-beginner-project/)
+- [An idea evaluator so that you don&#39;t waste your life building a garbage product](https://www.bigideasdb.com/free-tools/idea-evaluator)
+- [Canada Spends: Get the Facts About Government Spending](https://canadaspends.com/spending)
+- [Ask HN: Has anyone moved away from Mac?](https://news.ycombinator.com/item?id=43489726)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

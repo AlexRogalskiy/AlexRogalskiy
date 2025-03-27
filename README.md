@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Experts ‘amazed’ at survival of miniature dachshund on the run on South Australian island for more than a year](https://www.theguardian.com/australia-news/2025/mar/26/miniature-dachshund-valerie-lost-kangaroo-island-south-australia-found-alive)
-- [Wong calls ‘reprehensible’ letter targeting Hong Kong activist in Australia a ‘threat to national sovereignty’](https://www.theguardian.com/australia-news/2025/mar/26/ted-hui-hong-kong-activist-in-australia-targeted-with-letter-offering-reward-for-information-about-his-family-ntwnfb)
-- [Mike Waltz claims ‘full responsibility’ for Signal chat group leaked to journalist](https://www.theguardian.com/us-news/2025/mar/25/mike-waltz-yemen-plans-breach-signal-group)
-- [The Residence: new Netflix series proves the US is weirdly obsessed with Aussie culture](https://www.theguardian.com/tv-and-radio/2025/mar/26/the-residence-netflix-series-australia)
-- [Russia and Ukraine agree to ‘eliminate the use of force’ in Black Sea](https://www.theguardian.com/world/2025/mar/25/russia-and-ukraine-agree-ceasefire-in-black-sea)
-- [South Korea fires: 18 dead as acting president speaks of ‘unprecedented damage’](https://www.theguardian.com/world/2025/mar/26/south-korea-fires-andong-city-death-toll)
-- [Three-quarters of UK fertility patients using unproven add-on treatments](https://www.theguardian.com/society/2025/mar/26/three-quarters-of-uk-fertility-patients-using-unproven-add-on-treatments)
-- [Government AI roll-outs threatened by outdated IT systems](https://www.theguardian.com/technology/2025/mar/26/government-ai-roll-outs-threatened-by-outdated-it-systems)
-- [Wigmore Hall says it no longer requires public funding](https://www.theguardian.com/music/2025/mar/26/wigmore-hall-london-public-funding-arts-council)
-- [José María Velasco review – proudly dull Mexican was wasted in wonderland](https://www.theguardian.com/artanddesign/2025/mar/26/jose-maria-velasco-review-mexican-wonderland-rocky)
+- [Donald Trump announces new 25% tariffs on cars from overseas](https://www.theguardian.com/us-news/2025/mar/26/trump-new-car-tariffs)
+- [PM expected to call Australian election on Friday morning with poll likely to be held in early May](https://www.theguardian.com/australia-news/2025/mar/27/pm-expected-to-call-australian-election-2025-for-may-poll)
+- [Ukraine war briefing: Russia desires war while Ukrainians ‘take risk of peace’, says Macron](https://www.theguardian.com/world/2025/mar/27/ukraine-war-briefing-russia-desires-war-while-ukrainians-take-risk-of-peace-says-macron)
+- [Fake dolphins and frantic digging: the army of helpers learning to rescue New Zealand’s stranded whales](https://www.theguardian.com/world/2025/mar/27/fake-dolphins-and-frantic-digging-the-army-of-helpers-learning-to-rescue-new-zealands-stranded-whales)
+- [Police to block ‘intimidating’ protests near places of worship, says Home Office](https://www.theguardian.com/uk-news/2025/mar/27/police-to-block-intimidating-protests-near-places-of-worship-says-home-office)
+- [Major UK investors join push for retail giants to pay workers ‘real living wage’](https://www.theguardian.com/society/2025/mar/27/major-uk-investors-join-push-for-retail-giants-to-pay-workers-real-living-wage)
+- [Police in England, Wales and NI too overworked to investigate crimes properly – report](https://www.theguardian.com/uk-news/2025/mar/27/police-too-overworked-to-investigate-crimes-properly-england-wales-northern-ireland)
+- [Pizzas, iPads and praise stamps: pupils reap rewards for attending school](https://www.theguardian.com/education/2025/mar/27/ipads-pizzas-praise-stamps-pupils-rewards-boost-school-attendance)
+- [Aid cuts predicted to cause 2.9 million more HIV-related deaths by 2030 – study](https://www.theguardian.com/global-development/2025/mar/26/aid-cuts-pepfar-epidemic-prediction-cause-29-million-more-hiv-related-deaths-by-2030-lancet-study)
+- [Israeli politicians sign letter urging Australian MPs to dump two-state policy](https://www.theguardian.com/australia-news/2025/mar/27/israeli-politicians-sign-letter-urging-coalition-to-dump-two-state-policy-ntwnfb)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

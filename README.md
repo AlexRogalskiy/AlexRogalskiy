@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Donald Trump announces new 25% tariffs on cars from overseas](https://www.theguardian.com/us-news/2025/mar/26/trump-new-car-tariffs)
-- [PM expected to call Australian election on Friday morning with poll likely to be held in early May](https://www.theguardian.com/australia-news/2025/mar/27/pm-expected-to-call-australian-election-2025-for-may-poll)
-- [Ukraine war briefing: Russia desires war while Ukrainians ‘take risk of peace’, says Macron](https://www.theguardian.com/world/2025/mar/27/ukraine-war-briefing-russia-desires-war-while-ukrainians-take-risk-of-peace-says-macron)
-- [Fake dolphins and frantic digging: the army of helpers learning to rescue New Zealand’s stranded whales](https://www.theguardian.com/world/2025/mar/27/fake-dolphins-and-frantic-digging-the-army-of-helpers-learning-to-rescue-new-zealands-stranded-whales)
-- [Police to block ‘intimidating’ protests near places of worship, says Home Office](https://www.theguardian.com/uk-news/2025/mar/27/police-to-block-intimidating-protests-near-places-of-worship-says-home-office)
-- [Major UK investors join push for retail giants to pay workers ‘real living wage’](https://www.theguardian.com/society/2025/mar/27/major-uk-investors-join-push-for-retail-giants-to-pay-workers-real-living-wage)
-- [Police in England, Wales and NI too overworked to investigate crimes properly – report](https://www.theguardian.com/uk-news/2025/mar/27/police-too-overworked-to-investigate-crimes-properly-england-wales-northern-ireland)
-- [Pizzas, iPads and praise stamps: pupils reap rewards for attending school](https://www.theguardian.com/education/2025/mar/27/ipads-pizzas-praise-stamps-pupils-rewards-boost-school-attendance)
-- [Aid cuts predicted to cause 2.9 million more HIV-related deaths by 2030 – study](https://www.theguardian.com/global-development/2025/mar/26/aid-cuts-pepfar-epidemic-prediction-cause-29-million-more-hiv-related-deaths-by-2030-lancet-study)
-- [Israeli politicians sign letter urging Australian MPs to dump two-state policy](https://www.theguardian.com/australia-news/2025/mar/27/israeli-politicians-sign-letter-urging-coalition-to-dump-two-state-policy-ntwnfb)
+- [Anthony Albanese calls Australian federal election for 3 May](https://www.theguardian.com/australia-news/2025/mar/28/australian-federal-election-date-anthony-albanese-calls-poll-for-3-may)
+- [How do I navigate the fear and anger of this political moment? | Leading questions](https://www.theguardian.com/lifeandstyle/2025/mar/28/how-do-i-navigate-the-fear-and-anger-of-this-political-moment)
+- [End of an era for Canada-US ties, says Carney, as allies worldwide decry Trump’s car tariffs](https://www.theguardian.com/us-news/2025/mar/27/us-allies-worldwide-decry-trump-car-tariffs-and-threaten-retaliation)
+- [No Other Land co-director condemns Academy’s letter to members after Hamdan Ballal attack](https://www.theguardian.com/film/2025/mar/28/no-other-land-co-director-condemns-academys-letter-to-members-after-hamdan-ballal-attack-ntwnfb)
+- [JD Vance to expect frosty reception in Greenland amid diplomatic row](https://www.theguardian.com/world/2025/mar/28/jd-vance-greenland-visit-diplomatic-row)
+- [A pig’s head and decapitated rats: a new era of intimidation dawns for journalists in Indonesia](https://www.theguardian.com/world/2025/mar/28/intimidation-journalists-indonesia-pig-heads-rats)
+- [Littler wins night eight in Newcastle to extend Premier League lead](https://www.theguardian.com/sport/2025/mar/28/luke-littler-premier-league-darts-night-eight-newcastle)
+- [T-level qualifications still less popular and more expensive than BTecs, watchdog finds](https://www.theguardian.com/education/2025/mar/28/t-level-qualifications-still-less-popular-and-more-expensive-than-btecs-watchdog-finds)
+- [Stonewall will fight to ban all LGBT conversion practices, says new chief](https://www.theguardian.com/world/2025/mar/28/stonewall-will-fight-to-ban-all-lgbt-conversion-practices-says-new-chief)
+- [Decline of cash credited for drop in NHS surgery for children swallowing objects](https://www.theguardian.com/society/2025/mar/28/decline-of-cash-credited-for-drop-in-nhs-surgery-for-children-swallowing-objects)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

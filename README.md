@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Laser Strikes on Aircraft Continue to Be Dangerously High](https://www.faa.gov/about/initiatives/lasers)
-- [How migrating birds use quantum mechanics to navigate](https://www.theguardian.com/science/2025/mar/23/they-have-no-one-to-follow-how-migrating-birds-use-quantum-mechanics-to-navigate)
-- [Tim Ferriss: What Might This Look Like If It Were Easy?](https://twitter.com/tferriss/status/1904935818575180273)
-- [First C compiler source code from 1972](https://github.com/mortdeus/legacy-cc/tree/master/last1120c)
-- [The JPMC/Quantinuum certified quantum randomness demo](https://scottaaronson.blog/?p=8746)
-- [Microsoft Abandons More Data Center Projects](https://www.datacenterknowledge.com/investing/microsoft-abandons-more-data-center-projects-td-cowen-says)
-- [Rogue is the Best Project &lpar;2004&rpar;](https://learncodethehardway.com/blog/33-rogue-is-the-best-beginner-project/)
-- [An idea evaluator so that you don&#39;t waste your life building a garbage product](https://www.bigideasdb.com/free-tools/idea-evaluator)
-- [Canada Spends: Get the Facts About Government Spending](https://canadaspends.com/spending)
-- [Ask HN: Has anyone moved away from Mac?](https://news.ycombinator.com/item?id=43489726)
+- [Abel Prize Awarded to Japanese Mathematician Who Abstracted Abstractions](https://www.nytimes.com/2025/03/26/science/abel-prize-math-masaki-kashiwara.html)
+- [How to land a job and master corporate bullsh*t [video]](https://www.youtube.com/watch?v=QxDlBHYNQcI)
+- [Why doctors are so excited to use AI with their patients](https://www.washingtonpost.com/opinions/2025/03/27/ai-health-care-ambient-doctors/)
+- [&#39;Audible enclaves&#39; could enable private listening without headphones](https://www.psu.edu/news/engineering/story/audible-enclaves-could-enable-private-listening-without-headphones)
+- [Nvidia close to acquiring AI cloud provider Lepton AI in nine-figure deal](https://siliconangle.com/2025/03/27/report-nvidia-close-acquiring-ai-cloud-provider-lepton-ai-nine-figure-deal/)
+- [New video of feds ambushing student and vanishing sparks deep concern](https://slate.com/news-and-politics/2025/03/donald-trump-news-ice-immigration-student-rumeysa-ozturk.html)
+- [Strategic Bitcoin Reserve](https://en.wikipedia.org/wiki/Strategic_bitcoin_reserve)
+- [Nikola founder Trevor Milton, convicted of fraud, granted full pardon by Trump](https://www.reuters.com/world/us/nikola-founder-trevor-milton-says-granted-full-pardon-by-trump-2025-03-28/)
+- [A decompilation and port of Sonic Advance 2-a GameBoy Advance game written in C](https://github.com/SAT-R/sa2)
+- [Searching 400M image vectors on modest hardware](https://qdrant.tech/documentation/database-tutorials/large-scale-search/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

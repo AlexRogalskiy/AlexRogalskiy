@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Anthony Albanese calls Australian federal election for 3 May](https://www.theguardian.com/australia-news/2025/mar/28/australian-federal-election-date-anthony-albanese-calls-poll-for-3-may)
-- [How do I navigate the fear and anger of this political moment? | Leading questions](https://www.theguardian.com/lifeandstyle/2025/mar/28/how-do-i-navigate-the-fear-and-anger-of-this-political-moment)
-- [End of an era for Canada-US ties, says Carney, as allies worldwide decry Trump’s car tariffs](https://www.theguardian.com/us-news/2025/mar/27/us-allies-worldwide-decry-trump-car-tariffs-and-threaten-retaliation)
-- [No Other Land co-director condemns Academy’s letter to members after Hamdan Ballal attack](https://www.theguardian.com/film/2025/mar/28/no-other-land-co-director-condemns-academys-letter-to-members-after-hamdan-ballal-attack-ntwnfb)
-- [JD Vance to expect frosty reception in Greenland amid diplomatic row](https://www.theguardian.com/world/2025/mar/28/jd-vance-greenland-visit-diplomatic-row)
-- [A pig’s head and decapitated rats: a new era of intimidation dawns for journalists in Indonesia](https://www.theguardian.com/world/2025/mar/28/intimidation-journalists-indonesia-pig-heads-rats)
-- [Littler wins night eight in Newcastle to extend Premier League lead](https://www.theguardian.com/sport/2025/mar/28/luke-littler-premier-league-darts-night-eight-newcastle)
-- [T-level qualifications still less popular and more expensive than BTecs, watchdog finds](https://www.theguardian.com/education/2025/mar/28/t-level-qualifications-still-less-popular-and-more-expensive-than-btecs-watchdog-finds)
-- [Stonewall will fight to ban all LGBT conversion practices, says new chief](https://www.theguardian.com/world/2025/mar/28/stonewall-will-fight-to-ban-all-lgbt-conversion-practices-says-new-chief)
-- [Decline of cash credited for drop in NHS surgery for children swallowing objects](https://www.theguardian.com/society/2025/mar/28/decline-of-cash-credited-for-drop-in-nhs-surgery-for-children-swallowing-objects)
+- [Trump news at a glance: Vance stakes US claim for Greenland as new coalition insists it ‘belongs to us’](https://www.theguardian.com/us-news/2025/mar/29/trump-administration-news-vance-greenland-smithsonian-today)
+- [Columbia’s president steps aside for new leadership at embattled university](https://www.theguardian.com/us-news/2025/mar/28/columbia-university-katrina-armstrong)
+- [Elon Musk’s xAI firm buys social media platform X for $33bn](https://www.theguardian.com/technology/2025/mar/29/elon-musks-xai-firm-buys-social-media-platform-x-for-33bn)
+- [Hamer strikes as Sheffield United go top with emphatic victory over Coventry](https://www.theguardian.com/football/2025/mar/28/sheffield-utd-coventry-championship-match-report)
+- [Fabian Hürzeler appeals to Brighton’s ‘blue heads’ to turn tables on Forest](https://www.theguardian.com/football/2025/mar/28/fabian-hurzeler-appeals-to-brightons-blue-heads-to-turn-tables-on-forest)
+- [My Brain: After the Rupture review – a fierce mantra for us all to live by](https://www.theguardian.com/tv-and-radio/2025/mar/28/my-brain-after-the-rupture-review-clemency-burton-hill-documentary)
+- [Three dead as Texas-Mexico border hit by severe flooding](https://www.theguardian.com/us-news/2025/mar/28/texas-border-flooding)
+- [Labour ads use NHS to attack Farage’s views before major Reform rally](https://www.theguardian.com/politics/2025/mar/28/labour-ads-use-nhs-to-attack-nigel-farage-views-before-major-reform-rally)
+- [Oil tanker involved in North Sea collision to be towed to Port of Tyne](https://www.theguardian.com/business/2025/mar/28/oil-tanker-involved-in-north-sea-collision-to-be-towed-to-port-of-tyne)
+- [Academy board to meet as response to No Other Land director’s arrest decried](https://www.theguardian.com/film/2025/mar/28/academy-board-governors-no-other-land-hamdan-ballal)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

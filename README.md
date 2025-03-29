@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [A decompilation and port of Sonic Advance 2-a GameBoy Advance game written in C](https://github.com/SAT-R/sa2)
-- [Helpcare AI &lpar;YC F24&rpar; Is Hiring](https://docs.google.com/forms/d/e/1FAIpQLScpzOyP_mk3muEpbKrnW8UTZB_yP5SJwjbeT8_6A6fhdvpJCg/viewform?usp=preview)
-- [Using uv and PEP 723 for Self-Contained Python Scripts](https://thisdavej.com/share-python-scripts-like-a-pro-uv-and-pep-723-for-easy-deployment/)
-- [Things I would have told myself before building an autorouter](https://blog.autorouting.com/p/13-things-i-would-have-told-myself)
-- [Arctic sea ice sets a record low maximum in 2025](https://nsidc.org/sea-ice-today/analyses/arctic-sea-ice-sets-record-low-maximum-2025)
-- [A note on the USB-to-PS/2 mouse adapter that came with Microsoft mouse devices](https://devblogs.microsoft.com/oldnewthing/20250325-00/?p=110993)
-- [Anti-Orbit Laser Submarines &lpar;2017&rpar;](http://toughsf.blogspot.com/2017/10/anti-orbit-laser-submarines.html)
-- [Most promoted and blocked domains on Kagi](https://kagi.com/stats?stat=leaderboard)
-- [Apple needs a Snow Sequoia](https://reviews.ofb.biz/safari/article/1300.html)
-- [Emacs Solo: A Surprise System Crafters Live Demo](https://www.rahuljuliato.com/posts/emacs-solo-demo)
+- [The Gen X Career Meltdown](https://www.nytimes.com/interactive/2025/03/28/style/gen-x-creative-work.html)
+- [Show HN: Multi UPS SNMP based shutdown](https://nupst.serve.zone)
+- [iCloud Mail has DNS misconfigured](https://www.mail-tester.com/test-p3tdhnk3o)
+- [Show HN: An Almost Free, Open Source TURN Server](https://github.com/lvidgen/WebRTC/blob/master/FOSS_TURN_Server/howto.md)
+- [DIY PTP Grandmaster Clock with a Raspberry Pi](https://www.jeffgeerling.com/blog/2025/diy-ptp-grandmaster-clock-raspberry-pi)
+- [xAI has acquired X, xAI now valued at $80B](https://twitter.com/elonmusk/status/1905731750275510312)
+- [Finley &lpar;YC W21&rpar; Is Hiring a Technical Implementations Specialist](https://ats.rippling.com/finley-technologies/jobs)
+- [Digital Echoes and Unquiet Minds](https://www.chrbutler.com/digital-echoes-and-unquiet-minds)
+- [Swiftly 1.0](https://swift.org/blog/introducing-swiftly_10/)
+- [The Art of DJing: Avalon Emerson &lpar;2019&rpar;](https://it.ra.co/features/3392)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

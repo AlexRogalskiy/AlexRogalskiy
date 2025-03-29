@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Abel Prize Awarded to Japanese Mathematician Who Abstracted Abstractions](https://www.nytimes.com/2025/03/26/science/abel-prize-math-masaki-kashiwara.html)
-- [How to land a job and master corporate bullsh*t [video]](https://www.youtube.com/watch?v=QxDlBHYNQcI)
-- [Why doctors are so excited to use AI with their patients](https://www.washingtonpost.com/opinions/2025/03/27/ai-health-care-ambient-doctors/)
-- [&#39;Audible enclaves&#39; could enable private listening without headphones](https://www.psu.edu/news/engineering/story/audible-enclaves-could-enable-private-listening-without-headphones)
-- [Nvidia close to acquiring AI cloud provider Lepton AI in nine-figure deal](https://siliconangle.com/2025/03/27/report-nvidia-close-acquiring-ai-cloud-provider-lepton-ai-nine-figure-deal/)
-- [New video of feds ambushing student and vanishing sparks deep concern](https://slate.com/news-and-politics/2025/03/donald-trump-news-ice-immigration-student-rumeysa-ozturk.html)
-- [Strategic Bitcoin Reserve](https://en.wikipedia.org/wiki/Strategic_bitcoin_reserve)
-- [Nikola founder Trevor Milton, convicted of fraud, granted full pardon by Trump](https://www.reuters.com/world/us/nikola-founder-trevor-milton-says-granted-full-pardon-by-trump-2025-03-28/)
-- [A decompilation and port of Sonic Advance 2-a GameBoy Advance game written in C](https://github.com/SAT-R/sa2)
-- [Searching 400M image vectors on modest hardware](https://qdrant.tech/documentation/database-tutorials/large-scale-search/)
+- [Nvidia GTC Recap](https://blog.glennklockwood.com/2025/03/gtc-2025-recap.html)
+- [Torvalds Frustrated over &quot;Disgusting&quot; Testing &quot;Turd&quot; DRM Code in Linux 6.15](https://www.phoronix.com/news/Linux-6.15-hdrtest-Turd)
+- [&#39;inside-out, legless, headless wonder&#39; that lived before the dinosaurs](https://www.livescience.com/animals/extinct-species/scientists-uncover-inside-out-legless-headless-wonder-that-lived-long-before-the-dinosaurs)
+- [Collectively, the Tesla fleet has driven more than 3.6B miles on FSD](https://twitter.com/Tesla_AI/status/1905644814483251709)
+- [US scientists lost $3B in NIH grants since Trump took office](https://arstechnica.com/health/2025/03/report-us-scientists-lost-3-billion-in-nih-grants-since-trump-took-office/)
+- [Analysis of amplified ground motion in Bangkok from recent earthquakes &lpar;2023&rpar;](https://geoenvironmental-disasters.springeropen.com/articles/10.1186/s40677-023-00259-0)
+- [Elon Musk&#39;s xAI firm buys social media platform X for $33B](https://www.theguardian.com/technology/2025/mar/29/elon-musks-xai-firm-buys-social-media-platform-x-for-33bn)
+- [The Gen X Career Meltdown](https://www.nytimes.com/interactive/2025/03/28/style/gen-x-creative-work.html)
+- [OpenTelemetry in Practice: Useful, but Not the Endgame for Users](https://sysrant.com/posts/opentelemetry-in-practice-useful-but-not-the-endgame-for-users/https://sysrant.com/posts/opentelemetry-in-practice-useful-but-not-the-endgame-for-users/)
+- [Javice found guilty of defrauding JPMorgan in $175M startup purchase](https://techcrunch.com/2025/03/28/javice-found-guilty-of-defrauding-jpmorgan-in-175m-startup-purchase/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Nvidia GTC Recap](https://blog.glennklockwood.com/2025/03/gtc-2025-recap.html)
-- [Torvalds Frustrated over &quot;Disgusting&quot; Testing &quot;Turd&quot; DRM Code in Linux 6.15](https://www.phoronix.com/news/Linux-6.15-hdrtest-Turd)
-- [&#39;inside-out, legless, headless wonder&#39; that lived before the dinosaurs](https://www.livescience.com/animals/extinct-species/scientists-uncover-inside-out-legless-headless-wonder-that-lived-long-before-the-dinosaurs)
-- [Collectively, the Tesla fleet has driven more than 3.6B miles on FSD](https://twitter.com/Tesla_AI/status/1905644814483251709)
-- [US scientists lost $3B in NIH grants since Trump took office](https://arstechnica.com/health/2025/03/report-us-scientists-lost-3-billion-in-nih-grants-since-trump-took-office/)
-- [Analysis of amplified ground motion in Bangkok from recent earthquakes &lpar;2023&rpar;](https://geoenvironmental-disasters.springeropen.com/articles/10.1186/s40677-023-00259-0)
-- [Elon Musk&#39;s xAI firm buys social media platform X for $33B](https://www.theguardian.com/technology/2025/mar/29/elon-musks-xai-firm-buys-social-media-platform-x-for-33bn)
-- [The Gen X Career Meltdown](https://www.nytimes.com/interactive/2025/03/28/style/gen-x-creative-work.html)
-- [OpenTelemetry in Practice: Useful, but Not the Endgame for Users](https://sysrant.com/posts/opentelemetry-in-practice-useful-but-not-the-endgame-for-users/https://sysrant.com/posts/opentelemetry-in-practice-useful-but-not-the-endgame-for-users/)
-- [Javice found guilty of defrauding JPMorgan in $175M startup purchase](https://techcrunch.com/2025/03/28/javice-found-guilty-of-defrauding-jpmorgan-in-175m-startup-purchase/)
+- [The Dingo&#39;s Fate](https://www.noemamag.com/the-dingos-fate/)
+- [MegaThread: Truth, Sanity, and History](https://old.reddit.com/r/AskHistorians/comments/1jmmj3w/megathread_truth_sanity_and_history/)
+- [Any tools for a customizable trading dashboard &lpar;charts, order flow, news, etc.&rpar;?](https://news.ycombinator.com/item?id=43520743)
+- [Orion: A Homomorphic Encryption Framework for Deep Learning [pdf]](https://arxiv.org/abs/2311.03470)
+- [Esoteric emulators: CHIP-8 in Desmos](https://medium.com/@grubbycoder/esoteric-emulators-chip-8-in-desmos-64cf3e1aab4f)
+- [Electric power generation from Earth&#39;s rotation through its own magnetic field](https://arxiv.org/abs/2503.15790)
+- [Retro Games Online](https://classicgamezone.com)
+- [The Japanese Military Has a People Problem](https://www.foreignaffairs.com/japan/japanese-military-has-people-problem)
+- [ToolsAI – One AI Toolbox for all your favorite models](https://toolsai.dev/)
+- [Show HN: Pmpn – A Typosafe Wrapper for Pnpm](https://github.com/ewiner/pmpn)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

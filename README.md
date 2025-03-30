@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Trump news at a glance: Vance stakes US claim for Greenland as new coalition insists it ‘belongs to us’](https://www.theguardian.com/us-news/2025/mar/29/trump-administration-news-vance-greenland-smithsonian-today)
-- [Columbia’s president steps aside for new leadership at embattled university](https://www.theguardian.com/us-news/2025/mar/28/columbia-university-katrina-armstrong)
-- [Elon Musk’s xAI firm buys social media platform X for $33bn](https://www.theguardian.com/technology/2025/mar/29/elon-musks-xai-firm-buys-social-media-platform-x-for-33bn)
-- [Hamer strikes as Sheffield United go top with emphatic victory over Coventry](https://www.theguardian.com/football/2025/mar/28/sheffield-utd-coventry-championship-match-report)
-- [Fabian Hürzeler appeals to Brighton’s ‘blue heads’ to turn tables on Forest](https://www.theguardian.com/football/2025/mar/28/fabian-hurzeler-appeals-to-brightons-blue-heads-to-turn-tables-on-forest)
-- [My Brain: After the Rupture review – a fierce mantra for us all to live by](https://www.theguardian.com/tv-and-radio/2025/mar/28/my-brain-after-the-rupture-review-clemency-burton-hill-documentary)
-- [Three dead as Texas-Mexico border hit by severe flooding](https://www.theguardian.com/us-news/2025/mar/28/texas-border-flooding)
-- [Labour ads use NHS to attack Farage’s views before major Reform rally](https://www.theguardian.com/politics/2025/mar/28/labour-ads-use-nhs-to-attack-nigel-farage-views-before-major-reform-rally)
-- [Oil tanker involved in North Sea collision to be towed to Port of Tyne](https://www.theguardian.com/business/2025/mar/28/oil-tanker-involved-in-north-sea-collision-to-be-towed-to-port-of-tyne)
-- [Academy board to meet as response to No Other Land director’s arrest decried](https://www.theguardian.com/film/2025/mar/28/academy-board-governors-no-other-land-hamdan-ballal)
+- [Trump news at a glance: anti-Musk protesters target Tesla showrooms around the world](https://www.theguardian.com/us-news/2025/mar/30/trump-news-at-a-glance-anti-musk-protesters-target-tesla-showrooms-around-the-world)
+- [Ukraine war briefing: Kyiv accuses Russia of war crime after attack on military hospital in Kharkiv](https://www.theguardian.com/world/2025/mar/30/ukraine-war-briefing-kyiv-accuses-russia-of-war-after-attack-on-military-hospital-in-kharkiv)
+- [Hockney says he did not offer to paint King Charles during royal visit](https://www.theguardian.com/artanddesign/2025/mar/29/hockney-says-he-did-not-know-king-charles-well-enough-to-paint-him)
+- [The edit: 20 of the best bucket bags – in pictures](https://www.theguardian.com/fashion/gallery/2025/mar/29/the-edit-20-of-the-best-bucket-bags-in-pictures)
+- [Sex Pistols’ Steve Jones: ‘I like to fart in front of people. You can tell if someone’s cool from their reaction’](https://www.theguardian.com/music/2025/mar/30/sex-pistols-steve-jones-q-and-a-interview-10-questions)
+- [Aryna Sabalenka dominates Jessica Pegula to cruise to Miami Open title](https://www.theguardian.com/sport/2025/mar/29/aryna-sabalenka-jessica-pegula-miami-open-womens-tennis)
+- [FA Cup goes back to the future as Nottingham Forest do a FAR Rabat | Jonathan Wilson](https://www.theguardian.com/football/2025/mar/29/fa-cup-goes-back-to-the-future-as-nottingham-forest-do-an-far-rabat)
+- [Fear and Gibson claim emotional bronze to end Britain’s 31-year medal drought](https://www.theguardian.com/sport/2025/mar/29/fear-and-gibson-claim-emotional-bronze-to-end-britains-31-year-medal-drought)
+- [Prince Harry accused of bullying ‘at scale’ by chair of charity he founded](https://www.theguardian.com/uk-news/2025/mar/29/prince-harry-accused-of-bullying-at-scale-by-chair-of-charity-he-founded)
+- [Celtic surge closer towards league title No 55 after swatting Hearts aside](https://www.theguardian.com/football/2025/mar/29/scottish-premiership-roundup-celtic-hearts-rangers)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

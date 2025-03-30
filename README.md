@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The Gen X Career Meltdown](https://www.nytimes.com/interactive/2025/03/28/style/gen-x-creative-work.html)
-- [Show HN: Multi UPS SNMP based shutdown](https://nupst.serve.zone)
-- [iCloud Mail has DNS misconfigured](https://www.mail-tester.com/test-p3tdhnk3o)
-- [Show HN: An Almost Free, Open Source TURN Server](https://github.com/lvidgen/WebRTC/blob/master/FOSS_TURN_Server/howto.md)
-- [DIY PTP Grandmaster Clock with a Raspberry Pi](https://www.jeffgeerling.com/blog/2025/diy-ptp-grandmaster-clock-raspberry-pi)
-- [xAI has acquired X, xAI now valued at $80B](https://twitter.com/elonmusk/status/1905731750275510312)
-- [Finley &lpar;YC W21&rpar; Is Hiring a Technical Implementations Specialist](https://ats.rippling.com/finley-technologies/jobs)
-- [Digital Echoes and Unquiet Minds](https://www.chrbutler.com/digital-echoes-and-unquiet-minds)
-- [Swiftly 1.0](https://swift.org/blog/introducing-swiftly_10/)
-- [The Art of DJing: Avalon Emerson &lpar;2019&rpar;](https://it.ra.co/features/3392)
+- [Tesla vandals could face 20 years in Salvadorian prison](https://abc7.com/post/president-trump-suggests-tesla-vandals-should-face-20-years-jail-sent-el-salvador/16064219/)
+- [6502 as a Service](https://www.emulationonline.com/systems/chiplab/6502-lab-available/)
+- [A timeline of IBM keyboard history](https://sharktastica.co.uk/wip/timeline)
+- [My TV started playing a video in full screen by itself. What happened?](https://support.vizio.com/s/article/Ambient-or-Scenic-Mode-showing-on-my-TV?language=en_US)
+- [Buy once, use forever A directory of one-time purchase software. Add yours](https://buyoncesoftware.com/)
+- [Breaking up with vibe coding](https://www.lucasaguiar.xyz/posts/vibe-coding-pitfalls/)
+- [Msgpack23 – A modern, header-only C++ library for MessagePack &lpar;de&rpar;serialization](https://github.com/rwindegger/msgpack23)
+- [Towards fearless SIMD, 7 years later](https://linebender.org/blog/towards-fearless-simd/)
+- [Convert Linux to Windows](https://philipbohun.com/blog/0007.html)
+- [Everyone knows all the apps on your phone](https://peabee.substack.com/p/everyone-knows-what-apps-you-use)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Dingo&#39;s Fate](https://www.noemamag.com/the-dingos-fate/)
-- [MegaThread: Truth, Sanity, and History](https://old.reddit.com/r/AskHistorians/comments/1jmmj3w/megathread_truth_sanity_and_history/)
-- [Any tools for a customizable trading dashboard &lpar;charts, order flow, news, etc.&rpar;?](https://news.ycombinator.com/item?id=43520743)
-- [Orion: A Homomorphic Encryption Framework for Deep Learning [pdf]](https://arxiv.org/abs/2311.03470)
-- [Esoteric emulators: CHIP-8 in Desmos](https://medium.com/@grubbycoder/esoteric-emulators-chip-8-in-desmos-64cf3e1aab4f)
-- [Electric power generation from Earth&#39;s rotation through its own magnetic field](https://arxiv.org/abs/2503.15790)
-- [Retro Games Online](https://classicgamezone.com)
-- [The Japanese Military Has a People Problem](https://www.foreignaffairs.com/japan/japanese-military-has-people-problem)
-- [ToolsAI – One AI Toolbox for all your favorite models](https://toolsai.dev/)
-- [Show HN: Pmpn – A Typosafe Wrapper for Pnpm](https://github.com/ewiner/pmpn)
+- [How to simplify nested SQL in applications with esProc](https://c.esproc.com/article/1742979889140?p=1&m=0)
+- [Statically Linking Go in 2022](https://mt165.co.uk/blog/static-link-go/)
+- [Oracle has reportedly suffered 2 separate breaches exposing customers&#39; PII](https://arstechnica.com/security/2025/03/oracle-is-mum-on-reports-it-has-experienced-2-separate-data-breaches/)
+- [Finding the Best Sleep Tracker](https://karpathy.bearblog.dev/finding-the-best-sleep-tracker/)
+- [Introducing the 2025 cast of LTYM Boulder!](https://wordtoyourmotherarts.substack.com/p/introducing-the-2025-cast-of-ltym)
+- [Fix for Missing custom models bug in Open WebUI](https://www.lucasaguiar.xyz/posts/fix-custom-models-open-webui/)
+- [Microsoft turns 50: Four employees recall their early years](https://www.seattletimes.com/business/microsoft/microsoft-turns-50-4-employees-recall-their-early-years/)
+- [The Deployment Age &lpar;2015&rpar;](https://reactionwheel.net/2015/10/the-deployment-age.html)
+- [Apple and Musk Clash over Satellite Expansion Plans](https://www.wsj.com/tech/apple-elon-musk-satellite-cell-phone-services-ed2d2730)
+- [&quot;Disk re-encryption in Linux&quot; by Stepan Yakimovich &lpar;2024, LUKS&rpar;](https://is.muni.cz/th/zjyql/?lang=en)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

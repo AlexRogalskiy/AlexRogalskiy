@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Tesla vandals could face 20 years in Salvadorian prison](https://abc7.com/post/president-trump-suggests-tesla-vandals-should-face-20-years-jail-sent-el-salvador/16064219/)
-- [6502 as a Service](https://www.emulationonline.com/systems/chiplab/6502-lab-available/)
-- [A timeline of IBM keyboard history](https://sharktastica.co.uk/wip/timeline)
-- [My TV started playing a video in full screen by itself. What happened?](https://support.vizio.com/s/article/Ambient-or-Scenic-Mode-showing-on-my-TV?language=en_US)
-- [Buy once, use forever A directory of one-time purchase software. Add yours](https://buyoncesoftware.com/)
-- [Breaking up with vibe coding](https://www.lucasaguiar.xyz/posts/vibe-coding-pitfalls/)
-- [Msgpack23 – A modern, header-only C++ library for MessagePack &lpar;de&rpar;serialization](https://github.com/rwindegger/msgpack23)
-- [Towards fearless SIMD, 7 years later](https://linebender.org/blog/towards-fearless-simd/)
-- [Convert Linux to Windows](https://philipbohun.com/blog/0007.html)
-- [Everyone knows all the apps on your phone](https://peabee.substack.com/p/everyone-knows-what-apps-you-use)
+- [Optifye.ai &lpar;YC W25&rpar; Is Hiring](https://www.ycombinator.com/companies/optifye-ai/jobs/sDfGXkK-founding-engineer)
+- [Rare Merlin and King Arthur manuscript fragment discovered in book binding](https://www.cam.ac.uk/stories/merlin-manuscript-discovered-cambridge)
+- [How Each Pillar of the First Amendment Is Under Attack](https://krebsonsecurity.com/2025/03/how-each-pillar-of-the-1st-amendment-is-under-attack/)
+- [Installing air filters in classrooms has surprisingly large educational benefits](https://www.vox.com/2020/1/8/21051869/indoor-air-pollution-student-achievement)
+- [Ambermoon Advanced](https://github.com/Pyrdacor/Ambermoon-Advanced)
+- [BreezeWiki makes wiki pages on Fandom readable](https://breezewiki.com/)
+- [Oka.wiki](https://oka.wiki/)
+- [Can Style Be Timeless?](https://www.mrporter.com/en-gb/journal/fashion/derek-guy-timeless-style-25197344)
+- [MAME 0.276](https://www.mamedev.org/?p=549)
+- [Xfinity XB3 hardware mod: Disable WiFi and save 2 watts](https://gist.github.com/pmarks-net/af40dba69272806c1ec9cbe71429d2e7)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

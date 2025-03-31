@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Trump news at a glance: anti-Musk protesters target Tesla showrooms around the world](https://www.theguardian.com/us-news/2025/mar/30/trump-news-at-a-glance-anti-musk-protesters-target-tesla-showrooms-around-the-world)
-- [Ukraine war briefing: Kyiv accuses Russia of war crime after attack on military hospital in Kharkiv](https://www.theguardian.com/world/2025/mar/30/ukraine-war-briefing-kyiv-accuses-russia-of-war-after-attack-on-military-hospital-in-kharkiv)
-- [Hockney says he did not offer to paint King Charles during royal visit](https://www.theguardian.com/artanddesign/2025/mar/29/hockney-says-he-did-not-know-king-charles-well-enough-to-paint-him)
-- [The edit: 20 of the best bucket bags – in pictures](https://www.theguardian.com/fashion/gallery/2025/mar/29/the-edit-20-of-the-best-bucket-bags-in-pictures)
-- [Sex Pistols’ Steve Jones: ‘I like to fart in front of people. You can tell if someone’s cool from their reaction’](https://www.theguardian.com/music/2025/mar/30/sex-pistols-steve-jones-q-and-a-interview-10-questions)
-- [Aryna Sabalenka dominates Jessica Pegula to cruise to Miami Open title](https://www.theguardian.com/sport/2025/mar/29/aryna-sabalenka-jessica-pegula-miami-open-womens-tennis)
-- [FA Cup goes back to the future as Nottingham Forest do a FAR Rabat | Jonathan Wilson](https://www.theguardian.com/football/2025/mar/29/fa-cup-goes-back-to-the-future-as-nottingham-forest-do-an-far-rabat)
-- [Fear and Gibson claim emotional bronze to end Britain’s 31-year medal drought](https://www.theguardian.com/sport/2025/mar/29/fear-and-gibson-claim-emotional-bronze-to-end-britains-31-year-medal-drought)
-- [Prince Harry accused of bullying ‘at scale’ by chair of charity he founded](https://www.theguardian.com/uk-news/2025/mar/29/prince-harry-accused-of-bullying-at-scale-by-chair-of-charity-he-founded)
-- [Celtic surge closer towards league title No 55 after swatting Hearts aside](https://www.theguardian.com/football/2025/mar/29/scottish-premiership-roundup-celtic-hearts-rangers)
+- [Donald Trump says he is ‘very angry’ with Vladimir Putin over Ukraine](https://www.theguardian.com/us-news/2025/mar/30/donald-trump-angry-vladimir-putin-ukraine-nbc)
+- [Adolescence: what teen boys really think of girls, influencers and porn – podcast](https://www.theguardian.com/news/audio/2025/mar/31/adolescence-what-teen-boys-really-think-of-girls-influencers-and-porn-podcast)
+- [Ukraine war briefing: Trump sanctions threat on Russian oil buyers could hit China, India](https://www.theguardian.com/world/2025/mar/31/ukraine-war-briefing-trump-sanctions-threat-on-russian-oil-buyers-could-hit-china-india)
+- [James Bond should not be a woman due to franchise’s ‘profound sexism’, says Helen Mirren](https://www.theguardian.com/film/2025/mar/31/helen-mirren-james-bond-gender)
+- [Baulkham Hills stabbing: woman arrested and three children in hospital after alleged attack in Sydney suburb](https://www.theguardian.com/australia-news/2025/mar/31/three-children-and-woman-in-hospital-after-stabbing-attack-in-sydney-suburb)
+- [Peatland burning ban aims to protect wildlife and England’s carbon stores](https://www.theguardian.com/environment/2025/mar/31/peatland-burning-ban-aims-to-protect-wildlife-and-englands-carbon-stores)
+- [Hundreds of thousands of Canadians face power outages due to ice storm](https://www.theguardian.com/world/2025/mar/30/canada-ontario-ottawa-quebec-power-outage)
+- [Police offer £10,000 reward for information on boy who disappeared in London in 2008](https://www.theguardian.com/uk-news/2025/mar/30/police-offer-10k-reward-for-information-about-boy-who-disappeared-in-2008)
+- [European football: Loftus-Cheek has appendix surgery before Milan defeat](https://www.theguardian.com/football/2025/mar/30/european-football-barcelona-girona-napoli-milan)
+- [Dreamers review – this teen dance drama is too subtle for its own good. Where’s the debauchery?](https://www.theguardian.com/tv-and-radio/2025/mar/30/dreamers-review-this-teen-dance-drama-is-too-subtle-for-its-own-good-wheres-the-debauchery)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [How to simplify nested SQL in applications with esProc](https://c.esproc.com/article/1742979889140?p=1&m=0)
-- [Statically Linking Go in 2022](https://mt165.co.uk/blog/static-link-go/)
-- [Oracle has reportedly suffered 2 separate breaches exposing customers&#39; PII](https://arstechnica.com/security/2025/03/oracle-is-mum-on-reports-it-has-experienced-2-separate-data-breaches/)
-- [Finding the Best Sleep Tracker](https://karpathy.bearblog.dev/finding-the-best-sleep-tracker/)
-- [Introducing the 2025 cast of LTYM Boulder!](https://wordtoyourmotherarts.substack.com/p/introducing-the-2025-cast-of-ltym)
-- [Fix for Missing custom models bug in Open WebUI](https://www.lucasaguiar.xyz/posts/fix-custom-models-open-webui/)
-- [Microsoft turns 50: Four employees recall their early years](https://www.seattletimes.com/business/microsoft/microsoft-turns-50-4-employees-recall-their-early-years/)
-- [The Deployment Age &lpar;2015&rpar;](https://reactionwheel.net/2015/10/the-deployment-age.html)
-- [Apple and Musk Clash over Satellite Expansion Plans](https://www.wsj.com/tech/apple-elon-musk-satellite-cell-phone-services-ed2d2730)
-- [&quot;Disk re-encryption in Linux&quot; by Stepan Yakimovich &lpar;2024, LUKS&rpar;](https://is.muni.cz/th/zjyql/?lang=en)
+- [An &#39;Administrative Error&#39; Sends a Maryland Father to a Salvadoran Prison](https://www.theatlantic.com/politics/archive/2025/03/an-administrative-error-sends-a-man-to-a-salvadoran-prison/682254/)
+- [My Spanish Learning Journey](https://japroz.me/notes/learning-spanish)
+- [The Heroines of Chaos](https://www.quantamagazine.org/the-hidden-heroines-of-chaos-20190520/)
+- [News You Can Endow &lpar;2009&rpar;](https://www.nytimes.com/2009/01/28/opinion/28swensen.html)
+- [Persistent epigenetic memory of mRNA vaccination in monocyte-derived macrophages](https://www.embopress.org/doi/full/10.1038/s44320-025-00093-6)
+- [Get the hell out of the LLM as soon as possible](https://sgnt.ai/p/hell-out-of-llms/)
+- [CEO Lip-Bu Tan plans a &#39;new Intel&#39; that looks a lot like the old one](https://www.oregonlive.com/silicon-forest/2025/03/ceo-lip-bu-tan-plans-a-new-intel-that-looks-a-lot-like-the-old-one.html)
+- [Show HN: Mass Effect 2 for Yarn Spinner](https://bsky.app/profile/yarnspinner.dev/post/3llprept6oc2f)
+- [Ask HN: Do you still self-host a blog? What&#39;s your publishing stack?](https://news.ycombinator.com/item?id=43542213)
+- [Sacked Marine Pilot Whose F-35B Flew Without Him After Ejecting Gives His Side](https://www.twz.com/air/sacked-marine-pilot-whose-f-35b-flew-without-him-after-ejecting-gives-his-side-of-the-story)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

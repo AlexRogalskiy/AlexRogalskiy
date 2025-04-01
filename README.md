@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Optifye.ai &lpar;YC W25&rpar; Is Hiring](https://www.ycombinator.com/companies/optifye-ai/jobs/sDfGXkK-founding-engineer)
-- [Rare Merlin and King Arthur manuscript fragment discovered in book binding](https://www.cam.ac.uk/stories/merlin-manuscript-discovered-cambridge)
-- [How Each Pillar of the First Amendment Is Under Attack](https://krebsonsecurity.com/2025/03/how-each-pillar-of-the-1st-amendment-is-under-attack/)
-- [Installing air filters in classrooms has surprisingly large educational benefits](https://www.vox.com/2020/1/8/21051869/indoor-air-pollution-student-achievement)
-- [Ambermoon Advanced](https://github.com/Pyrdacor/Ambermoon-Advanced)
-- [BreezeWiki makes wiki pages on Fandom readable](https://breezewiki.com/)
-- [Oka.wiki](https://oka.wiki/)
-- [Can Style Be Timeless?](https://www.mrporter.com/en-gb/journal/fashion/derek-guy-timeless-style-25197344)
-- [MAME 0.276](https://www.mamedev.org/?p=549)
-- [Xfinity XB3 hardware mod: Disable WiFi and save 2 watts](https://gist.github.com/pmarks-net/af40dba69272806c1ec9cbe71429d2e7)
+- [An &#39;Administrative Error&#39; Sends a Maryland Father to a Salvadoran Prison](https://www.theatlantic.com/politics/archive/2025/03/an-administrative-error-sends-a-man-to-a-salvadoran-prison/682254/)
+- [Get the hell out of the LLM as soon as possible](https://sgnt.ai/p/hell-out-of-llms/)
+- [The case against conversational interfaces](https://julian.digital/2025/03/27/the-case-against-conversational-interfaces/)
+- [Netflix&#39;s Media Production Suite](https://netflixtechblog.com/globalizing-productions-with-netflixs-media-production-suite-fc3c108c0a22)
+- [Go Optimization Guide](https://goperf.dev/)
+- [KOReader: Open-Source eBook Reader](https://github.com/koreader/koreader)
+- [JEP draft: Prepare to make final mean final](https://openjdk.org/jeps/8349536)
+- [Notes on the Pentium&#39;s microcode circuitry](https://www.righto.com/2025/03/pentium-microcde-rom-circuitry.html)
+- [LLM Workflows then Agents: Getting Started with Apache Airflow](https://github.com/astronomer/airflow-ai-sdk)
+- [Honey has now lost 4M Chrome users after shady tactics were revealed](https://9to5google.com/2025/03/31/honey-extension-users-dropped-chrome-march-2025/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Donald Trump says he is ‘very angry’ with Vladimir Putin over Ukraine](https://www.theguardian.com/us-news/2025/mar/30/donald-trump-angry-vladimir-putin-ukraine-nbc)
-- [Adolescence: what teen boys really think of girls, influencers and porn – podcast](https://www.theguardian.com/news/audio/2025/mar/31/adolescence-what-teen-boys-really-think-of-girls-influencers-and-porn-podcast)
-- [Ukraine war briefing: Trump sanctions threat on Russian oil buyers could hit China, India](https://www.theguardian.com/world/2025/mar/31/ukraine-war-briefing-trump-sanctions-threat-on-russian-oil-buyers-could-hit-china-india)
-- [James Bond should not be a woman due to franchise’s ‘profound sexism’, says Helen Mirren](https://www.theguardian.com/film/2025/mar/31/helen-mirren-james-bond-gender)
-- [Baulkham Hills stabbing: woman arrested and three children in hospital after alleged attack in Sydney suburb](https://www.theguardian.com/australia-news/2025/mar/31/three-children-and-woman-in-hospital-after-stabbing-attack-in-sydney-suburb)
-- [Peatland burning ban aims to protect wildlife and England’s carbon stores](https://www.theguardian.com/environment/2025/mar/31/peatland-burning-ban-aims-to-protect-wildlife-and-englands-carbon-stores)
-- [Hundreds of thousands of Canadians face power outages due to ice storm](https://www.theguardian.com/world/2025/mar/30/canada-ontario-ottawa-quebec-power-outage)
-- [Police offer £10,000 reward for information on boy who disappeared in London in 2008](https://www.theguardian.com/uk-news/2025/mar/30/police-offer-10k-reward-for-information-about-boy-who-disappeared-in-2008)
-- [European football: Loftus-Cheek has appendix surgery before Milan defeat](https://www.theguardian.com/football/2025/mar/30/european-football-barcelona-girona-napoli-milan)
-- [Dreamers review – this teen dance drama is too subtle for its own good. Where’s the debauchery?](https://www.theguardian.com/tv-and-radio/2025/mar/30/dreamers-review-this-teen-dance-drama-is-too-subtle-for-its-own-good-wheres-the-debauchery)
+- [The Tesla backlash – podcast](https://www.theguardian.com/news/audio/2025/apr/01/the-tesla-backlash-podcast)
+- [Trump prepares to unveil reciprocal tariffs as markets brace amid trade war fears](https://www.theguardian.com/us-news/2025/apr/01/donald-trump-us-reciprocal-tariffs-trading-partners)
+- [Ukraine war briefing: EU ministers call out Kremlin for delaying ceasefire](https://www.theguardian.com/world/2025/apr/01/ukraine-war-briefing-eu-ministers-call-out-kremlin-for-delaying-ceasefire)
+- [Coyote vs Acme: $70m Looney Tunes film to be released after being canned by Warner Bros](https://www.theguardian.com/film/2025/apr/01/coyote-vs-acme-70m-looney-tunes-film-to-be-released-after-being-canned-by-warner-bros)
+- [‘Playing gods with the cradle of life’: French Polynesia’s president issues warning over deep-sea mining](https://www.theguardian.com/world/2025/apr/01/french-polynesia-deep-sea-mining-pacific-warning-president-moetai-brotherson)
+- [Apex Predator review – supernatural psychodrama bites off more than it can chew](https://www.theguardian.com/stage/2025/apr/01/apex-predator-review-hampstead-theatre)
+- [‘Woke’ criticism of Doctor Who proves show on right track, says its newest star](https://www.theguardian.com/tv-and-radio/2025/apr/01/woke-criticism-of-doctor-who-proves-show-on-right-track-says-its-newest-star)
+- [Sheffield Wednesday fail to pay players due to ‘temporary cashflow’ problems](https://www.theguardian.com/football/2025/mar/31/sheffield-wednesday-fail-to-pay-players-due-to-temporary-cashflow-problems)
+- [Twitter: Breaking the Bird review – how all the hate speech flooded in](https://www.theguardian.com/tv-and-radio/2025/mar/31/twitter-breaking-the-bird-review-how-all-the-hate-speech-flooded-in)
+- [Search under way for girl, 11, who fell into Thames in east London](https://www.theguardian.com/uk-news/2025/mar/31/search-under-way-for-girl-11-who-fell-into-thames-in-east-london)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

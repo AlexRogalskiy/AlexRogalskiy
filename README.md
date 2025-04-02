@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [An &#39;Administrative Error&#39; Sends a Maryland Father to a Salvadoran Prison](https://www.theatlantic.com/politics/archive/2025/03/an-administrative-error-sends-a-man-to-a-salvadoran-prison/682254/)
-- [My Spanish Learning Journey](https://japroz.me/notes/learning-spanish)
-- [The Heroines of Chaos](https://www.quantamagazine.org/the-hidden-heroines-of-chaos-20190520/)
-- [News You Can Endow &lpar;2009&rpar;](https://www.nytimes.com/2009/01/28/opinion/28swensen.html)
-- [Persistent epigenetic memory of mRNA vaccination in monocyte-derived macrophages](https://www.embopress.org/doi/full/10.1038/s44320-025-00093-6)
-- [Get the hell out of the LLM as soon as possible](https://sgnt.ai/p/hell-out-of-llms/)
-- [CEO Lip-Bu Tan plans a &#39;new Intel&#39; that looks a lot like the old one](https://www.oregonlive.com/silicon-forest/2025/03/ceo-lip-bu-tan-plans-a-new-intel-that-looks-a-lot-like-the-old-one.html)
-- [Show HN: Mass Effect 2 for Yarn Spinner](https://bsky.app/profile/yarnspinner.dev/post/3llprept6oc2f)
-- [Ask HN: Do you still self-host a blog? What&#39;s your publishing stack?](https://news.ycombinator.com/item?id=43542213)
-- [Sacked Marine Pilot Whose F-35B Flew Without Him After Ejecting Gives His Side](https://www.twz.com/air/sacked-marine-pilot-whose-f-35b-flew-without-him-after-ejecting-gives-his-side-of-the-story)
+- [Call for testing: OpenSSH 10.0 &lpar;DSA support removed&rpar;](https://lists.mindrot.org/pipermail/openssh-unix-dev/2025-April/041855.html)
+- [90T/s on my iPhone llama3.2-1B-fp16](https://www.reddit.com/r/LocalLLaMA/s/DscuuFbgwc)
+- [Open Deep Research – my implementation and what I&#39;ve learned from it](https://github.com/qx-labs/agents-deep-research)
+- [What if the Earth rotated 90 degrees? [video]](https://www.youtube.com/watch?v=WH4g1ptJ-70)
+- [If You Post a Delicious Bagel Online, Do You Have to Say Where You Got It?](https://www.gq.com/story/rainbot-geoguessr-bagel)
+- [State Space Model Meets Transformer: A New Paradigm for 3D Object Detection](https://arxiv.org/abs/2503.14493)
+- [Show HN: VaporVibe – auto-generate video demos for vibe-coded projects](https://vapor.influme.ai/)
+- [The timeless genius of a Atari developer and his swimming salmon masterpiece](https://arstechnica.com/gaming/2025/04/how-a-1980s-atari-creator-with-cystic-fibrosis-crafted-a-story-of-salmon-survival/)
+- [Underlying Labor Market Dynamics Still Tight Despite Highest Gov Layoffs](https://wolfstreet.com/2025/04/01/underlying-labor-market-dynamics-still-tight-despite-highest-government-layoffs-discharges-since-census-wind-down-of-2020/)
+- [F–K Lightroom and F–K Adobe: How Adobe Is Systematically Predatory](https://presetter.xyz/blog)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

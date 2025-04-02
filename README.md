@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [An &#39;Administrative Error&#39; Sends a Maryland Father to a Salvadoran Prison](https://www.theatlantic.com/politics/archive/2025/03/an-administrative-error-sends-a-man-to-a-salvadoran-prison/682254/)
-- [Get the hell out of the LLM as soon as possible](https://sgnt.ai/p/hell-out-of-llms/)
-- [The case against conversational interfaces](https://julian.digital/2025/03/27/the-case-against-conversational-interfaces/)
-- [Netflix&#39;s Media Production Suite](https://netflixtechblog.com/globalizing-productions-with-netflixs-media-production-suite-fc3c108c0a22)
-- [Go Optimization Guide](https://goperf.dev/)
-- [KOReader: Open-Source eBook Reader](https://github.com/koreader/koreader)
-- [JEP draft: Prepare to make final mean final](https://openjdk.org/jeps/8349536)
-- [Notes on the Pentium&#39;s microcode circuitry](https://www.righto.com/2025/03/pentium-microcde-rom-circuitry.html)
-- [LLM Workflows then Agents: Getting Started with Apache Airflow](https://github.com/astronomer/airflow-ai-sdk)
-- [Honey has now lost 4M Chrome users after shady tactics were revealed](https://9to5google.com/2025/03/31/honey-extension-users-dropped-chrome-march-2025/)
+- [After Crash FAA Change Requires All Aircraft at Reagan to Broadcast Positions](https://www.nytimes.com/2025/03/27/us/politics/reagan-crash-faa-rule-change-broadcast-positions.html)
+- [Forking Work Simplification – Let&#39;s Bring Back Eisenhower&#39;s Process Improvement](https://www.governance.fyi/p/forking-work-simplification-and-more)
+- [Simulated Economy Tutorial](https://jasonfantl.com/posts/Simulated-Economy-(1)/)
+- [SSLyze – SSL configuration scanning library and CLI tool](https://github.com/nabla-c0d3/sslyze)
+- [AR Computers to Terminate Eyestrain and Myopia](https://eyewiki.org/AR_Computers_To_Terminate_Eyestrain_And_Myopia)
+- [The atrocious state of binary compatibility on Linux and how to address it](https://jangafx.com/insights/linux-binary-compatibility)
+- [Show HN: Textcase: A Python Library for Text Case Conversion](https://github.com/zobweyt/textcase)
+- [Show HN: Offline SOS signaling+recovery app for disasters/wars](https://github.com/nizarmah/igatha)
+- [Testing DVD-R and CD-R 25 years later: optical disks from Japan](https://goughlui.com/2025/03/23/optical-discs-from-japan-part-6-tdk-uv-guard-fuji-lg-sony-maxell-cmc/)
+- [DEDA – Tracking Dots Extraction, Decoding and Anonymisation Toolkit](https://github.com/dfd-tud/deda)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

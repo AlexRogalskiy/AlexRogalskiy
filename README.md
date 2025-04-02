@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [The Tesla backlash – podcast](https://www.theguardian.com/news/audio/2025/apr/01/the-tesla-backlash-podcast)
-- [Trump prepares to unveil reciprocal tariffs as markets brace amid trade war fears](https://www.theguardian.com/us-news/2025/apr/01/donald-trump-us-reciprocal-tariffs-trading-partners)
-- [Ukraine war briefing: EU ministers call out Kremlin for delaying ceasefire](https://www.theguardian.com/world/2025/apr/01/ukraine-war-briefing-eu-ministers-call-out-kremlin-for-delaying-ceasefire)
-- [Coyote vs Acme: $70m Looney Tunes film to be released after being canned by Warner Bros](https://www.theguardian.com/film/2025/apr/01/coyote-vs-acme-70m-looney-tunes-film-to-be-released-after-being-canned-by-warner-bros)
-- [‘Playing gods with the cradle of life’: French Polynesia’s president issues warning over deep-sea mining](https://www.theguardian.com/world/2025/apr/01/french-polynesia-deep-sea-mining-pacific-warning-president-moetai-brotherson)
-- [Apex Predator review – supernatural psychodrama bites off more than it can chew](https://www.theguardian.com/stage/2025/apr/01/apex-predator-review-hampstead-theatre)
-- [‘Woke’ criticism of Doctor Who proves show on right track, says its newest star](https://www.theguardian.com/tv-and-radio/2025/apr/01/woke-criticism-of-doctor-who-proves-show-on-right-track-says-its-newest-star)
-- [Sheffield Wednesday fail to pay players due to ‘temporary cashflow’ problems](https://www.theguardian.com/football/2025/mar/31/sheffield-wednesday-fail-to-pay-players-due-to-temporary-cashflow-problems)
-- [Twitter: Breaking the Bird review – how all the hate speech flooded in](https://www.theguardian.com/tv-and-radio/2025/mar/31/twitter-breaking-the-bird-review-how-all-the-hate-speech-flooded-in)
-- [Search under way for girl, 11, who fell into Thames in east London](https://www.theguardian.com/uk-news/2025/mar/31/search-under-way-for-girl-11-who-fell-into-thames-in-east-london)
+- [Myanmar earthquake deaths set to pass 3,000 as looming monsoon sparks urgent call for aid](https://www.theguardian.com/world/2025/apr/02/myanmar-earthquake-death-toll-monsoon-rain-forecast-mandalay-sagaing)
+- [Neil Young says he may be barred from returning to US over Donald Trump criticism](https://www.theguardian.com/music/2025/apr/02/neil-young-fears-us-ban-donald-trump-criticism)
+- [Could Marine Le Pen’s guilty verdict help fuel the far right? – podcast](https://www.theguardian.com/news/audio/2025/apr/02/could-marine-le-pen-guilty-verdict-help-fuel-the-far-right-podcast)
+- [Ukraine war briefing: US anger builds on Russia over refusal to accept ceasefire](https://www.theguardian.com/world/2025/apr/02/ukraine-war-briefing-us-pressure-builds-on-russia-over-refusal-to-accept-ceasefire)
+- [Hegseth indicates US backing for Taiwan – but it is transactional Trump who has the final word](https://www.theguardian.com/world/2025/apr/02/pete-hegseth-indicates-us-backing-taiwan)
+- [Cory Booker breaks record for longest Senate speech with Trump condemnation](https://www.theguardian.com/us-news/2025/apr/01/cory-booker-senate-speech-trump)
+- [Starmer offers big US tech firms tax cuts in return for lower Trump tariffs](https://www.theguardian.com/us-news/2025/apr/01/starmer-offered-big-us-tech-firms-tax-cuts-in-return-for-lower-trump-tariffs)
+- [UK needs to relax AI laws or risk transatlantic ties, thinktank warns](https://www.theguardian.com/technology/2025/apr/02/uk-ai-copyright-laws-transatlantic-tony-blair-thinktank)
+- [Twenty-three more women contact Met police over serial rapist Zhenhao Zou](https://www.theguardian.com/uk-news/2025/apr/02/twenty-three-more-women-contact-met-police-over-serial-rapist-zhenhao-zou)
+- [Pupils in England to be taught about online spending and scams](https://www.theguardian.com/education/2025/apr/02/pupils-in-england-to-be-taught-about-online-spending-and-scams)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

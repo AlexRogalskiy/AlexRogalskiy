@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Call for testing: OpenSSH 10.0 &lpar;DSA support removed&rpar;](https://lists.mindrot.org/pipermail/openssh-unix-dev/2025-April/041855.html)
-- [90T/s on my iPhone llama3.2-1B-fp16](https://www.reddit.com/r/LocalLLaMA/s/DscuuFbgwc)
-- [Open Deep Research – my implementation and what I&#39;ve learned from it](https://github.com/qx-labs/agents-deep-research)
-- [What if the Earth rotated 90 degrees? [video]](https://www.youtube.com/watch?v=WH4g1ptJ-70)
-- [If You Post a Delicious Bagel Online, Do You Have to Say Where You Got It?](https://www.gq.com/story/rainbot-geoguessr-bagel)
-- [State Space Model Meets Transformer: A New Paradigm for 3D Object Detection](https://arxiv.org/abs/2503.14493)
-- [Show HN: VaporVibe – auto-generate video demos for vibe-coded projects](https://vapor.influme.ai/)
-- [The timeless genius of a Atari developer and his swimming salmon masterpiece](https://arstechnica.com/gaming/2025/04/how-a-1980s-atari-creator-with-cystic-fibrosis-crafted-a-story-of-salmon-survival/)
-- [Underlying Labor Market Dynamics Still Tight Despite Highest Gov Layoffs](https://wolfstreet.com/2025/04/01/underlying-labor-market-dynamics-still-tight-despite-highest-government-layoffs-discharges-since-census-wind-down-of-2020/)
-- [F–K Lightroom and F–K Adobe: How Adobe Is Systematically Predatory](https://presetter.xyz/blog)
+- [Show HN: Council AI – Make better decisions with the wisdom of AI crowd](https://apps.apple.com/us/app/council-ai/id6738291821)
+- [Share your machines with other users](https://tailscale.com/kb/1084/sharing)
+- [Why I Maintain a 17 Year Old ThinkPad](https://pilledtexts.com/why-i-use-a-17-year-old-thinkpad/)
+- [How to simplify MongoDB queries with esProc](https://c.esproc.com/article/1743555200077?p=1&m=0)
+- [Airbnb Superhost: To Be or Not to Be?](https://www.airroi.com/blog/airbnb-superhost-advantage-analysis)
+- [Show HN: I built a 1B+ contact database as a solo founder in 60 days](https://www.snappyleads.co.uk/trial.php)
+- [DST for Async Rust](https://s2.dev/blog/dst)
+- [Generative AI for Social Science](https://amaiya.github.io/onprem/examples_qualitative_survey_analysis.html)
+- [Shingles Vaccine Guards Against Dementia, Study Reveals](https://www.sciencealert.com/shingles-vaccine-guards-against-dementia-study-reveals)
+- [Unmarked Vans. Secret Lists. Public Denunciations. Our Police State Has Arrived](https://www.nytimes.com/2025/04/02/opinion/trump-ice-immigrants.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

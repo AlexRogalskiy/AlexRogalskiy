@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Myanmar earthquake deaths set to pass 3,000 as looming monsoon sparks urgent call for aid](https://www.theguardian.com/world/2025/apr/02/myanmar-earthquake-death-toll-monsoon-rain-forecast-mandalay-sagaing)
-- [Neil Young says he may be barred from returning to US over Donald Trump criticism](https://www.theguardian.com/music/2025/apr/02/neil-young-fears-us-ban-donald-trump-criticism)
-- [Could Marine Le Pen’s guilty verdict help fuel the far right? – podcast](https://www.theguardian.com/news/audio/2025/apr/02/could-marine-le-pen-guilty-verdict-help-fuel-the-far-right-podcast)
-- [Ukraine war briefing: US anger builds on Russia over refusal to accept ceasefire](https://www.theguardian.com/world/2025/apr/02/ukraine-war-briefing-us-pressure-builds-on-russia-over-refusal-to-accept-ceasefire)
-- [Hegseth indicates US backing for Taiwan – but it is transactional Trump who has the final word](https://www.theguardian.com/world/2025/apr/02/pete-hegseth-indicates-us-backing-taiwan)
-- [Cory Booker breaks record for longest Senate speech with Trump condemnation](https://www.theguardian.com/us-news/2025/apr/01/cory-booker-senate-speech-trump)
-- [Starmer offers big US tech firms tax cuts in return for lower Trump tariffs](https://www.theguardian.com/us-news/2025/apr/01/starmer-offered-big-us-tech-firms-tax-cuts-in-return-for-lower-trump-tariffs)
-- [UK needs to relax AI laws or risk transatlantic ties, thinktank warns](https://www.theguardian.com/technology/2025/apr/02/uk-ai-copyright-laws-transatlantic-tony-blair-thinktank)
-- [Twenty-three more women contact Met police over serial rapist Zhenhao Zou](https://www.theguardian.com/uk-news/2025/apr/02/twenty-three-more-women-contact-met-police-over-serial-rapist-zhenhao-zou)
-- [Pupils in England to be taught about online spending and scams](https://www.theguardian.com/education/2025/apr/02/pupils-in-england-to-be-taught-about-online-spending-and-scams)
+- [How will Myanmar’s earthquake impact the civil war? – podcast](https://www.theguardian.com/news/audio/2025/apr/03/how-will-myanmars-earthquake-impact-the-civil-war-podcast)
+- [Ukraine war briefing: No Trump tariff on Russia as his officials host Putin investment tsar](https://www.theguardian.com/world/2025/apr/03/ukraine-war-briefing-deadly-ballistic-missile-strike-on-zelenskyy-home-town)
+- [South Korea ‘at breaking point’ ahead of ruling on President Yoon’s impeachment](https://www.theguardian.com/world/2025/apr/03/south-korea-president-yoon-impeachment-ruling)
+- [Trump goes full gameshow host to push his tariff plan – and nobody’s a winner](https://www.theguardian.com/us-news/2025/apr/02/trump-tariffs-white-house-sketch)
+- [Liberation from what? Trump promised lower prices – his tariffs risk the opposite](https://www.theguardian.com/us-news/2025/apr/02/trump-tariffs-analysis)
+- [Reeves defends Labour’s £40bn tax rise as businesses prepare for NICs hike](https://www.theguardian.com/politics/2025/apr/02/reeves-defends-40bn-tax-increase-in-autumn-budget-as-businesses-prepare-for-nics-hike)
+- [Samoa suffering energy crisis after weeks of power outages](https://www.theguardian.com/world/2025/apr/03/samoa-suffering-energy-crisis-after-weeks-of-power-outages)
+- [Healthy but lonely gen Zers drive UK gym membership to record high](https://www.theguardian.com/society/2025/apr/03/gen-z-record-rise-uk-gym-membership-report)
+- [We need more male teachers so British boys have role models, says minister](https://www.theguardian.com/education/2025/apr/03/bridget-phillipson-education-secretary-more-male-teachers-adolescence)
+- [Doctors urge government to fight poverty after rise in patients with Victorian diseases](https://www.theguardian.com/society/2025/apr/03/doctors-urge-government-fight-poverty-victorian-diseases)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

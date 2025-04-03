@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [After Crash FAA Change Requires All Aircraft at Reagan to Broadcast Positions](https://www.nytimes.com/2025/03/27/us/politics/reagan-crash-faa-rule-change-broadcast-positions.html)
-- [Forking Work Simplification – Let&#39;s Bring Back Eisenhower&#39;s Process Improvement](https://www.governance.fyi/p/forking-work-simplification-and-more)
-- [Simulated Economy Tutorial](https://jasonfantl.com/posts/Simulated-Economy-(1)/)
-- [SSLyze – SSL configuration scanning library and CLI tool](https://github.com/nabla-c0d3/sslyze)
-- [AR Computers to Terminate Eyestrain and Myopia](https://eyewiki.org/AR_Computers_To_Terminate_Eyestrain_And_Myopia)
-- [The atrocious state of binary compatibility on Linux and how to address it](https://jangafx.com/insights/linux-binary-compatibility)
-- [Show HN: Textcase: A Python Library for Text Case Conversion](https://github.com/zobweyt/textcase)
-- [Show HN: Offline SOS signaling+recovery app for disasters/wars](https://github.com/nizarmah/igatha)
-- [Testing DVD-R and CD-R 25 years later: optical disks from Japan](https://goughlui.com/2025/03/23/optical-discs-from-japan-part-6-tdk-uv-guard-fuji-lg-sony-maxell-cmc/)
-- [DEDA – Tracking Dots Extraction, Decoding and Anonymisation Toolkit](https://github.com/dfd-tud/deda)
+- [Tech companies are telling immigrant employees on visas not to leave the U.S.](https://www.washingtonpost.com/technology/2025/03/31/immigration-h1b-fear-siliconvalley/)
+- [Search could be so much better. And I don&#39;t mean chatbots with web access](https://www.matterrank.ai/mission)
+- [The reality of working in tech: We&#39;re not hired to write code &lpar;2023&rpar;](https://idiallo.com/blog/code-for-hire)
+- [An open source, self-hosted implementation of the Tailscale control server](https://github.com/juanfont/headscale)
+- [Search-R1: Training LLMs to Reason and Leverage Search Engines with RL](https://arxiv.org/abs/2503.09516)
+- [Web Server for AoE 1, 2 and 3 DE supporting LAN multiplayer 100% offline](https://github.com/luskaner/ageLANServer)
+- [Chronic ethanol produces sex-dependent impairments in striatum computations](https://www.science.org/doi/10.1126/sciadv.adt0200)
+- [Multi-Token Attention](https://arxiv.org/abs/2504.00927)
+- [Are people bad at their jobs or are the jobs just bad?](https://annehelen.substack.com/p/are-people-bad-at-their-jobsor-are)
+- [MIT 6.5950 Secure Hardware Design – An open-source course on hardware attacks](https://shd.mit.edu/home/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

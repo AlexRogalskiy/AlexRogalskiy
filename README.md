@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [How will Myanmar’s earthquake impact the civil war? – podcast](https://www.theguardian.com/news/audio/2025/apr/03/how-will-myanmars-earthquake-impact-the-civil-war-podcast)
-- [Ukraine war briefing: No Trump tariff on Russia as his officials host Putin investment tsar](https://www.theguardian.com/world/2025/apr/03/ukraine-war-briefing-deadly-ballistic-missile-strike-on-zelenskyy-home-town)
-- [South Korea ‘at breaking point’ ahead of ruling on President Yoon’s impeachment](https://www.theguardian.com/world/2025/apr/03/south-korea-president-yoon-impeachment-ruling)
-- [Trump goes full gameshow host to push his tariff plan – and nobody’s a winner](https://www.theguardian.com/us-news/2025/apr/02/trump-tariffs-white-house-sketch)
-- [Liberation from what? Trump promised lower prices – his tariffs risk the opposite](https://www.theguardian.com/us-news/2025/apr/02/trump-tariffs-analysis)
-- [Reeves defends Labour’s £40bn tax rise as businesses prepare for NICs hike](https://www.theguardian.com/politics/2025/apr/02/reeves-defends-40bn-tax-increase-in-autumn-budget-as-businesses-prepare-for-nics-hike)
-- [Samoa suffering energy crisis after weeks of power outages](https://www.theguardian.com/world/2025/apr/03/samoa-suffering-energy-crisis-after-weeks-of-power-outages)
-- [Healthy but lonely gen Zers drive UK gym membership to record high](https://www.theguardian.com/society/2025/apr/03/gen-z-record-rise-uk-gym-membership-report)
-- [We need more male teachers so British boys have role models, says minister](https://www.theguardian.com/education/2025/apr/03/bridget-phillipson-education-secretary-more-male-teachers-adolescence)
-- [Doctors urge government to fight poverty after rise in patients with Victorian diseases](https://www.theguardian.com/society/2025/apr/03/doctors-urge-government-fight-poverty-victorian-diseases)
+- [Asian markets drop further as IMF warns Trump tariffs ‘a significant risk’ to global economy – business live](https://www.theguardian.com/us-news/live/2025/apr/04/us-business-stock-markets-nyse-blog-trump-tariffs-asian-markets)
+- [South Korea president Yoon Suk Yeol removed from office after impeachment upheld by court](https://www.theguardian.com/world/2025/apr/04/south-korea-president-yoon-suk-yeol-impeachment-verdict-results-removal)
+- [How the Beatles helped my autistic son find his voice – podcast](https://www.theguardian.com/news/audio/2025/apr/04/how-the-beatles-helped-my-autistic-son-find-his-voice-podcast)
+- [Ukraine war briefing: Kyiv solving its troop shortages, says top US general in Europe](https://www.theguardian.com/world/2025/apr/04/ukraine-war-briefing-kyiv-solving-its-troop-shortages-says-top-us-general-in-europe)
+- [Trump news at a glance: Tariffs send US markets tumbling to worst day since Covid crash](https://www.theguardian.com/us-news/2025/apr/04/trump-tariffs-stock-market-news-updates-today)
+- [Cross-Channel train services to be cheaper to run as operator cuts charges](https://www.theguardian.com/uk-news/2025/apr/04/cross-channel-train-services-to-be-cheaper-to-run-as-operator-cuts-charges)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2025/apr/04/premier-league-10-things-to-look-out-for-this-weekend)
+- [Trump fires six national security staffers after meeting with far-right activist Laura Loomer](https://www.theguardian.com/us-news/2025/apr/03/laura-loomer-trump-meeting)
+- [Bunting ends Premier League darts drought in Berlin but Littler crashes out](https://www.theguardian.com/sport/2025/apr/03/bunting-ends-premier-league-darts-drought-in-berlin-but-littler-crashes-out)
+- [Delivered to a Predator: Al Fayed’s Fixer review – this startling tale urgently needed telling](https://www.theguardian.com/tv-and-radio/2025/apr/03/dispatches-delivered-to-a-predator-al-fayed-fixer-channel-4-review)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

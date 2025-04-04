@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: Council AI – Make better decisions with the wisdom of AI crowd](https://apps.apple.com/us/app/council-ai/id6738291821)
-- [Share your machines with other users](https://tailscale.com/kb/1084/sharing)
-- [Why I Maintain a 17 Year Old ThinkPad](https://pilledtexts.com/why-i-use-a-17-year-old-thinkpad/)
-- [How to simplify MongoDB queries with esProc](https://c.esproc.com/article/1743555200077?p=1&m=0)
-- [Airbnb Superhost: To Be or Not to Be?](https://www.airroi.com/blog/airbnb-superhost-advantage-analysis)
-- [Show HN: I built a 1B+ contact database as a solo founder in 60 days](https://www.snappyleads.co.uk/trial.php)
-- [DST for Async Rust](https://s2.dev/blog/dst)
-- [Generative AI for Social Science](https://amaiya.github.io/onprem/examples_qualitative_survey_analysis.html)
-- [Shingles Vaccine Guards Against Dementia, Study Reveals](https://www.sciencealert.com/shingles-vaccine-guards-against-dementia-study-reveals)
-- [Unmarked Vans. Secret Lists. Public Denunciations. Our Police State Has Arrived](https://www.nytimes.com/2025/04/02/opinion/trump-ice-immigrants.html)
+- [Original copy of Boole&#39;s pamphlet describing his algebra for sale at auction](https://www.bonhams.com/auction/30806/lot/43/the-foundational-text-of-the-computer-age-boole-george-1815-1864-the-mathematical-analysis-of-logic-cambridge-macmillan-barclay-and-macmillan-1847/)
+- [GitHub Copilot agent mode &lpar;preview&rpar;](https://code.visualstudio.com/blogs/2025/02/24/introducing-copilot-agent-mode)
+- [Signalgate: Pentagon watchdog probes Defense SEC Hegseth](https://www.theregister.com/2025/04/04/hegseth_inspector_general/)
+- [Rothko Chapel](https://en.wikipedia.org/wiki/Rothko_Chapel)
+- [Coreboot 25.03 Released with Support for 22 More Motherboards](https://www.phoronix.com/news/Coreboot-25.03-Released)
+- [Multiple backdoors spread through fake AI, business tools](https://www.scworld.com/news/multiple-backdoors-spread-through-fake-ai-business-tools)
+- [Fact-Checking Lottie Comparisons in Rive vs. Lottie](https://news.ycombinator.com/item?id=43577809)
+- [Show HN: I built a social media for sport players](https://www.highlight-hub.com/)
+- [Secretive Russian military satellites release mystery object into orbit](https://www.space.com/space-exploration/satellites/secretive-russian-military-satellites-release-mystery-object-into-orbit)
+- [Republicans Debate Hiking Top Tax Rate to 40% for Millionaires](https://www.bloomberg.com/news/articles/2025-04-03/republicans-debate-hiking-top-tax-rate-to-40-for-millionaires)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Tech companies are telling immigrant employees on visas not to leave the U.S.](https://www.washingtonpost.com/technology/2025/03/31/immigration-h1b-fear-siliconvalley/)
-- [Search could be so much better. And I don&#39;t mean chatbots with web access](https://www.matterrank.ai/mission)
-- [The reality of working in tech: We&#39;re not hired to write code &lpar;2023&rpar;](https://idiallo.com/blog/code-for-hire)
-- [An open source, self-hosted implementation of the Tailscale control server](https://github.com/juanfont/headscale)
-- [Search-R1: Training LLMs to Reason and Leverage Search Engines with RL](https://arxiv.org/abs/2503.09516)
-- [Web Server for AoE 1, 2 and 3 DE supporting LAN multiplayer 100% offline](https://github.com/luskaner/ageLANServer)
-- [Chronic ethanol produces sex-dependent impairments in striatum computations](https://www.science.org/doi/10.1126/sciadv.adt0200)
-- [Multi-Token Attention](https://arxiv.org/abs/2504.00927)
-- [Are people bad at their jobs or are the jobs just bad?](https://annehelen.substack.com/p/are-people-bad-at-their-jobsor-are)
-- [MIT 6.5950 Secure Hardware Design – An open-source course on hardware attacks](https://shd.mit.edu/home/)
+- [Intel, TSMC tentatively agree to form chipmaking joint venture](https://finance.yahoo.com/news/intel-tsmc-tentatively-agree-form-185938022.html)
+- [Celebrate 50 years of Microsoft with the company&#39;s original source code](https://www.gatesnotes.com/home/home-page-topic/reader/microsoft-original-source-code)
+- [Was Houdini a Spy? &lpar;2021&rpar;](https://www.cia.gov/stories/story/was-houdini-a-spy/)
+- [Aviator &lpar;YC S21&rpar; is hiring engineers to build AI DevEx platform](https://www.ycombinator.com/companies/aviator/jobs)
+- [The cultural evolution of distortion in music](https://royalsocietypublishing.org/doi/10.1098/rstb.2024.0014)
+- [AI cheats: Why you didn&#39;t notice your teammate was cheating](https://niila.fi/en/ai-cheats/)
+- [How Servo Motors Work](https://www.jameco.com/Jameco/workshop/Howitworks/how-servo-motors-work.html)
+- [Senior Developer Skills in the AI Age](https://manuel.kiessling.net/2025/03/31/how-seasoned-developers-can-achieve-great-results-with-ai-coding-agents/)
+- [How Big Is VMS? – VMS Software, Inc](https://vmssoftware.com/resources/blog/2025-03-31-how-big-is-vms/)
+- [Show HN: GitMCP is an automatic MCP server for every GitHub repo](https://gitmcp.io/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

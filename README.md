@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Original copy of Boole&#39;s pamphlet describing his algebra for sale at auction](https://www.bonhams.com/auction/30806/lot/43/the-foundational-text-of-the-computer-age-boole-george-1815-1864-the-mathematical-analysis-of-logic-cambridge-macmillan-barclay-and-macmillan-1847/)
-- [GitHub Copilot agent mode &lpar;preview&rpar;](https://code.visualstudio.com/blogs/2025/02/24/introducing-copilot-agent-mode)
-- [Signalgate: Pentagon watchdog probes Defense SEC Hegseth](https://www.theregister.com/2025/04/04/hegseth_inspector_general/)
-- [Rothko Chapel](https://en.wikipedia.org/wiki/Rothko_Chapel)
-- [Coreboot 25.03 Released with Support for 22 More Motherboards](https://www.phoronix.com/news/Coreboot-25.03-Released)
-- [Multiple backdoors spread through fake AI, business tools](https://www.scworld.com/news/multiple-backdoors-spread-through-fake-ai-business-tools)
-- [Fact-Checking Lottie Comparisons in Rive vs. Lottie](https://news.ycombinator.com/item?id=43577809)
-- [Show HN: I built a social media for sport players](https://www.highlight-hub.com/)
-- [Secretive Russian military satellites release mystery object into orbit](https://www.space.com/space-exploration/satellites/secretive-russian-military-satellites-release-mystery-object-into-orbit)
-- [Republicans Debate Hiking Top Tax Rate to 40% for Millionaires](https://www.bloomberg.com/news/articles/2025-04-03/republicans-debate-hiking-top-tax-rate-to-40-for-millionaires)
+- [DreamActor-M1 by ByteDance: Physics-Aware AI Character Generation](https://dreamactor-m1.org/)
+- [Mitochondria transplants could cure diseases and lengthen lives](https://www.economist.com/science-and-technology/2025/03/31/mitochondria-transplants-could-cure-diseases-and-lengthen-lives)
+- [Test](https://news.ycombinator.com/item?id=43590197)
+- [Physical Computing: A Category Theoretic Perspective on Physical Computation](https://arxiv.org/abs/2210.00392)
+- [FAQ on Writing: How I got started, why I write, who I write for](https://eugeneyan.com/writing/writing-faq/)
+- [This Video Is a Game – Interactive Maze](https://www.youtube.com/watch?v=_luzD0pMb3o)
+- [Html.nix &lpar;2021&rpar;](https://code.tvl.fyi/tree/users/sterni/nix/html/README.md)
+- [Deciphering Glyph: A Bigger Database](https://blog.glyph.im/2025/03/a-bigger-database.html)
+- [Defending Tailwind](https://blog.damato.design/posts/defending-tailwind/)
+- [Do smoking bans lead to more drinking?](https://www.journals.uchicago.edu/doi/abs/10.1086/731698)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

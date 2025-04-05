@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Asian markets drop further as IMF warns Trump tariffs ‘a significant risk’ to global economy – business live](https://www.theguardian.com/us-news/live/2025/apr/04/us-business-stock-markets-nyse-blog-trump-tariffs-asian-markets)
-- [South Korea president Yoon Suk Yeol removed from office after impeachment upheld by court](https://www.theguardian.com/world/2025/apr/04/south-korea-president-yoon-suk-yeol-impeachment-verdict-results-removal)
-- [How the Beatles helped my autistic son find his voice – podcast](https://www.theguardian.com/news/audio/2025/apr/04/how-the-beatles-helped-my-autistic-son-find-his-voice-podcast)
-- [Ukraine war briefing: Kyiv solving its troop shortages, says top US general in Europe](https://www.theguardian.com/world/2025/apr/04/ukraine-war-briefing-kyiv-solving-its-troop-shortages-says-top-us-general-in-europe)
-- [Trump news at a glance: Tariffs send US markets tumbling to worst day since Covid crash](https://www.theguardian.com/us-news/2025/apr/04/trump-tariffs-stock-market-news-updates-today)
-- [Cross-Channel train services to be cheaper to run as operator cuts charges](https://www.theguardian.com/uk-news/2025/apr/04/cross-channel-train-services-to-be-cheaper-to-run-as-operator-cuts-charges)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2025/apr/04/premier-league-10-things-to-look-out-for-this-weekend)
-- [Trump fires six national security staffers after meeting with far-right activist Laura Loomer](https://www.theguardian.com/us-news/2025/apr/03/laura-loomer-trump-meeting)
-- [Bunting ends Premier League darts drought in Berlin but Littler crashes out](https://www.theguardian.com/sport/2025/apr/03/bunting-ends-premier-league-darts-drought-in-berlin-but-littler-crashes-out)
-- [Delivered to a Predator: Al Fayed’s Fixer review – this startling tale urgently needed telling](https://www.theguardian.com/tv-and-radio/2025/apr/03/dispatches-delivered-to-a-predator-al-fayed-fixer-channel-4-review)
+- [Albanese declares Chinese-controlled Port of Darwin should ‘be in Australian hands’](https://www.theguardian.com/australia-news/2025/apr/04/anthony-albanese-says-chinese-lease-port-of-darwin-should-return-to-australia)
+- [Doge eyes cuts to Peace Corps with in-person visit and records access](https://www.theguardian.com/us-news/2025/apr/04/elon-musk-doge-peace-corps)
+- [Ukraine war briefing: Russian missile attack in Zelenskyy’s home town kills 18](https://www.theguardian.com/world/2025/apr/05/ukraine-war-briefing-russian-missile-attack-in-zelenskyys-home-town-kills-18)
+- [George Santos prosecutors seek seven-year prison term for campaign fraud](https://www.theguardian.com/us-news/2025/apr/04/george-santos-prosecutors-campaign-fraud)
+- [Trump news at a glance: tariffs inflict more pain amid warning of rising prices](https://www.theguardian.com/us-news/2025/apr/05/president-trump-administration-news-updates-today-tariffs-prices)
+- [The people of Myanmar can’t seem to catch a break. Here’s my plea to the international community | Thin Lei Win](https://www.theguardian.com/commentisfree/2025/apr/05/the-people-of-myanmar-cant-seem-to-catch-a-break-heres-my-plea-to-the-international-community)
+- [Jury orders Chevron to pay more than $744m for destroying Louisiana wetlands](https://www.theguardian.com/us-news/2025/apr/04/chevron-louisiana-wetlands-damages-lawsuit)
+- [Trump extends deadline for TikTok sale to non-Chinese buyer to avoid ban](https://www.theguardian.com/us-news/2025/apr/04/tik-tok-ban-trump-extension)
+- [Los Angeles agrees to $4bn deal to settle thousands of sexual abuse claims](https://www.theguardian.com/us-news/2025/apr/04/los-angeles-sexual-abuse-claims-settlement)
+- [Anti-abortion campaigner convicted of breaching buffer zone outside UK clinic](https://www.theguardian.com/world/2025/apr/04/abortion-campaigner-livia-tossici-bolt-buffer-zone-clinic)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

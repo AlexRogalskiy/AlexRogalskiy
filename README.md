@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Intel, TSMC tentatively agree to form chipmaking joint venture](https://finance.yahoo.com/news/intel-tsmc-tentatively-agree-form-185938022.html)
-- [Celebrate 50 years of Microsoft with the company&#39;s original source code](https://www.gatesnotes.com/home/home-page-topic/reader/microsoft-original-source-code)
-- [Was Houdini a Spy? &lpar;2021&rpar;](https://www.cia.gov/stories/story/was-houdini-a-spy/)
-- [Aviator &lpar;YC S21&rpar; is hiring engineers to build AI DevEx platform](https://www.ycombinator.com/companies/aviator/jobs)
-- [The cultural evolution of distortion in music](https://royalsocietypublishing.org/doi/10.1098/rstb.2024.0014)
-- [AI cheats: Why you didn&#39;t notice your teammate was cheating](https://niila.fi/en/ai-cheats/)
-- [How Servo Motors Work](https://www.jameco.com/Jameco/workshop/Howitworks/how-servo-motors-work.html)
-- [Senior Developer Skills in the AI Age](https://manuel.kiessling.net/2025/03/31/how-seasoned-developers-can-achieve-great-results-with-ai-coding-agents/)
-- [How Big Is VMS? – VMS Software, Inc](https://vmssoftware.com/resources/blog/2025-03-31-how-big-is-vms/)
-- [Show HN: GitMCP is an automatic MCP server for every GitHub repo](https://gitmcp.io/)
+- [OpenVertebrate Presents a Database of 13,000 3D Scans of Specimens](https://www.openculture.com/2024/03/openvertebrate-presents-a-massive-database-of-13000-3d-scans-of-vertebrate-specimens.html)
+- [Learn electricity and electronics fundamentals without taking a formal course](https://simonmonk.org/tyee7)
+- [Mercantilism](https://en.wikipedia.org/wiki/Mercantilism)
+- [AT&amp;T Email-to-Text Gateway Service Ending June 17](https://www.att.com/support/article/wireless/KM1061254/)
+- [Increasing Timber Production, an Emergency Situation on National Forest Lands [pdf]](https://www.usda.gov/sites/default/files/documents/sm-1078-006.pdf)
+- [Annotated Unix Magic Poster](https://unixmagic.net/)
+- [The &#39;Judicial Black Hole&#39; of El Salvador&#39;s Prisons Is a Warning for Americans](https://www.rollingstone.com/politics/politics-features/el-salvador-prisons-warning-americans-trump-1235309721/)
+- [Show HN: Clawtype v2.1 – a one-hand chorded USB keyboard and mouse [video]](https://www.youtube.com/watch?v=N2PSiOl-auM)
+- [The blissful Zen of a good side project](https://joshcollinsworth.com/blog/the-blissful-zen-of-a-good-side-project)
+- [Google announces Sec-Gemini v1 a new experimental cybersecurity model](https://security.googleblog.com/2025/04/google-launches-sec-gemini-v1-new.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

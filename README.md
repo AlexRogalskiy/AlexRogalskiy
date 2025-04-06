@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [DreamActor-M1 by ByteDance: Physics-Aware AI Character Generation](https://dreamactor-m1.org/)
-- [Mitochondria transplants could cure diseases and lengthen lives](https://www.economist.com/science-and-technology/2025/03/31/mitochondria-transplants-could-cure-diseases-and-lengthen-lives)
-- [Test](https://news.ycombinator.com/item?id=43590197)
-- [Physical Computing: A Category Theoretic Perspective on Physical Computation](https://arxiv.org/abs/2210.00392)
-- [FAQ on Writing: How I got started, why I write, who I write for](https://eugeneyan.com/writing/writing-faq/)
-- [This Video Is a Game – Interactive Maze](https://www.youtube.com/watch?v=_luzD0pMb3o)
-- [Html.nix &lpar;2021&rpar;](https://code.tvl.fyi/tree/users/sterni/nix/html/README.md)
-- [Deciphering Glyph: A Bigger Database](https://blog.glyph.im/2025/03/a-bigger-database.html)
-- [Defending Tailwind](https://blog.damato.design/posts/defending-tailwind/)
-- [Do smoking bans lead to more drinking?](https://www.journals.uchicago.edu/doi/abs/10.1086/731698)
+- [Serving Vector Tiles, Fast](https://spatialists.ch/posts/2025/04-05-serving-vector-tiles-fast/)
+- [Lightweight threads and channels are better than async/await syntax](https://news.ycombinator.com/item?id=43598567)
+- [Agent Engineering](https://www.latent.space/p/agent)
+- [Techniques Hacker News Uses to Create Great Shell Scripts](https://nochlin.com/blog/6-techniques-hacker-news-uses-to-create-great-shell-scripts)
+- [Leaked Audio of Musk Crying to Trump Explains Tesla&#39;s Death Spiral](https://deanblundell.substack.com/p/elons-oval-office-meltdown-leaked)
+- [How AI is steering the media toward a &#39;close enough&#39; standard](https://www.fastcompany.com/91310978/ai-steers-the-media-toward-a-close-enough-standard)
+- [Making Node.js Downloads Reliable](https://nodejs.org/en/blog/announcements/making-nodejs-downloads-reliable)
+- [A woman who invented the dishwasher](https://www.popsci.com/technology/josephine-cochrane-dishwasher-inventor/)
+- [The Death of the Middle-Class Restaurant](https://www.nytimes.com/2025/04/04/dining/middle-class-restaurant.html)
+- [TripoSG – Text to 3D Model](https://github.com/VAST-AI-Research/TripoSG)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

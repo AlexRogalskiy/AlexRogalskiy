@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Albanese declares Chinese-controlled Port of Darwin should ‘be in Australian hands’](https://www.theguardian.com/australia-news/2025/apr/04/anthony-albanese-says-chinese-lease-port-of-darwin-should-return-to-australia)
-- [Doge eyes cuts to Peace Corps with in-person visit and records access](https://www.theguardian.com/us-news/2025/apr/04/elon-musk-doge-peace-corps)
-- [Ukraine war briefing: Russian missile attack in Zelenskyy’s home town kills 18](https://www.theguardian.com/world/2025/apr/05/ukraine-war-briefing-russian-missile-attack-in-zelenskyys-home-town-kills-18)
-- [George Santos prosecutors seek seven-year prison term for campaign fraud](https://www.theguardian.com/us-news/2025/apr/04/george-santos-prosecutors-campaign-fraud)
-- [Trump news at a glance: tariffs inflict more pain amid warning of rising prices](https://www.theguardian.com/us-news/2025/apr/05/president-trump-administration-news-updates-today-tariffs-prices)
-- [The people of Myanmar can’t seem to catch a break. Here’s my plea to the international community | Thin Lei Win](https://www.theguardian.com/commentisfree/2025/apr/05/the-people-of-myanmar-cant-seem-to-catch-a-break-heres-my-plea-to-the-international-community)
-- [Jury orders Chevron to pay more than $744m for destroying Louisiana wetlands](https://www.theguardian.com/us-news/2025/apr/04/chevron-louisiana-wetlands-damages-lawsuit)
-- [Trump extends deadline for TikTok sale to non-Chinese buyer to avoid ban](https://www.theguardian.com/us-news/2025/apr/04/tik-tok-ban-trump-extension)
-- [Los Angeles agrees to $4bn deal to settle thousands of sexual abuse claims](https://www.theguardian.com/us-news/2025/apr/04/los-angeles-sexual-abuse-claims-settlement)
-- [Anti-abortion campaigner convicted of breaching buffer zone outside UK clinic](https://www.theguardian.com/world/2025/apr/04/abortion-campaigner-livia-tossici-bolt-buffer-zone-clinic)
+- [Ukraine war briefing: Zelenskyy criticises ‘weak’ US reaction to deadly Russian strike on his hometown](https://www.theguardian.com/world/2025/apr/06/ukraine-war-briefing-zelenskyy-criticises-weak-us-reaction-to-deadly-russian-strike-on-his-hometown)
+- [Torrential rain and flash flooding follow deadly tornadoes as storms rage in central US](https://www.theguardian.com/us-news/2025/apr/06/torrential-rain-and-flash-flooding-follow-deadly-tornadoes-as-storms-rage-in-central-us)
+- [US revokes all visas for South Sudanese over country’s failure to repatriate citizens](https://www.theguardian.com/us-news/2025/apr/06/us-revokes-all-visas-for-south-sudanese-over-countrys-failure-to-repatriate-citizens)
+- [Tens of thousands rally against Trump at DC ‘Hands Off’ protest](https://www.theguardian.com/us-news/2025/apr/05/trump-hands-off-protest)
+- [UK foreign secretary criticises Israel for denying two Labour MPs entry](https://www.theguardian.com/world/2025/apr/05/uk-foreign-secretary-criticises-israel-for-denying-two-labour-mps-entry)
+- [Spring hits: Transeasonal wardrobe updates – in pictures](https://www.theguardian.com/fashion/gallery/2025/apr/05/spring-hits-transeasonal-wardrobe-updates-in-pictures)
+- [Biologist whose innovation saved the life of British teenager wins $3m Breakthrough prize](https://www.theguardian.com/science/2025/apr/05/david-liu-gene-editing-breakthrough-prize)
+- [Mahmoud Khalil says his arrest was part of ‘Columbia’s repression playbook’](https://www.theguardian.com/us-news/2025/apr/05/mahmoud-khalil-columbia-university)
+- [Firefighters tackle wildfire spreading over large forest area in Scotland](https://www.theguardian.com/uk-news/2025/apr/05/firefighters-tackle-wildfire-spreading-over-large-forest-area-in-scotland)
+- [Handle with care: the international community sending parcels of pure joy through the mail](https://www.theguardian.com/lifeandstyle/2025/apr/06/friendship-books-fbs-international-community)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

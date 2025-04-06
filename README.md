@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [OpenVertebrate Presents a Database of 13,000 3D Scans of Specimens](https://www.openculture.com/2024/03/openvertebrate-presents-a-massive-database-of-13000-3d-scans-of-vertebrate-specimens.html)
-- [Learn electricity and electronics fundamentals without taking a formal course](https://simonmonk.org/tyee7)
-- [Mercantilism](https://en.wikipedia.org/wiki/Mercantilism)
-- [AT&amp;T Email-to-Text Gateway Service Ending June 17](https://www.att.com/support/article/wireless/KM1061254/)
-- [Increasing Timber Production, an Emergency Situation on National Forest Lands [pdf]](https://www.usda.gov/sites/default/files/documents/sm-1078-006.pdf)
-- [Annotated Unix Magic Poster](https://unixmagic.net/)
-- [The &#39;Judicial Black Hole&#39; of El Salvador&#39;s Prisons Is a Warning for Americans](https://www.rollingstone.com/politics/politics-features/el-salvador-prisons-warning-americans-trump-1235309721/)
-- [Show HN: Clawtype v2.1 – a one-hand chorded USB keyboard and mouse [video]](https://www.youtube.com/watch?v=N2PSiOl-auM)
-- [The blissful Zen of a good side project](https://joshcollinsworth.com/blog/the-blissful-zen-of-a-good-side-project)
-- [Google announces Sec-Gemini v1 a new experimental cybersecurity model](https://security.googleblog.com/2025/04/google-launches-sec-gemini-v1-new.html)
+- [Five Nurses who work on the same floor at hospital have brain tumors](https://www.nbcnews.com/news/us-news/5-nurses-work-floor-massachusetts-hospital-brain-tumors-rcna199798)
+- [Erica Synths DIY Eurorack Modules](https://github.com/erica-synths/diy-eurorack)
+- [Apple&#39;s Darwin OS and XNU Kernel Deep Dive](https://tansanrao.com/blog/2025/04/xnu-kernel-and-darwin-evolution-and-architecture/)
+- [The ADHD Body Double: A Unique Tool for Getting Things Done](https://add.org/the-body-double/)
+- [Ten Rules for Negotiating a Job Offer](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/)
+- [We are still using 88x31 buttons](https://ultrasciencelabs.com/lab-notes/why-we-are-still-using-88x31-buttons)
+- [North America Is Dripping from Below, Geoscientists Discover](https://www.jsg.utexas.edu/news/2025/04/north-america-is-dripping-from-below-geoscientists-discover/)
+- [Open Source Coalition Announces &#39;Model-Signing&#39; to Strengthen ML Supply Chain](https://pypi.org/project/model-signing/)
+- [To Do Nothing](https://shilin.ca/to-do-nothing/)
+- [The Llama 4 herd](https://ai.meta.com/blog/llama-4-multimodal-intelligence/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

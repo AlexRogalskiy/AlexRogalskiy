@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Five Nurses who work on the same floor at hospital have brain tumors](https://www.nbcnews.com/news/us-news/5-nurses-work-floor-massachusetts-hospital-brain-tumors-rcna199798)
-- [Erica Synths DIY Eurorack Modules](https://github.com/erica-synths/diy-eurorack)
-- [Apple&#39;s Darwin OS and XNU Kernel Deep Dive](https://tansanrao.com/blog/2025/04/xnu-kernel-and-darwin-evolution-and-architecture/)
-- [The ADHD Body Double: A Unique Tool for Getting Things Done](https://add.org/the-body-double/)
-- [Ten Rules for Negotiating a Job Offer](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/)
-- [We are still using 88x31 buttons](https://ultrasciencelabs.com/lab-notes/why-we-are-still-using-88x31-buttons)
-- [North America Is Dripping from Below, Geoscientists Discover](https://www.jsg.utexas.edu/news/2025/04/north-america-is-dripping-from-below-geoscientists-discover/)
-- [Open Source Coalition Announces &#39;Model-Signing&#39; to Strengthen ML Supply Chain](https://pypi.org/project/model-signing/)
-- [To Do Nothing](https://shilin.ca/to-do-nothing/)
-- [The Llama 4 herd](https://ai.meta.com/blog/llama-4-multimodal-intelligence/)
+- [Let&#39;s Ban Billboards](https://iambateman.com/articles/billboards)
+- [After &#39;coding error&#39; triggers firings, top NIH scientists called back to work](https://www.science.org/content/article/after-coding-error-triggers-firings-top-nih-scientists-called-back-work)
+- [Why Lotus Domino?](http://www.moohar.com/blog/why_domino)
+- [Glamorous Toolkit](https://gtoolkit.com//)
+- [SciOp torrents: download, seed erased US Gov sites and datasets](https://sciop.net/uploads/)
+- [Baby Steps into Genetic Programming](https://aerique.blogspot.com/2011/01/baby-steps-into-genetic-programming.html)
+- [Data centers contain 90% crap data](https://gerrymcgovern.com/data-centers-contain-90-crap-data/)
+- [Eavesdropping on smartphone 13.56MHz NFC polling during screen wake-up/unlock](https://old.reddit.com/r/RTLSDR/comments/1jsr9jv/eavesdropping_on_smartphone_1356mhz_nfc_polling/)
+- [Microcomputers – The First Wave: Responding to Altair](https://technicshistory.com/2025/04/06/microcomputers-the-first-wave-responding-to-altair/)
+- [Rsync replaced with openrsync on macOS Sequoia](https://derflounder.wordpress.com/2025/04/06/rsync-replaced-with-openrsync-on-macos-sequoia/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

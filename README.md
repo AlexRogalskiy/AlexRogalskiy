@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine war briefing: Zelenskyy criticises ‘weak’ US reaction to deadly Russian strike on his hometown](https://www.theguardian.com/world/2025/apr/06/ukraine-war-briefing-zelenskyy-criticises-weak-us-reaction-to-deadly-russian-strike-on-his-hometown)
-- [Torrential rain and flash flooding follow deadly tornadoes as storms rage in central US](https://www.theguardian.com/us-news/2025/apr/06/torrential-rain-and-flash-flooding-follow-deadly-tornadoes-as-storms-rage-in-central-us)
-- [US revokes all visas for South Sudanese over country’s failure to repatriate citizens](https://www.theguardian.com/us-news/2025/apr/06/us-revokes-all-visas-for-south-sudanese-over-countrys-failure-to-repatriate-citizens)
-- [Tens of thousands rally against Trump at DC ‘Hands Off’ protest](https://www.theguardian.com/us-news/2025/apr/05/trump-hands-off-protest)
-- [UK foreign secretary criticises Israel for denying two Labour MPs entry](https://www.theguardian.com/world/2025/apr/05/uk-foreign-secretary-criticises-israel-for-denying-two-labour-mps-entry)
-- [Spring hits: Transeasonal wardrobe updates – in pictures](https://www.theguardian.com/fashion/gallery/2025/apr/05/spring-hits-transeasonal-wardrobe-updates-in-pictures)
-- [Biologist whose innovation saved the life of British teenager wins $3m Breakthrough prize](https://www.theguardian.com/science/2025/apr/05/david-liu-gene-editing-breakthrough-prize)
-- [Mahmoud Khalil says his arrest was part of ‘Columbia’s repression playbook’](https://www.theguardian.com/us-news/2025/apr/05/mahmoud-khalil-columbia-university)
-- [Firefighters tackle wildfire spreading over large forest area in Scotland](https://www.theguardian.com/uk-news/2025/apr/05/firefighters-tackle-wildfire-spreading-over-large-forest-area-in-scotland)
-- [Handle with care: the international community sending parcels of pure joy through the mail](https://www.theguardian.com/lifeandstyle/2025/apr/06/friendship-books-fbs-international-community)
+- [Asian markets plunge further amid tariff fallout; Trump says ‘sometimes you have to take medicine’ – business live](https://www.theguardian.com/business/blog/live/2025/apr/07/global-stock-markets-brace-donald-trump-us-tariffs-business-live-updates-news)
+- [What’s causing the crisis in UK TV production? – podcast](https://www.theguardian.com/news/audio/2025/apr/07/what-is-causing-crisis-uk-tv-production-podcast)
+- [We have more data on ourselves than ever before. But can we really track our way into happiness? | Samantha Floreani](https://www.theguardian.com/commentisfree/2025/apr/07/we-have-more-data-on-ourselves-than-ever-before-but-can-we-really-track-our-way-into-happiness)
+- [One in four Britons victim of ticket scams for in-demand events, says Nationwide](https://www.theguardian.com/money/2025/apr/07/one-in-four-britons-victim-of-ticket-scams-for-in-demand-events-says-nationwide)
+- [Scottish wildfire forces evacuations as blaze spreads north from Galloway](https://www.theguardian.com/uk-news/2025/apr/06/scottish-wildfire-forces-evacuations-as-blaze-spreads-north-from-galloway)
+- [Benefits of ADHD medication outweigh health risks, study finds](https://www.theguardian.com/society/2025/apr/06/adhd-medication-drugs-risks-benefits-children-study)
+- [Two arrested after 60-year-old man shot dead in County Durham](https://www.theguardian.com/uk-news/2025/apr/06/two-arrested-after-60-year-old-man-shot-dead-in-county-durham)
+- [Olivier awards 2025: Giant, Benjamin Button and Fiddler on the Roof triumph](https://www.theguardian.com/stage/2025/apr/06/olivier-awards-2025-giant-benjamin-button-and-fiddler-on-the-roof-triumph)
+- [US attorney general says Trump likely ‘going to be finished’ after second term](https://www.theguardian.com/us-news/2025/apr/06/pam-bondi-trump-third-term)
+- [Le Pen vows to fight ‘political’ ruling, as France’s main parties stage rival rallies](https://www.theguardian.com/world/2025/apr/06/le-pen-vows-to-fight-political-ruling-as-frances-main-parties-stage-rival-rallies)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

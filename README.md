@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Serving Vector Tiles, Fast](https://spatialists.ch/posts/2025/04-05-serving-vector-tiles-fast/)
-- [Lightweight threads and channels are better than async/await syntax](https://news.ycombinator.com/item?id=43598567)
-- [Agent Engineering](https://www.latent.space/p/agent)
-- [Techniques Hacker News Uses to Create Great Shell Scripts](https://nochlin.com/blog/6-techniques-hacker-news-uses-to-create-great-shell-scripts)
-- [Leaked Audio of Musk Crying to Trump Explains Tesla&#39;s Death Spiral](https://deanblundell.substack.com/p/elons-oval-office-meltdown-leaked)
-- [How AI is steering the media toward a &#39;close enough&#39; standard](https://www.fastcompany.com/91310978/ai-steers-the-media-toward-a-close-enough-standard)
-- [Making Node.js Downloads Reliable](https://nodejs.org/en/blog/announcements/making-nodejs-downloads-reliable)
-- [A woman who invented the dishwasher](https://www.popsci.com/technology/josephine-cochrane-dishwasher-inventor/)
-- [The Death of the Middle-Class Restaurant](https://www.nytimes.com/2025/04/04/dining/middle-class-restaurant.html)
-- [TripoSG – Text to 3D Model](https://github.com/VAST-AI-Research/TripoSG)
+- [Tree Calculus &lpar;2021&rpar; [pdf]](https://github.com/barry-jay-personal/tree-calculus/blob/master/tree_book.pdf)
+- [The controversial California city backed by tech elite has a new plan: boats](https://www.theguardian.com/us-news/2025/mar/28/california-forever-tech-boats)
+- [Bugs, Bugs, Bugs](https://rachelbythebay.com/w/2025/03/11/xhtml/)
+- [GPMI set to deliver up to 192Gbps and 480W through a single USB cable](https://videocardz.com/newz/chinas-general-purpose-media-interface-gpmi-set-to-deliver-up-to-192gb-of-bandwidth-and-480w-power-through-a-single-usb-cable)
+- [The gist of s1: simple test time scaling](https://xeiaso.net/notes/2025/s1-simple-test-time-scaling/)
+- [Macintosh Magazine Media: 1M files](https://blog.gingerbeardman.com/2025/03/28/macintosh-magazine-media-1-million-files/)
+- [Time to Better Know the Time in PostgreSQL](https://notso.boringsql.com/posts/know-the-time-in-postgresql/)
+- [Why an Australian journalist is teaching meditation in America&#39;s toughest jails](https://www.abc.net.au/news/2025-04-06/compass-australian-teaching-vedic-meditation-american-jail/105133180)
+- [Arcade Game Documentaries](https://www.youtube.com/channel/UCCkuHXWWyw-3KXKIHyc88oA)
+- [Maurice Hilleman](https://en.wikipedia.org/wiki/Maurice_Hilleman)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

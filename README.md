@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Tree Calculus &lpar;2021&rpar; [pdf]](https://github.com/barry-jay-personal/tree-calculus/blob/master/tree_book.pdf)
-- [The controversial California city backed by tech elite has a new plan: boats](https://www.theguardian.com/us-news/2025/mar/28/california-forever-tech-boats)
-- [Bugs, Bugs, Bugs](https://rachelbythebay.com/w/2025/03/11/xhtml/)
-- [GPMI set to deliver up to 192Gbps and 480W through a single USB cable](https://videocardz.com/newz/chinas-general-purpose-media-interface-gpmi-set-to-deliver-up-to-192gb-of-bandwidth-and-480w-power-through-a-single-usb-cable)
-- [The gist of s1: simple test time scaling](https://xeiaso.net/notes/2025/s1-simple-test-time-scaling/)
-- [Macintosh Magazine Media: 1M files](https://blog.gingerbeardman.com/2025/03/28/macintosh-magazine-media-1-million-files/)
-- [Time to Better Know the Time in PostgreSQL](https://notso.boringsql.com/posts/know-the-time-in-postgresql/)
-- [Why an Australian journalist is teaching meditation in America&#39;s toughest jails](https://www.abc.net.au/news/2025-04-06/compass-australian-teaching-vedic-meditation-american-jail/105133180)
-- [Arcade Game Documentaries](https://www.youtube.com/channel/UCCkuHXWWyw-3KXKIHyc88oA)
-- [Maurice Hilleman](https://en.wikipedia.org/wiki/Maurice_Hilleman)
+- [Dennis Gaitsgory Wins Breakthrough Prize](https://www.scientificamerican.com/article/dennis-gaitsgory-wins-breakthrough-prize-for-solving-part-of-maths-grand/)
+- [PhyloPic](https://www.phylopic.org)
+- [Terms of Centaur Service](https://contraptions.venkateshrao.com/p/terms-of-centaur-service)
+- [I made a website for traders to know the value difference between GOLD&amp;Bitcoin](https://www.bitcoinvs.gold/)
+- [Trump threatens 50% additional tariffs to China](https://www.cnbc.com/2025/04/08/china-resolutely-opposes-trumps-50percent-tariff-threat-vows-retaliation.html)
+- [Kids with Smartphones Less Depressed, Anxious, Bullied Than Peers Without Them](https://reason.com/2025/04/07/study-kids-with-smartphones-are-less-depressed-anxious-bullied-than-peers-without-them/)
+- [Apple-UK data privacy row should not be secret, court rules](https://www.bbc.com/news/articles/cvgn1lz3v4no)
+- [154M lives and counting: 5 charts reveal the power of vaccines](https://www.nature.com/articles/d41586-025-00862-1)
+- [Did Frank Zappa Come Up With A Business Plan For File Sharing In 1983? &lpar;2009&rpar;](https://www.techdirt.com/2009/04/08/did-frank-zappa-come-up-with-a-business-plan-for-file-sharing-in-1983/)
+- [Yorgos Lanthimos denied permission to shoot new film at the Acropolis](https://www.theguardian.com/film/2025/apr/07/yorgos-lanthimos-denied-permission-to-shoot-film-at-athens-acropolis)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

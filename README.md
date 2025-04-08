@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Let&#39;s Ban Billboards](https://iambateman.com/articles/billboards)
-- [After &#39;coding error&#39; triggers firings, top NIH scientists called back to work](https://www.science.org/content/article/after-coding-error-triggers-firings-top-nih-scientists-called-back-work)
-- [Why Lotus Domino?](http://www.moohar.com/blog/why_domino)
-- [Glamorous Toolkit](https://gtoolkit.com//)
-- [SciOp torrents: download, seed erased US Gov sites and datasets](https://sciop.net/uploads/)
-- [Baby Steps into Genetic Programming](https://aerique.blogspot.com/2011/01/baby-steps-into-genetic-programming.html)
-- [Data centers contain 90% crap data](https://gerrymcgovern.com/data-centers-contain-90-crap-data/)
-- [Eavesdropping on smartphone 13.56MHz NFC polling during screen wake-up/unlock](https://old.reddit.com/r/RTLSDR/comments/1jsr9jv/eavesdropping_on_smartphone_1356mhz_nfc_polling/)
-- [Microcomputers – The First Wave: Responding to Altair](https://technicshistory.com/2025/04/06/microcomputers-the-first-wave-responding-to-altair/)
-- [Rsync replaced with openrsync on macOS Sequoia](https://derflounder.wordpress.com/2025/04/06/rsync-replaced-with-openrsync-on-macos-sequoia/)
+- [Any program can be a GitHub Actions shell](https://yossarian.net/til/post/any-program-can-be-a-github-actions-shell/)
+- [North Korean IT workers have infiltrated the Fortune 500](https://www.yahoo.com/news/thousands-north-korean-workers-infiltrated-110000417.html)
+- [What Was Quartz?](https://www.zachseward.com/what-was-quartz/)
+- [Beyond Quacking: Deep Integration of Language Models and RAG into DuckDB](https://arxiv.org/abs/2504.01157)
+- [A Supermarket Bag and a Truckload of FOMO](https://blog.julik.nl/2025/03/a-little-adventure-in-modern-frontend)
+- [Ancient Dagger Up to 2.5k Years Old W Stars/Moons/Geometric Patterns Unearthed](https://www.smithsonianmag.com/smart-news/metal-detectorists-unearth-ancient-dagger-decorated-with-tiny-stars-crescent-moons-and-geometric-patterns-180986369/)
+- [Middle-aged man trading cards go viral in rural Japan town](https://www.tokyoweekender.com/entertainment/middle-aged-man-trading-cards-go-viral-in-japan/)
+- [Scaffold Level Editor](https://blog.littlepolygon.com/posts/scaffold/)
+- [Show HN: Minimal MCP server in Go showcasing project architecture](https://github.com/TuanKiri/weather-mcp-server)
+- [Show HN: Lux – A luxurious package manager for Lua](https://mrcjkb.dev/posts/2025-04-07-lux-announcement.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

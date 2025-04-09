@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Any program can be a GitHub Actions shell](https://yossarian.net/til/post/any-program-can-be-a-github-actions-shell/)
-- [North Korean IT workers have infiltrated the Fortune 500](https://www.yahoo.com/news/thousands-north-korean-workers-infiltrated-110000417.html)
-- [What Was Quartz?](https://www.zachseward.com/what-was-quartz/)
-- [Beyond Quacking: Deep Integration of Language Models and RAG into DuckDB](https://arxiv.org/abs/2504.01157)
-- [A Supermarket Bag and a Truckload of FOMO](https://blog.julik.nl/2025/03/a-little-adventure-in-modern-frontend)
-- [Ancient Dagger Up to 2.5k Years Old W Stars/Moons/Geometric Patterns Unearthed](https://www.smithsonianmag.com/smart-news/metal-detectorists-unearth-ancient-dagger-decorated-with-tiny-stars-crescent-moons-and-geometric-patterns-180986369/)
-- [Middle-aged man trading cards go viral in rural Japan town](https://www.tokyoweekender.com/entertainment/middle-aged-man-trading-cards-go-viral-in-japan/)
-- [Scaffold Level Editor](https://blog.littlepolygon.com/posts/scaffold/)
-- [Show HN: Minimal MCP server in Go showcasing project architecture](https://github.com/TuanKiri/weather-mcp-server)
-- [Show HN: Lux – A luxurious package manager for Lua](https://mrcjkb.dev/posts/2025-04-07-lux-announcement.html)
+- [Dockerfmt: A Dockerfile Formatter](https://github.com/reteps/dockerfmt)
+- [Who isn&#39;t a big fan of &quot;impartial&quot; news? People who don&#39;t have power](https://www.niemanlab.org/2025/04/which-types-of-people-arent-big-fans-of-impartial-news-people-who-dont-have-power/)
+- [The Barium Experiment](https://tomscii.sig7.se/2025/04/The-Barium-Experiment)
+- [Show HN: DrawDB – open-source online database diagram editor &lpar;a retro&rpar;](https://www.drawdb.app/)
+- [Work Simplification and the History of Government Efficiency and Management](https://www.governance.fyi/p/historical-government-efficiency)
+- [PostgreSQL Full-Text Search: Fast When Done Right &lpar;Debunking the Slow Myth&rpar;](https://blog.vectorchord.ai/postgresql-full-text-search-fast-when-done-right-debunking-the-slow-myth)
+- [How to Recognize Woodpeckers by Their Drumming Sounds](https://www.allaboutbirds.org/news/how-to-recognize-woodpeckers-by-their-drumming-sounds/)
+- [Obituary for Cyc](https://yuxi-liu-wired.github.io/essays/posts/cyc/)
+- [Solving a “Layton Puzzle” with Prolog](https://buttondown.com/hillelwayne/archive/a48fce5b-8a05-4302-b620-9b26f057f145/)
+- [Decomposing factorial of 300K as the product of 300K factors larger than 100K](http://gus-massa.blogspot.com/2025/04/decomposing-factorial-of-300k-as.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

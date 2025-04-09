@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Dennis Gaitsgory Wins Breakthrough Prize](https://www.scientificamerican.com/article/dennis-gaitsgory-wins-breakthrough-prize-for-solving-part-of-maths-grand/)
-- [PhyloPic](https://www.phylopic.org)
-- [Terms of Centaur Service](https://contraptions.venkateshrao.com/p/terms-of-centaur-service)
-- [I made a website for traders to know the value difference between GOLD&amp;Bitcoin](https://www.bitcoinvs.gold/)
-- [Trump threatens 50% additional tariffs to China](https://www.cnbc.com/2025/04/08/china-resolutely-opposes-trumps-50percent-tariff-threat-vows-retaliation.html)
-- [Kids with Smartphones Less Depressed, Anxious, Bullied Than Peers Without Them](https://reason.com/2025/04/07/study-kids-with-smartphones-are-less-depressed-anxious-bullied-than-peers-without-them/)
-- [Apple-UK data privacy row should not be secret, court rules](https://www.bbc.com/news/articles/cvgn1lz3v4no)
-- [154M lives and counting: 5 charts reveal the power of vaccines](https://www.nature.com/articles/d41586-025-00862-1)
-- [Did Frank Zappa Come Up With A Business Plan For File Sharing In 1983? &lpar;2009&rpar;](https://www.techdirt.com/2009/04/08/did-frank-zappa-come-up-with-a-business-plan-for-file-sharing-in-1983/)
-- [Yorgos Lanthimos denied permission to shoot new film at the Acropolis](https://www.theguardian.com/film/2025/apr/07/yorgos-lanthimos-denied-permission-to-shoot-film-at-athens-acropolis)
+- [Our Best Customers Are Now Robots](https://fly.io/blog/fuckin-robots/)
+- [Salesforce DQ Co-Pilot that includes human-in-the-loop reviews](https://getadq.com/)
+- [EU preparing first fines against tech giants Apple and Meta](https://english.elpais.com/economy-and-business/2025-04-08/eu-preparing-first-fines-against-tech-giants-apple-and-meta.html)
+- [Show HN: TrialSeek – AI-powered clinical trial discovery](https://www.trialseek.org/)
+- [Rust Traits – Associated Types and Generic Traits](https://meghprkh.github.io/blog/posts/rust-traits-associated-types-generic-traits/)
+- [Meta Whistleblower to Tell Congress That Company Aided China in AI Race](https://www.bloomberg.com/news/articles/2025-04-09/meta-whistleblower-to-tell-congress-that-company-aided-china-in-ai-race)
+- [Hardened File Backup Routine](https://wrongthink.link/posts/hardened-backup-routine/)
+- [NativePHP for Desktop v1 Released](https://github.com/orgs/NativePHP/discussions/547)
+- [VulnCon Day 2 Errata and Taking Ben Edwards to Task](https://jericho.blog/2025/04/08/vulncon-day-2-errata-taking-ben-edwards-to-task/)
+- [Trump says EU must buy $350B of US energy to get tariff relief](https://www.politico.eu/article/donald-trump-says-eu-must-buy-350b-of-us-energy-to-get-tariff-relief/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

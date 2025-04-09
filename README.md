@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [China says it will ‘fight to the end’ after Trump threatens additional 50% tariffs – business live](https://www.theguardian.com/business/live/2025/apr/08/stock-markets-nikkei-dow-ftse-100-asian-market-today-trump-china-tariffs-threat-business-news-live-latest-updates)
-- [Is it safe to visit the US? – podcast](https://www.theguardian.com/news/audio/2025/apr/08/is-it-safe-to-visit-the-us-podcast)
-- [I knew some of the paramedics killed in Gaza. As humanitarian workers, we are drowning in grief | Amy Neilson](https://www.theguardian.com/world/commentisfree/2025/apr/08/i-knew-some-of-the-paramedics-killed-in-gaza-as-humanitarian-workers-we-are-drowning-in-grief-ntwnfb)
-- [Ukraine war briefing: Zelenskyy speaks of military presence in Russia’s Belgorod region for first time](https://www.theguardian.com/world/2025/apr/08/ukraine-war-briefing-zelenskyy-speaks-of-military-presence-in-russias-belgorod-region-for-first-time)
-- [Belgian prince loses legal battle to receive social security benefits on top of royal allowance](https://www.theguardian.com/world/2025/apr/08/belgian-prince-laurent-social-security-benefits-royal-allowance)
-- [Madonna and Elton John make peace after decades-long strained relationship](https://www.theguardian.com/music/2025/apr/08/madonna-and-elton-john-make-peace-after-decades-long-strained-relationship)
-- [Clean energy powered 40% of global electricity in 2024, report finds](https://www.theguardian.com/business/2025/apr/08/clean-energy-powered-40-of-global-electricity-in-2024-report-finds)
-- [Executions at 10-year high after huge increases in Iran, Iraq and Saudi Arabia](https://www.theguardian.com/world/2025/apr/08/executions-decade-high-2024-huge-increases-iran-iraq-saudi-arabia-amnesty-international)
-- [Van Nistelrooy in gloomy mood after Newcastle blow away flimsy Leicester](https://www.theguardian.com/football/2025/apr/07/jacob-murphys-lightning-double-helps-newcastle-blow-away-flimsy-leicester)
-- [What They Found review – Sam Mendes’s debut documentary has the power to change viewers for ever](https://www.theguardian.com/tv-and-radio/2025/apr/07/what-they-found-review-sam-mendess-debut-documentary-has-the-power-to-change-viewers-for-ever)
+- [Palau president backs Australia’s bid to host Cop31 climate summit after Dutton labels it ‘madness’](https://www.theguardian.com/world/2025/apr/09/palau-president-australia-cop-31-climate-summit)
+- [Asian markets fall as Trump’s sweeping global tariffs, including 104% against China, due to take effect – business live](https://www.theguardian.com/business/live/2025/apr/09/stock-share-markets-us-china-trade-trump-tariffs-business-news-live-updates)
+- [White House freezes funds for Cornell and Northwestern in latest crackdown](https://www.theguardian.com/us-news/2025/apr/08/trump-administration-cornell-northwestern-funding)
+- [Donald Trump flags ‘major tariff on pharmaceuticals’ as US senator criticises ‘whack’ on Australia](https://www.theguardian.com/australia-news/2025/apr/09/donald-trump-flags-major-tariff-on-pharmaceuticals-as-us-senator-criticises-whack-on-australia)
+- [Will Trump’s tariffs tip the world into recession? – podcast](https://www.theguardian.com/news/audio/2025/apr/09/will-trumps-tariffs-tip-the-world-into-recession-today-in-focus-podcast)
+- [As Trump ignites tariff war, a US city is embracing Canadians with all its heart](https://www.theguardian.com/us-news/2025/apr/08/trump-canada-tariffs-california)
+- [Ukraine war briefing: Zelenskyy demands answers over Chinese nationals fighting for Russia](https://www.theguardian.com/world/2025/apr/09/ukraine-war-briefing-zelenskyy-demands-answers-over-chinese-nationals-fighting-for-russia)
+- [China fires back after Pete Hegseth calls country a threat to Panama canal](https://www.theguardian.com/us-news/2025/apr/08/pete-hegseth-china-panama-canal)
+- [‘We will have to raise prices’: gloom and resolve in Yiwu, on China’s trade war frontline](https://www.theguardian.com/world/2025/apr/09/yiwu-market-zj-cn-china-us-trade-war)
+- [Universal chooses Bedford to be location of its first theme park in Europe](https://www.theguardian.com/travel/2025/apr/09/universal-chooses-bedford-to-be-location-of-its-first-theme-park-in-europe)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Our Best Customers Are Now Robots](https://fly.io/blog/fuckin-robots/)
-- [Salesforce DQ Co-Pilot that includes human-in-the-loop reviews](https://getadq.com/)
-- [EU preparing first fines against tech giants Apple and Meta](https://english.elpais.com/economy-and-business/2025-04-08/eu-preparing-first-fines-against-tech-giants-apple-and-meta.html)
-- [Show HN: TrialSeek – AI-powered clinical trial discovery](https://www.trialseek.org/)
-- [Rust Traits – Associated Types and Generic Traits](https://meghprkh.github.io/blog/posts/rust-traits-associated-types-generic-traits/)
-- [Meta Whistleblower to Tell Congress That Company Aided China in AI Race](https://www.bloomberg.com/news/articles/2025-04-09/meta-whistleblower-to-tell-congress-that-company-aided-china-in-ai-race)
-- [Hardened File Backup Routine](https://wrongthink.link/posts/hardened-backup-routine/)
-- [NativePHP for Desktop v1 Released](https://github.com/orgs/NativePHP/discussions/547)
-- [VulnCon Day 2 Errata and Taking Ben Edwards to Task](https://jericho.blog/2025/04/08/vulncon-day-2-errata-taking-ben-edwards-to-task/)
-- [Trump says EU must buy $350B of US energy to get tariff relief](https://www.politico.eu/article/donald-trump-says-eu-must-buy-350b-of-us-energy-to-get-tariff-relief/)
+- [RFC 3446 – Introduce the Store API for great good](https://github.com/matthieu-m/rfcs/blob/store/text/3446-store.md)
+- [Tesla Canada says its shady $43M incentive grab was a misunderstanding](https://electrek.co/2025/04/09/tesla-canada-says-its-shady-43-million-incentive-grab-was-a-misunderstanding/)
+- [The Art of Elliptical Python Programming](https://susam.net/elliptical-python-programming.html)
+- [Strong evidence suggesting Quasar Alpha is OpenAI&#39;s new model](https://blog.kilocode.ai/p/quasar-alpha-what-we-know-thus-far)
+- [First Week with Journelly](https://taonaw.com/2025/04/09/ive-been-testing-out-journelly.html)
+- [MCP Server](https://github.com/modelcontextprotocol/servers)
+- [Business Gato](https://twitter.com/ShouldHaveCat/status/1909685784241643583)
+- [Dice and Queues](https://justincartwright.com/2025/02/25/dice-and-queues.html)
+- [Matt Blaze Testimony on Typhoon Cyberattack [pdf]](https://oversight.house.gov/wp-content/uploads/2025/04/Blaze-Written-Testimony.pdf)
+- [OpenAI countersues Elon Musk to stop his attacks and &#39;fake takeover bid&#39;](https://www.theverge.com/news/646308/openai-countersues-elon-musk)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

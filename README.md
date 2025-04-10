@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Palau president backs Australia’s bid to host Cop31 climate summit after Dutton labels it ‘madness’](https://www.theguardian.com/world/2025/apr/09/palau-president-australia-cop-31-climate-summit)
-- [Asian markets fall as Trump’s sweeping global tariffs, including 104% against China, due to take effect – business live](https://www.theguardian.com/business/live/2025/apr/09/stock-share-markets-us-china-trade-trump-tariffs-business-news-live-updates)
-- [White House freezes funds for Cornell and Northwestern in latest crackdown](https://www.theguardian.com/us-news/2025/apr/08/trump-administration-cornell-northwestern-funding)
-- [Donald Trump flags ‘major tariff on pharmaceuticals’ as US senator criticises ‘whack’ on Australia](https://www.theguardian.com/australia-news/2025/apr/09/donald-trump-flags-major-tariff-on-pharmaceuticals-as-us-senator-criticises-whack-on-australia)
-- [Will Trump’s tariffs tip the world into recession? – podcast](https://www.theguardian.com/news/audio/2025/apr/09/will-trumps-tariffs-tip-the-world-into-recession-today-in-focus-podcast)
-- [As Trump ignites tariff war, a US city is embracing Canadians with all its heart](https://www.theguardian.com/us-news/2025/apr/08/trump-canada-tariffs-california)
-- [Ukraine war briefing: Zelenskyy demands answers over Chinese nationals fighting for Russia](https://www.theguardian.com/world/2025/apr/09/ukraine-war-briefing-zelenskyy-demands-answers-over-chinese-nationals-fighting-for-russia)
-- [China fires back after Pete Hegseth calls country a threat to Panama canal](https://www.theguardian.com/us-news/2025/apr/08/pete-hegseth-china-panama-canal)
-- [‘We will have to raise prices’: gloom and resolve in Yiwu, on China’s trade war frontline](https://www.theguardian.com/world/2025/apr/09/yiwu-market-zj-cn-china-us-trade-war)
-- [Universal chooses Bedford to be location of its first theme park in Europe](https://www.theguardian.com/travel/2025/apr/09/universal-chooses-bedford-to-be-location-of-its-first-theme-park-in-europe)
+- [Asian markets rally after Trump announces tariff reversal - business live](https://www.theguardian.com/business/live/2025/apr/10/trump-tariffs-us-china-eu-trade-war-markets-latest-news-updates)
+- [Rats, rubbish and rising taxes: why Birmingham stinks right now – podcast](https://www.theguardian.com/news/audio/2025/apr/10/rats-rubbish-rising-taxes-birmingham-bin-strike-podcast)
+- [Anjelica Huston reveals she was diagnosed with cancer six years ago, but is now ‘in the clear’](https://www.theguardian.com/world/2025/apr/10/anjelica-huston-cancer-diagnosis-recovery)
+- [Ukraine war briefing: Zelenskyy says US ‘very surprised’ after Chinese fighters captured on frontline](https://www.theguardian.com/world/2025/apr/10/ukraine-war-briefing-zelenskyy-says-us-very-surprised-after-chinese-fighters-captured-on-frontline)
+- [Weezer bassist’s wife shot by LA police and booked for attempted murder](https://www.theguardian.com/us-news/2025/apr/09/weezer-scott-shriner-wife-jillian-lauren)
+- [Trump signs executive order on water pressure to ‘restore shower freedom’](https://www.theguardian.com/us-news/2025/apr/09/trump-water-pressure-executive-order)
+- [UK needs annual migration plan to end incoherent policies, says thinktank](https://www.theguardian.com/uk-news/2025/apr/10/uk-needs-annual-migration-plan-to-end-incoherent-policies-says-thinktank)
+- [Half of England’s state secondaries forced to cut staff in budget squeeze, poll finds](https://www.theguardian.com/education/2025/apr/10/england-secondary-schools-staff-budget-cuts)
+- [Royal Mail trials postbox with parcel hatch, solar panels and barcode scanner](https://www.theguardian.com/business/2025/apr/10/royal-mail-trials-postbox-parcel-hatch-solar-panels-barcode-scanner)
+- [Netflix and co should pay levy to fund crisis-hit UK drama sector, say MPs](https://www.theguardian.com/tv-and-radio/2025/apr/10/netflix-streaming-services-levy-uk-drama-sector-mps)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

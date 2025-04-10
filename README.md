@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Dockerfmt: A Dockerfile Formatter](https://github.com/reteps/dockerfmt)
-- [Who isn&#39;t a big fan of &quot;impartial&quot; news? People who don&#39;t have power](https://www.niemanlab.org/2025/04/which-types-of-people-arent-big-fans-of-impartial-news-people-who-dont-have-power/)
-- [The Barium Experiment](https://tomscii.sig7.se/2025/04/The-Barium-Experiment)
-- [Show HN: DrawDB – open-source online database diagram editor &lpar;a retro&rpar;](https://www.drawdb.app/)
-- [Work Simplification and the History of Government Efficiency and Management](https://www.governance.fyi/p/historical-government-efficiency)
-- [PostgreSQL Full-Text Search: Fast When Done Right &lpar;Debunking the Slow Myth&rpar;](https://blog.vectorchord.ai/postgresql-full-text-search-fast-when-done-right-debunking-the-slow-myth)
-- [How to Recognize Woodpeckers by Their Drumming Sounds](https://www.allaboutbirds.org/news/how-to-recognize-woodpeckers-by-their-drumming-sounds/)
-- [Obituary for Cyc](https://yuxi-liu-wired.github.io/essays/posts/cyc/)
-- [Solving a “Layton Puzzle” with Prolog](https://buttondown.com/hillelwayne/archive/a48fce5b-8a05-4302-b620-9b26f057f145/)
-- [Decomposing factorial of 300K as the product of 300K factors larger than 100K](http://gus-massa.blogspot.com/2025/04/decomposing-factorial-of-300k-as.html)
+- [The reasons SpaceX won nearly all recent military launch contracts](https://arstechnica.com/space/2025/04/a-key-spacex-competitor-says-he-has-not-been-impacted-by-musks-ties-to-trump/)
+- [Rusty Cascading Style Sheets – Another CSS Preprocessor](https://github.com/ved-patel226/RCSS)
+- [Google Cloud Rapid Storage](https://cloud.google.com/blog/products/compute/whats-new-with-ai-hypercomputer)
+- [Enhancing Your MIDI Devices: Round II](https://www.perl.com/article/enhancing-your-midi-devices-round-ii/)
+- [BS 1363 British Plugs and Sockets](https://www.plugsocketmuseum.nl/British1.html)
+- [The Columbian Orator taught nineteenth-century Americans how to speak](https://www.neh.gov/article/columbian-orator-taught-nineteenth-century-americans-how-speak)
+- [Parser Combinators Beat Regexes](https://entropicthoughts.com/parser-combinators-beat-regexes)
+- [Show HN: LLM Based Spark Profiler](https://datasre.ai/)
+- [Whistleblower tells senators that Meta undermined U.S. security, interests](https://thehill.com/homenews/senate/5241043-meta-executives-undermine-national-security/)
+- [Keeping it Old-Tool: REPL habits of a grug-brained Clojure programmer](https://www.evalapply.org/posts/demo-clojure-workflow-scicloj/index.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

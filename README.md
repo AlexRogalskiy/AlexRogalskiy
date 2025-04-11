@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Asian markets rally after Trump announces tariff reversal - business live](https://www.theguardian.com/business/live/2025/apr/10/trump-tariffs-us-china-eu-trade-war-markets-latest-news-updates)
-- [Rats, rubbish and rising taxes: why Birmingham stinks right now – podcast](https://www.theguardian.com/news/audio/2025/apr/10/rats-rubbish-rising-taxes-birmingham-bin-strike-podcast)
-- [Anjelica Huston reveals she was diagnosed with cancer six years ago, but is now ‘in the clear’](https://www.theguardian.com/world/2025/apr/10/anjelica-huston-cancer-diagnosis-recovery)
-- [Ukraine war briefing: Zelenskyy says US ‘very surprised’ after Chinese fighters captured on frontline](https://www.theguardian.com/world/2025/apr/10/ukraine-war-briefing-zelenskyy-says-us-very-surprised-after-chinese-fighters-captured-on-frontline)
-- [Weezer bassist’s wife shot by LA police and booked for attempted murder](https://www.theguardian.com/us-news/2025/apr/09/weezer-scott-shriner-wife-jillian-lauren)
-- [Trump signs executive order on water pressure to ‘restore shower freedom’](https://www.theguardian.com/us-news/2025/apr/09/trump-water-pressure-executive-order)
-- [UK needs annual migration plan to end incoherent policies, says thinktank](https://www.theguardian.com/uk-news/2025/apr/10/uk-needs-annual-migration-plan-to-end-incoherent-policies-says-thinktank)
-- [Half of England’s state secondaries forced to cut staff in budget squeeze, poll finds](https://www.theguardian.com/education/2025/apr/10/england-secondary-schools-staff-budget-cuts)
-- [Royal Mail trials postbox with parcel hatch, solar panels and barcode scanner](https://www.theguardian.com/business/2025/apr/10/royal-mail-trials-postbox-parcel-hatch-solar-panels-barcode-scanner)
-- [Netflix and co should pay levy to fund crisis-hit UK drama sector, say MPs](https://www.theguardian.com/tv-and-radio/2025/apr/10/netflix-streaming-services-levy-uk-drama-sector-mps)
+- [Asian markets sink as Trump admits ‘transition cost’ of tariffs – business live](https://www.theguardian.com/business/live/2025/apr/11/donald-trump-tariffs-trade-war-us-china-markets-latest-news-updates)
+- [Supreme court orders Trump to return Maryland man wrongly deported to El Salvador to US – as it happened](https://www.theguardian.com/us-news/live/2025/apr/10/donald-trump-executive-order-shipping-tariffs-pause-us-politics-latest-updates-news)
+- [How a phone footage exposed a massacre of Gaza paramedics – podcast](https://www.theguardian.com/world/audio/2025/apr/11/how-a-phone-footage-exposed-a-massacre-of-gaza-paramedics-podcast)
+- [Trump news at a glance: no end in sight to tariff pain; wrongly deported man wins US return](https://www.theguardian.com/us-news/2025/apr/11/president-trump-administration-tariffs-immigration-news-updates-today)
+- [Six people killed after helicopter crashes into Hudson River in New York](https://www.theguardian.com/us-news/2025/apr/10/helicopter-crash-new-york)
+- [Rory McIlroy’s Masters hopes dive but Justin Rose blooms amid azaleas](https://www.theguardian.com/sport/2025/apr/11/rory-mcilroys-masters-hopes-dive-but-justin-rose-blooms-amid-azaleas)
+- [US fugitive fatally shoots ‘Gringo Hunters’ officer in Mexico](https://www.theguardian.com/world/2025/apr/10/us-fugitive-gringo-hunters-officer-mexico)
+- [Nathan Aspinall fights back for home Premier League win over Humphries](https://www.theguardian.com/sport/2025/apr/11/darts-premier-league-nathan-aspinall-luke-humphries-littler-gerwyn-price)
+- [‘Gamechanging’ breast cancer pill to be offered on NHS in England and Wales](https://www.theguardian.com/society/2025/apr/11/gamechanging-breast-cancer-pill-to-be-offered-on-nhs-in-england-and-wales)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2025/apr/11/premier-league-10-things-to-look-out-for-this-weekend)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

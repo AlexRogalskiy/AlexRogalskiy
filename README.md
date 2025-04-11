@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The reasons SpaceX won nearly all recent military launch contracts](https://arstechnica.com/space/2025/04/a-key-spacex-competitor-says-he-has-not-been-impacted-by-musks-ties-to-trump/)
-- [Rusty Cascading Style Sheets – Another CSS Preprocessor](https://github.com/ved-patel226/RCSS)
-- [Google Cloud Rapid Storage](https://cloud.google.com/blog/products/compute/whats-new-with-ai-hypercomputer)
-- [Enhancing Your MIDI Devices: Round II](https://www.perl.com/article/enhancing-your-midi-devices-round-ii/)
-- [BS 1363 British Plugs and Sockets](https://www.plugsocketmuseum.nl/British1.html)
-- [The Columbian Orator taught nineteenth-century Americans how to speak](https://www.neh.gov/article/columbian-orator-taught-nineteenth-century-americans-how-speak)
-- [Parser Combinators Beat Regexes](https://entropicthoughts.com/parser-combinators-beat-regexes)
-- [Show HN: LLM Based Spark Profiler](https://datasre.ai/)
-- [Whistleblower tells senators that Meta undermined U.S. security, interests](https://thehill.com/homenews/senate/5241043-meta-executives-undermine-national-security/)
-- [Keeping it Old-Tool: REPL habits of a grug-brained Clojure programmer](https://www.evalapply.org/posts/demo-clojure-workflow-scicloj/index.html)
+- [Default styles for H1 elements are changing](https://developer.mozilla.org/en-US/blog/h1-element-styles/)
+- [Tesla Canada says its shady $43M incentive grab was a misunderstanding](https://electrek.co/2025/04/09/tesla-canada-says-its-shady-43-million-incentive-grab-was-a-misunderstanding/)
+- [Crystal 1.16.0 Is Released](https://crystal-lang.org/2025/04/09/1.16.0-released/)
+- [Fintech founder charged with fraud; AI app found to be humans in the Philippines](https://techcrunch.com/2025/04/10/fintech-founder-charged-with-fraud-after-ai-shopping-app-found-to-be-powered-by-humans-in-the-philippines/)
+- [Black Mirror&#39;s pessimism porn won&#39;t lead us to a better future](https://www.theguardian.com/technology/2025/apr/10/black-mirror-tv-show-pessimism)
+- [Parity &lpar;YC S24&rpar; is hiring founding engineers to build an AI SRE &lpar;in-person SF&rpar;](https://www.ycombinator.com/companies/parity/jobs)
+- [This site uses cookies to store the fact you clicked “Accept Cookies”](https://rodyne.com/?p=2368)
+- [Show HN: I built a tool to manage and compare credit card rewards](https://rewards.getonecard.io)
+- [The Story Behind “100 Go Mistakes and How to Avoid Them”](https://www.thecoder.cafe/p/100-go-mistakes)
+- [PEP 750 – Template Strings](https://peps.python.org/pep-0750/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [RFC 3446 – Introduce the Store API for great good](https://github.com/matthieu-m/rfcs/blob/store/text/3446-store.md)
-- [Tesla Canada says its shady $43M incentive grab was a misunderstanding](https://electrek.co/2025/04/09/tesla-canada-says-its-shady-43-million-incentive-grab-was-a-misunderstanding/)
-- [The Art of Elliptical Python Programming](https://susam.net/elliptical-python-programming.html)
-- [Strong evidence suggesting Quasar Alpha is OpenAI&#39;s new model](https://blog.kilocode.ai/p/quasar-alpha-what-we-know-thus-far)
-- [First Week with Journelly](https://taonaw.com/2025/04/09/ive-been-testing-out-journelly.html)
-- [MCP Server](https://github.com/modelcontextprotocol/servers)
-- [Business Gato](https://twitter.com/ShouldHaveCat/status/1909685784241643583)
-- [Dice and Queues](https://justincartwright.com/2025/02/25/dice-and-queues.html)
-- [Matt Blaze Testimony on Typhoon Cyberattack [pdf]](https://oversight.house.gov/wp-content/uploads/2025/04/Blaze-Written-Testimony.pdf)
-- [OpenAI countersues Elon Musk to stop his attacks and &#39;fake takeover bid&#39;](https://www.theverge.com/news/646308/openai-countersues-elon-musk)
+- [Google A2a Protocol Collection](https://a2a.gg/)
+- [Model Context Protocol has prompt injection security problems](https://simonwillison.net/2025/Apr/9/mcp-prompt-injection/)
+- [Tell HN: Cloudflare billing issue that is over 6 months old and no support](https://news.ycombinator.com/item?id=43650042)
+- [The Dollar Is Collapsing](https://twitter.com/SpencerHakimian/status/1910516553017077982)
+- [AT&amp;T step-by-step switch](https://www.youtube.com/watch?v=xZePwin92cI)
+- [Anthropic research shows AI model conceals reasoning shortcuts 75% of the time [pdf]](https://assets.anthropic.com/m/71876fabef0f0ed4/original/reasoning_models_paper.pdf)
+- [The overlooked psychedelic that may help treat traumatic brain injury](https://bigthink.com/health/ibogaine-traumatic-brain-injury/)
+- [Elon Musk&#39;s DOGE Is Getting Audited by GAO](https://www.wired.com/story/gao-audit-elon-musk-doge-government-agencies/)
+- [No level of alcohol consumption is safe for our health &lpar;2023&rpar;](https://www.who.int/europe/news/item/04-01-2023-no-level-of-alcohol-consumption-is-safe-for-our-health)
+- [Ask HN: What Tech Have You Removed That Improved Your Life?](https://news.ycombinator.com/item?id=43649929)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

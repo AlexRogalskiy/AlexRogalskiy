@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Google A2a Protocol Collection](https://a2a.gg/)
-- [Model Context Protocol has prompt injection security problems](https://simonwillison.net/2025/Apr/9/mcp-prompt-injection/)
-- [Tell HN: Cloudflare billing issue that is over 6 months old and no support](https://news.ycombinator.com/item?id=43650042)
-- [The Dollar Is Collapsing](https://twitter.com/SpencerHakimian/status/1910516553017077982)
-- [AT&amp;T step-by-step switch](https://www.youtube.com/watch?v=xZePwin92cI)
-- [Anthropic research shows AI model conceals reasoning shortcuts 75% of the time [pdf]](https://assets.anthropic.com/m/71876fabef0f0ed4/original/reasoning_models_paper.pdf)
-- [The overlooked psychedelic that may help treat traumatic brain injury](https://bigthink.com/health/ibogaine-traumatic-brain-injury/)
-- [Elon Musk&#39;s DOGE Is Getting Audited by GAO](https://www.wired.com/story/gao-audit-elon-musk-doge-government-agencies/)
-- [No level of alcohol consumption is safe for our health &lpar;2023&rpar;](https://www.who.int/europe/news/item/04-01-2023-no-level-of-alcohol-consumption-is-safe-for-our-health)
-- [Ask HN: What Tech Have You Removed That Improved Your Life?](https://news.ycombinator.com/item?id=43649929)
+- [Show HN: TeleGraphite – Telegram Scraper and JSON Exporter &lpar;Python CLI Tool&rpar;](https://github.com/hamodywe/telegram-scraper-TeleGraphite)
+- [That groan you hear is users&#39; reaction to Recall going back into Windows](https://arstechnica.com/security/2025/04/microsoft-is-putting-privacy-endangering-recall-back-into-windows-11/)
+- [Microsoft is shutting down Skype, trapping money without refunds](https://www.washingtonpost.com/technology/2025/04/11/microsoft-skype-shutdown-alternatives-refunds/)
+- [I built a tool that turns raw plain text into clean, formatted PDFs](https://plain2pdf.com)
+- [Emily Dickinson&#39;s Playful Letterlocking](https://thereader.mitpress.mit.edu/emily-dickinsons-playful-letterlocking/)
+- [Firefighter&#39;s Raw POV [video]](https://www.youtube.com/watch?v=mphHFk5IXsQ)
+- [Wellington Library trials new shelving system based on Māori deities](https://www.rnz.co.nz/news/te-manu-korihi/557332/wellington-library-trials-new-shelving-system-based-on-maori-deities)
+- [Shingles vaccine found to cut dementia risk by 20%](https://newatlas.com/brain/herpes-zoster-shingles-vaccine-dementia/)
+- [How to Win Hackathons](https://www.joemmalatesta.com/writing/winning-hackathons)
+- [Why AI Is Better Than Doctors at the Most Human Part of Medicine](https://www.bloomberg.com/news/articles/2025-04-11/why-chatgpt-has-a-better-bedside-manner-than-your-doctor)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

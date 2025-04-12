@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Default styles for H1 elements are changing](https://developer.mozilla.org/en-US/blog/h1-element-styles/)
-- [Tesla Canada says its shady $43M incentive grab was a misunderstanding](https://electrek.co/2025/04/09/tesla-canada-says-its-shady-43-million-incentive-grab-was-a-misunderstanding/)
-- [Crystal 1.16.0 Is Released](https://crystal-lang.org/2025/04/09/1.16.0-released/)
-- [Fintech founder charged with fraud; AI app found to be humans in the Philippines](https://techcrunch.com/2025/04/10/fintech-founder-charged-with-fraud-after-ai-shopping-app-found-to-be-powered-by-humans-in-the-philippines/)
-- [Black Mirror&#39;s pessimism porn won&#39;t lead us to a better future](https://www.theguardian.com/technology/2025/apr/10/black-mirror-tv-show-pessimism)
-- [Parity &lpar;YC S24&rpar; is hiring founding engineers to build an AI SRE &lpar;in-person SF&rpar;](https://www.ycombinator.com/companies/parity/jobs)
-- [This site uses cookies to store the fact you clicked “Accept Cookies”](https://rodyne.com/?p=2368)
-- [Show HN: I built a tool to manage and compare credit card rewards](https://rewards.getonecard.io)
-- [The Story Behind “100 Go Mistakes and How to Avoid Them”](https://www.thecoder.cafe/p/100-go-mistakes)
-- [PEP 750 – Template Strings](https://peps.python.org/pep-0750/)
+- [Dev Tools Honeytrap: Why We Can&#39;t Stop Building Tools Nobody Buys](https://substack.com/home/post/p-161145826)
+- [You might not need WebSockets](https://hntrl.io/posts/you-dont-need-websockets/)
+- [Vacheron Constantin breaks the world record for most complicated wristwatch](https://www.hodinkee.com/articles/introducing-vacheron-constantin-les-cabinotiers-solaria)
+- [AI Coding and the Peanut Butter and Jelly Problem](https://iamcharliegraham.substack.com/p/ai-coding-and-the-peanut-butter-and)
+- [Key principles on in-game virtual currencies in the EU](https://tiendil.org/en/posts/eu-key-principles-on-in-game-virtual-currencies)
+- [A recent study suggests that insects branched out from crustaceans](https://www.smithsonianmag.com/science-nature/you-might-think-of-shrimp-as-bugs-of-the-sea-but-a-remarkable-discovery-shows-the-opposite-bugs-are-actually-shrimp-of-the-land-180986303/)
+- [Germany creates &#39;super–high-tech ministry&#39; for research, technology, aerospace](https://www.science.org/content/article/germany-creates-super-high-tech-ministry-research-technology-and-aerospace)
+- [Modern 6502](https://www.mikekohn.net/micro/modern_6502.php)
+- [Mosaic &lpar;YC W25&rpar; is building a general purpose agent for video editing](https://www.ycombinator.com/companies/mosaic-2/jobs/ru8Nwdq-founding-engineer)
+- [Datastar: Web Framework for the Future?](https://chrismalek.me/posts/data-star-first-impressions/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

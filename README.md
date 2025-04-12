@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Asian markets sink as Trump admits ‘transition cost’ of tariffs – business live](https://www.theguardian.com/business/live/2025/apr/11/donald-trump-tariffs-trade-war-us-china-markets-latest-news-updates)
-- [Supreme court orders Trump to return Maryland man wrongly deported to El Salvador to US – as it happened](https://www.theguardian.com/us-news/live/2025/apr/10/donald-trump-executive-order-shipping-tariffs-pause-us-politics-latest-updates-news)
-- [How a phone footage exposed a massacre of Gaza paramedics – podcast](https://www.theguardian.com/world/audio/2025/apr/11/how-a-phone-footage-exposed-a-massacre-of-gaza-paramedics-podcast)
-- [Trump news at a glance: no end in sight to tariff pain; wrongly deported man wins US return](https://www.theguardian.com/us-news/2025/apr/11/president-trump-administration-tariffs-immigration-news-updates-today)
-- [Six people killed after helicopter crashes into Hudson River in New York](https://www.theguardian.com/us-news/2025/apr/10/helicopter-crash-new-york)
-- [Rory McIlroy’s Masters hopes dive but Justin Rose blooms amid azaleas](https://www.theguardian.com/sport/2025/apr/11/rory-mcilroys-masters-hopes-dive-but-justin-rose-blooms-amid-azaleas)
-- [US fugitive fatally shoots ‘Gringo Hunters’ officer in Mexico](https://www.theguardian.com/world/2025/apr/10/us-fugitive-gringo-hunters-officer-mexico)
-- [Nathan Aspinall fights back for home Premier League win over Humphries](https://www.theguardian.com/sport/2025/apr/11/darts-premier-league-nathan-aspinall-luke-humphries-littler-gerwyn-price)
-- [‘Gamechanging’ breast cancer pill to be offered on NHS in England and Wales](https://www.theguardian.com/society/2025/apr/11/gamechanging-breast-cancer-pill-to-be-offered-on-nhs-in-england-and-wales)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2025/apr/11/premier-league-10-things-to-look-out-for-this-weekend)
+- [Ukraine war briefing: Ukraine could be partitioned like Berlin after second world war, says US envoy](https://www.theguardian.com/world/2025/apr/12/ukraine-war-briefing-ukraine-could-be-partitioned-like-berlin-after-second-world-war-says-us-envoy)
+- [White House promises details as Donald Trump, oldest president in US history, has medical check-up](https://www.theguardian.com/us-news/2025/apr/12/white-house-promises-details-as-donald-trump-oldest-president-in-us-history-has-medical-check-up)
+- [I disagree with Mahmoud Khalil’s politics. But the deportation decision is abhorrent | Jo-Ann Mort](https://www.theguardian.com/commentisfree/2025/apr/11/mahmoud-khalil-court-ruling)
+- [US judge rules Mahmoud Khalil can be deported for his views](https://www.theguardian.com/us-news/2025/apr/11/mahmoud-khalil-deportation-ruling-immigration)
+- [Seeing Australia’s beloved gumtrees dying makes my insides knot. If they can’t survive, how can we? | Jess Harwood](https://www.theguardian.com/australia-news/commentisfree/2025/apr/12/ive-seen-australias-beloved-gumtrees-dying-and-it-makes-me-wonder-if-they-cant-survive-how-can-we)
+- [‘Space junk’: huge astronaut statue coming to Perth park is one giant leap too far for many](https://www.theguardian.com/australia-news/2025/apr/12/boonji-astronaut-statue-controversy-perth-ntwnfb)
+- [‘When I came out of prison, I couldn’t wait to create’: leading artists and inmates team up to break the prison cycle](https://www.theguardian.com/artanddesign/2025/apr/12/when-i-came-out-of-prison-i-couldnt-wait-to-create-leading-artists-and-inmates-team-up-to-break-the-prison-cycle)
+- [‘Don’t panic, but don’t relax’: Taiwan’s plan ‘to use 7-Eleven chains’ as wartime hubs](https://www.theguardian.com/world/2025/apr/12/dont-panic-but-dont-relax-taiwans-plan-to-use-7-eleven-chains-as-wartime-hubs)
+- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2025/apr/11/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Rageh Omaar returns to ITV’s News at Ten after illness on live programme](https://www.theguardian.com/media/2025/apr/11/rageh-omaar-returns-to-itv-news-at-ten)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

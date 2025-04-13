@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: TeleGraphite – Telegram Scraper and JSON Exporter &lpar;Python CLI Tool&rpar;](https://github.com/hamodywe/telegram-scraper-TeleGraphite)
-- [That groan you hear is users&#39; reaction to Recall going back into Windows](https://arstechnica.com/security/2025/04/microsoft-is-putting-privacy-endangering-recall-back-into-windows-11/)
-- [Microsoft is shutting down Skype, trapping money without refunds](https://www.washingtonpost.com/technology/2025/04/11/microsoft-skype-shutdown-alternatives-refunds/)
-- [I built a tool that turns raw plain text into clean, formatted PDFs](https://plain2pdf.com)
-- [Emily Dickinson&#39;s Playful Letterlocking](https://thereader.mitpress.mit.edu/emily-dickinsons-playful-letterlocking/)
-- [Firefighter&#39;s Raw POV [video]](https://www.youtube.com/watch?v=mphHFk5IXsQ)
-- [Wellington Library trials new shelving system based on Māori deities](https://www.rnz.co.nz/news/te-manu-korihi/557332/wellington-library-trials-new-shelving-system-based-on-maori-deities)
-- [Shingles vaccine found to cut dementia risk by 20%](https://newatlas.com/brain/herpes-zoster-shingles-vaccine-dementia/)
-- [How to Win Hackathons](https://www.joemmalatesta.com/writing/winning-hackathons)
-- [Why AI Is Better Than Doctors at the Most Human Part of Medicine](https://www.bloomberg.com/news/articles/2025-04-11/why-chatgpt-has-a-better-bedside-manner-than-your-doctor)
+- [Yamato Nadeshiko](https://en.wikipedia.org/wiki/Yamato_nadeshiko)
+- [What Trump&#39;s tariffs can teach us about housing permitting](https://inpractice.yimbyaction.org/p/what-trumps-tariffs-can-teach-us)
+- [First Look at the Modern Attr&lpar;&rpar;](https://ishadeed.com/article/modern-attr/)
+- [Getting Stuff Done, the Bob Gurr Way](https://boardwalktimes.net/getting-stuff-done-the-bob-gurr-way-1c9e320e8baf)
+- [3B Vectors in PostgreSQL to Protect the Earth](https://blog.vectorchord.ai/3-billion-vectors-in-postgresql-to-protect-the-earth)
+- [Postpass – a public OSM PostGIS instance](https://community.openstreetmap.org/t/postpass-a-public-osm-postgis-instance/128649)
+- [Show HN: A lightweight web browser built with Rust and egui](https://github.com/haojiang99/egui_browser)
+- [How I Created johanv.xyz &lpar;and subsequently destroyed it&rpar;](https://johanv.prose.sh/how-i-created-johanv-xyz)
+- [Chinese suppliers are offering U.S. sellers a tariff solution–but it&#39;s not legal](https://fortune.com/2025/04/12/china-suppliers-amazon-sellers-tariff-workaround-proposal-lowers-declared-value-goods/)
+- [How Much Are Tariffs on Chinese Goods? It&#39;s Trickier Than You Think](https://www.nytimes.com/interactive/2025/04/12/business/economy/china-tariff-product-costs.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

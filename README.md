@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Dev Tools Honeytrap: Why We Can&#39;t Stop Building Tools Nobody Buys](https://substack.com/home/post/p-161145826)
-- [You might not need WebSockets](https://hntrl.io/posts/you-dont-need-websockets/)
-- [Vacheron Constantin breaks the world record for most complicated wristwatch](https://www.hodinkee.com/articles/introducing-vacheron-constantin-les-cabinotiers-solaria)
-- [AI Coding and the Peanut Butter and Jelly Problem](https://iamcharliegraham.substack.com/p/ai-coding-and-the-peanut-butter-and)
-- [Key principles on in-game virtual currencies in the EU](https://tiendil.org/en/posts/eu-key-principles-on-in-game-virtual-currencies)
-- [A recent study suggests that insects branched out from crustaceans](https://www.smithsonianmag.com/science-nature/you-might-think-of-shrimp-as-bugs-of-the-sea-but-a-remarkable-discovery-shows-the-opposite-bugs-are-actually-shrimp-of-the-land-180986303/)
-- [Germany creates &#39;super–high-tech ministry&#39; for research, technology, aerospace](https://www.science.org/content/article/germany-creates-super-high-tech-ministry-research-technology-and-aerospace)
-- [Modern 6502](https://www.mikekohn.net/micro/modern_6502.php)
-- [Mosaic &lpar;YC W25&rpar; is building a general purpose agent for video editing](https://www.ycombinator.com/companies/mosaic-2/jobs/ru8Nwdq-founding-engineer)
-- [Datastar: Web Framework for the Future?](https://chrismalek.me/posts/data-star-first-impressions/)
+- [BPS is a GPS alternative that nobody&#39;s heard of](https://www.jeffgeerling.com/blog/2025/bps-gps-alternative-nobodys-heard)
+- [Experimental release of GrapheneOS for Pixel 9a](https://grapheneos.social/@GrapheneOS/114327666433966529)
+- [Hunger shifts attention towards less healthy food options, study finds](https://medicalxpress.com/news/2025-03-hunger-shifts-attention-healthy-food.html)
+- [How to Structure a B2B Marketplace Venture](https://sloanreview.mit.edu/article/how-to-structure-a-b2b-marketplace-venture/)
+- [Anubis Works](https://xeiaso.net/notes/2025/anubis-works/)
+- [Battle of the Mallocators](http://smalldatum.blogspot.com/2025/04/battle-of-mallocators.html)
+- [YAML: The Norway Problem &lpar;2022&rpar;](https://www.bram.us/2022/01/11/yaml-the-norway-problem/)
+- [WebTUI – A CSS Library That Brings the Beauty of Terminal UIs to the Browser](https://webtui.ironclad.sh)
+- [Zod v4 Beta](https://v4.zod.dev/v4)
+- [Ask HN: How do you monetize personal code if it&#39;s not an &quot;app&quot;?](https://news.ycombinator.com/item?id=43667887)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Yamato Nadeshiko](https://en.wikipedia.org/wiki/Yamato_nadeshiko)
-- [What Trump&#39;s tariffs can teach us about housing permitting](https://inpractice.yimbyaction.org/p/what-trumps-tariffs-can-teach-us)
-- [First Look at the Modern Attr&lpar;&rpar;](https://ishadeed.com/article/modern-attr/)
-- [Getting Stuff Done, the Bob Gurr Way](https://boardwalktimes.net/getting-stuff-done-the-bob-gurr-way-1c9e320e8baf)
-- [3B Vectors in PostgreSQL to Protect the Earth](https://blog.vectorchord.ai/3-billion-vectors-in-postgresql-to-protect-the-earth)
-- [Postpass – a public OSM PostGIS instance](https://community.openstreetmap.org/t/postpass-a-public-osm-postgis-instance/128649)
-- [Show HN: A lightweight web browser built with Rust and egui](https://github.com/haojiang99/egui_browser)
-- [How I Created johanv.xyz &lpar;and subsequently destroyed it&rpar;](https://johanv.prose.sh/how-i-created-johanv-xyz)
-- [Chinese suppliers are offering U.S. sellers a tariff solution–but it&#39;s not legal](https://fortune.com/2025/04/12/china-suppliers-amazon-sellers-tariff-workaround-proposal-lowers-declared-value-goods/)
-- [How Much Are Tariffs on Chinese Goods? It&#39;s Trickier Than You Think](https://www.nytimes.com/interactive/2025/04/12/business/economy/china-tariff-product-costs.html)
+- [Deploy Consul as OpenTofu Backend with Azure and Ansible](https://developer-friendly.blog/blog/2025/04/14/deploy-consul-as-opentofu-backend-with-azure--ansible/)
+- [A2A Directory – AgentCards, Servers, Clients, Docs](https://github.com/sing1ee/a2a-directory)
+- [Ask HN](https://news.ycombinator.com/item?id=43677650)
+- [Ask HN: How do I handle that my AI SaaS idea can be copied and out-executed?](https://news.ycombinator.com/item?id=43677638)
+- [Show HN: Nissan&#39;s Leaf App Doesn&#39;t Have a Home Screen Widget So I Made My Own](https://kevintechnology.com/posts/leaf-widget/)
+- [My teacher teaching me about features I built](https://danielsada.tech/blog/carreer-part-4-finding-pride/)
+- [U.S. Government Structure](https://write.as/gov-structure/the-structure-everyone-must-know-before)
+- [Ash HN: What&#39;s likely 2024-04-14 to be server issue Library of Congress library?](https://news.ycombinator.com/item?id=43677580)
+- [Why Driving in Singapore Is Like &#39;Wearing a Rolex&#39;](https://www.nytimes.com/2025/03/24/world/asia/car-certificate-singapore-luxury.html)
+- [Google paying AI staff for a year to keep them from joining rivals](https://techcrunch.com/2025/04/07/google-is-allegedly-paying-some-ai-staff-to-do-nothing-for-a-year-rather-than-join-rivals/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

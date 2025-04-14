@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [BPS is a GPS alternative that nobody&#39;s heard of](https://www.jeffgeerling.com/blog/2025/bps-gps-alternative-nobodys-heard)
-- [Experimental release of GrapheneOS for Pixel 9a](https://grapheneos.social/@GrapheneOS/114327666433966529)
-- [Hunger shifts attention towards less healthy food options, study finds](https://medicalxpress.com/news/2025-03-hunger-shifts-attention-healthy-food.html)
-- [How to Structure a B2B Marketplace Venture](https://sloanreview.mit.edu/article/how-to-structure-a-b2b-marketplace-venture/)
-- [Anubis Works](https://xeiaso.net/notes/2025/anubis-works/)
-- [Battle of the Mallocators](http://smalldatum.blogspot.com/2025/04/battle-of-mallocators.html)
-- [YAML: The Norway Problem &lpar;2022&rpar;](https://www.bram.us/2022/01/11/yaml-the-norway-problem/)
-- [WebTUI – A CSS Library That Brings the Beauty of Terminal UIs to the Browser](https://webtui.ironclad.sh)
-- [Zod v4 Beta](https://v4.zod.dev/v4)
-- [Ask HN: How do you monetize personal code if it&#39;s not an &quot;app&quot;?](https://news.ycombinator.com/item?id=43667887)
+- [Show HN: Nissan&#39;s Leaf App Doesn&#39;t Have a Home Screen Widget So I Made My Own](https://kevintechnology.com/posts/leaf-widget/)
+- [Calypso: LLMs as Dungeon Masters&#39; Assistants [pdf]](https://andrewhead.info/assets/pdf/calypso.pdf)
+- [Why-everything-in-the-universe-turns-more-complex](https://www.quantamagazine.org/why-everything-in-the-universe-turns-more-complex-20250402/)
+- [Local CI. Sign off on your own work](https://github.com/basecamp/gh-signoff)
+- [I bought a Mac](https://loganius.org/2025/04/i-bought-a-mac/)
+- [Cognitive abilities predict performance in everyday computer tasks](https://www.sciencedirect.com/science/article/pii/S107158192400137X)
+- [NoProp: Training Neural Networks without Back-propagation or Forward-propagation](https://arxiv.org/abs/2503.24322)
+- [Everything wrong with MCP](https://blog.sshh.io/p/everything-wrong-with-mcp)
+- [Quick Primer on MCP Using Ollama and LangChain](https://www.polarsparc.com/xhtml/MCP.html)
+- [Math 13 – An Introduction to Abstract Mathematics [pdf]](https://www.math.uci.edu/~ndonalds/math13/notes.pdf)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

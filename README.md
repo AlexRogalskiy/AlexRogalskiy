@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Jaron ‘Boots’ Ennis crushes Eimantas Stanionis to unify welterweight titles](https://www.theguardian.com/sport/2025/apr/12/jaron-boots-ennis-eimantas-stanionis-fight-report)
-- [Explosion partly destroys house in Nottinghamshire](https://www.theguardian.com/uk-news/2025/apr/13/explosion-house-nottinghamshire-worksop-major-incident)
-- [Bondi Westfield attack victims ‘should still be here’, Anthony Albanese says in first anniversary tribute](https://www.theguardian.com/australia-news/2025/apr/13/bondi-westfield-attack-victims-should-still-be-here-anthony-albanese-says-in-first-anniversary-tribute)
-- [Bernie Sanders rally in LA draws thousands to protest Trump: ‘We can’t just let this happen’](https://www.theguardian.com/us-news/2025/apr/12/bernie-sanders-rally-los-angeles)
-- [Julio Torres: ‘When I worked at SNL, I thought Shawn Mendes was an intern’](https://www.theguardian.com/culture/2025/apr/13/julio-torres-when-i-worked-at-snl-i-thought-shawn-mendes-was-an-intern)
-- [Rory McIlroy’s golden eagles put him within sight of Masters destiny](https://www.theguardian.com/sport/2025/apr/13/rory-mcilroy-makes-most-of-moving-day-to-open-two-shot-masters-lead)
-- [Suede to go: leather’s hippy cousin is back for 2025](https://www.theguardian.com/fashion/2025/apr/12/suede-to-go-leathers-hippy-cousin-is-back-for-2025)
-- [Trump lawyers confirm wrongly deported Maryland man in El Salvador prison](https://www.theguardian.com/us-news/2025/apr/12/kilmar-abrego-garcia-wrongly-deported)
-- [Manchester Arena bomb plotter attacks three prison officers](https://www.theguardian.com/society/2025/apr/12/manchester-arena-bomb-plotter-attacks-three-prison-officers)
-- [Rail minister reports himself to police after using phone while driving a bus](https://www.theguardian.com/uk-news/2025/apr/12/rail-minister-reports-himself-to-police-after-using-phone-while-driving-a-bus)
+- [Ta-Nehisi Coates on why stories matter in the age of Trump – podcast](https://www.theguardian.com/news/audio/2025/apr/14/ta-nehisi-coates-on-why-stories-matter-in-the-age-of-trump-podcast)
+- [Mario Vargas Llosa, giant of Latin American literature, dies aged 89](https://www.theguardian.com/books/2025/apr/14/mario-vargas-llosa-dies-aged-89-cause-of-death)
+- [Trump news at a glance: Deep confusion as Trump signals new tariffs on smartphones and computers](https://www.theguardian.com/us-news/2025/apr/14/trump-news-at-a-glance-deep-confusion-as-trump-signals-new-tariffs-on-smartphones-and-computers)
+- [‘Invasion’ barges, subsea cable cutters and surprise naval drills: how China is testing Donald Trump](https://www.theguardian.com/world/2025/apr/14/china-taiwan-military-drills-trump-barges-asia-pacific-security)
+- [Trump warns exemptions on smartphones, electronics will be short-lived, promises future tariffs](https://www.theguardian.com/us-news/2025/apr/14/trump-warns-exemptions-on-smartphones-electronics-will-be-short-lived-promises-future-tariffs-president-china)
+- [With a little boldness and a lot of luck, McIlroy banishes ghosts of 2011 | Andy Bull](https://www.theguardian.com/sport/2025/apr/14/rory-mcilroy-justin-rose-masters-2025-final-round-augusta)
+- [Rory McIlroy secures career grand slam with dramatic Masters playoff win over Justin Rose](https://www.theguardian.com/sport/2025/apr/14/rory-mcilroy-secures-career-grand-slam-after-dramatic-masters-playoff-win-over-justin-rose)
+- [Mickey Rourke ejected from Big Brother house over ‘unacceptable behaviour’](https://www.theguardian.com/film/2025/apr/13/mickey-rourke-ejected-from-big-brother-house-over-unacceptable-behaviour)
+- [British Steel to deploy emergency measures to save Scunthorpe furnaces](https://www.theguardian.com/business/2025/apr/13/no-guarantee-british-steel-plant-will-be-able-to-continue-says-business-secretary)
+- [UK drivers face ‘hat-trick of hold-ups’ over Easter bank holiday weekend](https://www.theguardian.com/uk-news/2025/apr/14/uk-drivers-face-hat-trick-of-hold-ups-over-easter-bank-holiday-weekend)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

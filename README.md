@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ta-Nehisi Coates on why stories matter in the age of Trump – podcast](https://www.theguardian.com/news/audio/2025/apr/14/ta-nehisi-coates-on-why-stories-matter-in-the-age-of-trump-podcast)
-- [Mario Vargas Llosa, giant of Latin American literature, dies aged 89](https://www.theguardian.com/books/2025/apr/14/mario-vargas-llosa-dies-aged-89-cause-of-death)
-- [Trump news at a glance: Deep confusion as Trump signals new tariffs on smartphones and computers](https://www.theguardian.com/us-news/2025/apr/14/trump-news-at-a-glance-deep-confusion-as-trump-signals-new-tariffs-on-smartphones-and-computers)
-- [‘Invasion’ barges, subsea cable cutters and surprise naval drills: how China is testing Donald Trump](https://www.theguardian.com/world/2025/apr/14/china-taiwan-military-drills-trump-barges-asia-pacific-security)
-- [Trump warns exemptions on smartphones, electronics will be short-lived, promises future tariffs](https://www.theguardian.com/us-news/2025/apr/14/trump-warns-exemptions-on-smartphones-electronics-will-be-short-lived-promises-future-tariffs-president-china)
-- [With a little boldness and a lot of luck, McIlroy banishes ghosts of 2011 | Andy Bull](https://www.theguardian.com/sport/2025/apr/14/rory-mcilroy-justin-rose-masters-2025-final-round-augusta)
-- [Rory McIlroy secures career grand slam with dramatic Masters playoff win over Justin Rose](https://www.theguardian.com/sport/2025/apr/14/rory-mcilroy-secures-career-grand-slam-after-dramatic-masters-playoff-win-over-justin-rose)
-- [Mickey Rourke ejected from Big Brother house over ‘unacceptable behaviour’](https://www.theguardian.com/film/2025/apr/13/mickey-rourke-ejected-from-big-brother-house-over-unacceptable-behaviour)
-- [British Steel to deploy emergency measures to save Scunthorpe furnaces](https://www.theguardian.com/business/2025/apr/13/no-guarantee-british-steel-plant-will-be-able-to-continue-says-business-secretary)
-- [UK drivers face ‘hat-trick of hold-ups’ over Easter bank holiday weekend](https://www.theguardian.com/uk-news/2025/apr/14/uk-drivers-face-hat-trick-of-hold-ups-over-easter-bank-holiday-weekend)
+- [Sudan in ‘world’s largest humanitarian crisis’ after two years of civil war](https://www.theguardian.com/world/2025/apr/15/sudan-in-worlds-largest-humanitarian-crisis-after-two-years-of-civil-war)
+- [Deadly floods and storms affected more than 400,000 people in Europe in 2024](https://www.theguardian.com/environment/2025/apr/15/europe-storms-floods-and-wildfires-in-2024-affected-more-than-400000)
+- [The scramble to save British Steel – podcast](https://www.theguardian.com/news/audio/2025/apr/15/the-scramble-to-save-british-steel-podcast)
+- [Trump administration freezes $2.3bn in funds after Harvard defies demands – as it happened](https://www.theguardian.com/us-news/live/2025/apr/14/donald-trump-tariffs-china-smartphones-computers-semiconductors-immigration-us-politics-live-updates)
+- [China’s Xi Jinping is in Vietnam to figure out how to ‘screw’ the US, says Trump](https://www.theguardian.com/world/2025/apr/15/china-xi-jinping-vietnam-screw-donald-trump)
+- [Why are so many world leaders silent on Gaza? | Fiona Katauskas](https://www.theguardian.com/commentisfree/picture/2025/apr/15/why-are-so-many-world-leaders-silent-on-gaza)
+- [Ukraine war briefing: Captive Chinese soldiers appear before the press in Kyiv](https://www.theguardian.com/world/2025/apr/15/ukraine-war-briefing-captive-soldiers-warn-other-chinese-dont-take-part-in-this-war)
+- [Trump news at a glance: El Salvador’s Bukele vows to keep wrongly deported man](https://www.theguardian.com/us-news/2025/apr/15/president-trump-administration-news-updates-today)
+- [Star-in-waiting Paige Bueckers taken by Dallas with No 1 pick in WNBA draft](https://www.theguardian.com/sport/2025/apr/14/wnba-draft-picks-order-paige-bueckers-dallas-wings)
+- [JD Vance fumbles Ohio State’s national title trophy during White House visit](https://www.theguardian.com/sport/2025/apr/14/jd-vance-ohio-state-trophy)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Show HN: Nissan&#39;s Leaf App Doesn&#39;t Have a Home Screen Widget So I Made My Own](https://kevintechnology.com/posts/leaf-widget/)
-- [Calypso: LLMs as Dungeon Masters&#39; Assistants [pdf]](https://andrewhead.info/assets/pdf/calypso.pdf)
-- [Why-everything-in-the-universe-turns-more-complex](https://www.quantamagazine.org/why-everything-in-the-universe-turns-more-complex-20250402/)
-- [Local CI. Sign off on your own work](https://github.com/basecamp/gh-signoff)
-- [I bought a Mac](https://loganius.org/2025/04/i-bought-a-mac/)
-- [Cognitive abilities predict performance in everyday computer tasks](https://www.sciencedirect.com/science/article/pii/S107158192400137X)
-- [NoProp: Training Neural Networks without Back-propagation or Forward-propagation](https://arxiv.org/abs/2503.24322)
-- [Everything wrong with MCP](https://blog.sshh.io/p/everything-wrong-with-mcp)
-- [Quick Primer on MCP Using Ollama and LangChain](https://www.polarsparc.com/xhtml/MCP.html)
-- [Math 13 – An Introduction to Abstract Mathematics [pdf]](https://www.math.uci.edu/~ndonalds/math13/notes.pdf)
+- [USL – A Universal Scripting Language That Outputs to 111 Programming Languages](https://townsendatomics.gumroad.com/l/usl)
+- [Overuse of CT scans could cause 100k extra cancers in US](https://www.icr.ac.uk/about-us/icr-news/detail/overuse-of-ct-scans-could-cause-100-000-extra-cancers-in-us)
+- [The Cost of Being Crawled: LLM Bots and Vercel Image API Pricing](https://metacast.app/blog/engineering/postmortem-llm-bots-image-optimization)
+- [Tomb Engine](https://tombengine.com/)
+- [Intel sells 51% stake in Altera to private equity firm on a $8.75B valuation](https://newsroom.intel.com/corporate/intel-partner-deal-news-april2025)
+- [Show HN: ClipCapsule – A Clipboard Manager for Linux &lpar;Built with Go and Wails&rpar;](https://github.com/Victor-Evogor/clipcapsule)
+- [Understanding Aggregate Trends for Apple Intelligence Using Differential Privacy](https://machinelearning.apple.com/research/differential-privacy-aggregate-trends)
+- [What Is Entropy?](https://jasonfantl.com/posts/What-is-Entropy/)
+- [Censors Ignore Unencrypted HTTP/2 Traffic &lpar;2024&rpar;](https://upb-syssec.github.io/blog/2024/http2/)
+- [KaiPod Learning &lpar;YC S21&rpar; Is Hiring a PM](https://www.ycombinator.com/companies/kaipod-learning/jobs/TgR2OZg-senior-product-manager)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

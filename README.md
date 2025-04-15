@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Deploy Consul as OpenTofu Backend with Azure and Ansible](https://developer-friendly.blog/blog/2025/04/14/deploy-consul-as-opentofu-backend-with-azure--ansible/)
-- [A2A Directory – AgentCards, Servers, Clients, Docs](https://github.com/sing1ee/a2a-directory)
-- [Ask HN](https://news.ycombinator.com/item?id=43677650)
-- [Ask HN: How do I handle that my AI SaaS idea can be copied and out-executed?](https://news.ycombinator.com/item?id=43677638)
-- [Show HN: Nissan&#39;s Leaf App Doesn&#39;t Have a Home Screen Widget So I Made My Own](https://kevintechnology.com/posts/leaf-widget/)
-- [My teacher teaching me about features I built](https://danielsada.tech/blog/carreer-part-4-finding-pride/)
-- [U.S. Government Structure](https://write.as/gov-structure/the-structure-everyone-must-know-before)
-- [Ash HN: What&#39;s likely 2024-04-14 to be server issue Library of Congress library?](https://news.ycombinator.com/item?id=43677580)
-- [Why Driving in Singapore Is Like &#39;Wearing a Rolex&#39;](https://www.nytimes.com/2025/03/24/world/asia/car-certificate-singapore-luxury.html)
-- [Google paying AI staff for a year to keep them from joining rivals](https://techcrunch.com/2025/04/07/google-is-allegedly-paying-some-ai-staff-to-do-nothing-for-a-year-rather-than-join-rivals/)
+- [MCP, Easy as 1-2-3?](https://www.honeycomb.io/blog/mcp-easy-as-1-2-3)
+- [Some features that every JavaScript developer should know in 2025](https://waspdev.com/articles/2025-04-06/features-that-every-js-developer-must-know-in-2025)
+- [USL – A Universal Scripting Language That Outputs to 111 Programming Languages](https://townsendatomics.gumroad.com/l/usl)
+- [Columbia Breakup in real time [video]](https://www.youtube.com/watch?v=oNmR2YZO2gw)
+- [Harvard Hit with $2.2B Freeze After Defying Trump](https://www.bloomberg.com/news/articles/2025-04-14/harvard-hit-with-2-2-billion-funding-freeze-after-defying-trump)
+- [Important open source projects should not use GitHub &lpar;2020&rpar;](https://unixdigest.com/articles/important-open-source-projects-should-not-use-github.html)
+- [The world of compiler back ends](https://medium.com/packt-hub/the-world-of-compiler-backends-9b27a3e37866)
+- [Government cuts billions in Harvard funds after university defies demands](https://www.theguardian.com/us-news/2025/apr/14/trump-harvard-funding-freeze)
+- [Show HN: HTTPS://jobswithgpt.com – A simple job search](https://jobswithgpt.com)
+- [Overuse of CT scans could cause 100k extra cancers in US](https://www.icr.ac.uk/about-us/icr-news/detail/overuse-of-ct-scans-could-cause-100-000-extra-cancers-in-us)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [USL – A Universal Scripting Language That Outputs to 111 Programming Languages](https://townsendatomics.gumroad.com/l/usl)
-- [Overuse of CT scans could cause 100k extra cancers in US](https://www.icr.ac.uk/about-us/icr-news/detail/overuse-of-ct-scans-could-cause-100-000-extra-cancers-in-us)
-- [The Cost of Being Crawled: LLM Bots and Vercel Image API Pricing](https://metacast.app/blog/engineering/postmortem-llm-bots-image-optimization)
-- [Tomb Engine](https://tombengine.com/)
-- [Intel sells 51% stake in Altera to private equity firm on a $8.75B valuation](https://newsroom.intel.com/corporate/intel-partner-deal-news-april2025)
-- [Show HN: ClipCapsule – A Clipboard Manager for Linux &lpar;Built with Go and Wails&rpar;](https://github.com/Victor-Evogor/clipcapsule)
-- [Understanding Aggregate Trends for Apple Intelligence Using Differential Privacy](https://machinelearning.apple.com/research/differential-privacy-aggregate-trends)
-- [What Is Entropy?](https://jasonfantl.com/posts/What-is-Entropy/)
-- [Censors Ignore Unencrypted HTTP/2 Traffic &lpar;2024&rpar;](https://upb-syssec.github.io/blog/2024/http2/)
-- [KaiPod Learning &lpar;YC S21&rpar; Is Hiring a PM](https://www.ycombinator.com/companies/kaipod-learning/jobs/TgR2OZg-senior-product-manager)
+- [Markov Chain Monte Carlo Without All the Bullshit &lpar;2015&rpar;](https://www.jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/)
+- [CVE program faces swift end after DHS fails to renew contract](https://www.csoonline.com/article/3963190/cve-program-faces-swift-end-after-dhs-fails-to-renew-contract-leaving-security-flaw-tracking-in-limbo.html)
+- [Flexport &lpar;YC W14&rpar; is hiring software engineers](https://flexport.com)
+- [An interactive introduction to rotors from geometric algebra &lpar;2018&rpar;](https://marctenbosch.com/quaternions/)
+- [How dairy robots are changing work for cows and farmers](https://spectrum.ieee.org/lely-dairy-robots)
+- [Show HN: Torque – A lightweight meta-assembler for any processor](https://benbridle.com/projects/torque.html)
+- [Liquid: Language models are scalable and unified multi-modal generators](https://foundationvision.github.io/Liquid/)
+- [The case of the UI thread that hung in a kernel call](https://devblogs.microsoft.com/oldnewthing/20250411-00/?p=111066)
+- [Clolog](https://github.com/bobschrag/clolog)
+- [Generate videos in Gemini and Whisk with Veo 2](https://blog.google/products/gemini/video-generation/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

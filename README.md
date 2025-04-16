@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [MCP, Easy as 1-2-3?](https://www.honeycomb.io/blog/mcp-easy-as-1-2-3)
-- [Some features that every JavaScript developer should know in 2025](https://waspdev.com/articles/2025-04-06/features-that-every-js-developer-must-know-in-2025)
-- [USL – A Universal Scripting Language That Outputs to 111 Programming Languages](https://townsendatomics.gumroad.com/l/usl)
-- [Columbia Breakup in real time [video]](https://www.youtube.com/watch?v=oNmR2YZO2gw)
-- [Harvard Hit with $2.2B Freeze After Defying Trump](https://www.bloomberg.com/news/articles/2025-04-14/harvard-hit-with-2-2-billion-funding-freeze-after-defying-trump)
-- [Important open source projects should not use GitHub &lpar;2020&rpar;](https://unixdigest.com/articles/important-open-source-projects-should-not-use-github.html)
-- [The world of compiler back ends](https://medium.com/packt-hub/the-world-of-compiler-backends-9b27a3e37866)
-- [Government cuts billions in Harvard funds after university defies demands](https://www.theguardian.com/us-news/2025/apr/14/trump-harvard-funding-freeze)
-- [Show HN: HTTPS://jobswithgpt.com – A simple job search](https://jobswithgpt.com)
-- [Overuse of CT scans could cause 100k extra cancers in US](https://www.icr.ac.uk/about-us/icr-news/detail/overuse-of-ct-scans-could-cause-100-000-extra-cancers-in-us)
+- [Harvard Launches New Intro Math Course to Address Pandemic Learning Loss &lpar;2024&rpar;](https://www.thecrimson.com/article/2024/9/3/new-math-intro-course/)
+- [Some Cool Things I Learned about How AI Coding Agents Work](https://qckfx.com/blog/some-cool-things-i-learned-about-how-ai-coding-agents-work)
+- [Archeology of React](https://legacy.reactjs.org/blog/2016/09/28/our-first-50000-stars.html)
+- [A Comparative Look at Antitrust Standards in the US and EU](https://www.culawreview.org/journal/the-european-example-a-comparative-look-at-antitrust-standards-in-the-us-and-eu)
+- [Lifetimes of Cryptographic Hash Functions](https://valerieaurora.org/hash.html)
+- [China posts unexpectedly strong economic growth before tariffs bite](https://www.cnn.com/2025/04/15/business/china-economy-growth-q1-hnk-intl/index.html)
+- [Collisions for MD4, MD5, HAVAL-128 and RIPEMD &lpar;2004&rpar; [pdf]](https://eprint.iacr.org/2004/199.pdf)
+- [Ghidra-delinker-extension is snowballing out of control](https://boricj.net/2024/09/23/ghidra-extension-delinker-snowballing-out-of-control.html)
+- [Details behind 4chan hack](https://old.reddit.com/r/OutOfTheLoop/comments/1k019t0/comment/mnaxwze/)
+- [S.F.&#39;s giant naked woman sculpture brought out the worst in our city](https://www.sfchronicle.com/opinion/emilyhoeven/article/sf-naked-woman-sculpture-20275341.php)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

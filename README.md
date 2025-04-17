@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Markov Chain Monte Carlo Without All the Bullshit &lpar;2015&rpar;](https://www.jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/)
-- [CVE program faces swift end after DHS fails to renew contract](https://www.csoonline.com/article/3963190/cve-program-faces-swift-end-after-dhs-fails-to-renew-contract-leaving-security-flaw-tracking-in-limbo.html)
-- [Flexport &lpar;YC W14&rpar; is hiring software engineers](https://flexport.com)
-- [An interactive introduction to rotors from geometric algebra &lpar;2018&rpar;](https://marctenbosch.com/quaternions/)
-- [How dairy robots are changing work for cows and farmers](https://spectrum.ieee.org/lely-dairy-robots)
-- [Show HN: Torque – A lightweight meta-assembler for any processor](https://benbridle.com/projects/torque.html)
-- [Liquid: Language models are scalable and unified multi-modal generators](https://foundationvision.github.io/Liquid/)
-- [The case of the UI thread that hung in a kernel call](https://devblogs.microsoft.com/oldnewthing/20250411-00/?p=111066)
-- [Clolog](https://github.com/bobschrag/clolog)
-- [Generate videos in Gemini and Whisk with Veo 2](https://blog.google/products/gemini/video-generation/)
+- [Sony Unveils the Smallest and Lightest Lidar Depth Sensor](https://petapixel.com/2025/04/15/sony-unveils-the-worlds-smallest-and-lightest-lidar-depth-sensor/)
+- [Zoom outage caused by accidental &#39;shutting down&#39; of the zoom.us domain](https://status.zoom.us/incidents/pw9r9vnq5rvk)
+- [Jellyfin as a Spotify alternative](https://coppolaemilio.com/entries/i-left-spotify-what-happened-next/)
+- [Astronomers Detect a Possible Signature of Life on a Distant Planet](https://www.nytimes.com/2025/04/16/science/astronomy-exoplanets-habitable-k218b.html)
+- [Microsoft researchers developed a hyper-efficient AI model that can run on CPUs](https://techcrunch.com/2025/04/16/microsoft-researchers-say-theyve-developed-a-hyper-efficient-ai-model-that-can-run-on-cpus/)
+- [How a Forgotten Battle Created a More Peaceful World](https://worldhistory.substack.com/p/how-a-forgotten-battle-created-a)
+- [&quot;Vivarium&quot;: The keeper of a lab&#39;s animals stumbles onto a secret [fiction]](https://jsomers.net/vivarium/)
+- [Show HN: Plandex v2 – open source AI coding agent for large projects and tasks](https://github.com/plandex-ai/plandex)
+- [OneSignal &lpar;YC S11&rpar; Is Hiring Engineers](https://onesignal.com/careers)
+- [Man who built ISP instead of paying Comcast expands to hundreds of homes &lpar;2022&rpar;](https://arstechnica.com/tech-policy/2022/08/man-who-built-isp-instead-of-paying-comcast-50k-expands-to-hundreds-of-homes/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Hong Kong halts postal service for US-bound goods over Trump’s ‘bullying’ tariffs](https://www.theguardian.com/world/2025/apr/16/hong-kong-halts-postal-service-for-us-bound-goods-over-trumps-bullying-tariffs)
-- [Trump’s deportation ‘mistake’: the man trapped in a prison in El Salvador](https://www.theguardian.com/news/audio/2025/apr/16/trumps-deportation-mistake-the-man-trapped-in-a-prison-in-el-salvador)
-- [Joe Biden accuses Trump and Musk of taking ‘hatchet’ to social security](https://www.theguardian.com/us-news/2025/apr/15/joe-biden-social-security-trump-musk)
-- [Tuvalu marks ‘momentous occasion’ with unveiling of its first ATMs](https://www.theguardian.com/world/2025/apr/16/tuvalu-first-atm-cash-machine-banking)
-- [British hospitals introduce treatment for heart failure that cuts deaths by 62%](https://www.theguardian.com/society/2025/apr/16/hospitals-britain-heart-failure-treatment)
-- [Judge rebukes Trump officials for not securing return of wrongly deported man](https://www.theguardian.com/us-news/2025/apr/15/trump-administration-kilmar-abrego-garcia-deportation)
-- [In the red: global wine sales fall to lowest levels since 1961](https://www.theguardian.com/food/2025/apr/15/global-wine-sales-fall-lowest-levels-since-1961)
-- [Brisk walking linked to lower risk of heart rhythm problems, study finds](https://www.theguardian.com/society/2025/apr/15/brisk-walking-linked-to-lower-risk-of-heart-rhythm-problems-study-finds)
-- [Trump signs healthcare order that includes a win for pharma companies](https://www.theguardian.com/us-news/2025/apr/15/trump-healthcare-executive-order)
-- [When dust settles on PSG exit Aston Villa will be proud of their progress | Ben Fisher](https://www.theguardian.com/football/2025/apr/15/when-dust-settles-on-psg-exit-aston-villa-will-be-proud-of-their-progress)
+- [Trump’s trade war: the view from China – podcast](https://www.theguardian.com/news/audio/2025/apr/17/donald-trump-trade-war-the-view-from-china-podcast)
+- [‘Who is going to face Mr Trump’: Canada leaders’ debate dominated by US crisis](https://www.theguardian.com/world/2025/apr/17/who-is-going-to-face-mr-trump-canada-leaders-debate-dominated-by-us-crisis)
+- [Ukraine war briefing: Zelenskyy hails ‘good progress’ on minerals deal talks](https://www.theguardian.com/world/2025/apr/17/ukraine-war-briefing-zelenskyy-hails-good-progress-on-minerals-deal-talks)
+- [‘Book brigade’: US town forms human chain to move 9,100 books one-by-one](https://www.theguardian.com/us-news/2025/apr/17/book-brigade-us-town-forms-human-chain-to-move-9100-books-one-by-one)
+- [Fifty years on, New Zealand’s tribunal upholding Māori rights faces a turning point](https://www.theguardian.com/world/2025/apr/17/waitangi-tribunal-new-zealand-50-years-maori-rights)
+- [No plans to allow any aid into Gaza, says Israeli minister](https://www.theguardian.com/world/2025/apr/16/no-humanitarian-aid-gaza-israeli-minister-israel-katz-hamas)
+- [Scientists hail ‘strongest evidence’ so far for life beyond our solar system](https://www.theguardian.com/science/2025/apr/17/scientists-hail-strongest-evidence-so-far-for-life-beyond-our-solar-system)
+- [Re-arm, reassure and spend big: how the Asia Pacific is responding to a new era under Trump](https://www.theguardian.com/us-news/2025/apr/17/asia-pacific-trump-response-china)
+- [‘Massive step’: Arteta praises Arsenal’s character in statement Real Madrid win](https://www.theguardian.com/football/2025/apr/16/massive-step-arteta-praises-arsenals-character-in-statement-real-madrid-win)
+- [Michelle Trachtenberg died of diabetes complications, says medical examiner](https://www.theguardian.com/us-news/2025/apr/16/michelle-trachtenberg-cause-of-death)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

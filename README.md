@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Harvard Launches New Intro Math Course to Address Pandemic Learning Loss &lpar;2024&rpar;](https://www.thecrimson.com/article/2024/9/3/new-math-intro-course/)
-- [Some Cool Things I Learned about How AI Coding Agents Work](https://qckfx.com/blog/some-cool-things-i-learned-about-how-ai-coding-agents-work)
-- [Archeology of React](https://legacy.reactjs.org/blog/2016/09/28/our-first-50000-stars.html)
-- [A Comparative Look at Antitrust Standards in the US and EU](https://www.culawreview.org/journal/the-european-example-a-comparative-look-at-antitrust-standards-in-the-us-and-eu)
-- [Lifetimes of Cryptographic Hash Functions](https://valerieaurora.org/hash.html)
-- [China posts unexpectedly strong economic growth before tariffs bite](https://www.cnn.com/2025/04/15/business/china-economy-growth-q1-hnk-intl/index.html)
-- [Collisions for MD4, MD5, HAVAL-128 and RIPEMD &lpar;2004&rpar; [pdf]](https://eprint.iacr.org/2004/199.pdf)
-- [Ghidra-delinker-extension is snowballing out of control](https://boricj.net/2024/09/23/ghidra-extension-delinker-snowballing-out-of-control.html)
-- [Details behind 4chan hack](https://old.reddit.com/r/OutOfTheLoop/comments/1k019t0/comment/mnaxwze/)
-- [S.F.&#39;s giant naked woman sculpture brought out the worst in our city](https://www.sfchronicle.com/opinion/emilyhoeven/article/sf-naked-woman-sculpture-20275341.php)
+- [Why I Support Privacy](https://vitalik.eth.limo/general/2025/04/14/privacy.html)
+- [UK startups now have an advantage in recruiting](https://nitter.poast.org/paulg/status/1912147018501529937)
+- [Flatten Your Data](https://chrismanbrown.gitlab.io/66.html)
+- [Can you spot the real AI model names?](https://sherwood.news/tech/can-you-spot-the-real-ai-model-names/)
+- [Thalamic nuclei observed driving conscious perception](https://medicalxpress.com/news/2025-04-thalamic-nuclei-conscious-perception.html)
+- [Ask HN: How do you raise your kids in the age of AI?](https://news.ycombinator.com/item?id=43707939)
+- [Miami-Dade to empower cops in immigration crackdown](https://www.miamiherald.com/news/local/immigration/article304033921.html)
+- [Freaky Tales and Johnny Canuck](https://aiascendant.com/p/freaky-tales-and-johnny-canuck)
+- [Why All Engineers Need to Learn Sales](https://www.nooks.ai/blog-posts/why-all-engineers-need-to-learn-sales)
+- [How to align with user preference in a RAG system?](https://news.ycombinator.com/item?id=43707928)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

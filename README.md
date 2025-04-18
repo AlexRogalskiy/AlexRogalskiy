@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Trump’s trade war: the view from China – podcast](https://www.theguardian.com/news/audio/2025/apr/17/donald-trump-trade-war-the-view-from-china-podcast)
-- [‘Who is going to face Mr Trump’: Canada leaders’ debate dominated by US crisis](https://www.theguardian.com/world/2025/apr/17/who-is-going-to-face-mr-trump-canada-leaders-debate-dominated-by-us-crisis)
-- [Ukraine war briefing: Zelenskyy hails ‘good progress’ on minerals deal talks](https://www.theguardian.com/world/2025/apr/17/ukraine-war-briefing-zelenskyy-hails-good-progress-on-minerals-deal-talks)
-- [‘Book brigade’: US town forms human chain to move 9,100 books one-by-one](https://www.theguardian.com/us-news/2025/apr/17/book-brigade-us-town-forms-human-chain-to-move-9100-books-one-by-one)
-- [Fifty years on, New Zealand’s tribunal upholding Māori rights faces a turning point](https://www.theguardian.com/world/2025/apr/17/waitangi-tribunal-new-zealand-50-years-maori-rights)
-- [No plans to allow any aid into Gaza, says Israeli minister](https://www.theguardian.com/world/2025/apr/16/no-humanitarian-aid-gaza-israeli-minister-israel-katz-hamas)
-- [Scientists hail ‘strongest evidence’ so far for life beyond our solar system](https://www.theguardian.com/science/2025/apr/17/scientists-hail-strongest-evidence-so-far-for-life-beyond-our-solar-system)
-- [Re-arm, reassure and spend big: how the Asia Pacific is responding to a new era under Trump](https://www.theguardian.com/us-news/2025/apr/17/asia-pacific-trump-response-china)
-- [‘Massive step’: Arteta praises Arsenal’s character in statement Real Madrid win](https://www.theguardian.com/football/2025/apr/16/massive-step-arteta-praises-arsenals-character-in-statement-real-madrid-win)
-- [Michelle Trachtenberg died of diabetes complications, says medical examiner](https://www.theguardian.com/us-news/2025/apr/16/michelle-trachtenberg-cause-of-death)
+- [Is the gym gen Z’s pub? – podcast](https://www.theguardian.com/news/audio/2025/apr/18/is-the-gym-gen-zs-pub-podcast)
+- [US unveils new port fees on Beijing-linked vessels to ‘reverse Chinese dominance’](https://www.theguardian.com/world/2025/apr/18/us-unveils-new-port-fees-on-beijing-linked-vessels-to-reverse-chinese-dominance)
+- [Maryland senator meets Kilmar Ábrego García in El Salvador amid battle over US return](https://www.theguardian.com/us-news/2025/apr/17/chris-van-hollen-kilmar-abrego-garcia-el-salvador)
+- [Ukraine war briefing: China arming Russia and building weapons on its soil, says Zelenskyy](https://www.theguardian.com/world/2025/apr/18/ukraine-war-briefing-china-arming-russia-and-building-weapons-on-its-soil-says-zelenskyy)
+- [Menendez brothers’ bid for shorter sentence and possible parole delayed again](https://www.theguardian.com/us-news/2025/apr/17/menendez-brothers-hearing-delayed)
+- [Chris Dobey shines in Rotterdam to earn long-awaited Premier League triumph](https://www.theguardian.com/sport/2025/apr/18/chris-dobey-shines-in-rotterdam-to-earn-long-awaited-premier-league-triumph)
+- [Big Ocean, the world’s first deaf K-pop band, on the stigma, the songs and a second album](https://www.theguardian.com/music/2025/apr/18/big-ocean-k-pop-deaf-south-korea-second-album)
+- [Luigi Mangione indicted on federal murder charge over healthcare CEO killing](https://www.theguardian.com/us-news/2025/apr/17/unitedhealthcare-ceo-killing-luigi-mangione-charges)
+- [Party like it’s 1999: Amorim uses treble as ‘inspiration’ for crazy Lyon comeback](https://www.theguardian.com/football/2025/apr/18/party-like-its-1999-amorim-used-treble-as-inspiration-for-crazy-lyon-comeback)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2025/apr/18/premier-league-10-things-to-look-out-for-this-weekend)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

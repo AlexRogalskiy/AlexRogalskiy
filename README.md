@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Sony Unveils the Smallest and Lightest Lidar Depth Sensor](https://petapixel.com/2025/04/15/sony-unveils-the-worlds-smallest-and-lightest-lidar-depth-sensor/)
-- [Zoom outage caused by accidental &#39;shutting down&#39; of the zoom.us domain](https://status.zoom.us/incidents/pw9r9vnq5rvk)
-- [Jellyfin as a Spotify alternative](https://coppolaemilio.com/entries/i-left-spotify-what-happened-next/)
-- [Astronomers Detect a Possible Signature of Life on a Distant Planet](https://www.nytimes.com/2025/04/16/science/astronomy-exoplanets-habitable-k218b.html)
-- [Microsoft researchers developed a hyper-efficient AI model that can run on CPUs](https://techcrunch.com/2025/04/16/microsoft-researchers-say-theyve-developed-a-hyper-efficient-ai-model-that-can-run-on-cpus/)
-- [How a Forgotten Battle Created a More Peaceful World](https://worldhistory.substack.com/p/how-a-forgotten-battle-created-a)
-- [&quot;Vivarium&quot;: The keeper of a lab&#39;s animals stumbles onto a secret [fiction]](https://jsomers.net/vivarium/)
-- [Show HN: Plandex v2 – open source AI coding agent for large projects and tasks](https://github.com/plandex-ai/plandex)
-- [OneSignal &lpar;YC S11&rpar; Is Hiring Engineers](https://onesignal.com/careers)
-- [Man who built ISP instead of paying Comcast expands to hundreds of homes &lpar;2022&rpar;](https://arstechnica.com/tech-policy/2022/08/man-who-built-isp-instead-of-paying-comcast-50k-expands-to-hundreds-of-homes/)
+- [Intuit, Owner of TurboTax, Wins Battle Against America&#39;s Taxpayers](https://prospect.org/power/2025-04-17-intuit-turbotax-wins-battle-against-taxpayers-irs-direct-file/)
+- [The Size of Packets](https://www.potaroo.net/ispcol/2024-10/packet-sizes.html)
+- [A new ChatGPT version just dropped and GeoGuesser is now a solved problem](https://flausch.social/@piegames/114352447253793517)
+- [What do I think about Lua after shipping a project with 60k lines of code?](https://blog.luden.io/what-do-i-think-about-lua-after-shipping-a-project-with-60-000-lines-of-code-bf72a1328733)
+- [CN Tower, Behind the Scenes &lpar;2014&rpar;](https://site.roadwolf.ca/categories/ue/cntower/)
+- [I Analyzed Chord Progressions in 680k Songs](https://www.cantgetmuchhigher.com/p/i-analyzed-chord-progressions-in)
+- [Memory Size Matters to PostgreSQL](https://pgdba.org/post/2025/04/size_matter/)
+- [Potatoes in the Mail](https://facts.usps.com/mailing-potatoes/)
+- [Mux &lpar;YC W16&rpar; is hiring engineering managers for video at scale](https://mux.com/jobs?j=em)
+- [Shell-secrets – GPG-encrypted environment variables](https://github.com/waj/shell-secrets)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

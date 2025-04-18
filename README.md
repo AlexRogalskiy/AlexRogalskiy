@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Why I Support Privacy](https://vitalik.eth.limo/general/2025/04/14/privacy.html)
-- [UK startups now have an advantage in recruiting](https://nitter.poast.org/paulg/status/1912147018501529937)
-- [Flatten Your Data](https://chrismanbrown.gitlab.io/66.html)
-- [Can you spot the real AI model names?](https://sherwood.news/tech/can-you-spot-the-real-ai-model-names/)
-- [Thalamic nuclei observed driving conscious perception](https://medicalxpress.com/news/2025-04-thalamic-nuclei-conscious-perception.html)
-- [Ask HN: How do you raise your kids in the age of AI?](https://news.ycombinator.com/item?id=43707939)
-- [Miami-Dade to empower cops in immigration crackdown](https://www.miamiherald.com/news/local/immigration/article304033921.html)
-- [Freaky Tales and Johnny Canuck](https://aiascendant.com/p/freaky-tales-and-johnny-canuck)
-- [Why All Engineers Need to Learn Sales](https://www.nooks.ai/blog-posts/why-all-engineers-need-to-learn-sales)
-- [How to align with user preference in a RAG system?](https://news.ycombinator.com/item?id=43707928)
+- [Show HN: Panini-Compose](https://github.com/ihucos/panini/)
+- [A 1980s toy robot arm inspired modern robotics](https://www.technologyreview.com/2025/04/17/1114456/toy-armatron-modern-robotics-ai-nostalgia/)
+- [Trump says U.S. to sign rare earths minerals deal with Ukraine next week](https://www.npr.org/2025/04/17/nx-s1-5366821/trump-italy-meloni)
+- [Fatima Hassouna and 9 of her family members murdered](https://www.lemonde.fr/en/international/article/2025/04/17/gaza-photojournalist-fatima-hassouna-killed-in-a-strike-with-10-of-her-relatives_6740338_4.html)
+- [macOS Finder &quot;Connect to Server&quot; accepts ftps URIs but uses plain FTP](https://apple.stackexchange.com/questions/423367/beware-macos-finder-connect-to-server-accepts-ftps-urls-ftp-in-a-ssl-tls-tun)
+- [Honest and Elitist Thoughts on Why Computers Were More Fun Before](https://www.datagubbe.se/aficion/)
+- [Four charts sum up the state of AI and energy](https://www.technologyreview.com/2025/04/17/1115320/four-charts-ai-energy/)
+- [Building UK Defence Innovation](https://britishprogress.org/reports/security-and-prosperity-building-uk-defence-innova)
+- [Ava: The Art and Science of Image Discovery at Netflix](https://netflixtechblog.com/ava-the-art-and-science-of-image-discovery-at-netflix-a442f163af6)
+- [Tristan Harris Congress Testimony: Understanding Persuasive Technology [video]](https://www.youtube.com/watch?v=ZRrguMdzXBw)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

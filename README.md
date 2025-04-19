@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Is the gym gen Z’s pub? – podcast](https://www.theguardian.com/news/audio/2025/apr/18/is-the-gym-gen-zs-pub-podcast)
-- [US unveils new port fees on Beijing-linked vessels to ‘reverse Chinese dominance’](https://www.theguardian.com/world/2025/apr/18/us-unveils-new-port-fees-on-beijing-linked-vessels-to-reverse-chinese-dominance)
-- [Maryland senator meets Kilmar Ábrego García in El Salvador amid battle over US return](https://www.theguardian.com/us-news/2025/apr/17/chris-van-hollen-kilmar-abrego-garcia-el-salvador)
-- [Ukraine war briefing: China arming Russia and building weapons on its soil, says Zelenskyy](https://www.theguardian.com/world/2025/apr/18/ukraine-war-briefing-china-arming-russia-and-building-weapons-on-its-soil-says-zelenskyy)
-- [Menendez brothers’ bid for shorter sentence and possible parole delayed again](https://www.theguardian.com/us-news/2025/apr/17/menendez-brothers-hearing-delayed)
-- [Chris Dobey shines in Rotterdam to earn long-awaited Premier League triumph](https://www.theguardian.com/sport/2025/apr/18/chris-dobey-shines-in-rotterdam-to-earn-long-awaited-premier-league-triumph)
-- [Big Ocean, the world’s first deaf K-pop band, on the stigma, the songs and a second album](https://www.theguardian.com/music/2025/apr/18/big-ocean-k-pop-deaf-south-korea-second-album)
-- [Luigi Mangione indicted on federal murder charge over healthcare CEO killing](https://www.theguardian.com/us-news/2025/apr/17/unitedhealthcare-ceo-killing-luigi-mangione-charges)
-- [Party like it’s 1999: Amorim uses treble as ‘inspiration’ for crazy Lyon comeback](https://www.theguardian.com/football/2025/apr/18/party-like-its-1999-amorim-used-treble-as-inspiration-for-crazy-lyon-comeback)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2025/apr/18/premier-league-10-things-to-look-out-for-this-weekend)
+- [Trump news at a glance: Maryland senator says Ábrego García moved from notorious El Salvador prison](https://www.theguardian.com/us-news/2025/apr/19/president-trump-administration-news-updates-today)
+- [‘It feels deeply human’: Andor’s Genevieve O’Reilly on turning a tiny Star Wars role into one of its biggest](https://www.theguardian.com/tv-and-radio/2025/apr/19/andor-season-two-star-wars-disney-genevieve-oreilly-mon-mothma)
+- [‘Shocking to the sense of liberty Americans hold dear’: the impassioned US court order in the Ábrego García case](https://www.theguardian.com/commentisfree/2025/apr/18/kilmar-abrego-garcia-us-court-order)
+- [Teachers warn of rise in misogyny and racism in UK schools](https://www.theguardian.com/education/2025/apr/19/teachers-warn-rise-misogyny-racism-uk-schools)
+- [Congo boat disaster death toll rises to 148, with more than 100 still missing](https://www.theguardian.com/world/2025/apr/18/congo-boat-disaster-death-toll-rises-to-148-with-more-than-100-still-missing)
+- [Wife of Kilmar Ábrego García speaks as White House defiant over US return](https://www.theguardian.com/us-news/2025/apr/18/kilmar-abrego-garcia-wife-interview)
+- [Championship roundup: Solomon keeps Leeds top with victory at Oxford](https://www.theguardian.com/football/2025/apr/18/championship-roundup-bristol-city-leeds-portsmouth-middlesbrough)
+- [Pubs in England and Wales allowed to stay open later for VE Day anniversary](https://www.theguardian.com/world/2025/apr/18/pubs-in-england-and-wales-allowed-to-stay-open-later-for-ve-day-anniversary)
+- [Northampton hang on to edge out Newcastle in Premiership thriller](https://www.theguardian.com/sport/2025/apr/18/rugby-union-newcastle-northampton-premiership-match-report)
+- [Scores killed in US strikes on Yemen fuel port of Ras Isa, Houthi officials say](https://www.theguardian.com/world/2025/apr/18/scores-killed-in-us-strikes-on-yemen-fuel-port-of-ras-isa-houthi-media-says)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

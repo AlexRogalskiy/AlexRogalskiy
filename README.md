@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: Panini-Compose](https://github.com/ihucos/panini/)
-- [A 1980s toy robot arm inspired modern robotics](https://www.technologyreview.com/2025/04/17/1114456/toy-armatron-modern-robotics-ai-nostalgia/)
-- [Trump says U.S. to sign rare earths minerals deal with Ukraine next week](https://www.npr.org/2025/04/17/nx-s1-5366821/trump-italy-meloni)
-- [Fatima Hassouna and 9 of her family members murdered](https://www.lemonde.fr/en/international/article/2025/04/17/gaza-photojournalist-fatima-hassouna-killed-in-a-strike-with-10-of-her-relatives_6740338_4.html)
-- [macOS Finder &quot;Connect to Server&quot; accepts ftps URIs but uses plain FTP](https://apple.stackexchange.com/questions/423367/beware-macos-finder-connect-to-server-accepts-ftps-urls-ftp-in-a-ssl-tls-tun)
-- [Honest and Elitist Thoughts on Why Computers Were More Fun Before](https://www.datagubbe.se/aficion/)
-- [Four charts sum up the state of AI and energy](https://www.technologyreview.com/2025/04/17/1115320/four-charts-ai-energy/)
-- [Building UK Defence Innovation](https://britishprogress.org/reports/security-and-prosperity-building-uk-defence-innova)
-- [Ava: The Art and Science of Image Discovery at Netflix](https://netflixtechblog.com/ava-the-art-and-science-of-image-discovery-at-netflix-a442f163af6)
-- [Tristan Harris Congress Testimony: Understanding Persuasive Technology [video]](https://www.youtube.com/watch?v=ZRrguMdzXBw)
+- [Deregulation Suggestions](https://www.regulations.gov/deregulation)
+- [Improving Personalized Stem Cell Treatments for Kids](https://bme.gatech.edu/bme/news/working-smarter-improving-personalized-stem-cell-treatments-kids)
+- [A first look at raytraced audio](https://www.youtube.com/watch?v=u6EuAUjq92k)
+- [Blender MCP with 3D search and Instant text-to-animation](https://github.com/CommonSenseMachines/blender-mcp)
+- [Trump&#39;s Tariffs Are Starting to Kill Jobs](https://reason.com/2025/04/18/trumps-tariffs-are-starting-to-kill-jobs/)
+- [The Illuminated Gospel of St John](https://www.cambridge.org/universitypress/bibles/illuminated-gospel-of-st-john)
+- [Climate change could affect arsenic in rice](https://www.bbc.com/future/article/20250417-how-climate-change-could-affect-arsenic-in-rice)
+- [How artificial intelligence is driving a new wave of self-help bots](https://www.abc.net.au/news/2025-04-18/ai-chatbots-therapists-how-it-works-versus-seeing-a-psychologist/105139252)
+- [CaMeL: Defeating Prompt Injections by Design](https://arxiv.org/abs/2503.18813)
+- [U.S. attorney demands journal explain how it ensures &#39;viewpoint diversity&#39;](https://www.nbcnews.com/science/science-news/us-attorney-demands-scientific-journal-explain-ensures-viewpoint-diver-rcna201929)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

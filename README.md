@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Intuit, Owner of TurboTax, Wins Battle Against America&#39;s Taxpayers](https://prospect.org/power/2025-04-17-intuit-turbotax-wins-battle-against-taxpayers-irs-direct-file/)
-- [The Size of Packets](https://www.potaroo.net/ispcol/2024-10/packet-sizes.html)
-- [A new ChatGPT version just dropped and GeoGuesser is now a solved problem](https://flausch.social/@piegames/114352447253793517)
-- [What do I think about Lua after shipping a project with 60k lines of code?](https://blog.luden.io/what-do-i-think-about-lua-after-shipping-a-project-with-60-000-lines-of-code-bf72a1328733)
-- [CN Tower, Behind the Scenes &lpar;2014&rpar;](https://site.roadwolf.ca/categories/ue/cntower/)
-- [I Analyzed Chord Progressions in 680k Songs](https://www.cantgetmuchhigher.com/p/i-analyzed-chord-progressions-in)
-- [Memory Size Matters to PostgreSQL](https://pgdba.org/post/2025/04/size_matter/)
-- [Potatoes in the Mail](https://facts.usps.com/mailing-potatoes/)
-- [Mux &lpar;YC W16&rpar; is hiring engineering managers for video at scale](https://mux.com/jobs?j=em)
-- [Shell-secrets – GPG-encrypted environment variables](https://github.com/waj/shell-secrets)
+- [Hands-On Large Language Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)
+- [Cozy video games can quell stress and anxiety](https://www.reuters.com/business/retail-consumer/cozy-video-games-can-quell-stress-anxiety-2025-01-27/)
+- [Hypertext TV](https://hypertext.tv/)
+- [OpenAI&#39;s new reasoning AI models hallucinate more](https://techcrunch.com/2025/04/18/openais-new-reasoning-ai-models-hallucinate-more/)
+- [I passionately hate hype, especially the AI hype](https://unixdigest.com/articles/i-passionately-hate-hype-especially-the-ai-hype.html)
+- [Hextraction, a free and open source board game](https://www.playhextraction.com/)
+- [Full Text Search of US Court records](https://www.judyrecords.com/)
+- [UML diagram for the DDD example in Evans&#39; book](https://github.com/takaakit/uml-diagram-for-ddd-example-in-evans-book)
+- [15,000 lines of verified cryptography now in Python](https://jonathan.protzenko.fr/2025/04/18/python.html)
+- [Loglan&#39;82: programming language for object-oriented and distributed programming](https://lem12.uksw.edu.pl/wiki/Loglan%2782_project)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

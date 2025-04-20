@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Trump news at a glance: Maryland senator says Ábrego García moved from notorious El Salvador prison](https://www.theguardian.com/us-news/2025/apr/19/president-trump-administration-news-updates-today)
-- [‘It feels deeply human’: Andor’s Genevieve O’Reilly on turning a tiny Star Wars role into one of its biggest](https://www.theguardian.com/tv-and-radio/2025/apr/19/andor-season-two-star-wars-disney-genevieve-oreilly-mon-mothma)
-- [‘Shocking to the sense of liberty Americans hold dear’: the impassioned US court order in the Ábrego García case](https://www.theguardian.com/commentisfree/2025/apr/18/kilmar-abrego-garcia-us-court-order)
-- [Teachers warn of rise in misogyny and racism in UK schools](https://www.theguardian.com/education/2025/apr/19/teachers-warn-rise-misogyny-racism-uk-schools)
-- [Congo boat disaster death toll rises to 148, with more than 100 still missing](https://www.theguardian.com/world/2025/apr/18/congo-boat-disaster-death-toll-rises-to-148-with-more-than-100-still-missing)
-- [Wife of Kilmar Ábrego García speaks as White House defiant over US return](https://www.theguardian.com/us-news/2025/apr/18/kilmar-abrego-garcia-wife-interview)
-- [Championship roundup: Solomon keeps Leeds top with victory at Oxford](https://www.theguardian.com/football/2025/apr/18/championship-roundup-bristol-city-leeds-portsmouth-middlesbrough)
-- [Pubs in England and Wales allowed to stay open later for VE Day anniversary](https://www.theguardian.com/world/2025/apr/18/pubs-in-england-and-wales-allowed-to-stay-open-later-for-ve-day-anniversary)
-- [Northampton hang on to edge out Newcastle in Premiership thriller](https://www.theguardian.com/sport/2025/apr/18/rugby-union-newcastle-northampton-premiership-match-report)
-- [Scores killed in US strikes on Yemen fuel port of Ras Isa, Houthi officials say](https://www.theguardian.com/world/2025/apr/18/scores-killed-in-us-strikes-on-yemen-fuel-port-of-ras-isa-houthi-media-says)
+- [Tunisian court hands prison sentences of up to 66 years in mass trial of regime opponents](https://www.theguardian.com/world/2025/apr/20/tunisia-court-prison-sentences-kais-saied)
+- [Jameela Jamil: ‘I used to be a massive troll and bitch on the internet’](https://www.theguardian.com/culture/2025/apr/20/jameela-jamil-i-used-to-be-a-massive-troll-and-bitch-on-the-internet)
+- [‘Breaking our spirits was the plan’: the lifelong impact of having gone to boarding school](https://www.theguardian.com/education/2025/apr/20/breaking-our-spirits-was-the-plan-the-lifelong-impact-of-having-gone-to-boarding-school)
+- [Flex appeal: how our muscles makes us human](https://www.theguardian.com/science/2025/apr/20/flex-appeal-how-our-muscles-makes-us-human)
+- [Piece of the action: entering the British Puzzle Championship](https://www.theguardian.com/games/2025/apr/20/piece-of-the-action-entering-the-british-puzzle-championship)
+- [Indonesian student detained by Ice after US secretly revokes his visa](https://www.theguardian.com/us-news/2025/apr/19/aditya-wahyu-harsono-immigration-indonesia)
+- [Kyren Wilson crashes out at Crucible as Lei Peifan leads Chinese charge](https://www.theguardian.com/sport/2025/apr/19/xiao-guodong-leads-chinese-charge-as-snookers-balance-of-power-tilts)
+- [European football: Barcelona roar back to beat Celta, Las Palmas shock Atlético](https://www.theguardian.com/football/2025/apr/19/european-football-barcelona-celta-bayern-munich-napoli-atletico-madrid)
+- [Reserved and focused Slot can savour Liverpool’s success as title beckons](https://www.theguardian.com/football/2025/apr/19/liverpool-arne-slot-premier-league-title-beckons)
+- [Zelenskyy says Russia still firing on Ukraine despite ‘Easter truce’](https://www.theguardian.com/world/2025/apr/19/putin-announces-surprise-easter-truce-and-claims-russia-will-not-attack-ukraine-until-monday)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

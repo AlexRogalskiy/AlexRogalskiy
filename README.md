@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Deregulation Suggestions](https://www.regulations.gov/deregulation)
-- [Improving Personalized Stem Cell Treatments for Kids](https://bme.gatech.edu/bme/news/working-smarter-improving-personalized-stem-cell-treatments-kids)
-- [A first look at raytraced audio](https://www.youtube.com/watch?v=u6EuAUjq92k)
-- [Blender MCP with 3D search and Instant text-to-animation](https://github.com/CommonSenseMachines/blender-mcp)
-- [Trump&#39;s Tariffs Are Starting to Kill Jobs](https://reason.com/2025/04/18/trumps-tariffs-are-starting-to-kill-jobs/)
-- [The Illuminated Gospel of St John](https://www.cambridge.org/universitypress/bibles/illuminated-gospel-of-st-john)
-- [Climate change could affect arsenic in rice](https://www.bbc.com/future/article/20250417-how-climate-change-could-affect-arsenic-in-rice)
-- [How artificial intelligence is driving a new wave of self-help bots](https://www.abc.net.au/news/2025-04-18/ai-chatbots-therapists-how-it-works-versus-seeing-a-psychologist/105139252)
-- [CaMeL: Defeating Prompt Injections by Design](https://arxiv.org/abs/2503.18813)
-- [U.S. attorney demands journal explain how it ensures &#39;viewpoint diversity&#39;](https://www.nbcnews.com/science/science-news/us-attorney-demands-scientific-journal-explain-ensures-viewpoint-diver-rcna201929)
+- [Clout on a Plate &lpar;1999&rpar;[pdf]](http://www.alpcamapa.org/docs/Clout%20on%20%20Plate.pdf)
+- [Twitch Highlight Limit and Speedruns at Risk](https://www.speedrun.com/news/k28oeo54-twitch-highlight-limit-speedruns-at-risk)
+- [&#39;A death blow&#39;: Filmmakers, archivists reel as DOGE suddenly cuts their funding](https://sfstandard.com/2025/04/17/doge-neh-funding-cuts-sf/)
+- [Show HN: Simulated a GPT cache bug, saw it echoed back](https://news.ycombinator.com/item?id=43741181)
+- [Elon Musk Cuts Funding for Internet Archive](https://www.msn.com/en-us/news/technology/elon-musk-cuts-funding-for-internet-archive/ar-AA1DdVSe)
+- [The Subjective Charms of Objective-C](https://old.reddit.com/r/programming/comments/1k2b1v4/the_subjective_charms_of_objectivec/)
+- [Nine Rules for a Programmer](https://sandyuraz.com/blogs/nine-rules/)
+- [Pretty State Machine Patterns in Rust](https://hoverbear.org/blog/rust-state-machine-pattern/)
+- [Chinese factories build firetrucks for $400k in 6wk. US it&#39;s $2M in 4 years [video]](https://www.youtube.com/watch?v=78nZ-JJNmzQ)
+- [Helping Turkish entrepreneurs launch global companies – Sirket.io](https://www.sirket.io/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

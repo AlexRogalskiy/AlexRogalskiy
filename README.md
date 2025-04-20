@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Hands-On Large Language Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)
-- [Cozy video games can quell stress and anxiety](https://www.reuters.com/business/retail-consumer/cozy-video-games-can-quell-stress-anxiety-2025-01-27/)
-- [Hypertext TV](https://hypertext.tv/)
-- [OpenAI&#39;s new reasoning AI models hallucinate more](https://techcrunch.com/2025/04/18/openais-new-reasoning-ai-models-hallucinate-more/)
-- [I passionately hate hype, especially the AI hype](https://unixdigest.com/articles/i-passionately-hate-hype-especially-the-ai-hype.html)
-- [Hextraction, a free and open source board game](https://www.playhextraction.com/)
-- [Full Text Search of US Court records](https://www.judyrecords.com/)
-- [UML diagram for the DDD example in Evans&#39; book](https://github.com/takaakit/uml-diagram-for-ddd-example-in-evans-book)
-- [15,000 lines of verified cryptography now in Python](https://jonathan.protzenko.fr/2025/04/18/python.html)
-- [Loglan&#39;82: programming language for object-oriented and distributed programming](https://lem12.uksw.edu.pl/wiki/Loglan%2782_project)
+- [Novel color via stimulation of individual photoreceptors at population scale](https://www.science.org/doi/10.1126/sciadv.adu1052)
+- [Welcome to the Era of Experience [pdf]](https://storage.googleapis.com/deepmind-media/Era-of-Experience%20/The%20Era%20of%20Experience%20Paper.pdf)
+- [Can We Trust CVE?](https://opensourcesecurity.io/2025/04-can-we-trust-cve/)
+- [A unique sound alleviates motion sickness](https://www.nagoya-u.ac.jp/researchinfo/result-en/2025/04/20250408-01.html)
+- [Computational Complexity of Air Travel Planning [pdf]](http://www.demarcken.org/carl/papers/ITA-software-travel-complexity/ITA-software-travel-complexity.pdf)
+- [Electromagnetism as a Purely Geometric Theory](https://iopscience.iop.org/article/10.1088/1742-6596/2987/1/012001)
+- [Monsky&#39;s Theorem](https://mathmondays.com/monskys-theorem)
+- [Show HN: I built an AI that turns GitHub codebases into easy tutorials](https://github.com/The-Pocket/Tutorial-Codebase-Knowledge)
+- [The Art of Assembly Language &lpar;2010&rpar;](https://www.plantation-productions.com/Webster/www.artofasm.com/Linux/HTML/AoATOC.html)
+- [Vibe Coding is not an excuse for low-quality work](https://addyo.substack.com/p/vibe-coding-is-not-an-excuse-for)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

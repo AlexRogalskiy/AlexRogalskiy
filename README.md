@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Novel color via stimulation of individual photoreceptors at population scale](https://www.science.org/doi/10.1126/sciadv.adu1052)
-- [Welcome to the Era of Experience [pdf]](https://storage.googleapis.com/deepmind-media/Era-of-Experience%20/The%20Era%20of%20Experience%20Paper.pdf)
-- [Can We Trust CVE?](https://opensourcesecurity.io/2025/04-can-we-trust-cve/)
-- [A unique sound alleviates motion sickness](https://www.nagoya-u.ac.jp/researchinfo/result-en/2025/04/20250408-01.html)
-- [Computational Complexity of Air Travel Planning [pdf]](http://www.demarcken.org/carl/papers/ITA-software-travel-complexity/ITA-software-travel-complexity.pdf)
-- [Electromagnetism as a Purely Geometric Theory](https://iopscience.iop.org/article/10.1088/1742-6596/2987/1/012001)
-- [Monsky&#39;s Theorem](https://mathmondays.com/monskys-theorem)
-- [Show HN: I built an AI that turns GitHub codebases into easy tutorials](https://github.com/The-Pocket/Tutorial-Codebase-Knowledge)
-- [The Art of Assembly Language &lpar;2010&rpar;](https://www.plantation-productions.com/Webster/www.artofasm.com/Linux/HTML/AoATOC.html)
-- [Vibe Coding is not an excuse for low-quality work](https://addyo.substack.com/p/vibe-coding-is-not-an-excuse-for)
+- [Mistaking Mary Magdalene](https://www.newyorker.com/culture/the-weekend-essay/mistaking-mary-magdalene)
+- [Show HN: Keep your PyTorch model in VRAM by hot swapping code](https://github.com/valine/training-hot-swap/)
+- [Juicyjam: Thai Authorities Use Online Doxxing to Suppress Dissent](https://citizenlab.ca/2025/04/how-thai-authorities-use-online-doxxing-to-suppress-dissent/)
+- [TikZJax: Embedding LaTeX Drawings in HTML](https://tikzjax.com/)
+- [Demystifying decorators: They don&#39;t need to be cryptic](https://www.thepythoncodingstack.com/p/demystifying-python-decorators)
+- [FurtherAI &lpar;YC W24&rpar; Is Hiring Software and AI Engineers](https://www.ycombinator.com/companies/furtherai/jobs)
+- [Decomposing Transactional Systems](https://transactional.blog/blog/2025-decomposing-transactional-systems)
+- [Better Error Handling](https://meowbark.dev/Better-error-handling)
+- [Falsify: Hypothesis-Inspired Shrinking for Haskell &lpar;2023&rpar;](https://www.well-typed.com/blog/2023/04/falsify/)
+- [Find the Odd Disk](https://colors2.alessandroroussel.com/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

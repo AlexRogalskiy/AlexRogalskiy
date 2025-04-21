@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Tunisian court hands prison sentences of up to 66 years in mass trial of regime opponents](https://www.theguardian.com/world/2025/apr/20/tunisia-court-prison-sentences-kais-saied)
-- [Jameela Jamil: ‘I used to be a massive troll and bitch on the internet’](https://www.theguardian.com/culture/2025/apr/20/jameela-jamil-i-used-to-be-a-massive-troll-and-bitch-on-the-internet)
-- [‘Breaking our spirits was the plan’: the lifelong impact of having gone to boarding school](https://www.theguardian.com/education/2025/apr/20/breaking-our-spirits-was-the-plan-the-lifelong-impact-of-having-gone-to-boarding-school)
-- [Flex appeal: how our muscles makes us human](https://www.theguardian.com/science/2025/apr/20/flex-appeal-how-our-muscles-makes-us-human)
-- [Piece of the action: entering the British Puzzle Championship](https://www.theguardian.com/games/2025/apr/20/piece-of-the-action-entering-the-british-puzzle-championship)
-- [Indonesian student detained by Ice after US secretly revokes his visa](https://www.theguardian.com/us-news/2025/apr/19/aditya-wahyu-harsono-immigration-indonesia)
-- [Kyren Wilson crashes out at Crucible as Lei Peifan leads Chinese charge](https://www.theguardian.com/sport/2025/apr/19/xiao-guodong-leads-chinese-charge-as-snookers-balance-of-power-tilts)
-- [European football: Barcelona roar back to beat Celta, Las Palmas shock Atlético](https://www.theguardian.com/football/2025/apr/19/european-football-barcelona-celta-bayern-munich-napoli-atletico-madrid)
-- [Reserved and focused Slot can savour Liverpool’s success as title beckons](https://www.theguardian.com/football/2025/apr/19/liverpool-arne-slot-premier-league-title-beckons)
-- [Zelenskyy says Russia still firing on Ukraine despite ‘Easter truce’](https://www.theguardian.com/world/2025/apr/19/putin-announces-surprise-easter-truce-and-claims-russia-will-not-attack-ukraine-until-monday)
+- [El Salvador’s president proposes swapping US-deported Venezuelans with Maduro’s ‘political prisoners’](https://www.theguardian.com/world/2025/apr/21/el-salvador-president-nayib-bukele-prisoner-swap-venezuela)
+- [The authors taking on Mark Zuckerberg – podcast](https://www.theguardian.com/news/audio/2025/apr/21/the-authors-taking-on-mark-zuckerberg-podcast)
+- [China sends back new Boeing jet made too expensive by tariffs](https://www.theguardian.com/us-news/2025/apr/21/china-returns-boeing-737-jet-us-too-expensive-tariffs)
+- [Nine-year-old boy dies at popular NSW holiday spot amid spate of drownings over Easter long weekend](https://www.theguardian.com/australia-news/2025/apr/21/nine-year-old-boy-dies-at-popular-nsw-holiday-spot-amid-spate-of-drownings-over-easter-long-weekend)
+- [JD Vance heads to Delhi for talks on fast-tracking trade pact](https://www.theguardian.com/world/2025/apr/21/jd-vance-heads-to-delhi-for-talks-on-fast-tracking-trade-pact)
+- [Ukraine war briefing: Prove intentions with 30-day civilian ceasefire, Zelenskyy tells Kremlin](https://www.theguardian.com/world/2025/apr/21/ukraine-war-briefing-prove-intentions-with-30-day-civilian-ceasefire-zelenskyy-tells-kremlin)
+- [Humanoid workers and surveillance buggies: ‘embodied AI’ is reshaping daily life in China](https://www.theguardian.com/world/2025/apr/21/humanoid-workers-and-surveillance-buggies-embodied-ai-is-reshaping-daily-life-in-china)
+- [UK set to ramp up weapons production to reduce reliance on US and French imports](https://www.theguardian.com/politics/2025/apr/21/britain-set-to-increase-weapons-production-to-avoid-relying-on-us-imports)
+- [Scottish Water staff to strike for two days as pay standoff continues](https://www.theguardian.com/business/2025/apr/21/scottish-water-staff-to-strike-for-two-days-as-pay-standoff-continues)
+- [Pete Hegseth shared Yemen attack details in second Signal chat – report](https://www.theguardian.com/us-news/2025/apr/20/pete-hegseth-signal-chat-yemen-attack)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

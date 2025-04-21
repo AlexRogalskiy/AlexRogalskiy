@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Clout on a Plate &lpar;1999&rpar;[pdf]](http://www.alpcamapa.org/docs/Clout%20on%20%20Plate.pdf)
-- [Twitch Highlight Limit and Speedruns at Risk](https://www.speedrun.com/news/k28oeo54-twitch-highlight-limit-speedruns-at-risk)
-- [&#39;A death blow&#39;: Filmmakers, archivists reel as DOGE suddenly cuts their funding](https://sfstandard.com/2025/04/17/doge-neh-funding-cuts-sf/)
-- [Show HN: Simulated a GPT cache bug, saw it echoed back](https://news.ycombinator.com/item?id=43741181)
-- [Elon Musk Cuts Funding for Internet Archive](https://www.msn.com/en-us/news/technology/elon-musk-cuts-funding-for-internet-archive/ar-AA1DdVSe)
-- [The Subjective Charms of Objective-C](https://old.reddit.com/r/programming/comments/1k2b1v4/the_subjective_charms_of_objectivec/)
-- [Nine Rules for a Programmer](https://sandyuraz.com/blogs/nine-rules/)
-- [Pretty State Machine Patterns in Rust](https://hoverbear.org/blog/rust-state-machine-pattern/)
-- [Chinese factories build firetrucks for $400k in 6wk. US it&#39;s $2M in 4 years [video]](https://www.youtube.com/watch?v=78nZ-JJNmzQ)
-- [Helping Turkish entrepreneurs launch global companies – Sirket.io](https://www.sirket.io/)
+- [Ask HN: Built a dev tool, but struggling with traction – advice?](https://news.ycombinator.com/item?id=43748174)
+- [How the development wall between Android and iOS may soon come down – Skip](https://www.androidpolice.com/skip-interview/)
+- [&#39;Epistemological Slop: Lies, Damned Lies, and Google&#39;](https://www.newcartographies.com/p/epistemological-slop)
+- [I thought I bought a camera, but no DJI sold me a LICENSE to use their camera [video]](https://www.youtube.com/watch?v=aUOnQ_boqCw)
+- [The &lpar;Ludicrous&rpar; Psychology of Slot Machines](https://www.readtrung.com/p/the-ludicrous-psychology-of-slot)
+- [Pentagon chief shared Yemen war plans in second Signal chat](https://www.reuters.com/world/us/defense-chief-hegseth-shared-war-plans-second-signal-chat-nyt-reports-2025-04-20/)
+- [C# 14 updates in .NET 10 Preview 3 – Release Notes](https://github.com/dotnet/core/blob/main/release-notes/10.0/preview/preview3/csharp.md)
+- [Show HN: Look Busy – Realistic-Looking Fake Calendar Events](https://lookbusy.app)
+- [AI Mix](https://play.google.com/store/apps/details?id=com.aimixfour)
+- [Yugologo – an archive of business&#39; logos from the former Yugoslavia](https://yugologo.org/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

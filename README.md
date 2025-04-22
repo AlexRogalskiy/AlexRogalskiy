@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Mistaking Mary Magdalene](https://www.newyorker.com/culture/the-weekend-essay/mistaking-mary-magdalene)
-- [Show HN: Keep your PyTorch model in VRAM by hot swapping code](https://github.com/valine/training-hot-swap/)
-- [Juicyjam: Thai Authorities Use Online Doxxing to Suppress Dissent](https://citizenlab.ca/2025/04/how-thai-authorities-use-online-doxxing-to-suppress-dissent/)
-- [TikZJax: Embedding LaTeX Drawings in HTML](https://tikzjax.com/)
-- [Demystifying decorators: They don&#39;t need to be cryptic](https://www.thepythoncodingstack.com/p/demystifying-python-decorators)
-- [FurtherAI &lpar;YC W24&rpar; Is Hiring Software and AI Engineers](https://www.ycombinator.com/companies/furtherai/jobs)
-- [Decomposing Transactional Systems](https://transactional.blog/blog/2025-decomposing-transactional-systems)
-- [Better Error Handling](https://meowbark.dev/Better-error-handling)
-- [Falsify: Hypothesis-Inspired Shrinking for Haskell &lpar;2023&rpar;](https://www.well-typed.com/blog/2023/04/falsify/)
-- [Find the Odd Disk](https://colors2.alessandroroussel.com/)
+- [Prolog Adventure Game](https://github.com/stefanrodrigues2/Prolog-Adventure-game)
+- [101 BASIC Computer Games](https://github.com/maurymarkowitz/101-BASIC-Computer-Games)
+- [Evertop: E-ink IBM XT clone with 100+ hours of battery life](https://github.com/ericjenott/Evertop)
+- [The Future of Compute: Nvidia&#39;s Crown Is Slipping](https://mohitdagarwal.substack.com/p/from-dominance-to-dilemma-nvidia)
+- [Pydrofoil: Accelerating Sail-based instruction set simulators](https://arxiv.org/abs/2503.04389)
+- [Cheating the Reaper in Go](https://mcyoung.xyz/2025/04/21/go-arenas/)
+- [Ultra-precision formation flying demonstration for space-based interferometry](https://arxiv.org/abs/2504.05001)
+- [Cekura &lpar;Formerly Vocera&rpar; &lpar;YC F24&rpar; Is Hiring](https://www.ycombinator.com/companies/cekura-2/jobs/xaoCPco-founding-engineer)
+- [Visiting Us](https://www.epic.com/visiting/)
+- [An update to our pricing](https://windsurf.com/blog/pricing-v2)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

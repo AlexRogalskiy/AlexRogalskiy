@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [El Salvador’s president proposes swapping US-deported Venezuelans with Maduro’s ‘political prisoners’](https://www.theguardian.com/world/2025/apr/21/el-salvador-president-nayib-bukele-prisoner-swap-venezuela)
-- [The authors taking on Mark Zuckerberg – podcast](https://www.theguardian.com/news/audio/2025/apr/21/the-authors-taking-on-mark-zuckerberg-podcast)
-- [China sends back new Boeing jet made too expensive by tariffs](https://www.theguardian.com/us-news/2025/apr/21/china-returns-boeing-737-jet-us-too-expensive-tariffs)
-- [Nine-year-old boy dies at popular NSW holiday spot amid spate of drownings over Easter long weekend](https://www.theguardian.com/australia-news/2025/apr/21/nine-year-old-boy-dies-at-popular-nsw-holiday-spot-amid-spate-of-drownings-over-easter-long-weekend)
-- [JD Vance heads to Delhi for talks on fast-tracking trade pact](https://www.theguardian.com/world/2025/apr/21/jd-vance-heads-to-delhi-for-talks-on-fast-tracking-trade-pact)
-- [Ukraine war briefing: Prove intentions with 30-day civilian ceasefire, Zelenskyy tells Kremlin](https://www.theguardian.com/world/2025/apr/21/ukraine-war-briefing-prove-intentions-with-30-day-civilian-ceasefire-zelenskyy-tells-kremlin)
-- [Humanoid workers and surveillance buggies: ‘embodied AI’ is reshaping daily life in China](https://www.theguardian.com/world/2025/apr/21/humanoid-workers-and-surveillance-buggies-embodied-ai-is-reshaping-daily-life-in-china)
-- [UK set to ramp up weapons production to reduce reliance on US and French imports](https://www.theguardian.com/politics/2025/apr/21/britain-set-to-increase-weapons-production-to-avoid-relying-on-us-imports)
-- [Scottish Water staff to strike for two days as pay standoff continues](https://www.theguardian.com/business/2025/apr/21/scottish-water-staff-to-strike-for-two-days-as-pay-standoff-continues)
-- [Pete Hegseth shared Yemen attack details in second Signal chat – report](https://www.theguardian.com/us-news/2025/apr/20/pete-hegseth-signal-chat-yemen-attack)
+- [How Pope Francis changed the Catholic church, and what happens next – podcast](https://www.theguardian.com/news/audio/2025/apr/22/how-pope-francis-changed-catholic-church-what-happens-next-podcast)
+- [Harvard sues Trump administration over efforts to ‘gain control of academic decision-making’](https://www.theguardian.com/education/2025/apr/21/harvard-sues-trump-administration)
+- [‘He left an indelible impression’: Catholics across Asia-Pacific mourn the Pope](https://www.theguardian.com/world/2025/apr/22/asia-pacific-catholics-mourn-pope-francis)
+- [Ukraine war briefing: Putin suddenly open to bilateral talks with ‘Kyiv regime’](https://www.theguardian.com/world/2025/apr/22/ukraine-war-briefing-putin-suddenly-open-to-bilateral-talks-with-kyiv-regime)
+- [John Higgins fights through emotional turmoil to ignite Crucible challenge](https://www.theguardian.com/sport/2025/apr/21/mark-allen-world-snooker-championship-crucible)
+- [Ministers privately ruling out scrapping two-child benefits cap](https://www.theguardian.com/society/2025/apr/22/ministers-privately-ruling-out-scrapping-two-child-benefits-cap)
+- [Illegal and potentially unsafe ‘energy-saving’ plugs widely available online in UK, report finds](https://www.theguardian.com/money/2025/apr/22/illegal-potentially-unsafe-energy-saving-plugs-available-uk)
+- [Travel body accuses government of ‘sabotaging’ UK tourism industry](https://www.theguardian.com/business/2025/apr/22/travel-body-accuses-government-of-sabotaging-uk-tourism-industry)
+- [Pope Francis’ approach did not win him friends within the church bureaucracy. But he lit the path for us all | Francis Sullivan](https://www.theguardian.com/commentisfree/2025/apr/22/pope-francis-approach-did-not-win-him-friends-within-the-church-bureaucracy-but-he-lit-the-path-for-us-all)
+- [Haiti nearing ‘point of no return’ amid gang violence, UN representative warns](https://www.theguardian.com/world/2025/apr/21/haiti-gang-violence-united-nations)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

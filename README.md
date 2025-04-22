@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ask HN: Built a dev tool, but struggling with traction – advice?](https://news.ycombinator.com/item?id=43748174)
-- [How the development wall between Android and iOS may soon come down – Skip](https://www.androidpolice.com/skip-interview/)
-- [&#39;Epistemological Slop: Lies, Damned Lies, and Google&#39;](https://www.newcartographies.com/p/epistemological-slop)
-- [I thought I bought a camera, but no DJI sold me a LICENSE to use their camera [video]](https://www.youtube.com/watch?v=aUOnQ_boqCw)
-- [The &lpar;Ludicrous&rpar; Psychology of Slot Machines](https://www.readtrung.com/p/the-ludicrous-psychology-of-slot)
-- [Pentagon chief shared Yemen war plans in second Signal chat](https://www.reuters.com/world/us/defense-chief-hegseth-shared-war-plans-second-signal-chat-nyt-reports-2025-04-20/)
-- [C# 14 updates in .NET 10 Preview 3 – Release Notes](https://github.com/dotnet/core/blob/main/release-notes/10.0/preview/preview3/csharp.md)
-- [Show HN: Look Busy – Realistic-Looking Fake Calendar Events](https://lookbusy.app)
-- [AI Mix](https://play.google.com/store/apps/details?id=com.aimixfour)
-- [Yugologo – an archive of business&#39; logos from the former Yugoslavia](https://yugologo.org/)
+- [Show HN: Print today&#39;s your GitHub activity for issues and pull requests](https://github.com/masutaka/github-nippou)
+- [What Would Jesus Do](https://www.theamericanconservative.com/what-would-jesus-do/)
+- [We Slashed API Response Times by 50% with Go Compiler Optimizations](https://medium.com/@utsavmadaan823/how-we-slashed-api-response-times-by-50-with-go-compiler-optimizations-3c2592c2d241)
+- [Bluesky Has an Impersonator Problem](https://www.technologyreview.com/2024/12/11/1108476/bluesky-has-an-impersonator-problem/)
+- [Airbnb Now Shows the Full Price of Your Stay by Default](https://www.theverge.com/news/652635/airbnb-full-price-stay-default)
+- [CodonTransformer: Multispecies codon optimizer via context-aware neural networks](https://www.nature.com/articles/s41467-025-58588-7)
+- [Not paying freelancers is the canary in the coal mine](https://jenamiller.com/notes-from-a-hired-pen-not-paying-freelancers-is-the-canary-in-the-coal-mine/)
+- [Vibe Coding is the Future [video]](https://www.youtube.com/watch?v=IACHfKmZMr8)
+- [The Bad Seeds: Malicious NPM and PyPI Packages Pose as Developer Tools to Steal](https://socket.dev/blog/malicious-npm-and-pypi-packages-steal-wallet-credentials)
+- [Enough Is Enuf, by Gabe Henry](https://www.nytimes.com/2025/04/15/books/review/enuf-is-enough-gabe-henry-pronoun-trouble-john-mcwhorter.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

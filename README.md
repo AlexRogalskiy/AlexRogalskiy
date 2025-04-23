@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Prolog Adventure Game](https://github.com/stefanrodrigues2/Prolog-Adventure-game)
-- [101 BASIC Computer Games](https://github.com/maurymarkowitz/101-BASIC-Computer-Games)
-- [Evertop: E-ink IBM XT clone with 100+ hours of battery life](https://github.com/ericjenott/Evertop)
-- [The Future of Compute: Nvidia&#39;s Crown Is Slipping](https://mohitdagarwal.substack.com/p/from-dominance-to-dilemma-nvidia)
-- [Pydrofoil: Accelerating Sail-based instruction set simulators](https://arxiv.org/abs/2503.04389)
-- [Cheating the Reaper in Go](https://mcyoung.xyz/2025/04/21/go-arenas/)
-- [Ultra-precision formation flying demonstration for space-based interferometry](https://arxiv.org/abs/2504.05001)
-- [Cekura &lpar;Formerly Vocera&rpar; &lpar;YC F24&rpar; Is Hiring](https://www.ycombinator.com/companies/cekura-2/jobs/xaoCPco-founding-engineer)
-- [Visiting Us](https://www.epic.com/visiting/)
-- [An update to our pricing](https://windsurf.com/blog/pricing-v2)
+- [The Problem with Modern Engineering Isn&#39;t Speed. It&#39;s Chaos](https://earthly.dev/blog/lunar-launch/)
+- [Projects for Old OS X](https://jonathanalland.com/old-osx-projects.html)
+- [Meaning Machine – Visualize how LLMs break down and simulate meaning](https://meaning-machine.streamlit.app)
+- [Show HN: Durable Python Workflows](https://github.com/autokitteh/autokitteh)
+- [How to quickly charge your smartphone: fast charging technologies in detail](https://eb43.github.io/articles/fast-charging-technologies-in-detail.html)
+- [CSS Hell](https://csshell.com/)
+- [Onyx &lpar;YC W24&rpar; Is Hiring for ML Engineer](https://www.ycombinator.com/companies/onyx/jobs/3Se5ptG-machine-learning-engineer)
+- [Atuin Desktop: Runbooks That Run](https://blog.atuin.sh/atuin-desktop-runbooks-that-run/)
+- [Classic Computer Replicas](https://obsolescence.dev/index.html)
+- [Show HN: Dosidicus – A digital pet with a simple neural network](https://github.com/ViciousSquid/Dosidicus)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

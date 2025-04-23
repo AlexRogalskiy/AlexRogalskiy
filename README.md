@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [How Pope Francis changed the Catholic church, and what happens next – podcast](https://www.theguardian.com/news/audio/2025/apr/22/how-pope-francis-changed-catholic-church-what-happens-next-podcast)
-- [Harvard sues Trump administration over efforts to ‘gain control of academic decision-making’](https://www.theguardian.com/education/2025/apr/21/harvard-sues-trump-administration)
-- [‘He left an indelible impression’: Catholics across Asia-Pacific mourn the Pope](https://www.theguardian.com/world/2025/apr/22/asia-pacific-catholics-mourn-pope-francis)
-- [Ukraine war briefing: Putin suddenly open to bilateral talks with ‘Kyiv regime’](https://www.theguardian.com/world/2025/apr/22/ukraine-war-briefing-putin-suddenly-open-to-bilateral-talks-with-kyiv-regime)
-- [John Higgins fights through emotional turmoil to ignite Crucible challenge](https://www.theguardian.com/sport/2025/apr/21/mark-allen-world-snooker-championship-crucible)
-- [Ministers privately ruling out scrapping two-child benefits cap](https://www.theguardian.com/society/2025/apr/22/ministers-privately-ruling-out-scrapping-two-child-benefits-cap)
-- [Illegal and potentially unsafe ‘energy-saving’ plugs widely available online in UK, report finds](https://www.theguardian.com/money/2025/apr/22/illegal-potentially-unsafe-energy-saving-plugs-available-uk)
-- [Travel body accuses government of ‘sabotaging’ UK tourism industry](https://www.theguardian.com/business/2025/apr/22/travel-body-accuses-government-of-sabotaging-uk-tourism-industry)
-- [Pope Francis’ approach did not win him friends within the church bureaucracy. But he lit the path for us all | Francis Sullivan](https://www.theguardian.com/commentisfree/2025/apr/22/pope-francis-approach-did-not-win-him-friends-within-the-church-bureaucracy-but-he-lit-the-path-for-us-all)
-- [Haiti nearing ‘point of no return’ amid gang violence, UN representative warns](https://www.theguardian.com/world/2025/apr/21/haiti-gang-violence-united-nations)
+- [The UK supreme court and the definition of a woman – podcast](https://www.theguardian.com/news/audio/2025/apr/23/the-uk-supreme-court-and-the-definition-of-a-woman-podcast)
+- [Ukraine war briefing: Chinese making drones in Russia, Zelenskyy says](https://www.theguardian.com/world/2025/apr/23/ukraine-war-briefing-chinese-making-drones-in-russia-zelenskyy-says)
+- [Elon Musk to pull back in Doge role starting May amid 71% dip in Tesla profits](https://www.theguardian.com/technology/2025/apr/22/tesla-sales-musk-white-house-exit)
+- [Police officers who fail background checks to be automatically sacked](https://www.theguardian.com/uk-news/2025/apr/23/police-officers-who-fail-background-checks-to-be-automatically-sacked)
+- [AI images of child sexual abuse getting ‘significantly more realistic’, says watchdog](https://www.theguardian.com/technology/2025/apr/23/ai-images-of-child-sexual-abuse-getting-significantly-more-realistic-says-watchdog)
+- [Ronnie O’Sullivan holds narrow lead over Ali Carter in World Snooker Championship](https://www.theguardian.com/sport/2025/apr/22/ronnie-osullivan-has-narrow-lead-over-ali-carter-in-world-snooker-championship-return)
+- [Veterans affairs agency orders staff to report each other for ‘anti-Christian bias’](https://www.theguardian.com/us-news/2025/apr/22/veterans-affairs-anti-christian-bias)
+- [European football: Dani Olmo extends Barça’s La Liga lead to seven points](https://www.theguardian.com/football/2025/apr/22/european-football-dani-olmo-extends-barcelona-la-liga-lead-seven-points)
+- [Welsh Tory to quit at next Senedd poll to fight general election betting charges](https://www.theguardian.com/uk-news/2025/apr/22/welsh-tory-to-quit-at-next-senedd-poll-due-to-general-election-betting-charges)
+- [Arteta will not rest players against Palace despite looming PSG tie](https://www.theguardian.com/football/2025/apr/22/mikel-arteta-arsenal-rest-players-crystal-palace-premier-league-champions-league-psg)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

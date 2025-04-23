@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: Print today&#39;s your GitHub activity for issues and pull requests](https://github.com/masutaka/github-nippou)
-- [What Would Jesus Do](https://www.theamericanconservative.com/what-would-jesus-do/)
-- [We Slashed API Response Times by 50% with Go Compiler Optimizations](https://medium.com/@utsavmadaan823/how-we-slashed-api-response-times-by-50-with-go-compiler-optimizations-3c2592c2d241)
-- [Bluesky Has an Impersonator Problem](https://www.technologyreview.com/2024/12/11/1108476/bluesky-has-an-impersonator-problem/)
-- [Airbnb Now Shows the Full Price of Your Stay by Default](https://www.theverge.com/news/652635/airbnb-full-price-stay-default)
-- [CodonTransformer: Multispecies codon optimizer via context-aware neural networks](https://www.nature.com/articles/s41467-025-58588-7)
-- [Not paying freelancers is the canary in the coal mine](https://jenamiller.com/notes-from-a-hired-pen-not-paying-freelancers-is-the-canary-in-the-coal-mine/)
-- [Vibe Coding is the Future [video]](https://www.youtube.com/watch?v=IACHfKmZMr8)
-- [The Bad Seeds: Malicious NPM and PyPI Packages Pose as Developer Tools to Steal](https://socket.dev/blog/malicious-npm-and-pypi-packages-steal-wallet-credentials)
-- [Enough Is Enuf, by Gabe Henry](https://www.nytimes.com/2025/04/15/books/review/enuf-is-enough-gabe-henry-pronoun-trouble-john-mcwhorter.html)
+- [Show HN: JotSense – AI note-taking agent that extracts notes from any source](https://jotsense.com)
+- [The Rise and Fall and Rise Again of Lionel Trains &lpar;1997&rpar;](http://spikesys.com/Modelrr/lionel.html)
+- [State of Devs: the developer survey about career, workplace, health, and hobbies](https://survey.devographics.com/en-US/survey/state-of-devs/2025?source=hacker_news)
+- [Next Gen AI Model – Download Now](https://totally-not-avirus.com/download/super-ai.exe)
+- [Adobe/Apache Flex](https://en.wikipedia.org/wiki/Apache_Flex)
+- [Lustre v5.0.0 Released](https://hexdocs.pm/lustre/announcements/2025-04-19.html)
+- [WebGPU officially shipping in Firefox 140, releases June 24th](https://groups.google.com/a/mozilla.org/g/dev-platform/c/hi1kFQF13Pk/m/rO9RoSCrAQAJ)
+- [Show HN: A free tool for generating agile user stories](https://kollabe.com/tools/user-story-generator)
+- [Fallback.systems](https://fallback.systems)
+- [AirDisk Pro – Local file manager and wireless photo transfer for Android](https://play.google.com/store/apps/details?id=com.app2pro.airdisk)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The Problem with Modern Engineering Isn&#39;t Speed. It&#39;s Chaos](https://earthly.dev/blog/lunar-launch/)
-- [Projects for Old OS X](https://jonathanalland.com/old-osx-projects.html)
-- [Meaning Machine – Visualize how LLMs break down and simulate meaning](https://meaning-machine.streamlit.app)
-- [Show HN: Durable Python Workflows](https://github.com/autokitteh/autokitteh)
-- [How to quickly charge your smartphone: fast charging technologies in detail](https://eb43.github.io/articles/fast-charging-technologies-in-detail.html)
-- [CSS Hell](https://csshell.com/)
-- [Onyx &lpar;YC W24&rpar; Is Hiring for ML Engineer](https://www.ycombinator.com/companies/onyx/jobs/3Se5ptG-machine-learning-engineer)
-- [Atuin Desktop: Runbooks That Run](https://blog.atuin.sh/atuin-desktop-runbooks-that-run/)
-- [Classic Computer Replicas](https://obsolescence.dev/index.html)
-- [Show HN: Dosidicus – A digital pet with a simple neural network](https://github.com/ViciousSquid/Dosidicus)
+- [Yaakov Kirschen’s other legacy](https://www.jns.org/yaakov-kirschens-other-legacy/)
+- [Shortest-possible walking tour to 81,998 bars in South Korea](https://www.math.uwaterloo.ca/tsp/korea/index.html)
+- [Show HN: My from-scratch OS kernel that runs DOOM](https://github.com/UnmappedStack/TacOS)
+- [CubeCL: GPU Kernels in Rust for CUDA, ROCm, and WGPU](https://github.com/tracel-ai/cubecl)
+- [Yagri: You are gonna read it](https://www.scottantipa.com/yagri)
+- [Google blocked Motorola use of Perplexity AI, witness says](https://www.bloomberg.com/news/articles/2025-04-23/perplexity-executive-says-google-blocked-motorola-s-use-of-ai-assistant)
+- [DOGE worker’s code supports NLRB whistleblower](https://krebsonsecurity.com/2025/04/doge-workers-code-supports-nlrb-whistleblower/)
+- [Lucene University](https://github.com/msfroh/lucene-university)
+- [You wouldn&#39;t steal a font](https://fedi.rib.gay/notes/a6xqityngfubsz0f)
+- [First Successful Lightning Triggering and Guiding Using a Drone](https://group.ntt/en/newsrelease/2025/04/18/250418a.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

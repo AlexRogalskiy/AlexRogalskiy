@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [The UK supreme court and the definition of a woman – podcast](https://www.theguardian.com/news/audio/2025/apr/23/the-uk-supreme-court-and-the-definition-of-a-woman-podcast)
-- [Ukraine war briefing: Chinese making drones in Russia, Zelenskyy says](https://www.theguardian.com/world/2025/apr/23/ukraine-war-briefing-chinese-making-drones-in-russia-zelenskyy-says)
-- [Elon Musk to pull back in Doge role starting May amid 71% dip in Tesla profits](https://www.theguardian.com/technology/2025/apr/22/tesla-sales-musk-white-house-exit)
-- [Police officers who fail background checks to be automatically sacked](https://www.theguardian.com/uk-news/2025/apr/23/police-officers-who-fail-background-checks-to-be-automatically-sacked)
-- [AI images of child sexual abuse getting ‘significantly more realistic’, says watchdog](https://www.theguardian.com/technology/2025/apr/23/ai-images-of-child-sexual-abuse-getting-significantly-more-realistic-says-watchdog)
-- [Ronnie O’Sullivan holds narrow lead over Ali Carter in World Snooker Championship](https://www.theguardian.com/sport/2025/apr/22/ronnie-osullivan-has-narrow-lead-over-ali-carter-in-world-snooker-championship-return)
-- [Veterans affairs agency orders staff to report each other for ‘anti-Christian bias’](https://www.theguardian.com/us-news/2025/apr/22/veterans-affairs-anti-christian-bias)
-- [European football: Dani Olmo extends Barça’s La Liga lead to seven points](https://www.theguardian.com/football/2025/apr/22/european-football-dani-olmo-extends-barcelona-la-liga-lead-seven-points)
-- [Welsh Tory to quit at next Senedd poll to fight general election betting charges](https://www.theguardian.com/uk-news/2025/apr/22/welsh-tory-to-quit-at-next-senedd-poll-due-to-general-election-betting-charges)
-- [Arteta will not rest players against Palace despite looming PSG tie](https://www.theguardian.com/football/2025/apr/22/mikel-arteta-arsenal-rest-players-crystal-palace-premier-league-champions-league-psg)
+- [Trump’s class war on Harvard – podcast](https://www.theguardian.com/news/audio/2025/apr/24/trump-class-war-harvard-podcast)
+- [Ukraine war briefing: Zelenskyy reposts US missive from first Trump term that Crimea is Ukrainian](https://www.theguardian.com/world/2025/apr/24/ukraine-war-briefing-zelenskyy-reposts-us-missive-from-first-trump-term-that-crimea-is-ukrainian)
+- [UK seeks global green investors with windfarm cash and planning policies](https://www.theguardian.com/environment/2025/apr/24/uk-seeks-to-attract-global-green-investors-spooked-by-trumps-policies)
+- [NHS staff fatigue poses ‘significant’ threat to patient safety, watchdog warns](https://www.theguardian.com/society/2025/apr/24/nhs-staff-fatigue-poses-significant-threat-to-patient-safety-watchdog-warns)
+- [Andrew Flintoff feels cricket coaching chance ‘saved me’ after Top Gear crash](https://www.theguardian.com/sport/2025/apr/24/andrew-flintoff-feels-cricket-coaching-saved-me-after-top-gear-crash)
+- [The Proms 2025 season offers plenty both to cherish and challenge](https://www.theguardian.com/music/2025/apr/24/proms-2025-andrew-clements-comment)
+- [BBC announces 2025 Proms lineup – including first female-fronted Last Night](https://www.theguardian.com/music/2025/apr/24/bbc-announces-2025-proms-lineup-female-fronted-last-night-traitors-shostakovich-ravel)
+- [Police launch manhunt after convicted murderer flees open prison in Scotland](https://www.theguardian.com/uk-news/2025/apr/23/police-launch-manhunt-after-convicted-murderer-flees-open-prison-in-scotland)
+- [Rachel Reeves dashes hopes of early breakthrough in UK-US trade deal](https://www.theguardian.com/us-news/2025/apr/23/rachel-reeves-dashes-hopes-of-early-breakthrough-in-uk-us-trade-deal)
+- [Gas leak from lorry in Oldham prompts local evacuation](https://www.theguardian.com/uk-news/2025/apr/23/vapour-leak-from-lorry-in-oldham-prompts-local-evacuation)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

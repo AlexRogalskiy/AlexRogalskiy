@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: JotSense – AI note-taking agent that extracts notes from any source](https://jotsense.com)
-- [The Rise and Fall and Rise Again of Lionel Trains &lpar;1997&rpar;](http://spikesys.com/Modelrr/lionel.html)
-- [State of Devs: the developer survey about career, workplace, health, and hobbies](https://survey.devographics.com/en-US/survey/state-of-devs/2025?source=hacker_news)
-- [Next Gen AI Model – Download Now](https://totally-not-avirus.com/download/super-ai.exe)
-- [Adobe/Apache Flex](https://en.wikipedia.org/wiki/Apache_Flex)
-- [Lustre v5.0.0 Released](https://hexdocs.pm/lustre/announcements/2025-04-19.html)
-- [WebGPU officially shipping in Firefox 140, releases June 24th](https://groups.google.com/a/mozilla.org/g/dev-platform/c/hi1kFQF13Pk/m/rO9RoSCrAQAJ)
-- [Show HN: A free tool for generating agile user stories](https://kollabe.com/tools/user-story-generator)
-- [Fallback.systems](https://fallback.systems)
-- [AirDisk Pro – Local file manager and wireless photo transfer for Android](https://play.google.com/store/apps/details?id=com.app2pro.airdisk)
+- [Show HN: Million Dollar Homepage but Useful](https://10000resumes.com/hn)
+- [MS&#39;s patch for symlink vulnerability introduces another symlink vulnerability](https://doublepulsar.com/microsofts-patch-for-cve-2025-21204-symlink-vulnerability-introduces-another-symlink-vulnerability-9ea085537741)
+- [Exploiting Undefined Behavior in C/C++ Programs for Optimization [pdf]](https://web.ist.utl.pt/nuno.lopes/pubs/ub-pldi25.pdf)
+- [SERP Blocks – 1000 Component Library for React Built on ShadcnUI](https://serp.ly/serp-blocks)
+- [AI Firm: &quot;Start Cheating&quot;](https://dailynous.com/2025/04/23/ai-firm-start-cheating/)
+- [The Temple Operating System](https://templeos.org/)
+- [Hydroxylation and Hydrogen Diffusion in Lunar Samples: Spectral Measurements](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JE008334)
+- [JWST explores enigmatic mid-infrared rings in planetary nebula NGC 1514](https://phys.org/news/2025-03-jwst-explores-enigmatic-mid-infrared.html)
+- [NASA experiment shows solar wind might make water on the moon](https://phys.org/news/2025-04-nasa-solar-moon.html)
+- [Sodom comet paper to be retracted](https://retractionwatch.com/2025/04/23/sodom-comet-paper-to-be-retracted-two-years-after-editors-note-acknowledging-concerns/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

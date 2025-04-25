@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Trump’s class war on Harvard – podcast](https://www.theguardian.com/news/audio/2025/apr/24/trump-class-war-harvard-podcast)
-- [Ukraine war briefing: Zelenskyy reposts US missive from first Trump term that Crimea is Ukrainian](https://www.theguardian.com/world/2025/apr/24/ukraine-war-briefing-zelenskyy-reposts-us-missive-from-first-trump-term-that-crimea-is-ukrainian)
-- [UK seeks global green investors with windfarm cash and planning policies](https://www.theguardian.com/environment/2025/apr/24/uk-seeks-to-attract-global-green-investors-spooked-by-trumps-policies)
-- [NHS staff fatigue poses ‘significant’ threat to patient safety, watchdog warns](https://www.theguardian.com/society/2025/apr/24/nhs-staff-fatigue-poses-significant-threat-to-patient-safety-watchdog-warns)
-- [Andrew Flintoff feels cricket coaching chance ‘saved me’ after Top Gear crash](https://www.theguardian.com/sport/2025/apr/24/andrew-flintoff-feels-cricket-coaching-saved-me-after-top-gear-crash)
-- [The Proms 2025 season offers plenty both to cherish and challenge](https://www.theguardian.com/music/2025/apr/24/proms-2025-andrew-clements-comment)
-- [BBC announces 2025 Proms lineup – including first female-fronted Last Night](https://www.theguardian.com/music/2025/apr/24/bbc-announces-2025-proms-lineup-female-fronted-last-night-traitors-shostakovich-ravel)
-- [Police launch manhunt after convicted murderer flees open prison in Scotland](https://www.theguardian.com/uk-news/2025/apr/23/police-launch-manhunt-after-convicted-murderer-flees-open-prison-in-scotland)
-- [Rachel Reeves dashes hopes of early breakthrough in UK-US trade deal](https://www.theguardian.com/us-news/2025/apr/23/rachel-reeves-dashes-hopes-of-early-breakthrough-in-uk-us-trade-deal)
-- [Gas leak from lorry in Oldham prompts local evacuation](https://www.theguardian.com/uk-news/2025/apr/23/vapour-leak-from-lorry-in-oldham-prompts-local-evacuation)
+- [NFL draft 2025 live updates: Jaguars trade up with Browns to get Travis Hunter at No 2](https://www.theguardian.com/sport/live/2025/apr/24/nfl-draft-2025-updates-picks-trades-round-1-teams-cam-ward)
+- [US judges block aspects of Trump agenda as president targets Democratic fundraising platform – as it happened](https://www.theguardian.com/us-news/live/2025/apr/24/donald-trump-tariffs-white-house-latest-politics-live-news)
+- [Bill Maher calls Larry David’s satire of his Trump dinner ‘kind of insulting to 6 million dead Jews’](https://www.theguardian.com/tv-and-radio/2025/apr/25/bill-maher-calls-larry-davids-satire-of-his-trump-dinner-kind-of-insulting-to-6-million-dead-jews)
+- [‘They excavated a nightclub!’: uncovering Black British history beyond London – podcast](https://www.theguardian.com/news/audio/2025/apr/25/they-excavated-a-nightclub-uncovering-black-british-history-beyond-london-podcast)
+- [Trump news at a glance: president berates Putin; judge blocks changes to voting rights](https://www.theguardian.com/us-news/2025/apr/25/trump-administration-news-updates-today)
+- [I want to start dating casually. How do I turn off the illogical, hopelessly romantic part of my brain? | Leading questions](https://www.theguardian.com/lifeandstyle/2025/apr/25/i-want-to-start-dating-casually-how-do-i-turn-off-the-illogical-hopelessly-romantic-part-of-my-brain)
+- [Trump targets Democratic fundraising platform ActBlue with memorandum](https://www.theguardian.com/us-news/2025/apr/24/trump-actblue-memo)
+- [Mark Selby knocked out in huge World Snooker Championship shock](https://www.theguardian.com/sport/2025/apr/24/world-snooker-championship-luca-brecel-mark-allen-mark-selby-john-higgins)
+- [‘Trump 2028’ hats and T-shirts for sale on US president’s online store](https://www.theguardian.com/us-news/2025/apr/25/donald-trump-2028-merchandise-online-store)
+- [Premier League and FA Cup semis: 10 things to look out for this weekend](https://www.theguardian.com/football/2025/apr/25/premier-league-and-fa-cup-semis-10-things-to-look-out-for-this-weekend)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

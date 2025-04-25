@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: Million Dollar Homepage but Useful](https://10000resumes.com/hn)
-- [MS&#39;s patch for symlink vulnerability introduces another symlink vulnerability](https://doublepulsar.com/microsofts-patch-for-cve-2025-21204-symlink-vulnerability-introduces-another-symlink-vulnerability-9ea085537741)
-- [Exploiting Undefined Behavior in C/C++ Programs for Optimization [pdf]](https://web.ist.utl.pt/nuno.lopes/pubs/ub-pldi25.pdf)
-- [SERP Blocks – 1000 Component Library for React Built on ShadcnUI](https://serp.ly/serp-blocks)
-- [AI Firm: &quot;Start Cheating&quot;](https://dailynous.com/2025/04/23/ai-firm-start-cheating/)
-- [The Temple Operating System](https://templeos.org/)
-- [Hydroxylation and Hydrogen Diffusion in Lunar Samples: Spectral Measurements](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JE008334)
-- [JWST explores enigmatic mid-infrared rings in planetary nebula NGC 1514](https://phys.org/news/2025-03-jwst-explores-enigmatic-mid-infrared.html)
-- [NASA experiment shows solar wind might make water on the moon](https://phys.org/news/2025-04-nasa-solar-moon.html)
-- [Sodom comet paper to be retracted](https://retractionwatch.com/2025/04/23/sodom-comet-paper-to-be-retracted-two-years-after-editors-note-acknowledging-concerns/)
+- [DOGE Just Ended Nuclear in America [video]](https://youtu.be/payvx8pUTS4)
+- [Not all AI-assisted programming is vibe coding &lpar;but vibe coding rocks&rpar;](https://simonwillison.net/2025/Mar/19/vibe-coding/)
+- [Inside the controversial tree farms powering Apple’s carbon neutral goal](https://www.technologyreview.com/2025/04/24/1115751/apple-carbon-neutral-eucalyptus-tree-farm-brazil/)
+- [How to Support OpenID AuthZEN Requests with Amazon Verified Permissions](https://aws.amazon.com/blogs/security/how-to-support-openid-authzen-requests-with-amazon-verified-permissions/)
+- [WW2 Willy&#39;s Jeep could be unpacked from a crate and reassembled in 4 minutes](https://twitter.com/MAC_Arms/status/1915396746311590230)
+- [FedRAMP Marketplace](https://marketplace.fedramp.gov/products)
+- [An Interactive Overview of Grammar-Based Sampling for LLMs](http://michaelgiba.com/grammar-based/index.html)
+- [Do Not Train&quot; Meta Tags: The Robots.txt of AI – Will Anyone Respect Them?](https://news.ycombinator.com/item?id=43789634)
+- [Congress Republicans seek $27 billion for Golden Dome in Trump tax bill](https://www.cnbc.com/2025/04/24/congress-republicans-seek-27-billion-for-golden-dome-in-trump-tax-bill-reuters.html)
+- [The World Seems to Be Surrendering to Climate Change](https://www.nytimes.com/2025/04/23/opinion/climate-trump-world.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

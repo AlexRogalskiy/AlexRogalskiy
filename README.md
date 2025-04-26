@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [DOGE Just Ended Nuclear in America [video]](https://youtu.be/payvx8pUTS4)
-- [Not all AI-assisted programming is vibe coding &lpar;but vibe coding rocks&rpar;](https://simonwillison.net/2025/Mar/19/vibe-coding/)
-- [Inside the controversial tree farms powering Apple’s carbon neutral goal](https://www.technologyreview.com/2025/04/24/1115751/apple-carbon-neutral-eucalyptus-tree-farm-brazil/)
-- [How to Support OpenID AuthZEN Requests with Amazon Verified Permissions](https://aws.amazon.com/blogs/security/how-to-support-openid-authzen-requests-with-amazon-verified-permissions/)
-- [WW2 Willy&#39;s Jeep could be unpacked from a crate and reassembled in 4 minutes](https://twitter.com/MAC_Arms/status/1915396746311590230)
-- [FedRAMP Marketplace](https://marketplace.fedramp.gov/products)
-- [An Interactive Overview of Grammar-Based Sampling for LLMs](http://michaelgiba.com/grammar-based/index.html)
-- [Do Not Train&quot; Meta Tags: The Robots.txt of AI – Will Anyone Respect Them?](https://news.ycombinator.com/item?id=43789634)
-- [Congress Republicans seek $27 billion for Golden Dome in Trump tax bill](https://www.cnbc.com/2025/04/24/congress-republicans-seek-27-billion-for-golden-dome-in-trump-tax-bill-reuters.html)
-- [The World Seems to Be Surrendering to Climate Change](https://www.nytimes.com/2025/04/23/opinion/climate-trump-world.html)
+- [Migrating Uber&#39;s Compute Platform to Kubernetes: A Technical Journey](https://www.uber.com/en-TW/blog/migrating-ubers-compute-platform-to-kubernetes-a-technical-journey/)
+- [Still Standing [4chan]](https://blog.4chan.org/post/781845918774394880/still-standing)
+- [Monad MCP Server](https://github.com/lispking/monad-mcp-server)
+- [The Global Trading System Was Already Broken](https://www.foreignaffairs.com/world/global-trading-system-was-already-broken)
+- [Are We AI Math Yet?](https://www.areweaimathyet.com/)
+- [Unlock $5k in Free Azure Credits, AWS, Intercom, Brevo, Revolut, and More](https://medium.com/expats-founders/unlock-5-000-in-free-azure-credits-intercom-brevo-revolut-and-more-94e837528415)
+- [Sham Surgery](https://en.wikipedia.org/wiki/Sham_surgery)
+- [K Slices, K Dices](https://beyondloom.com/blog/slicedice.html)
+- [Rhythm in AI-Assisted Coding](https://twitter.com/karpathy/status/1915581920022585597)
+- [The Offensiveness of Group-Speak](https://ayishatakanbi.substack.com/p/the-offensiveness-of-group-speak)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

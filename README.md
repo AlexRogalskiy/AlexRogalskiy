@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Swift Container Plugin](https://github.com/apple/swift-container-plugin)
-- [Street address errors in Google Maps](https://randomascii.wordpress.com/2025/04/24/google-maps-doesnt-know-how-street-addresses-work/)
-- [Microsoft subtracts C/C++ extension from VS Code forks](https://www.theregister.com/2025/04/24/microsoft_vs_code_subtracts_cc_extension/)
-- [Scientists Develop Artificial Leaf, Uses Sunlight to Produce Valuable Chemicals](https://newscenter.lbl.gov/2025/04/24/scientists-develop-artificial-leaf-that-uses-sunlight-to-produce-valuable-chemicals/)
-- [National Airspace System Status](https://nasstatus.faa.gov/)
-- [You Can Be a Great Designer and Be Completely Unknown](https://www.chrbutler.com/you-can-be-a-great-designer-and-be-completely-unknown)
-- [Agent Mesh for Enterprise Agents](https://www.solo.io/blog/agent-mesh-for-enterprise-agents)
-- [Show HN: I Added Translation to My RSS Reader Project](https://rahuldshetty.github.io/reader-project/#/translation)
-- [PyGraph: Robust Compiler Support for CUDA Graphs in PyTorch](https://arxiv.org/abs/2503.19779)
-- [OpenAI releases image generation in the API](https://openai.com/index/image-generation-api/)
+- [Mathematicians just solved a 125-year-old problem, uniting 3 theories in physics](https://www.scientificamerican.com/article/lofty-math-problem-called-hilberts-sixth-closer-to-being-solved/)
+- [Berkeley Humanoid Lite – open-source robot](https://lite.berkeley-humanoid.org/)
+- [I wrote a book called &quot;Crap Towns&quot;. It seemed funny at the time](https://samj.substack.com/p/that-joke-isnt-funny-any-more)
+- [Your phone isn&#39;t secretly listening to you, but the truth is more disturbing](https://newatlas.com/computers/smartphone-listening-conversations-ads-facebook/)
+- [Reading RSS content is a skilled activity](https://www.doliver.org/articles/rss-as-a-skill)
+- [Parallel ./configure](https://tavianator.com/2025/configure.html)
+- [ACM&#39;s flagship magazine seeks submissions by/for practitioners](https://cacm.acm.org/practice/call-for-papers-cacm-practice-section/)
+- [Wikipedia’s nonprofit status questioned by D.C. U.S. attorney](https://www.washingtonpost.com/technology/2025/04/25/wikipedia-nonprofit-ed-martin-letter/)
+- [I designed my LED matrix PCB with code](https://docs.tscircuit.com/tutorials/building-led-matrix)
+- [World Emulation via Neural Network](https://madebyoll.in/posts/world_emulation_via_dnn/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

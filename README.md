@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [NFL draft 2025 live updates: Jaguars trade up with Browns to get Travis Hunter at No 2](https://www.theguardian.com/sport/live/2025/apr/24/nfl-draft-2025-updates-picks-trades-round-1-teams-cam-ward)
-- [US judges block aspects of Trump agenda as president targets Democratic fundraising platform – as it happened](https://www.theguardian.com/us-news/live/2025/apr/24/donald-trump-tariffs-white-house-latest-politics-live-news)
-- [Bill Maher calls Larry David’s satire of his Trump dinner ‘kind of insulting to 6 million dead Jews’](https://www.theguardian.com/tv-and-radio/2025/apr/25/bill-maher-calls-larry-davids-satire-of-his-trump-dinner-kind-of-insulting-to-6-million-dead-jews)
-- [‘They excavated a nightclub!’: uncovering Black British history beyond London – podcast](https://www.theguardian.com/news/audio/2025/apr/25/they-excavated-a-nightclub-uncovering-black-british-history-beyond-london-podcast)
-- [Trump news at a glance: president berates Putin; judge blocks changes to voting rights](https://www.theguardian.com/us-news/2025/apr/25/trump-administration-news-updates-today)
-- [I want to start dating casually. How do I turn off the illogical, hopelessly romantic part of my brain? | Leading questions](https://www.theguardian.com/lifeandstyle/2025/apr/25/i-want-to-start-dating-casually-how-do-i-turn-off-the-illogical-hopelessly-romantic-part-of-my-brain)
-- [Trump targets Democratic fundraising platform ActBlue with memorandum](https://www.theguardian.com/us-news/2025/apr/24/trump-actblue-memo)
-- [Mark Selby knocked out in huge World Snooker Championship shock](https://www.theguardian.com/sport/2025/apr/24/world-snooker-championship-luca-brecel-mark-allen-mark-selby-john-higgins)
-- [‘Trump 2028’ hats and T-shirts for sale on US president’s online store](https://www.theguardian.com/us-news/2025/apr/25/donald-trump-2028-merchandise-online-store)
-- [Premier League and FA Cup semis: 10 things to look out for this weekend](https://www.theguardian.com/football/2025/apr/25/premier-league-and-fa-cup-semis-10-things-to-look-out-for-this-weekend)
+- [Virginia Giuffre, a survivor of Jeffrey Epstein’s sexual abuse, has died aged 41](https://www.theguardian.com/us-news/2025/apr/26/virginia-giuffre-suicide-dead-aged-41)
+- [FBI arrests Wisconsin judge and accuses her of obstructing immigration officials](https://www.theguardian.com/us-news/2025/apr/25/judge-hannah-dugan-milwaukee-arrest)
+- [Royals and refugees to come together in Rome for funeral of Pope Francis](https://www.theguardian.com/world/2025/apr/26/royals-and-refugees-to-come-together-in-rome-for-funeral-of-pope-francis)
+- [‘People can’t imagine something on that scale dying’: Anohni on mourning the Great Barrier Reef](https://www.theguardian.com/music/2025/apr/26/people-cant-imagine-something-on-that-scale-dying-anohni-on-mourning-the-great-barrier-reef)
+- [Valerie the dachshund is found safe and well after 529 days on the run on South Australian island](https://www.theguardian.com/australia-news/2025/apr/25/valerie-the-dachshund-is-found-safe-and-well-after-529-days-on-the-run-on-south-australian-island)
+- [California proposes to allow testing of driverless heavy-duty trucks](https://www.theguardian.com/us-news/2025/apr/25/california-self-driving-truck-testing-proposal)
+- [York Minster hosts controversial metal concert as threatened protests fail to materialise](https://www.theguardian.com/uk-news/2025/apr/25/york-minster-hosts-controversial-metal-concert-as-threatened-protests-fail-to-materialise)
+- [US restoring legal status of hundreds of students after abruptly revoking visas](https://www.theguardian.com/us-news/2025/apr/25/student-visa-legal-status-restored)
+- [Peter Dutton was fired up before the election was called – but has the Coalition wilted in the campaign furnace?](https://www.theguardian.com/australia-news/2025/apr/26/peter-dutton-coalition-liberal-party-australian-federal-election-campaign-2025)
+- [Liverpool will improve next season in search for perfection, warns Arne Slot](https://www.theguardian.com/football/2025/apr/25/liverpool-will-improve-next-season-in-search-for-perfection-warns-arne-slot)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

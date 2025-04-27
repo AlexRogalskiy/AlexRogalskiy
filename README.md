@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Migrating Uber&#39;s Compute Platform to Kubernetes: A Technical Journey](https://www.uber.com/en-TW/blog/migrating-ubers-compute-platform-to-kubernetes-a-technical-journey/)
-- [Still Standing [4chan]](https://blog.4chan.org/post/781845918774394880/still-standing)
-- [Monad MCP Server](https://github.com/lispking/monad-mcp-server)
-- [The Global Trading System Was Already Broken](https://www.foreignaffairs.com/world/global-trading-system-was-already-broken)
-- [Are We AI Math Yet?](https://www.areweaimathyet.com/)
-- [Unlock $5k in Free Azure Credits, AWS, Intercom, Brevo, Revolut, and More](https://medium.com/expats-founders/unlock-5-000-in-free-azure-credits-intercom-brevo-revolut-and-more-94e837528415)
-- [Sham Surgery](https://en.wikipedia.org/wiki/Sham_surgery)
-- [K Slices, K Dices](https://beyondloom.com/blog/slicedice.html)
-- [Rhythm in AI-Assisted Coding](https://twitter.com/karpathy/status/1915581920022585597)
-- [The Offensiveness of Group-Speak](https://ayishatakanbi.substack.com/p/the-offensiveness-of-group-speak)
+- [Rakubrew: Raku Installation Tool](https://rakubrew.org/)
+- [Open-source interactive C tutorial in the browser](https://www.learn-c.org/)
+- [Brett Terpstra Is Open to Work](https://brettterpstra.com/2025/04/26/brett-terpstra-is-open-to-work/)
+- [Show HN: I made no subscription keyword grouping and other SEO tools](https://optiwing.com/)
+- [Should we fly in the Lebesgue-designed airplane? [pdf]](https://mast.queensu.ca/~andrew/notes/pdf/2007c.pdf)
+- [What Happens If a Space Elevator Breaks &lpar;2022&rpar;](https://www.wired.com/story/what-happens-if-a-space-elevator-breaks/)
+- [Show HN: PPT Compressor – Compress PowerPoint files in the browser](https://www.pptcompressor.online)
+- [Why the New Gemini 2.5 Pro and NotebookLM is 2x Powerful [video]](https://www.youtube.com/watch?v=hqBkKMT1IPQ)
+- [Ray-Ban Stories Smart Glasses Teardown &lpar;2023&rpar;](https://www.digikey.kr/en/maker/projects/ray-ban-stories-smart-glasses-teardown/710c72d1c7f2499591fe38b387f90047)
+- [Peanut Allergies Could Reduce If Babies Weaned Early on Peanut Products](https://www.southampton.ac.uk/news/2023/03/peanut-allergy.page)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

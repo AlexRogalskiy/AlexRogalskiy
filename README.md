@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Virginia Giuffre, a survivor of Jeffrey Epstein’s sexual abuse, has died aged 41](https://www.theguardian.com/us-news/2025/apr/26/virginia-giuffre-suicide-dead-aged-41)
-- [FBI arrests Wisconsin judge and accuses her of obstructing immigration officials](https://www.theguardian.com/us-news/2025/apr/25/judge-hannah-dugan-milwaukee-arrest)
-- [Royals and refugees to come together in Rome for funeral of Pope Francis](https://www.theguardian.com/world/2025/apr/26/royals-and-refugees-to-come-together-in-rome-for-funeral-of-pope-francis)
-- [‘People can’t imagine something on that scale dying’: Anohni on mourning the Great Barrier Reef](https://www.theguardian.com/music/2025/apr/26/people-cant-imagine-something-on-that-scale-dying-anohni-on-mourning-the-great-barrier-reef)
-- [Valerie the dachshund is found safe and well after 529 days on the run on South Australian island](https://www.theguardian.com/australia-news/2025/apr/25/valerie-the-dachshund-is-found-safe-and-well-after-529-days-on-the-run-on-south-australian-island)
-- [California proposes to allow testing of driverless heavy-duty trucks](https://www.theguardian.com/us-news/2025/apr/25/california-self-driving-truck-testing-proposal)
-- [York Minster hosts controversial metal concert as threatened protests fail to materialise](https://www.theguardian.com/uk-news/2025/apr/25/york-minster-hosts-controversial-metal-concert-as-threatened-protests-fail-to-materialise)
-- [US restoring legal status of hundreds of students after abruptly revoking visas](https://www.theguardian.com/us-news/2025/apr/25/student-visa-legal-status-restored)
-- [Peter Dutton was fired up before the election was called – but has the Coalition wilted in the campaign furnace?](https://www.theguardian.com/australia-news/2025/apr/26/peter-dutton-coalition-liberal-party-australian-federal-election-campaign-2025)
-- [Liverpool will improve next season in search for perfection, warns Arne Slot](https://www.theguardian.com/football/2025/apr/25/liverpool-will-improve-next-season-in-search-for-perfection-warns-arne-slot)
+- [Trump says US ships should have free use of Panama and Suez canals](https://www.theguardian.com/us-news/2025/apr/27/trump-says-us-ships-should-have-free-use-of-panama-and-suez-canals)
+- [Ukraine war briefing: Suspect held in Moscow car bombing of general, Russia claims](https://www.theguardian.com/world/2025/apr/27/ukraine-war-briefing-suspect-held-in-moscow-car-bombing-of-general-russia-claims)
+- [Taiwan cracks down on holders of Chinese ID amid fears over propaganda and espionage](https://www.theguardian.com/world/2025/apr/27/taiwan-chinese-passport-id-card-crackdown)
+- [Alex de Minaur sounds warning with ruthless victory at Madrid Open](https://www.theguardian.com/sport/2025/apr/27/alex-de-minaur-sounds-warning-with-ruthless-victory-at-madrid-open)
+- [Trump news at a glance: US president meets Zelenskyy at Vatican as popularity plunges at home](https://www.theguardian.com/us-news/2025/apr/27/president-trump-administration-news-updates-today)
+- [Boxing shines through unexpectedly once Eubank Jr and Benn step into ring | Alex Reid](https://www.theguardian.com/sport/2025/apr/27/boxing-chris-eubank-jr-nigel-benn)
+- [Barcelona win Copa del Rey after Koundé’s extra-time winner settles thriller](https://www.theguardian.com/football/2025/apr/27/barcelona-real-madrid-copa-del-rey-match-report)
+- [Krapp’s Last Tape review – Gary Oldman’s arresting one-man Beckett is a startling piece of theatre](https://www.theguardian.com/stage/2025/apr/26/krapps-last-tape-review-gary-oldman-york-theatre-royal)
+- [Chris Eubank Jr beats Conor Benn on unanimous points decision](https://www.theguardian.com/sport/2025/apr/26/chris-eubank-jr-beats-conor-benn-by-unanimous-points-decision)
+- [O’Sullivan, Higgins and Williams stand strong as Class of 92 battle on](https://www.theguardian.com/sport/2025/apr/26/ronnie-osullivan-and-mark-williams-stand-firm-as-class-of-92-battle-on)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

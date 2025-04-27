@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Mathematicians just solved a 125-year-old problem, uniting 3 theories in physics](https://www.scientificamerican.com/article/lofty-math-problem-called-hilberts-sixth-closer-to-being-solved/)
-- [Berkeley Humanoid Lite – open-source robot](https://lite.berkeley-humanoid.org/)
-- [I wrote a book called &quot;Crap Towns&quot;. It seemed funny at the time](https://samj.substack.com/p/that-joke-isnt-funny-any-more)
-- [Your phone isn&#39;t secretly listening to you, but the truth is more disturbing](https://newatlas.com/computers/smartphone-listening-conversations-ads-facebook/)
-- [Reading RSS content is a skilled activity](https://www.doliver.org/articles/rss-as-a-skill)
-- [Parallel ./configure](https://tavianator.com/2025/configure.html)
-- [ACM&#39;s flagship magazine seeks submissions by/for practitioners](https://cacm.acm.org/practice/call-for-papers-cacm-practice-section/)
-- [Wikipedia’s nonprofit status questioned by D.C. U.S. attorney](https://www.washingtonpost.com/technology/2025/04/25/wikipedia-nonprofit-ed-martin-letter/)
-- [I designed my LED matrix PCB with code](https://docs.tscircuit.com/tutorials/building-led-matrix)
-- [World Emulation via Neural Network](https://madebyoll.in/posts/world_emulation_via_dnn/)
+- [Sigbovik Conference Proceedings 2025 [pdf]](https://sigbovik.org/2025/proceedings.pdf)
+- [IcôNES](https://icones.js.org/)
+- [Path is a utility for working with paths](https://gitlab.com/SpyrjaGaldr/path)
+- [Amazon Just Happens to Hold Book Sale During Independent Bookstore Day](https://gizmodo.com/amazon-just-happens-to-hold-book-sale-during-independent-bookstore-day-2000594958)
+- [Solar Orbiter&#39;s widest high-res view of the Sun](https://www.esa.int/ESA_Multimedia/Images/2025/04/Solar_Orbiter_s_widest_high-res_view_of_the_Sun)
+- [Parity &lpar;YC S24&rpar; is hiring founding engineers to build an AI SRE &lpar;in-person, SF&rpar;](https://www.ycombinator.com/companies/parity/jobs)
+- [Anatomy of a SQL Engine](https://www.dolthub.com/blog/2025-04-25-sql-engine-anatomy/)
+- [Bare metal printf – C standard library without OS](https://popovicu.com/posts/bare-metal-printf/)
+- [CosAE: Learnable Fourier Series for Image Restoration](https://sifeiliu.net/CosAE-page/)
+- [Slinky-Coil Dipole &lpar;2021&rpar;](https://nonstopsystems.com/radio/frank_radio_antenna.htm)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

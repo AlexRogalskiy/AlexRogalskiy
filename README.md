@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Trump says US ships should have free use of Panama and Suez canals](https://www.theguardian.com/us-news/2025/apr/27/trump-says-us-ships-should-have-free-use-of-panama-and-suez-canals)
-- [Ukraine war briefing: Suspect held in Moscow car bombing of general, Russia claims](https://www.theguardian.com/world/2025/apr/27/ukraine-war-briefing-suspect-held-in-moscow-car-bombing-of-general-russia-claims)
-- [Taiwan cracks down on holders of Chinese ID amid fears over propaganda and espionage](https://www.theguardian.com/world/2025/apr/27/taiwan-chinese-passport-id-card-crackdown)
-- [Alex de Minaur sounds warning with ruthless victory at Madrid Open](https://www.theguardian.com/sport/2025/apr/27/alex-de-minaur-sounds-warning-with-ruthless-victory-at-madrid-open)
-- [Trump news at a glance: US president meets Zelenskyy at Vatican as popularity plunges at home](https://www.theguardian.com/us-news/2025/apr/27/president-trump-administration-news-updates-today)
-- [Boxing shines through unexpectedly once Eubank Jr and Benn step into ring | Alex Reid](https://www.theguardian.com/sport/2025/apr/27/boxing-chris-eubank-jr-nigel-benn)
-- [Barcelona win Copa del Rey after Koundé’s extra-time winner settles thriller](https://www.theguardian.com/football/2025/apr/27/barcelona-real-madrid-copa-del-rey-match-report)
-- [Krapp’s Last Tape review – Gary Oldman’s arresting one-man Beckett is a startling piece of theatre](https://www.theguardian.com/stage/2025/apr/26/krapps-last-tape-review-gary-oldman-york-theatre-royal)
-- [Chris Eubank Jr beats Conor Benn on unanimous points decision](https://www.theguardian.com/sport/2025/apr/26/chris-eubank-jr-beats-conor-benn-by-unanimous-points-decision)
-- [O’Sullivan, Higgins and Williams stand strong as Class of 92 battle on](https://www.theguardian.com/sport/2025/apr/26/ronnie-osullivan-and-mark-williams-stand-firm-as-class-of-92-battle-on)
+- [Vancouver car-ramming attack: Suspect charged with eights counts of murder – latest updates](https://www.theguardian.com/world/live/2025/apr/27/vancouver-street-festival-casualties-car-crowds-lapu-lapu)
+- [Living in class limbo – podcast](https://www.theguardian.com/news/audio/2025/apr/28/living-in-class-limbo-podcast)
+- [Kneecap concert footage assessed by police over alleged ‘kill your MP’ call](https://www.theguardian.com/music/2025/apr/28/kneecap-alleged-kill-your-mp-concert-footage-police-ntwnfb)
+- [China and Philippines display competing flags on disputed South China Sea sandbank](https://www.theguardian.com/world/2025/apr/28/china-philippines-flags-sandy-cay-south-china-sea)
+- [Can you crack it? Science reveals the best way to peel a boiled egg | Polly Burey](https://www.theguardian.com/food/2025/apr/28/how-to-peel-a-hard-boiled-egg-perfectly-easily-crack-hack-the-best-way)
+- [Trump warms to Zelenskyy after Vatican meeting but is ‘disappointed’ by Russia](https://www.theguardian.com/us-news/2025/apr/27/trump-zelenskyy-putin)
+- [Hiroshige: Artist of the Open Road review – ‘I could look forever at these passing moments in cosmic colours’](https://www.theguardian.com/artanddesign/2025/apr/28/hiroshige-artist-of-the-open-road-review-i-could-look-forever-at-these-passing-moments-in-cosmic-colours)
+- [UK growth forecast to slow sharply as Trump tariffs push confidence to record low](https://www.theguardian.com/business/2025/apr/28/uk-growth-forecast-to-slow-sharply-as-trump-tariffs-push-confidence-to-record-low)
+- [More than 100 people detained after federal raid in Colorado Springs](https://www.theguardian.com/us-news/2025/apr/27/immigrants-detained-colorado-springs-nightclub-raid)
+- [Ronnie O’Sullivan closes in on record 23rd world snooker quarter-final](https://www.theguardian.com/sport/2025/apr/27/ronnie-osullivan-closes-in-on-record-23rd-world-snooker-quarter-final)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

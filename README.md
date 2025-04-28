@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Sigbovik Conference Proceedings 2025 [pdf]](https://sigbovik.org/2025/proceedings.pdf)
-- [IcôNES](https://icones.js.org/)
-- [Path is a utility for working with paths](https://gitlab.com/SpyrjaGaldr/path)
-- [Amazon Just Happens to Hold Book Sale During Independent Bookstore Day](https://gizmodo.com/amazon-just-happens-to-hold-book-sale-during-independent-bookstore-day-2000594958)
-- [Solar Orbiter&#39;s widest high-res view of the Sun](https://www.esa.int/ESA_Multimedia/Images/2025/04/Solar_Orbiter_s_widest_high-res_view_of_the_Sun)
-- [Parity &lpar;YC S24&rpar; is hiring founding engineers to build an AI SRE &lpar;in-person, SF&rpar;](https://www.ycombinator.com/companies/parity/jobs)
-- [Anatomy of a SQL Engine](https://www.dolthub.com/blog/2025-04-25-sql-engine-anatomy/)
-- [Bare metal printf – C standard library without OS](https://popovicu.com/posts/bare-metal-printf/)
-- [CosAE: Learnable Fourier Series for Image Restoration](https://sifeiliu.net/CosAE-page/)
-- [Slinky-Coil Dipole &lpar;2021&rpar;](https://nonstopsystems.com/radio/frank_radio_antenna.htm)
+- [Ask HN: CS Degrees, do they matter again?](https://news.ycombinator.com/item?id=43816853)
+- [Visual Transistor-level Simulation of the 6502 CPU](http://www.visual6502.org/)
+- [Show HN: I made a web-based, free alternative to Screen Studio](https://www.screenrecorder.me)
+- [New material gives copper superalloy-like strength](https://news.lehigh.edu/new-material-gives-copper-superalloy-like-strength-0)
+- [Restoring a Sinclair C5](https://woof.tech/@crashtestdev/114411537491626882)
+- [AI Helps Find a Cause of Alzheimer&#39;s Disease and Identify Therapeutic Candidate](https://today.ucsd.edu/story/ai-helps-unravel-a-cause-of-alzheimers-disease-and-identify-a-therapeutic-candidate)
+- [The suburban office park that launched Silicon Valley](https://thehustle.co/originals/the-suburban-office-park-that-launched-silicon-valley)
+- [Tiny Emulators](https://floooh.github.io/tiny8bit-preview/)
+- [Computer Architects Can&#39;t Find the Average](https://dgsq.net/2025-04-27-averages/)
+- [Show HN: I486SX_soft_FPU – Software FPU Emulator for NetBSD 10 on 486SX](https://github.com/mezantrop/i486SX_soft_FPU)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Rakubrew: Raku Installation Tool](https://rakubrew.org/)
-- [Open-source interactive C tutorial in the browser](https://www.learn-c.org/)
-- [Brett Terpstra Is Open to Work](https://brettterpstra.com/2025/04/26/brett-terpstra-is-open-to-work/)
-- [Show HN: I made no subscription keyword grouping and other SEO tools](https://optiwing.com/)
-- [Should we fly in the Lebesgue-designed airplane? [pdf]](https://mast.queensu.ca/~andrew/notes/pdf/2007c.pdf)
-- [What Happens If a Space Elevator Breaks &lpar;2022&rpar;](https://www.wired.com/story/what-happens-if-a-space-elevator-breaks/)
-- [Show HN: PPT Compressor – Compress PowerPoint files in the browser](https://www.pptcompressor.online)
-- [Why the New Gemini 2.5 Pro and NotebookLM is 2x Powerful [video]](https://www.youtube.com/watch?v=hqBkKMT1IPQ)
-- [Ray-Ban Stories Smart Glasses Teardown &lpar;2023&rpar;](https://www.digikey.kr/en/maker/projects/ray-ban-stories-smart-glasses-teardown/710c72d1c7f2499591fe38b387f90047)
-- [Peanut Allergies Could Reduce If Babies Weaned Early on Peanut Products](https://www.southampton.ac.uk/news/2023/03/peanut-allergy.page)
+- [AI is right about em-dashes](https://joeldueck.com/ai-is-right-about-em-dashes.html)
+- [Show HN: A developer survey about everything that&#39;s *not* code](https://survey.devographics.com/en-US/survey/state-of-devs/2025)
+- [TreeGPT: Tree Based Chatting](https://treegpt.app/)
+- [200 Best PICO-8 Games](https://nerdyteachers.com/PICO-8/Games/Top200/)
+- [Missteps Equipment Problems and a Common but Risky Practice Led to a Fatal Crash](https://www.nytimes.com/2025/04/27/business/dc-plane-crash-reagan-airport.html)
+- [The emergence of eukaryotes as an evolutionary algorithmic phase transition](https://www.pnas.org/doi/10.1073/pnas.2422968122)
+- [Show HN: Musicbirthday.com – Daily Personalized Spotify Playlists](https://musicbirthday.com)
+- [First experimental observation of Dirac exceptional points](https://phys.org/news/2025-04-experimental-dirac-exceptional.html)
+- [builtwith.com builtwith IIS](https://builtwith.com/builtwith.com)
+- [Sustainable Aviation Fuel &lpar;SAF&rpar; 101: Production Technologies](https://worldenergy.net/resource/sustainable-aviation-fuel-101/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

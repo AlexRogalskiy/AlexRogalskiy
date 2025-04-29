@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Ask HN: CS Degrees, do they matter again?](https://news.ycombinator.com/item?id=43816853)
-- [Visual Transistor-level Simulation of the 6502 CPU](http://www.visual6502.org/)
-- [Show HN: I made a web-based, free alternative to Screen Studio](https://www.screenrecorder.me)
-- [New material gives copper superalloy-like strength](https://news.lehigh.edu/new-material-gives-copper-superalloy-like-strength-0)
-- [Restoring a Sinclair C5](https://woof.tech/@crashtestdev/114411537491626882)
-- [AI Helps Find a Cause of Alzheimer&#39;s Disease and Identify Therapeutic Candidate](https://today.ucsd.edu/story/ai-helps-unravel-a-cause-of-alzheimers-disease-and-identify-a-therapeutic-candidate)
-- [The suburban office park that launched Silicon Valley](https://thehustle.co/originals/the-suburban-office-park-that-launched-silicon-valley)
-- [Tiny Emulators](https://floooh.github.io/tiny8bit-preview/)
-- [Computer Architects Can&#39;t Find the Average](https://dgsq.net/2025-04-27-averages/)
-- [Show HN: I486SX_soft_FPU – Software FPU Emulator for NetBSD 10 on 486SX](https://github.com/mezantrop/i486SX_soft_FPU)
+- [Show HN: Rad Type - Can we make gamepad typing fast?](https://www.tyleo.com/projects/rad-type)
+- [Why did Windows 7 log on slower for months if you had a solid color background?](https://devblogs.microsoft.com/oldnewthing/20250428-00/?p=111121)
+- [The 12-bit rainbow palette](https://iamkate.com/data/12-bit-rainbow/)
+- [What the heck is AEAD again?](https://ochagavia.nl/blog/what-the-heck-is-aead-again/)
+- [The One-Person Framework in Practice](https://link.mail.beehiiv.com/ss/c/u001.5SRwDQ9qxPQW8vmD5Do73b3R4eTCi2vXqPyztEk6wMFC9_fqEAcDVx6xEJ96T4BSMXrPS7z5exEBSTF4pF48z8SqJkJnkAwMUW9LtYdd8lWmvkDinT92nsk5HmXOHdWgLsysm9FMGrqmu7dnG57cXpga8ZOe8X0IV8pyeC3AswdRMaitfT307y7naP-_6W5CiolKhXCKrEndMGCW2PftFUu9ieYOxpVJ_fhu82gAh-4/4g1/wA_MG-I5SVCyR3KY66oEaQ/h30/h001.kLDFZMgisudi21zmTPbd_O8U7X98d4UxYqZjQTb_D7o)
+- [Hunting for dark nights and wishing on stars](https://www.hcn.org/articles/hunting-for-dark-nights-and-wishing-on-stars/)
+- [Legal art forgery, for the sake of movies &lpar;2014&rpar;](https://www.vanityfair.com/hollywood/2014/04/art-in-movies)
+- [Forensic Fandom](https://exiledfan.substack.com/p/introducing-forensic-fandom)
+- [Packed Data Support in Haskell](https://arthi-chaud.github.io/posts/packed/)
+- [Requirements change until they don&#39;t](https://buttondown.com/hillelwayne/archive/requirements-change-until-they-dont/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [AI is right about em-dashes](https://joeldueck.com/ai-is-right-about-em-dashes.html)
-- [Show HN: A developer survey about everything that&#39;s *not* code](https://survey.devographics.com/en-US/survey/state-of-devs/2025)
-- [TreeGPT: Tree Based Chatting](https://treegpt.app/)
-- [200 Best PICO-8 Games](https://nerdyteachers.com/PICO-8/Games/Top200/)
-- [Missteps Equipment Problems and a Common but Risky Practice Led to a Fatal Crash](https://www.nytimes.com/2025/04/27/business/dc-plane-crash-reagan-airport.html)
-- [The emergence of eukaryotes as an evolutionary algorithmic phase transition](https://www.pnas.org/doi/10.1073/pnas.2422968122)
-- [Show HN: Musicbirthday.com – Daily Personalized Spotify Playlists](https://musicbirthday.com)
-- [First experimental observation of Dirac exceptional points](https://phys.org/news/2025-04-experimental-dirac-exceptional.html)
-- [builtwith.com builtwith IIS](https://builtwith.com/builtwith.com)
-- [Sustainable Aviation Fuel &lpar;SAF&rpar; 101: Production Technologies](https://worldenergy.net/resource/sustainable-aviation-fuel-101/)
+- [A comparison of ChatGPT/GPT-4o&#39;s previous and current system prompts. GPT](https://simonwillison.net/2025/Apr/29/a-comparison-of-chatgptgpt-4os-previous-and-current-system-promp/)
+- [The Agonizing Task of Turning Europe&#39;s Power Back On](https://www.wired.com/story/europe-blackout-spain-portugal-power-outage/)
+- [Japanese Innovations That Shape Our Daily Lives](https://www.nytimes.com/2025/04/22/t-magazine/japan-innovation-j-pop-sushi-matcha-karaoke.html)
+- [American Malware](https://quality.ghost.io/american-malware/)
+- [LLM Arena Pareto Frontier](https://winston-bosan.github.io/llm-pareto-frontier/)
+- [Show HN: Git Probe, Your Daily GitHub Change Monitor](https://github.com/PlusLemon/git-probe)
+- [San Francisco&#39;s budget is bigger than 17 U.S. states](https://growsf.org/research/2025-04-28-sf-city-budget/)
+- [Vector Search over PostgreSQL: Analysis of Different Solutions](https://blog.vectorchord.ai/vector-search-over-postgresql-a-comparative-analysis-of-memory-and-disk-solutions)
+- [David Thomas, Who Led the &#39;Avant-Garage&#39; Band Pere Ubu, Dies at 71](https://www.nytimes.com/2025/04/26/arts/music/david-thomas-dead.html)
+- [Announcing the new directors of OSI board](https://opensource.org/blog/announcing-the-new-directors-of-osi-board)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

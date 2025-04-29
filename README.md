@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Vancouver car-ramming attack: Suspect charged with eights counts of murder – latest updates](https://www.theguardian.com/world/live/2025/apr/27/vancouver-street-festival-casualties-car-crowds-lapu-lapu)
-- [Living in class limbo – podcast](https://www.theguardian.com/news/audio/2025/apr/28/living-in-class-limbo-podcast)
-- [Kneecap concert footage assessed by police over alleged ‘kill your MP’ call](https://www.theguardian.com/music/2025/apr/28/kneecap-alleged-kill-your-mp-concert-footage-police-ntwnfb)
-- [China and Philippines display competing flags on disputed South China Sea sandbank](https://www.theguardian.com/world/2025/apr/28/china-philippines-flags-sandy-cay-south-china-sea)
-- [Can you crack it? Science reveals the best way to peel a boiled egg | Polly Burey](https://www.theguardian.com/food/2025/apr/28/how-to-peel-a-hard-boiled-egg-perfectly-easily-crack-hack-the-best-way)
-- [Trump warms to Zelenskyy after Vatican meeting but is ‘disappointed’ by Russia](https://www.theguardian.com/us-news/2025/apr/27/trump-zelenskyy-putin)
-- [Hiroshige: Artist of the Open Road review – ‘I could look forever at these passing moments in cosmic colours’](https://www.theguardian.com/artanddesign/2025/apr/28/hiroshige-artist-of-the-open-road-review-i-could-look-forever-at-these-passing-moments-in-cosmic-colours)
-- [UK growth forecast to slow sharply as Trump tariffs push confidence to record low](https://www.theguardian.com/business/2025/apr/28/uk-growth-forecast-to-slow-sharply-as-trump-tariffs-push-confidence-to-record-low)
-- [More than 100 people detained after federal raid in Colorado Springs](https://www.theguardian.com/us-news/2025/apr/27/immigrants-detained-colorado-springs-nightclub-raid)
-- [Ronnie O’Sullivan closes in on record 23rd world snooker quarter-final](https://www.theguardian.com/sport/2025/apr/27/ronnie-osullivan-closes-in-on-record-23rd-world-snooker-quarter-final)
+- [Trump news at a glance: children targeted in immigration crackdown](https://www.theguardian.com/us-news/2025/apr/29/trump-administration-news-updates-today)
+- [Labour v Reform UK: on the road in Runcorn – podcast](https://www.theguardian.com/news/audio/2025/apr/29/labour-v-reform-uk-on-the-road-in-runcorn-podcast)
+- [Four children killed after car crashes through Illinois building, say police](https://www.theguardian.com/us-news/2025/apr/28/children-illinois-car-crash)
+- [Ukraine war briefing: Zelenskyy calls Putin’s offer of brief ceasefire ‘manipulation’](https://www.theguardian.com/world/2025/apr/29/ukraine-war-briefing-zelenskyy-calls-putins-offer-of-brief-ceasefire-manipulation)
+- [Four pro-democracy lawmakers from ‘Hong Kong 47’ group freed after four years in jail](https://www.theguardian.com/world/2025/apr/29/hong-kong-47-four-pro-democracy-lawmakers-released-from-jail)
+- [Peace Corps to undergo ‘significant’ cuts after Doge review](https://www.theguardian.com/us-news/2025/apr/28/peace-corps-doge-elon-musk)
+- [When is the 2025 Australia election date? Everything you need to know about early voting, how to apply for a postal vote, what to do if you are overseas and more](https://www.theguardian.com/australia-news/2025/apr/29/australian-election-2025-voters-guide-how-to-vote-when-who-everything-you-need-to-know-australia-federal-poll-day)
+- [Canada election 2025: latest results as Mark Carney seeks to stay on as PM](https://www.theguardian.com/world/ng-interactive/2025/apr/29/canada-election-2025-latest-results-as-mark-carney-seeks-to-stay-on-as-pm)
+- [Trump’s first 100 days supercharged a global ‘freefall of rights’, says Amnesty](https://www.theguardian.com/global-development/2025/apr/29/trump-first-100-days-rollback-human-rights-amnesty-report-repression-climate-corporate-power-women-migrants-lgbtq)
+- [Power begins to return to Spain and Portugal after unprecedented blackout](https://www.theguardian.com/world/2025/apr/28/power-begins-to-return-to-iberian-peninsula-after-unprecedented-blackout)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

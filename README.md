@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [A comparison of ChatGPT/GPT-4o&#39;s previous and current system prompts. GPT](https://simonwillison.net/2025/Apr/29/a-comparison-of-chatgptgpt-4os-previous-and-current-system-promp/)
-- [The Agonizing Task of Turning Europe&#39;s Power Back On](https://www.wired.com/story/europe-blackout-spain-portugal-power-outage/)
-- [Japanese Innovations That Shape Our Daily Lives](https://www.nytimes.com/2025/04/22/t-magazine/japan-innovation-j-pop-sushi-matcha-karaoke.html)
-- [American Malware](https://quality.ghost.io/american-malware/)
-- [LLM Arena Pareto Frontier](https://winston-bosan.github.io/llm-pareto-frontier/)
-- [Show HN: Git Probe, Your Daily GitHub Change Monitor](https://github.com/PlusLemon/git-probe)
-- [San Francisco&#39;s budget is bigger than 17 U.S. states](https://growsf.org/research/2025-04-28-sf-city-budget/)
-- [Vector Search over PostgreSQL: Analysis of Different Solutions](https://blog.vectorchord.ai/vector-search-over-postgresql-a-comparative-analysis-of-memory-and-disk-solutions)
-- [David Thomas, Who Led the &#39;Avant-Garage&#39; Band Pere Ubu, Dies at 71](https://www.nytimes.com/2025/04/26/arts/music/david-thomas-dead.html)
-- [Announcing the new directors of OSI board](https://opensource.org/blog/announcing-the-new-directors-of-osi-board)
+- [DolphinDB IT Support Engineer](https://news.ycombinator.com/item?id=43840812)
+- [Payment processors shouldn&#39;t be able to charge through an expired card](https://news.ycombinator.com/item?id=43840806)
+- [Google Chrome 136 automatically upgrades your accounts to use passkeys](https://lapcatsoftware.com/articles/2025/4/9.html)
+- [Fun: Jacob Collier Improvises the National Symphony](https://kottke.org/25/04/0046733-this-is-fun-jacob-collier#comment-section)
+- [What It Takes to Defend a Cybersecurity Company from Today&#39;s Adversaries](https://www.sentinelone.com/labs/top-tier-target-what-it-takes-to-defend-a-cybersecurity-company-from-todays-adversaries/)
+- [GPT-4o Is a Sycophant](https://twitter.com/TheZvi/status/1916931205611638973)
+- [Threads is officially graduating to become its own platform](https://twitter.com/wongmjane/status/1917408304151814170)
+- [Ups to cut 20k jobs as it reduces amount of Amazon shipments it handles](https://apnews.com/article/ups-amazon-ece105621fe23b2d0de76a2247df6b8b)
+- [Cybersecurity vendors are themselves under attack by hackers, SentinelOne says](https://cyberscoop.com/cybersecurity-vendors-are-under-attack-sentinelone-says/)
+- [The Future of Gadgets: Fewer Updates, More Subscriptions, Bigger Price Tags](https://www.wsj.com/tech/personal-tech/electronics-tariffs-china-price-shortages-53b3abb9)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

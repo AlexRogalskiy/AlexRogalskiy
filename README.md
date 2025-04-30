@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Show HN: Rad Type - Can we make gamepad typing fast?](https://www.tyleo.com/projects/rad-type)
-- [Why did Windows 7 log on slower for months if you had a solid color background?](https://devblogs.microsoft.com/oldnewthing/20250428-00/?p=111121)
-- [The 12-bit rainbow palette](https://iamkate.com/data/12-bit-rainbow/)
-- [What the heck is AEAD again?](https://ochagavia.nl/blog/what-the-heck-is-aead-again/)
-- [The One-Person Framework in Practice](https://link.mail.beehiiv.com/ss/c/u001.5SRwDQ9qxPQW8vmD5Do73b3R4eTCi2vXqPyztEk6wMFC9_fqEAcDVx6xEJ96T4BSMXrPS7z5exEBSTF4pF48z8SqJkJnkAwMUW9LtYdd8lWmvkDinT92nsk5HmXOHdWgLsysm9FMGrqmu7dnG57cXpga8ZOe8X0IV8pyeC3AswdRMaitfT307y7naP-_6W5CiolKhXCKrEndMGCW2PftFUu9ieYOxpVJ_fhu82gAh-4/4g1/wA_MG-I5SVCyR3KY66oEaQ/h30/h001.kLDFZMgisudi21zmTPbd_O8U7X98d4UxYqZjQTb_D7o)
-- [Hunting for dark nights and wishing on stars](https://www.hcn.org/articles/hunting-for-dark-nights-and-wishing-on-stars/)
-- [Legal art forgery, for the sake of movies &lpar;2014&rpar;](https://www.vanityfair.com/hollywood/2014/04/art-in-movies)
-- [Forensic Fandom](https://exiledfan.substack.com/p/introducing-forensic-fandom)
-- [Packed Data Support in Haskell](https://arthi-chaud.github.io/posts/packed/)
-- [Requirements change until they don&#39;t](https://buttondown.com/hillelwayne/archive/requirements-change-until-they-dont/)
+- [All the Women I Met in Jail](https://www.harpersbazaar.com/culture/features/a64577728/domestic-violence-law/)
+- [Waymo and Toyota outline partnership to advance autonomous driving deployment](https://waymo.com/blog/2025/04/waymo-and-toyota-outline-strategic-partnership)
+- [Path Isn&#39;t Real on Linux](https://blog.danielh.cc/blog/path)
+- [Modern Realty &lpar;YC S24&rpar; Is Hiring](https://www.workatastartup.com/jobs/66546)
+- [Only Teslas exempt from new auto tariffs thanks to 85% domestic content rule](https://fuelarc.com/cars/only-tesla-exempt-from-new-auto-tariffs-thanks-to-85-domestic-content-rule/)
+- [Show HN: Beatsync – perfect audio sync across multiple devices](https://github.com/freeman-jiang/beatsync)
+- [Bamba: An open-source LLM that crosses a transformer with an SSM](https://research.ibm.com/blog/bamba-ssm-transformer-model)
+- [Chain of Recursive Thoughts: Make AI think harder by making it argue with itself](https://github.com/PhialsBasement/Chain-of-Recursive-Thoughts)
+- [Everything we announced at our first LlamaCon](https://ai.meta.com/blog/llamacon-llama-news/?_fb_noscript=1)
+- [O3 beats a master-level GeoGuessr player, even with fake EXIF data](https://sampatt.com/blog/2025-04-28-can-o3-beat-a-geoguessr-master)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

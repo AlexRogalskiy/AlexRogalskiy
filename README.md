@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Trump news at a glance: children targeted in immigration crackdown](https://www.theguardian.com/us-news/2025/apr/29/trump-administration-news-updates-today)
-- [Labour v Reform UK: on the road in Runcorn – podcast](https://www.theguardian.com/news/audio/2025/apr/29/labour-v-reform-uk-on-the-road-in-runcorn-podcast)
-- [Four children killed after car crashes through Illinois building, say police](https://www.theguardian.com/us-news/2025/apr/28/children-illinois-car-crash)
-- [Ukraine war briefing: Zelenskyy calls Putin’s offer of brief ceasefire ‘manipulation’](https://www.theguardian.com/world/2025/apr/29/ukraine-war-briefing-zelenskyy-calls-putins-offer-of-brief-ceasefire-manipulation)
-- [Four pro-democracy lawmakers from ‘Hong Kong 47’ group freed after four years in jail](https://www.theguardian.com/world/2025/apr/29/hong-kong-47-four-pro-democracy-lawmakers-released-from-jail)
-- [Peace Corps to undergo ‘significant’ cuts after Doge review](https://www.theguardian.com/us-news/2025/apr/28/peace-corps-doge-elon-musk)
-- [When is the 2025 Australia election date? Everything you need to know about early voting, how to apply for a postal vote, what to do if you are overseas and more](https://www.theguardian.com/australia-news/2025/apr/29/australian-election-2025-voters-guide-how-to-vote-when-who-everything-you-need-to-know-australia-federal-poll-day)
-- [Canada election 2025: latest results as Mark Carney seeks to stay on as PM](https://www.theguardian.com/world/ng-interactive/2025/apr/29/canada-election-2025-latest-results-as-mark-carney-seeks-to-stay-on-as-pm)
-- [Trump’s first 100 days supercharged a global ‘freefall of rights’, says Amnesty](https://www.theguardian.com/global-development/2025/apr/29/trump-first-100-days-rollback-human-rights-amnesty-report-repression-climate-corporate-power-women-migrants-lgbtq)
-- [Power begins to return to Spain and Portugal after unprecedented blackout](https://www.theguardian.com/world/2025/apr/28/power-begins-to-return-to-iberian-peninsula-after-unprecedented-blackout)
+- [Erin Patterson to claim mushroom poisonings accidental as murder trial begins](https://www.theguardian.com/australia-news/2025/apr/30/erin-patterson-mushroom-poisonings-murder-trial-ntwnfb)
+- [Cocaine, corruption and bribes: the German port under siege by Europe’s criminal drug gangs](https://www.theguardian.com/world/2025/apr/30/cocaine-corruption-bribes-german-port-under-siege-europe-criminal-drug-gangs-hamburg)
+- [Mehdi Hasan on Trump’s first 100 days – podcast](https://www.theguardian.com/news/audio/2025/apr/30/mehdi-hasan-trump-first-100-days-podcast)
+- [Ukraine war briefing: UN slashes humanitarian aid after ‘sharp’ fall in funding](https://www.theguardian.com/world/2025/apr/30/ukraine-war-briefing-un-slashes-humanitarian-aid-after-sharp-fall-in-funding)
+- [Spruiking, fake tradies and corflute stoushes: how to understand the Australian election](https://www.theguardian.com/australia-news/2025/apr/30/spruiking-fake-tradies-and-corflute-stoushes-how-to-understand-the-australian-election)
+- [UK Ikea boss backs calls to pedestrianise Oxford Street as flagship store opens](https://www.theguardian.com/business/2025/apr/30/ikea-boss-backs-calls-to-pedestrianise-oxford-street-as-flagship-store-opens-london)
+- [The grass is not always greener on US stock markets](https://www.theguardian.com/business/nils-pratley-on-finance/2025/apr/30/the-grass-is-not-always-greener-on-us-stock-markets)
+- [Labour not protecting people, economy and homes from climate crisis, watchdog says](https://www.theguardian.com/environment/2025/apr/30/labour-not-protecting-people-economy-and-homes-from-climate-crisis-watchdog-says)
+- [Labour’s pledge to hire 6,500 extra teachers in England will be a ‘challenge’, report says](https://www.theguardian.com/education/2025/apr/30/labours-pledge-to-hire-6500-extra-teachers-in-england-will-be-a-challenge-report-says)
+- [GMC approves 36 courses to teach more than 1,000 NHS physician associates](https://www.theguardian.com/education/2025/apr/30/gmc-approves-36-courses-to-teach-more-than-1000-nhs-physician-associates)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

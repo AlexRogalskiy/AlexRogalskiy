@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Erin Patterson to claim mushroom poisonings accidental as murder trial begins](https://www.theguardian.com/australia-news/2025/apr/30/erin-patterson-mushroom-poisonings-murder-trial-ntwnfb)
-- [Cocaine, corruption and bribes: the German port under siege by Europe’s criminal drug gangs](https://www.theguardian.com/world/2025/apr/30/cocaine-corruption-bribes-german-port-under-siege-europe-criminal-drug-gangs-hamburg)
-- [Mehdi Hasan on Trump’s first 100 days – podcast](https://www.theguardian.com/news/audio/2025/apr/30/mehdi-hasan-trump-first-100-days-podcast)
-- [Ukraine war briefing: UN slashes humanitarian aid after ‘sharp’ fall in funding](https://www.theguardian.com/world/2025/apr/30/ukraine-war-briefing-un-slashes-humanitarian-aid-after-sharp-fall-in-funding)
-- [Spruiking, fake tradies and corflute stoushes: how to understand the Australian election](https://www.theguardian.com/australia-news/2025/apr/30/spruiking-fake-tradies-and-corflute-stoushes-how-to-understand-the-australian-election)
-- [UK Ikea boss backs calls to pedestrianise Oxford Street as flagship store opens](https://www.theguardian.com/business/2025/apr/30/ikea-boss-backs-calls-to-pedestrianise-oxford-street-as-flagship-store-opens-london)
-- [The grass is not always greener on US stock markets](https://www.theguardian.com/business/nils-pratley-on-finance/2025/apr/30/the-grass-is-not-always-greener-on-us-stock-markets)
-- [Labour not protecting people, economy and homes from climate crisis, watchdog says](https://www.theguardian.com/environment/2025/apr/30/labour-not-protecting-people-economy-and-homes-from-climate-crisis-watchdog-says)
-- [Labour’s pledge to hire 6,500 extra teachers in England will be a ‘challenge’, report says](https://www.theguardian.com/education/2025/apr/30/labours-pledge-to-hire-6500-extra-teachers-in-england-will-be-a-challenge-report-says)
-- [GMC approves 36 courses to teach more than 1,000 NHS physician associates](https://www.theguardian.com/education/2025/apr/30/gmc-approves-36-courses-to-teach-more-than-1000-nhs-physician-associates)
+- [Erin Patterson trial live updates: mushroom cook’s murder trial continues in Victoria’s supreme court](https://www.theguardian.com/australia-news/live/2025/may/01/erin-patterson-trial-live-updates-day-three-leongatha-mushroom-australia-woman-supreme-court-ntwnfb)
+- [Israel facing ‘national emergency’ as it battles worst fires in a decade, says Netanyahu](https://www.theguardian.com/world/2025/may/01/israel-fires-wildfires-jerusalem)
+- [The attack on Zamzam refugee camp and what it means for the Sudan war - podcast](https://www.theguardian.com/news/audio/2025/may/01/the-attack-on-zamzam-refugee-camp-and-what-it-means-for-the-sudan-war-podcast)
+- [Apple referred to federal prosecutors after judge rules it violated court order](https://www.theguardian.com/technology/2025/apr/30/apple-fortnite-court-order-violation)
+- [Kamala Harris to step back into spotlight to give sharp critique of Trump](https://www.theguardian.com/us-news/2025/apr/30/kamala-harris-speech-trump)
+- [Martin Scorsese announces film that will feature Pope Francis’s ‘final interview’](https://www.theguardian.com/film/2025/may/01/aldeas-martin-scorsese-documentary-pope-francis-final-interview)
+- [Trump campaign chief claims he visited Australia to advise Liberals at start of election campaign](https://www.theguardian.com/australia-news/2025/may/01/trump-campaign-chief-lacivita-liberal-party-australia-ntwnfb-election-claims)
+- [US and Ukraine sign minerals deal that solidifies investment in Kyiv’s defense against Russia](https://www.theguardian.com/us-news/2025/apr/30/us-ukraine-minerals-deal-russia)
+- [Schools in England and Wales urged to teach relationship violence prevention](https://www.theguardian.com/education/2025/may/01/schools-in-england-and-wales-urged-to-teach-relationship-violence-prevention)
+- [One in four patients in England find errors in medical records, watchdog says](https://www.theguardian.com/society/2025/may/01/one-in-four-patients-in-england-find-errors-in-medical-records-watchdog-says)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

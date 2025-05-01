@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [DolphinDB IT Support Engineer](https://news.ycombinator.com/item?id=43840812)
-- [Payment processors shouldn&#39;t be able to charge through an expired card](https://news.ycombinator.com/item?id=43840806)
-- [Google Chrome 136 automatically upgrades your accounts to use passkeys](https://lapcatsoftware.com/articles/2025/4/9.html)
-- [Fun: Jacob Collier Improvises the National Symphony](https://kottke.org/25/04/0046733-this-is-fun-jacob-collier#comment-section)
-- [What It Takes to Defend a Cybersecurity Company from Today&#39;s Adversaries](https://www.sentinelone.com/labs/top-tier-target-what-it-takes-to-defend-a-cybersecurity-company-from-todays-adversaries/)
-- [GPT-4o Is a Sycophant](https://twitter.com/TheZvi/status/1916931205611638973)
-- [Threads is officially graduating to become its own platform](https://twitter.com/wongmjane/status/1917408304151814170)
-- [Ups to cut 20k jobs as it reduces amount of Amazon shipments it handles](https://apnews.com/article/ups-amazon-ece105621fe23b2d0de76a2247df6b8b)
-- [Cybersecurity vendors are themselves under attack by hackers, SentinelOne says](https://cyberscoop.com/cybersecurity-vendors-are-under-attack-sentinelone-says/)
-- [The Future of Gadgets: Fewer Updates, More Subscriptions, Bigger Price Tags](https://www.wsj.com/tech/personal-tech/electronics-tariffs-china-price-shortages-53b3abb9)
+- [Milwaukee police trade: 2.5M mugshots for free facial recognition access](https://www.jsonline.com/story/news/crime/2025/04/25/milwaukee-police-considering-trading-mugshots-for-facial-recognition-tech/83084223007/)
+- [I earned $100 from my app in 1 week after a year of failure](https://www.indiehackers.com/post/i-earned-100-from-my-app-in-1-week-after-a-year-of-failure-006ef8a5f8)
+- [Show HN: Varu AI – Interactively generate novel-length AI drafts](https://www.varu.us/)
+- [The Fantasy of a Nonprofit Dating App](https://www.theatlantic.com/family/archive/2025/02/nonprofit-dating-app/681720/)
+- [Turn Your GitHub or Gitlab Repo into an AI Wiki with DeepWiki-Open &lpar;Open Source&rpar;](https://github.com/AsyncFuncAI/deepwiki-open)
+- [Show HN: Minimal News eye relaxed Hacker News front end](https://minimal-news-seven.vercel.app/top/1)
+- [Wyze pays $255k of tariffs on $167k of floodlights](https://twitter.com/WyzeCam/status/1917662183036706849)
+- [Ask HN: What do you think about companies requiring AI use for code interviews?](https://news.ycombinator.com/item?id=43853182)
+- [Sam Altman&#39;s Eye-Scanning Orb Is Now Coming to the US](https://www.wired.com/story/sam-altman-orb-eyeball-scan-launch-us/)
+- [When a comet hits a tidally locked exo-Earth](https://phys.org/news/2025-04-comet-tidally-exo-earth.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

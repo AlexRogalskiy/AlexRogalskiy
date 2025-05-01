@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [All the Women I Met in Jail](https://www.harpersbazaar.com/culture/features/a64577728/domestic-violence-law/)
-- [Waymo and Toyota outline partnership to advance autonomous driving deployment](https://waymo.com/blog/2025/04/waymo-and-toyota-outline-strategic-partnership)
-- [Path Isn&#39;t Real on Linux](https://blog.danielh.cc/blog/path)
-- [Modern Realty &lpar;YC S24&rpar; Is Hiring](https://www.workatastartup.com/jobs/66546)
-- [Only Teslas exempt from new auto tariffs thanks to 85% domestic content rule](https://fuelarc.com/cars/only-tesla-exempt-from-new-auto-tariffs-thanks-to-85-domestic-content-rule/)
-- [Show HN: Beatsync – perfect audio sync across multiple devices](https://github.com/freeman-jiang/beatsync)
-- [Bamba: An open-source LLM that crosses a transformer with an SSM](https://research.ibm.com/blog/bamba-ssm-transformer-model)
-- [Chain of Recursive Thoughts: Make AI think harder by making it argue with itself](https://github.com/PhialsBasement/Chain-of-Recursive-Thoughts)
-- [Everything we announced at our first LlamaCon](https://ai.meta.com/blog/llamacon-llama-news/?_fb_noscript=1)
-- [O3 beats a master-level GeoGuessr player, even with fake EXIF data](https://sampatt.com/blog/2025-04-28-can-o3-beat-a-geoguessr-master)
+- [Company built its own rail terminal in NYC to avoid relying on trucks](https://www.fastcompany.com/91324241/this-company-built-an-entire-rail-terminal-in-queens-to-avoid-relying-on-trucks)
+- [Show HN: Convert Large CSV/XLSX to JSON or XML in Browser](https://csvforge.com)
+- [Phi-4 Reasoning Models](https://azure.microsoft.com/en-us/blog/one-year-of-phi-small-language-models-making-big-leaps-in-ai/)
+- [GroMo &lpar;YC W21&rpar; Is Hiring](https://www.ycombinator.com/companies/gromo/jobs/aP4JS9K-product-tech-business-ai-enthusiasts)
+- [Stockhausen: Sounds in Space](https://stockhausenspace.blogspot.com/)
+- [108B Pixel Scan of Johannes Vermeer&#39;s Girl with a Pearl Earring](https://www.hirox-europe.com/gigapixel/girl-with-a-pearl-earring/)
+- [Julia Parsons, U.S. Navy Code Breaker During World War II, Dies at 104](https://www.nytimes.com/2025/04/30/world/julia-parsons-dead.html)
+- [Apple Violated Antitrust Ruling, Judge Finds](https://www.wsj.com/tech/apple-violated-antitrust-ruling-federal-judge-finds-66b85957)
+- [Pwning the Ladybird Browser](https://jessie.cafe/posts/pwning-ladybirds-libjs/)
+- [Windows RDP lets you log-in using revoked passwords. Microsoft is ok with that](https://arstechnica.com/security/2025/04/windows-rdp-lets-you-log-in-using-revoked-passwords-microsoft-is-ok-with-that/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

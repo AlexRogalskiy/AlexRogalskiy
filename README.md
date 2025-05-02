@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Milwaukee police trade: 2.5M mugshots for free facial recognition access](https://www.jsonline.com/story/news/crime/2025/04/25/milwaukee-police-considering-trading-mugshots-for-facial-recognition-tech/83084223007/)
-- [I earned $100 from my app in 1 week after a year of failure](https://www.indiehackers.com/post/i-earned-100-from-my-app-in-1-week-after-a-year-of-failure-006ef8a5f8)
-- [Show HN: Varu AI – Interactively generate novel-length AI drafts](https://www.varu.us/)
-- [The Fantasy of a Nonprofit Dating App](https://www.theatlantic.com/family/archive/2025/02/nonprofit-dating-app/681720/)
-- [Turn Your GitHub or Gitlab Repo into an AI Wiki with DeepWiki-Open &lpar;Open Source&rpar;](https://github.com/AsyncFuncAI/deepwiki-open)
-- [Show HN: Minimal News eye relaxed Hacker News front end](https://minimal-news-seven.vercel.app/top/1)
-- [Wyze pays $255k of tariffs on $167k of floodlights](https://twitter.com/WyzeCam/status/1917662183036706849)
-- [Ask HN: What do you think about companies requiring AI use for code interviews?](https://news.ycombinator.com/item?id=43853182)
-- [Sam Altman&#39;s Eye-Scanning Orb Is Now Coming to the US](https://www.wired.com/story/sam-altman-orb-eyeball-scan-launch-us/)
-- [When a comet hits a tidally locked exo-Earth](https://phys.org/news/2025-04-comet-tidally-exo-earth.html)
+- [Cheatsheet++ – Version 2 of our dev interview-prep questions &lpar;feedback welcome&rpar;](https://www.cheatsheet-plus-plus.com/)
+- [Show HN: Lumail – Autonomous AI Agent for Gmail Inbox](https://lumail.ai)
+- [NASA&#39;s SPHEREx Space Telescope Begins Capturing Entire Sky](https://www.nasa.gov/missions/spherex/nasas-spherex-space-telescope-begins-capturing-entire-sky/)
+- [Quebec refuses to reinvest in Lion Electric &lpar;busses&rpar;; US factory auction](https://www.thecanadianpressnews.ca/politics/quebec-raises-doubts-about-electrification-as-it-refuses-to-reinvest-in-lion-electric/article_db74eea8-2ec8-5d06-b965-7ea97dd99751.html)
+- [Machine Learning in Production: From Models to Products &lpar;Free Textbook&rpar;](https://mlip-cmu.github.io/book/)
+- [Apple updates App Store Guidelines to allow links to external payments](https://9to5mac.com/2025/05/01/apple-app-store-guidelines-external-links/)
+- [USPS law enforcement assists &#39;mass deportation&#39; effort, sources and records show](https://www.washingtonpost.com/business/2025/04/29/usps-immigration-trump-deportations/)
+- [Show HN: Trade and Gov. Agency Stuff](https://github.com/HardisonCo/.github/blob/main/MONEYBALL_BUFFETT_DEFICIT_APPROACH.md)
+- [Concrete Sandwich Wall Panels: Materials, Design, and Construction Methods](https://www.mdpi.com/2071-1050/17/8/3704)
+- [VPNSecure deactivated all lifetime subscribers](https://news.ycombinator.com/item?id=43865593)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Erin Patterson trial live updates: mushroom cook’s murder trial continues in Victoria’s supreme court](https://www.theguardian.com/australia-news/live/2025/may/01/erin-patterson-trial-live-updates-day-three-leongatha-mushroom-australia-woman-supreme-court-ntwnfb)
-- [Israel facing ‘national emergency’ as it battles worst fires in a decade, says Netanyahu](https://www.theguardian.com/world/2025/may/01/israel-fires-wildfires-jerusalem)
-- [The attack on Zamzam refugee camp and what it means for the Sudan war - podcast](https://www.theguardian.com/news/audio/2025/may/01/the-attack-on-zamzam-refugee-camp-and-what-it-means-for-the-sudan-war-podcast)
-- [Apple referred to federal prosecutors after judge rules it violated court order](https://www.theguardian.com/technology/2025/apr/30/apple-fortnite-court-order-violation)
-- [Kamala Harris to step back into spotlight to give sharp critique of Trump](https://www.theguardian.com/us-news/2025/apr/30/kamala-harris-speech-trump)
-- [Martin Scorsese announces film that will feature Pope Francis’s ‘final interview’](https://www.theguardian.com/film/2025/may/01/aldeas-martin-scorsese-documentary-pope-francis-final-interview)
-- [Trump campaign chief claims he visited Australia to advise Liberals at start of election campaign](https://www.theguardian.com/australia-news/2025/may/01/trump-campaign-chief-lacivita-liberal-party-australia-ntwnfb-election-claims)
-- [US and Ukraine sign minerals deal that solidifies investment in Kyiv’s defense against Russia](https://www.theguardian.com/us-news/2025/apr/30/us-ukraine-minerals-deal-russia)
-- [Schools in England and Wales urged to teach relationship violence prevention](https://www.theguardian.com/education/2025/may/01/schools-in-england-and-wales-urged-to-teach-relationship-violence-prevention)
-- [One in four patients in England find errors in medical records, watchdog says](https://www.theguardian.com/society/2025/may/01/one-in-four-patients-in-england-find-errors-in-medical-records-watchdog-says)
+- [English local elections: Labour hold North Tyneside mayoralty; votes counted in Runcorn byelection and council races – UK politics live](https://www.theguardian.com/politics/live/2025/may/02/local-elections-polls-labour-tories-reform-council-mayor-uk-politics-live-news)
+- [Erin Patterson trial live updates: mushroom cook had ‘tension’ with inlaws and struggled with mental illness, estranged husband says](https://www.theguardian.com/australia-news/live/2025/may/02/erin-patterson-mushroom-murder-trial-australia-woman-live-updates-day-four-ntwnfb)
+- [How Kneecap became most controversial band in the UK – podcast](https://www.theguardian.com/news/audio/2025/may/02/how-kneecap-became-most-controversial-band-in-the-uk-podcast)
+- [Local elections 2025: full mayoral and council results for England](https://www.theguardian.com/politics/ng-interactive/2025/may/01/local-elections-2025-full-mayoral-and-council-results-for-england)
+- [‘My heart’s pounding’: Australians wade into ocean to save great white shark stranded in shallow water](https://www.theguardian.com/australia-news/2025/may/02/my-hearts-pounding-australians-wade-into-ocean-to-save-great-white-shark-stranded-in-shallow-water)
+- [Littler gets better of Van Gerwen to win record fifth Premier League night](https://www.theguardian.com/sport/2025/may/02/littler-gets-better-of-van-gerwen-to-win-record-fifth-premier-league-night)
+- [Soviet-era spacecraft expected to plunge uncontrolled to Earth next week](https://www.theguardian.com/science/2025/may/02/soviet-era-spacecraft-kosmos-482-uncontrolled-return-earth-next-week)
+- [Stark social divides in infectious disease admission rates in England, study finds](https://www.theguardian.com/society/2025/may/02/infectious-disease-hospital-admission-rates-inequalities-england-nhs-ukhsa-study)
+- [Holy Krapp! Gary Oldman and Stephen Rea unspool Beckett’s masterpiece about memory](https://www.theguardian.com/stage/2025/may/02/holy-krapp-gary-oldman-and-stephen-rea-unspool-becketts-masterpiece-about-memory)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2025/may/02/premier-league-10-things-to-look-out-for-this-weekend)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Quebec refuses to reinvest in Lion Electric &lpar;busses&rpar;; US factory auction](https://www.thecanadianpressnews.ca/politics/quebec-raises-doubts-about-electrification-as-it-refuses-to-reinvest-in-lion-electric/article_db74eea8-2ec8-5d06-b965-7ea97dd99751.html)
-- [Chrome Origin Trial: Device Bound Session Credentials](https://developer.chrome.com/blog/dbsc-origin-trial)
-- [Show HN: CapOS – A responsibility-gated OS stack with signed process execution](https://zenodo.org/communities/xtothepowerofinfinity/records)
-- [The Anti-Capitalist Case for Standards](https://thereader.mitpress.mit.edu/the-anti-capitalist-case-for-standards/)
-- [Third Party Cookies Must Be Removed](https://w3ctag.github.io/web-without-3p-cookies/)
-- [Mike Waltz Accidentally Reveals App Govt Uses to Archive Signal Messages](https://www.404media.co/mike-waltz-accidentally-reveals-obscure-app-the-government-is-using-to-archive-signal-messages/)
-- [Felix86: Run x86-64 programs on RISC-V Linux](https://felix86.com/)
-- [The Day Anubis Saved Our Websites from a DDoS Attack](https://fabulous.systems/posts/2025/05/anubis-saved-our-websites-from-a-ddos-attack/)
-- [Show HN: Kubetail – Real-time log search for Kubernetes](https://github.com/kubetail-org/kubetail)
-- [Oxide’s compensation model: how is it going?](https://oxide.computer/blog/oxides-compensation-model-how-is-it-going)
+- [ePub-utils: A Python library and CLI tool for inspecting ePub from the terminal](https://github.com/ernestofgonzalez/epub-utils)
+- [GitDroid: A third party Android app manager for apps uploaded to GitHub releases](https://github.com/TechnicJelle/GitDroid)
+- [OneText &lpar;YC W23&rpar; Is Hiring a DevOps/DBA Lead Engineer](https://news.ycombinator.com/item?id=43874534)
+- [VR Design Unpacked: The secret to Beat Saber&#39;s fun](https://www.roadtovr.com/beat-saber-instructed-motion-until-you-fall-inside-xr-design/)
+- [Old Soviet Venus descent craft nearing Earth reentry](https://www.leonarddavid.com/old-soviet-venus-descent-craft-nearing-earth-reentry/)
+- [Show HN: I built a synthesizer based on 3D physics](https://anukari.com)
+- [Driverless semis have started running regular longhaul routes](https://www.cnn.com/2025/05/01/business/first-driverless-semis-started-regular-routes)
+- [Show HN: Blast – Fast, multi-threaded serving engine for web browsing AI agents](https://github.com/stanford-mast/blast)
+- [The History of Album Art](https://matthewstrom.com/writing/album-art/)
+- [Building Burstables: CPU slicing with cgroups](https://www.ubicloud.com/blog/building-burstables-cpu-slicing-with-cgroups)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

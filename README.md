@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Cheatsheet++ – Version 2 of our dev interview-prep questions &lpar;feedback welcome&rpar;](https://www.cheatsheet-plus-plus.com/)
-- [Show HN: Lumail – Autonomous AI Agent for Gmail Inbox](https://lumail.ai)
-- [NASA&#39;s SPHEREx Space Telescope Begins Capturing Entire Sky](https://www.nasa.gov/missions/spherex/nasas-spherex-space-telescope-begins-capturing-entire-sky/)
-- [Quebec refuses to reinvest in Lion Electric &lpar;busses&rpar;; US factory auction](https://www.thecanadianpressnews.ca/politics/quebec-raises-doubts-about-electrification-as-it-refuses-to-reinvest-in-lion-electric/article_db74eea8-2ec8-5d06-b965-7ea97dd99751.html)
-- [Machine Learning in Production: From Models to Products &lpar;Free Textbook&rpar;](https://mlip-cmu.github.io/book/)
-- [Apple updates App Store Guidelines to allow links to external payments](https://9to5mac.com/2025/05/01/apple-app-store-guidelines-external-links/)
-- [USPS law enforcement assists &#39;mass deportation&#39; effort, sources and records show](https://www.washingtonpost.com/business/2025/04/29/usps-immigration-trump-deportations/)
-- [Show HN: Trade and Gov. Agency Stuff](https://github.com/HardisonCo/.github/blob/main/MONEYBALL_BUFFETT_DEFICIT_APPROACH.md)
-- [Concrete Sandwich Wall Panels: Materials, Design, and Construction Methods](https://www.mdpi.com/2071-1050/17/8/3704)
-- [VPNSecure deactivated all lifetime subscribers](https://news.ycombinator.com/item?id=43865593)
+- [Trump Asks Supreme Court to Let Doge View Social Security Data](https://www.nytimes.com/2025/05/02/us/supreme-court-doge-social-security.html)
+- [Russian disinformation network flooded training data to manipulate frontier LLMs](https://meduza.io/en/feature/2025/03/07/russian-disinformation-network-flooded-training-data-to-manipulate-western-ai-chatbots-study-finds)
+- [Creating Bluey: Tales from the Art Director](https://substack.com/home/post/p-160238071)
+- [Ask HN: Anyone have tried to migrate from CUDA?](https://news.ycombinator.com/item?id=43876377)
+- [Two Airliners abort landing as Army helicopter makes scenic loop around Pentagon](https://www.washingtonpost.com/transportation/2025/05/02/national-dca-airliners-helicopter-danger/)
+- [Mux Video introduce free plan](https://www.mux.com/blog/free-plan)
+- [Cross-Platform Software Development – Yes, Bytes Can Be 9 Bits](https://old.reddit.com/r/aethernet/comments/1kd79g7/crossplatform_software_development_part_1_yes/)
+- [DHS Traveler Redress Inquiry Program](https://www.tsa.gov/travel/security-screening/travel-redress-program)
+- [I Teach Computer Science, and That Is All](https://www.nytimes.com/2025/05/02/opinion/work-school-classroom-politics-harvard.html)
+- [But what is quantum computing? &lpar;Grover&#39;s Algorithm&rpar; [video]](https://www.youtube.com/watch?v=RQWpF2Gb-gU)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

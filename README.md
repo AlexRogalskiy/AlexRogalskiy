@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [English local elections: Labour hold North Tyneside mayoralty; votes counted in Runcorn byelection and council races – UK politics live](https://www.theguardian.com/politics/live/2025/may/02/local-elections-polls-labour-tories-reform-council-mayor-uk-politics-live-news)
-- [Erin Patterson trial live updates: mushroom cook had ‘tension’ with inlaws and struggled with mental illness, estranged husband says](https://www.theguardian.com/australia-news/live/2025/may/02/erin-patterson-mushroom-murder-trial-australia-woman-live-updates-day-four-ntwnfb)
-- [How Kneecap became most controversial band in the UK – podcast](https://www.theguardian.com/news/audio/2025/may/02/how-kneecap-became-most-controversial-band-in-the-uk-podcast)
-- [Local elections 2025: full mayoral and council results for England](https://www.theguardian.com/politics/ng-interactive/2025/may/01/local-elections-2025-full-mayoral-and-council-results-for-england)
-- [‘My heart’s pounding’: Australians wade into ocean to save great white shark stranded in shallow water](https://www.theguardian.com/australia-news/2025/may/02/my-hearts-pounding-australians-wade-into-ocean-to-save-great-white-shark-stranded-in-shallow-water)
-- [Littler gets better of Van Gerwen to win record fifth Premier League night](https://www.theguardian.com/sport/2025/may/02/littler-gets-better-of-van-gerwen-to-win-record-fifth-premier-league-night)
-- [Soviet-era spacecraft expected to plunge uncontrolled to Earth next week](https://www.theguardian.com/science/2025/may/02/soviet-era-spacecraft-kosmos-482-uncontrolled-return-earth-next-week)
-- [Stark social divides in infectious disease admission rates in England, study finds](https://www.theguardian.com/society/2025/may/02/infectious-disease-hospital-admission-rates-inequalities-england-nhs-ukhsa-study)
-- [Holy Krapp! Gary Oldman and Stephen Rea unspool Beckett’s masterpiece about memory](https://www.theguardian.com/stage/2025/may/02/holy-krapp-gary-oldman-and-stephen-rea-unspool-becketts-masterpiece-about-memory)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2025/may/02/premier-league-10-things-to-look-out-for-this-weekend)
+- [Federal election 2025 live: Australia polls open, voting begins; Anthony Albanese and Peter Dutton on election day campaign for Labor and Coalition – latest news](https://www.theguardian.com/australia-news/live/2025/may/03/australian-federal-election-2025-live-news-today-anthony-albanese-labor-peter-dutton-liberal-coalition-greens-polls-vote-odds-results-politics-latest-updates)
+- [Ukraine war briefing: Russia attacks Kharkiv with drone barrage, injuring 46](https://www.theguardian.com/world/2025/may/03/ukraine-war-briefing-russia-attacks-kharkiv-with-drone-barrage-injuring-46)
+- [Are actors getting better &lpar;and ‘bett-ah’&rpar; at Australian accents?](https://www.theguardian.com/tv-and-radio/2025/may/03/are-actors-getting-better-and-bett-ah-at-australian-accents)
+- [How to avoid ‘fast furniture’ and deck out your home with goods that will last](https://www.theguardian.com/australia-news/2025/may/03/how-to-avoid-fast-furniture-and-deck-out-your-home-with-goods-that-will-last)
+- [Israel says airstrikes in Syria are ‘message’ to protect Druze minority](https://www.theguardian.com/world/2025/may/02/israel-says-airstrikes-in-syria-are-message-to-protect-druze-minority)
+- [Prince Harry says king ‘won’t speak to him’ and he would ‘love’ to be reconciled](https://www.theguardian.com/uk-news/2025/may/02/prince-harry-wants-reconciliation-royal-family)
+- [US asks judge to break up Google’s ad tech business after requesting Chrome sale](https://www.theguardian.com/us-news/2025/may/02/google-ad-tech-monopoly)
+- [Bullish Lando Norris qualifies in third place for F1 Miami sprint race](https://www.theguardian.com/sport/2025/may/02/lando-norris--f1-miami-formula-one-sprint-race)
+- [Negative Spurs narrative can change with silverware, says Postecoglou](https://www.theguardian.com/football/2025/may/02/tottenham-ange-postecoglou-club-culture-europa-league)
+- [Arne Slot hopes title triumph will help Liverpool secure transfer targets](https://www.theguardian.com/football/2025/may/02/arne-slot-liverpool-premier-league-title-football-transfers)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

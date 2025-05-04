@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Trump Asks Supreme Court to Let Doge View Social Security Data](https://www.nytimes.com/2025/05/02/us/supreme-court-doge-social-security.html)
-- [Russian disinformation network flooded training data to manipulate frontier LLMs](https://meduza.io/en/feature/2025/03/07/russian-disinformation-network-flooded-training-data-to-manipulate-western-ai-chatbots-study-finds)
-- [Creating Bluey: Tales from the Art Director](https://substack.com/home/post/p-160238071)
-- [Ask HN: Anyone have tried to migrate from CUDA?](https://news.ycombinator.com/item?id=43876377)
-- [Two Airliners abort landing as Army helicopter makes scenic loop around Pentagon](https://www.washingtonpost.com/transportation/2025/05/02/national-dca-airliners-helicopter-danger/)
-- [Mux Video introduce free plan](https://www.mux.com/blog/free-plan)
-- [Cross-Platform Software Development – Yes, Bytes Can Be 9 Bits](https://old.reddit.com/r/aethernet/comments/1kd79g7/crossplatform_software_development_part_1_yes/)
-- [DHS Traveler Redress Inquiry Program](https://www.tsa.gov/travel/security-screening/travel-redress-program)
-- [I Teach Computer Science, and That Is All](https://www.nytimes.com/2025/05/02/opinion/work-school-classroom-politics-harvard.html)
-- [But what is quantum computing? &lpar;Grover&#39;s Algorithm&rpar; [video]](https://www.youtube.com/watch?v=RQWpF2Gb-gU)
+- [Can Transformers Reason Logically? A Study in SAT Solving](https://arxiv.org/abs/2410.07432)
+- [A Survey of AI Agent Protocols](https://arxiv.org/abs/2504.16736)
+- [Ukrainian uncrewed boat destroys Russian warplane for first time in history](https://www.pravda.com.ua/eng/news/2025/05/3/7510414/)
+- [DepDrift – A CLI tool to detect dependency drift&amp;security issues in your project](https://www.npmjs.com/package/depdrift)
+- [AI Agents Are Learning How to Collaborate. Companies Need to Work with Them](https://www.wsj.com/articles/ai-agents-are-learning-how-to-collaborate-companies-need-to-work-with-them-28c7464d)
+- [Inside an architect&#39;s underground home in Mexico City](https://www.youtube.com/watch?v=y_k53QmONAY)
+- [Amazon v. Consumer Product Safety Commission &lpar;D. Maryland 2025&rpar; [pdf]](https://ia600809.us.archive.org/23/items/gov.uscourts.mdd.578256/gov.uscourts.mdd.578256.1.0.pdf)
+- [Microsoft Tells Windows Users–Do Not Use Google Chrome](https://www.forbes.com/sites/zakdoffman/2025/02/09/microsoft-tells-windows-users-do-not-use-google-chrome/)
+- [AWS Blog on Postgres Long Fork Anomaly &lpar;Response to Jepsen Report&rpar;](https://aws.amazon.com/blogs/database/understanding-transaction-visibility-in-postgresql-clusters-with-read-replicas/)
+- [ChatGPT as Economics Tutor: Capabilities and Limitations](https://EconPapers.repec.org/paper/briuobdis/25_2f786.htm)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

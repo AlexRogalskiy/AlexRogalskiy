@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [ePub-utils: A Python library and CLI tool for inspecting ePub from the terminal](https://github.com/ernestofgonzalez/epub-utils)
-- [GitDroid: A third party Android app manager for apps uploaded to GitHub releases](https://github.com/TechnicJelle/GitDroid)
-- [OneText &lpar;YC W23&rpar; Is Hiring a DevOps/DBA Lead Engineer](https://news.ycombinator.com/item?id=43874534)
-- [VR Design Unpacked: The secret to Beat Saber&#39;s fun](https://www.roadtovr.com/beat-saber-instructed-motion-until-you-fall-inside-xr-design/)
-- [Old Soviet Venus descent craft nearing Earth reentry](https://www.leonarddavid.com/old-soviet-venus-descent-craft-nearing-earth-reentry/)
-- [Show HN: I built a synthesizer based on 3D physics](https://anukari.com)
-- [Driverless semis have started running regular longhaul routes](https://www.cnn.com/2025/05/01/business/first-driverless-semis-started-regular-routes)
-- [Show HN: Blast – Fast, multi-threaded serving engine for web browsing AI agents](https://github.com/stanford-mast/blast)
-- [The History of Album Art](https://matthewstrom.com/writing/album-art/)
-- [Building Burstables: CPU slicing with cgroups](https://www.ubicloud.com/blog/building-burstables-cpu-slicing-with-cgroups)
+- [Programmers Guide to the AMIBIOS &lpar;1993&rpar; [pdf]](http://bitsavers.org/pdf/americanMegatrends/Programmers_Guide_to_the_AMIBIOS_1993.pdf)
+- [What went wrong with wireless USB](http://oldvcr.blogspot.com/2025/05/what-went-wrong-with-wireless-usb.html)
+- [Pascal for Small Machines](http://pascal.hansotten.com/)
+- [A PostgreSQL planner semi-join gotcha with CTE, LIMIT, and RETURNING](https://www.shayon.dev/post/2025/119/a-postgresql-planner-gotcha-with-ctes-delete-and-limit/)
+- [Gorgeous-GRUB: collection of decent community-made GRUB themes](https://github.com/Jacksaur/Gorgeous-GRUB)
+- [FAA offering more incentives as air traffic controller shortage worsens](https://ktla.com/news/travel/faa-offering-more-incentives-as-air-traffic-controller-shortage-worsens/)
+- [Google Gemini has the worst LLM API](https://venki.dev/notes/google-gemini-is-bad)
+- [Why I Am Not Going to Buy a Computer &lpar;1987&rpar; [pdf]](https://classes.matthewjbrown.net/teaching-files/philtech/berry-computer.pdf)
+- [Numerical Linear Algebra Class in Julia TUM](https://venkovic.github.io/NLA-for-CS-and-IE.html)
+- [Helpcare AI &lpar;YC F24&rpar; Is Hiring](https://docs.google.com/forms/d/e/1FAIpQLScpzOyP_mk3muEpbKrnW8UTZB_yP5SJwjbeT8_6A6fhdvpJCg/viewform?usp=preview)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

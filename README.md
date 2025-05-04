@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Federal election 2025 live: Australia polls open, voting begins; Anthony Albanese and Peter Dutton on election day campaign for Labor and Coalition – latest news](https://www.theguardian.com/australia-news/live/2025/may/03/australian-federal-election-2025-live-news-today-anthony-albanese-labor-peter-dutton-liberal-coalition-greens-polls-vote-odds-results-politics-latest-updates)
-- [Ukraine war briefing: Russia attacks Kharkiv with drone barrage, injuring 46](https://www.theguardian.com/world/2025/may/03/ukraine-war-briefing-russia-attacks-kharkiv-with-drone-barrage-injuring-46)
-- [Are actors getting better &lpar;and ‘bett-ah’&rpar; at Australian accents?](https://www.theguardian.com/tv-and-radio/2025/may/03/are-actors-getting-better-and-bett-ah-at-australian-accents)
-- [How to avoid ‘fast furniture’ and deck out your home with goods that will last](https://www.theguardian.com/australia-news/2025/may/03/how-to-avoid-fast-furniture-and-deck-out-your-home-with-goods-that-will-last)
-- [Israel says airstrikes in Syria are ‘message’ to protect Druze minority](https://www.theguardian.com/world/2025/may/02/israel-says-airstrikes-in-syria-are-message-to-protect-druze-minority)
-- [Prince Harry says king ‘won’t speak to him’ and he would ‘love’ to be reconciled](https://www.theguardian.com/uk-news/2025/may/02/prince-harry-wants-reconciliation-royal-family)
-- [US asks judge to break up Google’s ad tech business after requesting Chrome sale](https://www.theguardian.com/us-news/2025/may/02/google-ad-tech-monopoly)
-- [Bullish Lando Norris qualifies in third place for F1 Miami sprint race](https://www.theguardian.com/sport/2025/may/02/lando-norris--f1-miami-formula-one-sprint-race)
-- [Negative Spurs narrative can change with silverware, says Postecoglou](https://www.theguardian.com/football/2025/may/02/tottenham-ange-postecoglou-club-culture-europa-league)
-- [Arne Slot hopes title triumph will help Liverpool secure transfer targets](https://www.theguardian.com/football/2025/may/02/arne-slot-liverpool-premier-league-title-football-transfers)
+- [Ukraine war briefing: Maritime drone shoots down Russian fighter jet for first time, says Kyiv](https://www.theguardian.com/world/2025/may/04/ukraine-war-briefing-maritime-drone-shoots-down-russian-fighter-jet-for-first-time-says-kyiv)
+- [UK arrests five men including four Iranians over suspected terrorist plot](https://www.theguardian.com/uk-news/2025/may/04/uk-arrests-five-men-including-four-iranians-over-suspected-terrorist-plot)
+- [NHS England aims for faster cancer treatment with new data tool](https://www.theguardian.com/society/2025/may/04/nhs-england-cancer-360-tool-faster-diagnosis-treatment-data)
+- [Erdoğan tells protesters against Islamification in northern Cyprus they will fail](https://www.theguardian.com/world/2025/may/03/erdogan-tells-protesters-against-islamification-in-northern-cyprus-they-will-fail)
+- [Daddy cool: Verstappen surges to Miami Grand Prix pole with Norris in second](https://www.theguardian.com/sport/2025/may/03/verstappen-powers-to-pole-at-miami-grand-prix-with-norris-in-second)
+- [Gateshead: 14 children arrested after boy dies in fire](https://www.theguardian.com/uk-news/2025/may/03/gateshead-14-children-arrested-after-boy-dies-in-fire)
+- [Families Like Ours review – why is this dull drama such a hit in Denmark?](https://www.theguardian.com/tv-and-radio/2025/may/03/families-like-ours-review-why-is-this-dull-drama-such-a-hit-in-denmark)
+- [Mark Williams beats Judd Trump to set up tantalising final with Zhao Xintong](https://www.theguardian.com/sport/2025/may/03/mark-williams-beats-judd-trump-tantalising-final-zhao-xintong-ronnie-o-sullivan-world-snooker-championship)
+- [‘This is your victory’: Churchill’s VE Day radio address to be broadcast by Timothy Spall](https://www.theguardian.com/world/2025/may/03/this-is-your-victory-churchills-ve-day-radio-address-to-be-broadcast-by-timothy-spall)
+- [The moment I knew: fire was lapping the trees near my house when he knocked on my door in uniform](https://www.theguardian.com/lifeandstyle/2025/may/04/the-moment-i-knew-fire-was-lapping-the-trees-near-my-house-when-he-knocked-on-my-door-in-uniform)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

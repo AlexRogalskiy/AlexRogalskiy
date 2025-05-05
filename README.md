@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Can Transformers Reason Logically? A Study in SAT Solving](https://arxiv.org/abs/2410.07432)
-- [A Survey of AI Agent Protocols](https://arxiv.org/abs/2504.16736)
-- [Ukrainian uncrewed boat destroys Russian warplane for first time in history](https://www.pravda.com.ua/eng/news/2025/05/3/7510414/)
-- [DepDrift – A CLI tool to detect dependency drift&amp;security issues in your project](https://www.npmjs.com/package/depdrift)
-- [AI Agents Are Learning How to Collaborate. Companies Need to Work with Them](https://www.wsj.com/articles/ai-agents-are-learning-how-to-collaborate-companies-need-to-work-with-them-28c7464d)
-- [Inside an architect&#39;s underground home in Mexico City](https://www.youtube.com/watch?v=y_k53QmONAY)
-- [Amazon v. Consumer Product Safety Commission &lpar;D. Maryland 2025&rpar; [pdf]](https://ia600809.us.archive.org/23/items/gov.uscourts.mdd.578256/gov.uscourts.mdd.578256.1.0.pdf)
-- [Microsoft Tells Windows Users–Do Not Use Google Chrome](https://www.forbes.com/sites/zakdoffman/2025/02/09/microsoft-tells-windows-users-do-not-use-google-chrome/)
-- [AWS Blog on Postgres Long Fork Anomaly &lpar;Response to Jepsen Report&rpar;](https://aws.amazon.com/blogs/database/understanding-transaction-visibility-in-postgresql-clusters-with-read-replicas/)
-- [ChatGPT as Economics Tutor: Capabilities and Limitations](https://EconPapers.repec.org/paper/briuobdis/25_2f786.htm)
+- [Religion Meets GPT and It&#39;s Surprisingly Beautiful](https://www.ask-sephira.com/chat)
+- [Polyfilling CSS with CSS Parser Extensions](https://www.bram.us/2025/05/04/css-parser-extensions-pitch/)
+- [Prompt Engineering](https://www.kaggle.com/whitepaper-prompt-engineering)
+- [Dark Days Started in China: Mass Strikes and Protests Sweep China – %80 Orders](https://www.youtube.com/watch?v=kXHFTg_-1aw)
+- [Cash-strapped Maldives to build $9B blockchain hub in bid to lure investors](https://www.ft.com/content/70cba9ec-caad-4958-bed9-59d43e8da6c2)
+- [Show HN: Serdev – A bundler-independent development server for Node.js](https://github.com/jsscheller/serdev)
+- [Eugenics and the promise of utopia through artificial general intelligence &lpar;2024&rpar;](https://firstmonday.org/ojs/index.php/fm/article/view/13636/11599)
+- [WCAG 3.0&#39;s Proposed Scoring Model: A Shift in Accessibility Evaluation](https://www.smashingmagazine.com/2025/05/wcag-3-proposed-scoring-model-shift-accessibility-evaluation/)
+- [TheAgentCompany: Benchmarking LLM Agents on Consequential Real World Tasks](https://arxiv.org/abs/2412.14161)
+- [Redis vs. Valkey Performance [video]](https://www.youtube.com/watch?v=9hDvWVJtljE)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

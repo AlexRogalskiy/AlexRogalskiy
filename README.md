@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine war briefing: Maritime drone shoots down Russian fighter jet for first time, says Kyiv](https://www.theguardian.com/world/2025/may/04/ukraine-war-briefing-maritime-drone-shoots-down-russian-fighter-jet-for-first-time-says-kyiv)
-- [UK arrests five men including four Iranians over suspected terrorist plot](https://www.theguardian.com/uk-news/2025/may/04/uk-arrests-five-men-including-four-iranians-over-suspected-terrorist-plot)
-- [NHS England aims for faster cancer treatment with new data tool](https://www.theguardian.com/society/2025/may/04/nhs-england-cancer-360-tool-faster-diagnosis-treatment-data)
-- [Erdoğan tells protesters against Islamification in northern Cyprus they will fail](https://www.theguardian.com/world/2025/may/03/erdogan-tells-protesters-against-islamification-in-northern-cyprus-they-will-fail)
-- [Daddy cool: Verstappen surges to Miami Grand Prix pole with Norris in second](https://www.theguardian.com/sport/2025/may/03/verstappen-powers-to-pole-at-miami-grand-prix-with-norris-in-second)
-- [Gateshead: 14 children arrested after boy dies in fire](https://www.theguardian.com/uk-news/2025/may/03/gateshead-14-children-arrested-after-boy-dies-in-fire)
-- [Families Like Ours review – why is this dull drama such a hit in Denmark?](https://www.theguardian.com/tv-and-radio/2025/may/03/families-like-ours-review-why-is-this-dull-drama-such-a-hit-in-denmark)
-- [Mark Williams beats Judd Trump to set up tantalising final with Zhao Xintong](https://www.theguardian.com/sport/2025/may/03/mark-williams-beats-judd-trump-tantalising-final-zhao-xintong-ronnie-o-sullivan-world-snooker-championship)
-- [‘This is your victory’: Churchill’s VE Day radio address to be broadcast by Timothy Spall](https://www.theguardian.com/world/2025/may/03/this-is-your-victory-churchills-ve-day-radio-address-to-be-broadcast-by-timothy-spall)
-- [The moment I knew: fire was lapping the trees near my house when he knocked on my door in uniform](https://www.theguardian.com/lifeandstyle/2025/may/04/the-moment-i-knew-fire-was-lapping-the-trees-near-my-house-when-he-knocked-on-my-door-in-uniform)
+- [Far-right Trump ally secures decisive win in first round of Romania’s presidential election rerun](https://www.theguardian.com/world/2025/may/04/ultranationalist-wins-first-round-of-romanias-rerun-presidential-election)
+- [Sabotage and secret identities: Russia’s spy network – podcast](https://www.theguardian.com/news/audio/2025/may/05/sabotage-and-secret-identities-russias-spy-network-podcast)
+- [Two arrested over bomb plot targeting Lady Gaga concert in Rio attended by millions](https://www.theguardian.com/music/2025/may/05/lady-gaga-concert-rio-bomb-plast-arrests)
+- [Ukraine war briefing: Three million shells coming from our allies, says Zelenskyy](https://www.theguardian.com/world/2025/may/05/ukraine-war-briefing-three-million-shells-coming-from-our-allies-says-zelenskyy)
+- [Trump news at a glance: President says he will not seek a third term](https://www.theguardian.com/us-news/2025/may/05/president-trump-administration-news-updates-today)
+- [Trump announces 100% tariffs on movies ‘produced in foreign lands’](https://www.theguardian.com/us-news/2025/may/04/trump-tariffs-foreign-movies)
+- [MPs warn social care needs substantial investment to fix ‘broken’ system](https://www.theguardian.com/society/2025/may/05/mps-warn-social-care-needs-substantial-investment-to-fix-broken-system)
+- [Sweden’s Great Moose Migration live stream ends after 478 hours’ viewing](https://www.theguardian.com/world/2025/may/04/swedens-great-moose-migration-live-stream-ends-after-478-hours-viewing)
+- [Oscar Piastri wins F1 Miami Grand Prix to stretch lead in title race](https://www.theguardian.com/sport/2025/may/04/oscar-piastri-wins-f1-miami-grand-prix-to-stretch-lead-in-title-race)
+- [Starmer praises ‘selfless dedication’ of armed forces before VE Day anniversary](https://www.theguardian.com/world/2025/may/04/keir-starmer-open-letter-ve-day-80th-anniversary-veterans-support)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

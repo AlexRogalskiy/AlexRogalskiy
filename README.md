@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Show HN: My AI Native Resume](https://ai.jakegaylor.com/)
-- [People are losing loved ones to AI-fueled spiritual fantasies](https://www.rollingstone.com/culture/culture-features/ai-spiritual-delusions-destroying-human-relationships-1235330175/)
-- [Matrix-vector multiplication implemented in off-the-shelf DRAM for Low-Bit LLMs](https://arxiv.org/abs/2503.23817)
-- [On Not Carrying a Camera – Cultivating memories instead of snapshots](https://hedgehogreview.com/issues/after-neoliberalism/articles/on-not-carrying-a-camera)
-- [Helmdar: 3D Scanning Brooklyn on Rollerblades](https://owentrueblood.com/blog/2025/05/04/helmdar/)
-- [Graceful Shutdown in Go: Practical Patterns](https://victoriametrics.com/blog/go-graceful-shutdown/index.html)
-- [KaiPod Learning &lpar;YC S21&rpar; Is Hiring VP of Engineering](https://www.ycombinator.com/companies/kaipod-learning/jobs/Bs3H9uB-vp-of-engineering)
-- [Ask HN: Hackathons feel fake now](https://news.ycombinator.com/item?id=43889502)
-- [I&#39;d rather read the prompt](https://claytonwramsey.com/blog/prompt/)
-- [The complicated business of electing a Doge](https://www.theballotboy.com/electing-the-doge)
+- [Google Has Most of My Email Because It Has All of Yours &lpar;2014&rpar;](https://mako.cc/copyrighteous/google-has-most-of-my-email-because-it-has-all-of-yours)
+- [Analyzing Modern Nvidia GPU Cores](https://arxiv.org/abs/2503.20481)
+- [Replacing Kubernetes with systemd &lpar;2024&rpar;](https://blog.yaakov.online/replacing-kubernetes-with-systemd/)
+- [Show HN: Real-time AI Voice Chat at ~500ms Latency](https://github.com/KoljaB/RealtimeVoiceChat)
+- [Databricks in talks to acquire startup Neon for about $1B](https://www.upstartsmedia.com/p/scoop-databricks-talks-to-acquire-neon)
+- [Possibly a Serious Possibility](https://kucharski.substack.com/p/possibly-a-serious-possibility)
+- [Evolving OpenAI&#39;s Structure](https://openai.com/index/evolving-our-structure/)
+- [Show HN: Tkintergalactic - Declarative Tcl/Tk UI Library for Python](https://github.com/leontrolski/tkintergalactic)
+- [As an experienced LLM user, I don&#39;t use generative LLMs often](https://minimaxir.com/2025/05/llm-use/)
+- [Instant &lpar;YC S22&rpar; Is Hiring a Founding TypeScript Engineer](https://www.instantdb.com/hiring/ts-hacker)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

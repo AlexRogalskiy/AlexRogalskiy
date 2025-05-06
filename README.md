@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Far-right Trump ally secures decisive win in first round of Romania’s presidential election rerun](https://www.theguardian.com/world/2025/may/04/ultranationalist-wins-first-round-of-romanias-rerun-presidential-election)
-- [Sabotage and secret identities: Russia’s spy network – podcast](https://www.theguardian.com/news/audio/2025/may/05/sabotage-and-secret-identities-russias-spy-network-podcast)
-- [Two arrested over bomb plot targeting Lady Gaga concert in Rio attended by millions](https://www.theguardian.com/music/2025/may/05/lady-gaga-concert-rio-bomb-plast-arrests)
-- [Ukraine war briefing: Three million shells coming from our allies, says Zelenskyy](https://www.theguardian.com/world/2025/may/05/ukraine-war-briefing-three-million-shells-coming-from-our-allies-says-zelenskyy)
-- [Trump news at a glance: President says he will not seek a third term](https://www.theguardian.com/us-news/2025/may/05/president-trump-administration-news-updates-today)
-- [Trump announces 100% tariffs on movies ‘produced in foreign lands’](https://www.theguardian.com/us-news/2025/may/04/trump-tariffs-foreign-movies)
-- [MPs warn social care needs substantial investment to fix ‘broken’ system](https://www.theguardian.com/society/2025/may/05/mps-warn-social-care-needs-substantial-investment-to-fix-broken-system)
-- [Sweden’s Great Moose Migration live stream ends after 478 hours’ viewing](https://www.theguardian.com/world/2025/may/04/swedens-great-moose-migration-live-stream-ends-after-478-hours-viewing)
-- [Oscar Piastri wins F1 Miami Grand Prix to stretch lead in title race](https://www.theguardian.com/sport/2025/may/04/oscar-piastri-wins-f1-miami-grand-prix-to-stretch-lead-in-title-race)
-- [Starmer praises ‘selfless dedication’ of armed forces before VE Day anniversary](https://www.theguardian.com/world/2025/may/04/keir-starmer-open-letter-ve-day-80th-anniversary-veterans-support)
+- [The Zelenskyy-Trump deal – podcast](https://www.theguardian.com/news/audio/2025/may/06/the-zelenskyy-trump-deal-podcast)
+- [Trump called for 100% tariff on foreign films a day after Jon Voight proposed ‘limited’ tariffs](https://www.theguardian.com/film/2025/may/06/trump-movie-industry-tariffs-actor-jon-voight)
+- [Met Gala 2025 red carpet: pinstripes, capes and pouring rain – in pictures](https://www.theguardian.com/fashion/gallery/2025/may/06/met-gala-2025-pinstripes-capes-and-pouring-rain-in-pictures)
+- [Ukraine war briefing: Second night of Moscow drone raids, Kursk substation hit](https://www.theguardian.com/world/2025/may/06/ukraine-war-briefing-second-night-of-moscow-drone-raids-kursk-substation-hit)
+- [Gold mining suspended in Peru’s north after 13 miners killed](https://www.theguardian.com/world/2025/may/05/perus-north-miners-killed)
+- [More than 1m older people in England waited over 12 hours in A&amp;E last year](https://www.theguardian.com/society/2025/may/06/more-than-1m-older-people-england-waited-12-hours-ae-last-year)
+- [Pharmacists face daily inappropriate demands for antibiotics, survey finds](https://www.theguardian.com/society/2025/may/06/pharmacists-face-daily-inappropriate-demands-for-antibiotics-survey-finds)
+- [Ex-French interior minister apologises to Liverpool fans for making them a ‘scapegoat’](https://www.theguardian.com/football/2025/may/05/ex-french-interior-minister-apologises-to-liverpool-fans-for-using-them-as-a-scapegoat)
+- [Trump to continue Biden&#39;s court defense of abortion drug mifepristone](https://www.theguardian.com/us-news/2025/may/05/trump-biden-defense-mifepristone-abortion-drug)
+- [Two riders dead after ‘catastrophic’ 11-bike crash in race at Oulton Park](https://www.theguardian.com/sport/2025/may/05/two-riders-dead-after-catastrophic-11-bike-crash-in-race-at-oulton-park)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

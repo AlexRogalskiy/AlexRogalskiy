@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Religion Meets GPT and It&#39;s Surprisingly Beautiful](https://www.ask-sephira.com/chat)
-- [Polyfilling CSS with CSS Parser Extensions](https://www.bram.us/2025/05/04/css-parser-extensions-pitch/)
-- [Prompt Engineering](https://www.kaggle.com/whitepaper-prompt-engineering)
-- [Dark Days Started in China: Mass Strikes and Protests Sweep China – %80 Orders](https://www.youtube.com/watch?v=kXHFTg_-1aw)
-- [Cash-strapped Maldives to build $9B blockchain hub in bid to lure investors](https://www.ft.com/content/70cba9ec-caad-4958-bed9-59d43e8da6c2)
-- [Show HN: Serdev – A bundler-independent development server for Node.js](https://github.com/jsscheller/serdev)
-- [Eugenics and the promise of utopia through artificial general intelligence &lpar;2024&rpar;](https://firstmonday.org/ojs/index.php/fm/article/view/13636/11599)
-- [WCAG 3.0&#39;s Proposed Scoring Model: A Shift in Accessibility Evaluation](https://www.smashingmagazine.com/2025/05/wcag-3-proposed-scoring-model-shift-accessibility-evaluation/)
-- [TheAgentCompany: Benchmarking LLM Agents on Consequential Real World Tasks](https://arxiv.org/abs/2412.14161)
-- [Redis vs. Valkey Performance [video]](https://www.youtube.com/watch?v=9hDvWVJtljE)
+- [Humble Bundle C# Mega bundle Packt](https://www.humblebundle.com/books/c-and-net-mega-bundle-packt-books)
+- [Show HN: Generate JSON Schema from a readable model – no login](https://news.ycombinator.com/item?id=43901374)
+- [GSAP Is Now Free](https://gsap.com/pricing/)
+- [Databricks reportedly could acquire serverless database startup Neon for $1B+](https://siliconangle.com/2025/05/05/databricks-reportedly-acquire-serverless-database-startup-neon-1b/)
+- [US govt is scared of me – Newark airport – Fear and intimidation &lpar;AJE&rpar;](https://www.aljazeera.com/opinions/2025/5/5/fear-and-intimidation-at-newark-airport)
+- [Ask HN: How do you balance deep technical exploration with shipping the product?](https://news.ycombinator.com/item?id=43901299)
+- [Essential Reading: Making sense of Newark Airport&#39;s chronic chaos](https://theaircurrent.com/feed/dispatches/newark-issues-essential-reading/)
+- [Building &lpar;mathematics&rpar;](https://en.wikipedia.org/wiki/Building_(mathematics))
+- [Evaluating Frontier Models for Stealth and Situational Awareness](https://arxiv.org/abs/2505.01420)
+- [How Did NASA Choose the Crew of Apollo 11?](https://apollo11space.com/how-did-nasa-choose-the-crew-of-apollo-11/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

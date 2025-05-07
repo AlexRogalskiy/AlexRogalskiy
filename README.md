@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Humble Bundle C# Mega bundle Packt](https://www.humblebundle.com/books/c-and-net-mega-bundle-packt-books)
-- [Show HN: Generate JSON Schema from a readable model – no login](https://news.ycombinator.com/item?id=43901374)
-- [GSAP Is Now Free](https://gsap.com/pricing/)
-- [Databricks reportedly could acquire serverless database startup Neon for $1B+](https://siliconangle.com/2025/05/05/databricks-reportedly-acquire-serverless-database-startup-neon-1b/)
-- [US govt is scared of me – Newark airport – Fear and intimidation &lpar;AJE&rpar;](https://www.aljazeera.com/opinions/2025/5/5/fear-and-intimidation-at-newark-airport)
-- [Ask HN: How do you balance deep technical exploration with shipping the product?](https://news.ycombinator.com/item?id=43901299)
-- [Essential Reading: Making sense of Newark Airport&#39;s chronic chaos](https://theaircurrent.com/feed/dispatches/newark-issues-essential-reading/)
-- [Building &lpar;mathematics&rpar;](https://en.wikipedia.org/wiki/Building_(mathematics))
-- [Evaluating Frontier Models for Stealth and Situational Awareness](https://arxiv.org/abs/2505.01420)
-- [How Did NASA Choose the Crew of Apollo 11?](https://apollo11space.com/how-did-nasa-choose-the-crew-of-apollo-11/)
+- [Reddit will tighten verification to keep out human-like AI bots](https://techcrunch.com/2025/05/06/reddit-will-tighten-verification-to-keep-out-human-like-ai-bots/)
+- [GPT-2 attention weights, visualized](https://amanvir.com/gpt-2-attention)
+- [What&#39;s New in Grafana v12.0](https://grafana.com/docs/grafana/latest/whatsnew/whats-new-in-v12-0/)
+- [Rahul Goel &lpar;NordSpace&rpar; – Building Canada&#39;s Sovereign Space Launch Capability [video]](https://www.youtube.com/watch?v=hCYFBbZJ_aY)
+- [News Literacy Project](https://newslit.org/)
+- [250 More NIH workers laid off, including cuts at the National Cancer Institute](https://www.fiercebiotech.com/biotech/250-more-nih-workers-laid-including-cuts-national-cancer-institute)
+- [$360k, ultraluxury EV Cadillac Celestiq](https://www.theverge.com/gm-general-motors/661569/cadillac-celestiq-first-drive-ev-bespoke-luxury-price)
+- [We created another Kafka client for Node.js](https://blog.platformatic.dev/why-we-created-another-kafka-client-for-nodejs)
+- [Don&#39;t Guess](https://www.jakeworth.com/posts/dont-guess/)
+- [Email and password authentication should be a last resort &lpar;rant&rpar;](https://smudge.ai/blog/passwords)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

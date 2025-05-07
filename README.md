@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [The Zelenskyy-Trump deal – podcast](https://www.theguardian.com/news/audio/2025/may/06/the-zelenskyy-trump-deal-podcast)
-- [Trump called for 100% tariff on foreign films a day after Jon Voight proposed ‘limited’ tariffs](https://www.theguardian.com/film/2025/may/06/trump-movie-industry-tariffs-actor-jon-voight)
-- [Met Gala 2025 red carpet: pinstripes, capes and pouring rain – in pictures](https://www.theguardian.com/fashion/gallery/2025/may/06/met-gala-2025-pinstripes-capes-and-pouring-rain-in-pictures)
-- [Ukraine war briefing: Second night of Moscow drone raids, Kursk substation hit](https://www.theguardian.com/world/2025/may/06/ukraine-war-briefing-second-night-of-moscow-drone-raids-kursk-substation-hit)
-- [Gold mining suspended in Peru’s north after 13 miners killed](https://www.theguardian.com/world/2025/may/05/perus-north-miners-killed)
-- [More than 1m older people in England waited over 12 hours in A&amp;E last year](https://www.theguardian.com/society/2025/may/06/more-than-1m-older-people-england-waited-12-hours-ae-last-year)
-- [Pharmacists face daily inappropriate demands for antibiotics, survey finds](https://www.theguardian.com/society/2025/may/06/pharmacists-face-daily-inappropriate-demands-for-antibiotics-survey-finds)
-- [Ex-French interior minister apologises to Liverpool fans for making them a ‘scapegoat’](https://www.theguardian.com/football/2025/may/05/ex-french-interior-minister-apologises-to-liverpool-fans-for-using-them-as-a-scapegoat)
-- [Trump to continue Biden&#39;s court defense of abortion drug mifepristone](https://www.theguardian.com/us-news/2025/may/05/trump-biden-defense-mifepristone-abortion-drug)
-- [Two riders dead after ‘catastrophic’ 11-bike crash in race at Oulton Park](https://www.theguardian.com/sport/2025/may/05/two-riders-dead-after-catastrophic-11-bike-crash-in-race-at-oulton-park)
+- [Kashmir crisis live: India missile attack kills eight; Pakistan says five Indian fighter jets shot down](https://www.theguardian.com/world/live/2025/may/06/pakistan-india-attacks-kashmir-live-updates)
+- [Erin Patterson trial live: no record of cancer diagnosis for Erin Patterson on state’s register, health official says](https://www.theguardian.com/australia-news/live/2025/may/07/erin-patterson-trial-live-witnesses-to-continue-giving-evidence-on-day-seven-of-mushroom-cooks-trial-ntwnfb)
+- [After braving the wilderness for 500 days, Valerie is heavier than ever. Has someone been feeding the mini dachshund?](https://www.theguardian.com/australia-news/2025/may/07/after-braving-the-wilderness-for-500-days-valerie-is-heavier-than-ever-has-someone-been-feeding-the-mini-dachshund)
+- [How to pick a pope - podcast](https://www.theguardian.com/news/audio/2025/may/07/how-to-pick-a-pope-podcast)
+- [Rubio says Venezuelans sheltering at Argentinian embassy ‘rescued’ by US](https://www.theguardian.com/world/2025/may/06/venezuela-maduro-argentinian-embassy)
+- [Trump news at a glance: Canada not for sale, says Carney; trans military ban proceeds for now](https://www.theguardian.com/us-news/2025/may/07/president-trump-administration-news-updates-today)
+- [Ukraine war briefing: Hegseth’s sudden arms halt ‘cost US up to $2.2m’ – report](https://www.theguardian.com/world/2025/may/07/ukraine-war-briefing-hegseths-sudden-arms-halt-cost-us-up-to-22m-report)
+- [Smokey Robinson accused of sexual assault by four women in $50m lawsuit](https://www.theguardian.com/us-news/2025/may/06/smokey-robinson-accused-sexual-assault)
+- [AI of dead Arizona road rage victim addresses killer in court](https://www.theguardian.com/us-news/2025/may/06/arizona-road-rage-victim-ai-chris-pelkey)
+- [‘They’ll have to go home’: Trump’s World Cup task force touts welcome, warns visitors](https://www.theguardian.com/football/2025/may/06/trump-world-cup-task-force-infantino)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

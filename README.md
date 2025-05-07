@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Google Has Most of My Email Because It Has All of Yours &lpar;2014&rpar;](https://mako.cc/copyrighteous/google-has-most-of-my-email-because-it-has-all-of-yours)
-- [Analyzing Modern Nvidia GPU Cores](https://arxiv.org/abs/2503.20481)
-- [Replacing Kubernetes with systemd &lpar;2024&rpar;](https://blog.yaakov.online/replacing-kubernetes-with-systemd/)
-- [Show HN: Real-time AI Voice Chat at ~500ms Latency](https://github.com/KoljaB/RealtimeVoiceChat)
-- [Databricks in talks to acquire startup Neon for about $1B](https://www.upstartsmedia.com/p/scoop-databricks-talks-to-acquire-neon)
-- [Possibly a Serious Possibility](https://kucharski.substack.com/p/possibly-a-serious-possibility)
-- [Evolving OpenAI&#39;s Structure](https://openai.com/index/evolving-our-structure/)
-- [Show HN: Tkintergalactic - Declarative Tcl/Tk UI Library for Python](https://github.com/leontrolski/tkintergalactic)
-- [As an experienced LLM user, I don&#39;t use generative LLMs often](https://minimaxir.com/2025/05/llm-use/)
-- [Instant &lpar;YC S22&rpar; Is Hiring a Founding TypeScript Engineer](https://www.instantdb.com/hiring/ts-hacker)
+- [EPA Plans to Shut Down the Energy Star Program](https://www.nytimes.com/2025/05/06/climate/epa-energy-star-eliminated.html)
+- [Jury orders NSO to pay $167M for hacking WhatsApp users](https://arstechnica.com/security/2025/05/jury-orders-nso-to-pay-167-million-for-hacking-whatsapp-users/)
+- [Creativity came to pass](https://vale.rocks/posts/creativity-came-to-pass)
+- [Bloat is still software&#39;s biggest vulnerability &lpar;2024&rpar;](https://spectrum.ieee.org/lean-software-development)
+- [Alignment is not free: How model upgrades can silence your confidence signals](https://www.variance.co/post/alignment-is-not-free-how-a-model-silenced-our-confidence-signals)
+- [VVVVVV Source Code](https://github.com/TerryCavanagh/VVVVVV)
+- [Show HN: Whippy Term - GUI terminal for embedded development &lpar;Linux and Windows&rpar;](https://whippyterm.com)
+- [Sutton and Barto book implementation](https://github.com/ivanbelenky/RL)
+- [Continue &lpar;YC S23&rpar; is hiring software engineers in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
+- [iOS Kindle app now has a ‘get book’ button after changes to App Store rules](https://www.theverge.com/news/661719/amazon-app-ios-apple-iphone-ipad-kindle-buy-books)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

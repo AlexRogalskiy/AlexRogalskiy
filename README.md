@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Reddit will tighten verification to keep out human-like AI bots](https://techcrunch.com/2025/05/06/reddit-will-tighten-verification-to-keep-out-human-like-ai-bots/)
-- [GPT-2 attention weights, visualized](https://amanvir.com/gpt-2-attention)
-- [What&#39;s New in Grafana v12.0](https://grafana.com/docs/grafana/latest/whatsnew/whats-new-in-v12-0/)
-- [Rahul Goel &lpar;NordSpace&rpar; – Building Canada&#39;s Sovereign Space Launch Capability [video]](https://www.youtube.com/watch?v=hCYFBbZJ_aY)
-- [News Literacy Project](https://newslit.org/)
-- [250 More NIH workers laid off, including cuts at the National Cancer Institute](https://www.fiercebiotech.com/biotech/250-more-nih-workers-laid-including-cuts-national-cancer-institute)
-- [$360k, ultraluxury EV Cadillac Celestiq](https://www.theverge.com/gm-general-motors/661569/cadillac-celestiq-first-drive-ev-bespoke-luxury-price)
-- [We created another Kafka client for Node.js](https://blog.platformatic.dev/why-we-created-another-kafka-client-for-nodejs)
-- [Don&#39;t Guess](https://www.jakeworth.com/posts/dont-guess/)
-- [Email and password authentication should be a last resort &lpar;rant&rpar;](https://smudge.ai/blog/passwords)
+- [JHipster Release v8.11.0](https://www.jhipster.tech/2025/05/06/jhipster-release-8.11.0.html)
+- [Show HN: YAMLResume, Open Source Node.js Tool to Create Resumes as Code in YAML](https://yamlresume.dev)
+- [Model Context Protocol: An essential standard for AI-powered tool selection](https://retool.com/blog/what-is-model-context-protocol)
+- [A Recipe for Success: Cooking Up Repeatable Agentic Workflows](https://block.github.io/goose/blog/2025/05/06/recipe-for-success/)
+- [Arguments for 128-bit processors now &lpar;or even a 96-bit&rpar;](https://cs.stackexchange.com/questions/171845/arguments-for-128-bit-processors-now-or-even-a-96-bit)
+- [Grand Theft Auto VI Website](https://www.rockstargames.com/VI)
+- [Running Llama on Windows 98 - 12 days of EXO](https://blog.exolabs.net/day-4/)
+- [Figma launches premium Figma Make &#39;vibe-coding&#39; AI software designer](https://www.cnbc.com/2025/05/07/figma-launches-premium-figma-make-vibe-coding-ai-software-designer.html)
+- [Show HN: iOS App Size Analysis Tool for macOS](https://apps.apple.com/us/app/dotipa/id6742254881?mt=12)
+- [Gemini 2.5 Pro Preview 03-25 benchmark cost](https://aider.chat/2025/05/07/gemini-cost.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

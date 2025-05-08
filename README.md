@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Kashmir crisis live: India missile attack kills eight; Pakistan says five Indian fighter jets shot down](https://www.theguardian.com/world/live/2025/may/06/pakistan-india-attacks-kashmir-live-updates)
-- [Erin Patterson trial live: no record of cancer diagnosis for Erin Patterson on state’s register, health official says](https://www.theguardian.com/australia-news/live/2025/may/07/erin-patterson-trial-live-witnesses-to-continue-giving-evidence-on-day-seven-of-mushroom-cooks-trial-ntwnfb)
-- [After braving the wilderness for 500 days, Valerie is heavier than ever. Has someone been feeding the mini dachshund?](https://www.theguardian.com/australia-news/2025/may/07/after-braving-the-wilderness-for-500-days-valerie-is-heavier-than-ever-has-someone-been-feeding-the-mini-dachshund)
-- [How to pick a pope - podcast](https://www.theguardian.com/news/audio/2025/may/07/how-to-pick-a-pope-podcast)
-- [Rubio says Venezuelans sheltering at Argentinian embassy ‘rescued’ by US](https://www.theguardian.com/world/2025/may/06/venezuela-maduro-argentinian-embassy)
-- [Trump news at a glance: Canada not for sale, says Carney; trans military ban proceeds for now](https://www.theguardian.com/us-news/2025/may/07/president-trump-administration-news-updates-today)
-- [Ukraine war briefing: Hegseth’s sudden arms halt ‘cost US up to $2.2m’ – report](https://www.theguardian.com/world/2025/may/07/ukraine-war-briefing-hegseths-sudden-arms-halt-cost-us-up-to-22m-report)
-- [Smokey Robinson accused of sexual assault by four women in $50m lawsuit](https://www.theguardian.com/us-news/2025/may/06/smokey-robinson-accused-sexual-assault)
-- [AI of dead Arizona road rage victim addresses killer in court](https://www.theguardian.com/us-news/2025/may/06/arizona-road-rage-victim-ai-chris-pelkey)
-- [‘They’ll have to go home’: Trump’s World Cup task force touts welcome, warns visitors](https://www.theguardian.com/football/2025/may/06/trump-world-cup-task-force-infantino)
+- [Erin Patterson trial live: nurse says mushroom cook did not ‘look unwell’ but lunch guest ‘couldn’t lift his head’ from hospital pillow](https://www.theguardian.com/australia-news/live/2025/may/08/erin-patterson-trial-live-evidence-continues-mushroom-cooks-trial-day-eight-ntwnfb)
+- [Dozens of pro-Palestinian protesters arrested after Columbia calls in police](https://www.theguardian.com/us-news/2025/may/07/columbia-university-police-pro-palestinian-protests)
+- [Israel’s plan to ‘conquer’ Gaza – podcast](https://www.theguardian.com/news/audio/2025/may/08/israels-plan-to-conquer-gaza-podcast)
+- [Iranians arrested in counter-terrorism raids allegedly targeted Israeli embassy](https://www.theguardian.com/uk-news/2025/may/07/iranians-arrested-in-counter-terrorism-raids-allegedly-targeted-israeli-embassy)
+- [Hamlet Hail to the Thief review – study of righteous anger links Shakespeare to Radiohead](https://www.theguardian.com/stage/2025/may/07/hamlet-hail-to-the-thief-review-study-of-righteous-anger-links-shakespeare-to-radiohead)
+- [Brazil rejects US request to designate two gangs as terrorist organizations](https://www.theguardian.com/world/2025/may/07/brazil-gangs-terrorist-designation-pcc-comando-vermelho)
+- [British Steel to hire more staff weeks after government rescue](https://www.theguardian.com/business/2025/may/07/british-steel-to-hire-more-staff-government-rescue-scunthorpe)
+- [Hakimi seals PSG’s Champions League final spot as bold Arsenal fall short](https://www.theguardian.com/football/2025/may/07/hakimi-seals-paris-saint-germains-final-spot-as-bold-arsenal-fall-short)
+- [Emma Raducanu into second round of Italian Open after win over Maya Joint](https://www.theguardian.com/sport/2025/may/07/emma-raducanu-into-second-round-of-italian-open-tennis-after-win-over-maya-joint)
+- [Jon Voight defends Trump’s film tariff plan: ‘Something has to be done’](https://www.theguardian.com/us-news/2025/may/07/trump-tariffs-movies-jon-voight)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

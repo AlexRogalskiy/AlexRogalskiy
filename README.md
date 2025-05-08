@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [EPA Plans to Shut Down the Energy Star Program](https://www.nytimes.com/2025/05/06/climate/epa-energy-star-eliminated.html)
-- [Jury orders NSO to pay $167M for hacking WhatsApp users](https://arstechnica.com/security/2025/05/jury-orders-nso-to-pay-167-million-for-hacking-whatsapp-users/)
-- [Creativity came to pass](https://vale.rocks/posts/creativity-came-to-pass)
-- [Bloat is still software&#39;s biggest vulnerability &lpar;2024&rpar;](https://spectrum.ieee.org/lean-software-development)
-- [Alignment is not free: How model upgrades can silence your confidence signals](https://www.variance.co/post/alignment-is-not-free-how-a-model-silenced-our-confidence-signals)
-- [VVVVVV Source Code](https://github.com/TerryCavanagh/VVVVVV)
-- [Show HN: Whippy Term - GUI terminal for embedded development &lpar;Linux and Windows&rpar;](https://whippyterm.com)
-- [Sutton and Barto book implementation](https://github.com/ivanbelenky/RL)
-- [Continue &lpar;YC S23&rpar; is hiring software engineers in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
-- [iOS Kindle app now has a ‘get book’ button after changes to App Store rules](https://www.theverge.com/news/661719/amazon-app-ios-apple-iphone-ipad-kindle-buy-books)
+- [Parametric Modeling with Grasshopper](https://baharmon.github.io/basics)
+- [Show HN: US Routing – Python library for fast local routing in the United States](https://github.com/ivanbelenky/us-routing)
+- [Yggdrasil is an experimental compact routing scheme that is fully decentralised](https://yggdrasil-network.github.io/about.html)
+- [Foundation DB Record Layer SQL API](https://foundationdb.github.io/fdb-record-layer/SQL_Reference.html)
+- [June Huh dropped out to become a poet, now he’s won a Fields Medal &lpar;2022&rpar;](https://www.quantamagazine.org/june-huh-high-school-dropout-wins-the-fields-medal-20220705/)
+- [OpenAI for Countries](https://openai.com/global-affairs/openai-for-countries/)
+- [GovEagle &lpar;YC W23&rpar; Is Hiring](https://www.ycombinator.com/companies/goveagle/jobs/ogNRCkd-platform-engineering-contractor-short-term)
+- [Web search on the Anthropic API](https://www.anthropic.com/news/web-search-api)
+- [How to Average in Prolog &lpar;2017&rpar;](https://storytotell.org/how-to-average-in-prolog)
+- [Mac Themes Garden](https://damien.zone/introducing-mac-themes-garden/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

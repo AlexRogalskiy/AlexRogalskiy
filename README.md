@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Parametric Modeling with Grasshopper](https://baharmon.github.io/basics)
-- [Show HN: US Routing – Python library for fast local routing in the United States](https://github.com/ivanbelenky/us-routing)
-- [Yggdrasil is an experimental compact routing scheme that is fully decentralised](https://yggdrasil-network.github.io/about.html)
-- [Foundation DB Record Layer SQL API](https://foundationdb.github.io/fdb-record-layer/SQL_Reference.html)
-- [June Huh dropped out to become a poet, now he’s won a Fields Medal &lpar;2022&rpar;](https://www.quantamagazine.org/june-huh-high-school-dropout-wins-the-fields-medal-20220705/)
-- [OpenAI for Countries](https://openai.com/global-affairs/openai-for-countries/)
-- [GovEagle &lpar;YC W23&rpar; Is Hiring](https://www.ycombinator.com/companies/goveagle/jobs/ogNRCkd-platform-engineering-contractor-short-term)
-- [Web search on the Anthropic API](https://www.anthropic.com/news/web-search-api)
-- [How to Average in Prolog &lpar;2017&rpar;](https://storytotell.org/how-to-average-in-prolog)
-- [Mac Themes Garden](https://damien.zone/introducing-mac-themes-garden/)
+- [Podfox: First Container-Aware Browser](https://val.packett.cool/blog/podfox/)
+- [Fui: C library for interacting with the framebuffer in a TTY context](https://github.com/martinfama/fui)
+- [Prepare your apps for Google Play&#39;s 16 KB page size compatibility requirement](https://android-developers.googleblog.com/2025/05/prepare-play-apps-for-devices-with-16kb-page-size.html)
+- [A flat pricing subscription for Claude Code](https://support.anthropic.com/en/articles/11145838-using-claude-code-with-your-max-plan)
+- [How the US Built 5k Ships in WWII](https://www.construction-physics.com/p/how-the-us-built-5000-ships-in-wwii)
+- [Stability by Design](https://potetm.com/devtalk/stability-by-design.html)
+- [How to start a school with your friends](https://prigoose.substack.com/p/how-to-start-a-university)
+- [The Rise and Fall of the Visual Telegraph &lpar;2017&rpar;](https://parisianfields.com/2017/11/05/the-rise-and-fall-of-the-visual-telegraph/)
+- [From: Steve Jobs. &quot;Great idea, thank you.&quot;](https://blog.hayman.net/2025/05/06/from-steve-jobs-great-idea.html)
+- [Block Diffusion: Interpolating Autoregressive and Diffusion Language Models](https://m-arriola.com/bd3lms/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

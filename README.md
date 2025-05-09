@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Erin Patterson trial live: nurse says mushroom cook did not ‘look unwell’ but lunch guest ‘couldn’t lift his head’ from hospital pillow](https://www.theguardian.com/australia-news/live/2025/may/08/erin-patterson-trial-live-evidence-continues-mushroom-cooks-trial-day-eight-ntwnfb)
-- [Dozens of pro-Palestinian protesters arrested after Columbia calls in police](https://www.theguardian.com/us-news/2025/may/07/columbia-university-police-pro-palestinian-protests)
-- [Israel’s plan to ‘conquer’ Gaza – podcast](https://www.theguardian.com/news/audio/2025/may/08/israels-plan-to-conquer-gaza-podcast)
-- [Iranians arrested in counter-terrorism raids allegedly targeted Israeli embassy](https://www.theguardian.com/uk-news/2025/may/07/iranians-arrested-in-counter-terrorism-raids-allegedly-targeted-israeli-embassy)
-- [Hamlet Hail to the Thief review – study of righteous anger links Shakespeare to Radiohead](https://www.theguardian.com/stage/2025/may/07/hamlet-hail-to-the-thief-review-study-of-righteous-anger-links-shakespeare-to-radiohead)
-- [Brazil rejects US request to designate two gangs as terrorist organizations](https://www.theguardian.com/world/2025/may/07/brazil-gangs-terrorist-designation-pcc-comando-vermelho)
-- [British Steel to hire more staff weeks after government rescue](https://www.theguardian.com/business/2025/may/07/british-steel-to-hire-more-staff-government-rescue-scunthorpe)
-- [Hakimi seals PSG’s Champions League final spot as bold Arsenal fall short](https://www.theguardian.com/football/2025/may/07/hakimi-seals-paris-saint-germains-final-spot-as-bold-arsenal-fall-short)
-- [Emma Raducanu into second round of Italian Open after win over Maya Joint](https://www.theguardian.com/sport/2025/may/07/emma-raducanu-into-second-round-of-italian-open-tennis-after-win-over-maya-joint)
-- [Jon Voight defends Trump’s film tariff plan: ‘Something has to be done’](https://www.theguardian.com/us-news/2025/may/07/trump-tariffs-movies-jon-voight)
+- [Catholics around the world celebrate as Robert Francis Prevost becomes Pope Leo XIV – live](https://www.theguardian.com/world/live/2025/may/08/new-pope-conclave-vatican-white-black-smoke-papacy-catholic-cardinals)
+- [US to begin immediate removal of up to 1,000 trans military members](https://www.theguardian.com/us-news/2025/may/08/trump-pentagon-trans-military-ban)
+- [Chicago reacts to hometown Pope Leo: ‘Like the Cubs winning the World Series’](https://www.theguardian.com/us-news/2025/may/08/pope-leo-chicago-home-town)
+- [Ukraine war briefing: Trump calls for ‘ideally a 30-day ceasefire’ backed with sanctions](https://www.theguardian.com/world/2025/may/09/ukraine-war-briefing-trump-calls-for-ideally-a-30-day-ceasefire-backed-with-sanctions)
+- [Trump names Fox News host Jeanine Pirro as top DC federal prosecutor](https://www.theguardian.com/us-news/2025/may/08/trump-withdraws-ed-martin-thom-tillis)
+- [‘Hollowing out’: New Zealand grapples with an uncertain future as record numbers leave](https://www.theguardian.com/world/2025/may/09/leaving-new-zealand-record-departure-numbers)
+- [Trump and Starmer confirm ‘breakthrough’ US-UK trade deal](https://www.theguardian.com/politics/2025/may/08/trump-and-starmer-confirm-breakthrough-us-uk-trade-deal)
+- [Here We Are review – Sondheim’s desperate diners have a double helping of Buñuel](https://www.theguardian.com/stage/2025/may/09/here-we-are-review-lyttelton-national-theatre-london)
+- [Hospitals in England reducing staff and services as part of NHS ‘financial reset’](https://www.theguardian.com/society/2025/may/09/nhs-hospitals-england-cuts-financial-reset)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2025/may/09/premier-league-10-things-to-look-out-for-this-weekend)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

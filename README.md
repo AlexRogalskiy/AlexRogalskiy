@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [JHipster Release v8.11.0](https://www.jhipster.tech/2025/05/06/jhipster-release-8.11.0.html)
-- [Show HN: YAMLResume, Open Source Node.js Tool to Create Resumes as Code in YAML](https://yamlresume.dev)
-- [Model Context Protocol: An essential standard for AI-powered tool selection](https://retool.com/blog/what-is-model-context-protocol)
-- [A Recipe for Success: Cooking Up Repeatable Agentic Workflows](https://block.github.io/goose/blog/2025/05/06/recipe-for-success/)
-- [Arguments for 128-bit processors now &lpar;or even a 96-bit&rpar;](https://cs.stackexchange.com/questions/171845/arguments-for-128-bit-processors-now-or-even-a-96-bit)
-- [Grand Theft Auto VI Website](https://www.rockstargames.com/VI)
-- [Running Llama on Windows 98 - 12 days of EXO](https://blog.exolabs.net/day-4/)
-- [Figma launches premium Figma Make &#39;vibe-coding&#39; AI software designer](https://www.cnbc.com/2025/05/07/figma-launches-premium-figma-make-vibe-coding-ai-software-designer.html)
-- [Show HN: iOS App Size Analysis Tool for macOS](https://apps.apple.com/us/app/dotipa/id6742254881?mt=12)
-- [Gemini 2.5 Pro Preview 03-25 benchmark cost](https://aider.chat/2025/05/07/gemini-cost.html)
+- [Starlink User Terminal Teardown](https://www.darknavy.org/blog/a_first_glimpse_of_the_starlink_user_ternimal/)
+- [A Formal Analysis of Apple&#39;s iMessage PQ3 Protocol [pdf]](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-595-linker.pdf)
+- [Tesla confirms it has given up on its Cybertruck range extender](https://electrek.co/2025/05/07/tesla-never-make-cybertruck-range-extender-achieve-promised-range/)
+- [Show HN: Destiny Matrix – Free, instant, no-signup numerology analysis](https://destiny-matrix.cc/)
+- [Show HN: Build a Figma plugin that converts vectors to clip-path: shape&lpar;&rpar;](https://www.figma.com/community/plugin/1501841537217920533/shape-converter)
+- [Tracker Boot – Be Agile with Tracker Boot](https://trackerboot.com)
+- [The Fraying of the US Global Currency Reserve System &lpar;2020&rpar;](https://www.lynalden.com/fraying-petrodollar-system/)
+- [Show HN: Raw Binary Program Analysis Tool](https://github.com/nstarke/BaseAddressDiscoverererer)
+- [AI Avatar of Slain Murder Victim Addresses Killer in Court](https://www.washingtonpost.com/nation/2025/05/08/ai-victim-court-sentencing/)
+- [Institutionalizing Politicized Science](https://www.science.org/doi/10.1126/science.ady6128)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

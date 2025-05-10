@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Catholics around the world celebrate as Robert Francis Prevost becomes Pope Leo XIV – live](https://www.theguardian.com/world/live/2025/may/08/new-pope-conclave-vatican-white-black-smoke-papacy-catholic-cardinals)
-- [US to begin immediate removal of up to 1,000 trans military members](https://www.theguardian.com/us-news/2025/may/08/trump-pentagon-trans-military-ban)
-- [Chicago reacts to hometown Pope Leo: ‘Like the Cubs winning the World Series’](https://www.theguardian.com/us-news/2025/may/08/pope-leo-chicago-home-town)
-- [Ukraine war briefing: Trump calls for ‘ideally a 30-day ceasefire’ backed with sanctions](https://www.theguardian.com/world/2025/may/09/ukraine-war-briefing-trump-calls-for-ideally-a-30-day-ceasefire-backed-with-sanctions)
-- [Trump names Fox News host Jeanine Pirro as top DC federal prosecutor](https://www.theguardian.com/us-news/2025/may/08/trump-withdraws-ed-martin-thom-tillis)
-- [‘Hollowing out’: New Zealand grapples with an uncertain future as record numbers leave](https://www.theguardian.com/world/2025/may/09/leaving-new-zealand-record-departure-numbers)
-- [Trump and Starmer confirm ‘breakthrough’ US-UK trade deal](https://www.theguardian.com/politics/2025/may/08/trump-and-starmer-confirm-breakthrough-us-uk-trade-deal)
-- [Here We Are review – Sondheim’s desperate diners have a double helping of Buñuel](https://www.theguardian.com/stage/2025/may/09/here-we-are-review-lyttelton-national-theatre-london)
-- [Hospitals in England reducing staff and services as part of NHS ‘financial reset’](https://www.theguardian.com/society/2025/may/09/nhs-hospitals-england-cuts-financial-reset)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2025/may/09/premier-league-10-things-to-look-out-for-this-weekend)
+- [Ukraine war briefing: US embassy in Kyiv issues warning of ‘potentially significant’ air attack](https://www.theguardian.com/world/2025/may/10/ukraine-war-briefing-us-embassy-in-kyiv-issues-warning-of-potentially-significant-air-attack)
+- [Lawyer who prosecuted Trump hauled in front of House judiciary committee](https://www.theguardian.com/us-news/2025/may/09/jay-bratt-trump-deposition)
+- [The woman unlocking the mysteries of the deep sea in Fiji](https://www.theguardian.com/world/2025/may/10/the-woman-unlocking-the-mysteries-of-the-deep-sea-in-fiji)
+- [Pakistan says retaliatory strikes under way after accusing India of targeting military bases](https://www.theguardian.com/world/2025/may/09/pakistan-accuses-india-targeting-three-military-bases-tensions-escalate)
+- [Toxic tofu? How plastic waste from the west fuels food factories in Indonesia](https://www.theguardian.com/global-development/2025/may/10/tofu-plastic-indonesia)
+- [Police investigate alleged attack on prison officer by Southport triple killer](https://www.theguardian.com/uk-news/2025/may/10/police-investigate-alleged-attack-on-prison-officer-by-southport-triple-killer)
+- [Paul McCartney and Dua Lipa among artists urging Starmer to rethink AI copyright plans](https://www.theguardian.com/technology/2025/may/10/paul-mccartney-and-dua-lipa-among-artists-urging-starmer-to-rethink-ai-copyright-plans)
+- [Diver dies during salvage operation to recover Mike Lynch’s superyacht](https://www.theguardian.com/world/2025/may/09/diver-dies-during-salvage-operation-to-recover-mike-lynchs-sunken-superyacht)
+- [Israel committing genocide in Gaza, says EU’s former top diplomat](https://www.theguardian.com/world/2025/may/09/israel-committing-genocide-in-gaza-says-eus-former-top-diplomat)
+- [Slot confident Liverpool will make ‘new stars’ after Alexander-Arnold’s exit](https://www.theguardian.com/football/2025/may/09/slot-confident-liverpool-will-make-new-stars-after-alexander-arnolds-exit)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

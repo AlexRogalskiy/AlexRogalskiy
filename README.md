@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Podfox: First Container-Aware Browser](https://val.packett.cool/blog/podfox/)
-- [Fui: C library for interacting with the framebuffer in a TTY context](https://github.com/martinfama/fui)
-- [Prepare your apps for Google Play&#39;s 16 KB page size compatibility requirement](https://android-developers.googleblog.com/2025/05/prepare-play-apps-for-devices-with-16kb-page-size.html)
-- [A flat pricing subscription for Claude Code](https://support.anthropic.com/en/articles/11145838-using-claude-code-with-your-max-plan)
-- [How the US Built 5k Ships in WWII](https://www.construction-physics.com/p/how-the-us-built-5000-ships-in-wwii)
-- [Stability by Design](https://potetm.com/devtalk/stability-by-design.html)
-- [How to start a school with your friends](https://prigoose.substack.com/p/how-to-start-a-university)
-- [The Rise and Fall of the Visual Telegraph &lpar;2017&rpar;](https://parisianfields.com/2017/11/05/the-rise-and-fall-of-the-visual-telegraph/)
-- [From: Steve Jobs. &quot;Great idea, thank you.&quot;](https://blog.hayman.net/2025/05/06/from-steve-jobs-great-idea.html)
-- [Block Diffusion: Interpolating Autoregressive and Diffusion Language Models](https://m-arriola.com/bd3lms/)
+- [Charles Bukowski, William Burroughs, and the Computer &lpar;2009&rpar;](https://realitystudio.org/bibliographic-bunker/charles-bukowski-william-burroughs-and-the-computer/)
+- [Brandon&#39;s Semiconductor Simulator](https://brandonli.net/semisim/)
+- [WebGL Water &lpar;2010&rpar;](https://madebyevan.com/webgl-water/)
+- [PlainBudget – Minimalist Plain Text Budgeting](https://plainbudget.com/)
+- [Fleurs du Mal](https://fleursdumal.org)
+- [Six Days in the Dark](https://tonyyo11.github.io/posts/Six-Days-in-the-Dark/)
+- [Business books are entertainment, not strategic tools](https://theorthagonist.substack.com/p/why-reading-business-books-is-a-waste)
+- [What’s new in Swift 6.2](https://www.hackingwithswift.com/articles/277/whats-new-in-swift-6-2)
+- [New Tool: lsds – List All Linux Block Devices and Settings in One Place](https://tanelpoder.com/posts/lsds-list-linux-block-devices-and-their-config/)
+- [Odin, a Pragmatic C Alternative with a Go Flavour](http://bitshifters.cc/2025/05/04/odin.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

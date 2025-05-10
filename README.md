@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Starlink User Terminal Teardown](https://www.darknavy.org/blog/a_first_glimpse_of_the_starlink_user_ternimal/)
-- [A Formal Analysis of Apple&#39;s iMessage PQ3 Protocol [pdf]](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-595-linker.pdf)
-- [Tesla confirms it has given up on its Cybertruck range extender](https://electrek.co/2025/05/07/tesla-never-make-cybertruck-range-extender-achieve-promised-range/)
-- [Show HN: Destiny Matrix – Free, instant, no-signup numerology analysis](https://destiny-matrix.cc/)
-- [Show HN: Build a Figma plugin that converts vectors to clip-path: shape&lpar;&rpar;](https://www.figma.com/community/plugin/1501841537217920533/shape-converter)
-- [Tracker Boot – Be Agile with Tracker Boot](https://trackerboot.com)
-- [The Fraying of the US Global Currency Reserve System &lpar;2020&rpar;](https://www.lynalden.com/fraying-petrodollar-system/)
-- [Show HN: Raw Binary Program Analysis Tool](https://github.com/nstarke/BaseAddressDiscoverererer)
-- [AI Avatar of Slain Murder Victim Addresses Killer in Court](https://www.washingtonpost.com/nation/2025/05/08/ai-victim-court-sentencing/)
-- [Institutionalizing Politicized Science](https://www.science.org/doi/10.1126/science.ady6128)
+- [A simple 16x16 dot animation from simple math rules](https://tixy.land)
+- [Authenticity Is BS](https://write.as/exitwhenplanned/theres-a-cost-to-not-playing-the-game)
+- [Spatial Data-Management &lpar;1979&rpar; [pdf]](https://www.media.mit.edu/speech/papers/1979/bolt_1979_spatial_data-management.pdf)
+- [Another World](https://www.anotherworld.fr/anotherworld_uk/another_world.htm)
+- [Beyond Opponent and Self: Martial Arts as a Gateway to Nonduality](https://cultivatingsystems.substack.com/p/beyond-opponent-and-self-martial)
+- [Algebraic Effects: Another mistake carried through to perfection?](https://kjosib.github.io/Counterpoint/effects.html)
+- [Any Interest in an AI Interview Coach Behaviorals and Technicals](https://docs.google.com/forms/d/e/1FAIpQLSeqFW6SeqblGQCnUxpUa9Eyar2bTguaqrAcf7XxLWuv81qejQ/viewform?usp=dialog)
+- [Sam Altman teaches a masterclass of wielding power again](https://rajiv.com/blog/2025/05/09/the-power-playbook-decoding-leadership-dynamics-in-openais-executive-announcement/)
+- [Ask HN: Where do I go to read if I loved real life magazine?](https://news.ycombinator.com/item?id=43942805)
+- [AI hallucinations are getting worse – and they&#39;re here to stay](https://www.newscientist.com/article/2479545-ai-hallucinations-are-getting-worse-and-theyre-here-to-stay/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine war briefing: US embassy in Kyiv issues warning of ‘potentially significant’ air attack](https://www.theguardian.com/world/2025/may/10/ukraine-war-briefing-us-embassy-in-kyiv-issues-warning-of-potentially-significant-air-attack)
-- [Lawyer who prosecuted Trump hauled in front of House judiciary committee](https://www.theguardian.com/us-news/2025/may/09/jay-bratt-trump-deposition)
-- [The woman unlocking the mysteries of the deep sea in Fiji](https://www.theguardian.com/world/2025/may/10/the-woman-unlocking-the-mysteries-of-the-deep-sea-in-fiji)
-- [Pakistan says retaliatory strikes under way after accusing India of targeting military bases](https://www.theguardian.com/world/2025/may/09/pakistan-accuses-india-targeting-three-military-bases-tensions-escalate)
-- [Toxic tofu? How plastic waste from the west fuels food factories in Indonesia](https://www.theguardian.com/global-development/2025/may/10/tofu-plastic-indonesia)
-- [Police investigate alleged attack on prison officer by Southport triple killer](https://www.theguardian.com/uk-news/2025/may/10/police-investigate-alleged-attack-on-prison-officer-by-southport-triple-killer)
-- [Paul McCartney and Dua Lipa among artists urging Starmer to rethink AI copyright plans](https://www.theguardian.com/technology/2025/may/10/paul-mccartney-and-dua-lipa-among-artists-urging-starmer-to-rethink-ai-copyright-plans)
-- [Diver dies during salvage operation to recover Mike Lynch’s superyacht](https://www.theguardian.com/world/2025/may/09/diver-dies-during-salvage-operation-to-recover-mike-lynchs-sunken-superyacht)
-- [Israel committing genocide in Gaza, says EU’s former top diplomat](https://www.theguardian.com/world/2025/may/09/israel-committing-genocide-in-gaza-says-eus-former-top-diplomat)
-- [Slot confident Liverpool will make ‘new stars’ after Alexander-Arnold’s exit](https://www.theguardian.com/football/2025/may/09/slot-confident-liverpool-will-make-new-stars-after-alexander-arnolds-exit)
+- [Trump news at a glance: Newark mayor Ras Baraka takes on Trump administration over immigration](https://www.theguardian.com/us-news/2025/may/11/trump-news-at-a-glance-newark-mayor-ras-baraka-takes-on-trump-administration-over-immigration)
+- [Five arrests after more than a tonne of cocaine allegedly found on motorboat off NSW coast](https://www.theguardian.com/australia-news/2025/may/11/five-arrests-after-more-than-a-tonne-of-cocaine-allegedly-found-on-motorboat-off-nsw-coast)
+- [Mum wasn’t thrilled with my tattoos – then I suggested she get one too | Mike Hohnen](https://www.theguardian.com/lifeandstyle/2025/may/11/mum-wasnt-thrilled-with-my-tattoos-then-i-suggested-she-get-one-too)
+- [Vladimir Putin rejects ceasefire ultimatum proposed by European leaders](https://www.theguardian.com/world/2025/may/10/leaders-britain-france-germany-poland-arrive-kyiv-ukraine)
+- [UK to time limit visas for roles below graduate level under new migration plan](https://www.theguardian.com/uk-news/2025/may/11/uk-to-time-limit-visas-for-roles-below-graduate-level-under-new-migration-plan)
+- [Danny Dyer says Harold Pinter’s death sent him into ‘spiral of madness’](https://www.theguardian.com/film/2025/may/11/danny-dyer-says-harold-pinter-death-sent-him-into-spiral-of-madness)
+- [Five fishermen lost at sea for 55 days rescued by Ecuadorian tuna boat](https://www.theguardian.com/world/2025/may/10/five-fishermen-lost-at-sea-for-55-days-rescued-by-ecuadorian-tuna-boat)
+- [Spurs are on their way to Bilbao – but no plans to record a new cup final song](https://www.theguardian.com/football/2025/may/10/spurs-are-on-their-way-to-bilbao-but-no-plans-to-record-a-new-cup-final-song)
+- [Weight-loss jabs may be good for mental health, research shows](https://www.theguardian.com/society/2025/may/10/weight-loss-jabs-may-be-good-for-mental-health-research-shows)
+- [Bangladeshi interim cabinet bans all ousted Awami League party activities](https://www.theguardian.com/world/2025/may/10/bangladeshi-interim-cabinet-bans-all-activities-of-ousted-awami-league-party)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

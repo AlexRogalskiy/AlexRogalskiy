@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [A simple 16x16 dot animation from simple math rules](https://tixy.land)
-- [Authenticity Is BS](https://write.as/exitwhenplanned/theres-a-cost-to-not-playing-the-game)
-- [Spatial Data-Management &lpar;1979&rpar; [pdf]](https://www.media.mit.edu/speech/papers/1979/bolt_1979_spatial_data-management.pdf)
-- [Another World](https://www.anotherworld.fr/anotherworld_uk/another_world.htm)
-- [Beyond Opponent and Self: Martial Arts as a Gateway to Nonduality](https://cultivatingsystems.substack.com/p/beyond-opponent-and-self-martial)
-- [Algebraic Effects: Another mistake carried through to perfection?](https://kjosib.github.io/Counterpoint/effects.html)
-- [Any Interest in an AI Interview Coach Behaviorals and Technicals](https://docs.google.com/forms/d/e/1FAIpQLSeqFW6SeqblGQCnUxpUa9Eyar2bTguaqrAcf7XxLWuv81qejQ/viewform?usp=dialog)
-- [Sam Altman teaches a masterclass of wielding power again](https://rajiv.com/blog/2025/05/09/the-power-playbook-decoding-leadership-dynamics-in-openais-executive-announcement/)
-- [Ask HN: Where do I go to read if I loved real life magazine?](https://news.ycombinator.com/item?id=43942805)
-- [AI hallucinations are getting worse – and they&#39;re here to stay](https://www.newscientist.com/article/2479545-ai-hallucinations-are-getting-worse-and-theyre-here-to-stay/)
+- [Ian Lance Taylor of the Go Team Leaves Google](https://www.airs.com/blog/archives/670)
+- [&quot;Barely Literate&quot;: U.S. Education Secretary Mocked for Grammar in Harvard Letter](https://verdaily.com/trump-education-secretary-mocked-for-grammar-errors-in-harvard-letter/)
+- [Anylinuxfs – macOS mount any Linux filesystem read/write using NFS and a microVM](https://github.com/nohajc/anylinuxfs)
+- [Qneurons: Quantum Technology Could Stimulate Human Cognitive Evolution&quot;](https://news.ycombinator.com/item?id=43950927)
+- [&quot;Human-AI Symbiosis: The Future of Technological Evolution?](https://news.ycombinator.com/item?id=43950917)
+- [Distributism](https://en.wikipedia.org/wiki/Distributism)
+- [Quebec riding flips to Liberals after recount shows candidate won by single vote](https://www.cbc.ca/news/politics/terrebone-recount-liberal-1.7532136)
+- [Fixing Telnet Fixes &lpar;2019&rpar;](https://flak.tedunangst.com/post/fixing-telnet-fixes)
+- [Queen of the Lakes](https://en.wikipedia.org/wiki/Queen_of_the_Lakes)
+- [The AUCTUS A6: the chip enabling inexpensive DMR Radio &lpar;2021&rpar;](https://jhart99.com/auctus-a6/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

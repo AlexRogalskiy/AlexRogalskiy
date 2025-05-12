@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Trump news at a glance: Newark mayor Ras Baraka takes on Trump administration over immigration](https://www.theguardian.com/us-news/2025/may/11/trump-news-at-a-glance-newark-mayor-ras-baraka-takes-on-trump-administration-over-immigration)
-- [Five arrests after more than a tonne of cocaine allegedly found on motorboat off NSW coast](https://www.theguardian.com/australia-news/2025/may/11/five-arrests-after-more-than-a-tonne-of-cocaine-allegedly-found-on-motorboat-off-nsw-coast)
-- [Mum wasn’t thrilled with my tattoos – then I suggested she get one too | Mike Hohnen](https://www.theguardian.com/lifeandstyle/2025/may/11/mum-wasnt-thrilled-with-my-tattoos-then-i-suggested-she-get-one-too)
-- [Vladimir Putin rejects ceasefire ultimatum proposed by European leaders](https://www.theguardian.com/world/2025/may/10/leaders-britain-france-germany-poland-arrive-kyiv-ukraine)
-- [UK to time limit visas for roles below graduate level under new migration plan](https://www.theguardian.com/uk-news/2025/may/11/uk-to-time-limit-visas-for-roles-below-graduate-level-under-new-migration-plan)
-- [Danny Dyer says Harold Pinter’s death sent him into ‘spiral of madness’](https://www.theguardian.com/film/2025/may/11/danny-dyer-says-harold-pinter-death-sent-him-into-spiral-of-madness)
-- [Five fishermen lost at sea for 55 days rescued by Ecuadorian tuna boat](https://www.theguardian.com/world/2025/may/10/five-fishermen-lost-at-sea-for-55-days-rescued-by-ecuadorian-tuna-boat)
-- [Spurs are on their way to Bilbao – but no plans to record a new cup final song](https://www.theguardian.com/football/2025/may/10/spurs-are-on-their-way-to-bilbao-but-no-plans-to-record-a-new-cup-final-song)
-- [Weight-loss jabs may be good for mental health, research shows](https://www.theguardian.com/society/2025/may/10/weight-loss-jabs-may-be-good-for-mental-health-research-shows)
-- [Bangladeshi interim cabinet bans all ousted Awami League party activities](https://www.theguardian.com/world/2025/may/10/bangladeshi-interim-cabinet-bans-all-activities-of-ousted-awami-league-party)
+- [Trump says planned gift of luxury plane from Qatar is a very ‘transparent’ deal](https://www.theguardian.com/us-news/2025/may/11/trump-accept-luxury-plane-gift-qatar)
+- [In The Hague, Rodrigo Duterte faces trial, but in Davao he is the top pick for mayor](https://www.theguardian.com/world/2025/may/11/in-davao-rodrigo-duterte-is-represented-by-a-cardboard-cutout-but-he-is-still-the-top-pick-for-mayor)
+- [Philippines elections 2025: polls open in midterms as Marcos and Duterte family dynasties vie for power](https://www.theguardian.com/world/2025/may/12/philippines-election-2025-midterms-voting-results-marcos-duterte)
+- [Trump administration offers refugee status to 49 white South Africans](https://www.theguardian.com/us-news/2025/may/11/trump-administration-south-african-refugees)
+- [Less than 1% of UK biosecurity budget goes on tackling invasive species, figures show](https://www.theguardian.com/environment/2025/may/12/less-than-1-of-uk-biosecurity-budget-goes-on-tackling-invasive-species-figures-show)
+- [NHS scheme to prevent brain injuries in childbirth extended across England](https://www.theguardian.com/society/2025/may/12/nhs-scheme-to-prevent-brain-injuries-in-childbirth-extended-across-england)
+- [Eighty percent of England’s peatlands are dry and degraded, mapping shows](https://www.theguardian.com/environment/2025/may/12/eighty-percent-of-englands-peatlands-are-dry-and-degraded-mapping-shows)
+- [Staff layoffs in UK gain pace amid Trump tariff turmoil and labour cost increases](https://www.theguardian.com/business/2025/may/12/staff-layoffs-in-uk-gain-pace-amid-trump-tariff-turmoil-and-labour-cost-increases)
+- [Weight-loss jabs could halve risk of obesity-related cancers, study finds](https://www.theguardian.com/society/2025/may/11/weight-loss-jabs-could-halve-risk-of-obesity-related-cancers-study-finds)
+- [English test among range of Labour measures to control immigration](https://www.theguardian.com/uk-news/2025/may/11/english-test-among-range-of-labour-measures-to-control-immigration)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

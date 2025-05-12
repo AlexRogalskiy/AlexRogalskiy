@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Dotless Domains](https://lab.avl.la/dotless/)
-- [Ireland given two months to implement hate speech laws or face action from EU](https://www.thejournal.ie/ireland-given-two-months-to-start-implementing-hate-speech-laws-6697853-May2025/)
-- [Fandom Sells Giant Bomb to Independent Creators](https://about.fandom.com/news/fandom-sells-giant-bomb-to-independent-creators)
-- [The History and Legacy of Visual Basic](https://retool.com/visual-basic)
-- [Observations from people watching](https://skincontact.substack.com/p/21-observations-from-people-watching)
-- [Sierpiński Triangle? In My Bitwise and?](https://lcamtuf.substack.com/p/sierpinski-triangle-in-my-bitwise)
-- [Show HN: LoopMix128 – Fast C PRNG &lpar;.46ns&rpar;, 2^128 Period, BigCrush/PractRand Pass](https://github.com/danielcota/LoopMix128)
-- [Why the Apple II Didn&#39;t Support Lowercase Letters &lpar;2020&rpar;](https://www.vintagecomputing.com/index.php/archives/2833/why-the-apple-ii-didnt-support-lowercase-letters)
-- [Show HN: Xenolab – Rasp Pi monitor for my pet carnivourus plants](https://github.com/blackrabbit17/xenolab)
-- [Microsoft Teams will soon block screen capture during meetings](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-will-soon-block-screen-capture-during-meetings/)
+- [Intellect-2 Release: The First 32B Model Trained Through Globally Distributed RL](https://www.primeintellect.ai/blog/intellect-2-release)
+- [Avoiding AI is hard – but our freedom to opt out must be protected](https://theconversation.com/avoiding-ai-is-hard-but-our-freedom-to-opt-out-must-be-protected-255873)
+- [I hacked my clock to control my focus](https://www.paepper.com/blog/posts/how-i-hacked-my-clock-to-control-my-focus.md/)
+- [Why Bell Labs Worked](https://1517.substack.com/p/why-bell-labs-worked)
+- [Burrito Now, Pay Later](https://enterprisevalue.substack.com/p/burrito-now-pay-later)
+- [ToyDB rewritten: a distributed SQL database in Rust, for education](https://github.com/erikgrinaker/toydb)
+- [Scraperr – A Self Hosted Webscraper](https://github.com/jaypyles/Scraperr)
+- [Car companies are in a billion-dollar software war](https://insideevs.com/features/759153/car-companies-software-companies/)
+- [LSP client in Clojure in 200 lines of code](https://vlaaad.github.io/lsp-client-in-200-lines-of-code)
+- [Klarna changes its AI tune and again recruits humans for customer service](https://www.customerexperiencedive.com/news/klarna-reinvests-human-talent-customer-service-AI-chatbot/747586/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

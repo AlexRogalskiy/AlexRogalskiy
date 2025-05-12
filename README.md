@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ian Lance Taylor of the Go Team Leaves Google](https://www.airs.com/blog/archives/670)
-- [&quot;Barely Literate&quot;: U.S. Education Secretary Mocked for Grammar in Harvard Letter](https://verdaily.com/trump-education-secretary-mocked-for-grammar-errors-in-harvard-letter/)
-- [Anylinuxfs – macOS mount any Linux filesystem read/write using NFS and a microVM](https://github.com/nohajc/anylinuxfs)
-- [Qneurons: Quantum Technology Could Stimulate Human Cognitive Evolution&quot;](https://news.ycombinator.com/item?id=43950927)
-- [&quot;Human-AI Symbiosis: The Future of Technological Evolution?](https://news.ycombinator.com/item?id=43950917)
-- [Distributism](https://en.wikipedia.org/wiki/Distributism)
-- [Quebec riding flips to Liberals after recount shows candidate won by single vote](https://www.cbc.ca/news/politics/terrebone-recount-liberal-1.7532136)
-- [Fixing Telnet Fixes &lpar;2019&rpar;](https://flak.tedunangst.com/post/fixing-telnet-fixes)
-- [Queen of the Lakes](https://en.wikipedia.org/wiki/Queen_of_the_Lakes)
-- [The AUCTUS A6: the chip enabling inexpensive DMR Radio &lpar;2021&rpar;](https://jhart99.com/auctus-a6/)
+- [Behind the Scenes: Building a Robust Ads Event Processing Pipeline](https://netflixtechblog.com/behind-the-scenes-building-a-robust-ads-event-processing-pipeline-e4e86caf9249)
+- [Show HN: HunyuanCustom Is Available on WaveSpeedAI](https://wavespeed.ai/models/wavespeed-ai/hunyuan-custom-ref2v-480p)
+- [Trump fires head of Copyright Office after rpt AI training may not be fair use](https://www.theverge.com/news/664768/trump-fires-us-copyright-office-head)
+- [Sysinternals Utilities Index](https://learn.microsoft.com/en-us/sysinternals/downloads/)
+- [Patterns, Samples, and Artificial Knowledge – The AI Understander Has Logged On](https://mitch.website/blog/synthesis/)
+- [A site for asking religion and life questions](https://www.ask-sephira.com/chat)
+- [Anger – Why does Linus Torvalds get so mad at code? Why do I?](https://mitch.website/blog/anger/)
+- [PickleBerry: A TUI based file manager written as a shell script](https://github.com/ekahPruthvi/pickle_berry)
+- [The Academic Pipeline Stall: Why Industry Must Stand for Academia](https://www.sigarch.org/the-academic-pipeline-stall-why-industry-must-stand-for-academia/)
+- [Tech debt can&#39;t be solved as a roadmap item](https://software.rajivprab.com/2025/05/10/tech-debt-cant-be-solved-as-a-roadmap-item/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Behind the Scenes: Building a Robust Ads Event Processing Pipeline](https://netflixtechblog.com/behind-the-scenes-building-a-robust-ads-event-processing-pipeline-e4e86caf9249)
-- [Show HN: HunyuanCustom Is Available on WaveSpeedAI](https://wavespeed.ai/models/wavespeed-ai/hunyuan-custom-ref2v-480p)
-- [Trump fires head of Copyright Office after rpt AI training may not be fair use](https://www.theverge.com/news/664768/trump-fires-us-copyright-office-head)
-- [Sysinternals Utilities Index](https://learn.microsoft.com/en-us/sysinternals/downloads/)
-- [Patterns, Samples, and Artificial Knowledge – The AI Understander Has Logged On](https://mitch.website/blog/synthesis/)
-- [A site for asking religion and life questions](https://www.ask-sephira.com/chat)
-- [Anger – Why does Linus Torvalds get so mad at code? Why do I?](https://mitch.website/blog/anger/)
-- [PickleBerry: A TUI based file manager written as a shell script](https://github.com/ekahPruthvi/pickle_berry)
-- [The Academic Pipeline Stall: Why Industry Must Stand for Academia](https://www.sigarch.org/the-academic-pipeline-stall-why-industry-must-stand-for-academia/)
-- [Tech debt can&#39;t be solved as a roadmap item](https://software.rajivprab.com/2025/05/10/tech-debt-cant-be-solved-as-a-roadmap-item/)
+- [Kotlin&#39;s Compose UI Framework Is Now Stable for iOS Apps &lpar;Blog.jetbrains.com&rpar;](https://blog.jetbrains.com/kotlin/2025/05/kodees-kotlin-roundup-compose-multiplatform-for-ios-is-stable/)
+- [Rivian Just Unlocked Another $1B from Volkswagen](https://insideevs.com/news/758774/rivian-volkswagen-deal-gross-profit/)
+- [Psychedelics can help with phantom limb pain](https://psychedelirium.substack.com/p/pain-without-a-body-psychedelics)
+- [O4-mini vs. Claude 3.7 vs. Gemini 2.5 Pro on code generation](https://wandb.ai/byyoung3/Generative-AI/reports/Evaluating-o4-mini-vs-Claude-3-7-vs-Gemini-2-5-Pro-on-code-generation--VmlldzoxMjY1NjQ1OA)
+- [Deep dive into the challenges of building Kafka on top of S3](https://blog.det.life/deep-dive-into-the-challenges-of-building-kafka-on-top-of-s3-37a5c5eb9c0b)
+- [Show HN: Open-source MMORPG prototype inspired by World of Warcraft](http://everwilds.io/)
+- [Show HN: A game about making machines](https://old.reddit.com/r/indiegames/comments/1kl79un/a_game_about_creating_machines/)
+- [Show HN: RevGrow – AI Revenue Growth Strategies No Manual Analysis](https://revgrowai.com/home)
+- [Gilded ROG Astral RTX 5090 Dhahab Edition features actual 24k gold](https://www.tomshardware.com/pc-components/gpus/this-gilded-rog-astral-rtx-5090-dhahab-edition-features-actual-24k-gold-and-could-set-you-back-usd10-000)
+- [I developed an AI clothing-changing tool. Would you like to take a look?](https://www.aioutfitgen.com)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

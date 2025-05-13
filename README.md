@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Trump says planned gift of luxury plane from Qatar is a very ‘transparent’ deal](https://www.theguardian.com/us-news/2025/may/11/trump-accept-luxury-plane-gift-qatar)
-- [In The Hague, Rodrigo Duterte faces trial, but in Davao he is the top pick for mayor](https://www.theguardian.com/world/2025/may/11/in-davao-rodrigo-duterte-is-represented-by-a-cardboard-cutout-but-he-is-still-the-top-pick-for-mayor)
-- [Philippines elections 2025: polls open in midterms as Marcos and Duterte family dynasties vie for power](https://www.theguardian.com/world/2025/may/12/philippines-election-2025-midterms-voting-results-marcos-duterte)
-- [Trump administration offers refugee status to 49 white South Africans](https://www.theguardian.com/us-news/2025/may/11/trump-administration-south-african-refugees)
-- [Less than 1% of UK biosecurity budget goes on tackling invasive species, figures show](https://www.theguardian.com/environment/2025/may/12/less-than-1-of-uk-biosecurity-budget-goes-on-tackling-invasive-species-figures-show)
-- [NHS scheme to prevent brain injuries in childbirth extended across England](https://www.theguardian.com/society/2025/may/12/nhs-scheme-to-prevent-brain-injuries-in-childbirth-extended-across-england)
-- [Eighty percent of England’s peatlands are dry and degraded, mapping shows](https://www.theguardian.com/environment/2025/may/12/eighty-percent-of-englands-peatlands-are-dry-and-degraded-mapping-shows)
-- [Staff layoffs in UK gain pace amid Trump tariff turmoil and labour cost increases](https://www.theguardian.com/business/2025/may/12/staff-layoffs-in-uk-gain-pace-amid-trump-tariff-turmoil-and-labour-cost-increases)
-- [Weight-loss jabs could halve risk of obesity-related cancers, study finds](https://www.theguardian.com/society/2025/may/11/weight-loss-jabs-could-halve-risk-of-obesity-related-cancers-study-finds)
-- [English test among range of Labour measures to control immigration](https://www.theguardian.com/uk-news/2025/may/11/english-test-among-range-of-labour-measures-to-control-immigration)
+- [UN body rules Russia responsible for downing of flight MH17 prompting calls for compensation](https://www.theguardian.com/world/2025/may/13/flight-mh17-russia-responsible-un-aviation-council-icao-rules)
+- [A year after deadly riots, New Caledonia’s president vows to address push for independence](https://www.theguardian.com/world/2025/may/13/new-caledonia-riots-one-year-on-president-alcide-ponga)
+- [Sussan Ley elected first female Liberal party leader, narrowly defeating Angus Taylor in ballot](https://www.theguardian.com/australia-news/2025/may/13/sussan-ley-liberal-party-leader-leadership-vote-contest)
+- [Ukraine war briefing: Next stop Istanbul after Trump scatters ceasefire choreography](https://www.theguardian.com/world/2025/may/13/ukraine-war-briefing-next-stop-istanbul-after-trump-scatters-ceasefire-choreography)
+- [Three climbers die after falling down ravine in Washington national park](https://www.theguardian.com/us-news/2025/may/12/north-cascade-national-park-climbing-fall)
+- [Biden destroyed Harris bid by staying in race too long, top adviser says in book](https://www.theguardian.com/us-news/2025/may/12/biden-harris-david-plouffe-book)
+- [Warm weather and Easter weekend boosted UK spending in April, says Barclays](https://www.theguardian.com/business/2025/may/13/warm-weather-and-easter-weekend-boosted-uk-spending-in-april-says-barclays)
+- [Pension funds ‘to unlock up to £50bn’ of investment, with half for UK firms](https://www.theguardian.com/business/2025/may/13/uk-pension-funds-investment-british-firms-mansion-house-accord)
+- [Sean Penn says he’d work with Woody Allen again ‘in a heartbeat’](https://www.theguardian.com/film/2025/may/13/sean-penn-woody-allen-louis-theroux-podcast-donald-trump-elon-musk)
+- [Reeves’s Mansion House accord on pension funds is long on virtue-signalling | Nils Pratley](https://www.theguardian.com/business/nils-pratley-on-finance/2025/may/13/reeves-mansion-house-accord-pension-funds)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

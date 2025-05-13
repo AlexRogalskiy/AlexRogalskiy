@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Intellect-2 Release: The First 32B Model Trained Through Globally Distributed RL](https://www.primeintellect.ai/blog/intellect-2-release)
-- [Avoiding AI is hard – but our freedom to opt out must be protected](https://theconversation.com/avoiding-ai-is-hard-but-our-freedom-to-opt-out-must-be-protected-255873)
-- [I hacked my clock to control my focus](https://www.paepper.com/blog/posts/how-i-hacked-my-clock-to-control-my-focus.md/)
-- [Why Bell Labs Worked](https://1517.substack.com/p/why-bell-labs-worked)
-- [Burrito Now, Pay Later](https://enterprisevalue.substack.com/p/burrito-now-pay-later)
-- [ToyDB rewritten: a distributed SQL database in Rust, for education](https://github.com/erikgrinaker/toydb)
-- [Scraperr – A Self Hosted Webscraper](https://github.com/jaypyles/Scraperr)
-- [Car companies are in a billion-dollar software war](https://insideevs.com/features/759153/car-companies-software-companies/)
-- [LSP client in Clojure in 200 lines of code](https://vlaaad.github.io/lsp-client-in-200-lines-of-code)
-- [Klarna changes its AI tune and again recruits humans for customer service](https://www.customerexperiencedive.com/news/klarna-reinvests-human-talent-customer-service-AI-chatbot/747586/)
+- [FastVLM: Dramatically Faster Vision Language Model from Apple](https://github.com/apple/ml-fastvlm)
+- [FedRAMP 20x – One Month in and Moving Fast](https://www.fedramp.gov/2025-04-24-fedramp-20x-one-month-in-and-moving-fast/)
+- [Understanding LucasArts&#39; iMUSE System](https://github.com/meshula/LabMidi/blob/main/LabMuse/imuse-technical.md)
+- [Wtfis: Passive hostname, domain and IP lookup tool for non-robots](https://github.com/pirxthepilot/wtfis)
+- [A conversation about AI for science with Jason Pruet](https://www.lanl.gov/media/publications/1663/0125-qa-jason-pruet)
+- [Build your own Siri locally and on-device](https://thehyperplane.substack.com/p/build-your-own-siri-locally-on-device)
+- [Show HN: Lumoar – Free SOC 2 tool for SaaS startups](https://www.lumoar.com)
+- [Can you trust that permission pop-up on macOS?](https://wts.dev/posts/tcc-who/)
+- [HealthBench – An evaluation for AI systems and human health](https://openai.com/index/healthbench/)
+- [Legion Health &lpar;YC S21&rpar; is hiring engineers to help fix mental health with AI](https://www.workatastartup.com/jobs/75011)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

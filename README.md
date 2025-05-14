@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [FastVLM: Dramatically Faster Vision Language Model from Apple](https://github.com/apple/ml-fastvlm)
-- [FedRAMP 20x – One Month in and Moving Fast](https://www.fedramp.gov/2025-04-24-fedramp-20x-one-month-in-and-moving-fast/)
-- [Understanding LucasArts&#39; iMUSE System](https://github.com/meshula/LabMidi/blob/main/LabMuse/imuse-technical.md)
-- [Wtfis: Passive hostname, domain and IP lookup tool for non-robots](https://github.com/pirxthepilot/wtfis)
-- [A conversation about AI for science with Jason Pruet](https://www.lanl.gov/media/publications/1663/0125-qa-jason-pruet)
-- [Build your own Siri locally and on-device](https://thehyperplane.substack.com/p/build-your-own-siri-locally-on-device)
-- [Show HN: Lumoar – Free SOC 2 tool for SaaS startups](https://www.lumoar.com)
-- [Can you trust that permission pop-up on macOS?](https://wts.dev/posts/tcc-who/)
-- [HealthBench – An evaluation for AI systems and human health](https://openai.com/index/healthbench/)
-- [Legion Health &lpar;YC S21&rpar; is hiring engineers to help fix mental health with AI](https://www.workatastartup.com/jobs/75011)
+- [I failed a take-home assignment from Kagi Search](https://bloggeroo.dev/articles/202504031434)
+- [Replicube: A puzzle game about writing code to create shapes](https://store.steampowered.com/app/3401490/Replicube/)
+- [DeepSeek’s founder is threatening US dominance in AI race](https://www.bloomberg.com/news/features/2025-05-13/deepseek-races-after-chatgpt-as-china-s-ai-industry-soars)
+- [Map of Palaeohispanic Coins and Inscriptions](http://hesperia.ucm.es/consulta_hesperia/mapas.php)
+- [Fingers wrinkle the same way every time they’re in the water too long](https://www.binghamton.edu/news/story/5547/do-your-fingers-wrinkle-the-same-way-every-time-youre-in-the-water-too-long-new-research-says-yes)
+- [Flattening Rust&#39;s learning curve](https://corrode.dev/blog/flattening-rusts-learning-curve/)
+- [Type-constrained code generation with language models](https://arxiv.org/abs/2504.09246)
+- [How &lpar;memory&rpar; safe is Zig? &lpar;2021&rpar;](https://www.scattered-thoughts.net/writing/how-safe-is-zig/)
+- [Cardiac: A CARDboard Illustrative Aid to Computation [pdf]](https://www.cs.drexel.edu/~bls96/museum/CARDIAC_manual.pdf)
+- [Using obscure graph theory to solve programming languages problems](https://reasonablypolymorphic.com/blog/solving-lcsa/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [UN body rules Russia responsible for downing of flight MH17 prompting calls for compensation](https://www.theguardian.com/world/2025/may/13/flight-mh17-russia-responsible-un-aviation-council-icao-rules)
-- [A year after deadly riots, New Caledonia’s president vows to address push for independence](https://www.theguardian.com/world/2025/may/13/new-caledonia-riots-one-year-on-president-alcide-ponga)
-- [Sussan Ley elected first female Liberal party leader, narrowly defeating Angus Taylor in ballot](https://www.theguardian.com/australia-news/2025/may/13/sussan-ley-liberal-party-leader-leadership-vote-contest)
-- [Ukraine war briefing: Next stop Istanbul after Trump scatters ceasefire choreography](https://www.theguardian.com/world/2025/may/13/ukraine-war-briefing-next-stop-istanbul-after-trump-scatters-ceasefire-choreography)
-- [Three climbers die after falling down ravine in Washington national park](https://www.theguardian.com/us-news/2025/may/12/north-cascade-national-park-climbing-fall)
-- [Biden destroyed Harris bid by staying in race too long, top adviser says in book](https://www.theguardian.com/us-news/2025/may/12/biden-harris-david-plouffe-book)
-- [Warm weather and Easter weekend boosted UK spending in April, says Barclays](https://www.theguardian.com/business/2025/may/13/warm-weather-and-easter-weekend-boosted-uk-spending-in-april-says-barclays)
-- [Pension funds ‘to unlock up to £50bn’ of investment, with half for UK firms](https://www.theguardian.com/business/2025/may/13/uk-pension-funds-investment-british-firms-mansion-house-accord)
-- [Sean Penn says he’d work with Woody Allen again ‘in a heartbeat’](https://www.theguardian.com/film/2025/may/13/sean-penn-woody-allen-louis-theroux-podcast-donald-trump-elon-musk)
-- [Reeves’s Mansion House accord on pension funds is long on virtue-signalling | Nils Pratley](https://www.theguardian.com/business/nils-pratley-on-finance/2025/may/13/reeves-mansion-house-accord-pension-funds)
+- [Erin Patterson murder trial live: mushroom experts give evidence on day 11 of alleged triple murder case](https://www.theguardian.com/australia-news/live/2025/may/14/erin-patterson-trial-live-witness-stand-court-day-11-alleged-mushroom-case-ntwnfb)
+- [Ukraine war briefing: Europe ready with sanctions if no ceasefire after Istanbul talks](https://www.theguardian.com/world/2025/may/14/ukraine-war-briefing-europe-ready-with-sanctions-if-no-ceasefire-after-istanbul-talks)
+- [Rohan Dennis given two-year suspended sentence after car crash that killed wife Melissa Hoskins](https://www.theguardian.com/australia-news/2025/may/14/melissa-hoskins-death-rohan-dennis-sentence-ntwnfb)
+- [California judge resentences Menendez brothers to be eligible for parole](https://www.theguardian.com/us-news/2025/may/13/menendez-brothers-california-judge)
+- [NHS medical negligence liabilities hit £58.2bn amid calls to improve patient safety](https://www.theguardian.com/society/2025/may/14/nhs-medical-negligence-liabilities-hit-582bn-amid-calls-to-improve-patient-safety)
+- [Major Whitehall buildings to be shut to shed 12,000 civil servant jobs in London](https://www.theguardian.com/politics/2025/may/14/major-whitehall-buildings-to-be-shut-to-shed-12000-civil-servant-jobs-in-london)
+- [UK government to launch AI tool to speed up public consultations](https://www.theguardian.com/technology/2025/may/14/uk-government-ai-consult-consultation)
+- [The Comedy About Spies review – rapid fire gags in a delightfully silly show](https://www.theguardian.com/stage/2025/may/14/the-comedy-about-spies-review-rapid-fire-gags-in-a-delightfully-silly-show)
+- [Nottingham Forest’s Taiwo Awoniyi placed in induced coma after surgery](https://www.theguardian.com/football/2025/may/13/nottingham-forest-taiwo-awoniyi-placed-induced-coma-after-abdominal-surgery)
+- [Dairy companies ‘turning blind eye’ to global methane emissions, report suggests](https://www.theguardian.com/environment/2025/may/13/dairy-companies-methane-emissions-climate-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

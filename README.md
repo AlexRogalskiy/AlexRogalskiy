@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Kotlin&#39;s Compose UI Framework Is Now Stable for iOS Apps &lpar;Blog.jetbrains.com&rpar;](https://blog.jetbrains.com/kotlin/2025/05/kodees-kotlin-roundup-compose-multiplatform-for-ios-is-stable/)
-- [Rivian Just Unlocked Another $1B from Volkswagen](https://insideevs.com/news/758774/rivian-volkswagen-deal-gross-profit/)
-- [Psychedelics can help with phantom limb pain](https://psychedelirium.substack.com/p/pain-without-a-body-psychedelics)
-- [O4-mini vs. Claude 3.7 vs. Gemini 2.5 Pro on code generation](https://wandb.ai/byyoung3/Generative-AI/reports/Evaluating-o4-mini-vs-Claude-3-7-vs-Gemini-2-5-Pro-on-code-generation--VmlldzoxMjY1NjQ1OA)
-- [Deep dive into the challenges of building Kafka on top of S3](https://blog.det.life/deep-dive-into-the-challenges-of-building-kafka-on-top-of-s3-37a5c5eb9c0b)
-- [Show HN: Open-source MMORPG prototype inspired by World of Warcraft](http://everwilds.io/)
-- [Show HN: A game about making machines](https://old.reddit.com/r/indiegames/comments/1kl79un/a_game_about_creating_machines/)
-- [Show HN: RevGrow – AI Revenue Growth Strategies No Manual Analysis](https://revgrowai.com/home)
-- [Gilded ROG Astral RTX 5090 Dhahab Edition features actual 24k gold](https://www.tomshardware.com/pc-components/gpus/this-gilded-rog-astral-rtx-5090-dhahab-edition-features-actual-24k-gold-and-could-set-you-back-usd10-000)
-- [I developed an AI clothing-changing tool. Would you like to take a look?](https://www.aioutfitgen.com)
+- [Anyone want me to build them a pricing calculator?](https://news.ycombinator.com/item?id=43980255)
+- [Tesla Optimus Dancing](https://twitter.com/Tesla_Optimus/status/1922456791549427867)
+- [Go and SQLite and Htmx and Scaffolding](https://github.com/walterwanderley/sqlc-http/blob/main/_examples/authors/sqlite-frontend/README.md)
+- [China&#39;s bullet-shape satellite future for low orbit surveillance network](https://www.scmp.com/news/china/science/article/3310148/chinas-bullet-shape-satellite-test-paves-way-very-low-orbit-surveillance-network)
+- [The Fastest Way yet to Color Graphs](https://www.quantamagazine.org/the-fastest-way-yet-to-color-graphs-20250512/)
+- [Is the US on track to build a high-speed rail network?](https://www.bbc.com/news/articles/cze1erz9jxko)
+- [I failed a take-home assignment from Kagi Search](https://bloggeroo.dev/articles/202504031434)
+- [Smolvlm – Realtime Vision Language Model Demo](https://github.com/ngxson/smolvlm-realtime-webcam)
+- [Towards React Server Components in Clojure, Part 2](https://romanliutikov.com/blog/towards-react-server-components-in-clojure-part-2)
+- [DEI-TY Screenprint – 2 Colorways Available Thursday, May 15th at 10am PT!](https://obeygiant.com/dei-ty-screenprint-2-colorways-available-thursday-may-15th-at-10am-pt/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [I failed a take-home assignment from Kagi Search](https://bloggeroo.dev/articles/202504031434)
-- [Replicube: A puzzle game about writing code to create shapes](https://store.steampowered.com/app/3401490/Replicube/)
-- [DeepSeek’s founder is threatening US dominance in AI race](https://www.bloomberg.com/news/features/2025-05-13/deepseek-races-after-chatgpt-as-china-s-ai-industry-soars)
-- [Map of Palaeohispanic Coins and Inscriptions](http://hesperia.ucm.es/consulta_hesperia/mapas.php)
-- [Fingers wrinkle the same way every time they’re in the water too long](https://www.binghamton.edu/news/story/5547/do-your-fingers-wrinkle-the-same-way-every-time-youre-in-the-water-too-long-new-research-says-yes)
-- [Flattening Rust&#39;s learning curve](https://corrode.dev/blog/flattening-rusts-learning-curve/)
-- [Type-constrained code generation with language models](https://arxiv.org/abs/2504.09246)
-- [How &lpar;memory&rpar; safe is Zig? &lpar;2021&rpar;](https://www.scattered-thoughts.net/writing/how-safe-is-zig/)
-- [Cardiac: A CARDboard Illustrative Aid to Computation [pdf]](https://www.cs.drexel.edu/~bls96/museum/CARDIAC_manual.pdf)
-- [Using obscure graph theory to solve programming languages problems](https://reasonablypolymorphic.com/blog/solving-lcsa/)
+- [Human](https://quarter--mile.com/Human)
+- [LLMs Get Lost in Multi-Turn Conversation](https://arxiv.org/abs/2505.06120)
+- [MicroPython v1.25.0](https://github.com/micropython/micropython/releases/tag/v1.25.0)
+- [Show HN: YapCards &lpar;iOS&rpar; – Voice-driven flashcards with AI feedback](https://news.ycombinator.com/item?id=43990868)
+- [Why agency and cognition are fundamentally not computational](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1362658/full)
+- [Migrating to Postgres](https://engineering.usemotion.com/migrating-to-postgres-3c93dff9c65d)
+- [StackAI &lpar;YC W23&rpar; Is Hiring Pydantic and FastAPI Wizard](https://www.ycombinator.com/companies/stackai/jobs/8nYnmlN-backend-engineer)
+- [Show HN: Semantic Calculator &lpar;king-man+woman=?&rpar;](https://calc.datova.ai)
+- [Show HN: Muscle-Mem, a behavior cache for AI agents](https://github.com/pig-dot-dev/muscle-mem)
+- [Smalltalk-78 Xerox NoteTaker in-browser emulator](https://smalltalkzoo.thechm.org/users/bert/Smalltalk-78.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

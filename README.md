@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Human](https://quarter--mile.com/Human)
-- [LLMs Get Lost in Multi-Turn Conversation](https://arxiv.org/abs/2505.06120)
-- [MicroPython v1.25.0](https://github.com/micropython/micropython/releases/tag/v1.25.0)
-- [Show HN: YapCards &lpar;iOS&rpar; – Voice-driven flashcards with AI feedback](https://news.ycombinator.com/item?id=43990868)
-- [Why agency and cognition are fundamentally not computational](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1362658/full)
-- [Migrating to Postgres](https://engineering.usemotion.com/migrating-to-postgres-3c93dff9c65d)
-- [StackAI &lpar;YC W23&rpar; Is Hiring Pydantic and FastAPI Wizard](https://www.ycombinator.com/companies/stackai/jobs/8nYnmlN-backend-engineer)
-- [Show HN: Semantic Calculator &lpar;king-man+woman=?&rpar;](https://calc.datova.ai)
-- [Show HN: Muscle-Mem, a behavior cache for AI agents](https://github.com/pig-dot-dev/muscle-mem)
-- [Smalltalk-78 Xerox NoteTaker in-browser emulator](https://smalltalkzoo.thechm.org/users/bert/Smalltalk-78.html)
+- [Cracked - method chaining/CSS-style selector web audio library](https://github.com/billorcutt/i_dropped_my_phone_the_screen_cracked)
+- [I was a Theranos whistleblower. Here&#39;s what I think Elizabeth Holmes is up to](https://www.statnews.com/2025/05/15/theranos-whistleblower-tyler-shultz-commentary-elizabeth-holmes-billy-evans-haemanthus-startup/)
+- [Teal – A statically-typed dialect of Lua](https://teal-language.org/)
+- [Sitting for a long time shrinks your brain even if you exercise](https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.70157)
+- [NASA keeps ancient Voyager 1 spacecraft alive with Hail Mary thruster fix](https://www.theregister.com/2025/05/15/voyager_1_survives_with_thruster_fix/)
+- [A leap year check in three instructions](https://hueffner.de/falk/blog/a-leap-year-check-in-three-instructions.html)
+- [Initialization in C++ is bonkers &lpar;2017&rpar;](https://blog.tartanllama.xyz/initialization-is-bonkers/)
+- [Tek – A music making program for 24-bit Unicode terminals](https://codeberg.org/unspeaker/tek)
+- [The unreasonable effectiveness of an LLM agent loop with tool use](https://sketch.dev/blog/agent-loop)
+- [Refactoring Clojure](https://www.orsolabs.com/post/refactoring-clojure-1/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

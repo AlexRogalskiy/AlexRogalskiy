@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Mushroom trial live: child protection worker tells court Erin Patterson said she felt ‘isolated’ from in-laws and said estranged husband was ‘controlling’](https://www.theguardian.com/australia-news/live/2025/may/15/erin-patterson-trial-live-alleged-mushroom-murder-case-austarlian-woman-day-12-ntwnfb)
-- [New Zealand MPs who performed haka in parliament given unprecedented punishment](https://www.theguardian.com/world/2025/may/15/new-zealand-mps-haka-parliament-suspended)
-- [Musk’s AI Grok bot rants about ‘white genocide’ in South Africa in unrelated chats](https://www.theguardian.com/technology/2025/may/14/elon-musk-grok-white-genocide)
-- [London dominates England’s social mobility league with top 20 places](https://www.theguardian.com/society/2025/may/15/london-dominates-englands-social-mobility-league-with-top-20-places)
-- [UK urged not to exploit poor countries in rush for critical minerals](https://www.theguardian.com/business/2025/may/15/uk-urged-not-to-exploit-poor-countries-in-rush-for-critical-minerals)
-- [Mike Lynch’s superyacht sank in high winds, says report](https://www.theguardian.com/world/2025/may/15/mike-lynchs-superyacht-sank-in-high-winds-says-report)
-- [Royal Navy commander removed from job over sexual allegations](https://www.theguardian.com/uk-news/2025/may/14/royal-navy-commander-removed-from-role-less-than-three-months-into-post)
-- [Armed police shoot man suspected of double stabbing in Merseyside](https://www.theguardian.com/uk-news/2025/may/14/man-suspected-of-double-stabbing-shot-by-armed-police-in-merseyside)
-- [Two Prosecutors review – a petrifying portrait of Stalinist insurrection](https://www.theguardian.com/film/2025/may/14/two-prosecutors-review-a-petrifying-portrait-of-stalinist-insurrection)
-- [RFK Jr orders mifepristone review as anti-abortion groups push for ban](https://www.theguardian.com/us-news/2025/may/14/rfk-jr-fda-abortion-pill-mifepristone)
+- [James Comey investigated over seashell photo claimed to be ‘threat’ against Trump](https://www.theguardian.com/us-news/2025/may/15/james-comey-instagram-trump)
+- [Ukraine war briefing: Putin stays home and fires a general instead of peace talks](https://www.theguardian.com/world/2025/may/16/ukraine-war-briefing-putin-stays-home-and-fires-a-general-instead-of-peace-talks)
+- [I want a relationship, not out of love or passion, but out of fear of the future. Is this selfish? | Leading questions](https://www.theguardian.com/lifeandstyle/2025/may/16/i-want-a-relationship-not-out-of-love-or-passion-but-out-of-fear-of-the-future-is-this-selfish)
+- [Police raid Oregon safari park amid reports of starving lions and dead tiger left for months](https://www.theguardian.com/us-news/2025/may/15/oregon-safari-park-police-raid)
+- [Rory McIlroy struggles with driver as debutant Gerard makes fast start to US PGA](https://www.theguardian.com/sport/2025/may/15/rory-mcilroy-struggles-with-driver-as-debutant-gerard-makes-fast-start-to-us-pga)
+- [London police search for teenagers after kittens found ‘mutilated’](https://www.theguardian.com/uk-news/2025/may/16/london-police-search-for-teenagers-after-kittens-found-mutilated)
+- [Aspinall wins night 15 while Littler secures top seeding for Premier League playoffs](https://www.theguardian.com/sport/2025/may/16/aspinall-wins-night-15-while-littler-secures-top-seeding-for-premier-league-playoffs)
+- [Wealthy Britons avoiding more tax than thought, spending watchdog says](https://www.theguardian.com/business/2025/may/16/wealthy-britons-avoiding-more-tax-than-thought-spending-watchdog-says)
+- [Delay farmer inheritance tax changes ‘to allow for better formulation’, say MPs](https://www.theguardian.com/environment/2025/may/16/delay-farmer-inheritance-tax-changes-to-allow-for-better-formulation-say-mps)
+- [Premier League and FA Cup final: 10 things to look out for this weekend](https://www.theguardian.com/football/2025/may/16/premier-league-and-fa-cup-final-10-things-to-look-out-for-this-weekend)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

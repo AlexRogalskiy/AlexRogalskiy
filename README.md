@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Human](https://quarter--mile.com/Human)
-- [Chinese weapons pass combat test in India-Pakistan clash](https://www.france24.com/en/asia-pacific/20250514-chinese-weapons-pass-combat-test-in-india-pakistan-clash-%E2%80%93-with-flying-colours)
-- [Bypassing Hallucinations in LLMs](https://elijahpotter.dev/articles/bypassing_hallucinations_in_llms)
-- [Red Hat Enterprise Linux 10 Reaches GA](https://www.phoronix.com/news/Red-Hat-RHEL-10-GA)
-- [Turn Screen Caps into Guides](https://meetzi.app)
-- [Volonaut Airbike – Welcome to the Future of Mobility](https://volonaut.com)
-- [For Seven Days, Yale&#39;s Campus Had a Facemash-Esque Social Leaderboard](https://www.readfeedme.com/p/for-seven-days-yales-campus-had-a)
-- [Bench Shirt](https://en.wikipedia.org/wiki/Bench_shirt)
-- [Beyond qubits: Meet the qutrit &lpar;and ququart&rpar;](https://arstechnica.com/science/2025/05/beyond-qubits-meet-the-qutrit-and-ququart/)
-- [ChatGPT Turned into a Studio Ghibli Machine. How Is That Legal?](https://www.theatlantic.com/technology/archive/2025/05/openai-studio-ghibli-images/682791/)
+- [eBPF Arena: A Tutorial](https://fshahinfar1.github.io/blog/04_ebpf_arena/build/blog.html)
+- [Where are Voyager 1 and Voyager 2 Now](https://science.nasa.gov/mission/voyager/where-are-voyager-1-and-voyager-2-now/)
+- [Building a Smart Morning Routine Dashboard &lpar;From a Jailbroken Lululemon Mirror&rpar;](https://www.youtube.com/watch?v=y8dx7ZimArc)
+- [Web-based 3D shape creator powered by hand gestures](https://gmujtaba.com/thenos-shape/)
+- [Windsurf launches SWE-1, its first family of software engineering AI models](https://windsurf.com/blog/windsurf-wave-9-swe-1)
+- [Wan2.1VACE is coming soon to WaveSpeed–get ready for next-level video generation](https://twitter.com/wavespeed_ai/status/1922661247100542986)
+- [Cracked - method chaining/CSS-style selector web audio library](https://github.com/billorcutt/i_dropped_my_phone_the_screen_cracked)
+- [The Limits of React Server Components: A Practitioner&#39;s Journey](https://www.nirtamir.com/articles/the-limits-of-rsc-a-practitioners-journey/)
+- [Startups powering the future of energy in Europe and Israel](https://blog.google/outreach-initiatives/entrepreneurs/startups-powering-the-future-of-energy-in-europe-israel/)
+- [Non-Event Feedback Loops](http://blog.alpineinstitute.com/2011/03/non-event-feedback-loops.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

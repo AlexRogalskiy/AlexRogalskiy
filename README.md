@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [eBPF Arena: A Tutorial](https://fshahinfar1.github.io/blog/04_ebpf_arena/build/blog.html)
-- [Where are Voyager 1 and Voyager 2 Now](https://science.nasa.gov/mission/voyager/where-are-voyager-1-and-voyager-2-now/)
-- [Building a Smart Morning Routine Dashboard &lpar;From a Jailbroken Lululemon Mirror&rpar;](https://www.youtube.com/watch?v=y8dx7ZimArc)
-- [Web-based 3D shape creator powered by hand gestures](https://gmujtaba.com/thenos-shape/)
-- [Windsurf launches SWE-1, its first family of software engineering AI models](https://windsurf.com/blog/windsurf-wave-9-swe-1)
-- [Wan2.1VACE is coming soon to WaveSpeed–get ready for next-level video generation](https://twitter.com/wavespeed_ai/status/1922661247100542986)
-- [Cracked - method chaining/CSS-style selector web audio library](https://github.com/billorcutt/i_dropped_my_phone_the_screen_cracked)
-- [The Limits of React Server Components: A Practitioner&#39;s Journey](https://www.nirtamir.com/articles/the-limits-of-rsc-a-practitioners-journey/)
-- [Startups powering the future of energy in Europe and Israel](https://blog.google/outreach-initiatives/entrepreneurs/startups-powering-the-future-of-energy-in-europe-israel/)
-- [Non-Event Feedback Loops](http://blog.alpineinstitute.com/2011/03/non-event-feedback-loops.html)
+- [Free Chapter of AI/ML Encyclopedia with Comics and Case Studies](https://github.com/Rezar/MLBook)
+- [Outlook stores email in Microsoft Cloud – what you need to know](https://blog.runbox.com/2025/05/outlook-stores-email-in-microsoft-cloud-what-you-need-to-know/)
+- [Big Tech takes a harder line against worker activism, political dissent](https://www.washingtonpost.com/technology/2025/05/16/silicon-valley-workers-dissent-employment-layoffs-whistleblowers/)
+- [Using unwrap&lpar;&rpar; in Rust is Okay](https://burntsushi.net/unwrap/)
+- [My favourite fonts to use with LaTeX &lpar;2022&rpar;](https://www.lfe.pt/latex/fonts/typography/2022/11/21/latex-fonts-part1.html)
+- [Cold War Missile Silo for Sale in Washington](https://boundlessestates.com/underground-bunker-missile-silo-for-sale-washington/lGoBDCkw_aem__Uzi_pnKElUN1WMNy73V5A)
+- [A Linux kernel developer plays with Home Assistant: general impressions](https://lwn.net/SubscriberLink/1017720/7155ecb9602e9ef2/)
+- [The Airbnb 2025 Summer Release](https://www.youtube.com/watch?v=wMo0IOsxU_8)
+- [Behind Silicon Valley and the GOP&#39;s campaign to ban state AI laws](https://www.bloodinthemachine.com/p/de-democratizing-ai)
+- [Ask HN: Anyone working in traditional ML/stats research instead of LLMs?](https://news.ycombinator.com/item?id=44011645)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

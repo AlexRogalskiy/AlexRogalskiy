@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [James Comey investigated over seashell photo claimed to be ‘threat’ against Trump](https://www.theguardian.com/us-news/2025/may/15/james-comey-instagram-trump)
-- [Ukraine war briefing: Putin stays home and fires a general instead of peace talks](https://www.theguardian.com/world/2025/may/16/ukraine-war-briefing-putin-stays-home-and-fires-a-general-instead-of-peace-talks)
-- [I want a relationship, not out of love or passion, but out of fear of the future. Is this selfish? | Leading questions](https://www.theguardian.com/lifeandstyle/2025/may/16/i-want-a-relationship-not-out-of-love-or-passion-but-out-of-fear-of-the-future-is-this-selfish)
-- [Police raid Oregon safari park amid reports of starving lions and dead tiger left for months](https://www.theguardian.com/us-news/2025/may/15/oregon-safari-park-police-raid)
-- [Rory McIlroy struggles with driver as debutant Gerard makes fast start to US PGA](https://www.theguardian.com/sport/2025/may/15/rory-mcilroy-struggles-with-driver-as-debutant-gerard-makes-fast-start-to-us-pga)
-- [London police search for teenagers after kittens found ‘mutilated’](https://www.theguardian.com/uk-news/2025/may/16/london-police-search-for-teenagers-after-kittens-found-mutilated)
-- [Aspinall wins night 15 while Littler secures top seeding for Premier League playoffs](https://www.theguardian.com/sport/2025/may/16/aspinall-wins-night-15-while-littler-secures-top-seeding-for-premier-league-playoffs)
-- [Wealthy Britons avoiding more tax than thought, spending watchdog says](https://www.theguardian.com/business/2025/may/16/wealthy-britons-avoiding-more-tax-than-thought-spending-watchdog-says)
-- [Delay farmer inheritance tax changes ‘to allow for better formulation’, say MPs](https://www.theguardian.com/environment/2025/may/16/delay-farmer-inheritance-tax-changes-to-allow-for-better-formulation-say-mps)
-- [Premier League and FA Cup final: 10 things to look out for this weekend](https://www.theguardian.com/football/2025/may/16/premier-league-and-fa-cup-final-10-things-to-look-out-for-this-weekend)
+- [Trump accuses former FBI director of calling for his killing through coded picture](https://www.theguardian.com/us-news/2025/may/16/james-comey-investigation-8647-trump)
+- [Four people killed by St Louis storms as severe weather threatens millions in US](https://www.theguardian.com/us-news/2025/may/16/us-extreme-weather)
+- [‘I started seeing robots’: what happens when you run nearly nonstop for three days](https://www.theguardian.com/lifeandstyle/2025/may/17/i-started-seeing-robots-what-happens-when-you-run-nearly-nonstop-for-three-days)
+- [Israel launches major offensive in Gaza after airstrikes that killed more than 100](https://www.theguardian.com/world/2025/may/16/israel-launches-major-offensive-in-gaza-after-airstrikes-that-killed-more-than-100)
+- [Tyrrell Hatton faces fine for US PGA outburst as Vegas leads the pack](https://www.theguardian.com/sport/2025/may/17/hatton-faces-fine-for-foul-mouthed-tirade-during-us-pga-second-round)
+- [Supreme court blocks Trump bid to resume deportations under 1798 law](https://www.theguardian.com/us-news/2025/may/16/supreme-court-alien-enemies-act-trump)
+- [The Chronology of Water review: Kristen Stewart makes a traumatic splash with directorial debut](https://www.theguardian.com/film/2025/may/16/the-chronology-of-water-review-kristen-stewart-makes-a-traumatic-splash-with-directorial-debut)
+- [Police name victims of blaze at former RAF base in Oxfordshire](https://www.theguardian.com/uk-news/2025/may/16/fire-former-raf-base-bicester-oxfordshire)
+- [Cassie Ventura concludes testimony in Sean ‘Diddy’ Combs sex-trafficking trial](https://www.theguardian.com/music/2025/may/16/cassie-ventura-sean-diddy-combs-trial)
+- [Jannik Sinner recovers to beat Paul and set up dream Rome final against Alcaraz](https://www.theguardian.com/sport/2025/may/16/carlos-alcaraz-lorenzo-musetti-italian-open-final-jannik-sinner-tommy-paul)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

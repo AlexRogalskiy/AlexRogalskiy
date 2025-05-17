@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Cracked - method chaining/CSS-style selector web audio library](https://github.com/billorcutt/i_dropped_my_phone_the_screen_cracked)
-- [I was a Theranos whistleblower. Here&#39;s what I think Elizabeth Holmes is up to](https://www.statnews.com/2025/05/15/theranos-whistleblower-tyler-shultz-commentary-elizabeth-holmes-billy-evans-haemanthus-startup/)
-- [Teal – A statically-typed dialect of Lua](https://teal-language.org/)
-- [Sitting for a long time shrinks your brain even if you exercise](https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.70157)
-- [NASA keeps ancient Voyager 1 spacecraft alive with Hail Mary thruster fix](https://www.theregister.com/2025/05/15/voyager_1_survives_with_thruster_fix/)
-- [A leap year check in three instructions](https://hueffner.de/falk/blog/a-leap-year-check-in-three-instructions.html)
-- [Initialization in C++ is bonkers &lpar;2017&rpar;](https://blog.tartanllama.xyz/initialization-is-bonkers/)
-- [Tek – A music making program for 24-bit Unicode terminals](https://codeberg.org/unspeaker/tek)
-- [The unreasonable effectiveness of an LLM agent loop with tool use](https://sketch.dev/blog/agent-loop)
-- [Refactoring Clojure](https://www.orsolabs.com/post/refactoring-clojure-1/)
+- [XTool – Cross-platform Xcode replacement](https://github.com/xtool-org/xtool)
+- [Wow@Home – Network of Amateur Radio Telescopes](https://phl.upr.edu/wow/outreach)
+- [Show HN: Kokoro TTS – Free Text to Speech Converter with Multilingual AI Voices](https://kokoroai.org)
+- [Show HN: Roast My Dish – AI roasts your food photos with brutal honesty](https://www.roastmydish.online/)
+- [Show HN: Merliot – plugging physical devices into LLMs](https://github.com/merliot/hub)
+- [WebGL Gray-Scott Explorer &lpar;2012&rpar;](http://www.mrob.com/pub/comp/xmorphia/ogl/index.html)
+- [Will AI systems perform poorly due to AI-generated material in training data?](https://cacm.acm.org/news/the-collapse-of-gpt/)
+- [They Were Identical &#39;Twinnies&#39; Who Charmed Orwell, Camus and More](https://www.nytimes.com/2025/05/04/books/review/the-dazzling-paget-sisters-ariane-bankes.html)
+- [Show HN: Solidis – Tiny TS Redis client, no deps, for serverless](https://github.com/vcms-io/solidis)
+- [Getting AI to write good SQL](https://cloud.google.com/blog/products/databases/techniques-for-improving-text-to-sql)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

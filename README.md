@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [XTool – Cross-platform Xcode replacement](https://github.com/xtool-org/xtool)
-- [Wow@Home – Network of Amateur Radio Telescopes](https://phl.upr.edu/wow/outreach)
-- [Show HN: Kokoro TTS – Free Text to Speech Converter with Multilingual AI Voices](https://kokoroai.org)
-- [Show HN: Roast My Dish – AI roasts your food photos with brutal honesty](https://www.roastmydish.online/)
-- [Show HN: Merliot – plugging physical devices into LLMs](https://github.com/merliot/hub)
-- [WebGL Gray-Scott Explorer &lpar;2012&rpar;](http://www.mrob.com/pub/comp/xmorphia/ogl/index.html)
-- [Will AI systems perform poorly due to AI-generated material in training data?](https://cacm.acm.org/news/the-collapse-of-gpt/)
-- [They Were Identical &#39;Twinnies&#39; Who Charmed Orwell, Camus and More](https://www.nytimes.com/2025/05/04/books/review/the-dazzling-paget-sisters-ariane-bankes.html)
-- [Show HN: Solidis – Tiny TS Redis client, no deps, for serverless](https://github.com/vcms-io/solidis)
-- [Getting AI to write good SQL](https://cloud.google.com/blog/products/databases/techniques-for-improving-text-to-sql)
+- [Experts have it easy &lpar;2024&rpar;](https://boydkane.com/essays/experts)
+- [Memetics – A Growth Industry in US Military Operations &lpar;2006&rpar; [pdf]](https://apps.dtic.mil/sti/pdfs/ADA507172.pdf)
+- [AniSora: Open-source anime video generation model](https://komiko.app/video/AniSora)
+- [Fortran for C Programmers](https://flang.llvm.org/docs/FortranForCProgrammers.html)
+- [The Lost Japanese ROM of the Macintosh Plus](https://www.journaldulapin.com/2025/05/17/the-lost-japanese-rom-of-the-macintosh-plus-which-isnt-lost-anymore/)
+- [FreeBASIC is a free/open source BASIC compiler for Windows DOS and Linux](https://freebasic.net/)
+- [Unspoken Currency of Office Politics: Leverage and Sanction Between Coworkers](https://graphthinking.blogspot.com/2025/05/leverage-and-sanction-between-coworkers.html)
+- [LLMs are more persuasive than incentivized human persuaders](https://arxiv.org/abs/2505.09662)
+- [Understanding Transformers via N-gram Statistics](https://arxiv.org/abs/2407.12034)
+- [Directory of MCP Servers](https://github.com/chatmcp/mcpso)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

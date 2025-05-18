@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Trump accuses former FBI director of calling for his killing through coded picture](https://www.theguardian.com/us-news/2025/may/16/james-comey-investigation-8647-trump)
-- [Four people killed by St Louis storms as severe weather threatens millions in US](https://www.theguardian.com/us-news/2025/may/16/us-extreme-weather)
-- [‘I started seeing robots’: what happens when you run nearly nonstop for three days](https://www.theguardian.com/lifeandstyle/2025/may/17/i-started-seeing-robots-what-happens-when-you-run-nearly-nonstop-for-three-days)
-- [Israel launches major offensive in Gaza after airstrikes that killed more than 100](https://www.theguardian.com/world/2025/may/16/israel-launches-major-offensive-in-gaza-after-airstrikes-that-killed-more-than-100)
-- [Tyrrell Hatton faces fine for US PGA outburst as Vegas leads the pack](https://www.theguardian.com/sport/2025/may/17/hatton-faces-fine-for-foul-mouthed-tirade-during-us-pga-second-round)
-- [Supreme court blocks Trump bid to resume deportations under 1798 law](https://www.theguardian.com/us-news/2025/may/16/supreme-court-alien-enemies-act-trump)
-- [The Chronology of Water review: Kristen Stewart makes a traumatic splash with directorial debut](https://www.theguardian.com/film/2025/may/16/the-chronology-of-water-review-kristen-stewart-makes-a-traumatic-splash-with-directorial-debut)
-- [Police name victims of blaze at former RAF base in Oxfordshire](https://www.theguardian.com/uk-news/2025/may/16/fire-former-raf-base-bicester-oxfordshire)
-- [Cassie Ventura concludes testimony in Sean ‘Diddy’ Combs sex-trafficking trial](https://www.theguardian.com/music/2025/may/16/cassie-ventura-sean-diddy-combs-trial)
-- [Jannik Sinner recovers to beat Paul and set up dream Rome final against Alcaraz](https://www.theguardian.com/sport/2025/may/16/carlos-alcaraz-lorenzo-musetti-italian-open-final-jannik-sinner-tommy-paul)
+- [Mexican navy ship hits Brooklyn Bridge during promotional tour](https://www.theguardian.com/us-news/2025/may/18/mexican-navy-ship-hits-brooklyn-bridge-during-promotional-tour)
+- [A 14-step guide to taking a &lpar;fleeting&rpar; break from social media | Eleanor Limprecht](https://www.theguardian.com/commentisfree/2025/may/18/a-14-step-guide-to-taking-a-fleeting-break-from-social-media)
+- [Scottie Scheffler bursts clear of US PGA third-round field at Quail Hollow](https://www.theguardian.com/sport/2025/may/18/scottie-scheffler-bursts-clear-of-us-pga-third-round-field-at-quail-hollow)
+- [Austria wins 69th Eurovision song contest with Wasted Love](https://www.theguardian.com/tv-and-radio/2025/may/18/eurovision-song-contest-winner-2025)
+- [Paquetá betting rules case is taking physical and mental toll, reveals West Ham’s Potter](https://www.theguardian.com/football/2025/may/17/lucas-paqueta-betting-rules-case-is-physical-mental-toll-graham-potter-west-ham)
+- [Storms kill at least 25 across US including 18 in ‘mass casualty event’ in Kentucky](https://www.theguardian.com/us-news/2025/may/17/tornadoes-kentucky-missouri-16-dead)
+- [One person dead and five injured after car explodes near IVF facility in Palm Springs](https://www.theguardian.com/us-news/2025/may/17/car-explosion-ivf-facility-palm-springs)
+- [UK on verge of deal with EU to let Britons use European passport e-gates](https://www.theguardian.com/world/2025/may/17/uk-on-verge-of-deal-with-eu-to-let-britons-use-european-passport-e-gates)
+- [Five people killed in helicopter collision in Finland](https://www.theguardian.com/world/2025/may/17/five-people-killed-in-mid-air-helicopter-collision-in-finland)
+- [Die My Love review – Jennifer Lawrence excels in intensely sensual study of a woman in meltdown](https://www.theguardian.com/film/2025/may/17/die-my-love-review-jennifer-lawrence-excels-in-intensely-sensual-study-of-a-woman-in-meltdown)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Free Chapter of AI/ML Encyclopedia with Comics and Case Studies](https://github.com/Rezar/MLBook)
-- [Outlook stores email in Microsoft Cloud – what you need to know](https://blog.runbox.com/2025/05/outlook-stores-email-in-microsoft-cloud-what-you-need-to-know/)
-- [Big Tech takes a harder line against worker activism, political dissent](https://www.washingtonpost.com/technology/2025/05/16/silicon-valley-workers-dissent-employment-layoffs-whistleblowers/)
-- [Using unwrap&lpar;&rpar; in Rust is Okay](https://burntsushi.net/unwrap/)
-- [My favourite fonts to use with LaTeX &lpar;2022&rpar;](https://www.lfe.pt/latex/fonts/typography/2022/11/21/latex-fonts-part1.html)
-- [Cold War Missile Silo for Sale in Washington](https://boundlessestates.com/underground-bunker-missile-silo-for-sale-washington/lGoBDCkw_aem__Uzi_pnKElUN1WMNy73V5A)
-- [A Linux kernel developer plays with Home Assistant: general impressions](https://lwn.net/SubscriberLink/1017720/7155ecb9602e9ef2/)
-- [The Airbnb 2025 Summer Release](https://www.youtube.com/watch?v=wMo0IOsxU_8)
-- [Behind Silicon Valley and the GOP&#39;s campaign to ban state AI laws](https://www.bloodinthemachine.com/p/de-democratizing-ai)
-- [Ask HN: Anyone working in traditional ML/stats research instead of LLMs?](https://news.ycombinator.com/item?id=44011645)
+- [Tech giants honestly admit they&#39;ll unleash AGI even if it kills us all &lpar;2027&rpar;](https://news.ycombinator.com/item?id=44018725)
+- [AntA.I.os: How to Stay Original When Machines Can Generate Anything](https://tsevis.com/grounded-creativity-in-the-ai-era)
+- [Climbing trees 3: from trees to forests](https://mathpn.com/posts/climbing-trees-3/)
+- [Climbing trees 2: implementing decision trees](https://mathpn.com/posts/climbing-trees-2/)
+- [Climbing trees 1: what are decision trees?](https://mathpn.com/posts/climbing-trees-1/)
+- [A year on, Valkey charts path to v9 after break from Redis](https://www.theregister.com/2025/05/15/a_year_of_valkey/)
+- [Two California NWS weather offices no longer provide 24/7 emergency warnings](https://www.sfchronicle.com/weather/article/nws-weather-service-noaa-california-staffing-cuts-20329638.php)
+- [Mexican Navy Ship Crashes into New York City&#39;s Brooklyn Bridge](https://www.bbc.com/news/articles/c991n8p4pdyo)
+- [List of Non-Water Floods](https://en.wikipedia.org/wiki/List_of_non-water_floods)
+- [R1CS: A Day in the Life of a Few Equations](https://learn.0xparc.org/materials/circom/additional-learning-resources/r1cs%20explainer/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

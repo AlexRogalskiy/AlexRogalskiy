@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Tech giants honestly admit they&#39;ll unleash AGI even if it kills us all &lpar;2027&rpar;](https://news.ycombinator.com/item?id=44018725)
-- [AntA.I.os: How to Stay Original When Machines Can Generate Anything](https://tsevis.com/grounded-creativity-in-the-ai-era)
-- [Climbing trees 3: from trees to forests](https://mathpn.com/posts/climbing-trees-3/)
-- [Climbing trees 2: implementing decision trees](https://mathpn.com/posts/climbing-trees-2/)
-- [Climbing trees 1: what are decision trees?](https://mathpn.com/posts/climbing-trees-1/)
-- [A year on, Valkey charts path to v9 after break from Redis](https://www.theregister.com/2025/05/15/a_year_of_valkey/)
-- [Two California NWS weather offices no longer provide 24/7 emergency warnings](https://www.sfchronicle.com/weather/article/nws-weather-service-noaa-california-staffing-cuts-20329638.php)
-- [Mexican Navy Ship Crashes into New York City&#39;s Brooklyn Bridge](https://www.bbc.com/news/articles/c991n8p4pdyo)
-- [List of Non-Water Floods](https://en.wikipedia.org/wiki/List_of_non-water_floods)
-- [R1CS: A Day in the Life of a Few Equations](https://learn.0xparc.org/materials/circom/additional-learning-resources/r1cs%20explainer/)
+- [Nvidia to ship new AI chip for China next quarter, modified Blackwell later](https://asia.nikkei.com/Business/Technology/Nvidia-to-ship-new-AI-chip-for-China-next-quarter-modified-Blackwell-later)
+- [Thailand to recriminalise cannabis as PM vows to get tough on drugs](https://www.abc.net.au/asia/thailand-to-recriminalise-cannabis/103846102)
+- [Show HN: Datetime.app – open-source alternative to time.is](https://datetime.app)
+- [America&#39;s College Towns Go from Boom to Bust](https://www.wsj.com/us-news/education/college-towns-economy-macomb-illinois-aae84dcc)
+- [The principles of database design, or, the Truth is out there](https://ebellani.github.io/blog/2025/the-principles-of-database-design-or-the-truth-is-out-there/)
+- [Create a Cursor/Windsurf Clone in Python from Scratch &lpar;1-Hour Challenge&rpar; [video]](https://www.youtube.com/watch?v=zMnNVJkIf6I)
+- [Layers All the Way Down: The Untold Story of Shader Compilation](https://moonside.games/posts/layers-all-the-way-down/)
+- [Async/Await versus the Calloop Model](https://notgull.net/calloop/)
+- [Small banks fuel revival in blank-cheque SPAC deals](https://www.ft.com/content/6eb4b7b6-af96-48a8-ac3a-cea61c5dc0ed)
+- [Nasa Shares Secrets About Interiors of Moon, Vesta](https://www.nasa.gov/solar-system/asteroids/vesta/nasa-studies-reveal-hidden-secrets-about-interiors-of-moon-vesta/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Experts have it easy &lpar;2024&rpar;](https://boydkane.com/essays/experts)
-- [Memetics – A Growth Industry in US Military Operations &lpar;2006&rpar; [pdf]](https://apps.dtic.mil/sti/pdfs/ADA507172.pdf)
-- [AniSora: Open-source anime video generation model](https://komiko.app/video/AniSora)
-- [Fortran for C Programmers](https://flang.llvm.org/docs/FortranForCProgrammers.html)
-- [The Lost Japanese ROM of the Macintosh Plus](https://www.journaldulapin.com/2025/05/17/the-lost-japanese-rom-of-the-macintosh-plus-which-isnt-lost-anymore/)
-- [FreeBASIC is a free/open source BASIC compiler for Windows DOS and Linux](https://freebasic.net/)
-- [Unspoken Currency of Office Politics: Leverage and Sanction Between Coworkers](https://graphthinking.blogspot.com/2025/05/leverage-and-sanction-between-coworkers.html)
-- [LLMs are more persuasive than incentivized human persuaders](https://arxiv.org/abs/2505.09662)
-- [Understanding Transformers via N-gram Statistics](https://arxiv.org/abs/2407.12034)
-- [Directory of MCP Servers](https://github.com/chatmcp/mcpso)
+- [&quot;There are people who can see and others who cannot even look&quot;](https://worldhistory.substack.com/p/there-are-people-who-can-see-and)
+- [Living beings emit a faint light that extinguishes upon death, study](https://phys.org/news/2025-05-emit-faint-extinguishes-death.html)
+- [KDE is finally getting a native virtual machine manager called “Karton”](https://www.neowin.net/news/kde-is-finally-getting-a-native-virtual-machine-manager-called-karton/)
+- [France Endorses UN Open Source Principles](https://social.numerique.gouv.fr/@codegouvfr/114529954373492878)
+- [Hyper Typing](https://pscanf.com/s/341/)
+- [Show HN: Python Simulator of David Deutsch’s “Constructor Theory of Time”](https://github.com/gvelesandro/constructor-theory-simulator)
+- [K-Scale Labs: Open-source humanoid robots, built for developers](https://www.kscale.dev/)
+- [The Fall of Roam &lpar;2022&rpar;](https://every.to/superorganizers/the-fall-of-roam)
+- [Show HN: Vaev – A browser engine built from scratch &lpar;It renders google.com&rpar;](https://github.com/skift-org/vaev)
+- [$30 Homebrew Automated Blinds Opener](https://sifter.org/~simon/journal/20240718.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

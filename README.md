@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Mexican navy ship hits Brooklyn Bridge during promotional tour](https://www.theguardian.com/us-news/2025/may/18/mexican-navy-ship-hits-brooklyn-bridge-during-promotional-tour)
-- [A 14-step guide to taking a &lpar;fleeting&rpar; break from social media | Eleanor Limprecht](https://www.theguardian.com/commentisfree/2025/may/18/a-14-step-guide-to-taking-a-fleeting-break-from-social-media)
-- [Scottie Scheffler bursts clear of US PGA third-round field at Quail Hollow](https://www.theguardian.com/sport/2025/may/18/scottie-scheffler-bursts-clear-of-us-pga-third-round-field-at-quail-hollow)
-- [Austria wins 69th Eurovision song contest with Wasted Love](https://www.theguardian.com/tv-and-radio/2025/may/18/eurovision-song-contest-winner-2025)
-- [Paquetá betting rules case is taking physical and mental toll, reveals West Ham’s Potter](https://www.theguardian.com/football/2025/may/17/lucas-paqueta-betting-rules-case-is-physical-mental-toll-graham-potter-west-ham)
-- [Storms kill at least 25 across US including 18 in ‘mass casualty event’ in Kentucky](https://www.theguardian.com/us-news/2025/may/17/tornadoes-kentucky-missouri-16-dead)
-- [One person dead and five injured after car explodes near IVF facility in Palm Springs](https://www.theguardian.com/us-news/2025/may/17/car-explosion-ivf-facility-palm-springs)
-- [UK on verge of deal with EU to let Britons use European passport e-gates](https://www.theguardian.com/world/2025/may/17/uk-on-verge-of-deal-with-eu-to-let-britons-use-european-passport-e-gates)
-- [Five people killed in helicopter collision in Finland](https://www.theguardian.com/world/2025/may/17/five-people-killed-in-mid-air-helicopter-collision-in-finland)
-- [Die My Love review – Jennifer Lawrence excels in intensely sensual study of a woman in meltdown](https://www.theguardian.com/film/2025/may/17/die-my-love-review-jennifer-lawrence-excels-in-intensely-sensual-study-of-a-woman-in-meltdown)
+- [Trump news at a glance: president faces intensifying criticism over Qatar plane gift](https://www.theguardian.com/us-news/2025/may/19/trump-news-at-a-glance-president-faces-intensifying-criticism-over-qatar-plane-gift)
+- [Ukraine war briefing: More Russian drones than ever attack before Trump-Putin call](https://www.theguardian.com/world/2025/may/19/ukraine-war-briefing-more-russian-drones-than-ever-attack-before-trump-putin-call)
+- [Centrist Nicuşor Dan on course to win Romanian election with 99% of votes counted](https://www.theguardian.com/world/2025/may/18/centrist-nicusor-dan-on-course-to-beat-far-right-rival-in-romanian-election-exit-polls-suggest)
+- [More than 400 with heart valve condition dying each year on NHS waiting list, research finds](https://www.theguardian.com/society/2025/may/18/heart-valve-condition-aortic-stenosis-deaths-nhs-waiting-list)
+- [Gary Lineker ‘to leave the BBC this week’ after antisemitism row](https://www.theguardian.com/football/2025/may/19/gary-lineker-to-leave-the-bbc-next-week-after-antisemitism-row)
+- [Ancient India review – snakes, shrines and sexual desire power a passionate show](https://www.theguardian.com/artanddesign/2025/may/19/ancient-india-review-british-museum-london)
+- [UK ‘may need 92,000 extra public workers if fall in productivity continues to 2030’](https://www.theguardian.com/business/2025/may/19/uk-may-need-92000-extra-public-workers-if-fall-in-productivity-continues-to-2030)
+- [Poor mental health as child limits capacity to work in later life, study finds](https://www.theguardian.com/society/2025/may/19/great-britain-children-poor-mental-health-two-thirds-more-likely-limited-ability-to-work-as-adults)
+- [Average asking price for UK home hits new high of almost £380k](https://www.theguardian.com/business/2025/may/19/average-asking-price-uk-homes-record-may)
+- [Scottie Scheffler runs away with US PGA title after challengers fade away](https://www.theguardian.com/sport/2025/may/18/scottie-scheffler-runs-away-with-us-pga-title-after-challengers-fade-away)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

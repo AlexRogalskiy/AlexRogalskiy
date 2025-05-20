@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [&quot;There are people who can see and others who cannot even look&quot;](https://worldhistory.substack.com/p/there-are-people-who-can-see-and)
-- [Living beings emit a faint light that extinguishes upon death, study](https://phys.org/news/2025-05-emit-faint-extinguishes-death.html)
-- [KDE is finally getting a native virtual machine manager called “Karton”](https://www.neowin.net/news/kde-is-finally-getting-a-native-virtual-machine-manager-called-karton/)
-- [France Endorses UN Open Source Principles](https://social.numerique.gouv.fr/@codegouvfr/114529954373492878)
-- [Hyper Typing](https://pscanf.com/s/341/)
-- [Show HN: Python Simulator of David Deutsch’s “Constructor Theory of Time”](https://github.com/gvelesandro/constructor-theory-simulator)
-- [K-Scale Labs: Open-source humanoid robots, built for developers](https://www.kscale.dev/)
-- [The Fall of Roam &lpar;2022&rpar;](https://every.to/superorganizers/the-fall-of-roam)
-- [Show HN: Vaev – A browser engine built from scratch &lpar;It renders google.com&rpar;](https://github.com/skift-org/vaev)
-- [$30 Homebrew Automated Blinds Opener](https://sifter.org/~simon/journal/20240718.html)
+- [What are people doing? Live-ish estimates based on global population dynamics](https://humans.maxcomperatore.com/)
+- [Memory Consistency Models: A Tutorial](https://jamesbornholt.com/blog/memory-models/)
+- [A shower thought turned into a Collatz visualization](https://abstractnonsense.com/collatz/)
+- [DDoSecrets publishes 410 GB of heap dumps, hacked from TeleMessage](https://micahflee.com/ddosecrets-publishes-410-gb-of-heap-dumps-hacked-from-telemessages-archive-server/)
+- [Is-even-ai – Check if a number is even using the power of AI](https://www.npmjs.com/package/is-even-ai)
+- [Self-Hosting Moose with Docker Compose, Redis, Temporal, Redpanda and ClickHouse](https://docs.fiveonefour.com/moose/deploying/self-hosting/deploying-with-docker-compose)
+- [Terraform MCP Server](https://github.com/hashicorp/terraform-mcp-server)
+- [Have I Been Pwned 2.0](https://www.troyhunt.com/have-i-been-pwned-2-0-is-now-live/)
+- [Jules: An Asynchronous Coding Agent](https://jules.google/)
+- [Kilo: A text editor in less than 1000 LOC with syntax highlight and search](https://github.com/antirez/kilo)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

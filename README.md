@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Trump news at a glance: president faces intensifying criticism over Qatar plane gift](https://www.theguardian.com/us-news/2025/may/19/trump-news-at-a-glance-president-faces-intensifying-criticism-over-qatar-plane-gift)
-- [Ukraine war briefing: More Russian drones than ever attack before Trump-Putin call](https://www.theguardian.com/world/2025/may/19/ukraine-war-briefing-more-russian-drones-than-ever-attack-before-trump-putin-call)
-- [Centrist Nicuşor Dan on course to win Romanian election with 99% of votes counted](https://www.theguardian.com/world/2025/may/18/centrist-nicusor-dan-on-course-to-beat-far-right-rival-in-romanian-election-exit-polls-suggest)
-- [More than 400 with heart valve condition dying each year on NHS waiting list, research finds](https://www.theguardian.com/society/2025/may/18/heart-valve-condition-aortic-stenosis-deaths-nhs-waiting-list)
-- [Gary Lineker ‘to leave the BBC this week’ after antisemitism row](https://www.theguardian.com/football/2025/may/19/gary-lineker-to-leave-the-bbc-next-week-after-antisemitism-row)
-- [Ancient India review – snakes, shrines and sexual desire power a passionate show](https://www.theguardian.com/artanddesign/2025/may/19/ancient-india-review-british-museum-london)
-- [UK ‘may need 92,000 extra public workers if fall in productivity continues to 2030’](https://www.theguardian.com/business/2025/may/19/uk-may-need-92000-extra-public-workers-if-fall-in-productivity-continues-to-2030)
-- [Poor mental health as child limits capacity to work in later life, study finds](https://www.theguardian.com/society/2025/may/19/great-britain-children-poor-mental-health-two-thirds-more-likely-limited-ability-to-work-as-adults)
-- [Average asking price for UK home hits new high of almost £380k](https://www.theguardian.com/business/2025/may/19/average-asking-price-uk-homes-record-may)
-- [Scottie Scheffler runs away with US PGA title after challengers fade away](https://www.theguardian.com/sport/2025/may/18/scottie-scheffler-runs-away-with-us-pga-title-after-challengers-fade-away)
+- [Nationals leaving Coalition as David Littleproud announces split with Liberal party after election defeat](https://www.theguardian.com/australia-news/2025/may/20/nationals-leaving-split-coalition-liberal-party-australian-election)
+- [Video suggests capuchin monkeys ‘kidnap’ baby howler monkeys, scientists say](https://www.theguardian.com/environment/2025/may/20/video-suggests-capuchin-monkeys-kidnap-baby-howler-monkeys)
+- [Balenciaga names Pierpaolo Piccioli creative director as fashion houses’ creative upheaval continues](https://www.theguardian.com/fashion/2025/may/20/pierpaolo-piccioli-named-balenciaga-creative-director)
+- [UK ‘the sick person of the wealthy world’ amid increase in deaths from drugs and violence](https://www.theguardian.com/society/2025/may/20/uk-sick-person-of-wealthy-world-deaths-drugs-violence)
+- [Bees face new threats from wars, street lights and microplastics, scientists warn](https://www.theguardian.com/environment/2025/may/20/bees-threats-war-microplastics)
+- [One in four pupils in England ‘disengage’ when they move to secondary, report finds](https://www.theguardian.com/education/2025/may/20/one-in-four-pupils-in-england-disengage-when-they-move-to-secondary-report-finds)
+- [Almost half of young people would prefer a world without internet, UK study finds](https://www.theguardian.com/technology/2025/may/20/almost-half-of-young-people-would-prefer-a-world-without-internet-uk-study-finds)
+- [Alpha review – Julia Ducournau’s disjointed body horror is an absolute gamma](https://www.theguardian.com/film/2025/may/19/alpha-review-julia-ducournaus-disjointed-body-horror-is-an-absolute-gamma)
+- [Dogs are being trained to weed out eggs of invasive spotted lanternflies in US](https://www.theguardian.com/us-news/2025/may/19/research-dogs-sniffing-spotted-lanternfly)
+- [Trump and Putin hold phone call but Kremlin refuses Ukraine ceasefire](https://www.theguardian.com/world/2025/may/19/trump-and-putin-hold-phone-call-but-kremlin-refuses-ukraine-ceasefire)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

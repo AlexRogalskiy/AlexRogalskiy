@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Nvidia to ship new AI chip for China next quarter, modified Blackwell later](https://asia.nikkei.com/Business/Technology/Nvidia-to-ship-new-AI-chip-for-China-next-quarter-modified-Blackwell-later)
-- [Thailand to recriminalise cannabis as PM vows to get tough on drugs](https://www.abc.net.au/asia/thailand-to-recriminalise-cannabis/103846102)
-- [Show HN: Datetime.app – open-source alternative to time.is](https://datetime.app)
-- [America&#39;s College Towns Go from Boom to Bust](https://www.wsj.com/us-news/education/college-towns-economy-macomb-illinois-aae84dcc)
-- [The principles of database design, or, the Truth is out there](https://ebellani.github.io/blog/2025/the-principles-of-database-design-or-the-truth-is-out-there/)
-- [Create a Cursor/Windsurf Clone in Python from Scratch &lpar;1-Hour Challenge&rpar; [video]](https://www.youtube.com/watch?v=zMnNVJkIf6I)
-- [Layers All the Way Down: The Untold Story of Shader Compilation](https://moonside.games/posts/layers-all-the-way-down/)
-- [Async/Await versus the Calloop Model](https://notgull.net/calloop/)
-- [Small banks fuel revival in blank-cheque SPAC deals](https://www.ft.com/content/6eb4b7b6-af96-48a8-ac3a-cea61c5dc0ed)
-- [Nasa Shares Secrets About Interiors of Moon, Vesta](https://www.nasa.gov/solar-system/asteroids/vesta/nasa-studies-reveal-hidden-secrets-about-interiors-of-moon-vesta/)
+- [India needs a national bullet train system &lpar;2024&rpar;](https://www.high-capacity.com/p/india-needs-a-national-bullet-train)
+- [Show HN: A free, privacy preserving, archive of public Discord servers](https://searchcord.io)
+- [The FCC Must Reject Efforts to Lock Up Public Airwaves](https://www.techdirt.com/2025/05/19/the-fcc-must-reject-efforts-to-lock-up-public-airwaves/)
+- [Texas considers allowing treated fracking water released into rivers](https://www.texastribune.org/2025/05/19/texas-legislature-produced-water-legal-protections-oil-gas/)
+- [Trams – The Absolute Best Transportation for Cities [video]](https://www.youtube.com/watch?v=bNTg9EX7MLw)
+- [Show HN: Paste Keyboard – Insert saved text with one tap](https://apps.apple.com/us/app/paste-keyboard-auto-paste/id6744092980)
+- [Still Booting: People Stuck Using Ancient Windows Computers](https://www.bbc.com/future/article/20250516-the-people-stuck-using-ancient-windows-computers)
+- [Inter-Agent Communication on MCP](https://aws.amazon.com/blogs/opensource/open-protocols-for-agent-interoperability-part-1-inter-agent-communication-on-mcp/)
+- [Bomb Pulse](https://en.wikipedia.org/wiki/Bomb_pulse)
+- [Modal&#39;s Serverless KV Store Now Scales to Infinity](https://modal.com/blog/cache-dict-launch)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

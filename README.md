@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Nationals leaving Coalition as David Littleproud announces split with Liberal party after election defeat](https://www.theguardian.com/australia-news/2025/may/20/nationals-leaving-split-coalition-liberal-party-australian-election)
-- [Video suggests capuchin monkeys ‘kidnap’ baby howler monkeys, scientists say](https://www.theguardian.com/environment/2025/may/20/video-suggests-capuchin-monkeys-kidnap-baby-howler-monkeys)
-- [Balenciaga names Pierpaolo Piccioli creative director as fashion houses’ creative upheaval continues](https://www.theguardian.com/fashion/2025/may/20/pierpaolo-piccioli-named-balenciaga-creative-director)
-- [UK ‘the sick person of the wealthy world’ amid increase in deaths from drugs and violence](https://www.theguardian.com/society/2025/may/20/uk-sick-person-of-wealthy-world-deaths-drugs-violence)
-- [Bees face new threats from wars, street lights and microplastics, scientists warn](https://www.theguardian.com/environment/2025/may/20/bees-threats-war-microplastics)
-- [One in four pupils in England ‘disengage’ when they move to secondary, report finds](https://www.theguardian.com/education/2025/may/20/one-in-four-pupils-in-england-disengage-when-they-move-to-secondary-report-finds)
-- [Almost half of young people would prefer a world without internet, UK study finds](https://www.theguardian.com/technology/2025/may/20/almost-half-of-young-people-would-prefer-a-world-without-internet-uk-study-finds)
-- [Alpha review – Julia Ducournau’s disjointed body horror is an absolute gamma](https://www.theguardian.com/film/2025/may/19/alpha-review-julia-ducournaus-disjointed-body-horror-is-an-absolute-gamma)
-- [Dogs are being trained to weed out eggs of invasive spotted lanternflies in US](https://www.theguardian.com/us-news/2025/may/19/research-dogs-sniffing-spotted-lanternfly)
-- [Trump and Putin hold phone call but Kremlin refuses Ukraine ceasefire](https://www.theguardian.com/world/2025/may/19/trump-and-putin-hold-phone-call-but-kremlin-refuses-ukraine-ceasefire)
+- [Japanese minister resigns after saying he doesn’t buy rice because he gets it free](https://www.theguardian.com/world/2025/may/21/japan-farm-minister-resigns-rice-price)
+- [Ukraine war briefing: Pope opens Vatican door to peace talks, says Meloni](https://www.theguardian.com/world/2025/may/21/ukraine-war-briefing-pope-opens-vatican-door-to-peace-talks-says-meloni)
+- [Pacific must not become a ‘military zone’ amid rise of China, New Zealand’s deputy PM warns](https://www.theguardian.com/world/2025/may/21/winston-peters-new-zealand-deputy-pm-pacific-china-influence)
+- [‘Without time, there is no flavour’: a South Korean grand master on the art of the perfect soy sauce](https://www.theguardian.com/world/2025/may/21/without-time-there-is-no-flavour-a-south-korean-grand-master-on-the-art-of-the-perfect-soy-sauce)
+- [Brain tumour diagnosis could be made within hours, say researchers](https://www.theguardian.com/science/2025/may/21/brain-tumour-diagnosis-could-be-made-within-hours-say-researchers)
+- [Watchdog calls for action on children’s care case delays in England and Wales](https://www.theguardian.com/law/2025/may/21/children-care-case-delays-england-wales-national-audit-office)
+- [Review of student suicides in England dodged ‘real issues’, say bereaved parents](https://www.theguardian.com/education/2025/may/21/review-of-student-suicides-in-england-dodged-real-issues-say-bereaved-parents)
+- [Watchdog urges Scotland to take action after repeatedly missing climate targets](https://www.theguardian.com/environment/2025/may/21/watchdog-urges-scotland-to-take-action-after-repeatedly-missing-climate-targets)
+- [Trump rolls out Golden Dome missile defense project and appoints leader](https://www.theguardian.com/us-news/2025/may/20/trump-appoints-michael-guetlin-golden-dome)
+- [Half a billion young people will be obese or overweight by 2030, report finds](https://www.theguardian.com/society/2025/may/20/young-people-obesity-2030-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

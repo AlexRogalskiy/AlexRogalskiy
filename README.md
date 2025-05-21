@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [India needs a national bullet train system &lpar;2024&rpar;](https://www.high-capacity.com/p/india-needs-a-national-bullet-train)
-- [Show HN: A free, privacy preserving, archive of public Discord servers](https://searchcord.io)
-- [The FCC Must Reject Efforts to Lock Up Public Airwaves](https://www.techdirt.com/2025/05/19/the-fcc-must-reject-efforts-to-lock-up-public-airwaves/)
-- [Texas considers allowing treated fracking water released into rivers](https://www.texastribune.org/2025/05/19/texas-legislature-produced-water-legal-protections-oil-gas/)
-- [Trams – The Absolute Best Transportation for Cities [video]](https://www.youtube.com/watch?v=bNTg9EX7MLw)
-- [Show HN: Paste Keyboard – Insert saved text with one tap](https://apps.apple.com/us/app/paste-keyboard-auto-paste/id6744092980)
-- [Still Booting: People Stuck Using Ancient Windows Computers](https://www.bbc.com/future/article/20250516-the-people-stuck-using-ancient-windows-computers)
-- [Inter-Agent Communication on MCP](https://aws.amazon.com/blogs/opensource/open-protocols-for-agent-interoperability-part-1-inter-agent-communication-on-mcp/)
-- [Bomb Pulse](https://en.wikipedia.org/wiki/Bomb_pulse)
-- [Modal&#39;s Serverless KV Store Now Scales to Infinity](https://modal.com/blog/cache-dict-launch)
+- [I made a system to abolish subscriptions](https://www.joinares.com/)
+- [At Google I/O, everything is changing and normal and scary and chill](https://www.platformer.news/google-io-2025-ai-everything-everywhere/)
+- [Astronomy: Time Is an Angle](https://oliverkwebb.github.io/articles/astronomy-angles/)
+- [Show HN: Toffu AI is a Vibe Marketing agent](https://toffu.ai)
+- [DoorDash Driver Ends Up on Chicago O&#39;Hare Taxiway by Mistake](https://onemileatatime.com/news/doordash-driver-chicago-ohare-taxiway/)
+- [Teen swimmer caught in rip current rescued by drone [video]](https://www.youtube.com/watch?v=CdGxAbDFQDQ)
+- [Build with Jules, your asynchronous coding agent](https://blog.google/technology/google-labs/jules/)
+- [Code Improvement Practices at Meta](https://arxiv.org/abs/2504.12517)
+- [Relume](https://www.relume.io/)
+- [Ask HN: Trivial things that you have weirdly strong opinions about](https://news.ycombinator.com/item?id=44047777)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

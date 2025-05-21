@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [What are people doing? Live-ish estimates based on global population dynamics](https://humans.maxcomperatore.com/)
-- [Memory Consistency Models: A Tutorial](https://jamesbornholt.com/blog/memory-models/)
-- [A shower thought turned into a Collatz visualization](https://abstractnonsense.com/collatz/)
-- [DDoSecrets publishes 410 GB of heap dumps, hacked from TeleMessage](https://micahflee.com/ddosecrets-publishes-410-gb-of-heap-dumps-hacked-from-telemessages-archive-server/)
-- [Is-even-ai – Check if a number is even using the power of AI](https://www.npmjs.com/package/is-even-ai)
-- [Self-Hosting Moose with Docker Compose, Redis, Temporal, Redpanda and ClickHouse](https://docs.fiveonefour.com/moose/deploying/self-hosting/deploying-with-docker-compose)
-- [Terraform MCP Server](https://github.com/hashicorp/terraform-mcp-server)
-- [Have I Been Pwned 2.0](https://www.troyhunt.com/have-i-been-pwned-2-0-is-now-live/)
-- [Jules: An Asynchronous Coding Agent](https://jules.google/)
-- [Kilo: A text editor in less than 1000 LOC with syntax highlight and search](https://github.com/antirez/kilo)
+- [A Secret Trove of Rare Guitars Heads to the Met](https://www.newyorker.com/magazine/2025/05/26/a-secret-trove-of-rare-guitars-heads-to-the-met)
+- [Show HN: TitleBridge - A FinalCut Workflow Plugin](https://bustin.tech/apps/titlebridge/)
+- [The Value Isn&#39;t in the Code](https://jonayre.uk/blog/2022/10/30/the-real-value-isnt-in-the-code/)
+- [“ZLinq”, a Zero-Allocation LINQ Library for .NET](https://neuecc.medium.com/zlinq-a-zero-allocation-linq-library-for-net-1bb0a3e5c749)
+- [Instagram Addiction](https://blog.greg.technology/2025/05/19/on-instagram-addiction.html)
+- [Semantic search engine for ArXiv, biorxiv and medrxiv](https://arxivxplorer.com/)
+- [Show HN: A Simple Server to Match Long/Lat to a TimeZone](https://github.com/LittleGreenViper/LGV_TZ_Lookup)
+- [Litestream: Revamped](https://fly.io/blog/litestream-revamped/)
+- [The NSA Selector](https://github.com/wenzellabs/the_NSA_selector)
+- [Google AI Ultra](https://blog.google/products/google-one/google-ai-ultra/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

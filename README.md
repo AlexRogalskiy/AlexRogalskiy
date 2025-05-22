@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [I made a system to abolish subscriptions](https://www.joinares.com/)
-- [At Google I/O, everything is changing and normal and scary and chill](https://www.platformer.news/google-io-2025-ai-everything-everywhere/)
-- [Astronomy: Time Is an Angle](https://oliverkwebb.github.io/articles/astronomy-angles/)
-- [Show HN: Toffu AI is a Vibe Marketing agent](https://toffu.ai)
-- [DoorDash Driver Ends Up on Chicago O&#39;Hare Taxiway by Mistake](https://onemileatatime.com/news/doordash-driver-chicago-ohare-taxiway/)
-- [Teen swimmer caught in rip current rescued by drone [video]](https://www.youtube.com/watch?v=CdGxAbDFQDQ)
-- [Build with Jules, your asynchronous coding agent](https://blog.google/technology/google-labs/jules/)
-- [Code Improvement Practices at Meta](https://arxiv.org/abs/2504.12517)
-- [Relume](https://www.relume.io/)
-- [Ask HN: Trivial things that you have weirdly strong opinions about](https://news.ycombinator.com/item?id=44047777)
+- [Zeitpyramide](https://en.wikipedia.org/wiki/Zeitpyramide)
+- [Affordable housing initiative aims to empower South Africans](https://iol.co.za/business/property/2025-05-13-new-affordable-housing-initiative-aims-to-empower-south-africans-with-homeownership/)
+- [Fortnite Takes Top Spot on App Store Charts](https://www.macrumors.com/2025/05/21/fortnite-app-store-top-charts/)
+- [Microsoft blocks emails that contain &#39;Palestine&#39; after employee protests](https://www.theverge.com/tech/672312/microsoft-block-palestine-gaza-email)
+- [Can You Fool the Audience?](https://www.honest-broker.com/p/can-you-fool-the-audience)
+- [Kotlin-Lsp: Kotlin Language Server and Plugin for Visual Studio Code](https://github.com/Kotlin/kotlin-lsp)
+- [SUS backprop: linear backpropagation algorithm for long inputs in transformers](https://arxiv.org/abs/2505.15080)
+- [The IBM Enhanced Keyboard turns 40](https://sharktastica.co.uk/articles/enhanced_40)
+- [Introduction to Bayesian Data Analysis for Cognitive Science](https://bruno.nicenboim.me/bayescogsci/)
+- [Supermarkets and Efficient Queueing &lpar;2019&rpar;](https://jolynch.github.io/posts/supermarkets_and_efficient_queueing_part_1/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

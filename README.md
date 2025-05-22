@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Japanese minister resigns after saying he doesn’t buy rice because he gets it free](https://www.theguardian.com/world/2025/may/21/japan-farm-minister-resigns-rice-price)
-- [Ukraine war briefing: Pope opens Vatican door to peace talks, says Meloni](https://www.theguardian.com/world/2025/may/21/ukraine-war-briefing-pope-opens-vatican-door-to-peace-talks-says-meloni)
-- [Pacific must not become a ‘military zone’ amid rise of China, New Zealand’s deputy PM warns](https://www.theguardian.com/world/2025/may/21/winston-peters-new-zealand-deputy-pm-pacific-china-influence)
-- [‘Without time, there is no flavour’: a South Korean grand master on the art of the perfect soy sauce](https://www.theguardian.com/world/2025/may/21/without-time-there-is-no-flavour-a-south-korean-grand-master-on-the-art-of-the-perfect-soy-sauce)
-- [Brain tumour diagnosis could be made within hours, say researchers](https://www.theguardian.com/science/2025/may/21/brain-tumour-diagnosis-could-be-made-within-hours-say-researchers)
-- [Watchdog calls for action on children’s care case delays in England and Wales](https://www.theguardian.com/law/2025/may/21/children-care-case-delays-england-wales-national-audit-office)
-- [Review of student suicides in England dodged ‘real issues’, say bereaved parents](https://www.theguardian.com/education/2025/may/21/review-of-student-suicides-in-england-dodged-real-issues-say-bereaved-parents)
-- [Watchdog urges Scotland to take action after repeatedly missing climate targets](https://www.theguardian.com/environment/2025/may/21/watchdog-urges-scotland-to-take-action-after-repeatedly-missing-climate-targets)
-- [Trump rolls out Golden Dome missile defense project and appoints leader](https://www.theguardian.com/us-news/2025/may/20/trump-appoints-michael-guetlin-golden-dome)
-- [Half a billion young people will be obese or overweight by 2030, report finds](https://www.theguardian.com/society/2025/may/20/young-people-obesity-2030-report)
+- [NSW floods: one dead and ‘grave fears’ held for three missing people as crisis worsens](https://www.theguardian.com/australia-news/2025/may/22/nsw-floods-thousands-stranded-in-mid-north-coast-with-more-heavy-rain-to-come)
+- [In Taiwan and China, young people turn to AI chatbots for ‘cheaper, easier’ therapy](https://www.theguardian.com/world/2025/may/22/ai-therapy-therapist-chatbot-taiwan-china-mental-health)
+- [Shabana Mahmood considers chemical castration for serious sex offenders](https://www.theguardian.com/society/2025/may/22/shabana-mahmood-considers-chemical-castration-for-serious-sex-offenders)
+- [Sure Start centres saved UK government £2 for every £1 spent, study finds](https://www.theguardian.com/education/2025/may/22/sure-start-centres-saved-uk-government-2-for-every-1-spent-study-finds)
+- [New report says ‘government must act’ to ease pressures on British theatres](https://www.theguardian.com/stage/2025/may/22/new-report-says-government-must-act-to-ease-pressures-on-british-theatres)
+- [Sentimental Value review – Stellan Skarsgård is an egomaniac director in act of ancestor worship](https://www.theguardian.com/film/2025/may/21/sentimental-value-review-cannes)
+- [The History of Sound review – Paul Mescal and Josh O’Connor romance is full-bodied but tin-eared](https://www.theguardian.com/film/2025/may/21/the-history-of-sound-review-paul-mescal-josh-oconnor-cannes)
+- [Extra cancer scans for women with dense breasts could save 700 lives a year – UK study](https://www.theguardian.com/society/2025/may/21/breast-cancer-dense-extra-scans)
+- [Sinister Trump dims the lights for another White House ambush](https://www.theguardian.com/us-news/2025/may/21/trump-south-africa-cyril-ramaphosa)
+- [Macron’s party moots banning headscarves in public for under-15s](https://www.theguardian.com/world/2025/may/21/emmanuel-macron-france-party-moots-banning-headscarves-in-public-for-under-15s)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

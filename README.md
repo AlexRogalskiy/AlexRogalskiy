@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [A Secret Trove of Rare Guitars Heads to the Met](https://www.newyorker.com/magazine/2025/05/26/a-secret-trove-of-rare-guitars-heads-to-the-met)
-- [Show HN: TitleBridge - A FinalCut Workflow Plugin](https://bustin.tech/apps/titlebridge/)
-- [The Value Isn&#39;t in the Code](https://jonayre.uk/blog/2022/10/30/the-real-value-isnt-in-the-code/)
-- [“ZLinq”, a Zero-Allocation LINQ Library for .NET](https://neuecc.medium.com/zlinq-a-zero-allocation-linq-library-for-net-1bb0a3e5c749)
-- [Instagram Addiction](https://blog.greg.technology/2025/05/19/on-instagram-addiction.html)
-- [Semantic search engine for ArXiv, biorxiv and medrxiv](https://arxivxplorer.com/)
-- [Show HN: A Simple Server to Match Long/Lat to a TimeZone](https://github.com/LittleGreenViper/LGV_TZ_Lookup)
-- [Litestream: Revamped](https://fly.io/blog/litestream-revamped/)
-- [The NSA Selector](https://github.com/wenzellabs/the_NSA_selector)
-- [Google AI Ultra](https://blog.google/products/google-one/google-ai-ultra/)
+- [AI *Is* Taking My Job](https://reverentgeek.com/ai-really-is-taking-my-job/)
+- [Getting a paper accepted](https://maxwellforbes.com/posts/how-to-get-a-paper-accepted/)
+- [Gemini Diffusion](https://simonwillison.net/2025/May/21/gemini-diffusion/)
+- [CPanel&#39;s IPv6 Overhaul](https://blog.apnic.net/2025/05/21/cpanels-ipv6-overhaul/)
+- [How AppHarvest’s indoor farming scheme imploded &lpar;2023&rpar;](https://www.lpm.org/investigate/2023-11-16/a-celebrated-startup-promised-kentuckians-green-jobs-it-gave-them-a-grueling-hell-on-earth)
+- [Show HN: Display any CSV file as a searchable, filterable, pretty HTML table](https://github.com/derekeder/csv-to-html-table)
+- [Tales from Mainframe Modernization](https://oppi.li/posts/tales_from_mainframe_modernization/)
+- [I have tinnitus. I don&#39;t recommend it](https://blog.greg.technology/2025/05/20/tinnitus.html)
+- [ITXPlus: A ITX Sized Macintosh Plus Logicboard Reproduction](https://68kmla.org/bb/index.php?threads/itxplus-a-itx-sized-macintosh-plus-logicboard-reproduction.49715/)
+- [The Machine Stops &lpar;1909&rpar;](https://standardebooks.org/ebooks/e-m-forster/short-fiction/text/the-machine-stops)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

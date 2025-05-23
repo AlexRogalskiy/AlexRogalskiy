@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Zeitpyramide](https://en.wikipedia.org/wiki/Zeitpyramide)
-- [Affordable housing initiative aims to empower South Africans](https://iol.co.za/business/property/2025-05-13-new-affordable-housing-initiative-aims-to-empower-south-africans-with-homeownership/)
-- [Fortnite Takes Top Spot on App Store Charts](https://www.macrumors.com/2025/05/21/fortnite-app-store-top-charts/)
-- [Microsoft blocks emails that contain &#39;Palestine&#39; after employee protests](https://www.theverge.com/tech/672312/microsoft-block-palestine-gaza-email)
-- [Can You Fool the Audience?](https://www.honest-broker.com/p/can-you-fool-the-audience)
-- [Kotlin-Lsp: Kotlin Language Server and Plugin for Visual Studio Code](https://github.com/Kotlin/kotlin-lsp)
-- [SUS backprop: linear backpropagation algorithm for long inputs in transformers](https://arxiv.org/abs/2505.15080)
-- [The IBM Enhanced Keyboard turns 40](https://sharktastica.co.uk/articles/enhanced_40)
-- [Introduction to Bayesian Data Analysis for Cognitive Science](https://bruno.nicenboim.me/bayescogsci/)
-- [Supermarkets and Efficient Queueing &lpar;2019&rpar;](https://jolynch.github.io/posts/supermarkets_and_efficient_queueing_part_1/)
+- [Five – A minimalist, to-do list and calendar](https://apps.apple.com/us/app/five-todo-list-calendar/id6740851007)
+- [Unexplained electronics found in imported equipment for Denmark&#39;s supply network](https://www.reuters.com/sustainability/boards-policy-regulation/unexplained-components-found-denmarks-energy-equipment-imports-industry-group-2025-05-21/)
+- [Philosopher Alasdair MacIntyre has died](https://en.wikipedia.org/wiki/Alasdair_MacIntyre)
+- [Show HN: Cardog – AI car companion for transparent ownership](https://cardog.app/waitlist)
+- [Show HN: KelpsGet – Modern download manager built in Rust](https://github.com/davimf721/KelpsGet)
+- [Some US banks explore venturing into crypto with joint stablecoin, WSJ reports](https://www.reuters.com/business/finance/some-us-banks-explore-venturing-into-crypto-with-joint-stablecoin-wsj-reports-2025-05-23/)
+- [CRDTs #2: Turtles All the Way Down](https://jhellerstein.github.io/blog/crdt-turtles/)
+- [Silly job interview questions in Haskell](https://chrispenner.ca/posts/interview)
+- [STS-61](https://en.wikipedia.org/wiki/STS-61)
+- [Show HN: I made a zero-setup back end API to launch apps without coding back end](https://github.com/broadwayinc/skapi-js)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

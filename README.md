@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [NSW floods: one dead and ‘grave fears’ held for three missing people as crisis worsens](https://www.theguardian.com/australia-news/2025/may/22/nsw-floods-thousands-stranded-in-mid-north-coast-with-more-heavy-rain-to-come)
-- [In Taiwan and China, young people turn to AI chatbots for ‘cheaper, easier’ therapy](https://www.theguardian.com/world/2025/may/22/ai-therapy-therapist-chatbot-taiwan-china-mental-health)
-- [Shabana Mahmood considers chemical castration for serious sex offenders](https://www.theguardian.com/society/2025/may/22/shabana-mahmood-considers-chemical-castration-for-serious-sex-offenders)
-- [Sure Start centres saved UK government £2 for every £1 spent, study finds](https://www.theguardian.com/education/2025/may/22/sure-start-centres-saved-uk-government-2-for-every-1-spent-study-finds)
-- [New report says ‘government must act’ to ease pressures on British theatres](https://www.theguardian.com/stage/2025/may/22/new-report-says-government-must-act-to-ease-pressures-on-british-theatres)
-- [Sentimental Value review – Stellan Skarsgård is an egomaniac director in act of ancestor worship](https://www.theguardian.com/film/2025/may/21/sentimental-value-review-cannes)
-- [The History of Sound review – Paul Mescal and Josh O’Connor romance is full-bodied but tin-eared](https://www.theguardian.com/film/2025/may/21/the-history-of-sound-review-paul-mescal-josh-oconnor-cannes)
-- [Extra cancer scans for women with dense breasts could save 700 lives a year – UK study](https://www.theguardian.com/society/2025/may/21/breast-cancer-dense-extra-scans)
-- [Sinister Trump dims the lights for another White House ambush](https://www.theguardian.com/us-news/2025/may/21/trump-south-africa-cyril-ramaphosa)
-- [Macron’s party moots banning headscarves in public for under-15s](https://www.theguardian.com/world/2025/may/21/emmanuel-macron-france-party-moots-banning-headscarves-in-public-for-under-15s)
+- [Satellite images reveal damage to North Korea warship after ‘criminal’ launch accident](https://www.theguardian.com/world/2025/may/23/north-korea-ship-satellite-images-launch-accident-damage-failure-warship-destroyer)
+- [Trump’s evidence of South Africa  ‘white genocide’ contains images from Democratic Republic of Congo](https://www.theguardian.com/world/2025/may/23/trumps-evidence-of-south-africa-white-genocide-contains-images-from-democratic-republic-of-congo)
+- [Ukraine war briefing: G7 finance chiefs threaten further sanctions on Russia](https://www.theguardian.com/world/2025/may/23/ukraine-war-briefing-g7-finance-chiefs-threaten-further-sanctions-on-russia)
+- [Trump administration seeks to end basic rights and protections for child immigrants in its custody](https://www.theguardian.com/us-news/2025/may/22/trump-children-flores-settlement-agreement)
+- [‘When power can define madness’: China accused of using mental health law to lock up critics](https://www.theguardian.com/world/2025/may/23/china-mental-health-law-lock-up-critics)
+- [Myth or mystery: are moose roaming the isolated wilds of New Zealand?](https://www.theguardian.com/world/2025/may/23/new-zealand-moose-mystery-fiordland-national-park)
+- [Kneecap say terror charge is part of ‘witch-hunt’ to prevent Glastonbury gig](https://www.theguardian.com/uk-news/2025/may/23/kneecap-say-terror-charge-witch-hunt-prevent-glastonbury)
+- [Number of vape shops in England rises by almost 1,200% in a decade](https://www.theguardian.com/society/2025/may/23/number-vape-shops-england-rises-decade)
+- [Premier League: 10 things to look out for on the final day of the season](https://www.theguardian.com/football/2025/may/23/premier-league-10-things-to-look-out-for-on-the-final-day-of-the-season)
+- [MPs call on Criminal Cases Review Commission chief executive to resign](https://www.theguardian.com/law/2025/may/23/mps-call-on-criminal-cases-review-commission-chief-executive-to-resign)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

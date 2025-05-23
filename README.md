@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [AI *Is* Taking My Job](https://reverentgeek.com/ai-really-is-taking-my-job/)
-- [Getting a paper accepted](https://maxwellforbes.com/posts/how-to-get-a-paper-accepted/)
-- [Gemini Diffusion](https://simonwillison.net/2025/May/21/gemini-diffusion/)
-- [CPanel&#39;s IPv6 Overhaul](https://blog.apnic.net/2025/05/21/cpanels-ipv6-overhaul/)
-- [How AppHarvest’s indoor farming scheme imploded &lpar;2023&rpar;](https://www.lpm.org/investigate/2023-11-16/a-celebrated-startup-promised-kentuckians-green-jobs-it-gave-them-a-grueling-hell-on-earth)
-- [Show HN: Display any CSV file as a searchable, filterable, pretty HTML table](https://github.com/derekeder/csv-to-html-table)
-- [Tales from Mainframe Modernization](https://oppi.li/posts/tales_from_mainframe_modernization/)
-- [I have tinnitus. I don&#39;t recommend it](https://blog.greg.technology/2025/05/20/tinnitus.html)
-- [ITXPlus: A ITX Sized Macintosh Plus Logicboard Reproduction](https://68kmla.org/bb/index.php?threads/itxplus-a-itx-sized-macintosh-plus-logicboard-reproduction.49715/)
-- [The Machine Stops &lpar;1909&rpar;](https://standardebooks.org/ebooks/e-m-forster/short-fiction/text/the-machine-stops)
+- [The Future of Flatpak](https://lwn.net/Articles/1020571/)
+- [Management = Bullshit &lpar;LLM Edition&rpar;](http://funcall.blogspot.com/2025/05/management-bullshit.html)
+- [Sketchy Calendar](https://www.inkandswitch.com/ink/notes/sketchy-calendar/)
+- [32 Bits That Changed Microprocessor Design](https://spectrum.ieee.org/bellmac-32-ieee-milestone)
+- [“Secret Mall Apartment,” a Protest for Place](https://modernagejournal.com/secret-mall-apartment-a-protest-for-place/251023/)
+- [Show HN: Defuddle, an HTML-to-Markdown alternative to Readability](https://github.com/kepano/defuddle)
+- [Trade Secrecy in Willy Wonka&#39;s Chocolate Factory &lpar;2009&rpar;](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1430463)
+- [The Annotated Kolmogorov-Arnold Network &lpar;Kan&rpar;](https://alexzhang13.github.io/blog/2024/annotated-kan/)
+- [Async from scratch 3: Pinned against the wall](https://natkr.com/2025-05-22-async-from-scratch-3/)
+- [Problems in AI alignment: A scale model](https://muldoon.cloud/2025/05/22/alignment.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Satellite images reveal damage to North Korea warship after ‘criminal’ launch accident](https://www.theguardian.com/world/2025/may/23/north-korea-ship-satellite-images-launch-accident-damage-failure-warship-destroyer)
-- [Trump’s evidence of South Africa  ‘white genocide’ contains images from Democratic Republic of Congo](https://www.theguardian.com/world/2025/may/23/trumps-evidence-of-south-africa-white-genocide-contains-images-from-democratic-republic-of-congo)
-- [Ukraine war briefing: G7 finance chiefs threaten further sanctions on Russia](https://www.theguardian.com/world/2025/may/23/ukraine-war-briefing-g7-finance-chiefs-threaten-further-sanctions-on-russia)
-- [Trump administration seeks to end basic rights and protections for child immigrants in its custody](https://www.theguardian.com/us-news/2025/may/22/trump-children-flores-settlement-agreement)
-- [‘When power can define madness’: China accused of using mental health law to lock up critics](https://www.theguardian.com/world/2025/may/23/china-mental-health-law-lock-up-critics)
-- [Myth or mystery: are moose roaming the isolated wilds of New Zealand?](https://www.theguardian.com/world/2025/may/23/new-zealand-moose-mystery-fiordland-national-park)
-- [Kneecap say terror charge is part of ‘witch-hunt’ to prevent Glastonbury gig](https://www.theguardian.com/uk-news/2025/may/23/kneecap-say-terror-charge-witch-hunt-prevent-glastonbury)
-- [Number of vape shops in England rises by almost 1,200% in a decade](https://www.theguardian.com/society/2025/may/23/number-vape-shops-england-rises-decade)
-- [Premier League: 10 things to look out for on the final day of the season](https://www.theguardian.com/football/2025/may/23/premier-league-10-things-to-look-out-for-on-the-final-day-of-the-season)
-- [MPs call on Criminal Cases Review Commission chief executive to resign](https://www.theguardian.com/law/2025/may/23/mps-call-on-criminal-cases-review-commission-chief-executive-to-resign)
+- [Ukraine war briefing: Multiple injuries as Russia attacks Kyiv with drones and missiles](https://www.theguardian.com/world/2025/may/24/ukraine-war-briefing-multiple-injuries-as-russia-attacks-kyiv-with-drones-and-missiles)
+- [Pete Hegseth, beset by leaks, clamps down on press inside Pentagon](https://www.theguardian.com/us-news/2025/may/23/hegseth-press-access-pentagon-leaks)
+- [Six people in San Diego plane crash confirmed dead](https://www.theguardian.com/us-news/2025/may/23/san-diego-plane-crash)
+- [Rust armorer released after completing prison sentence in fatal film set shooting](https://www.theguardian.com/us-news/2025/may/23/rust-movie-armorer-released-hannah-gutierrez-reed)
+- [NSW floods: estimated 10,000 properties damaged after deadly flooding as communities face ‘significant’ clean up](https://www.theguardian.com/australia-news/2025/may/23/nsw-floods-recovery-effort-begins-with-50000-stranded-people-urged-be-patient)
+- [Poland presidential debate puts Ukraine and Europe centre stage](https://www.theguardian.com/world/2025/may/24/poland-presidential-debate-puts-ukraine-and-europe-centre-stage)
+- [Shimmering with an opal shine: New Zealand’s unique blue pearls face threat of warming seas](https://www.theguardian.com/world/2025/may/24/shimmering-with-an-opal-shine-new-zealands-unique-blue-pearls-face-threat-of-warming-seas)
+- [As Trump focuses on his trade war, Brazil and China forge closer ties](https://www.theguardian.com/world/2025/may/24/as-trump-focuses-on-his-trade-war-brazil-and-china-forge-closer-ties)
+- [Trump reportedly to make drastic cuts to US National Security Council](https://www.theguardian.com/us-news/2025/may/23/trump-national-security-council)
+- [NHS to open network of mental health emergency units across England](https://www.theguardian.com/society/2025/may/23/nhs-to-open-network-of-mental-health-emergency-units-across-england)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

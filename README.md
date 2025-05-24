@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Five – A minimalist, to-do list and calendar](https://apps.apple.com/us/app/five-todo-list-calendar/id6740851007)
-- [Unexplained electronics found in imported equipment for Denmark&#39;s supply network](https://www.reuters.com/sustainability/boards-policy-regulation/unexplained-components-found-denmarks-energy-equipment-imports-industry-group-2025-05-21/)
-- [Philosopher Alasdair MacIntyre has died](https://en.wikipedia.org/wiki/Alasdair_MacIntyre)
-- [Show HN: Cardog – AI car companion for transparent ownership](https://cardog.app/waitlist)
-- [Show HN: KelpsGet – Modern download manager built in Rust](https://github.com/davimf721/KelpsGet)
-- [Some US banks explore venturing into crypto with joint stablecoin, WSJ reports](https://www.reuters.com/business/finance/some-us-banks-explore-venturing-into-crypto-with-joint-stablecoin-wsj-reports-2025-05-23/)
-- [CRDTs #2: Turtles All the Way Down](https://jhellerstein.github.io/blog/crdt-turtles/)
-- [Silly job interview questions in Haskell](https://chrispenner.ca/posts/interview)
-- [STS-61](https://en.wikipedia.org/wiki/STS-61)
-- [Show HN: I made a zero-setup back end API to launch apps without coding back end](https://github.com/broadwayinc/skapi-js)
+- [The Pacific Coast Highway, a Mythic Route Always in Need of Repair](https://www.nytimes.com/2025/05/23/us/pacific-coast-highway-closed-climate-change.html)
+- [The Greatest Business Deal of the Last Decade &lpar;2023&rpar;](https://pomp.substack.com/p/the-greatest-business-deal-of-the)
+- [Menupick – utility program to pick items from stdin via menu](https://github.com/mjdominus/util/blob/master/bin/menupick)
+- [Ask HN: What did you guys create with veo3?](https://news.ycombinator.com/item?id=44078422)
+- [Anthropic said it activated AI Safety Level 3 &lpar;ASL-3&rpar; for Claude Opus 4](https://www.cnbc.com/2025/05/23/anthropic-claude-4-weapons.html)
+- [Boeing reaches deal to avoid prosecution over deadly 737 MAX crashes](https://www.cnbc.com/2025/05/23/boeing-737-max-crashes-doj.html)
+- [Learning in a Changing World](https://vyeevani.github.io/robotics/2025/05/23/learning-in-a-changing-world.html)
+- [College Board keeps apologizing for screwing up digital SAT and AP tests](https://arstechnica.com/culture/2025/05/college-board-keeps-apologizing-for-screwing-up-digital-sat-and-ap-tests/)
+- [Show HN: SweepIQ – A simple AI tool to help you learn more, faster](https://www.sweepiq.com)
+- [A smarter, simpler Firefox address bar](https://blog.mozilla.org/en/firefox/address-bar/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

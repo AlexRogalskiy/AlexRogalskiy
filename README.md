@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The Future of Flatpak](https://lwn.net/Articles/1020571/)
-- [Management = Bullshit &lpar;LLM Edition&rpar;](http://funcall.blogspot.com/2025/05/management-bullshit.html)
-- [Sketchy Calendar](https://www.inkandswitch.com/ink/notes/sketchy-calendar/)
-- [32 Bits That Changed Microprocessor Design](https://spectrum.ieee.org/bellmac-32-ieee-milestone)
-- [“Secret Mall Apartment,” a Protest for Place](https://modernagejournal.com/secret-mall-apartment-a-protest-for-place/251023/)
-- [Show HN: Defuddle, an HTML-to-Markdown alternative to Readability](https://github.com/kepano/defuddle)
-- [Trade Secrecy in Willy Wonka&#39;s Chocolate Factory &lpar;2009&rpar;](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1430463)
-- [The Annotated Kolmogorov-Arnold Network &lpar;Kan&rpar;](https://alexzhang13.github.io/blog/2024/annotated-kan/)
-- [Async from scratch 3: Pinned against the wall](https://natkr.com/2025-05-22-async-from-scratch-3/)
-- [Problems in AI alignment: A scale model](https://muldoon.cloud/2025/05/22/alignment.html)
+- [Show HN: Web Apps for Python Devs with Auto-Generated UI](https://davia.ai/)
+- [Show HN: HNRelevant – Add a &quot;related&quot; section to Hacker News](https://github.com/imdj/HNRelevant)
+- [Modification of acetaminophen to reduce liver toxicity and enhance drug efficacy](https://www.societyforscience.org/regeneron-sts/2025-student-finalists/chloe-lee/)
+- [Root for your friends](https://josephthacker.com/personal/2025/05/13/root-for-your-friends.html)
+- [The world of Japan&#39;s PC-98 computer](https://strangecomforts.com/the-strange-world-of-japans-pc-98-computer/)
+- [Show HN: I built a more productive way to manage AI chats](https://contextch.at)
+- [UndoDB – The interactive time travel debugger for Linux C/C++ for debugging](https://undo.io/)
+- [A Formal Proof of Complexity Bounds on Diophantine Equations](https://arxiv.org/abs/2505.16963)
+- [Show HN: Genetic Boids Web Simulation](https://attentionmech.github.io/genetic-boids/)
+- [Show HN: DoubleMemory – more efficient local-first read-it-later app](https://doublememory.com)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

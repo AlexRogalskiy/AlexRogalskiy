@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Pacific Coast Highway, a Mythic Route Always in Need of Repair](https://www.nytimes.com/2025/05/23/us/pacific-coast-highway-closed-climate-change.html)
-- [The Greatest Business Deal of the Last Decade &lpar;2023&rpar;](https://pomp.substack.com/p/the-greatest-business-deal-of-the)
-- [Menupick – utility program to pick items from stdin via menu](https://github.com/mjdominus/util/blob/master/bin/menupick)
-- [Ask HN: What did you guys create with veo3?](https://news.ycombinator.com/item?id=44078422)
-- [Anthropic said it activated AI Safety Level 3 &lpar;ASL-3&rpar; for Claude Opus 4](https://www.cnbc.com/2025/05/23/anthropic-claude-4-weapons.html)
-- [Boeing reaches deal to avoid prosecution over deadly 737 MAX crashes](https://www.cnbc.com/2025/05/23/boeing-737-max-crashes-doj.html)
-- [Learning in a Changing World](https://vyeevani.github.io/robotics/2025/05/23/learning-in-a-changing-world.html)
-- [College Board keeps apologizing for screwing up digital SAT and AP tests](https://arstechnica.com/culture/2025/05/college-board-keeps-apologizing-for-screwing-up-digital-sat-and-ap-tests/)
-- [Show HN: SweepIQ – A simple AI tool to help you learn more, faster](https://www.sweepiq.com)
-- [A smarter, simpler Firefox address bar](https://blog.mozilla.org/en/firefox/address-bar/)
+- [Bayes&#39; Rule: Odds Form](https://arbital.com/p/bayes_rule_odds/)
+- [Scientist busts myths about how humans burn calories–and why &lpar;2022&rpar;](https://www.science.org/content/article/scientist-busts-myths-about-how-humans-burn-calories-and-why)
+- [Crypto Investor Charged with Kidnapping and Torturing Man for Weeks](https://www.nytimes.com/2025/05/24/nyregion/crypto-investor-torture-italian-tourist.html)
+- [Garden Hermit](https://en.wikipedia.org/wiki/Garden_hermit)
+- [Show HN: Grow Your Podcast with Viral TikTok Clips – In Minutes](https://www.castclip.app)
+- [Star Chamber](https://en.wikipedia.org/wiki/Star_Chamber)
+- [Rosendin Electric develops autonomous robot to simplify solar farm construction](https://abc7.com/post/rosendin-electric-orange-county-develops-autonomous-robot-simplify-solar-farm-construction/16521887/)
+- [10dollarjob.com: Upwork for AI Agents](https://10dollarjob.com)
+- [NLWeb: Bringing conversational interfaces directly to the web](https://news.microsoft.com/source/features/company-news/introducing-nlweb-bringing-conversational-interfaces-directly-to-the-web/)
+- [Novas Are Forever](http://www.novasareforever.org/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

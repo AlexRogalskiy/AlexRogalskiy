@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine war briefing: Multiple injuries as Russia attacks Kyiv with drones and missiles](https://www.theguardian.com/world/2025/may/24/ukraine-war-briefing-multiple-injuries-as-russia-attacks-kyiv-with-drones-and-missiles)
-- [Pete Hegseth, beset by leaks, clamps down on press inside Pentagon](https://www.theguardian.com/us-news/2025/may/23/hegseth-press-access-pentagon-leaks)
-- [Six people in San Diego plane crash confirmed dead](https://www.theguardian.com/us-news/2025/may/23/san-diego-plane-crash)
-- [Rust armorer released after completing prison sentence in fatal film set shooting](https://www.theguardian.com/us-news/2025/may/23/rust-movie-armorer-released-hannah-gutierrez-reed)
-- [NSW floods: estimated 10,000 properties damaged after deadly flooding as communities face ‘significant’ clean up](https://www.theguardian.com/australia-news/2025/may/23/nsw-floods-recovery-effort-begins-with-50000-stranded-people-urged-be-patient)
-- [Poland presidential debate puts Ukraine and Europe centre stage](https://www.theguardian.com/world/2025/may/24/poland-presidential-debate-puts-ukraine-and-europe-centre-stage)
-- [Shimmering with an opal shine: New Zealand’s unique blue pearls face threat of warming seas](https://www.theguardian.com/world/2025/may/24/shimmering-with-an-opal-shine-new-zealands-unique-blue-pearls-face-threat-of-warming-seas)
-- [As Trump focuses on his trade war, Brazil and China forge closer ties](https://www.theguardian.com/world/2025/may/24/as-trump-focuses-on-his-trade-war-brazil-and-china-forge-closer-ties)
-- [Trump reportedly to make drastic cuts to US National Security Council](https://www.theguardian.com/us-news/2025/may/23/trump-national-security-council)
-- [NHS to open network of mental health emergency units across England](https://www.theguardian.com/society/2025/may/23/nhs-to-open-network-of-mental-health-emergency-units-across-england)
+- [Ukraine war briefing: Kyiv under Russian drone attacks for second night running](https://www.theguardian.com/world/2025/may/25/ukraine-war-briefing-kyiv-under-russian-drone-attacks-for-second-night-running)
+- [Sir Alan Bates given ‘take it or leave it’ offer of less than half his Post Office Horizon claim](https://www.theguardian.com/uk-news/2025/may/24/sir-alan-bates-given-take-it-or-leave-it-offer-of-less-than-half-his-post-office-horizon-claim)
+- [North Korea detains three over warship launch accident, state media reports](https://www.theguardian.com/world/2025/may/24/north-korea-detains-three-over-warship-launch-accident-state-media-reports)
+- [Developers face fines as Rayner steps up plans to speed up UK housebuilding](https://www.theguardian.com/politics/2025/may/24/housebuilding-uk-angela-rayner-developer-fines)
+- [US judge orders Trump administration to return wrongly deported gay man](https://www.theguardian.com/us-news/2025/may/24/trump-administration-wrongly-deported-gay-man)
+- [Women’s Champions League triumph will redefine how Arsenal see themselves | Jonathan Liew](https://www.theguardian.com/football/2025/may/24/womens-champions-league-triumph-will-redefine-how-arsenal-see-themselves)
+- [Alan Davies: ‘I get called Jonathan Creek all the time – nowadays people think I’m James May’](https://www.theguardian.com/tv-and-radio/2025/may/25/alan-davies-i-get-called-jonathan-creek-all-the-time-nowadays-people-think-im-james-may)
+- [‘It’s the best game ever invented’: is padel the new pickleball?](https://www.theguardian.com/lifeandstyle/2025/may/25/is-padel-the-new-pickleball-australia)
+- [The moment I knew: I was complaining about my mum, and his tender response changed my life](https://www.theguardian.com/lifeandstyle/2025/may/25/the-moment-i-knew-i-was-complaining-about-my-mum-and-his-tender-response-changed-my-life)
+- [A new room for a doomed loom – and the battle to save Australia’s slowly dying crafts](https://www.theguardian.com/australia-news/2025/may/25/a-new-room-for-a-doomed-loom-and-the-battle-to-save-australias-slowly-dying-crafts)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

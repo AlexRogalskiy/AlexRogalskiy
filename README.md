@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Show HN: Web Apps for Python Devs with Auto-Generated UI](https://davia.ai/)
-- [Show HN: HNRelevant – Add a &quot;related&quot; section to Hacker News](https://github.com/imdj/HNRelevant)
-- [Modification of acetaminophen to reduce liver toxicity and enhance drug efficacy](https://www.societyforscience.org/regeneron-sts/2025-student-finalists/chloe-lee/)
-- [Root for your friends](https://josephthacker.com/personal/2025/05/13/root-for-your-friends.html)
-- [The world of Japan&#39;s PC-98 computer](https://strangecomforts.com/the-strange-world-of-japans-pc-98-computer/)
-- [Show HN: I built a more productive way to manage AI chats](https://contextch.at)
-- [UndoDB – The interactive time travel debugger for Linux C/C++ for debugging](https://undo.io/)
-- [A Formal Proof of Complexity Bounds on Diophantine Equations](https://arxiv.org/abs/2505.16963)
-- [Show HN: Genetic Boids Web Simulation](https://attentionmech.github.io/genetic-boids/)
-- [Show HN: DoubleMemory – more efficient local-first read-it-later app](https://doublememory.com)
+- [How to Install Windows NT 4 Server on Proxmox](https://blog.pipetogrep.org/2025/05/23/how-to-install-windows-nt-4-server-on-proxmox/)
+- [The Next-Gen Mainboard Designed with AmigaOS4 and MorphOS in Mind](https://mirari.vitasys.nl/)
+- [CAPTCHAs are over &lpar;in ticketing&rpar;](https://behind.pretix.eu/2025/05/23/captchas-are-over/)
+- [Failure Mechanisms in Democratic Regimes – An Army&#39;s Role](https://angrystaffofficer.com/2025/03/02/failure-mechanisms-in-democratic-regimes-an-armys-role/)
+- [Domain Theory Lecture Notes](https://liamoc.net/forest/dt-001Y/index.xml)
+- [Show HN: I built StickerFacet to turn photos into high quality vinyl stickers](https://stickerfacet.com)
+- [Scientific conferences are leaving the US amid border fears](https://www.nature.com/articles/d41586-025-01636-5)
+- [Why old games never die, but new ones do](https://pleromanonx86.wordpress.com/2025/05/06/why-old-games-never-die-but-new-ones-do/)
+- [Using the Apple ][+ with the RetroTink-5X](https://nicole.express/2025/apple-ii-more-like-apple-5x.html)
+- [The Verse Calculus: A Core Calculus for Functional Logic Programming [pdf]](https://simon.peytonjones.org/assets/pdfs/verse-March23.pdf)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

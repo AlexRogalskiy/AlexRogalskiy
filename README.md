@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine war briefing: Kyiv under Russian drone attacks for second night running](https://www.theguardian.com/world/2025/may/25/ukraine-war-briefing-kyiv-under-russian-drone-attacks-for-second-night-running)
-- [Sir Alan Bates given ‘take it or leave it’ offer of less than half his Post Office Horizon claim](https://www.theguardian.com/uk-news/2025/may/24/sir-alan-bates-given-take-it-or-leave-it-offer-of-less-than-half-his-post-office-horizon-claim)
-- [North Korea detains three over warship launch accident, state media reports](https://www.theguardian.com/world/2025/may/24/north-korea-detains-three-over-warship-launch-accident-state-media-reports)
-- [Developers face fines as Rayner steps up plans to speed up UK housebuilding](https://www.theguardian.com/politics/2025/may/24/housebuilding-uk-angela-rayner-developer-fines)
-- [US judge orders Trump administration to return wrongly deported gay man](https://www.theguardian.com/us-news/2025/may/24/trump-administration-wrongly-deported-gay-man)
-- [Women’s Champions League triumph will redefine how Arsenal see themselves | Jonathan Liew](https://www.theguardian.com/football/2025/may/24/womens-champions-league-triumph-will-redefine-how-arsenal-see-themselves)
-- [Alan Davies: ‘I get called Jonathan Creek all the time – nowadays people think I’m James May’](https://www.theguardian.com/tv-and-radio/2025/may/25/alan-davies-i-get-called-jonathan-creek-all-the-time-nowadays-people-think-im-james-may)
-- [‘It’s the best game ever invented’: is padel the new pickleball?](https://www.theguardian.com/lifeandstyle/2025/may/25/is-padel-the-new-pickleball-australia)
-- [The moment I knew: I was complaining about my mum, and his tender response changed my life](https://www.theguardian.com/lifeandstyle/2025/may/25/the-moment-i-knew-i-was-complaining-about-my-mum-and-his-tender-response-changed-my-life)
-- [A new room for a doomed loom – and the battle to save Australia’s slowly dying crafts](https://www.theguardian.com/australia-news/2025/may/25/a-new-room-for-a-doomed-loom-and-the-battle-to-save-australias-slowly-dying-crafts)
+- [My son Max, the boy who came back to life - podcast](https://www.theguardian.com/news/audio/2025/may/26/my-son-max-the-boy-who-came-back-to-life-podcast)
+- [Trump warns attempts to conquer all of Ukraine will lead to ‘downfall’ of Russia](https://www.theguardian.com/us-news/2025/may/25/trump-putin-russia-ukraine-attacks)
+- [EU president secures tariffs delay after talk with Trump](https://www.theguardian.com/business/2025/may/25/german-finance-minister-joins-call-for-us-eu-talks-after-trump-tariff-threat)
+- [New Zealand will not be ‘guilt-tripped’ over environment, resources minister says](https://www.theguardian.com/world/2025/may/26/new-zealand-resources-minister-shane-jones-mining-environment)
+- [‘It wasn’t meant to end this way’: Lineker signs off from Match of the Day](https://www.theguardian.com/football/2025/may/26/it-wasnt-meant-to-end-this-way-lineker-signs-off-from-match-of-the-day)
+- [Men and women getting skin cancer in different parts of the body – study](https://www.theguardian.com/society/2025/may/26/men-and-women-getting-skin-cancer-in-different-parts-of-the-body-study)
+- [Plans for NHS staff to restrain those in mental health crisis ‘dangerous’, medics say](https://www.theguardian.com/society/2025/may/26/plans-for-nhs-staff-to-restrain-those-in-mental-health-crisis-dangerous-medics-say)
+- [Death Valley review – Timothy Spall’s quality new detective drama is a cosy, witty joy](https://www.theguardian.com/tv-and-radio/2025/may/25/death-valley-bbc-review-timothy-spall-detective-drama)
+- [‘Emotional’ Nadal honoured with Roland Garros farewell ceremony](https://www.theguardian.com/sport/2025/may/25/rafael-nadal-roland-garros-farewell-ceremony-french-open)
+- [Aston Villa to complain over choice of referee Bramall for defeat at Manchester United](https://www.theguardian.com/football/2025/may/25/aston-villa-referee-thomas-bramall-manchester-united-premier-league-football)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

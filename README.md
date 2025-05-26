@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Bayes&#39; Rule: Odds Form](https://arbital.com/p/bayes_rule_odds/)
-- [Scientist busts myths about how humans burn calories–and why &lpar;2022&rpar;](https://www.science.org/content/article/scientist-busts-myths-about-how-humans-burn-calories-and-why)
-- [Crypto Investor Charged with Kidnapping and Torturing Man for Weeks](https://www.nytimes.com/2025/05/24/nyregion/crypto-investor-torture-italian-tourist.html)
-- [Garden Hermit](https://en.wikipedia.org/wiki/Garden_hermit)
-- [Show HN: Grow Your Podcast with Viral TikTok Clips – In Minutes](https://www.castclip.app)
-- [Star Chamber](https://en.wikipedia.org/wiki/Star_Chamber)
-- [Rosendin Electric develops autonomous robot to simplify solar farm construction](https://abc7.com/post/rosendin-electric-orange-county-develops-autonomous-robot-simplify-solar-farm-construction/16521887/)
-- [10dollarjob.com: Upwork for AI Agents](https://10dollarjob.com)
-- [NLWeb: Bringing conversational interfaces directly to the web](https://news.microsoft.com/source/features/company-news/introducing-nlweb-bringing-conversational-interfaces-directly-to-the-web/)
-- [Novas Are Forever](http://www.novasareforever.org/)
+- [Show HN: A tool to post-process MVT vector tiles quickly](https://github.com/KotobaMedia/mvt-wrangler)
+- [Search and Analyze the Research](https://openalex.org/)
+- [Java Horror Stories: The Mapper Bug](https://medium.com/javarevisited/java-horror-stories-the-mapper-bug-5eeabab99a4c)
+- [Killer Collection of CSS Resets](https://perishablepress.com/a-killer-collection-of-global-css-reset-styles/)
+- [Deidentifying Medical Documents with Local, Privacy-Preserving LLMs](https://ai.nejm.org/doi/full/10.1056/AIdbp2400537)
+- [AI didn&#39;t take your job](https://psychip.net/entry/they-took--er-jeebs----1111)
+- [Show HN: Claude Exporter – Save Claude Convos as PDF, Markdown and More](https://www.claudexporter.com/en)
+- [Tips for me before I quit IT job to prepare for government job?](https://news.ycombinator.com/item?id=44093449)
+- [Post-Social Social Media](https://www.lambdalatitudinarians.org/techblog/2025/05/25/post-social-social-media/)
+- [Testing noise cancellation voice+vision AI [video]](https://www.youtube.com/shorts/bigkAogBQFg)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

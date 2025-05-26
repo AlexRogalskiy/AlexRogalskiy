@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [How to Install Windows NT 4 Server on Proxmox](https://blog.pipetogrep.org/2025/05/23/how-to-install-windows-nt-4-server-on-proxmox/)
-- [The Next-Gen Mainboard Designed with AmigaOS4 and MorphOS in Mind](https://mirari.vitasys.nl/)
-- [CAPTCHAs are over &lpar;in ticketing&rpar;](https://behind.pretix.eu/2025/05/23/captchas-are-over/)
-- [Failure Mechanisms in Democratic Regimes – An Army&#39;s Role](https://angrystaffofficer.com/2025/03/02/failure-mechanisms-in-democratic-regimes-an-armys-role/)
-- [Domain Theory Lecture Notes](https://liamoc.net/forest/dt-001Y/index.xml)
-- [Show HN: I built StickerFacet to turn photos into high quality vinyl stickers](https://stickerfacet.com)
-- [Scientific conferences are leaving the US amid border fears](https://www.nature.com/articles/d41586-025-01636-5)
-- [Why old games never die, but new ones do](https://pleromanonx86.wordpress.com/2025/05/06/why-old-games-never-die-but-new-ones-do/)
-- [Using the Apple ][+ with the RetroTink-5X](https://nicole.express/2025/apple-ii-more-like-apple-5x.html)
-- [The Verse Calculus: A Core Calculus for Functional Logic Programming [pdf]](https://simon.peytonjones.org/assets/pdfs/verse-March23.pdf)
+- [Ten Years of JSON Web Token and Preparing for the Future](https://self-issued.info/?p=2708)
+- [Advice to Tenstorrent](https://github.com/geohot/tt-tiny)
+- [Ask HN: What are you working on? &lpar;May 2025&rpar;](https://news.ycombinator.com/item?id=44090387)
+- [Plwm – An X11 window manager written in Prolog](https://github.com/Seeker04/plwm)
+- [Chomsky on what ChatGPT is good for &lpar;2023&rpar;](https://chomsky.info/20230503-2/)
+- [Open Source Society University – Path to a free self-taught education in CS](https://github.com/ossu/computer-science)
+- [Martin &lpar;YC S23&rpar; Is Hiring Founding AI/Product Engineers to Build a Better Siri](https://www.ycombinator.com/companies/martin/jobs)
+- [Writing a Self-Mutating x86_64 C Program &lpar;2013&rpar;](https://ephemeral.cx/2013/12/writing-a-self-mutating-x86_64-c-program/)
+- [Show HN: Zli – A Batteries-Included CLI Framework for Zig](https://github.com/xcaeser/zli)
+- [Denmark to raise retirement age to 70](https://www.telegraph.co.uk/world-news/2025/05/23/denmark-raise-retirement-age-70/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

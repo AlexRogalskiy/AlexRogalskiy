@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [My son Max, the boy who came back to life - podcast](https://www.theguardian.com/news/audio/2025/may/26/my-son-max-the-boy-who-came-back-to-life-podcast)
-- [Trump warns attempts to conquer all of Ukraine will lead to ‘downfall’ of Russia](https://www.theguardian.com/us-news/2025/may/25/trump-putin-russia-ukraine-attacks)
-- [EU president secures tariffs delay after talk with Trump](https://www.theguardian.com/business/2025/may/25/german-finance-minister-joins-call-for-us-eu-talks-after-trump-tariff-threat)
-- [New Zealand will not be ‘guilt-tripped’ over environment, resources minister says](https://www.theguardian.com/world/2025/may/26/new-zealand-resources-minister-shane-jones-mining-environment)
-- [‘It wasn’t meant to end this way’: Lineker signs off from Match of the Day](https://www.theguardian.com/football/2025/may/26/it-wasnt-meant-to-end-this-way-lineker-signs-off-from-match-of-the-day)
-- [Men and women getting skin cancer in different parts of the body – study](https://www.theguardian.com/society/2025/may/26/men-and-women-getting-skin-cancer-in-different-parts-of-the-body-study)
-- [Plans for NHS staff to restrain those in mental health crisis ‘dangerous’, medics say](https://www.theguardian.com/society/2025/may/26/plans-for-nhs-staff-to-restrain-those-in-mental-health-crisis-dangerous-medics-say)
-- [Death Valley review – Timothy Spall’s quality new detective drama is a cosy, witty joy](https://www.theguardian.com/tv-and-radio/2025/may/25/death-valley-bbc-review-timothy-spall-detective-drama)
-- [‘Emotional’ Nadal honoured with Roland Garros farewell ceremony](https://www.theguardian.com/sport/2025/may/25/rafael-nadal-roland-garros-farewell-ceremony-french-open)
-- [Aston Villa to complain over choice of referee Bramall for defeat at Manchester United](https://www.theguardian.com/football/2025/may/25/aston-villa-referee-thomas-bramall-manchester-united-premier-league-football)
+- [Erin Patterson murder trial live: ‘highly unlikely’ that commercial mushrooms contaminated with death cap toxins, health official says](https://www.theguardian.com/australia-news/live/2025/may/27/erin-patterson-murder-trial-mushroom-australian-woman-day-20-live-updates-ntwnfb)
+- [Mongolia PM expected to call vote of confidence in the face of protests](https://www.theguardian.com/world/2025/may/27/mongolia-protests-prime-minister-luvsannamsrai)
+- [Fast-track to where? The new law opening up New Zealand to a mining boom](https://www.theguardian.com/world/2025/may/27/fast-track-to-where-the-new-law-opening-up-new-zealand-to-a-mining-boom)
+- [UK must impose sanctions on Israel to meet legal obligations, say more than 800 lawyers](https://www.theguardian.com/world/2025/may/27/uk-must-impose-sanctions-on-israel-to-meet-legal-obligations-say-more-than-800-lawyers)
+- [Fifa ‘more poorly governed today than 10 years ago’, open letter to organisation claims](https://www.theguardian.com/football/2025/may/27/fifa-more-poorly-governed-open-letter-football-politics)
+- [UK food inflation rises for fourth month in a row as steaks beef up prices](https://www.theguardian.com/business/2025/may/27/uk-food-inflation-rises-fourth-month-row-steaks-beef-up-prices)
+- [Tourists from countries badly hit by Trump tariffs are staying away from US](https://www.theguardian.com/business/2025/may/27/tourists-from-countries-badly-hit-by-trump-tariffs-are-staying-away-from-us)
+- [Trump peppers Memorial Day speech with personal boasting and partisan attacks](https://www.theguardian.com/us-news/2025/may/26/trump-memorial-day-speech)
+- [The Rehearsal season two review – TV so wild you will have no idea how they made it](https://www.theguardian.com/tv-and-radio/2025/may/26/the-rehearsal-season-two-review-nathan-fielder)
+- [Novak Djokovic says he remains close to ‘amazing person’ Andy Murray](https://www.theguardian.com/sport/2025/may/26/novak-djokovic-says-he-remains-close-to-amazing-person-andy-murray)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

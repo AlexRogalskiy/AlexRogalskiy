@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Ten Years of JSON Web Token and Preparing for the Future](https://self-issued.info/?p=2708)
-- [Advice to Tenstorrent](https://github.com/geohot/tt-tiny)
-- [Ask HN: What are you working on? &lpar;May 2025&rpar;](https://news.ycombinator.com/item?id=44090387)
-- [Plwm – An X11 window manager written in Prolog](https://github.com/Seeker04/plwm)
-- [Chomsky on what ChatGPT is good for &lpar;2023&rpar;](https://chomsky.info/20230503-2/)
-- [Open Source Society University – Path to a free self-taught education in CS](https://github.com/ossu/computer-science)
-- [Martin &lpar;YC S23&rpar; Is Hiring Founding AI/Product Engineers to Build a Better Siri](https://www.ycombinator.com/companies/martin/jobs)
-- [Writing a Self-Mutating x86_64 C Program &lpar;2013&rpar;](https://ephemeral.cx/2013/12/writing-a-self-mutating-x86_64-c-program/)
-- [Show HN: Zli – A Batteries-Included CLI Framework for Zig](https://github.com/xcaeser/zli)
-- [Denmark to raise retirement age to 70](https://www.telegraph.co.uk/world-news/2025/05/23/denmark-raise-retirement-age-70/)
+- [The UI Future Is Colourful and Dimensional](https://www.flarup.email/p/the-future-is-colourful-and-dimensional)
+- [Yes-rs: A fast, memory-safe rewrite of the classic Unix yes command](https://github.com/jedisct1/yes-rs)
+- [Calendars, Contacts and Files in Stalwart](https://stalw.art/blog/collaboration/)
+- [15 years after servers shut down, FromSoft&#39;s mech game Chromehounds back online](https://www.readonlymemo.com/interview-15-years-after-the-servers-shut-down-fromsofts-singular-mech-game-chromehounds-is-back-online/)
+- [Accessing private GitHub repositories via MCP](https://invariantlabs.ai/blog/mcp-github-vulnerability)
+- [Power Failure](https://www.gwintrob.com/power-failure-review/)
+- [Highlights from the Claude 4 system prompt](https://simonwillison.net/2025/May/25/claude-4-system-prompt/)
+- [Get PC BIOS back on UEFI only system](https://github.com/FlyGoat/csmwrap)
+- [Iron Spring PL/I Compiler](http://www.iron-spring.com/)
+- [Sqawk: A fusion of SQL and Awk: Applying SQL to text-based data files](https://github.com/jgarzik/sqawk)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: A tool to post-process MVT vector tiles quickly](https://github.com/KotobaMedia/mvt-wrangler)
-- [Search and Analyze the Research](https://openalex.org/)
-- [Java Horror Stories: The Mapper Bug](https://medium.com/javarevisited/java-horror-stories-the-mapper-bug-5eeabab99a4c)
-- [Killer Collection of CSS Resets](https://perishablepress.com/a-killer-collection-of-global-css-reset-styles/)
-- [Deidentifying Medical Documents with Local, Privacy-Preserving LLMs](https://ai.nejm.org/doi/full/10.1056/AIdbp2400537)
-- [AI didn&#39;t take your job](https://psychip.net/entry/they-took--er-jeebs----1111)
-- [Show HN: Claude Exporter – Save Claude Convos as PDF, Markdown and More](https://www.claudexporter.com/en)
-- [Tips for me before I quit IT job to prepare for government job?](https://news.ycombinator.com/item?id=44093449)
-- [Post-Social Social Media](https://www.lambdalatitudinarians.org/techblog/2025/05/25/post-social-social-media/)
-- [Testing noise cancellation voice+vision AI [video]](https://www.youtube.com/shorts/bigkAogBQFg)
+- [Is Trump&#39;s &#39;Made in America&#39; iPhone a Fantasy?](https://www.nytimes.com/2025/05/23/technology/apple-iphone-trump-india-china.html)
+- [Super cool tool for color inspiration, discovery, and paint matching](https://colorhub-two.vercel.app/)
+- [Walmart cancels Nintendo Switch 2 pre-order sales for asking support questions](https://www.notebookcheck.net/Walmart-continues-to-cancel-Nintendo-Switch-2-pre-order-sales-for-asking-support-questions.1023912.0.html)
+- [Hacktoberfest 2025](https://hacktoberfest.com)
+- [Show HN: My pathfinding wrapper works with a game engine too](https://www.youtube.com/watch?v=USA8HVbQI1M)
+- [&quot;Chinese Titles Get Clicks, English Titles Get Found&quot;](https://tailwind-nextjs-starter-blog.vercel.app/blog/new-features-in-v1)
+- [Frigate NVR with Coral TPU and iGPU Passthrough Using ESXi on Intel NUC &lpar;2023&rpar;](https://williamlam.com/2023/05/frigate-nvr-with-coral-tpu-igpu-passthrough-using-esxi-on-intel-nuc.html)
+- [A CORS-Free Fetch API](https://developer.puter.com/tutorials/cors-free-fetch-api/)
+- [Coding](https://www.scattered-thoughts.net/writing/coding/)
+- [Show HN: DeepShot – NBA game predictor with 71% accuracy using ML and stats](https://github.com/saccofrancesco/deepshot)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

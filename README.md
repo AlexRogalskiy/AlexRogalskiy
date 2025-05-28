@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Erin Patterson murder trial live: ‘highly unlikely’ that commercial mushrooms contaminated with death cap toxins, health official says](https://www.theguardian.com/australia-news/live/2025/may/27/erin-patterson-murder-trial-mushroom-australian-woman-day-20-live-updates-ntwnfb)
-- [Mongolia PM expected to call vote of confidence in the face of protests](https://www.theguardian.com/world/2025/may/27/mongolia-protests-prime-minister-luvsannamsrai)
-- [Fast-track to where? The new law opening up New Zealand to a mining boom](https://www.theguardian.com/world/2025/may/27/fast-track-to-where-the-new-law-opening-up-new-zealand-to-a-mining-boom)
-- [UK must impose sanctions on Israel to meet legal obligations, say more than 800 lawyers](https://www.theguardian.com/world/2025/may/27/uk-must-impose-sanctions-on-israel-to-meet-legal-obligations-say-more-than-800-lawyers)
-- [Fifa ‘more poorly governed today than 10 years ago’, open letter to organisation claims](https://www.theguardian.com/football/2025/may/27/fifa-more-poorly-governed-open-letter-football-politics)
-- [UK food inflation rises for fourth month in a row as steaks beef up prices](https://www.theguardian.com/business/2025/may/27/uk-food-inflation-rises-fourth-month-row-steaks-beef-up-prices)
-- [Tourists from countries badly hit by Trump tariffs are staying away from US](https://www.theguardian.com/business/2025/may/27/tourists-from-countries-badly-hit-by-trump-tariffs-are-staying-away-from-us)
-- [Trump peppers Memorial Day speech with personal boasting and partisan attacks](https://www.theguardian.com/us-news/2025/may/26/trump-memorial-day-speech)
-- [The Rehearsal season two review – TV so wild you will have no idea how they made it](https://www.theguardian.com/tv-and-radio/2025/may/26/the-rehearsal-season-two-review-nathan-fielder)
-- [Novak Djokovic says he remains close to ‘amazing person’ Andy Murray](https://www.theguardian.com/sport/2025/may/26/novak-djokovic-says-he-remains-close-to-amazing-person-andy-murray)
+- [SpaceX loses contact with Starship rocket after ninth test flight launch](https://www.theguardian.com/science/2025/may/28/spacex-starship-rocket-launch-9th-test-flight-lost-contact)
+- [Peak speed: Sherpas say their traditions are at risk after record Everest ascents](https://www.theguardian.com/world/2025/may/28/peak-speed-sherpas-say-their-traditions-are-at-risk-after-record-everest-ascents)
+- [UK homeowners selling for 4.5% below asking price, survey shows](https://www.theguardian.com/money/2025/may/28/uk-homeowners-selling-less-asking-price-survey-zoopla)
+- [Humans moving to ancient cities sent bedbug numbers soaring, say scientists](https://www.theguardian.com/science/2025/may/28/humans-moving-to-ancient-cities-sent-bedbug-numbers-soaring-say-scientists)
+- [‘Remote purchase’ fraud in UK surges as customers tricked into disclosing passcodes](https://www.theguardian.com/money/2025/may/28/remote-purchase-fraud-uk-surges-customers-tricked-passcodes)
+- [‘The national museum of absolutely everything’: new V&amp;A outpost is an architectural delight](https://www.theguardian.com/artanddesign/2025/may/28/v-and-a-east-storehouse-architectural-delight)
+- [Storyville: White Man Walking Review – the man who marched 1,500 miles with a Black Lives Matter sign](https://www.theguardian.com/tv-and-radio/2025/may/27/storyville-white-man-walking-review-the-man-who-marched-1500-miles-with-a-black-lives-matter-sign)
+- [‘Not everybody spoke posh’ in Jane Austen’s era, says top producer](https://www.theguardian.com/books/2025/may/27/not-everybody-spoke-posh-in-jane-austens-era-says-top-producer)
+- [Arne Slot pulls out of LMA awards dinner after Liverpool parade incident](https://www.theguardian.com/football/2025/may/27/arne-slot-lma-awards-dinner-liverpool-premier-league-victory-parade-incident)
+- [Former employee testifies Sean ‘Diddy’ Combs said ‘we’re going to kill’ Kid Cudi](https://www.theguardian.com/music/2025/may/27/sean-diddy-combs-trial)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Is Trump&#39;s &#39;Made in America&#39; iPhone a Fantasy?](https://www.nytimes.com/2025/05/23/technology/apple-iphone-trump-india-china.html)
-- [Super cool tool for color inspiration, discovery, and paint matching](https://colorhub-two.vercel.app/)
-- [Walmart cancels Nintendo Switch 2 pre-order sales for asking support questions](https://www.notebookcheck.net/Walmart-continues-to-cancel-Nintendo-Switch-2-pre-order-sales-for-asking-support-questions.1023912.0.html)
-- [Hacktoberfest 2025](https://hacktoberfest.com)
-- [Show HN: My pathfinding wrapper works with a game engine too](https://www.youtube.com/watch?v=USA8HVbQI1M)
-- [&quot;Chinese Titles Get Clicks, English Titles Get Found&quot;](https://tailwind-nextjs-starter-blog.vercel.app/blog/new-features-in-v1)
-- [Frigate NVR with Coral TPU and iGPU Passthrough Using ESXi on Intel NUC &lpar;2023&rpar;](https://williamlam.com/2023/05/frigate-nvr-with-coral-tpu-igpu-passthrough-using-esxi-on-intel-nuc.html)
-- [A CORS-Free Fetch API](https://developer.puter.com/tutorials/cors-free-fetch-api/)
-- [Coding](https://www.scattered-thoughts.net/writing/coding/)
-- [Show HN: DeepShot – NBA game predictor with 71% accuracy using ML and stats](https://github.com/saccofrancesco/deepshot)
+- [Ask HN: Mid Life Crisis](https://news.ycombinator.com/item?id=44112445)
+- [Nothing&#39;s Carl Pei says your smartphone&#39;s OS will replace all of its apps](https://9to5google.com/2025/05/27/nothing-carl-pei-smartphone-future-without-apps/)
+- [Show HN: My AI Tutor now supports voice mode](https://www.tutorflowai.com/)
+- [From Heaven to Hell: The Odd Vertical Limits of Land Ownership &lpar;2018&rpar;](https://99percentinvisible.org/article/heaven-hell-exploring-odd-vertical-limits-land-ownership/)
+- [Southwest Airlines Sets Baggage Fees](https://www.nytimes.com/2025/05/27/travel/southwest-airlines-baggage-fees.html)
+- [Ask HN: Is anyone using AI conversation partners?](https://news.ycombinator.com/item?id=44112357)
+- [How not to format a private key](https://keymaterial.net/2025/02/19/how-not-to-format-a-private-key/)
+- [Global high-performance proof-of-stake blockchain with erasure coding](https://github.com/qkniep/alpenglow)
+- [Why MCP clicked for me: It&#39;s not about the API, it&#39;s about the design](https://gabbert.me/Posts/Why+MCP+finally+clicked+for+me)
+- [AWS IQ End of Support](https://docs.aws.amazon.com/aws-iq/latest/experts-user-guide/aws-iq-end-of-support.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

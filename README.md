@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The UI Future Is Colourful and Dimensional](https://www.flarup.email/p/the-future-is-colourful-and-dimensional)
-- [Yes-rs: A fast, memory-safe rewrite of the classic Unix yes command](https://github.com/jedisct1/yes-rs)
-- [Calendars, Contacts and Files in Stalwart](https://stalw.art/blog/collaboration/)
-- [15 years after servers shut down, FromSoft&#39;s mech game Chromehounds back online](https://www.readonlymemo.com/interview-15-years-after-the-servers-shut-down-fromsofts-singular-mech-game-chromehounds-is-back-online/)
-- [Accessing private GitHub repositories via MCP](https://invariantlabs.ai/blog/mcp-github-vulnerability)
-- [Power Failure](https://www.gwintrob.com/power-failure-review/)
-- [Highlights from the Claude 4 system prompt](https://simonwillison.net/2025/May/25/claude-4-system-prompt/)
-- [Get PC BIOS back on UEFI only system](https://github.com/FlyGoat/csmwrap)
-- [Iron Spring PL/I Compiler](http://www.iron-spring.com/)
-- [Sqawk: A fusion of SQL and Awk: Applying SQL to text-based data files](https://github.com/jgarzik/sqawk)
+- [Ask HN: Is anyone using AI conversation partners?](https://news.ycombinator.com/item?id=44112357)
+- [Show HN: AutoThink – Boosts local LLM performance by 43% with adaptive reasoning](https://news.ycombinator.com/item?id=44112326)
+- [Theory of Stupidity [pdf]](https://www.onthewing.org/user/Bonhoeffer%20-%20Theory%20of%20Stupidity.pdf)
+- [Using Postgres pg_test_fsync tool for testing low latency writes](https://tanelpoder.com/posts/using-pg-test-fsync-for-testing-low-latency-writes/)
+- [A privilege escalation from Chrome extensions &lpar;2023&rpar;](https://0x44.xyz/blog/cve-2023-4369/)
+- [Look ma, no bubbles designing a low-latency megakernel for Llama-1B](https://hazyresearch.stanford.edu/blog/2025-05-27-no-bubbles)
+- [A UEFI app that sends LLDP-MED pkt at boot to negotiate PoE+ power before the OS](https://roderickkhan.com/posts/2025-05-16-poe-uefi-solution)
+- [OpenTPU: Open-Source Reimplementation of Google Tensor Processing Unit &lpar;TPU&rpar;](https://github.com/UCSBarchlab/OpenTPU)
+- [Mustard Watches &lpar;1990&rpar;](https://girard.perso.math.cnrs.fr/mustard/article.html)
+- [Show HN: My LLM CLI tool can run tools now, from Python code or plugins](https://simonwillison.net/2025/May/27/llm-tools/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

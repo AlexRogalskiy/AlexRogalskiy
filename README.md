@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [SpaceX loses contact with Starship rocket after ninth test flight launch](https://www.theguardian.com/science/2025/may/28/spacex-starship-rocket-launch-9th-test-flight-lost-contact)
-- [Peak speed: Sherpas say their traditions are at risk after record Everest ascents](https://www.theguardian.com/world/2025/may/28/peak-speed-sherpas-say-their-traditions-are-at-risk-after-record-everest-ascents)
-- [UK homeowners selling for 4.5% below asking price, survey shows](https://www.theguardian.com/money/2025/may/28/uk-homeowners-selling-less-asking-price-survey-zoopla)
-- [Humans moving to ancient cities sent bedbug numbers soaring, say scientists](https://www.theguardian.com/science/2025/may/28/humans-moving-to-ancient-cities-sent-bedbug-numbers-soaring-say-scientists)
-- [‘Remote purchase’ fraud in UK surges as customers tricked into disclosing passcodes](https://www.theguardian.com/money/2025/may/28/remote-purchase-fraud-uk-surges-customers-tricked-passcodes)
-- [‘The national museum of absolutely everything’: new V&amp;A outpost is an architectural delight](https://www.theguardian.com/artanddesign/2025/may/28/v-and-a-east-storehouse-architectural-delight)
-- [Storyville: White Man Walking Review – the man who marched 1,500 miles with a Black Lives Matter sign](https://www.theguardian.com/tv-and-radio/2025/may/27/storyville-white-man-walking-review-the-man-who-marched-1500-miles-with-a-black-lives-matter-sign)
-- [‘Not everybody spoke posh’ in Jane Austen’s era, says top producer](https://www.theguardian.com/books/2025/may/27/not-everybody-spoke-posh-in-jane-austens-era-says-top-producer)
-- [Arne Slot pulls out of LMA awards dinner after Liverpool parade incident](https://www.theguardian.com/football/2025/may/27/arne-slot-lma-awards-dinner-liverpool-premier-league-victory-parade-incident)
-- [Former employee testifies Sean ‘Diddy’ Combs said ‘we’re going to kill’ Kid Cudi](https://www.theguardian.com/music/2025/may/27/sean-diddy-combs-trial)
+- [US federal court blocks Trump from imposing sweeping tariffs](https://www.theguardian.com/us-news/2025/may/28/us-court-blocks-trump-tariffs)
+- [Ukraine war briefing: Kremlin holds back peace memorandum that it promised Trump](https://www.theguardian.com/world/2025/may/29/ukraine-war-briefing-kremlin-peace-talks-istanbul-zelenskyy-putin)
+- [Trump laments size of ‘much too big’ airplane gifted by Qatar](https://www.theguardian.com/us-news/2025/may/28/trump-qatar-plane-gift-boeing)
+- [Starmer to say Reform’s spending plans would cause a Truss-style meltdown](https://www.theguardian.com/politics/2025/may/29/keir-starmer-nigel-farage-reform-uk-spending-plans-truss-meltdown)
+- [Housing ombudsman for England warns of ‘simmering anger’ over living conditions](https://www.theguardian.com/society/2025/may/29/housing-ombudsman-for-england-warns-of-simmering-anger-over-living-conditions)
+- [Relax guidance for meat three times a week in English schools, says charity](https://www.theguardian.com/education/2025/may/29/relax-guidance-for-meat-three-times-a-week-in-english-schools-says-charity)
+- [Company directors who cause nature damage in Scotland could face jail](https://www.theguardian.com/uk-news/2025/may/29/company-directors-who-cause-nature-damage-in-scotland-could-face-jail)
+- [Far-right Chega party becomes main opposition in Portugal’s parliament](https://www.theguardian.com/world/2025/may/28/far-right-chega-party-becomes-main-opposition-in-portugals-parliament)
+- [Trump says he warned Israel against attack on Iran as nuclear deal ‘very close’](https://www.theguardian.com/world/2025/may/28/iran-nuclear-talks-europe-mandelson-us)
+- [Chelsea and Cole Palmer storm back at Real Betis to win Conference League](https://www.theguardian.com/football/2025/may/28/real-betis-chelsea-europa-conference-league-final-match-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ask HN: Mid Life Crisis](https://news.ycombinator.com/item?id=44112445)
-- [Nothing&#39;s Carl Pei says your smartphone&#39;s OS will replace all of its apps](https://9to5google.com/2025/05/27/nothing-carl-pei-smartphone-future-without-apps/)
-- [Show HN: My AI Tutor now supports voice mode](https://www.tutorflowai.com/)
-- [From Heaven to Hell: The Odd Vertical Limits of Land Ownership &lpar;2018&rpar;](https://99percentinvisible.org/article/heaven-hell-exploring-odd-vertical-limits-land-ownership/)
-- [Southwest Airlines Sets Baggage Fees](https://www.nytimes.com/2025/05/27/travel/southwest-airlines-baggage-fees.html)
-- [Ask HN: Is anyone using AI conversation partners?](https://news.ycombinator.com/item?id=44112357)
-- [How not to format a private key](https://keymaterial.net/2025/02/19/how-not-to-format-a-private-key/)
-- [Global high-performance proof-of-stake blockchain with erasure coding](https://github.com/qkniep/alpenglow)
-- [Why MCP clicked for me: It&#39;s not about the API, it&#39;s about the design](https://gabbert.me/Posts/Why+MCP+finally+clicked+for+me)
-- [AWS IQ End of Support](https://docs.aws.amazon.com/aws-iq/latest/experts-user-guide/aws-iq-end-of-support.html)
+- [How &quot;Do Your Own Research&quot; Became a Slogan for Epistemic Collapse](https://infinitehearsay.com/how-do-your-own-research-became-a-slogan-for-epistemic-collapse/)
+- [Antipodes Islands](https://en.wikipedia.org/wiki/Antipodes_Islands)
+- [Stitch: Design at the Speed of AI](https://stitch.withgoogle.com/)
+- [Pgrwl – Cloud-Native PostgreSQL WAL Receiver](https://github.com/hashmap-kz/pgrwl)
+- [Menominee Warrior Society Novitiate Takeover Collection](https://content.wisconsinhistory.org/digital/collection/sccl/search)
+- [Tokio-mpmc v0.2 support channel](https://github.com/lispking/tokio-mpmc)
+- [Cloi CLI: Local debugging agent that runs in your terminal](https://github.com/cloi-ai/cloi)
+- [We Won Our Tariff Case](https://reason.com/volokh/2025/05/28/we-won-our-tariff-case/)
+- [Angular v20](https://blog.angular.dev/announcing-angular-v20-b5c9c06cf301)
+- [Being Liked or &quot;Mistaking Harmony for Health&quot;](https://jamesjboyer.substack.com/p/on-being-liked-or-mistaking-harmony)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

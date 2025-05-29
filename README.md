@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Ask HN: Is anyone using AI conversation partners?](https://news.ycombinator.com/item?id=44112357)
-- [Show HN: AutoThink – Boosts local LLM performance by 43% with adaptive reasoning](https://news.ycombinator.com/item?id=44112326)
-- [Theory of Stupidity [pdf]](https://www.onthewing.org/user/Bonhoeffer%20-%20Theory%20of%20Stupidity.pdf)
-- [Using Postgres pg_test_fsync tool for testing low latency writes](https://tanelpoder.com/posts/using-pg-test-fsync-for-testing-low-latency-writes/)
-- [A privilege escalation from Chrome extensions &lpar;2023&rpar;](https://0x44.xyz/blog/cve-2023-4369/)
-- [Look ma, no bubbles designing a low-latency megakernel for Llama-1B](https://hazyresearch.stanford.edu/blog/2025-05-27-no-bubbles)
-- [A UEFI app that sends LLDP-MED pkt at boot to negotiate PoE+ power before the OS](https://roderickkhan.com/posts/2025-05-16-poe-uefi-solution)
-- [OpenTPU: Open-Source Reimplementation of Google Tensor Processing Unit &lpar;TPU&rpar;](https://github.com/UCSBarchlab/OpenTPU)
-- [Mustard Watches &lpar;1990&rpar;](https://girard.perso.math.cnrs.fr/mustard/article.html)
-- [Show HN: My LLM CLI tool can run tools now, from Python code or plugins](https://simonwillison.net/2025/May/27/llm-tools/)
+- [Show HN: Handover.ai – Knowledge transfer made easy](https://www.handover.ai/)
+- [US Trade Court Finds Trump Tariffs Illegal](https://www.bloomberg.com/news/articles/2025-05-28/trump-s-global-tariffs-blocked-by-us-trade-court)
+- [HTAP Databases Are Dead](https://www.mooncake.dev/blog/htap-is-dead)
+- [Long live American Science and Surplus &lpar;which needs your help&rpar;](https://milwaukeerecord.com/city-life/long-live-american-science-surplus-which-needs-your-help/)
+- [A toy RTOS inside Super Mario Bros. using emulator save states](https://prettygoodblog.com/p/what-threads-are-part-2)
+- [What does “Undecidable” mean, anyway](https://buttondown.com/hillelwayne/archive/what-does-undecidable-mean-anyway/)
+- [Deepseek R1-0528](https://huggingface.co/deepseek-ai/DeepSeek-R1-0528)
+- [Compiling a neural net to C for a speedup](https://slightknack.dev/blog/difflogic/)
+- [GoGoGrandparent &lpar;YC S16&rpar; is hiring Back end Engineers](https://news.ycombinator.com/item?id=44118127)
+- [Show HN: I rewrote my Mac Electron app in Rust](https://desktopdocs.com/?v=2025)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

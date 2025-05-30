@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Show HN: Handover.ai – Knowledge transfer made easy](https://www.handover.ai/)
-- [US Trade Court Finds Trump Tariffs Illegal](https://www.bloomberg.com/news/articles/2025-05-28/trump-s-global-tariffs-blocked-by-us-trade-court)
-- [HTAP Databases Are Dead](https://www.mooncake.dev/blog/htap-is-dead)
-- [Long live American Science and Surplus &lpar;which needs your help&rpar;](https://milwaukeerecord.com/city-life/long-live-american-science-surplus-which-needs-your-help/)
-- [A toy RTOS inside Super Mario Bros. using emulator save states](https://prettygoodblog.com/p/what-threads-are-part-2)
-- [What does “Undecidable” mean, anyway](https://buttondown.com/hillelwayne/archive/what-does-undecidable-mean-anyway/)
-- [Deepseek R1-0528](https://huggingface.co/deepseek-ai/DeepSeek-R1-0528)
-- [Compiling a neural net to C for a speedup](https://slightknack.dev/blog/difflogic/)
-- [GoGoGrandparent &lpar;YC S16&rpar; is hiring Back end Engineers](https://news.ycombinator.com/item?id=44118127)
-- [Show HN: I rewrote my Mac Electron app in Rust](https://desktopdocs.com/?v=2025)
+- [Player Piano Rolls](https://omeka-s.library.illinois.edu/s/MPAL/page/player-piano-rolls-landing)
+- [U.S. Sanctions Cloud Provider &#39;Funnull&#39; as Top Source of &#39;Pig Butchering&#39; Scams](https://krebsonsecurity.com/2025/05/u-s-sanctions-cloud-provider-funnull-as-top-source-of-pig-butchering-scams/)
+- [Practical SDR: Getting Started with Software-Defined Radio](https://nostarch.com/practical-sdr)
+- [Net-Negative Cursor](https://lukasatkinson.de/2025/net-negative-cursor/)
+- [Notes on Tunisia](https://mattlakeman.org/2025/05/29/notes-on-tunisia/)
+- [Airlines are charging solo passengers higher fares than groups](https://thriftytraveler.com/news/airlines/airlines-charging-solo-travelers-higher-fares/)
+- [FLUX.1 Kontext](https://bfl.ai/models/flux-kontext)
+- [Open-sourcing circuit tracing tools](https://www.anthropic.com/research/open-source-circuit-tracing)
+- [Infisical &lpar;YC W23&rpar; Is Hiring Full Stack Engineers &lpar;TypeScript&rpar; in US and Canada](https://www.ycombinator.com/companies/infisical/jobs/vGwCQVk-full-stack-engineer-us-canada)
+- [Human coders are still better than LLMs](https://antirez.com/news/153)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

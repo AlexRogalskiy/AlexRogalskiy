@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [US federal court blocks Trump from imposing sweeping tariffs](https://www.theguardian.com/us-news/2025/may/28/us-court-blocks-trump-tariffs)
-- [Ukraine war briefing: Kremlin holds back peace memorandum that it promised Trump](https://www.theguardian.com/world/2025/may/29/ukraine-war-briefing-kremlin-peace-talks-istanbul-zelenskyy-putin)
-- [Trump laments size of ‘much too big’ airplane gifted by Qatar](https://www.theguardian.com/us-news/2025/may/28/trump-qatar-plane-gift-boeing)
-- [Starmer to say Reform’s spending plans would cause a Truss-style meltdown](https://www.theguardian.com/politics/2025/may/29/keir-starmer-nigel-farage-reform-uk-spending-plans-truss-meltdown)
-- [Housing ombudsman for England warns of ‘simmering anger’ over living conditions](https://www.theguardian.com/society/2025/may/29/housing-ombudsman-for-england-warns-of-simmering-anger-over-living-conditions)
-- [Relax guidance for meat three times a week in English schools, says charity](https://www.theguardian.com/education/2025/may/29/relax-guidance-for-meat-three-times-a-week-in-english-schools-says-charity)
-- [Company directors who cause nature damage in Scotland could face jail](https://www.theguardian.com/uk-news/2025/may/29/company-directors-who-cause-nature-damage-in-scotland-could-face-jail)
-- [Far-right Chega party becomes main opposition in Portugal’s parliament](https://www.theguardian.com/world/2025/may/28/far-right-chega-party-becomes-main-opposition-in-portugals-parliament)
-- [Trump says he warned Israel against attack on Iran as nuclear deal ‘very close’](https://www.theguardian.com/world/2025/may/28/iran-nuclear-talks-europe-mandelson-us)
-- [Chelsea and Cole Palmer storm back at Real Betis to win Conference League](https://www.theguardian.com/football/2025/may/28/real-betis-chelsea-europa-conference-league-final-match-report)
+- [Hong Kong releases second group of democrats jailed for four years in national security trial](https://www.theguardian.com/world/2025/may/30/hong-kong-releases-second-group-democrats-jailed-four-years-national-security-trial)
+- [‘Start exercising!’: secrets of Thailand’s 105-year-old athletics champion](https://www.theguardian.com/world/2025/may/30/sawang-janpram-thailand-105-year-old-athletics-champion-world-exercise)
+- [Man charged with stalking Jennifer Aniston found mentally incompetent to stand trial](https://www.theguardian.com/film/2025/may/30/jennifer-aniston-man-charged-with-stalking-found-mentally-incompetent-to-stand-trial)
+- [Ukraine war briefing: Flood of North Korean arms to Russia, say US, Japan and others](https://www.theguardian.com/world/2025/may/30/ukraine-war-briefing-flood-of-north-korean-arms-to-russia-say-us-japan-and-others)
+- [New AI test can predict which men will benefit from prostate cancer drug](https://www.theguardian.com/society/2025/may/30/new-ai-test-can-predict-which-men-will-benefit-from-prostate-cancer-drug)
+- [Vet complaint process in UK often ‘stacked against pet owners’](https://www.theguardian.com/science/2025/may/30/vet-complaint-process-in-uk-often-stacked-against-pet-owners)
+- [Reform UK to accept donations via bitcoin, Nigel Farage says](https://www.theguardian.com/politics/2025/may/29/reform-uk-to-accept-donations-via-bitcoin-nigel-farage-says)
+- [Jack Draper overcomes raucous French Open crowd to beat home hero Monfils](https://www.theguardian.com/sport/2025/may/29/jack-draper-overcomes-raucous-french-open-crowd-beat-home-hero-gael-monfils-tennis)
+- [The chaos Elon Musk and Doge are leaving behind in Washington](https://www.theguardian.com/technology/2025/may/29/elon-musk-trump-doge-adviser-exit)
+- [Remains of Mayan city nearly 3,000 years old unearthed in Guatemala](https://www.theguardian.com/world/2025/may/29/mayan-city-remains-guatemala-los-abuelos-unearthed)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

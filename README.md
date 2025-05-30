@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [How &quot;Do Your Own Research&quot; Became a Slogan for Epistemic Collapse](https://infinitehearsay.com/how-do-your-own-research-became-a-slogan-for-epistemic-collapse/)
-- [Antipodes Islands](https://en.wikipedia.org/wiki/Antipodes_Islands)
-- [Stitch: Design at the Speed of AI](https://stitch.withgoogle.com/)
-- [Pgrwl – Cloud-Native PostgreSQL WAL Receiver](https://github.com/hashmap-kz/pgrwl)
-- [Menominee Warrior Society Novitiate Takeover Collection](https://content.wisconsinhistory.org/digital/collection/sccl/search)
-- [Tokio-mpmc v0.2 support channel](https://github.com/lispking/tokio-mpmc)
-- [Cloi CLI: Local debugging agent that runs in your terminal](https://github.com/cloi-ai/cloi)
-- [We Won Our Tariff Case](https://reason.com/volokh/2025/05/28/we-won-our-tariff-case/)
-- [Angular v20](https://blog.angular.dev/announcing-angular-v20-b5c9c06cf301)
-- [Being Liked or &quot;Mistaking Harmony for Health&quot;](https://jamesjboyer.substack.com/p/on-being-liked-or-mistaking-harmony)
+- [MariaDB Acquires Galera Cluster](https://mariadb.com/newsroom/press-releases/mariadb-acquires-galera-cluster/)
+- [Product of Additive Inverses](https://susam.net/product-of-additive-inverses.html)
+- [Player Piano Rolls](https://omeka-s.library.illinois.edu/s/MPAL/page/player-piano-rolls-landing)
+- [Google&#39;s Stitch nails prompt abstraction – I explored similar ideas in janicre](https://news.ycombinator.com/item?id=44132403)
+- [Quiero crear una nueva aplicación](https://blog.cloudflare.com/foundation-dns-launch/)
+- [White House MAHA Report may have garbled science by using AI, experts say](https://www.adn.com/nation-world/2025/05/29/white-house-maha-report-may-have-garbled-science-by-using-ai-experts-say/)
+- [Prosody 13.0.2 released – An XMPP/Jabber server written in Lua](https://blog.prosody.im/prosody-13.0.2-released/)
+- [Pick Your &lpar;User Agent&rpar; Battles](https://sharpletters.net/2025/05/29/pick-your-ua-battles/)
+- [RAG is dead, long live agentic retrieval](https://www.llamaindex.ai/blog/rag-is-dead-long-live-agentic-retrieval)
+- [Restoring Gold Standard Science](https://www.whitehouse.gov/presidential-actions/2025/05/restoring-gold-standard-science/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

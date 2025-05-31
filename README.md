@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Hong Kong releases second group of democrats jailed for four years in national security trial](https://www.theguardian.com/world/2025/may/30/hong-kong-releases-second-group-democrats-jailed-four-years-national-security-trial)
-- [‘Start exercising!’: secrets of Thailand’s 105-year-old athletics champion](https://www.theguardian.com/world/2025/may/30/sawang-janpram-thailand-105-year-old-athletics-champion-world-exercise)
-- [Man charged with stalking Jennifer Aniston found mentally incompetent to stand trial](https://www.theguardian.com/film/2025/may/30/jennifer-aniston-man-charged-with-stalking-found-mentally-incompetent-to-stand-trial)
-- [Ukraine war briefing: Flood of North Korean arms to Russia, say US, Japan and others](https://www.theguardian.com/world/2025/may/30/ukraine-war-briefing-flood-of-north-korean-arms-to-russia-say-us-japan-and-others)
-- [New AI test can predict which men will benefit from prostate cancer drug](https://www.theguardian.com/society/2025/may/30/new-ai-test-can-predict-which-men-will-benefit-from-prostate-cancer-drug)
-- [Vet complaint process in UK often ‘stacked against pet owners’](https://www.theguardian.com/science/2025/may/30/vet-complaint-process-in-uk-often-stacked-against-pet-owners)
-- [Reform UK to accept donations via bitcoin, Nigel Farage says](https://www.theguardian.com/politics/2025/may/29/reform-uk-to-accept-donations-via-bitcoin-nigel-farage-says)
-- [Jack Draper overcomes raucous French Open crowd to beat home hero Monfils](https://www.theguardian.com/sport/2025/may/29/jack-draper-overcomes-raucous-french-open-crowd-beat-home-hero-gael-monfils-tennis)
-- [The chaos Elon Musk and Doge are leaving behind in Washington](https://www.theguardian.com/technology/2025/may/29/elon-musk-trump-doge-adviser-exit)
-- [Remains of Mayan city nearly 3,000 years old unearthed in Guatemala](https://www.theguardian.com/world/2025/may/29/mayan-city-remains-guatemala-los-abuelos-unearthed)
+- [Germany vows to step up militarily but rhetoric may struggle to match reality](https://www.theguardian.com/world/2025/may/31/germany-vow-step-up-militarily-rhetoric-struggle-match-reality)
+- [Pete Hegseth calls on Asia to boost military spending in face of ‘imminent’ threat from China](https://www.theguardian.com/us-news/2025/may/31/pete-hegseth-calls-on-asia-to-boost-military-spending-in-face-of-imminent-threat-from-china-us-defence-secretary)
+- [Trump announces 50% steel tariffs and hails ‘blockbuster’ deal with Japan](https://www.theguardian.com/us-news/2025/may/30/trump-tariffs-steel-japan)
+- [Trump says he fired National Portrait Gallery chief in latest conflict with arts](https://www.theguardian.com/us-news/2025/may/30/trump-fires-kim-sajet-national-portrait-gallery-director)
+- [‘New era of threat’ amid changing face of war, UK defence review to warn](https://www.theguardian.com/politics/2025/may/31/new-era-of-threat-amid-changing-face-of-war-uk-defence-review-to-warn)
+- [‘Gift of life’: experts hail neck and head cancer breakthrough](https://www.theguardian.com/society/2025/may/31/neck-and-head-cancer-breakthrough-drug-immunotherapy)
+- [Beever-Jones hits rapid hat-trick as Lionesses pummel Portugal 6-0 in Nations League](https://www.theguardian.com/football/2025/may/30/beever-jones-rapid-hat-trick-as-england-dismantle-portugal-in-nations-league)
+- [And Just Like That season three review – finally! The Sex and the City spin off hits its stride](https://www.theguardian.com/tv-and-radio/2025/may/30/and-just-like-that-season-three-review-finally-the-sex-and-the-city-spin-off-hits-its-stride)
+- [Étienne-Émile Baulieu, French scientist who invented abortion pill, dies aged 98](https://www.theguardian.com/world/2025/may/30/etienne-emile-baulieu-french-scientist-who-invented-abortion-pill-dies-aged-98)
+- [Loretta Swit, who played ‘Hot Lips’ Houlihan on M*A*S*H, dies aged 87](https://www.theguardian.com/tv-and-radio/2025/may/30/loretta-swit-actor-dead)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

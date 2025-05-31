@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [MariaDB Acquires Galera Cluster](https://mariadb.com/newsroom/press-releases/mariadb-acquires-galera-cluster/)
-- [Product of Additive Inverses](https://susam.net/product-of-additive-inverses.html)
-- [Player Piano Rolls](https://omeka-s.library.illinois.edu/s/MPAL/page/player-piano-rolls-landing)
-- [Google&#39;s Stitch nails prompt abstraction – I explored similar ideas in janicre](https://news.ycombinator.com/item?id=44132403)
-- [Quiero crear una nueva aplicación](https://blog.cloudflare.com/foundation-dns-launch/)
-- [White House MAHA Report may have garbled science by using AI, experts say](https://www.adn.com/nation-world/2025/05/29/white-house-maha-report-may-have-garbled-science-by-using-ai-experts-say/)
-- [Prosody 13.0.2 released – An XMPP/Jabber server written in Lua](https://blog.prosody.im/prosody-13.0.2-released/)
-- [Pick Your &lpar;User Agent&rpar; Battles](https://sharpletters.net/2025/05/29/pick-your-ua-battles/)
-- [RAG is dead, long live agentic retrieval](https://www.llamaindex.ai/blog/rag-is-dead-long-live-agentic-retrieval)
-- [Restoring Gold Standard Science](https://www.whitehouse.gov/presidential-actions/2025/05/restoring-gold-standard-science/)
+- [What I Learned Trying to Spend a Year Celibate](https://www.nytimes.com/2025/05/28/magazine/year-of-celibacy.html)
+- [Google AI Mode for Search Has Arrived. Proceed with Caution](https://www.nytimes.com/2025/05/29/technology/personaltech/google-ai-mode-search.html)
+- [Show HN: Open-Source LLM-Powered Invoice and Receipt Extractor](https://news.ycombinator.com/item?id=44141573)
+- [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+- [SMD Prototyping Is a Work of Art &lpar;2016&rpar;](https://hackaday.com/2016/10/10/ne555s-smd-prototyping-is-a-work-of-art/)
+- [Turning Portal 2 into a Web Server [video]](https://www.youtube.com/watch?v=-v5vCLLsqbA)
+- [Volkswagen to make &#39;massive&#39; investment in US in bid to avoid tariffs](https://www.theguardian.com/business/2025/may/30/volkswagen-to-make-massive-investment-in-us-to-avoid-tariffs)
+- [UK Carbon Price Soars 8% as London Agrees to Link Emissions Trading with EU](https://oilprice.com/Energy/Energy-General/UK-Carbon-Price-Soars-8-as-London-Agrees-to-Link-Emissions-Trading-With-EU.html)
+- [The Tech Fascist Axis](https://www.vcinfodocs.com/the-tech-fascist-axis)
+- [Automattic says it will start contributing to WordPress again after pause](https://techcrunch.com/2025/05/30/automattic-says-it-will-start-contributing-to-wordpress-again-after-pause/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

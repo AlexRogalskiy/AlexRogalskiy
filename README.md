@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Player Piano Rolls](https://omeka-s.library.illinois.edu/s/MPAL/page/player-piano-rolls-landing)
-- [U.S. Sanctions Cloud Provider &#39;Funnull&#39; as Top Source of &#39;Pig Butchering&#39; Scams](https://krebsonsecurity.com/2025/05/u-s-sanctions-cloud-provider-funnull-as-top-source-of-pig-butchering-scams/)
-- [Practical SDR: Getting Started with Software-Defined Radio](https://nostarch.com/practical-sdr)
-- [Net-Negative Cursor](https://lukasatkinson.de/2025/net-negative-cursor/)
-- [Notes on Tunisia](https://mattlakeman.org/2025/05/29/notes-on-tunisia/)
-- [Airlines are charging solo passengers higher fares than groups](https://thriftytraveler.com/news/airlines/airlines-charging-solo-travelers-higher-fares/)
-- [FLUX.1 Kontext](https://bfl.ai/models/flux-kontext)
-- [Open-sourcing circuit tracing tools](https://www.anthropic.com/research/open-source-circuit-tracing)
-- [Infisical &lpar;YC W23&rpar; Is Hiring Full Stack Engineers &lpar;TypeScript&rpar; in US and Canada](https://www.ycombinator.com/companies/infisical/jobs/vGwCQVk-full-stack-engineer-us-canada)
-- [Human coders are still better than LLMs](https://antirez.com/news/153)
+- [Every 5x5 Nonogram](https://pixelogic.app/every-5x5-nonogram)
+- [Valkey Turns One: Community fork of Redis](https://www.gomomento.com/blog/valkey-turns-one-how-the-community-fork-left-redis-in-the-dust/)
+- [Silicon Valley finally has a big electronics retailer again: Micro Center opens](https://www.microcenter.com/site/mc-news/article/micro-center-santa-clara-photos.aspx)
+- [StackAI &lpar;YC W23&rpar; Is Looking for SWR and Tailwind Wizards](https://www.ycombinator.com/companies/stackai/jobs/C1rOopy-frontend-engineer)
+- [Photos taken inside musical instruments](https://www.dpreview.com/photography/5400934096/probe-lenses-and-focus-stacking-the-secrets-to-incredible-photos-taken-inside-instruments)
+- [Jerry Lewis&#39;s &quot;The Day the Clown Cried&quot; discovered in Sweden after 53 years](https://www.thenationalnews.com/arts-culture/film-tv/2025/05/29/jerry-lewis-day-the-clown-cried-discovered/)
+- [Surprisingly fast AI-generated kernels we didn&#39;t mean to publish yet](https://crfm.stanford.edu/2025/05/28/fast-kernels.html)
+- [Mary Meeker&#39;s first Trends report since 2019, focused on AI](https://www.bondcap.com/reports/tai)
+- [Show HN: Asdf Overlay – High performance in-game overlay library for Windows](https://github.com/storycraft/asdf-overlay)
+- [A Smiling Public Man](https://salmagundi.skidmore.edu/articles/1407-a-smiling-public-man)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

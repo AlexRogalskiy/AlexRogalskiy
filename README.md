@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [What I Learned Trying to Spend a Year Celibate](https://www.nytimes.com/2025/05/28/magazine/year-of-celibacy.html)
-- [Google AI Mode for Search Has Arrived. Proceed with Caution](https://www.nytimes.com/2025/05/29/technology/personaltech/google-ai-mode-search.html)
-- [Show HN: Open-Source LLM-Powered Invoice and Receipt Extractor](https://news.ycombinator.com/item?id=44141573)
-- [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
-- [SMD Prototyping Is a Work of Art &lpar;2016&rpar;](https://hackaday.com/2016/10/10/ne555s-smd-prototyping-is-a-work-of-art/)
-- [Turning Portal 2 into a Web Server [video]](https://www.youtube.com/watch?v=-v5vCLLsqbA)
-- [Volkswagen to make &#39;massive&#39; investment in US in bid to avoid tariffs](https://www.theguardian.com/business/2025/may/30/volkswagen-to-make-massive-investment-in-us-to-avoid-tariffs)
-- [UK Carbon Price Soars 8% as London Agrees to Link Emissions Trading with EU](https://oilprice.com/Energy/Energy-General/UK-Carbon-Price-Soars-8-as-London-Agrees-to-Link-Emissions-Trading-With-EU.html)
-- [The Tech Fascist Axis](https://www.vcinfodocs.com/the-tech-fascist-axis)
-- [Automattic says it will start contributing to WordPress again after pause](https://techcrunch.com/2025/05/30/automattic-says-it-will-start-contributing-to-wordpress-again-after-pause/)
+- [Google released an app that lets you download and run AI models locally](https://techcrunch.com/2025/05/31/google-quietly-released-an-app-that-lets-you-download-and-run-ai-models-locally/)
+- [Sebastião Salgado&#39;s View of Humanity](https://www.newyorker.com/culture/photo-booth/sebastiao-salgados-view-of-humanity)
+- [Function Black_box](https://doc.rust-lang.org/beta/std/hint/fn.black_box.html)
+- [Eliezer Yudkowsky: Artificial Intelligence and the End of Humanity [video]](https://www.youtube.com/watch?v=0QmDcQIvSDc)
+- [Ask HN: Will chatbots trigger a AI winter?](https://news.ycombinator.com/item?id=44148416)
+- [Commodore 64 Bass Guitar &lpar;2012&rpar;](https://www.youtube.com/watch?v=_kDhpFaf4EY)
+- [Business Insider goes &#39;all-in on AI,&#39; laying off 21% of staff](https://www.sfgate.com/bayarea/article/business-insider-ai-laying-off-staff-20353086.php)
+- [Basic Interpreter in Ruby](https://medium.com/@konstanty.koszewski_35161/basic-interpreter-in-ruby-from-scratch-part-1-c68bbf365ab0)
+- [Image to Text Converter](https://image-1.org)
+- [Ask HN: What are your honest thoughts on AI tools replacing programmers](https://news.ycombinator.com/item?id=44148317)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Germany vows to step up militarily but rhetoric may struggle to match reality](https://www.theguardian.com/world/2025/may/31/germany-vow-step-up-militarily-rhetoric-struggle-match-reality)
-- [Pete Hegseth calls on Asia to boost military spending in face of ‘imminent’ threat from China](https://www.theguardian.com/us-news/2025/may/31/pete-hegseth-calls-on-asia-to-boost-military-spending-in-face-of-imminent-threat-from-china-us-defence-secretary)
-- [Trump announces 50% steel tariffs and hails ‘blockbuster’ deal with Japan](https://www.theguardian.com/us-news/2025/may/30/trump-tariffs-steel-japan)
-- [Trump says he fired National Portrait Gallery chief in latest conflict with arts](https://www.theguardian.com/us-news/2025/may/30/trump-fires-kim-sajet-national-portrait-gallery-director)
-- [‘New era of threat’ amid changing face of war, UK defence review to warn](https://www.theguardian.com/politics/2025/may/31/new-era-of-threat-amid-changing-face-of-war-uk-defence-review-to-warn)
-- [‘Gift of life’: experts hail neck and head cancer breakthrough](https://www.theguardian.com/society/2025/may/31/neck-and-head-cancer-breakthrough-drug-immunotherapy)
-- [Beever-Jones hits rapid hat-trick as Lionesses pummel Portugal 6-0 in Nations League](https://www.theguardian.com/football/2025/may/30/beever-jones-rapid-hat-trick-as-england-dismantle-portugal-in-nations-league)
-- [And Just Like That season three review – finally! The Sex and the City spin off hits its stride](https://www.theguardian.com/tv-and-radio/2025/may/30/and-just-like-that-season-three-review-finally-the-sex-and-the-city-spin-off-hits-its-stride)
-- [Étienne-Émile Baulieu, French scientist who invented abortion pill, dies aged 98](https://www.theguardian.com/world/2025/may/30/etienne-emile-baulieu-french-scientist-who-invented-abortion-pill-dies-aged-98)
-- [Loretta Swit, who played ‘Hot Lips’ Houlihan on M*A*S*H, dies aged 87](https://www.theguardian.com/tv-and-radio/2025/may/30/loretta-swit-actor-dead)
+- [Trump drops Nasa nominee Jared Isaacman, scrapping Elon Musk’s pick](https://www.theguardian.com/us-news/2025/jun/01/trump-drops-nasa-nominee-jared-isaacman-scrapping-elon-musks-pick)
+- [Deaths as Russian train hits collapsed bridge after ‘illegal interference’](https://www.theguardian.com/world/2025/jun/01/deaths-as-russian-train-hits-collapsed-bridge-after-interference)
+- [Ukraine war briefing: New air assault on Kyiv](https://www.theguardian.com/world/2025/jun/01/ukraine-war-briefing-russia-air-assault-on-kyiv)
+- [Désiré Doué joins the global A-list to lead PSG’s coronation as kings of Europe | Barney Ronay](https://www.theguardian.com/football/2025/may/31/desire-doue-psg-champions-league-final-inter-football-kings-europe)
+- [Game is up for Inter after Champions League journey ends in bitter humiliation | Jonathan Liew](https://www.theguardian.com/football/2025/may/31/inters-champions-league-journey-ends-in-bitter-humiliation-and-record-defeat)
+- [US lawyer sanctioned after caught using ChatGPT for court brief](https://www.theguardian.com/us-news/2025/may/31/utah-lawyer-chatgpt-ai-court-brief)
+- [Body of British hiker missing since New Year’s Day found in northern Italy](https://www.theguardian.com/world/2025/may/31/body-of-british-hiker-missing-since-new-years-day-found-in-northern-italy)
+- [UK plans to build six weapons factories to bolster military readiness](https://www.theguardian.com/politics/2025/may/31/uk-plans-to-build-six-weapons-factories-to-bolster-military-readiness)
+- [PSG win Champions League for first time with record 5-0 final hammering of Inter](https://www.theguardian.com/football/2025/may/31/psg-win-champions-league-for-first-time-with-record-5-0-final-hammering-of-inter)
+- [The Black Forest Murders review – like watching a hugely satisfying puzzle come together](https://www.theguardian.com/tv-and-radio/2025/may/31/the-black-forest-murders-german-true-crime-drama-review)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

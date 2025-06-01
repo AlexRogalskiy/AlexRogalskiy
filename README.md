@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Every 5x5 Nonogram](https://pixelogic.app/every-5x5-nonogram)
-- [Valkey Turns One: Community fork of Redis](https://www.gomomento.com/blog/valkey-turns-one-how-the-community-fork-left-redis-in-the-dust/)
-- [Silicon Valley finally has a big electronics retailer again: Micro Center opens](https://www.microcenter.com/site/mc-news/article/micro-center-santa-clara-photos.aspx)
-- [StackAI &lpar;YC W23&rpar; Is Looking for SWR and Tailwind Wizards](https://www.ycombinator.com/companies/stackai/jobs/C1rOopy-frontend-engineer)
-- [Photos taken inside musical instruments](https://www.dpreview.com/photography/5400934096/probe-lenses-and-focus-stacking-the-secrets-to-incredible-photos-taken-inside-instruments)
-- [Jerry Lewis&#39;s &quot;The Day the Clown Cried&quot; discovered in Sweden after 53 years](https://www.thenationalnews.com/arts-culture/film-tv/2025/05/29/jerry-lewis-day-the-clown-cried-discovered/)
-- [Surprisingly fast AI-generated kernels we didn&#39;t mean to publish yet](https://crfm.stanford.edu/2025/05/28/fast-kernels.html)
-- [Mary Meeker&#39;s first Trends report since 2019, focused on AI](https://www.bondcap.com/reports/tai)
-- [Show HN: Asdf Overlay – High performance in-game overlay library for Windows](https://github.com/storycraft/asdf-overlay)
-- [A Smiling Public Man](https://salmagundi.skidmore.edu/articles/1407-a-smiling-public-man)
+- [Of course the Apple Network Server can be hacked into running Doom](http://oldvcr.blogspot.com/2025/05/harpoom-of-course-apple-network-server.html)
+- [Enhancing MySQL: MySQL improvement project](https://github.com/enhancedformysql/enhancedformysql)
+- [Progressive JSON](https://overreacted.io/progressive-json/)
+- [Show HN: Patio – Rent tools, learn DIY, reduce waste](https://patio.so)
+- [The NFS 4 Freezer Spacer In Science Fiction Sets](https://kolektiva.social/@beka_valentine/114600567753999701)
+- [Show HN: Open-source P2P file transfer](https://github.com/nihaocami/berb)
+- [New Adaptive Optics Shows Details of Our Star&#39;s Atmosphere](https://nso.edu/press-release/new-adaptive-optics-shows-stunning-details-of-our-stars-atmosphere/)
+- [YOLO-World: Real-Time Open-Vocabulary Object Detection](https://arxiv.org/abs/2401.17270)
+- [Plutonium Powered Pacemaker &lpar;From 1974&rpar;](https://www.orau.org/health-physics-museum/collection/miscellaneous/pacemaker.html)
+- [Oniux: Kernel-level Tor isolation for any Linux app](https://blog.torproject.org/introducing-oniux-tor-isolation-using-linux-namespaces/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

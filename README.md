@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Google released an app that lets you download and run AI models locally](https://techcrunch.com/2025/05/31/google-quietly-released-an-app-that-lets-you-download-and-run-ai-models-locally/)
-- [Sebastião Salgado&#39;s View of Humanity](https://www.newyorker.com/culture/photo-booth/sebastiao-salgados-view-of-humanity)
-- [Function Black_box](https://doc.rust-lang.org/beta/std/hint/fn.black_box.html)
-- [Eliezer Yudkowsky: Artificial Intelligence and the End of Humanity [video]](https://www.youtube.com/watch?v=0QmDcQIvSDc)
-- [Ask HN: Will chatbots trigger a AI winter?](https://news.ycombinator.com/item?id=44148416)
-- [Commodore 64 Bass Guitar &lpar;2012&rpar;](https://www.youtube.com/watch?v=_kDhpFaf4EY)
-- [Business Insider goes &#39;all-in on AI,&#39; laying off 21% of staff](https://www.sfgate.com/bayarea/article/business-insider-ai-laying-off-staff-20353086.php)
-- [Basic Interpreter in Ruby](https://medium.com/@konstanty.koszewski_35161/basic-interpreter-in-ruby-from-scratch-part-1-c68bbf365ab0)
-- [Image to Text Converter](https://image-1.org)
-- [Ask HN: What are your honest thoughts on AI tools replacing programmers](https://news.ycombinator.com/item?id=44148317)
+- [Disaster of a product – so many things wrong [video]](https://www.youtube.com/watch?v=pR8cMi67WNc)
+- [Inventing Japanese Braille](https://www.historyworkshop.org.uk/disability-history/inventing-japanese-braille/)
+- [2024 Pay for S&amp;P 500 CEOs](https://www.wsj.com/business/rick-smith-axon-ceo-pay-package-2024-6e864a64)
+- [Show HN: A small library for stack-trace-like error messages in Rust](https://docs.rs/errors_with_context/latest/errors_with_context/)
+- [Does U.S. Need to Build Hardened Aircraft Shelters for Combat Aircraft? &lpar;2024&rpar;](https://www.twz.com/news-features/does-the-u-s-need-to-be-building-hardened-aircraft-shelters-for-its-combat-aircraft)
+- [Show HN: I built an AI Agent that uses the iPhone](https://github.com/rounak/PhoneAgent)
+- [Automatic rollbacks are a last resort](https://octopus.com/blog/automatic-rollbacks-last-resort)
+- [How Can AI Researchers Save Energy? By Going Backward](https://www.quantamagazine.org/how-can-ai-researchers-save-energy-by-going-backward-20250530/)
+- [Bugs Love Starlink [video]](https://www.reddit.com/r/Starlink/s/enZE2dQCxo)
+- [Building a Newsroom Technology Culture](https://werd.io/2025/building-a-newsroom-technology-culture)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

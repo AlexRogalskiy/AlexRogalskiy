@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Trump drops Nasa nominee Jared Isaacman, scrapping Elon Musk’s pick](https://www.theguardian.com/us-news/2025/jun/01/trump-drops-nasa-nominee-jared-isaacman-scrapping-elon-musks-pick)
-- [Deaths as Russian train hits collapsed bridge after ‘illegal interference’](https://www.theguardian.com/world/2025/jun/01/deaths-as-russian-train-hits-collapsed-bridge-after-interference)
-- [Ukraine war briefing: New air assault on Kyiv](https://www.theguardian.com/world/2025/jun/01/ukraine-war-briefing-russia-air-assault-on-kyiv)
-- [Désiré Doué joins the global A-list to lead PSG’s coronation as kings of Europe | Barney Ronay](https://www.theguardian.com/football/2025/may/31/desire-doue-psg-champions-league-final-inter-football-kings-europe)
-- [Game is up for Inter after Champions League journey ends in bitter humiliation | Jonathan Liew](https://www.theguardian.com/football/2025/may/31/inters-champions-league-journey-ends-in-bitter-humiliation-and-record-defeat)
-- [US lawyer sanctioned after caught using ChatGPT for court brief](https://www.theguardian.com/us-news/2025/may/31/utah-lawyer-chatgpt-ai-court-brief)
-- [Body of British hiker missing since New Year’s Day found in northern Italy](https://www.theguardian.com/world/2025/may/31/body-of-british-hiker-missing-since-new-years-day-found-in-northern-italy)
-- [UK plans to build six weapons factories to bolster military readiness](https://www.theguardian.com/politics/2025/may/31/uk-plans-to-build-six-weapons-factories-to-bolster-military-readiness)
-- [PSG win Champions League for first time with record 5-0 final hammering of Inter](https://www.theguardian.com/football/2025/may/31/psg-win-champions-league-for-first-time-with-record-5-0-final-hammering-of-inter)
-- [The Black Forest Murders review – like watching a hugely satisfying puzzle come together](https://www.theguardian.com/tv-and-radio/2025/may/31/the-black-forest-murders-german-true-crime-drama-review)
+- [Making America pregnant again: the pro-natalist movement – podcast](https://www.theguardian.com/news/audio/2025/jun/02/making-america-pregnant-again-pro-natalist-movement-podcast)
+- [Polish presidential election: Karol Nawrocki widens narrow lead in early morning poll – live](https://www.theguardian.com/world/live/2025/jun/01/polls-set-to-close-in-tight-presidential-race-in-poland-live)
+- [Magnus Carlsen slams table after shock loss to Gukesh Dommaraju in Norway](https://www.theguardian.com/sport/2025/jun/01/magnus-carlsen-punches-table-norway-chess-gukesh)
+- [Boulder attack: six injured in Colorado as man attacks protest for Israeli hostages](https://www.theguardian.com/us-news/2025/jun/01/boulder-colorado-attack)
+- [Sweden’s Maja Stark holds off Nelly Korda to win first major at US Women’s Open](https://www.theguardian.com/sport/2025/jun/02/sweden-maja-stark-wins-us-womens-open-golf)
+- [Spending on agency staff across NHS England drops by almost £1bn](https://www.theguardian.com/society/2025/jun/02/spending-on-agency-staff-across-nhs-england-drops-by-almost-1bn)
+- [Relatives of 1994 Chinook crash victims initiate legal action against MoD](https://www.theguardian.com/uk-news/2025/jun/02/relatives-1994-raf-chinook-helicopter-crash-victims-legal-action-mod)
+- [UK swings behind Morocco’s autonomy proposal for Western Sahara](https://www.theguardian.com/world/2025/jun/01/uk-swings-behind-moroccos-autonomy-proposal-for-western-sahara)
+- [Trump takes ‘wrecking ball’ to workers’ rights amid global ‘freefall’, new report says](https://www.theguardian.com/global-development/2025/jun/01/workers-rights-unions-trump)
+- [Man dies in shooting at shopping centre in Co Carlow, Ireland](https://www.theguardian.com/world/2025/jun/01/man-dies-in-shooting-at-shopping-centre-in-co-carlow-ireland)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

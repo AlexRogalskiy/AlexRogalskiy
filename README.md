@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Of course the Apple Network Server can be hacked into running Doom](http://oldvcr.blogspot.com/2025/05/harpoom-of-course-apple-network-server.html)
-- [Enhancing MySQL: MySQL improvement project](https://github.com/enhancedformysql/enhancedformysql)
-- [Progressive JSON](https://overreacted.io/progressive-json/)
-- [Show HN: Patio – Rent tools, learn DIY, reduce waste](https://patio.so)
-- [The NFS 4 Freezer Spacer In Science Fiction Sets](https://kolektiva.social/@beka_valentine/114600567753999701)
-- [Show HN: Open-source P2P file transfer](https://github.com/nihaocami/berb)
-- [New Adaptive Optics Shows Details of Our Star&#39;s Atmosphere](https://nso.edu/press-release/new-adaptive-optics-shows-stunning-details-of-our-stars-atmosphere/)
-- [YOLO-World: Real-Time Open-Vocabulary Object Detection](https://arxiv.org/abs/2401.17270)
-- [Plutonium Powered Pacemaker &lpar;From 1974&rpar;](https://www.orau.org/health-physics-museum/collection/miscellaneous/pacemaker.html)
-- [Oniux: Kernel-level Tor isolation for any Linux app](https://blog.torproject.org/introducing-oniux-tor-isolation-using-linux-namespaces/)
+- [The Princeton INTERCAL Compiler&#39;s source code](https://esoteric.codes/blog/published-for-the-first-time-the-original-intercal72-compiler-code)
+- [Exponential Functions and Euler&#39;s Formula](http://www.deaneyang.com//blog/blog/math/exponential-function/euler-formula/2025/05/29/ExponentialFunctions.html)
+- [TPDE: A Fast Adaptable Compiler Back-End Framework](https://arxiv.org/abs/2505.22610)
+- [Show HN: Moon Phase Algorithms for C, Lua, Awk, JavaScript, etc.](https://github.com/oliverkwebb/moonphase)
+- [The Visual World of &#39;Samurai Jack&#39;](https://animationobsessive.substack.com/p/the-visual-world-of-samurai-jack)
+- [LibriVox](https://librivox.org/)
+- [M8.2 solar flare, Strong G4 geomagnetic storm watch](https://www.spaceweatherlive.com/en/news/view/581/20250531-m8-2-solar-flare-strong-g4-geomagnetic-storm-watch.html)
+- [Root shell on a credit card terminal](https://stefan-gloor.ch/yomani-hack)
+- [Codex CLI is going native](https://github.com/openai/codex/discussions/1174)
+- [Atari Means Business with the Mega ST](https://www.goto10retro.com/p/atari-means-business-with-the-mega)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

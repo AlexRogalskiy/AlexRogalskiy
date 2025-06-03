@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The Princeton INTERCAL Compiler&#39;s source code](https://esoteric.codes/blog/published-for-the-first-time-the-original-intercal72-compiler-code)
-- [Exponential Functions and Euler&#39;s Formula](http://www.deaneyang.com//blog/blog/math/exponential-function/euler-formula/2025/05/29/ExponentialFunctions.html)
-- [TPDE: A Fast Adaptable Compiler Back-End Framework](https://arxiv.org/abs/2505.22610)
-- [Show HN: Moon Phase Algorithms for C, Lua, Awk, JavaScript, etc.](https://github.com/oliverkwebb/moonphase)
-- [The Visual World of &#39;Samurai Jack&#39;](https://animationobsessive.substack.com/p/the-visual-world-of-samurai-jack)
-- [LibriVox](https://librivox.org/)
-- [M8.2 solar flare, Strong G4 geomagnetic storm watch](https://www.spaceweatherlive.com/en/news/view/581/20250531-m8-2-solar-flare-strong-g4-geomagnetic-storm-watch.html)
-- [Root shell on a credit card terminal](https://stefan-gloor.ch/yomani-hack)
-- [Codex CLI is going native](https://github.com/openai/codex/discussions/1174)
-- [Atari Means Business with the Mega ST](https://www.goto10retro.com/p/atari-means-business-with-the-mega)
+- [Teaching Program Verification in Dafny at Amazon &lpar;2023&rpar;](https://dafny.org/blog/2023/12/15/teaching-program-verification-in-dafny-at-amazon/)
+- [Conformance checking at MongoDB: Testing that our code matches our TLA+ specs](https://www.mongodb.com/blog/post/engineering/conformance-checking-at-mongodb-testing-our-code-matches-our-tla-specs)
+- [Japanese Scientists Develop Artificial Blood Compatible with All Blood Types](https://www.tokyoweekender.com/entertainment/tech-trends/japanese-scientists-develop-artificial-blood/)
+- [My AI skeptic friends are all nuts](https://fly.io/blog/youre-all-nuts/)
+- [MonsterUI: Python library for building front end UIs quickly in FastHTML apps](https://www.answer.ai/posts/2025-01-15-monsterui.html)
+- [Snowflake to buy Crunchy Data for $250M](https://www.wsj.com/articles/snowflake-to-buy-crunchy-data-for-250-million-233543ab)
+- [Show HN: I build one absurd web project every month](https://absurd.website)
+- [Typing 118 WPM broke my brain in the right ways](http://balaji-amg.surge.sh/blog/typing-118-wpm-brain-rewiring)
+- [Can I stop drone delivery companies flying over my property?](https://www.rte.ie/brainstorm/2025/0602/1481005-drone-delivery-companies-property-legal-rights-airspace/)
+- [CVE 2025 31200](https://blog.noahhw.dev/posts/cve-2025-31200/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

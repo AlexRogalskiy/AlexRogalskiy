@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Disaster of a product – so many things wrong [video]](https://www.youtube.com/watch?v=pR8cMi67WNc)
-- [Inventing Japanese Braille](https://www.historyworkshop.org.uk/disability-history/inventing-japanese-braille/)
-- [2024 Pay for S&amp;P 500 CEOs](https://www.wsj.com/business/rick-smith-axon-ceo-pay-package-2024-6e864a64)
-- [Show HN: A small library for stack-trace-like error messages in Rust](https://docs.rs/errors_with_context/latest/errors_with_context/)
-- [Does U.S. Need to Build Hardened Aircraft Shelters for Combat Aircraft? &lpar;2024&rpar;](https://www.twz.com/news-features/does-the-u-s-need-to-be-building-hardened-aircraft-shelters-for-its-combat-aircraft)
-- [Show HN: I built an AI Agent that uses the iPhone](https://github.com/rounak/PhoneAgent)
-- [Automatic rollbacks are a last resort](https://octopus.com/blog/automatic-rollbacks-last-resort)
-- [How Can AI Researchers Save Energy? By Going Backward](https://www.quantamagazine.org/how-can-ai-researchers-save-energy-by-going-backward-20250530/)
-- [Bugs Love Starlink [video]](https://www.reddit.com/r/Starlink/s/enZE2dQCxo)
-- [Building a Newsroom Technology Culture](https://werd.io/2025/building-a-newsroom-technology-culture)
+- [Apple Appeals EU&#39;s March Ruling on &#39;Interoperability&#39; Requirements Under the DMA](https://daringfireball.net/2025/06/apple_appeals_eu_interop_requirements)
+- [OCode is a sophisticated terminal-native AI coding assistant](https://github.com/haasonsaas/ocode)
+- [South Korea votes for new president after failed martial law bid](https://www.bbc.com/news/live/ce81gnvzmr6t)
+- [lexidex: a web index of atproto data and API schemas](https://lexidex.bsky.dev/)
+- [Hallucinated packages create security blind spots](https://gigacore.substack.com/p/the-dark-side-of-ai-coding-how-hallucinated)
+- [Britain&#39;s biggest companies are preparing for a third world war](https://www.telegraph.co.uk/business/2025/06/02/how-britains-biggest-companies-are-preparing-for-war/)
+- [Johnson and Johnson knew for decades that asbestos was in its Baby Powder&lpar;2018&rpar;](https://www.reuters.com/investigates/special-report/johnsonandjohnson-cancer/)
+- [Data storing using file or database, which is more suitable？](https://github.com/SPLWare/esProc/wiki/Data-storing-using-file-or-database,-which-is-more-suitable%EF%BC%9F)
+- [Naked billboard that shocked the establishment – blazed a trail in the art world](https://www.bbc.com/culture/article/20250530-how-controversial-activist-group-guerrilla-girls-blazed-a-trail-in-the-art-world)
+- [The British jet engine that failed in the &#39;Valley of Death&#39;](https://www.bbc.com/news/articles/c5y5zg85wnlo)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Making America pregnant again: the pro-natalist movement – podcast](https://www.theguardian.com/news/audio/2025/jun/02/making-america-pregnant-again-pro-natalist-movement-podcast)
-- [Polish presidential election: Karol Nawrocki widens narrow lead in early morning poll – live](https://www.theguardian.com/world/live/2025/jun/01/polls-set-to-close-in-tight-presidential-race-in-poland-live)
-- [Magnus Carlsen slams table after shock loss to Gukesh Dommaraju in Norway](https://www.theguardian.com/sport/2025/jun/01/magnus-carlsen-punches-table-norway-chess-gukesh)
-- [Boulder attack: six injured in Colorado as man attacks protest for Israeli hostages](https://www.theguardian.com/us-news/2025/jun/01/boulder-colorado-attack)
-- [Sweden’s Maja Stark holds off Nelly Korda to win first major at US Women’s Open](https://www.theguardian.com/sport/2025/jun/02/sweden-maja-stark-wins-us-womens-open-golf)
-- [Spending on agency staff across NHS England drops by almost £1bn](https://www.theguardian.com/society/2025/jun/02/spending-on-agency-staff-across-nhs-england-drops-by-almost-1bn)
-- [Relatives of 1994 Chinook crash victims initiate legal action against MoD](https://www.theguardian.com/uk-news/2025/jun/02/relatives-1994-raf-chinook-helicopter-crash-victims-legal-action-mod)
-- [UK swings behind Morocco’s autonomy proposal for Western Sahara](https://www.theguardian.com/world/2025/jun/01/uk-swings-behind-moroccos-autonomy-proposal-for-western-sahara)
-- [Trump takes ‘wrecking ball’ to workers’ rights amid global ‘freefall’, new report says](https://www.theguardian.com/global-development/2025/jun/01/workers-rights-unions-trump)
-- [Man dies in shooting at shopping centre in Co Carlow, Ireland](https://www.theguardian.com/world/2025/jun/01/man-dies-in-shooting-at-shopping-centre-in-co-carlow-ireland)
+- [Suspect charged with federal hate crime in attack on Colorado rally for Israeli hostages](https://www.theguardian.com/us-news/2025/jun/02/boulder-colorado-rally-terror-attack)
+- [Mongolia PM resigns after losing confidence vote that followed weeks of protests](https://www.theguardian.com/world/2025/jun/03/mongolia-pm-resigns-luvsannamsrai-confidence-vote-protests)
+- [Edinburgh fringe event organisers urged to capitalise on Oasis and AC/DC gigs](https://www.theguardian.com/culture/2025/jun/03/edinburgh-fringe-event-organisers-capitalise-oasis-acdc-gigs-tony-lankester)
+- [English mayors push for visitor levy to boost income from tourism](https://www.theguardian.com/uk-news/2025/jun/03/tourism-tax-england-mayors)
+- [Outrage over Peru’s decision to nearly halve protected area near Nazca Lines](https://www.theguardian.com/world/2025/jun/02/peru-nazca-lines-protection-illegal-mining)
+- [Trump officials open up millions of acres in Alaska to drilling and mining](https://www.theguardian.com/us-news/2025/jun/02/trump-administration-alaska-drilling-mining)
+- [Man fined after burning Qur’an outside Turkish consulate in London](https://www.theguardian.com/uk-news/2025/jun/02/man-fined-after-burning-quran-outside-turkish-consulate-in-london)
+- [South Korea goes to the polls to elect new president after Yoon crisis](https://www.theguardian.com/world/2025/jun/03/south-korea-goes-to-the-polls-to-elect-new-president-after-yoon-crisis)
+- [Iran on brink of rejecting US proposal on nuclear programme](https://www.theguardian.com/world/2025/jun/02/iran-on-brink-of-rejecting-us-proposal-on-nuclear-programme)
+- [Human remains found in search for Derby woman missing since 2010](https://www.theguardian.com/uk-news/2025/jun/02/human-remains-found-in-search-for-derby-woman-missing-since-2010)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

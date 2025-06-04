@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Suspect charged with federal hate crime in attack on Colorado rally for Israeli hostages](https://www.theguardian.com/us-news/2025/jun/02/boulder-colorado-rally-terror-attack)
-- [Mongolia PM resigns after losing confidence vote that followed weeks of protests](https://www.theguardian.com/world/2025/jun/03/mongolia-pm-resigns-luvsannamsrai-confidence-vote-protests)
-- [Edinburgh fringe event organisers urged to capitalise on Oasis and AC/DC gigs](https://www.theguardian.com/culture/2025/jun/03/edinburgh-fringe-event-organisers-capitalise-oasis-acdc-gigs-tony-lankester)
-- [English mayors push for visitor levy to boost income from tourism](https://www.theguardian.com/uk-news/2025/jun/03/tourism-tax-england-mayors)
-- [Outrage over Peru’s decision to nearly halve protected area near Nazca Lines](https://www.theguardian.com/world/2025/jun/02/peru-nazca-lines-protection-illegal-mining)
-- [Trump officials open up millions of acres in Alaska to drilling and mining](https://www.theguardian.com/us-news/2025/jun/02/trump-administration-alaska-drilling-mining)
-- [Man fined after burning Qur’an outside Turkish consulate in London](https://www.theguardian.com/uk-news/2025/jun/02/man-fined-after-burning-quran-outside-turkish-consulate-in-london)
-- [South Korea goes to the polls to elect new president after Yoon crisis](https://www.theguardian.com/world/2025/jun/03/south-korea-goes-to-the-polls-to-elect-new-president-after-yoon-crisis)
-- [Iran on brink of rejecting US proposal on nuclear programme](https://www.theguardian.com/world/2025/jun/02/iran-on-brink-of-rejecting-us-proposal-on-nuclear-programme)
-- [Human remains found in search for Derby woman missing since 2010](https://www.theguardian.com/uk-news/2025/jun/02/human-remains-found-in-search-for-derby-woman-missing-since-2010)
+- [Family of suspect in Colorado fire attack taken into custody of US immigration](https://www.theguardian.com/us-news/2025/jun/03/boulder-colorado-attack-suspect-family-detention)
+- [Back to the Future stars seek help in hunt for missing Marty McFly guitar](https://www.theguardian.com/film/2025/jun/03/back-to-the-future-missing-gibson-guitar)
+- [Bruno Fernandes reveals he rejected Saudi Arabia move to ‘stay at the highest level’](https://www.theguardian.com/football/2025/jun/04/bruno-fernandes-reveals-rejected-saudi-arabia-move-manchester-united)
+- [Sellafield nuclear clean-up too slow and too costly, say MPs](https://www.theguardian.com/business/2025/jun/04/sellafield-nuclear-clean-up-mps-public-accounts-committee)
+- [NDAs should be banned to curb music industry ‘culture of misogyny’, says new government report](https://www.theguardian.com/music/2025/jun/04/ndas-should-be-banned-to-curb-music-industry-culture-of-misogyny-says-new-government-report)
+- [Hamad Butt: Apprehensions review – beauty and violence from a lost and dangerous YBA](https://www.theguardian.com/artanddesign/2025/jun/04/hamad-butt-apprehensions-review-whitechapel-gallery-london-yba)
+- [Rachel Reeves unveils £15bn for trams, trains and buses outside London](https://www.theguardian.com/politics/2025/jun/04/rachel-reeves-unveils-15bn-for-trams-trains-and-buses-outside-london)
+- [Train ticket enforcement must be fair and proportionate, watchdog warns](https://www.theguardian.com/business/2025/jun/04/train-ticket-enforcement-must-be-fair-and-proportionate-watchdog-warns)
+- [Bernardine Evaristo scoops Women’s prize outstanding contribution award](https://www.theguardian.com/books/2025/jun/04/bernardine-evaristo-wins-womens-prize-outstanding-contribution-award)
+- [‘They are in shock’: Indian students fear Trump has ended their American dream](https://www.theguardian.com/world/2025/jun/04/indian-students-shock-trump-international-study-visa)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

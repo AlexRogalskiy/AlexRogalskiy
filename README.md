@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Apple Appeals EU&#39;s March Ruling on &#39;Interoperability&#39; Requirements Under the DMA](https://daringfireball.net/2025/06/apple_appeals_eu_interop_requirements)
-- [OCode is a sophisticated terminal-native AI coding assistant](https://github.com/haasonsaas/ocode)
-- [South Korea votes for new president after failed martial law bid](https://www.bbc.com/news/live/ce81gnvzmr6t)
-- [lexidex: a web index of atproto data and API schemas](https://lexidex.bsky.dev/)
-- [Hallucinated packages create security blind spots](https://gigacore.substack.com/p/the-dark-side-of-ai-coding-how-hallucinated)
-- [Britain&#39;s biggest companies are preparing for a third world war](https://www.telegraph.co.uk/business/2025/06/02/how-britains-biggest-companies-are-preparing-for-war/)
-- [Johnson and Johnson knew for decades that asbestos was in its Baby Powder&lpar;2018&rpar;](https://www.reuters.com/investigates/special-report/johnsonandjohnson-cancer/)
-- [Data storing using file or database, which is more suitable？](https://github.com/SPLWare/esProc/wiki/Data-storing-using-file-or-database,-which-is-more-suitable%EF%BC%9F)
-- [Naked billboard that shocked the establishment – blazed a trail in the art world](https://www.bbc.com/culture/article/20250530-how-controversial-activist-group-guerrilla-girls-blazed-a-trail-in-the-art-world)
-- [The British jet engine that failed in the &#39;Valley of Death&#39;](https://www.bbc.com/news/articles/c5y5zg85wnlo)
+- [Designing Algorithmic Delegates](https://arxiv.org/abs/2506.03102)
+- [Our Startup Was Hacked, Need GitHub&#39;s Assistance to Trace Attacker](https://techcrunch.com/2025/06/03/indian-grocery-startup-kiranapro-was-hacked-and-its-servers-deleted-ceo-confirms/)
+- [Merlin Bird ID](https://merlin.allaboutbirds.org/)
+- [The symbolism of the magnifying glass is not universal](https://devblogs.microsoft.com/oldnewthing/20250603-00/?p=111240)
+- [Google Scholar is Manipulatable &lpar;2024&rpar;](https://arxiv.org/abs/2402.04607)
+- [&#39;Spiderweb&#39; drone attack marks a new threat for top militaries](https://www.businessinsider.com/operation-spiderweb-5-ways-ukraine-drone-attack-new-era-warfare-2025-6)
+- [Open Sesame! on the Security and Memorability of Verbal Passwords [pdf]](https://seclab.skku.edu/wp-content/uploads/2025/05/223600a683.pdf)
+- [Asian American genius got rejected from 16 colleges because of racism [video]](https://www.youtube.com/watch?v=wl7t3QiXYOI)
+- [Chinese couple charged with smuggling a biological pathogen into the U.S.](https://www.nbcnews.com/politics/justice-department/chinese-couple-charged-smuggling-biological-pathogen-us-rcna208658)
+- [How NATO is turning to startups to outpace its rivals](https://thenextweb.com/news/how-nato-startups-fight-future-wars)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

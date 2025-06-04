@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Teaching Program Verification in Dafny at Amazon &lpar;2023&rpar;](https://dafny.org/blog/2023/12/15/teaching-program-verification-in-dafny-at-amazon/)
-- [Conformance checking at MongoDB: Testing that our code matches our TLA+ specs](https://www.mongodb.com/blog/post/engineering/conformance-checking-at-mongodb-testing-our-code-matches-our-tla-specs)
-- [Japanese Scientists Develop Artificial Blood Compatible with All Blood Types](https://www.tokyoweekender.com/entertainment/tech-trends/japanese-scientists-develop-artificial-blood/)
-- [My AI skeptic friends are all nuts](https://fly.io/blog/youre-all-nuts/)
-- [MonsterUI: Python library for building front end UIs quickly in FastHTML apps](https://www.answer.ai/posts/2025-01-15-monsterui.html)
-- [Snowflake to buy Crunchy Data for $250M](https://www.wsj.com/articles/snowflake-to-buy-crunchy-data-for-250-million-233543ab)
-- [Show HN: I build one absurd web project every month](https://absurd.website)
-- [Typing 118 WPM broke my brain in the right ways](http://balaji-amg.surge.sh/blog/typing-118-wpm-brain-rewiring)
-- [Can I stop drone delivery companies flying over my property?](https://www.rte.ie/brainstorm/2025/0602/1481005-drone-delivery-companies-property-legal-rights-airspace/)
-- [CVE 2025 31200](https://blog.noahhw.dev/posts/cve-2025-31200/)
+- [Your Manager Is Not Your Best Friend](https://staysaasy.com/management/2025/06/02/your-manager-is-not-your-best-friend.html)
+- [Patched &lpar;YC S24&rpar; Is Hiring SWEs in Singapore](https://www.ycombinator.com/companies/patched/jobs/hgDeMBr-software-engineer)
+- [Meta pauses mobile port tracking tech on Android after researchers cry foul](https://www.theregister.com/2025/06/03/meta_pauses_android_tracking_tech/)
+- [Brain aging shows nonlinear transitions, suggesting a midlife &quot;critical window&quot;](https://www.pnas.org/doi/10.1073/pnas.2416433122)
+- [Precious Plastic Is in Trouble](https://www.preciousplastic.com//news/problems-in-precious-plastic)
+- [New study casts doubt on the likelihood of Milky Way collision with Andromeda](https://www.durham.ac.uk/departments/academic/physics/news/new-study-casts-doubt-on-the-likelihood-of-milky-way-collision-with-andromeda/)
+- [Show HN: Ephe – A minimalist open-source Markdown paper for today](https://github.com/unvalley/ephe)
+- [Polish engineer creates postage stamp-sized 1980s Atari computer](https://arstechnica.com/gadgets/2025/06/polish-engineer-creates-postage-stamp-sized-1980s-atari-computer/)
+- [Mapping latitude and longitude to country, state, or city](https://austinhenley.com/blog/coord2state.html)
+- [Deep learning gets the glory, deep fact checking gets ignored](https://rachel.fast.ai/posts/2025-06-04-enzyme-ml-fails/index.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

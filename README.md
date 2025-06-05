@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Family of suspect in Colorado fire attack taken into custody of US immigration](https://www.theguardian.com/us-news/2025/jun/03/boulder-colorado-attack-suspect-family-detention)
-- [Back to the Future stars seek help in hunt for missing Marty McFly guitar](https://www.theguardian.com/film/2025/jun/03/back-to-the-future-missing-gibson-guitar)
-- [Bruno Fernandes reveals he rejected Saudi Arabia move to ‘stay at the highest level’](https://www.theguardian.com/football/2025/jun/04/bruno-fernandes-reveals-rejected-saudi-arabia-move-manchester-united)
-- [Sellafield nuclear clean-up too slow and too costly, say MPs](https://www.theguardian.com/business/2025/jun/04/sellafield-nuclear-clean-up-mps-public-accounts-committee)
-- [NDAs should be banned to curb music industry ‘culture of misogyny’, says new government report](https://www.theguardian.com/music/2025/jun/04/ndas-should-be-banned-to-curb-music-industry-culture-of-misogyny-says-new-government-report)
-- [Hamad Butt: Apprehensions review – beauty and violence from a lost and dangerous YBA](https://www.theguardian.com/artanddesign/2025/jun/04/hamad-butt-apprehensions-review-whitechapel-gallery-london-yba)
-- [Rachel Reeves unveils £15bn for trams, trains and buses outside London](https://www.theguardian.com/politics/2025/jun/04/rachel-reeves-unveils-15bn-for-trams-trains-and-buses-outside-london)
-- [Train ticket enforcement must be fair and proportionate, watchdog warns](https://www.theguardian.com/business/2025/jun/04/train-ticket-enforcement-must-be-fair-and-proportionate-watchdog-warns)
-- [Bernardine Evaristo scoops Women’s prize outstanding contribution award](https://www.theguardian.com/books/2025/jun/04/bernardine-evaristo-wins-womens-prize-outstanding-contribution-award)
-- [‘They are in shock’: Indian students fear Trump has ended their American dream](https://www.theguardian.com/world/2025/jun/04/indian-students-shock-trump-international-study-visa)
+- [A cookbook taught me everything I know about home - and sobriety | Joseph Earp](https://www.theguardian.com/commentisfree/2025/jun/05/a-cookbook-taught-me-everything-i-know-about-home-and-sobriety)
+- [Wicked: For Good – trailer released for sequel to Ariana Grande and Cynthia Erivo hit](https://www.theguardian.com/film/2025/jun/05/wicked-for-good-trailer-sequel-ariana-grande-cynthia-erivo)
+- [Trump signs order banning citizens of 12 countries from entering the US](https://www.theguardian.com/us-news/2025/jun/04/trump-proclamation-travel-ban)
+- [Ukraine war briefing: Don’t be weak, Zelenskyy tells allies, after Putin threats](https://www.theguardian.com/world/2025/jun/05/ukraine-war-briefing-dont-be-weak-zelenskyy-tells-allies-after-putin-threats)
+- [Marine heatwave found to have engulfed area of ocean five times the size of Australia](https://www.theguardian.com/environment/2025/jun/05/marine-heatwave-found-to-have-engulfed-area-of-ocean-five-times-the-size-of-australia)
+- [In Thailand, where mysticism thrives, AI fortune telling finds fertile ground](https://www.theguardian.com/world/2025/jun/05/in-thailand-where-mysticism-thrives-ai-fortune-telling-finds-fertile-ground)
+- [People with cancer face ‘ticking timebomb’ due to NHS staff shortages](https://www.theguardian.com/society/2025/jun/05/people-with-cancer-face-ticking-timebomb-due-to-nhs-staff-shortages)
+- [Come Fall in Love: The DDLJ Musical review – loud, kitsch and joyous](https://www.theguardian.com/stage/2025/jun/05/come-fall-in-love-the-ddlj-musical-review-manchester-opera-house)
+- [Women and ethnic minorities less likely to be treated after diagnosis of deadly heart disease in England, study finds](https://www.theguardian.com/society/2025/jun/05/heart-disease-referral-less-likely-women-ethnic-minority-deprived-areas-england)
+- [Rape victims can challenge CPS if cases dropped under pilot scheme](https://www.theguardian.com/society/2025/jun/05/victims-can-challenge-cps-if-cases-dropped-under-pilot-scheme)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

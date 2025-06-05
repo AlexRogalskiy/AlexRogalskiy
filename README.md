@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Your Manager Is Not Your Best Friend](https://staysaasy.com/management/2025/06/02/your-manager-is-not-your-best-friend.html)
-- [Patched &lpar;YC S24&rpar; Is Hiring SWEs in Singapore](https://www.ycombinator.com/companies/patched/jobs/hgDeMBr-software-engineer)
-- [Meta pauses mobile port tracking tech on Android after researchers cry foul](https://www.theregister.com/2025/06/03/meta_pauses_android_tracking_tech/)
-- [Brain aging shows nonlinear transitions, suggesting a midlife &quot;critical window&quot;](https://www.pnas.org/doi/10.1073/pnas.2416433122)
-- [Precious Plastic Is in Trouble](https://www.preciousplastic.com//news/problems-in-precious-plastic)
-- [New study casts doubt on the likelihood of Milky Way collision with Andromeda](https://www.durham.ac.uk/departments/academic/physics/news/new-study-casts-doubt-on-the-likelihood-of-milky-way-collision-with-andromeda/)
-- [Show HN: Ephe – A minimalist open-source Markdown paper for today](https://github.com/unvalley/ephe)
-- [Polish engineer creates postage stamp-sized 1980s Atari computer](https://arstechnica.com/gadgets/2025/06/polish-engineer-creates-postage-stamp-sized-1980s-atari-computer/)
-- [Mapping latitude and longitude to country, state, or city](https://austinhenley.com/blog/coord2state.html)
-- [Deep learning gets the glory, deep fact checking gets ignored](https://rachel.fast.ai/posts/2025-06-04-enzyme-ml-fails/index.html)
+- [Show HN: I made a 3D SVG Renderer that projects textures without rasterization](https://seve.blog/p/i-made-a-3d-svg-renderer-that-projects)
+- [Tesla seeks to guard crash data from public disclosure](https://www.reuters.com/legal/government/musks-tesla-seeks-guard-crash-data-public-disclosure-2025-06-04/)
+- [Authentication with Axum](https://mattrighetti.com/2025/05/03/authentication-with-axum)
+- [A Spiral Structure in the Inner Oort Cloud](https://iopscience.iop.org/article/10.3847/1538-4357/adbf9b)
+- [Not All Tokens Are Meant to Be Forgotten](https://arxiv.org/abs/2506.03142)
+- [parrot.live](https://github.com/hugomd/parrot.live)
+- [LLMs and Elixir: Windfall or Deathblow?](https://www.zachdaniel.dev/p/llms-and-elixir-windfall-or-deathblow)
+- [PromptArmor &lpar;YC W24&rpar; Is Hiring in San Francisco](https://www.ycombinator.com/companies/promptarmor/jobs/hZ3xFlj-founding-engineer-full-stack)
+- [After court order, OpenAI is now preserving all ChatGPT user logs](https://mastodon.laurenweinstein.org/@lauren/114627064774788581)
+- [Comparing Claude System Prompts Reveal Anthropic&#39;s Priorities](https://www.dbreunig.com/2025/06/03/comparing-system-prompts-across-claude-versions.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

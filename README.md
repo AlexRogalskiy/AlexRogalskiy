@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Designing Algorithmic Delegates](https://arxiv.org/abs/2506.03102)
-- [Our Startup Was Hacked, Need GitHub&#39;s Assistance to Trace Attacker](https://techcrunch.com/2025/06/03/indian-grocery-startup-kiranapro-was-hacked-and-its-servers-deleted-ceo-confirms/)
-- [Merlin Bird ID](https://merlin.allaboutbirds.org/)
-- [The symbolism of the magnifying glass is not universal](https://devblogs.microsoft.com/oldnewthing/20250603-00/?p=111240)
-- [Google Scholar is Manipulatable &lpar;2024&rpar;](https://arxiv.org/abs/2402.04607)
-- [&#39;Spiderweb&#39; drone attack marks a new threat for top militaries](https://www.businessinsider.com/operation-spiderweb-5-ways-ukraine-drone-attack-new-era-warfare-2025-6)
-- [Open Sesame! on the Security and Memorability of Verbal Passwords [pdf]](https://seclab.skku.edu/wp-content/uploads/2025/05/223600a683.pdf)
-- [Asian American genius got rejected from 16 colleges because of racism [video]](https://www.youtube.com/watch?v=wl7t3QiXYOI)
-- [Chinese couple charged with smuggling a biological pathogen into the U.S.](https://www.nbcnews.com/politics/justice-department/chinese-couple-charged-smuggling-biological-pathogen-us-rcna208658)
-- [How NATO is turning to startups to outpace its rivals](https://thenextweb.com/news/how-nato-startups-fight-future-wars)
+- [Deriving the gradient for the backward pass of Layer Normalization](https://shreyansh26.github.io/post/2025-06-04_layernorm-gradients/)
+- [AI as a Financial Market Analyst](https://www.monadwealth.com)
+- [Show HN: I made a Custom GPT to help find emails without breaking the bank](https://chatgpt.com/g/g-684107b431c88191a80a4f21e71fde5d-email-finder-master-guide-and-expert)
+- [The Clemson University Vehicular Electronics Labratory &lpar;2017&rpar;](https://cecas.clemson.edu/cvel/)
+- [Show HN: Top Payment Gateways in Asia](https://altified.com/blogs/top-10-payment-gateways-in-asia)
+- [Amazon prepares to test humanoid robots for deliveries, The Information reports](https://www.reuters.com/business/retail-consumer/amazon-prepares-test-humanoid-robots-package-deliveries-information-reports-2025-06-05/)
+- [The Art of SQL Query Optimization](https://jnidzwetzki.github.io/2025/06/03/art-of-query-optimization.html)
+- [Panjandrum: The &#39;giant firework&#39; built to break Hitler&#39;s Atlantic Wall](https://www.bbc.com/future/article/20250603-the-giant-firework-built-to-break-hitlers-atlantic-wall)
+- [High-rise forests can transform city life – and make us happier](https://www.bbc.com/culture/article/20250602-how-high-rise-forests-can-transform-city-life-and-make-us-happier)
+- [Show HN: Website Speed Checker in Bulk &lpar;using apify&rpar;](https://apify.com/onescales/website-speed-checker)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [A cookbook taught me everything I know about home - and sobriety | Joseph Earp](https://www.theguardian.com/commentisfree/2025/jun/05/a-cookbook-taught-me-everything-i-know-about-home-and-sobriety)
-- [Wicked: For Good – trailer released for sequel to Ariana Grande and Cynthia Erivo hit](https://www.theguardian.com/film/2025/jun/05/wicked-for-good-trailer-sequel-ariana-grande-cynthia-erivo)
-- [Trump signs order banning citizens of 12 countries from entering the US](https://www.theguardian.com/us-news/2025/jun/04/trump-proclamation-travel-ban)
-- [Ukraine war briefing: Don’t be weak, Zelenskyy tells allies, after Putin threats](https://www.theguardian.com/world/2025/jun/05/ukraine-war-briefing-dont-be-weak-zelenskyy-tells-allies-after-putin-threats)
-- [Marine heatwave found to have engulfed area of ocean five times the size of Australia](https://www.theguardian.com/environment/2025/jun/05/marine-heatwave-found-to-have-engulfed-area-of-ocean-five-times-the-size-of-australia)
-- [In Thailand, where mysticism thrives, AI fortune telling finds fertile ground](https://www.theguardian.com/world/2025/jun/05/in-thailand-where-mysticism-thrives-ai-fortune-telling-finds-fertile-ground)
-- [People with cancer face ‘ticking timebomb’ due to NHS staff shortages](https://www.theguardian.com/society/2025/jun/05/people-with-cancer-face-ticking-timebomb-due-to-nhs-staff-shortages)
-- [Come Fall in Love: The DDLJ Musical review – loud, kitsch and joyous](https://www.theguardian.com/stage/2025/jun/05/come-fall-in-love-the-ddlj-musical-review-manchester-opera-house)
-- [Women and ethnic minorities less likely to be treated after diagnosis of deadly heart disease in England, study finds](https://www.theguardian.com/society/2025/jun/05/heart-disease-referral-less-likely-women-ethnic-minority-deprived-areas-england)
-- [Rape victims can challenge CPS if cases dropped under pilot scheme](https://www.theguardian.com/society/2025/jun/05/victims-can-challenge-cps-if-cases-dropped-under-pilot-scheme)
+- [Indiana Pacers v Oklahoma City Thunder: NBA finals Game 1 – live](https://www.theguardian.com/sport/live/2025/jun/05/indiana-pacers-v-oklahoma-city-thunder-nba-finals-game-1-live-buildup)
+- [Australia mushroom trial live: Erin Patterson did not tell anyone about realisation foraged mushrooms may have been in lunch meal, court hears](https://www.theguardian.com/australia-news/live/2025/jun/06/erin-patterson-trial-live-update-australia-mushroom-case-day-28-latest-news-ntwnfb)
+- [Russia attacks Ukraine with missiles and drones – as it happened](https://www.theguardian.com/world/live/2025/jun/06/ukraine-war-live-update-russia-kyiv-drone-air-attack-putin-zelenskyy-latest-news)
+- [I suspect there&#39;s something poisonous about money. That’s why I’m embracing a gift economy | Kelley Swain](https://www.theguardian.com/commentisfree/2025/jun/06/i-suspect-theres-something-poisonous-about-money-thats-why-im-embracing-a-gift-economy)
+- [Beyoncé review – a hugely enjoyable concert that adds a ferocious potency to Cowboy Carter](https://www.theguardian.com/music/2025/jun/06/beyonce-london-concert-show-review-cowboy-carter-tour)
+- [Scottish Labour win pivotal Holyrood byelection, beating incumbent SNP and surging Reform UK](https://www.theguardian.com/politics/2025/jun/06/scottish-labour-win-pivotal-holyrood-byelection-beating-incumbent-snp-and-surging-reform-uk)
+- [Butter madness: New Zealanders turn to churning as price of dairy staple soars](https://www.theguardian.com/world/2025/jun/06/butter-madness-new-zealanders-turn-to-churning-as-price-of-dairy-staple-soars)
+- [‘Total discrimination’: Chinese students facing US visa ban say their lives are in limbo](https://www.theguardian.com/world/2025/jun/06/chinese-students-visa-ban-trump-international-study)
+- [Amazon promises fake reviews crackdown after investigation by UK watchdog](https://www.theguardian.com/technology/2025/jun/06/amazon-promises-fake-reviews-crackdown-after-investigation-by-uk-watchdog)
+- [Less than 4% of exploited care workers helped by UK government scheme](https://www.theguardian.com/society/2025/jun/06/less-than-4-of-exploited-care-workers-helped-by-uk-government-scheme)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

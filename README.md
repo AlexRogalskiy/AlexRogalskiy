@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Show HN: I made a 3D SVG Renderer that projects textures without rasterization](https://seve.blog/p/i-made-a-3d-svg-renderer-that-projects)
-- [Tesla seeks to guard crash data from public disclosure](https://www.reuters.com/legal/government/musks-tesla-seeks-guard-crash-data-public-disclosure-2025-06-04/)
-- [Authentication with Axum](https://mattrighetti.com/2025/05/03/authentication-with-axum)
-- [A Spiral Structure in the Inner Oort Cloud](https://iopscience.iop.org/article/10.3847/1538-4357/adbf9b)
-- [Not All Tokens Are Meant to Be Forgotten](https://arxiv.org/abs/2506.03142)
-- [parrot.live](https://github.com/hugomd/parrot.live)
-- [LLMs and Elixir: Windfall or Deathblow?](https://www.zachdaniel.dev/p/llms-and-elixir-windfall-or-deathblow)
-- [PromptArmor &lpar;YC W24&rpar; Is Hiring in San Francisco](https://www.ycombinator.com/companies/promptarmor/jobs/hZ3xFlj-founding-engineer-full-stack)
-- [After court order, OpenAI is now preserving all ChatGPT user logs](https://mastodon.laurenweinstein.org/@lauren/114627064774788581)
-- [Comparing Claude System Prompts Reveal Anthropic&#39;s Priorities](https://www.dbreunig.com/2025/06/03/comparing-system-prompts-across-claude-versions.html)
+- [Test Postgres in Python Like SQLite](https://github.com/wey-gu/py-pglite)
+- [How we’re responding to The NYT’s data demands in order to protect user privacy](https://openai.com/index/response-to-nyt-data-demands/)
+- [Anthropic co-founder on cutting access to Windsurf](https://techcrunch.com/2025/06/05/anthropic-co-founder-on-cutting-access-to-windsurf-it-would-be-odd-for-us-to-sell-claude-to-openai/)
+- [Show HN: Lambduck, a Functional Programming Brainfuck](https://imjakingit.github.io/lambduck/)
+- [I do not remember my life and it&#39;s fine](https://aethermug.com/posts/i-do-not-remember-my-life-and-it-s-fine)
+- [Show HN: Ask-human-mcp – zero-config human-in-loop hatch to stop hallucinations](https://masonyarbrough.com/blog/ask-human)
+- [Show HN: Claude Composer](https://github.com/possibilities/claude-composer)
+- [Machine Learning: The Native Language of Biology](https://decodingbiology.substack.com/p/machine-learning-the-native-language)
+- [What a developer needs to know about SCIM](https://tesseral.com/blog/what-a-developer-needs-to-know-about-scim)
+- [Show HN: String Flux – Simplify everyday string transformations for developers](https://stringflux.io)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

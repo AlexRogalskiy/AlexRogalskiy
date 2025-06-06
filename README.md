@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Deriving the gradient for the backward pass of Layer Normalization](https://shreyansh26.github.io/post/2025-06-04_layernorm-gradients/)
-- [AI as a Financial Market Analyst](https://www.monadwealth.com)
-- [Show HN: I made a Custom GPT to help find emails without breaking the bank](https://chatgpt.com/g/g-684107b431c88191a80a4f21e71fde5d-email-finder-master-guide-and-expert)
-- [The Clemson University Vehicular Electronics Labratory &lpar;2017&rpar;](https://cecas.clemson.edu/cvel/)
-- [Show HN: Top Payment Gateways in Asia](https://altified.com/blogs/top-10-payment-gateways-in-asia)
-- [Amazon prepares to test humanoid robots for deliveries, The Information reports](https://www.reuters.com/business/retail-consumer/amazon-prepares-test-humanoid-robots-package-deliveries-information-reports-2025-06-05/)
-- [The Art of SQL Query Optimization](https://jnidzwetzki.github.io/2025/06/03/art-of-query-optimization.html)
-- [Panjandrum: The &#39;giant firework&#39; built to break Hitler&#39;s Atlantic Wall](https://www.bbc.com/future/article/20250603-the-giant-firework-built-to-break-hitlers-atlantic-wall)
-- [High-rise forests can transform city life – and make us happier](https://www.bbc.com/culture/article/20250602-how-high-rise-forests-can-transform-city-life-and-make-us-happier)
-- [Show HN: Website Speed Checker in Bulk &lpar;using apify&rpar;](https://apify.com/onescales/website-speed-checker)
+- [LTX Studio API v1 Featuring LTX-Video and FLUX.1 Kontext](https://useapi.net/blog/250603)
+- [The Beer Gut 2](https://substack.com/inbox/post/165233742)
+- [Mexican high school student launches mental health app](https://nomadful.io)
+- [Data centers are building their own gas power plants in Texas](https://www.texastribune.org/2025/06/05/texas-data-centers-gas-power-plants-ai/)
+- [Texas governor signs cybersecurity bill establishing state command center](https://communityimpact.com/san-antonio/northeast-san-antonio-metrocom/texas-legislature/2025/06/02/gov-greg-abbott-signs-cybersecurity-bill-establishing-state-command-center/)
+- [Asking about firearm safety during ER admissions: positive results](https://www.newswise.com/articles/children-s-hospital-of-philadelphia-researchers-show-quality-improvement-initiative-in-the-emergency-department-improved-family-engagement-around-firearm-safety-resources)
+- [World&#39;s two worst people are having a big, beautiful breakup](https://www.theguardian.com/commentisfree/2025/jun/05/trump-musk-fight-fallout)
+- [Every LLM buzzword explained as a fantasy story &lpar;RAG, MoE, LoRA, RoPE, etc.&rpar;](https://medium.com/@isranimohit/the-lexiconia-codex-a-fantasy-story-that-teaches-you-every-llm-buzzword-3b7f6eb23da9)
+- [Gren to WebAssembly [video]](https://www.youtube.com/watch?v=OCpzEw4T5bA)
+- [I Am an Audience, First and Foremost](https://ratsfromrocks.substack.com/p/i-am-an-audience-first-and-foremost)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

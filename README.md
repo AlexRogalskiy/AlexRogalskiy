@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Indiana Pacers v Oklahoma City Thunder: NBA finals Game 1 – live](https://www.theguardian.com/sport/live/2025/jun/05/indiana-pacers-v-oklahoma-city-thunder-nba-finals-game-1-live-buildup)
-- [Australia mushroom trial live: Erin Patterson did not tell anyone about realisation foraged mushrooms may have been in lunch meal, court hears](https://www.theguardian.com/australia-news/live/2025/jun/06/erin-patterson-trial-live-update-australia-mushroom-case-day-28-latest-news-ntwnfb)
-- [Russia attacks Ukraine with missiles and drones – as it happened](https://www.theguardian.com/world/live/2025/jun/06/ukraine-war-live-update-russia-kyiv-drone-air-attack-putin-zelenskyy-latest-news)
-- [I suspect there&#39;s something poisonous about money. That’s why I’m embracing a gift economy | Kelley Swain](https://www.theguardian.com/commentisfree/2025/jun/06/i-suspect-theres-something-poisonous-about-money-thats-why-im-embracing-a-gift-economy)
-- [Beyoncé review – a hugely enjoyable concert that adds a ferocious potency to Cowboy Carter](https://www.theguardian.com/music/2025/jun/06/beyonce-london-concert-show-review-cowboy-carter-tour)
-- [Scottish Labour win pivotal Holyrood byelection, beating incumbent SNP and surging Reform UK](https://www.theguardian.com/politics/2025/jun/06/scottish-labour-win-pivotal-holyrood-byelection-beating-incumbent-snp-and-surging-reform-uk)
-- [Butter madness: New Zealanders turn to churning as price of dairy staple soars](https://www.theguardian.com/world/2025/jun/06/butter-madness-new-zealanders-turn-to-churning-as-price-of-dairy-staple-soars)
-- [‘Total discrimination’: Chinese students facing US visa ban say their lives are in limbo](https://www.theguardian.com/world/2025/jun/06/chinese-students-visa-ban-trump-international-study)
-- [Amazon promises fake reviews crackdown after investigation by UK watchdog](https://www.theguardian.com/technology/2025/jun/06/amazon-promises-fake-reviews-crackdown-after-investigation-by-uk-watchdog)
-- [Less than 4% of exploited care workers helped by UK government scheme](https://www.theguardian.com/society/2025/jun/06/less-than-4-of-exploited-care-workers-helped-by-uk-government-scheme)
+- [Jailed Hong Kong democracy activist Joshua Wong hit with new charges](https://www.theguardian.com/world/2025/jun/07/jailed-hong-kong-democracy-activist-joshua-wong-hit-with-new-charges)
+- [Ice agents use pepper spray and smoke grenades to disperse LA protesters](https://www.theguardian.com/us-news/2025/jun/06/los-angeles-ice-raids-immigration)
+- [Ukraine war briefing: We bomb their warplanes, they bomb our civilians, says foreign minister](https://www.theguardian.com/world/2025/jun/07/ukraine-war-briefing-we-bomb-their-warplanes-they-bomb-our-civilians-says-foreign-minister)
+- [Arkansas killer and rapist caught after 13-day manhunt in mountains](https://www.theguardian.com/us-news/2025/jun/06/arkansas-devil-in-the-ozarks-caught)
+- [Yoga classes resume at San Diego beach as court says they are ‘protected speech’](https://www.theguardian.com/us-news/2025/jun/06/yoga-classes-san-diego-beach)
+- [Jannik Sinner sees off defiant Djokovic to set up dream final against Alcaraz](https://www.theguardian.com/sport/2025/jun/06/jannik-sinner-sees-off-defiant-djokovic-to-set-up-dream-final-against-alcaraz)
+- [Donald Trump says Elon Musk has ‘lost his mind’ and dismisses peace offering](https://www.theguardian.com/technology/2025/jun/06/elon-musk-signals-he-may-back-down-in-public-row-with-donald-trump)
+- [Thomas Tuchel wary of physical demands on his England players](https://www.theguardian.com/football/2025/jun/06/thomas-tuchel-wary-of-physical-demands-on-his-england-players)
+- [Jos Buttler serves up fireworks as England see off West Indies in first T20](https://www.theguardian.com/sport/2025/jun/06/england-west-indies-first-t20-match-report)
+- [Bath’s second-half revival carries them past Bristol and into Premiership final](https://www.theguardian.com/sport/2025/jun/06/bath-bristol-premiership-semi-final-match-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

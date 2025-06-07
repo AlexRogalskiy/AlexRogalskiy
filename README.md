@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [LTX Studio API v1 Featuring LTX-Video and FLUX.1 Kontext](https://useapi.net/blog/250603)
-- [The Beer Gut 2](https://substack.com/inbox/post/165233742)
-- [Mexican high school student launches mental health app](https://nomadful.io)
-- [Data centers are building their own gas power plants in Texas](https://www.texastribune.org/2025/06/05/texas-data-centers-gas-power-plants-ai/)
-- [Texas governor signs cybersecurity bill establishing state command center](https://communityimpact.com/san-antonio/northeast-san-antonio-metrocom/texas-legislature/2025/06/02/gov-greg-abbott-signs-cybersecurity-bill-establishing-state-command-center/)
-- [Asking about firearm safety during ER admissions: positive results](https://www.newswise.com/articles/children-s-hospital-of-philadelphia-researchers-show-quality-improvement-initiative-in-the-emergency-department-improved-family-engagement-around-firearm-safety-resources)
-- [World&#39;s two worst people are having a big, beautiful breakup](https://www.theguardian.com/commentisfree/2025/jun/05/trump-musk-fight-fallout)
-- [Every LLM buzzword explained as a fantasy story &lpar;RAG, MoE, LoRA, RoPE, etc.&rpar;](https://medium.com/@isranimohit/the-lexiconia-codex-a-fantasy-story-that-teaches-you-every-llm-buzzword-3b7f6eb23da9)
-- [Gren to WebAssembly [video]](https://www.youtube.com/watch?v=OCpzEw4T5bA)
-- [I Am an Audience, First and Foremost](https://ratsfromrocks.substack.com/p/i-am-an-audience-first-and-foremost)
+- [Trump administration races to fix a big mistake: DOGE fired too many people](https://www.washingtonpost.com/business/2025/06/06/doge-staff-cuts-rehiring-federal-workers/)
+- [Getting Past Procastination](https://spectrum.ieee.org/getting-past-procastination)
+- [Reverse Engineering Cursor&#39;s LLM Client](https://www.tensorzero.com/blog/reverse-engineering-cursors-llm-client/)
+- [Show HN: Cpdown – Copy any webpage/YouTube subtitle as clean Markdown&lpar;LLM-ready&rpar;](https://github.com/ysm-dev/cpdown)
+- [Pentagon Disinformation Fueled America&#39;s UFO Mythology](https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e)
+- [Open-source code repos open to supply chain attacks, researchers warn](https://www.scworld.com/news/open-source-code-repos-open-to-supply-chain-attacks-researchers-warn)
+- [Ask HN: What non-AI projects are you working on?](https://news.ycombinator.com/item?id=44207005)
+- [Nintendo Switch 2 Teardown [video]](https://www.youtube.com/watch?v=RvD1OCHhhS0)
+- [TSA urges people to stop trying to use a Costco card as a sufficient Real ID](https://www.wsfa.com/2025/06/06/tsa-urges-people-stop-trying-use-costco-card-sufficient-real-id/)
+- [The reason Indians are lost](https://www.economist.com/asia/2025/06/05/the-real-reason-indians-are-lost)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Test Postgres in Python Like SQLite](https://github.com/wey-gu/py-pglite)
-- [How we’re responding to The NYT’s data demands in order to protect user privacy](https://openai.com/index/response-to-nyt-data-demands/)
-- [Anthropic co-founder on cutting access to Windsurf](https://techcrunch.com/2025/06/05/anthropic-co-founder-on-cutting-access-to-windsurf-it-would-be-odd-for-us-to-sell-claude-to-openai/)
-- [Show HN: Lambduck, a Functional Programming Brainfuck](https://imjakingit.github.io/lambduck/)
-- [I do not remember my life and it&#39;s fine](https://aethermug.com/posts/i-do-not-remember-my-life-and-it-s-fine)
-- [Show HN: Ask-human-mcp – zero-config human-in-loop hatch to stop hallucinations](https://masonyarbrough.com/blog/ask-human)
-- [Show HN: Claude Composer](https://github.com/possibilities/claude-composer)
-- [Machine Learning: The Native Language of Biology](https://decodingbiology.substack.com/p/machine-learning-the-native-language)
-- [What a developer needs to know about SCIM](https://tesseral.com/blog/what-a-developer-needs-to-know-about-scim)
-- [Show HN: String Flux – Simplify everyday string transformations for developers](https://stringflux.io)
+- [Why You Should Move Your Site Away from Weebly &lpar;YC W07&rpar;](https://www.articulation.blog/p/why-you-should-move-your-site-away-from-weebly)
+- [What &quot;Working&quot; Means in the Era of AI Apps](https://a16z.com/revenue-benchmarks-ai-apps/)
+- [I Read All of Cloudflare&#39;s Claude-Generated Commits](https://www.maxemitchell.com/writings/i-read-all-of-cloudflares-claude-generated-commits/)
+- [Medieval Africans Had a Unique Process for Purifying Gold with Glass &lpar;2019&rpar;](https://www.atlasobscura.com/articles/medieval-african-gold)
+- [Falsehoods Programmers Believe About Aviation](https://flightaware.engineering/falsehoods-programmers-believe-about-aviation/)
+- [Researchers develop ‘transparent paper’ as alternative to plastics](https://japannews.yomiuri.co.jp/science-nature/technology/20250605-259501/)
+- [Onyx &lpar;YC W24&rpar; – AI Assistants for Work Hiring Founding AE](https://www.ycombinator.com/companies/onyx/jobs/Gm0Hw6L-founding-account-executive)
+- [Smalltalk, Haskell and Lisp](https://storytotell.org/smalltalk-haskell-and-lisp)
+- [United States Digital Service Origins](https://usdigitalserviceorigins.org/)
+- [A year of funded FreeBSD development](https://www.daemonology.net/blog/2025-06-06-A-year-of-funded-FreeBSD.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

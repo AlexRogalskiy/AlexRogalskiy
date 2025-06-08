@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Trump administration races to fix a big mistake: DOGE fired too many people](https://www.washingtonpost.com/business/2025/06/06/doge-staff-cuts-rehiring-federal-workers/)
-- [Getting Past Procastination](https://spectrum.ieee.org/getting-past-procastination)
-- [Reverse Engineering Cursor&#39;s LLM Client](https://www.tensorzero.com/blog/reverse-engineering-cursors-llm-client/)
-- [Show HN: Cpdown – Copy any webpage/YouTube subtitle as clean Markdown&lpar;LLM-ready&rpar;](https://github.com/ysm-dev/cpdown)
-- [Pentagon Disinformation Fueled America&#39;s UFO Mythology](https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e)
-- [Open-source code repos open to supply chain attacks, researchers warn](https://www.scworld.com/news/open-source-code-repos-open-to-supply-chain-attacks-researchers-warn)
-- [Ask HN: What non-AI projects are you working on?](https://news.ycombinator.com/item?id=44207005)
-- [Nintendo Switch 2 Teardown [video]](https://www.youtube.com/watch?v=RvD1OCHhhS0)
-- [TSA urges people to stop trying to use a Costco card as a sufficient Real ID](https://www.wsfa.com/2025/06/06/tsa-urges-people-stop-trying-use-costco-card-sufficient-real-id/)
-- [The reason Indians are lost](https://www.economist.com/asia/2025/06/05/the-real-reason-indians-are-lost)
+- [Louis Rossmann: We&#39;ve started a foundation to bring back ownership [video]](https://www.youtube.com/watch?v=WBG6Vw3nxZs)
+- [The AI Tool Used by Doge to Review Veterans Affairs Contracts](https://www.propublica.org/article/inside-ai-tool-doge-veterans-affairs-contracts-sahil-lavingia)
+- [CEO of Health Care Software Company Convicted of $1B Fraud Conspiracy](https://www.justice.gov/opa/pr/ceo-health-care-software-company-convicted-1b-fraud-conspiracy)
+- [Fight to the Ford](https://www.youtube.com/watch?v=6e7qhhLbAok)
+- [Show HN: SEC filing AI built by equity analyst and PM](https://www.dfin.pro/)
+- [Russian Intelligence Says It Collects WeChat Data. What Does That Mean?](https://www.nytimes.com/2025/06/07/world/europe/russia-china-wechat-spying.html)
+- [Bitcoin Family etches keys onto metal cards on 4 continents after kidnappings](https://www.cnbc.com/2025/06/07/bitcoin-family-crypto-security-kidnappings.html)
+- [East River Source Control](https://ersc.io/)
+- [Trump deploys National Guard as Los Angeles protests against immigration agents](https://www.rnz.co.nz/news/world/563439/trump-deploys-national-guard-as-los-angeles-protests-against-immigration-agents-continue)
+- [Show HN: Live software archaeology of FOL &lpar;theory of reasoning&rpar;](https://io.livecode.ch/learn/namin/GETFOL)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

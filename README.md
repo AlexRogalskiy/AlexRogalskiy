@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Jailed Hong Kong democracy activist Joshua Wong hit with new charges](https://www.theguardian.com/world/2025/jun/07/jailed-hong-kong-democracy-activist-joshua-wong-hit-with-new-charges)
-- [Ice agents use pepper spray and smoke grenades to disperse LA protesters](https://www.theguardian.com/us-news/2025/jun/06/los-angeles-ice-raids-immigration)
-- [Ukraine war briefing: We bomb their warplanes, they bomb our civilians, says foreign minister](https://www.theguardian.com/world/2025/jun/07/ukraine-war-briefing-we-bomb-their-warplanes-they-bomb-our-civilians-says-foreign-minister)
-- [Arkansas killer and rapist caught after 13-day manhunt in mountains](https://www.theguardian.com/us-news/2025/jun/06/arkansas-devil-in-the-ozarks-caught)
-- [Yoga classes resume at San Diego beach as court says they are ‘protected speech’](https://www.theguardian.com/us-news/2025/jun/06/yoga-classes-san-diego-beach)
-- [Jannik Sinner sees off defiant Djokovic to set up dream final against Alcaraz](https://www.theguardian.com/sport/2025/jun/06/jannik-sinner-sees-off-defiant-djokovic-to-set-up-dream-final-against-alcaraz)
-- [Donald Trump says Elon Musk has ‘lost his mind’ and dismisses peace offering](https://www.theguardian.com/technology/2025/jun/06/elon-musk-signals-he-may-back-down-in-public-row-with-donald-trump)
-- [Thomas Tuchel wary of physical demands on his England players](https://www.theguardian.com/football/2025/jun/06/thomas-tuchel-wary-of-physical-demands-on-his-england-players)
-- [Jos Buttler serves up fireworks as England see off West Indies in first T20](https://www.theguardian.com/sport/2025/jun/06/england-west-indies-first-t20-match-report)
-- [Bath’s second-half revival carries them past Bristol and into Premiership final](https://www.theguardian.com/sport/2025/jun/06/bath-bristol-premiership-semi-final-match-report)
+- [Colombian presidential candidate Miguel Uribe shot at campaign event](https://www.theguardian.com/world/2025/jun/08/colombian-presidential-candidate-miguel-uribe-shot-at-campaign-event)
+- [Trump authorizes 2,000 national guard troops to deploy to LA amid Ice protests](https://www.theguardian.com/us-news/2025/jun/07/immigration-raids-los-angeles)
+- [Ukraine war briefing: Putin yet to retaliate in full force over Operation Spiderweb, officials say](https://www.theguardian.com/world/2025/jun/08/ukraine-war-briefing-putin-yet-to-retaliate-in-full-force-over-operation-spiderweb-officials-say)
+- [Chris Hadfield: ‘Worst space chore? Fixing the toilet. It’s even worse when it’s weightless’](https://www.theguardian.com/culture/2025/jun/08/chris-hadfield-astronaut-10-chaotic-questions)
+- [Ministers commit to £86bn for ‘breakthrough’ UK science and tech R&amp;D](https://www.theguardian.com/technology/2025/jun/08/ministers-commit-to-86bn-for-uk-science-technology-research-development)
+- [BBC suspends EastEnders actor Jamie Borthwick for using ableist slur](https://www.theguardian.com/media/2025/jun/07/eastenders-actor-jamie-borthwick-suspended-over-ableist-slur)
+- [Nine women accuse Jared Leto of sexual impropriety in new report](https://www.theguardian.com/film/2025/jun/07/jared-leto-accused-sexual-impropriety)
+- [Coco Gauff ‘proud to represent Americans that look like me’ in French Open final triumph](https://www.theguardian.com/sport/2025/jun/07/coco-gauff-proud-to-represent-americans-that-look-like-me-in-french-open-final-triumph)
+- [Scott Morrison sought advice to obstruct Nauru asylum seekers from accessing abortions, documents reveal](https://www.theguardian.com/australia-news/2025/jun/08/scott-morrison-sought-advice-to-obstruct-nauru-asylum-seekers-from-accessing-abortions-documents-reveal-ntwnfb)
+- [The moment I knew: she was giving birth to another man’s child – I was in absolute awe](https://www.theguardian.com/lifeandstyle/2025/jun/08/the-moment-i-knew-she-was-giving-birth-to-another-mans-child-i-was-in-absolute-awe)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Why You Should Move Your Site Away from Weebly &lpar;YC W07&rpar;](https://www.articulation.blog/p/why-you-should-move-your-site-away-from-weebly)
-- [What &quot;Working&quot; Means in the Era of AI Apps](https://a16z.com/revenue-benchmarks-ai-apps/)
-- [I Read All of Cloudflare&#39;s Claude-Generated Commits](https://www.maxemitchell.com/writings/i-read-all-of-cloudflares-claude-generated-commits/)
-- [Medieval Africans Had a Unique Process for Purifying Gold with Glass &lpar;2019&rpar;](https://www.atlasobscura.com/articles/medieval-african-gold)
-- [Falsehoods Programmers Believe About Aviation](https://flightaware.engineering/falsehoods-programmers-believe-about-aviation/)
-- [Researchers develop ‘transparent paper’ as alternative to plastics](https://japannews.yomiuri.co.jp/science-nature/technology/20250605-259501/)
-- [Onyx &lpar;YC W24&rpar; – AI Assistants for Work Hiring Founding AE](https://www.ycombinator.com/companies/onyx/jobs/Gm0Hw6L-founding-account-executive)
-- [Smalltalk, Haskell and Lisp](https://storytotell.org/smalltalk-haskell-and-lisp)
-- [United States Digital Service Origins](https://usdigitalserviceorigins.org/)
-- [A year of funded FreeBSD development](https://www.daemonology.net/blog/2025-06-06-A-year-of-funded-FreeBSD.html)
+- [Should I Use a Carousel? &lpar;2013&rpar;](https://shouldiuseacarousel.com/)
+- [An innovative superfamily of fonts for code &lpar;2023&rpar;](https://monaspace.githubnext.com/)
+- [You need much less memory than time](https://blog.computationalcomplexity.org/2025/02/you-need-much-less-memory-than-time.html)
+- [Why Understanding Software Cycle Time Is Messy, Not Magic](https://arxiv.org/abs/2503.05040)
+- [Math Symbol Frequencies](https://leancrew.com/all-this/2025/06/math-symbol-frequencies/)
+- [Convert photos to Atkinson dithering](https://gazs.github.io/canvas-atkinson-dither/)
+- [Joining Apple Computer &lpar;2018&rpar;](https://www.folklore.org/Joining_Apple_Computer.html)
+- [Updates to Advanced Voice Mode for paid users](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+- [Discovering a JDK Race Condition, and Debugging It in 30 Minutes with Fray](https://aoli.al/blogs/jdk-bug/)
+- [BorgBackup 2 has no server-side append-only anymore](https://github.com/borgbackup/borg/pull/8798)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

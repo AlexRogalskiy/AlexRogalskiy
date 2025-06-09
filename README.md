@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Should I Use a Carousel? &lpar;2013&rpar;](https://shouldiuseacarousel.com/)
-- [An innovative superfamily of fonts for code &lpar;2023&rpar;](https://monaspace.githubnext.com/)
-- [You need much less memory than time](https://blog.computationalcomplexity.org/2025/02/you-need-much-less-memory-than-time.html)
-- [Why Understanding Software Cycle Time Is Messy, Not Magic](https://arxiv.org/abs/2503.05040)
-- [Math Symbol Frequencies](https://leancrew.com/all-this/2025/06/math-symbol-frequencies/)
-- [Convert photos to Atkinson dithering](https://gazs.github.io/canvas-atkinson-dither/)
-- [Joining Apple Computer &lpar;2018&rpar;](https://www.folklore.org/Joining_Apple_Computer.html)
-- [Updates to Advanced Voice Mode for paid users](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
-- [Discovering a JDK Race Condition, and Debugging It in 30 Minutes with Fray](https://aoli.al/blogs/jdk-bug/)
-- [BorgBackup 2 has no server-side append-only anymore](https://github.com/borgbackup/borg/pull/8798)
+- [FSE meets the FBI](https://blog.freespeechextremist.com/blog/fse-vs-fbi.html)
+- [Analyzing IPv4 Trades with Gnuplot](https://ipv4a-5539ad.gitlab.io/)
+- [Software Is About Promises](https://www.bramadams.dev/software-is-about-promises/)
+- [Riding high in Germany on the world&#39;s oldest suspended railway](https://www.theguardian.com/travel/2025/jun/09/riding-high-in-germany-on-the-worlds-oldest-suspended-railway)
+- [I used AI-powered calorie counting apps, and they were even worse than expected](https://lifehacker.com/health/ai-powered-calorie-counting-apps-worse-than-expected)
+- [Zig Devlog: Self-Hosted x86 Back End Is Now Default in Debug Mode](https://ziglang.org/devlog/2025/#2025-06-08)
+- [Poison everywhere: No output from your MCP server is safe](https://www.cyberark.com/resources/threat-research-blog/poison-everywhere-no-output-from-your-mcp-server-is-safe)
+- [Building supercomputers for autocrats probably isn&#39;t good for democracy](https://helentoner.substack.com/p/supercomputers-for-autocrats)
+- [Why Android can&#39;t use CDC Ethernet &lpar;2023&rpar;](https://jordemort.dev/blog/why-android-cant-use-cdc-ethernet/)
+- [Omnimax](https://computer.rip/2025-06-08-Omnimax.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

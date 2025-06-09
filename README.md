@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Louis Rossmann: We&#39;ve started a foundation to bring back ownership [video]](https://www.youtube.com/watch?v=WBG6Vw3nxZs)
-- [The AI Tool Used by Doge to Review Veterans Affairs Contracts](https://www.propublica.org/article/inside-ai-tool-doge-veterans-affairs-contracts-sahil-lavingia)
-- [CEO of Health Care Software Company Convicted of $1B Fraud Conspiracy](https://www.justice.gov/opa/pr/ceo-health-care-software-company-convicted-1b-fraud-conspiracy)
-- [Fight to the Ford](https://www.youtube.com/watch?v=6e7qhhLbAok)
-- [Show HN: SEC filing AI built by equity analyst and PM](https://www.dfin.pro/)
-- [Russian Intelligence Says It Collects WeChat Data. What Does That Mean?](https://www.nytimes.com/2025/06/07/world/europe/russia-china-wechat-spying.html)
-- [Bitcoin Family etches keys onto metal cards on 4 continents after kidnappings](https://www.cnbc.com/2025/06/07/bitcoin-family-crypto-security-kidnappings.html)
-- [East River Source Control](https://ersc.io/)
-- [Trump deploys National Guard as Los Angeles protests against immigration agents](https://www.rnz.co.nz/news/world/563439/trump-deploys-national-guard-as-los-angeles-protests-against-immigration-agents-continue)
-- [Show HN: Live software archaeology of FOL &lpar;theory of reasoning&rpar;](https://io.livecode.ch/learn/namin/GETFOL)
+- [Quant Firm&#39;s $1B Code Is Focus of Rare Criminal Case](https://www.bloomberg.com/news/features/2025-06-08/wall-street-trade-secrets-1-billion-code-star-in-theft-case)
+- [Thousands fill the streets, block freeway after Trump deploys National Guard](https://www.pbs.org/newshour/nation/thousands-fill-the-streets-block-freeway-in-los-angeles-after-trump-deploys-national-guard)
+- [List of Common Misconceptions](https://en.wikipedia.org/wiki/List_of_common_misconceptions)
+- [Meta Set to Throw Billions at Startup That Leads AI Data Market](https://www.bloomberg.com/news/articles/2025-06-08/meta-s-billion-dollar-bet-cements-scale-ai-s-role-as-backbone-of-ai-market)
+- [Medieval Murder Maps](https://www.cam.ac.uk/stories/medieval-murder-maps-noblewoman-priest)
+- [Show HN: Bora – cooperative payments system enabling 100% gradual recoup](https://bora02.netlify.app)
+- [Show HN: Tokidoki, a Multifunctional Robotic Timepiece](https://msgtn.io/tokidoki)
+- [Waymo Self-Driving Cars Vandalized in LA](https://old.reddit.com/r/interestingasfuck/comments/1l6ryu8/waymo_selfdriving_cars_vandalized_in_la/)
+- [Timbaland Faces Brutal Backlash After Revealing AI Artist TaTa](https://allhiphop.com/news/timbaland-brutal-backlash-ai-artist-tata/)
+- [One Man Armies](https://quarter--mile.com/One-Man-Armies)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Colombian presidential candidate Miguel Uribe shot at campaign event](https://www.theguardian.com/world/2025/jun/08/colombian-presidential-candidate-miguel-uribe-shot-at-campaign-event)
-- [Trump authorizes 2,000 national guard troops to deploy to LA amid Ice protests](https://www.theguardian.com/us-news/2025/jun/07/immigration-raids-los-angeles)
-- [Ukraine war briefing: Putin yet to retaliate in full force over Operation Spiderweb, officials say](https://www.theguardian.com/world/2025/jun/08/ukraine-war-briefing-putin-yet-to-retaliate-in-full-force-over-operation-spiderweb-officials-say)
-- [Chris Hadfield: ‘Worst space chore? Fixing the toilet. It’s even worse when it’s weightless’](https://www.theguardian.com/culture/2025/jun/08/chris-hadfield-astronaut-10-chaotic-questions)
-- [Ministers commit to £86bn for ‘breakthrough’ UK science and tech R&amp;D](https://www.theguardian.com/technology/2025/jun/08/ministers-commit-to-86bn-for-uk-science-technology-research-development)
-- [BBC suspends EastEnders actor Jamie Borthwick for using ableist slur](https://www.theguardian.com/media/2025/jun/07/eastenders-actor-jamie-borthwick-suspended-over-ableist-slur)
-- [Nine women accuse Jared Leto of sexual impropriety in new report](https://www.theguardian.com/film/2025/jun/07/jared-leto-accused-sexual-impropriety)
-- [Coco Gauff ‘proud to represent Americans that look like me’ in French Open final triumph](https://www.theguardian.com/sport/2025/jun/07/coco-gauff-proud-to-represent-americans-that-look-like-me-in-french-open-final-triumph)
-- [Scott Morrison sought advice to obstruct Nauru asylum seekers from accessing abortions, documents reveal](https://www.theguardian.com/australia-news/2025/jun/08/scott-morrison-sought-advice-to-obstruct-nauru-asylum-seekers-from-accessing-abortions-documents-reveal-ntwnfb)
-- [The moment I knew: she was giving birth to another man’s child – I was in absolute awe](https://www.theguardian.com/lifeandstyle/2025/jun/08/the-moment-i-knew-she-was-giving-birth-to-another-mans-child-i-was-in-absolute-awe)
+- [Gaza aid ship activists accuse Israel of ‘forcibly intercepting’ vessel as Israeli foreign ministry says ship heading to Israel – live](https://www.theguardian.com/world/live/2025/jun/09/live-israel-gaza-aid-ship-madleen-freedom-flotilla-coalition-greta-thunberg)
+- [Los Angeles protests live: California governor and LA mayor urge Trump to remove national guard troops](https://www.theguardian.com/us-news/live/2025/jun/08/trump-national-guard-la-protests-immigration-ice-us-politics-live-news)
+- [NBA finals: Ruthless Thunder show Pacers no mercy as they level series 1-1](https://www.theguardian.com/sport/2025/jun/08/nba-finals-game-2-thunder-pacers)
+- [Rachel Reeves in standoff over policing and council budgets days before spending review](https://www.theguardian.com/politics/2025/jun/08/rachel-reeves-in-stand-off-over-policing-and-council-budgets-days-before-spending-review)
+- [Riding high in Germany on the world’s oldest suspended railway](https://www.theguardian.com/travel/2025/jun/09/riding-high-in-germany-on-the-worlds-oldest-suspended-railway)
+- [Tony awards 2025: full list of winners](https://www.theguardian.com/stage/2025/jun/08/tony-awards-2025-full-list-of-winners)
+- [Nottingham victim’s parent complains about ‘offensive’ IOPC meeting](https://www.theguardian.com/uk-news/2025/jun/08/nottingham-victims-parent-complain-about-offensive-iopc-meeting)
+- [Portugal sink Spain in penalty shootout to win Nations League crown](https://www.theguardian.com/football/2025/jun/08/portugal-sink-spain-in-penalty-shootout-to-win-nations-league-crown)
+- [‘The level was insane’: Alcaraz did not stop believing in epic French Open final triumph](https://www.theguardian.com/sport/2025/jun/08/carlos-alcaraz-the-match-is-not-finished-until-he-wins-the-last-point)
+- [Uriah Rennie, first black referee in Premier League, dies aged 65](https://www.theguardian.com/football/2025/jun/08/uriah-rennie-the-first-black-referee-in-the-premier-league-dies-aged-65)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

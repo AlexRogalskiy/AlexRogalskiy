@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [FSE meets the FBI](https://blog.freespeechextremist.com/blog/fse-vs-fbi.html)
-- [Analyzing IPv4 Trades with Gnuplot](https://ipv4a-5539ad.gitlab.io/)
-- [Software Is About Promises](https://www.bramadams.dev/software-is-about-promises/)
-- [Riding high in Germany on the world&#39;s oldest suspended railway](https://www.theguardian.com/travel/2025/jun/09/riding-high-in-germany-on-the-worlds-oldest-suspended-railway)
-- [I used AI-powered calorie counting apps, and they were even worse than expected](https://lifehacker.com/health/ai-powered-calorie-counting-apps-worse-than-expected)
-- [Zig Devlog: Self-Hosted x86 Back End Is Now Default in Debug Mode](https://ziglang.org/devlog/2025/#2025-06-08)
-- [Poison everywhere: No output from your MCP server is safe](https://www.cyberark.com/resources/threat-research-blog/poison-everywhere-no-output-from-your-mcp-server-is-safe)
-- [Building supercomputers for autocrats probably isn&#39;t good for democracy](https://helentoner.substack.com/p/supercomputers-for-autocrats)
-- [Why Android can&#39;t use CDC Ethernet &lpar;2023&rpar;](https://jordemort.dev/blog/why-android-cant-use-cdc-ethernet/)
-- [Omnimax](https://computer.rip/2025-06-08-Omnimax.html)
+- [Discrete Mathematics: An Open Introduction [pdf]](https://discrete.openmathbooks.org/pdfs/dmoi4.pdf)
+- [Implementing DOES&gt; in Forth, the entire reason I started this mess](https://boston.conman.org/2025/06/09.1)
+- [Las Vegas is embracing a simple climate solution: More trees](https://www.npr.org/2025/06/09/nx-s1-5340363/las-vegas-climate-change-solution-trees)
+- [Why agents are bad pair programmers](https://justin.searls.co/posts/why-agents-are-bad-pair-programmers/)
+- [Marines being mobilized in response to LA protests](https://www.cnn.com/2025/06/09/politics/marines-mobilized-los-angeles-protests)
+- [Sly Stone has died](https://abcnews.go.com/US/sly-stone-pioneering-leader-funk-band-sly-family/story?id=122666345)
+- [The Xerox Alto, Smalltalk, and Rewriting a Running GUI &lpar;2017&rpar;](https://www.righto.com/2017/10/the-xerox-alto-smalltalk-and-rewriting.html)
+- [RFK Jr.: HHS moves to restore public trust in vaccines](https://www.wsj.com/opinion/rfk-jr-hhs-moves-to-restore-public-trust-in-vaccines-45495112)
+- [Containerization is a Swift package for running Linux containers on macOS](https://github.com/apple/containerization)
+- [Container: Apple&#39;s Linux-Container Runtime](https://github.com/apple/container)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

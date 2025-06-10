@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Gaza aid ship activists accuse Israel of ‘forcibly intercepting’ vessel as Israeli foreign ministry says ship heading to Israel – live](https://www.theguardian.com/world/live/2025/jun/09/live-israel-gaza-aid-ship-madleen-freedom-flotilla-coalition-greta-thunberg)
-- [Los Angeles protests live: California governor and LA mayor urge Trump to remove national guard troops](https://www.theguardian.com/us-news/live/2025/jun/08/trump-national-guard-la-protests-immigration-ice-us-politics-live-news)
-- [NBA finals: Ruthless Thunder show Pacers no mercy as they level series 1-1](https://www.theguardian.com/sport/2025/jun/08/nba-finals-game-2-thunder-pacers)
-- [Rachel Reeves in standoff over policing and council budgets days before spending review](https://www.theguardian.com/politics/2025/jun/08/rachel-reeves-in-stand-off-over-policing-and-council-budgets-days-before-spending-review)
-- [Riding high in Germany on the world’s oldest suspended railway](https://www.theguardian.com/travel/2025/jun/09/riding-high-in-germany-on-the-worlds-oldest-suspended-railway)
-- [Tony awards 2025: full list of winners](https://www.theguardian.com/stage/2025/jun/08/tony-awards-2025-full-list-of-winners)
-- [Nottingham victim’s parent complains about ‘offensive’ IOPC meeting](https://www.theguardian.com/uk-news/2025/jun/08/nottingham-victims-parent-complain-about-offensive-iopc-meeting)
-- [Portugal sink Spain in penalty shootout to win Nations League crown](https://www.theguardian.com/football/2025/jun/08/portugal-sink-spain-in-penalty-shootout-to-win-nations-league-crown)
-- [‘The level was insane’: Alcaraz did not stop believing in epic French Open final triumph](https://www.theguardian.com/sport/2025/jun/08/carlos-alcaraz-the-match-is-not-finished-until-he-wins-the-last-point)
-- [Uriah Rennie, first black referee in Premier League, dies aged 65](https://www.theguardian.com/football/2025/jun/08/uriah-rennie-the-first-black-referee-in-the-premier-league-dies-aged-65)
+- [Australia mushroom trial live: Erin Patterson repeatedly accused of lying about beef wellington lunch in tense cross examination](https://www.theguardian.com/australia-news/live/2025/jun/10/australian-mushroom-trial-live-cross-examination-of-erin-patterson-to-continue-on-day-30-of-her-triple-trial-ntwnfb)
+- [Mayor Karen Bass says Los Angeles being used as a ‘test case’ by federal government – live](https://www.theguardian.com/us-news/live/2025/jun/09/los-angeles-protests-live-tensions-flare-trump-deploys-national-guard-troops)
+- [Israel preparing to deport Gaza aid boat activists, including Greta Thunberg](https://www.theguardian.com/world/2025/jun/10/gaza-aid-boat-activists-greta-thunberg-israel-deportation)
+- [New Zealand government sued over ‘dangerously inadequate’ emissions reduction plan](https://www.theguardian.com/world/2025/jun/10/new-zealand-government-sued-over-dangerously-inadequate-emissions-reduction-plan-ntwnfb)
+- [New Zealand is failing to protect its vast ocean resources. We owe it to the world to act | Helen Clark and Kayla Kingdon-Bebb](https://www.theguardian.com/world/2025/jun/10/new-zealand-is-failing-to-protect-its-vast-ocean-resources-we-owe-it-to-the-world-to-act)
+- [Sly Stone was a trailblazer who changed the course of music – and an icon of both hope and pain](https://www.theguardian.com/music/2025/jun/10/sly-stone-cause-of-death-funk-music)
+- [Public disorder breaks out in Northern Ireland town Ballymena after alleged sexual assault](https://www.theguardian.com/uk-news/2025/jun/10/public-disorder-breaks-out-in-northern-ireland-town-after-alleged-sexual-assault-ntwnfb)
+- [‘Kidnapped’: families and lawyers desperate to contact LA workers arrested in Ice raids](https://www.theguardian.com/us-news/2025/jun/09/los-angeles-immigration-raids-detained)
+- [Thames Water’s creditors are being too greedy | Nils Pratley](https://www.theguardian.com/business/nils-pratley-on-finance/2025/jun/10/thames-water-creditors-too-greedy)
+- [Sizewell C power station to be built as part of UK’s £14bn nuclear investment](https://www.theguardian.com/business/2025/jun/10/sizewell-c-nuclear-power-station-ed-miliband-investment)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

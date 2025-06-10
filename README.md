@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Quant Firm&#39;s $1B Code Is Focus of Rare Criminal Case](https://www.bloomberg.com/news/features/2025-06-08/wall-street-trade-secrets-1-billion-code-star-in-theft-case)
-- [Thousands fill the streets, block freeway after Trump deploys National Guard](https://www.pbs.org/newshour/nation/thousands-fill-the-streets-block-freeway-in-los-angeles-after-trump-deploys-national-guard)
-- [List of Common Misconceptions](https://en.wikipedia.org/wiki/List_of_common_misconceptions)
-- [Meta Set to Throw Billions at Startup That Leads AI Data Market](https://www.bloomberg.com/news/articles/2025-06-08/meta-s-billion-dollar-bet-cements-scale-ai-s-role-as-backbone-of-ai-market)
-- [Medieval Murder Maps](https://www.cam.ac.uk/stories/medieval-murder-maps-noblewoman-priest)
-- [Show HN: Bora – cooperative payments system enabling 100% gradual recoup](https://bora02.netlify.app)
-- [Show HN: Tokidoki, a Multifunctional Robotic Timepiece](https://msgtn.io/tokidoki)
-- [Waymo Self-Driving Cars Vandalized in LA](https://old.reddit.com/r/interestingasfuck/comments/1l6ryu8/waymo_selfdriving_cars_vandalized_in_la/)
-- [Timbaland Faces Brutal Backlash After Revealing AI Artist TaTa](https://allhiphop.com/news/timbaland-brutal-backlash-ai-artist-tata/)
-- [One Man Armies](https://quarter--mile.com/One-Man-Armies)
+- [RFK Jr. fires all 17 members of CDC vaccine advisory panel](https://www.usatoday.com/story/news/politics/2025/06/09/rfk-jr-cdc-vaccine-advisory-panel-fired/84121858007/)
+- [&quot;LLM-proofing&quot; our take home coding challenge](https://makefizz.buzz/posts/llm-proof)
+- [The Interim Computer Museum](https://icm.museum/)
+- [Show HN: AI-Powered Music Creation Starts Here – Vibe Musicing](https://vibemusicing.com/)
+- [PreTeXt: An authoring and publishing system for scholarly documents](https://github.com/PreTeXtBook/pretext)
+- [Show HN: I Created a Business Automation Mastery Custom GPT](https://chatgpt.com/g/g-683cc317abb08191bca3da9b36e9f008-master-business-automation-tools-mba-gpt)
+- [Terraform Proverbs](https://rosesecurity.dev/2024/11/24/terraform-proverbs.html)
+- [Big Bigolas Energy &lpar;2023&rpar;](https://maxgladstone.substack.com/p/big-bigolas-energy)
+- [Apple Developer Video: Meet Liquid Glass](https://www.youtube.com/watch?v=IrGYUq1mklk)
+- [Solid Design Principles Every JavaScript Deveveloper Should Know](https://jsdev.space/solid-design-principles/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

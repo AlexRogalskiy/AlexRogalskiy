@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [RFK Jr. fires all 17 members of CDC vaccine advisory panel](https://www.usatoday.com/story/news/politics/2025/06/09/rfk-jr-cdc-vaccine-advisory-panel-fired/84121858007/)
-- [&quot;LLM-proofing&quot; our take home coding challenge](https://makefizz.buzz/posts/llm-proof)
-- [The Interim Computer Museum](https://icm.museum/)
-- [Show HN: AI-Powered Music Creation Starts Here – Vibe Musicing](https://vibemusicing.com/)
-- [PreTeXt: An authoring and publishing system for scholarly documents](https://github.com/PreTeXtBook/pretext)
-- [Show HN: I Created a Business Automation Mastery Custom GPT](https://chatgpt.com/g/g-683cc317abb08191bca3da9b36e9f008-master-business-automation-tools-mba-gpt)
-- [Terraform Proverbs](https://rosesecurity.dev/2024/11/24/terraform-proverbs.html)
-- [Big Bigolas Energy &lpar;2023&rpar;](https://maxgladstone.substack.com/p/big-bigolas-energy)
-- [Apple Developer Video: Meet Liquid Glass](https://www.youtube.com/watch?v=IrGYUq1mklk)
-- [Solid Design Principles Every JavaScript Deveveloper Should Know](https://jsdev.space/solid-design-principles/)
+- [Mario Kart World review: Getting there is half the game](https://arstechnica.com/gaming/2025/06/mario-kart-world-review-getting-there-is-half-the-game/)
+- [Show HN: Just vibe coded a TypeScript/Go social app demo](https://github.com/SamInTheShell/social)
+- [io_uring Shows Promising Potential for Linux Accelerator Drivers](https://www.phoronix.com/news/IO_uring-DRM-Accelerator-2025)
+- [Green Flash](https://en.wikipedia.org/wiki/Green_flash)
+- [Supercharge your Python library using AST parsing [video]](https://www.youtube.com/watch?v=A0vR3l1X-CU)
+- [First Tesla Robotaxi Spotted Driving Around Austin](https://insideevs.com/news/762286/tesla-robotaxi-austin-south-congress/)
+- [QuadParts Drone Inventory App Updated – Selfhosted](https://github.com/hasmeni/QuadParts)
+- [Meet Liquid Glass [video]](https://developer.apple.com/videos/play/wwdc2025/219/)
+- [Trump says FEMA to be wound down after hurricane season](https://www.reuters.com/business/environment/trump-says-fema-be-wound-down-after-hurricane-season-2025-06-10/)
+- [In China, fears grow of an EV financial crisis amid pricing war](https://www.cnbc.com/2025/06/10/china-electric-vehicle-ev-pricing-war.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

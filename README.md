@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Australia mushroom trial live: Erin Patterson repeatedly accused of lying about beef wellington lunch in tense cross examination](https://www.theguardian.com/australia-news/live/2025/jun/10/australian-mushroom-trial-live-cross-examination-of-erin-patterson-to-continue-on-day-30-of-her-triple-trial-ntwnfb)
-- [Mayor Karen Bass says Los Angeles being used as a ‘test case’ by federal government – live](https://www.theguardian.com/us-news/live/2025/jun/09/los-angeles-protests-live-tensions-flare-trump-deploys-national-guard-troops)
-- [Israel preparing to deport Gaza aid boat activists, including Greta Thunberg](https://www.theguardian.com/world/2025/jun/10/gaza-aid-boat-activists-greta-thunberg-israel-deportation)
-- [New Zealand government sued over ‘dangerously inadequate’ emissions reduction plan](https://www.theguardian.com/world/2025/jun/10/new-zealand-government-sued-over-dangerously-inadequate-emissions-reduction-plan-ntwnfb)
-- [New Zealand is failing to protect its vast ocean resources. We owe it to the world to act | Helen Clark and Kayla Kingdon-Bebb](https://www.theguardian.com/world/2025/jun/10/new-zealand-is-failing-to-protect-its-vast-ocean-resources-we-owe-it-to-the-world-to-act)
-- [Sly Stone was a trailblazer who changed the course of music – and an icon of both hope and pain](https://www.theguardian.com/music/2025/jun/10/sly-stone-cause-of-death-funk-music)
-- [Public disorder breaks out in Northern Ireland town Ballymena after alleged sexual assault](https://www.theguardian.com/uk-news/2025/jun/10/public-disorder-breaks-out-in-northern-ireland-town-after-alleged-sexual-assault-ntwnfb)
-- [‘Kidnapped’: families and lawyers desperate to contact LA workers arrested in Ice raids](https://www.theguardian.com/us-news/2025/jun/09/los-angeles-immigration-raids-detained)
-- [Thames Water’s creditors are being too greedy | Nils Pratley](https://www.theguardian.com/business/nils-pratley-on-finance/2025/jun/10/thames-water-creditors-too-greedy)
-- [Sizewell C power station to be built as part of UK’s £14bn nuclear investment](https://www.theguardian.com/business/2025/jun/10/sizewell-c-nuclear-power-station-ed-miliband-investment)
+- [Los Angeles protests: Newsom says ‘democracy is under assault’ in attack on Trump; downtown LA curfew declared by mayor](https://www.theguardian.com/us-news/live/2025/jun/10/los-angeles-protests-la-donald-trump-ice-gavin-newsom-california-live-latest-news)
+- [Drought fears in Europe amid reports May was world’s second hottest ever](https://www.theguardian.com/environment/2025/jun/11/drought-fears-in-europe-amid-reports-may-was-worlds-second-hottest-ever)
+- [US-China trade talks: ‘framework’ deal amid dispute over rare earths](https://www.theguardian.com/world/2025/jun/11/us-china-trade-talks-framework-deal-amid-dispute-over-rare-earths)
+- [American carnage revisited as Trump plays president of permanent emergency](https://www.theguardian.com/us-news/2025/jun/10/trump-fort-bragg-los-angeles-sketch)
+- [Against the grain: as prices and temperatures rise, can Japan learn to love imported rice?](https://www.theguardian.com/world/2025/jun/11/against-the-grain-as-prices-and-temperatures-rise-can-japan-learn-to-love-imported-rice)
+- [Public health bodies urged to launch period tracking apps to protect data](https://www.theguardian.com/society/2025/jun/11/public-health-bodies-urged-launch-period-tracking-apps-protect-data)
+- [Bolsonaro denies coup plot but admits discussing ‘alternative ways’ to remain president](https://www.theguardian.com/world/2025/jun/10/brazil-jair-bolsonaro-coup-trial)
+- [Recent ex-girlfriend of Sean ‘Diddy’ Combs testifies she regrets sex acts](https://www.theguardian.com/music/2025/jun/10/diddy-trial-jane-testimony-regrets)
+- [Rachel Reeves to unveils £39bn housing boost in spending review shake-up](https://www.theguardian.com/politics/2025/jun/10/rachel-reeves-to-unveil-39bn-housing-boost-in-spending-review-shake-up)
+- [At least seven dead and 50 wounded as Colombia hit with bombings and gun attacks](https://www.theguardian.com/world/2025/jun/10/cali-colombia-attacks)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

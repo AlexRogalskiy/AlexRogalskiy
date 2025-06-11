@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Discrete Mathematics: An Open Introduction [pdf]](https://discrete.openmathbooks.org/pdfs/dmoi4.pdf)
-- [Implementing DOES&gt; in Forth, the entire reason I started this mess](https://boston.conman.org/2025/06/09.1)
-- [Las Vegas is embracing a simple climate solution: More trees](https://www.npr.org/2025/06/09/nx-s1-5340363/las-vegas-climate-change-solution-trees)
-- [Why agents are bad pair programmers](https://justin.searls.co/posts/why-agents-are-bad-pair-programmers/)
-- [Marines being mobilized in response to LA protests](https://www.cnn.com/2025/06/09/politics/marines-mobilized-los-angeles-protests)
-- [Sly Stone has died](https://abcnews.go.com/US/sly-stone-pioneering-leader-funk-band-sly-family/story?id=122666345)
-- [The Xerox Alto, Smalltalk, and Rewriting a Running GUI &lpar;2017&rpar;](https://www.righto.com/2017/10/the-xerox-alto-smalltalk-and-rewriting.html)
-- [RFK Jr.: HHS moves to restore public trust in vaccines](https://www.wsj.com/opinion/rfk-jr-hhs-moves-to-restore-public-trust-in-vaccines-45495112)
-- [Containerization is a Swift package for running Linux containers on macOS](https://github.com/apple/containerization)
-- [Container: Apple&#39;s Linux-Container Runtime](https://github.com/apple/container)
+- [It&#39;s the end of observability as we know it &lpar;and I feel fine&rpar;](https://www.honeycomb.io/blog/its-the-end-of-observability-as-we-know-it-and-i-feel-fine)
+- [Fine-Tuning LLMs Is a Waste of Time](https://codinginterviewsmadesimple.substack.com/p/fine-tuning-llms-is-a-huge-waste)
+- [Modern Minimal Perfect Hashing: A Survey](https://arxiv.org/abs/2506.06536)
+- [The Gentle Singularity](https://blog.samaltman.com/the-gentle-singularity)
+- [Chatbots are replacing Google&#39;s search, devastating traffic for some publishers](https://www.wsj.com/tech/ai/google-ai-news-publishers-7e687141)
+- [Show HN: I made a 3D printed VTOL drone](https://www.tsungxu.com/p/i-made-a-3d-printed-vtol-that-can)
+- [Show HN: A “Course” as an MCP Server](https://mastra.ai/course)
+- [Another Crack in the Chain of Trust: Uncovering &lpar;Yet Another&rpar; Secure Boot Bypass](https://www.binarly.io/blog/another-crack-in-the-chain-of-trust)
+- [A Family of Non-Periodic Tilings, Describable Using Elementary Tools](https://arxiv.org/abs/2506.07638)
+- [Launch HN: Vassar Robotics &lpar;YC X25&rpar; – $219 robot arm that learns new skills](https://news.ycombinator.com/item?id=44240302)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

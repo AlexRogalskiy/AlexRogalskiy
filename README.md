@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Los Angeles protests: Newsom says ‘democracy is under assault’ in attack on Trump; downtown LA curfew declared by mayor](https://www.theguardian.com/us-news/live/2025/jun/10/los-angeles-protests-la-donald-trump-ice-gavin-newsom-california-live-latest-news)
-- [Drought fears in Europe amid reports May was world’s second hottest ever](https://www.theguardian.com/environment/2025/jun/11/drought-fears-in-europe-amid-reports-may-was-worlds-second-hottest-ever)
-- [US-China trade talks: ‘framework’ deal amid dispute over rare earths](https://www.theguardian.com/world/2025/jun/11/us-china-trade-talks-framework-deal-amid-dispute-over-rare-earths)
-- [American carnage revisited as Trump plays president of permanent emergency](https://www.theguardian.com/us-news/2025/jun/10/trump-fort-bragg-los-angeles-sketch)
-- [Against the grain: as prices and temperatures rise, can Japan learn to love imported rice?](https://www.theguardian.com/world/2025/jun/11/against-the-grain-as-prices-and-temperatures-rise-can-japan-learn-to-love-imported-rice)
-- [Public health bodies urged to launch period tracking apps to protect data](https://www.theguardian.com/society/2025/jun/11/public-health-bodies-urged-launch-period-tracking-apps-protect-data)
-- [Bolsonaro denies coup plot but admits discussing ‘alternative ways’ to remain president](https://www.theguardian.com/world/2025/jun/10/brazil-jair-bolsonaro-coup-trial)
-- [Recent ex-girlfriend of Sean ‘Diddy’ Combs testifies she regrets sex acts](https://www.theguardian.com/music/2025/jun/10/diddy-trial-jane-testimony-regrets)
-- [Rachel Reeves to unveils £39bn housing boost in spending review shake-up](https://www.theguardian.com/politics/2025/jun/10/rachel-reeves-to-unveil-39bn-housing-boost-in-spending-review-shake-up)
-- [At least seven dead and 50 wounded as Colombia hit with bombings and gun attacks](https://www.theguardian.com/world/2025/jun/10/cali-colombia-attacks)
+- [Social media ‘grossly distorting’ scale of protest violence, say LA officials – live](https://www.theguardian.com/us-news/live/2025/jun/11/la-protests-los-angeles-curfew-ice-california-governor-donald-trump-us-politics-latest-updates-news)
+- [Ukraine war briefing: severely wounded soldiers next in prisoner exchanges](https://www.theguardian.com/world/2025/jun/12/ukraine-war-briefing-severely-wounded-soldiers-next-in-prisoner-exchanges)
+- [Eradicating India’s jungle insurgency – can it be done and at what human cost?](https://www.theguardian.com/world/2025/jun/12/eradicating-indias-jungle-insurgency-can-it-be-done-and-at-what-human-cost)
+- [Fire breaks out at Larne leisure centre as Antrim unrest enters third night](https://www.theguardian.com/uk-news/2025/jun/11/second-night-rioting-ballymena-police-officers-injured-northern-ireland)
+- [Judge rules Trump administration can no longer detain Mahmoud Khalil on claims he’s a threat to foreign policy](https://www.theguardian.com/us-news/2025/jun/11/judge-trump-administration-mahmoud-khalil)
+- [English football faces strain between money and fans’ needs, says report](https://www.theguardian.com/football/2025/jun/12/english-football-faces-strain-between-money-and-fans-needs-says-report)
+- [Stormzy takes first acting role as he launches film production company](https://www.theguardian.com/music/2025/jun/12/stormzy-takes-first-acting-role-as-he-launches-film-production-company)
+- [Israeli forces kill at least 60 Palestinians seeking food in Gaza, health officials say](https://www.theguardian.com/world/2025/jun/11/israeli-forces-kill-at-least-60-palestinians-seeking-food-aid-in-gaza-health-officials-say)
+- [RFK Jr announces new panel of vaccine advisers after firing entire previous team](https://www.theguardian.com/us-news/2025/jun/11/rfk-jr-new-vaccine-advisers-panel)
+- [Flight 149: Hostage of War review – a tale so staggering you couldn’t write it](https://www.theguardian.com/tv-and-radio/2025/jun/11/flight-149-hostage-of-war-review-a-tale-so-staggering-you-couldnt-write-it)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

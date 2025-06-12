@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Mario Kart World review: Getting there is half the game](https://arstechnica.com/gaming/2025/06/mario-kart-world-review-getting-there-is-half-the-game/)
-- [Show HN: Just vibe coded a TypeScript/Go social app demo](https://github.com/SamInTheShell/social)
-- [io_uring Shows Promising Potential for Linux Accelerator Drivers](https://www.phoronix.com/news/IO_uring-DRM-Accelerator-2025)
-- [Green Flash](https://en.wikipedia.org/wiki/Green_flash)
-- [Supercharge your Python library using AST parsing [video]](https://www.youtube.com/watch?v=A0vR3l1X-CU)
-- [First Tesla Robotaxi Spotted Driving Around Austin](https://insideevs.com/news/762286/tesla-robotaxi-austin-south-congress/)
-- [QuadParts Drone Inventory App Updated – Selfhosted](https://github.com/hasmeni/QuadParts)
-- [Meet Liquid Glass [video]](https://developer.apple.com/videos/play/wwdc2025/219/)
-- [Trump says FEMA to be wound down after hurricane season](https://www.reuters.com/business/environment/trump-says-fema-be-wound-down-after-hurricane-season-2025-06-10/)
-- [In China, fears grow of an EV financial crisis amid pricing war](https://www.cnbc.com/2025/06/10/china-electric-vehicle-ev-pricing-war.html)
+- [But who will clean the data?](https://substack.com/home/post/p-165676887)
+- [Show HN: Major currency pairs exchange rates to watch daily](https://www.what-is-forex-trading.space/currency-exchange-rates)
+- [A website help CFD traders to make good trading strategies](https://www.cfd-trading-tool.space/)
+- [PostgreSQL Upgrade Using GCP DMS](https://ananthakumaran.in/2025/06/11/postgresql-upgrade.html)
+- [The psychedelic origins, and future, of Western thought](https://iai.tv/articles/the-psychedelic-origins-and-future-of-western-thought-auid-3186)
+- [Electric motor runs without metal coils](https://newatlas.com/technology/kist-cnt-cscec-carbon-nanotube-wire/)
+- [Money not infertility, UN report says: Why birth rates are plummeting](https://www.aljazeera.com/news/2025/6/10/money-not-infertility-un-report-says-why-birth-rates-are-plummeting)
+- [The Unreality of Pro Wrestling](https://elir.net/ideas/2025-06-11)
+- [How Apple made the F1 movie trailer shake things up](https://www.mux.com/blog/how-apple-made-the-f1-movie-trailer-literally-shake-things-up)
+- [Show HN:I made a word translation plugin for language learning.](https://news.ycombinator.com/item?id=44253868)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

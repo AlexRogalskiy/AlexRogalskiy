@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [It&#39;s the end of observability as we know it &lpar;and I feel fine&rpar;](https://www.honeycomb.io/blog/its-the-end-of-observability-as-we-know-it-and-i-feel-fine)
-- [Fine-Tuning LLMs Is a Waste of Time](https://codinginterviewsmadesimple.substack.com/p/fine-tuning-llms-is-a-huge-waste)
-- [Modern Minimal Perfect Hashing: A Survey](https://arxiv.org/abs/2506.06536)
-- [The Gentle Singularity](https://blog.samaltman.com/the-gentle-singularity)
-- [Chatbots are replacing Google&#39;s search, devastating traffic for some publishers](https://www.wsj.com/tech/ai/google-ai-news-publishers-7e687141)
-- [Show HN: I made a 3D printed VTOL drone](https://www.tsungxu.com/p/i-made-a-3d-printed-vtol-that-can)
-- [Show HN: A “Course” as an MCP Server](https://mastra.ai/course)
-- [Another Crack in the Chain of Trust: Uncovering &lpar;Yet Another&rpar; Secure Boot Bypass](https://www.binarly.io/blog/another-crack-in-the-chain-of-trust)
-- [A Family of Non-Periodic Tilings, Describable Using Elementary Tools](https://arxiv.org/abs/2506.07638)
-- [Launch HN: Vassar Robotics &lpar;YC X25&rpar; – $219 robot arm that learns new skills](https://news.ycombinator.com/item?id=44240302)
+- [Polystyrene nanoplastics disrupt the intestinal microenvironment](https://www.nature.com/articles/s41467-025-59884-y)
+- [Amiga 4000T: The Best Amiga in the World](https://forgottencomputer.com/retro/a4000t/)
+- [Show HN: Eyesite - experimental website combining computer vision and web design](https://blog.andykhau.com/blog/eyesite)
+- [How Microsoft Office Moved from Source Depot to Git](https://danielsada.tech/blog/carreer-part-7-how-office-moved-to-git-and-i-loved-devex/)
+- [Show HN: The Roman Industrial Revolution that could have been](https://thelydianstone.com/)
+- [Unveiling the EndBOX – A microcomputer prototype for EndBASIC](https://www.endbasic.dev/2025/06/unveiling-the-endbox.html)
+- [The Seymour Cray Era of Supercomputers](https://ztoz.blog/posts/cray-era-supercomputers/)
+- [Congratulations on creating the one billionth repository on GitHub](https://github.com/AasishPokhrel/shit/issues/1)
+- [Shaped &lpar;YC W22&rpar; Is Hiring](https://www.ycombinator.com/companies/shaped/jobs/qtQwxJO-head-of-engineering)
+- [Chatterbox TTS](https://github.com/resemble-ai/chatterbox)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

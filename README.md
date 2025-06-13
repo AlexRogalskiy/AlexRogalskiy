@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Social media ‘grossly distorting’ scale of protest violence, say LA officials – live](https://www.theguardian.com/us-news/live/2025/jun/11/la-protests-los-angeles-curfew-ice-california-governor-donald-trump-us-politics-latest-updates-news)
-- [Ukraine war briefing: severely wounded soldiers next in prisoner exchanges](https://www.theguardian.com/world/2025/jun/12/ukraine-war-briefing-severely-wounded-soldiers-next-in-prisoner-exchanges)
-- [Eradicating India’s jungle insurgency – can it be done and at what human cost?](https://www.theguardian.com/world/2025/jun/12/eradicating-indias-jungle-insurgency-can-it-be-done-and-at-what-human-cost)
-- [Fire breaks out at Larne leisure centre as Antrim unrest enters third night](https://www.theguardian.com/uk-news/2025/jun/11/second-night-rioting-ballymena-police-officers-injured-northern-ireland)
-- [Judge rules Trump administration can no longer detain Mahmoud Khalil on claims he’s a threat to foreign policy](https://www.theguardian.com/us-news/2025/jun/11/judge-trump-administration-mahmoud-khalil)
-- [English football faces strain between money and fans’ needs, says report](https://www.theguardian.com/football/2025/jun/12/english-football-faces-strain-between-money-and-fans-needs-says-report)
-- [Stormzy takes first acting role as he launches film production company](https://www.theguardian.com/music/2025/jun/12/stormzy-takes-first-acting-role-as-he-launches-film-production-company)
-- [Israeli forces kill at least 60 Palestinians seeking food in Gaza, health officials say](https://www.theguardian.com/world/2025/jun/11/israeli-forces-kill-at-least-60-palestinians-seeking-food-aid-in-gaza-health-officials-say)
-- [RFK Jr announces new panel of vaccine advisers after firing entire previous team](https://www.theguardian.com/us-news/2025/jun/11/rfk-jr-new-vaccine-advisers-panel)
-- [Flight 149: Hostage of War review – a tale so staggering you couldn’t write it](https://www.theguardian.com/tv-and-radio/2025/jun/11/flight-149-hostage-of-war-review-a-tale-so-staggering-you-couldnt-write-it)
+- [Israeli military strikes hit Iran nuclear targets; Iran state media says Revolutionary Guards commander killed – live](https://www.theguardian.com/world/live/2025/jun/13/israel-iran-strikes-defence-minister-tehran-middle-east-live)
+- [A Useful Ghost: Recognised in Cannes, Thai director hopes film stirs political debate at home](https://www.theguardian.com/world/2025/jun/13/a-useful-ghost-recognised-in-cannes-thai-director-hopes-film-stirs-political-debate-at-home)
+- [Federal judge rules Trump illegally deployed national guard troops to Los Angeles](https://www.theguardian.com/us-news/2025/jun/12/newsom-restraining-order-trump-troops-los-angeles)
+- [French court releases New Caledonia independence leader detained over deadly riots](https://www.theguardian.com/world/2025/jun/13/french-court-releases-new-caledonia-independence-leader-detained-over-deadly-riots-ntwnfb)
+- [I’m estranged from my parents. How do I explain this to my child? | Leading questions](https://www.theguardian.com/lifeandstyle/2025/jun/13/im-estranged-from-my-parents-how-do-i-explain-this-to-my-child)
+- [Rory McIlroy stumbles in US Open first round as JJ Spaun strides into lead](https://www.theguardian.com/sport/2025/jun/13/us-open-oakmont-rory-mcilroy-jj-spaun-golf-first-round)
+- [Sickle cell patients to have quicker and more accessible treatment in England](https://www.theguardian.com/society/2025/jun/13/sickle-cell-patients-quicker-more-accessible-treatment-england)
+- [Michelle O’Neill accuses DUP minister of inflaming racial tensions on social media](https://www.theguardian.com/uk-news/2025/jun/12/northern-ireland-leisure-centre-attack-gordon-lyons-dup)
+- [Michael Johnson cancels Los Angeles Grand Slam Track meeting](https://www.theguardian.com/sport/2025/jun/12/michael-johnson-cancels-los-angeles-grand-slam-track-meeting)
+- [Gibraltar agrees 15% sales tax on goods in post-Brexit settlement with Spain](https://www.theguardian.com/world/2025/jun/12/gibraltar-agrees-15-sales-tax-on-goods-in-post-brexit-settlement-with-spain)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

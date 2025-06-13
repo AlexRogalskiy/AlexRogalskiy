@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Polystyrene nanoplastics disrupt the intestinal microenvironment](https://www.nature.com/articles/s41467-025-59884-y)
-- [Amiga 4000T: The Best Amiga in the World](https://forgottencomputer.com/retro/a4000t/)
-- [Show HN: Eyesite - experimental website combining computer vision and web design](https://blog.andykhau.com/blog/eyesite)
-- [How Microsoft Office Moved from Source Depot to Git](https://danielsada.tech/blog/carreer-part-7-how-office-moved-to-git-and-i-loved-devex/)
-- [Show HN: The Roman Industrial Revolution that could have been](https://thelydianstone.com/)
-- [Unveiling the EndBOX – A microcomputer prototype for EndBASIC](https://www.endbasic.dev/2025/06/unveiling-the-endbox.html)
-- [The Seymour Cray Era of Supercomputers](https://ztoz.blog/posts/cray-era-supercomputers/)
-- [Congratulations on creating the one billionth repository on GitHub](https://github.com/AasishPokhrel/shit/issues/1)
-- [Shaped &lpar;YC W22&rpar; Is Hiring](https://www.ycombinator.com/companies/shaped/jobs/qtQwxJO-head-of-engineering)
-- [Chatterbox TTS](https://github.com/resemble-ai/chatterbox)
+- [Rendering Crispy Text on the GPU](https://osor.io/text)
+- [Urban Design and Adaptive Reuse in North Korea, Japan, and Singapore](https://www.governance.fyi/p/adaptive-reuse-across-asia-singapores)
+- [Jemalloc Postmortem](https://jasone.github.io/2025/06/12/jemalloc-postmortem/)
+- [The Case for Software Craftsmanship in the Era of Vibes](https://zed.dev/blog/software-craftsmanship-in-the-era-of-vibes)
+- [A Dark Adtech Empire Fed by Fake CAPTCHAs](https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/)
+- [The curse of Toumaï: an ancient skull and a bitter feud over humanity&#39;s origins](https://www.theguardian.com/science/2025/may/27/the-curse-of-toumai-ancient-skull-disputed-femur-feud-humanity-origins)
+- [Roundtable &lpar;YC S23&rpar; Is Hiring a President / CRO](https://www.ycombinator.com/companies/roundtable/jobs/wmPTI9F-president-cro-founding)
+- [Humans have nasal respiratory fingerprints](https://www.cell.com/current-biology/fulltext/S0960-9822(25)00583-4)
+- [Worldwide power grid with glass insulated HVDC cables](https://omattos.com/2025/06/12/glass-hvdc-cables.html)
+- [Being full of value‑added shit](https://feld.com/archives/2025/06/being-full-of-value%e2%80%91added-shit/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

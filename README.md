@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [But who will clean the data?](https://substack.com/home/post/p-165676887)
-- [Show HN: Major currency pairs exchange rates to watch daily](https://www.what-is-forex-trading.space/currency-exchange-rates)
-- [A website help CFD traders to make good trading strategies](https://www.cfd-trading-tool.space/)
-- [PostgreSQL Upgrade Using GCP DMS](https://ananthakumaran.in/2025/06/11/postgresql-upgrade.html)
-- [The psychedelic origins, and future, of Western thought](https://iai.tv/articles/the-psychedelic-origins-and-future-of-western-thought-auid-3186)
-- [Electric motor runs without metal coils](https://newatlas.com/technology/kist-cnt-cscec-carbon-nanotube-wire/)
-- [Money not infertility, UN report says: Why birth rates are plummeting](https://www.aljazeera.com/news/2025/6/10/money-not-infertility-un-report-says-why-birth-rates-are-plummeting)
-- [The Unreality of Pro Wrestling](https://elir.net/ideas/2025-06-11)
-- [How Apple made the F1 movie trailer shake things up](https://www.mux.com/blog/how-apple-made-the-f1-movie-trailer-literally-shake-things-up)
-- [Show HN:I made a word translation plugin for language learning.](https://news.ycombinator.com/item?id=44253868)
+- [AOSP isn&#39;t dead, but Google just landed a blow to custom ROM developers](https://www.androidauthority.com/google-not-killing-aosp-3566882/)
+- [Meta is paying $14B to catch up in the AI race](https://www.theverge.com/meta/685711/meta-scale-ai-ceo-alexandr-wang)
+- [XTools –– A Free、Open-Source、and Data-Secure Toolbox](https://www.xxoo.tools/)
+- [How to make task list less depressing?](https://workplace.stackexchange.com/questions/202055/how-to-make-task-list-less-depressing)
+- [America&#39;s Housing Supply Problem: The Closing of the Suburban Frontier?](https://www.nber.org/papers/w33876)
+- [Israeli military strikes hit Iran nuclear targets](https://www.theguardian.com/world/live/2025/jun/13/israel-iran-strikes-defence-minister-tehran-middle-east-live)
+- [&lpar;In&rpar;Security of Mandatory Security Software for Financial Services in S. Korea [pdf]](https://syssec.kaist.ac.kr/pub/2025/Too_Much_Good.pdf)
+- [Gesture customization improvements coming to Plasma](https://blogs.kde.org/2025/06/12/gesture-customization-mini-sprint/)
+- [Counting vs. Sampling [pdf]](https://www.math.cmu.edu/~af1p/Mixingbook.pdf)
+- [Introduction to Random Graphs [pdf]](https://www.math.cmu.edu/~af1p/BOOK.pdf)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

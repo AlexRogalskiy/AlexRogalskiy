@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Rendering Crispy Text on the GPU](https://osor.io/text)
-- [Urban Design and Adaptive Reuse in North Korea, Japan, and Singapore](https://www.governance.fyi/p/adaptive-reuse-across-asia-singapores)
-- [Jemalloc Postmortem](https://jasone.github.io/2025/06/12/jemalloc-postmortem/)
-- [The Case for Software Craftsmanship in the Era of Vibes](https://zed.dev/blog/software-craftsmanship-in-the-era-of-vibes)
-- [A Dark Adtech Empire Fed by Fake CAPTCHAs](https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/)
-- [The curse of Toumaï: an ancient skull and a bitter feud over humanity&#39;s origins](https://www.theguardian.com/science/2025/may/27/the-curse-of-toumai-ancient-skull-disputed-femur-feud-humanity-origins)
-- [Roundtable &lpar;YC S23&rpar; Is Hiring a President / CRO](https://www.ycombinator.com/companies/roundtable/jobs/wmPTI9F-president-cro-founding)
-- [Humans have nasal respiratory fingerprints](https://www.cell.com/current-biology/fulltext/S0960-9822(25)00583-4)
-- [Worldwide power grid with glass insulated HVDC cables](https://omattos.com/2025/06/12/glass-hvdc-cables.html)
-- [Being full of value‑added shit](https://feld.com/archives/2025/06/being-full-of-value%e2%80%91added-shit/)
+- [UK unis to cough up to £10M on Java to keep Oracle off their backs](https://www.theregister.com/2025/06/13/jisc_java_oracle/)
+- [DHS is using CBP Home Mobile App to incentivize the voluntary self-deportation](https://www.dhs.gov/cbphome)
+- [Filedb: Disk Based Key-Value Store Inspired by Bitcask](https://github.com/rajivharlalka/filedb)
+- [The Tech Job Meltdown](https://www.professoraxelrod.com/p/the-tech-job-meltdown)
+- [Rethinking Losses for Diffusion Bridge Samplers](https://arxiv.org/abs/2506.10982)
+- [Endometriosis is an incredibly interesting disease](https://www.owlposting.com/p/endometriosis-is-an-incredibly-interesting)
+- [A Study of the Winston Red: The Smithsonian&#39;s New Fancy Red Diamond](https://www.gia.edu/gems-gemology/spring-2025-winston-red-diamond)
+- [How the Alzheimer&#39;s Research Scandal Set Back Treatment 16 Years &lpar;2022&rpar;](https://www.discovermagazine.com/the-sciences/false-alzheimers-study-could-set-research-back-16-years)
+- [Implementing Logic Programming](https://btmc.substack.com/p/implementing-logic-programming)
+- [MUMPS](https://en.wikipedia.org/wiki/MUMPS)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

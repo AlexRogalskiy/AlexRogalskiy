@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [AOSP isn&#39;t dead, but Google just landed a blow to custom ROM developers](https://www.androidauthority.com/google-not-killing-aosp-3566882/)
-- [Meta is paying $14B to catch up in the AI race](https://www.theverge.com/meta/685711/meta-scale-ai-ceo-alexandr-wang)
-- [XTools –– A Free、Open-Source、and Data-Secure Toolbox](https://www.xxoo.tools/)
-- [How to make task list less depressing?](https://workplace.stackexchange.com/questions/202055/how-to-make-task-list-less-depressing)
-- [America&#39;s Housing Supply Problem: The Closing of the Suburban Frontier?](https://www.nber.org/papers/w33876)
-- [Israeli military strikes hit Iran nuclear targets](https://www.theguardian.com/world/live/2025/jun/13/israel-iran-strikes-defence-minister-tehran-middle-east-live)
-- [&lpar;In&rpar;Security of Mandatory Security Software for Financial Services in S. Korea [pdf]](https://syssec.kaist.ac.kr/pub/2025/Too_Much_Good.pdf)
-- [Gesture customization improvements coming to Plasma](https://blogs.kde.org/2025/06/12/gesture-customization-mini-sprint/)
-- [Counting vs. Sampling [pdf]](https://www.math.cmu.edu/~af1p/Mixingbook.pdf)
-- [Introduction to Random Graphs [pdf]](https://www.math.cmu.edu/~af1p/BOOK.pdf)
+- [UK unis to cough up to £10M on Java to keep Oracle off their backs](https://www.theregister.com/2025/06/13/jisc_java_oracle/)
+- [The secret fast track for animal drugs](https://worksinprogress.co/issue/the-secret-fast-track-for-animal-drugs/)
+- [Comment on the Illusion of Thinking](https://arxiv.org/abs/2506.09250)
+- [Premium accounts to fund the matrix.org homeserver](https://matrix.org/blog/2025/06/funding-homeserver-premium/)
+- [Anne Wojcicki to buy back 23andMe and its data for $305M](https://www.cnbc.com/2025/06/13/anne-wojcicki-to-buy-back-23andme-and-its-data-for-305-million.html)
+- [DHS is using CBP Home Mobile App to incentivize the voluntary self-deportation](https://www.dhs.gov/cbphome)
+- [Filedb: Disk Based Key-Value Store Inspired by Bitcask](https://github.com/rajivharlalka/filedb)
+- [Venusian pancake dome likely formed due to elastic lithosphere and dense lava](https://phys.org/news/2025-05-virtual-venusian-pancake-dome-due.html)
+- [Culinary Ocean that Separates the US and Europe: innards &lpar;1993&rpar;](https://www.nytimes.com/1993/05/19/style/culinary-ocean-that-separates-the-us-and-europe-innards.html)
+- [Why do French men pee on the street [video]](https://www.bbc.com/reel/video/p0fg8f6z/why-do-french-men-pee-on-the-street-)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

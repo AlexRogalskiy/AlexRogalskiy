@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Israeli military strikes hit Iran nuclear targets; Iran state media says Revolutionary Guards commander killed – live](https://www.theguardian.com/world/live/2025/jun/13/israel-iran-strikes-defence-minister-tehran-middle-east-live)
-- [A Useful Ghost: Recognised in Cannes, Thai director hopes film stirs political debate at home](https://www.theguardian.com/world/2025/jun/13/a-useful-ghost-recognised-in-cannes-thai-director-hopes-film-stirs-political-debate-at-home)
-- [Federal judge rules Trump illegally deployed national guard troops to Los Angeles](https://www.theguardian.com/us-news/2025/jun/12/newsom-restraining-order-trump-troops-los-angeles)
-- [French court releases New Caledonia independence leader detained over deadly riots](https://www.theguardian.com/world/2025/jun/13/french-court-releases-new-caledonia-independence-leader-detained-over-deadly-riots-ntwnfb)
-- [I’m estranged from my parents. How do I explain this to my child? | Leading questions](https://www.theguardian.com/lifeandstyle/2025/jun/13/im-estranged-from-my-parents-how-do-i-explain-this-to-my-child)
-- [Rory McIlroy stumbles in US Open first round as JJ Spaun strides into lead](https://www.theguardian.com/sport/2025/jun/13/us-open-oakmont-rory-mcilroy-jj-spaun-golf-first-round)
-- [Sickle cell patients to have quicker and more accessible treatment in England](https://www.theguardian.com/society/2025/jun/13/sickle-cell-patients-quicker-more-accessible-treatment-england)
-- [Michelle O’Neill accuses DUP minister of inflaming racial tensions on social media](https://www.theguardian.com/uk-news/2025/jun/12/northern-ireland-leisure-centre-attack-gordon-lyons-dup)
-- [Michael Johnson cancels Los Angeles Grand Slam Track meeting](https://www.theguardian.com/sport/2025/jun/12/michael-johnson-cancels-los-angeles-grand-slam-track-meeting)
-- [Gibraltar agrees 15% sales tax on goods in post-Brexit settlement with Spain](https://www.theguardian.com/world/2025/jun/12/gibraltar-agrees-15-sales-tax-on-goods-in-post-brexit-settlement-with-spain)
+- [Fresh wave of Iranian missiles target Tel Aviv and Jerusalem as Tehran says 78 killed, 320 wounded in Israeli strikes – live](https://www.theguardian.com/world/live/2025/jun/13/israel-iran-strikes-defence-minister-tehran-middle-east-live)
+- [Killing Heidi are back, 25 years on: ‘Growing up in rock’n’roll gives you a shitload of grit’](https://www.theguardian.com/music/2025/jun/14/killing-heidi-are-back-ella-jesse-hooper-25-years-of-reflector-tour)
+- [Dangerous Animals review – serial killer meets shark movie in this formulaic fizzer](https://www.theguardian.com/film/2025/jun/14/dangerous-animals-review-serial-killer-meets-shark-movie-in-this-formulaic-fizzer)
+- [US Open: Rory McIlroy makes cut as defending champion DeChambeau bows out at Oakmont](https://www.theguardian.com/sport/2025/jun/14/us-open-rory-mcilroy-makes-cut-as-defending-champion-dechambeau-bows-out-at-oakmont)
+- [US marines detain civilian in first known instance since Trump deployed troops to LA](https://www.theguardian.com/us-news/2025/jun/13/marines-los-angeles-protests-trump)
+- [Why Verstappen the Villain and Verstappen the Vulnerable are great for F1](https://www.theguardian.com/sport/2025/jun/13/why-verstappen-the-villain-and-verstappen-the-vulnerable-are-great-for-f1)
+- [Senior health figure accuses NHS of racism over care given to dying mother](https://www.theguardian.com/society/2025/jun/14/senior-health-figure-accuses-nhs-of-racism-over-care-given-to-dying-mother)
+- [Gary Oldman and Roger Daltrey knighted in king’s birthday honours](https://www.theguardian.com/uk-news/2025/jun/13/gary-oldman-roger-daltrey-knighted-king-birthday-honours)
+- [Darts delight in king’s birthday honours as Littler and Humphries pick up MBEs](https://www.theguardian.com/sport/2025/jun/13/darts-kings-birthday-honours-luke-littler-luke-humphries-mbe)
+- [San Antonio: at least 11 people killed by floods as crews search for missing](https://www.theguardian.com/us-news/2025/jun/13/san-antonio-floods)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

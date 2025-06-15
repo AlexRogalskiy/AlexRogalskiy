@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [UK unis to cough up to £10M on Java to keep Oracle off their backs](https://www.theregister.com/2025/06/13/jisc_java_oracle/)
-- [The secret fast track for animal drugs](https://worksinprogress.co/issue/the-secret-fast-track-for-animal-drugs/)
-- [Comment on the Illusion of Thinking](https://arxiv.org/abs/2506.09250)
-- [Premium accounts to fund the matrix.org homeserver](https://matrix.org/blog/2025/06/funding-homeserver-premium/)
-- [Anne Wojcicki to buy back 23andMe and its data for $305M](https://www.cnbc.com/2025/06/13/anne-wojcicki-to-buy-back-23andme-and-its-data-for-305-million.html)
-- [DHS is using CBP Home Mobile App to incentivize the voluntary self-deportation](https://www.dhs.gov/cbphome)
-- [Filedb: Disk Based Key-Value Store Inspired by Bitcask](https://github.com/rajivharlalka/filedb)
-- [Venusian pancake dome likely formed due to elastic lithosphere and dense lava](https://phys.org/news/2025-05-virtual-venusian-pancake-dome-due.html)
-- [Culinary Ocean that Separates the US and Europe: innards &lpar;1993&rpar;](https://www.nytimes.com/1993/05/19/style/culinary-ocean-that-separates-the-us-and-europe-innards.html)
-- [Why do French men pee on the street [video]](https://www.bbc.com/reel/video/p0fg8f6z/why-do-french-men-pee-on-the-street-)
+- [Dice Identification 101: Mold Characteristics &lpar;2019&rpar;](https://dicemaniacsclub.wordpress.com/2019/08/29/dice-identification-101-mold-characteristics/)
+- [The Cadence &lpar;2020&rpar;](https://medium.com/craft-ventures/the-cadence-how-to-operate-a-saas-startup-436aa8099e8)
+- [New York passes a bill to prevent AI-fueled disasters](https://techcrunch.com/2025/06/13/new-york-passes-a-bill-to-prevent-ai-fueled-disasters/)
+- [Show HN: I created a multiple JSON queries tool](https://app.postpilot.dev/)
+- [Streamlit state management for React developers](https://outlore.dev/blog/streamlit-state-management/)
+- [How I monitor and control all my powered devices &lpar;Zigbee and HA&rpar;](https://www.jeffgeerling.com/blog/2025/how-i-monitor-and-control-all-my-powered-devices-zigbee-ha)
+- [Bear Essentials Vlog](https://old.reddit.com/r/midjourney/comments/1l7z2b6/things_are_getting_crazy_bear_essentials_vlog/)
+- [Reclaiming the future: Māori voices leading in the age of AI and quantum tech](https://thespinoff.co.nz/atea/09-06-2025/reclaiming-the-future-maori-voices-leading-in-the-age-of-ai-and-quantum-tech)
+- [I have discovered a new number &lpar;with Mathematical Proof&rpar;](https://news.ycombinator.com/item?id=44280173)
+- [Show HN: I made an online Unicode Cuneiform digital clock](https://oisinmoran.com/sumertime)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

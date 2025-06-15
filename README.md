@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Fresh wave of Iranian missiles target Tel Aviv and Jerusalem as Tehran says 78 killed, 320 wounded in Israeli strikes – live](https://www.theguardian.com/world/live/2025/jun/13/israel-iran-strikes-defence-minister-tehran-middle-east-live)
-- [Killing Heidi are back, 25 years on: ‘Growing up in rock’n’roll gives you a shitload of grit’](https://www.theguardian.com/music/2025/jun/14/killing-heidi-are-back-ella-jesse-hooper-25-years-of-reflector-tour)
-- [Dangerous Animals review – serial killer meets shark movie in this formulaic fizzer](https://www.theguardian.com/film/2025/jun/14/dangerous-animals-review-serial-killer-meets-shark-movie-in-this-formulaic-fizzer)
-- [US Open: Rory McIlroy makes cut as defending champion DeChambeau bows out at Oakmont](https://www.theguardian.com/sport/2025/jun/14/us-open-rory-mcilroy-makes-cut-as-defending-champion-dechambeau-bows-out-at-oakmont)
-- [US marines detain civilian in first known instance since Trump deployed troops to LA](https://www.theguardian.com/us-news/2025/jun/13/marines-los-angeles-protests-trump)
-- [Why Verstappen the Villain and Verstappen the Vulnerable are great for F1](https://www.theguardian.com/sport/2025/jun/13/why-verstappen-the-villain-and-verstappen-the-vulnerable-are-great-for-f1)
-- [Senior health figure accuses NHS of racism over care given to dying mother](https://www.theguardian.com/society/2025/jun/14/senior-health-figure-accuses-nhs-of-racism-over-care-given-to-dying-mother)
-- [Gary Oldman and Roger Daltrey knighted in king’s birthday honours](https://www.theguardian.com/uk-news/2025/jun/13/gary-oldman-roger-daltrey-knighted-king-birthday-honours)
-- [Darts delight in king’s birthday honours as Littler and Humphries pick up MBEs](https://www.theguardian.com/sport/2025/jun/13/darts-kings-birthday-honours-luke-littler-luke-humphries-mbe)
-- [San Antonio: at least 11 people killed by floods as crews search for missing](https://www.theguardian.com/us-news/2025/jun/13/san-antonio-floods)
+- [Israel and Iran launch fresh exchange of missiles, blasts heard in Tehran, Jerusalem, Tel Aviv – live](https://www.theguardian.com/world/live/2025/jun/14/israel-and-iran-exchange-missile-strikes-with-explosions-heard-in-tel-aviv-jerusalem-and-tehran-live)
+- [Ukraine war briefing: Putin tells Trump in phone call Moscow ready to resume peace talks](https://www.theguardian.com/world/2025/jun/15/ukraine-war-briefing-putin-tells-trump-in-phone-call-moscow-ready-to-resume-peace-talks)
+- [Millions across US turn out for ‘No Kings’ protests against Donald Trump](https://www.theguardian.com/us-news/2025/jun/14/no-kings-protests-trump-military-parade)
+- [Minnesota police search for suspect after Democratic lawmaker shot dead and another wounded](https://www.theguardian.com/us-news/2025/jun/14/democratic-lawmakers-minnesota-shot)
+- [Tyrrell Hatton cool but Matt Fitzpatrick rages as Sam Burns keeps US Open lead](https://www.theguardian.com/sport/2025/jun/15/tyrrell-hatton-cool-but-matt-fitzpatrick-rages-as-sam-burns-keeps-us-open-lead)
+- [‘No Kings’ protesters in Virginia and San Francisco struck by motorists](https://www.theguardian.com/us-news/2025/jun/14/no-kings-protests-vehicles-struck-injuries)
+- [Verstappen lashes out at critics after Russell snatches Canadian F1 GP pole](https://www.theguardian.com/sport/2025/jun/14/george-russell-max-verstappen-oscar-piastri-canadian-f1-gp-pole-lando-norris)
+- [England crash out of World Cup as Littler and Humphries humbled by Germany](https://www.theguardian.com/sport/2025/jun/14/england-crash-out-of-world-cup-as-luke-littler-and-luke-humphries-humbled)
+- [Grenfell residents gather for last anniversary before tower is taken down](https://www.theguardian.com/uk-news/2025/jun/14/grenfell-residents-gather-for-last-anniversary-before-tower-is-taken-down)
+- [‘Tennis repairs you’: the 101-year-old fuelled by iced coffee who still plays competitively | Jo Khan](https://www.theguardian.com/sport/2025/jun/15/henry-young-101-year-old-tennis-player)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

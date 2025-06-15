@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [UK unis to cough up to £10M on Java to keep Oracle off their backs](https://www.theregister.com/2025/06/13/jisc_java_oracle/)
-- [DHS is using CBP Home Mobile App to incentivize the voluntary self-deportation](https://www.dhs.gov/cbphome)
-- [Filedb: Disk Based Key-Value Store Inspired by Bitcask](https://github.com/rajivharlalka/filedb)
-- [The Tech Job Meltdown](https://www.professoraxelrod.com/p/the-tech-job-meltdown)
-- [Rethinking Losses for Diffusion Bridge Samplers](https://arxiv.org/abs/2506.10982)
-- [Endometriosis is an incredibly interesting disease](https://www.owlposting.com/p/endometriosis-is-an-incredibly-interesting)
-- [A Study of the Winston Red: The Smithsonian&#39;s New Fancy Red Diamond](https://www.gia.edu/gems-gemology/spring-2025-winston-red-diamond)
-- [How the Alzheimer&#39;s Research Scandal Set Back Treatment 16 Years &lpar;2022&rpar;](https://www.discovermagazine.com/the-sciences/false-alzheimers-study-could-set-research-back-16-years)
-- [Implementing Logic Programming](https://btmc.substack.com/p/implementing-logic-programming)
-- [MUMPS](https://en.wikipedia.org/wiki/MUMPS)
+- [Large Language Models Often Know When They Are Being Evaluated](https://arxiv.org/abs/2505.23836)
+- [Sperm are very different from all other cells](https://www.bbc.com/future/article/20250613-untangling-the-mysteries-of-what-we-dont-know-about-sperm)
+- [Q-learning is not yet scalable](https://seohong.me/blog/q-learning-is-not-yet-scalable/)
+- [Fixing the mechanics of my bullet chess](https://jacobbrazeal.wordpress.com/2025/06/14/fixing-the-mechanics-of-my-bullet-chess/)
+- [Clinical knowledge in LLMs does not translate to human interactions](https://arxiv.org/pdf/2504.18919)
+- [Infinite Grid of Resistors](https://www.mathpages.com/home/kmath668/kmath668.htm)
+- [AMD&#39;s AI Future Is Rack Scale &#39;Helios&#39;](https://morethanmoore.substack.com/p/amds-ai-future-is-rack-scale-helios)
+- [Seven replies to the viral Apple reasoning paper and why they fall short](https://garymarcus.substack.com/p/seven-replies-to-the-viral-apple)
+- [Infineon security microcontroller flaw enabled extraction of TPM secret keys](https://it4sec.substack.com/p/a-flaw-in-infineons-security-microcontrollers)
+- [How the Final Cartridge III Freezer Works](https://www.pagetable.com/?p=1810)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

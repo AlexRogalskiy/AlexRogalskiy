@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Dice Identification 101: Mold Characteristics &lpar;2019&rpar;](https://dicemaniacsclub.wordpress.com/2019/08/29/dice-identification-101-mold-characteristics/)
-- [The Cadence &lpar;2020&rpar;](https://medium.com/craft-ventures/the-cadence-how-to-operate-a-saas-startup-436aa8099e8)
-- [New York passes a bill to prevent AI-fueled disasters](https://techcrunch.com/2025/06/13/new-york-passes-a-bill-to-prevent-ai-fueled-disasters/)
-- [Show HN: I created a multiple JSON queries tool](https://app.postpilot.dev/)
-- [Streamlit state management for React developers](https://outlore.dev/blog/streamlit-state-management/)
-- [How I monitor and control all my powered devices &lpar;Zigbee and HA&rpar;](https://www.jeffgeerling.com/blog/2025/how-i-monitor-and-control-all-my-powered-devices-zigbee-ha)
-- [Bear Essentials Vlog](https://old.reddit.com/r/midjourney/comments/1l7z2b6/things_are_getting_crazy_bear_essentials_vlog/)
-- [Reclaiming the future: Māori voices leading in the age of AI and quantum tech](https://thespinoff.co.nz/atea/09-06-2025/reclaiming-the-future-maori-voices-leading-in-the-age-of-ai-and-quantum-tech)
-- [I have discovered a new number &lpar;with Mathematical Proof&rpar;](https://news.ycombinator.com/item?id=44280173)
-- [Show HN: I made an online Unicode Cuneiform digital clock](https://oisinmoran.com/sumertime)
+- [Show HN: I created a guide GPT for anyone who is confused on data enrichment](https://chatgpt.com/g/g-684f893ae7c881919f210399e940105a-data-enrichment-guide-and-expert)
+- [Safe-math-rs – write normal math expressions safely&lpar;overflow-checked, no panics&rpar;](https://github.com/GotenJBZ/safe-math-rs)
+- [Hypershell: A Type-Level DSL for Shell-Scripting in Rust](https://contextgeneric.dev/blog/hypershell-release/)
+- [Show HN: FeetGen Online – Transform simple prompts into feet artwork](https://feet-gen.online)
+- [I Spent My Weekends Building an AI Debugger That Understands Your Code](https://marketplace.visualstudio.com/items?itemName=NandamYashwanth.go-debugger-ai)
+- [Accumulation of Cognitive Debt When Using an AI Assistant for Essay Writing Task](https://arxiv.org/abs/2506.08872)
+- [Eating Cap&#39;n Crunch](https://akkartik.name/post/capn-crunch)
+- [Permission Application in HarmonyOS](https://github.com/CaojingCode/HarmonyOS-Articles/blob/main/Permission%20application%20in%20HarmonyOS.md)
+- [Powerful Orchestration, Everything as Code](https://kestra.io)
+- [Extended Thinking Tips](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/extended-thinking-tips)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

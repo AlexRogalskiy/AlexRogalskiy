@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Israel and Iran launch fresh exchange of missiles, blasts heard in Tehran, Jerusalem, Tel Aviv – live](https://www.theguardian.com/world/live/2025/jun/14/israel-and-iran-exchange-missile-strikes-with-explosions-heard-in-tel-aviv-jerusalem-and-tehran-live)
-- [Ukraine war briefing: Putin tells Trump in phone call Moscow ready to resume peace talks](https://www.theguardian.com/world/2025/jun/15/ukraine-war-briefing-putin-tells-trump-in-phone-call-moscow-ready-to-resume-peace-talks)
-- [Millions across US turn out for ‘No Kings’ protests against Donald Trump](https://www.theguardian.com/us-news/2025/jun/14/no-kings-protests-trump-military-parade)
-- [Minnesota police search for suspect after Democratic lawmaker shot dead and another wounded](https://www.theguardian.com/us-news/2025/jun/14/democratic-lawmakers-minnesota-shot)
-- [Tyrrell Hatton cool but Matt Fitzpatrick rages as Sam Burns keeps US Open lead](https://www.theguardian.com/sport/2025/jun/15/tyrrell-hatton-cool-but-matt-fitzpatrick-rages-as-sam-burns-keeps-us-open-lead)
-- [‘No Kings’ protesters in Virginia and San Francisco struck by motorists](https://www.theguardian.com/us-news/2025/jun/14/no-kings-protests-vehicles-struck-injuries)
-- [Verstappen lashes out at critics after Russell snatches Canadian F1 GP pole](https://www.theguardian.com/sport/2025/jun/14/george-russell-max-verstappen-oscar-piastri-canadian-f1-gp-pole-lando-norris)
-- [England crash out of World Cup as Littler and Humphries humbled by Germany](https://www.theguardian.com/sport/2025/jun/14/england-crash-out-of-world-cup-as-luke-littler-and-luke-humphries-humbled)
-- [Grenfell residents gather for last anniversary before tower is taken down](https://www.theguardian.com/uk-news/2025/jun/14/grenfell-residents-gather-for-last-anniversary-before-tower-is-taken-down)
-- [‘Tennis repairs you’: the 101-year-old fuelled by iced coffee who still plays competitively | Jo Khan](https://www.theguardian.com/sport/2025/jun/15/henry-young-101-year-old-tennis-player)
+- [Australia mushroom trial live: Erin Patterson intended to kill lunch guests and thought cancer lie ‘would die with them’, prosecution says](https://www.theguardian.com/australia-news/live/2025/jun/16/australia-mushroom-trial-live-closing-arguments-erin-patterson-triple-murder-trial-begin-ntwnfb)
+- [Israel warns of fresh wave of missiles from Iran as explosions heard over Tel Aviv – live updates](https://www.theguardian.com/world/live/2025/jun/15/at-least-eight-killed-in-iranian-strikes-on-israel-while-israeli-attacks-set-tehran-oil-depot-on-fire-live-updates)
+- [Liam Delap backed to break curse of the Chelsea No 9 shirt and earn England spot](https://www.theguardian.com/football/2025/jun/16/liam-delap-chelsea-curse-no-9-shirt)
+- [Suspect in shootings of Minnesota lawmakers apprehended – reports](https://www.theguardian.com/us-news/2025/jun/16/minnesota-shooting-suspect-arrest-reports)
+- [JJ Spaun completes fairytale with monster final putt on wet and wild day at US Open](https://www.theguardian.com/sport/2025/jun/16/jj-spaun-wins-us-open-report)
+- [Ofwat should have to approve water firms’ bonuses and dividends, say MPs](https://www.theguardian.com/environment/2025/jun/16/ofwat-should-have-to-approve-water-firms-bonuses-and-dividends-say-mps)
+- [‘Grenfell should make us all uncomfortable’: Olaide Sadiq on making Grenfell: Uncovered](https://www.theguardian.com/uk-news/2025/jun/16/grenfell-should-make-us-all-uncomfortable-olaide-sadiq-on-making-grenfell-uncovered)
+- [McLaren play it cool after Lando Norris and Oscar Piastri collide](https://www.theguardian.com/sport/2025/jun/15/mclaren-norris-piastri-reaction)
+- [Pile Up: World’s Biggest Crash Test review – this destructive motoring experiment is a literal TV disaster](https://www.theguardian.com/tv-and-radio/2025/jun/15/pile-up-worlds-biggest-crash-test-review-this-destructive-motoring-experiment-is-a-literal-tv-disaster)
+- [Israel and Iran broaden strikes during third day of escalating war](https://www.theguardian.com/world/2025/jun/15/israel-hits-iran-energy-defence-ministry-conflict-escalates)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

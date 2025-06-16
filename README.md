@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Large Language Models Often Know When They Are Being Evaluated](https://arxiv.org/abs/2505.23836)
-- [Sperm are very different from all other cells](https://www.bbc.com/future/article/20250613-untangling-the-mysteries-of-what-we-dont-know-about-sperm)
-- [Q-learning is not yet scalable](https://seohong.me/blog/q-learning-is-not-yet-scalable/)
-- [Fixing the mechanics of my bullet chess](https://jacobbrazeal.wordpress.com/2025/06/14/fixing-the-mechanics-of-my-bullet-chess/)
-- [Clinical knowledge in LLMs does not translate to human interactions](https://arxiv.org/pdf/2504.18919)
-- [Infinite Grid of Resistors](https://www.mathpages.com/home/kmath668/kmath668.htm)
-- [AMD&#39;s AI Future Is Rack Scale &#39;Helios&#39;](https://morethanmoore.substack.com/p/amds-ai-future-is-rack-scale-helios)
-- [Seven replies to the viral Apple reasoning paper and why they fall short](https://garymarcus.substack.com/p/seven-replies-to-the-viral-apple)
-- [Infineon security microcontroller flaw enabled extraction of TPM secret keys](https://it4sec.substack.com/p/a-flaw-in-infineons-security-microcontrollers)
-- [How the Final Cartridge III Freezer Works](https://www.pagetable.com/?p=1810)
+- [Jokes and Humour in the Public Android API](https://voxelmanip.se/2025/06/14/jokes-and-humour-in-the-public-android-api/)
+- [A new high-voltage breaker can clear grid-scale faults without greenhouse gas](https://spectrum.ieee.org/sf6-gas-replacement)
+- [DARPA program sets distance record for power beaming](https://www.darpa.mil/news/2025/darpa-program-distance-record-power-beaming)
+- [Let&#39;s Talk About ChatGPT-Induced Spiritual Psychosis](https://default.blog/p/lets-talk-about-chatgpt-induced-spiritual)
+- [KAIST Succeeds in Real-Time CO2 Monitoring Without Batteries or External Power](https://news.kaist.ac.kr/newsen/html/news/?mode=V&mng_no=47450)
+- [David Attenborough at 99: &#39;I will not see how the story ends&#39;](https://www.thetimes.com/life-style/celebrity/article/david-attenborough-book-extract-age-99-lj3rd2fg7)
+- [It’s nearly impossible to buy an original Bob Ross painting &lpar;2021&rpar;](https://thehustle.co/why-its-nearly-impossible-to-buy-an-original-bob-ross-painting)
+- [Twin – A Textmode WINdow Environment](https://github.com/cosmos72/twin)
+- [An Introduction to the Hieroglyphic Language of Early 1900s Train-Hoppers](https://www.openculture.com/2018/08/hobo-code-introduction-hieroglyphic-language-early-1900s-train-hoppers.html)
+- [How fast can the RPython GC allocate?](https://pypy.org/posts/2025/06/rpython-gc-allocation-speed.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

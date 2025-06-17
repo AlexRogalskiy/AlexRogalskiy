@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: I created a guide GPT for anyone who is confused on data enrichment](https://chatgpt.com/g/g-684f893ae7c881919f210399e940105a-data-enrichment-guide-and-expert)
-- [Safe-math-rs – write normal math expressions safely&lpar;overflow-checked, no panics&rpar;](https://github.com/GotenJBZ/safe-math-rs)
-- [Hypershell: A Type-Level DSL for Shell-Scripting in Rust](https://contextgeneric.dev/blog/hypershell-release/)
-- [Show HN: FeetGen Online – Transform simple prompts into feet artwork](https://feet-gen.online)
-- [I Spent My Weekends Building an AI Debugger That Understands Your Code](https://marketplace.visualstudio.com/items?itemName=NandamYashwanth.go-debugger-ai)
-- [Accumulation of Cognitive Debt When Using an AI Assistant for Essay Writing Task](https://arxiv.org/abs/2506.08872)
-- [Eating Cap&#39;n Crunch](https://akkartik.name/post/capn-crunch)
-- [Permission Application in HarmonyOS](https://github.com/CaojingCode/HarmonyOS-Articles/blob/main/Permission%20application%20in%20HarmonyOS.md)
-- [Powerful Orchestration, Everything as Code](https://kestra.io)
-- [Extended Thinking Tips](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/extended-thinking-tips)
+- [Waymo recalls more than 1,200 automated vehicles after minor crashes](https://www.latimes.com/business/story/2025-05-14/waymo-recalls-more-than-1-200-automated-vehicles-after-minor-crashes)
+- [Cross-social networks](https://yeldar.org/blog/cross-social-networks/)
+- [Sound Static Data Race Verification for C [pdf]](https://patricklam.ca/papers/25.toplas.data-race-empirical.pdf)
+- [Show HN: My Journey Building Kabit – A habit tracker](https://apps.apple.com/us/app/habit-tracker-kabit/id6511250768)
+- [Is embracing AI intellectual or anti-intellectual?](https://hollisrobbinsanecdotal.substack.com/p/is-embracing-ai-intellectual-or-anti)
+- [Pentagon Pizza Report showing elevated activity](https://x.com/penpizzareport)
+- [ECG-Image-Kit: A toolkit for analysis, synthesis, and digitization of ECG images](https://github.com/alphanumericslab/ecg-image-kit)
+- [Rules, Not Renewables, Might Explain the Iberian Blackout](https://spectrum.ieee.org/spain-grid-failure)
+- [Mind Donation](https://blog.ayjay.org/brain-donation/)
+- [California bill targets masked officers](https://www.msn.com/en-us/news/us/officers-who-cover-their-faces-could-be-charged-with-a-misdemeanor-under-california-proposal/ar-AA1GPMyt)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

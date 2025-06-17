@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Australia mushroom trial live: Erin Patterson intended to kill lunch guests and thought cancer lie ‘would die with them’, prosecution says](https://www.theguardian.com/australia-news/live/2025/jun/16/australia-mushroom-trial-live-closing-arguments-erin-patterson-triple-murder-trial-begin-ntwnfb)
-- [Israel warns of fresh wave of missiles from Iran as explosions heard over Tel Aviv – live updates](https://www.theguardian.com/world/live/2025/jun/15/at-least-eight-killed-in-iranian-strikes-on-israel-while-israeli-attacks-set-tehran-oil-depot-on-fire-live-updates)
-- [Liam Delap backed to break curse of the Chelsea No 9 shirt and earn England spot](https://www.theguardian.com/football/2025/jun/16/liam-delap-chelsea-curse-no-9-shirt)
-- [Suspect in shootings of Minnesota lawmakers apprehended – reports](https://www.theguardian.com/us-news/2025/jun/16/minnesota-shooting-suspect-arrest-reports)
-- [JJ Spaun completes fairytale with monster final putt on wet and wild day at US Open](https://www.theguardian.com/sport/2025/jun/16/jj-spaun-wins-us-open-report)
-- [Ofwat should have to approve water firms’ bonuses and dividends, say MPs](https://www.theguardian.com/environment/2025/jun/16/ofwat-should-have-to-approve-water-firms-bonuses-and-dividends-say-mps)
-- [‘Grenfell should make us all uncomfortable’: Olaide Sadiq on making Grenfell: Uncovered](https://www.theguardian.com/uk-news/2025/jun/16/grenfell-should-make-us-all-uncomfortable-olaide-sadiq-on-making-grenfell-uncovered)
-- [McLaren play it cool after Lando Norris and Oscar Piastri collide](https://www.theguardian.com/sport/2025/jun/15/mclaren-norris-piastri-reaction)
-- [Pile Up: World’s Biggest Crash Test review – this destructive motoring experiment is a literal TV disaster](https://www.theguardian.com/tv-and-radio/2025/jun/15/pile-up-worlds-biggest-crash-test-review-this-destructive-motoring-experiment-is-a-literal-tv-disaster)
-- [Israel and Iran broaden strikes during third day of escalating war](https://www.theguardian.com/world/2025/jun/15/israel-hits-iran-energy-defence-ministry-conflict-escalates)
+- [Australia mushroom trial live: defence outlines two issues jury must consider to determine Erin Patterson’s fate](https://www.theguardian.com/australia-news/live/2025/jun/17/australia-mushroom-trial-live-erin-patterson-triple-murder-closing-arguments-ntwnfb)
+- [Israel-Iran conflict live: Trump tells Tehran to ‘evacuate’ as Macron says US president has made ceasefire ‘offer’](https://www.theguardian.com/world/live/2025/jun/17/israel-iran-conflict-live-updates-tehran-trump-evacuation-middle-east)
+- [Boca let slip two-goal lead as Benfica claim late point at Club World Cup](https://www.theguardian.com/football/2025/jun/17/club-world-cup-boca-juniors-benfica-match-report)
+- [Ukraine war briefing: Kyiv under Russian drone attack with apartment building hit](https://www.theguardian.com/world/2025/jun/17/ukraine-war-briefing-kyiv-under-russian-drone-attack-with-apartment-building-hit)
+- [Johnny Sexton insists he is ‘here to help’ Finn Russell despite past Lions criticism](https://www.theguardian.com/sport/2025/jun/17/johnny-sexton-finn-russell-british-and-irish-lions)
+- [Jane Goodall chimpanzee conservation project in Tanzania hit by USAID cuts](https://www.theguardian.com/us-news/2025/jun/17/jane-goodall-chimpanzee-conservation-project-tanzania-usaid-cuts)
+- [NHS staff unsettled by patients filming care and posting videos on social media](https://www.theguardian.com/society/2025/jun/17/nhs-concerns-patients-filming-tiktok-instagram)
+- [Oxford Street will be pedestrianised as soon as possible, says London mayor](https://www.theguardian.com/business/2025/jun/17/oxford-street-pedestrianised-soon-as-possible-mayor-sadiq-khan)
+- [Social media overtakes TV as main source of news in US, analysis finds](https://www.theguardian.com/media/2025/jun/17/social-media-overtakes-tv-as-main-source-of-news-in-us-analysis-finds)
+- [G7 summit in Canada – in pictures](https://www.theguardian.com/world/gallery/2025/jun/16/g7-summit-in-canada-in-pictures)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

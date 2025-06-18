@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Australia mushroom trial live: defence outlines two issues jury must consider to determine Erin Patterson’s fate](https://www.theguardian.com/australia-news/live/2025/jun/17/australia-mushroom-trial-live-erin-patterson-triple-murder-closing-arguments-ntwnfb)
-- [Israel-Iran conflict live: Trump tells Tehran to ‘evacuate’ as Macron says US president has made ceasefire ‘offer’](https://www.theguardian.com/world/live/2025/jun/17/israel-iran-conflict-live-updates-tehran-trump-evacuation-middle-east)
-- [Boca let slip two-goal lead as Benfica claim late point at Club World Cup](https://www.theguardian.com/football/2025/jun/17/club-world-cup-boca-juniors-benfica-match-report)
-- [Ukraine war briefing: Kyiv under Russian drone attack with apartment building hit](https://www.theguardian.com/world/2025/jun/17/ukraine-war-briefing-kyiv-under-russian-drone-attack-with-apartment-building-hit)
-- [Johnny Sexton insists he is ‘here to help’ Finn Russell despite past Lions criticism](https://www.theguardian.com/sport/2025/jun/17/johnny-sexton-finn-russell-british-and-irish-lions)
-- [Jane Goodall chimpanzee conservation project in Tanzania hit by USAID cuts](https://www.theguardian.com/us-news/2025/jun/17/jane-goodall-chimpanzee-conservation-project-tanzania-usaid-cuts)
-- [NHS staff unsettled by patients filming care and posting videos on social media](https://www.theguardian.com/society/2025/jun/17/nhs-concerns-patients-filming-tiktok-instagram)
-- [Oxford Street will be pedestrianised as soon as possible, says London mayor](https://www.theguardian.com/business/2025/jun/17/oxford-street-pedestrianised-soon-as-possible-mayor-sadiq-khan)
-- [Social media overtakes TV as main source of news in US, analysis finds](https://www.theguardian.com/media/2025/jun/17/social-media-overtakes-tv-as-main-source-of-news-in-us-analysis-finds)
-- [G7 summit in Canada – in pictures](https://www.theguardian.com/world/gallery/2025/jun/16/g7-summit-in-canada-in-pictures)
+- [Malfunctions, overreactions and a steep learning curve: wargaming a Chinese attack on Taiwan](https://www.theguardian.com/world/2025/jun/18/taiwan-war-games-china-attack)
+- [Ukraine war briefing: North Korea sending another 5,000 into Kursk – Russian claim](https://www.theguardian.com/world/2025/jun/18/ukraine-war-briefing-north-korea-sending-another-5000-into-kursk-russian-claim)
+- [Leaked footage and prison logs reveal Aung San Suu Kyi’s life in detention](https://www.theguardian.com/world/2025/jun/18/leaked-footage-and-prison-logs-reveal-aung-san-suu-kyis-life-in-detention)
+- [Over half of English councils face insolvency under £5bn deficit, MPs warn](https://www.theguardian.com/society/2025/jun/18/over-half-of-english-councils-face-insolvency-under-5bn-deficit-mps-warn)
+- [Waterstones debut fiction prize 2025 shortlist announced](https://www.theguardian.com/books/2025/jun/18/waterstones-debut-fiction-prize-2025-shortlist-announced)
+- [Northamptonshire police apologise to Harry Dunn’s family for failures investigating his death](https://www.theguardian.com/uk-news/2025/jun/18/northamptonshire-police-apology-harry-dunn-investigation-review)
+- [UK gas plants in line for large windfall payments to keep lights on this winter](https://www.theguardian.com/environment/2025/jun/18/uk-gas-plants-in-line-for-large-windfall-payments-to-keep-lights-on-this-winter)
+- [Female baboons with strong relationship to fathers found to live longer](https://www.theguardian.com/world/2025/jun/18/female-baboons-strong-relationship-fathers-live-longer)
+- [Turning coalmines into solar energy plants ‘could add 300GW of renewables by 2030’](https://www.theguardian.com/environment/2025/jun/18/turning-coalmines-into-solar-energy-plants-renewables-gem-report)
+- [Cannabis use could double risk of heart deaths, study suggests](https://www.theguardian.com/society/2025/jun/17/cannabis-use-could-double-risk-of-heart-deaths-study-suggests)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

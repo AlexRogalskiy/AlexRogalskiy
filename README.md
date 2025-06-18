@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Waymo recalls more than 1,200 automated vehicles after minor crashes](https://www.latimes.com/business/story/2025-05-14/waymo-recalls-more-than-1-200-automated-vehicles-after-minor-crashes)
-- [Cross-social networks](https://yeldar.org/blog/cross-social-networks/)
-- [Sound Static Data Race Verification for C [pdf]](https://patricklam.ca/papers/25.toplas.data-race-empirical.pdf)
-- [Show HN: My Journey Building Kabit – A habit tracker](https://apps.apple.com/us/app/habit-tracker-kabit/id6511250768)
-- [Is embracing AI intellectual or anti-intellectual?](https://hollisrobbinsanecdotal.substack.com/p/is-embracing-ai-intellectual-or-anti)
-- [Pentagon Pizza Report showing elevated activity](https://x.com/penpizzareport)
-- [ECG-Image-Kit: A toolkit for analysis, synthesis, and digitization of ECG images](https://github.com/alphanumericslab/ecg-image-kit)
-- [Rules, Not Renewables, Might Explain the Iberian Blackout](https://spectrum.ieee.org/spain-grid-failure)
-- [Mind Donation](https://blog.ayjay.org/brain-donation/)
-- [California bill targets masked officers](https://www.msn.com/en-us/news/us/officers-who-cover-their-faces-could-be-charged-with-a-misdemeanor-under-california-proposal/ar-AA1GPMyt)
+- [Double-Entry Ledgers: The Missing Primitive in Modern Software](https://www.pgrs.net/2025/06/17/double-entry-ledgers-missing-primitive-in-modern-software/)
+- [How to Remember Everything You Ever Read](https://www.sean-johnson.com/article/how-to-remember-everything-you-read)
+- [Gemini 2.5 Flash-Lite is now available in preview](https://developers.googleblog.com/en/gemini-2-5-thinking-model-updates/)
+- [Libxml2 – Triaging security issues reported by third parties](https://gitlab.gnome.org/GNOME/libxml2/-/issues/913)
+- [Arinc 767 Or, &quot;What Do You Mean My B787 Uses 767 Data?&quot;](https://scaledanalytics.com/2023/04/25/arinc-767-or-what-do-you-mean-my-b787-uses-767-data/)
+- [Awesome-Foundation-Models – A curated list of foundation models](https://github.com/uncbiag/Awesome-Foundation-Models)
+- [Libxml2 Maintainer Ends Embargoed Vulnerability Reports, Citing Unsustainable](https://socket.dev/blog/libxml2-maintainer-ends-embargoed-vulnerability-reports)
+- [&#39;Bunker Buster&#39; U.S. Bomb Could Cripple Iran&#39;s Nuclear Ambitions](https://www.wsj.com/world/middle-east/bunker-buster-bomb-iran-israel-conflict-fordow-1a65efca)
+- [Coinbase seeking US SEC approval to offer blockchain-based stocks](https://www.reuters.com/business/coinbase-seeking-us-sec-approval-offer-blockchain-based-stocks-2025-06-17/)
+- [A GOP Plan to Sell Public Land Is Back. This Time, It&#39;s Acres](https://www.nytimes.com/2025/06/12/climate/senate-gop-public-land-sale.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

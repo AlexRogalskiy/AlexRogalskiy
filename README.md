@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Show HN: Lstr – A modern, interactive tree command written in Rust](https://github.com/bgreenwell/lstr)
-- [Show HN: Rulebook AI – rules and memory manager for AI coding IDEs](https://github.com/botingw/rulebook-ai)
-- [Dinesh&#39;s Mid-Summer Death Valley Walk &lpar;1998&rpar;](https://dineshdesai.info/dv/photos.html)
-- [Foundry &lpar;YC F24&rpar; Hiring Early Engineer to Build Web Agent Infrastructure](https://www.ycombinator.com/companies/foundry/jobs/azAgJbN-foundry-software-engineer-new-grad-to-mid-level)
-- [The Grug Brained Developer &lpar;2022&rpar;](https://grugbrain.dev/)
-- [Bzip2 crate switches from C to 100% Rust](https://trifectatech.org/blog/bzip2-crate-switches-from-c-to-rust/)
-- [What Google Translate can tell us about vibecoding](https://ingrids.space/posts/what-google-translate-can-tell-us-about-vibecoding/)
-- [LLMs pose an interesting problem for DSL designers](https://kirancodes.me/posts/log-lang-design-llms.html)
-- [Iran asks its people to delete WhatsApp from their devices](https://apnews.com/article/iran-whatsapp-meta-israel-d9e6fe43280123c9963802e6f10ac8d1)
-- [From SDR to &#39;Fake HDR&#39;: Mario Kart World on Switch 2](https://www.alexandermejia.com/from-sdr-to-fake-hdr-mario-kart-world-on-switch-2-undermines-modern-display-potential/)
+- [TI to invest &gt;$60B to manufacture foundational semiconductors in the U.S.](https://www.ti.com/about-ti/newsroom/news-releases/2025/texas-instruments-plans-to-invest-more-than--60-billion-to-manufacture-billions-of-foundational-semiconductors-in-the-us.html)
+- [Andrej Karpathy: Software in the era of AI [video]](https://www.youtube.com/watch?v=LCEmiRjPEtQ)
+- [It&#39;s true, “we” don&#39;t care about accessibility on Linux](https://tesk.page/2025/06/18/its-true-we-dont-care-about-accessibility-on-linux/)
+- [MCP Specification – version 2025-06-18 changes](https://modelcontextprotocol.io/specification/2025-06-18/changelog)
+- [Show HN: Unregistry – “docker push” directly to servers without a registry](https://github.com/psviderski/unregistry)
+- [New US visa rules will force foreign students to unlock social media profiles](https://www.theguardian.com/us-news/2025/jun/18/social-media-student-visa-screening)
+- [Fang, the CLI Starter Kit](https://github.com/charmbracelet/fang)
+- [A deep-dive explainer on Ink and Switch&#39;s BeeKEM protocol](https://meri.garden/a-deep-dive-explainer-on-beekem-protocol/)
+- [The Missing 11th of the Month](https://drhagen.com/blog/the-missing-11th-of-the-month/)
+- [Bento: A Steam Deck in a Keyboard](https://github.com/lunchbox-computer/bento)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

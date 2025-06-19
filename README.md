@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Malfunctions, overreactions and a steep learning curve: wargaming a Chinese attack on Taiwan](https://www.theguardian.com/world/2025/jun/18/taiwan-war-games-china-attack)
-- [Ukraine war briefing: North Korea sending another 5,000 into Kursk – Russian claim](https://www.theguardian.com/world/2025/jun/18/ukraine-war-briefing-north-korea-sending-another-5000-into-kursk-russian-claim)
-- [Leaked footage and prison logs reveal Aung San Suu Kyi’s life in detention](https://www.theguardian.com/world/2025/jun/18/leaked-footage-and-prison-logs-reveal-aung-san-suu-kyis-life-in-detention)
-- [Over half of English councils face insolvency under £5bn deficit, MPs warn](https://www.theguardian.com/society/2025/jun/18/over-half-of-english-councils-face-insolvency-under-5bn-deficit-mps-warn)
-- [Waterstones debut fiction prize 2025 shortlist announced](https://www.theguardian.com/books/2025/jun/18/waterstones-debut-fiction-prize-2025-shortlist-announced)
-- [Northamptonshire police apologise to Harry Dunn’s family for failures investigating his death](https://www.theguardian.com/uk-news/2025/jun/18/northamptonshire-police-apology-harry-dunn-investigation-review)
-- [UK gas plants in line for large windfall payments to keep lights on this winter](https://www.theguardian.com/environment/2025/jun/18/uk-gas-plants-in-line-for-large-windfall-payments-to-keep-lights-on-this-winter)
-- [Female baboons with strong relationship to fathers found to live longer](https://www.theguardian.com/world/2025/jun/18/female-baboons-strong-relationship-fathers-live-longer)
-- [Turning coalmines into solar energy plants ‘could add 300GW of renewables by 2030’](https://www.theguardian.com/environment/2025/jun/18/turning-coalmines-into-solar-energy-plants-renewables-gem-report)
-- [Cannabis use could double risk of heart deaths, study suggests](https://www.theguardian.com/society/2025/jun/17/cannabis-use-could-double-risk-of-heart-deaths-study-suggests)
+- [Trump says Iran deal ‘could still happen’ and claims Tehran was ‘a few weeks away’ from nuclear weapon – Israel-Iran conflict live](https://www.theguardian.com/world/live/2025/jun/18/iran-israel-live-updates-air-strikes-tehran-trump-khamenei-middle-east-latest-news)
+- [Ukraine war briefing: Russia can defend itself, says Putin, as North Korea sends more soldiers](https://www.theguardian.com/world/2025/jun/19/ukraine-war-briefing-russia-can-defend-itself-says-putin-as-north-korea-sends-more-soldiers)
+- [Bear necessity: lid stuck around US animal’s neck removed after two years](https://www.theguardian.com/us-news/2025/jun/18/michigan-bear-lid-removed)
+- [New Zealand halts millions of dollars in aid to Cook Islands over deals struck with China](https://www.theguardian.com/world/2025/jun/19/new-zealand-halts-millions-of-dollars-in-aid-to-cook-islands-over-deals-struck-with-china)
+- [Cambodia bans fruit imports and soap operas from Thailand as border dispute sours](https://www.theguardian.com/world/2025/jun/19/cambodia-bans-fruit-imports-and-soap-operas-from-thailand-as-border-dispute-sours)
+- [UK watchdog criticises ‘offensive’ portrayal of older people in adverts](https://www.theguardian.com/media/2025/jun/19/uk-advertising-standards-authority-criticises-offensive-portrayal-older-people-adverts)
+- [Portraits so powerful they override reality – Jenny Saville: The Anatomy of Painting review](https://www.theguardian.com/artanddesign/2025/jun/19/jenny-saville-the-anatomy-of-painting-review-national-portrait-gallery-london)
+- [English universities barred from enforcing blanket bans on student protests](https://www.theguardian.com/education/2025/jun/19/universities-england-student-protests-guidance-regulations)
+- [Only two years left of world’s carbon budget to meet 1.5C target, scientists warn](https://www.theguardian.com/environment/2025/jun/18/only-two-years-left-of-world-carbon-budget-to-meet-15c-target-scientists-warn-climate-crisis)
+- [Scottish government faces legal action over failure to implement biological sex ruling](https://www.theguardian.com/society/2025/jun/18/scottish-government-given-deadline-to-implement-ruling-on-biological-sex)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

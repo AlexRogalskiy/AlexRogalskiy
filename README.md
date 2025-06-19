@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Double-Entry Ledgers: The Missing Primitive in Modern Software](https://www.pgrs.net/2025/06/17/double-entry-ledgers-missing-primitive-in-modern-software/)
-- [How to Remember Everything You Ever Read](https://www.sean-johnson.com/article/how-to-remember-everything-you-read)
-- [Gemini 2.5 Flash-Lite is now available in preview](https://developers.googleblog.com/en/gemini-2-5-thinking-model-updates/)
-- [Libxml2 – Triaging security issues reported by third parties](https://gitlab.gnome.org/GNOME/libxml2/-/issues/913)
-- [Arinc 767 Or, &quot;What Do You Mean My B787 Uses 767 Data?&quot;](https://scaledanalytics.com/2023/04/25/arinc-767-or-what-do-you-mean-my-b787-uses-767-data/)
-- [Awesome-Foundation-Models – A curated list of foundation models](https://github.com/uncbiag/Awesome-Foundation-Models)
-- [Libxml2 Maintainer Ends Embargoed Vulnerability Reports, Citing Unsustainable](https://socket.dev/blog/libxml2-maintainer-ends-embargoed-vulnerability-reports)
-- [&#39;Bunker Buster&#39; U.S. Bomb Could Cripple Iran&#39;s Nuclear Ambitions](https://www.wsj.com/world/middle-east/bunker-buster-bomb-iran-israel-conflict-fordow-1a65efca)
-- [Coinbase seeking US SEC approval to offer blockchain-based stocks](https://www.reuters.com/business/coinbase-seeking-us-sec-approval-offer-blockchain-based-stocks-2025-06-17/)
-- [A GOP Plan to Sell Public Land Is Back. This Time, It&#39;s Acres](https://www.nytimes.com/2025/06/12/climate/senate-gop-public-land-sale.html)
+- [Bigfoot vlog – meet my alien friend Zorp](https://www.youtube.com/watch?v=l9yTiGIenDQ)
+- [Most LLMs return the same answer in number guessing game](https://twitter.com/karpathy/status/1935404600653492484)
+- [Deciphering Stuxnet, the Most Menacing Malware in History &lpar;2011&rpar;](https://web.archive.org/web/20190221072236/https://www.wired.com/2011/07/how-digital-detectives-deciphered-stuxnet/)
+- [How to Legislate in a Half-Known World](https://www.afterbabel.com/p/legislate-half-known-world)
+- [Gemini 2.5 Pro: From 0506 to 0605](https://thezvi.substack.com/p/gemini-25-pro-from-0506-to-0605)
+- [What is Europe? A secret history of the world](https://samkriss.substack.com/p/what-is-europe)
+- [Adaptive Control and the NASA X–15 Program: A Concise History [pdf]](https://skoge.folk.ntnu.no/prost/proceedings/acc08/data/papers/0086.pdf)
+- [ChatGPT May Be Eroding Critical Thinking Skills, According to a New MIT Study](https://time.com/7295195/ai-chatgpt-google-learning-school/)
+- [Is This Phone Blocked?](https://isthisphoneblocked.net.au/)
+- [Data Center Energy Needs Could Upend Power Grids and Threaten the Climate](https://www.eesi.org/articles/view/data-center-energy-needs-are-upending-power-grids-and-threatening-the-climate)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

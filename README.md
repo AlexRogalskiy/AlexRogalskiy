@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [TI to invest &gt;$60B to manufacture foundational semiconductors in the U.S.](https://www.ti.com/about-ti/newsroom/news-releases/2025/texas-instruments-plans-to-invest-more-than--60-billion-to-manufacture-billions-of-foundational-semiconductors-in-the-us.html)
-- [Andrej Karpathy: Software in the era of AI [video]](https://www.youtube.com/watch?v=LCEmiRjPEtQ)
-- [It&#39;s true, “we” don&#39;t care about accessibility on Linux](https://tesk.page/2025/06/18/its-true-we-dont-care-about-accessibility-on-linux/)
-- [MCP Specification – version 2025-06-18 changes](https://modelcontextprotocol.io/specification/2025-06-18/changelog)
-- [Show HN: Unregistry – “docker push” directly to servers without a registry](https://github.com/psviderski/unregistry)
-- [New US visa rules will force foreign students to unlock social media profiles](https://www.theguardian.com/us-news/2025/jun/18/social-media-student-visa-screening)
-- [Fang, the CLI Starter Kit](https://github.com/charmbracelet/fang)
-- [A deep-dive explainer on Ink and Switch&#39;s BeeKEM protocol](https://meri.garden/a-deep-dive-explainer-on-beekem-protocol/)
-- [The Missing 11th of the Month](https://drhagen.com/blog/the-missing-11th-of-the-month/)
-- [Bento: A Steam Deck in a Keyboard](https://github.com/lunchbox-computer/bento)
+- [Show HN: ATAC, an event verification platform evidence based](https://atac.seraum.com)
+- [FedFlix — Public Domain Stock Footage Library](https://public.resource.org/ntis.gov/index.html)
+- [Open source can&#39;t coordinate](https://matklad.github.io/2025/05/20/open-source-cant-coordinate.html)
+- [Infinite Mac OS X](https://blog.persistent.info/2025/03/infinite-mac-os-x.html)
+- [Sunsonic 986-II – A Thai Famicom clone with keyboard and mini CRT built-in](https://mastodon.gamedev.place/@pikuma/114711138512697712)
+- [Giant, All-Seeing Telescope Is Set to Revolutionize Astronomy](https://www.science.org/content/article/giant-all-seeing-telescope-set-revolutionize-astronomy)
+- [Show HN: I wrote a new BitTorrent tracker in Elixir](https://github.com/Dahrkael/ExTracker)
+- [Literate programming tool for any language](https://github.com/zyedidia/Literate)
+- [Compiling LLMs into a MegaKernel: A path to low-latency inference](https://zhihaojia.medium.com/compiling-llms-into-a-megakernel-a-path-to-low-latency-inference-cf7840913c17)
+- [Show HN: EnrichMCP – A Python ORM for Agents](https://github.com/featureform/enrichmcp)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

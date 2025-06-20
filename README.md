@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Trump says Iran deal ‘could still happen’ and claims Tehran was ‘a few weeks away’ from nuclear weapon – Israel-Iran conflict live](https://www.theguardian.com/world/live/2025/jun/18/iran-israel-live-updates-air-strikes-tehran-trump-khamenei-middle-east-latest-news)
-- [Ukraine war briefing: Russia can defend itself, says Putin, as North Korea sends more soldiers](https://www.theguardian.com/world/2025/jun/19/ukraine-war-briefing-russia-can-defend-itself-says-putin-as-north-korea-sends-more-soldiers)
-- [Bear necessity: lid stuck around US animal’s neck removed after two years](https://www.theguardian.com/us-news/2025/jun/18/michigan-bear-lid-removed)
-- [New Zealand halts millions of dollars in aid to Cook Islands over deals struck with China](https://www.theguardian.com/world/2025/jun/19/new-zealand-halts-millions-of-dollars-in-aid-to-cook-islands-over-deals-struck-with-china)
-- [Cambodia bans fruit imports and soap operas from Thailand as border dispute sours](https://www.theguardian.com/world/2025/jun/19/cambodia-bans-fruit-imports-and-soap-operas-from-thailand-as-border-dispute-sours)
-- [UK watchdog criticises ‘offensive’ portrayal of older people in adverts](https://www.theguardian.com/media/2025/jun/19/uk-advertising-standards-authority-criticises-offensive-portrayal-older-people-adverts)
-- [Portraits so powerful they override reality – Jenny Saville: The Anatomy of Painting review](https://www.theguardian.com/artanddesign/2025/jun/19/jenny-saville-the-anatomy-of-painting-review-national-portrait-gallery-london)
-- [English universities barred from enforcing blanket bans on student protests](https://www.theguardian.com/education/2025/jun/19/universities-england-student-protests-guidance-regulations)
-- [Only two years left of world’s carbon budget to meet 1.5C target, scientists warn](https://www.theguardian.com/environment/2025/jun/18/only-two-years-left-of-world-carbon-budget-to-meet-15c-target-scientists-warn-climate-crisis)
-- [Scottish government faces legal action over failure to implement biological sex ruling](https://www.theguardian.com/society/2025/jun/18/scottish-government-given-deadline-to-implement-ruling-on-biological-sex)
+- [A climate crisis, a ballot, and a chance at a new life in Australia](https://www.theguardian.com/environment/2025/jun/20/tuvalu-climate-crisis-australia-visa-ballot)
+- [David Lynch’s belongings fetch $4.25m at auction, including scripts for unfinished film](https://www.theguardian.com/film/2025/jun/20/david-lynch-auction-belongings)
+- [Ukraine war briefing: Russia ‘on verge of recession’, Putin minister tells economic showcase](https://www.theguardian.com/world/2025/jun/20/ukraine-war-briefing-russia-on-verge-of-recession-putin-minister-tells-economic-showcase)
+- [Thai PM apologises over leaked call with Hun Sen as crisis threatens to topple government](https://www.theguardian.com/world/2025/jun/20/thai-prime-minister-paetongtarn-shinawatra-apologises-phone-leak-crisis-cambodia-hun-sen)
+- [UK consumer confidence up but fragile amid tariff and Middle East concerns](https://www.theguardian.com/business/2025/jun/20/uk-consumer-confidence-figures-analysis)
+- [Fire chiefs warn of barbecue wildfire risk amid amber heat alerts in England](https://www.theguardian.com/world/2025/jun/20/fire-chiefs-warn-of-barbecue-wildfire-risk-amid-amber-heat-alerts-in-england)
+- [Trump sets deadline of two weeks to decide if US will join Israel’s war on Iran](https://www.theguardian.com/world/2025/jun/19/israel-attacks-irans-arak-heavy-water-reactor-as-iran-hits-israeli-hospital)
+- [Thawing of relations between Pakistan and US raises eyebrows in India](https://www.theguardian.com/world/2025/jun/19/thawing-of-relations-between-pakistan-and-us-raises-eyebrows-in-india)
+- [Judge blocks Trump plan to tie states’ transportation funds to immigration enforcement](https://www.theguardian.com/us-news/2025/jun/19/transportation-funds-immigration-enforcement-trump-lawsuit)
+- [Pushers review – Rosie Jones’s hilarious disability drug sitcom is pure silliness](https://www.theguardian.com/tv-and-radio/2025/jun/19/pushers-review-channel-4-rosie-jones-disability-drug-sitcom)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

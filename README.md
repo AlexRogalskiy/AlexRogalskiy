@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Bigfoot vlog – meet my alien friend Zorp](https://www.youtube.com/watch?v=l9yTiGIenDQ)
-- [Most LLMs return the same answer in number guessing game](https://twitter.com/karpathy/status/1935404600653492484)
-- [Deciphering Stuxnet, the Most Menacing Malware in History &lpar;2011&rpar;](https://web.archive.org/web/20190221072236/https://www.wired.com/2011/07/how-digital-detectives-deciphered-stuxnet/)
-- [How to Legislate in a Half-Known World](https://www.afterbabel.com/p/legislate-half-known-world)
-- [Gemini 2.5 Pro: From 0506 to 0605](https://thezvi.substack.com/p/gemini-25-pro-from-0506-to-0605)
-- [What is Europe? A secret history of the world](https://samkriss.substack.com/p/what-is-europe)
-- [Adaptive Control and the NASA X–15 Program: A Concise History [pdf]](https://skoge.folk.ntnu.no/prost/proceedings/acc08/data/papers/0086.pdf)
-- [ChatGPT May Be Eroding Critical Thinking Skills, According to a New MIT Study](https://time.com/7295195/ai-chatgpt-google-learning-school/)
-- [Is This Phone Blocked?](https://isthisphoneblocked.net.au/)
-- [Data Center Energy Needs Could Upend Power Grids and Threaten the Climate](https://www.eesi.org/articles/view/data-center-energy-needs-are-upending-power-grids-and-threatening-the-climate)
+- [I Hate Conventional Commits](https://beyermatthias.de/i-hate-conventional-commits)
+- [Local High School Radio Station KVHS to go dark at the end of the month](https://sites.google.com/view/theendofkvhs/home)
+- [Claude Code, not only for Devs](https://hackertarget.com/claude-code-more-than-coding/)
+- [Show HN: Ts-SSH – SSH over Tailscale without running the daemon](https://github.com/derekg/ts-ssh)
+- [A developer&#39;s guide to AI protocols](https://www.infoworld.com/article/4007686/a-developers-guide-to-ai-protocols-mcp-a2a-and-acp.html)
+- [PSA: Codex crossed 350K GitHub PRs merged](https://twitter.com/anjneymidha/status/1935865723328590229)
+- [Zig and Rust](https://matklad.github.io/2023/03/26/zig-and-rust.html)
+- [Show HN: What would you do if you were given Half Billion Dollar?](https://hbdq.ddgr3.com/)
+- [Learning-based density-equalizing map](https://arxiv.org/abs/2506.10027)
+- [Crystal: An IVE: Integrated Vibe Environment](https://github.com/stravu/crystal)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

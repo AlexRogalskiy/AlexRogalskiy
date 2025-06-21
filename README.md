@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [I Hate Conventional Commits](https://beyermatthias.de/i-hate-conventional-commits)
-- [Local High School Radio Station KVHS to go dark at the end of the month](https://sites.google.com/view/theendofkvhs/home)
-- [Claude Code, not only for Devs](https://hackertarget.com/claude-code-more-than-coding/)
-- [Show HN: Ts-SSH – SSH over Tailscale without running the daemon](https://github.com/derekg/ts-ssh)
-- [A developer&#39;s guide to AI protocols](https://www.infoworld.com/article/4007686/a-developers-guide-to-ai-protocols-mcp-a2a-and-acp.html)
-- [PSA: Codex crossed 350K GitHub PRs merged](https://twitter.com/anjneymidha/status/1935865723328590229)
-- [Zig and Rust](https://matklad.github.io/2023/03/26/zig-and-rust.html)
-- [Show HN: What would you do if you were given Half Billion Dollar?](https://hbdq.ddgr3.com/)
-- [Learning-based density-equalizing map](https://arxiv.org/abs/2506.10027)
-- [Crystal: An IVE: Integrated Vibe Environment](https://github.com/stravu/crystal)
+- [Show HN: Money Keeper – A Small Expense Tracker for iPhone, iPad, and Mac](https://apps.apple.com/us/app/money-keeper-expenses-tracker/id6514279917)
+- [The Clash Between Technology and Ecology](https://www.noemamag.com/the-clash-between-technology-ecology/)
+- [Wazuh CJIS Ruleset – Modular Compliance Rules for FBI CJIS Security Policy](https://github.com/TristanGNS/wazuh-cjis-rules)
+- [Bridging the Tech Divide from Vision to Reality](https://www.tigranmuradyants.com/post/bridging-the-tech-divide-from-vision-to-reality)
+- [debi: reinstall your VPS to minimal Debian](https://github.com/bohanyang/debi)
+- [Why Trading Edge Alone Won&#39;t Make You Profitable](https://www.fractiz.com/trading-performance-ladder/)
+- [Tabs and Makefile &lpar;2015&rpar;](https://beebo.org/haycorn/2015-04-20_tabs-and-makefiles.html)
+- [Jake Dot Museum](https://jake.museum/)
+- [Avoiding generative models is the rational and responsible thing to do](https://www.baldurbjarnason.com/2025/followup-on-trusting-your-own-judgement/)
+- [Semantic-Segment-Anything](https://replicate.com/cjwbw/semantic-segment-anything)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Show HN: ATAC, an event verification platform evidence based](https://atac.seraum.com)
-- [FedFlix — Public Domain Stock Footage Library](https://public.resource.org/ntis.gov/index.html)
-- [Open source can&#39;t coordinate](https://matklad.github.io/2025/05/20/open-source-cant-coordinate.html)
-- [Infinite Mac OS X](https://blog.persistent.info/2025/03/infinite-mac-os-x.html)
-- [Sunsonic 986-II – A Thai Famicom clone with keyboard and mini CRT built-in](https://mastodon.gamedev.place/@pikuma/114711138512697712)
-- [Giant, All-Seeing Telescope Is Set to Revolutionize Astronomy](https://www.science.org/content/article/giant-all-seeing-telescope-set-revolutionize-astronomy)
-- [Show HN: I wrote a new BitTorrent tracker in Elixir](https://github.com/Dahrkael/ExTracker)
-- [Literate programming tool for any language](https://github.com/zyedidia/Literate)
-- [Compiling LLMs into a MegaKernel: A path to low-latency inference](https://zhihaojia.medium.com/compiling-llms-into-a-megakernel-a-path-to-low-latency-inference-cf7840913c17)
-- [Show HN: EnrichMCP – A Python ORM for Agents](https://github.com/featureform/enrichmcp)
+- [Texas Sheriffs Crack Bitcoin ATM with Power Tools to Retrieve $32,000](https://decrypt.co/326308/texas-sheriffs-crack-bitcoin-atm-with-power-tools-to-retrieve-32000)
+- [Learn You Galois Fields for Great Good &lpar;00&rpar;](https://xorvoid.com/galois_fields_for_great_good_00.html)
+- [Fix &quot;pulsing&quot; sensation when charging MacBook](https://old.reddit.com/r/apple/comments/1lgaw7m/psa_if_when_charging_your_macbook_you_get_a/)
+- [AbsenceBench: Language models can&#39;t tell what&#39;s missing](https://arxiv.org/abs/2506.11440)
+- [AMD&#39;s Freshly-Baked MI350: An Interview with the Chief Architect](https://chipsandcheese.com/p/amds-freshly-baked-mi350-an-interview)
+- [Wiki Radio: The thrilling sound of random Wikipedia](https://www.monkeon.co.uk/wikiradio/)
+- [BYD begins testing solid-state EV batteries in the Seal](https://electrek.co/2025/06/20/byd-tests-solid-state-batteries-seal-ev-with-1000-miles-range/)
+- [Show HN: Inspect and extract files from MSI installers directly in your browser](https://pymsi.readthedocs.io/en/latest/msi_viewer.html)
+- [Harper – an open-source alternative to Grammarly](https://writewithharper.com)
+- [Smartphones: Parts of Our Minds? Or Parasites?](https://www.tandfonline.com/doi/full/10.1080/00048402.2025.2504070)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

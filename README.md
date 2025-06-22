@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: Money Keeper – A Small Expense Tracker for iPhone, iPad, and Mac](https://apps.apple.com/us/app/money-keeper-expenses-tracker/id6514279917)
-- [The Clash Between Technology and Ecology](https://www.noemamag.com/the-clash-between-technology-ecology/)
-- [Wazuh CJIS Ruleset – Modular Compliance Rules for FBI CJIS Security Policy](https://github.com/TristanGNS/wazuh-cjis-rules)
-- [Bridging the Tech Divide from Vision to Reality](https://www.tigranmuradyants.com/post/bridging-the-tech-divide-from-vision-to-reality)
-- [debi: reinstall your VPS to minimal Debian](https://github.com/bohanyang/debi)
-- [Why Trading Edge Alone Won&#39;t Make You Profitable](https://www.fractiz.com/trading-performance-ladder/)
-- [Tabs and Makefile &lpar;2015&rpar;](https://beebo.org/haycorn/2015-04-20_tabs-and-makefiles.html)
-- [Jake Dot Museum](https://jake.museum/)
-- [Avoiding generative models is the rational and responsible thing to do](https://www.baldurbjarnason.com/2025/followup-on-trusting-your-own-judgement/)
-- [Semantic-Segment-Anything](https://replicate.com/cjwbw/semantic-segment-anything)
+- [Discover C++26&#39;s compile-time reflection](https://lemire.me/blog/2025/06/22/c26-will-include-compile-time-reflection-why-should-you-care/)
+- [Eion: Shared Memory Storage for Multi-Agent Systems](https://github.com/eiondb/eion)
+- [Rediscovered forgotten Viking spear bows [video]](https://www.youtube.com/watch?v=JmFxbYtkJUM)
+- [TPU Deep Dive](https://henryhmko.github.io/posts/tpu/tpu.html)
+- [Engineer creates first custom motherboard for 1990s PlayStation console](https://arstechnica.com/gaming/2025/06/engineer-creates-first-custom-motherboard-for-1990s-playstation-console/)
+- [Emacs ASCII Cube](https://github.com/bchatterjee99/emacs-ascii-cube)
+- [SHOW HN:15Yo makes money off his SaaS after 2 years](https://www.exceltutor.pro/)
+- [Harvard hired researcher to uncover ties to slavery. &#39;We found too many slaves&#39;](https://www.theguardian.com/news/2025/jun/21/harvard-slavery-decendants-of-the-enslaved)
+- [Carbon trading has become an easy target for organized crime](https://english.elpais.com/climate/2025-06-20/sasa-braun-interpol-agent-carbon-trading-has-become-an-easy-target-for-organized-crime.html)
+- [Sound As Pure Form: Music Language Inspired by Supercollider, APL, and Forth](https://github.com/lfnoise/sapf)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

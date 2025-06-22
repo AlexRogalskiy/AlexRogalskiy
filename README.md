@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Mahmoud Khalil released from Ice detention after more than three months](https://www.theguardian.com/us-news/2025/jun/20/mahmoud-khalil-release-federal-judge)
-- [Accidental foraging, reasonable doubt and ‘lies upon lies’: Erin Patterson jury hears week of closing submissions in triple-murder trial](https://www.theguardian.com/australia-news/2025/jun/21/accidental-foraging-reasonable-doubt-and-lies-upon-lies-erin-patterson-jury-hears-week-of-closing-submissions-in-triple-murder-trial-ntwnfb)
-- [Ghibli’s midlife crisis: as beloved Japanese studio turns 40 will the magic fade?](https://www.theguardian.com/film/2025/jun/21/ghiblis-midlife-crisis-as-beloved-japanese-studio-turns-40-will-the-magic-fade)
-- [All babies in England to get DNA test to assess risk of diseases within 10 years](https://www.theguardian.com/science/2025/jun/20/all-babies-in-england-to-get-dna-test-to-assess-risk-of-diseases-within-10-years)
-- [‘Turning into a little Finland’: chilly New Zealand gets the hots for beachside saunas](https://www.theguardian.com/world/2025/jun/21/turning-into-a-little-finland-chilly-new-zealand-gets-the-hots-for-beachside-saunas)
-- [Pornhub and other adult sites back online in France after three-week protest](https://www.theguardian.com/world/2025/jun/20/pornhub-back-online-france)
-- [Iran says diplomacy with US only possible if Israeli aggression stops](https://www.theguardian.com/world/2025/jun/20/iran-says-diplomacy-with-us-only-possible-if-israeli-aggression-stops)
-- [Lions handed wake-up call as Argentina hang on to edge thrilling win in Dublin](https://www.theguardian.com/sport/2025/jun/20/british-and-irish-lions-argentina-international-rugby-union-friendly-match-report)
-- [Impressive St Helens sink Leeds to relieve pressure on Paul Wellens](https://www.theguardian.com/sport/2025/jun/20/st-helens-leeds-super-league-match-report-rugby-league)
-- [Noel Edmonds’ Kiwi Adventure review – Mr Blobby meets crystal healing in this ‘rocking’ TV return](https://www.theguardian.com/tv-and-radio/2025/jun/20/noel-edmonds-kiwi-adventure-review-itv)
+- [Israel-Iran war live: Trump says Iran’s key nuclear facilities ‘obliterated’ in US strikes and that Tehran must now make peace](https://www.theguardian.com/world/live/2025/jun/22/israel-iran-war-live-trump-says-us-has-attacked-nuclear-sites-in-iran-including-fordow)
+- [Ukraine war briefing: Russia repatriated at least 20 of its own dead soldiers in recent exchanges, Zelenskyy says](https://www.theguardian.com/world/2025/jun/22/ukraine-war-briefing-russia-repatriated-at-least-20-of-its-own-dead-soldiers-in-recent-exchanges-zelenskyy-says)
+- [What is Iran’s Fordow nuclear site and why did Israel want a US strike?](https://www.theguardian.com/world/2025/jun/22/what-is-irans-fordow-nuclear-site-and-why-was-a-us-strike-needed)
+- [Cheering support and instant condemnation: US lawmakers respond to attack on Iran](https://www.theguardian.com/world/2025/jun/21/us-lawmakers-respond-us-attack-on-iran)
+- [Donald Trump says US has attacked three Iranian nuclear sites and ‘totally obliterated’ them](https://www.theguardian.com/world/2025/jun/21/trump-us-nuclear-strikes-iran)
+- [Trump announces US strikes on Iran: what we know so far](https://www.theguardian.com/world/2025/jun/22/trump-announces-us-strikes-on-iran-what-we-know-so-far-fordow-israel-nuclear)
+- [Santi Cazorla scores in playoff as Real Oviedo end 24-year wait for La Liga return](https://www.theguardian.com/football/2025/jun/22/santi-cazorla-scores-in-playoff-as-real-oviedo-end-24-year-wait-for-la-liga-return)
+- [When I think about the burglar menacing my mother, the memories are slippery. She wasn’t chirping. She was screaming](https://www.theguardian.com/lifeandstyle/2025/jun/22/when-i-think-about-the-burglar-menacing-my-mother-the-memories-are-slippery-she-wasnt-chirping-she-was-screaming)
+- [New Texas law requires Ten Commandments to be displayed in classrooms](https://www.theguardian.com/us-news/2025/jun/21/texas-ten-commandments-law)
+- [UK government unveils £275m investment in training and apprenticeships in England](https://www.theguardian.com/politics/2025/jun/22/uk-government-unveils-275m-boost-to-training-and-apprenticeships-in-england)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

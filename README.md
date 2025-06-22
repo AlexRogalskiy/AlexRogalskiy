@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Texas Sheriffs Crack Bitcoin ATM with Power Tools to Retrieve $32,000](https://decrypt.co/326308/texas-sheriffs-crack-bitcoin-atm-with-power-tools-to-retrieve-32000)
-- [Learn You Galois Fields for Great Good &lpar;00&rpar;](https://xorvoid.com/galois_fields_for_great_good_00.html)
-- [Fix &quot;pulsing&quot; sensation when charging MacBook](https://old.reddit.com/r/apple/comments/1lgaw7m/psa_if_when_charging_your_macbook_you_get_a/)
-- [AbsenceBench: Language models can&#39;t tell what&#39;s missing](https://arxiv.org/abs/2506.11440)
-- [AMD&#39;s Freshly-Baked MI350: An Interview with the Chief Architect](https://chipsandcheese.com/p/amds-freshly-baked-mi350-an-interview)
-- [Wiki Radio: The thrilling sound of random Wikipedia](https://www.monkeon.co.uk/wikiradio/)
-- [BYD begins testing solid-state EV batteries in the Seal](https://electrek.co/2025/06/20/byd-tests-solid-state-batteries-seal-ev-with-1000-miles-range/)
-- [Show HN: Inspect and extract files from MSI installers directly in your browser](https://pymsi.readthedocs.io/en/latest/msi_viewer.html)
-- [Harper – an open-source alternative to Grammarly](https://writewithharper.com)
-- [Smartphones: Parts of Our Minds? Or Parasites?](https://www.tandfonline.com/doi/full/10.1080/00048402.2025.2504070)
+- [Sound As Pure Form: Music Language Inspired by Supercollider, APL, and Forth](https://github.com/lfnoise/sapf)
+- [Don&#39;t Read This If You Have a Security Clearance &lpar;2023&rpar;](https://www.theatlantic.com/ideas/archive/2023/05/leaked-documents-security-clearance-defense/674031/)
+- [U.S. has bombed Fordo nuclear plant in attack on Iran](https://www.bbc.co.uk/news/live/ckg3rzj8emjt)
+- [See Jane 128 by Arktronics run &lpar;ft. Magic Desk, 3-Plus-1 and the Thomson MO5&rpar;](http://oldvcr.blogspot.com/2025/06/see-jane-128-by-arktronics-run.html)
+- [LaborBerlin: State-of-the-Art 16mm Projector](https://www.filmlabs.org/wiki/en/meetings_projects/spectral/laborberlin16mmprojector/start)
+- [AI is ushering in a &#39;tiny team&#39; era](https://www.bloomberg.com/news/articles/2025-06-20/ai-is-ushering-in-the-tiny-team-era-in-silicon-valley)
+- [AllTracker: Efficient Dense Point Tracking at High Resolution](https://alltracker.github.io/)
+- [Weave &lpar;YC W25&rpar; is hiring a founding AI engineer](https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer)
+- [Balatro for the Nintendo E-Reader](https://mattgreer.dev/blog/balatro-for-the-nintendo-ereader/)
+- [Tell HN: Beware confidentiality agreements that act as lifetime non competes](https://news.ycombinator.com/item?id=44338562)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

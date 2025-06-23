@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Israel-Iran war live: Trump says Iran’s key nuclear facilities ‘obliterated’ in US strikes and that Tehran must now make peace](https://www.theguardian.com/world/live/2025/jun/22/israel-iran-war-live-trump-says-us-has-attacked-nuclear-sites-in-iran-including-fordow)
-- [Ukraine war briefing: Russia repatriated at least 20 of its own dead soldiers in recent exchanges, Zelenskyy says](https://www.theguardian.com/world/2025/jun/22/ukraine-war-briefing-russia-repatriated-at-least-20-of-its-own-dead-soldiers-in-recent-exchanges-zelenskyy-says)
-- [What is Iran’s Fordow nuclear site and why did Israel want a US strike?](https://www.theguardian.com/world/2025/jun/22/what-is-irans-fordow-nuclear-site-and-why-was-a-us-strike-needed)
-- [Cheering support and instant condemnation: US lawmakers respond to attack on Iran](https://www.theguardian.com/world/2025/jun/21/us-lawmakers-respond-us-attack-on-iran)
-- [Donald Trump says US has attacked three Iranian nuclear sites and ‘totally obliterated’ them](https://www.theguardian.com/world/2025/jun/21/trump-us-nuclear-strikes-iran)
-- [Trump announces US strikes on Iran: what we know so far](https://www.theguardian.com/world/2025/jun/22/trump-announces-us-strikes-on-iran-what-we-know-so-far-fordow-israel-nuclear)
-- [Santi Cazorla scores in playoff as Real Oviedo end 24-year wait for La Liga return](https://www.theguardian.com/football/2025/jun/22/santi-cazorla-scores-in-playoff-as-real-oviedo-end-24-year-wait-for-la-liga-return)
-- [When I think about the burglar menacing my mother, the memories are slippery. She wasn’t chirping. She was screaming](https://www.theguardian.com/lifeandstyle/2025/jun/22/when-i-think-about-the-burglar-menacing-my-mother-the-memories-are-slippery-she-wasnt-chirping-she-was-screaming)
-- [New Texas law requires Ten Commandments to be displayed in classrooms](https://www.theguardian.com/us-news/2025/jun/21/texas-ten-commandments-law)
-- [UK government unveils £275m investment in training and apprenticeships in England](https://www.theguardian.com/politics/2025/jun/22/uk-government-unveils-275m-boost-to-training-and-apprenticeships-in-england)
+- [NBA finals 2025 Game 7: Thunder beat Pacers to claim title – live updates](https://www.theguardian.com/sport/live/2025/jun/22/indiana-pacers-v-oklahoma-city-thunder-nba-finals-game-7-live-updates)
+- [Israel-Iran war live: Trump floats regime change to ‘make Iran great again’ as region braces for Iranian response to US strikes](https://www.theguardian.com/world/live/2025/jun/23/israel-iran-war-live-updates-us-trump-regime-change-middle-east-gaza-latest-news)
+- [Manchester City dominates Al Ain in 6-0 Club World Cup victory – as it happened](https://www.theguardian.com/football/live/2025/jun/22/manchester-city-v-al-ain-club-world-cup-updates-live)
+- [Europeans back higher defence spending amid Russia threat, poll finds](https://www.theguardian.com/world/2025/jun/23/europeans-back-higher-military-spending-russia-threat-poll)
+- [The strait of Hormuz: what is it, and why does it matter to global trade?](https://www.theguardian.com/world/2025/jun/23/what-is-the-strait-of-hormuz-iran-threat-close-global-trade-oil-shipping)
+- [Arrests in France after scores report being attacked with syringes at street music festival](https://www.theguardian.com/world/2025/jun/23/france-syringe-attacks-street-music-festival-fete-de-la-musique)
+- [US-Iran crisis: what we know so far](https://www.theguardian.com/world/2025/jun/23/us-iran-crisis-what-we-know-so-far)
+- [Elio gives Pixar its worst ever box-office opening despite positive reviews](https://www.theguardian.com/film/2025/jun/23/elio-gives-pixar-its-worst-ever-box-office-opening-despite-positive-reviews)
+- [Judge orders release of Kilmar Ábrego García as he awaits federal trial](https://www.theguardian.com/us-news/2025/jun/22/judge-orders-kilmar-abrego-garcia-release-tennessee)
+- [Mahmoud Khalil renews devotion to Palestinian freedom at New York rally](https://www.theguardian.com/us-news/2025/jun/22/mahmoud-khalil-columbia-new-york-speech-rally)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

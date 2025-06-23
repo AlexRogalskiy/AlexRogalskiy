@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Sound As Pure Form: Music Language Inspired by Supercollider, APL, and Forth](https://github.com/lfnoise/sapf)
-- [Don&#39;t Read This If You Have a Security Clearance &lpar;2023&rpar;](https://www.theatlantic.com/ideas/archive/2023/05/leaked-documents-security-clearance-defense/674031/)
-- [U.S. has bombed Fordo nuclear plant in attack on Iran](https://www.bbc.co.uk/news/live/ckg3rzj8emjt)
-- [See Jane 128 by Arktronics run &lpar;ft. Magic Desk, 3-Plus-1 and the Thomson MO5&rpar;](http://oldvcr.blogspot.com/2025/06/see-jane-128-by-arktronics-run.html)
-- [LaborBerlin: State-of-the-Art 16mm Projector](https://www.filmlabs.org/wiki/en/meetings_projects/spectral/laborberlin16mmprojector/start)
-- [AI is ushering in a &#39;tiny team&#39; era](https://www.bloomberg.com/news/articles/2025-06-20/ai-is-ushering-in-the-tiny-team-era-in-silicon-valley)
-- [AllTracker: Efficient Dense Point Tracking at High Resolution](https://alltracker.github.io/)
-- [Weave &lpar;YC W25&rpar; is hiring a founding AI engineer](https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer)
-- [Balatro for the Nintendo E-Reader](https://mattgreer.dev/blog/balatro-for-the-nintendo-ereader/)
-- [Tell HN: Beware confidentiality agreements that act as lifetime non competes](https://news.ycombinator.com/item?id=44338562)
+- [Polystate: Composable Finite State Machines](https://github.com/sdzx-1/polystate)
+- [Tensor Manipulation Unit &lpar;TMU&rpar;: Reconfigurable, Near-Memory, High-Throughput AI](https://arxiv.org/abs/2506.14364)
+- [Optifye.ai &lpar;YC W25&rpar; – Founding Back End Engineer](https://news.ycombinator.com/item?id=44351580)
+- [Using Wave Function Collapse to solve puzzle map generation at scale](https://sublevelgames.github.io/blogs/2025-06-22-nurikabe-map-gen-with-wfc/)
+- [Finding a billion factorials in 60 ms with SIMD](https://codeforces.com/blog/entry/143279)
+- [Hawaii Highways](http://www.hawaiihighways.com/)
+- [Radio Garden](https://radio.garden/?2025)
+- [Bluetooth Jammer](https://github.com/EmenstaNougat/ESP32-BlueJammer)
+- [I wrote my PhD Thesis in Typst](https://fransskarman.com/phd_thesis_in_typst.html)
+- [Using Home Assistant, adguard home and an $8 smart outlet to avoid brain rot](https://www.romanklasen.com/blog/beating-brainrot-by-button/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

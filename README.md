@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Discover C++26&#39;s compile-time reflection](https://lemire.me/blog/2025/06/22/c26-will-include-compile-time-reflection-why-should-you-care/)
-- [Eion: Shared Memory Storage for Multi-Agent Systems](https://github.com/eiondb/eion)
-- [Rediscovered forgotten Viking spear bows [video]](https://www.youtube.com/watch?v=JmFxbYtkJUM)
-- [TPU Deep Dive](https://henryhmko.github.io/posts/tpu/tpu.html)
-- [Engineer creates first custom motherboard for 1990s PlayStation console](https://arstechnica.com/gaming/2025/06/engineer-creates-first-custom-motherboard-for-1990s-playstation-console/)
-- [Emacs ASCII Cube](https://github.com/bchatterjee99/emacs-ascii-cube)
-- [SHOW HN:15Yo makes money off his SaaS after 2 years](https://www.exceltutor.pro/)
-- [Harvard hired researcher to uncover ties to slavery. &#39;We found too many slaves&#39;](https://www.theguardian.com/news/2025/jun/21/harvard-slavery-decendants-of-the-enslaved)
-- [Carbon trading has become an easy target for organized crime](https://english.elpais.com/climate/2025-06-20/sasa-braun-interpol-agent-carbon-trading-has-become-an-easy-target-for-organized-crime.html)
-- [Sound As Pure Form: Music Language Inspired by Supercollider, APL, and Forth](https://github.com/lfnoise/sapf)
+- [A challenge to Eli Lilly&#39;s Tirzepatide patent](https://glp1.guide/content/a-challenge-to-eli-lillys-tirzepatide-patent/)
+- [Psyche keeps its date with an asteroid, but now it&#39;s running in backup mode](https://arstechnica.com/space/2025/06/psyche-keeps-its-date-with-an-asteroid-but-now-its-running-in-backup-mode/)
+- [Thirty Minutes with a Stranger](https://pudding.cool/2025/06/hello-stranger/)
+- [Show HN: No sign up catchy temporary url shorterner](https://typit.in)
+- [I fight bots in my free time](https://xeiaso.net/talks/2025/bsdcan-anubis/)
+- [Gemini MCP for Claude Code](https://github.com/emmron/gemini-mcp)
+- [Reinforcement Learning Teachers of Test Time Scaling](https://sakana.ai/rlt/)
+- [Stablecoins Undermine Decentralization and the Vision for Financial Freedom](https://news.bitcoinprotocol.org/stablecoins-undermine-decentralization-and-the-vision-for-financial-freedom/)
+- [Chinese military robotics lab creates mosquito-sized drone for covert operations](https://www.scmp.com/news/china/science/article/3315206/chinese-military-robotics-lab-creates-mosquito-sized-microdrone-covert-operations)
+- [What happens when AI comes for our fonts?](https://www.theverge.com/ai-artificial-intelligence/688637/typography-fonts-ai)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

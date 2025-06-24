@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Polystate: Composable Finite State Machines](https://github.com/sdzx-1/polystate)
-- [Tensor Manipulation Unit &lpar;TMU&rpar;: Reconfigurable, Near-Memory, High-Throughput AI](https://arxiv.org/abs/2506.14364)
-- [Optifye.ai &lpar;YC W25&rpar; – Founding Back End Engineer](https://news.ycombinator.com/item?id=44351580)
-- [Using Wave Function Collapse to solve puzzle map generation at scale](https://sublevelgames.github.io/blogs/2025-06-22-nurikabe-map-gen-with-wfc/)
-- [Finding a billion factorials in 60 ms with SIMD](https://codeforces.com/blog/entry/143279)
-- [Hawaii Highways](http://www.hawaiihighways.com/)
-- [Radio Garden](https://radio.garden/?2025)
-- [Bluetooth Jammer](https://github.com/EmenstaNougat/ESP32-BlueJammer)
-- [I wrote my PhD Thesis in Typst](https://fransskarman.com/phd_thesis_in_typst.html)
-- [Using Home Assistant, adguard home and an $8 smart outlet to avoid brain rot](https://www.romanklasen.com/blog/beating-brainrot-by-button/)
+- [Breakthrough cancer test predicts whether chemotherapy will work](https://www.telegraph.co.uk/news/2025/06/23/cancer-test-predicts-whether-chemotherapy-will-work/)
+- [Excalidraw+ Is Now SoC 2 Certified](https://plus.excalidraw.com/blog/excalidraw-soc2)
+- [Marble Blast](https://marbleblast.vaniverse.io/)
+- [Show HN: Comparator - I built a free, open-source app to compare job offers](https://comparator-one.vercel.app/)
+- [Scientists use bacteria to turn plastic waste into paracetamol](https://www.theguardian.com/science/2025/jun/23/scientists-use-e-coli-bacteria-to-turn-plastic-waste-into-paracetamol-painkiller)
+- [GitHub CEO: manual coding remains key despite AI boom](https://www.techinasia.com/news/github-ceo-manual-coding-remains-key-despite-ai-boom)
+- [Resurrecting flip phone typing as a Linux driver](https://github.com/FoxMoss/libt9)
+- [2025 Iberia Blackout Report [pdf]](https://media.licdn.com/dms/document/media/v2/D4D1FAQGcyyYYrelkNg/feedshare-document-pdf-analyzed/B4DZeBtlohGsAk-/0/1750227910090?e=1750896000&v=beta&t=uEftse3BPsTjdLQ3DmjoVkadhUGqf7-MfYj_6UnSS28)
+- [Judge denies creating “mass surveillance program” harming all ChatGPT users](https://arstechnica.com/tech-policy/2025/06/judge-rejects-claim-that-forcing-openai-to-keep-chatgpt-logs-is-mass-surveillance/)
+- [uv: An extremely fast Python package and project manager, written in Rust](https://github.com/astral-sh/uv)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [A challenge to Eli Lilly&#39;s Tirzepatide patent](https://glp1.guide/content/a-challenge-to-eli-lillys-tirzepatide-patent/)
-- [Psyche keeps its date with an asteroid, but now it&#39;s running in backup mode](https://arstechnica.com/space/2025/06/psyche-keeps-its-date-with-an-asteroid-but-now-its-running-in-backup-mode/)
-- [Thirty Minutes with a Stranger](https://pudding.cool/2025/06/hello-stranger/)
-- [Show HN: No sign up catchy temporary url shorterner](https://typit.in)
-- [I fight bots in my free time](https://xeiaso.net/talks/2025/bsdcan-anubis/)
-- [Gemini MCP for Claude Code](https://github.com/emmron/gemini-mcp)
-- [Reinforcement Learning Teachers of Test Time Scaling](https://sakana.ai/rlt/)
-- [Stablecoins Undermine Decentralization and the Vision for Financial Freedom](https://news.bitcoinprotocol.org/stablecoins-undermine-decentralization-and-the-vision-for-financial-freedom/)
-- [Chinese military robotics lab creates mosquito-sized drone for covert operations](https://www.scmp.com/news/china/science/article/3315206/chinese-military-robotics-lab-creates-mosquito-sized-microdrone-covert-operations)
-- [What happens when AI comes for our fonts?](https://www.theverge.com/ai-artificial-intelligence/688637/typography-fonts-ai)
+- [11-HarmonyOS5-SpeechKit-TextReader-Case](https://news.ycombinator.com/item?id=44362546)
+- [Viable and fertile mice generated from two sperm using epigenetic editing](https://www.pnas.org/doi/10.1073/pnas.2425307122)
+- [How to Care About Your Job When It Doesn&#39;t Care About You](https://matthogg.fyi/how-to-care-about-your-job-when-it-doesnt-care-about-you/)
+- [Wherein I Find Myself Concerned About Sparkles](https://matthogg.fyi/wherein-i-find-myself-concerned-about-sparkles/)
+- [Show HN: Sirelia – Real time diagram companion tool for coding assistants](https://www.npmjs.com/package/sirelia)
+- [The MIDL compiler still has trouble with double greater-than signs, sadly](https://devblogs.microsoft.com/oldnewthing/20250623-00/?p=111295)
+- [Hands-On Adversarial AI](https://jadidbourbaki.github.io/adversarial-ai/)
+- [Intel to Apple Silicon Transition for Mac Was Announced Five Years Ago](https://www.macrumors.com/2025/06/23/apple-silicon-announced-five-years-ago/)
+- [TCRF has been getting DDoSed](https://blog.xkeeper.net/uncategorized/tcrf-has-been-getting-ddosed/)
+- [A novel approach to password-auth without sharing the password to server](https://danieltan.weblog.lol/2025/06/password-derived-signature-authentication)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

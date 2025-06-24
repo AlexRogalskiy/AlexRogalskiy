@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [NBA finals 2025 Game 7: Thunder beat Pacers to claim title – live updates](https://www.theguardian.com/sport/live/2025/jun/22/indiana-pacers-v-oklahoma-city-thunder-nba-finals-game-7-live-updates)
-- [Israel-Iran war live: Trump floats regime change to ‘make Iran great again’ as region braces for Iranian response to US strikes](https://www.theguardian.com/world/live/2025/jun/23/israel-iran-war-live-updates-us-trump-regime-change-middle-east-gaza-latest-news)
-- [Manchester City dominates Al Ain in 6-0 Club World Cup victory – as it happened](https://www.theguardian.com/football/live/2025/jun/22/manchester-city-v-al-ain-club-world-cup-updates-live)
-- [Europeans back higher defence spending amid Russia threat, poll finds](https://www.theguardian.com/world/2025/jun/23/europeans-back-higher-military-spending-russia-threat-poll)
-- [The strait of Hormuz: what is it, and why does it matter to global trade?](https://www.theguardian.com/world/2025/jun/23/what-is-the-strait-of-hormuz-iran-threat-close-global-trade-oil-shipping)
-- [Arrests in France after scores report being attacked with syringes at street music festival](https://www.theguardian.com/world/2025/jun/23/france-syringe-attacks-street-music-festival-fete-de-la-musique)
-- [US-Iran crisis: what we know so far](https://www.theguardian.com/world/2025/jun/23/us-iran-crisis-what-we-know-so-far)
-- [Elio gives Pixar its worst ever box-office opening despite positive reviews](https://www.theguardian.com/film/2025/jun/23/elio-gives-pixar-its-worst-ever-box-office-opening-despite-positive-reviews)
-- [Judge orders release of Kilmar Ábrego García as he awaits federal trial](https://www.theguardian.com/us-news/2025/jun/22/judge-orders-kilmar-abrego-garcia-release-tennessee)
-- [Mahmoud Khalil renews devotion to Palestinian freedom at New York rally](https://www.theguardian.com/us-news/2025/jun/22/mahmoud-khalil-columbia-new-york-speech-rally)
+- [Israel-Iran war live: Trump declares ceasefire in ‘12-day war’; IDF reports Iranian missile launches](https://www.theguardian.com/world/live/2025/jun/24/israel-iran-war-live-updates-trump-declares-ceasefire-tehran-attack-us-base-qatar)
+- [300-year-old painting in the Uffizi damaged after visitor trips while trying to ‘make a meme’](https://www.theguardian.com/artanddesign/2025/jun/24/300-year-old-painting-in-the-uffizi-damaged-after-visitor-trips-while-trying-to-make-a-meme-ntwnfb)
+- [Mick Ralphs, founding member of Mott the Hoople and Bad Company, dies aged 81](https://www.theguardian.com/music/2025/jun/24/mick-ralphs-dies-aged-81-english-guitarist-dead)
+- [Women’s Euro 2025 team guides: Norway](https://www.theguardian.com/football/2025/jun/24/womens-euro-2025-team-guides-norway)
+- [Atlético Madrid eliminated from Club World Cup as PSG and Botafogo advance from Group B](https://www.theguardian.com/football/2025/jun/23/club-world-cup-atletico-madrid-psg-lionel-messi-inter-miami)
+- [UK will commit to spending 5% of GDP on defence by 2035](https://www.theguardian.com/politics/2025/jun/23/uk-will-commit-to-spending-5-of-gdp-on-defence-by-2035)
+- [Tottenham eye Eberechi Eze as statement signing for Thomas Frank](https://www.theguardian.com/football/2025/jun/23/tottenham-eberechi-eze-crystal-palace-transfer-window)
+- [Tens of millions swelter as heatwave blankets the central and eastern US](https://www.theguardian.com/us-news/2025/jun/23/extreme-heat-warning-advisory)
+- [Canada and EU sign defence pact amid strained US relations and global instability](https://www.theguardian.com/world/2025/jun/23/canada-eu-defense-trump-us-allies)
+- [The Gilded Age review – so gloriously soapy the suds practically foam on the screen](https://www.theguardian.com/tv-and-radio/2025/jun/23/the-gilded-age-review-so-gloriously-soapy-the-suds-practically-foam-on-the-screen)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

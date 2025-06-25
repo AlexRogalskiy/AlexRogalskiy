@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Breakthrough cancer test predicts whether chemotherapy will work](https://www.telegraph.co.uk/news/2025/06/23/cancer-test-predicts-whether-chemotherapy-will-work/)
-- [Excalidraw+ Is Now SoC 2 Certified](https://plus.excalidraw.com/blog/excalidraw-soc2)
-- [Marble Blast](https://marbleblast.vaniverse.io/)
-- [Show HN: Comparator - I built a free, open-source app to compare job offers](https://comparator-one.vercel.app/)
-- [Scientists use bacteria to turn plastic waste into paracetamol](https://www.theguardian.com/science/2025/jun/23/scientists-use-e-coli-bacteria-to-turn-plastic-waste-into-paracetamol-painkiller)
-- [GitHub CEO: manual coding remains key despite AI boom](https://www.techinasia.com/news/github-ceo-manual-coding-remains-key-despite-ai-boom)
-- [Resurrecting flip phone typing as a Linux driver](https://github.com/FoxMoss/libt9)
-- [2025 Iberia Blackout Report [pdf]](https://media.licdn.com/dms/document/media/v2/D4D1FAQGcyyYYrelkNg/feedshare-document-pdf-analyzed/B4DZeBtlohGsAk-/0/1750227910090?e=1750896000&v=beta&t=uEftse3BPsTjdLQ3DmjoVkadhUGqf7-MfYj_6UnSS28)
-- [Judge denies creating “mass surveillance program” harming all ChatGPT users](https://arstechnica.com/tech-policy/2025/06/judge-rejects-claim-that-forcing-openai-to-keep-chatgpt-logs-is-mass-surveillance/)
-- [uv: An extremely fast Python package and project manager, written in Rust](https://github.com/astral-sh/uv)
+- [Few Americans pay for news when they encounter paywalls](https://www.pewresearch.org/short-reads/2025/06/24/few-americans-pay-for-news-when-they-encounter-paywalls/)
+- [Build your first iOS app on Linux / Windows](https://xtool.sh/tutorials/xtool/first-app/)
+- [Hacking TLD EPP registry servers &lpar;2023&rpar;](https://hackcompute.com/hacking-epp-servers/)
+- [Managing time when time doesn&#39;t exist](https://multiverseemployeehandbook.com/blog/temporal-resources-managing-time-when-time-doesnt-exist/)
+- [Thick Nickels](https://thick-coins.net/?_bhlid=8a5736885893b7837e681aa73f890b9805a4673e)
+- [Microsoft Releases Classic MS-DOS Editor for Linux Written in Rust](https://github.com/microsoft/edit)
+- [Mid-sized cities outperform major metros at turning economic growth into patents](https://www.governance.fyi/p/booms-not-busts-drives-innovation)
+- [Show HN: VSCan - Detect Malicious VSCode Extensions](https://vscan.dev/)
+- [National Archives at College Park, MD, will become a restricted federal facility](https://www.archives.gov/college-park)
+- [How to Think About Time in Programming](https://shanrauf.com/archive/how-to-think-about-time-in-programming)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

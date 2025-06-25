@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [11-HarmonyOS5-SpeechKit-TextReader-Case](https://news.ycombinator.com/item?id=44362546)
-- [Viable and fertile mice generated from two sperm using epigenetic editing](https://www.pnas.org/doi/10.1073/pnas.2425307122)
-- [How to Care About Your Job When It Doesn&#39;t Care About You](https://matthogg.fyi/how-to-care-about-your-job-when-it-doesnt-care-about-you/)
-- [Wherein I Find Myself Concerned About Sparkles](https://matthogg.fyi/wherein-i-find-myself-concerned-about-sparkles/)
-- [Show HN: Sirelia – Real time diagram companion tool for coding assistants](https://www.npmjs.com/package/sirelia)
-- [The MIDL compiler still has trouble with double greater-than signs, sadly](https://devblogs.microsoft.com/oldnewthing/20250623-00/?p=111295)
-- [Hands-On Adversarial AI](https://jadidbourbaki.github.io/adversarial-ai/)
-- [Intel to Apple Silicon Transition for Mac Was Announced Five Years Ago](https://www.macrumors.com/2025/06/23/apple-silicon-announced-five-years-ago/)
-- [TCRF has been getting DDoSed](https://blog.xkeeper.net/uncategorized/tcrf-has-been-getting-ddosed/)
-- [A novel approach to password-auth without sharing the password to server](https://danieltan.weblog.lol/2025/06/password-derived-signature-authentication)
+- [Look right: Threat campaign fooling developers in GitHub repos – Programmer Zone](https://quiz.businessexplain.com/look-right-threat-campaign-fooling-developers-in-github-repos/)
+- [Show HN: Plug Generative UI with One Line of Code &lpar;Open Source&rpar;](https://github.com/vivek100/AgenticGenUI)
+- [PicoEMP: low-cost Electromagnetic Fault Injection &lpar;EMFI&rpar; tool](https://github.com/newaetech/chipshouter-picoemp)
+- [Show HN: TableSprint- Supabase alternative with vibe coding features](https://www.tablesprint.com/)
+- [AI won&#39;t live on publisher sites](https://werd.io/ai-wont-live-on-publisher-sites/)
+- [Tell HN: Fraudulent food stamps / EBT app on the App Store &lpar;please report it&rpar;](https://news.ycombinator.com/item?id=44373295)
+- [Pulsed Electromagnetic Fields Modulate Inflammation, Tissue Regeneration &lpar;2019&rpar;](https://pmc.ncbi.nlm.nih.gov/articles/PMC8370292/)
+- [A Simple Way to View Office Files Online](https://news.ycombinator.com/item?id=44373235)
+- [Few Americans pay for news when they encounter paywalls](https://www.pewresearch.org/short-reads/2025/06/24/few-americans-pay-for-news-when-they-encounter-paywalls/)
+- [China breaks RSA encryption with a quantum computer](https://www.earth.com/news/china-breaks-rsa-encryption-with-a-quantum-computer-threatening-global-data-security/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

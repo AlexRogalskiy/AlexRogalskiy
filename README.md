@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Look right: Threat campaign fooling developers in GitHub repos – Programmer Zone](https://quiz.businessexplain.com/look-right-threat-campaign-fooling-developers-in-github-repos/)
-- [Show HN: Plug Generative UI with One Line of Code &lpar;Open Source&rpar;](https://github.com/vivek100/AgenticGenUI)
-- [PicoEMP: low-cost Electromagnetic Fault Injection &lpar;EMFI&rpar; tool](https://github.com/newaetech/chipshouter-picoemp)
-- [Show HN: TableSprint- Supabase alternative with vibe coding features](https://www.tablesprint.com/)
-- [AI won&#39;t live on publisher sites](https://werd.io/ai-wont-live-on-publisher-sites/)
-- [Tell HN: Fraudulent food stamps / EBT app on the App Store &lpar;please report it&rpar;](https://news.ycombinator.com/item?id=44373295)
-- [Pulsed Electromagnetic Fields Modulate Inflammation, Tissue Regeneration &lpar;2019&rpar;](https://pmc.ncbi.nlm.nih.gov/articles/PMC8370292/)
-- [A Simple Way to View Office Files Online](https://news.ycombinator.com/item?id=44373235)
-- [Few Americans pay for news when they encounter paywalls](https://www.pewresearch.org/short-reads/2025/06/24/few-americans-pay-for-news-when-they-encounter-paywalls/)
-- [China breaks RSA encryption with a quantum computer](https://www.earth.com/news/china-breaks-rsa-encryption-with-a-quantum-computer-threatening-global-data-security/)
+- [When AI Meets Madness: 16-Hour Days Building Apps at the Speed of Thought](https://steipete.me/posts/2025/when-ai-meets-madness-peters-16-hour-days)
+- [Amazon MGM Studios sets Denis Villeneuve as director of next James Bond film](https://www.aboutamazon.com/news/entertainment/amazon-mgm-studios-james-bond-director-denis-villeneuve)
+- [Symlink as an Organizational Tool](https://kwstannard.github.io/symlink-as-organization.html)
+- [Ask HN: If you translate with LLMs, GT or DeepL–what features are missing?](https://news.ycombinator.com/item?id=44383815)
+- [The Trump Admin Is Kicking the National Science Foundation Out of Its Offices](https://www.esquire.com/news-politics/politics/a65194021/maga-anti-science-national-science-foundation-moving-buildings/)
+- [What are memories made of? A survey of neuroscientists](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326920)
+- [Games That Weren&#39;t: Preserving Cancelled and Unreleased Video Game History](https://www.gamesthatwerent.com/)
+- [Social anxiety isn&#39;t about being liked](https://chrislakin.blog/p/social-anxiety)
+- [MIT manual for turning research into startups](https://news.mit.edu/2025/from-mit-instruction-for-manual-turning-research-into-startups-0624)
+- [Easily building self-contained Python executables with uv](https://github.com/edaniels/uv-pex-example)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

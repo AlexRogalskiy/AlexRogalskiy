@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Australia mushroom trial live: judge’s charge to Erin Patterson jury continues on day 37](https://www.theguardian.com/australia-news/live/2025/jun/25/australia-mushroom-trial-live-erin-patterson-trial-jury-judge-charge-ntwnfb)
-- [Federal court rules ABC unlawfully terminated Antoinette Lattouf after ‘orchestrated campaign by pro-Israel lobbyists’](https://www.theguardian.com/media/2025/jun/25/antoinette-lattouf-v-abc-unlawful-termination-case-verdict-federal-court-judgment-ntwnfb)
-- [Doge employee ‘Big Balls’ has resigned, says White House official](https://www.theguardian.com/us-news/2025/jun/24/doge-big-balls-edward-coristine-resigns)
-- [Brazilian hiker found dead after falling off Indonesia volcano trail](https://www.theguardian.com/world/2025/jun/25/juliana-marins-hiker-found-dead-mount-rinjani-lombok-indonesia)
-- [Teenager from Hull becomes second Briton ever to join a professional sumo stable](https://www.theguardian.com/world/2025/jun/25/nicholas-tarasenko-15-year-old-hull-british-sumo-wrestler-japan)
-- [Fears of unrest as Kenyans mark first anniversary of storming of parliament](https://www.theguardian.com/world/2025/jun/25/fears-of-unrest-as-kenyans-mark-first-anniversary-of-storming-of-parliament)
-- [Trump news at a glance: profanity and push-back over success of Iran strikes](https://www.theguardian.com/us-news/2025/jun/25/trump-administration-updates-today)
-- [Ukraine war briefing: Russian attack on eastern region kills at least 19 as Zelenskyy flies in for Nato summit](https://www.theguardian.com/world/2025/jun/25/ukraine-war-briefing-russian-attack-on-eastern-region-kills-at-least-19-as-zelenskyy-flies-in-for-nato-summit)
-- [Adults in Great Britain now spending more time on mobiles than watching TV](https://www.theguardian.com/media/2025/jun/25/adults-great-britain-time-mobiles-watching-tv-screen-ipa-survey)
-- [Women’s Euro 2025 team guides: Belgium](https://www.theguardian.com/football/2025/jun/25/womens-euro-2025-team-guides-belgium)
+- [The world wants China’s rare earth elements – what is life like in the city that produces them?](https://www.theguardian.com/world/2025/jun/26/china-rare-earths-baotou-life-metallic-elements)
+- [Ukraine war briefing: Trump says US looking at providing Kyiv with more Patriot missiles](https://www.theguardian.com/world/2025/jun/26/ukraine-war-briefing-trump-says-us-looking-at-providing-kyiv-with-more-patriot-missiles)
+- [Denis Villeneuve to direct new James Bond film](https://www.theguardian.com/film/2025/jun/26/james-bond-movie-film-denis-villeneuve-director-amazon-mgm-studios)
+- [Greece wildfires: woman charged with unintentional arson after cigarette allegedly started blaze on Chios](https://www.theguardian.com/world/2025/jun/26/greece-wildfires-chios-island-ntwnfb)
+- [Will the Democrats learn from Zohran Mamdani’s victory? | Bernie Sanders](https://www.theguardian.com/commentisfree/2025/jun/25/democrats-learn-zohran-mamdani-victory)
+- [Billionaires’ wealth surged $6.5tn over past decade, Oxfam reports](https://www.theguardian.com/news/2025/jun/26/billionaires-wealth-oxfam-report)
+- [Hundreds of weight loss and diabetes jab users report pancreas problems](https://www.theguardian.com/society/2025/jun/26/weight-loss-diabetes-jab-users-report-pancreas-problems)
+- [Israeli forces kill three Palestinians after settlers attack West Bank town](https://www.theguardian.com/world/2025/jun/25/israeli-forces-kill-three-palestinians-after-settlers-attack-west-bank-town)
+- [Pep Guardiola warns Manchester City ‘will have to suffer’ against Juventus](https://www.theguardian.com/football/2025/jun/25/pep-guardiola-says-manchester-city-will-have-to-suffer-against-juventus)
+- [US government role to be excluded in review into Harry Dunn’s death](https://www.theguardian.com/uk-news/2025/jun/25/us-government-role-to-be-excluded-in-review-into-harry-dunns-death)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Few Americans pay for news when they encounter paywalls](https://www.pewresearch.org/short-reads/2025/06/24/few-americans-pay-for-news-when-they-encounter-paywalls/)
-- [Build your first iOS app on Linux / Windows](https://xtool.sh/tutorials/xtool/first-app/)
-- [Hacking TLD EPP registry servers &lpar;2023&rpar;](https://hackcompute.com/hacking-epp-servers/)
-- [Managing time when time doesn&#39;t exist](https://multiverseemployeehandbook.com/blog/temporal-resources-managing-time-when-time-doesnt-exist/)
-- [Thick Nickels](https://thick-coins.net/?_bhlid=8a5736885893b7837e681aa73f890b9805a4673e)
-- [Microsoft Releases Classic MS-DOS Editor for Linux Written in Rust](https://github.com/microsoft/edit)
-- [Mid-sized cities outperform major metros at turning economic growth into patents](https://www.governance.fyi/p/booms-not-busts-drives-innovation)
-- [Show HN: VSCan - Detect Malicious VSCode Extensions](https://vscan.dev/)
-- [National Archives at College Park, MD, will become a restricted federal facility](https://www.archives.gov/college-park)
-- [How to Think About Time in Programming](https://shanrauf.com/archive/how-to-think-about-time-in-programming)
+- [Puerto Rico&#39;s Solar Microgrids Beat Blackout](https://spectrum.ieee.org/puerto-rico-solar-microgrids)
+- [QEMU: Define policy forbidding use of AI code generators](https://github.com/qemu/qemu/commit/3d40db0efc22520fa6c399cf73960dced423b048)
+- [The Hollow Men of Hims](https://www.alexkesin.com/p/the-hollow-men-of-hims)
+- [IBM&#39;s Dmitry Krotov wants to crack the &#39;physics&#39; of memory](https://research.ibm.com/blog/dmitry-krotov-ai-physics)
+- [CUDA Ray Tracing 2x Faster Than RTX: My CUDA Ray Tracing Journey](https://karimsayedre.github.io/RTIOW.html)
+- [A new pyramid-like shape always lands the same side up](https://www.quantamagazine.org/a-new-pyramid-like-shape-always-lands-the-same-side-up-20250625/)
+- [-2000 Lines of code](https://www.folklore.org/Negative_2000_Lines_Of_Code.html)
+- [The Offline Club](https://www.theoffline-club.com)
+- [Games run faster on SteamOS than Windows 11, Ars testing finds](https://arstechnica.com/gaming/2025/06/games-run-faster-on-steamos-than-windows-11-ars-testing-finds/)
+- [Libxml2&#39;s &quot;no security embargoes&quot; policy](https://lwn.net/SubscriberLink/1025971/73f269ad3695186d/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

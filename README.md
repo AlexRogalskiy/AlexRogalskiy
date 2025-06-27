@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [The world wants China’s rare earth elements – what is life like in the city that produces them?](https://www.theguardian.com/world/2025/jun/26/china-rare-earths-baotou-life-metallic-elements)
-- [Ukraine war briefing: Trump says US looking at providing Kyiv with more Patriot missiles](https://www.theguardian.com/world/2025/jun/26/ukraine-war-briefing-trump-says-us-looking-at-providing-kyiv-with-more-patriot-missiles)
-- [Denis Villeneuve to direct new James Bond film](https://www.theguardian.com/film/2025/jun/26/james-bond-movie-film-denis-villeneuve-director-amazon-mgm-studios)
-- [Greece wildfires: woman charged with unintentional arson after cigarette allegedly started blaze on Chios](https://www.theguardian.com/world/2025/jun/26/greece-wildfires-chios-island-ntwnfb)
-- [Will the Democrats learn from Zohran Mamdani’s victory? | Bernie Sanders](https://www.theguardian.com/commentisfree/2025/jun/25/democrats-learn-zohran-mamdani-victory)
-- [Billionaires’ wealth surged $6.5tn over past decade, Oxfam reports](https://www.theguardian.com/news/2025/jun/26/billionaires-wealth-oxfam-report)
-- [Hundreds of weight loss and diabetes jab users report pancreas problems](https://www.theguardian.com/society/2025/jun/26/weight-loss-diabetes-jab-users-report-pancreas-problems)
-- [Israeli forces kill three Palestinians after settlers attack West Bank town](https://www.theguardian.com/world/2025/jun/25/israeli-forces-kill-three-palestinians-after-settlers-attack-west-bank-town)
-- [Pep Guardiola warns Manchester City ‘will have to suffer’ against Juventus](https://www.theguardian.com/football/2025/jun/25/pep-guardiola-says-manchester-city-will-have-to-suffer-against-juventus)
-- [US government role to be excluded in review into Harry Dunn’s death](https://www.theguardian.com/uk-news/2025/jun/25/us-government-role-to-be-excluded-in-review-into-harry-dunns-death)
+- [‘Twitter killer’ who murdered nine in Japan reportedly executed](https://www.theguardian.com/world/2025/jun/27/japan-executes-twitter-killer-takahiro-shiraishi)
+- [Hegseth defends Iran strike amid doubts over Trump’s ‘obliteration’ claims](https://www.theguardian.com/us-news/2025/jun/26/hegseth-iran-nuclear-strike-intel)
+- [Ukraine war briefing: Soldiers captured by Russia in Mariupol among those released in prisoner swap](https://www.theguardian.com/world/2025/jun/27/ukraine-war-briefing-soldiers-captured-by-russia-in-mariupol-among-those-released-in-prisoner-swap)
+- [Breaking good: the yakuza gangster who became a lawyer](https://www.theguardian.com/world/2025/jun/27/yakuza-gangster-to-lawyer-yoshitomo-morohashi)
+- [Lalo Schifrin, composer of Mission: Impossible theme and more than 100 film and TV scores, dies aged 93](https://www.theguardian.com/music/2025/jun/27/lalo-schifrin-dies-aged-93-composer-dead-mission-impossible-theme)
+- [Trump makes case for ‘big, beautiful bill’ and cranks up pressure on Republicans](https://www.theguardian.com/us-news/2025/jun/26/trump-white-house-bill)
+- [Lorde: Virgin review | Alexis Petridis&#39;s album of the week](https://www.theguardian.com/music/2025/jun/26/lorde-virgin-review)
+- [William Kentridge review – this endless flow of creativity lays claim to Picasso’s legacy](https://www.theguardian.com/artanddesign/2025/jun/27/william-kentridge-review-this-endless-flow-of-creativity-lays-claim-to-picassos-legacy)
+- [Police identify seven as main suspects in Post Office Horizon scandal inquiry](https://www.theguardian.com/uk-news/2025/jun/27/police-identify-seven-as-main-suspects-in-post-office-horizon-scandal-inquiry)
+- [People dying early of cancer costs UK economy £10.3bn a year, study finds](https://www.theguardian.com/society/2025/jun/27/people-dying-early-cancer-costs-uk-economy)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

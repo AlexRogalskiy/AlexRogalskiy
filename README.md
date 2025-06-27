@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [When AI Meets Madness: 16-Hour Days Building Apps at the Speed of Thought](https://steipete.me/posts/2025/when-ai-meets-madness-peters-16-hour-days)
-- [Amazon MGM Studios sets Denis Villeneuve as director of next James Bond film](https://www.aboutamazon.com/news/entertainment/amazon-mgm-studios-james-bond-director-denis-villeneuve)
-- [Symlink as an Organizational Tool](https://kwstannard.github.io/symlink-as-organization.html)
-- [Ask HN: If you translate with LLMs, GT or DeepL–what features are missing?](https://news.ycombinator.com/item?id=44383815)
-- [The Trump Admin Is Kicking the National Science Foundation Out of Its Offices](https://www.esquire.com/news-politics/politics/a65194021/maga-anti-science-national-science-foundation-moving-buildings/)
-- [What are memories made of? A survey of neuroscientists](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326920)
-- [Games That Weren&#39;t: Preserving Cancelled and Unreleased Video Game History](https://www.gamesthatwerent.com/)
-- [Social anxiety isn&#39;t about being liked](https://chrislakin.blog/p/social-anxiety)
-- [MIT manual for turning research into startups](https://news.mit.edu/2025/from-mit-instruction-for-manual-turning-research-into-startups-0624)
-- [Easily building self-contained Python executables with uv](https://github.com/edaniels/uv-pex-example)
+- [14-HarmonyOS5-VisionKit-CardRecognition-Case](https://news.ycombinator.com/item?id=44393375)
+- [Lasik eye surgery should be taken off market, former FDA adviser says &lpar;2020&rpar; [video]](https://www.youtube.com/watch?v=U9loQCUfCsw)
+- [13-HarmonyOS5-VisionKit-InteractiveLiveness-Case](https://news.ycombinator.com/item?id=44393372)
+- [A composite universal DNA signature for the tree of life](https://www.nature.com/articles/s41559-025-02752-1)
+- [ChatGPT-5 Rumors Decoded–How Prompting Is Evolving in the Next Age of AI [video]](https://www.youtube.com/watch?v=POLFZdG54Kw)
+- [U.S. lawmakers have reintroduced the bipartisan Open App Markets Act](https://www.blackburn.senate.gov/2025/6/technology/blackburn-blumenthal-lee-klobuchar-and-durbin-introduce-bipartisan-antitrust-bill-to-promote-app-store-competition)
+- [Judge rejects Meta&#39;s claim that torrenting is &quot;irrelevant&quot; in AI copyright case](https://arstechnica.com/tech-policy/2025/06/judge-rejects-metas-claim-that-torrenting-is-irrelevant-in-ai-copyright-case/)
+- [50cent.com](https://www.50cent.com/)
+- [I don&#39;t care if my manager writes code](https://www.seangoedecke.com/technical-engineering-managers/)
+- [Show HN: SnapLink – a clean, modern, Instant URL shortener &lpar;React + Spring Boot&rpar;](https://app.snplink.com/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

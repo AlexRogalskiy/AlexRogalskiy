@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [‘Twitter killer’ who murdered nine in Japan reportedly executed](https://www.theguardian.com/world/2025/jun/27/japan-executes-twitter-killer-takahiro-shiraishi)
-- [Hegseth defends Iran strike amid doubts over Trump’s ‘obliteration’ claims](https://www.theguardian.com/us-news/2025/jun/26/hegseth-iran-nuclear-strike-intel)
-- [Ukraine war briefing: Soldiers captured by Russia in Mariupol among those released in prisoner swap](https://www.theguardian.com/world/2025/jun/27/ukraine-war-briefing-soldiers-captured-by-russia-in-mariupol-among-those-released-in-prisoner-swap)
-- [Breaking good: the yakuza gangster who became a lawyer](https://www.theguardian.com/world/2025/jun/27/yakuza-gangster-to-lawyer-yoshitomo-morohashi)
-- [Lalo Schifrin, composer of Mission: Impossible theme and more than 100 film and TV scores, dies aged 93](https://www.theguardian.com/music/2025/jun/27/lalo-schifrin-dies-aged-93-composer-dead-mission-impossible-theme)
-- [Trump makes case for ‘big, beautiful bill’ and cranks up pressure on Republicans](https://www.theguardian.com/us-news/2025/jun/26/trump-white-house-bill)
-- [Lorde: Virgin review | Alexis Petridis&#39;s album of the week](https://www.theguardian.com/music/2025/jun/26/lorde-virgin-review)
-- [William Kentridge review – this endless flow of creativity lays claim to Picasso’s legacy](https://www.theguardian.com/artanddesign/2025/jun/27/william-kentridge-review-this-endless-flow-of-creativity-lays-claim-to-picassos-legacy)
-- [Police identify seven as main suspects in Post Office Horizon scandal inquiry](https://www.theguardian.com/uk-news/2025/jun/27/police-identify-seven-as-main-suspects-in-post-office-horizon-scandal-inquiry)
-- [People dying early of cancer costs UK economy £10.3bn a year, study finds](https://www.theguardian.com/society/2025/jun/27/people-dying-early-cancer-costs-uk-economy)
+- [Ukraine war briefing: Kyiv hits warplanes in Russia as missile attack kills five in Ukraine](https://www.theguardian.com/world/2025/jun/28/ukraine-war-briefing-kyiv-hits-warplanes-in-russia-as-missile-attack-kills-five-in-ukraine)
+- [Enzo Maresca intent on resisting interest in Chelsea defender Josh Acheampong](https://www.theguardian.com/football/2025/jun/28/chelsea-enzo-maresca-josh-acheampong-club-world-cup)
+- [Trump news at a glance: president boasts of ‘monumental’ win after supreme court curtails power of federal judges](https://www.theguardian.com/us-news/2025/jun/28/president-trump-administration-updates-today)
+- [When life gives you cumquats or kumquats make a marmalade and mezcal cocktail – recipe](https://www.theguardian.com/food/2025/jun/28/kumquat-cumquat-marmalade-mezcal-cocktail-cara-devine-recipes)
+- [From outlaw bushrangers who fell in love to a famous horseman born a woman, Australia’s history is full of queer stories](https://www.theguardian.com/world/2025/jun/28/australian-history-is-full-of-queer-stories)
+- [Sean ‘Diddy’ Combs and son Justin accused of rape in new US lawsuit](https://www.theguardian.com/music/2025/jun/27/sean-diddy-combs-son-justin-lawsuit)
+- [Beautiful, isolated and expensive: US expats on life in New Zealand](https://www.theguardian.com/world/2025/jun/28/beautiful-isolated-and-expensive-us-expats-on-life-in-new-zealand)
+- [Josh Hazlewood blitz sends Australia to victory inside three days in West Indies](https://www.theguardian.com/sport/2025/jun/27/australia-build-lead-after-head-and-webster-dig-in-against-west-indies)
+- [Sinaloa cartel hacked security cameras to track and kill FBI informants, US says](https://www.theguardian.com/world/2025/jun/27/sinaloa-cartel-fbi-hackers)
+- [The US supreme court has dramatically expanded the powers of the president | Moira Donegan](https://www.theguardian.com/commentisfree/2025/jun/27/us-supreme-court-trump-powers)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

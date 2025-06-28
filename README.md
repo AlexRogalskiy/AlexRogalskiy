@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [14-HarmonyOS5-VisionKit-CardRecognition-Case](https://news.ycombinator.com/item?id=44393375)
-- [Lasik eye surgery should be taken off market, former FDA adviser says &lpar;2020&rpar; [video]](https://www.youtube.com/watch?v=U9loQCUfCsw)
-- [13-HarmonyOS5-VisionKit-InteractiveLiveness-Case](https://news.ycombinator.com/item?id=44393372)
-- [A composite universal DNA signature for the tree of life](https://www.nature.com/articles/s41559-025-02752-1)
-- [ChatGPT-5 Rumors Decoded–How Prompting Is Evolving in the Next Age of AI [video]](https://www.youtube.com/watch?v=POLFZdG54Kw)
-- [U.S. lawmakers have reintroduced the bipartisan Open App Markets Act](https://www.blackburn.senate.gov/2025/6/technology/blackburn-blumenthal-lee-klobuchar-and-durbin-introduce-bipartisan-antitrust-bill-to-promote-app-store-competition)
-- [Judge rejects Meta&#39;s claim that torrenting is &quot;irrelevant&quot; in AI copyright case](https://arstechnica.com/tech-policy/2025/06/judge-rejects-metas-claim-that-torrenting-is-irrelevant-in-ai-copyright-case/)
-- [50cent.com](https://www.50cent.com/)
-- [I don&#39;t care if my manager writes code](https://www.seangoedecke.com/technical-engineering-managers/)
-- [Show HN: SnapLink – a clean, modern, Instant URL shortener &lpar;React + Spring Boot&rpar;](https://app.snplink.com/)
+- [Show HN: Self-host your data anonymization pipeline](https://github.com/deepanwadhwa/zink)
+- [Glastonbury festival performances via BBC music](https://www.youtube.com/channel/UCZtDUmC3W7j25XHZWFT_XgQ)
+- [HarmonyOS5-NewsAPP-HomePage](https://news.ycombinator.com/item?id=44402017)
+- [Ask HN: 80s electronics book club; anyone remember this illustrator?](https://news.ycombinator.com/item?id=44402010)
+- [Thus Spoke GPT: A poetic and philosophical experiment in symbolic AI prompting](https://www.scribd.com/document/878127155/Thus-Spoke-GPT-An-AI-Revelation-for-2025-and-beyond)
+- [Intel set to transfer marketing jobs to an AI which could run on Intel CPUs](https://www.techradar.com/pro/intel-set-to-transfer-marketing-jobs-to-ai-that-could-ironically-be-running-on-intel-processors)
+- [Call for blanket ban on open source contribution or publishing](https://news.ycombinator.com/item?id=44401909)
+- [Xiaomi Takes Aim at Tesla with New SUV](https://www.wsj.com/business/autos/xiaomi-suv-takes-aim-at-tesla-d3b4cccd)
+- [What script and language is this? Reddit thread](https://old.reddit.com/r/language/comments/1gmzro8/what_script_and_language_is_this/)
+- [Roundup of Events for Bootstrappers in July 2025](https://bootstrappersbreakfast.com/2025/06/26/roundup-of-events-for-bootstrappers-in-july-2025/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [A lumberjack created more than 200 sculptures in Wisconsin&#39;s Northwoods](https://www.smithsonianmag.com/travel/when-a-lumberjacks-imagination-ran-wild-he-created-more-than-200-sculptures-in-wisconsins-northwoods-180986840/)
-- [Thomas Aquinas – The world is divine](https://ralphammer.com/thomas-aquinas-the-world-is-divine/)
-- [Show HN: PRSS Site Creator – Create Blogs and Websites from Your Desktop](https://prss.co/)
-- [Kea 3.0, our first LTS version](https://www.isc.org/blogs/kea-3-0/)
-- [Starcloud can’t put a data centre in space at $8.2M in one Starship](https://angadh.com/space-data-centers-1)
-- [Matrix v1.15](https://matrix.org/blog/2025/06/26/matrix-v1.15-release/)
-- [Memory safety is table stakes](https://www.usenix.org/publications/loginonline/memory-safety-merely-table-stakes)
-- [Alternative Layout System](https://alternativelayoutsystem.com/scripts/#same-sizer)
-- [The time is right for a DOM templating API](https://justinfagnani.com/2025/06/26/the-time-is-right-for-a-dom-templating-api/)
-- [SigNoz &lpar;YC W21, Open Source Datadog&rpar; Is Hiring DevRel Engineers &lpar;Remote&rpar;&lpar;US&rpar;](https://www.ycombinator.com/companies/signoz/jobs/cPaxcxt-devrel-engineer-remote-us-time-zones)
+- [Facebook is starting to feed its AI with private, unpublished photos](https://www.theverge.com/meta/694685/meta-ai-camera-roll)
+- [Multi-Stage Programming with Splice Variables](https://tsung-ju.org/icfp25/)
+- [Theoretical Analysis of Positional Encodings in Transformer Models](https://arxiv.org/abs/2506.06398)
+- [Rust in the Linux kernel: part 2](https://lwn.net/SubscriberLink/1025232/fbb2d90d084368e3/)
+- [The Journey of Bypassing Ubuntu&#39;s Unprivileged Namespace Restriction](https://u1f383.github.io/linux/2025/06/26/the-journey-of-bypassing-ubuntus-unprivileged-namespace-restriction.html)
+- [Spark AI &lpar;YC W24&rpar; is hiring a full-stack engineer in SF &lpar;founding team&rpar;](https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack-founding-team)
+- [Normalizing Flows Are Capable Generative Models](https://machinelearning.apple.com/research/normalizing-flows)
+- [Learn OCaml](https://ocaml-sf.org/learn-ocaml-public/#activity=exercises)
+- [A Brief History of Children Sent Through the Mail &lpar;2016&rpar;](https://www.smithsonianmag.com/smart-news/brief-history-children-sent-through-mail-180959372/)
+- [Structuring Arrays with Algebraic Shapes](https://dl.acm.org/doi/abs/10.1145/3736112.3736141)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

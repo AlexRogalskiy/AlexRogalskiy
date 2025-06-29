@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: Self-host your data anonymization pipeline](https://github.com/deepanwadhwa/zink)
-- [Glastonbury festival performances via BBC music](https://www.youtube.com/channel/UCZtDUmC3W7j25XHZWFT_XgQ)
-- [HarmonyOS5-NewsAPP-HomePage](https://news.ycombinator.com/item?id=44402017)
-- [Ask HN: 80s electronics book club; anyone remember this illustrator?](https://news.ycombinator.com/item?id=44402010)
-- [Thus Spoke GPT: A poetic and philosophical experiment in symbolic AI prompting](https://www.scribd.com/document/878127155/Thus-Spoke-GPT-An-AI-Revelation-for-2025-and-beyond)
-- [Intel set to transfer marketing jobs to an AI which could run on Intel CPUs](https://www.techradar.com/pro/intel-set-to-transfer-marketing-jobs-to-ai-that-could-ironically-be-running-on-intel-processors)
-- [Call for blanket ban on open source contribution or publishing](https://news.ycombinator.com/item?id=44401909)
-- [Xiaomi Takes Aim at Tesla with New SUV](https://www.wsj.com/business/autos/xiaomi-suv-takes-aim-at-tesla-d3b4cccd)
-- [What script and language is this? Reddit thread](https://old.reddit.com/r/language/comments/1gmzro8/what_script_and_language_is_this/)
-- [Roundup of Events for Bootstrappers in July 2025](https://bootstrappersbreakfast.com/2025/06/26/roundup-of-events-for-bootstrappers-in-july-2025/)
+- [First thoughts on Rust vs. OCaml &lpar;2020&rpar;](https://blog.darklang.com/first-thoughts-on-rust-vs-ocaml/)
+- [7 People Now Have Elon Musk&#39;s Neuralink Brain Implant](https://www.pcmag.com/news/7-people-now-have-elon-musks-neuralink-brain-implant)
+- [Humanity Needs Aliens to Survive](https://rodyne.com/?p=3051)
+- [Vintage Modern – a car that looks vintage but drives like a new car](https://vintagemodern.co/modernized-classic)
+- [New Paradigm for Computing Global Networks Databases, and Embedded Systems](https://www.la-acm.org/Archives/laacm9912.html)
+- [The Whimsy and Practicality of &#39;SuperAdobe&#39;](https://reasonstobecheerful.world/the-whimsy-and-practicality-of-superadobe/)
+- [China&#39;s Top Factory: How Premium CPU Air Coolers Are Made – Deepcool [video]](https://www.youtube.com/watch?v=9kul1zlF3UE)
+- [Engineering Marvels: International Space Station](https://www.youtube.com/watch?v=Ei-TcECJVXU)
+- [ECMAScript 2025 Finalized with Iterator Helpers, Set Methods, RegExp.escape, and](https://socket.dev/blog/ecmascript-2025-finalized)
+- [Vancouver man says institutions unable to recognize new Indigenous street name](https://globalnews.ca/news/11265368/vancouver-man-institutions-new-indigenous-street-name/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

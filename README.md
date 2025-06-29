@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine war briefing: Kyiv hits warplanes in Russia as missile attack kills five in Ukraine](https://www.theguardian.com/world/2025/jun/28/ukraine-war-briefing-kyiv-hits-warplanes-in-russia-as-missile-attack-kills-five-in-ukraine)
-- [Enzo Maresca intent on resisting interest in Chelsea defender Josh Acheampong](https://www.theguardian.com/football/2025/jun/28/chelsea-enzo-maresca-josh-acheampong-club-world-cup)
-- [Trump news at a glance: president boasts of ‘monumental’ win after supreme court curtails power of federal judges](https://www.theguardian.com/us-news/2025/jun/28/president-trump-administration-updates-today)
-- [When life gives you cumquats or kumquats make a marmalade and mezcal cocktail – recipe](https://www.theguardian.com/food/2025/jun/28/kumquat-cumquat-marmalade-mezcal-cocktail-cara-devine-recipes)
-- [From outlaw bushrangers who fell in love to a famous horseman born a woman, Australia’s history is full of queer stories](https://www.theguardian.com/world/2025/jun/28/australian-history-is-full-of-queer-stories)
-- [Sean ‘Diddy’ Combs and son Justin accused of rape in new US lawsuit](https://www.theguardian.com/music/2025/jun/27/sean-diddy-combs-son-justin-lawsuit)
-- [Beautiful, isolated and expensive: US expats on life in New Zealand](https://www.theguardian.com/world/2025/jun/28/beautiful-isolated-and-expensive-us-expats-on-life-in-new-zealand)
-- [Josh Hazlewood blitz sends Australia to victory inside three days in West Indies](https://www.theguardian.com/sport/2025/jun/27/australia-build-lead-after-head-and-webster-dig-in-against-west-indies)
-- [Sinaloa cartel hacked security cameras to track and kill FBI informants, US says](https://www.theguardian.com/world/2025/jun/27/sinaloa-cartel-fbi-hackers)
-- [The US supreme court has dramatically expanded the powers of the president | Moira Donegan](https://www.theguardian.com/commentisfree/2025/jun/27/us-supreme-court-trump-powers)
+- [Ukraine war briefing: key eastern Ukrainian city under assault as Russia hails cooperation with North Korea](https://www.theguardian.com/world/2025/jun/29/ukraine-war-briefing-key-eastern-ukrainian-city-under-assault-as-russia-hails-cooperation-with-north-korea)
+- [Iran will likely be able to produce enriched uranium ‘in a matter of months’, IAEA chief says](https://www.theguardian.com/world/2025/jun/29/iran-will-likely-be-able-to-produce-enriched-uranium-in-a-matter-of-months-iaea-chief-says)
+- [Nkunku extra-time goal sees Chelsea through to Club Word Cup last eight after four-hour match](https://www.theguardian.com/football/2025/jun/29/nkunku-extra-time-goal-sees-chelsea-through-to-club-word-cup-last-eight-after-four-hour-match)
+- [Pulp’s secret Glastonbury set review – still the magnificently misshapen oddballs of British pop](https://www.theguardian.com/music/2025/jun/29/pulps-secret-glastonbury-set-review)
+- [Charli xcx at Glastonbury review – a thrilling hostile takeover by a pop star at the peak of her powers](https://www.theguardian.com/music/2025/jun/29/charli-xcx-at-glastonbury-review)
+- [Notes from a nursing home: ‘We don’t speak of sadness here’](https://www.theguardian.com/science/2025/jun/29/notes-from-a-nursing-home-we-dont-speak-of-sadness-here)
+- [Skepta’s surprise Glastonbury set review – British rap’s MVP has matchless mic technique](https://www.theguardian.com/music/2025/jun/29/skepta-surprise-glastonbury-set-review)
+- [Women’s Euro 2025 team guides: England](https://www.theguardian.com/football/2025/jun/29/womens-euro-2025-team-guides-england)
+- [Final party set to end Bezos-Sánchez wedding extravaganza in Venice](https://www.theguardian.com/technology/2025/jun/28/final-party-set-to-end-bezos-sanchez-wedding-extravaganza-in-venice)
+- [Business secretary to meet Lotus chiefs amid doubts over future of operations](https://www.theguardian.com/business/2025/jun/28/business-secretary-to-meet-with-lotus-after-reports-it-plans-to-scrap-uk-operations)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

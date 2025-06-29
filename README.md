@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Facebook is starting to feed its AI with private, unpublished photos](https://www.theverge.com/meta/694685/meta-ai-camera-roll)
-- [Multi-Stage Programming with Splice Variables](https://tsung-ju.org/icfp25/)
-- [Theoretical Analysis of Positional Encodings in Transformer Models](https://arxiv.org/abs/2506.06398)
-- [Rust in the Linux kernel: part 2](https://lwn.net/SubscriberLink/1025232/fbb2d90d084368e3/)
-- [The Journey of Bypassing Ubuntu&#39;s Unprivileged Namespace Restriction](https://u1f383.github.io/linux/2025/06/26/the-journey-of-bypassing-ubuntus-unprivileged-namespace-restriction.html)
-- [Spark AI &lpar;YC W24&rpar; is hiring a full-stack engineer in SF &lpar;founding team&rpar;](https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack-founding-team)
-- [Normalizing Flows Are Capable Generative Models](https://machinelearning.apple.com/research/normalizing-flows)
-- [Learn OCaml](https://ocaml-sf.org/learn-ocaml-public/#activity=exercises)
-- [A Brief History of Children Sent Through the Mail &lpar;2016&rpar;](https://www.smithsonianmag.com/smart-news/brief-history-children-sent-through-mail-180959372/)
-- [Structuring Arrays with Algebraic Shapes](https://dl.acm.org/doi/abs/10.1145/3736112.3736141)
+- [Universal pre-training by iterated random computation](https://arxiv.org/abs/2506.20057)
+- [Generative AI&#39;s crippling failure to induce robust models of the world](https://garymarcus.substack.com/p/generative-ais-crippling-and-widespread)
+- [Satellites keep breaking up in space. Insurance won&#39;t cover them](https://www.space.com/space-exploration/satellites/satellites-keep-breaking-up-in-space-insurance-wont-cover-them)
+- [Refurb weekend: Gremlin Blasto arcade board](http://oldvcr.blogspot.com/2025/06/refurb-weekend-gremlin-blasto-arcade.html)
+- [Solving `Passport Application` with Haskell](https://jameshaydon.github.io/passport/)
+- [The Death of the Middle-Class Musician](https://thewalrus.ca/the-death-of-the-middle-class-musician/)
+- [Exploring Trichromacy through Maxwell&#39;s Color Experiment &lpar;2023&rpar;](https://maxwell.kohterai.com/)
+- [Group of investors represented by YouTuber Perifractic buys Commodore](https://www.amiga-news.de/en/news/AN-2025-06-00123-EN.html)
+- [Schizophrenia Is the Price We Pay for Minds Poised Near the Edge of a Cliff](https://www.psychiatrymargins.com/p/schizophrenia-is-the-price-we-pay)
+- [Show HN: Vet – A tool for safely running remote shell scripts](https://getvet.sh)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

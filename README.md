@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [First thoughts on Rust vs. OCaml &lpar;2020&rpar;](https://blog.darklang.com/first-thoughts-on-rust-vs-ocaml/)
-- [7 People Now Have Elon Musk&#39;s Neuralink Brain Implant](https://www.pcmag.com/news/7-people-now-have-elon-musks-neuralink-brain-implant)
-- [Humanity Needs Aliens to Survive](https://rodyne.com/?p=3051)
-- [Vintage Modern – a car that looks vintage but drives like a new car](https://vintagemodern.co/modernized-classic)
-- [New Paradigm for Computing Global Networks Databases, and Embedded Systems](https://www.la-acm.org/Archives/laacm9912.html)
-- [The Whimsy and Practicality of &#39;SuperAdobe&#39;](https://reasonstobecheerful.world/the-whimsy-and-practicality-of-superadobe/)
-- [China&#39;s Top Factory: How Premium CPU Air Coolers Are Made – Deepcool [video]](https://www.youtube.com/watch?v=9kul1zlF3UE)
-- [Engineering Marvels: International Space Station](https://www.youtube.com/watch?v=Ei-TcECJVXU)
-- [ECMAScript 2025 Finalized with Iterator Helpers, Set Methods, RegExp.escape, and](https://socket.dev/blog/ecmascript-2025-finalized)
-- [Vancouver man says institutions unable to recognize new Indigenous street name](https://globalnews.ca/news/11265368/vancouver-man-institutions-new-indigenous-street-name/)
+- [Blue Origin successfully completes 13th crewed suborbital flight](https://abcnews.go.com/US/blue-origin-successfully-completes-13th-crewed-suborbital-flight/story?id=123320375)
+- [Integrating with ClickHouse MCP](https://clickhouse.com/blog/integrating-clickhouse-mcp)
+- [Show HN: GPS for entire project architecture, everything one click away](https://monessy.com)
+- [&#39;Lidar is lame&#39;: why Elon Musk&#39;s vision for a self-driving Tesla taxi faltered](https://www.theguardian.com/technology/2025/jun/29/elon-musk-tesla-robotaxi)
+- [Key Senators Strike Deal to Pause State AI Laws for Five Years](https://www.bloomberg.com/news/articles/2025-06-30/key-senators-strike-deal-to-pause-state-ai-laws-for-five-years)
+- [NativeJIT: A C++ expression –&gt; x64 JIT](https://github.com/BitFunnel/NativeJIT)
+- [Flux – Rust annotation-based type checker](https://flux-rs.github.io/flux/)
+- [Officials celebrate sale of worlds largest solar-powered steel mill in Pueblo](https://kdvr.com/news/local/colorado-officials-celebrate-sale-of-pueblos-steel-mill/)
+- [Microsoft plans major job cuts at Xbox](https://www.latimes.com/business/story/2025-06-25/microsoft-plans-major-job-cuts-at-xbox-gaming-division)
+- [Depopulation Won&#39;t Change the World for the Better](https://www.nytimes.com/2025/06/29/opinion/population-climate-progress.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

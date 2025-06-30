@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine war briefing: key eastern Ukrainian city under assault as Russia hails cooperation with North Korea](https://www.theguardian.com/world/2025/jun/29/ukraine-war-briefing-key-eastern-ukrainian-city-under-assault-as-russia-hails-cooperation-with-north-korea)
-- [Iran will likely be able to produce enriched uranium ‘in a matter of months’, IAEA chief says](https://www.theguardian.com/world/2025/jun/29/iran-will-likely-be-able-to-produce-enriched-uranium-in-a-matter-of-months-iaea-chief-says)
-- [Nkunku extra-time goal sees Chelsea through to Club Word Cup last eight after four-hour match](https://www.theguardian.com/football/2025/jun/29/nkunku-extra-time-goal-sees-chelsea-through-to-club-word-cup-last-eight-after-four-hour-match)
-- [Pulp’s secret Glastonbury set review – still the magnificently misshapen oddballs of British pop](https://www.theguardian.com/music/2025/jun/29/pulps-secret-glastonbury-set-review)
-- [Charli xcx at Glastonbury review – a thrilling hostile takeover by a pop star at the peak of her powers](https://www.theguardian.com/music/2025/jun/29/charli-xcx-at-glastonbury-review)
-- [Notes from a nursing home: ‘We don’t speak of sadness here’](https://www.theguardian.com/science/2025/jun/29/notes-from-a-nursing-home-we-dont-speak-of-sadness-here)
-- [Skepta’s surprise Glastonbury set review – British rap’s MVP has matchless mic technique](https://www.theguardian.com/music/2025/jun/29/skepta-surprise-glastonbury-set-review)
-- [Women’s Euro 2025 team guides: England](https://www.theguardian.com/football/2025/jun/29/womens-euro-2025-team-guides-england)
-- [Final party set to end Bezos-Sánchez wedding extravaganza in Venice](https://www.theguardian.com/technology/2025/jun/28/final-party-set-to-end-bezos-sanchez-wedding-extravaganza-in-venice)
-- [Business secretary to meet Lotus chiefs amid doubts over future of operations](https://www.theguardian.com/business/2025/jun/28/business-secretary-to-meet-with-lotus-after-reports-it-plans-to-scrap-uk-operations)
+- [Canada ditches tax on tech giants in bid to restart US trade talks](https://www.theguardian.com/world/2025/jun/30/canada-digital-services-tax-technology-giants-us-trade-talks)
+- [Trump news at a glance: president pushes Republicans to back big bill amid forecast losses to healthcare](https://www.theguardian.com/us-news/2025/jun/30/trump-news-at-a-glance-president-pushes-republicans-to-back-big-bill-as-analysis-says-it-will-add-extra-33tn-in-debt)
+- [Injury rules Tomos Williams out of rest of tour in blow for British &amp; Irish Lions](https://www.theguardian.com/sport/2025/jun/30/tomos-williams-hamstring-injury-british-irish-lions-tour)
+- [Club World Cup could ‘destroy’ Manchester City’s season, says Pep Guardiola](https://www.theguardian.com/football/2025/jun/30/club-world-cup-manchester-city-pep-guardiola)
+- [Mexico police discover 381 bodies ‘thrown indiscriminately’ on crematorium floor](https://www.theguardian.com/world/2025/jun/30/mexico-crematorium-police-381-bodies-ciudad-juarez-ntwnfb)
+- [Idaho shooting: two dead after firefighters ambushed by gunman while responding to fire](https://www.theguardian.com/us-news/2025/jun/29/firefighters-idaho-gunman)
+- [Olivia Rodrigo at Glastonbury review – full of bile and brilliance, this is easily the weekend’s best big set](https://www.theguardian.com/music/2025/jun/30/olivia-rodrigo-at-glastonbury-review)
+- [Starmer’s disability benefit concessions are not enough, says rebel Labour whip](https://www.theguardian.com/politics/2025/jun/29/starmers-disability-benefit-concessions-are-not-enough-says-rebel-labour-whip)
+- [‘I was villainised’: Mary Earps hurt by reaction to her England retirement](https://www.theguardian.com/football/2025/jun/30/mary-earps-england-retirement-lionesses-womens-euro-2025)
+- [Lifetime Isas ‘could lead to savers making poor investment choices’, MPs say](https://www.theguardian.com/money/2025/jun/30/lifetime-isas-could-lead-to-savers-making-poor-investment-choices-mps-say)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

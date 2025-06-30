@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Universal pre-training by iterated random computation](https://arxiv.org/abs/2506.20057)
-- [Generative AI&#39;s crippling failure to induce robust models of the world](https://garymarcus.substack.com/p/generative-ais-crippling-and-widespread)
-- [Satellites keep breaking up in space. Insurance won&#39;t cover them](https://www.space.com/space-exploration/satellites/satellites-keep-breaking-up-in-space-insurance-wont-cover-them)
-- [Refurb weekend: Gremlin Blasto arcade board](http://oldvcr.blogspot.com/2025/06/refurb-weekend-gremlin-blasto-arcade.html)
-- [Solving `Passport Application` with Haskell](https://jameshaydon.github.io/passport/)
-- [The Death of the Middle-Class Musician](https://thewalrus.ca/the-death-of-the-middle-class-musician/)
-- [Exploring Trichromacy through Maxwell&#39;s Color Experiment &lpar;2023&rpar;](https://maxwell.kohterai.com/)
-- [Group of investors represented by YouTuber Perifractic buys Commodore](https://www.amiga-news.de/en/news/AN-2025-06-00123-EN.html)
-- [Schizophrenia Is the Price We Pay for Minds Poised Near the Edge of a Cliff](https://www.psychiatrymargins.com/p/schizophrenia-is-the-price-we-pay)
-- [Show HN: Vet – A tool for safely running remote shell scripts](https://getvet.sh)
+- [My home servers are not a homelab](https://blog.nradk.com/posts/homelab/)
+- [The Chan-Zuckerbergs stopped funding social causes](https://www.washingtonpost.com/technology/2025/06/29/mark-zuckerberg-priscilla-chan-school-closure/)
+- [Use keyword-only arguments in Python dataclasses](https://chipx86.blog/2025/06/29/tip-use-keyword-only-arguments-in-python-dataclasses/)
+- [Manifold: An open-source tool to run AI models for 90% less](https://github.com/Esrbwt1/manifold)
+- [WorldVLA: Towards Autoregressive Action World Model](https://arxiv.org/abs/2506.21539)
+- [Nearly 20% of cancer drugs defective in 4 African nations](https://www.dw.com/en/nearly-20-of-cancer-drugs-defective-in-4-african-nations/a-73062221)
+- [Commodore acquired for a &#39;low seven figure&#39; price – CEO from retro community](https://www.tomshardware.com/video-games/retro-gaming/commodore-acquired-for-a-low-seven-figure-price-new-acting-ceo-comes-from-the-retro-community)
+- [Finding a former Australian prime minister’s passport number on Instagram &lpar;2020&rpar;](https://mango.pdf.zone/finding-former-australian-prime-minister-tony-abbotts-passport-number-on-instagram/)
+- [Cell Towers Can Double as Cheap Radar Systems for Ports and Harbors &lpar;2014&rpar;](https://spectrum.ieee.org/cell-tower-signals-can-improve-port-security)
+- [China Dominates 44% of Visible Fishing Activity Worldwide](https://oceana.org/press-releases/china-dominates-44-of-visible-fishing-activity-worldwide/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

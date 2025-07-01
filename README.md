@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Blue Origin successfully completes 13th crewed suborbital flight](https://abcnews.go.com/US/blue-origin-successfully-completes-13th-crewed-suborbital-flight/story?id=123320375)
-- [Integrating with ClickHouse MCP](https://clickhouse.com/blog/integrating-clickhouse-mcp)
-- [Show HN: GPS for entire project architecture, everything one click away](https://monessy.com)
-- [&#39;Lidar is lame&#39;: why Elon Musk&#39;s vision for a self-driving Tesla taxi faltered](https://www.theguardian.com/technology/2025/jun/29/elon-musk-tesla-robotaxi)
-- [Key Senators Strike Deal to Pause State AI Laws for Five Years](https://www.bloomberg.com/news/articles/2025-06-30/key-senators-strike-deal-to-pause-state-ai-laws-for-five-years)
-- [NativeJIT: A C++ expression –&gt; x64 JIT](https://github.com/BitFunnel/NativeJIT)
-- [Flux – Rust annotation-based type checker](https://flux-rs.github.io/flux/)
-- [Officials celebrate sale of worlds largest solar-powered steel mill in Pueblo](https://kdvr.com/news/local/colorado-officials-celebrate-sale-of-pueblos-steel-mill/)
-- [Microsoft plans major job cuts at Xbox](https://www.latimes.com/business/story/2025-06-25/microsoft-plans-major-job-cuts-at-xbox-gaming-division)
-- [Depopulation Won&#39;t Change the World for the Better](https://www.nytimes.com/2025/06/29/opinion/population-climate-progress.html)
+- [Virtue Garnishes: The 3-Second Mental Hack That Short-Circuits Bad Habits](https://ledgeroflife.blog/virtue-garnishes-the-3-second-mental-hack-that-short-circuits-bad-habits/)
+- [Monty Python and the Holy Grail](https://en.wikiquote.org/wiki/Monty_Python_and_the_Holy_Grail)
+- [Bitbucket Is Down](https://bitbucket.status.atlassian.com)
+- [Why Matt Mullenweg went to war over WordPress](https://www.theverge.com/decoder-podcast-with-nilay-patel/693052/automattic-ceo-matt-mullenweg-wordpress-drama-wp-engine-open-source)
+- [Remixing Shopify&#39;s Admin: How We Made It 30% Faster and AI-Ready](https://shopify.engineering/remixing-admin)
+- [Docopt Command-line interface description language](http://docopt.org/)
+- [Show HN: Profile AI for Professional LinkedIn Headshots – ProfileAIPro](https://profileaipro.com/)
+- [The &quot;personal computer&quot; model scales better than the &quot;terminal&quot; model](https://utcc.utoronto.ca/~cks/space/blog/tech/ScalingTerminalsVsPCs)
+- [The Monorepo Culture](https://resync-games.com/blog/engineering/monorepo-culture)
+- [Scrap Metal or an Alien Spacecraft?](https://www.wsj.com/politics/national-security/pentagon-ufo-investigation-lockheed-martin-1bac3d41)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Canada ditches tax on tech giants in bid to restart US trade talks](https://www.theguardian.com/world/2025/jun/30/canada-digital-services-tax-technology-giants-us-trade-talks)
-- [Trump news at a glance: president pushes Republicans to back big bill amid forecast losses to healthcare](https://www.theguardian.com/us-news/2025/jun/30/trump-news-at-a-glance-president-pushes-republicans-to-back-big-bill-as-analysis-says-it-will-add-extra-33tn-in-debt)
-- [Injury rules Tomos Williams out of rest of tour in blow for British &amp; Irish Lions](https://www.theguardian.com/sport/2025/jun/30/tomos-williams-hamstring-injury-british-irish-lions-tour)
-- [Club World Cup could ‘destroy’ Manchester City’s season, says Pep Guardiola](https://www.theguardian.com/football/2025/jun/30/club-world-cup-manchester-city-pep-guardiola)
-- [Mexico police discover 381 bodies ‘thrown indiscriminately’ on crematorium floor](https://www.theguardian.com/world/2025/jun/30/mexico-crematorium-police-381-bodies-ciudad-juarez-ntwnfb)
-- [Idaho shooting: two dead after firefighters ambushed by gunman while responding to fire](https://www.theguardian.com/us-news/2025/jun/29/firefighters-idaho-gunman)
-- [Olivia Rodrigo at Glastonbury review – full of bile and brilliance, this is easily the weekend’s best big set](https://www.theguardian.com/music/2025/jun/30/olivia-rodrigo-at-glastonbury-review)
-- [Starmer’s disability benefit concessions are not enough, says rebel Labour whip](https://www.theguardian.com/politics/2025/jun/29/starmers-disability-benefit-concessions-are-not-enough-says-rebel-labour-whip)
-- [‘I was villainised’: Mary Earps hurt by reaction to her England retirement](https://www.theguardian.com/football/2025/jun/30/mary-earps-england-retirement-lionesses-womens-euro-2025)
-- [Lifetime Isas ‘could lead to savers making poor investment choices’, MPs say](https://www.theguardian.com/money/2025/jun/30/lifetime-isas-could-lead-to-savers-making-poor-investment-choices-mps-say)
+- [Senate holds vote marathon on amendments to Trump’s one big beautiful bill – US politics live](https://www.theguardian.com/us-news/live/2025/jun/30/donald-trump-one-big-beautiful-bill-senate-republicans-iran-us-politics-live-news-updates)
+- [Clashes and arrests in Turkey over magazine cartoon allegedly depicting prophet Muhammad](https://www.theguardian.com/world/2025/jul/01/istanbul-turkey-leman-magazine-alleged-prophet-muhammad-cartoon-protests-arrests)
+- [Five years on, Hong Kong’s national security law extinguishes last standing pro-democracy party](https://www.theguardian.com/world/2025/jul/01/five-years-on-hong-kong-national-security-law-pro-democracy-party-league-of-social-democrats-china)
+- [Vivienne Westwood and Rei Kawakubo paired for the first time in blockbuster exhibition at the NGV](https://www.theguardian.com/fashion/2025/jul/01/vivienne-westwood-rei-kawakubo-ngv-exhibition)
+- [Idaho student murders suspect reportedly agrees to plead guilty on all counts](https://www.theguardian.com/us-news/2025/jun/30/idaho-killings-suspect)
+- [Trump news at a glance: Republicans scramble to pass ‘one big, beautiful bill’ as deadline looms](https://www.theguardian.com/us-news/2025/jul/01/trump-administration-news-today-latest)
+- [Ukraine war briefing: Russia claims to have seized all of Luhansk region; Kim Jong-un mourns war dead](https://www.theguardian.com/world/2025/jul/01/ukraine-war-briefing-russia-claims-to-have-seized-all-of-luhansk-region-and-first-village-in-dnipropetrovsk)
+- [The spiritual economy: young Chinese turn to fortune tellers as anxiety about the future rises](https://www.theguardian.com/world/2025/jul/01/china-fortune-tellers-young-people-mysticism)
+- [King Charles to receive £132m next year after crown estate makes £1.1bn profit](https://www.theguardian.com/uk-news/2025/jul/01/king-charles-crown-estate-profit-land-property)
+- [Susan Sarandon ‘terrified but excited’ to make UK theatrical debut in September](https://www.theguardian.com/stage/2025/jul/01/susan-sarandon-uk-theatrical-debut-mary-page-marlowe-old-vic-andrea-riseborough)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

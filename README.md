@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [My home servers are not a homelab](https://blog.nradk.com/posts/homelab/)
-- [The Chan-Zuckerbergs stopped funding social causes](https://www.washingtonpost.com/technology/2025/06/29/mark-zuckerberg-priscilla-chan-school-closure/)
-- [Use keyword-only arguments in Python dataclasses](https://chipx86.blog/2025/06/29/tip-use-keyword-only-arguments-in-python-dataclasses/)
-- [Manifold: An open-source tool to run AI models for 90% less](https://github.com/Esrbwt1/manifold)
-- [WorldVLA: Towards Autoregressive Action World Model](https://arxiv.org/abs/2506.21539)
-- [Nearly 20% of cancer drugs defective in 4 African nations](https://www.dw.com/en/nearly-20-of-cancer-drugs-defective-in-4-african-nations/a-73062221)
-- [Commodore acquired for a &#39;low seven figure&#39; price – CEO from retro community](https://www.tomshardware.com/video-games/retro-gaming/commodore-acquired-for-a-low-seven-figure-price-new-acting-ceo-comes-from-the-retro-community)
-- [Finding a former Australian prime minister’s passport number on Instagram &lpar;2020&rpar;](https://mango.pdf.zone/finding-former-australian-prime-minister-tony-abbotts-passport-number-on-instagram/)
-- [Cell Towers Can Double as Cheap Radar Systems for Ports and Harbors &lpar;2014&rpar;](https://spectrum.ieee.org/cell-tower-signals-can-improve-port-security)
-- [China Dominates 44% of Visible Fishing Activity Worldwide](https://oceana.org/press-releases/china-dominates-44-of-visible-fishing-activity-worldwide/)
+- [Rust CLIs with Clap](https://tucson-josh.com/posts/rust-clap-cli/)
+- [The Email Startup Graveyard: Why 80%+ of Email Companies Fail](https://forwardemail.net/en/blog/docs/email-startup-graveyard-why-80-percent-email-companies-fail)
+- [Claude Code now supports Hooks](https://docs.anthropic.com/en/docs/claude-code/hooks)
+- [Melbourne man discovers extensive model train network underneath house](https://www.sbs.com.au/news/article/i-was-shocked-melbourne-mans-unbelievable-find-after-buying-house/m4sksfer8)
+- [GPEmu: A GPU emulator for rapid, low-cost deep learning prototyping [pdf]](https://vldb.org/pvldb/vol18/p1919-wang.pdf)
+- [Jim Boddie codeveloped the first successful DSP at Bell Labs](https://spectrum.ieee.org/dsp-pioneer-jim-boddie)
+- [Entropy of a Mixture](https://cgad.ski/blog/entropy-of-a-mixture.html)
+- [The new skill in AI is not prompting, it&#39;s context engineering](https://www.philschmid.de/context-engineering)
+- [Price of rice in Japan falls below ¥4k per 5kg](https://www.japantimes.co.jp/news/2025/06/24/japan/japan-rice-price-falls-below-4000/)
+- [Public Signal Backups Testing](https://community.signalusers.org/t/public-signal-backups-testing/69984)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

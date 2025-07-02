@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Rust CLIs with Clap](https://tucson-josh.com/posts/rust-clap-cli/)
-- [The Email Startup Graveyard: Why 80%+ of Email Companies Fail](https://forwardemail.net/en/blog/docs/email-startup-graveyard-why-80-percent-email-companies-fail)
-- [Claude Code now supports Hooks](https://docs.anthropic.com/en/docs/claude-code/hooks)
-- [Melbourne man discovers extensive model train network underneath house](https://www.sbs.com.au/news/article/i-was-shocked-melbourne-mans-unbelievable-find-after-buying-house/m4sksfer8)
-- [GPEmu: A GPU emulator for rapid, low-cost deep learning prototyping [pdf]](https://vldb.org/pvldb/vol18/p1919-wang.pdf)
-- [Jim Boddie codeveloped the first successful DSP at Bell Labs](https://spectrum.ieee.org/dsp-pioneer-jim-boddie)
-- [Entropy of a Mixture](https://cgad.ski/blog/entropy-of-a-mixture.html)
-- [The new skill in AI is not prompting, it&#39;s context engineering](https://www.philschmid.de/context-engineering)
-- [Price of rice in Japan falls below ¥4k per 5kg](https://www.japantimes.co.jp/news/2025/06/24/japan/japan-rice-price-falls-below-4000/)
-- [Public Signal Backups Testing](https://community.signalusers.org/t/public-signal-backups-testing/69984)
+- [Hilbert&#39;s sixth problem: derivation of fluid equations via Boltzmann&#39;s theory](https://arxiv.org/abs/2503.01800)
+- [Australians to face age checks from search engines](https://ia.acs.org.au/article/2025/australians-to-face-age-checks-from-search-engines.html)
+- [Using Sun Ray thin clients in 2025](https://catstret.ch/202506/sun-ray-shenanigans/)
+- [Building a Personal AI Factory](https://www.john-rush.com/posts/ai-20250701.html)
+- [Effectiveness of trees in reducing temperature, outdoor heat exposure in Vegas](https://iopscience.iop.org/article/10.1088/2752-5295/ade17d)
+- [The Roman Roads Research Association](https://www.romanroads.org/)
+- [Fakespot shuts down today after 9 years of detecting fake product reviews](https://blog.truestar.pro/fakespot-shuts-down/)
+- [Figma Files Registration Statement for Proposed Initial Public Offering](https://www.figma.com/blog/s1-public/)
+- [The wanton destruction of a creative-tech era](https://blog.greg.technology/2025/06/30/fastly.html)
+- [The Hoyle State &lpar;2021&rpar;](https://johncarlosbaez.wordpress.com/2021/02/04/the-hoyle-state/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

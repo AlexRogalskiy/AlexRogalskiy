@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Virtue Garnishes: The 3-Second Mental Hack That Short-Circuits Bad Habits](https://ledgeroflife.blog/virtue-garnishes-the-3-second-mental-hack-that-short-circuits-bad-habits/)
-- [Monty Python and the Holy Grail](https://en.wikiquote.org/wiki/Monty_Python_and_the_Holy_Grail)
-- [Bitbucket Is Down](https://bitbucket.status.atlassian.com)
-- [Why Matt Mullenweg went to war over WordPress](https://www.theverge.com/decoder-podcast-with-nilay-patel/693052/automattic-ceo-matt-mullenweg-wordpress-drama-wp-engine-open-source)
-- [Remixing Shopify&#39;s Admin: How We Made It 30% Faster and AI-Ready](https://shopify.engineering/remixing-admin)
-- [Docopt Command-line interface description language](http://docopt.org/)
-- [Show HN: Profile AI for Professional LinkedIn Headshots – ProfileAIPro](https://profileaipro.com/)
-- [The &quot;personal computer&quot; model scales better than the &quot;terminal&quot; model](https://utcc.utoronto.ca/~cks/space/blog/tech/ScalingTerminalsVsPCs)
-- [The Monorepo Culture](https://resync-games.com/blog/engineering/monorepo-culture)
-- [Scrap Metal or an Alien Spacecraft?](https://www.wsj.com/politics/national-security/pentagon-ufo-investigation-lockheed-martin-1bac3d41)
+- [Show HN: Congress Alerts – SMS digests of how your reps vote](https://sites.google.com/view/whatismyrepdoing/home)
+- [Optimizing typography of insect labels using free fonts and free software &lpar;2012&rpar; [pdf]](https://www.akentsoc.org/doc/Bowser_ML_2012.pdf)
+- [Show HN: Lightweight Bar to Psi Converter](https://bartopsi.xyz)
+- [Vibe coding a Perl interface to a foreign library](https://chrisarg.github.io/Killing-It-with-PERL/2025/06/30/Vibe-coding-a-Perl-interface-to-a-foreign-library-Part-1.html)
+- [Cursive Generator – Transform Text into Beautiful Cursive Fonts Online Free](https://cursivegenerator.space/)
+- [Daniel Brandt&#39;s Portfolio of Custom Pool Tables](https://www.core77.com/posts/137453/Daniel-Brandts-Insane-Portfolio-of-Custom-Pool-Tables)
+- [The White House took down nation&#39;s top climate report. Here it is](https://www.npr.org/2025/07/01/nx-s1-5453501/national-climate-assessment-nca5-archive-report)
+- [Stop adding booleans to programming languages](https://goldenstack.net/blog/stop_adding_booleans)
+- [Bill Wurtz&#39;s Notebook](https://billwurtz.com/notebook.html)
+- [Maybe you&#39;re not Actually Trying – On selective agency in capable people](https://usefulfictions.substack.com/p/maybe-youre-not-actually-trying)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

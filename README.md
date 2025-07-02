@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Senate holds vote marathon on amendments to Trump’s one big beautiful bill – US politics live](https://www.theguardian.com/us-news/live/2025/jun/30/donald-trump-one-big-beautiful-bill-senate-republicans-iran-us-politics-live-news-updates)
-- [Clashes and arrests in Turkey over magazine cartoon allegedly depicting prophet Muhammad](https://www.theguardian.com/world/2025/jul/01/istanbul-turkey-leman-magazine-alleged-prophet-muhammad-cartoon-protests-arrests)
-- [Five years on, Hong Kong’s national security law extinguishes last standing pro-democracy party](https://www.theguardian.com/world/2025/jul/01/five-years-on-hong-kong-national-security-law-pro-democracy-party-league-of-social-democrats-china)
-- [Vivienne Westwood and Rei Kawakubo paired for the first time in blockbuster exhibition at the NGV](https://www.theguardian.com/fashion/2025/jul/01/vivienne-westwood-rei-kawakubo-ngv-exhibition)
-- [Idaho student murders suspect reportedly agrees to plead guilty on all counts](https://www.theguardian.com/us-news/2025/jun/30/idaho-killings-suspect)
-- [Trump news at a glance: Republicans scramble to pass ‘one big, beautiful bill’ as deadline looms](https://www.theguardian.com/us-news/2025/jul/01/trump-administration-news-today-latest)
-- [Ukraine war briefing: Russia claims to have seized all of Luhansk region; Kim Jong-un mourns war dead](https://www.theguardian.com/world/2025/jul/01/ukraine-war-briefing-russia-claims-to-have-seized-all-of-luhansk-region-and-first-village-in-dnipropetrovsk)
-- [The spiritual economy: young Chinese turn to fortune tellers as anxiety about the future rises](https://www.theguardian.com/world/2025/jul/01/china-fortune-tellers-young-people-mysticism)
-- [King Charles to receive £132m next year after crown estate makes £1.1bn profit](https://www.theguardian.com/uk-news/2025/jul/01/king-charles-crown-estate-profit-land-property)
-- [Susan Sarandon ‘terrified but excited’ to make UK theatrical debut in September](https://www.theguardian.com/stage/2025/jul/01/susan-sarandon-uk-theatrical-debut-mary-page-marlowe-old-vic-andrea-riseborough)
+- [Ukraine war briefing: Ukraine launches one of its deepest drone strikes into Russia, killing three](https://www.theguardian.com/world/2025/jul/02/ukraine-war-briefing-ukraine-launches-one-of-its-deepest-drone-strikes-into-russia-killing-three)
+- [Qantas confirms cyber-attack exposed records of up to 6 million customers](https://www.theguardian.com/business/2025/jul/02/qantas-confirms-cyber-attack-exposes-records-of-up-to-6-million-customers)
+- [Trump claims Israel ready for Gaza peace deal in bid to boost Hamas ceasefire talks](https://www.theguardian.com/world/2025/jul/02/trump-claims-israel-ready-for-gaza-peace-deal-in-bid-to-boost-hamas-ceasefire-talks)
+- [Six Chicago men exonerated in 1987 stabbing death of government official](https://www.theguardian.com/us-news/2025/jul/01/chicago-men-1987-stabbing-death)
+- [Jury says Google must pay California Android smartphone users $314.6m](https://www.theguardian.com/us-news/2025/jul/01/google-california-android-smartphone)
+- [The Constant Wife review – Rose Leslie and Laura Wade let fresh light into Maugham’s drawing room](https://www.theguardian.com/stage/2025/jul/02/the-constant-wife-review-swan-theatre-stratford-upon-avon-laura-wade-rsc-rose-leslie)
+- [Evita review – Rachel Zegler is phenomenal but Jamie Lloyd’s rock show drowns out the story](https://www.theguardian.com/stage/2025/jul/02/evita-review-rachel-zegler-jamie-lloyd-london-palladium)
+- [Women over 65 still at risk from cancer from HPV and should be offered cervical screening – study](https://www.theguardian.com/society/2025/jul/01/cervical-screening-women-over-65-cancer-risk-study)
+- [Trump administration raises possibility of stripping Mamdani of US citizenship](https://www.theguardian.com/us-news/2025/jul/01/trump-zohran-mamdani-citizenship)
+- [Gonzalo García downs Juventus to send Real Madrid to Club World Cup quarters](https://www.theguardian.com/football/2025/jul/01/real-madrid-juventus-club-world-cup-last-16-match-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

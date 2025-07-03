@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine war briefing: Ukraine launches one of its deepest drone strikes into Russia, killing three](https://www.theguardian.com/world/2025/jul/02/ukraine-war-briefing-ukraine-launches-one-of-its-deepest-drone-strikes-into-russia-killing-three)
-- [Qantas confirms cyber-attack exposed records of up to 6 million customers](https://www.theguardian.com/business/2025/jul/02/qantas-confirms-cyber-attack-exposes-records-of-up-to-6-million-customers)
-- [Trump claims Israel ready for Gaza peace deal in bid to boost Hamas ceasefire talks](https://www.theguardian.com/world/2025/jul/02/trump-claims-israel-ready-for-gaza-peace-deal-in-bid-to-boost-hamas-ceasefire-talks)
-- [Six Chicago men exonerated in 1987 stabbing death of government official](https://www.theguardian.com/us-news/2025/jul/01/chicago-men-1987-stabbing-death)
-- [Jury says Google must pay California Android smartphone users $314.6m](https://www.theguardian.com/us-news/2025/jul/01/google-california-android-smartphone)
-- [The Constant Wife review – Rose Leslie and Laura Wade let fresh light into Maugham’s drawing room](https://www.theguardian.com/stage/2025/jul/02/the-constant-wife-review-swan-theatre-stratford-upon-avon-laura-wade-rsc-rose-leslie)
-- [Evita review – Rachel Zegler is phenomenal but Jamie Lloyd’s rock show drowns out the story](https://www.theguardian.com/stage/2025/jul/02/evita-review-rachel-zegler-jamie-lloyd-london-palladium)
-- [Women over 65 still at risk from cancer from HPV and should be offered cervical screening – study](https://www.theguardian.com/society/2025/jul/01/cervical-screening-women-over-65-cancer-risk-study)
-- [Trump administration raises possibility of stripping Mamdani of US citizenship](https://www.theguardian.com/us-news/2025/jul/01/trump-zohran-mamdani-citizenship)
-- [Gonzalo García downs Juventus to send Real Madrid to Club World Cup quarters](https://www.theguardian.com/football/2025/jul/01/real-madrid-juventus-club-world-cup-last-16-match-report)
+- [House voting on rule to pave the way to final debate on Trump’s tax-and-spending bill – US politics live](https://www.theguardian.com/us-news/live/2025/jul/02/donald-trump-big-beautiful-bill-house-republicans-us-politics-live-news-updates)
+- [Bali ferry sinking leaves at least four dead, dozens missing](https://www.theguardian.com/world/2025/jul/03/bali-ferry-sinking-indonesia)
+- [Japan’s Tokara islands hit by 900 earthquakes in two weeks](https://www.theguardian.com/world/2025/jul/03/japan-earthquake-tokara-islands-900-earthquakes-two-weeks)
+- [Sean ‘Diddy’ Combs found guilty on two of five counts as lawyers call verdict ‘great victory’](https://www.theguardian.com/music/2025/jul/02/diddy-trial-verdict-sean-combs)
+- [Kilmar Ábrego García was tortured in Salvadorian prison, court filing alleges](https://www.theguardian.com/us-news/2025/jul/02/kilmar-abrego-garcia-tortured-cecot)
+- [The leaked phone call that could ring the changes for one of Thailand’s most powerful dynasties](https://www.theguardian.com/world/2025/jul/03/thailand-cambodia-leaked-phone-call-shinawatra-dynasty-paetongtarn)
+- [Ukraine war briefing: Washington downplays halt of some weapons shipments as Kyiv calls in US ambassador](https://www.theguardian.com/world/2025/jul/03/ukraine-war-briefing-washington-downplays-halt-of-some-weapons-shipments-as-kyiv-calls-in-us-ambassador)
+- [Pentagon says US strikes set back Iran nuclear program ‘one to two years’](https://www.theguardian.com/us-news/2025/jul/02/us-strikes-iran-pentagon-trump)
+- [Starmer outlines plan to shift NHS care from hospitals to new health centres](https://www.theguardian.com/society/2025/jul/02/starmer-outlines-plan-to-shift-nhs-care-from-hospitals-to-new-health-centres)
+- [In 1948 a Labour government founded the NHS. My job now is to make it fit for the future | Wes Streeting](https://www.theguardian.com/commentisfree/2025/jul/03/labour-government-nhs-1948-10-year-plan-ai-neighbourhood-care-patients)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

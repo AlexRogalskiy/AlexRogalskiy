@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: Congress Alerts – SMS digests of how your reps vote](https://sites.google.com/view/whatismyrepdoing/home)
-- [Optimizing typography of insect labels using free fonts and free software &lpar;2012&rpar; [pdf]](https://www.akentsoc.org/doc/Bowser_ML_2012.pdf)
-- [Show HN: Lightweight Bar to Psi Converter](https://bartopsi.xyz)
-- [Vibe coding a Perl interface to a foreign library](https://chrisarg.github.io/Killing-It-with-PERL/2025/06/30/Vibe-coding-a-Perl-interface-to-a-foreign-library-Part-1.html)
-- [Cursive Generator – Transform Text into Beautiful Cursive Fonts Online Free](https://cursivegenerator.space/)
-- [Daniel Brandt&#39;s Portfolio of Custom Pool Tables](https://www.core77.com/posts/137453/Daniel-Brandts-Insane-Portfolio-of-Custom-Pool-Tables)
-- [The White House took down nation&#39;s top climate report. Here it is](https://www.npr.org/2025/07/01/nx-s1-5453501/national-climate-assessment-nca5-archive-report)
-- [Stop adding booleans to programming languages](https://goldenstack.net/blog/stop_adding_booleans)
-- [Bill Wurtz&#39;s Notebook](https://billwurtz.com/notebook.html)
-- [Maybe you&#39;re not Actually Trying – On selective agency in capable people](https://usefulfictions.substack.com/p/maybe-youre-not-actually-trying)
+- [Windows 11 Start menu uses a 15 MB JSON for categories](https://www.windowslatest.com/2025/07/03/windows-11-start-menu-uses-a-15mb-json-not-ai-to-organize-apps-under-categories/)
+- [2025 AsiaLLVM Developers&#39; Meeting Talks](https://www.youtube.com/playlist?list=PL_R5A0lGi1ADKfJbzpA0rMDCb5T3QGe5k)
+- [Open Co-Scientist Agents: Recreating Google&#39;s AI Co-Scientist in LangGraph](https://github.com/conradry/open-coscientist-agents)
+- [The Mechanic Johnny Cash and Elvis Would&#39;ve Wanted &lpar;Toolbox Tour&rpar; [video]](https://www.youtube.com/watch?v=xrHtzSIh2GQ)
+- [What happens to your brain when you watch videos online at faster speeds](https://theconversation.com/what-happens-to-your-brain-when-you-watch-videos-online-at-faster-speeds-than-normal-259930)
+- [Is that a Lululemon Scuba hoodie or Costco dupe? No one has to know](https://www.washingtonpost.com/style/fashion/2025/01/25/costco-dupe-lululemon-scuba-hoodie-danskin/)
+- [Has Xbox Considered Laying One Person Off Instead of Thousands](https://aftermath.site/xbox-layoffs-microsoft-phil-spencer)
+- [Mr. Abrego&#39;s Account of Torture at CECOT in El Salvador](https://www.muellershewrote.com/p/mr-abregos-account-of-torture-at)
+- [Interview Centers similar to SAT/GRE testing centers](https://spotlyn.com)
+- [GoHardDrive Leaked Personal Data for Customers](https://mtlynch.io/goharddrive-leak/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

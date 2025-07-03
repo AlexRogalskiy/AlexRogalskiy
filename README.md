@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Hilbert&#39;s sixth problem: derivation of fluid equations via Boltzmann&#39;s theory](https://arxiv.org/abs/2503.01800)
-- [Australians to face age checks from search engines](https://ia.acs.org.au/article/2025/australians-to-face-age-checks-from-search-engines.html)
-- [Using Sun Ray thin clients in 2025](https://catstret.ch/202506/sun-ray-shenanigans/)
-- [Building a Personal AI Factory](https://www.john-rush.com/posts/ai-20250701.html)
-- [Effectiveness of trees in reducing temperature, outdoor heat exposure in Vegas](https://iopscience.iop.org/article/10.1088/2752-5295/ade17d)
-- [The Roman Roads Research Association](https://www.romanroads.org/)
-- [Fakespot shuts down today after 9 years of detecting fake product reviews](https://blog.truestar.pro/fakespot-shuts-down/)
-- [Figma Files Registration Statement for Proposed Initial Public Offering](https://www.figma.com/blog/s1-public/)
-- [The wanton destruction of a creative-tech era](https://blog.greg.technology/2025/06/30/fastly.html)
-- [The Hoyle State &lpar;2021&rpar;](https://johncarlosbaez.wordpress.com/2021/02/04/the-hoyle-state/)
+- [The Uncertain Future of Coding Careers and Why I&#39;m Still Hopeful](https://jonmagic.com/posts/the-uncertain-future-of-coding-careers-and-why-im-still-hopeful/)
+- [Trans-Taiga Road:The farthest you can get from a town on a road in North America](https://www.jamesbayroad.com/ttr/index.html)
+- [Whole-genome ancestry of an Old Kingdom Egyptian](https://www.nature.com/articles/s41586-025-09195-5)
+- [What to build instead of AI agents](https://decodingml.substack.com/p/stop-building-ai-agents)
+- [Physicists Start to Pin Down How Stars Forge Heavy Atoms](https://www.quantamagazine.org/physicists-start-to-pin-down-how-stars-forge-heavy-atoms-20250702/)
+- [Websites hosting major US climate reports taken down](https://apnews.com/article/climate-change-national-assessment-nasa-white-house-057cec699caef90832d8b10f21a6ffe8)
+- [Vitamin C Boosts Epidermal Growth via DNA Demethylation](https://www.jidonline.org/article/S0022-202X(25)00416-6/fulltext)
+- [A Higgs-Bugson in the Linux Kernel](https://blog.janestreet.com/a-higgs-bugson-in-the-linux-kernel/)
+- [Couchers is officially out of beta](https://couchers.org/blog/2025/07/01/releasing-couchers-v1)
+- [AI note takers are flooding Zoom calls as workers opt to skip meetings](https://www.washingtonpost.com/technology/2025/07/02/ai-note-takers-meetings-bots/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

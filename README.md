@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The Uncertain Future of Coding Careers and Why I&#39;m Still Hopeful](https://jonmagic.com/posts/the-uncertain-future-of-coding-careers-and-why-im-still-hopeful/)
-- [Trans-Taiga Road:The farthest you can get from a town on a road in North America](https://www.jamesbayroad.com/ttr/index.html)
-- [Whole-genome ancestry of an Old Kingdom Egyptian](https://www.nature.com/articles/s41586-025-09195-5)
-- [What to build instead of AI agents](https://decodingml.substack.com/p/stop-building-ai-agents)
-- [Physicists Start to Pin Down How Stars Forge Heavy Atoms](https://www.quantamagazine.org/physicists-start-to-pin-down-how-stars-forge-heavy-atoms-20250702/)
-- [Websites hosting major US climate reports taken down](https://apnews.com/article/climate-change-national-assessment-nasa-white-house-057cec699caef90832d8b10f21a6ffe8)
-- [Vitamin C Boosts Epidermal Growth via DNA Demethylation](https://www.jidonline.org/article/S0022-202X(25)00416-6/fulltext)
-- [A Higgs-Bugson in the Linux Kernel](https://blog.janestreet.com/a-higgs-bugson-in-the-linux-kernel/)
-- [Couchers is officially out of beta](https://couchers.org/blog/2025/07/01/releasing-couchers-v1)
-- [AI note takers are flooding Zoom calls as workers opt to skip meetings](https://www.washingtonpost.com/technology/2025/07/02/ai-note-takers-meetings-bots/)
+- [My open source project was stolen and relicensed by a YC company](https://twitter.com/soham_btw/status/1940952786491027886)
+- [CO2 sequestration through accelerated weathering of limestone on ships](https://www.science.org/doi/10.1126/sciadv.adr7250)
+- [Michael Madsen has died](https://www.nytimes.com/2025/07/03/movies/michael-madsen-dead.html)
+- [Converge &lpar;YC S23&rpar; well-capitalized New York startup seeks product developers](https://www.runconverge.com/careers)
+- [Wind Knitting Factory](https://www.merelkarhof.nl/work/wind-knitting-factory)
+- [High-Fidelity Simultaneous Speech-to-Speech Translation](https://arxiv.org/abs/2502.03382)
+- [Opening up ‘Zero-Knowledge Proof’ technology](https://blog.google/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/)
+- [Stalking the Statistically Improbable Restaurant with Data](https://ethanzuckerman.com/2025/07/03/stalking-the-statistically-improbable-restaurant-with-data/)
+- [Launch HN: K-Scale Labs &lpar;YC W24&rpar; – Open-Source Humanoid Robots](https://news.ycombinator.com/item?id=44456904)
+- [Postcard is now open source](https://www.contraption.co/postcard-open-source/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

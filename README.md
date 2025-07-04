@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Windows 11 Start menu uses a 15 MB JSON for categories](https://www.windowslatest.com/2025/07/03/windows-11-start-menu-uses-a-15mb-json-not-ai-to-organize-apps-under-categories/)
-- [2025 AsiaLLVM Developers&#39; Meeting Talks](https://www.youtube.com/playlist?list=PL_R5A0lGi1ADKfJbzpA0rMDCb5T3QGe5k)
-- [Open Co-Scientist Agents: Recreating Google&#39;s AI Co-Scientist in LangGraph](https://github.com/conradry/open-coscientist-agents)
-- [The Mechanic Johnny Cash and Elvis Would&#39;ve Wanted &lpar;Toolbox Tour&rpar; [video]](https://www.youtube.com/watch?v=xrHtzSIh2GQ)
-- [What happens to your brain when you watch videos online at faster speeds](https://theconversation.com/what-happens-to-your-brain-when-you-watch-videos-online-at-faster-speeds-than-normal-259930)
-- [Is that a Lululemon Scuba hoodie or Costco dupe? No one has to know](https://www.washingtonpost.com/style/fashion/2025/01/25/costco-dupe-lululemon-scuba-hoodie-danskin/)
-- [Has Xbox Considered Laying One Person Off Instead of Thousands](https://aftermath.site/xbox-layoffs-microsoft-phil-spencer)
-- [Mr. Abrego&#39;s Account of Torture at CECOT in El Salvador](https://www.muellershewrote.com/p/mr-abregos-account-of-torture-at)
-- [Interview Centers similar to SAT/GRE testing centers](https://spotlyn.com)
-- [GoHardDrive Leaked Personal Data for Customers](https://mtlynch.io/goharddrive-leak/)
+- [Lessons to Get Started Building AI Agents](https://github.com/microsoft/ai-agents-for-beginners)
+- [Show HN: AI agents that apply for apartments for you](https://app.crentology.com)
+- [Make Your Renders Unnecessarily Complicated &lpar;2023&rpar; [video]](https://www.youtube.com/watch?v=YE9rEQAGpLw)
+- [A project to bring CUDA to non-Nvidia GPUs is making major progress](https://www.tomshardware.com/software/a-project-to-bring-cuda-to-non-nvidia-gpus-is-making-major-progress-zluda-update-now-has-two-full-time-developers-working-on-32-bit-physx-support-and-llms-amongst-other-things)
+- [Pickle](https://pickle.com/)
+- [Show HN: AI Vlog Maker – Instantly Generate Viral Character Vlogs with AI](https://aivlog.io)
+- [Ask HN: What are good questions to ask in a remote round in post GPT era?](https://news.ycombinator.com/item?id=44460667)
+- [Canned-Food Producer Del Monte Foods Files for Bankruptcy](https://www.bloomberg.com/news/articles/2025-07-02/canned-food-producer-del-monte-foods-files-for-bankruptcy)
+- [Show HN: Tango Game Unlimited](https://tangogameunlimited.com)
+- [India regulator bars Jane Street from local securities market](https://www.reuters.com/sustainability/boards-policy-regulation/india-regulator-bars-jane-street-accessing-its-securities-market-2025-07-04/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

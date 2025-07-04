@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [House voting on rule to pave the way to final debate on Trump’s tax-and-spending bill – US politics live](https://www.theguardian.com/us-news/live/2025/jul/02/donald-trump-big-beautiful-bill-house-republicans-us-politics-live-news-updates)
-- [Bali ferry sinking leaves at least four dead, dozens missing](https://www.theguardian.com/world/2025/jul/03/bali-ferry-sinking-indonesia)
-- [Japan’s Tokara islands hit by 900 earthquakes in two weeks](https://www.theguardian.com/world/2025/jul/03/japan-earthquake-tokara-islands-900-earthquakes-two-weeks)
-- [Sean ‘Diddy’ Combs found guilty on two of five counts as lawyers call verdict ‘great victory’](https://www.theguardian.com/music/2025/jul/02/diddy-trial-verdict-sean-combs)
-- [Kilmar Ábrego García was tortured in Salvadorian prison, court filing alleges](https://www.theguardian.com/us-news/2025/jul/02/kilmar-abrego-garcia-tortured-cecot)
-- [The leaked phone call that could ring the changes for one of Thailand’s most powerful dynasties](https://www.theguardian.com/world/2025/jul/03/thailand-cambodia-leaked-phone-call-shinawatra-dynasty-paetongtarn)
-- [Ukraine war briefing: Washington downplays halt of some weapons shipments as Kyiv calls in US ambassador](https://www.theguardian.com/world/2025/jul/03/ukraine-war-briefing-washington-downplays-halt-of-some-weapons-shipments-as-kyiv-calls-in-us-ambassador)
-- [Pentagon says US strikes set back Iran nuclear program ‘one to two years’](https://www.theguardian.com/us-news/2025/jul/02/us-strikes-iran-pentagon-trump)
-- [Starmer outlines plan to shift NHS care from hospitals to new health centres](https://www.theguardian.com/society/2025/jul/02/starmer-outlines-plan-to-shift-nhs-care-from-hospitals-to-new-health-centres)
-- [In 1948 a Labour government founded the NHS. My job now is to make it fit for the future | Wes Streeting](https://www.theguardian.com/commentisfree/2025/jul/03/labour-government-nhs-1948-10-year-plan-ai-neighbourhood-care-patients)
+- [Pedro Neto may miss Chelsea’s Club World Cup quarter-final after friend Jota’s death](https://www.theguardian.com/football/2025/jul/04/pedro-neto-may-miss-chelseas-club-world-cup-quarter-final-after-friend-jotas-death)
+- [Ukraine war briefing: Trump says he ‘didn’t make any progress’ with Putin after call](https://www.theguardian.com/world/2025/jul/04/ukraine-war-briefing-trump-says-he-didnt-make-any-progress-with-putin-after-call)
+- [Cramps, fatigue and hallucinations: paddling 200km in a Paleolithic canoe from Taiwan to Japan](https://www.theguardian.com/world/2025/jul/04/cramps-fatigue-and-hallucinations-paddling-200km-in-a-paleolithic-canoe-from-taiwan-to-japan)
+- [First-time buyers turn from rural areas to Britain’s regional cities](https://www.theguardian.com/business/2025/jul/04/first-time-buyers-turn-from-rural-areas-to-great-britains-regional-cities)
+- [Diamonds and Dust review – Dita Von Teese and Faye Tozer’s saddle-sore wild west burlesque](https://www.theguardian.com/stage/2025/jul/04/diamonds-and-dust-review-dita-von-teese-faye-tozer-emerald-theatre-london)
+- [Taliban praise Russia’s ‘brave decision’ to recognise their rule in Afghanistan](https://www.theguardian.com/world/2025/jul/03/taliban-praise-russias-brave-decision-to-recognise-their-rule-in-afghanistan)
+- [MP Zarah Sultana says she will ‘co-lead’ new party as she quits Labour for Corbyn group](https://www.theguardian.com/politics/2025/jul/03/jeremy-corbyn-hints-at-launch-of-new-party-as-leftwing-alternative-to-labour)
+- [Countries must protect human right to a stable climate, court rules](https://www.theguardian.com/environment/2025/jul/03/countries-must-protect-human-right-to-a-stable-climate-court-rules)
+- [Such Brave Girls season two review – this Bafta-winning comedy is startlingly brilliant](https://www.theguardian.com/tv-and-radio/2025/jul/03/such-brave-girls-season-two-review-bbc-three)
+- [Crete wildfire forces 5,000 to evacuate as Europe heatwave continues](https://www.theguardian.com/world/2025/jul/03/more-than-1500-people-evacuated-in-crete-amid-wildfire-as-europe-heatwave-continues)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

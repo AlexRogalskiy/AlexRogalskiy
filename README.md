@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Lessons to Get Started Building AI Agents](https://github.com/microsoft/ai-agents-for-beginners)
-- [Show HN: AI agents that apply for apartments for you](https://app.crentology.com)
-- [Make Your Renders Unnecessarily Complicated &lpar;2023&rpar; [video]](https://www.youtube.com/watch?v=YE9rEQAGpLw)
-- [A project to bring CUDA to non-Nvidia GPUs is making major progress](https://www.tomshardware.com/software/a-project-to-bring-cuda-to-non-nvidia-gpus-is-making-major-progress-zluda-update-now-has-two-full-time-developers-working-on-32-bit-physx-support-and-llms-amongst-other-things)
-- [Pickle](https://pickle.com/)
-- [Show HN: AI Vlog Maker – Instantly Generate Viral Character Vlogs with AI](https://aivlog.io)
-- [Ask HN: What are good questions to ask in a remote round in post GPT era?](https://news.ycombinator.com/item?id=44460667)
-- [Canned-Food Producer Del Monte Foods Files for Bankruptcy](https://www.bloomberg.com/news/articles/2025-07-02/canned-food-producer-del-monte-foods-files-for-bankruptcy)
-- [Show HN: Tango Game Unlimited](https://tangogameunlimited.com)
-- [India regulator bars Jane Street from local securities market](https://www.reuters.com/sustainability/boards-policy-regulation/india-regulator-bars-jane-street-accessing-its-securities-market-2025-07-04/)
+- [Pes](https://news.ycombinator.com/item?id=44469847)
+- [A fast and powerful iTunes replacement with mpd, ncmpcpp, beets, and Alfred](https://ssrubin.com/posts/music-library-with-mpd-ncmpcpp-beets.html)
+- [Show HN: Rhome – I made a recommendation platform for long-form media](https://rhomeapp.com)
+- [Amiga Linux &lpar;1993&rpar;](https://groups.google.com/g/comp.sys.amiga.emulations/c/xUgrpylQOXk)
+- [Flint, Michigan finally replaced its lead pipes](https://www.washingtonpost.com/climate-environment/2025/07/01/flint-lead-pipes-replacement/)
+- [AI job substitution is real, but narrow, per new study](https://www.axios.com/2025/06/30/ai-job-vibe-coding-upwork)
+- [The trick for ultra-fast S3 bucket discovery](https://celes.in/posts/s3_dns_enum)
+- [Gone in 40 days: US drops ban on export of chip design tools to China](https://www.theregister.com/2025/07/03/us_eda_export_ban_lifted/)
+- [ADXL345 Die Analysis](https://www.tinytransistors.net/2024/08/25/adxl345/)
+- [Show HN: We made a tool to reduce echo chambers on social media](https://www.tandfonline.com/doi/full/10.1080/29974100.2025.2517191)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [My open source project was stolen and relicensed by a YC company](https://twitter.com/soham_btw/status/1940952786491027886)
-- [CO2 sequestration through accelerated weathering of limestone on ships](https://www.science.org/doi/10.1126/sciadv.adr7250)
-- [Michael Madsen has died](https://www.nytimes.com/2025/07/03/movies/michael-madsen-dead.html)
-- [Converge &lpar;YC S23&rpar; well-capitalized New York startup seeks product developers](https://www.runconverge.com/careers)
-- [Wind Knitting Factory](https://www.merelkarhof.nl/work/wind-knitting-factory)
-- [High-Fidelity Simultaneous Speech-to-Speech Translation](https://arxiv.org/abs/2502.03382)
-- [Opening up ‘Zero-Knowledge Proof’ technology](https://blog.google/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/)
-- [Stalking the Statistically Improbable Restaurant with Data](https://ethanzuckerman.com/2025/07/03/stalking-the-statistically-improbable-restaurant-with-data/)
-- [Launch HN: K-Scale Labs &lpar;YC W24&rpar; – Open-Source Humanoid Robots](https://news.ycombinator.com/item?id=44456904)
-- [Postcard is now open source](https://www.contraption.co/postcard-open-source/)
+- [ADXL345 Die Analysis](https://www.tinytransistors.net/2024/08/25/adxl345/)
+- [OBBB signed: Reinstates immediate expensing for U.S.-based R&amp;D](https://www.kbkg.com/feature/house-passes-tax-bill-sending-to-president-for-signature)
+- [The ITTAGE indirect branch predictor](https://blog.nelhage.com/post/ittage-branch-predictor/)
+- [Show HN: Tinykv – Minimal file-backed key-value store for Rust](https://crates.io/crates/tinykv)
+- [Nvidia is full of shit](https://blog.sebin-nyshkim.net/posts/nvidia-is-full-of-shit/)
+- [Everything around LLMs is still magical and wishful thinking](https://dmitriid.com/everything-around-llms-is-still-magical-and-wishful-thinking)
+- [The Amiga 3000 Unix and Sun Microsystems: Deal or No Deal?](https://www.datagubbe.se/amix/)
+- [Being too ambitious is a clever form of self-sabotage](https://maalvika.substack.com/p/being-too-ambitious-is-a-clever-form)
+- [Continue &lpar;YC S23&rpar; is hiring software engineers in San Francisco](https://www.ycombinator.com/companies/continue/jobs)
+- [Open Source and FPGA Maker Board for Networking](https://privateisland.tech/betsy)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

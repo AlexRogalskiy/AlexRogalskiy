@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Pedro Neto may miss Chelsea’s Club World Cup quarter-final after friend Jota’s death](https://www.theguardian.com/football/2025/jul/04/pedro-neto-may-miss-chelseas-club-world-cup-quarter-final-after-friend-jotas-death)
-- [Ukraine war briefing: Trump says he ‘didn’t make any progress’ with Putin after call](https://www.theguardian.com/world/2025/jul/04/ukraine-war-briefing-trump-says-he-didnt-make-any-progress-with-putin-after-call)
-- [Cramps, fatigue and hallucinations: paddling 200km in a Paleolithic canoe from Taiwan to Japan](https://www.theguardian.com/world/2025/jul/04/cramps-fatigue-and-hallucinations-paddling-200km-in-a-paleolithic-canoe-from-taiwan-to-japan)
-- [First-time buyers turn from rural areas to Britain’s regional cities](https://www.theguardian.com/business/2025/jul/04/first-time-buyers-turn-from-rural-areas-to-great-britains-regional-cities)
-- [Diamonds and Dust review – Dita Von Teese and Faye Tozer’s saddle-sore wild west burlesque](https://www.theguardian.com/stage/2025/jul/04/diamonds-and-dust-review-dita-von-teese-faye-tozer-emerald-theatre-london)
-- [Taliban praise Russia’s ‘brave decision’ to recognise their rule in Afghanistan](https://www.theguardian.com/world/2025/jul/03/taliban-praise-russias-brave-decision-to-recognise-their-rule-in-afghanistan)
-- [MP Zarah Sultana says she will ‘co-lead’ new party as she quits Labour for Corbyn group](https://www.theguardian.com/politics/2025/jul/03/jeremy-corbyn-hints-at-launch-of-new-party-as-leftwing-alternative-to-labour)
-- [Countries must protect human right to a stable climate, court rules](https://www.theguardian.com/environment/2025/jul/03/countries-must-protect-human-right-to-a-stable-climate-court-rules)
-- [Such Brave Girls season two review – this Bafta-winning comedy is startlingly brilliant](https://www.theguardian.com/tv-and-radio/2025/jul/03/such-brave-girls-season-two-review-bbc-three)
-- [Crete wildfire forces 5,000 to evacuate as Europe heatwave continues](https://www.theguardian.com/world/2025/jul/03/more-than-1500-people-evacuated-in-crete-amid-wildfire-as-europe-heatwave-continues)
+- [Palmeiras v Chelsea: Club World Cup quarter-final – live updates](https://www.theguardian.com/football/live/2025/jul/05/palmeiras-v-chelsea-club-world-cup-quarter-final-live-updates)
+- [Wild kangaroo harvests are labelled ‘needlessly cruel’ by US lawmakers – but backed by Australian conservationists](https://www.theguardian.com/environment/2025/jul/05/wild-kangaroo-harvests-are-labelled-needlessly-cruel-by-us-lawmakers-but-backed-by-australian-conservationists)
+- [‘Catastrophic’ flood in Texas kills at least 13, including children, with more missing from summer camp](https://www.theguardian.com/us-news/2025/jul/04/texas-flooding-disaster-declarations)
+- [Julian McMahon, Fantastic Four, Nip/Tuck and Charmed actor, dies aged 56](https://www.theguardian.com/film/2025/jul/05/julian-mcmahon-dies-aged-56-cause-of-death-fantastic-four-niptuck-charmed)
+- [Oasis review – a shameless trip back to the 90s for Britpop’s loudest, greatest songs](https://www.theguardian.com/music/2025/jul/05/oasis-review-playlist-oasis-big-on-the-first-two-albums-with-little-left-to-chance)
+- [Home Office announces ‘nationwide blitz’ on asylum seekers taking jobs](https://www.theguardian.com/uk-news/2025/jul/05/home-office-announces-nationwide-blitz-on-asylum-seekers-taking-jobs)
+- [Trump signs tax-and-spending bill into law in major win for administration](https://www.theguardian.com/us-news/2025/jul/04/trump-tax-and-spending-bill)
+- [Emma Raducanu fights hard but Aryna Sabalenka ends her Wimbledon dream](https://www.theguardian.com/sport/2025/jul/04/emma-raducanu-fights-hard-but-aryna-sabalenka-ends-her-wimbledon-dream)
+- [Hamas says it is ready to enter ceasefire negotiations in ‘positive spirit’](https://www.theguardian.com/world/2025/jul/04/gaza-ceasefire-talks-hamas-deal-israel)
+- [Jule Brand’s stunner gets Germany off to perfect start against stubborn Poland](https://www.theguardian.com/football/2025/jul/04/germany-poland-womens-euro-2025-match-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

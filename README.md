@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [ADXL345 Die Analysis](https://www.tinytransistors.net/2024/08/25/adxl345/)
-- [OBBB signed: Reinstates immediate expensing for U.S.-based R&amp;D](https://www.kbkg.com/feature/house-passes-tax-bill-sending-to-president-for-signature)
-- [The ITTAGE indirect branch predictor](https://blog.nelhage.com/post/ittage-branch-predictor/)
-- [Show HN: Tinykv – Minimal file-backed key-value store for Rust](https://crates.io/crates/tinykv)
-- [Nvidia is full of shit](https://blog.sebin-nyshkim.net/posts/nvidia-is-full-of-shit/)
-- [Everything around LLMs is still magical and wishful thinking](https://dmitriid.com/everything-around-llms-is-still-magical-and-wishful-thinking)
-- [The Amiga 3000 Unix and Sun Microsystems: Deal or No Deal?](https://www.datagubbe.se/amix/)
-- [Being too ambitious is a clever form of self-sabotage](https://maalvika.substack.com/p/being-too-ambitious-is-a-clever-form)
-- [Continue &lpar;YC S23&rpar; is hiring software engineers in San Francisco](https://www.ycombinator.com/companies/continue/jobs)
-- [Open Source and FPGA Maker Board for Networking](https://privateisland.tech/betsy)
+- [Injection Rejection &lpar;2006&rpar;](https://thedailywtf.com/articles/Injection_Rejection)
+- [Volunteer finds Holy Grail of abolitionist-era Baptist documents](https://www.bostonherald.com/2025/07/03/baptist-anti-slavery-scroll/)
+- [A Canadian&#39;s AI hoax duped the media and propelled a &#39;band&#39; to success](https://www.cbc.ca/news/entertainment/ai-band-hoax-velvet-sundown-1.7575874)
+- [Ask HN: Advice for Starting a Hacker Space?](https://news.ycombinator.com/item?id=44476822)
+- [Serving 200M requests per day with a CGI-bin](https://simonwillison.net/2025/Jul/5/cgi-bin-performance/)
+- [Stop Hiding My Controls: Hidden Interface Controls Are Affecting Usability](https://interactions.acm.org/archive/view/july-august-2025/stop-hiding-my-controls-hidden-interface-controls-are-affecting-usability)
+- [Operators, Not Users and Programmers](https://jyn.dev/operators-not-users-and-programmers/)
+- [What a Hacker Stole from Me](https://mynoise.net/blog.php)
+- [The Right Way to Embed an LLM in a Group Chat](https://blog.tripjam.app/the-right-way-to-embed-an-llm-in-a-group-chat/)
+- [Techno-Feudalism and the Rise of AGI: A Future Without Economic Rights?](https://arxiv.org/abs/2503.14283)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

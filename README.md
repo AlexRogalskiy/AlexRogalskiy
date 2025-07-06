@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Palmeiras v Chelsea: Club World Cup quarter-final – live updates](https://www.theguardian.com/football/live/2025/jul/05/palmeiras-v-chelsea-club-world-cup-quarter-final-live-updates)
-- [Wild kangaroo harvests are labelled ‘needlessly cruel’ by US lawmakers – but backed by Australian conservationists](https://www.theguardian.com/environment/2025/jul/05/wild-kangaroo-harvests-are-labelled-needlessly-cruel-by-us-lawmakers-but-backed-by-australian-conservationists)
-- [‘Catastrophic’ flood in Texas kills at least 13, including children, with more missing from summer camp](https://www.theguardian.com/us-news/2025/jul/04/texas-flooding-disaster-declarations)
-- [Julian McMahon, Fantastic Four, Nip/Tuck and Charmed actor, dies aged 56](https://www.theguardian.com/film/2025/jul/05/julian-mcmahon-dies-aged-56-cause-of-death-fantastic-four-niptuck-charmed)
-- [Oasis review – a shameless trip back to the 90s for Britpop’s loudest, greatest songs](https://www.theguardian.com/music/2025/jul/05/oasis-review-playlist-oasis-big-on-the-first-two-albums-with-little-left-to-chance)
-- [Home Office announces ‘nationwide blitz’ on asylum seekers taking jobs](https://www.theguardian.com/uk-news/2025/jul/05/home-office-announces-nationwide-blitz-on-asylum-seekers-taking-jobs)
-- [Trump signs tax-and-spending bill into law in major win for administration](https://www.theguardian.com/us-news/2025/jul/04/trump-tax-and-spending-bill)
-- [Emma Raducanu fights hard but Aryna Sabalenka ends her Wimbledon dream](https://www.theguardian.com/sport/2025/jul/04/emma-raducanu-fights-hard-but-aryna-sabalenka-ends-her-wimbledon-dream)
-- [Hamas says it is ready to enter ceasefire negotiations in ‘positive spirit’](https://www.theguardian.com/world/2025/jul/04/gaza-ceasefire-talks-hamas-deal-israel)
-- [Jule Brand’s stunner gets Germany off to perfect start against stubborn Poland](https://www.theguardian.com/football/2025/jul/04/germany-poland-womens-euro-2025-match-report)
+- [Ali Khamenei, Iran’s supreme leader, makes first public appearance since Israel war](https://www.theguardian.com/world/2025/jul/06/ali-khamenei-irans-supreme-leader-makes-first-public-appearance-since-israel-war)
+- [Ukraine war briefing: Russia shoots down Ukrainian drones headed for Moscow as key airport halts flights](https://www.theguardian.com/world/2025/jul/06/ukraine-war-briefing-russia-shoots-down-ukrainian-drones-headed-for-moscow-as-key-airport-halts-flights)
+- [Israeli prime minister Benjamin Netanyahu condemns ‘reprehensible’ antisemitic Melbourne synagogue attack](https://www.theguardian.com/australia-news/2025/jul/06/israeli-prime-minister-benjamin-netanyahu-condemns-reprehensible-anti-semitic-melburne-synagogue-attack-ntwnfb)
+- [Black Sabbath and Ozzy Osbourne: Back to the Beginning review – epic all-star farewell to the gods of metal](https://www.theguardian.com/music/2025/jul/06/black-sabbath-and-ozzy-osbourne-back-to-the-beginning-review-all-star-farewell-to-the-gods-of-metal-is-epic-and-emotional)
+- [Texas continues grim flood recovery with at least 43 killed, including 15 children](https://www.theguardian.com/us-news/2025/jul/05/texas-flood-recovery-dozens-dead-children-missing)
+- [‘Cheap’ defending cost England in Euro 2025 opener, admits Leah Williamson](https://www.theguardian.com/football/2025/jul/06/cheap-defending-cost-england-in-euro-2025-opener-admits-leah-williamson)
+- [One-stop family hubs to be opened in all English council areas](https://www.theguardian.com/society/2025/jul/06/one-stop-family-hubs-to-be-opened-in-all-english-council-areas)
+- [Faith Kipyegon breaks her 1500m world record as Beatrice Chebet smashes 5,000m mark](https://www.theguardian.com/sport/2025/jul/05/faith-kipyegon-breaks-her-1500m-world-record-as-beatrice-chebet-smashes-5000m-mark)
+- [Ruthless France take advantage of Wiegman’s gamble on Lauren James | Nick Ames](https://www.theguardian.com/football/2025/jul/05/ruthless-france-take-advantage-of-england-gamble-on-lauren-james)
+- [George Ford marks milestone by leading England to victory in Argentina](https://www.theguardian.com/sport/2025/jul/05/argentina-england-rugby-union-international-match-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

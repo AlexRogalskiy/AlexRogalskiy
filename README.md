@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Pes](https://news.ycombinator.com/item?id=44469847)
-- [A fast and powerful iTunes replacement with mpd, ncmpcpp, beets, and Alfred](https://ssrubin.com/posts/music-library-with-mpd-ncmpcpp-beets.html)
-- [Show HN: Rhome – I made a recommendation platform for long-form media](https://rhomeapp.com)
-- [Amiga Linux &lpar;1993&rpar;](https://groups.google.com/g/comp.sys.amiga.emulations/c/xUgrpylQOXk)
-- [Flint, Michigan finally replaced its lead pipes](https://www.washingtonpost.com/climate-environment/2025/07/01/flint-lead-pipes-replacement/)
-- [AI job substitution is real, but narrow, per new study](https://www.axios.com/2025/06/30/ai-job-vibe-coding-upwork)
-- [The trick for ultra-fast S3 bucket discovery](https://celes.in/posts/s3_dns_enum)
-- [Gone in 40 days: US drops ban on export of chip design tools to China](https://www.theregister.com/2025/07/03/us_eda_export_ban_lifted/)
-- [ADXL345 Die Analysis](https://www.tinytransistors.net/2024/08/25/adxl345/)
-- [Show HN: We made a tool to reduce echo chambers on social media](https://www.tandfonline.com/doi/full/10.1080/29974100.2025.2517191)
+- [Serverless Todo App](https://github.com/Puter-Apps/serverless-todo)
+- [Zuck&#39;s Haul: Tracking Meta&#39;s AI Talent Acquisitions](https://zuckshaul.com)
+- [Injection Rejection &lpar;2006&rpar;](https://thedailywtf.com/articles/Injection_Rejection)
+- [Basically Everyone Should Be Avoiding Docker](https://lukesmith.xyz/articles/everyone-should-be-avoiding-docker/)
+- [China State Council begins investigating and regulating &#39;内卷&#39;](http://www.qstheory.cn/20250629/6d682af56d64487f817084e890fbcdfd/c.html)
+- [Show HN: News Alert ，Real-time global news monitoring with keyword alerts](https://newsalert.im/)
+- [I live in TX and TX needs to do better. Global warming cannot be denied](https://www.cnn.com/2025/07/05/climate/texas-flooding-forecast-response)
+- [The AI Assistant That Turns Thoughts into Actions](https://www.manusai.io)
+- [Volvo delivers 5,000th electric semi with little fanfare](https://electrek.co/2025/06/29/volvo-delivers-5000th-electric-semi-with-little-fanfare-sending-a-big-message/)
+- [Large language models show amplified cognitive biases in moral decision-making](https://www.pnas.org/doi/10.1073/pnas.2412015122)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ali Khamenei, Iran’s supreme leader, makes first public appearance since Israel war](https://www.theguardian.com/world/2025/jul/06/ali-khamenei-irans-supreme-leader-makes-first-public-appearance-since-israel-war)
-- [Ukraine war briefing: Russia shoots down Ukrainian drones headed for Moscow as key airport halts flights](https://www.theguardian.com/world/2025/jul/06/ukraine-war-briefing-russia-shoots-down-ukrainian-drones-headed-for-moscow-as-key-airport-halts-flights)
-- [Israeli prime minister Benjamin Netanyahu condemns ‘reprehensible’ antisemitic Melbourne synagogue attack](https://www.theguardian.com/australia-news/2025/jul/06/israeli-prime-minister-benjamin-netanyahu-condemns-reprehensible-anti-semitic-melburne-synagogue-attack-ntwnfb)
-- [Black Sabbath and Ozzy Osbourne: Back to the Beginning review – epic all-star farewell to the gods of metal](https://www.theguardian.com/music/2025/jul/06/black-sabbath-and-ozzy-osbourne-back-to-the-beginning-review-all-star-farewell-to-the-gods-of-metal-is-epic-and-emotional)
-- [Texas continues grim flood recovery with at least 43 killed, including 15 children](https://www.theguardian.com/us-news/2025/jul/05/texas-flood-recovery-dozens-dead-children-missing)
-- [‘Cheap’ defending cost England in Euro 2025 opener, admits Leah Williamson](https://www.theguardian.com/football/2025/jul/06/cheap-defending-cost-england-in-euro-2025-opener-admits-leah-williamson)
-- [One-stop family hubs to be opened in all English council areas](https://www.theguardian.com/society/2025/jul/06/one-stop-family-hubs-to-be-opened-in-all-english-council-areas)
-- [Faith Kipyegon breaks her 1500m world record as Beatrice Chebet smashes 5,000m mark](https://www.theguardian.com/sport/2025/jul/05/faith-kipyegon-breaks-her-1500m-world-record-as-beatrice-chebet-smashes-5000m-mark)
-- [Ruthless France take advantage of Wiegman’s gamble on Lauren James | Nick Ames](https://www.theguardian.com/football/2025/jul/05/ruthless-france-take-advantage-of-england-gamble-on-lauren-james)
-- [George Ford marks milestone by leading England to victory in Argentina](https://www.theguardian.com/sport/2025/jul/05/argentina-england-rugby-union-international-match-report)
+- [Trump and US commerce secretary say tariffs are delayed until 1 August, sparking confusion](https://www.theguardian.com/us-news/2025/jul/06/trump-tariff-delay)
+- [Texas floods live: 82 people dead, officials say, as Trump declares major disaster](https://www.theguardian.com/us-news/live/2025/jul/06/texas-floods-search-missing-camp-mystic-girls-live-news-updates)
+- [I spoke for my brother when he was too afraid to answer — now, he speaks in melodies, and I have learned to listen](https://www.theguardian.com/commentisfree/2025/jul/07/i-spoke-for-my-brother-when-he-was-too-afraid-to-answer-now-he-speaks-in-melodies-and-i-have-learned-to-listen)
+- [Building a nation: Papua New Guinea’s 50 years of independence](https://www.theguardian.com/world/2025/jul/07/png-independence-1975-50-years-anniversary-papua-new-guinea)
+- [Is Trump tariff deal really a win for Vietnam – or a way of punishing China?](https://www.theguardian.com/world/2025/jul/07/vietnam-trump-tariff-deal)
+- [Ukraine war briefing: Zelenskyy says US, Europe deals will increase drone production](https://www.theguardian.com/world/2025/jul/07/ukraine-war-briefing-zelenskyy-says-us-europe-deals-will-increase-drone-production)
+- [Parents in Britain to be granted bereavement leave after miscarriage](https://www.theguardian.com/society/2025/jul/06/parents-in-britain-to-be-granted-bereavement-leave-after-miscarriage)
+- [Trump says Musk is ‘off the rails’ and calls his new political party ‘ridiculous’](https://www.theguardian.com/us-news/2025/jul/06/elon-musk-america-party-scott-bessent)
+- [More than 23m Britons think they may be due compensation for mis-sold car loans, UK poll finds](https://www.theguardian.com/business/2025/jul/07/more-than-23m-britons-think-they-may-be-due-compensation-for-mis-sold-car-loans-uk-poll-finds)
+- [Wimbledon organisers apologise after line-calling system turned off in error](https://www.theguardian.com/sport/2025/jul/06/cameron-norrie-focus-of-british-hopes-as-he-reaches-wimbledon-quarter-finals)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

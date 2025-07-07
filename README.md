@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Serverless Todo App](https://github.com/Puter-Apps/serverless-todo)
-- [Zuck&#39;s Haul: Tracking Meta&#39;s AI Talent Acquisitions](https://zuckshaul.com)
-- [Injection Rejection &lpar;2006&rpar;](https://thedailywtf.com/articles/Injection_Rejection)
-- [Basically Everyone Should Be Avoiding Docker](https://lukesmith.xyz/articles/everyone-should-be-avoiding-docker/)
-- [China State Council begins investigating and regulating &#39;内卷&#39;](http://www.qstheory.cn/20250629/6d682af56d64487f817084e890fbcdfd/c.html)
-- [Show HN: News Alert ，Real-time global news monitoring with keyword alerts](https://newsalert.im/)
-- [I live in TX and TX needs to do better. Global warming cannot be denied](https://www.cnn.com/2025/07/05/climate/texas-flooding-forecast-response)
-- [The AI Assistant That Turns Thoughts into Actions](https://www.manusai.io)
-- [Volvo delivers 5,000th electric semi with little fanfare](https://electrek.co/2025/06/29/volvo-delivers-5000th-electric-semi-with-little-fanfare-sending-a-big-message/)
-- [Large language models show amplified cognitive biases in moral decision-making](https://www.pnas.org/doi/10.1073/pnas.2412015122)
+- [Winget package manager for Win 10 and 11](https://winstall.app/)
+- [Why Are Satellites Covered in &#39;Gold Foil&#39;? Here&#39;s What It&#39;s For](https://www.slashgear.com/1902166/satellites-gold-foil-use-explained-what-for/)
+- [The Elusive Virtual Cell](https://substack.com/home/post/p-167605121)
+- [High-Throughput Satellite](https://en.wikipedia.org/wiki/High-throughput_satellite)
+- [Oxford explains what made Earth shake &quot;every 90 seconds over nine days&quot; in 2023](https://www.neowin.net/news/oxford-explains-what-made-earth-shake-every-90-seconds-over-nine-days-in-2023/)
+- [Surfing on a Matchbox &lpar;1999&rpar;](http://news.bbc.co.uk/2/hi/science/nature/276762.stm)
+- [Microplastics discovered in human semen and follicular fluid in new research](https://www.cnn.com/2025/07/01/health/microplastics-semen-follicular-fluid-wellness)
+- [Segmentation and Representation Trade-Offs in Chemistry-Aware RAG](https://arxiv.org/abs/2506.17277)
+- [Conventional Commits makes me sad](https://srazkvt.codeberg.page/posts/2025-07-06-conventional-commits-makes-me-sad.html)
+- [Show HN: Formstr releases on device AI generated forms powered by Ollama](https://primal.net/a/naddr1qq25va6zxap4x3t8fpayvat5v4jxj4mpxcu8qq3qqu7dsd44275lms4x9snnwvnnmgx926nsppmr7lcw9dlj36n4fltqxpqqqp65wezd4hk)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

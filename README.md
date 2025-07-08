@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Winget package manager for Win 10 and 11](https://winstall.app/)
-- [Why Are Satellites Covered in &#39;Gold Foil&#39;? Here&#39;s What It&#39;s For](https://www.slashgear.com/1902166/satellites-gold-foil-use-explained-what-for/)
-- [The Elusive Virtual Cell](https://substack.com/home/post/p-167605121)
-- [High-Throughput Satellite](https://en.wikipedia.org/wiki/High-throughput_satellite)
-- [Oxford explains what made Earth shake &quot;every 90 seconds over nine days&quot; in 2023](https://www.neowin.net/news/oxford-explains-what-made-earth-shake-every-90-seconds-over-nine-days-in-2023/)
-- [Surfing on a Matchbox &lpar;1999&rpar;](http://news.bbc.co.uk/2/hi/science/nature/276762.stm)
-- [Microplastics discovered in human semen and follicular fluid in new research](https://www.cnn.com/2025/07/01/health/microplastics-semen-follicular-fluid-wellness)
-- [Segmentation and Representation Trade-Offs in Chemistry-Aware RAG](https://arxiv.org/abs/2506.17277)
-- [Conventional Commits makes me sad](https://srazkvt.codeberg.page/posts/2025-07-06-conventional-commits-makes-me-sad.html)
-- [Show HN: Formstr releases on device AI generated forms powered by Ollama](https://primal.net/a/naddr1qq25va6zxap4x3t8fpayvat5v4jxj4mpxcu8qq3qqu7dsd44275lms4x9snnwvnnmgx926nsppmr7lcw9dlj36n4fltqxpqqqp65wezd4hk)
+- [XAI updated Grok to be more &#39;politically incorrect&#39;](https://www.theverge.com/ai-artificial-intelligence/699788/xai-updated-grok-to-be-more-politically-incorrect)
+- [A Class of Models with the Potential to Represent Fundamental Physics](https://arxiv.org/abs/2004.08210)
+- [Tracking Database Hype Through 1.8M Hacker News Headlines](https://camelai.com/blog/hn-database-hype/)
+- [Context, Memory, and Voice](https://randsinrepose.com/archives/context-memory-and-voice/)
+- [Gemini CLI Update &lpar;2025-07-08&rpar; – Generated from commit logs using the CLI itself](https://gemini-cli.xyz/docs/en/update-2025-07-08)
+- [Chief Keef&#39;s Love Sosa and Michelangelo&#39;s David: A Comparison [video]](https://www.youtube.com/watch?v=1ktlcGhWW2A)
+- [Trying to find meaning in owning an old Mac](https://blog.decryption.net.au/posts/macse30.html)
+- [Personalized Book Recommendations by Lorekeep](https://www.lorekeep.io/)
+- [China used embassies to undermine Rafale sales after India-Pakistan clash](https://www.france24.com/en/france/20250706-china-used-embassies-to-undermine-rafale-sales-after-india-pakistan-clash-french-intel-says)
+- [Bing Translate vulnerable to prompt injection](https://alloc.dev/2025/07/07/bing_translate)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

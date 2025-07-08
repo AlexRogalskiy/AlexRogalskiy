@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Trump and US commerce secretary say tariffs are delayed until 1 August, sparking confusion](https://www.theguardian.com/us-news/2025/jul/06/trump-tariff-delay)
-- [Texas floods live: 82 people dead, officials say, as Trump declares major disaster](https://www.theguardian.com/us-news/live/2025/jul/06/texas-floods-search-missing-camp-mystic-girls-live-news-updates)
-- [I spoke for my brother when he was too afraid to answer — now, he speaks in melodies, and I have learned to listen](https://www.theguardian.com/commentisfree/2025/jul/07/i-spoke-for-my-brother-when-he-was-too-afraid-to-answer-now-he-speaks-in-melodies-and-i-have-learned-to-listen)
-- [Building a nation: Papua New Guinea’s 50 years of independence](https://www.theguardian.com/world/2025/jul/07/png-independence-1975-50-years-anniversary-papua-new-guinea)
-- [Is Trump tariff deal really a win for Vietnam – or a way of punishing China?](https://www.theguardian.com/world/2025/jul/07/vietnam-trump-tariff-deal)
-- [Ukraine war briefing: Zelenskyy says US, Europe deals will increase drone production](https://www.theguardian.com/world/2025/jul/07/ukraine-war-briefing-zelenskyy-says-us-europe-deals-will-increase-drone-production)
-- [Parents in Britain to be granted bereavement leave after miscarriage](https://www.theguardian.com/society/2025/jul/06/parents-in-britain-to-be-granted-bereavement-leave-after-miscarriage)
-- [Trump says Musk is ‘off the rails’ and calls his new political party ‘ridiculous’](https://www.theguardian.com/us-news/2025/jul/06/elon-musk-america-party-scott-bessent)
-- [More than 23m Britons think they may be due compensation for mis-sold car loans, UK poll finds](https://www.theguardian.com/business/2025/jul/07/more-than-23m-britons-think-they-may-be-due-compensation-for-mis-sold-car-loans-uk-poll-finds)
-- [Wimbledon organisers apologise after line-calling system turned off in error](https://www.theguardian.com/sport/2025/jul/06/cameron-norrie-focus-of-british-hopes-as-he-reaches-wimbledon-quarter-finals)
+- [Red Sea cargo ships face new attacks as Houthis claim to have sunk vessel](https://www.theguardian.com/world/2025/jul/08/red-sea-cargo-ships-yemen-houthi-attacks-bulk-carrier-sinking)
+- [Ukraine war briefing: US to resume shipments of weapons for Ukrainian defence](https://www.theguardian.com/world/2025/jul/08/ukraine-war-briefing-sanctions-over-russian-chemical-weapons-on-battlefield)
+- [Melting glaciers and ice caps could unleash wave of volcanic eruptions, study says](https://www.theguardian.com/environment/2025/jul/08/climate-crisis-melting-glaciers-ice-caps-volcanic-eruptions-chile-antartica-volcanoes)
+- [Drugs smuggled by drone undermining rehabilitation in prisons, watchdog warns](https://www.theguardian.com/society/2025/jul/08/drugs-smuggled-by-drone-undermining-rehabilitation-in-prisons-watchdog-warns)
+- [Ted Cruz ensured Trump spending bill slashed weather forecasting funding](https://www.theguardian.com/us-news/2025/jul/07/ted-cruz-trump-weather-forecasting-cuts)
+- [Jurors shown CCTV footage of brothers’ alleged assault of police officers at Manchester airport](https://www.theguardian.com/uk-news/2025/jul/07/jurors-shown-cctv-footage-of-brothers-alleged-assault-of-police-officers-at-manchester-airport)
+- [Diana Gomes rescues Portugal dream with late equaliser to deny Italy victory](https://www.theguardian.com/football/2025/jul/07/portugal-italy-womens-euro-2025-match-report)
+- [Trump delays tariff hikes again but announces new rates for some countries](https://www.theguardian.com/us-news/2025/jul/07/trump-tariffs-japan-south-korea)
+- [Player faith in technology shaken by storm around AI line-calling at Wimbledon](https://www.theguardian.com/sport/2025/jul/07/player-faith-in-technology-shaken-by-storm-around-ai-line-calling-at-wimbledon)
+- [Man with assault rifle killed after shooting at Texas border patrol facility](https://www.theguardian.com/us-news/2025/jul/07/texas-border-patrol-man-assault-rifle)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

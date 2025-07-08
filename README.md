@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [America has two labor markets now](https://www.axios.com/2025/07/06/unemployment-job-market-education-health-care)
-- [Web3 Onboarding Was a Flop – and Thank Goodness](https://tomhadley.link/blog/web3-onboarding-flop)
-- [Pangu&#39;s Sorrow: The Sorrow and Darkness of Huawei&#39;s Noah Pangu LLM R&amp;D Process](https://github.com/moonlightelite/True-Story-of-Pangu/blob/main/README.md)
-- [Bitchat – A decentralized messaging app that works over Bluetooth mesh networks](https://github.com/jackjackbits/bitchat)
-- [There&#39;s a COMPUTER inside my DS flashcart [video]](https://www.youtube.com/watch?v=uq0pJmd7GAA)
-- [Swedish Campground: &quot;There are too many Apples on the screen!&quot;](https://www.folklore.org/Swedish_Campground.html)
-- [Centaur: A Controversial Leap Towards Simulating Human Cognition](https://insidescientific.com/centaur-a-controversial-leap-towards-simulating-human-cognition/)
-- [Intel&#39;s Lion Cove P-Core and Gaming Workloads](https://chipsandcheese.com/p/intels-lion-cove-p-core-and-gaming)
-- [Nobody has a personality anymore: we are products with labels](https://www.freyaindia.co.uk/p/nobody-has-a-personality-anymore)
-- [Building the Rust Compiler with GCC](https://fractalfir.github.io/generated_html/cg_gcc_bootstrap.html)
+- [Trying to find meaning in owning an old Mac](https://blog.decryption.net.au/posts/macse30.html)
+- [BBC staff: we&#39;re forced to do pro-Israel PR](https://www.owenjones.news/p/bbc-staff-were-forced-to-do-pro-israel)
+- [LookingGlass: Generative Anamorphoses via Laplacian Pyramid Warping](https://studios.disneyresearch.com/2025/06/09/lookingglass-generative-anamorphoses-via-laplacian-pyramid-warping/)
+- [You Should Run a Certificate Transparency Log](https://words.filippo.io/run-sunlight/)
+- [New sphere-packing record stems from an unexpected source](https://www.quantamagazine.org/new-sphere-packing-record-stems-from-an-unexpected-source-20250707/)
+- [My first verified imperative program](https://markushimmel.de/blog/my-first-verified-imperative-program/)
+- [Show HN: Ossia score – A sequencer for audio-visual artists](https://github.com/ossia/score)
+- [The Era of Exploration](https://yidingjiang.github.io/blog/post/exploration/)
+- [Adding a feature because ChatGPT incorrectly thinks it exists](https://www.holovaty.com/writing/chatgpt-fake-feature/)
+- [Launch HN: Morph &lpar;YC S23&rpar; – Apply AI code edits at 4,500 tokens/sec](https://news.ycombinator.com/item?id=44490863)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

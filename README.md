@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Red Sea cargo ships face new attacks as Houthis claim to have sunk vessel](https://www.theguardian.com/world/2025/jul/08/red-sea-cargo-ships-yemen-houthi-attacks-bulk-carrier-sinking)
-- [Ukraine war briefing: US to resume shipments of weapons for Ukrainian defence](https://www.theguardian.com/world/2025/jul/08/ukraine-war-briefing-sanctions-over-russian-chemical-weapons-on-battlefield)
-- [Melting glaciers and ice caps could unleash wave of volcanic eruptions, study says](https://www.theguardian.com/environment/2025/jul/08/climate-crisis-melting-glaciers-ice-caps-volcanic-eruptions-chile-antartica-volcanoes)
-- [Drugs smuggled by drone undermining rehabilitation in prisons, watchdog warns](https://www.theguardian.com/society/2025/jul/08/drugs-smuggled-by-drone-undermining-rehabilitation-in-prisons-watchdog-warns)
-- [Ted Cruz ensured Trump spending bill slashed weather forecasting funding](https://www.theguardian.com/us-news/2025/jul/07/ted-cruz-trump-weather-forecasting-cuts)
-- [Jurors shown CCTV footage of brothers’ alleged assault of police officers at Manchester airport](https://www.theguardian.com/uk-news/2025/jul/07/jurors-shown-cctv-footage-of-brothers-alleged-assault-of-police-officers-at-manchester-airport)
-- [Diana Gomes rescues Portugal dream with late equaliser to deny Italy victory](https://www.theguardian.com/football/2025/jul/07/portugal-italy-womens-euro-2025-match-report)
-- [Trump delays tariff hikes again but announces new rates for some countries](https://www.theguardian.com/us-news/2025/jul/07/trump-tariffs-japan-south-korea)
-- [Player faith in technology shaken by storm around AI line-calling at Wimbledon](https://www.theguardian.com/sport/2025/jul/07/player-faith-in-technology-shaken-by-storm-around-ai-line-calling-at-wimbledon)
-- [Man with assault rifle killed after shooting at Texas border patrol facility](https://www.theguardian.com/us-news/2025/jul/07/texas-border-patrol-man-assault-rifle)
+- [Ukraine war briefing: US weapons supply pause ‘caught Trump off guard’](https://www.theguardian.com/world/2025/jul/09/ukraine-war-briefing-us-weapons-supply-pause-caught-trump-off-guard)
+- [MethaneSat down: how New Zealand space ambitions fell off the radar](https://www.theguardian.com/world/2025/jul/09/new-zealand-satellite-methanesat-missing-lost-in-space)
+- [‘Punishing workers for getting old’: how South Korea’s wage system impoverishes the elderly](https://www.theguardian.com/world/2025/jul/09/south-korea-peak-wage-system-raise-retirement-age-elderly-workers-poverty)
+- [Jury trials must be limited to save criminal justice system from collapse, inquiry finds](https://www.theguardian.com/uk-news/2025/jul/09/jury-trials-must-be-limited-to-save-criminal-justice-system-from-collapse-inquiry-finds)
+- [ASA cracks down on online pharmacies advertising weight loss injections](https://www.theguardian.com/business/2025/jul/09/asa-cracks-down-on-online-pharmacies-advertising-weight-loss-injections)
+- [Transaction review – ITV’s anarchic new sitcom dives right into the most taboo parts of trans life](https://www.theguardian.com/tv-and-radio/2025/jul/08/transaction-review-itv-sitcom-trans-life-jordan-gray)
+- [Texas floods: more than 100 people dead and at least 161 still missing](https://www.theguardian.com/us-news/2025/jul/08/texas-flood-death-toll-response)
+- [João Pedro sends Chelsea to Club World Cup final as stunners sink Fluminense](https://www.theguardian.com/football/2025/jul/08/fluminense-chelsea-club-world-cup-semi-final-match-report)
+- [Blackstenius seals Sweden’s knockout place as victory eliminates Poland](https://www.theguardian.com/football/2025/jul/08/poland-sweden-womens-euro-2025-group-c-match-report)
+- [Cameron Norrie’s meek exit leaves Centre Court pining for the days of Murray](https://www.theguardian.com/sport/2025/jul/08/cameron-norrie-carlos-alcaraz-wimbledon-andy-murray)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

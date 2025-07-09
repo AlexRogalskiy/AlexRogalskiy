@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Trying to find meaning in owning an old Mac](https://blog.decryption.net.au/posts/macse30.html)
-- [BBC staff: we&#39;re forced to do pro-Israel PR](https://www.owenjones.news/p/bbc-staff-were-forced-to-do-pro-israel)
-- [LookingGlass: Generative Anamorphoses via Laplacian Pyramid Warping](https://studios.disneyresearch.com/2025/06/09/lookingglass-generative-anamorphoses-via-laplacian-pyramid-warping/)
-- [You Should Run a Certificate Transparency Log](https://words.filippo.io/run-sunlight/)
-- [New sphere-packing record stems from an unexpected source](https://www.quantamagazine.org/new-sphere-packing-record-stems-from-an-unexpected-source-20250707/)
-- [My first verified imperative program](https://markushimmel.de/blog/my-first-verified-imperative-program/)
-- [Show HN: Ossia score – A sequencer for audio-visual artists](https://github.com/ossia/score)
-- [The Era of Exploration](https://yidingjiang.github.io/blog/post/exploration/)
-- [Adding a feature because ChatGPT incorrectly thinks it exists](https://www.holovaty.com/writing/chatgpt-fake-feature/)
-- [Launch HN: Morph &lpar;YC S23&rpar; – Apply AI code edits at 4,500 tokens/sec](https://news.ycombinator.com/item?id=44490863)
+- [US court strikes down &#39;click-to-cancel&#39; rule designed to make unsubscribing easy](https://www.theguardian.com/us-news/2025/jul/08/court-click-to-cancel-ruling)
+- [Swahili on the Road](https://www.historytoday.com/archive/behind-times/swahili-road)
+- [Bulgaria to join euro area on 1 January 2026](https://www.ecb.europa.eu//press/pr/date/2025/html/ecb.pr250708~b9676a9fa8.en.html)
+- [Frame of preference A history of Mac settings, 1984–2004](https://aresluna.org/frame-of-preference/)
+- [Choosing a Database Schema for Polymorphic Data &lpar;2024&rpar;](https://www.dolthub.com/blog/2024-06-25-polymorphic-associations/)
+- [Xenharmlib: A music theory library that supports non-western harmonic systems](https://xenharmlib.readthedocs.io/en/latest/)
+- [The Tradeoffs of SSMs and Transformers](https://goombalab.github.io/blog/2025/tradeoffs/)
+- [Dynamical origin of Theia, the last giant impactor on Earth](https://arxiv.org/abs/2507.01826)
+- [Brut: A New Web Framework for Ruby](https://naildrivin5.com/blog/2025/07/08/brut-a-new-web-framework-for-ruby.html)
+- [Breaking Git with a carriage return and cloning RCE](https://dgl.cx/2025/07/git-clone-submodule-cve-2025-48384)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

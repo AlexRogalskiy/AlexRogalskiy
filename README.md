@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [XAI updated Grok to be more &#39;politically incorrect&#39;](https://www.theverge.com/ai-artificial-intelligence/699788/xai-updated-grok-to-be-more-politically-incorrect)
-- [A Class of Models with the Potential to Represent Fundamental Physics](https://arxiv.org/abs/2004.08210)
-- [Tracking Database Hype Through 1.8M Hacker News Headlines](https://camelai.com/blog/hn-database-hype/)
-- [Context, Memory, and Voice](https://randsinrepose.com/archives/context-memory-and-voice/)
-- [Gemini CLI Update &lpar;2025-07-08&rpar; – Generated from commit logs using the CLI itself](https://gemini-cli.xyz/docs/en/update-2025-07-08)
-- [Chief Keef&#39;s Love Sosa and Michelangelo&#39;s David: A Comparison [video]](https://www.youtube.com/watch?v=1ktlcGhWW2A)
-- [Trying to find meaning in owning an old Mac](https://blog.decryption.net.au/posts/macse30.html)
-- [Personalized Book Recommendations by Lorekeep](https://www.lorekeep.io/)
-- [China used embassies to undermine Rafale sales after India-Pakistan clash](https://www.france24.com/en/france/20250706-china-used-embassies-to-undermine-rafale-sales-after-india-pakistan-clash-french-intel-says)
-- [Bing Translate vulnerable to prompt injection](https://alloc.dev/2025/07/07/bing_translate)
+- [Jeffrey Epstein&#39;s Island Visitors Exposed by Data Broker](https://www.wired.com/story/jeffrey-epstein-island-visitors-data-broker-leak/)
+- [Infinite Mac Construction Set](https://blog.persistent.info/2025/07/infinite-mac-embedding.html)
+- [Welcome to Thunderbird 140 &quot;Eclipse&quot;](https://blog.thunderbird.net/2025/07/welcome-to-thunderbird-140-eclipse/)
+- [VOₓ-Based Non-Volatile Radio-Frequency Switches for Reconfigurable Filter](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202501989)
+- [The AI Creative Destruction Wave](https://danielmiessler.com/blog/ai-creative-destruction-wave)
+- [NSFW YouTube: Watch YouTube Videos Without Logging In](https://www.nsfwyoutube.com/watch?v=QJ3EClQHsOs)
+- [Russia allegedly field-testing deadly AI drone powered by Nvidia Jetson Orin](https://www.tomshardware.com/tech-industry/artificial-intelligence/russia-allegedly-field-testing-deadly-next-gen-ai-drone-powered-by-nvidia-jetson-orin-ukrainian-military-official-says-shahed-ms001-is-a-digital-predator-that-identifies-targets-on-its-own)
+- [Free AI Video to Prompt Generator: Instantly Turn Videos into Prompts](https://videotoprompt.online)
+- [UK post office scandal led to 13 suspected suicides, says report](https://www.reuters.com/world/uk/human-suffering-uk-post-office-scandal-laid-bare-report-2025-07-08/)
+- [Emotion, not just action, helps brain define, divide events](https://medicalxpress.com/news/2025-06-emotion-action-brain-events.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

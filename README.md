@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [US court strikes down &#39;click-to-cancel&#39; rule designed to make unsubscribing easy](https://www.theguardian.com/us-news/2025/jul/08/court-click-to-cancel-ruling)
-- [Swahili on the Road](https://www.historytoday.com/archive/behind-times/swahili-road)
-- [Bulgaria to join euro area on 1 January 2026](https://www.ecb.europa.eu//press/pr/date/2025/html/ecb.pr250708~b9676a9fa8.en.html)
-- [Frame of preference A history of Mac settings, 1984–2004](https://aresluna.org/frame-of-preference/)
-- [Choosing a Database Schema for Polymorphic Data &lpar;2024&rpar;](https://www.dolthub.com/blog/2024-06-25-polymorphic-associations/)
-- [Xenharmlib: A music theory library that supports non-western harmonic systems](https://xenharmlib.readthedocs.io/en/latest/)
-- [The Tradeoffs of SSMs and Transformers](https://goombalab.github.io/blog/2025/tradeoffs/)
-- [Dynamical origin of Theia, the last giant impactor on Earth](https://arxiv.org/abs/2507.01826)
-- [Brut: A New Web Framework for Ruby](https://naildrivin5.com/blog/2025/07/08/brut-a-new-web-framework-for-ruby.html)
-- [Breaking Git with a carriage return and cloning RCE](https://dgl.cx/2025/07/git-clone-submodule-cve-2025-48384)
+- [The case for building operator interfaces before AI agents](https://www.henrypray.com/writings/the-only-saas-feature-you-should-be-building)
+- [Show HN: I built a playground to showcase what Flux Kontext is good at](https://fluxkontextlab.com)
+- [MCP-B: A Protocol for AI Browser Automation](https://mcp-b.ai/)
+- [Show HN: Petrichor – a free, open-source, offline music player for macOS](https://github.com/kushalpandya/Petrichor)
+- [A Typology of Canadianisms](https://dchp.arts.ubc.ca/how-to-use)
+- [Multi-Region Row Level Security in CockroachDB](https://www.cockroachlabs.com/blog/fine-grained-access-control-row-level-security/)
+- [White Noise – secure and private messenger](https://www.whitenoise.chat/)
+- [HyAB k-means for color quantization](https://30fps.net/pages/hyab-kmeans/)
+- [Show HN: MCP server for searching and downloading documents from Anna&#39;s Archive](https://github.com/iosifache/annas-mcp)
+- [Would You Like an IDOR With That? Leaking 64m McDonald&#39;s Job Applications](https://ian.sh/mcdonalds)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

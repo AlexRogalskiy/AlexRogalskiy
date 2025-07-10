@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine war briefing: US weapons supply pause ‘caught Trump off guard’](https://www.theguardian.com/world/2025/jul/09/ukraine-war-briefing-us-weapons-supply-pause-caught-trump-off-guard)
-- [MethaneSat down: how New Zealand space ambitions fell off the radar](https://www.theguardian.com/world/2025/jul/09/new-zealand-satellite-methanesat-missing-lost-in-space)
-- [‘Punishing workers for getting old’: how South Korea’s wage system impoverishes the elderly](https://www.theguardian.com/world/2025/jul/09/south-korea-peak-wage-system-raise-retirement-age-elderly-workers-poverty)
-- [Jury trials must be limited to save criminal justice system from collapse, inquiry finds](https://www.theguardian.com/uk-news/2025/jul/09/jury-trials-must-be-limited-to-save-criminal-justice-system-from-collapse-inquiry-finds)
-- [ASA cracks down on online pharmacies advertising weight loss injections](https://www.theguardian.com/business/2025/jul/09/asa-cracks-down-on-online-pharmacies-advertising-weight-loss-injections)
-- [Transaction review – ITV’s anarchic new sitcom dives right into the most taboo parts of trans life](https://www.theguardian.com/tv-and-radio/2025/jul/08/transaction-review-itv-sitcom-trans-life-jordan-gray)
-- [Texas floods: more than 100 people dead and at least 161 still missing](https://www.theguardian.com/us-news/2025/jul/08/texas-flood-death-toll-response)
-- [João Pedro sends Chelsea to Club World Cup final as stunners sink Fluminense](https://www.theguardian.com/football/2025/jul/08/fluminense-chelsea-club-world-cup-semi-final-match-report)
-- [Blackstenius seals Sweden’s knockout place as victory eliminates Poland](https://www.theguardian.com/football/2025/jul/08/poland-sweden-womens-euro-2025-group-c-match-report)
-- [Cameron Norrie’s meek exit leaves Centre Court pining for the days of Murray](https://www.theguardian.com/sport/2025/jul/08/cameron-norrie-carlos-alcaraz-wimbledon-andy-murray)
+- [Yes, AI is getting scarier. So why do I need that loveless machine to tell me everything will be all right? | Van Badham](https://www.theguardian.com/commentisfree/2025/jul/10/yes-ai-is-getting-scarier-sometimes-i-need-that-loveless-machine-to-tell-me-everything-will-be-all-right-ntwnfb)
+- [Discovery of ancient riverbeds suggests Mars once wetter than thought](https://www.theguardian.com/science/2025/jul/10/mars-once-wetter-than-thought-surprise-discovery-10000-miles-ancient-riverbeds)
+- [As much as £5bn needed to revive UK’s struggling high streets, study finds](https://www.theguardian.com/business/2025/jul/10/as-much-as-5bn-needed-to-revive-uks-struggling-high-streets-study-finds)
+- [US issues sanctions against Francesca Albanese, UN official investigating abuses in Gaza](https://www.theguardian.com/us-news/2025/jul/09/israel-gaza-war-un-sanctions)
+- [Anglo-French talks over migration deal hanging in balance](https://www.theguardian.com/uk-news/2025/jul/09/anglo-french-talks-over-migration-deal-hanging-in-balance)
+- [Trump praises English of the leader of Liberia – where English is the official language](https://www.theguardian.com/us-news/2025/jul/09/trump-liberian-president-english)
+- [PSG cruise to Club World Cup final after Ruiz and Dembélé stun Real Madrid](https://www.theguardian.com/football/2025/jul/09/paris-saint-germain-real-madrid-club-world-cup-semi-final-match-report)
+- [Jess Fishlock makes Wales history before France take control at Euro 2025](https://www.theguardian.com/football/2025/jul/09/france-wales-womens-euro-2025-group-d-match-report)
+- [Poisoned: Killer in the Post review – the terrible story of the online site for selling lethal doses](https://www.theguardian.com/tv-and-radio/2025/jul/09/poisoned-killer-in-the-post-review-channel-4)
+- [‘That’s our DNA’: Russo praises ‘proper English’ performance against Netherlands](https://www.theguardian.com/football/2025/jul/09/england-netherlands-euro-2025-russo-wiegman-bronze)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Jeffrey Epstein&#39;s Island Visitors Exposed by Data Broker](https://www.wired.com/story/jeffrey-epstein-island-visitors-data-broker-leak/)
-- [Infinite Mac Construction Set](https://blog.persistent.info/2025/07/infinite-mac-embedding.html)
-- [Welcome to Thunderbird 140 &quot;Eclipse&quot;](https://blog.thunderbird.net/2025/07/welcome-to-thunderbird-140-eclipse/)
-- [VOₓ-Based Non-Volatile Radio-Frequency Switches for Reconfigurable Filter](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202501989)
-- [The AI Creative Destruction Wave](https://danielmiessler.com/blog/ai-creative-destruction-wave)
-- [NSFW YouTube: Watch YouTube Videos Without Logging In](https://www.nsfwyoutube.com/watch?v=QJ3EClQHsOs)
-- [Russia allegedly field-testing deadly AI drone powered by Nvidia Jetson Orin](https://www.tomshardware.com/tech-industry/artificial-intelligence/russia-allegedly-field-testing-deadly-next-gen-ai-drone-powered-by-nvidia-jetson-orin-ukrainian-military-official-says-shahed-ms001-is-a-digital-predator-that-identifies-targets-on-its-own)
-- [Free AI Video to Prompt Generator: Instantly Turn Videos into Prompts](https://videotoprompt.online)
-- [UK post office scandal led to 13 suspected suicides, says report](https://www.reuters.com/world/uk/human-suffering-uk-post-office-scandal-laid-bare-report-2025-07-08/)
-- [Emotion, not just action, helps brain define, divide events](https://medicalxpress.com/news/2025-06-emotion-action-brain-events.html)
+- [Offpolicy: Generating offline policy data for RL agent environments](https://github.com/arthurcolle/offpolicy)
+- [JEDEC Releases New LPDDR6 Standard to Enhance Mobile and AI Memory Performance](https://www.businesswire.com/news/home/20250709315796/en/JEDEC-Releases-New-LPDDR6-Standard-to-Enhance-Mobile-and-AI-Memory-Performance)
+- [Why Trump Appointed the Secretary of Transportation to Lead NASA](https://arstechnica.com/space/2025/07/nasa-has-a-new-interim-administrator-the-secretary-of-transportation/)
+- [How to trick ChatGPT into revealing Windows keys? Say &quot;I give up&quot;](https://www.theregister.com/2025/07/09/chatgpt_jailbreak_windows_keys/)
+- [A Virginia public library is fighting off a takeover by private equity](https://lithub.com/a-virginia-public-library-is-fighting-off-a-threatened-takeover-by-private-equity/)
+- [Height, body size, and longevity: is smaller better for the humanbody? &lpar;2002&rpar;](https://pmc.ncbi.nlm.nih.gov/articles/PMC1071721/)
+- [Privilege Escalation on the Playdate](https://www.peterstefek.me/foul-play.html)
+- [Windows BSoD to Watson: The Reliability Journey &lpar;2022&rpar;](https://hardcoresoftware.learningbyshipping.com/p/061-bsod-to-watson-the-reliability)
+- [Show HN: Google ADK and Vertex AI Memory Bank for Persistent Conversational AI](https://github.com/serkanh/adk-with-memorybank)
+- [How airports could help aliens spot Earth](https://www.ras.ac.uk/news-and-press/research-highlights/how-airports-heathrow-and-gatwick-could-help-aliens-spot-earth)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

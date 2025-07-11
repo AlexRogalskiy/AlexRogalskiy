@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The case for building operator interfaces before AI agents](https://www.henrypray.com/writings/the-only-saas-feature-you-should-be-building)
-- [Show HN: I built a playground to showcase what Flux Kontext is good at](https://fluxkontextlab.com)
-- [MCP-B: A Protocol for AI Browser Automation](https://mcp-b.ai/)
-- [Show HN: Petrichor – a free, open-source, offline music player for macOS](https://github.com/kushalpandya/Petrichor)
-- [A Typology of Canadianisms](https://dchp.arts.ubc.ca/how-to-use)
-- [Multi-Region Row Level Security in CockroachDB](https://www.cockroachlabs.com/blog/fine-grained-access-control-row-level-security/)
-- [White Noise – secure and private messenger](https://www.whitenoise.chat/)
-- [HyAB k-means for color quantization](https://30fps.net/pages/hyab-kmeans/)
-- [Show HN: MCP server for searching and downloading documents from Anna&#39;s Archive](https://github.com/iosifache/annas-mcp)
-- [Would You Like an IDOR With That? Leaking 64m McDonald&#39;s Job Applications](https://ian.sh/mcdonalds)
+- [Nerve pain drug gabapentin linked to increased dementia, cognitive impairment](https://medicalxpress.com/news/2025-07-nerve-pain-drug-gabapentin-linked.html)
+- [&#39;Autofocus&#39; specs promise sharp vision, near or far](https://www.bbc.com/news/articles/cj6r06d7xdjo)
+- [Turkey bans Grok over Erdoğan insults](https://www.politico.eu/article/turkey-ban-elon-musk-grok-recep-tayyip-erdogan-insult/)
+- [Show HN: Pangolin – Open source alternative to Cloudflare Tunnels](https://github.com/fosrl/pangolin)
+- [Final report on Alaska Airlines Flight 1282 in-flight exit door plug separation](https://www.ntsb.gov:443/investigations/Pages/DCA24MA063.aspx)
+- [Grok 4](https://simonwillison.net/2025/Jul/10/grok-4/)
+- [Show HN: Cactus – Ollama for Smartphones](https://news.ycombinator.com/item?id=44524544)
+- [eBPF: Connecting with Container Runtimes](https://h0x0er.github.io/blog/2025/06/29/ebpf-connecting-with-container-runtimes/)
+- [Belkin ending support for older Wemo products](https://www.belkin.com/support-article/?articleNum=335419)
+- [Launch HN: Leaping &lpar;YC W25&rpar; – Self-Improving Voice AI](https://news.ycombinator.com/item?id=44523523)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Offpolicy: Generating offline policy data for RL agent environments](https://github.com/arthurcolle/offpolicy)
-- [JEDEC Releases New LPDDR6 Standard to Enhance Mobile and AI Memory Performance](https://www.businesswire.com/news/home/20250709315796/en/JEDEC-Releases-New-LPDDR6-Standard-to-Enhance-Mobile-and-AI-Memory-Performance)
-- [Why Trump Appointed the Secretary of Transportation to Lead NASA](https://arstechnica.com/space/2025/07/nasa-has-a-new-interim-administrator-the-secretary-of-transportation/)
-- [How to trick ChatGPT into revealing Windows keys? Say &quot;I give up&quot;](https://www.theregister.com/2025/07/09/chatgpt_jailbreak_windows_keys/)
-- [A Virginia public library is fighting off a takeover by private equity](https://lithub.com/a-virginia-public-library-is-fighting-off-a-threatened-takeover-by-private-equity/)
-- [Height, body size, and longevity: is smaller better for the humanbody? &lpar;2002&rpar;](https://pmc.ncbi.nlm.nih.gov/articles/PMC1071721/)
-- [Privilege Escalation on the Playdate](https://www.peterstefek.me/foul-play.html)
-- [Windows BSoD to Watson: The Reliability Journey &lpar;2022&rpar;](https://hardcoresoftware.learningbyshipping.com/p/061-bsod-to-watson-the-reliability)
-- [Show HN: Google ADK and Vertex AI Memory Bank for Persistent Conversational AI](https://github.com/serkanh/adk-with-memorybank)
-- [How airports could help aliens spot Earth](https://www.ras.ac.uk/news-and-press/research-highlights/how-airports-heathrow-and-gatwick-could-help-aliens-spot-earth)
+- [Qthreads – large numbers of threads conveniently and easily](https://github.com/sandialabs/qthreads)
+- [The computational cost of corporate rebranding](https://news.ycombinator.com/item?id=44528093)
+- [MemOS, the first &#39;memory operating system&#39; that gives AI human-like recall](https://venturebeat.com/ai/chinese-researchers-unveil-memos-the-first-memory-operating-system-that-gives-ai-human-like-recall/)
+- [&quot;A heist&quot;: Senator calls out Texas for trying to steal shuttle from Smithsonian](https://arstechnica.com/space/2025/07/its-a-heist-senator-calls-out-texas-for-trying-to-steal-shuttle-from-smithsonian/)
+- [Kinds of Knowledge Worth Remembering](https://domofutu.substack.com/p/7-kinds-of-knowledge-worth-remembering)
+- [Astronomers detect first known &#39;death wish&#39; planet](https://www.popsci.com/science/planet-death-wish/)
+- [Full QuickJS Support for Nginx](https://blog.nginx.org/blog/quickjs-engine-support-for-njs)
+- [PDF Barber – Split and Merge PDFs Online – Free Privacy-First PDF Tool](https://www.pdfbarber.com/)
+- [LLM Inference Handbook](https://bentoml.com/llm/)
+- [Little videos are cooking our brains: How do we reclaim our attention?](https://www.vox.com/technology/419430/ai-tiktok-youtube-shorts-instagram-reels)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

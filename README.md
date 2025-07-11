@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Yes, AI is getting scarier. So why do I need that loveless machine to tell me everything will be all right? | Van Badham](https://www.theguardian.com/commentisfree/2025/jul/10/yes-ai-is-getting-scarier-sometimes-i-need-that-loveless-machine-to-tell-me-everything-will-be-all-right-ntwnfb)
-- [Discovery of ancient riverbeds suggests Mars once wetter than thought](https://www.theguardian.com/science/2025/jul/10/mars-once-wetter-than-thought-surprise-discovery-10000-miles-ancient-riverbeds)
-- [As much as £5bn needed to revive UK’s struggling high streets, study finds](https://www.theguardian.com/business/2025/jul/10/as-much-as-5bn-needed-to-revive-uks-struggling-high-streets-study-finds)
-- [US issues sanctions against Francesca Albanese, UN official investigating abuses in Gaza](https://www.theguardian.com/us-news/2025/jul/09/israel-gaza-war-un-sanctions)
-- [Anglo-French talks over migration deal hanging in balance](https://www.theguardian.com/uk-news/2025/jul/09/anglo-french-talks-over-migration-deal-hanging-in-balance)
-- [Trump praises English of the leader of Liberia – where English is the official language](https://www.theguardian.com/us-news/2025/jul/09/trump-liberian-president-english)
-- [PSG cruise to Club World Cup final after Ruiz and Dembélé stun Real Madrid](https://www.theguardian.com/football/2025/jul/09/paris-saint-germain-real-madrid-club-world-cup-semi-final-match-report)
-- [Jess Fishlock makes Wales history before France take control at Euro 2025](https://www.theguardian.com/football/2025/jul/09/france-wales-womens-euro-2025-group-d-match-report)
-- [Poisoned: Killer in the Post review – the terrible story of the online site for selling lethal doses](https://www.theguardian.com/tv-and-radio/2025/jul/09/poisoned-killer-in-the-post-review-channel-4)
-- [‘That’s our DNA’: Russo praises ‘proper English’ performance against Netherlands](https://www.theguardian.com/football/2025/jul/09/england-netherlands-euro-2025-russo-wiegman-bronze)
+- [Rubio in bind as he seeks to reassure Asia, even as region faces punishing Trump tariffs](https://www.theguardian.com/business/2025/jul/11/marco-rubio-asia-visit-trump-tariffs)
+- [North Korean defector to sue Kim Jong-un alleging torture and sexual violence in regime’s detention facilities](https://www.theguardian.com/world/2025/jul/11/north-korea-defector-to-sue-kim-jong-un)
+- [Ukraine war briefing: Trump poised to send weapons under Biden-style drawdown, say sources](https://www.theguardian.com/world/2025/jul/11/ukraine-war-briefing-trump-poised-to-send-weapons-under-biden-style-drawdown-say-sources)
+- [Slovakia festival hosting Kanye West cancelled after thousands sign petition condemning Heil Hitler rapper](https://www.theguardian.com/music/2025/jul/11/rubicon-festival-cancelled-kanye-west-slovakia)
+- [Welcome to Prime Day, when thousands of product thumbnails blur together to form a giant pile of garbage | Anna Spargo-Ryan](https://www.theguardian.com/commentisfree/2025/jul/11/prime-day-2025-sales-australia-amazon-deals-overwhelm)
+- [Black people in England four times as likely to face homelessness, study finds](https://www.theguardian.com/society/2025/jul/11/race-homelessness-social-housing-study-england-uk)
+- [Government inheriting poor value assets due to bad handling of PFI contracts, watchdog says](https://www.theguardian.com/politics/2025/jul/11/government-inheriting-poor-value-assets-due-to-bad-handling-of-pfi-contracts-watchdog-says)
+- [Social media incentivised spread of Southport misinformation, MPs say](https://www.theguardian.com/media/2025/jul/11/social-media-southport-misinformation-online-safety-act)
+- [Gregg Wallace dropped by BBC over doubts he could ‘change behaviour’](https://www.theguardian.com/tv-and-radio/2025/jul/10/gregg-wallace-dropped-from-bbc-over-lack-of-confidence-he-could-change-behaviour)
+- [Arsenal line up £52m transfer of 23-year-old Chelsea winger Noni Madueke](https://www.theguardian.com/football/2025/jul/10/arsenal-line-up-52m-transfer-of-23-year-old-chelsea-winger-noni-madueke)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

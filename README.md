@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Nerve pain drug gabapentin linked to increased dementia, cognitive impairment](https://medicalxpress.com/news/2025-07-nerve-pain-drug-gabapentin-linked.html)
-- [&#39;Autofocus&#39; specs promise sharp vision, near or far](https://www.bbc.com/news/articles/cj6r06d7xdjo)
-- [Turkey bans Grok over Erdoğan insults](https://www.politico.eu/article/turkey-ban-elon-musk-grok-recep-tayyip-erdogan-insult/)
-- [Show HN: Pangolin – Open source alternative to Cloudflare Tunnels](https://github.com/fosrl/pangolin)
-- [Final report on Alaska Airlines Flight 1282 in-flight exit door plug separation](https://www.ntsb.gov:443/investigations/Pages/DCA24MA063.aspx)
-- [Grok 4](https://simonwillison.net/2025/Jul/10/grok-4/)
-- [Show HN: Cactus – Ollama for Smartphones](https://news.ycombinator.com/item?id=44524544)
-- [eBPF: Connecting with Container Runtimes](https://h0x0er.github.io/blog/2025/06/29/ebpf-connecting-with-container-runtimes/)
-- [Belkin ending support for older Wemo products](https://www.belkin.com/support-article/?articleNum=335419)
-- [Launch HN: Leaping &lpar;YC W25&rpar; – Self-Improving Voice AI](https://news.ycombinator.com/item?id=44523523)
+- [FEMA Didn’t Answer Thousands of Calls From Flood Survivors](https://www.nytimes.com/2025/07/11/climate/fema-missed-calls-texas-floods.html)
+- [Cheeky Computer Scientist replicates Quantum Factoring record with a dog [pdf]](https://eprint.iacr.org/2025/1237.pdf)
+- [Tell HN: uBlock Origin on Chrome is finally gone](https://news.ycombinator.com/item?id=44538517)
+- [Sam Altman delays open weights model release](https://twitter.com/sama/status/1943837550369812814)
+- [HDD Clicker generates HDD clicking sounds, based on HDD Led activity](https://www.serdashop.com/HDDClicker)
+- [Faking a JPEG](https://www.ty-penguin.org.uk/~auj/blog/2025/03/25/fake-jpeg/)
+- [The Biggest-Ever Digital Camera Is This Cosmologist&#39;s Magnum Opus](https://www.quantamagazine.org/the-biggest-ever-digital-camera-is-this-cosmologists-magnum-opus-20250711/)
+- [Measuring power network frequency using junk you have in your closet](https://halcy.de/blog/2025/02/09/measuring-power-network-frequency-using-junk-you-have-in-your-closet/)
+- [A software conference that advocates for quality](https://bettersoftwareconference.com/)
+- [&#39;123456&#39; password exposed chats for 64M McDonald&#39;s job applicants](https://www.bleepingcomputer.com/news/security/123456-password-exposed-chats-for-64-million-mcdonalds-job-applicants/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

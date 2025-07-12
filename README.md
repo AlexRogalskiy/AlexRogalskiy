@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Rubio in bind as he seeks to reassure Asia, even as region faces punishing Trump tariffs](https://www.theguardian.com/business/2025/jul/11/marco-rubio-asia-visit-trump-tariffs)
-- [North Korean defector to sue Kim Jong-un alleging torture and sexual violence in regime’s detention facilities](https://www.theguardian.com/world/2025/jul/11/north-korea-defector-to-sue-kim-jong-un)
-- [Ukraine war briefing: Trump poised to send weapons under Biden-style drawdown, say sources](https://www.theguardian.com/world/2025/jul/11/ukraine-war-briefing-trump-poised-to-send-weapons-under-biden-style-drawdown-say-sources)
-- [Slovakia festival hosting Kanye West cancelled after thousands sign petition condemning Heil Hitler rapper](https://www.theguardian.com/music/2025/jul/11/rubicon-festival-cancelled-kanye-west-slovakia)
-- [Welcome to Prime Day, when thousands of product thumbnails blur together to form a giant pile of garbage | Anna Spargo-Ryan](https://www.theguardian.com/commentisfree/2025/jul/11/prime-day-2025-sales-australia-amazon-deals-overwhelm)
-- [Black people in England four times as likely to face homelessness, study finds](https://www.theguardian.com/society/2025/jul/11/race-homelessness-social-housing-study-england-uk)
-- [Government inheriting poor value assets due to bad handling of PFI contracts, watchdog says](https://www.theguardian.com/politics/2025/jul/11/government-inheriting-poor-value-assets-due-to-bad-handling-of-pfi-contracts-watchdog-says)
-- [Social media incentivised spread of Southport misinformation, MPs say](https://www.theguardian.com/media/2025/jul/11/social-media-southport-misinformation-online-safety-act)
-- [Gregg Wallace dropped by BBC over doubts he could ‘change behaviour’](https://www.theguardian.com/tv-and-radio/2025/jul/10/gregg-wallace-dropped-from-bbc-over-lack-of-confidence-he-could-change-behaviour)
-- [Arsenal line up £52m transfer of 23-year-old Chelsea winger Noni Madueke](https://www.theguardian.com/football/2025/jul/10/arsenal-line-up-52m-transfer-of-23-year-old-chelsea-winger-noni-madueke)
+- [‘I didn’t give much thought to the universe’: India’s first astronaut in 40 years inspires next generation of stargazers](https://www.theguardian.com/global-development/2025/jul/12/india-first-astronaut-in-40-years-international-space-station)
+- [Engine fuel switches cut off before Air India crash that killed 260, preliminary report finds](https://www.theguardian.com/world/2025/jul/11/engine-fuel-switches-cut-off-before-air-india-crash-that-killed-260-report-finds)
+- [Trump defends Texas flood handling as disaster tests vow to shutter Fema](https://www.theguardian.com/us-news/2025/jul/11/trump-texas-flood-damage-fema)
+- [Farm worker dies a day after chaotic immigration raid at California farm](https://www.theguardian.com/us-news/2025/jul/11/california-farm-immigration-raid)
+- [Cayman ends Portugal hopes of Euro 2025 knockout place with victory for Belgium](https://www.theguardian.com/football/2025/jul/11/portugal-belgium-womens-euro-2025-group-b-match-report)
+- [‘A terrible injustice’: Parish hits out after Crystal Palace axed from Europa League](https://www.theguardian.com/football/2025/jul/11/crystal-palace-banned-from-europa-league-and-relegated-to-conference-league)
+- [Dagnall try extends St Helens’ winning run over Leeds and lifts them into third](https://www.theguardian.com/sport/2025/jul/11/leeds-st-helens-super-league-match-report-rugby-league)
+- [Spain overcome early Italy scare to win and set up tie against hosts Switzerland](https://www.theguardian.com/football/2025/jul/11/italy-spain-womens-euro-2025-group-b-match-report)
+- [No one ever got rich writing off Novak Djokovic, but even he can’t stretch time for ever | Jonathan Liew](https://www.theguardian.com/sport/2025/jul/11/no-one-ever-got-rich-writing-off-novak-djokovic-but-even-he-cant-stretch-time-for-ever)
+- [Son of El Chapo pleads guilty in US drug trafficking case](https://www.theguardian.com/world/2025/jul/11/el-chapo-son-pleads-guilty-drug-trafficking)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Qthreads – large numbers of threads conveniently and easily](https://github.com/sandialabs/qthreads)
-- [The computational cost of corporate rebranding](https://news.ycombinator.com/item?id=44528093)
-- [MemOS, the first &#39;memory operating system&#39; that gives AI human-like recall](https://venturebeat.com/ai/chinese-researchers-unveil-memos-the-first-memory-operating-system-that-gives-ai-human-like-recall/)
-- [&quot;A heist&quot;: Senator calls out Texas for trying to steal shuttle from Smithsonian](https://arstechnica.com/space/2025/07/its-a-heist-senator-calls-out-texas-for-trying-to-steal-shuttle-from-smithsonian/)
-- [Kinds of Knowledge Worth Remembering](https://domofutu.substack.com/p/7-kinds-of-knowledge-worth-remembering)
-- [Astronomers detect first known &#39;death wish&#39; planet](https://www.popsci.com/science/planet-death-wish/)
-- [Full QuickJS Support for Nginx](https://blog.nginx.org/blog/quickjs-engine-support-for-njs)
-- [PDF Barber – Split and Merge PDFs Online – Free Privacy-First PDF Tool](https://www.pdfbarber.com/)
-- [LLM Inference Handbook](https://bentoml.com/llm/)
-- [Little videos are cooking our brains: How do we reclaim our attention?](https://www.vox.com/technology/419430/ai-tiktok-youtube-shorts-instagram-reels)
+- [Senior Tesla AI Engineer Srihari Sampathkumar Leaves After 8 Years](https://gearmusk.com/2025/07/12/srihari-sampathkumar-leaves-tesla/)
+- [Show HN: EndBOX DIY Kit – A Basic Microcomputer](https://www.endbasic.dev/endbox.html)
+- [Impulse Control in Pigeons &lpar;1974&rpar;](https://pmc.ncbi.nlm.nih.gov/articles/PMC1333221/)
+- [FEMA Didn’t Answer Thousands of Calls From Flood Survivors](https://www.nytimes.com/2025/07/11/climate/fema-missed-calls-texas-floods.html)
+- [Node.js Added Watch-Mode](https://github.com/nodejs/node/commit/80dec9849d)
+- [Ask HN: To what extend have you stopped or limited your use of AI?](https://news.ycombinator.com/item?id=44538855)
+- [Show HN: Transition – AI Triathlon Coach](https://www.transition.fun/)
+- [Cordova is still not dead in 2024 – My personal take](https://blog.merzlabs.com/posts/cordova-2024/)
+- [OpenThread - Google open-source implementation of Thread](https://openthread.io/)
+- [Show HN: AI Dognames Generator is built all by Claude Code in 24hrs without code](https://dognames.vip/en)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

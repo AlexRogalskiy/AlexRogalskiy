@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [FEMA Didn’t Answer Thousands of Calls From Flood Survivors](https://www.nytimes.com/2025/07/11/climate/fema-missed-calls-texas-floods.html)
-- [Cheeky Computer Scientist replicates Quantum Factoring record with a dog [pdf]](https://eprint.iacr.org/2025/1237.pdf)
-- [Tell HN: uBlock Origin on Chrome is finally gone](https://news.ycombinator.com/item?id=44538517)
-- [Sam Altman delays open weights model release](https://twitter.com/sama/status/1943837550369812814)
-- [HDD Clicker generates HDD clicking sounds, based on HDD Led activity](https://www.serdashop.com/HDDClicker)
-- [Faking a JPEG](https://www.ty-penguin.org.uk/~auj/blog/2025/03/25/fake-jpeg/)
-- [The Biggest-Ever Digital Camera Is This Cosmologist&#39;s Magnum Opus](https://www.quantamagazine.org/the-biggest-ever-digital-camera-is-this-cosmologists-magnum-opus-20250711/)
-- [Measuring power network frequency using junk you have in your closet](https://halcy.de/blog/2025/02/09/measuring-power-network-frequency-using-junk-you-have-in-your-closet/)
-- [A software conference that advocates for quality](https://bettersoftwareconference.com/)
-- [&#39;123456&#39; password exposed chats for 64M McDonald&#39;s job applicants](https://www.bleepingcomputer.com/news/security/123456-password-exposed-chats-for-64-million-mcdonalds-job-applicants/)
+- [A.I. Is Making Sure You Pay for That Ding on Your Rental Car](https://www.nytimes.com/2025/07/09/travel/rental-car-ai-scanner-hertz.html)
+- [Hacking Coroutines into C](https://wiomoc.de/misc/posts/hacking_coroutines_into_c.html)
+- [MoonPay executives may have sent $250k to Nigerian scammer](https://www.theblock.co/post/362339/moonpay-executives-may-have-sent-250000-to-nigerian-scammer-doj-filing-suggests)
+- [Zig&#39;s New Async I/O](https://kristoff.it/blog/zig-new-async-io/)
+- [Light exposure at night predicts incidence of cardiovascular diseases](https://www.medrxiv.org/content/10.1101/2025.06.20.25329961v1)
+- [Bypassing Google&#39;s big anti-adblock update](https://0x44.xyz/blog/web-request-blocking/)
+- [A better Ghidra MCP server – GhidrAssistMCP](https://github.com/jtang613/GhidrAssistMCP)
+- [Supreme Court&#39;s ruling practically wipes out free speech for sex writing online](https://ellsberg.substack.com/p/free-speech)
+- [Show HN: I made a JSFiddle-style playground to test and share prompts fast](https://langfa.st/)
+- [Kimi k2 largest open source SOTA model?](https://github.com/MoonshotAI/Kimi-K2)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Senior Tesla AI Engineer Srihari Sampathkumar Leaves After 8 Years](https://gearmusk.com/2025/07/12/srihari-sampathkumar-leaves-tesla/)
-- [Show HN: EndBOX DIY Kit – A Basic Microcomputer](https://www.endbasic.dev/endbox.html)
-- [Impulse Control in Pigeons &lpar;1974&rpar;](https://pmc.ncbi.nlm.nih.gov/articles/PMC1333221/)
-- [FEMA Didn’t Answer Thousands of Calls From Flood Survivors](https://www.nytimes.com/2025/07/11/climate/fema-missed-calls-texas-floods.html)
-- [Node.js Added Watch-Mode](https://github.com/nodejs/node/commit/80dec9849d)
-- [Ask HN: To what extend have you stopped or limited your use of AI?](https://news.ycombinator.com/item?id=44538855)
-- [Show HN: Transition – AI Triathlon Coach](https://www.transition.fun/)
-- [Cordova is still not dead in 2024 – My personal take](https://blog.merzlabs.com/posts/cordova-2024/)
-- [OpenThread - Google open-source implementation of Thread](https://openthread.io/)
-- [Show HN: AI Dognames Generator is built all by Claude Code in 24hrs without code](https://dognames.vip/en)
+- [The Nuclear Mirage](https://www.theenergymix.com/the-nuclear-mirage-why-small-modular-reactors-wont-save-nuclear-power/)
+- [Soaring electric truck sales deal new blow to diesel use in China](https://www.reuters.com/sustainability/climate-energy/soaring-electric-truck-sales-deal-new-blow-diesel-use-china-2025-07-11/)
+- [Show HN: A Comprehensive AI Data Quality Evaluation Tool](https://github.com/MigoXLab/dingo)
+- [Who wants to play with my love hole?](https://github.com/JGPTech/Love_Hole)
+- [Maps on Chains](http://bannalia.blogspot.com/2025/07/maps-on-chains.html)
+- [Distributed vs. Centralized Economies: Empowering SMBs for Innovation and Growth](https://www.memorly.ai/blog/our-blog-1/distributed-vs-centralized-economies-empowering-msmes-for-innovation-and-growth-33)
+- [Generative artwork using the Earth&#39;s natural radio and atmospheric noise](https://www.mattdesl.com/sferics)
+- [Show HN: 0xDEAD//Type – A Fast-Paced Typing Shooter with Retro Vibes](https://0xdeadtype.theden.sh/)
+- [Edward Burtynsky&#39;s monumental chronicle of the human impact on the planet](https://www.newyorker.com/culture/photo-booth/earths-poet-of-scale)
+- [Ask HN: Have you left a high paying gig because you hated the day-to-day work?](https://news.ycombinator.com/item?id=44547072)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

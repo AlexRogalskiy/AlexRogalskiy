@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Nuclear Mirage](https://www.theenergymix.com/the-nuclear-mirage-why-small-modular-reactors-wont-save-nuclear-power/)
-- [Soaring electric truck sales deal new blow to diesel use in China](https://www.reuters.com/sustainability/climate-energy/soaring-electric-truck-sales-deal-new-blow-diesel-use-china-2025-07-11/)
-- [Show HN: A Comprehensive AI Data Quality Evaluation Tool](https://github.com/MigoXLab/dingo)
-- [Who wants to play with my love hole?](https://github.com/JGPTech/Love_Hole)
-- [Maps on Chains](http://bannalia.blogspot.com/2025/07/maps-on-chains.html)
-- [Distributed vs. Centralized Economies: Empowering SMBs for Innovation and Growth](https://www.memorly.ai/blog/our-blog-1/distributed-vs-centralized-economies-empowering-msmes-for-innovation-and-growth-33)
-- [Generative artwork using the Earth&#39;s natural radio and atmospheric noise](https://www.mattdesl.com/sferics)
-- [Show HN: 0xDEAD//Type – A Fast-Paced Typing Shooter with Retro Vibes](https://0xdeadtype.theden.sh/)
-- [Edward Burtynsky&#39;s monumental chronicle of the human impact on the planet](https://www.newyorker.com/culture/photo-booth/earths-poet-of-scale)
-- [Ask HN: Have you left a high paying gig because you hated the day-to-day work?](https://news.ycombinator.com/item?id=44547072)
+- [Moss Medicines: The Next Revolution in Biotech?](https://www.the-scientist.com/moss-medicines-the-next-revolution-in-biotech-73131)
+- [Scientists hiding AI text prompts in academic papers to receive positive reviews](https://www.theguardian.com/technology/2025/jul/14/scientists-reportedly-hiding-ai-text-prompts-in-academic-papers-to-receive-positive-peer-reviews)
+- [Essential C# MCP Workshop: Empowering AI Agents by Medhat Elmasry [video]](https://www.youtube.com/watch?v=d78yuuez5UQ)
+- [New Navy Device Learns by Doing &lpar;1958&rpar;](https://www.nytimes.com/1958/07/08/archives/new-navy-device-learns-by-doing-psychologist-shows-embryo-of.html)
+- [Elon Musk did not found Tesla](https://nerds.xyz/2025/07/elon-musk-did-not-found-tesla/)
+- [Why is the Federal Reserve independent, and what does that mean in practice?](https://www.brookings.edu/articles/why-is-the-federal-reserve-independent-and-what-does-that-mean-in-practice/)
+- [Land Your Dream Job with Confidence](https://careertrackr.io/)
+- [Getting Started with Vector Search [pdf]](https://media.pragprog.com/titles/bgvector/start.pdf)
+- [AI Video API](https://www.cqtai.com/en)
+- [IDF blames &#39;technical error&#39; after children collecting water killed in strike](https://news.sky.com/story/idf-blames-technical-error-after-gaza-officials-say-children-collecting-water-killed-in-strike-13396138)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

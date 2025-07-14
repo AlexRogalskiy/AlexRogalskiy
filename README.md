@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [New Caledonia to be declared a state in ‘historic’ agreement – but will remain French](https://www.theguardian.com/world/2025/jul/13/new-caledonia-to-be-declared-a-state-in-historic-agreement-but-will-remain-french)
-- [Pressure mounts on Konstas and Khawaja as Australia collapse in third West Indies Test](https://www.theguardian.com/sport/2025/jul/13/west-indies-australia-third-test-day-one-report)
-- [Ukraine war briefing: Kim Jong-un voices ‘unconditional’ support for Moscow as Russian foreign minister visits](https://www.theguardian.com/world/2025/jul/13/ukraine-war-briefing-kim-jong-un-voices-unconditional-support-for-moscow-as-russian-foreign-minister-visits)
-- [Kash Patel denies rumors he’s quitting the FBI over DoJ ruling on Epstein files](https://www.theguardian.com/us-news/2025/jul/12/kash-patel-fbi-doj-epstein)
-- [David Gergen, ex-adviser to Republican and Democratic presidents, dies aged 83](https://www.theguardian.com/us-news/2025/jul/12/david-gergen-dies-aged-83)
-- [Van Poortvliet’s last-minute try seals dramatic series win for England in Argentina](https://www.theguardian.com/sport/2025/jul/12/argentina-england-rugby-union-international-match-report)
-- [My Mom Jayne review – the beautiful, touching tale of a film star, by the daughter who lost her aged three](https://www.theguardian.com/tv-and-radio/2025/jul/12/my-mom-jayne-review-a-beautiful-touching-look-at-a-film-stars-life-by-the-daughter-who-lost-her-when-she-was-three)
-- [Elon Musk’s AI firm apologizes after chatbot Grok praises Hitler](https://www.theguardian.com/us-news/2025/jul/12/elon-musk-grok-antisemitic)
-- [English councils urged to install pavement gullies for home charging of electric cars](https://www.theguardian.com/uk-news/2025/jul/12/english-councils-urged-to-install-pavement-gullies-for-home-charging-of-electric-cars)
-- [Sweden make Germany pay for Carlotta Wamser’s handball to win Euro 2025 group](https://www.theguardian.com/football/2025/jul/12/sweden-germany-womens-euro-2025-match-report)
+- [Scientists reportedly hiding AI text prompts in academic papers to receive positive peer reviews](https://www.theguardian.com/technology/2025/jul/14/scientists-reportedly-hiding-ai-text-prompts-in-academic-papers-to-receive-positive-peer-reviews)
+- [Cameron Green plays lone hand as Australia batting woes worsen in West Indies](https://www.theguardian.com/sport/2025/jul/14/west-indies-australia-third-test-day-two-report)
+- [Southend airport shut and flights grounded after small plane crashes in flames](https://www.theguardian.com/uk-news/2025/jul/13/serious-incident-at-southend-airport-after-small-plane-crashes)
+- [Caught in the contest between China and the west, the Cook Islands asks where its future lies](https://www.theguardian.com/world/2025/jul/14/caught-in-the-contest-between-china-and-the-west-the-cook-islands-asks-where-its-future-lies)
+- [Ukraine secret service says it killed Russian agents suspected of Kyiv assassination](https://www.theguardian.com/world/2025/jul/14/ukraine-secret-service-says-it-killed-russian-agents-suspected-of-kyiv-assassination)
+- [‘We’ve found our urgency’: Wiegman salutes Lionesses as they set up Sweden clash](https://www.theguardian.com/football/2025/jul/14/sarina-wiegman-salutes-england-lionesses-set-up-sweden-clash-womens-euro-2025)
+- [King Charles schedules Trump state visit for when UK parliament is in recess](https://www.theguardian.com/us-news/2025/jul/14/king-charles-schedules-trump-state-visit-for-when-uk-parliament-is-in-recess)
+- [Scientists detect biggest ever merger of two massive black holes](https://www.theguardian.com/science/2025/jul/14/scientists-detect-biggest-ever-merger-of-two-massive-black-holes)
+- [Tax pubs on profit not property value, urges Greene King boss](https://www.theguardian.com/business/2025/jul/14/tax-pubs-on-profit-not-property-value-urges-greene-king-boss)
+- [Sales of UK country houses rise as buyers tempted out by lower prices](https://www.theguardian.com/business/2025/jul/14/sales-of-uk-country-houses-rise-as-buyers-tempted-out-by-lower-prices)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

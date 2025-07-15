@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Moss Medicines: The Next Revolution in Biotech?](https://www.the-scientist.com/moss-medicines-the-next-revolution-in-biotech-73131)
-- [Scientists hiding AI text prompts in academic papers to receive positive reviews](https://www.theguardian.com/technology/2025/jul/14/scientists-reportedly-hiding-ai-text-prompts-in-academic-papers-to-receive-positive-peer-reviews)
-- [Essential C# MCP Workshop: Empowering AI Agents by Medhat Elmasry [video]](https://www.youtube.com/watch?v=d78yuuez5UQ)
-- [New Navy Device Learns by Doing &lpar;1958&rpar;](https://www.nytimes.com/1958/07/08/archives/new-navy-device-learns-by-doing-psychologist-shows-embryo-of.html)
-- [Elon Musk did not found Tesla](https://nerds.xyz/2025/07/elon-musk-did-not-found-tesla/)
-- [Why is the Federal Reserve independent, and what does that mean in practice?](https://www.brookings.edu/articles/why-is-the-federal-reserve-independent-and-what-does-that-mean-in-practice/)
-- [Land Your Dream Job with Confidence](https://careertrackr.io/)
-- [Getting Started with Vector Search [pdf]](https://media.pragprog.com/titles/bgvector/start.pdf)
-- [AI Video API](https://www.cqtai.com/en)
-- [IDF blames &#39;technical error&#39; after children collecting water killed in strike](https://news.sky.com/story/idf-blames-technical-error-after-gaza-officials-say-children-collecting-water-killed-in-strike-13396138)
+- [Autonomous Elevator Delivery Robot for Buildings](https://www.youtube.com/watch?si=Nl_FlFnLCb_jP076&v=mdClGEn8urE&feature=youtu.be)
+- [Prompt Injection in LLM-Driven Systems](https://blog.gopenai.com/prompt-injection-in-llm-driven-systems-how-a-single-sentence-can-wipe-data-or-get-a-paper-f885e97ed0fc)
+- [Nvidia Wins OK to Resume Sales of AI Chip to China After CEO Meets Trump](https://www.wsj.com/tech/nvidia-wins-ok-to-resume-sales-of-ai-chip-to-china-after-ceo-meets-trump-68f55d71)
+- [Timeline of Amazon Web Services](https://en.wikipedia.org/wiki/Timeline_of_Amazon_Web_Services)
+- [ChipBenchmark: Open-Source Benchmarking for LLM Performance Across Hardware](https://www.chipbenchmark.com/)
+- [OBS Studio 31.1.1 Released](https://github.com/obsproject/obs-studio/releases/tag/31.1.1)
+- [Nvidia to resume H20 sales to China, announces new compliant GPU for China](https://blogs.nvidia.com/blog/nvidia-ceo-promotes-ai-in-dc-and-china/)
+- [NES Emulator from Scratch [video]](https://www.youtube.com/playlist?list=PLrOv9FMX8xJHqMvSGB_9G9nZZ_4IgteYf)
+- [Security Vulnerability on US Freight Trains Left Unfixed for 13 Years](https://www.tomshardware.com/tech-industry/cyber-security/security-vulnerability-on-u-s-trains-that-let-anyone-activate-the-brakes-on-the-rear-car-was-known-for-13-years-operators-refused-to-fix-the-issue-until-now)
+- [Puter](https://puter.com/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

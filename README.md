@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Scientists reportedly hiding AI text prompts in academic papers to receive positive peer reviews](https://www.theguardian.com/technology/2025/jul/14/scientists-reportedly-hiding-ai-text-prompts-in-academic-papers-to-receive-positive-peer-reviews)
-- [Cameron Green plays lone hand as Australia batting woes worsen in West Indies](https://www.theguardian.com/sport/2025/jul/14/west-indies-australia-third-test-day-two-report)
-- [Southend airport shut and flights grounded after small plane crashes in flames](https://www.theguardian.com/uk-news/2025/jul/13/serious-incident-at-southend-airport-after-small-plane-crashes)
-- [Caught in the contest between China and the west, the Cook Islands asks where its future lies](https://www.theguardian.com/world/2025/jul/14/caught-in-the-contest-between-china-and-the-west-the-cook-islands-asks-where-its-future-lies)
-- [Ukraine secret service says it killed Russian agents suspected of Kyiv assassination](https://www.theguardian.com/world/2025/jul/14/ukraine-secret-service-says-it-killed-russian-agents-suspected-of-kyiv-assassination)
-- [‘We’ve found our urgency’: Wiegman salutes Lionesses as they set up Sweden clash](https://www.theguardian.com/football/2025/jul/14/sarina-wiegman-salutes-england-lionesses-set-up-sweden-clash-womens-euro-2025)
-- [King Charles schedules Trump state visit for when UK parliament is in recess](https://www.theguardian.com/us-news/2025/jul/14/king-charles-schedules-trump-state-visit-for-when-uk-parliament-is-in-recess)
-- [Scientists detect biggest ever merger of two massive black holes](https://www.theguardian.com/science/2025/jul/14/scientists-detect-biggest-ever-merger-of-two-massive-black-holes)
-- [Tax pubs on profit not property value, urges Greene King boss](https://www.theguardian.com/business/2025/jul/14/tax-pubs-on-profit-not-property-value-urges-greene-king-boss)
-- [Sales of UK country houses rise as buyers tempted out by lower prices](https://www.theguardian.com/business/2025/jul/14/sales-of-uk-country-houses-rise-as-buyers-tempted-out-by-lower-prices)
+- [David Kaff, Spinal Tap keyboardist and musician, dies aged 79](https://www.theguardian.com/film/2025/jul/15/david-kaff-spinal-tap-keyboardist-and-musician-dies-aged-79)
+- [Israel attacks Syrian military amid deadly clashes between Druze and Bedouin clans](https://www.theguardian.com/world/2025/jul/15/israel-attacks-syrian-military-amid-deadly-clashes-between-druze-and-bedouin-clans)
+- [Four astronauts depart international space station in return flight home](https://www.theguardian.com/us-news/2025/jul/14/international-space-station-astronauts-home)
+- [Brutal Mitchell Starc spell one to remember amid Australia batters’ tour to forget | Geoff Lemon](https://www.theguardian.com/sport/blog/2025/jul/15/mitchell-starc-australia-west-indies-third-test)
+- [Could giving this pod of dolphins the same legal rights as humans help keep them safe?](https://www.theguardian.com/environment/2025/jul/15/korean-activists-dolphins-animal-legal-rights-jeju-island)
+- [‘I couldn’t watch the forests vanish’: the man restoring Solomon Islands’ vital mangroves](https://www.theguardian.com/world/2025/jul/15/climate-change-mangroves-solomon-islands)
+- [Who is Dan Bongino? FBI deputy at center of Maga fallout over Epstein files](https://www.theguardian.com/us-news/2025/jul/14/dan-bongino-jeffrey-epstein-files)
+- [Falling vaccination rates leave millions of children at risk, experts warn](https://www.theguardian.com/world/2025/jul/15/falling-vaccination-rates-children-who-unicef)
+- [Reeves to say cuts to City red tape will bring trickle-down benefits to households](https://www.theguardian.com/business/2025/jul/15/rachel-reeves-to-say-cuts-to-city-red-tape-will-bring-trickle-down-benefits)
+- [UK a ‘powder keg’ of social tensions a year on from summer riots, report warns](https://www.theguardian.com/uk-news/2025/jul/15/social-tensions-british-people-polarisation-research)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

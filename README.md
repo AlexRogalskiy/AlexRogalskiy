@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Autonomous Elevator Delivery Robot for Buildings](https://www.youtube.com/watch?si=Nl_FlFnLCb_jP076&v=mdClGEn8urE&feature=youtu.be)
-- [Prompt Injection in LLM-Driven Systems](https://blog.gopenai.com/prompt-injection-in-llm-driven-systems-how-a-single-sentence-can-wipe-data-or-get-a-paper-f885e97ed0fc)
-- [Nvidia Wins OK to Resume Sales of AI Chip to China After CEO Meets Trump](https://www.wsj.com/tech/nvidia-wins-ok-to-resume-sales-of-ai-chip-to-china-after-ceo-meets-trump-68f55d71)
-- [Timeline of Amazon Web Services](https://en.wikipedia.org/wiki/Timeline_of_Amazon_Web_Services)
-- [ChipBenchmark: Open-Source Benchmarking for LLM Performance Across Hardware](https://www.chipbenchmark.com/)
-- [OBS Studio 31.1.1 Released](https://github.com/obsproject/obs-studio/releases/tag/31.1.1)
-- [Nvidia to resume H20 sales to China, announces new compliant GPU for China](https://blogs.nvidia.com/blog/nvidia-ceo-promotes-ai-in-dc-and-china/)
-- [NES Emulator from Scratch [video]](https://www.youtube.com/playlist?list=PLrOv9FMX8xJHqMvSGB_9G9nZZ_4IgteYf)
-- [Security Vulnerability on US Freight Trains Left Unfixed for 13 Years](https://www.tomshardware.com/tech-industry/cyber-security/security-vulnerability-on-u-s-trains-that-let-anyone-activate-the-brakes-on-the-rear-car-was-known-for-13-years-operators-refused-to-fix-the-issue-until-now)
-- [Puter](https://puter.com/)
+- [G-O-A-L Goals in English football](https://blog.engora.com/2025/07/g-o-l-goals-in-english-football.html)
+- [Ask HN: Is anyone using Super Grok Heavy for code?](https://news.ycombinator.com/item?id=44578367)
+- [San Diego County&#39;s Schools Have 27,000 Fewer Students Than a Decade Ago](https://voiceofsandiego.org/2025/07/15/san-diego-countys-schools-have-27000-fewer-students-than-a-decade-ago-it-will-get-worse/)
+- [Turbo Encabulator](https://en.wikipedia.org/wiki/Turbo_encabulator)
+- [The Decimal Point Is 150 Years Older Than Historians Thought](https://www.scientificamerican.com/article/the-decimal-point-is-150-years-older-than-historians-thought/)
+- [Show HN: Salary and Compensation Calculator](https://www.jobtransparency.com/salary-calculator)
+- [Remembrance of Things Past: The Leopard &lpar;2010&rpar;](https://www.criterion.com/current/posts/326-remembrance-of-things-past-the-leopard)
+- [Plasma Bigscreen – open-source user interface for TV](https://plasma-bigscreen.org)
+- [Show HN: FlowGram.AI – AI Workflow Building Engine](https://flowgram.ai/)
+- [Show HN: Longplay comes to the Mac – developer&#39;s commentary](https://adrian.schoenig.me/blog/2025/07/15/longplay-for-mac/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

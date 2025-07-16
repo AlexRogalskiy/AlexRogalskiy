@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [C++ Coroutines Advanced: Converting std:future to asio:awaitable](https://www.ddhigh.com/en/2025/07/15/cpp-coroutine-future-to-awaitable/)
-- [AWS Lambda Silent Crash – A Platform Failure, Not an Application Bug [pdf]](https://lyons-den.com/whitepapers/aws-lambda-silent-crash.pdf)
-- [Protecting My Attention at the Dopamine Carnival](https://www.amirsharif.com/protecting-my-attention-at-the-dopamine-carnival)
-- [The Collapse of the FDA](https://www.nytimes.com/2025/07/08/magazine/fda-collapse-rfk-kennedy.html)
-- [DEWLine Museum – The Distant Early Warning Radar Line](https://dewlinemuseum.com/)
-- [Apple&#39;s MLX adding CUDA support](https://github.com/ml-explore/mlx/pull/1983)
-- [RFC: PHP license update](https://wiki.php.net/rfc/php_license_update)
-- [Dog Walk: Blender Studio&#39;s official game project](https://blenderstudio.itch.io/dogwalk)
-- [Anthropic, Google, OpenAI and XAI Granted Up to $200M from Defense Department](https://www.cnbc.com/2025/07/14/anthropic-google-openai-xai-granted-up-to-200-million-from-dod.html)
-- [Show HN: The HTML Maze – Escape an eerie labyrinth built with HTML pages](https://htmlmaze.com/)
+- [GPUHammer: Rowhammer attacks on GPU memories are practical](https://gpuhammer.com/)
+- [Unlike ChatGPT, Anthropic has doubled down on Artifacts](https://ben-mini.com/2025/claude-is-kicking-chatgpts-butt)
+- [OpenAI – vulnerability responsible disclosure](https://requilence.any.org/open-ai-vulnerability-responsible-disclosure)
+- [My Family and the Flood](https://www.texasmonthly.com/news-politics/texas-flood-firsthand-account/)
+- [Claude for Financial Services](https://www.anthropic.com/news/claude-for-financial-services)
+- [Where&#39;s Firefox going next?](https://connect.mozilla.org/t5/discussions/where-s-firefox-going-next-you-tell-us/m-p/100698#M39094)
+- [The FIPS 140-3 Go Cryptographic Module](https://go.dev/blog/fips140)
+- [Hierarchical Modeling &lpar;H-Nets&rpar;](https://cartesia.ai/blog/hierarchical-modeling)
+- [Hazel: A live functional programming environment with typed holes](https://github.com/hazelgrove/hazel)
+- [Helix Editor 25.07](https://helix-editor.com/news/release-25-07-highlights/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

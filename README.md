@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [David Kaff, Spinal Tap keyboardist and musician, dies aged 79](https://www.theguardian.com/film/2025/jul/15/david-kaff-spinal-tap-keyboardist-and-musician-dies-aged-79)
-- [Israel attacks Syrian military amid deadly clashes between Druze and Bedouin clans](https://www.theguardian.com/world/2025/jul/15/israel-attacks-syrian-military-amid-deadly-clashes-between-druze-and-bedouin-clans)
-- [Four astronauts depart international space station in return flight home](https://www.theguardian.com/us-news/2025/jul/14/international-space-station-astronauts-home)
-- [Brutal Mitchell Starc spell one to remember amid Australia batters’ tour to forget | Geoff Lemon](https://www.theguardian.com/sport/blog/2025/jul/15/mitchell-starc-australia-west-indies-third-test)
-- [Could giving this pod of dolphins the same legal rights as humans help keep them safe?](https://www.theguardian.com/environment/2025/jul/15/korean-activists-dolphins-animal-legal-rights-jeju-island)
-- [‘I couldn’t watch the forests vanish’: the man restoring Solomon Islands’ vital mangroves](https://www.theguardian.com/world/2025/jul/15/climate-change-mangroves-solomon-islands)
-- [Who is Dan Bongino? FBI deputy at center of Maga fallout over Epstein files](https://www.theguardian.com/us-news/2025/jul/14/dan-bongino-jeffrey-epstein-files)
-- [Falling vaccination rates leave millions of children at risk, experts warn](https://www.theguardian.com/world/2025/jul/15/falling-vaccination-rates-children-who-unicef)
-- [Reeves to say cuts to City red tape will bring trickle-down benefits to households](https://www.theguardian.com/business/2025/jul/15/rachel-reeves-to-say-cuts-to-city-red-tape-will-bring-trickle-down-benefits)
-- [UK a ‘powder keg’ of social tensions a year on from summer riots, report warns](https://www.theguardian.com/uk-news/2025/jul/15/social-tensions-british-people-polarisation-research)
+- [‘An insult’: Malaysians slam nomination of ‘alpha-male’ Nick Adams as US ambassador](https://www.theguardian.com/world/2025/jul/16/an-insult-malaysians-slam-nomination-of-alpha-male-nick-adams-as-us-ambassador-ntwnfb)
+- [Ukraine war briefing: Don’t bomb Moscow, Trump says, after reportedly giving Zelenskyy the idea](https://www.theguardian.com/world/2025/jul/16/ukraine-morning-briefing-dont-bomb-moscow-trump-says-after-reportedly-giving-zelenskyy-the-idea)
+- [Instant noodles, foot spas and counsellors: Seoul tackles loneliness with ‘mind convenience stores’](https://www.theguardian.com/society/2025/jul/16/instant-noodles-foot-spas-and-counsellors-seoul-tackles-loneliness-with-mind-convenience-stores)
+- [NHS physician associates should not diagnose untriaged patients, review finds](https://www.theguardian.com/society/2025/jul/16/physician-associates-banned-from-diagnosing-untriaged-patients-report)
+- [UK taskforce calls for disability training for all airline and airport staff](https://www.theguardian.com/world/2025/jul/16/uk-taskforce-calls-for-disability-training-for-all-airline-and-airport-staff)
+- [US House speaker Mike Johnson calls for release of Epstein files amid backlash](https://www.theguardian.com/us-news/2025/jul/15/epstein-files-republicans-mike-johnson)
+- [Weight loss surgery tourism needs urgent regulation, say UK experts](https://www.theguardian.com/society/2025/jul/15/weight-loss-surgery-tourism-needs-urgent-regulation-say-uk-experts)
+- [Tara Moore, former British No 1 in doubles, handed four-year doping ban](https://www.theguardian.com/sport/2025/jul/15/former-british-womens-doubles-no-1-tara-moore-handed-four-year-doping-ban-tennis)
+- [Bradley Murdoch, man who murdered British backpacker Peter Falconio, dies aged 67](https://www.theguardian.com/australia-news/2025/jul/16/bradley-murdoch-murder-peter-falconio-dead-aged-67)
+- [Mix Tape review – nails the heart-stopping excitement of new love](https://www.theguardian.com/tv-and-radio/2025/jul/15/mix-tape-review-bbc-two-iplayer)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [G-O-A-L Goals in English football](https://blog.engora.com/2025/07/g-o-l-goals-in-english-football.html)
-- [Ask HN: Is anyone using Super Grok Heavy for code?](https://news.ycombinator.com/item?id=44578367)
-- [San Diego County&#39;s Schools Have 27,000 Fewer Students Than a Decade Ago](https://voiceofsandiego.org/2025/07/15/san-diego-countys-schools-have-27000-fewer-students-than-a-decade-ago-it-will-get-worse/)
-- [Turbo Encabulator](https://en.wikipedia.org/wiki/Turbo_encabulator)
-- [The Decimal Point Is 150 Years Older Than Historians Thought](https://www.scientificamerican.com/article/the-decimal-point-is-150-years-older-than-historians-thought/)
-- [Show HN: Salary and Compensation Calculator](https://www.jobtransparency.com/salary-calculator)
-- [Remembrance of Things Past: The Leopard &lpar;2010&rpar;](https://www.criterion.com/current/posts/326-remembrance-of-things-past-the-leopard)
-- [Plasma Bigscreen – open-source user interface for TV](https://plasma-bigscreen.org)
-- [Show HN: FlowGram.AI – AI Workflow Building Engine](https://flowgram.ai/)
-- [Show HN: Longplay comes to the Mac – developer&#39;s commentary](https://adrian.schoenig.me/blog/2025/07/15/longplay-for-mac/)
+- [Show HN: ChainTok – Immortalize your love on Bitcoin&#39;s eternal ledger](https://app.chaintok.com)
+- [Improving OSM lake polygons using Lidar data [video]](https://www.youtube.com/watch?v=4XxX8smv29M)
+- [Photos: The Scale of China&#39;s Solar-Power Projects](https://www.theatlantic.com/photography/archive/2025/07/photos-china-solar-power-energy/683488/)
+- [Dreamflow: create flutter apps with text prompts](https://dreamflow.app/)
+- [A Wide Reduction Trick](https://words.filippo.io/wide-reduction/)
+- [International Math Olympiad 2025 Problems: How Well Will AI Do?](https://sugaku.net/content/imo-2025-problems/)
+- [I&#39;ve been coding with AI for two years. Here is what I&#39;ve learned](https://nathanpeck.com/ive-been-coding-with-ai-for-two-years-here-is-what-i-learned/)
+- [Links? Links – Infrequently Noted](https://infrequently.org/2025/07/links/)
+- [Cheating? Or the acumen of modern programming? FOSS, &quot;AI&quot;, and human conscience](https://gist.github.com/guest271314/17c9daac37101538c9baa6df72aaaefb)
+- [LLM Benchmarking Shows Capabilities Doubling Every 7 Months](https://spectrum.ieee.org/llm-benchmarking-metr)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

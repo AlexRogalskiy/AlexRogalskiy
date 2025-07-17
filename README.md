@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [‘An insult’: Malaysians slam nomination of ‘alpha-male’ Nick Adams as US ambassador](https://www.theguardian.com/world/2025/jul/16/an-insult-malaysians-slam-nomination-of-alpha-male-nick-adams-as-us-ambassador-ntwnfb)
-- [Ukraine war briefing: Don’t bomb Moscow, Trump says, after reportedly giving Zelenskyy the idea](https://www.theguardian.com/world/2025/jul/16/ukraine-morning-briefing-dont-bomb-moscow-trump-says-after-reportedly-giving-zelenskyy-the-idea)
-- [Instant noodles, foot spas and counsellors: Seoul tackles loneliness with ‘mind convenience stores’](https://www.theguardian.com/society/2025/jul/16/instant-noodles-foot-spas-and-counsellors-seoul-tackles-loneliness-with-mind-convenience-stores)
-- [NHS physician associates should not diagnose untriaged patients, review finds](https://www.theguardian.com/society/2025/jul/16/physician-associates-banned-from-diagnosing-untriaged-patients-report)
-- [UK taskforce calls for disability training for all airline and airport staff](https://www.theguardian.com/world/2025/jul/16/uk-taskforce-calls-for-disability-training-for-all-airline-and-airport-staff)
-- [US House speaker Mike Johnson calls for release of Epstein files amid backlash](https://www.theguardian.com/us-news/2025/jul/15/epstein-files-republicans-mike-johnson)
-- [Weight loss surgery tourism needs urgent regulation, say UK experts](https://www.theguardian.com/society/2025/jul/15/weight-loss-surgery-tourism-needs-urgent-regulation-say-uk-experts)
-- [Tara Moore, former British No 1 in doubles, handed four-year doping ban](https://www.theguardian.com/sport/2025/jul/15/former-british-womens-doubles-no-1-tara-moore-handed-four-year-doping-ban-tennis)
-- [Bradley Murdoch, man who murdered British backpacker Peter Falconio, dies aged 67](https://www.theguardian.com/australia-news/2025/jul/16/bradley-murdoch-murder-peter-falconio-dead-aged-67)
-- [Mix Tape review – nails the heart-stopping excitement of new love](https://www.theguardian.com/tv-and-radio/2025/jul/15/mix-tape-review-bbc-two-iplayer)
+- [Meta argues its AI needs personal information from social media posts to learn ‘Australian concepts’](https://www.theguardian.com/australia-news/2025/jul/17/meta-ai-facebook-instagram-personal-information-social-media-posts-learn-australian-concepts)
+- [Trump calls Epstein conspiracy a ‘hoax’ and turns on Maga ‘weaklings’](https://www.theguardian.com/us-news/2025/jul/16/donald-trump-dismisses-inquiry-into-jeffrey-epstein-as-boring)
+- [Amid stifling summers Japan warns of future restrictions on children’s sport](https://www.theguardian.com/world/2025/jul/17/japan-heat-childrens-summer-sport-restrictions-global-heating)
+- [Ukraine war briefing: Weapons will be Europe’s support to Ukraine – not Trump’s, Kallas suggests](https://www.theguardian.com/world/2025/jul/17/ukraine-war-briefing-weapons-will-be-europes-support-to-ukraine-not-trumps-kallas-suggests)
+- [Fire destroys main stage at Belgium’s Tomorrowland festival on eve of opening](https://www.theguardian.com/world/2025/jul/17/fire-destroys-main-stage-at-belgiums-tomorrowland-festival-on-eve-of-opening)
+- [Ministers urged to overhaul and raise carer’s allowance](https://www.theguardian.com/society/2025/jul/17/ministers-urged-to-overhaul-and-raise-carers-allowance)
+- [Nicotine pouches sold to children mimic sweets, says UK trading standards body](https://www.theguardian.com/society/2025/jul/17/nicotine-pouches-sold-to-children-mimic-sweets-says-uk-trading-standards-body)
+- [‘No barriers to entry’: George the Poet reframes art world for young people with immersive exhibition](https://www.theguardian.com/culture/2025/jul/17/no-barriers-to-entry-george-the-poet-reframes-art-world-for-young-people-with-immersive-exhibition)
+- [MPs to tighten laws allowing foreign donations to influence UK elections](https://www.theguardian.com/politics/2025/jul/17/mps-to-tighten-laws-allowing-foreign-donations-to-influence-uk-elections)
+- [Starmer and Merz to sign UK–Germany treaty targeting smuggling gangs and boosting defence ties](https://www.theguardian.com/politics/2025/jul/16/starmer-and-merz-to-sign-ukgermany-treaty-targeting-smuggling-gangs-and-boosting-defence-ties)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

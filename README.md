@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [GPUHammer: Rowhammer attacks on GPU memories are practical](https://gpuhammer.com/)
-- [Unlike ChatGPT, Anthropic has doubled down on Artifacts](https://ben-mini.com/2025/claude-is-kicking-chatgpts-butt)
-- [OpenAI – vulnerability responsible disclosure](https://requilence.any.org/open-ai-vulnerability-responsible-disclosure)
-- [My Family and the Flood](https://www.texasmonthly.com/news-politics/texas-flood-firsthand-account/)
-- [Claude for Financial Services](https://www.anthropic.com/news/claude-for-financial-services)
-- [Where&#39;s Firefox going next?](https://connect.mozilla.org/t5/discussions/where-s-firefox-going-next-you-tell-us/m-p/100698#M39094)
-- [The FIPS 140-3 Go Cryptographic Module](https://go.dev/blog/fips140)
-- [Hierarchical Modeling &lpar;H-Nets&rpar;](https://cartesia.ai/blog/hierarchical-modeling)
-- [Hazel: A live functional programming environment with typed holes](https://github.com/hazelgrove/hazel)
-- [Helix Editor 25.07](https://helix-editor.com/news/release-25-07-highlights/)
+- [Show HN: Cobble – A hard daily word game](https://wilf.live/cobble/)
+- [“Reading Rainbow” was created to combat summer reading slumps](https://www.smithsonianmag.com/smithsonian-institution/to-combat-summer-reading-slumps-this-timeless-childrens-television-show-tried-to-bridge-the-literacy-gap-with-the-magic-of-stories-180986984/)
+- [I was wrong about robots.txt](https://evgeniipendragon.com/posts/i-was-wrong-about-robots-txt/)
+- [Gaslight-driven development](https://tonsky.me/blog/gaslight-driven-development/)
+- [Mistakes Microsoft made in the Xbox security system](https://xboxdevwiki.net/17_Mistakes_Microsoft_Made_in_the_Xbox_Security_System)
+- [Show HN: A &#39;Choose Your Own Adventure&#39; written in Emacs Org Mode](https://tendollaradventure.com/sample/)
+- [Tin Can – The landline, reinvented for kids](https://tincan.kids/)
+- [I want an iPhone Mini-sized Android phone &lpar;2022&rpar;](https://smallandroidphone.com/)
+- [Artisanal handcrafted Git repositories](https://drew.silcock.dev/blog/artisanal-git/)
+- [Intel&#39;s retreat is unlike anything it&#39;s done before in Oregon](https://www.oregonlive.com/silicon-forest/2025/07/intels-retreat-is-unlike-anything-its-done-before-in-oregon.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

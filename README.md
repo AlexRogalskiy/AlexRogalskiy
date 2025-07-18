@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Show HN: Cobble – A hard daily word game](https://wilf.live/cobble/)
-- [“Reading Rainbow” was created to combat summer reading slumps](https://www.smithsonianmag.com/smithsonian-institution/to-combat-summer-reading-slumps-this-timeless-childrens-television-show-tried-to-bridge-the-literacy-gap-with-the-magic-of-stories-180986984/)
-- [I was wrong about robots.txt](https://evgeniipendragon.com/posts/i-was-wrong-about-robots-txt/)
-- [Gaslight-driven development](https://tonsky.me/blog/gaslight-driven-development/)
-- [Mistakes Microsoft made in the Xbox security system](https://xboxdevwiki.net/17_Mistakes_Microsoft_Made_in_the_Xbox_Security_System)
-- [Show HN: A &#39;Choose Your Own Adventure&#39; written in Emacs Org Mode](https://tendollaradventure.com/sample/)
-- [Tin Can – The landline, reinvented for kids](https://tincan.kids/)
-- [I want an iPhone Mini-sized Android phone &lpar;2022&rpar;](https://smallandroidphone.com/)
-- [Artisanal handcrafted Git repositories](https://drew.silcock.dev/blog/artisanal-git/)
-- [Intel&#39;s retreat is unlike anything it&#39;s done before in Oregon](https://www.oregonlive.com/silicon-forest/2025/07/intels-retreat-is-unlike-anything-its-done-before-in-oregon.html)
+- [NIH Is Far Cheaper Than the Wrong Dependency](https://lewiscampbell.tech/blog/250718.html)
+- [USB-C hubs and my slow descent into madness &lpar;2021&rpar;](https://overengineer.dev/blog/2021/04/25/usb-c-hub-madness/)
+- [Out Run: Amiga Edition – Launch Trailer [video]](https://www.youtube.com/watch?v=WZzTp3vSC0g)
+- [Louisiana cancels $3B coastal repair funded by oil spill settlement](https://apnews.com/article/louisiana-coastal-restoration-gulf-oil-spill-affaae2877bf250f636a633a14fbd0c7)
+- [Astronomers Discover Rare Distant Object in Sync with Neptune](https://pweb.cfa.harvard.edu/news/astronomers-discover-rare-distant-object-sync-neptune)
+- [My favorite use-case for AI is writing logs](https://newsletter.vickiboykis.com/archive/my-favorite-use-case-for-ai-is-writing-logs/)
+- [Mammals Evolved into Ant Eaters 12 Times Since Dinosaur Age, Study Finds](https://news.njit.edu/mammals-evolved-ant-eaters-12-times-dinosaur-age-study-finds)
+- [23andMe is out of bankruptcy. You should still delete your DNA](https://www.washingtonpost.com/technology/2025/07/17/23andme-bankruptcy-privacy/)
+- [People kept working, became healthier while on basic income: report &lpar;2020&rpar;](https://www.cbc.ca/news/canada/hamilton/basic-income-mcmaster-report-1.5485729)
+- [Anthropic tightens usage limits for Claude Code without telling users](https://techcrunch.com/2025/07/17/anthropic-tightens-usage-limits-for-claude-code-without-telling-users/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

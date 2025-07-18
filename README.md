@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Meta argues its AI needs personal information from social media posts to learn ‘Australian concepts’](https://www.theguardian.com/australia-news/2025/jul/17/meta-ai-facebook-instagram-personal-information-social-media-posts-learn-australian-concepts)
-- [Trump calls Epstein conspiracy a ‘hoax’ and turns on Maga ‘weaklings’](https://www.theguardian.com/us-news/2025/jul/16/donald-trump-dismisses-inquiry-into-jeffrey-epstein-as-boring)
-- [Amid stifling summers Japan warns of future restrictions on children’s sport](https://www.theguardian.com/world/2025/jul/17/japan-heat-childrens-summer-sport-restrictions-global-heating)
-- [Ukraine war briefing: Weapons will be Europe’s support to Ukraine – not Trump’s, Kallas suggests](https://www.theguardian.com/world/2025/jul/17/ukraine-war-briefing-weapons-will-be-europes-support-to-ukraine-not-trumps-kallas-suggests)
-- [Fire destroys main stage at Belgium’s Tomorrowland festival on eve of opening](https://www.theguardian.com/world/2025/jul/17/fire-destroys-main-stage-at-belgiums-tomorrowland-festival-on-eve-of-opening)
-- [Ministers urged to overhaul and raise carer’s allowance](https://www.theguardian.com/society/2025/jul/17/ministers-urged-to-overhaul-and-raise-carers-allowance)
-- [Nicotine pouches sold to children mimic sweets, says UK trading standards body](https://www.theguardian.com/society/2025/jul/17/nicotine-pouches-sold-to-children-mimic-sweets-says-uk-trading-standards-body)
-- [‘No barriers to entry’: George the Poet reframes art world for young people with immersive exhibition](https://www.theguardian.com/culture/2025/jul/17/no-barriers-to-entry-george-the-poet-reframes-art-world-for-young-people-with-immersive-exhibition)
-- [MPs to tighten laws allowing foreign donations to influence UK elections](https://www.theguardian.com/politics/2025/jul/17/mps-to-tighten-laws-allowing-foreign-donations-to-influence-uk-elections)
-- [Starmer and Merz to sign UK–Germany treaty targeting smuggling gangs and boosting defence ties](https://www.theguardian.com/politics/2025/jul/16/starmer-and-merz-to-sign-ukgermany-treaty-targeting-smuggling-gangs-and-boosting-defence-ties)
+- [Trump requests release of Epstein grand jury transcripts amid report of ‘bawdy’ birthday note](https://www.theguardian.com/us-news/2025/jul/17/trump-epstein-grand-jury-testimony-wall-street-journal)
+- [Tensions over Epstein files complicate Republican plan to vote on cuts bill](https://www.theguardian.com/us-news/2025/jul/17/house-republicans-rescissions)
+- [Why thousands of Afghans were secretly relocated to the UK – podcast](https://www.theguardian.com/news/audio/2025/jul/18/why-thousands-of-afghans-were-secretly-relocated-to-the-uk-podcast)
+- [‘Cult of convenience’: how Tokyo’s retro shotengai arcades are falling victim to gentrification](https://www.theguardian.com/world/2025/jul/18/cult-of-convenience-how-tokyos-retro-shotengai-arcades-are-falling-victim-to-gentrification)
+- [Skydive pioneer Felix Baumgartner, who jumped from edge of space, dies in paragliding accident](https://www.theguardian.com/sport/2025/jul/18/skydive-pioneer-felix-baumgartner-who-jumped-from-edge-of-space-dies-in-paragliding-accident)
+- [‘A massive contribution’: Wiegman heaps praise on England hero Hampton](https://www.theguardian.com/football/2025/jul/18/sarina-wiegman-reaction-hannah-hampton-england-euro-2025-sweden-shootout)
+- [Migrants deported by the US to Eswatini being held in solitary confinement](https://www.theguardian.com/us-news/2025/jul/18/migrants-deported-by-the-us-to-eswatini-being-held-in-solitary-confinement)
+- [In Gaza I saw the suffering of children and the heroism of health workers trying to save them | Thienminh Dinh](https://www.theguardian.com/commentisfree/2025/jul/18/gaza-medics-healthcare-workers-heroism)
+- [England go from shambles to euphoria as self-belief somehow sees off Sweden | Jonathan Liew](https://www.theguardian.com/football/2025/jul/18/england-go-from-shambles-to-euphoria-as-self-belief-somehow-sees-off-sweden)
+- [New ‘buy now, pay later’ affordability checks may cover even smallest loans](https://www.theguardian.com/business/2025/jul/18/buy-now-pay-later-regulation-fca-affordability-checks)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

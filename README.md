@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: ChainTok – Immortalize your love on Bitcoin&#39;s eternal ledger](https://app.chaintok.com)
-- [Improving OSM lake polygons using Lidar data [video]](https://www.youtube.com/watch?v=4XxX8smv29M)
-- [Photos: The Scale of China&#39;s Solar-Power Projects](https://www.theatlantic.com/photography/archive/2025/07/photos-china-solar-power-energy/683488/)
-- [Dreamflow: create flutter apps with text prompts](https://dreamflow.app/)
-- [A Wide Reduction Trick](https://words.filippo.io/wide-reduction/)
-- [International Math Olympiad 2025 Problems: How Well Will AI Do?](https://sugaku.net/content/imo-2025-problems/)
-- [I&#39;ve been coding with AI for two years. Here is what I&#39;ve learned](https://nathanpeck.com/ive-been-coding-with-ai-for-two-years-here-is-what-i-learned/)
-- [Links? Links – Infrequently Noted](https://infrequently.org/2025/07/links/)
-- [Cheating? Or the acumen of modern programming? FOSS, &quot;AI&quot;, and human conscience](https://gist.github.com/guest271314/17c9daac37101538c9baa6df72aaaefb)
-- [LLM Benchmarking Shows Capabilities Doubling Every 7 Months](https://spectrum.ieee.org/llm-benchmarking-metr)
+- [Parking Lot Simulator – discover the price of virtue](https://www.parkinglotsimulator.com)
+- [Tuneshine bringing back the lost art of the album cover](https://www.wallpaper.com/tech/tuneshine)
+- [How to use the Internet to earn extra money?](https://news.ycombinator.com/item?id=44600845)
+- [JPMorgan&#39;s Blockchain Arm Kinexys Tests Tokenized Carbon Credits with S&amp;P Global](https://www.coindesk.com/business/2025/07/02/jpmorgans-blockchain-arm-kinexys-tests-tokenized-carbon-credits-with-sp-global)
+- [Agentic AI Engineering: Full 4-Hour Workshop feat. MCP, CrewAI, OpenAI Agent SDK](https://www.youtube.com/watch?v=LSk5KaEGVk4)
+- [Beware of the Google AI salesman and its cronies](https://housefresh.com/beware-of-the-google-ai-salesman/)
+- [The Origins of Abracadabra and Other Magic Words [video]](https://www.youtube.com/watch?v=SBeTSimdUrg)
+- [Show HN: CISA CVEs with Precondition Reasoning and Default Exploitability](https://github.com/abhas9/cve-default-exploitability)
+- [Musk&#39;s Neuralink filed as &#39;disadvantaged business&#39; before being valued at $9B](https://www.cnbc.com/2025/07/17/elon-musks-neuralink-says-owned-by-disadvantaged-persons-in-filing.html)
+- [Google tapped billions of mobile phones to detect earthquakes worldwide](https://www.nature.com/articles/d41586-025-02278-3)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

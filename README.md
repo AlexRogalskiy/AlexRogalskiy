@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Trump requests release of Epstein grand jury transcripts amid report of ‘bawdy’ birthday note](https://www.theguardian.com/us-news/2025/jul/17/trump-epstein-grand-jury-testimony-wall-street-journal)
-- [Tensions over Epstein files complicate Republican plan to vote on cuts bill](https://www.theguardian.com/us-news/2025/jul/17/house-republicans-rescissions)
-- [Why thousands of Afghans were secretly relocated to the UK – podcast](https://www.theguardian.com/news/audio/2025/jul/18/why-thousands-of-afghans-were-secretly-relocated-to-the-uk-podcast)
-- [‘Cult of convenience’: how Tokyo’s retro shotengai arcades are falling victim to gentrification](https://www.theguardian.com/world/2025/jul/18/cult-of-convenience-how-tokyos-retro-shotengai-arcades-are-falling-victim-to-gentrification)
-- [Skydive pioneer Felix Baumgartner, who jumped from edge of space, dies in paragliding accident](https://www.theguardian.com/sport/2025/jul/18/skydive-pioneer-felix-baumgartner-who-jumped-from-edge-of-space-dies-in-paragliding-accident)
-- [‘A massive contribution’: Wiegman heaps praise on England hero Hampton](https://www.theguardian.com/football/2025/jul/18/sarina-wiegman-reaction-hannah-hampton-england-euro-2025-sweden-shootout)
-- [Migrants deported by the US to Eswatini being held in solitary confinement](https://www.theguardian.com/us-news/2025/jul/18/migrants-deported-by-the-us-to-eswatini-being-held-in-solitary-confinement)
-- [In Gaza I saw the suffering of children and the heroism of health workers trying to save them | Thienminh Dinh](https://www.theguardian.com/commentisfree/2025/jul/18/gaza-medics-healthcare-workers-heroism)
-- [England go from shambles to euphoria as self-belief somehow sees off Sweden | Jonathan Liew](https://www.theguardian.com/football/2025/jul/18/england-go-from-shambles-to-euphoria-as-self-belief-somehow-sees-off-sweden)
-- [New ‘buy now, pay later’ affordability checks may cover even smallest loans](https://www.theguardian.com/business/2025/jul/18/buy-now-pay-later-regulation-fca-affordability-checks)
+- [Explosion at LA law enforcement training facility kills three people](https://www.theguardian.com/us-news/2025/jul/18/la-training-facility-explosion)
+- [Trump sues Wall Street Journal and Rupert Murdoch over Epstein report](https://www.theguardian.com/us-news/2025/jul/18/trump-libel-lawsuit-wsj-dow-jones-rupert-murdoch)
+- [Trump says 10 Israeli hostages to be released from Gaza ‘very shortly’](https://www.theguardian.com/us-news/2025/jul/18/trump-israel-gaza-hostages)
+- [‘Japanese-first’ Sanseito party goes into election leveraging unease about foreigners](https://www.theguardian.com/world/2025/jul/19/japanese-first-sanseito-party-goes-into-election-leveraging-unease-about-foreigners)
+- [Are Spain pacing themselves or sleepwalking to a deafening alarm call?](https://www.theguardian.com/football/2025/jul/18/are-spain-pacing-themselves-or-sleepwalking-to-a-deafening-alarm-call)
+- [Company says investigation under way into footage of couple at Coldplay gig](https://www.theguardian.com/us-news/2025/jul/18/astronomer-formal-investigation-couple-coldplay)
+- [Thomas Frank hints it may be goodbye to Tottenham for Son Heung-min](https://www.theguardian.com/football/2025/jul/18/thomas-frank-hints-it-may-be-goodbye-to-tottenham-for-son-heung-min)
+- [Alan Bergman, Oscar-winning lyricist, dies at 99](https://www.theguardian.com/music/2025/jul/18/alan-bergman-lyricist-dies)
+- [Writers’ union urges investigation into Paramount move to cancel Colbert show](https://www.theguardian.com/tv-and-radio/2025/jul/18/writers-guild-stephen-colbert-investigation)
+- [Spain see off stubborn Swiss to reach semis despite two missed penalties](https://www.theguardian.com/football/2025/jul/18/spain-switzerland-womens-euro-2025-quarter-final-match-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

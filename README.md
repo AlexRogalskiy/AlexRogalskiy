@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [NIH Is Far Cheaper Than the Wrong Dependency](https://lewiscampbell.tech/blog/250718.html)
-- [USB-C hubs and my slow descent into madness &lpar;2021&rpar;](https://overengineer.dev/blog/2021/04/25/usb-c-hub-madness/)
-- [Out Run: Amiga Edition – Launch Trailer [video]](https://www.youtube.com/watch?v=WZzTp3vSC0g)
-- [Louisiana cancels $3B coastal repair funded by oil spill settlement](https://apnews.com/article/louisiana-coastal-restoration-gulf-oil-spill-affaae2877bf250f636a633a14fbd0c7)
-- [Astronomers Discover Rare Distant Object in Sync with Neptune](https://pweb.cfa.harvard.edu/news/astronomers-discover-rare-distant-object-sync-neptune)
-- [My favorite use-case for AI is writing logs](https://newsletter.vickiboykis.com/archive/my-favorite-use-case-for-ai-is-writing-logs/)
-- [Mammals Evolved into Ant Eaters 12 Times Since Dinosaur Age, Study Finds](https://news.njit.edu/mammals-evolved-ant-eaters-12-times-dinosaur-age-study-finds)
-- [23andMe is out of bankruptcy. You should still delete your DNA](https://www.washingtonpost.com/technology/2025/07/17/23andme-bankruptcy-privacy/)
-- [People kept working, became healthier while on basic income: report &lpar;2020&rpar;](https://www.cbc.ca/news/canada/hamilton/basic-income-mcmaster-report-1.5485729)
-- [Anthropic tightens usage limits for Claude Code without telling users](https://techcrunch.com/2025/07/17/anthropic-tightens-usage-limits-for-claude-code-without-telling-users/)
+- [My Ultimate Self-Hosting Setup](https://codecaptured.com/blog/my-ultimate-self-hosting-setup/)
+- [We do not break userspace &lpar;2012&rpar;](https://lore.kernel.org/all/CA+55aFy98A+LJK4+GWMcbzaa1zsPBRo76q+ioEjbx-uaMKH6Uw@mail.gmail.com/)
+- [Bun adds pnpm-style isolated installation mode](https://github.com/oven-sh/bun/pull/20440)
+- [Mr Browser – Macintosh Repository file downloader that runs directly on 68k Macs](https://www.macintoshrepository.org/44146-mr-browser)
+- [Debcraft – Easiest way to modify and build Debian packages](https://optimizedbyotto.com/post/debcraft-easy-debian-packaging/)
+- [Ccusage: A CLI tool for analyzing Claude Code usage from local JSONL files](https://github.com/ryoppippi/ccusage)
+- [I&#39;m Rebelling Against the Algorithm](https://varunraghu.com/im-rebelling-against-the-algorithm/)
+- [How to write Rust in the Linux kernel: part 3](https://lwn.net/SubscriberLink/1026694/3413f4b43c862629/)
+- [Silence Is a Commons by Ivan Illich &lpar;1983&rpar;](http://www.davidtinapple.com/illich/1983_silence_commons.html)
+- [Wii U SDBoot1 Exploit “paid the beak”](https://consolebytes.com/wii-u-sdboot1-exploit-paid-the-beak/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

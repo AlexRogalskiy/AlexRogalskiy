@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Explosion at LA law enforcement training facility kills three people](https://www.theguardian.com/us-news/2025/jul/18/la-training-facility-explosion)
-- [Trump sues Wall Street Journal and Rupert Murdoch over Epstein report](https://www.theguardian.com/us-news/2025/jul/18/trump-libel-lawsuit-wsj-dow-jones-rupert-murdoch)
-- [Trump says 10 Israeli hostages to be released from Gaza ‘very shortly’](https://www.theguardian.com/us-news/2025/jul/18/trump-israel-gaza-hostages)
-- [‘Japanese-first’ Sanseito party goes into election leveraging unease about foreigners](https://www.theguardian.com/world/2025/jul/19/japanese-first-sanseito-party-goes-into-election-leveraging-unease-about-foreigners)
-- [Are Spain pacing themselves or sleepwalking to a deafening alarm call?](https://www.theguardian.com/football/2025/jul/18/are-spain-pacing-themselves-or-sleepwalking-to-a-deafening-alarm-call)
-- [Company says investigation under way into footage of couple at Coldplay gig](https://www.theguardian.com/us-news/2025/jul/18/astronomer-formal-investigation-couple-coldplay)
-- [Thomas Frank hints it may be goodbye to Tottenham for Son Heung-min](https://www.theguardian.com/football/2025/jul/18/thomas-frank-hints-it-may-be-goodbye-to-tottenham-for-son-heung-min)
-- [Alan Bergman, Oscar-winning lyricist, dies at 99](https://www.theguardian.com/music/2025/jul/18/alan-bergman-lyricist-dies)
-- [Writers’ union urges investigation into Paramount move to cancel Colbert show](https://www.theguardian.com/tv-and-radio/2025/jul/18/writers-guild-stephen-colbert-investigation)
-- [Spain see off stubborn Swiss to reach semis despite two missed penalties](https://www.theguardian.com/football/2025/jul/18/spain-switzerland-womens-euro-2025-quarter-final-match-report)
+- [South Korea rains: week’s death toll rises to 11 with more missing](https://www.theguardian.com/world/2025/jul/20/south-korea-rains-weeks-death-toll-rises-to-11-with-more-missing)
+- [England outclass USA in dominant win amid lightning delays in Washington DC](https://www.theguardian.com/sport/2025/jul/20/rugby-union-england-usa-match-report)
+- [Trump news at a glance: How Robert F Kennedy Jr is cancelling medical science](https://www.theguardian.com/us-news/2025/jul/20/trump-news-at-a-glance-how-robert-f-kennedy-jr-is-cancelling-medical-science)
+- [Ukraine war briefing: Zelenskyy says peace negotiations ‘must be stepped up’](https://www.theguardian.com/world/2025/jul/20/ukraine-war-briefing-zelenskyy-says-peace-negotiations-must-be-stepped-up)
+- [Oleksandr Usyk wraps Ukraine’s flag around himself and his fists around Daniel Dubois | Barney Ronay](https://www.theguardian.com/sport/2025/jul/20/oleksandr-usyk-wraps-ukraines-flag-around-himself-and-his-fists-around-daniel-dubois)
+- [Ann-Katrin Berger follows up biblical miracle with penalty heroics for Germany | Jonathan Liew](https://www.theguardian.com/football/2025/jul/20/ann-katrin-berger-follows-up-biblical-miracle-with-penalty-heroics-for-germany)
+- [UK government faces legal action over not evacuating critically ill children from Gaza](https://www.theguardian.com/politics/2025/jul/19/uk-government-faces-legal-action-over-not-evacuating-critically-ill-children-from-gaza)
+- [Browsing Rightmove for a rural bolthole? Get ‘the best of the Highlands’ for £9m](https://www.theguardian.com/uk-news/2025/jul/20/browsing-rightmove-for-a-rural-bolthole-get-the-best-of-the-highlands-for-9m-glen-buck-estate-aberchalder)
+- [Usyk defeats Dubois to become undisputed heavyweight champion once more](https://www.theguardian.com/sport/2025/jul/19/oleksandr-usyk-defeats-daniel-dubois-to-become-undisputed-world-heavyweight-champion-once-more)
+- [Berger stars in shootout as Germany overcome early red card to fell France at Euro 2025](https://www.theguardian.com/football/2025/jul/19/france-germany-womens-euro-2025-quarter-final-match-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

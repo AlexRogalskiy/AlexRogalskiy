@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [June 29, 1999](https://booksofwonder.com/products/june-29-1999)
-- [United Airlines Fixes Starlink Wi-Fi After Radio Interference](https://gearmusk.com/2025/07/19/united-airlines-fixes-starlink/)
-- [Where Have Men Gone? We&#39;re Right Here](https://www.nytimes.com/2025/07/15/style/modern-love-where-have-men-gone-were-right-here.html)
-- [It Would Be Good If the AI Bubble Burst](https://www.stephendiehl.com/posts/ai_bubble/)
-- [My Ultimate Self-Hosting Setup](https://codecaptured.com/blog/my-ultimate-self-hosting-setup/)
-- [Go 1.24&#39;s Swiss Tables saved us gigabytes](https://www.datadoghq.com/blog/engineering/go-swiss-tables/)
-- [Simon Willison has a plan for the end of the world. It&#39;s a USB stick](https://www.technologyreview.com/2025/07/17/1120391/how-to-run-an-llm-on-your-laptop/)
-- [Creative Destruction](https://arnoldkling.substack.com/p/creative-destruction)
-- [This Should Not Be Possible](https://ghuntley.com/no/)
-- [AI Co-Founders](https://www.usenovi.com/)
+- [Are Diamonds Even a Luxury Anymore? De Beers Reckons with Price Plunge](https://www.wsj.com/business/retail/de-beers-diamonds-price-lab-grown-468b33ab)
+- [Show HN: benchmark code snippets perf improvements with multiple llm&#39;s](https://github.com/thomasdavis/llm-benchmark/blob/main/tutorial.md)
+- [Airbnb allowed rampant price gouging following L.A. fires, city attorney alleges](https://www.latimes.com/california/story/2025-07-19/airbnb-allowed-price-gouging-following-l-a-fires-city-attorney-alleges-in-lawsuit)
+- [Voice actors demand regulation on AI voice cloning](https://ecency.com/actor/@blaffy/voice-actors-demand-regulation-on-ai-voice-cloning)
+- [Show HN: Framer.zone – Discover and Share Framer templates, plugins and more](https://www.framer.zone/)
+- [A Video Studio Embraced A.I. and Stormed the Internet](https://www.nytimes.com/2025/07/18/technology/dor-video-studio-ai.html)
+- [Intel CEO Lip-Bu Tan&#39;s Wide-Ranging Investments in China](https://www.reuters.com/technology/intel-ceo-lip-bu-tans-wide-ranging-investments-china-2025-04-10/)
+- [Track and Contact Churning Users](https://tinychurn.com)
+- [National Crime Agency officer jailed for stealing £4.4M worth of seized Bitcoin](https://www.theguardian.com/uk-news/2025/jul/16/national-agency-officer-jailed-for-stealing-44m-worth-of-seized-bitcoin)
+- [Windows Subsystem for Android](https://learn.microsoft.com/en-us/previous-versions/windows/android/wsa/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

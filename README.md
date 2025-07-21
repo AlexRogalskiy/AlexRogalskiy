@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [South Korea rains: week’s death toll rises to 11 with more missing](https://www.theguardian.com/world/2025/jul/20/south-korea-rains-weeks-death-toll-rises-to-11-with-more-missing)
-- [England outclass USA in dominant win amid lightning delays in Washington DC](https://www.theguardian.com/sport/2025/jul/20/rugby-union-england-usa-match-report)
-- [Trump news at a glance: How Robert F Kennedy Jr is cancelling medical science](https://www.theguardian.com/us-news/2025/jul/20/trump-news-at-a-glance-how-robert-f-kennedy-jr-is-cancelling-medical-science)
-- [Ukraine war briefing: Zelenskyy says peace negotiations ‘must be stepped up’](https://www.theguardian.com/world/2025/jul/20/ukraine-war-briefing-zelenskyy-says-peace-negotiations-must-be-stepped-up)
-- [Oleksandr Usyk wraps Ukraine’s flag around himself and his fists around Daniel Dubois | Barney Ronay](https://www.theguardian.com/sport/2025/jul/20/oleksandr-usyk-wraps-ukraines-flag-around-himself-and-his-fists-around-daniel-dubois)
-- [Ann-Katrin Berger follows up biblical miracle with penalty heroics for Germany | Jonathan Liew](https://www.theguardian.com/football/2025/jul/20/ann-katrin-berger-follows-up-biblical-miracle-with-penalty-heroics-for-germany)
-- [UK government faces legal action over not evacuating critically ill children from Gaza](https://www.theguardian.com/politics/2025/jul/19/uk-government-faces-legal-action-over-not-evacuating-critically-ill-children-from-gaza)
-- [Browsing Rightmove for a rural bolthole? Get ‘the best of the Highlands’ for £9m](https://www.theguardian.com/uk-news/2025/jul/20/browsing-rightmove-for-a-rural-bolthole-get-the-best-of-the-highlands-for-9m-glen-buck-estate-aberchalder)
-- [Usyk defeats Dubois to become undisputed heavyweight champion once more](https://www.theguardian.com/sport/2025/jul/19/oleksandr-usyk-defeats-daniel-dubois-to-become-undisputed-world-heavyweight-champion-once-more)
-- [Berger stars in shootout as Germany overcome early red card to fell France at Euro 2025](https://www.theguardian.com/football/2025/jul/19/france-germany-womens-euro-2025-quarter-final-match-report)
+- [‘Papa Jake’ Larson, D-day veteran and TikTok star, dies aged 102](https://www.theguardian.com/us-news/2025/jul/21/papa-jake-larson-dies-death-aged-102)
+- [Caught between a fossil fuel past and a green future, China’s coal miners chart an uncertain path](https://www.theguardian.com/world/2025/jul/21/china-coal-industry-clean-energy-shift)
+- [Ukraine war briefing: Russia insists on sticking to its war demands amid Trump sanctions threat](https://www.theguardian.com/world/2025/jul/21/ukraine-war-briefing-russia-insists-on-sticking-to-its-war-demands-amid-trump-sanctions-threat)
+- [Japan PM Shigeru Ishiba faces uncertain future after losing upper house majority](https://www.theguardian.com/world/2025/jul/20/apan-pm-election-result-exit-polls-predict-loss-of-upper-house)
+- [Four arrested under Terrorism Act during Liverpool pro-Palestine protest](https://www.theguardian.com/world/2025/jul/21/four-arrested-under-terrorism-act-during-liverpool-pro-palestine-protest)
+- [Average UK house asking price registers steepest monthly drop for 20 years](https://www.theguardian.com/business/2025/jul/21/average-uk-house-asking-price-steepest-monthly-drop-for-20-years)
+- [Rising food prices driven by climate crisis threaten world’s poorest, report finds](https://www.theguardian.com/business/2025/jul/21/rising-food-prices-driven-by-climate-crisis-threaten-worlds-poorest-report-finds)
+- [Ministers to revive Blair-era Pensions Commission to tackle savings crisis](https://www.theguardian.com/money/2025/jul/21/ministers-to-revive-blair-era-pensions-commission-tackle-savings-crisis)
+- [Five arrested as more than 1,000 protesters gather outside Essex asylum hotel](https://www.theguardian.com/uk-news/2025/jul/20/police-warn-inflammatory-online-posts-clashes-essex-asylum-hotel)
+- [Children of elderly UK couple jailed by Taliban call for release before they ‘die in custody’](https://www.theguardian.com/world/2025/jul/20/children-of-elderly-uk-couple-jailed-by-taliban-call-for-release-before-they-die-in-custody)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

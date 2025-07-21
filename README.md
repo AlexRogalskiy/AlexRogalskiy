@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Are Diamonds Even a Luxury Anymore? De Beers Reckons with Price Plunge](https://www.wsj.com/business/retail/de-beers-diamonds-price-lab-grown-468b33ab)
-- [Show HN: benchmark code snippets perf improvements with multiple llm&#39;s](https://github.com/thomasdavis/llm-benchmark/blob/main/tutorial.md)
-- [Airbnb allowed rampant price gouging following L.A. fires, city attorney alleges](https://www.latimes.com/california/story/2025-07-19/airbnb-allowed-price-gouging-following-l-a-fires-city-attorney-alleges-in-lawsuit)
-- [Voice actors demand regulation on AI voice cloning](https://ecency.com/actor/@blaffy/voice-actors-demand-regulation-on-ai-voice-cloning)
-- [Show HN: Framer.zone – Discover and Share Framer templates, plugins and more](https://www.framer.zone/)
-- [A Video Studio Embraced A.I. and Stormed the Internet](https://www.nytimes.com/2025/07/18/technology/dor-video-studio-ai.html)
-- [Intel CEO Lip-Bu Tan&#39;s Wide-Ranging Investments in China](https://www.reuters.com/technology/intel-ceo-lip-bu-tans-wide-ranging-investments-china-2025-04-10/)
-- [Track and Contact Churning Users](https://tinychurn.com)
-- [National Crime Agency officer jailed for stealing £4.4M worth of seized Bitcoin](https://www.theguardian.com/uk-news/2025/jul/16/national-agency-officer-jailed-for-stealing-44m-worth-of-seized-bitcoin)
-- [Windows Subsystem for Android](https://learn.microsoft.com/en-us/previous-versions/windows/android/wsa/)
+- [Ask HN: Will transformer based LLMs hit an improvement ceiling?](https://news.ycombinator.com/item?id=44631571)
+- [Cosmograph: Visualize big networks within seconds](https://cosmograph.app/)
+- [Dirt to Airplanes: Making Aluminium](https://maurycyz.com/projects/al/)
+- [Door Wide AI: The 64M Users McDonald&#39;s Left Behind](https://www.vitraag.com/2025/07/20/door-wide-ai/)
+- [Homo Floresiensis](https://en.wikipedia.org/wiki/Homo_floresiensis)
+- [qman – a more modern manual page viewer for our terminals](https://github.com/plp13/qman)
+- [Retrieval Embedding Benchmark](https://huggingface.co/spaces/embedding-benchmark/RTEB)
+- [ARMv8 AArch64/ARM64 Full Beginner&#39;s Assembly Tutorial](https://mariokartwii.com/armv8/)
+- [FFmpeg School of Assembly Language](https://github.com/FFmpeg/asm-lessons)
+- [At least 67 killed while waiting for aid in Gaza, officials say](https://news.sky.com/story/at-least-67-killed-while-waiting-for-aid-in-gaza-officials-say-13399225)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

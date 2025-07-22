@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [‘Papa Jake’ Larson, D-day veteran and TikTok star, dies aged 102](https://www.theguardian.com/us-news/2025/jul/21/papa-jake-larson-dies-death-aged-102)
-- [Caught between a fossil fuel past and a green future, China’s coal miners chart an uncertain path](https://www.theguardian.com/world/2025/jul/21/china-coal-industry-clean-energy-shift)
-- [Ukraine war briefing: Russia insists on sticking to its war demands amid Trump sanctions threat](https://www.theguardian.com/world/2025/jul/21/ukraine-war-briefing-russia-insists-on-sticking-to-its-war-demands-amid-trump-sanctions-threat)
-- [Japan PM Shigeru Ishiba faces uncertain future after losing upper house majority](https://www.theguardian.com/world/2025/jul/20/apan-pm-election-result-exit-polls-predict-loss-of-upper-house)
-- [Four arrested under Terrorism Act during Liverpool pro-Palestine protest](https://www.theguardian.com/world/2025/jul/21/four-arrested-under-terrorism-act-during-liverpool-pro-palestine-protest)
-- [Average UK house asking price registers steepest monthly drop for 20 years](https://www.theguardian.com/business/2025/jul/21/average-uk-house-asking-price-steepest-monthly-drop-for-20-years)
-- [Rising food prices driven by climate crisis threaten world’s poorest, report finds](https://www.theguardian.com/business/2025/jul/21/rising-food-prices-driven-by-climate-crisis-threaten-worlds-poorest-report-finds)
-- [Ministers to revive Blair-era Pensions Commission to tackle savings crisis](https://www.theguardian.com/money/2025/jul/21/ministers-to-revive-blair-era-pensions-commission-tackle-savings-crisis)
-- [Five arrested as more than 1,000 protesters gather outside Essex asylum hotel](https://www.theguardian.com/uk-news/2025/jul/20/police-warn-inflammatory-online-posts-clashes-essex-asylum-hotel)
-- [Children of elderly UK couple jailed by Taliban call for release before they ‘die in custody’](https://www.theguardian.com/world/2025/jul/20/children-of-elderly-uk-couple-jailed-by-taliban-call-for-release-before-they-die-in-custody)
+- [Billy Joel opens up about brain disorder diagnosis after cancelling tour dates: ‘My balance sucks’](https://www.theguardian.com/music/2025/jul/22/billy-joel-brain-disorder-diagnosis-update)
+- [Death of Malcolm-Jamal Warner shocks fans: ‘We saw ourselves in him’](https://www.theguardian.com/culture/2025/jul/21/malcolm-jamal-warner-death-cosby-show)
+- [Ukraine war briefing: International protest over arrests at anti-corruption agency](https://www.theguardian.com/world/2025/jul/22/ukraine-war-briefing-international-protest-over-arrests-at-anti-corruption-agency)
+- [New trust to monitor anti-Muslim hatred in UK after funding to Tell Mama ended](https://www.theguardian.com/uk-news/2025/jul/21/new-trust-to-monitor-anti-muslim-hatred-in-uk-after-funding-to-tell-mama-paused)
+- [Trump officials release FBI records on MLK Jr despite his family’s opposition](https://www.theguardian.com/us-news/2025/jul/21/trump-administration-release-mlk-fbi-records)
+- [The story of the Coldplay couple unfolded like a soap opera. But was the pile-on that followed a proportionate response? | Miski Omar](https://www.theguardian.com/commentisfree/2025/jul/22/the-story-of-the-coldplay-couple-unfolded-like-a-soap-opera-but-was-the-pile-on-that-followed-a-proportional-response-ntwnfb)
+- [Britain told US that invading Iraq could cost Blair his premiership, papers reveal](https://www.theguardian.com/uk-news/2025/jul/22/britain-told-us-that-invading-iraq-could-cost-blair-his-premiership-papers-reveal)
+- [Israel launches air and ground offensive on Deir al-Balah in central Gaza](https://www.theguardian.com/world/2025/jul/21/israel-launches-air-ground-offensive-deir-al-balah-central-gaza)
+- [Trump tax bill to add $3.4tn to US debt over next decade, new analysis finds](https://www.theguardian.com/us-news/2025/jul/21/trump-tax-bill-debt-cbo-report)
+- [Ibiza venue cancels music events after deaths of two British men in two weeks](https://www.theguardian.com/world/2025/jul/21/ibiza-venue-cancels-music-events-after-deaths-of-two-british-men-gary-kelly-evan-thomson-in-two-weeks)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

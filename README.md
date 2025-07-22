@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Log by time, not by count](https://johnscolaro.xyz/blog/log-by-time-not-by-count)
-- [Claude Jailbroken to Mint Unlimited Stripe Coupons](https://www.generalanalysis.com/blog/imessage-stripe-exploit)
-- [Agents built from alloys](https://xbow.com/blog/alloy-agents/)
-- [Computational complexity of neural networks &lpar;2022&rpar;](https://lunalux.io/introduction-to-neural-networks/computational-complexity-of-neural-networks/)
-- [Show HN: X11 desktop widget that shows location of your network peers on a map](https://github.com/h2337/connmap)
-- [What birdsong and back ends can teach us about magic](https://digitalseams.com/blog/what-birdsong-and-backends-can-teach-us-about-magic)
-- [The Genius Device That Rocked F1](https://www.youtube.com/watch?v=FhmLb2DhNYM)
-- [IPv6 Based Canvas](https://canvas.openbased.org/)
-- [Peep Show – The Most Realistic Portrayal of Evil Ever Made &lpar;2020&rpar;](https://mattlakeman.org/2020/01/22/peep-show-the-most-realistic-portrayal-of-evil-ive-ever-seen/)
-- [FFmpeg devs boast of another 100x leap thanks to handwritten assembly code](https://www.tomshardware.com/software/the-biggest-speedup-ive-seen-so-far-ffmpeg-devs-boast-of-another-100x-leap-thanks-to-handwritten-assembly-code)
+- [AI comes up with bizarre physics experiments, but they work](https://www.quantamagazine.org/ai-comes-up-with-bizarre-physics-experiments-but-they-work-20250721/)
+- [If writing is thinking then what happens if AI is doing the writing and reading?](https://hardcoresoftware.learningbyshipping.com/p/234-if-writing-is-thinking)
+- [Uv: Running a script with dependencies](https://docs.astral.sh/uv/guides/scripts/#running-a-script-with-dependencies)
+- [FCC to eliminate gigabit speed goal and scrap analysis of broadband prices](https://arstechnica.com/civis/threads/fcc-to-eliminate-gigabit-speed-goal-and-scrap-analysis-of-broadband-prices.1508451/page-2)
+- [Spice Data &lpar;YC S19&rpar; Is Hiring a Product Associate &lpar;New Grad&rpar;](https://www.ycombinator.com/companies/spice-data/jobs/RJz1peY-product-associate-new-grad)
+- [The surprising geography of American left-handedness &lpar;2015&rpar;](https://www.washingtonpost.com/news/wonk/wp/2015/09/22/the-surprising-geography-of-american-left-handedness/)
+- [In a major reversal, the world bank is backing mega dams &lpar;2024&rpar;](https://e360.yale.edu/features/world-bank-hydro-dams)
+- [Yoni Appelbaum on the real villians behind our housing and mobility problems](https://www.riskgaming.com/p/how-jane-jacobs-got-americans-stuck)
+- [Erlang 28 on GRiSP Nano using only 16 MB](https://www.grisp.org/blog/posts/2025-06-11-grisp-nano-codebeam-sto)
+- [Scarcity, Inventory, and Inequity: A Deep Dive into Airline Fare Buckets](https://blog.getjetback.com/scarcity-inventory-and-inequity-a-deep-dive-into-airline-fare-buckets/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

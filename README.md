@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ask HN: Will transformer based LLMs hit an improvement ceiling?](https://news.ycombinator.com/item?id=44631571)
-- [Cosmograph: Visualize big networks within seconds](https://cosmograph.app/)
-- [Dirt to Airplanes: Making Aluminium](https://maurycyz.com/projects/al/)
-- [Door Wide AI: The 64M Users McDonald&#39;s Left Behind](https://www.vitraag.com/2025/07/20/door-wide-ai/)
-- [Homo Floresiensis](https://en.wikipedia.org/wiki/Homo_floresiensis)
-- [qman – a more modern manual page viewer for our terminals](https://github.com/plp13/qman)
-- [Retrieval Embedding Benchmark](https://huggingface.co/spaces/embedding-benchmark/RTEB)
-- [ARMv8 AArch64/ARM64 Full Beginner&#39;s Assembly Tutorial](https://mariokartwii.com/armv8/)
-- [FFmpeg School of Assembly Language](https://github.com/FFmpeg/asm-lessons)
-- [At least 67 killed while waiting for aid in Gaza, officials say](https://news.sky.com/story/at-least-67-killed-while-waiting-for-aid-in-gaza-officials-say-13399225)
+- [Rill Social – free native iOS app just launched – husband and wife team](https://apps.apple.com/us/app/rill-social/id6736891148)
+- [Show HN: Typogram Studio – Figma for Typography](https://typogram.co/studio/)
+- [What I Learned about Gardening from My PhD in Computer Science](https://www.theexclusive.org/2025/07/phd-gardener.html)
+- [Heavyweight: An Art Project About Lawyer Vibes](https://kendraalbert.com/2025/07/21/lawyer-letters-without-lawyers.html)
+- [We Have Made the Decision to Not Continue Paying for BBB Accreditation](https://mycherrytree.com/blogs/news/why-we-have-made-the-decision-to-not-continue-paying-for-accreditation-from-the-better-business-bureau-bbb)
+- [Smoots: A fraternity prank turned into a measurement](https://www.theregister.com/2025/07/18/smoot_mit_measurement/)
+- [Anthropic CEO Says the Company Will Pursue Gulf State Investments After All](https://www.wired.com/story/anthropic-dario-amodei-gulf-state-leaked-memo/)
+- [Detecting Organic Contaminants with Less Data](https://mirawelner.com/posts/spectroscopy.html)
+- [Bun 1.2.19 Adds Isolated Installs for Better Monorepo Support](https://socket.dev/blog/bun-1-2-19-adds-isolated-installs-for-better-monorepo-support)
+- [ZLUDA - CUDA on Non-Nvidia GPUs](https://github.com/vosen/ZLUDA)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

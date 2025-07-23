@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Rill Social – free native iOS app just launched – husband and wife team](https://apps.apple.com/us/app/rill-social/id6736891148)
-- [Show HN: Typogram Studio – Figma for Typography](https://typogram.co/studio/)
-- [What I Learned about Gardening from My PhD in Computer Science](https://www.theexclusive.org/2025/07/phd-gardener.html)
-- [Heavyweight: An Art Project About Lawyer Vibes](https://kendraalbert.com/2025/07/21/lawyer-letters-without-lawyers.html)
-- [We Have Made the Decision to Not Continue Paying for BBB Accreditation](https://mycherrytree.com/blogs/news/why-we-have-made-the-decision-to-not-continue-paying-for-accreditation-from-the-better-business-bureau-bbb)
-- [Smoots: A fraternity prank turned into a measurement](https://www.theregister.com/2025/07/18/smoot_mit_measurement/)
-- [Anthropic CEO Says the Company Will Pursue Gulf State Investments After All](https://www.wired.com/story/anthropic-dario-amodei-gulf-state-leaked-memo/)
-- [Detecting Organic Contaminants with Less Data](https://mirawelner.com/posts/spectroscopy.html)
-- [Bun 1.2.19 Adds Isolated Installs for Better Monorepo Support](https://socket.dev/blog/bun-1-2-19-adds-isolated-installs-for-better-monorepo-support)
-- [ZLUDA - CUDA on Non-Nvidia GPUs](https://github.com/vosen/ZLUDA)
+- [How to Network as a Developer &lpar;Without Feeling Sleazy&rpar;](https://www.tokyodev.com/articles/how-to-network-as-a-developer-without-feeling-sleazy)
+- [A Professor&#39;s Hunt for the Rarest Chinese Typewriter](https://www.nytimes.com/2025/07/22/nyregion/mingkwai-typewriter-china.html)
+- [EPA Is Said to Draft a Plan to End Its Ability to Fight Climate Change](https://www.nytimes.com/2025/07/22/climate/epa-endangerment-finding-rescind.html)
+- [Nearly 3k people are leaving NASA, and this director is one of them](https://arstechnica.com/space/2025/07/the-director-of-nasas-largest-science-center-is-leaving-government/)
+- [Talkit](https://talkit.ai/)
+- [Org Tutorials](https://orgmode.org/worg/org-tutorials/index.html)
+- [US faces alarming firefighter shortage during peak wildfire season, data reveals](https://www.theguardian.com/world/2025/jul/22/us-firefighter-shortage-wildfires)
+- [Czech president signs law criminalising communist propaganda](https://www.euractiv.com/section/politics/news/czech-president-signs-law-criminalising-communist-propaganda/)
+- [YouTube wipes out propaganda channels linked to China](https://www.cnbc.com/2025/07/21/youtube-channels-propaganda-china-russia.html)
+- [LLMs Looks Like Memento](https://twitter.com/brainer3220/status/1947606363603145195)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

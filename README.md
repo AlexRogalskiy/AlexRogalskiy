@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Billy Joel opens up about brain disorder diagnosis after cancelling tour dates: ‘My balance sucks’](https://www.theguardian.com/music/2025/jul/22/billy-joel-brain-disorder-diagnosis-update)
-- [Death of Malcolm-Jamal Warner shocks fans: ‘We saw ourselves in him’](https://www.theguardian.com/culture/2025/jul/21/malcolm-jamal-warner-death-cosby-show)
-- [Ukraine war briefing: International protest over arrests at anti-corruption agency](https://www.theguardian.com/world/2025/jul/22/ukraine-war-briefing-international-protest-over-arrests-at-anti-corruption-agency)
-- [New trust to monitor anti-Muslim hatred in UK after funding to Tell Mama ended](https://www.theguardian.com/uk-news/2025/jul/21/new-trust-to-monitor-anti-muslim-hatred-in-uk-after-funding-to-tell-mama-paused)
-- [Trump officials release FBI records on MLK Jr despite his family’s opposition](https://www.theguardian.com/us-news/2025/jul/21/trump-administration-release-mlk-fbi-records)
-- [The story of the Coldplay couple unfolded like a soap opera. But was the pile-on that followed a proportionate response? | Miski Omar](https://www.theguardian.com/commentisfree/2025/jul/22/the-story-of-the-coldplay-couple-unfolded-like-a-soap-opera-but-was-the-pile-on-that-followed-a-proportional-response-ntwnfb)
-- [Britain told US that invading Iraq could cost Blair his premiership, papers reveal](https://www.theguardian.com/uk-news/2025/jul/22/britain-told-us-that-invading-iraq-could-cost-blair-his-premiership-papers-reveal)
-- [Israel launches air and ground offensive on Deir al-Balah in central Gaza](https://www.theguardian.com/world/2025/jul/21/israel-launches-air-ground-offensive-deir-al-balah-central-gaza)
-- [Trump tax bill to add $3.4tn to US debt over next decade, new analysis finds](https://www.theguardian.com/us-news/2025/jul/21/trump-tax-bill-debt-cbo-report)
-- [Ibiza venue cancels music events after deaths of two British men in two weeks](https://www.theguardian.com/world/2025/jul/21/ibiza-venue-cancels-music-events-after-deaths-of-two-british-men-gary-kelly-evan-thomson-in-two-weeks)
+- [Videos reveal harsh conditions inside Ice’s New York City confinement center](https://www.theguardian.com/us-news/2025/jul/22/ice-videos-new-york-trump)
+- [Ukraine war briefing: Mirage fighter jet crashes after pilot ejects due to technical fault](https://www.theguardian.com/world/2025/jul/23/ukraine-war-briefing-mirage-fighter-jet-crashes-after-pilot-ejects-due-to-technical-fault)
+- [Lionesses stumble into final through blind luck but Agyemang offers glimpse of future | Jonathan Liew](https://www.theguardian.com/football/2025/jul/23/lionesses-england-women-italy-euro-2025-final-football-michelle-agyemang)
+- [200,000 eggs cracked and counting - the Guardian celebrates one year of the Feast app](https://www.theguardian.com/gnm-press-office/2025/jul/23/200000-eggs-cracked-and-counting-the-guardian-celebrates-one-year-of-the-feast-app)
+- [Burlesque: The Musical review – Christina Aguilera movie gets a gloriously ‘dirrty’ makeover](https://www.theguardian.com/stage/2025/jul/22/burlesque-the-musical-review-christina-aguilera)
+- [England 2-1 Italy: Women’s Euro 2025 semi-final player ratings | Tom Garry](https://www.theguardian.com/football/2025/jul/22/england-2-1-italy-womens-euro-2025-semi-final-player-ratings)
+- [Kelly and Agyemang fire England into Euro 2025 final after comeback against Italy](https://www.theguardian.com/football/2025/jul/22/england-italy-euro-2025-semi-final-match-report)
+- [Zelenskyy approves bill weakening anti-corruption bodies despite big protests](https://www.theguardian.com/world/2025/jul/22/zelenskyy-approves-bill-weakening-anti-corruption-bodies-despite-big-protests)
+- [Ozzy Osbourne obituary](https://www.theguardian.com/music/2025/jul/22/ozzy-osbourne-obituary)
+- [OpenAI CEO tells Federal Reserve confab that entire job categories will disappear due to AI](https://www.theguardian.com/technology/2025/jul/22/openai-sam-altman-congress-ai-jobs)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

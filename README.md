@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [How to Network as a Developer &lpar;Without Feeling Sleazy&rpar;](https://www.tokyodev.com/articles/how-to-network-as-a-developer-without-feeling-sleazy)
-- [A Professor&#39;s Hunt for the Rarest Chinese Typewriter](https://www.nytimes.com/2025/07/22/nyregion/mingkwai-typewriter-china.html)
-- [EPA Is Said to Draft a Plan to End Its Ability to Fight Climate Change](https://www.nytimes.com/2025/07/22/climate/epa-endangerment-finding-rescind.html)
-- [Nearly 3k people are leaving NASA, and this director is one of them](https://arstechnica.com/space/2025/07/the-director-of-nasas-largest-science-center-is-leaving-government/)
-- [Talkit](https://talkit.ai/)
-- [Org Tutorials](https://orgmode.org/worg/org-tutorials/index.html)
-- [US faces alarming firefighter shortage during peak wildfire season, data reveals](https://www.theguardian.com/world/2025/jul/22/us-firefighter-shortage-wildfires)
-- [Czech president signs law criminalising communist propaganda](https://www.euractiv.com/section/politics/news/czech-president-signs-law-criminalising-communist-propaganda/)
-- [YouTube wipes out propaganda channels linked to China](https://www.cnbc.com/2025/07/21/youtube-channels-propaganda-china-russia.html)
-- [LLMs Looks Like Memento](https://twitter.com/brainer3220/status/1947606363603145195)
+- [Fast LoRA Inference for Flux with Diffusers and PEFT](https://huggingface.co/blog/lora-fast)
+- [Columbia University to pay $200M in settlement with Trump administration](https://www.bbc.com/news/articles/cq8zljpvyk0o)
+- [Gemini 2.5 Pro Capable of Winning Gold at IMO 2025 with Prompting](https://arxiv.org/abs/2507.15855)
+- [Training a Flappy Bird Diffusion World Model to Run in a Web Browser](https://www.njkumar.com/optimizing-flappy-bird-world-model-to-run-in-a-web-browser/)
+- [Love – Online Procedural Adventiure Game](https://www.quelsolaar.com/love/)
+- [Utopia on Fast Forward: Why Accelerating AI Skips over the Plumbing](https://rijama.substack.com/p/utopia-on-fast-forward-why-accelerating)
+- [GitHub Spark – a new tool in Copilot that turns your ideas into full-stack apps](https://githubnext.com/projects/github-spark)
+- [SSL and Domain Monitor Feedback Requested – What do you think of this app?](https://statusnow.dev/)
+- [Is anyone building a voice agent for runners?](https://news.ycombinator.com/item?id=44666407)
+- [Restaurants, Salons and Workouts Are Free for Hot People–If They Post](https://www.wsj.com/style/neon-coat-app-influencers-free-meals-classes-d310564f)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

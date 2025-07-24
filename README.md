@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Videos reveal harsh conditions inside Ice’s New York City confinement center](https://www.theguardian.com/us-news/2025/jul/22/ice-videos-new-york-trump)
-- [Ukraine war briefing: Mirage fighter jet crashes after pilot ejects due to technical fault](https://www.theguardian.com/world/2025/jul/23/ukraine-war-briefing-mirage-fighter-jet-crashes-after-pilot-ejects-due-to-technical-fault)
-- [Lionesses stumble into final through blind luck but Agyemang offers glimpse of future | Jonathan Liew](https://www.theguardian.com/football/2025/jul/23/lionesses-england-women-italy-euro-2025-final-football-michelle-agyemang)
-- [200,000 eggs cracked and counting - the Guardian celebrates one year of the Feast app](https://www.theguardian.com/gnm-press-office/2025/jul/23/200000-eggs-cracked-and-counting-the-guardian-celebrates-one-year-of-the-feast-app)
-- [Burlesque: The Musical review – Christina Aguilera movie gets a gloriously ‘dirrty’ makeover](https://www.theguardian.com/stage/2025/jul/22/burlesque-the-musical-review-christina-aguilera)
-- [England 2-1 Italy: Women’s Euro 2025 semi-final player ratings | Tom Garry](https://www.theguardian.com/football/2025/jul/22/england-2-1-italy-womens-euro-2025-semi-final-player-ratings)
-- [Kelly and Agyemang fire England into Euro 2025 final after comeback against Italy](https://www.theguardian.com/football/2025/jul/22/england-italy-euro-2025-semi-final-match-report)
-- [Zelenskyy approves bill weakening anti-corruption bodies despite big protests](https://www.theguardian.com/world/2025/jul/22/zelenskyy-approves-bill-weakening-anti-corruption-bodies-despite-big-protests)
-- [Ozzy Osbourne obituary](https://www.theguardian.com/music/2025/jul/22/ozzy-osbourne-obituary)
-- [OpenAI CEO tells Federal Reserve confab that entire job categories will disappear due to AI](https://www.theguardian.com/technology/2025/jul/22/openai-sam-altman-congress-ai-jobs)
+- [Armed clashes break out between Thailand and Cambodia along disputed border after weeks of tension](https://www.theguardian.com/world/2025/jul/23/thailand-cambodia-ambassador-recalled)
+- [Zelenskyy pledges new bill on anti-corruption agencies’ independence as protests continue](https://www.theguardian.com/world/2025/jul/23/zelenskyy-corruption-agency-eu-protests-ukraine)
+- [North Korea’s military is being transformed on the battlefields of Ukraine – so why is Seoul silent?](https://www.theguardian.com/world/2025/jul/24/north-koreas-military-is-being-transformed-on-the-battlefields-of-ukraine-so-why-is-seoul-silent)
+- [Last year’s unrest in England and Northern Ireland ‘has caused lasting harm to communities’](https://www.theguardian.com/society/2025/jul/24/unrest-2024-in-england-and-northern-ireland-has-caused-lasting-harm-to-communities)
+- [Neolithic long cairn in Yorkshire given extra protection after walkers remove stones](https://www.theguardian.com/uk-news/2025/jul/24/neolithic-long-cairn-north-yorkshire-extra-legal-protection)
+- [Inter Alia review – Rosamund Pike rules in searing legal drama from Prima Facie team](https://www.theguardian.com/stage/2025/jul/24/inter-alia-review-lyttelton-theatre-london-rosamund-pike-suzie-miller)
+- [Germany offer steely resilience but Bonmatí’s moment of magic solves puzzle | Sophie Downey](https://www.theguardian.com/football/2025/jul/23/spain-germany-women-euro-2025-semi-final)
+- [7,000 steps a day could be enough to improve health, say researchers](https://www.theguardian.com/science/2025/jul/23/7000-steps-a-day-could-be-enough-to-improve-health-say-researchers)
+- [Donald Trump’s name reported to feature in DoJ files about Jeffrey Epstein](https://www.theguardian.com/us-news/2025/jul/23/donald-trump-jeffrey-epstein-files)
+- [Spain to face England in Euro 2025 final after Bonmatí’s extra-time strike sinks Germany](https://www.theguardian.com/football/2025/jul/23/germany-spain-womens-euro-2025-semi-final-match-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Nearly 3k people are leaving NASA, and this director is one of them](https://arstechnica.com/space/2025/07/the-director-of-nasas-largest-science-center-is-leaving-government/)
-- [CAMARA: Open-source API for telecom and 5G networks](https://www.gsma.com/solutions-and-impact/technologies/networks/operator-platform-hp/camara-2/)
-- [A media company demanded a license fee for an Open Graph image I used](https://alistairshepherd.uk/writing/open-graph-licensing/)
-- [Why you can&#39;t color calibrate deep space photos](https://maurycyz.com/misc/cc/)
-- [TapTrap: Animation‑Driven Tapjacking on Android](https://taptrap.click/)
-- [Algorithms for Modern Processor Architectures](https://lemire.github.io/talks/2025/sea/sea2025.html)
-- [Comparing the Glove80 and Maltron Keyboards](https://tratt.net/laurie/blog/2025/comparing_the_glove80_and_maltron_keyboards.html)
-- [Qwen3-Coder: Agentic coding in the world](https://qwenlm.github.io/blog/qwen3-coder/)
-- [Firebender &lpar;YC W24&rpar; Is Hiring](https://www.ycombinator.com/companies/firebender/jobs/yisDXr5-founding-engineer-generalist)
-- [More than you wanted to know about how Game Boy cartridges work](https://abc.decontextualize.com/more-than-you-wanted-to-know/)
+- [Electric cars produce far less brake dust pollution than combustion-engine cars](https://modernengineeringmarvels.com/2025/07/22/surprising-science-how-electric-cars-quietly-transform-urban-air/)
+- [A small web July](https://smallcypress.bearblog.dev/a-small-web-july/)
+- [BYD Bets on Budget EV Boom with Atto 1 Debut in Indonesia](https://jakartaglobe.id/business/byd-bets-on-budget-ev-boom-with-atto-1-debut-in-indonesia)
+- [BGP.Tools: Browse the Internet Ecosystem](https://bgp.tools/)
+- [Vintage Macintosh Programming Book Library &lpar;2017&rpar;](https://vintageapple.org/macprogramming/index_year.html)
+- [I drank every cocktail](https://aaronson.org/blog/i-drank-every-cocktail)
+- [I made Tinder but it&#39;s only pictures of my wife and I can only swipe right](https://trytender.app/)
+- [Jitsi privacy flaw enables one-click stealth audio and video capture](https://zimzi.substack.com/p/jitsi-privacy-flaw-that-enables-one)
+- [AI overviews cause massive drop in search clicks](https://arstechnica.com/ai/2025/07/research-shows-google-ai-overviews-reduce-website-clicks-by-almost-half/)
+- [Major rule about cooking meat turns out to be wrong](https://www.seriouseats.com/meat-resting-science-11776272)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

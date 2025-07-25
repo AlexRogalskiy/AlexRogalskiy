@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Electric cars produce far less brake dust pollution than combustion-engine cars](https://modernengineeringmarvels.com/2025/07/22/surprising-science-how-electric-cars-quietly-transform-urban-air/)
-- [A small web July](https://smallcypress.bearblog.dev/a-small-web-july/)
-- [BYD Bets on Budget EV Boom with Atto 1 Debut in Indonesia](https://jakartaglobe.id/business/byd-bets-on-budget-ev-boom-with-atto-1-debut-in-indonesia)
-- [BGP.Tools: Browse the Internet Ecosystem](https://bgp.tools/)
-- [Vintage Macintosh Programming Book Library &lpar;2017&rpar;](https://vintageapple.org/macprogramming/index_year.html)
-- [I drank every cocktail](https://aaronson.org/blog/i-drank-every-cocktail)
-- [I made Tinder but it&#39;s only pictures of my wife and I can only swipe right](https://trytender.app/)
-- [Jitsi privacy flaw enables one-click stealth audio and video capture](https://zimzi.substack.com/p/jitsi-privacy-flaw-that-enables-one)
-- [AI overviews cause massive drop in search clicks](https://arstechnica.com/ai/2025/07/research-shows-google-ai-overviews-reduce-website-clicks-by-almost-half/)
-- [Major rule about cooking meat turns out to be wrong](https://www.seriouseats.com/meat-resting-science-11776272)
+- [How Anthropic teams use Claude Code](https://www.anthropic.com/news/how-anthropic-teams-use-claude-code)
+- [Ask HN: What is so good about MCP servers?](https://news.ycombinator.com/item?id=44678426)
+- [Alto turns your Apple Notes into a website](https://alto.so/)
+- [A GPU Calculator That Helps Calculate What GPU to Use](https://calculator.inference.ai/)
+- [Scientists may have found a way to eliminate chromosome linked to Down syndrome](https://academic.oup.com/pnasnexus/article/4/2/pgaf022/8016019)
+- [Graphene OS: a security-enhanced Android build](https://lwn.net/SubscriberLink/1030004/898017c7953c0946/)
+- [Visa and Mastercard: The global payment duopoly &lpar;2024&rpar;](https://quartr.com/insights/edge/visa-and-mastercard-the-global-payment-duopoly)
+- [Revisiting Moneyball](https://djpardis.medium.com/revisiting-moneyball-074fc2435b07)
+- [New Aarch64 Back End](https://ziglang.org/devlog/2025/#2025-07-23)
+- [Intel CEO Letter to Employees](https://morethanmoore.substack.com/p/intel-ceo-letter-to-employees)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

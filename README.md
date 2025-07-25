@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Armed clashes break out between Thailand and Cambodia along disputed border after weeks of tension](https://www.theguardian.com/world/2025/jul/23/thailand-cambodia-ambassador-recalled)
-- [Zelenskyy pledges new bill on anti-corruption agencies’ independence as protests continue](https://www.theguardian.com/world/2025/jul/23/zelenskyy-corruption-agency-eu-protests-ukraine)
-- [North Korea’s military is being transformed on the battlefields of Ukraine – so why is Seoul silent?](https://www.theguardian.com/world/2025/jul/24/north-koreas-military-is-being-transformed-on-the-battlefields-of-ukraine-so-why-is-seoul-silent)
-- [Last year’s unrest in England and Northern Ireland ‘has caused lasting harm to communities’](https://www.theguardian.com/society/2025/jul/24/unrest-2024-in-england-and-northern-ireland-has-caused-lasting-harm-to-communities)
-- [Neolithic long cairn in Yorkshire given extra protection after walkers remove stones](https://www.theguardian.com/uk-news/2025/jul/24/neolithic-long-cairn-north-yorkshire-extra-legal-protection)
-- [Inter Alia review – Rosamund Pike rules in searing legal drama from Prima Facie team](https://www.theguardian.com/stage/2025/jul/24/inter-alia-review-lyttelton-theatre-london-rosamund-pike-suzie-miller)
-- [Germany offer steely resilience but Bonmatí’s moment of magic solves puzzle | Sophie Downey](https://www.theguardian.com/football/2025/jul/23/spain-germany-women-euro-2025-semi-final)
-- [7,000 steps a day could be enough to improve health, say researchers](https://www.theguardian.com/science/2025/jul/23/7000-steps-a-day-could-be-enough-to-improve-health-say-researchers)
-- [Donald Trump’s name reported to feature in DoJ files about Jeffrey Epstein](https://www.theguardian.com/us-news/2025/jul/23/donald-trump-jeffrey-epstein-files)
-- [Spain to face England in Euro 2025 final after Bonmatí’s extra-time strike sinks Germany](https://www.theguardian.com/football/2025/jul/23/germany-spain-womens-euro-2025-semi-final-match-report)
+- [Trump news at a glance: Jerome Powell tackles inflation of White House figures on HQ upgrades](https://www.theguardian.com/us-news/2025/jul/25/trump-administration-news-updates-today)
+- [Thailand-Cambodia border dispute: 100,000 Thai civilians evacuated amid second day of clashes](https://www.theguardian.com/world/2025/jul/25/thailand-cambodia-border-dispute-thai-evacuation-clashes-conflict)
+- [‘We were heard’: the Pacific students who took their climate fight to the ICJ – and won](https://www.theguardian.com/world/2025/jul/25/pacific-students-who-won-climate-case-icj-international-court-of-justice-hague)
+- [Bill Clinton reportedly sent Jeffrey Epstein note for birthday album](https://www.theguardian.com/us-news/2025/jul/24/bill-clinton-jeffrey-epstein-wall-street-journal-report)
+- [‘Japanese First’: breakthrough by rightwing populists sparks fears of anti-foreigner backlash in Japan](https://www.theguardian.com/world/2025/jul/25/japan-upper-house-election-sanseito-japanese-first)
+- [Ukraine war briefing: Anti-corruption agencies endorse bill restoring their independence](https://www.theguardian.com/world/2025/jul/25/ukraine-war-briefing-anti-corruption-agencies-endorse-bill-restoring-their-independence)
+- [Tens of thousands knocked offline after software failure at Musk’s Starlink](https://www.theguardian.com/technology/2025/jul/24/starlink-internet-down-musk)
+- [US regulators approve $8.4bn Paramount-Skydance merger](https://www.theguardian.com/us-news/2025/jul/24/paramount-skydance-merger-fcc)
+- [Spinal Tap II: The End Continues – first trailer released](https://www.theguardian.com/film/2025/jul/25/spinal-tap-ii-2-the-end-continues-trailer-released)
+- [Resident doctors’ strike undermines union movement, says Wes Streeting](https://www.theguardian.com/society/2025/jul/24/resident-doctors-strike-undermines-union-movement-wes-streeting-says)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Fast LoRA Inference for Flux with Diffusers and PEFT](https://huggingface.co/blog/lora-fast)
-- [Columbia University to pay $200M in settlement with Trump administration](https://www.bbc.com/news/articles/cq8zljpvyk0o)
-- [Gemini 2.5 Pro Capable of Winning Gold at IMO 2025 with Prompting](https://arxiv.org/abs/2507.15855)
-- [Training a Flappy Bird Diffusion World Model to Run in a Web Browser](https://www.njkumar.com/optimizing-flappy-bird-world-model-to-run-in-a-web-browser/)
-- [Love – Online Procedural Adventiure Game](https://www.quelsolaar.com/love/)
-- [Utopia on Fast Forward: Why Accelerating AI Skips over the Plumbing](https://rijama.substack.com/p/utopia-on-fast-forward-why-accelerating)
-- [GitHub Spark – a new tool in Copilot that turns your ideas into full-stack apps](https://githubnext.com/projects/github-spark)
-- [SSL and Domain Monitor Feedback Requested – What do you think of this app?](https://statusnow.dev/)
-- [Is anyone building a voice agent for runners?](https://news.ycombinator.com/item?id=44666407)
-- [Restaurants, Salons and Workouts Are Free for Hot People–If They Post](https://www.wsj.com/style/neon-coat-app-influencers-free-meals-classes-d310564f)
+- [Efrit: A native elisp coding agent running in Emacs](https://github.com/steveyegge/efrit)
+- [Show HN: I built a notion ai agent](https://www.youtube.com/watch?v=Uu3Np3bG9v4)
+- [Ask HN: Should HN introduce a &quot;Tell HN&quot; tab?](https://news.ycombinator.com/item?id=44679220)
+- [Distro-Hopping and RICEing](https://l-o-o-s-e-d.net/distro-hopping)
+- [Show HN: AI image generator with 6 artistic mentors for better prompts](https://createvision.ai)
+- [Equilibrium in the Embedding Space: When Novelty Becomes Familiar](https://lightcapai.medium.com/equilibrium-in-the-embedding-space-when-novelty-becomes-familiar-547862bdd38f)
+- [Show HN: Add viral TikTok audio to work meetings](https://soundboard.recall.ai/)
+- [RustMailer – Week 1 Update: 729 Views, 165 Clones, 13 Stars &lpar;in 9 Days&rpar;](https://www.indiehackers.com/post/rustmailer-week-1-update-729-views-165-clones-13-stars-in-9-days-9zDlC2HmjXFH7mKzcmpb)
+- [Good Docs Describe, Bad Docs Prescribe](https://rethinkingsoftware.substack.com/p/good-docs-describe-bad-docs-prescribe)
+- [Show HN: Crawell – Extract any page as Markdown or download images in bulk](https://chromewebstore.google.com/detail/crawell/cmfcognoilmabnclomeehljmknallaaa)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

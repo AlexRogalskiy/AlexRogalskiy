@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Efrit: A native elisp coding agent running in Emacs](https://github.com/steveyegge/efrit)
-- [Show HN: I built a notion ai agent](https://www.youtube.com/watch?v=Uu3Np3bG9v4)
-- [Ask HN: Should HN introduce a &quot;Tell HN&quot; tab?](https://news.ycombinator.com/item?id=44679220)
-- [Distro-Hopping and RICEing](https://l-o-o-s-e-d.net/distro-hopping)
-- [Show HN: AI image generator with 6 artistic mentors for better prompts](https://createvision.ai)
-- [Equilibrium in the Embedding Space: When Novelty Becomes Familiar](https://lightcapai.medium.com/equilibrium-in-the-embedding-space-when-novelty-becomes-familiar-547862bdd38f)
-- [Show HN: Add viral TikTok audio to work meetings](https://soundboard.recall.ai/)
-- [RustMailer – Week 1 Update: 729 Views, 165 Clones, 13 Stars &lpar;in 9 Days&rpar;](https://www.indiehackers.com/post/rustmailer-week-1-update-729-views-165-clones-13-stars-in-9-days-9zDlC2HmjXFH7mKzcmpb)
-- [Good Docs Describe, Bad Docs Prescribe](https://rethinkingsoftware.substack.com/p/good-docs-describe-bad-docs-prescribe)
-- [Show HN: Crawell – Extract any page as Markdown or download images in bulk](https://chromewebstore.google.com/detail/crawell/cmfcognoilmabnclomeehljmknallaaa)
+- [How the NSA Hacked Huawei: Operation Shotgiant [video]](https://www.youtube.com/watch?v=aQNgelm7JeE)
+- [Steve Yegge: “So one of my favorite things to do is give my coding agents…”](https://twitter.com/Steve_Yegge/status/1946360175339974807)
+- [Why LLMs may make monkeys out of us](https://comment.org/on-the-origin-of-specious/)
+- [I tested 50 AI tools in 3 months. Here&#39;s why most of them failed](https://toolverse.com)
+- [Show HN: I Made Millions in Crypto but Never Talked About It – Until Now](https://thedailydollar.gumroad.com/l/FromCryptoToMillions)
+- [The ongoing battle for vestibular accessibility on iPhone, on Android and beyond](https://reverttosaved.com/2024/11/09/the-ongoing-battle-for-vestibular-accessibility-on-iphone-on-android-and-beyond/)
+- [What if AI made the economic growth explode?](https://www.economist.com/briefing/2025/07/24/what-if-ai-made-the-worlds-economic-growth-explode)
+- [Stateless Persona Continuity in LLMs: Cross-Window Anchors Beyond Context Limits](https://github.com/JasonLyu3007/Behavioral-Resonance)
+- [Show HN: I built a simple tool because I was tired of clunky background removers](https://edge-aware-ai-cut.lovable.app/)
+- [SQLx – The Rust SQL Toolkit](https://github.com/launchbadge/sqlx)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

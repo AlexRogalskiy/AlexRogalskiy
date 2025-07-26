@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Trump news at a glance: Jerome Powell tackles inflation of White House figures on HQ upgrades](https://www.theguardian.com/us-news/2025/jul/25/trump-administration-news-updates-today)
-- [Thailand-Cambodia border dispute: 100,000 Thai civilians evacuated amid second day of clashes](https://www.theguardian.com/world/2025/jul/25/thailand-cambodia-border-dispute-thai-evacuation-clashes-conflict)
-- [‘We were heard’: the Pacific students who took their climate fight to the ICJ – and won](https://www.theguardian.com/world/2025/jul/25/pacific-students-who-won-climate-case-icj-international-court-of-justice-hague)
-- [Bill Clinton reportedly sent Jeffrey Epstein note for birthday album](https://www.theguardian.com/us-news/2025/jul/24/bill-clinton-jeffrey-epstein-wall-street-journal-report)
-- [‘Japanese First’: breakthrough by rightwing populists sparks fears of anti-foreigner backlash in Japan](https://www.theguardian.com/world/2025/jul/25/japan-upper-house-election-sanseito-japanese-first)
-- [Ukraine war briefing: Anti-corruption agencies endorse bill restoring their independence](https://www.theguardian.com/world/2025/jul/25/ukraine-war-briefing-anti-corruption-agencies-endorse-bill-restoring-their-independence)
-- [Tens of thousands knocked offline after software failure at Musk’s Starlink](https://www.theguardian.com/technology/2025/jul/24/starlink-internet-down-musk)
-- [US regulators approve $8.4bn Paramount-Skydance merger](https://www.theguardian.com/us-news/2025/jul/24/paramount-skydance-merger-fcc)
-- [Spinal Tap II: The End Continues – first trailer released](https://www.theguardian.com/film/2025/jul/25/spinal-tap-ii-2-the-end-continues-trailer-released)
-- [Resident doctors’ strike undermines union movement, says Wes Streeting](https://www.theguardian.com/society/2025/jul/24/resident-doctors-strike-undermines-union-movement-wes-streeting-says)
+- [Ukraine war briefing: Ending Russia’s war in Ukraine key issue in Trump talks with EU, UK, sources say](https://www.theguardian.com/world/2025/jul/26/ukraine-war-briefing-ending-russias-war-in-ukraine-key-issue-in-trump-talks-with-eu-uk-sources-say)
+- [Family sues after funeral home sends son’s brain in unmarked leaking box](https://www.theguardian.com/us-news/2025/jul/25/brain-box-funeral-home-lawsuit)
+- [‘Terrible fuel efficiency, no right-hand drive’: why trade deal won’t warm up Japan to American cars](https://www.theguardian.com/world/2025/jul/26/japan-american-cars-trade-deal)
+- [Cambodia calls for ‘immediate ceasefire’ with Thailand as deadly clashes enter a third day](https://www.theguardian.com/world/2025/jul/26/cambodia-calls-for-immediate-ceasefire-with-thailand-after-two-days-of-deadly-clashes-border)
+- [India wrestles with how census can count tribe that shuns contact with outside world](https://www.theguardian.com/world/2025/jul/26/india-census-2027-north-sentinel-island-most-isolated-tribe)
+- [‘Ignoring hot flushes is wrong’: study challenges assumptions about perimenopause symptoms](https://www.theguardian.com/society/2025/jul/26/ignoring-hot-flushes-is-wrong-study-challenges-assumptions-about-perimenopause-symptoms)
+- [Ex-Sun editor David Dinsmore to take up government communications role](https://www.theguardian.com/politics/2025/jul/25/ex-sun-editor-david-dinsmore-to-take-up-new-government-communications-role)
+- [West Ham’s Lucas Paquetá expected to be cleared of spot-fixing over bookings](https://www.theguardian.com/football/2025/jul/25/west-hams-lucas-paqueta-expected-to-be-cleared-spot-fixing-charges-over-bookings)
+- [Happy Gilmore 2 review – Adam Sandler’s Netflix sequel is strictly for the fans](https://www.theguardian.com/film/2025/jul/25/happy-gilmore-2-review-adam-sandler)
+- [Devon and Cornwall crime commissioner sorry for multiple bodies claim](https://www.theguardian.com/uk-news/2025/jul/25/devon-and-cornwall-commissioner-sorry-for-multiple-bodies-claim)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [How Anthropic teams use Claude Code](https://www.anthropic.com/news/how-anthropic-teams-use-claude-code)
-- [Ask HN: What is so good about MCP servers?](https://news.ycombinator.com/item?id=44678426)
-- [Alto turns your Apple Notes into a website](https://alto.so/)
-- [A GPU Calculator That Helps Calculate What GPU to Use](https://calculator.inference.ai/)
-- [Scientists may have found a way to eliminate chromosome linked to Down syndrome](https://academic.oup.com/pnasnexus/article/4/2/pgaf022/8016019)
-- [Graphene OS: a security-enhanced Android build](https://lwn.net/SubscriberLink/1030004/898017c7953c0946/)
-- [Visa and Mastercard: The global payment duopoly &lpar;2024&rpar;](https://quartr.com/insights/edge/visa-and-mastercard-the-global-payment-duopoly)
-- [Revisiting Moneyball](https://djpardis.medium.com/revisiting-moneyball-074fc2435b07)
-- [New Aarch64 Back End](https://ziglang.org/devlog/2025/#2025-07-23)
-- [Intel CEO Letter to Employees](https://morethanmoore.substack.com/p/intel-ceo-letter-to-employees)
+- [DJI couldn&#39;t confirm or deny it disguised this drone to evade a US ban](https://www.theverge.com/report/714103/dji-skyrover-x1-evade-ban-amazon)
+- [SRAM Has No Chill: Exploiting Power Domain Separation to Steal On-Chip Secrets](https://cacm.acm.org/research-highlights/sram-has-no-chill-exploiting-power-domain-separation-to-steal-on-chip-secrets/)
+- [Do not download the app, use the website](https://idiallo.com/blog/dont-download-apps)
+- [It&#39;s time for modern CSS to kill the SPA](https://www.jonoalderson.com/conjecture/its-time-for-modern-css-to-kill-the-spa/)
+- [A Union Pacific-Norfolk Southern combination would redraw the railroad map](https://www.trains.com/trn/news-reviews/news-wire/a-union-pacific-norfolk-southern-combination-would-redraw-the-railroad-map/)
+- [Experimental surgery performed by AI-driven surgical robot](https://arstechnica.com/science/2025/07/experimental-surgery-performed-by-ai-driven-surgical-robot/)
+- [Stackless Traversal &lpar;2018&rpar;](https://www.dyalog.com/blog/2018/01/stackless-traversal/)
+- [Claude Code introduces specialized sub-agents](https://docs.anthropic.com/en/docs/claude-code/sub-agents)
+- [Vanilla JavaScript support for Tailwind Plus](https://tailwindcss.com/blog/vanilla-js-support-for-tailwind-plus)
+- [Animated Cursors](https://tattoy.sh/news/animated-cursors/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

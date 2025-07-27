@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [How the NSA Hacked Huawei: Operation Shotgiant [video]](https://www.youtube.com/watch?v=aQNgelm7JeE)
-- [Steve Yegge: “So one of my favorite things to do is give my coding agents…”](https://twitter.com/Steve_Yegge/status/1946360175339974807)
-- [Why LLMs may make monkeys out of us](https://comment.org/on-the-origin-of-specious/)
-- [I tested 50 AI tools in 3 months. Here&#39;s why most of them failed](https://toolverse.com)
-- [Show HN: I Made Millions in Crypto but Never Talked About It – Until Now](https://thedailydollar.gumroad.com/l/FromCryptoToMillions)
-- [The ongoing battle for vestibular accessibility on iPhone, on Android and beyond](https://reverttosaved.com/2024/11/09/the-ongoing-battle-for-vestibular-accessibility-on-iphone-on-android-and-beyond/)
-- [What if AI made the economic growth explode?](https://www.economist.com/briefing/2025/07/24/what-if-ai-made-the-worlds-economic-growth-explode)
-- [Stateless Persona Continuity in LLMs: Cross-Window Anchors Beyond Context Limits](https://github.com/JasonLyu3007/Behavioral-Resonance)
-- [Show HN: I built a simple tool because I was tired of clunky background removers](https://edge-aware-ai-cut.lovable.app/)
-- [SQLx – The Rust SQL Toolkit](https://github.com/launchbadge/sqlx)
+- [Verify Identities During Self-Service Registration](https://fusionauth.io/blog/identity-verification-before-registration)
+- [Fast and cheap bulk storage: using LVM to cache HDDs on SSDs](https://quantum5.ca/2025/05/11/fast-cheap-bulk-storage-using-lvm-to-cache-hdds-on-ssds/)
+- [Measuring Engineering](https://fffej.substack.com/p/measuring-engineering)
+- [The Electron E1 Processor](https://www.efficient.computer/announcing-electron-e1-processor)
+- [Smallest particulate matter sensor revolutionizes air quality measurement](https://www.bosch-sensortec.com/news/worlds-smallest-particulate-matter-sensor-bmv080.html)
+- [An Interview with Alex Ward](https://ciamweekly.substack.com/p/an-interview-with-alex-ward)
+- [eSports for Engineers: course syllabus bridging gaming and STEM education [pdf]](https://github.com/sim-museum/esports-for-engineers/blob/master/files/syllabusFor_eSportsForEngineers.pdf)
+- [Voice AI for medical/premed students](https://www.codyliu.com/blog/rt-anki-voice-flashcards)
+- [The Sputnik vs. Deep Seek Moment: The Answers](https://marginalrevolution.com/marginalrevolution/2025/07/the-sputnik-vs-deep-seek-moment-the-answers.html)
+- [Yixiang 16kWh Battery for $1,899? What in the world [video]](https://www.youtube.com/watch?v=7bShGUPU3TQ)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

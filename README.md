@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [DJI couldn&#39;t confirm or deny it disguised this drone to evade a US ban](https://www.theverge.com/report/714103/dji-skyrover-x1-evade-ban-amazon)
-- [SRAM Has No Chill: Exploiting Power Domain Separation to Steal On-Chip Secrets](https://cacm.acm.org/research-highlights/sram-has-no-chill-exploiting-power-domain-separation-to-steal-on-chip-secrets/)
-- [Do not download the app, use the website](https://idiallo.com/blog/dont-download-apps)
-- [It&#39;s time for modern CSS to kill the SPA](https://www.jonoalderson.com/conjecture/its-time-for-modern-css-to-kill-the-spa/)
-- [A Union Pacific-Norfolk Southern combination would redraw the railroad map](https://www.trains.com/trn/news-reviews/news-wire/a-union-pacific-norfolk-southern-combination-would-redraw-the-railroad-map/)
-- [Experimental surgery performed by AI-driven surgical robot](https://arstechnica.com/science/2025/07/experimental-surgery-performed-by-ai-driven-surgical-robot/)
-- [Stackless Traversal &lpar;2018&rpar;](https://www.dyalog.com/blog/2018/01/stackless-traversal/)
-- [Claude Code introduces specialized sub-agents](https://docs.anthropic.com/en/docs/claude-code/sub-agents)
-- [Vanilla JavaScript support for Tailwind Plus](https://tailwindcss.com/blog/vanilla-js-support-for-tailwind-plus)
-- [Animated Cursors](https://tattoy.sh/news/animated-cursors/)
+- [Show HN: QuickTunes: Apple Music player for Mac with iPod vibes](https://furnacecreek.org/quicktunes/)
+- [Asyncio: A library with too many sharp corners](https://sailor.li/asyncio)
+- [Personal aviation is about to get interesting &lpar;2023&rpar;](https://www.elidourado.com/p/personal-aviation)
+- [Torqued Accelerator Using Radiation from the Sun &lpar;Tars&rpar; for Interstellar Payload](https://arxiv.org/abs/2507.17615)
+- [Paul Dirac and the religion of mathematical beauty &lpar;2011&rpar; [video]](https://www.youtube.com/watch?v=jPwo1XsKKXg)
+- [Resizable structs in Zig](https://tristanpemble.com/resizable-structs-in-zig/)
+- [Teach Yourself Programming in Ten Years &lpar;1998&rpar;](https://norvig.com/21-days.html)
+- [OCaml Programming: Correct and Efficient and Beautiful](https://cs3110.github.io/textbook/cover.html)
+- [Epic Recall, Epic Fail](https://taipology.substack.com/p/epic-recall-epic-fail)
+- [Arvo Pärt at 90](https://www.theguardian.com/music/2025/jul/24/the-god-of-small-things-celebrating-arvo-part-at-90)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

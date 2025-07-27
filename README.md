@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine war briefing: Ending Russia’s war in Ukraine key issue in Trump talks with EU, UK, sources say](https://www.theguardian.com/world/2025/jul/26/ukraine-war-briefing-ending-russias-war-in-ukraine-key-issue-in-trump-talks-with-eu-uk-sources-say)
-- [Family sues after funeral home sends son’s brain in unmarked leaking box](https://www.theguardian.com/us-news/2025/jul/25/brain-box-funeral-home-lawsuit)
-- [‘Terrible fuel efficiency, no right-hand drive’: why trade deal won’t warm up Japan to American cars](https://www.theguardian.com/world/2025/jul/26/japan-american-cars-trade-deal)
-- [Cambodia calls for ‘immediate ceasefire’ with Thailand as deadly clashes enter a third day](https://www.theguardian.com/world/2025/jul/26/cambodia-calls-for-immediate-ceasefire-with-thailand-after-two-days-of-deadly-clashes-border)
-- [India wrestles with how census can count tribe that shuns contact with outside world](https://www.theguardian.com/world/2025/jul/26/india-census-2027-north-sentinel-island-most-isolated-tribe)
-- [‘Ignoring hot flushes is wrong’: study challenges assumptions about perimenopause symptoms](https://www.theguardian.com/society/2025/jul/26/ignoring-hot-flushes-is-wrong-study-challenges-assumptions-about-perimenopause-symptoms)
-- [Ex-Sun editor David Dinsmore to take up government communications role](https://www.theguardian.com/politics/2025/jul/25/ex-sun-editor-david-dinsmore-to-take-up-new-government-communications-role)
-- [West Ham’s Lucas Paquetá expected to be cleared of spot-fixing over bookings](https://www.theguardian.com/football/2025/jul/25/west-hams-lucas-paqueta-expected-to-be-cleared-spot-fixing-charges-over-bookings)
-- [Happy Gilmore 2 review – Adam Sandler’s Netflix sequel is strictly for the fans](https://www.theguardian.com/film/2025/jul/25/happy-gilmore-2-review-adam-sandler)
-- [Devon and Cornwall crime commissioner sorry for multiple bodies claim](https://www.theguardian.com/uk-news/2025/jul/25/devon-and-cornwall-commissioner-sorry-for-multiple-bodies-claim)
+- [Ukraine war briefing: Drones hit Russian electronic warfare plant and disrupt railway and air travel](https://www.theguardian.com/world/2025/jul/27/ukraine-war-briefing-drones-hit-russian-electronic-warfare-plant-and-disrupt-railway-and-air-travel)
+- [Emma Raducanu outclassed by Anna Kalinskaya in Washington semi-final](https://www.theguardian.com/sport/2025/jul/27/emma-raducanu-outclassed-by-anna-kalinskaya-in-washington-semi-final)
+- [Tens of thousands of people take to streets for London Trans+ Pride 2025](https://www.theguardian.com/society/2025/jul/26/tens-of-thousands-of-people-take-to-streets-for-london-trans-pride-2025)
+- [Tottenham stunned as Morgan Gibbs-White signs deal to stay at Nottingham Forest](https://www.theguardian.com/football/2025/jul/26/tottenham-stunned-as-morgan-gibbs-white-signs-deal-to-stay-at-nottingham-forest)
+- [Music venues subject to noise complaints to get ‘greater protection’](https://www.theguardian.com/business/2025/jul/26/music-venues-pubs-hospitality-uk-noise-government-)
+- [Three spectators die after car veers off road during French auto rally](https://www.theguardian.com/world/2025/jul/26/three-spectators-die-after-car-veers-off-road-during-french-auto-rally)
+- [Landlord who stabbed Palestinian American boy to death dies in prison](https://www.theguardian.com/us-news/2025/jul/26/illinois-landlord-palestinian-american-boy-murder)
+- [The moment I knew: he arranged a stay at a motel. In 1969 this was very risque, but I had zero hesitation](https://www.theguardian.com/lifeandstyle/2025/jul/27/the-moment-i-knew-he-arranged-a-stay-at-a-motel-in-1969-this-was-very-risque-but-i-had-zero-hesitation)
+- [Ben Stokes finds reward from risking fitness with resurgent century for England | Taha Hashim](https://www.theguardian.com/sport/2025/jul/26/resurgent-ben-stokes-finds-just-reward-sweet-england-century-india)
+- [Wildfire burns through northern suburb of Athens as residents told to evacuate](https://www.theguardian.com/world/2025/jul/26/wildfire-burns-through-northern-suburb-of-athens-as-residents-told-to-evacuate)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

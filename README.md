@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine war briefing: Drones hit Russian electronic warfare plant and disrupt railway and air travel](https://www.theguardian.com/world/2025/jul/27/ukraine-war-briefing-drones-hit-russian-electronic-warfare-plant-and-disrupt-railway-and-air-travel)
-- [Emma Raducanu outclassed by Anna Kalinskaya in Washington semi-final](https://www.theguardian.com/sport/2025/jul/27/emma-raducanu-outclassed-by-anna-kalinskaya-in-washington-semi-final)
-- [Tens of thousands of people take to streets for London Trans+ Pride 2025](https://www.theguardian.com/society/2025/jul/26/tens-of-thousands-of-people-take-to-streets-for-london-trans-pride-2025)
-- [Tottenham stunned as Morgan Gibbs-White signs deal to stay at Nottingham Forest](https://www.theguardian.com/football/2025/jul/26/tottenham-stunned-as-morgan-gibbs-white-signs-deal-to-stay-at-nottingham-forest)
-- [Music venues subject to noise complaints to get ‘greater protection’](https://www.theguardian.com/business/2025/jul/26/music-venues-pubs-hospitality-uk-noise-government-)
-- [Three spectators die after car veers off road during French auto rally](https://www.theguardian.com/world/2025/jul/26/three-spectators-die-after-car-veers-off-road-during-french-auto-rally)
-- [Landlord who stabbed Palestinian American boy to death dies in prison](https://www.theguardian.com/us-news/2025/jul/26/illinois-landlord-palestinian-american-boy-murder)
-- [The moment I knew: he arranged a stay at a motel. In 1969 this was very risque, but I had zero hesitation](https://www.theguardian.com/lifeandstyle/2025/jul/27/the-moment-i-knew-he-arranged-a-stay-at-a-motel-in-1969-this-was-very-risque-but-i-had-zero-hesitation)
-- [Ben Stokes finds reward from risking fitness with resurgent century for England | Taha Hashim](https://www.theguardian.com/sport/2025/jul/26/resurgent-ben-stokes-finds-just-reward-sweet-england-century-india)
-- [Wildfire burns through northern suburb of Athens as residents told to evacuate](https://www.theguardian.com/world/2025/jul/26/wildfire-burns-through-northern-suburb-of-athens-as-residents-told-to-evacuate)
+- [New Zealand attorney general warns her government’s electoral reform could breach human rights law](https://www.theguardian.com/world/2025/jul/28/new-zealand-electoral-reform-maori-human-rights-law)
+- [Roar to victory: what the papers say about the Lionesses Euro win](https://www.theguardian.com/sport/2025/jul/28/england-euro-2025-win-lionesses-what-the-papers-newspaper-front-pages)
+- [Ukraine war briefing: Kyiv attack injures five, Trump and Starmer to discuss ‘applying pressure’ on Putin](https://www.theguardian.com/world/2025/jul/28/ukraine-war-briefing-kyiv-attack-injures-five-trump-and-starmer-to-discuss-applying-pressure-on-putin)
+- [Moscow starts direct flights to North Korea amid decline in options for Russian tourists](https://www.theguardian.com/world/2025/jul/28/moscow-pyongyang-direct-flights-russia-to-north-korea-tourists)
+- [Thailand and Cambodia to hold peace talks as Trump urges them to settle differences](https://www.theguardian.com/world/2025/jul/28/thailand-cambodia-border-clash-dispute-peace-talks)
+- [Trump and von der Leyen announce US-EU trade deal](https://www.theguardian.com/us-news/2025/jul/27/eu-delegation-poised-for-trump-trade-talks-in-scotland)
+- [Tom Lehrer, acclaimed musical satirist of cold war era, dies aged 97](https://www.theguardian.com/music/2025/jul/28/tom-lehrer-dies-aged-97-dead-musical-satirist)
+- [Zero-hours contracts: peers accused of ‘trying to block stronger UK workers’ rights’](https://www.theguardian.com/uk-news/2025/jul/28/zero-hours-contracts-peers-accused-of-trying-to-block-stronger-uk-workers-rights)
+- [Demand for weight loss drugs is becoming unsustainable, say pharmacists](https://www.theguardian.com/society/2025/jul/28/demand-for-weight-loss-drugs-is-becoming-unsustainable-say-pharmacists)
+- [The shootout: every penalty, shot by shot, that won Euro 2025 for England](https://www.theguardian.com/football/2025/jul/27/the-shootout-every-penalty-shot-by-shot-that-won-euro-2025-for-england)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Show HN: QuickTunes: Apple Music player for Mac with iPod vibes](https://furnacecreek.org/quicktunes/)
-- [Asyncio: A library with too many sharp corners](https://sailor.li/asyncio)
-- [Personal aviation is about to get interesting &lpar;2023&rpar;](https://www.elidourado.com/p/personal-aviation)
-- [Torqued Accelerator Using Radiation from the Sun &lpar;Tars&rpar; for Interstellar Payload](https://arxiv.org/abs/2507.17615)
-- [Paul Dirac and the religion of mathematical beauty &lpar;2011&rpar; [video]](https://www.youtube.com/watch?v=jPwo1XsKKXg)
-- [Resizable structs in Zig](https://tristanpemble.com/resizable-structs-in-zig/)
-- [Teach Yourself Programming in Ten Years &lpar;1998&rpar;](https://norvig.com/21-days.html)
-- [OCaml Programming: Correct and Efficient and Beautiful](https://cs3110.github.io/textbook/cover.html)
-- [Epic Recall, Epic Fail](https://taipology.substack.com/p/epic-recall-epic-fail)
-- [Arvo Pärt at 90](https://www.theguardian.com/music/2025/jul/24/the-god-of-small-things-celebrating-arvo-part-at-90)
+- [VPN use surges in UK as new online safety rules kick in](https://www.ft.com/content/356674b0-9f1d-4f95-b1d5-f27570379a9b)
+- [Big agriculture mislead the public about the benefits of biofuels](https://lithub.com/how-big-agriculture-mislead-the-public-about-the-benefits-of-biofuels/)
+- [Why does a fire truck cost $2m](https://thehustle.co/originals/why-does-a-fire-truck-cost-2-million)
+- [Claude Code Router](https://github.com/musistudio/claude-code-router)
+- [ZUSE – The Modern IRC Chat for the Terminal Made in Go/Bubbletea](https://github.com/babycommando/zuse)
+- [Enough AI copilots, we need AI HUDs](https://www.geoffreylitt.com/2025/07/27/enough-ai-copilots-we-need-ai-huds)
+- [EU age verification app to ban any Android system not licensed by Google](https://www.reddit.com/r/degoogle/s/YxmPgFes8a)
+- [Designing a flatpack bed](https://kevinlynagh.com/newsletter/2025_07_flatpack/)
+- [Making Postgres slower](https://byteofdev.com/posts/making-postgres-slow/)
+- [IBM Keyboard Patents](https://sharktastica.co.uk/topics/patents)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

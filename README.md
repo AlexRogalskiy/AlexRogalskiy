@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Verify Identities During Self-Service Registration](https://fusionauth.io/blog/identity-verification-before-registration)
-- [Fast and cheap bulk storage: using LVM to cache HDDs on SSDs](https://quantum5.ca/2025/05/11/fast-cheap-bulk-storage-using-lvm-to-cache-hdds-on-ssds/)
-- [Measuring Engineering](https://fffej.substack.com/p/measuring-engineering)
-- [The Electron E1 Processor](https://www.efficient.computer/announcing-electron-e1-processor)
-- [Smallest particulate matter sensor revolutionizes air quality measurement](https://www.bosch-sensortec.com/news/worlds-smallest-particulate-matter-sensor-bmv080.html)
-- [An Interview with Alex Ward](https://ciamweekly.substack.com/p/an-interview-with-alex-ward)
-- [eSports for Engineers: course syllabus bridging gaming and STEM education [pdf]](https://github.com/sim-museum/esports-for-engineers/blob/master/files/syllabusFor_eSportsForEngineers.pdf)
-- [Voice AI for medical/premed students](https://www.codyliu.com/blog/rt-anki-voice-flashcards)
-- [The Sputnik vs. Deep Seek Moment: The Answers](https://marginalrevolution.com/marginalrevolution/2025/07/the-sputnik-vs-deep-seek-moment-the-answers.html)
-- [Yixiang 16kWh Battery for $1,899? What in the world [video]](https://www.youtube.com/watch?v=7bShGUPU3TQ)
+- [Use a Password Manager for All Your Secrets, Not Just Logins](https://www.wsj.com/tech/personal-tech/why-you-should-use-a-password-manager-for-all-your-secrets-not-just-logins-e4c46a8b)
+- [EU and US agree trade deal, with 15% tariffs for European exports to America](https://www.bbc.com/news/articles/cx2xylk3d07o)
+- [Spider Venom Prevents Tissue Damage After Heart Attack and Stroke](https://www.the-scientist.com/spider-venom-prevents-tissue-damage-after-heart-attack-and-stroke-73204)
+- [Gopher2000 – A Gopher server for the next millenium](https://github.com/muffinista/gopher2000)
+- [Show HN: A semantic code search tool for cross-repo context retrieval](https://github.com/hpbyte/h-codex)
+- [Tom Lehrer, Performer of Lobachevsky, New Math, and Alma, Goes to Valhalla](https://www.avclub.com/tom-lehrer-obituary)
+- [Go-CDC-chunkers: chunk and deduplicate everything](https://plakar.io/posts/2025-07-11/introducing-go-cdc-chunkers-chunk-and-deduplicate-everything/)
+- [Cyberdeck – Pi Zero 2 W with Xbox 360 Chatpad](https://hackaday.com/2025/07/27/a-very-tidy-handheld-pi-terminal-indeed/)
+- [A change in the Southern Ocean structure can have climate implications](https://www.icm.csic.es/en/news/change-southern-ocean-structure-can-have-climate-implications)
+- [Show HN: Showcase Your Web and Mobile Apps](https://vibegiz.com/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

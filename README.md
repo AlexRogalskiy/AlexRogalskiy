@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Use a Password Manager for All Your Secrets, Not Just Logins](https://www.wsj.com/tech/personal-tech/why-you-should-use-a-password-manager-for-all-your-secrets-not-just-logins-e4c46a8b)
-- [EU and US agree trade deal, with 15% tariffs for European exports to America](https://www.bbc.com/news/articles/cx2xylk3d07o)
-- [Spider Venom Prevents Tissue Damage After Heart Attack and Stroke](https://www.the-scientist.com/spider-venom-prevents-tissue-damage-after-heart-attack-and-stroke-73204)
-- [Gopher2000 – A Gopher server for the next millenium](https://github.com/muffinista/gopher2000)
-- [Show HN: A semantic code search tool for cross-repo context retrieval](https://github.com/hpbyte/h-codex)
-- [Tom Lehrer, Performer of Lobachevsky, New Math, and Alma, Goes to Valhalla](https://www.avclub.com/tom-lehrer-obituary)
-- [Go-CDC-chunkers: chunk and deduplicate everything](https://plakar.io/posts/2025-07-11/introducing-go-cdc-chunkers-chunk-and-deduplicate-everything/)
-- [Cyberdeck – Pi Zero 2 W with Xbox 360 Chatpad](https://hackaday.com/2025/07/27/a-very-tidy-handheld-pi-terminal-indeed/)
-- [A change in the Southern Ocean structure can have climate implications](https://www.icm.csic.es/en/news/change-southern-ocean-structure-can-have-climate-implications)
-- [Show HN: Showcase Your Web and Mobile Apps](https://vibegiz.com/)
+- [Ask HN: What is Lex Fridman&#39;s association with MIT?](https://news.ycombinator.com/item?id=44718779)
+- [Gren 25S: Easier interop, concurrent tasks and zero-install packages](https://gren-lang.org/news/250721_gren_25s/)
+- [NYC&#39;s Urban Textscape](https://pudding.cool/2025/07/street-view/)
+- [Show HN: Claude Intern – turn Jira tasks into working PRs](https://github.com/danii1/claude-intern)
+- [Every American Is Bilingual](https://justevilenough.com/every-american-is-bilingual/)
+- [That Time I Worked With a Laptop Thief](https://blog.pipetogrep.org/2025/07/27/that-time-i-worked-with-a-laptop-thief/)
+- [A Free Market for Eyeballs: Twitter as Regulatory Arbitrage](https://www.neelsomaniblog.com/p/a-free-market-for-eyeballs)
+- [Show HN: StoxGPT – type &quot;add RSI&quot; and the indicator appears on the chart](https://www.stoxgpt.com)
+- [A short audio playlet with an interpretation of simulation theory](http://livinginthefuture.rocks/e/episode-15-audio-playlet-recursion/)
+- [AI builds your knowlege map – an alternative to chat for deep understanding](https://www.proread.ai/login)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

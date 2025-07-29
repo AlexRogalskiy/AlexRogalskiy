@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [New Zealand attorney general warns her government’s electoral reform could breach human rights law](https://www.theguardian.com/world/2025/jul/28/new-zealand-electoral-reform-maori-human-rights-law)
-- [Roar to victory: what the papers say about the Lionesses Euro win](https://www.theguardian.com/sport/2025/jul/28/england-euro-2025-win-lionesses-what-the-papers-newspaper-front-pages)
-- [Ukraine war briefing: Kyiv attack injures five, Trump and Starmer to discuss ‘applying pressure’ on Putin](https://www.theguardian.com/world/2025/jul/28/ukraine-war-briefing-kyiv-attack-injures-five-trump-and-starmer-to-discuss-applying-pressure-on-putin)
-- [Moscow starts direct flights to North Korea amid decline in options for Russian tourists](https://www.theguardian.com/world/2025/jul/28/moscow-pyongyang-direct-flights-russia-to-north-korea-tourists)
-- [Thailand and Cambodia to hold peace talks as Trump urges them to settle differences](https://www.theguardian.com/world/2025/jul/28/thailand-cambodia-border-clash-dispute-peace-talks)
-- [Trump and von der Leyen announce US-EU trade deal](https://www.theguardian.com/us-news/2025/jul/27/eu-delegation-poised-for-trump-trade-talks-in-scotland)
-- [Tom Lehrer, acclaimed musical satirist of cold war era, dies aged 97](https://www.theguardian.com/music/2025/jul/28/tom-lehrer-dies-aged-97-dead-musical-satirist)
-- [Zero-hours contracts: peers accused of ‘trying to block stronger UK workers’ rights’](https://www.theguardian.com/uk-news/2025/jul/28/zero-hours-contracts-peers-accused-of-trying-to-block-stronger-uk-workers-rights)
-- [Demand for weight loss drugs is becoming unsustainable, say pharmacists](https://www.theguardian.com/society/2025/jul/28/demand-for-weight-loss-drugs-is-becoming-unsustainable-say-pharmacists)
-- [The shootout: every penalty, shot by shot, that won Euro 2025 for England](https://www.theguardian.com/football/2025/jul/27/the-shootout-every-penalty-shot-by-shot-that-won-euro-2025-for-england)
+- [China floods: more than 30 killed in Beijing and tens of thousands evacuated](https://www.theguardian.com/world/2025/jul/29/china-floods-flooding-beijing-thousands-evacuated)
+- [New York shooting: gunman dies from self-inflicted wound after killing four people](https://www.theguardian.com/us-news/2025/jul/28/new-york-police-manhattan)
+- [Labubu underground: Lafufu makers defy Chinese authorities to feed the world’s appetite for viral doll](https://www.theguardian.com/world/2025/jul/29/lafufu-chinese-fake-labubu-plush-toy-doll-popmart)
+- [Thailand accuses Cambodia of a ceasefire violation hours after it comes into effect](https://www.theguardian.com/world/2025/jul/29/thailand-cambodia-ceasefire)
+- [Ukraine war briefing: Zelenskyy praises Trump for trimming Putin deadline by about 25 days](https://www.theguardian.com/world/2025/jul/29/ukraine-war-briefing-zelenskyy-praises-trump-for-trimming-putin-deadline-by-about-25-days)
+- [New mortgage affordability rules help UK housing market avoid summer lull](https://www.theguardian.com/business/2025/jul/29/new-mortgage-affordability-rules-help-uk-housing-market-avoid-summer-lull)
+- [Tin mining to return to Cornwall after Reeves makes £29m investment](https://www.theguardian.com/business/2025/jul/29/tin-mining-to-return-to-cornwall-after-reeves-makes-29m-investment)
+- [Colombia’s former president Álvaro Uribe found guilty of witness tampering](https://www.theguardian.com/world/2025/jul/28/colombias-former-president-alvaro-uribe-found-guilty-of-witness-tampering)
+- [Lifestyle changes and vaccination ‘could prevent most liver cancer cases’](https://www.theguardian.com/society/2025/jul/28/lifestyle-changes-and-vaccination-could-prevent-most-liver-cancer-cases)
+- [Lionesses greeted by jubilant England fans on return home after Euro 2025 victory](https://www.theguardian.com/football/2025/jul/28/lionesses-greeted-by-jubilant-england-fans-on-return-home-after-euro-2025-victory)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [VPN use surges in UK as new online safety rules kick in](https://www.ft.com/content/356674b0-9f1d-4f95-b1d5-f27570379a9b)
-- [Big agriculture mislead the public about the benefits of biofuels](https://lithub.com/how-big-agriculture-mislead-the-public-about-the-benefits-of-biofuels/)
-- [Why does a fire truck cost $2m](https://thehustle.co/originals/why-does-a-fire-truck-cost-2-million)
-- [Claude Code Router](https://github.com/musistudio/claude-code-router)
-- [ZUSE – The Modern IRC Chat for the Terminal Made in Go/Bubbletea](https://github.com/babycommando/zuse)
-- [Enough AI copilots, we need AI HUDs](https://www.geoffreylitt.com/2025/07/27/enough-ai-copilots-we-need-ai-huds)
-- [EU age verification app to ban any Android system not licensed by Google](https://www.reddit.com/r/degoogle/s/YxmPgFes8a)
-- [Designing a flatpack bed](https://kevinlynagh.com/newsletter/2025_07_flatpack/)
-- [Making Postgres slower](https://byteofdev.com/posts/making-postgres-slow/)
-- [IBM Keyboard Patents](https://sharktastica.co.uk/topics/patents)
+- [Fintech dystopia](https://fintechdystopia.com/)
+- [Structural-Demographic Theory](https://peterturchin.com/structural-demographic-theory/)
+- [Show HN: Use Their Dd – Use your local UK MP&#39;s ID for the online safety act](https://use-their-id.com/)
+- [The Vatican observatory looks to the heavens](https://www.newyorker.com/magazine/2025/08/04/the-vatican-observatory-looks-to-the-heavens)
+- [Sign in with Google in Chrome](https://underpassapp.com/news/2025/7/5.html)
+- [Robot hand could harvest blackberries better than humans](https://news.uark.edu/articles/79750/robot-hand-could-harvest-blackberries-better-than-humans)
+- [I designed my own fast game streaming video codec – PyroWave](https://themaister.net/blog/2025/06/16/i-designed-my-own-ridiculously-fast-game-streaming-video-codec-pyrowave/)
+- [Different Clocks](https://ianto-cannon.github.io/clock.html)
+- [‘I witnessed war crimes’ in Gaza – former worker at GHF aid site [video]](https://www.bbc.com/news/videos/cy8k8045nx9o)
+- [Shrinkle – Shrink words, find hidden phrase](https://www.shrinkle.org/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

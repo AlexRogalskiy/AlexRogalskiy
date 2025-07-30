@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ask HN: What is Lex Fridman&#39;s association with MIT?](https://news.ycombinator.com/item?id=44718779)
-- [Gren 25S: Easier interop, concurrent tasks and zero-install packages](https://gren-lang.org/news/250721_gren_25s/)
-- [NYC&#39;s Urban Textscape](https://pudding.cool/2025/07/street-view/)
-- [Show HN: Claude Intern – turn Jira tasks into working PRs](https://github.com/danii1/claude-intern)
-- [Every American Is Bilingual](https://justevilenough.com/every-american-is-bilingual/)
-- [That Time I Worked With a Laptop Thief](https://blog.pipetogrep.org/2025/07/27/that-time-i-worked-with-a-laptop-thief/)
-- [A Free Market for Eyeballs: Twitter as Regulatory Arbitrage](https://www.neelsomaniblog.com/p/a-free-market-for-eyeballs)
-- [Show HN: StoxGPT – type &quot;add RSI&quot; and the indicator appears on the chart](https://www.stoxgpt.com)
-- [A short audio playlet with an interpretation of simulation theory](http://livinginthefuture.rocks/e/episode-15-audio-playlet-recursion/)
-- [AI builds your knowlege map – an alternative to chat for deep understanding](https://www.proread.ai/login)
+- [PlantGenieAI – AI app to identify plants and give care advice](https://news.ycombinator.com/item?id=44730681)
+- [Show HN: I turned an LLM into a random generator for music, food, books and more](https://lifeisrandom.io/)
+- [Gaza Humanitarian Foundation Sets Record Straight on Anthony Aguilar allegations](https://www.youtube.com/watch?v=zIn21VhBFVY)
+- [Show HN: I forked usql into a MCP server](https://github.com/nathabonfim59/usqlr)
+- [A Full-Stack React Framework 4x Faster Than Next.js with 4x More Throughput](https://ryanskinner.com/posts/how-i-built-a-full-stack-react-framework-4x-faster-than-nextjs-with-4x-more-throughput)
+- [Israeli settler accused of killing Palestinian involved in Oscar-winning film](https://www.bbc.com/news/articles/c776x78517po)
+- [Power Outage at Newark Data Center Disrupts Linode, Took LWN Offline](https://fossforce.com/2025/07/power-outage-at-newark-data-center-disrupts-linode-took-lwn-offline/)
+- [Fourth, fifth, and sixth derivatives of position](https://en.wikipedia.org/wiki/Fourth,_fifth,_and_sixth_derivatives_of_position)
+- [Atlassian founder: Australia could be major data hub for South-East Asia](https://www.abc.net.au/news/2025-07-30/atlassian-scott-farquhar-spruiks-data-centre-future/105587560)
+- [After stage-gate: companies developing new idea-to-launch processes &lpar;2014&rpar;](https://www.thefreelibrary.com/What%27s+next%3f+After+stage-gate%3a+progressive+companies+are+developing+a...-a0355307820)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

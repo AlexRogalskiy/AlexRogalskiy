@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Fintech dystopia](https://fintechdystopia.com/)
-- [Structural-Demographic Theory](https://peterturchin.com/structural-demographic-theory/)
-- [Show HN: Use Their Dd – Use your local UK MP&#39;s ID for the online safety act](https://use-their-id.com/)
-- [The Vatican observatory looks to the heavens](https://www.newyorker.com/magazine/2025/08/04/the-vatican-observatory-looks-to-the-heavens)
-- [Sign in with Google in Chrome](https://underpassapp.com/news/2025/7/5.html)
-- [Robot hand could harvest blackberries better than humans](https://news.uark.edu/articles/79750/robot-hand-could-harvest-blackberries-better-than-humans)
-- [I designed my own fast game streaming video codec – PyroWave](https://themaister.net/blog/2025/06/16/i-designed-my-own-ridiculously-fast-game-streaming-video-codec-pyrowave/)
-- [Different Clocks](https://ianto-cannon.github.io/clock.html)
-- [‘I witnessed war crimes’ in Gaza – former worker at GHF aid site [video]](https://www.bbc.com/news/videos/cy8k8045nx9o)
-- [Shrinkle – Shrink words, find hidden phrase](https://www.shrinkle.org/)
+- [M8.7 earthquake in Western Pacific, tsunami warning issued](https://earthquake.usgs.gov/earthquakes/eventpage/us6000qw60/executive)
+- [Two Birds with One Tone: I/Q Signals and Fourier Transform](https://wirelesspi.com/two-birds-with-one-tone-i-q-signals-and-fourier-transform-part-1/)
+- [Phenome-wide analysis of diseases in relation to sleep traits](https://spj.science.org/doi/10.34133/hds.0161)
+- [URL-Driven State in HTMX](https://www.lorenstew.art/blog/bookmarkable-by-design-url-state-htmx/)
+- [CodeCrafters &lpar;YC S22&rpar; is hiring first Marketing Person](https://www.ycombinator.com/companies/codecrafters/jobs/7ATipKJ-1st-marketing-hire)
+- [RIP Shunsaku Tamiya, the man who made plastic model kits a global obsession](https://JapaneseNostalgicCar.com/rip-shunsaku-tamiya-plastic-model-kits/)
+- [Supervised fine tuning on curated data is reinforcement learning](https://arxiv.org/abs/2507.12856)
+- [Dropbox Passwords discontinuation](https://help.dropbox.com/en-us/installs/dropbox-passwords-discontinuation)
+- [More honey bees dying, even as antibiotic use halves](https://news.uoguelph.ca/2025/07/more-honey-bees-dying-even-as-antibiotic-use-halves/)
+- [Maru OS – Use your phone as your PC](https://maruos.com/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [China floods: more than 30 killed in Beijing and tens of thousands evacuated](https://www.theguardian.com/world/2025/jul/29/china-floods-flooding-beijing-thousands-evacuated)
-- [New York shooting: gunman dies from self-inflicted wound after killing four people](https://www.theguardian.com/us-news/2025/jul/28/new-york-police-manhattan)
-- [Labubu underground: Lafufu makers defy Chinese authorities to feed the world’s appetite for viral doll](https://www.theguardian.com/world/2025/jul/29/lafufu-chinese-fake-labubu-plush-toy-doll-popmart)
-- [Thailand accuses Cambodia of a ceasefire violation hours after it comes into effect](https://www.theguardian.com/world/2025/jul/29/thailand-cambodia-ceasefire)
-- [Ukraine war briefing: Zelenskyy praises Trump for trimming Putin deadline by about 25 days](https://www.theguardian.com/world/2025/jul/29/ukraine-war-briefing-zelenskyy-praises-trump-for-trimming-putin-deadline-by-about-25-days)
-- [New mortgage affordability rules help UK housing market avoid summer lull](https://www.theguardian.com/business/2025/jul/29/new-mortgage-affordability-rules-help-uk-housing-market-avoid-summer-lull)
-- [Tin mining to return to Cornwall after Reeves makes £29m investment](https://www.theguardian.com/business/2025/jul/29/tin-mining-to-return-to-cornwall-after-reeves-makes-29m-investment)
-- [Colombia’s former president Álvaro Uribe found guilty of witness tampering](https://www.theguardian.com/world/2025/jul/28/colombias-former-president-alvaro-uribe-found-guilty-of-witness-tampering)
-- [Lifestyle changes and vaccination ‘could prevent most liver cancer cases’](https://www.theguardian.com/society/2025/jul/28/lifestyle-changes-and-vaccination-could-prevent-most-liver-cancer-cases)
-- [Lionesses greeted by jubilant England fans on return home after Euro 2025 victory](https://www.theguardian.com/football/2025/jul/28/lionesses-greeted-by-jubilant-england-fans-on-return-home-after-euro-2025-victory)
+- [First waves hit Japan as US widens tsunami warnings after magnitude-8.8 earthquake off Russia – live updates](https://www.theguardian.com/world/live/2025/jul/30/tsunami-alert-pacific-islands-japan-russia-magnitude-8-earthquake-follow-live-updates)
+- [Taiwan president scraps Latin America trip amid reports the US opposed stopover in New York](https://www.theguardian.com/world/2025/jul/30/taiwan-president-cancels-latin-america-trip-us-opposed-nyc-stopover)
+- [Ukraine war briefing: Three soldiers killed in Russian attack on training camp, Trump gives Moscow ceasefire deadline](https://www.theguardian.com/world/2025/jul/30/ukraine-war-briefing-three-soldiers-killed-in-russian-attack-on-training-camp-trump-gives-moscow-ceasefire-deadline)
+- [Charity in legal action against minister for failing to act over Thames Water](https://www.theguardian.com/business/2025/jul/30/charity-in-legal-action-against-minister-for-failing-to-act-over-thames-water)
+- [Father and son named as victims of fatal stabbings at office in south London](https://www.theguardian.com/uk-news/2025/jul/29/man-arrested-on-suspicion-murder-stabbings-office-south-london-southwark)
+- [Las Vegas reportedly set to host 2026 World Cup draw on 5 December](https://www.theguardian.com/football/2025/jul/29/world-cup-2026-draw-las-vegas-sphere)
+- [Third of UK teenagers who vape will go on to start smoking, research shows](https://www.theguardian.com/society/2025/jul/29/third-of-uk-teenagers-who-vape-will-go-on-to-start-smoking-research-shows)
+- [1000 Men and Me: The Bonnie Blue Story review – the troubling tale of sex with 1,057 men in 12 hours](https://www.theguardian.com/tv-and-radio/2025/jul/29/1000-men-and-me-the-bonnie-blue-story-review-channel-4-documentary)
+- [UK to recognise state of Palestine in September unless Israel holds to ceasefire](https://www.theguardian.com/politics/2025/jul/29/uk-to-recognise-state-of-palestine-in-september-unless-israel-holds-to-a-ceasefire)
+- [Sean ‘Diddy’ Combs asks judge to free him on $50m bond pending sentencing](https://www.theguardian.com/music/2025/jul/29/sean-diddy-combs-bond-request-sentencing)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

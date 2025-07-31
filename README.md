@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [M8.7 earthquake in Western Pacific, tsunami warning issued](https://earthquake.usgs.gov/earthquakes/eventpage/us6000qw60/executive)
-- [Two Birds with One Tone: I/Q Signals and Fourier Transform](https://wirelesspi.com/two-birds-with-one-tone-i-q-signals-and-fourier-transform-part-1/)
-- [Phenome-wide analysis of diseases in relation to sleep traits](https://spj.science.org/doi/10.34133/hds.0161)
-- [URL-Driven State in HTMX](https://www.lorenstew.art/blog/bookmarkable-by-design-url-state-htmx/)
-- [CodeCrafters &lpar;YC S22&rpar; is hiring first Marketing Person](https://www.ycombinator.com/companies/codecrafters/jobs/7ATipKJ-1st-marketing-hire)
-- [RIP Shunsaku Tamiya, the man who made plastic model kits a global obsession](https://JapaneseNostalgicCar.com/rip-shunsaku-tamiya-plastic-model-kits/)
-- [Supervised fine tuning on curated data is reinforcement learning](https://arxiv.org/abs/2507.12856)
-- [Dropbox Passwords discontinuation](https://help.dropbox.com/en-us/installs/dropbox-passwords-discontinuation)
-- [More honey bees dying, even as antibiotic use halves](https://news.uoguelph.ca/2025/07/more-honey-bees-dying-even-as-antibiotic-use-halves/)
-- [Maru OS – Use your phone as your PC](https://maruos.com/)
+- [Classic Common Desktop Environment coming to OpenBSD](https://undeadly.org/cgi?action=article;sid=20250730080301)
+- [Sei &lpar;YC W22&rpar; Is Hiring a Full Stack Engineer in Chennai, India](https://www.ycombinator.com/companies/sei/jobs/LeAtLYf-full-stack-engineer-typescript-react-gen-ai)
+- [Figma will IPO on July 31](https://www.figma.com/blog/ipo-pricing/)
+- [Pentagon Pizza Index](https://www.pizzint.watch/)
+- [Ollama&#39;s new app](https://ollama.com/blog/new-app)
+- [Early universe&#39;s &#39;little red dots&#39; may be black hole stars](https://www.science.org/content/article/early-universe-s-little-red-dots-may-be-black-hole-stars)
+- [Vibe code is legacy code](https://blog.val.town/vibe-code)
+- [The math is haunted](https://overreacted.io/the-math-is-haunted/)
+- [The Preserving Machine by Philip K. Dick &lpar;1953&rpar;](https://archive.org/details/Fantasy_Science_Fiction_v004n06_1953-06)
+- [Emacs: The macOS Bug](https://xlii.space/eng/emacs-the-macos-bug/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

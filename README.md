@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [PlantGenieAI – AI app to identify plants and give care advice](https://news.ycombinator.com/item?id=44730681)
-- [Show HN: I turned an LLM into a random generator for music, food, books and more](https://lifeisrandom.io/)
-- [Gaza Humanitarian Foundation Sets Record Straight on Anthony Aguilar allegations](https://www.youtube.com/watch?v=zIn21VhBFVY)
-- [Show HN: I forked usql into a MCP server](https://github.com/nathabonfim59/usqlr)
-- [A Full-Stack React Framework 4x Faster Than Next.js with 4x More Throughput](https://ryanskinner.com/posts/how-i-built-a-full-stack-react-framework-4x-faster-than-nextjs-with-4x-more-throughput)
-- [Israeli settler accused of killing Palestinian involved in Oscar-winning film](https://www.bbc.com/news/articles/c776x78517po)
-- [Power Outage at Newark Data Center Disrupts Linode, Took LWN Offline](https://fossforce.com/2025/07/power-outage-at-newark-data-center-disrupts-linode-took-lwn-offline/)
-- [Fourth, fifth, and sixth derivatives of position](https://en.wikipedia.org/wiki/Fourth,_fifth,_and_sixth_derivatives_of_position)
-- [Atlassian founder: Australia could be major data hub for South-East Asia](https://www.abc.net.au/news/2025-07-30/atlassian-scott-farquhar-spruiks-data-centre-future/105587560)
-- [After stage-gate: companies developing new idea-to-launch processes &lpar;2014&rpar;](https://www.thefreelibrary.com/What%27s+next%3f+After+stage-gate%3a+progressive+companies+are+developing+a...-a0355307820)
+- [The Cost of Security Debt &lpar;With Numbers&rpar;](https://rsolv.dev/blog/real-cost-security-debt-roi)
+- [Moral Deskilling](https://crookedtimber.org/2025/07/31/moral-deskilling-or-why-you-spend-more-time-on-admin-than-doing-your-job/)
+- [There is a little guy hidden on the side of most U-Haul trucks](https://www.theautopian.com/theres-a-little-guy-hidden-on-the-side-of-most-u-haul-trucks/)
+- [Scientists May Have Found Humanity&#39;s Sixth Sense–In Our Gut](https://www.popularmechanics.com/science/health/a65503221/neurobiotic-sense/)
+- [Wireframer 7 days by a 21 y/o college student &lpar;100 users, 2 paid&rpar;](https://www.wireframer.site/)
+- [Wireframer 7 days by a 21 y/o college student &lpar;100 users, 2 paid&rpar;](https://news.ycombinator.com/item?id=44742036)
+- [Show HN: PassiveCraft – AI Converts Social Media into Digital Products](https://news.ycombinator.com/item?id=44742032)
+- [DOE economic impacts of climate change overblown](https://www.energy.gov/topics/climate)
+- [Friction and Not Being Touched](https://tante.cc/2025/07/30/friction-and-not-being-touched/)
+- [Off-CPU Profiling](https://www.polarsignals.com/blog/posts/2025/07/30/introducing-off-cpu-profiling)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

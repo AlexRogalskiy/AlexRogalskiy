@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [First waves hit Japan as US widens tsunami warnings after magnitude-8.8 earthquake off Russia – live updates](https://www.theguardian.com/world/live/2025/jul/30/tsunami-alert-pacific-islands-japan-russia-magnitude-8-earthquake-follow-live-updates)
-- [Taiwan president scraps Latin America trip amid reports the US opposed stopover in New York](https://www.theguardian.com/world/2025/jul/30/taiwan-president-cancels-latin-america-trip-us-opposed-nyc-stopover)
-- [Ukraine war briefing: Three soldiers killed in Russian attack on training camp, Trump gives Moscow ceasefire deadline](https://www.theguardian.com/world/2025/jul/30/ukraine-war-briefing-three-soldiers-killed-in-russian-attack-on-training-camp-trump-gives-moscow-ceasefire-deadline)
-- [Charity in legal action against minister for failing to act over Thames Water](https://www.theguardian.com/business/2025/jul/30/charity-in-legal-action-against-minister-for-failing-to-act-over-thames-water)
-- [Father and son named as victims of fatal stabbings at office in south London](https://www.theguardian.com/uk-news/2025/jul/29/man-arrested-on-suspicion-murder-stabbings-office-south-london-southwark)
-- [Las Vegas reportedly set to host 2026 World Cup draw on 5 December](https://www.theguardian.com/football/2025/jul/29/world-cup-2026-draw-las-vegas-sphere)
-- [Third of UK teenagers who vape will go on to start smoking, research shows](https://www.theguardian.com/society/2025/jul/29/third-of-uk-teenagers-who-vape-will-go-on-to-start-smoking-research-shows)
-- [1000 Men and Me: The Bonnie Blue Story review – the troubling tale of sex with 1,057 men in 12 hours](https://www.theguardian.com/tv-and-radio/2025/jul/29/1000-men-and-me-the-bonnie-blue-story-review-channel-4-documentary)
-- [UK to recognise state of Palestine in September unless Israel holds to ceasefire](https://www.theguardian.com/politics/2025/jul/29/uk-to-recognise-state-of-palestine-in-september-unless-israel-holds-to-a-ceasefire)
-- [Sean ‘Diddy’ Combs asks judge to free him on $50m bond pending sentencing](https://www.theguardian.com/music/2025/jul/29/sean-diddy-combs-bond-request-sentencing)
+- [Emma Raducanu eases into third round in Montreal after straight-sets win over Peyton Stearns](https://www.theguardian.com/sport/2025/jul/31/emma-raducanu-eases-into-third-round-in-montreal-after-straight-sets-win-over-peyton-stearns)
+- [Senate votes against resolutions to block arms sales to Israel even as it continues to starve Gaza – as it happened](https://www.theguardian.com/us-news/live/2025/jul/30/trump-administration-judges-epstein-witness-testimony-us-politics-latest-updates-news)
+- [With tsunami warnings lifted, millions return home after powerful Pacific earthquake](https://www.theguardian.com/world/2025/jul/31/tsunami-update-warnings-lifted-russia-earthquake)
+- [Fiji’s best wave was once forbidden to locals, now the country has its first pro-surfer](https://www.theguardian.com/world/2025/jul/31/james-kusitino-fiji-pro-surfer-cloudbreak-wave)
+- [Ukraine war briefing: Kremlin says it has ‘immunity’ to US sanctions as Trump deadline looms](https://www.theguardian.com/world/2025/jul/31/ukraine-war-briefing-kremlin-says-it-has-immunity-to-us-sanctions-as-trump-deadline-looms)
+- [US to impose 15% tariffs on South Korea as part of trade deal, Donald Trump says](https://www.theguardian.com/us-news/2025/jul/31/south-korea-tariffs-us-trade-deal-trump)
+- [Countries failing to act on UN climate pledge to triple renewables, thinktank finds](https://www.theguardian.com/environment/2025/jul/31/countries-failing-act-un-climate-triple-renewables-cop28)
+- [Tax rises in autumn would force our prices up, retailers tell Reeves](https://www.theguardian.com/business/2025/jul/31/tax-rises-autumn-force-prices-up-retailers-rachel-reeves)
+- [Met police to more than double use of live facial recognition](https://www.theguardian.com/technology/2025/jul/31/met-police-to-more-than-double-use-of-live-facial-recognition)
+- [Canada to recognise Palestine at UN general assembly, joining France and UK in push for new state](https://www.theguardian.com/world/2025/jul/30/palestinian-statehood-recognition)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

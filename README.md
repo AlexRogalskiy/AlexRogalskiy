@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Classic Common Desktop Environment coming to OpenBSD](https://undeadly.org/cgi?action=article;sid=20250730080301)
-- [Sei &lpar;YC W22&rpar; Is Hiring a Full Stack Engineer in Chennai, India](https://www.ycombinator.com/companies/sei/jobs/LeAtLYf-full-stack-engineer-typescript-react-gen-ai)
-- [Figma will IPO on July 31](https://www.figma.com/blog/ipo-pricing/)
-- [Pentagon Pizza Index](https://www.pizzint.watch/)
-- [Ollama&#39;s new app](https://ollama.com/blog/new-app)
-- [Early universe&#39;s &#39;little red dots&#39; may be black hole stars](https://www.science.org/content/article/early-universe-s-little-red-dots-may-be-black-hole-stars)
-- [Vibe code is legacy code](https://blog.val.town/vibe-code)
-- [The math is haunted](https://overreacted.io/the-math-is-haunted/)
-- [The Preserving Machine by Philip K. Dick &lpar;1953&rpar;](https://archive.org/details/Fantasy_Science_Fiction_v004n06_1953-06)
-- [Emacs: The macOS Bug](https://xlii.space/eng/emacs-the-macos-bug/)
+- [LLM Leaderboard-Comparing 100 AI Models from OpenAI, Google, DeepSeek and Others](https://artificialanalysis.ai/leaderboards/models)
+- [Show HN: KubeForge – A GUI for Kubernetes YAMLs](https://github.com/kubenote/KubeForge)
+- [Age Verification Doesn&#39;t Need to Be a Privacy Footgun](https://soatok.blog/2025/07/31/age-verification-doesnt-need-to-be-a-privacy-footgun/)
+- [The anti-abundance critique on housing is wrong](https://www.derekthompson.org/p/the-anti-abundance-critique-on-housing)
+- [Denver rent is back to 2022 prices after 20k new units hit the market](https://denverite.com/2025/07/25/denver-rent-prices-drop-q2/)
+- [Slow](https://michaelnotebook.com/slow/index.html)
+- [Secure boot certificate rollover is real but probably won&#39;t hurt you](https://mjg59.dreamwidth.org/72892.html)
+- [AI is a floor raiser, not a ceiling raiser](https://elroy.bot/blog/2025/07/29/ai-is-a-floor-raiser-not-a-ceiling-raiser.html)
+- [Kaizen &lpar;YC X25&rpar; is hiring engineers to build browser agents that work](https://www.kaizenautomation.com/jobs)
+- [Gemini Embedding: Powering RAG and context engineering](https://developers.googleblog.com/en/gemini-embedding-powering-rag-context-engineering/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Emma Raducanu eases into third round in Montreal after straight-sets win over Peyton Stearns](https://www.theguardian.com/sport/2025/jul/31/emma-raducanu-eases-into-third-round-in-montreal-after-straight-sets-win-over-peyton-stearns)
-- [Senate votes against resolutions to block arms sales to Israel even as it continues to starve Gaza – as it happened](https://www.theguardian.com/us-news/live/2025/jul/30/trump-administration-judges-epstein-witness-testimony-us-politics-latest-updates-news)
-- [With tsunami warnings lifted, millions return home after powerful Pacific earthquake](https://www.theguardian.com/world/2025/jul/31/tsunami-update-warnings-lifted-russia-earthquake)
-- [Fiji’s best wave was once forbidden to locals, now the country has its first pro-surfer](https://www.theguardian.com/world/2025/jul/31/james-kusitino-fiji-pro-surfer-cloudbreak-wave)
-- [Ukraine war briefing: Kremlin says it has ‘immunity’ to US sanctions as Trump deadline looms](https://www.theguardian.com/world/2025/jul/31/ukraine-war-briefing-kremlin-says-it-has-immunity-to-us-sanctions-as-trump-deadline-looms)
-- [US to impose 15% tariffs on South Korea as part of trade deal, Donald Trump says](https://www.theguardian.com/us-news/2025/jul/31/south-korea-tariffs-us-trade-deal-trump)
-- [Countries failing to act on UN climate pledge to triple renewables, thinktank finds](https://www.theguardian.com/environment/2025/jul/31/countries-failing-act-un-climate-triple-renewables-cop28)
-- [Tax rises in autumn would force our prices up, retailers tell Reeves](https://www.theguardian.com/business/2025/jul/31/tax-rises-autumn-force-prices-up-retailers-rachel-reeves)
-- [Met police to more than double use of live facial recognition](https://www.theguardian.com/technology/2025/jul/31/met-police-to-more-than-double-use-of-live-facial-recognition)
-- [Canada to recognise Palestine at UN general assembly, joining France and UK in push for new state](https://www.theguardian.com/world/2025/jul/30/palestinian-statehood-recognition)
+- [Trump tariffs live: new rates on 92 countries released; Canada faces 35% levy on Friday](https://www.theguardian.com/us-news/live/2025/aug/01/trump-tariffs-live-updates-executive-order-us-trade-war-deals-latest-news)
+- [Virginia Giuffre wanted Epstein documents made public, siblings say](https://www.theguardian.com/us-news/2025/jul/31/virginia-giuffre-epstein-documents-family)
+- [China’s fast-fashion capital slows down under Trump’s trade war](https://www.theguardian.com/world/2025/aug/01/guangzhou-china-fast-fashion-trump-tariffs-trade-war)
+- [Ukraine war briefing: Zelenskyy calls for ‘regime change’ in Russia after attack on Kyiv kills 16](https://www.theguardian.com/world/2025/aug/01/ukraine-war-briefing-zelenskyy-calls-for-regime-change-in-russia-after-attack-on-kyiv-kills-16)
+- [Heathrow submits ‘shovel-ready’ plans for third runway](https://www.theguardian.com/environment/2025/aug/01/heathrow-submits-shovel-ready-plans-for-third-runway)
+- [Apple quietens Wall Street’s fears of China struggles and slow AI progress](https://www.theguardian.com/technology/2025/jul/31/apple-earnings-report)
+- [Rhino horns made radioactive to foil traffickers in South African project](https://www.theguardian.com/environment/2025/jul/31/rhino-horns-made-radioactive-to-foil-traffickers-in-south-african-project)
+- [State of emergency in New York City and New Jersey over rains and flash flooding](https://www.theguardian.com/us-news/2025/jul/31/us-weather-rain-flooding-nyc-dc)
+- [Joe Burgess scores four tries as Hull KR’s demolition of Salford raises big questions](https://www.theguardian.com/sport/2025/jul/31/joe-burgess-scores-four-tries-as-hull-kr-thrashing-of-salford-raises-big-questions)
+- [Peaky Blinders creator Steven Knight set to write next James Bond movie](https://www.theguardian.com/film/2025/jul/31/steven-knight-james-bond-denis-villeneuve)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Cost of Security Debt &lpar;With Numbers&rpar;](https://rsolv.dev/blog/real-cost-security-debt-roi)
-- [Moral Deskilling](https://crookedtimber.org/2025/07/31/moral-deskilling-or-why-you-spend-more-time-on-admin-than-doing-your-job/)
-- [There is a little guy hidden on the side of most U-Haul trucks](https://www.theautopian.com/theres-a-little-guy-hidden-on-the-side-of-most-u-haul-trucks/)
-- [Scientists May Have Found Humanity&#39;s Sixth Sense–In Our Gut](https://www.popularmechanics.com/science/health/a65503221/neurobiotic-sense/)
-- [Wireframer 7 days by a 21 y/o college student &lpar;100 users, 2 paid&rpar;](https://www.wireframer.site/)
-- [Wireframer 7 days by a 21 y/o college student &lpar;100 users, 2 paid&rpar;](https://news.ycombinator.com/item?id=44742036)
-- [Show HN: PassiveCraft – AI Converts Social Media into Digital Products](https://news.ycombinator.com/item?id=44742032)
-- [DOE economic impacts of climate change overblown](https://www.energy.gov/topics/climate)
-- [Friction and Not Being Touched](https://tante.cc/2025/07/30/friction-and-not-being-touched/)
-- [Off-CPU Profiling](https://www.polarsignals.com/blog/posts/2025/07/30/introducing-off-cpu-profiling)
+- [Samsung TV service down: Users say apps not loading amid widespread outage](https://www.hindustantimes.com/world-news/us-news/samsung-tv-service-down-users-say-apps-not-loading-amid-widespread-outage-101754016932282.html)
+- [Decoding the Chinese Computer](https://www.sixthtone.com/news/1017405)
+- [Facebook Once Bought a VPN App and Used It to Spy on 33M+ Phones for Years](https://twitter.com/itsalexvacca/status/1950927585845948600)
+- [Blame the governor! Oklahoma’s “board meeting porn” scandal goes gonzo](https://arstechnica.com/security/2025/07/blame-the-governor-oklahomas-board-meeting-porn-scandal-goes-gonzo/)
+- [Show HN: MitiFresh – A marketplace for homegrown backyard produce](https://news.ycombinator.com/item?id=44752765)
+- [Matlab Copilot: AI assistant optimized for Matlab](https://www.mathworks.com/products/matlab-copilot.html)
+- [Elon Musk gives millions to Republican super PACs ahead of the midterms](https://www.nbcnews.com/politics/2026-election/elon-musk-gives-millions-republican-super-pacs-ahead-midterms-rcna222114)
+- [Construction on Trump&#39;s $200M White House ballroom to begin in September](https://www.cnn.com/2025/07/31/politics/white-house-ballroom-construction)
+- [Peacock feathers can emit laser beams](https://arstechnica.com/science/2025/07/scientists-use-peacock-feathers-to-make-frickin-laser-beams/)
+- [Further Performance Evolution in Python 3.14: Tail Call Interpreter](https://www.manjusaka.blog/posts/2025/07/02/tail-call-in-3-14-interpreter-en/index.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

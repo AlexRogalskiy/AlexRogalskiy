@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Trump tariffs live: new rates on 92 countries released; Canada faces 35% levy on Friday](https://www.theguardian.com/us-news/live/2025/aug/01/trump-tariffs-live-updates-executive-order-us-trade-war-deals-latest-news)
-- [Virginia Giuffre wanted Epstein documents made public, siblings say](https://www.theguardian.com/us-news/2025/jul/31/virginia-giuffre-epstein-documents-family)
-- [China’s fast-fashion capital slows down under Trump’s trade war](https://www.theguardian.com/world/2025/aug/01/guangzhou-china-fast-fashion-trump-tariffs-trade-war)
-- [Ukraine war briefing: Zelenskyy calls for ‘regime change’ in Russia after attack on Kyiv kills 16](https://www.theguardian.com/world/2025/aug/01/ukraine-war-briefing-zelenskyy-calls-for-regime-change-in-russia-after-attack-on-kyiv-kills-16)
-- [Heathrow submits ‘shovel-ready’ plans for third runway](https://www.theguardian.com/environment/2025/aug/01/heathrow-submits-shovel-ready-plans-for-third-runway)
-- [Apple quietens Wall Street’s fears of China struggles and slow AI progress](https://www.theguardian.com/technology/2025/jul/31/apple-earnings-report)
-- [Rhino horns made radioactive to foil traffickers in South African project](https://www.theguardian.com/environment/2025/jul/31/rhino-horns-made-radioactive-to-foil-traffickers-in-south-african-project)
-- [State of emergency in New York City and New Jersey over rains and flash flooding](https://www.theguardian.com/us-news/2025/jul/31/us-weather-rain-flooding-nyc-dc)
-- [Joe Burgess scores four tries as Hull KR’s demolition of Salford raises big questions](https://www.theguardian.com/sport/2025/jul/31/joe-burgess-scores-four-tries-as-hull-kr-thrashing-of-salford-raises-big-questions)
-- [Peaky Blinders creator Steven Knight set to write next James Bond movie](https://www.theguardian.com/film/2025/jul/31/steven-knight-james-bond-denis-villeneuve)
+- [Emma Raducanu knocked out of Canadian Open in straight sets loss to Amanda Anisimova](https://www.theguardian.com/sport/2025/aug/02/emma-raducanu-knocked-out-of-canadian-open-in-straight-sets-loss-to-amanda-anisimova)
+- [Trump moves nuclear submarines after ex-Russia president’s menacing tweet](https://www.theguardian.com/us-news/2025/aug/01/trump-nuclear-submarines-russia-ukraine)
+- [‘He was so excited’: painter discovers 122-year-old message in a bottle inside lighthouse walls](https://www.theguardian.com/australia-news/2025/aug/02/painter-discovers-message-in-a-bottle-lighthouse-walls-tasmania)
+- [Excelling in … Excel? Inside the high-stakes, secretive world of competitive spreadsheeting](https://www.theguardian.com/film/2025/aug/02/excelling-in-excel-inside-the-high-stakes-secretive-world-of-competitive-spreadsheeting)
+- [Online hate and rising vitriol: deep divisions amid shaky peace between Thailand and Cambodia](https://www.theguardian.com/world/2025/aug/02/online-hate-and-rising-vitriol-deep-divisions-amid-shaky-peace-between-thailand-and-cambodia)
+- [Corporation for Public Broadcasting to close after US funding cut](https://www.theguardian.com/us-news/2025/aug/01/corporation-for-public-broadcasting-closure)
+- [Social media ads promoting small boat crossings to UK to be banned](https://www.theguardian.com/uk-news/2025/aug/01/social-media-ads-promoting-small-boat-crossings-uk-banned)
+- [Ryan Johnson’s own goal gives Luton late victory against AFC Wimbledon](https://www.theguardian.com/football/2025/aug/01/luton-wimbledon-league-one-match-report)
+- [Trump fires labor statistics chief hours after data showed jobs growth slowed](https://www.theguardian.com/us-news/2025/aug/01/trump-fires-erika-mcentarfer-labor-statistics)
+- [Epstein confidante Ghislaine Maxwell transferred to lower-security prison in Texas](https://www.theguardian.com/us-news/2025/aug/01/ghislaine-maxwell-prison-transfer)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

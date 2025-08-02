@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Samsung TV service down: Users say apps not loading amid widespread outage](https://www.hindustantimes.com/world-news/us-news/samsung-tv-service-down-users-say-apps-not-loading-amid-widespread-outage-101754016932282.html)
-- [Decoding the Chinese Computer](https://www.sixthtone.com/news/1017405)
-- [Facebook Once Bought a VPN App and Used It to Spy on 33M+ Phones for Years](https://twitter.com/itsalexvacca/status/1950927585845948600)
-- [Blame the governor! Oklahoma’s “board meeting porn” scandal goes gonzo](https://arstechnica.com/security/2025/07/blame-the-governor-oklahomas-board-meeting-porn-scandal-goes-gonzo/)
-- [Show HN: MitiFresh – A marketplace for homegrown backyard produce](https://news.ycombinator.com/item?id=44752765)
-- [Matlab Copilot: AI assistant optimized for Matlab](https://www.mathworks.com/products/matlab-copilot.html)
-- [Elon Musk gives millions to Republican super PACs ahead of the midterms](https://www.nbcnews.com/politics/2026-election/elon-musk-gives-millions-republican-super-pacs-ahead-midterms-rcna222114)
-- [Construction on Trump&#39;s $200M White House ballroom to begin in September](https://www.cnn.com/2025/07/31/politics/white-house-ballroom-construction)
-- [Peacock feathers can emit laser beams](https://arstechnica.com/science/2025/07/scientists-use-peacock-feathers-to-make-frickin-laser-beams/)
-- [Further Performance Evolution in Python 3.14: Tail Call Interpreter](https://www.manjusaka.blog/posts/2025/07/02/tail-call-in-3-14-interpreter-en/index.html)
+- [Windows 10 10: How Microsoft led developers round in circles](https://www.theregister.com/2025/08/01/windows_10_dev_comment/)
+- [Speak, Don&#39;t Type](https://www.typeless.com)
+- [Hashcat v7.0.0 Released](https://github.com/hashcat/hashcat/releases/tag/v7.0.0)
+- [ChatGPT scrubbed today nearly 50k shared conversations from Google](https://twitter.com/henkvaness/status/1951252284953763844/photo/1)
+- [It&#39;s not you, it&#39;s their bullshit](https://brilliantcrank.com/its-not-you-its-their-bullshit/)
+- [The Emacs dumper dispute &lpar;2016&rpar;](https://lwn.net/Articles/707615/)
+- [The Great Crime Paradox](https://www.ft.com/content/7488fe4c-5e1d-4b2b-adab-f42ad5273fc9)
+- [What does it mean for AI to be sovereign–and does that come before AGI?](https://news.ycombinator.com/item?id=44764598)
+- [Therac-25](https://en.wikipedia.org/wiki/Therac-25)
+- [Robert Wilson, experimental playwright, director and artist, has died, aged 83](https://www.theartnewspaper.com/2025/08/01/robert-wilson-playwright-director-artist-obituary)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

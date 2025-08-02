@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [LLM Leaderboard-Comparing 100 AI Models from OpenAI, Google, DeepSeek and Others](https://artificialanalysis.ai/leaderboards/models)
-- [Show HN: KubeForge – A GUI for Kubernetes YAMLs](https://github.com/kubenote/KubeForge)
-- [Age Verification Doesn&#39;t Need to Be a Privacy Footgun](https://soatok.blog/2025/07/31/age-verification-doesnt-need-to-be-a-privacy-footgun/)
-- [The anti-abundance critique on housing is wrong](https://www.derekthompson.org/p/the-anti-abundance-critique-on-housing)
-- [Denver rent is back to 2022 prices after 20k new units hit the market](https://denverite.com/2025/07/25/denver-rent-prices-drop-q2/)
-- [Slow](https://michaelnotebook.com/slow/index.html)
-- [Secure boot certificate rollover is real but probably won&#39;t hurt you](https://mjg59.dreamwidth.org/72892.html)
-- [AI is a floor raiser, not a ceiling raiser](https://elroy.bot/blog/2025/07/29/ai-is-a-floor-raiser-not-a-ceiling-raiser.html)
-- [Kaizen &lpar;YC X25&rpar; is hiring engineers to build browser agents that work](https://www.kaizenautomation.com/jobs)
-- [Gemini Embedding: Powering RAG and context engineering](https://developers.googleblog.com/en/gemini-embedding-powering-rag-context-engineering/)
+- [Peak Energy just shipped the US&#39;s first grid-scale sodium-ion battery](https://electrek.co/2025/07/30/peak-energy-us-first-grid-scale-sodium-ion-battery/)
+- [Tesla owes small businesses millions in unpaid bills [video]](https://www.cnn.com/2025/08/01/politics/video/inv-musk-unpaid-bills)
+- [Hardening Mode for the Compiler](https://discourse.llvm.org/t/rfc-hardening-mode-for-the-compiler/87660)
+- [The Rickover Corpus: A digital archive of Admiral Rickover&#39;s speeches and memos](https://rickovercorpus.org/)
+- [Meta violated privacy law, jury says in menstrual data fight](https://www.courthousenews.com/meta-violated-privacy-law-jury-says-in-menstrual-data-fight/)
+- [Twentyseven 1.0](https://blog.poisson.chat/posts/2025-08-01-twentyseven.html)
+- [Cerebras Code](https://www.cerebras.ai/blog/introducing-cerebras-code)
+- [Coffeematic PC – A coffee maker computer that pumps hot coffee to the CPU](https://www.dougmacdowell.com/coffeematic-pc.html)
+- [Anthropic revokes OpenAI&#39;s access to Claude](https://www.wired.com/story/anthropic-revokes-openais-access-to-claude/)
+- [Researchers map where solar energy delivers the biggest climate payoff](https://www.rutgers.edu/news/researchers-map-where-solar-energy-delivers-biggest-climate-payoff)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

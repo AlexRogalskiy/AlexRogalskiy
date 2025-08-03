@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Peak Energy just shipped the US&#39;s first grid-scale sodium-ion battery](https://electrek.co/2025/07/30/peak-energy-us-first-grid-scale-sodium-ion-battery/)
-- [Tesla owes small businesses millions in unpaid bills [video]](https://www.cnn.com/2025/08/01/politics/video/inv-musk-unpaid-bills)
-- [Hardening Mode for the Compiler](https://discourse.llvm.org/t/rfc-hardening-mode-for-the-compiler/87660)
-- [The Rickover Corpus: A digital archive of Admiral Rickover&#39;s speeches and memos](https://rickovercorpus.org/)
-- [Meta violated privacy law, jury says in menstrual data fight](https://www.courthousenews.com/meta-violated-privacy-law-jury-says-in-menstrual-data-fight/)
-- [Twentyseven 1.0](https://blog.poisson.chat/posts/2025-08-01-twentyseven.html)
-- [Cerebras Code](https://www.cerebras.ai/blog/introducing-cerebras-code)
-- [Coffeematic PC – A coffee maker computer that pumps hot coffee to the CPU](https://www.dougmacdowell.com/coffeematic-pc.html)
-- [Anthropic revokes OpenAI&#39;s access to Claude](https://www.wired.com/story/anthropic-revokes-openais-access-to-claude/)
-- [Researchers map where solar energy delivers the biggest climate payoff](https://www.rutgers.edu/news/researchers-map-where-solar-energy-delivers-biggest-climate-payoff)
+- [Show HN: Voltpeek – Vim-inspired oscilloscope software](https://github.com/schuyler4/voltpeek)
+- [C++26 Reflections adventures and compile-time UML](https://www.reachablecode.com/2025/07/31/c26-reflections-adventures-compile-time-uml/)
+- [The Crisis of Professional Skepticism](https://mitchhorowitz.substack.com/p/the-crisis-of-professional-skepticism)
+- [HTML-in-Canvas](https://github.com/WICG/html-in-canvas)
+- [Lina Khan points to Figma IPO as vindication of M&amp;A scrutiny](https://techcrunch.com/2025/08/02/lina-khan-points-to-figma-ipo-as-vindication-for-ma-scrutiny/)
+- [Great Question &lpar;YC W21&rpar; Is Hiring a VP of Engineering &lpar;Remote&rpar;](https://www.ycombinator.com/companies/great-question/jobs/ONBQUqe-vp-of-engineering)
+- [Telo MT1](https://www.telotrucks.com/)
+- [Browser extension and local backend that automatically archives YouTube videos](https://github.com/andrewarrow/starchive)
+- [Hiding secret codes in light protects against fake videos](https://news.cornell.edu/stories/2025/07/hiding-secret-codes-light-protects-against-fake-videos)
+- [The /o in Ruby regex stands for &quot;oh the humanity &quot;](https://jpcamara.com/2025/08/02/the-o-in-ruby-regex.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

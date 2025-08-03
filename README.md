@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Emma Raducanu knocked out of Canadian Open in straight sets loss to Amanda Anisimova](https://www.theguardian.com/sport/2025/aug/02/emma-raducanu-knocked-out-of-canadian-open-in-straight-sets-loss-to-amanda-anisimova)
-- [Trump moves nuclear submarines after ex-Russia president’s menacing tweet](https://www.theguardian.com/us-news/2025/aug/01/trump-nuclear-submarines-russia-ukraine)
-- [‘He was so excited’: painter discovers 122-year-old message in a bottle inside lighthouse walls](https://www.theguardian.com/australia-news/2025/aug/02/painter-discovers-message-in-a-bottle-lighthouse-walls-tasmania)
-- [Excelling in … Excel? Inside the high-stakes, secretive world of competitive spreadsheeting](https://www.theguardian.com/film/2025/aug/02/excelling-in-excel-inside-the-high-stakes-secretive-world-of-competitive-spreadsheeting)
-- [Online hate and rising vitriol: deep divisions amid shaky peace between Thailand and Cambodia](https://www.theguardian.com/world/2025/aug/02/online-hate-and-rising-vitriol-deep-divisions-amid-shaky-peace-between-thailand-and-cambodia)
-- [Corporation for Public Broadcasting to close after US funding cut](https://www.theguardian.com/us-news/2025/aug/01/corporation-for-public-broadcasting-closure)
-- [Social media ads promoting small boat crossings to UK to be banned](https://www.theguardian.com/uk-news/2025/aug/01/social-media-ads-promoting-small-boat-crossings-uk-banned)
-- [Ryan Johnson’s own goal gives Luton late victory against AFC Wimbledon](https://www.theguardian.com/football/2025/aug/01/luton-wimbledon-league-one-match-report)
-- [Trump fires labor statistics chief hours after data showed jobs growth slowed](https://www.theguardian.com/us-news/2025/aug/01/trump-fires-erika-mcentarfer-labor-statistics)
-- [Epstein confidante Ghislaine Maxwell transferred to lower-security prison in Texas](https://www.theguardian.com/us-news/2025/aug/01/ghislaine-maxwell-prison-transfer)
+- [Body found in collapsed Chile mine as search continues for trapped miners](https://www.theguardian.com/world/2025/aug/03/body-found-in-collapsed-chile-mine-as-search-continues-for-trapped-miners-copper-codelco)
+- [Trump news at a glance: inquiry launched into Trump prosecutor as backlash grows over firing of statistics chief](https://www.theguardian.com/us-news/2025/aug/03/trump-administration-news-today-latest-updates)
+- [Ukraine war briefing: Kyiv faces Russian missile attack as both sides trade strikes](https://www.theguardian.com/world/2025/aug/03/ukraine-war-briefing-kyiv-faces-russian-missile-attack-as-both-sides-trade-strikes)
+- [Social media ads promoting small boat crossings to UK to be banned](https://www.theguardian.com/uk-news/2025/aug/02/social-media-ads-promoting-small-boat-crossings-to-uk-to-be-banned)
+- [Pope Leo XIV gets rock star welcome from young Catholics at huge vigil](https://www.theguardian.com/world/2025/aug/02/pope-leo-xiv-gets-rock-star-welcome-from-young-catholics-at-huge-vigil)
+- [UK has got ‘fat’ on decades of free labour by women, says MP Jess Phillips](https://www.theguardian.com/politics/2025/aug/02/uk-has-got-fat-on-decades-of-free-labour-by-women-says-mp-jess-phillips)
+- [The Count of Monte Cristo review – you’ll have to pause every 45 seconds to shake your head at its daftness](https://www.theguardian.com/tv-and-radio/2025/aug/02/the-count-of-monte-cristo-review-series-jeremy-irons-sam-claflin)
+- [Teresa Palmer: ‘What’s the strangest thing in my fridge? Oh my God – there is slime’](https://www.theguardian.com/tv-and-radio/2025/aug/03/teresa-palmer-the-family-next-door-10-questions-interview)
+- [What? They’re doing raves in the morning now? With coffee? At a cafe?](https://www.theguardian.com/food/2025/aug/03/what-theyre-doing-raves-in-the-morning-now-with-coffee-at-a-cafe)
+- [Nostalgia is eating us alive. Instead of building a new world, we’re regurgitating a past that never existed | Martin Ingle](https://www.theguardian.com/commentisfree/2025/aug/03/nostalgia-is-eating-us-alive-instead-of-building-a-new-world-were-regurgitating-a-past-that-never-existed)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

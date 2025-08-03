@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Windows 10 10: How Microsoft led developers round in circles](https://www.theregister.com/2025/08/01/windows_10_dev_comment/)
-- [Speak, Don&#39;t Type](https://www.typeless.com)
-- [Hashcat v7.0.0 Released](https://github.com/hashcat/hashcat/releases/tag/v7.0.0)
-- [ChatGPT scrubbed today nearly 50k shared conversations from Google](https://twitter.com/henkvaness/status/1951252284953763844/photo/1)
-- [It&#39;s not you, it&#39;s their bullshit](https://brilliantcrank.com/its-not-you-its-their-bullshit/)
-- [The Emacs dumper dispute &lpar;2016&rpar;](https://lwn.net/Articles/707615/)
-- [The Great Crime Paradox](https://www.ft.com/content/7488fe4c-5e1d-4b2b-adab-f42ad5273fc9)
-- [What does it mean for AI to be sovereign–and does that come before AGI?](https://news.ycombinator.com/item?id=44764598)
-- [Therac-25](https://en.wikipedia.org/wiki/Therac-25)
-- [Robert Wilson, experimental playwright, director and artist, has died, aged 83](https://www.theartnewspaper.com/2025/08/01/robert-wilson-playwright-director-artist-obituary)
+- [Making of Virtuous Chemists](https://www.nature.com/articles/s41557-025-01883-z)
+- [AI-generated ads versus human-generated ads: which converts better?](https://twitter.com/neilpatel/status/1741143873349701821)
+- [Amplifying Myself: How I Use Claude to Build a Premium App and a Blockchain Game](https://dragosroua.medium.com/amplifying-myself-how-i-use-claude-to-build-a-premium-app-and-a-blockchain-game-while-still-92bf24a11dca)
+- [EA and Battlefield 6 Drop Godot Bombshell [video]](https://www.youtube.com/watch?v=_aws2evvRVw)
+- [Qwen2.5-Coder-3B Fine-Tuned for Triton Kernel Gen](https://huggingface.co/TEEN-D/Qwen2.5-Coder-3B-KernelBook-Finetuned)
+- [Auction for a Kidney Pops Up on eBay&#39;s Site &lpar;1999&rpar;](https://www.nytimes.com/1999/09/03/us/auction-for-a-kidney-pops-up-on-ebay-s-site.html)
+- [Lobbying in the United States](https://en.wikipedia.org/wiki/Lobbying_in_the_United_States)
+- [Ask HN: What crypto payments options should I offer for my VPN?](https://news.ycombinator.com/item?id=44773760)
+- [Parsing Without ASTs and Optimizing with Sea of Nodes [video]](https://www.youtube.com/watch?v=NxiKlnUtyio)
+- [I&#39;ve just deleted five of my ideas](https://shime.sh/five-ideas)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

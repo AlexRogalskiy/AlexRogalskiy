@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Show HN: Voltpeek – Vim-inspired oscilloscope software](https://github.com/schuyler4/voltpeek)
-- [C++26 Reflections adventures and compile-time UML](https://www.reachablecode.com/2025/07/31/c26-reflections-adventures-compile-time-uml/)
-- [The Crisis of Professional Skepticism](https://mitchhorowitz.substack.com/p/the-crisis-of-professional-skepticism)
-- [HTML-in-Canvas](https://github.com/WICG/html-in-canvas)
-- [Lina Khan points to Figma IPO as vindication of M&amp;A scrutiny](https://techcrunch.com/2025/08/02/lina-khan-points-to-figma-ipo-as-vindication-for-ma-scrutiny/)
-- [Great Question &lpar;YC W21&rpar; Is Hiring a VP of Engineering &lpar;Remote&rpar;](https://www.ycombinator.com/companies/great-question/jobs/ONBQUqe-vp-of-engineering)
-- [Telo MT1](https://www.telotrucks.com/)
-- [Browser extension and local backend that automatically archives YouTube videos](https://github.com/andrewarrow/starchive)
-- [Hiding secret codes in light protects against fake videos](https://news.cornell.edu/stories/2025/07/hiding-secret-codes-light-protects-against-fake-videos)
-- [The /o in Ruby regex stands for &quot;oh the humanity &quot;](https://jpcamara.com/2025/08/02/the-o-in-ruby-regex.html)
+- [Poorest US workers hit hardest by slowing wage growth](https://www.ft.com/content/cfb77a53-fef8-4382-b102-c217e0aa4b25)
+- [Why doctors hate their computers &lpar;2018&rpar;](https://www.newyorker.com/magazine/2018/11/12/why-doctors-hate-their-computers)
+- [Typed languages are better suited for vibecoding](https://solmaz.io/typed-languages-are-better-suited-for-vibecoding)
+- [Learnable Programming &lpar;2012&rpar;](https://worrydream.com/LearnableProgramming/)
+- [Names are not type safety &lpar;2020&rpar;](https://lexi-lambda.github.io/blog/2020/11/01/names-are-not-type-safety/)
+- [How to grow almost anything](https://howtogrowalmostanything.notion.site/htgaa25)
+- [A study of lights at night suggests dictators lie about economic growth &lpar;2022&rpar;](https://www.economist.com/graphic-detail/2022/09/29/a-study-of-lights-at-night-suggests-dictators-lie-about-economic-growth)
+- [Human speech may have a universal transmission rate &lpar;2019&rpar;](https://www.science.org/content/article/human-speech-may-have-universal-transmission-rate-39-bits-second)
+- [So you want to parse a PDF?](https://eliot-jones.com/2025/8/pdf-parsing-xref)
+- [&quot;If you can rack it, you can run UniFi OS&quot; Ubiquiti self-hosted UniFi OS release](https://deluisio.com/networking/unifi/2025/08/03/everything-you-need-to-know-about-unifi-os-server-before-you-waste-time-testing-it/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

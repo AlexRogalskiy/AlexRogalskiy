@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Making of Virtuous Chemists](https://www.nature.com/articles/s41557-025-01883-z)
-- [AI-generated ads versus human-generated ads: which converts better?](https://twitter.com/neilpatel/status/1741143873349701821)
-- [Amplifying Myself: How I Use Claude to Build a Premium App and a Blockchain Game](https://dragosroua.medium.com/amplifying-myself-how-i-use-claude-to-build-a-premium-app-and-a-blockchain-game-while-still-92bf24a11dca)
-- [EA and Battlefield 6 Drop Godot Bombshell [video]](https://www.youtube.com/watch?v=_aws2evvRVw)
-- [Qwen2.5-Coder-3B Fine-Tuned for Triton Kernel Gen](https://huggingface.co/TEEN-D/Qwen2.5-Coder-3B-KernelBook-Finetuned)
-- [Auction for a Kidney Pops Up on eBay&#39;s Site &lpar;1999&rpar;](https://www.nytimes.com/1999/09/03/us/auction-for-a-kidney-pops-up-on-ebay-s-site.html)
-- [Lobbying in the United States](https://en.wikipedia.org/wiki/Lobbying_in_the_United_States)
-- [Ask HN: What crypto payments options should I offer for my VPN?](https://news.ycombinator.com/item?id=44773760)
-- [Parsing Without ASTs and Optimizing with Sea of Nodes [video]](https://www.youtube.com/watch?v=NxiKlnUtyio)
-- [I&#39;ve just deleted five of my ideas](https://shime.sh/five-ideas)
+- [National Book Lovers Day, Aug 9th](https://twitter.com/TeamBravoboard/status/1952208178307125434)
+- [When AI Systems Gaslight Users About Reality](https://theramm.substack.com/p/when-ai-systems-gaslight-users-about)
+- [Show HN: Labubu Merge – Cute and Relaxing Merge Puzzle Game](https://labubumerge.com)
+- [Beheader: Polyglot Generator for Media Files](https://github.com/p2r3/beheader)
+- [Proton Authenticator logs full TOTP secrets in plaintext](https://www.reddit.com/r/privacy/s/CwxdZZOCZ7)
+- [Apple&#39;s ChatGPT Rival from New &#39;Answers&#39; Team](https://www.bloomberg.com/news/newsletters/2025-08-03/apple-s-chatgpt-rival-from-new-answers-team-iphone-17-spotted-in-the-wild-mdvmqs6g)
+- [The web is my favorite OS](https://grubz.net/2025/08/01/the-web-is-my-favorite.html)
+- [XGBoosting](https://xgboosting.com/)
+- [Does Anyone Use Old Models?](https://www.robinsloan.com/lab/old-models/)
+- [The Phone in the Backpack](https://domofutu.substack.com/p/the-phone-in-the-backpack)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

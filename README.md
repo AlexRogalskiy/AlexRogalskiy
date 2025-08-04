@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Body found in collapsed Chile mine as search continues for trapped miners](https://www.theguardian.com/world/2025/aug/03/body-found-in-collapsed-chile-mine-as-search-continues-for-trapped-miners-copper-codelco)
-- [Trump news at a glance: inquiry launched into Trump prosecutor as backlash grows over firing of statistics chief](https://www.theguardian.com/us-news/2025/aug/03/trump-administration-news-today-latest-updates)
-- [Ukraine war briefing: Kyiv faces Russian missile attack as both sides trade strikes](https://www.theguardian.com/world/2025/aug/03/ukraine-war-briefing-kyiv-faces-russian-missile-attack-as-both-sides-trade-strikes)
-- [Social media ads promoting small boat crossings to UK to be banned](https://www.theguardian.com/uk-news/2025/aug/02/social-media-ads-promoting-small-boat-crossings-to-uk-to-be-banned)
-- [Pope Leo XIV gets rock star welcome from young Catholics at huge vigil](https://www.theguardian.com/world/2025/aug/02/pope-leo-xiv-gets-rock-star-welcome-from-young-catholics-at-huge-vigil)
-- [UK has got ‘fat’ on decades of free labour by women, says MP Jess Phillips](https://www.theguardian.com/politics/2025/aug/02/uk-has-got-fat-on-decades-of-free-labour-by-women-says-mp-jess-phillips)
-- [The Count of Monte Cristo review – you’ll have to pause every 45 seconds to shake your head at its daftness](https://www.theguardian.com/tv-and-radio/2025/aug/02/the-count-of-monte-cristo-review-series-jeremy-irons-sam-claflin)
-- [Teresa Palmer: ‘What’s the strangest thing in my fridge? Oh my God – there is slime’](https://www.theguardian.com/tv-and-radio/2025/aug/03/teresa-palmer-the-family-next-door-10-questions-interview)
-- [What? They’re doing raves in the morning now? With coffee? At a cafe?](https://www.theguardian.com/food/2025/aug/03/what-theyre-doing-raves-in-the-morning-now-with-coffee-at-a-cafe)
-- [Nostalgia is eating us alive. Instead of building a new world, we’re regurgitating a past that never existed | Martin Ingle](https://www.theguardian.com/commentisfree/2025/aug/03/nostalgia-is-eating-us-alive-instead-of-building-a-new-world-were-regurgitating-a-past-that-never-existed)
+- [Sydney’s huge Gaza protest shows there’s now no stopping the tide of public opinion | Sarah Malik](https://www.theguardian.com/commentisfree/2025/aug/04/sydneys-huge-gaza-protest-shows-theres-now-no-stopping-the-tide-of-public-opinion-ntwnfb)
+- [The Tesla whistleblower and the cost of taking on Elon Musk - podcast](https://www.theguardian.com/news/audio/2025/aug/04/the-tesla-whistleblower-and-the-cost-of-taking-on-elon-musk-podcast)
+- [Ukraine war briefing: Top Trump aide accuses India of financing Russian war by buying oil](https://www.theguardian.com/world/2025/aug/04/ukraine-war-briefing-top-trump-aide-accuses-india-of-financing-russian-war-by-buying-oil)
+- [Loni Anderson, star of 1980s sitcom WKRP in Cincinnati, dies aged 79](https://www.theguardian.com/us-news/2025/aug/03/loni-anderson-actor-death)
+- [Premier League 2025-26 preview No 1: Arsenal](https://www.theguardian.com/football/2025/aug/04/premier-league-2025-26-preview-no-1-arsenal)
+- [High street banks lose £100bn in deposits as UK savers shift to online rivals](https://www.theguardian.com/business/2025/aug/04/high-street-banks-lose-100bn-deposits-uk-savers-shift-online-rivals)
+- [Rewilding group to assess possible return of white storks to London](https://www.theguardian.com/environment/2025/aug/04/rewilding-group-to-assess-possible-return-of-white-storks-to-london)
+- [Lucy Letby: Beyond Reasonable Doubt? review – one of the most meticulous documentaries in years](https://www.theguardian.com/tv-and-radio/2025/aug/03/lucy-letby-beyond-reasonable-doubt-review-documentary-itv1-itvx)
+- [World in $1.5tn ‘plastics crisis’ hitting health from infancy to old age, report warns](https://www.theguardian.com/environment/2025/aug/03/world-in-15tn-plastics-crisis-hitting-health-from-infancy-to-old-age-report-warns)
+- [James Maddison knee injury mars Son Heung-min’s Spurs send off in Seoul](https://www.theguardian.com/football/2025/aug/03/james-maddison-injury-son-heung-min-tottenham)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

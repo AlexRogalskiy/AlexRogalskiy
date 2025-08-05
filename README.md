@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Sydney’s huge Gaza protest shows there’s now no stopping the tide of public opinion | Sarah Malik](https://www.theguardian.com/commentisfree/2025/aug/04/sydneys-huge-gaza-protest-shows-theres-now-no-stopping-the-tide-of-public-opinion-ntwnfb)
-- [The Tesla whistleblower and the cost of taking on Elon Musk - podcast](https://www.theguardian.com/news/audio/2025/aug/04/the-tesla-whistleblower-and-the-cost-of-taking-on-elon-musk-podcast)
-- [Ukraine war briefing: Top Trump aide accuses India of financing Russian war by buying oil](https://www.theguardian.com/world/2025/aug/04/ukraine-war-briefing-top-trump-aide-accuses-india-of-financing-russian-war-by-buying-oil)
-- [Loni Anderson, star of 1980s sitcom WKRP in Cincinnati, dies aged 79](https://www.theguardian.com/us-news/2025/aug/03/loni-anderson-actor-death)
-- [Premier League 2025-26 preview No 1: Arsenal](https://www.theguardian.com/football/2025/aug/04/premier-league-2025-26-preview-no-1-arsenal)
-- [High street banks lose £100bn in deposits as UK savers shift to online rivals](https://www.theguardian.com/business/2025/aug/04/high-street-banks-lose-100bn-deposits-uk-savers-shift-online-rivals)
-- [Rewilding group to assess possible return of white storks to London](https://www.theguardian.com/environment/2025/aug/04/rewilding-group-to-assess-possible-return-of-white-storks-to-london)
-- [Lucy Letby: Beyond Reasonable Doubt? review – one of the most meticulous documentaries in years](https://www.theguardian.com/tv-and-radio/2025/aug/03/lucy-letby-beyond-reasonable-doubt-review-documentary-itv1-itvx)
-- [World in $1.5tn ‘plastics crisis’ hitting health from infancy to old age, report warns](https://www.theguardian.com/environment/2025/aug/03/world-in-15tn-plastics-crisis-hitting-health-from-infancy-to-old-age-report-warns)
-- [James Maddison knee injury mars Son Heung-min’s Spurs send off in Seoul](https://www.theguardian.com/football/2025/aug/03/james-maddison-injury-son-heung-min-tottenham)
+- [Hiroshima’s fading legacy: the race to secure survivor’s memories amid a new era of nuclear brinkmanship](https://www.theguardian.com/world/2025/aug/05/hiroshima-atomic-bomb-80-year-anniversary-survivors)
+- [Trump news at a glance: political battle in Texas escalates and president under fire for firing labor statistics chief](https://www.theguardian.com/us-news/2025/aug/05/trump-administration-news-today-latest-updates)
+- [Ukraine war briefing: Netherlands to buy €500m of US arms for Kyiv in first for new Nato supply line](https://www.theguardian.com/world/2025/aug/05/ukraine-war-briefing-netherlands-to-buy-500m-of-us-arms-for-kyiv-in-first-for-new-nato-supply-line)
+- [Jim Acosta interviews ‘made-up’ AI avatar of Parkland victim Joaquin Oliver](https://www.theguardian.com/us-news/2025/aug/04/jim-acosta-parkland-shooting-victim-ai-interview)
+- [Premier League 2025-26 preview No 3: Bournemouth](https://www.theguardian.com/football/2025/aug/05/premier-league-2025-26-preview-no-3-bournemouth-football)
+- [US condemns Brazil supreme court judge for ordering house arrest of ex-president Jair Bolsonaro](https://www.theguardian.com/world/2025/aug/04/brazil-jair-bolsonaro-house-arrest-supreme-court)
+- [UK to start small boats returns to France ‘within days’ after EU gives green light](https://www.theguardian.com/uk-news/2025/aug/04/uk-to-start-small-boats-returns-france-within-days-after-eu-gives-green-light)
+- [Emma Raducanu adds Rafael Nadal’s former coach Francisco Roig to her team](https://www.theguardian.com/sport/2025/aug/04/emma-raducanu-adds-rafael-nadals-former-coach-francisco-roig-to-her-team)
+- [Creepy Boys: Slugs review – howling existential rave through modern life’s mayhem](https://www.theguardian.com/stage/2025/aug/04/creepy-boys-slugs-review-absurdist-duo-summerhall-edinburgh)
+- [Nine missing, including child and Irish missionary, after mass kidnapping at Haiti orphanage](https://www.theguardian.com/world/2025/aug/04/haiti-mass-kidnapping-orphanage)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

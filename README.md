@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [National Book Lovers Day, Aug 9th](https://twitter.com/TeamBravoboard/status/1952208178307125434)
-- [When AI Systems Gaslight Users About Reality](https://theramm.substack.com/p/when-ai-systems-gaslight-users-about)
-- [Show HN: Labubu Merge – Cute and Relaxing Merge Puzzle Game](https://labubumerge.com)
-- [Beheader: Polyglot Generator for Media Files](https://github.com/p2r3/beheader)
-- [Proton Authenticator logs full TOTP secrets in plaintext](https://www.reddit.com/r/privacy/s/CwxdZZOCZ7)
-- [Apple&#39;s ChatGPT Rival from New &#39;Answers&#39; Team](https://www.bloomberg.com/news/newsletters/2025-08-03/apple-s-chatgpt-rival-from-new-answers-team-iphone-17-spotted-in-the-wild-mdvmqs6g)
-- [The web is my favorite OS](https://grubz.net/2025/08/01/the-web-is-my-favorite.html)
-- [XGBoosting](https://xgboosting.com/)
-- [Does Anyone Use Old Models?](https://www.robinsloan.com/lab/old-models/)
-- [The Phone in the Backpack](https://domofutu.substack.com/p/the-phone-in-the-backpack)
+- [Google Sheets Experts Became Experts](https://yogeshshinde.com/how-google-sheets-experts-became-experts/)
+- [Claude Code best practices [video]](https://www.youtube.com/watch?v=gv0WHhKelSE)
+- [Rotating Rigid Body Simulation – IOCCC 2024 Winner [video]](https://www.youtube.com/watch?v=stPHK493BA8)
+- [Astropanel: Terminal program for amateur astronomers with weather forcast](https://github.com/isene/astropanel)
+- [Crafting &quot;Crafting Interpreters&quot; &lpar;2020&rpar;](https://journal.stuffwithstuff.com/2020/04/05/crafting-crafting-interpreters/)
+- [The Missing Missing Reasons](https://www.issendai.com/psychology/estrangement/missing-missing-reasons.html)
+- [The Anatomy of the Most Affordable Travel T-Shirt](https://www.carryology.com/travel/the-anatomy-of-the-worlds-most-affordable-travel-t-shirt/)
+- [Amp: Oracle](https://ampcode.com/news/oracle)
+- [Anatomy of the &lpar;known&rpar; health damage caused by plastics](https://english.elpais.com/science-tech/2025-08-04/anatomy-of-the-known-health-damage-caused-by-plastics-grave-growing-and-under-recognized.html)
+- [Cordoomceps – replacing an Amiga&#39;s brain with Doom](https://mjg59.dreamwidth.org/73001.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Google Sheets Experts Became Experts](https://yogeshshinde.com/how-google-sheets-experts-became-experts/)
-- [Claude Code best practices [video]](https://www.youtube.com/watch?v=gv0WHhKelSE)
-- [Rotating Rigid Body Simulation – IOCCC 2024 Winner [video]](https://www.youtube.com/watch?v=stPHK493BA8)
-- [Astropanel: Terminal program for amateur astronomers with weather forcast](https://github.com/isene/astropanel)
-- [Crafting &quot;Crafting Interpreters&quot; &lpar;2020&rpar;](https://journal.stuffwithstuff.com/2020/04/05/crafting-crafting-interpreters/)
-- [The Missing Missing Reasons](https://www.issendai.com/psychology/estrangement/missing-missing-reasons.html)
-- [The Anatomy of the Most Affordable Travel T-Shirt](https://www.carryology.com/travel/the-anatomy-of-the-worlds-most-affordable-travel-t-shirt/)
-- [Amp: Oracle](https://ampcode.com/news/oracle)
-- [Anatomy of the &lpar;known&rpar; health damage caused by plastics](https://english.elpais.com/science-tech/2025-08-04/anatomy-of-the-known-health-damage-caused-by-plastics-grave-growing-and-under-recognized.html)
-- [Cordoomceps – replacing an Amiga&#39;s brain with Doom](https://mjg59.dreamwidth.org/73001.html)
+- [Genes are passports in coercive sci-fi world of &#39;Code 46&#39; &lpar;2004&rpar;](https://www.sfgate.com/movies/article/Lovers-who-long-to-set-others-free-Genes-are-2701812.php)
+- [Open Sourcing Shaper: Minimal Data Platform for Embedded Analytics](https://github.com/taleshape-com/shaper)
+- [The oil-natural gas conundrum](https://www.marketplace.org/episode/2025/08/05/the-oilnatural-gas-conundrum)
+- [Health Secretary cancels $500M in mRNA vaccine research](https://www.cbsnews.com/news/rfk-jr-halts-500-million-for-mrna-vaccine-research/)
+- [I&#39;m Archiving Picocrypt](https://github.com/Picocrypt/Picocrypt/issues/134)
+- [Rust Making Progress on Its 2025 Project Goals](https://www.phoronix.com/news/Rust-2025-Goals-H1)
+- [Marines now have an official drone-fighting handbook](https://www.marinecorpstimes.com/news/your-marine-corps/2025/08/04/the-marines-now-have-an-official-drone-fighting-handbook/)
+- [Fail-Open: Reckless or Resilient?](https://nextorbit.co/2025/07/31/what-is-fail-open-architecture-and-why-smart-teams-strategically-adopt-it/)
+- [Omarchy Is on the Move](https://world.hey.com/dhh/omarchy-is-on-the-move-8f848fa4?__readwiseLocation=)
+- [Red Pitaya and TI Collaborate on New STEMlab Boards for High Performance DAQ](https://linuxgizmos.com/red-pitaya-and-texas-instruments-collaborate-on-new-stemlab-boards-for-high-performance-data-acquisition/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

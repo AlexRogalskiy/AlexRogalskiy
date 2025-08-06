@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Hiroshima’s fading legacy: the race to secure survivor’s memories amid a new era of nuclear brinkmanship](https://www.theguardian.com/world/2025/aug/05/hiroshima-atomic-bomb-80-year-anniversary-survivors)
-- [Trump news at a glance: political battle in Texas escalates and president under fire for firing labor statistics chief](https://www.theguardian.com/us-news/2025/aug/05/trump-administration-news-today-latest-updates)
-- [Ukraine war briefing: Netherlands to buy €500m of US arms for Kyiv in first for new Nato supply line](https://www.theguardian.com/world/2025/aug/05/ukraine-war-briefing-netherlands-to-buy-500m-of-us-arms-for-kyiv-in-first-for-new-nato-supply-line)
-- [Jim Acosta interviews ‘made-up’ AI avatar of Parkland victim Joaquin Oliver](https://www.theguardian.com/us-news/2025/aug/04/jim-acosta-parkland-shooting-victim-ai-interview)
-- [Premier League 2025-26 preview No 3: Bournemouth](https://www.theguardian.com/football/2025/aug/05/premier-league-2025-26-preview-no-3-bournemouth-football)
-- [US condemns Brazil supreme court judge for ordering house arrest of ex-president Jair Bolsonaro](https://www.theguardian.com/world/2025/aug/04/brazil-jair-bolsonaro-house-arrest-supreme-court)
-- [UK to start small boats returns to France ‘within days’ after EU gives green light](https://www.theguardian.com/uk-news/2025/aug/04/uk-to-start-small-boats-returns-france-within-days-after-eu-gives-green-light)
-- [Emma Raducanu adds Rafael Nadal’s former coach Francisco Roig to her team](https://www.theguardian.com/sport/2025/aug/04/emma-raducanu-adds-rafael-nadals-former-coach-francisco-roig-to-her-team)
-- [Creepy Boys: Slugs review – howling existential rave through modern life’s mayhem](https://www.theguardian.com/stage/2025/aug/04/creepy-boys-slugs-review-absurdist-duo-summerhall-edinburgh)
-- [Nine missing, including child and Irish missionary, after mass kidnapping at Haiti orphanage](https://www.theguardian.com/world/2025/aug/04/haiti-mass-kidnapping-orphanage)
+- [How rising seas are threatening the crucial art of weaving in Samoa](https://www.theguardian.com/environment/2025/aug/06/how-rising-seas-are-threatening-the-crucial-art-of-weaving-in-samoa)
+- [Ukraine war briefing: Call for Nato action after Russian drone intrudes on Lithuania](https://www.theguardian.com/world/2025/aug/06/ukraine-war-briefing-call-for-nato-action-after-russian-drone-intrudes-on-lithuania)
+- [Francis Ford Coppola in hospital in Rome for ‘scheduled’ procedure](https://www.theguardian.com/film/2025/aug/05/francis-ford-coppola-hospital-rome)
+- [China’s cyber-abuse scandal: is the government unwilling to crack down on exploitation of women online?](https://www.theguardian.com/world/2025/aug/06/china-online-abuse-women-telegram-scandal-government)
+- [Antisemitic incidents spiked in UK after Bob Vylan’s Glastonbury anti-IDF chants, says charity](https://www.theguardian.com/news/2025/aug/05/antisemitic-incidents-spiked-in-uk-after-bob-vylan-glastonbury-anti-idf-chants)
+- [Rachel Reeves needs to put up taxes to cover £40bn deficit, thinktank says](https://www.theguardian.com/politics/2025/aug/06/tax-rises-budget-deficit-rachel-reeves-niesr)
+- [Premier League 2025-26 preview No 5: Brighton](https://www.theguardian.com/football/2025/aug/06/premier-league-2025-26-preview-no-5-brighton)
+- [Increase in vapes found on Britain’s coastline by beach clean volunteers](https://www.theguardian.com/environment/2025/aug/06/increase-vapes-found-britain-coastline-beach-clean-volunteers)
+- [Prince Harry among those criticised in report on dispute at Sentebale charity](https://www.theguardian.com/uk-news/2025/aug/06/prince-harry-among-those-criticised-in-report-on-dispute-at-sentebale-charity)
+- [News Corp warns Trump AI is pillaging contents of The Art of the Deal](https://www.theguardian.com/us-news/2025/aug/05/news-corp-trump-ai-art-of-the-deal)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

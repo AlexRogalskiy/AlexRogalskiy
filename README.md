@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Tell HN: Anthropic expires paid credits after a year](https://news.ycombinator.com/item?id=44793446)
-- [3D Line Drawings](https://amritkwatra.com/experiments/3d-line-drawings)
-- [EconTeen – Financial literacy lessons and tools for teens](https://econteen.com/)
-- [Show HN: I&#39;ve been building an ERP for manufacturing for the last 3 years](https://github.com/crbnos/carbon)
-- [Thingino: Open-Source Firmware for IP Cameras](https://thingino.com/)
-- [Once a death sentence, cardiac amyloidosis is finally treatable](https://www.nytimes.com/2025/08/04/well/cardiac-amyloidosis.html)
-- [Content-Aware Spaced Repetition](https://www.giacomoran.com/blog/content-aware-sr/)
-- [Passkeys are just passwords that require a password manager](https://danfabulich.medium.com/passkeys-are-just-passwords-that-require-a-password-manager-ebb7f2fdcadf)
-- [NASA&#39;s Curiosity picks up new skills](https://www.jpl.nasa.gov/news/marking-13-years-on-mars-nasas-curiosity-picks-up-new-skills/)
-- [Ask HN: What trick of the trade took you too long to learn?](https://news.ycombinator.com/item?id=44789068)
+- [Marines now have an official drone-fighting handbook](https://www.marinecorpstimes.com/news/your-marine-corps/2025/08/04/the-marines-now-have-an-official-drone-fighting-handbook/)
+- [I built a tool to help people remove their info from the Tea App](https://www.suetea.com/)
+- [Software Rot](https://permacomputing.net/software_rot/)
+- [US tech rules the European market](https://proton.me/blog/us-tech-rules-europe)
+- [Drivers who appeal school speed zone camera fines almost guaranteed to lose](https://www.abcactionnews.com/news/state/theres-no-point-in-fighting-drivers-who-appeal-school-speed-zone-camera-fines-almost-guaranteed-to-lose)
+- [If you&#39;re a direct employee of HP/Compaq you&#39;re not allowed to look at this code](https://www.ukcert.org.uk/repository/exploits/NETSYS_COM%20-%20The%20Intelligent%20Hacker%27s%20Choice%20-%20http--www_netsys_com-library-alerts-2002-08-05-dxchpwd.txt)
+- [Kitten TTS: 25MB CPU-Only, Open-Source Voice Model](https://algogist.com/kitten-tts-the-25mb-ai-voice-model-thats-about-to-change-everything-runs-on-a-potato/)
+- [Create personal illustrated storybooks in the Gemini app](https://blog.google/products/gemini/storybooks/)
+- [Kyber &lpar;YC W23&rpar; is hiring enterprise account executives](https://www.ycombinator.com/companies/kyber/jobs/6RvaAVR-enterprise-account-executive-ae)
+- [What&#39;s wrong with the JSON gem API?](https://byroot.github.io/ruby/json/2025/08/02/whats-wrong-with-the-json-gem-api.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

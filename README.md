@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Genes are passports in coercive sci-fi world of &#39;Code 46&#39; &lpar;2004&rpar;](https://www.sfgate.com/movies/article/Lovers-who-long-to-set-others-free-Genes-are-2701812.php)
-- [Open Sourcing Shaper: Minimal Data Platform for Embedded Analytics](https://github.com/taleshape-com/shaper)
-- [The oil-natural gas conundrum](https://www.marketplace.org/episode/2025/08/05/the-oilnatural-gas-conundrum)
-- [Health Secretary cancels $500M in mRNA vaccine research](https://www.cbsnews.com/news/rfk-jr-halts-500-million-for-mrna-vaccine-research/)
-- [I&#39;m Archiving Picocrypt](https://github.com/Picocrypt/Picocrypt/issues/134)
-- [Rust Making Progress on Its 2025 Project Goals](https://www.phoronix.com/news/Rust-2025-Goals-H1)
-- [Marines now have an official drone-fighting handbook](https://www.marinecorpstimes.com/news/your-marine-corps/2025/08/04/the-marines-now-have-an-official-drone-fighting-handbook/)
-- [Fail-Open: Reckless or Resilient?](https://nextorbit.co/2025/07/31/what-is-fail-open-architecture-and-why-smart-teams-strategically-adopt-it/)
-- [Omarchy Is on the Move](https://world.hey.com/dhh/omarchy-is-on-the-move-8f848fa4?__readwiseLocation=)
-- [Red Pitaya and TI Collaborate on New STEMlab Boards for High Performance DAQ](https://linuxgizmos.com/red-pitaya-and-texas-instruments-collaborate-on-new-stemlab-boards-for-high-performance-data-acquisition/)
+- [FDA approves breakthrough eye drops that fix near vision without glasses](https://newatlas.com/aging/age-related-near-sighted-drops-vizz/)
+- [Meet the AI Vegans](https://www.theguardian.com/commentisfree/2025/aug/06/meet-the-ai-vegans)
+- [Why Every AI Company Eventually Has to Pay the Universe &lpar;A Gangster Comedy&rpar;](https://medium.com/@ivanmworozi_52873/an-ai-tale-3ec2a0eefa8b)
+- [New York Times Revenue Jumps 9.7% from Subscriptions and Ads](https://www.nytimes.com/2025/08/06/business/media/new-york-times-earnings.html)
+- [Communication with Extraterrestrial Intelligence [pdf]](https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/cryptologic-spectrum/communications_with_extraterrestrial.pdf)
+- [How to Review Code](https://endler.dev/2025/how-to-review-code/)
+- [Coursera&#39;s Monetization Journey: From Zero to IPO](https://www.classcentral.com/report/coursera-monetization-revenues/)
+- [Apple made a 24k gold and glass statue for Donald Trump](https://www.theverge.com/news/737757/apple-president-donald-trump-ceo-tim-cook-glass-corning)
+- [Efficient AI: KV Caching and KV Sharing](https://blog.gaurav.ai/2025/08/05/kv-caching-kv-sharing/EfficientAITechniques:KVCachingandKVSharing)
+- [Thorsten Ball on Technical Blogging](https://writethatblog.substack.com/p/thorsten-ball-on-technical-blogging)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

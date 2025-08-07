@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [How rising seas are threatening the crucial art of weaving in Samoa](https://www.theguardian.com/environment/2025/aug/06/how-rising-seas-are-threatening-the-crucial-art-of-weaving-in-samoa)
-- [Ukraine war briefing: Call for Nato action after Russian drone intrudes on Lithuania](https://www.theguardian.com/world/2025/aug/06/ukraine-war-briefing-call-for-nato-action-after-russian-drone-intrudes-on-lithuania)
-- [Francis Ford Coppola in hospital in Rome for ‘scheduled’ procedure](https://www.theguardian.com/film/2025/aug/05/francis-ford-coppola-hospital-rome)
-- [China’s cyber-abuse scandal: is the government unwilling to crack down on exploitation of women online?](https://www.theguardian.com/world/2025/aug/06/china-online-abuse-women-telegram-scandal-government)
-- [Antisemitic incidents spiked in UK after Bob Vylan’s Glastonbury anti-IDF chants, says charity](https://www.theguardian.com/news/2025/aug/05/antisemitic-incidents-spiked-in-uk-after-bob-vylan-glastonbury-anti-idf-chants)
-- [Rachel Reeves needs to put up taxes to cover £40bn deficit, thinktank says](https://www.theguardian.com/politics/2025/aug/06/tax-rises-budget-deficit-rachel-reeves-niesr)
-- [Premier League 2025-26 preview No 5: Brighton](https://www.theguardian.com/football/2025/aug/06/premier-league-2025-26-preview-no-5-brighton)
-- [Increase in vapes found on Britain’s coastline by beach clean volunteers](https://www.theguardian.com/environment/2025/aug/06/increase-vapes-found-britain-coastline-beach-clean-volunteers)
-- [Prince Harry among those criticised in report on dispute at Sentebale charity](https://www.theguardian.com/uk-news/2025/aug/06/prince-harry-among-those-criticised-in-report-on-dispute-at-sentebale-charity)
-- [News Corp warns Trump AI is pillaging contents of The Art of the Deal](https://www.theguardian.com/us-news/2025/aug/05/news-corp-trump-ai-art-of-the-deal)
+- [Eddie Palmieri, pioneering Latin jazz musician and Grammy winner, dies aged 88](https://www.theguardian.com/music/2025/aug/07/eddie-palmieri-dies-aged-88-death-musician)
+- [Trump plans 100% tariffs on chips but spares companies ‘building in US’](https://www.theguardian.com/us-news/2025/aug/06/trump-tariffs-chips-semiconductors)
+- [Trump could meet Putin for Ukraine war talks ‘as soon as next week’](https://www.theguardian.com/world/2025/aug/06/steve-witkoff-putin-trump-envoy-talks-russia-ukraine-peace-deal)
+- [Trump announces Apple’s plan to invest $100bn in US manufacturing](https://www.theguardian.com/technology/2025/aug/06/trump-apple-us-manufacturing-investment)
+- [Border patrol agents jump out of rental truck and ambush people at LA Home Depot](https://www.theguardian.com/us-news/2025/aug/06/ice-border-patrol-home-depot-los-angeles)
+- [Integration classes and complaints offices: South Korea charts a path to a cohesive multicultural future](https://www.theguardian.com/world/2025/aug/07/south-korea-multicultural-country-future)
+- [Premier League 2025-26 preview No 7: Chelsea](https://www.theguardian.com/football/2025/aug/07/premier-league-2025-26-preview-no-7-chelsea)
+- [‘Unimaginably rare’ first edition of The Hobbit sells at auction for £43,000](https://www.theguardian.com/books/2025/aug/06/first-edition-of-the-hobbit-sells-for-record-breaking-43000)
+- [Eating chips regularly raises risk of type 2 diabetes by 20%, study finds](https://www.theguardian.com/food/2025/aug/06/eating-chips-regularly-raises-risk-of-type-2-diabetes-by-20-study-finds)
+- [Liquid butt lifts targeted in clampdown on England’s cosmetic ‘wild west’](https://www.theguardian.com/society/2025/aug/06/clapdown-wild-west-cosmetic-treatments-liquid-brazilian-butt-lifts)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

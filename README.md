@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [FDA approves breakthrough eye drops that fix near vision without glasses](https://newatlas.com/aging/age-related-near-sighted-drops-vizz/)
-- [Meet the AI Vegans](https://www.theguardian.com/commentisfree/2025/aug/06/meet-the-ai-vegans)
-- [Why Every AI Company Eventually Has to Pay the Universe &lpar;A Gangster Comedy&rpar;](https://medium.com/@ivanmworozi_52873/an-ai-tale-3ec2a0eefa8b)
-- [New York Times Revenue Jumps 9.7% from Subscriptions and Ads](https://www.nytimes.com/2025/08/06/business/media/new-york-times-earnings.html)
-- [Communication with Extraterrestrial Intelligence [pdf]](https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/cryptologic-spectrum/communications_with_extraterrestrial.pdf)
-- [How to Review Code](https://endler.dev/2025/how-to-review-code/)
-- [Coursera&#39;s Monetization Journey: From Zero to IPO](https://www.classcentral.com/report/coursera-monetization-revenues/)
-- [Apple made a 24k gold and glass statue for Donald Trump](https://www.theverge.com/news/737757/apple-president-donald-trump-ceo-tim-cook-glass-corning)
-- [Efficient AI: KV Caching and KV Sharing](https://blog.gaurav.ai/2025/08/05/kv-caching-kv-sharing/EfficientAITechniques:KVCachingandKVSharing)
-- [Thorsten Ball on Technical Blogging](https://writethatblog.substack.com/p/thorsten-ball-on-technical-blogging)
+- [Ask HN: Other funny public mishaps like OpenAI bar chart?](https://old.reddit.com/r/singularity/comments/1mk5qy0/openai_did_not_use_their_most_advanced_model_to/)
+- [Blueberry Hill](https://kieranhealy.org/blog/archives/2025/08/07/blueberry-hill/)
+- [Closing Thoughts](https://news.ycombinator.com/item?id=44833101)
+- [Covid-19 vaccine and settler colonialism &lpar;2022&rpar;](https://pmc.ncbi.nlm.nih.gov/articles/PMC9790952/)
+- [Digital Pet ID with QR Code – Keep Your Pet Safe and Connected](https://www.petidgenerator.com/)
+- [GPT-5 leaked system prompt](https://gist.github.com/maoxiaoke/f6d5b28f9104cd856a2622a084f46fd7)
+- [Convert your legacy liability into a competitive advantage](https://legacy-modernization.io/)
+- [The Paranoid Style in American Politics &lpar;1964&rpar;](https://harpers.org/archive/1964/11/the-paranoid-style-in-american-politics/)
+- [3D Printing Radiance Fields](https://arxiv.org/abs/2503.00887)
+- [GPT-5: &quot;How many times does the letter b appear in blueberry?&quot;](https://bsky.app/profile/kjhealy.co/post/3lvtxbtexg226)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

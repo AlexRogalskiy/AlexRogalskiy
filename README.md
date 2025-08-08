@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Mac history echoes in current Mac operating systems](http://tenfourfox.blogspot.com/2025/08/mac-history-echoes-in-mac-operating.html)
-- [We replaced passwords with something worse](https://blog.danielh.cc/blog/passwords)
-- [A Candidate Giant Planet Imaged in the Habitable Zone of α Cen A](https://arxiv.org/abs/2508.03814)
-- [The Inkhaven Blogging Residency](https://www.inkhaven.blog/)
-- [Rules by Which a Great Empire May Be Reduced to a Small One &lpar;1773&rpar;](https://founders.archives.gov/documents/Franklin/01-20-02-0213)
-- [Out-Fibbing CPython with the Plush Interpreter](https://pointersgonewild.com/2025-08-06-out-fibbing-cpython-with-the-plush-interpreter/)
-- [Apple increases US commitment to $600B, announces American Manufacturing Program](https://www.apple.com/newsroom/2025/08/apple-increases-us-commitment-to-600-billion-usd-announces-ambitious-program/)
-- [Why Building Billing Systems Is So Painful &lpar;2024&rpar;](https://www.dmitry.ie/2024/why-building-billing-systems-is-so-painful)
-- [301party.com: Intentionally open redirect](https://301party.com/)
-- [The Bluesky Dictionary](https://www.avibagla.com/blueskydictionary/)
+- [The Paranoid Style in American Politics &lpar;1964&rpar;](https://harpers.org/archive/1964/11/the-paranoid-style-in-american-politics/)
+- [New executive order puts all grants under political control](https://arstechnica.com/science/2025/08/new-executive-order-puts-all-grants-under-political-control/)
+- [The fundamentals still matter](https://jordangoodman.bearblog.dev/fundamentals-still-matter/)
+- [Cursed Knowledge](https://immich.app/cursed-knowledge/)
+- [Vibechart](https://www.vibechart.net/)
+- [Achieving 10,000x training data reduction with high-fidelity labels](https://research.google/blog/achieving-10000x-training-data-reduction-with-high-fidelity-labels/)
+- [Flipper Zero dark web firmware bypasses rolling code security](https://www.rtl-sdr.com/flipperzero-darkweb-firmware-bypasses-rolling-code-security/)
+- [Cursor CLI](https://cursor.com/cli)
+- [Historical Tech Tree](https://www.historicaltechtree.com/)
+- [OpenAI&#39;s new open-source model is basically Phi-5](https://www.seangoedecke.com/gpt-oss-is-phi-5/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

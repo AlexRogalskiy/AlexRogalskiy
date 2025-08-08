@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Eddie Palmieri, pioneering Latin jazz musician and Grammy winner, dies aged 88](https://www.theguardian.com/music/2025/aug/07/eddie-palmieri-dies-aged-88-death-musician)
-- [Trump plans 100% tariffs on chips but spares companies ‘building in US’](https://www.theguardian.com/us-news/2025/aug/06/trump-tariffs-chips-semiconductors)
-- [Trump could meet Putin for Ukraine war talks ‘as soon as next week’](https://www.theguardian.com/world/2025/aug/06/steve-witkoff-putin-trump-envoy-talks-russia-ukraine-peace-deal)
-- [Trump announces Apple’s plan to invest $100bn in US manufacturing](https://www.theguardian.com/technology/2025/aug/06/trump-apple-us-manufacturing-investment)
-- [Border patrol agents jump out of rental truck and ambush people at LA Home Depot](https://www.theguardian.com/us-news/2025/aug/06/ice-border-patrol-home-depot-los-angeles)
-- [Integration classes and complaints offices: South Korea charts a path to a cohesive multicultural future](https://www.theguardian.com/world/2025/aug/07/south-korea-multicultural-country-future)
-- [Premier League 2025-26 preview No 7: Chelsea](https://www.theguardian.com/football/2025/aug/07/premier-league-2025-26-preview-no-7-chelsea)
-- [‘Unimaginably rare’ first edition of The Hobbit sells at auction for £43,000](https://www.theguardian.com/books/2025/aug/06/first-edition-of-the-hobbit-sells-for-record-breaking-43000)
-- [Eating chips regularly raises risk of type 2 diabetes by 20%, study finds](https://www.theguardian.com/food/2025/aug/06/eating-chips-regularly-raises-risk-of-type-2-diabetes-by-20-study-finds)
-- [Liquid butt lifts targeted in clampdown on England’s cosmetic ‘wild west’](https://www.theguardian.com/society/2025/aug/06/clapdown-wild-west-cosmetic-treatments-liquid-brazilian-butt-lifts)
+- [Myanmar military junta using European technology for drone attacks, report says](https://www.theguardian.com/world/2025/aug/08/myanmar-military-junta-using-european-technology-during-air-attacks-report-suggests)
+- [Middle East crisis live: Israel security cabinet approves plan to take over Gaza City amid reports of disagreements with military](https://www.theguardian.com/world/live/2025/aug/08/israel-gaza-city-take-over-netanyahu-plan-approved-live-updates-latest-news)
+- [Trump claims to have reached ‘historic’ peace deal between Armenia and Azerbaijan](https://www.theguardian.com/world/2025/aug/08/armenia-azerbaijan-peace-deal-trump-summit-claim)
+- [Trump administration doubles reward for arrest of Venezuela’s president to $50m](https://www.theguardian.com/us-news/2025/aug/07/trump-venezuela-maduro-arrest-bounty)
+- [Disney settles with Gina Carano in lawsuit backed by Elon Musk](https://www.theguardian.com/us-news/2025/aug/07/disney-settles-gina-carano-elon-musk)
+- [South Korea set to decide whether to let Google Maps finally work properly](https://www.theguardian.com/world/2025/aug/08/south-korea-google-maps-geographic-data-restrictions)
+- [Premier League 2025-26 preview No 9: Everton](https://www.theguardian.com/football/2025/aug/08/premier-league-2025-26-preview-no-9-everton)
+- [Venus Williams crashes out to Jessica Bouzas Maneiro at Cincinnati Open](https://www.theguardian.com/sport/2025/aug/07/venus-williams-jessica-bouzas-maneiro-cincinnati-open-first-round-tennis)
+- [Trump says he will meet Putin despite Kremlin’s refusal to talk to Kyiv](https://www.theguardian.com/world/2025/aug/07/kremlin-denies-putin-russia-meeting-trump-zelenskyy-ukraine)
+- [Scientists decry Trump energy chief’s plan to ‘update’ climate reports: ‘Exactly what Stalin did’](https://www.theguardian.com/us-news/2025/aug/07/climate-assessments-chris-wright-trump)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

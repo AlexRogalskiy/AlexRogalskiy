@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Myanmar military junta using European technology for drone attacks, report says](https://www.theguardian.com/world/2025/aug/08/myanmar-military-junta-using-european-technology-during-air-attacks-report-suggests)
-- [Middle East crisis live: Israel security cabinet approves plan to take over Gaza City amid reports of disagreements with military](https://www.theguardian.com/world/live/2025/aug/08/israel-gaza-city-take-over-netanyahu-plan-approved-live-updates-latest-news)
-- [Trump claims to have reached ‘historic’ peace deal between Armenia and Azerbaijan](https://www.theguardian.com/world/2025/aug/08/armenia-azerbaijan-peace-deal-trump-summit-claim)
-- [Trump administration doubles reward for arrest of Venezuela’s president to $50m](https://www.theguardian.com/us-news/2025/aug/07/trump-venezuela-maduro-arrest-bounty)
-- [Disney settles with Gina Carano in lawsuit backed by Elon Musk](https://www.theguardian.com/us-news/2025/aug/07/disney-settles-gina-carano-elon-musk)
-- [South Korea set to decide whether to let Google Maps finally work properly](https://www.theguardian.com/world/2025/aug/08/south-korea-google-maps-geographic-data-restrictions)
-- [Premier League 2025-26 preview No 9: Everton](https://www.theguardian.com/football/2025/aug/08/premier-league-2025-26-preview-no-9-everton)
-- [Venus Williams crashes out to Jessica Bouzas Maneiro at Cincinnati Open](https://www.theguardian.com/sport/2025/aug/07/venus-williams-jessica-bouzas-maneiro-cincinnati-open-first-round-tennis)
-- [Trump says he will meet Putin despite Kremlin’s refusal to talk to Kyiv](https://www.theguardian.com/world/2025/aug/07/kremlin-denies-putin-russia-meeting-trump-zelenskyy-ukraine)
-- [Scientists decry Trump energy chief’s plan to ‘update’ climate reports: ‘Exactly what Stalin did’](https://www.theguardian.com/us-news/2025/aug/07/climate-assessments-chris-wright-trump)
+- [Trump administration demands $1bn from UCLA to restore federal funding](https://www.theguardian.com/us-news/2025/aug/08/trump-ucla-settlement)
+- [Georgia: suspected gunman and police officer dead after shooting near CDC and Emory University](https://www.theguardian.com/us-news/2025/aug/08/atlanta-police-emory-university-georgia)
+- [Trump says he will meet Putin in Alaska next Friday to discuss Ukraine war](https://www.theguardian.com/us-news/2025/aug/08/trump-says-he-will-meet-putin-very-shortly-to-discuss-end-to-ukraine-war)
+- [Rapidly spreading brush fire prompts evacuations for thousands in California](https://www.theguardian.com/us-news/2025/aug/08/california-canyon-fire)
+- [Downbeat Howe ‘doesn’t know what future holds’ for Isak at Newcastle](https://www.theguardian.com/football/2025/aug/08/downbeat-howe-doesnt-know-what-future-holds-for-isak-at-newcastle)
+- [Montana mass shooting suspect captured after weeklong manhunt](https://www.theguardian.com/us-news/2025/aug/08/montana-mass-shooting-suspect-captured)
+- [Nicola Sturgeon says facing criminal inquiry was like ‘mental torture’](https://www.theguardian.com/politics/2025/aug/08/nicola-sturgeon-says-facing-criminal-inquiry-was-like-mental-torture)
+- [West coast sees highest Covid-19 levels as cases rise across US, CDC data says](https://www.theguardian.com/us-news/2025/aug/08/west-coast-high-covid-19-levels-cdc)
+- [Liverpool should be title favourites but not because of spending, insists Slot](https://www.theguardian.com/football/2025/aug/08/liverpool-should-be-title-favourites-but-not-because-of-spending-says-slot)
+- [Hirst’s late penalty earns Ipswich draw with Birmingham in Championship opener](https://www.theguardian.com/football/2025/aug/08/birmingham-ipswich-championship-match-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

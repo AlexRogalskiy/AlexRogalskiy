@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ask HN: Other funny public mishaps like OpenAI bar chart?](https://old.reddit.com/r/singularity/comments/1mk5qy0/openai_did_not_use_their_most_advanced_model_to/)
-- [Blueberry Hill](https://kieranhealy.org/blog/archives/2025/08/07/blueberry-hill/)
-- [Closing Thoughts](https://news.ycombinator.com/item?id=44833101)
-- [Covid-19 vaccine and settler colonialism &lpar;2022&rpar;](https://pmc.ncbi.nlm.nih.gov/articles/PMC9790952/)
-- [Digital Pet ID with QR Code – Keep Your Pet Safe and Connected](https://www.petidgenerator.com/)
-- [GPT-5 leaked system prompt](https://gist.github.com/maoxiaoke/f6d5b28f9104cd856a2622a084f46fd7)
-- [Convert your legacy liability into a competitive advantage](https://legacy-modernization.io/)
-- [The Paranoid Style in American Politics &lpar;1964&rpar;](https://harpers.org/archive/1964/11/the-paranoid-style-in-american-politics/)
-- [3D Printing Radiance Fields](https://arxiv.org/abs/2503.00887)
-- [GPT-5: &quot;How many times does the letter b appear in blueberry?&quot;](https://bsky.app/profile/kjhealy.co/post/3lvtxbtexg226)
+- [ChatGPT Plus Users Can Keep Using GPT-4o After Complaints About GPT-5](https://www.macrumors.com/2025/08/08/openai-gpt-5-complaints/)
+- [Trump calls for Intel boss to resign alleging China ties](https://www.bbc.com/news/articles/c70x6602pdyo)
+- [Some Self-Paced Kids Move Fast](https://www.oaklandlearn.org/blog/some-self-paced-kids-move-fast)
+- [I&#39;ve Been Doing Cold Outreach on X for the Past Few Days. Here&#39;s What I&#39;ve Got](https://news.ycombinator.com/item?id=44843712)
+- [Range Against the Machine¹ – Rivian OEM Wheels, Tires, and Range Considered](https://www.rivianforums.com/forum/threads/range-against-the-machine%C2%B9-rivian-oem-wheels-tires-and-range-considered.35687/#post-654173)
+- [Future AI bills racking up $100k/yr per dev?](https://blog.kilocode.ai/p/future-ai-spend-100k-per-dev)
+- [‘It’s a Mess’: A Brain-Bending Trip to Quantum Theory&#39;s 100th Birthday Party](https://www.quantamagazine.org/its-a-mess-a-brain-bending-trip-to-quantum-theorys-100th-birthday-party-20250808/)
+- [Let&#39;s properly analyze an AI article for once](https://nibblestew.blogspot.com/2025/08/lets-properly-analyze-ai-article-for.html)
+- [Improved defenses against corrupt ZIP archives in the zipfile extension](https://sqlite.org/src/info/2025-08-05T01:53z)
+- [Blender is Native on Windows 11 on Arm](https://www.thurrott.com/music-videos/324346/blender-is-native-on-windows-11-on-arm)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

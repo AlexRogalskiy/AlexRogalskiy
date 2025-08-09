@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The Paranoid Style in American Politics &lpar;1964&rpar;](https://harpers.org/archive/1964/11/the-paranoid-style-in-american-politics/)
-- [New executive order puts all grants under political control](https://arstechnica.com/science/2025/08/new-executive-order-puts-all-grants-under-political-control/)
-- [The fundamentals still matter](https://jordangoodman.bearblog.dev/fundamentals-still-matter/)
-- [Cursed Knowledge](https://immich.app/cursed-knowledge/)
-- [Vibechart](https://www.vibechart.net/)
-- [Achieving 10,000x training data reduction with high-fidelity labels](https://research.google/blog/achieving-10000x-training-data-reduction-with-high-fidelity-labels/)
-- [Flipper Zero dark web firmware bypasses rolling code security](https://www.rtl-sdr.com/flipperzero-darkweb-firmware-bypasses-rolling-code-security/)
-- [Cursor CLI](https://cursor.com/cli)
-- [Historical Tech Tree](https://www.historicaltechtree.com/)
-- [OpenAI&#39;s new open-source model is basically Phi-5](https://www.seangoedecke.com/gpt-oss-is-phi-5/)
+- [Why F# could be the next mainstream programming language &lpar;2024&rpar;](https://blog.snork.dev/posts/why-f--could-be-the-next-mainstream-programming-language-.html)
+- [Dial-up Internet to be discontinued](https://help.aol.com/articles/dial-up-internet-to-be-discontinued)
+- [Little-known leguminous plant can increase beef production by 60% &lpar;2022&rpar;](https://www.embrapa.br/en/busca-de-noticias/-/noticia/75361634/little-known-leguminous-plant-can-increase-beef-production-by-60)
+- [How to safely escape JSON inside HTML SCRIPT elements](https://sirre.al/2025/08/06/safe-json-in-script-tags-how-not-to-break-a-site/)
+- [Ask HN: How can ChatGPT serve 700M users when I can&#39;t run one GPT-4 locally?](https://news.ycombinator.com/item?id=44840728)
+- [Build durable workflows with Postgres](https://www.dbos.dev/blog/why-postgres-durable-execution)
+- [Efrit: A native elisp coding agent running in Emacs](https://github.com/steveyegge/efrit)
+- [Jim Lovell, Apollo 13 commander, has died](https://www.nasa.gov/news-release/acting-nasa-administrator-reflects-on-legacy-of-astronaut-jim-lovell/)
+- [I want everything local – Building my offline AI workspace](https://instavm.io/blog/building-my-offline-ai-workspace)
+- [The surprise deprecation of GPT-4o for ChatGPT consumers](https://simonwillison.net/2025/Aug/8/surprise-deprecation-of-gpt-4o/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

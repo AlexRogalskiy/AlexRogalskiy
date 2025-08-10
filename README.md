@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [ChatGPT Plus Users Can Keep Using GPT-4o After Complaints About GPT-5](https://www.macrumors.com/2025/08/08/openai-gpt-5-complaints/)
-- [Trump calls for Intel boss to resign alleging China ties](https://www.bbc.com/news/articles/c70x6602pdyo)
-- [Some Self-Paced Kids Move Fast](https://www.oaklandlearn.org/blog/some-self-paced-kids-move-fast)
-- [I&#39;ve Been Doing Cold Outreach on X for the Past Few Days. Here&#39;s What I&#39;ve Got](https://news.ycombinator.com/item?id=44843712)
-- [Range Against the Machine¹ – Rivian OEM Wheels, Tires, and Range Considered](https://www.rivianforums.com/forum/threads/range-against-the-machine%C2%B9-rivian-oem-wheels-tires-and-range-considered.35687/#post-654173)
-- [Future AI bills racking up $100k/yr per dev?](https://blog.kilocode.ai/p/future-ai-spend-100k-per-dev)
-- [‘It’s a Mess’: A Brain-Bending Trip to Quantum Theory&#39;s 100th Birthday Party](https://www.quantamagazine.org/its-a-mess-a-brain-bending-trip-to-quantum-theorys-100th-birthday-party-20250808/)
-- [Let&#39;s properly analyze an AI article for once](https://nibblestew.blogspot.com/2025/08/lets-properly-analyze-ai-article-for.html)
-- [Improved defenses against corrupt ZIP archives in the zipfile extension](https://sqlite.org/src/info/2025-08-05T01:53z)
-- [Blender is Native on Windows 11 on Arm](https://www.thurrott.com/music-videos/324346/blender-is-native-on-windows-11-on-arm)
+- [Making a Font of My Handwriting](https://chameth.com/making-a-font-of-my-handwriting/)
+- [What It&#39;s Like to Brainstorm with a Bot](https://www.newyorker.com/culture/the-weekend-essay/what-its-like-to-brainstorm-with-a-bot)
+- [R-Zero: Self-Evolving Reasoning LLM from Zero Data](https://arxiv.org/abs/2508.05004)
+- [LLM Evals Are Just Tests. Why Are We Making This So Complicated?](https://cameronwestland.com/llm-evals-are-just-tests-why-are-we-making-this-so-complicated)
+- [Tsukuba WIDE FTP server public mirror](https://ftp.tsukuba.wide.ad.jp/)
+- [eBay Stalking Scandal](https://en.wikipedia.org/wiki/EBay_stalking_scandal)
+- [Software Modernization Projects Dilemma &lpar;Part 1&rpar; – Should you do it?](https://medium.com/@HobokenDays/software-modernization-projects-dilemma-4bd96f3c6502)
+- [India and US launch &#39;first-of-its-kind&#39; satellite](https://www.bbc.com/news/articles/cy98jnreqvvo)
+- [Designing accessible color systems &lpar;2019&rpar;](https://stripe.com/blog/accessible-color-systems)
+- [Tell HN: Claude/Anthropic and Stripe Billing timezone discrepency](https://news.ycombinator.com/item?id=44852406)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

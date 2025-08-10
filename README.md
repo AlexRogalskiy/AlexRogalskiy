@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Why F# could be the next mainstream programming language &lpar;2024&rpar;](https://blog.snork.dev/posts/why-f--could-be-the-next-mainstream-programming-language-.html)
-- [Dial-up Internet to be discontinued](https://help.aol.com/articles/dial-up-internet-to-be-discontinued)
-- [Little-known leguminous plant can increase beef production by 60% &lpar;2022&rpar;](https://www.embrapa.br/en/busca-de-noticias/-/noticia/75361634/little-known-leguminous-plant-can-increase-beef-production-by-60)
-- [How to safely escape JSON inside HTML SCRIPT elements](https://sirre.al/2025/08/06/safe-json-in-script-tags-how-not-to-break-a-site/)
-- [Ask HN: How can ChatGPT serve 700M users when I can&#39;t run one GPT-4 locally?](https://news.ycombinator.com/item?id=44840728)
-- [Build durable workflows with Postgres](https://www.dbos.dev/blog/why-postgres-durable-execution)
-- [Efrit: A native elisp coding agent running in Emacs](https://github.com/steveyegge/efrit)
-- [Jim Lovell, Apollo 13 commander, has died](https://www.nasa.gov/news-release/acting-nasa-administrator-reflects-on-legacy-of-astronaut-jim-lovell/)
-- [I want everything local – Building my offline AI workspace](https://instavm.io/blog/building-my-offline-ai-workspace)
-- [The surprise deprecation of GPT-4o for ChatGPT consumers](https://simonwillison.net/2025/Aug/8/surprise-deprecation-of-gpt-4o/)
+- [Happy BuyNothing Day](https://justbuynothing.com/)
+- [GPTs and Feeling Left Behind](https://whynothugo.nl/journal/2025/08/06/gpts-and-feeling-left-behind/)
+- [How I code with AI on a budget/free](https://wuu73.org/blog/aiguide1.html)
+- [Abusing Entra OAuth for fun and access to internal Microsoft applications](https://research.eye.security/consent-and-compromise/)
+- [Curious about the training data of OpenAI&#39;s new GPT-OSS models? I was too](https://twitter.com/jxmnop/status/1953899426075816164)
+- [Ch.at – a lightweight LLM chat service accessible through HTTP, SSH, DNS and API](https://ch.at/)
+- [Debian 13 &quot;Trixie&quot;](https://www.debian.org/News/2025/20250809)
+- [A CT scanner reveals surprises inside the 386 processor&#39;s ceramic package](https://www.righto.com/2025/08/intel-386-package-ct-scan.html)
+- [An AI-first program synthesis framework built around a new programming language](https://queue.acm.org/detail.cfm?id=3746223)
+- [ESP32 Bus Pirate 0.5 – A hardware hacking tool that speaks every protocol](https://github.com/geo-tp/ESP32-Bus-Pirate)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

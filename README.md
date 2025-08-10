@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Trump administration demands $1bn from UCLA to restore federal funding](https://www.theguardian.com/us-news/2025/aug/08/trump-ucla-settlement)
-- [Georgia: suspected gunman and police officer dead after shooting near CDC and Emory University](https://www.theguardian.com/us-news/2025/aug/08/atlanta-police-emory-university-georgia)
-- [Trump says he will meet Putin in Alaska next Friday to discuss Ukraine war](https://www.theguardian.com/us-news/2025/aug/08/trump-says-he-will-meet-putin-very-shortly-to-discuss-end-to-ukraine-war)
-- [Rapidly spreading brush fire prompts evacuations for thousands in California](https://www.theguardian.com/us-news/2025/aug/08/california-canyon-fire)
-- [Downbeat Howe ‘doesn’t know what future holds’ for Isak at Newcastle](https://www.theguardian.com/football/2025/aug/08/downbeat-howe-doesnt-know-what-future-holds-for-isak-at-newcastle)
-- [Montana mass shooting suspect captured after weeklong manhunt](https://www.theguardian.com/us-news/2025/aug/08/montana-mass-shooting-suspect-captured)
-- [Nicola Sturgeon says facing criminal inquiry was like ‘mental torture’](https://www.theguardian.com/politics/2025/aug/08/nicola-sturgeon-says-facing-criminal-inquiry-was-like-mental-torture)
-- [West coast sees highest Covid-19 levels as cases rise across US, CDC data says](https://www.theguardian.com/us-news/2025/aug/08/west-coast-high-covid-19-levels-cdc)
-- [Liverpool should be title favourites but not because of spending, insists Slot](https://www.theguardian.com/football/2025/aug/08/liverpool-should-be-title-favourites-but-not-because-of-spending-says-slot)
-- [Hirst’s late penalty earns Ipswich draw with Birmingham in Championship opener](https://www.theguardian.com/football/2025/aug/08/birmingham-ipswich-championship-match-report)
+- [Trump news at a glance: Lutnick threatens Harvard patents; former Fox commentator bound for UN](https://www.theguardian.com/us-news/2025/aug/10/president-trump-administration-news-updates-latest)
+- [‘Irreparable loss’: Two Japanese boxers on same card die from brain injuries](https://www.theguardian.com/sport/2025/aug/10/two-japanese-boxers-on-same-card-die-from-brain-injuries)
+- [Ukraine war briefing: European leaders stress protection of Ukrainian interests ahead of Trump-Putin talks](https://www.theguardian.com/world/2025/aug/10/ukraine-war-briefing-europe-stresses-protection-of-ukrainian-interests-ahead-of-trump-putin-talks)
+- [Luke Littler lights up Wollongong with Australian Darts Masters victory](https://www.theguardian.com/sport/2025/aug/10/luke-littler-lights-up-wollongong-with-australian-darts-masters-victory)
+- [Lark Atkin-Davies doubles up in Red Roses’ power-packed win over France](https://www.theguardian.com/sport/2025/aug/09/rugby-union-red-roses-england-france-lark-atkin-davies-rugby-world-cup)
+- [Police arrest 474 people at protest over Palestine Action ban in London](https://www.theguardian.com/world/2025/aug/09/palestine-action-arrests-london-largest-protest-ban)
+- [Raducanu begins Roig partnership with victory against Danilovic in Cincinnati](https://www.theguardian.com/sport/2025/aug/09/emma-raducanu-francisco-roig-tennis-cincinnati-open)
+- [Foreign criminals convicted in UK to be deported immediately under new plans](https://www.theguardian.com/society/2025/aug/09/foreign-criminals-tried-uk-deported-immediately-new-plans)
+- [Transfer roundup: Liverpool confirm Darwin Núñez’s move to Al-Hilal](https://www.theguardian.com/football/2025/aug/09/transfer-roundup-liverpool-confirm-darwin-nunezs-move-to-al-hilal)
+- [Ordinary Decent Criminal review – Mark Thomas powers through tense prison drama](https://www.theguardian.com/stage/2025/aug/09/ordinary-decent-criminal-review-mark-thomas-summerhall-edinburgh)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

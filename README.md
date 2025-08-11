@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Making a Font of My Handwriting](https://chameth.com/making-a-font-of-my-handwriting/)
-- [What It&#39;s Like to Brainstorm with a Bot](https://www.newyorker.com/culture/the-weekend-essay/what-its-like-to-brainstorm-with-a-bot)
-- [R-Zero: Self-Evolving Reasoning LLM from Zero Data](https://arxiv.org/abs/2508.05004)
-- [LLM Evals Are Just Tests. Why Are We Making This So Complicated?](https://cameronwestland.com/llm-evals-are-just-tests-why-are-we-making-this-so-complicated)
-- [Tsukuba WIDE FTP server public mirror](https://ftp.tsukuba.wide.ad.jp/)
-- [eBay Stalking Scandal](https://en.wikipedia.org/wiki/EBay_stalking_scandal)
-- [Software Modernization Projects Dilemma &lpar;Part 1&rpar; – Should you do it?](https://medium.com/@HobokenDays/software-modernization-projects-dilemma-4bd96f3c6502)
-- [India and US launch &#39;first-of-its-kind&#39; satellite](https://www.bbc.com/news/articles/cy98jnreqvvo)
-- [Designing accessible color systems &lpar;2019&rpar;](https://stripe.com/blog/accessible-color-systems)
-- [Tell HN: Claude/Anthropic and Stripe Billing timezone discrepency](https://news.ycombinator.com/item?id=44852406)
+- [Five journalists killed in targeted Israeli airstrike on Gaza](https://www.theguardian.com/world/2025/aug/10/prominent-al-jazeera-journalist-killed-in-israeli-airstrike-on-gaza)
+- [Show HN: We are fixing memories for AI Teams](https://supercontext.dev/)
+- [Ask HN: What&#39;s Your Take on Perplexity AI?](https://news.ycombinator.com/item?id=44860542)
+- [Why Starter Story Founders Never Tell You How They Marketed Their First 10k+ MRR](https://www.getcassius.ai/blogs/starter-story-founders-hidden-marketing-strategies-2025)
+- [Apple Just Pulled the Plug on the AI Hype](https://ninza7.medium.com/apple-just-pulled-the-plug-on-the-ai-hype-heres-what-their-shocking-study-found-24ad42c234a0)
+- [Training LLMs over the Internet](https://www.tplr.ai/)
+- [Show HN: UwU – Generate CLI commands inline with GPT-5](https://github.com/context-labs/uwu)
+- [Cybertruck Leads Tesla&#39;s Used-Car Collapse](https://gizmodo.com/cybertruck-leads-teslas-used-car-collapse-2000641133)
+- [Beyond Meat is headed to Chapter 11 bankruptcy](https://www.thestreet.com/restaurants/beyond-meat-is-headed-to-chapter-11-bankruptcy)
+- [The Controversial Sound Only 2% of People Hear [video]](https://www.youtube.com/watch?v=zy_ctHNLan8)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

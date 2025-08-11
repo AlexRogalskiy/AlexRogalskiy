@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Happy BuyNothing Day](https://justbuynothing.com/)
-- [GPTs and Feeling Left Behind](https://whynothugo.nl/journal/2025/08/06/gpts-and-feeling-left-behind/)
-- [How I code with AI on a budget/free](https://wuu73.org/blog/aiguide1.html)
-- [Abusing Entra OAuth for fun and access to internal Microsoft applications](https://research.eye.security/consent-and-compromise/)
-- [Curious about the training data of OpenAI&#39;s new GPT-OSS models? I was too](https://twitter.com/jxmnop/status/1953899426075816164)
-- [Ch.at – a lightweight LLM chat service accessible through HTTP, SSH, DNS and API](https://ch.at/)
-- [Debian 13 &quot;Trixie&quot;](https://www.debian.org/News/2025/20250809)
-- [A CT scanner reveals surprises inside the 386 processor&#39;s ceramic package](https://www.righto.com/2025/08/intel-386-package-ct-scan.html)
-- [An AI-first program synthesis framework built around a new programming language](https://queue.acm.org/detail.cfm?id=3746223)
-- [ESP32 Bus Pirate 0.5 – A hardware hacking tool that speaks every protocol](https://github.com/geo-tp/ESP32-Bus-Pirate)
+- [Vanishing from Hyundai’s data network](http://techno-fandom.org/~hobbit/cars/ev/offnet.html)
+- [Optimizing My Sleep Around Claude Usage Limits](https://mattwie.se/no-sleep-till-agi)
+- [Show HN: Reactive: A React Book for the Reluctant &lpar;written by Claude&rpar;](https://github.com/cloudstreet-dev/React-is-Awful)
+- [Show HN: A Sinclair ZX81 retro web assembler+simulator](https://news.ycombinator.com/item?id=44859761)
+- [Compiling a Lisp: Lambda lifting](https://bernsteinbear.com/blog/compiling-a-lisp-12/)
+- [1910: The year the modern world lost its mind](https://www.derekthompson.org/p/1910-the-year-the-modern-world-lost)
+- [One Million Screenshots](https://onemillionscreenshots.com/?q=random)
+- [Events](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Events)
+- [Conversations remotely detected from cell phone vibrations, researchers report](https://www.psu.edu/news/engineering/story/conversations-remotely-detected-cell-phone-vibrations-researchers-report)
+- [Show HN: Bolt – A super-fast, statically-typed scripting language written in C](https://github.com/Beariish/bolt)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

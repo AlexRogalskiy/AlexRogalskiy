@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Trump news at a glance: Lutnick threatens Harvard patents; former Fox commentator bound for UN](https://www.theguardian.com/us-news/2025/aug/10/president-trump-administration-news-updates-latest)
-- [‘Irreparable loss’: Two Japanese boxers on same card die from brain injuries](https://www.theguardian.com/sport/2025/aug/10/two-japanese-boxers-on-same-card-die-from-brain-injuries)
-- [Ukraine war briefing: European leaders stress protection of Ukrainian interests ahead of Trump-Putin talks](https://www.theguardian.com/world/2025/aug/10/ukraine-war-briefing-europe-stresses-protection-of-ukrainian-interests-ahead-of-trump-putin-talks)
-- [Luke Littler lights up Wollongong with Australian Darts Masters victory](https://www.theguardian.com/sport/2025/aug/10/luke-littler-lights-up-wollongong-with-australian-darts-masters-victory)
-- [Lark Atkin-Davies doubles up in Red Roses’ power-packed win over France](https://www.theguardian.com/sport/2025/aug/09/rugby-union-red-roses-england-france-lark-atkin-davies-rugby-world-cup)
-- [Police arrest 474 people at protest over Palestine Action ban in London](https://www.theguardian.com/world/2025/aug/09/palestine-action-arrests-london-largest-protest-ban)
-- [Raducanu begins Roig partnership with victory against Danilovic in Cincinnati](https://www.theguardian.com/sport/2025/aug/09/emma-raducanu-francisco-roig-tennis-cincinnati-open)
-- [Foreign criminals convicted in UK to be deported immediately under new plans](https://www.theguardian.com/society/2025/aug/09/foreign-criminals-tried-uk-deported-immediately-new-plans)
-- [Transfer roundup: Liverpool confirm Darwin Núñez’s move to Al-Hilal](https://www.theguardian.com/football/2025/aug/09/transfer-roundup-liverpool-confirm-darwin-nunezs-move-to-al-hilal)
-- [Ordinary Decent Criminal review – Mark Thomas powers through tense prison drama](https://www.theguardian.com/stage/2025/aug/09/ordinary-decent-criminal-review-mark-thomas-summerhall-edinburgh)
+- [China diplomat tipped as next foreign minister detained by authorities – report](https://www.theguardian.com/world/2025/aug/11/liu-jianchao-china-diplomat-detained-beijing)
+- [Ray Brooks, British actor and voice of Mr Benn, dies aged 86](https://www.theguardian.com/tv-and-radio/2025/aug/11/ray-brooks-british-actor-and-voice-of-mr-benn-dies-aged-86)
+- [Nvidia and AMD reportedly agree to pay 15% of China chip sale revenues to US](https://www.theguardian.com/technology/2025/aug/10/nvidia-amd-china-chip-sale-revenues)
+- [Justin Rose wins nail-biting playoff against JJ Spaun to claim FedEx Cup title](https://www.theguardian.com/sport/2025/aug/11/justin-rose-wins-nail-biting-playoff-against-jj-spaun-to-claim-fedex-cup-title)
+- [Man survives after clinging to high-speed train in Austria after getting off to have a cigarette](https://www.theguardian.com/world/2025/aug/11/man-survives-after-clinging-to-high-speed-austrian-train-after-getting-off-to-have-a-cigarette)
+- [UK firms’ hiring intentions remain at record low amid rising employment costs](https://www.theguardian.com/business/2025/aug/11/uk-firms-hiring-intentions-remain-at-record-low-amid-rising-employment-costs)
+- [Average private rent in Great Britain falls for first time in five years](https://www.theguardian.com/money/2025/aug/11/average-private-rent-in-great-britain-falls-for-first-time-in-five-years)
+- [Premier League 2025-26 preview No 11: Leeds United](https://www.theguardian.com/football/2025/aug/11/premier-league-2025-26-preview-no-11-leeds-united)
+- [UK road safety push could see mandatory eye tests for older drivers](https://www.theguardian.com/world/2025/aug/10/uk-road-safety-push-could-see-mandatory-eye-tests-for-older-drivers)
+- [Anas al-Sharif, prominent Al Jazeera correspondent, among five journalists killed in Israeli airstrike on Gaza](https://www.theguardian.com/world/2025/aug/10/prominent-al-jazeera-journalist-killed-in-israeli-airstrike-on-gaza)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

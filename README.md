@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Vanishing from Hyundai’s data network](http://techno-fandom.org/~hobbit/cars/ev/offnet.html)
-- [Optimizing My Sleep Around Claude Usage Limits](https://mattwie.se/no-sleep-till-agi)
-- [Show HN: Reactive: A React Book for the Reluctant &lpar;written by Claude&rpar;](https://github.com/cloudstreet-dev/React-is-Awful)
-- [Show HN: A Sinclair ZX81 retro web assembler+simulator](https://news.ycombinator.com/item?id=44859761)
-- [Compiling a Lisp: Lambda lifting](https://bernsteinbear.com/blog/compiling-a-lisp-12/)
-- [1910: The year the modern world lost its mind](https://www.derekthompson.org/p/1910-the-year-the-modern-world-lost)
-- [One Million Screenshots](https://onemillionscreenshots.com/?q=random)
-- [Events](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Events)
-- [Conversations remotely detected from cell phone vibrations, researchers report](https://www.psu.edu/news/engineering/story/conversations-remotely-detected-cell-phone-vibrations-researchers-report)
-- [Show HN: Bolt – A super-fast, statically-typed scripting language written in C](https://github.com/Beariish/bolt)
+- [Chris Simpkins &lpar;creator of Hack font&rpar; has passed away](https://typo.social/@Hilary/114845913381245488)
+- [GLM-4.5: Agentic, Reasoning, and Coding &lpar;Arc&rpar; Foundation Models [pdf]](https://www.arxiv.org/pdf/2508.06471)
+- [Japan&#39;s largest paper, Yomiuri Shimbun, sues Perplexity for copyright violations](https://www.niemanlab.org/2025/08/japans-largest-newspaper-yomiuri-shimbun-sues-perplexity-for-copyright-violations/)
+- [Show HN: Keeps – Mail a postcard that plays your voice](https://www.sendkeeps.com/)
+- [What does it mean to be thirsty?](https://www.quantamagazine.org/what-does-it-mean-to-be-thirsty-20250811/)
+- [Show HN: I built an offline, open‑source desktop Pixel Art Editor in Python](https://github.com/danterolle/tilf)
+- [Neki – sharded Postgres by the team behind Vitess](https://planetscale.com/blog/announcing-neki)
+- [Ollama and gguf](https://github.com/ollama/ollama/issues/11714)
+- [The demographic future of humanity: facts and consequences [pdf]](https://www.sas.upenn.edu/~jesusfv/Slides_London.pdf)
+- [Trellis &lpar;YC W24&rpar; Is Hiring: Automate Prior Auth in Healthcare](https://www.ycombinator.com/companies/trellis/jobs/Cv3ZwXh-forward-deployed-engineers-all-levels-august-2025)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

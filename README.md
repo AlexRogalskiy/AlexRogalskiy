@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Five journalists killed in targeted Israeli airstrike on Gaza](https://www.theguardian.com/world/2025/aug/10/prominent-al-jazeera-journalist-killed-in-israeli-airstrike-on-gaza)
-- [Show HN: We are fixing memories for AI Teams](https://supercontext.dev/)
-- [Ask HN: What&#39;s Your Take on Perplexity AI?](https://news.ycombinator.com/item?id=44860542)
-- [Why Starter Story Founders Never Tell You How They Marketed Their First 10k+ MRR](https://www.getcassius.ai/blogs/starter-story-founders-hidden-marketing-strategies-2025)
-- [Apple Just Pulled the Plug on the AI Hype](https://ninza7.medium.com/apple-just-pulled-the-plug-on-the-ai-hype-heres-what-their-shocking-study-found-24ad42c234a0)
-- [Training LLMs over the Internet](https://www.tplr.ai/)
-- [Show HN: UwU – Generate CLI commands inline with GPT-5](https://github.com/context-labs/uwu)
-- [Cybertruck Leads Tesla&#39;s Used-Car Collapse](https://gizmodo.com/cybertruck-leads-teslas-used-car-collapse-2000641133)
-- [Beyond Meat is headed to Chapter 11 bankruptcy](https://www.thestreet.com/restaurants/beyond-meat-is-headed-to-chapter-11-bankruptcy)
-- [The Controversial Sound Only 2% of People Hear [video]](https://www.youtube.com/watch?v=zy_ctHNLan8)
+- [Modos Paper Monitor – fast, low-latency, open-hardware e-paper monitor, dev kit](https://www.crowdsupply.com/modos-tech/modos-paper-monitor/updates/our-campaign-is-live)
+- [Bulletin Board Systems in the Modern Era and Beyond [video]](https://www.youtube.com/watch?v=GxKF681vI9U)
+- [Show HN: Chat with n8n workflows using natural language](https://github.com/talk2silicon/talk2n8n)
+- [Gemini&#39;s brutal assessment of a vibe coding session](https://news.ycombinator.com/item?id=44871928)
+- [Everyone Thinks Youth Crime Is Increasing–D.C. Witness Data Shows Why](https://dcwitness.org/everyone-thinks-youth-crime-is-increasing-d-c-witness-data-shows-why/)
+- [Weathering Software Winter](https://100r.co/site/weathering_software_winter.html)
+- [AI reviews my mini webserver](https://gist.github.com/izabera/91f44d29bb9da9a703514e815f71cf8c)
+- [Randomness as a Control for Alignment](https://news.ycombinator.com/item?id=44871871)
+- [Supreme Court formally asked to overturn same-sex marriage ruling](https://abcnews.go.com/Politics/supreme-court-formally-asked-overturn-landmark-same-sex/story?id=124465302)
+- [Collapse: Intel Is Falling Apart](https://www.youtube.com/watch?v=cXVQVbAFh6I)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [China diplomat tipped as next foreign minister detained by authorities – report](https://www.theguardian.com/world/2025/aug/11/liu-jianchao-china-diplomat-detained-beijing)
-- [Ray Brooks, British actor and voice of Mr Benn, dies aged 86](https://www.theguardian.com/tv-and-radio/2025/aug/11/ray-brooks-british-actor-and-voice-of-mr-benn-dies-aged-86)
-- [Nvidia and AMD reportedly agree to pay 15% of China chip sale revenues to US](https://www.theguardian.com/technology/2025/aug/10/nvidia-amd-china-chip-sale-revenues)
-- [Justin Rose wins nail-biting playoff against JJ Spaun to claim FedEx Cup title](https://www.theguardian.com/sport/2025/aug/11/justin-rose-wins-nail-biting-playoff-against-jj-spaun-to-claim-fedex-cup-title)
-- [Man survives after clinging to high-speed train in Austria after getting off to have a cigarette](https://www.theguardian.com/world/2025/aug/11/man-survives-after-clinging-to-high-speed-austrian-train-after-getting-off-to-have-a-cigarette)
-- [UK firms’ hiring intentions remain at record low amid rising employment costs](https://www.theguardian.com/business/2025/aug/11/uk-firms-hiring-intentions-remain-at-record-low-amid-rising-employment-costs)
-- [Average private rent in Great Britain falls for first time in five years](https://www.theguardian.com/money/2025/aug/11/average-private-rent-in-great-britain-falls-for-first-time-in-five-years)
-- [Premier League 2025-26 preview No 11: Leeds United](https://www.theguardian.com/football/2025/aug/11/premier-league-2025-26-preview-no-11-leeds-united)
-- [UK road safety push could see mandatory eye tests for older drivers](https://www.theguardian.com/world/2025/aug/10/uk-road-safety-push-could-see-mandatory-eye-tests-for-older-drivers)
-- [Anas al-Sharif, prominent Al Jazeera correspondent, among five journalists killed in Israeli airstrike on Gaza](https://www.theguardian.com/world/2025/aug/10/prominent-al-jazeera-journalist-killed-in-israeli-airstrike-on-gaza)
+- [Explosion ‘like thunder’ at Pennsylvania US Steel plant leaves two dead](https://www.theguardian.com/us-news/2025/aug/11/steel-plant-explosion-pennsylvania)
+- [Rise in dengue fever outbreaks across the Pacific driven by the climate crisis, experts say](https://www.theguardian.com/world/2025/aug/12/dengue-fever-outbreaks-samoa-fiji-tonga-climate-crisis)
+- [Chinese warship crashes into own coast guard vessel while chasing Philippines boat in South China Sea](https://www.theguardian.com/world/2025/aug/12/chinese-ships-crash-warship-coast-guard-south-china-sea)
+- [Trump nominates Heritage Foundation economist as labor statistics chief](https://www.theguardian.com/us-news/2025/aug/11/trump-ej-antoni-heritage-foundation-bls)
+- [‘None of us feel safe’: attacks on A&amp;E nurses double in six years as waits rise](https://www.theguardian.com/society/2025/aug/12/ae-nurses-attacks-rise)
+- [Premier League 2025-26 preview No 13: Manchester City](https://www.theguardian.com/football/2025/aug/12/premier-league-2025-26-preview-no-13-manchester-city)
+- [Palestinian reporters killed, international reporters banned – Israel’s other Gaza war is over narrative](https://www.theguardian.com/world/2025/aug/11/palestinian-reporters-killed-and-foreigners-barred-in-israels-battle-for-gaza-narrative)
+- [Trump seizes control of Washington DC police and deploys national guard](https://www.theguardian.com/us-news/2025/aug/11/trump-washington-dc-crime)
+- [‘Red meat to throw to his base’: DC residents on Trump’s police takeover](https://www.theguardian.com/us-news/2025/aug/11/trump-washington-dc-national-guard-police)
+- [T20 Blast to lose two matches per team in 2026 in latest domestic cricket reshuffle](https://www.theguardian.com/sport/2025/aug/11/t20-blast-lose-two-matches-per-team-in-2026-domestic-cricket-reshuffle)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

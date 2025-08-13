@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Explosion ‘like thunder’ at Pennsylvania US Steel plant leaves two dead](https://www.theguardian.com/us-news/2025/aug/11/steel-plant-explosion-pennsylvania)
-- [Rise in dengue fever outbreaks across the Pacific driven by the climate crisis, experts say](https://www.theguardian.com/world/2025/aug/12/dengue-fever-outbreaks-samoa-fiji-tonga-climate-crisis)
-- [Chinese warship crashes into own coast guard vessel while chasing Philippines boat in South China Sea](https://www.theguardian.com/world/2025/aug/12/chinese-ships-crash-warship-coast-guard-south-china-sea)
-- [Trump nominates Heritage Foundation economist as labor statistics chief](https://www.theguardian.com/us-news/2025/aug/11/trump-ej-antoni-heritage-foundation-bls)
-- [‘None of us feel safe’: attacks on A&amp;E nurses double in six years as waits rise](https://www.theguardian.com/society/2025/aug/12/ae-nurses-attacks-rise)
-- [Premier League 2025-26 preview No 13: Manchester City](https://www.theguardian.com/football/2025/aug/12/premier-league-2025-26-preview-no-13-manchester-city)
-- [Palestinian reporters killed, international reporters banned – Israel’s other Gaza war is over narrative](https://www.theguardian.com/world/2025/aug/11/palestinian-reporters-killed-and-foreigners-barred-in-israels-battle-for-gaza-narrative)
-- [Trump seizes control of Washington DC police and deploys national guard](https://www.theguardian.com/us-news/2025/aug/11/trump-washington-dc-crime)
-- [‘Red meat to throw to his base’: DC residents on Trump’s police takeover](https://www.theguardian.com/us-news/2025/aug/11/trump-washington-dc-national-guard-police)
-- [T20 Blast to lose two matches per team in 2026 in latest domestic cricket reshuffle](https://www.theguardian.com/sport/2025/aug/11/t20-blast-lose-two-matches-per-team-in-2026-domestic-cricket-reshuffle)
+- [MP removed from New Zealand parliament in heated debate over Palestinian recognition](https://www.theguardian.com/world/2025/aug/13/mp-removed-from-new-zealand-parliament-in-heated-debate-over-palestinian-recognition)
+- [Trump administration to review 19 Smithsonian museums to ensure exhibits are ‘patriotic’](https://www.theguardian.com/us-news/2025/aug/12/trump-administration-smithsonian-exhibits)
+- [National guard begins deploying on DC streets after Trump police takeover](https://www.theguardian.com/us-news/2025/aug/12/mayor-national-guard-washington-dc)
+- [China’s crackdown on lavish civil servant perks will ‘harm’ the economy, experts warn](https://www.theguardian.com/world/2025/aug/13/china-civil-servant-public-employee-austerity-drive-economy)
+- [Fenerbahce see off Feyenoord to book Champions League playoff with Benfica](https://www.theguardian.com/football/2025/aug/13/champions-league-fenerbahce-feyenoord-benfica-rangers)
+- [Abuse of suspected migrants not an ‘innocent mistake’, says UK equality campaigner](https://www.theguardian.com/uk-news/2025/aug/12/abuse-of-people-mistaken-for-migrants-not-an-innocent-mistake-says-uk-equality-campaigner)
+- [Premier League 2025-26 preview No 15: Newcastle United](https://www.theguardian.com/football/2025/aug/13/premier-league-2025-26-preview-no-15-newcastle-united)
+- [Under-22s in England should get free bus travel to access work and training, MPs say](https://www.theguardian.com/politics/2025/aug/13/people-under-22-england-free-bus-travel-access-work-mps-say)
+- [Pickled Republic review –  a curious cabaret of jarring vegetables](https://www.theguardian.com/stage/2025/aug/13/pickled-republic-review-summerhall-edinburgh)
+- [UK police should consider revealing ethnicity of suspects, says new guidance](https://www.theguardian.com/uk-news/2025/aug/13/uk-police-should-consider-revealing-ethnicity-of-suspects-says-new-guidance)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

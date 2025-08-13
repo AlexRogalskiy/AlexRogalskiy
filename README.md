@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Modos Paper Monitor – fast, low-latency, open-hardware e-paper monitor, dev kit](https://www.crowdsupply.com/modos-tech/modos-paper-monitor/updates/our-campaign-is-live)
-- [Bulletin Board Systems in the Modern Era and Beyond [video]](https://www.youtube.com/watch?v=GxKF681vI9U)
-- [Show HN: Chat with n8n workflows using natural language](https://github.com/talk2silicon/talk2n8n)
-- [Gemini&#39;s brutal assessment of a vibe coding session](https://news.ycombinator.com/item?id=44871928)
-- [Everyone Thinks Youth Crime Is Increasing–D.C. Witness Data Shows Why](https://dcwitness.org/everyone-thinks-youth-crime-is-increasing-d-c-witness-data-shows-why/)
-- [Weathering Software Winter](https://100r.co/site/weathering_software_winter.html)
-- [AI reviews my mini webserver](https://gist.github.com/izabera/91f44d29bb9da9a703514e815f71cf8c)
-- [Randomness as a Control for Alignment](https://news.ycombinator.com/item?id=44871871)
-- [Supreme Court formally asked to overturn same-sex marriage ruling](https://abcnews.go.com/Politics/supreme-court-formally-asked-overturn-landmark-same-sex/story?id=124465302)
-- [Collapse: Intel Is Falling Apart](https://www.youtube.com/watch?v=cXVQVbAFh6I)
+- [&#39;Inference whales&#39; are breaching AI coding startup business models](https://www.businessinsider.com/inference-whales-threaten-ai-coding-startups-business-model-2025-8)
+- [A Haunting Musical Kaleidoscope](https://renfoc.us/posts/1755014540-a_haunting_musical_kaleidoscope)
+- [Perplexity Makes Longshot $34.5B Offer for Chrome](https://www.msn.com/en-us/money/technology/perplexity-makes-longshot-34-5-billion-offer-for-chrome/ar-AA1Kokz5)
+- [Coyote Loitering Drone Interceptors Have Arrived on U.S. Navy Destroyers](https://www.twz.com/sea/coyote-loitering-drone-interceptors-have-arrived-on-us-navy-destroyers)
+- [From the Front Lines of Ukraine: A Soldier&#39;s Warning to America](https://www.thecipherbrief.com/front-lines-of-ukraine-warning)
+- [Theta-phase locking of single neurons during human spatial memory](https://www.nature.com/articles/s41467-025-62553-9)
+- [We built an AI to help renters and homeowners micro-save for housing payments](https://www.nudgenest.ai/)
+- [WWV &lpar;Radio Station&rpar;](https://en.wikipedia.org/wiki/WWV_(radio_station))
+- [Reverse Engineering the RP3A0 SoC from the Raspberry Pi Zero 2W](https://github.com/jonny12375/rp3a0)
+- [AABB Tree Shootout](https://www.slembcke.net/blog/TreePerf/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

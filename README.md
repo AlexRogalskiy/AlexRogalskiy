@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Chris Simpkins &lpar;creator of Hack font&rpar; has passed away](https://typo.social/@Hilary/114845913381245488)
-- [GLM-4.5: Agentic, Reasoning, and Coding &lpar;Arc&rpar; Foundation Models [pdf]](https://www.arxiv.org/pdf/2508.06471)
-- [Japan&#39;s largest paper, Yomiuri Shimbun, sues Perplexity for copyright violations](https://www.niemanlab.org/2025/08/japans-largest-newspaper-yomiuri-shimbun-sues-perplexity-for-copyright-violations/)
-- [Show HN: Keeps – Mail a postcard that plays your voice](https://www.sendkeeps.com/)
-- [What does it mean to be thirsty?](https://www.quantamagazine.org/what-does-it-mean-to-be-thirsty-20250811/)
-- [Show HN: I built an offline, open‑source desktop Pixel Art Editor in Python](https://github.com/danterolle/tilf)
-- [Neki – sharded Postgres by the team behind Vitess](https://planetscale.com/blog/announcing-neki)
-- [Ollama and gguf](https://github.com/ollama/ollama/issues/11714)
-- [The demographic future of humanity: facts and consequences [pdf]](https://www.sas.upenn.edu/~jesusfv/Slides_London.pdf)
-- [Trellis &lpar;YC W24&rpar; Is Hiring: Automate Prior Auth in Healthcare](https://www.ycombinator.com/companies/trellis/jobs/Cv3ZwXh-forward-deployed-engineers-all-levels-august-2025)
+- [Blender on iPad Is Finally Happening](https://www.creativebloq.com/3d/blender-on-ipad-is-finally-happening-and-it-could-be-the-app-every-artist-needs)
+- [Search all text in New York City](https://www.alltext.nyc/)
+- [A gentle introduction to anchor positioning](https://webkit.org/blog/17240/a-gentle-introduction-to-anchor-positioning/)
+- [Go 1.25 Release Notes](https://go.dev/doc/go1.25)
+- [The Missing Protocol: Let Me Know](https://deanebarker.net/tech/blog/let-me-know/)
+- [Ashet Home Computer](https://ashet.computer/)
+- [The equality delete problem in Apache Iceberg](https://blog.dataengineerthings.org/the-equality-delete-problem-in-apache-iceberg-143dd451a974)
+- [Weave &lpar;YC W25&rpar; is hiring a founding AI engineer](https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer)
+- [WHY2025: How to become your own ISP [video]](https://media.ccc.de/v/why2025-9-how-to-become-your-own-isp)
+- [Show HN: Omnara – Run Claude Code from anywhere](https://github.com/omnara-ai/omnara)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [MP removed from New Zealand parliament in heated debate over Palestinian recognition](https://www.theguardian.com/world/2025/aug/13/mp-removed-from-new-zealand-parliament-in-heated-debate-over-palestinian-recognition)
-- [Trump administration to review 19 Smithsonian museums to ensure exhibits are ‘patriotic’](https://www.theguardian.com/us-news/2025/aug/12/trump-administration-smithsonian-exhibits)
-- [National guard begins deploying on DC streets after Trump police takeover](https://www.theguardian.com/us-news/2025/aug/12/mayor-national-guard-washington-dc)
-- [China’s crackdown on lavish civil servant perks will ‘harm’ the economy, experts warn](https://www.theguardian.com/world/2025/aug/13/china-civil-servant-public-employee-austerity-drive-economy)
-- [Fenerbahce see off Feyenoord to book Champions League playoff with Benfica](https://www.theguardian.com/football/2025/aug/13/champions-league-fenerbahce-feyenoord-benfica-rangers)
-- [Abuse of suspected migrants not an ‘innocent mistake’, says UK equality campaigner](https://www.theguardian.com/uk-news/2025/aug/12/abuse-of-people-mistaken-for-migrants-not-an-innocent-mistake-says-uk-equality-campaigner)
-- [Premier League 2025-26 preview No 15: Newcastle United](https://www.theguardian.com/football/2025/aug/13/premier-league-2025-26-preview-no-15-newcastle-united)
-- [Under-22s in England should get free bus travel to access work and training, MPs say](https://www.theguardian.com/politics/2025/aug/13/people-under-22-england-free-bus-travel-access-work-mps-say)
-- [Pickled Republic review –  a curious cabaret of jarring vegetables](https://www.theguardian.com/stage/2025/aug/13/pickled-republic-review-summerhall-edinburgh)
-- [UK police should consider revealing ethnicity of suspects, says new guidance](https://www.theguardian.com/uk-news/2025/aug/13/uk-police-should-consider-revealing-ethnicity-of-suspects-says-new-guidance)
+- [Father of New Zealand woman held in US by Ice along with six-year-old son voices hope for release](https://www.theguardian.com/world/2025/aug/14/father-of-new-zealand-woman-held-in-us-by-ice-along-with-six-year-old-son-voices-hope-for-release-ntwnfb)
+- [Taylor Swift reveals details of The Life of a Showgirl ahead of October release: ‘Infectiously joyful and wild’](https://www.theguardian.com/music/2025/aug/14/taylor-swift-the-life-of-a-showgirl-album-details-release-date-3-october)
+- [Jimmy Lai trial: closing arguments begin in Hong Kong trial of pro-democracy media mogul](https://www.theguardian.com/world/2025/aug/14/jimmy-lai-trial-hong-kong-closing-arguments)
+- [The Two Gentlemen of Verona review – less smut, more mutt in RSC’s delightful dog day afternoon](https://www.theguardian.com/stage/2025/aug/14/the-two-gentlemen-of-verona-review-the-other-place-stratford-upon-avon)
+- [Premier League 2025-26 preview No 17: Sunderland](https://www.theguardian.com/football/2025/aug/14/premier-league-2025-26-preview-no-17-sunderland)
+- [‘Very, very proud’: Thomas Frank hails Tottenham players after PSG defeat](https://www.theguardian.com/football/2025/aug/13/very-very-proud-thomas-frank-hails-tottenham-players-after-psg-defeat)
+- [Putin faces ‘very severe consequences’ if no Ukraine truce agreed, Trump says](https://www.theguardian.com/world/2025/aug/13/trump-assurances-europe-putin-ukraine-alaska-talks)
+- [ADHD medication linked to lower risk of suicidal behaviours, study suggests](https://www.theguardian.com/society/2025/aug/13/adhd-medication-linked-to-lower-risk-of-suicidal-behaviours-study-suggests)
+- [Russia clamps down on WhatsApp and Telegram over data sharing](https://www.theguardian.com/world/2025/aug/13/russia-clamps-down-on-whatsapp-and-telegram-over-data-sharing)
+- [Plans for UK police to reveal suspects’ ethnicity a recipe for ‘dog-whistle politics’, say campaigners](https://www.theguardian.com/uk-news/2025/aug/13/plans-for-uk-police-to-reveal-suspects-ethnicity-a-recipe-for-dog-whistle-politics-say-campaigners)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

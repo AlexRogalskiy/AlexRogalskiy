@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [&#39;Inference whales&#39; are breaching AI coding startup business models](https://www.businessinsider.com/inference-whales-threaten-ai-coding-startups-business-model-2025-8)
-- [A Haunting Musical Kaleidoscope](https://renfoc.us/posts/1755014540-a_haunting_musical_kaleidoscope)
-- [Perplexity Makes Longshot $34.5B Offer for Chrome](https://www.msn.com/en-us/money/technology/perplexity-makes-longshot-34-5-billion-offer-for-chrome/ar-AA1Kokz5)
-- [Coyote Loitering Drone Interceptors Have Arrived on U.S. Navy Destroyers](https://www.twz.com/sea/coyote-loitering-drone-interceptors-have-arrived-on-us-navy-destroyers)
-- [From the Front Lines of Ukraine: A Soldier&#39;s Warning to America](https://www.thecipherbrief.com/front-lines-of-ukraine-warning)
-- [Theta-phase locking of single neurons during human spatial memory](https://www.nature.com/articles/s41467-025-62553-9)
-- [We built an AI to help renters and homeowners micro-save for housing payments](https://www.nudgenest.ai/)
-- [WWV &lpar;Radio Station&rpar;](https://en.wikipedia.org/wiki/WWV_(radio_station))
-- [Reverse Engineering the RP3A0 SoC from the Raspberry Pi Zero 2W](https://github.com/jonny12375/rp3a0)
-- [AABB Tree Shootout](https://www.slembcke.net/blog/TreePerf/)
+- [Many Faces of Ad Hoc Transactions: findings from real world transactions](https://cacm.acm.org/research-highlights/many-faces-of-ad-hoc-transactions/)
+- [Trump orders cull of regulations governing commercial rocket launches](https://arstechnica.com/space/2025/08/trump-orders-cull-of-regulations-governing-commercial-rocket-launches/)
+- [Quick image resizer online for free](https://quickresizeimage.com/)
+- [70 Years Ago, Johnny Cash Recorded &#39;Folsom Prison Blues&#39; and Became a Folk Hero](https://www.smithsonianmag.com/arts-culture/seventy-years-ago-johnny-cash-recorded-folsom-prison-blues-and-became-a-folk-hero-for-the-ignored-and-downtrodden-180987059/)
+- [AI engineers- what&#39;s the most painful part of structuring data for prompts?](https://news.ycombinator.com/item?id=44896334)
+- [Using Metadata to find Paul Revere &lpar;2013&rpar;](https://kieranhealy.org/blog/archives/2013/06/09/using-metadata-to-find-paul-revere/)
+- [Open Source Projects Supported by the GitHub Secure Open Source Fund](https://github.blog/open-source/maintainers/securing-the-supply-chain-at-scale-starting-with-71-important-open-source-projects/)
+- [Concerning the Responsible Use of AI in the U.S. Criminal Justice System](https://cacm.acm.org/opinion/concerning-the-responsible-use-of-ai-in-the-u-s-criminal-justice-system/)
+- [Show HN: Genesis Query – The First Question for an ASI](https://genesis-query.duckdns.org/)
+- [First simulated image of a black hole](https://en.wikipedia.org/wiki/Jean-Pierre_Luminet)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

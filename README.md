@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Blender on iPad Is Finally Happening](https://www.creativebloq.com/3d/blender-on-ipad-is-finally-happening-and-it-could-be-the-app-every-artist-needs)
-- [Search all text in New York City](https://www.alltext.nyc/)
-- [A gentle introduction to anchor positioning](https://webkit.org/blog/17240/a-gentle-introduction-to-anchor-positioning/)
-- [Go 1.25 Release Notes](https://go.dev/doc/go1.25)
-- [The Missing Protocol: Let Me Know](https://deanebarker.net/tech/blog/let-me-know/)
-- [Ashet Home Computer](https://ashet.computer/)
-- [The equality delete problem in Apache Iceberg](https://blog.dataengineerthings.org/the-equality-delete-problem-in-apache-iceberg-143dd451a974)
-- [Weave &lpar;YC W25&rpar; is hiring a founding AI engineer](https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer)
-- [WHY2025: How to become your own ISP [video]](https://media.ccc.de/v/why2025-9-how-to-become-your-own-isp)
-- [Show HN: Omnara – Run Claude Code from anywhere](https://github.com/omnara-ai/omnara)
+- [What Medieval People Got Right About Learning &lpar;2019&rpar;](https://www.scotthyoung.com/blog/2019/06/07/apprenticeships/)
+- [Igor Babuschkin, a co-founder of xAI, has announced his departure](https://techcrunch.com/2025/08/13/co-founder-of-elon-musks-xai-departs-the-company/)
+- [Open Banking and Payments Competition](https://www.bitsaboutmoney.com/archive/open-banking-and-payments-competition/)
+- [NIST Finalizes &#39;Lightweight Cryptography&#39; Standard to Protect Small Devices](https://www.nist.gov/news-events/news/2025/08/nist-finalizes-lightweight-cryptography-standard-protect-small-devices)
+- [Illinois bans use of artificial intelligence for mental health therapy](https://www.washingtonpost.com/nation/2025/08/12/illinois-ai-therapy-ban/)
+- [PYX: The next step in Python packaging](https://astral.sh/pyx)
+- [OCaml as my primary language](https://xvw.lol/en/articles/why-ocaml.html)
+- [Cross-Site Request Forgery](https://words.filippo.io/csrf/)
+- [Launch HN: Golpo &lpar;YC S25&rpar; – AI-generated explainer videos](https://video.golpoai.com/)
+- [ReadMe &lpar;YC W15&rpar; Is Hiring a Developer Experience PM](https://readme.com/careers#product-manager-developer-experience)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

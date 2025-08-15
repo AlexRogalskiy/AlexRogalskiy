@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [What Medieval People Got Right About Learning &lpar;2019&rpar;](https://www.scotthyoung.com/blog/2019/06/07/apprenticeships/)
-- [Igor Babuschkin, a co-founder of xAI, has announced his departure](https://techcrunch.com/2025/08/13/co-founder-of-elon-musks-xai-departs-the-company/)
-- [Open Banking and Payments Competition](https://www.bitsaboutmoney.com/archive/open-banking-and-payments-competition/)
-- [NIST Finalizes &#39;Lightweight Cryptography&#39; Standard to Protect Small Devices](https://www.nist.gov/news-events/news/2025/08/nist-finalizes-lightweight-cryptography-standard-protect-small-devices)
-- [Illinois bans use of artificial intelligence for mental health therapy](https://www.washingtonpost.com/nation/2025/08/12/illinois-ai-therapy-ban/)
-- [PYX: The next step in Python packaging](https://astral.sh/pyx)
-- [OCaml as my primary language](https://xvw.lol/en/articles/why-ocaml.html)
-- [Cross-Site Request Forgery](https://words.filippo.io/csrf/)
-- [Launch HN: Golpo &lpar;YC S25&rpar; – AI-generated explainer videos](https://video.golpoai.com/)
-- [ReadMe &lpar;YC W15&rpar; Is Hiring a Developer Experience PM](https://readme.com/careers#product-manager-developer-experience)
+- [Nobody’s buying homes, nobody’s switching jobs, America’s mobility is stalling](https://www.wsj.com/economy/american-job-housing-economic-dynamism-d56ef8fc)
+- [Time to End Roundtripping by Big Pharma](https://www.cfr.org/blog/time-end-roundtripping-big-pharma)
+- [I used to know how to write in Japanese](https://aethermug.com/posts/i-used-to-know-how-to-write-in-japanese)
+- [The secret code behind the CIA&#39;s Kryptos puzzle is up for sale](https://news.artnet.com/art-world/cia-kryptos-sculpture-code-auction-2677451)
+- [The new science of “emergent misalignment”](https://www.quantamagazine.org/the-ai-was-fed-sloppy-code-it-turned-into-something-evil-20250813/)
+- [Citybound: City building game, microscopic models to vividly simulate organism](https://aeplay.org/citybound)
+- [Blurry rendering of games on Mac](https://www.colincornaby.me/2025/08/your-mac-game-is-probably-rendering-blurry/)
+- [We rewrote the Ghostty GTK application](https://mitchellh.com/writing/ghostty-gtk-rewrite)
+- [OneSignal &lpar;YC S11&rpar; Is Hiring Engineers](https://onesignal.com/careers)
+- [DINOv3](https://github.com/facebookresearch/dinov3)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

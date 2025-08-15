@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Father of New Zealand woman held in US by Ice along with six-year-old son voices hope for release](https://www.theguardian.com/world/2025/aug/14/father-of-new-zealand-woman-held-in-us-by-ice-along-with-six-year-old-son-voices-hope-for-release-ntwnfb)
-- [Taylor Swift reveals details of The Life of a Showgirl ahead of October release: ‘Infectiously joyful and wild’](https://www.theguardian.com/music/2025/aug/14/taylor-swift-the-life-of-a-showgirl-album-details-release-date-3-october)
-- [Jimmy Lai trial: closing arguments begin in Hong Kong trial of pro-democracy media mogul](https://www.theguardian.com/world/2025/aug/14/jimmy-lai-trial-hong-kong-closing-arguments)
-- [The Two Gentlemen of Verona review – less smut, more mutt in RSC’s delightful dog day afternoon](https://www.theguardian.com/stage/2025/aug/14/the-two-gentlemen-of-verona-review-the-other-place-stratford-upon-avon)
-- [Premier League 2025-26 preview No 17: Sunderland](https://www.theguardian.com/football/2025/aug/14/premier-league-2025-26-preview-no-17-sunderland)
-- [‘Very, very proud’: Thomas Frank hails Tottenham players after PSG defeat](https://www.theguardian.com/football/2025/aug/13/very-very-proud-thomas-frank-hails-tottenham-players-after-psg-defeat)
-- [Putin faces ‘very severe consequences’ if no Ukraine truce agreed, Trump says](https://www.theguardian.com/world/2025/aug/13/trump-assurances-europe-putin-ukraine-alaska-talks)
-- [ADHD medication linked to lower risk of suicidal behaviours, study suggests](https://www.theguardian.com/society/2025/aug/13/adhd-medication-linked-to-lower-risk-of-suicidal-behaviours-study-suggests)
-- [Russia clamps down on WhatsApp and Telegram over data sharing](https://www.theguardian.com/world/2025/aug/13/russia-clamps-down-on-whatsapp-and-telegram-over-data-sharing)
-- [Plans for UK police to reveal suspects’ ethnicity a recipe for ‘dog-whistle politics’, say campaigners](https://www.theguardian.com/uk-news/2025/aug/13/plans-for-uk-police-to-reveal-suspects-ethnicity-a-recipe-for-dog-whistle-politics-say-campaigners)
+- [‘Historical amnesia’: Indonesia’s fight over plan to amend history books](https://www.theguardian.com/world/2025/aug/15/historical-amnesia-indonesia-delays-plans-to-release-amended-history-books-amid-backlash)
+- [Ghosting, breadcrumbing, one-night stands: are we done with dating apps? - podcast](https://www.theguardian.com/news/audio/2025/aug/15/ghosting-breadcrumbing-one-night-stands-are-we-done-with-dating-apps-podcast)
+- [Hundreds hit with food poisoning in Indonesia after eating free meals from president’s flagship program](https://www.theguardian.com/world/2025/aug/15/hundreds-struck-by-poisoned-in-indonesia-after-eating-free-meals-from-presidents-flagship-program)
+- [The heart-shaped mangrove formation fading due to rising seas](https://www.theguardian.com/environment/2025/aug/15/the-heart-shaped-mangrove-formation-fading-due-to-rising-seas)
+- [And Just Like That finale review – a sad, heavy-handed and far too faecal farewell](https://www.theguardian.com/tv-and-radio/2025/aug/15/and-just-like-that-finale-review-a-sad-heavy-handed-and-far-too-faecal-farewell)
+- [I can’t read anyone’s body language and I feel flirt-illiterate. How do I meet new people? | Leading questions](https://www.theguardian.com/lifeandstyle/2025/aug/15/i-cant-read-anyones-body-language-and-i-feel-flirt-illiterate-how-do-i-meet-new-people)
+- [Megadeth announce they are retiring: ‘Don’t be sad, be happy for us all’](https://www.theguardian.com/music/2025/aug/15/megadeth-announce-they-are-retiring-dont-be-sad-be-happy-for-us-all)
+- [India and Pakistan tensions spill over into contest over whose flagpole is bigger](https://www.theguardian.com/world/2025/aug/15/india-pakistan-flagpole-flag-war-attari-wagah-border-crossing-ceremony)
+- [Pam Bondi threatens prosecution for leaders not complying with immigration officers](https://www.theguardian.com/us-news/2025/aug/14/pam-bondi-sanctuary-cities-letter-immigration)
+- [Night Always Comes review – Vanessa Kirby gets lost in poverty thriller](https://www.theguardian.com/film/2025/aug/14/night-always-comes-review-netflix)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

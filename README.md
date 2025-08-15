@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Many Faces of Ad Hoc Transactions: findings from real world transactions](https://cacm.acm.org/research-highlights/many-faces-of-ad-hoc-transactions/)
-- [Trump orders cull of regulations governing commercial rocket launches](https://arstechnica.com/space/2025/08/trump-orders-cull-of-regulations-governing-commercial-rocket-launches/)
-- [Quick image resizer online for free](https://quickresizeimage.com/)
-- [70 Years Ago, Johnny Cash Recorded &#39;Folsom Prison Blues&#39; and Became a Folk Hero](https://www.smithsonianmag.com/arts-culture/seventy-years-ago-johnny-cash-recorded-folsom-prison-blues-and-became-a-folk-hero-for-the-ignored-and-downtrodden-180987059/)
-- [AI engineers- what&#39;s the most painful part of structuring data for prompts?](https://news.ycombinator.com/item?id=44896334)
-- [Using Metadata to find Paul Revere &lpar;2013&rpar;](https://kieranhealy.org/blog/archives/2013/06/09/using-metadata-to-find-paul-revere/)
-- [Open Source Projects Supported by the GitHub Secure Open Source Fund](https://github.blog/open-source/maintainers/securing-the-supply-chain-at-scale-starting-with-71-important-open-source-projects/)
-- [Concerning the Responsible Use of AI in the U.S. Criminal Justice System](https://cacm.acm.org/opinion/concerning-the-responsible-use-of-ai-in-the-u-s-criminal-justice-system/)
-- [Show HN: Genesis Query – The First Question for an ASI](https://genesis-query.duckdns.org/)
-- [First simulated image of a black hole](https://en.wikipedia.org/wiki/Jean-Pierre_Luminet)
+- [Citybound: City building game, microscopic models to vividly simulate organism](https://aeplay.org/citybound)
+- [ldial: Best independent and community radio stations in the US](https://www.ldial.org/)
+- [Create custom Apple-like gradients using shaders](https://melonmars.github.io/GradientGen/)
+- [Beijing&#39;s first World Humanoid Robot Games open with hip-hop and martial arts](https://apnews.com/article/humanoid-robot-games-beijing-china-artificial-intelligence-f0bdd670fae9904aea2c4df398cdcb1a)
+- [AI Assisted Editors: A Comparison &lpar;Part 1&rpar;](https://adrianhall.github.io/posts/2025/2025-08-01-ai-editors.html)
+- [The fixed length bottleneck and the feed forward network](https://www.gilesthomas.com/2025/08/the-fixed-length-bottleneck-and-the-feed-forward-network)
+- [I wanted to take more pictures, so I vibecoded a portfolio](https://blog.etra0.cl/posts/2025-08-14-portfolio/)
+- [Microsoft game workers call out company over Israeli military ties](https://www.gamefile.news/p/arkane-lyon-microsoft-xbox-israel-palestine)
+- [Show HN: Project Chimera – AI Debates Itself for Better Code and Reasoning](https://github.com/tomwolfe/project_chimera)
+- [Rabbits with &#39;horns&#39; in Colorado are being called &#39;Frankenstein bunnies.&#39;](https://www.cnn.com/2025/08/14/us/rabbits-colorado-horns)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

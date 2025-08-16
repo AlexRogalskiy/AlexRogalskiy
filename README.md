@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Nobody’s buying homes, nobody’s switching jobs, America’s mobility is stalling](https://www.wsj.com/economy/american-job-housing-economic-dynamism-d56ef8fc)
-- [Time to End Roundtripping by Big Pharma](https://www.cfr.org/blog/time-end-roundtripping-big-pharma)
-- [I used to know how to write in Japanese](https://aethermug.com/posts/i-used-to-know-how-to-write-in-japanese)
-- [The secret code behind the CIA&#39;s Kryptos puzzle is up for sale](https://news.artnet.com/art-world/cia-kryptos-sculpture-code-auction-2677451)
-- [The new science of “emergent misalignment”](https://www.quantamagazine.org/the-ai-was-fed-sloppy-code-it-turned-into-something-evil-20250813/)
-- [Citybound: City building game, microscopic models to vividly simulate organism](https://aeplay.org/citybound)
-- [Blurry rendering of games on Mac](https://www.colincornaby.me/2025/08/your-mac-game-is-probably-rendering-blurry/)
-- [We rewrote the Ghostty GTK application](https://mitchellh.com/writing/ghostty-gtk-rewrite)
-- [OneSignal &lpar;YC S11&rpar; Is Hiring Engineers](https://onesignal.com/careers)
-- [DINOv3](https://github.com/facebookresearch/dinov3)
+- [Building a watch from scratch in a Brooklyn basement](https://kottke.org/25/08/building-a-watch-from-scratch-in-a-brooklyn-basement)
+- [TextKit 2 – The Promised Land](https://blog.krzyzanowskim.com/2025/08/14/textkit-2-the-promised-land/)
+- [Porting Gigabyte MZ33-AR1 Server Board with AMD Turin CPU to Coreboot](https://blog.3mdeb.com/2025/2025-08-07-gigabyte_mz33_ar1_part1/)
+- [Claude Opus 4 and 4.1 can now end a rare subset of conversations](https://www.anthropic.com/research/end-subset-conversations)
+- [The future of large files in Git is Git](https://tylercipriani.com/blog/2025/08/15/git-lfs/)
+- [OpenBSD is so fast, I had to modify the program slightly to measure itself](https://flak.tedunangst.com/post/is-OpenBSD-10x-faster-than-Linux)
+- [Launch HN: Embedder &lpar;YC S25&rpar; – Claude code for embedded software](https://news.ycombinator.com/item?id=44915206)
+- [Imagen 4 is now generally available](https://developers.googleblog.com/en/announcing-imagen-4-fast-and-imagen-4-family-generally-available-in-the-gemini-api/)
+- [Show HN: Edka – Kubernetes clusters on your own Hetzner account](https://edka.io)
+- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

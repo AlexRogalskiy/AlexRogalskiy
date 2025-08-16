@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [‘Historical amnesia’: Indonesia’s fight over plan to amend history books](https://www.theguardian.com/world/2025/aug/15/historical-amnesia-indonesia-delays-plans-to-release-amended-history-books-amid-backlash)
-- [Ghosting, breadcrumbing, one-night stands: are we done with dating apps? - podcast](https://www.theguardian.com/news/audio/2025/aug/15/ghosting-breadcrumbing-one-night-stands-are-we-done-with-dating-apps-podcast)
-- [Hundreds hit with food poisoning in Indonesia after eating free meals from president’s flagship program](https://www.theguardian.com/world/2025/aug/15/hundreds-struck-by-poisoned-in-indonesia-after-eating-free-meals-from-presidents-flagship-program)
-- [The heart-shaped mangrove formation fading due to rising seas](https://www.theguardian.com/environment/2025/aug/15/the-heart-shaped-mangrove-formation-fading-due-to-rising-seas)
-- [And Just Like That finale review – a sad, heavy-handed and far too faecal farewell](https://www.theguardian.com/tv-and-radio/2025/aug/15/and-just-like-that-finale-review-a-sad-heavy-handed-and-far-too-faecal-farewell)
-- [I can’t read anyone’s body language and I feel flirt-illiterate. How do I meet new people? | Leading questions](https://www.theguardian.com/lifeandstyle/2025/aug/15/i-cant-read-anyones-body-language-and-i-feel-flirt-illiterate-how-do-i-meet-new-people)
-- [Megadeth announce they are retiring: ‘Don’t be sad, be happy for us all’](https://www.theguardian.com/music/2025/aug/15/megadeth-announce-they-are-retiring-dont-be-sad-be-happy-for-us-all)
-- [India and Pakistan tensions spill over into contest over whose flagpole is bigger](https://www.theguardian.com/world/2025/aug/15/india-pakistan-flagpole-flag-war-attari-wagah-border-crossing-ceremony)
-- [Pam Bondi threatens prosecution for leaders not complying with immigration officers](https://www.theguardian.com/us-news/2025/aug/14/pam-bondi-sanctuary-cities-letter-immigration)
-- [Night Always Comes review – Vanessa Kirby gets lost in poverty thriller](https://www.theguardian.com/film/2025/aug/14/night-always-comes-review-netflix)
+- [Trump says no Ukraine agreement after Putin talks as he advises Zelenskyy to ‘make a deal’ – live](https://www.theguardian.com/world/live/2025/aug/15/trump-putin-alaska-meeting-summit-news-updates)
+- [Washington DC and White House agree to scale back Trump ‘takeover’ of city police](https://www.theguardian.com/us-news/2025/aug/15/trump-dc-police-chief-dea)
+- [Trump says Xi told him China will not invade Taiwan while he is in office](https://www.theguardian.com/world/2025/aug/16/donald-trump-xi-jinping-china-taiwan)
+- [Rybakina happy to have controversial coach back as she beats Sabalenka](https://www.theguardian.com/sport/2025/aug/15/rybakina-happy-to-have-controversial-coach-back-as-she-beats-sabalenka)
+- [Hugo Ekitiké makes another good impression but there is a lot of work for Arne Slot to do | Jonathan Wilson](https://www.theguardian.com/football/2025/aug/15/hugo-ekitike-makes-another-good-impression-but-there-is-a-lot-of-work-for-arne-slot-to-do)
+- [UK rights watchdog warns against ‘heavy-handed’ policing of Gaza protests](https://www.theguardian.com/world/2025/aug/15/uk-rights-watchdog-warns-heavy-handed-policing-gaza-protests)
+- [Little Trouble Girls review – monstrous choirmaster spikes a sublime Catholic coming-of-age tale](https://www.theguardian.com/film/2025/aug/15/little-trouble-girls-review)
+- [New Spurs captain Cristian Romero is committed to club, insists Frank](https://www.theguardian.com/football/2025/aug/15/new-spurs-captain-cristian-romero-is-committed-to-club-insists-frank)
+- [Chiesa and Salah’s late show earns Liverpool dramatic win against Bournemouth](https://www.theguardian.com/football/2025/aug/15/liverpool-bournemouth-premier-league-match-report)
+- [Dominant Hull KR see off Wigan to go six points clear at top of Super League](https://www.theguardian.com/sport/2025/aug/15/dominant-hull-kr-see-off-wigan-to-go-six-points-clear-at-top-of-super-league)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

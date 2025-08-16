@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Citybound: City building game, microscopic models to vividly simulate organism](https://aeplay.org/citybound)
-- [ldial: Best independent and community radio stations in the US](https://www.ldial.org/)
-- [Create custom Apple-like gradients using shaders](https://melonmars.github.io/GradientGen/)
-- [Beijing&#39;s first World Humanoid Robot Games open with hip-hop and martial arts](https://apnews.com/article/humanoid-robot-games-beijing-china-artificial-intelligence-f0bdd670fae9904aea2c4df398cdcb1a)
-- [AI Assisted Editors: A Comparison &lpar;Part 1&rpar;](https://adrianhall.github.io/posts/2025/2025-08-01-ai-editors.html)
-- [The fixed length bottleneck and the feed forward network](https://www.gilesthomas.com/2025/08/the-fixed-length-bottleneck-and-the-feed-forward-network)
-- [I wanted to take more pictures, so I vibecoded a portfolio](https://blog.etra0.cl/posts/2025-08-14-portfolio/)
-- [Microsoft game workers call out company over Israeli military ties](https://www.gamefile.news/p/arkane-lyon-microsoft-xbox-israel-palestine)
-- [Show HN: Project Chimera – AI Debates Itself for Better Code and Reasoning](https://github.com/tomwolfe/project_chimera)
-- [Rabbits with &#39;horns&#39; in Colorado are being called &#39;Frankenstein bunnies.&#39;](https://www.cnn.com/2025/08/14/us/rabbits-colorado-horns)
+- [Ask HN: Is Supabase&#39;s Supavisor slow for anyone else?](https://news.ycombinator.com/item?id=44918343)
+- [Why Game Devs Don&#39;t Merge Files](https://www.kuril.in/blog/why-game-devs-dont-merge-files/)
+- [Three AI Futures](https://cacm.acm.org/opinion/three-ai-futures/)
+- [Upcoming DeepSeek AI model failed to train using Huawei&#39;s chips](https://arstechnica.com/ai/2025/08/deepseek-delays-next-ai-model-due-to-poor-performance-of-chinese-made-chips/)
+- [Nvidia STT Parakeet v3](https://huggingface.co/nvidia/parakeet-tdt-0.6b-v3)
+- [Our Workflow with Blender and Godot](https://studio.blender.org/blog/our-workflow-with-blender-and-godot/)
+- [Why LLMs Can Think &lpar;as per new fundamental theory&rpar;](https://claude.ai/public/artifacts/803dac4e-3d57-4524-a53c-bbefea6ce794)
+- [There&#39;s an old-school computer inspired by Apple machines, with classic BASIC](https://reprobate.site/?stage=pearintosh)
+- [Volkswagen wants you to pay monthly to unlock more horsepower](https://www.neowin.net/news/popular-car-brand-wants-you-to-pay-monthly-to-unlock-more-horsepower/)
+- [Building a watch from scratch in a Brooklyn basement](https://kottke.org/25/08/building-a-watch-from-scratch-in-a-brooklyn-basement)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

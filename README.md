@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Building a watch from scratch in a Brooklyn basement](https://kottke.org/25/08/building-a-watch-from-scratch-in-a-brooklyn-basement)
-- [TextKit 2 – The Promised Land](https://blog.krzyzanowskim.com/2025/08/14/textkit-2-the-promised-land/)
-- [Porting Gigabyte MZ33-AR1 Server Board with AMD Turin CPU to Coreboot](https://blog.3mdeb.com/2025/2025-08-07-gigabyte_mz33_ar1_part1/)
-- [Claude Opus 4 and 4.1 can now end a rare subset of conversations](https://www.anthropic.com/research/end-subset-conversations)
-- [The future of large files in Git is Git](https://tylercipriani.com/blog/2025/08/15/git-lfs/)
-- [OpenBSD is so fast, I had to modify the program slightly to measure itself](https://flak.tedunangst.com/post/is-OpenBSD-10x-faster-than-Linux)
-- [Launch HN: Embedder &lpar;YC S25&rpar; – Claude code for embedded software](https://news.ycombinator.com/item?id=44915206)
-- [Imagen 4 is now generally available](https://developers.googleblog.com/en/announcing-imagen-4-fast-and-imagen-4-family-generally-available-in-the-gemini-api/)
-- [Show HN: Edka – Kubernetes clusters on your own Hetzner account](https://edka.io)
-- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
+- [Hardening Systemd Services](https://us.jlcarveth.dev/post/hardening-systemd.md)
+- [Passive Microwave Repeaters](https://computer.rip/2025-08-16-passive-microwave-repeaters.html)
+- [GDPR meant nothing: chat control ends privacy for the EU [video]](https://www.youtube.com/watch?v=3NyUgv6dpJc)
+- [Visualising how close random GUIDs come to being the same](https://www.guidsmash.com)
+- [Dev Compass – Programming Philosophy Quiz](https://treeform.github.io/devcompas/)
+- [Living with Williams Syndrome, the &#39;opposite of autism&#39; &lpar;2014&rpar;](https://www.bbc.com/news/health-26888280)
+- [Show HN: unsafehttp – tiny web server from scratch in C, running on an orange pi](http://unsafehttp.benren.au)
+- [Apple&#39;s new Processor Trace instrument is incredible](https://victorwynne.com/processor-trace-instrument/)
+- [Dyna – Logic Programming for Machine Learning](https://dyna.org/)
+- [A Lisp in 99LOC](https://github.com/Robert-van-Engelen/tinylisp)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Trump says no Ukraine agreement after Putin talks as he advises Zelenskyy to ‘make a deal’ – live](https://www.theguardian.com/world/live/2025/aug/15/trump-putin-alaska-meeting-summit-news-updates)
-- [Washington DC and White House agree to scale back Trump ‘takeover’ of city police](https://www.theguardian.com/us-news/2025/aug/15/trump-dc-police-chief-dea)
-- [Trump says Xi told him China will not invade Taiwan while he is in office](https://www.theguardian.com/world/2025/aug/16/donald-trump-xi-jinping-china-taiwan)
-- [Rybakina happy to have controversial coach back as she beats Sabalenka](https://www.theguardian.com/sport/2025/aug/15/rybakina-happy-to-have-controversial-coach-back-as-she-beats-sabalenka)
-- [Hugo Ekitiké makes another good impression but there is a lot of work for Arne Slot to do | Jonathan Wilson](https://www.theguardian.com/football/2025/aug/15/hugo-ekitike-makes-another-good-impression-but-there-is-a-lot-of-work-for-arne-slot-to-do)
-- [UK rights watchdog warns against ‘heavy-handed’ policing of Gaza protests](https://www.theguardian.com/world/2025/aug/15/uk-rights-watchdog-warns-heavy-handed-policing-gaza-protests)
-- [Little Trouble Girls review – monstrous choirmaster spikes a sublime Catholic coming-of-age tale](https://www.theguardian.com/film/2025/aug/15/little-trouble-girls-review)
-- [New Spurs captain Cristian Romero is committed to club, insists Frank](https://www.theguardian.com/football/2025/aug/15/new-spurs-captain-cristian-romero-is-committed-to-club-insists-frank)
-- [Chiesa and Salah’s late show earns Liverpool dramatic win against Bournemouth](https://www.theguardian.com/football/2025/aug/15/liverpool-bournemouth-premier-league-match-report)
-- [Dominant Hull KR see off Wigan to go six points clear at top of Super League](https://www.theguardian.com/sport/2025/aug/15/dominant-hull-kr-see-off-wigan-to-go-six-points-clear-at-top-of-super-league)
+- [Hong Kong pro-democracy activist Ted Hui reportedly granted asylum in Australia](https://www.theguardian.com/australia-news/2025/aug/17/hong-kong-democracy-activist-ted-hui-asylum-australia-ntwnfb)
+- [Wallabies break South Africa’s aura of invincibility in win that asks: is Australian rugby back?](https://www.theguardian.com/sport/blog/2025/aug/17/wallabies-break-south-africas-aura-of-invincibility-in-win-that-asks-is-australian-rugby-back)
+- [US state department stops issuing visas for Gaza’s children to get medical care](https://www.theguardian.com/us-news/2025/aug/16/gaza-children-visas-medical-care-laura-loomer)
+- [Neil Kinnock calls for government to scrap two-child cap on benefits](https://www.theguardian.com/politics/2025/aug/16/neil-kinnock-calls-for-government-to-scrap-two-child-cap-on-benefits)
+- [Horse racing to go on strike in protest against government’s planned betting tax rise](https://www.theguardian.com/sport/2025/aug/16/horse-racing-to-go-on-strike-in-protest-against-governments-planned-betting-tax-rise)
+- [BBC asks police to investigate new Strictly allegations, reports say](https://www.theguardian.com/media/2025/aug/16/bbc-asks-police-to-investigate-new-strictly-allegations-reports-say)
+- [Anti-racism and anti-immigration protesters in Falkirk face off outside asylum hotel](https://www.theguardian.com/uk-news/2025/aug/16/anti-racism-and-anti-immigration-protesters-in-falkirk-face-off-outside-asylum-hotel)
+- [Moses Itauma stuns Dillian Whyte with devastating first-round knockout](https://www.theguardian.com/sport/2025/aug/16/moses-itauma-stuns-dillian-whyte-with-devastating-first-round-knockout)
+- [Jannik Sinner ends Terence Atmane’s dream run to reach Cincinnati Open final](https://www.theguardian.com/sport/2025/aug/16/jannik-sinner-ends-terence-atmanes-dream-run-to-reach-cincinnati-open-final)
+- [AI tool that speeds up patient discharges trialled by NHS](https://www.theguardian.com/technology/2025/aug/16/nhs-to-trial-ai-tool-that-speeds-up-hospital-discharges)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Hardening Systemd Services](https://us.jlcarveth.dev/post/hardening-systemd.md)
-- [Passive Microwave Repeaters](https://computer.rip/2025-08-16-passive-microwave-repeaters.html)
-- [GDPR meant nothing: chat control ends privacy for the EU [video]](https://www.youtube.com/watch?v=3NyUgv6dpJc)
-- [Visualising how close random GUIDs come to being the same](https://www.guidsmash.com)
-- [Dev Compass – Programming Philosophy Quiz](https://treeform.github.io/devcompas/)
-- [Living with Williams Syndrome, the &#39;opposite of autism&#39; &lpar;2014&rpar;](https://www.bbc.com/news/health-26888280)
-- [Show HN: unsafehttp – tiny web server from scratch in C, running on an orange pi](http://unsafehttp.benren.au)
-- [Apple&#39;s new Processor Trace instrument is incredible](https://victorwynne.com/processor-trace-instrument/)
-- [Dyna – Logic Programming for Machine Learning](https://dyna.org/)
-- [A Lisp in 99LOC](https://github.com/Robert-van-Engelen/tinylisp)
+- [Google admits anti-competitive conduct involving Google Search in Australia](https://www.accc.gov.au/media-release/google-admits-anti-competitive-conduct-involving-google-search-in-australia)
+- [NUMA Is the New Network: Reshaping Per-Socket Microservice Placement](https://codemia.io/blog/path/NUMA-Is-the-New-Network-How-Per-Socket-Memory-Models-Are-Reshaping-Microservice-Placement)
+- [Mangle – a language for deductive database programming](https://github.com/google/mangle)
+- [Clojure Async Flow Guide](https://clojure.github.io/core.async/flow-guide.html)
+- [AI vs. Professional Authors Results](http://mark---lawrence.blogspot.com/2025/08/the-ai-vs-authors-results-part-2.html)
+- [Llama-Scan: Convert PDFs to Text W Local LLMs](https://github.com/ngafar/llama-scan)
+- [HN Search isn&#39;t ingesting new data since Friday](https://github.com/algolia/hn-search/issues/248)
+- [Show HN: Doxx – Terminal .docx viewer inspired by Glow](https://github.com/bgreenwell/doxx)
+- [I Prefer RST to Markdown &lpar;2024&rpar;](https://buttondown.com/hillelwayne/archive/why-i-prefer-rst-to-markdown/)
+- [ArchiveTeam has finished archiving all goo.gl short links](https://tracker.archiveteam.org/goo-gl/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

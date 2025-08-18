@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ask HN: Is Supabase&#39;s Supavisor slow for anyone else?](https://news.ycombinator.com/item?id=44918343)
-- [Why Game Devs Don&#39;t Merge Files](https://www.kuril.in/blog/why-game-devs-dont-merge-files/)
-- [Three AI Futures](https://cacm.acm.org/opinion/three-ai-futures/)
-- [Upcoming DeepSeek AI model failed to train using Huawei&#39;s chips](https://arstechnica.com/ai/2025/08/deepseek-delays-next-ai-model-due-to-poor-performance-of-chinese-made-chips/)
-- [Nvidia STT Parakeet v3](https://huggingface.co/nvidia/parakeet-tdt-0.6b-v3)
-- [Our Workflow with Blender and Godot](https://studio.blender.org/blog/our-workflow-with-blender-and-godot/)
-- [Why LLMs Can Think &lpar;as per new fundamental theory&rpar;](https://claude.ai/public/artifacts/803dac4e-3d57-4524-a53c-bbefea6ce794)
-- [There&#39;s an old-school computer inspired by Apple machines, with classic BASIC](https://reprobate.site/?stage=pearintosh)
-- [Volkswagen wants you to pay monthly to unlock more horsepower](https://www.neowin.net/news/popular-car-brand-wants-you-to-pay-monthly-to-unlock-more-horsepower/)
-- [Building a watch from scratch in a Brooklyn basement](https://kottke.org/25/08/building-a-watch-from-scratch-in-a-brooklyn-basement)
+- [Show HN: Fast360 – A web tool to benchmark open-source OCR models side-by-side](https://fast360.xyz)
+- [How not to check or poll URLs, as illustrated by Fediverse software](https://utcc.utoronto.ca/~cks/space/blog/web/HowNotToCheckURLs)
+- [How CATL Made Sodium-Ion Batteries 90% Cheaper](https://www.youtube.com/watch?v=Wf84NJSiAeU)
+- [If AI takes most of our jobs, money as we know it will be over. What then?](https://theconversation.com/if-ai-takes-most-of-our-jobs-money-as-we-know-it-will-be-over-what-then-262338)
+- [Injecting doubts in the CoT of reasoning models](https://github.com/martianlantern/cot-doubt-injection)
+- [If you love it, download it](https://erysdren.me/blog/2025-08-16/)
+- [What If Every Speed Limit Suddenly Changed? [video]](https://www.youtube.com/watch?v=bVpzCEiT4oo)
+- [What is mathematics? A classification based on universals](https://ebellani.github.io/blog/2025/what-is-mathematics-a-classification-based-on-universals/)
+- [Wplace.ai - A living social globe — meet fascinating people anywhere on Earth.](https://wplace.ai/)
+- [Ruby gems still broken after 15 years](https://felipec.wordpress.com/2025/08/17/ruby-gems-still-broken/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

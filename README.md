@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Hong Kong pro-democracy activist Ted Hui reportedly granted asylum in Australia](https://www.theguardian.com/australia-news/2025/aug/17/hong-kong-democracy-activist-ted-hui-asylum-australia-ntwnfb)
-- [Wallabies break South Africa’s aura of invincibility in win that asks: is Australian rugby back?](https://www.theguardian.com/sport/blog/2025/aug/17/wallabies-break-south-africas-aura-of-invincibility-in-win-that-asks-is-australian-rugby-back)
-- [US state department stops issuing visas for Gaza’s children to get medical care](https://www.theguardian.com/us-news/2025/aug/16/gaza-children-visas-medical-care-laura-loomer)
-- [Neil Kinnock calls for government to scrap two-child cap on benefits](https://www.theguardian.com/politics/2025/aug/16/neil-kinnock-calls-for-government-to-scrap-two-child-cap-on-benefits)
-- [Horse racing to go on strike in protest against government’s planned betting tax rise](https://www.theguardian.com/sport/2025/aug/16/horse-racing-to-go-on-strike-in-protest-against-governments-planned-betting-tax-rise)
-- [BBC asks police to investigate new Strictly allegations, reports say](https://www.theguardian.com/media/2025/aug/16/bbc-asks-police-to-investigate-new-strictly-allegations-reports-say)
-- [Anti-racism and anti-immigration protesters in Falkirk face off outside asylum hotel](https://www.theguardian.com/uk-news/2025/aug/16/anti-racism-and-anti-immigration-protesters-in-falkirk-face-off-outside-asylum-hotel)
-- [Moses Itauma stuns Dillian Whyte with devastating first-round knockout](https://www.theguardian.com/sport/2025/aug/16/moses-itauma-stuns-dillian-whyte-with-devastating-first-round-knockout)
-- [Jannik Sinner ends Terence Atmane’s dream run to reach Cincinnati Open final](https://www.theguardian.com/sport/2025/aug/16/jannik-sinner-ends-terence-atmanes-dream-run-to-reach-cincinnati-open-final)
-- [AI tool that speeds up patient discharges trialled by NHS](https://www.theguardian.com/technology/2025/aug/16/nhs-to-trial-ai-tool-that-speeds-up-hospital-discharges)
+- [Bolivia presidential election: preliminary results put two rightwing candidates in run-off vote](https://www.theguardian.com/world/2025/aug/18/bolivia-presidential-election-preliminary-results)
+- [Trump rules out Ukraine reclaiming Crimea or joining Nato as European leaders gather in Washington](https://www.theguardian.com/world/2025/aug/18/trump-ukraine-crimea-nato-zelesnkyy-washington-meeting)
+- [Trump news at a glance: DC crackdown expands with national guard to be deployed by three more states](https://www.theguardian.com/us-news/2025/aug/18/president-trump-administration-news-updates-today)
+- [Patients in England given more access to crucial health checks out of hours](https://www.theguardian.com/society/2025/aug/18/patients-england-more-access-crucial-health-checks-out-of-hours)
+- [‘Skibidi’, ‘delulu’ and ‘tradwife’ among words added to Cambridge Dictionary](https://www.theguardian.com/books/2025/aug/18/skibidi-delulu-and-tradwife-among-words-added-to-cambridge-dictionary)
+- [Tens of thousands of protesters gather in Tel Aviv to demand end to Gaza war](https://www.theguardian.com/world/2025/aug/17/tens-of-thousands-of-protesters-gather-in-tel-aviv-to-demand-end-to-gaza-war)
+- [Bob MacIntyre blows four-shot lead as Scheffler wins BMW Championship](https://www.theguardian.com/sport/2025/aug/17/bob-macintyre-blows-four-shot-lead-as-scheffler-wins-bmw-championship)
+- [Moyes confident hungry Jack Grealish can bring excitement back to Everton](https://www.theguardian.com/football/2025/aug/17/moyes-confident-hungry-jack-grealish-can-bring-excitement-back-to-everton)
+- [In the Bushes review – a fun and fearful walk on the wild side](https://www.theguardian.com/stage/2025/aug/17/in-the-bushes-review-summerhall-edinburgh)
+- [Mrs Robinson review – the politician whose joyful underdog triumph made the establishment suck lemons](https://www.theguardian.com/tv-and-radio/2025/aug/17/mrs-robinson-review-the-politician-whose-joyful-underdog-triumph-made-the-establishment-suck-lemons)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

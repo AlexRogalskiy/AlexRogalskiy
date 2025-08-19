@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Bolivia presidential election: preliminary results put two rightwing candidates in run-off vote](https://www.theguardian.com/world/2025/aug/18/bolivia-presidential-election-preliminary-results)
-- [Trump rules out Ukraine reclaiming Crimea or joining Nato as European leaders gather in Washington](https://www.theguardian.com/world/2025/aug/18/trump-ukraine-crimea-nato-zelesnkyy-washington-meeting)
-- [Trump news at a glance: DC crackdown expands with national guard to be deployed by three more states](https://www.theguardian.com/us-news/2025/aug/18/president-trump-administration-news-updates-today)
-- [Patients in England given more access to crucial health checks out of hours](https://www.theguardian.com/society/2025/aug/18/patients-england-more-access-crucial-health-checks-out-of-hours)
-- [‘Skibidi’, ‘delulu’ and ‘tradwife’ among words added to Cambridge Dictionary](https://www.theguardian.com/books/2025/aug/18/skibidi-delulu-and-tradwife-among-words-added-to-cambridge-dictionary)
-- [Tens of thousands of protesters gather in Tel Aviv to demand end to Gaza war](https://www.theguardian.com/world/2025/aug/17/tens-of-thousands-of-protesters-gather-in-tel-aviv-to-demand-end-to-gaza-war)
-- [Bob MacIntyre blows four-shot lead as Scheffler wins BMW Championship](https://www.theguardian.com/sport/2025/aug/17/bob-macintyre-blows-four-shot-lead-as-scheffler-wins-bmw-championship)
-- [Moyes confident hungry Jack Grealish can bring excitement back to Everton](https://www.theguardian.com/football/2025/aug/17/moyes-confident-hungry-jack-grealish-can-bring-excitement-back-to-everton)
-- [In the Bushes review – a fun and fearful walk on the wild side](https://www.theguardian.com/stage/2025/aug/17/in-the-bushes-review-summerhall-edinburgh)
-- [Mrs Robinson review – the politician whose joyful underdog triumph made the establishment suck lemons](https://www.theguardian.com/tv-and-radio/2025/aug/17/mrs-robinson-review-the-politician-whose-joyful-underdog-triumph-made-the-establishment-suck-lemons)
+- [Trump claims to be setting up meeting between Zelenskyy and Putin after talks with European leaders end – live](https://www.theguardian.com/world/live/2025/aug/18/ukraine-war-live-update-russia-zelenskyy-washington-trump-europe-meeting-talks-latest-news)
+- [Quentin Tarantino weighs in on one of cinema’s big questions: what is the best Tarantino movie?](https://www.theguardian.com/film/2025/aug/19/quentin-tarantino-weighs-in-on-one-of-cinemas-big-questions-what-is-the-best-tarantino-movie)
+- [US pipeline protester’s obstruction conviction overturned by appeals court](https://www.theguardian.com/environment/2025/aug/18/mylene-vialard-pipeline-protester-conviction-overturned)
+- [Soldier found guilty of attempted espionage in New Zealand’s first spying conviction](https://www.theguardian.com/world/2025/aug/19/new-zealand-military-court-finds-soldier-guilty-of-attempted-espionage)
+- [Parents in England skipping meals to afford school uniforms, survey finds](https://www.theguardian.com/education/2025/aug/19/parents-skipping-meals-to-afford-school-uniforms-survey-england)
+- [Scrapping of audit watchdog for English councils ‘led to soaring costs and chaos’](https://www.theguardian.com/business/2025/aug/19/scrapping-of-audit-commission-england-councils-soaring-costs-chaos-report)
+- [‘Refs have had a poor weekend’: Moyes hits out after Leeds’ penalty winner](https://www.theguardian.com/football/2025/aug/18/refs-have-had-a-poor-weekend-moyes-hits-out-after-leeds-penalty-winner)
+- [Labour condemns Robert Jenrick’s visit to rally attended by far-right activist](https://www.theguardian.com/politics/2025/aug/18/labour-robert-jenrick-visit-rally-far-right-activist-bell-hotel-epping)
+- [Children’s exposure to porn higher than before 2023 Online Safety Act, poll finds](https://www.theguardian.com/society/2025/aug/18/children-exposure-to-porn-online-safety-act-commissioner)
+- [Tractor falls from bridge on to M20 leaving driver critically injured](https://www.theguardian.com/world/2025/aug/18/tractor-falls-from-bridge-on-to-m20-leaving-driver-critically-injured)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

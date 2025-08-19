@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: Fast360 – A web tool to benchmark open-source OCR models side-by-side](https://fast360.xyz)
-- [How not to check or poll URLs, as illustrated by Fediverse software](https://utcc.utoronto.ca/~cks/space/blog/web/HowNotToCheckURLs)
-- [How CATL Made Sodium-Ion Batteries 90% Cheaper](https://www.youtube.com/watch?v=Wf84NJSiAeU)
-- [If AI takes most of our jobs, money as we know it will be over. What then?](https://theconversation.com/if-ai-takes-most-of-our-jobs-money-as-we-know-it-will-be-over-what-then-262338)
-- [Injecting doubts in the CoT of reasoning models](https://github.com/martianlantern/cot-doubt-injection)
-- [If you love it, download it](https://erysdren.me/blog/2025-08-16/)
-- [What If Every Speed Limit Suddenly Changed? [video]](https://www.youtube.com/watch?v=bVpzCEiT4oo)
-- [What is mathematics? A classification based on universals](https://ebellani.github.io/blog/2025/what-is-mathematics-a-classification-based-on-universals/)
-- [Wplace.ai - A living social globe — meet fascinating people anywhere on Earth.](https://wplace.ai/)
-- [Ruby gems still broken after 15 years](https://felipec.wordpress.com/2025/08/17/ruby-gems-still-broken/)
+- [Winding Down Olympia](https://obie.medium.com/winding-down-olympia-41ff8f1e5c83)
+- [Otter is being trained to search for missing people](https://www.wtsp.com/article/life/animals/florida-otter-searches-for-missing-people/67-10cedc5c-5e6f-4907-950a-44095e4ff192)
+- [Ask HN: Are we allowed to discuss Israel on HN?](https://news.ycombinator.com/item?id=44947788)
+- [Heatwave deaths in Europe &gt;= Gun deaths in the US?](https://news.ycombinator.com/item?id=44947760)
+- [Show HN: Memeclip.ai – AI-powered meme maker that turns text into memes](https://memeclip.ai/)
+- [U.S. Public Wary of Biomedical Technologies to &#39;Enhance&#39; Human Abilities &lpar;2016&rpar;](https://www.pewresearch.org/science/2016/07/26/u-s-public-wary-of-biomedical-technologies-to-enhance-human-abilities/)
+- [AI browsers are coming for your clicks – and your privacy](https://proton.me/blog/ai-browsers-perplexity-chrome-privacy)
+- [Croatian Freediver Sers Record for Longest-Held Breath](https://www.sciencealert.com/croatian-freediver-shatters-record-for-longest-held-breath)
+- [Israel changes account of Gaza medic killings after video showed deadly attack](https://www.bbc.com/news/articles/cy0xp969n69o)
+- [The State of Python 2025](https://blog.jetbrains.com/pycharm/2025/08/the-state-of-python-2025/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Google admits anti-competitive conduct involving Google Search in Australia](https://www.accc.gov.au/media-release/google-admits-anti-competitive-conduct-involving-google-search-in-australia)
-- [NUMA Is the New Network: Reshaping Per-Socket Microservice Placement](https://codemia.io/blog/path/NUMA-Is-the-New-Network-How-Per-Socket-Memory-Models-Are-Reshaping-Microservice-Placement)
-- [Mangle – a language for deductive database programming](https://github.com/google/mangle)
-- [Clojure Async Flow Guide](https://clojure.github.io/core.async/flow-guide.html)
-- [AI vs. Professional Authors Results](http://mark---lawrence.blogspot.com/2025/08/the-ai-vs-authors-results-part-2.html)
-- [Llama-Scan: Convert PDFs to Text W Local LLMs](https://github.com/ngafar/llama-scan)
-- [HN Search isn&#39;t ingesting new data since Friday](https://github.com/algolia/hn-search/issues/248)
-- [Show HN: Doxx – Terminal .docx viewer inspired by Glow](https://github.com/bgreenwell/doxx)
-- [I Prefer RST to Markdown &lpar;2024&rpar;](https://buttondown.com/hillelwayne/archive/why-i-prefer-rst-to-markdown/)
-- [ArchiveTeam has finished archiving all goo.gl short links](https://tracker.archiveteam.org/goo-gl/)
+- [Starting game development in JavaScript with no experience](https://jslegenddev.substack.com/p/how-to-start-making-games-in-javascript)
+- [OpenMower – An Open Source Lawn Mower](https://github.com/ClemensElflein/OpenMower)
+- [A general Fortran code for solutions of problems in space mechanics [pdf]](https://jonathanadams.pro/blog-articles/Nasa-Fortran-Code-1963.pdf)
+- [XZ Utils Backdoor Still Lurking in Docker Images](https://www.binarly.io/blog/persistent-risk-xz-utils-backdoor-still-lurking-in-docker-images)
+- [Ted Chiang: The Secret Third Thing](https://linch.substack.com/p/ted-chiang-review)
+- [Croatian freediver held breath for 29 minutes](https://divernet.com/scuba-news/freediving/how-croatian-freediver-held-breath-for-29-minutes/)
+- [What could have been](https://coppolaemilio.com/entries/what-could-have-been/)
+- [Lab-grown salmon hits the menu](https://www.smithsonianmag.com/smart-news/lab-grown-salmon-hits-the-menu-at-an-oregon-restaurant-as-the-fda-greenlights-the-cell-cultured-product-180986769/)
+- [Shamelessness as a strategy &lpar;2019&rpar;](https://nadia.xyz/shameless)
+- [Structured &lpar;Synchronous&rpar; Concurrency](https://fsantanna.github.io/sc.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

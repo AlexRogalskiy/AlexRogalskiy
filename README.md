@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Trump claims to be setting up meeting between Zelenskyy and Putin after talks with European leaders end – live](https://www.theguardian.com/world/live/2025/aug/18/ukraine-war-live-update-russia-zelenskyy-washington-trump-europe-meeting-talks-latest-news)
-- [Quentin Tarantino weighs in on one of cinema’s big questions: what is the best Tarantino movie?](https://www.theguardian.com/film/2025/aug/19/quentin-tarantino-weighs-in-on-one-of-cinemas-big-questions-what-is-the-best-tarantino-movie)
-- [US pipeline protester’s obstruction conviction overturned by appeals court](https://www.theguardian.com/environment/2025/aug/18/mylene-vialard-pipeline-protester-conviction-overturned)
-- [Soldier found guilty of attempted espionage in New Zealand’s first spying conviction](https://www.theguardian.com/world/2025/aug/19/new-zealand-military-court-finds-soldier-guilty-of-attempted-espionage)
-- [Parents in England skipping meals to afford school uniforms, survey finds](https://www.theguardian.com/education/2025/aug/19/parents-skipping-meals-to-afford-school-uniforms-survey-england)
-- [Scrapping of audit watchdog for English councils ‘led to soaring costs and chaos’](https://www.theguardian.com/business/2025/aug/19/scrapping-of-audit-commission-england-councils-soaring-costs-chaos-report)
-- [‘Refs have had a poor weekend’: Moyes hits out after Leeds’ penalty winner](https://www.theguardian.com/football/2025/aug/18/refs-have-had-a-poor-weekend-moyes-hits-out-after-leeds-penalty-winner)
-- [Labour condemns Robert Jenrick’s visit to rally attended by far-right activist](https://www.theguardian.com/politics/2025/aug/18/labour-robert-jenrick-visit-rally-far-right-activist-bell-hotel-epping)
-- [Children’s exposure to porn higher than before 2023 Online Safety Act, poll finds](https://www.theguardian.com/society/2025/aug/18/children-exposure-to-porn-online-safety-act-commissioner)
-- [Tractor falls from bridge on to M20 leaving driver critically injured](https://www.theguardian.com/world/2025/aug/18/tractor-falls-from-bridge-on-to-m20-leaving-driver-critically-injured)
+- [Trump’s tariffs replace diplomacy as other US tools of statecraft are discarded](https://www.theguardian.com/us-news/2025/aug/20/trump-tariffs-replace-diplomacy-us-statecraft-discarded)
+- [Noel Gallagher opens up about his brother Liam on Oasis reunion tour: ‘He’s been amazing’](https://www.theguardian.com/music/2025/aug/20/noel-gallagher-brother-liam-oasis-reunion-tour)
+- [Trump news at a glance: Gabbard strips security clearance from dozens of intelligence officials](https://www.theguardian.com/us-news/2025/aug/20/trump-administration-news-today-latest)
+- [The Toxic Avenger review – strong cast struggles to revive stale horror franchise](https://www.theguardian.com/film/2025/aug/20/the-toxic-avenger-review-peter-dinklage-kevin-bacon)
+- [Why is the New Zealand government cutting Māori words from some school books?](https://www.theguardian.com/world/2025/aug/20/maori-words-school-books-new-zealand)
+- [Leading US economists urge peers to fight Trump’s attack on environment](https://www.theguardian.com/environment/2025/aug/19/leading-us-economists-urge-peers-to-fight-trumps-attack-on-environment)
+- [OpenAI eyes world’s largest valuation for private company in stock sale talks](https://www.theguardian.com/technology/2025/aug/19/openai-chatgpt-stock-sale-reports)
+- [Young vape users three times as likely to start smoking, study finds](https://www.theguardian.com/society/2025/aug/19/young-vape-users-three-times-as-likely-to-start-smoking-study)
+- [Firefighters in race to save Oregon’s tallest tree after it ignites](https://www.theguardian.com/us-news/2025/aug/19/oregon-fire-tallest-tree-doerner-fir)
+- [Zainab Johnson: Toxically Optimistic review – US comic targets gun culture](https://www.theguardian.com/stage/2025/aug/19/zainab-johnson-toxically-optimistic-review-pleasance-courtyard-edinburgh)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

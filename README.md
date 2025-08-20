@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Starting game development in JavaScript with no experience](https://jslegenddev.substack.com/p/how-to-start-making-games-in-javascript)
-- [OpenMower – An Open Source Lawn Mower](https://github.com/ClemensElflein/OpenMower)
-- [A general Fortran code for solutions of problems in space mechanics [pdf]](https://jonathanadams.pro/blog-articles/Nasa-Fortran-Code-1963.pdf)
-- [XZ Utils Backdoor Still Lurking in Docker Images](https://www.binarly.io/blog/persistent-risk-xz-utils-backdoor-still-lurking-in-docker-images)
-- [Ted Chiang: The Secret Third Thing](https://linch.substack.com/p/ted-chiang-review)
-- [Croatian freediver held breath for 29 minutes](https://divernet.com/scuba-news/freediving/how-croatian-freediver-held-breath-for-29-minutes/)
-- [What could have been](https://coppolaemilio.com/entries/what-could-have-been/)
-- [Lab-grown salmon hits the menu](https://www.smithsonianmag.com/smart-news/lab-grown-salmon-hits-the-menu-at-an-oregon-restaurant-as-the-fda-greenlights-the-cell-cultured-product-180986769/)
-- [Shamelessness as a strategy &lpar;2019&rpar;](https://nadia.xyz/shameless)
-- [Structured &lpar;Synchronous&rpar; Concurrency](https://fsantanna.github.io/sc.html)
+- [Copilot broke audit logs, but Microsoft won&#39;t tell customers](https://pistachioapp.com/blog/copilot-broke-your-audit-log)
+- [AGENTS.md – Open format for guiding coding agents](https://agents.md/)
+- [Tiny microbe challenges the definition of cellular life](https://nautil.us/a-rogue-new-life-form-1232095/)
+- [How to Draw a Space Invader](https://muffinman.io/blog/invaders/)
+- [How to Scale Your Model: How to Think About GPUs](https://jax-ml.github.io/scaling-book/gpus/)
+- [Drunken Bishop &lpar;2023&rpar;](https://re.factorcode.org/2023/08/drunken-bishop.html)
+- [Perfect Freehand – Draw perfect pressure-sensitive freehand lines](https://www.perfectfreehand.com/)
+- [Show HN: OpenAI/reflect – Physical AI Assistant that illuminates your life](https://github.com/openai/openai-reflect)
+- [CRDT: Text Buffer](https://madebyevan.com/algos/crdt-text-buffer/)
+- [Vendors that treat single sign-on as a luxury feature](https://sso.tax/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

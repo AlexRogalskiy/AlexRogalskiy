@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Winding Down Olympia](https://obie.medium.com/winding-down-olympia-41ff8f1e5c83)
-- [Otter is being trained to search for missing people](https://www.wtsp.com/article/life/animals/florida-otter-searches-for-missing-people/67-10cedc5c-5e6f-4907-950a-44095e4ff192)
-- [Ask HN: Are we allowed to discuss Israel on HN?](https://news.ycombinator.com/item?id=44947788)
-- [Heatwave deaths in Europe &gt;= Gun deaths in the US?](https://news.ycombinator.com/item?id=44947760)
-- [Show HN: Memeclip.ai – AI-powered meme maker that turns text into memes](https://memeclip.ai/)
-- [U.S. Public Wary of Biomedical Technologies to &#39;Enhance&#39; Human Abilities &lpar;2016&rpar;](https://www.pewresearch.org/science/2016/07/26/u-s-public-wary-of-biomedical-technologies-to-enhance-human-abilities/)
-- [AI browsers are coming for your clicks – and your privacy](https://proton.me/blog/ai-browsers-perplexity-chrome-privacy)
-- [Croatian Freediver Sers Record for Longest-Held Breath](https://www.sciencealert.com/croatian-freediver-shatters-record-for-longest-held-breath)
-- [Israel changes account of Gaza medic killings after video showed deadly attack](https://www.bbc.com/news/articles/cy0xp969n69o)
-- [The State of Python 2025](https://blog.jetbrains.com/pycharm/2025/08/the-state-of-python-2025/)
+- [Show HN: Truth Wave – Community Driven Truth or Myth Game](https://truth-wave.lovable.app/)
+- [Show HN: Web Components SSR and hydration in 1KB– just a decorator, no framework](https://github.com/alexandregiordanelli/web-server-components)
+- [Eye movement patterns reveal subtle signs of cognitive and memory decline](https://medicalxpress.com/news/2025-08-eye-movement-patterns-reveal-subtle.html)
+- [Show HN: Hedge UI – React starter kit for trading applications](https://www.hedgeui.com)
+- [We’re Not So Special: A new book challenges human exceptionalism](https://democracyjournal.org/magazine/78/were-not-so-special/)
+- [Help Seed the Smithsonian Archive](https://neuromatch.social/@jonny/115057753332773769)
+- [Plus, Minus: A Gentle Introduction to the Physics of Orthogonal](https://www.gregegan.net/ORTHOGONAL/00/PM.html)
+- [Online M3U8 video downloader – no more manual fragment merging](https://m3u8downloader.org/)
+- [LLMs Are Letter-Blind and Here&#39;s Why Enterprises Should Care](https://viveksgag.substack.com/p/llms-are-letter-blind)
+- [Microsoft workers occupy HQ in protest against company ties to Israeli military](https://www.theguardian.com/technology/2025/aug/19/microsoft-workers-protest-washington-israel)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

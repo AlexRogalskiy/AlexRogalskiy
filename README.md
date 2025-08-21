@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Copilot broke audit logs, but Microsoft won&#39;t tell customers](https://pistachioapp.com/blog/copilot-broke-your-audit-log)
-- [AGENTS.md – Open format for guiding coding agents](https://agents.md/)
-- [Tiny microbe challenges the definition of cellular life](https://nautil.us/a-rogue-new-life-form-1232095/)
-- [How to Draw a Space Invader](https://muffinman.io/blog/invaders/)
-- [How to Scale Your Model: How to Think About GPUs](https://jax-ml.github.io/scaling-book/gpus/)
-- [Drunken Bishop &lpar;2023&rpar;](https://re.factorcode.org/2023/08/drunken-bishop.html)
-- [Perfect Freehand – Draw perfect pressure-sensitive freehand lines](https://www.perfectfreehand.com/)
-- [Show HN: OpenAI/reflect – Physical AI Assistant that illuminates your life](https://github.com/openai/openai-reflect)
-- [CRDT: Text Buffer](https://madebyevan.com/algos/crdt-text-buffer/)
-- [Vendors that treat single sign-on as a luxury feature](https://sso.tax/)
+- [How to stop feeling lost in tech: the wafflehouse method](https://www.yacinemahdid.com/p/how-to-stop-feeling-lost-in-tech)
+- [Creating 3D Worlds with HTML and CSS &lpar;2013&rpar;](https://keithclark.co.uk/articles/creating-3d-worlds-with-html-and-css/)
+- [Advice for Tech Non-Profits](https://mitchellh.com/writing/advice-for-tech-nonprofits)
+- [A statistical analysis of Rotten Tomatoes](https://www.statsignificant.com/p/is-rotten-tomatoes-still-reliable)
+- [SimpleIDE](https://github.com/jamesplotts/simpleide)
+- [Code review can be better](https://tigerbeetle.com/blog/2025-08-04-code-review-can-be-better/)
+- [Vibe coding creates a bus factor of zero](https://www.mindflash.org/coding/ai/ai-and-the-bus-factor-of-0-1608)
+- [Coris &lpar;YC S22&rpar; Is Hiring](https://www.ycombinator.com/companies/coris/jobs/rqO40yy-ai-engineer)
+- [Show HN: PlutoPrint – Generate PDFs and PNGs from HTML with Python](https://github.com/plutoprint/plutoprint)
+- [Introduction to AT Protocol](https://mackuba.eu/2025/08/20/introduction-to-atproto/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

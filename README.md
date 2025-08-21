@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Trump’s tariffs replace diplomacy as other US tools of statecraft are discarded](https://www.theguardian.com/us-news/2025/aug/20/trump-tariffs-replace-diplomacy-us-statecraft-discarded)
-- [Noel Gallagher opens up about his brother Liam on Oasis reunion tour: ‘He’s been amazing’](https://www.theguardian.com/music/2025/aug/20/noel-gallagher-brother-liam-oasis-reunion-tour)
-- [Trump news at a glance: Gabbard strips security clearance from dozens of intelligence officials](https://www.theguardian.com/us-news/2025/aug/20/trump-administration-news-today-latest)
-- [The Toxic Avenger review – strong cast struggles to revive stale horror franchise](https://www.theguardian.com/film/2025/aug/20/the-toxic-avenger-review-peter-dinklage-kevin-bacon)
-- [Why is the New Zealand government cutting Māori words from some school books?](https://www.theguardian.com/world/2025/aug/20/maori-words-school-books-new-zealand)
-- [Leading US economists urge peers to fight Trump’s attack on environment](https://www.theguardian.com/environment/2025/aug/19/leading-us-economists-urge-peers-to-fight-trumps-attack-on-environment)
-- [OpenAI eyes world’s largest valuation for private company in stock sale talks](https://www.theguardian.com/technology/2025/aug/19/openai-chatgpt-stock-sale-reports)
-- [Young vape users three times as likely to start smoking, study finds](https://www.theguardian.com/society/2025/aug/19/young-vape-users-three-times-as-likely-to-start-smoking-study)
-- [Firefighters in race to save Oregon’s tallest tree after it ignites](https://www.theguardian.com/us-news/2025/aug/19/oregon-fire-tallest-tree-doerner-fir)
-- [Zainab Johnson: Toxically Optimistic review – US comic targets gun culture](https://www.theguardian.com/stage/2025/aug/19/zainab-johnson-toxically-optimistic-review-pleasance-courtyard-edinburgh)
+- [Swiatek/Ruud v Errani/Vavassori: US Open mixed doubles final – live updates](https://www.theguardian.com/sport/live/2025/aug/20/us-open-mixed-doubles-finals-live-updates)
+- [Brazil police file court documents accusing Bolsonaro of planning to flee to Argentina to seek asylum](https://www.theguardian.com/world/2025/aug/21/jair-bolsonaro-argentina-asylum-plan-brazil)
+- [Texas Republicans pass gerrymandered congressional map requested by Trump](https://www.theguardian.com/us-news/2025/aug/20/texas-house-redistricting-bill-floor)
+- [Gender pension gap equates to £7,600 a year, say union leaders](https://www.theguardian.com/world/2025/aug/21/gender-pension-gap-7600-a-year-union-inequality-women)
+- [Treatment that can double bladder cancer survival rates available to 1,000 patients in England](https://www.theguardian.com/society/2025/aug/21/treatment-that-can-double-bladder-cancer-survival-rates-available-to-1000-patients-in-england)
+- [Orlando Pride to break women’s transfer record with $1.5m Lizbeth Ovalle deal](https://www.theguardian.com/football/2025/aug/20/lizbeth-ovalle-orlando-pride-tigres-transfer-record)
+- [Rodgers insists Celtic ‘need to improve squad’ after frustrating draw with Kairat](https://www.theguardian.com/football/2025/aug/20/celtic-kairat-champions-league-playoff-first-leg-match-report)
+- [Irvine Welsh: Reality Is Not Enough review – a candid portrait of a literary one-off](https://www.theguardian.com/film/2025/aug/20/irvine-welsh-reality-is-not-enough-review-a-candid-portrait-of-a-literary-one-off)
+- [UK to evacuate nine Gaza students with university scholarships](https://www.theguardian.com/education/2025/aug/20/nine-students-trapped-in-gaza-will-get-help-to-take-up-places-at-uk-universities)
+- [Labour-run councils consider legal challenges to close asylum hotels](https://www.theguardian.com/politics/2025/aug/20/labour-run-councils-consider-legal-challenges-to-close-hotels-housing-asylum-seekers)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

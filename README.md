@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: Truth Wave – Community Driven Truth or Myth Game](https://truth-wave.lovable.app/)
-- [Show HN: Web Components SSR and hydration in 1KB– just a decorator, no framework](https://github.com/alexandregiordanelli/web-server-components)
-- [Eye movement patterns reveal subtle signs of cognitive and memory decline](https://medicalxpress.com/news/2025-08-eye-movement-patterns-reveal-subtle.html)
-- [Show HN: Hedge UI – React starter kit for trading applications](https://www.hedgeui.com)
-- [We’re Not So Special: A new book challenges human exceptionalism](https://democracyjournal.org/magazine/78/were-not-so-special/)
-- [Help Seed the Smithsonian Archive](https://neuromatch.social/@jonny/115057753332773769)
-- [Plus, Minus: A Gentle Introduction to the Physics of Orthogonal](https://www.gregegan.net/ORTHOGONAL/00/PM.html)
-- [Online M3U8 video downloader – no more manual fragment merging](https://m3u8downloader.org/)
-- [LLMs Are Letter-Blind and Here&#39;s Why Enterprises Should Care](https://viveksgag.substack.com/p/llms-are-letter-blind)
-- [Microsoft workers occupy HQ in protest against company ties to Israeli military](https://www.theguardian.com/technology/2025/aug/19/microsoft-workers-protest-washington-israel)
+- [Scamlexity](https://guard.io/labs/scamlexity-we-put-agentic-ai-browsers-to-the-test-they-clicked-they-paid-they-failed)
+- [Skymont in Gaming Workloads](https://old.chipsandcheese.com/2025/08/20/skymont-in-gaming-workloads/)
+- [ICE Budget Now Bigger Than Most of the Militaries](https://www.newsweek.com/immigration-ice-bill-trump-2093456)
+- [Ow Dynamic K8s Sandboxes Can Improve Dora Metrics](https://www.signadot.com/blog/how-dynamic-environments-unlock-elite-dora-performance-on-kubernetes)
+- [Wyoming&#39;s &#39;Frontier&#39; Stablecoin Debuts on Ethereum, Solana and Avalanche](https://decrypt.co/335704/wyomings-frontier-stablecoin-debuts-ethereum-solana-avalanche)
+- [Don&#39;t ask to ask, just ask](https://dontasktoask.com/)
+- [Cloudflare&#39;s AI image cropping at scale](https://blog.cloudflare.com/ai-face-cropping-for-images/)
+- [How I code with LLMs these days](https://www.phillipcarter.dev/posts/coding-with-llms#rethink-the-decision-to-use-libraries)
+- [Ask HN: Twilio SMS desktop apps &lpar;scriptable&rpar;?](https://news.ycombinator.com/item?id=44968487)
+- [At least 64 have been killed since dawn on Wednesday, including 19 aid seekers](https://www.aljazeera.com/news/liveblog/2025/8/20/live-israel-yet-to-reply-to-gaza-ceasefire-almost-19000-children-killed)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

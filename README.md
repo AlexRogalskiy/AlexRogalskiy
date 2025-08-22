@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Scamlexity](https://guard.io/labs/scamlexity-we-put-agentic-ai-browsers-to-the-test-they-clicked-they-paid-they-failed)
-- [Skymont in Gaming Workloads](https://old.chipsandcheese.com/2025/08/20/skymont-in-gaming-workloads/)
-- [ICE Budget Now Bigger Than Most of the Militaries](https://www.newsweek.com/immigration-ice-bill-trump-2093456)
-- [Ow Dynamic K8s Sandboxes Can Improve Dora Metrics](https://www.signadot.com/blog/how-dynamic-environments-unlock-elite-dora-performance-on-kubernetes)
-- [Wyoming&#39;s &#39;Frontier&#39; Stablecoin Debuts on Ethereum, Solana and Avalanche](https://decrypt.co/335704/wyomings-frontier-stablecoin-debuts-ethereum-solana-avalanche)
-- [Don&#39;t ask to ask, just ask](https://dontasktoask.com/)
-- [Cloudflare&#39;s AI image cropping at scale](https://blog.cloudflare.com/ai-face-cropping-for-images/)
-- [How I code with LLMs these days](https://www.phillipcarter.dev/posts/coding-with-llms#rethink-the-decision-to-use-libraries)
-- [Ask HN: Twilio SMS desktop apps &lpar;scriptable&rpar;?](https://news.ycombinator.com/item?id=44968487)
-- [At least 64 have been killed since dawn on Wednesday, including 19 aid seekers](https://www.aljazeera.com/news/liveblog/2025/8/20/live-israel-yet-to-reply-to-gaza-ceasefire-almost-19000-children-killed)
+- [Accidentally Built a Nuclear Supercomputer. [video]](https://www.youtube.com/watch?v=2JzOe1Hs26Q)
+- [Invasion Intensifies on Karipuna Indigenous Land in the Brazilian Amazon](https://news.mongabay.com/short-article/2025/08/invasion-intensifies-on-karipuna-indigenous-land-in-the-brazilian-amazon/)
+- [Nvidia Orders Halt to H20 Production After China Directive Against Purchases](https://www.cnbc.com/2025/08/22/nvidia-halt-h20-chip-production-china-cracks-down.html)
+- [The Dirty Business Behind Caffeine [video]](https://www.youtube.com/watch?v=F2DhtFo_tgc)
+- [3D Reconstruction from Public Photos with Machine Learning](https://blog.skz.dev/3d-reconstruction-from-public-photos)
+- [Show HN: Tired of ghosting on language apps. I made this to schedule real talks](https://meetapart.com)
+- [You can crash Linux Kernel 6.12.43 LTS with systemd and CAP_SYS_RESOURCE](https://twitter.com/spendergrsec/status/1958264076162998771)
+- [AI Trends in 2025](https://www.youtube.com/watch?v=_bbuRFT2l-Q)
+- [Show HN: Wyze MCP to interact with my smart devices](https://github.com/aldilaff/mcp-wyze-server)
+- [GPT, Fast](https://pytorch.org/blog/accelerating-generative-ai-2/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

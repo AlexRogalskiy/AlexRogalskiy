@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Swiatek/Ruud v Errani/Vavassori: US Open mixed doubles final – live updates](https://www.theguardian.com/sport/live/2025/aug/20/us-open-mixed-doubles-finals-live-updates)
-- [Brazil police file court documents accusing Bolsonaro of planning to flee to Argentina to seek asylum](https://www.theguardian.com/world/2025/aug/21/jair-bolsonaro-argentina-asylum-plan-brazil)
-- [Texas Republicans pass gerrymandered congressional map requested by Trump](https://www.theguardian.com/us-news/2025/aug/20/texas-house-redistricting-bill-floor)
-- [Gender pension gap equates to £7,600 a year, say union leaders](https://www.theguardian.com/world/2025/aug/21/gender-pension-gap-7600-a-year-union-inequality-women)
-- [Treatment that can double bladder cancer survival rates available to 1,000 patients in England](https://www.theguardian.com/society/2025/aug/21/treatment-that-can-double-bladder-cancer-survival-rates-available-to-1000-patients-in-england)
-- [Orlando Pride to break women’s transfer record with $1.5m Lizbeth Ovalle deal](https://www.theguardian.com/football/2025/aug/20/lizbeth-ovalle-orlando-pride-tigres-transfer-record)
-- [Rodgers insists Celtic ‘need to improve squad’ after frustrating draw with Kairat](https://www.theguardian.com/football/2025/aug/20/celtic-kairat-champions-league-playoff-first-leg-match-report)
-- [Irvine Welsh: Reality Is Not Enough review – a candid portrait of a literary one-off](https://www.theguardian.com/film/2025/aug/20/irvine-welsh-reality-is-not-enough-review-a-candid-portrait-of-a-literary-one-off)
-- [UK to evacuate nine Gaza students with university scholarships](https://www.theguardian.com/education/2025/aug/20/nine-students-trapped-in-gaza-will-get-help-to-take-up-places-at-uk-universities)
-- [Labour-run councils consider legal challenges to close asylum hotels](https://www.theguardian.com/politics/2025/aug/20/labour-run-councils-consider-legal-challenges-to-close-hotels-housing-asylum-seekers)
+- [Thailand former PM faces ruling on royal insult case as fate of Shinawatra dynasty hangs in balance](https://www.theguardian.com/world/2025/aug/22/thailand-former-pm-thaksin-shinawatra-royal-insult-lese-majesty-court-case)
+- [Indonesia working on details of plan to treat 2,000 people from Gaza amid concerns about right to return](https://www.theguardian.com/world/2025/aug/22/indonesia-plans-details-treat-2000-injured-palestinians-galang-island)
+- [Federal judge orders closure of Trump’s ‘Alligator Alcatraz’ immigration jail](https://www.theguardian.com/us-news/2025/aug/21/trump-alligator-alcatraz-judge-ruling)
+- [Ukraine war briefing: Zelenskyy reveals huge Flamingo cruise missile as no peace in sight](https://www.theguardian.com/world/2025/aug/22/ukraine-war-briefing-zelenskyy-reveals-huge-flamingo-cruise-missile-as-no-peace-in-sight)
+- [Trump news at a glance: 55m US visa holders in potential limbo in fresh immigration crackdown](https://www.theguardian.com/us-news/2025/aug/22/trump-administration-news-today)
+- [Baby food firms given 18 months to improve quality of products in England](https://www.theguardian.com/society/2025/aug/22/baby-food-firms-18-months-improve-quality-products-england)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2025/aug/22/premier-league-10-things-to-look-out-for-this-weekend)
+- [McIlroy provides thrills but Henley leads Tour Championship after 61](https://www.theguardian.com/sport/2025/aug/21/mcilroy-provides-thrills-but-henley-leads-tour-championship-after-61)
+- [Lil Nas X arrested and hospitalized after altercation with police](https://www.theguardian.com/music/2025/aug/21/lil-nas-x-arrested-hospitalized-police)
+- [Wired and Business Insider remove articles by AI-generated ‘freelancer’](https://www.theguardian.com/us-news/2025/aug/21/ai-author-articles-wired-business-insider)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

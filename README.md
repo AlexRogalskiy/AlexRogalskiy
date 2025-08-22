@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [How to stop feeling lost in tech: the wafflehouse method](https://www.yacinemahdid.com/p/how-to-stop-feeling-lost-in-tech)
-- [Creating 3D Worlds with HTML and CSS &lpar;2013&rpar;](https://keithclark.co.uk/articles/creating-3d-worlds-with-html-and-css/)
-- [Advice for Tech Non-Profits](https://mitchellh.com/writing/advice-for-tech-nonprofits)
-- [A statistical analysis of Rotten Tomatoes](https://www.statsignificant.com/p/is-rotten-tomatoes-still-reliable)
-- [SimpleIDE](https://github.com/jamesplotts/simpleide)
-- [Code review can be better](https://tigerbeetle.com/blog/2025-08-04-code-review-can-be-better/)
-- [Vibe coding creates a bus factor of zero](https://www.mindflash.org/coding/ai/ai-and-the-bus-factor-of-0-1608)
-- [Coris &lpar;YC S22&rpar; Is Hiring](https://www.ycombinator.com/companies/coris/jobs/rqO40yy-ai-engineer)
-- [Show HN: PlutoPrint – Generate PDFs and PNGs from HTML with Python](https://github.com/plutoprint/plutoprint)
-- [Introduction to AT Protocol](https://mackuba.eu/2025/08/20/introduction-to-atproto/)
+- [Control shopping cart wheels with your phone &lpar;2021&rpar;](https://www.begaydocrime.com/)
+- [Google scores six-year Meta cloud deal worth over $10B](https://www.cnbc.com/2025/08/21/google-scores-six-year-meta-cloud-deal-worth-over-10-billion.html)
+- [From GPT-4 to GPT-5: Measuring progress through MedHELM [pdf]](https://www.fertrevino.com/docs/gpt5_medhelm.pdf)
+- [The Onion Brought Back Its Print Edition. The Gamble Is Paying Off](https://www.wsj.com/business/media/the-onion-print-subscribers-6c24649c)
+- [Mirage 2 – Generative World Engine](https://demo.dynamicslab.ai/chaos)
+- [Show HN: Splice – CAD for Cable Harnesses and Electrical Assemblies](https://splice-cad.com)
+- [Text.ai &lpar;YC X25&rpar; Is Hiring Founding Full-Stack Engineer](https://www.ycombinator.com/companies/text-ai/jobs/OJBr0v2-founding-full-stack-engineer)
+- [Uv format: Code Formatting Comes to uv &lpar;experimentally&rpar;](https://pydevtools.com/blog/uv-format-code-formatting-comes-to-uv-experimentally/)
+- [Crimes with Python&#39;s Pattern Matching &lpar;2022&rpar;](https://www.hillelwayne.com/post/python-abc/)
+- [DeepSeek-v3.1 Release](https://api-docs.deepseek.com/news/news250821)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

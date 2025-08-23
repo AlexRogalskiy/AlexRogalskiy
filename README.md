@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Control shopping cart wheels with your phone &lpar;2021&rpar;](https://www.begaydocrime.com/)
-- [Google scores six-year Meta cloud deal worth over $10B](https://www.cnbc.com/2025/08/21/google-scores-six-year-meta-cloud-deal-worth-over-10-billion.html)
-- [From GPT-4 to GPT-5: Measuring progress through MedHELM [pdf]](https://www.fertrevino.com/docs/gpt5_medhelm.pdf)
-- [The Onion Brought Back Its Print Edition. The Gamble Is Paying Off](https://www.wsj.com/business/media/the-onion-print-subscribers-6c24649c)
-- [Mirage 2 – Generative World Engine](https://demo.dynamicslab.ai/chaos)
-- [Show HN: Splice – CAD for Cable Harnesses and Electrical Assemblies](https://splice-cad.com)
-- [Text.ai &lpar;YC X25&rpar; Is Hiring Founding Full-Stack Engineer](https://www.ycombinator.com/companies/text-ai/jobs/OJBr0v2-founding-full-stack-engineer)
-- [Uv format: Code Formatting Comes to uv &lpar;experimentally&rpar;](https://pydevtools.com/blog/uv-format-code-formatting-comes-to-uv-experimentally/)
-- [Crimes with Python&#39;s Pattern Matching &lpar;2022&rpar;](https://www.hillelwayne.com/post/python-abc/)
-- [DeepSeek-v3.1 Release](https://api-docs.deepseek.com/news/news250821)
+- [Japan city drafts ordinance to cap smartphone use at 2 hours per day](https://english.kyodonews.net/articles/-/59582)
+- [South Korea deploys hologram police officer](https://www.scmp.com/week-asia/lifestyle-culture/article/3322654/south-korea-deploys-hologram-police-officer-fight-crime-and-its-working)
+- [Computer fraud laws used to prosecute leaking air crash footage to CNN](https://www.techdirt.com/2025/08/22/investigators-used-terrible-computer-fraud-laws-to-ensure-people-were-punished-for-leaking-air-crash-footage-to-cnn/)
+- [Popular Japanese smartphone games have introduced external payment systems](https://english.kyodonews.net/articles/-/59689)
+- [Mail Carriers Pause US Deliveries as Tariff Shift Sows Confusion](https://www.bloomberg.com/news/articles/2025-08-21/global-mail-services-halt-us-deliveries-ahead-of-de-minimis-end)
+- [Bluesky Goes Dark in Mississippi over Age Verification Law](https://www.wired.com/story/bluesky-goes-dark-in-mississippi-age-verification/)
+- [Transcribe music in abc with syntax highlighting](https://fugue-state.io/app?project=24024aab-22f1-43cc-abef-c1647cc59597)
+- [Glyn: Type-safe PubSub and Registry for Gleam actors with distributed clustering](https://github.com/mbuhot/glyn)
+- [U.S. government takes 10% stake in Intel](https://www.cnbc.com/2025/08/22/intel-goverment-equity-stake.html)
+- [Nitro: A tiny but flexible init system and process supervisor](https://git.vuxu.org/nitro/about/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

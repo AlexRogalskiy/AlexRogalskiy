@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Thailand former PM faces ruling on royal insult case as fate of Shinawatra dynasty hangs in balance](https://www.theguardian.com/world/2025/aug/22/thailand-former-pm-thaksin-shinawatra-royal-insult-lese-majesty-court-case)
-- [Indonesia working on details of plan to treat 2,000 people from Gaza amid concerns about right to return](https://www.theguardian.com/world/2025/aug/22/indonesia-plans-details-treat-2000-injured-palestinians-galang-island)
-- [Federal judge orders closure of Trump’s ‘Alligator Alcatraz’ immigration jail](https://www.theguardian.com/us-news/2025/aug/21/trump-alligator-alcatraz-judge-ruling)
-- [Ukraine war briefing: Zelenskyy reveals huge Flamingo cruise missile as no peace in sight](https://www.theguardian.com/world/2025/aug/22/ukraine-war-briefing-zelenskyy-reveals-huge-flamingo-cruise-missile-as-no-peace-in-sight)
-- [Trump news at a glance: 55m US visa holders in potential limbo in fresh immigration crackdown](https://www.theguardian.com/us-news/2025/aug/22/trump-administration-news-today)
-- [Baby food firms given 18 months to improve quality of products in England](https://www.theguardian.com/society/2025/aug/22/baby-food-firms-18-months-improve-quality-products-england)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2025/aug/22/premier-league-10-things-to-look-out-for-this-weekend)
-- [McIlroy provides thrills but Henley leads Tour Championship after 61](https://www.theguardian.com/sport/2025/aug/21/mcilroy-provides-thrills-but-henley-leads-tour-championship-after-61)
-- [Lil Nas X arrested and hospitalized after altercation with police](https://www.theguardian.com/music/2025/aug/21/lil-nas-x-arrested-hospitalized-police)
-- [Wired and Business Insider remove articles by AI-generated ‘freelancer’](https://www.theguardian.com/us-news/2025/aug/21/ai-author-articles-wired-business-insider)
+- [Trump again mulls Russia sanctions as Ukraine peace remains elusive one week after Alaska summit](https://www.theguardian.com/world/2025/aug/23/trump-again-mulls-russia-sanctions-as-ukraine-peace-remains-elusive-one-week-after-alaska-summit)
+- [Five people killed, including one child, in New York bus crash](https://www.theguardian.com/us-news/2025/aug/22/new-york-bus-crash-niagara-falls)
+- [‘Diplomatic knife fight’ over PNG enters new phase with deepening Australia defence deal](https://www.theguardian.com/world/2025/aug/23/diplomatic-knife-fight-over-png-enters-new-phase-with-deepening-australia-defence-deal)
+- [Wildfire explodes in California wine country as heatwave scorches US west](https://www.theguardian.com/us-news/2025/aug/22/california-wildfire-napa-county)
+- [‘Pressure is a privilege’: Braxton Sorensen-McGee on being New Zealand’s youngest star](https://www.theguardian.com/sport/2025/aug/23/braxton-sorensen-mcgee-nz-new-zealand-womens-rugby-world-cup-2025)
+- [‘Like an Indiana Jones adventure’: the joys of New Zealand’s hot springs](https://www.theguardian.com/world/2025/aug/23/like-an-indiana-jones-adventure-the-joys-of-new-zealands-hot-springs)
+- [Trump says Intel has agreed to give US government a 10% stake](https://www.theguardian.com/technology/2025/aug/22/trump-stake-intel-chips)
+- [Ghislaine Maxwell never saw Trump in ‘any inappropriate setting’, transcript shows](https://www.theguardian.com/us-news/2025/aug/22/ghislaine-maxwell-interview-transcript-justice-department)
+- [Salford stumble on in crisis with their future on the line and fans demanding answers](https://www.theguardian.com/sport/2025/aug/22/salford-stumble-on-in-crisis-with-their-future-on-the-line-and-fans-demanding-answers)
+- [Tottenham only want players who wear club’s ‘fantastic badge’, says Frank](https://www.theguardian.com/football/2025/aug/22/tottenham-only-want-players-committed-to-clubs-fantastic-badge-says-frank)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

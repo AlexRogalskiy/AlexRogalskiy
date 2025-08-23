@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Accidentally Built a Nuclear Supercomputer. [video]](https://www.youtube.com/watch?v=2JzOe1Hs26Q)
-- [Invasion Intensifies on Karipuna Indigenous Land in the Brazilian Amazon](https://news.mongabay.com/short-article/2025/08/invasion-intensifies-on-karipuna-indigenous-land-in-the-brazilian-amazon/)
-- [Nvidia Orders Halt to H20 Production After China Directive Against Purchases](https://www.cnbc.com/2025/08/22/nvidia-halt-h20-chip-production-china-cracks-down.html)
-- [The Dirty Business Behind Caffeine [video]](https://www.youtube.com/watch?v=F2DhtFo_tgc)
-- [3D Reconstruction from Public Photos with Machine Learning](https://blog.skz.dev/3d-reconstruction-from-public-photos)
-- [Show HN: Tired of ghosting on language apps. I made this to schedule real talks](https://meetapart.com)
-- [You can crash Linux Kernel 6.12.43 LTS with systemd and CAP_SYS_RESOURCE](https://twitter.com/spendergrsec/status/1958264076162998771)
-- [AI Trends in 2025](https://www.youtube.com/watch?v=_bbuRFT2l-Q)
-- [Show HN: Wyze MCP to interact with my smart devices](https://github.com/aldilaff/mcp-wyze-server)
-- [GPT, Fast](https://pytorch.org/blog/accelerating-generative-ai-2/)
+- [An Introduction to Trellis-Owl &lpar;1986&rpar;](https://dl.acm.org/doi/pdf/10.1145/960112.28699)
+- [Alda – plain text music notation](https://github.com/alda-lang/alda)
+- [Is AI Zover?](https://www.ft.com/content/2469cd71-9455-4a24-a7b0-a16d5f9586e1)
+- [I Used Claude Code to Build a Directory Site with Zapier-Like Programmatic SEO](https://harishgarg.com/i-used-claude-code-to-built-a-nextjs-directory-site-with-zapier-style-programmatic-seo)
+- [Show HN: Gmail Dot Variations Generator](https://emailvariations.com/)
+- [Docker Registry User Interface: simple, complete UI for your private registry](https://joxit.dev/docker-registry-ui/)
+- [Updated News Headlines](https://getinstantnewsnow.com/)
+- [Determinants and causal effects of admission to selective private colleges [pdf]](https://www.nber.org/system/files/working_papers/w31492/w31492.pdf)
+- [LLMs are NOT Turing Complete &lpar;at train time&rpar;, we need &quot;train time recurrence&quot;](https://fchaubard.github.io/recurrence.html)
+- [Schools turn to AI for lesson plans, problem-solving and more](https://www.wqad.com/article/news/education/education-east-moline-schools-implement-ai-technology-classrooms/526-a28e23dc-02fb-4e5a-8611-a1f9445c5d69)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

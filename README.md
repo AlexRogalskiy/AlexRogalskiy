@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Japan city drafts ordinance to cap smartphone use at 2 hours per day](https://english.kyodonews.net/articles/-/59582)
-- [South Korea deploys hologram police officer](https://www.scmp.com/week-asia/lifestyle-culture/article/3322654/south-korea-deploys-hologram-police-officer-fight-crime-and-its-working)
-- [Computer fraud laws used to prosecute leaking air crash footage to CNN](https://www.techdirt.com/2025/08/22/investigators-used-terrible-computer-fraud-laws-to-ensure-people-were-punished-for-leaking-air-crash-footage-to-cnn/)
-- [Popular Japanese smartphone games have introduced external payment systems](https://english.kyodonews.net/articles/-/59689)
-- [Mail Carriers Pause US Deliveries as Tariff Shift Sows Confusion](https://www.bloomberg.com/news/articles/2025-08-21/global-mail-services-halt-us-deliveries-ahead-of-de-minimis-end)
-- [Bluesky Goes Dark in Mississippi over Age Verification Law](https://www.wired.com/story/bluesky-goes-dark-in-mississippi-age-verification/)
-- [Transcribe music in abc with syntax highlighting](https://fugue-state.io/app?project=24024aab-22f1-43cc-abef-c1647cc59597)
-- [Glyn: Type-safe PubSub and Registry for Gleam actors with distributed clustering](https://github.com/mbuhot/glyn)
-- [U.S. government takes 10% stake in Intel](https://www.cnbc.com/2025/08/22/intel-goverment-equity-stake.html)
-- [Nitro: A tiny but flexible init system and process supervisor](https://git.vuxu.org/nitro/about/)
+- [Not so prompt: Prompt optimization as model selection &lpar;2024&rpar;](https://www.gojiberries.io/not-so-prompt-prompt-optimization-as-model-selection/)
+- [DeepCode: Open Agentic Coding](https://github.com/HKUDS/DeepCode)
+- [AGI is an engineering problem, not a model training problem](https://www.vincirufus.com/posts/agi-is-engineering-problem/)
+- [Debdelta](https://debdelta.debian.net/)
+- [The cost of interrupted work &lpar;2023&rpar;](https://blog.oberien.de/2023/11/05/23-minutes-15-seconds.html)
+- [Gutenprint Discontinues macOS Support](https://gimp-print.sourceforge.io/p_FAQ_OS_X.php)
+- [Motion &lpar;YC W20&rpar; Is Hiring Principal Software Engineers](https://jobs.ashbyhq.com/motion/7355e80d-dab2-4ba1-89cc-a0197e08a83c?utm_source=hn)
+- [Romhack.ing&#39;s Internet Archive Mirror No Longer Available](https://romhack.ing/database/news/entry/DW8BKnRHSEqaGDwXTiKjMw)
+- [A 2k-year-old sun hat worn by a Roman soldier in Egypt](https://www.smithsonianmag.com/smart-news/a-2000-year-old-sun-hat-worn-by-a-roman-soldier-in-egypt-goes-on-view-after-a-century-in-storage-180987192/)
+- [What makes Claude Code so damn good](https://minusx.ai/blog/decoding-claude-code/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Trump again mulls Russia sanctions as Ukraine peace remains elusive one week after Alaska summit](https://www.theguardian.com/world/2025/aug/23/trump-again-mulls-russia-sanctions-as-ukraine-peace-remains-elusive-one-week-after-alaska-summit)
-- [Five people killed, including one child, in New York bus crash](https://www.theguardian.com/us-news/2025/aug/22/new-york-bus-crash-niagara-falls)
-- [‘Diplomatic knife fight’ over PNG enters new phase with deepening Australia defence deal](https://www.theguardian.com/world/2025/aug/23/diplomatic-knife-fight-over-png-enters-new-phase-with-deepening-australia-defence-deal)
-- [Wildfire explodes in California wine country as heatwave scorches US west](https://www.theguardian.com/us-news/2025/aug/22/california-wildfire-napa-county)
-- [‘Pressure is a privilege’: Braxton Sorensen-McGee on being New Zealand’s youngest star](https://www.theguardian.com/sport/2025/aug/23/braxton-sorensen-mcgee-nz-new-zealand-womens-rugby-world-cup-2025)
-- [‘Like an Indiana Jones adventure’: the joys of New Zealand’s hot springs](https://www.theguardian.com/world/2025/aug/23/like-an-indiana-jones-adventure-the-joys-of-new-zealands-hot-springs)
-- [Trump says Intel has agreed to give US government a 10% stake](https://www.theguardian.com/technology/2025/aug/22/trump-stake-intel-chips)
-- [Ghislaine Maxwell never saw Trump in ‘any inappropriate setting’, transcript shows](https://www.theguardian.com/us-news/2025/aug/22/ghislaine-maxwell-interview-transcript-justice-department)
-- [Salford stumble on in crisis with their future on the line and fans demanding answers](https://www.theguardian.com/sport/2025/aug/22/salford-stumble-on-in-crisis-with-their-future-on-the-line-and-fans-demanding-answers)
-- [Tottenham only want players who wear club’s ‘fantastic badge’, says Frank](https://www.theguardian.com/football/2025/aug/22/tottenham-only-want-players-committed-to-clubs-fantastic-badge-says-frank)
+- [‘We keep plodding along’: UK pair two-thirds of the way through 8,000-mile charity row](https://www.theguardian.com/uk-news/2025/aug/24/we-keep-plodding-along-uk-pair-two-thirds-of-the-way-through-8000-mile-charity-row)
+- [Argentina make history with first home win against New Zealand in Rugby Championship](https://www.theguardian.com/sport/2025/aug/24/rugby-championship-argentina-make-history-first-home-win-against-new-zealand)
+- [Handré Pollard scowls at the uprights as if he owns them. Australia could do with a ruthless winner like him](https://www.theguardian.com/sport/blog/2025/aug/24/south-africa-australia-wallabies-handre-pollard-test-match-winner)
+- [Hope, joy, absurdity and marvel: there is so much more to our world story than loss](https://www.theguardian.com/environment/2025/aug/24/hope-joy-absurdity-and-marvel-there-is-so-much-more-to-our-world-story-than-loss)
+- [Pentagon has blocked Ukraine from striking deep inside Russia – report](https://www.theguardian.com/us-news/2025/aug/23/pentagon-ukraine-russia-missiles)
+- [Inspired Cantlay challenges Fleetwood in bid for Tour Championship glory](https://www.theguardian.com/sport/2025/aug/24/inspired-patrick-cantlay-challenges-tommy-fleetwood-in-bid-for-tour-championship-glory)
+- [Man dies in workplace accident at Whitley Bay funfair](https://www.theguardian.com/uk-news/2025/aug/23/man-dies-in-workplace-accident-at-whitley-bay-funfair)
+- [Peacemaker season two review – the orgy scene feels like a TV first](https://www.theguardian.com/tv-and-radio/2025/aug/23/peacemaker-season-two-review-the-orgy-scene-feels-like-a-tv-first)
+- [‘I won’t be holding back’: Jack Draper raring to go at US Open after injury layoff](https://www.theguardian.com/sport/2025/aug/23/i-wont-be-holding-back-jack-draper-raring-to-go-at-us-open-after-injury-layoff)
+- [Arteta welcomes Eze but worried by ‘significant’ Saka injury and Ødegaard blow](https://www.theguardian.com/football/2025/aug/23/mikel-arteta-eberechi-eze-bukayo-saka-martin-odegaard-arsenal-leeds-football)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

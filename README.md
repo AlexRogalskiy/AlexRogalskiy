@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [An Introduction to Trellis-Owl &lpar;1986&rpar;](https://dl.acm.org/doi/pdf/10.1145/960112.28699)
-- [Alda – plain text music notation](https://github.com/alda-lang/alda)
-- [Is AI Zover?](https://www.ft.com/content/2469cd71-9455-4a24-a7b0-a16d5f9586e1)
-- [I Used Claude Code to Build a Directory Site with Zapier-Like Programmatic SEO](https://harishgarg.com/i-used-claude-code-to-built-a-nextjs-directory-site-with-zapier-style-programmatic-seo)
-- [Show HN: Gmail Dot Variations Generator](https://emailvariations.com/)
-- [Docker Registry User Interface: simple, complete UI for your private registry](https://joxit.dev/docker-registry-ui/)
-- [Updated News Headlines](https://getinstantnewsnow.com/)
-- [Determinants and causal effects of admission to selective private colleges [pdf]](https://www.nber.org/system/files/working_papers/w31492/w31492.pdf)
-- [LLMs are NOT Turing Complete &lpar;at train time&rpar;, we need &quot;train time recurrence&quot;](https://fchaubard.github.io/recurrence.html)
-- [Schools turn to AI for lesson plans, problem-solving and more](https://www.wqad.com/article/news/education/education-east-moline-schools-implement-ai-technology-classrooms/526-a28e23dc-02fb-4e5a-8611-a1f9445c5d69)
+- [I built a tiny Mac app to monitor and manage my development processes](https://github.com/kagehq/port-kill)
+- [PeaceFounder: Simple centralized Evoting thats voter-verifiable and private](https://peacefounder.org)
+- [Show HN: Run AI models directly in the browser – no server or internet required](https://private-ai-chat.vercel.app/)
+- [Drawing Persona 5 UI with Compose [video]](https://www.youtube.com/watch?v=9KdP2idt6LE)
+- [Scientists Are Caught in a Political Trap](https://www.theatlantic.com/science/archive/2025/08/scientists-politicalization/683992/)
+- [Exceptional Nordic heatwave stumps tourists seeking shade](https://www.yahoo.com/news/articles/exceptional-nordic-heatwave-stumps-tourists-161015105.html)
+- [CVE-2025-8901: OOB write in Chrome](https://nvd.nist.gov/vuln/detail/CVE-2025-8901)
+- [Using information theory to solve Mastermind](https://www.goranssongaspar.com/mastermind)
+- [Review: Ollantay](https://www.astralcodexten.com/p/your-review-ollantay)
+- [Agentic Browser Security: Indirect Prompt Injection in Perplexity Comet](https://brave.com/blog/comet-prompt-injection/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

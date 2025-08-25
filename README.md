@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Not so prompt: Prompt optimization as model selection &lpar;2024&rpar;](https://www.gojiberries.io/not-so-prompt-prompt-optimization-as-model-selection/)
-- [DeepCode: Open Agentic Coding](https://github.com/HKUDS/DeepCode)
-- [AGI is an engineering problem, not a model training problem](https://www.vincirufus.com/posts/agi-is-engineering-problem/)
-- [Debdelta](https://debdelta.debian.net/)
-- [The cost of interrupted work &lpar;2023&rpar;](https://blog.oberien.de/2023/11/05/23-minutes-15-seconds.html)
-- [Gutenprint Discontinues macOS Support](https://gimp-print.sourceforge.io/p_FAQ_OS_X.php)
-- [Motion &lpar;YC W20&rpar; Is Hiring Principal Software Engineers](https://jobs.ashbyhq.com/motion/7355e80d-dab2-4ba1-89cc-a0197e08a83c?utm_source=hn)
-- [Romhack.ing&#39;s Internet Archive Mirror No Longer Available](https://romhack.ing/database/news/entry/DW8BKnRHSEqaGDwXTiKjMw)
-- [A 2k-year-old sun hat worn by a Roman soldier in Egypt](https://www.smithsonianmag.com/smart-news/a-2000-year-old-sun-hat-worn-by-a-roman-soldier-in-egypt-goes-on-view-after-a-century-in-storage-180987192/)
-- [What makes Claude Code so damn good](https://minusx.ai/blog/decoding-claude-code/)
+- [Prison isn’t set up for today’s tech so we have to do legal work the old way](https://prisonjournalismproject.org/2025/08/19/prisons-outdated-technology-hurts-our-chances-at-freedom/)
+- [How to check if your Apple Silicon Mac is booting securely](https://eclecticlight.co/2025/08/21/how-to-check-if-your-apple-silicon-mac-is-booting-securely/)
+- [Show HN: Sping – An HTTP/TCP latency tool that&#39;s easy on the eye](https://dseltzer.gitlab.io/sping/docs/)
+- [Ghrc.io appears to be malicious](https://bmitch.net/blog/2025-08-22-ghrc-appears-malicious/)
+- [GNU cross-tools: musl-cross 313.3M](https://github.com/cross-tools/musl-cross)
+- [Uncle Sam shouldn&#39;t own Intel stock](https://www.wsj.com/opinion/uncle-sam-shouldnt-own-intel-stock-ccd6986d)
+- [Halt and Catch Fire Syllabus &lpar;2021&rpar;](https://bits.ashleyblewer.com/halt-and-catch-fire-syllabus/)
+- [How many paths of length K are there between A and B? &lpar;2021&rpar;](https://horace.io/walks)
+- [A Brilliant and Nearby One-off Fast Radio Burst Localized to 13 pc Precision](https://iopscience.iop.org/article/10.3847/2041-8213/adf62f)
+- [Everything I know about good API design](https://www.seangoedecke.com/good-api-design/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

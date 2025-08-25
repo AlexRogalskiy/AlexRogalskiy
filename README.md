@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [I built a tiny Mac app to monitor and manage my development processes](https://github.com/kagehq/port-kill)
-- [PeaceFounder: Simple centralized Evoting thats voter-verifiable and private](https://peacefounder.org)
-- [Show HN: Run AI models directly in the browser – no server or internet required](https://private-ai-chat.vercel.app/)
-- [Drawing Persona 5 UI with Compose [video]](https://www.youtube.com/watch?v=9KdP2idt6LE)
-- [Scientists Are Caught in a Political Trap](https://www.theatlantic.com/science/archive/2025/08/scientists-politicalization/683992/)
-- [Exceptional Nordic heatwave stumps tourists seeking shade](https://www.yahoo.com/news/articles/exceptional-nordic-heatwave-stumps-tourists-161015105.html)
-- [CVE-2025-8901: OOB write in Chrome](https://nvd.nist.gov/vuln/detail/CVE-2025-8901)
-- [Using information theory to solve Mastermind](https://www.goranssongaspar.com/mastermind)
-- [Review: Ollantay](https://www.astralcodexten.com/p/your-review-ollantay)
-- [Agentic Browser Security: Indirect Prompt Injection in Perplexity Comet](https://brave.com/blog/comet-prompt-injection/)
+- [Typeclassopedia](https://wiki.haskell.org/index.php?title=Typeclassopedia)
+- [Digital Cargo Cult: How Zoomers Ruined Old Internet Nostalgia](https://cy-x.net/articles?id=13)
+- [Gemini CLI: Custom slash commands](https://cloud.google.com/blog/topics/developers-practitioners/gemini-cli-custom-slash-commands)
+- [Burkina Faso Halts Gates Foundation-Backed Anti-Malaria Project](https://www.bloomberg.com/news/articles/2025-08-23/burkina-faso-halts-gates-foundation-backed-anti-malaria-project)
+- [Show HN: Fast, private command-line history search with instant documentation](https://github.com/cybrota/recaller)
+- [Japan has opened its first osmotic power plant –what is it and how does it work?](https://www.theguardian.com/world/2025/aug/25/japan-osmotic-power-plant-fukuoka)
+- [Regular Expression Matching Can Be Simple and Fast &lpar;2007&rpar;](https://swtch.com/~rsc/regexp/regexp1.html)
+- [The Robinhood of Systemic Trading – Nvestiq](https://www.nvestiq.com/)
+- [Understanding alignment – from source to object file](https://maskray.me/blog/2025-08-24-understanding-alignment-from-source-to-object-file)
+- [Leeches and the Legitimizing of Folk-Medicine](https://www.asimov.press/p/leeches)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

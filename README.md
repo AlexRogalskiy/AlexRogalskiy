@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [‘We keep plodding along’: UK pair two-thirds of the way through 8,000-mile charity row](https://www.theguardian.com/uk-news/2025/aug/24/we-keep-plodding-along-uk-pair-two-thirds-of-the-way-through-8000-mile-charity-row)
-- [Argentina make history with first home win against New Zealand in Rugby Championship](https://www.theguardian.com/sport/2025/aug/24/rugby-championship-argentina-make-history-first-home-win-against-new-zealand)
-- [Handré Pollard scowls at the uprights as if he owns them. Australia could do with a ruthless winner like him](https://www.theguardian.com/sport/blog/2025/aug/24/south-africa-australia-wallabies-handre-pollard-test-match-winner)
-- [Hope, joy, absurdity and marvel: there is so much more to our world story than loss](https://www.theguardian.com/environment/2025/aug/24/hope-joy-absurdity-and-marvel-there-is-so-much-more-to-our-world-story-than-loss)
-- [Pentagon has blocked Ukraine from striking deep inside Russia – report](https://www.theguardian.com/us-news/2025/aug/23/pentagon-ukraine-russia-missiles)
-- [Inspired Cantlay challenges Fleetwood in bid for Tour Championship glory](https://www.theguardian.com/sport/2025/aug/24/inspired-patrick-cantlay-challenges-tommy-fleetwood-in-bid-for-tour-championship-glory)
-- [Man dies in workplace accident at Whitley Bay funfair](https://www.theguardian.com/uk-news/2025/aug/23/man-dies-in-workplace-accident-at-whitley-bay-funfair)
-- [Peacemaker season two review – the orgy scene feels like a TV first](https://www.theguardian.com/tv-and-radio/2025/aug/23/peacemaker-season-two-review-the-orgy-scene-feels-like-a-tv-first)
-- [‘I won’t be holding back’: Jack Draper raring to go at US Open after injury layoff](https://www.theguardian.com/sport/2025/aug/23/i-wont-be-holding-back-jack-draper-raring-to-go-at-us-open-after-injury-layoff)
-- [Arteta welcomes Eze but worried by ‘significant’ Saka injury and Ødegaard blow](https://www.theguardian.com/football/2025/aug/23/mikel-arteta-eberechi-eze-bukayo-saka-martin-odegaard-arsenal-leeds-football)
+- [Japan has opened its first osmotic power plant – so what is it and how does it work?](https://www.theguardian.com/world/2025/aug/25/japan-osmotic-power-plant-fukuoka)
+- [Erin Patterson plea hearing live updates: mushroom murder cook faces victims&#39; families in pre-sentence hearing – latest news](https://www.theguardian.com/australia-news/live/2025/aug/25/erin-patterson-live-updates-mushroom-murder-victim-impact-statements-plea-hearing-ntwnfb)
+- [SpaceX scrubs Starship rocket launch to troubleshoot ‘ground systems’ issue](https://www.theguardian.com/science/2025/aug/24/spacex-starship-rocket-launch-elon-musk)
+- [Epstein accuser Virginia Giuffre’s memoir to be published posthumously](https://www.theguardian.com/us-news/2025/aug/25/epstein-accuser-virginia-giuffres-memoir-to-be-published-posthumously)
+- [Women’s Super League 2025-26 previews No 1: Arsenal](https://www.theguardian.com/football/2025/aug/25/womens-super-league-2025-26-previews-no-1-arsenal)
+- [Trump ‘manufactured crisis’ to justify plan to send national guard to Chicago, leading Democrat says](https://www.theguardian.com/us-news/2025/aug/24/trump-national-guard-chicago-hakeem-jeffries)
+- [Tommy Fleetwood wins Tour Championship to finally break US duck](https://www.theguardian.com/sport/2025/aug/24/tommy-fleetwood-wins-tour-championship-to-finally-break-us-duck)
+- [France summons US ambassador Charles Kushner over antisemitism allegations](https://www.theguardian.com/world/2025/aug/24/france-summons-us-ambassador-antisemitism-allegations)
+- [Wildfires in California and Oregon grow, prompting evacuations and warnings](https://www.theguardian.com/us-news/2025/aug/24/wildfires-california-oregon-grow)
+- [King and Conqueror review – James Norton and Nikolaj Coster-Waldau fight the Battle of Hastings](https://www.theguardian.com/tv-and-radio/2025/aug/24/king-and-conqueror-review-james-norton-and-nikolaj-coster-waldau-fight-the-battle-of-hastings)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

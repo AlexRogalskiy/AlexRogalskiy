@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Typeclassopedia](https://wiki.haskell.org/index.php?title=Typeclassopedia)
-- [Digital Cargo Cult: How Zoomers Ruined Old Internet Nostalgia](https://cy-x.net/articles?id=13)
-- [Gemini CLI: Custom slash commands](https://cloud.google.com/blog/topics/developers-practitioners/gemini-cli-custom-slash-commands)
-- [Burkina Faso Halts Gates Foundation-Backed Anti-Malaria Project](https://www.bloomberg.com/news/articles/2025-08-23/burkina-faso-halts-gates-foundation-backed-anti-malaria-project)
-- [Show HN: Fast, private command-line history search with instant documentation](https://github.com/cybrota/recaller)
-- [Japan has opened its first osmotic power plant –what is it and how does it work?](https://www.theguardian.com/world/2025/aug/25/japan-osmotic-power-plant-fukuoka)
-- [Regular Expression Matching Can Be Simple and Fast &lpar;2007&rpar;](https://swtch.com/~rsc/regexp/regexp1.html)
-- [The Robinhood of Systemic Trading – Nvestiq](https://www.nvestiq.com/)
-- [Understanding alignment – from source to object file](https://maskray.me/blog/2025-08-24-understanding-alignment-from-source-to-object-file)
-- [Leeches and the Legitimizing of Folk-Medicine](https://www.asimov.press/p/leeches)
+- [Dollar Drops as Trump Says He&#39;s Firing Fed Governor Cook](https://www.bloomberg.com/news/articles/2025-08-25/stock-market-today-dow-s-p-live-updates)
+- [Cotyledon](https://en.wikipedia.org/wiki/Cotyledon)
+- [Babelmark3 – Compare Markdown Implementations](http://babelmark.github.io/)
+- [How China Became an Innovation Powerhouse](https://www.economist.com/business/2025/08/25/how-china-became-an-innovation-powerhouse)
+- [Tell HN: Out the door price for Unitree R1 &lpar;$5900&rpar; Robot to USA](https://news.ycombinator.com/item?id=45021743)
+- [Built a small site to track AI jobs in Australia, worth continuing?](https://news.ycombinator.com/item?id=45021734)
+- [Claude Runs Claude](https://evanverma.com/claude-runs-claude)
+- [Trump says China has to give US magnets or face 200% tariff](https://www.reuters.com/world/china/trump-says-china-has-give-us-magnets-or-face-200-tariff-2025-08-25/)
+- [First PCSK9 Inhibitor Approved for Blanket Prevention of Heart Disease](https://www.medpagetoday.com/cardiology/dyslipidemia/117148)
+- [Senator castigates federal judiciary for ignoring &quot;basic cybersecurity&quot;](https://arstechnica.com/security/2025/08/senator-to-supreme-court-justice-federal-court-hacks-threaten-us-security/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

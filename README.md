@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Prison isn’t set up for today’s tech so we have to do legal work the old way](https://prisonjournalismproject.org/2025/08/19/prisons-outdated-technology-hurts-our-chances-at-freedom/)
-- [How to check if your Apple Silicon Mac is booting securely](https://eclecticlight.co/2025/08/21/how-to-check-if-your-apple-silicon-mac-is-booting-securely/)
-- [Show HN: Sping – An HTTP/TCP latency tool that&#39;s easy on the eye](https://dseltzer.gitlab.io/sping/docs/)
-- [Ghrc.io appears to be malicious](https://bmitch.net/blog/2025-08-22-ghrc-appears-malicious/)
-- [GNU cross-tools: musl-cross 313.3M](https://github.com/cross-tools/musl-cross)
-- [Uncle Sam shouldn&#39;t own Intel stock](https://www.wsj.com/opinion/uncle-sam-shouldnt-own-intel-stock-ccd6986d)
-- [Halt and Catch Fire Syllabus &lpar;2021&rpar;](https://bits.ashleyblewer.com/halt-and-catch-fire-syllabus/)
-- [How many paths of length K are there between A and B? &lpar;2021&rpar;](https://horace.io/walks)
-- [A Brilliant and Nearby One-off Fast Radio Burst Localized to 13 pc Precision](https://iopscience.iop.org/article/10.3847/2041-8213/adf62f)
-- [Everything I know about good API design](https://www.seangoedecke.com/good-api-design/)
+- [Apple vs. Facebook Is Kayfabe](https://infrequently.org/2025/08/apple-vs-fb-kayfabe/)
+- [The Limits of NTP Accuracy on Linux](https://scottstuff.net/posts/2025/05/19/ntp-limits/)
+- [Climbing catfish filmed scaling waterfalls](https://www.science.org/content/article/thousands-climbing-catfish-filmed-scaling-waterfalls)
+- [macOS 26 Tahoe&#39;s Dead Canary Utility App Icons](https://daringfireball.net/2025/08/macos_26_tahoes_dead_canary_utility_app_icons)
+- [WiFi-3D-Fusion – Real-time 3D motion sensing with Wi-Fi](https://github.com/MaliosDark/wifi-3d-fusion)
+- [Exploring the tragedy of the Counter-Strike 2 server browser](https://bphilip.uk/blog/2025-08-25-the-cs2-server-browser-where-community-goes-to-die/)
+- [AI Is Slowing Down Tracker](https://aislowdown.replit.app/)
+- [Blacksky grew to millions of users without spending a dollar](https://newpublic.substack.com/p/how-blacksky-grew-to-millions-of)
+- [Reverse Engineering All the Raspberry Pis](https://www.jeffgeerling.com/blog/2025/reverse-engineering-all-raspberry-pis)
+- [Study finds gaps in evidence for air-cleaning technologies to prevent infections](https://news.cuanschutz.edu/news-stories/study-finds-gaps-in-evidence-for-air-cleaning-technologies-designed-to-prevent-respiratory-infections)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

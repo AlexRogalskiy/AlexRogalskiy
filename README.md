@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Japan has opened its first osmotic power plant – so what is it and how does it work?](https://www.theguardian.com/world/2025/aug/25/japan-osmotic-power-plant-fukuoka)
-- [Erin Patterson plea hearing live updates: mushroom murder cook faces victims&#39; families in pre-sentence hearing – latest news](https://www.theguardian.com/australia-news/live/2025/aug/25/erin-patterson-live-updates-mushroom-murder-victim-impact-statements-plea-hearing-ntwnfb)
-- [SpaceX scrubs Starship rocket launch to troubleshoot ‘ground systems’ issue](https://www.theguardian.com/science/2025/aug/24/spacex-starship-rocket-launch-elon-musk)
-- [Epstein accuser Virginia Giuffre’s memoir to be published posthumously](https://www.theguardian.com/us-news/2025/aug/25/epstein-accuser-virginia-giuffres-memoir-to-be-published-posthumously)
-- [Women’s Super League 2025-26 previews No 1: Arsenal](https://www.theguardian.com/football/2025/aug/25/womens-super-league-2025-26-previews-no-1-arsenal)
-- [Trump ‘manufactured crisis’ to justify plan to send national guard to Chicago, leading Democrat says](https://www.theguardian.com/us-news/2025/aug/24/trump-national-guard-chicago-hakeem-jeffries)
-- [Tommy Fleetwood wins Tour Championship to finally break US duck](https://www.theguardian.com/sport/2025/aug/24/tommy-fleetwood-wins-tour-championship-to-finally-break-us-duck)
-- [France summons US ambassador Charles Kushner over antisemitism allegations](https://www.theguardian.com/world/2025/aug/24/france-summons-us-ambassador-antisemitism-allegations)
-- [Wildfires in California and Oregon grow, prompting evacuations and warnings](https://www.theguardian.com/us-news/2025/aug/24/wildfires-california-oregon-grow)
-- [King and Conqueror review – James Norton and Nikolaj Coster-Waldau fight the Battle of Hastings](https://www.theguardian.com/tv-and-radio/2025/aug/24/king-and-conqueror-review-james-norton-and-nikolaj-coster-waldau-fight-the-battle-of-hastings)
+- [Cambodia MPs pass ‘chilling’ bill enabling citizenship to be stripped](https://www.theguardian.com/world/2025/aug/26/cambodia-treason-citizenship-law)
+- [Protests erupt in Indonesia over privileges for parliament members and ‘corrupt elites’](https://www.theguardian.com/world/2025/aug/26/indonesia-protests-austerity-parliament-member-privileges)
+- [Venus Williams’ US Open return ends with first-round defeat to Karolína Muchová](https://www.theguardian.com/sport/2025/aug/26/us-open-2025-venus-williams-karolina-muchova-first-round-match-report)
+- [Australia’s drowning death toll highest since records began three decades ago](https://www.theguardian.com/lifeandstyle/2025/aug/26/australias-drowning-death-toll-highest-since-records-began-three-decades-ago)
+- [SpaceX scraps Starship rocket launch in Texas for second time in two days](https://www.theguardian.com/science/2025/aug/25/elon-musk-spacex-starship-rocket-launch-texas)
+- [Trump news at a glance: president takes on supreme court with order to criminalise flag burning](https://www.theguardian.com/us-news/2025/aug/26/president-trump-administration-news-today-latest)
+- [Piracy and armed robbery surge in the straits of Malacca and Singapore – report](https://www.theguardian.com/world/2025/aug/26/piracy-straits-of-malacca-singapore)
+- [Howe says he wants ‘players who are committed to Newcastle’ after defeat by Liverpool](https://www.theguardian.com/football/2025/aug/26/howe-says-he-wants-players-who-are-committed-to-newcastle-after-defeat-by-liverpool)
+- [Women’s Super League 2025-26 previews No 2: Aston Villa](https://www.theguardian.com/football/2025/aug/26/womens-super-league-2025-26-previews-no-2-aston-villa)
+- [UK to clarify definition of ‘honour’-based abuse in drive to cut violence against women and girls](https://www.theguardian.com/society/2025/aug/26/uk-to-clarify-definition-of-honour-based-abuse-in-drive-to-cut-violence-against-women-and-girls)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

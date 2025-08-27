@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Dollar Drops as Trump Says He&#39;s Firing Fed Governor Cook](https://www.bloomberg.com/news/articles/2025-08-25/stock-market-today-dow-s-p-live-updates)
-- [Cotyledon](https://en.wikipedia.org/wiki/Cotyledon)
-- [Babelmark3 – Compare Markdown Implementations](http://babelmark.github.io/)
-- [How China Became an Innovation Powerhouse](https://www.economist.com/business/2025/08/25/how-china-became-an-innovation-powerhouse)
-- [Tell HN: Out the door price for Unitree R1 &lpar;$5900&rpar; Robot to USA](https://news.ycombinator.com/item?id=45021743)
-- [Built a small site to track AI jobs in Australia, worth continuing?](https://news.ycombinator.com/item?id=45021734)
-- [Claude Runs Claude](https://evanverma.com/claude-runs-claude)
-- [Trump says China has to give US magnets or face 200% tariff](https://www.reuters.com/world/china/trump-says-china-has-give-us-magnets-or-face-200-tariff-2025-08-25/)
-- [First PCSK9 Inhibitor Approved for Blanket Prevention of Heart Disease](https://www.medpagetoday.com/cardiology/dyslipidemia/117148)
-- [Senator castigates federal judiciary for ignoring &quot;basic cybersecurity&quot;](https://arstechnica.com/security/2025/08/senator-to-supreme-court-justice-federal-court-hacks-threaten-us-security/)
+- [iPhone 17 Air](https://www.macrumors.com/roundup/iphone-17-air/)
+- [Show HN: Regolith – Regex library that prevents ReDoS CVEs in TypeScript](https://github.com/JakeRoggenbuck/regolith)
+- [Put a ring on it: a lock-free MPMC ring buffer](https://h4x0r.org/ring/)
+- [USBImager – A Lightweight Alternative to BalenaEtcher &lpar;2020&rpar;](https://www.cnx-software.com/2020/09/08/usbimager-a-lightweight-alternative-to-balenaetcher/)
+- [Learn You a NeRF](https://www.peterstefek.me/nerf.html)
+- [Funds control about $47T, what do they say about climate change?](https://www.alt-carbon.com/blog/how-the-worlds-largest-funds-are-investing-with-climate-change-in-mind)
+- [The $1M shot that changed sports contests forever](https://www.espn.com/nba/story/_/id/36146138/million-dollar-shot-michael-jordan-chicago-bulls-1993)
+- [The Top Journalism Movies of All Time](https://journalism.nyu.edu/about-us/news/top-ten-journalism-movies-all-time/)
+- [James Webb Space Telescope takes first look at interstellar comet 3I/ATLAS](https://www.space.com/astronomy/james-webb-space-telescope-takes-1st-look-at-interstellar-comet-3i-atlas-with-unexpected-results)
+- [Show HN: An AI Tool to Summarize YouTube Videos](https://vdown.me/youtube-summarizer)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

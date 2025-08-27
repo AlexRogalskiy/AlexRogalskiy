@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Cambodia MPs pass ‘chilling’ bill enabling citizenship to be stripped](https://www.theguardian.com/world/2025/aug/26/cambodia-treason-citizenship-law)
-- [Protests erupt in Indonesia over privileges for parliament members and ‘corrupt elites’](https://www.theguardian.com/world/2025/aug/26/indonesia-protests-austerity-parliament-member-privileges)
-- [Venus Williams’ US Open return ends with first-round defeat to Karolína Muchová](https://www.theguardian.com/sport/2025/aug/26/us-open-2025-venus-williams-karolina-muchova-first-round-match-report)
-- [Australia’s drowning death toll highest since records began three decades ago](https://www.theguardian.com/lifeandstyle/2025/aug/26/australias-drowning-death-toll-highest-since-records-began-three-decades-ago)
-- [SpaceX scraps Starship rocket launch in Texas for second time in two days](https://www.theguardian.com/science/2025/aug/25/elon-musk-spacex-starship-rocket-launch-texas)
-- [Trump news at a glance: president takes on supreme court with order to criminalise flag burning](https://www.theguardian.com/us-news/2025/aug/26/president-trump-administration-news-today-latest)
-- [Piracy and armed robbery surge in the straits of Malacca and Singapore – report](https://www.theguardian.com/world/2025/aug/26/piracy-straits-of-malacca-singapore)
-- [Howe says he wants ‘players who are committed to Newcastle’ after defeat by Liverpool](https://www.theguardian.com/football/2025/aug/26/howe-says-he-wants-players-who-are-committed-to-newcastle-after-defeat-by-liverpool)
-- [Women’s Super League 2025-26 previews No 2: Aston Villa](https://www.theguardian.com/football/2025/aug/26/womens-super-league-2025-26-previews-no-2-aston-villa)
-- [UK to clarify definition of ‘honour’-based abuse in drive to cut violence against women and girls](https://www.theguardian.com/society/2025/aug/26/uk-to-clarify-definition-of-honour-based-abuse-in-drive-to-cut-violence-against-women-and-girls)
+- [Bruce Willis’ dementia diagnosis: ‘language is going’, says actor’s wife](https://www.theguardian.com/film/2025/aug/27/bruce-williss-language-is-going-says-wife-two-years-after-actors-dementia-diagnosis)
+- [Starships are meant to fly: SpaceX’s rocket finally launches after setbacks](https://www.theguardian.com/us-news/2025/aug/26/spacex-starship-launch)
+- [Trump news at a glance: president hints he already has replacement in mind for Fed governor Lisa Cook](https://www.theguardian.com/us-news/2025/aug/27/trump-news-at-a-glance-president-hints-he-already-has-replacement-in-mind-for-fed-governor-lisa-cook)
+- [The women breaking the cycle of violence in Papua New Guinea](https://www.theguardian.com/world/ng-interactive/2025/aug/27/reducing-violence-against-women-png-papua-new-guinea)
+- [Ukraine war briefing: Russian troops inside Dnipropetrovsk region, Ukraine says](https://www.theguardian.com/world/2025/aug/27/ukraine-war-briefing-russian-troops-inside-dnipropetrovsk-region-ukraine-says)
+- [Cancer charities call for earlier diagnosis as cases projected to surge in England by 2040](https://www.theguardian.com/society/2025/aug/27/cancer-charities-call-for-earlier-diagnosis-as-cases-projected-to-surge-in-england-by-2040)
+- [Toy air fryer will be a Christmas bestseller, John Lewis predicts](https://www.theguardian.com/lifeandstyle/2025/aug/27/toy-air-fryer-christmas-bestseller-john-lewis)
+- [Women’s Super League 2025-26 previews No 3: Brighton](https://www.theguardian.com/sport/2025/aug/27/womens-super-league-2025-26-previews-no-3-brighton)
+- [Brazil judge orders round-the-clock surveillance of ‘flight risk’ Bolsonaro](https://www.theguardian.com/world/2025/aug/26/brazil-judge-orders-round-the-clock-surveillance-of-flight-risk-bolsonaro)
+- [Post-Brexit licences for exporting food to EU cost UK firms up to £65m last year](https://www.theguardian.com/business/2025/aug/26/brexit-export-licences-eu-food-agricultural-products-uk-companies)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [iPhone 17 Air](https://www.macrumors.com/roundup/iphone-17-air/)
-- [Show HN: Regolith – Regex library that prevents ReDoS CVEs in TypeScript](https://github.com/JakeRoggenbuck/regolith)
-- [Put a ring on it: a lock-free MPMC ring buffer](https://h4x0r.org/ring/)
-- [USBImager – A Lightweight Alternative to BalenaEtcher &lpar;2020&rpar;](https://www.cnx-software.com/2020/09/08/usbimager-a-lightweight-alternative-to-balenaetcher/)
-- [Learn You a NeRF](https://www.peterstefek.me/nerf.html)
-- [Funds control about $47T, what do they say about climate change?](https://www.alt-carbon.com/blog/how-the-worlds-largest-funds-are-investing-with-climate-change-in-mind)
-- [The $1M shot that changed sports contests forever](https://www.espn.com/nba/story/_/id/36146138/million-dollar-shot-michael-jordan-chicago-bulls-1993)
-- [The Top Journalism Movies of All Time](https://journalism.nyu.edu/about-us/news/top-ten-journalism-movies-all-time/)
-- [James Webb Space Telescope takes first look at interstellar comet 3I/ATLAS](https://www.space.com/astronomy/james-webb-space-telescope-takes-1st-look-at-interstellar-comet-3i-atlas-with-unexpected-results)
-- [Show HN: An AI Tool to Summarize YouTube Videos](https://vdown.me/youtube-summarizer)
+- [Show HN: I fine-tuned GPT4.1 on my iMessage history](https://jonyork.net/chat)
+- [The New Framework Laptop 16 with Nvidia GeForce RTX 5070](https://frame.work/blog/introducing-the-new-framework-laptop-16-with-nvidia)
+- [Two Female Pilots Do the Most Dangerous Approach – Paro Airport, Bhutan [video]](https://www.youtube.com/watch?v=sRnyY-53UX4)
+- [Show HN: Yes, another boring AI Image Editor](https://pixfy.io/)
+- [Whispers from the Star – AI Interactive Story Game](https://wfts.anuttacon.com/)
+- [The New York Times Mini Crossword Is No Longer Free to Play](https://bookriot.com/the-new-york-times-mini-crossword-is-no-longer-free-to-play/)
+- [Sustainable Energy – Without the Hot Air](https://www.withouthotair.com/)
+- [Conversational BI for Data and Documents](https://docs.google.com/document/d/1G-1n2b-u2EkM2QDpy4amqa1hNLgrCuz5SptNkJ2j05A/edit?usp=sharing)
+- [Winston Churchill addresses the nation following defeat of Germans &lpar;1945&rpar; [video]](https://www.youtube.com/watch?v=5ROGkn4a_O4)
+- [Google Ironwood TPU](https://www.servethehome.com/google-ironwood-tpu-swings-for-reasoning-model-leadership-at-hot-chips-2025/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Dissecting the Apple M1 GPU, the end](https://rosenzweig.io/blog/asahi-gpu-part-n.html)
-- [Game Theory at Work: When to Talk and When to Shut Up](https://swaits.com/game-theory-at-work-and-when-to-shutup/)
-- [Starship&#39;s Tenth Flight Test](https://www.spacex.com/)
-- [The &quot;Wow!&quot; signal was likely from extraterrestrial source, and more powerful](https://www.iflscience.com/the-wow-signal-was-likely-from-an-extraterrestrial-source-and-more-powerful-than-we-thought-80561)
-- [Proposal: AI Content Disclosure Header](https://www.ietf.org/archive/id/draft-abaris-aicdh-00.html)
-- [LiteLLM &lpar;YC W23&rpar; is hiring a back end engineer](https://www.ycombinator.com/companies/litellm/jobs/6uvoBp3-founding-backend-engineer)
-- [Das Problem mit German Strings](https://www.polarsignals.com/blog/posts/2025/08/26/das-problem-mit-german-strings)
-- [GNU Artanis – A fast web application framework for Scheme](https://artanis.dev/index.html)
-- [Claude for Chrome](https://www.anthropic.com/news/claude-for-chrome)
-- [&quot;Special register groups&quot; invaded computer dictionaries for decades &lpar;2019&rpar;](https://www.righto.com/2019/10/how-special-register-groups-invaded.html)
+- [CDC officials’ resignation emails](https://insidemedicine.substack.com/p/breaking-news-read-three-top-cdc)
+- [The National Design Studio is a scam](https://www.chrbutler.com/the-national-design-studio-is-a-scam)
+- [Altered states of consciousness induced by breathwork accompanied by music](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0329411)
+- [Researchers find evidence of ChatGPT buzzwords turning up in everyday speech](https://news.fsu.edu/news/education-society/2025/08/26/on-screen-and-now-irl-fsu-researchers-find-evidence-suggesting-chatgpt-influences-how-we-speak/)
+- [Google has eliminated 35% of managers overseeing small teams in past year](https://www.cnbc.com/2025/08/27/google-executive-says-company-has-cut-a-third-of-its-managers.html)
+- [Yamanot.es: A music box of train station melodies from the JR Yamanote Line](https://yamanot.es/)
+- [Show HN: Meetup.com and eventribe alternative to small groups](https://github.com/polaroi8d/cactoide)
+- [Beginning 1 September, we will need to geoblock Mississippi IPs](https://dw-news.dreamwidth.org/44429.html)
+- [A failure of security systems at PayPal is causing concern for German banks](https://www.nordbayern.de/news-in-english/paypal-security-systems-down-german-banks-block-payments-in-the-billions-1.14811187)
+- [Lago – Open-Source Usage Based Billing – Is Hiring in Sales, Eng, Ops &lpar;EU, US&rpar;](https://www.ycombinator.com/companies/lago/jobs)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

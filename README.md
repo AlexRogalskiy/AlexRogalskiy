@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Bruce Willis’ dementia diagnosis: ‘language is going’, says actor’s wife](https://www.theguardian.com/film/2025/aug/27/bruce-williss-language-is-going-says-wife-two-years-after-actors-dementia-diagnosis)
-- [Starships are meant to fly: SpaceX’s rocket finally launches after setbacks](https://www.theguardian.com/us-news/2025/aug/26/spacex-starship-launch)
-- [Trump news at a glance: president hints he already has replacement in mind for Fed governor Lisa Cook](https://www.theguardian.com/us-news/2025/aug/27/trump-news-at-a-glance-president-hints-he-already-has-replacement-in-mind-for-fed-governor-lisa-cook)
-- [The women breaking the cycle of violence in Papua New Guinea](https://www.theguardian.com/world/ng-interactive/2025/aug/27/reducing-violence-against-women-png-papua-new-guinea)
-- [Ukraine war briefing: Russian troops inside Dnipropetrovsk region, Ukraine says](https://www.theguardian.com/world/2025/aug/27/ukraine-war-briefing-russian-troops-inside-dnipropetrovsk-region-ukraine-says)
-- [Cancer charities call for earlier diagnosis as cases projected to surge in England by 2040](https://www.theguardian.com/society/2025/aug/27/cancer-charities-call-for-earlier-diagnosis-as-cases-projected-to-surge-in-england-by-2040)
-- [Toy air fryer will be a Christmas bestseller, John Lewis predicts](https://www.theguardian.com/lifeandstyle/2025/aug/27/toy-air-fryer-christmas-bestseller-john-lewis)
-- [Women’s Super League 2025-26 previews No 3: Brighton](https://www.theguardian.com/sport/2025/aug/27/womens-super-league-2025-26-previews-no-3-brighton)
-- [Brazil judge orders round-the-clock surveillance of ‘flight risk’ Bolsonaro](https://www.theguardian.com/world/2025/aug/26/brazil-judge-orders-round-the-clock-surveillance-of-flight-risk-bolsonaro)
-- [Post-Brexit licences for exporting food to EU cost UK firms up to £65m last year](https://www.theguardian.com/business/2025/aug/26/brexit-export-licences-eu-food-agricultural-products-uk-companies)
+- [Argentina’s president Milei pelted with rocks on campaign trail amid corruption scandal linked to sister](https://www.theguardian.com/world/2025/aug/28/argentina-javier-milei-hit-with-rocks-on-campaign-trail-amid-corruption-scandal-ntwnfb)
+- [Ostapenko and Townsend confront each other after US Open match: ‘She said I had no education’](https://www.theguardian.com/sport/2025/aug/27/jelena-ostapenko-taylor-townsend-us-open-tennis-argument)
+- [Trump news at a glance: top CDC officials resign over ‘weaponization of public health’](https://www.theguardian.com/us-news/2025/aug/28/trump-news-at-a-glance-top-cdc-officials-resign-over-weaponization-of-public-health)
+- [In Prabowo’s Indonesia, the military is quietly creeping back into civilian life](https://www.theguardian.com/world/2025/aug/28/indonesia-president-prabowo-subianto-military-civilian-affairs)
+- [Ontario premier Doug Ford’s party spent nearly $300,000 on novelty ‘Canada is not for sale’ hats](https://www.theguardian.com/world/2025/aug/28/ontario-premier-doug-ford-spent-six-figures-canada-not-for-sale-hats)
+- [Japanese town wants residents to limit smartphone use to two hours a day](https://www.theguardian.com/world/2025/aug/28/japanese-town-toyoake-proposes-smartphone-limit-residents-two-hours-day)
+- [Property tax threat is slowing down housing market, say UK agents](https://www.theguardian.com/business/2025/aug/28/property-tax-threat-slow-down-housing-market-uk-agents)
+- [Women’s Super League 2025-26 previews No 4: Chelsea](https://www.theguardian.com/sport/2025/aug/28/womens-super-league-2025-26-previews-no-4-chelsea)
+- [Tony Blair attends White House meeting with Trump on postwar Gaza](https://www.theguardian.com/politics/2025/aug/27/tony-blair-attends-white-house-meeting-with-trump-on-postwar-gaza)
+- [Minneapolis mourns traumatizing Catholic school shooting: ‘We’re so tied together’](https://www.theguardian.com/us-news/2025/aug/27/minneapolis-annunciation-catholic-school-shooting)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

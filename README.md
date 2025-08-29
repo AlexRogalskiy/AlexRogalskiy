@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: I fine-tuned GPT4.1 on my iMessage history](https://jonyork.net/chat)
-- [The New Framework Laptop 16 with Nvidia GeForce RTX 5070](https://frame.work/blog/introducing-the-new-framework-laptop-16-with-nvidia)
-- [Two Female Pilots Do the Most Dangerous Approach – Paro Airport, Bhutan [video]](https://www.youtube.com/watch?v=sRnyY-53UX4)
-- [Show HN: Yes, another boring AI Image Editor](https://pixfy.io/)
-- [Whispers from the Star – AI Interactive Story Game](https://wfts.anuttacon.com/)
-- [The New York Times Mini Crossword Is No Longer Free to Play](https://bookriot.com/the-new-york-times-mini-crossword-is-no-longer-free-to-play/)
-- [Sustainable Energy – Without the Hot Air](https://www.withouthotair.com/)
-- [Conversational BI for Data and Documents](https://docs.google.com/document/d/1G-1n2b-u2EkM2QDpy4amqa1hNLgrCuz5SptNkJ2j05A/edit?usp=sharing)
-- [Winston Churchill addresses the nation following defeat of Germans &lpar;1945&rpar; [video]](https://www.youtube.com/watch?v=5ROGkn4a_O4)
-- [Google Ironwood TPU](https://www.servethehome.com/google-ironwood-tpu-swings-for-reasoning-model-leadership-at-hot-chips-2025/)
+- [The New Hamas Insurgency](https://www.foreignaffairs.com/israel/new-hamas-insurgency)
+- [Full-Breadth Developers](https://justin.searls.co/posts/full-breadth-developers/)
+- [A Demonstrator&#39;s Guide to Operational Security: Fighting Back, Staying Free](https://crimethinc.com/2025/08/28/a-demonstrators-guide-to-operational-security-fighting-back-staying-free)
+- [A Deep Dive into Debian 13 /tmp: What&#39;s New, and What to Do If You Don&#39;t Like It](https://lowendbox.com/blog/a-deep-dive-into-debian-13s-tmp-whats-new-and-what-to-do-if-you-dont-like-it/)
+- [Dangerous Fake Foraging Books Scam on Amazon: AI-Generated Garbage Books [video]](https://www.youtube.com/watch?v=kwp_WEdJaEk)
+- [Mantic: A New Kind of Foresight](https://www.mantic.com/launch)
+- [Show HN: Run `npx htmsh latest` → Deploy your site instantly, for free Try now](https://htm.sh)
+- [Csvbase](https://csvbase.com/)
+- [Compiling Dinner](https://gist.github.com/breadchris/5877d1ab8381526bb81b551ffd5d1768)
+- [Show HN: A fun Unicode tool to make your text look cool anywhere](https://fontgenerator.now)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

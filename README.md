@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Argentina’s president Milei pelted with rocks on campaign trail amid corruption scandal linked to sister](https://www.theguardian.com/world/2025/aug/28/argentina-javier-milei-hit-with-rocks-on-campaign-trail-amid-corruption-scandal-ntwnfb)
-- [Ostapenko and Townsend confront each other after US Open match: ‘She said I had no education’](https://www.theguardian.com/sport/2025/aug/27/jelena-ostapenko-taylor-townsend-us-open-tennis-argument)
-- [Trump news at a glance: top CDC officials resign over ‘weaponization of public health’](https://www.theguardian.com/us-news/2025/aug/28/trump-news-at-a-glance-top-cdc-officials-resign-over-weaponization-of-public-health)
-- [In Prabowo’s Indonesia, the military is quietly creeping back into civilian life](https://www.theguardian.com/world/2025/aug/28/indonesia-president-prabowo-subianto-military-civilian-affairs)
-- [Ontario premier Doug Ford’s party spent nearly $300,000 on novelty ‘Canada is not for sale’ hats](https://www.theguardian.com/world/2025/aug/28/ontario-premier-doug-ford-spent-six-figures-canada-not-for-sale-hats)
-- [Japanese town wants residents to limit smartphone use to two hours a day](https://www.theguardian.com/world/2025/aug/28/japanese-town-toyoake-proposes-smartphone-limit-residents-two-hours-day)
-- [Property tax threat is slowing down housing market, say UK agents](https://www.theguardian.com/business/2025/aug/28/property-tax-threat-slow-down-housing-market-uk-agents)
-- [Women’s Super League 2025-26 previews No 4: Chelsea](https://www.theguardian.com/sport/2025/aug/28/womens-super-league-2025-26-previews-no-4-chelsea)
-- [Tony Blair attends White House meeting with Trump on postwar Gaza](https://www.theguardian.com/politics/2025/aug/27/tony-blair-attends-white-house-meeting-with-trump-on-postwar-gaza)
-- [Minneapolis mourns traumatizing Catholic school shooting: ‘We’re so tied together’](https://www.theguardian.com/us-news/2025/aug/27/minneapolis-annunciation-catholic-school-shooting)
+- [New Zealand fugitive and one of his children spotted on CCTV after four years on the run, police believe](https://www.theguardian.com/world/2025/aug/29/new-zealand-fugitive-tom-phillips-cctv)
+- [India’s Modi to meet Xi and Putin on first China trip in seven years as US tariffs bite](https://www.theguardian.com/world/2025/aug/29/india-china-relations-modi-to-meet-xi-putin-first-china-trip-seven-years-us-tariffs)
+- [Thailand court to rule on fate of prime minister over leaked phone call with Cambodia’s leader](https://www.theguardian.com/world/2025/aug/29/thailand-prime-minister-paetongtarn-shinawatra-court-ruling-cambodia-hun-sen-phone-call)
+- [New Zealand’s house prices are finally falling. Could this happen elsewhere?](https://www.theguardian.com/world/2025/aug/29/new-zealand-house-prices-falling-could-this-happen-elsewhere)
+- [Drugs, smuggling and abductions: inside the fast and furious world of pigeon racing in Taiwan](https://www.theguardian.com/world/2025/aug/29/pigeon-racing-taiwain-ntwnfb)
+- [Trump news at a glance: CDC chief was fired for resisting vaccine changes that ‘flew in the face of science’](https://www.theguardian.com/us-news/2025/aug/29/trump-administration-news-today-latest)
+- [Women’s Super League previews No 5: Everton](https://www.theguardian.com/sport/2025/aug/29/womens-super-league-previews-no-5-everton)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/blog/2025/aug/29/premier-league-10-things-to-look-out-for-this-weekend)
+- [Police chief attacks Reform UK promise to scrap equality policies as ‘ludicrous’](https://www.theguardian.com/uk-news/2025/aug/29/police-chief-attacks-reform-uk-promise-to-scrap-equality-policies-as-ludicrous)
+- [Older autistic people need more help after years of misdiagnosis, review finds](https://www.theguardian.com/society/2025/aug/29/older-autistic-people-need-more-help-after-years-of-misdiagnosis-review-finds)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

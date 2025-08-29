@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [CDC officials’ resignation emails](https://insidemedicine.substack.com/p/breaking-news-read-three-top-cdc)
-- [The National Design Studio is a scam](https://www.chrbutler.com/the-national-design-studio-is-a-scam)
-- [Altered states of consciousness induced by breathwork accompanied by music](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0329411)
-- [Researchers find evidence of ChatGPT buzzwords turning up in everyday speech](https://news.fsu.edu/news/education-society/2025/08/26/on-screen-and-now-irl-fsu-researchers-find-evidence-suggesting-chatgpt-influences-how-we-speak/)
-- [Google has eliminated 35% of managers overseeing small teams in past year](https://www.cnbc.com/2025/08/27/google-executive-says-company-has-cut-a-third-of-its-managers.html)
-- [Yamanot.es: A music box of train station melodies from the JR Yamanote Line](https://yamanot.es/)
-- [Show HN: Meetup.com and eventribe alternative to small groups](https://github.com/polaroi8d/cactoide)
-- [Beginning 1 September, we will need to geoblock Mississippi IPs](https://dw-news.dreamwidth.org/44429.html)
-- [A failure of security systems at PayPal is causing concern for German banks](https://www.nordbayern.de/news-in-english/paypal-security-systems-down-german-banks-block-payments-in-the-billions-1.14811187)
-- [Lago – Open-Source Usage Based Billing – Is Hiring in Sales, Eng, Ops &lpar;EU, US&rpar;](https://www.ycombinator.com/companies/lago/jobs)
+- [Claude Sonnet Will Ship in Xcode](https://developer.apple.com/documentation/xcode-release-notes/xcode-26-release-notes)
+- [Python: The Documentary](https://lwn.net/Articles/1035537/)
+- [RSS is awesome](https://evanverma.com/rss-is-awesome)
+- [Every industry is an overcrowded airport lounge now](https://quoththeraven.substack.com/p/every-industry-is-an-overcrowded)
+- [Rupert&#39;s Property](https://johncarlosbaez.wordpress.com/2025/08/28/a-polyhedron-without-ruperts-property/)
+- [The Space Shuttle Columbia disaster and the over-reliance on PowerPoint &lpar;2019&rpar;](https://mcdreeamiemusings.com/blog/2019/4/13/gsux1h6bnt8lqjd7w2t2mtvfg81uhx)
+- [Sometimes CPU cores are odd](https://anubis.techaro.lol/blog/2025/cpu-core-odd/)
+- [Expert LSP the official language server implementation for Elixir](https://github.com/elixir-lang/expert)
+- [Speed-coding for the 6502 – a simple example](https://www.colino.net/wordpress/en/archives/2025/08/28/speed-coding-for-the-6502-a-simple-example/)
+- [Fuck up my site – Turn any website into beautiful chaos](https://www.fuckupmysite.com/?url=https%3A%2F%2Fnews.ycombinator.com&torchCursor=true&comicSans=true&fakeCursors=true&peskyFly=true)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

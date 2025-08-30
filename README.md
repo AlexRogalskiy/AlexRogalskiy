@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The New Hamas Insurgency](https://www.foreignaffairs.com/israel/new-hamas-insurgency)
-- [Full-Breadth Developers](https://justin.searls.co/posts/full-breadth-developers/)
-- [A Demonstrator&#39;s Guide to Operational Security: Fighting Back, Staying Free](https://crimethinc.com/2025/08/28/a-demonstrators-guide-to-operational-security-fighting-back-staying-free)
-- [A Deep Dive into Debian 13 /tmp: What&#39;s New, and What to Do If You Don&#39;t Like It](https://lowendbox.com/blog/a-deep-dive-into-debian-13s-tmp-whats-new-and-what-to-do-if-you-dont-like-it/)
-- [Dangerous Fake Foraging Books Scam on Amazon: AI-Generated Garbage Books [video]](https://www.youtube.com/watch?v=kwp_WEdJaEk)
-- [Mantic: A New Kind of Foresight](https://www.mantic.com/launch)
-- [Show HN: Run `npx htmsh latest` → Deploy your site instantly, for free Try now](https://htm.sh)
-- [Csvbase](https://csvbase.com/)
-- [Compiling Dinner](https://gist.github.com/breadchris/5877d1ab8381526bb81b551ffd5d1768)
-- [Show HN: A fun Unicode tool to make your text look cool anywhere](https://fontgenerator.now)
+- [Cleaned SEC Data for AI Training](https://nomas.fyi/)
+- [RSA FlipIt – The Game of Stealthy Takeover](https://github.com/EthanHeilman/flipIt)
+- [What Happens During Startup?](https://eclecticlight.co/2025/08/29/what-happens-during-startup/)
+- [Apple users hit by WhatsApp zero-click spyware Meta fixed](https://appleinsider.com/articles/25/08/29/whatsapp-flaw-paired-with-ios-18-exploit-delivered-zero-click-spyware)
+- [Server-World.info](https://www.server-world.info/en/)
+- [Robot rabbits in Florida battle to control Burmese pythons in Everglades](https://abcnews.go.com/US/wireStory/robot-rabbits-latest-tool-florida-battle-control-invasive-125048998)
+- [Show HN: Turn books &lpar;epubs&rpar; into interactive mindmaps you can also listen to](https://www.proread.ai/books)
+- [Contractor Kabuki](https://bobbiechen.com/blog/2025/8/20/contractor-kabuki)
+- [3D printer kinematic system uses a mouse sensor for closed-loop control](https://blog.arduino.cc/2025/08/12/this-novel-3d-printer-kinematic-system-uses-a-mouse-sensor-for-closed-loop-control/)
+- [Show HN: Modern UI Composition, Right Inside Django](https://gist.github.com/ertgl/9a3b6a7115a10d05d46ce89dbd4065be)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

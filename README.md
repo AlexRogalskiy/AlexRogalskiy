@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [New Zealand fugitive and one of his children spotted on CCTV after four years on the run, police believe](https://www.theguardian.com/world/2025/aug/29/new-zealand-fugitive-tom-phillips-cctv)
-- [India’s Modi to meet Xi and Putin on first China trip in seven years as US tariffs bite](https://www.theguardian.com/world/2025/aug/29/india-china-relations-modi-to-meet-xi-putin-first-china-trip-seven-years-us-tariffs)
-- [Thailand court to rule on fate of prime minister over leaked phone call with Cambodia’s leader](https://www.theguardian.com/world/2025/aug/29/thailand-prime-minister-paetongtarn-shinawatra-court-ruling-cambodia-hun-sen-phone-call)
-- [New Zealand’s house prices are finally falling. Could this happen elsewhere?](https://www.theguardian.com/world/2025/aug/29/new-zealand-house-prices-falling-could-this-happen-elsewhere)
-- [Drugs, smuggling and abductions: inside the fast and furious world of pigeon racing in Taiwan](https://www.theguardian.com/world/2025/aug/29/pigeon-racing-taiwain-ntwnfb)
-- [Trump news at a glance: CDC chief was fired for resisting vaccine changes that ‘flew in the face of science’](https://www.theguardian.com/us-news/2025/aug/29/trump-administration-news-today-latest)
-- [Women’s Super League previews No 5: Everton](https://www.theguardian.com/sport/2025/aug/29/womens-super-league-previews-no-5-everton)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/blog/2025/aug/29/premier-league-10-things-to-look-out-for-this-weekend)
-- [Police chief attacks Reform UK promise to scrap equality policies as ‘ludicrous’](https://www.theguardian.com/uk-news/2025/aug/29/police-chief-attacks-reform-uk-promise-to-scrap-equality-policies-as-ludicrous)
-- [Older autistic people need more help after years of misdiagnosis, review finds](https://www.theguardian.com/society/2025/aug/29/older-autistic-people-need-more-help-after-years-of-misdiagnosis-review-finds)
+- [Most of Trump’s tariffs are illegal, federal court rules](https://www.theguardian.com/us-news/2025/aug/29/trump-tariffs-illegal-appeal-court-ruling)
+- [Singapore is worried about a rise in drug-laced vaping. What is happening, and what is the drug etomidate?](https://www.theguardian.com/world/2025/aug/30/singapore-is-worried-about-a-rise-in-drug-laced-vaping-what-is-happening-and-what-is-the-drug-etomidate)
+- [Thomas Tuchel sorry for calling Jude Bellingham’s on-field behaviour ‘repulsive’](https://www.theguardian.com/football/2025/aug/29/thomas-tuchel-sorry-for-calling-jude-bellinghams-on-field-behaviour-repulsive)
+- [Amorim admits he sometimes ‘hates’ United players and some days ‘wants to quit’](https://www.theguardian.com/football/2025/aug/29/ruben-amorim-manchester-united-head-coach-burnley-premier-league-grimsby-carabao-cup-kobbie-mainoo)
+- [Joe Burgess’s decisive try sinks St Helens to put Hull KR closer to League Leaders’ Shield](https://www.theguardian.com/sport/2025/aug/29/hull-kr-st-helens-super-league-match-report-rugby-league)
+- [Parents identify victims of Minneapolis school shooting: ‘Our hearts are broken’](https://www.theguardian.com/us-news/2025/aug/29/minneapolis-school-shooting-victims-identified)
+- [ChatGPT encouraged Adam Raine’s suicidal thoughts. His family’s lawyer says OpenAI knew it was broken](https://www.theguardian.com/us-news/2025/aug/29/chatgpt-suicide-openai-sam-altman-adam-raine)
+- [Mother of boy, 15, held at gunpoint by US immigration agents files $1m claim](https://www.theguardian.com/us-news/2025/aug/29/immigration-agents-los-angeles-detention-damages-claim)
+- [‘It doesn’t have to be like an Airbnb’: how to travel through house swapping and sitting](https://www.theguardian.com/travel/2025/aug/30/house-swapping-sitting-doesnt-have-to-be-airbnb-how-to)
+- [No Other Choice review – sensational state-of-the-nation satire from Park Chan-wook](https://www.theguardian.com/film/2025/aug/29/no-other-choice-review-park-chan-wook)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Most of Trump’s tariffs are illegal, federal court rules](https://www.theguardian.com/us-news/2025/aug/29/trump-tariffs-illegal-appeal-court-ruling)
-- [Singapore is worried about a rise in drug-laced vaping. What is happening, and what is the drug etomidate?](https://www.theguardian.com/world/2025/aug/30/singapore-is-worried-about-a-rise-in-drug-laced-vaping-what-is-happening-and-what-is-the-drug-etomidate)
-- [Thomas Tuchel sorry for calling Jude Bellingham’s on-field behaviour ‘repulsive’](https://www.theguardian.com/football/2025/aug/29/thomas-tuchel-sorry-for-calling-jude-bellinghams-on-field-behaviour-repulsive)
-- [Amorim admits he sometimes ‘hates’ United players and some days ‘wants to quit’](https://www.theguardian.com/football/2025/aug/29/ruben-amorim-manchester-united-head-coach-burnley-premier-league-grimsby-carabao-cup-kobbie-mainoo)
-- [Joe Burgess’s decisive try sinks St Helens to put Hull KR closer to League Leaders’ Shield](https://www.theguardian.com/sport/2025/aug/29/hull-kr-st-helens-super-league-match-report-rugby-league)
-- [Parents identify victims of Minneapolis school shooting: ‘Our hearts are broken’](https://www.theguardian.com/us-news/2025/aug/29/minneapolis-school-shooting-victims-identified)
-- [ChatGPT encouraged Adam Raine’s suicidal thoughts. His family’s lawyer says OpenAI knew it was broken](https://www.theguardian.com/us-news/2025/aug/29/chatgpt-suicide-openai-sam-altman-adam-raine)
-- [Mother of boy, 15, held at gunpoint by US immigration agents files $1m claim](https://www.theguardian.com/us-news/2025/aug/29/immigration-agents-los-angeles-detention-damages-claim)
-- [‘It doesn’t have to be like an Airbnb’: how to travel through house swapping and sitting](https://www.theguardian.com/travel/2025/aug/30/house-swapping-sitting-doesnt-have-to-be-airbnb-how-to)
-- [No Other Choice review – sensational state-of-the-nation satire from Park Chan-wook](https://www.theguardian.com/film/2025/aug/29/no-other-choice-review-park-chan-wook)
+- [Wife of alleged Porepunkah killer Dezi Freeman urges him to surrender, sharing ‘deep sorrow’ at police deaths](https://www.theguardian.com/australia-news/2025/aug/31/dez-freeman-accused-porepunkah-police-killer-dezi-manhunt-day-six-ntwnfb)
+- [Israeli airstrike kills Houthi prime minister in Yemen, rebels say](https://www.theguardian.com/world/2025/aug/30/yemens-houthis-say-israeli-airstrike-killed-their-prime-minister)
+- [Trump news at a glance: Backlash in Chicago as mayor defies president’s immigration crackdown](https://www.theguardian.com/us-news/2025/aug/31/president-trump-administration-news-updates-today)
+- [Australian ban on fish-shaped plastic soy sauce dispensers a world first](https://www.theguardian.com/australia-news/2025/aug/31/south-australia-bans-soy-sauce-fish-packets-in-world-first-to-cut-single-use-plastics)
+- [Tories would maximise North Sea oil and gas extraction, Badenoch to say](https://www.theguardian.com/politics/2025/aug/30/tories-would-maximise-north-sea-oil-and-gas-extraction-badenoch-expected-to-say)
+- [Medvedev, Tsitsipas, Ostapenko: why does anger keep boiling over at US Open?](https://www.theguardian.com/sport/2025/aug/30/anger-keeps-boiling-over-at-a-tempestuous-flushing-meadows)
+- [European football: Bayern hold on to win as Leverkusen waste two-goal lead](https://www.theguardian.com/football/2025/aug/30/european-football-bayern-hold-on-to-win-as-leverkusen-waste-two-goal-lead)
+- [Davina Perrin hits quickest Hundred ton to fire Northern Superchargers women into final](https://www.theguardian.com/sport/2025/aug/30/hundred-eliminators-northern-superchargers-london-spirit-trent-rockets)
+- [Former UN climate chief urges Australia to set ‘prosperity’ target of cutting emissions by 75% by 2035](https://www.theguardian.com/environment/2025/aug/31/former-un-climate-chief-urges-australia-to-set-prosperity-target-of-cutting-emissions-by-75-by-2035)
+- [A tree a minute for 24 hours: the young Victorian forest that was planted in a day](https://www.theguardian.com/environment/2025/aug/31/one-tree-every-minute-victorian-forest-planted-in-day)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Pentagon Docs: US Wants to &quot;Suppress Dissenting Arguments&quot; Using AI Propaganda](https://theintercept.com/2025/08/25/pentagon-military-ai-propaganda-influence/)
-- [Why Romania excels in international Olympiads](https://www.palladiummag.com/2025/08/29/why-romania-excels-in-international-olympiads/)
-- [Nginx-CGI brings support for CGI to Nginx and angie](https://github.com/pjincz/nginx-cgi)
-- [The Theoretical Limitations of Embedding-Based Retrieval](https://arxiv.org/abs/2508.21038)
-- [The First Inkjet Printer Was a Medical Device](https://spectrum.ieee.org/rune-elmqvist)
-- [How did .agakhan, .ismaili and .imamat get their own TLDs?](https://data.iana.org/TLD/tlds-alpha-by-domain.txt)
-- [Do the simplest thing that could possibly work](https://www.seangoedecke.com/the-simplest-thing-that-could-possibly-work/)
-- [Data engineering and software engineering are converging](https://clickhouse.com/blog/eight-principles-of-great-developer-experience-for-data-infrastructure)
-- [SQLite&#39;s documentation about its durability properties is unclear](https://www.agwa.name/blog/post/sqlite_durability)
-- [Thunder Compute &lpar;YC S24&rpar; Is Hiring](https://www.ycombinator.com/companies/thunder-compute/jobs/sS6QzTi-founding-developer-advocate-contract-to-hire)
+- [ETFs now hold more than $3.1T worth of just top US companies](https://www.signalbloom.ai/etf/stats)
+- [Scottish brothers finish mammoth row across Pacific Ocean after 139 days](https://www.abc.net.au/news/2025-08-30/scottish-maclean-brothers-finish-pacific-ocean-row/105711488)
+- [Hurricane category 6 could be introduced under new storm severity scale](https://www.livescience.com/planet-earth/hurricanes/now-is-the-time-hurricane-category-6-could-be-introduced-under-new-storm-severity-scale)
+- [Enrollment at trade schools is expected to grow 6.6% a year](https://finance.yahoo.com/news/ai-cant-install-an-hvac-system-why-gen-z-is-flocking-to-jobs-in-the-trades-171735856.html)
+- [Affiliates flock to scam gambling machine](https://krebsonsecurity.com/2025/08/affiliates-flock-to-soulless-scam-gambling-machine/)
+- [Six months into tariffs, businesses have no idea how to price anything](https://www.wsj.com/business/retail/trump-tariff-business-price-impact-37b630c8)
+- [Why did books start being divided into chapters? A new history](https://sydneyreviewofbooks.com/reviews/just-a-little-longer)
+- [Are we decentralized yet?](https://arewedecentralizedyet.online/)
+- [The Rise of Hybrid PHP: Blending PHP with Go and Rust](https://yekdeveloper.com/p/4-the-rise-of-hybrid-php)
+- [University of Cambridge Cognitive Ability Test](https://planning.e-psychometrics.com/test/icar60)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

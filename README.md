@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Cleaned SEC Data for AI Training](https://nomas.fyi/)
-- [RSA FlipIt – The Game of Stealthy Takeover](https://github.com/EthanHeilman/flipIt)
-- [What Happens During Startup?](https://eclecticlight.co/2025/08/29/what-happens-during-startup/)
-- [Apple users hit by WhatsApp zero-click spyware Meta fixed](https://appleinsider.com/articles/25/08/29/whatsapp-flaw-paired-with-ios-18-exploit-delivered-zero-click-spyware)
-- [Server-World.info](https://www.server-world.info/en/)
-- [Robot rabbits in Florida battle to control Burmese pythons in Everglades](https://abcnews.go.com/US/wireStory/robot-rabbits-latest-tool-florida-battle-control-invasive-125048998)
-- [Show HN: Turn books &lpar;epubs&rpar; into interactive mindmaps you can also listen to](https://www.proread.ai/books)
-- [Contractor Kabuki](https://bobbiechen.com/blog/2025/8/20/contractor-kabuki)
-- [3D printer kinematic system uses a mouse sensor for closed-loop control](https://blog.arduino.cc/2025/08/12/this-novel-3d-printer-kinematic-system-uses-a-mouse-sensor-for-closed-loop-control/)
-- [Show HN: Modern UI Composition, Right Inside Django](https://gist.github.com/ertgl/9a3b6a7115a10d05d46ce89dbd4065be)
+- [Song of the New York World&#39;s Fair &lpar;1939&rpar; [audio]](https://www.youtube.com/watch?v=QnvMiH0PaMA)
+- [Show HN: I built a case-aware search and replace tool for AI agents](https://docspring.github.io/renamify/)
+- [Are people&#39;s bosses making them use AI tools?](https://piccalil.li/blog/are-peoples-bosses-really-making-them-use-ai/)
+- [Prevalence of TBI in incarcerated groups compared to the general population &lpar;2011&rpar;](https://www.sciencedirect.com/science/article/abs/pii/S0278584611000169)
+- [Vibe coded reader for Henry Kissinger&#39;s undergraduate thesis](https://twitter.com/doodlestein/status/1961817172516168098)
+- [Windows Update and SSD Problem is WAY worse than we thought! Full Demonstration](https://www.youtube.com/watch?v=TbFIUu_7LIc)
+- [Show HN: One-line error alerts to Slack/Discord/Email](https://updateissuewebsite.vercel.app/)
+- [SEC Filings API and Visualization](https://nomas.fyi/)
+- [Im meets families of North Korea soldiers killed fighting in Ukraine](https://www.bbc.com/news/articles/cdj2v7n0101o)
+- [AI at this stage is like a &#39;house of cards&#39; stacked with profitability issues [video]](https://www.youtube.com/watch?v=MCplUUuaxAc)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

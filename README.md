@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Song of the New York World&#39;s Fair &lpar;1939&rpar; [audio]](https://www.youtube.com/watch?v=QnvMiH0PaMA)
-- [Show HN: I built a case-aware search and replace tool for AI agents](https://docspring.github.io/renamify/)
-- [Are people&#39;s bosses making them use AI tools?](https://piccalil.li/blog/are-peoples-bosses-really-making-them-use-ai/)
-- [Prevalence of TBI in incarcerated groups compared to the general population &lpar;2011&rpar;](https://www.sciencedirect.com/science/article/abs/pii/S0278584611000169)
-- [Vibe coded reader for Henry Kissinger&#39;s undergraduate thesis](https://twitter.com/doodlestein/status/1961817172516168098)
-- [Windows Update and SSD Problem is WAY worse than we thought! Full Demonstration](https://www.youtube.com/watch?v=TbFIUu_7LIc)
-- [Show HN: One-line error alerts to Slack/Discord/Email](https://updateissuewebsite.vercel.app/)
-- [SEC Filings API and Visualization](https://nomas.fyi/)
-- [Im meets families of North Korea soldiers killed fighting in Ukraine](https://www.bbc.com/news/articles/cdj2v7n0101o)
-- [AI at this stage is like a &#39;house of cards&#39; stacked with profitability issues [video]](https://www.youtube.com/watch?v=MCplUUuaxAc)
+- [I visited the happiest country. I wish I could unlearn its secret](https://slate.com/life/2025/08/travel-finland-happiest-country-united-states.html)
+- [The first inkjet printer was a medical device](https://spectrum.ieee.org/rune-elmqvist)
+- [The Maraschino Mogul](https://www.newyorker.com/magazine/2018/04/23/the-maraschino-moguls-secret-life)
+- [AbortController is cooler than you think](https://aliath.github.io/blog/cool-abort-controller)
+- [Type-safe and user-friendly error handling in Swift 6](https://theswiftdev.com/2025/type-safe-and-user-friendly-error-handling-in-swift-6/)
+- [Chill, Y&#39;all: AI Will Not Devour Software Engineering](https://dl.acm.org/doi/10.1145/3689492.3689816)
+- [Alarm as US far-right extremists eye drones for use in domestic attacks](https://www.theguardian.com/us-news/2025/aug/30/us-far-right-extremists-drones)
+- [2023 Ford F-150 Fire &lpar;2024&rpar; [video]](https://www.youtube.com/watch?v=6UnTqPUg6-E)
+- [Substack just killed the creator economy](https://mail.bigdeskenergy.com/p/substack-just-killed-creator-economy)
+- [Beyond the terminal: Gemini CLI comes to Zed](https://developers.googleblog.com/en/gemini-cli-is-now-integrated-into-zed/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

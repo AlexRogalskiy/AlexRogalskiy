@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Wife of alleged Porepunkah killer Dezi Freeman urges him to surrender, sharing ‘deep sorrow’ at police deaths](https://www.theguardian.com/australia-news/2025/aug/31/dez-freeman-accused-porepunkah-police-killer-dezi-manhunt-day-six-ntwnfb)
-- [Israeli airstrike kills Houthi prime minister in Yemen, rebels say](https://www.theguardian.com/world/2025/aug/30/yemens-houthis-say-israeli-airstrike-killed-their-prime-minister)
-- [Trump news at a glance: Backlash in Chicago as mayor defies president’s immigration crackdown](https://www.theguardian.com/us-news/2025/aug/31/president-trump-administration-news-updates-today)
-- [Australian ban on fish-shaped plastic soy sauce dispensers a world first](https://www.theguardian.com/australia-news/2025/aug/31/south-australia-bans-soy-sauce-fish-packets-in-world-first-to-cut-single-use-plastics)
-- [Tories would maximise North Sea oil and gas extraction, Badenoch to say](https://www.theguardian.com/politics/2025/aug/30/tories-would-maximise-north-sea-oil-and-gas-extraction-badenoch-expected-to-say)
-- [Medvedev, Tsitsipas, Ostapenko: why does anger keep boiling over at US Open?](https://www.theguardian.com/sport/2025/aug/30/anger-keeps-boiling-over-at-a-tempestuous-flushing-meadows)
-- [European football: Bayern hold on to win as Leverkusen waste two-goal lead](https://www.theguardian.com/football/2025/aug/30/european-football-bayern-hold-on-to-win-as-leverkusen-waste-two-goal-lead)
-- [Davina Perrin hits quickest Hundred ton to fire Northern Superchargers women into final](https://www.theguardian.com/sport/2025/aug/30/hundred-eliminators-northern-superchargers-london-spirit-trent-rockets)
-- [Former UN climate chief urges Australia to set ‘prosperity’ target of cutting emissions by 75% by 2035](https://www.theguardian.com/environment/2025/aug/31/former-un-climate-chief-urges-australia-to-set-prosperity-target-of-cutting-emissions-by-75-by-2035)
-- [A tree a minute for 24 hours: the young Victorian forest that was planted in a day](https://www.theguardian.com/environment/2025/aug/31/one-tree-every-minute-victorian-forest-planted-in-day)
+- [Afghanistan earthquake: at least nine dead after 6.0 magnitude quake near Jalalabad](https://www.theguardian.com/world/2025/sep/01/afghanistan-earthquake-near-jalalabad-magnitude-6-quake-pakistan-border)
+- [Before and after: Trump’s extreme goldening of the Oval Office](https://www.theguardian.com/us-news/2025/sep/01/trump-oval-office-gold-before-after-decor-white-house-makeover)
+- [Indonesia protests: president scraps lawmakers’ perks in bid to calm tensions](https://www.theguardian.com/world/2025/sep/01/indonesia-protests-president-prabowo-subianto-scraps-lawmakers-perks)
+- [US reportedly suspends visa approvals for nearly all Palestinian passport holders](https://www.theguardian.com/us-news/2025/aug/31/palestine-passport-visa-approval-suspension)
+- [Tap-in, tap-out rail ticket trial to streamline fares using GPS tracking](https://www.theguardian.com/business/2025/sep/01/tap-in-tap-out-rail-ticket-trial-to-streamline-fares-using-gps-tracking)
+- [UK to make it harder for refugees to bring family members to country](https://www.theguardian.com/uk-news/2025/sep/01/uk-to-make-it-harder-for-refugees-to-bring-family-members-to-country)
+- [Companies face prosecution risk as new fraud law comes into force](https://www.theguardian.com/business/2025/sep/01/companies-face-prosecution-risk-as-new-law-comes-into-force)
+- [Women’s Super League 2025-26 previews No 8: London City Lionesses](https://www.theguardian.com/football/2025/sep/01/womens-super-league-2025-26-previews-no-8-london-city-lionesses)
+- [Queen Camilla fought off sexual assault as teenager, book claims](https://www.theguardian.com/uk-news/2025/aug/31/queen-camilla-fought-off-sexual-assault-as-teenager-book-claims)
+- [US Open: Taylor Townsend in tears as Krejcikova saves eight match points to survive](https://www.theguardian.com/sport/2025/aug/31/taylor-townsend-barbora-krejcikova-match-points-us-open)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

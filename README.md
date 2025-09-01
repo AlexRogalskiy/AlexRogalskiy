@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [ETFs now hold more than $3.1T worth of just top US companies](https://www.signalbloom.ai/etf/stats)
-- [Scottish brothers finish mammoth row across Pacific Ocean after 139 days](https://www.abc.net.au/news/2025-08-30/scottish-maclean-brothers-finish-pacific-ocean-row/105711488)
-- [Hurricane category 6 could be introduced under new storm severity scale](https://www.livescience.com/planet-earth/hurricanes/now-is-the-time-hurricane-category-6-could-be-introduced-under-new-storm-severity-scale)
-- [Enrollment at trade schools is expected to grow 6.6% a year](https://finance.yahoo.com/news/ai-cant-install-an-hvac-system-why-gen-z-is-flocking-to-jobs-in-the-trades-171735856.html)
-- [Affiliates flock to scam gambling machine](https://krebsonsecurity.com/2025/08/affiliates-flock-to-soulless-scam-gambling-machine/)
-- [Six months into tariffs, businesses have no idea how to price anything](https://www.wsj.com/business/retail/trump-tariff-business-price-impact-37b630c8)
-- [Why did books start being divided into chapters? A new history](https://sydneyreviewofbooks.com/reviews/just-a-little-longer)
-- [Are we decentralized yet?](https://arewedecentralizedyet.online/)
-- [The Rise of Hybrid PHP: Blending PHP with Go and Rust](https://yekdeveloper.com/p/4-the-rise-of-hybrid-php)
-- [University of Cambridge Cognitive Ability Test](https://planning.e-psychometrics.com/test/icar60)
+- [First Murder-Suicide Case Associated with AI Psychosis](https://gizmodo.com/connecticut-mans-case-believed-to-be-first-murder-suicide-associated-with-ai-psychosis-2000650497)
+- [Nintendo Switch 2 Dock USB-C Compatibility](https://www.lttlabs.com/blog/2025/08/30/nintendo-switch-2-dock)
+- [Lewis and Clark marked their trail with laxatives](https://offbeatoregon.com/2501d1006d_biliousPills-686.077.html)
+- [A Linux version of the Procmon Sysinternals tool](https://github.com/microsoft/ProcMon-for-Linux)
+- [We should have the ability to run any code we want on hardware we own](https://hugotunius.se/2025/08/31/what-every-argument-about-sideloading-gets-wrong.html)
+- [Best practices for dealing with human waste in the great outdoors](https://theconversation.com/how-to-poop-outdoors-in-a-way-that-wont-harm-the-environment-and-other-hikers-262426)
+- [Installing UEFI Firmware on ARM SBCs](https://interfacinglinux.com/2025/08/25/edk2-uefi-for-the-rock-5-itx/)
+- [New Ruby Curl bindings with Fiber native support](https://github.com/taf2/curb/blob/master/ChangeLog.md)
+- [Lunar soil machine developed to build bricks using sunlight](https://www.moondaily.com/reports/Lunar_soil_machine_developed_to_build_bricks_using_sunlight_999.html)
+- [What to do with C++ modules?](https://nibblestew.blogspot.com/2025/08/we-need-to-seriously-think-about-what.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

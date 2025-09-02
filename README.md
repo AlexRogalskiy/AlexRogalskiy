@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Afghanistan earthquake: at least nine dead after 6.0 magnitude quake near Jalalabad](https://www.theguardian.com/world/2025/sep/01/afghanistan-earthquake-near-jalalabad-magnitude-6-quake-pakistan-border)
-- [Before and after: Trump’s extreme goldening of the Oval Office](https://www.theguardian.com/us-news/2025/sep/01/trump-oval-office-gold-before-after-decor-white-house-makeover)
-- [Indonesia protests: president scraps lawmakers’ perks in bid to calm tensions](https://www.theguardian.com/world/2025/sep/01/indonesia-protests-president-prabowo-subianto-scraps-lawmakers-perks)
-- [US reportedly suspends visa approvals for nearly all Palestinian passport holders](https://www.theguardian.com/us-news/2025/aug/31/palestine-passport-visa-approval-suspension)
-- [Tap-in, tap-out rail ticket trial to streamline fares using GPS tracking](https://www.theguardian.com/business/2025/sep/01/tap-in-tap-out-rail-ticket-trial-to-streamline-fares-using-gps-tracking)
-- [UK to make it harder for refugees to bring family members to country](https://www.theguardian.com/uk-news/2025/sep/01/uk-to-make-it-harder-for-refugees-to-bring-family-members-to-country)
-- [Companies face prosecution risk as new fraud law comes into force](https://www.theguardian.com/business/2025/sep/01/companies-face-prosecution-risk-as-new-law-comes-into-force)
-- [Women’s Super League 2025-26 previews No 8: London City Lionesses](https://www.theguardian.com/football/2025/sep/01/womens-super-league-2025-26-previews-no-8-london-city-lionesses)
-- [Queen Camilla fought off sexual assault as teenager, book claims](https://www.theguardian.com/uk-news/2025/aug/31/queen-camilla-fought-off-sexual-assault-as-teenager-book-claims)
-- [US Open: Taylor Townsend in tears as Krejcikova saves eight match points to survive](https://www.theguardian.com/sport/2025/aug/31/taylor-townsend-barbora-krejcikova-match-points-us-open)
+- [Sudan landslide kills at least 1,000 people, rebel group says](https://www.theguardian.com/world/2025/sep/02/sudan-landslide-kills-at-least-1000-people-rebel-group-says)
+- [Saving the world’s fattest parrot: can New Zealand vaccinate its rare species before bird flu gets to them?](https://www.theguardian.com/environment/2025/sep/02/new-zealand-vaccinations-rare-species-bird-flu-virus-pandemic-immunisation-migration)
+- [Pat Cummins no certainty for first Ashes Test due to ongoing back issue](https://www.theguardian.com/sport/2025/sep/02/australia-ashes-test-cricket-pat-cummins-mitchell-starc)
+- [Ukraine war briefing: Pro-Russian observers ‘call out exaggeration of territorial gains’](https://www.theguardian.com/world/2025/sep/02/ukraine-war-briefing-pro-russian-observers-call-out-exaggeration-of-territorial-gains)
+- [Marshall Islands picks up the pieces after fire destroys its ‘heart of democracy’](https://www.theguardian.com/world/2025/sep/02/marshall-islands-picks-up-pieces-after-fire-destroys-parliament-nitijela)
+- [Graham Greene, Dances with Wolves actor, dies aged 73](https://www.theguardian.com/film/2025/sep/02/graham-greene-dances-with-wolves-actor-dies-aged-73)
+- [Three-minute test helps identify people at greater risk of Alzheimer’s, trial finds](https://www.theguardian.com/science/2025/sep/02/three-minute-test-helps-identify-people-at-greater-risk-of-alzheimers-trial-finds)
+- [Children as young as 11 tempted to try betting after being ‘flooded’ by celebrity endorsement](https://www.theguardian.com/society/2025/sep/02/children-as-young-as-11-tempted-to-try-betting-after-being-flooded-by-celebrity-endorsement)
+- [Women’s Super League 2025-26 previews No 9: Manchester City](https://www.theguardian.com/sport/2025/sep/02/womens-super-league-2025-26-preview-manchester-city)
+- [At least 45,000 sites in Wales could be contaminated with toxic waste, study says](https://www.theguardian.com/uk-news/2025/sep/02/at-least-45000-sites-in-wales-could-be-contaminated-with-toxic-waste-study-says)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

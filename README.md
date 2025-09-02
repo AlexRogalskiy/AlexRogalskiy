@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [First Murder-Suicide Case Associated with AI Psychosis](https://gizmodo.com/connecticut-mans-case-believed-to-be-first-murder-suicide-associated-with-ai-psychosis-2000650497)
-- [Nintendo Switch 2 Dock USB-C Compatibility](https://www.lttlabs.com/blog/2025/08/30/nintendo-switch-2-dock)
-- [Lewis and Clark marked their trail with laxatives](https://offbeatoregon.com/2501d1006d_biliousPills-686.077.html)
-- [A Linux version of the Procmon Sysinternals tool](https://github.com/microsoft/ProcMon-for-Linux)
-- [We should have the ability to run any code we want on hardware we own](https://hugotunius.se/2025/08/31/what-every-argument-about-sideloading-gets-wrong.html)
-- [Best practices for dealing with human waste in the great outdoors](https://theconversation.com/how-to-poop-outdoors-in-a-way-that-wont-harm-the-environment-and-other-hikers-262426)
-- [Installing UEFI Firmware on ARM SBCs](https://interfacinglinux.com/2025/08/25/edk2-uefi-for-the-rock-5-itx/)
-- [New Ruby Curl bindings with Fiber native support](https://github.com/taf2/curb/blob/master/ChangeLog.md)
-- [Lunar soil machine developed to build bricks using sunlight](https://www.moondaily.com/reports/Lunar_soil_machine_developed_to_build_bricks_using_sunlight_999.html)
-- [What to do with C++ modules?](https://nibblestew.blogspot.com/2025/08/we-need-to-seriously-think-about-what.html)
+- [Apple pulls iPhone torrent app from AltStore PAL in Europe](https://www.theverge.com/news/767344/apple-removes-itorrent-altstore-pal-ios-marketplace)
+- [I Miss Using Em Dashes](https://bassi.li/articles/i-miss-using-em-dashes)
+- [Detecting and countering misuse of AI](https://www.anthropic.com/news/detecting-countering-misuse-aug-2025)
+- [Raspberry Pi 5 support &lpar;OpenBSD&rpar;](https://marc.info/?l=openbsd-cvs&m=175675287220070&w=2)
+- [The buyer-pull and seller-push theories of sales](https://howtogrow.substack.com/p/the-physics-of-sales)
+- [Desert Graves &lpar;2021&rpar;](https://www.desertmountaineer.com/2021/08/06/graves/)
+- [Towards Memory Specialization: A Case for Long-Term and Short-Term RAM](https://arxiv.org/abs/2508.02992)
+- [Patrick Winston: How to Speak &lpar;2018&rpar; [video]](https://www.youtube.com/watch?v=Unzc731iCUY)
+- [Amazon has mostly sat out the AI talent war](https://www.businessinsider.com/amazon-ai-talent-wars-internal-document-2025-8)
+- [Thoughts on &lpar;Amazonian&rpar; leadership](https://www.daemonology.net/blog/2025-09-01-Thoughts-on-Amazonian-Leadership.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

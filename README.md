@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [I visited the happiest country. I wish I could unlearn its secret](https://slate.com/life/2025/08/travel-finland-happiest-country-united-states.html)
-- [The first inkjet printer was a medical device](https://spectrum.ieee.org/rune-elmqvist)
-- [The Maraschino Mogul](https://www.newyorker.com/magazine/2018/04/23/the-maraschino-moguls-secret-life)
-- [AbortController is cooler than you think](https://aliath.github.io/blog/cool-abort-controller)
-- [Type-safe and user-friendly error handling in Swift 6](https://theswiftdev.com/2025/type-safe-and-user-friendly-error-handling-in-swift-6/)
-- [Chill, Y&#39;all: AI Will Not Devour Software Engineering](https://dl.acm.org/doi/10.1145/3689492.3689816)
-- [Alarm as US far-right extremists eye drones for use in domestic attacks](https://www.theguardian.com/us-news/2025/aug/30/us-far-right-extremists-drones)
-- [2023 Ford F-150 Fire &lpar;2024&rpar; [video]](https://www.youtube.com/watch?v=6UnTqPUg6-E)
-- [Substack just killed the creator economy](https://mail.bigdeskenergy.com/p/substack-just-killed-creator-economy)
-- [Beyond the terminal: Gemini CLI comes to Zed](https://developers.googleblog.com/en/gemini-cli-is-now-integrated-into-zed/)
+- [The Imperfectionist: Seventy per Cent](https://ckarchive.com/b/wvu2hghk5m82zf9r552rqtn34kzxxc8)
+- [Are you a YouTuber? How do you feel about owning a website?](https://www.recontxt.com)
+- [Visitors dropped for a 6th straight month in Las Vegas](https://www.cbsnews.com/news/las-vegas-visitors-tourism-drop-sin-city/)
+- [The Old Robots Website](https://www.theoldrobots.com/index2.html)
+- [Run Jepsen against CloudNativePG to see sync replication prevent data loss](https://ardentperf.com/2025/09/01/run-jepsen-against-cloudnativepg-to-see-sync-replication-prevent-data-loss/)
+- [Taiwan Submarine Cable Map Showing Current Outage](https://smc.peering.tw/)
+- [Palantir co-founder Peter Thiel to lead 4-part series on the Antichrist](https://www.christianpost.com/news/palantir-ceo-peter-thiel-to-lead-4-part-series-on-the-antichrist.html)
+- [Unified Payments Interface](https://en.wikipedia.org/wiki/Unified_Payments_Interface)
+- [The National Guard, DC landscaping and the great pursuit of lethality](https://www.militarytimes.com/off-duty/military-culture/2025/08/28/the-national-guard-dc-landscaping-and-the-great-pursuit-of-lethality/)
+- [Microsoft Word documents will soon auto-save to the cloud by default](https://www.pcworld.com/article/2892343/microsoft-word-documents-will-soon-auto-save-to-the-cloud-by-default.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

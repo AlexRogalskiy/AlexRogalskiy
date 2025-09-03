@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Sudan landslide kills at least 1,000 people, rebel group says](https://www.theguardian.com/world/2025/sep/02/sudan-landslide-kills-at-least-1000-people-rebel-group-says)
-- [Saving the world’s fattest parrot: can New Zealand vaccinate its rare species before bird flu gets to them?](https://www.theguardian.com/environment/2025/sep/02/new-zealand-vaccinations-rare-species-bird-flu-virus-pandemic-immunisation-migration)
-- [Pat Cummins no certainty for first Ashes Test due to ongoing back issue](https://www.theguardian.com/sport/2025/sep/02/australia-ashes-test-cricket-pat-cummins-mitchell-starc)
-- [Ukraine war briefing: Pro-Russian observers ‘call out exaggeration of territorial gains’](https://www.theguardian.com/world/2025/sep/02/ukraine-war-briefing-pro-russian-observers-call-out-exaggeration-of-territorial-gains)
-- [Marshall Islands picks up the pieces after fire destroys its ‘heart of democracy’](https://www.theguardian.com/world/2025/sep/02/marshall-islands-picks-up-pieces-after-fire-destroys-parliament-nitijela)
-- [Graham Greene, Dances with Wolves actor, dies aged 73](https://www.theguardian.com/film/2025/sep/02/graham-greene-dances-with-wolves-actor-dies-aged-73)
-- [Three-minute test helps identify people at greater risk of Alzheimer’s, trial finds](https://www.theguardian.com/science/2025/sep/02/three-minute-test-helps-identify-people-at-greater-risk-of-alzheimers-trial-finds)
-- [Children as young as 11 tempted to try betting after being ‘flooded’ by celebrity endorsement](https://www.theguardian.com/society/2025/sep/02/children-as-young-as-11-tempted-to-try-betting-after-being-flooded-by-celebrity-endorsement)
-- [Women’s Super League 2025-26 previews No 9: Manchester City](https://www.theguardian.com/sport/2025/sep/02/womens-super-league-2025-26-preview-manchester-city)
-- [At least 45,000 sites in Wales could be contaminated with toxic waste, study says](https://www.theguardian.com/uk-news/2025/sep/02/at-least-45000-sites-in-wales-could-be-contaminated-with-toxic-waste-study-says)
+- [China victory day parade live: Xi, Putin and Kim Jong-un appear together as Trump accuses them of conspiring against US](https://www.theguardian.com/world/live/2025/sep/03/china-victory-day-military-parade-80th-japan-surrender-live-updates-xi-jinping-putin-kim-jong-un-latest)
+- [Indonesia embassy official’s shooting in Lima probably a ‘contract killing’, says Peru government](https://www.theguardian.com/world/2025/sep/03/indonesian-embassy-official-shooting-lima-likely-contract-killing-says-peru-government-ntwnfb)
+- [Cardi B cleared of assaulting security guard in Los Angeles](https://www.theguardian.com/music/2025/sep/03/cardi-b-trial-rapper-cleared-assaulting-security-guard-los-angeles)
+- [US House committee releases more than 33,000 pages of Jeffrey Epstein files](https://www.theguardian.com/us-news/2025/sep/02/house-committee-jeffrey-epstein-files)
+- [Ukraine war briefing: No action from Trump as another Putin deadline passes](https://www.theguardian.com/world/2025/sep/03/ukraine-war-briefing-no-action-from-trump-as-another-putin-deadline-passes)
+- [Hawaii’s Kilauea volcano erupts, shooting lava 330ft from its crater](https://www.theguardian.com/us-news/2025/sep/02/hawaii-kilauea-volcano-erupt-lava)
+- [Born With Teeth review – Ncuti Gatwa simmers in Elizabethan battle of the playwrights](https://www.theguardian.com/stage/2025/sep/03/born-with-teeth-review-ncuti-gatwa-wyndhams-theatre-marlowe-shakespeare-edward-bluemel)
+- [More than 7,300 Afghans to be resettled in UK after MoD data leak, says National Audit Office](https://www.theguardian.com/uk-news/2025/sep/03/afghans-resettled-uk-mod-data-leak-report-national-audit-office)
+- [Creditors set out £20.5bn plan to save Thames Water](https://www.theguardian.com/business/2025/sep/03/creditors-set-out-20bn-plan-to-save-thames-water)
+- [Suri 2.0 electric toothbrush review: does this sustainable brush live up to the hype?](https://www.theguardian.com/thefilter/2025/sep/03/suri-20-electric-toothbrush-review)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

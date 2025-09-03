@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Imperfectionist: Seventy per Cent](https://ckarchive.com/b/wvu2hghk5m82zf9r552rqtn34kzxxc8)
-- [Are you a YouTuber? How do you feel about owning a website?](https://www.recontxt.com)
-- [Visitors dropped for a 6th straight month in Las Vegas](https://www.cbsnews.com/news/las-vegas-visitors-tourism-drop-sin-city/)
-- [The Old Robots Website](https://www.theoldrobots.com/index2.html)
-- [Run Jepsen against CloudNativePG to see sync replication prevent data loss](https://ardentperf.com/2025/09/01/run-jepsen-against-cloudnativepg-to-see-sync-replication-prevent-data-loss/)
-- [Taiwan Submarine Cable Map Showing Current Outage](https://smc.peering.tw/)
-- [Palantir co-founder Peter Thiel to lead 4-part series on the Antichrist](https://www.christianpost.com/news/palantir-ceo-peter-thiel-to-lead-4-part-series-on-the-antichrist.html)
-- [Unified Payments Interface](https://en.wikipedia.org/wiki/Unified_Payments_Interface)
-- [The National Guard, DC landscaping and the great pursuit of lethality](https://www.militarytimes.com/off-duty/military-culture/2025/08/28/the-national-guard-dc-landscaping-and-the-great-pursuit-of-lethality/)
-- [Microsoft Word documents will soon auto-save to the cloud by default](https://www.pcworld.com/article/2892343/microsoft-word-documents-will-soon-auto-save-to-the-cloud-by-default.html)
+- [Moe Inference Economics from First Principles](https://www.tensoreconomics.com/p/moe-inference-economics-from-first)
+- [Studiio – One-screen study dashboard with Socratic AI &lpar;no tab-hopping&rpar;](https://studiio.xyz/)
+- [What a Ruling to Fix Google&#39;s Search Monopoly Means for the Company](https://www.nytimes.com/2025/09/02/technology/google-antitrust-case-ruling.html)
+- [BAGen – Free Before After Photo Maker](https://beforeafterphotomaker.site/)
+- [Embedding documentation in shell script &lpar;2007&rpar;](http://bahut.alma.ch/2007/08/embedding-documentation-in-shell-script_16.html)
+- [There&#39;s a new standard for privacy on the horizon](https://news.ycombinator.com/item?id=45111649)
+- [Libdex 1.0 – deferred execution for gnome](https://blogs.gnome.org/chergert/2025/09/01/libdex-1-0/)
+- [Validating demand for an AR-Agentic airport guide – would you pay?](https://flyx.netlify.app/)
+- [Definite Rust bugs found by the Miri UB detector](https://github.com/rust-lang/miri)
+- [Show HN: Undatas.io – A pay-on-accept document parsing API](https://undatas.io/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

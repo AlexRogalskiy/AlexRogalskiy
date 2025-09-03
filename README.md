@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Apple pulls iPhone torrent app from AltStore PAL in Europe](https://www.theverge.com/news/767344/apple-removes-itorrent-altstore-pal-ios-marketplace)
-- [I Miss Using Em Dashes](https://bassi.li/articles/i-miss-using-em-dashes)
-- [Detecting and countering misuse of AI](https://www.anthropic.com/news/detecting-countering-misuse-aug-2025)
-- [Raspberry Pi 5 support &lpar;OpenBSD&rpar;](https://marc.info/?l=openbsd-cvs&m=175675287220070&w=2)
-- [The buyer-pull and seller-push theories of sales](https://howtogrow.substack.com/p/the-physics-of-sales)
-- [Desert Graves &lpar;2021&rpar;](https://www.desertmountaineer.com/2021/08/06/graves/)
-- [Towards Memory Specialization: A Case for Long-Term and Short-Term RAM](https://arxiv.org/abs/2508.02992)
-- [Patrick Winston: How to Speak &lpar;2018&rpar; [video]](https://www.youtube.com/watch?v=Unzc731iCUY)
-- [Amazon has mostly sat out the AI talent war](https://www.businessinsider.com/amazon-ai-talent-wars-internal-document-2025-8)
-- [Thoughts on &lpar;Amazonian&rpar; leadership](https://www.daemonology.net/blog/2025-09-01-Thoughts-on-Amazonian-Leadership.html)
+- [Show HN: LightCycle, a FOSS game in Rust based on Tron](https://github.com/Tortured-Metaphor/LightCycle)
+- [%CPU utilization is a lie](https://www.brendanlong.com/cpu-utilization-is-a-lie.html)
+- [Indices, not Pointers](https://joegm.github.io/blog/indices-not-pointers/)
+- [This blog is running on a recycled Google Pixel 5 &lpar;2024&rpar;](https://blog.ctms.me/posts/2024-08-29-running-this-blog-on-a-pixel-5/)
+- [Google can keep its Chrome browser but will be barred from exclusive contracts](https://www.cnbc.com/2025/09/02/google-antitrust-search-ruling.html)
+- [Making a Linux home server sleep on idle and wake on demand &lpar;2023&rpar;](https://dgross.ca/blog/linux-home-server-auto-sleep)
+- [A staff engineer&#39;s journey with Claude Code](https://www.sanity.io/blog/first-attempt-will-be-95-garbage)
+- [Amazon must face US nationwide class action over third-party sales](https://www.reuters.com/legal/government/amazon-must-face-us-nationwide-class-action-over-third-party-sales-2025-09-02/)
+- [Show HN: Amber – better Beeper, a modern all-in-one messenger](https://useamber.app/)
+- [Vijaye Raji to become CTO of Applications with acquisition of Statsig](https://openai.com/index/vijaye-raji-to-become-cto-of-applications-with-acquisition-of-statsig/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

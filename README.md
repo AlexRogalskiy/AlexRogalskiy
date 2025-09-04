@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [China victory day parade live: Xi, Putin and Kim Jong-un appear together as Trump accuses them of conspiring against US](https://www.theguardian.com/world/live/2025/sep/03/china-victory-day-military-parade-80th-japan-surrender-live-updates-xi-jinping-putin-kim-jong-un-latest)
-- [Indonesia embassy official’s shooting in Lima probably a ‘contract killing’, says Peru government](https://www.theguardian.com/world/2025/sep/03/indonesian-embassy-official-shooting-lima-likely-contract-killing-says-peru-government-ntwnfb)
-- [Cardi B cleared of assaulting security guard in Los Angeles](https://www.theguardian.com/music/2025/sep/03/cardi-b-trial-rapper-cleared-assaulting-security-guard-los-angeles)
-- [US House committee releases more than 33,000 pages of Jeffrey Epstein files](https://www.theguardian.com/us-news/2025/sep/02/house-committee-jeffrey-epstein-files)
-- [Ukraine war briefing: No action from Trump as another Putin deadline passes](https://www.theguardian.com/world/2025/sep/03/ukraine-war-briefing-no-action-from-trump-as-another-putin-deadline-passes)
-- [Hawaii’s Kilauea volcano erupts, shooting lava 330ft from its crater](https://www.theguardian.com/us-news/2025/sep/02/hawaii-kilauea-volcano-erupt-lava)
-- [Born With Teeth review – Ncuti Gatwa simmers in Elizabethan battle of the playwrights](https://www.theguardian.com/stage/2025/sep/03/born-with-teeth-review-ncuti-gatwa-wyndhams-theatre-marlowe-shakespeare-edward-bluemel)
-- [More than 7,300 Afghans to be resettled in UK after MoD data leak, says National Audit Office](https://www.theguardian.com/uk-news/2025/sep/03/afghans-resettled-uk-mod-data-leak-report-national-audit-office)
-- [Creditors set out £20.5bn plan to save Thames Water](https://www.theguardian.com/business/2025/sep/03/creditors-set-out-20bn-plan-to-save-thames-water)
-- [Suri 2.0 electric toothbrush review: does this sustainable brush live up to the hype?](https://www.theguardian.com/thefilter/2025/sep/03/suri-20-electric-toothbrush-review)
+- [Portugal declares day of mourning for 15 people killed in Lisbon funicular railway crash](https://www.theguardian.com/world/2025/sep/03/at-least-three-people-killed-many-injured-in-lisbon-funicular-crash)
+- [Ukraine war briefing: Kyiv offers retort to Putin for ‘messing around’ by demanding Moscow talks](https://www.theguardian.com/world/2025/sep/04/ukraine-war-briefing-kyiv-offers-retort-to-putin-for-messing-around-by-demanding-moscow-talks)
+- [Old master painting looted by Nazis recovered a week after being spotted in Argentinian property listing](https://www.theguardian.com/world/2025/sep/04/nazi-looted-old-master-painting-giuseppe-ghislandi-recovered-argentina-property-listing-ntwnfb)
+- [Trump news at a glance: president labels Epstein scandal a ‘hoax’ as bill to release all the files inches closer](https://www.theguardian.com/us-news/2025/sep/04/trump-administration-news-updates-today-latest)
+- [New Jersey man goes viral for breakdancing through town hall tax questions](https://www.theguardian.com/us-news/2025/sep/03/new-jersey-breakdancing-tax-town-hall)
+- [Wealth tax needed to help working people and avoid threat from Reform, says union chief](https://www.theguardian.com/politics/2025/sep/04/wealth-tax-rachel-reeves-labour-trade-union-congress-reform-nigel-farage)
+- [From a spruced-up Big Ben to Cambridge’s crystal doughnut – Stirling prize for architecture shortlist unveiled](https://www.theguardian.com/artanddesign/2025/sep/04/stirling-prize-for-architecture-shortlist-spruced-up-big-ben-cambridge-crystal-donut)
+- [Robert Jenrick says UK asylum seekers should be held in ‘rudimentary prisons’](https://www.theguardian.com/politics/2025/sep/04/robert-jenrick-says-uk-asylum-seekers-should-be-held-in-rudimentary-prisons)
+- [Anisimova gains revenge for Wimbledon by beating Swiatek to make US Open last four](https://www.theguardian.com/sport/2025/sep/03/amanda-anisimova-sweeps-aside-iga-swiatek-to-reach-us-open-semi-finals)
+- [‘Slap on the wrist’: critics decry weak penalties on Google after landmark monopoly trial](https://www.theguardian.com/technology/2025/sep/03/google-monopoly-case-ruling)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

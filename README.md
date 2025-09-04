@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Moe Inference Economics from First Principles](https://www.tensoreconomics.com/p/moe-inference-economics-from-first)
-- [Studiio – One-screen study dashboard with Socratic AI &lpar;no tab-hopping&rpar;](https://studiio.xyz/)
-- [What a Ruling to Fix Google&#39;s Search Monopoly Means for the Company](https://www.nytimes.com/2025/09/02/technology/google-antitrust-case-ruling.html)
-- [BAGen – Free Before After Photo Maker](https://beforeafterphotomaker.site/)
-- [Embedding documentation in shell script &lpar;2007&rpar;](http://bahut.alma.ch/2007/08/embedding-documentation-in-shell-script_16.html)
-- [There&#39;s a new standard for privacy on the horizon](https://news.ycombinator.com/item?id=45111649)
-- [Libdex 1.0 – deferred execution for gnome](https://blogs.gnome.org/chergert/2025/09/01/libdex-1-0/)
-- [Validating demand for an AR-Agentic airport guide – would you pay?](https://flyx.netlify.app/)
-- [Definite Rust bugs found by the Miri UB detector](https://github.com/rust-lang/miri)
-- [Show HN: Undatas.io – A pay-on-accept document parsing API](https://undatas.io/)
+- [Microsoft&#39;s 6502 BASIC is now Open Source](https://opensource.microsoft.com/blog/2025/09/03/microsoft-open-source-historic-6502-basic/)
+- [Show HN: PianoReader - Converts Piano Tutorial Videos to Notes &lpar;in-browser&rpar;](https://pianoreader.app)
+- [pgBackRest – Reliable PostgreSQL Backup and Restore](https://pgbackrest.org/)
+- [I&#39;m a High Schooler. AI Is Demolishing My Education](https://www.theatlantic.com/technology/archive/2025/09/high-school-student-ai-education/684088/)
+- [Creating Unlisted GitHub Repos](https://craigory.dev/blog/2024-09-11/gh-unlisted-repos/)
+- [Coinbase CEO Revealed He Fired Engineers Who Didn&#39;t Use AI Tools](https://www.finalroundai.com/blog/coinbase-ceo-fired-engineers-for-not-using-ai-tools)
+- [Widespread reduction of ozone extremes in storylines of future climate](https://dx.doi.org/10.1038/s44407-025-00019-4)
+- [Release of &#39;missing minute&#39; of Epstein video contradicts claim cameras stopped](https://www.theguardian.com/us-news/2025/sep/03/missing-minute-video-epstein-released)
+- [New catalyst could make mixed plastic recycling a reality](https://phys.org/news/2025-09-catalyst-plastic-recycling-reality.html)
+- [Google and Shein Fined for Cookie Violations by CNIL in France](https://captaincompliance.com/education/frances-cnil-slams-google-and-shein-with-record-fines-for-cookie-violations/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

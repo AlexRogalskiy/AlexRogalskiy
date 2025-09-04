@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Show HN: LightCycle, a FOSS game in Rust based on Tron](https://github.com/Tortured-Metaphor/LightCycle)
-- [%CPU utilization is a lie](https://www.brendanlong.com/cpu-utilization-is-a-lie.html)
-- [Indices, not Pointers](https://joegm.github.io/blog/indices-not-pointers/)
-- [This blog is running on a recycled Google Pixel 5 &lpar;2024&rpar;](https://blog.ctms.me/posts/2024-08-29-running-this-blog-on-a-pixel-5/)
-- [Google can keep its Chrome browser but will be barred from exclusive contracts](https://www.cnbc.com/2025/09/02/google-antitrust-search-ruling.html)
-- [Making a Linux home server sleep on idle and wake on demand &lpar;2023&rpar;](https://dgross.ca/blog/linux-home-server-auto-sleep)
-- [A staff engineer&#39;s journey with Claude Code](https://www.sanity.io/blog/first-attempt-will-be-95-garbage)
-- [Amazon must face US nationwide class action over third-party sales](https://www.reuters.com/legal/government/amazon-must-face-us-nationwide-class-action-over-third-party-sales-2025-09-02/)
-- [Show HN: Amber – better Beeper, a modern all-in-one messenger](https://useamber.app/)
-- [Vijaye Raji to become CTO of Applications with acquisition of Statsig](https://openai.com/index/vijaye-raji-to-become-cto-of-applications-with-acquisition-of-statsig/)
+- [Neovim Pack](https://neovim.io/doc/user/pack.html#vim.pack)
+- [Not paying with cash](https://rubenerd.com/not-paying-with-cash/)
+- [ReMarkable Paper Pro Move](https://remarkable.com/products/remarkable-paper/pro-move)
+- [Evaluating Agents](https://aunhumano.com/index.php/2025/09/03/on-evaluating-agents/)
+- [Evidence that AI is destroying jobs for young people](https://www.derekthompson.org/p/the-evidence-that-ai-is-destroying)
+- [Where&#39;s the shovelware? Why AI coding claims don&#39;t add up](https://mikelovesrobots.substack.com/p/wheres-the-shovelware-why-ai-coding)
+- [Depot &lpar;YC W23&rpar; Is Hiring a Solutions Engineer &lpar;Remote US and Canada&rpar;](https://www.ycombinator.com/companies/depot/jobs/U54HGtn-solutions-engineer)
+- [Tufte CSS](https://edwardtufte.github.io/tufte-css/)
+- [We&#39;re Joining OpenAI](https://www.alexcodes.app/blog/alex-team-joins-openai)
+- [6NF File Format](https://habr.com/en/articles/942516/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

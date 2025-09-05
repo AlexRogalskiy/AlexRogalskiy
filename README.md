@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Microsoft&#39;s 6502 BASIC is now Open Source](https://opensource.microsoft.com/blog/2025/09/03/microsoft-open-source-historic-6502-basic/)
-- [Show HN: PianoReader - Converts Piano Tutorial Videos to Notes &lpar;in-browser&rpar;](https://pianoreader.app)
-- [pgBackRest – Reliable PostgreSQL Backup and Restore](https://pgbackrest.org/)
-- [I&#39;m a High Schooler. AI Is Demolishing My Education](https://www.theatlantic.com/technology/archive/2025/09/high-school-student-ai-education/684088/)
-- [Creating Unlisted GitHub Repos](https://craigory.dev/blog/2024-09-11/gh-unlisted-repos/)
-- [Coinbase CEO Revealed He Fired Engineers Who Didn&#39;t Use AI Tools](https://www.finalroundai.com/blog/coinbase-ceo-fired-engineers-for-not-using-ai-tools)
-- [Widespread reduction of ozone extremes in storylines of future climate](https://dx.doi.org/10.1038/s44407-025-00019-4)
-- [Release of &#39;missing minute&#39; of Epstein video contradicts claim cameras stopped](https://www.theguardian.com/us-news/2025/sep/03/missing-minute-video-epstein-released)
-- [New catalyst could make mixed plastic recycling a reality](https://phys.org/news/2025-09-catalyst-plastic-recycling-reality.html)
-- [Google and Shein Fined for Cookie Violations by CNIL in France](https://captaincompliance.com/education/frances-cnil-slams-google-and-shein-with-record-fines-for-cookie-violations/)
+- [Rare and Old Computers](https://randoc.wordpress.com/)
+- [Flock Safety currently solves 700k reported cases of crime per year](https://twitter.com/garrytan/status/1963256544524640456)
+- [Show HN: Nano Banana Prompt Collection](https://nanobananaprompt.app)
+- [It&#39;s past time to start protecting US nuclear power reactors from drones](https://thebulletin.org/2025/09/its-past-time-to-start-protecting-us-nuclear-power-reactors-from-drones/)
+- [cparted – curses front end to pyparted that mimics cfdisk](https://github.com/dcampbell24/cparted)
+- [Using AI to perceive the universe in greater depth](https://deepmind.google/discover/blog/using-ai-to-perceive-the-universe-in-greater-depth/)
+- [Tech CEOs take turns praising Trump](https://www.wsj.com/politics/trump-tech-ceo-rose-garden-dinner-1fee2de3)
+- [Why the Internet Is Worse Than Ever](https://macleans.ca/society/why-the-internet-is-worse-than-ever/)
+- [Show HN: A credibility-based social platform &lpar;no Likes&rpar; to fight misinformation](https://noblenews.io)
+- [You Know What to Do](https://staysaasy.com/management/2025/08/21/you-know-what-to-do.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

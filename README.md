@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Portugal declares day of mourning for 15 people killed in Lisbon funicular railway crash](https://www.theguardian.com/world/2025/sep/03/at-least-three-people-killed-many-injured-in-lisbon-funicular-crash)
-- [Ukraine war briefing: Kyiv offers retort to Putin for ‘messing around’ by demanding Moscow talks](https://www.theguardian.com/world/2025/sep/04/ukraine-war-briefing-kyiv-offers-retort-to-putin-for-messing-around-by-demanding-moscow-talks)
-- [Old master painting looted by Nazis recovered a week after being spotted in Argentinian property listing](https://www.theguardian.com/world/2025/sep/04/nazi-looted-old-master-painting-giuseppe-ghislandi-recovered-argentina-property-listing-ntwnfb)
-- [Trump news at a glance: president labels Epstein scandal a ‘hoax’ as bill to release all the files inches closer](https://www.theguardian.com/us-news/2025/sep/04/trump-administration-news-updates-today-latest)
-- [New Jersey man goes viral for breakdancing through town hall tax questions](https://www.theguardian.com/us-news/2025/sep/03/new-jersey-breakdancing-tax-town-hall)
-- [Wealth tax needed to help working people and avoid threat from Reform, says union chief](https://www.theguardian.com/politics/2025/sep/04/wealth-tax-rachel-reeves-labour-trade-union-congress-reform-nigel-farage)
-- [From a spruced-up Big Ben to Cambridge’s crystal doughnut – Stirling prize for architecture shortlist unveiled](https://www.theguardian.com/artanddesign/2025/sep/04/stirling-prize-for-architecture-shortlist-spruced-up-big-ben-cambridge-crystal-donut)
-- [Robert Jenrick says UK asylum seekers should be held in ‘rudimentary prisons’](https://www.theguardian.com/politics/2025/sep/04/robert-jenrick-says-uk-asylum-seekers-should-be-held-in-rudimentary-prisons)
-- [Anisimova gains revenge for Wimbledon by beating Swiatek to make US Open last four](https://www.theguardian.com/sport/2025/sep/03/amanda-anisimova-sweeps-aside-iga-swiatek-to-reach-us-open-semi-finals)
-- [‘Slap on the wrist’: critics decry weak penalties on Google after landmark monopoly trial](https://www.theguardian.com/technology/2025/sep/03/google-monopoly-case-ruling)
+- [US Open tennis 2025 women’s semi-finals: Osaka v Anisimova; Sabalenka beats Pegula – live](https://www.theguardian.com/sport/live/2025/sep/04/us-open-tennis-womens-semi-finals-sabalenka-pegula-osaka-anisimova-live)
+- [Former PM Thaksin Shinawatra leaves Thailand days ahead of court ruling that could see him jailed](https://www.theguardian.com/world/2025/sep/05/former-pm-thaksin-shinawatra-leaves-thailand-ahead-of-court-ruling-that-could-see-him-jailed-ntwnfb)
+- [Eagles’ Jalen Carter ejected seconds into NFL season after spitting on Cowboys’ Dak Prescott](https://www.theguardian.com/sport/2025/sep/04/jalen-carter-ejection-eagles-cowboys-spit-dak-prescott)
+- [Trump news at a glance: RFK Jr made ‘false’ claims in Senate testimony, says fired CDC director](https://www.theguardian.com/us-news/2025/sep/05/trump-administration-news-updates-today-latest)
+- [Macron says 26 nations ready to provide postwar military backing to Ukraine](https://www.theguardian.com/world/2025/sep/04/european-leaders-pressure-trump-to-reveal-how-much-support-us-will-give-ukraine)
+- [Two women killed while trying to help injured kangaroo on Melbourne freeway](https://www.theguardian.com/australia-news/2025/sep/05/two-women-killed-after-being-hit-by-car-while-trying-to-help-injured-kangaroo-on-busy-freeway)
+- [Thousands in England unable to access weight loss jabs via GP, figures reveal](https://www.theguardian.com/society/2025/sep/04/mounjaro-weight-loss-jabs-access-nhs-gp)
+- [Starmer must not meet Israeli president during UK visit, say Labour MPs](https://www.theguardian.com/politics/2025/sep/04/israel-president-visit-london-talks-ministers-isaac-herzog)
+- [Aston Villa ‘killed’ by spending rules in transfer window, says Ezri Konsa](https://www.theguardian.com/football/2025/sep/04/ezri-konsa-aston-villa-transfer-window-england-andorra-world-cup-qualifier)
+- [Erupcja review – Charli xcx gives acting a trial run in shallow friendship drama](https://www.theguardian.com/film/2025/sep/04/erupcja-review-charli-xcx-tiff)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

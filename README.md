@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Neovim Pack](https://neovim.io/doc/user/pack.html#vim.pack)
-- [Not paying with cash](https://rubenerd.com/not-paying-with-cash/)
-- [ReMarkable Paper Pro Move](https://remarkable.com/products/remarkable-paper/pro-move)
-- [Evaluating Agents](https://aunhumano.com/index.php/2025/09/03/on-evaluating-agents/)
-- [Evidence that AI is destroying jobs for young people](https://www.derekthompson.org/p/the-evidence-that-ai-is-destroying)
-- [Where&#39;s the shovelware? Why AI coding claims don&#39;t add up](https://mikelovesrobots.substack.com/p/wheres-the-shovelware-why-ai-coding)
-- [Depot &lpar;YC W23&rpar; Is Hiring a Solutions Engineer &lpar;Remote US and Canada&rpar;](https://www.ycombinator.com/companies/depot/jobs/U54HGtn-solutions-engineer)
-- [Tufte CSS](https://edwardtufte.github.io/tufte-css/)
-- [We&#39;re Joining OpenAI](https://www.alexcodes.app/blog/alex-team-joins-openai)
-- [6NF File Format](https://habr.com/en/articles/942516/)
+- [Fil&#39;s Unbelievable Garbage Collector](https://fil-c.org/fugc)
+- [Forking Chrome to render in a terminal &lpar;2023&rpar;](https://fathy.fr/carbonyl)
+- [Evolving the OCaml Programming Language &lpar;2025&rpar; [pdf]](https://kcsrk.info/slides/Evolution_Ashoka_2025.pdf)
+- [Updating restrictions of sales to unsupported regions](https://www.anthropic.com/news/updating-restrictions-of-sales-to-unsupported-regions)
+- [Unix Conspiracy &lpar;1991&rpar;](http://www.catb.org/~esr/jargon/html/U/Unix-conspiracy.html)
+- [I ditched Spotify and set up my own music stack](https://leshicodes.github.io/blog/spotify-migration/)
+- [What Is the Fourier Transform?](https://www.quantamagazine.org/what-is-the-fourier-transform-20250903/)
+- [Memory is slow, Disk is fast – Part 2](https://www.bitflux.ai/blog/memory-is-slow-part2/)
+- [What If OpenDocument Used SQLite?](https://www.sqlite.org/affcase1.html)
+- [Rocketships and Slingshots](https://postround.substack.com/p/rocketships-and-slingshots)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

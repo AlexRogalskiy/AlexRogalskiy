@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Fil&#39;s Unbelievable Garbage Collector](https://fil-c.org/fugc)
-- [Forking Chrome to render in a terminal &lpar;2023&rpar;](https://fathy.fr/carbonyl)
-- [Evolving the OCaml Programming Language &lpar;2025&rpar; [pdf]](https://kcsrk.info/slides/Evolution_Ashoka_2025.pdf)
-- [Updating restrictions of sales to unsupported regions](https://www.anthropic.com/news/updating-restrictions-of-sales-to-unsupported-regions)
-- [Unix Conspiracy &lpar;1991&rpar;](http://www.catb.org/~esr/jargon/html/U/Unix-conspiracy.html)
-- [I ditched Spotify and set up my own music stack](https://leshicodes.github.io/blog/spotify-migration/)
-- [What Is the Fourier Transform?](https://www.quantamagazine.org/what-is-the-fourier-transform-20250903/)
-- [Memory is slow, Disk is fast – Part 2](https://www.bitflux.ai/blog/memory-is-slow-part2/)
-- [What If OpenDocument Used SQLite?](https://www.sqlite.org/affcase1.html)
-- [Rocketships and Slingshots](https://postround.substack.com/p/rocketships-and-slingshots)
+- [Developing a Space Flight Simulator in Clojure](https://www.wedesoft.de/software/2025/09/05/clojure-game/)
+- [The sunscreen scandal shocking Australia - the world&#39;s skin cancer capital](https://www.bbc.com/news/articles/c4gzl41rpdqo)
+- [GLM 4.5 with Claude Code](https://docs.z.ai/guides/llm/glm-4.5)
+- [The Universe Within 12.5 Light Years](http://www.atlasoftheuniverse.com/12lys.html)
+- [Quantum Mechanics, Concise Book](https://github.com/basketballguy999/Quantum-Mechanics-Concise-Book)
+- [Should we revisit Extreme Programming in the age of AI?](https://www.hyperact.co.uk/blog/should-we-revisit-xp-in-the-age-of-ai)
+- [Nest 1st gen and 2nd gen thermostats no longer supported from 10/25/2025](https://community.hubitat.com/t/nest-1st-gen-and-2nd-gen-thermostats-no-longer-supported-by-google-from-10-25-2025/152952)
+- [Gym Class VR &lpar;YC W22&rpar; Is Hiring – UX Design Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ywXHGBv-ux-design-engineer-senior-staff-principal)
+- [Anthropic agrees to pay $1.5B to settle lawsuit with book authors](https://www.nytimes.com/2025/09/05/technology/anthropic-settlement-copyright-ai.html?unlocked_article_code=1.jk8.bTTt.Zir9wmtPaTp2&smid=url-share)
+- [My Own DNS Server at Home – Part 1: IPv4](https://jan.wildeboer.net/2025/08/My-DNS-Part-1/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

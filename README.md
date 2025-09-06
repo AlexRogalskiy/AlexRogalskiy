@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Rare and Old Computers](https://randoc.wordpress.com/)
-- [Flock Safety currently solves 700k reported cases of crime per year](https://twitter.com/garrytan/status/1963256544524640456)
-- [Show HN: Nano Banana Prompt Collection](https://nanobananaprompt.app)
-- [It&#39;s past time to start protecting US nuclear power reactors from drones](https://thebulletin.org/2025/09/its-past-time-to-start-protecting-us-nuclear-power-reactors-from-drones/)
-- [cparted – curses front end to pyparted that mimics cfdisk](https://github.com/dcampbell24/cparted)
-- [Using AI to perceive the universe in greater depth](https://deepmind.google/discover/blog/using-ai-to-perceive-the-universe-in-greater-depth/)
-- [Tech CEOs take turns praising Trump](https://www.wsj.com/politics/trump-tech-ceo-rose-garden-dinner-1fee2de3)
-- [Why the Internet Is Worse Than Ever](https://macleans.ca/society/why-the-internet-is-worse-than-ever/)
-- [Show HN: A credibility-based social platform &lpar;no Likes&rpar; to fight misinformation](https://noblenews.io)
-- [You Know What to Do](https://staysaasy.com/management/2025/08/21/you-know-what-to-do.html)
+- [AI and the Rise of Techno-Fascism in the United States](https://www.theatlantic.com/podcasts/archive/2025/09/ai-and-the-fight-between-democracy-and-autocracy/684095/)
+- [Transforming access to the brain, without drilling through the skull](https://www.vonova.io/)
+- [Physicists create a time crystal that humans can see](https://phys.org/news/2025-09-physicists-kind-crystal-humans.html)
+- [At least 475 workers detained in major ICE raid at US Hyundai factory](https://www.theguardian.com/us-news/2025/sep/05/immigration-ice-raid-hyundai-georgia)
+- [Evals are a scam. And we&#39;re being gaslit into believing they aren&#39;t](https://hacktrace.substack.com/p/evals-are-a-scam-and-were-being-gaslit)
+- [Build a home thermostat with a Raspberry Pi](https://opensource.com/article/21/3/thermostat-raspberry-pi)
+- [Two Valuable Satellites Are in &#39;Perfect Health.&#39; They May Be Scrapped](https://www.nytimes.com/2025/09/05/climate/trump-climate-satellites.html)
+- [U of Oregon student who reported privacy lapse placed under investigation](https://www.oregonlive.com/education/2025/09/a-university-of-oregon-student-reported-a-troubling-online-privacy-lapse-the-university-placed-him-under-investigation.html)
+- [Show HN: A Chrome extension to export structured data from any website using AI](https://chromewebstore.google.com/detail/exforma/ifmdjhggfjpofomdpkllkgongegpamem)
+- [Kevin Barry, original developer of Nova Launcher, has left the project](https://teslacoilapps.com/nova/solong.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

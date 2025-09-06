@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [US Open tennis 2025 women’s semi-finals: Osaka v Anisimova; Sabalenka beats Pegula – live](https://www.theguardian.com/sport/live/2025/sep/04/us-open-tennis-womens-semi-finals-sabalenka-pegula-osaka-anisimova-live)
-- [Former PM Thaksin Shinawatra leaves Thailand days ahead of court ruling that could see him jailed](https://www.theguardian.com/world/2025/sep/05/former-pm-thaksin-shinawatra-leaves-thailand-ahead-of-court-ruling-that-could-see-him-jailed-ntwnfb)
-- [Eagles’ Jalen Carter ejected seconds into NFL season after spitting on Cowboys’ Dak Prescott](https://www.theguardian.com/sport/2025/sep/04/jalen-carter-ejection-eagles-cowboys-spit-dak-prescott)
-- [Trump news at a glance: RFK Jr made ‘false’ claims in Senate testimony, says fired CDC director](https://www.theguardian.com/us-news/2025/sep/05/trump-administration-news-updates-today-latest)
-- [Macron says 26 nations ready to provide postwar military backing to Ukraine](https://www.theguardian.com/world/2025/sep/04/european-leaders-pressure-trump-to-reveal-how-much-support-us-will-give-ukraine)
-- [Two women killed while trying to help injured kangaroo on Melbourne freeway](https://www.theguardian.com/australia-news/2025/sep/05/two-women-killed-after-being-hit-by-car-while-trying-to-help-injured-kangaroo-on-busy-freeway)
-- [Thousands in England unable to access weight loss jabs via GP, figures reveal](https://www.theguardian.com/society/2025/sep/04/mounjaro-weight-loss-jabs-access-nhs-gp)
-- [Starmer must not meet Israeli president during UK visit, say Labour MPs](https://www.theguardian.com/politics/2025/sep/04/israel-president-visit-london-talks-ministers-isaac-herzog)
-- [Aston Villa ‘killed’ by spending rules in transfer window, says Ezri Konsa](https://www.theguardian.com/football/2025/sep/04/ezri-konsa-aston-villa-transfer-window-england-andorra-world-cup-qualifier)
-- [Erupcja review – Charli xcx gives acting a trial run in shallow friendship drama](https://www.theguardian.com/film/2025/sep/04/erupcja-review-charli-xcx-tiff)
+- [US Open tennis 2025: Jannik Sinner v Félix Auger-Aliassime, men’s semi-final – live](https://www.theguardian.com/sport/live/2025/sep/05/us-open-tennis-2025-jannik-sinner-v-felix-auger-aliassime-mens-semi-final-live)
+- [Man dies in shark attack near Dee Why on Sydney’s northern beaches](https://www.theguardian.com/australia-news/2025/sep/06/fatal-shark-attack-long-reef-beach-sydney-northern-beaches-nsw)
+- [Carlos Alcaraz calls Donald Trump’s US Open return ‘great for tennis’](https://www.theguardian.com/sport/2025/sep/05/carlos-alcaraz-donald-trump-us-open-final)
+- [Christy review – Sydney Sweeney fights a losing battle in cliched boxing biopic](https://www.theguardian.com/film/2025/sep/05/christy-review-sydney-sweeney)
+- [Pro-cannabis and a karaoke crooner: meet Thailand’s next prime minister](https://www.theguardian.com/world/2025/sep/06/pro-cannabis-karaoke-meet-thailand-next-prime-minister-anutin-charnvirakul)
+- [Steve review – Cillian Murphy is outstanding in ferocious reform school drama](https://www.theguardian.com/film/2025/sep/05/steve-review-cillian-murphy-is-outstanding-in-ferocious-reform-school-drama)
+- [The Choral review – Ralph Fiennes makes pleasant music in low-volume drama](https://www.theguardian.com/film/2025/sep/05/the-choral-review-ralph-fiennes)
+- [As censure increases over war in Gaza, Israel finds support among Pacific Islands](https://www.theguardian.com/world/2025/sep/06/as-censure-increases-over-war-in-gaza-israel-finds-support-among-pacific-islands)
+- [Saipan review – football scandal makes for thrilling big-screen drama](https://www.theguardian.com/film/2025/sep/05/saipan-film-review-steve-coogan-eanna-hardwicke)
+- [Mitchell and Webb Are Not Helping review – it’s comfortingly surreal to see them doing sketch comedy again](https://www.theguardian.com/tv-and-radio/2025/sep/05/channel-4-mitchell-and-webb-are-not-helping-review-sketch-comedy)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

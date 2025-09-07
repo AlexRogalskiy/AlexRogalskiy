@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [AI and the Rise of Techno-Fascism in the United States](https://www.theatlantic.com/podcasts/archive/2025/09/ai-and-the-fight-between-democracy-and-autocracy/684095/)
-- [Transforming access to the brain, without drilling through the skull](https://www.vonova.io/)
-- [Physicists create a time crystal that humans can see](https://phys.org/news/2025-09-physicists-kind-crystal-humans.html)
-- [At least 475 workers detained in major ICE raid at US Hyundai factory](https://www.theguardian.com/us-news/2025/sep/05/immigration-ice-raid-hyundai-georgia)
-- [Evals are a scam. And we&#39;re being gaslit into believing they aren&#39;t](https://hacktrace.substack.com/p/evals-are-a-scam-and-were-being-gaslit)
-- [Build a home thermostat with a Raspberry Pi](https://opensource.com/article/21/3/thermostat-raspberry-pi)
-- [Two Valuable Satellites Are in &#39;Perfect Health.&#39; They May Be Scrapped](https://www.nytimes.com/2025/09/05/climate/trump-climate-satellites.html)
-- [U of Oregon student who reported privacy lapse placed under investigation](https://www.oregonlive.com/education/2025/09/a-university-of-oregon-student-reported-a-troubling-online-privacy-lapse-the-university-placed-him-under-investigation.html)
-- [Show HN: A Chrome extension to export structured data from any website using AI](https://chromewebstore.google.com/detail/exforma/ifmdjhggfjpofomdpkllkgongegpamem)
-- [Kevin Barry, original developer of Nova Launcher, has left the project](https://teslacoilapps.com/nova/solong.html)
+- [Lack of observability in FB chat births ReactJS](https://twitter.com/dmwlff/status/1762885255030259854)
+- [Thoughts on Visual Programming](https://btmc.substack.com/p/thoughts-on-visual-programming)
+- [Why the Technological Singularity May Be a &quot;Big Nothing&quot;](https://news.ycombinator.com/item?id=45154950)
+- [The world has a running Rational R1000/400 computer again &lpar;2019&rpar;](https://datamuseum.dk/wiki/Rational/R1000s400/Logbook/2019#2019-10-28)
+- [Root cause for why Windows 11 is breaking or corrupting SSDs may have been found](https://www.neowin.net/news/root-cause-for-why-windows-11-is-breaking-or-corrupting-ssds-may-have-been-found/)
+- [Wrote an in-depth blog on scaling modern transformers with n-D parallelism](https://jaxformer.com/)
+- [Re Falcon 030: designing replica PCB of Atari Falcon](https://re-falcon.com/project)
+- [The Y2Q Problem: Harvest Now, Decrypt Later](https://shalashashka.substack.com/p/y2q-the-quiet-data-bomb)
+- [Reducing double spend latency from 40 ms to &lt; 1 ms on privacy proxy](https://blog.cloudflare.com/reducing-double-spend-latency-from-40-ms-to-less-than-1-ms-on-privacy-proxy/)
+- [Using refactoring patterns as search beacons &lpar;90%+ token reduction&rpar;](https://github.com/Akisin/structural-beacon)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

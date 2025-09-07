@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Developing a Space Flight Simulator in Clojure](https://www.wedesoft.de/software/2025/09/05/clojure-game/)
-- [The sunscreen scandal shocking Australia - the world&#39;s skin cancer capital](https://www.bbc.com/news/articles/c4gzl41rpdqo)
-- [GLM 4.5 with Claude Code](https://docs.z.ai/guides/llm/glm-4.5)
-- [The Universe Within 12.5 Light Years](http://www.atlasoftheuniverse.com/12lys.html)
-- [Quantum Mechanics, Concise Book](https://github.com/basketballguy999/Quantum-Mechanics-Concise-Book)
-- [Should we revisit Extreme Programming in the age of AI?](https://www.hyperact.co.uk/blog/should-we-revisit-xp-in-the-age-of-ai)
-- [Nest 1st gen and 2nd gen thermostats no longer supported from 10/25/2025](https://community.hubitat.com/t/nest-1st-gen-and-2nd-gen-thermostats-no-longer-supported-by-google-from-10-25-2025/152952)
-- [Gym Class VR &lpar;YC W22&rpar; Is Hiring – UX Design Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ywXHGBv-ux-design-engineer-senior-staff-principal)
-- [Anthropic agrees to pay $1.5B to settle lawsuit with book authors](https://www.nytimes.com/2025/09/05/technology/anthropic-settlement-copyright-ai.html?unlocked_article_code=1.jk8.bTTt.Zir9wmtPaTp2&smid=url-share)
-- [My Own DNS Server at Home – Part 1: IPv4](https://jan.wildeboer.net/2025/08/My-DNS-Part-1/)
+- [Navy SEALs Killed Fishermen to Hide Failed Mission to Wiretap North Korea](https://reason.com/2025/09/05/navy-seals-reportedly-killed-north-korean-fishermen-and-mutilated-their-bodies-to-hide-a-failed-mission/)
+- [Show HN: I recreated Windows XP as my portfolio](https://mitchivin.com/)
+- [How did MVC get so F&#39;ed up?](https://stlab.cc/tips/about-mvc.html)
+- [Game launcher installs Root CA certificate on your machine &lpar;2024&rpar;](https://github.com/SoapboxRaceWorld/GameLauncher_NFSW/issues/276)
+- [Blogs used to be different](https://jetgirl.art/blogs-used-to-be-very-different/)
+- [Show HN: Send kind and aspirational words to a stranger who needs it](https://kindnesssender.com/)
+- [C++26: Erroneous behaviour](https://www.sandordargo.com/blog/2025/02/05/cpp26-erroneous-behaviour)
+- [A history of metaphorical brain talk in psychiatry](https://www.nature.com/articles/s41380-025-03053-6)
+- [Gloria funicular derailment initial findings report &lpar;EN&rpar; [pdf]](https://www.gpiaaf.gov.pt/upload/processos/d054239.pdf)
+- [Show HN: I&#39;m making an open-source platform for learning Japanese](https://kanadojo.com)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

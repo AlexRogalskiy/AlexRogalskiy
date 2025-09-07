@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [US Open tennis 2025: Jannik Sinner v Félix Auger-Aliassime, men’s semi-final – live](https://www.theguardian.com/sport/live/2025/sep/05/us-open-tennis-2025-jannik-sinner-v-felix-auger-aliassime-mens-semi-final-live)
-- [Man dies in shark attack near Dee Why on Sydney’s northern beaches](https://www.theguardian.com/australia-news/2025/sep/06/fatal-shark-attack-long-reef-beach-sydney-northern-beaches-nsw)
-- [Carlos Alcaraz calls Donald Trump’s US Open return ‘great for tennis’](https://www.theguardian.com/sport/2025/sep/05/carlos-alcaraz-donald-trump-us-open-final)
-- [Christy review – Sydney Sweeney fights a losing battle in cliched boxing biopic](https://www.theguardian.com/film/2025/sep/05/christy-review-sydney-sweeney)
-- [Pro-cannabis and a karaoke crooner: meet Thailand’s next prime minister](https://www.theguardian.com/world/2025/sep/06/pro-cannabis-karaoke-meet-thailand-next-prime-minister-anutin-charnvirakul)
-- [Steve review – Cillian Murphy is outstanding in ferocious reform school drama](https://www.theguardian.com/film/2025/sep/05/steve-review-cillian-murphy-is-outstanding-in-ferocious-reform-school-drama)
-- [The Choral review – Ralph Fiennes makes pleasant music in low-volume drama](https://www.theguardian.com/film/2025/sep/05/the-choral-review-ralph-fiennes)
-- [As censure increases over war in Gaza, Israel finds support among Pacific Islands](https://www.theguardian.com/world/2025/sep/06/as-censure-increases-over-war-in-gaza-israel-finds-support-among-pacific-islands)
-- [Saipan review – football scandal makes for thrilling big-screen drama](https://www.theguardian.com/film/2025/sep/05/saipan-film-review-steve-coogan-eanna-hardwicke)
-- [Mitchell and Webb Are Not Helping review – it’s comfortingly surreal to see them doing sketch comedy again](https://www.theguardian.com/tv-and-radio/2025/sep/05/channel-4-mitchell-and-webb-are-not-helping-review-sketch-comedy)
+- [Mexican festivals in Chicago canceled amid Trump plans to deploy troops](https://www.theguardian.com/us-news/2025/sep/06/chicago-mexican-independence-day-trump)
+- [Ukraine war briefing: Zelenskyy says nearly 60% of weapons are domestically made as role of drones increases](https://www.theguardian.com/world/2025/sep/07/ukraine-war-briefing-zelenskyy-says-nearly-60-of-weapons-are-domestically-made-as-role-of-drones-increases)
+- [China’s military follows Australian and Canadian warships in Taiwan Strait accusing them of ‘provocation’](https://www.theguardian.com/australia-news/2025/sep/07/chinas-military-follows-australian-and-canadian-warships-in-taiwan-strait-accusing-them-of-provocation)
+- [Winter of the Crow review – Lesley Manville commands cold war thriller](https://www.theguardian.com/film/2025/sep/06/winter-of-the-crow-review-lesley-manville)
+- [Trash to transport: crossing Bass Strait in a boat made of Tasmanian fish farm debris](https://www.theguardian.com/australia-news/2025/sep/07/crossing-bass-strait-boat-made-tasmanian-fish-farm-debris-trash-transport)
+- [West Point cancels ceremony to honor Tom Hanks as ‘outstanding US citizen’](https://www.theguardian.com/us-news/2025/sep/06/west-point-cancels-tom-hanks-ceremony)
+- [Aryna Sabalenka sweeps aside Amanda Anisimova to retain US Open title](https://www.theguardian.com/sport/2025/sep/06/aryna-sabalenka-sweeps-aside-amanda-anisimova-to-retain-us-open-title)
+- [Fuze review – twisty London-set heist thriller should have stolen some personality](https://www.theguardian.com/film/2025/sep/06/fuze-review-london-heist-thriller)
+- [World Cup qualifying roundup: Ronaldo scores twice as Portugal pay Jota tributes](https://www.theguardian.com/football/2025/sep/06/world-cup-qualifying-roundup-ronaldo-scores-twice-as-portugal-pay-jota-tributes)
+- [Jim Jarmusch’s Father Mother Sister Brother, starring Cate Blanchett, surprise winner of Venice Golden Lion](https://www.theguardian.com/film/2025/sep/06/jim-jarmuschs-father-mother-sister-brother-starring-cate-blanchett-surprise-winner-of-venice-golden-lion)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

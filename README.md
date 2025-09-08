@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Lack of observability in FB chat births ReactJS](https://twitter.com/dmwlff/status/1762885255030259854)
-- [Thoughts on Visual Programming](https://btmc.substack.com/p/thoughts-on-visual-programming)
-- [Why the Technological Singularity May Be a &quot;Big Nothing&quot;](https://news.ycombinator.com/item?id=45154950)
-- [The world has a running Rational R1000/400 computer again &lpar;2019&rpar;](https://datamuseum.dk/wiki/Rational/R1000s400/Logbook/2019#2019-10-28)
-- [Root cause for why Windows 11 is breaking or corrupting SSDs may have been found](https://www.neowin.net/news/root-cause-for-why-windows-11-is-breaking-or-corrupting-ssds-may-have-been-found/)
-- [Wrote an in-depth blog on scaling modern transformers with n-D parallelism](https://jaxformer.com/)
-- [Re Falcon 030: designing replica PCB of Atari Falcon](https://re-falcon.com/project)
-- [The Y2Q Problem: Harvest Now, Decrypt Later](https://shalashashka.substack.com/p/y2q-the-quiet-data-bomb)
-- [Reducing double spend latency from 40 ms to &lt; 1 ms on privacy proxy](https://blog.cloudflare.com/reducing-double-spend-latency-from-40-ms-to-less-than-1-ms-on-privacy-proxy/)
-- [Using refactoring patterns as search beacons &lpar;90%+ token reduction&rpar;](https://github.com/Akisin/structural-beacon)
+- [An In-Depth Look at Pipe and Splice Implementation in Linux Kernel](https://blogs.oracle.com/linux/post/pipe-and-splice)
+- [Philosophy in Prison](https://aeon.co/essays/philosophy-in-prison-is-a-rowdy-honest-and-hopeful-provocation)
+- [Does anyone think the current AI approach will hit a dead end?](https://news.ycombinator.com/item?id=45164234)
+- [Cook County Assessor&#39;s Office Open Source AVM &lpar;Automated Valuation Model&rpar;](https://github.com/ccao-data)
+- [YouTube views are down &lpar;don&#39;t panic&rpar;](https://www.jeffgeerling.com/blog/2025/youtube-views-are-down-dont-panic)
+- [Serving up delicious cocktails in plain text](https://asciibar.com/)
+- [Nick Clegg and Tim Berners-Lee: the battle for the soul of the Internet](https://observer.co.uk/culture/books/article/nick-clegg-and-tim-berners-lee-the-battle-for-the-soul-of-the-internet)
+- [Elon Musk&#39;s $1T Tesla pay package: Here are the major caveats](https://www.fastcompany.com/91399114/elon-musk-1-trillion-tesla-pay-package-here-are-the-major-caveats)
+- [European public service channel ARTE&#39;s YouTube channel likely hijacked [video]](https://www.youtube.com/watch?v=sTCOAqxg_WU)
+- [Show HN: Frontier – draw with the world live on an infinite grid of pixels](https://frontier.place)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

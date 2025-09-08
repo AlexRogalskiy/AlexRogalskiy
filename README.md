@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Navy SEALs Killed Fishermen to Hide Failed Mission to Wiretap North Korea](https://reason.com/2025/09/05/navy-seals-reportedly-killed-north-korean-fishermen-and-mutilated-their-bodies-to-hide-a-failed-mission/)
-- [Show HN: I recreated Windows XP as my portfolio](https://mitchivin.com/)
-- [How did MVC get so F&#39;ed up?](https://stlab.cc/tips/about-mvc.html)
-- [Game launcher installs Root CA certificate on your machine &lpar;2024&rpar;](https://github.com/SoapboxRaceWorld/GameLauncher_NFSW/issues/276)
-- [Blogs used to be different](https://jetgirl.art/blogs-used-to-be-very-different/)
-- [Show HN: Send kind and aspirational words to a stranger who needs it](https://kindnesssender.com/)
-- [C++26: Erroneous behaviour](https://www.sandordargo.com/blog/2025/02/05/cpp26-erroneous-behaviour)
-- [A history of metaphorical brain talk in psychiatry](https://www.nature.com/articles/s41380-025-03053-6)
-- [Gloria funicular derailment initial findings report &lpar;EN&rpar; [pdf]](https://www.gpiaaf.gov.pt/upload/processos/d054239.pdf)
-- [Show HN: I&#39;m making an open-source platform for learning Japanese](https://kanadojo.com)
+- [Computers Are for Girls – Datagubbe.se](https://datagubbe.se/girls/)
+- [Cloud Storage Is Full Email Scam: What It Is and How to Protect Yourself](https://malwaretips.com/blogs/your-cloud-storage-is-full-email-scam/)
+- [Using Claude Code to modernize a forgotten Linux kernel driver](https://dmitrybrant.com/2025/09/07/using-claude-code-to-modernize-a-25-year-old-kernel-driver)
+- [The demo scene is dying, but that&#39;s alright](https://www.datagubbe.se/sceneherit/)
+- [Intel Arc Pro B50 GPU Launched at $349 for Compact Workstations](https://www.guru3d.com/story/intel-arc-pro-b50-gpu-launched-at-for-compact-workstations/)
+- [Taking Buildkite from a side project to a global company](https://www.valleyofdoubt.com/p/taking-buildkite-from-a-side-project)
+- [Creative Technology: The Sound Blaster](https://www.abortretry.fail/p/the-story-of-creative-technology)
+- [Show HN: OpenCV over WebRTC &lpar;in Go&rpar;](https://github.com/pion/example-webrtc-applications/blob/master/gocv-to-webrtc/README.md)
+- [Pico CSS – Minimal CSS Framework for Semantic HTML](https://picocss.com)
+- [Everything from 1991 Radio Shack ad I now do with my phone &lpar;2014&rpar;](https://www.trendingbuffalo.com/life/uncle-steves-buffalo/everything-from-1991-radio-shack-ad-now/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Mexican festivals in Chicago canceled amid Trump plans to deploy troops](https://www.theguardian.com/us-news/2025/sep/06/chicago-mexican-independence-day-trump)
-- [Ukraine war briefing: Zelenskyy says nearly 60% of weapons are domestically made as role of drones increases](https://www.theguardian.com/world/2025/sep/07/ukraine-war-briefing-zelenskyy-says-nearly-60-of-weapons-are-domestically-made-as-role-of-drones-increases)
-- [China’s military follows Australian and Canadian warships in Taiwan Strait accusing them of ‘provocation’](https://www.theguardian.com/australia-news/2025/sep/07/chinas-military-follows-australian-and-canadian-warships-in-taiwan-strait-accusing-them-of-provocation)
-- [Winter of the Crow review – Lesley Manville commands cold war thriller](https://www.theguardian.com/film/2025/sep/06/winter-of-the-crow-review-lesley-manville)
-- [Trash to transport: crossing Bass Strait in a boat made of Tasmanian fish farm debris](https://www.theguardian.com/australia-news/2025/sep/07/crossing-bass-strait-boat-made-tasmanian-fish-farm-debris-trash-transport)
-- [West Point cancels ceremony to honor Tom Hanks as ‘outstanding US citizen’](https://www.theguardian.com/us-news/2025/sep/06/west-point-cancels-tom-hanks-ceremony)
-- [Aryna Sabalenka sweeps aside Amanda Anisimova to retain US Open title](https://www.theguardian.com/sport/2025/sep/06/aryna-sabalenka-sweeps-aside-amanda-anisimova-to-retain-us-open-title)
-- [Fuze review – twisty London-set heist thriller should have stolen some personality](https://www.theguardian.com/film/2025/sep/06/fuze-review-london-heist-thriller)
-- [World Cup qualifying roundup: Ronaldo scores twice as Portugal pay Jota tributes](https://www.theguardian.com/football/2025/sep/06/world-cup-qualifying-roundup-ronaldo-scores-twice-as-portugal-pay-jota-tributes)
-- [Jim Jarmusch’s Father Mother Sister Brother, starring Cate Blanchett, surprise winner of Venice Golden Lion](https://www.theguardian.com/film/2025/sep/06/jim-jarmuschs-father-mother-sister-brother-starring-cate-blanchett-surprise-winner-of-venice-golden-lion)
+- [Pacific Islands Forum: climate crisis tops agenda as China exclusion casts shadow over leaders meeting](https://www.theguardian.com/world/2025/sep/08/pacific-islands-forum-2025-pif-leaders-meeting)
+- [Trump news at a glance: President tells foreign companies to ‘respect’ immigration law after Hyundai Ice raid](https://www.theguardian.com/us-news/2025/sep/08/trump-administration-news-updates-today)
+- [Tom Phillips, fugitive father on run with children for nearly four years, shot dead by NZ police in exchange of fire](https://www.theguardian.com/world/2025/sep/08/tom-phillips-new-zealand-fugitive-father-shot-dead-nz-police)
+- [Ukraine war briefing: Trump says ready for more Russia sanctions](https://www.theguardian.com/world/2025/sep/08/ukraine-war-briefing-trump-says-yeah-i-am-ready-for-more-russia-sanctions)
+- [Australia mushroom murderer Erin Patterson sentenced to life in prison with a non-parole period of 33 years](https://www.theguardian.com/australia-news/2025/sep/08/erin-patterson-sentence-australia-mushroom-murder-ntwnfb)
+- [Jade: That’s Showbiz Baby! review – former Little Mix star thrives in chaos on an idiosyncratic debut](https://www.theguardian.com/music/2025/sep/08/jade-thats-showbiz-baby-review-former-little-mix-star-thrives-in-chaos-on-an-idiosyncratic-debut)
+- [Londoners buying lowest share of property outside capital since 2013](https://www.theguardian.com/business/2025/sep/08/londoners-buying-lowest-share-of-property-outside-capital-since-2013)
+- [UK advertising watchdog accused of breaking rules in its own ad campaign](https://www.theguardian.com/media/2025/sep/08/uk-advertising-watchdog-accused-of-breaking-rules-in-its-own-ad-campaign)
+- [Revealed: the huge growth of Myanmar scam centres that may hold 100,000 trafficked people](https://www.theguardian.com/global-development/2025/sep/08/myanmar-military-junta-scam-centres-trafficking-crime-syndicates-kk-park)
+- [Florian Wirtz’s free-kick clinches victory for Germany against Northern Ireland](https://www.theguardian.com/football/2025/sep/07/germany-northern-ireland-world-cup-qualifying-match-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

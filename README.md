@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Pacific Islands Forum: climate crisis tops agenda as China exclusion casts shadow over leaders meeting](https://www.theguardian.com/world/2025/sep/08/pacific-islands-forum-2025-pif-leaders-meeting)
-- [Trump news at a glance: President tells foreign companies to ‘respect’ immigration law after Hyundai Ice raid](https://www.theguardian.com/us-news/2025/sep/08/trump-administration-news-updates-today)
-- [Tom Phillips, fugitive father on run with children for nearly four years, shot dead by NZ police in exchange of fire](https://www.theguardian.com/world/2025/sep/08/tom-phillips-new-zealand-fugitive-father-shot-dead-nz-police)
-- [Ukraine war briefing: Trump says ready for more Russia sanctions](https://www.theguardian.com/world/2025/sep/08/ukraine-war-briefing-trump-says-yeah-i-am-ready-for-more-russia-sanctions)
-- [Australia mushroom murderer Erin Patterson sentenced to life in prison with a non-parole period of 33 years](https://www.theguardian.com/australia-news/2025/sep/08/erin-patterson-sentence-australia-mushroom-murder-ntwnfb)
-- [Jade: That’s Showbiz Baby! review – former Little Mix star thrives in chaos on an idiosyncratic debut](https://www.theguardian.com/music/2025/sep/08/jade-thats-showbiz-baby-review-former-little-mix-star-thrives-in-chaos-on-an-idiosyncratic-debut)
-- [Londoners buying lowest share of property outside capital since 2013](https://www.theguardian.com/business/2025/sep/08/londoners-buying-lowest-share-of-property-outside-capital-since-2013)
-- [UK advertising watchdog accused of breaking rules in its own ad campaign](https://www.theguardian.com/media/2025/sep/08/uk-advertising-watchdog-accused-of-breaking-rules-in-its-own-ad-campaign)
-- [Revealed: the huge growth of Myanmar scam centres that may hold 100,000 trafficked people](https://www.theguardian.com/global-development/2025/sep/08/myanmar-military-junta-scam-centres-trafficking-crime-syndicates-kk-park)
-- [Florian Wirtz’s free-kick clinches victory for Germany against Northern Ireland](https://www.theguardian.com/football/2025/sep/07/germany-northern-ireland-world-cup-qualifying-match-report)
+- [Ukraine war briefing: Putin awards ‘courage’ medal to Russian general sought by ICC over alleged crimes against humanity in Ukraine](https://www.theguardian.com/world/2025/sep/09/ukraine-war-briefing-putin-awards-courage-medal-to-russian-general-sought-by-icc-over-alleged-crimes-against-humanity-in-ukraine)
+- [Meta hid harms to children from VR products, whistleblowers allege](https://www.theguardian.com/technology/2025/sep/08/meta-virtual-reality-whistleblowers)
+- [House committee releases image of apparent Trump birthday note and entire Epstein album](https://www.theguardian.com/us-news/2025/sep/08/trump-epstein-birthday-letter)
+- [Nottingham Forest part company with head coach Nuno Espírito Santo](https://www.theguardian.com/football/2025/sep/09/nottingham-forest-part-company-with-head-coach-nuno-espirito-santo)
+- [NHS hospital league tables are brought back by ministers](https://www.theguardian.com/society/2025/sep/09/nhs-hospital-league-tables-are-brought-back-by-ministers)
+- [Trump state visit will see police drones and airspace limits over Windsor](https://www.theguardian.com/us-news/2025/sep/09/trump-state-visit-will-see-police-drones-and-airspace-limits-over-windsor)
+- [Pret a Manger to take on supermarkets by trialling meal deals](https://www.theguardian.com/business/2025/sep/09/pret-a-manger-to-take-on-supermarkets-by-trialling-meal-deals)
+- [Ofsted to press ahead with new inspection regime despite opposition](https://www.theguardian.com/education/2025/sep/09/ofsted-press-ahead-inspection-regime-despite-opposition)
+- [Dust to Dreams review – a baffling short film from director Idris Elba](https://www.theguardian.com/film/2025/sep/08/dust-to-dreams-idris-elba-review)
+- [Bottom trawling to continue in English protected waters, government rules](https://www.theguardian.com/environment/2025/sep/09/bottom-trawling-to-continue-in-english-protected-waters-government-rules)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

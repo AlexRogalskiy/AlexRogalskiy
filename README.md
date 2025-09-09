@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Computers Are for Girls – Datagubbe.se](https://datagubbe.se/girls/)
-- [Cloud Storage Is Full Email Scam: What It Is and How to Protect Yourself](https://malwaretips.com/blogs/your-cloud-storage-is-full-email-scam/)
-- [Using Claude Code to modernize a forgotten Linux kernel driver](https://dmitrybrant.com/2025/09/07/using-claude-code-to-modernize-a-25-year-old-kernel-driver)
-- [The demo scene is dying, but that&#39;s alright](https://www.datagubbe.se/sceneherit/)
-- [Intel Arc Pro B50 GPU Launched at $349 for Compact Workstations](https://www.guru3d.com/story/intel-arc-pro-b50-gpu-launched-at-for-compact-workstations/)
-- [Taking Buildkite from a side project to a global company](https://www.valleyofdoubt.com/p/taking-buildkite-from-a-side-project)
-- [Creative Technology: The Sound Blaster](https://www.abortretry.fail/p/the-story-of-creative-technology)
-- [Show HN: OpenCV over WebRTC &lpar;in Go&rpar;](https://github.com/pion/example-webrtc-applications/blob/master/gocv-to-webrtc/README.md)
-- [Pico CSS – Minimal CSS Framework for Semantic HTML](https://picocss.com)
-- [Everything from 1991 Radio Shack ad I now do with my phone &lpar;2014&rpar;](https://www.trendingbuffalo.com/life/uncle-steves-buffalo/everything-from-1991-radio-shack-ad-now/)
+- [Show HN: Attempt – A CLI for retrying fallible commands](https://github.com/MaxBondABE/attempt)
+- [No adblocker detected](https://maurycyz.com/misc/ads/)
+- [Geoffrey Hinton: &#39;AI will make a few people much richer and most people poorer&#39;](https://www.ft.com/content/31feb335-4945-475e-baaa-3b880d9cf8ce)
+- [The art world is in a precarious state](https://news.artnet.com/market/intelligence-report-storm-2025-2684512)
+- [Tesla market share in US drops to lowest since 2017](https://www.reuters.com/business/autos-transportation/tesla-market-share-us-drops-lowest-since-2017-competition-heats-up-2025-09-08/)
+- [Liquid Glass in the Browser: Refraction with CSS and SVG](https://kube.io/blog/liquid-glass-css-svg/)
+- [Ex-WhatsApp cybersecurity head says Meta endangered billions of users](https://www.theguardian.com/technology/2025/sep/08/meta-user-data-lawsuit-whatsapp)
+- [Alterego: Thought to Text](https://www.alterego.io/)
+- [The elegance of movement in Silksong](https://theahura.substack.com/p/the-elegance-of-movement-in-silksong)
+- [Microsoft doubles down on small modular reactors and fusion energy](https://www.techradar.com/pro/microsoft-joins-world-nuclear-association-as-it-doubles-down-on-small-modular-reactors-and-fusion-energy)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

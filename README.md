@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [An In-Depth Look at Pipe and Splice Implementation in Linux Kernel](https://blogs.oracle.com/linux/post/pipe-and-splice)
-- [Philosophy in Prison](https://aeon.co/essays/philosophy-in-prison-is-a-rowdy-honest-and-hopeful-provocation)
-- [Does anyone think the current AI approach will hit a dead end?](https://news.ycombinator.com/item?id=45164234)
-- [Cook County Assessor&#39;s Office Open Source AVM &lpar;Automated Valuation Model&rpar;](https://github.com/ccao-data)
-- [YouTube views are down &lpar;don&#39;t panic&rpar;](https://www.jeffgeerling.com/blog/2025/youtube-views-are-down-dont-panic)
-- [Serving up delicious cocktails in plain text](https://asciibar.com/)
-- [Nick Clegg and Tim Berners-Lee: the battle for the soul of the Internet](https://observer.co.uk/culture/books/article/nick-clegg-and-tim-berners-lee-the-battle-for-the-soul-of-the-internet)
-- [Elon Musk&#39;s $1T Tesla pay package: Here are the major caveats](https://www.fastcompany.com/91399114/elon-musk-1-trillion-tesla-pay-package-here-are-the-major-caveats)
-- [European public service channel ARTE&#39;s YouTube channel likely hijacked [video]](https://www.youtube.com/watch?v=sTCOAqxg_WU)
-- [Show HN: Frontier – draw with the world live on an infinite grid of pixels](https://frontier.place)
+- [Snap breaks into &#39;startup squads&#39; as ad revenue stalls](https://techcrunch.com/2025/09/08/snap-breaks-into-startup-squads-as-ad-revenue-stalls/)
+- [An Anime Girl Converter](https://animegirl.art)
+- [Six Israelis killed by Palestinian gunmen at Jerusalem bus stop](https://www.bbc.com/news/articles/cr70ny0l7vgo)
+- [Show HN: Chrome-site-stats – Track, limit, and optimize your browsing time](https://chromewebstore.google.com/detail/chrome-site-stats/mpkenbknhlncpjelbiekdbnhmjomjleo)
+- [Veryl 0.16.4 – A Modern HDL as Alternative to SystemVerilog](https://veryl-lang.org/blog/annoucing-veryl-0-16-4/)
+- [User Interface Design Guidelines: 10 Rules of Thumb](https://www.interaction-design.org/literature/article/user-interface-design-guidelines-10-rules-of-thumb)
+- [Will AI Choke Off the Supply of Knowledge?](https://www.wsj.com/tech/ai/will-ai-choke-off-the-supply-of-knowledge-8a71cbcd)
+- [A new generative AI approach to predicting chemical reactions](https://news.mit.edu/2025/generative-ai-approach-to-predicting-chemical-reactions-0903)
+- [Saving Energy in Self-Hosting, Wake-on-LAN, and Rust](https://guibeira.dev/wakezilla-en.html)
+- [Israel is not committing genocide in Gaza, government concludes](https://www.thetimes.com/uk/politics/article/israel-war-gaza-not-genocide-david-lammy-22wdsmt90)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

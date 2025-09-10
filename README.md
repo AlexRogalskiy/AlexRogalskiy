@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Snap breaks into &#39;startup squads&#39; as ad revenue stalls](https://techcrunch.com/2025/09/08/snap-breaks-into-startup-squads-as-ad-revenue-stalls/)
-- [An Anime Girl Converter](https://animegirl.art)
-- [Six Israelis killed by Palestinian gunmen at Jerusalem bus stop](https://www.bbc.com/news/articles/cr70ny0l7vgo)
-- [Show HN: Chrome-site-stats – Track, limit, and optimize your browsing time](https://chromewebstore.google.com/detail/chrome-site-stats/mpkenbknhlncpjelbiekdbnhmjomjleo)
-- [Veryl 0.16.4 – A Modern HDL as Alternative to SystemVerilog](https://veryl-lang.org/blog/annoucing-veryl-0-16-4/)
-- [User Interface Design Guidelines: 10 Rules of Thumb](https://www.interaction-design.org/literature/article/user-interface-design-guidelines-10-rules-of-thumb)
-- [Will AI Choke Off the Supply of Knowledge?](https://www.wsj.com/tech/ai/will-ai-choke-off-the-supply-of-knowledge-8a71cbcd)
-- [A new generative AI approach to predicting chemical reactions](https://news.mit.edu/2025/generative-ai-approach-to-predicting-chemical-reactions-0903)
-- [Saving Energy in Self-Hosting, Wake-on-LAN, and Rust](https://guibeira.dev/wakezilla-en.html)
-- [Israel is not committing genocide in Gaza, government concludes](https://www.thetimes.com/uk/politics/article/israel-war-gaza-not-genocide-david-lammy-22wdsmt90)
+- [Lawyer named Mark Zuckerberg sues Meta after repeated account shutdowns](https://nypost.com/2025/09/03/us-news/lawyer-named-mark-zuckerberg-sues-meta-over-claims-hes-impersonating-founder/)
+- [Show HN: Claude-Powered Survival Analysis with One-Click Models &lpar;Onco-Insight&rpar;](https://dataize.me)
+- [Tell HN: Avoid ostentatious eloquence and crisp structure or be slop](https://news.ycombinator.com/item?id=45192423)
+- [Greased Turkey, and Other Linux Kernel Release Names](https://handwiki.org/wiki/List_of_Linux_kernel_names)
+- [LavaMoat – tools for sandboxing your dependency graph](https://github.com/LavaMoat/LavaMoat)
+- [Lessons from NPM&#39;s Security Failures](https://oneuptime.com/blog/post/2025-09-09-lessons-from-npm-security-failures/view)
+- [Ray nayler the mountain in the sea &lpar;scifi 2023&rpar;](https://www.raynayler.net/the-mountain-in-the-sea.html)
+- [Gear Generator 2 Beta](https://geargenerator.com/beta/)
+- [Show HN: GTA AI – Convert Your Photos to GTA Style Artwork](https://gtaai.app/)
+- [Arcane 1.0 Released](https://github.com/ofkm/arcane)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

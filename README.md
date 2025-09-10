@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Show HN: Attempt – A CLI for retrying fallible commands](https://github.com/MaxBondABE/attempt)
-- [No adblocker detected](https://maurycyz.com/misc/ads/)
-- [Geoffrey Hinton: &#39;AI will make a few people much richer and most people poorer&#39;](https://www.ft.com/content/31feb335-4945-475e-baaa-3b880d9cf8ce)
-- [The art world is in a precarious state](https://news.artnet.com/market/intelligence-report-storm-2025-2684512)
-- [Tesla market share in US drops to lowest since 2017](https://www.reuters.com/business/autos-transportation/tesla-market-share-us-drops-lowest-since-2017-competition-heats-up-2025-09-08/)
-- [Liquid Glass in the Browser: Refraction with CSS and SVG](https://kube.io/blog/liquid-glass-css-svg/)
-- [Ex-WhatsApp cybersecurity head says Meta endangered billions of users](https://www.theguardian.com/technology/2025/sep/08/meta-user-data-lawsuit-whatsapp)
-- [Alterego: Thought to Text](https://www.alterego.io/)
-- [The elegance of movement in Silksong](https://theahura.substack.com/p/the-elegance-of-movement-in-silksong)
-- [Microsoft doubles down on small modular reactors and fusion energy](https://www.techradar.com/pro/microsoft-joins-world-nuclear-association-as-it-doubles-down-on-small-modular-reactors-and-fusion-energy)
+- [Outraged Farmers Blame Ag Monopolies as Catastrophic Collapse Looms](https://www.agweb.com/markets/outraged-farmers-blame-ag-monopolies-catastrophic-collapse-looms)
+- [NASA finds Titan&#39;s alien lakes may be creating primitive cells](https://www.sciencedaily.com/releases/2025/08/250831112449.htm)
+- [Hypervisor in 1k Lines](https://1000hv.seiya.me/en)
+- [Immunotherapy drug clinical trial results: half of tumors shrink or disappear](https://www.rockefeller.edu/news/38120-immunotherapy-drug-eliminates-aggressive-cancers-in-clinical-trial/)
+- [A cryptography expert on how Web3 started, and how it’s going](https://spectrum.ieee.org/web3-hardware-security)
+- [Memory Integrity Enforcement](https://security.apple.com/blog/memory-integrity-enforcement/)
+- [iPhone Air](https://www.apple.com/newsroom/2025/09/introducing-iphone-air-a-powerful-new-iphone-with-a-breakthrough-design/)
+- [Dropbox Paper mobile App Discontinuation](https://help.dropbox.com/installs/paper-mobile-discontinuation)
+- [Tomorrow&#39;s emoji today: Unicode 17.0](https://jenniferdaniel.substack.com/p/tomorrows-emoji-today-unicode-170)
+- [E-paper display reaches the realm of LCD screens](https://spectrum.ieee.org/e-paper-display-modos)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

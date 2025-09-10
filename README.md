@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine war briefing: Putin awards ‘courage’ medal to Russian general sought by ICC over alleged crimes against humanity in Ukraine](https://www.theguardian.com/world/2025/sep/09/ukraine-war-briefing-putin-awards-courage-medal-to-russian-general-sought-by-icc-over-alleged-crimes-against-humanity-in-ukraine)
-- [Meta hid harms to children from VR products, whistleblowers allege](https://www.theguardian.com/technology/2025/sep/08/meta-virtual-reality-whistleblowers)
-- [House committee releases image of apparent Trump birthday note and entire Epstein album](https://www.theguardian.com/us-news/2025/sep/08/trump-epstein-birthday-letter)
-- [Nottingham Forest part company with head coach Nuno Espírito Santo](https://www.theguardian.com/football/2025/sep/09/nottingham-forest-part-company-with-head-coach-nuno-espirito-santo)
-- [NHS hospital league tables are brought back by ministers](https://www.theguardian.com/society/2025/sep/09/nhs-hospital-league-tables-are-brought-back-by-ministers)
-- [Trump state visit will see police drones and airspace limits over Windsor](https://www.theguardian.com/us-news/2025/sep/09/trump-state-visit-will-see-police-drones-and-airspace-limits-over-windsor)
-- [Pret a Manger to take on supermarkets by trialling meal deals](https://www.theguardian.com/business/2025/sep/09/pret-a-manger-to-take-on-supermarkets-by-trialling-meal-deals)
-- [Ofsted to press ahead with new inspection regime despite opposition](https://www.theguardian.com/education/2025/sep/09/ofsted-press-ahead-inspection-regime-despite-opposition)
-- [Dust to Dreams review – a baffling short film from director Idris Elba](https://www.theguardian.com/film/2025/sep/08/dust-to-dreams-idris-elba-review)
-- [Bottom trawling to continue in English protected waters, government rules](https://www.theguardian.com/environment/2025/sep/09/bottom-trawling-to-continue-in-english-protected-waters-government-rules)
+- [Poland shoots down drones over its territory amid Russian attack on Ukraine, says military](https://www.theguardian.com/world/2025/sep/10/poland-shoots-down-drones-over-its-territory-amid-russian-attack-on-ukraine-says-military)
+- [Show me the nipple-baring Ziggy knitwear! A tour inside David Bowie’s mind-boggling 90,000-item archive](https://www.theguardian.com/artanddesign/2025/sep/10/ziggy-david-bowie-archive-major-tom-aladdin-sane)
+- [Radical Harmony review – Seurat’s shimmering visions blow away his spotty dotty imitators](https://www.theguardian.com/artanddesign/2025/sep/10/radical-harmony-review-georges-seurat-national-gallery)
+- [Don’t log non-crime hate incidents, says head of police watchdog](https://www.theguardian.com/uk-news/2025/sep/10/dont-log-non-crime-hate-incidents-says-head-of-police-watchdog)
+- [Doctors trial £100 blood test that could transform how NHS detects Alzheimer’s](https://www.theguardian.com/society/2025/sep/10/doctors-trial-blood-test-could-transform-nhs-alzheimers-diagnoses)
+- [Junk food leads to more children being obese than underweight for first time](https://www.theguardian.com/global-development/2025/sep/10/junk-food-upf-more-children-obese-than-underweight-unicef)
+- [Thomas Tuchel marvels at England’s display of ‘teamwork in its purest form’](https://www.theguardian.com/football/2025/sep/09/thomas-tuchel-marvels-at-englands-display-of-teamwork-in-its-purest-form)
+- [US supreme court clears way for Trump to withhold $5bn in foreign aid](https://www.theguardian.com/us-news/2025/sep/09/trump-supreme-court-foreign-aid)
+- [First two Brazilian judges vote to convict Jair Bolsonaro in coup plot trial](https://www.theguardian.com/world/2025/sep/09/brazil-jair-bolsonaro-trial)
+- [Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight](https://www.theguardian.com/football/2025/sep/09/serbia-england-world-cup-2026-qualifier-match-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

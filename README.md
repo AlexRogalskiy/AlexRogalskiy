@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Outraged Farmers Blame Ag Monopolies as Catastrophic Collapse Looms](https://www.agweb.com/markets/outraged-farmers-blame-ag-monopolies-catastrophic-collapse-looms)
-- [NASA finds Titan&#39;s alien lakes may be creating primitive cells](https://www.sciencedaily.com/releases/2025/08/250831112449.htm)
-- [Hypervisor in 1k Lines](https://1000hv.seiya.me/en)
-- [Immunotherapy drug clinical trial results: half of tumors shrink or disappear](https://www.rockefeller.edu/news/38120-immunotherapy-drug-eliminates-aggressive-cancers-in-clinical-trial/)
-- [A cryptography expert on how Web3 started, and how it’s going](https://spectrum.ieee.org/web3-hardware-security)
-- [Memory Integrity Enforcement](https://security.apple.com/blog/memory-integrity-enforcement/)
-- [iPhone Air](https://www.apple.com/newsroom/2025/09/introducing-iphone-air-a-powerful-new-iphone-with-a-breakthrough-design/)
-- [Dropbox Paper mobile App Discontinuation](https://help.dropbox.com/installs/paper-mobile-discontinuation)
-- [Tomorrow&#39;s emoji today: Unicode 17.0](https://jenniferdaniel.substack.com/p/tomorrows-emoji-today-unicode-170)
-- [E-paper display reaches the realm of LCD screens](https://spectrum.ieee.org/e-paper-display-modos)
+- [Seoul says US must fix its visa system if it wants Korea&#39;s investments](https://english.hani.co.kr/arti/english_edition/e_international/1218025.html)
+- [Court rejects Verizon claim that selling location data without consent is legal](https://arstechnica.com/tech-policy/2025/09/court-rejects-verizon-claim-that-selling-location-data-without-consent-is-legal/)
+- [DOOMscrolling: The Game](https://ironicsans.ghost.io/doomscrolling-the-game/)
+- [XNEdit – fast and classic X11 text editor](https://www.unixwork.de/xnedit/)
+- [Intel&#39;s E2200 &quot;Mount Morgan&quot; IPU at Hot Chips 2025](https://chipsandcheese.com/p/intels-e2200-mount-morgan-ipu-at)
+- [KDE launches its own distribution](https://lwn.net/SubscriberLink/1037166/caa6979c16a99c9e/)
+- [Fraudulent Publishing in the Mathematical Sciences](https://arxiv.org/abs/2509.07257)
+- [Mux &lpar;YC W16&rpar; Is Hiring Engineering ICs and Managers](https://mux.com/jobs)
+- [Dotter: Dotfile manager and templater written in Rust](https://github.com/SuperCuber/dotter)
+- [Show HN: Haystack – Review pull requests like you wrote them yourself](https://haystackeditor.com)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

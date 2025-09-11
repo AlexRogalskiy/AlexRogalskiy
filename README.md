@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Poland shoots down drones over its territory amid Russian attack on Ukraine, says military](https://www.theguardian.com/world/2025/sep/10/poland-shoots-down-drones-over-its-territory-amid-russian-attack-on-ukraine-says-military)
-- [Show me the nipple-baring Ziggy knitwear! A tour inside David Bowie’s mind-boggling 90,000-item archive](https://www.theguardian.com/artanddesign/2025/sep/10/ziggy-david-bowie-archive-major-tom-aladdin-sane)
-- [Radical Harmony review – Seurat’s shimmering visions blow away his spotty dotty imitators](https://www.theguardian.com/artanddesign/2025/sep/10/radical-harmony-review-georges-seurat-national-gallery)
-- [Don’t log non-crime hate incidents, says head of police watchdog](https://www.theguardian.com/uk-news/2025/sep/10/dont-log-non-crime-hate-incidents-says-head-of-police-watchdog)
-- [Doctors trial £100 blood test that could transform how NHS detects Alzheimer’s](https://www.theguardian.com/society/2025/sep/10/doctors-trial-blood-test-could-transform-nhs-alzheimers-diagnoses)
-- [Junk food leads to more children being obese than underweight for first time](https://www.theguardian.com/global-development/2025/sep/10/junk-food-upf-more-children-obese-than-underweight-unicef)
-- [Thomas Tuchel marvels at England’s display of ‘teamwork in its purest form’](https://www.theguardian.com/football/2025/sep/09/thomas-tuchel-marvels-at-englands-display-of-teamwork-in-its-purest-form)
-- [US supreme court clears way for Trump to withhold $5bn in foreign aid](https://www.theguardian.com/us-news/2025/sep/09/trump-supreme-court-foreign-aid)
-- [First two Brazilian judges vote to convict Jair Bolsonaro in coup plot trial](https://www.theguardian.com/world/2025/sep/09/brazil-jair-bolsonaro-trial)
-- [Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight](https://www.theguardian.com/football/2025/sep/09/serbia-england-world-cup-2026-qualifier-match-report)
+- [Charlie Kirk shooting: Trump blames ‘radical left’, but does not mention attacks on Democrats as search for suspect continues – follow live](https://www.theguardian.com/us-news/live/2025/sep/10/donald-trump-jeffrey-epstein-tariffs-immigration-crime-us-politics-live-news-updates)
+- [Flash floods in Indonesia leave at least 15 people dead and 10 missing](https://www.theguardian.com/world/2025/sep/11/flash-floods-indonesia-bali-deaths)
+- [Nasa blocks Chinese nationals from working on its space programs](https://www.theguardian.com/science/2025/sep/11/nasa-blocks-chinese-nationals-from-working-on-its-space-programs)
+- [Ukraine war briefing: Cheap Shahed-like Gerbera drones used in Poland violation](https://www.theguardian.com/world/2025/sep/11/ukraine-war-briefing-cheap-shahed-like-gerbera-drones-used-in-poland-violation)
+- [Trump news at a glance: President orders flags to be flown at ‘half mast’ to honour Charlie Kirk](https://www.theguardian.com/us-news/2025/sep/11/trump-administration-news-updates-today-latest)
+- [The Fence review – Claire Denis stumbles with a grim and grating misfire](https://www.theguardian.com/film/2025/sep/10/the-fence-movie-review-claire-denis)
+- [Global press freedom suffers sharpest fall in 50 years, report finds](https://www.theguardian.com/media/2025/sep/11/global-press-freedom-suffers-sharpest-fall-in-50-years-report-finds)
+- [More than half of UK births now involve medical intervention, audit finds](https://www.theguardian.com/society/2025/sep/11/more-than-half-of-uk-births-now-involve-medical-intervention-audit-finds)
+- [Larry Ellison briefly overtakes Elon Musk as world’s richest person](https://www.theguardian.com/technology/2025/sep/10/larry-ellison-dislodges-elon-musk-as-worlds-richest-person)
+- [England lose shortened T20 ‘shambles’ against South Africa in rain-affected opener](https://www.theguardian.com/sport/2025/sep/10/england-t20-cricket-south-africa-match-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

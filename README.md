@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Lawyer named Mark Zuckerberg sues Meta after repeated account shutdowns](https://nypost.com/2025/09/03/us-news/lawyer-named-mark-zuckerberg-sues-meta-over-claims-hes-impersonating-founder/)
-- [Show HN: Claude-Powered Survival Analysis with One-Click Models &lpar;Onco-Insight&rpar;](https://dataize.me)
-- [Tell HN: Avoid ostentatious eloquence and crisp structure or be slop](https://news.ycombinator.com/item?id=45192423)
-- [Greased Turkey, and Other Linux Kernel Release Names](https://handwiki.org/wiki/List_of_Linux_kernel_names)
-- [LavaMoat – tools for sandboxing your dependency graph](https://github.com/LavaMoat/LavaMoat)
-- [Lessons from NPM&#39;s Security Failures](https://oneuptime.com/blog/post/2025-09-09-lessons-from-npm-security-failures/view)
-- [Ray nayler the mountain in the sea &lpar;scifi 2023&rpar;](https://www.raynayler.net/the-mountain-in-the-sea.html)
-- [Gear Generator 2 Beta](https://geargenerator.com/beta/)
-- [Show HN: GTA AI – Convert Your Photos to GTA Style Artwork](https://gtaai.app/)
-- [Arcane 1.0 Released](https://github.com/ofkm/arcane)
+- [My EV roadtrip experience after upgrading from Chevy Bolt to Ioniq 6](https://thelifeelectric.us/a-new-car)
+- [Height limits raise housing prices](https://hardlyworking1.substack.com/p/zoning-height-caps-make-housing-more)
+- [Open Source Health: A Universal Device from Brain Stimulation to Cancer Therapy](https://docs.google.com/document/d/1fiOk9sKIvskWd-zkafJ7A_SZ9aazUIW2Oirse9jstmA/edit?usp=drivesdk)
+- [Huginn and Muninn](https://en.wikipedia.org/wiki/Huginn_and_Muninn)
+- [Polymorphic symmetric multiple dispatch with variance](https://dl.acm.org/doi/10.1145/3290324)
+- [Htmx &lpar;HTTPS://htmx.org&rpar; Snippets for Zed Code editor &lpar;HTTPS://zed.dev&rpar;](https://github.com/mfabing/zed-htmx-snippets)
+- [The Four Fallacies of Modern AI](https://blog.apiad.net/p/the-four-fallacies-of-modern-ai)
+- [Physically-Based Shading at Disney, by Brent Burley &lpar;2012&rpar; [pdf]](https://media.disneyanimation.com/uploads/production/publication_asset/48/asset/s2012_pbs_disney_brdf_notes_v3.pdf)
+- [User Engagement Bots used to kickstart conversations on Discourse forums](https://meta.discourse.org/t/user-engagement-bots/382265)
+- [Preventing the NPM Debug/Chalk Compromise in 200 lines of JavaScript](https://getvouchsafe.org/blog/2025-09-10.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

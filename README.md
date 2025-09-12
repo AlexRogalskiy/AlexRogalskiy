@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Seoul says US must fix its visa system if it wants Korea&#39;s investments](https://english.hani.co.kr/arti/english_edition/e_international/1218025.html)
-- [Court rejects Verizon claim that selling location data without consent is legal](https://arstechnica.com/tech-policy/2025/09/court-rejects-verizon-claim-that-selling-location-data-without-consent-is-legal/)
-- [DOOMscrolling: The Game](https://ironicsans.ghost.io/doomscrolling-the-game/)
-- [XNEdit – fast and classic X11 text editor](https://www.unixwork.de/xnedit/)
-- [Intel&#39;s E2200 &quot;Mount Morgan&quot; IPU at Hot Chips 2025](https://chipsandcheese.com/p/intels-e2200-mount-morgan-ipu-at)
-- [KDE launches its own distribution](https://lwn.net/SubscriberLink/1037166/caa6979c16a99c9e/)
-- [Fraudulent Publishing in the Mathematical Sciences](https://arxiv.org/abs/2509.07257)
-- [Mux &lpar;YC W16&rpar; Is Hiring Engineering ICs and Managers](https://mux.com/jobs)
-- [Dotter: Dotfile manager and templater written in Rust](https://github.com/SuperCuber/dotter)
-- [Show HN: Haystack – Review pull requests like you wrote them yourself](https://haystackeditor.com)
+- [The Challenge of Maintaining Curl](https://lwn.net/Articles/1034966/)
+- [We traded blogs for black boxes, now we&#39;re paying for it](https://tekhne.dev/internet-resist/)
+- [Backprompting: Leveraging synthetic production data for health advice guardrails](https://arxiv.org/abs/2508.18384)
+- [Float Exposed](https://float.exposed/)
+- [Toddlerbot: Open-Source Humanoid Robot](https://toddlerbot.github.io/)
+- [Why our website looks like an operating system](https://posthog.com/blog/why-os)
+- [Fartscroll-Lid: An app that plays fart sounds when opening or closing a MacBook](https://github.com/iannuttall/fartscroll-lid)
+- [Danish supermarket chain is setting up &quot;Emergency Stores&quot;](https://swiss.social/@swaldorff/115186445638788782)
+- [How Palantir is mapping the nation’s data](https://theconversation.com/when-the-government-can-see-everything-how-one-company-palantir-is-mapping-the-nations-data-263178)
+- [Nano Banana image examples](https://github.com/PicoTrex/Awesome-Nano-Banana-images/blob/main/README_en.md)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

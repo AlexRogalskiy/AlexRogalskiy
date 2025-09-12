@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [My EV roadtrip experience after upgrading from Chevy Bolt to Ioniq 6](https://thelifeelectric.us/a-new-car)
-- [Height limits raise housing prices](https://hardlyworking1.substack.com/p/zoning-height-caps-make-housing-more)
-- [Open Source Health: A Universal Device from Brain Stimulation to Cancer Therapy](https://docs.google.com/document/d/1fiOk9sKIvskWd-zkafJ7A_SZ9aazUIW2Oirse9jstmA/edit?usp=drivesdk)
-- [Huginn and Muninn](https://en.wikipedia.org/wiki/Huginn_and_Muninn)
-- [Polymorphic symmetric multiple dispatch with variance](https://dl.acm.org/doi/10.1145/3290324)
-- [Htmx &lpar;HTTPS://htmx.org&rpar; Snippets for Zed Code editor &lpar;HTTPS://zed.dev&rpar;](https://github.com/mfabing/zed-htmx-snippets)
-- [The Four Fallacies of Modern AI](https://blog.apiad.net/p/the-four-fallacies-of-modern-ai)
-- [Physically-Based Shading at Disney, by Brent Burley &lpar;2012&rpar; [pdf]](https://media.disneyanimation.com/uploads/production/publication_asset/48/asset/s2012_pbs_disney_brdf_notes_v3.pdf)
-- [User Engagement Bots used to kickstart conversations on Discourse forums](https://meta.discourse.org/t/user-engagement-bots/382265)
-- [Preventing the NPM Debug/Chalk Compromise in 200 lines of JavaScript](https://getvouchsafe.org/blog/2025-09-10.html)
+- [100TinyTools – A curated collection of minimal, useful tools](https://100tinytools.com)
+- [EFootball](https://news.ycombinator.com/item?id=45218175)
+- [SPIRIT: A FOSS Smartphone Based on the Raspberry Pi CM5](https://github.com/V3lectronics/SPIRIT)
+- [Debian 13, Postgres, and the US/* time zones](https://rachelbythebay.com/w/2025/09/11/debtz/)
+- [PostHog Is for Product Engineers](https://posthog.com/)
+- [Ever Been Flash Banged by YouTube?](https://peerlist.io/cwdharshit/articles/ever-been-flash-banged-by-youtube)
+- [When Your Father Is a Magician, What Do You Believe?](https://thereader.mitpress.mit.edu/when-your-father-is-a-magician-what-do-you-believe/)
+- [Self-Assembly Gets Automated in Reverse of &#39;Game of Life&#39;](https://www.quantamagazine.org/self-assembly-gets-automated-in-reverse-of-game-of-life-20250910/)
+- [Researchers revive the pinhole camera for next-gen infrared imaging](https://phys.org/news/2025-09-revive-pinhole-camera-gen-infrared.html)
+- [Dandelions control the dispersal of their seeds through asymmetrical attachment](https://phys.org/news/2025-09-dandelions-dispersal-seeds-asymmetrical.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

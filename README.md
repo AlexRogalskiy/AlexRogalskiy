@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Charlie Kirk shooting: Trump blames ‘radical left’, but does not mention attacks on Democrats as search for suspect continues – follow live](https://www.theguardian.com/us-news/live/2025/sep/10/donald-trump-jeffrey-epstein-tariffs-immigration-crime-us-politics-live-news-updates)
-- [Flash floods in Indonesia leave at least 15 people dead and 10 missing](https://www.theguardian.com/world/2025/sep/11/flash-floods-indonesia-bali-deaths)
-- [Nasa blocks Chinese nationals from working on its space programs](https://www.theguardian.com/science/2025/sep/11/nasa-blocks-chinese-nationals-from-working-on-its-space-programs)
-- [Ukraine war briefing: Cheap Shahed-like Gerbera drones used in Poland violation](https://www.theguardian.com/world/2025/sep/11/ukraine-war-briefing-cheap-shahed-like-gerbera-drones-used-in-poland-violation)
-- [Trump news at a glance: President orders flags to be flown at ‘half mast’ to honour Charlie Kirk](https://www.theguardian.com/us-news/2025/sep/11/trump-administration-news-updates-today-latest)
-- [The Fence review – Claire Denis stumbles with a grim and grating misfire](https://www.theguardian.com/film/2025/sep/10/the-fence-movie-review-claire-denis)
-- [Global press freedom suffers sharpest fall in 50 years, report finds](https://www.theguardian.com/media/2025/sep/11/global-press-freedom-suffers-sharpest-fall-in-50-years-report-finds)
-- [More than half of UK births now involve medical intervention, audit finds](https://www.theguardian.com/society/2025/sep/11/more-than-half-of-uk-births-now-involve-medical-intervention-audit-finds)
-- [Larry Ellison briefly overtakes Elon Musk as world’s richest person](https://www.theguardian.com/technology/2025/sep/10/larry-ellison-dislodges-elon-musk-as-worlds-richest-person)
-- [England lose shortened T20 ‘shambles’ against South Africa in rain-affected opener](https://www.theguardian.com/sport/2025/sep/10/england-t20-cricket-south-africa-match-report)
+- [Utah officials share video of Charlie Kirk shooting suspect as governor pledges death penalty - live](https://www.theguardian.com/us-news/live/2025/sep/11/charlie-kirk-shot-latest-news-updates-utah-university-donald-trump)
+- [Venezuela says 11 killed in US boat strike were not gang members amid reports vessel was returning to shore](https://www.theguardian.com/world/2025/sep/11/venezuela-boat-strike-tren-de-aragua-trump)
+- [Ukraine war briefing: ‘Wasn’t a mistake’ – Poland’s reply after Trump speculates on drones](https://www.theguardian.com/world/2025/sep/12/ukraine-war-briefing-wasnt-a-mistake-polands-reply-after-trump-speculates-on-drones)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2025/sep/12/premier-league-10-things-to-look-out-for-this-weekend)
+- [Ed Sheeran: Play review – subcontinental sounds and shards of darkness – but still unmistakably him](https://www.theguardian.com/music/2025/sep/12/ed-sheeran-play-review)
+- [US government sues Uber, alleging discrimination against disabled passengers](https://www.theguardian.com/technology/2025/sep/11/us-government-uber-lawsuit)
+- [Protesters target Royal Opera House over performance by ‘Putin’s diva’](https://www.theguardian.com/culture/2025/sep/11/dozens-protest-against-performance-by-putins-diva-at-royal-opera-house)
+- [Bolsonaro sentenced to 27 years for plotting military coup in Brazil](https://www.theguardian.com/world/2025/sep/11/brazil-supreme-court-bolsonaro-guilty-coup)
+- [The Newsreader review – if this powerful Aussie drama were a US show, it’d be a smash hit](https://www.theguardian.com/tv-and-radio/2025/sep/11/the-newsreader-review-if-this-powerful-aussie-drama-were-a-us-show-itd-be-a-smash-hit)
+- [Catalans Dragons deal major blow to Leeds’ hopes of top-two finish](https://www.theguardian.com/sport/2025/sep/11/catalans-dragons-deal-major-blow-to-leeds-hopes-of-top-two-finish)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

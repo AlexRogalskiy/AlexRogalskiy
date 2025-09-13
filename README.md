@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Utah officials share video of Charlie Kirk shooting suspect as governor pledges death penalty - live](https://www.theguardian.com/us-news/live/2025/sep/11/charlie-kirk-shot-latest-news-updates-utah-university-donald-trump)
-- [Venezuela says 11 killed in US boat strike were not gang members amid reports vessel was returning to shore](https://www.theguardian.com/world/2025/sep/11/venezuela-boat-strike-tren-de-aragua-trump)
-- [Ukraine war briefing: ‘Wasn’t a mistake’ – Poland’s reply after Trump speculates on drones](https://www.theguardian.com/world/2025/sep/12/ukraine-war-briefing-wasnt-a-mistake-polands-reply-after-trump-speculates-on-drones)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2025/sep/12/premier-league-10-things-to-look-out-for-this-weekend)
-- [Ed Sheeran: Play review – subcontinental sounds and shards of darkness – but still unmistakably him](https://www.theguardian.com/music/2025/sep/12/ed-sheeran-play-review)
-- [US government sues Uber, alleging discrimination against disabled passengers](https://www.theguardian.com/technology/2025/sep/11/us-government-uber-lawsuit)
-- [Protesters target Royal Opera House over performance by ‘Putin’s diva’](https://www.theguardian.com/culture/2025/sep/11/dozens-protest-against-performance-by-putins-diva-at-royal-opera-house)
-- [Bolsonaro sentenced to 27 years for plotting military coup in Brazil](https://www.theguardian.com/world/2025/sep/11/brazil-supreme-court-bolsonaro-guilty-coup)
-- [The Newsreader review – if this powerful Aussie drama were a US show, it’d be a smash hit](https://www.theguardian.com/tv-and-radio/2025/sep/11/the-newsreader-review-if-this-powerful-aussie-drama-were-a-us-show-itd-be-a-smash-hit)
-- [Catalans Dragons deal major blow to Leeds’ hopes of top-two finish](https://www.theguardian.com/sport/2025/sep/11/catalans-dragons-deal-major-blow-to-leeds-hopes-of-top-two-finish)
+- [‘No idea what you’ve unleashed’: Erika Kirk, Charlie Kirk’s widow, gives statement after husband’s shooting – follow live](https://www.theguardian.com/us-news/live/2025/sep/12/charlie-kirk-shooter-suspect-latest-news-updates-donald-trump-utah)
+- [France’s credit rating downgraded, with debt forecast to keep rising amid political turmoil](https://www.theguardian.com/world/2025/sep/13/france-credit-rating-downgraded-fitch-debt-macron-lecornu-political-turmoil)
+- [As a dark chapter closes, NZ reckons with fugitive father Tom Phillips’ four years on the run](https://www.theguardian.com/world/2025/sep/13/as-a-dark-chapter-closes-nz-reckons-with-fugitive-father-tom-phillips-four-years-on-the-run-ntwnfb)
+- [From rune megaphones to the number 88: Australia’s neo-Nazis have a new look after swastikas banned](https://www.theguardian.com/australia-news/2025/sep/13/rune-megaphone-number-88-australia-neo-nazi-symbols-after-swastikas-banned-ntwnfb)
+- [Arne Slot defends Isak over Newcastle strike and says it would never happen at Liverpool](https://www.theguardian.com/football/2025/sep/12/arne-slot-alexander-isak-newcastle-strike-liverpool)
+- [Records tumble as Phil Salt’s stunning ton leads England to T20 rout of South Africa](https://www.theguardian.com/sport/2025/sep/12/records-tumble-as-phil-salts-stunning-ton-leads-england-to-t20-rout-of-south-africa-match-report)
+- [Leigh sweep sorry St Helens aside to confirm home playoff slot](https://www.theguardian.com/sport/2025/sep/12/leigh-st-helens-rugby-league-match-report)
+- [Alessia Russo double seals victory for rampant Arsenal away to West Ham](https://www.theguardian.com/football/2025/sep/12/west-ham-arsenal-wsl-match-report)
+- [Truman Show echoes at Manchester United mean Amorim must be afforded missteps | Jamie Jackson](https://www.theguardian.com/football/2025/sep/12/ruben-amorim-manchester-united-derby-analysis)
+- [Prince Harry lays wreath to Ukrainian war dead on surprise visit to Kyiv](https://www.theguardian.com/world/2025/sep/12/prince-harry-lays-wreath-to-ukrainian-war-dead-on-surprise-visit-to-kyiv)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

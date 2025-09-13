@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [100TinyTools – A curated collection of minimal, useful tools](https://100tinytools.com)
-- [EFootball](https://news.ycombinator.com/item?id=45218175)
-- [SPIRIT: A FOSS Smartphone Based on the Raspberry Pi CM5](https://github.com/V3lectronics/SPIRIT)
-- [Debian 13, Postgres, and the US/* time zones](https://rachelbythebay.com/w/2025/09/11/debtz/)
-- [PostHog Is for Product Engineers](https://posthog.com/)
-- [Ever Been Flash Banged by YouTube?](https://peerlist.io/cwdharshit/articles/ever-been-flash-banged-by-youtube)
-- [When Your Father Is a Magician, What Do You Believe?](https://thereader.mitpress.mit.edu/when-your-father-is-a-magician-what-do-you-believe/)
-- [Self-Assembly Gets Automated in Reverse of &#39;Game of Life&#39;](https://www.quantamagazine.org/self-assembly-gets-automated-in-reverse-of-game-of-life-20250910/)
-- [Researchers revive the pinhole camera for next-gen infrared imaging](https://phys.org/news/2025-09-revive-pinhole-camera-gen-infrared.html)
-- [Dandelions control the dispersal of their seeds through asymmetrical attachment](https://phys.org/news/2025-09-dandelions-dispersal-seeds-asymmetrical.html)
+- [Hurricane Katrina haunts New Orleans as Trump guts disaster aid](https://www.theguardian.com/us-news/ng-interactive/2025/aug/26/hurricane-katrina-anniversary-trump-fema)
+- [NASA confirms Moon landing by a private American spacecraft](https://out.reddit.com/t3_1nflc84)
+- [What Happened After My 13-Year-Old Son Joined the Alt-Right &lpar;2019&rpar;](https://www.washingtonian.com/2019/05/05/what-happened-after-my-13-year-old-son-joined-the-alt-right/)
+- [Own your own Docker Registry address &lpar;2023&rpar;](https://httptoolkit.com/blog/docker-image-registry-facade/)
+- [Understanding vent channels on Discord](https://firstmonday.org/ojs/index.php/fm/article/view/13877)
+- [Show HN: Open source, AI-enhanced Mailchimp alternative](https://github.com/cosmic-community/email-marketing)
+- [Apple settles for $25M over allleged discrimination based on citizenship &lpar;2023&rpar;](https://www.justice.gov/archives/opa/pr/justice-department-secures-25-million-landmark-agreement-apple-resolve-employment)
+- [Microsoft slips through EU competition probe after promising to unbundle Teams](https://techcrunch.com/2025/09/12/microsoft-slips-unscathed-through-eu-competition-probe-after-promising-to-unbundle-teams/)
+- [Advent of Code: 500 Stars](https://elly.town/d/blog/2025-09-01-advent-of-code-500.html)
+- [How the Lockheed SR-71 Blackbird Works](https://www.youtube.com/watch?v=gkyVZxtsubM)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

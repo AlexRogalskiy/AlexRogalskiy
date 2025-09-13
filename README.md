@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The Challenge of Maintaining Curl](https://lwn.net/Articles/1034966/)
-- [We traded blogs for black boxes, now we&#39;re paying for it](https://tekhne.dev/internet-resist/)
-- [Backprompting: Leveraging synthetic production data for health advice guardrails](https://arxiv.org/abs/2508.18384)
-- [Float Exposed](https://float.exposed/)
-- [Toddlerbot: Open-Source Humanoid Robot](https://toddlerbot.github.io/)
-- [Why our website looks like an operating system](https://posthog.com/blog/why-os)
-- [Fartscroll-Lid: An app that plays fart sounds when opening or closing a MacBook](https://github.com/iannuttall/fartscroll-lid)
-- [Danish supermarket chain is setting up &quot;Emergency Stores&quot;](https://swiss.social/@swaldorff/115186445638788782)
-- [How Palantir is mapping the nation’s data](https://theconversation.com/when-the-government-can-see-everything-how-one-company-palantir-is-mapping-the-nations-data-263178)
-- [Nano Banana image examples](https://github.com/PicoTrex/Awesome-Nano-Banana-images/blob/main/README_en.md)
+- [Chatbox app is back on the US app store](https://github.com/chatboxai/chatbox/issues/2644)
+- [Legal win](https://ma.tt/2025/09/legal-win/)
+- [California lawmakers pass SB 79, housing bill that brings dense housing](https://www.latimes.com/california/story/2025-09-12/california-lawmakers-pass-sb-79-housing-bill-that-brings-dense-housing-to-transit-hubs)
+- [Life, work, death and the peasant: Rent and extraction](https://acoup.blog/2025/09/12/collections-life-work-death-and-the-peasant-part-ivc-rent-and-extraction/)
+- [Meow: Yet another modal editing on Emacs](https://github.com/meow-edit/meow)
+- [Tips for installing Windows 98 in QEMU/UTM](https://sporks.space/2025/08/28/tips-for-installing-windows-98-in-qemu-utm/)
+- [FFglitch, FFmpeg fork for glitch art](https://ffglitch.org/gallery/)
+- [Show HN: Aris – a free AI-powered answer engine for kids](https://www.aris.chat)
+- [Proton Mail suspended journalist accounts at request of cybersecurity agency](https://theintercept.com/2025/09/12/proton-mail-journalist-accounts-suspended/)
+- [I used standard Emacs extension-points to extend org-mode](https://edoput.it/2025/04/16/emacs-paradigm-shift.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

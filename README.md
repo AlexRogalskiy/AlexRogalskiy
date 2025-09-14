@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [‘No idea what you’ve unleashed’: Erika Kirk, Charlie Kirk’s widow, gives statement after husband’s shooting – follow live](https://www.theguardian.com/us-news/live/2025/sep/12/charlie-kirk-shooter-suspect-latest-news-updates-donald-trump-utah)
-- [France’s credit rating downgraded, with debt forecast to keep rising amid political turmoil](https://www.theguardian.com/world/2025/sep/13/france-credit-rating-downgraded-fitch-debt-macron-lecornu-political-turmoil)
-- [As a dark chapter closes, NZ reckons with fugitive father Tom Phillips’ four years on the run](https://www.theguardian.com/world/2025/sep/13/as-a-dark-chapter-closes-nz-reckons-with-fugitive-father-tom-phillips-four-years-on-the-run-ntwnfb)
-- [From rune megaphones to the number 88: Australia’s neo-Nazis have a new look after swastikas banned](https://www.theguardian.com/australia-news/2025/sep/13/rune-megaphone-number-88-australia-neo-nazi-symbols-after-swastikas-banned-ntwnfb)
-- [Arne Slot defends Isak over Newcastle strike and says it would never happen at Liverpool](https://www.theguardian.com/football/2025/sep/12/arne-slot-alexander-isak-newcastle-strike-liverpool)
-- [Records tumble as Phil Salt’s stunning ton leads England to T20 rout of South Africa](https://www.theguardian.com/sport/2025/sep/12/records-tumble-as-phil-salts-stunning-ton-leads-england-to-t20-rout-of-south-africa-match-report)
-- [Leigh sweep sorry St Helens aside to confirm home playoff slot](https://www.theguardian.com/sport/2025/sep/12/leigh-st-helens-rugby-league-match-report)
-- [Alessia Russo double seals victory for rampant Arsenal away to West Ham](https://www.theguardian.com/football/2025/sep/12/west-ham-arsenal-wsl-match-report)
-- [Truman Show echoes at Manchester United mean Amorim must be afforded missteps | Jamie Jackson](https://www.theguardian.com/football/2025/sep/12/ruben-amorim-manchester-united-derby-analysis)
-- [Prince Harry lays wreath to Ukrainian war dead on surprise visit to Kyiv](https://www.theguardian.com/world/2025/sep/12/prince-harry-lays-wreath-to-ukrainian-war-dead-on-surprise-visit-to-kyiv)
+- [Canelo Álvarez v Terence Crawford: undisputed super middleweight championship – live buildup](https://www.theguardian.com/sport/live/2025/sep/13/canelo-alvarez-v-terence-crawford-undisputed-super-middleweight-championship-live-buildup)
+- [Romania reports Russian drone in its airspace as Poland scrambles jets again](https://www.theguardian.com/world/2025/sep/14/romania-reports-russian-drone-in-its-airspace-as-poland-scrambles-jets-again)
+- [Questions linger about alleged shooter’s motivation for killing Charlie Kirk](https://www.theguardian.com/us-news/2025/sep/13/charlie-kirk-killing-alleged-shooter-motivation)
+- [Police assaulted as far-right rally led by Tommy Robinson sparks clashes](https://www.theguardian.com/uk-news/2025/sep/13/unite-the-kingdom-far-right-rally-london-tommy-robinson-police-assaulted)
+- [UN condemns reported Haitian village massacre by armed gangs](https://www.theguardian.com/world/2025/sep/13/un-condemns-reported-haitian-village-massacre-by-armed-gangs)
+- [Oscar-winning Palestinian says home in West Bank raided by Israeli soldiers](https://www.theguardian.com/world/2025/sep/13/oscar-winning-palestinian-says-home-in-west-bank-raided-by-israeli-soldiers)
+- [Somerset pull off record chase against Hampshire to claim T20 Blast title](https://www.theguardian.com/sport/2025/sep/13/somerset-pull-off-record-chase-against-hampshire-to-claim-t20-blast-title)
+- [Brentford’s Fábio Carvalho hits last-gasp equaliser to frustrate Chelsea](https://www.theguardian.com/football/2025/sep/13/brentford-chelsea-premier-league-match-report)
+- [Leaked plans show Pentagon eyeing Louisiana to deploy national guard](https://www.theguardian.com/us-news/2025/sep/13/louisiana-national-guard-pentagon)
+- [The moment I knew: he took me to the crematorium to ‘meet his mum’. It was so personal and loving](https://www.theguardian.com/lifeandstyle/2025/sep/14/the-moment-i-knew-he-took-me-to-the-crematorium-to-meet-his-mum-it-was-so-personal-and-loving)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

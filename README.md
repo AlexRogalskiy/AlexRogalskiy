@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Chatbox app is back on the US app store](https://github.com/chatboxai/chatbox/issues/2644)
-- [Legal win](https://ma.tt/2025/09/legal-win/)
-- [California lawmakers pass SB 79, housing bill that brings dense housing](https://www.latimes.com/california/story/2025-09-12/california-lawmakers-pass-sb-79-housing-bill-that-brings-dense-housing-to-transit-hubs)
-- [Life, work, death and the peasant: Rent and extraction](https://acoup.blog/2025/09/12/collections-life-work-death-and-the-peasant-part-ivc-rent-and-extraction/)
-- [Meow: Yet another modal editing on Emacs](https://github.com/meow-edit/meow)
-- [Tips for installing Windows 98 in QEMU/UTM](https://sporks.space/2025/08/28/tips-for-installing-windows-98-in-qemu-utm/)
-- [FFglitch, FFmpeg fork for glitch art](https://ffglitch.org/gallery/)
-- [Show HN: Aris – a free AI-powered answer engine for kids](https://www.aris.chat)
-- [Proton Mail suspended journalist accounts at request of cybersecurity agency](https://theintercept.com/2025/09/12/proton-mail-journalist-accounts-suspended/)
-- [I used standard Emacs extension-points to extend org-mode](https://edoput.it/2025/04/16/emacs-paradigm-shift.html)
+- [Do I Need Kubernetes?](https://doineedkubernetes.com/)
+- [How the restoration of ancient Babylon is drawing tourists back to Iraq](https://www.theartnewspaper.com/2025/09/12/how-the-restoration-of-ancient-babylon-is-helping-to-draw-tourists-back-to-iraq)
+- [RFC9460: SVCB and HTTPS DNS Records](https://datatracker.ietf.org/doc/html/rfc9460)
+- [If my kids excel, will they move away?](https://jeffreybigham.com/blog/2025/where-will-my-kids-go.html)
+- [EFF to court: The Supreme Court must rein in secondary copyright liability](https://www.eff.org/deeplinks/2025/09/eff-court-supreme-court-must-rein-expansive-secondary-copyright-liability)
+- [Two Slice, a font that&#39;s only 2px tall](https://joefatula.com/twoslice.html)
+- [Pass: Unix Password Manager](https://www.passwordstore.org/)
+- [Myocardial infarction may be an infectious disease](https://www.tuni.fi/en/news/myocardial-infarction-may-be-infectious-disease)
+- [AMD&#39;s RDNA4 GPU Architecture at Hot Chips 2025](https://chipsandcheese.com/p/amds-rdna4-gpu-architecture-at-hot)
+- [An open-source maintainer&#39;s guide to saying “no”](https://www.jlowin.dev/blog/oss-maintainers-guide-to-saying-no)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

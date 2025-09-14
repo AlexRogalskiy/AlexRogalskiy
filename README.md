@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Hurricane Katrina haunts New Orleans as Trump guts disaster aid](https://www.theguardian.com/us-news/ng-interactive/2025/aug/26/hurricane-katrina-anniversary-trump-fema)
-- [NASA confirms Moon landing by a private American spacecraft](https://out.reddit.com/t3_1nflc84)
-- [What Happened After My 13-Year-Old Son Joined the Alt-Right &lpar;2019&rpar;](https://www.washingtonian.com/2019/05/05/what-happened-after-my-13-year-old-son-joined-the-alt-right/)
-- [Own your own Docker Registry address &lpar;2023&rpar;](https://httptoolkit.com/blog/docker-image-registry-facade/)
-- [Understanding vent channels on Discord](https://firstmonday.org/ojs/index.php/fm/article/view/13877)
-- [Show HN: Open source, AI-enhanced Mailchimp alternative](https://github.com/cosmic-community/email-marketing)
-- [Apple settles for $25M over allleged discrimination based on citizenship &lpar;2023&rpar;](https://www.justice.gov/archives/opa/pr/justice-department-secures-25-million-landmark-agreement-apple-resolve-employment)
-- [Microsoft slips through EU competition probe after promising to unbundle Teams](https://techcrunch.com/2025/09/12/microsoft-slips-unscathed-through-eu-competition-probe-after-promising-to-unbundle-teams/)
-- [Advent of Code: 500 Stars](https://elly.town/d/blog/2025-09-01-advent-of-code-500.html)
-- [How the Lockheed SR-71 Blackbird Works](https://www.youtube.com/watch?v=gkyVZxtsubM)
+- [Targeting Metastasis with Nanomedicine](https://www.nature.com/articles/s44222-025-00358-7)
+- [First Impressions of Omarchy](https://datamethods.substack.com/p/first-impressions-of-omarchy)
+- [Top free URL shorter+password protection](https://rrrprourl.blogspot.com/p/alpha-version-url-short-advanced.html)
+- [New Bill Would Allow Rubio to Strip US Citizens&#39; Passports over Political Speech](https://www.commondreams.org/news/rubio-thought-policing-bill)
+- [First Impressions of Omarchy](https://jordangoodman.bearblog.dev/first-impressions-of-omarchy/)
+- [You don&#39;t have to say something about every terrible thing](https://www.natesilver.net/p/you-dont-have-to-say-something-about)
+- [AI fabricates 21 out of 23 citations lawyer sanctioned reported to state bar [pdf]](https://www4.courts.ca.gov/opinions/documents/B331918.PDF)
+- [Simplenote is no longer in active development](https://forums.simplenote.com/forums/topic/customer-update-on-simplenote/)
+- [Is a new AI paradigm based on raw electromagnetic waves feasible?](https://news.ycombinator.com/item?id=45236897)
+- [How to get samples back from Mars](https://caseyhandmer.wordpress.com/2025/09/13/how-to-get-samples-back-from-mars/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

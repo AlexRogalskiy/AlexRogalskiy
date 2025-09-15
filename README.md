@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Targeting Metastasis with Nanomedicine](https://www.nature.com/articles/s44222-025-00358-7)
-- [First Impressions of Omarchy](https://datamethods.substack.com/p/first-impressions-of-omarchy)
-- [Top free URL shorter+password protection](https://rrrprourl.blogspot.com/p/alpha-version-url-short-advanced.html)
-- [New Bill Would Allow Rubio to Strip US Citizens&#39; Passports over Political Speech](https://www.commondreams.org/news/rubio-thought-policing-bill)
-- [First Impressions of Omarchy](https://jordangoodman.bearblog.dev/first-impressions-of-omarchy/)
-- [You don&#39;t have to say something about every terrible thing](https://www.natesilver.net/p/you-dont-have-to-say-something-about)
-- [AI fabricates 21 out of 23 citations lawyer sanctioned reported to state bar [pdf]](https://www4.courts.ca.gov/opinions/documents/B331918.PDF)
-- [Simplenote is no longer in active development](https://forums.simplenote.com/forums/topic/customer-update-on-simplenote/)
-- [Is a new AI paradigm based on raw electromagnetic waves feasible?](https://news.ycombinator.com/item?id=45236897)
-- [How to get samples back from Mars](https://caseyhandmer.wordpress.com/2025/09/13/how-to-get-samples-back-from-mars/)
+- [Backup and restore your dotfiles, packages and tooling – using GitHub Releases](https://github.com/Xzar-x/github-release-dotfiles-backup)
+- [Interface](https://www.doc.cc/syntax/interface)
+- [Summary/timeline of home tech advancements for each era](https://www.entertainingtech.com)
+- [Character Limit Text Length](https://news.ycombinator.com/item?id=45245442)
+- [I built a Concentric Circle Sequencer [video]](https://www.youtube.com/watch?v=1E_KHO_H-DE)
+- [Vibe Coding Is Making Braindead Coders](https://nmn.gl/blog/vibe-coding-gambling)
+- [OpenAI Model Spec](https://model-spec.openai.com/2025-09-12.html)
+- [Hosting a WebSite on a Disposable Vape](https://bogdanthegeek.github.io/blog/projects/vapeserver/)
+- [Digital Public Goods Registry](https://www.digitalpublicgoods.net/registry)
+- [Thought police bill introduced to revoke US passport for Israel criticism](https://thecradle.co/articles-id/33135)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

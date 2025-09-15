@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Canelo Álvarez v Terence Crawford: undisputed super middleweight championship – live buildup](https://www.theguardian.com/sport/live/2025/sep/13/canelo-alvarez-v-terence-crawford-undisputed-super-middleweight-championship-live-buildup)
-- [Romania reports Russian drone in its airspace as Poland scrambles jets again](https://www.theguardian.com/world/2025/sep/14/romania-reports-russian-drone-in-its-airspace-as-poland-scrambles-jets-again)
-- [Questions linger about alleged shooter’s motivation for killing Charlie Kirk](https://www.theguardian.com/us-news/2025/sep/13/charlie-kirk-killing-alleged-shooter-motivation)
-- [Police assaulted as far-right rally led by Tommy Robinson sparks clashes](https://www.theguardian.com/uk-news/2025/sep/13/unite-the-kingdom-far-right-rally-london-tommy-robinson-police-assaulted)
-- [UN condemns reported Haitian village massacre by armed gangs](https://www.theguardian.com/world/2025/sep/13/un-condemns-reported-haitian-village-massacre-by-armed-gangs)
-- [Oscar-winning Palestinian says home in West Bank raided by Israeli soldiers](https://www.theguardian.com/world/2025/sep/13/oscar-winning-palestinian-says-home-in-west-bank-raided-by-israeli-soldiers)
-- [Somerset pull off record chase against Hampshire to claim T20 Blast title](https://www.theguardian.com/sport/2025/sep/13/somerset-pull-off-record-chase-against-hampshire-to-claim-t20-blast-title)
-- [Brentford’s Fábio Carvalho hits last-gasp equaliser to frustrate Chelsea](https://www.theguardian.com/football/2025/sep/13/brentford-chelsea-premier-league-match-report)
-- [Leaked plans show Pentagon eyeing Louisiana to deploy national guard](https://www.theguardian.com/us-news/2025/sep/13/louisiana-national-guard-pentagon)
-- [The moment I knew: he took me to the crematorium to ‘meet his mum’. It was so personal and loving](https://www.theguardian.com/lifeandstyle/2025/sep/14/the-moment-i-knew-he-took-me-to-the-crematorium-to-meet-his-mum-it-was-so-personal-and-loving)
+- [Emmys 2025: Adolescence, Hacks and The Studio triumph - follow live](https://www.theguardian.com/tv-and-radio/live/2025/sep/14/emmys-2025-winners-losers-severance-the-studio-white-lotus-speeches-live-updates)
+- [Russian drone incursion into Poland ‘was Kremlin test on Nato’](https://www.theguardian.com/world/2025/sep/14/russian-drone-incursion-poland-nato-ukraine-europe)
+- [Two men arrested in Utah after bomb found under news vehicle](https://www.theguardian.com/us-news/2025/sep/14/utah-arrest-explosive-device)
+- [Kathy Hochul backs Zohran Mamdani in race for New York City mayor](https://www.theguardian.com/us-news/2025/sep/15/nyc-mayoral-election-kathy-hochul-zohran-mamdani-endorsement)
+- [Trump insists foreign workers are ‘welcome’ days after arrest of hundreds of South Koreans](https://www.theguardian.com/us-news/2025/sep/15/trump-foreign-workers-welcome-south-korea-arrests)
+- [From Seoul to Pyongyang: the secret remittance networks keeping North Korean families alive](https://www.theguardian.com/world/2025/sep/15/from-seoul-to-pyongyang-the-secret-remittance-networks-keeping-north-korean-families-alive)
+- [NFL roundup: Eagles beat Chiefs in Super Bowl rematch; Bengals win again but lose Joe Burrow](https://www.theguardian.com/sport/2025/sep/14/nfl-scores-sunday-football)
+- [Ninety years of Monopoly commemorated with special 50p coin](https://www.theguardian.com/lifeandstyle/2025/sep/15/ninety-years-monopoly-special-50p-coin-royal-mint)
+- [Rising Nato military spending to cause huge spike in emissions, report warns](https://www.theguardian.com/environment/2025/sep/14/nato-military-spending-emissions)
+- [Three in four English hospitals failing to hit two cancer targets in league tables](https://www.theguardian.com/society/2025/sep/14/hospitals-england-failing-to-hit-cancer-targets-league-tables)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

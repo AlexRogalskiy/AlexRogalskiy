@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Emmys 2025: Adolescence, Hacks and The Studio triumph - follow live](https://www.theguardian.com/tv-and-radio/live/2025/sep/14/emmys-2025-winners-losers-severance-the-studio-white-lotus-speeches-live-updates)
-- [Russian drone incursion into Poland ‘was Kremlin test on Nato’](https://www.theguardian.com/world/2025/sep/14/russian-drone-incursion-poland-nato-ukraine-europe)
-- [Two men arrested in Utah after bomb found under news vehicle](https://www.theguardian.com/us-news/2025/sep/14/utah-arrest-explosive-device)
-- [Kathy Hochul backs Zohran Mamdani in race for New York City mayor](https://www.theguardian.com/us-news/2025/sep/15/nyc-mayoral-election-kathy-hochul-zohran-mamdani-endorsement)
-- [Trump insists foreign workers are ‘welcome’ days after arrest of hundreds of South Koreans](https://www.theguardian.com/us-news/2025/sep/15/trump-foreign-workers-welcome-south-korea-arrests)
-- [From Seoul to Pyongyang: the secret remittance networks keeping North Korean families alive](https://www.theguardian.com/world/2025/sep/15/from-seoul-to-pyongyang-the-secret-remittance-networks-keeping-north-korean-families-alive)
-- [NFL roundup: Eagles beat Chiefs in Super Bowl rematch; Bengals win again but lose Joe Burrow](https://www.theguardian.com/sport/2025/sep/14/nfl-scores-sunday-football)
-- [Ninety years of Monopoly commemorated with special 50p coin](https://www.theguardian.com/lifeandstyle/2025/sep/15/ninety-years-monopoly-special-50p-coin-royal-mint)
-- [Rising Nato military spending to cause huge spike in emissions, report warns](https://www.theguardian.com/environment/2025/sep/14/nato-military-spending-emissions)
-- [Three in four English hospitals failing to hit two cancer targets in league tables](https://www.theguardian.com/society/2025/sep/14/hospitals-england-failing-to-hit-cancer-targets-league-tables)
+- [Pacific leaders gather to celebrate 50th anniversary of Papua New Guinea’s independence](https://www.theguardian.com/world/2025/sep/16/papua-new-guinea-independence-50th-anniversary-png-world-leaders)
+- [Trump announces deadly US strike on another alleged Venezuelan drug boat](https://www.theguardian.com/us-news/2025/sep/15/trump-strike-venezuela-drug-cartel-vessel)
+- [From Colombo to Kathmandu, the furious youth movements toppling entrenched elites](https://www.theguardian.com/world/2025/sep/16/colombo-kathmandu-youth-movements-nepal-toppling-entrenched-elites)
+- [‘We dreamed of a better future’: remembering the first moments of Papua New Guinea in 1975](https://www.theguardian.com/world/2025/sep/16/papua-new-guinea-1975-independence-remembering-png-first-moments)
+- [Materialists effect: mentions of A24 film studio up 65% in dating app profiles](https://www.theguardian.com/film/2025/sep/16/materialists-a24-studio-dating-app-profiles-feeld)
+- [First ‘one in, one out’ deportation flight reportedly takes off without migrants](https://www.theguardian.com/uk-news/2025/sep/15/first-one-in-one-out-deportation-flight-reportedly-takes-off-without-migrants)
+- [US judge rejects lawsuit challenge to SpaceX launch site over risks to wildlife](https://www.theguardian.com/science/2025/sep/15/musk-spacex-texas-wildlife)
+- [Hillsborough law will mean serious wrongdoing is punished, says Lammy](https://www.theguardian.com/football/2025/sep/15/hillsborough-law-will-mean-serious-wrongdoing-is-punished-says-lammy)
+- [Hillsborough, Grenfell, Windrush, the Post Office scandal: the guilty escape justice. Well, not any more | David Lammy](https://www.theguardian.com/commentisfree/2025/sep/15/david-lammy-hillsborough-law-disaster-families-grenfell-windrush-the-post-office-scandal-justice)
+- [Italian skier Matteo Franzoso dies at the age of 25 after training crash in Chile](https://www.theguardian.com/sport/2025/sep/15/italian-skier-matteo-franzoso-dies-at-25-after-training-crash)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

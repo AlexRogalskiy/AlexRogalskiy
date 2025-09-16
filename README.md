@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Backup and restore your dotfiles, packages and tooling – using GitHub Releases](https://github.com/Xzar-x/github-release-dotfiles-backup)
-- [Interface](https://www.doc.cc/syntax/interface)
-- [Summary/timeline of home tech advancements for each era](https://www.entertainingtech.com)
-- [Character Limit Text Length](https://news.ycombinator.com/item?id=45245442)
-- [I built a Concentric Circle Sequencer [video]](https://www.youtube.com/watch?v=1E_KHO_H-DE)
-- [Vibe Coding Is Making Braindead Coders](https://nmn.gl/blog/vibe-coding-gambling)
-- [OpenAI Model Spec](https://model-spec.openai.com/2025-09-12.html)
-- [Hosting a WebSite on a Disposable Vape](https://bogdanthegeek.github.io/blog/projects/vapeserver/)
-- [Digital Public Goods Registry](https://www.digitalpublicgoods.net/registry)
-- [Thought police bill introduced to revoke US passport for Israel criticism](https://thecradle.co/articles-id/33135)
+- [Google releases VaultGemma, its first privacy-preserving LLM](https://arstechnica.com/ai/2025/09/google-releases-vaultgemma-its-first-privacy-preserving-llm/)
+- [New Apple Intelligence features are available today](https://www.apple.com/newsroom/2025/09/new-apple-intelligence-features-are-available-today/)
+- [Launchpad on macOS 26 Tahoe](https://bringbacklaunchpad.com/)
+- [Covid-style support proposed for workers of plant affected by cyberattack](https://www.theregister.com/2025/09/15/covidstyle_furlough_schemes_for_jlr/)
+- [Trump Signs Off on Sending the National Guard to Memphis](https://www.nytimes.com/2025/09/15/us/politics/trump-memphis-national-guard-crime.html)
+- [Dataguessr](https://dataguessr.com/)
+- [Scientists Watched Evolution Happen in Real Time Inside a Vermont Cheese Cave](https://studyfinds.org/scientists-watched-evolution-happen-inside-vermont-cheese-cave/)
+- [Physical_Atari: Platform for evaluating RL algorithms on a physical Atari](https://github.com/Keen-Technologies/physical_atari)
+- [Guide on how to attack and defend prompts](https://learn.chat.win/)
+- [Fundamental Trade-Off Between Certainty and Scope in Symbolic and Generative AI](https://arxiv.org/abs/2506.10130)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

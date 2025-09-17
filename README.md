@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Google releases VaultGemma, its first privacy-preserving LLM](https://arstechnica.com/ai/2025/09/google-releases-vaultgemma-its-first-privacy-preserving-llm/)
-- [New Apple Intelligence features are available today](https://www.apple.com/newsroom/2025/09/new-apple-intelligence-features-are-available-today/)
-- [Launchpad on macOS 26 Tahoe](https://bringbacklaunchpad.com/)
-- [Covid-style support proposed for workers of plant affected by cyberattack](https://www.theregister.com/2025/09/15/covidstyle_furlough_schemes_for_jlr/)
-- [Trump Signs Off on Sending the National Guard to Memphis](https://www.nytimes.com/2025/09/15/us/politics/trump-memphis-national-guard-crime.html)
-- [Dataguessr](https://dataguessr.com/)
-- [Scientists Watched Evolution Happen in Real Time Inside a Vermont Cheese Cave](https://studyfinds.org/scientists-watched-evolution-happen-inside-vermont-cheese-cave/)
-- [Physical_Atari: Platform for evaluating RL algorithms on a physical Atari](https://github.com/Keen-Technologies/physical_atari)
-- [Guide on how to attack and defend prompts](https://learn.chat.win/)
-- [Fundamental Trade-Off Between Certainty and Scope in Symbolic and Generative AI](https://arxiv.org/abs/2506.10130)
+- [Global Peace Index 2025](https://www.visionofhumanity.org/maps/)
+- [The better you play, the more colorful it gets](https://musicolour.art/)
+- [Pinterest co-founder Evan Sharp on his new company West Co](https://designerfounders.substack.com/p/evan-sharp-pinterest-west)
+- [Ants Found a Loophole for a Fundamental Rule of Life](https://www.nytimes.com/2025/09/15/science/ants-species-babies.html)
+- [Why are so many Americans moving to Portugal](https://www.theguardian.com/world/2025/sep/16/why-are-so-many-americans-moving-to-portugal-apart-from-the-obvious-reason)
+- [EPA delay threatens fenceline communities near steel and coke plants](https://www.thenewlede.org/2025/08/steel-plants-fenceline-air-pollution-epa-rules/)
+- [The Rise of De Novo Genes: From Scratch to Survival](https://www.the-scientist.com/the-rise-of-de-novo-genes-from-scratch-to-survival-73361)
+- [Hyperion: Minecraft game engine for custom events](https://hyperion.rs/)
+- [A Survey on Retrieval and Structuring Augmented Generation with LLMs](https://arxiv.org/abs/2509.10697)
+- [Show HN: I built a tool to translate Chinese, Japanese, &amp; Korean Novels](https://noveltranslator.com)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

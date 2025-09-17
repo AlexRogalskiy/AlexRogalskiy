@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Pacific leaders gather to celebrate 50th anniversary of Papua New Guinea’s independence](https://www.theguardian.com/world/2025/sep/16/papua-new-guinea-independence-50th-anniversary-png-world-leaders)
-- [Trump announces deadly US strike on another alleged Venezuelan drug boat](https://www.theguardian.com/us-news/2025/sep/15/trump-strike-venezuela-drug-cartel-vessel)
-- [From Colombo to Kathmandu, the furious youth movements toppling entrenched elites](https://www.theguardian.com/world/2025/sep/16/colombo-kathmandu-youth-movements-nepal-toppling-entrenched-elites)
-- [‘We dreamed of a better future’: remembering the first moments of Papua New Guinea in 1975](https://www.theguardian.com/world/2025/sep/16/papua-new-guinea-1975-independence-remembering-png-first-moments)
-- [Materialists effect: mentions of A24 film studio up 65% in dating app profiles](https://www.theguardian.com/film/2025/sep/16/materialists-a24-studio-dating-app-profiles-feeld)
-- [First ‘one in, one out’ deportation flight reportedly takes off without migrants](https://www.theguardian.com/uk-news/2025/sep/15/first-one-in-one-out-deportation-flight-reportedly-takes-off-without-migrants)
-- [US judge rejects lawsuit challenge to SpaceX launch site over risks to wildlife](https://www.theguardian.com/science/2025/sep/15/musk-spacex-texas-wildlife)
-- [Hillsborough law will mean serious wrongdoing is punished, says Lammy](https://www.theguardian.com/football/2025/sep/15/hillsborough-law-will-mean-serious-wrongdoing-is-punished-says-lammy)
-- [Hillsborough, Grenfell, Windrush, the Post Office scandal: the guilty escape justice. Well, not any more | David Lammy](https://www.theguardian.com/commentisfree/2025/sep/15/david-lammy-hillsborough-law-disaster-families-grenfell-windrush-the-post-office-scandal-justice)
-- [Italian skier Matteo Franzoso dies at the age of 25 after training crash in Chile](https://www.theguardian.com/sport/2025/sep/15/italian-skier-matteo-franzoso-dies-at-25-after-training-crash)
+- [Rocks on train tracks strand 900 Machu Picchu tourists amid protest](https://www.theguardian.com/world/2025/sep/17/rocks-on-train-tracks-strand-900-machu-picchu-tourists-amid-protest)
+- [Ukraine war briefing: Russian oil system struggling under Ukrainian attacks – report](https://www.theguardian.com/world/2025/sep/17/ukraine-war-briefing-russian-oil-system-struggling-under-ukrainian-attacks-report)
+- [Charlie Kirk killing suspect charged with aggravated murder by Utah prosecutors](https://www.theguardian.com/us-news/2025/sep/16/charlie-kirk-shooter-charged)
+- [‘Heartbroken isn’t the word’: Ricky Hatton’s son Campbell pays emotional tribute to his father](https://www.theguardian.com/sport/2025/sep/17/ricky-hatton-son-campbell-pays-emotional-tribute-to-his-father)
+- [‘Everyone should be worried’: life in the crosshairs of China’s ‘Guam killer’ missiles](https://www.theguardian.com/world/2025/sep/17/guam-reacts-to-china-displaying-new-killer-missile-everyone-should-be-worried)
+- [Marie Antoinette Style review: Forget the seedy sex addict slurs – and meet the real classy, sassy queen](https://www.theguardian.com/artanddesign/2025/sep/17/marie-antoinette-style-review-v-and-a-london-exhibition-seedy-sex-addict)
+- [Hamlet review – Giles Terera dives deep into the prince of Denmark’s torment](https://www.theguardian.com/stage/2025/sep/17/hamlet-review-minerva-theatre-chichester-giles-terera-justin-audibert)
+- [Systemic racism affects maternity care for black women in England, say MPs](https://www.theguardian.com/society/2025/sep/17/systemic-racism-affects-maternity-care-for-black-women-in-england-say-mps)
+- [Third of UK parents have sought special needs assessment for their child, survey finds](https://www.theguardian.com/education/2025/sep/17/third-of-uk-parents-have-sought-special-needs-assessment-for-their-child-survey-finds)
+- [‘We’re still in the dark’: a missing land defender and the deadly toll of land conflict on Indigenous people](https://www.theguardian.com/environment/2025/sep/17/missing-land-defender-deadly-toll-land-conflict-indigenous-people)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Rocks on train tracks strand 900 Machu Picchu tourists amid protest](https://www.theguardian.com/world/2025/sep/17/rocks-on-train-tracks-strand-900-machu-picchu-tourists-amid-protest)
-- [Ukraine war briefing: Russian oil system struggling under Ukrainian attacks – report](https://www.theguardian.com/world/2025/sep/17/ukraine-war-briefing-russian-oil-system-struggling-under-ukrainian-attacks-report)
-- [Charlie Kirk killing suspect charged with aggravated murder by Utah prosecutors](https://www.theguardian.com/us-news/2025/sep/16/charlie-kirk-shooter-charged)
-- [‘Heartbroken isn’t the word’: Ricky Hatton’s son Campbell pays emotional tribute to his father](https://www.theguardian.com/sport/2025/sep/17/ricky-hatton-son-campbell-pays-emotional-tribute-to-his-father)
-- [‘Everyone should be worried’: life in the crosshairs of China’s ‘Guam killer’ missiles](https://www.theguardian.com/world/2025/sep/17/guam-reacts-to-china-displaying-new-killer-missile-everyone-should-be-worried)
-- [Marie Antoinette Style review: Forget the seedy sex addict slurs – and meet the real classy, sassy queen](https://www.theguardian.com/artanddesign/2025/sep/17/marie-antoinette-style-review-v-and-a-london-exhibition-seedy-sex-addict)
-- [Hamlet review – Giles Terera dives deep into the prince of Denmark’s torment](https://www.theguardian.com/stage/2025/sep/17/hamlet-review-minerva-theatre-chichester-giles-terera-justin-audibert)
-- [Systemic racism affects maternity care for black women in England, say MPs](https://www.theguardian.com/society/2025/sep/17/systemic-racism-affects-maternity-care-for-black-women-in-england-say-mps)
-- [Third of UK parents have sought special needs assessment for their child, survey finds](https://www.theguardian.com/education/2025/sep/17/third-of-uk-parents-have-sought-special-needs-assessment-for-their-child-survey-finds)
-- [‘We’re still in the dark’: a missing land defender and the deadly toll of land conflict on Indigenous people](https://www.theguardian.com/environment/2025/sep/17/missing-land-defender-deadly-toll-land-conflict-indigenous-people)
+- [China’s ‘temple economy’ in the spotlight as scandals rock influential religious leaders](https://www.theguardian.com/world/2025/sep/18/chinas-temple-economy-in-the-spotlight-as-scandals-rock-influential-religious-leaders)
+- [Eddie Hearn threatens to sue Chris Eubank Jr over ‘sabotage’ claim before Conor Benn rematch](https://www.theguardian.com/sport/2025/sep/18/chris-eubank-jr-accuses-conor-benns-team-of-sabotage-before-grudge-rematch)
+- [Meta announces first Ray-Ban smart glasses with in-built augmented reality display](https://www.theguardian.com/technology/2025/sep/17/meta-ray-ban-smart-glasses)
+- [Ukraine war briefing: Europe-funded weapons shipments begin under ‘Purl’ scheme](https://www.theguardian.com/world/2025/sep/18/ukraine-war-briefing-europe-funded-weapons-shipments-begin-under-purl-scheme)
+- [Jimmy Kimmel Live! suspended indefinitely after host’s Charlie Kirk comments](https://www.theguardian.com/tv-and-radio/2025/sep/18/jimmy-kimmel-live-suspended-indefinitely-after-hosts-charlie-kirk-comments)
+- [Venezuela starts days of military and ‘electronic warfare’ drills after US strikes on alleged drug boats](https://www.theguardian.com/world/2025/sep/18/venezuela-military-exercises-after-us-boat-attacks-kill-14-people)
+- [Together for Palestine concert: Benedict Cumberbatch, Damon Albarn and Neneh Cherry take stage at galvanising and star-studded gig for Gaza](https://www.theguardian.com/music/2025/sep/18/together-for-palestine-concert-ovo-arena-wembley-london)
+- [Privately educated still have ‘vice-like grip’ on most powerful UK jobs](https://www.theguardian.com/society/2025/sep/18/private-schools-educated-most-powerful-jobs)
+- [Dracula review – Mina Harker bites back but drama is deadened by tricksy retelling](https://www.theguardian.com/stage/2025/sep/18/dracula-review-lyric-hammersmith-london)
+- [Starmer to recognise Palestinian state ‘after Trump state visit’](https://www.theguardian.com/politics/2025/sep/17/reports-say-starmer-will-recognise-palestinian-state-over-weekend)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

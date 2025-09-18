@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Global Peace Index 2025](https://www.visionofhumanity.org/maps/)
-- [The better you play, the more colorful it gets](https://musicolour.art/)
-- [Pinterest co-founder Evan Sharp on his new company West Co](https://designerfounders.substack.com/p/evan-sharp-pinterest-west)
-- [Ants Found a Loophole for a Fundamental Rule of Life](https://www.nytimes.com/2025/09/15/science/ants-species-babies.html)
-- [Why are so many Americans moving to Portugal](https://www.theguardian.com/world/2025/sep/16/why-are-so-many-americans-moving-to-portugal-apart-from-the-obvious-reason)
-- [EPA delay threatens fenceline communities near steel and coke plants](https://www.thenewlede.org/2025/08/steel-plants-fenceline-air-pollution-epa-rules/)
-- [The Rise of De Novo Genes: From Scratch to Survival](https://www.the-scientist.com/the-rise-of-de-novo-genes-from-scratch-to-survival-73361)
-- [Hyperion: Minecraft game engine for custom events](https://hyperion.rs/)
-- [A Survey on Retrieval and Structuring Augmented Generation with LLMs](https://arxiv.org/abs/2509.10697)
-- [Show HN: I built a tool to translate Chinese, Japanese, &amp; Korean Novels](https://noveltranslator.com)
+- [Isaac 0.1 – Perception for the Physical World](https://marketing.perceptron.inc/blog/introducing-isaac-0-1)
+- [Athletics can&#39;t keep kidding itself – it needs a plan to save track and field](https://www.theguardian.com/sport/2025/sep/09/athletics-save-track-and-field-social-media-noah-lyles-i-show-speed-darren-watkins)
+- [Making LLMs more accurate by using all of their layers](https://research.google/blog/making-llms-more-accurate-by-using-all-of-their-layers/)
+- [UC Berkeley gives personal information for 150 students and staff to government](https://www.dailycal.org/news/campus/uc-berkeley-turns-over-personal-information-of-more-than-150-students-and-staff-to-federal/article_a4aad3e1-bbba-42cc-92d7-a7964d9641c5.html)
+- [&quot;The Falling Man,&quot; 20 Years Later](https://www.theringer.com/2021/09/08/national-affairs/tom-junod-falling-man-press-box-interview-9-11)
+- [SGS-1: a foundational model for CAD](https://www.spectrallabs.ai/research/SGS-1)
+- [Is In-Context Learning Learning?](https://arxiv.org/abs/2509.10414)
+- [A QBasic Text Adventure Still Expanding in 2025](https://the-ventureweaver.itch.io/)
+- [Boosting Model Performance with Reinforcement Fine-Tuning](https://hpc-ai.com/blog/Boost_Model_Performance_with_RFT)
+- [Show HN: You can&#39;t screenshot this text](https://unscreenshottable.vercel.app/?text=Hello)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [UC Berkeley gives personal information for 150 students and staff to government](https://www.dailycal.org/news/campus/uc-berkeley-turns-over-personal-information-of-more-than-150-students-and-staff-to-federal/article_a4aad3e1-bbba-42cc-92d7-a7964d9641c5.html)
-- [Slack is extorting us with a $195k/yr bill increase](https://skyfall.dev/posts/slack)
-- [Hypervisor 101 in Rust](https://tandasat.github.io/Hypervisor-101-in-Rust/)
-- [Meta Ray-Ban Display](https://www.meta.com/blog/meta-ray-ban-display-ai-glasses-connect-2025/)
-- [One Token to rule them all – Obtaining Global Admin in every Entra ID tenant](https://dirkjanm.io/obtaining-global-admin-in-every-entra-id-tenant-with-actor-tokens/)
-- [A postmortem of three recent issues](https://www.anthropic.com/engineering/a-postmortem-of-three-recent-issues)
-- [Gluon: a GPU programming language based on the same compiler stack as Triton](https://github.com/triton-lang/triton/blob/main/python/tutorials/gluon/01-intro.py)
-- [Optimizing ClickHouse for Intel&#39;s 280 core processors](https://clickhouse.com/blog/optimizing-clickhouse-intel-high-core-count-cpu)
-- [WASM 3.0 Completed](https://webassembly.org/news/2025-09-17-wasm-3.0/)
-- [DeepMind and OpenAI win gold at ICPC](https://codeforces.com/blog/entry/146536)
+- [Gemini in Chrome](https://gemini.google/overview/gemini-in-chrome/)
+- [The Math of Catastrophe](https://www.quantamagazine.org/the-math-of-climate-change-tipping-points-20250915/)
+- [David Lynch LA House](https://www.wallpaper.com/design-interiors/david-lynch-house-los-angeles-for-sale)
+- [Llama-Factory: Unified, Efficient Fine-Tuning for 100 Open LLMs](https://github.com/hiyouga/LLaMA-Factory)
+- [Classic recessive-or-dominant gene dynamics may not be so simple](https://news.stanford.edu/stories/2025/09/classic-recessive-dominant-gene-dynamics-pesticide-resistance-research)
+- [Want to piss off your IT department? Are the links not malicious looking enough?](https://phishyurl.com/)
+- [AI tools are making the world look weird](https://strat7.com/blogs/weird-in-weird-out/)
+- [Show HN: I created a small 2D game about an ant](https://aanthonymax.github.io/ant-and-apples/)
+- [Meta’s live demo fails; “AI” recording plays before the actor takes the steps](https://www.reddit.com/r/LivestreamFail/comments/1nkbig7/metas_live_staged_demo_fails_the_ai_recording/)
+- [Apple: SSH and FileVault](https://keith.github.io/xcode-man-pages/apple_ssh_and_filevault.7.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

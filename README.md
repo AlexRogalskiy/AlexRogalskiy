@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [China’s ‘temple economy’ in the spotlight as scandals rock influential religious leaders](https://www.theguardian.com/world/2025/sep/18/chinas-temple-economy-in-the-spotlight-as-scandals-rock-influential-religious-leaders)
-- [Eddie Hearn threatens to sue Chris Eubank Jr over ‘sabotage’ claim before Conor Benn rematch](https://www.theguardian.com/sport/2025/sep/18/chris-eubank-jr-accuses-conor-benns-team-of-sabotage-before-grudge-rematch)
-- [Meta announces first Ray-Ban smart glasses with in-built augmented reality display](https://www.theguardian.com/technology/2025/sep/17/meta-ray-ban-smart-glasses)
-- [Ukraine war briefing: Europe-funded weapons shipments begin under ‘Purl’ scheme](https://www.theguardian.com/world/2025/sep/18/ukraine-war-briefing-europe-funded-weapons-shipments-begin-under-purl-scheme)
-- [Jimmy Kimmel Live! suspended indefinitely after host’s Charlie Kirk comments](https://www.theguardian.com/tv-and-radio/2025/sep/18/jimmy-kimmel-live-suspended-indefinitely-after-hosts-charlie-kirk-comments)
-- [Venezuela starts days of military and ‘electronic warfare’ drills after US strikes on alleged drug boats](https://www.theguardian.com/world/2025/sep/18/venezuela-military-exercises-after-us-boat-attacks-kill-14-people)
-- [Together for Palestine concert: Benedict Cumberbatch, Damon Albarn and Neneh Cherry take stage at galvanising and star-studded gig for Gaza](https://www.theguardian.com/music/2025/sep/18/together-for-palestine-concert-ovo-arena-wembley-london)
-- [Privately educated still have ‘vice-like grip’ on most powerful UK jobs](https://www.theguardian.com/society/2025/sep/18/private-schools-educated-most-powerful-jobs)
-- [Dracula review – Mina Harker bites back but drama is deadened by tricksy retelling](https://www.theguardian.com/stage/2025/sep/18/dracula-review-lyric-hammersmith-london)
-- [Starmer to recognise Palestinian state ‘after Trump state visit’](https://www.theguardian.com/politics/2025/sep/17/reports-say-starmer-will-recognise-palestinian-state-over-weekend)
+- [Stephen Colbert condemns Jimmy Kimmel suspension as ‘blatant assault on freedom of speech’ – live](https://www.theguardian.com/us-news/live/2025/sep/18/jimmy-kimmel-charlie-kirk-comments-show-cancelled-suspended-monologue-trump-us-politics-live)
+- [‘Japanese first’: the mini-Trump on the rise as population crisis bites](https://www.theguardian.com/world/2025/sep/19/japanese-first-sohei-kamiya-sanseito-party-nationalist-mini-trump-population-crisis-bites)
+- [Mass protest expected in Philippines capital amid public fury over alleged corruption in government projects](https://www.theguardian.com/world/2025/sep/19/mass-protest-expected-in-philippines-capital-amid-public-fury-over-alleged-corruption-in-government-projects)
+- [Ukraine war briefing: Zelenskyy claims ‘important success’ as troops push back on Russian advances](https://www.theguardian.com/world/2025/sep/19/ukraine-war-briefing-zelenskyy-claims-important-success-as-troops-push-back-on-russian-advances)
+- [The Lady from the Sea review – Andrew Lincoln and Alicia Vikander make waves in magnificent rewrite](https://www.theguardian.com/stage/2025/sep/19/the-lady-from-the-sea-review-andrew-lincoln-alicia-vikander)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2025/sep/19/premier-league-10-things-to-look-out-for-this-weekend)
+- [Rashford spoils Newcastle’s big night and insists: ‘I’m getting better at Barça’](https://www.theguardian.com/football/2025/sep/18/rashford-spoils-newcastles-big-night-and-insists-im-getting-better-at-barca)
+- [UK doctors guilty of sexual misconduct are not being struck off, research finds](https://www.theguardian.com/society/2025/sep/18/uk-doctors-guilty-of-sexual-misconduct-are-not-being-struck-off-research-finds)
+- [Trump tells Britain to ‘call out the military’ to control its borders](https://www.theguardian.com/us-news/2025/sep/18/trump-tells-britain-to-call-out-the-military-to-control-its-borders)
+- [Teflon diet, garlic milk and zebra cows triumph at 2025 Ig Nobel prizes](https://www.theguardian.com/science/2025/sep/18/teflon-diet-garlic-milk-and-zebra-cows-triumph-at-2025-ig-nobel-prizes)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

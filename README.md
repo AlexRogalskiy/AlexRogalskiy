@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Isaac 0.1 – Perception for the Physical World](https://marketing.perceptron.inc/blog/introducing-isaac-0-1)
-- [Athletics can&#39;t keep kidding itself – it needs a plan to save track and field](https://www.theguardian.com/sport/2025/sep/09/athletics-save-track-and-field-social-media-noah-lyles-i-show-speed-darren-watkins)
-- [Making LLMs more accurate by using all of their layers](https://research.google/blog/making-llms-more-accurate-by-using-all-of-their-layers/)
-- [UC Berkeley gives personal information for 150 students and staff to government](https://www.dailycal.org/news/campus/uc-berkeley-turns-over-personal-information-of-more-than-150-students-and-staff-to-federal/article_a4aad3e1-bbba-42cc-92d7-a7964d9641c5.html)
-- [&quot;The Falling Man,&quot; 20 Years Later](https://www.theringer.com/2021/09/08/national-affairs/tom-junod-falling-man-press-box-interview-9-11)
-- [SGS-1: a foundational model for CAD](https://www.spectrallabs.ai/research/SGS-1)
-- [Is In-Context Learning Learning?](https://arxiv.org/abs/2509.10414)
-- [A QBasic Text Adventure Still Expanding in 2025](https://the-ventureweaver.itch.io/)
-- [Boosting Model Performance with Reinforcement Fine-Tuning](https://hpc-ai.com/blog/Boost_Model_Performance_with_RFT)
-- [Show HN: You can&#39;t screenshot this text](https://unscreenshottable.vercel.app/?text=Hello)
+- [After 60 Years, Diabetes Drug Found to Unexpectedly Impact the Brain](https://www.sciencealert.com/after-60-years-diabetes-drug-found-to-unexpectedly-impact-the-brain)
+- [Why the Events in Gaza Are Not &quot;Genocide&quot;](https://www.ajc.org/news/5-reasons-why-the-events-in-gaza-are-not-genocide)
+- [Old Chips, New Glitches: The CGA/CRTC &quot;Phantom&quot; VSync &lpar;2023&rpar;](https://int10h.org/blog/2023/03/cga-6845-crtc-phantom-vsync-glitch/)
+- [I Built 7 Websites in 6 Months – and Failed Every Time](https://medium.com/@wuanguo199831/i-built-7-websites-in-6-months-and-failed-every-time-686c534ddcc3)
+- [Congress summons CEO of Discord, Twitch, Reddit to testify online radicalization](https://techcrunch.com/2025/09/18/us-house-oversight-committee-summons-ceos-of-discord-twitch-reddit-to-testify-on-online-radicalization/)
+- [Client side include feature for HTML](https://github.com/whatwg/html/issues/2791)
+- [Gemini in Chrome](https://gemini.google/overview/gemini-in-chrome/)
+- [Show HN: I used the Regions repo to critique its own README.md](https://github.com/dibrale/Regions/tree/master/examples/double_hegel)
+- [Junie Is Now Available in CLion](https://blog.jetbrains.com/clion/2025/09/junie-availability/)
+- [tailscale-initramfs](https://github.com/darkrain42/tailscale-initramfs)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

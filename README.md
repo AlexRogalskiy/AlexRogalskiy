@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Stephen Colbert condemns Jimmy Kimmel suspension as ‘blatant assault on freedom of speech’ – live](https://www.theguardian.com/us-news/live/2025/sep/18/jimmy-kimmel-charlie-kirk-comments-show-cancelled-suspended-monologue-trump-us-politics-live)
-- [‘Japanese first’: the mini-Trump on the rise as population crisis bites](https://www.theguardian.com/world/2025/sep/19/japanese-first-sohei-kamiya-sanseito-party-nationalist-mini-trump-population-crisis-bites)
-- [Mass protest expected in Philippines capital amid public fury over alleged corruption in government projects](https://www.theguardian.com/world/2025/sep/19/mass-protest-expected-in-philippines-capital-amid-public-fury-over-alleged-corruption-in-government-projects)
-- [Ukraine war briefing: Zelenskyy claims ‘important success’ as troops push back on Russian advances](https://www.theguardian.com/world/2025/sep/19/ukraine-war-briefing-zelenskyy-claims-important-success-as-troops-push-back-on-russian-advances)
-- [The Lady from the Sea review – Andrew Lincoln and Alicia Vikander make waves in magnificent rewrite](https://www.theguardian.com/stage/2025/sep/19/the-lady-from-the-sea-review-andrew-lincoln-alicia-vikander)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2025/sep/19/premier-league-10-things-to-look-out-for-this-weekend)
-- [Rashford spoils Newcastle’s big night and insists: ‘I’m getting better at Barça’](https://www.theguardian.com/football/2025/sep/18/rashford-spoils-newcastles-big-night-and-insists-im-getting-better-at-barca)
-- [UK doctors guilty of sexual misconduct are not being struck off, research finds](https://www.theguardian.com/society/2025/sep/18/uk-doctors-guilty-of-sexual-misconduct-are-not-being-struck-off-research-finds)
-- [Trump tells Britain to ‘call out the military’ to control its borders](https://www.theguardian.com/us-news/2025/sep/18/trump-tells-britain-to-call-out-the-military-to-control-its-borders)
-- [Teflon diet, garlic milk and zebra cows triumph at 2025 Ig Nobel prizes](https://www.theguardian.com/science/2025/sep/18/teflon-diet-garlic-milk-and-zebra-cows-triumph-at-2025-ig-nobel-prizes)
+- [Chinese executive jailed for 25 years in US for trafficking fentanyl chemicals](https://www.theguardian.com/us-news/2025/sep/19/chinese-executive-jailed-fentanyl)
+- [Federal agents use teargas and pepper balls to break up Chicago Ice protest](https://www.theguardian.com/us-news/2025/sep/19/ice-protest-chicago-police)
+- [The Weir review – a riveting return for Conor McPherson’s lonesome barflies](https://www.theguardian.com/stage/2025/sep/20/the-weir-review-harold-pinter-theatre-london)
+- [Quarter of UK university physics departments at risk of closing, survey finds](https://www.theguardian.com/education/2025/sep/20/quarter-of-uk-university-physics-departments-at-risk-of-closing-survey-finds)
+- [Nato intercepts Russian fighter jets on ‘reckless’ violation of Estonian airspace](https://www.theguardian.com/world/2025/sep/19/estonia-accuses-russia-of-brazen-violation-of-its-airspace)
+- [Trump says Xi Jinping has agreed to approve TikTok deal, but details unclear](https://www.theguardian.com/technology/2025/sep/19/deal-to-transfer-tiktok-to-us-control-unresolved-trump-xi-call)
+- [Ruben Amorim says ‘not even the pope’ can make him change his system at United](https://www.theguardian.com/football/2025/sep/19/ruben-amorim-show-of-support-sir-jim-ratcliffe-manchester-united)
+- [David Moyes has the weaponry in Everton attack to loosen shackles at Anfield](https://www.theguardian.com/football/2025/sep/19/david-moyes-everton-jack-grealish-liverpool-anfield-premier-league-football)
+- [The week around the world in 20 pictures](https://www.theguardian.com/artanddesign/gallery/2025/sep/19/the-week-around-the-world-in-20-pictures)
+- [Labour rules against dozens of motions about Palestine being debated at party conference](https://www.theguardian.com/politics/2025/sep/19/labour-rules-against-dozens-of-motions-about-palestine-being-debated-at-party-conference)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Gemini in Chrome](https://gemini.google/overview/gemini-in-chrome/)
-- [The Math of Catastrophe](https://www.quantamagazine.org/the-math-of-climate-change-tipping-points-20250915/)
-- [David Lynch LA House](https://www.wallpaper.com/design-interiors/david-lynch-house-los-angeles-for-sale)
-- [Llama-Factory: Unified, Efficient Fine-Tuning for 100 Open LLMs](https://github.com/hiyouga/LLaMA-Factory)
-- [Classic recessive-or-dominant gene dynamics may not be so simple](https://news.stanford.edu/stories/2025/09/classic-recessive-dominant-gene-dynamics-pesticide-resistance-research)
-- [Want to piss off your IT department? Are the links not malicious looking enough?](https://phishyurl.com/)
-- [AI tools are making the world look weird](https://strat7.com/blogs/weird-in-weird-out/)
-- [Show HN: I created a small 2D game about an ant](https://aanthonymax.github.io/ant-and-apples/)
-- [Meta’s live demo fails; “AI” recording plays before the actor takes the steps](https://www.reddit.com/r/LivestreamFail/comments/1nkbig7/metas_live_staged_demo_fails_the_ai_recording/)
-- [Apple: SSH and FileVault](https://keith.github.io/xcode-man-pages/apple_ssh_and_filevault.7.html)
+- [Disney+ cancellation page crashes as customers rush to quit](https://creators.yahoo.com/lifestyle/story/disney-cancellation-page-crashes-as-customers-rush-to-quit-after-kimmel-suspension-033512277.html)
+- [Did you read the quarter-million-line license for your Slack app?](https://mastodon.mit.edu/@Eggfreckles/114825126857396420)
+- [Less is safer: how Obsidian reduces the risk of supply chain attacks](https://obsidian.md/blog/less-is-safer/)
+- [Show HN: Zedis – A Redis clone I&#39;m writing in Zig](https://github.com/barddoo/zedis)
+- [Hidden risk in Notion 3.0 AI agents: Web search tool abuse for data exfiltration](https://www.codeintegrity.ai/blog/notion)
+- [Feedmaker: URL + CSS selectors = RSS feed](https://feedmaker.fly.dev)
+- [Show HN: WeUseElixir - Elixir project directory](https://weuseelixir.com/)
+- [Time Spent on Hardening](https://third-bit.com/2025/09/18/time-spent-on-hardening/)
+- [Trump to impose $100k fee for H-1B worker visas, White House says](https://www.reuters.com/business/media-telecom/trump-mulls-adding-new-100000-fee-h-1b-visas-bloomberg-news-reports-2025-09-19/)
+- [The Economic Impacts of AI: A Multidisciplinary, Multibook Review [pdf]](https://kevinbryanecon.com/BryanAIBookReview.pdf)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

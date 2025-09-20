@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [After 60 Years, Diabetes Drug Found to Unexpectedly Impact the Brain](https://www.sciencealert.com/after-60-years-diabetes-drug-found-to-unexpectedly-impact-the-brain)
-- [Why the Events in Gaza Are Not &quot;Genocide&quot;](https://www.ajc.org/news/5-reasons-why-the-events-in-gaza-are-not-genocide)
-- [Old Chips, New Glitches: The CGA/CRTC &quot;Phantom&quot; VSync &lpar;2023&rpar;](https://int10h.org/blog/2023/03/cga-6845-crtc-phantom-vsync-glitch/)
-- [I Built 7 Websites in 6 Months – and Failed Every Time](https://medium.com/@wuanguo199831/i-built-7-websites-in-6-months-and-failed-every-time-686c534ddcc3)
-- [Congress summons CEO of Discord, Twitch, Reddit to testify online radicalization](https://techcrunch.com/2025/09/18/us-house-oversight-committee-summons-ceos-of-discord-twitch-reddit-to-testify-on-online-radicalization/)
-- [Client side include feature for HTML](https://github.com/whatwg/html/issues/2791)
-- [Gemini in Chrome](https://gemini.google/overview/gemini-in-chrome/)
-- [Show HN: I used the Regions repo to critique its own README.md](https://github.com/dibrale/Regions/tree/master/examples/double_hegel)
-- [Junie Is Now Available in CLion](https://blog.jetbrains.com/clion/2025/09/junie-availability/)
-- [tailscale-initramfs](https://github.com/darkrain42/tailscale-initramfs)
+- [Starobinsky Inflation](https://en.wikipedia.org/wiki/Starobinsky_inflation)
+- [Be Simple](https://corrode.dev/blog/simple/)
+- [Show HN: I built a TradingView alternative using AI](https://www.aulico.com/)
+- [A 70 year old museum heist is still causing a flutter in butterfly science today](https://science.anu.edu.au/news-events/news/museum-heist-70-years-ago-still-causing-flutter-butterfly-science-today)
+- [The H-1B Visa Program and Its Impact on the U.S. Economy](https://www.americanimmigrationcouncil.org/fact-sheet/h1b-visa-program-fact-sheet/)
+- [Are you an experienced software buyer? I could use some help](https://charity.wtf/2025/09/19/are-you-an-experienced-software-buyer-i-could-use-some-help/)
+- [Notion Agents](https://twitter.com/ivanhzhao/status/1968761820241609063)
+- [Globally Aware Optimization with Resurgence](https://arxiv.org/abs/2509.01329)
+- [The Weird OS Built Around a Database [video]](https://www.youtube.com/watch?v=pWZBQMRmW7k)
+- [Age Discrimination](https://humanrights.gov.au/our-work/age-discrimination)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

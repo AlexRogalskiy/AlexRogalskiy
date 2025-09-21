@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Starobinsky Inflation](https://en.wikipedia.org/wiki/Starobinsky_inflation)
-- [Be Simple](https://corrode.dev/blog/simple/)
-- [Show HN: I built a TradingView alternative using AI](https://www.aulico.com/)
-- [A 70 year old museum heist is still causing a flutter in butterfly science today](https://science.anu.edu.au/news-events/news/museum-heist-70-years-ago-still-causing-flutter-butterfly-science-today)
-- [The H-1B Visa Program and Its Impact on the U.S. Economy](https://www.americanimmigrationcouncil.org/fact-sheet/h1b-visa-program-fact-sheet/)
-- [Are you an experienced software buyer? I could use some help](https://charity.wtf/2025/09/19/are-you-an-experienced-software-buyer-i-could-use-some-help/)
-- [Notion Agents](https://twitter.com/ivanhzhao/status/1968761820241609063)
-- [Globally Aware Optimization with Resurgence](https://arxiv.org/abs/2509.01329)
-- [The Weird OS Built Around a Database [video]](https://www.youtube.com/watch?v=pWZBQMRmW7k)
-- [Age Discrimination](https://humanrights.gov.au/our-work/age-discrimination)
+- [Evolving Images with Random‑Mutation Hill Climbing](https://www.4rknova.com//blog/2025/09/20/rmhc)
+- [Hopper Is Gopher and Gemini Browser for Playdate](https://tkers.itch.io/hopper)
+- [Rand Paul&#39;s last-minute demands push key cybersecurity law to the brink](https://www.axios.com/2025/09/19/cisa-2015-cyber-law-rand-paul)
+- [Ask HN: What is it needed for the USA to be considered an autocratic oligarchy?](https://news.ycombinator.com/item?id=45319619)
+- [What&#39;s badmephisto up to these days anyway? [video]](https://www.youtube.com/watch?v=WhPjlnWbtS8)
+- [The iPhone 17 Pro can run LLMs fast](https://old.reddit.com/r/LocalLLaMA/comments/1nlu3cd/the_iphone_17_pro_can_run_llms_fast/)
+- [Vector Search in MongoDB](https://www.mongodb.com/company/blog/product-release-announcements/supercharge-self-managed-apps-search-vector-search-capabilities)
+- [U.S. Is Losing Race to Return to Moon, Critics Say, Pointing at SpaceX](https://www.nytimes.com/2025/09/20/us/politics/spacex-us-moon-race.html)
+- [Radar and Radio Failures at Dallas Area Airports](https://news.ycombinator.com/item?id=45319496)
+- [Show HN: AIs built a working Deleuzian engine. I&#39;ll drip-feed the findings](https://news.ycombinator.com/item?id=45319494)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

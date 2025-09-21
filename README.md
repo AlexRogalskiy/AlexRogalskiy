@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Chinese executive jailed for 25 years in US for trafficking fentanyl chemicals](https://www.theguardian.com/us-news/2025/sep/19/chinese-executive-jailed-fentanyl)
-- [Federal agents use teargas and pepper balls to break up Chicago Ice protest](https://www.theguardian.com/us-news/2025/sep/19/ice-protest-chicago-police)
-- [The Weir review – a riveting return for Conor McPherson’s lonesome barflies](https://www.theguardian.com/stage/2025/sep/20/the-weir-review-harold-pinter-theatre-london)
-- [Quarter of UK university physics departments at risk of closing, survey finds](https://www.theguardian.com/education/2025/sep/20/quarter-of-uk-university-physics-departments-at-risk-of-closing-survey-finds)
-- [Nato intercepts Russian fighter jets on ‘reckless’ violation of Estonian airspace](https://www.theguardian.com/world/2025/sep/19/estonia-accuses-russia-of-brazen-violation-of-its-airspace)
-- [Trump says Xi Jinping has agreed to approve TikTok deal, but details unclear](https://www.theguardian.com/technology/2025/sep/19/deal-to-transfer-tiktok-to-us-control-unresolved-trump-xi-call)
-- [Ruben Amorim says ‘not even the pope’ can make him change his system at United](https://www.theguardian.com/football/2025/sep/19/ruben-amorim-show-of-support-sir-jim-ratcliffe-manchester-united)
-- [David Moyes has the weaponry in Everton attack to loosen shackles at Anfield](https://www.theguardian.com/football/2025/sep/19/david-moyes-everton-jack-grealish-liverpool-anfield-premier-league-football)
-- [The week around the world in 20 pictures](https://www.theguardian.com/artanddesign/gallery/2025/sep/19/the-week-around-the-world-in-20-pictures)
-- [Labour rules against dozens of motions about Palestine being debated at party conference](https://www.theguardian.com/politics/2025/sep/19/labour-rules-against-dozens-of-motions-about-palestine-being-debated-at-party-conference)
+- [UK set to recognise Palestinian state on Sunday](https://www.theguardian.com/world/2025/sep/20/uk-to-recognise-palestinian-state-despite-pressure-from-us-and-families-of-hostages)
+- [More than 1,000 people arrive in UK in small boats in one day](https://www.theguardian.com/uk-news/2025/sep/20/more-than-1000-people-arrive-in-uk-in-small-boats-in-one-day)
+- [Alex Iwobi inspires Fulham’s rousing comeback win against Brentford](https://www.theguardian.com/football/2025/sep/20/fulham-brentford-premier-league-match-report)
+- [Lucy Powell: Labour should raise gambling taxes to axe two-child benefit cap](https://www.theguardian.com/politics/2025/sep/20/lucy-powell-urges-labour-to-consider-raising-gambling-taxes-so-it-can-axe-two-child-benefit-cap)
+- [Matt Beard, former manager of Liverpool Women, dies aged 47](https://www.theguardian.com/football/2025/sep/20/matt-beard-former-manager-of-liverpool-women-dies-aged-47)
+- [Dutch police clash with anti-immigration protesters in The Hague](https://www.theguardian.com/world/2025/sep/20/dutch-police-clash-with-anti-immigration-protesters-in-the-hague)
+- [I had a stroke during an ocean swim. Most people passed by unaware. One didn’t](https://www.theguardian.com/lifeandstyle/2025/sep/21/i-had-a-stroke-during-an-ocean-swim-most-people-passed-by-unawares-one-didnt)
+- [The moment I knew: 10 days after we met, I wrote him a marriage proposal](https://www.theguardian.com/lifeandstyle/2025/sep/21/moment-i-knew-relationship-love-10-days-after-we-met-wrote-marriage-proposal)
+- [Luigi Mangione’s lawyers seek to bar possibility of death penalty in federal case](https://www.theguardian.com/us-news/2025/sep/20/luigi-mangione-lawyers-death-penalty)
+- [Manchester United hold off 10-man Chelsea after Casemiro red offers hope](https://www.theguardian.com/football/2025/sep/20/manchester-united-chelsea-premier-league-match-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

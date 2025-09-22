@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [UK set to recognise Palestinian state on Sunday](https://www.theguardian.com/world/2025/sep/20/uk-to-recognise-palestinian-state-despite-pressure-from-us-and-families-of-hostages)
-- [More than 1,000 people arrive in UK in small boats in one day](https://www.theguardian.com/uk-news/2025/sep/20/more-than-1000-people-arrive-in-uk-in-small-boats-in-one-day)
-- [Alex Iwobi inspires Fulham’s rousing comeback win against Brentford](https://www.theguardian.com/football/2025/sep/20/fulham-brentford-premier-league-match-report)
-- [Lucy Powell: Labour should raise gambling taxes to axe two-child benefit cap](https://www.theguardian.com/politics/2025/sep/20/lucy-powell-urges-labour-to-consider-raising-gambling-taxes-so-it-can-axe-two-child-benefit-cap)
-- [Matt Beard, former manager of Liverpool Women, dies aged 47](https://www.theguardian.com/football/2025/sep/20/matt-beard-former-manager-of-liverpool-women-dies-aged-47)
-- [Dutch police clash with anti-immigration protesters in The Hague](https://www.theguardian.com/world/2025/sep/20/dutch-police-clash-with-anti-immigration-protesters-in-the-hague)
-- [I had a stroke during an ocean swim. Most people passed by unaware. One didn’t](https://www.theguardian.com/lifeandstyle/2025/sep/21/i-had-a-stroke-during-an-ocean-swim-most-people-passed-by-unawares-one-didnt)
-- [The moment I knew: 10 days after we met, I wrote him a marriage proposal](https://www.theguardian.com/lifeandstyle/2025/sep/21/moment-i-knew-relationship-love-10-days-after-we-met-wrote-marriage-proposal)
-- [Luigi Mangione’s lawyers seek to bar possibility of death penalty in federal case](https://www.theguardian.com/us-news/2025/sep/20/luigi-mangione-lawyers-death-penalty)
-- [Manchester United hold off 10-man Chelsea after Casemiro red offers hope](https://www.theguardian.com/football/2025/sep/20/manchester-united-chelsea-premier-league-match-report)
+- [Harry Styles swaps microphone for trainers to run sub-three hour Berlin marathon](https://www.theguardian.com/sport/2025/sep/22/harry-styles-berlin-marathon)
+- [Kim Jong-un open to nuclear talks with US, saying he has ‘fond memories’ of previous Trump meeting](https://www.theguardian.com/world/2025/sep/22/kim-jong-un-nuclear-talks-fond-memories-donald-trump-meeting)
+- [Charlie Kirk memorial: Trump says he ‘hates’ his opponents at event attended by tens of thousands](https://www.theguardian.com/us-news/2025/sep/21/thousands-gather-at-charlie-kirk-memorial-in-arizona-where-trump-to-pay-tribute-to-slain-organizer)
+- [The Covid Contracts: Follow the Money review – a devastating picture of the biggest spending scandal ever](https://www.theguardian.com/tv-and-radio/2025/sep/21/the-covid-contracts-follow-the-money-review-a-devastating-picture-of-the-biggest-spending-scandal-ever)
+- [Trump officials reportedly set to tie Tylenol to autism risk](https://www.theguardian.com/us-news/2025/sep/21/trump-officials-tylenol-autism)
+- [Zarah Sultana drops legal threat over feud with Jeremy Corbyn](https://www.theguardian.com/politics/2025/sep/21/zarah-sultana-to-drop-legal-threat-over-feud-with-jeremy-corbyn)
+- [Brazilians protest in their thousands against granting Bolsonaro amnesty](https://www.theguardian.com/world/2025/sep/21/brazil-protest-against-jair-bolsonaro-amnesty)
+- [Guardiola praises Manchester City’s ‘fantastic’ defensive display at Arsenal](https://www.theguardian.com/football/2025/sep/21/guardiola-praises-manchester-citys-fantastic-defensive-display-at-arsenal)
+- [Gatwick given green light for £2.2bn second runway plan](https://www.theguardian.com/uk-news/2025/sep/21/gatwick-given-green-light-for-22bn-second-runway-plan)
+- [Lando Norris defiant after failing to take advantage of Piastri’s Azerbaijan crash](https://www.theguardian.com/sport/2025/sep/21/lando-norris-oscar-piastri-mclaren-azerbaijan-grand-prix-formula-one)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

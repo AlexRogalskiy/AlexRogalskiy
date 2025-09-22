@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Evolving Images with Random‑Mutation Hill Climbing](https://www.4rknova.com//blog/2025/09/20/rmhc)
-- [Hopper Is Gopher and Gemini Browser for Playdate](https://tkers.itch.io/hopper)
-- [Rand Paul&#39;s last-minute demands push key cybersecurity law to the brink](https://www.axios.com/2025/09/19/cisa-2015-cyber-law-rand-paul)
-- [Ask HN: What is it needed for the USA to be considered an autocratic oligarchy?](https://news.ycombinator.com/item?id=45319619)
-- [What&#39;s badmephisto up to these days anyway? [video]](https://www.youtube.com/watch?v=WhPjlnWbtS8)
-- [The iPhone 17 Pro can run LLMs fast](https://old.reddit.com/r/LocalLLaMA/comments/1nlu3cd/the_iphone_17_pro_can_run_llms_fast/)
-- [Vector Search in MongoDB](https://www.mongodb.com/company/blog/product-release-announcements/supercharge-self-managed-apps-search-vector-search-capabilities)
-- [U.S. Is Losing Race to Return to Moon, Critics Say, Pointing at SpaceX](https://www.nytimes.com/2025/09/20/us/politics/spacex-us-moon-race.html)
-- [Radar and Radio Failures at Dallas Area Airports](https://news.ycombinator.com/item?id=45319496)
-- [Show HN: AIs built a working Deleuzian engine. I&#39;ll drip-feed the findings](https://news.ycombinator.com/item?id=45319494)
+- [The First 1,000 Days](https://williamjbarry.substack.com/p/the-first-1000-days)
+- [When you land in a new destination, what should you read?](https://patrickcollison.com/travel)
+- [Security-Focused Guide for AI Code Assistant Instructions](https://best.openssf.org/Security-Focused-Guide-for-AI-Code-Assistant-Instructions)
+- [An AI agent for unsubscribing from spam](https://blog.aqnichol.com/2025/09/20/unsubscribing-from-spam/)
+- [Security 101 for devs: a presentation &lpar;2014&rpar;](https://www.dvsj.in/security-101-devs)
+- [Trump reveals Rupert Murdoch and son Lachlan&#39;s role in deal to buy TikTok](https://www.independent.co.uk/news/world/americas/us-politics/trump-rupert-lachlan-murdoch-tiktok-b2830884.html)
+- [Show HN: Querdex – A Crowdsourced Search Engine](https://querdex.com/)
+- [South Korea&#39;s President says US investment demands would spark financial crisis](https://www.cnbc.com/2025/09/21/south-koreas-president-lee-trump-investment-financial-crisis.html)
+- [Seattle, Tech Boomtown, Grapples with a Future of Fewer Tech Jobs](https://www.wsj.com/tech/seattle-tech-amazon-microsoft-jobs-95f2db27)
+- [Trump to link autism to Tylenol use during pregnancy](https://www.axios.com/2025/09/22/trump-autism-tylenol-announcement)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

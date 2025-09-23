@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The First 1,000 Days](https://williamjbarry.substack.com/p/the-first-1000-days)
-- [When you land in a new destination, what should you read?](https://patrickcollison.com/travel)
-- [Security-Focused Guide for AI Code Assistant Instructions](https://best.openssf.org/Security-Focused-Guide-for-AI-Code-Assistant-Instructions)
-- [An AI agent for unsubscribing from spam](https://blog.aqnichol.com/2025/09/20/unsubscribing-from-spam/)
-- [Security 101 for devs: a presentation &lpar;2014&rpar;](https://www.dvsj.in/security-101-devs)
-- [Trump reveals Rupert Murdoch and son Lachlan&#39;s role in deal to buy TikTok](https://www.independent.co.uk/news/world/americas/us-politics/trump-rupert-lachlan-murdoch-tiktok-b2830884.html)
-- [Show HN: Querdex – A Crowdsourced Search Engine](https://querdex.com/)
-- [South Korea&#39;s President says US investment demands would spark financial crisis](https://www.cnbc.com/2025/09/21/south-koreas-president-lee-trump-investment-financial-crisis.html)
-- [Seattle, Tech Boomtown, Grapples with a Future of Fewer Tech Jobs](https://www.wsj.com/tech/seattle-tech-amazon-microsoft-jobs-95f2db27)
-- [Trump to link autism to Tylenol use during pregnancy](https://www.axios.com/2025/09/22/trump-autism-tylenol-announcement)
+- [Trump administration to get tough on companies that misuse the H-1B visa](https://www.washingtonpost.com/business/2025/09/22/trump-h1b-visas-fee/)
+- [Eschatological thinking: why Peter Thiel is talking about the Antichrist](https://www.realtimetechpocalypse.com/p/the-political-power-of-eschatological-82b)
+- [Show HN: Selling numbered rocks, you get whatever&#39;s next in sequence](https://weight.rocks)
+- [Wisely Optimizing Short Video Streaming for a User-Vendor Win-Win Outcome](https://dl.acm.org/doi/pdf/10.1145/3718958.3754346)
+- [Wayne&#39;s This and That](https://www.waynesthisandthat.com/)
+- [Fastmail phishing scam going around](https://old.reddit.com/r/fastmail/comments/1nntm38/fastmail_payment_account_scamphishing_watch_out/)
+- [Salesloft Drift Supply Chain Incident: Key Details and Zscaler&#39;s Response](https://www.zscaler.com/blogs/company-news/salesloft-drift-supply-chain-incident-key-details-and-zscaler-s-response)
+- [The Interstellar Path to Prosperity](https://avi-loeb.medium.com/the-interstellar-path-to-prosperity-72f6908fcd51)
+- [Third-Party Platform Data Incident](https://media.stellantisnorthamerica.com/newsrelease.do?id=27079&mid=1)
+- [Show HN: AI Generation Toolkit – Focusing on AI Face-Swapping&amp;Video Generation](https://aisaver.io/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

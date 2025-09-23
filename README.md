@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Harry Styles swaps microphone for trainers to run sub-three hour Berlin marathon](https://www.theguardian.com/sport/2025/sep/22/harry-styles-berlin-marathon)
-- [Kim Jong-un open to nuclear talks with US, saying he has ‘fond memories’ of previous Trump meeting](https://www.theguardian.com/world/2025/sep/22/kim-jong-un-nuclear-talks-fond-memories-donald-trump-meeting)
-- [Charlie Kirk memorial: Trump says he ‘hates’ his opponents at event attended by tens of thousands](https://www.theguardian.com/us-news/2025/sep/21/thousands-gather-at-charlie-kirk-memorial-in-arizona-where-trump-to-pay-tribute-to-slain-organizer)
-- [The Covid Contracts: Follow the Money review – a devastating picture of the biggest spending scandal ever](https://www.theguardian.com/tv-and-radio/2025/sep/21/the-covid-contracts-follow-the-money-review-a-devastating-picture-of-the-biggest-spending-scandal-ever)
-- [Trump officials reportedly set to tie Tylenol to autism risk](https://www.theguardian.com/us-news/2025/sep/21/trump-officials-tylenol-autism)
-- [Zarah Sultana drops legal threat over feud with Jeremy Corbyn](https://www.theguardian.com/politics/2025/sep/21/zarah-sultana-to-drop-legal-threat-over-feud-with-jeremy-corbyn)
-- [Brazilians protest in their thousands against granting Bolsonaro amnesty](https://www.theguardian.com/world/2025/sep/21/brazil-protest-against-jair-bolsonaro-amnesty)
-- [Guardiola praises Manchester City’s ‘fantastic’ defensive display at Arsenal](https://www.theguardian.com/football/2025/sep/21/guardiola-praises-manchester-citys-fantastic-defensive-display-at-arsenal)
-- [Gatwick given green light for £2.2bn second runway plan](https://www.theguardian.com/uk-news/2025/sep/21/gatwick-given-green-light-for-22bn-second-runway-plan)
-- [Lando Norris defiant after failing to take advantage of Piastri’s Azerbaijan crash](https://www.theguardian.com/sport/2025/sep/21/lando-norris-oscar-piastri-mclaren-azerbaijan-grand-prix-formula-one)
+- [Rodrigo Duterte, former Philippines president, charged with crimes against humanity at ICC](https://www.theguardian.com/world/2025/sep/23/rodrigo-duterte-charged-crimes-against-humanity-icc-philippines-ntwnfb)
+- [New Zealand loosens residency restrictions as record number of citizens leave](https://www.theguardian.com/world/2025/sep/23/new-zealand-visa-country-loosens-residency-restrictions-record-numbers-of-citizens-leave)
+- [Drone sightings cause widespread disruption and delays at Norway and Denmark airports](https://www.theguardian.com/world/2025/sep/23/drone-sightings-cause-disruption-delays-norway-denmark-airports)
+- [Unification Church leader arrested in South Korea over bribery allegations linked to former first lady](https://www.theguardian.com/world/2025/sep/23/unification-church-leader-han-hak-ja-arrested-south-korea-ntwnfb)
+- [Trump rails against Tylenol but autism claims not supported by science](https://www.theguardian.com/us-news/2025/sep/22/trump-tylenol-autism-women)
+- [Violence in GP surgeries driven by waiting times and drug refusals, global study shows](https://www.theguardian.com/society/2025/sep/23/violence-in-gp-surgeries-driven-by-waiting-times-and-drug-refusals-global-study-shows)
+- [Majority of girls and young women in UK alter behaviour to feel safe, study finds](https://www.theguardian.com/education/2025/sep/23/majority-of-girls-and-young-women-in-uk-alter-behaviour-to-feel-safe-study-finds)
+- [London homes 500 metres from station ‘command £42,700 premium over those 1,500 metres away’](https://www.theguardian.com/business/2025/sep/23/london-homes-near-station-command-premium-over-those-further-away)
+- [Earthquake with 4.3 magnitude rocks San Francisco Bay Area](https://www.theguardian.com/us-news/2025/sep/22/san-francisco-bay-area-earthquake)
+- [Trump attacks Tylenol as officials unveil highly contentious conclusions on autism](https://www.theguardian.com/us-news/2025/sep/22/trump-administration-autism-causes)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

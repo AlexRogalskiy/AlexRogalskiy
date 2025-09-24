@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Trump administration to get tough on companies that misuse the H-1B visa](https://www.washingtonpost.com/business/2025/09/22/trump-h1b-visas-fee/)
-- [Eschatological thinking: why Peter Thiel is talking about the Antichrist](https://www.realtimetechpocalypse.com/p/the-political-power-of-eschatological-82b)
-- [Show HN: Selling numbered rocks, you get whatever&#39;s next in sequence](https://weight.rocks)
-- [Wisely Optimizing Short Video Streaming for a User-Vendor Win-Win Outcome](https://dl.acm.org/doi/pdf/10.1145/3718958.3754346)
-- [Wayne&#39;s This and That](https://www.waynesthisandthat.com/)
-- [Fastmail phishing scam going around](https://old.reddit.com/r/fastmail/comments/1nntm38/fastmail_payment_account_scamphishing_watch_out/)
-- [Salesloft Drift Supply Chain Incident: Key Details and Zscaler&#39;s Response](https://www.zscaler.com/blogs/company-news/salesloft-drift-supply-chain-incident-key-details-and-zscaler-s-response)
-- [The Interstellar Path to Prosperity](https://avi-loeb.medium.com/the-interstellar-path-to-prosperity-72f6908fcd51)
-- [Third-Party Platform Data Incident](https://media.stellantisnorthamerica.com/newsrelease.do?id=27079&mid=1)
-- [Show HN: AI Generation Toolkit – Focusing on AI Face-Swapping&amp;Video Generation](https://aisaver.io/)
+- [LLMs are strangely-shaped tools](https://near.blog/llms-are-strangely-shaped-tools/)
+- [2025 DORA AI-assisted software development report](https://cloud.google.com/resources/content/2025-dora-ai-assisted-software-development-report)
+- [Scientist behind Trump&#39;s Tylenol claims was paid $150K to give evidence](https://www.thetimes.com/us/american-politics/article/autism-scientist-tesitify-andrea-baccarelli-havard-aceraminophen-paracetamol-wvvzznhsf)
+- [How frequently do vulnerabilites affect TLS on Android?](https://news.ycombinator.com/item?id=45355676)
+- [Tunn – SSH tunnels made simple](https://github.com/strandnerd/tunn)
+- [The Magnus Archives Transcripts](https://snarp.github.io/magnus_archives_transcripts/)
+- [Aerospace: An I3 Like Tiling Window Manager for macOS](https://github.com/nikitabobko/AeroSpace)
+- [Google Admits Censorship; Promises to End Bans](https://judiciary.house.gov/media/press-releases/google-admits-censorship-under-biden-promises-end-bans-youtube-accounts)
+- [Qwen3Guard: Real-Time Safety for Your Token Stream](https://huggingface.co/Qwen/Qwen3Guard-Gen-8B)
+- [Quadratic memory reductions for Zero-knowledge Proofs](https://github.com/logannye/space-efficient-zero-knowledge-proofs)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

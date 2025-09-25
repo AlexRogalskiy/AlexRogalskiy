@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [LLMs are strangely-shaped tools](https://near.blog/llms-are-strangely-shaped-tools/)
-- [2025 DORA AI-assisted software development report](https://cloud.google.com/resources/content/2025-dora-ai-assisted-software-development-report)
-- [Scientist behind Trump&#39;s Tylenol claims was paid $150K to give evidence](https://www.thetimes.com/us/american-politics/article/autism-scientist-tesitify-andrea-baccarelli-havard-aceraminophen-paracetamol-wvvzznhsf)
-- [How frequently do vulnerabilites affect TLS on Android?](https://news.ycombinator.com/item?id=45355676)
-- [Tunn – SSH tunnels made simple](https://github.com/strandnerd/tunn)
-- [The Magnus Archives Transcripts](https://snarp.github.io/magnus_archives_transcripts/)
-- [Aerospace: An I3 Like Tiling Window Manager for macOS](https://github.com/nikitabobko/AeroSpace)
-- [Google Admits Censorship; Promises to End Bans](https://judiciary.house.gov/media/press-releases/google-admits-censorship-under-biden-promises-end-bans-youtube-accounts)
-- [Qwen3Guard: Real-Time Safety for Your Token Stream](https://huggingface.co/Qwen/Qwen3Guard-Gen-8B)
-- [Quadratic memory reductions for Zero-knowledge Proofs](https://github.com/logannye/space-efficient-zero-knowledge-proofs)
+- [Casual BibTeX](http://yummymelon.com/devnull/announcing-casual-bibtex.html)
+- [Watchsetter – A simple tool to help you set your watch](https://watchsetter.com/)
+- [Joma Tech: life of an AI startup founder/CEO [video]](https://www.youtube.com/watch?v=YRddOEtlnEk)
+- [Realtime Raytracing in Bevy 0.17 &lpar;Solari&rpar;](https://jms55.github.io/posts/2025-09-20-solari-bevy-0-17/)
+- [Despite 30 MOS work, Python&#39;s JIT compiler is often slower than the interpreter](https://devclass.com/2025/07/09/despite-30-months-work-core-developer-says-pythons-jit-compiler-is-often-slower-than-the-interpreter/)
+- [We&#39;re One Step Closer to a Quantum Internet](https://www.popularmechanics.com/technology/infrastructure/a68020668/one-step-closer-quantum-internet/)
+- [Don&#39;t Read the Comments](https://brids.bearblog.dev/dont-read-the-comments/)
+- [NASA Selects All-American 2025 Class of Astronaut Candidates](https://www.nasa.gov/news-release/nasa-selects-all-american-2025-class-of-astronaut-candidates/)
+- [Employers should not own open-source contributions &lpar;2021&rpar;](https://www.jviotti.com/2021/11/26/employers-should-not-own-open-source-contributions.html)
+- [Cool new Live Communication training/coaching program](https://www.techtalktranslator.com/offers/LufUELrN/checkout)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

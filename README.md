@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [‘A symbol of liberation’: how the One Piece manga flag became the symbol of Asia’s gen Z protest movement](https://www.theguardian.com/world/2025/sep/24/how-one-piece-manga-flag-became-symbol-asia-gen-z-protest-movement-liberation)
-- [Explosions and drones targeting Gaza aid flotilla boats, activists say](https://www.theguardian.com/world/2025/sep/24/explosions-and-multiple-drones-targeting-gaza-aid-flotilla-boats-activists-say)
-- [Trump news at a glance: president backs Ukraine to ‘get their land back’ from Russia and lambasts UN](https://www.theguardian.com/us-news/2025/sep/24/trump-administration-news-today-latest)
-- [Super Typhoon Ragasa: at least 14 killed in Taiwan as Hong Kong and southern China brace for impact](https://www.theguardian.com/world/2025/sep/24/super-typhoon-ragasa-update-path-hong-kong-taiwan-china)
-- [Ukraine war briefing: Zelenskyy says Trump can change Xi Jinping’s stance on Russia’s war](https://www.theguardian.com/world/2025/sep/24/ukraine-war-briefing-zelenskyy-says-trump-can-change-xi-jinpings-stance-on-russias-war)
-- [Dirty Looks review – room after room of utterly filthy fashion](https://www.theguardian.com/culture/2025/sep/24/dirty-looks-review-desire-and-decay-in-fashion-barbican-london)
-- [European football: Vinicíus and Mbappé lead Real Madrid in rout of Levante](https://www.theguardian.com/football/2025/sep/23/european-football-vinicius-and-mbappe-lead-real-madrid-in-rout-of-levante)
-- [Cold case found? Body unearthed is Oregon’s oldest unidentified person case](https://www.theguardian.com/us-news/2025/sep/23/oregon-cold-case-oak-grove-jane-doe)
-- [Trump says he believes Ukraine can regain all land lost to Russia since 2022 invasion](https://www.theguardian.com/us-news/2025/sep/23/trump-ukraine-land-lost-russia-nato-oil-imports-un-speech)
-- [Claudia Cardinale, glamorous star of The Leopard and Once Upon a Time in the West, dies aged 87](https://www.theguardian.com/film/2025/sep/23/claudia-cardinale-dies)
+- [Wealthy investors from US, China and Hong Kong top applications for New Zealand’s ‘golden visa’ scheme](https://www.theguardian.com/world/2025/sep/25/new-zealand-golden-visa-scheme-active-investor-plus-applications-usa-china-hong-kong)
+- [Bali hospital denies allegation of organ theft after body of Australian repatriated without heart](https://www.theguardian.com/world/2025/sep/25/byron-haddow-australian-man-bali-hospital-denies-organ-theft-allegations)
+- [‘An eye for an eye’: some Duterte death squad members unrepentant as he awaits ICC trial](https://www.theguardian.com/world/2025/sep/25/philippines-manila-death-squad-members-unrepentant-rodrigo-duterte-icc-trial-ntwnfb)
+- [Loaded fries, tacos and perfect pies: eight crowd-pleasing recipes for footy finals weekend](https://www.theguardian.com/food/2025/sep/25/loaded-fries-tacos-and-perfect-pies-eight-crowd-pleasing-recipes-for-footy-finals-weekend)
+- [‘Maggots raining down’: survey lays bare dire state of courts in England and Wales](https://www.theguardian.com/law/2025/sep/25/maggots-asbestos-excrement-mould-law-society-survey-dire-state-of-courts-england-wales)
+- [Moderna boss defends UK in drug-pricing row as he opens £150m Oxfordshire facility](https://www.theguardian.com/business/2025/sep/25/moderna-boss-defends-uk-in-drug-pricing-row-as-he-opens-150m-oxfordshire-facility)
+- [Bank of England urged to do more to tackle climate crisis](https://www.theguardian.com/business/2025/sep/25/bank-of-england-tackle-climate-crisis-mark-carney-greepeace)
+- [Entertaining Mr Sloane review – Joe Orton’s murky comedy of despair and desire still unsettles](https://www.theguardian.com/stage/2025/sep/25/entertaining-mr-sloane-review-joe-ortons-murky-comedy-of-despair-and-desire-still-unsettles)
+- [Mobile and broadband customers ‘losing out because of murky contract practices’](https://www.theguardian.com/money/2025/sep/25/mobile-broadband-customers-losing-out-murky-contract-practices)
+- [Denmark airport closed due to drones, two days after incursions in Copenhagen and Oslo](https://www.theguardian.com/world/2025/sep/25/drones-aalborg-airport-denmark-closed-days-after-copenhagen-oslo)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

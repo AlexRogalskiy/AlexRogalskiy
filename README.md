@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Quadratic memory reductions for Zero-knowledge Proofs](https://github.com/logannye/space-efficient-zero-knowledge-proofs)
-- [Zutty: Zero-cost Unicode Teletype, high-end terminal for low-end systems](https://git.hq.sig7.se/zutty.git)
-- [Periodic Table of Cognition](https://kk.org/thetechnium/the-periodic-table-of-cognition/)
-- [Baldur&#39;s Gate 3 Steam Deck – Native Version](https://larian.com/support/faqs/steam-deck-native-version_121)
-- [MLB approves robot umpires for 2026 as part of challenge system](https://www.espn.com/mlb/story/_/id/46357017/mlb-approves-robot-umpires-2026-part-challenge-system)
-- [NYC Telecom Raid: What&#39;s Up with Those Weird SIM Banks?](https://tedium.co/2025/09/23/secret-service-raid-sim-bank-telecom-hardware/)
-- [From Rust to reality: The hidden journey of fetch_max](https://questdb.com/blog/rust-fetch-max-compiler-journey/)
-- [Context Engineering for AI Agents: Lessons](https://manus.im/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus)
-- [Qwen3-VL](https://qwen.ai/blog?id=99f0335c4ad9ff6153e517418d48535ab6d8afef&from=research.latest-advancements-list)
-- [Is life a form of computation?](https://thereader.mitpress.mit.edu/is-life-a-form-of-computation/)
+- [Homeowner Baffled After Washing Machine Uses 3.6GB of Internet Data a Day](https://www.newsweek.com/homeowner-baffled-washing-machine-uses-3-6gb-internet-1862675)
+- [The &quot;Wage Level&quot; Mirage: H-1B proposal could help outsourcers and hurt US talent](https://ifp.org/the-wage-level-mirage/)
+- [How did sports betting become legal in the US?](https://shreyashariharan.substack.com/p/how-did-sports-betting-become-legal)
+- [Docker Hub Is Down](https://www.dockerstatus.com/pages/incident/533c6539221ae15e3f000031/68d47a2f93c09e05486d93a9)
+- [Do YC after you graduate: Early decision for students](https://www.ycombinator.com/early-decision)
+- [Helium Browser](https://helium.computer/)
+- [Everything that&#39;s wrong with Google Search in one image](https://bitbytebit.substack.com/p/everything-thats-wrong-with-google)
+- [Snapdragon X2 Elite ARM Laptop CPU](https://www.qualcomm.com/products/mobile/snapdragon/laptops-and-tablets/snapdragon-x2-elite)
+- [SonyShell – An effort to “SSH into my Sony DSLR”](https://github.com/goudvuur/sonyshell)
+- [How fast is Go? simulating particles on a smart TV](https://dgerrells.com/blog/how-fast-is-go-simulating-millions-of-particles-on-a-smart-tv)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

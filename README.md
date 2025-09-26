@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Homeowner Baffled After Washing Machine Uses 3.6GB of Internet Data a Day](https://www.newsweek.com/homeowner-baffled-washing-machine-uses-3-6gb-internet-1862675)
-- [The &quot;Wage Level&quot; Mirage: H-1B proposal could help outsourcers and hurt US talent](https://ifp.org/the-wage-level-mirage/)
-- [How did sports betting become legal in the US?](https://shreyashariharan.substack.com/p/how-did-sports-betting-become-legal)
-- [Docker Hub Is Down](https://www.dockerstatus.com/pages/incident/533c6539221ae15e3f000031/68d47a2f93c09e05486d93a9)
-- [Do YC after you graduate: Early decision for students](https://www.ycombinator.com/early-decision)
-- [Helium Browser](https://helium.computer/)
-- [Everything that&#39;s wrong with Google Search in one image](https://bitbytebit.substack.com/p/everything-thats-wrong-with-google)
-- [Snapdragon X2 Elite ARM Laptop CPU](https://www.qualcomm.com/products/mobile/snapdragon/laptops-and-tablets/snapdragon-x2-elite)
-- [SonyShell – An effort to “SSH into my Sony DSLR”](https://github.com/goudvuur/sonyshell)
-- [How fast is Go? simulating particles on a smart TV](https://dgerrells.com/blog/how-fast-is-go-simulating-millions-of-particles-on-a-smart-tv)
+- [Writing Memory Safe JIT Compilers](https://medium.com/graalvm/writing-truly-memory-safe-jit-compilers-f79ad44558dd)
+- [All British adults to require a digital ID &#39;Brit Card&#39;](https://news.sky.com/video/all-british-adults-to-require-a-digital-id-brit-card-13438041)
+- [Exploit Allows for Takeover of Fleets of Unitree Robots](https://spectrum.ieee.org/unitree-robot-exploit)
+- [Investigating a Forged PDF](https://mjg59.dreamwidth.org/73317.html)
+- [Bluesky Alt Text Stream](https://bobbiec.github.io/bluesky-alt-text.html)
+- [Redis is fast – I&#39;ll cache in Postgres](https://dizzy.zone/2025/09/24/Redis-is-fast-Ill-cache-in-Postgres/)
+- [RedoxFS is the default filesystem of Redox OS, inspired by ZFS](https://doc.redox-os.org/book/redoxfs.html)
+- [Factory Raises $50M Series B](https://factory.ai/news/series-b)
+- [New Quasi-Moon Discovered Orbiting Earth, but It&#39;s Been Around for Decades](https://explorersweb.com/new-quasi-moon-discovered-orbiting-earth-but-its-been-around-for-decades/)
+- [Can a model trained on satellite data really find brambles on the ground?](https://toao.com/blog/can-we-really-see-brambles-from-space)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

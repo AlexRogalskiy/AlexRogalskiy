@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Wealthy investors from US, China and Hong Kong top applications for New Zealand’s ‘golden visa’ scheme](https://www.theguardian.com/world/2025/sep/25/new-zealand-golden-visa-scheme-active-investor-plus-applications-usa-china-hong-kong)
-- [Bali hospital denies allegation of organ theft after body of Australian repatriated without heart](https://www.theguardian.com/world/2025/sep/25/byron-haddow-australian-man-bali-hospital-denies-organ-theft-allegations)
-- [‘An eye for an eye’: some Duterte death squad members unrepentant as he awaits ICC trial](https://www.theguardian.com/world/2025/sep/25/philippines-manila-death-squad-members-unrepentant-rodrigo-duterte-icc-trial-ntwnfb)
-- [Loaded fries, tacos and perfect pies: eight crowd-pleasing recipes for footy finals weekend](https://www.theguardian.com/food/2025/sep/25/loaded-fries-tacos-and-perfect-pies-eight-crowd-pleasing-recipes-for-footy-finals-weekend)
-- [‘Maggots raining down’: survey lays bare dire state of courts in England and Wales](https://www.theguardian.com/law/2025/sep/25/maggots-asbestos-excrement-mould-law-society-survey-dire-state-of-courts-england-wales)
-- [Moderna boss defends UK in drug-pricing row as he opens £150m Oxfordshire facility](https://www.theguardian.com/business/2025/sep/25/moderna-boss-defends-uk-in-drug-pricing-row-as-he-opens-150m-oxfordshire-facility)
-- [Bank of England urged to do more to tackle climate crisis](https://www.theguardian.com/business/2025/sep/25/bank-of-england-tackle-climate-crisis-mark-carney-greepeace)
-- [Entertaining Mr Sloane review – Joe Orton’s murky comedy of despair and desire still unsettles](https://www.theguardian.com/stage/2025/sep/25/entertaining-mr-sloane-review-joe-ortons-murky-comedy-of-despair-and-desire-still-unsettles)
-- [Mobile and broadband customers ‘losing out because of murky contract practices’](https://www.theguardian.com/money/2025/sep/25/mobile-broadband-customers-losing-out-murky-contract-practices)
-- [Denmark airport closed due to drones, two days after incursions in Copenhagen and Oslo](https://www.theguardian.com/world/2025/sep/25/drones-aalborg-airport-denmark-closed-days-after-copenhagen-oslo)
+- [New Zealand man convicted of murder for boarding house fire that killed five tenants](https://www.theguardian.com/world/2025/sep/26/new-zealand-man-convicted-murder-boarding-house-fire-killed-five-tenants)
+- [Ex-FBI director James Comey indicted on two charges as Trump pushes to prosecute political enemies](https://www.theguardian.com/us-news/2025/sep/25/james-comey-fbi-director-indictment)
+- [Civilian injuries in Gaza similar to those of soldiers in war zones, study finds](https://www.theguardian.com/world/2025/sep/25/civilian-injuries-gaza-combat-soldiers-study)
+- [Don’t look up: how Trump’s deregulation drive could obscure the stars and threaten our access to space](https://www.theguardian.com/science/2025/sep/26/trump-rocket-launches-executive-order-threatens-stars-space-view-access-research-astronomy)
+- [Iran snapback sanctions loom as UN security council set to vote on nuclear programme](https://www.theguardian.com/world/2025/sep/26/iran-snapback-sanctions-un-security-council-vote-nuclear-programme)
+- [White low-income pupils ‘report lowest enthusiasm for school’ in England](https://www.theguardian.com/education/2025/sep/26/white-low-income-pupils-report-lowest-enthusiasm-for-school-in-england)
+- [UK government backs return of international rail travel to Kent stations](https://www.theguardian.com/uk-news/2025/sep/26/uk-government-backs-return-of-international-rail-travel-to-kent-stations)
+- [Fighter jets purchase would put UK in breach of nuclear treaty, says CND](https://www.theguardian.com/world/2025/sep/26/uk-fighter-jets-purchase-nuclear-treaty-cnd)
+- [Clarkston review – Heartstopper’s Joe Locke joins lonely souls looking to make life matter](https://www.theguardian.com/stage/2025/sep/26/clarkston-review-joe-locke-ruaridh-mollica-samuel-d-hunter-trafalgar-theatre-london)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2025/sep/26/premier-league-10-things-to-look-out-for-this-weekend)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

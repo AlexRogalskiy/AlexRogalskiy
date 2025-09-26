@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Casual BibTeX](http://yummymelon.com/devnull/announcing-casual-bibtex.html)
-- [Watchsetter – A simple tool to help you set your watch](https://watchsetter.com/)
-- [Joma Tech: life of an AI startup founder/CEO [video]](https://www.youtube.com/watch?v=YRddOEtlnEk)
-- [Realtime Raytracing in Bevy 0.17 &lpar;Solari&rpar;](https://jms55.github.io/posts/2025-09-20-solari-bevy-0-17/)
-- [Despite 30 MOS work, Python&#39;s JIT compiler is often slower than the interpreter](https://devclass.com/2025/07/09/despite-30-months-work-core-developer-says-pythons-jit-compiler-is-often-slower-than-the-interpreter/)
-- [We&#39;re One Step Closer to a Quantum Internet](https://www.popularmechanics.com/technology/infrastructure/a68020668/one-step-closer-quantum-internet/)
-- [Don&#39;t Read the Comments](https://brids.bearblog.dev/dont-read-the-comments/)
-- [NASA Selects All-American 2025 Class of Astronaut Candidates](https://www.nasa.gov/news-release/nasa-selects-all-american-2025-class-of-astronaut-candidates/)
-- [Employers should not own open-source contributions &lpar;2021&rpar;](https://www.jviotti.com/2021/11/26/employers-should-not-own-open-source-contributions.html)
-- [Cool new Live Communication training/coaching program](https://www.techtalktranslator.com/offers/LufUELrN/checkout)
+- [Alternative history: The NeXTlevel was NeXT Software&#39;s first handheld device](https://bitbang.social/@NanoRaptor/115258704574406678)
+- [From ciphers to confidentiality: secrecy, openness and priority in science [pdf]](https://escholarship.org/content/qt94b7x35r/qt94b7x35r_noSplash_11f1fe25b9c4851f748c196637f10d29.pdf)
+- [MAME 0.281](https://www.mamedev.org/?p=555)
+- [React-Native-Nim – Starter Template for React Native to connect a Nim back end](https://github.com/siddarthkay/react-native-nim)
+- [Cosmic Wonders Abound in the ZWO Astronomy Photographer of the Year Contest](https://www.thisiscolossal.com/2025/09/zwo-astronomy-photographer-of-the-year-17-winners/)
+- [China&#39;s Floating Power Plants – Tapping Super High Winds](https://cleantechnica.com/2025/09/25/chinas-floating-power-plants-tapping-super-high-winds/)
+- [Show HN: Macscope – I decide to built a better Cmd-Tab replacement for macOS](https://macscope.app)
+- [A skull unearthed in China challenges the timeline of human evolution](https://www.cnn.com/2025/09/25/science/skull-denisovans-dragon-man-human-evolution)
+- [The Perplexity Search API](https://www.perplexity.ai/hub/blog/introducing-the-perplexity-search-api)
+- [Show HN: Home Information – open-source spatial data management](https://github.com/cassandra/home-information)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

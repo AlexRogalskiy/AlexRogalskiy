@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Alternative history: The NeXTlevel was NeXT Software&#39;s first handheld device](https://bitbang.social/@NanoRaptor/115258704574406678)
-- [From ciphers to confidentiality: secrecy, openness and priority in science [pdf]](https://escholarship.org/content/qt94b7x35r/qt94b7x35r_noSplash_11f1fe25b9c4851f748c196637f10d29.pdf)
-- [MAME 0.281](https://www.mamedev.org/?p=555)
-- [React-Native-Nim – Starter Template for React Native to connect a Nim back end](https://github.com/siddarthkay/react-native-nim)
-- [Cosmic Wonders Abound in the ZWO Astronomy Photographer of the Year Contest](https://www.thisiscolossal.com/2025/09/zwo-astronomy-photographer-of-the-year-17-winners/)
-- [China&#39;s Floating Power Plants – Tapping Super High Winds](https://cleantechnica.com/2025/09/25/chinas-floating-power-plants-tapping-super-high-winds/)
-- [Show HN: Macscope – I decide to built a better Cmd-Tab replacement for macOS](https://macscope.app)
-- [A skull unearthed in China challenges the timeline of human evolution](https://www.cnn.com/2025/09/25/science/skull-denisovans-dragon-man-human-evolution)
-- [The Perplexity Search API](https://www.perplexity.ai/hub/blog/introducing-the-perplexity-search-api)
-- [Show HN: Home Information – open-source spatial data management](https://github.com/cassandra/home-information)
+- [Defooocus AI Online – a free AI image generation tool](https://defooocusai.online)
+- [Times New Dumbass](https://timesnewdumbass.co/)
+- [Scientists want to treat complex bone fractures with a bone-healing gun](https://arstechnica.com/science/2025/09/scientists-want-to-treat-complex-bone-fractures-with-a-bone-healing-gun/)
+- [Exceptional Naming](https://kevlinhenney.medium.com/exceptional-naming-6e3c8f5bffac)
+- [Making an ASCII Animation](https://pierce.dev/notes/making-the-ghostty-animation/)
+- [Show HN: Yay Custom PKGBUILD Repositories Support local/Git/HTTP](https://github.com/Jguer/yay/pull/2681)
+- [AI investment bubble inflated by trio of dilemmas](https://www.reuters.com/commentary/breakingviews/ai-investment-bubble-inflated-by-trio-dilemmas-2025-09-25/)
+- [Eric Schmidt: Competing with China means sacrificing work-life balance](https://fortune.com/2025/09/25/ex-google-ceo-eric-schmidt-work-life-balance-remote-work-996/)
+- [GPT-OSS Reinforcement Learning](https://docs.unsloth.ai/new/gpt-oss-reinforcement-learning)
+- [New Neural Net Framework](https://github.com/adetrick/sequential)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine war briefing: Russia’s latest offensives have failed, say Zelenskyy and his top commander](https://www.theguardian.com/world/2025/sep/27/ukraine-war-briefing-russias-latest-offensives-have-failed-say-zelenskyy-and-his-top-commander)
-- [Detainees shot in deadly attack on Ice facility in Dallas identified – reports](https://www.theguardian.com/us-news/2025/sep/26/immigrant-detainees-shot-dallas-identified)
-- [Progressive governments must keep faith with voters to combat far right, Albanese and Starmer warn](https://www.theguardian.com/australia-news/2025/sep/26/labor-very-focused-on-making-sure-voters-keep-faith-in-system-says-albanese)
-- [Trump jokingly asked Rolex executives if tariffs prompted US Open invite, CEO says](https://www.theguardian.com/us-news/2025/sep/26/trump-rolex-tariffs-us-open)
-- [Harrods warns customers their data may have been stolen in IT breach](https://www.theguardian.com/business/2025/sep/26/harrods-warns-customers-their-data-may-have-been-stolen-in-it-breach)
-- [Fleetwood and Rahm stun USA as Europe take three-point Ryder Cup lead on opening day](https://www.theguardian.com/sport/2025/sep/26/tommy-fleetwood-jon-rahm-rory-mcilroy-ryder-cup-europe-usa)
-- [Leicester rescue last-gasp point at West Brom via Nat Phillips’ own goal](https://www.theguardian.com/football/2025/sep/26/west-brom-leicester-championship-match-report)
-- [Elon Musk and Peter Thiel mentioned in Epstein documents released by Democrats](https://www.theguardian.com/us-news/2025/sep/26/democrats-jeffrey-epstein-documents)
-- [Sinclair and Nexstar end boycott of Jimmy Kimmel Live! and will air show again](https://www.theguardian.com/tv-and-radio/2025/sep/26/sinclair-end-boycott-of-jimmy-kimmel-live)
-- [Enzo Maresca faces defining week as Palmer headlines Chelsea injury crisis](https://www.theguardian.com/football/2025/sep/26/enzo-maresca-cole-palmer-chelsea-injury-crisis-brighton-premier-league)
+- [‘I don’t care’: Colombia president Petro hits back after US revokes his visa](https://www.theguardian.com/world/2025/sep/28/i-dont-care-colombia-president-petro-hits-back-after-us-revokes-his-visa)
+- [Ukraine war briefing: Ukraine discussing ‘mega’ arms deal with US, Zelenskyy says](https://www.theguardian.com/world/2025/sep/28/ukraine-war-briefing-ukraine-discussing-mega-arms-deal-with-us-zelenskyy-says)
+- [Albanese rules out holding Australian republic referendum while he is prime minister](https://www.theguardian.com/australia-news/2025/sep/28/albanese-rules-out-holding-australian-republic-referendum-while-he-is-prime-minister)
+- [Sweeping UN sanctions on Iran come into effect after nuclear talks fail](https://www.theguardian.com/world/2025/sep/28/sweeping-un-sanctions-on-iran-come-into-effect-after-nuclear-talks-fail)
+- [Trump news at a glance: Trump orders deployment of national guard to ‘war ravaged’ Portland](https://www.theguardian.com/us-news/2025/sep/28/trump-administration-news-updates-today)
+- [Europe seize high ground and 11½-4½ lead over USA into Ryder Cup singles](https://www.theguardian.com/sport/2025/sep/28/europe-seize-initiative-to-take-1112-412-lead-over-us-into-ryder-cup-singles)
+- [K-cure: South Korea’s booming market for traditional &lpar;and novel&rpar; hangover remedies](https://www.theguardian.com/world/2025/sep/28/south-korea-hangover-cures-booming-market-traditional-novel-remedies-k-cure)
+- [Wright shatters Leeds with last-gasp try to send St Helens into semi-final at Hull KR](https://www.theguardian.com/sport/2025/sep/27/leeds-st-helens-super-league-playoff-eliminator-match-report)
+- [Plan to build 12 new towns in England to be unveiled at Labour conference](https://www.theguardian.com/politics/2025/sep/27/plan-to-build-12-new-towns-in-england-to-be-unveiled-at-labour-conference)
+- [UK government will underwrite £1.5bn loan guarantee to Jaguar Land Rover after cyber-attack](https://www.theguardian.com/business/2025/sep/27/jaguar-land-rover-plans-to-restart-engine-manufacturing-in-early-october-report-says)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

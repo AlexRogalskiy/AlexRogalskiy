@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Defooocus AI Online – a free AI image generation tool](https://defooocusai.online)
-- [Times New Dumbass](https://timesnewdumbass.co/)
-- [Scientists want to treat complex bone fractures with a bone-healing gun](https://arstechnica.com/science/2025/09/scientists-want-to-treat-complex-bone-fractures-with-a-bone-healing-gun/)
-- [Exceptional Naming](https://kevlinhenney.medium.com/exceptional-naming-6e3c8f5bffac)
-- [Making an ASCII Animation](https://pierce.dev/notes/making-the-ghostty-animation/)
-- [Show HN: Yay Custom PKGBUILD Repositories Support local/Git/HTTP](https://github.com/Jguer/yay/pull/2681)
-- [AI investment bubble inflated by trio of dilemmas](https://www.reuters.com/commentary/breakingviews/ai-investment-bubble-inflated-by-trio-dilemmas-2025-09-25/)
-- [Eric Schmidt: Competing with China means sacrificing work-life balance](https://fortune.com/2025/09/25/ex-google-ceo-eric-schmidt-work-life-balance-remote-work-996/)
-- [GPT-OSS Reinforcement Learning](https://docs.unsloth.ai/new/gpt-oss-reinforcement-learning)
-- [New Neural Net Framework](https://github.com/adetrick/sequential)
+- [The QMA Singularity](https://scottaaronson.blog/?p=9183)
+- [What safeguards does the US have left to protect its democracy?](https://news.ycombinator.com/item?id=45401300)
+- [MiniMeshT: A tiny terminal chat client for Meshtastic. No protobufs, no bloat](https://github.com/allanrbo/MiniMeshT)
+- [What Problem Is DSPy Solving?](https://www.gojiberries.io/what-problemdspy-fixed-budgets-and-what-were-really-optimizing/)
+- [Speeding up Unreal Editor by not opening 5500 files](https://larstofus.com/2025/09/27/speeding-up-the-unreal-editor-launch-by-not-opening-5500-files/)
+- [Any thoughts about not accepting cards as payment to avoid chargebacks?](https://news.ycombinator.com/item?id=45401256)
+- [Why Google Faces a Court Reckoning on Its Advertising Tech](https://www.bloomberg.com/news/articles/2025-09-19/google-s-monopoly-in-advertising-tech-faces-court-reckoning)
+- [AI Cloud Firm Northern Data Raided by German Investigators](https://www.bloomberg.com/news/articles/2025-09-26/german-police-carry-out-raids-connected-to-northern-data)
+- [Update on the Next MCP Protocol Release](http://blog.modelcontextprotocol.io/posts/2025-09-26-mcp-next-version-update/)
+- [FerrumC – Reimplementation of the Minecraft server in Rust](https://github.com/ferrumc-rs/ferrumc)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The Obsessively Complete Infocom Catalog](https://eblong.com/infocom/)
-- [Show HN: Family Chess: Play across firewalls and Internet cultures](https://github.com/kelvinq/family-chess)
-- [Clean Hydrogen at a Crossroads: Why Methane Pyrolysis Deserves Attention](https://www.c2es.org/2025/09/clean-hydrogen-at-a-crossroads-why-methane-pyrolysis-deserves-attention/)
-- [New math revives geometry&#39;s oldest problems](https://www.quantamagazine.org/new-math-revives-geometrys-oldest-problems-20250926/)
-- [Why do we remember some life moments but not others?](https://www.bu.edu/articles/2025/why-do-we-remember-some-moments-but-not-others/)
-- [Thoughts on Mechanical Keyboards and the ZSA Moonlander](https://www.masteringemacs.org/article/thoughts-on-mechanical-keyboards-zsa-moonlander)
-- [Moondream 3 Preview: Frontier-level reasoning at a blazing speed](https://moondream.ai/blog/moondream-3-preview)
-- [Understanding RL for model training, and future directions with GRAPE](https://arxiv.org/abs/2509.04501)
-- [RNA structure prediction is hard. How much does that matter?](https://www.owlposting.com/p/rna-structure-prediction-is-hard)
-- [How insurance risk is transformed into investable assets](https://riskvest.io/riskvest-insights/transforming-insurance-risk)
+- [Enthusiasts bond twelve 56K modems together to set dial-up record: 668kbps](https://www.tomshardware.com/networking/enthusiasts-bond-twelve-56k-dial-up-modems-together-to-set-dial-up-broadband-records-a-dozen-screeching-boxes-achieve-record-668-kbps-download-speeds)
+- [UK government underwriting £1.5B loan to Jaguar Land Rover after cyber-attack](https://www.theguardian.com/business/2025/sep/27/jaguar-land-rover-plans-to-restart-engine-manufacturing-in-early-october-report-says)
+- [Reports: EA set to be sold to private investors for up to $50B](https://arstechnica.com/gaming/2025/09/reports-ea-set-to-be-sold-to-private-investors-for-up-to-50-billion/)
+- [Learn to Play Go](https://online-go.com/learn-to-play-go)
+- [Microwave weapon downs 49 drones with a single blast](https://newatlas.com/military/microwave-beam-anti-drone-weapon/)
+- [We reverse-engineered Flash Attention 4](https://modal.com/blog/reverse-engineer-flash-attention-4)
+- [When did human chromosome 2 fuse?&lpar;2023&rpar;](https://www.johnhawks.net/p/when-did-human-chromosome-2-fuse)
+- [Handy – Free open-source speech-to-text app written in Rust](https://handy.computer/)
+- [2025 Nikon Small World in Motion Competition Winners](https://www.nikonsmallworld.com/galleries/2025-small-world-in-motion-competition)
+- [LLM Observability in the Wild – Why OpenTelemetry Should Be the Standard](https://signoz.io/blog/llm-observability-opentelemetry/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

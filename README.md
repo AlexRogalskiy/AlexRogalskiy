@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [‘I don’t care’: Colombia president Petro hits back after US revokes his visa](https://www.theguardian.com/world/2025/sep/28/i-dont-care-colombia-president-petro-hits-back-after-us-revokes-his-visa)
-- [Ukraine war briefing: Ukraine discussing ‘mega’ arms deal with US, Zelenskyy says](https://www.theguardian.com/world/2025/sep/28/ukraine-war-briefing-ukraine-discussing-mega-arms-deal-with-us-zelenskyy-says)
-- [Albanese rules out holding Australian republic referendum while he is prime minister](https://www.theguardian.com/australia-news/2025/sep/28/albanese-rules-out-holding-australian-republic-referendum-while-he-is-prime-minister)
-- [Sweeping UN sanctions on Iran come into effect after nuclear talks fail](https://www.theguardian.com/world/2025/sep/28/sweeping-un-sanctions-on-iran-come-into-effect-after-nuclear-talks-fail)
-- [Trump news at a glance: Trump orders deployment of national guard to ‘war ravaged’ Portland](https://www.theguardian.com/us-news/2025/sep/28/trump-administration-news-updates-today)
-- [Europe seize high ground and 11½-4½ lead over USA into Ryder Cup singles](https://www.theguardian.com/sport/2025/sep/28/europe-seize-initiative-to-take-1112-412-lead-over-us-into-ryder-cup-singles)
-- [K-cure: South Korea’s booming market for traditional &lpar;and novel&rpar; hangover remedies](https://www.theguardian.com/world/2025/sep/28/south-korea-hangover-cures-booming-market-traditional-novel-remedies-k-cure)
-- [Wright shatters Leeds with last-gasp try to send St Helens into semi-final at Hull KR](https://www.theguardian.com/sport/2025/sep/27/leeds-st-helens-super-league-playoff-eliminator-match-report)
-- [Plan to build 12 new towns in England to be unveiled at Labour conference](https://www.theguardian.com/politics/2025/sep/27/plan-to-build-12-new-towns-in-england-to-be-unveiled-at-labour-conference)
-- [UK government will underwrite £1.5bn loan guarantee to Jaguar Land Rover after cyber-attack](https://www.theguardian.com/business/2025/sep/27/jaguar-land-rover-plans-to-restart-engine-manufacturing-in-early-october-report-says)
+- [US citizen Amir Amiry freed by Taliban in Afghanistan](https://www.theguardian.com/world/2025/sep/29/us-citizen-amir-amiry-freed-by-taliban-in-afghanistan)
+- [At least four dead and eight injured after shooting at Mormon church in Michigan](https://www.theguardian.com/us-news/2025/sep/28/mass-shootings-north-carolina-texas-new-orleans)
+- [Threatened kārearea falcon wins New Zealand’s 2025 bird of the year](https://www.theguardian.com/world/2025/sep/29/new-zealand-bird-of-the-year-2025-karearea-falcon-nz-winner)
+- [‘My kids are too scared to go outside’: Kurdish migrants face hostility as Japan wrestles with demographic crisis](https://www.theguardian.com/world/2025/sep/29/kurdish-migrants-japan-kurds-immigration)
+- [Ukraine war briefing: Zelenskyy urges west to cut off Russia’s energy revenues, saying decisive action ‘long overdue’](https://www.theguardian.com/world/2025/sep/29/ukraine-war-briefing-zelenskyy-urges-west-to-cut-off-russias-energy-revenues-saying-decisive-action-long-overdue)
+- [McIlroy condemns ‘unacceptable’ Ryder Cup abuse and reveals his wife was hit by a beer](https://www.theguardian.com/sport/2025/sep/29/rory-mcilroy-condemns-unacceptable-ryder-cup-abuse-and-reveals-his-wife-was-hit-by-a-beer)
+- [Isle of Wight festival increases profits despite fall in attendance](https://www.theguardian.com/business/2025/sep/28/isle-of-wight-festival-increases-profits-despite-fall-in-attendance)
+- [UK graduates and healthcare workers worst hit as jobs market ‘cools’](https://www.theguardian.com/money/2025/sep/29/uk-graduates-and-healthcare-workers-worst-hit-as-jobs-market-cools)
+- [European football: Koundé and Lewandowski on the mark in Barcelona’s comeback win](https://www.theguardian.com/football/2025/sep/28/european-football-barcelona-real-sociedad-milan-napoli)
+- [Lowry sinks putt that retains Ryder Cup for Europe as they hold off US comeback](https://www.theguardian.com/sport/2025/sep/28/lowry-sinks-putt-that-retains-ryder-cup-for-europe-as-they-hold-off-us-comeback)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

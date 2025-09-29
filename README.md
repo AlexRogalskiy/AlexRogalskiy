@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The QMA Singularity](https://scottaaronson.blog/?p=9183)
-- [What safeguards does the US have left to protect its democracy?](https://news.ycombinator.com/item?id=45401300)
-- [MiniMeshT: A tiny terminal chat client for Meshtastic. No protobufs, no bloat](https://github.com/allanrbo/MiniMeshT)
-- [What Problem Is DSPy Solving?](https://www.gojiberries.io/what-problemdspy-fixed-budgets-and-what-were-really-optimizing/)
-- [Speeding up Unreal Editor by not opening 5500 files](https://larstofus.com/2025/09/27/speeding-up-the-unreal-editor-launch-by-not-opening-5500-files/)
-- [Any thoughts about not accepting cards as payment to avoid chargebacks?](https://news.ycombinator.com/item?id=45401256)
-- [Why Google Faces a Court Reckoning on Its Advertising Tech](https://www.bloomberg.com/news/articles/2025-09-19/google-s-monopoly-in-advertising-tech-faces-court-reckoning)
-- [AI Cloud Firm Northern Data Raided by German Investigators](https://www.bloomberg.com/news/articles/2025-09-26/german-police-carry-out-raids-connected-to-northern-data)
-- [Update on the Next MCP Protocol Release](http://blog.modelcontextprotocol.io/posts/2025-09-26-mcp-next-version-update/)
-- [FerrumC – Reimplementation of the Minecraft server in Rust](https://github.com/ferrumc-rs/ferrumc)
+- [Cursor Learn](https://cursor.com/learn)
+- [Show HN: Eintercon – Global AI friendship experiment](https://www.eintercon.com/)
+- [Show HN: Eintercon – AI friendship experiments across 200 countries](https://apps.apple.com/app/eintercon/id6738729123)
+- [The Elusive Roots of Rosin Potatoes](https://bittersoutherner.com/feature/2022/the-elusive-roots-of-rosin-potatoes)
+- [America Isn&#39;t Pivoting to Natural Gas](https://www.distilled.earth/p/america-isnt-pivoting-to-natural)
+- [Setting up a DIY router using Fedora 41 and an old PC](https://discussion.fedoraproject.org/t/setting-up-a-diy-router-using-fedora-41-and-an-old-pc/144121)
+- [Opal: Build, edit and share mini-AI apps using natural language](https://opal.withgoogle.com/landing/)
+- [Extreme branchless: Expr without GADTs or sum-types](https://gautier.difolco.dev/2025-09/extreme-branchless-expr-fields/)
+- [Wan Animate – One-click AI text and image to video generation tool](https://wananimate.live/)
+- [F-Droid and Google&#39;s Developer Registration Decree](https://f-droid.org/2025/09/29/google-developer-registration-decree.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

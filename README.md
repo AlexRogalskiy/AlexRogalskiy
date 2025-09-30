@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Cursor Learn](https://cursor.com/learn)
-- [Show HN: Eintercon – Global AI friendship experiment](https://www.eintercon.com/)
-- [Show HN: Eintercon – AI friendship experiments across 200 countries](https://apps.apple.com/app/eintercon/id6738729123)
-- [The Elusive Roots of Rosin Potatoes](https://bittersoutherner.com/feature/2022/the-elusive-roots-of-rosin-potatoes)
-- [America Isn&#39;t Pivoting to Natural Gas](https://www.distilled.earth/p/america-isnt-pivoting-to-natural)
-- [Setting up a DIY router using Fedora 41 and an old PC](https://discussion.fedoraproject.org/t/setting-up-a-diy-router-using-fedora-41-and-an-old-pc/144121)
-- [Opal: Build, edit and share mini-AI apps using natural language](https://opal.withgoogle.com/landing/)
-- [Extreme branchless: Expr without GADTs or sum-types](https://gautier.difolco.dev/2025-09/extreme-branchless-expr-fields/)
-- [Wan Animate – One-click AI text and image to video generation tool](https://wananimate.live/)
-- [F-Droid and Google&#39;s Developer Registration Decree](https://f-droid.org/2025/09/29/google-developer-registration-decree.html)
+- [Samsung Galaxy Ring&#39;s battery swelling while on someone&#39;s finger](https://twitter.com/ZONEofTECH/status/1972664720642478478)
+- [An NPM package to show off recommendations](https://dalevross.rosssquared.org/blog/npx/2025/09/30/npx-pub-recs.html)
+- [Crashing Arizona&#39;s C2PA Pilot](https://www.hackerfactor.com/blog/index.php?/archives/1060-Crashing-Arizonas-C2PA-Pilot.html)
+- [How to Get ChatGPT and Perplexity to Index Your Shopify Store](https://sherocommerce.com/ai-seo-for-shopify/)
+- [TailscaleKit: Swift package providing an embedded network interface](https://github.com/tailscale/libtailscale/tree/main/swift)
+- [DeArrow](https://dearrow.ajay.app/)
+- [Show HN: Devbox – Containers for better dev environments &lpar;ar0.eu&rpar;](https://devbox.ar0.eu/)
+- [Prompt Engineering Is Requirements Engineering](https://www.oreilly.com/radar/prompt-engineering-is-requirements-engineering/)
+- [Research on Adpll for High-Precision Phase Measurement](https://www.mdpi.com/2073-8994/17/9/1487)
+- [Show HN: I made an all-in-one tool to understand why I lose customers](https://www.statflows.com/demo)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

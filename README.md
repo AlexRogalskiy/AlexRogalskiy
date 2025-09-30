@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Primer on FedEx&#39;s Distribution Network &lpar;2024&rpar;](https://ontheseams.substack.com/p/a-brief-primer-on-fedexs-distribution)
-- [Just nuked 120 unused NPM deps from a Nx monorepo](https://johnjames.blog/posts/cleaning-house-in-nx-monorepo-how-i-removed-120-unused-deps-safely)
-- [Health officials in the US are sounding the alarm over drug-resistant bacteria](https://www.aljazeera.com/news/2025/9/24/what-are-nightmare-bacteria-and-why-are-infections-rising-in-the-us)
-- [Use the Accept Header to Serve Markdown Instead of HTML to LLMs](https://www.skeptrune.com/posts/use-the-accept-header-to-serve-markdown-instead-of-html-to-llms/)
-- [Autism may be the price of human intelligence, linked to human brain evolution](https://academic.oup.com/mbe/article/42/9/msaf189/8245036?login=false)
-- [Go ahead, write the “stupid” code](https://spikepuppet.io/posts/write-the-stupid-code/)
-- [Farewell friends](https://humbledollar.com/forum/farewell-friends/)
-- [Play snake in the URL address bar](https://demian.ferrei.ro/snake/)
-- [Roe &lpar;YC W24&rpar; Is Hiring](https://news.ycombinator.com/item?id=45407951)
-- [C-sigma: Easy-to-use Sigma proofs in C using libsodium](https://github.com/jedisct1/c-sigma)
+- [FAA decides it trusts Boeing enough to certify safety of its own planes again](https://www.theregister.com/2025/09/29/faa_decides_it_trusts_boeing/)
+- [How to create an OS from scratch](https://github.com/cfenollosa/os-tutorial)
+- [Safe zero-copy operations in C#](https://ssg.dev/safe-zero-copy-operations-in-c/)
+- [Can LIGO Detect Daylight Savings Time?](https://arxiv.org/abs/2509.11849)
+- [Google to merge Android and ChromeOS in 2026](https://www.theregister.com/2025/09/25/google_android_chromeos/)
+- [Jax: Fast Combinations Calculation](https://github.com/phoenicyan/combinadics)
+- [Ask HN: What are you working on? &lpar;September 2025&rpar;](https://news.ycombinator.com/item?id=45418675)
+- [California governor signs AI transparency bill into law](https://www.gov.ca.gov/2025/09/29/governor-newsom-signs-sb-53-advancing-californias-world-leading-artificial-intelligence-industry/)
+- [iRobot Founder: Don&#39;t Believe the &lpar;AI and Robotics&rpar; Hype](https://crazystupidtech.com/2025/09/29/irobot-founder-dont-believe-the-ai-robotics-hype/)
+- [Diagnosing a Linux Performance Regression](https://automattic.com/2024/03/14/systems-report-linux-performance-regression/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

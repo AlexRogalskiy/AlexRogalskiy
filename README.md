@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [US citizen Amir Amiry freed by Taliban in Afghanistan](https://www.theguardian.com/world/2025/sep/29/us-citizen-amir-amiry-freed-by-taliban-in-afghanistan)
-- [At least four dead and eight injured after shooting at Mormon church in Michigan](https://www.theguardian.com/us-news/2025/sep/28/mass-shootings-north-carolina-texas-new-orleans)
-- [Threatened kārearea falcon wins New Zealand’s 2025 bird of the year](https://www.theguardian.com/world/2025/sep/29/new-zealand-bird-of-the-year-2025-karearea-falcon-nz-winner)
-- [‘My kids are too scared to go outside’: Kurdish migrants face hostility as Japan wrestles with demographic crisis](https://www.theguardian.com/world/2025/sep/29/kurdish-migrants-japan-kurds-immigration)
-- [Ukraine war briefing: Zelenskyy urges west to cut off Russia’s energy revenues, saying decisive action ‘long overdue’](https://www.theguardian.com/world/2025/sep/29/ukraine-war-briefing-zelenskyy-urges-west-to-cut-off-russias-energy-revenues-saying-decisive-action-long-overdue)
-- [McIlroy condemns ‘unacceptable’ Ryder Cup abuse and reveals his wife was hit by a beer](https://www.theguardian.com/sport/2025/sep/29/rory-mcilroy-condemns-unacceptable-ryder-cup-abuse-and-reveals-his-wife-was-hit-by-a-beer)
-- [Isle of Wight festival increases profits despite fall in attendance](https://www.theguardian.com/business/2025/sep/28/isle-of-wight-festival-increases-profits-despite-fall-in-attendance)
-- [UK graduates and healthcare workers worst hit as jobs market ‘cools’](https://www.theguardian.com/money/2025/sep/29/uk-graduates-and-healthcare-workers-worst-hit-as-jobs-market-cools)
-- [European football: Koundé and Lewandowski on the mark in Barcelona’s comeback win](https://www.theguardian.com/football/2025/sep/28/european-football-barcelona-real-sociedad-milan-napoli)
-- [Lowry sinks putt that retains Ryder Cup for Europe as they hold off US comeback](https://www.theguardian.com/sport/2025/sep/28/lowry-sinks-putt-that-retains-ryder-cup-for-europe-as-they-hold-off-us-comeback)
+- [Shane Christie sustained multiple head injuries playing rugby. In death, he is still fighting for change](https://www.theguardian.com/world/2025/sep/30/shane-christie-sustained-multiple-head-injuries-playing-rugby-fighting-for-change)
+- [Ukraine war briefing: Europe ‘no longer at peace’ with Russia, says German chancellor](https://www.theguardian.com/world/2025/sep/30/ukraine-war-briefing-europe-no-longer-at-peace-with-russia-says-german-chancellor)
+- [China court sentences 11 people to death over alleged role in family-run Myanmar scam operations](https://www.theguardian.com/world/2025/sep/30/china-court-sentences-11-people-to-death-over-alleged-role-in-family-run-myanmar-scam-operations)
+- [California police stumped after trying to ticket driverless car for illegal U-turn](https://www.theguardian.com/technology/2025/sep/29/waymo-illegal-u-turn-driverless-car)
+- [Release date set as The Simpsons movie returns for sequel after two decades](https://www.theguardian.com/tv-and-radio/2025/sep/30/the-simpsons-movie-2-sequel-release-date-returns-2027)
+- [YouTube agrees to pay Trump $24.5m to settle lawsuit over account suspension](https://www.theguardian.com/technology/2025/sep/29/youtube-trump-lawsuit-settlement)
+- [World’s major cities hit by 25% leap in extremely hot days since the 1990s](https://www.theguardian.com/environment/2025/sep/30/worlds-major-cities-hit-by-25-leap-in-extremely-hot-days-since-the-1990s)
+- [Nicole Kidman and Keith Urban split after 19 years](https://www.theguardian.com/film/2025/sep/30/nicole-kidman-and-keith-urban-split-separated)
+- [Retailers say tax rises could further fuel inflation as shop prices jump](https://www.theguardian.com/business/2025/sep/30/retailers-tax-rises-further-fuel-inflation-shop-prices-jump)
+- [Trump talks with Democrats fail to yield breakthrough as US shutdown nears](https://www.theguardian.com/us-news/2025/sep/29/trump-meeting-democrats-republicans-shutdown-tensions)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Samsung Galaxy Ring&#39;s battery swelling while on someone&#39;s finger](https://twitter.com/ZONEofTECH/status/1972664720642478478)
-- [An NPM package to show off recommendations](https://dalevross.rosssquared.org/blog/npx/2025/09/30/npx-pub-recs.html)
-- [Crashing Arizona&#39;s C2PA Pilot](https://www.hackerfactor.com/blog/index.php?/archives/1060-Crashing-Arizonas-C2PA-Pilot.html)
-- [How to Get ChatGPT and Perplexity to Index Your Shopify Store](https://sherocommerce.com/ai-seo-for-shopify/)
-- [TailscaleKit: Swift package providing an embedded network interface](https://github.com/tailscale/libtailscale/tree/main/swift)
-- [DeArrow](https://dearrow.ajay.app/)
-- [Show HN: Devbox – Containers for better dev environments &lpar;ar0.eu&rpar;](https://devbox.ar0.eu/)
-- [Prompt Engineering Is Requirements Engineering](https://www.oreilly.com/radar/prompt-engineering-is-requirements-engineering/)
-- [Research on Adpll for High-Precision Phase Measurement](https://www.mdpi.com/2073-8994/17/9/1487)
-- [Show HN: I made an all-in-one tool to understand why I lose customers](https://www.statflows.com/demo)
+- [The Cybersecurity Information Sharing Act &lpar;CISA&rpar; Faces Expiration](https://www.securityweek.com/the-cybersecurity-information-sharing-act-faces-expiration/)
+- [Tried out Sora2 a bit, and it&#39;s pretty awesome](https://nano-banana.pro/sora2-video-generation)
+- [An Age of AI Enlightenment](https://xiangfu.co/science)
+- [Sora 2 Video Examples](https://veo3.directory/sora2-video)
+- [CDC File Transfer](https://github.com/google/cdc-file-transfer)
+- [Show HN: Soraapp.org – AI video showcase from Sora, Veo, Genie 2](https://soraapp.org)
+- [The mini smartphones from Japan you&#39;ve never heard about [video]](https://www.youtube.com/watch?v=_e27TfHibTg)
+- [Polymer ink fine-tunes water flow, boosts ethylene yield and cuts energy costs](https://phys.org/news/2025-09-polymer-ink-fine-tunes-boosting.html)
+- [Unpopular opinion: User-facing Software Updates are Bad](https://news.ycombinator.com/item?id=45433726)
+- [Bó Hoa Sáp SắC Hoa Em Hồng HS802](https://news.ycombinator.com/item?id=45433717)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Shane Christie sustained multiple head injuries playing rugby. In death, he is still fighting for change](https://www.theguardian.com/world/2025/sep/30/shane-christie-sustained-multiple-head-injuries-playing-rugby-fighting-for-change)
-- [Ukraine war briefing: Europe ‘no longer at peace’ with Russia, says German chancellor](https://www.theguardian.com/world/2025/sep/30/ukraine-war-briefing-europe-no-longer-at-peace-with-russia-says-german-chancellor)
-- [China court sentences 11 people to death over alleged role in family-run Myanmar scam operations](https://www.theguardian.com/world/2025/sep/30/china-court-sentences-11-people-to-death-over-alleged-role-in-family-run-myanmar-scam-operations)
-- [California police stumped after trying to ticket driverless car for illegal U-turn](https://www.theguardian.com/technology/2025/sep/29/waymo-illegal-u-turn-driverless-car)
-- [Release date set as The Simpsons movie returns for sequel after two decades](https://www.theguardian.com/tv-and-radio/2025/sep/30/the-simpsons-movie-2-sequel-release-date-returns-2027)
-- [YouTube agrees to pay Trump $24.5m to settle lawsuit over account suspension](https://www.theguardian.com/technology/2025/sep/29/youtube-trump-lawsuit-settlement)
-- [World’s major cities hit by 25% leap in extremely hot days since the 1990s](https://www.theguardian.com/environment/2025/sep/30/worlds-major-cities-hit-by-25-leap-in-extremely-hot-days-since-the-1990s)
-- [Nicole Kidman and Keith Urban split after 19 years](https://www.theguardian.com/film/2025/sep/30/nicole-kidman-and-keith-urban-split-separated)
-- [Retailers say tax rises could further fuel inflation as shop prices jump](https://www.theguardian.com/business/2025/sep/30/retailers-tax-rises-further-fuel-inflation-shop-prices-jump)
-- [Trump talks with Democrats fail to yield breakthrough as US shutdown nears](https://www.theguardian.com/us-news/2025/sep/29/trump-meeting-democrats-republicans-shutdown-tensions)
+- [Taiwan now biggest importer of Russian naphtha despite being Ukraine ally](https://www.theguardian.com/world/2025/oct/01/taiwan-biggest-importer-russian-naphtha-despite-ukraine-ally-report)
+- [Ukraine war briefing: Estonia warns of Putin distraction tactics as EU leaders meet to discuss ‘drone wall’](https://www.theguardian.com/world/2025/oct/01/ukraine-war-briefing-estonia-warns-of-putin-distraction-tactics-as-eu-leaders-meet-to-discuss-drone-wall)
+- [Philippines earthquake: dozens dead as rescuers search through wreckage](https://www.theguardian.com/world/2025/sep/30/central-philippines-hit-by-powerful-earthquake)
+- [US on brink of government shutdown after Senate rejects funding plans](https://www.theguardian.com/us-news/2025/sep/30/us-government-shutdown-congress-trump-republicans)
+- [Indonesia school collapse: 91 missing and three dead as rescuers search rubble for second day](https://www.theguardian.com/world/2025/oct/01/indonesia-school-collapse-rescue-search-update-al-khoziny-building-sidoarjo)
+- [Trump news at a glance: Shutdown a chance to ‘get rid of a lot of things we didn’t want’, says president](https://www.theguardian.com/us-news/2025/oct/01/trump-administration-news-updates-today-latest)
+- [US comedians defend decision to play in Saudi Arabia: ‘They’re paying me enough to look the other way’](https://www.theguardian.com/culture/2025/sep/30/riyadh-comedy-festival-saudi-arabia)
+- [Uncertainty lingers over US national parks as government shutdown looms](https://www.theguardian.com/us-news/2025/sep/30/us-national-parks-government-shutdown)
+- [Lola Young cancels all upcoming gigs to ‘go away for a while’ after collapsing on stage](https://www.theguardian.com/music/2025/oct/01/lola-young-cancels-shows-tour-after-collapse-on-stage)
+- [Buy now, pay later use exploding among older Britons, data shows](https://www.theguardian.com/business/2025/oct/01/buy-now-pay-later-uk-finance)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

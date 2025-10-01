@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [FAA decides it trusts Boeing enough to certify safety of its own planes again](https://www.theregister.com/2025/09/29/faa_decides_it_trusts_boeing/)
-- [How to create an OS from scratch](https://github.com/cfenollosa/os-tutorial)
-- [Safe zero-copy operations in C#](https://ssg.dev/safe-zero-copy-operations-in-c/)
-- [Can LIGO Detect Daylight Savings Time?](https://arxiv.org/abs/2509.11849)
-- [Google to merge Android and ChromeOS in 2026](https://www.theregister.com/2025/09/25/google_android_chromeos/)
-- [Jax: Fast Combinations Calculation](https://github.com/phoenicyan/combinadics)
-- [Ask HN: What are you working on? &lpar;September 2025&rpar;](https://news.ycombinator.com/item?id=45418675)
-- [California governor signs AI transparency bill into law](https://www.gov.ca.gov/2025/09/29/governor-newsom-signs-sb-53-advancing-californias-world-leading-artificial-intelligence-industry/)
-- [iRobot Founder: Don&#39;t Believe the &lpar;AI and Robotics&rpar; Hype](https://crazystupidtech.com/2025/09/29/irobot-founder-dont-believe-the-ai-robotics-hype/)
-- [Diagnosing a Linux Performance Regression](https://automattic.com/2024/03/14/systems-report-linux-performance-regression/)
+- [A requiem for a dying operating system &lpar;1994&rpar;](https://user.eng.umd.edu/~blj/funny/requium.html)
+- [Rio Terminal: A hardware-accelerated GPU terminal emulator](https://rioterm.com/)
+- [Introduction to Multi-Armed Bandits &lpar;2019&rpar;](https://arxiv.org/abs/1904.07272)
+- [Mind the encryptionroot: How to save your data when ZFS loses its mind](https://sambowman.tech/blog/posts/mind-the-encryptionroot-how-to-save-your-data-when-zfs-loses-its-mind/)
+- [Atuin Desktop: Runbooks That Run – Now Open Source](https://blog.atuin.sh/atuin-desktop-open-source/)
+- [Diff Algorithms](https://flo.znkr.io/diff/)
+- [Organize your Slack channels by &quot;How Often&quot;, not &quot;What&quot;](https://aggressivelyparaphrasing.me/2025/09/30/organize-your-slack-channels-by-how-often-not-what/)
+- [Inflammation now predicts heart disease more strongly than cholesterol](https://www.empirical.health/blog/inflammation-and-heart-health/)
+- [Making sure AI serves people and knowledge stays human](https://diff.wikimedia.org/2025/09/30/making-sure-ai-serves-people-and-knowledge-stays-human-wikimedia-foundation-publishes-a-human-rights-impact-assessment-on-the-interaction-of-ai-and-machine-learning-with-wikimedia-projects/)
+- [Boeing has started working on a 737 MAX replacement](https://www.wsj.com/business/airlines/boeing-has-started-working-on-a-737-max-replacement-40a110df)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

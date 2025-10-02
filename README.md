@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Cybersecurity Information Sharing Act &lpar;CISA&rpar; Faces Expiration](https://www.securityweek.com/the-cybersecurity-information-sharing-act-faces-expiration/)
-- [Tried out Sora2 a bit, and it&#39;s pretty awesome](https://nano-banana.pro/sora2-video-generation)
-- [An Age of AI Enlightenment](https://xiangfu.co/science)
-- [Sora 2 Video Examples](https://veo3.directory/sora2-video)
-- [CDC File Transfer](https://github.com/google/cdc-file-transfer)
-- [Show HN: Soraapp.org – AI video showcase from Sora, Veo, Genie 2](https://soraapp.org)
-- [The mini smartphones from Japan you&#39;ve never heard about [video]](https://www.youtube.com/watch?v=_e27TfHibTg)
-- [Polymer ink fine-tunes water flow, boosts ethylene yield and cuts energy costs](https://phys.org/news/2025-09-polymer-ink-fine-tunes-boosting.html)
-- [Unpopular opinion: User-facing Software Updates are Bad](https://news.ycombinator.com/item?id=45433726)
-- [Bó Hoa Sáp SắC Hoa Em Hồng HS802](https://news.ycombinator.com/item?id=45433717)
+- [Dynamic Denial of Crawlers](https://overengineer.dev/blog/2025/07/11/dynamic-denial-of-crawlers/)
+- [Verify Identities During Self-Service Registration](https://fusionauth.io/blog/identity-verification-before-registration)
+- [Does Your Backyard Need a Stegosaurus?](https://www.nytimes.com/2025/10/01/nyregion/new-jersey-dinosaur-sale.html)
+- [The Fatima Sun Miracle: More Than You Wanted to Know](https://www.astralcodexten.com/p/the-fatima-sun-miracle-much-more)
+- [Network State, or a Network of States?](https://www.noahpinion.blog/p/network-state-or-a-network-of-states)
+- [Alcohol in Early America](https://everything-everywhere.com/alcohol-in-early-america/)
+- [Computers that want things: The search for Artificial General Intelligence](https://www.lrb.co.uk/the-paper/v47/n18/james-meek/computers-that-want-things)
+- [Foldit](https://en.wikipedia.org/wiki/Foldit)
+- [China&#39;s Gen Z](https://www.lrb.co.uk/the-paper/v47/n18/yun-sheng/short-cuts)
+- [Substack is a social media app](https://post.substack.com/p/substack-is-a-social-media-app)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

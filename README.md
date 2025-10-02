@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Taiwan now biggest importer of Russian naphtha despite being Ukraine ally](https://www.theguardian.com/world/2025/oct/01/taiwan-biggest-importer-russian-naphtha-despite-ukraine-ally-report)
-- [Ukraine war briefing: Estonia warns of Putin distraction tactics as EU leaders meet to discuss ‘drone wall’](https://www.theguardian.com/world/2025/oct/01/ukraine-war-briefing-estonia-warns-of-putin-distraction-tactics-as-eu-leaders-meet-to-discuss-drone-wall)
-- [Philippines earthquake: dozens dead as rescuers search through wreckage](https://www.theguardian.com/world/2025/sep/30/central-philippines-hit-by-powerful-earthquake)
-- [US on brink of government shutdown after Senate rejects funding plans](https://www.theguardian.com/us-news/2025/sep/30/us-government-shutdown-congress-trump-republicans)
-- [Indonesia school collapse: 91 missing and three dead as rescuers search rubble for second day](https://www.theguardian.com/world/2025/oct/01/indonesia-school-collapse-rescue-search-update-al-khoziny-building-sidoarjo)
-- [Trump news at a glance: Shutdown a chance to ‘get rid of a lot of things we didn’t want’, says president](https://www.theguardian.com/us-news/2025/oct/01/trump-administration-news-updates-today-latest)
-- [US comedians defend decision to play in Saudi Arabia: ‘They’re paying me enough to look the other way’](https://www.theguardian.com/culture/2025/sep/30/riyadh-comedy-festival-saudi-arabia)
-- [Uncertainty lingers over US national parks as government shutdown looms](https://www.theguardian.com/us-news/2025/sep/30/us-national-parks-government-shutdown)
-- [Lola Young cancels all upcoming gigs to ‘go away for a while’ after collapsing on stage](https://www.theguardian.com/music/2025/oct/01/lola-young-cancels-shows-tour-after-collapse-on-stage)
-- [Buy now, pay later use exploding among older Britons, data shows](https://www.theguardian.com/business/2025/oct/01/buy-now-pay-later-uk-finance)
+- [Israeli naval forces board pro-Palestinian flotilla 75 miles from Gaza](https://www.theguardian.com/world/2025/oct/01/israeli-military-vessels-pro-palestinian-flotilla-gaza)
+- [Ukraine war briefing: Attack cutting power to Chornobyl nuclear plant a ‘global threat’, says Zelenskyy](https://www.theguardian.com/world/2025/oct/02/ukraine-war-briefing-attack-cutting-power-to-chornobyl-nuclear-plant-a-global-threat-says-zelenskyy)
+- [Trump signs order promising measures, including military, to defend Qatar](https://www.theguardian.com/us-news/2025/oct/01/trump-order-qatar-military-defense)
+- [Nirvana again defeats alleged child sexual abuse image lawsuit over Nevermind cover](https://www.theguardian.com/music/2025/oct/02/nirvana-nevermind-cover-alleged-child-sexual-abuse-image-spencer-elden-lawsuit-defeated-again)
+- [Vanuatu open to signing deal with Australia but will not be subject to ‘bullying’ from larger countries](https://www.theguardian.com/world/2025/oct/02/vanuatu-open-to-signing-deal-with-australia-but-will-not-be-subject-to-bullying-from-larger-countries)
+- [Mushroom murderer Erin Patterson will appeal against her convictions, court told](https://www.theguardian.com/australia-news/2025/oct/02/mushroom-murderer-erin-patterson-will-appeal-her-convictions-court-told-ntwnfb)
+- [Nearly 100 years after her death, Oxford’s first female Indigenous scholar honoured](https://www.theguardian.com/world/2025/oct/02/makereti-papakura-100-years-oxford-university-first-female-indigenous-scholar-honoured)
+- [‘Horny wolves, eunuchs and pirates’ among Baillie Gifford prize shortlist subjects](https://www.theguardian.com/books/2025/oct/02/horny-wolves-eunuchs-and-pirates-among-baillie-gifford-prize-shortlist-subjects)
+- [Gym bros, monks, retirees: thousands descend on Taiwan town to clean up after devastating flood](https://www.theguardian.com/world/2025/oct/02/thousands-descend-taiwan-town-clean-up-after-devastating-flood--gym-bros-monks-retirees)
+- [Sunbeds should be banned in UK, skin cancer experts say](https://www.theguardian.com/society/2025/oct/01/sunbeds-banned-tanning-uk-skin-cancer-experts-melanoma)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [A requiem for a dying operating system &lpar;1994&rpar;](https://user.eng.umd.edu/~blj/funny/requium.html)
-- [Rio Terminal: A hardware-accelerated GPU terminal emulator](https://rioterm.com/)
-- [Introduction to Multi-Armed Bandits &lpar;2019&rpar;](https://arxiv.org/abs/1904.07272)
-- [Mind the encryptionroot: How to save your data when ZFS loses its mind](https://sambowman.tech/blog/posts/mind-the-encryptionroot-how-to-save-your-data-when-zfs-loses-its-mind/)
-- [Atuin Desktop: Runbooks That Run – Now Open Source](https://blog.atuin.sh/atuin-desktop-open-source/)
-- [Diff Algorithms](https://flo.znkr.io/diff/)
-- [Organize your Slack channels by &quot;How Often&quot;, not &quot;What&quot;](https://aggressivelyparaphrasing.me/2025/09/30/organize-your-slack-channels-by-how-often-not-what/)
-- [Inflammation now predicts heart disease more strongly than cholesterol](https://www.empirical.health/blog/inflammation-and-heart-health/)
-- [Making sure AI serves people and knowledge stays human](https://diff.wikimedia.org/2025/09/30/making-sure-ai-serves-people-and-knowledge-stays-human-wikimedia-foundation-publishes-a-human-rights-impact-assessment-on-the-interaction-of-ai-and-machine-learning-with-wikimedia-projects/)
-- [Boeing has started working on a 737 MAX replacement](https://www.wsj.com/business/airlines/boeing-has-started-working-on-a-737-max-replacement-40a110df)
+- [The biggest semantic mess in Futhark](https://futhark-lang.org/blog/2025-09-26-the-biggest-semantic-mess.html)
+- [Keyhive](https://www.inkandswitch.com/keyhive/notebook/)
+- [Cormac McCarthy&#39;s personal library](https://www.smithsonianmag.com/arts-culture/two-years-cormac-mccarthys-death-rare-access-to-personal-library-reveals-man-behind-myth-180987150/)
+- [Egg-Shaped Curves &lpar;2007&rpar;](https://nyjp07.com/index_egg_E.html)
+- [Edge264 – Minimalist, high-performance software decoder for H.264/AVC video](https://github.com/tvlabs/edge264)
+- [DARPA project for automated translation from C to Rust &lpar;2024&rpar;](https://www.darpa.mil/news/2024/memory-safety-vulnerabilities)
+- [The Company Man](https://www.lesswrong.com/posts/JH6tJhYpnoCfFqAct/the-company-man)
+- [Evaluating the impact of AI on the labor market: Current state of affairs](https://budgetlab.yale.edu/research/evaluating-impact-ai-labor-market-current-state-affairs)
+- [Increasing your practice surface area](https://www.indiehackers.com/post/lifestyle/increasing-your-practice-surface-area-agxYGi9bL0gd1WYYQZAu)
+- [Announcing Tinker](https://thinkingmachines.ai/blog/announcing-tinker/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

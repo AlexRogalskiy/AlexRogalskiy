@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Israeli naval forces board pro-Palestinian flotilla 75 miles from Gaza](https://www.theguardian.com/world/2025/oct/01/israeli-military-vessels-pro-palestinian-flotilla-gaza)
-- [Ukraine war briefing: Attack cutting power to Chornobyl nuclear plant a ‘global threat’, says Zelenskyy](https://www.theguardian.com/world/2025/oct/02/ukraine-war-briefing-attack-cutting-power-to-chornobyl-nuclear-plant-a-global-threat-says-zelenskyy)
-- [Trump signs order promising measures, including military, to defend Qatar](https://www.theguardian.com/us-news/2025/oct/01/trump-order-qatar-military-defense)
-- [Nirvana again defeats alleged child sexual abuse image lawsuit over Nevermind cover](https://www.theguardian.com/music/2025/oct/02/nirvana-nevermind-cover-alleged-child-sexual-abuse-image-spencer-elden-lawsuit-defeated-again)
-- [Vanuatu open to signing deal with Australia but will not be subject to ‘bullying’ from larger countries](https://www.theguardian.com/world/2025/oct/02/vanuatu-open-to-signing-deal-with-australia-but-will-not-be-subject-to-bullying-from-larger-countries)
-- [Mushroom murderer Erin Patterson will appeal against her convictions, court told](https://www.theguardian.com/australia-news/2025/oct/02/mushroom-murderer-erin-patterson-will-appeal-her-convictions-court-told-ntwnfb)
-- [Nearly 100 years after her death, Oxford’s first female Indigenous scholar honoured](https://www.theguardian.com/world/2025/oct/02/makereti-papakura-100-years-oxford-university-first-female-indigenous-scholar-honoured)
-- [‘Horny wolves, eunuchs and pirates’ among Baillie Gifford prize shortlist subjects](https://www.theguardian.com/books/2025/oct/02/horny-wolves-eunuchs-and-pirates-among-baillie-gifford-prize-shortlist-subjects)
-- [Gym bros, monks, retirees: thousands descend on Taiwan town to clean up after devastating flood](https://www.theguardian.com/world/2025/oct/02/thousands-descend-taiwan-town-clean-up-after-devastating-flood--gym-bros-monks-retirees)
-- [Sunbeds should be banned in UK, skin cancer experts say](https://www.theguardian.com/society/2025/oct/01/sunbeds-banned-tanning-uk-skin-cancer-experts-melanoma)
+- [Combs pleads with judge in letter before sentencing, saying he was ‘reborn’ in jail](https://www.theguardian.com/music/2025/oct/02/sean-combs-letter-sentencing)
+- [Six minutes of terror: how Manchester synagogue attack unfolded](https://www.theguardian.com/uk-news/2025/oct/02/six-minutes-of-terror-how-manchester-synagogue-attack-unfolded)
+- [PGA of America president belatedly admits US Ryder Cup fans ‘crossed line’ with abuse](https://www.theguardian.com/sport/2025/oct/02/pga-of-america-president-belatedly-admits-us-ryder-cup-fans-crossed-line-with-abuse)
+- [Manchester attack: two killed and three injured after terrorist drives into grounds of synagogue and stabs worshippers](https://www.theguardian.com/uk-news/2025/oct/02/police-at-scene-of-reported-stabbing-at-synagogue-in-manchester)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2025/oct/03/premier-league-10-things-to-look-out-for-this-weekend)
+- [Prince William describes agenda of ‘change for the good’ when king](https://www.theguardian.com/uk-news/2025/oct/02/prince-william-eugene-levy-relucant-traveler-change-agenda-when-king)
+- [Call to allow ‘safe and effective’ at-home abortions up to 12 weeks in UK](https://www.theguardian.com/world/2025/oct/02/call-allow-safe-effective-home-abortions-12-weeks-uk)
+- [‘Planetary health diet’ could save 40,000 deaths a day, landmark report finds](https://www.theguardian.com/environment/2025/oct/02/planetary-health-diet-could-save-40000-deaths-a-day-landmark-report-finds)
+- [California vows to ‘instantly’ cut funding to universities that cave to Trump ‘compact’](https://www.theguardian.com/us-news/2025/oct/02/california-university-funding-trump-compact)
+- [Reform UK council in Nottinghamshire ends ban on local journalists](https://www.theguardian.com/media/2025/oct/02/reform-uk-council-in-nottinghamshire-ends-ban-on-local-journalists)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

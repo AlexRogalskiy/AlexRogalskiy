@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Dynamic Denial of Crawlers](https://overengineer.dev/blog/2025/07/11/dynamic-denial-of-crawlers/)
-- [Verify Identities During Self-Service Registration](https://fusionauth.io/blog/identity-verification-before-registration)
-- [Does Your Backyard Need a Stegosaurus?](https://www.nytimes.com/2025/10/01/nyregion/new-jersey-dinosaur-sale.html)
-- [The Fatima Sun Miracle: More Than You Wanted to Know](https://www.astralcodexten.com/p/the-fatima-sun-miracle-much-more)
-- [Network State, or a Network of States?](https://www.noahpinion.blog/p/network-state-or-a-network-of-states)
-- [Alcohol in Early America](https://everything-everywhere.com/alcohol-in-early-america/)
-- [Computers that want things: The search for Artificial General Intelligence](https://www.lrb.co.uk/the-paper/v47/n18/james-meek/computers-that-want-things)
-- [Foldit](https://en.wikipedia.org/wiki/Foldit)
-- [China&#39;s Gen Z](https://www.lrb.co.uk/the-paper/v47/n18/yun-sheng/short-cuts)
-- [Substack is a social media app](https://post.substack.com/p/substack-is-a-social-media-app)
+- [Writing for Longevity versus Reach](https://dri.es/writing-for-longevity-versus-reach)
+- [Bó Hoa Tiền Dáng Đứng Xinh HT990](https://news.ycombinator.com/item?id=45458304)
+- [Why &quot;Everyone Dies&quot; Gets AGI All Wrong](https://bengoertzel.substack.com/p/why-everyone-dies-gets-agi-all-wrong)
+- [Stdlib: A library of frameworks, templates, and guides for technical leadership](https://debuggingleadership.com/stdlib)
+- [Catalytic converters are simple, but getting them to work is not [video]](https://www.youtube.com/watch?v=Aytf6ARcs8s)
+- [Jujutsu v0.34.0 Released](https://github.com/jj-vcs/jj/releases/tag/v0.34.0)
+- [Building an open source Motorized Camera Slider [video]](https://www.youtube.com/watch?v=eMA7P84G4EA)
+- [Vote in the 2025 Non-Book Review Contest](https://www.astralcodexten.com/p/vote-in-the-2025-non-book-review)
+- [UTF-8, Explained Simply](https://www.youtube.com/watch?v=vpSkBV5vydg)
+- [Learning Smalltalk can improve your skills as a programmer](https://blogs.opentext.com/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

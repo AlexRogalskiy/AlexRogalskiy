@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The biggest semantic mess in Futhark](https://futhark-lang.org/blog/2025-09-26-the-biggest-semantic-mess.html)
-- [Keyhive](https://www.inkandswitch.com/keyhive/notebook/)
-- [Cormac McCarthy&#39;s personal library](https://www.smithsonianmag.com/arts-culture/two-years-cormac-mccarthys-death-rare-access-to-personal-library-reveals-man-behind-myth-180987150/)
-- [Egg-Shaped Curves &lpar;2007&rpar;](https://nyjp07.com/index_egg_E.html)
-- [Edge264 – Minimalist, high-performance software decoder for H.264/AVC video](https://github.com/tvlabs/edge264)
-- [DARPA project for automated translation from C to Rust &lpar;2024&rpar;](https://www.darpa.mil/news/2024/memory-safety-vulnerabilities)
-- [The Company Man](https://www.lesswrong.com/posts/JH6tJhYpnoCfFqAct/the-company-man)
-- [Evaluating the impact of AI on the labor market: Current state of affairs](https://budgetlab.yale.edu/research/evaluating-impact-ai-labor-market-current-state-affairs)
-- [Increasing your practice surface area](https://www.indiehackers.com/post/lifestyle/increasing-your-practice-surface-area-agxYGi9bL0gd1WYYQZAu)
-- [Announcing Tinker](https://thinkingmachines.ai/blog/announcing-tinker/)
+- [Claude Is Down](https://status.claude.com)
+- [We Gave Our AI Agents Twitter and Now They&#39;re Demanding Lambos](https://harper.blog/2025/09/30/ai-agents-social-media-performance-lambo-doomscrolling/)
+- [Microcomputers – The Second Wave: Toward a Mass Market](https://technicshistory.com/2025/10/03/microcomputers-the-second-wave-towards-a-mass-market/)
+- [Researchers develop molecular qubits that communicate at telecom frequencies](https://chicagoquantum.org/news/researchers-develop-molecular-qubits-communicate-telecom-frequencies)
+- [Apple takes down ICE tracking apps after pressure from DOJ](https://www.foxbusiness.com/politics/apple-takes-down-ice-tracking-app-after-pressure-from-ag-bondi)
+- [Self-supervised learning, JEPA, world models, and the future of AI [video]](https://www.youtube.com/watch?v=yUmDRxV0krg)
+- [The strangest letter of the alphabet: The rise and fall of yogh](https://www.deadlanguagesociety.com/p/history-of-letter-yogh)
+- [Anti-aging breakthrough: Stem cells reverse signs of aging in monkeys](https://www.nad.com/news/anti-aging-breakthrough-stem-cells-reverse-signs-of-aging-in-monkeys)
+- [Why most product planning is bad and what to do about it](https://blog.railway.com/p/product-planning-improvement)
+- [OpenAI&#39;s H1 2025: $4.3B in income, $13.5B in loss](https://www.techinasia.com/news/openais-revenue-rises-16-to-4-3b-in-h1-2025)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Writing for Longevity versus Reach](https://dri.es/writing-for-longevity-versus-reach)
-- [Bó Hoa Tiền Dáng Đứng Xinh HT990](https://news.ycombinator.com/item?id=45458304)
-- [Why &quot;Everyone Dies&quot; Gets AGI All Wrong](https://bengoertzel.substack.com/p/why-everyone-dies-gets-agi-all-wrong)
-- [Stdlib: A library of frameworks, templates, and guides for technical leadership](https://debuggingleadership.com/stdlib)
-- [Catalytic converters are simple, but getting them to work is not [video]](https://www.youtube.com/watch?v=Aytf6ARcs8s)
-- [Jujutsu v0.34.0 Released](https://github.com/jj-vcs/jj/releases/tag/v0.34.0)
-- [Building an open source Motorized Camera Slider [video]](https://www.youtube.com/watch?v=eMA7P84G4EA)
-- [Vote in the 2025 Non-Book Review Contest](https://www.astralcodexten.com/p/vote-in-the-2025-non-book-review)
-- [UTF-8, Explained Simply](https://www.youtube.com/watch?v=vpSkBV5vydg)
-- [Learning Smalltalk can improve your skills as a programmer](https://blogs.opentext.com/)
+- [TEtrimmer: A tool to automate the manual curation of transposable elements](https://www.nature.com/articles/s41467-025-63889-y)
+- [Free Sora Generator – No Pay and No Credit Card and Need Login](https://FreeSoraGenerator.com)
+- [Ask HN: What&#39;s your toxic co-founder story?](https://news.ycombinator.com/item?id=45469983)
+- [Productive Bubbles](https://www.billjaneway.com/productive-bubbles)
+- [An experiment generating a protocol spec from natural language source with LLM](https://gist.github.com/badosu/89099e87da06346bc305fc3f1677174b)
+- [Modernising Gnome [video]](https://www.youtube.com/watch?v=uCAlzx_x6rY)
+- [Business AI](https://www.facebook.com/business/ai/business-ai)
+- [Show HN: I built Fake Tweet Generator all by claudecode](https://xaicreator.com/twittertools/faketweetgenerator)
+- [Airlynk – browser peer-to-peer file sharing without servers](https://news.ycombinator.com/item?id=45469859)
+- [Evaluating Coding Agents with Terminal-Bench 2.0](https://snorkel.ai/blog/evaluating-coding-agent-capabilities-with-terminal-bench-snorkels-role-in-building-the-next-generation-benchmark/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

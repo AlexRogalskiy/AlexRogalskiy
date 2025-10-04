@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Claude Is Down](https://status.claude.com)
-- [We Gave Our AI Agents Twitter and Now They&#39;re Demanding Lambos](https://harper.blog/2025/09/30/ai-agents-social-media-performance-lambo-doomscrolling/)
-- [Microcomputers – The Second Wave: Toward a Mass Market](https://technicshistory.com/2025/10/03/microcomputers-the-second-wave-towards-a-mass-market/)
-- [Researchers develop molecular qubits that communicate at telecom frequencies](https://chicagoquantum.org/news/researchers-develop-molecular-qubits-communicate-telecom-frequencies)
-- [Apple takes down ICE tracking apps after pressure from DOJ](https://www.foxbusiness.com/politics/apple-takes-down-ice-tracking-app-after-pressure-from-ag-bondi)
-- [Self-supervised learning, JEPA, world models, and the future of AI [video]](https://www.youtube.com/watch?v=yUmDRxV0krg)
-- [The strangest letter of the alphabet: The rise and fall of yogh](https://www.deadlanguagesociety.com/p/history-of-letter-yogh)
-- [Anti-aging breakthrough: Stem cells reverse signs of aging in monkeys](https://www.nad.com/news/anti-aging-breakthrough-stem-cells-reverse-signs-of-aging-in-monkeys)
-- [Why most product planning is bad and what to do about it](https://blog.railway.com/p/product-planning-improvement)
-- [OpenAI&#39;s H1 2025: $4.3B in income, $13.5B in loss](https://www.techinasia.com/news/openais-revenue-rises-16-to-4-3b-in-h1-2025)
+- [AI predicts antibiotic&#39;s IBD mechanism–scientists later confirm](https://healthsci.mcmaster.ca/new-antibiotic-targets-ibd-and-ai-predicted-how-it-would-work-before-scientists-could-prove-it/)
+- [Track which Electron apps slow down macOS 26 Tahoe](https://avarayr.github.io/shamelectron/)
+- [Sora Update #1](https://blog.samaltman.com/sora-update-number-1)
+- [Discord customer service data breach leaks user info and scanned photo IDs](https://www.theverge.com/news/792032/discord-customer-service-data-breach-hack)
+- [Binary Formats Gallery](https://formats.kaitai.io/)
+- [When private practices merge with hospital systems, costs go up](https://insights.som.yale.edu/insights/when-private-practices-merge-with-hospital-systems-costs-go-up)
+- [Zig builds are getting faster](https://mitchellh.com/writing/zig-builds-getting-faster)
+- [Against the Uncritical Adoption of &#39;AI&#39; Technologies in Academia](https://zenodo.org/records/17065099)
+- [TrueVault &lpar;YC W14&rpar; Is Hiring a BDR &lpar;Ex-ECommerce Manager&rpar;](https://www.ycombinator.com/companies/truevault/jobs/FaC8Apo-ecommerce-manager-bdr)
+- [Interstellar Object 3I/Atlas Passed Mars Last Night](https://earthsky.org/space/new-interstellar-object-candidate-heading-toward-the-sun-a11pl3z/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Combs pleads with judge in letter before sentencing, saying he was ‘reborn’ in jail](https://www.theguardian.com/music/2025/oct/02/sean-combs-letter-sentencing)
-- [Six minutes of terror: how Manchester synagogue attack unfolded](https://www.theguardian.com/uk-news/2025/oct/02/six-minutes-of-terror-how-manchester-synagogue-attack-unfolded)
-- [PGA of America president belatedly admits US Ryder Cup fans ‘crossed line’ with abuse](https://www.theguardian.com/sport/2025/oct/02/pga-of-america-president-belatedly-admits-us-ryder-cup-fans-crossed-line-with-abuse)
-- [Manchester attack: two killed and three injured after terrorist drives into grounds of synagogue and stabs worshippers](https://www.theguardian.com/uk-news/2025/oct/02/police-at-scene-of-reported-stabbing-at-synagogue-in-manchester)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2025/oct/03/premier-league-10-things-to-look-out-for-this-weekend)
-- [Prince William describes agenda of ‘change for the good’ when king](https://www.theguardian.com/uk-news/2025/oct/02/prince-william-eugene-levy-relucant-traveler-change-agenda-when-king)
-- [Call to allow ‘safe and effective’ at-home abortions up to 12 weeks in UK](https://www.theguardian.com/world/2025/oct/02/call-allow-safe-effective-home-abortions-12-weeks-uk)
-- [‘Planetary health diet’ could save 40,000 deaths a day, landmark report finds](https://www.theguardian.com/environment/2025/oct/02/planetary-health-diet-could-save-40000-deaths-a-day-landmark-report-finds)
-- [California vows to ‘instantly’ cut funding to universities that cave to Trump ‘compact’](https://www.theguardian.com/us-news/2025/oct/02/california-university-funding-trump-compact)
-- [Reform UK council in Nottinghamshire ends ban on local journalists](https://www.theguardian.com/media/2025/oct/02/reform-uk-council-in-nottinghamshire-ends-ban-on-local-journalists)
+- [Ukraine war briefing: ‘Political will’ needed to restore external power to Zaporizhzhia nuclear plant, UN watchdog says](https://www.theguardian.com/world/2025/oct/04/ukraine-war-briefing-political-will-needed-to-restore-external-power-to-zaporizhzhia-nuclear-plant-un-watchdog-says)
+- [Donald Trump orders Israel to ‘immediately’ stop bombing Gaza as Hamas agrees to free hostages](https://www.theguardian.com/world/2025/oct/03/hamas-agrees-to-release-all-israeli-hostages)
+- [Stunned Combs holds head in hands as judge unmoved by pleas for mercy](https://www.theguardian.com/us-news/2025/oct/03/sean-diddy-combs-court-judge)
+- [Woman who tried to kill Brett Kavanaugh jailed for eight years](https://www.theguardian.com/us-news/2025/oct/03/california-resident-jailed-brett-kavanaugh)
+- [Tesla hit with second lawsuit over deadly California Cybertruck crash](https://www.theguardian.com/technology/2025/oct/03/tesla-california-cybertruck-crash-lawsuit)
+- [Taylor Swift: The Official Release Party of a Showgirl review – lazy big screen cash-in](https://www.theguardian.com/music/2025/oct/03/taylor-swift-release-party-of-a-showgirl-review)
+- [One person dead and thousands of homes without power as Storm Amy arrives](https://www.theguardian.com/uk-news/2025/oct/03/storm-amy-threatens-travel-disruption-uk-weather)
+- [Metropolitan police officer arrested after undercover BBC investigation](https://www.theguardian.com/uk-news/2025/oct/03/metropolitan-police-officer-arrested-after-undercover-bbc-investigation)
+- [Arkansas man, arrested over perfume bottle police mistook for ‘opium’, seeks to restore visa](https://www.theguardian.com/us-news/2025/oct/03/arkansas-arrest-ysl-opium-perfume-immigration-visa)
+- [Liverpool out of tune but Arne Slot working on finding better rhythm](https://www.theguardian.com/football/2025/oct/03/liverpool-arne-slot-rhythm-florian-wirtz)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

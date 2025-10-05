@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine war briefing: ‘Political will’ needed to restore external power to Zaporizhzhia nuclear plant, UN watchdog says](https://www.theguardian.com/world/2025/oct/04/ukraine-war-briefing-political-will-needed-to-restore-external-power-to-zaporizhzhia-nuclear-plant-un-watchdog-says)
-- [Donald Trump orders Israel to ‘immediately’ stop bombing Gaza as Hamas agrees to free hostages](https://www.theguardian.com/world/2025/oct/03/hamas-agrees-to-release-all-israeli-hostages)
-- [Stunned Combs holds head in hands as judge unmoved by pleas for mercy](https://www.theguardian.com/us-news/2025/oct/03/sean-diddy-combs-court-judge)
-- [Woman who tried to kill Brett Kavanaugh jailed for eight years](https://www.theguardian.com/us-news/2025/oct/03/california-resident-jailed-brett-kavanaugh)
-- [Tesla hit with second lawsuit over deadly California Cybertruck crash](https://www.theguardian.com/technology/2025/oct/03/tesla-california-cybertruck-crash-lawsuit)
-- [Taylor Swift: The Official Release Party of a Showgirl review – lazy big screen cash-in](https://www.theguardian.com/music/2025/oct/03/taylor-swift-release-party-of-a-showgirl-review)
-- [One person dead and thousands of homes without power as Storm Amy arrives](https://www.theguardian.com/uk-news/2025/oct/03/storm-amy-threatens-travel-disruption-uk-weather)
-- [Metropolitan police officer arrested after undercover BBC investigation](https://www.theguardian.com/uk-news/2025/oct/03/metropolitan-police-officer-arrested-after-undercover-bbc-investigation)
-- [Arkansas man, arrested over perfume bottle police mistook for ‘opium’, seeks to restore visa](https://www.theguardian.com/us-news/2025/oct/03/arkansas-arrest-ysl-opium-perfume-immigration-visa)
-- [Liverpool out of tune but Arne Slot working on finding better rhythm](https://www.theguardian.com/football/2025/oct/03/liverpool-arne-slot-rhythm-florian-wirtz)
+- [Ex-NFL player and Fox Sports star Mark Sanchez arrested after being stabbed](https://www.theguardian.com/sport/2025/oct/04/nfl-mark-sanchez-stabbing-fox)
+- [Police make almost 500 arrests at Palestine Action protest in London](https://www.theguardian.com/world/2025/oct/04/palestine-action-protest-police-arrests-london-demo)
+- [St Helens given police escort after ‘terrorist threat’ made during Hull KR match](https://www.theguardian.com/sport/2025/oct/04/st-helens-given-police-escort-after-terrorist-threat-made-during-hull-kr-match)
+- [Salah and Isak will click, insists Slot after Liverpool slip to third defeat](https://www.theguardian.com/football/2025/oct/04/salah-and-isak-will-click-says-slot-after-liverpool-slip-to-third-defeat)
+- [Tories to pledge to create immigration taskforce modelled on Trump’s Ice](https://www.theguardian.com/politics/2025/oct/04/tories-to-pledge-to-create-immigration-taskforce-modelled-on-trumps-ice)
+- [Israel accused of detaining Greta Thunberg in infested cell and making her hold flags](https://www.theguardian.com/world/2025/oct/04/greta-thunberg-israel-gaza-sweden)
+- [Malcolm McDowell: ‘I would be a total disaster as a spy – I do love to gossip’](https://www.theguardian.com/film/2025/oct/05/malcolm-mcdowell-interview-10-questions)
+- [The moment I knew: as the countdown reached one, something instinctive pulled us together](https://www.theguardian.com/lifeandstyle/2025/oct/05/moment-i-knew-new-years-countdown-reached-one-something-instinctive-pulled-us-together)
+- [‘Baudin’s or bauxite?’ Stark warning black cockatoo won’t survive mining expansion](https://www.theguardian.com/environment/2025/oct/05/western-australia-baudin-black-cockatoo-wont-survive-mining-expansion)
+- [Populist billionaire Andrej Babiš wins Czech parliamentary election](https://www.theguardian.com/world/2025/oct/04/populist-billionaire-andrej-babis-wins-czech-parliamentary-election)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

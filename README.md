@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [TEtrimmer: A tool to automate the manual curation of transposable elements](https://www.nature.com/articles/s41467-025-63889-y)
-- [Free Sora Generator – No Pay and No Credit Card and Need Login](https://FreeSoraGenerator.com)
-- [Ask HN: What&#39;s your toxic co-founder story?](https://news.ycombinator.com/item?id=45469983)
-- [Productive Bubbles](https://www.billjaneway.com/productive-bubbles)
-- [An experiment generating a protocol spec from natural language source with LLM](https://gist.github.com/badosu/89099e87da06346bc305fc3f1677174b)
-- [Modernising Gnome [video]](https://www.youtube.com/watch?v=uCAlzx_x6rY)
-- [Business AI](https://www.facebook.com/business/ai/business-ai)
-- [Show HN: I built Fake Tweet Generator all by claudecode](https://xaicreator.com/twittertools/faketweetgenerator)
-- [Airlynk – browser peer-to-peer file sharing without servers](https://news.ycombinator.com/item?id=45469859)
-- [Evaluating Coding Agents with Terminal-Bench 2.0](https://snorkel.ai/blog/evaluating-coding-agent-capabilities-with-terminal-bench-snorkels-role-in-building-the-next-generation-benchmark/)
+- [Ask HN: HNews constantly logged out mobile?](https://news.ycombinator.com/item?id=45478524)
+- [The differences between cryonics providers](https://news.ycombinator.com/item?id=45478503)
+- [Are Motorcycles &quot;Donorcycles&quot;?](https://pubmed.ncbi.nlm.nih.gov/33334475/)
+- [Apple Takes Down ICE Tracking Apps in Response to Trump Pressure Campaign](https://www.nytimes.com/2025/10/02/us/politics/apple-iceblock-app-store-trump.html)
+- [Sora: The All AI TikTok Clone. Will Slop End Creativity? [by Casey Neistat]](https://www.youtube.com/watch?v=I1dW-nZqhew)
+- [Sonnet 4.5 is aware of its own context window, causing &quot;context anxiety&quot;](https://cognition.ai/blog/devin-sonnet-4-5-lessons-and-challenges)
+- [G1 humanoid robots are sending information to China and can easily be hacked](https://techxplore.com/news/2025-09-g1-humanoid-robots-secretly-china.html)
+- [Git, JSON and Markdown walk into bar](https://www.grumpygamer.com/git_json_markdown/)
+- [SereneSoul – 100% Free White Noise and Natural Sounds &lpar;No Ads, No Registration&rpar;](https://afunning.com)
+- [Find Real Friends, Not Just Followers](https://socibubble.carrd.co)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [AI predicts antibiotic&#39;s IBD mechanism–scientists later confirm](https://healthsci.mcmaster.ca/new-antibiotic-targets-ibd-and-ai-predicted-how-it-would-work-before-scientists-could-prove-it/)
-- [Track which Electron apps slow down macOS 26 Tahoe](https://avarayr.github.io/shamelectron/)
-- [Sora Update #1](https://blog.samaltman.com/sora-update-number-1)
-- [Discord customer service data breach leaks user info and scanned photo IDs](https://www.theverge.com/news/792032/discord-customer-service-data-breach-hack)
-- [Binary Formats Gallery](https://formats.kaitai.io/)
-- [When private practices merge with hospital systems, costs go up](https://insights.som.yale.edu/insights/when-private-practices-merge-with-hospital-systems-costs-go-up)
-- [Zig builds are getting faster](https://mitchellh.com/writing/zig-builds-getting-faster)
-- [Against the Uncritical Adoption of &#39;AI&#39; Technologies in Academia](https://zenodo.org/records/17065099)
-- [TrueVault &lpar;YC W14&rpar; Is Hiring a BDR &lpar;Ex-ECommerce Manager&rpar;](https://www.ycombinator.com/companies/truevault/jobs/FaC8Apo-ecommerce-manager-bdr)
-- [Interstellar Object 3I/Atlas Passed Mars Last Night](https://earthsky.org/space/new-interstellar-object-candidate-heading-toward-the-sun-a11pl3z/)
+- [You can&#39;t parse XML with regex. Let&#39;s do it anyways](https://sdomi.pl/weblog/26-nobody-here-is-free-of-sin/)
+- [Parrot – type-safe SQL in Gleam, supports SQlite, PostgreSQL and MySQL](https://github.com/daniellionel01/parrot)
+- [Mod. 5140 - IBM&#39;s First Laptop Computer](https://richardsapperdesign.com/products/mod-5140/)
+- [Space Mission Options for Reconnaissance and Mitigation of Asteroid 2024 YR4](https://arxiv.org/abs/2509.12351)
+- [AI-powered open-source code laundering](https://github.com/SudoMaker/rEFui/blob/main/HALL_OF_SHAME.md)
+- [Borehole Oscillators](https://www.gregegan.net/SCIENCE/Borehole/Borehole.html)
+- [NSA and IETF: Can an attacker purchase standardization of weakened cryptography?](https://blog.cr.yp.to/20251004-weakened.html)
+- [XiangShan Vector Floating-Point Unit Design](https://docs.xiangshan.cc/projects/design/en/latest/backend/VFPU/)
+- [Matrix Core Programming on AMD GPUs](https://salykova.github.io/matrix-cores-cdna)
+- [$912 energy independence without red tape](https://sunboxlabs.com/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

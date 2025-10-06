@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ask HN: HNews constantly logged out mobile?](https://news.ycombinator.com/item?id=45478524)
-- [The differences between cryonics providers](https://news.ycombinator.com/item?id=45478503)
-- [Are Motorcycles &quot;Donorcycles&quot;?](https://pubmed.ncbi.nlm.nih.gov/33334475/)
-- [Apple Takes Down ICE Tracking Apps in Response to Trump Pressure Campaign](https://www.nytimes.com/2025/10/02/us/politics/apple-iceblock-app-store-trump.html)
-- [Sora: The All AI TikTok Clone. Will Slop End Creativity? [by Casey Neistat]](https://www.youtube.com/watch?v=I1dW-nZqhew)
-- [Sonnet 4.5 is aware of its own context window, causing &quot;context anxiety&quot;](https://cognition.ai/blog/devin-sonnet-4-5-lessons-and-challenges)
-- [G1 humanoid robots are sending information to China and can easily be hacked](https://techxplore.com/news/2025-09-g1-humanoid-robots-secretly-china.html)
-- [Git, JSON and Markdown walk into bar](https://www.grumpygamer.com/git_json_markdown/)
-- [SereneSoul – 100% Free White Noise and Natural Sounds &lpar;No Ads, No Registration&rpar;](https://afunning.com)
-- [Find Real Friends, Not Just Followers](https://socibubble.carrd.co)
+- [Powerful Cartels Are Building a Gold Mining Empire [video]](https://www.youtube.com/watch?v=8GwSqRccvmc)
+- [AgentCursor – Make the browser automation scripts move the cursor like a human](https://rajasekarm.github.io/agent-cursor/)
+- [Programming in Assembly without an Operating System [video]](https://www.youtube.com/watch?v=ZFHnbozz7b4)
+- [Between 1875 and 1925, 80k tigers were killed in India under British rule](https://old.reddit.com/r/IndianHistory/comments/1nir430/between_1875_and_1925_over_80000_tigers_were/)
+- [Releasing New Chat System](https://emotion.vision)
+- [Reaction Time Test](https://reaction-time-test.org/)
+- [Memory Tagging Explained: Why the iPhone 17 Is a Cybersecurity Game-Changer [video]](https://www.youtube.com/watch?v=5McB6-2r-ds)
+- [Revocation Confusion](https://nullpxl.com/post/revocation-confusion/)
+- [I Miss Web 2.0](https://news.ycombinator.com/item?id=45487085)
+- [The Open Source macOS Window Manager app, MacsyZones 1.9 is released](https://macsyzones.com/?v1.9)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

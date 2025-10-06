@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ex-NFL player and Fox Sports star Mark Sanchez arrested after being stabbed](https://www.theguardian.com/sport/2025/oct/04/nfl-mark-sanchez-stabbing-fox)
-- [Police make almost 500 arrests at Palestine Action protest in London](https://www.theguardian.com/world/2025/oct/04/palestine-action-protest-police-arrests-london-demo)
-- [St Helens given police escort after ‘terrorist threat’ made during Hull KR match](https://www.theguardian.com/sport/2025/oct/04/st-helens-given-police-escort-after-terrorist-threat-made-during-hull-kr-match)
-- [Salah and Isak will click, insists Slot after Liverpool slip to third defeat](https://www.theguardian.com/football/2025/oct/04/salah-and-isak-will-click-says-slot-after-liverpool-slip-to-third-defeat)
-- [Tories to pledge to create immigration taskforce modelled on Trump’s Ice](https://www.theguardian.com/politics/2025/oct/04/tories-to-pledge-to-create-immigration-taskforce-modelled-on-trumps-ice)
-- [Israel accused of detaining Greta Thunberg in infested cell and making her hold flags](https://www.theguardian.com/world/2025/oct/04/greta-thunberg-israel-gaza-sweden)
-- [Malcolm McDowell: ‘I would be a total disaster as a spy – I do love to gossip’](https://www.theguardian.com/film/2025/oct/05/malcolm-mcdowell-interview-10-questions)
-- [The moment I knew: as the countdown reached one, something instinctive pulled us together](https://www.theguardian.com/lifeandstyle/2025/oct/05/moment-i-knew-new-years-countdown-reached-one-something-instinctive-pulled-us-together)
-- [‘Baudin’s or bauxite?’ Stark warning black cockatoo won’t survive mining expansion](https://www.theguardian.com/environment/2025/oct/05/western-australia-baudin-black-cockatoo-wont-survive-mining-expansion)
-- [Populist billionaire Andrej Babiš wins Czech parliamentary election](https://www.theguardian.com/world/2025/oct/04/populist-billionaire-andrej-babis-wins-czech-parliamentary-election)
+- [Louis CK defends decision to perform at Riyadh comedy festival as ‘a good opportunity’](https://www.theguardian.com/culture/2025/oct/06/louis-ck-defends-riyadh-comedy-festival-performance-good-opportunity)
+- [Indonesia school collapse death toll reaches 49 as search for missing students continues](https://www.theguardian.com/world/2025/oct/06/indonesia-school-collapse-death-toll-rises-as-search-for-missing-students-continues)
+- [Ukraine war briefing: Snag for EU’s support of Kyiv after aid opponent wins Czech election](https://www.theguardian.com/world/2025/oct/06/ukraine-war-briefing-snag-for-eus-support-of-kyiv-after-aid-opponent-wins-czech-election)
+- [Making a drama about refugees could defuse anti-migrant anger in UK, says Jonathan Pryce](https://www.theguardian.com/stage/2025/oct/06/making-a-drama-about-refugees-could-defuse-anti-migrant-anger-in-uk-says-jonathan-pryce)
+- [One in four UK people fear a loved one drinks too much, survey finds](https://www.theguardian.com/society/2025/oct/06/one-in-four-uk-people-fear-a-loved-one-drinks-too-much-survey-finds)
+- [Gary Neville says he took down union flag being ‘used in a negative fashion’](https://www.theguardian.com/football/2025/oct/05/gary-neville-says-he-took-down-a-union-flag-being-used-in-a-negative-fashion)
+- [US struck another boat illegally carrying drugs off Venezuela coast, Trump says](https://www.theguardian.com/us-news/2025/oct/05/trump-drug-boat-strike-venezuela)
+- [Man arrested after about 50 shots fired from Sydney flat injure bystanders and hit buildings and cars](https://www.theguardian.com/australia-news/2025/oct/06/man-arrested-shots-fired-from-unit-croydon-park-ntwnfb)
+- [UK ministers aim to speed up homebuying by four weeks](https://www.theguardian.com/money/2025/oct/05/uk-ministers-aim-to-speed-up-homebuying-by-four-weeks)
+- [Suspected arson attack at East Sussex mosque investigated as hate crime](https://www.theguardian.com/uk-news/2025/oct/05/suspected-arson-attack-mosque-investigated-hate-east-sussex)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

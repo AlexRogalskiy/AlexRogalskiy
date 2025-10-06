@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [You can&#39;t parse XML with regex. Let&#39;s do it anyways](https://sdomi.pl/weblog/26-nobody-here-is-free-of-sin/)
-- [Parrot – type-safe SQL in Gleam, supports SQlite, PostgreSQL and MySQL](https://github.com/daniellionel01/parrot)
-- [Mod. 5140 - IBM&#39;s First Laptop Computer](https://richardsapperdesign.com/products/mod-5140/)
-- [Space Mission Options for Reconnaissance and Mitigation of Asteroid 2024 YR4](https://arxiv.org/abs/2509.12351)
-- [AI-powered open-source code laundering](https://github.com/SudoMaker/rEFui/blob/main/HALL_OF_SHAME.md)
-- [Borehole Oscillators](https://www.gregegan.net/SCIENCE/Borehole/Borehole.html)
-- [NSA and IETF: Can an attacker purchase standardization of weakened cryptography?](https://blog.cr.yp.to/20251004-weakened.html)
-- [XiangShan Vector Floating-Point Unit Design](https://docs.xiangshan.cc/projects/design/en/latest/backend/VFPU/)
-- [Matrix Core Programming on AMD GPUs](https://salykova.github.io/matrix-cores-cdna)
-- [$912 energy independence without red tape](https://sunboxlabs.com/)
+- [Revocation Confusion](https://nullpxl.com/post/revocation-confusion/)
+- [Should I choose Ada, SPARK, or Rust over C/C++?](https://blog.adacore.com/should-i-choose-ada-spark-or-rust-over-c-c)
+- [Mic-E-Mouse – Covert eavesdropping through computer mice](https://sites.google.com/view/mic-e-mouse)
+- [Rule-Based Expert Systems: The Mycin Experiments &lpar;1984&rpar;](https://www.shortliffe.net/Buchanan-Shortliffe-1984/MYCIN%20Book.htm)
+- [Generative AI&#39;s Energy Needs Are Reshaping Our World](https://spectrum.ieee.org/ai-energy-use)
+- [Germany outfitted half a million balconies with solar panels](https://grist.org/buildings/how-germany-outfitted-half-a-million-balconies-with-solar-panels/)
+- [Ken Parker, famed luthier, has died](https://kenparkerarchtops.com)
+- [The death of industrial design and the era of dull electronics](https://hackaday.com/2025/07/23/the-death-of-industrial-design-and-the-era-of-dull-electronics/)
+- [Toybox: All-in-one Linux command line](https://github.com/landley/toybox)
+- [What GPT-OSS leaks about OpenAI&#39;s training data](https://fi-le.net/oss/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

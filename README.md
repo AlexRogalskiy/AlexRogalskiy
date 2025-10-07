@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Louis CK defends decision to perform at Riyadh comedy festival as ‘a good opportunity’](https://www.theguardian.com/culture/2025/oct/06/louis-ck-defends-riyadh-comedy-festival-performance-good-opportunity)
-- [Indonesia school collapse death toll reaches 49 as search for missing students continues](https://www.theguardian.com/world/2025/oct/06/indonesia-school-collapse-death-toll-rises-as-search-for-missing-students-continues)
-- [Ukraine war briefing: Snag for EU’s support of Kyiv after aid opponent wins Czech election](https://www.theguardian.com/world/2025/oct/06/ukraine-war-briefing-snag-for-eus-support-of-kyiv-after-aid-opponent-wins-czech-election)
-- [Making a drama about refugees could defuse anti-migrant anger in UK, says Jonathan Pryce](https://www.theguardian.com/stage/2025/oct/06/making-a-drama-about-refugees-could-defuse-anti-migrant-anger-in-uk-says-jonathan-pryce)
-- [One in four UK people fear a loved one drinks too much, survey finds](https://www.theguardian.com/society/2025/oct/06/one-in-four-uk-people-fear-a-loved-one-drinks-too-much-survey-finds)
-- [Gary Neville says he took down union flag being ‘used in a negative fashion’](https://www.theguardian.com/football/2025/oct/05/gary-neville-says-he-took-down-a-union-flag-being-used-in-a-negative-fashion)
-- [US struck another boat illegally carrying drugs off Venezuela coast, Trump says](https://www.theguardian.com/us-news/2025/oct/05/trump-drug-boat-strike-venezuela)
-- [Man arrested after about 50 shots fired from Sydney flat injure bystanders and hit buildings and cars](https://www.theguardian.com/australia-news/2025/oct/06/man-arrested-shots-fired-from-unit-croydon-park-ntwnfb)
-- [UK ministers aim to speed up homebuying by four weeks](https://www.theguardian.com/money/2025/oct/05/uk-ministers-aim-to-speed-up-homebuying-by-four-weeks)
-- [Suspected arson attack at East Sussex mosque investigated as hate crime](https://www.theguardian.com/uk-news/2025/oct/05/suspected-arson-attack-mosque-investigated-hate-east-sussex)
+- [Robin Williams’ daughter Zelda hits out at AI-generated videos of her dead father: ‘Stop doing this to him’](https://www.theguardian.com/film/2025/oct/07/robin-williams-daughter-zelda-hits-out-at-ai-generated-videos-of-her-dead-father)
+- [Ukraine war briefing: Trump says he would want to know Kyiv’s plans for Tomahawk missiles before supplying them](https://www.theguardian.com/world/2025/oct/07/ukraine-war-briefing-trump-says-he-would-want-to-know-kyivs-plans-for-tomahawk-missiles-before-supplying-them)
+- [Trump news at a glance: President mulls use of insurrection act as national guard deployment faces legal issues](https://www.theguardian.com/us-news/2025/oct/07/trump-administration-news-updates-today)
+- [US shutdown enters second week as Senate again rejects rival funding bills](https://www.theguardian.com/us-news/2025/oct/06/us-shutdown-government-funding)
+- [New Zealand foreign minister Winston Peters’ home vandalised ‘during a protest’](https://www.theguardian.com/world/2025/oct/07/new-zealand-foreign-minister-winston-peters-home-vandalised-during-protest-ntwnfb)
+- [Met police disrupt suspected international smuggling ring in UK’s ‘largest’ phone theft crackdown](https://www.theguardian.com/technology/2025/oct/07/phone-theft-met-police-disrupt-suspected-international-smuggling-ring-uk-largest-crackdown)
+- [Nobel committee unable to reach prize winner who is ‘living his best life’ hiking off grid](https://www.theguardian.com/science/2025/oct/07/nobel-committee-unable-to-reach-medicine-prize-winner-hiking-off-grid)
+- [Global renewable energy generation surpasses coal for first time](https://www.theguardian.com/environment/2025/oct/07/global-renewable-energy-generation-surpasses-coal-first-time)
+- [Harry Kane open to Bayern Munich stay and unsure of Premier League return](https://www.theguardian.com/football/2025/oct/06/harry-kane-bayern-munich-stay-premier-league-return-england-world-cup-qualifiers)
+- [People claim London crime is rising because it suits them, Met commander says](https://www.theguardian.com/uk-news/2025/oct/06/people-claim-london-crime-is-rising-because-it-suits-them-met-commander-says)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

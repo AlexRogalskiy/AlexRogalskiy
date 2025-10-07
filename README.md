@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Powerful Cartels Are Building a Gold Mining Empire [video]](https://www.youtube.com/watch?v=8GwSqRccvmc)
-- [AgentCursor – Make the browser automation scripts move the cursor like a human](https://rajasekarm.github.io/agent-cursor/)
-- [Programming in Assembly without an Operating System [video]](https://www.youtube.com/watch?v=ZFHnbozz7b4)
-- [Between 1875 and 1925, 80k tigers were killed in India under British rule](https://old.reddit.com/r/IndianHistory/comments/1nir430/between_1875_and_1925_over_80000_tigers_were/)
-- [Releasing New Chat System](https://emotion.vision)
-- [Reaction Time Test](https://reaction-time-test.org/)
-- [Memory Tagging Explained: Why the iPhone 17 Is a Cybersecurity Game-Changer [video]](https://www.youtube.com/watch?v=5McB6-2r-ds)
-- [Revocation Confusion](https://nullpxl.com/post/revocation-confusion/)
-- [I Miss Web 2.0](https://news.ycombinator.com/item?id=45487085)
-- [The Open Source macOS Window Manager app, MacsyZones 1.9 is released](https://macsyzones.com/?v1.9)
+- [Kssolv Toolbox: a visual, workflow-oriented tool for first-principles simulation](https://news.ycombinator.com/item?id=45498933)
+- [Synthetic Bootstrapped Pretraining](https://arxiv.org/abs/2509.15248)
+- [Seeing Like a Software Company](https://www.seangoedecke.com/seeing-like-a-software-company/)
+- [AI-Powered Robots Install Solar Panels Faster Than Any Humans](https://cleantechnica.com/2025/10/06/ai-powered-robots-install-solar-panels-faster-than-any-humans/)
+- [A 12,000-year-old obelisk with a human face was found in Karahan Tepe](https://www.trthaber.com/foto-galeri/karahantepede-12-bin-yil-oncesine-ait-insan-yuzlu-dikili-tas-bulundu/73912.html)
+- [From Matmul to Meaning](https://www.evis.dev/posts/why_matmul)
+- [Show HN: Systems and algorithms for &lpar;machine-&rpar;learning Monopoly Deal](https://github.com/cavaunpeu/monopoly-deal-ai)
+- [Stephen Hawking and the Rise of the AI Craze](https://x.com/search)
+- [A Solution to the Paperclip Problem](https://link.springer.com/article/10.1007/s42979-025-04369-4)
+- [Wildfires are now four times more frequent due to climate change](https://apnews.com/article/wildfires-lahaina-damage-death-climate-change-f6dd7bec2e0661ba45a052d6cdafa0e0)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

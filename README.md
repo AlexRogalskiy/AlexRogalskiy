@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Revocation Confusion](https://nullpxl.com/post/revocation-confusion/)
-- [Should I choose Ada, SPARK, or Rust over C/C++?](https://blog.adacore.com/should-i-choose-ada-spark-or-rust-over-c-c)
-- [Mic-E-Mouse – Covert eavesdropping through computer mice](https://sites.google.com/view/mic-e-mouse)
-- [Rule-Based Expert Systems: The Mycin Experiments &lpar;1984&rpar;](https://www.shortliffe.net/Buchanan-Shortliffe-1984/MYCIN%20Book.htm)
-- [Generative AI&#39;s Energy Needs Are Reshaping Our World](https://spectrum.ieee.org/ai-energy-use)
-- [Germany outfitted half a million balconies with solar panels](https://grist.org/buildings/how-germany-outfitted-half-a-million-balconies-with-solar-panels/)
-- [Ken Parker, famed luthier, has died](https://kenparkerarchtops.com)
-- [The death of industrial design and the era of dull electronics](https://hackaday.com/2025/07/23/the-death-of-industrial-design-and-the-era-of-dull-electronics/)
-- [Toybox: All-in-one Linux command line](https://github.com/landley/toybox)
-- [What GPT-OSS leaks about OpenAI&#39;s training data](https://fi-le.net/oss/)
+- [The least amount of CSS for a decent looking site &lpar;2023&rpar;](https://thecascade.dev/article/least-amount-of-css/)
+- [Microsoft is plugging more holes that let you use Windows 11 without MS account](https://www.theverge.com/news/793579/microsoft-windows-11-local-account-bypass-workaround-changes)
+- [RediShell: Critical remote code execution vulnerability in Redis](https://www.wiz.io/blog/wiz-research-redis-rce-cve-2025-49844)
+- [CodeMender: an AI agent for code security](https://deepmind.google/discover/blog/introducing-codemender-an-ai-agent-for-code-security/)
+- [WebGPU and the Price of Compiling WGSL](https://hugodaniel.com/posts/webgpu-diagnostics/)
+- [Valorant&#39;s 128-Tick Servers &lpar;2020&rpar;](https://technology.riotgames.com/news/valorants-128-tick-servers)
+- [Being blocked from contributing to lodash](https://c.ruatta.com/on-being-blocked-from-contributing-to-lodash/)
+- [Translating Cython to Mojo, a first attempt](https://fnands.com/blog/2025/sklearn-mojo-dbscan-inner/)
+- [My Life in Ambigrammia](https://www.theatlantic.com/ideas/archive/2025/10/ambigrams-words-double-meanings-art/684404/)
+- [Apps SDK](https://developers.openai.com/apps-sdk/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

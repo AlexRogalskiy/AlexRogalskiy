@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Kssolv Toolbox: a visual, workflow-oriented tool for first-principles simulation](https://news.ycombinator.com/item?id=45498933)
-- [Synthetic Bootstrapped Pretraining](https://arxiv.org/abs/2509.15248)
-- [Seeing Like a Software Company](https://www.seangoedecke.com/seeing-like-a-software-company/)
-- [AI-Powered Robots Install Solar Panels Faster Than Any Humans](https://cleantechnica.com/2025/10/06/ai-powered-robots-install-solar-panels-faster-than-any-humans/)
-- [A 12,000-year-old obelisk with a human face was found in Karahan Tepe](https://www.trthaber.com/foto-galeri/karahantepede-12-bin-yil-oncesine-ait-insan-yuzlu-dikili-tas-bulundu/73912.html)
-- [From Matmul to Meaning](https://www.evis.dev/posts/why_matmul)
-- [Show HN: Systems and algorithms for &lpar;machine-&rpar;learning Monopoly Deal](https://github.com/cavaunpeu/monopoly-deal-ai)
-- [Stephen Hawking and the Rise of the AI Craze](https://x.com/search)
-- [A Solution to the Paperclip Problem](https://link.springer.com/article/10.1007/s42979-025-04369-4)
-- [Wildfires are now four times more frequent due to climate change](https://apnews.com/article/wildfires-lahaina-damage-death-climate-change-f6dd7bec2e0661ba45a052d6cdafa0e0)
+- [LOPSA board votes to unanimously dissolve](https://www.lopsa.org/blog/13550085)
+- [Quiet, but Discoverable](https://jch.github.io/posts/2025-10-07-notifications-quiet-default.html)
+- [Birth of Prettier](https://blog.vjeux.com/2025/javascript/birth-of-prettier.html)
+- [ChatGPT Pass 800M Weekly Users, 10M subscribers &lpar;down from 20M in April?&rpar;](https://techafricanews.com/2025/10/07/chatgpt-surges-past-800-million-weekly-users-eyes-one-billion-by-year-end/)
+- [&#39;Circular&#39; mega-deals by Bay Area tech giants are raising eyebrows](https://www.sfgate.com/tech/article/circular-deals-bay-area-tech-21089538.php)
+- [North Korea Missile Test Visualization](https://nagix.github.io/nk-missile-tests/)
+- [AI Friend necklace; like wearing your senile, anxious grandmother around neck](https://fortune.com/2025/10/03/friend-ai-necklace-review-avi-schiffmann/)
+- [Leading CA Gov Candidate Katie Porter had a full-blown meltdown at a journalist](https://twitter.com/Rightanglenews/status/1975693521018626340)
+- [The Paradoxical Efficient Market Hypothesis &lpar;2024&rpar;](https://3quarksdaily.com/3quarksdaily/2024/09/the-paradoxical-efficient-market-hypothesis.html)
+- [State of the software engineering jobs market, 2025: what hiring managers see](https://newsletter.pragmaticengineer.com/p/state-of-the-tech-market-in-2025-hiring-managers)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

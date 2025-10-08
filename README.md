@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Robin Williams’ daughter Zelda hits out at AI-generated videos of her dead father: ‘Stop doing this to him’](https://www.theguardian.com/film/2025/oct/07/robin-williams-daughter-zelda-hits-out-at-ai-generated-videos-of-her-dead-father)
-- [Ukraine war briefing: Trump says he would want to know Kyiv’s plans for Tomahawk missiles before supplying them](https://www.theguardian.com/world/2025/oct/07/ukraine-war-briefing-trump-says-he-would-want-to-know-kyivs-plans-for-tomahawk-missiles-before-supplying-them)
-- [Trump news at a glance: President mulls use of insurrection act as national guard deployment faces legal issues](https://www.theguardian.com/us-news/2025/oct/07/trump-administration-news-updates-today)
-- [US shutdown enters second week as Senate again rejects rival funding bills](https://www.theguardian.com/us-news/2025/oct/06/us-shutdown-government-funding)
-- [New Zealand foreign minister Winston Peters’ home vandalised ‘during a protest’](https://www.theguardian.com/world/2025/oct/07/new-zealand-foreign-minister-winston-peters-home-vandalised-during-protest-ntwnfb)
-- [Met police disrupt suspected international smuggling ring in UK’s ‘largest’ phone theft crackdown](https://www.theguardian.com/technology/2025/oct/07/phone-theft-met-police-disrupt-suspected-international-smuggling-ring-uk-largest-crackdown)
-- [Nobel committee unable to reach prize winner who is ‘living his best life’ hiking off grid](https://www.theguardian.com/science/2025/oct/07/nobel-committee-unable-to-reach-medicine-prize-winner-hiking-off-grid)
-- [Global renewable energy generation surpasses coal for first time](https://www.theguardian.com/environment/2025/oct/07/global-renewable-energy-generation-surpasses-coal-first-time)
-- [Harry Kane open to Bayern Munich stay and unsure of Premier League return](https://www.theguardian.com/football/2025/oct/06/harry-kane-bayern-munich-stay-premier-league-return-england-world-cup-qualifiers)
-- [People claim London crime is rising because it suits them, Met commander says](https://www.theguardian.com/uk-news/2025/oct/06/people-claim-london-crime-is-rising-because-it-suits-them-met-commander-says)
+- [Dolly Parton ‘going to be just fine’, singer’s sister says as she calls for prayers amid health problems](https://www.theguardian.com/music/2025/oct/08/dolly-parton-health-problems-sister-prayers-going-to-be-just-fine)
+- [New Zealand oceans warming 34% faster than global average, putting homes and industry at risk, report finds](https://www.theguardian.com/world/2025/oct/08/new-zealand-oceans-warming-34-per-cent-faster-than-global-average)
+- [Tesla debuts ‘affordable’ Model Y and 3 in US that strike some as too expensive](https://www.theguardian.com/us-news/2025/oct/07/tesla-affordable-model-y-3)
+- [Ukraine war briefing: Shadow fleet is launchpad for Russian drones harassing Europe – Zelenskyy](https://www.theguardian.com/world/2025/oct/08/ukraine-war-briefing-shadow-fleet-is-launchpad-for-russian-drones-harassing-europe-zelenskyy)
+- [‘It made my day more meaningful’: the Japanese gen-Zers attempting a two-hour limit on smartphone use](https://www.theguardian.com/world/2025/oct/08/japan-two-hour-smartphone-use-teenagers-japanese-gen-zers-attempting-limit-day-more-meaningful)
+- [Cecil Beaton’s Fashionable World review – a narrow view of beauty from a borderline stalker](https://www.theguardian.com/artanddesign/2025/oct/08/cecil-beatons-fashionable-world-review-national-portrait-gallery-king-vogue)
+- [One in three UK workers have called in sick after work drinks, survey finds](https://www.theguardian.com/society/2025/oct/08/one-in-three-uk-workers-have-called-in-sick-after-work-drinks-survey-finds)
+- [Lifetime of earnings not enough for UK workers to join wealthiest 10%, report says](https://www.theguardian.com/inequality/2025/oct/08/lifetime-of-earnings-not-enough-for-uk-workers-to-join-wealthiest-10-report-says)
+- [Green groups criticise plans to weaken protections for English national parks](https://www.theguardian.com/environment/2025/oct/08/green-groups-criticise-plans-weaken-protections-english-national-parks)
+- [Brexit has done nothing to stem sharp decline of UK fish populations, shows study](https://www.theguardian.com/environment/2025/oct/08/brexit-nothing-stem-decline-uk-fish-populations-study)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

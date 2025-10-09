@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The Paradoxical Efficient Market Hypothesis &lpar;2024&rpar;](https://3quarksdaily.com/3quarksdaily/2024/09/the-paradoxical-efficient-market-hypothesis.html)
-- [Study of 1M-year-old skull points to earlier origins of modern humans](https://www.theguardian.com/science/2025/sep/25/study-of-1m-year-old-skull-points-to-earlier-origins-of-modern-humans)
-- [Become unbannable from your email](https://karboosx.net/post/PJOveGVa/become-unbannable-from-your-emailgmail)
-- [Metriport &lpar;YC S22&rpar; is hiring a founding recruiter](https://www.ycombinator.com/companies/metriport/jobs/uq6CuhA-founding-recruiter)
-- [Gemini 2.5 Computer Use model](https://blog.google/technology/google-deepmind/gemini-computer-use-model/)
-- [Eliminating contrails from flying could be cheap](https://www.sustainabilitybynumbers.com/p/eliminating-contrails)
-- [The publishing industry has a gambling problem](https://thewalrus.ca/the-publishing-industry-has-a-gambling-problem/)
-- [Less is more: Recursive reasoning with tiny networks](https://alexiajm.github.io/2025/09/29/tiny_recursive_models.html)
-- [German government comes out against Chat Control](https://xcancel.com/paddi_hansen/status/1975595307800142205)
-- [Seeing like a software company](https://www.seangoedecke.com/seeing-like-a-software-company/)
+- [Tonight&#39;s Dinner Fell Off the Sysco Truck](https://www.thenation.com/article/society/restaurant-consolidation-loss-local-identity/)
+- [Corruption: When Norms Upstage the Law](https://knowablemagazine.org/content/article/society/2025/how-corruption-interplays-with-social-norms)
+- [Designing a Low Latency 10G Ethernet Core](https://ttchisholm.github.io/ethernet/2023/05/01/designing-10g-eth-1.html)
+- [A competitor crippled a $23.5M bootcamp by becoming a Reddit moderator](https://larslofgren.com/codesmith-reddit-reputation-attack/)
+- [Radio Garten](https://radio.garden/)
+- [Show HN: HyprMCP – Analytics, logs and auth for MCP servers](https://github.com/hyprmcp/jetski)
+- [Discord says 70k users may have had their government IDs leaked in breach](https://www.theverge.com/news/797051/discord-government-ids-leaked-data-breach)
+- [PWA Browser Scorecards](https://pwascore.com/)
+- [OpenAI, Nvidia fuel $1T AI market with web of circular deals](https://www.bloomberg.com/news/features/2025-10-07/openai-s-nvidia-amd-deals-boost-1-trillion-ai-boom-with-circular-deals)
+- [Kurt Got Got](https://fly.io/blog/kurt-got-got/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Dolly Parton ‘going to be just fine’, singer’s sister says as she calls for prayers amid health problems](https://www.theguardian.com/music/2025/oct/08/dolly-parton-health-problems-sister-prayers-going-to-be-just-fine)
-- [New Zealand oceans warming 34% faster than global average, putting homes and industry at risk, report finds](https://www.theguardian.com/world/2025/oct/08/new-zealand-oceans-warming-34-per-cent-faster-than-global-average)
-- [Tesla debuts ‘affordable’ Model Y and 3 in US that strike some as too expensive](https://www.theguardian.com/us-news/2025/oct/07/tesla-affordable-model-y-3)
-- [Ukraine war briefing: Shadow fleet is launchpad for Russian drones harassing Europe – Zelenskyy](https://www.theguardian.com/world/2025/oct/08/ukraine-war-briefing-shadow-fleet-is-launchpad-for-russian-drones-harassing-europe-zelenskyy)
-- [‘It made my day more meaningful’: the Japanese gen-Zers attempting a two-hour limit on smartphone use](https://www.theguardian.com/world/2025/oct/08/japan-two-hour-smartphone-use-teenagers-japanese-gen-zers-attempting-limit-day-more-meaningful)
-- [Cecil Beaton’s Fashionable World review – a narrow view of beauty from a borderline stalker](https://www.theguardian.com/artanddesign/2025/oct/08/cecil-beatons-fashionable-world-review-national-portrait-gallery-king-vogue)
-- [One in three UK workers have called in sick after work drinks, survey finds](https://www.theguardian.com/society/2025/oct/08/one-in-three-uk-workers-have-called-in-sick-after-work-drinks-survey-finds)
-- [Lifetime of earnings not enough for UK workers to join wealthiest 10%, report says](https://www.theguardian.com/inequality/2025/oct/08/lifetime-of-earnings-not-enough-for-uk-workers-to-join-wealthiest-10-report-says)
-- [Green groups criticise plans to weaken protections for English national parks](https://www.theguardian.com/environment/2025/oct/08/green-groups-criticise-plans-weaken-protections-english-national-parks)
-- [Brexit has done nothing to stem sharp decline of UK fish populations, shows study](https://www.theguardian.com/environment/2025/oct/08/brexit-nothing-stem-decline-uk-fish-populations-study)
+- [Gaza ceasefire live: Israel ‘preparing to receive’ hostages as Trump says he will be ’involved’ in keeping peace](https://www.theguardian.com/world/live/2025/oct/08/gaza-ceasefire-talks-israel-hamas-trump-us-qatar-turkey-egypt-live-news-updates)
+- [Republican lawmakers praise Trump for Gaza deal as Palestinian Americans remain wary: ‘So much remains unclear’](https://www.theguardian.com/us-news/2025/oct/08/trump-gaza-deal-response)
+- [Cristina Fernández de Kirchner: Argentinian court sentences man to 10 years for attempted assassination](https://www.theguardian.com/world/2025/oct/09/cristina-fernandez-de-kirchner-former-argentinian-president-attempted-assassination-court-sentences-man)
+- [A Gaza ceasefire deal could be Trump’s biggest diplomatic achievement – but the devil is in the detail](https://www.theguardian.com/us-news/2025/oct/09/gaza-ceasefire-deal-trump-biggest-diplomatic-achievement-what-detail)
+- [Gaza ceasefire deal: What we know so far about the ‘first phase’ of the peace plan](https://www.theguardian.com/world/2025/oct/09/gaza-ceasefire-deal-first-phase-trump-peace-plan)
+- [‘Humanitarian’ visa must be created for Pacific Islanders displaced by climate crisis, experts say](https://www.theguardian.com/world/2025/oct/09/climate-crisis-humanitarian-visa-displaced-pacific-islanders)
+- [Ukraine war briefing: Analysts flag Kremlin scare campaign against use of Tomahawks](https://www.theguardian.com/world/2025/oct/09/ukraine-war-briefing)
+- [Governments are spending billions on their own ‘sovereign’ AI technologies – is it a big waste of money?](https://www.theguardian.com/technology/2025/oct/09/governments-spending-billions-sovereign-ai-technology)
+- [Marco Rubio interrupts Trump with handwritten note on Gaza peace deal](https://www.theguardian.com/us-news/2025/oct/08/marco-rubio-trump-note-gaza-peace-deal)
+- [Wayne Thiebaud review – staggering still lifes to make your mouth water](https://www.theguardian.com/artanddesign/2025/oct/09/wayne-thiebaud-review-courtauld-gallery-london)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

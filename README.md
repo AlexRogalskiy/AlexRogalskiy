@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Gaza ceasefire live: Israel ‘preparing to receive’ hostages as Trump says he will be ’involved’ in keeping peace](https://www.theguardian.com/world/live/2025/oct/08/gaza-ceasefire-talks-israel-hamas-trump-us-qatar-turkey-egypt-live-news-updates)
-- [Republican lawmakers praise Trump for Gaza deal as Palestinian Americans remain wary: ‘So much remains unclear’](https://www.theguardian.com/us-news/2025/oct/08/trump-gaza-deal-response)
-- [Cristina Fernández de Kirchner: Argentinian court sentences man to 10 years for attempted assassination](https://www.theguardian.com/world/2025/oct/09/cristina-fernandez-de-kirchner-former-argentinian-president-attempted-assassination-court-sentences-man)
-- [A Gaza ceasefire deal could be Trump’s biggest diplomatic achievement – but the devil is in the detail](https://www.theguardian.com/us-news/2025/oct/09/gaza-ceasefire-deal-trump-biggest-diplomatic-achievement-what-detail)
-- [Gaza ceasefire deal: What we know so far about the ‘first phase’ of the peace plan](https://www.theguardian.com/world/2025/oct/09/gaza-ceasefire-deal-first-phase-trump-peace-plan)
-- [‘Humanitarian’ visa must be created for Pacific Islanders displaced by climate crisis, experts say](https://www.theguardian.com/world/2025/oct/09/climate-crisis-humanitarian-visa-displaced-pacific-islanders)
-- [Ukraine war briefing: Analysts flag Kremlin scare campaign against use of Tomahawks](https://www.theguardian.com/world/2025/oct/09/ukraine-war-briefing)
-- [Governments are spending billions on their own ‘sovereign’ AI technologies – is it a big waste of money?](https://www.theguardian.com/technology/2025/oct/09/governments-spending-billions-sovereign-ai-technology)
-- [Marco Rubio interrupts Trump with handwritten note on Gaza peace deal](https://www.theguardian.com/us-news/2025/oct/08/marco-rubio-trump-note-gaza-peace-deal)
-- [Wayne Thiebaud review – staggering still lifes to make your mouth water](https://www.theguardian.com/artanddesign/2025/oct/09/wayne-thiebaud-review-courtauld-gallery-london)
+- [Philippines earthquake: tsunami warning for coasts including Indonesia after 7.4 quake hits Mindanao – live updates](https://www.theguardian.com/world/live/2025/oct/10/philippines-earthquake-tsunami-warning-issued-after-7-quake-hits-mindanao)
+- [Non-stop snow, instant noodles and yaks: tales of being trapped on Everest](https://www.theguardian.com/world/2025/oct/10/hikers-trapped-rescued-everest-survival-stories)
+- [Ukraine war briefing: 23 children and adolescents brought out of Russian-occupied areas](https://www.theguardian.com/world/2025/oct/10/ukraine-war-briefing-23-children-and-adolescents-brought-out-of-russian-occupied-areas)
+- [You won’t believe what degrading practice the pope just condemned](https://www.theguardian.com/australia-news/2025/oct/10/you-wont-believe-what-degrading-practice-the-pope-just-condemned)
+- [Further arrests made over ‘shocking’ arson attack on Peacehaven mosque](https://www.theguardian.com/uk-news/2025/oct/09/further-arrests-made-over-shocking-arson-attack-on-peacehaven-mosque)
+- [Hamas and Israel prepare to implement ceasefire as Netanyahu says deal approved by government](https://www.theguardian.com/world/2025/oct/09/joy-and-anxiety-as-hamas-and-israel-prepare-to-implement-ceasefire-deal)
+- [Letitia James criminally charged in Trump’s latest effort to punish rivals](https://www.theguardian.com/us-news/2025/oct/09/criminal-charges-letitia-james-new-york-attorney-general)
+- [Drake’s defamation lawsuit against Universal Music Group dismissed](https://www.theguardian.com/music/2025/oct/09/drakes-defamation-lawsuit-dismissed)
+- [Trump dreams of ‘everlasting peace’ as acolytes drop heavy hints to Nobel committee](https://www.theguardian.com/us-news/2025/oct/09/trump-nobel-peace-prize-gaza)
+- [Rogers, Watkins and Saka stunner lead England to emphatic win against Wales](https://www.theguardian.com/football/2025/oct/09/england-wales-international-friendly-match-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

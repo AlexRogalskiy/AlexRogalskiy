@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Tonight&#39;s Dinner Fell Off the Sysco Truck](https://www.thenation.com/article/society/restaurant-consolidation-loss-local-identity/)
-- [Corruption: When Norms Upstage the Law](https://knowablemagazine.org/content/article/society/2025/how-corruption-interplays-with-social-norms)
-- [Designing a Low Latency 10G Ethernet Core](https://ttchisholm.github.io/ethernet/2023/05/01/designing-10g-eth-1.html)
-- [A competitor crippled a $23.5M bootcamp by becoming a Reddit moderator](https://larslofgren.com/codesmith-reddit-reputation-attack/)
-- [Radio Garten](https://radio.garden/)
-- [Show HN: HyprMCP – Analytics, logs and auth for MCP servers](https://github.com/hyprmcp/jetski)
-- [Discord says 70k users may have had their government IDs leaked in breach](https://www.theverge.com/news/797051/discord-government-ids-leaked-data-breach)
-- [PWA Browser Scorecards](https://pwascore.com/)
-- [OpenAI, Nvidia fuel $1T AI market with web of circular deals](https://www.bloomberg.com/news/features/2025-10-07/openai-s-nvidia-amd-deals-boost-1-trillion-ai-boom-with-circular-deals)
-- [Kurt Got Got](https://fly.io/blog/kurt-got-got/)
+- [How to write in Cuneiform](https://www.openculture.com/2025/09/how-to-write-in-cuneiform-the-oldest-writing-system.html)
+- [Show HN: 100% open source, logical multi-master PostgreSQL replication](https://github.com/pgEdge/spock)
+- [Show HN: GYST – Digital organizer that replicates the feeling of a physical desk](https://gyst.fr/)
+- [A built-in &#39;off switch&#39; to stop persistent pain](https://penntoday.upenn.edu/news/select-neurons-brainstem-may-hold-key-treating-chronic-pain)
+- [Finding a VS Code Memory Leak](https://randomascii.wordpress.com/2025/10/09/finding-a-vs-code-memory-leak/)
+- [The Burrows-Wheeler Transform](https://sandbox.bio/concepts/bwt)
+- [The government ate my name](https://slate.com/life/2025/10/passport-name-change-united-states-mexico-spain-immigration.html)
+- [Hacker News Live Feed](https://jerbear2008.github.io/hn-live/)
+- [2025 MacArthur Fellows](https://www.macfound.org/programs/awards/fellows/)
+- [Rubygems.org AWS Root Access Event – September 2025](https://rubycentral.org/news/rubygems-org-aws-root-access-event-september-2025/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

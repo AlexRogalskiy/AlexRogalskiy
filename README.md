@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Recharts – A composable charting library built on React components](https://recharts.org/)
-- [Mathematical discovery in the age of artificial intelligence [pdf]](https://uva.theopenscholar.com/files/ken-ono/files/documents/naturephysics.pdf)
-- [Google tells employees: If you want health benefits, sign up with an AI tool](https://www.businessinsider.com/google-ai-health-tool-opt-in-risk-losing-benefits-2025-10)
-- [Dealing with Eventual and Causal Consistency Using Predictable Identifiers](https://www.architecture-weekly.com/p/dealing-with-eventual-consistency)
-- [Motion sensors in mice can be used as a microphone to spy, converting vibrations](https://www.tomshardware.com/tech-industry/cyber-security/high-performance-mice-can-be-used-as-a-microphone-to-spy-on-users-thanks-to-ai-mic-e-mouse-technique-uses-mouse-sensors-to-convert-acoustic-vibrations-into-speech)
-- [Tonight&#39;s Dinner Fell Off the Sysco Truck](https://www.thenation.com/article/society/restaurant-consolidation-loss-local-identity/)
-- [Corruption: When Norms Upstage the Law](https://knowablemagazine.org/content/article/society/2025/how-corruption-interplays-with-social-norms)
-- [The Pushkin job: unmasking the thieves behind an international rare books heist](https://www.theguardian.com/books/2025/oct/07/the-pushkin-job-unmasking-the-thieves-behind-an-international-rare-books-heist)
-- [Replacing the Type Checker for the Swift Compiler](https://forums.swift.org/t/replacing-the-type-checker/79518)
-- [Donald Trump says Israel and Hamas agree to &#39;first phase&#39; of Gaza peace deal](https://www.9news.com.au/world/gaza-israel-hamas-peace-deal-reached-donald-trump-announces/3b239e5e-f11d-4431-8794-5bf215068263)
+- [Microsoft engineer resigns over cloud business from Israeli military](https://www.cnbc.com/2025/10/09/microsoft-engineer-resigns-over-cloud-business-from-israeli-military.html)
+- [Show HN: I Found a Way for Crypto Casinos to Be Fair](https://probablyfair.org/)
+- [Connecting Cloud Apps to Industrial Equipment with Tailscale](https://wedgworth.dev/connecting-cloud-apps-to-industrial-equipment-with-tailscale/)
+- [Open-Source Agentic AI](https://github.com/AFK-surf/open-agent)
+- [How the Gaza ceasefire deal was done](https://www.theguardian.com/world/2025/oct/09/how-the-gaza-ceasefire-deal-was-done-donald-trump)
+- [The phaseout of the MMAP&lpar;&rpar; file operation](https://lwn.net/Articles/1038715/)
+- [A low cost modular actuator for dynamic robots &lpar;2018&rpar;](https://dspace.mit.edu/handle/1721.1/118671)
+- [Onyx Boox Note Air 4 C Review: The Best Color E Ink Tablet for Most People](https://www.pcmag.com/reviews/onyx-boox-note-air-4-c)
+- [Claude Code&#39;s Web Tools: WebFetch vs. WebSearch](https://mikhail.io/2025/10/claude-code-web-tools/)
+- [Gene-Edited Tomatoes Might Boost Vitamin D Levels–That Doesn&#39;t Mean They&#39;re Safe](https://publichealthpolicyjournal.com/gene-edited-tomatoes-might-boost-vitamin-d-levels-but-that-doesnt-mean-theyre-safe-to-eat/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

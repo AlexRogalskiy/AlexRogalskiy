@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [How to write in Cuneiform](https://www.openculture.com/2025/09/how-to-write-in-cuneiform-the-oldest-writing-system.html)
-- [Show HN: 100% open source, logical multi-master PostgreSQL replication](https://github.com/pgEdge/spock)
-- [Show HN: GYST – Digital organizer that replicates the feeling of a physical desk](https://gyst.fr/)
-- [A built-in &#39;off switch&#39; to stop persistent pain](https://penntoday.upenn.edu/news/select-neurons-brainstem-may-hold-key-treating-chronic-pain)
-- [Finding a VS Code Memory Leak](https://randomascii.wordpress.com/2025/10/09/finding-a-vs-code-memory-leak/)
-- [The Burrows-Wheeler Transform](https://sandbox.bio/concepts/bwt)
-- [The government ate my name](https://slate.com/life/2025/10/passport-name-change-united-states-mexico-spain-immigration.html)
-- [Hacker News Live Feed](https://jerbear2008.github.io/hn-live/)
-- [2025 MacArthur Fellows](https://www.macfound.org/programs/awards/fellows/)
-- [Rubygems.org AWS Root Access Event – September 2025](https://rubycentral.org/news/rubygems-org-aws-root-access-event-september-2025/)
+- [Fears over AI bubble bursting grow in Silicon Valley](https://www.bbc.com/news/articles/cz69qy760weo)
+- [What happens to college towns after peak 18-year-old?](https://www.theargumentmag.com/p/what-happens-to-college-towns-after)
+- [Programming in the Sun: A Year with the Daylight Computer](https://wickstrom.tech/2025-10-10-programming-in-the-sun-a-year-with-the-daylight-computer.html)
+- [Verge Genomics &lpar;YC S15&rpar; Is Hiring for Multiple Engineering and Product Roles](https://news.ycombinator.com/item?id=45544636)
+- [&lpar;Re&rpar;Introducing the Pebble Appstore](https://ericmigi.com/blog/re-introducing-the-pebble-appstore/)
+- [Liquid Glass Is Cracked, and Usability Suffers in iOS 26](https://www.nngroup.com/articles/liquid-glass/)
+- [Tangled, a Git collaboration platform built on atproto](https://blog.tangled.org/intro)
+- [How to save the world with ZFS and 12 USB sticks: 4th anniversary video &lpar;2011&rpar;](https://constantin.glez.de/posts/2011-01-24-how-to-save-the-world-with-zfs-and-12-usb-sticks-4th-anniversary-video-re-release-edition/)
+- [I built physical album cards with NFC tags to teach my son music discovery](https://fulghum.io/album-cards)
+- [Show HN: Semantic search over the National Gallery of Art](https://nga.demo.mixedbread.com/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

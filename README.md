@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Philippines earthquake: tsunami warning for coasts including Indonesia after 7.4 quake hits Mindanao – live updates](https://www.theguardian.com/world/live/2025/oct/10/philippines-earthquake-tsunami-warning-issued-after-7-quake-hits-mindanao)
-- [Non-stop snow, instant noodles and yaks: tales of being trapped on Everest](https://www.theguardian.com/world/2025/oct/10/hikers-trapped-rescued-everest-survival-stories)
-- [Ukraine war briefing: 23 children and adolescents brought out of Russian-occupied areas](https://www.theguardian.com/world/2025/oct/10/ukraine-war-briefing-23-children-and-adolescents-brought-out-of-russian-occupied-areas)
-- [You won’t believe what degrading practice the pope just condemned](https://www.theguardian.com/australia-news/2025/oct/10/you-wont-believe-what-degrading-practice-the-pope-just-condemned)
-- [Further arrests made over ‘shocking’ arson attack on Peacehaven mosque](https://www.theguardian.com/uk-news/2025/oct/09/further-arrests-made-over-shocking-arson-attack-on-peacehaven-mosque)
-- [Hamas and Israel prepare to implement ceasefire as Netanyahu says deal approved by government](https://www.theguardian.com/world/2025/oct/09/joy-and-anxiety-as-hamas-and-israel-prepare-to-implement-ceasefire-deal)
-- [Letitia James criminally charged in Trump’s latest effort to punish rivals](https://www.theguardian.com/us-news/2025/oct/09/criminal-charges-letitia-james-new-york-attorney-general)
-- [Drake’s defamation lawsuit against Universal Music Group dismissed](https://www.theguardian.com/music/2025/oct/09/drakes-defamation-lawsuit-dismissed)
-- [Trump dreams of ‘everlasting peace’ as acolytes drop heavy hints to Nobel committee](https://www.theguardian.com/us-news/2025/oct/09/trump-nobel-peace-prize-gaza)
-- [Rogers, Watkins and Saka stunner lead England to emphatic win against Wales](https://www.theguardian.com/football/2025/oct/09/england-wales-international-friendly-match-report)
+- [Ukraine war briefing: Power restored to Kyiv after Russia drone attacks](https://www.theguardian.com/world/2025/oct/11/ukraine-war-briefing-power-restored-to-kyiv-after-russia-drone-attacks)
+- [Is This Thing On? review – Bradley Cooper’s comedy of comedians is a charmer](https://www.theguardian.com/film/2025/oct/10/is-this-thing-on-review-bradley-cooper)
+- [Nineteen people feared dead after blast at Tennessee munitions plant](https://www.theguardian.com/us-news/2025/oct/10/tennessee-military-explosives-plant-explosion)
+- [Man in serious condition after being shot by police in London](https://www.theguardian.com/uk-news/2025/oct/10/man-in-serious-condition-after-being-shot-by-police-in-london)
+- [World Cup qualifying: Big win for Northern Ireland while Mbappé helps France close in](https://www.theguardian.com/football/2025/oct/10/world-cup-qualifying-northern-ireland-stay-on-track-while-mbappe-helps-france-close-in)
+- [Macron reappoints Sébastien Lecornu as French prime minister](https://www.theguardian.com/world/2025/oct/10/macron-reappoints-sebastien-lecornu-as-french-prime-minister)
+- [Trump threatens 100% China tariffs as Beijing restricts rare-earth exports](https://www.theguardian.com/us-news/2025/oct/10/trump-china-tariffs)
+- [Roebuck hat-trick sets up nine-try rout as Sale pile more misery on Newcastle](https://www.theguardian.com/sport/2025/oct/10/sale-newcastle-prem-rugby-union-match-report)
+- [Trump officials cancel major solar project in latest hit to renewable energy](https://www.theguardian.com/us-news/2025/oct/10/trump-officials-drop-major-solar-power-project-in-another-renewable-energy-attack)
+- [Martín Zubimendi: ‘I have to adapt but Arsenal signed me because they like what I do’](https://www.theguardian.com/football/2025/oct/10/martin-zubimendi-arsenal-spain-interview)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

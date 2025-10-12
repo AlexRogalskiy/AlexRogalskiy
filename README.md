@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine war briefing: Power restored to Kyiv after Russia drone attacks](https://www.theguardian.com/world/2025/oct/11/ukraine-war-briefing-power-restored-to-kyiv-after-russia-drone-attacks)
-- [Is This Thing On? review – Bradley Cooper’s comedy of comedians is a charmer](https://www.theguardian.com/film/2025/oct/10/is-this-thing-on-review-bradley-cooper)
-- [Nineteen people feared dead after blast at Tennessee munitions plant](https://www.theguardian.com/us-news/2025/oct/10/tennessee-military-explosives-plant-explosion)
-- [Man in serious condition after being shot by police in London](https://www.theguardian.com/uk-news/2025/oct/10/man-in-serious-condition-after-being-shot-by-police-in-london)
-- [World Cup qualifying: Big win for Northern Ireland while Mbappé helps France close in](https://www.theguardian.com/football/2025/oct/10/world-cup-qualifying-northern-ireland-stay-on-track-while-mbappe-helps-france-close-in)
-- [Macron reappoints Sébastien Lecornu as French prime minister](https://www.theguardian.com/world/2025/oct/10/macron-reappoints-sebastien-lecornu-as-french-prime-minister)
-- [Trump threatens 100% China tariffs as Beijing restricts rare-earth exports](https://www.theguardian.com/us-news/2025/oct/10/trump-china-tariffs)
-- [Roebuck hat-trick sets up nine-try rout as Sale pile more misery on Newcastle](https://www.theguardian.com/sport/2025/oct/10/sale-newcastle-prem-rugby-union-match-report)
-- [Trump officials cancel major solar project in latest hit to renewable energy](https://www.theguardian.com/us-news/2025/oct/10/trump-officials-drop-major-solar-power-project-in-another-renewable-energy-attack)
-- [Martín Zubimendi: ‘I have to adapt but Arsenal signed me because they like what I do’](https://www.theguardian.com/football/2025/oct/10/martin-zubimendi-arsenal-spain-interview)
+- [Trump news at a glance: US troops will be paid despite shutdown, president claims](https://www.theguardian.com/us-news/2025/oct/12/trump-administration-news-updates-today)
+- [Rolling Stones’s Ronnie Wood says he is working on new songs with Rod Stewart](https://www.theguardian.com/music/2025/oct/12/ronnie-wood-and-rod-stewart-working-together-on-songs-again-rolling-stone-says)
+- [Heavy clashes erupt along Pakistan-Afghanistan border](https://www.theguardian.com/world/2025/oct/11/heavy-clashes-erupt-along-pakistan-afghanistan-border)
+- [National guard troops in Illinois can remain but cannot be deployed yet, judge rules](https://www.theguardian.com/us-news/2025/oct/11/national-guard-ice-memphis-tennessee-chicago-illinois)
+- [An ethereally self-aware comedy genius: the loss of Diane Keaton is devastating | Peter Bradshaw](https://www.theguardian.com/film/2025/oct/11/an-ethereally-self-aware-comedy-genius-the-loss-of-diane-keaton-is-devastating)
+- [Donald Trump and Abdel Fatah al-Sisi to chair Gaza peace summit on Monday](https://www.theguardian.com/world/2025/oct/11/donald-trump-and-abdel-fattah-al-sisi-to-chair-gaza-peace-summit)
+- [World Cup qualifying roundup: Neves stuns Republic of Ireland with late goal](https://www.theguardian.com/football/2025/oct/11/world-cup-qualifying-roundup-neves-stuns-republic-of-ireland-with-late-goal)
+- [The Intruder review – the daftest thriller of the entire year](https://www.theguardian.com/tv-and-radio/2025/oct/11/the-intruder-review-bbc-four)
+- [Diane Keaton, Oscar-winning star of Annie Hall and The Godfather, dies aged 79](https://www.theguardian.com/film/2025/oct/11/diane-keaton-oscar-winning-star-of-annie-hall-and-the-godfather-dies-aged-79)
+- [Hull KR secure treble with dominant display against Wigan in Super League Grand Final](https://www.theguardian.com/sport/2025/oct/11/hull-kr-wigan-super-league-grand-final-rugby-league-match-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

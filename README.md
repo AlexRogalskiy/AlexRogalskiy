@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Fears over AI bubble bursting grow in Silicon Valley](https://www.bbc.com/news/articles/cz69qy760weo)
-- [What happens to college towns after peak 18-year-old?](https://www.theargumentmag.com/p/what-happens-to-college-towns-after)
-- [Programming in the Sun: A Year with the Daylight Computer](https://wickstrom.tech/2025-10-10-programming-in-the-sun-a-year-with-the-daylight-computer.html)
-- [Verge Genomics &lpar;YC S15&rpar; Is Hiring for Multiple Engineering and Product Roles](https://news.ycombinator.com/item?id=45544636)
-- [&lpar;Re&rpar;Introducing the Pebble Appstore](https://ericmigi.com/blog/re-introducing-the-pebble-appstore/)
-- [Liquid Glass Is Cracked, and Usability Suffers in iOS 26](https://www.nngroup.com/articles/liquid-glass/)
-- [Tangled, a Git collaboration platform built on atproto](https://blog.tangled.org/intro)
-- [How to save the world with ZFS and 12 USB sticks: 4th anniversary video &lpar;2011&rpar;](https://constantin.glez.de/posts/2011-01-24-how-to-save-the-world-with-zfs-and-12-usb-sticks-4th-anniversary-video-re-release-edition/)
-- [I built physical album cards with NFC tags to teach my son music discovery](https://fulghum.io/album-cards)
-- [Show HN: Semantic search over the National Gallery of Art](https://nga.demo.mixedbread.com/)
+- [China&#39;s New Rare Earth and Magnet Restrictions Threaten US Defense Supply Chains](https://www.csis.org/analysis/chinas-new-rare-earth-and-magnet-restrictions-threaten-us-defense-supply-chains)
+- [Show HN: rift – a tiling window manager for macOS](https://github.com/acsandmann/rift)
+- [LineageOS 23](https://lineageos.org/Changelog-30/)
+- [Vancouver Stock Exchange: Scam capital of the world &lpar;1989&rpar; [pdf]](https://scamcouver.wordpress.com/wp-content/uploads/2012/04/scam-capital.pdf)
+- [Google blocks Android hack that let Pixel users enable VoLTE anywhere](https://www.androidauthority.com/pixel-ims-broken-october-update-3606444/)
+- [Paper2Video: Automatic Video Generation from Scientific Papers](https://arxiv.org/abs/2510.05096)
+- [Meta Superintelligence&#39;s surprising first paper](https://paddedinputs.substack.com/p/meta-superintelligences-surprising)
+- [Heroin Addicts Often Seem Normal](https://justismills.substack.com/p/heroin-addicts-often-seem-normal)
+- [Ask HN: Abandoned/dead projects you think died before their time and why?](https://news.ycombinator.com/item?id=45553132)
+- [The story of X-Copy on the Amiga](https://spillhistorie.no/2025/10/10/the-story-of-x-copy-on-the-amiga/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [China&#39;s New Rare Earth and Magnet Restrictions Threaten US Defense Supply Chains](https://www.csis.org/analysis/chinas-new-rare-earth-and-magnet-restrictions-threaten-us-defense-supply-chains)
-- [Show HN: rift – a tiling window manager for macOS](https://github.com/acsandmann/rift)
-- [LineageOS 23](https://lineageos.org/Changelog-30/)
-- [Vancouver Stock Exchange: Scam capital of the world &lpar;1989&rpar; [pdf]](https://scamcouver.wordpress.com/wp-content/uploads/2012/04/scam-capital.pdf)
-- [Google blocks Android hack that let Pixel users enable VoLTE anywhere](https://www.androidauthority.com/pixel-ims-broken-october-update-3606444/)
-- [Paper2Video: Automatic Video Generation from Scientific Papers](https://arxiv.org/abs/2510.05096)
-- [Meta Superintelligence&#39;s surprising first paper](https://paddedinputs.substack.com/p/meta-superintelligences-surprising)
-- [Heroin Addicts Often Seem Normal](https://justismills.substack.com/p/heroin-addicts-often-seem-normal)
-- [Ask HN: Abandoned/dead projects you think died before their time and why?](https://news.ycombinator.com/item?id=45553132)
-- [The story of X-Copy on the Amiga](https://spillhistorie.no/2025/10/10/the-story-of-x-copy-on-the-amiga/)
+- [Despite what&#39;s happening in the USA, renewables are winning globally](https://thebulletin.org/2025/10/despite-whats-happening-in-the-usa-renewables-are-winning-globally/)
+- [For Centuries Meals Amazed Visitors to Korea](https://www.atlasobscura.com/articles/history-of-korean-food)
+- [John Searle Has Died](https://www.nytimes.com/2025/10/12/books/john-searle-dead.html)
+- [Novelty Automation](https://www.novelty-automation.com/)
+- [Wall Street is worried the private credit bubble will burst](https://www.thetimes.com/business-money/economics/article/wall-street-first-brands-private-credit-bubble-risk-363q2tcds)
+- [Free software hasn&#39;t won](https://dorotac.eu/posts/fosswon/)
+- [An initial investigation into WDDM on ReactOS](https://reactos.org/blogs/investigating-wddm/)
+- [Edge AI for Beginners](https://github.com/microsoft/edgeai-for-beginners)
+- [Emacs agent-shell &lpar;powered by ACP&rpar;](https://xenodium.com/introducing-agent-shell)
+- [Ask HN: What are you working on? &lpar;October 2025&rpar;](https://news.ycombinator.com/item?id=45561428)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

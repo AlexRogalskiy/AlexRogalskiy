@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Trump news at a glance: US troops will be paid despite shutdown, president claims](https://www.theguardian.com/us-news/2025/oct/12/trump-administration-news-updates-today)
-- [Rolling Stones’s Ronnie Wood says he is working on new songs with Rod Stewart](https://www.theguardian.com/music/2025/oct/12/ronnie-wood-and-rod-stewart-working-together-on-songs-again-rolling-stone-says)
-- [Heavy clashes erupt along Pakistan-Afghanistan border](https://www.theguardian.com/world/2025/oct/11/heavy-clashes-erupt-along-pakistan-afghanistan-border)
-- [National guard troops in Illinois can remain but cannot be deployed yet, judge rules](https://www.theguardian.com/us-news/2025/oct/11/national-guard-ice-memphis-tennessee-chicago-illinois)
-- [An ethereally self-aware comedy genius: the loss of Diane Keaton is devastating | Peter Bradshaw](https://www.theguardian.com/film/2025/oct/11/an-ethereally-self-aware-comedy-genius-the-loss-of-diane-keaton-is-devastating)
-- [Donald Trump and Abdel Fatah al-Sisi to chair Gaza peace summit on Monday](https://www.theguardian.com/world/2025/oct/11/donald-trump-and-abdel-fattah-al-sisi-to-chair-gaza-peace-summit)
-- [World Cup qualifying roundup: Neves stuns Republic of Ireland with late goal](https://www.theguardian.com/football/2025/oct/11/world-cup-qualifying-roundup-neves-stuns-republic-of-ireland-with-late-goal)
-- [The Intruder review – the daftest thriller of the entire year](https://www.theguardian.com/tv-and-radio/2025/oct/11/the-intruder-review-bbc-four)
-- [Diane Keaton, Oscar-winning star of Annie Hall and The Godfather, dies aged 79](https://www.theguardian.com/film/2025/oct/11/diane-keaton-oscar-winning-star-of-annie-hall-and-the-godfather-dies-aged-79)
-- [Hull KR secure treble with dominant display against Wigan in Super League Grand Final](https://www.theguardian.com/sport/2025/oct/11/hull-kr-wigan-super-league-grand-final-rugby-league-match-report)
+- [The Palestinian and Israeli kids trying to be friends – podcast](https://www.theguardian.com/news/audio/2025/oct/13/the-palestinian-and-israeli-kids-trying-to-be-friends-podcast)
+- [Pat Cummins concedes he is ‘weeks away’ from bowling and unlikely to play in first Ashes Test](https://www.theguardian.com/sport/2025/oct/13/pat-cummins-update-confirms-unlikely-play-first-ashes-test-cricket)
+- [Ukraine war briefing: Moscow voices ‘extreme concern’ at Trump threat to send Tomahawk missiles to Kyiv](https://www.theguardian.com/world/2025/oct/13/ukraine-war-briefing-moscow-voices-extreme-concern-at-trump-threat-to-send-tomohawk-missiles-to-kyiv)
+- [Generational shift as millennials make up half of new buy-to-let investors in England and Wales](https://www.theguardian.com/money/2025/oct/13/generational-shift-as-millennials-make-up-half-of-new-buy-to-let-investors-in-england-and-wales)
+- [Post-ministerial jobs watchdog closes as part of UK government ethics shake-up](https://www.theguardian.com/politics/2025/oct/13/post-ministerial-jobs-watchdog-acoba-closes-uk-government-ethics-shake-up)
+- [Energy firms complete UK’s first ‘hydrogen blending’ trial to power grid](https://www.theguardian.com/business/2025/oct/13/energy-firms-complete-uk-first-hydrogen-blending-trial-power-grid)
+- [Woman, 53, becomes UK’s longest survivor of heart and lung transplant](https://www.theguardian.com/society/2025/oct/13/katie-mitchell-becomes-uk-longest-surviving-heart-and-lung-transplant-recipient)
+- [Planet’s first catastrophic climate tipping point reached, report says, with coral reefs facing ‘widespread dieback’](https://www.theguardian.com/environment/2025/oct/13/coral-reefs-ice-sheets-amazon-rainforest-tipping-point-global-heating-scientists-report)
+- [Jonathan Powell had no role in dropping of China spy case, senior minister says](https://www.theguardian.com/politics/2025/oct/12/jonathan-powell-no-role-dropping-china-spy-case-senior-minister-says)
+- [Green party reaches 100,000 members for first time after Polanski becomes leader](https://www.theguardian.com/politics/2025/oct/12/green-party-reaches-100000-members-for-first-time-after-polanski-becomes-leader)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

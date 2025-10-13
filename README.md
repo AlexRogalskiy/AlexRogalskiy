@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ask HN: Why is observability so broken, and what can fix it?](https://news.ycombinator.com/item?id=45554696)
-- [Using LibreChat to run your own chatbot connected to your MCP&#39;s](https://napsty.com/blog/using-librechat-to-host-mcp-chatbot)
-- [Australia&#39;s March Toward 100 Percent Clean Energy](https://www.wired.com/story/as-coal-fades-australia-looks-to-realize-dream-of-100-renewable-energy/)
-- [CSS Has 42 Units](https://www.irrlicht3d.org/index.php?t=1627)
-- [Show HN: Built an open-source SDK to simplify tool authentication for AI Agents](https://github.com/CelestoAI/agentor)
-- [Marc Benioff says he wants Trump to send National Guard to San Francisco](https://www.kron4.com/news/bay-area/marc-benioff-wants-trump-to-send-national-guard-to-san-francisco-mayors-office-responds/)
-- [Agentic Context Engineering: Evolving Contexts for SelfImproving Language Models](https://arxiv.org/abs/2510.04618)
-- [Yes, a digital ID could be secure – but the BritCard hasn&#39;t gained my trust](https://www.techradar.com/vpn/vpn-privacy-security/yes-a-digital-id-could-be-safe-and-secure-but-the-britcard-hasnt-gained-my-trust)
-- [Both sides favor censorship when children&#39;s books conflict](https://www.psypost.org/both-sides-favor-censorship-when-childrens-books-conflict-with-their-political-beliefs/)
-- [Hector &lpar;Cloud&rpar;](https://en.wikipedia.org/wiki/Hector_(cloud))
+- [The working-class hero of Bletchley Park you didn&#39;t see in the movies](https://www.theguardian.com/world/2025/oct/12/move-over-alan-turing-meet-the-working-class-hero-of-bletchley-park-you-didnt-see-in-the-movies)
+- [Canada eyes putting nuclear reactors on the moon](https://www.cbc.ca/news/science/canada-nuclear-reactor-moon-9.6933657)
+- [World Simulation with Video Foundation Models for Physical AI](https://research.nvidia.com/publication/2025-09_world-simulation-video-foundation-models-physical-ai)
+- [Logos of the Early Computer Software Scene](https://ccommunee.com/en/products/kfax04-logos-of-the-early-computer-software-scene)
+- [Logos of the Early Ufology Scene](https://ccommunee.com/en/products/kfax12-logos-of-the-early-ufology-scene)
+- [Trump&#39;s iconic writing style partly due to Truth Social UIKeyboardType choice](https://twitter.com/0xmmo/status/1977566315557859403)
+- [Show HN: Image-to-Dot-to-Dot Generator. Print Custom Puzzles](https://connectthedotsprintable.online/)
+- [I wrote a 100% Public Domain FPGA Architecture, come check it out](https://gitea.com/OutfoxSemiconductorLLC/OutfoxFPGAArch)
+- [The Original Sin of Computing that no one can fix [video]](https://www.youtube.com/watch?v=Fu3laL5VYdM)
+- [Countering Trusting Trust Through Diverse Double-Compiling &lpar;DDC&rpar;](https://dwheeler.com/trusting-trust/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

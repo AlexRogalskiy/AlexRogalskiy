@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The working-class hero of Bletchley Park you didn&#39;t see in the movies](https://www.theguardian.com/world/2025/oct/12/move-over-alan-turing-meet-the-working-class-hero-of-bletchley-park-you-didnt-see-in-the-movies)
-- [Canada eyes putting nuclear reactors on the moon](https://www.cbc.ca/news/science/canada-nuclear-reactor-moon-9.6933657)
-- [World Simulation with Video Foundation Models for Physical AI](https://research.nvidia.com/publication/2025-09_world-simulation-video-foundation-models-physical-ai)
-- [Logos of the Early Computer Software Scene](https://ccommunee.com/en/products/kfax04-logos-of-the-early-computer-software-scene)
-- [Logos of the Early Ufology Scene](https://ccommunee.com/en/products/kfax12-logos-of-the-early-ufology-scene)
-- [Trump&#39;s iconic writing style partly due to Truth Social UIKeyboardType choice](https://twitter.com/0xmmo/status/1977566315557859403)
-- [Show HN: Image-to-Dot-to-Dot Generator. Print Custom Puzzles](https://connectthedotsprintable.online/)
-- [I wrote a 100% Public Domain FPGA Architecture, come check it out](https://gitea.com/OutfoxSemiconductorLLC/OutfoxFPGAArch)
-- [The Original Sin of Computing that no one can fix [video]](https://www.youtube.com/watch?v=Fu3laL5VYdM)
-- [Countering Trusting Trust Through Diverse Double-Compiling &lpar;DDC&rpar;](https://dwheeler.com/trusting-trust/)
+- [Modifying a Casio F-Series Digital Watch &lpar;2020&rpar;](https://shellzine.net/casio-f-series-mods/)
+- [Kasparov: &quot;Putin is testing EU: before year-end, he&#39;ll launch a ground invasion&quot;](https://www.mundoamerica.com/news/2025/10/06/68e3ae8be9cf4a1c738b45a5.html)
+- [Show HN: Picture to Drawing – AI-powered photo to drawing converter](https://picturetodrawing.io)
+- [Boot for Windows](https://josebrabo.gumroad.com/l/nizmw)
+- [Canada Express Entry Statistics](https://dailistats.netlify.app)
+- [Vite+ – Voidzero](https://voidzero.dev/posts/announcing-vite-plus)
+- [Show HN: A client-side tool to render Gemini chat HTML into a clean image/PDF](https://www.aichat2pic.com/)
+- [Setting Up a Home ISP with GPON](https://www.apalrd.net/posts/2025/isp_gpon/)
+- [Show HN: What the Font: Discover and Identify Fonts from Images](https://whatthefont.app)
+- [China can&#39;t afford to invade Taiwan](https://www.youtube.com/watch?v=6c57q9bIBPQ)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

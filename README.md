@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [The Palestinian and Israeli kids trying to be friends – podcast](https://www.theguardian.com/news/audio/2025/oct/13/the-palestinian-and-israeli-kids-trying-to-be-friends-podcast)
-- [Pat Cummins concedes he is ‘weeks away’ from bowling and unlikely to play in first Ashes Test](https://www.theguardian.com/sport/2025/oct/13/pat-cummins-update-confirms-unlikely-play-first-ashes-test-cricket)
-- [Ukraine war briefing: Moscow voices ‘extreme concern’ at Trump threat to send Tomahawk missiles to Kyiv](https://www.theguardian.com/world/2025/oct/13/ukraine-war-briefing-moscow-voices-extreme-concern-at-trump-threat-to-send-tomohawk-missiles-to-kyiv)
-- [Generational shift as millennials make up half of new buy-to-let investors in England and Wales](https://www.theguardian.com/money/2025/oct/13/generational-shift-as-millennials-make-up-half-of-new-buy-to-let-investors-in-england-and-wales)
-- [Post-ministerial jobs watchdog closes as part of UK government ethics shake-up](https://www.theguardian.com/politics/2025/oct/13/post-ministerial-jobs-watchdog-acoba-closes-uk-government-ethics-shake-up)
-- [Energy firms complete UK’s first ‘hydrogen blending’ trial to power grid](https://www.theguardian.com/business/2025/oct/13/energy-firms-complete-uk-first-hydrogen-blending-trial-power-grid)
-- [Woman, 53, becomes UK’s longest survivor of heart and lung transplant](https://www.theguardian.com/society/2025/oct/13/katie-mitchell-becomes-uk-longest-surviving-heart-and-lung-transplant-recipient)
-- [Planet’s first catastrophic climate tipping point reached, report says, with coral reefs facing ‘widespread dieback’](https://www.theguardian.com/environment/2025/oct/13/coral-reefs-ice-sheets-amazon-rainforest-tipping-point-global-heating-scientists-report)
-- [Jonathan Powell had no role in dropping of China spy case, senior minister says](https://www.theguardian.com/politics/2025/oct/12/jonathan-powell-no-role-dropping-china-spy-case-senior-minister-says)
-- [Green party reaches 100,000 members for first time after Polanski becomes leader](https://www.theguardian.com/politics/2025/oct/12/green-party-reaches-100000-members-for-first-time-after-polanski-becomes-leader)
+- [Student’s alleged torture death by Cambodia scammers sparks turmoil in South Korea](https://www.theguardian.com/world/2025/oct/14/south-korea-student-alleged-torture-death-cambodia-scammers-sparks-turmoil)
+- [Ukraine war briefing: Crimea oil refinery burns as Russia feels effects on fuel supply](https://www.theguardian.com/world/2025/oct/14/ukraine-war-briefing-crimea-oil-refinery-burns-as-russia-feels-effects-on-fuel-supply)
+- [A candidate for local office in New York disappeared months ago. He could still win](https://www.theguardian.com/us-news/2025/oct/13/new-york-missing-candidate-long-beach-petros-krommidas)
+- [‘I lost a friend of almost 40 years’: Nancy Meyers pays tribute to Diane Keaton](https://www.theguardian.com/film/2025/oct/14/nancy-meyers-director-tribute-diane-keaton)
+- [UK retail sales growth cools amid fears over budget tax rises](https://www.theguardian.com/business/2025/oct/14/uk-retail-sales-growth-budget-tax-rises-barclays)
+- [Dementia risk for people who quit smoking in middle age ‘same as someone who never smoked’](https://www.theguardian.com/society/2025/oct/14/dementia-risk-for-people-who-quit-smoking-in-middle-age-same-as-someone-who-never-smoked)
+- [Cyber-attacks rise by 50% in past year, UK security agency says](https://www.theguardian.com/technology/2025/oct/14/cyber-attacks-rise-in-past-year-uk-security-agency-says)
+- [Blair’s former policy chief Matthew Taylor to lead Fair Work Agency](https://www.theguardian.com/business/2025/oct/14/matthew-taylor-fair-work-agency-watchdog-workers-rights)
+- [‘Dismal’ health of world’s forests is threat to humanity, report warns](https://www.theguardian.com/environment/2025/oct/14/dismal-health-of-worlds-forests-is-threat-to-humanity-report-warns)
+- [US news outlets refuse to sign new Pentagon rules to report only official information](https://www.theguardian.com/us-news/2025/oct/13/defense-department-media-news-rules)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

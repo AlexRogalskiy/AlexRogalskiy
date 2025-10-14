@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Despite what&#39;s happening in the USA, renewables are winning globally](https://thebulletin.org/2025/10/despite-whats-happening-in-the-usa-renewables-are-winning-globally/)
-- [For Centuries Meals Amazed Visitors to Korea](https://www.atlasobscura.com/articles/history-of-korean-food)
-- [John Searle Has Died](https://www.nytimes.com/2025/10/12/books/john-searle-dead.html)
-- [Novelty Automation](https://www.novelty-automation.com/)
-- [Wall Street is worried the private credit bubble will burst](https://www.thetimes.com/business-money/economics/article/wall-street-first-brands-private-credit-bubble-risk-363q2tcds)
-- [Free software hasn&#39;t won](https://dorotac.eu/posts/fosswon/)
-- [An initial investigation into WDDM on ReactOS](https://reactos.org/blogs/investigating-wddm/)
-- [Edge AI for Beginners](https://github.com/microsoft/edgeai-for-beginners)
-- [Emacs agent-shell &lpar;powered by ACP&rpar;](https://xenodium.com/introducing-agent-shell)
-- [Ask HN: What are you working on? &lpar;October 2025&rpar;](https://news.ycombinator.com/item?id=45561428)
+- [There are sensitive internal links in the clear on GEO satellites [pdf]](https://satcom.sysnet.ucsd.edu/docs/dontlookup_ccs25_fullpaper.pdf)
+- [StreamingVLM: Real-Time Understanding for Infinite Video Streams](https://arxiv.org/abs/2510.09608)
+- [Hackers can steal 2FA codes and private messages from Android phones](https://arstechnica.com/security/2025/10/no-fix-yet-for-attack-that-lets-hackers-pluck-2fa-codes-from-android-phones/)
+- [DDoS Botnet Aisuru Blankets US ISPs in Record DDoS](https://krebsonsecurity.com/2025/10/ddos-botnet-aisuru-blankets-us-isps-in-record-ddos/)
+- [Sony PlayStation 2 fixing frenzy](https://retrohax.net/sony-playstation-2-fixing-frenzy/)
+- [LLMs are getting better at character-level text manipulation](https://blog.burkert.me/posts/llm_evolution_character_manipulation/)
+- [Strudel REPL – a music live coding environment living in the browser](https://strudel.cc)
+- [Modern iOS Security Features – A Deep Dive into SPTM, TXM, and Exclaves](https://arxiv.org/abs/2510.09272)
+- [America&#39;s future could hinge on whether AI slightly disappoints](https://www.noahpinion.blog/p/americas-future-could-hinge-on-whether)
+- [Optery &lpar;YC W22&rpar; – Hiring Tech Lead with Node.js Experience &lpar;U.S. &amp; Latin America&rpar;](https://www.optery.com/careers/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

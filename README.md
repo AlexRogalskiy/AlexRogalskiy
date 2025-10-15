@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Modifying a Casio F-Series Digital Watch &lpar;2020&rpar;](https://shellzine.net/casio-f-series-mods/)
-- [Kasparov: &quot;Putin is testing EU: before year-end, he&#39;ll launch a ground invasion&quot;](https://www.mundoamerica.com/news/2025/10/06/68e3ae8be9cf4a1c738b45a5.html)
-- [Show HN: Picture to Drawing – AI-powered photo to drawing converter](https://picturetodrawing.io)
-- [Boot for Windows](https://josebrabo.gumroad.com/l/nizmw)
-- [Canada Express Entry Statistics](https://dailistats.netlify.app)
-- [Vite+ – Voidzero](https://voidzero.dev/posts/announcing-vite-plus)
-- [Show HN: A client-side tool to render Gemini chat HTML into a clean image/PDF](https://www.aichat2pic.com/)
-- [Setting Up a Home ISP with GPON](https://www.apalrd.net/posts/2025/isp_gpon/)
-- [Show HN: What the Font: Discover and Identify Fonts from Images](https://whatthefont.app)
-- [China can&#39;t afford to invade Taiwan](https://www.youtube.com/watch?v=6c57q9bIBPQ)
+- [SpaceX&#39;s 11th Starship flight a resounding success](https://www.npr.org/2025/10/13/nx-s1-5573520/space-x-eleventh-test-flight-starship)
+- [New AWS Certification: Generative AI Developer – Professional](https://aws.amazon.com/certification/certified-generative-ai-developer-professional/)
+- [Building Real-Time Analytics Systems: A Comprehensive Review](https://medium.com/devreads/book-review-building-real-time-analytics-systems-by-mark-needham-ce4da04e42cc)
+- [Lost Jack Kerouac story found among assassinated mafia boss&#39; belongings](https://www.sfgate.com/sf-culture/article/lost-jack-kerouac-chapter-found-mafia-boss-estate-21098566.php)
+- [Ask HN: Parents, have you ever missed deadlines to book kids&#39; summer programs?](https://news.ycombinator.com/item?id=45587540)
+- [How to Sell an MVP Pre-Revenue?](https://news.ycombinator.com/item?id=45587522)
+- [The Layer 1 Temptation: Why We&#39;re Not Rebuilding Dev Infra from Scratch &lpar;Yet&rpar;](https://blog.justcopy.ai/p/confessions-of-a-reluctant-infra)
+- [Cloudflare Collaborates with Payment Companies to Secure Agentic Commerce](https://www.businesswire.com/news/home/20251014144421/en/Cloudflare-Collaborates-with-Leading-Payments-Companies-to-Secure-and-Enable-Agentic-Commerce)
+- [Bose will brick SoundTouch speakers in 2026](https://www.bose.com/soundtouch-end-of-life)
+- [Primary credit for the Gaza ceasefire goes to the IDF – and Netanyahu](https://www.washingtonpost.com/opinions/2025/10/13/trump-netanyahu-israel-hamas-ceasefire/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

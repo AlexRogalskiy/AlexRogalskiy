@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Student’s alleged torture death by Cambodia scammers sparks turmoil in South Korea](https://www.theguardian.com/world/2025/oct/14/south-korea-student-alleged-torture-death-cambodia-scammers-sparks-turmoil)
-- [Ukraine war briefing: Crimea oil refinery burns as Russia feels effects on fuel supply](https://www.theguardian.com/world/2025/oct/14/ukraine-war-briefing-crimea-oil-refinery-burns-as-russia-feels-effects-on-fuel-supply)
-- [A candidate for local office in New York disappeared months ago. He could still win](https://www.theguardian.com/us-news/2025/oct/13/new-york-missing-candidate-long-beach-petros-krommidas)
-- [‘I lost a friend of almost 40 years’: Nancy Meyers pays tribute to Diane Keaton](https://www.theguardian.com/film/2025/oct/14/nancy-meyers-director-tribute-diane-keaton)
-- [UK retail sales growth cools amid fears over budget tax rises](https://www.theguardian.com/business/2025/oct/14/uk-retail-sales-growth-budget-tax-rises-barclays)
-- [Dementia risk for people who quit smoking in middle age ‘same as someone who never smoked’](https://www.theguardian.com/society/2025/oct/14/dementia-risk-for-people-who-quit-smoking-in-middle-age-same-as-someone-who-never-smoked)
-- [Cyber-attacks rise by 50% in past year, UK security agency says](https://www.theguardian.com/technology/2025/oct/14/cyber-attacks-rise-in-past-year-uk-security-agency-says)
-- [Blair’s former policy chief Matthew Taylor to lead Fair Work Agency](https://www.theguardian.com/business/2025/oct/14/matthew-taylor-fair-work-agency-watchdog-workers-rights)
-- [‘Dismal’ health of world’s forests is threat to humanity, report warns](https://www.theguardian.com/environment/2025/oct/14/dismal-health-of-worlds-forests-is-threat-to-humanity-report-warns)
-- [US news outlets refuse to sign new Pentagon rules to report only official information](https://www.theguardian.com/us-news/2025/oct/13/defense-department-media-news-rules)
+- [USA v Australia: men’s international football friendly – live updates](https://www.theguardian.com/football/live/2025/oct/15/usa-v-australia-mens-international-football-friendly-live-updates)
+- [Xi directs quashing of Chinese feminists even as he praises advances at women’s conference](https://www.theguardian.com/world/2025/oct/15/xi-directs-quashing-of-chinese-feminists-even-as-he-praises-advances-at-womens-conference)
+- [Ukraine war briefing: Poland minister shows Shahed drone and warns of ‘deep’ Russian threat](https://www.theguardian.com/world/2025/oct/15/ukraine-war-briefing-poland-minister-shows-shahed-drone-and-warns-of-deep-russian-threat)
+- [‘Hot mic’ hot mess: gaffes made by global leaders when they think no one is listening](https://www.theguardian.com/news/2025/oct/15/world-leader-hot-mic-gaffes-indonesia-prabowo-trump-xi-putin-gordon-brown)
+- [Japan’s imported baby boom spotlights a political and demographic timebomb](https://www.theguardian.com/world/2025/oct/15/japans-imported-baby-boom-spotlights-a-political-and-demographic-timebomb)
+- [Bog Witch review – Bryony Kimmings is back with a haunting and hilarious climate reckoning](https://www.theguardian.com/stage/2025/oct/15/bog-witch-review-bryony-kimmings-climate-soho-theatre-walthamstow)
+- [Chicago ‘Splatatouille’ was probably a squirrel, say researchers](https://www.theguardian.com/world/2025/oct/15/chicago-rat-hole-probably-squirrel-say-researchers)
+- [Ditch ‘shrink it and pink it’ women’s trainer design, say experts](https://www.theguardian.com/society/2025/oct/14/ditch-shrink-it-and-pink-it-womens-trainer-design-say-experts)
+- [Big Tech deploys Orwellian doublespeak to mask its democratic corrosion | Peter Lewis](https://www.theguardian.com/commentisfree/2025/oct/15/big-tech-deploys-orwellian-doublespeak-ai-deployment)
+- [Thomas Tuchel laughs off England fans’ jibes and says: we will need you in America](https://www.theguardian.com/football/2025/oct/14/thomas-tuchel-laughs-off-england-fans-jibes-and-says-we-will-need-you-in-america)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

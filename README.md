@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [USA v Australia: men’s international football friendly – live updates](https://www.theguardian.com/football/live/2025/oct/15/usa-v-australia-mens-international-football-friendly-live-updates)
-- [Xi directs quashing of Chinese feminists even as he praises advances at women’s conference](https://www.theguardian.com/world/2025/oct/15/xi-directs-quashing-of-chinese-feminists-even-as-he-praises-advances-at-womens-conference)
-- [Ukraine war briefing: Poland minister shows Shahed drone and warns of ‘deep’ Russian threat](https://www.theguardian.com/world/2025/oct/15/ukraine-war-briefing-poland-minister-shows-shahed-drone-and-warns-of-deep-russian-threat)
-- [‘Hot mic’ hot mess: gaffes made by global leaders when they think no one is listening](https://www.theguardian.com/news/2025/oct/15/world-leader-hot-mic-gaffes-indonesia-prabowo-trump-xi-putin-gordon-brown)
-- [Japan’s imported baby boom spotlights a political and demographic timebomb](https://www.theguardian.com/world/2025/oct/15/japans-imported-baby-boom-spotlights-a-political-and-demographic-timebomb)
-- [Bog Witch review – Bryony Kimmings is back with a haunting and hilarious climate reckoning](https://www.theguardian.com/stage/2025/oct/15/bog-witch-review-bryony-kimmings-climate-soho-theatre-walthamstow)
-- [Chicago ‘Splatatouille’ was probably a squirrel, say researchers](https://www.theguardian.com/world/2025/oct/15/chicago-rat-hole-probably-squirrel-say-researchers)
-- [Ditch ‘shrink it and pink it’ women’s trainer design, say experts](https://www.theguardian.com/society/2025/oct/14/ditch-shrink-it-and-pink-it-womens-trainer-design-say-experts)
-- [Big Tech deploys Orwellian doublespeak to mask its democratic corrosion | Peter Lewis](https://www.theguardian.com/commentisfree/2025/oct/15/big-tech-deploys-orwellian-doublespeak-ai-deployment)
-- [Thomas Tuchel laughs off England fans’ jibes and says: we will need you in America](https://www.theguardian.com/football/2025/oct/14/thomas-tuchel-laughs-off-england-fans-jibes-and-says-we-will-need-you-in-america)
+- [Trump says he authorized covert CIA operations in Venezuela](https://www.theguardian.com/us-news/2025/oct/15/trump-venezuela-cia-maduro)
+- [Ukraine war briefing: ‘Bit of a process’ but India will give up Russian oil, Trump claims](https://www.theguardian.com/world/2025/oct/16/ukraine-war-briefing-bit-of-a-process-but-india-will-give-up-russian-oil-trump-claims)
+- [Hamas says all reachable hostage bodies recovered amid Israel threat to resume Gaza fighting](https://www.theguardian.com/world/2025/oct/16/hamas-hostage-bodies-recovered-amid-israel-gaza-fighting-ceasefire-deal)
+- [Trump news at a glance: Court halts mass firings threatened by White House as shutdown enters third week](https://www.theguardian.com/us-news/2025/oct/16/trump-administration-news-updates-today-latest)
+- [Faulty engineering led to deadly Titan sub implosion, US investigators rule](https://www.theguardian.com/world/2025/oct/15/titan-sub-disaster-ntsb-report)
+- [Border security officers sent to Balkans to disrupt people-smuggling networks](https://www.theguardian.com/uk-news/2025/oct/16/border-security-officers-sent-to-balkans-to-disrupt-people-smuggling-networks)
+- [CO2 from wildfires increases by 9% as climate crisis supercharges infernos](https://www.theguardian.com/world/2025/oct/16/extreme-wildfires-increase-carbon-emissions-climate-change)
+- [‘Gruesome videos’: social media pushes distressing news to children, experts say](https://www.theguardian.com/society/2025/oct/16/gruesome-videos-social-media-distressing-news-children-survey)
+- [Some parents of special school pupils in England spending £5,000 on EHCPs](https://www.theguardian.com/education/2025/oct/16/some-parents-of-special-school-pupils-in-england-spending-5000-on-ehcps)
+- [Ministry of Justice ‘has failed to file spending receipts of nearly £11bn’](https://www.theguardian.com/politics/2025/oct/16/ministry-of-justice-has-failed-to-file-spending-receipts-of-nearly-11bn)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [SpaceX&#39;s 11th Starship flight a resounding success](https://www.npr.org/2025/10/13/nx-s1-5573520/space-x-eleventh-test-flight-starship)
-- [New AWS Certification: Generative AI Developer – Professional](https://aws.amazon.com/certification/certified-generative-ai-developer-professional/)
-- [Building Real-Time Analytics Systems: A Comprehensive Review](https://medium.com/devreads/book-review-building-real-time-analytics-systems-by-mark-needham-ce4da04e42cc)
-- [Lost Jack Kerouac story found among assassinated mafia boss&#39; belongings](https://www.sfgate.com/sf-culture/article/lost-jack-kerouac-chapter-found-mafia-boss-estate-21098566.php)
-- [Ask HN: Parents, have you ever missed deadlines to book kids&#39; summer programs?](https://news.ycombinator.com/item?id=45587540)
-- [How to Sell an MVP Pre-Revenue?](https://news.ycombinator.com/item?id=45587522)
-- [The Layer 1 Temptation: Why We&#39;re Not Rebuilding Dev Infra from Scratch &lpar;Yet&rpar;](https://blog.justcopy.ai/p/confessions-of-a-reluctant-infra)
-- [Cloudflare Collaborates with Payment Companies to Secure Agentic Commerce](https://www.businesswire.com/news/home/20251014144421/en/Cloudflare-Collaborates-with-Leading-Payments-Companies-to-Secure-and-Enable-Agentic-Commerce)
-- [Bose will brick SoundTouch speakers in 2026](https://www.bose.com/soundtouch-end-of-life)
-- [Primary credit for the Gaza ceasefire goes to the IDF – and Netanyahu](https://www.washingtonpost.com/opinions/2025/10/13/trump-netanyahu-israel-hamas-ceasefire/)
+- [How to find trustworthy news reporting in these times?](https://ericdeggans.substack.com/p/how-to-find-trustworthy-news-reporting)
+- [How to Add Declarative Shadow DOM to a LitElement Web Component &lpar;2024&rpar;](https://scottnath.com/blahg/microdata-jsonresume-dsd/)
+- [Building Samoa&#39;s Digital Fa&#39;asamoa: Sovereignty Through Bitcoin](https://news.ycombinator.com/item?id=45600926)
+- [What&#39;s Next for Netskope](https://strategyofsecurity.com/p/whats-next-for-netskope)
+- [A Survey of Vibe Coding with Large Language Models](https://arxiv.org/abs/2510.12399)
+- [RFC 9861: KangarooTwelve and TurboSHAKE](https://datatracker.ietf.org/doc/rfc9861/)
+- [I Cheated at Poker by Hacking a Casino Card Shuffling Machine](https://www.youtube.com/watch?v=JQ20ilE5DtA)
+- [The Rebel Bees and the Dance of Nonconformity: A Lesson for AI](https://twitter.com/BrianRoemmele/status/1978629600667373964)
+- [U.S. falls out of top 10 on list of the world&#39;s most powerful passports](https://www.washingtonpost.com/travel/2025/10/15/us-passport-henley-ranking-list/)
+- [We Sell SaaS Presents: Internet TV](https://www.youtube.com/watch?v=GOBEJyTS_rQ)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

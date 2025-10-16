@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Can We Know Whether a Profiler Is Accurate?](https://stefan-marr.de/2025/10/can-we-know-whether-a-profiler-is-accurate/)
-- [Disk Prices](https://diskprices.com/?locale=us)
-- [New England&#39;s last coal plant has stopped operating, according to its owners](https://www.nhpr.org/nh-news/2025-10-06/new-englands-last-coal-plant-has-stopped-operating-according-to-its-owners)
-- [Ally Petitt: Youngest OSCP at 16yo. Over 11 CVEs by 18](https://ally-petitt.com/en/posts/2024-05-07_how-i-became-a-hacker-before-i-finished-high-school/)
-- [FSF announces Librephone project](https://www.fsf.org/news/librephone-project)
-- [Interior cancels largest solar project in North America](https://www.politico.com/news/2025/10/10/trump-interior-department-cancels-largest-solar-project-in-north-america-00602071)
-- [GrapheneOS is ready to break free from Pixels](https://www.androidauthority.com/graphene-os-major-android-oem-partnership-3606853/)
-- [Surveillance data challenges what we thought we knew about location tracking](https://www.lighthousereports.com/investigation/surveillance-secrets/)
-- [Unpacking Cloudflare Workers CPU Performance Benchmarks](https://blog.cloudflare.com/unpacking-cloudflare-workers-cpu-performance-benchmarks/)
-- [AppLovin nonconsensual installs](https://www.benedelman.org/applovin-nonconsensual-installs/)
+- [We&#39;re losing the war against drug-resistant infections faster than we thought](https://www.npr.org/sections/goats-and-soda/2025/10/15/g-s1-93449/antibiotic-resistance-bacteria)
+- [New Alzheimer&#39;s Treatment Clears Plaques from Brains of Mice Within Hours](https://www.sciencealert.com/new-alzheimers-treatment-clears-plaques-from-brains-of-mice-within-hours)
+- [I&#39;m recomming my customers switch to Linux rather that Upgrade to Windows 11](https://www.scottrlarson.com/publications/publication-windows-move-towards-surveillance/)
+- [Who&#39;s Submitting AI-Tainted Filings in Court?](https://cyberlaw.stanford.edu/whos-submitting-ai-tainted-filings-in-court/)
+- [Writing an LLM from scratch, part 22 – training our LLM](https://www.gilesthomas.com/2025/10/llm-from-scratch-22-finally-training-our-llm)
+- [IRS open sources its fact graph](https://github.com/IRS-Public/fact-graph)
+- [ImapGoose](https://whynothugo.nl/journal/2025/10/15/introducing-imapgoose/)
+- [Next Steps for the Caddy Project Maintainership](https://caddy.community/t/next-steps-for-the-caddy-project-maintainership/33076)
+- [A Gemma model helped discover a new potential cancer therapy pathway](https://blog.google/technology/ai/google-gemma-ai-cancer-therapy-discovery/)
+- [Recursive Language Models &lpar;RLMs&rpar;](https://alexzhang13.github.io/blog/2025/rlm/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Trump says he authorized covert CIA operations in Venezuela](https://www.theguardian.com/us-news/2025/oct/15/trump-venezuela-cia-maduro)
-- [Ukraine war briefing: ‘Bit of a process’ but India will give up Russian oil, Trump claims](https://www.theguardian.com/world/2025/oct/16/ukraine-war-briefing-bit-of-a-process-but-india-will-give-up-russian-oil-trump-claims)
-- [Hamas says all reachable hostage bodies recovered amid Israel threat to resume Gaza fighting](https://www.theguardian.com/world/2025/oct/16/hamas-hostage-bodies-recovered-amid-israel-gaza-fighting-ceasefire-deal)
-- [Trump news at a glance: Court halts mass firings threatened by White House as shutdown enters third week](https://www.theguardian.com/us-news/2025/oct/16/trump-administration-news-updates-today-latest)
-- [Faulty engineering led to deadly Titan sub implosion, US investigators rule](https://www.theguardian.com/world/2025/oct/15/titan-sub-disaster-ntsb-report)
-- [Border security officers sent to Balkans to disrupt people-smuggling networks](https://www.theguardian.com/uk-news/2025/oct/16/border-security-officers-sent-to-balkans-to-disrupt-people-smuggling-networks)
-- [CO2 from wildfires increases by 9% as climate crisis supercharges infernos](https://www.theguardian.com/world/2025/oct/16/extreme-wildfires-increase-carbon-emissions-climate-change)
-- [‘Gruesome videos’: social media pushes distressing news to children, experts say](https://www.theguardian.com/society/2025/oct/16/gruesome-videos-social-media-distressing-news-children-survey)
-- [Some parents of special school pupils in England spending £5,000 on EHCPs](https://www.theguardian.com/education/2025/oct/16/some-parents-of-special-school-pupils-in-england-spending-5000-on-ehcps)
-- [Ministry of Justice ‘has failed to file spending receipts of nearly £11bn’](https://www.theguardian.com/politics/2025/oct/16/ministry-of-justice-has-failed-to-file-spending-receipts-of-nearly-11bn)
+- [Mamdani, Cuomo and Sliwa spar in New York mayoral debate](https://www.theguardian.com/us-news/2025/oct/16/mamdani-cuomo-sliwa-new-york-mayoral-debate)
+- [Without Ace Frehley, Kiss could not have achieved their extraordinary greatness | Michael Hann](https://www.theguardian.com/music/2025/oct/17/ace-frehley-kiss-guitarist-greatness)
+- [Lando Norris to face ‘repercussions’ for collision with Oscar Piastri in Singapore F1](https://www.theguardian.com/sport/2025/oct/17/lando-norris-oscar-piastri-collision-singapore-f1-repercussions)
+- [What are rare earths and critical minerals – explained in 30 seconds](https://www.theguardian.com/world/2025/oct/17/rare-earths-critical-minerals-explained)
+- [‘Wailing ghosts through loudspeakers’: Cambodia accuses Thailand of psychological warfare along border](https://www.theguardian.com/world/2025/oct/17/cambodia-accuses-thailand-psychological-warfare-border)
+- [Trump says he plans to meet Putin in Budapest as Zelenskyy prepares to make missiles case at White House](https://www.theguardian.com/world/2025/oct/16/zelenskyy-tomahawk-missiles-trump-putin-budapest)
+- [US admiral to retire amid military strikes in Caribbean and tensions with Venezuela](https://www.theguardian.com/us-news/2025/oct/16/admiral-alvin-holsey-caribbean-venezuela)
+- [Launch of veteran card will be used to test UK government’s digital ID scheme](https://www.theguardian.com/technology/2025/oct/17/launch-of-veteran-card-will-be-used-to-test-uk-governments-digital-id-scheme)
+- [NHS medical negligence liabilities hit £60bn amid surge in maternity payouts](https://www.theguardian.com/society/2025/oct/17/nhs-medical-negligence-liabilities-hit-60bn-amid-surge-in-maternity-payouts)
+- [Banks need stricter controls to prevent romance fraud, says City regulator](https://www.theguardian.com/technology/2025/oct/17/banks-need-stricter-controls-to-prevent-romance-says-city-regulator)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

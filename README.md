@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [How to find trustworthy news reporting in these times?](https://ericdeggans.substack.com/p/how-to-find-trustworthy-news-reporting)
-- [How to Add Declarative Shadow DOM to a LitElement Web Component &lpar;2024&rpar;](https://scottnath.com/blahg/microdata-jsonresume-dsd/)
-- [Building Samoa&#39;s Digital Fa&#39;asamoa: Sovereignty Through Bitcoin](https://news.ycombinator.com/item?id=45600926)
-- [What&#39;s Next for Netskope](https://strategyofsecurity.com/p/whats-next-for-netskope)
-- [A Survey of Vibe Coding with Large Language Models](https://arxiv.org/abs/2510.12399)
-- [RFC 9861: KangarooTwelve and TurboSHAKE](https://datatracker.ietf.org/doc/rfc9861/)
-- [I Cheated at Poker by Hacking a Casino Card Shuffling Machine](https://www.youtube.com/watch?v=JQ20ilE5DtA)
-- [The Rebel Bees and the Dance of Nonconformity: A Lesson for AI](https://twitter.com/BrianRoemmele/status/1978629600667373964)
-- [U.S. falls out of top 10 on list of the world&#39;s most powerful passports](https://www.washingtonpost.com/travel/2025/10/15/us-passport-henley-ranking-list/)
-- [We Sell SaaS Presents: Internet TV](https://www.youtube.com/watch?v=GOBEJyTS_rQ)
+- [Firefox profiles: Private, focused spaces for all the ways you browse](https://blog.mozilla.org/en/firefox/profile-management/)
+- [Banks Stocks Tumble After More Credit &#39;Cockroaches&#39; Unearthed](https://www.barrons.com/articles/bank-stocks-zions-credit-cockroach-western-alliance-99c43ac7)
+- [Chip maker Nexperia told suppliers it wouldn&#39;t ship after Dutch took control](https://www.wsj.com/business/autos/nexperia-auto-industry-chip-shortage-02f92559)
+- [Show HN: min. – lightweight AI-native inbox for teams](https://getmin.ai/)
+- [Top US financiers sound alarm on lending standards](https://www.ft.com/content/f1b61807-c199-4fee-9bd4-dea738e1a0ac)
+- [Show HN: I Built an AI Maturity Model for Software Engineers &lpar;and No One Cared&rpar;](https://github.com/Gigacore/AI-Maturity-Model)
+- [Apple Loses Head of ChatGPT-Like Search to Meta](https://www.bloomberg.com/news/videos/2025-10-16/apple-loses-head-of-chatgpt-like-search-to-meta-video)
+- [WTF: Ad Context Protocol?](https://digiday.com/media-buying/wtf-ad-context-protocol/)
+- [Strava breaks silence on the ongoing Garmin dispute](https://www.techradar.com/health-fitness/we-dont-agree-with-the-extensive-branding-garmin-is-forcing-strava-breaks-silence-on-the-ongoing-garmin-dispute-and-outlines-next-steps)
+- [Manus 1.5](https://twitter.com/ManusAI_HQ/status/1978854323774792135)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

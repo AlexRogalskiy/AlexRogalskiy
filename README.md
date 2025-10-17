@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [We&#39;re losing the war against drug-resistant infections faster than we thought](https://www.npr.org/sections/goats-and-soda/2025/10/15/g-s1-93449/antibiotic-resistance-bacteria)
-- [New Alzheimer&#39;s Treatment Clears Plaques from Brains of Mice Within Hours](https://www.sciencealert.com/new-alzheimers-treatment-clears-plaques-from-brains-of-mice-within-hours)
-- [I&#39;m recomming my customers switch to Linux rather that Upgrade to Windows 11](https://www.scottrlarson.com/publications/publication-windows-move-towards-surveillance/)
-- [Who&#39;s Submitting AI-Tainted Filings in Court?](https://cyberlaw.stanford.edu/whos-submitting-ai-tainted-filings-in-court/)
-- [Writing an LLM from scratch, part 22 – training our LLM](https://www.gilesthomas.com/2025/10/llm-from-scratch-22-finally-training-our-llm)
-- [IRS open sources its fact graph](https://github.com/IRS-Public/fact-graph)
-- [ImapGoose](https://whynothugo.nl/journal/2025/10/15/introducing-imapgoose/)
-- [Next Steps for the Caddy Project Maintainership](https://caddy.community/t/next-steps-for-the-caddy-project-maintainership/33076)
-- [A Gemma model helped discover a new potential cancer therapy pathway](https://blog.google/technology/ai/google-gemma-ai-cancer-therapy-discovery/)
-- [Recursive Language Models &lpar;RLMs&rpar;](https://alexzhang13.github.io/blog/2025/rlm/)
+- [Nvidia DGX Spark and Apple Mac Studio = 4x Faster LLM Inference with EXO 1.0](https://blog.exolabs.net/nvidia-dgx-spark/)
+- [Lead Limited Brain and Language Development in Neanderthals and Other Hominids?](https://today.ucsd.edu/story/did-lead-limit-brain-and-language-development-in-neanderthals-and-other-extinct-hominids)
+- [America’s semiconductor boom](https://www.youtube.com/watch?v=T-jt3qBzJ4A)
+- [Understanding Spec-Driven-Development: Kiro, Spec-Kit, and Tessl](https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html)
+- [Hacker News – The Good Parts](https://smartmic.bearblog.dev/why-hacker-news/)
+- [Cloudflare Sandbox SDK](https://sandbox.cloudflare.com/)
+- [How I bypassed Amazon&#39;s Kindle web DRM](https://blog.pixelmelt.dev/kindle-web-drm/)
+- [Benjie&#39;s Humanoid Olympic Games](https://generalrobots.substack.com/p/benjies-humanoid-olympic-games)
+- [A conspiracy to kill IE6 &lpar;2019&rpar;](https://blog.chriszacharias.com/a-conspiracy-to-kill-ie6)
+- [Talent](https://www.felixstocker.com/blog/talent)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

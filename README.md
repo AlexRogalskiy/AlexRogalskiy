@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Firefox profiles: Private, focused spaces for all the ways you browse](https://blog.mozilla.org/en/firefox/profile-management/)
-- [Banks Stocks Tumble After More Credit &#39;Cockroaches&#39; Unearthed](https://www.barrons.com/articles/bank-stocks-zions-credit-cockroach-western-alliance-99c43ac7)
-- [Chip maker Nexperia told suppliers it wouldn&#39;t ship after Dutch took control](https://www.wsj.com/business/autos/nexperia-auto-industry-chip-shortage-02f92559)
-- [Show HN: min. – lightweight AI-native inbox for teams](https://getmin.ai/)
-- [Top US financiers sound alarm on lending standards](https://www.ft.com/content/f1b61807-c199-4fee-9bd4-dea738e1a0ac)
-- [Show HN: I Built an AI Maturity Model for Software Engineers &lpar;and No One Cared&rpar;](https://github.com/Gigacore/AI-Maturity-Model)
-- [Apple Loses Head of ChatGPT-Like Search to Meta](https://www.bloomberg.com/news/videos/2025-10-16/apple-loses-head-of-chatgpt-like-search-to-meta-video)
-- [WTF: Ad Context Protocol?](https://digiday.com/media-buying/wtf-ad-context-protocol/)
-- [Strava breaks silence on the ongoing Garmin dispute](https://www.techradar.com/health-fitness/we-dont-agree-with-the-extensive-branding-garmin-is-forcing-strava-breaks-silence-on-the-ongoing-garmin-dispute-and-outlines-next-steps)
-- [Manus 1.5](https://twitter.com/ManusAI_HQ/status/1978854323774792135)
+- [Perovskite: The &#39;wonder material&#39; that could transform solar](https://www.bbc.com/future/article/20251015-perovskite-the-wonder-material-that-could-transform-solar-energy)
+- [AI Podcast Generator](https://sparkpod.ai)
+- [AI Image Extender](https://www.pixextender.com)
+- [A minimal static site generator built with Vite and the Vento templating engine](https://github.com/riipandi/vitto)
+- [The rehabilitation of irreversible processes and dissipative structures&#39; &lpar;2018&rpar;](https://royalsocietypublishing.org/doi/10.1098/rsta.2017.0365)
+- [Read this but think of Mac GPU universal memory running LLM](https://www.apple.com/hk/en/newsroom/2025/10/apple-unleashes-m5-the-next-big-leap-in-ai-performance-for-apple-silicon/)
+- [A Solution to the CIA&#39;s Kryptos Code Is Found After 35 Years](https://www.yahoo.com/news/articles/solution-cia-kryptos-code-found-184500153.html)
+- [Japan asks OpenAI to keep Sora 2&#39;s hands off anime IP](https://www.theregister.com/2025/10/15/japan_openai_copyrighted_anime/)
+- [A Timeline of the Rise and Fall of George Santos](https://www.nytimes.com/2025/04/25/nyregion/george-santos-timeline.html)
+- [Anatomy of a Crypto Meltdown](https://www.citationneeded.news/anatomy-of-a-crypto-meltdown/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

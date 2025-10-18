@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Nvidia DGX Spark and Apple Mac Studio = 4x Faster LLM Inference with EXO 1.0](https://blog.exolabs.net/nvidia-dgx-spark/)
-- [Lead Limited Brain and Language Development in Neanderthals and Other Hominids?](https://today.ucsd.edu/story/did-lead-limit-brain-and-language-development-in-neanderthals-and-other-extinct-hominids)
-- [America’s semiconductor boom](https://www.youtube.com/watch?v=T-jt3qBzJ4A)
-- [Understanding Spec-Driven-Development: Kiro, Spec-Kit, and Tessl](https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html)
-- [Hacker News – The Good Parts](https://smartmic.bearblog.dev/why-hacker-news/)
-- [Cloudflare Sandbox SDK](https://sandbox.cloudflare.com/)
-- [How I bypassed Amazon&#39;s Kindle web DRM](https://blog.pixelmelt.dev/kindle-web-drm/)
-- [Benjie&#39;s Humanoid Olympic Games](https://generalrobots.substack.com/p/benjies-humanoid-olympic-games)
-- [A conspiracy to kill IE6 &lpar;2019&rpar;](https://blog.chriszacharias.com/a-conspiracy-to-kill-ie6)
-- [Talent](https://www.felixstocker.com/blog/talent)
+- [Show HN: ServiceRadar – open-source Network Observability Platform](https://github.com/carverauto/serviceradar)
+- [The Unix Executable as a Smalltalk Method &lpar;and Unix-Smalltalk Unification&rpar; [pdf]](https://programmingmadecomplicated.wordpress.com/wp-content/uploads/2025/10/onward25-jakubovic.pdf)
+- [Wikipedia Volunteers Avert Tragedy by Taking Down Gunman at Conference](https://www.nytimes.com/2025/10/17/nyregion/wikipedia-conference-gunman.html)
+- [NeXT Computer Offices](https://archive.org/details/NeXTComputerOffices)
+- [Jeep Wrangler Owners Waiting for Answers Week After an Update Bricked Their Cars](https://www.thedrive.com/news/jeep-wrangler-4xe-owners-still-waiting-for-answers-a-week-after-an-update-bricked-their-cars)
+- [Every vibe-coded website is the same page with different words. So I made that](https://vibe-coded.lol/)
+- [WebMCP](https://github.com/jasonjmcghee/WebMCP)
+- [New Work by Gary Larson](https://www.thefarside.com/new-stuff)
+- [The pivot](https://www.antipope.org/charlie/blog-static/2025/10/the-pivot-1.html)
+- [Asking AI to build scrapers should be easy right?](https://www.skyvern.com/blog/asking-ai-to-build-scrapers-should-be-easy-right/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

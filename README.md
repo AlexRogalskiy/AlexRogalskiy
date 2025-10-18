@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Mamdani, Cuomo and Sliwa spar in New York mayoral debate](https://www.theguardian.com/us-news/2025/oct/16/mamdani-cuomo-sliwa-new-york-mayoral-debate)
-- [Without Ace Frehley, Kiss could not have achieved their extraordinary greatness | Michael Hann](https://www.theguardian.com/music/2025/oct/17/ace-frehley-kiss-guitarist-greatness)
-- [Lando Norris to face ‘repercussions’ for collision with Oscar Piastri in Singapore F1](https://www.theguardian.com/sport/2025/oct/17/lando-norris-oscar-piastri-collision-singapore-f1-repercussions)
-- [What are rare earths and critical minerals – explained in 30 seconds](https://www.theguardian.com/world/2025/oct/17/rare-earths-critical-minerals-explained)
-- [‘Wailing ghosts through loudspeakers’: Cambodia accuses Thailand of psychological warfare along border](https://www.theguardian.com/world/2025/oct/17/cambodia-accuses-thailand-psychological-warfare-border)
-- [Trump says he plans to meet Putin in Budapest as Zelenskyy prepares to make missiles case at White House](https://www.theguardian.com/world/2025/oct/16/zelenskyy-tomahawk-missiles-trump-putin-budapest)
-- [US admiral to retire amid military strikes in Caribbean and tensions with Venezuela](https://www.theguardian.com/us-news/2025/oct/16/admiral-alvin-holsey-caribbean-venezuela)
-- [Launch of veteran card will be used to test UK government’s digital ID scheme](https://www.theguardian.com/technology/2025/oct/17/launch-of-veteran-card-will-be-used-to-test-uk-governments-digital-id-scheme)
-- [NHS medical negligence liabilities hit £60bn amid surge in maternity payouts](https://www.theguardian.com/society/2025/oct/17/nhs-medical-negligence-liabilities-hit-60bn-amid-surge-in-maternity-payouts)
-- [Banks need stricter controls to prevent romance fraud, says City regulator](https://www.theguardian.com/technology/2025/oct/17/banks-need-stricter-controls-to-prevent-romance-says-city-regulator)
+- [Trump officials ask supreme court to permit national guard in Illinois](https://www.theguardian.com/us-news/2025/oct/17/trump-supreme-court-national-guard-illinois)
+- [Israel says it has received body of another hostage from Gaza amid dispute over handover delays](https://www.theguardian.com/world/2025/oct/18/israel-hostage-body-gaza-red-cross-handover)
+- [Breathtaking, unsettling, healing: how US artist Kara Walker transformed a Confederate monument](https://www.theguardian.com/us-news/2025/oct/17/los-angeles-confederate-monuments)
+- [Los Angeles agrees to pay $828m to settle more sexual abuse claims](https://www.theguardian.com/us-news/2025/oct/17/los-angeles-county-sexual-abuse-settlement)
+- [Prince Andrew gives up royal titles including Duke of York after ‘discussion with king’](https://www.theguardian.com/uk-news/2025/oct/17/prince-andrew-to-give-up-royal-titles)
+- [Epstein trial would have been ‘crapshoot’, plea-deal prosecutor tells Congress](https://www.theguardian.com/us-news/2025/oct/17/alexander-acosta-epstein-trial)
+- [Ancient preserved heads give up their secrets as Māori tattoos see resurgence](https://www.theguardian.com/world/2025/oct/18/maori-tattoos-ta-moko-traditional-artists-new-zealand)
+- [Arsenal’s depth can write new story for nearly men after 773 nights on top](https://www.theguardian.com/football/2025/oct/17/arsenal-mikel-arteta-squad-depth)
+- [Trump claims Maduro willing to give ‘everything’ to ease US tensions](https://www.theguardian.com/world/2025/oct/17/trump-maduro-venezuela)
+- [Pentagon criticises Netflix for making ‘woke garbage’ after gay military drama](https://www.theguardian.com/tv-and-radio/2025/oct/17/pentagon-netflix-boots-military-show)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

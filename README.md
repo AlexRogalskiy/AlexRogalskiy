@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Trump officials ask supreme court to permit national guard in Illinois](https://www.theguardian.com/us-news/2025/oct/17/trump-supreme-court-national-guard-illinois)
-- [Israel says it has received body of another hostage from Gaza amid dispute over handover delays](https://www.theguardian.com/world/2025/oct/18/israel-hostage-body-gaza-red-cross-handover)
-- [Breathtaking, unsettling, healing: how US artist Kara Walker transformed a Confederate monument](https://www.theguardian.com/us-news/2025/oct/17/los-angeles-confederate-monuments)
-- [Los Angeles agrees to pay $828m to settle more sexual abuse claims](https://www.theguardian.com/us-news/2025/oct/17/los-angeles-county-sexual-abuse-settlement)
-- [Prince Andrew gives up royal titles including Duke of York after ‘discussion with king’](https://www.theguardian.com/uk-news/2025/oct/17/prince-andrew-to-give-up-royal-titles)
-- [Epstein trial would have been ‘crapshoot’, plea-deal prosecutor tells Congress](https://www.theguardian.com/us-news/2025/oct/17/alexander-acosta-epstein-trial)
-- [Ancient preserved heads give up their secrets as Māori tattoos see resurgence](https://www.theguardian.com/world/2025/oct/18/maori-tattoos-ta-moko-traditional-artists-new-zealand)
-- [Arsenal’s depth can write new story for nearly men after 773 nights on top](https://www.theguardian.com/football/2025/oct/17/arsenal-mikel-arteta-squad-depth)
-- [Trump claims Maduro willing to give ‘everything’ to ease US tensions](https://www.theguardian.com/world/2025/oct/17/trump-maduro-venezuela)
-- [Pentagon criticises Netflix for making ‘woke garbage’ after gay military drama](https://www.theguardian.com/tv-and-radio/2025/oct/17/pentagon-netflix-boots-military-show)
+- [California governor says Trump ‘putting ego over responsibility’ as military show shuts highway](https://www.theguardian.com/us-news/2025/oct/18/california-highway-closure-military-celebration)
+- [Ukraine war briefing: Repairs begin in bid to restore power to Zaporizhzhia nuclear plant](https://www.theguardian.com/world/2025/oct/19/ukraine-war-briefing-repairs-begin-in-bid-to-restore-power-to-zaporizhzhia-nuclear-plant)
+- [Millions across all 50 US states march in No Kings protests against Trump](https://www.theguardian.com/us-news/2025/oct/18/no-kings-protests-events-states)
+- [Government aims to create 400,000 jobs through UK national green energy plan](https://www.theguardian.com/environment/2025/oct/19/government-aims-to-create-400000-jobs-through-uk-national-green-energy-plan)
+- [Tom Willis to drop out of England reckoning after signing Bordeaux contract](https://www.theguardian.com/sport/2025/oct/19/tom-willis-to-drop-out-of-england-reckoning-after-signing-bordeaux-contract)
+- [The amazing world of fungi – in pictures](https://www.theguardian.com/artanddesign/gallery/2025/oct/19/amazing-world-fungi-tom-may-pictures)
+- [Verstappen takes F1 US GP pole after sprint victory to turn up heat on Norris and Piastri](https://www.theguardian.com/sport/2025/oct/18/verstappen-takes-f1-us-gp-pole-after-sprint-victory-to-turn-up-heat-on-norris-and-piastri)
+- [Aston Villa reportedly told stewards they could miss Maccabi Tel Aviv match](https://www.theguardian.com/uk-news/2025/oct/18/aston-villa-told-stewards-they-could-miss-maccabi-tel-aviv-match)
+- [‘Those final few hours were brutal’: British duo end epic journey in Australia after rowing across Pacific Ocean](https://www.theguardian.com/sport/2025/oct/19/those-final-few-hours-were-brutal-british-duo-end-epic-journey-in-australia-after-rowing-across-pacific-ocean)
+- [Israel has violated ceasefire 47 times and killed 38 Palestinians, says Gaza media office](https://www.theguardian.com/world/2025/oct/18/israel-has-violated-ceasefire-47-times-and-killed-38-palestinians-says-gaza-media-office)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Perovskite: The &#39;wonder material&#39; that could transform solar](https://www.bbc.com/future/article/20251015-perovskite-the-wonder-material-that-could-transform-solar-energy)
-- [AI Podcast Generator](https://sparkpod.ai)
-- [AI Image Extender](https://www.pixextender.com)
-- [A minimal static site generator built with Vite and the Vento templating engine](https://github.com/riipandi/vitto)
-- [The rehabilitation of irreversible processes and dissipative structures&#39; &lpar;2018&rpar;](https://royalsocietypublishing.org/doi/10.1098/rsta.2017.0365)
-- [Read this but think of Mac GPU universal memory running LLM](https://www.apple.com/hk/en/newsroom/2025/10/apple-unleashes-m5-the-next-big-leap-in-ai-performance-for-apple-silicon/)
-- [A Solution to the CIA&#39;s Kryptos Code Is Found After 35 Years](https://www.yahoo.com/news/articles/solution-cia-kryptos-code-found-184500153.html)
-- [Japan asks OpenAI to keep Sora 2&#39;s hands off anime IP](https://www.theregister.com/2025/10/15/japan_openai_copyrighted_anime/)
-- [A Timeline of the Rise and Fall of George Santos](https://www.nytimes.com/2025/04/25/nyregion/george-santos-timeline.html)
-- [Anatomy of a Crypto Meltdown](https://www.citationneeded.news/anatomy-of-a-crypto-meltdown/)
+- [Create Educational Content Aligned with Stem and Steam Frameworks](https://storybee.app/storybee-ai-for-stem-and-steam-education)
+- [The Future Belongs to Systems](https://medium.com/@abdelghani.alhijawi/the-end-of-fine-tuning-7df686364a87)
+- [Making Ice Moon for Apple Vision Pro [video]](https://www.youtube.com/watch?v=FxLAespa2Yg)
+- [The Conservation of People – Culture Victory](https://shalashashka.substack.com/p/the-conservation-of-people)
+- [Uber Giving Some US Drivers Option to Earn Money from Tasks Like Uploading Menus](https://www.bloomberg.com/news/articles/2025-10-16/uber-giving-some-us-drivers-option-to-earn-money-from-tasks-like-uploading-menus)
+- [Governments Create More Problems Than They Solve – Prof. Jiang Xueqin](https://www.youtube.com/watch?v=IE2si3rxyN4)
+- [Computer Assisted Biologically Augmented Lifeform](https://cnc.fandom.com/wiki/Computer_Assisted_Biologically_Augmented_Lifeform)
+- [Veo 3.1 AI Video Generator](https://veo-3-1.io)
+- [Monitoring of First Responders Biomedical Data During Training with VR](https://www.mdpi.com/2504-2289/9/10/251)
+- [Is this how AI might eliminate humanity? [video]](https://www.bbc.com/reel/video/p0lwdg8y/is-this-how-ai-might-eliminate-humanity-)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

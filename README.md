@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Show HN: ServiceRadar – open-source Network Observability Platform](https://github.com/carverauto/serviceradar)
-- [The Unix Executable as a Smalltalk Method &lpar;and Unix-Smalltalk Unification&rpar; [pdf]](https://programmingmadecomplicated.wordpress.com/wp-content/uploads/2025/10/onward25-jakubovic.pdf)
-- [Wikipedia Volunteers Avert Tragedy by Taking Down Gunman at Conference](https://www.nytimes.com/2025/10/17/nyregion/wikipedia-conference-gunman.html)
-- [NeXT Computer Offices](https://archive.org/details/NeXTComputerOffices)
-- [Jeep Wrangler Owners Waiting for Answers Week After an Update Bricked Their Cars](https://www.thedrive.com/news/jeep-wrangler-4xe-owners-still-waiting-for-answers-a-week-after-an-update-bricked-their-cars)
-- [Every vibe-coded website is the same page with different words. So I made that](https://vibe-coded.lol/)
-- [WebMCP](https://github.com/jasonjmcghee/WebMCP)
-- [New Work by Gary Larson](https://www.thefarside.com/new-stuff)
-- [The pivot](https://www.antipope.org/charlie/blog-static/2025/10/the-pivot-1.html)
-- [Asking AI to build scrapers should be easy right?](https://www.skyvern.com/blog/asking-ai-to-build-scrapers-should-be-easy-right/)
+- [Friendship Begins at Home](https://3quarksdaily.com/3quarksdaily/2025/10/friendship-begins-at-home.html)
+- [GoGoGrandparent &lpar;YC S16&rpar; Is Hiring Back End and Full-Stack Engineers](https://news.ycombinator.com/item?id=45631422)
+- [Using Pegs in Janet](https://articles.inqk.net/2020/09/19/how-to-use-pegs-in-janet.html)
+- [Bevy TLDR – Game development with Bevy summarized](https://taintedcoders.com/bevy/tldr)
+- [How to sequence your DNA for &lt;$2k](https://maxlangenkamp.substack.com/p/how-to-sequence-your-dna-for-2k)
+- [Most users cannot identify AI bias, even in training data](https://www.psu.edu/news/bellisario-college-communications/story/most-users-cannot-identify-ai-bias-even-training-data)
+- [Tinnitus Neuromodulator](https://mynoise.net/NoiseMachines/neuromodulationTonesGenerator.php)
+- [Picturing Mathematics](https://mathenchant.wordpress.com/2025/10/18/picturing-mathematics/)
+- [Flowistry: An IDE plugin for Rust that focuses on relevant code](https://github.com/willcrichton/flowistry)
+- [Root System Drawings](https://images.wur.nl/digital/collection/coll13/search)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

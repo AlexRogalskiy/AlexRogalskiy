@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Create Educational Content Aligned with Stem and Steam Frameworks](https://storybee.app/storybee-ai-for-stem-and-steam-education)
-- [The Future Belongs to Systems](https://medium.com/@abdelghani.alhijawi/the-end-of-fine-tuning-7df686364a87)
-- [Making Ice Moon for Apple Vision Pro [video]](https://www.youtube.com/watch?v=FxLAespa2Yg)
-- [The Conservation of People – Culture Victory](https://shalashashka.substack.com/p/the-conservation-of-people)
-- [Uber Giving Some US Drivers Option to Earn Money from Tasks Like Uploading Menus](https://www.bloomberg.com/news/articles/2025-10-16/uber-giving-some-us-drivers-option-to-earn-money-from-tasks-like-uploading-menus)
-- [Governments Create More Problems Than They Solve – Prof. Jiang Xueqin](https://www.youtube.com/watch?v=IE2si3rxyN4)
-- [Computer Assisted Biologically Augmented Lifeform](https://cnc.fandom.com/wiki/Computer_Assisted_Biologically_Augmented_Lifeform)
-- [Veo 3.1 AI Video Generator](https://veo-3-1.io)
-- [Monitoring of First Responders Biomedical Data During Training with VR](https://www.mdpi.com/2504-2289/9/10/251)
-- [Is this how AI might eliminate humanity? [video]](https://www.bbc.com/reel/video/p0lwdg8y/is-this-how-ai-might-eliminate-humanity-)
+- [China Can&#39;t Win](https://www.campbellramble.ai/p/china-cant-win)
+- [Functional freedom and Penrose&#39;s critiques of string theory](https://arxiv.org/abs/2509.21515)
+- [Introduction to reverse-engineering vintage synth firmware](https://ajxs.me/blog/Introduction_to_Reverse-Engineering_Vintage_Synth_Firmware.html)
+- [Prester John](https://en.wikipedia.org/wiki/Prester_John)
+- [Show HN: Font Generator with Real-Time Font Comparison](https://fontgenerator.cc/compare-fonts)
+- [Building a TMS 9900 Homebrew](https://retrocomputingforum.com/t/building-a-tms-9900-homebrew/2425)
+- [Making Time Safer in Go](https://www.matthewhalpern.com/posts/golang-type-safe-timezones/)
+- [Introduction to OCaml Extension Points](https://citizen428.net/blog/introduction-ocaml-extension-points/)
+- [Building Systems with a Stroke of a Pen](https://alyx.substack.com/p/building-systems-with-a-stroke-of)
+- [Some sales teams are killing their company](https://news.ycombinator.com/item?id=45639805)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

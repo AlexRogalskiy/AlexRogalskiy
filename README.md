@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [California governor says Trump ‘putting ego over responsibility’ as military show shuts highway](https://www.theguardian.com/us-news/2025/oct/18/california-highway-closure-military-celebration)
-- [Ukraine war briefing: Repairs begin in bid to restore power to Zaporizhzhia nuclear plant](https://www.theguardian.com/world/2025/oct/19/ukraine-war-briefing-repairs-begin-in-bid-to-restore-power-to-zaporizhzhia-nuclear-plant)
-- [Millions across all 50 US states march in No Kings protests against Trump](https://www.theguardian.com/us-news/2025/oct/18/no-kings-protests-events-states)
-- [Government aims to create 400,000 jobs through UK national green energy plan](https://www.theguardian.com/environment/2025/oct/19/government-aims-to-create-400000-jobs-through-uk-national-green-energy-plan)
-- [Tom Willis to drop out of England reckoning after signing Bordeaux contract](https://www.theguardian.com/sport/2025/oct/19/tom-willis-to-drop-out-of-england-reckoning-after-signing-bordeaux-contract)
-- [The amazing world of fungi – in pictures](https://www.theguardian.com/artanddesign/gallery/2025/oct/19/amazing-world-fungi-tom-may-pictures)
-- [Verstappen takes F1 US GP pole after sprint victory to turn up heat on Norris and Piastri](https://www.theguardian.com/sport/2025/oct/18/verstappen-takes-f1-us-gp-pole-after-sprint-victory-to-turn-up-heat-on-norris-and-piastri)
-- [Aston Villa reportedly told stewards they could miss Maccabi Tel Aviv match](https://www.theguardian.com/uk-news/2025/oct/18/aston-villa-told-stewards-they-could-miss-maccabi-tel-aviv-match)
-- [‘Those final few hours were brutal’: British duo end epic journey in Australia after rowing across Pacific Ocean](https://www.theguardian.com/sport/2025/oct/19/those-final-few-hours-were-brutal-british-duo-end-epic-journey-in-australia-after-rowing-across-pacific-ocean)
-- [Israel has violated ceasefire 47 times and killed 38 Palestinians, says Gaza media office](https://www.theguardian.com/world/2025/oct/18/israel-has-violated-ceasefire-47-times-and-killed-38-palestinians-says-gaza-media-office)
+- [Ukraine war briefing: Energy war continues with strikes on Russian oil and gas plants](https://www.theguardian.com/world/2025/oct/20/ukraine-war-briefing-energy-war-continues-with-strikes-on-russian-oil-and-gas-plants)
+- [Rodrigo Paz Pereira wins Bolivia’s presidential runoff marking a new shift to the right](https://www.theguardian.com/world/2025/oct/20/rodrigo-paz-pereira-bolivia-wins-presidential-runoff-electiion-right-wing)
+- [Hong Kong: two people reported killed after cargo plane skids off airport runway](https://www.theguardian.com/world/2025/oct/20/hong-kong-cargo-plane-skids-off-airport-runway-people-killed)
+- [America, there is still so much to love about you but we have to break up. This is why I’m renouncing US citizenship | Anonymous](https://www.theguardian.com/commentisfree/2025/oct/20/renouncing-us-citizenship-breaking-up-united-states-of-america)
+- [Housing market slows amid fears Reeves will increase property taxes](https://www.theguardian.com/money/2025/oct/20/housing-market-slows-reeves-increase-property-tax)
+- [Millions exploited by ‘menopause gold rush’ amid lack of reliable information, say experts](https://www.theguardian.com/society/2025/oct/20/millions-exploited-by-menopause-gold-rush-amid-lack-of-reliable-information-say-experts)
+- [Bereaved families call for inquiry into UK failure to act on pro-suicide forum](https://www.theguardian.com/technology/2025/oct/20/bereaved-families-call-for-inquiry-into-uk-failure-to-act-on-pro-suicide-forum)
+- [Keir Starmer pressed not to slash UK contribution to global aid fund](https://www.theguardian.com/politics/2025/oct/20/keir-starmer-uk-contribution-to-global-fund-aids-malaria)
+- [Tel Aviv football derby between Hapoel and Maccabi called off after rioting](https://www.theguardian.com/football/2025/oct/19/tel-aviv-football-derby-between-hapoel-and-maccabi-called-off-after-rioting)
+- [Zelenskyy urges allies not to appease Russia after failing to secure US missiles](https://www.theguardian.com/world/2025/oct/19/zellenskyy-urges-allies-against-appeasing-russia-us-trip-cruise-missiles)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Friendship Begins at Home](https://3quarksdaily.com/3quarksdaily/2025/10/friendship-begins-at-home.html)
-- [GoGoGrandparent &lpar;YC S16&rpar; Is Hiring Back End and Full-Stack Engineers](https://news.ycombinator.com/item?id=45631422)
-- [Using Pegs in Janet](https://articles.inqk.net/2020/09/19/how-to-use-pegs-in-janet.html)
-- [Bevy TLDR – Game development with Bevy summarized](https://taintedcoders.com/bevy/tldr)
-- [How to sequence your DNA for &lt;$2k](https://maxlangenkamp.substack.com/p/how-to-sequence-your-dna-for-2k)
-- [Most users cannot identify AI bias, even in training data](https://www.psu.edu/news/bellisario-college-communications/story/most-users-cannot-identify-ai-bias-even-training-data)
-- [Tinnitus Neuromodulator](https://mynoise.net/NoiseMachines/neuromodulationTonesGenerator.php)
-- [Picturing Mathematics](https://mathenchant.wordpress.com/2025/10/18/picturing-mathematics/)
-- [Flowistry: An IDE plugin for Rust that focuses on relevant code](https://github.com/willcrichton/flowistry)
-- [Root System Drawings](https://images.wur.nl/digital/collection/coll13/search)
+- [Nvidia has produced the first Blackwell wafer on US soil](https://www.xda-developers.com/nvidia-produced-first-blackwell-wafer-us-soil/)
+- [Look at how unhinged GPU box art was in the 2000s](https://www.xda-developers.com/absolutely-unhinged-gpu-box-art-from-the-early-2000s/)
+- [Forth: The programming language that writes itself](https://ratfactor.com/forth/the_programming_language_that_writes_itself.html)
+- [From Hollywood to horticulture: Cate Blanchett on a mission to save seeds](https://www.bbc.com/news/articles/cwy7ekl4yl8o)
+- [LoC Is a Dumb Metric for Functions](https://theaxolot.wordpress.com/2025/10/18/loc-is-a-dumb-metric-for-functions/)
+- [QuickDrawViewer: A Mac OS X utility to visualise QuickDraw &lpar;PICT&rpar; files](https://github.com/wiesmann/QuickDrawViewer)
+- [Replua.nvim – an Emacs-style scratch buffer for executing Lua](https://github.com/mghaight/replua.nvim)
+- [Gleam OTP – Fault Tolerant Multicore Programs with Actors](https://github.com/gleam-lang/otp)
+- [Original C64 Lode Runner Source Code](https://github.com/Piddewitt/Loderunner)
+- [Duke Nukem: Zero Hour N64 ROM Reverse-Engineering Project Hits 100%](https://github.com/Gillou68310/DukeNukemZeroHour)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

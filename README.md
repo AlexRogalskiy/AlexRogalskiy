@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine war briefing: Energy war continues with strikes on Russian oil and gas plants](https://www.theguardian.com/world/2025/oct/20/ukraine-war-briefing-energy-war-continues-with-strikes-on-russian-oil-and-gas-plants)
-- [Rodrigo Paz Pereira wins Bolivia’s presidential runoff marking a new shift to the right](https://www.theguardian.com/world/2025/oct/20/rodrigo-paz-pereira-bolivia-wins-presidential-runoff-electiion-right-wing)
-- [Hong Kong: two people reported killed after cargo plane skids off airport runway](https://www.theguardian.com/world/2025/oct/20/hong-kong-cargo-plane-skids-off-airport-runway-people-killed)
-- [America, there is still so much to love about you but we have to break up. This is why I’m renouncing US citizenship | Anonymous](https://www.theguardian.com/commentisfree/2025/oct/20/renouncing-us-citizenship-breaking-up-united-states-of-america)
-- [Housing market slows amid fears Reeves will increase property taxes](https://www.theguardian.com/money/2025/oct/20/housing-market-slows-reeves-increase-property-tax)
-- [Millions exploited by ‘menopause gold rush’ amid lack of reliable information, say experts](https://www.theguardian.com/society/2025/oct/20/millions-exploited-by-menopause-gold-rush-amid-lack-of-reliable-information-say-experts)
-- [Bereaved families call for inquiry into UK failure to act on pro-suicide forum](https://www.theguardian.com/technology/2025/oct/20/bereaved-families-call-for-inquiry-into-uk-failure-to-act-on-pro-suicide-forum)
-- [Keir Starmer pressed not to slash UK contribution to global aid fund](https://www.theguardian.com/politics/2025/oct/20/keir-starmer-uk-contribution-to-global-fund-aids-malaria)
-- [Tel Aviv football derby between Hapoel and Maccabi called off after rioting](https://www.theguardian.com/football/2025/oct/19/tel-aviv-football-derby-between-hapoel-and-maccabi-called-off-after-rioting)
-- [Zelenskyy urges allies not to appease Russia after failing to secure US missiles](https://www.theguardian.com/world/2025/oct/19/zellenskyy-urges-allies-against-appeasing-russia-us-trip-cruise-missiles)
+- [Prince Andrew, Jeffrey Epstein and the scandal that won’t go away – podcast](https://www.theguardian.com/news/audio/2025/oct/21/prince-andrew-jeffrey-epstein-and-the-scandal-that-wont-go-away-podcast)
+- [Thousands detained as Myanmar military raids notorious KK park scam compound](https://www.theguardian.com/world/2025/oct/21/myanmar-kk-park-raid-scam-cybercrime-centre-compound)
+- [Ukraine war briefing: Zelenskyy paints Trump meeting as ‘positive’, with Patriot missile deal in works](https://www.theguardian.com/world/2025/oct/21/ukraine-war-briefing-zelenskyy-paints-trump-meeting-as-positive-with-patriot-missile-deal-in-works)
+- [One dead after rare tornado topples construction cranes near Paris](https://www.theguardian.com/world/2025/oct/21/france-tornado-ermont-near-paris)
+- [Construction begins on Trump’s $250m White House ballroom](https://www.theguardian.com/us-news/2025/oct/20/trump-white-house-ballroom-construction)
+- [‘Moment of national pride’ as Peter ToRot becomes Papua New Guinea’s first saint](https://www.theguardian.com/world/2025/oct/21/peter-torot-png-first-saint-papua-new-guinea)
+- [American chess grandmaster Daniel Naroditsky dies at age 29](https://www.theguardian.com/sport/2025/oct/20/daniel-naroditsky-dies-chess-grandmaster)
+- [Trump news at a glance: president can send national guard to Portland, for now](https://www.theguardian.com/us-news/2025/oct/21/trump-administration-news-updates-today)
+- [Prince Andrew tried to hire ‘internet trolls’ to hassle Virginia Giuffre, book claims](https://www.theguardian.com/uk-news/2025/oct/20/prince-andrew-internet-trolls-virginia-giuffre-book-nobodys-girl)
+- [Labour urged to rethink scrapping minimum wage youth rates amid ‘Neets’ rise](https://www.theguardian.com/society/2025/oct/21/labour-urged-to-rethink-scrapping-minimum-wage-youth-rates-amid-neets-rise)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

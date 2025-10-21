@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [China Can&#39;t Win](https://www.campbellramble.ai/p/china-cant-win)
-- [Functional freedom and Penrose&#39;s critiques of string theory](https://arxiv.org/abs/2509.21515)
-- [Introduction to reverse-engineering vintage synth firmware](https://ajxs.me/blog/Introduction_to_Reverse-Engineering_Vintage_Synth_Firmware.html)
-- [Prester John](https://en.wikipedia.org/wiki/Prester_John)
-- [Show HN: Font Generator with Real-Time Font Comparison](https://fontgenerator.cc/compare-fonts)
-- [Building a TMS 9900 Homebrew](https://retrocomputingforum.com/t/building-a-tms-9900-homebrew/2425)
-- [Making Time Safer in Go](https://www.matthewhalpern.com/posts/golang-type-safe-timezones/)
-- [Introduction to OCaml Extension Points](https://citizen428.net/blog/introduction-ocaml-extension-points/)
-- [Building Systems with a Stroke of a Pen](https://alyx.substack.com/p/building-systems-with-a-stroke-of)
-- [Some sales teams are killing their company](https://news.ycombinator.com/item?id=45639805)
+- [Free Seedream 4.0 – No Login Required](https://www.seedream4free.com)
+- [Sam Altman got Silicon Valley&#39;s giants to tether their fates to his company](https://www.wsj.com/tech/ai/sam-altman-open-ai-nvidia-deals-d10a6525)
+- [IKEA Phone Bed](https://qz.com/ikea-miniature-bed-for-smartphone-phone-sleep-collection)
+- [Ask HN: What books are you reading now?](https://news.ycombinator.com/item?id=45651938)
+- [Ask HN: What software dev tasks have you found LLMs to be good at versus bad at?](https://news.ycombinator.com/item?id=45651924)
+- [Proposed DNS RFC 8767: Serving Stale Data to Improve DNS Resiliency &lpar;2020&rpar;](https://datatracker.ietf.org/doc/html/rfc8767)
+- [Show HN: WatchDoggo – simple open-source service status monitor](https://github.com/zyra-engineering-ltda/watch-doggo/tree/v0.0.1)
+- [Why &#39;Functor&#39; Doesn&#39;t Matter &lpar;2019&rpar;](https://www.parsonsmatt.org/2019/08/30/why_functor_doesnt_matter.html)
+- [Sonoluminescence](https://en.wikipedia.org/wiki/Sonoluminescence)
+- [Fundraiser with Safe Using Stripe Atlas](https://docs.stripe.com/atlas/fundraise-with-safes)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Prince Andrew, Jeffrey Epstein and the scandal that won’t go away – podcast](https://www.theguardian.com/news/audio/2025/oct/21/prince-andrew-jeffrey-epstein-and-the-scandal-that-wont-go-away-podcast)
-- [Thousands detained as Myanmar military raids notorious KK park scam compound](https://www.theguardian.com/world/2025/oct/21/myanmar-kk-park-raid-scam-cybercrime-centre-compound)
-- [Ukraine war briefing: Zelenskyy paints Trump meeting as ‘positive’, with Patriot missile deal in works](https://www.theguardian.com/world/2025/oct/21/ukraine-war-briefing-zelenskyy-paints-trump-meeting-as-positive-with-patriot-missile-deal-in-works)
-- [One dead after rare tornado topples construction cranes near Paris](https://www.theguardian.com/world/2025/oct/21/france-tornado-ermont-near-paris)
-- [Construction begins on Trump’s $250m White House ballroom](https://www.theguardian.com/us-news/2025/oct/20/trump-white-house-ballroom-construction)
-- [‘Moment of national pride’ as Peter ToRot becomes Papua New Guinea’s first saint](https://www.theguardian.com/world/2025/oct/21/peter-torot-png-first-saint-papua-new-guinea)
-- [American chess grandmaster Daniel Naroditsky dies at age 29](https://www.theguardian.com/sport/2025/oct/20/daniel-naroditsky-dies-chess-grandmaster)
-- [Trump news at a glance: president can send national guard to Portland, for now](https://www.theguardian.com/us-news/2025/oct/21/trump-administration-news-updates-today)
-- [Prince Andrew tried to hire ‘internet trolls’ to hassle Virginia Giuffre, book claims](https://www.theguardian.com/uk-news/2025/oct/20/prince-andrew-internet-trolls-virginia-giuffre-book-nobodys-girl)
-- [Labour urged to rethink scrapping minimum wage youth rates amid ‘Neets’ rise](https://www.theguardian.com/society/2025/oct/21/labour-urged-to-rethink-scrapping-minimum-wage-youth-rates-amid-neets-rise)
+- [Ukraine war briefing: Storm Shadow missiles ‘hit gunpowder plant in Russia’](https://www.theguardian.com/world/2025/oct/22/ukraine-war-briefing-storm-shadow-missiles-hit-gunpowder-plant-in-russia)
+- [‘A perfect coincidence’: rare red lightning captured in New Zealand skies](https://www.theguardian.com/global/2025/oct/22/red-lightning-new-zealand-red-sprites)
+- [British woman facing execution in Bali for drug smuggling to be repatriated](https://www.theguardian.com/world/2025/oct/22/british-woman-bali-execution-drug-smuggling-repatriated-lindsay-sandiford-)
+- [Trump news at a glance: Rare Republican pushback forces Trump nominee to lead whistleblower office to drop out](https://www.theguardian.com/us-news/2025/oct/22/trump-news-at-a-glance-rare-republican-pushback-forces-trump-nominee-to-lead-whistleblower-office-to-drop-out)
+- [Dublin police condemn ‘thuggery’ after protest outside hotel housing asylum seekers turns violent](https://www.theguardian.com/world/2025/oct/21/police-car-set-on-fire-in-protests-outside-dublin-hotel-housing-asylum-seekers)
+- [No major banks have yet committed to stop funding new oil, gas and coal, research finds](https://www.theguardian.com/environment/2025/oct/22/no-major-banks-have-yet-committed-to-stop-funding-new-oil-gas-and-coal-research-finds)
+- [La Liga announces cancellation of Villarreal-Barcelona match’s move to Miami](https://www.theguardian.com/football/2025/oct/21/la-liga-announces-cancellation-of-villarreal-barcelona-matchs-move-to-miami)
+- [Walking just 4,000 daily steps once a week cuts risk of early death in older people, study suggests](https://www.theguardian.com/society/2025/oct/21/walking-just-4000-steps-once-week-cuts-risk-early-death-study)
+- [Championship roundup: Thomas-Asante double stretches Coventry’s lead](https://www.theguardian.com/football/2025/oct/21/championship-roundup-thomas-asante-double-stretches-coventrys-lead)
+- [Deputy US marshal and man shot during Ice operation in Los Angeles](https://www.theguardian.com/us-news/2025/oct/21/deputy-marshal-shot-los-angeles)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

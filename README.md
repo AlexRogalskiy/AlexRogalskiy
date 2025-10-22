@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Free Seedream 4.0 – No Login Required](https://www.seedream4free.com)
-- [Sam Altman got Silicon Valley&#39;s giants to tether their fates to his company](https://www.wsj.com/tech/ai/sam-altman-open-ai-nvidia-deals-d10a6525)
-- [IKEA Phone Bed](https://qz.com/ikea-miniature-bed-for-smartphone-phone-sleep-collection)
-- [Ask HN: What books are you reading now?](https://news.ycombinator.com/item?id=45651938)
-- [Ask HN: What software dev tasks have you found LLMs to be good at versus bad at?](https://news.ycombinator.com/item?id=45651924)
-- [Proposed DNS RFC 8767: Serving Stale Data to Improve DNS Resiliency &lpar;2020&rpar;](https://datatracker.ietf.org/doc/html/rfc8767)
-- [Show HN: WatchDoggo – simple open-source service status monitor](https://github.com/zyra-engineering-ltda/watch-doggo/tree/v0.0.1)
-- [Why &#39;Functor&#39; Doesn&#39;t Matter &lpar;2019&rpar;](https://www.parsonsmatt.org/2019/08/30/why_functor_doesnt_matter.html)
-- [Sonoluminescence](https://en.wikipedia.org/wiki/Sonoluminescence)
-- [Fundraiser with Safe Using Stripe Atlas](https://docs.stripe.com/atlas/fundraise-with-safes)
+- [Datus-agent, Claude-Code-like CLI for data engineers](https://github.com/Datus-ai/Datus-agent)
+- [Filtering data in real time &lpar;at CERN&rpar;](https://lhcb-outreach.web.cern.ch/filtering-data-in-real-time/)
+- [Sequoia COO quit over Shaun Maguire&#39;s comments about Islamism](https://www.ft.com/content/8e6de299-3eb6-4ba9-8037-266c55c02170)
+- [Show HN: AutoLearn Skills for self-improving agents](https://www.autolearn.dev)
+- [GZDoom community splinters after creator inserts AI-generated code](https://arstechnica.com/gaming/2025/10/civil-war-gzdoom-fan-developers-split-off-over-use-of-chatgpt-generated-code/)
+- [Perl IDE Developer Survey](https://survey.perlide.org/)
+- [A new kind of story chain social network](https://news.ycombinator.com/item?id=45664413)
+- [Galaxy XR, the first Android XR headset](https://blog.google/products/android/samsung-galaxy-xr/)
+- [Query Decomposition for RAG](https://arxiv.org/abs/2510.18633)
+- [ChatGPT Atlas](https://openai.com/index/introducing-chatgpt-atlas/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

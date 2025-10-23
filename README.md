@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine war briefing: Storm Shadow missiles ‘hit gunpowder plant in Russia’](https://www.theguardian.com/world/2025/oct/22/ukraine-war-briefing-storm-shadow-missiles-hit-gunpowder-plant-in-russia)
-- [‘A perfect coincidence’: rare red lightning captured in New Zealand skies](https://www.theguardian.com/global/2025/oct/22/red-lightning-new-zealand-red-sprites)
-- [British woman facing execution in Bali for drug smuggling to be repatriated](https://www.theguardian.com/world/2025/oct/22/british-woman-bali-execution-drug-smuggling-repatriated-lindsay-sandiford-)
-- [Trump news at a glance: Rare Republican pushback forces Trump nominee to lead whistleblower office to drop out](https://www.theguardian.com/us-news/2025/oct/22/trump-news-at-a-glance-rare-republican-pushback-forces-trump-nominee-to-lead-whistleblower-office-to-drop-out)
-- [Dublin police condemn ‘thuggery’ after protest outside hotel housing asylum seekers turns violent](https://www.theguardian.com/world/2025/oct/21/police-car-set-on-fire-in-protests-outside-dublin-hotel-housing-asylum-seekers)
-- [No major banks have yet committed to stop funding new oil, gas and coal, research finds](https://www.theguardian.com/environment/2025/oct/22/no-major-banks-have-yet-committed-to-stop-funding-new-oil-gas-and-coal-research-finds)
-- [La Liga announces cancellation of Villarreal-Barcelona match’s move to Miami](https://www.theguardian.com/football/2025/oct/21/la-liga-announces-cancellation-of-villarreal-barcelona-matchs-move-to-miami)
-- [Walking just 4,000 daily steps once a week cuts risk of early death in older people, study suggests](https://www.theguardian.com/society/2025/oct/21/walking-just-4000-steps-once-week-cuts-risk-early-death-study)
-- [Championship roundup: Thomas-Asante double stretches Coventry’s lead](https://www.theguardian.com/football/2025/oct/21/championship-roundup-thomas-asante-double-stretches-coventrys-lead)
-- [Deputy US marshal and man shot during Ice operation in Los Angeles](https://www.theguardian.com/us-news/2025/oct/21/deputy-marshal-shot-los-angeles)
+- [US military kills five people in strikes on alleged drug-trafficking boats in Pacific](https://www.theguardian.com/us-news/2025/oct/22/military-boat-strike-pacific-pete-hegseth)
+- [Mamdani, Cuomo and Sliwa fling zingers in New York mayoral debate as they try to win over voters](https://www.theguardian.com/us-news/2025/oct/22/new-york-final-mayoral-debate-mamdani-sliwa-cuomo)
+- [Family of Cheryl Grimmer say ‘what we want now is the truth’ after NSW MP names suspect in parliament](https://www.theguardian.com/australia-news/2025/oct/23/name-of-suspect-in-cheryl-grimmer-cold-case-revealed-by-nsw-mp-ntwnfb)
+- [Ukraine war briefing: Ukrainians may get Gripen fighter jets bought with Russian money](https://www.theguardian.com/world/2025/oct/23/ukraine-war-briefing-ukrainians-may-get-gripen-fighter-jets-bought-with-russian-money)
+- [‘Inexperienced’ British surfer drowned in wild Melbourne weather alongside friend who jumped in to save him](https://www.theguardian.com/australia-news/2025/oct/23/drowned-men-melbourne-identified-inexperienced-british-surfer-friend-frankston-beach)
+- [What is South Korea’s ‘monster missile’, and what does it mean for relations with the North?](https://www.theguardian.com/world/2025/oct/23/south-korea-monster-missile-hyunmoo-5-balance-power-north)
+- [Pregnant women report medical neglect in ICE detention, rights groups say](https://www.theguardian.com/us-news/2025/oct/22/ice-pregnant-women-neglect-immigration)
+- [Tesla reports steep drop in profits despite US rush to buy electric vehicles](https://www.theguardian.com/technology/2025/oct/22/tesla-earnings-report-latest-drop-profits)
+- [BBC sitcom Two Doors Down to be adapted for the stage with full TV cast](https://www.theguardian.com/stage/2025/oct/23/bbc-sitcom-two-doors-down-to-be-adapted-for-the-stage-with-full-tv-cast)
+- [New Mr Poirot and Little Miss Marple books to be published](https://www.theguardian.com/books/2025/oct/23/new-mr-poirot-and-little-miss-marple-books-to-be-published)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

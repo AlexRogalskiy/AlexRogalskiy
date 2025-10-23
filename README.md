@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Datus-agent, Claude-Code-like CLI for data engineers](https://github.com/Datus-ai/Datus-agent)
-- [Filtering data in real time &lpar;at CERN&rpar;](https://lhcb-outreach.web.cern.ch/filtering-data-in-real-time/)
-- [Sequoia COO quit over Shaun Maguire&#39;s comments about Islamism](https://www.ft.com/content/8e6de299-3eb6-4ba9-8037-266c55c02170)
-- [Show HN: AutoLearn Skills for self-improving agents](https://www.autolearn.dev)
-- [GZDoom community splinters after creator inserts AI-generated code](https://arstechnica.com/gaming/2025/10/civil-war-gzdoom-fan-developers-split-off-over-use-of-chatgpt-generated-code/)
-- [Perl IDE Developer Survey](https://survey.perlide.org/)
-- [A new kind of story chain social network](https://news.ycombinator.com/item?id=45664413)
-- [Galaxy XR, the first Android XR headset](https://blog.google/products/android/samsung-galaxy-xr/)
-- [Query Decomposition for RAG](https://arxiv.org/abs/2510.18633)
-- [ChatGPT Atlas](https://openai.com/index/introducing-chatgpt-atlas/)
+- [Kimi 1.5: A self-contained summary of its reinforcement learning efforts](https://yashmore.notion.site/Inside-Kimi-1-5-A-self-contained-summary-of-its-reinforcement-learning-efforts-2587262c17f78011a2c6f62acb2ea143)
+- [Structured Prompting](https://narphorium.com/blog/structured-prompting/)
+- [Sauna as a Service &lpar;SaaS&rpar;](https://supersaunners.com/)
+- [The state of Kotlin scripting &lpar;November 2024&rpar;](https://mbonnin.net/2024-11-21_state-of-kotlin-scripting/)
+- [How to Predict Everything &lpar;1999&rpar;](https://www.newyorker.com/magazine/1999/07/12/how-to-predict-everything)
+- [Statement on Superintelligence](https://superintelligence-statement.org)
+- [mRNA Covid-19 vaccines could &#39;turbo-charge&#39; cancer treatments](https://www.euronews.com/health/2025/10/22/how-the-mrna-technology-behind-covid-19-vaccines-could-turbo-charge-cancer-treatments)
+- [My experience using residential proxies](https://news.ycombinator.com/item?id=45677553)
+- [USDA announces SNAP benefits will not be issued in November](https://www.wabi.tv/2025/10/21/usda-announces-snap-benefits-will-not-be-issued-november/)
+- [Why We&#39;re Still Talking About &quot;Human Error&quot;](https://www.thevoid.community/blog/human-error/r/recv3KE6C5hUdRi8U)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

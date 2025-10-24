@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [US military kills five people in strikes on alleged drug-trafficking boats in Pacific](https://www.theguardian.com/us-news/2025/oct/22/military-boat-strike-pacific-pete-hegseth)
-- [Mamdani, Cuomo and Sliwa fling zingers in New York mayoral debate as they try to win over voters](https://www.theguardian.com/us-news/2025/oct/22/new-york-final-mayoral-debate-mamdani-sliwa-cuomo)
-- [Family of Cheryl Grimmer say ‘what we want now is the truth’ after NSW MP names suspect in parliament](https://www.theguardian.com/australia-news/2025/oct/23/name-of-suspect-in-cheryl-grimmer-cold-case-revealed-by-nsw-mp-ntwnfb)
-- [Ukraine war briefing: Ukrainians may get Gripen fighter jets bought with Russian money](https://www.theguardian.com/world/2025/oct/23/ukraine-war-briefing-ukrainians-may-get-gripen-fighter-jets-bought-with-russian-money)
-- [‘Inexperienced’ British surfer drowned in wild Melbourne weather alongside friend who jumped in to save him](https://www.theguardian.com/australia-news/2025/oct/23/drowned-men-melbourne-identified-inexperienced-british-surfer-friend-frankston-beach)
-- [What is South Korea’s ‘monster missile’, and what does it mean for relations with the North?](https://www.theguardian.com/world/2025/oct/23/south-korea-monster-missile-hyunmoo-5-balance-power-north)
-- [Pregnant women report medical neglect in ICE detention, rights groups say](https://www.theguardian.com/us-news/2025/oct/22/ice-pregnant-women-neglect-immigration)
-- [Tesla reports steep drop in profits despite US rush to buy electric vehicles](https://www.theguardian.com/technology/2025/oct/22/tesla-earnings-report-latest-drop-profits)
-- [BBC sitcom Two Doors Down to be adapted for the stage with full TV cast](https://www.theguardian.com/stage/2025/oct/23/bbc-sitcom-two-doors-down-to-be-adapted-for-the-stage-with-full-tv-cast)
-- [New Mr Poirot and Little Miss Marple books to be published](https://www.theguardian.com/books/2025/oct/23/new-mr-poirot-and-little-miss-marple-books-to-be-published)
+- [Caerphilly byelection result live: Plaid Cyrmu beats challenge from Reform UK to win pivotal Welsh parliament vote](https://www.theguardian.com/politics/live/2025/oct/24/caerphilly-byelection-result-live-reform-plaid-cymru-labour-wales-welsh-government-senedd-latest-voting-news)
+- [In the depths of the ocean, a new contest between the US and China emerges](https://www.theguardian.com/world/2025/oct/24/us-china-contest-potential-deep-sea-mineral-mining-cook-islands)
+- [Trump in Asia: five key questions as US president prepares for diplomatic tour](https://www.theguardian.com/us-news/2025/oct/24/trump-asia-tour-key-questions-xi-jinping-china-japan-south-korea-malaysia)
+- [Trump news at a glance: Trump scraps plan to send federal troops to San Francisco Bay Area](https://www.theguardian.com/us-news/2025/oct/24/trump-news-at-a-glance-trump-scraps-plan-to-send-federal-troops-to-san-francisco-bay-area)
+- [Booker prize launches £50,000 children’s award](https://www.theguardian.com/books/2025/oct/24/booker-prize-launches-childrens-booker-frank-cottrell-boyce)
+- [Surge in UK savings lost to investment scams, with fake crypto thought to top the list](https://www.theguardian.com/money/2025/oct/24/surge-uk-savings-lost-investment-scams-fake-crypto-fraud)
+- [Windrush victims to get 75% of compensation up front in scheme overhaul](https://www.theguardian.com/uk-news/2025/oct/24/windrush-victims-to-get-75-of-compensation-up-front-in-scheme-overhaul)
+- [The Children’s Booker prize will tell kids that they matter](https://www.theguardian.com/books/2025/oct/24/the-childrens-booker-prize-will-tell-kids-that-they-matter)
+- [Car production slumps to a 73-year low after JLR cyber-attack](https://www.theguardian.com/business/2025/oct/24/car-production-slumps-73-year-low-jlr-cyber-attack)
+- [Prostate cancer drug that can halve death risk to be offered to thousands in England](https://www.theguardian.com/society/2025/oct/24/prostate-cancer-drug-darolutamide-to-be-offered-england-nhs)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

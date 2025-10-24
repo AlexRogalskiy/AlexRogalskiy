@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [VortexNet: Neural network based on fluid dynamics](https://github.com/samim23/vortexnet)
-- [Iceland reports the presence of mosquitoes as climate warms](https://www.npr.org/2025/10/22/nx-s1-5582748/iceland-mosquitoes-first-time)
-- [InpharmD &lpar;YC W21&rpar; Is Hiring – NLP Engineer](https://inpharmd.com/jobs/inpharmd-is-hiring-ai-ml-engineer)
-- [YASA beats own power density record pushing electric motor to 59kW/kg benchmark](https://yasa.com/news/yasa-smashes-own-unofficial-power-density-world-record-pushing-state-of-the-art-electric-motor-to-staggering-new-59kw-kg-benchmark/)
-- [Google flags Immich sites as dangerous](https://immich.app/blog/google-flags-immich-as-dangerous)
-- [Rethinking CQRS: An Interview on OpenCQRS](https://docs.eventsourcingdb.io/blog/2025/10/23/rethinking-cqrs-an-interview-on-opencqrs/)
-- [Why SSA Compilers?](https://mcyoung.xyz/2025/10/21/ssa-1/)
-- [Ovi: Twin backbone cross-modal fusion for audio-video generation](https://github.com/character-ai/Ovi)
-- [Show HN: Cuq – Formal Verification of Rust GPU Kernels](https://github.com/neelsomani/cuq)
-- [Criticisms of “The Body Keeps the Score”](https://josepheverettwil.substack.com/p/the-body-keeps-the-score-is-bullshit)
+- [Computer Science Courses That Don&#39;t Exist, but Should &lpar;2015&rpar;](https://prog21.dadgum.com/210.html)
+- [Counter-Strike&#39;s player economy is in a multi-billion dollar freefall](https://www.polygon.com/counter-strike-cs-player-economy-multi-billion-dollar-freefall/)
+- [React Flow, open source libraries for node-based UIs with React or Svelte](https://github.com/xyflow/xyflow)
+- [Introduction to the concept of likelihood and its applications &lpar;2018&rpar;](https://journals.sagepub.com/doi/10.1177/2515245917744314)
+- [AI discovers a 5x faster MoE load balancing algorithm than human experts](https://adrs-ucb.notion.site/moe-load-balancing)
+- [How memory maps &lpar;mmap&rpar; deliver faster file access in Go](https://info.varnish-software.com/blog/how-memory-maps-mmap-deliver-25x-faster-file-access-in-go)
+- [/dev/null is an ACID compliant database](https://jyu.dev/blog/why-dev-null-is-an-acid-compliant-database/)
+- [When is it better to think without words?](https://www.henrikkarlsson.xyz/p/wordless-thought)
+- [Zram Performance Analysis](https://notes.xeome.dev/notes/Zram)
+- [Show HN: OpenSnowcat – A fork of Snowplow to keep open analytics alive](https://opensnowcat.io/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

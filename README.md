@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Kimi 1.5: A self-contained summary of its reinforcement learning efforts](https://yashmore.notion.site/Inside-Kimi-1-5-A-self-contained-summary-of-its-reinforcement-learning-efforts-2587262c17f78011a2c6f62acb2ea143)
-- [Structured Prompting](https://narphorium.com/blog/structured-prompting/)
-- [Sauna as a Service &lpar;SaaS&rpar;](https://supersaunners.com/)
-- [The state of Kotlin scripting &lpar;November 2024&rpar;](https://mbonnin.net/2024-11-21_state-of-kotlin-scripting/)
-- [How to Predict Everything &lpar;1999&rpar;](https://www.newyorker.com/magazine/1999/07/12/how-to-predict-everything)
-- [Statement on Superintelligence](https://superintelligence-statement.org)
-- [mRNA Covid-19 vaccines could &#39;turbo-charge&#39; cancer treatments](https://www.euronews.com/health/2025/10/22/how-the-mrna-technology-behind-covid-19-vaccines-could-turbo-charge-cancer-treatments)
-- [My experience using residential proxies](https://news.ycombinator.com/item?id=45677553)
-- [USDA announces SNAP benefits will not be issued in November](https://www.wabi.tv/2025/10/21/usda-announces-snap-benefits-will-not-be-issued-november/)
-- [Why We&#39;re Still Talking About &quot;Human Error&quot;](https://www.thevoid.community/blog/human-error/r/recv3KE6C5hUdRi8U)
+- [Important Update: Ellipal Hot Wallet Services Discontinued on October 31](https://old.reddit.com/r/ELLIPAL_Official/comments/1ody2hm/important_update_ellipal_hot_wallet_services/)
+- [Data centers turn to commercial aircraft jet engines as AI power crunch bites](https://www.tomshardware.com/tech-industry/data-centers-turn-to-ex-airliner-engines-as-ai-power-crunch-bites)
+- [Show HN: Stop staring at OpenAPI files, open them instantly in your fav tools](https://chromewebstore.google.com/detail/api-factory-openapi-viewe/aebljphchgphilencbophhmbmblomhci)
+- [Show HN: Myjourney – subscription-less Midjourney alternative](https://www.myjourney.so)
+- [Cysteine amino acid helps the gut heal itself](https://www.sciencedaily.com/releases/2025/10/251023031625.htm)
+- [Chen Zhi: The &#39;scam empire&#39; owner accused of stealing $14B in crypto](https://www.bbc.com/news/articles/c70jz8e00g1o)
+- [Thought I&#39;d share my experience using residential proxies for multi-account](https://news.ycombinator.com/item?id=45690065)
+- [Computer Science Courses That Don&#39;t Exist, but Should &lpar;2015&rpar;](https://prog21.dadgum.com/210.html)
+- [The Problem of Being Known](https://www.susanrigetti.com/thoughts/the-problem-of-being-known)
+- [Drugs That Lower Cholesterol May Also Reduce Dementia Risk, Says New Study](https://www.sciencealert.com/drugs-that-lower-cholesterol-may-also-reduce-dementia-risk-says-huge-new-study)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Computer Science Courses That Don&#39;t Exist, but Should &lpar;2015&rpar;](https://prog21.dadgum.com/210.html)
-- [Counter-Strike&#39;s player economy is in a multi-billion dollar freefall](https://www.polygon.com/counter-strike-cs-player-economy-multi-billion-dollar-freefall/)
-- [React Flow, open source libraries for node-based UIs with React or Svelte](https://github.com/xyflow/xyflow)
-- [Introduction to the concept of likelihood and its applications &lpar;2018&rpar;](https://journals.sagepub.com/doi/10.1177/2515245917744314)
-- [AI discovers a 5x faster MoE load balancing algorithm than human experts](https://adrs-ucb.notion.site/moe-load-balancing)
-- [How memory maps &lpar;mmap&rpar; deliver faster file access in Go](https://info.varnish-software.com/blog/how-memory-maps-mmap-deliver-25x-faster-file-access-in-go)
-- [/dev/null is an ACID compliant database](https://jyu.dev/blog/why-dev-null-is-an-acid-compliant-database/)
-- [When is it better to think without words?](https://www.henrikkarlsson.xyz/p/wordless-thought)
-- [Zram Performance Analysis](https://notes.xeome.dev/notes/Zram)
-- [Show HN: OpenSnowcat – A fork of Snowplow to keep open analytics alive](https://opensnowcat.io/)
+- [Underdetermined Weaving with Machines &lpar;2021&rpar; [video]](https://www.youtube.com/watch?v=on_sK8KoObo)
+- [What Is Intelligence?](https://mitpress.mit.edu/9780262049955/what-is-intelligence/)
+- [Carmack on Operating Systems &lpar;1997&rpar;](https://rmitz.org/carmack.on.operating.systems.html)
+- [New OSM file format: 30% smaller than PBF, 5x faster to import](https://community.openstreetmap.org/t/new-osm-file-format-30-smaller-than-pbf-5x-faster-to-import/137151)
+- [Conductor &lpar;YC S24&rpar; Is Hiring a Founding Engineer in San Francisco](https://www.ycombinator.com/companies/conductor/jobs/MYjJzBV-founding-engineer)
+- [Study: MRI contrast agent causes harmful metal buildup in some patients](https://www.ormanager.com/briefs/study-mri-contrast-agent-causes-harmful-metal-buildup-in-some-patients/)
+- [TextEdit and the relief of simple software](https://www.newyorker.com/culture/infinite-scroll/textedit-and-the-relief-of-simple-software)
+- [The Swift SDK for Android](https://www.swift.org/blog/nightly-swift-sdk-for-android/)
+- [Harnessing America&#39;s Heat Pump Moment](https://www.heatpumped.org/p/harnessing-america-s-heat-pump-moment)
+- [How to make a Smith chart](https://www.johndcook.com/blog/2025/10/23/smith-chart/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

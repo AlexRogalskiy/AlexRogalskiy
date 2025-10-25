@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Caerphilly byelection result live: Plaid Cyrmu beats challenge from Reform UK to win pivotal Welsh parliament vote](https://www.theguardian.com/politics/live/2025/oct/24/caerphilly-byelection-result-live-reform-plaid-cymru-labour-wales-welsh-government-senedd-latest-voting-news)
-- [In the depths of the ocean, a new contest between the US and China emerges](https://www.theguardian.com/world/2025/oct/24/us-china-contest-potential-deep-sea-mineral-mining-cook-islands)
-- [Trump in Asia: five key questions as US president prepares for diplomatic tour](https://www.theguardian.com/us-news/2025/oct/24/trump-asia-tour-key-questions-xi-jinping-china-japan-south-korea-malaysia)
-- [Trump news at a glance: Trump scraps plan to send federal troops to San Francisco Bay Area](https://www.theguardian.com/us-news/2025/oct/24/trump-news-at-a-glance-trump-scraps-plan-to-send-federal-troops-to-san-francisco-bay-area)
-- [Booker prize launches £50,000 children’s award](https://www.theguardian.com/books/2025/oct/24/booker-prize-launches-childrens-booker-frank-cottrell-boyce)
-- [Surge in UK savings lost to investment scams, with fake crypto thought to top the list](https://www.theguardian.com/money/2025/oct/24/surge-uk-savings-lost-investment-scams-fake-crypto-fraud)
-- [Windrush victims to get 75% of compensation up front in scheme overhaul](https://www.theguardian.com/uk-news/2025/oct/24/windrush-victims-to-get-75-of-compensation-up-front-in-scheme-overhaul)
-- [The Children’s Booker prize will tell kids that they matter](https://www.theguardian.com/books/2025/oct/24/the-childrens-booker-prize-will-tell-kids-that-they-matter)
-- [Car production slumps to a 73-year low after JLR cyber-attack](https://www.theguardian.com/business/2025/oct/24/car-production-slumps-73-year-low-jlr-cyber-attack)
-- [Prostate cancer drug that can halve death risk to be offered to thousands in England](https://www.theguardian.com/society/2025/oct/24/prostate-cancer-drug-darolutamide-to-be-offered-england-nhs)
+- [Thailand’s Queen Mother Sirikit dies at 93 after more than a decade out of the public eye](https://www.theguardian.com/world/2025/oct/25/thailands-queen-mother-sirikit-dies-at-93-after-more-than-a-decade-out-of-the-public-eye)
+- [At least four people shot near Howard University, Washington DC police say](https://www.theguardian.com/us-news/2025/oct/24/howard-university-shooting-police)
+- [Long time, no sea: more than 100m red crabs migrate on Christmas Island, delighting conservationists](https://www.theguardian.com/australia-news/2025/oct/25/long-time-no-sea-more-than-100m-red-crabs-migrate-on-christmas-island-delighting-conservationists)
+- [Cutting cash Isa limit will not boost stock market, MPs warn Rachel Reeves](https://www.theguardian.com/uk-news/2025/oct/25/cutting-cash-isa-limit-will-not-boost-stock-market-mps-warn-rachel-reeves)
+- [Lithuania shuts airports and Belarus border after weather balloon incursion](https://www.theguardian.com/world/2025/oct/24/weather-balloon-incursion-forces-lithuanias-biggest-airports-to-close)
+- [Tennessee man’s heart still active nearly two minutes after execution, lawyer says](https://www.theguardian.com/us-news/2025/oct/24/tennessee-execution-byron-black-cardiac-activity)
+- [Napoleon’s soldiers who died in Russian retreat had unexpected diseases, study finds](https://www.theguardian.com/world/2025/oct/24/napoleon-army-died-russia-unexpected-diseases)
+- [‘I don’t care what Slot is saying’: Ruben Amorim hits back at Liverpool manager](https://www.theguardian.com/football/2025/oct/24/i-dont-care-what-slot-is-saying-ruben-amorim-hits-back-at-liverpool-manager)
+- [Aaronson and Rodon punish woeful West Ham as Leeds race to victory](https://www.theguardian.com/football/2025/oct/24/leeds-west-ham-premier-league-match-report)
+- [US investigates Tesla’s ‘Mad Max’ high-speed driver assistance mode](https://www.theguardian.com/technology/2025/oct/24/tesla-mad-max-driver-assistance-investigation)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

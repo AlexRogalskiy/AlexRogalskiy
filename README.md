@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Important Update: Ellipal Hot Wallet Services Discontinued on October 31](https://old.reddit.com/r/ELLIPAL_Official/comments/1ody2hm/important_update_ellipal_hot_wallet_services/)
-- [Data centers turn to commercial aircraft jet engines as AI power crunch bites](https://www.tomshardware.com/tech-industry/data-centers-turn-to-ex-airliner-engines-as-ai-power-crunch-bites)
-- [Show HN: Stop staring at OpenAPI files, open them instantly in your fav tools](https://chromewebstore.google.com/detail/api-factory-openapi-viewe/aebljphchgphilencbophhmbmblomhci)
-- [Show HN: Myjourney – subscription-less Midjourney alternative](https://www.myjourney.so)
-- [Cysteine amino acid helps the gut heal itself](https://www.sciencedaily.com/releases/2025/10/251023031625.htm)
-- [Chen Zhi: The &#39;scam empire&#39; owner accused of stealing $14B in crypto](https://www.bbc.com/news/articles/c70jz8e00g1o)
-- [Thought I&#39;d share my experience using residential proxies for multi-account](https://news.ycombinator.com/item?id=45690065)
-- [Computer Science Courses That Don&#39;t Exist, but Should &lpar;2015&rpar;](https://prog21.dadgum.com/210.html)
-- [The Problem of Being Known](https://www.susanrigetti.com/thoughts/the-problem-of-being-known)
-- [Drugs That Lower Cholesterol May Also Reduce Dementia Risk, Says New Study](https://www.sciencealert.com/drugs-that-lower-cholesterol-may-also-reduce-dementia-risk-says-huge-new-study)
+- [Jujutsu VCS](https://swiftwithmajid.com/2025/10/15/introducing-jujutsu-vcs/)
+- [Elements of Programming: A Treatise on the Foundations of Computing](https://leanpub.com/elementsofprogramming)
+- [Game Development Principles](https://irradiance.ca/posts/principles/)
+- [Bannon Claims &#39;There Is a Plan&#39; for Trump to Run for a Third Term](https://www.nytimes.com/2025/10/24/us/politics/president-trump-2028-steve-bannon.html)
+- [Key IOCs for Pegasus and Predator Spyware Removed with iOS 26 Update](https://iverify.io/blog/key-iocs-for-pegasus-and-predator-spyware-cleaned-with-ios-26-update)
+- [Underdetermined Weaving with Machines &lpar;2021&rpar; [video]](https://www.youtube.com/watch?v=on_sK8KoObo)
+- [Show HN: An AI-flavored philosophy web app to fuel an offline journaling habit](https://www.gnothi.app)
+- [Advice for New Principal Tech ICs &lpar;I.e., Notes to Myself&rpar;](https://eugeneyan.com/writing/principal/)
+- [Target cuts 1,800 corporate jobs in its first major layoffs in a decade](https://www.cnbc.com/2025/10/23/target-layoffs-corporate-jobs-sales-slump.html)
+- [The State of Developer Ecosystem 2025](https://blog.jetbrains.com/research/2025/10/state-of-developer-ecosystem-2025/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

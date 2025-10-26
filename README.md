@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Jujutsu VCS](https://swiftwithmajid.com/2025/10/15/introducing-jujutsu-vcs/)
-- [Elements of Programming: A Treatise on the Foundations of Computing](https://leanpub.com/elementsofprogramming)
-- [Game Development Principles](https://irradiance.ca/posts/principles/)
-- [Bannon Claims &#39;There Is a Plan&#39; for Trump to Run for a Third Term](https://www.nytimes.com/2025/10/24/us/politics/president-trump-2028-steve-bannon.html)
-- [Key IOCs for Pegasus and Predator Spyware Removed with iOS 26 Update](https://iverify.io/blog/key-iocs-for-pegasus-and-predator-spyware-cleaned-with-ios-26-update)
-- [Underdetermined Weaving with Machines &lpar;2021&rpar; [video]](https://www.youtube.com/watch?v=on_sK8KoObo)
-- [Show HN: An AI-flavored philosophy web app to fuel an offline journaling habit](https://www.gnothi.app)
-- [Advice for New Principal Tech ICs &lpar;I.e., Notes to Myself&rpar;](https://eugeneyan.com/writing/principal/)
-- [Target cuts 1,800 corporate jobs in its first major layoffs in a decade](https://www.cnbc.com/2025/10/23/target-layoffs-corporate-jobs-sales-slump.html)
-- [The State of Developer Ecosystem 2025](https://blog.jetbrains.com/research/2025/10/state-of-developer-ecosystem-2025/)
+- [Ondol](https://en.wikipedia.org/wiki/Ondol)
+- [Cara Buka Blokir BWS Mobile Banking](https://news.ycombinator.com/item?id=45708797)
+- [GenAI Image Editing Showdown](https://genai-showdown.specr.net/)
+- [How efficient is RocksDB for IO-bound, point-query workloads?](http://smalldatum.blogspot.com/2025/10/how-efficient-is-rocksdb-for-io-bound.html)
+- [Periodic Advertising with Responses &lpar;PAwR&rpar;: Bidirectional Bluetooth Advertising](https://novelbits.io/periodic-advertising-with-responses-pawr/)
+- [Network Scanner script to automate Adblock rules](https://github.com/ryanbr/network-scanner)
+- [PCB Edge USB C Connector Library](https://github.com/AnasMalas/pcb-edge-usb-c)
+- [AI models may be developing their own &#39;survival drive&#39;, researchers say](https://www.theguardian.com/technology/2025/oct/25/ai-models-may-be-developing-their-own-survival-drive-researchers-say)
+- [Creative neglect: What about the apps in Apple?](https://sixcolors.com/post/2025/10/creative-neglect-what-about-the-apps-in-apple/)
+- [Show HN: I made a site to replace emdashes and ornate AI characters from text](https://removeemdash.org)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

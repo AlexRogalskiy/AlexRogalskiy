@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Thailand’s Queen Mother Sirikit dies at 93 after more than a decade out of the public eye](https://www.theguardian.com/world/2025/oct/25/thailands-queen-mother-sirikit-dies-at-93-after-more-than-a-decade-out-of-the-public-eye)
-- [At least four people shot near Howard University, Washington DC police say](https://www.theguardian.com/us-news/2025/oct/24/howard-university-shooting-police)
-- [Long time, no sea: more than 100m red crabs migrate on Christmas Island, delighting conservationists](https://www.theguardian.com/australia-news/2025/oct/25/long-time-no-sea-more-than-100m-red-crabs-migrate-on-christmas-island-delighting-conservationists)
-- [Cutting cash Isa limit will not boost stock market, MPs warn Rachel Reeves](https://www.theguardian.com/uk-news/2025/oct/25/cutting-cash-isa-limit-will-not-boost-stock-market-mps-warn-rachel-reeves)
-- [Lithuania shuts airports and Belarus border after weather balloon incursion](https://www.theguardian.com/world/2025/oct/24/weather-balloon-incursion-forces-lithuanias-biggest-airports-to-close)
-- [Tennessee man’s heart still active nearly two minutes after execution, lawyer says](https://www.theguardian.com/us-news/2025/oct/24/tennessee-execution-byron-black-cardiac-activity)
-- [Napoleon’s soldiers who died in Russian retreat had unexpected diseases, study finds](https://www.theguardian.com/world/2025/oct/24/napoleon-army-died-russia-unexpected-diseases)
-- [‘I don’t care what Slot is saying’: Ruben Amorim hits back at Liverpool manager](https://www.theguardian.com/football/2025/oct/24/i-dont-care-what-slot-is-saying-ruben-amorim-hits-back-at-liverpool-manager)
-- [Aaronson and Rodon punish woeful West Ham as Leeds race to victory](https://www.theguardian.com/football/2025/oct/24/leeds-west-ham-premier-league-match-report)
-- [US investigates Tesla’s ‘Mad Max’ high-speed driver assistance mode](https://www.theguardian.com/technology/2025/oct/24/tesla-mad-max-driver-assistance-investigation)
+- [New Zealand v England: first men’s ODI – live](https://www.theguardian.com/sport/live/2025/oct/26/new-zealand-v-england-first-mens-odi-live)
+- [Ukraine war briefing: US reportedly mulling further sanctions on Russia that could hit banking sector](https://www.theguardian.com/world/2025/oct/26/ukraine-war-briefing-us-reportedly-mulling-further-sanctions-on-russia-that-could-hit-banking-sector)
+- [Fabio Wardley stops Joseph Parker in stunning style to set up Usyk clash](https://www.theguardian.com/sport/2025/oct/26/fabio-wardley-stops-joseph-parker-oleksandr-usyk-boxing)
+- [Arne Slot admits Liverpool’s Brentford defeat among his worst as losing run goes on](https://www.theguardian.com/football/2025/oct/25/arne-slot-admits-liverpool-brentford-defeat-among-his-worst-as-losing-run-goes-on)
+- [Lando Norris claims F1 Mexico City GP pole as teammate Oscar Piastri falters](https://www.theguardian.com/sport/2025/oct/25/lando-norris-claims-f1-mexico-city-gp-pole-as-oscar-piastri-flounders)
+- [New Jersey officer charged after going out for pizza instead of responding to shooting](https://www.theguardian.com/us-news/2025/oct/25/new-jersey-pizza-double-homicide)
+- [British Airways pulls Louis Theroux podcast sponsorship after Bob Vylan interview](https://www.theguardian.com/music/2025/oct/25/british-airways-pulls-louis-theroux-podcast-sponsorship-after-bob-vylan-interview)
+- [Manchester United build momentum as Bryan Mbeumo double sinks Brighton](https://www.theguardian.com/football/2025/oct/25/manchester-united-brighton-premier-league-match-report)
+- [Trump raises tariffs on Canada by 10% in retaliation for anti-tariff TV ad](https://www.theguardian.com/us-news/2025/oct/25/trump-tariffs-canada-ronald-reagan)
+- [Sunderland flying high after stunning Chelsea with injury-time Talbi winner](https://www.theguardian.com/football/2025/oct/25/chelsea-sunderland-premier-league-match-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Underdetermined Weaving with Machines &lpar;2021&rpar; [video]](https://www.youtube.com/watch?v=on_sK8KoObo)
-- [What Is Intelligence?](https://mitpress.mit.edu/9780262049955/what-is-intelligence/)
-- [Carmack on Operating Systems &lpar;1997&rpar;](https://rmitz.org/carmack.on.operating.systems.html)
-- [New OSM file format: 30% smaller than PBF, 5x faster to import](https://community.openstreetmap.org/t/new-osm-file-format-30-smaller-than-pbf-5x-faster-to-import/137151)
-- [Conductor &lpar;YC S24&rpar; Is Hiring a Founding Engineer in San Francisco](https://www.ycombinator.com/companies/conductor/jobs/MYjJzBV-founding-engineer)
-- [Study: MRI contrast agent causes harmful metal buildup in some patients](https://www.ormanager.com/briefs/study-mri-contrast-agent-causes-harmful-metal-buildup-in-some-patients/)
-- [TextEdit and the relief of simple software](https://www.newyorker.com/culture/infinite-scroll/textedit-and-the-relief-of-simple-software)
-- [The Swift SDK for Android](https://www.swift.org/blog/nightly-swift-sdk-for-android/)
-- [Harnessing America&#39;s Heat Pump Moment](https://www.heatpumped.org/p/harnessing-america-s-heat-pump-moment)
-- [How to make a Smith chart](https://www.johndcook.com/blog/2025/10/23/smith-chart/)
+- [PCB Edge USB C Connector Library](https://github.com/AnasMalas/pcb-edge-usb-c)
+- [Pico-Banana-400k](https://github.com/apple/pico-banana-400k)
+- [Noam Chomsky Slams ŽIžek and Lacan: Empty &#39;Posturing&#39; &lpar;2013&rpar;](https://www.openculture.com/2013/06/noam_chomsky_slams_zizek_and_lacan_empty_posturing.html)
+- [A worker fell into a nuclear reactor pool](https://www.nrc.gov/reading-rm/doc-collections/event-status/event/2025/20251022en?brid=vscAjql9kZL1FfGE7TYHVw#en57996:~:text=TRANSPORT%20OF%20CONTAMINATED%20PERSON%20OFFSITE)
+- [I&#39;m drowning in AI features I never asked for and I hate it](https://www.makeuseof.com/ai-features-being-rammed-down-our-throats/)
+- [The Linux Boot Process: From Power Button to Kernel](https://www.0xkato.xyz/linux-boot/)
+- [D2: Diagram Scripting Language](https://d2lang.com/tour/intro/)
+- [Belittled Magazine: Thirty years after the Sokal affair](https://thebaffler.com/salvos/belittled-magazine-robbins)
+- [How programs get run: ELF binaries &lpar;2015&rpar;](https://lwn.net/Articles/631631/)
+- [An Efficient Implementation of SELF &lpar;1989&rpar; [pdf]](https://courses.cs.washington.edu/courses/cse501/15sp/papers/chambers.pdf)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

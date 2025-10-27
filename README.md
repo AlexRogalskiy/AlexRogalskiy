@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [PCB Edge USB C Connector Library](https://github.com/AnasMalas/pcb-edge-usb-c)
-- [Pico-Banana-400k](https://github.com/apple/pico-banana-400k)
-- [Noam Chomsky Slams ŽIžek and Lacan: Empty &#39;Posturing&#39; &lpar;2013&rpar;](https://www.openculture.com/2013/06/noam_chomsky_slams_zizek_and_lacan_empty_posturing.html)
-- [A worker fell into a nuclear reactor pool](https://www.nrc.gov/reading-rm/doc-collections/event-status/event/2025/20251022en?brid=vscAjql9kZL1FfGE7TYHVw#en57996:~:text=TRANSPORT%20OF%20CONTAMINATED%20PERSON%20OFFSITE)
-- [I&#39;m drowning in AI features I never asked for and I hate it](https://www.makeuseof.com/ai-features-being-rammed-down-our-throats/)
-- [The Linux Boot Process: From Power Button to Kernel](https://www.0xkato.xyz/linux-boot/)
-- [D2: Diagram Scripting Language](https://d2lang.com/tour/intro/)
-- [Belittled Magazine: Thirty years after the Sokal affair](https://thebaffler.com/salvos/belittled-magazine-robbins)
-- [How programs get run: ELF binaries &lpar;2015&rpar;](https://lwn.net/Articles/631631/)
-- [An Efficient Implementation of SELF &lpar;1989&rpar; [pdf]](https://courses.cs.washington.edu/courses/cse501/15sp/papers/chambers.pdf)
+- [How I turned Zig into my favorite language to write network programs in](https://lalinsky.com/2025/10/26/zio-async-io-for-zig.html)
+- [Are-we-fast-yet implementations in Oberon, C++, C, Pascal, Micron and Luon](https://github.com/rochus-keller/Are-we-fast-yet)
+- [Microsoft 365 Copilot – Arbitrary Data Exfiltration via Mermaid Diagrams](https://www.adamlogue.com/microsoft-365-copilot-arbitrary-data-exfiltration-via-mermaid-diagrams-fixed/)
+- [AI Mafia Network – An interactive visualization](https://dipakwani.com/ai-mafia/)
+- [Show HN: Helium Browser for Android with extensions support, based on Vanadium](https://github.com/jqssun/android-helium-browser)
+- [Poison, Poison Everywhere](https://loeber.substack.com/p/29-poison-poison-everywhere)
+- [We Saved $500k per Year by Rolling Our Own &quot;S3&quot;](https://engineering.nanit.com/how-we-saved-500-000-per-year-by-rolling-our-own-s3-6caec1ee1143)
+- [Show HN: MyraOS – My 32-bit operating system in C and ASM &lpar;Hack Club project&rpar;](https://github.com/dvir-biton/MyraOS)
+- [A definition of AGI](https://arxiv.org/abs/2510.18212)
+- [Nvidia DGX Spark: When benchmark numbers meet production reality](https://publish.obsidian.md/aixplore/Practical+Applications/dgx-lab-benchmarks-vs-reality-day-4)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [New Zealand v England: first men’s ODI – live](https://www.theguardian.com/sport/live/2025/oct/26/new-zealand-v-england-first-mens-odi-live)
-- [Ukraine war briefing: US reportedly mulling further sanctions on Russia that could hit banking sector](https://www.theguardian.com/world/2025/oct/26/ukraine-war-briefing-us-reportedly-mulling-further-sanctions-on-russia-that-could-hit-banking-sector)
-- [Fabio Wardley stops Joseph Parker in stunning style to set up Usyk clash](https://www.theguardian.com/sport/2025/oct/26/fabio-wardley-stops-joseph-parker-oleksandr-usyk-boxing)
-- [Arne Slot admits Liverpool’s Brentford defeat among his worst as losing run goes on](https://www.theguardian.com/football/2025/oct/25/arne-slot-admits-liverpool-brentford-defeat-among-his-worst-as-losing-run-goes-on)
-- [Lando Norris claims F1 Mexico City GP pole as teammate Oscar Piastri falters](https://www.theguardian.com/sport/2025/oct/25/lando-norris-claims-f1-mexico-city-gp-pole-as-oscar-piastri-flounders)
-- [New Jersey officer charged after going out for pizza instead of responding to shooting](https://www.theguardian.com/us-news/2025/oct/25/new-jersey-pizza-double-homicide)
-- [British Airways pulls Louis Theroux podcast sponsorship after Bob Vylan interview](https://www.theguardian.com/music/2025/oct/25/british-airways-pulls-louis-theroux-podcast-sponsorship-after-bob-vylan-interview)
-- [Manchester United build momentum as Bryan Mbeumo double sinks Brighton](https://www.theguardian.com/football/2025/oct/25/manchester-united-brighton-premier-league-match-report)
-- [Trump raises tariffs on Canada by 10% in retaliation for anti-tariff TV ad](https://www.theguardian.com/us-news/2025/oct/25/trump-tariffs-canada-ronald-reagan)
-- [Sunderland flying high after stunning Chelsea with injury-time Talbi winner](https://www.theguardian.com/football/2025/oct/25/chelsea-sunderland-premier-league-match-report)
+- [Ukraine war briefing: Russia claims test of nuclear-powered missile condemned as ‘flying Chornobyl’](https://www.theguardian.com/world/2025/oct/27/ukraine-war-briefing-russian-claims-test-of-nuclear-powered-missile-known-as-flying-chornobyl)
+- [Thousands without power in Queensland as Victoria experiences ‘terrifying’ winds after year’s wettest day](https://www.theguardian.com/australia-news/2025/oct/27/queensland-victoria-qld-brisbane-hail-storms-power-outages-wild-weather)
+- [Javier Milei hails ‘tipping point’ as his far-right party wins Argentina’s midterm elections](https://www.theguardian.com/world/2025/oct/27/javier-milei-president-far-right-party-wins-argentina-midterm-elections)
+- [Radiohead’s Thom Yorke says he would ‘absolutely not’ play in Israel now](https://www.theguardian.com/music/2025/oct/27/radiohead-thom-yorke-would-not-play-israel)
+- [US and China agree ‘framework’ for trade deal ahead of Xi-Trump meeting](https://www.theguardian.com/us-news/2025/oct/27/us-china-framework-trade-deal-xi-trump-meeting)
+- [NHS leaders warn of longer waiting times if demand for extra £3bn not met](https://www.theguardian.com/society/2025/oct/27/nhs-leaders-demand-extra-funding-waiting-times)
+- [Private rent in Britain now swallows 44% of the average wage](https://www.theguardian.com/money/2025/oct/27/private-rent-britain-record-swallows-average-wage)
+- [Brazil and Peru are failing uncontacted people – and the Amazon’s future is at stake | Julio Cusurichi Palacios and Beto Marubo](https://www.theguardian.com/global-development/2025/oct/27/brazil-and-peru-are-failing-uncontacted-people-and-the-amazon-future-is-at-stake)
+- [Home Office squandered billions on ‘failed and chaotic’ asylum accommodation](https://www.theguardian.com/uk-news/2025/oct/27/home-office-squandered-billions-on-failed-and-chaotic-asylum-accommodation)
+- [‘I could have killed them’: Lawson’s fury after narrowly missing hitting marshals](https://www.theguardian.com/sport/2025/oct/26/liam-lawson-mexico-city-grand-prix-narrowly-missed-hitting-two-marshals)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

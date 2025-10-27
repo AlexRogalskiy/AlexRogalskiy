@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ondol](https://en.wikipedia.org/wiki/Ondol)
-- [Cara Buka Blokir BWS Mobile Banking](https://news.ycombinator.com/item?id=45708797)
-- [GenAI Image Editing Showdown](https://genai-showdown.specr.net/)
-- [How efficient is RocksDB for IO-bound, point-query workloads?](http://smalldatum.blogspot.com/2025/10/how-efficient-is-rocksdb-for-io-bound.html)
-- [Periodic Advertising with Responses &lpar;PAwR&rpar;: Bidirectional Bluetooth Advertising](https://novelbits.io/periodic-advertising-with-responses-pawr/)
-- [Network Scanner script to automate Adblock rules](https://github.com/ryanbr/network-scanner)
-- [PCB Edge USB C Connector Library](https://github.com/AnasMalas/pcb-edge-usb-c)
-- [AI models may be developing their own &#39;survival drive&#39;, researchers say](https://www.theguardian.com/technology/2025/oct/25/ai-models-may-be-developing-their-own-survival-drive-researchers-say)
-- [Creative neglect: What about the apps in Apple?](https://sixcolors.com/post/2025/10/creative-neglect-what-about-the-apps-in-apple/)
-- [Show HN: I made a site to replace emdashes and ornate AI characters from text](https://removeemdash.org)
+- [Solusi Cara Buka Blokir Akun Wondr BNI Terblokir](https://news.ycombinator.com/item?id=45717056)
+- [Post-Training Generative Recommenders with Advantage-Weighted Supervised Tuning](https://netflixtechblog.com/post-training-generative-recommenders-with-advantage-weighted-supervised-finetuning-61a538d717a9)
+- [Cara buka blokir Wondr by BNI pada BNI Mobile](https://news.ycombinator.com/item?id=45717053)
+- [Bitcoin Node Wars 2025: Is the Core v30 vs. Knots debate about Scalability?](http://unenumerated.blogspot.com/2017/02/money-blockchains-and-social-scalability.html)
+- [America&#39;s Transportation Department Blocked a Self-Driving Truck Company](https://reason.com/2025/10/19/feds-pump-the-brakes-on-autonomous-trucks/)
+- [Crafting Engineering Strategy](https://lethain.com/crafting-engineering-strategy/)
+- [What&#39;s the Matter with India? The judicial system as root of all evils](https://nicholasdecker.substack.com/p/whats-the-matter-with-india)
+- [Flights to LAX halted due to air traffic controller shortage](https://apnews.com/article/lax-airport-flights-delays-shutdown-b2e0c13f3241e415784c3118fc8f0c9d)
+- [A $600 &#39;poop&#39; camera for your toilet](https://www.tomsguide.com/home/smart-home/kohler-has-just-launched-a-usd600-poop-camera-for-your-toilet-yes-really)
+- [Help a Family Create a Memory](https://olshansky.substack.com/p/help-a-family-create-a-memory)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

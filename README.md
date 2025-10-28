@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [How I turned Zig into my favorite language to write network programs in](https://lalinsky.com/2025/10/26/zio-async-io-for-zig.html)
-- [Are-we-fast-yet implementations in Oberon, C++, C, Pascal, Micron and Luon](https://github.com/rochus-keller/Are-we-fast-yet)
-- [Microsoft 365 Copilot – Arbitrary Data Exfiltration via Mermaid Diagrams](https://www.adamlogue.com/microsoft-365-copilot-arbitrary-data-exfiltration-via-mermaid-diagrams-fixed/)
-- [AI Mafia Network – An interactive visualization](https://dipakwani.com/ai-mafia/)
-- [Show HN: Helium Browser for Android with extensions support, based on Vanadium](https://github.com/jqssun/android-helium-browser)
-- [Poison, Poison Everywhere](https://loeber.substack.com/p/29-poison-poison-everywhere)
-- [We Saved $500k per Year by Rolling Our Own &quot;S3&quot;](https://engineering.nanit.com/how-we-saved-500-000-per-year-by-rolling-our-own-s3-6caec1ee1143)
-- [Show HN: MyraOS – My 32-bit operating system in C and ASM &lpar;Hack Club project&rpar;](https://github.com/dvir-biton/MyraOS)
-- [A definition of AGI](https://arxiv.org/abs/2510.18212)
-- [Nvidia DGX Spark: When benchmark numbers meet production reality](https://publish.obsidian.md/aixplore/Practical+Applications/dgx-lab-benchmarks-vs-reality-day-4)
+- [AI can code, but it can&#39;t build software](https://bytesauna.com/post/coding-vs-software-engineering)
+- [Iroh-blobs](https://www.iroh.computer/blog/iroh-blobs-0-95-new-features)
+- [Are these real CVEs? VulDB entries for dnsmasq rely on replacing config files](https://seclists.org/oss-sec/2025/q4/79)
+- [OpenAI says over a million people talk to ChatGPT about suicide weekly](https://techcrunch.com/2025/10/27/openai-says-over-a-million-people-talk-to-chatgpt-about-suicide-weekly/)
+- [Easy RISC-V](https://dramforever.github.io/easyriscv/)
+- [Study finds growing social circles may fuel polarization](https://phys.org/news/2025-10-friends-division-social-circles-fuel.html)
+- [Creating an all-weather driver](https://waymo.com/blog/2025/10/creating-an-all-weather-driver)
+- [MCP-Scanner – Scan MCP Servers for vulnerabilities](https://github.com/cisco-ai-defense/mcp-scanner)
+- [The new calculus of AI-based coding](https://blog.joemag.dev/2025/10/the-new-calculus-of-ai-based-coding.html)
+- [Show HN: Dlog – Journaling and AI coach that learns what drives wellbeing &lpar;Mac&rpar;](https://dlog.pro/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

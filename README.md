@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine war briefing: Russia claims test of nuclear-powered missile condemned as ‘flying Chornobyl’](https://www.theguardian.com/world/2025/oct/27/ukraine-war-briefing-russian-claims-test-of-nuclear-powered-missile-known-as-flying-chornobyl)
-- [Thousands without power in Queensland as Victoria experiences ‘terrifying’ winds after year’s wettest day](https://www.theguardian.com/australia-news/2025/oct/27/queensland-victoria-qld-brisbane-hail-storms-power-outages-wild-weather)
-- [Javier Milei hails ‘tipping point’ as his far-right party wins Argentina’s midterm elections](https://www.theguardian.com/world/2025/oct/27/javier-milei-president-far-right-party-wins-argentina-midterm-elections)
-- [Radiohead’s Thom Yorke says he would ‘absolutely not’ play in Israel now](https://www.theguardian.com/music/2025/oct/27/radiohead-thom-yorke-would-not-play-israel)
-- [US and China agree ‘framework’ for trade deal ahead of Xi-Trump meeting](https://www.theguardian.com/us-news/2025/oct/27/us-china-framework-trade-deal-xi-trump-meeting)
-- [NHS leaders warn of longer waiting times if demand for extra £3bn not met](https://www.theguardian.com/society/2025/oct/27/nhs-leaders-demand-extra-funding-waiting-times)
-- [Private rent in Britain now swallows 44% of the average wage](https://www.theguardian.com/money/2025/oct/27/private-rent-britain-record-swallows-average-wage)
-- [Brazil and Peru are failing uncontacted people – and the Amazon’s future is at stake | Julio Cusurichi Palacios and Beto Marubo](https://www.theguardian.com/global-development/2025/oct/27/brazil-and-peru-are-failing-uncontacted-people-and-the-amazon-future-is-at-stake)
-- [Home Office squandered billions on ‘failed and chaotic’ asylum accommodation](https://www.theguardian.com/uk-news/2025/oct/27/home-office-squandered-billions-on-failed-and-chaotic-asylum-accommodation)
-- [‘I could have killed them’: Lawson’s fury after narrowly missing hitting marshals](https://www.theguardian.com/sport/2025/oct/26/liam-lawson-mexico-city-grand-prix-narrowly-missed-hitting-two-marshals)
+- [Hurricane Melissa live: Jamaicans take shelter as slow-moving category 5 storm increases in intensity](https://www.theguardian.com/world/live/2025/oct/27/hurricane-melissa-jamaica-cuba-caribbean-haiti-dominican-republic-live-news-latest-updates)
+- [Trump and Xi talks: what will be on the agenda when US president meets China’s leader?](https://www.theguardian.com/us-news/2025/oct/28/trump-and-xi-talks-what-will-be-on-the-agenda-when-us-president-meets-chinas-leader)
+- [Trump news at a glance: president floats a third term as Democrats vow ‘no way in hell’](https://www.theguardian.com/us-news/2025/oct/27/trump-news-at-a-glance-president-floats-a-third-term-as-democrats-vow-no-way-in-hell)
+- [India’s Shreyas Iyer recovering in hospital from lacerated spleen horror injury](https://www.theguardian.com/sport/2025/oct/28/indias-shreyas-iyer-recovering-in-hospital-from-horror-injury-resulting-in-lacerated-spleen)
+- [All schools in England with removal grants to be Raac-free by 2029, says Phillipson](https://www.theguardian.com/uk-news/2025/oct/28/all-schools-in-england-with-removal-grants-to-be-raac-free-by-2029-says-phillipson)
+- [Shrinkflation hits everyday staples, piling more pressure on households](https://www.theguardian.com/business/2025/oct/28/shrinkflation-hits-everyday-staples-piling-more-pressure-on-households)
+- [Organised crime making millions from illegal waste dumping in UK, says committee](https://www.theguardian.com/environment/2025/oct/28/organised-making-millions-from-waste-dumping-in-uk-says-committee)
+- [‘Change course now’: humanity has missed 1.5C climate target, says UN head](https://www.theguardian.com/environment/2025/oct/28/change-course-now-humanity-has-missed-15c-climate-target-says-un-head)
+- [Picture of health: going to art galleries can improve wellbeing, study reveals](https://www.theguardian.com/society/2025/oct/28/picture-of-health-going-to-art-galleries-can-improve-wellbeing-study-reveals)
+- [Lammy tells Labour to learn from Caerphilly defeat as party seeks reset](https://www.theguardian.com/politics/2025/oct/27/lammy-tells-labour-to-learn-from-caerphilly-defeat-as-party-seeks-reset)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

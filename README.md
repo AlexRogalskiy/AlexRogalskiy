@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Solusi Cara Buka Blokir Akun Wondr BNI Terblokir](https://news.ycombinator.com/item?id=45717056)
-- [Post-Training Generative Recommenders with Advantage-Weighted Supervised Tuning](https://netflixtechblog.com/post-training-generative-recommenders-with-advantage-weighted-supervised-finetuning-61a538d717a9)
-- [Cara buka blokir Wondr by BNI pada BNI Mobile](https://news.ycombinator.com/item?id=45717053)
-- [Bitcoin Node Wars 2025: Is the Core v30 vs. Knots debate about Scalability?](http://unenumerated.blogspot.com/2017/02/money-blockchains-and-social-scalability.html)
-- [America&#39;s Transportation Department Blocked a Self-Driving Truck Company](https://reason.com/2025/10/19/feds-pump-the-brakes-on-autonomous-trucks/)
-- [Crafting Engineering Strategy](https://lethain.com/crafting-engineering-strategy/)
-- [What&#39;s the Matter with India? The judicial system as root of all evils](https://nicholasdecker.substack.com/p/whats-the-matter-with-india)
-- [Flights to LAX halted due to air traffic controller shortage](https://apnews.com/article/lax-airport-flights-delays-shutdown-b2e0c13f3241e415784c3118fc8f0c9d)
-- [A $600 &#39;poop&#39; camera for your toilet](https://www.tomsguide.com/home/smart-home/kohler-has-just-launched-a-usd600-poop-camera-for-your-toilet-yes-really)
-- [Help a Family Create a Memory](https://olshansky.substack.com/p/help-a-family-create-a-memory)
+- [Comprehensive Review of the Palm Vein Unlocking Technology](https://www.eufy.com/blogs/smart-lock/palm-vein-unlocking-technology)
+- [Grokipedia.com version 0.1 is now live](https://twitter.com/elonmusk/status/1982983035906842651)
+- [Is the Chegg layoff a harbinger for education?](https://substack.com/inbox/post/177333088)
+- [Alex Thatch is the 2nd to do a &quot;Tetris Rebirth&quot; &lpar;go beyond lvl 255&rpar;](https://www.youtube.com/clip/UgkxDHwmgM8ifzT26zpPHMHvK0W868BvW4gd)
+- [Justcopy.ai – Copy and Customize Digital Tools in Minutes](https://blog.justcopy.ai/p/dont-build-from-scratch-just-copy)
+- [Building a Coding Agent in Rust – Introduction](https://www.youtube.com/watch?v=tQJTuYkZ4u8)
+- [Drivers who do 10k miles a year &#39;face new £1,500 charge&#39;](https://www.birminghammail.co.uk/motoring/motoring-news/drivers-who-10000-miles-year-32727647)
+- [Are You Ready?](https://jeffreylminch.substack.com/p/are-you-ready)
+- [Elon Musk launches a Wikipedia rival that extols his own &#39;vision&#39;](https://www.washingtonpost.com/technology/2025/10/27/grokipedia-wikipedia-musk-/)
+- [VibePointer – ML based human-like cursor mover](https://github.com/Nothflare/VibePointer)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

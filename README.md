@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [AI can code, but it can&#39;t build software](https://bytesauna.com/post/coding-vs-software-engineering)
-- [Iroh-blobs](https://www.iroh.computer/blog/iroh-blobs-0-95-new-features)
-- [Are these real CVEs? VulDB entries for dnsmasq rely on replacing config files](https://seclists.org/oss-sec/2025/q4/79)
-- [OpenAI says over a million people talk to ChatGPT about suicide weekly](https://techcrunch.com/2025/10/27/openai-says-over-a-million-people-talk-to-chatgpt-about-suicide-weekly/)
-- [Easy RISC-V](https://dramforever.github.io/easyriscv/)
-- [Study finds growing social circles may fuel polarization](https://phys.org/news/2025-10-friends-division-social-circles-fuel.html)
-- [Creating an all-weather driver](https://waymo.com/blog/2025/10/creating-an-all-weather-driver)
-- [MCP-Scanner – Scan MCP Servers for vulnerabilities](https://github.com/cisco-ai-defense/mcp-scanner)
-- [The new calculus of AI-based coding](https://blog.joemag.dev/2025/10/the-new-calculus-of-ai-based-coding.html)
-- [Show HN: Dlog – Journaling and AI coach that learns what drives wellbeing &lpar;Mac&rpar;](https://dlog.pro/)
+- [Project Shadowglass](https://shadowglassgame.com)
+- [Database backups, dump files and restic](https://strugglers.net/posts/2025/database-backups-dump-files-and-restic/)
+- [Keeping the Internet fast and secure: introducing Merkle Tree Certificates](https://blog.cloudflare.com/bootstrap-mtc/)
+- [Tor Browser 15.0](https://blog.torproject.org/new-release-tor-browser-150/)
+- [Tinkering is a way to acquire good taste](https://seated.ro/blog/tinkering-a-lost-art)
+- [Generative AI Image Editing Showdown](https://genai-showdown.specr.net/image-editing)
+- [Boring is what we wanted](https://512pixels.net/2025/10/boring-is-what-we-wanted/)
+- [Show HN: Butter – A Behavior Cache for LLMs](https://www.butter.dev/)
+- [Why do some radio towers blink?](https://www.jeffgeerling.com/blog/2025/why-do-some-radio-towers-blink)
+- [Samsung makes ads on smart fridges official with upcoming software update](https://arstechnica.com/gadgets/2025/10/samsung-makes-ads-on-3499-smart-fridges-official-with-upcoming-software-update/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

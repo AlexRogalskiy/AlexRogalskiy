@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Hurricane Melissa live: Jamaicans take shelter as slow-moving category 5 storm increases in intensity](https://www.theguardian.com/world/live/2025/oct/27/hurricane-melissa-jamaica-cuba-caribbean-haiti-dominican-republic-live-news-latest-updates)
-- [Trump and Xi talks: what will be on the agenda when US president meets China’s leader?](https://www.theguardian.com/us-news/2025/oct/28/trump-and-xi-talks-what-will-be-on-the-agenda-when-us-president-meets-chinas-leader)
-- [Trump news at a glance: president floats a third term as Democrats vow ‘no way in hell’](https://www.theguardian.com/us-news/2025/oct/27/trump-news-at-a-glance-president-floats-a-third-term-as-democrats-vow-no-way-in-hell)
-- [India’s Shreyas Iyer recovering in hospital from lacerated spleen horror injury](https://www.theguardian.com/sport/2025/oct/28/indias-shreyas-iyer-recovering-in-hospital-from-horror-injury-resulting-in-lacerated-spleen)
-- [All schools in England with removal grants to be Raac-free by 2029, says Phillipson](https://www.theguardian.com/uk-news/2025/oct/28/all-schools-in-england-with-removal-grants-to-be-raac-free-by-2029-says-phillipson)
-- [Shrinkflation hits everyday staples, piling more pressure on households](https://www.theguardian.com/business/2025/oct/28/shrinkflation-hits-everyday-staples-piling-more-pressure-on-households)
-- [Organised crime making millions from illegal waste dumping in UK, says committee](https://www.theguardian.com/environment/2025/oct/28/organised-making-millions-from-waste-dumping-in-uk-says-committee)
-- [‘Change course now’: humanity has missed 1.5C climate target, says UN head](https://www.theguardian.com/environment/2025/oct/28/change-course-now-humanity-has-missed-15c-climate-target-says-un-head)
-- [Picture of health: going to art galleries can improve wellbeing, study reveals](https://www.theguardian.com/society/2025/oct/28/picture-of-health-going-to-art-galleries-can-improve-wellbeing-study-reveals)
-- [Lammy tells Labour to learn from Caerphilly defeat as party seeks reset](https://www.theguardian.com/politics/2025/oct/27/lammy-tells-labour-to-learn-from-caerphilly-defeat-as-party-seeks-reset)
+- [Hurricane Melissa latest updates: extensive damage reported in Jamaica’s St Elizabeth parish; Cuba braces for landfall](https://www.theguardian.com/world/live/2025/oct/28/hurricane-melissa-live-updates-category-5-storm-jamaica-landfall-latest-news)
+- [New Zealand v England: second men’s cricket one-day international – live](https://www.theguardian.com/sport/live/2025/oct/29/new-zealand-v-england-second-cricket-one-day-international-live)
+- [Tanzanian president poised to retain power as rivals barred from election](https://www.theguardian.com/world/2025/oct/29/tanzania-election-president-samia-suluhu-hassan-poised-to-retain-power)
+- [Israel strikes Gaza after Netanyahu accuses Hamas of breaching ceasefire](https://www.theguardian.com/world/2025/oct/28/returned-body-parts-were-of-hostage-recovered-two-years-ago-israel-says)
+- [Ukraine war briefing: Moscow under drone siege for third night running](https://www.theguardian.com/world/2025/oct/29/ukraine-war-briefing-moscow-under-drone-siege-for-third-night-running)
+- [Trump heads to South Korea amid deadlocked trade talks over $350bn deal on tariffs](https://www.theguardian.com/world/2025/oct/29/trump-heads-to-south-korea-amid-deadlocked-trade-talks-over-350bn-deal-on-tariffs)
+- [Wole Soyinka, Nigerian Nobel laureate and Trump critic, says US visa revoked](https://www.theguardian.com/books/2025/oct/28/wole-soyinka-nobel-us-visa-trump)
+- [Indonesia’s new capital, Nusantara, in danger of becoming a ‘ghost city’](https://www.theguardian.com/world/2025/oct/29/indonesia-new-capital-city-nusantara)
+- [Rising heat kills one person a minute worldwide, major report reveals](https://www.theguardian.com/environment/2025/oct/29/rising-heat-kills-one-person-a-minute-worldwide-lancet-countdown)
+- [BBC journalist barred from leaving Vietnam and repeatedly interrogated](https://www.theguardian.com/world/2025/oct/29/bbc-journalist-barred-from-leaving-vietnam-and-repeatedly-interrogated)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

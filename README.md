@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Comprehensive Review of the Palm Vein Unlocking Technology](https://www.eufy.com/blogs/smart-lock/palm-vein-unlocking-technology)
-- [Grokipedia.com version 0.1 is now live](https://twitter.com/elonmusk/status/1982983035906842651)
-- [Is the Chegg layoff a harbinger for education?](https://substack.com/inbox/post/177333088)
-- [Alex Thatch is the 2nd to do a &quot;Tetris Rebirth&quot; &lpar;go beyond lvl 255&rpar;](https://www.youtube.com/clip/UgkxDHwmgM8ifzT26zpPHMHvK0W868BvW4gd)
-- [Justcopy.ai – Copy and Customize Digital Tools in Minutes](https://blog.justcopy.ai/p/dont-build-from-scratch-just-copy)
-- [Building a Coding Agent in Rust – Introduction](https://www.youtube.com/watch?v=tQJTuYkZ4u8)
-- [Drivers who do 10k miles a year &#39;face new £1,500 charge&#39;](https://www.birminghammail.co.uk/motoring/motoring-news/drivers-who-10000-miles-year-32727647)
-- [Are You Ready?](https://jeffreylminch.substack.com/p/are-you-ready)
-- [Elon Musk launches a Wikipedia rival that extols his own &#39;vision&#39;](https://www.washingtonpost.com/technology/2025/10/27/grokipedia-wikipedia-musk-/)
-- [VibePointer – ML based human-like cursor mover](https://github.com/Nothflare/VibePointer)
+- [Farming Under Solar Panels](https://www.bbc.com/news/articles/c2en1yyp4d9o)
+- [Using JavaScript in Debusine without depending on JavaScript](https://www.freexian.com/blog/debusine-and-javascript/)
+- [US Air Force video shows the eye of Hurricane Melissa [video]](https://www.youtube.com/watch?v=O_LIuonLTiQ)
+- [Llm.exe -R -v low -e minimal, how I code with language models](https://www.youtube.com/watch?v=Xq2Gx8iU8I8)
+- [Pixelfox AI – Free AI Edit photos/video online free](https://pixelfox.ai/)
+- [US Senate passes bill with Republican support to rescind Trump&#39;s Brazil tariffs](https://www.theguardian.com/us-news/2025/oct/28/us-senate-trump-tariffs-brazil)
+- [Open AI Restructures as a For-Profit](https://www.nytimes.com/2025/10/28/technology/openai-restructure-for-profit-company.html)
+- [Innovation Without Boundaries: The HyperFlow AI Vision](https://hyperflow-ai.com/)
+- [Mindustry: Open-source sandbox tower-defense game](https://mindustrygame.github.io/)
+- [Cursor Cofounder Leaves](https://arvid.xyz/posts/leaving/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

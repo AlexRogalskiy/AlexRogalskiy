@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Project Shadowglass](https://shadowglassgame.com)
-- [Database backups, dump files and restic](https://strugglers.net/posts/2025/database-backups-dump-files-and-restic/)
-- [Keeping the Internet fast and secure: introducing Merkle Tree Certificates](https://blog.cloudflare.com/bootstrap-mtc/)
-- [Tor Browser 15.0](https://blog.torproject.org/new-release-tor-browser-150/)
-- [Tinkering is a way to acquire good taste](https://seated.ro/blog/tinkering-a-lost-art)
-- [Generative AI Image Editing Showdown](https://genai-showdown.specr.net/image-editing)
-- [Boring is what we wanted](https://512pixels.net/2025/10/boring-is-what-we-wanted/)
-- [Show HN: Butter – A Behavior Cache for LLMs](https://www.butter.dev/)
-- [Why do some radio towers blink?](https://www.jeffgeerling.com/blog/2025/why-do-some-radio-towers-blink)
-- [Samsung makes ads on smart fridges official with upcoming software update](https://arstechnica.com/gadgets/2025/10/samsung-makes-ads-on-3499-smart-fridges-official-with-upcoming-software-update/)
+- [IRCd service written in awk](https://example.fi/blog/ircd.html)
+- [OS/2 Warp, PowerPC Edition](https://www.os2museum.com/wp/os2-history/os2-warp-powerpc-edition/)
+- [Crunchyroll is destroying its subtitles](https://daiz.moe/crunchyroll-is-destroying-its-subtitles-for-no-good-reason/)
+- [Raspberry Pi Pico Bit-Bangs 100 Mbit/S Ethernet](https://www.elektormagazine.com/news/rp2350-bit-bangs-100-mbit-ethernet)
+- [A century of reforestation helped keep the eastern US cool](https://news.agu.org/press-release/a-century-of-reforestation-helped-keep-the-eastern-us-cool/)
+- [Meta and TikTok are obstructing researchers&#39; access to data, EU commission rules](https://www.science.org/content/article/meta-and-tiktok-are-obstructing-researchers-access-data-european-commission-rules)
+- [Responses from LLMs are not facts](https://stopcitingai.com/)
+- [How the U.S. National Science Foundation Enabled Software-Defined Networking](https://cacm.acm.org/federal-funding-of-academic-research/how-the-u-s-national-science-foundation-enabled-software-defined-networking/)
+- [How to Obsessively Tune WezTerm](https://rashil2000.me/blogs/tune-wezterm)
+- [Uv is the best thing to happen to the Python ecosystem in a decade](https://emily.space/posts/251023-uv)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

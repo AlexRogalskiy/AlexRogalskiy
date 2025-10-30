@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Farming Under Solar Panels](https://www.bbc.com/news/articles/c2en1yyp4d9o)
-- [Using JavaScript in Debusine without depending on JavaScript](https://www.freexian.com/blog/debusine-and-javascript/)
-- [US Air Force video shows the eye of Hurricane Melissa [video]](https://www.youtube.com/watch?v=O_LIuonLTiQ)
-- [Llm.exe -R -v low -e minimal, how I code with language models](https://www.youtube.com/watch?v=Xq2Gx8iU8I8)
-- [Pixelfox AI – Free AI Edit photos/video online free](https://pixelfox.ai/)
-- [US Senate passes bill with Republican support to rescind Trump&#39;s Brazil tariffs](https://www.theguardian.com/us-news/2025/oct/28/us-senate-trump-tariffs-brazil)
-- [Open AI Restructures as a For-Profit](https://www.nytimes.com/2025/10/28/technology/openai-restructure-for-profit-company.html)
-- [Innovation Without Boundaries: The HyperFlow AI Vision](https://hyperflow-ai.com/)
-- [Mindustry: Open-source sandbox tower-defense game](https://mindustrygame.github.io/)
-- [Cursor Cofounder Leaves](https://arvid.xyz/posts/leaving/)
+- [Upply – AI that auto-fills any online form](https://goapply.today/)
+- [Solving the Character Encoding Issue When Reading DuckDB via ODBC in Excel VBA](https://redraiment.medium.com/solving-the-character-encoding-issue-when-reading-duckdb-via-odbc-in-excel-vba-68fbaffb299d)
+- [Show HN: Claim-Detective – Verify Suspicious Tech Claims Collaboratively](https://www.claim-detective.com/)
+- [Trump asks Pentagon to resume testing US nuclear weapons](https://www.reuters.com/world/china/trump-asks-pentagon-immediately-start-testing-us-nuclear-weapons-2025-10-30/)
+- [One Year with Next.js App Router – Why We&#39;re Moving On](https://paperclover.net/blog/webdev/one-year-next-app-router)
+- [Found a clean subnet cheatsheet website](https://subnetmaskcheatsheet.com)
+- [Data centers turn to commercial aircraft jet engines as AI power crunch bites](https://www.tomshardware.com/tech-industry/data-centers-turn-to-ex-airliner-engines-as-ai-power-crunch-bites)
+- [Top researchers consider leaving US amid funding cuts:Science world is ending [video]](https://www.youtube.com/watch?v=yLvO070E_dI)
+- [Use the XDG Base Directory Specification](https://xdgbasedirectoryspecification.com/)
+- [GitHub MCP Server now with server instructions, better tools, and more](https://github.blog/changelog/2025-10-29-github-mcp-server-now-comes-with-server-instructions-better-tools-and-more/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

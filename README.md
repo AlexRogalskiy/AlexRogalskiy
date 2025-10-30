@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Hurricane Melissa latest updates: extensive damage reported in Jamaica’s St Elizabeth parish; Cuba braces for landfall](https://www.theguardian.com/world/live/2025/oct/28/hurricane-melissa-live-updates-category-5-storm-jamaica-landfall-latest-news)
-- [New Zealand v England: second men’s cricket one-day international – live](https://www.theguardian.com/sport/live/2025/oct/29/new-zealand-v-england-second-cricket-one-day-international-live)
-- [Tanzanian president poised to retain power as rivals barred from election](https://www.theguardian.com/world/2025/oct/29/tanzania-election-president-samia-suluhu-hassan-poised-to-retain-power)
-- [Israel strikes Gaza after Netanyahu accuses Hamas of breaching ceasefire](https://www.theguardian.com/world/2025/oct/28/returned-body-parts-were-of-hostage-recovered-two-years-ago-israel-says)
-- [Ukraine war briefing: Moscow under drone siege for third night running](https://www.theguardian.com/world/2025/oct/29/ukraine-war-briefing-moscow-under-drone-siege-for-third-night-running)
-- [Trump heads to South Korea amid deadlocked trade talks over $350bn deal on tariffs](https://www.theguardian.com/world/2025/oct/29/trump-heads-to-south-korea-amid-deadlocked-trade-talks-over-350bn-deal-on-tariffs)
-- [Wole Soyinka, Nigerian Nobel laureate and Trump critic, says US visa revoked](https://www.theguardian.com/books/2025/oct/28/wole-soyinka-nobel-us-visa-trump)
-- [Indonesia’s new capital, Nusantara, in danger of becoming a ‘ghost city’](https://www.theguardian.com/world/2025/oct/29/indonesia-new-capital-city-nusantara)
-- [Rising heat kills one person a minute worldwide, major report reveals](https://www.theguardian.com/environment/2025/oct/29/rising-heat-kills-one-person-a-minute-worldwide-lancet-countdown)
-- [BBC journalist barred from leaving Vietnam and repeatedly interrogated](https://www.theguardian.com/world/2025/oct/29/bbc-journalist-barred-from-leaving-vietnam-and-repeatedly-interrogated)
+- [Donald Trump and Xi Jinping hold meeting in South Korea amid hopes for trade deal – live updates](https://www.theguardian.com/world/live/2025/oct/30/donald-trump-xi-jinping-meeting-live-updates)
+- [Trump directs Pentagon to ‘immediately’ start testing US nuclear weapons](https://www.theguardian.com/us-news/2025/oct/29/trump-pentagon-us-nuclear-weapons)
+- [Hurricane Melissa hits Cuba after turning Jamaica into ‘disaster area’](https://www.theguardian.com/world/2025/oct/29/hurricane-melissa-hits-cuba-after-turning-jamaica-into-disaster-area)
+- [Trump gives South Korea permission to build nuclear-powered submarine](https://www.theguardian.com/world/2025/oct/30/trump-gives-south-korea-permission-to-build-nuclear-powered-submarine)
+- [The Line of Beauty review – Hollinghurst’s Gatsby-esque social satire is a class act](https://www.theguardian.com/stage/2025/oct/30/the-line-of-beauty-review-almeida-theatre-alan-hollinghurst-jack-holden)
+- [Experts consider ‘targeted’ prostate cancer screening to reduce UK deaths](https://www.theguardian.com/society/2025/oct/30/experts-consider-targeted-prostate-cancer-screening-to-reduce-uk-deaths)
+- [Teenage boys using ‘personalised’ AI for therapy and romance, survey finds](https://www.theguardian.com/technology/2025/oct/30/teenage-boys-using-personalised-ai-for-therapy-and-romance-survey-finds)
+- [Microsoft reports strong earnings as Azure hit by major outage](https://www.theguardian.com/technology/2025/oct/29/microsoft-earnings-azure-outage-xbox)
+- [Rachel Reeves admits breaking rules by renting out her house without a licence](https://www.theguardian.com/politics/2025/oct/29/rachel-reeves-admits-breaking-rules-by-renting-out-her-house-without-a-licence)
+- [Nothing used to be off-limits when talking about sex. Now I’m in a long-term relationship, why is it taboo? | Natasha Sholl](https://www.theguardian.com/commentisfree/2025/oct/30/sex-life-marriage-long-term-relationship-taboo)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

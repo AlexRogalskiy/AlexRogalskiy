@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Upply – AI that auto-fills any online form](https://goapply.today/)
-- [Solving the Character Encoding Issue When Reading DuckDB via ODBC in Excel VBA](https://redraiment.medium.com/solving-the-character-encoding-issue-when-reading-duckdb-via-odbc-in-excel-vba-68fbaffb299d)
-- [Show HN: Claim-Detective – Verify Suspicious Tech Claims Collaboratively](https://www.claim-detective.com/)
-- [Trump asks Pentagon to resume testing US nuclear weapons](https://www.reuters.com/world/china/trump-asks-pentagon-immediately-start-testing-us-nuclear-weapons-2025-10-30/)
-- [One Year with Next.js App Router – Why We&#39;re Moving On](https://paperclover.net/blog/webdev/one-year-next-app-router)
-- [Found a clean subnet cheatsheet website](https://subnetmaskcheatsheet.com)
-- [Data centers turn to commercial aircraft jet engines as AI power crunch bites](https://www.tomshardware.com/tech-industry/data-centers-turn-to-ex-airliner-engines-as-ai-power-crunch-bites)
-- [Top researchers consider leaving US amid funding cuts:Science world is ending [video]](https://www.youtube.com/watch?v=yLvO070E_dI)
-- [Use the XDG Base Directory Specification](https://xdgbasedirectoryspecification.com/)
-- [GitHub MCP Server now with server instructions, better tools, and more](https://github.blog/changelog/2025-10-29-github-mcp-server-now-comes-with-server-instructions-better-tools-and-more/)
+- [Tests show highest levels of PFAS in those living near New Mexico plume](https://abcnews.go.com/Health/wireStory/blood-tests-show-highest-levels-forever-chemicals-living-126838680)
+- [Kimi Releases Kimi-CLI, an Open-Source Python Command-Line Tool](https://github.com/MoonshotAI/kimi-cli)
+- [Ground delay at Orlando International Airport due to ATC staffing](https://www.clickorlando.com/news/local/2025/10/30/ground-delay-at-orlando-international-airport-due-to-air-traffic-controller-staffing/)
+- [Peter Thiel-Backed Startup Secures $100M to Make Chips in U.S.](https://www.wsj.com/tech/peter-thiel-backed-startup-secures-100-million-to-make-chips-in-u-s-baff93ac)
+- [Show HN: Hot or Slop – Visual Turing test on how well humans detect AI images](https://hotorslop.com/)
+- [We built an AI Rap Generator – looking for product/UX feedback](https://airapgenerator.io/)
+- [Scientists may have found a panacea for snake bites](https://www.economist.com/science-and-technology/2025/10/29/scientists-may-have-found-a-panacea-for-snake-bites)
+- [Sculpt Operating System 25.10](https://genode.org/documentation/articles/sculpt-25-10)
+- [Coconut on the Road: Coconut coincidences](https://www.guampdn.com/lifestyle/coconut-on-the-road-coconut-coincidences/article_e54df0af-fd6a-4f33-b346-58f22da9ea7c.html)
+- [The Smol Training Playbook: The Secrets to Building World-Class LLMs](https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

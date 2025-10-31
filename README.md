@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Donald Trump and Xi Jinping hold meeting in South Korea amid hopes for trade deal – live updates](https://www.theguardian.com/world/live/2025/oct/30/donald-trump-xi-jinping-meeting-live-updates)
-- [Trump directs Pentagon to ‘immediately’ start testing US nuclear weapons](https://www.theguardian.com/us-news/2025/oct/29/trump-pentagon-us-nuclear-weapons)
-- [Hurricane Melissa hits Cuba after turning Jamaica into ‘disaster area’](https://www.theguardian.com/world/2025/oct/29/hurricane-melissa-hits-cuba-after-turning-jamaica-into-disaster-area)
-- [Trump gives South Korea permission to build nuclear-powered submarine](https://www.theguardian.com/world/2025/oct/30/trump-gives-south-korea-permission-to-build-nuclear-powered-submarine)
-- [The Line of Beauty review – Hollinghurst’s Gatsby-esque social satire is a class act](https://www.theguardian.com/stage/2025/oct/30/the-line-of-beauty-review-almeida-theatre-alan-hollinghurst-jack-holden)
-- [Experts consider ‘targeted’ prostate cancer screening to reduce UK deaths](https://www.theguardian.com/society/2025/oct/30/experts-consider-targeted-prostate-cancer-screening-to-reduce-uk-deaths)
-- [Teenage boys using ‘personalised’ AI for therapy and romance, survey finds](https://www.theguardian.com/technology/2025/oct/30/teenage-boys-using-personalised-ai-for-therapy-and-romance-survey-finds)
-- [Microsoft reports strong earnings as Azure hit by major outage](https://www.theguardian.com/technology/2025/oct/29/microsoft-earnings-azure-outage-xbox)
-- [Rachel Reeves admits breaking rules by renting out her house without a licence](https://www.theguardian.com/politics/2025/oct/29/rachel-reeves-admits-breaking-rules-by-renting-out-her-house-without-a-licence)
-- [Nothing used to be off-limits when talking about sex. Now I’m in a long-term relationship, why is it taboo? | Natasha Sholl](https://www.theguardian.com/commentisfree/2025/oct/30/sex-life-marriage-long-term-relationship-taboo)
+- [Ukraine war briefing: British ex-soldier arrested in Kyiv and accused of spying for Russia](https://www.theguardian.com/world/2025/oct/31/ukraine-war-briefing-british-ex-soldier-arrested-in-kyiv-and-accused-of-spying-for-russia)
+- [Hurricane Melissa heads to Bermuda as relief efforts intensify in Jamaica](https://www.theguardian.com/world/2025/oct/30/hurricane-melissa-bermuda-leaving-devastation-jamaica)
+- [Nearly 150,000 aged 90 and above wait 12 hours in England’s A&amp;Es each year](https://www.theguardian.com/society/2025/oct/31/nearly-150000-aged-90-and-above-wait-12-hours-england)
+- [Florence + the Machine: Everybody Scream review – alt-rock survivor surveys her kingdom with swagger](https://www.theguardian.com/music/2025/oct/31/florence-the-machine-everybody-scream-review-harmonious-mix-theatrics-tranquility)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2025/oct/31/premier-league-10-things-to-look-out-for-this-weekend)
+- [Lettings agency takes blame in Rachel Reeves licence row](https://www.theguardian.com/politics/2025/oct/30/rachel-reeves-row-standards-adviser-looking-at-new-infomation)
+- [Paint me cool: scientists reveal roof coating that can reduce surface temperatures up to 6C on hot days](https://www.theguardian.com/environment/2025/oct/31/scientists-invent-roof-coating-reduce-indoor-temperatures-hot-days)
+- [Hamas hands over bodies of two Israeli hostages amid fragile Gaza truce](https://www.theguardian.com/world/2025/oct/30/hamas-hands-over-bodies-of-two-israeli-hostages-amid-fragile-gaza-truce)
+- [Trump ally Stephen Miller at heart of FBI agent purge, new book reveals](https://www.theguardian.com/us-news/2025/oct/30/stephen-miller-trump-fbi-agents-injustice)
+- [Prince Andrew to be stripped of titles and forced to leave Windsor home](https://www.theguardian.com/uk-news/2025/oct/30/prince-andrew-leave-royal-lodge-windsor)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

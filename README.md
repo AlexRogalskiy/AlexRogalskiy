@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine war briefing: British ex-soldier arrested in Kyiv and accused of spying for Russia](https://www.theguardian.com/world/2025/oct/31/ukraine-war-briefing-british-ex-soldier-arrested-in-kyiv-and-accused-of-spying-for-russia)
-- [Hurricane Melissa heads to Bermuda as relief efforts intensify in Jamaica](https://www.theguardian.com/world/2025/oct/30/hurricane-melissa-bermuda-leaving-devastation-jamaica)
-- [Nearly 150,000 aged 90 and above wait 12 hours in England’s A&amp;Es each year](https://www.theguardian.com/society/2025/oct/31/nearly-150000-aged-90-and-above-wait-12-hours-england)
-- [Florence + the Machine: Everybody Scream review – alt-rock survivor surveys her kingdom with swagger](https://www.theguardian.com/music/2025/oct/31/florence-the-machine-everybody-scream-review-harmonious-mix-theatrics-tranquility)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2025/oct/31/premier-league-10-things-to-look-out-for-this-weekend)
-- [Lettings agency takes blame in Rachel Reeves licence row](https://www.theguardian.com/politics/2025/oct/30/rachel-reeves-row-standards-adviser-looking-at-new-infomation)
-- [Paint me cool: scientists reveal roof coating that can reduce surface temperatures up to 6C on hot days](https://www.theguardian.com/environment/2025/oct/31/scientists-invent-roof-coating-reduce-indoor-temperatures-hot-days)
-- [Hamas hands over bodies of two Israeli hostages amid fragile Gaza truce](https://www.theguardian.com/world/2025/oct/30/hamas-hands-over-bodies-of-two-israeli-hostages-amid-fragile-gaza-truce)
-- [Trump ally Stephen Miller at heart of FBI agent purge, new book reveals](https://www.theguardian.com/us-news/2025/oct/30/stephen-miller-trump-fbi-agents-injustice)
-- [Prince Andrew to be stripped of titles and forced to leave Windsor home](https://www.theguardian.com/uk-news/2025/oct/30/prince-andrew-leave-royal-lodge-windsor)
+- [World Series Game 6: Los Angeles Dodgers v Toronto Blue Jays – live updates](https://www.theguardian.com/sport/live/2025/oct/31/world-series-game-6-los-angeles-dodgers-v-toronto-blue-jays-live-buildup)
+- [New Zealand v England: third men’s cricket one-day international – live](https://www.theguardian.com/sport/live/2025/nov/01/new-zealand-v-england-third-mens-cricket-one-day-international-live)
+- [Ukraine war briefing: Russian attacks on substations are ‘nuclear terrorism’, says Ukraine](https://www.theguardian.com/world/2025/nov/01/ukraine-war-briefing-russian-attacks-on-substations-are-nuclear-terrorism-says-ukraine)
+- [Trump news at a glance: Friday rulings hamper administration on food stamps, voting access](https://www.theguardian.com/us-news/2025/oct/31/trump-administration-news-updates-today)
+- [Breeders’ Cup 2025 horse racing: day one – as it happened](https://www.theguardian.com/sport/live/2025/oct/31/breeders-cup-2025-horse-racing-day-one-live)
+- [Andrew in line for six-figure payout and annual stipend from king, sources say](https://www.theguardian.com/uk-news/2025/oct/31/andrew-in-line-for-six-figure-payment-and-annual-stipend-from-king-sources-say)
+- [Arsenal oppose Crystal Palace’s ‘unfair’ request to play Carabao Cup tie on 23 December](https://www.theguardian.com/football/2025/oct/31/arsenal-oppose-crystal-palaces-unfair-request-to-play-carabao-cup-tie-on-23-december)
+- [Liverpool will not change attacking style despite recent slump, says Slot](https://www.theguardian.com/football/2025/oct/31/arne-slot-liverpool-aston-villa-premier-league)
+- [Ruben Amorim admits Europa League final defeat made him fear for his job](https://www.theguardian.com/football/2025/oct/31/ruben-amorim-europa-league-final-defeat-made-him-fear-for-his-job-manchester-united)
+- [Kieffer Moore hat-trick brings Coventry’s unbeaten run to an end at Wrexham](https://www.theguardian.com/football/2025/oct/31/wrexham-coventry-championship-match-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

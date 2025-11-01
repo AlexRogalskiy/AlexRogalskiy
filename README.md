@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Tests show highest levels of PFAS in those living near New Mexico plume](https://abcnews.go.com/Health/wireStory/blood-tests-show-highest-levels-forever-chemicals-living-126838680)
-- [Kimi Releases Kimi-CLI, an Open-Source Python Command-Line Tool](https://github.com/MoonshotAI/kimi-cli)
-- [Ground delay at Orlando International Airport due to ATC staffing](https://www.clickorlando.com/news/local/2025/10/30/ground-delay-at-orlando-international-airport-due-to-air-traffic-controller-staffing/)
-- [Peter Thiel-Backed Startup Secures $100M to Make Chips in U.S.](https://www.wsj.com/tech/peter-thiel-backed-startup-secures-100-million-to-make-chips-in-u-s-baff93ac)
-- [Show HN: Hot or Slop – Visual Turing test on how well humans detect AI images](https://hotorslop.com/)
-- [We built an AI Rap Generator – looking for product/UX feedback](https://airapgenerator.io/)
-- [Scientists may have found a panacea for snake bites](https://www.economist.com/science-and-technology/2025/10/29/scientists-may-have-found-a-panacea-for-snake-bites)
-- [Sculpt Operating System 25.10](https://genode.org/documentation/articles/sculpt-25-10)
-- [Coconut on the Road: Coconut coincidences](https://www.guampdn.com/lifestyle/coconut-on-the-road-coconut-coincidences/article_e54df0af-fd6a-4f33-b346-58f22da9ea7c.html)
-- [The Smol Training Playbook: The Secrets to Building World-Class LLMs](https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook)
+- [Possible Enhanced Meteor Impact Risk in 2032 and 2036 from Taurid Asteroids](https://www.sciencedirect.com/science/article/pii/S0094576525006460)
+- [Jerusalem Syndrome](https://en.wikipedia.org/wiki/Jerusalem_syndrome)
+- [Show HN: ZigNet: How I Built an MCP Server for Zig in 1.5 Days](https://fulgidus.github.io/posts/zignet/)
+- [Show HN: Anime Eternal – Your Hub for Roblox&#39;s Anime-Themed Gaming Guides](https://animeeternal.net/)
+- [A React-based Ratings and Reviews SaaS with customizable forms and dashboard](https://www.rovza.shop)
+- [Turning Desert Fog into Fresh Water Using 50k Volts [video]](https://www.youtube.com/watch?v=-wa2JEYl9jU)
+- [Why Mark Zuckerberg Is So Good at Bad Products – Merivya](https://merivya.com/2025/11/01/why-mark-zuckerberg-is-so-good-at-bad-products/)
+- [A.I. Is Making Death Threats More Realistic](https://www.nytimes.com/2025/10/31/business/media/artificial-intelligence-death-threats.html)
+- [NASA&#39;s Orion Space Capsule Is Flaming Garbage](https://caseyhandmer.wordpress.com/2025/10/31/nasas-orion-space-capsule-is-flaming-garbage/)
+- [Stochastic Computing](https://scottlocklin.wordpress.com/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

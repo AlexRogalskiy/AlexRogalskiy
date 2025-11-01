@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [John Carmack on Mutable Variables](https://twitter.com/id_aa_carmack/status/1983593511703474196)
-- [Ground stop at JFK due to staffing](https://www.fly.faa.gov/adv/adv_otherdis?advn=13&adv_date=10312025&facId=JFK&title=ATCSCC%20ADVZY%20013%20JFK/ZNY%2010/31/2025%20CDM%20GROUND%20STOP&titleDate=10/31/2025)
-- [Chromium Browser DoS Attack via Document.title Exploitation](https://github.com/jofpin/brash)
-- [ICE and the Smartphone Panopticon](https://www.newyorker.com/culture/infinite-scroll/ice-and-the-smartphone-panopticon)
-- [Roadmap for Improving the Type Checker](https://forums.swift.org/t/roadmap-for-improving-the-type-checker/82952)
-- [Show HN: Quibbler – A critic for your coding agent that learns what you want](https://github.com/fulcrumresearch/quibbler)
-- [Kimi Linear: An Expressive, Efficient Attention Architecture](https://github.com/MoonshotAI/Kimi-Linear)
-- [A change of address led to our Wise accounts being shut down](https://shaun.nz/why-were-never-using-wise-again-a-cautionary-tale-from-a-business-burned/)
-- [Phone numbers for use in TV shows, films and creative works](https://www.acma.gov.au/phone-numbers-use-tv-shows-films-and-creative-works)
-- [Denmark reportedly withdraws Chat Control proposal following controversy](https://therecord.media/demark-reportedly-withdraws-chat-control-proposal)
+- [Fungus: The Befunge CPU&lpar;2015&rpar;](https://www.bedroomlan.org/hardware/fungus/)
+- [&quot;Our research is greatly sped up by AI but AI still needs us&quot;](https://twitter.com/wtgowers/status/1984340182351634571)
+- [Show HN: Strange Attractors](https://blog.shashanktomar.com/posts/strange-attractors)
+- [Photographing the rare brown hyena stalking a diamond mining ghost town](https://www.bbc.com/future/article/20251014-the-rare-hyena-stalking-a-diamond-mining-ghost-town)
+- [S.A.R.C.A.S.M: Slightly Annoying Rubik&#39;s Cube Automatic Solving Machine](https://github.com/vindar/SARCASM)
+- [A theoretical way to circumvent Android developer verification](https://enaix.github.io/2025/10/30/developer-verification.html)
+- [Addiction Markets](https://www.thebignewsletter.com/p/addiction-markets-abolish-corporate)
+- [Use DuckDB-WASM to query TB of data in browser](https://lil.law.harvard.edu/blog/2025/10/24/rethinking-data-discovery-for-libraries-and-digital-humanities/)
+- [Pangolin &lpar;YC S25&rpar; is hiring a full stack software engineer &lpar;open-source&rpar;](https://docs.pangolin.net/careers/software-engineer-full-stack)
+- [Futurelock: A subtle risk in async Rust](https://rfd.shared.oxide.computer/rfd/0609)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

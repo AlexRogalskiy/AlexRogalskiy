@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [World Series Game 6: Los Angeles Dodgers v Toronto Blue Jays – live updates](https://www.theguardian.com/sport/live/2025/oct/31/world-series-game-6-los-angeles-dodgers-v-toronto-blue-jays-live-buildup)
-- [New Zealand v England: third men’s cricket one-day international – live](https://www.theguardian.com/sport/live/2025/nov/01/new-zealand-v-england-third-mens-cricket-one-day-international-live)
-- [Ukraine war briefing: Russian attacks on substations are ‘nuclear terrorism’, says Ukraine](https://www.theguardian.com/world/2025/nov/01/ukraine-war-briefing-russian-attacks-on-substations-are-nuclear-terrorism-says-ukraine)
-- [Trump news at a glance: Friday rulings hamper administration on food stamps, voting access](https://www.theguardian.com/us-news/2025/oct/31/trump-administration-news-updates-today)
-- [Breeders’ Cup 2025 horse racing: day one – as it happened](https://www.theguardian.com/sport/live/2025/oct/31/breeders-cup-2025-horse-racing-day-one-live)
-- [Andrew in line for six-figure payout and annual stipend from king, sources say](https://www.theguardian.com/uk-news/2025/oct/31/andrew-in-line-for-six-figure-payment-and-annual-stipend-from-king-sources-say)
-- [Arsenal oppose Crystal Palace’s ‘unfair’ request to play Carabao Cup tie on 23 December](https://www.theguardian.com/football/2025/oct/31/arsenal-oppose-crystal-palaces-unfair-request-to-play-carabao-cup-tie-on-23-december)
-- [Liverpool will not change attacking style despite recent slump, says Slot](https://www.theguardian.com/football/2025/oct/31/arne-slot-liverpool-aston-villa-premier-league)
-- [Ruben Amorim admits Europa League final defeat made him fear for his job](https://www.theguardian.com/football/2025/oct/31/ruben-amorim-europa-league-final-defeat-made-him-fear-for-his-job-manchester-united)
-- [Kieffer Moore hat-trick brings Coventry’s unbeaten run to an end at Wrexham](https://www.theguardian.com/football/2025/oct/31/wrexham-coventry-championship-match-report)
+- [World Series Game 7: Los Angeles Dodgers v Toronto Blue Jays – live](https://www.theguardian.com/sport/live/2025/nov/01/world-series-game-7-los-angeles-dodgers-v-toronto-blue-jays-live-updates)
+- [Ukraine war briefing: Ukraine says its troops still holding out in embattled Pokrovsk](https://www.theguardian.com/world/2025/nov/02/ukraine-war-briefing-ukraine-says-its-troops-still-holding-out-in-embattled-pokrovsk)
+- [Message in a bottle from first world war soldier found on remote Australian beach](https://www.theguardian.com/australia-news/2025/nov/02/message-in-bottle-first-world-war-soldier-found-australia-wharton-beach)
+- [Gezora wins Breeders’ Cup 2025 after Ethical Diamond’s triumph for Willie Mullins](https://www.theguardian.com/sport/live/2025/nov/01/breeders-cup-2025-day-two-live)
+- [As Barack Obama stumps for other Democrats, the party gets to see what it lost](https://www.theguardian.com/us-news/2025/nov/01/barack-obama-democratic-party)
+- [Sititi and Roigard seal New Zealand’s Chicago revenge win over Ireland](https://www.theguardian.com/sport/2025/nov/01/ireland-new-zealand-rugby-union-international-match-report)
+- [Girlbands Forever review – a thrillingly gobby slice of must-watch TV](https://www.theguardian.com/tv-and-radio/2025/nov/01/girlbands-forever-review-bbc-all-saints-sugababes-eternal)
+- [Salah and Gravenberch secure welcome win for Liverpool against Aston Villa](https://www.theguardian.com/football/2025/nov/01/liverpool-aston-villa-premier-league-match-report)
+- [Tottenham’s confused mess of a team exposed by Chelsea’s crash tackle king | Barney Ronay](https://www.theguardian.com/football/2025/nov/01/tottenhams-confused-mess-of-a-team-exposed-by-chelseas-crash-tackle-king)
+- [Trump threatens to go into Nigeria ‘guns-a-blazing’ over attacks on Christians](https://www.theguardian.com/us-news/2025/nov/01/trump-nigeria-christian-persecution)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

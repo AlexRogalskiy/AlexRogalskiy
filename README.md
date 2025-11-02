@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Fungus: The Befunge CPU&lpar;2015&rpar;](https://www.bedroomlan.org/hardware/fungus/)
-- [&quot;Our research is greatly sped up by AI but AI still needs us&quot;](https://twitter.com/wtgowers/status/1984340182351634571)
-- [Show HN: Strange Attractors](https://blog.shashanktomar.com/posts/strange-attractors)
-- [Photographing the rare brown hyena stalking a diamond mining ghost town](https://www.bbc.com/future/article/20251014-the-rare-hyena-stalking-a-diamond-mining-ghost-town)
-- [S.A.R.C.A.S.M: Slightly Annoying Rubik&#39;s Cube Automatic Solving Machine](https://github.com/vindar/SARCASM)
-- [A theoretical way to circumvent Android developer verification](https://enaix.github.io/2025/10/30/developer-verification.html)
-- [Addiction Markets](https://www.thebignewsletter.com/p/addiction-markets-abolish-corporate)
-- [Use DuckDB-WASM to query TB of data in browser](https://lil.law.harvard.edu/blog/2025/10/24/rethinking-data-discovery-for-libraries-and-digital-humanities/)
-- [Pangolin &lpar;YC S25&rpar; is hiring a full stack software engineer &lpar;open-source&rpar;](https://docs.pangolin.net/careers/software-engineer-full-stack)
-- [Futurelock: A subtle risk in async Rust](https://rfd.shared.oxide.computer/rfd/0609)
+- [A Few Words About Async](https://yoric.github.io/post/quite-a-few-words-about-async/)
+- [Anonymous credentials: rate-limit bots and agents without compromising privacy](https://blog.cloudflare.com/private-rate-limiting/)
+- [Why &quot;everyone dies&quot; gets AGI all wrong](https://bengoertzel.substack.com/p/why-everyone-dies-gets-agi-all-wrong)
+- [How I use every Claude Code feature](https://blog.sshh.io/p/how-i-use-every-claude-code-feature)
+- [Show HN: Duper – The Format That&#39;s Super](https://duper.dev.br/)
+- [Pomelli](https://blog.google/technology/google-labs/pomelli/)
+- [Show HN: KeyLeak Detector – Scan websites for exposed API keys and secrets](https://github.com/Amal-David/keyleak-detector)
+- [OpenDesk by the Centre for Digital Sovereignty](https://www.opendesk.eu/en/product)
+- [Visopsys: OS maintained by a single developer since 1997](https://visopsys.org/)
+- [SailfishOS: A Linux-based European alternative to dominant mobile OSes](https://sailfishos.org/info/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

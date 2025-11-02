@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Possible Enhanced Meteor Impact Risk in 2032 and 2036 from Taurid Asteroids](https://www.sciencedirect.com/science/article/pii/S0094576525006460)
-- [Jerusalem Syndrome](https://en.wikipedia.org/wiki/Jerusalem_syndrome)
-- [Show HN: ZigNet: How I Built an MCP Server for Zig in 1.5 Days](https://fulgidus.github.io/posts/zignet/)
-- [Show HN: Anime Eternal – Your Hub for Roblox&#39;s Anime-Themed Gaming Guides](https://animeeternal.net/)
-- [A React-based Ratings and Reviews SaaS with customizable forms and dashboard](https://www.rovza.shop)
-- [Turning Desert Fog into Fresh Water Using 50k Volts [video]](https://www.youtube.com/watch?v=-wa2JEYl9jU)
-- [Why Mark Zuckerberg Is So Good at Bad Products – Merivya](https://merivya.com/2025/11/01/why-mark-zuckerberg-is-so-good-at-bad-products/)
-- [A.I. Is Making Death Threats More Realistic](https://www.nytimes.com/2025/10/31/business/media/artificial-intelligence-death-threats.html)
-- [NASA&#39;s Orion Space Capsule Is Flaming Garbage](https://caseyhandmer.wordpress.com/2025/10/31/nasas-orion-space-capsule-is-flaming-garbage/)
-- [Stochastic Computing](https://scottlocklin.wordpress.com/)
+- [Crossfire: High-performance lockless spsc/mpsc/mpmc channels for Rust](https://github.com/frostyplanet/crossfire-rs)
+- [Nine people with life-threatening injuries after mass stabbing on train in UK](https://www.bbc.com/news/live/cm2zvjx1z14t)
+- [Ask HN: is this a common LLM-assisted development workflow?](https://news.ycombinator.com/item?id=45787509)
+- [SNAP benefits cut off during shutdown, driving long lines at food pantries](https://apnews.com/article/government-shutdown-food-lines-snap-6b55e2c21c0198f3309f3a45a55f33b6)
+- [Where the Nexperia auto chip crisis stands now](https://www.cnbc.com/2025/11/01/where-the-nexperia-auto-chip-crisis-stands-now.html)
+- [Writing an Asciidoc Parser in Rust: Asciidocr](https://www.bikesbooksandbullshit.com/bullshit/2025/01/08/writing-an-asciidoc-parser-in-rust.html)
+- [Show HN: Amped – The missing account switcher for Amp](https://github.com/slashtechno/amped)
+- [Product-Market Fit and Go-to-Market post that growth teams should read](https://foundcy-product-market-fit.carrd.co)
+- [Quantum Vibrometer](https://quantumfuse.org)
+- [Becoming the Internet: Weighing the Options](https://blog.bsprague.com/becoming-the-internet-1/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

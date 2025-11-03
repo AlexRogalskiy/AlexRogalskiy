@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Crossfire: High-performance lockless spsc/mpsc/mpmc channels for Rust](https://github.com/frostyplanet/crossfire-rs)
-- [Nine people with life-threatening injuries after mass stabbing on train in UK](https://www.bbc.com/news/live/cm2zvjx1z14t)
-- [Ask HN: is this a common LLM-assisted development workflow?](https://news.ycombinator.com/item?id=45787509)
-- [SNAP benefits cut off during shutdown, driving long lines at food pantries](https://apnews.com/article/government-shutdown-food-lines-snap-6b55e2c21c0198f3309f3a45a55f33b6)
-- [Where the Nexperia auto chip crisis stands now](https://www.cnbc.com/2025/11/01/where-the-nexperia-auto-chip-crisis-stands-now.html)
-- [Writing an Asciidoc Parser in Rust: Asciidocr](https://www.bikesbooksandbullshit.com/bullshit/2025/01/08/writing-an-asciidoc-parser-in-rust.html)
-- [Show HN: Amped – The missing account switcher for Amp](https://github.com/slashtechno/amped)
-- [Product-Market Fit and Go-to-Market post that growth teams should read](https://foundcy-product-market-fit.carrd.co)
-- [Quantum Vibrometer](https://quantumfuse.org)
-- [Becoming the Internet: Weighing the Options](https://blog.bsprague.com/becoming-the-internet-1/)
+- [Lord Nikon&#39;s Laptop](https://hackaday.com/2019/10/15/recreating-lord-nikons-laptop-from-hackers/)
+- [Braid groups connection with catalan numbers [pdf]](https://aimath.org/WWN/braidgroups/braidgroups.pdf)
+- [Show HN: PyTogether, open-source lightweight real-time Python IDE for teachers](https://pytogether.org/)
+- [The Bible in the chaldean language [pdf]](https://www.scriptureearth.org/data/cld/PDF/00-WNTcldS-web.pdf)
+- [NetLogo – Environment for agent-based modeling](https://www.netlogo.org/)
+- [Control Structures in Programming Languages](http://xavierleroy.org/control-structures/)
+- [Anchors don&#39;t work the way you think [video]](https://www.youtube.com/watch?v=FLvgeeJYAVQ)
+- [The Great Decoupling of Labor and Capital](https://www.mbi-deepdives.com/the-great-decoupling-of-labor-and-capital/)
+- [Inside Multi-Platform Docker Builds with QEMU](https://cefboud.com/posts/qemu-virtualzation-docker-multi-build/)
+- [I built my own non-subscription Lovart – design0.ai](https://design0.ai)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

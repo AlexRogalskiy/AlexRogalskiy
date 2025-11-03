@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [A Few Words About Async](https://yoric.github.io/post/quite-a-few-words-about-async/)
-- [Anonymous credentials: rate-limit bots and agents without compromising privacy](https://blog.cloudflare.com/private-rate-limiting/)
-- [Why &quot;everyone dies&quot; gets AGI all wrong](https://bengoertzel.substack.com/p/why-everyone-dies-gets-agi-all-wrong)
-- [How I use every Claude Code feature](https://blog.sshh.io/p/how-i-use-every-claude-code-feature)
-- [Show HN: Duper – The Format That&#39;s Super](https://duper.dev.br/)
-- [Pomelli](https://blog.google/technology/google-labs/pomelli/)
-- [Show HN: KeyLeak Detector – Scan websites for exposed API keys and secrets](https://github.com/Amal-David/keyleak-detector)
-- [OpenDesk by the Centre for Digital Sovereignty](https://www.opendesk.eu/en/product)
-- [Visopsys: OS maintained by a single developer since 1997](https://visopsys.org/)
-- [SailfishOS: A Linux-based European alternative to dominant mobile OSes](https://sailfishos.org/info/)
+- [The Great Decoupling of Labor and Capital](https://www.mbi-deepdives.com/the-great-decoupling-of-labor-and-capital/)
+- [Amazon to start blocking sideloaded piracy apps on Fire TVs](https://www.aftvnews.com/amazon-to-start-blocking-sideloaded-piracy-apps-on-fire-tvs/)
+- [Facts about throwing good parties](https://www.atvbt.com/21-facts-about-throwing-good-parties/)
+- [FurtherAI &lpar;Series A – A16Z, YC&rpar; Is Hiring Across Software and AI](https://news.ycombinator.com/item?id=45793652)
+- [Paris had a moving sidewalk in 1900, and a Thomas Edison film captured it &lpar;2020&rpar;](https://www.openculture.com/2020/03/paris-had-a-moving-sidewalk-in-1900.html)
+- [Alleged Jabber Zeus Coder &#39;MrICQ&#39; in U.S. Custody](https://krebsonsecurity.com/2025/11/alleged-jabber-zeus-coder-mricq-in-u-s-custody/)
+- [Lisp: Notes on its Past and Future &lpar;1980&rpar;](https://www-formal.stanford.edu/jmc/lisp20th/lisp20th.html)
+- [Linux gamers on Steam cross over the 3% mark](https://www.gamingonlinux.com/2025/11/linux-gamers-on-steam-finally-cross-over-the-3-mark/)
+- [Reproducing the AWS Outage Race Condition with a Model Checker](https://wyounas.github.io/aws/concurrency/2025/10/30/reproducing-the-aws-outage-race-condition-with-model-checker/)
+- [Anti-cybercrime laws are being weaponized to repress journalism](https://www.cjr.org/analysis/nigeria-pakistan-jordan-cybercrime-laws-journalism.php)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

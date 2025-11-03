@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [World Series Game 7: Los Angeles Dodgers v Toronto Blue Jays – live](https://www.theguardian.com/sport/live/2025/nov/01/world-series-game-7-los-angeles-dodgers-v-toronto-blue-jays-live-updates)
-- [Ukraine war briefing: Ukraine says its troops still holding out in embattled Pokrovsk](https://www.theguardian.com/world/2025/nov/02/ukraine-war-briefing-ukraine-says-its-troops-still-holding-out-in-embattled-pokrovsk)
-- [Message in a bottle from first world war soldier found on remote Australian beach](https://www.theguardian.com/australia-news/2025/nov/02/message-in-bottle-first-world-war-soldier-found-australia-wharton-beach)
-- [Gezora wins Breeders’ Cup 2025 after Ethical Diamond’s triumph for Willie Mullins](https://www.theguardian.com/sport/live/2025/nov/01/breeders-cup-2025-day-two-live)
-- [As Barack Obama stumps for other Democrats, the party gets to see what it lost](https://www.theguardian.com/us-news/2025/nov/01/barack-obama-democratic-party)
-- [Sititi and Roigard seal New Zealand’s Chicago revenge win over Ireland](https://www.theguardian.com/sport/2025/nov/01/ireland-new-zealand-rugby-union-international-match-report)
-- [Girlbands Forever review – a thrillingly gobby slice of must-watch TV](https://www.theguardian.com/tv-and-radio/2025/nov/01/girlbands-forever-review-bbc-all-saints-sugababes-eternal)
-- [Salah and Gravenberch secure welcome win for Liverpool against Aston Villa](https://www.theguardian.com/football/2025/nov/01/liverpool-aston-villa-premier-league-match-report)
-- [Tottenham’s confused mess of a team exposed by Chelsea’s crash tackle king | Barney Ronay](https://www.theguardian.com/football/2025/nov/01/tottenhams-confused-mess-of-a-team-exposed-by-chelseas-crash-tackle-king)
-- [Trump threatens to go into Nigeria ‘guns-a-blazing’ over attacks on Christians](https://www.theguardian.com/us-news/2025/nov/01/trump-nigeria-christian-persecution)
+- [George Clooney says replacing Joe Biden with Kamala Harris ‘was a mistake’](https://www.theguardian.com/film/2025/nov/03/george-clooney-joe-biden-kamala-2024-us-election)
+- [Ukraine war briefing: Trump ‘not really’ considering supplying Tomahawks](https://www.theguardian.com/world/2025/nov/03/ukraine-war-briefing-trump-not-really-considering-supplying-tomahawks)
+- [NFL roundup: Bills beat Chiefs as Jags’ Little sets record for longest field-goal](https://www.theguardian.com/sport/2025/nov/02/nfl-scores-sunday-football)
+- [Pitch invading prankster Daniel Jarvis charged after lining up with Kangaroos players at Ashes Test](https://www.theguardian.com/sport/2025/nov/03/daniel-jarvis-kangaroos-ashes-test-pitch-invader-rugby-league-ntwnfb)
+- [NHS hospitals to test AI tool that helps diagnose and treat prostate cancer](https://www.theguardian.com/society/2025/nov/03/nhs-hospitals-to-test-ai-tool-that-helps-diagnose-and-treat-prostate-cancer)
+- [Mexican mayor killed during Day of the Dead celebrations](https://www.theguardian.com/world/2025/nov/02/mexican-mayor-killed-during-day-of-the-dead-celebrations)
+- [Nine people injured in mass shooting at Ohio party held in Airbnb](https://www.theguardian.com/us-news/2025/nov/02/ohio-party-mass-shooting-airbnb)
+- [Opponents and loyalists of Serbia’s autocratic president clash in Belgrade](https://www.theguardian.com/world/2025/nov/02/opponents-and-loyalists-of-serbias-autocratic-president-clash-in-belgrade)
+- [FBI fires top official amid Kash Patel’s outrage over reports of agency jet use](https://www.theguardian.com/us-news/2025/nov/02/fbi-fires-top-official-kash-patel-jet-use)
+- [Game of Wool: Britain’s Best Knitter review – Tom Daley is a twinkling, passionate joy of a presenter](https://www.theguardian.com/tv-and-radio/2025/nov/02/game-of-wool-britains-best-knitter-tom-daley-review-channel-4)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

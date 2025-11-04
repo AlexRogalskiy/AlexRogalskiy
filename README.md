@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [George Clooney says replacing Joe Biden with Kamala Harris ‘was a mistake’](https://www.theguardian.com/film/2025/nov/03/george-clooney-joe-biden-kamala-2024-us-election)
-- [Ukraine war briefing: Trump ‘not really’ considering supplying Tomahawks](https://www.theguardian.com/world/2025/nov/03/ukraine-war-briefing-trump-not-really-considering-supplying-tomahawks)
-- [NFL roundup: Bills beat Chiefs as Jags’ Little sets record for longest field-goal](https://www.theguardian.com/sport/2025/nov/02/nfl-scores-sunday-football)
-- [Pitch invading prankster Daniel Jarvis charged after lining up with Kangaroos players at Ashes Test](https://www.theguardian.com/sport/2025/nov/03/daniel-jarvis-kangaroos-ashes-test-pitch-invader-rugby-league-ntwnfb)
-- [NHS hospitals to test AI tool that helps diagnose and treat prostate cancer](https://www.theguardian.com/society/2025/nov/03/nhs-hospitals-to-test-ai-tool-that-helps-diagnose-and-treat-prostate-cancer)
-- [Mexican mayor killed during Day of the Dead celebrations](https://www.theguardian.com/world/2025/nov/02/mexican-mayor-killed-during-day-of-the-dead-celebrations)
-- [Nine people injured in mass shooting at Ohio party held in Airbnb](https://www.theguardian.com/us-news/2025/nov/02/ohio-party-mass-shooting-airbnb)
-- [Opponents and loyalists of Serbia’s autocratic president clash in Belgrade](https://www.theguardian.com/world/2025/nov/02/opponents-and-loyalists-of-serbias-autocratic-president-clash-in-belgrade)
-- [FBI fires top official amid Kash Patel’s outrage over reports of agency jet use](https://www.theguardian.com/us-news/2025/nov/02/fbi-fires-top-official-kash-patel-jet-use)
-- [Game of Wool: Britain’s Best Knitter review – Tom Daley is a twinkling, passionate joy of a presenter](https://www.theguardian.com/tv-and-radio/2025/nov/02/game-of-wool-britains-best-knitter-tom-daley-review-channel-4)
+- [Zohran Mamdani called out Donald Trump’s threat to withhold federal funding in New York City– as it happened](https://www.theguardian.com/us-news/live/2025/nov/03/us-government-shutdown-donald-trump-latest-politics-news)
+- [Worker dies after being rescued from partially collapsed medieval tower in Rome](https://www.theguardian.com/world/2025/nov/03/rome-tower-collapse-torre-dei-conti-italy)
+- [Shein bans sex dolls after French authorities launch investigation into some that resemble children](https://www.theguardian.com/business/2025/nov/04/shein-bans-sex-dolls-after-french-authorities-launch-investigation-into-some-that-resemble-children)
+- [Counter-terror police investigate claim UK university halted research after Chinese pressure](https://www.theguardian.com/education/2025/nov/04/counter-terror-police-investigate-claim-uk-university-halted-research-after-chinese-pressure)
+- [Experts find flaws in hundreds of tests that check AI safety and effectiveness](https://www.theguardian.com/technology/2025/nov/04/experts-find-flaws-hundreds-tests-check-ai-safety-effectiveness)
+- [Reeves to lay groundwork for tax rises in ‘candid’ speech about budget](https://www.theguardian.com/uk-news/2025/nov/04/rachel-reeves-to-lay-groundwork-for-tax-rises-speech-budget)
+- [John Lewis ad kickstarts Christmas countdown to the tune of 90s club classic](https://www.theguardian.com/media/2025/nov/04/john-lewis-christmas-advert-countdown-90s-club-classic-where-love-lives)
+- [BBC’s Kingdom series gets viewers ‘into the action’ with TV drama techniques](https://www.theguardian.com/media/2025/nov/04/bbc-kingdom-series-tv-drama-techniques-david-attenborough)
+- [Erin Patterson appeals guilty verdicts over deadly mushroom lunch that killed three](https://www.theguardian.com/australia-news/2025/nov/04/erin-patterson-appeal-guilty-verdicts-australia-mushroom-murder-lunch-ntwnfb)
+- [US mass murderer George Banks dies in prison 43 years after rampage](https://www.theguardian.com/us-news/2025/nov/03/mass-murderer-george-banks-dies)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Lord Nikon&#39;s Laptop](https://hackaday.com/2019/10/15/recreating-lord-nikons-laptop-from-hackers/)
-- [Braid groups connection with catalan numbers [pdf]](https://aimath.org/WWN/braidgroups/braidgroups.pdf)
-- [Show HN: PyTogether, open-source lightweight real-time Python IDE for teachers](https://pytogether.org/)
-- [The Bible in the chaldean language [pdf]](https://www.scriptureearth.org/data/cld/PDF/00-WNTcldS-web.pdf)
-- [NetLogo – Environment for agent-based modeling](https://www.netlogo.org/)
-- [Control Structures in Programming Languages](http://xavierleroy.org/control-structures/)
-- [Anchors don&#39;t work the way you think [video]](https://www.youtube.com/watch?v=FLvgeeJYAVQ)
-- [The Great Decoupling of Labor and Capital](https://www.mbi-deepdives.com/the-great-decoupling-of-labor-and-capital/)
-- [Inside Multi-Platform Docker Builds with QEMU](https://cefboud.com/posts/qemu-virtualzation-docker-multi-build/)
-- [I built my own non-subscription Lovart – design0.ai](https://design0.ai)
+- [An individual can change an organization](https://notes.eatonphil.com/2025-11-03-an-individual-can-change-an-organization.html)
+- [Plastic bags sold in California stores aren&#39;t recyclable, Bonta says](https://www.latimes.com/california/story/2025-10-17/bonta-settles-with-plastic-bag-producers-files-lawsuit-against-others-over-recycling-claims)
+- [Lamp Club, a Luddite Group, Has Come to Free the &#39;iPad Babies&#39;](https://www.nytimes.com/2025/10/30/style/lamp-club-luddites.html)
+- [Lessons from GitHub](https://github.com/swannysec/lessons-from-github)
+- [Nearly 400k people are starving in Sudan, a new report finds](https://www.npr.org/2025/11/03/g-s1-96318/famine-spreads-to-two-more-areas-in-sudan-global-hunger-authority-says)
+- [The Next Big Thing](https://semiengineering.com/the-next-big-thing/)
+- [Kimberly-Clark to buy Tylenol-maker for more than $40B](https://www.bbc.com/news/articles/cr43dp99k4vo)
+- [Ultramarine Linux – Fedora-Based Distro, Simple yet Powerful Experience for All](https://ultramarine-linux.org/)
+- [A robotaxi killed a beloved SF cat; city supervisor wants driverless car reform](https://www.sfchronicle.com/sf/article/waymo-killed-cat-21136038.php)
+- [Trump says China, other countries can&#39;t have Nvidia&#39;s top AI chips chips](https://www.reuters.com/world/china/trump-says-nvidias-blackwell-ai-chip-not-other-people-2025-11-03/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

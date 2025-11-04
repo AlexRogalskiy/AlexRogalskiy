@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The Great Decoupling of Labor and Capital](https://www.mbi-deepdives.com/the-great-decoupling-of-labor-and-capital/)
-- [Amazon to start blocking sideloaded piracy apps on Fire TVs](https://www.aftvnews.com/amazon-to-start-blocking-sideloaded-piracy-apps-on-fire-tvs/)
-- [Facts about throwing good parties](https://www.atvbt.com/21-facts-about-throwing-good-parties/)
-- [FurtherAI &lpar;Series A – A16Z, YC&rpar; Is Hiring Across Software and AI](https://news.ycombinator.com/item?id=45793652)
-- [Paris had a moving sidewalk in 1900, and a Thomas Edison film captured it &lpar;2020&rpar;](https://www.openculture.com/2020/03/paris-had-a-moving-sidewalk-in-1900.html)
-- [Alleged Jabber Zeus Coder &#39;MrICQ&#39; in U.S. Custody](https://krebsonsecurity.com/2025/11/alleged-jabber-zeus-coder-mricq-in-u-s-custody/)
-- [Lisp: Notes on its Past and Future &lpar;1980&rpar;](https://www-formal.stanford.edu/jmc/lisp20th/lisp20th.html)
-- [Linux gamers on Steam cross over the 3% mark](https://www.gamingonlinux.com/2025/11/linux-gamers-on-steam-finally-cross-over-the-3-mark/)
-- [Reproducing the AWS Outage Race Condition with a Model Checker](https://wyounas.github.io/aws/concurrency/2025/10/30/reproducing-the-aws-outage-race-condition-with-model-checker/)
-- [Anti-cybercrime laws are being weaponized to repress journalism](https://www.cjr.org/analysis/nigeria-pakistan-jordan-cybercrime-laws-journalism.php)
+- [UnitedHealth pays its own physician groups 17% more than outside ones](https://www.statnews.com/2025/11/03/unitedhealth-pays-its-optum-physicians-17-percent-more/)
+- [When stick figures fought](https://animationobsessive.substack.com/p/when-stick-figures-fought)
+- [Things you can do with diodes](https://lcamtuf.substack.com/p/things-you-can-do-with-diodes)
+- [A friendly tour of process memory on Linux](https://www.0xkato.xyz/linux-process-memory/)
+- [Linkers: A 20 Part Series &lpar;2007&rpar;](https://www.airs.com/blog/archives/38)
+- [Guideline has been acquired by Gusto](https://help.guideline.com/en/articles/12694322-guideline-has-joined-gusto-faqs-about-our-recent-acquisition)
+- [AI&#39;s Dial-Up Era](https://www.wreflection.com/p/ai-dial-up-era)
+- [The Mack Super Pumper was a locomotive engined fire fighter &lpar;2018&rpar;](https://bangshift.com/bangshiftxl/mack-super-pumper-system-locomotive-engine-powered-pumper-extinguish-hell-often/)
+- [&lt;/&gt; Htmx – The Fetch&lpar;&rpar;ening](https://htmx.org/essays/the-fetchening/)
+- [FreakWAN: A floor-routing WAN implementing a chat over bare-LoRa &lpar;no LoRaWAN&rpar;](https://github.com/antirez/freakwan)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

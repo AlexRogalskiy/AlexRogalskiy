@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Zohran Mamdani called out Donald Trump’s threat to withhold federal funding in New York City– as it happened](https://www.theguardian.com/us-news/live/2025/nov/03/us-government-shutdown-donald-trump-latest-politics-news)
-- [Worker dies after being rescued from partially collapsed medieval tower in Rome](https://www.theguardian.com/world/2025/nov/03/rome-tower-collapse-torre-dei-conti-italy)
-- [Shein bans sex dolls after French authorities launch investigation into some that resemble children](https://www.theguardian.com/business/2025/nov/04/shein-bans-sex-dolls-after-french-authorities-launch-investigation-into-some-that-resemble-children)
-- [Counter-terror police investigate claim UK university halted research after Chinese pressure](https://www.theguardian.com/education/2025/nov/04/counter-terror-police-investigate-claim-uk-university-halted-research-after-chinese-pressure)
-- [Experts find flaws in hundreds of tests that check AI safety and effectiveness](https://www.theguardian.com/technology/2025/nov/04/experts-find-flaws-hundreds-tests-check-ai-safety-effectiveness)
-- [Reeves to lay groundwork for tax rises in ‘candid’ speech about budget](https://www.theguardian.com/uk-news/2025/nov/04/rachel-reeves-to-lay-groundwork-for-tax-rises-speech-budget)
-- [John Lewis ad kickstarts Christmas countdown to the tune of 90s club classic](https://www.theguardian.com/media/2025/nov/04/john-lewis-christmas-advert-countdown-90s-club-classic-where-love-lives)
-- [BBC’s Kingdom series gets viewers ‘into the action’ with TV drama techniques](https://www.theguardian.com/media/2025/nov/04/bbc-kingdom-series-tv-drama-techniques-david-attenborough)
-- [Erin Patterson appeals guilty verdicts over deadly mushroom lunch that killed three](https://www.theguardian.com/australia-news/2025/nov/04/erin-patterson-appeal-guilty-verdicts-australia-mushroom-murder-lunch-ntwnfb)
-- [US mass murderer George Banks dies in prison 43 years after rampage](https://www.theguardian.com/us-news/2025/nov/03/mass-murderer-george-banks-dies)
+- [Zohran Mamdani wins New York mayoral election – live updates](https://www.theguardian.com/us-news/live/2025/nov/04/nyc-mayor-election-zohran-mamdani-andrew-cuomo-results-latest)
+- [At least three dead and 11 injured after UPS plane crashes near a Kentucky airport](https://www.theguardian.com/us-news/2025/nov/04/louisville-plane-crash-airport-kentucky-latest)
+- [Jamaica PM says hurricane Melissa caused damage equivalent to nearly one-third of GDP](https://www.theguardian.com/world/2025/nov/05/jamaica-pm-says-hurricane-melissa-caused-damage-equivalent-to-nearly-one-third-of-gdp)
+- [New Zealanders warned to steer clear of ‘bird of the year’ after dive-bomb attacks](https://www.theguardian.com/environment/2025/nov/05/new-zealand-karearea-falcon-dive-bomb-attacks)
+- [Ukraine war briefing: Zelenskyy visits troops near embattled Pokrovsk](https://www.theguardian.com/world/2025/nov/05/ukraine-war-briefing-zelenskyy-visits-troops-near-embattled-pokrovsk)
+- [Jake Weatherald in contention for Test debut after being named in Australia’s Ashes squad](https://www.theguardian.com/sport/2025/nov/05/australia-ashes-squad-cricket-jake-weatherald-first-test-perth)
+- [Malaysia defends Trump trade deal after critics warn it will compromise country’s sovereignty](https://www.theguardian.com/world/2025/nov/05/malaysia-defends-trump-us-trade-deal)
+- [A cultural revolution? Trump’s America feels oddly familiar to those watching from China](https://www.theguardian.com/us-news/2025/nov/05/a-cultural-revolution-trumps-america-feels-oddly-familiar-to-those-watching-from-china)
+- [AI study gives insights into why super-recognisers excel at identifying faces](https://www.theguardian.com/science/2025/nov/05/ai-research-super-recognisers-identify-faces)
+- [Othello review – David Harewood makes a commanding return to landmark role](https://www.theguardian.com/stage/2025/nov/05/othello-review-david-harewood-theatre-royal-haymarket-london-toby-jones-caitlin-fitzgerald)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

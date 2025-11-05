@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [UnitedHealth pays its own physician groups 17% more than outside ones](https://www.statnews.com/2025/11/03/unitedhealth-pays-its-optum-physicians-17-percent-more/)
-- [When stick figures fought](https://animationobsessive.substack.com/p/when-stick-figures-fought)
-- [Things you can do with diodes](https://lcamtuf.substack.com/p/things-you-can-do-with-diodes)
-- [A friendly tour of process memory on Linux](https://www.0xkato.xyz/linux-process-memory/)
-- [Linkers: A 20 Part Series &lpar;2007&rpar;](https://www.airs.com/blog/archives/38)
-- [Guideline has been acquired by Gusto](https://help.guideline.com/en/articles/12694322-guideline-has-joined-gusto-faqs-about-our-recent-acquisition)
-- [AI&#39;s Dial-Up Era](https://www.wreflection.com/p/ai-dial-up-era)
-- [The Mack Super Pumper was a locomotive engined fire fighter &lpar;2018&rpar;](https://bangshift.com/bangshiftxl/mack-super-pumper-system-locomotive-engine-powered-pumper-extinguish-hell-often/)
-- [&lt;/&gt; Htmx – The Fetch&lpar;&rpar;ening](https://htmx.org/essays/the-fetchening/)
-- [FreakWAN: A floor-routing WAN implementing a chat over bare-LoRa &lpar;no LoRaWAN&rpar;](https://github.com/antirez/freakwan)
+- [Munich&#39;s surfers left stunned after famed river wave vanishes](https://www.theguardian.com/world/2025/nov/04/munichs-surfers-left-stunned-after-famed-river-wave-vanishes)
+- [At least 3 dead after cargo plane crashes at Kentucky airport](https://www.bbc.com/news/live/c201kgq59qgt)
+- [FDA described as a &quot;clown show&quot; amid latest scandal; top drug regulator is out](https://arstechnica.com/health/2025/11/fda-described-as-a-clown-show-amid-latest-scandal-top-drug-regulator-is-out/)
+- [Uncle Sam wants to scan your iris and collect your DNA, citizen or not](https://www.theregister.com/2025/11/04/dhs_wants_to_collect_biometric_data/)
+- [Bluetui – A TUI for managing Bluetooth on Linux](https://github.com/pythops/bluetui)
+- [Analyzing the Performance of WebAssembly vs. Native Code](https://ar5iv.labs.arxiv.org/html/1901.09056)
+- [Google Removed 749M Anna&#39;s Archive URLs from Its Search Results](https://torrentfreak.com/google-removed-749-million-annas-archive-urls-from-its-search-results/)
+- [Patching 68K Software – SimpleText](https://tinkerdifferent.com/threads/patching-68k-software-simpletext.4793/)
+- [Mr Tiff](https://inventingthefuture.ghost.io/mr-tiff/)
+- [Grayskull: A tiny computer vision library in C for embedded systems, etc.](https://github.com/zserge/grayskull)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [An individual can change an organization](https://notes.eatonphil.com/2025-11-03-an-individual-can-change-an-organization.html)
-- [Plastic bags sold in California stores aren&#39;t recyclable, Bonta says](https://www.latimes.com/california/story/2025-10-17/bonta-settles-with-plastic-bag-producers-files-lawsuit-against-others-over-recycling-claims)
-- [Lamp Club, a Luddite Group, Has Come to Free the &#39;iPad Babies&#39;](https://www.nytimes.com/2025/10/30/style/lamp-club-luddites.html)
-- [Lessons from GitHub](https://github.com/swannysec/lessons-from-github)
-- [Nearly 400k people are starving in Sudan, a new report finds](https://www.npr.org/2025/11/03/g-s1-96318/famine-spreads-to-two-more-areas-in-sudan-global-hunger-authority-says)
-- [The Next Big Thing](https://semiengineering.com/the-next-big-thing/)
-- [Kimberly-Clark to buy Tylenol-maker for more than $40B](https://www.bbc.com/news/articles/cr43dp99k4vo)
-- [Ultramarine Linux – Fedora-Based Distro, Simple yet Powerful Experience for All](https://ultramarine-linux.org/)
-- [A robotaxi killed a beloved SF cat; city supervisor wants driverless car reform](https://www.sfchronicle.com/sf/article/waymo-killed-cat-21136038.php)
-- [Trump says China, other countries can&#39;t have Nvidia&#39;s top AI chips chips](https://www.reuters.com/world/china/trump-says-nvidias-blackwell-ai-chip-not-other-people-2025-11-03/)
+- [Fantasy – Build AI agents with Go. Multi-provider, multi-model, one API](https://github.com/charmbracelet/fantasy)
+- [Post-heist report reveals the password of the Louvre&#39;s video system was &#39;Louvre&#39;](https://www.pcgamer.com/software/security/post-heist-reports-reveal-the-password-for-the-louvres-video-surveillance-was-louvre-and-suddenly-the-dumpster-tier-opsec-of-videogame-npcs-seems-a-lot-less-absurd/)
+- [User Experience Is Computation](https://madebynathan.com/2025/11/05/user-experience-is-computation/)
+- [Zohran Mamdani wins the New York mayoral race](https://www.nbcnews.com/politics/elections/new-york-city-mayor-election-winner-2025-race-rcna238909)
+- [Maude 3 Manual](https://maude.lcc.uma.es/maude-manual/)
+- [SpaceX – Rideshare](https://www.spacex.com/rideshare)
+- [Asset Manager TCW &#39;Nervous&#39; About Parts of Private Credit](https://www.bloomberg.com/news/articles/2025-11-05/asset-manager-tcw-very-nervous-about-parts-of-private-credit)
+- [Convert a cheap air fryer into a high-performance 3D printer filament dryer](https://blog.arduino.cc/2025/10/24/convert-a-cheap-air-fryer-into-a-high-performance-3d-printer-filament-dryer/)
+- [Nhuis – NH Unemployment Q&amp;A is &#39;Powered by Gemini&#39; by Google [04/2025]](https://yandexwebcache.net/yandbtm?fmode=inject&tm=1762309357&tld=ru&lang=en&la=1744864384&text=site%3Ahttps%3A/%25https%3A//www.route-fifty.com/artificial-intelligence/2025/03/new-hampshires-benefits-program-embraces-ai-amid-modernization-push/403448/&url=https%3A//www.route-fifty.com/artificial-intelligence/2025/03/new-hampshires-benefits-program-embraces-ai-amid-modernization-push/403448/&l10n=ru&mime=html&sign=4e45b6245c61fac8bbf1494bdfe4137b&keyno=0&mode=text)
+- [Direct File won&#39;t happen in 2026, IRS tells states](https://www.nextgov.com/digital-government/2025/11/direct-file-wont-happen-2026-irs-tells-states/409309/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

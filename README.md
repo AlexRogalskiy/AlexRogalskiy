@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Zohran Mamdani wins New York mayoral election – live updates](https://www.theguardian.com/us-news/live/2025/nov/04/nyc-mayor-election-zohran-mamdani-andrew-cuomo-results-latest)
-- [At least three dead and 11 injured after UPS plane crashes near a Kentucky airport](https://www.theguardian.com/us-news/2025/nov/04/louisville-plane-crash-airport-kentucky-latest)
-- [Jamaica PM says hurricane Melissa caused damage equivalent to nearly one-third of GDP](https://www.theguardian.com/world/2025/nov/05/jamaica-pm-says-hurricane-melissa-caused-damage-equivalent-to-nearly-one-third-of-gdp)
-- [New Zealanders warned to steer clear of ‘bird of the year’ after dive-bomb attacks](https://www.theguardian.com/environment/2025/nov/05/new-zealand-karearea-falcon-dive-bomb-attacks)
-- [Ukraine war briefing: Zelenskyy visits troops near embattled Pokrovsk](https://www.theguardian.com/world/2025/nov/05/ukraine-war-briefing-zelenskyy-visits-troops-near-embattled-pokrovsk)
-- [Jake Weatherald in contention for Test debut after being named in Australia’s Ashes squad](https://www.theguardian.com/sport/2025/nov/05/australia-ashes-squad-cricket-jake-weatherald-first-test-perth)
-- [Malaysia defends Trump trade deal after critics warn it will compromise country’s sovereignty](https://www.theguardian.com/world/2025/nov/05/malaysia-defends-trump-us-trade-deal)
-- [A cultural revolution? Trump’s America feels oddly familiar to those watching from China](https://www.theguardian.com/us-news/2025/nov/05/a-cultural-revolution-trumps-america-feels-oddly-familiar-to-those-watching-from-china)
-- [AI study gives insights into why super-recognisers excel at identifying faces](https://www.theguardian.com/science/2025/nov/05/ai-research-super-recognisers-identify-faces)
-- [Othello review – David Harewood makes a commanding return to landmark role](https://www.theguardian.com/stage/2025/nov/05/othello-review-david-harewood-theatre-royal-haymarket-london-toby-jones-caitlin-fitzgerald)
+- [Water blessings and celestial offerings: Thailand’s Loy Krathong and Yi Peng festivals – in pictures](https://www.theguardian.com/world/gallery/2025/nov/06/thailand-lantern-festival-loy-krathong-yi-peng-in-pictures)
+- [Ukraine war briefing: Bulgaria moves to seize Russian refinery while Poland seeks to be US gas conduit](https://www.theguardian.com/world/2025/nov/06/ukraine-war-briefing-bulgaria-moves-to-seize-russian-refinery-while-poland-seeks-to-be-us-gas-conduit)
+- [Trump news at a glance: supreme court examines president’s global tariffs](https://www.theguardian.com/us-news/2025/nov/05/trump-administration-news-updates-today)
+- [The good news is that boys believe in gender equality. The scary question is: will they forget when they become men? | Lucy Clark](https://www.theguardian.com/commentisfree/2025/nov/06/the-good-news-is-that-boys-believe-in-gender-equality-the-scary-question-is-will-they-forget-when-they-become-men)
+- [Troubled New Zealand wildlife park euthanizes two lions, fate of five more unclear](https://www.theguardian.com/world/2025/nov/06/new-zealand-wildlife-park-euthanizes-two-lions)
+- [‘The ultimate free Uber around the sea’: suckerfish find dream solution to transport woes](https://www.theguardian.com/environment/2025/nov/06/humpback-whale-remora-suckerfish-ocean-footage)
+- [British military announces first delivery of Ajax armoured vehicles – eight years late](https://www.theguardian.com/uk-news/2025/nov/06/british-military-announces-first-delivery-of-ajax-armoured-vehicles-eight-years-late)
+- [Universe expansion may be slowing, not accelerating, study suggests](https://www.theguardian.com/science/2025/nov/06/universe-expansion-slowing-not-accelerating-nobel-prize)
+- [Prison sentencing reforms will lead to up to 6% rise in crime, police chiefs say](https://www.theguardian.com/uk-news/2025/nov/06/prison-sentencing-reforms-rise-in-crime-police-chiefs)
+- [Champions League roundup: Club Brugge hold Barcelona in six-goal thriller](https://www.theguardian.com/football/2025/nov/05/champions-league-roundup-club-brugge-barcelona-inter-pafos-galatasaray)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

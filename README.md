@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Fantasy – Build AI agents with Go. Multi-provider, multi-model, one API](https://github.com/charmbracelet/fantasy)
-- [Post-heist report reveals the password of the Louvre&#39;s video system was &#39;Louvre&#39;](https://www.pcgamer.com/software/security/post-heist-reports-reveal-the-password-for-the-louvres-video-surveillance-was-louvre-and-suddenly-the-dumpster-tier-opsec-of-videogame-npcs-seems-a-lot-less-absurd/)
-- [User Experience Is Computation](https://madebynathan.com/2025/11/05/user-experience-is-computation/)
-- [Zohran Mamdani wins the New York mayoral race](https://www.nbcnews.com/politics/elections/new-york-city-mayor-election-winner-2025-race-rcna238909)
-- [Maude 3 Manual](https://maude.lcc.uma.es/maude-manual/)
-- [SpaceX – Rideshare](https://www.spacex.com/rideshare)
-- [Asset Manager TCW &#39;Nervous&#39; About Parts of Private Credit](https://www.bloomberg.com/news/articles/2025-11-05/asset-manager-tcw-very-nervous-about-parts-of-private-credit)
-- [Convert a cheap air fryer into a high-performance 3D printer filament dryer](https://blog.arduino.cc/2025/10/24/convert-a-cheap-air-fryer-into-a-high-performance-3d-printer-filament-dryer/)
-- [Nhuis – NH Unemployment Q&amp;A is &#39;Powered by Gemini&#39; by Google [04/2025]](https://yandexwebcache.net/yandbtm?fmode=inject&tm=1762309357&tld=ru&lang=en&la=1744864384&text=site%3Ahttps%3A/%25https%3A//www.route-fifty.com/artificial-intelligence/2025/03/new-hampshires-benefits-program-embraces-ai-amid-modernization-push/403448/&url=https%3A//www.route-fifty.com/artificial-intelligence/2025/03/new-hampshires-benefits-program-embraces-ai-amid-modernization-push/403448/&l10n=ru&mime=html&sign=4e45b6245c61fac8bbf1494bdfe4137b&keyno=0&mode=text)
-- [Direct File won&#39;t happen in 2026, IRS tells states](https://www.nextgov.com/digital-government/2025/11/direct-file-wont-happen-2026-irs-tells-states/409309/)
+- [Economic Anger Once Again Punishes the Party in Power](https://www.wsj.com/politics/elections/economic-anger-once-again-punishes-the-party-in-power-71d14d18)
+- [Show HN: SSH terminal multiplayer written in Golang](https://github.com/MShel/sshOuroboros)
+- [Myna: monospace typeface designed for symbol-rich programming](https://github.com/sayyadirfanali/Myna)
+- [BBC&#39;s bias &#39;pushed Hamas lies around the world&#39;](https://www.telegraph.co.uk/news/2025/11/04/bbc-arabic-bias-pushed-hamas-lies/)
+- [Shango](https://en.wikipedia.org/wiki/Shango)
+- [Rust&#39;s TUI Revolution](https://ratatui.rs/showcase/apps/)
+- [Brain-IT: Image Reconstruction from fMRI via Brain-Interaction Transformer](https://AmitZalcher.github.io/Brain-IT/)
+- [FAA to cut flights by 10% at 40 major airports due to government shutdown](https://www.cnbc.com/2025/11/05/faa-cuts-flight-capacity-shutdown.html)
+- [&#39;Vibe coding&#39; named word of the year by Collins Dictionary](https://www.bbc.com/news/articles/cpd2y053nleo)
+- [Australia Mandates Encryption Backdoors](https://www.wired.com/story/australia-encryption-law-global-impact/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

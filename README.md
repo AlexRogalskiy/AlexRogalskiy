@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Economic Anger Once Again Punishes the Party in Power](https://www.wsj.com/politics/elections/economic-anger-once-again-punishes-the-party-in-power-71d14d18)
-- [Show HN: SSH terminal multiplayer written in Golang](https://github.com/MShel/sshOuroboros)
-- [Myna: monospace typeface designed for symbol-rich programming](https://github.com/sayyadirfanali/Myna)
-- [BBC&#39;s bias &#39;pushed Hamas lies around the world&#39;](https://www.telegraph.co.uk/news/2025/11/04/bbc-arabic-bias-pushed-hamas-lies/)
-- [Shango](https://en.wikipedia.org/wiki/Shango)
-- [Rust&#39;s TUI Revolution](https://ratatui.rs/showcase/apps/)
-- [Brain-IT: Image Reconstruction from fMRI via Brain-Interaction Transformer](https://AmitZalcher.github.io/Brain-IT/)
-- [FAA to cut flights by 10% at 40 major airports due to government shutdown](https://www.cnbc.com/2025/11/05/faa-cuts-flight-capacity-shutdown.html)
-- [&#39;Vibe coding&#39; named word of the year by Collins Dictionary](https://www.bbc.com/news/articles/cpd2y053nleo)
-- [Australia Mandates Encryption Backdoors](https://www.wired.com/story/australia-encryption-law-global-impact/)
+- [Google&#39;s proposed Android changes won&#39;t save sideloading](https://www.androidauthority.com/android-changes-third-party-app-stores-3613409/)
+- [A prvalue is not a temporary](https://blog.knatten.org/2025/10/31/a-prvalue-is-not-a-temporary/)
+- [Google Maps taps Gemini AI to transform into an &#39;all-knowing copilot&#39;](https://www.theverge.com/news/813588/google-maps-gemini-ai-chatbot-navigation-directions)
+- [Elon Musk&#39;s $1T pay deal approved by Tesla shareholders](https://www.bbc.com/news/articles/cwyk6kvyxvzo)
+- [Project Sunrise – commercial passenger plane flys 22 hours nonstop](https://www.qantasnewsroom.com.au/media-releases/qantas-first-project-sunrise-aircraft-takes-shape-in-toulouse/)
+- [Show HN: Cross-runtime printer library for TS/JS](https://github.com/esimkowitz/printers-js)
+- [The US Is Rebuilding the Airfields That Staged the Hiroshima Nuclear Strike](https://www.rferl.org/a/hiroshima-nuclear-strike-tinian-island-rebuild-china-pacific/33583272.html)
+- [Creating Knowledge Graphs from NLP Datasets](https://graphtechnologydevelopers.github.io/english-words-knowledge-graph/)
+- [The Golden Rule of Switching to Linux: Restructure Your Life](https://thelibre.news/the-golden-rule-of-switching-to-linux-restructure-your-life/)
+- [Renewable additions in 2025 are once again expected to surge](https://ember-energy.org/latest-insights/renewable-additions-in-2025-are-once-again-expected-to-surge-putting-tripling-within-reach/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

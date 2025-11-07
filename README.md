@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [FAA to cut flights by 10% at 40 major airports due to government shutdown](https://www.cnbc.com/2025/11/05/faa-cuts-flight-capacity-shutdown.html)
-- [Longtime Mozilla Support Japanese Community Shuts Down over AI Translation Usage](https://support.mozilla.org/en-US/forums/contributors/717446)
-- [Recursive macros in C, demystified &lpar;once the ugly crying stops&rpar;](https://h4x0r.org/big-mac-ro-attack/)
-- [The Basic Laws of Human Stupidity &lpar;1987&rpar; [pdf]](https://gandalf.fee.urv.cat/professors/AntonioQuesada/Curs1920/Cipolla_laws.pdf)
-- [A Lost IBM PC/at Model? Analyzing a Newfound Old Bios](https://int10h.org/blog/2025/11/lost-ibm-at-model-bios-analysis/)
-- [Solarpunk is happening in Africa](https://climatedrift.substack.com/p/why-solarpunk-is-already-happening)
-- [New gel restores dental enamel and could revolutionise tooth repair](https://www.nottingham.ac.uk/news/new-gel-restores-dental-enamel-and-could-revolutionise-tooth-repair)
-- [The state of SIMD in Rust in 2025](https://shnatsel.medium.com/the-state-of-simd-in-rust-in-2025-32c263e5f53d)
-- [Dillo, a multi-platform graphical web browser](https://github.com/dillo-browser/dillo)
-- [ChatGPT terms disallow its use in providing legal and medical advice to others](https://www.ctvnews.ca/sci-tech/article/openai-updates-policies-so-chatgpt-wont-provide-medical-or-legal-advice/)
+- [A prvalue is not a temporary](https://blog.knatten.org/2025/10/31/a-prvalue-is-not-a-temporary/)
+- [A Note on Fil-C](https://graydon2.dreamwidth.org/320265.html)
+- [Scientists find ways to boost memory in aging brains](https://news.vt.edu/articles/2025/10/cals-jarome-improving-memory.html)
+- [The secret campaign to silence critics of a hospital real estate empire](https://www.motherjones.com/politics/2025/10/medical-properties-trust-mpt-steward-health-care-ed-aldag-secret-campaign-critics-surveillance-reit/)
+- [Game design is simple](https://www.raphkoster.com/2025/11/03/game-design-is-simple-actually/)
+- [Hightouch &lpar;YC S19&rpar; Is Hiring](https://job-boards.greenhouse.io/hightouch/jobs/5542602004)
+- [Analysis indicates that the universe’s expansion is not accelerating](https://ras.ac.uk/news-and-press/research-highlights/universes-expansion-now-slowing-not-speeding)
+- [You should write an agent](https://fly.io/blog/everyone-write-an-agent/)
+- [Two billion email addresses were exposed](https://www.troyhunt.com/2-billion-email-addresses-were-exposed-and-we-indexed-them-all-in-have-i-been-pwned/)
+- [LLMs encode how difficult problems are](https://arxiv.org/abs/2510.18147)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

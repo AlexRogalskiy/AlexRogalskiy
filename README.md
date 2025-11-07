@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Water blessings and celestial offerings: Thailand’s Loy Krathong and Yi Peng festivals – in pictures](https://www.theguardian.com/world/gallery/2025/nov/06/thailand-lantern-festival-loy-krathong-yi-peng-in-pictures)
-- [Ukraine war briefing: Bulgaria moves to seize Russian refinery while Poland seeks to be US gas conduit](https://www.theguardian.com/world/2025/nov/06/ukraine-war-briefing-bulgaria-moves-to-seize-russian-refinery-while-poland-seeks-to-be-us-gas-conduit)
-- [Trump news at a glance: supreme court examines president’s global tariffs](https://www.theguardian.com/us-news/2025/nov/05/trump-administration-news-updates-today)
-- [The good news is that boys believe in gender equality. The scary question is: will they forget when they become men? | Lucy Clark](https://www.theguardian.com/commentisfree/2025/nov/06/the-good-news-is-that-boys-believe-in-gender-equality-the-scary-question-is-will-they-forget-when-they-become-men)
-- [Troubled New Zealand wildlife park euthanizes two lions, fate of five more unclear](https://www.theguardian.com/world/2025/nov/06/new-zealand-wildlife-park-euthanizes-two-lions)
-- [‘The ultimate free Uber around the sea’: suckerfish find dream solution to transport woes](https://www.theguardian.com/environment/2025/nov/06/humpback-whale-remora-suckerfish-ocean-footage)
-- [British military announces first delivery of Ajax armoured vehicles – eight years late](https://www.theguardian.com/uk-news/2025/nov/06/british-military-announces-first-delivery-of-ajax-armoured-vehicles-eight-years-late)
-- [Universe expansion may be slowing, not accelerating, study suggests](https://www.theguardian.com/science/2025/nov/06/universe-expansion-slowing-not-accelerating-nobel-prize)
-- [Prison sentencing reforms will lead to up to 6% rise in crime, police chiefs say](https://www.theguardian.com/uk-news/2025/nov/06/prison-sentencing-reforms-rise-in-crime-police-chiefs)
-- [Champions League roundup: Club Brugge hold Barcelona in six-goal thriller](https://www.theguardian.com/football/2025/nov/05/champions-league-roundup-club-brugge-barcelona-inter-pafos-galatasaray)
+- [British woman on Bali death row flies home on humanitarian grounds](https://www.theguardian.com/world/2025/nov/07/british-woman-bali-indonesia-death-row-flies-home-humanitarian-grounds)
+- [Qantas releases images of ultra long range Airbus that will fly non-stop from Sydney to London and New York](https://www.theguardian.com/business/2025/nov/07/qantas-long-range-airbus-fly-non-stop-australia-london-new-york-images)
+- [Ukraine war briefing: Ukrainian court jails Russian soldier for killing PoW in landmark sentence](https://www.theguardian.com/world/2025/nov/07/ukraine-war-briefing-ukrainian-court-jails-russian-soldier-for-killing-pow-in-landmark-sentence)
+- [US airlines cancel flights after aviation agency directive to cut air traffic](https://www.theguardian.com/world/2025/nov/06/us-40-airports-traffic-reduced)
+- [Death toll from UPS plane crash at Louisville airport rises to 13](https://www.theguardian.com/us-news/2025/nov/06/ups-plane-crash-louisville-death-toll)
+- [Single mothers in China find a new kind of partner – other single mothers](https://www.theguardian.com/world/2025/nov/07/single-mothers-in-china-find-a-new-kind-of-partner-other-single-mothers)
+- [Senate blocks Democrats’ bid to check Trump power over Venezuela strikes](https://www.theguardian.com/us-news/2025/nov/06/senate-trump-venezuela)
+- [Met police’s culture makes racial harm ‘inevitable’, internal review finds](https://www.theguardian.com/uk-news/2025/nov/07/met-polices-culture-makes-racial-harm-inevitable-internal-review-finds)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2025/nov/07/premier-league-10-things-to-look-out-for-this-weekend)
+- [Fraught, tense and visceral: there’s never been a football match quite like Maccabi’s visit to Aston Villa | Barney Ronay](https://www.theguardian.com/football/2025/nov/06/fraught-tense-and-visceral-theres-never-been-a-football-match-quite-like-maccabis-visit-to-aston-villa)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

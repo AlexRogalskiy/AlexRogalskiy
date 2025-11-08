@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [A prvalue is not a temporary](https://blog.knatten.org/2025/10/31/a-prvalue-is-not-a-temporary/)
-- [A Note on Fil-C](https://graydon2.dreamwidth.org/320265.html)
-- [Scientists find ways to boost memory in aging brains](https://news.vt.edu/articles/2025/10/cals-jarome-improving-memory.html)
-- [The secret campaign to silence critics of a hospital real estate empire](https://www.motherjones.com/politics/2025/10/medical-properties-trust-mpt-steward-health-care-ed-aldag-secret-campaign-critics-surveillance-reit/)
-- [Game design is simple](https://www.raphkoster.com/2025/11/03/game-design-is-simple-actually/)
-- [Hightouch &lpar;YC S19&rpar; Is Hiring](https://job-boards.greenhouse.io/hightouch/jobs/5542602004)
-- [Analysis indicates that the universe’s expansion is not accelerating](https://ras.ac.uk/news-and-press/research-highlights/universes-expansion-now-slowing-not-speeding)
-- [You should write an agent](https://fly.io/blog/everyone-write-an-agent/)
-- [Two billion email addresses were exposed](https://www.troyhunt.com/2-billion-email-addresses-were-exposed-and-we-indexed-them-all-in-have-i-been-pwned/)
-- [LLMs encode how difficult problems are](https://arxiv.org/abs/2510.18147)
+- [Sam Altman&#39;s pants are on fire](https://garymarcus.substack.com/p/sam-altmans-pants-are-totally-on)
+- [Older Adults Outnumber Children in 11 States](https://www.census.gov/newsroom/press-releases/2025/older-adults-outnumber-children.html)
+- [Mullvad: Shutting down our search proxy Leta](https://mullvad.net/en/blog/shutting-down-our-search-proxy-leta)
+- [Immutable Software Deploys Using ZFS Jails on FreeBSD](https://conradresearch.com/articles/immutable-software-deploy-zfs-jails)
+- [Snapchat open-sources Valdi a cross-platform UI framework](https://github.com/Snapchat/Valdi)
+- [Analysis of Hedy Lamarr&#39;s Contribution to Spread-Spectrum Communication](https://researchers.one/articles/24.01.00001v4)
+- [Why is Zig so cool?](https://nilostolte.github.io/tech/articles/ZigCool.html)
+- [FAA to restrict commercial rocket launches to overnight hours](https://www.space.com/space-exploration/launches-spacecraft/faa-restricts-commercial-rocket-launches-indefinitely-due-to-air-traffic-risks-from-government-shutdown)
+- [Mind captioning: Evolving descriptive text of mental content of brain activity](https://www.science.org/doi/10.1126/sciadv.adw1464)
+- [How a devboard works &lpar;and how to make your own&rpar;](https://kaipereira.com/journal/build-a-devboard)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

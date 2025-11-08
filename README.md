@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [British woman on Bali death row flies home on humanitarian grounds](https://www.theguardian.com/world/2025/nov/07/british-woman-bali-indonesia-death-row-flies-home-humanitarian-grounds)
-- [Qantas releases images of ultra long range Airbus that will fly non-stop from Sydney to London and New York](https://www.theguardian.com/business/2025/nov/07/qantas-long-range-airbus-fly-non-stop-australia-london-new-york-images)
-- [Ukraine war briefing: Ukrainian court jails Russian soldier for killing PoW in landmark sentence](https://www.theguardian.com/world/2025/nov/07/ukraine-war-briefing-ukrainian-court-jails-russian-soldier-for-killing-pow-in-landmark-sentence)
-- [US airlines cancel flights after aviation agency directive to cut air traffic](https://www.theguardian.com/world/2025/nov/06/us-40-airports-traffic-reduced)
-- [Death toll from UPS plane crash at Louisville airport rises to 13](https://www.theguardian.com/us-news/2025/nov/06/ups-plane-crash-louisville-death-toll)
-- [Single mothers in China find a new kind of partner – other single mothers](https://www.theguardian.com/world/2025/nov/07/single-mothers-in-china-find-a-new-kind-of-partner-other-single-mothers)
-- [Senate blocks Democrats’ bid to check Trump power over Venezuela strikes](https://www.theguardian.com/us-news/2025/nov/06/senate-trump-venezuela)
-- [Met police’s culture makes racial harm ‘inevitable’, internal review finds](https://www.theguardian.com/uk-news/2025/nov/07/met-polices-culture-makes-racial-harm-inevitable-internal-review-finds)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2025/nov/07/premier-league-10-things-to-look-out-for-this-weekend)
-- [Fraught, tense and visceral: there’s never been a football match quite like Maccabi’s visit to Aston Villa | Barney Ronay](https://www.theguardian.com/football/2025/nov/06/fraught-tense-and-visceral-theres-never-been-a-football-match-quite-like-maccabis-visit-to-aston-villa)
+- [‘Huge victory’ in Portland as judge’s final order bars Trump from sending national guard](https://www.theguardian.com/us-news/2025/nov/07/final-order-trump-national-guard-portland)
+- [I’m a food writer with a binge-eating disorder, and I’m learning to reject shame](https://www.theguardian.com/lifeandstyle/2025/nov/08/food-writer-with-binge-eating-disorder)
+- [Trump says US will boycott G20 summit in South Africa, citing treatment of white farmers](https://www.theguardian.com/us-news/2025/nov/07/trump-boycott-g20-south-africa-white-farmers)
+- [Slot rejects Wenger claim that Wirtz at No 10 has ‘destroyed Liverpool’s midfield’](https://www.theguardian.com/football/2025/nov/07/slot-rejects-wenger-claim-that-wirtz-at-no-10-has-destroyed-liverpools-midfield)
+- [‘He’s going to struggle’: Amorim relaxed despite Sesko’s lack of United form](https://www.theguardian.com/football/2025/nov/07/benjamin-sesko-manchester-united-ruben-amorim)
+- [Sabalenka to face Rybakina in WTA Finals decider after holding off Anisimova](https://www.theguardian.com/sport/2025/nov/07/aryna-sabalenka-elena-rybakina-wta-finals-amanda-anisimova-tennis)
+- [All Her Fault review – Sarah Snook’s terrifying thriller is an absolute pleasure to watch](https://www.theguardian.com/tv-and-radio/2025/nov/07/all-her-fault-review-sarah-snook-andrea-mara)
+- [James D Watson, who co-discovered DNA’s twisted-ladder structure, dies aged 97](https://www.theguardian.com/us-news/2025/nov/07/james-watson-scientist-dna-death)
+- [Revitalised England ready to reveal new attacking dimension against Fiji](https://www.theguardian.com/sport/2025/nov/07/revitalised-england-ready-to-reveal-new-attacking-dimension-against-fiji)
+- [F1’s three-way title fight echoes the glorious battles of yesteryear](https://www.theguardian.com/sport/2025/nov/07/f1s-three-way-title-fight-echoes-the-glorious-battles-of-yesteryear)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

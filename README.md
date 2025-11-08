@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Google&#39;s proposed Android changes won&#39;t save sideloading](https://www.androidauthority.com/android-changes-third-party-app-stores-3613409/)
-- [A prvalue is not a temporary](https://blog.knatten.org/2025/10/31/a-prvalue-is-not-a-temporary/)
-- [Google Maps taps Gemini AI to transform into an &#39;all-knowing copilot&#39;](https://www.theverge.com/news/813588/google-maps-gemini-ai-chatbot-navigation-directions)
-- [Elon Musk&#39;s $1T pay deal approved by Tesla shareholders](https://www.bbc.com/news/articles/cwyk6kvyxvzo)
-- [Project Sunrise – commercial passenger plane flys 22 hours nonstop](https://www.qantasnewsroom.com.au/media-releases/qantas-first-project-sunrise-aircraft-takes-shape-in-toulouse/)
-- [Show HN: Cross-runtime printer library for TS/JS](https://github.com/esimkowitz/printers-js)
-- [The US Is Rebuilding the Airfields That Staged the Hiroshima Nuclear Strike](https://www.rferl.org/a/hiroshima-nuclear-strike-tinian-island-rebuild-china-pacific/33583272.html)
-- [Creating Knowledge Graphs from NLP Datasets](https://graphtechnologydevelopers.github.io/english-words-knowledge-graph/)
-- [The Golden Rule of Switching to Linux: Restructure Your Life](https://thelibre.news/the-golden-rule-of-switching-to-linux-restructure-your-life/)
-- [Renewable additions in 2025 are once again expected to surge](https://ember-energy.org/latest-insights/renewable-additions-in-2025-are-once-again-expected-to-surge-putting-tripling-within-reach/)
+- [Big Tech&#39;s most important infrastructure is at the bottom of the sea](https://sherwood.news/tech/big-techs-most-important-infrastructure-is-at-the-bottom-of-the-sea/)
+- [Objective-C](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)
+- [The Farmers&#39; Almanac Succumbs to the Digital Age](https://www.nytimes.com/2025/11/07/us/farmers-almanac-shutting-down.html)
+- [Ask HN: P2P Archive.is Alternative?](https://news.ycombinator.com/item?id=45853614)
+- [DeepOCR – a free image → text extractor,no signup](https://deepocr.cc/image-text-extractor)
+- [Bank of America Outage](https://www.bankofamerica.com/)
+- [I was SO wrong about quantum computing](https://www.youtube.com/watch?v=gBTS7JZTyZY)
+- [Digital platforms a threat to democracy? Really?](https://www.dw.com/en/digital-platforms-are-a-danger-for-democracy-what-can-be-done/a-74668315)
+- [Local First Htmx](https://elijahm.com/posts/local_first_htmx/)
+- [Up and Then Down &lpar;2014&rpar;](https://www.newyorker.com/magazine/2008/04/21/up-and-then-down)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

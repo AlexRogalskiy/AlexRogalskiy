@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Sam Altman&#39;s pants are on fire](https://garymarcus.substack.com/p/sam-altmans-pants-are-totally-on)
-- [Older Adults Outnumber Children in 11 States](https://www.census.gov/newsroom/press-releases/2025/older-adults-outnumber-children.html)
-- [Mullvad: Shutting down our search proxy Leta](https://mullvad.net/en/blog/shutting-down-our-search-proxy-leta)
-- [Immutable Software Deploys Using ZFS Jails on FreeBSD](https://conradresearch.com/articles/immutable-software-deploy-zfs-jails)
-- [Snapchat open-sources Valdi a cross-platform UI framework](https://github.com/Snapchat/Valdi)
-- [Analysis of Hedy Lamarr&#39;s Contribution to Spread-Spectrum Communication](https://researchers.one/articles/24.01.00001v4)
-- [Why is Zig so cool?](https://nilostolte.github.io/tech/articles/ZigCool.html)
-- [FAA to restrict commercial rocket launches to overnight hours](https://www.space.com/space-exploration/launches-spacecraft/faa-restricts-commercial-rocket-launches-indefinitely-due-to-air-traffic-risks-from-government-shutdown)
-- [Mind captioning: Evolving descriptive text of mental content of brain activity](https://www.science.org/doi/10.1126/sciadv.adw1464)
-- [How a devboard works &lpar;and how to make your own&rpar;](https://kaipereira.com/journal/build-a-devboard)
+- [Tabloid: The Clickbait Headline Programming Language](https://tabloid.vercel.app/)
+- [He Chunhui&#39;s Tiny386 Turns an ESP32-S3 into a Fully-Functional 386-Powered PC](https://www.hackster.io/news/he-chunhui-s-tiny386-turns-the-humble-esp32-s3-into-a-fully-functional-386-powered-desktop-pc-5454cf6e36a1)
+- [Judge says Education Dept partisan out-of-office emails violated First Amendment](https://www.npr.org/2025/11/08/nx-s1-5602859/education-department-out-of-office-emails-ruling)
+- [Court Judge Rules Flock Safety camera data is not exempt from PRA [WA State]](https://www.goskagit.com/news/local_news/court-denies-request-that-it-find-flock-safety-camera-data-is-exempt-from-public-records/article_f1edd028-d242-479c-ada8-f2dfca73a1b1.html)
+- [Judge denies request to exempt Flock footage from Public Records Act](https://www.heraldnet.com/news/judge-denies-request-to-exempt-flock-footage-from-public-records-act/)
+- [Humanity&#39;s Endgame](https://www.noemamag.com/humanitys-endgame/)
+- [OpenAI: Our new model GPT-5-Codex-Mini – a more cost-efficient GPT-5-Codex](https://github.com/openai/codex/releases/tag/rust-v0.56.0)
+- [Ironclad – formally verified, real-time capable, Unix-like OS kernel](https://ironclad-os.org/)
+- [IP blocking the UK is not enough to comply with the Online Safety Act](https://prestonbyrne.com/2025/11/06/the-ofcom-files-part-2-ip-blocking-the-uk-is-not-enough-to-comply-with-the-online-safety-act/)
+- [Debugging BeagleBoard USB boot with a sniffer: fixing omap_loader on modern PCs](https://www.downtowndougbrown.com/2025/11/debugging-beagleboard-usb-boot-with-a-sniffer-fixing-omap_loader-on-modern-pcs/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

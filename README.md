@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Big Tech&#39;s most important infrastructure is at the bottom of the sea](https://sherwood.news/tech/big-techs-most-important-infrastructure-is-at-the-bottom-of-the-sea/)
-- [Objective-C](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)
-- [The Farmers&#39; Almanac Succumbs to the Digital Age](https://www.nytimes.com/2025/11/07/us/farmers-almanac-shutting-down.html)
-- [Ask HN: P2P Archive.is Alternative?](https://news.ycombinator.com/item?id=45853614)
-- [DeepOCR – a free image → text extractor,no signup](https://deepocr.cc/image-text-extractor)
-- [Bank of America Outage](https://www.bankofamerica.com/)
-- [I was SO wrong about quantum computing](https://www.youtube.com/watch?v=gBTS7JZTyZY)
-- [Digital platforms a threat to democracy? Really?](https://www.dw.com/en/digital-platforms-are-a-danger-for-democracy-what-can-be-done/a-74668315)
-- [Local First Htmx](https://elijahm.com/posts/local_first_htmx/)
-- [Up and Then Down &lpar;2014&rpar;](https://www.newyorker.com/magazine/2008/04/21/up-and-then-down)
+- [Mathematical exploration and discovery at scale – Terence Tao et al.](https://arxiv.org/abs/2511.02864)
+- [Show HN: Geofenced chat communities anyone can create](https://vicinity.social/)
+- [A Turing complete language in TypeScript types](https://github.com/KaiStevenson/kai-script)
+- [Show HN: Xleak – Terminal Excel viewer with interactive TUI and search](https://github.com/bgreenwell/xleak)
+- [Tabloid: The Clickbait Headline Programming Language](https://tabloid.vercel.app/)
+- [Show HN: Sitemap Harvester – Extract metadata from any website&#39;s sitemap to CSV](https://github.com/meysam81/sitemap-harvester)
+- [Lessons from Alex Hormozi&#39;s $100M Book Launch](https://thewritetoroam.com/2025/11/lessons-from-alex-hormozis-100m-book-launch)
+- [Fear Is Coming Back to the Junk Bond Market](https://www.bloomberg.com/news/articles/2025-11-08/fear-is-coming-back-to-the-junk-bond-market-credit-weekly)
+- [What a leaked transcript reveals about China&#39;s muscular statecraft](https://www.economist.com/china/2025/11/06/what-a-leaked-transcript-reveals-about-chinas-muscular-statecraft)
+- [I don&#39;t love Rust &lpar;either&rpar;](https://cbarrete.com/rust-bad.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

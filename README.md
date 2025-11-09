@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [‘Huge victory’ in Portland as judge’s final order bars Trump from sending national guard](https://www.theguardian.com/us-news/2025/nov/07/final-order-trump-national-guard-portland)
-- [I’m a food writer with a binge-eating disorder, and I’m learning to reject shame](https://www.theguardian.com/lifeandstyle/2025/nov/08/food-writer-with-binge-eating-disorder)
-- [Trump says US will boycott G20 summit in South Africa, citing treatment of white farmers](https://www.theguardian.com/us-news/2025/nov/07/trump-boycott-g20-south-africa-white-farmers)
-- [Slot rejects Wenger claim that Wirtz at No 10 has ‘destroyed Liverpool’s midfield’](https://www.theguardian.com/football/2025/nov/07/slot-rejects-wenger-claim-that-wirtz-at-no-10-has-destroyed-liverpools-midfield)
-- [‘He’s going to struggle’: Amorim relaxed despite Sesko’s lack of United form](https://www.theguardian.com/football/2025/nov/07/benjamin-sesko-manchester-united-ruben-amorim)
-- [Sabalenka to face Rybakina in WTA Finals decider after holding off Anisimova](https://www.theguardian.com/sport/2025/nov/07/aryna-sabalenka-elena-rybakina-wta-finals-amanda-anisimova-tennis)
-- [All Her Fault review – Sarah Snook’s terrifying thriller is an absolute pleasure to watch](https://www.theguardian.com/tv-and-radio/2025/nov/07/all-her-fault-review-sarah-snook-andrea-mara)
-- [James D Watson, who co-discovered DNA’s twisted-ladder structure, dies aged 97](https://www.theguardian.com/us-news/2025/nov/07/james-watson-scientist-dna-death)
-- [Revitalised England ready to reveal new attacking dimension against Fiji](https://www.theguardian.com/sport/2025/nov/07/revitalised-england-ready-to-reveal-new-attacking-dimension-against-fiji)
-- [F1’s three-way title fight echoes the glorious battles of yesteryear](https://www.theguardian.com/sport/2025/nov/07/f1s-three-way-title-fight-echoes-the-glorious-battles-of-yesteryear)
+- [Trump news at a glance: President suggests scrapping Obamacare as shutdown flight chaos continues](https://www.theguardian.com/us-news/2025/nov/09/trump-news-at-a-glance-president-suggests-scrapping-obamacare-as-shutdown-flight-chaos-continues)
+- [South Africa surge back after De Jager sending-off to overpower France](https://www.theguardian.com/sport/2025/nov/08/france-south-africa-autumn-nations-series-rugby-union-match-report)
+- [Man charged with attempted murder after woman stabbed in neck in Birmingham](https://www.theguardian.com/uk-news/2025/nov/08/woman-stabbed-in-neck-in-unprovoked-attack-in-birmingham-city-centre)
+- [Russian missile attacks on Ukrainian energy facilities kill at least seven](https://www.theguardian.com/world/2025/nov/08/russia-ukraine-drone-missile-attacks-energy-infrastructure-casualties)
+- [Arteta frustrated and disappointed by Arsenal’s inability to see off Sunderland](https://www.theguardian.com/football/2025/nov/08/arteta-frustrated-disappointed-arsenal-sunderland)
+- [Freewheeling England play Fiji at their own game – and win in style | Andy Bull](https://www.theguardian.com/sport/2025/nov/08/england-fiji-autumn-nations-series-rugby-union)
+- [Syria carries out preemptive raids against Islamic State](https://www.theguardian.com/world/2025/nov/08/syria-carries-out-preemptive-strikes-against-islamic-state)
+- [Car fleeing police slams into bar in Tampa, killing 4 people and injuring 11](https://www.theguardian.com/us-news/2025/nov/08/car-crash-tampa-bar)
+- [‘Environmental catastrophe’ fears as millions of plastic beads wash up on Camber Sands](https://www.theguardian.com/uk-news/2025/nov/08/environmental-catastrophe-fears-as-millions-of-plastic-beads-wash-up-on-camber-sands)
+- [Former Top Gear presenter Quentin Willson dies aged 68](https://www.theguardian.com/tv-and-radio/2025/nov/08/former-top-gear-presenter-quentin-willson-dies-aged-68)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

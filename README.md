@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Mathematical exploration and discovery at scale – Terence Tao et al.](https://arxiv.org/abs/2511.02864)
-- [Show HN: Geofenced chat communities anyone can create](https://vicinity.social/)
-- [A Turing complete language in TypeScript types](https://github.com/KaiStevenson/kai-script)
-- [Show HN: Xleak – Terminal Excel viewer with interactive TUI and search](https://github.com/bgreenwell/xleak)
-- [Tabloid: The Clickbait Headline Programming Language](https://tabloid.vercel.app/)
-- [Show HN: Sitemap Harvester – Extract metadata from any website&#39;s sitemap to CSV](https://github.com/meysam81/sitemap-harvester)
-- [Lessons from Alex Hormozi&#39;s $100M Book Launch](https://thewritetoroam.com/2025/11/lessons-from-alex-hormozis-100m-book-launch)
-- [Fear Is Coming Back to the Junk Bond Market](https://www.bloomberg.com/news/articles/2025-11-08/fear-is-coming-back-to-the-junk-bond-market-credit-weekly)
-- [What a leaked transcript reveals about China&#39;s muscular statecraft](https://www.economist.com/china/2025/11/06/what-a-leaked-transcript-reveals-about-chinas-muscular-statecraft)
-- [I don&#39;t love Rust &lpar;either&rpar;](https://cbarrete.com/rust-bad.html)
+- [Imgui-react-runtime: natively compiled apps with React+JavaScript+Dear ImGui](https://github.com/tmikov/imgui-react-runtime)
+- [The Anti Code of Conduct](https://github.com/QueueSevenM/AntiCoC)
+- [Show HN: AI Content Rewriter – one-line embeddable widget &lpar;open-source&rpar;](https://github.com/ankurclub/ai-content-rewriter)
+- [Having Fun with Java Reflection and Modules](https://blog.ptidej.net/having-fun-with-java-reflection-and-modules/)
+- [When Enforcing Copyright Starts Breaking the Internet&#39;s Plumbing](https://quad9.net/news/blog/when-enforcing-copyright-starts-breaking-the-internets-plumbing/)
+- [A software synthesizer modellled on Yevgeny Murzin&#39;s ANS synthesizer](https://github.com/frankenbeans/MZ2SYNTH)
+- [Feeling Great About the Economy? You Must Own Stocks](https://www.wsj.com/economy/consumers/economy-sentiment-stock-market-investors-2eb1e772)
+- [Linux Privilege Escalation reference for all things](https://github.com/ThatTotallyRealMyth/LinuxPrivEsc)
+- [Chinese Takeout Menu [video]](https://www.youtube.com/watch?v=ofkdTv39hyw)
+- [Yuzu Switch Emulator Is Over](https://wololo.net/2024/03/05/yuzu-is-over/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

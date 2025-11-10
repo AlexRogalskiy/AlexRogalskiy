@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Trump news at a glance: President suggests scrapping Obamacare as shutdown flight chaos continues](https://www.theguardian.com/us-news/2025/nov/09/trump-news-at-a-glance-president-suggests-scrapping-obamacare-as-shutdown-flight-chaos-continues)
-- [South Africa surge back after De Jager sending-off to overpower France](https://www.theguardian.com/sport/2025/nov/08/france-south-africa-autumn-nations-series-rugby-union-match-report)
-- [Man charged with attempted murder after woman stabbed in neck in Birmingham](https://www.theguardian.com/uk-news/2025/nov/08/woman-stabbed-in-neck-in-unprovoked-attack-in-birmingham-city-centre)
-- [Russian missile attacks on Ukrainian energy facilities kill at least seven](https://www.theguardian.com/world/2025/nov/08/russia-ukraine-drone-missile-attacks-energy-infrastructure-casualties)
-- [Arteta frustrated and disappointed by Arsenal’s inability to see off Sunderland](https://www.theguardian.com/football/2025/nov/08/arteta-frustrated-disappointed-arsenal-sunderland)
-- [Freewheeling England play Fiji at their own game – and win in style | Andy Bull](https://www.theguardian.com/sport/2025/nov/08/england-fiji-autumn-nations-series-rugby-union)
-- [Syria carries out preemptive raids against Islamic State](https://www.theguardian.com/world/2025/nov/08/syria-carries-out-preemptive-strikes-against-islamic-state)
-- [Car fleeing police slams into bar in Tampa, killing 4 people and injuring 11](https://www.theguardian.com/us-news/2025/nov/08/car-crash-tampa-bar)
-- [‘Environmental catastrophe’ fears as millions of plastic beads wash up on Camber Sands](https://www.theguardian.com/uk-news/2025/nov/08/environmental-catastrophe-fears-as-millions-of-plastic-beads-wash-up-on-camber-sands)
-- [Former Top Gear presenter Quentin Willson dies aged 68](https://www.theguardian.com/tv-and-radio/2025/nov/08/former-top-gear-presenter-quentin-willson-dies-aged-68)
+- [US Senate vote marks step towards ending federal shutdown](https://www.theguardian.com/us-news/2025/nov/09/senate-moves-vote-federal-government-shutdown)
+- [Ukraine war briefing: Lavrov reappears, ready to offer Marco Rubio same demands](https://www.theguardian.com/world/2025/nov/10/ukraine-war-briefing-lavrov-reappears-ready-to-offer-marco-rubio-same-demands)
+- [Who is ‘fedora man’? Dapper French teenager in viral Louvre heist photo unmasked](https://www.theguardian.com/world/2025/nov/10/fedora-man-louvre-photo-pedro-elias-garzon-delvaux)
+- [England fan’s life ban for ugly Lord’s clash with Australian team may be overturned](https://www.theguardian.com/sport/2025/nov/10/mcc-members-lords-life-ban-england-australia-ashes-test)
+- [Maggots in the meals, glass in the rice: Indonesia’s free school meals tainted by food poisoning](https://www.theguardian.com/world/2025/nov/10/maggots-in-the-tempeh-glass-in-the-rice-indonesias-free-school-meals-tainted-by-food-poisoning)
+- [No link between paracetamol in pregnancy and autism or ADHD in children, review finds](https://www.theguardian.com/lifeandstyle/2025/nov/10/no-link-between-paracetamol-tylenol-in-pregnancy-and-autism-or-adhd-in-children-review-finds)
+- [Girl, 17, joins lawsuit against government after seeing horrific phone videos at school](https://www.theguardian.com/education/2025/nov/10/girl-17-joins-lawsuit-against-government-after-seeing-horrific-phone-videos-at-school)
+- [Growth in global demand for ‘green’ office buildings slows amid Trump policies](https://www.theguardian.com/business/2025/nov/10/growth-in-global-demand-for-green-office-buildings-slows-amid-trump-policies)
+- [Twice as effective as nets: shark-spotting drones to become ‘permanent fixture’ on Queensland beaches](https://www.theguardian.com/environment/2025/nov/10/twice-as-effective-as-nets-shark-spotting-drones-to-become-permanent-fixture-on-queensland-beaches)
+- [Climate disasters displaced 250 million people in past 10 years, UN report finds](https://www.theguardian.com/environment/2025/nov/09/climate-disasters-displaced-250-million-people-in-past-10-years-un-report-finds)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

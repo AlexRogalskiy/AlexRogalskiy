@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Tabloid: The Clickbait Headline Programming Language](https://tabloid.vercel.app/)
-- [He Chunhui&#39;s Tiny386 Turns an ESP32-S3 into a Fully-Functional 386-Powered PC](https://www.hackster.io/news/he-chunhui-s-tiny386-turns-the-humble-esp32-s3-into-a-fully-functional-386-powered-desktop-pc-5454cf6e36a1)
-- [Judge says Education Dept partisan out-of-office emails violated First Amendment](https://www.npr.org/2025/11/08/nx-s1-5602859/education-department-out-of-office-emails-ruling)
-- [Court Judge Rules Flock Safety camera data is not exempt from PRA [WA State]](https://www.goskagit.com/news/local_news/court-denies-request-that-it-find-flock-safety-camera-data-is-exempt-from-public-records/article_f1edd028-d242-479c-ada8-f2dfca73a1b1.html)
-- [Judge denies request to exempt Flock footage from Public Records Act](https://www.heraldnet.com/news/judge-denies-request-to-exempt-flock-footage-from-public-records-act/)
-- [Humanity&#39;s Endgame](https://www.noemamag.com/humanitys-endgame/)
-- [OpenAI: Our new model GPT-5-Codex-Mini – a more cost-efficient GPT-5-Codex](https://github.com/openai/codex/releases/tag/rust-v0.56.0)
-- [Ironclad – formally verified, real-time capable, Unix-like OS kernel](https://ironclad-os.org/)
-- [IP blocking the UK is not enough to comply with the Online Safety Act](https://prestonbyrne.com/2025/11/06/the-ofcom-files-part-2-ip-blocking-the-uk-is-not-enough-to-comply-with-the-online-safety-act/)
-- [Debugging BeagleBoard USB boot with a sniffer: fixing omap_loader on modern PCs](https://www.downtowndougbrown.com/2025/11/debugging-beagleboard-usb-boot-with-a-sniffer-fixing-omap_loader-on-modern-pcs/)
+- [How the UK lost its shipbuilding industry](https://www.construction-physics.com/p/how-the-uk-lost-its-shipbuilding)
+- [How to maintain good vision amidst the myopia epidemic](https://ssathe.substack.com/p/vision-in-the-digital-age)
+- [My Git history was a mess of &#39;update&#39; and &#39;fix&#39; – so I made AI clean it up](https://github.com/f/git-rewrite-commits)
+- [Iran faces unprecedented drought as water crisis hits Tehran](https://www.bbc.com/news/articles/cy4p2yzmem0o)
+- [Show HN: DroidDock – A sleek macOS app for browsing Android device files via ADB](https://rajivm1991.github.io/DroidDock/)
+- [Work after work: Notes from an unemployed new grad watching the job market break](https://urlahmed.com/2025/11/05/work-after-work-notes-from-an-unemployed-new-grad-watching-the-job-market-break/)
+- [Sued by Nintendo](https://www.suedbynintendo.com/)
+- [Show HN: Trilogy Studio, open-source browser-based SQL editor and visualizer](https://trilogydata.dev/trilogy-studio-core/#screen=dashboard-import&import=https%3A%2F%2Ftrilogy-data.github.io%2Ftrilogy-public-models%2Fstudio%2Fdemo-model.json&dashboard=demo_dashboard&modelName=demo-model&connection=duckdb)
+- [Metabolic and cellular differences between sedentary and active individuals](https://howardluksmd.substack.com/p/if-youre-not-active-youre-sick-you)
+- [Ask HN: What Are You Working On? &lpar;Nov 2025&rpar;](https://news.ycombinator.com/item?id=45869146)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [How the UK lost its shipbuilding industry](https://www.construction-physics.com/p/how-the-uk-lost-its-shipbuilding)
-- [How to maintain good vision amidst the myopia epidemic](https://ssathe.substack.com/p/vision-in-the-digital-age)
-- [My Git history was a mess of &#39;update&#39; and &#39;fix&#39; – so I made AI clean it up](https://github.com/f/git-rewrite-commits)
-- [Iran faces unprecedented drought as water crisis hits Tehran](https://www.bbc.com/news/articles/cy4p2yzmem0o)
-- [Show HN: DroidDock – A sleek macOS app for browsing Android device files via ADB](https://rajivm1991.github.io/DroidDock/)
-- [Work after work: Notes from an unemployed new grad watching the job market break](https://urlahmed.com/2025/11/05/work-after-work-notes-from-an-unemployed-new-grad-watching-the-job-market-break/)
-- [Sued by Nintendo](https://www.suedbynintendo.com/)
-- [Show HN: Trilogy Studio, open-source browser-based SQL editor and visualizer](https://trilogydata.dev/trilogy-studio-core/#screen=dashboard-import&import=https%3A%2F%2Ftrilogy-data.github.io%2Ftrilogy-public-models%2Fstudio%2Fdemo-model.json&dashboard=demo_dashboard&modelName=demo-model&connection=duckdb)
-- [Metabolic and cellular differences between sedentary and active individuals](https://howardluksmd.substack.com/p/if-youre-not-active-youre-sick-you)
-- [Ask HN: What Are You Working On? &lpar;Nov 2025&rpar;](https://news.ycombinator.com/item?id=45869146)
+- [Virginia Teen Narrowly Defeats His Former Civics Teacher in County Election](https://www.nytimes.com/2025/11/07/us/politics/surry-county-virginia-supervisor-election.html)
+- [I hate screenshots of text](https://parkscomputing.com/page/i-hate-screenshots-of-text)
+- [Show HN: A free Instagram story viewer that lets you watch anonymously](https://instagram-story-viewer.org)
+- [Warren Buffett&#39;s final shareholder letter [pdf]](https://berkshirehathaway.com/news/nov1025.pdf)
+- [Neros has raised $121M to build military drones](https://www.nytimes.com/2025/11/10/business/neros-military-drones.html)
+- [Toucan Wireless Split Keyboard with Touchpad](https://shop.beekeeb.com/products/toucan-wireless-piantor-wireless-split-keyboard-with-touchpad)
+- [What caused performance issues in my tiny RPG](https://jslegenddev.substack.com/p/what-caused-performance-issues-in)
+- [High-performance 2D graphics rendering on the CPU using sparse strips [pdf]](https://github.com/LaurenzV/master-thesis/blob/main/main.pdf)
+- [Linux in a Pixel Shader – A RISC-V Emulator for VRChat](https://blog.pimaker.at/texts/rvc1/)
+- [Zeroing in on Zero-Point Motion Inside a Crystal](https://physics.aps.org/articles/v18/178)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Imgui-react-runtime: natively compiled apps with React+JavaScript+Dear ImGui](https://github.com/tmikov/imgui-react-runtime)
-- [The Anti Code of Conduct](https://github.com/QueueSevenM/AntiCoC)
-- [Show HN: AI Content Rewriter – one-line embeddable widget &lpar;open-source&rpar;](https://github.com/ankurclub/ai-content-rewriter)
-- [Having Fun with Java Reflection and Modules](https://blog.ptidej.net/having-fun-with-java-reflection-and-modules/)
-- [When Enforcing Copyright Starts Breaking the Internet&#39;s Plumbing](https://quad9.net/news/blog/when-enforcing-copyright-starts-breaking-the-internets-plumbing/)
-- [A software synthesizer modellled on Yevgeny Murzin&#39;s ANS synthesizer](https://github.com/frankenbeans/MZ2SYNTH)
-- [Feeling Great About the Economy? You Must Own Stocks](https://www.wsj.com/economy/consumers/economy-sentiment-stock-market-investors-2eb1e772)
-- [Linux Privilege Escalation reference for all things](https://github.com/ThatTotallyRealMyth/LinuxPrivEsc)
-- [Chinese Takeout Menu [video]](https://www.youtube.com/watch?v=ofkdTv39hyw)
-- [Yuzu Switch Emulator Is Over](https://wololo.net/2024/03/05/yuzu-is-over/)
+- [The Definitive Classic Mac Pro &lpar;2006-2012&rpar; Upgrade Guide](https://blog.greggant.com/posts/2018/05/07/definitive-mac-pro-upgrade-guide.html)
+- [Natural Language, Semantic Analysis, and Interactive Fiction &lpar;2006&rpar; [pdf]](https://worrydream.com/refs/Nelson_G_2006_-_Natural_Language,_Semantic_Analysis_and_Interactive_Fiction.pdf)
+- [Show HN: Data Modeling Ancient Chinese Logic &lpar;Bazi/Ziwei Doushu&rpar; with AI](https://suanmingzhun.com)
+- [Precision Spindle Metrology Pt.1: Fundamental Concepts [video]](https://www.youtube.com/watch?v=gt2gK-oxy5s)
+- [State of Crypto](https://stateofcrypto.a16zcrypto.com/)
+- [Branches influence the performance of your code and what can you do about it](https://johnnysswlab.com/how-branches-influence-the-performance-of-your-code-and-what-can-you-do-about-it/)
+- [Lloyd&#39;s Open Form](https://en.wikipedia.org/wiki/Lloyd%27s_Open_Form)
+- [Is Fast Charging Killing the Battery? A 2-Year Test on 40 Phones [video]](https://www.youtube.com/watch?v=kLS5Cg_yNdM)
+- [A Couple of Cool Neurotech Companies](https://thelightcone.substack.com/p/a-couple-of-cool-neurotech-companies)
+- [We built a black box X-Ray for AI Agents](https://devhunt.org/tool/agent-compass-by-future-agi)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

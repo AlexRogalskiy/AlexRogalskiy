@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [US Senate vote marks step towards ending federal shutdown](https://www.theguardian.com/us-news/2025/nov/09/senate-moves-vote-federal-government-shutdown)
-- [Ukraine war briefing: Lavrov reappears, ready to offer Marco Rubio same demands](https://www.theguardian.com/world/2025/nov/10/ukraine-war-briefing-lavrov-reappears-ready-to-offer-marco-rubio-same-demands)
-- [Who is ‘fedora man’? Dapper French teenager in viral Louvre heist photo unmasked](https://www.theguardian.com/world/2025/nov/10/fedora-man-louvre-photo-pedro-elias-garzon-delvaux)
-- [England fan’s life ban for ugly Lord’s clash with Australian team may be overturned](https://www.theguardian.com/sport/2025/nov/10/mcc-members-lords-life-ban-england-australia-ashes-test)
-- [Maggots in the meals, glass in the rice: Indonesia’s free school meals tainted by food poisoning](https://www.theguardian.com/world/2025/nov/10/maggots-in-the-tempeh-glass-in-the-rice-indonesias-free-school-meals-tainted-by-food-poisoning)
-- [No link between paracetamol in pregnancy and autism or ADHD in children, review finds](https://www.theguardian.com/lifeandstyle/2025/nov/10/no-link-between-paracetamol-tylenol-in-pregnancy-and-autism-or-adhd-in-children-review-finds)
-- [Girl, 17, joins lawsuit against government after seeing horrific phone videos at school](https://www.theguardian.com/education/2025/nov/10/girl-17-joins-lawsuit-against-government-after-seeing-horrific-phone-videos-at-school)
-- [Growth in global demand for ‘green’ office buildings slows amid Trump policies](https://www.theguardian.com/business/2025/nov/10/growth-in-global-demand-for-green-office-buildings-slows-amid-trump-policies)
-- [Twice as effective as nets: shark-spotting drones to become ‘permanent fixture’ on Queensland beaches](https://www.theguardian.com/environment/2025/nov/10/twice-as-effective-as-nets-shark-spotting-drones-to-become-permanent-fixture-on-queensland-beaches)
-- [Climate disasters displaced 250 million people in past 10 years, UN report finds](https://www.theguardian.com/environment/2025/nov/09/climate-disasters-displaced-250-million-people-in-past-10-years-un-report-finds)
+- [Canada no longer measles-free as outbreaks spread](https://www.theguardian.com/world/2025/nov/11/canada-loses-measles-free-elimination-status)
+- [Senate advances funding package expected to end longest US government shutdown](https://www.theguardian.com/us-news/2025/nov/10/senate-approves-funding-package-government-shutdown)
+- [Oscar Isaac says he would only do Star Wars again if Disney doesn’t ‘succumb to fascism’](https://www.theguardian.com/film/2025/nov/11/oscar-isaac-disney-fascism)
+- [Trump-brokered peace deal between Thailand and Cambodia breaks down after border landmine blast](https://www.theguardian.com/world/2025/nov/11/thailand-cambodia-trump-peace-deal-suspended)
+- [‘Success is shutting them down’: Met police in fight against illegal vape and phone shops](https://www.theguardian.com/uk-news/2025/nov/11/success-is-shutting-them-down-met-police-in-fight-against-vape-and-phone-shops)
+- [NHS staff who visit patients at home say St George’s flags can mean ‘no-go zones’](https://www.theguardian.com/society/2025/nov/11/nhs-staff-who-visit-patients-at-home-say-st-georges-flags-can-mean-no-go-zones)
+- [China’s CO2 emissions have been flat or falling for past 18 months, analysis finds](https://www.theguardian.com/world/2025/nov/11/china-co2-emissions-flat-or-falling-for-past-18-months-analysis-finds)
+- [UK retail sales growth slows as shoppers await Black Friday and budget](https://www.theguardian.com/business/2025/nov/11/uk-retail-sales-growth-black-friday-budget-brc-barclays)
+- [England’s children’s commissioner calls for closure of young offender institutions](https://www.theguardian.com/society/2025/nov/11/england-children-commissioner-rachel-de-souza-calls-for-closure-of-young-offender-institutions)
+- [Councillors in England face suspensions for misconduct as part of government overhaul](https://www.theguardian.com/society/2025/nov/11/councillors-in-england-face-suspensions-for-misconduct-as-part-of-government-overhaul)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

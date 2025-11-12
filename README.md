@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Definitive Classic Mac Pro &lpar;2006-2012&rpar; Upgrade Guide](https://blog.greggant.com/posts/2018/05/07/definitive-mac-pro-upgrade-guide.html)
-- [Natural Language, Semantic Analysis, and Interactive Fiction &lpar;2006&rpar; [pdf]](https://worrydream.com/refs/Nelson_G_2006_-_Natural_Language,_Semantic_Analysis_and_Interactive_Fiction.pdf)
-- [Show HN: Data Modeling Ancient Chinese Logic &lpar;Bazi/Ziwei Doushu&rpar; with AI](https://suanmingzhun.com)
-- [Precision Spindle Metrology Pt.1: Fundamental Concepts [video]](https://www.youtube.com/watch?v=gt2gK-oxy5s)
-- [State of Crypto](https://stateofcrypto.a16zcrypto.com/)
-- [Branches influence the performance of your code and what can you do about it](https://johnnysswlab.com/how-branches-influence-the-performance-of-your-code-and-what-can-you-do-about-it/)
-- [Lloyd&#39;s Open Form](https://en.wikipedia.org/wiki/Lloyd%27s_Open_Form)
-- [Is Fast Charging Killing the Battery? A 2-Year Test on 40 Phones [video]](https://www.youtube.com/watch?v=kLS5Cg_yNdM)
-- [A Couple of Cool Neurotech Companies](https://thelightcone.substack.com/p/a-couple-of-cool-neurotech-companies)
-- [We built a black box X-Ray for AI Agents](https://devhunt.org/tool/agent-compass-by-future-agi)
+- [Aircraft carrier strike group joins campaign against drug cartels](https://abcnews.go.com/Politics/us-aircraft-carrier-strike-group-joins-trumps-campaign/story?id=127419946)
+- [DeepSeek&#39;s Jobpocalypse Warning Is Bad News for Beijing](https://www.bloomberg.com/opinion/articles/2025-11-11/deepseek-s-jobpocalypse-warning-is-bad-news-for-beijing)
+- [Guide to the &lpar;Evolving&rpar; Enterprise Architecture Body of Knowledge](https://www.mitre.org/news-insights/publication/guide-evolving-enterprise-architecture-body-knowledge)
+- [Visual Studio 2026 Release Notes](https://learn.microsoft.com/en-us/visualstudio/releases/2026/release-notes)
+- [What if the AI race isn&#39;t about chips at all?](https://www.ft.com/content/e4c9ac58-d64e-487a-b06d-e71be47f31c9)
+- [I Implement SSA Form](https://gist.github.com/pizlonator/cf1e72b8600b1437dda8153ea3fdb963)
+- [Show HN: Real-time 4D Julia set navigation via gamepad](https://banditcat.github.io/Atlas/Atlas.html)
+- [KnownSec breach: What we know so far](https://substack.com/inbox/post/178189244)
+- [Show HN: Zylo – AI &quot;Vibe-Coding&quot; system that builds websites from a prompt](https://www.myzylo.app)
+- [Israel begins pumping desalinated water into depleted Sea of Galilee](https://www.timesofisrael.com/in-world-first-israel-begins-pumping-desalinated-water-into-depleted-sea-of-galilee/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

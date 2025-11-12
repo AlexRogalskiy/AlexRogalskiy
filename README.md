@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Canada no longer measles-free as outbreaks spread](https://www.theguardian.com/world/2025/nov/11/canada-loses-measles-free-elimination-status)
-- [Senate advances funding package expected to end longest US government shutdown](https://www.theguardian.com/us-news/2025/nov/10/senate-approves-funding-package-government-shutdown)
-- [Oscar Isaac says he would only do Star Wars again if Disney doesn’t ‘succumb to fascism’](https://www.theguardian.com/film/2025/nov/11/oscar-isaac-disney-fascism)
-- [Trump-brokered peace deal between Thailand and Cambodia breaks down after border landmine blast](https://www.theguardian.com/world/2025/nov/11/thailand-cambodia-trump-peace-deal-suspended)
-- [‘Success is shutting them down’: Met police in fight against illegal vape and phone shops](https://www.theguardian.com/uk-news/2025/nov/11/success-is-shutting-them-down-met-police-in-fight-against-vape-and-phone-shops)
-- [NHS staff who visit patients at home say St George’s flags can mean ‘no-go zones’](https://www.theguardian.com/society/2025/nov/11/nhs-staff-who-visit-patients-at-home-say-st-georges-flags-can-mean-no-go-zones)
-- [China’s CO2 emissions have been flat or falling for past 18 months, analysis finds](https://www.theguardian.com/world/2025/nov/11/china-co2-emissions-flat-or-falling-for-past-18-months-analysis-finds)
-- [UK retail sales growth slows as shoppers await Black Friday and budget](https://www.theguardian.com/business/2025/nov/11/uk-retail-sales-growth-black-friday-budget-brc-barclays)
-- [England’s children’s commissioner calls for closure of young offender institutions](https://www.theguardian.com/society/2025/nov/11/england-children-commissioner-rachel-de-souza-calls-for-closure-of-young-offender-institutions)
-- [Councillors in England face suspensions for misconduct as part of government overhaul](https://www.theguardian.com/society/2025/nov/11/councillors-in-england-face-suspensions-for-misconduct-as-part-of-government-overhaul)
+- [Trump news at a glance: Top House Democrats vow to oppose shutdown bill after splinter group disappoints](https://www.theguardian.com/us-news/2025/nov/11/trump-administration-news-updates-today)
+- [Ukraine war briefing: Top banker’s straight talk to Putin over troubled economy](https://www.theguardian.com/world/2025/nov/12/ukraine-war-briefing-top-bankers-straight-talk-to-putin-over-troubled-economy)
+- [China sharpens its language on Taiwan as part of ‘longer-term’ strategy](https://www.theguardian.com/world/2025/nov/12/china-taiwan-statements-longer-term-strategy)
+- [Tussles break out between protesters and security at Cop30 in Brazil](https://www.theguardian.com/environment/2025/nov/12/tussles-break-out-between-protesters-and-security-at-cop30-in-brazil)
+- [British music industry adds record £8bn to UK economy, according to UK Music](https://www.theguardian.com/music/2025/nov/12/british-music-industry-adds-record-8bn-to-uk-economy-according-to-uk-music)
+- [Tech companies and UK child safety agencies to test AI tools’ ability to create abuse images](https://www.theguardian.com/technology/2025/nov/12/tech-companies-child-safety-agencies-test-ai-tools-abuse-images-ability)
+- [All schools in England to be given AI-generated pupil attendance targets](https://www.theguardian.com/education/2025/nov/12/all-schools-in-england-to-be-given-ai-generated-pupil-attendance-targets)
+- [Private care providers in three English regions make £250m in three years](https://www.theguardian.com/society/2025/nov/12/private-care-providers-in-three-english-regions-make-250m-in-three-years)
+- [‘Part of the joy economy’: adult buyers add to bumper year for toy sales](https://www.theguardian.com/business/2025/nov/12/part-of-the-joy-economy-adult-buyers-add-bumper-year-toy-sales)
+- [‘Sobering’ study reveals extent of bullying and mental health problems for children in Wales](https://www.theguardian.com/society/2025/nov/12/sobering-study-reveals-extent-of-bullying-and-mental-health-problems-for-children-in-wales)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

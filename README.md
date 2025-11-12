@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Virginia Teen Narrowly Defeats His Former Civics Teacher in County Election](https://www.nytimes.com/2025/11/07/us/politics/surry-county-virginia-supervisor-election.html)
-- [I hate screenshots of text](https://parkscomputing.com/page/i-hate-screenshots-of-text)
-- [Show HN: A free Instagram story viewer that lets you watch anonymously](https://instagram-story-viewer.org)
-- [Warren Buffett&#39;s final shareholder letter [pdf]](https://berkshirehathaway.com/news/nov1025.pdf)
-- [Neros has raised $121M to build military drones](https://www.nytimes.com/2025/11/10/business/neros-military-drones.html)
-- [Toucan Wireless Split Keyboard with Touchpad](https://shop.beekeeb.com/products/toucan-wireless-piantor-wireless-split-keyboard-with-touchpad)
-- [What caused performance issues in my tiny RPG](https://jslegenddev.substack.com/p/what-caused-performance-issues-in)
-- [High-performance 2D graphics rendering on the CPU using sparse strips [pdf]](https://github.com/LaurenzV/master-thesis/blob/main/main.pdf)
-- [Linux in a Pixel Shader – A RISC-V Emulator for VRChat](https://blog.pimaker.at/texts/rvc1/)
-- [Zeroing in on Zero-Point Motion Inside a Crystal](https://physics.aps.org/articles/v18/178)
+- [Why Nietzsche Matters in the Age of Artificial Intelligence](https://cacm.acm.org/blogcacm/why-nietzsche-matters-in-the-age-of-artificial-intelligence/)
+- [.NET MAUI is coming to Linux and the browser, powered by Avalonia](https://avaloniaui.net/blog/net-maui-is-coming-to-linux-and-the-browser-powered-by-avalonia)
+- [Four strange places to see London&#39;s Roman Wall](https://diamondgeezer.blogspot.com/2025/11/odd-places-to-see-londons-roman-wall.html)
+- [Heroku Support for .NET 10](https://www.heroku.com/blog/support-for-dotnet-10-lts-what-developers-need-know/)
+- [I didn&#39;t reverse-engineer the protocol for my blood pressure monitor in 24 hours](https://james.belchamber.com/articles/blood-pressure-monitor-reverse-engineering/)
+- [X5.1 solar flare, G4 geomagnetic storm watch](https://www.spaceweatherlive.com/en/news/view/593/20251111-x5-1-solar-flare-g4-geomagnetic-storm-watch.html)
+- [Meticulous &lpar;YC S21&rpar; is hiring to redefine software dev](https://jobs.ashbyhq.com/meticulous/3197ae3d-bb26-4750-9ed7-b830f640515e)
+- [Collaboration sucks](https://newsletter.posthog.com/p/collaboration-sucks)
+- [The terminal of the future](https://jyn.dev/the-terminal-of-the-future)
+- [Adk-go: code-first Go toolkit for building, evaluating, and deploying AI agents](https://github.com/google/adk-go)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

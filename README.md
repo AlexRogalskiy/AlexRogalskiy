@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Aircraft carrier strike group joins campaign against drug cartels](https://abcnews.go.com/Politics/us-aircraft-carrier-strike-group-joins-trumps-campaign/story?id=127419946)
-- [DeepSeek&#39;s Jobpocalypse Warning Is Bad News for Beijing](https://www.bloomberg.com/opinion/articles/2025-11-11/deepseek-s-jobpocalypse-warning-is-bad-news-for-beijing)
-- [Guide to the &lpar;Evolving&rpar; Enterprise Architecture Body of Knowledge](https://www.mitre.org/news-insights/publication/guide-evolving-enterprise-architecture-body-knowledge)
-- [Visual Studio 2026 Release Notes](https://learn.microsoft.com/en-us/visualstudio/releases/2026/release-notes)
-- [What if the AI race isn&#39;t about chips at all?](https://www.ft.com/content/e4c9ac58-d64e-487a-b06d-e71be47f31c9)
-- [I Implement SSA Form](https://gist.github.com/pizlonator/cf1e72b8600b1437dda8153ea3fdb963)
-- [Show HN: Real-time 4D Julia set navigation via gamepad](https://banditcat.github.io/Atlas/Atlas.html)
-- [KnownSec breach: What we know so far](https://substack.com/inbox/post/178189244)
-- [Show HN: Zylo – AI &quot;Vibe-Coding&quot; system that builds websites from a prompt](https://www.myzylo.app)
-- [Israel begins pumping desalinated water into depleted Sea of Galilee](https://www.timesofisrael.com/in-world-first-israel-begins-pumping-desalinated-water-into-depleted-sea-of-galilee/)
+- [A Commentary on the Sixth Edition Unix Operating System](https://warsus.github.io/lions-/)
+- [Live Coding Trance Music](https://www.instagram.com/reel/DQ4B7DNjeCt/)
+- [Show HN: Chess960v2 – Over 200 Rounds Played](https://chess960v2.com/en)
+- [&#39;Chad: The Brainrot IDE&#39; is a YC-backed product people thought was fake](https://techcrunch.com/2025/11/12/chad-the-brainrot-ide-is-a-new-y-combinator-backed-product-so-wild-people-thought-it-was-fake/)
+- [Show HN: My Tattoo Ideas – AI tattoo generator with body placement previews](https://mytattooideas.ai/)
+- [Show HN: I made an open-source Rust program for memory-efficient genomics](https://github.com/logannye/rosalind)
+- [AI&#39;s true impact will become apparent in the coming year](https://www.economist.com/the-world-ahead/2025/11/10/ais-true-impact-will-become-apparent-in-the-coming-year)
+- [The Witchcraft Compiler Collection](https://github.com/endrazine/wcc)
+- [The art of &lpar;VM&rpar; firmware logging](https://www.kraxel.org/blog/2025/10/firmware-logging/)
+- [Show HN: Chime – Full-screen meeting alerts for time blindess &lpar;macOS&rpar;](https://www.usechime.app/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

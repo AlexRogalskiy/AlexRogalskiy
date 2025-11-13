@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Trump news at a glance: Top House Democrats vow to oppose shutdown bill after splinter group disappoints](https://www.theguardian.com/us-news/2025/nov/11/trump-administration-news-updates-today)
-- [Ukraine war briefing: Top banker’s straight talk to Putin over troubled economy](https://www.theguardian.com/world/2025/nov/12/ukraine-war-briefing-top-bankers-straight-talk-to-putin-over-troubled-economy)
-- [China sharpens its language on Taiwan as part of ‘longer-term’ strategy](https://www.theguardian.com/world/2025/nov/12/china-taiwan-statements-longer-term-strategy)
-- [Tussles break out between protesters and security at Cop30 in Brazil](https://www.theguardian.com/environment/2025/nov/12/tussles-break-out-between-protesters-and-security-at-cop30-in-brazil)
-- [British music industry adds record £8bn to UK economy, according to UK Music](https://www.theguardian.com/music/2025/nov/12/british-music-industry-adds-record-8bn-to-uk-economy-according-to-uk-music)
-- [Tech companies and UK child safety agencies to test AI tools’ ability to create abuse images](https://www.theguardian.com/technology/2025/nov/12/tech-companies-child-safety-agencies-test-ai-tools-abuse-images-ability)
-- [All schools in England to be given AI-generated pupil attendance targets](https://www.theguardian.com/education/2025/nov/12/all-schools-in-england-to-be-given-ai-generated-pupil-attendance-targets)
-- [Private care providers in three English regions make £250m in three years](https://www.theguardian.com/society/2025/nov/12/private-care-providers-in-three-english-regions-make-250m-in-three-years)
-- [‘Part of the joy economy’: adult buyers add to bumper year for toy sales](https://www.theguardian.com/business/2025/nov/12/part-of-the-joy-economy-adult-buyers-add-bumper-year-toy-sales)
-- [‘Sobering’ study reveals extent of bullying and mental health problems for children in Wales](https://www.theguardian.com/society/2025/nov/12/sobering-study-reveals-extent-of-bullying-and-mental-health-problems-for-children-in-wales)
+- [James Van Der Beek to sell Dawson’s Creek ‘treasures’ to pay for cancer treatment](https://www.theguardian.com/tv-and-radio/2025/nov/12/james-van-der-beek-dawsons-creek-memorabilia)
+- [Alleged gambling kingpin linked to scam centres extradited from Thailand to China](https://www.theguardian.com/world/2025/nov/13/alleged-gambling-kingpin-she-zhijiang-extradited-thailand-china)
+- [Longest US government shutdown in history set to end after House passes bill](https://www.theguardian.com/us-news/2025/nov/12/house-bill-government-shutdown-vote)
+- [Ukraine war briefing: Fire sale of Lukoil assets before start of US sanctions on Russia](https://www.theguardian.com/world/2025/nov/13/ukraine-war-briefing-fire-sale-of-lukoil-assets-before-start-of-us-sanctions-on-russia)
+- [Deaths linked to antibiotic-resistant superbugs rose 17% in England in 2024](https://www.theguardian.com/society/2025/nov/13/deaths-linked-to-antibiotic-resistant-superbugs-rose-17-in-england-in-2024)
+- [Schools in England steer away special needs pupils, research finds](https://www.theguardian.com/education/2025/nov/13/schools-steer-away-special-needs-pupils-research-finds)
+- [US ‘disappointed’ that Rolls-Royce will build UK’s first small modular reactors](https://www.theguardian.com/environment/2025/nov/13/us-disappointed-that-rolls-royce-will-build-uks-first-small-modular-reactors)
+- [The Hunger Games: On Stage review – thundering fight to the death in a dazzling dystopia](https://www.theguardian.com/stage/2025/nov/13/the-hunger-games-on-stage-review-thundering-fight-to-the-death-in-a-dazzling-dystopia)
+- [World still on track for catastrophic 2.6C temperature rise, report finds](https://www.theguardian.com/environment/2025/nov/13/world-still-on-track-for-catastrophic-26c-temperature-rise-report-finds)
+- [Hybrid working could help get more disabled people into work, peers say](https://www.theguardian.com/business/2025/nov/13/hybrid-working-disabled-people-lords-committee)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

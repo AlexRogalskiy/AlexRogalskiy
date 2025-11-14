@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [My dad could still be alive, but he&#39;s not](https://www.jenn.site/my-dad-could-still-be-alive-but-hes-not/)
-- [Human Fovea Detector](https://www.shadertoy.com/view/4dsXzM)
-- [Google will allow users to sideload Android apps without verification](https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html)
-- [Louisiana Took Months to Sound Alarm Amid Whooping Cough Outbreak](https://undark.org/2025/11/11/louisiana-whooping-cough-slow/)
-- [Voyager 1 is a light-day away by November 2026](https://www.iflscience.com/on-november-13-2026-voyager-will-reach-one-full-light-day-away-from-earth-81432)
-- [Valve is about to win the console generation](https://xeiaso.net/blog/2025/valve-is-about-to-win-the-console-generation/)
-- [Marble: A Multimodal World Model](https://www.worldlabs.ai/blog/marble-world-model)
-- [Homebrew no longer allows bypassing Gatekeeper for unsigned/unnotarized software](https://github.com/Homebrew/brew/issues/20755)
-- [OmniAI &lpar;YC W24&rpar; Is Hiring Forward Deployed Engineers](https://www.ycombinator.com/companies/omniai/jobs/fuTMf2w-forward-deployed-engineer)
-- [Show HN: I built a platform where audiences fund debates between public thinkers](https://logosive.com)
+- [Why Fei-Fei Li and Yann LeCun Are Both Betting on &quot;World Models&quot;](https://entropytown.com/articles/2025-11-13-world-model-lecun-feifei-li/)
+- [How to Get a North Korea / Antarctica VPS](https://blog.lyc8503.net/en/post/asn-5-worldwide-servers/)
+- [Apple Mini Apps Partner Program](https://developer.apple.com/programs/mini-apps-partner/)
+- [The emergence and diversification of dog morphology](https://www.science.org/doi/10.1126/science.adt0995)
+- [Kubernetes Ingress Nginx is retiring](https://www.kubernetes.dev/blog/2025/11/12/ingress-nginx-retirement/)
+- [650GB of Data &lpar;Delta Lake on S3&rpar;. Polars vs. DuckDB vs. Daft vs. Spark](https://dataengineeringcentral.substack.com/p/650gb-of-data-delta-lake-on-s3-polars)
+- [Blue Origin lands New Glenn rocket booster on second try](https://techcrunch.com/2025/11/13/blue-origin-lands-new-glenn-rocket-booster-on-second-try/)
+- [OpenMANET Wi-Fi HaLow open-source project for Raspberry Pi–based MANET radios](https://openmanet.net/)
+- [Piramidal &lpar;YC W24&rpar; Hiring: Front End Engineer](https://www.ycombinator.com/companies/piramidal/jobs/i9yNX5s-front-end-engineer-user-interface)
+- [Show HN: DBOS Java – Postgres-Backed Durable Workflows](https://github.com/dbos-inc/dbos-transact-java)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

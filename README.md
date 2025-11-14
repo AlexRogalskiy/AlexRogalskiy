@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [James Van Der Beek to sell Dawson’s Creek ‘treasures’ to pay for cancer treatment](https://www.theguardian.com/tv-and-radio/2025/nov/12/james-van-der-beek-dawsons-creek-memorabilia)
-- [Alleged gambling kingpin linked to scam centres extradited from Thailand to China](https://www.theguardian.com/world/2025/nov/13/alleged-gambling-kingpin-she-zhijiang-extradited-thailand-china)
-- [Longest US government shutdown in history set to end after House passes bill](https://www.theguardian.com/us-news/2025/nov/12/house-bill-government-shutdown-vote)
-- [Ukraine war briefing: Fire sale of Lukoil assets before start of US sanctions on Russia](https://www.theguardian.com/world/2025/nov/13/ukraine-war-briefing-fire-sale-of-lukoil-assets-before-start-of-us-sanctions-on-russia)
-- [Deaths linked to antibiotic-resistant superbugs rose 17% in England in 2024](https://www.theguardian.com/society/2025/nov/13/deaths-linked-to-antibiotic-resistant-superbugs-rose-17-in-england-in-2024)
-- [Schools in England steer away special needs pupils, research finds](https://www.theguardian.com/education/2025/nov/13/schools-steer-away-special-needs-pupils-research-finds)
-- [US ‘disappointed’ that Rolls-Royce will build UK’s first small modular reactors](https://www.theguardian.com/environment/2025/nov/13/us-disappointed-that-rolls-royce-will-build-uks-first-small-modular-reactors)
-- [The Hunger Games: On Stage review – thundering fight to the death in a dazzling dystopia](https://www.theguardian.com/stage/2025/nov/13/the-hunger-games-on-stage-review-thundering-fight-to-the-death-in-a-dazzling-dystopia)
-- [World still on track for catastrophic 2.6C temperature rise, report finds](https://www.theguardian.com/environment/2025/nov/13/world-still-on-track-for-catastrophic-26c-temperature-rise-report-finds)
-- [Hybrid working could help get more disabled people into work, peers say](https://www.theguardian.com/business/2025/nov/13/hybrid-working-disabled-people-lords-committee)
+- [The great escape: seal flees killer whales by jumping on to photographer’s boat](https://www.theguardian.com/environment/2025/nov/13/seal-killer-whale-hunt)
+- [Ukraine war briefing: Flamingo flies into battle, Zelenskyy defers to commanders over Pokrovsk](https://www.theguardian.com/world/2025/nov/14/ukraine-war-briefing-flamingo-flies-into-battle-zelenskyy-defers-to-commanders-over-pokrovsk)
+- [Slow-vakia? Law setting speed limits for cyclists, skaters derided in Bratislava](https://www.theguardian.com/world/2025/nov/14/slovakia-cyclists-speed-limit-bicycle-bratislava-footpath)
+- [Lanlan Yang pleads not guilty to all charges over crash of $1.5m Rolls Royce SUV in Sydney’s east](https://www.theguardian.com/australia-news/2025/nov/14/lanlan-yang-high-profile-sydney-chinese-woman-pleads-not-guilty-rolls-royce-crash-rose-bay-ntwnfb)
+- [Rachel Reeves to abandon plans to raise income tax rates in budget](https://www.theguardian.com/uk-news/2025/nov/14/rachel-reeves-to-abandon-plans-to-raise-income-tax-rates-in-budget)
+- [Rare bronze and iron age log boats reveal details of Cambridgeshire prehistory](https://www.theguardian.com/science/2025/nov/14/rare-iron-bronze-age-log-boat-cambridgeshire-archaeology-history)
+- [Jeff Bezos’s Blue Origin launches rocket carrying twin Nasa spacecraft to Mars](https://www.theguardian.com/science/2025/nov/13/jeff-bezos-blue-origin-nasa-spacecraft-new-glenn-mars)
+- [Donald Trump’s granddaughter Kai in last after 83 in shaky LPGA debut](https://www.theguardian.com/sport/2025/nov/13/kai-trump-golf-round-the-annika-lpga-debut-controversy)
+- [New AI tool could cut wasted efforts to transplant organs by 60%](https://www.theguardian.com/society/2025/nov/13/new-ai-tool-could-cut-wasted-efforts-to-transplant-organs-by-60)
+- [World Cup 2026 qualifying roundup: Ronaldo sent off in Portugal defeat by Republic of Ireland](https://www.theguardian.com/football/2025/nov/13/world-cup-2026-qualifying-roundup-norway-estonia-republic-of-ireland-portugal-moldova-italy)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

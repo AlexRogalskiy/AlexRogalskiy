@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [A Commentary on the Sixth Edition Unix Operating System](https://warsus.github.io/lions-/)
-- [Live Coding Trance Music](https://www.instagram.com/reel/DQ4B7DNjeCt/)
-- [Show HN: Chess960v2 – Over 200 Rounds Played](https://chess960v2.com/en)
-- [&#39;Chad: The Brainrot IDE&#39; is a YC-backed product people thought was fake](https://techcrunch.com/2025/11/12/chad-the-brainrot-ide-is-a-new-y-combinator-backed-product-so-wild-people-thought-it-was-fake/)
-- [Show HN: My Tattoo Ideas – AI tattoo generator with body placement previews](https://mytattooideas.ai/)
-- [Show HN: I made an open-source Rust program for memory-efficient genomics](https://github.com/logannye/rosalind)
-- [AI&#39;s true impact will become apparent in the coming year](https://www.economist.com/the-world-ahead/2025/11/10/ais-true-impact-will-become-apparent-in-the-coming-year)
-- [The Witchcraft Compiler Collection](https://github.com/endrazine/wcc)
-- [The art of &lpar;VM&rpar; firmware logging](https://www.kraxel.org/blog/2025/10/firmware-logging/)
-- [Show HN: Chime – Full-screen meeting alerts for time blindess &lpar;macOS&rpar;](https://www.usechime.app/)
+- [The Value of Personalized Recommendations](https://arxiv.org/abs/2511.07280)
+- [AI-powered humanoid robot demo [video]](https://www.youtube.com/shorts/xPE7JIWjryQ)
+- [Why do voice transcription apps charge monthly when Whisper runs locally?](https://www.lucidvoice.app/)
+- [Proctorio Dismisses All Claims Against Critic Ian Linkletter, Lawsuit Now Closed](https://linkletter.org/update-33-the-lawsuit-is-over/)
+- [Why Fei-Fei Li and Yann LeCun Are Both Betting on &quot;World Models&quot;](https://entropytown.com/articles/2025-11-13-world-model-lecun-feifei-li/)
+- [Understanding Recursion Fundamentals](https://leandronsp.com/articles/understanding-recursion-fundamentals)
+- [Ketchup AI Image Editor and Generator](https://ketchupai.ai)
+- [The teenage David Bowie was already a rebel](https://www.bbc.com/culture/article/20251107-why-the-teenage-david-bowie-was-already-a-rebel)
+- [Teaching large language models how to absorb new knowledge](https://news.mit.edu/2025/teaching-large-language-models-to-absorb-new-knowledge-1112)
+- [HipKittens: Fast and Furious AMD Kernels](https://hazyresearch.stanford.edu/blog/2025-11-09-hk)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

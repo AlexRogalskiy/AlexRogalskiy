@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Value of Personalized Recommendations](https://arxiv.org/abs/2511.07280)
-- [AI-powered humanoid robot demo [video]](https://www.youtube.com/shorts/xPE7JIWjryQ)
-- [Why do voice transcription apps charge monthly when Whisper runs locally?](https://www.lucidvoice.app/)
-- [Proctorio Dismisses All Claims Against Critic Ian Linkletter, Lawsuit Now Closed](https://linkletter.org/update-33-the-lawsuit-is-over/)
-- [Why Fei-Fei Li and Yann LeCun Are Both Betting on &quot;World Models&quot;](https://entropytown.com/articles/2025-11-13-world-model-lecun-feifei-li/)
-- [Understanding Recursion Fundamentals](https://leandronsp.com/articles/understanding-recursion-fundamentals)
-- [Ketchup AI Image Editor and Generator](https://ketchupai.ai)
-- [The teenage David Bowie was already a rebel](https://www.bbc.com/culture/article/20251107-why-the-teenage-david-bowie-was-already-a-rebel)
-- [Teaching large language models how to absorb new knowledge](https://news.mit.edu/2025/teaching-large-language-models-to-absorb-new-knowledge-1112)
-- [HipKittens: Fast and Furious AMD Kernels](https://hazyresearch.stanford.edu/blog/2025-11-09-hk)
+- [What is the most beautiful / highest quality code you&#39;ve seen &lpar;or written&rpar;?](https://news.ycombinator.com/item?id=45934669)
+- [Vortex: An extensible, state of the art columnar file format](https://github.com/vortex-data/vortex)
+- [Green AI – Do you care?](https://christopher-helm.com/green-ai-oder-ki-im-stromsparmodus/)
+- [How to Test Computer RAM: Tools for Memory Testing](https://www.buysellram.com/blog/how-to-test-computer-ram-tools-for-memory-testing/)
+- [The Exponential Rise of Global Solar Power](https://oilprice.com/Alternative-Energy/Solar-Energy/The-Exponential-Rise-of-Global-Solar-Power.html)
+- [Show HN: ThinkReview open source browser Copilot GitLab and ADO PRs&lpar;Ollama&rpar;](https://github.com/Thinkode/thinkreview-browser-extension)
+- [Show HN: UnisonDB – B+Tree DB with sub-second replication to 100+ nodes](https://github.com/ankur-anand/unisondb)
+- [I ate bear fat with honey and salt flakes, to prove a point](https://www.lesswrong.com/posts/2pKiXR6X7wdt8eFX5/i-ate-bear-fat-with-honey-and-salt-flakes-to-prove-a-point)
+- [Samsung&#39;s 60% DRAM Price Hike Signals a New Phase of Global Memory Tightening](https://www.buysellram.com/blog/samsungs-memory-price-surge-sends-shockwaves-through-the-global-dram-market/)
+- [ProofMode – Video Authenticity Standard](https://divine.video/proofmode)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

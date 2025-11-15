@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [The great escape: seal flees killer whales by jumping on to photographer’s boat](https://www.theguardian.com/environment/2025/nov/13/seal-killer-whale-hunt)
-- [Ukraine war briefing: Flamingo flies into battle, Zelenskyy defers to commanders over Pokrovsk](https://www.theguardian.com/world/2025/nov/14/ukraine-war-briefing-flamingo-flies-into-battle-zelenskyy-defers-to-commanders-over-pokrovsk)
-- [Slow-vakia? Law setting speed limits for cyclists, skaters derided in Bratislava](https://www.theguardian.com/world/2025/nov/14/slovakia-cyclists-speed-limit-bicycle-bratislava-footpath)
-- [Lanlan Yang pleads not guilty to all charges over crash of $1.5m Rolls Royce SUV in Sydney’s east](https://www.theguardian.com/australia-news/2025/nov/14/lanlan-yang-high-profile-sydney-chinese-woman-pleads-not-guilty-rolls-royce-crash-rose-bay-ntwnfb)
-- [Rachel Reeves to abandon plans to raise income tax rates in budget](https://www.theguardian.com/uk-news/2025/nov/14/rachel-reeves-to-abandon-plans-to-raise-income-tax-rates-in-budget)
-- [Rare bronze and iron age log boats reveal details of Cambridgeshire prehistory](https://www.theguardian.com/science/2025/nov/14/rare-iron-bronze-age-log-boat-cambridgeshire-archaeology-history)
-- [Jeff Bezos’s Blue Origin launches rocket carrying twin Nasa spacecraft to Mars](https://www.theguardian.com/science/2025/nov/13/jeff-bezos-blue-origin-nasa-spacecraft-new-glenn-mars)
-- [Donald Trump’s granddaughter Kai in last after 83 in shaky LPGA debut](https://www.theguardian.com/sport/2025/nov/13/kai-trump-golf-round-the-annika-lpga-debut-controversy)
-- [New AI tool could cut wasted efforts to transplant organs by 60%](https://www.theguardian.com/society/2025/nov/13/new-ai-tool-could-cut-wasted-efforts-to-transplant-organs-by-60)
-- [World Cup 2026 qualifying roundup: Ronaldo sent off in Portugal defeat by Republic of Ireland](https://www.theguardian.com/football/2025/nov/13/world-cup-2026-qualifying-roundup-norway-estonia-republic-of-ireland-portugal-moldova-italy)
+- [Mark Wood available for Ashes opener after being cleared of hamstring injury](https://www.theguardian.com/sport/2025/nov/15/ashes-england-cricket-mark-wood-injury)
+- [Trump says he will take legal action against BBC, despite its apology](https://www.theguardian.com/us-news/2025/nov/15/trump-says-he-will-take-legal-action-against-bbc-despite-its-apology)
+- [English councils plan to sell off social clubs and sports centres to balance books](https://www.theguardian.com/society/2025/nov/15/english-councils-sell-off-social-clubs-sports-centres)
+- [Kashmir is focus of arrests after Delhi car blast linked to ‘terror module’](https://www.theguardian.com/world/2025/nov/14/kashmir-is-focus-of-arrests-after-delhi-car-blast-linked-to-terror-module)
+- [Pity the fool who owns a pool. It’s like having a large, delicate, expensive pet | Andrew Herrick](https://www.theguardian.com/lifeandstyle/2025/nov/15/pity-the-fool-who-owns-a-pool-its-like-having-a-large-delicate-expensive-pet)
+- [The scientist who helped win the fight to protect a sacred piece of the Pacific](https://www.theguardian.com/world/2025/nov/15/scientist-katy-soapi-protect-tetepare-solomon-islands)
+- [World Cup 2026 qualifying roundup: Northern Ireland in playoffs despite loss](https://www.theguardian.com/football/2025/nov/14/world-cup-2026-qualifying-roundup-northern-ireland-in-playoffs-after-defeat)
+- [Trump reverses course and cuts tariffs on US food imports](https://www.theguardian.com/us-news/2025/nov/14/trump-tariffs-food)
+- [Sara Cox completes five-marathon challenge and raises £9.5m for Children in Need](https://www.theguardian.com/tv-and-radio/2025/nov/14/sara-cox-completes-marathon-challenge-and-raises-over-7m-for-children-in-need)
+- [Felix Auger-Aliassime beats Alexander Zverev to reach ATP semi-finals – as it happened](https://www.theguardian.com/sport/live/2025/nov/14/alexander-zverev-v-felix-auger-aliassime-atp-finals-tennis-live)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

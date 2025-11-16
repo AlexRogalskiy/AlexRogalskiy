@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Mark Wood available for Ashes opener after being cleared of hamstring injury](https://www.theguardian.com/sport/2025/nov/15/ashes-england-cricket-mark-wood-injury)
-- [Trump says he will take legal action against BBC, despite its apology](https://www.theguardian.com/us-news/2025/nov/15/trump-says-he-will-take-legal-action-against-bbc-despite-its-apology)
-- [English councils plan to sell off social clubs and sports centres to balance books](https://www.theguardian.com/society/2025/nov/15/english-councils-sell-off-social-clubs-sports-centres)
-- [Kashmir is focus of arrests after Delhi car blast linked to ‘terror module’](https://www.theguardian.com/world/2025/nov/14/kashmir-is-focus-of-arrests-after-delhi-car-blast-linked-to-terror-module)
-- [Pity the fool who owns a pool. It’s like having a large, delicate, expensive pet | Andrew Herrick](https://www.theguardian.com/lifeandstyle/2025/nov/15/pity-the-fool-who-owns-a-pool-its-like-having-a-large-delicate-expensive-pet)
-- [The scientist who helped win the fight to protect a sacred piece of the Pacific](https://www.theguardian.com/world/2025/nov/15/scientist-katy-soapi-protect-tetepare-solomon-islands)
-- [World Cup 2026 qualifying roundup: Northern Ireland in playoffs despite loss](https://www.theguardian.com/football/2025/nov/14/world-cup-2026-qualifying-roundup-northern-ireland-in-playoffs-after-defeat)
-- [Trump reverses course and cuts tariffs on US food imports](https://www.theguardian.com/us-news/2025/nov/14/trump-tariffs-food)
-- [Sara Cox completes five-marathon challenge and raises £9.5m for Children in Need](https://www.theguardian.com/tv-and-radio/2025/nov/14/sara-cox-completes-marathon-challenge-and-raises-over-7m-for-children-in-need)
-- [Felix Auger-Aliassime beats Alexander Zverev to reach ATP semi-finals – as it happened](https://www.theguardian.com/sport/live/2025/nov/14/alexander-zverev-v-felix-auger-aliassime-atp-finals-tennis-live)
+- [Ukraine war briefing: Drones hit Russia’s Ryazan oil refinery](https://www.theguardian.com/world/2025/nov/16/ukraine-war-briefing-drones-hit-russias-ryazan-oil-refinery)
+- [Nature not a blocker to housing growth, inquiry finds](https://www.theguardian.com/uk-news/2025/nov/16/nature-not-blocker-housing-growth-inquiry)
+- [One Shot With Ed Sheeran review – well-planned spontaneity from all-smiling singer](https://www.theguardian.com/film/2025/nov/16/one-shot-with-ed-sheeran-review-philip-barantini)
+- [Conor Benn overpowers Chris Eubank Jr to seal dominant rematch victory](https://www.theguardian.com/sport/2025/nov/15/conor-benn-overpowers-chris-eubank-jr-to-seal-dominant-rematch-victory)
+- [Teenager charged with murder after death of girl, 17, in South Wales](https://www.theguardian.com/uk-news/2025/nov/15/teenager-charged-with-after-death-of-girl-17-in-south-wales)
+- [Texas trooper sent home after confronting South Carolina player during game](https://www.theguardian.com/sport/2025/nov/15/texas-trooper-sent-home-after-confronting-south-carolina-players-during-game)
+- [Harry Kane closes on Pelé’s record but captain always puts England first](https://www.theguardian.com/football/2025/nov/15/harry-kane-pele-record-england-first)
+- [UK government set to make support for asylum seekers ‘discretionary’](https://www.theguardian.com/uk-news/2025/nov/15/uk-government-set-to-make-support-for-asylum-seekers-discretionary)
+- [Scotland lose in Greece but Denmark stumble takes World Cup qualification to decider](https://www.theguardian.com/football/2025/nov/15/greece-scotland-world-cup-qualifier-match-report)
+- [Wild Cherry review – this fun, trashy thriller seems to have spent most of its budget on clothes](https://www.theguardian.com/tv-and-radio/2025/nov/15/wild-cherry-review-thriller-fashion-bbc-one-iplayer)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

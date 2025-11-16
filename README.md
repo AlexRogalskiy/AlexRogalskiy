@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [What is the most beautiful / highest quality code you&#39;ve seen &lpar;or written&rpar;?](https://news.ycombinator.com/item?id=45934669)
-- [Vortex: An extensible, state of the art columnar file format](https://github.com/vortex-data/vortex)
-- [Green AI – Do you care?](https://christopher-helm.com/green-ai-oder-ki-im-stromsparmodus/)
-- [How to Test Computer RAM: Tools for Memory Testing](https://www.buysellram.com/blog/how-to-test-computer-ram-tools-for-memory-testing/)
-- [The Exponential Rise of Global Solar Power](https://oilprice.com/Alternative-Energy/Solar-Energy/The-Exponential-Rise-of-Global-Solar-Power.html)
-- [Show HN: ThinkReview open source browser Copilot GitLab and ADO PRs&lpar;Ollama&rpar;](https://github.com/Thinkode/thinkreview-browser-extension)
-- [Show HN: UnisonDB – B+Tree DB with sub-second replication to 100+ nodes](https://github.com/ankur-anand/unisondb)
-- [I ate bear fat with honey and salt flakes, to prove a point](https://www.lesswrong.com/posts/2pKiXR6X7wdt8eFX5/i-ate-bear-fat-with-honey-and-salt-flakes-to-prove-a-point)
-- [Samsung&#39;s 60% DRAM Price Hike Signals a New Phase of Global Memory Tightening](https://www.buysellram.com/blog/samsungs-memory-price-surge-sends-shockwaves-through-the-global-dram-market/)
-- [ProofMode – Video Authenticity Standard](https://divine.video/proofmode)
+- [Show HN: I built E2E Test Agent – describe tests in plain English,AI executes it](https://github.com/armannaj/e2e-test-agent)
+- [Latency Profiling and Optimization – Dmitry Vyukov [video]](https://www.youtube.com/watch?v=lv03NAT4Mwc)
+- [Whatever Happened to String Theory?](https://gizmodo.com/whatever-happened-to-string-theory-2000686064)
+- [Human Era Calendar](https://tikolu.net/human-era-windows/)
+- [Automated Equality Checks in C++ with Reflection &lpar;C++26&rpar;](https://lemire.me/blog/2025/11/09/automated-equality-checks-in-c-with-reflection-c26/)
+- [Computers I never had: the Acorn A3020](https://celso.io/posts/2025/11/15/acorn-a3020/)
+- [Show HN: AI Tarot Reading – get instant 1/3-card or &lpar;past/now/future&rpar; readings](https://www.randomtarotcard.org/ai-tarot-reading)
+- [EDCA-OS: A new expression-driven cognitive architecture for deterministic AI](https://github.com/yuer-dsl/EDCA-OS)
+- [AI assistant that lives in your messages](https://textit2.me/)
+- [Mr. Difficult: William Gaddis and the Problem of Hard-to-Read Books &lpar;2002&rpar;](https://adilegian.com/FranzenGaddis.htm)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

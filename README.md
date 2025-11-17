@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine war briefing: Drones hit Russia’s Ryazan oil refinery](https://www.theguardian.com/world/2025/nov/16/ukraine-war-briefing-drones-hit-russias-ryazan-oil-refinery)
-- [Nature not a blocker to housing growth, inquiry finds](https://www.theguardian.com/uk-news/2025/nov/16/nature-not-blocker-housing-growth-inquiry)
-- [One Shot With Ed Sheeran review – well-planned spontaneity from all-smiling singer](https://www.theguardian.com/film/2025/nov/16/one-shot-with-ed-sheeran-review-philip-barantini)
-- [Conor Benn overpowers Chris Eubank Jr to seal dominant rematch victory](https://www.theguardian.com/sport/2025/nov/15/conor-benn-overpowers-chris-eubank-jr-to-seal-dominant-rematch-victory)
-- [Teenager charged with murder after death of girl, 17, in South Wales](https://www.theguardian.com/uk-news/2025/nov/15/teenager-charged-with-after-death-of-girl-17-in-south-wales)
-- [Texas trooper sent home after confronting South Carolina player during game](https://www.theguardian.com/sport/2025/nov/15/texas-trooper-sent-home-after-confronting-south-carolina-players-during-game)
-- [Harry Kane closes on Pelé’s record but captain always puts England first](https://www.theguardian.com/football/2025/nov/15/harry-kane-pele-record-england-first)
-- [UK government set to make support for asylum seekers ‘discretionary’](https://www.theguardian.com/uk-news/2025/nov/15/uk-government-set-to-make-support-for-asylum-seekers-discretionary)
-- [Scotland lose in Greece but Denmark stumble takes World Cup qualification to decider](https://www.theguardian.com/football/2025/nov/15/greece-scotland-world-cup-qualifier-match-report)
-- [Wild Cherry review – this fun, trashy thriller seems to have spent most of its budget on clothes](https://www.theguardian.com/tv-and-radio/2025/nov/15/wild-cherry-review-thriller-fashion-bbc-one-iplayer)
+- [US attacks another alleged drug boat in Pacific, killing three, as Trump signals possible talks with Maduro](https://www.theguardian.com/us-news/2025/nov/16/pentagon-military-drug-boat-strike)
+- [China travel warning for Japan sends shares in tourism and retail companies plunging](https://www.theguardian.com/world/2025/nov/17/china-travel-warning-for-japan-sends-shares-in-tourism-and-retail-companies-plunging)
+- [Ukraine war briefing: Greece signs deal to supply gas to Kyiv over ‘difficult’ winter](https://www.theguardian.com/world/2025/nov/17/ukraine-war-briefing-greece-signs-deal-to-supply-gas-to-kyiv-over-difficult-winter)
+- [Indifferent, nostalgic or plain pragmatic: Indonesia Gen Zs react to strongman Suharto’s national hero status](https://www.theguardian.com/world/2025/nov/17/indifferent-nostalgic-or-plain-pragmatic-indonesia-gen-zs-react-to-strongman-suhartos-national-hero-status)
+- [Schools close in New Zealand after play sand recalled over asbestos fears](https://www.theguardian.com/world/2025/nov/17/schools-close-in-new-zealand-after-play-sand-recalled-over-asbestos-fears)
+- [Far-right candidate José Antonio Kast favourite to become Chile’s next president after first round vote](https://www.theguardian.com/world/2025/nov/17/far-right-candidate-jose-antonio-kast-favourite-to-become-chiles-next-president-after-first-round-vote)
+- [NFL roundup: Allen stars in Bills’ wild win; Brissett breaks completions record](https://www.theguardian.com/sport/2025/nov/16/nfl-roundup-sunday-football-scores)
+- [Parents ‘vindicated’ after police admit unlawful arrest over WhatsApp row](https://www.theguardian.com/uk-news/2025/nov/16/hertfordshire-police-admit-unlawful-arrest-of-borehamwood-couple-in-school-whatsapp-row-report)
+- [Asking prices fall as UK housing market hit by budget speculation, Rightmove says](https://www.theguardian.com/business/2025/nov/17/asking-prices-fall-as-uk-housing-market-hit-by-budget-speculation-rightmove-says)
+- [Two-thirds of nurses in UK work while unwell, says union](https://www.theguardian.com/society/2025/nov/17/more-than-66-percent-of-nurses-in-england-working-while-unwell-says-royal-college-of-nursing-union)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

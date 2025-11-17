@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: I built E2E Test Agent – describe tests in plain English,AI executes it](https://github.com/armannaj/e2e-test-agent)
-- [Latency Profiling and Optimization – Dmitry Vyukov [video]](https://www.youtube.com/watch?v=lv03NAT4Mwc)
-- [Whatever Happened to String Theory?](https://gizmodo.com/whatever-happened-to-string-theory-2000686064)
-- [Human Era Calendar](https://tikolu.net/human-era-windows/)
-- [Automated Equality Checks in C++ with Reflection &lpar;C++26&rpar;](https://lemire.me/blog/2025/11/09/automated-equality-checks-in-c-with-reflection-c26/)
-- [Computers I never had: the Acorn A3020](https://celso.io/posts/2025/11/15/acorn-a3020/)
-- [Show HN: AI Tarot Reading – get instant 1/3-card or &lpar;past/now/future&rpar; readings](https://www.randomtarotcard.org/ai-tarot-reading)
-- [EDCA-OS: A new expression-driven cognitive architecture for deterministic AI](https://github.com/yuer-dsl/EDCA-OS)
-- [AI assistant that lives in your messages](https://textit2.me/)
-- [Mr. Difficult: William Gaddis and the Problem of Hard-to-Read Books &lpar;2002&rpar;](https://adilegian.com/FranzenGaddis.htm)
+- [What non-commercial license options are there for projects you want to share?](https://news.ycombinator.com/item?id=45950520)
+- [More than three kinds of AI products work](https://carsho.dev/writings/article/more-than-three-kinds-of-ai-products-work)
+- [Teaching Rust the SQL Language](https://news.ycombinator.com/item?id=45950497)
+- [Jevons or Bust](https://www.a16z.news/p/jevons-or-bust)
+- [Debuff Chess](https://ndbaker1.github.io/debuff-chess/)
+- [A woman who puts America to sleep](https://thehustle.co/originals/the-woman-who-puts-america-to-sleep)
+- [Programming Languages in the Age of AI Agents](https://alexn.org/blog/2025/11/16/programming-languages-in-the-age-of-ai-agents/)
+- [Rebuilding Every 20 Years Renders Sanctuaries Eternal &lpar;2004&rpar;](https://www.japanfs.org/sp/en/news/archives/news_id027786.html)
+- [Security Reviews with Azure&#39;s Resource Graph Explorer &lpar;2024&rpar;](https://kknowl.es/posts/graph-explorer-security-reviews/)
+- [Rust in Android: &gt; Memory Safety, &lt; Revisions, &lt; Rollbacks, Shorter Reviews](https://news.ycombinator.com/item?id=45950457)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

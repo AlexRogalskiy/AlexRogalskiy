@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [IDEmacs: A Visual Studio Code clone for Emacs](https://codeberg.org/IDEmacs/IDEmacs)
-- [Solving Project Euler: Problem 45](https://loriculus.org/blog/euler-45/)
-- [AirPods libreated from Apple&#39;s ecosystem](https://github.com/kavishdevar/librepods)
-- [When UPS charged me a $684 tariff on $355 of vintage computer parts](http://oldvcr.blogspot.com/2025/11/when-ups-charged-me-684-tariff-on-355.html)
-- [The inconceivable types of Rust: How to make self-borrows safe &lpar;2024&rpar;](https://blog.polybdenum.com/2024/06/07/the-inconceivable-types-of-rust-how-to-make-self-borrows-safe.html)
-- [Blocking LLM crawlers without JavaScript](https://www.owl.is/blogg/blocking-crawlers-without-javascript/)
-- [libwifi: an 802.11 frame parsing and generation library written in C](https://libwifi.so/)
-- [AsciiMath](https://asciimath.org/)
-- [Report: Tim Cook could step down as Apple CEO &#39;as soon as next year&#39;](https://9to5mac.com/2025/11/14/tim-cook-step-down-as-apple-ceo-as-soon-as-next-year-report/)
-- [AMD continues to chip away at Intel&#39;s x86 market share](https://www.tomshardware.com/pc-components/cpus/amd-continues-to-chip-away-at-intels-x86-market-share-company-now-sells-over-25-percent-of-all-x86-chips-and-powers-33-percent-of-all-desktop-systems)
+- [A 1961 Relay Computer Running in the Browser](https://minivac.greg.technology/)
+- [A new chapter begins for EV batteries with the expiry of key LFP patents](https://www.shoosmiths.com/insights/articles/a-new-chapter-begins-for-ev-batteries-with-the-expiry-of-key-lfp-patents)
+- [PicoIDE – An open IDE/ATAPI drive emulator](https://picoide.com/)
+- [Britney Spears&#39; Guide to Semiconductor Physics &lpar;2000&rpar;](https://britneyspears.ac/lasers.htm)
+- [Goldman Sachs asks in biotech Report: Is curing patients a sustainable business? &lpar;2018&rpar;](https://www.cnbc.com/2018/04/11/goldman-asks-is-curing-patients-a-sustainable-business-model.html)
+- [Why your mock breaks later](https://nedbatchelder.com/blog/202511/why_your_mock_breaks_later.html)
+- [How Your Brain Creates &#39;Aha&#39; Moments and Why They Stick](https://www.quantamagazine.org/how-your-brain-creates-aha-moments-and-why-they-stick-20251105/)
+- [Call Me Maybe: Eavesdropping encrypted LTE calls with ReVoLTE &lpar;2020&rpar;](https://montsecure.com/research/revolte-attack/)
+- [The Pragmatic Programmer: 20th Anniversary Edition &lpar;2023&rpar;](https://www.ahalbert.com/technology/2023/12/19/the_pragmatic_programmer.html)
+- [I have recordings proving Coinbase knew about breach months before disclosure](https://jonathanclark.com/posts/coinbase-breach-timeline.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [US attacks another alleged drug boat in Pacific, killing three, as Trump signals possible talks with Maduro](https://www.theguardian.com/us-news/2025/nov/16/pentagon-military-drug-boat-strike)
-- [China travel warning for Japan sends shares in tourism and retail companies plunging](https://www.theguardian.com/world/2025/nov/17/china-travel-warning-for-japan-sends-shares-in-tourism-and-retail-companies-plunging)
-- [Ukraine war briefing: Greece signs deal to supply gas to Kyiv over ‘difficult’ winter](https://www.theguardian.com/world/2025/nov/17/ukraine-war-briefing-greece-signs-deal-to-supply-gas-to-kyiv-over-difficult-winter)
-- [Indifferent, nostalgic or plain pragmatic: Indonesia Gen Zs react to strongman Suharto’s national hero status](https://www.theguardian.com/world/2025/nov/17/indifferent-nostalgic-or-plain-pragmatic-indonesia-gen-zs-react-to-strongman-suhartos-national-hero-status)
-- [Schools close in New Zealand after play sand recalled over asbestos fears](https://www.theguardian.com/world/2025/nov/17/schools-close-in-new-zealand-after-play-sand-recalled-over-asbestos-fears)
-- [Far-right candidate José Antonio Kast favourite to become Chile’s next president after first round vote](https://www.theguardian.com/world/2025/nov/17/far-right-candidate-jose-antonio-kast-favourite-to-become-chiles-next-president-after-first-round-vote)
-- [NFL roundup: Allen stars in Bills’ wild win; Brissett breaks completions record](https://www.theguardian.com/sport/2025/nov/16/nfl-roundup-sunday-football-scores)
-- [Parents ‘vindicated’ after police admit unlawful arrest over WhatsApp row](https://www.theguardian.com/uk-news/2025/nov/16/hertfordshire-police-admit-unlawful-arrest-of-borehamwood-couple-in-school-whatsapp-row-report)
-- [Asking prices fall as UK housing market hit by budget speculation, Rightmove says](https://www.theguardian.com/business/2025/nov/17/asking-prices-fall-as-uk-housing-market-hit-by-budget-speculation-rightmove-says)
-- [Two-thirds of nurses in UK work while unwell, says union](https://www.theguardian.com/society/2025/nov/17/more-than-66-percent-of-nurses-in-england-working-while-unwell-says-royal-college-of-nursing-union)
+- [‘Deeply ashamed’ Larry Summers steps back from public life over Epstein links](https://www.theguardian.com/us-news/2025/nov/17/larry-summers-jeffrey-epstein)
+- [Ukraine war briefing: Kyiv to buy 100 Rafale warplanes, drones and air defence systems from France](https://www.theguardian.com/world/2025/nov/18/ukraine-war-briefing-kyiv-to-buy-100-rafale-warplanes-drones-and-air-defence-systems-from-france)
+- [Root canal treatment could significantly lower blood sugar levels, study suggests](https://www.theguardian.com/science/2025/nov/18/root-canal-treatment-could-significantly-lower-blood-sugar-levels-study-suggests)
+- [Authors dumped from New Zealand’s top book prize after AI used in cover designs](https://www.theguardian.com/world/2025/nov/18/authors-dumped-from-new-zealands-top-book-prize-after-ai-used-in-cover-designs)
+- [UN security council votes to endorse Donald Trump’s Gaza plan](https://www.theguardian.com/world/2025/nov/18/un-security-council-votes-to-endorse-donald-trumps-gaza-plan)
+- [UK bank and building society customer protection limit to rise to £120,000](https://www.theguardian.com/money/2025/nov/18/uk-bank-building-society-customer-protection-limit-rise-fscs)
+- [More details of UK crime suspects may be released to stop misinformation](https://www.theguardian.com/media/2025/nov/18/more-details-of-uk-suspects-may-be-released-to-stop-misinformation)
+- [Nearly half of sexually active young people in UK have experienced strangulation, study shows](https://www.theguardian.com/society/2025/nov/18/sexually-active-young-people-uk-choking-strangulation-sex)
+- [‘This is survival’: Jamaica leads calls from vulnerable nations at Cop30](https://www.theguardian.com/environment/2025/nov/17/this-is-survival-jamaica-leads-calls-from-vulnerable-nations-at-cop30)
+- [Reform would ‘cut benefits for EU nationals and hike NHS immigration surcharge’](https://www.theguardian.com/politics/2025/nov/17/reform-would-cut-benefits-and-hike-nhs-surcharge-for-eu-nationals)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

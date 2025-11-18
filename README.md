@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [What non-commercial license options are there for projects you want to share?](https://news.ycombinator.com/item?id=45950520)
-- [More than three kinds of AI products work](https://carsho.dev/writings/article/more-than-three-kinds-of-ai-products-work)
-- [Teaching Rust the SQL Language](https://news.ycombinator.com/item?id=45950497)
-- [Jevons or Bust](https://www.a16z.news/p/jevons-or-bust)
-- [Debuff Chess](https://ndbaker1.github.io/debuff-chess/)
-- [A woman who puts America to sleep](https://thehustle.co/originals/the-woman-who-puts-america-to-sleep)
-- [Programming Languages in the Age of AI Agents](https://alexn.org/blog/2025/11/16/programming-languages-in-the-age-of-ai-agents/)
-- [Rebuilding Every 20 Years Renders Sanctuaries Eternal &lpar;2004&rpar;](https://www.japanfs.org/sp/en/news/archives/news_id027786.html)
-- [Security Reviews with Azure&#39;s Resource Graph Explorer &lpar;2024&rpar;](https://kknowl.es/posts/graph-explorer-security-reviews/)
-- [Rust in Android: &gt; Memory Safety, &lt; Revisions, &lt; Rollbacks, Shorter Reviews](https://news.ycombinator.com/item?id=45950457)
+- [Tired of ugly admin dashboards? I built a Vue 3 one that&#39;s beautiful](https://github.com/Daymychen/art-design-pro)
+- [Chandrayaan-3 returns to the Moon for rare flyby, sends critical data](https://www.indiatoday.in/science/story/chandrayaan-3s-propulsion-module-enters-moons-sphere-of-influence-in-rare-flyby-2819313-2025-11-13)
+- [Layanan Reschedule Agoda](https://news.ycombinator.com/item?id=45960936)
+- [OpenAI is piloting group conversations in ChatGPT](https://www.engadget.com/ai/openai-is-piloting-group-conversations-in-chatgpt-053255102.html)
+- [LeJEPA](https://arxiv.org/abs/2511.08544)
+- [Core Devices &lpar;Pebble Watch&rpar; Keeps Stealing Our Work](https://rebble.io/2025/11/17/core-devices-keeps-stealing-our-work.html)
+- [Rust9x Unofficial &quot;Tier 4&quot; Rust Target for Windows 9x/Me/NT/2000/XP/Vista](https://github.com/rust9x/rust)
+- [Unauthenticated WireGuard Key Registration in PIA Infrastructure](https://twitter.com/MagicalTux/status/1990611940151021998)
+- [The Bezzle](https://en.wikipedia.org/wiki/The_bezzle)
+- [Star Wars Theatrical OT Official Restoration Leaked Clips](https://www.youtube.com/watch?v=4Z6TpkT-6AY)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

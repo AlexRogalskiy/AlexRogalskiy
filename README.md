@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [A 1961 Relay Computer Running in the Browser](https://minivac.greg.technology/)
-- [A new chapter begins for EV batteries with the expiry of key LFP patents](https://www.shoosmiths.com/insights/articles/a-new-chapter-begins-for-ev-batteries-with-the-expiry-of-key-lfp-patents)
-- [PicoIDE – An open IDE/ATAPI drive emulator](https://picoide.com/)
-- [Britney Spears&#39; Guide to Semiconductor Physics &lpar;2000&rpar;](https://britneyspears.ac/lasers.htm)
-- [Goldman Sachs asks in biotech Report: Is curing patients a sustainable business? &lpar;2018&rpar;](https://www.cnbc.com/2018/04/11/goldman-asks-is-curing-patients-a-sustainable-business-model.html)
-- [Why your mock breaks later](https://nedbatchelder.com/blog/202511/why_your_mock_breaks_later.html)
-- [How Your Brain Creates &#39;Aha&#39; Moments and Why They Stick](https://www.quantamagazine.org/how-your-brain-creates-aha-moments-and-why-they-stick-20251105/)
-- [Call Me Maybe: Eavesdropping encrypted LTE calls with ReVoLTE &lpar;2020&rpar;](https://montsecure.com/research/revolte-attack/)
-- [The Pragmatic Programmer: 20th Anniversary Edition &lpar;2023&rpar;](https://www.ahalbert.com/technology/2023/12/19/the_pragmatic_programmer.html)
-- [I have recordings proving Coinbase knew about breach months before disclosure](https://jonathanclark.com/posts/coinbase-breach-timeline.html)
+- [Rebecca Heineman has died](https://www.pcgamer.com/gaming-industry/legendary-game-designer-programmer-space-invaders-champion-and-lgbtq-trailblazer-rebecca-heineman-has-died/)
+- [I caught Google Gemini using my data and then covering it up](https://unbuffered.stream/gemini-personal-context/)
+- [Windows 11 adds AI agent that runs in background with access to personal folders](https://www.windowslatest.com/2025/11/18/windows-11-to-add-an-ai-agent-that-runs-in-background-with-access-to-personal-folders-warns-of-security-risk/)
+- [Show HN: Parqeye – A CLI tool to visualize and inspect Parquet files](https://github.com/kaushiksrini/parqeye)
+- [Ion: Modern System Shell in Rust](https://github.com/redox-os/ion)
+- [Run ancient UNIX on modern hardware](https://github.com/felipenlunkes/run-ancient-unix)
+- [Compiling Ruby to machine language](https://patshaughnessy.net/2025/11/17/compiling-ruby-to-machine-language)
+- [Show HN: PrinceJS – 19,200 req/s Bun framework in 2.8 kB &lpar;built by a 13yo&rpar;](https://princejs.vercel.app)
+- [An official atlas of North Korea](https://www.cartographerstale.com/p/an-official-atlas-of-north-korea)
+- [Azure hit by 15 Tbps DDoS attack using 500k IP addresses](https://www.bleepingcomputer.com/news/microsoft/microsoft-aisuru-botnet-used-500-000-ips-in-15-tbps-azure-ddos-attack/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Tired of ugly admin dashboards? I built a Vue 3 one that&#39;s beautiful](https://github.com/Daymychen/art-design-pro)
-- [Chandrayaan-3 returns to the Moon for rare flyby, sends critical data](https://www.indiatoday.in/science/story/chandrayaan-3s-propulsion-module-enters-moons-sphere-of-influence-in-rare-flyby-2819313-2025-11-13)
-- [Layanan Reschedule Agoda](https://news.ycombinator.com/item?id=45960936)
-- [OpenAI is piloting group conversations in ChatGPT](https://www.engadget.com/ai/openai-is-piloting-group-conversations-in-chatgpt-053255102.html)
-- [LeJEPA](https://arxiv.org/abs/2511.08544)
-- [Core Devices &lpar;Pebble Watch&rpar; Keeps Stealing Our Work](https://rebble.io/2025/11/17/core-devices-keeps-stealing-our-work.html)
-- [Rust9x Unofficial &quot;Tier 4&quot; Rust Target for Windows 9x/Me/NT/2000/XP/Vista](https://github.com/rust9x/rust)
-- [Unauthenticated WireGuard Key Registration in PIA Infrastructure](https://twitter.com/MagicalTux/status/1990611940151021998)
-- [The Bezzle](https://en.wikipedia.org/wiki/The_bezzle)
-- [Star Wars Theatrical OT Official Restoration Leaked Clips](https://www.youtube.com/watch?v=4Z6TpkT-6AY)
+- [Asymmetry of Verification and Verifier&#39;s Rule](https://www.jasonwei.net/blog/asymmetry-of-verification-and-verifiers-law)
+- [Context Management in Amp](https://ampcode.com/guides/context-management)
+- [Visual Studio Code Private Marketplace](https://code.visualstudio.com/blogs/2025/11/18/PrivateMarketplace)
+- [What If &#39;America First&#39; Appears to Work?](https://www.theatlantic.com/international/2025/11/trump-foreign-policy/684969/)
+- [Microsoft making major changes to how drivers are built, verified on Windows 11](https://www.windowscentral.com/microsoft/windows-11/microsoft-is-raising-the-bar-and-making-major-changes-to-how-drivers-are-built-and-verified-on-windows-11-heres-the-important-details)
+- [Klimt Painting Becomes the Most Expensive Work of Modern Art at $236.4M](https://www.wsj.com/arts-culture/fine-art/klimt-cattelan-sothebys-auction-record-breuer-lauder-eb31ccbe)
+- [Anthropic valued in range of $350B following investment deal](https://www.cnbc.com/2025/11/18/anthropic-ai-azure-microsoft-nvidia.html)
+- [Colleges Are Surrendering to AI](https://www.persuasion.community/p/why-ill-encourage-my-students-to)
+- [New Apple Watch cases is 3D-Printed](https://www.apple.com/newsroom/2025/11/mapping-the-future-with-3d-printed-titanium-apple-watch-cases/)
+- [Two long-lost organ pieces by JavaScript Bach performed for first time](https://www.theguardian.com/music/2025/nov/17/lost-js-bach-organ-compositions-performed-for-first-time-in-300-years)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [‘Deeply ashamed’ Larry Summers steps back from public life over Epstein links](https://www.theguardian.com/us-news/2025/nov/17/larry-summers-jeffrey-epstein)
-- [Ukraine war briefing: Kyiv to buy 100 Rafale warplanes, drones and air defence systems from France](https://www.theguardian.com/world/2025/nov/18/ukraine-war-briefing-kyiv-to-buy-100-rafale-warplanes-drones-and-air-defence-systems-from-france)
-- [Root canal treatment could significantly lower blood sugar levels, study suggests](https://www.theguardian.com/science/2025/nov/18/root-canal-treatment-could-significantly-lower-blood-sugar-levels-study-suggests)
-- [Authors dumped from New Zealand’s top book prize after AI used in cover designs](https://www.theguardian.com/world/2025/nov/18/authors-dumped-from-new-zealands-top-book-prize-after-ai-used-in-cover-designs)
-- [UN security council votes to endorse Donald Trump’s Gaza plan](https://www.theguardian.com/world/2025/nov/18/un-security-council-votes-to-endorse-donald-trumps-gaza-plan)
-- [UK bank and building society customer protection limit to rise to £120,000](https://www.theguardian.com/money/2025/nov/18/uk-bank-building-society-customer-protection-limit-rise-fscs)
-- [More details of UK crime suspects may be released to stop misinformation](https://www.theguardian.com/media/2025/nov/18/more-details-of-uk-suspects-may-be-released-to-stop-misinformation)
-- [Nearly half of sexually active young people in UK have experienced strangulation, study shows](https://www.theguardian.com/society/2025/nov/18/sexually-active-young-people-uk-choking-strangulation-sex)
-- [‘This is survival’: Jamaica leads calls from vulnerable nations at Cop30](https://www.theguardian.com/environment/2025/nov/17/this-is-survival-jamaica-leads-calls-from-vulnerable-nations-at-cop30)
-- [Reform would ‘cut benefits for EU nationals and hike NHS immigration surcharge’](https://www.theguardian.com/politics/2025/nov/17/reform-would-cut-benefits-and-hike-nhs-surcharge-for-eu-nationals)
+- [WHO to lose nearly a quarter of its workforce – 2,000 jobs – due to US withdrawing funding](https://www.theguardian.com/world/2025/nov/19/world-health-organisation-to-cut-jobs-due-to-us-withdrawing-funding)
+- [UN to hear human rights complaint over New Zealand’s treatment of Māori](https://www.theguardian.com/world/2025/nov/19/un-to-hear-human-rights-complaint-over-new-zealands-treatment-of-maori)
+- [Gustav Klimt portrait sells for $236.4m, making it the second most expensive artwork ever sold at auction](https://www.theguardian.com/artanddesign/2025/nov/19/gustav-klimt-portrait-sells-for-2364m-making-it-the-second-most-expensive-artwork-sold-at-auction)
+- [Senate agrees to pass Epstein files bill after near-unanimous House vote](https://www.theguardian.com/us-news/2025/nov/18/house-vote-epstein-documents)
+- [Ukraine war briefing: Kyiv seeks $44bn from Russia for climate-warming war emissions](https://www.theguardian.com/world/2025/nov/19/ukraine-war-briefing-kyiv-seeks-44bn-from-russia-for-climate-warming-war-emissions)
+- [NHS failing to cut waiting times as promised in recovery plan, report warns](https://www.theguardian.com/society/2025/nov/19/nhs-failing-waiting-times-recovery-plan-pac-report)
+- [Coroners’ advice on maternal deaths in England and Wales routinely ignored, study finds](https://www.theguardian.com/society/2025/nov/19/coroners-advice-on-maternal-deaths-in-england-and-wales-routinely-ignored-study-finds)
+- [Lack of planning has hit Labour’s efforts to fix public services, says thinktank](https://www.theguardian.com/society/2025/nov/19/starmer-struggling-overhaul-services-lack-of-planning-says-thinktank)
+- [Neanderthals and early humans ‘likely to have kissed’, say scientists](https://www.theguardian.com/science/2025/nov/19/neanderthals-early-humans-kissed-research-evolution)
+- [‘They could smell magic’: Steve Clarke delights in Scotland repaying fans’ faith](https://www.theguardian.com/football/2025/nov/18/they-could-smell-magic-steve-clarke-delights-in-scotland-repaying-fans-faith)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

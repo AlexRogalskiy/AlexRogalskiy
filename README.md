@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Rebecca Heineman has died](https://www.pcgamer.com/gaming-industry/legendary-game-designer-programmer-space-invaders-champion-and-lgbtq-trailblazer-rebecca-heineman-has-died/)
-- [I caught Google Gemini using my data and then covering it up](https://unbuffered.stream/gemini-personal-context/)
-- [Windows 11 adds AI agent that runs in background with access to personal folders](https://www.windowslatest.com/2025/11/18/windows-11-to-add-an-ai-agent-that-runs-in-background-with-access-to-personal-folders-warns-of-security-risk/)
-- [Show HN: Parqeye – A CLI tool to visualize and inspect Parquet files](https://github.com/kaushiksrini/parqeye)
-- [Ion: Modern System Shell in Rust](https://github.com/redox-os/ion)
-- [Run ancient UNIX on modern hardware](https://github.com/felipenlunkes/run-ancient-unix)
-- [Compiling Ruby to machine language](https://patshaughnessy.net/2025/11/17/compiling-ruby-to-machine-language)
-- [Show HN: PrinceJS – 19,200 req/s Bun framework in 2.8 kB &lpar;built by a 13yo&rpar;](https://princejs.vercel.app)
-- [An official atlas of North Korea](https://www.cartographerstale.com/p/an-official-atlas-of-north-korea)
-- [Azure hit by 15 Tbps DDoS attack using 500k IP addresses](https://www.bleepingcomputer.com/news/microsoft/microsoft-aisuru-botnet-used-500-000-ips-in-15-tbps-azure-ddos-attack/)
+- [DOE gives Microsoft partner $1B loan to restart Three Mile Island reactor](https://techcrunch.com/2025/11/18/trump-doe-gives-microsoft-partner-1b-loan-to-restart-three-mile-island-reactor/)
+- [Lucent 7 R/E 5ESS Telephone Switch Rescue &lpar;2024&rpar;](http://kev009.com/wp/2024/07/Lucent-5ESS-Rescue/)
+- [Cloudflare outage on November 18, 2025 post mortem](https://blog.cloudflare.com/18-november-2025-outage/)
+- [Rebecca Heineman – from homelessness to porting Doom &lpar;2022&rpar;](https://corecursive.com/doomed-to-fail-with-burger-becky/)
+- [Monotype font licencing shake-down](https://www.insanityworks.org/randomtangent/2025/11/14/monotype-font-licencing-shake-down)
+- [Blender 5.0](https://www.blender.org/download/releases/5-0/)
+- [Bild AI &lpar;YC W25&rpar; is hiring – Make housing affordable](https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer-applied-ai)
+- [GitHub: Git operation failures](https://www.githubstatus.com/incidents/5q7nmlxz30sk)
+- [Trying out Gemini 3 Pro with audio transcription and a new pelican benchmark](https://simonwillison.net/2025/Nov/18/gemini-3/)
+- [OrthoRoute – GPU-accelerated autorouting for KiCad](https://bbenchoff.github.io/pages/OrthoRoute.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Asymmetry of Verification and Verifier&#39;s Rule](https://www.jasonwei.net/blog/asymmetry-of-verification-and-verifiers-law)
-- [Context Management in Amp](https://ampcode.com/guides/context-management)
-- [Visual Studio Code Private Marketplace](https://code.visualstudio.com/blogs/2025/11/18/PrivateMarketplace)
-- [What If &#39;America First&#39; Appears to Work?](https://www.theatlantic.com/international/2025/11/trump-foreign-policy/684969/)
-- [Microsoft making major changes to how drivers are built, verified on Windows 11](https://www.windowscentral.com/microsoft/windows-11/microsoft-is-raising-the-bar-and-making-major-changes-to-how-drivers-are-built-and-verified-on-windows-11-heres-the-important-details)
-- [Klimt Painting Becomes the Most Expensive Work of Modern Art at $236.4M](https://www.wsj.com/arts-culture/fine-art/klimt-cattelan-sothebys-auction-record-breuer-lauder-eb31ccbe)
-- [Anthropic valued in range of $350B following investment deal](https://www.cnbc.com/2025/11/18/anthropic-ai-azure-microsoft-nvidia.html)
-- [Colleges Are Surrendering to AI](https://www.persuasion.community/p/why-ill-encourage-my-students-to)
-- [New Apple Watch cases is 3D-Printed](https://www.apple.com/newsroom/2025/11/mapping-the-future-with-3d-printed-titanium-apple-watch-cases/)
-- [Two long-lost organ pieces by JavaScript Bach performed for first time](https://www.theguardian.com/music/2025/nov/17/lost-js-bach-organ-compositions-performed-for-first-time-in-300-years)
+- [Scholar Labs: An AI Powered Scholar Search](https://scholar.googleblog.com/2025/11/scholar-labs-ai-powered-scholar-search.html)
+- [Telecom-wavelength quantum teleportation using frequency-converted photons](https://www.nature.com/articles/s41467-025-65912-8)
+- [The New AI Consciousness Paper](https://www.astralcodexten.com/p/the-new-ai-consciousness-paper)
+- [Show HN: Batch process images with AI workflows](https://nanobibi.com/en/bulk)
+- [Stargate is coming back after 14 years [video]](https://www.youtube.com/watch?v=e82uV9sBt4I)
+- [Pluribus](https://en.wikipedia.org/wiki/Pluribus)
+- [Show HN: MCP Compact – Middleware to trim noisy browser/DOM/tool outputs](https://sabareesh.com/posts/mcp-compact/)
+- [Watch how Apple 3D prints Watches by blasting powdered titanium with lasers](https://www.theverge.com/news/823988/apple-watch-3d-printing-process)
+- [Artificial tongue uses milk to determine heat level in spicy foods](https://phys.org/news/2025-10-artificial-tongue-spicy-foods.html)
+- [50th Anniversary of Bitblt](https://mastodon.sdf.org/@fvzappa/115574872559813280)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

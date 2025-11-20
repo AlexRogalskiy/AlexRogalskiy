@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [WHO to lose nearly a quarter of its workforce – 2,000 jobs – due to US withdrawing funding](https://www.theguardian.com/world/2025/nov/19/world-health-organisation-to-cut-jobs-due-to-us-withdrawing-funding)
-- [UN to hear human rights complaint over New Zealand’s treatment of Māori](https://www.theguardian.com/world/2025/nov/19/un-to-hear-human-rights-complaint-over-new-zealands-treatment-of-maori)
-- [Gustav Klimt portrait sells for $236.4m, making it the second most expensive artwork ever sold at auction](https://www.theguardian.com/artanddesign/2025/nov/19/gustav-klimt-portrait-sells-for-2364m-making-it-the-second-most-expensive-artwork-sold-at-auction)
-- [Senate agrees to pass Epstein files bill after near-unanimous House vote](https://www.theguardian.com/us-news/2025/nov/18/house-vote-epstein-documents)
-- [Ukraine war briefing: Kyiv seeks $44bn from Russia for climate-warming war emissions](https://www.theguardian.com/world/2025/nov/19/ukraine-war-briefing-kyiv-seeks-44bn-from-russia-for-climate-warming-war-emissions)
-- [NHS failing to cut waiting times as promised in recovery plan, report warns](https://www.theguardian.com/society/2025/nov/19/nhs-failing-waiting-times-recovery-plan-pac-report)
-- [Coroners’ advice on maternal deaths in England and Wales routinely ignored, study finds](https://www.theguardian.com/society/2025/nov/19/coroners-advice-on-maternal-deaths-in-england-and-wales-routinely-ignored-study-finds)
-- [Lack of planning has hit Labour’s efforts to fix public services, says thinktank](https://www.theguardian.com/society/2025/nov/19/starmer-struggling-overhaul-services-lack-of-planning-says-thinktank)
-- [Neanderthals and early humans ‘likely to have kissed’, say scientists](https://www.theguardian.com/science/2025/nov/19/neanderthals-early-humans-kissed-research-evolution)
-- [‘They could smell magic’: Steve Clarke delights in Scotland repaying fans’ faith](https://www.theguardian.com/football/2025/nov/18/they-could-smell-magic-steve-clarke-delights-in-scotland-repaying-fans-faith)
+- [Turkey to host Cop31 climate conference after Australia drops push to hold it in Adelaide](https://www.theguardian.com/australia-news/2025/nov/20/turkey-to-host-cop31-climate-conference-after-australia-drops-push-to-hold-it-in-adelaide)
+- [Trump signs bill to compel release of more Epstein documents](https://www.theguardian.com/us-news/2025/nov/19/trump-sign-bill-epstein-files)
+- [Dog and cat abandonment soars in UK as owners struggle with cost of living](https://www.theguardian.com/lifeandstyle/2025/nov/20/dog-cat-abandonment-soars-owners-struggle-cost-of-living-crisis)
+- [Electroconvulsive therapy may have more adverse effects than thought](https://www.theguardian.com/science/2025/nov/20/depression-electroconvulsive-therapy-adverse-effects-study)
+- [Pinprick blood test could detect disease 10 years before symptoms appear, study finds](https://www.theguardian.com/science/2025/nov/20/pinprick-blood-test-could-detect-disease-10-years-before-symptoms-appear-study)
+- [Mary Fowler claims racist treatment at French club Montpellier after receiving bananas as leaving present](https://www.theguardian.com/football/2025/nov/20/mary-fowler-claims-racist-treatment-at-french-club-after-receiving-bananas-instead-of-flowers-as-leaving-present)
+- [‘California sober’: marijuana may help you drink less, study finds](https://www.theguardian.com/science/2025/nov/19/california-sober-marijuana-alcohol-study)
+- [The landline may be having a renaissance – but it’s to a world in which the art of phone calls has changed | Paul Daley](https://www.theguardian.com/commentisfree/2025/nov/20/the-landline-may-be-having-a-renaissance-but-its-to-a-world-in-which-the-art-of-phone-calls-has-changed)
+- [New Zealand bans puberty blockers for young transgender people](https://www.theguardian.com/world/2025/nov/19/new-zealand-bans-new-prescriptions-of-puberty-blockers-for-young-transgender-people)
+- [Russo double secures tight turnaround for Arsenal against Real Madrid in WCL](https://www.theguardian.com/football/2025/nov/19/arsenal-real-madrid-womens-champions-league-match-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

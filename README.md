@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Turkey to host Cop31 climate conference after Australia drops push to hold it in Adelaide](https://www.theguardian.com/australia-news/2025/nov/20/turkey-to-host-cop31-climate-conference-after-australia-drops-push-to-hold-it-in-adelaide)
-- [Trump signs bill to compel release of more Epstein documents](https://www.theguardian.com/us-news/2025/nov/19/trump-sign-bill-epstein-files)
-- [Dog and cat abandonment soars in UK as owners struggle with cost of living](https://www.theguardian.com/lifeandstyle/2025/nov/20/dog-cat-abandonment-soars-owners-struggle-cost-of-living-crisis)
-- [Electroconvulsive therapy may have more adverse effects than thought](https://www.theguardian.com/science/2025/nov/20/depression-electroconvulsive-therapy-adverse-effects-study)
-- [Pinprick blood test could detect disease 10 years before symptoms appear, study finds](https://www.theguardian.com/science/2025/nov/20/pinprick-blood-test-could-detect-disease-10-years-before-symptoms-appear-study)
-- [Mary Fowler claims racist treatment at French club Montpellier after receiving bananas as leaving present](https://www.theguardian.com/football/2025/nov/20/mary-fowler-claims-racist-treatment-at-french-club-after-receiving-bananas-instead-of-flowers-as-leaving-present)
-- [‘California sober’: marijuana may help you drink less, study finds](https://www.theguardian.com/science/2025/nov/19/california-sober-marijuana-alcohol-study)
-- [The landline may be having a renaissance – but it’s to a world in which the art of phone calls has changed | Paul Daley](https://www.theguardian.com/commentisfree/2025/nov/20/the-landline-may-be-having-a-renaissance-but-its-to-a-world-in-which-the-art-of-phone-calls-has-changed)
-- [New Zealand bans puberty blockers for young transgender people](https://www.theguardian.com/world/2025/nov/19/new-zealand-bans-new-prescriptions-of-puberty-blockers-for-young-transgender-people)
-- [Russo double secures tight turnaround for Arsenal against Real Madrid in WCL](https://www.theguardian.com/football/2025/nov/19/arsenal-real-madrid-womens-champions-league-match-report)
+- [Australia v England: Ashes first Test, day one – live](https://www.theguardian.com/sport/live/2025/nov/21/australia-vs-england-live-ashes-first-1st-test-day-one-aus-v-eng-cricket-scores-updates-perth)
+- [Cop30: dozens of countries threaten to block resolution unless it contains roadmap to fossil fuel phase-out](https://www.theguardian.com/environment/2025/nov/21/cop30-countries-threaten-block-resolution-unless-roadmap-to-fossil-fuel-phase-out)
+- [Fugees rapper Pras sentenced to 14 years in prison over illegal donations to Obama campaign](https://www.theguardian.com/music/2025/nov/21/fugees-rapper-pras-michel-sentenced-to-14-years-in-prison-over-donations-to-obama-campaign)
+- [Mahmoud Khalil sues Trump officials over ‘collusion’ with anti-Palestinian groups](https://www.theguardian.com/us-news/2025/nov/20/mahmoud-khalil-lawsuit-trump-administration)
+- [Overseas-trained doctors leaving the UK in record numbers](https://www.theguardian.com/society/2025/nov/21/overseas-trained-doctors-leaving-uk-record-numbers)
+- [BBC is losing £1bn a year in potential licence fee revenue, say MPs](https://www.theguardian.com/media/2025/nov/21/bbc-losing-potential-licence-fee-revenue-say-mps)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2025/nov/21/premier-league-10-things-to-look-out-for-this-weekend)
+- [White House announces new oil and gas drilling off California and Florida](https://www.theguardian.com/us-news/2025/nov/20/white-house-new-oil-gas-drilling-california-florida)
+- [CDC website altered to reflect RFK Jr’s belief in link between vaccines and autism](https://www.theguardian.com/us-news/2025/nov/20/cdc-website-vaccines-autism)
+- [Prozac ‘no better than placebo’ for treating children with depression, experts say](https://www.theguardian.com/society/2025/nov/20/prozac-no-better-than-placebo-for-treating-children-with-depression-experts-say)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

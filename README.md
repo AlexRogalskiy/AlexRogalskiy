@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Crypto got everything it wanted. Now it&#39;s sinking](https://www.economist.com/finance-and-economics/2025/11/18/crypto-got-everything-it-wanted-now-its-sinking)
-- [Jailbreaking AI Models to Phish Elderly Victims](https://simonlermen.substack.com/p/can-ai-models-be-jailbroken-to-phish)
-- [Workday to acquire Pipedream](https://newsroom.workday.com/2025-11-19-Workday-Signs-Definitive-Agreement-to-Acquire-Pipedream)
-- [Verifying your Matrix devices is becoming mandatory](https://element.io/blog/verifying-your-devices-is-becoming-mandatory-2/)
-- [The patent office is about to make bad patents untouchable](https://www.eff.org/deeplinks/2025/11/patent-office-about-make-bad-patents-untouchable)
-- [Precise geolocation via Wi-Fi Positioning System](https://www.amoses.dev/blog/wifi-location/)
-- [Gaming on Linux has never been more approachable](https://www.theverge.com/tech/823337/switching-linux-gaming-desktop-cachyos)
-- [How Slide Rules Work](https://amenzwa.github.io/stem/ComputingHistory/HowSlideRulesWork/)
-- [Researchers discover security vulnerability in WhatsApp](https://www.univie.ac.at/en/news/detail/forscherinnen-entdecken-grosse-sicherheitsluecke-in-whatsapp)
-- [Microsoft AI CEO pushes back against critics after recent Windows AI backlash](https://www.windowscentral.com/microsoft/windows-11/microsoft-ai-ceo-pushes-back-against-critics-after-recent-windows-ai-backlash-the-fact-that-people-are-unimpressed-is-mindblowing-to-me)
+- [Measuring Latency &lpar;2015&rpar;](https://bravenewgeek.com/everything-you-know-about-latency-is-wrong/)
+- [Kyber vs. RSA-2048](https://blog.ellipticc.com/posts/kyber-vs-rsa-2048/)
+- [Why top firms fire good workers](https://www.rochester.edu/newscenter/employee-turnover-why-top-firms-churn-good-workers-681832/)
+- [Over-regulation is doubling the cost](https://rein.pk/over-regulation-is-doubling-the-cost)
+- [Virgin and Qantas to ban use of portable power banks after string of fires](https://www.abc.net.au/news/2025-11-21/airlines-virgin-australia-qantas-ban-power-banks/106033982)
+- [GitHut – Programming Languages and GitHub &lpar;2014&rpar;](https://githut.info/)
+- [New Glenn Update](https://www.blueorigin.com/news/new-glenn-upgraded-engines-subcooled-components-drive-enhanced-performance)
+- [New OS aims to provide &lpar;some&rpar; compatibility with macOS](https://github.com/ravynsoft/ravynos)
+- [OOP is shifting between domains, not disappearing](https://blog.jsbarretto.com/post/actors)
+- [Data-at-Rest Encryption in DuckDB](https://duckdb.org/2025/11/19/encryption-in-duckdb)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

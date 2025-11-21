@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Scholar Labs: An AI Powered Scholar Search](https://scholar.googleblog.com/2025/11/scholar-labs-ai-powered-scholar-search.html)
-- [Telecom-wavelength quantum teleportation using frequency-converted photons](https://www.nature.com/articles/s41467-025-65912-8)
-- [The New AI Consciousness Paper](https://www.astralcodexten.com/p/the-new-ai-consciousness-paper)
-- [Show HN: Batch process images with AI workflows](https://nanobibi.com/en/bulk)
-- [Stargate is coming back after 14 years [video]](https://www.youtube.com/watch?v=e82uV9sBt4I)
-- [Pluribus](https://en.wikipedia.org/wiki/Pluribus)
-- [Show HN: MCP Compact – Middleware to trim noisy browser/DOM/tool outputs](https://sabareesh.com/posts/mcp-compact/)
-- [Watch how Apple 3D prints Watches by blasting powdered titanium with lasers](https://www.theverge.com/news/823988/apple-watch-3d-printing-process)
-- [Artificial tongue uses milk to determine heat level in spicy foods](https://phys.org/news/2025-10-artificial-tongue-spicy-foods.html)
-- [50th Anniversary of Bitblt](https://mastodon.sdf.org/@fvzappa/115574872559813280)
+- [NTSB DC-10-10 Aircraft Accident Report &lpar;1979&rpar; [pdf]](https://www.ntsb.gov/investigations/AccidentReports/Reports/AAR7917.pdf)
+- [Whitehorse residents baffled by &#39;annoying hum&#39; that no one seems able to explain](https://www.cbc.ca/news/canada/north/whitehorse-residents-baffled-by-annoying-hum-that-no-one-seems-able-to-explain-9.6985727)
+- [Outlaws Remaster Review: LucasArts&#39; &quot;Forgotten&quot; FPS Gets the Nightdive Treatment [video]](https://www.youtube.com/watch?v=7RLwUSbYxP8)
+- [Color Synthesizer](https://colorpalette.pro)
+- [Black Friday Game Plan: How We Target Annual Subscriptions &lpar;Steal This Strategy&rpar;](https://www.indiehackers.com/post/black-friday-game-plan-how-we-target-annual-subscriptions-steal-this-strategy-1a4b742e31)
+- [Just a pinch of DSG for curl-able sites and confused AI crawlers](https://iris.coralcmd.net/curlblog/)
+- [The Hidden Story of Nazi Drug Abuse – Blitzed: Nazis on Drugs [video]](https://www.youtube.com/watch?v=7DtR-CNZN44)
+- [Breaking the Million-Token Barrier: Azure ND GB300 v6](https://techcommunity.microsoft.com/blog/azurehighperformancecomputingblog/breaking-the-million-token-barrier-the-technical-achievement-of-azure-nd-gb300-v/4466080)
+- [The Microdose](https://themicrodose.substack.com/)
+- [GPU depreciation could be the next big crisis for hyperscalers](https://www.tomshardware.com/tech-industry/gpu-depreciation-could-be-the-next-big-crisis-coming-for-ai-hyperscalers-after-spending-billions-on-buildouts-next-gen-upgrades-may-amplify-cashflow-quirks)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

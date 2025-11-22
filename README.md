@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Measuring Latency &lpar;2015&rpar;](https://bravenewgeek.com/everything-you-know-about-latency-is-wrong/)
-- [Kyber vs. RSA-2048](https://blog.ellipticc.com/posts/kyber-vs-rsa-2048/)
-- [Why top firms fire good workers](https://www.rochester.edu/newscenter/employee-turnover-why-top-firms-churn-good-workers-681832/)
-- [Over-regulation is doubling the cost](https://rein.pk/over-regulation-is-doubling-the-cost)
-- [Virgin and Qantas to ban use of portable power banks after string of fires](https://www.abc.net.au/news/2025-11-21/airlines-virgin-australia-qantas-ban-power-banks/106033982)
-- [GitHut – Programming Languages and GitHub &lpar;2014&rpar;](https://githut.info/)
-- [New Glenn Update](https://www.blueorigin.com/news/new-glenn-upgraded-engines-subcooled-components-drive-enhanced-performance)
-- [New OS aims to provide &lpar;some&rpar; compatibility with macOS](https://github.com/ravynsoft/ravynos)
-- [OOP is shifting between domains, not disappearing](https://blog.jsbarretto.com/post/actors)
-- [Data-at-Rest Encryption in DuckDB](https://duckdb.org/2025/11/19/encryption-in-duckdb)
+- [On the Death of Tech Idealism &lpar;and Rise of the Homeless&rpar; in Northern California](https://lithub.com/on-the-death-of-tech-idealism-and-rise-of-the-homeless-in-northern-california/)
+- [Sharper MRI scans may be on horizon thanks to new physics-based model](https://news.rice.edu/news/2025/sharper-mri-scans-may-be-horizon-thanks-new-physics-based-model)
+- [How I learned Vulkan and wrote a small game engine with it &lpar;2024&rpar;](https://edw.is/learning-vulkan/)
+- [3D printing with unconventional vase mode](https://vorpal.se/posts/2025/jun/23/3d-printing-with-unconventional-vase-mode/)
+- [California DMV approves map increase in Waymo driverless operations](https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/autonomous-vehicle-testing-permit-holders/waymo-approved-areas-of-operation-for-driverless-testing-and-deployment/)
+- [Personal blogs are back, should niche blogs be next?](https://disassociated.com/personal-blogs-back-niche-blogs-next/)
+- [Is Matrix Multiplication Ugly?](https://mathenchant.wordpress.com/2025/11/21/is-matrix-multiplication-ugly/)
+- [The Untold History of Arduino &lpar;2016&rpar;](https://arduinohistory.github.io/)
+- [Arduino Terms of Service and Privacy Policy update: setting the record straight](https://blog.arduino.cc/2025/11/21/the-arduino-terms-of-service-and-privacy-policy-update-setting-the-record-straight/)
+- [Pixar: The Early Days A never-before-seen 1996 interview](https://stevejobsarchive.com/stories/pixar-early-days)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

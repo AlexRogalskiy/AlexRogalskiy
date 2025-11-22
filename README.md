@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Australia v England: Ashes first Test, day one – live](https://www.theguardian.com/sport/live/2025/nov/21/australia-vs-england-live-ashes-first-1st-test-day-one-aus-v-eng-cricket-scores-updates-perth)
-- [Cop30: dozens of countries threaten to block resolution unless it contains roadmap to fossil fuel phase-out](https://www.theguardian.com/environment/2025/nov/21/cop30-countries-threaten-block-resolution-unless-roadmap-to-fossil-fuel-phase-out)
-- [Fugees rapper Pras sentenced to 14 years in prison over illegal donations to Obama campaign](https://www.theguardian.com/music/2025/nov/21/fugees-rapper-pras-michel-sentenced-to-14-years-in-prison-over-donations-to-obama-campaign)
-- [Mahmoud Khalil sues Trump officials over ‘collusion’ with anti-Palestinian groups](https://www.theguardian.com/us-news/2025/nov/20/mahmoud-khalil-lawsuit-trump-administration)
-- [Overseas-trained doctors leaving the UK in record numbers](https://www.theguardian.com/society/2025/nov/21/overseas-trained-doctors-leaving-uk-record-numbers)
-- [BBC is losing £1bn a year in potential licence fee revenue, say MPs](https://www.theguardian.com/media/2025/nov/21/bbc-losing-potential-licence-fee-revenue-say-mps)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2025/nov/21/premier-league-10-things-to-look-out-for-this-weekend)
-- [White House announces new oil and gas drilling off California and Florida](https://www.theguardian.com/us-news/2025/nov/20/white-house-new-oil-gas-drilling-california-florida)
-- [CDC website altered to reflect RFK Jr’s belief in link between vaccines and autism](https://www.theguardian.com/us-news/2025/nov/20/cdc-website-vaccines-autism)
-- [Prozac ‘no better than placebo’ for treating children with depression, experts say](https://www.theguardian.com/society/2025/nov/20/prozac-no-better-than-placebo-for-treating-children-with-depression-experts-say)
+- [Australia v England: Ashes first Test, day two – live](https://www.theguardian.com/sport/live/2025/nov/22/australia-vs-england-live-ashes-first-1st-test-day-two-aus-v-eng-cricket-scores-updates-perth)
+- [‘Loyalty should be a two way street’: Marjorie Taylor Greene nods to rift with Trump in resignation letter – US politics live](https://www.theguardian.com/us-news/live/2025/nov/21/donald-trump-democrats-republicans-zohran-mamdani-us-politics-latest-news-updates)
+- [Survivor of Chilean blizzard that killed Briton says staff told trekkers they could proceed](https://www.theguardian.com/world/2025/nov/22/survivor-of-chilean-blizzard-that-killed-briton-says-staff-told-trekkers-to-proceed)
+- [I ❤ NY: Queens recognises Queens as Trump gives Mamdani warm reception](https://www.theguardian.com/us-news/2025/nov/21/trump-mamdani-white-house-new-york)
+- [All My Sons review – the stars of a dream cast align for Arthur Miller’s towering tragedy](https://www.theguardian.com/stage/2025/nov/22/all-my-sons-review-bryan-cranston-marianne-jean-baptiste-paapa-essiedu-wyndhams-theatre-london)
+- [Mind-altering ‘brain weapons’ no longer only science fiction, say researchers](https://www.theguardian.com/world/2025/nov/22/mind-altering-brain-weapons-no-longer-only-science-fiction-say-researchers)
+- [The sailor reviving the lost art of canoe building in New Caledonia](https://www.theguardian.com/world/2025/nov/22/new-caledonia-sailor-reviving-traditional-canoe-building)
+- [Miliband urges Cop30 to find ‘creative’ routes to roadmap on phasing out fossil fuel](https://www.theguardian.com/environment/2025/nov/21/miliband-cop30-creative-routes-roadmap-phase-out-fossil-fuel)
+- [Nigeria reels after 215 children taken in second mass school abduction in a week](https://www.theguardian.com/world/2025/nov/21/nigeria-reels-after-second-mass-school-abduction-in-a-week)
+- [Zelenskyy says Ukraine has impossible choice as Trump pushes plan to end war](https://www.theguardian.com/world/2025/nov/21/zelenskyy-says-ukraine-faces-most-difficult-moment-as-trump-pushes-plan-to-end-war)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [NTSB DC-10-10 Aircraft Accident Report &lpar;1979&rpar; [pdf]](https://www.ntsb.gov/investigations/AccidentReports/Reports/AAR7917.pdf)
-- [Whitehorse residents baffled by &#39;annoying hum&#39; that no one seems able to explain](https://www.cbc.ca/news/canada/north/whitehorse-residents-baffled-by-annoying-hum-that-no-one-seems-able-to-explain-9.6985727)
-- [Outlaws Remaster Review: LucasArts&#39; &quot;Forgotten&quot; FPS Gets the Nightdive Treatment [video]](https://www.youtube.com/watch?v=7RLwUSbYxP8)
-- [Color Synthesizer](https://colorpalette.pro)
-- [Black Friday Game Plan: How We Target Annual Subscriptions &lpar;Steal This Strategy&rpar;](https://www.indiehackers.com/post/black-friday-game-plan-how-we-target-annual-subscriptions-steal-this-strategy-1a4b742e31)
-- [Just a pinch of DSG for curl-able sites and confused AI crawlers](https://iris.coralcmd.net/curlblog/)
-- [The Hidden Story of Nazi Drug Abuse – Blitzed: Nazis on Drugs [video]](https://www.youtube.com/watch?v=7DtR-CNZN44)
-- [Breaking the Million-Token Barrier: Azure ND GB300 v6](https://techcommunity.microsoft.com/blog/azurehighperformancecomputingblog/breaking-the-million-token-barrier-the-technical-achievement-of-azure-nd-gb300-v/4466080)
-- [The Microdose](https://themicrodose.substack.com/)
-- [GPU depreciation could be the next big crisis for hyperscalers](https://www.tomshardware.com/tech-industry/gpu-depreciation-could-be-the-next-big-crisis-coming-for-ai-hyperscalers-after-spending-billions-on-buildouts-next-gen-upgrades-may-amplify-cashflow-quirks)
+- [Show HN: I made yet another AI headshot app because the world needed one more](https://apps.apple.com/pt/app/ai-headshot-editor-glowtap/id6754992714)
+- [Is Apple Intelligence Smart? We Tested Every Feature](https://www.steaktek.com/tech/is-apple-intelligence-actually-smart-we-tested-every-feature/)
+- [Microsoft Will Preload Windows 11 File Explorer to Fix Bad Performance](https://blogs.windows.com/windows-insider/2025/11/21/announcing-windows-11-insider-preview-build-26100-7271-dev-beta-channels/)
+- [Show HN: 12K Reddit posts scraped and AI-scored for startup ideas](https://search.reddit-business-ideas.workers.dev/)
+- [React Suite v6: A Steady Step Toward Modernization](https://medium.com/rsuite/react-suite-v6-a-steady-step-toward-modernization-2af78029978d)
+- [Ask HN: Where can you find old NetBSD packages?](https://news.ycombinator.com/item?id=46011559)
+- [Show HN: MoodLens – Provide insights about your emotional state](https://moodlens.aiwith.me/)
+- [Cryptographers Held an Election. They Can&#39;t Decrypt the Results](https://www.nytimes.com/2025/11/21/world/cryptography-group-lost-election-results.html)
+- [Empathetic, Available, Cheap: When A.I. Offers What Doctors Don&#39;t](https://www.nytimes.com/2025/11/16/well/ai-chatbot-doctors-health-care-advice.html)
+- [On the Death of Tech Idealism &lpar;and Rise of the Homeless&rpar; in Northern California](https://lithub.com/on-the-death-of-tech-idealism-and-rise-of-the-homeless-in-northern-california/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: I made yet another AI headshot app because the world needed one more](https://apps.apple.com/pt/app/ai-headshot-editor-glowtap/id6754992714)
-- [Is Apple Intelligence Smart? We Tested Every Feature](https://www.steaktek.com/tech/is-apple-intelligence-actually-smart-we-tested-every-feature/)
-- [Microsoft Will Preload Windows 11 File Explorer to Fix Bad Performance](https://blogs.windows.com/windows-insider/2025/11/21/announcing-windows-11-insider-preview-build-26100-7271-dev-beta-channels/)
-- [Show HN: 12K Reddit posts scraped and AI-scored for startup ideas](https://search.reddit-business-ideas.workers.dev/)
-- [React Suite v6: A Steady Step Toward Modernization](https://medium.com/rsuite/react-suite-v6-a-steady-step-toward-modernization-2af78029978d)
-- [Ask HN: Where can you find old NetBSD packages?](https://news.ycombinator.com/item?id=46011559)
-- [Show HN: MoodLens – Provide insights about your emotional state](https://moodlens.aiwith.me/)
-- [Cryptographers Held an Election. They Can&#39;t Decrypt the Results](https://www.nytimes.com/2025/11/21/world/cryptography-group-lost-election-results.html)
-- [Empathetic, Available, Cheap: When A.I. Offers What Doctors Don&#39;t](https://www.nytimes.com/2025/11/16/well/ai-chatbot-doctors-health-care-advice.html)
-- [On the Death of Tech Idealism &lpar;and Rise of the Homeless&rpar; in Northern California](https://lithub.com/on-the-death-of-tech-idealism-and-rise-of-the-homeless-in-northern-california/)
+- [Byju&#39;s founder to appeal U.S. court order to pay over $1B in bankruptcy case](https://techcrunch.com/2025/11/22/byjus-founder-to-appeal-u-s-court-order-to-pay-over-1b-in-bankruptcy-case/)
+- [Serenity, Courage, Wisdom and AI](https://thehumanspirit.substack.com/p/serenity-courage-wisdom-and-ai)
+- [Show HN: Emoji Translator](https://emojitranslator.cc)
+- [Compute Forecast &lpar;AI 2027&rpar;](https://ai-2027.com/research/compute-forecast)
+- [Demis Hassabis Reveals Google&#39;s &#39;Secret&#39; Behind Benchmark-Topping Gemini 3](https://officechai.com/ai/demis-hassabis-reveals-googles-secret-behind-benchmark-topping-gemini-3/)
+- [New BoM Site Totalled $96M](https://www.smh.com.au/politics/federal/total-bill-for-bom-s-new-website-came-in-at-96-million-20251121-p5nhcb.html)
+- [Newest Starship booster is significantly damaged during testing](https://arstechnica.com/space/2025/11/newest-starship-booster-is-significantly-damaged-during-testing-early-friday/)
+- [Jeffrey Epstein&#39;s Inbox](https://epsteininbox.com/)
+- [Show HN: I recreated fuse wallets app onboarding in SwiftUI and made it reusable](https://github.com/georgecartridge/FuseAppOnboarding)
+- [Kids for cash scandal &lpar;2004-8, for-profit incarceration in PA&rpar;](https://www.youtube.com/watch?v=tyPGSJUw87I)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

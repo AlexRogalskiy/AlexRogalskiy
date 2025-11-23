@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [On the Death of Tech Idealism &lpar;and Rise of the Homeless&rpar; in Northern California](https://lithub.com/on-the-death-of-tech-idealism-and-rise-of-the-homeless-in-northern-california/)
-- [Sharper MRI scans may be on horizon thanks to new physics-based model](https://news.rice.edu/news/2025/sharper-mri-scans-may-be-horizon-thanks-new-physics-based-model)
-- [How I learned Vulkan and wrote a small game engine with it &lpar;2024&rpar;](https://edw.is/learning-vulkan/)
-- [3D printing with unconventional vase mode](https://vorpal.se/posts/2025/jun/23/3d-printing-with-unconventional-vase-mode/)
-- [California DMV approves map increase in Waymo driverless operations](https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/autonomous-vehicle-testing-permit-holders/waymo-approved-areas-of-operation-for-driverless-testing-and-deployment/)
-- [Personal blogs are back, should niche blogs be next?](https://disassociated.com/personal-blogs-back-niche-blogs-next/)
-- [Is Matrix Multiplication Ugly?](https://mathenchant.wordpress.com/2025/11/21/is-matrix-multiplication-ugly/)
-- [The Untold History of Arduino &lpar;2016&rpar;](https://arduinohistory.github.io/)
-- [Arduino Terms of Service and Privacy Policy update: setting the record straight](https://blog.arduino.cc/2025/11/21/the-arduino-terms-of-service-and-privacy-policy-update-setting-the-record-straight/)
-- [Pixar: The Early Days A never-before-seen 1996 interview](https://stevejobsarchive.com/stories/pixar-early-days)
+- [GCC SC approves inclusion of Algol 68 Front End](https://gcc.gnu.org/pipermail/gcc/2025-November/247020.html)
+- [An Economy of AI Agents](https://arxiv.org/abs/2509.01063)
+- [Meta buried &#39;causal&#39; evidence of social media harm, US court filings allege](https://www.reuters.com/sustainability/boards-policy-regulation/meta-buried-causal-evidence-social-media-harm-us-court-filings-allege-2025-11-23/)
+- [Germany to classify date rape drugs as weapons to ensure justice for survivors](https://www.theguardian.com/society/2025/nov/21/germany-to-classify-date-drugs-as-weapons-in-attempt-to-ensure-justice-for-survivors)
+- [A Year Without Caffeine &lpar;2013&rpar;](https://bryanalexander.org/personal/a-year-without-caffeine/)
+- [A monopoly ISP refuses to fix upstream infrastructure](https://sacbear.com/xfinity-wont-fix-internet/)
+- [NTSB report: Decryption of images from the Titan submersible camera [pdf]](https://data.ntsb.gov/Docket/Document/docBLOB?ID=18741602&FileExtension=pdf&FileName=Underwater%20Camera%20-%20Specialist%27s%20Factual%20Report-Rel.pdf)
+- [How to Spot a Counterfeit Lithium-Ion Battery](https://spectrum.ieee.org/counterfeit-lithium-ion-batteries)
+- [Windows ARM64 Internals: Deconstructing Pointer Authentication](https://www.preludesecurity.com/blog/windows-arm64-internals-deconstructing-pointer-authentication)
+- [WorldGen – Text to Immersive 3D Worlds](https://www.meta.com/en-gb/blog/worldgen-3d-world-generation-reality-labs-generative-ai-research/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

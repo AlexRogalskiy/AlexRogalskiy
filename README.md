@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Australia v England: Ashes first Test, day two – live](https://www.theguardian.com/sport/live/2025/nov/22/australia-vs-england-live-ashes-first-1st-test-day-two-aus-v-eng-cricket-scores-updates-perth)
-- [‘Loyalty should be a two way street’: Marjorie Taylor Greene nods to rift with Trump in resignation letter – US politics live](https://www.theguardian.com/us-news/live/2025/nov/21/donald-trump-democrats-republicans-zohran-mamdani-us-politics-latest-news-updates)
-- [Survivor of Chilean blizzard that killed Briton says staff told trekkers they could proceed](https://www.theguardian.com/world/2025/nov/22/survivor-of-chilean-blizzard-that-killed-briton-says-staff-told-trekkers-to-proceed)
-- [I ❤ NY: Queens recognises Queens as Trump gives Mamdani warm reception](https://www.theguardian.com/us-news/2025/nov/21/trump-mamdani-white-house-new-york)
-- [All My Sons review – the stars of a dream cast align for Arthur Miller’s towering tragedy](https://www.theguardian.com/stage/2025/nov/22/all-my-sons-review-bryan-cranston-marianne-jean-baptiste-paapa-essiedu-wyndhams-theatre-london)
-- [Mind-altering ‘brain weapons’ no longer only science fiction, say researchers](https://www.theguardian.com/world/2025/nov/22/mind-altering-brain-weapons-no-longer-only-science-fiction-say-researchers)
-- [The sailor reviving the lost art of canoe building in New Caledonia](https://www.theguardian.com/world/2025/nov/22/new-caledonia-sailor-reviving-traditional-canoe-building)
-- [Miliband urges Cop30 to find ‘creative’ routes to roadmap on phasing out fossil fuel](https://www.theguardian.com/environment/2025/nov/21/miliband-cop30-creative-routes-roadmap-phase-out-fossil-fuel)
-- [Nigeria reels after 215 children taken in second mass school abduction in a week](https://www.theguardian.com/world/2025/nov/21/nigeria-reels-after-second-mass-school-abduction-in-a-week)
-- [Zelenskyy says Ukraine has impossible choice as Trump pushes plan to end war](https://www.theguardian.com/world/2025/nov/21/zelenskyy-says-ukraine-faces-most-difficult-moment-as-trump-pushes-plan-to-end-war)
+- [Formula One: Las Vegas Grand Prix – live](https://www.theguardian.com/sport/live/2025/nov/23/formula-one-las-vegas-grand-prix-live)
+- [Trump says Ukraine deal is not ‘final offer’ as officials gather for Geneva summit](https://www.theguardian.com/world/2025/nov/23/trump-says-ukraine-deal-is-not-final-offer-as-officials-gather-for-geneva-summit)
+- [Court rules Trump can’t expand fast-track deportation process](https://www.theguardian.com/us-news/2025/nov/22/trump-administration-fast-track-deportation-process)
+- [Security fears rise in Nigeria after more than 300 schoolchildren kidnapped](https://www.theguardian.com/world/2025/nov/22/security-fears-rise-in-nigeria-after-more-than-300-taken-mass-school-kidnapping)
+- [European football: Olise inspires Bayern’s 6-2 comeback; Pogba returns to football as Monaco sub](https://www.theguardian.com/football/2025/nov/22/european-football-olise-inspires-bayerns-6-2-comeback-barca-enjoy-happy-homecoming)
+- [Four top Labour figures could beat Starmer in a leadership race, poll finds](https://www.theguardian.com/uk-news/2025/nov/22/four-top-labour-figures-could-beat-starmer-in-a-leadership-race-poll-finds)
+- [Relief for rail passengers as fare freeze in England announced for 2026](https://www.theguardian.com/money/2025/nov/22/rail-passengers-freeze-fares-england-2026-budget)
+- [Scottish Premiership: Celtic close gap to Hearts after McGregor’s late winner](https://www.theguardian.com/football/2025/nov/22/scottish-premiership-rangers-livingston-st-mirren-celtic)
+- [End of fossil fuel era inches closer as Cop30 deal agreed after bitter standoff](https://www.theguardian.com/environment/2025/nov/22/cop30-deal-inches-closer-to-end-of-fossil-fuel-era-after-bitter-standoff)
+- [Jair Bolsonaro arrested after tampering with ankle tag ‘out of curiosity’](https://www.theguardian.com/world/2025/nov/22/far-right-former-president-jair-bolsonaro-arrested-in-brazil)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

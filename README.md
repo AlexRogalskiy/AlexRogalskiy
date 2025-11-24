@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Formula One: Las Vegas Grand Prix – live](https://www.theguardian.com/sport/live/2025/nov/23/formula-one-las-vegas-grand-prix-live)
-- [Trump says Ukraine deal is not ‘final offer’ as officials gather for Geneva summit](https://www.theguardian.com/world/2025/nov/23/trump-says-ukraine-deal-is-not-final-offer-as-officials-gather-for-geneva-summit)
-- [Court rules Trump can’t expand fast-track deportation process](https://www.theguardian.com/us-news/2025/nov/22/trump-administration-fast-track-deportation-process)
-- [Security fears rise in Nigeria after more than 300 schoolchildren kidnapped](https://www.theguardian.com/world/2025/nov/22/security-fears-rise-in-nigeria-after-more-than-300-taken-mass-school-kidnapping)
-- [European football: Olise inspires Bayern’s 6-2 comeback; Pogba returns to football as Monaco sub](https://www.theguardian.com/football/2025/nov/22/european-football-olise-inspires-bayerns-6-2-comeback-barca-enjoy-happy-homecoming)
-- [Four top Labour figures could beat Starmer in a leadership race, poll finds](https://www.theguardian.com/uk-news/2025/nov/22/four-top-labour-figures-could-beat-starmer-in-a-leadership-race-poll-finds)
-- [Relief for rail passengers as fare freeze in England announced for 2026](https://www.theguardian.com/money/2025/nov/22/rail-passengers-freeze-fares-england-2026-budget)
-- [Scottish Premiership: Celtic close gap to Hearts after McGregor’s late winner](https://www.theguardian.com/football/2025/nov/22/scottish-premiership-rangers-livingston-st-mirren-celtic)
-- [End of fossil fuel era inches closer as Cop30 deal agreed after bitter standoff](https://www.theguardian.com/environment/2025/nov/22/cop30-deal-inches-closer-to-end-of-fossil-fuel-era-after-bitter-standoff)
-- [Jair Bolsonaro arrested after tampering with ankle tag ‘out of curiosity’](https://www.theguardian.com/world/2025/nov/22/far-right-former-president-jair-bolsonaro-arrested-in-brazil)
+- [NFL roundup: Cowboys roar back to stun Eagles as Sanders wins first Browns start](https://www.theguardian.com/sport/2025/nov/23/nfl-roundup-football-scores-sunday)
+- [More then 2,000 trafficked children and lone child asylum seekers missing from UK councils’ care](https://www.theguardian.com/society/2025/nov/24/trafficked-children-lone-child-asylum-seekers-missing-councils-care-uk)
+- [Simpler regulations spearhead UK taskforce plan to get new nuclear reactors built](https://www.theguardian.com/environment/2025/nov/24/new-nuclear-reactors-regulations-uk-government-taskforce)
+- [US woman behind Slender Man stabbing is missing after leaving group home](https://www.theguardian.com/us-news/2025/nov/23/wisconsin-woman-missing-slender-man-stabbing)
+- [Snapchat to tell 440,000 Australians to prove they’re 16 or accounts will be locked in social media ban](https://www.theguardian.com/australia-news/2025/nov/24/snapchat-to-tell-440k-australians-to-prove-theyre-16-or-accounts-will-be-locked-in-social-media-ban)
+- [Donald Glover reveals he had a stroke on Childish Gambino tour in 2024](https://www.theguardian.com/culture/2025/nov/24/donald-glover-stroke-childish-gambino-tour-2024)
+- [Reeves to launch crackdown on benefit fraud alongside lifting two-child limit](https://www.theguardian.com/uk-news/2025/nov/23/rachel-reeves-benefit-fraud-crackdown-two-child-limit-budget)
+- [Berrettini and Cobolli clinch Davis Cup title for Italy after beating Spain](https://www.theguardian.com/sport/2025/nov/23/berrettini-and-cobolli-clinch-davis-cup-title-for-italy-after-beating-spain)
+- [Prisoner 951 review – this defiant Nazanin Zaghari-Ratcliffe drama makes Britain look ridiculous](https://www.theguardian.com/tv-and-radio/2025/nov/23/prisoner-951-review-narges-rashidi-joseph-fiennes-nazanin-zaghari-ratcliffe)
+- [US and Ukraine promise ‘updated’ peace framework after criticism of pro-Russian points in original plan](https://www.theguardian.com/world/2025/nov/23/trump-ukraine-zero-gratitude-peace-plan-international-talks)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

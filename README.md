@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Byju&#39;s founder to appeal U.S. court order to pay over $1B in bankruptcy case](https://techcrunch.com/2025/11/22/byjus-founder-to-appeal-u-s-court-order-to-pay-over-1b-in-bankruptcy-case/)
-- [Serenity, Courage, Wisdom and AI](https://thehumanspirit.substack.com/p/serenity-courage-wisdom-and-ai)
-- [Show HN: Emoji Translator](https://emojitranslator.cc)
-- [Compute Forecast &lpar;AI 2027&rpar;](https://ai-2027.com/research/compute-forecast)
-- [Demis Hassabis Reveals Google&#39;s &#39;Secret&#39; Behind Benchmark-Topping Gemini 3](https://officechai.com/ai/demis-hassabis-reveals-googles-secret-behind-benchmark-topping-gemini-3/)
-- [New BoM Site Totalled $96M](https://www.smh.com.au/politics/federal/total-bill-for-bom-s-new-website-came-in-at-96-million-20251121-p5nhcb.html)
-- [Newest Starship booster is significantly damaged during testing](https://arstechnica.com/space/2025/11/newest-starship-booster-is-significantly-damaged-during-testing-early-friday/)
-- [Jeffrey Epstein&#39;s Inbox](https://epsteininbox.com/)
-- [Show HN: I recreated fuse wallets app onboarding in SwiftUI and made it reusable](https://github.com/georgecartridge/FuseAppOnboarding)
-- [Kids for cash scandal &lpar;2004-8, for-profit incarceration in PA&rpar;](https://www.youtube.com/watch?v=tyPGSJUw87I)
+- [RuBee](https://computer.rip/2025-11-22-RuBee.html)
+- [Japan&#39;s gamble to turn island of Hokkaido into global chip hub](https://www.bbc.com/news/articles/c8676qpxgnqo)
+- [The Cloudflare outage was a good thing](https://gist.github.com/jbreckmckye/32587f2907e473dd06d68b0362fb0048)
+- [KeePassXC 2.7.11 Released](https://keepassxc.org/blog/2025-11-23-2.7.11-released/)
+- [A free tool that stuns LLMs with thousands of invisible Unicode characters](https://gibberifier.com)
+- [McMaster Carr – The Smartest Website You Haven&#39;t Heard Of](https://www.bedelstein.com/post/mcmaster-carr)
+- [Style Reference vs. Image Prompts: What&#39;s the Difference?](https://image2prompts.com/blog/style-reference-vs-image-prompts-what-the-difference)
+- [Visualizing asymmetry in the 196 Lychrel chain &lpar;50k steps, 20k digits&rpar;](https://news.ycombinator.com/item?id=46029848)
+- [Napster Said It Raised $3B from an Investor. Now &#39;Investor&#39; and &#39;Money&#39; Are Gone](https://www.forbes.com/sites/phoebeliu/2025/11/23/napster-said-raised-3-billion-mystery-investor-now-the-investor-money-gone/)
+- [Ouya](https://en.wikipedia.org/wiki/Ouya)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

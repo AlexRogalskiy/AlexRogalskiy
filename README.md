@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [NFL roundup: Cowboys roar back to stun Eagles as Sanders wins first Browns start](https://www.theguardian.com/sport/2025/nov/23/nfl-roundup-football-scores-sunday)
-- [More then 2,000 trafficked children and lone child asylum seekers missing from UK councils’ care](https://www.theguardian.com/society/2025/nov/24/trafficked-children-lone-child-asylum-seekers-missing-councils-care-uk)
-- [Simpler regulations spearhead UK taskforce plan to get new nuclear reactors built](https://www.theguardian.com/environment/2025/nov/24/new-nuclear-reactors-regulations-uk-government-taskforce)
-- [US woman behind Slender Man stabbing is missing after leaving group home](https://www.theguardian.com/us-news/2025/nov/23/wisconsin-woman-missing-slender-man-stabbing)
-- [Snapchat to tell 440,000 Australians to prove they’re 16 or accounts will be locked in social media ban](https://www.theguardian.com/australia-news/2025/nov/24/snapchat-to-tell-440k-australians-to-prove-theyre-16-or-accounts-will-be-locked-in-social-media-ban)
-- [Donald Glover reveals he had a stroke on Childish Gambino tour in 2024](https://www.theguardian.com/culture/2025/nov/24/donald-glover-stroke-childish-gambino-tour-2024)
-- [Reeves to launch crackdown on benefit fraud alongside lifting two-child limit](https://www.theguardian.com/uk-news/2025/nov/23/rachel-reeves-benefit-fraud-crackdown-two-child-limit-budget)
-- [Berrettini and Cobolli clinch Davis Cup title for Italy after beating Spain](https://www.theguardian.com/sport/2025/nov/23/berrettini-and-cobolli-clinch-davis-cup-title-for-italy-after-beating-spain)
-- [Prisoner 951 review – this defiant Nazanin Zaghari-Ratcliffe drama makes Britain look ridiculous](https://www.theguardian.com/tv-and-radio/2025/nov/23/prisoner-951-review-narges-rashidi-joseph-fiennes-nazanin-zaghari-ratcliffe)
-- [US and Ukraine promise ‘updated’ peace framework after criticism of pro-Russian points in original plan](https://www.theguardian.com/world/2025/nov/23/trump-ukraine-zero-gratitude-peace-plan-international-talks)
+- [China’s Xi Jinping raises future of Taiwan in call with Donald Trump](https://www.theguardian.com/world/2025/nov/25/china-taiwan-xi-jinping-call-with-donald-trump)
+- [Skye Gyngell was singular. She had the palate of a chef and the palette of an artist](https://www.theguardian.com/food/2025/nov/25/skye-gyngell-slow-food-movement-chef-singular-artist)
+- [What is the Muslim Brotherhood – explained in 30 seconds](https://www.theguardian.com/world/2025/nov/25/what-is-muslim-brotherhood-islamist-movement-explained)
+- [Thai woman found alive in coffin before temple cremation](https://www.theguardian.com/world/2025/nov/25/thai-woman-found-alive-in-coffin-before-temple-cremation)
+- [DWP to reassess hundreds of thousands of cases in carer’s allowance scandal](https://www.theguardian.com/society/2025/nov/25/dwp-to-reassess-hundreds-of-thousands-of-cases-in-carers-allowance-scandal)
+- [‘It’s like the Post Office scandal’: victims of carer’s allowance crisis speak out](https://www.theguardian.com/uk-news/2025/nov/25/its-like-the-post-office-scandal-victims-of-carers-allowance-crisis-speak-out)
+- [AI could replace 3m low-skilled jobs in the UK by 2035, research finds](https://www.theguardian.com/technology/2025/nov/25/ai-could-replace-3m-low-skilled-jobs-by-2035-research-finds)
+- [More than 100 MPs urge Streeting to approve prostate cancer screening](https://www.theguardian.com/society/2025/nov/24/more-than-100-mps-urge-streeting-to-approve-prostate-cancer-screening)
+- [Two climbers dead after fall on Aoraki Mount Cook, New Zealand’s highest peak](https://www.theguardian.com/world/2025/nov/25/aoraki-mt-cook-new-zealand-two-climbers-dead)
+- [‘I like my players fighting’: David Moyes defends Idrissa Gueye after Everton bust-up](https://www.theguardian.com/football/2025/nov/24/like-my-players-fighting-david-moyes-defends-gueye-everton)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [RuBee](https://computer.rip/2025-11-22-RuBee.html)
-- [Japan&#39;s gamble to turn island of Hokkaido into global chip hub](https://www.bbc.com/news/articles/c8676qpxgnqo)
-- [The Cloudflare outage was a good thing](https://gist.github.com/jbreckmckye/32587f2907e473dd06d68b0362fb0048)
-- [KeePassXC 2.7.11 Released](https://keepassxc.org/blog/2025-11-23-2.7.11-released/)
-- [A free tool that stuns LLMs with thousands of invisible Unicode characters](https://gibberifier.com)
-- [McMaster Carr – The Smartest Website You Haven&#39;t Heard Of](https://www.bedelstein.com/post/mcmaster-carr)
-- [Style Reference vs. Image Prompts: What&#39;s the Difference?](https://image2prompts.com/blog/style-reference-vs-image-prompts-what-the-difference)
-- [Visualizing asymmetry in the 196 Lychrel chain &lpar;50k steps, 20k digits&rpar;](https://news.ycombinator.com/item?id=46029848)
-- [Napster Said It Raised $3B from an Investor. Now &#39;Investor&#39; and &#39;Money&#39; Are Gone](https://www.forbes.com/sites/phoebeliu/2025/11/23/napster-said-raised-3-billion-mystery-investor-now-the-investor-money-gone/)
-- [Ouya](https://en.wikipedia.org/wiki/Ouya)
+- [OpenAI&#39;s AI gadget now has a prototype](https://sherwood.news/tech/altman-openais-ai-gadget-now-has-a-prototype/)
+- [Computer Science and Game Theory: A Conversation – Timothy Roughgarden [video]](https://www.youtube.com/watch?v=cKeuB4B1Ww8)
+- [AI or You? Who is the one who can&#39;t get it done?](https://medium.com/@ahintze_23208/ai-or-you-who-is-the-one-who-cant-get-it-done-1cb60b9a2dbb)
+- [Ask HN: Why do maintainers spend time reviewing my code?](https://news.ycombinator.com/item?id=46041901)
+- [Show HN: Kibun &lpar;気分&rpar; – a decentralized status.cafe alternative I made](https://www.kibun.social/)
+- [Unexpected &#39;Zig-Zag&#39; Structures Discovered in Earth&#39;s Magnetic Field](https://www.sciencealert.com/unexpected-zig-zag-structures-discovered-in-earths-magnetic-field)
+- [The AI Invasion of Knitting and Crochet](https://www.plagiarismtoday.com/2025/11/24/the-ai-invasion-of-knitting-and-crochet/)
+- [Why investors are increasingly fatalistic](https://www.economist.com/finance-and-economics/2025/11/23/why-investors-are-increasingly-fatalistic)
+- [Quantum computing production expands with Shenzhen&#39;s factory project in China](https://dig.watch/updates/quantum-computing-production-expands-with-shenzhens-factory-project-in-china)
+- [Stanford Agentic Reviewer](https://paperreview.ai/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

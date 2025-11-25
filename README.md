@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [We stopped roadmap work for a week and fixed 189 bugs](https://lalitm.com/fixits-are-good-for-the-soul/)
-- [Ask HN: Hearing aid wearers, what&#39;s hot?](https://news.ycombinator.com/item?id=46029699)
-- [Passing the Torch – My Last Root DNSSEC KSK Ceremony as Crypto Officer 4](https://technotes.seastrom.com/2025/11/23/passing-the-torch.html)
-- [My Life Is a Lie: How a Broken Benchmark Broke America](https://www.yesigiveafig.com/p/part-1-my-life-is-a-lie)
-- [&#39;Invisible&#39; microplastics spread in skies as global pollutant](https://www.asahi.com/ajw/articles/16137995)
-- [X&#39;s new country-of-origin feature reveals many &#39;US&#39; accounts to be foreign-run](https://www.hindustantimes.com/world-news/us-news/xs-new-country-of-origin-feature-shakes-maga-and-democrat-circles-as-many-us-accounts-revealed-to-be-foreignrun-101763857104296.html)
-- [Liva AI &lpar;YC S25&rpar; Is Hiring](https://www.ycombinator.com/companies/liva-ai/jobs/fYP8QP8-growth-intern)
-- [Sunsetting Supermaven](https://supermaven.com/blog/sunsetting-supermaven)
-- [Show HN: I wrote a minimal memory allocator in C](https://github.com/t9nzin/memory)
-- [A desktop app for isolated, parallel agentic development](https://github.com/coder/mux)
+- [PS5 now costs less than 64GB of DDR5 memory. RAM jumps to $600 due to shortage](https://www.tomshardware.com/pc-components/ddr5/64gb-of-ddr5-memory-now-costs-more-than-an-entire-ps5-even-after-a-discount-trident-z5-neo-kit-jumps-to-usd600-due-to-dram-shortage-and-its-expected-to-get-worse-into-2026)
+- [Unpowered SSDs slowly lose data](https://www.xda-developers.com/your-unpowered-ssd-is-slowly-losing-your-data/)
+- [Claude Advanced Tool Use](https://www.anthropic.com/engineering/advanced-tool-use)
+- [Claude Opus 4.5](https://www.anthropic.com/news/claude-opus-4-5)
+- [Pebble Watch software is now 100% open source](https://ericmigi.com/blog/pebble-watch-software-is-now-100percent-open-source)
+- [Google&#39;s new &#39;Aluminium OS&#39; project brings Android to PC](https://www.androidauthority.com/aluminium-os-android-for-pcs-3619092/)
+- [Launch HN: Karumi &lpar;YC F25&rpar; – Personalized, agentic product demos](http://karumi.ai/)
+- [The Bitter Lesson of LLM Extensions](https://www.sawyerhood.com/blog/llm-extension)
+- [TSMC Arizona outage saw fab halt, Apple wafers scrapped](https://www.culpium.com/p/tsmc-arizona-outage-saw-fab-halt)
+- [Mind-reading devices can now predict preconscious thoughts](https://www.nature.com/articles/d41586-025-03714-0)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

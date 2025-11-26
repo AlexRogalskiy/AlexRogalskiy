@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [PS5 now costs less than 64GB of DDR5 memory. RAM jumps to $600 due to shortage](https://www.tomshardware.com/pc-components/ddr5/64gb-of-ddr5-memory-now-costs-more-than-an-entire-ps5-even-after-a-discount-trident-z5-neo-kit-jumps-to-usd600-due-to-dram-shortage-and-its-expected-to-get-worse-into-2026)
-- [Unpowered SSDs slowly lose data](https://www.xda-developers.com/your-unpowered-ssd-is-slowly-losing-your-data/)
-- [Claude Advanced Tool Use](https://www.anthropic.com/engineering/advanced-tool-use)
-- [Claude Opus 4.5](https://www.anthropic.com/news/claude-opus-4-5)
-- [Pebble Watch software is now 100% open source](https://ericmigi.com/blog/pebble-watch-software-is-now-100percent-open-source)
-- [Google&#39;s new &#39;Aluminium OS&#39; project brings Android to PC](https://www.androidauthority.com/aluminium-os-android-for-pcs-3619092/)
-- [Launch HN: Karumi &lpar;YC F25&rpar; – Personalized, agentic product demos](http://karumi.ai/)
-- [The Bitter Lesson of LLM Extensions](https://www.sawyerhood.com/blog/llm-extension)
-- [TSMC Arizona outage saw fab halt, Apple wafers scrapped](https://www.culpium.com/p/tsmc-arizona-outage-saw-fab-halt)
-- [Mind-reading devices can now predict preconscious thoughts](https://www.nature.com/articles/d41586-025-03714-0)
+- [Space Truckin&#39; – The Nostromo &lpar;2012&rpar;](https://alienseries.wordpress.com/2012/10/23/space-truckin-the-nostromo/)
+- [Show HN: A WordPress plugin that rewrites image URLs for near-zero-cost delivery](https://wordpress.org/plugins/bandwidth-saver/)
+- [BebboSSH: SSH2 implementation for Amiga systems &lpar;68000, GPLv3&rpar;](https://franke.ms/git/bebbo/bebbossh)
+- [Space: 1999 – Special Effects Techniques](https://catacombs.space1999.net/main/pguide/upsfx.html)
+- [CS234: Reinforcement Learning Winter 2025](https://web.stanford.edu/class/cs234/)
+- [The Generative Burrito Test](https://www.generativist.com/notes/2025/Nov/25/generative-burrito-test.html)
+- [Notes on the Troubleshooting and Repair of Computer and Video Monitors](https://www.repairfaq.org/sam/monfaq.htm)
+- [Reinventing how .NET builds and ships &lpar;again&rpar;](https://devblogs.microsoft.com/dotnet/reinventing-how-dotnet-builds-and-ships-again/)
+- [Show HN: KiDoom – Running DOOM on PCB Traces](https://www.mikeayles.com/#kidoom)
+- [What they don&#39;t tell you about maintaining an open source project](https://andrej.sh/blog/maintaining-open-source-project/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

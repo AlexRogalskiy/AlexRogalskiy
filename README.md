@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [OpenAI&#39;s AI gadget now has a prototype](https://sherwood.news/tech/altman-openais-ai-gadget-now-has-a-prototype/)
-- [Computer Science and Game Theory: A Conversation – Timothy Roughgarden [video]](https://www.youtube.com/watch?v=cKeuB4B1Ww8)
-- [AI or You? Who is the one who can&#39;t get it done?](https://medium.com/@ahintze_23208/ai-or-you-who-is-the-one-who-cant-get-it-done-1cb60b9a2dbb)
-- [Ask HN: Why do maintainers spend time reviewing my code?](https://news.ycombinator.com/item?id=46041901)
-- [Show HN: Kibun &lpar;気分&rpar; – a decentralized status.cafe alternative I made](https://www.kibun.social/)
-- [Unexpected &#39;Zig-Zag&#39; Structures Discovered in Earth&#39;s Magnetic Field](https://www.sciencealert.com/unexpected-zig-zag-structures-discovered-in-earths-magnetic-field)
-- [The AI Invasion of Knitting and Crochet](https://www.plagiarismtoday.com/2025/11/24/the-ai-invasion-of-knitting-and-crochet/)
-- [Why investors are increasingly fatalistic](https://www.economist.com/finance-and-economics/2025/11/23/why-investors-are-increasingly-fatalistic)
-- [Quantum computing production expands with Shenzhen&#39;s factory project in China](https://dig.watch/updates/quantum-computing-production-expands-with-shenzhens-factory-project-in-china)
-- [Stanford Agentic Reviewer](https://paperreview.ai/)
+- [The myth of reflected power &lpar;2017&rpar;](https://www.iz2uuf.net/wp/index.php/2017/07/29/the-myth-of-reflected-power/)
+- [Modder who put Thomas the Tank Engine into Skyrim flips the bird at lawyers](https://www.gamesradar.com/games/the-elder-scrolls/modder-who-first-put-thomas-the-tank-engine-into-skyrim-flips-the-bird-at-the-lawyers-does-it-again-in-morrowind-i-fundamentally-do-not-view-toy-company-ceos-or-media-ceos-as-people/)
+- [Show HN: MidiToolbox – MIDI Utilities for Conversion, Analysis, and Editing](https://miditoolbox.com)
+- [Is This a CoreGraphics Framework Bug in macOS Tahoe?](https://lgug2z.com/articles/is-this-a-coregraphics-framework-bug-in-macos-tahoe/)
+- [Medicare Negotiates 71% Discount on Novo&#39;s Ozempic, Wegovy](https://www.bloomberg.com/news/articles/2025-11-25/medicare-negotiates-71-discount-on-novo-s-ozempic-wegovy)
+- [Acontext, Turn Your Agent&#39;s Task History into Reusable Skills &lpar;SOPs&rpar;](https://github.com/memodb-io/Acontext)
+- [Show HN: Rsync Made It on Jpm](https://youtu.be/jJ3x_BlbL24)
+- [Fei-Fei Li and Justin Johnson, World Labs: Spatial Intelligence and World Models [video]](https://www.youtube.com/watch?v=60iW8FZ7MJU)
+- [Crumb: A Cartoonist&#39;s Life](https://www.lrb.co.uk/the-paper/v47/n21/j.-hoberman/desperate-character)
+- [Space Truckin&#39; – The Nostromo &lpar;2012&rpar;](https://alienseries.wordpress.com/2012/10/23/space-truckin-the-nostromo/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

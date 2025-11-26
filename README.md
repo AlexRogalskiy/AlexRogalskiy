@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [China’s Xi Jinping raises future of Taiwan in call with Donald Trump](https://www.theguardian.com/world/2025/nov/25/china-taiwan-xi-jinping-call-with-donald-trump)
-- [Skye Gyngell was singular. She had the palate of a chef and the palette of an artist](https://www.theguardian.com/food/2025/nov/25/skye-gyngell-slow-food-movement-chef-singular-artist)
-- [What is the Muslim Brotherhood – explained in 30 seconds](https://www.theguardian.com/world/2025/nov/25/what-is-muslim-brotherhood-islamist-movement-explained)
-- [Thai woman found alive in coffin before temple cremation](https://www.theguardian.com/world/2025/nov/25/thai-woman-found-alive-in-coffin-before-temple-cremation)
-- [DWP to reassess hundreds of thousands of cases in carer’s allowance scandal](https://www.theguardian.com/society/2025/nov/25/dwp-to-reassess-hundreds-of-thousands-of-cases-in-carers-allowance-scandal)
-- [‘It’s like the Post Office scandal’: victims of carer’s allowance crisis speak out](https://www.theguardian.com/uk-news/2025/nov/25/its-like-the-post-office-scandal-victims-of-carers-allowance-crisis-speak-out)
-- [AI could replace 3m low-skilled jobs in the UK by 2035, research finds](https://www.theguardian.com/technology/2025/nov/25/ai-could-replace-3m-low-skilled-jobs-by-2035-research-finds)
-- [More than 100 MPs urge Streeting to approve prostate cancer screening](https://www.theguardian.com/society/2025/nov/24/more-than-100-mps-urge-streeting-to-approve-prostate-cancer-screening)
-- [Two climbers dead after fall on Aoraki Mount Cook, New Zealand’s highest peak](https://www.theguardian.com/world/2025/nov/25/aoraki-mt-cook-new-zealand-two-climbers-dead)
-- [‘I like my players fighting’: David Moyes defends Idrissa Gueye after Everton bust-up](https://www.theguardian.com/football/2025/nov/24/like-my-players-fighting-david-moyes-defends-gueye-everton)
+- [Joan Templeman, wife of billionaire Richard Branson, dies aged 80](https://www.theguardian.com/business/2025/nov/26/joan-templeman-wife-richard-branson-dies-aged-80)
+- [Trump news at a glance: Pete Hegseth increases administration’s attacks on senator Mark Kelly](https://www.theguardian.com/us-news/2025/nov/25/trump-administration-news-updates-today-latest)
+- [UK budget to target cost of living crisis as Reeves battles to keep Labour MPs on side](https://www.theguardian.com/uk-news/2025/nov/25/uk-budget-to-target-cost-of-living-crisis-as-reeves-battles-to-keep-labour-mps-onside)
+- [Excessive restraint in immigration detention centres ‘deeply concerning’, report finds](https://www.theguardian.com/uk-news/2025/nov/26/excessive-restraint-in-immigration-detention-centres-deeply-concerning-report-finds)
+- [Championship roundup: Coventry sink Boro to go 10 points clear, Ipswich up to fourth](https://www.theguardian.com/football/2025/nov/25/championship-roundup-coventry-sink-boro-to-go-10-points-clear-ipswich-up-to-fourth)
+- [Being a famous singer raises risk of early death, researchers say](https://www.theguardian.com/science/2025/nov/25/being-famous-singer-raises-risk-early-death-research)
+- [Champions League roundup: Dortmund thrash Villarreal, McTominay on target for Napoli](https://www.theguardian.com/football/2025/nov/25/champions-league-roundup-dortmund-thrash-villarreal-mctominay-on-target-for-napoli)
+- [Study claims to provide first direct evidence of dark matter](https://www.theguardian.com/science/2025/nov/25/study-claims-to-provide-first-direct-evidence-of-dark-matter)
+- [Aubameyang fires Marseille to win as Newcastle fail to heed Howe’s warning](https://www.theguardian.com/football/2025/nov/25/marseille-newcastle-champions-league-match-report)
+- [Estêvão wonder goal lights up Chelsea’s statement win over 10-man Barcelona](https://www.theguardian.com/football/2025/nov/25/chelsea-barcelona-champions-league-match-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

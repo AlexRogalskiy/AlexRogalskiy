@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Space Truckin&#39; – The Nostromo &lpar;2012&rpar;](https://alienseries.wordpress.com/2012/10/23/space-truckin-the-nostromo/)
-- [Show HN: A WordPress plugin that rewrites image URLs for near-zero-cost delivery](https://wordpress.org/plugins/bandwidth-saver/)
-- [BebboSSH: SSH2 implementation for Amiga systems &lpar;68000, GPLv3&rpar;](https://franke.ms/git/bebbo/bebbossh)
-- [Space: 1999 – Special Effects Techniques](https://catacombs.space1999.net/main/pguide/upsfx.html)
-- [CS234: Reinforcement Learning Winter 2025](https://web.stanford.edu/class/cs234/)
-- [The Generative Burrito Test](https://www.generativist.com/notes/2025/Nov/25/generative-burrito-test.html)
-- [Notes on the Troubleshooting and Repair of Computer and Video Monitors](https://www.repairfaq.org/sam/monfaq.htm)
-- [Reinventing how .NET builds and ships &lpar;again&rpar;](https://devblogs.microsoft.com/dotnet/reinventing-how-dotnet-builds-and-ships-again/)
-- [Show HN: KiDoom – Running DOOM on PCB Traces](https://www.mikeayles.com/#kidoom)
-- [What they don&#39;t tell you about maintaining an open source project](https://andrej.sh/blog/maintaining-open-source-project/)
+- [Migrating the Main Zig Repository from GitHub to Codeberg](https://ziglang.org/news/migrating-from-github-to-codeberg/)
+- [The Tesla Model Y Just Scored the Worst Reliability Rating in a Decade](https://www.autoblog.com/news/the-bestselling-tesla-model-y-just-scored-the-worst-reliability-rating-in-a-decade)
+- [AdBlock and Signal are for terrorists, according to French govt &lpar;2023&rpar; [video]](https://www.youtube.com/watch?v=1q1hjmwLqe4)
+- [Ilya Sutskever, Yann LeCun and the End of “Just Add GPUs”](https://www.abzglobal.net/web-development-blog/ilya-sutskever-yann-lecun-and-the-end-of-just-add-gpus)
+- [Running Unsupported iOS on Deprecated Devices](https://nyansatan.github.io/run-unsupported-ios/)
+- [Bring Bathroom Doors Back to Hotels](https://bringbackdoors.com/)
+- [The EU made Apple adopt new Wi-Fi standards, and now Android can support AirDrop](https://arstechnica.com/gadgets/2025/11/the-eu-made-apple-adopt-new-wi-fi-standards-and-now-android-can-support-airdrop/)
+- [S&amp;box is now an open source game engine](https://sbox.game/news/update-25-11-26)
+- [Don&#39;t Download Apps](https://blog.calebjay.com/posts/dont-download-apps/)
+- [Alan.app – Add a Border to macOS Active Window](https://tyler.io/2025/11/alan/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

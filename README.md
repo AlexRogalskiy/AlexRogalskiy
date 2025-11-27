@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Joan Templeman, wife of billionaire Richard Branson, dies aged 80](https://www.theguardian.com/business/2025/nov/26/joan-templeman-wife-richard-branson-dies-aged-80)
-- [Trump news at a glance: Pete Hegseth increases administration’s attacks on senator Mark Kelly](https://www.theguardian.com/us-news/2025/nov/25/trump-administration-news-updates-today-latest)
-- [UK budget to target cost of living crisis as Reeves battles to keep Labour MPs on side](https://www.theguardian.com/uk-news/2025/nov/25/uk-budget-to-target-cost-of-living-crisis-as-reeves-battles-to-keep-labour-mps-onside)
-- [Excessive restraint in immigration detention centres ‘deeply concerning’, report finds](https://www.theguardian.com/uk-news/2025/nov/26/excessive-restraint-in-immigration-detention-centres-deeply-concerning-report-finds)
-- [Championship roundup: Coventry sink Boro to go 10 points clear, Ipswich up to fourth](https://www.theguardian.com/football/2025/nov/25/championship-roundup-coventry-sink-boro-to-go-10-points-clear-ipswich-up-to-fourth)
-- [Being a famous singer raises risk of early death, researchers say](https://www.theguardian.com/science/2025/nov/25/being-famous-singer-raises-risk-early-death-research)
-- [Champions League roundup: Dortmund thrash Villarreal, McTominay on target for Napoli](https://www.theguardian.com/football/2025/nov/25/champions-league-roundup-dortmund-thrash-villarreal-mctominay-on-target-for-napoli)
-- [Study claims to provide first direct evidence of dark matter](https://www.theguardian.com/science/2025/nov/25/study-claims-to-provide-first-direct-evidence-of-dark-matter)
-- [Aubameyang fires Marseille to win as Newcastle fail to heed Howe’s warning](https://www.theguardian.com/football/2025/nov/25/marseille-newcastle-champions-league-match-report)
-- [Estêvão wonder goal lights up Chelsea’s statement win over 10-man Barcelona](https://www.theguardian.com/football/2025/nov/25/chelsea-barcelona-champions-league-match-report)
+- [Washington DC shooting: Trump calls shooting of national guard members ‘an act of terror’, vows new scrutiny of immigrants – latest updates](https://www.theguardian.com/us-news/live/2025/nov/26/us-politics-latest-news-pete-hegseth-donald-trump-marjorie-taylor-greene-mark-kelly)
+- [Tom Phillips case: New Zealand to hold public inquiry into disappearance of fugitive father and children](https://www.theguardian.com/world/2025/nov/27/tom-phillips-case-nz-new-zealand-public-inquiry-fugitive-father-ntwnfb)
+- [Perth pitch not the problem for England in first Ashes Test as it receives highest ICC rating](https://www.theguardian.com/sport/2025/nov/27/england-ashes-first-test-perth-pitch-not-the-problem)
+- [Crowdy Bay shark attack: woman killed on NSW beach and man taken to hospital in critical condition](https://www.theguardian.com/environment/2025/nov/27/crowdy-beach-bay-shark-attack-nsw-mid-north-coast)
+- [Foreign interference or opportunistic grifting: why are so many pro-Trump X accounts based in Asia?](https://www.theguardian.com/technology/2025/nov/27/pro-trump-x-twitter-accounts-based-in-asia)
+- [£15,000 prize launched for writers from refugee and migrant backgrounds](https://www.theguardian.com/books/2025/nov/27/15000-prize-footnote-x-counterpoints-refugee-migrant)
+- [UK net migration predicted to drop to pre-Brexit levels, figures show](https://www.theguardian.com/uk-news/2025/nov/27/uk-net-migration-predicted-to-drop-to-pre-brexit-levels-figures-show)
+- [The Artist by Lucy Steeds wins Waterstones book of the year](https://www.theguardian.com/books/2025/nov/27/the-artist-by-lucy-steeds-wins-waterstones-book-of-the-year)
+- [‘I’m feeling safe’: Arne Slot insists he retains Liverpool’s support after PSV humiliation](https://www.theguardian.com/football/2025/nov/26/im-feeling-safe-arne-slot-insists-he-retains-liverpools-support-psv-humiliation)
+- [Champions League roundup: Mbappé hits four at Olympiakos, Atlético stun Inter](https://www.theguardian.com/football/2025/nov/26/champions-league-roundup-mbappe-real-madrid-olympiakos-atletico-inter)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The myth of reflected power &lpar;2017&rpar;](https://www.iz2uuf.net/wp/index.php/2017/07/29/the-myth-of-reflected-power/)
-- [Modder who put Thomas the Tank Engine into Skyrim flips the bird at lawyers](https://www.gamesradar.com/games/the-elder-scrolls/modder-who-first-put-thomas-the-tank-engine-into-skyrim-flips-the-bird-at-the-lawyers-does-it-again-in-morrowind-i-fundamentally-do-not-view-toy-company-ceos-or-media-ceos-as-people/)
-- [Show HN: MidiToolbox – MIDI Utilities for Conversion, Analysis, and Editing](https://miditoolbox.com)
-- [Is This a CoreGraphics Framework Bug in macOS Tahoe?](https://lgug2z.com/articles/is-this-a-coregraphics-framework-bug-in-macos-tahoe/)
-- [Medicare Negotiates 71% Discount on Novo&#39;s Ozempic, Wegovy](https://www.bloomberg.com/news/articles/2025-11-25/medicare-negotiates-71-discount-on-novo-s-ozempic-wegovy)
-- [Acontext, Turn Your Agent&#39;s Task History into Reusable Skills &lpar;SOPs&rpar;](https://github.com/memodb-io/Acontext)
-- [Show HN: Rsync Made It on Jpm](https://youtu.be/jJ3x_BlbL24)
-- [Fei-Fei Li and Justin Johnson, World Labs: Spatial Intelligence and World Models [video]](https://www.youtube.com/watch?v=60iW8FZ7MJU)
-- [Crumb: A Cartoonist&#39;s Life](https://www.lrb.co.uk/the-paper/v47/n21/j.-hoberman/desperate-character)
-- [Space Truckin&#39; – The Nostromo &lpar;2012&rpar;](https://alienseries.wordpress.com/2012/10/23/space-truckin-the-nostromo/)
+- [DIY NAS: 2026 Edition](https://blog.briancmoses.com/2025/11/diy-nas-2026-edition.html)
+- [Graph Algorithms in Rayon](https://davidlattimore.github.io/posts/2025/11/27/graph-algorithms-in-rayon.html)
+- [Watch and](https://u.fsf.org/escape-to-freedom)
+- [The Zero-Width Space-Place](https://starikov.co/zero-width-space/)
+- [Green Card Interviews End in Handcuffs for Spouses of U.S. Citizens](https://www.nytimes.com/2025/11/26/us/trump-green-card-interview-arrests.html)
+- [The Legend of Kipp Hickman](https://www.feistyduck.com/newsletter/issue_131_the_legend_of_kipp_hickman)
+- [Vibe coding: What is it good for? Absolutely nothing](https://www.theregister.com/2025/11/24/opinion_column_vibe_coding/)
+- [CDE – Common Desktop Environment – Release 2.5.3](https://sourceforge.net/p/cdesktopenv/code/ci/e945fc8b08a4882769e29f20fbbb29afe6019da1/)
+- [ArXiv Monthly Submissions Chart](https://arxiv.org/stats/monthly_submissions)
+- [&#39;The narwhals stop calling&#39;: how noise from ships silences wildlife in Arctic](https://www.theguardian.com/environment/2025/nov/25/shipping-noise-arctic-whales-narwhals-sound-quieter-vessels)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

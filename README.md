@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [DIY NAS: 2026 Edition](https://blog.briancmoses.com/2025/11/diy-nas-2026-edition.html)
-- [Graph Algorithms in Rayon](https://davidlattimore.github.io/posts/2025/11/27/graph-algorithms-in-rayon.html)
-- [Watch and](https://u.fsf.org/escape-to-freedom)
-- [The Zero-Width Space-Place](https://starikov.co/zero-width-space/)
-- [Green Card Interviews End in Handcuffs for Spouses of U.S. Citizens](https://www.nytimes.com/2025/11/26/us/trump-green-card-interview-arrests.html)
-- [The Legend of Kipp Hickman](https://www.feistyduck.com/newsletter/issue_131_the_legend_of_kipp_hickman)
-- [Vibe coding: What is it good for? Absolutely nothing](https://www.theregister.com/2025/11/24/opinion_column_vibe_coding/)
-- [CDE – Common Desktop Environment – Release 2.5.3](https://sourceforge.net/p/cdesktopenv/code/ci/e945fc8b08a4882769e29f20fbbb29afe6019da1/)
-- [ArXiv Monthly Submissions Chart](https://arxiv.org/stats/monthly_submissions)
-- [&#39;The narwhals stop calling&#39;: how noise from ships silences wildlife in Arctic](https://www.theguardian.com/environment/2025/nov/25/shipping-noise-arctic-whales-narwhals-sound-quieter-vessels)
+- [Quantica: A Python-like language with native quantum computing built in](https://github.com/Quantica-Foundation/quantica-lang)
+- [My car charger can boil water really fast [video]](https://www.youtube.com/watch?v=INZybkX8tLI)
+- [What&#39;s in a Button?](https://belkadan.com/blog/2025/11/Whats-in-a-Button/)
+- [Nvidia reportedly no longer supplying VRAM to GPU partners due to memory crunch](https://www.tomshardware.com/pc-components/gpus/nvidia-reportedly-no-longer-supplying-vram-to-its-gpu-board-partners-in-response-to-memory-crunch-rumor-claims-vendors-will-only-get-the-die-forced-to-source-memory-on-their-own)
+- [Jeffrey Epstein Was the Unofficial Advice Columnist for the Elites](https://defector.com/jeffrey-epstein-was-the-unofficial-advice-columnist-for-the-elites)
+- [Former MIT scientist funded by Epstein made racist and sexist claims in private](http://www.bostonglobe.com/2025/11/21/metro/epstein-emails-mit-joscha-bach/)
+- [Investigating a Possible Scammer in Journalism&#39;s AI Era](https://thelocal.to/investigating-scam-journalism-ai/)
+- [Ask HN: What&#39;s the point of starting a startup if the failure rate is so high?](https://news.ycombinator.com/item?id=46075056)
+- [Can RGB light strips produce 16M colors?](https://news.ycombinator.com/item?id=46075033)
+- [Show HN: I built a website for games that catch my eye](https://alistof.games)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

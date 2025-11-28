@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Migrating the Main Zig Repository from GitHub to Codeberg](https://ziglang.org/news/migrating-from-github-to-codeberg/)
-- [The Tesla Model Y Just Scored the Worst Reliability Rating in a Decade](https://www.autoblog.com/news/the-bestselling-tesla-model-y-just-scored-the-worst-reliability-rating-in-a-decade)
-- [AdBlock and Signal are for terrorists, according to French govt &lpar;2023&rpar; [video]](https://www.youtube.com/watch?v=1q1hjmwLqe4)
-- [Ilya Sutskever, Yann LeCun and the End of “Just Add GPUs”](https://www.abzglobal.net/web-development-blog/ilya-sutskever-yann-lecun-and-the-end-of-just-add-gpus)
-- [Running Unsupported iOS on Deprecated Devices](https://nyansatan.github.io/run-unsupported-ios/)
-- [Bring Bathroom Doors Back to Hotels](https://bringbackdoors.com/)
-- [The EU made Apple adopt new Wi-Fi standards, and now Android can support AirDrop](https://arstechnica.com/gadgets/2025/11/the-eu-made-apple-adopt-new-wi-fi-standards-and-now-android-can-support-airdrop/)
-- [S&amp;box is now an open source game engine](https://sbox.game/news/update-25-11-26)
-- [Don&#39;t Download Apps](https://blog.calebjay.com/posts/dont-download-apps/)
-- [Alan.app – Add a Border to macOS Active Window](https://tyler.io/2025/11/alan/)
+- [How Charles M Schulz created Charlie Brown and Snoopy &lpar;2024&rpar;](https://www.bbc.com/culture/article/20241205-how-charles-m-schulz-created-charlie-brown-and-snoopy)
+- [Bird flu viruses are resistant to fever, making them a major threat to humans](https://medicalxpress.com/news/2025-11-bird-flu-viruses-resistant-fever.html)
+- [Vsora Jotunn-8 5nm European inference chip](https://vsora.com/products/jotunn-8/)
+- [250MWh &#39;Sand Battery&#39; to start construction in Finland](https://www.energy-storage.news/250mwh-sand-battery-to-start-construction-in-finland-for-both-heating-and-ancillary-services/)
+- [A programmer-friendly I/O abstraction over io_uring and kqueue &lpar;2022&rpar;](https://tigerbeetle.com/blog/2022-11-23-a-friendly-abstraction-over-iouring-and-kqueue/)
+- [Underrated reasons to be thankful V](https://dynomight.net/thanks-5/)
+- [DeepSeekMath-V2: Towards Self-Verifiable Mathematical Reasoning [pdf]](https://github.com/deepseek-ai/DeepSeek-Math-V2/blob/main/DeepSeekMath_V2.pdf)
+- [Same-day upstream Linux support for Snapdragon 8 Elite Gen 5](https://www.qualcomm.com/developer/blog/2025/10/same-day-snapdragon-8-elite-gen-5-upstream-linux-support)
+- [GitLab discovers widespread NPM supply chain attack](https://about.gitlab.com/blog/gitlab-discovers-widespread-npm-supply-chain-attack/)
+- [Show HN: Runprompt – run .prompt files from the command line](https://github.com/chr15m/runprompt)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

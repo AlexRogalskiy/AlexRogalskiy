@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Washington DC shooting: Trump calls shooting of national guard members ‘an act of terror’, vows new scrutiny of immigrants – latest updates](https://www.theguardian.com/us-news/live/2025/nov/26/us-politics-latest-news-pete-hegseth-donald-trump-marjorie-taylor-greene-mark-kelly)
-- [Tom Phillips case: New Zealand to hold public inquiry into disappearance of fugitive father and children](https://www.theguardian.com/world/2025/nov/27/tom-phillips-case-nz-new-zealand-public-inquiry-fugitive-father-ntwnfb)
-- [Perth pitch not the problem for England in first Ashes Test as it receives highest ICC rating](https://www.theguardian.com/sport/2025/nov/27/england-ashes-first-test-perth-pitch-not-the-problem)
-- [Crowdy Bay shark attack: woman killed on NSW beach and man taken to hospital in critical condition](https://www.theguardian.com/environment/2025/nov/27/crowdy-beach-bay-shark-attack-nsw-mid-north-coast)
-- [Foreign interference or opportunistic grifting: why are so many pro-Trump X accounts based in Asia?](https://www.theguardian.com/technology/2025/nov/27/pro-trump-x-twitter-accounts-based-in-asia)
-- [£15,000 prize launched for writers from refugee and migrant backgrounds](https://www.theguardian.com/books/2025/nov/27/15000-prize-footnote-x-counterpoints-refugee-migrant)
-- [UK net migration predicted to drop to pre-Brexit levels, figures show](https://www.theguardian.com/uk-news/2025/nov/27/uk-net-migration-predicted-to-drop-to-pre-brexit-levels-figures-show)
-- [The Artist by Lucy Steeds wins Waterstones book of the year](https://www.theguardian.com/books/2025/nov/27/the-artist-by-lucy-steeds-wins-waterstones-book-of-the-year)
-- [‘I’m feeling safe’: Arne Slot insists he retains Liverpool’s support after PSV humiliation](https://www.theguardian.com/football/2025/nov/26/im-feeling-safe-arne-slot-insists-he-retains-liverpools-support-psv-humiliation)
-- [Champions League roundup: Mbappé hits four at Olympiakos, Atlético stun Inter](https://www.theguardian.com/football/2025/nov/26/champions-league-roundup-mbappe-real-madrid-olympiakos-atletico-inter)
+- [Millions in China cram for civil service exam and the hope of a job for life](https://www.theguardian.com/world/2025/nov/28/china-civil-service-exam-age-limit-changed)
+- [How do I respond to someone who says ‘I’m not racist, but ... ’? | Leading questions](https://www.theguardian.com/lifeandstyle/2025/nov/28/how-respond-someone-says-im-not-racist-but-advice)
+- [Canada minister resigns from cabinet over Carney’s controversial oil pipeline deal](https://www.theguardian.com/world/2025/nov/27/mark-carney-alberta-oil-pipeline-deal-canada-first-nations)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2025/nov/28/premier-league-10-things-to-look-out-for-this-weekend)
+- [National guard member Sarah Beckstrom has died after shooting in Washington DC, Trump announces](https://www.theguardian.com/us-news/2025/nov/28/national-guard-member-sarah-beckstrom-has-died-after-shooting-in-washington-dc-trump-announces)
+- [Defiant Arne Slot vows to ‘fight on’ after meeting with Liverpool sporting director](https://www.theguardian.com/football/2025/nov/27/defiant-arne-slot-vows-to-fight-on-as-liverpools-nosedive-gathers-pace)
+- [Kalimuendo strikes in Nottingham Forest’s nostalgic European win over Malmö](https://www.theguardian.com/football/2025/nov/27/nottingham-forest-malmo-europa-league-match-report)
+- [NFL Thanksgiving games: Love lifts Packers as Cowboys outgun Chiefs](https://www.theguardian.com/sport/2025/nov/27/nfl-thanksgiving-games-roundup)
+- [For Trump, there’s Columbus Day and Victory Day, but no World Aids Day](https://www.theguardian.com/us-news/2025/nov/27/awareness-days-events-trump)
+- [Girl, 12, killed herself after medical staff failed to spot brain disorder, inquest finds](https://www.theguardian.com/uk-news/2025/nov/27/girl-12-killed-herself-after-medical-staff-failed-to-spot-brain-disorder-inquest-finds)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

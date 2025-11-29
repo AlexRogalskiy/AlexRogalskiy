@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Millions in China cram for civil service exam and the hope of a job for life](https://www.theguardian.com/world/2025/nov/28/china-civil-service-exam-age-limit-changed)
-- [How do I respond to someone who says ‘I’m not racist, but ... ’? | Leading questions](https://www.theguardian.com/lifeandstyle/2025/nov/28/how-respond-someone-says-im-not-racist-but-advice)
-- [Canada minister resigns from cabinet over Carney’s controversial oil pipeline deal](https://www.theguardian.com/world/2025/nov/27/mark-carney-alberta-oil-pipeline-deal-canada-first-nations)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2025/nov/28/premier-league-10-things-to-look-out-for-this-weekend)
-- [National guard member Sarah Beckstrom has died after shooting in Washington DC, Trump announces](https://www.theguardian.com/us-news/2025/nov/28/national-guard-member-sarah-beckstrom-has-died-after-shooting-in-washington-dc-trump-announces)
-- [Defiant Arne Slot vows to ‘fight on’ after meeting with Liverpool sporting director](https://www.theguardian.com/football/2025/nov/27/defiant-arne-slot-vows-to-fight-on-as-liverpools-nosedive-gathers-pace)
-- [Kalimuendo strikes in Nottingham Forest’s nostalgic European win over Malmö](https://www.theguardian.com/football/2025/nov/27/nottingham-forest-malmo-europa-league-match-report)
-- [NFL Thanksgiving games: Love lifts Packers as Cowboys outgun Chiefs](https://www.theguardian.com/sport/2025/nov/27/nfl-thanksgiving-games-roundup)
-- [For Trump, there’s Columbus Day and Victory Day, but no World Aids Day](https://www.theguardian.com/us-news/2025/nov/27/awareness-days-events-trump)
-- [Girl, 12, killed herself after medical staff failed to spot brain disorder, inquest finds](https://www.theguardian.com/uk-news/2025/nov/27/girl-12-killed-herself-after-medical-staff-failed-to-spot-brain-disorder-inquest-finds)
+- [US halts all asylum decisions after National Guard shooting](https://www.theguardian.com/us-news/2025/nov/29/us-halts-all-asylum-decisions-after-national-guard-shooting)
+- [What is an autopen and why can’t Trump stop talking about it?](https://www.theguardian.com/us-news/2025/nov/29/what-is-an-autopen-and-why-cant-trump-stop-talking-about-it)
+- [Imran Sherwani, Great Britain Olympic hockey hero, dies aged 63](https://www.theguardian.com/sport/2025/nov/29/imran-sherwani-great-britain-olympic-hockey-hero-dies-aged-63)
+- [Airbus issues major A320 recall after mid-air incident, threatening global flight disruption](https://www.theguardian.com/business/2025/nov/28/airbus-issues-major-a320-recall-after-recent-mid-air-incident)
+- [Trump to pardon ex-Honduras leader serving drug trafficking sentence in US](https://www.theguardian.com/us-news/2025/nov/28/trump-pardon-honduras-hernandez-drugs)
+- [Women’s Nations League: Spain’s Cata Coll denies Germany to keep final in the balance](https://www.theguardian.com/football/2025/nov/28/womens-nations-league-spains-cata-coll-denies-germany-to-keep-final-in-the-balance)
+- [After landmark climate win, lawyer hopes for a ‘new legal order’ to protect Indigenous rights](https://www.theguardian.com/world/2025/nov/29/after-landmark-climate-win-lawyer-hopes-for-a-new-legal-order-to-protect-indigenous-rights)
+- [Londoners told to be vigilant with messages after cyber-attack on council](https://www.theguardian.com/society/2025/nov/28/london-vigilant-with-messages-cyber-attack-kensington-chelsea-council)
+- [‘His impact is huge’: Arteta hails Rice’s attacking evolution before Chelsea test](https://www.theguardian.com/football/2025/nov/28/mikel-arteta-declan-rice-arsenal-chelsea-premier-league)
+- [Jeremy Corbyn and Zara Sultana’s Your Party reveals shortlist for official name](https://www.theguardian.com/politics/2025/nov/28/jeremy-corbyn-and-zara-sultanas-your-party-reveals-shortlist-for-official-name)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Quantica: A Python-like language with native quantum computing built in](https://github.com/Quantica-Foundation/quantica-lang)
-- [My car charger can boil water really fast [video]](https://www.youtube.com/watch?v=INZybkX8tLI)
-- [What&#39;s in a Button?](https://belkadan.com/blog/2025/11/Whats-in-a-Button/)
-- [Nvidia reportedly no longer supplying VRAM to GPU partners due to memory crunch](https://www.tomshardware.com/pc-components/gpus/nvidia-reportedly-no-longer-supplying-vram-to-its-gpu-board-partners-in-response-to-memory-crunch-rumor-claims-vendors-will-only-get-the-die-forced-to-source-memory-on-their-own)
-- [Jeffrey Epstein Was the Unofficial Advice Columnist for the Elites](https://defector.com/jeffrey-epstein-was-the-unofficial-advice-columnist-for-the-elites)
-- [Former MIT scientist funded by Epstein made racist and sexist claims in private](http://www.bostonglobe.com/2025/11/21/metro/epstein-emails-mit-joscha-bach/)
-- [Investigating a Possible Scammer in Journalism&#39;s AI Era](https://thelocal.to/investigating-scam-journalism-ai/)
-- [Ask HN: What&#39;s the point of starting a startup if the failure rate is so high?](https://news.ycombinator.com/item?id=46075056)
-- [Can RGB light strips produce 16M colors?](https://news.ycombinator.com/item?id=46075033)
-- [Show HN: I built a website for games that catch my eye](https://alistof.games)
+- [Git-embigenner: Spam empty commits](https://github.com/veqqq/git-embigenner)
+- [Familial Alzheimer&#39;s mutation: Role of SORLA in release of neurotrophic exosomes](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.70591)
+- [Pirate Site Operator&#39;s Appeal Goes Bad, Court Extends Prison Term by 50%](https://torrentfreak.com/pirate-site-operators-appeal-goes-bad-court-extends-prison-term-by-50-251128/)
+- [Kyoto and the Stories We Still Need to Tell About Fossil Fuel Obstruction](https://blog.ucs.org/delta-merner/kyoto-and-the-stories-we-still-need-to-tell-about-fossil-fuel-obstruction/)
+- [When did cats become domesticated? New DNA evidence changes the story.](https://www.nationalgeographic.com/animals/article/when-did-cats-become-domesticated)
+- [SpecFive Strike: compact handheld Linux workstation](https://specfive.com/products/spec5-strike)
+- [Okeymeta](https://www.okeymeta.com.ng/)
+- [Ask HN: What Are You Working On?](https://news.ycombinator.com/item?id=46084721)
+- [Trump Cut Europe Out of Ukraine Talks. Here’s How Europe Pushed Back.](https://www.nytimes.com/2025/11/27/world/europe/europe-ukraine-trump.html)
+- [Modern Developer Tools as Attack Surfaces: Lessons from Shai-Hulud](https://sitezwin.com/posts/2025-11-29-sha-hulud-the-second-coming-encouter/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

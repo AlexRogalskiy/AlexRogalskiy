@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [US halts all asylum decisions after National Guard shooting](https://www.theguardian.com/us-news/2025/nov/29/us-halts-all-asylum-decisions-after-national-guard-shooting)
-- [What is an autopen and why can’t Trump stop talking about it?](https://www.theguardian.com/us-news/2025/nov/29/what-is-an-autopen-and-why-cant-trump-stop-talking-about-it)
-- [Imran Sherwani, Great Britain Olympic hockey hero, dies aged 63](https://www.theguardian.com/sport/2025/nov/29/imran-sherwani-great-britain-olympic-hockey-hero-dies-aged-63)
-- [Airbus issues major A320 recall after mid-air incident, threatening global flight disruption](https://www.theguardian.com/business/2025/nov/28/airbus-issues-major-a320-recall-after-recent-mid-air-incident)
-- [Trump to pardon ex-Honduras leader serving drug trafficking sentence in US](https://www.theguardian.com/us-news/2025/nov/28/trump-pardon-honduras-hernandez-drugs)
-- [Women’s Nations League: Spain’s Cata Coll denies Germany to keep final in the balance](https://www.theguardian.com/football/2025/nov/28/womens-nations-league-spains-cata-coll-denies-germany-to-keep-final-in-the-balance)
-- [After landmark climate win, lawyer hopes for a ‘new legal order’ to protect Indigenous rights](https://www.theguardian.com/world/2025/nov/29/after-landmark-climate-win-lawyer-hopes-for-a-new-legal-order-to-protect-indigenous-rights)
-- [Londoners told to be vigilant with messages after cyber-attack on council](https://www.theguardian.com/society/2025/nov/28/london-vigilant-with-messages-cyber-attack-kensington-chelsea-council)
-- [‘His impact is huge’: Arteta hails Rice’s attacking evolution before Chelsea test](https://www.theguardian.com/football/2025/nov/28/mikel-arteta-declan-rice-arsenal-chelsea-premier-league)
-- [Jeremy Corbyn and Zara Sultana’s Your Party reveals shortlist for official name](https://www.theguardian.com/politics/2025/nov/28/jeremy-corbyn-and-zara-sultanas-your-party-reveals-shortlist-for-official-name)
+- [Couple from Kazakhstan allegedly used hidden camera and earpieces to win $1.18m from Sydney’s Crown casino](https://www.theguardian.com/australia-news/2025/nov/30/couple-from-kazakhstan-allegedly-used-hidden-camera-and-earpieces-to-win-118m-from-sydneys-crown-casino)
+- [Ukrainian naval drones strike two Russian oil tankers in Black Sea](https://www.theguardian.com/world/2025/nov/29/ukrainian-naval-drones-strike-two-russian-oil-tankers-in-black-sea)
+- [Working the land but rarely owning it: life for New Zealand’s young farmers](https://www.theguardian.com/world/2025/nov/29/working-the-land-but-rarely-owning-it-life-for-new-zealands-young-farmers)
+- [Women Photographers 1900 to 1975: A Legacy of Light – in pictures](https://www.theguardian.com/artanddesign/gallery/2025/nov/30/women-photographers-1900-to-1975-a-legacy-of-light-in-pictures)
+- [European football: Olmo double takes Barca top; Díaz fires up Bayern’s late rally](https://www.theguardian.com/football/2025/nov/29/european-football-olmo-double-takes-barca-top-diaz-fires-up-bayerns-late-rally)
+- [Tete and Wilson’s fast start earns Fulham victory at struggling Spurs](https://www.theguardian.com/football/2025/nov/29/tottenham-fulham-premier-league-match-report)
+- [At least 500 killed in south-east Asia floods and landslides](https://www.theguardian.com/world/2025/nov/29/indonesia-and-thailand-flooding-death-toll-tops-350-as-rescuers-struggle-to-reach-worst-hit-areas)
+- [Sandi’s Great Riviera Rail Trip review – Toksvig’s wonder-filled travelogue is a bibliophile’s fantasy](https://www.theguardian.com/tv-and-radio/2025/nov/29/sandis-great-riviera-rail-trip-review-toksvig-french-coast-channel-4)
+- [What Rosa Parks can teach us about resistance today | Jan-Werner Mueller](https://www.theguardian.com/commentisfree/2025/nov/29/rosa-parks-resistance-today)
+- [Prem Rugby roundup: Bristol punish Todaro red to end unbeaten start for Northampton](https://www.theguardian.com/sport/2025/nov/29/prem-rugby-roundup-bristol-northampton-gloucester-harlequins)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

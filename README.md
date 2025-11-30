@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Git-embigenner: Spam empty commits](https://github.com/veqqq/git-embigenner)
-- [Familial Alzheimer&#39;s mutation: Role of SORLA in release of neurotrophic exosomes](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.70591)
-- [Pirate Site Operator&#39;s Appeal Goes Bad, Court Extends Prison Term by 50%](https://torrentfreak.com/pirate-site-operators-appeal-goes-bad-court-extends-prison-term-by-50-251128/)
-- [Kyoto and the Stories We Still Need to Tell About Fossil Fuel Obstruction](https://blog.ucs.org/delta-merner/kyoto-and-the-stories-we-still-need-to-tell-about-fossil-fuel-obstruction/)
-- [When did cats become domesticated? New DNA evidence changes the story.](https://www.nationalgeographic.com/animals/article/when-did-cats-become-domesticated)
-- [SpecFive Strike: compact handheld Linux workstation](https://specfive.com/products/spec5-strike)
-- [Okeymeta](https://www.okeymeta.com.ng/)
-- [Ask HN: What Are You Working On?](https://news.ycombinator.com/item?id=46084721)
-- [Trump Cut Europe Out of Ukraine Talks. Here’s How Europe Pushed Back.](https://www.nytimes.com/2025/11/27/world/europe/europe-ukraine-trump.html)
-- [Modern Developer Tools as Attack Surfaces: Lessons from Shai-Hulud](https://sitezwin.com/posts/2025-11-29-sha-hulud-the-second-coming-encouter/)
+- [Tell HN: I&#39;m posting this while in flight over Atlantic Ocean](https://news.ycombinator.com/item?id=46093303)
+- [&#39;Deeply demoralizing&#39;: how Trump derailed coal country&#39;s clean-energy revival](https://www.theguardian.com/environment/2025/nov/29/trump-coal-country)
+- [Trump says he will pardon former Honduran president serving for drug-trafficking](https://www.cnn.com/2025/11/28/politics/trump-honduran-president-juan-orlando-hernandez-pardon)
+- [Great device, wrong problem: Two months with the Ultrahuman Air](https://kix.dev/great-device-wrong-problem-two-months-with-the-ultrahuman-air/)
+- [Bought a Broken CNC Lathe They Don&#39;t Want Me to Fix [video]](https://www.youtube.com/watch?v=BuQZeiAugp4)
+- [Continuous Thought Machines](https://arxiv.org/abs/2505.05522)
+- [Intro to Raft [video]](https://www.youtube.com/watch?v=uXEYuDwm7e4)
+- [Show HN: The Financial Planner Built on Scenario Modeling](http://finp4l.com)
+- [World Economic Forum: Top Emerging Technologies of 2025](https://www.weforum.org/publications/top-10-emerging-technologies-of-2025/digest/)
+- [Survey: How Musicians Use AI](https://www.landr.com/ai)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

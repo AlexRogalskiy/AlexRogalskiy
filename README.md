@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [A triangle whose interior angles sum to zero](https://www.johndcook.com/blog/2025/11/28/tricusp-triangle/)
-- [Fabric Project](https://github.com/Fabric-Project/Fabric)
-- [Confessions of a Software Developer: No More Self-Censorship](https://kerrick.blog/articles/2025/confessions-of-a-software-developer-no-more-self-censorship/)
-- [How to Short the Bubbliest Firms](https://www.economist.com/finance-and-economics/2025/11/26/how-to-short-the-bubbliest-firms)
-- [A first look at Django&#39;s new background tasks](https://roam.be/notes/2025/a-first-look-at-djangos-new-background-tasks/)
-- [Airbus A320 – intense solar radiation may corrupt data critical for flight](https://www.airbus.com/en/newsroom/press-releases/2025-11-airbus-update-on-a320-family-precautionary-fleet-action)
-- [Flight disruption warning as Airbus requests modifications to 6k planes](https://www.bbc.com/news/live/cvg4y6g74ert)
-- [Electron vs. Tauri](https://www.dolthub.com/blog/2025-11-13-electron-vs-tauri/)
-- [How good engineers write bad code at big companies](https://www.seangoedecke.com/bad-code-at-big-companies/)
-- [The original ABC language, Python&#39;s predecessor &lpar;1991&rpar;](https://github.com/gvanrossum/abc-unix)
+- [Tell HN: Regrets. Think carefully about how you spend your time](https://news.ycombinator.com/item?id=46092688)
+- [Stopping bad guys from using my open source project &lpar;feedback wanted&rpar;](https://evanhahn.com/stopping-bad-guys-from-using-my-open-source-project/)
+- [Meshtastic](https://meshtastic.org/)
+- [A new Little Prince museum has opened its doors in Switzerland](https://www.lepetitprince.com/en/events-around-the-world/a-new-little-prince-museum-has-opened-its-doors-in-switzerland/)
+- [Dilution vs. Risk taking: Capital gains taxes and entrepreneurs](https://www.nber.org/papers/w34512)
+- [Scala](https://www.huygens-fokker.org/scala/)
+- [Bazzite: The next generation of Linux gaming](https://bazzite.gg/)
+- [Landlock-Ing Linux](https://blog.prizrak.me/post/landlock/)
+- [Show HN: Nano PDF – A CLI Tool to Edit PDFs with Gemini&#39;s Nano Banana](https://github.com/gavrielc/Nano-PDF)
+- [All it takes is for one to work out](https://alearningaday.blog/2025/11/28/all-it-takes-is-for-one-to-work-out-2/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Tell HN: I&#39;m posting this while in flight over Atlantic Ocean](https://news.ycombinator.com/item?id=46093303)
-- [&#39;Deeply demoralizing&#39;: how Trump derailed coal country&#39;s clean-energy revival](https://www.theguardian.com/environment/2025/nov/29/trump-coal-country)
-- [Trump says he will pardon former Honduran president serving for drug-trafficking](https://www.cnn.com/2025/11/28/politics/trump-honduran-president-juan-orlando-hernandez-pardon)
-- [Great device, wrong problem: Two months with the Ultrahuman Air](https://kix.dev/great-device-wrong-problem-two-months-with-the-ultrahuman-air/)
-- [Bought a Broken CNC Lathe They Don&#39;t Want Me to Fix [video]](https://www.youtube.com/watch?v=BuQZeiAugp4)
-- [Continuous Thought Machines](https://arxiv.org/abs/2505.05522)
-- [Intro to Raft [video]](https://www.youtube.com/watch?v=uXEYuDwm7e4)
-- [Show HN: The Financial Planner Built on Scenario Modeling](http://finp4l.com)
-- [World Economic Forum: Top Emerging Technologies of 2025](https://www.weforum.org/publications/top-10-emerging-technologies-of-2025/digest/)
-- [Survey: How Musicians Use AI](https://www.landr.com/ai)
+- [Python terminal app as Android Phone app](https://news.ycombinator.com/item?id=46103227)
+- [OpenTelemetry for MCP](https://glama.ai/blog/2025-11-29-open-telemetry-for-model-context-protocol-mcp-analytics-and-agent-observability)
+- [Leave Me Alone, AI](https://www.ft.com/content/1e93adc5-4186-4775-a289-d684865da2ce)
+- [Bagpipers Claim World Record with AC/DC&#39;s &#39;It&#39;s a Long Way to the Top&#39;](https://www.sfgate.com/entertainment/article/bagpipers-claim-world-record-with-ac-dc-s-it-s-a-21168199.php)
+- [Scientists call on better regulation for chemical cocktails in Europe](https://phys.org/news/2025-11-scientists-chemical-cocktails-europe.html)
+- [How Fraud Swamped Minnesota&#39;s Social Services System on Tim Walz&#39;s Watch](https://www.nytimes.com/2025/11/29/us/fraud-minnesota-somali.html)
+- [The HA developers are insane](https://news.ycombinator.com/item?id=46103141)
+- [Show HN: Online AI Image Quality Enhancer for Free](https://aienhancer.ai/)
+- [Show HN: Filmgine – AI Story Generator and Video Maker](https://filmgine.com)
+- [AI&#39;s safety features can be circumvented with poetry, research finds](https://www.theguardian.com/technology/2025/nov/30/ai-poetry-safety-features-jailbreak)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

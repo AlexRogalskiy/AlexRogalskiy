@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Tell HN: Regrets. Think carefully about how you spend your time](https://news.ycombinator.com/item?id=46092688)
-- [Stopping bad guys from using my open source project &lpar;feedback wanted&rpar;](https://evanhahn.com/stopping-bad-guys-from-using-my-open-source-project/)
-- [Meshtastic](https://meshtastic.org/)
-- [A new Little Prince museum has opened its doors in Switzerland](https://www.lepetitprince.com/en/events-around-the-world/a-new-little-prince-museum-has-opened-its-doors-in-switzerland/)
-- [Dilution vs. Risk taking: Capital gains taxes and entrepreneurs](https://www.nber.org/papers/w34512)
-- [Scala](https://www.huygens-fokker.org/scala/)
-- [Bazzite: The next generation of Linux gaming](https://bazzite.gg/)
-- [Landlock-Ing Linux](https://blog.prizrak.me/post/landlock/)
-- [Show HN: Nano PDF – A CLI Tool to Edit PDFs with Gemini&#39;s Nano Banana](https://github.com/gavrielc/Nano-PDF)
-- [All it takes is for one to work out](https://alearningaday.blog/2025/11/28/all-it-takes-is-for-one-to-work-out-2/)
+- [In Re: 23andMe, Inc. Customer Data Security Breach Litigation](https://www.23andmedatasettlement.com/)
+- [Advent of Sysadmin 2025](https://sadservers.com/advent)
+- [Is America&#39;s jobs market nearing a cliff?](https://www.economist.com/finance-and-economics/2025/11/30/is-americas-jobs-market-nearing-a-cliff)
+- [Malware embedded into audio driver is silently recording from system mic](https://twitter.com/Officialwhyte22/status/1995024999934001602)
+- [Algorithms for Optimization [pdf]](https://algorithmsbook.com/optimization/files/optimization.pdf)
+- [Bricklink suspends Marketplace operations in 35 countries](https://jaysbrickblog.com/news/bricklink-suspends-marketplace-operations-in-35-countries/)
+- [A Love Letter to FreeBSD](https://www.tara.sh/posts/2025/2025-11-25_freebsd_letter/)
+- [“Boobs check” – Technique to verify if sites behind CDN are hosted in Iran](https://twitter.com/hkashfi/status/1995109785679573167)
+- [How to run phones while being struck by suicide drones](https://nasa.cx/hn/posts/how-to-run-hundreds-of-phones-while-being-struck-by-suicide-drones/)
+- [Hacking on the ReMarkable 2](https://sgt.hootr.club/blog/hacking-on-the-remarkable-2/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

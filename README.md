@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Sydney police charge four men over alleged ‘international satanic child sex abuse material ring’](https://www.theguardian.com/australia-news/2025/dec/01/sydney-police-charge-four-men-alleged-international-satanic-child-sex-abuse-material-ring-ntwnfb)
-- [Trump news at a glance: president says freeze on asylum decisions will last ’a long time’](https://www.theguardian.com/us-news/2025/dec/01/trump-administration-news-updates-today)
-- [Trump confirms he recently spoke with Venezuela’s Nicolás Maduro](https://www.theguardian.com/us-news/2025/nov/30/trump-nicolas-maduro-venezuela-call)
-- [Paddington: The Musical review – they’ve looked after this bear quite splendiferously](https://www.theguardian.com/stage/2025/dec/01/paddington-the-musical-review-savoy-theatre)
-- [Special forces chief tried to cover up concerns about SAS conduct in Afghanistan, inquiry told](https://www.theguardian.com/uk-news/2025/dec/01/senior-british-army-cover-up-unlawful-killings-afghanistan-inquiry)
-- [Poem of the week: Rich or Poor, or Saint and Sinner by Thomas Love Peacock](https://www.theguardian.com/books/2025/dec/01/poem-of-the-week-rich-or-poor-or-saint-and-sinner-by-thomas-love-peacock)
-- [Beer? Yes. Crocs? No. Crocodile Dundee pub enters a new era](https://www.theguardian.com/australia-news/2025/dec/01/beer-yes-crocs-no-crocodile-dundee-pub-enters-a-new-era)
-- [Aitana Bonmatí breaks leg on Spain duty for Women’s Nations League final](https://www.theguardian.com/football/2025/nov/30/aitana-bonmati-breaks-leg-on-spain-duty-womens-nations-league-final-barcelona)
-- [European football: ‘utterly outrageous’ fireworks cause Ajax abandonment](https://www.theguardian.com/football/2025/nov/30/european-football-martinez-double-keeps-inter-on-tail-of-leaders)
-- [Testing at A&amp;Es part of plan to end new HIV cases in England by 2030](https://www.theguardian.com/society/2025/nov/30/testing-at-aes-part-of-plan-to-end-new-hiv-cases-in-england-by-2030)
+- [Trump news at a glance: tensions with Venezuela rise following president’s reported ultimatum to Maduro](https://www.theguardian.com/us-news/2025/dec/01/trump-administration-news-update-today)
+- [Age of the ‘scam state’: how an illicit, multibillion-dollar industry has taken root in south-east Asia](https://www.theguardian.com/technology/2025/dec/02/scam-state-multi-billion-dollar-industry-south-east-asia)
+- [Ukraine war briefing: Witkoff shuttles into Moscow to hear Putin’s demands](https://www.theguardian.com/world/2025/dec/02/ukraine-war-briefing-witkoff-shuttles-into-moscow-to-hear-putins-demands)
+- [Dutch king says he ‘will not shy away’ from slavery history on rare royal visit to Suriname](https://www.theguardian.com/world/2025/dec/02/suriname-slavery-royal-visit-dutch-king-willem-alexander)
+- [Siri-us setback: Apple’s AI chief steps down as company lags behind rivals](https://www.theguardian.com/technology/2025/dec/01/apple-ai-chief-john-giannandrea-steps-down)
+- [‘Was it a woman who bit off his ear?’: the wild life and serene photography of Tom Sandberg](https://www.theguardian.com/artanddesign/2025/dec/02/tom-sandberg-life-photography-vibrant-world-norway-henie-onstad-kunstsenter-oslo)
+- [People living along polluted Thames file legal complaint to force water firm to act](https://www.theguardian.com/business/2025/dec/02/people-living-along-polluted-thames-file-legal-complaint-force-water-firm-act)
+- [Almost 4 million children in UK affected by economic abuse, charity finds](https://www.theguardian.com/society/2025/dec/02/almost-4-million-children-in-uk-affected-by-economic-abuse-charity-finds)
+- [‘We have to rebuild from scratch’: Sri Lankans relive the devastation of Cyclone Ditwah](https://www.theguardian.com/world/2025/dec/02/we-were-all-very-scared-sri-lankans-relive-the-devastation-of-cyclone-ditwah)
+- [Lammy lambasts ‘courts emergency’ as he prepares to face MPs over plans to slash jury trials](https://www.theguardian.com/law/2025/dec/02/lammy-lambasts-courts-emergency-as-he-prepares-to-face-mps-over-plans-to-slash-jury-trials)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

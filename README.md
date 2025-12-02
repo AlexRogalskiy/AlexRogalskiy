@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Python terminal app as Android Phone app](https://news.ycombinator.com/item?id=46103227)
-- [OpenTelemetry for MCP](https://glama.ai/blog/2025-11-29-open-telemetry-for-model-context-protocol-mcp-analytics-and-agent-observability)
-- [Leave Me Alone, AI](https://www.ft.com/content/1e93adc5-4186-4775-a289-d684865da2ce)
-- [Bagpipers Claim World Record with AC/DC&#39;s &#39;It&#39;s a Long Way to the Top&#39;](https://www.sfgate.com/entertainment/article/bagpipers-claim-world-record-with-ac-dc-s-it-s-a-21168199.php)
-- [Scientists call on better regulation for chemical cocktails in Europe](https://phys.org/news/2025-11-scientists-chemical-cocktails-europe.html)
-- [How Fraud Swamped Minnesota&#39;s Social Services System on Tim Walz&#39;s Watch](https://www.nytimes.com/2025/11/29/us/fraud-minnesota-somali.html)
-- [The HA developers are insane](https://news.ycombinator.com/item?id=46103141)
-- [Show HN: Online AI Image Quality Enhancer for Free](https://aienhancer.ai/)
-- [Show HN: Filmgine – AI Story Generator and Video Maker](https://filmgine.com)
-- [AI&#39;s safety features can be circumvented with poetry, research finds](https://www.theguardian.com/technology/2025/nov/30/ai-poetry-safety-features-jailbreak)
+- [Water Cycle Diagram – Interactive 4 Stages Animation – Free Learning Tool](https://senvnv.com/)
+- [Leaf blowers are the latest thing dividing Americans](https://www.economist.com/united-states/2025/12/01/leaf-blowers-are-the-latest-thing-dividing-americans)
+- [Europe&#39;s Green Energy Rush Slashed Emissions – and Crippled the Economy](https://www.wsj.com/business/energy-oil/europes-green-energy-rush-slashed-emissionsand-crippled-the-economy-e65a1a07)
+- [Samsung Debuts Its First Trifold Months Ahead of Folding iPhone](https://www.bloomberg.com/news/articles/2025-12-02/samsung-debuts-2-450-galaxy-z-trifold-months-ahead-of-foldable-iphone)
+- [Things I Learned in 2025](https://medium.com/@tomwhitwell/52-things-i-learned-in-2025-edeca7e3fdd8)
+- [Coherent Multi-Agent Trajectory Forecasting in Team Sports with CausalTraj](https://causaltraj.github.io)
+- [SurrealDB – A scalable, distributed, document-graph db, for the realtime web](https://github.com/surrealdb/surrealdb)
+- [Ontology-Based Meta-System Architecture &lpar;Experimental&rpar;](https://ontomesh.org/OntoMesh-Architecture.html)
+- [&quot;Airwallex, a Chinese backdoor into American data from AI labs and defense&quot;](https://twitter.com/rabois/status/1995532262998417834)
+- [How to Sound Like an Expert in Any AI Bubble Debate](https://www.derekthompson.org/?sort=community)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

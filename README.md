@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [In Re: 23andMe, Inc. Customer Data Security Breach Litigation](https://www.23andmedatasettlement.com/)
-- [Advent of Sysadmin 2025](https://sadservers.com/advent)
-- [Is America&#39;s jobs market nearing a cliff?](https://www.economist.com/finance-and-economics/2025/11/30/is-americas-jobs-market-nearing-a-cliff)
-- [Malware embedded into audio driver is silently recording from system mic](https://twitter.com/Officialwhyte22/status/1995024999934001602)
-- [Algorithms for Optimization [pdf]](https://algorithmsbook.com/optimization/files/optimization.pdf)
-- [Bricklink suspends Marketplace operations in 35 countries](https://jaysbrickblog.com/news/bricklink-suspends-marketplace-operations-in-35-countries/)
-- [A Love Letter to FreeBSD](https://www.tara.sh/posts/2025/2025-11-25_freebsd_letter/)
-- [“Boobs check” – Technique to verify if sites behind CDN are hosted in Iran](https://twitter.com/hkashfi/status/1995109785679573167)
-- [How to run phones while being struck by suicide drones](https://nasa.cx/hn/posts/how-to-run-hundreds-of-phones-while-being-struck-by-suicide-drones/)
-- [Hacking on the ReMarkable 2](https://sgt.hootr.club/blog/hacking-on-the-remarkable-2/)
+- [Reverse math shows why hard problems are hard](https://www.quantamagazine.org/reverse-mathematics-illuminates-why-hard-problems-are-hard-20251201/)
+- [Netherlands to start taxing unrealized capital gains yearly from 2028](https://kpmg.com/xx/en/our-insights/gms-flash-alert/flash-alert-2025-116.html)
+- [Around The World, Part 27: Planting trees](https://frozenfractal.com/blog/2025/11/28/around-the-world-27-planting-trees/)
+- [Arcee Trinity Mini: US-Trained Moe Model](https://www.arcee.ai/blog/the-trinity-manifesto?src=hn)
+- [AI agents find $4.6M in blockchain smart contract exploits](https://red.anthropic.com/2025/smart-contracts/)
+- [Last Week on My Mac: Losing confidence](https://eclecticlight.co/2025/11/30/last-week-on-my-mac-losing-confidence/)
+- [John Giannandrea to Retire from Apple](https://www.apple.com/newsroom/2025/12/john-giannandrea-to-retire-from-apple/)
+- [Mozilla&#39;s latest quagmire](https://rubenerd.com/mozillas-latest-quagmire/)
+- [Instagram chief orders staff back to the office five days a week in 2026](https://www.businessinsider.com/instagram-chief-adam-mosseri-announces-five-day-office-return-2025-12)
+- [Sycophancy is the first LLM &quot;dark pattern&quot;](https://www.seangoedecke.com/ai-sycophancy/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

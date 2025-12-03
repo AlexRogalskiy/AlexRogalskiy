@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Reverse math shows why hard problems are hard](https://www.quantamagazine.org/reverse-mathematics-illuminates-why-hard-problems-are-hard-20251201/)
-- [Netherlands to start taxing unrealized capital gains yearly from 2028](https://kpmg.com/xx/en/our-insights/gms-flash-alert/flash-alert-2025-116.html)
-- [Around The World, Part 27: Planting trees](https://frozenfractal.com/blog/2025/11/28/around-the-world-27-planting-trees/)
-- [Arcee Trinity Mini: US-Trained Moe Model](https://www.arcee.ai/blog/the-trinity-manifesto?src=hn)
-- [AI agents find $4.6M in blockchain smart contract exploits](https://red.anthropic.com/2025/smart-contracts/)
-- [Last Week on My Mac: Losing confidence](https://eclecticlight.co/2025/11/30/last-week-on-my-mac-losing-confidence/)
-- [John Giannandrea to Retire from Apple](https://www.apple.com/newsroom/2025/12/john-giannandrea-to-retire-from-apple/)
-- [Mozilla&#39;s latest quagmire](https://rubenerd.com/mozillas-latest-quagmire/)
-- [Instagram chief orders staff back to the office five days a week in 2026](https://www.businessinsider.com/instagram-chief-adam-mosseri-announces-five-day-office-return-2025-12)
-- [Sycophancy is the first LLM &quot;dark pattern&quot;](https://www.seangoedecke.com/ai-sycophancy/)
+- [Kohler Can Access Pictures from &quot;End-to-End Encrypted&quot; Toilet Camera](https://varlogsimon.leaflet.pub/3m6zrw6k2bs2p?interactionDrawer=quotes)
+- [DOOM could have had PC Speaker Music](https://lenowo.org/viewtopic.php?t=45)
+- [Exploring Large HTML Documents on the Web](https://calendar.perfplanet.com/2025/exploring-large-html-documents-on-the-web/)
+- [AI generated font using Nano Banana](https://constanttime.notion.site/Worlds-first-Ai-generated-font-using-nano-banana-2ba6f8e15af18012864bdb760fa9c9ba?pvs=74)
+- [Ecosia: The greenest AI is here](https://blog.ecosia.org/ecosia-ai/)
+- [Delty &lpar;YC X25&rpar; Is Hiring](https://www.ycombinator.com/companies/delty/jobs/aPWMaiq-full-stack-software-engineer)
+- [Paged Out](https://pagedout.institute)
+- [Free static site generator for small restaurants and cafes](https://lite.localcafe.org/)
+- [Claude 4.5 Opus’ Soul Document](https://www.lesswrong.com/posts/vpNG99GhbBoLov9og/claude-4-5-opus-soul-document)
+- [Amazon launches Trainium3](https://techcrunch.com/2025/12/02/amazon-releases-an-impressive-new-ai-chip-and-teases-a-nvidia-friendly-roadmap/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

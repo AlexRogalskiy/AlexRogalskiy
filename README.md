@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Trump news at a glance: tensions with Venezuela rise following president’s reported ultimatum to Maduro](https://www.theguardian.com/us-news/2025/dec/01/trump-administration-news-update-today)
-- [Age of the ‘scam state’: how an illicit, multibillion-dollar industry has taken root in south-east Asia](https://www.theguardian.com/technology/2025/dec/02/scam-state-multi-billion-dollar-industry-south-east-asia)
-- [Ukraine war briefing: Witkoff shuttles into Moscow to hear Putin’s demands](https://www.theguardian.com/world/2025/dec/02/ukraine-war-briefing-witkoff-shuttles-into-moscow-to-hear-putins-demands)
-- [Dutch king says he ‘will not shy away’ from slavery history on rare royal visit to Suriname](https://www.theguardian.com/world/2025/dec/02/suriname-slavery-royal-visit-dutch-king-willem-alexander)
-- [Siri-us setback: Apple’s AI chief steps down as company lags behind rivals](https://www.theguardian.com/technology/2025/dec/01/apple-ai-chief-john-giannandrea-steps-down)
-- [‘Was it a woman who bit off his ear?’: the wild life and serene photography of Tom Sandberg](https://www.theguardian.com/artanddesign/2025/dec/02/tom-sandberg-life-photography-vibrant-world-norway-henie-onstad-kunstsenter-oslo)
-- [People living along polluted Thames file legal complaint to force water firm to act](https://www.theguardian.com/business/2025/dec/02/people-living-along-polluted-thames-file-legal-complaint-force-water-firm-act)
-- [Almost 4 million children in UK affected by economic abuse, charity finds](https://www.theguardian.com/society/2025/dec/02/almost-4-million-children-in-uk-affected-by-economic-abuse-charity-finds)
-- [‘We have to rebuild from scratch’: Sri Lankans relive the devastation of Cyclone Ditwah](https://www.theguardian.com/world/2025/dec/02/we-were-all-very-scared-sri-lankans-relive-the-devastation-of-cyclone-ditwah)
-- [Lammy lambasts ‘courts emergency’ as he prepares to face MPs over plans to slash jury trials](https://www.theguardian.com/law/2025/dec/02/lammy-lambasts-courts-emergency-as-he-prepares-to-face-mps-over-plans-to-slash-jury-trials)
+- [‘A king above all’: The rise and rise of Asim Munir, Pakistan’s increasingly powerful army chief](https://www.theguardian.com/world/2025/dec/03/asim-munir-pakistan-army-chief)
+- [Trump claims to void all documents signed by Biden, citing autopen use](https://www.theguardian.com/us-news/2025/dec/02/trump-biden-autopen-pardons)
+- [Family alarmed over Jimmy Lai’s deteriorating health as he languishes in solitary confinement in Hong Kong](https://www.theguardian.com/world/2025/dec/03/jimmy-lai-health-concern-hong-kong-prison)
+- [More than 200 leading cultural figures call for release of jailed Palestinian leader](https://www.theguardian.com/world/2025/dec/03/leading-cultural-figures-call-for-release-jailed-palestinian-leader-marwan-barghouti)
+- [Handling of China spying case was ‘shambolic’, security committee concludes](https://www.theguardian.com/world/2025/dec/03/uk-china-spying-case-collapse-security-committee-report)
+- [Numbers leaving A&amp;E without treatment triples in six years](https://www.theguardian.com/society/2025/dec/03/numbers-leaving-ae-without-treatment-triples-in-six-years)
+- [Two in five teenagers in England and Wales ‘abused’ in intimate relationships](https://www.theguardian.com/society/2025/dec/03/teenagers-england-wales-abused-intimate-relationships-survey)
+- [Nike, Superdry and Lacoste ads banned in UK over ‘misleading’ green claims](https://www.theguardian.com/media/2025/dec/03/nike-superdry-and-lacoste-ads-banned-in-uk-over-misleading-green-claims)
+- [Fabergé egg made for mother of Russia’s last tsar sells for £23m](https://www.theguardian.com/artanddesign/2025/dec/02/faberge-egg-mother-russia-tsar-23m)
+- [Russia ‘ready’ for war with Europe, Putin says, as US peace talks end without progress](https://www.theguardian.com/world/2025/dec/02/witkoff-in-moscow-for-talks-as-putin-claims-to-have-taken-key-ukrainian-city)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

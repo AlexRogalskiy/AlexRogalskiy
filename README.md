@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Water Cycle Diagram – Interactive 4 Stages Animation – Free Learning Tool](https://senvnv.com/)
-- [Leaf blowers are the latest thing dividing Americans](https://www.economist.com/united-states/2025/12/01/leaf-blowers-are-the-latest-thing-dividing-americans)
-- [Europe&#39;s Green Energy Rush Slashed Emissions – and Crippled the Economy](https://www.wsj.com/business/energy-oil/europes-green-energy-rush-slashed-emissionsand-crippled-the-economy-e65a1a07)
-- [Samsung Debuts Its First Trifold Months Ahead of Folding iPhone](https://www.bloomberg.com/news/articles/2025-12-02/samsung-debuts-2-450-galaxy-z-trifold-months-ahead-of-foldable-iphone)
-- [Things I Learned in 2025](https://medium.com/@tomwhitwell/52-things-i-learned-in-2025-edeca7e3fdd8)
-- [Coherent Multi-Agent Trajectory Forecasting in Team Sports with CausalTraj](https://causaltraj.github.io)
-- [SurrealDB – A scalable, distributed, document-graph db, for the realtime web](https://github.com/surrealdb/surrealdb)
-- [Ontology-Based Meta-System Architecture &lpar;Experimental&rpar;](https://ontomesh.org/OntoMesh-Architecture.html)
-- [&quot;Airwallex, a Chinese backdoor into American data from AI labs and defense&quot;](https://twitter.com/rabois/status/1995532262998417834)
-- [How to Sound Like an Expert in Any AI Bubble Debate](https://www.derekthompson.org/?sort=community)
+- [Show HN: CodeProt – Filter static analysis false positives in CI](https://codeprot.com)
+- [&lpar;Norway&rpar; New Record: Almost 100% EV Registrations in November](https://www.electrive.com/2025/12/01/norway-sets-new-record-with-near-100-electric-vehicle-registrations-in-november/)
+- [Roko&#39;s Dancing Basilisk](https://boston.conman.org/2025/12/02.1)
+- [Human art in a post-AI world should be strange](https://www.owlposting.com/p/art-in-a-post-ai-world-should-be)
+- [Young Ants Beg for Death When Sick, New Study Reveals](https://www.sciencealert.com/young-ants-beg-for-death-when-sick-new-study-reveals)
+- [The Atari Jaguar&#39;s Last Roar](https://thedeletedscenes.substack.com/p/not-with-a-roar-but-with-a-whimper)
+- [&quot;Diff-Focus: Reduce code review ramp-up time with heuristic diff summarization&quot;](https://github.com/yksanjo/diff-focus-chrome)
+- [Show HN: The Forge Calculator for Roblox &quot;The Forge&quot;](https://theforgecalculator.org)
+- [Show HN: I built alwayswith.us to easily add deceased loved ones into photos](https://alwayswith.us)
+- [Gym workout set and reps tracker](https://www.setly.org/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

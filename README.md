@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: CodeProt – Filter static analysis false positives in CI](https://codeprot.com)
-- [&lpar;Norway&rpar; New Record: Almost 100% EV Registrations in November](https://www.electrive.com/2025/12/01/norway-sets-new-record-with-near-100-electric-vehicle-registrations-in-november/)
-- [Roko&#39;s Dancing Basilisk](https://boston.conman.org/2025/12/02.1)
-- [Human art in a post-AI world should be strange](https://www.owlposting.com/p/art-in-a-post-ai-world-should-be)
-- [Young Ants Beg for Death When Sick, New Study Reveals](https://www.sciencealert.com/young-ants-beg-for-death-when-sick-new-study-reveals)
-- [The Atari Jaguar&#39;s Last Roar](https://thedeletedscenes.substack.com/p/not-with-a-roar-but-with-a-whimper)
-- [&quot;Diff-Focus: Reduce code review ramp-up time with heuristic diff summarization&quot;](https://github.com/yksanjo/diff-focus-chrome)
-- [Show HN: The Forge Calculator for Roblox &quot;The Forge&quot;](https://theforgecalculator.org)
-- [Show HN: I built alwayswith.us to easily add deceased loved ones into photos](https://alwayswith.us)
-- [Gym workout set and reps tracker](https://www.setly.org/)
+- [Kalshi Becomes CNN&#39;s Official Prediction Market Partner After Raising $1B](https://cryptonews.com/news/kalshi-becomes-cnns-official-prediction-market-partner-after-raising-1b/)
+- [Trump administration orders enhanced vetting for applicants of H-1B visa](https://www.reuters.com/world/us/trump-administration-orders-enhanced-vetting-applicants-h-1b-visa-2025-12-04/)
+- [Airlines Reporting Corp. says it&#39;s ending sales of ticket data to police, Feds](https://papersplease.org/wp/2025/12/03/airlines-reporting-corp-says-its-ending-sale-of-ticket-data-to-police-feds/)
+- [Monoidal Hashing for Data Deduplication](https://www.scannedinavian.com/monoidal-hashing.html)
+- [Hytale FAQ: Everything You Need to Know About Early Access 2026](https://hytaletop100.com/blog/hytale-faq-everything-you-need-to-know-about-early-access-2026)
+- [Our Obsession with Statistical Significance Is Ruining Science](https://reason.com/2025/12/01/our-obsession-with-statistical-significance-is-ruining-science/)
+- [Amazon Prime Video pulls eerily emotionless AI-generated anime dubs](https://arstechnica.com/gadgets/2025/12/prime-video-pulls-eerily-emotionless-ai-generated-anime-dubs-after-complaints/)
+- [Cellebrite Completes Acquisition of Corellium](https://cellebrite.com/en/cellebrite-completes-acquisition-of-corellium-unveiling-the-industrys-most-advanced-ai-powered-digital-investigation-portfolio/)
+- [High-efficiency atmospheric water harvesting enabled by ultrasonic extraction](https://www.nature.com/articles/s41467-025-65586-2)
+- [Is Male Infertility Contributing to Falling Birth Rates?](https://undark.org/2025/12/03/male-infertility-birth-rate/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [‘A king above all’: The rise and rise of Asim Munir, Pakistan’s increasingly powerful army chief](https://www.theguardian.com/world/2025/dec/03/asim-munir-pakistan-army-chief)
-- [Trump claims to void all documents signed by Biden, citing autopen use](https://www.theguardian.com/us-news/2025/dec/02/trump-biden-autopen-pardons)
-- [Family alarmed over Jimmy Lai’s deteriorating health as he languishes in solitary confinement in Hong Kong](https://www.theguardian.com/world/2025/dec/03/jimmy-lai-health-concern-hong-kong-prison)
-- [More than 200 leading cultural figures call for release of jailed Palestinian leader](https://www.theguardian.com/world/2025/dec/03/leading-cultural-figures-call-for-release-jailed-palestinian-leader-marwan-barghouti)
-- [Handling of China spying case was ‘shambolic’, security committee concludes](https://www.theguardian.com/world/2025/dec/03/uk-china-spying-case-collapse-security-committee-report)
-- [Numbers leaving A&amp;E without treatment triples in six years](https://www.theguardian.com/society/2025/dec/03/numbers-leaving-ae-without-treatment-triples-in-six-years)
-- [Two in five teenagers in England and Wales ‘abused’ in intimate relationships](https://www.theguardian.com/society/2025/dec/03/teenagers-england-wales-abused-intimate-relationships-survey)
-- [Nike, Superdry and Lacoste ads banned in UK over ‘misleading’ green claims](https://www.theguardian.com/media/2025/dec/03/nike-superdry-and-lacoste-ads-banned-in-uk-over-misleading-green-claims)
-- [Fabergé egg made for mother of Russia’s last tsar sells for £23m](https://www.theguardian.com/artanddesign/2025/dec/02/faberge-egg-mother-russia-tsar-23m)
-- [Russia ‘ready’ for war with Europe, Putin says, as US peace talks end without progress](https://www.theguardian.com/world/2025/dec/02/witkoff-in-moscow-for-talks-as-putin-claims-to-have-taken-key-ukrainian-city)
+- [Australia v England: Ashes second Test, day one – live](https://www.theguardian.com/sport/live/2025/dec/04/australia-vs-england-live-ashes-second-2nd-test-day-one-aus-v-eng-cricket-scores-updates-gabba-brisbane)
+- [Half of Europeans see Trump as enemy of Europe, survey finds](https://www.theguardian.com/world/2025/dec/04/europeans-trump-enemy-of-europe-russia-war-poll)
+- [Hong Kong fire death toll rises to 159 as officials order citywide scaffolding net removal](https://www.theguardian.com/news/2025/dec/04/hong-kong-fire-death-toll-protective-netting-remove)
+- [Rory McIlroy mania hits Melbourne as fans skip school and work on ‘special day’ | Jack Snape](https://www.theguardian.com/sport/2025/dec/04/rory-mcilroy-mania-melbourne-golf-australian-open)
+- [Pentagon report concludes Hegseth put troops in danger with Signal chat](https://www.theguardian.com/us-news/2025/dec/03/hegseth-yemen-signal-group-chat)
+- [King Charles decries ‘Russian aggression’ in pledge on defending Europe](https://www.theguardian.com/world/2025/dec/03/german-president-state-visit-uk-windsor-king-charles)
+- [Social media ban: Instagram and Facebook begin shutting down under-16 accounts in Australia as ban looms](https://www.theguardian.com/australia-news/2025/dec/04/social-media-ban-instagram-facebook-accounts-shutting-down-closing-teen-under-16-australia)
+- [Refugee homelessness in UK has more than doubled in two years, charity says](https://www.theguardian.com/uk-news/2025/dec/04/refugee-homelessness-increase-uk-naccom)
+- [Sevenfold increase in serious incidents at UK immigration detention centre, report finds](https://www.theguardian.com/uk-news/2025/dec/04/sevenfold-increase-in-serious-incidents-at-uk-immigration-detention-centre-report-finds)
+- [UK farmers lose £800m after heat and drought cause one of worst harvests on record](https://www.theguardian.com/environment/2025/dec/04/record-heat-drought-2025-cost-uk-arable-farmers-estimated-800m-climate-crisis-grain-harvest)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

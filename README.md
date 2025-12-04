@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Kohler Can Access Pictures from &quot;End-to-End Encrypted&quot; Toilet Camera](https://varlogsimon.leaflet.pub/3m6zrw6k2bs2p?interactionDrawer=quotes)
-- [DOOM could have had PC Speaker Music](https://lenowo.org/viewtopic.php?t=45)
-- [Exploring Large HTML Documents on the Web](https://calendar.perfplanet.com/2025/exploring-large-html-documents-on-the-web/)
-- [AI generated font using Nano Banana](https://constanttime.notion.site/Worlds-first-Ai-generated-font-using-nano-banana-2ba6f8e15af18012864bdb760fa9c9ba?pvs=74)
-- [Ecosia: The greenest AI is here](https://blog.ecosia.org/ecosia-ai/)
-- [Delty &lpar;YC X25&rpar; Is Hiring](https://www.ycombinator.com/companies/delty/jobs/aPWMaiq-full-stack-software-engineer)
-- [Paged Out](https://pagedout.institute)
-- [Free static site generator for small restaurants and cafes](https://lite.localcafe.org/)
-- [Claude 4.5 Opus’ Soul Document](https://www.lesswrong.com/posts/vpNG99GhbBoLov9og/claude-4-5-opus-soul-document)
-- [Amazon launches Trainium3](https://techcrunch.com/2025/12/02/amazon-releases-an-impressive-new-ai-chip-and-teases-a-nvidia-friendly-roadmap/)
+- [Cellebrite to Acquire Corellium](https://www.corellium.com/blog/cellebrite-to-acquire-corellium)
+- [Apple’s head of user interface design, Alan Dye, will join Meta](https://www.cnbc.com/2025/12/03/liquid-glass-alan-dye-leaving-apple.html)
+- [Average DRAM price in USD over last 18 months](https://pcpartpicker.com/trends/price/memory/)
+- [Kea DHCP: Modern, open source DHCPv4 and DHCPv6 server](https://www.isc.org/kea/)
+- [Acme, a brief history of one of the protocols which has changed the Internet](https://blog.brocas.org/2025/12/01/ACME-a-brief-history-of-one-of-the-protocols-which-has-changed-the-Internet-Security/)
+- [Greeting Vocalizations in Domestic Cats Are More Frequent with Male Caregivers](https://onlinelibrary.wiley.com/doi/10.1111/eth.70033)
+- [8086 Microcode Browser](https://nand2mario.github.io/posts/2025/8086_microcode_browser/)
+- [Checked-size array parameters in C](https://lwn.net/SubscriberLink/1046840/3eb9029084cc9e1e/)
+- [Show HN: I built a dashboard to compare mortgage rates across 120 credit unions](https://finfam.app/blog/credit-union-mortgages)
+- [Everyone in Seattle hates AI](https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

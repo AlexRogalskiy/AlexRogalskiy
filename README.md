@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Kalshi Becomes CNN&#39;s Official Prediction Market Partner After Raising $1B](https://cryptonews.com/news/kalshi-becomes-cnns-official-prediction-market-partner-after-raising-1b/)
-- [Trump administration orders enhanced vetting for applicants of H-1B visa](https://www.reuters.com/world/us/trump-administration-orders-enhanced-vetting-applicants-h-1b-visa-2025-12-04/)
-- [Airlines Reporting Corp. says it&#39;s ending sales of ticket data to police, Feds](https://papersplease.org/wp/2025/12/03/airlines-reporting-corp-says-its-ending-sale-of-ticket-data-to-police-feds/)
-- [Monoidal Hashing for Data Deduplication](https://www.scannedinavian.com/monoidal-hashing.html)
-- [Hytale FAQ: Everything You Need to Know About Early Access 2026](https://hytaletop100.com/blog/hytale-faq-everything-you-need-to-know-about-early-access-2026)
-- [Our Obsession with Statistical Significance Is Ruining Science](https://reason.com/2025/12/01/our-obsession-with-statistical-significance-is-ruining-science/)
-- [Amazon Prime Video pulls eerily emotionless AI-generated anime dubs](https://arstechnica.com/gadgets/2025/12/prime-video-pulls-eerily-emotionless-ai-generated-anime-dubs-after-complaints/)
-- [Cellebrite Completes Acquisition of Corellium](https://cellebrite.com/en/cellebrite-completes-acquisition-of-corellium-unveiling-the-industrys-most-advanced-ai-powered-digital-investigation-portfolio/)
-- [High-efficiency atmospheric water harvesting enabled by ultrasonic extraction](https://www.nature.com/articles/s41467-025-65586-2)
-- [Is Male Infertility Contributing to Falling Birth Rates?](https://undark.org/2025/12/03/male-infertility-birth-rate/)
+- [Updating My Bash Prompt](https://martianlantern.github.io/2025/11/updating-my-bash-prompt/)
+- [Robotgo v1.0.0 and Pro, easy build automation, auto test, computer use](https://github.com/go-vgo/robotgo/releases/tag/v1.0.0)
+- [South Korea developing app that shows real-time location of stalkers](https://www.bbc.com/news/articles/cp84y7jx2pzo)
+- [The Long, Knotty, World-Spanning Story of String](https://hakaimagazine.com/features/the-long-knotty-world-spanning-story-of-string/)
+- [Blogging in 2025: Screaming into the Void](https://askmike.org/articles/blogging-in-2025-screaming-into-the-void/)
+- [Apple iOS 27 to Be No-Frills &#39;Snow Leopard&#39; Update](https://www.bloomberg.com/news/newsletters/2025-11-23/apple-ios-27-snow-leopard-like-quality-focus-ai-features-tim-cook-retirement-mibq7jv8)
+- [Billionaire UBS Clients Plot Private Equity Funds&#39; Retreat](https://www.bloomberg.com/news/articles/2025-12-04/billionaire-ubs-clients-plot-retreat-from-private-equity-funds)
+- [EU plans five AI gigafactories with 100k high-performance AI chips](https://the-decoder.com/eu-plans-five-ai-gigafactories-with-100000-high-performance-ai-chips/)
+- [Stacktower: An Accidental Deep Dive](https://stacktower.io/)
+- [CDC vaccine panel realizes again it has no idea what it&#39;s doing, delays big vote](https://arstechnica.com/health/2025/12/cdc-vaccine-panel-realizes-again-it-has-no-idea-what-its-doing-delays-big-vote/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

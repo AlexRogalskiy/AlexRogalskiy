@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Australia v England: Ashes second Test, day one – live](https://www.theguardian.com/sport/live/2025/dec/04/australia-vs-england-live-ashes-second-2nd-test-day-one-aus-v-eng-cricket-scores-updates-gabba-brisbane)
-- [Half of Europeans see Trump as enemy of Europe, survey finds](https://www.theguardian.com/world/2025/dec/04/europeans-trump-enemy-of-europe-russia-war-poll)
-- [Hong Kong fire death toll rises to 159 as officials order citywide scaffolding net removal](https://www.theguardian.com/news/2025/dec/04/hong-kong-fire-death-toll-protective-netting-remove)
-- [Rory McIlroy mania hits Melbourne as fans skip school and work on ‘special day’ | Jack Snape](https://www.theguardian.com/sport/2025/dec/04/rory-mcilroy-mania-melbourne-golf-australian-open)
-- [Pentagon report concludes Hegseth put troops in danger with Signal chat](https://www.theguardian.com/us-news/2025/dec/03/hegseth-yemen-signal-group-chat)
-- [King Charles decries ‘Russian aggression’ in pledge on defending Europe](https://www.theguardian.com/world/2025/dec/03/german-president-state-visit-uk-windsor-king-charles)
-- [Social media ban: Instagram and Facebook begin shutting down under-16 accounts in Australia as ban looms](https://www.theguardian.com/australia-news/2025/dec/04/social-media-ban-instagram-facebook-accounts-shutting-down-closing-teen-under-16-australia)
-- [Refugee homelessness in UK has more than doubled in two years, charity says](https://www.theguardian.com/uk-news/2025/dec/04/refugee-homelessness-increase-uk-naccom)
-- [Sevenfold increase in serious incidents at UK immigration detention centre, report finds](https://www.theguardian.com/uk-news/2025/dec/04/sevenfold-increase-in-serious-incidents-at-uk-immigration-detention-centre-report-finds)
-- [UK farmers lose £800m after heat and drought cause one of worst harvests on record](https://www.theguardian.com/environment/2025/dec/04/record-heat-drought-2025-cost-uk-arable-farmers-estimated-800m-climate-crisis-grain-harvest)
+- [Patient police say they have recovered Fabergé pendant from man accused of swallowing it](https://www.theguardian.com/world/2025/dec/05/police-say-recovered-faberge-pendant-after-new-zealand-man-allegedly-swallowed-it)
+- [Ukraine war briefing: drones reportedly spotted near Zelenskyy flight path on Dublin trip](https://www.theguardian.com/world/2025/dec/05/ukraine-war-briefing-drones-reportedly-near-zelenskyy-flight-path-dublin)
+- [Baby fur seal wanders into a bar in New Zealand](https://www.theguardian.com/world/2025/dec/05/baby-fur-seal-wanders-into-bar-in-new-zealand)
+- [A minimalist statement or just Pantonedeaf? ‘Cloud dancer’ shade of white named Pantone’s 2026 colour of the year](https://www.theguardian.com/culture/2025/dec/05/pantone-cloud-dancer-2026-colour-year)
+- [Three-year-old chess prodigy becomes youngest player to earn official rating](https://www.theguardian.com/sport/2025/dec/05/three-year-old-chess-prodigy-youngest-official-rating-sarwagya-singh-kushwaha)
+- [US supreme court approves redrawn Texas congressional maps](https://www.theguardian.com/us-news/2025/dec/04/us-supreme-court-texas-congressional-maps)
+- [Grand jury declines to re-indict Letitia James after judge dismissed first case](https://www.theguardian.com/us-news/2025/dec/04/grand-jury-declines-to-indict-letitia-james)
+- [Rising racism blamed for collapse in number of foreign nurses coming to UK](https://www.theguardian.com/society/2025/dec/05/collapse-in-number-of-overseas-nurses-coming-to-uk)
+- [UK’s new digital-only immigration system creating exclusion and fear, study finds](https://www.theguardian.com/uk-news/2025/dec/05/uks-new-digital-only-immigration-system-creating-exclusion-and-fear-study-finds)
+- [GPs failing older people living with frailty, National Audit Office finds](https://www.theguardian.com/society/2025/dec/05/gps-failing-older-people-living-with-frailty-national-audit-office-finds)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

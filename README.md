@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Patient police say they have recovered Fabergé pendant from man accused of swallowing it](https://www.theguardian.com/world/2025/dec/05/police-say-recovered-faberge-pendant-after-new-zealand-man-allegedly-swallowed-it)
-- [Ukraine war briefing: drones reportedly spotted near Zelenskyy flight path on Dublin trip](https://www.theguardian.com/world/2025/dec/05/ukraine-war-briefing-drones-reportedly-near-zelenskyy-flight-path-dublin)
-- [Baby fur seal wanders into a bar in New Zealand](https://www.theguardian.com/world/2025/dec/05/baby-fur-seal-wanders-into-bar-in-new-zealand)
-- [A minimalist statement or just Pantonedeaf? ‘Cloud dancer’ shade of white named Pantone’s 2026 colour of the year](https://www.theguardian.com/culture/2025/dec/05/pantone-cloud-dancer-2026-colour-year)
-- [Three-year-old chess prodigy becomes youngest player to earn official rating](https://www.theguardian.com/sport/2025/dec/05/three-year-old-chess-prodigy-youngest-official-rating-sarwagya-singh-kushwaha)
-- [US supreme court approves redrawn Texas congressional maps](https://www.theguardian.com/us-news/2025/dec/04/us-supreme-court-texas-congressional-maps)
-- [Grand jury declines to re-indict Letitia James after judge dismissed first case](https://www.theguardian.com/us-news/2025/dec/04/grand-jury-declines-to-indict-letitia-james)
-- [Rising racism blamed for collapse in number of foreign nurses coming to UK](https://www.theguardian.com/society/2025/dec/05/collapse-in-number-of-overseas-nurses-coming-to-uk)
-- [UK’s new digital-only immigration system creating exclusion and fear, study finds](https://www.theguardian.com/uk-news/2025/dec/05/uks-new-digital-only-immigration-system-creating-exclusion-and-fear-study-finds)
-- [GPs failing older people living with frailty, National Audit Office finds](https://www.theguardian.com/society/2025/dec/05/gps-failing-older-people-living-with-frailty-national-audit-office-finds)
+- [Ukraine war briefing: Progress depends on Russian taking peace talks seriously, say Washington and Kyiv](https://www.theguardian.com/world/2025/dec/06/ukraine-war-briefing-progress-depends-on-russian-taking-peace-talks-seriously-say-washington-and-kyiv)
+- [Zootopia 2 bucks trend for Hollywood releases in China as it breaks records for foreign animation](https://www.theguardian.com/world/2025/dec/06/zootopia-2-china-highest-grossing-foreign-animation-zootropolis)
+- [From ‘terrorist’ to national treasure, renowned Māori activist finally tells his own story](https://www.theguardian.com/world/2025/dec/06/from-terrorist-to-national-treasure-renowned-maori-activist-finally-tells-his-own-story)
+- [‘Cultivate resistance’: policy paper lays bare Trump support for Europe’s far right](https://www.theguardian.com/us-news/2025/dec/05/civilisational-erasure-us-strategy-document-appears-to-echo-far-right-conspiracy-theories-about-europe)
+- [Thomas Frank faces Brentford reunion not knowing his best Spurs team](https://www.theguardian.com/football/2025/dec/05/thomas-frank-faces-brentford-reunion-not-knowing-his-best-spurs-team)
+- [Fackham Hall review – Downton Abbey spoof is fast, funny and throwaway](https://www.theguardian.com/film/2025/dec/05/fackham-hall-movie-review)
+- [The Liz Truss Show review – hapless ravings from a cupboard](https://www.theguardian.com/politics/2025/dec/05/the-liz-truss-show-review-hapless-ravings-from-a-closet)
+- [People flee DR Congo fighting one day after peace deal signed in Washington](https://www.theguardian.com/world/2025/dec/05/people-flee-dr-congo-fighting-one-day-after-peace-deal-signed-in-washington)
+- [Sale blow 14-0 lead to slump to home defeat by Glasgow in Champions Cup opener](https://www.theguardian.com/sport/2025/dec/05/sale-concede-26-unanswered-points-to-slump-to-home-loss-to-glasgow-in-euro-opener)
+- [Thomas Tuchel keeps his cool amid cringe, confusion and drama of World Cup draw | David Hytner](https://www.theguardian.com/football/2025/dec/05/thomas-tuchel-keeps-his-cool-amid-cringe-confusion-and-drama-of-world-cup-draw)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

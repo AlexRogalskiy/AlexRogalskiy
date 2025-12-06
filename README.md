@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Updating My Bash Prompt](https://martianlantern.github.io/2025/11/updating-my-bash-prompt/)
-- [Robotgo v1.0.0 and Pro, easy build automation, auto test, computer use](https://github.com/go-vgo/robotgo/releases/tag/v1.0.0)
-- [South Korea developing app that shows real-time location of stalkers](https://www.bbc.com/news/articles/cp84y7jx2pzo)
-- [The Long, Knotty, World-Spanning Story of String](https://hakaimagazine.com/features/the-long-knotty-world-spanning-story-of-string/)
-- [Blogging in 2025: Screaming into the Void](https://askmike.org/articles/blogging-in-2025-screaming-into-the-void/)
-- [Apple iOS 27 to Be No-Frills &#39;Snow Leopard&#39; Update](https://www.bloomberg.com/news/newsletters/2025-11-23/apple-ios-27-snow-leopard-like-quality-focus-ai-features-tim-cook-retirement-mibq7jv8)
-- [Billionaire UBS Clients Plot Private Equity Funds&#39; Retreat](https://www.bloomberg.com/news/articles/2025-12-04/billionaire-ubs-clients-plot-retreat-from-private-equity-funds)
-- [EU plans five AI gigafactories with 100k high-performance AI chips](https://the-decoder.com/eu-plans-five-ai-gigafactories-with-100000-high-performance-ai-chips/)
-- [Stacktower: An Accidental Deep Dive](https://stacktower.io/)
-- [CDC vaccine panel realizes again it has no idea what it&#39;s doing, delays big vote](https://arstechnica.com/health/2025/12/cdc-vaccine-panel-realizes-again-it-has-no-idea-what-its-doing-delays-big-vote/)
+- [Jolla Launches Community-Funded Linux Phone](https://linuxiac.com/jolla-launches-community-funded-linux-phone/)
+- [Building PagerDuty&#39;s SRE Agent](https://www.pagerduty.com/eng/context-over-cleverness-building-pagerdutys-sre-agent/)
+- [Nice overview of ESP32 devkits and ecosystems [video]](https://www.youtube.com/watch?v=sM34IYTIPyQ)
+- [Supreme Court Agrees to Review Trump Order Restricting Birthright Citizenship](https://www.nytimes.com/2025/12/05/us/politics/supreme-court-trump-birthright-citizenship.html)
+- [Show HN: Radioactive Pooping Knights](https://minichessgames.com/#/play/pooping-knights)
+- [Mock Roles, not Objects &lpar;2004&rpar; [pdf]](https://jmock.org/oopsla2004.pdf)
+- [I cracked a $200 software protection with xcopy](https://www.ud2.rip/blog/enigma-protector/)
+- [New Study Investigates How Diet May Slow Normal Brain Aging](https://www.bumc.bu.edu/camed/news-events/articles/2025/new-study-investigates-how-diet-may-slow-normal-brain-aging/)
+- [EU hits X with €120M fine for breaching the Digital Services Act](https://www.dw.com/en/eu-imposes-120-million-fine-on-elon-musks-x-for-breaking-digital-rules/a-75033724)
+- [Windows Telemetry](https://sizeof.cat/post/windows-telemetry/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

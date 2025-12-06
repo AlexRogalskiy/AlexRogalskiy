@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [How Brussels writes so many laws](https://www.siliconcontinent.com/p/how-brussels-writes-so-many-laws)
-- [NeurIPS 2025 Best Paper Awards](https://blog.neurips.cc/2025/11/26/announcing-the-neurips-2025-best-paper-awards/)
-- [BMW PHEV: When EU engineering becomes a synonym for &quot;unrepairable&quot; &lpar;EV Clinic&rpar;](https://evclinic.eu/2025/12/04/2021-phev-bmw-ibmucp-21f37e-post-crash-recovery-when-eu-engineering-becomes-a-synonym-for-unrepairable-generating-waste/)
-- [The Ofcom Files, Part 4: Ofcom Rides Again](https://prestonbyrne.com/2025/12/04/the-ofcom-files-part-4-ofcom-rides-again/)
-- [AV1: A Modern, Open Codec](https://netflixtechblog.com/av1-now-powering-30-of-netflix-streaming-02f592242d80)
-- [Trick users and bypass warnings – Modern SVG Clickjacking attacks](https://lyra.horse/blog/2025/12/svg-clickjacking/)
-- [What is better: a lookup table or an enum type?](https://www.cybertec-postgresql.com/en/lookup-table-or-enum-type/)
-- [We gave 5 LLMs $100K to trade stocks for 8 months](https://www.aitradearena.com/research/we-ran-llms-for-8-months)
-- [StardustOS: Library operating system for building light-weight Unikernels](https://github.com/StardustOS)
-- [State of AI: An Empirical 100T Token Study with OpenRouter](https://openrouter.ai/state-of-ai)
+- [EU hits X with €120M fine for breaching the Digital Services Act](https://www.dw.com/en/eu-imposes-120-million-fine-on-elon-musks-x-for-breaking-digital-rules/a-75033724)
+- [YouTube caught making AI-edits to videos and adding misleading AI summaries](https://social.growyourown.services/@FediTips/115668457530054406)
+- [From Rockets to Heat Pumps](https://www.heatpumped.org/p/from-rockets-to-heat-pumps)
+- [Extra Instructions of the 65XX Series CPU](http://www.ffd2.com/fridge/docs/6502-NMOS.extra.opcodes)
+- [Sam Altman&#39;s Dirty DRAM Deal](https://www.mooreslawisdead.com/post/sam-altman-s-dirty-dram-deal)
+- [Adenosine on the common path of rapid antidepressant action: The coffee paradox](https://genomicpress.kglmeridian.com/view/journals/brainmed/aop/article-10.61373-bm025c.0134/article-10.61373-bm025c.0134.xml)
+- [Frank Gehry has died](https://www.bbc.co.uk/news/articles/c5y2p22z9gno)
+- [Leaving Intel](https://www.brendangregg.com/blog//2025-12-05/leaving-intel.html)
+- [Perpetual Futures](https://www.bitsaboutmoney.com/archive/perpetual-futures-explained/)
+- [The missing standard library for multithreading in JavaScript](https://github.com/W4G1/multithreading)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

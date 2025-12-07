@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Jolla Launches Community-Funded Linux Phone](https://linuxiac.com/jolla-launches-community-funded-linux-phone/)
-- [Building PagerDuty&#39;s SRE Agent](https://www.pagerduty.com/eng/context-over-cleverness-building-pagerdutys-sre-agent/)
-- [Nice overview of ESP32 devkits and ecosystems [video]](https://www.youtube.com/watch?v=sM34IYTIPyQ)
-- [Supreme Court Agrees to Review Trump Order Restricting Birthright Citizenship](https://www.nytimes.com/2025/12/05/us/politics/supreme-court-trump-birthright-citizenship.html)
-- [Show HN: Radioactive Pooping Knights](https://minichessgames.com/#/play/pooping-knights)
-- [Mock Roles, not Objects &lpar;2004&rpar; [pdf]](https://jmock.org/oopsla2004.pdf)
-- [I cracked a $200 software protection with xcopy](https://www.ud2.rip/blog/enigma-protector/)
-- [New Study Investigates How Diet May Slow Normal Brain Aging](https://www.bumc.bu.edu/camed/news-events/articles/2025/new-study-investigates-how-diet-may-slow-normal-brain-aging/)
-- [EU hits X with €120M fine for breaching the Digital Services Act](https://www.dw.com/en/eu-imposes-120-million-fine-on-elon-musks-x-for-breaking-digital-rules/a-75033724)
-- [Windows Telemetry](https://sizeof.cat/post/windows-telemetry/)
+- [Anatomy of a Domain Risk Engine: Regex vs. LLMs](https://www.urlert.com/blog/anatomy-domain-risk-engine-regex-llm)
+- [SC sheriff&#39;s office quoted me $9k for a simple Flock records request](https://columbiamuckraker.substack.com/p/sc-sheriffs-office-quoted-me-9000)
+- [Z2 – Lithographically fabricated IC in a garage fab](https://sam.zeloof.xyz/second-ic/)
+- [AstoCAD – Polished, paid &quot;soft-fork&quot; of FreeCAD with upstream contributions](https://www.astocad.com/)
+- [Why Does Have I Been Pwned Contain &quot;Fake&quot; Email Addresses?](https://www.troyhunt.com/why-does-have-i-been-pwned-contain-fake-email-addresses/)
+- [The Macuahuitl – The Obsidian Sword of the Aztecs](https://www.youtube.com/watch?v=12GP6ktNIk0)
+- [Our Foundation: The 65,000 Restored Sound Archive](https://lockchime.com/ringchime/hub.php)
+- [The Complex Story Behind Al-Idrīsī&#39;s Iconic World Map](https://sacredfootsteps.com/2022/06/24/the-complex-story-behind-al-idrisis-iconic-world-map/)
+- [Life as an ICC judge sanctioned by Trump](https://www.middleeasteye.net/news/life-icc-judge-sanctioned-trump-luz-ibanez)
+- [Sloptalgia – AI Reimagines your favorite memories of old video games](https://www.sloptalgia.com/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

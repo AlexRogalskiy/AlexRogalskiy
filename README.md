@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine war briefing: Progress depends on Russian taking peace talks seriously, say Washington and Kyiv](https://www.theguardian.com/world/2025/dec/06/ukraine-war-briefing-progress-depends-on-russian-taking-peace-talks-seriously-say-washington-and-kyiv)
-- [Zootopia 2 bucks trend for Hollywood releases in China as it breaks records for foreign animation](https://www.theguardian.com/world/2025/dec/06/zootopia-2-china-highest-grossing-foreign-animation-zootropolis)
-- [From ‘terrorist’ to national treasure, renowned Māori activist finally tells his own story](https://www.theguardian.com/world/2025/dec/06/from-terrorist-to-national-treasure-renowned-maori-activist-finally-tells-his-own-story)
-- [‘Cultivate resistance’: policy paper lays bare Trump support for Europe’s far right](https://www.theguardian.com/us-news/2025/dec/05/civilisational-erasure-us-strategy-document-appears-to-echo-far-right-conspiracy-theories-about-europe)
-- [Thomas Frank faces Brentford reunion not knowing his best Spurs team](https://www.theguardian.com/football/2025/dec/05/thomas-frank-faces-brentford-reunion-not-knowing-his-best-spurs-team)
-- [Fackham Hall review – Downton Abbey spoof is fast, funny and throwaway](https://www.theguardian.com/film/2025/dec/05/fackham-hall-movie-review)
-- [The Liz Truss Show review – hapless ravings from a cupboard](https://www.theguardian.com/politics/2025/dec/05/the-liz-truss-show-review-hapless-ravings-from-a-closet)
-- [People flee DR Congo fighting one day after peace deal signed in Washington](https://www.theguardian.com/world/2025/dec/05/people-flee-dr-congo-fighting-one-day-after-peace-deal-signed-in-washington)
-- [Sale blow 14-0 lead to slump to home defeat by Glasgow in Champions Cup opener](https://www.theguardian.com/sport/2025/dec/05/sale-concede-26-unanswered-points-to-slump-to-home-loss-to-glasgow-in-euro-opener)
-- [Thomas Tuchel keeps his cool amid cringe, confusion and drama of World Cup draw | David Hytner](https://www.theguardian.com/football/2025/dec/05/thomas-tuchel-keeps-his-cool-amid-cringe-confusion-and-drama-of-world-cup-draw)
+- [Australia v England: Ashes second Test, day four – live](https://www.theguardian.com/sport/live/2025/dec/07/australia-vs-england-live-ashes-second-2nd-test-day-four-aus-v-eng-cricket-scores-updates-gabba-brisbane)
+- [Ukraine war briefing: With no Miami breakthrough, Zelenskyy turns to European allies](https://www.theguardian.com/world/2025/dec/07/ukraine-war-briefing-with-no-miami-breakthrough-zelenskyy-turns-to-european-allies)
+- [Several tourists among at least 23 killed in blaze at Goa nightclub](https://www.theguardian.com/world/2025/dec/06/several-tourists-among-killed-in-blaze-at-goa-nightclub)
+- [West Midlands police chief sorry for saying Jewish community supported Maccabi fan ban](https://www.theguardian.com/uk-news/2025/dec/06/west-midlands-police-chief-apologises-for-saying-birmingham-jews-supported-maccabi-ban)
+- [‘It’s not your turn,’ the board&#39;s selection committee chair said. Instantly I felt as though I was back in the school yard | Julianne Schultz](https://www.theguardian.com/commentisfree/2025/dec/06/its-not-your-turn-the-boards-selection-committee-chair-said-instantly-i-felt-as-though-i-was-back-in-the-school-yard)
+- [Tanaka strikes late as Leeds deny Liverpool before Salah outburst](https://www.theguardian.com/football/2025/dec/06/leeds-liverpool-premier-league-match-report)
+- [Qatar and Egypt urge Israeli withdrawal to secure next step in Gaza peace deal](https://www.theguardian.com/world/2025/dec/06/qatar-and-egypt-urge-israeli-withdrawal-to-secure-next-step-in-gaza-peace-deal)
+- [Mohamed Salah says ‘I’ve been thrown under the bus’ and signals Liverpool exit](https://www.theguardian.com/football/2025/dec/06/mohamed-salah-arne-slot-liverpool-thrown-under-the-bus)
+- [California officials warn foragers after person dies from poison mushroom](https://www.theguardian.com/us-news/2025/dec/06/california-mushroom-poisoning)
+- [Africa Cup of Nations shunted into margins as greedy game finds no room at top table | Jonathan Wilson](https://www.theguardian.com/football/2025/dec/06/africa-cup-of-nations-caf-premier-league-fifa)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

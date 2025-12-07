@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [EU hits X with €120M fine for breaching the Digital Services Act](https://www.dw.com/en/eu-imposes-120-million-fine-on-elon-musks-x-for-breaking-digital-rules/a-75033724)
-- [YouTube caught making AI-edits to videos and adding misleading AI summaries](https://social.growyourown.services/@FediTips/115668457530054406)
-- [From Rockets to Heat Pumps](https://www.heatpumped.org/p/from-rockets-to-heat-pumps)
-- [Extra Instructions of the 65XX Series CPU](http://www.ffd2.com/fridge/docs/6502-NMOS.extra.opcodes)
-- [Sam Altman&#39;s Dirty DRAM Deal](https://www.mooreslawisdead.com/post/sam-altman-s-dirty-dram-deal)
-- [Adenosine on the common path of rapid antidepressant action: The coffee paradox](https://genomicpress.kglmeridian.com/view/journals/brainmed/aop/article-10.61373-bm025c.0134/article-10.61373-bm025c.0134.xml)
-- [Frank Gehry has died](https://www.bbc.co.uk/news/articles/c5y2p22z9gno)
-- [Leaving Intel](https://www.brendangregg.com/blog//2025-12-05/leaving-intel.html)
-- [Perpetual Futures](https://www.bitsaboutmoney.com/archive/perpetual-futures-explained/)
-- [The missing standard library for multithreading in JavaScript](https://github.com/W4G1/multithreading)
+- [Z2 – Lithographically fabricated IC in a garage fab](https://sam.zeloof.xyz/second-ic/)
+- [Eurydice: a Rust to C compiler &lpar;yes&rpar;](https://jonathan.protzenko.fr/2025/10/28/eurydice.html)
+- [Using LLMs at Oxide](https://rfd.shared.oxide.computer/rfd/0576)
+- [Trains cancelled over fake bridge collapse image](https://www.bbc.com/news/articles/cwygqqll9k2o)
+- [Show HN: FuseCells – a handcrafted logic puzzle game with 2,500 levels](https://apps.apple.com/us/app/fusecells-logic-grid-puzzle/id6754704139)
+- [OpenTelemetry Distribution Builder](https://github.com/observIQ/otel-distro-builder)
+- [Kilauea erupts, destroying webcam [video]](https://www.youtube.com/watch?v=TK2N99BDw7A)
+- [PatchworkOS: An OS for x86_64, built from scratch in C and assembly](https://github.com/KaiNorberg/PatchworkOS)
+- [Saving Japan&#39;s exceptionally rare &#39;snow monsters&#39;](https://www.bbc.com/future/article/20251203-japans-disappearing-snow-monsters)
+- [United States Antarctic Program Field Manual &lpar;2024&rpar; [pdf]](https://www.usap.gov/usapgov/travelAndDeployment/documents/Continental-Field-Manual-2024.pdf)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

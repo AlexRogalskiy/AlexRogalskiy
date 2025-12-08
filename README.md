@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Australia v England: Ashes second Test, day four – live](https://www.theguardian.com/sport/live/2025/dec/07/australia-vs-england-live-ashes-second-2nd-test-day-four-aus-v-eng-cricket-scores-updates-gabba-brisbane)
-- [Ukraine war briefing: With no Miami breakthrough, Zelenskyy turns to European allies](https://www.theguardian.com/world/2025/dec/07/ukraine-war-briefing-with-no-miami-breakthrough-zelenskyy-turns-to-european-allies)
-- [Several tourists among at least 23 killed in blaze at Goa nightclub](https://www.theguardian.com/world/2025/dec/06/several-tourists-among-killed-in-blaze-at-goa-nightclub)
-- [West Midlands police chief sorry for saying Jewish community supported Maccabi fan ban](https://www.theguardian.com/uk-news/2025/dec/06/west-midlands-police-chief-apologises-for-saying-birmingham-jews-supported-maccabi-ban)
-- [‘It’s not your turn,’ the board&#39;s selection committee chair said. Instantly I felt as though I was back in the school yard | Julianne Schultz](https://www.theguardian.com/commentisfree/2025/dec/06/its-not-your-turn-the-boards-selection-committee-chair-said-instantly-i-felt-as-though-i-was-back-in-the-school-yard)
-- [Tanaka strikes late as Leeds deny Liverpool before Salah outburst](https://www.theguardian.com/football/2025/dec/06/leeds-liverpool-premier-league-match-report)
-- [Qatar and Egypt urge Israeli withdrawal to secure next step in Gaza peace deal](https://www.theguardian.com/world/2025/dec/06/qatar-and-egypt-urge-israeli-withdrawal-to-secure-next-step-in-gaza-peace-deal)
-- [Mohamed Salah says ‘I’ve been thrown under the bus’ and signals Liverpool exit](https://www.theguardian.com/football/2025/dec/06/mohamed-salah-arne-slot-liverpool-thrown-under-the-bus)
-- [California officials warn foragers after person dies from poison mushroom](https://www.theguardian.com/us-news/2025/dec/06/california-mushroom-poisoning)
-- [Africa Cup of Nations shunted into margins as greedy game finds no room at top table | Jonathan Wilson](https://www.theguardian.com/football/2025/dec/06/africa-cup-of-nations-caf-premier-league-fifa)
+- [Japan PM vows ‘resolute’ response after Chinese aircraft accused of locking radar on to Japanese fighter jets](https://www.theguardian.com/world/2025/dec/08/japan-china-radar-fighter-jets-claims)
+- [Katy Perry and Justin Trudeau make their relationship Instagram official](https://www.theguardian.com/world/2025/dec/08/katy-perry-justin-trudeau-instagram-relationship-official)
+- [UN report sounds alarm over Māori rights in New Zealand](https://www.theguardian.com/world/2025/dec/08/un-cerd-report-maori-rights-new-zealand)
+- [Republicans in Congress mocked Trump privately, Marjorie Taylor Greene says](https://www.theguardian.com/us-news/2025/dec/07/congress-republicans-tease-trump-marjorie-taylor-greene)
+- [UK asylum policy causes more violence and deaths, say rights groups](https://www.theguardian.com/uk-news/2025/dec/08/uk-asylum-policy-causes-more-violence-and-deaths-say-rights-groups)
+- [Selby holds off Trump fightback in UK final to end four-year wait for major trophy](https://www.theguardian.com/sport/2025/dec/07/mark-selby-sinks-judd-trump-to-claim-third-uk-championship-title)
+- [UK will not be haven for dirty money, Lammy to say in corruption crackdown](https://www.theguardian.com/politics/2025/dec/07/uk-corruption-crackdown-david-lammy-dirty-money)
+- [Nigerian state secures release of 100 out of 265 kidnapped schoolchildren](https://www.theguardian.com/world/2025/dec/07/release-secured-of-100-kidnapped-nigerian-schoolchildren-but-many-still-being-held)
+- [Mohamed Salah’s Liverpool future in doubt as Arne Slot faces Inter decision](https://www.theguardian.com/football/2025/dec/07/mohamed-salah-arne-slot-inter-brighton)
+- [Murder inquiry under way after woman and child die in house fire in Co Offaly](https://www.theguardian.com/world/2025/dec/07/inquiry-under-way-after-woman-and-child-die-in-house-fire-in-co-offaly)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

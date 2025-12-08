@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Z2 – Lithographically fabricated IC in a garage fab](https://sam.zeloof.xyz/second-ic/)
-- [Eurydice: a Rust to C compiler &lpar;yes&rpar;](https://jonathan.protzenko.fr/2025/10/28/eurydice.html)
-- [Using LLMs at Oxide](https://rfd.shared.oxide.computer/rfd/0576)
-- [Trains cancelled over fake bridge collapse image](https://www.bbc.com/news/articles/cwygqqll9k2o)
-- [Show HN: FuseCells – a handcrafted logic puzzle game with 2,500 levels](https://apps.apple.com/us/app/fusecells-logic-grid-puzzle/id6754704139)
-- [OpenTelemetry Distribution Builder](https://github.com/observIQ/otel-distro-builder)
-- [Kilauea erupts, destroying webcam [video]](https://www.youtube.com/watch?v=TK2N99BDw7A)
-- [PatchworkOS: An OS for x86_64, built from scratch in C and assembly](https://github.com/KaiNorberg/PatchworkOS)
-- [Saving Japan&#39;s exceptionally rare &#39;snow monsters&#39;](https://www.bbc.com/future/article/20251203-japans-disappearing-snow-monsters)
-- [United States Antarctic Program Field Manual &lpar;2024&rpar; [pdf]](https://www.usap.gov/usapgov/travelAndDeployment/documents/Continental-Field-Manual-2024.pdf)
+- [Socialist Ends by Market Means: A History](https://lucasvance.github.io/2100/history/)
+- [Spinlocks vs. Mutexes: When to Spin and When to Sleep](https://howtech.substack.com/p/spinlocks-vs-mutexes-when-to-spin)
+- [Toyota Unintended Acceleration and the Big Bowl of &quot;Spaghetti&quot; Code &lpar;2013&rpar;](https://www.safetyresearch.net/toyota-unintended-acceleration-and-the-big-bowl-of-spaghetti-code/)
+- [Show HN: Cdecl-dump - represent C declarations visually](https://github.com/bbu/cdecl-dump)
+- [Bag of words, have mercy on us](https://www.experimental-history.com/p/bag-of-words-have-mercy-on-us)
+- [Mechanical power generation using Earth&#39;s ambient radiation](https://www.science.org/doi/10.1126/sciadv.adw6833)
+- [Proxmox delivers its software-defined datacenter contender and VMware escape](https://www.theregister.com/2025/12/05/proxmox_datacenter_manager_1_stable/)
+- [Evidence from the One Laptop per Child program in rural Peru](https://www.nber.org/papers/w34495)
+- [Estimates are difficult for developers and product owners](https://thorsell.io/2025/12/07/estimates.html)
+- [Millions of Americans mess up their taxes, but a new law will help](https://www.wakeuptopolitics.com/p/millions-of-americans-mess-up-their)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

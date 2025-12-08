@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Anatomy of a Domain Risk Engine: Regex vs. LLMs](https://www.urlert.com/blog/anatomy-domain-risk-engine-regex-llm)
-- [SC sheriff&#39;s office quoted me $9k for a simple Flock records request](https://columbiamuckraker.substack.com/p/sc-sheriffs-office-quoted-me-9000)
-- [Z2 – Lithographically fabricated IC in a garage fab](https://sam.zeloof.xyz/second-ic/)
-- [AstoCAD – Polished, paid &quot;soft-fork&quot; of FreeCAD with upstream contributions](https://www.astocad.com/)
-- [Why Does Have I Been Pwned Contain &quot;Fake&quot; Email Addresses?](https://www.troyhunt.com/why-does-have-i-been-pwned-contain-fake-email-addresses/)
-- [The Macuahuitl – The Obsidian Sword of the Aztecs](https://www.youtube.com/watch?v=12GP6ktNIk0)
-- [Our Foundation: The 65,000 Restored Sound Archive](https://lockchime.com/ringchime/hub.php)
-- [The Complex Story Behind Al-Idrīsī&#39;s Iconic World Map](https://sacredfootsteps.com/2022/06/24/the-complex-story-behind-al-idrisis-iconic-world-map/)
-- [Life as an ICC judge sanctioned by Trump](https://www.middleeasteye.net/news/life-icc-judge-sanctioned-trump-luz-ibanez)
-- [Sloptalgia – AI Reimagines your favorite memories of old video games](https://www.sloptalgia.com/)
+- [The surprising countries pulling off fast clean energy transitions](https://www.cnn.com/2025/11/07/climate/solar-wind-renewables-transition-global-pakistan-hungary-chile)
+- [Earth needs more energy. Atlanta&#39;s Super Soaker creator may have a solution](https://www.ajc.com/business/2025/11/earth-needs-more-energy-atlantas-super-soaker-creator-may-have-a-solution/)
+- [I made a prompt framework that makes LLMs stop hedging and speak straight](https://news.ycombinator.com/item?id=46187831)
+- [The Web Runs on Tolerance](https://shkspr.mobi/blog/2025/12/the-web-runs-on-tolerance/)
+- [Show HN: Peephole](https://peephole.greg.technology/)
+- [AI Interview Coder Assistant](https://interviewcoder.top)
+- [ChatGPT claims to have solved Navier-Stokes problem](https://github.com/vporton/navier-stokes)
+- [Noninvasive imaging could replace finger pricks for measuring blood glucose](https://news.mit.edu/2025/noninvasive-imaging-could-replace-finger-pricks-diabetes-1203)
+- [I&#39;m a Professor. A.I. Has Changed My Classroom, but Not for the Worse](https://www.nytimes.com/2025/11/25/magazine/ai-higher-education-students-teachers.html)
+- [Open Source Doesn&#39;t Fail Because of Code](https://blog.ulisesgascon.com/open-source-doesnt-fail-because-of-code)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

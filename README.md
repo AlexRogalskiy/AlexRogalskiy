@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Socialist Ends by Market Means: A History](https://lucasvance.github.io/2100/history/)
-- [Spinlocks vs. Mutexes: When to Spin and When to Sleep](https://howtech.substack.com/p/spinlocks-vs-mutexes-when-to-spin)
-- [Toyota Unintended Acceleration and the Big Bowl of &quot;Spaghetti&quot; Code &lpar;2013&rpar;](https://www.safetyresearch.net/toyota-unintended-acceleration-and-the-big-bowl-of-spaghetti-code/)
-- [Show HN: Cdecl-dump - represent C declarations visually](https://github.com/bbu/cdecl-dump)
-- [Bag of words, have mercy on us](https://www.experimental-history.com/p/bag-of-words-have-mercy-on-us)
-- [Mechanical power generation using Earth&#39;s ambient radiation](https://www.science.org/doi/10.1126/sciadv.adw6833)
-- [Proxmox delivers its software-defined datacenter contender and VMware escape](https://www.theregister.com/2025/12/05/proxmox_datacenter_manager_1_stable/)
-- [Evidence from the One Laptop per Child program in rural Peru](https://www.nber.org/papers/w34495)
-- [Estimates are difficult for developers and product owners](https://thorsell.io/2025/12/07/estimates.html)
-- [Millions of Americans mess up their taxes, but a new law will help](https://www.wakeuptopolitics.com/p/millions-of-americans-mess-up-their)
+- [The power of proximity to coworkers [pdf]](https://pallais.scholars.harvard.edu/sites/g/files/omnuum5926/files/2025-11/Power%20of%20Proximity%20to%20Coworkers%20November%202025.pdf)
+- [The Lost Machine Automats and Self-Service Cafeterias of NYC &lpar;2023&rpar;](https://www.untappedcities.com/automats-cafeterias-nyc/)
+- [Scientific and Technical Amateur Radio](https://destevez.net/)
+- [Horses: AI progress is steady. Human equivalence is sudden](https://andyljones.com/posts/horses.html)
+- [The Universal Weight Subspace Hypothesis](https://arxiv.org/abs/2512.05117)
+- [Kroger acknowledges that its bet on robotics went too far](https://www.grocerydive.com/news/kroger-ocado-close-automated-fulfillment-centers-robotics-grocery-ecommerce/805931/)
+- [Icons in Menus Everywhere – Send Help](https://blog.jim-nielsen.com/2025/icons-in-menus/)
+- [Trials avoid high risk patients and underestimate drug harms](https://www.nber.org/papers/w34534)
+- [Has the cost of building software dropped 90%?](https://martinalderson.com/posts/has-the-cost-of-software-just-dropped-90-percent/)
+- [Jepsen: NATS 2.12.1](https://jepsen.io/analyses/nats-2.12.1)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

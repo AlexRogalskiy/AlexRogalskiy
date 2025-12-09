@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Japan PM vows ‘resolute’ response after Chinese aircraft accused of locking radar on to Japanese fighter jets](https://www.theguardian.com/world/2025/dec/08/japan-china-radar-fighter-jets-claims)
-- [Katy Perry and Justin Trudeau make their relationship Instagram official](https://www.theguardian.com/world/2025/dec/08/katy-perry-justin-trudeau-instagram-relationship-official)
-- [UN report sounds alarm over Māori rights in New Zealand](https://www.theguardian.com/world/2025/dec/08/un-cerd-report-maori-rights-new-zealand)
-- [Republicans in Congress mocked Trump privately, Marjorie Taylor Greene says](https://www.theguardian.com/us-news/2025/dec/07/congress-republicans-tease-trump-marjorie-taylor-greene)
-- [UK asylum policy causes more violence and deaths, say rights groups](https://www.theguardian.com/uk-news/2025/dec/08/uk-asylum-policy-causes-more-violence-and-deaths-say-rights-groups)
-- [Selby holds off Trump fightback in UK final to end four-year wait for major trophy](https://www.theguardian.com/sport/2025/dec/07/mark-selby-sinks-judd-trump-to-claim-third-uk-championship-title)
-- [UK will not be haven for dirty money, Lammy to say in corruption crackdown](https://www.theguardian.com/politics/2025/dec/07/uk-corruption-crackdown-david-lammy-dirty-money)
-- [Nigerian state secures release of 100 out of 265 kidnapped schoolchildren](https://www.theguardian.com/world/2025/dec/07/release-secured-of-100-kidnapped-nigerian-schoolchildren-but-many-still-being-held)
-- [Mohamed Salah’s Liverpool future in doubt as Arne Slot faces Inter decision](https://www.theguardian.com/football/2025/dec/07/mohamed-salah-arne-slot-inter-brighton)
-- [Murder inquiry under way after woman and child die in house fire in Co Offaly](https://www.theguardian.com/world/2025/dec/07/inquiry-under-way-after-woman-and-child-die-in-house-fire-in-co-offaly)
+- [Ukraine war briefing: ‘Donbas Cowboy’ – Russians jailed for killing US volunteer on their side](https://www.theguardian.com/world/2025/dec/09/ukraine-war-briefing-donbas-cowboy-russians-jailed-for-killing-us-volunteer-on-their-side)
+- [Fatal Thailand-Cambodia clashes spread along contested border area](https://www.theguardian.com/world/2025/dec/09/fatal-thailand-cambodia-clashes-spread-along-contested-border-area)
+- [Trump clears way for Nvidia to sell powerful AI chips to China](https://www.theguardian.com/technology/2025/dec/08/trump-nvidia-ai-chips-china)
+- [Injured Australian fast bowler Josh Hazlewood ruled out of rest of Ashes series](https://www.theguardian.com/sport/2025/dec/09/josh-hazlewood-australia-cricket-fast-bowler-injured-ruled-out-ashes)
+- [Powerful wave in Tenerife leaves four swimmers dead after being swept out of ocean pool](https://www.theguardian.com/world/2025/dec/09/tenerife-wave-swimmer-deaths-ocean-pool-spain)
+- [Non-league Macclesfield to host holders Crystal Palace in FA Cup third round](https://www.theguardian.com/football/2025/dec/08/non-league-macclesfield-to-host-holders-crystal-palace-in-fa-cup-third-round)
+- [Bullets in Mangione bag convinced police he was CEO killing suspect, court hears](https://www.theguardian.com/us-news/2025/dec/08/luigi-mangione-backpack-court)
+- [Great British Railways flies the flag as logo goes back to the future](https://www.theguardian.com/business/2025/dec/08/great-british-railways-logo-branding)
+- [Fernandes at the double as Manchester United ease past Wolves amid fan unrest](https://www.theguardian.com/football/2025/dec/08/wolves-manchester-united-premier-league-match-report)
+- [Matthew Perry and the Ketamine Queen review – he deserved far better than this shoddy documentary](https://www.theguardian.com/tv-and-radio/2025/dec/08/matthew-perry-and-the-ketamine-queen-review-he-deserved-far-better-than-this-shoddy-documentary)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The surprising countries pulling off fast clean energy transitions](https://www.cnn.com/2025/11/07/climate/solar-wind-renewables-transition-global-pakistan-hungary-chile)
-- [Earth needs more energy. Atlanta&#39;s Super Soaker creator may have a solution](https://www.ajc.com/business/2025/11/earth-needs-more-energy-atlantas-super-soaker-creator-may-have-a-solution/)
-- [I made a prompt framework that makes LLMs stop hedging and speak straight](https://news.ycombinator.com/item?id=46187831)
-- [The Web Runs on Tolerance](https://shkspr.mobi/blog/2025/12/the-web-runs-on-tolerance/)
-- [Show HN: Peephole](https://peephole.greg.technology/)
-- [AI Interview Coder Assistant](https://interviewcoder.top)
-- [ChatGPT claims to have solved Navier-Stokes problem](https://github.com/vporton/navier-stokes)
-- [Noninvasive imaging could replace finger pricks for measuring blood glucose](https://news.mit.edu/2025/noninvasive-imaging-could-replace-finger-pricks-diabetes-1203)
-- [I&#39;m a Professor. A.I. Has Changed My Classroom, but Not for the Worse](https://www.nytimes.com/2025/11/25/magazine/ai-higher-education-students-teachers.html)
-- [Open Source Doesn&#39;t Fail Because of Code](https://blog.ulisesgascon.com/open-source-doesnt-fail-because-of-code)
+- [Another DeepSeek Moment](https://threadreaderapp.com/thread/1996538308697137277.html)
+- [Show HN: TinyJson API – Create temporary API endpoints from JSON in seconds](https://tinyjsonapi.com/)
+- [Show HN: WhatsApp Backup Reader – Offline Viewer](https://github.com/rodrigogs/whats-reader)
+- [The Warner Brothers lobbying bonanza](https://www.politico.com/news/2025/12/08/inside-the-warner-bros-lobbying-bonanza-00682276)
+- [Insufficient sleep associated with decreased life expectancy](https://news.ohsu.edu/2025/12/08/insufficient-sleep-associated-with-decreased-life-expectancy)
+- [Eye blinks synchronize with musical beats during music listening](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003456)
+- [A wage for housework? India&#39;s experiment in paying women](https://www.bbc.com/news/articles/c5y9ez3kzrdo)
+- [Show HN: A &quot;bank of my parents&quot; for my young kids](https://www.bankofmyparents.com)
+- [Gnome Workbench](https://github.com/workbenchdev/Workbench)
+- [Google&#39;s First AI Smart Glasses Coming in 2026](https://www.macrumors.com/2025/12/08/google-ai-smart-glasses-2026/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

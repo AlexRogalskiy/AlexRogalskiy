@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The power of proximity to coworkers [pdf]](https://pallais.scholars.harvard.edu/sites/g/files/omnuum5926/files/2025-11/Power%20of%20Proximity%20to%20Coworkers%20November%202025.pdf)
-- [The Lost Machine Automats and Self-Service Cafeterias of NYC &lpar;2023&rpar;](https://www.untappedcities.com/automats-cafeterias-nyc/)
-- [Scientific and Technical Amateur Radio](https://destevez.net/)
-- [Horses: AI progress is steady. Human equivalence is sudden](https://andyljones.com/posts/horses.html)
-- [The Universal Weight Subspace Hypothesis](https://arxiv.org/abs/2512.05117)
-- [Kroger acknowledges that its bet on robotics went too far](https://www.grocerydive.com/news/kroger-ocado-close-automated-fulfillment-centers-robotics-grocery-ecommerce/805931/)
-- [Icons in Menus Everywhere – Send Help](https://blog.jim-nielsen.com/2025/icons-in-menus/)
-- [Trials avoid high risk patients and underestimate drug harms](https://www.nber.org/papers/w34534)
-- [Has the cost of building software dropped 90%?](https://martinalderson.com/posts/has-the-cost-of-software-just-dropped-90-percent/)
-- [Jepsen: NATS 2.12.1](https://jepsen.io/analyses/nats-2.12.1)
+- [NYC congestion pricing cuts air pollution by 22% in six months](https://airqualitynews.com/cars-freight-transport/nyc-congestion-pricing-cuts-air-pollution-by-22-in-six-months/)
+- [Making macOS Bearable](https://seg6.space/posts/making-macos-bearable/)
+- [Show all your application error using Cloudflare Error Page](https://github.com/donlon/cloudflare-error-page)
+- [The AI-Education Death Spiral a.k.a. Let the Kids Cheat](https://anandsanwal.me/ai-education-death-spiral/)
+- [224× Compression of Llama-70B with Higher Accuracy &lpar;Paper and Code&rpar;](https://zenodo.org/records/17873275)
+- [OpenEvolve: Teaching LLMs to Discover Algorithms Through Evolution](https://algorithmicsuperintelligence.ai/blog/openevolve-overview/index.html)
+- [Linux CVEs, more than you ever wanted to know](http://www.kroah.com/log/blog/2025/12/08/linux-cves-more-than-you-ever-wanted-to-know/)
+- [Qt, Linux and everything: Debugging Qt WebAssembly](http://qtandeverything.blogspot.com/2025/12/debugging-qt-webassembly-dwarf.html)
+- [Django: what’s new in 6.0](https://adamj.eu/tech/2025/12/03/django-whats-new-6.0/)
+- [Agentic AI Foundation](https://block.xyz/inside/block-anthropic-and-openai-launch-the-agentic-ai-foundation)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

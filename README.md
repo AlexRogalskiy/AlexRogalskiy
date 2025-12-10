@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine war briefing: ‘Donbas Cowboy’ – Russians jailed for killing US volunteer on their side](https://www.theguardian.com/world/2025/dec/09/ukraine-war-briefing-donbas-cowboy-russians-jailed-for-killing-us-volunteer-on-their-side)
-- [Fatal Thailand-Cambodia clashes spread along contested border area](https://www.theguardian.com/world/2025/dec/09/fatal-thailand-cambodia-clashes-spread-along-contested-border-area)
-- [Trump clears way for Nvidia to sell powerful AI chips to China](https://www.theguardian.com/technology/2025/dec/08/trump-nvidia-ai-chips-china)
-- [Injured Australian fast bowler Josh Hazlewood ruled out of rest of Ashes series](https://www.theguardian.com/sport/2025/dec/09/josh-hazlewood-australia-cricket-fast-bowler-injured-ruled-out-ashes)
-- [Powerful wave in Tenerife leaves four swimmers dead after being swept out of ocean pool](https://www.theguardian.com/world/2025/dec/09/tenerife-wave-swimmer-deaths-ocean-pool-spain)
-- [Non-league Macclesfield to host holders Crystal Palace in FA Cup third round](https://www.theguardian.com/football/2025/dec/08/non-league-macclesfield-to-host-holders-crystal-palace-in-fa-cup-third-round)
-- [Bullets in Mangione bag convinced police he was CEO killing suspect, court hears](https://www.theguardian.com/us-news/2025/dec/08/luigi-mangione-backpack-court)
-- [Great British Railways flies the flag as logo goes back to the future](https://www.theguardian.com/business/2025/dec/08/great-british-railways-logo-branding)
-- [Fernandes at the double as Manchester United ease past Wolves amid fan unrest](https://www.theguardian.com/football/2025/dec/08/wolves-manchester-united-premier-league-match-report)
-- [Matthew Perry and the Ketamine Queen review – he deserved far better than this shoddy documentary](https://www.theguardian.com/tv-and-radio/2025/dec/08/matthew-perry-and-the-ketamine-queen-review-he-deserved-far-better-than-this-shoddy-documentary)
+- [What’s behind the Thailand-Cambodia clashes – explained in 30 seconds](https://www.theguardian.com/world/2025/dec/10/thailand-cambodia-fighting-explained-30-seconds)
+- [‘Having a Bazball at Noosa’: Australian media goes to town over England’s mid-Ashes beach break](https://www.theguardian.com/sport/2025/dec/10/england-cricket-team-ben-stokes-mid-ashes-beach-break-australia)
+- [Font of ‘wasteful’ diversity: Trump’s state department orders return to Times New Roman](https://www.theguardian.com/us-news/2025/dec/10/trump-times-new-roman-font-return-state-department)
+- [Pat Cummins primed for return as Australia name squad for third Ashes Test](https://www.theguardian.com/sport/2025/dec/10/pat-cummins-australia-squad-third-ashes-test-cricket-adelaide)
+- [Biggest reforms to policing since the 1960s ‘being threatened by lack of money’](https://www.theguardian.com/uk-news/2025/dec/10/biggest-reforms-to-policing-since-the-60s-being-threatened-by-lack-of-money)
+- [Channel 4 poaches new chief executive Priya Dogra from Sky](https://www.theguardian.com/media/2025/dec/10/channel-4-poaches-new-chief-executive-priya-dogra-from-sky)
+- [Humans rank among leading monogamous mammals, study finds](https://www.theguardian.com/science/2025/dec/10/humans-rank-among-leading-monogamous-mammals-study-finds)
+- [Christmas code-crackers: GCHQ reveals annual festive card for puzzle fans](https://www.theguardian.com/uk-news/2025/dec/10/gchq-reveals-annual-festive-christmas-card-for-puzzle-fans)
+- [Championship roundup: Boro close gap at top after Coventry held by 10-man Preston](https://www.theguardian.com/football/2025/dec/09/championship-roundup-boro-close-gap-at-top-after-coventry-held-by-10-man-preston)
+- [Consuming lots of energy drinks may raise heart disease and stroke risk, say doctors](https://www.theguardian.com/society/2025/dec/09/energy-drinks-heart-disease-stroke-risk-doctors)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

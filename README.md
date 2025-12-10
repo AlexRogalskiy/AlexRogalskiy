@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Another DeepSeek Moment](https://threadreaderapp.com/thread/1996538308697137277.html)
-- [Show HN: TinyJson API – Create temporary API endpoints from JSON in seconds](https://tinyjsonapi.com/)
-- [Show HN: WhatsApp Backup Reader – Offline Viewer](https://github.com/rodrigogs/whats-reader)
-- [The Warner Brothers lobbying bonanza](https://www.politico.com/news/2025/12/08/inside-the-warner-bros-lobbying-bonanza-00682276)
-- [Insufficient sleep associated with decreased life expectancy](https://news.ohsu.edu/2025/12/08/insufficient-sleep-associated-with-decreased-life-expectancy)
-- [Eye blinks synchronize with musical beats during music listening](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003456)
-- [A wage for housework? India&#39;s experiment in paying women](https://www.bbc.com/news/articles/c5y9ez3kzrdo)
-- [Show HN: A &quot;bank of my parents&quot; for my young kids](https://www.bankofmyparents.com)
-- [Gnome Workbench](https://github.com/workbenchdev/Workbench)
-- [Google&#39;s First AI Smart Glasses Coming in 2026](https://www.macrumors.com/2025/12/08/google-ai-smart-glasses-2026/)
+- [Understanding how to take things forward](https://news.ycombinator.com/item?id=46213538)
+- [Wireless device &#39;speaks&#39; to the brain with light](https://news.northwestern.edu/stories/2025/12/wireless-device-speaks-to-the-brain-with-light)
+- [UMass Amherst Researchers Create Nanoparticle Vaccine That Prevents Cancer /Mice](https://www.umass.edu/news/article/umass-amherst-researchers-create-nanoparticle-vaccine-prevents-cancer-mice)
+- [Show HN: AI Art Platform: Video and Image Creator – VGenie](https://vgenie.ai/home)
+- [NYC congestion pricing cuts air pollution by 22% in six months](https://airqualitynews.com/cars-freight-transport/nyc-congestion-pricing-cuts-air-pollution-by-22-in-six-months/)
+- [Show HN: AI Interview-to-Offer Agent Network](https://meet.readymojo.com/)
+- [Ukraine&#39;s Daring Operation Spiderweb&#39; Attack on Russia](https://www.wsj.com/world/europe/ukraine-russia-drone-attack-operation-spiderweb-24d821ab)
+- [Atomic time source failure at NIST Gaithersburg campus](https://groups.google.com/a/list.nist.gov/g/internet-time-service/c/Zd7VaR-vqV4?pli=1)
+- [Nothing in standard Ubuntu app set relies on curl?](https://news.ycombinator.com/item?id=46213396)
+- [Making macOS Bearable](https://seg6.space/posts/making-macos-bearable/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

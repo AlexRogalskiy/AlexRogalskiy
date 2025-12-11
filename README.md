@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [What’s behind the Thailand-Cambodia clashes – explained in 30 seconds](https://www.theguardian.com/world/2025/dec/10/thailand-cambodia-fighting-explained-30-seconds)
-- [‘Having a Bazball at Noosa’: Australian media goes to town over England’s mid-Ashes beach break](https://www.theguardian.com/sport/2025/dec/10/england-cricket-team-ben-stokes-mid-ashes-beach-break-australia)
-- [Font of ‘wasteful’ diversity: Trump’s state department orders return to Times New Roman](https://www.theguardian.com/us-news/2025/dec/10/trump-times-new-roman-font-return-state-department)
-- [Pat Cummins primed for return as Australia name squad for third Ashes Test](https://www.theguardian.com/sport/2025/dec/10/pat-cummins-australia-squad-third-ashes-test-cricket-adelaide)
-- [Biggest reforms to policing since the 1960s ‘being threatened by lack of money’](https://www.theguardian.com/uk-news/2025/dec/10/biggest-reforms-to-policing-since-the-60s-being-threatened-by-lack-of-money)
-- [Channel 4 poaches new chief executive Priya Dogra from Sky](https://www.theguardian.com/media/2025/dec/10/channel-4-poaches-new-chief-executive-priya-dogra-from-sky)
-- [Humans rank among leading monogamous mammals, study finds](https://www.theguardian.com/science/2025/dec/10/humans-rank-among-leading-monogamous-mammals-study-finds)
-- [Christmas code-crackers: GCHQ reveals annual festive card for puzzle fans](https://www.theguardian.com/uk-news/2025/dec/10/gchq-reveals-annual-festive-christmas-card-for-puzzle-fans)
-- [Championship roundup: Boro close gap at top after Coventry held by 10-man Preston](https://www.theguardian.com/football/2025/dec/09/championship-roundup-boro-close-gap-at-top-after-coventry-held-by-10-man-preston)
-- [Consuming lots of energy drinks may raise heart disease and stroke risk, say doctors](https://www.theguardian.com/society/2025/dec/09/energy-drinks-heart-disease-stroke-risk-doctors)
+- [Venezuela decries ‘act of piracy’ after US forces seize oil tanker off country’s coast](https://www.theguardian.com/us-news/2025/dec/10/us-forces-reportedly-seize-oil-tanker-off-venezuela-coast)
+- [Ukraine war briefing: Kyiv’s SBU cripples shadow fleet tanker in Black Sea](https://www.theguardian.com/world/2025/dec/11/ukraine-war-briefing-kyivs-sbu-cripples-shadow-fleet-tanker-in-black-sea)
+- [Venezuelan Nobel peace prize winner greets crowds in Oslo after nearly a year in hiding](https://www.theguardian.com/world/2025/dec/11/maria-corina-machado-venezuela-nobel-peace-prize-winner-oslo-norway)
+- [Half a million evacuated on Thai-Cambodia border as Trump makes diplomatic push to end fighting](https://www.theguardian.com/world/2025/dec/11/thailand-cambodia-border-evacuation)
+- [Some GCSEs and A-levels in England could be taken on laptops by 2030, Ofqual says](https://www.theguardian.com/education/2025/dec/11/gcses-a-levels-exams-england-laptops-2030-ofqual)
+- [Online child sexual abuse surges by 26% in year as police say tech firms must act](https://www.theguardian.com/society/2025/dec/11/online-child-sexual-abuse-surges-by-26-percent-in-year-as-police-say-tech-firms-must-act)
+- [Britain slipping down global league table for youth employment, says report](https://www.theguardian.com/society/2025/dec/11/britain-slipping-down-global-league-table-for-youth-employment-says-report)
+- [Born to run: how exercise expanded the landscape of my life and got my mind on track | Joseph Earp](https://www.theguardian.com/commentisfree/2025/dec/11/born-to-run-how-exercise-expanded-the-landscape-of-my-life-and-got-my-mind-on-track)
+- [Tory governments spent £325m on free schools that failed or disappeared](https://www.theguardian.com/education/2025/dec/10/conservative-governments-free-schools-failed)
+- [Homelessness minister promises to end use of B&amp;Bs as emergency housing](https://www.theguardian.com/society/2025/dec/10/homelessness-minister-promises-to-end-use-of-bbs-as-emergency-housing)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

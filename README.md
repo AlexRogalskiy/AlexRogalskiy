@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [NYC congestion pricing cuts air pollution by 22% in six months](https://airqualitynews.com/cars-freight-transport/nyc-congestion-pricing-cuts-air-pollution-by-22-in-six-months/)
-- [Making macOS Bearable](https://seg6.space/posts/making-macos-bearable/)
-- [Show all your application error using Cloudflare Error Page](https://github.com/donlon/cloudflare-error-page)
-- [The AI-Education Death Spiral a.k.a. Let the Kids Cheat](https://anandsanwal.me/ai-education-death-spiral/)
-- [224× Compression of Llama-70B with Higher Accuracy &lpar;Paper and Code&rpar;](https://zenodo.org/records/17873275)
-- [OpenEvolve: Teaching LLMs to Discover Algorithms Through Evolution](https://algorithmicsuperintelligence.ai/blog/openevolve-overview/index.html)
-- [Linux CVEs, more than you ever wanted to know](http://www.kroah.com/log/blog/2025/12/08/linux-cves-more-than-you-ever-wanted-to-know/)
-- [Qt, Linux and everything: Debugging Qt WebAssembly](http://qtandeverything.blogspot.com/2025/12/debugging-qt-webassembly-dwarf.html)
-- [Django: what’s new in 6.0](https://adamj.eu/tech/2025/12/03/django-whats-new-6.0/)
-- [Agentic AI Foundation](https://block.xyz/inside/block-anthropic-and-openai-launch-the-agentic-ai-foundation)
+- [Patterns.dev](https://www.patterns.dev/)
+- [When would you ever want bubblesort? &lpar;2023&rpar;](https://buttondown.com/hillelwayne/archive/when-would-you-ever-want-bubblesort/)
+- [Getting a Gemini API key is an exercise in frustration](https://ankursethi.com/blog/gemini-api-key-frustration/)
+- [The future of Terraform CDK](https://github.com/hashicorp/terraform-cdk)
+- [Super Mario 64 for the PS1](https://github.com/malucard/sm64-psx)
+- [Terrain Diffusion: A Diffusion-Based Successor to Perlin Noise](https://arxiv.org/abs/2512.08309)
+- [Show HN: A 2-row, 16-key keyboard designed for smartphones](https://k-keyboard.com/Why-QWERTY-mini)
+- [Show HN: Automated license plate reader coverage in the USA](https://alpranalysis.com)
+- [Is it a bubble?](https://www.oaktreecapital.com/insights/memo/is-it-a-bubble)
+- [Auto-grading decade-old Hacker News discussions with hindsight](https://karpathy.bearblog.dev/auto-grade-hn/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

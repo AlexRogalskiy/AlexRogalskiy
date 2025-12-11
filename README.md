@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Understanding how to take things forward](https://news.ycombinator.com/item?id=46213538)
-- [Wireless device &#39;speaks&#39; to the brain with light](https://news.northwestern.edu/stories/2025/12/wireless-device-speaks-to-the-brain-with-light)
-- [UMass Amherst Researchers Create Nanoparticle Vaccine That Prevents Cancer /Mice](https://www.umass.edu/news/article/umass-amherst-researchers-create-nanoparticle-vaccine-prevents-cancer-mice)
-- [Show HN: AI Art Platform: Video and Image Creator – VGenie](https://vgenie.ai/home)
-- [NYC congestion pricing cuts air pollution by 22% in six months](https://airqualitynews.com/cars-freight-transport/nyc-congestion-pricing-cuts-air-pollution-by-22-in-six-months/)
-- [Show HN: AI Interview-to-Offer Agent Network](https://meet.readymojo.com/)
-- [Ukraine&#39;s Daring Operation Spiderweb&#39; Attack on Russia](https://www.wsj.com/world/europe/ukraine-russia-drone-attack-operation-spiderweb-24d821ab)
-- [Atomic time source failure at NIST Gaithersburg campus](https://groups.google.com/a/list.nist.gov/g/internet-time-service/c/Zd7VaR-vqV4?pli=1)
-- [Nothing in standard Ubuntu app set relies on curl?](https://news.ycombinator.com/item?id=46213396)
-- [Making macOS Bearable](https://seg6.space/posts/making-macos-bearable/)
+- [Upload a selfie and get beautiful AI Santa photos for $9.99](https://www.photojing.com/products/santa-photos)
+- [Show HN: I built a &quot;time machine&quot; with Gemini 3](https://chronolens.world/)
+- [SEO poisoning with legit AI chats delivers AMOS stealer](https://www.huntress.com/blog/amos-stealer-chatgpt-grok-ai-trust)
+- [A psychedelic tour of Earth&#39;s ecosystems–from the desert to Siberia](https://theconversation.com/a-psychedelic-tour-of-earths-ecosystems-from-the-desert-to-siberia-268719)
+- [Contextify](https://contextify.sh/)
+- [Show HN: MechanicsDSL – PhPhysics simulations with LaTeX-like syntax in Python](https://github.com/MechanicsDSL/mechanicsdsl)
+- [You&#39;ll get over 12k validated startup ideas here](https://news.ycombinator.com/item?id=46227172)
+- [Show HN: Enact – NPM for AI Tools with Sigstore and Dagger](https://enact.tools)
+- [I Reverse Engineered ChatGPT&#39;s Memory System, and Here&#39;s What I Found](https://manthanguptaa.in/posts/chatgpt_memory/)
+- [Operation Bluebird wants to relaunch &quot;Twitter&quot;](https://arstechnica.com/information-technology/2025/12/can-twitter-fly-again-startup-wants-to-pry-iconic-trademark-from-musks-x/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

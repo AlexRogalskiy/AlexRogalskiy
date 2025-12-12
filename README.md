@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Upload a selfie and get beautiful AI Santa photos for $9.99](https://www.photojing.com/products/santa-photos)
-- [Show HN: I built a &quot;time machine&quot; with Gemini 3](https://chronolens.world/)
-- [SEO poisoning with legit AI chats delivers AMOS stealer](https://www.huntress.com/blog/amos-stealer-chatgpt-grok-ai-trust)
-- [A psychedelic tour of Earth&#39;s ecosystems–from the desert to Siberia](https://theconversation.com/a-psychedelic-tour-of-earths-ecosystems-from-the-desert-to-siberia-268719)
-- [Contextify](https://contextify.sh/)
-- [Show HN: MechanicsDSL – PhPhysics simulations with LaTeX-like syntax in Python](https://github.com/MechanicsDSL/mechanicsdsl)
-- [You&#39;ll get over 12k validated startup ideas here](https://news.ycombinator.com/item?id=46227172)
-- [Show HN: Enact – NPM for AI Tools with Sigstore and Dagger](https://enact.tools)
-- [I Reverse Engineered ChatGPT&#39;s Memory System, and Here&#39;s What I Found](https://manthanguptaa.in/posts/chatgpt_memory/)
-- [Operation Bluebird wants to relaunch &quot;Twitter&quot;](https://arstechnica.com/information-technology/2025/12/can-twitter-fly-again-startup-wants-to-pry-iconic-trademark-from-musks-x/)
+- [LMArena Is a Cancer on AI](https://surgehq.ai/blog/lmarena-is-a-plague-on-ai)
+- [Exploring the chip on a contactless payment card](https://www.facebook.com/groups/ElectronicParts/posts/2955721817950467/)
+- [iOS TCC Lets Hacker Feed Reach Undocumented Liverpool Service](https://news.ycombinator.com/item?id=46240434)
+- [Linux 6.18 Changelog](https://kernelnewbies.org/Linux_6.18)
+- [The Mastermind Box Cover](https://www.mcsweeneys.net/articles/the-mastermind-box-cover-what-the-hell-were-they-thinking)
+- [Everything you need to know about GPT-5.2](https://www.augmentedswe.com/p/gpt-5-2-for-coding)
+- [Ask HN: What was the most humble living situation you had in your early days?](https://news.ycombinator.com/item?id=46240388)
+- [Letting the Minecart Crash](https://nik.art/letting-the-minecart-crash/)
+- [Post-Quantum Cryptography &lpar;PQC&rpar; Support in Nginx](https://blog.nginx.org/blog/pqc-nginx)
+- [Show HN: Create AI Videos and Images](https://lensgoai.co/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

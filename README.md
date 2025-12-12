@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Venezuela decries ‘act of piracy’ after US forces seize oil tanker off country’s coast](https://www.theguardian.com/us-news/2025/dec/10/us-forces-reportedly-seize-oil-tanker-off-venezuela-coast)
-- [Ukraine war briefing: Kyiv’s SBU cripples shadow fleet tanker in Black Sea](https://www.theguardian.com/world/2025/dec/11/ukraine-war-briefing-kyivs-sbu-cripples-shadow-fleet-tanker-in-black-sea)
-- [Venezuelan Nobel peace prize winner greets crowds in Oslo after nearly a year in hiding](https://www.theguardian.com/world/2025/dec/11/maria-corina-machado-venezuela-nobel-peace-prize-winner-oslo-norway)
-- [Half a million evacuated on Thai-Cambodia border as Trump makes diplomatic push to end fighting](https://www.theguardian.com/world/2025/dec/11/thailand-cambodia-border-evacuation)
-- [Some GCSEs and A-levels in England could be taken on laptops by 2030, Ofqual says](https://www.theguardian.com/education/2025/dec/11/gcses-a-levels-exams-england-laptops-2030-ofqual)
-- [Online child sexual abuse surges by 26% in year as police say tech firms must act](https://www.theguardian.com/society/2025/dec/11/online-child-sexual-abuse-surges-by-26-percent-in-year-as-police-say-tech-firms-must-act)
-- [Britain slipping down global league table for youth employment, says report](https://www.theguardian.com/society/2025/dec/11/britain-slipping-down-global-league-table-for-youth-employment-says-report)
-- [Born to run: how exercise expanded the landscape of my life and got my mind on track | Joseph Earp](https://www.theguardian.com/commentisfree/2025/dec/11/born-to-run-how-exercise-expanded-the-landscape-of-my-life-and-got-my-mind-on-track)
-- [Tory governments spent £325m on free schools that failed or disappeared](https://www.theguardian.com/education/2025/dec/10/conservative-governments-free-schools-failed)
-- [Homelessness minister promises to end use of B&amp;Bs as emergency housing](https://www.theguardian.com/society/2025/dec/10/homelessness-minister-promises-to-end-use-of-bbs-as-emergency-housing)
+- [‘Charismatic, self-assured, formidable’: Lara Croft returns with two new Tomb Raider games](https://www.theguardian.com/games/2025/dec/12/charismatic-self-assured-formidable-lara-croft-returns-with-two-new-tomb-raider-games)
+- [Trump news at a glance: president ‘sick of meetings’ as Ukraine-Russia peace deal talks drag on](https://www.theguardian.com/us-news/2025/dec/11/trump-administration-news-update-today)
+- [Dozens killed in hospital strike in Myanmar’s western Rakhine state](https://www.theguardian.com/world/2025/dec/12/dozens-killed-in-hospital-strike-in-myanmars-western-rakhine-state)
+- [The Reject Shop faces a legal threat from a UK artist over a flamingo egg cup. Does it have a leg to stand on?](https://www.theguardian.com/australia-news/2025/dec/12/the-reject-shop-denies-selling-copy-uk-artists-flamingo-egg-cup)
+- [Trump expands Venezuela sanctions as Maduro decries new ‘era of piracy’](https://www.theguardian.com/world/2025/dec/11/pressure-on-maduro-grows-after-us-seizes-dark-fleet-tanker-off-coast-of-venezuela)
+- [Changes to polar bear DNA could help them adapt to global heating, study finds](https://www.theguardian.com/environment/2025/dec/12/changes-to-polar-bear-dna-could-help-them-adapt-to-global-heating-study-finds)
+- [Papua New Guinea grapples with HIV epidemic as it battles stigma and US aid cuts](https://www.theguardian.com/world/2025/dec/12/papua-new-guinea-hiv-epidemic-stigma-us-aid-cuts)
+- [Liam Neeson denies anti-vax views after narrating Covid documentary](https://www.theguardian.com/film/2025/dec/11/liam-neeson-covid-documentary)
+- [‘It’s not going to end’: Thai evacuees fear for future after fresh clashes with Cambodia](https://www.theguardian.com/world/2025/dec/12/thailand-cambodia-border-clashes-evacuees)
+- [Into the Woods review – Brothers Grimm gloriously mashed up by Sondheim](https://www.theguardian.com/stage/2025/dec/12/into-the-woods-review-bridge-theatre-london)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

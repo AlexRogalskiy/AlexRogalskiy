@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [LMArena Is a Cancer on AI](https://surgehq.ai/blog/lmarena-is-a-plague-on-ai)
-- [Exploring the chip on a contactless payment card](https://www.facebook.com/groups/ElectronicParts/posts/2955721817950467/)
-- [iOS TCC Lets Hacker Feed Reach Undocumented Liverpool Service](https://news.ycombinator.com/item?id=46240434)
-- [Linux 6.18 Changelog](https://kernelnewbies.org/Linux_6.18)
-- [The Mastermind Box Cover](https://www.mcsweeneys.net/articles/the-mastermind-box-cover-what-the-hell-were-they-thinking)
-- [Everything you need to know about GPT-5.2](https://www.augmentedswe.com/p/gpt-5-2-for-coding)
-- [Ask HN: What was the most humble living situation you had in your early days?](https://news.ycombinator.com/item?id=46240388)
-- [Letting the Minecart Crash](https://nik.art/letting-the-minecart-crash/)
-- [Post-Quantum Cryptography &lpar;PQC&rpar; Support in Nginx](https://blog.nginx.org/blog/pqc-nginx)
-- [Show HN: Create AI Videos and Images](https://lensgoai.co/)
+- [A Lisp Interpreter Implemented in Conway&#39;s Game of Life &lpar;2022&rpar;](https://woodrush.github.io/blog/posts/2022-01-12-lisp-in-life.html)
+- [Redis-rs and Redis-test 1.0.0](https://github.com/redis-rs/redis-rs/blob/main/version1.md)
+- [1300 Still Images from the Animated Films of Hayao Miyazaki&#39;s Studio Ghibli](https://www.ghibli.jp/info/013772/)
+- [Visualizing the 4th Dimension with WebGPU](https://dugas.ch/funderstanding/visualizing_the_4th_dimension.html)
+- [Visual Proof of Pythagoras&#39; Theorem [video]](https://www.youtube.com/watch?v=tTHhBE5lYTg)
+- [Roundup of Events for Bootstrappers in December 2025](https://bootstrappersbreakfast.com/2025/11/25/roundup-of-december-2025-bootstrapper-events/)
+- [How the Team Behind Valkey Knew It Was Time to Fork](https://thenewstack.io/how-the-team-behind-valkey-knew-it-was-time-to-fork/)
+- [Searching: Cybersecurity Classes](https://news.ycombinator.com/item?id=46251525)
+- [Man shocks doctors with 254/150 blood pressure, stroke from energy drinks](https://arstechnica.com/health/2025/12/man-shocks-doctors-with-extreme-blood-pressure-stroke-from-energy-drinks/)
+- [The unlikely photo that kickstarted the social web &lpar;2016&rpar;](https://www.bbc.com/future/article/20160224-the-unlikely-photo-that-kickstarted-the-social-internet)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

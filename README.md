@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Cadmium Zinc Telluride: The wonder material powering a medical &#39;revolution&#39;](https://www.bbc.com/news/articles/c24l223d9n7o)
-- [Notes on Gamma](https://poniesandlight.co.uk/reflect/gamma/)
-- [Stoolap: High-performance embedded SQL database in pure Rust](https://github.com/stoolap/stoolap)
-- [Laying out the 404 Media zine](https://tedium.co/2025/12/10/404-media-zine-linux-affinity/?)
-- [Nokia N900 Necromancy](https://yaky.dev/2025-12-11-nokia-n900-necromancy/)
-- [Powder and stone, or, why medieval rulers loved castles](https://1517.substack.com/p/powder-and-stone-or-why-medieval)
-- [Almond &lpar;YC X25&rpar; Is Hiring SWEs and MechEs](https://www.ycombinator.com/companies/almond-2/jobs)
-- [Denial of service and source code exposure in React Server Components](https://react.dev/blog/2025/12/11/denial-of-service-and-source-code-exposure-in-react-server-components)
-- [UK House of Lords attempting to ban use of VPNs by anyone under 16](https://alecmuffett.com/article/134925)
-- [My productivity app is a never-ending .txt file &lpar;2020&rpar;](https://jeffhuang.com/productivity_text_file/)
+- [The Checkerboard](https://99percentinvisible.org/episode/650-the-checkerboard/)
+- [OpenAI are quietly adopting skills, now available in ChatGPT and Codex CLI](https://simonwillison.net/2025/Dec/12/openai-skills/)
+- [50 years of proof assistants](https://lawrencecpaulson.github.io//2025/12/05/History_of_Proof_Assistants.html)
+- [Show HN: Tiny VM sandbox in C with apps in Rust, C and Zig](https://github.com/ringtailsoftware/uvm32)
+- [Capsudo: Rethinking Sudo with Object Capabilities](https://ariadne.space/2025/12/12/rethinking-sudo-with-object-capabilities.html)
+- [GNU Unifont](https://unifoundry.com/unifont/index.html)
+- [macOS 26.2 enables fast AI clusters with RDMA over Thunderbolt](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
+- [Security issues with electronic invoices](https://invoice.secvuln.info/)
+- [Rats Play DOOM](https://ratsplaydoom.com/)
+- [Home Depot GitHub token exposed for a year, granted access to internal systems](https://techcrunch.com/2025/12/12/home-depot-exposed-access-to-internal-systems-for-a-year-says-researcher/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

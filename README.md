@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [‘Charismatic, self-assured, formidable’: Lara Croft returns with two new Tomb Raider games](https://www.theguardian.com/games/2025/dec/12/charismatic-self-assured-formidable-lara-croft-returns-with-two-new-tomb-raider-games)
-- [Trump news at a glance: president ‘sick of meetings’ as Ukraine-Russia peace deal talks drag on](https://www.theguardian.com/us-news/2025/dec/11/trump-administration-news-update-today)
-- [Dozens killed in hospital strike in Myanmar’s western Rakhine state](https://www.theguardian.com/world/2025/dec/12/dozens-killed-in-hospital-strike-in-myanmars-western-rakhine-state)
-- [The Reject Shop faces a legal threat from a UK artist over a flamingo egg cup. Does it have a leg to stand on?](https://www.theguardian.com/australia-news/2025/dec/12/the-reject-shop-denies-selling-copy-uk-artists-flamingo-egg-cup)
-- [Trump expands Venezuela sanctions as Maduro decries new ‘era of piracy’](https://www.theguardian.com/world/2025/dec/11/pressure-on-maduro-grows-after-us-seizes-dark-fleet-tanker-off-coast-of-venezuela)
-- [Changes to polar bear DNA could help them adapt to global heating, study finds](https://www.theguardian.com/environment/2025/dec/12/changes-to-polar-bear-dna-could-help-them-adapt-to-global-heating-study-finds)
-- [Papua New Guinea grapples with HIV epidemic as it battles stigma and US aid cuts](https://www.theguardian.com/world/2025/dec/12/papua-new-guinea-hiv-epidemic-stigma-us-aid-cuts)
-- [Liam Neeson denies anti-vax views after narrating Covid documentary](https://www.theguardian.com/film/2025/dec/11/liam-neeson-covid-documentary)
-- [‘It’s not going to end’: Thai evacuees fear for future after fresh clashes with Cambodia](https://www.theguardian.com/world/2025/dec/12/thailand-cambodia-border-clashes-evacuees)
-- [Into the Woods review – Brothers Grimm gloriously mashed up by Sondheim](https://www.theguardian.com/stage/2025/dec/12/into-the-woods-review-bridge-theatre-london)
+- [US scolds Rwanda for breaking peace deal as M23 rebels seize key Congo city](https://www.theguardian.com/world/2025/dec/13/us-accuses-rwanda-of-violating-peace-deal)
+- [Johnson &amp; Johnson ordered to pay $40m to women who said talc to blame for cancer](https://www.theguardian.com/us-news/2025/dec/12/johnson-johnson-talc-baby-powder)
+- [Fighting between Thailand and Cambodia continues despite Trump claim of renewed ceasefire](https://www.theguardian.com/world/2025/dec/12/thailand-and-cambodia-agree-to-restart-ceasefire-brokered-by-us-says-trump)
+- [A world-weary, hard-drinking hungover Supergirl? This could be James Gunn’s DCU masterstroke](https://www.theguardian.com/film/2025/dec/12/supergirl-first-teaser-trailer-week-in-geek)
+- [81 women file civil suit against army gynecologist already charged criminally](https://www.theguardian.com/us-news/2025/dec/12/81-women-lawsuit-army-gynecologist)
+- [See you in March? Debate in New Zealand over extremely long summer break](https://www.theguardian.com/world/2025/dec/13/see-you-in-march-debate-in-new-zealand-over-extremely-long-summer-break)
+- [The path of least emissions: how to take a sustainable holiday this summer](https://www.theguardian.com/australia-news/2025/dec/13/how-to-take-a-sustainable-holiday-vacation-tourism-emissions-travel)
+- [Parling frustrated as Leicester blow half-time lead against Leinster to lose again](https://www.theguardian.com/sport/2025/dec/12/leicester-leinster-champions-cup-rugby-union-match-report)
+- [Premier League news: Palmer not fully recovered, Moyes plans Tarkowski chat](https://www.theguardian.com/football/2025/dec/12/premier-league-news-cole-palmer-chelsea-everton-arsenal)
+- [House Democrats release Epstein photos with Trump, Bannon, Clinton and others](https://www.theguardian.com/us-news/2025/dec/12/epstein-photos-trump-clinton)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

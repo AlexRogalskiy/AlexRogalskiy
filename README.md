@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [US scolds Rwanda for breaking peace deal as M23 rebels seize key Congo city](https://www.theguardian.com/world/2025/dec/13/us-accuses-rwanda-of-violating-peace-deal)
-- [Johnson &amp; Johnson ordered to pay $40m to women who said talc to blame for cancer](https://www.theguardian.com/us-news/2025/dec/12/johnson-johnson-talc-baby-powder)
-- [Fighting between Thailand and Cambodia continues despite Trump claim of renewed ceasefire](https://www.theguardian.com/world/2025/dec/12/thailand-and-cambodia-agree-to-restart-ceasefire-brokered-by-us-says-trump)
-- [A world-weary, hard-drinking hungover Supergirl? This could be James Gunn’s DCU masterstroke](https://www.theguardian.com/film/2025/dec/12/supergirl-first-teaser-trailer-week-in-geek)
-- [81 women file civil suit against army gynecologist already charged criminally](https://www.theguardian.com/us-news/2025/dec/12/81-women-lawsuit-army-gynecologist)
-- [See you in March? Debate in New Zealand over extremely long summer break](https://www.theguardian.com/world/2025/dec/13/see-you-in-march-debate-in-new-zealand-over-extremely-long-summer-break)
-- [The path of least emissions: how to take a sustainable holiday this summer](https://www.theguardian.com/australia-news/2025/dec/13/how-to-take-a-sustainable-holiday-vacation-tourism-emissions-travel)
-- [Parling frustrated as Leicester blow half-time lead against Leinster to lose again](https://www.theguardian.com/sport/2025/dec/12/leicester-leinster-champions-cup-rugby-union-match-report)
-- [Premier League news: Palmer not fully recovered, Moyes plans Tarkowski chat](https://www.theguardian.com/football/2025/dec/12/premier-league-news-cole-palmer-chelsea-everton-arsenal)
-- [House Democrats release Epstein photos with Trump, Bannon, Clinton and others](https://www.theguardian.com/us-news/2025/dec/12/epstein-photos-trump-clinton)
+- [Ukraine war briefing: US envoy to meet Zelenskyy, Europe leaders in Berlin](https://www.theguardian.com/world/2025/dec/14/ukraine-war-briefing-us-envoy-to-meet-zelenskyy-europe-leaders-in-berlin)
+- [Brown University shooting: two dead and eight in critical condition as suspect remains at large – live updates](https://www.theguardian.com/us-news/live/2025/dec/13/brown-university-shooting-rhode-island-updates)
+- [Paul Lim, 71, becomes oldest player to win match at PDC World Championship](https://www.theguardian.com/sport/2025/dec/13/pdc-world-darts-championship-gary-anderson-luke-humphries)
+- [Sunderland hero Gary Rowell dies aged 68 on eve of derby with Newcastle](https://www.theguardian.com/football/2025/dec/13/sunderland-hero-gary-rowell-dies-aged-68-on-eve-of-derby-with-newcastle)
+- [European football: Raphinha sinks Osasuna to consolidate Barcelona’s lead](https://www.theguardian.com/football/2025/dec/13/european-roundup-atletico-madrid-valencia-la-liga-bundesliga-serie-a-ligue-1)
+- [Police forces in England and Wales to get units that tackle violence against women](https://www.theguardian.com/society/2025/dec/13/police-forces-in-england-and-wales-to-get-units-that-tackle-violence-against-women)
+- [Mosquera’s last-gasp own goal hands Arsenal dramatic win against luckless Wolves](https://www.theguardian.com/football/2025/dec/13/arsenal-wolves-premier-league-match-report)
+- [LSO/Pappano review – Musgrave’s Phoenix rises and Vaughan Williams’ London stirs the soul](https://www.theguardian.com/music/2025/dec/13/lso-pappano-review-barbican-musgrave-walton-tamesit-vaughan-williams)
+- [Special delivery: how a Royal Mail postbox ended up in Antarctica](https://www.theguardian.com/world/2025/dec/13/royal-mail-postbox-antarctica-rothera-research-station)
+- [Drone strike on UN facility in war-torn Sudan leaves six peacekeepers dead](https://www.theguardian.com/world/2025/dec/13/drone-strike-on-un-facility-in-war-torn-sudan-leaves-six-peacekeepers-dead)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

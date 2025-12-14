@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [A Lisp Interpreter Implemented in Conway&#39;s Game of Life &lpar;2022&rpar;](https://woodrush.github.io/blog/posts/2022-01-12-lisp-in-life.html)
-- [Redis-rs and Redis-test 1.0.0](https://github.com/redis-rs/redis-rs/blob/main/version1.md)
-- [1300 Still Images from the Animated Films of Hayao Miyazaki&#39;s Studio Ghibli](https://www.ghibli.jp/info/013772/)
-- [Visualizing the 4th Dimension with WebGPU](https://dugas.ch/funderstanding/visualizing_the_4th_dimension.html)
-- [Visual Proof of Pythagoras&#39; Theorem [video]](https://www.youtube.com/watch?v=tTHhBE5lYTg)
-- [Roundup of Events for Bootstrappers in December 2025](https://bootstrappersbreakfast.com/2025/11/25/roundup-of-december-2025-bootstrapper-events/)
-- [How the Team Behind Valkey Knew It Was Time to Fork](https://thenewstack.io/how-the-team-behind-valkey-knew-it-was-time-to-fork/)
-- [Searching: Cybersecurity Classes](https://news.ycombinator.com/item?id=46251525)
-- [Man shocks doctors with 254/150 blood pressure, stroke from energy drinks](https://arstechnica.com/health/2025/12/man-shocks-doctors-with-extreme-blood-pressure-stroke-from-energy-drinks/)
-- [The unlikely photo that kickstarted the social web &lpar;2016&rpar;](https://www.bbc.com/future/article/20160224-the-unlikely-photo-that-kickstarted-the-social-internet)
+- [Modern SID chip substitutes [video]](https://www.youtube.com/watch?v=nooPmXxO6K0)
+- [Rocket Lab – &#39;Raise and Shine&#39; Launch for JAXA [video]](https://www.youtube.com/watch?v=cMP328yoUu4)
+- [Deal or No Deal Game](https://jgbrwn.neocities.org/games/dond)
+- [The state of enterprise AI – What we&#39;re learning about AI at work](https://openai.com/index/the-state-of-enterprise-ai-2025-report/)
+- [Operation Cowboy](https://en.wikipedia.org/wiki/Operation_Cowboy)
+- [Intel Nears $1.6B Deal for AI Chip Startup SambaNova](https://www.bloomberg.com/news/articles/2025-12-12/intel-nears-1-6-billion-deal-for-ai-chip-startup-sambanova)
+- [Four AI Systems Negotiate Binding Framework for Viral Content Management](https://github.com/aiconvergence-collab/multi-ai-viral-uncertainty-pact)
+- [Show HN: Scrape websites into queryable Gemini RAG knowledge bases](https://apify.com/yoloshii/gemini-file-search-builder)
+- [Larval stage support engineering: great at what doesn&#39;t scale](https://thundergolfer.com/startups/support/2025/12/13/support-eng-stage-1/)
+- [Online Piracy Can Boost Box Office Revenue, Study Suggests](https://torrentfreak.com/online-piracy-can-boost-box-office-revenue-study-suggests/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

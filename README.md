@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The Checkerboard](https://99percentinvisible.org/episode/650-the-checkerboard/)
-- [OpenAI are quietly adopting skills, now available in ChatGPT and Codex CLI](https://simonwillison.net/2025/Dec/12/openai-skills/)
-- [50 years of proof assistants](https://lawrencecpaulson.github.io//2025/12/05/History_of_Proof_Assistants.html)
-- [Show HN: Tiny VM sandbox in C with apps in Rust, C and Zig](https://github.com/ringtailsoftware/uvm32)
-- [Capsudo: Rethinking Sudo with Object Capabilities](https://ariadne.space/2025/12/12/rethinking-sudo-with-object-capabilities.html)
-- [GNU Unifont](https://unifoundry.com/unifont/index.html)
-- [macOS 26.2 enables fast AI clusters with RDMA over Thunderbolt](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
-- [Security issues with electronic invoices](https://invoice.secvuln.info/)
-- [Rats Play DOOM](https://ratsplaydoom.com/)
-- [Home Depot GitHub token exposed for a year, granted access to internal systems](https://techcrunch.com/2025/12/12/home-depot-exposed-access-to-internal-systems-for-a-year-says-researcher/)
+- [Free Software Awards Winners Announced: Andy Wingo, Alx Sa, Govdirectory](https://www.fsf.org/news/2024-free-software-awards-winners)
+- [Awesome-Jj: Jujutsu Things](https://github.com/Necior/awesome-jj)
+- [An Implementation of J](https://www.jsoftware.com/ioj/ioj.htm)
+- [Closures as Win32 Window Procedures](https://nullprogram.com/blog/2025/12/12/)
+- [Linux Sandboxes and Fil-C](https://fil-c.org/seccomp)
+- [First all-optical XPU processing system](https://www.akhetonics.com/)
+- [Flat-pack washing machine spins a fairer future](https://www.positive.news/society/flat-pack-washing-machine-spins-a-fairer-future/)
+- [Some surprising things about DuckDuckGo](https://gabrielweinberg.com/p/some-surprising-things-about-duckduckgo)
+- [Recovering Anthony Bourdain&#39;s &lpar;really&rpar; lost Li.st&#39;s](https://sandyuraz.com/blogs/bourdain/)
+- [Want to sway an election? Here’s how much fake online accounts cost](https://www.science.org/content/article/want-sway-election-here-s-how-much-fake-online-accounts-cost)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

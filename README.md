@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Free Software Awards Winners Announced: Andy Wingo, Alx Sa, Govdirectory](https://www.fsf.org/news/2024-free-software-awards-winners)
-- [Awesome-Jj: Jujutsu Things](https://github.com/Necior/awesome-jj)
-- [An Implementation of J](https://www.jsoftware.com/ioj/ioj.htm)
-- [Closures as Win32 Window Procedures](https://nullprogram.com/blog/2025/12/12/)
-- [Linux Sandboxes and Fil-C](https://fil-c.org/seccomp)
-- [First all-optical XPU processing system](https://www.akhetonics.com/)
-- [Flat-pack washing machine spins a fairer future](https://www.positive.news/society/flat-pack-washing-machine-spins-a-fairer-future/)
-- [Some surprising things about DuckDuckGo](https://gabrielweinberg.com/p/some-surprising-things-about-duckduckgo)
-- [Recovering Anthony Bourdain&#39;s &lpar;really&rpar; lost Li.st&#39;s](https://sandyuraz.com/blogs/bourdain/)
-- [Want to sway an election? Here’s how much fake online accounts cost](https://www.science.org/content/article/want-sway-election-here-s-how-much-fake-online-accounts-cost)
+- [SoundCloud just banned VPN access](https://old.reddit.com/r/SoundCloudMusic/comments/1pltd19/soundcloud_just_banned_vpn_access/)
+- [SPhotonix – 360TB into 5-inch glass disc with femtosecond laser](https://www.tomshardware.com/pc-components/storage/sphotonix-pushes-5d-glass-storage-toward-data-center-pilots)
+- [CapROS: The Capability-Based Reliable Operating System](https://www.capros.org/)
+- [Microsoft Copilot AI Comes to LG TVs, and Can&#39;t Be Deleted](https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted)
+- [Our emotional pain became a product](https://www.theguardian.com/us-news/ng-interactive/2025/dec/14/trauma-mental-health)
+- [Claude CLI deleted my home directory and wiped my Mac](https://old.reddit.com/r/ClaudeAI/comments/1pgxckk/claude_cli_deleted_my_entire_home_directory_wiped/)
+- [DARPA GO: Generative Optogenetics](https://www.darpa.mil/research/programs/go)
+- [History of Declarative Programming](https://shenlanguage.org/TBoS/tbos_15.html)
+- [Elevated errors across many models](https://status.claude.com/incidents/9g6qpr72ttbr)
+- [2002: Last.fm and Audioscrobbler Herald the Social Web](https://cybercultural.com/p/lastfm-audioscrobbler-2002/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

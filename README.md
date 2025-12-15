@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine war briefing: US envoy to meet Zelenskyy, Europe leaders in Berlin](https://www.theguardian.com/world/2025/dec/14/ukraine-war-briefing-us-envoy-to-meet-zelenskyy-europe-leaders-in-berlin)
-- [Brown University shooting: two dead and eight in critical condition as suspect remains at large – live updates](https://www.theguardian.com/us-news/live/2025/dec/13/brown-university-shooting-rhode-island-updates)
-- [Paul Lim, 71, becomes oldest player to win match at PDC World Championship](https://www.theguardian.com/sport/2025/dec/13/pdc-world-darts-championship-gary-anderson-luke-humphries)
-- [Sunderland hero Gary Rowell dies aged 68 on eve of derby with Newcastle](https://www.theguardian.com/football/2025/dec/13/sunderland-hero-gary-rowell-dies-aged-68-on-eve-of-derby-with-newcastle)
-- [European football: Raphinha sinks Osasuna to consolidate Barcelona’s lead](https://www.theguardian.com/football/2025/dec/13/european-roundup-atletico-madrid-valencia-la-liga-bundesliga-serie-a-ligue-1)
-- [Police forces in England and Wales to get units that tackle violence against women](https://www.theguardian.com/society/2025/dec/13/police-forces-in-england-and-wales-to-get-units-that-tackle-violence-against-women)
-- [Mosquera’s last-gasp own goal hands Arsenal dramatic win against luckless Wolves](https://www.theguardian.com/football/2025/dec/13/arsenal-wolves-premier-league-match-report)
-- [LSO/Pappano review – Musgrave’s Phoenix rises and Vaughan Williams’ London stirs the soul](https://www.theguardian.com/music/2025/dec/13/lso-pappano-review-barbican-musgrave-walton-tamesit-vaughan-williams)
-- [Special delivery: how a Royal Mail postbox ended up in Antarctica](https://www.theguardian.com/world/2025/dec/13/royal-mail-postbox-antarctica-rothera-research-station)
-- [Drone strike on UN facility in war-torn Sudan leaves six peacekeepers dead](https://www.theguardian.com/world/2025/dec/13/drone-strike-on-un-facility-in-war-torn-sudan-leaves-six-peacekeepers-dead)
+- [Bondi beach shooting live updates: PM says national cabinet to discuss tougher gun laws today; police find additional firearm and IED at crime scene](https://www.theguardian.com/australia-news/live/2025/dec/14/bondi-beach-shooting-live-updates-victims-terror-attack-jewish-festival-hanukah)
+- [Jimmy Lai verdict: Hong Kong court finds pro-democracy figure guilty of all charges – live](https://www.theguardian.com/world/live/2025/dec/15/jimmy-lai-verdict-hong-kong-court-national-security-charges-live)
+- [Bondi beach terror attack: father and son duo alleged to be behind shooting using licensed firearms](https://www.theguardian.com/australia-news/2025/dec/15/bondi-beach-terror-attack-father-son-duo-alleged-behind-shooting-licensed-firearms-ntwnfb)
+- [Former Prince Andrew is butt of the year’s best Christmas cracker joke](https://www.theguardian.com/uk-news/2025/dec/15/former-prince-andrew-is-butt-of-the-years-best-christmas-cracker-joke)
+- [UK Treasury drawing up new rules to police cryptocurrency markets](https://www.theguardian.com/technology/2025/dec/15/uk-treasury-drawing-up-new-rules-to-police-cryptocurrency-markets)
+- [‘The frontline is everywhere’: new MI6 head to warn of growing Russian threat](https://www.theguardian.com/uk-news/2025/dec/15/new-mi6-head-blaise-metreweli-speech-russia-threat)
+- [Average mortgage for UK first-time buyer hits record high of £210,800](https://www.theguardian.com/money/2025/dec/15/average-mortgage-for-uk-first-time-buyer-hits-record-high)
+- [Ultra-conservative José Antonio Kast elected Chile’s next president](https://www.theguardian.com/world/2025/dec/15/jose-antonio-kast-wins-election-chile-president)
+- [Title hopeful Bunting survives huge scare at PDC World Championship](https://www.theguardian.com/sport/2025/dec/14/title-hopeful-bunting-survives-huge-scare-at-pdc-world-championship)
+- [Trump says building DC triumphal arch is domestic policy chief’s ‘primary thing’](https://www.theguardian.com/us-news/2025/dec/14/trump-arch-washington-dc-policy-chief)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

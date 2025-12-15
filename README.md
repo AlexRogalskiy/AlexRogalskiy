@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Modern SID chip substitutes [video]](https://www.youtube.com/watch?v=nooPmXxO6K0)
-- [Rocket Lab – &#39;Raise and Shine&#39; Launch for JAXA [video]](https://www.youtube.com/watch?v=cMP328yoUu4)
-- [Deal or No Deal Game](https://jgbrwn.neocities.org/games/dond)
-- [The state of enterprise AI – What we&#39;re learning about AI at work](https://openai.com/index/the-state-of-enterprise-ai-2025-report/)
-- [Operation Cowboy](https://en.wikipedia.org/wiki/Operation_Cowboy)
-- [Intel Nears $1.6B Deal for AI Chip Startup SambaNova](https://www.bloomberg.com/news/articles/2025-12-12/intel-nears-1-6-billion-deal-for-ai-chip-startup-sambanova)
-- [Four AI Systems Negotiate Binding Framework for Viral Content Management](https://github.com/aiconvergence-collab/multi-ai-viral-uncertainty-pact)
-- [Show HN: Scrape websites into queryable Gemini RAG knowledge bases](https://apify.com/yoloshii/gemini-file-search-builder)
-- [Larval stage support engineering: great at what doesn&#39;t scale](https://thundergolfer.com/startups/support/2025/12/13/support-eng-stage-1/)
-- [Online Piracy Can Boost Box Office Revenue, Study Suggests](https://torrentfreak.com/online-piracy-can-boost-box-office-revenue-study-suggests/)
+- [What happens when the coding becomes the least interesting part of the work](https://obie.medium.com/what-happens-when-the-coding-becomes-the-least-interesting-part-of-the-work-ab10c213c660)
+- [My $10K MBA: What a Failed DJ Course Venture Taught Me](https://subscribe.robertxworld.com/p/my10kmba)
+- [Real-time volcanic forecasting using seismic ambient noise analysis &lpar;AGU 2025&rpar;](https://agu.confex.com/agu/agu25/meetingapp.cgi/Paper/1891387)
+- [Single-shot light-speed computing might replace GPUs](https://newatlas.com/computers/single-shot-tensor-optical-computing/)
+- [Try nano banana pro for free](https://applebanana.pro/)
+- [Click Generate for procedurally created artwork](https://artistic-nu.vercel.app/)
+- [John Varley, 1947-2025](http://floggingbabel.blogspot.com/2025/12/john-varley-1947-2025.html)
+- [OpenAI sued for allegedly enabling murder-suicide](https://www.aljazeera.com/economy/2025/12/11/openai-sued-for-allegedly-enabling-murder-suicide)
+- [Apples, Trees, and Quasimodes](https://systemstack.dev/2025/09/humane-computing/)
+- [Programming language speed comparison using Leibniz formula for π](https://niklas-heer.github.io/speed-comparison/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

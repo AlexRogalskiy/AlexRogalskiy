@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Bondi beach shooting live updates: PM says national cabinet to discuss tougher gun laws today; police find additional firearm and IED at crime scene](https://www.theguardian.com/australia-news/live/2025/dec/14/bondi-beach-shooting-live-updates-victims-terror-attack-jewish-festival-hanukah)
-- [Jimmy Lai verdict: Hong Kong court finds pro-democracy figure guilty of all charges – live](https://www.theguardian.com/world/live/2025/dec/15/jimmy-lai-verdict-hong-kong-court-national-security-charges-live)
-- [Bondi beach terror attack: father and son duo alleged to be behind shooting using licensed firearms](https://www.theguardian.com/australia-news/2025/dec/15/bondi-beach-terror-attack-father-son-duo-alleged-behind-shooting-licensed-firearms-ntwnfb)
-- [Former Prince Andrew is butt of the year’s best Christmas cracker joke](https://www.theguardian.com/uk-news/2025/dec/15/former-prince-andrew-is-butt-of-the-years-best-christmas-cracker-joke)
-- [UK Treasury drawing up new rules to police cryptocurrency markets](https://www.theguardian.com/technology/2025/dec/15/uk-treasury-drawing-up-new-rules-to-police-cryptocurrency-markets)
-- [‘The frontline is everywhere’: new MI6 head to warn of growing Russian threat](https://www.theguardian.com/uk-news/2025/dec/15/new-mi6-head-blaise-metreweli-speech-russia-threat)
-- [Average mortgage for UK first-time buyer hits record high of £210,800](https://www.theguardian.com/money/2025/dec/15/average-mortgage-for-uk-first-time-buyer-hits-record-high)
-- [Ultra-conservative José Antonio Kast elected Chile’s next president](https://www.theguardian.com/world/2025/dec/15/jose-antonio-kast-wins-election-chile-president)
-- [Title hopeful Bunting survives huge scare at PDC World Championship](https://www.theguardian.com/sport/2025/dec/14/title-hopeful-bunting-survives-huge-scare-at-pdc-world-championship)
-- [Trump says building DC triumphal arch is domestic policy chief’s ‘primary thing’](https://www.theguardian.com/us-news/2025/dec/14/trump-arch-washington-dc-policy-chief)
+- [Donald Trump sues BBC for up to $10bn over edit of January 6 speech](https://www.theguardian.com/us-news/2025/dec/15/trump-bbc-lawsuit)
+- [Trump urges Xi Jinping to free HK pro-democracy media tycoon Jimmy Lai](https://www.theguardian.com/world/2025/dec/16/trump-urges-xi-jinping-to-free-hk-pro-democracy-media-tycoon-jimmy-lai)
+- [Usman Khawaja left out of Australia’s XI for third Ashes Test in Adelaide](https://www.theguardian.com/sport/2025/dec/16/usman-khawaja-out-australia-xi-third-ashes-test-adelaide)
+- [Washington state orders immediate evacuations in three Seattle suburbs](https://www.theguardian.com/us-news/2025/dec/15/washington-state-immediate-evacuation-seattle-suburbs)
+- [Bump: A Christmas Film review – the most masochistic holiday ever?](https://www.theguardian.com/tv-and-radio/2025/dec/16/bump-a-christmas-film-review-bbc-one-iplayer)
+- [Alan Milburn launches major UK review into rising inactivity among young people](https://www.theguardian.com/society/2025/dec/16/alan-milburn-launches-major-uk-review-into-rising-inactivity-among-young-people)
+- [Nissan begins production of new electric car in Sunderland](https://www.theguardian.com/business/2025/dec/16/nissan-begins-production-of-new-electric-car-in-sunderland)
+- [Paranormal Activity review – this fright night leaves you spellbound and spooked](https://www.theguardian.com/stage/2025/dec/16/paranormal-activity-review-ambassadors-theatre-london)
+- [Dentists in England to be paid more for emergency NHS appointments](https://www.theguardian.com/society/2025/dec/16/dentists-in-england-to-be-paid-more-for-emergency-nhs-appointments)
+- [Thousands of speeding fines could be cancelled after ‘technical issue’](https://www.theguardian.com/money/2025/dec/15/thousands-of-speeding-fines-could-be-cancelled-after-technical-issue)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

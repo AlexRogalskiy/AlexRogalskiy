@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [What happens when the coding becomes the least interesting part of the work](https://obie.medium.com/what-happens-when-the-coding-becomes-the-least-interesting-part-of-the-work-ab10c213c660)
-- [My $10K MBA: What a Failed DJ Course Venture Taught Me](https://subscribe.robertxworld.com/p/my10kmba)
-- [Real-time volcanic forecasting using seismic ambient noise analysis &lpar;AGU 2025&rpar;](https://agu.confex.com/agu/agu25/meetingapp.cgi/Paper/1891387)
-- [Single-shot light-speed computing might replace GPUs](https://newatlas.com/computers/single-shot-tensor-optical-computing/)
-- [Try nano banana pro for free](https://applebanana.pro/)
-- [Click Generate for procedurally created artwork](https://artistic-nu.vercel.app/)
-- [John Varley, 1947-2025](http://floggingbabel.blogspot.com/2025/12/john-varley-1947-2025.html)
-- [OpenAI sued for allegedly enabling murder-suicide](https://www.aljazeera.com/economy/2025/12/11/openai-sued-for-allegedly-enabling-murder-suicide)
-- [Apples, Trees, and Quasimodes](https://systemstack.dev/2025/09/humane-computing/)
-- [Programming language speed comparison using Leibniz formula for π](https://niklas-heer.github.io/speed-comparison/)
+- [Opus 1.6 Released](https://opus-codec.org/demo/opus-1.6/)
+- [Show HN: EdgeVec v0.4.0 – Sub-millisecond vector search in WASM &lpar;Rust&rpar;](https://github.com/matte1782/edgevec)
+- [Distributed and Compositional Learning Data-structure: C#-NATS example](https://nats-io.github.io/nats.net/documentation/object-store/intro.html)
+- [Tested: Budget 5K Monitor for macOS](https://www.theverge.com/gadgets/842650/5k-monitor-ktc-h27p3-mac-os-review)
+- [A story of compio: an async runtime for Rust built with completion-based IO](https://compio.rs/docs/preface)
+- [8M Users&#39; AI Conversations Sold for Profit by &quot;Privacy&quot; Extensions](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)
+- [CoreWeave&#39;s Staggering Fall from Market Grace Highlights AI Bubble Fears](https://www.wsj.com/tech/ai/coreweave-stock-market-ai-bubble-a3c8c321)
+- [MultiCell: Geometric Learning in Multicellular Development](https://www.nature.com/articles/s41592-025-02983-x)
+- [The Martingale betting system: the history and the fallacy &lpar;2023&rpar;](https://unabated.com/articles/martingale-system-fallacy)
+- [Anthropic SDK integration for Microsoft/teams.ai](https://www.npmjs.com/package/@youdotcom-oss/teams-anthropic)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

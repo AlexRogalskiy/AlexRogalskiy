@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Opus 1.6 Released](https://opus-codec.org/demo/opus-1.6/)
-- [Show HN: EdgeVec v0.4.0 – Sub-millisecond vector search in WASM &lpar;Rust&rpar;](https://github.com/matte1782/edgevec)
-- [Distributed and Compositional Learning Data-structure: C#-NATS example](https://nats-io.github.io/nats.net/documentation/object-store/intro.html)
-- [Tested: Budget 5K Monitor for macOS](https://www.theverge.com/gadgets/842650/5k-monitor-ktc-h27p3-mac-os-review)
-- [A story of compio: an async runtime for Rust built with completion-based IO](https://compio.rs/docs/preface)
-- [8M Users&#39; AI Conversations Sold for Profit by &quot;Privacy&quot; Extensions](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)
-- [CoreWeave&#39;s Staggering Fall from Market Grace Highlights AI Bubble Fears](https://www.wsj.com/tech/ai/coreweave-stock-market-ai-bubble-a3c8c321)
-- [MultiCell: Geometric Learning in Multicellular Development](https://www.nature.com/articles/s41592-025-02983-x)
-- [The Martingale betting system: the history and the fallacy &lpar;2023&rpar;](https://unabated.com/articles/martingale-system-fallacy)
-- [Anthropic SDK integration for Microsoft/teams.ai](https://www.npmjs.com/package/@youdotcom-oss/teams-anthropic)
+- [Chainguard EmeritOSS: Sustainable stewardship for mature open source](https://www.chainguard.dev/unchained/introducing-chainguard-emeritoss)
+- [Why many Asian megacities are miserable places](https://www.economist.com/asia/2025/12/11/why-many-asian-megacities-are-miserable-places)
+- [Dlang Interfacing with C++](https://dlang.org/spec/cpp_interface.html)
+- [Why Does AI Have to Be Held to a Higher Bar Than Humans &lpar;and Why It Matters&rpar;?](https://medium.com/@srinathperera/why-does-ai-have-to-be-held-to-a-higher-bar-than-humans-and-why-it-matters-1f5eb8c4b68b)
+- [Tattoo Numbing Cream Improves Comfort During Long Tattoo Sessions](https://news.ycombinator.com/item?id=46297732)
+- [Tesla Robotaxis in Austin Crash 12.5x More Frequently Than Humans](https://electrek.co/2025/12/15/tesla-reports-another-robotaxi-crash-even-with-supervisor/)
+- [MIT nuclear scientist killed at home](https://apnews.com/article/mit-professor-shooting-massachusetts-portugal-3ab1e3e7e369de5cef90c7c911995dbb)
+- [Are tired of slow interpreted POSIX shells?](https://news.ycombinator.com/item?id=46297695)
+- [MiMo-V2-Flash](https://mimo.xiaomi.com/blog/mimo-v2-flash)
+- [A New Shell](https://news.ycombinator.com/item?id=46297686)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

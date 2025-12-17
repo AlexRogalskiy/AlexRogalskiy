@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Donald Trump sues BBC for up to $10bn over edit of January 6 speech](https://www.theguardian.com/us-news/2025/dec/15/trump-bbc-lawsuit)
-- [Trump urges Xi Jinping to free HK pro-democracy media tycoon Jimmy Lai](https://www.theguardian.com/world/2025/dec/16/trump-urges-xi-jinping-to-free-hk-pro-democracy-media-tycoon-jimmy-lai)
-- [Usman Khawaja left out of Australia’s XI for third Ashes Test in Adelaide](https://www.theguardian.com/sport/2025/dec/16/usman-khawaja-out-australia-xi-third-ashes-test-adelaide)
-- [Washington state orders immediate evacuations in three Seattle suburbs](https://www.theguardian.com/us-news/2025/dec/15/washington-state-immediate-evacuation-seattle-suburbs)
-- [Bump: A Christmas Film review – the most masochistic holiday ever?](https://www.theguardian.com/tv-and-radio/2025/dec/16/bump-a-christmas-film-review-bbc-one-iplayer)
-- [Alan Milburn launches major UK review into rising inactivity among young people](https://www.theguardian.com/society/2025/dec/16/alan-milburn-launches-major-uk-review-into-rising-inactivity-among-young-people)
-- [Nissan begins production of new electric car in Sunderland](https://www.theguardian.com/business/2025/dec/16/nissan-begins-production-of-new-electric-car-in-sunderland)
-- [Paranormal Activity review – this fright night leaves you spellbound and spooked](https://www.theguardian.com/stage/2025/dec/16/paranormal-activity-review-ambassadors-theatre-london)
-- [Dentists in England to be paid more for emergency NHS appointments](https://www.theguardian.com/society/2025/dec/16/dentists-in-england-to-be-paid-more-for-emergency-nhs-appointments)
-- [Thousands of speeding fines could be cancelled after ‘technical issue’](https://www.theguardian.com/money/2025/dec/15/thousands-of-speeding-fines-could-be-cancelled-after-technical-issue)
+- [Australia v England: Ashes third Test, day one – live](https://www.theguardian.com/sport/live/2025/dec/17/australia-vs-england-live-ashes-third-3rd-test-day-one-aus-v-eng-cricket-scores-updates-adelaide-oval)
+- [Trump orders blockade of sanctioned oil tankers entering and leaving Venezuela](https://www.theguardian.com/us-news/2025/dec/16/trump-orders-blockade-oil-tankers-venezuela)
+- [Rob Reiner’s son Nick charged with murder of parents](https://www.theguardian.com/film/2025/dec/16/rob-reiner-son-nick-reiner-charged)
+- [Virginia Roberts Giuffre: Epstein accuser’s memoir sells 1m copies in two months](https://www.theguardian.com/books/2025/dec/17/virginia-roberts-giuffre-epstein-accusers-memoir-sells-1-million-copies-in-two-months)
+- [A visual guide to the historical maps and temples at the heart of the Thailand-Cambodia conflict](https://www.theguardian.com/world/2025/dec/17/a-visual-guide-to-the-historical-maps-and-temples-at-the-heart-of-the-thailand-cambodia-conflict)
+- [The rural towns fighting for survival as New Zealand grapples with a growing exodus](https://www.theguardian.com/world/2025/dec/17/the-rural-towns-fighting-for-survival-as-new-zealand-grapples-with-a-growing-exodus)
+- [Ukraine war briefing: Peacekeepers could repel Russian forces under ceasefire plan, says Merz](https://www.theguardian.com/world/2025/dec/17/ukraine-war-briefing-peacekeepers-could-repel-russian-forces-under-ceasefire-plan-says-merz)
+- [Marshall Islands launches universal basic income scheme offering cryptocurrency - in world first](https://www.theguardian.com/world/2025/dec/17/marshall-islands-launches-universal-basic-income-scheme-offering-cryptocurrency-in-world-first)
+- [Wes Streeting and resident doctors urged to agree to mediation to end strikes](https://www.theguardian.com/society/2025/dec/16/wes-streeting-and-resident-doctors-urged-to-agree-to-mediation-to-end-strikes)
+- [Government invests £120m to save UK’s last ethylene plant](https://www.theguardian.com/uk-news/2025/dec/17/government-invests-120m-to-save-uks-last-ethylene-plant)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

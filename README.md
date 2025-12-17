@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Rollstack &lpar;YC W23&rpar; is hiring multiple software engineers &lpar;TypeScript&rpar; US/Canada](https://www.ycombinator.com/companies/rollstack-2/jobs/QPqpb1n-software-engineer-typescript-us-canada)
-- [SoundCloud confirms breach after member data stolen, VPN access disrupted](https://www.bleepingcomputer.com/news/security/soundcloud-confirms-breach-after-member-data-stolen-vpn-access-disrupted/)
-- [Show HN: PasteClean – Desktop app to strip tracking parameters from clipboard](https://iixotic.github.io/PasteClean/website/)
-- [Ideas aren&#39;t getting harder to find](https://asteriskmag.com/issues/12-books/ideas-arent-getting-harder-to-find)
-- [Quill OS is an open-source, fully-functional standalone OS for Kobo&#39;s eReaders](https://quill-os.org/)
-- [The Bob Dylan concert for just one person](https://www.flaggingdown.com/p/the-bob-dylan-concert-for-just-one)
-- [Native vs. emulation: World of Warcraft game performance on Snapdragon X Elite](https://rkblog.dev/posts/pc-hardware/pc-on-arm/x86_versus_arm_native_game/)
-- [JetBlue flight averts mid-air collision with US Air Force jet](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
-- [Ford kills the All-Electric F-150](https://www.wired.com/story/ford-kills-electric-f-150-lightning-for-hybrid/)
-- [Fix HDMI-CEC weirdness with a Raspberry Pi and a $7 cable](https://johnlian.net/posts/hdmi-cec/)
+- [Why many Asian megacities are miserable places](https://www.economist.com/asia/2025/12/11/why-many-asian-megacities-are-miserable-places)
+- [Locked out: How a gift card purchase destroyed an Apple account](https://appleinsider.com/articles/25/12/13/locked-out-how-a-gift-card-purchase-destroyed-an-apple-account)
+- [CS 4973: Introduction to Software Development Tooling – Northeastern Univ &lpar;2024&rpar;](https://bernsteinbear.com/isdt/)
+- [Sei AI &lpar;YC W22&rpar; Is Hiring](https://www.ycombinator.com/companies/sei/jobs/TYbKqi0-llm-engineer-mid-senior)
+- [Show HN: Learn Japanese contextually while browsing](https://lingoku.ai/learn-japanese)
+- [More than 100 rally against data centers at Michigan Capitol](https://www.lansingstatejournal.com/story/news/local/2025/12/16/lansing-state-capitol-data-centers-rally-michigan/87792001007/)
+- [Dafny: Verification-Aware Programming Language](https://dafny.org/)
+- [I ported JustHTML from Python to JavaScript with Codex CLI and GPT-5.2 in hours](https://simonwillison.net/2025/Dec/15/porting-justhtml/)
+- [No AI* Here – A Response to Mozilla&#39;s Next Chapter](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
+- [MIT professor shot at his Massachusetts home dies](https://www.bbc.com/news/articles/cly08y25688o)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Chainguard EmeritOSS: Sustainable stewardship for mature open source](https://www.chainguard.dev/unchained/introducing-chainguard-emeritoss)
-- [Why many Asian megacities are miserable places](https://www.economist.com/asia/2025/12/11/why-many-asian-megacities-are-miserable-places)
-- [Dlang Interfacing with C++](https://dlang.org/spec/cpp_interface.html)
-- [Why Does AI Have to Be Held to a Higher Bar Than Humans &lpar;and Why It Matters&rpar;?](https://medium.com/@srinathperera/why-does-ai-have-to-be-held-to-a-higher-bar-than-humans-and-why-it-matters-1f5eb8c4b68b)
-- [Tattoo Numbing Cream Improves Comfort During Long Tattoo Sessions](https://news.ycombinator.com/item?id=46297732)
-- [Tesla Robotaxis in Austin Crash 12.5x More Frequently Than Humans](https://electrek.co/2025/12/15/tesla-reports-another-robotaxi-crash-even-with-supervisor/)
-- [MIT nuclear scientist killed at home](https://apnews.com/article/mit-professor-shooting-massachusetts-portugal-3ab1e3e7e369de5cef90c7c911995dbb)
-- [Are tired of slow interpreted POSIX shells?](https://news.ycombinator.com/item?id=46297695)
-- [MiMo-V2-Flash](https://mimo.xiaomi.com/blog/mimo-v2-flash)
-- [A New Shell](https://news.ycombinator.com/item?id=46297686)
+- [Show HN: SourceMinder, a Context Aware Code Search for Solo Devs and Claude Code](https://ebcode.com/blog/2025/12/17/sourceminder/)
+- [Modular: The Startup Taking Direct Aim at Nvidia CUDA&#39;s AI Iron Grip](https://www.businessinsider.com/nvidia-ai-chip-gpu-grip-modular-chris-lattner-google-2025-12)
+- [Show HN: Exploring Mathematics with Python](https://coe.psu.ac.th/ad/explore/)
+- [All That Cheap Chinese Stuff Is Now Europe&#39;s Problem](https://www.wsj.com/business/retail/cheap-chinese-exports-europe-9cae85f6)
+- [Show HN: Pixlio – Browser-based AI image editing tools](https://pixlio.net)
+- [The Oscars, Hollywood&#39;s biggest night, are coming to YouTube](https://blog.youtube/news-and-events/hollywoods-biggest-night-is-coming-to-youtube/)
+- [Docker Hardened Images](https://www.docker.com/products/hardened-images/)
+- [A Change to YouTube&#39;s Inclusion on the U.S. Billboard Charts](https://blog.youtube/news-and-events/youtube-billboard-chart-update/)
+- [Christmas Dinner with Family: Elegant Outfit Ideas for Women over 50](https://fashionablyfifty.substack.com/p/10-christmas-dinner-with-family-elegant)
+- [Meaningful Motion Creates Progress](https://substack.com/@himanshusinghbisht/note/p-181913616)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

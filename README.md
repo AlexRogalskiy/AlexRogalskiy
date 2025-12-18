@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Why many Asian megacities are miserable places](https://www.economist.com/asia/2025/12/11/why-many-asian-megacities-are-miserable-places)
-- [Locked out: How a gift card purchase destroyed an Apple account](https://appleinsider.com/articles/25/12/13/locked-out-how-a-gift-card-purchase-destroyed-an-apple-account)
-- [CS 4973: Introduction to Software Development Tooling – Northeastern Univ &lpar;2024&rpar;](https://bernsteinbear.com/isdt/)
-- [Sei AI &lpar;YC W22&rpar; Is Hiring](https://www.ycombinator.com/companies/sei/jobs/TYbKqi0-llm-engineer-mid-senior)
-- [Show HN: Learn Japanese contextually while browsing](https://lingoku.ai/learn-japanese)
-- [More than 100 rally against data centers at Michigan Capitol](https://www.lansingstatejournal.com/story/news/local/2025/12/16/lansing-state-capitol-data-centers-rally-michigan/87792001007/)
-- [Dafny: Verification-Aware Programming Language](https://dafny.org/)
-- [I ported JustHTML from Python to JavaScript with Codex CLI and GPT-5.2 in hours](https://simonwillison.net/2025/Dec/15/porting-justhtml/)
-- [No AI* Here – A Response to Mozilla&#39;s Next Chapter](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
-- [MIT professor shot at his Massachusetts home dies](https://www.bbc.com/news/articles/cly08y25688o)
+- [TikTok unlawfully tracks shopping habits and use of dating apps?](https://noyb.eu/en/tiktok-unlawfully-tracks-your-shopping-habits-and-your-use-dating-apps)
+- [Explaining the Widening Divides in US Midlife Mortality: Is There a Smoking Gun?](https://www.nber.org/papers/w34553)
+- [Gut bacteria from amphibians and reptiles achieve tumor elimination in mice](https://www.jaist.ac.jp/english/whatsnew/press/2025/12/17-1.html)
+- [Developers can now submit apps to ChatGPT](https://openai.com/index/developers-can-now-submit-apps-to-chatgpt/)
+- [A look back: LANPAR, the first spreadsheet](https://technicallywewrite.com/2025/12/16/lanpar)
+- [Cloudflare Radar 2025 Year in Review](https://radar.cloudflare.com/year-in-review/2025)
+- [I got hacked: My Hetzner server started mining Monero](https://blog.jakesaunders.dev/my-server-started-mining-monero-this-morning/)
+- [OBS Studio Gets a New Renderer](https://obsproject.com/blog/obs-studio-gets-a-new-renderer)
+- [Inside PostHog: SSRF, ClickHouse SQL Escape and Default Postgres Creds to RCE](https://mdisec.com/inside-posthog-how-ssrf-a-clickhouse-sql-escaping-0day-and-default-postgresql-credentials-formed-an-rce-chain-zdi-25-099-zdi-25-097-zdi-25-096/)
+- [Pornhub extorted after hackers steal Premium member activity data](https://www.bleepingcomputer.com/news/security/pornhub-extorted-after-hackers-steal-premium-member-activity-data/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

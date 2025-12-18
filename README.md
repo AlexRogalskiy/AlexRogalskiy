@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Australia v England: Ashes third Test, day one – live](https://www.theguardian.com/sport/live/2025/dec/17/australia-vs-england-live-ashes-third-3rd-test-day-one-aus-v-eng-cricket-scores-updates-adelaide-oval)
-- [Trump orders blockade of sanctioned oil tankers entering and leaving Venezuela](https://www.theguardian.com/us-news/2025/dec/16/trump-orders-blockade-oil-tankers-venezuela)
-- [Rob Reiner’s son Nick charged with murder of parents](https://www.theguardian.com/film/2025/dec/16/rob-reiner-son-nick-reiner-charged)
-- [Virginia Roberts Giuffre: Epstein accuser’s memoir sells 1m copies in two months](https://www.theguardian.com/books/2025/dec/17/virginia-roberts-giuffre-epstein-accusers-memoir-sells-1-million-copies-in-two-months)
-- [A visual guide to the historical maps and temples at the heart of the Thailand-Cambodia conflict](https://www.theguardian.com/world/2025/dec/17/a-visual-guide-to-the-historical-maps-and-temples-at-the-heart-of-the-thailand-cambodia-conflict)
-- [The rural towns fighting for survival as New Zealand grapples with a growing exodus](https://www.theguardian.com/world/2025/dec/17/the-rural-towns-fighting-for-survival-as-new-zealand-grapples-with-a-growing-exodus)
-- [Ukraine war briefing: Peacekeepers could repel Russian forces under ceasefire plan, says Merz](https://www.theguardian.com/world/2025/dec/17/ukraine-war-briefing-peacekeepers-could-repel-russian-forces-under-ceasefire-plan-says-merz)
-- [Marshall Islands launches universal basic income scheme offering cryptocurrency - in world first](https://www.theguardian.com/world/2025/dec/17/marshall-islands-launches-universal-basic-income-scheme-offering-cryptocurrency-in-world-first)
-- [Wes Streeting and resident doctors urged to agree to mediation to end strikes](https://www.theguardian.com/society/2025/dec/16/wes-streeting-and-resident-doctors-urged-to-agree-to-mediation-to-end-strikes)
-- [Government invests £120m to save UK’s last ethylene plant](https://www.theguardian.com/uk-news/2025/dec/17/government-invests-120m-to-save-uks-last-ethylene-plant)
+- [Australia v England: Ashes third Test, day two – live](https://www.theguardian.com/sport/live/2025/dec/18/australia-vs-england-live-ashes-third-3rd-test-day-two-aus-v-eng-cricket-scores-updates-adelaide-oval)
+- [Trump news at a glance: Dan Bongino ‘wants to go back to his show’ says president, as deputy FBI director resigns](https://www.theguardian.com/us-news/2025/dec/18/trump-administration-latest-news-updates)
+- [China to hike tax on condoms in attempt to boost falling birth rate](https://www.theguardian.com/world/2025/dec/18/china-to-raise-tax-condoms-boost-birth-rate)
+- [Syrian home town of Ahmed al-Ahmed rallies around the Bondi hero, amid the rubble of civil war](https://www.theguardian.com/australia-news/2025/dec/18/bondi-hero-ahmed-al-syria-home-town-nayrab-tributes)
+- [Met Office: 2026 will bring heat more than 1.4C above preindustrial levels](https://www.theguardian.com/environment/2025/dec/18/met-office-2026-will-bring-heat-more-than-14c-above-preindustrial-levels)
+- [BP names Meg O’Neill as new chief executive as incumbent steps down](https://www.theguardian.com/business/2025/dec/17/bp-names-meg-oneill-as-new-chief-executive)
+- [My petty gripe: office parties feel like work because that’s what they are](https://www.theguardian.com/lifeandstyle/2025/dec/18/my-petty-gripe-office-parties-feel-like-work-because-thats-what-they-are)
+- [Raymond van Barneveld sunk by Swiss star Stefan Bellmont at PDC worlds](https://www.theguardian.com/sport/2025/dec/17/raymond-van-barneveld-stunned-by-stefan-bellmont-at-pdc-world-darts-championship)
+- [Two arrested on suspicion of shouting slogans calling for ‘intifada’ at protest](https://www.theguardian.com/uk-news/2025/dec/17/met-police-gmp-crackdown-intifada-chants-pro-palestine-protests)
+- [Palestine Action-linked hunger striker Qesser Zuhrah taken to hospital](https://www.theguardian.com/uk-news/2025/dec/17/palestine-action-linked-hunger-striker-qesser-zuhrah-taken-to-hospital)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

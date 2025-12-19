@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Australia v England: Ashes third Test, day two – live](https://www.theguardian.com/sport/live/2025/dec/18/australia-vs-england-live-ashes-third-3rd-test-day-two-aus-v-eng-cricket-scores-updates-adelaide-oval)
-- [Trump news at a glance: Dan Bongino ‘wants to go back to his show’ says president, as deputy FBI director resigns](https://www.theguardian.com/us-news/2025/dec/18/trump-administration-latest-news-updates)
-- [China to hike tax on condoms in attempt to boost falling birth rate](https://www.theguardian.com/world/2025/dec/18/china-to-raise-tax-condoms-boost-birth-rate)
-- [Syrian home town of Ahmed al-Ahmed rallies around the Bondi hero, amid the rubble of civil war](https://www.theguardian.com/australia-news/2025/dec/18/bondi-hero-ahmed-al-syria-home-town-nayrab-tributes)
-- [Met Office: 2026 will bring heat more than 1.4C above preindustrial levels](https://www.theguardian.com/environment/2025/dec/18/met-office-2026-will-bring-heat-more-than-14c-above-preindustrial-levels)
-- [BP names Meg O’Neill as new chief executive as incumbent steps down](https://www.theguardian.com/business/2025/dec/17/bp-names-meg-oneill-as-new-chief-executive)
-- [My petty gripe: office parties feel like work because that’s what they are](https://www.theguardian.com/lifeandstyle/2025/dec/18/my-petty-gripe-office-parties-feel-like-work-because-thats-what-they-are)
-- [Raymond van Barneveld sunk by Swiss star Stefan Bellmont at PDC worlds](https://www.theguardian.com/sport/2025/dec/17/raymond-van-barneveld-stunned-by-stefan-bellmont-at-pdc-world-darts-championship)
-- [Two arrested on suspicion of shouting slogans calling for ‘intifada’ at protest](https://www.theguardian.com/uk-news/2025/dec/17/met-police-gmp-crackdown-intifada-chants-pro-palestine-protests)
-- [Palestine Action-linked hunger striker Qesser Zuhrah taken to hospital](https://www.theguardian.com/uk-news/2025/dec/17/palestine-action-linked-hunger-striker-qesser-zuhrah-taken-to-hospital)
+- [Australia v England: Ashes third Test, day three – live](https://www.theguardian.com/sport/live/2025/dec/19/australia-vs-england-live-ashes-third-3rd-test-day-three-aus-v-eng-cricket-scores-updates-adelaide-oval)
+- [Ukraine deal: EU leaders agree €90bn loan, but without use of frozen Russian assets](https://www.theguardian.com/world/2025/dec/19/ukraine-deal-latest-europe-leaders-loan-zelenskyy)
+- [Suspect in Brown University shooting found dead inside storage facility](https://www.theguardian.com/us-news/2025/dec/18/suspect-brown-university-shooting)
+- [Australia launches biggest gun buyback in 30 years after Bondi beach terror attack](https://www.theguardian.com/australia-news/2025/dec/19/australia-gun-buy-back-bondi-beach-terror-attack-anthony-albanese)
+- [Dashed dreams and land grabs: The rise of rural protests in China](https://www.theguardian.com/world/2025/dec/19/workers-rural-protests-china-land-grabs)
+- [Oh, Mary! review – US history lewdly revised as American Pie-grade comedy](https://www.theguardian.com/stage/2025/dec/19/oh-mary-review-mason-alexander-park-giles-terera-trafalgar-theatre-london)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2025/dec/19/premier-league-10-things-to-look-out-for-this-weekend)
+- [Democrats release new Epstein photos ahead of DoJ transparency deadline](https://www.theguardian.com/us-news/2025/dec/18/jeffrey-epstein-estate-files-photos)
+- [Kennedy Center board votes to add Trump’s name to DC arts institution](https://www.theguardian.com/us-news/2025/dec/18/trump-kennedy-center-renaming)
+- [Crystal Palace in Conference playoffs after blowing lead against KuPS](https://www.theguardian.com/football/2025/dec/18/crystal-palace-kups-conference-league-match-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

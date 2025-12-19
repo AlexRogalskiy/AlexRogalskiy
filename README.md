@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: SourceMinder, a Context Aware Code Search for Solo Devs and Claude Code](https://ebcode.com/blog/2025/12/17/sourceminder/)
-- [Modular: The Startup Taking Direct Aim at Nvidia CUDA&#39;s AI Iron Grip](https://www.businessinsider.com/nvidia-ai-chip-gpu-grip-modular-chris-lattner-google-2025-12)
-- [Show HN: Exploring Mathematics with Python](https://coe.psu.ac.th/ad/explore/)
-- [All That Cheap Chinese Stuff Is Now Europe&#39;s Problem](https://www.wsj.com/business/retail/cheap-chinese-exports-europe-9cae85f6)
-- [Show HN: Pixlio – Browser-based AI image editing tools](https://pixlio.net)
-- [The Oscars, Hollywood&#39;s biggest night, are coming to YouTube](https://blog.youtube/news-and-events/hollywoods-biggest-night-is-coming-to-youtube/)
-- [Docker Hardened Images](https://www.docker.com/products/hardened-images/)
-- [A Change to YouTube&#39;s Inclusion on the U.S. Billboard Charts](https://blog.youtube/news-and-events/youtube-billboard-chart-update/)
-- [Christmas Dinner with Family: Elegant Outfit Ideas for Women over 50](https://fashionablyfifty.substack.com/p/10-christmas-dinner-with-family-elegant)
-- [Meaningful Motion Creates Progress](https://substack.com/@himanshusinghbisht/note/p-181913616)
+- [Elon Musk&#39;s SpaceX Valued at $800B, as It Prepares to Go Public](https://www.nytimes.com/2025/12/12/technology/elon-musk-spacex-ipo.html)
+- [Nearly 500 small businesses seek assistance in dispute with digital platforms](https://www.abc.net.au/news/2025-12-19/meta-suspends-small-business-socials-account/106153840)
+- [Show HN: WebCraft: A C++ 23 async IO library](https://news.ycombinator.com/item?id=46321866)
+- [Show HN: LazyPromise = Observable – Signals](https://github.com/lazy-promise/lazy-promise)
+- [Nobody Reads Your Logs](https://nobodyreadsyourlogs.com/)
+- [Show HN: SkyLifeguard, tiny UE5 plugin for assertive programming](https://github.com/jign/SkyLifeguard)
+- [What trading will look like in 2030](https://blog.everstrike.io/what-trading-will-look-like-in-2030/)
+- [TikTok signs deal to give U.S. operations to Oracle-led investor group](https://www.npr.org/2025/12/18/nx-s1-5648844/tiktok-deal-oracle-trump)
+- [What Is the Future Technology of Solar Panels in Australia?](https://cyanergy.com.au/blog/what-is-the-future-technology-of-solar-panels-in-australia/)
+- [PyOxy: A single file Python distribution written in Rust](https://pyoxidizer.readthedocs.io/en/stable/pyoxy.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

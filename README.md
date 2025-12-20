@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Noclip.website – A digital museum of video game levels](https://noclip.website/)
-- [Great ideas in theoretical computer science](https://www.cs251.com/)
-- [Trained LLMs exclusively on pre-1913 texts](https://github.com/DGoettlich/history-llms)
-- [1.5 TB of VRAM on Mac Studio – RDMA over Thunderbolt 5](https://www.jeffgeerling.com/blog/2025/15-tb-vram-on-mac-studio-rdma-over-thunderbolt-5)
-- [AI vending machine was tricked into giving away everything](https://kottke.org/25/12/this-ai-vending-machine-was-tricked-into-giving-away-everything)
-- [Delty &lpar;YC X25&rpar; Is Hiring an ML Engineer](https://www.ycombinator.com/companies/delty/jobs/MDeC49o-machine-learning-engineer)
-- [T5Gemma 2: The next generation of encoder-decoder models](https://blog.google/technology/developers/t5gemma-2/)
-- [How to hack Discord, Vercel and more with one easy trick](https://kibty.town/blog/mintlify/)
-- [The Scottish Highlands, the Appalachians, Atlas are the same mountain range](https://vividmaps.com/central-pangean-mountains/)
-- [We pwned X, Vercel, Cursor, and Discord through a supply-chain attack](https://gist.github.com/hackermondev/5e2cdc32849405fff6b46957747a2d28)
+- [PBS News Hour West to go dark after ASU discontinues contract](https://www.statepress.com/article/2025/12/politics-pbs-newshour-west-closure)
+- [We ran Anthropic’s interviews through structured LLM analysis](https://www.playbookatlas.com/research/ai-adoption-explorer)
+- [CSS Grid Lanes](https://webkit.org/blog/17660/introducing-css-grid-lanes/)
+- [Buteyko Method](https://en.wikipedia.org/wiki/Buteyko_method)
+- [A Better Zip Bomb](https://www.bamsoftware.com/hacks/zipbomb/)
+- [LLM Year in Review](https://karpathy.bearblog.dev/year-in-review-2025/)
+- [The scariest boot loader code](http://miod.online.fr/software/openbsd/stories/boot_hppa.html)
+- [TP-Link Tapo C200: Hardcoded Keys, Buffer Overflows and Privacy](https://www.evilsocket.net/2025/12/18/TP-Link-Tapo-C200-Hardcoded-Keys-Buffer-Overflows-and-Privacy-in-the-Era-of-AI-Assisted-Reverse-Engineering/)
+- [Reverse Engineering US Airline&#39;s PNR System and Accessing All Reservations](https://alexschapiro.com/security/vulnerability/2025/11/20/avelo-airline-reservation-api-vulnerability)
+- [Performance Hints &lpar;2023&rpar;](https://abseil.io/fast/hints.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Australia v England: Ashes third Test, day three – live](https://www.theguardian.com/sport/live/2025/dec/19/australia-vs-england-live-ashes-third-3rd-test-day-three-aus-v-eng-cricket-scores-updates-adelaide-oval)
-- [Ukraine deal: EU leaders agree €90bn loan, but without use of frozen Russian assets](https://www.theguardian.com/world/2025/dec/19/ukraine-deal-latest-europe-leaders-loan-zelenskyy)
-- [Suspect in Brown University shooting found dead inside storage facility](https://www.theguardian.com/us-news/2025/dec/18/suspect-brown-university-shooting)
-- [Australia launches biggest gun buyback in 30 years after Bondi beach terror attack](https://www.theguardian.com/australia-news/2025/dec/19/australia-gun-buy-back-bondi-beach-terror-attack-anthony-albanese)
-- [Dashed dreams and land grabs: The rise of rural protests in China](https://www.theguardian.com/world/2025/dec/19/workers-rural-protests-china-land-grabs)
-- [Oh, Mary! review – US history lewdly revised as American Pie-grade comedy](https://www.theguardian.com/stage/2025/dec/19/oh-mary-review-mason-alexander-park-giles-terera-trafalgar-theatre-london)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2025/dec/19/premier-league-10-things-to-look-out-for-this-weekend)
-- [Democrats release new Epstein photos ahead of DoJ transparency deadline](https://www.theguardian.com/us-news/2025/dec/18/jeffrey-epstein-estate-files-photos)
-- [Kennedy Center board votes to add Trump’s name to DC arts institution](https://www.theguardian.com/us-news/2025/dec/18/trump-kennedy-center-renaming)
-- [Crystal Palace in Conference playoffs after blowing lead against KuPS](https://www.theguardian.com/football/2025/dec/18/crystal-palace-kups-conference-league-match-report)
+- [Australia v England: Ashes third Test, day four – live](https://www.theguardian.com/sport/live/2025/dec/19/australia-vs-england-live-ashes-third-3rd-test-day-four-aus-v-eng-cricket-scores-updates-adelaide-oval)
+- [US launches airstrikes against dozens of Islamic State targets in Syria](https://www.theguardian.com/us-news/2025/dec/19/us-military-syria-airstrikes-trump)
+- [Latest Epstein files release ‘grossly fails to comply with both the spirit and letter of the law’, says congressman – live](https://www.theguardian.com/us-news/live/2025/dec/19/jeffrey-epstein-files-released-trump-administration)
+- [Jake Paul v Anthony Joshua: heavyweight boxing – live buildup](https://www.theguardian.com/sport/live/2025/dec/19/jake-paul-v-anthony-joshua-heavyweight-boxing-live-build-up)
+- [Epstein files appear to show ex-prince Andrew lying on laps watched by Ghislaine Maxwell](https://www.theguardian.com/uk-news/2025/dec/20/epstein-files-appear-to-show-ex-prince-andrew-lying-on-laps-watched-by-ghislaine-maxwell)
+- [US justice department releases heavily redacted cache of Jeffrey Epstein files](https://www.theguardian.com/us-news/2025/dec/19/jeffrey-epstein-files-us-justice-department)
+- [Photos from the first batch of the Jeffrey Epstein files](https://www.theguardian.com/us-news/gallery/2025/dec/19/new-photos-from-epstein-files-release)
+- [US legislators say justice department is violating law by not releasing all Epstein files](https://www.theguardian.com/us-news/2025/dec/19/epstein-files-release-deadline)
+- [Premier League news: Guardiola dismisses exit talk and Wolves chief steps down](https://www.theguardian.com/football/2025/dec/19/premier-league-news-guardiola-dismisses-exit-talk-and-slot-has-moved-on-from-salah-fallout)
+- [Maresca plays dangerous game as confusion reigns after his Chelsea grenade](https://www.theguardian.com/football/2025/dec/19/enzo-maresca-chelsea-newcastle-manchester-city-premier-league)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Elon Musk&#39;s SpaceX Valued at $800B, as It Prepares to Go Public](https://www.nytimes.com/2025/12/12/technology/elon-musk-spacex-ipo.html)
-- [Nearly 500 small businesses seek assistance in dispute with digital platforms](https://www.abc.net.au/news/2025-12-19/meta-suspends-small-business-socials-account/106153840)
-- [Show HN: WebCraft: A C++ 23 async IO library](https://news.ycombinator.com/item?id=46321866)
-- [Show HN: LazyPromise = Observable – Signals](https://github.com/lazy-promise/lazy-promise)
-- [Nobody Reads Your Logs](https://nobodyreadsyourlogs.com/)
-- [Show HN: SkyLifeguard, tiny UE5 plugin for assertive programming](https://github.com/jign/SkyLifeguard)
-- [What trading will look like in 2030](https://blog.everstrike.io/what-trading-will-look-like-in-2030/)
-- [TikTok signs deal to give U.S. operations to Oracle-led investor group](https://www.npr.org/2025/12/18/nx-s1-5648844/tiktok-deal-oracle-trump)
-- [What Is the Future Technology of Solar Panels in Australia?](https://cyanergy.com.au/blog/what-is-the-future-technology-of-solar-panels-in-australia/)
-- [PyOxy: A single file Python distribution written in Rust](https://pyoxidizer.readthedocs.io/en/stable/pyoxy.html)
+- [The Cabbage Patch Kids caused a near-riot in the 1980s](https://www.bbc.com/culture/article/20251121-how-the-cabbage-patch-kids-caused-a-near-riot)
+- [The Abolition of Work – Bob Black &lpar;1991&rpar;](https://theanarchistlibrary.org/library/bob-black-the-abolition-of-work)
+- [Cheaper, cleaner energy drives Germany&#39;s balcony-solar boom](https://www.dw.com/en/boom-small-solar-devices-plugged-into-household-sockets-german-energy-transition/a-75022163)
+- [Ruby 4.0.0 Preview3 Released](https://www.ruby-lang.org/en/news/2025/12/18/ruby-4-0-0-preview3-released/)
+- [37signals Dev – The Rails Delegated Type Pattern](https://dev.37signals.com/the-rails-delegated-type-pattern/)
+- [$10,000 Xmas Wager on the Navier-Stokes Millennium Prize](https://twitter.com/mhutter42/status/2001857421569032444)
+- [Papa&#39;s Arcade: Play Papa Louie and Flipline Games Online](https://www.papas-arcade.com/)
+- [I Keep Returning to Middle-Earth](https://www.nytimes.com/2025/12/19/opinion/tolkien-grief-lord-rings.html)
+- [When a chatbot runs your store](https://www.aiweirdness.com/when-a-chatbot-runs-your-store/)
+- [Building ScrapeForge in public. Day 1 update](https://news.ycombinator.com/item?id=46333175)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

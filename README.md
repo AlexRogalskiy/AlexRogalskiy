@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Australia v England: Ashes third Test, day four – live](https://www.theguardian.com/sport/live/2025/dec/19/australia-vs-england-live-ashes-third-3rd-test-day-four-aus-v-eng-cricket-scores-updates-adelaide-oval)
-- [US launches airstrikes against dozens of Islamic State targets in Syria](https://www.theguardian.com/us-news/2025/dec/19/us-military-syria-airstrikes-trump)
-- [Latest Epstein files release ‘grossly fails to comply with both the spirit and letter of the law’, says congressman – live](https://www.theguardian.com/us-news/live/2025/dec/19/jeffrey-epstein-files-released-trump-administration)
-- [Jake Paul v Anthony Joshua: heavyweight boxing – live buildup](https://www.theguardian.com/sport/live/2025/dec/19/jake-paul-v-anthony-joshua-heavyweight-boxing-live-build-up)
-- [Epstein files appear to show ex-prince Andrew lying on laps watched by Ghislaine Maxwell](https://www.theguardian.com/uk-news/2025/dec/20/epstein-files-appear-to-show-ex-prince-andrew-lying-on-laps-watched-by-ghislaine-maxwell)
-- [US justice department releases heavily redacted cache of Jeffrey Epstein files](https://www.theguardian.com/us-news/2025/dec/19/jeffrey-epstein-files-us-justice-department)
-- [Photos from the first batch of the Jeffrey Epstein files](https://www.theguardian.com/us-news/gallery/2025/dec/19/new-photos-from-epstein-files-release)
-- [US legislators say justice department is violating law by not releasing all Epstein files](https://www.theguardian.com/us-news/2025/dec/19/epstein-files-release-deadline)
-- [Premier League news: Guardiola dismisses exit talk and Wolves chief steps down](https://www.theguardian.com/football/2025/dec/19/premier-league-news-guardiola-dismisses-exit-talk-and-slot-has-moved-on-from-salah-fallout)
-- [Maresca plays dangerous game as confusion reigns after his Chelsea grenade](https://www.theguardian.com/football/2025/dec/19/enzo-maresca-chelsea-newcastle-manchester-city-premier-league)
+- [Australia v England: Ashes third Test, day five – live](https://www.theguardian.com/sport/live/2025/dec/21/australia-vs-england-live-ashes-third-3rd-test-day-five-aus-v-eng-cricket-scores-updates-adelaide-oval)
+- [Karen Carney and Carlos Gu win Strictly crown as Tess Daly and Claudia Winkleman bow out](https://www.theguardian.com/tv-and-radio/2025/dec/21/karen-carney-and-carlos-gu-win-strictly-crown-as-tess-daly-and-claudia-winkleman-bow-out)
+- [Dominic Calvert-Lewin double fires Leeds to victory against Crystal Palace](https://www.theguardian.com/football/2025/dec/20/leeds-crystal-palace-premier-league-match-report)
+- [Viktor Gyökeres holds nerve to sink Everton and keep Arsenal top of pile](https://www.theguardian.com/football/2025/dec/20/everton-arsenal-premier-league-match-report)
+- [Erling Haaland double sinks West Ham as Manchester City put heat on Arsenal](https://www.theguardian.com/football/2025/dec/20/manchester-city-west-ham-premier-league-match-report)
+- [Bill Clinton spokesperson says White House is using him as scapegoat after Epstein files release](https://www.theguardian.com/us-news/2025/dec/20/bill-clinton-white-house-epstein-files)
+- [Brilliant Bristol run in six dazzling tries in Big Game mauling of Harlequins](https://www.theguardian.com/sport/2025/dec/20/harlequins-bristol-prem-rugby-union-match-report)
+- [Prince George joins Prince of Wales in visit to homelessness charity](https://www.theguardian.com/uk-news/2025/dec/20/prince-george-joins-prince-of-wales-in-visit-to-homelessness-charity)
+- [Jake Paul’s artless spectacle robbed boxing of its democratic dream](https://www.theguardian.com/sport/2025/dec/20/jake-paul-anthony-joshua-artless-spectacle-robbed-boxing-democratic-dream)
+- [Police use lasso to help recapture runaway billy goat in Wiltshire](https://www.theguardian.com/uk-news/2025/dec/20/police-use-riot-shields-to-help-recapture-runaway-wiltshire-goat)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

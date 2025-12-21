@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [PBS News Hour West to go dark after ASU discontinues contract](https://www.statepress.com/article/2025/12/politics-pbs-newshour-west-closure)
-- [We ran Anthropic’s interviews through structured LLM analysis](https://www.playbookatlas.com/research/ai-adoption-explorer)
-- [CSS Grid Lanes](https://webkit.org/blog/17660/introducing-css-grid-lanes/)
-- [Buteyko Method](https://en.wikipedia.org/wiki/Buteyko_method)
-- [A Better Zip Bomb](https://www.bamsoftware.com/hacks/zipbomb/)
-- [LLM Year in Review](https://karpathy.bearblog.dev/year-in-review-2025/)
-- [The scariest boot loader code](http://miod.online.fr/software/openbsd/stories/boot_hppa.html)
-- [TP-Link Tapo C200: Hardcoded Keys, Buffer Overflows and Privacy](https://www.evilsocket.net/2025/12/18/TP-Link-Tapo-C200-Hardcoded-Keys-Buffer-Overflows-and-Privacy-in-the-Era-of-AI-Assisted-Reverse-Engineering/)
-- [Reverse Engineering US Airline&#39;s PNR System and Accessing All Reservations](https://alexschapiro.com/security/vulnerability/2025/11/20/avelo-airline-reservation-api-vulnerability)
-- [Performance Hints &lpar;2023&rpar;](https://abseil.io/fast/hints.html)
+- [Flock and Cyble Inc. Weaponize &quot;Cybercrime&quot; Takedowns to Silence Critics](https://haveibeenflocked.com/news/cyble-downtime)
+- [Claude in Chrome](https://claude.com/chrome)
+- [Show HN: Jmail – Google Suite for Epstein files](https://www.jmail.world)
+- [MIRA – An open-source persistent AI entity with memory](https://github.com/taylorsatula/mira-OSS)
+- [Ireland’s Diarmuid Early wins world Microsoft Excel title](https://www.bbc.com/news/articles/cj4qzgvxxgvo)
+- [I spent a week without IPv4 &lpar;2023&rpar;](https://www.apalrd.net/posts/2023/network_ipv6/)
+- [Backing Up Spotify](https://annas-archive.li/blog/backing-up-spotify.html)
+- [Depot &lpar;YC W23&rpar; Is Hiring an Enterprise Support Engineer &lpar;Remote/US&rpar;](https://www.ycombinator.com/companies/depot/jobs/jhGxVjO-enterprise-support-engineer)
+- [Big GPUs don&#39;t need big PCs](https://www.jeffgeerling.com/blog/2025/big-gpus-dont-need-big-pcs)
+- [OpenSCAD is kinda neat](https://nuxx.net/blog/2025/12/20/openscad-is-kinda-neat/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

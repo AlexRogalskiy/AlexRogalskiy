@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Cabbage Patch Kids caused a near-riot in the 1980s](https://www.bbc.com/culture/article/20251121-how-the-cabbage-patch-kids-caused-a-near-riot)
-- [The Abolition of Work – Bob Black &lpar;1991&rpar;](https://theanarchistlibrary.org/library/bob-black-the-abolition-of-work)
-- [Cheaper, cleaner energy drives Germany&#39;s balcony-solar boom](https://www.dw.com/en/boom-small-solar-devices-plugged-into-household-sockets-german-energy-transition/a-75022163)
-- [Ruby 4.0.0 Preview3 Released](https://www.ruby-lang.org/en/news/2025/12/18/ruby-4-0-0-preview3-released/)
-- [37signals Dev – The Rails Delegated Type Pattern](https://dev.37signals.com/the-rails-delegated-type-pattern/)
-- [$10,000 Xmas Wager on the Navier-Stokes Millennium Prize](https://twitter.com/mhutter42/status/2001857421569032444)
-- [Papa&#39;s Arcade: Play Papa Louie and Flipline Games Online](https://www.papas-arcade.com/)
-- [I Keep Returning to Middle-Earth](https://www.nytimes.com/2025/12/19/opinion/tolkien-grief-lord-rings.html)
-- [When a chatbot runs your store](https://www.aiweirdness.com/when-a-chatbot-runs-your-store/)
-- [Building ScrapeForge in public. Day 1 update](https://news.ycombinator.com/item?id=46333175)
+- [Faster Practical Modular Inversion](https://purplesyringa.moe/blog/faster-practical-modular-inversion/)
+- [Americans are hungry for community. So why don&#39;t we have European-style squares?](https://www.cnn.com/2025/12/19/travel/europe-public-squares-american-development)
+- [Speech to text model for healthcare-based voice applications](https://huggingface.co/google/medasr)
+- [Show HN: Spelling Bee Trainer](https://spell2.netlify.app/)
+- [Show HN: SHA-256 quasi-collision with 184/256 matching bits](https://github.com/POlLLOGAMER/SHA-256-Colision-Finder-NEW.ipynb/blob/main/Base_Version/SHA_256_COLISION_FINDER_RECORD3.ipynb)
+- [Google sues web scraper for sucking up search results &#39;at an astonishing scale&#39;](https://www.theverge.com/news/848365/google-scraper-lawsuit-serpapi)
+- [What Is Threads Trends Tool?](https://news.ycombinator.com/item?id=46341846)
+- [24h with an experienced eng/designer and Opus 4.5](https://make.zen2.ai/)
+- [What the Smartest Minds Think About AI](https://www.wsj.com/tech/ai/ai-conference-neurips-ff6398df)
+- [Making Aircrete with kitchen ingredients [video]](https://www.youtube.com/watch?v=z4_GxPHwqkA)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

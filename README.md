@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Faster Practical Modular Inversion](https://purplesyringa.moe/blog/faster-practical-modular-inversion/)
-- [Americans are hungry for community. So why don&#39;t we have European-style squares?](https://www.cnn.com/2025/12/19/travel/europe-public-squares-american-development)
-- [Speech to text model for healthcare-based voice applications](https://huggingface.co/google/medasr)
-- [Show HN: Spelling Bee Trainer](https://spell2.netlify.app/)
-- [Show HN: SHA-256 quasi-collision with 184/256 matching bits](https://github.com/POlLLOGAMER/SHA-256-Colision-Finder-NEW.ipynb/blob/main/Base_Version/SHA_256_COLISION_FINDER_RECORD3.ipynb)
-- [Google sues web scraper for sucking up search results &#39;at an astonishing scale&#39;](https://www.theverge.com/news/848365/google-scraper-lawsuit-serpapi)
-- [What Is Threads Trends Tool?](https://news.ycombinator.com/item?id=46341846)
-- [24h with an experienced eng/designer and Opus 4.5](https://make.zen2.ai/)
-- [What the Smartest Minds Think About AI](https://www.wsj.com/tech/ai/ai-conference-neurips-ff6398df)
-- [Making Aircrete with kitchen ingredients [video]](https://www.youtube.com/watch?v=z4_GxPHwqkA)
+- [Show HN: Open-source Markdown publishing framework for AI agents and developers](https://github.com/waynesutton/markdown-site)
+- [Hetzner API / Console down ~8hr so far](https://status.hetzner.com/incident/d2575337-51ed-40a8-befd-af8afed6765c)
+- [Redesigning a personal site with Opus 4.5](https://www.augmentedswe.com/p/design-with-claude-opus-45)
+- [Apple Excludes iOS 18.7.3 from Compatible Devices](https://old.reddit.com/r/apple/comments/1psbpzs/apple_excludes_ios_1873_from_compatible_devices/)
+- [ICE sending immigrants from continental U.S. to Hawaii, and no one knows why](https://www.hawaiipublicradio.org/local-news/2025-12-18/ice-has-been-sending-immigrants-from-the-continental-u-s-to-hawaii-and-no-one-knows-why)
+- [JetBrains abandons Fleet, pins hopes on forthcoming Air agentic development tool](https://devclass.com/2025/12/09/jetbrains-abandons-fleet-ide-pins-hopes-on-forthcoming-air-agentic-development-tool/)
+- [&#39;He Was Poisoned.&#39; Toxic Fumes on Planes Blamed for Deaths of Pilots and Crew](https://www.wsj.com/business/airlines/toxic-fumes-airplane-pilot-crew-death-739fa3bb)
+- [NIST NTP clock crisis averted for now](https://groups.google.com/a/list.nist.gov/g/internet-time-service/c/OHOO_1OYjLY)
+- [&#39;Slightly haunted but manageable&#39;: new signs cause confusion in Christchurch](https://www.theguardian.com/world/2025/dec/22/new-zealand-christchurch-spoof-absurdist-road-signs)
+- [Show HN: Mac app to keep windows always on top](https://alwaysontop.app)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

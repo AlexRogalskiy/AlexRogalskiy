@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Flock and Cyble Inc. Weaponize &quot;Cybercrime&quot; Takedowns to Silence Critics](https://haveibeenflocked.com/news/cyble-downtime)
-- [Claude in Chrome](https://claude.com/chrome)
-- [Show HN: Jmail – Google Suite for Epstein files](https://www.jmail.world)
-- [MIRA – An open-source persistent AI entity with memory](https://github.com/taylorsatula/mira-OSS)
-- [Ireland’s Diarmuid Early wins world Microsoft Excel title](https://www.bbc.com/news/articles/cj4qzgvxxgvo)
-- [I spent a week without IPv4 &lpar;2023&rpar;](https://www.apalrd.net/posts/2023/network_ipv6/)
-- [Backing Up Spotify](https://annas-archive.li/blog/backing-up-spotify.html)
-- [Depot &lpar;YC W23&rpar; Is Hiring an Enterprise Support Engineer &lpar;Remote/US&rpar;](https://www.ycombinator.com/companies/depot/jobs/jhGxVjO-enterprise-support-engineer)
-- [Big GPUs don&#39;t need big PCs](https://www.jeffgeerling.com/blog/2025/big-gpus-dont-need-big-pcs)
-- [OpenSCAD is kinda neat](https://nuxx.net/blog/2025/12/20/openscad-is-kinda-neat/)
+- [86Box v5.3](https://86box.net/2025/12/21/86box-v5-3.html)
+- [Danish postal service to stop delivering letters after 400 years](https://www.theguardian.com/world/2025/dec/21/denmark-postnord-postal-delivery-letters-society)
+- [ONNX Runtime and CoreML May Silently Convert Your Model to FP16](https://ym2132.github.io/ONNX_MLProgram_NN_exploration)
+- [I wish people were more public](https://borretti.me/article/i-wish-people-were-more-public)
+- [Disney Imagineering Debuts Next-Generation Robotic Character, Olaf](https://disneyparksblog.com/disney-experiences/robotic-olaf-marks-new-era-of-disney-innovation/)
+- [A guide to local coding models](https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude)
+- [Rue: Higher level than Rust, lower level than Go](https://rue-lang.dev/)
+- [I can&#39;t upgrade to Windows 11, now leave me alone](https://idiallo.com/byte-size/cant-update-to-windows-11-leave-me-alone)
+- [The Going Dark initiative or ProtectEU is a Chat Control 3.0 attempt](https://mastodon.online/@mullvadnet/115742530333573065)
+- [You’re not burnt out, you’re existentially starving](https://neilthanedar.com/youre-not-burnt-out-youre-existentially-starving/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

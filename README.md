@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Australia v England: Ashes third Test, day five – live](https://www.theguardian.com/sport/live/2025/dec/21/australia-vs-england-live-ashes-third-3rd-test-day-five-aus-v-eng-cricket-scores-updates-adelaide-oval)
-- [Karen Carney and Carlos Gu win Strictly crown as Tess Daly and Claudia Winkleman bow out](https://www.theguardian.com/tv-and-radio/2025/dec/21/karen-carney-and-carlos-gu-win-strictly-crown-as-tess-daly-and-claudia-winkleman-bow-out)
-- [Dominic Calvert-Lewin double fires Leeds to victory against Crystal Palace](https://www.theguardian.com/football/2025/dec/20/leeds-crystal-palace-premier-league-match-report)
-- [Viktor Gyökeres holds nerve to sink Everton and keep Arsenal top of pile](https://www.theguardian.com/football/2025/dec/20/everton-arsenal-premier-league-match-report)
-- [Erling Haaland double sinks West Ham as Manchester City put heat on Arsenal](https://www.theguardian.com/football/2025/dec/20/manchester-city-west-ham-premier-league-match-report)
-- [Bill Clinton spokesperson says White House is using him as scapegoat after Epstein files release](https://www.theguardian.com/us-news/2025/dec/20/bill-clinton-white-house-epstein-files)
-- [Brilliant Bristol run in six dazzling tries in Big Game mauling of Harlequins](https://www.theguardian.com/sport/2025/dec/20/harlequins-bristol-prem-rugby-union-match-report)
-- [Prince George joins Prince of Wales in visit to homelessness charity](https://www.theguardian.com/uk-news/2025/dec/20/prince-george-joins-prince-of-wales-in-visit-to-homelessness-charity)
-- [Jake Paul’s artless spectacle robbed boxing of its democratic dream](https://www.theguardian.com/sport/2025/dec/20/jake-paul-anthony-joshua-artless-spectacle-robbed-boxing-democratic-dream)
-- [Police use lasso to help recapture runaway billy goat in Wiltshire](https://www.theguardian.com/uk-news/2025/dec/20/police-use-riot-shields-to-help-recapture-runaway-wiltshire-goat)
+- [‘Slightly haunted but manageable’: new signs cause confusion – and delight – in Christchurch](https://www.theguardian.com/world/2025/dec/22/new-zealand-christchurch-spoof-absurdist-road-signs)
+- [Kimchi, made in China: how South Korea’s national dish is being priced out at home](https://www.theguardian.com/world/2025/dec/22/kimchi-south-korea-national-dish-priced-out-china-export)
+- [‘RIP’: Australian media revels in ‘deeply lamented’ death of Bazball after Ashes woe](https://www.theguardian.com/sport/2025/dec/22/australian-media-laments-death-of-bazball-ashes)
+- [UK economy entering 2026 amid sharp private sector downturn, says CBI](https://www.theguardian.com/business/2025/dec/22/uk-economy-entering-2026-amid-sharp-private-sector-downturn-says-cbi)
+- [Richard Osman’s The Impossible Fortune tops 2025 UK bestsellers list](https://www.theguardian.com/books/2025/dec/22/richard-osman-the-impossible-fortune-2025-uk-bestsellers-books)
+- [Ukrainian and European officials had ‘productive’ talks on ending war, US envoy says](https://www.theguardian.com/us-news/2025/dec/21/ukraine-europe-russia-war-talks-white-house)
+- [Wesley Plaisier claims ‘biggest victory’ in stunning upset of Gerwyn Price](https://www.theguardian.com/sport/2025/dec/21/world-darts-championship-rob-cross-luke-littler-gerwyn-price)
+- [Liverpool fear Alexander Isak has fractured leg after horror injury against Spurs](https://www.theguardian.com/football/2025/dec/21/liverpool-fear-alexander-isak-sustained-significant-injury-at-tottenham)
+- [Amadeus review – this Mozart series is a pale, petty version of the movie it’s based on](https://www.theguardian.com/tv-and-radio/2025/dec/21/amadeus-review-mozart-series-pale-petty-version-of-movie)
+- [Cancelled US comedian Jimmy Kimmel to deliver Christmas message to UK](https://www.theguardian.com/tv-and-radio/2025/dec/21/jimmy-kimmel-alternative-christmas-message-uk-channel-4)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

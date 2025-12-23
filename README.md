@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [‘Slightly haunted but manageable’: new signs cause confusion – and delight – in Christchurch](https://www.theguardian.com/world/2025/dec/22/new-zealand-christchurch-spoof-absurdist-road-signs)
-- [Kimchi, made in China: how South Korea’s national dish is being priced out at home](https://www.theguardian.com/world/2025/dec/22/kimchi-south-korea-national-dish-priced-out-china-export)
-- [‘RIP’: Australian media revels in ‘deeply lamented’ death of Bazball after Ashes woe](https://www.theguardian.com/sport/2025/dec/22/australian-media-laments-death-of-bazball-ashes)
-- [UK economy entering 2026 amid sharp private sector downturn, says CBI](https://www.theguardian.com/business/2025/dec/22/uk-economy-entering-2026-amid-sharp-private-sector-downturn-says-cbi)
-- [Richard Osman’s The Impossible Fortune tops 2025 UK bestsellers list](https://www.theguardian.com/books/2025/dec/22/richard-osman-the-impossible-fortune-2025-uk-bestsellers-books)
-- [Ukrainian and European officials had ‘productive’ talks on ending war, US envoy says](https://www.theguardian.com/us-news/2025/dec/21/ukraine-europe-russia-war-talks-white-house)
-- [Wesley Plaisier claims ‘biggest victory’ in stunning upset of Gerwyn Price](https://www.theguardian.com/sport/2025/dec/21/world-darts-championship-rob-cross-luke-littler-gerwyn-price)
-- [Liverpool fear Alexander Isak has fractured leg after horror injury against Spurs](https://www.theguardian.com/football/2025/dec/21/liverpool-fear-alexander-isak-sustained-significant-injury-at-tottenham)
-- [Amadeus review – this Mozart series is a pale, petty version of the movie it’s based on](https://www.theguardian.com/tv-and-radio/2025/dec/21/amadeus-review-mozart-series-pale-petty-version-of-movie)
-- [Cancelled US comedian Jimmy Kimmel to deliver Christmas message to UK](https://www.theguardian.com/tv-and-radio/2025/dec/21/jimmy-kimmel-alternative-christmas-message-uk-channel-4)
+- [England defend mid-Ashes beach break but will look into reports claiming excessive drinking](https://www.theguardian.com/sport/2025/dec/23/england-cricket-mid-ashes-break-noosa-excessive-drinking)
+- [Trump complains Epstein files are damaging people who ‘innocently met’ him](https://www.theguardian.com/us-news/2025/dec/23/trump-complains-epstein-files-are-damaging-people-who-innocently-met-him)
+- [Ukraine war briefing: Russian forces attack Odesa twice in one day](https://www.theguardian.com/world/2025/dec/23/ukraine-war-briefing-russian-forces-attack-odesa-twice-in-one-day)
+- [Trump news at a glance: president breaks with convention to name new battleships after himself](https://www.theguardian.com/us-news/2025/dec/23/donald-trump-administration-news-updates-today-latest)
+- [‘Is this real?’: wife of detained pastor describes anguish as China cracks down on unofficial churches](https://www.theguardian.com/world/2025/dec/23/christians-pastors-arrested-detained-china-crackdown-house-churches)
+- [Former BlackRock executive Mark Wiseman named as Canada’s next ambassador to US](https://www.theguardian.com/world/2025/dec/23/former-blackrock-executive-mark-wiseman-named-as-canadas-next-ambassador-to-us)
+- [Trump administration plans to promote loyal diplomats after recall of 30 ambassadors, sources say](https://www.theguardian.com/us-news/2025/dec/23/trump-administration-recalls-30-ambassadors-promote-loyal-diplomats)
+- [Fiji wrestles with plans to restore Indigenous rights over world-famous surf breaks](https://www.theguardian.com/world/2025/dec/23/fiji-surfing-cloudbreak-restore-indigenous-rights)
+- [Prosecutions for strangulation in England and Wales increase sixfold in three years](https://www.theguardian.com/society/2025/dec/23/strangulation-prosecutions-england-wales-increase-sixfold-three-years)
+- [Former mineworkers celebrate ‘historic’ £100-a-week UK pensions boost](https://www.theguardian.com/money/2025/dec/23/former-mineworkers-celebrate-historic-100-a-week-uk-pensions-boost)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

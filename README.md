@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [86Box v5.3](https://86box.net/2025/12/21/86box-v5-3.html)
-- [Danish postal service to stop delivering letters after 400 years](https://www.theguardian.com/world/2025/dec/21/denmark-postnord-postal-delivery-letters-society)
-- [ONNX Runtime and CoreML May Silently Convert Your Model to FP16](https://ym2132.github.io/ONNX_MLProgram_NN_exploration)
-- [I wish people were more public](https://borretti.me/article/i-wish-people-were-more-public)
-- [Disney Imagineering Debuts Next-Generation Robotic Character, Olaf](https://disneyparksblog.com/disney-experiences/robotic-olaf-marks-new-era-of-disney-innovation/)
-- [A guide to local coding models](https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude)
-- [Rue: Higher level than Rust, lower level than Go](https://rue-lang.dev/)
-- [I can&#39;t upgrade to Windows 11, now leave me alone](https://idiallo.com/byte-size/cant-update-to-windows-11-leave-me-alone)
-- [The Going Dark initiative or ProtectEU is a Chat Control 3.0 attempt](https://mastodon.online/@mullvadnet/115742530333573065)
-- [You’re not burnt out, you’re existentially starving](https://neilthanedar.com/youre-not-burnt-out-youre-existentially-starving/)
+- [NYC Spends $200 Million on Cell Service for School Chromebooks](https://nysfocus.com/2025/12/22/eric-adams-school-chromebooks-contract)
+- [Snitch – a friendly netstat alternative for humans](https://github.com/karol-broda/snitch)
+- [Laptop Isn&#39;t Ready for LLMs. That&#39;s About to Change](https://spectrum.ieee.org/ai-models-locally)
+- [Satellites reveal heat leaking from largest US cryptocurrency mining center](https://www.space.com/space-exploration/satellites/satellites-reveal-heat-leaking-from-largest-us-cryptocurrency-mining-center)
+- [There Is No Future for Online Safety Without Privacy and Security](https://itsfoss.com/news/alexander-linton-interview/)
+- [Lotusbail npm package found to be harvesting WhatsApp messages and contacts](https://www.koi.ai/blog/npm-package-with-56k-downloads-malware-stealing-whatsapp-messages)
+- [Tc – Theodore Calvin&#39;s language-agnostic testing framework](https://github.com/ahoward/tc)
+- [It&#39;s Always TCP_NODELAY](https://brooker.co.za/blog/2024/05/09/nagle.html)
+- [Ultrasound Cancer Treatment: Sound Waves Fight Tumors](https://spectrum.ieee.org/ultrasound-cancer-treatment)
+- [US blocks all offshore wind construction, says reason is classified](https://arstechnica.com/science/2025/12/us-government-finds-new-excuse-to-stop-construction-of-offshore-wind/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

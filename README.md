@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: Open-source Markdown publishing framework for AI agents and developers](https://github.com/waynesutton/markdown-site)
-- [Hetzner API / Console down ~8hr so far](https://status.hetzner.com/incident/d2575337-51ed-40a8-befd-af8afed6765c)
-- [Redesigning a personal site with Opus 4.5](https://www.augmentedswe.com/p/design-with-claude-opus-45)
-- [Apple Excludes iOS 18.7.3 from Compatible Devices](https://old.reddit.com/r/apple/comments/1psbpzs/apple_excludes_ios_1873_from_compatible_devices/)
-- [ICE sending immigrants from continental U.S. to Hawaii, and no one knows why](https://www.hawaiipublicradio.org/local-news/2025-12-18/ice-has-been-sending-immigrants-from-the-continental-u-s-to-hawaii-and-no-one-knows-why)
-- [JetBrains abandons Fleet, pins hopes on forthcoming Air agentic development tool](https://devclass.com/2025/12/09/jetbrains-abandons-fleet-ide-pins-hopes-on-forthcoming-air-agentic-development-tool/)
-- [&#39;He Was Poisoned.&#39; Toxic Fumes on Planes Blamed for Deaths of Pilots and Crew](https://www.wsj.com/business/airlines/toxic-fumes-airplane-pilot-crew-death-739fa3bb)
-- [NIST NTP clock crisis averted for now](https://groups.google.com/a/list.nist.gov/g/internet-time-service/c/OHOO_1OYjLY)
-- [&#39;Slightly haunted but manageable&#39;: new signs cause confusion in Christchurch](https://www.theguardian.com/world/2025/dec/22/new-zealand-christchurch-spoof-absurdist-road-signs)
-- [Show HN: Mac app to keep windows always on top](https://alwaysontop.app)
+- [Open Forms](https://www.aryank.in/posts/2025-12-21-introducing-open-forms/)
+- [Ask HN: LLC or Sole Proprietorship](https://news.ycombinator.com/item?id=46361970)
+- [While You Watched Venezuela, China Won the Oil War – Yanis Varoufakis](https://www.youtube.com/watch?v=4dEHDUwAsII)
+- [Measuring the impact of AI on developer productivity at Meta](https://www.youtube.com/watch?v=1OzxYK2-qsI)
+- [The WW1 Christmas Truce &lpar;2023&rpar;](https://www.bbc.com/culture/article/20231219-the-ww1-christmas-truce-the-war-for-that-moment-came-to-a-standstill)
+- [Rex is a safe kernel extension framework that allows Rust in the place of eBPF](https://github.com/rex-rs/rex)
+- [Diesel pollution particles impair lysosomal functions of iPSC-derived microglia](https://www.sciencedirect.com/science/article/pii/S0160412025002181)
+- [Russia&#39;s new anti-satellite weapon project would target Starlink with shrapnel](https://apnews.com/article/russia-starlink-musk-ukraine-space-china-canada-c69c1fda5ffc93828712ab723e606a2c)
+- [Show HN: A dashboard for understanding Kubernetes operators](https://lynq.sh/blog/introducing-lynq-dashboard)
+- [Teenagers Are Running Their Own AI Companies](https://www.wsj.com/business/entrepreneurship/teenage-founders-ecb9cbd3)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

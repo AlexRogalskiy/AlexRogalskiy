@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Open Forms](https://www.aryank.in/posts/2025-12-21-introducing-open-forms/)
-- [Ask HN: LLC or Sole Proprietorship](https://news.ycombinator.com/item?id=46361970)
-- [While You Watched Venezuela, China Won the Oil War – Yanis Varoufakis](https://www.youtube.com/watch?v=4dEHDUwAsII)
-- [Measuring the impact of AI on developer productivity at Meta](https://www.youtube.com/watch?v=1OzxYK2-qsI)
-- [The WW1 Christmas Truce &lpar;2023&rpar;](https://www.bbc.com/culture/article/20231219-the-ww1-christmas-truce-the-war-for-that-moment-came-to-a-standstill)
-- [Rex is a safe kernel extension framework that allows Rust in the place of eBPF](https://github.com/rex-rs/rex)
-- [Diesel pollution particles impair lysosomal functions of iPSC-derived microglia](https://www.sciencedirect.com/science/article/pii/S0160412025002181)
-- [Russia&#39;s new anti-satellite weapon project would target Starlink with shrapnel](https://apnews.com/article/russia-starlink-musk-ukraine-space-china-canada-c69c1fda5ffc93828712ab723e606a2c)
-- [Show HN: A dashboard for understanding Kubernetes operators](https://lynq.sh/blog/introducing-lynq-dashboard)
-- [Teenagers Are Running Their Own AI Companies](https://www.wsj.com/business/entrepreneurship/teenage-founders-ecb9cbd3)
+- [China bans sharing &#39;obscene&#39; material – potentially including sexting](https://www.washingtonpost.com/world/2025/12/23/china-porn-ban-online-censorship/)
+- [Yendor: A Zach-like, rogue-like game and language made in 7 days](https://github.com/olifog/YENDOR)
+- [China Delays Plans for Mass Production of Self-Driving Cars After Accident](https://www.nytimes.com/2025/12/23/business/china-autonomous-cars-driving.html)
+- [Poetiq achieves 75% at under $8 / problem using GPT-5.2 X-High on ARC-AGI-2](https://poetiq.ai/posts/arcagi_announcement/)
+- [A semantic POP-style framework for structuring AI-assisted programs](https://github.com/dohuyhoang93/theus/blob/main/README.md)
+- [How to Become AGI: From Capitalism to Compute-Ism](https://medium.com/@zichengxu/how-to-become-agi-a5b2d7d74bda)
+- [Casuistic Alignment](https://fi-le.net/casuism/)
+- [Show HN: Depsy – normalized SaaS dependency health in one API call &lpar;cached,fast&rpar;](https://depsy.io/)
+- [Show HN: Send free letters to your future self or others](https://lettertolater.com)
+- [DownDownDown Come and challenge the 100th floor game](https://downdowndown.live/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

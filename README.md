@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [NYC Spends $200 Million on Cell Service for School Chromebooks](https://nysfocus.com/2025/12/22/eric-adams-school-chromebooks-contract)
-- [Snitch – a friendly netstat alternative for humans](https://github.com/karol-broda/snitch)
-- [Laptop Isn&#39;t Ready for LLMs. That&#39;s About to Change](https://spectrum.ieee.org/ai-models-locally)
-- [Satellites reveal heat leaking from largest US cryptocurrency mining center](https://www.space.com/space-exploration/satellites/satellites-reveal-heat-leaking-from-largest-us-cryptocurrency-mining-center)
-- [There Is No Future for Online Safety Without Privacy and Security](https://itsfoss.com/news/alexander-linton-interview/)
-- [Lotusbail npm package found to be harvesting WhatsApp messages and contacts](https://www.koi.ai/blog/npm-package-with-56k-downloads-malware-stealing-whatsapp-messages)
-- [Tc – Theodore Calvin&#39;s language-agnostic testing framework](https://github.com/ahoward/tc)
-- [It&#39;s Always TCP_NODELAY](https://brooker.co.za/blog/2024/05/09/nagle.html)
-- [Ultrasound Cancer Treatment: Sound Waves Fight Tumors](https://spectrum.ieee.org/ultrasound-cancer-treatment)
-- [US blocks all offshore wind construction, says reason is classified](https://arstechnica.com/science/2025/12/us-government-finds-new-excuse-to-stop-construction-of-offshore-wind/)
+- [Correspondence Between Don Knuth and Peter van Emde Boas on Priority Deques 1977 [pdf]](https://staff.fnwi.uva.nl/p.vanemdeboas/knuthnote.pdf)
+- [Could lockfiles just be SBOMs?](https://nesbitt.io/2025/12/23/could-lockfiles-just-be-sboms.html)
+- [&#39;Dracula&#39;s Chivito&#39;: Hubble reveals largest birthplace of planets ever observed](https://phys.org/news/2025-12-chaotic-dracula-chivito-hubble-reveals.html)
+- [Open source USB to GPIB converter &lpar;for Test and Measurement instruments&rpar;](https://github.com/xyphro/UsbGpib)
+- [Nabokov&#39;s guide to foreigners learning Russian](https://twitter.com/haravayin_hogh/status/2003299405907247502)
+- [Stronk.app – open-source gym lifts journal](https://news.ycombinator.com/item?id=46371139)
+- [Unifi Travel Router](https://blog.ui.com/article/travel-in-style-unifi-style-unifi-travel-router)
+- [Is Northern Virginia still the least reliable AWS region?](https://statusgator.com/blog/aws-least-reliable-region-in-2025/)
+- [Texas app store age verification law blocked by federal judge](https://www.macrumors.com/2025/12/23/texas-app-store-law-blocked/)
+- [X-ray: a Python library for finding bad redactions in PDF documents](https://github.com/freelawproject/x-ray)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

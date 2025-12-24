@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [England defend mid-Ashes beach break but will look into reports claiming excessive drinking](https://www.theguardian.com/sport/2025/dec/23/england-cricket-mid-ashes-break-noosa-excessive-drinking)
-- [Trump complains Epstein files are damaging people who ‘innocently met’ him](https://www.theguardian.com/us-news/2025/dec/23/trump-complains-epstein-files-are-damaging-people-who-innocently-met-him)
-- [Ukraine war briefing: Russian forces attack Odesa twice in one day](https://www.theguardian.com/world/2025/dec/23/ukraine-war-briefing-russian-forces-attack-odesa-twice-in-one-day)
-- [Trump news at a glance: president breaks with convention to name new battleships after himself](https://www.theguardian.com/us-news/2025/dec/23/donald-trump-administration-news-updates-today-latest)
-- [‘Is this real?’: wife of detained pastor describes anguish as China cracks down on unofficial churches](https://www.theguardian.com/world/2025/dec/23/christians-pastors-arrested-detained-china-crackdown-house-churches)
-- [Former BlackRock executive Mark Wiseman named as Canada’s next ambassador to US](https://www.theguardian.com/world/2025/dec/23/former-blackrock-executive-mark-wiseman-named-as-canadas-next-ambassador-to-us)
-- [Trump administration plans to promote loyal diplomats after recall of 30 ambassadors, sources say](https://www.theguardian.com/us-news/2025/dec/23/trump-administration-recalls-30-ambassadors-promote-loyal-diplomats)
-- [Fiji wrestles with plans to restore Indigenous rights over world-famous surf breaks](https://www.theguardian.com/world/2025/dec/23/fiji-surfing-cloudbreak-restore-indigenous-rights)
-- [Prosecutions for strangulation in England and Wales increase sixfold in three years](https://www.theguardian.com/society/2025/dec/23/strangulation-prosecutions-england-wales-increase-sixfold-three-years)
-- [Former mineworkers celebrate ‘historic’ £100-a-week UK pensions boost](https://www.theguardian.com/money/2025/dec/23/former-mineworkers-celebrate-historic-100-a-week-uk-pensions-boost)
+- [Trump news at a glance: President claims tariffs behind unexpected growth, but consumer confidence falls](https://www.theguardian.com/us-news/2025/dec/24/trump-administration-news-updates-today-latest)
+- [Rare footage from trial of Chinese general who defied Tiananmen crackdown order leaked online](https://www.theguardian.com/world/2025/dec/24/rare-footage-from-trial-of-chinese-general-who-defied-tiananmen-crackdown-order-leaked-online)
+- [American woman accused of killing her two children extradited to US from UK](https://www.theguardian.com/us-news/2025/dec/23/kimberlee-singler-extradited)
+- [Former EU commissioner and activists barred from US in attack on European tech regulators](https://www.theguardian.com/technology/2025/dec/24/us-state-department-visa-ban-former-eu-commissioner-europe)
+- [Sivert Guttorm Bakken, Winter Olympics hopeful, dies at training camp aged 27](https://www.theguardian.com/sport/2025/dec/24/winter-olympics-hopeful-sivert-guttorm-bakken-dies-at-training-camp)
+- [TikToker who allegedly hit and killed man while livestreaming is arrested](https://www.theguardian.com/us-news/2025/dec/23/tiktok-tea-tyme-hit-and-run)
+- [After more than a decade of tragedy, Christchurch emerges as New Zealand’s most ‘vibrant city’](https://www.theguardian.com/world/2025/dec/24/christchurch-new-zealand-most-vibrant-city)
+- [Keir Starmer encourages Britons to ‘reach out’ to others this Christmas](https://www.theguardian.com/politics/2025/dec/24/keir-starmer-christmas-message-kemi-badenoch-ed-davey)
+- [Libya’s army chief dies in plane crash in Turkey](https://www.theguardian.com/world/2025/dec/23/libyas-army-chief-dies-in-plane-crash-in-turkey)
+- [Brooks Koepka quits LIV Golf after three years but PGA Tour return uncertain](https://www.theguardian.com/sport/2025/dec/23/brooks-koepka-liv-golf-pga-tour)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

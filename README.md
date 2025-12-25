@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Correspondence Between Don Knuth and Peter van Emde Boas on Priority Deques 1977 [pdf]](https://staff.fnwi.uva.nl/p.vanemdeboas/knuthnote.pdf)
-- [Could lockfiles just be SBOMs?](https://nesbitt.io/2025/12/23/could-lockfiles-just-be-sboms.html)
-- [&#39;Dracula&#39;s Chivito&#39;: Hubble reveals largest birthplace of planets ever observed](https://phys.org/news/2025-12-chaotic-dracula-chivito-hubble-reveals.html)
-- [Open source USB to GPIB converter &lpar;for Test and Measurement instruments&rpar;](https://github.com/xyphro/UsbGpib)
-- [Nabokov&#39;s guide to foreigners learning Russian](https://twitter.com/haravayin_hogh/status/2003299405907247502)
-- [Stronk.app – open-source gym lifts journal](https://news.ycombinator.com/item?id=46371139)
-- [Unifi Travel Router](https://blog.ui.com/article/travel-in-style-unifi-style-unifi-travel-router)
-- [Is Northern Virginia still the least reliable AWS region?](https://statusgator.com/blog/aws-least-reliable-region-in-2025/)
-- [Texas app store age verification law blocked by federal judge](https://www.macrumors.com/2025/12/23/texas-app-store-law-blocked/)
-- [X-ray: a Python library for finding bad redactions in PDF documents](https://github.com/freelawproject/x-ray)
+- [Who Watches the Waymos? I do [video]](https://www.youtube.com/watch?v=oYU2hAbx_Fc)
+- [Microsoft please get your tab to autocomplete shit together](https://ivanca.github.io/programming/2025/11/26/microsoft-pls-get-your-tab-to-autocomplete-shit-together/)
+- [Asterisk AI Voice Agent](https://github.com/hkjarral/Asterisk-AI-Voice-Agent)
+- [Tell HN: Merry Christmas](https://news.ycombinator.com/item?id=46380168)
+- [Phoenix: A modern X server written from scratch in Zig](https://git.dec05eba.com/phoenix/about/)
+- [How I Left YouTube](https://zhach.news/how-i-left-youtube/)
+- [Nvidia buying AI chip startup Groq for about $20B in cash](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html)
+- [Keystone &lpar;YC S25&rpar; is hiring engineer #1 to automate coding](https://www.ycombinator.com/companies/keystone/jobs/J3t9XeM-founding-engineer)
+- [Spaced repetition for efficient learning &lpar;2019&rpar;](https://gwern.net/spaced-repetition)
+- [Show HN: Minimalist editor that lives in browser, stores everything in the URL](https://github.com/antonmedv/textarea)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

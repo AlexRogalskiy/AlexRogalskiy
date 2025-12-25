@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [China bans sharing &#39;obscene&#39; material – potentially including sexting](https://www.washingtonpost.com/world/2025/12/23/china-porn-ban-online-censorship/)
-- [Yendor: A Zach-like, rogue-like game and language made in 7 days](https://github.com/olifog/YENDOR)
-- [China Delays Plans for Mass Production of Self-Driving Cars After Accident](https://www.nytimes.com/2025/12/23/business/china-autonomous-cars-driving.html)
-- [Poetiq achieves 75% at under $8 / problem using GPT-5.2 X-High on ARC-AGI-2](https://poetiq.ai/posts/arcagi_announcement/)
-- [A semantic POP-style framework for structuring AI-assisted programs](https://github.com/dohuyhoang93/theus/blob/main/README.md)
-- [How to Become AGI: From Capitalism to Compute-Ism](https://medium.com/@zichengxu/how-to-become-agi-a5b2d7d74bda)
-- [Casuistic Alignment](https://fi-le.net/casuism/)
-- [Show HN: Depsy – normalized SaaS dependency health in one API call &lpar;cached,fast&rpar;](https://depsy.io/)
-- [Show HN: Send free letters to your future self or others](https://lettertolater.com)
-- [DownDownDown Come and challenge the 100th floor game](https://downdowndown.live/)
+- [Supporting Hoperf CMT2300A on Linux](https://rfcorner.in/posts/supporting-cmt2300a-on-linux/)
+- [The most damaging taboo about sexual violence](https://write.as/3k6gb4heu8whz)
+- [Show HN: RetroMol – Turn protein structures into pixel art](https://retromol.vercel.app)
+- [Two ancient humans, including famed &#39;Iceman,&#39; had cancer-causing virus](https://www.science.org/content/article/two-ancient-humans-including-famed-iceman-had-cancer-causing-virus)
+- [Facebook deploys the Steam Deck&#39;s Linux scheduler across its data centers](https://www.tomshardware.com/software/linux/facebook-deploys-the-steam-decks-linux-scheduler-across-its-data-centers-valves-low-latency-scheduler-perfect-for-managing-metas-workloads-at-massive-data-centers)
+- [Learn LaTeX in 30 Minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
+- [Project Dropstone: A Neuro-Symbolic Runtime for Long-Horizon Engineering [pdf]](https://archive.blankline.org/api/media/file/d3_engine_public_release%20(1)-1.pdf)
+- [Show HN: Collaborative Cloud-Based IDE for Lean 4](https://prove.reaslab.io/weblog/show-hn)
+- [The Dangerous Feature in Tesla&#39;s Doors [video]](https://www.youtube.com/watch?v=-vUnckrH5jE)
+- [Show HN: A living system of software that grows over time](https://XCTBL.com)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Trump news at a glance: President claims tariffs behind unexpected growth, but consumer confidence falls](https://www.theguardian.com/us-news/2025/dec/24/trump-administration-news-updates-today-latest)
-- [Rare footage from trial of Chinese general who defied Tiananmen crackdown order leaked online](https://www.theguardian.com/world/2025/dec/24/rare-footage-from-trial-of-chinese-general-who-defied-tiananmen-crackdown-order-leaked-online)
-- [American woman accused of killing her two children extradited to US from UK](https://www.theguardian.com/us-news/2025/dec/23/kimberlee-singler-extradited)
-- [Former EU commissioner and activists barred from US in attack on European tech regulators](https://www.theguardian.com/technology/2025/dec/24/us-state-department-visa-ban-former-eu-commissioner-europe)
-- [Sivert Guttorm Bakken, Winter Olympics hopeful, dies at training camp aged 27](https://www.theguardian.com/sport/2025/dec/24/winter-olympics-hopeful-sivert-guttorm-bakken-dies-at-training-camp)
-- [TikToker who allegedly hit and killed man while livestreaming is arrested](https://www.theguardian.com/us-news/2025/dec/23/tiktok-tea-tyme-hit-and-run)
-- [After more than a decade of tragedy, Christchurch emerges as New Zealand’s most ‘vibrant city’](https://www.theguardian.com/world/2025/dec/24/christchurch-new-zealand-most-vibrant-city)
-- [Keir Starmer encourages Britons to ‘reach out’ to others this Christmas](https://www.theguardian.com/politics/2025/dec/24/keir-starmer-christmas-message-kemi-badenoch-ed-davey)
-- [Libya’s army chief dies in plane crash in Turkey](https://www.theguardian.com/world/2025/dec/23/libyas-army-chief-dies-in-plane-crash-in-turkey)
-- [Brooks Koepka quits LIV Golf after three years but PGA Tour return uncertain](https://www.theguardian.com/sport/2025/dec/23/brooks-koepka-liv-golf-pga-tour)
+- [Car with ‘Happy Chanukah’ sign firebombed in suspected antisemitic attack in Melbourne](https://www.theguardian.com/australia-news/2025/dec/25/car-with-happy-chanukah-sign-firebombed-in-suspected-antisemitic-attack-in-melbourne)
+- [Tiny Pacific nation of Palau to take migrants from US in return for aid](https://www.theguardian.com/world/2025/dec/25/tiny-pacific-nation-of-palau-to-take-migrants-from-us-in-return-for-aid)
+- [No pain, no game: how South Korea turned itself into a gaming powerhouse](https://www.theguardian.com/world/2025/dec/25/south-korea-video-game-powerhouse)
+- [Trump-backed candidate Asfura declared new president of Honduras](https://www.theguardian.com/world/2025/dec/24/honduras-nasry-tito-asfura-declared-president-donald-trump-backed)
+- [Afcon roundup: Algeria beat 10-man Sudan and Côte d’Ivoire start defence with win](https://www.theguardian.com/football/2025/dec/24/afcon-roundup-burkina-faso-equatorial-guinea-algeria-sudan)
+- [Two Doors Down Christmas Special review – festive larks with TV’s most hilarious monsters](https://www.theguardian.com/tv-and-radio/2025/dec/24/two-doors-down-christmas-special-review-bbc-one-iplayer)
+- [The Room in the Tower: A Ghost Story for Christmas review – Tobias Menzies is perfect in Mark Gatiss’s spooky tale](https://www.theguardian.com/tv-and-radio/2025/dec/24/the-room-in-the-tower-a-ghost-story-for-christmas-review-tobias-menzies-mark-gatiss-bbc)
+- [Pope Leo calls for kindness to strangers and the poor in Christmas message](https://www.theguardian.com/world/2025/dec/24/pope-leo-christmas-message-kindness-strangers-poor)
+- [UK, Canada and Germany condemn Israel for 19 new West Bank settlements](https://www.theguardian.com/world/2025/dec/24/israel-condemned-approval-19-settlements-occupied-west-bank)
+- [Finding Father Christmas review – Lenny Rush and James Buckley’s chemistry is just wonderful](https://www.theguardian.com/tv-and-radio/2025/dec/24/finding-father-christmas-review-lenny-rush-james-buckley-channel-4)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

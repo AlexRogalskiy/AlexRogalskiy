@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Supporting Hoperf CMT2300A on Linux](https://rfcorner.in/posts/supporting-cmt2300a-on-linux/)
-- [The most damaging taboo about sexual violence](https://write.as/3k6gb4heu8whz)
-- [Show HN: RetroMol – Turn protein structures into pixel art](https://retromol.vercel.app)
-- [Two ancient humans, including famed &#39;Iceman,&#39; had cancer-causing virus](https://www.science.org/content/article/two-ancient-humans-including-famed-iceman-had-cancer-causing-virus)
-- [Facebook deploys the Steam Deck&#39;s Linux scheduler across its data centers](https://www.tomshardware.com/software/linux/facebook-deploys-the-steam-decks-linux-scheduler-across-its-data-centers-valves-low-latency-scheduler-perfect-for-managing-metas-workloads-at-massive-data-centers)
-- [Learn LaTeX in 30 Minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
-- [Project Dropstone: A Neuro-Symbolic Runtime for Long-Horizon Engineering [pdf]](https://archive.blankline.org/api/media/file/d3_engine_public_release%20(1)-1.pdf)
-- [Show HN: Collaborative Cloud-Based IDE for Lean 4](https://prove.reaslab.io/weblog/show-hn)
-- [The Dangerous Feature in Tesla&#39;s Doors [video]](https://www.youtube.com/watch?v=-vUnckrH5jE)
-- [Show HN: A living system of software that grows over time](https://XCTBL.com)
+- [WiFi DensePose: WiFi-based dense human pose estimation system through walls](https://github.com/ruvnet/wifi-densepose)
+- [Show HN: A Claude Code plugin that catch destructive Git and filesystem commands](https://github.com/kenryu42/claude-code-safety-net)
+- [Show HN: I built a tutor that teaches only by asking questions](https://sovyr-learn.vercel.app/)
+- [Show HN: Fun sketch – Bring your sketches to life](https://funsketch.kigun.org/)
+- [HUML &lpar;Human-oriented Markup Language&rpar; [video]](https://www.youtube.com/watch?v=4M_tD1N14Ao)
+- [Mathematically extra-complicated Secretest Santa 2025 &lpar;suckerpinch/tom7&rpar; [video]](https://www.youtube.com/watch?v=4pG8_bWpmaE)
+- [macOS Terminal – still missing the mark Apple](https://garrett.damore.org/2025/12/macos-terminal-still-missing-mark-apple.html)
+- [Make your PR process resilient to AI slop](https://www.pcloadletter.dev/blog/pr-review-ai-slop-resilience/)
+- [Instagram CLI – A terminal client to use social media more intentionally](https://github.com/supreme-gg-gg/instagram-cli)
+- [Golden Literal Testing in UTest 0.9.0](https://www.lihaoyi.com/post/GoldenLiteralTestinginuTest090.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

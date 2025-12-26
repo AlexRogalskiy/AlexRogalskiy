@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Car with ‘Happy Chanukah’ sign firebombed in suspected antisemitic attack in Melbourne](https://www.theguardian.com/australia-news/2025/dec/25/car-with-happy-chanukah-sign-firebombed-in-suspected-antisemitic-attack-in-melbourne)
-- [Tiny Pacific nation of Palau to take migrants from US in return for aid](https://www.theguardian.com/world/2025/dec/25/tiny-pacific-nation-of-palau-to-take-migrants-from-us-in-return-for-aid)
-- [No pain, no game: how South Korea turned itself into a gaming powerhouse](https://www.theguardian.com/world/2025/dec/25/south-korea-video-game-powerhouse)
-- [Trump-backed candidate Asfura declared new president of Honduras](https://www.theguardian.com/world/2025/dec/24/honduras-nasry-tito-asfura-declared-president-donald-trump-backed)
-- [Afcon roundup: Algeria beat 10-man Sudan and Côte d’Ivoire start defence with win](https://www.theguardian.com/football/2025/dec/24/afcon-roundup-burkina-faso-equatorial-guinea-algeria-sudan)
-- [Two Doors Down Christmas Special review – festive larks with TV’s most hilarious monsters](https://www.theguardian.com/tv-and-radio/2025/dec/24/two-doors-down-christmas-special-review-bbc-one-iplayer)
-- [The Room in the Tower: A Ghost Story for Christmas review – Tobias Menzies is perfect in Mark Gatiss’s spooky tale](https://www.theguardian.com/tv-and-radio/2025/dec/24/the-room-in-the-tower-a-ghost-story-for-christmas-review-tobias-menzies-mark-gatiss-bbc)
-- [Pope Leo calls for kindness to strangers and the poor in Christmas message](https://www.theguardian.com/world/2025/dec/24/pope-leo-christmas-message-kindness-strangers-poor)
-- [UK, Canada and Germany condemn Israel for 19 new West Bank settlements](https://www.theguardian.com/world/2025/dec/24/israel-condemned-approval-19-settlements-occupied-west-bank)
-- [Finding Father Christmas review – Lenny Rush and James Buckley’s chemistry is just wonderful](https://www.theguardian.com/tv-and-radio/2025/dec/24/finding-father-christmas-review-lenny-rush-james-buckley-channel-4)
+- [Boxing Day Test 2025: Australia v England fourth Ashes Test, day one – live updates](https://www.theguardian.com/sport/live/2025/dec/26/australia-v-england-fourth-ashes-test-day-one-live-updates-melbourne-mcg)
+- [Stranger Things season five vol 2 review – the fact that this isn’t unbearable is a miracle](https://www.theguardian.com/tv-and-radio/2025/dec/26/stranger-things-season-five-vol-2-review)
+- [‘Not for the people’: Myanmar junta prepares for elections designed to legitimise grip on power](https://www.theguardian.com/world/2025/dec/26/myanmar-junta-prepares-elections-legitimise-power)
+- [US carries out strikes on Nigeria targeting Islamic State militants, Trump says](https://www.theguardian.com/us-news/2025/dec/25/us-carries-out-airstrikes-against-islamic-state-terrorist-scum-in-nigeria-trump-says)
+- [Man charged after allegedly performing Nazi salutes at Canberra shopping centres](https://www.theguardian.com/australia-news/2025/dec/26/man-charged-after-allegedly-performing-nazi-salutes-at-canberra-shopping-centres-ntwnfb)
+- [Burst pipe leaves homes in East Sussex without water on Christmas Day](https://www.theguardian.com/uk-news/2025/dec/25/burst-pipe-leaves-homes-in-east-sussex-without-water-on-christmas-day)
+- [Kobbie Mainoo is ‘the future of Manchester United’, insists Amorim](https://www.theguardian.com/football/2025/dec/25/kobbie-mainoo-is-the-future-of-manchester-united-insists-amorim)
+- [Eddie Howe challenges Newcastle owners to end ‘limbo’ over stadium plans](https://www.theguardian.com/football/2025/dec/25/eddie-howe-challenges-newcastle-owners-to-end-limbo-over-stadium-plans)
+- [Amandaland Christmas special review – Jennifer Saunders is sublime in this Ab Fab reunion](https://www.theguardian.com/tv-and-radio/2025/dec/25/bbc-amandaland-christmas-special-review-jennifer-saunders-is-sublime-in-this-ab-fab-reunion)
+- [There’s an itsy-bitsy fear I want to overcome. I will never be a fan, but can I at least be Normal about spiders? | Rebecca Shaw](https://www.theguardian.com/commentisfree/2025/dec/26/hunstman-huge-spider-australia-arachnophobia)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

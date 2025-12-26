@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Who Watches the Waymos? I do [video]](https://www.youtube.com/watch?v=oYU2hAbx_Fc)
-- [Microsoft please get your tab to autocomplete shit together](https://ivanca.github.io/programming/2025/11/26/microsoft-pls-get-your-tab-to-autocomplete-shit-together/)
-- [Asterisk AI Voice Agent](https://github.com/hkjarral/Asterisk-AI-Voice-Agent)
-- [Tell HN: Merry Christmas](https://news.ycombinator.com/item?id=46380168)
-- [Phoenix: A modern X server written from scratch in Zig](https://git.dec05eba.com/phoenix/about/)
-- [How I Left YouTube](https://zhach.news/how-i-left-youtube/)
-- [Nvidia buying AI chip startup Groq for about $20B in cash](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html)
-- [Keystone &lpar;YC S25&rpar; is hiring engineer #1 to automate coding](https://www.ycombinator.com/companies/keystone/jobs/J3t9XeM-founding-engineer)
-- [Spaced repetition for efficient learning &lpar;2019&rpar;](https://gwern.net/spaced-repetition)
-- [Show HN: Minimalist editor that lives in browser, stores everything in the URL](https://github.com/antonmedv/textarea)
+- [MiniMax M2.1: Built for Real-World Complex Tasks, Multi-Language Programming](https://www.minimaxi.com/news/minimax-m21)
+- [When a driver challenges the kernel&#39;s assumptions](http://miod.online.fr/software/openbsd/stories/udl.html)
+- [Seven Diabetes Patients Die Due to Undisclosed Bug in Abbott&#39;s Glucose Monitors](https://sfconservancy.org/blog/2025/dec/23/seven-abbott-freestyle-libre-cgm-patients-dead/)
+- [Maybe the default settings are too high](https://www.raptitude.com/2025/12/maybe-the-default-settings-are-too-high/)
+- [Google is &#39;gradually rolling out&#39; option to change your gmail.com address](https://9to5google.com/2025/12/24/google-change-gmail-addresses/)
+- [Fahrplan – 39C3](https://fahrplan.events.ccc.de/congress/2025/fahrplan/)
+- [Critical vulnerability in LangChain – CVE-2025-68664](https://cyata.ai/blog/langgrinch-langchain-core-cve-2025-68664/)
+- [Clearspace &lpar;YC W23&rpar; Is Hiring a Founding Network Engineer &lpar;VPN and Proxy&rpar;](https://www.ycombinator.com/companies/clearspace/jobs/5LtM86I-founding-network-engineer-at-clearspace)
+- [I sell onions on the Internet &lpar;2019&rpar;](https://www.deepsouthventures.com/i-sell-onions-on-the-internet/)
+- [Ask HN: What skills do you want to develop or improve in 2026?](https://news.ycombinator.com/item?id=46385197)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

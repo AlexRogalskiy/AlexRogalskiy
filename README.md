@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Boxing Day Test 2025: Australia v England fourth Ashes Test, day one – live updates](https://www.theguardian.com/sport/live/2025/dec/26/australia-v-england-fourth-ashes-test-day-one-live-updates-melbourne-mcg)
-- [Stranger Things season five vol 2 review – the fact that this isn’t unbearable is a miracle](https://www.theguardian.com/tv-and-radio/2025/dec/26/stranger-things-season-five-vol-2-review)
-- [‘Not for the people’: Myanmar junta prepares for elections designed to legitimise grip on power](https://www.theguardian.com/world/2025/dec/26/myanmar-junta-prepares-elections-legitimise-power)
-- [US carries out strikes on Nigeria targeting Islamic State militants, Trump says](https://www.theguardian.com/us-news/2025/dec/25/us-carries-out-airstrikes-against-islamic-state-terrorist-scum-in-nigeria-trump-says)
-- [Man charged after allegedly performing Nazi salutes at Canberra shopping centres](https://www.theguardian.com/australia-news/2025/dec/26/man-charged-after-allegedly-performing-nazi-salutes-at-canberra-shopping-centres-ntwnfb)
-- [Burst pipe leaves homes in East Sussex without water on Christmas Day](https://www.theguardian.com/uk-news/2025/dec/25/burst-pipe-leaves-homes-in-east-sussex-without-water-on-christmas-day)
-- [Kobbie Mainoo is ‘the future of Manchester United’, insists Amorim](https://www.theguardian.com/football/2025/dec/25/kobbie-mainoo-is-the-future-of-manchester-united-insists-amorim)
-- [Eddie Howe challenges Newcastle owners to end ‘limbo’ over stadium plans](https://www.theguardian.com/football/2025/dec/25/eddie-howe-challenges-newcastle-owners-to-end-limbo-over-stadium-plans)
-- [Amandaland Christmas special review – Jennifer Saunders is sublime in this Ab Fab reunion](https://www.theguardian.com/tv-and-radio/2025/dec/25/bbc-amandaland-christmas-special-review-jennifer-saunders-is-sublime-in-this-ab-fab-reunion)
-- [There’s an itsy-bitsy fear I want to overcome. I will never be a fan, but can I at least be Normal about spiders? | Rebecca Shaw](https://www.theguardian.com/commentisfree/2025/dec/26/hunstman-huge-spider-australia-arachnophobia)
+- [Boxing Day Test 2025: Australia v England fourth Ashes Test, day two – live updates](https://www.theguardian.com/sport/live/2025/dec/26/australia-vs-england-live-ashes-fourth-4th-test-day-two-aus-v-eng-cricket-scores-updates-mcg)
+- [Ukraine war briefing: Kim Jong-un celebrates sharing ‘blood, life and death’ with Russia](https://www.theguardian.com/world/2025/dec/27/ukraine-war-briefing-kim-jong-un-celebrates-sharing-blood-life-and-death-with-russia)
+- [Israel becomes first country to recognise Somaliland as sovereign state](https://www.theguardian.com/world/2025/dec/26/israel-first-country-to-recognise-somaliland-sovereign-state)
+- [Mudslides bury cars and homes up to their windows in California town](https://www.theguardian.com/us-news/2025/dec/26/california-storms-wind-rain-snow)
+- [King Charles and Prince William expected to visit US in 2026 to revitalise trade deal](https://www.theguardian.com/uk-news/2025/dec/27/king-charles-prince-william-expected-to-visit-us-in-2026-to-revitalise-trade-deal)
+- [Cyclones, floods and wildfires among 2025’s costliest climate-related disasters](https://www.theguardian.com/world/2025/dec/27/cyclones-floods-and-wildfires-among-2025s-costliest-climate-related-disasters)
+- [Afcon roundup: Mohamed Salah strikes again as 10-man Egypt hold off South Africa](https://www.theguardian.com/football/2025/dec/26/afcon-roundup-mohamed-salah-strikes-again-as-10-man-egypt-hold-off-south-africa)
+- [Patrick Dorgu volley powers Manchester United into fifth as Newcastle misfire](https://www.theguardian.com/football/2025/dec/26/manchester-united-newcastle-united-premier-league-match-report)
+- [Perry Bamonte, guitarist and keyboardist for the Cure, dies aged 65](https://www.theguardian.com/music/2025/dec/26/perry-bamonte-guitarist-the-cure-dies)
+- [The week around the world in 20 pictures](https://www.theguardian.com/artanddesign/gallery/2025/dec/26/the-week-around-the-world-in-20-pictures)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

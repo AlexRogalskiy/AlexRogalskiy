@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [MiniMax M2.1: Built for Real-World Complex Tasks, Multi-Language Programming](https://www.minimaxi.com/news/minimax-m21)
-- [When a driver challenges the kernel&#39;s assumptions](http://miod.online.fr/software/openbsd/stories/udl.html)
-- [Seven Diabetes Patients Die Due to Undisclosed Bug in Abbott&#39;s Glucose Monitors](https://sfconservancy.org/blog/2025/dec/23/seven-abbott-freestyle-libre-cgm-patients-dead/)
-- [Maybe the default settings are too high](https://www.raptitude.com/2025/12/maybe-the-default-settings-are-too-high/)
-- [Google is &#39;gradually rolling out&#39; option to change your gmail.com address](https://9to5google.com/2025/12/24/google-change-gmail-addresses/)
-- [Fahrplan – 39C3](https://fahrplan.events.ccc.de/congress/2025/fahrplan/)
-- [Critical vulnerability in LangChain – CVE-2025-68664](https://cyata.ai/blog/langgrinch-langchain-core-cve-2025-68664/)
-- [Clearspace &lpar;YC W23&rpar; Is Hiring a Founding Network Engineer &lpar;VPN and Proxy&rpar;](https://www.ycombinator.com/companies/clearspace/jobs/5LtM86I-founding-network-engineer-at-clearspace)
-- [I sell onions on the Internet &lpar;2019&rpar;](https://www.deepsouthventures.com/i-sell-onions-on-the-internet/)
-- [Ask HN: What skills do you want to develop or improve in 2026?](https://news.ycombinator.com/item?id=46385197)
+- [Retreating from EVs could be hazardous for Western carmakers](https://www.economist.com/business/2025/12/17/retreating-from-evs-could-be-hazardous-for-western-carmakers)
+- [QNX Self-Hosted Developer Desktop](https://devblog.qnx.com/qnx-self-hosted-developer-desktop-initial-release/)
+- [Publishing your work increases your luck](https://github.com/readme/guides/publishing-your-work)
+- [Always Bet on Text](https://graydon2.dreamwidth.org/193447.html)
+- [T-Ruby is Ruby with syntax for types](https://type-ruby.github.io/)
+- [Gaussian Splatting 3 Ways](https://github.com/NullandKale/NullSplats)
+- [My insulin pump controller uses the Linux kernel. It also violates the GPL](https://old.reddit.com/r/linux/comments/1puojsr/the_device_that_controls_my_insulin_pump_uses_the/)
+- [How Lewis Carroll computed determinants &lpar;2023&rpar;](https://www.johndcook.com/blog/2023/07/10/lewis-carroll-determinants/)
+- [Drawing with zero-width characters](https://zw.swerdlow.dev)
+- [MongoBleed](https://github.com/joe-desimone/mongobleed/blob/main/mongobleed.py)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [WiFi DensePose: WiFi-based dense human pose estimation system through walls](https://github.com/ruvnet/wifi-densepose)
-- [Show HN: A Claude Code plugin that catch destructive Git and filesystem commands](https://github.com/kenryu42/claude-code-safety-net)
-- [Show HN: I built a tutor that teaches only by asking questions](https://sovyr-learn.vercel.app/)
-- [Show HN: Fun sketch – Bring your sketches to life](https://funsketch.kigun.org/)
-- [HUML &lpar;Human-oriented Markup Language&rpar; [video]](https://www.youtube.com/watch?v=4M_tD1N14Ao)
-- [Mathematically extra-complicated Secretest Santa 2025 &lpar;suckerpinch/tom7&rpar; [video]](https://www.youtube.com/watch?v=4pG8_bWpmaE)
-- [macOS Terminal – still missing the mark Apple](https://garrett.damore.org/2025/12/macos-terminal-still-missing-mark-apple.html)
-- [Make your PR process resilient to AI slop](https://www.pcloadletter.dev/blog/pr-review-ai-slop-resilience/)
-- [Instagram CLI – A terminal client to use social media more intentionally](https://github.com/supreme-gg-gg/instagram-cli)
-- [Golden Literal Testing in UTest 0.9.0](https://www.lihaoyi.com/post/GoldenLiteralTestinginuTest090.html)
+- [CorsixTH – An open source clone of Theme Hospital](https://corsixth.com)
+- [Emergent temporal abstractions in autoregressive models enable hierarchical RL](https://arxiv.org/abs/2512.20605)
+- [Aichat for SSH](https://github.com/au-zen/sh-ai)
+- [The Proton, the &#39;Most Complicated Thing You Could Possibly Imagine&#39;](https://www.quantamagazine.org/inside-the-proton-the-most-complicated-thing-imaginable-20221019/)
+- [Former ULA President and CEO Tory Bruno Joins Blue Origin](https://spaceflightnow.com/2025/12/26/former-ula-president-and-ceo-tory-bruno-joins-blue-origin/)
+- [We&#39;re Delegating More and More Thinking to AI](https://www.railly.dev/blog/on-ai-detox/)
+- [Ask HN: Non-native speaker here – how to avoid sounding like ChatGPT?](https://news.ycombinator.com/item?id=46398608)
+- [State of Vibe 2025 – Vibe Creation Ecosystem Report of China](https://stateofvibe.ai/)
+- [Probably Post More](https://www.aadillpickle.com/blog/post-more)
+- [All my senses are being tortured simultaneously](https://news.lettersofnote.com/p/all-my-senses-are-being-tortured)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

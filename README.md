@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Boxing Day Test 2025: Australia v England fourth Ashes Test, day two – live updates](https://www.theguardian.com/sport/live/2025/dec/26/australia-vs-england-live-ashes-fourth-4th-test-day-two-aus-v-eng-cricket-scores-updates-mcg)
-- [Ukraine war briefing: Kim Jong-un celebrates sharing ‘blood, life and death’ with Russia](https://www.theguardian.com/world/2025/dec/27/ukraine-war-briefing-kim-jong-un-celebrates-sharing-blood-life-and-death-with-russia)
-- [Israel becomes first country to recognise Somaliland as sovereign state](https://www.theguardian.com/world/2025/dec/26/israel-first-country-to-recognise-somaliland-sovereign-state)
-- [Mudslides bury cars and homes up to their windows in California town](https://www.theguardian.com/us-news/2025/dec/26/california-storms-wind-rain-snow)
-- [King Charles and Prince William expected to visit US in 2026 to revitalise trade deal](https://www.theguardian.com/uk-news/2025/dec/27/king-charles-prince-william-expected-to-visit-us-in-2026-to-revitalise-trade-deal)
-- [Cyclones, floods and wildfires among 2025’s costliest climate-related disasters](https://www.theguardian.com/world/2025/dec/27/cyclones-floods-and-wildfires-among-2025s-costliest-climate-related-disasters)
-- [Afcon roundup: Mohamed Salah strikes again as 10-man Egypt hold off South Africa](https://www.theguardian.com/football/2025/dec/26/afcon-roundup-mohamed-salah-strikes-again-as-10-man-egypt-hold-off-south-africa)
-- [Patrick Dorgu volley powers Manchester United into fifth as Newcastle misfire](https://www.theguardian.com/football/2025/dec/26/manchester-united-newcastle-united-premier-league-match-report)
-- [Perry Bamonte, guitarist and keyboardist for the Cure, dies aged 65](https://www.theguardian.com/music/2025/dec/26/perry-bamonte-guitarist-the-cure-dies)
-- [The week around the world in 20 pictures](https://www.theguardian.com/artanddesign/gallery/2025/dec/26/the-week-around-the-world-in-20-pictures)
+- [MCG curator concedes pitch went ‘too far’ in favouring bowlers amid criticism over short Boxing Day Test](https://www.theguardian.com/sport/2025/dec/28/mcg-curator-concedes-pitch-went-too-far-in-favouring-bowlers-amid-criticism-over-short-boxing-day-test)
+- [Myanmar elections: voting begins under junta stranglehold with Aung San Suu Kyi banned](https://www.theguardian.com/world/2025/dec/28/myanmar-elections-voting-begins-under-junta-stranglehold-with-aung-san-suu-kyi-banned)
+- [Myanmar is going to the polls. But it’s not the people who hold the power – it’s China](https://www.theguardian.com/world/2025/dec/28/myanmar-is-going-to-the-polls-but-its-not-the-people-who-hold-the-power-its-china)
+- [PDC world championship: James Hurrell stuns Stephen Bunting in thriller](https://www.theguardian.com/sport/2025/dec/27/pdc-world-championship-james-hurrell-stephen-bunting-luke-littler-darts)
+- [The Hunting Wives review – the most perfect trash TV ever](https://www.theguardian.com/tv-and-radio/2025/dec/27/the-hunting-wives-review-most-perfect-trash-tv-ever)
+- [Bayeux tapestry to be insured for £800m for British Museum exhibition](https://www.theguardian.com/world/2025/dec/27/bayeux-tapestry-to-be-insured-for-800m-for-british-museum-exhibition)
+- [Equal pay settlements for female council workers pass £1bn](https://www.theguardian.com/society/2025/dec/27/equal-pay-settlements-for-female-council-workers-pass-1bn)
+- [Tommy Freeman hat-trick topples Bath and sends Northampton to Prem summit](https://www.theguardian.com/sport/2025/dec/27/bath-northampton-prem-rugby-match-report)
+- [Monolithic belief of Guardiolismo has fractured in new era for tactics | Jonathan Wilson](https://www.theguardian.com/football/2025/dec/27/football-tactics-new-era-pep-guardiola-set-pieces)
+- [Zelenskyy heads to Florida for talks with Trump amid fresh strikes on Kyiv](https://www.theguardian.com/world/2025/dec/27/zelenskyy-to-meet-european-leaders-and-trump-for-ukraine-peace-talks-amid-fresh-strikes-on-kyiv)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

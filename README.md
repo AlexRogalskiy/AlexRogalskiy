@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [CorsixTH – An open source clone of Theme Hospital](https://corsixth.com)
-- [Emergent temporal abstractions in autoregressive models enable hierarchical RL](https://arxiv.org/abs/2512.20605)
-- [Aichat for SSH](https://github.com/au-zen/sh-ai)
-- [The Proton, the &#39;Most Complicated Thing You Could Possibly Imagine&#39;](https://www.quantamagazine.org/inside-the-proton-the-most-complicated-thing-imaginable-20221019/)
-- [Former ULA President and CEO Tory Bruno Joins Blue Origin](https://spaceflightnow.com/2025/12/26/former-ula-president-and-ceo-tory-bruno-joins-blue-origin/)
-- [We&#39;re Delegating More and More Thinking to AI](https://www.railly.dev/blog/on-ai-detox/)
-- [Ask HN: Non-native speaker here – how to avoid sounding like ChatGPT?](https://news.ycombinator.com/item?id=46398608)
-- [State of Vibe 2025 – Vibe Creation Ecosystem Report of China](https://stateofvibe.ai/)
-- [Probably Post More](https://www.aadillpickle.com/blog/post-more)
-- [All my senses are being tortured simultaneously](https://news.lettersofnote.com/p/all-my-senses-are-being-tortured)
+- [AI skeptic DeSantis: &#39;We have to reject that with every fiber of our being&#39;](https://www.politico.com/news/2025/12/27/we-have-to-reject-that-with-every-fiber-of-our-being-desantis-emerges-as-a-chief-ai-skeptic-00704333)
+- [The story of pantomime](https://www.vam.ac.uk/articles/the-story-of-pantomime)
+- [Nvidia deal a big win for Groq employees and investors](https://www.axios.com/2025/12/28/nvidia-groq-shareholders)
+- [Still Bother to Learn to Program](https://jeffmorhous.com/learn-to-program-with-ai/)
+- [Ask HN: HN Blocks Sites Like Fox News?](https://news.ycombinator.com/item?id=46408080)
+- [Scripts Stats](https://vermaden.wordpress.com/2025/12/28/scripts-stats/)
+- [Building the Monolith: Composable Rendering Systems for a 13-Scene WebGL Epic](https://tympanus.net/codrops/2025/11/29/building-the-monolith-composable-rendering-systems-for-a-13-scene-webgl-epic/)
+- [Acquacotta – A Pomodoro system using Google Sheets as a database](https://github.com/fatherlinux/Acquacotta)
+- [Cursed Bundler: Using Go Get to Install Ruby Gems – Andrew Nesbitt](https://nesbitt.io/2025/12/25/cursed-bundler-using-go-get-to-install-ruby-gems.html)
+- [The Boss Who Gave His Employees a $240M Gift](https://www.wsj.com/business/fibrebond-eaton-bonus-walker-30844d62)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Retreating from EVs could be hazardous for Western carmakers](https://www.economist.com/business/2025/12/17/retreating-from-evs-could-be-hazardous-for-western-carmakers)
-- [QNX Self-Hosted Developer Desktop](https://devblog.qnx.com/qnx-self-hosted-developer-desktop-initial-release/)
-- [Publishing your work increases your luck](https://github.com/readme/guides/publishing-your-work)
-- [Always Bet on Text](https://graydon2.dreamwidth.org/193447.html)
-- [T-Ruby is Ruby with syntax for types](https://type-ruby.github.io/)
-- [Gaussian Splatting 3 Ways](https://github.com/NullandKale/NullSplats)
-- [My insulin pump controller uses the Linux kernel. It also violates the GPL](https://old.reddit.com/r/linux/comments/1puojsr/the_device_that_controls_my_insulin_pump_uses_the/)
-- [How Lewis Carroll computed determinants &lpar;2023&rpar;](https://www.johndcook.com/blog/2023/07/10/lewis-carroll-determinants/)
-- [Drawing with zero-width characters](https://zw.swerdlow.dev)
-- [MongoBleed](https://github.com/joe-desimone/mongobleed/blob/main/mongobleed.py)
+- [Fathers’ choices may be packaged and passed down in sperm RNA](https://www.quantamagazine.org/how-dads-fitness-may-be-packaged-and-passed-down-in-sperm-rna-20251222/)
+- [Replacing JavaScript with Just HTML](https://www.htmhell.dev/adventcalendar/2025/27/)
+- [Show HN: Viral Potential Predictor](https://hn-ph.vercel.app)
+- [Functional programming and reliability: ADTs, safety, critical infrastructure](https://blog.rastrian.dev/post/why-reliability-demands-functional-programming-adts-safety-and-critical-infrastructure)
+- [7- and 14-segment fonts &quot;DSEG&quot;](https://www.keshikan.net/fonts.html)
+- [The Dangers of SSL Certificates](https://surfingcomplexity.blog/2025/12/27/the-dangers-of-ssl-certificates/)
+- [Liberating Bluetooth on the ESP32](https://exquisite.tube/w/mEzF442Q4hUXnhQ8HmfZuq)
+- [Pfizer ended up passing on my GLP-1 work back in the early &#39;90s &lpar;2024&rpar;](https://www.statnews.com/2024/09/09/glp-1-history-pfizer-john-baxter-jeffrey-flier-calbio-metabio/)
+- [Say No to Palantir in the NHS](https://notopalantir.goodlawproject.org/email-to-target/stop-palantir-in-the-nhs/)
+- [Richard Stallman at the First Hackers Conference in 1984 [video]](https://www.youtube.com/watch?v=Hf2pfzzWPYE)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

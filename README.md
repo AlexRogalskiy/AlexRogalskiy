@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [AI skeptic DeSantis: &#39;We have to reject that with every fiber of our being&#39;](https://www.politico.com/news/2025/12/27/we-have-to-reject-that-with-every-fiber-of-our-being-desantis-emerges-as-a-chief-ai-skeptic-00704333)
-- [The story of pantomime](https://www.vam.ac.uk/articles/the-story-of-pantomime)
-- [Nvidia deal a big win for Groq employees and investors](https://www.axios.com/2025/12/28/nvidia-groq-shareholders)
-- [Still Bother to Learn to Program](https://jeffmorhous.com/learn-to-program-with-ai/)
-- [Ask HN: HN Blocks Sites Like Fox News?](https://news.ycombinator.com/item?id=46408080)
-- [Scripts Stats](https://vermaden.wordpress.com/2025/12/28/scripts-stats/)
-- [Building the Monolith: Composable Rendering Systems for a 13-Scene WebGL Epic](https://tympanus.net/codrops/2025/11/29/building-the-monolith-composable-rendering-systems-for-a-13-scene-webgl-epic/)
-- [Acquacotta – A Pomodoro system using Google Sheets as a database](https://github.com/fatherlinux/Acquacotta)
-- [Cursed Bundler: Using Go Get to Install Ruby Gems – Andrew Nesbitt](https://nesbitt.io/2025/12/25/cursed-bundler-using-go-get-to-install-ruby-gems.html)
-- [The Boss Who Gave His Employees a $240M Gift](https://www.wsj.com/business/fibrebond-eaton-bonus-walker-30844d62)
+- [Hydraulic press flips coin onto its edge on the 11,175th flip after 147 hours](https://www.twitch.tv/hydraulicpresschannel/clip/OilySmallKaleGivePLZ-FxxqhF85A1s_55Nv)
+- [Demystifying DVDs](https://hiddenpalace.org/News/One_Bad_Ass_Hedgehog_-_Shadow_the_Hedgehog#Demystifying_DVDs)
+- [What&#39;s Wrong with the West?](https://spectator.com/article/whats-wrong-with-the-west/)
+- [Starlight Spotlight: A Hospital Wii in a New Light](https://dolphin-emu.org/blog/2025/11/14/starlight-spotlight/)
+- [State Ofthe Art Novel InFlow 1Gearturbine/Reaction 2Imploturbocompressor/Impulse](https://news.ycombinator.com/item?id=46417135)
+- [Xous: A pure Rust rethink of the embedded operating system &lpar;39c3&rpar; [video]](https://media.ccc.de/v/39c3-xous-a-pure-rust-rethink-of-the-embedded-operating-system)
+- [Silent Sirens, flashing for us all](https://importai.substack.com/p/import-ai-438-cyber-capability-overhang)
+- [For Trump, everything&#39;s a &quot;hoax.&quot; It&#39;s pure projection](https://www.salon.com/2025/12/28/for-trump-everythings-a-hoax-its-pure-projection/)
+- [The &lpar;Street Fighter II&rpar; AI Engine &lpar;2017&rpar;](https://sf2platinum.wordpress.com/2017/01/20/the-ai-engine/)
+- [Show HN: I built a tool to fix terrible resumes](https://mobilecv.ai/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

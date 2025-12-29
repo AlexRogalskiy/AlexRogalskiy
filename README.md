@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Fathers’ choices may be packaged and passed down in sperm RNA](https://www.quantamagazine.org/how-dads-fitness-may-be-packaged-and-passed-down-in-sperm-rna-20251222/)
-- [Replacing JavaScript with Just HTML](https://www.htmhell.dev/adventcalendar/2025/27/)
-- [Show HN: Viral Potential Predictor](https://hn-ph.vercel.app)
-- [Functional programming and reliability: ADTs, safety, critical infrastructure](https://blog.rastrian.dev/post/why-reliability-demands-functional-programming-adts-safety-and-critical-infrastructure)
-- [7- and 14-segment fonts &quot;DSEG&quot;](https://www.keshikan.net/fonts.html)
-- [The Dangers of SSL Certificates](https://surfingcomplexity.blog/2025/12/27/the-dangers-of-ssl-certificates/)
-- [Liberating Bluetooth on the ESP32](https://exquisite.tube/w/mEzF442Q4hUXnhQ8HmfZuq)
-- [Pfizer ended up passing on my GLP-1 work back in the early &#39;90s &lpar;2024&rpar;](https://www.statnews.com/2024/09/09/glp-1-history-pfizer-john-baxter-jeffrey-flier-calbio-metabio/)
-- [Say No to Palantir in the NHS](https://notopalantir.goodlawproject.org/email-to-target/stop-palantir-in-the-nhs/)
-- [Richard Stallman at the First Hackers Conference in 1984 [video]](https://www.youtube.com/watch?v=Hf2pfzzWPYE)
+- [You can make up HTML tags](https://maurycyz.com/misc/make-up-tags/)
+- [Self-hosting is being enshittified](https://troubled.engineer/posts/selfhosting-in-2025/)
+- [NextDNS is my new favourite DNS service · Stan&#39;s blog](https://stanislas.blog/2020/04/nextdns/)
+- [Show HN: My app just won best iOS Japanese learning tool of 2025 award &lpar;blog&rpar;](https://skerritt.blog/best-japanese-learning-tools-2025-award-show/)
+- [Fast Cvvdp Implementation in C](https://github.com/halidecx/fcvvdp)
+- [How to Complain &lpar;2024&rpar;](https://outerproduct.net/trivial/2024-03-25_complain.html)
+- [Spherical Cow](https://lib.rs/crates/spherical-cow)
+- [Slaughtering Competition Problems with Quantifier Elimination &lpar;2021&rpar;](https://grossack.site/2021/12/22/qe-competition.html)
+- [62 years in the making: NYC&#39;s newest water tunnel nears the finish line](https://ny1.com/nyc/all-boroughs/news/2025/11/09/water--dep--tunnels-)
+- [What an unprocessed photo looks like](https://maurycyz.com/misc/raw_photo/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

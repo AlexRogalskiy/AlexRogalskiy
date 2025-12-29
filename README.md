@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [MCG curator concedes pitch went ‘too far’ in favouring bowlers amid criticism over short Boxing Day Test](https://www.theguardian.com/sport/2025/dec/28/mcg-curator-concedes-pitch-went-too-far-in-favouring-bowlers-amid-criticism-over-short-boxing-day-test)
-- [Myanmar elections: voting begins under junta stranglehold with Aung San Suu Kyi banned](https://www.theguardian.com/world/2025/dec/28/myanmar-elections-voting-begins-under-junta-stranglehold-with-aung-san-suu-kyi-banned)
-- [Myanmar is going to the polls. But it’s not the people who hold the power – it’s China](https://www.theguardian.com/world/2025/dec/28/myanmar-is-going-to-the-polls-but-its-not-the-people-who-hold-the-power-its-china)
-- [PDC world championship: James Hurrell stuns Stephen Bunting in thriller](https://www.theguardian.com/sport/2025/dec/27/pdc-world-championship-james-hurrell-stephen-bunting-luke-littler-darts)
-- [The Hunting Wives review – the most perfect trash TV ever](https://www.theguardian.com/tv-and-radio/2025/dec/27/the-hunting-wives-review-most-perfect-trash-tv-ever)
-- [Bayeux tapestry to be insured for £800m for British Museum exhibition](https://www.theguardian.com/world/2025/dec/27/bayeux-tapestry-to-be-insured-for-800m-for-british-museum-exhibition)
-- [Equal pay settlements for female council workers pass £1bn](https://www.theguardian.com/society/2025/dec/27/equal-pay-settlements-for-female-council-workers-pass-1bn)
-- [Tommy Freeman hat-trick topples Bath and sends Northampton to Prem summit](https://www.theguardian.com/sport/2025/dec/27/bath-northampton-prem-rugby-match-report)
-- [Monolithic belief of Guardiolismo has fractured in new era for tactics | Jonathan Wilson](https://www.theguardian.com/football/2025/dec/27/football-tactics-new-era-pep-guardiola-set-pieces)
-- [Zelenskyy heads to Florida for talks with Trump amid fresh strikes on Kyiv](https://www.theguardian.com/world/2025/dec/27/zelenskyy-to-meet-european-leaders-and-trump-for-ukraine-peace-talks-amid-fresh-strikes-on-kyiv)
+- [Here are some people you’ll find in every local community Facebook group | Jess Harwood](https://www.theguardian.com/commentisfree/picture/2025/dec/29/here-are-some-people-youll-find-in-every-local-community-facebook-group)
+- [‘We need to know’: Bondi victims’ families demand federal royal commission from PM](https://www.theguardian.com/australia-news/2025/dec/29/bondi-shooting-victims-families-royal-commission-ntwnfb)
+- [Brazilian ex-president Bolsonaro’s treatment for persistent hiccups touches a nerve](https://www.theguardian.com/world/2025/dec/29/brazil-ex-president-jair-bolsonaro-hiccups-treatment)
+- [Matthew Potts poised to play in fifth Ashes Test after England rule out Gus Atkinson](https://www.theguardian.com/sport/2025/dec/29/matthew-potts-fifth-ashes-test-england-cricket)
+- [Help UK ceramics industry or ‘lose piece of national identity’, government told](https://www.theguardian.com/business/2025/dec/29/help-uk-ceramics-industry-or-lose-piece-of-national-identity-government-told-energy-costs)
+- [Humphries given almighty scare by Clemens magic at PDC World Championship](https://www.theguardian.com/sport/2025/dec/28/world-darts-championship-cross-littler-anderson-searle-humphries-van-gerwen)
+- [AI being used to help cut A&amp;E waiting times in England this winter](https://www.theguardian.com/society/2025/dec/28/ai-forecasting-tool-a-and-e-waiting-times-england-winter-nhs)
+- [Energetic Manchester City have lifted last season’s fog, says Pep Guardiola](https://www.theguardian.com/football/2025/dec/28/pep-guardiola-admits-he-and-manchester-city-players-lacked-energy-last-season)
+- [Afcon roundup: Mozambique stun Gabon to end 40-year wait for win](https://www.theguardian.com/football/2025/dec/28/afcon-roundup-mozambique-beat-gabon-to-end-40-year-wait-for-a-win)
+- [Titanic Sinks Tonight review – it’s like you’re reliving that terrifying night](https://www.theguardian.com/tv-and-radio/2025/dec/28/titanic-sinks-tonight-review-its-like-youre-reliving-that-terrifying-night)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

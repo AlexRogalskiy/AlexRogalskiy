@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Here are some people you’ll find in every local community Facebook group | Jess Harwood](https://www.theguardian.com/commentisfree/picture/2025/dec/29/here-are-some-people-youll-find-in-every-local-community-facebook-group)
-- [‘We need to know’: Bondi victims’ families demand federal royal commission from PM](https://www.theguardian.com/australia-news/2025/dec/29/bondi-shooting-victims-families-royal-commission-ntwnfb)
-- [Brazilian ex-president Bolsonaro’s treatment for persistent hiccups touches a nerve](https://www.theguardian.com/world/2025/dec/29/brazil-ex-president-jair-bolsonaro-hiccups-treatment)
-- [Matthew Potts poised to play in fifth Ashes Test after England rule out Gus Atkinson](https://www.theguardian.com/sport/2025/dec/29/matthew-potts-fifth-ashes-test-england-cricket)
-- [Help UK ceramics industry or ‘lose piece of national identity’, government told](https://www.theguardian.com/business/2025/dec/29/help-uk-ceramics-industry-or-lose-piece-of-national-identity-government-told-energy-costs)
-- [Humphries given almighty scare by Clemens magic at PDC World Championship](https://www.theguardian.com/sport/2025/dec/28/world-darts-championship-cross-littler-anderson-searle-humphries-van-gerwen)
-- [AI being used to help cut A&amp;E waiting times in England this winter](https://www.theguardian.com/society/2025/dec/28/ai-forecasting-tool-a-and-e-waiting-times-england-winter-nhs)
-- [Energetic Manchester City have lifted last season’s fog, says Pep Guardiola](https://www.theguardian.com/football/2025/dec/28/pep-guardiola-admits-he-and-manchester-city-players-lacked-energy-last-season)
-- [Afcon roundup: Mozambique stun Gabon to end 40-year wait for win](https://www.theguardian.com/football/2025/dec/28/afcon-roundup-mozambique-beat-gabon-to-end-40-year-wait-for-a-win)
-- [Titanic Sinks Tonight review – it’s like you’re reliving that terrifying night](https://www.theguardian.com/tv-and-radio/2025/dec/28/titanic-sinks-tonight-review-its-like-youre-reliving-that-terrifying-night)
+- [Khaleda Zia, first female Bangladesh prime minister, dies aged 80](https://www.theguardian.com/world/2025/dec/30/khaleda-zia-first-female-bangladesh-prime-minister-dies-aged-80)
+- [US military says two were killed in strike on suspected drug vessel in Pacific](https://www.theguardian.com/us-news/2025/dec/29/military-deaths-boat-strike-pacific)
+- [CCTV suggests alleged Bondi shooters acted alone and did not receive training in Philippines, AFP says](https://www.theguardian.com/australia-news/2025/dec/30/alleged-bondi-shooters-did-not-receive-training-philippines-ntwnfb)
+- [Anthony Joshua’s camp confirm two of his close friends died in car crash](https://www.theguardian.com/sport/2025/dec/29/anthony-joshua-injured-car-crash-nigeria)
+- [Luke Littler forced to battle the boos in tense win at PDC World Championship](https://www.theguardian.com/sport/2025/dec/30/luke-littler-forced-to-battle-the-boos-in-tense-win-at-pdc-world-championship)
+- [What would it take for me to feel safe wearing a kippah after Bondi? | Glen Berman](https://www.theguardian.com/australia-news/commentisfree/2025/dec/30/what-would-it-take-for-me-to-feel-safe-wearing-a-kippah-after-bondi-ntwnfb)
+- [A&amp;Es in ‘big trouble’ because of ‘normalised’ corridor care, says leading UK medic](https://www.theguardian.com/society/2025/dec/30/ae-nhs-in-trouble-normalised-corridor-care-says-leading-uk-medic)
+- [Brown’s allies could wreck Labour’s 2005 election hopes, Mandelson warned](https://www.theguardian.com/politics/2025/dec/30/gordon-brown-allies-could-wreck-labour-2005-election-peter-mandelson)
+- [Beyoncé is now the fifth billionaire musician, Forbes reports](https://www.theguardian.com/us-news/2025/dec/29/beyonce-billionaire-forbes)
+- [Hamas will have ‘hell to pay’ if it fails to disarm, Trump warns after Netanyahu meeting](https://www.theguardian.com/world/2025/dec/29/gaza-ceasefire-hinges-return-last-israeli-hostage-netanyahu-trump)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

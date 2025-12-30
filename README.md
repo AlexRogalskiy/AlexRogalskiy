@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Hydraulic press flips coin onto its edge on the 11,175th flip after 147 hours](https://www.twitch.tv/hydraulicpresschannel/clip/OilySmallKaleGivePLZ-FxxqhF85A1s_55Nv)
-- [Demystifying DVDs](https://hiddenpalace.org/News/One_Bad_Ass_Hedgehog_-_Shadow_the_Hedgehog#Demystifying_DVDs)
-- [What&#39;s Wrong with the West?](https://spectator.com/article/whats-wrong-with-the-west/)
-- [Starlight Spotlight: A Hospital Wii in a New Light](https://dolphin-emu.org/blog/2025/11/14/starlight-spotlight/)
-- [State Ofthe Art Novel InFlow 1Gearturbine/Reaction 2Imploturbocompressor/Impulse](https://news.ycombinator.com/item?id=46417135)
-- [Xous: A pure Rust rethink of the embedded operating system &lpar;39c3&rpar; [video]](https://media.ccc.de/v/39c3-xous-a-pure-rust-rethink-of-the-embedded-operating-system)
-- [Silent Sirens, flashing for us all](https://importai.substack.com/p/import-ai-438-cyber-capability-overhang)
-- [For Trump, everything&#39;s a &quot;hoax.&quot; It&#39;s pure projection](https://www.salon.com/2025/12/28/for-trump-everythings-a-hoax-its-pure-projection/)
-- [The &lpar;Street Fighter II&rpar; AI Engine &lpar;2017&rpar;](https://sf2platinum.wordpress.com/2017/01/20/the-ai-engine/)
-- [Show HN: I built a tool to fix terrible resumes](https://mobilecv.ai/)
+- [Ask HN: Why did Python fail to evolve?](https://news.ycombinator.com/item?id=46429145)
+- [State of GPU Hardware &lpar;End of Year 2025&rpar;](https://asawicki.info/articles/state_of_gpu_hardware_2025.php)
+- [Honestly Im Sad:&lpar;](https://news.ycombinator.com/item?id=46429130)
+- [Why I&#39;m Leaving Harvard](https://www.compactmag.com/article/why-im-leaving-harvard/)
+- [Sam Altman offers $555k salary to fill most daunting role in AI](https://www.theguardian.com/technology/2025/dec/29/sam-altman-openai-job-search-ai-harms)
+- [How can they claim millions in ARR under a year?](https://news.ycombinator.com/item?id=46429085)
+- [Innovative ways the world used AI in 2025](https://restofworld.org/2025/ai-innovation-global-2025/)
+- [From Zero to NVMM hypervisor for NetBSD &lpar;2019&rpar;](https://blog.netbsd.org/tnf/entry/from_zero_to_nvmm)
+- [Tell HN: No Scrollbar on Google Gemini UI](https://news.ycombinator.com/item?id=46429040)
+- [US Justice Department using fraud law to target companies on DEI](https://www.reuters.com/sustainability/society-equity/us-justice-department-using-fraud-law-target-companies-dei-wsj-reports-2025-12-29/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [You can make up HTML tags](https://maurycyz.com/misc/make-up-tags/)
-- [Self-hosting is being enshittified](https://troubled.engineer/posts/selfhosting-in-2025/)
-- [NextDNS is my new favourite DNS service · Stan&#39;s blog](https://stanislas.blog/2020/04/nextdns/)
-- [Show HN: My app just won best iOS Japanese learning tool of 2025 award &lpar;blog&rpar;](https://skerritt.blog/best-japanese-learning-tools-2025-award-show/)
-- [Fast Cvvdp Implementation in C](https://github.com/halidecx/fcvvdp)
-- [How to Complain &lpar;2024&rpar;](https://outerproduct.net/trivial/2024-03-25_complain.html)
-- [Spherical Cow](https://lib.rs/crates/spherical-cow)
-- [Slaughtering Competition Problems with Quantifier Elimination &lpar;2021&rpar;](https://grossack.site/2021/12/22/qe-competition.html)
-- [62 years in the making: NYC&#39;s newest water tunnel nears the finish line](https://ny1.com/nyc/all-boroughs/news/2025/11/09/water--dep--tunnels-)
-- [What an unprocessed photo looks like](https://maurycyz.com/misc/raw_photo/)
+- [Hacking Washing Machines [video]](https://media.ccc.de/v/39c3-hacking-washing-machines)
+- [100x &lpar;YC S22&rpar; Is Hiring a Front End Engineer](https://news.ycombinator.com/item?id=46428206)
+- [Outside, Dungeon, Town: Integrating the Three Places in Videogames &lpar;2024&rpar;](https://keithburgun.net/outside-dungeon-town-integrating-the-three-places-in-videogames/)
+- [MongoDB Server Security Update, December 2025](https://www.mongodb.com/company/blog/news/mongodb-server-security-update-december-2025)
+- [I migrated to an almost all-EU stack and saved 500€ per year](https://www.zeitgeistofbytes.com/p/bye-bye-big-tech-how-i-migrated-to)
+- [Parsing Advances](https://matklad.github.io/2025/12/28/parsing-advances.html)
+- [Geology of the Gulf of the Farallones National Marine Sanctuary](https://pubs.usgs.gov/fs/farallones/)
+- [Show HN: Stop Claude Code from forgetting everything](https://github.com/mutable-state-inc/ensue-skill)
+- [Google is dead. Where do we go now?](https://www.circusscientist.com/2025/12/29/google-is-dead-where-do-we-go-now/)
+- [Obelisk 0.32: Cancellation, WebAPI, Postgres](https://obeli.sk/blog/announcing-obelisk-0-32/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

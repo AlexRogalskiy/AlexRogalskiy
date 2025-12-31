@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ask HN: Why did Python fail to evolve?](https://news.ycombinator.com/item?id=46429145)
-- [State of GPU Hardware &lpar;End of Year 2025&rpar;](https://asawicki.info/articles/state_of_gpu_hardware_2025.php)
-- [Honestly Im Sad:&lpar;](https://news.ycombinator.com/item?id=46429130)
-- [Why I&#39;m Leaving Harvard](https://www.compactmag.com/article/why-im-leaving-harvard/)
-- [Sam Altman offers $555k salary to fill most daunting role in AI](https://www.theguardian.com/technology/2025/dec/29/sam-altman-openai-job-search-ai-harms)
-- [How can they claim millions in ARR under a year?](https://news.ycombinator.com/item?id=46429085)
-- [Innovative ways the world used AI in 2025](https://restofworld.org/2025/ai-innovation-global-2025/)
-- [From Zero to NVMM hypervisor for NetBSD &lpar;2019&rpar;](https://blog.netbsd.org/tnf/entry/from_zero_to_nvmm)
-- [Tell HN: No Scrollbar on Google Gemini UI](https://news.ycombinator.com/item?id=46429040)
-- [US Justice Department using fraud law to target companies on DEI](https://www.reuters.com/sustainability/society-equity/us-justice-department-using-fraud-law-target-companies-dei-wsj-reports-2025-12-29/)
+- [Tips for Writing a Technical Book](https://borischerny.com/writing/2019/05/26/Tips-For-Writing-A-Technical-Book.html)
+- [I&#39;m rejecting the next architecture PR that uses a Service Mesh for a team of 4](https://old.reddit.com/r/devops/comments/1pzkibf/im_rejecting_the_next_architecture_pr_that_uses_a/)
+- [Taking photos of PCBs and electronics [video]](https://www.youtube.com/watch?v=W-j-hvUjfJs)
+- [AI-powered skin analysis platform](https://skinadvisor.ai/en)
+- [We don&#39;t need more contributors who aren&#39;t programmers to contribute code](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159)
+- [Ask HN: Looking for an Invite for Lobster.rs](https://news.ycombinator.com/item?id=46440823)
+- [Antibrittle Agents](https://www.southbridge.ai/blog/antibrittle-agents)
+- [I built a free tool to explore app market data for indie developers and founders](https://appark.ai/)
+- [I curated 25GB of video assets so you don&#39;t have to use Stock sites](https://news.ycombinator.com/item?id=46440786)
+- [You can now submit fraud claims to the IRS online. Before you had to mail a form](https://twitter.com/shl/status/2005621582677622871)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

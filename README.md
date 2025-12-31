@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Hacking Washing Machines [video]](https://media.ccc.de/v/39c3-hacking-washing-machines)
-- [100x &lpar;YC S22&rpar; Is Hiring a Front End Engineer](https://news.ycombinator.com/item?id=46428206)
-- [Outside, Dungeon, Town: Integrating the Three Places in Videogames &lpar;2024&rpar;](https://keithburgun.net/outside-dungeon-town-integrating-the-three-places-in-videogames/)
-- [MongoDB Server Security Update, December 2025](https://www.mongodb.com/company/blog/news/mongodb-server-security-update-december-2025)
-- [I migrated to an almost all-EU stack and saved 500€ per year](https://www.zeitgeistofbytes.com/p/bye-bye-big-tech-how-i-migrated-to)
-- [Parsing Advances](https://matklad.github.io/2025/12/28/parsing-advances.html)
-- [Geology of the Gulf of the Farallones National Marine Sanctuary](https://pubs.usgs.gov/fs/farallones/)
-- [Show HN: Stop Claude Code from forgetting everything](https://github.com/mutable-state-inc/ensue-skill)
-- [Google is dead. Where do we go now?](https://www.circusscientist.com/2025/12/29/google-is-dead-where-do-we-go-now/)
-- [Obelisk 0.32: Cancellation, WebAPI, Postgres](https://obeli.sk/blog/announcing-obelisk-0-32/)
+- [L1TF Reloaded](https://github.com/ThijsRay/l1tf_reloaded)
+- [Readings in Database Systems &lpar;5th Edition&rpar;](http://www.redbook.io/)
+- [Quality of drinking water varies significantly by airline](https://foodmedcenter.org/2026-center-for-food-as-medicine-longevity-airline-water-study/)
+- [Show HN: RAMBnB.xyz P2P marketplace for RAM rentals](https://www.rambnb.xyz)
+- [Honey&#39;s Dieselgate: Detecting and tricking testers](https://vptdigital.com/blog/honey-detecting-testers/)
+- [OpenAI&#39;s cash burn will be one of the big bubble questions of 2026](https://www.economist.com/leaders/2025/12/30/openais-cash-burn-will-be-one-of-the-big-bubble-questions-of-2026)
+- [Professional software developers don&#39;t vibe, they control](https://arxiv.org/abs/2512.14012)
+- [Everything as code: How we manage our company in one monorepo](https://www.kasava.dev/blog/everything-as-code-monorepo)
+- [Zpdf: PDF text extraction in Zig – 5x faster than MuPDF](https://github.com/Lulzx/zpdf)
+- [FediMeteo: A €4 FreeBSD VPS Became a Global Weather Service](https://it-notes.dragas.net/2025/02/26/fedimeteo-how-a-tiny-freebsd-vps-became-a-global-weather-service-for-thousands/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Khaleda Zia, first female Bangladesh prime minister, dies aged 80](https://www.theguardian.com/world/2025/dec/30/khaleda-zia-first-female-bangladesh-prime-minister-dies-aged-80)
-- [US military says two were killed in strike on suspected drug vessel in Pacific](https://www.theguardian.com/us-news/2025/dec/29/military-deaths-boat-strike-pacific)
-- [CCTV suggests alleged Bondi shooters acted alone and did not receive training in Philippines, AFP says](https://www.theguardian.com/australia-news/2025/dec/30/alleged-bondi-shooters-did-not-receive-training-philippines-ntwnfb)
-- [Anthony Joshua’s camp confirm two of his close friends died in car crash](https://www.theguardian.com/sport/2025/dec/29/anthony-joshua-injured-car-crash-nigeria)
-- [Luke Littler forced to battle the boos in tense win at PDC World Championship](https://www.theguardian.com/sport/2025/dec/30/luke-littler-forced-to-battle-the-boos-in-tense-win-at-pdc-world-championship)
-- [What would it take for me to feel safe wearing a kippah after Bondi? | Glen Berman](https://www.theguardian.com/australia-news/commentisfree/2025/dec/30/what-would-it-take-for-me-to-feel-safe-wearing-a-kippah-after-bondi-ntwnfb)
-- [A&amp;Es in ‘big trouble’ because of ‘normalised’ corridor care, says leading UK medic](https://www.theguardian.com/society/2025/dec/30/ae-nhs-in-trouble-normalised-corridor-care-says-leading-uk-medic)
-- [Brown’s allies could wreck Labour’s 2005 election hopes, Mandelson warned](https://www.theguardian.com/politics/2025/dec/30/gordon-brown-allies-could-wreck-labour-2005-election-peter-mandelson)
-- [Beyoncé is now the fifth billionaire musician, Forbes reports](https://www.theguardian.com/us-news/2025/dec/29/beyonce-billionaire-forbes)
-- [Hamas will have ‘hell to pay’ if it fails to disarm, Trump warns after Netanyahu meeting](https://www.theguardian.com/world/2025/dec/29/gaza-ceasefire-hinges-return-last-israeli-hostage-netanyahu-trump)
+- [‘Tonga is not a threat’: anger as small Pacific nation falls under Trump visa restrictions](https://www.theguardian.com/world/2025/dec/31/tonga-under-usa-trump-visa-ban)
+- [Machu Picchu head-on train crash kills one person and injures dozens](https://www.theguardian.com/world/2025/dec/31/peru-machu-pichu-head-on-train-crash)
+- [Glorious Gary Anderson revels in his remarkable renaissance](https://www.theguardian.com/sport/2025/dec/30/justin-hood-record-doubles-michael-van-gerwen-luke-humphries-world-darts-championship-romp)
+- [Huge rise in number of people in England’s A&amp;Es for coughs or hiccups](https://www.theguardian.com/society/2025/dec/31/coughs-hiccups-accident-and-emergency-hospitals-nhs-england)
+- [Judge me on what I do, says new EHRC chair after transgender groups’ criticism](https://www.theguardian.com/society/2025/dec/31/new-ehrc-chair-mary-ann-stephenson-lgbtq-transgender-groups)
+- [Oasis reunion and Taylor Swift vinyls fuel boom year for UK music industry](https://www.theguardian.com/business/2025/dec/31/oasis-reunion-taylor-swift-vinyl-uk-music-industry-albums-2025)
+- [California snowpack gets a boost from series of December downpours](https://www.theguardian.com/us-news/2025/dec/30/california-snowpack-water)
+- [Arsenal deliver statement win and bury the Emery bogey | John Brewin](https://www.theguardian.com/football/2025/dec/30/rampant-arsenal-make-a-strong-title-statement-and-bury-the-emery-bogey)
+- [Scottish Premiership: Nancy’s Celtic slump to fifth defeat as Said inspires Motherwell](https://www.theguardian.com/football/2025/dec/30/scottish-premiership-motherwell-celtic-rangers-st-mirren)
+- [Krejci grabs point for Wolves as Manchester United continue to flounder](https://www.theguardian.com/football/2025/dec/30/manchester-united-wolves-premier-league-match-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

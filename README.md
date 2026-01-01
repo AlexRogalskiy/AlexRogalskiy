@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [‘Tonga is not a threat’: anger as small Pacific nation falls under Trump visa restrictions](https://www.theguardian.com/world/2025/dec/31/tonga-under-usa-trump-visa-ban)
-- [Machu Picchu head-on train crash kills one person and injures dozens](https://www.theguardian.com/world/2025/dec/31/peru-machu-pichu-head-on-train-crash)
-- [Glorious Gary Anderson revels in his remarkable renaissance](https://www.theguardian.com/sport/2025/dec/30/justin-hood-record-doubles-michael-van-gerwen-luke-humphries-world-darts-championship-romp)
-- [Huge rise in number of people in England’s A&amp;Es for coughs or hiccups](https://www.theguardian.com/society/2025/dec/31/coughs-hiccups-accident-and-emergency-hospitals-nhs-england)
-- [Judge me on what I do, says new EHRC chair after transgender groups’ criticism](https://www.theguardian.com/society/2025/dec/31/new-ehrc-chair-mary-ann-stephenson-lgbtq-transgender-groups)
-- [Oasis reunion and Taylor Swift vinyls fuel boom year for UK music industry](https://www.theguardian.com/business/2025/dec/31/oasis-reunion-taylor-swift-vinyl-uk-music-industry-albums-2025)
-- [California snowpack gets a boost from series of December downpours](https://www.theguardian.com/us-news/2025/dec/30/california-snowpack-water)
-- [Arsenal deliver statement win and bury the Emery bogey | John Brewin](https://www.theguardian.com/football/2025/dec/30/rampant-arsenal-make-a-strong-title-statement-and-bury-the-emery-bogey)
-- [Scottish Premiership: Nancy’s Celtic slump to fifth defeat as Said inspires Motherwell](https://www.theguardian.com/football/2025/dec/30/scottish-premiership-motherwell-celtic-rangers-st-mirren)
-- [Krejci grabs point for Wolves as Manchester United continue to flounder](https://www.theguardian.com/football/2025/dec/30/manchester-united-wolves-premier-league-match-report)
+- [New Year’s Eve live: fireworks in London, Paris and Berlin as New York awaits 2026](https://www.theguardian.com/lifeandstyle/live/2025/dec/31/new-years-eve-2026-world-ring-in-live-latest)
+- [Ukraine war briefing: 10% away from peace, Zelenskyy tells Ukrainians](https://www.theguardian.com/world/2026/jan/01/ukraine-war-briefing-10-away-from-peace-zelenskyy-tells-ukrainians)
+- [Anthony Joshua discharged from hospital in Nigeria after car crash](https://www.theguardian.com/sport/2026/jan/01/anthony-joshua-released-from-hospital-in-nigeria-car-crash-boxing)
+- [Enzo Maresca on brink of Chelsea sack after breakdown of relations](https://www.theguardian.com/football/2025/dec/31/enzo-maresca-at-risk-of-chelsea-sack-january)
+- [26 for 2026: unmissable sporting events over the next 12 months](https://www.theguardian.com/sport/2026/jan/01/26-for-2026-unmissable-sporting-events-over-the-next-12-months)
+- [Children in England to be offered vaccines in their own homes](https://www.theguardian.com/society/2026/jan/01/children-in-england-to-be-offered-vaccines-in-their-own-homes)
+- [New Traitors contestants include detective, crime writer and psychologist](https://www.theguardian.com/tv-and-radio/2026/jan/01/new-traitors-contestants-include-detective-writer-psychologist)
+- [What’s the best path to take in 2026? | Fiona Katauskas](https://www.theguardian.com/commentisfree/picture/2026/jan/01/whats-the-best-path-to-take-in-2026)
+- [Keir Starmer to woo voters and MPs with new year plan to cut cost of living](https://www.theguardian.com/politics/2025/dec/31/keir-starmer-woo-voters-labour-mps-new-year-plan-cut-cost-of-living)
+- [Manchester City welcome Rodri back with Guardiola ‘prouder than ever’ of 2025 efforts](https://www.theguardian.com/football/2025/dec/31/manchester-city-welcome-rodri-back-with-guardiola-prouder-than-ever-of-2025-efforts)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

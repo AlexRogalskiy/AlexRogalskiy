@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Tips for Writing a Technical Book](https://borischerny.com/writing/2019/05/26/Tips-For-Writing-A-Technical-Book.html)
-- [I&#39;m rejecting the next architecture PR that uses a Service Mesh for a team of 4](https://old.reddit.com/r/devops/comments/1pzkibf/im_rejecting_the_next_architecture_pr_that_uses_a/)
-- [Taking photos of PCBs and electronics [video]](https://www.youtube.com/watch?v=W-j-hvUjfJs)
-- [AI-powered skin analysis platform](https://skinadvisor.ai/en)
-- [We don&#39;t need more contributors who aren&#39;t programmers to contribute code](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159)
-- [Ask HN: Looking for an Invite for Lobster.rs](https://news.ycombinator.com/item?id=46440823)
-- [Antibrittle Agents](https://www.southbridge.ai/blog/antibrittle-agents)
-- [I built a free tool to explore app market data for indie developers and founders](https://appark.ai/)
-- [I curated 25GB of video assets so you don&#39;t have to use Stock sites](https://news.ycombinator.com/item?id=46440786)
-- [You can now submit fraud claims to the IRS online. Before you had to mail a form](https://twitter.com/shl/status/2005621582677622871)
+- [Show HN: I made a Rusty anime streaming TUI for the terminal](https://github.com/komposer-aml/ani-l)
+- [The Ridiculous Engineering of the Most Important Machine [video]](https://www.youtube.com/watch?v=MiUHjLxm3V0)
+- [Show HN: Scan job posts to identify tech and pain points](https://pursued.io/)
+- [Open-sourced an AI app platform where your features ship to the App Store](https://github.com/tedyyan/appfoundry.ai)
+- [Marxism Is a Cult of Power, Not an Economic Theory [video]](https://www.youtube.com/watch?v=6rFeistL32A)
+- [Ask HN: What is the best microVMs for AI agents?](https://news.ycombinator.com/item?id=46450931)
+- [Why is politics so creepy [video]](https://www.youtube.com/shorts/gQjB46S-LFw)
+- [Attack on Open-Source: Hijacking Your Neurons](https://github.com/3C-SCSU/Avatar/tree/main/file-opendata/peer_review_fraud)
+- [The night that traumatized women and shook Germany](https://www.lemonde.fr/en/international/article/2025/12/31/new-year-s-eve-2015-in-cologne-the-night-that-traumatized-thousands-of-women-and-shook-germany_6748974_4.html)
+- [The Zirpslop Report, 2025 [video]](https://www.youtube.com/watch?v=mv02I2Z2GQY)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

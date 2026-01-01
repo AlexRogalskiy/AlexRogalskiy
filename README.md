@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [L1TF Reloaded](https://github.com/ThijsRay/l1tf_reloaded)
-- [Readings in Database Systems &lpar;5th Edition&rpar;](http://www.redbook.io/)
-- [Quality of drinking water varies significantly by airline](https://foodmedcenter.org/2026-center-for-food-as-medicine-longevity-airline-water-study/)
-- [Show HN: RAMBnB.xyz P2P marketplace for RAM rentals](https://www.rambnb.xyz)
-- [Honey&#39;s Dieselgate: Detecting and tricking testers](https://vptdigital.com/blog/honey-detecting-testers/)
-- [OpenAI&#39;s cash burn will be one of the big bubble questions of 2026](https://www.economist.com/leaders/2025/12/30/openais-cash-burn-will-be-one-of-the-big-bubble-questions-of-2026)
-- [Professional software developers don&#39;t vibe, they control](https://arxiv.org/abs/2512.14012)
-- [Everything as code: How we manage our company in one monorepo](https://www.kasava.dev/blog/everything-as-code-monorepo)
-- [Zpdf: PDF text extraction in Zig – 5x faster than MuPDF](https://github.com/Lulzx/zpdf)
-- [FediMeteo: A €4 FreeBSD VPS Became a Global Weather Service](https://it-notes.dragas.net/2025/02/26/fedimeteo-how-a-tiny-freebsd-vps-became-a-global-weather-service-for-thousands/)
+- [GoGoGrandparent &lpar;YC S16&rpar; Is Hiring Tech Leads](https://www.ycombinator.com/companies/gogograndparent/jobs/w2jGKM7-gogograndparent-yc-s16-is-hiring-tech-leads)
+- [Show HN: BusterMQ, Thread-per-core NATS server in Zig with io_uring](https://bustermq.sh/)
+- [The Delete Act](https://privacy.ca.gov/drop/about-drop-and-the-delete-act/)
+- [2025: The Year in LLMs](https://simonwillison.net/2025/Dec/31/the-year-in-llms/)
+- [Resistance training load does not determine hypertrophy](https://physoc.onlinelibrary.wiley.com/doi/10.1113/JP289684)
+- [Scientists unlock brain&#39;s natural clean-up system for new treatments for stroke](https://www.monash.edu/pharm/about/news/news-listing/latest/scientists-unlock-brains-natural-clean-up-system-to-develop-new-treatments-for-stroke-and-other-neurological-diseases)
+- [Warren Buffett steps down as Berkshire Hathaway CEO after six decades](https://www.latimes.com/business/story/2025-12-31/warren-buffett-steps-down-as-berkshire-hathaway-ceo-after-six-decades)
+- [All-optical synthesis chip for large-scale intelligent semantic vision](https://www.science.org/doi/10.1126/science.adv7434)
+- [PyPI in 2025: A Year in Review](https://blog.pypi.org/posts/2025-12-31-pypi-2025-in-review/)
+- [On privacy and control](https://toidiu.com/blog/2025-12-25-privacy-and-control/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

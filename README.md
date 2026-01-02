@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [New Year’s Eve live: fireworks in London, Paris and Berlin as New York awaits 2026](https://www.theguardian.com/lifeandstyle/live/2025/dec/31/new-years-eve-2026-world-ring-in-live-latest)
-- [Ukraine war briefing: 10% away from peace, Zelenskyy tells Ukrainians](https://www.theguardian.com/world/2026/jan/01/ukraine-war-briefing-10-away-from-peace-zelenskyy-tells-ukrainians)
-- [Anthony Joshua discharged from hospital in Nigeria after car crash](https://www.theguardian.com/sport/2026/jan/01/anthony-joshua-released-from-hospital-in-nigeria-car-crash-boxing)
-- [Enzo Maresca on brink of Chelsea sack after breakdown of relations](https://www.theguardian.com/football/2025/dec/31/enzo-maresca-at-risk-of-chelsea-sack-january)
-- [26 for 2026: unmissable sporting events over the next 12 months](https://www.theguardian.com/sport/2026/jan/01/26-for-2026-unmissable-sporting-events-over-the-next-12-months)
-- [Children in England to be offered vaccines in their own homes](https://www.theguardian.com/society/2026/jan/01/children-in-england-to-be-offered-vaccines-in-their-own-homes)
-- [New Traitors contestants include detective, crime writer and psychologist](https://www.theguardian.com/tv-and-radio/2026/jan/01/new-traitors-contestants-include-detective-writer-psychologist)
-- [What’s the best path to take in 2026? | Fiona Katauskas](https://www.theguardian.com/commentisfree/picture/2026/jan/01/whats-the-best-path-to-take-in-2026)
-- [Keir Starmer to woo voters and MPs with new year plan to cut cost of living](https://www.theguardian.com/politics/2025/dec/31/keir-starmer-woo-voters-labour-mps-new-year-plan-cut-cost-of-living)
-- [Manchester City welcome Rodri back with Guardiola ‘prouder than ever’ of 2025 efforts](https://www.theguardian.com/football/2025/dec/31/manchester-city-welcome-rodri-back-with-guardiola-prouder-than-ever-of-2025-efforts)
+- [Trump news at a glance: president denies falling asleep in public meetings as he defends ‘perfect’ health](https://www.theguardian.com/us-news/2026/jan/02/trump-administration-news-latest-updates)
+- [Mamdani pledges ‘new era’ for New York and vows to govern ‘audaciously’](https://www.theguardian.com/us-news/2026/jan/01/zohran-mamdani-inauguration-speech)
+- [George Clooney fires back at Trump after US president mocks his French citizenship](https://www.theguardian.com/film/2026/jan/02/george-clooney-trump-french-citizenship)
+- [Australian electric car market to get influx of new models as cheaper EVs hit the road in 2026](https://www.theguardian.com/environment/2026/jan/02/ev-australia-electric-cars-vehicle-lower-price-cheap-best-2026-new-models)
+- [The first of my friends is having a baby and it makes me feel pressured. How do I reframe this?](https://www.theguardian.com/lifeandstyle/2026/jan/02/the-first-of-my-friends-is-having-a-baby-and-it-makes-me-feel-pressured-how-do-i-reframe-this)
+- [‘We are always living in fear’: inside Myanmar’s ‘sham’ election](https://www.theguardian.com/world/2026/jan/02/inside-myanmar-sham-election)
+- [UK children to get chickenpox vaccine with measles, mumps and rubella jab](https://www.theguardian.com/society/2026/jan/02/uk-children-to-get-chickenpox-vaccine-with-measles-mumps-and-rubella-jab)
+- [The world’s gone barking mad. In this era of canine exceptionalism, can humanity stage a comeback? | Farhana Dawood](https://www.theguardian.com/commentisfree/2026/jan/02/dog-obsession-canine-exceptionalism-can-humanity-stage-a-comeback)
+- [PDC world darts: Van Veen dumps Humphries out as Littler wins over crowd](https://www.theguardian.com/sport/2026/jan/01/luke-littler-sees-in-new-year-dominant-win-over-krzysztof-ratajski-world-championship-darts)
+- [Thomas Frank’s Spurs booed off after toiling to point on his Brentford return](https://www.theguardian.com/football/2026/jan/01/brentford-spurs-premier-league-match-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

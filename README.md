@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [GoGoGrandparent &lpar;YC S16&rpar; Is Hiring Tech Leads](https://www.ycombinator.com/companies/gogograndparent/jobs/w2jGKM7-gogograndparent-yc-s16-is-hiring-tech-leads)
-- [Show HN: BusterMQ, Thread-per-core NATS server in Zig with io_uring](https://bustermq.sh/)
-- [The Delete Act](https://privacy.ca.gov/drop/about-drop-and-the-delete-act/)
-- [2025: The Year in LLMs](https://simonwillison.net/2025/Dec/31/the-year-in-llms/)
-- [Resistance training load does not determine hypertrophy](https://physoc.onlinelibrary.wiley.com/doi/10.1113/JP289684)
-- [Scientists unlock brain&#39;s natural clean-up system for new treatments for stroke](https://www.monash.edu/pharm/about/news/news-listing/latest/scientists-unlock-brains-natural-clean-up-system-to-develop-new-treatments-for-stroke-and-other-neurological-diseases)
-- [Warren Buffett steps down as Berkshire Hathaway CEO after six decades](https://www.latimes.com/business/story/2025-12-31/warren-buffett-steps-down-as-berkshire-hathaway-ceo-after-six-decades)
-- [All-optical synthesis chip for large-scale intelligent semantic vision](https://www.science.org/doi/10.1126/science.adv7434)
-- [PyPI in 2025: A Year in Review](https://blog.pypi.org/posts/2025-12-31-pypi-2025-in-review/)
-- [On privacy and control](https://toidiu.com/blog/2025-12-25-privacy-and-control/)
+- [China&#39;s BYD set to overtake Tesla as top EV seller](https://www.bbc.com/news/articles/cj9rjwpvmpzo)
+- [DENT: A network operating system &lpar;NOS&rpar; for everyone else](https://dent.dev/)
+- [Marmot – A distributed SQLite server with MySQL wire compatible interface](https://github.com/maxpert/marmot)
+- [AI Futures Model: Dec 2025 Update](https://blog.ai-futures.org/p/ai-futures-model-dec-2025-update)
+- [Happy Public Domain Day 2026](https://publicdomainreview.org/blog/2026/01/public-domain-day-2026/)
+- [Extensibility: The &quot;100% Lisp&quot; Fallacy](https://kyo.iroiro.party/en/posts/100-percent-lisp/)
+- [Why users cannot create Issues directly &lpar;Ghostty&rpar;](https://github.com/ghostty-org/ghostty/issues/3558)
+- [California Delete Request and Opt-out Platform &lpar;DROP&rpar;](https://privacy.ca.gov/DROP/)
+- [Why Prefer Textfiles? &lpar;2010&rpar;](http://textfiles.com/uploads/textfiles.txt)
+- [WebAssembly as a Python Extension Platform](https://nullprogram.com/blog/2026/01/01/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

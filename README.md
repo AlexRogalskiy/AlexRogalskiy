@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: I made a Rusty anime streaming TUI for the terminal](https://github.com/komposer-aml/ani-l)
-- [The Ridiculous Engineering of the Most Important Machine [video]](https://www.youtube.com/watch?v=MiUHjLxm3V0)
-- [Show HN: Scan job posts to identify tech and pain points](https://pursued.io/)
-- [Open-sourced an AI app platform where your features ship to the App Store](https://github.com/tedyyan/appfoundry.ai)
-- [Marxism Is a Cult of Power, Not an Economic Theory [video]](https://www.youtube.com/watch?v=6rFeistL32A)
-- [Ask HN: What is the best microVMs for AI agents?](https://news.ycombinator.com/item?id=46450931)
-- [Why is politics so creepy [video]](https://www.youtube.com/shorts/gQjB46S-LFw)
-- [Attack on Open-Source: Hijacking Your Neurons](https://github.com/3C-SCSU/Avatar/tree/main/file-opendata/peer_review_fraud)
-- [The night that traumatized women and shook Germany](https://www.lemonde.fr/en/international/article/2025/12/31/new-year-s-eve-2015-in-cologne-the-night-that-traumatized-thousands-of-women-and-shook-germany_6748974_4.html)
-- [The Zirpslop Report, 2025 [video]](https://www.youtube.com/watch?v=mv02I2Z2GQY)
+- [The Monty Hall Problem, a side-by-side simulation](https://www.pcloadletter.dev/blog/monty/)
+- [The State of Agentic iOS Engineering in 2026](https://dimillian.medium.com/the-state-of-agentic-ios-engineering-in-2026-c5f0cbaa7b34)
+- [On biological &amp; artificial consciousness: A case for biological computationalism](https://www.sciencedirect.com/science/article/pii/S0149763425005251)
+- [Show HN: Sentinel Shield – Pure C DMZ for AI Security &lpar;23K LOC, &lt;1ms latency&rpar;](https://news.ycombinator.com/item?id=46460975)
+- [Ask HN: Favorite Articles in the ACM Digital Library](https://news.ycombinator.com/item?id=46460953)
+- [Interpreter – Offline screen translator for Japanese retro games](https://github.com/bquenin/interpreter)
+- [Making beautiful PDF documents from HTML and CSS](https://css4.pub/)
+- [Ask HN: Which AI productivity tools are you using in 2026?](https://news.ycombinator.com/item?id=46460902)
+- [Ukraine enters EU&#39;s single mobile roaming zone](https://www.yahoo.com/news/articles/ukraine-enters-eus-single-mobile-164712435.html)
+- [Steam On Linux Ends 2025 With 3.19% Marketshare](https://www.phoronix.com/news/Steam-December-2025-Survey)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

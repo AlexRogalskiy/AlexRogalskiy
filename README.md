@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Trump news at a glance: president denies falling asleep in public meetings as he defends ‘perfect’ health](https://www.theguardian.com/us-news/2026/jan/02/trump-administration-news-latest-updates)
-- [Mamdani pledges ‘new era’ for New York and vows to govern ‘audaciously’](https://www.theguardian.com/us-news/2026/jan/01/zohran-mamdani-inauguration-speech)
-- [George Clooney fires back at Trump after US president mocks his French citizenship](https://www.theguardian.com/film/2026/jan/02/george-clooney-trump-french-citizenship)
-- [Australian electric car market to get influx of new models as cheaper EVs hit the road in 2026](https://www.theguardian.com/environment/2026/jan/02/ev-australia-electric-cars-vehicle-lower-price-cheap-best-2026-new-models)
-- [The first of my friends is having a baby and it makes me feel pressured. How do I reframe this?](https://www.theguardian.com/lifeandstyle/2026/jan/02/the-first-of-my-friends-is-having-a-baby-and-it-makes-me-feel-pressured-how-do-i-reframe-this)
-- [‘We are always living in fear’: inside Myanmar’s ‘sham’ election](https://www.theguardian.com/world/2026/jan/02/inside-myanmar-sham-election)
-- [UK children to get chickenpox vaccine with measles, mumps and rubella jab](https://www.theguardian.com/society/2026/jan/02/uk-children-to-get-chickenpox-vaccine-with-measles-mumps-and-rubella-jab)
-- [The world’s gone barking mad. In this era of canine exceptionalism, can humanity stage a comeback? | Farhana Dawood](https://www.theguardian.com/commentisfree/2026/jan/02/dog-obsession-canine-exceptionalism-can-humanity-stage-a-comeback)
-- [PDC world darts: Van Veen dumps Humphries out as Littler wins over crowd](https://www.theguardian.com/sport/2026/jan/01/luke-littler-sees-in-new-year-dominant-win-over-krzysztof-ratajski-world-championship-darts)
-- [Thomas Frank’s Spurs booed off after toiling to point on his Brentford return](https://www.theguardian.com/football/2026/jan/01/brentford-spurs-premier-league-match-report)
+- [Ukraine war briefing: Russia makes biggest battleground gains since first year of war, analysis shows](https://www.theguardian.com/world/2026/jan/03/ukraine-war-briefing-russia-makes-biggest-battleground-gains-since-first-year-of-war-analysis-shows)
+- [Saudi invites Yemen’s southern factions to ‘dialogue’ in Riyadh after surprise independence bid](https://www.theguardian.com/world/2026/jan/02/saudi-warplanes-kill-uae-backed-yemeni-separatists)
+- [Trump news at a glance: Nicolás Maduro wants to have ‘serious talks’ with Trump](https://www.theguardian.com/us-news/2026/jan/02/trump-administration-news-latest-updates-today)
+- [California ban on openly carrying guns is unconstitutional, court rules](https://www.theguardian.com/us-news/2026/jan/02/california-ban-open-carry-unconstitutional)
+- [Gian van Veen denies Gary Anderson in epic to set up final against Luke Littler](https://www.theguardian.com/sport/2026/jan/02/pdc-world-darts-semi-final-luke-littler-ryan-searle-gary-anderson-gian-van-veen)
+- [US woman charged with fetal homicide after allegedly inducing own abortion](https://www.theguardian.com/us-news/2026/jan/02/kentucky-woman-arrest-abortion)
+- [‘Magical place’: tourists see another side of Papua New Guinea’s most troubled region](https://www.theguardian.com/world/2026/jan/02/magical-place-tourists-see-another-side-of-papua-new-guineas-most-troubled-region)
+- [Thomas Frank admits ‘it’s difficult to enjoy’ being Tottenham head coach](https://www.theguardian.com/football/2026/jan/02/thomas-frank-admits-its-difficult-to-enjoy-being-tottenham-head-coach)
+- [Man dies after being pulled from sea as search continues for two missing off Withernsea](https://www.theguardian.com/uk-news/2026/jan/02/search-under-way-for-two-people-missing-off-withernsea-in-east-riding-of-yorkshire)
+- [Missing worker could be trapped 1km underground after Queensland mine collapses](https://www.theguardian.com/australia-news/2026/jan/03/missing-worker-could-be-trapped-1km-underground-after-queensland-mine-collapses)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

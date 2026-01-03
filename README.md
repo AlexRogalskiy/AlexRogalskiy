@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Monty Hall Problem, a side-by-side simulation](https://www.pcloadletter.dev/blog/monty/)
-- [The State of Agentic iOS Engineering in 2026](https://dimillian.medium.com/the-state-of-agentic-ios-engineering-in-2026-c5f0cbaa7b34)
-- [On biological &amp; artificial consciousness: A case for biological computationalism](https://www.sciencedirect.com/science/article/pii/S0149763425005251)
-- [Show HN: Sentinel Shield – Pure C DMZ for AI Security &lpar;23K LOC, &lt;1ms latency&rpar;](https://news.ycombinator.com/item?id=46460975)
-- [Ask HN: Favorite Articles in the ACM Digital Library](https://news.ycombinator.com/item?id=46460953)
-- [Interpreter – Offline screen translator for Japanese retro games](https://github.com/bquenin/interpreter)
-- [Making beautiful PDF documents from HTML and CSS](https://css4.pub/)
-- [Ask HN: Which AI productivity tools are you using in 2026?](https://news.ycombinator.com/item?id=46460902)
-- [Ukraine enters EU&#39;s single mobile roaming zone](https://www.yahoo.com/news/articles/ukraine-enters-eus-single-mobile-164712435.html)
-- [Steam On Linux Ends 2025 With 3.19% Marketshare](https://www.phoronix.com/news/Steam-December-2025-Survey)
+- [A message-driven DAG execution engine](https://github.com/rodmena-limited/stabilize)
+- [Red Teaming with RL: Exploiting Tinker API for Harmful RL on 235B Model](https://huggingface.co/blog/georgefen/red-teaming-with-rl)
+- [RICO Lawsuit Accuses Drake of Fake Streams](https://www.digitalmusicnews.com/2026/01/02/drake-stake-lawsuit/)
+- [bcherny&#39;s Claude Code Setup](https://twitter.com/i/status/2007179832300581177)
+- [Open-source CLI tool for generating licenses for your repositories](https://github.com/anth0nycodes/license-generator)
+- [High-end AirPods Pro 3 adding cameras for Apple Intelligence features and more](https://9to5mac.com/2026/01/02/another-airpods-pro-3-model-is-coming-with-one-rumored-upgrade/)
+- [Becoming a Centenarian](https://www.newyorker.com/magazine/2025/12/22/becoming-a-centenarian)
+- [The Genius Whose Simple Invention Saved Us from Shame at the Gas Station](https://www.wsj.com/business/autos/ford-gas-arrow-inventor-jim-moylan-6b2ef066)
+- [Adventure 751 &lpar;1980&rpar;](https://bluerenga.blog/2026/01/01/adventure-751-1980/)
+- [Show HN: Open-source CSPM, DSPM, CIEM, and vulnerability management](https://github.com/clay-good/mantissa-stance)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [China&#39;s BYD set to overtake Tesla as top EV seller](https://www.bbc.com/news/articles/cj9rjwpvmpzo)
-- [DENT: A network operating system &lpar;NOS&rpar; for everyone else](https://dent.dev/)
-- [Marmot – A distributed SQLite server with MySQL wire compatible interface](https://github.com/maxpert/marmot)
-- [AI Futures Model: Dec 2025 Update](https://blog.ai-futures.org/p/ai-futures-model-dec-2025-update)
-- [Happy Public Domain Day 2026](https://publicdomainreview.org/blog/2026/01/public-domain-day-2026/)
-- [Extensibility: The &quot;100% Lisp&quot; Fallacy](https://kyo.iroiro.party/en/posts/100-percent-lisp/)
-- [Why users cannot create Issues directly &lpar;Ghostty&rpar;](https://github.com/ghostty-org/ghostty/issues/3558)
-- [California Delete Request and Opt-out Platform &lpar;DROP&rpar;](https://privacy.ca.gov/DROP/)
-- [Why Prefer Textfiles? &lpar;2010&rpar;](http://textfiles.com/uploads/textfiles.txt)
-- [WebAssembly as a Python Extension Platform](https://nullprogram.com/blog/2026/01/01/)
+- [Einstein Probe detects an X-ray flare from nearby star](https://phys.org/news/2025-12-einstein-probe-ray-flare-nearby.html)
+- [A Basic Just-In-Time Compiler &lpar;2015&rpar;](https://nullprogram.com/blog/2015/03/19/)
+- [Proving Liveness with TLA](https://roscidus.com/blog/blog/2026/01/01/tla-liveness/)
+- [Blaze: A Dec VT420 &lpar;and More&rpar; Emulator](https://mmastrac.github.io/blaze/)
+- [2026 will be my year of the Linux desktop](https://xeiaso.net/notes/2026/year-linux-desktop/)
+- [Show HN: Website that plays the lottery every second](https://lotteryeverysecond.lffl.me/)
+- [Microsoft kills official way to activate Windows 11/10 without internet](https://www.neowin.net/news/report-microsoft-quietly-kills-official-way-to-activate-windows-1110-without-internet/)
+- [Global software engineering job postings outlook – 2026](https://jobswithgpt.com/blog/global_software-engineering_jobs_january_2026/)
+- [Linux kernel security work](http://www.kroah.com/log/blog/2026/01/02/linux-kernel-security-work/)
+- [Daft Punk Easter Egg in the BPM Tempo of Harder, Better, Faster, Stronger?](https://www.madebywindmill.com/tempi/blog/hbfs-bpm/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

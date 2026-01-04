@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [A message-driven DAG execution engine](https://github.com/rodmena-limited/stabilize)
-- [Red Teaming with RL: Exploiting Tinker API for Harmful RL on 235B Model](https://huggingface.co/blog/georgefen/red-teaming-with-rl)
-- [RICO Lawsuit Accuses Drake of Fake Streams](https://www.digitalmusicnews.com/2026/01/02/drake-stake-lawsuit/)
-- [bcherny&#39;s Claude Code Setup](https://twitter.com/i/status/2007179832300581177)
-- [Open-source CLI tool for generating licenses for your repositories](https://github.com/anth0nycodes/license-generator)
-- [High-end AirPods Pro 3 adding cameras for Apple Intelligence features and more](https://9to5mac.com/2026/01/02/another-airpods-pro-3-model-is-coming-with-one-rumored-upgrade/)
-- [Becoming a Centenarian](https://www.newyorker.com/magazine/2025/12/22/becoming-a-centenarian)
-- [The Genius Whose Simple Invention Saved Us from Shame at the Gas Station](https://www.wsj.com/business/autos/ford-gas-arrow-inventor-jim-moylan-6b2ef066)
-- [Adventure 751 &lpar;1980&rpar;](https://bluerenga.blog/2026/01/01/adventure-751-1980/)
-- [Show HN: Open-source CSPM, DSPM, CIEM, and vulnerability management](https://github.com/clay-good/mantissa-stance)
+- [Show HN: Spectral Lab – An optics simulator in WebGL](https://artepants.fun/posts/spectral-lab-1/)
+- [Distinguishing yourself early in your career as a developer](https://notes.eatonphil.com/2026-01-03-distinguishing-yourself.html)
+- [Acute exercise rewires the proteomic landscape of human immune cells](https://www.nature.com/articles/s41467-025-68101-9)
+- [&#39;Chinese Peptides&#39; Are the Latest Biohacking Trend in the Tech World](https://www.nytimes.com/2026/01/03/business/chinese-peptides-silicon-valley.html)
+- [Building a TLS 1.3 Implementation in Pure Common Lisp](https://atgreen.github.io/repl-yell/posts/pure-tls/)
+- [Single superconductor produces quantum junction effect](https://www.perplexity.ai/page/single-superconductor-produces-9VNytaNyR0StknFWo3NKIw)
+- [A Quote from Jaana Dogan](https://simonwillison.net/2026/Jan/4/jaana-dogan/)
+- [Steve Jobs predicted AI in 1983 [video]](https://www.youtube.com/watch?v=yHB_5WmRbho)
+- [Is This the End of Starbucks in China? [video]](https://www.youtube.com/watch?v=GlKrqeoVYoQ)
+- [Context Engineering Is Solved. Compound Engineering Is Next](https://jefferyk.notion.site/Context-Engineering-Is-Solved-Compound-Engineering-Is-Next-2de114c258a180d291f9d41a11491183)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

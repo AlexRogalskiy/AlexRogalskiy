@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Einstein Probe detects an X-ray flare from nearby star](https://phys.org/news/2025-12-einstein-probe-ray-flare-nearby.html)
-- [A Basic Just-In-Time Compiler &lpar;2015&rpar;](https://nullprogram.com/blog/2015/03/19/)
-- [Proving Liveness with TLA](https://roscidus.com/blog/blog/2026/01/01/tla-liveness/)
-- [Blaze: A Dec VT420 &lpar;and More&rpar; Emulator](https://mmastrac.github.io/blaze/)
-- [2026 will be my year of the Linux desktop](https://xeiaso.net/notes/2026/year-linux-desktop/)
-- [Show HN: Website that plays the lottery every second](https://lotteryeverysecond.lffl.me/)
-- [Microsoft kills official way to activate Windows 11/10 without internet](https://www.neowin.net/news/report-microsoft-quietly-kills-official-way-to-activate-windows-1110-without-internet/)
-- [Global software engineering job postings outlook – 2026](https://jobswithgpt.com/blog/global_software-engineering_jobs_january_2026/)
-- [Linux kernel security work](http://www.kroah.com/log/blog/2026/01/02/linux-kernel-security-work/)
-- [Daft Punk Easter Egg in the BPM Tempo of Harder, Better, Faster, Stronger?](https://www.madebywindmill.com/tempi/blog/hbfs-bpm/)
+- [U.S. veterans helped Venezuela&#39;s Machado escape](https://www.npr.org/2025/12/12/nx-s1-5642538/machados-escape-from-venezuela)
+- [Grok can&#39;t &quot;apologize&quot; for posting non-consensual sexual images](https://arstechnica.com/ai/2026/01/no-grok-cant-really-apologize-for-posting-non-consensual-sexual-images/)
+- [How Thomas Mann Wrote the Magic Mountain](https://www.theguardian.com/books/2025/dec/31/the-master-of-contradictions-by-morten-hi-jensen-review-how-thomas-mann-wrote-the-magic-mountain)
+- [Developing a BLAS Library for the AMD AI Engine [pdf]](https://uni.tlaan.nl/thesis/msc_thesis_tristan_laan_aieblas.pdf)
+- [MyTorch – Minimalist autograd in 450 lines of Python](https://github.com/obround/mytorch)
+- [The Great Gatsby is the most misunderstood novel &lpar;2021&rpar;](https://www.bbc.com/culture/article/20210209-the-worlds-most-misunderstood-novel)
+- [SQLNet A social network that looks like Twitter but you write SQL to do anything](https://sqlnet.cc)
+- [Corroded: Illegal Rust](https://github.com/buyukakyuz/corroded)
+- [KDE onboarding is good now](https://rabbitictranslator.com/kde-onboarding/)
+- [Worst Case Optimal Joins: Graph-Join Correspondence](https://finnvolkel.com/wcoj-graph-join-correspondence)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine war briefing: Russia makes biggest battleground gains since first year of war, analysis shows](https://www.theguardian.com/world/2026/jan/03/ukraine-war-briefing-russia-makes-biggest-battleground-gains-since-first-year-of-war-analysis-shows)
-- [Saudi invites Yemen’s southern factions to ‘dialogue’ in Riyadh after surprise independence bid](https://www.theguardian.com/world/2026/jan/02/saudi-warplanes-kill-uae-backed-yemeni-separatists)
-- [Trump news at a glance: Nicolás Maduro wants to have ‘serious talks’ with Trump](https://www.theguardian.com/us-news/2026/jan/02/trump-administration-news-latest-updates-today)
-- [California ban on openly carrying guns is unconstitutional, court rules](https://www.theguardian.com/us-news/2026/jan/02/california-ban-open-carry-unconstitutional)
-- [Gian van Veen denies Gary Anderson in epic to set up final against Luke Littler](https://www.theguardian.com/sport/2026/jan/02/pdc-world-darts-semi-final-luke-littler-ryan-searle-gary-anderson-gian-van-veen)
-- [US woman charged with fetal homicide after allegedly inducing own abortion](https://www.theguardian.com/us-news/2026/jan/02/kentucky-woman-arrest-abortion)
-- [‘Magical place’: tourists see another side of Papua New Guinea’s most troubled region](https://www.theguardian.com/world/2026/jan/02/magical-place-tourists-see-another-side-of-papua-new-guineas-most-troubled-region)
-- [Thomas Frank admits ‘it’s difficult to enjoy’ being Tottenham head coach](https://www.theguardian.com/football/2026/jan/02/thomas-frank-admits-its-difficult-to-enjoy-being-tottenham-head-coach)
-- [Man dies after being pulled from sea as search continues for two missing off Withernsea](https://www.theguardian.com/uk-news/2026/jan/02/search-under-way-for-two-people-missing-off-withernsea-in-east-riding-of-yorkshire)
-- [Missing worker could be trapped 1km underground after Queensland mine collapses](https://www.theguardian.com/australia-news/2026/jan/03/missing-worker-could-be-trapped-1km-underground-after-queensland-mine-collapses)
+- [Australia v England: fifth Ashes Test, day one – live](https://www.theguardian.com/sport/live/2026/jan/04/australia-v-england-fifth-ashes-test-day-one-live-updates-sydney-scg)
+- [Venezuelan leader Maduro lands in New York after capture by US troops – live](https://www.theguardian.com/world/live/2026/jan/03/caracas-explosions-venezuela-maduro-latest-news-updates-live)
+- [Buccaneers see off Panthers in stinker but must wait to learn NFC South fate](https://www.theguardian.com/sport/2026/jan/03/nfl-week-18-saturday-games-scores)
+- [European football: García back to haunt Espanyol as Barcelona go seven clear](https://www.theguardian.com/football/2026/jan/03/european-football-davids-missed-penalty-costs-juventus-against-lecce)
+- [Bowie: The Final Act review – the critic who made the star cry is stunned by his own disrespect](https://www.theguardian.com/tv-and-radio/2026/jan/04/bowie-the-final-act-review-the-critic-who-made-the-star-cry-is-stunned-by-his-own-disrespect)
+- [North Korea ‘has fired ballistic missile towards the Sea of Japan’](https://www.theguardian.com/world/2026/jan/03/north-korea-has-fired-ballistic-missile-towards-the-sea-of-japan)
+- [British and French aircraft attack underground Islamic State weapons store in Syria](https://www.theguardian.com/world/2026/jan/03/british-and-french-aircraft-attack-underground-isis-weapons-store-in-syria)
+- [Missing worker found dead after roof collapse deep underground at Queensland coalmine](https://www.theguardian.com/australia-news/2026/jan/04/missing-worker-found-dead-after-roof-collapse-deep-underground-at-queensland-coalmine-ntwnfb)
+- [Ruben Amorim clamming up over transfer hopes suggests faultline](https://www.theguardian.com/football/2026/jan/03/ruben-amorim-manchester-united-premier-league-transfer-window)
+- [US oil giants silent on Trump claim they will spend billions on Venezuelan oil industry](https://www.theguardian.com/us-news/2026/jan/03/us-oil-trump-venezuela)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

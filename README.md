@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Australia v England: fifth Ashes Test, day one – live](https://www.theguardian.com/sport/live/2026/jan/04/australia-v-england-fifth-ashes-test-day-one-live-updates-sydney-scg)
-- [Venezuelan leader Maduro lands in New York after capture by US troops – live](https://www.theguardian.com/world/live/2026/jan/03/caracas-explosions-venezuela-maduro-latest-news-updates-live)
-- [Buccaneers see off Panthers in stinker but must wait to learn NFC South fate](https://www.theguardian.com/sport/2026/jan/03/nfl-week-18-saturday-games-scores)
-- [European football: García back to haunt Espanyol as Barcelona go seven clear](https://www.theguardian.com/football/2026/jan/03/european-football-davids-missed-penalty-costs-juventus-against-lecce)
-- [Bowie: The Final Act review – the critic who made the star cry is stunned by his own disrespect](https://www.theguardian.com/tv-and-radio/2026/jan/04/bowie-the-final-act-review-the-critic-who-made-the-star-cry-is-stunned-by-his-own-disrespect)
-- [North Korea ‘has fired ballistic missile towards the Sea of Japan’](https://www.theguardian.com/world/2026/jan/03/north-korea-has-fired-ballistic-missile-towards-the-sea-of-japan)
-- [British and French aircraft attack underground Islamic State weapons store in Syria](https://www.theguardian.com/world/2026/jan/03/british-and-french-aircraft-attack-underground-isis-weapons-store-in-syria)
-- [Missing worker found dead after roof collapse deep underground at Queensland coalmine](https://www.theguardian.com/australia-news/2026/jan/04/missing-worker-found-dead-after-roof-collapse-deep-underground-at-queensland-coalmine-ntwnfb)
-- [Ruben Amorim clamming up over transfer hopes suggests faultline](https://www.theguardian.com/football/2026/jan/03/ruben-amorim-manchester-united-premier-league-transfer-window)
-- [US oil giants silent on Trump claim they will spend billions on Venezuelan oil industry](https://www.theguardian.com/us-news/2026/jan/03/us-oil-trump-venezuela)
+- [Australia v England: fifth Ashes Test, day two – live](https://www.theguardian.com/sport/live/2026/jan/05/australia-v-england-fifth-ashes-test-day-two-live-updates-sydney-scg)
+- [Trump threatens Colombia with military action as he reiterates that the US is ‘in charge’ in Venezuela – live](https://www.theguardian.com/world/live/2026/jan/04/nicolas-maduro-jailed-us-attack-venezuela-donald-trump-reaction-latest-news-updates-live)
+- [Bangladesh withdraws from T20 World Cup matches in India amid growing tensions with neighbour](https://www.theguardian.com/world/2026/jan/05/bangladesh-withdraws-from-t20-world-cup-matches-in-india-amid-growing-tensions-with-neighbour)
+- [Ukraine war briefing: Kyiv escalating drone attacks on Russia, Moscow claims](https://www.theguardian.com/world/2026/jan/05/ukraine-war-briefing-kyiv-escalating-drone-attacks-on-russia-moscow-claims)
+- [Collapse of ‘zombie’ UK firms forecast to fuel unemployment in 2026](https://www.theguardian.com/society/2026/jan/05/collapse-zombie-companies-uk-rise-unemployment)
+- [Evangeline Lilly reveals she has brain damage after hitting her head in fall](https://www.theguardian.com/film/2026/jan/05/evangeline-lilly-brain-damage-beach-fall)
+- [Amorim’s Manchester United future in balance amid Wilcox transfer tension](https://www.theguardian.com/football/2026/jan/04/ruben-amorim-manchester-united-leeds-premier-league)
+- [UK’s plans to seize asylum seekers’ phones condemned by campaigners](https://www.theguardian.com/uk-news/2026/jan/04/uk-plans-seize-asylum-seekers-phones-condemned-campaigners)
+- [Few in Caracas are celebrating as they face an uncertain post-Maduro future](https://www.theguardian.com/world/2026/jan/04/few-in-caracas-are-celebrating-as-they-face-an-uncertain-post-maduro-future)
+- [US ‘has no right’ to take over Greenland, Danish PM says after renewed Trump threats](https://www.theguardian.com/world/2026/jan/04/greenland-denmark-us-venezuela-nicolas-maduro-donald-trump)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

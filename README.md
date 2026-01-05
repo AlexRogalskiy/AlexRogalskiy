@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: Spectral Lab – An optics simulator in WebGL](https://artepants.fun/posts/spectral-lab-1/)
-- [Distinguishing yourself early in your career as a developer](https://notes.eatonphil.com/2026-01-03-distinguishing-yourself.html)
-- [Acute exercise rewires the proteomic landscape of human immune cells](https://www.nature.com/articles/s41467-025-68101-9)
-- [&#39;Chinese Peptides&#39; Are the Latest Biohacking Trend in the Tech World](https://www.nytimes.com/2026/01/03/business/chinese-peptides-silicon-valley.html)
-- [Building a TLS 1.3 Implementation in Pure Common Lisp](https://atgreen.github.io/repl-yell/posts/pure-tls/)
-- [Single superconductor produces quantum junction effect](https://www.perplexity.ai/page/single-superconductor-produces-9VNytaNyR0StknFWo3NKIw)
-- [A Quote from Jaana Dogan](https://simonwillison.net/2026/Jan/4/jaana-dogan/)
-- [Steve Jobs predicted AI in 1983 [video]](https://www.youtube.com/watch?v=yHB_5WmRbho)
-- [Is This the End of Starbucks in China? [video]](https://www.youtube.com/watch?v=GlKrqeoVYoQ)
-- [Context Engineering Is Solved. Compound Engineering Is Next](https://jefferyk.notion.site/Context-Engineering-Is-Solved-Compound-Engineering-Is-Next-2de114c258a180d291f9d41a11491183)
+- [Ask HN: How is your work making the world a better place?](https://news.ycombinator.com/item?id=46495155)
+- [Why I Keep Returning to Middle-Earth](https://www.nytimes.com/2025/12/19/opinion/tolkien-grief-lord-rings.html)
+- [&#39;Big Short&#39; investor accuses AI hyperscalers of artificially boosting earnings &lpar;2025&rpar;](https://www.cnbc.com/2025/11/11/big-short-investor-michael-burry-accuses-ai-hyperscalers-of-artificially-boosting-earnings.html)
+- [Relationship Between Artist and Computer](https://www.atariarchives.org/artist/preface.php)
+- [Bad Apple but it&#39;s played with cargo compilation output](https://old.reddit.com/r/rust/comments/1q3rrt0/media_bad_apple_but_its_played_with_cargo/)
+- [A man who paves India&#39;s roads with old plastic &lpar;2018&rpar;](https://www.theguardian.com/world/2018/jul/09/the-man-who-paves-indias-roads-with-old-plastic)
+- [Stop Playing Flappy Bird with Your New Year&#39;s Goals](https://suntreeapps.com/blog/posts/new-years-goals-difficulty-curve/)
+- [Joke Father](https://jokefather.com/)
+- [Enclose.horse](https://enclose.horse)
+- [Finley: Artificial Intelligence is making old guys obsolete](https://www.usatoday.com)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

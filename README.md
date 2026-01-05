@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [U.S. veterans helped Venezuela&#39;s Machado escape](https://www.npr.org/2025/12/12/nx-s1-5642538/machados-escape-from-venezuela)
-- [Grok can&#39;t &quot;apologize&quot; for posting non-consensual sexual images](https://arstechnica.com/ai/2026/01/no-grok-cant-really-apologize-for-posting-non-consensual-sexual-images/)
-- [How Thomas Mann Wrote the Magic Mountain](https://www.theguardian.com/books/2025/dec/31/the-master-of-contradictions-by-morten-hi-jensen-review-how-thomas-mann-wrote-the-magic-mountain)
-- [Developing a BLAS Library for the AMD AI Engine [pdf]](https://uni.tlaan.nl/thesis/msc_thesis_tristan_laan_aieblas.pdf)
-- [MyTorch – Minimalist autograd in 450 lines of Python](https://github.com/obround/mytorch)
-- [The Great Gatsby is the most misunderstood novel &lpar;2021&rpar;](https://www.bbc.com/culture/article/20210209-the-worlds-most-misunderstood-novel)
-- [SQLNet A social network that looks like Twitter but you write SQL to do anything](https://sqlnet.cc)
-- [Corroded: Illegal Rust](https://github.com/buyukakyuz/corroded)
-- [KDE onboarding is good now](https://rabbitictranslator.com/kde-onboarding/)
-- [Worst Case Optimal Joins: Graph-Join Correspondence](https://finnvolkel.com/wcoj-graph-join-correspondence)
+- [AGI Is Here](https://www.robinsloan.com/winter-garden/agi-is-here/)
+- [During Helene, I just wanted a plain text website](https://sparkbox.com/foundry/helene_and_mobile_web_performance)
+- [Millennium Challenge: A corrupted military exercise and its legacy &lpar;2015&rpar;](https://warontherocks.com/2015/11/millennium-challenge-the-real-story-of-a-corrupted-military-exercise-and-its-legacy/)
+- [Show HN: An LLM-Powered PCB Schematic Checker &lpar;Major Update&rpar;](https://traceformer.io/)
+- [Eurostar AI vulnerability: When a chatbot goes off the rails](https://www.pentestpartners.com/security-blog/eurostar-ai-vulnerability-when-a-chatbot-goes-off-the-rails/)
+- [Why does a least squares fit appear to have a bias when applied to simple data?](https://stats.stackexchange.com/questions/674129/why-does-a-linear-least-squares-fit-appear-to-have-a-bias-when-applied-to-simple)
+- [Show HN: Terminal UI for AWS](https://github.com/huseyinbabal/taws)
+- [Claude Code On-the-Go](https://granda.org/en/2026/01/02/claude-code-on-the-go/)
+- [Agentic Patterns](https://github.com/nibzard/awesome-agentic-patterns)
+- [Show HN: Hover – IDE style hover documentation on any webpage](https://github.com/Sampsoon/hover)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

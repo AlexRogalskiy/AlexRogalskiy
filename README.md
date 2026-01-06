@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ask HN: How is your work making the world a better place?](https://news.ycombinator.com/item?id=46495155)
-- [Why I Keep Returning to Middle-Earth](https://www.nytimes.com/2025/12/19/opinion/tolkien-grief-lord-rings.html)
-- [&#39;Big Short&#39; investor accuses AI hyperscalers of artificially boosting earnings &lpar;2025&rpar;](https://www.cnbc.com/2025/11/11/big-short-investor-michael-burry-accuses-ai-hyperscalers-of-artificially-boosting-earnings.html)
-- [Relationship Between Artist and Computer](https://www.atariarchives.org/artist/preface.php)
-- [Bad Apple but it&#39;s played with cargo compilation output](https://old.reddit.com/r/rust/comments/1q3rrt0/media_bad_apple_but_its_played_with_cargo/)
-- [A man who paves India&#39;s roads with old plastic &lpar;2018&rpar;](https://www.theguardian.com/world/2018/jul/09/the-man-who-paves-indias-roads-with-old-plastic)
-- [Stop Playing Flappy Bird with Your New Year&#39;s Goals](https://suntreeapps.com/blog/posts/new-years-goals-difficulty-curve/)
-- [Joke Father](https://jokefather.com/)
-- [Enclose.horse](https://enclose.horse)
-- [Finley: Artificial Intelligence is making old guys obsolete](https://www.usatoday.com)
+- [Why text-based evals fail for vision-language models](https://news.ycombinator.com/item?id=46508362)
+- [Who Owns the Memory? Part 3: How Big Is Your Type?](https://lukefleed.xyz/posts/who-owns-the-memory-pt3/)
+- [Amazon Prime AI Overviews Can&#39;t Even Get the Basics Right](https://news.ycombinator.com/item?id=46508324)
+- [AI-driven inflation is 2026&#39;s most overlooked risk, investors say](https://www.reuters.com/world/asia-pacific/ai-driven-inflation-is-2026s-most-overlooked-risk-investors-say-2026-01-05/)
+- [Show HN: llmgame.ai – The Wikipedia Game but with LLMs](https://www.llmgame.ai)
+- [Show HN: Dr. Ralph – Medical Diagnostics Plugin Using Claude Code&#39;s Ralph Wiggum](https://news.ycombinator.com/item?id=46508290)
+- [Ask HN: How to balance incremental SaaS building with a big long-term vision?](https://news.ycombinator.com/item?id=46508289)
+- [7k-year-old underwater wall raises questions about ancient engineering](https://bigthink.com/strange-maps/submarine-wall/)
+- [Show HN: A Chrome extension that turns Strava activities into a visual collage](https://chromewebstore.google.com/detail/strava-collage/ekcfaakmcialmjklbfadnbohfhgmgepf)
+- [Welder&#39;s Anthrax](https://arstechnica.com/health/2026/01/anthrax-nearly-kills-healthy-18-year-old-welder-amid-puzzling-pattern/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

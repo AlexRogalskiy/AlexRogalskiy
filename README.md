@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Australia v England: fifth Ashes Test, day two – live](https://www.theguardian.com/sport/live/2026/jan/05/australia-v-england-fifth-ashes-test-day-two-live-updates-sydney-scg)
-- [Trump threatens Colombia with military action as he reiterates that the US is ‘in charge’ in Venezuela – live](https://www.theguardian.com/world/live/2026/jan/04/nicolas-maduro-jailed-us-attack-venezuela-donald-trump-reaction-latest-news-updates-live)
-- [Bangladesh withdraws from T20 World Cup matches in India amid growing tensions with neighbour](https://www.theguardian.com/world/2026/jan/05/bangladesh-withdraws-from-t20-world-cup-matches-in-india-amid-growing-tensions-with-neighbour)
-- [Ukraine war briefing: Kyiv escalating drone attacks on Russia, Moscow claims](https://www.theguardian.com/world/2026/jan/05/ukraine-war-briefing-kyiv-escalating-drone-attacks-on-russia-moscow-claims)
-- [Collapse of ‘zombie’ UK firms forecast to fuel unemployment in 2026](https://www.theguardian.com/society/2026/jan/05/collapse-zombie-companies-uk-rise-unemployment)
-- [Evangeline Lilly reveals she has brain damage after hitting her head in fall](https://www.theguardian.com/film/2026/jan/05/evangeline-lilly-brain-damage-beach-fall)
-- [Amorim’s Manchester United future in balance amid Wilcox transfer tension](https://www.theguardian.com/football/2026/jan/04/ruben-amorim-manchester-united-leeds-premier-league)
-- [UK’s plans to seize asylum seekers’ phones condemned by campaigners](https://www.theguardian.com/uk-news/2026/jan/04/uk-plans-seize-asylum-seekers-phones-condemned-campaigners)
-- [Few in Caracas are celebrating as they face an uncertain post-Maduro future](https://www.theguardian.com/world/2026/jan/04/few-in-caracas-are-celebrating-as-they-face-an-uncertain-post-maduro-future)
-- [US ‘has no right’ to take over Greenland, Danish PM says after renewed Trump threats](https://www.theguardian.com/world/2026/jan/04/greenland-denmark-us-venezuela-nicolas-maduro-donald-trump)
+- [Australia v England: fifth Ashes Test, day three – live](https://www.theguardian.com/sport/live/2026/jan/06/australia-v-england-fifth-ashes-test-day-three-live-updates-sydney-scg)
+- [Venezuelan opposition leader says she would share Nobel Peace prize with Trump during Fox News appearance – live](https://www.theguardian.com/world/live/2026/jan/05/venezuela-live-updates-trump-us-interim-president-collaborate)
+- [US will be exempt from global tax deal targeting profits of large multinationals](https://www.theguardian.com/business/2026/jan/06/us-exemption-oecd-global-tax-deal-multinational-companies)
+- [Worst heatwave since black summer forecast for more than half of Australia](https://www.theguardian.com/australia-news/2026/jan/06/worst-heatwave-since-black-summer-forecast-australia)
+- [Anger in Papua New Guinea after Starlink ordered to shut down internet services](https://www.theguardian.com/world/2026/jan/06/papua-new-guinea-internet-starlink-shut-down)
+- [Trump officials sue California cities over laws to restrict fossil fuels](https://www.theguardian.com/us-news/2026/jan/05/trump-officials-sue-california-cities)
+- [Nvidia announces new, more powerful Vera Rubin chip made for AI](https://www.theguardian.com/technology/2026/jan/05/nvidia-chips-jensen-huang)
+- [Is Trump really as lawless as he seems? Or is he just a law unto himself? | Fiona Katauskas](https://www.theguardian.com/commentisfree/picture/2026/jan/06/is-trump-really-as-lawless-as-he-seems-or-is-he-just-a-law-unto-himself)
+- [Ukraine war briefing: Russian strikes kill two and trigger hospital fire ahead of Paris peace talks](https://www.theguardian.com/world/2026/jan/06/ukraine-war-briefing-russian-strikes-kill-two-and-trigger-hospital-fire-ahead-of-paris-peace-talks)
+- [‘It ought to provide a deterrent’: what US action in Venezuela means for Taiwan](https://www.theguardian.com/world/2026/jan/06/what-us-action-in-venezuela-means-for-taiwan)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

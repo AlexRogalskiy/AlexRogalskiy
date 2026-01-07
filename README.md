@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Why text-based evals fail for vision-language models](https://news.ycombinator.com/item?id=46508362)
-- [Who Owns the Memory? Part 3: How Big Is Your Type?](https://lukefleed.xyz/posts/who-owns-the-memory-pt3/)
-- [Amazon Prime AI Overviews Can&#39;t Even Get the Basics Right](https://news.ycombinator.com/item?id=46508324)
-- [AI-driven inflation is 2026&#39;s most overlooked risk, investors say](https://www.reuters.com/world/asia-pacific/ai-driven-inflation-is-2026s-most-overlooked-risk-investors-say-2026-01-05/)
-- [Show HN: llmgame.ai – The Wikipedia Game but with LLMs](https://www.llmgame.ai)
-- [Show HN: Dr. Ralph – Medical Diagnostics Plugin Using Claude Code&#39;s Ralph Wiggum](https://news.ycombinator.com/item?id=46508290)
-- [Ask HN: How to balance incremental SaaS building with a big long-term vision?](https://news.ycombinator.com/item?id=46508289)
-- [7k-year-old underwater wall raises questions about ancient engineering](https://bigthink.com/strange-maps/submarine-wall/)
-- [Show HN: A Chrome extension that turns Strava activities into a visual collage](https://chromewebstore.google.com/detail/strava-collage/ekcfaakmcialmjklbfadnbohfhgmgepf)
-- [Welder&#39;s Anthrax](https://arstechnica.com/health/2026/01/anthrax-nearly-kills-healthy-18-year-old-welder-amid-puzzling-pattern/)
+- [Ask HN: How do you minimize dependence on US-based infrastructure?](https://news.ycombinator.com/item?id=46522085)
+- [The Year in Neanderthals](https://www.nytimes.com/2026/01/03/science/archaeology-neanderthals-genetics.html)
+- [GitHub Compiled](https://githubcompiled.com/)
+- [Gemini&#39;s 3 line execution mode](https://olshansky.info/thoughts/2026-01-06-gemini-s-3-line-execution-mode)
+- [Russia sends submarine to escort tanker the US tried to seize off Venezuela](https://www.reuters.com/world/americas/russia-sends-submarine-escort-tanker-us-tried-seize-off-venezuela-wsj-reports-2026-01-07/)
+- [Ask HN: Apple App Store Denial Because of Apple Pay](https://news.ycombinator.com/item?id=46521982)
+- [Logitech Options+ Cert Expired](https://www.reddit.com/r/logitech/s/ATlS4TZd3E)
+- [Not too big, not too expensive: The Chevrolet Equinox EV](https://arstechnica.com/cars/2025/12/the-chevrolet-equinox-ev-is-high-on-comfort-and-convenience/)
+- [It doesn&#39;t take two to think. It takes ITERATION to think](https://twitter.com/eltokh7/status/2008729474981109890)
+- [Eclipsa Audio: immersive audio for everyone &lpar;2025&rpar;](https://opensource.googleblog.com/2025/01/introducing-eclipsa-audio-immersive-audio-for-everyone.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

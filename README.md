@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [I/O is no longer the bottleneck? &lpar;2022&rpar;](https://stoppels.ch/2022/11/27/io-is-no-longer-the-bottleneck.html)
-- [Strange.website](https://strange.website/)
-- [Donut Lab’s all-solid-state battery delivers 400 Wh/kg of energy density](https://www.donutlab.com/ces-battery-announcement/)
-- [Migrating cells and the new science of microchimerism](https://www.nature.com/articles/d41586-025-04102-4)
-- [Google broke my heart](https://perishablepress.com/google-broke-my-heart/)
-- [Keeping Syria connected during war: Surviving ISIS and Intelligence](https://syriauntold.com/2025/12/27/keeping-syria-connected-during-war/)
-- [Scientific production in the era of large language models [pdf]](https://gwern.net/doc/science/2025-kusumegi.pdf)
-- [There were BGP anomalies during the Venezuela blackout](https://loworbitsecurity.com/radar/radar16/)
-- [Pipe Dreams – The life and times of Yahoo Pipes &lpar;2023&rpar;](https://retool.com/pipes)
-- [Sega co-founder David Rosen has died](https://www.theguardian.com/games/2026/jan/05/sega-co-founder-david-rosen-dies)
+- [Microsoft probably killed my Snapdragon Dev Kit](https://jasoneckert.github.io/myblog/how-microsoft-killed-my-snapdragon-devkit/)
+- [Most websites don&#39;t need cookie consent banners](https://block81.com/blog/why-most-websites-dont-actually-need-cookie-consent-banners)
+- [PassSeeds – hijacking Passkeys to unlock new cryptographic use cases](https://backalleycoder.com/posts/passseeds-an-experiment-in-hijacking-passkeys-to-unlock-cryptographic-use-cases/)
+- [We Recreated Steve Jobs&#39;s 1975 Atari Horoscope Program and You Can Run It](https://blog.adafruit.com/2026/01/06/we-recreated-steve-jobss-1975-atari-horoscope-program-and-you-can-run-it/)
+- [Electronic nose for indoor mold detection and identification](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adsr.202500124)
+- [Why the trans flag emoji is the 5-codepoint sequence it is](https://hecate.pink/blog/2026/trans-flag-emoji/)
+- [Ruby Array Pack Bleed](https://nastystereo.com/security/ruby-pack.html)
+- [Hyundai Introduces Its Next-Gen Atlas Robot at CES 2026 [video]](https://www.youtube.com/watch?v=9e0SQn9uUlw)
+- [Show HN: GPU Cuckoo Filter – faster queries than Blocked Bloom, with deletion](https://github.com/tdortman/cuckoo-filter)
+- [Are we tired of social media once and for all? &lpar;2025&rpar;](https://www.danielbrendel.com/blog/24-are-we-tired-of-social-media-once-and-for-all)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Australia v England: fifth Ashes Test, day three – live](https://www.theguardian.com/sport/live/2026/jan/06/australia-v-england-fifth-ashes-test-day-three-live-updates-sydney-scg)
-- [Venezuelan opposition leader says she would share Nobel Peace prize with Trump during Fox News appearance – live](https://www.theguardian.com/world/live/2026/jan/05/venezuela-live-updates-trump-us-interim-president-collaborate)
-- [US will be exempt from global tax deal targeting profits of large multinationals](https://www.theguardian.com/business/2026/jan/06/us-exemption-oecd-global-tax-deal-multinational-companies)
-- [Worst heatwave since black summer forecast for more than half of Australia](https://www.theguardian.com/australia-news/2026/jan/06/worst-heatwave-since-black-summer-forecast-australia)
-- [Anger in Papua New Guinea after Starlink ordered to shut down internet services](https://www.theguardian.com/world/2026/jan/06/papua-new-guinea-internet-starlink-shut-down)
-- [Trump officials sue California cities over laws to restrict fossil fuels](https://www.theguardian.com/us-news/2026/jan/05/trump-officials-sue-california-cities)
-- [Nvidia announces new, more powerful Vera Rubin chip made for AI](https://www.theguardian.com/technology/2026/jan/05/nvidia-chips-jensen-huang)
-- [Is Trump really as lawless as he seems? Or is he just a law unto himself? | Fiona Katauskas](https://www.theguardian.com/commentisfree/picture/2026/jan/06/is-trump-really-as-lawless-as-he-seems-or-is-he-just-a-law-unto-himself)
-- [Ukraine war briefing: Russian strikes kill two and trigger hospital fire ahead of Paris peace talks](https://www.theguardian.com/world/2026/jan/06/ukraine-war-briefing-russian-strikes-kill-two-and-trigger-hospital-fire-ahead-of-paris-peace-talks)
-- [‘It ought to provide a deterrent’: what US action in Venezuela means for Taiwan](https://www.theguardian.com/world/2026/jan/06/what-us-action-in-venezuela-means-for-taiwan)
+- [Australia v England: fifth Ashes Test, day four – live](https://www.theguardian.com/sport/live/2026/jan/06/australia-v-england-fifth-ashes-test-day-four-live-updates-sydney-scg)
+- [Venezuela ‘turning over’ $2bn in oil to US, Trump says, in move that could cut supply to China](https://www.theguardian.com/world/2026/jan/07/venezuela-oil-trump-us-latest)
+- [Teen killed by bus during ultra-Orthodox protest against conscription in Jerusalem](https://www.theguardian.com/world/2026/jan/07/teen-killed-anti-military-conscription-protest-israel-ultra-orthodox)
+- [Accused Brown University shooter planned attack for years, video transcripts show](https://www.theguardian.com/us-news/2026/jan/06/brown-university-shooter-video-transcripts)
+- [Woman in Mind review – play stands the test of time for its originality](https://www.theguardian.com/stage/2026/jan/06/woman-in-mind-review-revival-that-stands-test-of-time-for-its-originality)
+- [Republicans silent and Democrats incensed on fifth anniversary of US Capitol attack](https://www.theguardian.com/us-news/2026/jan/06/january-6-us-capitol-attack-fifth-anniversary)
+- [Elon Musk’s xAI announces it has raised $20bn amid backlash over Grok deepfakes](https://www.theguardian.com/technology/2026/jan/06/elon-musk-xai-investment-grok-backlash)
+- [Government signals tougher motoring rules to reduce casualties on Britain’s roads](https://www.theguardian.com/world/2026/jan/06/government-signals-tougher-motoring-rules-to-reduce-casualties-on-britains-roads)
+- [‘Bigger than me’: road safety campaigner whose son died in collision welcomes new UK rules](https://www.theguardian.com/politics/2026/jan/06/bigger-than-me-road-safety-campaigner-son-died-collision-welcomes-rules)
+- [Oliver Glasner set to decide on Crystal Palace contract and hints at Guéhi sale](https://www.theguardian.com/football/2026/jan/06/crystal-palace-oliver-glasner-marc-guehi)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

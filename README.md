@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Australia v England: fifth Ashes Test, day four – live](https://www.theguardian.com/sport/live/2026/jan/06/australia-v-england-fifth-ashes-test-day-four-live-updates-sydney-scg)
-- [Venezuela ‘turning over’ $2bn in oil to US, Trump says, in move that could cut supply to China](https://www.theguardian.com/world/2026/jan/07/venezuela-oil-trump-us-latest)
-- [Teen killed by bus during ultra-Orthodox protest against conscription in Jerusalem](https://www.theguardian.com/world/2026/jan/07/teen-killed-anti-military-conscription-protest-israel-ultra-orthodox)
-- [Accused Brown University shooter planned attack for years, video transcripts show](https://www.theguardian.com/us-news/2026/jan/06/brown-university-shooter-video-transcripts)
-- [Woman in Mind review – play stands the test of time for its originality](https://www.theguardian.com/stage/2026/jan/06/woman-in-mind-review-revival-that-stands-test-of-time-for-its-originality)
-- [Republicans silent and Democrats incensed on fifth anniversary of US Capitol attack](https://www.theguardian.com/us-news/2026/jan/06/january-6-us-capitol-attack-fifth-anniversary)
-- [Elon Musk’s xAI announces it has raised $20bn amid backlash over Grok deepfakes](https://www.theguardian.com/technology/2026/jan/06/elon-musk-xai-investment-grok-backlash)
-- [Government signals tougher motoring rules to reduce casualties on Britain’s roads](https://www.theguardian.com/world/2026/jan/06/government-signals-tougher-motoring-rules-to-reduce-casualties-on-britains-roads)
-- [‘Bigger than me’: road safety campaigner whose son died in collision welcomes new UK rules](https://www.theguardian.com/politics/2026/jan/06/bigger-than-me-road-safety-campaigner-son-died-collision-welcomes-rules)
-- [Oliver Glasner set to decide on Crystal Palace contract and hints at Guéhi sale](https://www.theguardian.com/football/2026/jan/06/crystal-palace-oliver-glasner-marc-guehi)
+- [Australia v England: fifth Ashes Test, day five – live](https://www.theguardian.com/sport/live/2026/jan/07/australia-v-england-fifth-ashes-test-day-five-live-updates-sydney-scg)
+- [Alleged scam kingpin Chen Zhi extradited to China after Cambodia arrest](https://www.theguardian.com/world/2026/jan/08/alleged-scam-kingpin-chen-zhi-extradited-china-cambodia-arrest)
+- [Trump speaks with Petro amid nationwide Colombia protests against US after Venezuela intervention – live](https://www.theguardian.com/world/live/2026/jan/07/europe-greenland-denmark-us-france-trade-weather-latest-news-updates)
+- [‘Out with the Yanks!’: Thousands protest in Colombia as anger builds over Trump’s intervention in Venezuela](https://www.theguardian.com/world/2026/jan/08/colombia-protests-after-trump-venezuela-military-action)
+- [Remote Australian hotel run by ‘authentic outback character’ becomes a pub with no beer – for now](https://www.theguardian.com/australia-news/2026/jan/08/australian-pub-barrow-creek-hotel-no-beer)
+- [‘The most dangerous day’: bushfires break out in Victoria as BoM warns of catastrophic conditions to come](https://www.theguardian.com/environment/2026/jan/08/australia-heatwave-bushfires-victoria-catostrophic-conditions)
+- [Hospital patients collapsing while out of sight on corridors, NHS watchdog says](https://www.theguardian.com/society/2026/jan/08/hospital-patients-collapsing-while-out-of-sight-on-corridors-nhs-watchdog-says)
+- [Failure to properly vet officers resulted in serial rapists within Met ranks, review finds](https://www.theguardian.com/uk-news/2026/jan/08/failure-to-properly-vet-officers-resulted-in-serial-rapists-within-met-ranks-review-finds)
+- [Fly-arousing orchid and zombie fungus among 2025 botanical and fungal finds](https://www.theguardian.com/environment/2026/jan/08/fly-arousing-orchid-zombie-fungus-among-new-plant-fungus-species-finds-2025)
+- [People who stop taking weight-loss jabs regain weight in under two years, study reveals](https://www.theguardian.com/society/2026/jan/07/weight-loss-jabs-regain-two-years-health-study)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Microsoft probably killed my Snapdragon Dev Kit](https://jasoneckert.github.io/myblog/how-microsoft-killed-my-snapdragon-devkit/)
-- [Most websites don&#39;t need cookie consent banners](https://block81.com/blog/why-most-websites-dont-actually-need-cookie-consent-banners)
-- [PassSeeds – hijacking Passkeys to unlock new cryptographic use cases](https://backalleycoder.com/posts/passseeds-an-experiment-in-hijacking-passkeys-to-unlock-cryptographic-use-cases/)
-- [We Recreated Steve Jobs&#39;s 1975 Atari Horoscope Program and You Can Run It](https://blog.adafruit.com/2026/01/06/we-recreated-steve-jobss-1975-atari-horoscope-program-and-you-can-run-it/)
-- [Electronic nose for indoor mold detection and identification](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adsr.202500124)
-- [Why the trans flag emoji is the 5-codepoint sequence it is](https://hecate.pink/blog/2026/trans-flag-emoji/)
-- [Ruby Array Pack Bleed](https://nastystereo.com/security/ruby-pack.html)
-- [Hyundai Introduces Its Next-Gen Atlas Robot at CES 2026 [video]](https://www.youtube.com/watch?v=9e0SQn9uUlw)
-- [Show HN: GPU Cuckoo Filter – faster queries than Blocked Bloom, with deletion](https://github.com/tdortman/cuckoo-filter)
-- [Are we tired of social media once and for all? &lpar;2025&rpar;](https://www.danielbrendel.com/blog/24-are-we-tired-of-social-media-once-and-for-all)
+- [Kernel bugs hide for 2 years on average. Some hide for 20](https://pebblebed.com/blog/kernel-bugs)
+- [Musashi: Motorola 680x0 emulator written in C](https://github.com/kstenerud/Musashi)
+- [The virtual AmigaOS runtime &lpar;a.k.a. Wine for Amiga:&rpar;](https://github.com/cnvogelg/amitools/blob/main/docs/vamos.md)
+- [Fighting back against biometric surveillance at Wegmans](https://blog.adafruit.com/2026/01/07/dont-let-the-grocery-store-scan-your-face-a-guide-to-fighting-back-against-biometric-surveillance-at-wegmans/)
+- [Play Aardwolf MUD](https://www.aardwolf.com/)
+- [2026 Predictions Scorecard](https://rodneybrooks.com/predictions-scorecard-2026-january-01/)
+- [Tailscale state file encryption no longer enabled by default](https://tailscale.com/changelog)
+- [Notion AI: Unpatched data exfiltration](https://www.promptarmor.com/resources/notion-ai-unpatched-data-exfiltration)
+- [US will ban Wall Street investors from buying single-family homes](https://www.reuters.com/world/us/us-will-ban-large-institutional-investors-buying-single-family-homes-trump-says-2026-01-07/)
+- [Show HN: I visualized the entire history of Citi Bike in the browser](https://bikemap.nyc/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

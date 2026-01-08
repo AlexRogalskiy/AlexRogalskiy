@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ask HN: How do you minimize dependence on US-based infrastructure?](https://news.ycombinator.com/item?id=46522085)
-- [The Year in Neanderthals](https://www.nytimes.com/2026/01/03/science/archaeology-neanderthals-genetics.html)
-- [GitHub Compiled](https://githubcompiled.com/)
-- [Gemini&#39;s 3 line execution mode](https://olshansky.info/thoughts/2026-01-06-gemini-s-3-line-execution-mode)
-- [Russia sends submarine to escort tanker the US tried to seize off Venezuela](https://www.reuters.com/world/americas/russia-sends-submarine-escort-tanker-us-tried-seize-off-venezuela-wsj-reports-2026-01-07/)
-- [Ask HN: Apple App Store Denial Because of Apple Pay](https://news.ycombinator.com/item?id=46521982)
-- [Logitech Options+ Cert Expired](https://www.reddit.com/r/logitech/s/ATlS4TZd3E)
-- [Not too big, not too expensive: The Chevrolet Equinox EV](https://arstechnica.com/cars/2025/12/the-chevrolet-equinox-ev-is-high-on-comfort-and-convenience/)
-- [It doesn&#39;t take two to think. It takes ITERATION to think](https://twitter.com/eltokh7/status/2008729474981109890)
-- [Eclipsa Audio: immersive audio for everyone &lpar;2025&rpar;](https://opensource.googleblog.com/2025/01/introducing-eclipsa-audio-immersive-audio-for-everyone.html)
+- [Vaultwarden – Unofficial Bitwarden compatible server, formerly bitwarden_rs](https://github.com/dani-garcia/vaultwarden)
+- [Chase is taking over Apple&#39;s credit card](https://www.theverge.com/news/858170/apple-card-jpmorgan-chase-sachs)
+- [SnappyJSON – JSON Viewer and Editor](https://snappyjson.farfarawaylabs.com)
+- [I got paid minimum wage to solve an impossible problem](https://tiespetersen.substack.com/p/i-got-paid-minimum-wage-to-solve)
+- [Claude Code 2.1.0 Released](https://github.com/anthropics/claude-code/blob/f34e2535b4fcf5fcc6cb0b566111c588b04873ee/CHANGELOG.md)
+- [The AI Econ Seminar](https://cameron.stream/blog/econ-seminar/)
+- [CSIS: What Just Happened in Venezuela? and What Comes Next?](https://www.youtube.com/watch?v=Fp24V1Ygn04)
+- [Greg and the Eternal Brunch – A Philosophy Fairy Story](https://lagomor.ph/2025/02/greg-the-eternal-brunch/)
+- [Show HN: Titan AI Explore – A curated hub for AI tools, tutorials, and projects](https://www.titanaiexplore.com/)
+- [Darwin-photos: Back up iCloud Photos without bloating your Mac](https://github.com/cleanexit0/darwin-photos)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Kernel bugs hide for 2 years on average. Some hide for 20](https://pebblebed.com/blog/kernel-bugs)
-- [Musashi: Motorola 680x0 emulator written in C](https://github.com/kstenerud/Musashi)
-- [The virtual AmigaOS runtime &lpar;a.k.a. Wine for Amiga:&rpar;](https://github.com/cnvogelg/amitools/blob/main/docs/vamos.md)
-- [Fighting back against biometric surveillance at Wegmans](https://blog.adafruit.com/2026/01/07/dont-let-the-grocery-store-scan-your-face-a-guide-to-fighting-back-against-biometric-surveillance-at-wegmans/)
-- [Play Aardwolf MUD](https://www.aardwolf.com/)
-- [2026 Predictions Scorecard](https://rodneybrooks.com/predictions-scorecard-2026-january-01/)
-- [Tailscale state file encryption no longer enabled by default](https://tailscale.com/changelog)
-- [Notion AI: Unpatched data exfiltration](https://www.promptarmor.com/resources/notion-ai-unpatched-data-exfiltration)
-- [US will ban Wall Street investors from buying single-family homes](https://www.reuters.com/world/us/us-will-ban-large-institutional-investors-buying-single-family-homes-trump-says-2026-01-07/)
-- [Show HN: I visualized the entire history of Citi Bike in the browser](https://bikemap.nyc/)
+- [Show HN: Executable Markdown files with Unix pipes](https://news.ycombinator.com/item?id=46549444)
+- [Logistics Is Dying; Or – Dude, Where&#39;s My Mail?](https://lagomor.ph/2026/01/logistics-is-dying-or-dude-wheres-my-mail/)
+- [Why I Left iNaturalist](https://kueda.net/blog/2026/01/06/why-i-left-inat/)
+- [Embassy: Modern embedded framework, using Rust and async](https://github.com/embassy-rs/embassy)
+- [Flint Confirms Biodegradable Paper Batteries Are Now in Production](https://audioxpress.com/news/flint-confirms-biodegradable-paper-batteries-are-now-in-production)
+- [Richard D. James aka Aphex Twin speaks to Tatsuya Takahashi &lpar;2017&rpar;](https://web.archive.org/web/20180719052026/http://item.warp.net/interview/aphex-twin-speaks-to-tatsuya-takahashi/)
+- [Mux &lpar;YC W16&rpar; is hiring a platform engineer that cares about &lpar;internal&rpar; DX](https://www.mux.com/jobs)
+- [Show HN: A geofence-based social network app 6 years in development](https://www.localvideoapp.com)
+- [Support for the TSO memory model on Arm CPUs &lpar;2024&rpar;](https://lwn.net/Articles/970907/)
+- [Sopro TTS: A 169M model with zero-shot voice cloning that runs on the CPU](https://github.com/samuel-vitorino/sopro)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

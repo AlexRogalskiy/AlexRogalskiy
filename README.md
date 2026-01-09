@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Australia v England: fifth Ashes Test, day five – live](https://www.theguardian.com/sport/live/2026/jan/07/australia-v-england-fifth-ashes-test-day-five-live-updates-sydney-scg)
-- [Alleged scam kingpin Chen Zhi extradited to China after Cambodia arrest](https://www.theguardian.com/world/2026/jan/08/alleged-scam-kingpin-chen-zhi-extradited-china-cambodia-arrest)
-- [Trump speaks with Petro amid nationwide Colombia protests against US after Venezuela intervention – live](https://www.theguardian.com/world/live/2026/jan/07/europe-greenland-denmark-us-france-trade-weather-latest-news-updates)
-- [‘Out with the Yanks!’: Thousands protest in Colombia as anger builds over Trump’s intervention in Venezuela](https://www.theguardian.com/world/2026/jan/08/colombia-protests-after-trump-venezuela-military-action)
-- [Remote Australian hotel run by ‘authentic outback character’ becomes a pub with no beer – for now](https://www.theguardian.com/australia-news/2026/jan/08/australian-pub-barrow-creek-hotel-no-beer)
-- [‘The most dangerous day’: bushfires break out in Victoria as BoM warns of catastrophic conditions to come](https://www.theguardian.com/environment/2026/jan/08/australia-heatwave-bushfires-victoria-catostrophic-conditions)
-- [Hospital patients collapsing while out of sight on corridors, NHS watchdog says](https://www.theguardian.com/society/2026/jan/08/hospital-patients-collapsing-while-out-of-sight-on-corridors-nhs-watchdog-says)
-- [Failure to properly vet officers resulted in serial rapists within Met ranks, review finds](https://www.theguardian.com/uk-news/2026/jan/08/failure-to-properly-vet-officers-resulted-in-serial-rapists-within-met-ranks-review-finds)
-- [Fly-arousing orchid and zombie fungus among 2025 botanical and fungal finds](https://www.theguardian.com/environment/2026/jan/08/fly-arousing-orchid-zombie-fungus-among-new-plant-fungus-species-finds-2025)
-- [People who stop taking weight-loss jabs regain weight in under two years, study reveals](https://www.theguardian.com/society/2026/jan/07/weight-loss-jabs-regain-two-years-health-study)
+- [Three people missing and multiple properties destroyed as bushfire hits Victorian town ‘like a bomb’](https://www.theguardian.com/australia-news/2026/jan/09/ten-properties-in-ruffy-destroyed-including-firefighters-home-as-fire-hits-victorian-town-like-a-bomb)
+- [Heatwave engulfs Australia’s south-east bringing catastrophic fire conditions not seen since black summer](https://www.theguardian.com/environment/2026/jan/09/heatwave-engulfs-south-eastern-states-as-victoria-faces-catastrophic-bushfire-conditions-not-seen-since-black-summer)
+- [Morality, military might and a sense of mischief: key takeaways from Trump’s New York Times interview](https://www.theguardian.com/us-news/2026/jan/09/morality-military-might-and-a-sense-of-mischief-key-takeaways-from-trumps-new-york-times-interview)
+- [Trump news at a glance: president says his morality is ‘the only thing that can stop me’](https://www.theguardian.com/us-news/2026/jan/08/trump-administration-news-latest-updates-today)
+- [Human eggs ‘rejuvenated’ in advance that could boost IVF success rates](https://www.theguardian.com/science/2026/jan/09/human-eggs-rejuvenated-in-advance-that-could-boost-ivf-success-rates)
+- [Becoming Victoria Wood review – intimate and hilarious portrait of the trailblazing standup](https://www.theguardian.com/film/2026/jan/09/becoming-victoria-wood-review-intimate-and-hilarious-portrait-of-the-trailblazing-standup)
+- [Treasury has ‘limited grasp’ of concerns over booming shadow banking sector, peers say](https://www.theguardian.com/business/2026/jan/09/treasury-concerns-shadow-banking-sector-peers)
+- [Thousands of offenders in England to get health support at probation meetings](https://www.theguardian.com/society/2026/jan/09/offenders-nhs-health-support-probation-meetings-england-pilot)
+- [People We Meet on Vacation review – Netflix travel romcom is a dull journey](https://www.theguardian.com/film/2026/jan/08/people-we-meet-on-vacation-netflix-review)
+- [As climate crisis threatened her home, Alolita was offered a chance at a new life in Australia](https://www.theguardian.com/world/2026/jan/09/as-climate-change-threatened-her-home-alolita-was-offered-a-chance-at-a-new-life-in-australia)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

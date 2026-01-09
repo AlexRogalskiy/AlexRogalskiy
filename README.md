@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Vaultwarden – Unofficial Bitwarden compatible server, formerly bitwarden_rs](https://github.com/dani-garcia/vaultwarden)
-- [Chase is taking over Apple&#39;s credit card](https://www.theverge.com/news/858170/apple-card-jpmorgan-chase-sachs)
-- [SnappyJSON – JSON Viewer and Editor](https://snappyjson.farfarawaylabs.com)
-- [I got paid minimum wage to solve an impossible problem](https://tiespetersen.substack.com/p/i-got-paid-minimum-wage-to-solve)
-- [Claude Code 2.1.0 Released](https://github.com/anthropics/claude-code/blob/f34e2535b4fcf5fcc6cb0b566111c588b04873ee/CHANGELOG.md)
-- [The AI Econ Seminar](https://cameron.stream/blog/econ-seminar/)
-- [CSIS: What Just Happened in Venezuela? and What Comes Next?](https://www.youtube.com/watch?v=Fp24V1Ygn04)
-- [Greg and the Eternal Brunch – A Philosophy Fairy Story](https://lagomor.ph/2025/02/greg-the-eternal-brunch/)
-- [Show HN: Titan AI Explore – A curated hub for AI tools, tutorials, and projects](https://www.titanaiexplore.com/)
-- [Darwin-photos: Back up iCloud Photos without bloating your Mac](https://github.com/cleanexit0/darwin-photos)
+- [Show HN: LSP Skill – IntelliSense for Coding Agents That Works](https://lsp-client.github.io/)
+- [Against the &#39;METR Graph&#39;](https://arachnemag.substack.com/p/the-metr-graph-is-hot-garbage)
+- [Cellular Landscape](https://gaelmcgill.artstation.com/projects/Pm0JL1)
+- [Is Craigslist the Last Real Place on the Internet?](https://www.wired.com/story/is-craigslist-the-last-real-place-on-the-internet/)
+- [Lisa](https://github.com/blencorp/lisa)
+- [Show HN: I built OnePlayer: A lightweight, Material 3 offline player](https://play.google.com/store/apps/details?id=com.googol.android.apps.oneplayer&hl=en_US)
+- [Show HN: Call Your Loved Ones](https://cylo.mkaye.dev/)
+- [Promise Theory](https://en.wikipedia.org/wiki/Promise_theory)
+- [Show HN: Owl – Golang NVR with GB28181/Onvif Support and YOLO Detection](https://news.ycombinator.com/item?id=46549631)
+- [AI images and internet rumors spread confusion about agent involved in shooting](https://www.npr.org/2026/01/08/nx-s1-5671740/ice-minneapolis-grok-ai-renee-nicole-good)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

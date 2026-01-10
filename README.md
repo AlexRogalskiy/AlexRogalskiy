@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: LSP Skill – IntelliSense for Coding Agents That Works](https://lsp-client.github.io/)
-- [Against the &#39;METR Graph&#39;](https://arachnemag.substack.com/p/the-metr-graph-is-hot-garbage)
-- [Cellular Landscape](https://gaelmcgill.artstation.com/projects/Pm0JL1)
-- [Is Craigslist the Last Real Place on the Internet?](https://www.wired.com/story/is-craigslist-the-last-real-place-on-the-internet/)
-- [Lisa](https://github.com/blencorp/lisa)
-- [Show HN: I built OnePlayer: A lightweight, Material 3 offline player](https://play.google.com/store/apps/details?id=com.googol.android.apps.oneplayer&hl=en_US)
-- [Show HN: Call Your Loved Ones](https://cylo.mkaye.dev/)
-- [Promise Theory](https://en.wikipedia.org/wiki/Promise_theory)
-- [Show HN: Owl – Golang NVR with GB28181/Onvif Support and YOLO Detection](https://news.ycombinator.com/item?id=46549631)
-- [AI images and internet rumors spread confusion about agent involved in shooting](https://www.npr.org/2026/01/08/nx-s1-5671740/ice-minneapolis-grok-ai-renee-nicole-good)
+- [2. Title: Show HN: First Modern Nvidia Driver for IBM POWER8 via OCuLink](https://github.com/Scottcjn/nvidia-power8-patches)
+- [Show HN: A Base44-style builder for data workflows &lpar;DuckDB-powered&rpar;](https://www.gptbeyond.com/try)
+- [An mRNA Shot Turned Back the Clock in Mice](https://singularityhub.com/2026/01/08/aging-weakens-immunity-an-mrna-shot-turned-back-the-clock-in-mice/)
+- [It&#39;s Your Job to Keep Your Secrets](https://www.overcomingbias.com/p/its-your-job-to-keep-your-secrets)
+- [The Permanent Emergency](https://www.astralcodexten.com/p/the-permanent-emergency)
+- [How I Learned to Love Reading](https://www.honest-broker.com/p/how-i-learned-to-love-reading)
+- [MIT Whirlwind I: A High-Speed Electronic Digital Computer &lpar;1951&rpar;](https://dome.mit.edu/bitstream/handle/1721.3/40245/MC665_r12_R-209.pdf?sequence=1&isAllowed=y)
+- [Freelance Contract Management Software](https://www.plotform.cc/)
+- [Gut bacteria may drive bipolar depression by influencing brain connectivity](https://medicalxpress.com/news/2025-12-gut-bacteria-play-role-bipolar.html)
+- [Using AI, Mathematicians Find Hidden Glitches in Fluid Equations](https://www.quantamagazine.org/using-ai-mathematicians-find-hidden-glitches-in-fluid-equations-20260109/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

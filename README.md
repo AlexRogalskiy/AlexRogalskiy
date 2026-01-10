@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Three people missing and multiple properties destroyed as bushfire hits Victorian town ‘like a bomb’](https://www.theguardian.com/australia-news/2026/jan/09/ten-properties-in-ruffy-destroyed-including-firefighters-home-as-fire-hits-victorian-town-like-a-bomb)
-- [Heatwave engulfs Australia’s south-east bringing catastrophic fire conditions not seen since black summer](https://www.theguardian.com/environment/2026/jan/09/heatwave-engulfs-south-eastern-states-as-victoria-faces-catastrophic-bushfire-conditions-not-seen-since-black-summer)
-- [Morality, military might and a sense of mischief: key takeaways from Trump’s New York Times interview](https://www.theguardian.com/us-news/2026/jan/09/morality-military-might-and-a-sense-of-mischief-key-takeaways-from-trumps-new-york-times-interview)
-- [Trump news at a glance: president says his morality is ‘the only thing that can stop me’](https://www.theguardian.com/us-news/2026/jan/08/trump-administration-news-latest-updates-today)
-- [Human eggs ‘rejuvenated’ in advance that could boost IVF success rates](https://www.theguardian.com/science/2026/jan/09/human-eggs-rejuvenated-in-advance-that-could-boost-ivf-success-rates)
-- [Becoming Victoria Wood review – intimate and hilarious portrait of the trailblazing standup](https://www.theguardian.com/film/2026/jan/09/becoming-victoria-wood-review-intimate-and-hilarious-portrait-of-the-trailblazing-standup)
-- [Treasury has ‘limited grasp’ of concerns over booming shadow banking sector, peers say](https://www.theguardian.com/business/2026/jan/09/treasury-concerns-shadow-banking-sector-peers)
-- [Thousands of offenders in England to get health support at probation meetings](https://www.theguardian.com/society/2026/jan/09/offenders-nhs-health-support-probation-meetings-england-pilot)
-- [People We Meet on Vacation review – Netflix travel romcom is a dull journey](https://www.theguardian.com/film/2026/jan/08/people-we-meet-on-vacation-netflix-review)
-- [As climate crisis threatened her home, Alolita was offered a chance at a new life in Australia](https://www.theguardian.com/world/2026/jan/09/as-climate-change-threatened-her-home-alolita-was-offered-a-chance-at-a-new-life-in-australia)
+- [Ukraine war briefing: UK earmarks £200m to prepare for possible Ukraine deployment](https://www.theguardian.com/world/2026/jan/10/ukraine-war-briefing-uk-earmarks-200m-to-prepare-for-possible-ukraine-deployment)
+- [More than 100 buildings destroyed and 300,000 hectares burned as Victoria’s bushfires rage](https://www.theguardian.com/australia-news/2026/jan/09/ten-properties-in-ruffy-destroyed-including-firefighters-home-as-fire-hits-victorian-town-like-a-bomb)
+- [High Noon review – Billy Crudup brings classic Hollywood western back with a bang](https://www.theguardian.com/stage/2026/jan/10/high-noon-review-billy-crudup-brings-classic-hollywood-western-back-with-a-bang)
+- [Ronnie O’Sullivan pulls out of snooker’s Masters on medical grounds](https://www.theguardian.com/sport/2026/jan/09/ronnie-osullivan-pulls-out-of-snookers-masters-on-medical-grounds)
+- [Maryland woman who says she is US citizen finally released from ICE custody](https://www.theguardian.com/us-news/2026/jan/09/maryland-woman-us-citizen-released-ice-custody)
+- [Renee Nicole Good said ‘I’m not mad at you’ before ICE agent shot her, video shows](https://www.theguardian.com/us-news/2026/jan/09/ice-agent-minneapolis-bodycam-footage)
+- [Washington National Opera to move out of Kennedy Center after Trump ‘takeover’](https://www.theguardian.com/us-news/2026/jan/09/washington-national-opera-kennedy-center)
+- [Iran’s supreme leader sets stage for harsher crackdown as protest movement swells](https://www.theguardian.com/global-development/2026/jan/09/iran-supreme-leader-harsher-crackdown-protest-movement-swells)
+- [Trump ramps up Greenland threats and says US will intervene ‘whether they like it or not’](https://www.theguardian.com/us-news/2026/jan/09/trump-greenland-threats-white-house)
+- [Elon Musk’s X threatened with UK ban over wave of indecent AI images](https://www.theguardian.com/technology/2026/jan/09/musks-x-ordered-by-uk-government-to-tackle-wave-of-indecent-imagery-or-face-ban)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

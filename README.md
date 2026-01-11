@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine war briefing: UK earmarks £200m to prepare for possible Ukraine deployment](https://www.theguardian.com/world/2026/jan/10/ukraine-war-briefing-uk-earmarks-200m-to-prepare-for-possible-ukraine-deployment)
-- [More than 100 buildings destroyed and 300,000 hectares burned as Victoria’s bushfires rage](https://www.theguardian.com/australia-news/2026/jan/09/ten-properties-in-ruffy-destroyed-including-firefighters-home-as-fire-hits-victorian-town-like-a-bomb)
-- [High Noon review – Billy Crudup brings classic Hollywood western back with a bang](https://www.theguardian.com/stage/2026/jan/10/high-noon-review-billy-crudup-brings-classic-hollywood-western-back-with-a-bang)
-- [Ronnie O’Sullivan pulls out of snooker’s Masters on medical grounds](https://www.theguardian.com/sport/2026/jan/09/ronnie-osullivan-pulls-out-of-snookers-masters-on-medical-grounds)
-- [Maryland woman who says she is US citizen finally released from ICE custody](https://www.theguardian.com/us-news/2026/jan/09/maryland-woman-us-citizen-released-ice-custody)
-- [Renee Nicole Good said ‘I’m not mad at you’ before ICE agent shot her, video shows](https://www.theguardian.com/us-news/2026/jan/09/ice-agent-minneapolis-bodycam-footage)
-- [Washington National Opera to move out of Kennedy Center after Trump ‘takeover’](https://www.theguardian.com/us-news/2026/jan/09/washington-national-opera-kennedy-center)
-- [Iran’s supreme leader sets stage for harsher crackdown as protest movement swells](https://www.theguardian.com/global-development/2026/jan/09/iran-supreme-leader-harsher-crackdown-protest-movement-swells)
-- [Trump ramps up Greenland threats and says US will intervene ‘whether they like it or not’](https://www.theguardian.com/us-news/2026/jan/09/trump-greenland-threats-white-house)
-- [Elon Musk’s X threatened with UK ban over wave of indecent AI images](https://www.theguardian.com/technology/2026/jan/09/musks-x-ordered-by-uk-government-to-tackle-wave-of-indecent-imagery-or-face-ban)
+- [US urges its citizens to flee Venezuela amid reports of paramilitaries](https://www.theguardian.com/us-news/2026/jan/10/us-citizens-venezuela-paramilitaries)
+- [‘We’ve got your back’: Australian PM visits bushfire-ravaged towns as 300 structures destroyed and 350,000 hectares burned](https://www.theguardian.com/australia-news/2026/jan/11/weve-got-your-back-australian-pm-visits-bushfire-ravaged-towns-as-300-structures-destroyed-and-350000-hectares-burned)
+- [Ukraine war briefing: Kyiv struggles to stabilise ruined power grid after major Russian attack](https://www.theguardian.com/world/2026/jan/11/ukraine-war-briefing-kyiv-struggles-to-stablise-ruined-power-grid-after-major-russian-attack)
+- [Myanmar junta holds second phase of election widely decried as a ‘sham exercise’](https://www.theguardian.com/world/2026/jan/11/myanmar-junta-holds-second-phase-of-election-widely-decried-as-a-sham-exercise)
+- [Bob Weir, co-founder of rock group the Grateful Dead, dies at age 78](https://www.theguardian.com/us-news/2026/jan/10/bob-weir-grateful-dead-dies-78)
+- [US protests condemn ICE killing of Renee Good and ‘a regime that is willing to kill its own citizens’](https://www.theguardian.com/us-news/2026/jan/10/protests-ice-renee-nicole-good-philadelphia)
+- [Succession creator Jesse Armstrong says he struggles with impostor syndrome](https://www.theguardian.com/tv-and-radio/2026/jan/11/succession-creator-jesse-armstrong-says-he-struggles-with-impostor-syndrome)
+- [Ban social media for under-16s, top teaching union urges UK government](https://www.theguardian.com/media/2026/jan/11/ban-social-media-for-under-16s-top-teaching-union-urges-uk-government)
+- [Heated Rivalry review – these physically perfect people have so much sex it’s tedious](https://www.theguardian.com/tv-and-radio/2026/jan/10/heated-rivalry-review-sky-atlantic-now)
+- [Mississippi man charged with six murders, including father, brother and a child](https://www.theguardian.com/us-news/2026/jan/10/mississippi-six-murders)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

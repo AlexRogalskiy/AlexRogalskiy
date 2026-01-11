@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [See it with your lying ears](https://lcamtuf.substack.com/p/see-it-with-your-lying-ears)
-- [“Erdos problem #728 was solved more or less autonomously by AI”](https://mathstodon.xyz/@tao/115855840223258103)
-- [Pre-commit lint checks: Vibe coding&#39;s kryptonite](https://www.getseer.dev/blogs/pre-commit-linting-vibe-coding)
-- [Deno has made its PyPI distribution official](https://github.com/denoland/deno/issues/31254)
-- [QtNat – Open you port with Qt UPnP](http://renaudguezennec.eu/index.php/2026/01/09/qtnat-open-you-port-with-qt/)
-- [RTX 5090 and Raspberry Pi: Can it game?](https://scottjg.com/posts/2026-01-08-crappy-computer-showdown/)
-- [Show HN: Rocket Launch and Orbit Simulator](https://www.donutthejedi.com/)
-- [JavaScript Demos in 140 Characters](https://beta.dwitter.net)
-- [Turn a single image into a navigable 3D Gaussian Splat with depth](https://lab.revelium.studio/ml-sharp)
-- [My article on why AI is great &lpar;or terrible&rpar; or how to use it](https://matthewrocklin.com/ai-zealotry/)
+- [Show HN: VAM Seek – 2D video navigation grid, 15KB, zero server load](https://github.com/unhaya/vam-seek)
+- [A Year of Work on the Arch Linux Package Management &lpar;ALPM&rpar; Project](https://devblog.archlinux.page/2026/a-year-of-work-on-the-alpm-project/)
+- [Sisyphus Now Lives in Oh My Claude](https://github.com/Yeachan-Heo/oh-my-claude-sisyphus)
+- [Show HN: Ferrite – Markdown editor in Rust with native Mermaid diagram rendering](https://github.com/OlaProeis/Ferrite)
+- [Kodbox: Open-source cloud desktop with multi-storage fusion and web IDE](https://github.com/kalcaddle/kodbox)
+- [Bob Weir has died](https://www.rollingstone.com/music/music-news/bob-weir-grateful-dead-dead-obituary-1234810106/)
+- [Show HN: GlyphLang – An AI-first programming language](https://news.ycombinator.com/item?id=46571166)
+- [Show HN: Librario, a book metadata API that aggregates G Books, ISBNDB, and more](https://news.ycombinator.com/item?id=46571149)
+- [Private equity firms acquired more than 500 autism centers in past decade: study](https://www.brown.edu/news/2026-01-07/private-equity-autism-centers)
+- [Extracting books from production language models &lpar;2026&rpar;](https://arxiv.org/abs/2601.02671)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

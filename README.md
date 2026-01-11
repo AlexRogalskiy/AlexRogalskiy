@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [2. Title: Show HN: First Modern Nvidia Driver for IBM POWER8 via OCuLink](https://github.com/Scottcjn/nvidia-power8-patches)
-- [Show HN: A Base44-style builder for data workflows &lpar;DuckDB-powered&rpar;](https://www.gptbeyond.com/try)
-- [An mRNA Shot Turned Back the Clock in Mice](https://singularityhub.com/2026/01/08/aging-weakens-immunity-an-mrna-shot-turned-back-the-clock-in-mice/)
-- [It&#39;s Your Job to Keep Your Secrets](https://www.overcomingbias.com/p/its-your-job-to-keep-your-secrets)
-- [The Permanent Emergency](https://www.astralcodexten.com/p/the-permanent-emergency)
-- [How I Learned to Love Reading](https://www.honest-broker.com/p/how-i-learned-to-love-reading)
-- [MIT Whirlwind I: A High-Speed Electronic Digital Computer &lpar;1951&rpar;](https://dome.mit.edu/bitstream/handle/1721.3/40245/MC665_r12_R-209.pdf?sequence=1&isAllowed=y)
-- [Freelance Contract Management Software](https://www.plotform.cc/)
-- [Gut bacteria may drive bipolar depression by influencing brain connectivity](https://medicalxpress.com/news/2025-12-gut-bacteria-play-role-bipolar.html)
-- [Using AI, Mathematicians Find Hidden Glitches in Fluid Equations](https://www.quantamagazine.org/using-ai-mathematicians-find-hidden-glitches-in-fluid-equations-20260109/)
+- [I just published a hard-SF novel. Voyager 1 returns, with a quantum Palantir](https://www.amazon.com/dp/B0GFSMP572)
+- [Orca: A New Architecture for Efficient AGI Through Parent-Teacher Learning](https://x.com/EricOmnigenius/article/2009656779945451932)
+- [A curated list of awesome explorable explanations](https://github.com/blob42/awesome-explorables)
+- [The Declining Value of Personal Advice](https://www.gojiberries.io/the-declining-value-of-interpersonal-advice/)
+- [Show HN: Artdots: The benefits of creating a side project](https://artdots.co/blog/artdots-the-benefits-of-creating-a-side-project)
+- [Nvidia Announces Alpamayo Open-Source AI Models to Accelerate Reasoning-Based AV](https://nvidianews.nvidia.com/news/alpamayo-autonomous-vehicle-development)
+- [Ask HN: Before codebase review, replace all vars containing simple with complex?](https://news.ycombinator.com/item?id=46572445)
+- [Show HN: Umaro – An interactive music theory suite for guitarists](https://www.umaro.app/)
+- [Zluda run unmodified CUDA on non Nvidia hw](https://www.phoronix.com/news/ZLUDA-CUDA-13.1-Compatibility)
+- [&quot;About a decade ago... I developed an automated theorem-proving framework&quot;](https://twitter.com/getjonwithit/status/2009602836997505255)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Show HN: VAM Seek – 2D video navigation grid, 15KB, zero server load](https://github.com/unhaya/vam-seek)
-- [A Year of Work on the Arch Linux Package Management &lpar;ALPM&rpar; Project](https://devblog.archlinux.page/2026/a-year-of-work-on-the-alpm-project/)
-- [Sisyphus Now Lives in Oh My Claude](https://github.com/Yeachan-Heo/oh-my-claude-sisyphus)
-- [Show HN: Ferrite – Markdown editor in Rust with native Mermaid diagram rendering](https://github.com/OlaProeis/Ferrite)
-- [Kodbox: Open-source cloud desktop with multi-storage fusion and web IDE](https://github.com/kalcaddle/kodbox)
-- [Bob Weir has died](https://www.rollingstone.com/music/music-news/bob-weir-grateful-dead-dead-obituary-1234810106/)
-- [Show HN: GlyphLang – An AI-first programming language](https://news.ycombinator.com/item?id=46571166)
-- [Show HN: Librario, a book metadata API that aggregates G Books, ISBNDB, and more](https://news.ycombinator.com/item?id=46571149)
-- [Private equity firms acquired more than 500 autism centers in past decade: study](https://www.brown.edu/news/2026-01-07/private-equity-autism-centers)
-- [Extracting books from production language models &lpar;2026&rpar;](https://arxiv.org/abs/2601.02671)
+- [Powell has highest approval rating of political leaders among US adults &lpar;2025&rpar;](https://news.gallup.com/poll/700241/americans-end-year-gloomy-mood.aspx)
+- [Code is cheap now, but software isn&#39;t](https://www.chrisgregori.dev/opinion/code-is-cheap-now-software-isnt)
+- [Which programming languages are most token-efficient?](https://martinalderson.com/posts/which-programming-languages-are-most-token-efficient/)
+- [Gadget Exposed a Spy Camera [video]](https://www.youtube.com/watch?v=1reman2waLs)
+- [Show HN: What if AI agents had Zodiac personalities?](https://github.com/baturyilmaz/what-if-ai-agents-had-zodiac-personalities)
+- [Show HN: Voice Composer – Browser-based pitch detection to MIDI/strudel/tidal](https://dioptre.github.io/tidal/)
+- [I&#39;d tell you a UDP joke…](https://www.codepuns.com/post/805294580859879424/i-would-tell-you-a-udp-joke-but-you-might-not-get)
+- [This game is a single 13 KiB file that runs on Windows, Linux and in the Browser](https://iczelia.net/posts/snake-polyglot/)
+- [Show HN: Engineering Schizophrenia: Trusting yourself through Byzantine faults](https://news.ycombinator.com/item?id=46580652)
+- [CLI agents make self-hosting on a home server easier and fun](https://fulghum.io/self-hosting)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

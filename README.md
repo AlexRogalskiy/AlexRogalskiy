@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [I just published a hard-SF novel. Voyager 1 returns, with a quantum Palantir](https://www.amazon.com/dp/B0GFSMP572)
-- [Orca: A New Architecture for Efficient AGI Through Parent-Teacher Learning](https://x.com/EricOmnigenius/article/2009656779945451932)
-- [A curated list of awesome explorable explanations](https://github.com/blob42/awesome-explorables)
-- [The Declining Value of Personal Advice](https://www.gojiberries.io/the-declining-value-of-interpersonal-advice/)
-- [Show HN: Artdots: The benefits of creating a side project](https://artdots.co/blog/artdots-the-benefits-of-creating-a-side-project)
-- [Nvidia Announces Alpamayo Open-Source AI Models to Accelerate Reasoning-Based AV](https://nvidianews.nvidia.com/news/alpamayo-autonomous-vehicle-development)
-- [Ask HN: Before codebase review, replace all vars containing simple with complex?](https://news.ycombinator.com/item?id=46572445)
-- [Show HN: Umaro – An interactive music theory suite for guitarists](https://www.umaro.app/)
-- [Zluda run unmodified CUDA on non Nvidia hw](https://www.phoronix.com/news/ZLUDA-CUDA-13.1-Compatibility)
-- [&quot;About a decade ago... I developed an automated theorem-proving framework&quot;](https://twitter.com/getjonwithit/status/2009602836997505255)
+- [Powell has highest approval rating of political leaders among US adults &lpar;2025&rpar;](https://news.gallup.com/poll/700241/americans-end-year-gloomy-mood.aspx)
+- [India proposes forcing smartphone makers to give source code](https://www.reuters.com/world/china/india-proposes-forcing-smartphone-makers-give-source-code-security-overhaul-2026-01-11/)
+- [Show HN: Personal news curator running 24/7 on a Raspberry Pi 4 with local LLM](https://life-of-utkarsh.medium.com/pushing-the-limits-running-local-llms-and-a-24-7-personal-news-curator-on-4gb-of-ram-c55f9498bf3c)
+- [Show HN: Tiktokify Your Blog](https://github.com/NISH1001/tiktokify)
+- [Universal Commerce Protocol: Open standard for agentic commerce interoperability](https://a2aprotocol.ai/blog/2026-universal-commerce-protocol)
+- [Patela v2: From Certificates to Hardware](https://osservatorionessuno.org/blog/2025/12/patela-v2-from-certificates-to-hardware/)
+- [LLVM: The Bad Parts](https://www.npopov.com/2026/01/11/LLVM-The-bad-parts.html)
+- [Subformer: Multilingual video dubbing with speaker diarization and voice cloning](https://subformer.com/en-US)
+- [Show HN: `tc` like `wc` but for LLM tokens](https://github.com/jamierpond/tokencount)
+- [Training an LLM to Play Diplomacy with RL](https://www.benglickenhaus.com/blog/diplomacy_rl_part_1)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [US urges its citizens to flee Venezuela amid reports of paramilitaries](https://www.theguardian.com/us-news/2026/jan/10/us-citizens-venezuela-paramilitaries)
-- [‘We’ve got your back’: Australian PM visits bushfire-ravaged towns as 300 structures destroyed and 350,000 hectares burned](https://www.theguardian.com/australia-news/2026/jan/11/weve-got-your-back-australian-pm-visits-bushfire-ravaged-towns-as-300-structures-destroyed-and-350000-hectares-burned)
-- [Ukraine war briefing: Kyiv struggles to stabilise ruined power grid after major Russian attack](https://www.theguardian.com/world/2026/jan/11/ukraine-war-briefing-kyiv-struggles-to-stablise-ruined-power-grid-after-major-russian-attack)
-- [Myanmar junta holds second phase of election widely decried as a ‘sham exercise’](https://www.theguardian.com/world/2026/jan/11/myanmar-junta-holds-second-phase-of-election-widely-decried-as-a-sham-exercise)
-- [Bob Weir, co-founder of rock group the Grateful Dead, dies at age 78](https://www.theguardian.com/us-news/2026/jan/10/bob-weir-grateful-dead-dies-78)
-- [US protests condemn ICE killing of Renee Good and ‘a regime that is willing to kill its own citizens’](https://www.theguardian.com/us-news/2026/jan/10/protests-ice-renee-nicole-good-philadelphia)
-- [Succession creator Jesse Armstrong says he struggles with impostor syndrome](https://www.theguardian.com/tv-and-radio/2026/jan/11/succession-creator-jesse-armstrong-says-he-struggles-with-impostor-syndrome)
-- [Ban social media for under-16s, top teaching union urges UK government](https://www.theguardian.com/media/2026/jan/11/ban-social-media-for-under-16s-top-teaching-union-urges-uk-government)
-- [Heated Rivalry review – these physically perfect people have so much sex it’s tedious](https://www.theguardian.com/tv-and-radio/2026/jan/10/heated-rivalry-review-sky-atlantic-now)
-- [Mississippi man charged with six murders, including father, brother and a child](https://www.theguardian.com/us-news/2026/jan/10/mississippi-six-murders)
+- [Golden Globes 2026: the winners, the losers, the outfits – live!](https://www.theguardian.com/film/live/2026/jan/11/golden-globes-2026-the-winners-the-losers-the-outfits-live)
+- [Trump says he is considering ‘very strong’ military options against Iran as protester death toll climbs](https://www.theguardian.com/world/2026/jan/12/iran-protests-donald-trump-us-military-options)
+- [Justice department opens investigation into Jerome Powell as Trump ramps up campaign against Federal Reserve](https://www.theguardian.com/business/2026/jan/11/justice-department-opens-investigation-into-federal-reserve-as-trump-ramps-up-campaign-against-central-bank)
+- [Trick play helps 49ers eliminate Super Bowl champion Eagles from NFL playoffs](https://www.theguardian.com/sport/2026/jan/11/49ers-eagles-nfl-playoffs-wildcard)
+- [Ukraine war briefing: Nightfall – Britain races to develop ballistic missile for Kyiv](https://www.theguardian.com/world/2026/jan/12/ukraine-war-briefing-nightfall-britain-races-to-develop-ballistic-missile-for-kyiv)
+- [Andrew Clements, Guardian’s classical music critic, dies aged 75](https://www.theguardian.com/music/2026/jan/12/andrew-clements-guardians-classical-music-critic-dies-aged-75)
+- [Hawaii: A Kingdom Crossing Oceans review – a feather-filled thriller full of gods, gourds and ghosts](https://www.theguardian.com/culture/2026/jan/12/hawaii-a-kingdom-crossing-oceans-review)
+- [UK business confidence weakened and hiring fell at end of 2025, surveys find](https://www.theguardian.com/business/2026/jan/12/uk-business-confidence-weakened-and-hiring-fell-at-end-of-2025-surveys-find)
+- [Shaun Murphy crashes out of Masters on opening day of title defence](https://www.theguardian.com/sport/2026/jan/11/champion-shaun-murphy-crashes-out-of-masters-on-opening-day)
+- [Meta blocked nearly 550,000 accounts in first days of Australia’s under-16s social media ban](https://www.theguardian.com/australia-news/2026/jan/12/australia-u16-social-media-ban-meta-blocked-half-million-accounts)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

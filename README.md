@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Golden Globes 2026: the winners, the losers, the outfits – live!](https://www.theguardian.com/film/live/2026/jan/11/golden-globes-2026-the-winners-the-losers-the-outfits-live)
-- [Trump says he is considering ‘very strong’ military options against Iran as protester death toll climbs](https://www.theguardian.com/world/2026/jan/12/iran-protests-donald-trump-us-military-options)
-- [Justice department opens investigation into Jerome Powell as Trump ramps up campaign against Federal Reserve](https://www.theguardian.com/business/2026/jan/11/justice-department-opens-investigation-into-federal-reserve-as-trump-ramps-up-campaign-against-central-bank)
-- [Trick play helps 49ers eliminate Super Bowl champion Eagles from NFL playoffs](https://www.theguardian.com/sport/2026/jan/11/49ers-eagles-nfl-playoffs-wildcard)
-- [Ukraine war briefing: Nightfall – Britain races to develop ballistic missile for Kyiv](https://www.theguardian.com/world/2026/jan/12/ukraine-war-briefing-nightfall-britain-races-to-develop-ballistic-missile-for-kyiv)
-- [Andrew Clements, Guardian’s classical music critic, dies aged 75](https://www.theguardian.com/music/2026/jan/12/andrew-clements-guardians-classical-music-critic-dies-aged-75)
-- [Hawaii: A Kingdom Crossing Oceans review – a feather-filled thriller full of gods, gourds and ghosts](https://www.theguardian.com/culture/2026/jan/12/hawaii-a-kingdom-crossing-oceans-review)
-- [UK business confidence weakened and hiring fell at end of 2025, surveys find](https://www.theguardian.com/business/2026/jan/12/uk-business-confidence-weakened-and-hiring-fell-at-end-of-2025-surveys-find)
-- [Shaun Murphy crashes out of Masters on opening day of title defence](https://www.theguardian.com/sport/2026/jan/11/champion-shaun-murphy-crashes-out-of-masters-on-opening-day)
-- [Meta blocked nearly 550,000 accounts in first days of Australia’s under-16s social media ban](https://www.theguardian.com/australia-news/2026/jan/12/australia-u16-social-media-ban-meta-blocked-half-million-accounts)
+- [China pressing European countries to bar Taiwan politicians or face crossing a ‘red line’](https://www.theguardian.com/world/2026/jan/13/china-europe-pressure-block-taiwanese-politicians-visas)
+- [Ukraine war briefing: Oreshnik missile sparks anger at UN security council](https://www.theguardian.com/world/2026/jan/13/ukraine-war-briefing-oreshnik-missile-sparks-anger-at-un-security-council)
+- [Louise Adler resigns as director of Adelaide writers’ week](https://www.theguardian.com/culture/2026/jan/13/louise-adler-resigns-as-director-of-adelaide-writers-week-ntwnfb)
+- [Greenland says it cannot accept US takeover ‘under any circumstances’](https://www.theguardian.com/world/2026/jan/12/greenland-cant-under-any-circumstances-accept-us-takeover-and-is-boosting-defences)
+- [Coal power generation falls in China and India for first time since 1970s](https://www.theguardian.com/business/2026/jan/13/coal-power-generation-falls-china-india-since-1970s)
+- [Wildlife targets will be missed in England and Northern Ireland, watchdog says](https://www.theguardian.com/environment/2026/jan/13/wildlife-targets-missed-england-northern-ireland-watchdog)
+- [Mark Allen advances in Masters despite battle with food poisoning](https://www.theguardian.com/sport/2026/jan/12/mark-allen-masters-snooker-zhao-xintong)
+- [Peter Mandelson apologises for Epstein association in sudden U-turn](https://www.theguardian.com/politics/2026/jan/12/peter-mandelson-apologises-for-epstein-association-in-sudden-u-turn)
+- [Minnesota sues Trump administration to end surge of ICE agents in state](https://www.theguardian.com/us-news/2026/jan/12/minnesota-ice-lawsuit-trump-administration)
+- [Starmer tells Labour MPs his foreign trips can help fix cost of living crisis](https://www.theguardian.com/politics/2026/jan/12/starmer-tells-labour-mps-his-foreign-trips-can-help-fix-cost-of-living-crisis)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

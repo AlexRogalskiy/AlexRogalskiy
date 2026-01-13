@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Powell has highest approval rating of political leaders among US adults &lpar;2025&rpar;](https://news.gallup.com/poll/700241/americans-end-year-gloomy-mood.aspx)
-- [India proposes forcing smartphone makers to give source code](https://www.reuters.com/world/china/india-proposes-forcing-smartphone-makers-give-source-code-security-overhaul-2026-01-11/)
-- [Show HN: Personal news curator running 24/7 on a Raspberry Pi 4 with local LLM](https://life-of-utkarsh.medium.com/pushing-the-limits-running-local-llms-and-a-24-7-personal-news-curator-on-4gb-of-ram-c55f9498bf3c)
-- [Show HN: Tiktokify Your Blog](https://github.com/NISH1001/tiktokify)
-- [Universal Commerce Protocol: Open standard for agentic commerce interoperability](https://a2aprotocol.ai/blog/2026-universal-commerce-protocol)
-- [Patela v2: From Certificates to Hardware](https://osservatorionessuno.org/blog/2025/12/patela-v2-from-certificates-to-hardware/)
-- [LLVM: The Bad Parts](https://www.npopov.com/2026/01/11/LLVM-The-bad-parts.html)
-- [Subformer: Multilingual video dubbing with speaker diarization and voice cloning](https://subformer.com/en-US)
-- [Show HN: `tc` like `wc` but for LLM tokens](https://github.com/jamierpond/tokencount)
-- [Training an LLM to Play Diplomacy with RL](https://www.benglickenhaus.com/blog/diplomacy_rl_part_1)
+- [The most fascinating monitors at CES 2026](https://arstechnica.com/gadgets/2026/01/the-most-fascinating-monitors-at-ces-2026/)
+- [Show HN: ZSweep – A keyboard-first Minesweeper inspired by Vim](https://zsweep.com)
+- [Three Mistakes About Power and Justice &lpar;2025&rpar;](https://thenewdigest.substack.com/p/three-mistakes-about-power-and-justice)
+- [Google Releases Gemma Scope 2 to Deepen Understanding of LLM Behavior](https://www.infoq.com/news/2026/01/google-gemma-scope-2/)
+- [Crazy Speed with O Limiting Features with AI-Assisted Development](https://medium.com/@sirfifer/crazy-speed-w-o-limiting-features-with-ai-assisted-development-15882676fbb4)
+- [David Foster Wallace&#39;s Syllabus](http://alasophia.blogspot.com/2008/09/david-foster-wallaces-syllabus.html)
+- [America&#39;s Biggest Power Grid Operator Has an AI Problem–Too Many Data Centers](https://www.wsj.com/business/energy-oil/power-grid-ai-data-centers-1235f296)
+- [End the Fed &lpar;2025&rpar;](https://massie.house.gov/news/documentsingle.aspx?DocumentID=395707)
+- [Ask HN: Recommendations for self hostable OCR to extract code from images](https://news.ycombinator.com/item?id=46596891)
+- [LSP-Metals – Emacs Scala IDE Using Lsp-Mode to Connect to Metals](https://github.com/emacs-lsp/lsp-metals)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

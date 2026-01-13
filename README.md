@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Powell has highest approval rating of political leaders among US adults &lpar;2025&rpar;](https://news.gallup.com/poll/700241/americans-end-year-gloomy-mood.aspx)
-- [Code is cheap now, but software isn&#39;t](https://www.chrisgregori.dev/opinion/code-is-cheap-now-software-isnt)
-- [Which programming languages are most token-efficient?](https://martinalderson.com/posts/which-programming-languages-are-most-token-efficient/)
-- [Gadget Exposed a Spy Camera [video]](https://www.youtube.com/watch?v=1reman2waLs)
-- [Show HN: What if AI agents had Zodiac personalities?](https://github.com/baturyilmaz/what-if-ai-agents-had-zodiac-personalities)
-- [Show HN: Voice Composer – Browser-based pitch detection to MIDI/strudel/tidal](https://dioptre.github.io/tidal/)
-- [I&#39;d tell you a UDP joke…](https://www.codepuns.com/post/805294580859879424/i-would-tell-you-a-udp-joke-but-you-might-not-get)
-- [This game is a single 13 KiB file that runs on Windows, Linux and in the Browser](https://iczelia.net/posts/snake-polyglot/)
-- [Show HN: Engineering Schizophrenia: Trusting yourself through Byzantine faults](https://news.ycombinator.com/item?id=46580652)
-- [CLI agents make self-hosting on a home server easier and fun](https://fulghum.io/self-hosting)
+- [Tell HN: DigitalOcean&#39;s managed services broke each other after update](https://news.ycombinator.com/item?id=46596075)
+- [Google removes AI health summaries after investigation finds dangerous flaws](https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/)
+- [F2 &lpar;YC S25&rpar; Is Hiring](https://www.ycombinator.com/companies/f2/jobs/cJsc7Fe-product-designer)
+- [Fabrice Bellard&#39;s TS Zip &lpar;2024&rpar;](https://www.bellard.org/ts_zip/)
+- [The chess bot on Delta Air Lines will destroy you &lpar;2024&rpar; [video]](https://www.youtube.com/watch?v=c0mLhHDcY3I)
+- [Cowork: Claude Code for the rest of your work](https://claude.com/blog/cowork-research-preview)
+- [Show HN: Fall asleep by watching JavaScript load](https://github.com/sarusso/bedtime)
+- [Show HN: Yolobox – Run AI coding agents with full sudo without nuking home dir](https://github.com/finbarr/yolobox)
+- [Postal Arbitrage](https://walzr.com/postal-arbitrage)
+- [Message Queues: A Simple Guide with Analogies &lpar;2024&rpar;](https://www.cloudamqp.com/blog/message-queues-exaplined-with-analogies.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

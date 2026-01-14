@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Tell HN: DigitalOcean&#39;s managed services broke each other after update](https://news.ycombinator.com/item?id=46596075)
-- [Google removes AI health summaries after investigation finds dangerous flaws](https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/)
-- [F2 &lpar;YC S25&rpar; Is Hiring](https://www.ycombinator.com/companies/f2/jobs/cJsc7Fe-product-designer)
-- [Fabrice Bellard&#39;s TS Zip &lpar;2024&rpar;](https://www.bellard.org/ts_zip/)
-- [The chess bot on Delta Air Lines will destroy you &lpar;2024&rpar; [video]](https://www.youtube.com/watch?v=c0mLhHDcY3I)
-- [Cowork: Claude Code for the rest of your work](https://claude.com/blog/cowork-research-preview)
-- [Show HN: Fall asleep by watching JavaScript load](https://github.com/sarusso/bedtime)
-- [Show HN: Yolobox – Run AI coding agents with full sudo without nuking home dir](https://github.com/finbarr/yolobox)
-- [Postal Arbitrage](https://walzr.com/postal-arbitrage)
-- [Message Queues: A Simple Guide with Analogies &lpar;2024&rpar;](https://www.cloudamqp.com/blog/message-queues-exaplined-with-analogies.html)
+- [Show HN: Cachekit – High performance caching policies library in Rust](https://github.com/OxidizeLabs/cachekit)
+- [ASCII Clouds](https://caidan.dev/portfolio/ascii_clouds/)
+- [Show HN: Axis – A systems programming language with Python syntax](https://github.com/AGDNoob/axis-lang)
+- [Show HN: OSS AI agent that indexes and searches the Epstein files](https://epstein.trynia.ai/)
+- [Exa-d: How to store the web in S3](https://exa.ai/blog/exa-d)
+- [Vanderbilt University plans new campus in San Francisco](https://www.wsj.com/us-news/education/vanderbilt-san-francisco-cca-california-college-arts-expansion-lurie-8b6528b0)
+- [Sei &lpar;YC W22&rpar; Is Hiring a DevOps Engineer &lpar;India/In-Office/Chennai/Gurgaon&rpar;](https://www.ycombinator.com/companies/sei/jobs/Rn0KPXR-devops-platform-ai-infrastructure-engineer)
+- [The $LANG Programming Language](https://news.ycombinator.com/item?id=46610557)
+- [A 40-line fix eliminated a 400x performance gap](https://questdb.com/blog/jvm-current-thread-user-time/)
+- [When hardware goes end-of-life, companies need to open-source the software](https://www.marcia.no/words/eol)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

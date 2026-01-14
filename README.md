@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [China pressing European countries to bar Taiwan politicians or face crossing a ‘red line’](https://www.theguardian.com/world/2026/jan/13/china-europe-pressure-block-taiwanese-politicians-visas)
-- [Ukraine war briefing: Oreshnik missile sparks anger at UN security council](https://www.theguardian.com/world/2026/jan/13/ukraine-war-briefing-oreshnik-missile-sparks-anger-at-un-security-council)
-- [Louise Adler resigns as director of Adelaide writers’ week](https://www.theguardian.com/culture/2026/jan/13/louise-adler-resigns-as-director-of-adelaide-writers-week-ntwnfb)
-- [Greenland says it cannot accept US takeover ‘under any circumstances’](https://www.theguardian.com/world/2026/jan/12/greenland-cant-under-any-circumstances-accept-us-takeover-and-is-boosting-defences)
-- [Coal power generation falls in China and India for first time since 1970s](https://www.theguardian.com/business/2026/jan/13/coal-power-generation-falls-china-india-since-1970s)
-- [Wildlife targets will be missed in England and Northern Ireland, watchdog says](https://www.theguardian.com/environment/2026/jan/13/wildlife-targets-missed-england-northern-ireland-watchdog)
-- [Mark Allen advances in Masters despite battle with food poisoning](https://www.theguardian.com/sport/2026/jan/12/mark-allen-masters-snooker-zhao-xintong)
-- [Peter Mandelson apologises for Epstein association in sudden U-turn](https://www.theguardian.com/politics/2026/jan/12/peter-mandelson-apologises-for-epstein-association-in-sudden-u-turn)
-- [Minnesota sues Trump administration to end surge of ICE agents in state](https://www.theguardian.com/us-news/2026/jan/12/minnesota-ice-lawsuit-trump-administration)
-- [Starmer tells Labour MPs his foreign trips can help fix cost of living crisis](https://www.theguardian.com/politics/2026/jan/12/starmer-tells-labour-mps-his-foreign-trips-can-help-fix-cost-of-living-crisis)
+- [Iran protests live updates: Trump warns of ‘very strong action’ if Iran executes protesters, as death toll soars](https://www.theguardian.com/world/live/2026/jan/14/iran-protests-live-updates-trump-us-action-death-toll-protester-executions-erfan-soltani)
+- [Human activity helped make 2025 third-hottest year on record, experts say](https://www.theguardian.com/environment/2026/jan/14/human-activity-helped-make-2025-third-hottest-year-on-record-experts-say)
+- [South Korean prosecutors demand death penalty for former president Yoon Suk Yeol](https://www.theguardian.com/world/2026/jan/13/south-korean-prosecutors-demand-death-penalty-for-former-president-yoon-suk-yeol)
+- [BTS announces return with new world tour in 2026 and 2027](https://www.theguardian.com/music/2026/jan/14/bts-announces-return-with-new-world-tourm-includin-in-2026-and-2027)
+- [Nero book awards: Benjamin Wood and Sarah Perry among prize winners](https://www.theguardian.com/books/2026/jan/14/nero-book-awards-benjamin-wood-sarah-perry-among-prize-winners)
+- [One in four UK teenagers in care have attempted to end their lives, study says](https://www.theguardian.com/society/2026/jan/14/one-in-four-uk-teenagers-in-care-have-attempted-to-end-their-lives-study-says)
+- [The three ages of Michael Carrick … and what they say about Manchester United](https://www.theguardian.com/football/2026/jan/14/the-three-ages-of-michael-carrick-and-what-they-say-about-manchester-united)
+- [Five minutes more exercise and 30 minutes less sitting could help millions live longer](https://www.theguardian.com/society/2026/jan/13/five-minutes-exercise-30-minutes-less-sitting-millions-live-longer)
+- [John Higgins and Kyren Wilson win at Masters as curious run of 6-2 scorelines goes on](https://www.theguardian.com/sport/2026/jan/13/kyren-wilson-masters-snooker-si-jiahui-john-higgins-barry-hawkins)
+- [Trump claims victory on US economy despite many Americans’ cost of living concerns](https://www.theguardian.com/business/2026/jan/13/trump-economy-cost-of-living)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The most fascinating monitors at CES 2026](https://arstechnica.com/gadgets/2026/01/the-most-fascinating-monitors-at-ces-2026/)
-- [Show HN: ZSweep – A keyboard-first Minesweeper inspired by Vim](https://zsweep.com)
-- [Three Mistakes About Power and Justice &lpar;2025&rpar;](https://thenewdigest.substack.com/p/three-mistakes-about-power-and-justice)
-- [Google Releases Gemma Scope 2 to Deepen Understanding of LLM Behavior](https://www.infoq.com/news/2026/01/google-gemma-scope-2/)
-- [Crazy Speed with O Limiting Features with AI-Assisted Development](https://medium.com/@sirfifer/crazy-speed-w-o-limiting-features-with-ai-assisted-development-15882676fbb4)
-- [David Foster Wallace&#39;s Syllabus](http://alasophia.blogspot.com/2008/09/david-foster-wallaces-syllabus.html)
-- [America&#39;s Biggest Power Grid Operator Has an AI Problem–Too Many Data Centers](https://www.wsj.com/business/energy-oil/power-grid-ai-data-centers-1235f296)
-- [End the Fed &lpar;2025&rpar;](https://massie.house.gov/news/documentsingle.aspx?DocumentID=395707)
-- [Ask HN: Recommendations for self hostable OCR to extract code from images](https://news.ycombinator.com/item?id=46596891)
-- [LSP-Metals – Emacs Scala IDE Using Lsp-Mode to Connect to Metals](https://github.com/emacs-lsp/lsp-metals)
+- [Tea App Checker](https://teaappchecker.com)
+- [Show HN: Why Apple&#39;s Security Transparency Is a Double-Edged Sword for iOS 18.5](https://medium.com/@ryu360i/cves-as-feature-catalogs-the-terrifying-reality-of-automated-version-specific-exploit-kits-5194b31bd7c8)
+- [Dylan Araps has taken up farming](https://dylan.gr/1768295794)
+- [Matthew McConaughey Trademarks Himself to Fight AI Misuse](https://www.wsj.com/tech/ai/matthew-mcconaughey-trademarks-himself-to-fight-ai-misuse-8ffe76a9)
+- [gpui – A fast, productive UI framework for Rust from the creators of Zed](https://www.gpui.rs/)
+- [tmux for Agents &lpar;2025&rpar;](https://blog.philz.dev/blog/tmux-for-agents/)
+- [Town Budget Explainer Site](https://middlesexbudget.org/)
+- [Wanting to be an astronaut turned me into a Software Engineer](https://blog.douwe.com/2026/01/wanting-to-be-astronaut-turned-me-into.html)
+- [Microneedle-Array ECG with PPG Sensor for Cuffless Blood Pressure Estimation](https://www.mdpi.com/2076-3417/16/1/35)
+- [Mago](https://mago.carthage.software/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

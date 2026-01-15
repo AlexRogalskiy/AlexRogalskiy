@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Iran protests live updates: Trump warns of ‘very strong action’ if Iran executes protesters, as death toll soars](https://www.theguardian.com/world/live/2026/jan/14/iran-protests-live-updates-trump-us-action-death-toll-protester-executions-erfan-soltani)
-- [Human activity helped make 2025 third-hottest year on record, experts say](https://www.theguardian.com/environment/2026/jan/14/human-activity-helped-make-2025-third-hottest-year-on-record-experts-say)
-- [South Korean prosecutors demand death penalty for former president Yoon Suk Yeol](https://www.theguardian.com/world/2026/jan/13/south-korean-prosecutors-demand-death-penalty-for-former-president-yoon-suk-yeol)
-- [BTS announces return with new world tour in 2026 and 2027](https://www.theguardian.com/music/2026/jan/14/bts-announces-return-with-new-world-tourm-includin-in-2026-and-2027)
-- [Nero book awards: Benjamin Wood and Sarah Perry among prize winners](https://www.theguardian.com/books/2026/jan/14/nero-book-awards-benjamin-wood-sarah-perry-among-prize-winners)
-- [One in four UK teenagers in care have attempted to end their lives, study says](https://www.theguardian.com/society/2026/jan/14/one-in-four-uk-teenagers-in-care-have-attempted-to-end-their-lives-study-says)
-- [The three ages of Michael Carrick … and what they say about Manchester United](https://www.theguardian.com/football/2026/jan/14/the-three-ages-of-michael-carrick-and-what-they-say-about-manchester-united)
-- [Five minutes more exercise and 30 minutes less sitting could help millions live longer](https://www.theguardian.com/society/2026/jan/13/five-minutes-exercise-30-minutes-less-sitting-millions-live-longer)
-- [John Higgins and Kyren Wilson win at Masters as curious run of 6-2 scorelines goes on](https://www.theguardian.com/sport/2026/jan/13/kyren-wilson-masters-snooker-si-jiahui-john-higgins-barry-hawkins)
-- [Trump claims victory on US economy despite many Americans’ cost of living concerns](https://www.theguardian.com/business/2026/jan/13/trump-economy-cost-of-living)
+- [Iran closes airspace to all flights as foreign minister denies it plans to execute protesters – live](https://www.theguardian.com/world/live/2026/jan/14/iran-protests-live-updates-trump-us-action-death-toll-protester-executions-erfan-soltani)
+- [Ukraine war briefing: Zelenskyy declares energy emergency as cities shiver](https://www.theguardian.com/world/2026/jan/15/ukraine-war-briefing-zelenskyy-declares-state-of-emergency-as-cities-shiver-from-energy-attacks)
+- [ISS astronauts begin journey back to Earth in Nasa’s first ever medical evacuation](https://www.theguardian.com/science/2026/jan/15/first-medical-evacuation-nasa-astronauts-back-to-earth)
+- [All Blacks begin search for new coach after ‘gutted’ Scott Robertson departs](https://www.theguardian.com/sport/2026/jan/15/all-blacks-scott-robertson-departs-coach)
+- [Churchill’s desk and rare artwork among items donated to UK cultural institutions](https://www.theguardian.com/culture/2026/jan/15/churchill-desk-rare-artwork-items-donated-uk-cultural-institutions)
+- [Traces of cancer-linked pesticide found in tests at UK playgrounds](https://www.theguardian.com/environment/2026/jan/15/glyphosate-cancer-linked-pesticide-uk-playgrounds)
+- [Trump is making China – not America – great again, global survey suggests](https://www.theguardian.com/us-news/2026/jan/14/global-survey-suggests-trump-is-making-china-not-america-great-again)
+- [Reform UK politicians should be barred from speaking on campus, say 35% of students](https://www.theguardian.com/education/2026/jan/15/reform-uk-politicians-should-be-barred-from-speaking-on-campus-say-35-of-students)
+- [NHS corridor care is ‘torture’ leading to patient deaths and staff nightmares](https://www.theguardian.com/society/2026/jan/15/nhs-corridor-care-torture-patient-deaths-staff-nightmares)
+- [Police chief behind Maccabi Tel Aviv ban clings to job despite home secretary wanting him to quit](https://www.theguardian.com/football/2026/jan/14/police-chief-behind-maccabi-tel-aviv-ban-clings-to-job-despite-home-secretary-wanting-him-to-quit)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

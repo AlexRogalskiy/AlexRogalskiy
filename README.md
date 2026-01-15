@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Tea App Checker](https://teaappchecker.com)
-- [Show HN: Why Apple&#39;s Security Transparency Is a Double-Edged Sword for iOS 18.5](https://medium.com/@ryu360i/cves-as-feature-catalogs-the-terrifying-reality-of-automated-version-specific-exploit-kits-5194b31bd7c8)
-- [Dylan Araps has taken up farming](https://dylan.gr/1768295794)
-- [Matthew McConaughey Trademarks Himself to Fight AI Misuse](https://www.wsj.com/tech/ai/matthew-mcconaughey-trademarks-himself-to-fight-ai-misuse-8ffe76a9)
-- [gpui – A fast, productive UI framework for Rust from the creators of Zed](https://www.gpui.rs/)
-- [tmux for Agents &lpar;2025&rpar;](https://blog.philz.dev/blog/tmux-for-agents/)
-- [Town Budget Explainer Site](https://middlesexbudget.org/)
-- [Wanting to be an astronaut turned me into a Software Engineer](https://blog.douwe.com/2026/01/wanting-to-be-astronaut-turned-me-into.html)
-- [Microneedle-Array ECG with PPG Sensor for Cuffless Blood Pressure Estimation](https://www.mdpi.com/2076-3417/16/1/35)
-- [Mago](https://mago.carthage.software/)
+- [The US has officially started selling Venezuelan oil](https://www.cnn.com/2026/01/14/business/venezuelan-oil-us-sell-trump)
+- [Interactive Map of Over 300k Livestock Brands](https://ranchbrandsearch.com/brand/map)
+- [52 Places to Go in 2026](https://www.nytimes.com/interactive/2026/travel/places-to-travel-destinations-2026.html)
+- [I Spent 5 Years Digging into an Abandoned Mine and Got in [video]](https://www.youtube.com/watch?v=94vMv7hCKYo)
+- [Why your coding agent keeps undoing your architecture](https://mahdiyusuf.com/why-your-coding-agent-keeps-undoing-your-architecture/)
+- [The Third Audience](https://dri.es/the-third-audience)
+- [Humancorp](https://humancorp.xyz)
+- [json-render](https://github.com/vercel-labs/json-render)
+- [Visualize your Claude Code usage statistics](https://claude-stats.vercel.app/)
+- [Show HN: Tickk – Voice productivity app- local NLP, no cloud, no AI, no signup](https://tickk.app/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Show HN: Cachekit – High performance caching policies library in Rust](https://github.com/OxidizeLabs/cachekit)
-- [ASCII Clouds](https://caidan.dev/portfolio/ascii_clouds/)
-- [Show HN: Axis – A systems programming language with Python syntax](https://github.com/AGDNoob/axis-lang)
-- [Show HN: OSS AI agent that indexes and searches the Epstein files](https://epstein.trynia.ai/)
-- [Exa-d: How to store the web in S3](https://exa.ai/blog/exa-d)
-- [Vanderbilt University plans new campus in San Francisco](https://www.wsj.com/us-news/education/vanderbilt-san-francisco-cca-california-college-arts-expansion-lurie-8b6528b0)
-- [Sei &lpar;YC W22&rpar; Is Hiring a DevOps Engineer &lpar;India/In-Office/Chennai/Gurgaon&rpar;](https://www.ycombinator.com/companies/sei/jobs/Rn0KPXR-devops-platform-ai-infrastructure-engineer)
-- [The $LANG Programming Language](https://news.ycombinator.com/item?id=46610557)
-- [A 40-line fix eliminated a 400x performance gap](https://questdb.com/blog/jvm-current-thread-user-time/)
-- [When hardware goes end-of-life, companies need to open-source the software](https://www.marcia.no/words/eol)
+- [Bubblewrap: A nimble way to prevent agents from accessing your .env files](https://patrickmccanna.net/a-better-way-to-limit-claude-code-and-other-coding-agents-access-to-secrets/)
+- [Furiosa: 3.5x efficiency over H100s](https://furiosa.ai/blog/introducing-rngd-server-efficient-ai-inference-at-data-center-scale)
+- [Anthropic Explicitly Blocking OpenCode](https://gist.github.com/R44VC0RP/bd391f6a23185c0fed6c6b5fb2bac50e)
+- [ChromaDB Explorer](https://www.chroma-explorer.com/)
+- [Crafting Interpreters](https://craftinginterpreters.com/)
+- [Scaling long-running autonomous coding](https://cursor.com/blog/scaling-agents)
+- [The State of OpenSSL for pyca/cryptography](https://cryptography.io/en/latest/statements/state-of-openssl/)
+- [Sun Position Calculator](https://drajmarsh.bitbucket.io/earthsun.html)
+- [Claude Cowork Exfiltrates Files](https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files)
+- [Every country should set 16 as the minimum age for social media accounts](https://www.afterbabel.com/p/why-every-country-should-set-16)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

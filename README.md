@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Iran closes airspace to all flights as foreign minister denies it plans to execute protesters – live](https://www.theguardian.com/world/live/2026/jan/14/iran-protests-live-updates-trump-us-action-death-toll-protester-executions-erfan-soltani)
-- [Ukraine war briefing: Zelenskyy declares energy emergency as cities shiver](https://www.theguardian.com/world/2026/jan/15/ukraine-war-briefing-zelenskyy-declares-state-of-emergency-as-cities-shiver-from-energy-attacks)
-- [ISS astronauts begin journey back to Earth in Nasa’s first ever medical evacuation](https://www.theguardian.com/science/2026/jan/15/first-medical-evacuation-nasa-astronauts-back-to-earth)
-- [All Blacks begin search for new coach after ‘gutted’ Scott Robertson departs](https://www.theguardian.com/sport/2026/jan/15/all-blacks-scott-robertson-departs-coach)
-- [Churchill’s desk and rare artwork among items donated to UK cultural institutions](https://www.theguardian.com/culture/2026/jan/15/churchill-desk-rare-artwork-items-donated-uk-cultural-institutions)
-- [Traces of cancer-linked pesticide found in tests at UK playgrounds](https://www.theguardian.com/environment/2026/jan/15/glyphosate-cancer-linked-pesticide-uk-playgrounds)
-- [Trump is making China – not America – great again, global survey suggests](https://www.theguardian.com/us-news/2026/jan/14/global-survey-suggests-trump-is-making-china-not-america-great-again)
-- [Reform UK politicians should be barred from speaking on campus, say 35% of students](https://www.theguardian.com/education/2026/jan/15/reform-uk-politicians-should-be-barred-from-speaking-on-campus-say-35-of-students)
-- [NHS corridor care is ‘torture’ leading to patient deaths and staff nightmares](https://www.theguardian.com/society/2026/jan/15/nhs-corridor-care-torture-patient-deaths-staff-nightmares)
-- [Police chief behind Maccabi Tel Aviv ban clings to job despite home secretary wanting him to quit](https://www.theguardian.com/football/2026/jan/14/police-chief-behind-maccabi-tel-aviv-ban-clings-to-job-despite-home-secretary-wanting-him-to-quit)
+- [Kyrsten Sinema sued by former bodyguard’s ex-wife over ‘alienation of affection’](https://www.theguardian.com/us-news/2026/jan/15/kyrsten-sinema-lawsuit)
+- [See how Victoria’s bushfires spread: a visual guide to the scale of devastation](https://www.theguardian.com/australia-news/2026/jan/16/how-victorian-bushfires-spread-maps-area-visual-guide)
+- [María Corina Machado says she presented Trump with her Nobel peace prize medal](https://www.theguardian.com/world/2026/jan/15/maria-corina-machado-says-she-presented-trump-with-her-nobel-peace-prize-medal)
+- [Rights groups hail acquittal after seven years of aid workers prosecuted during Greece refugee crisis](https://www.theguardian.com/world/2026/jan/16/greece-refugee-crisis-aid-workers-people-smuggling-acquittal)
+- [Over-reliance on China could hit UK energy supply chains ‘putting 90,00 jobs at risk’](https://www.theguardian.com/politics/2026/jan/16/over-reliance-on-china-could-hit-uk-energy-supply-chains-putting-9000-jobs-at-risk)
+- [Robbie Williams: Britpop review | Alexis Petridis&#39;s album of the week](https://www.theguardian.com/music/2026/jan/16/robbie-williams-britpop-review)
+- [The Rip review – Ben Affleck and Matt Damon tear through flashy Netflix bro thriller](https://www.theguardian.com/film/2026/jan/16/the-rip-review-ben-affleck-and-matt-damon-tear-through-flashy-netflix-bro-thriller)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2026/jan/16/premier-league-10-things-to-look-out-for-this-weekend)
+- [John Higgins rides wild fluke to win final three frames and reach Masters semi](https://www.theguardian.com/sport/2026/jan/15/john-higgins-zhao-xintong-judd-trump-mark-allen)
+- [ACLU sues Trump administration over ‘racial profiling and unlawful arrests’ in Minnesota ICE surge](https://www.theguardian.com/us-news/2026/jan/15/aclu-lawsuit-ice-minnesota-trump)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

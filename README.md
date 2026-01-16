@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The US has officially started selling Venezuelan oil](https://www.cnn.com/2026/01/14/business/venezuelan-oil-us-sell-trump)
-- [Interactive Map of Over 300k Livestock Brands](https://ranchbrandsearch.com/brand/map)
-- [52 Places to Go in 2026](https://www.nytimes.com/interactive/2026/travel/places-to-travel-destinations-2026.html)
-- [I Spent 5 Years Digging into an Abandoned Mine and Got in [video]](https://www.youtube.com/watch?v=94vMv7hCKYo)
-- [Why your coding agent keeps undoing your architecture](https://mahdiyusuf.com/why-your-coding-agent-keeps-undoing-your-architecture/)
-- [The Third Audience](https://dri.es/the-third-audience)
-- [Humancorp](https://humancorp.xyz)
-- [json-render](https://github.com/vercel-labs/json-render)
-- [Visualize your Claude Code usage statistics](https://claude-stats.vercel.app/)
-- [Show HN: Tickk – Voice productivity app- local NLP, no cloud, no AI, no signup](https://tickk.app/)
+- [Why swearing makes you stronger](https://www.apa.org/news/press/releases/2025/12/swearing-makes-you-stronger)
+- [You are not crazy – Douglas Rushkoff](https://rushkoff.substack.com/p/you-are-not-crazy)
+- [Ask HN: What weird GitHub Copilot bugs are you seeing?](https://news.ycombinator.com/item?id=46642593)
+- [Show HN: Tureff – Search a keyword to create a chatroom instantly](https://tureff.com)
+- [OpenBSD-current now runs as guest under Apple Hypervisor](https://www.undeadly.org/cgi?action=article;sid=20260115203619)
+- [Happy Birthday, Wikipedia: We need you now more](https://www.salon.com/2026/01/15/happy-birthday-wikipedia-we-need-you-now-more-than-ever/)
+- [Show HN: Vibe Coded Text Categorizer](https://github.com/tadasv/vibed-categorizer)
+- [Cloudflare threatens Italy exit over €14M fine](https://ioplus.nl/en/posts/cloudflare-threatens-italy-exit-over-14m-fine)
+- [Renewable-powered system uses calcium to reduce emissions and scale for farmers](https://phys.org/news/2026-01-ammonia-production-renewable-powered-calcium.html)
+- [Show HN: Aventos – An experiment in cheap AI SEO](https://www.aventos.dev/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

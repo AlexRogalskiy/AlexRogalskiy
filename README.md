@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Why swearing makes you stronger](https://www.apa.org/news/press/releases/2025/12/swearing-makes-you-stronger)
-- [You are not crazy – Douglas Rushkoff](https://rushkoff.substack.com/p/you-are-not-crazy)
-- [Ask HN: What weird GitHub Copilot bugs are you seeing?](https://news.ycombinator.com/item?id=46642593)
-- [Show HN: Tureff – Search a keyword to create a chatroom instantly](https://tureff.com)
-- [OpenBSD-current now runs as guest under Apple Hypervisor](https://www.undeadly.org/cgi?action=article;sid=20260115203619)
-- [Happy Birthday, Wikipedia: We need you now more](https://www.salon.com/2026/01/15/happy-birthday-wikipedia-we-need-you-now-more-than-ever/)
-- [Show HN: Vibe Coded Text Categorizer](https://github.com/tadasv/vibed-categorizer)
-- [Cloudflare threatens Italy exit over €14M fine](https://ioplus.nl/en/posts/cloudflare-threatens-italy-exit-over-14m-fine)
-- [Renewable-powered system uses calcium to reduce emissions and scale for farmers](https://phys.org/news/2026-01-ammonia-production-renewable-powered-calcium.html)
-- [Show HN: Aventos – An experiment in cheap AI SEO](https://www.aventos.dev/)
+- [Dispute with Russian billionaire leads to 4 Bay Area bankruptcies](https://www.sfgate.com/tech/article/russian-billionaire-four-biotech-bankruptcies-21299298.php)
+- [Crypto grifters are recruiting open-source AI developers](https://www.seangoedecke.com/gas-and-ralph/)
+- [GoodJob, Solid Queue, Sidekiq, Active Job, in 2026](https://island94.org/2026/01/goodjob-solid-queue-sidekiq-active-job-in-2026)
+- [Ben Affleck and Matt Damon on the Limits of AI in Filmmaking [video]](https://www.youtube.com/watch?v=O-2OsvVJC0s)
+- [Every Inch Matters](https://mercurialsolo.substack.com/p/every-inch-matters)
+- [Chinese Fishing Boats Form Sea Barriers](https://www.nytimes.com/interactive/2026/01/16/world/asia/china-ships-fishing-militia-blockade.html)
+- [Video Analysis of ICE Shooting Sheds Light on Contested Moments](https://www.nytimes.com/2026/01/15/video/ice-shooting-renee-good-minneapolis-videos.html)
+- [Alabama Snowfall Forecast](https://ema.alabama.gov/2026/01/15/thursday-afternoon-update-on-possible-snowfall-this-weekend/)
+- [Claude Code sessions are now link-shareable](https://news.ycombinator.com/item?id=46654804)
+- [Claude Code sessions are now link-shareable](https://github.com/OmkarKovvali/claude-session-share)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

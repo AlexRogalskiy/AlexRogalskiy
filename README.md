@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Kyrsten Sinema sued by former bodyguard’s ex-wife over ‘alienation of affection’](https://www.theguardian.com/us-news/2026/jan/15/kyrsten-sinema-lawsuit)
-- [See how Victoria’s bushfires spread: a visual guide to the scale of devastation](https://www.theguardian.com/australia-news/2026/jan/16/how-victorian-bushfires-spread-maps-area-visual-guide)
-- [María Corina Machado says she presented Trump with her Nobel peace prize medal](https://www.theguardian.com/world/2026/jan/15/maria-corina-machado-says-she-presented-trump-with-her-nobel-peace-prize-medal)
-- [Rights groups hail acquittal after seven years of aid workers prosecuted during Greece refugee crisis](https://www.theguardian.com/world/2026/jan/16/greece-refugee-crisis-aid-workers-people-smuggling-acquittal)
-- [Over-reliance on China could hit UK energy supply chains ‘putting 90,00 jobs at risk’](https://www.theguardian.com/politics/2026/jan/16/over-reliance-on-china-could-hit-uk-energy-supply-chains-putting-9000-jobs-at-risk)
-- [Robbie Williams: Britpop review | Alexis Petridis&#39;s album of the week](https://www.theguardian.com/music/2026/jan/16/robbie-williams-britpop-review)
-- [The Rip review – Ben Affleck and Matt Damon tear through flashy Netflix bro thriller](https://www.theguardian.com/film/2026/jan/16/the-rip-review-ben-affleck-and-matt-damon-tear-through-flashy-netflix-bro-thriller)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2026/jan/16/premier-league-10-things-to-look-out-for-this-weekend)
-- [John Higgins rides wild fluke to win final three frames and reach Masters semi](https://www.theguardian.com/sport/2026/jan/15/john-higgins-zhao-xintong-judd-trump-mark-allen)
-- [ACLU sues Trump administration over ‘racial profiling and unlawful arrests’ in Minnesota ICE surge](https://www.theguardian.com/us-news/2026/jan/15/aclu-lawsuit-ice-minnesota-trump)
+- [Mark Carney in China positions Canada for ‘the world as it is, not as we wish it’](https://www.theguardian.com/world/2026/jan/17/mark-carney-in-china-positions-canada-for-the-world-as-it-is-not-as-we-wish-it)
+- [Ukraine war briefing: Czechs offer drone-hunting jets as Zelenskyy flags air defence shortages](https://www.theguardian.com/world/2026/jan/17/ukraine-war-briefing-czechs-offer-drone-hunting-jets-as-zelenskyy-flags-air-defence-shortages)
+- [Trump news at a glance: president creates Gaza ‘board of peace’ – now what?](https://www.theguardian.com/us-news/2026/jan/16/trump-news-at-a-glance-gaza-board)
+- [Trump appoints Blair, Kushner and Rubio to Gaza ‘board of peace’](https://www.theguardian.com/us-news/2026/jan/16/trump-gaza-board-rubio-blair)
+- [Study debunks Trump claim that paracetamol causes autism](https://www.theguardian.com/society/2026/jan/16/study-debunks-trump-claim-paracetamol-causes-autism-pregnancy)
+- [Illinois surgeon indicted for double homicide of ex-wife and husband](https://www.theguardian.com/us-news/2026/jan/16/illinois-surgeon-double-homicide-ex-wife-husband)
+- [Frank must beware ghost of Tottenham managers past to avoid Nuno’s fate](https://www.theguardian.com/football/2026/jan/16/tottenham-thomas-frank-west-ham-nuno)
+- [Premier League news: Arteta welcomes throw-in coach, Moyes defends Barry](https://www.theguardian.com/football/2026/jan/16/premier-league-news-arsenal-coach-mikel-arteta)
+- [Barbeary shows class as Bath score nine tries to race into Champions Cup last 16](https://www.theguardian.com/sport/2026/jan/16/bath-edinburgh-champions-cup-rugby-union-match-report)
+- [Uganda’s opposition leader ‘taken by army’ as Museveni nears re-election](https://www.theguardian.com/world/2026/jan/16/uganda-election-early-results-show-museveni-in-lead-as-violence-reported)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

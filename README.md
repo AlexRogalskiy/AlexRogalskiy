@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Keifu – A TUI for navigating commit graphs with color and clarity](https://github.com/trasta298/keifu)
-- [FLUX.2 [Klein]: Towards Interactive Visual Intelligence](https://bfl.ai/blog/flux2-klein-towards-interactive-visual-intelligence)
-- [Install.md: A standard for LLM-executable installation](https://www.mintlify.com/blog/install-md-standard-for-llm-executable-installation)
-- [Releasing rainbow tables to accelerate Net-NTLMv1 protocol deprecation](https://cloud.google.com/blog/topics/threat-intelligence/net-ntlmv1-deprecation-rainbow-tables)
-- [Slop is everywhere for those with eyes to see](https://www.fromjason.xyz/p/notebook/slop-is-everywhere-for-those-with-eyes-to-see/)
-- [Reading across books with Claude Code](https://pieterma.es/syntopic-reading-claude/)
-- [Emoji Use in the Electronic Health Record is Increasing](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2843883)
-- [STFU](https://github.com/Pankajtanwarbanna/stfu)
-- [East Germany balloon escape](https://en.wikipedia.org/wiki/East_Germany_balloon_escape)
-- [Dell UltraSharp 52 Thunderbolt Hub Monitor](https://www.dell.com/en-us/shop/dell-ultrasharp-52-thunderbolt-hub-monitor-u5226kw/apd/210-bthw/monitors-monitor-accessories)
+- [MIT&#39;s Computer Systems Security &lpar;2024&rpar;](https://css.csail.mit.edu/6.858/2024/)
+- [IRISC: An ARMv7 assembly interpreter and computer architecture simulator](https://polysoftit.co.uk/irisc-web/)
+- [If you put Apple icons in reverse it looks like someone getting good at design](https://mastodon.social/@heliographe_studio/115890819509545391)
+- [Light Mode InFFFFFFlation](https://willhbr.net/2025/10/20/light-mode-infffffflation/)
+- [Show HN: Speed Miners – A tiny RTS resource mini-game](https://speedminers.fun/)
+- [Show HN: ChunkHound, a local-first tool for understanding large codebases](https://github.com/chunkhound/chunkhound)
+- [A programming language based on grammatical cases of Turkish](https://github.com/kip-dili/kip)
+- [What twenty years of DevOps has failed to do](https://www.honeycomb.io/blog/you-had-one-job-why-twenty-years-of-devops-has-failed-to-do-it)
+- [The thing that brought me joy](https://www.stephenlewis.me/blog/the-thing-that-brought-me-joy/)
+- [Raising money fucked me up](https://blog.yakkomajuri.com/blog/raising-money-fucked-me-up)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

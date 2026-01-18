@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Dispute with Russian billionaire leads to 4 Bay Area bankruptcies](https://www.sfgate.com/tech/article/russian-billionaire-four-biotech-bankruptcies-21299298.php)
-- [Crypto grifters are recruiting open-source AI developers](https://www.seangoedecke.com/gas-and-ralph/)
-- [GoodJob, Solid Queue, Sidekiq, Active Job, in 2026](https://island94.org/2026/01/goodjob-solid-queue-sidekiq-active-job-in-2026)
-- [Ben Affleck and Matt Damon on the Limits of AI in Filmmaking [video]](https://www.youtube.com/watch?v=O-2OsvVJC0s)
-- [Every Inch Matters](https://mercurialsolo.substack.com/p/every-inch-matters)
-- [Chinese Fishing Boats Form Sea Barriers](https://www.nytimes.com/interactive/2026/01/16/world/asia/china-ships-fishing-militia-blockade.html)
-- [Video Analysis of ICE Shooting Sheds Light on Contested Moments](https://www.nytimes.com/2026/01/15/video/ice-shooting-renee-good-minneapolis-videos.html)
-- [Alabama Snowfall Forecast](https://ema.alabama.gov/2026/01/15/thursday-afternoon-update-on-possible-snowfall-this-weekend/)
-- [Claude Code sessions are now link-shareable](https://news.ycombinator.com/item?id=46654804)
-- [Claude Code sessions are now link-shareable](https://github.com/OmkarKovvali/claude-session-share)
+- [TLS stripping on-device under Windows XP](https://kianbradley.com/2024/01/14/tls-on-xp.html)
+- [David Webb, prominent Hong Kong shareholder activist, dies at 60](https://www.seattletimes.com/business/david-webb-prominent-hong-kong-shareholder-activist-dies-at-60/)
+- [Geometric Transformer: Emergent Connectivity via High-Dimensional Manifold](https://zenodo.org/records/18285921)
+- [OSS Document Templates – Opinionated repo doc templates for open-source projects](https://github.com/Code-Cause-Collective/repo-oss-doc-templates)
+- [How scientists are using Claude to accelerate research and discovery](https://www.anthropic.com/news/accelerating-scientific-research)
+- [Trump wants nations to pay $1B to stay on his peace board](https://www.reuters.com/world/trump-wants-nations-pay-1-billion-stay-his-peace-board-report-says-2026-01-17/)
+- [The impact of interactive violence on children &lpar;2000&rpar; [pdf]](https://www.govinfo.gov/content/pkg/CHRG-106shrg78656/pdf/CHRG-106shrg78656.pdf)
+- [Ask HN: is it&#39;s ok to do engagement farming here?](https://news.ycombinator.com/item?id=46664495)
+- [What&#39;s on HTTP?](https://whatsonhttp.com/)
+- [Major plumbing headache haunts $13B U.S. carrier off the coast of Venezuela](https://www.npr.org/2026/01/17/nx-s1-5680167/major-plumbing-headache-haunts-13-billion-u-s-carrier-off-the-coast-of-venezuela)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

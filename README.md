@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Mark Carney in China positions Canada for ‘the world as it is, not as we wish it’](https://www.theguardian.com/world/2026/jan/17/mark-carney-in-china-positions-canada-for-the-world-as-it-is-not-as-we-wish-it)
-- [Ukraine war briefing: Czechs offer drone-hunting jets as Zelenskyy flags air defence shortages](https://www.theguardian.com/world/2026/jan/17/ukraine-war-briefing-czechs-offer-drone-hunting-jets-as-zelenskyy-flags-air-defence-shortages)
-- [Trump news at a glance: president creates Gaza ‘board of peace’ – now what?](https://www.theguardian.com/us-news/2026/jan/16/trump-news-at-a-glance-gaza-board)
-- [Trump appoints Blair, Kushner and Rubio to Gaza ‘board of peace’](https://www.theguardian.com/us-news/2026/jan/16/trump-gaza-board-rubio-blair)
-- [Study debunks Trump claim that paracetamol causes autism](https://www.theguardian.com/society/2026/jan/16/study-debunks-trump-claim-paracetamol-causes-autism-pregnancy)
-- [Illinois surgeon indicted for double homicide of ex-wife and husband](https://www.theguardian.com/us-news/2026/jan/16/illinois-surgeon-double-homicide-ex-wife-husband)
-- [Frank must beware ghost of Tottenham managers past to avoid Nuno’s fate](https://www.theguardian.com/football/2026/jan/16/tottenham-thomas-frank-west-ham-nuno)
-- [Premier League news: Arteta welcomes throw-in coach, Moyes defends Barry](https://www.theguardian.com/football/2026/jan/16/premier-league-news-arsenal-coach-mikel-arteta)
-- [Barbeary shows class as Bath score nine tries to race into Champions Cup last 16](https://www.theguardian.com/sport/2026/jan/16/bath-edinburgh-champions-cup-rugby-union-match-report)
-- [Uganda’s opposition leader ‘taken by army’ as Museveni nears re-election](https://www.theguardian.com/world/2026/jan/16/uganda-election-early-results-show-museveni-in-lead-as-violence-reported)
+- [Ukraine war briefing: Russia readying strikes on nuclear power system, Zelenskyy warns](https://www.theguardian.com/world/2026/jan/18/ukraine-war-briefing-russia-readying-strikes-on-nuclear-power-system-zelenskyy-warns)
+- [Woman killed by falling tree branch in NSW storms as landslide and flood warnings issued for Sydney](https://www.theguardian.com/australia-news/2026/jan/18/sunday-weather-storms-sydney-nsw-flooding-rescues)
+- [Higgins edges past Trump and Wilson sees of Wu to set up Masters final](https://www.theguardian.com/sport/2026/jan/17/john-higgins-judd-trump-masters-snooker-yize-wu-kyren-wilson)
+- [Frank’s future in doubt as Romero calls West Ham defeat ‘a disaster’ for Spurs](https://www.theguardian.com/football/2026/jan/17/thomas-frank-tottenham-west-ham-premier-league)
+- [Toulouse run 11 tries through ragged Sale as Thomas Ramos finds kicking perfection](https://www.theguardian.com/sport/2026/jan/17/toulouse-sale-champions-cup-rugby-union-match-report)
+- [Only a thrilling final can save a predictable Africa Cup of Nations from being forgotten | Jonathan Wilson](https://www.theguardian.com/football/2026/jan/17/only-a-thrilling-final-can-save-a-predictable-africa-cup-of-nations-from-being-forgotten)
+- [Arteta rails at Arsenal being denied ‘clear penalty’ as Forest hold leaders](https://www.theguardian.com/football/2026/jan/17/nottingham-forest-arsenal-premier-league-match-report)
+- [Keir Starmer says Trump’s threat to impose tariffs over Greenland ‘completely wrong’](https://www.theguardian.com/world/2026/jan/17/uk-politicians-condemn-trumps-threat-to-impose-tariffs-over-greenland)
+- [Israel objects to White House’s pick of leaders for ‘board of peace’](https://www.theguardian.com/world/2026/jan/17/israel-objects-to-white-houses-pick-of-leaders-for-board-of-peace)
+- [What happens to accidental heroes when the headlines fade? ‘You get your award and then there’s nothing’](https://www.theguardian.com/science/2026/jan/17/what-happens-accidental-heroes-when-headlines-fade-ntwnfb)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

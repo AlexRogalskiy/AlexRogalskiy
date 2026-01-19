@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine war briefing: Russia readying strikes on nuclear power system, Zelenskyy warns](https://www.theguardian.com/world/2026/jan/18/ukraine-war-briefing-russia-readying-strikes-on-nuclear-power-system-zelenskyy-warns)
-- [Woman killed by falling tree branch in NSW storms as landslide and flood warnings issued for Sydney](https://www.theguardian.com/australia-news/2026/jan/18/sunday-weather-storms-sydney-nsw-flooding-rescues)
-- [Higgins edges past Trump and Wilson sees of Wu to set up Masters final](https://www.theguardian.com/sport/2026/jan/17/john-higgins-judd-trump-masters-snooker-yize-wu-kyren-wilson)
-- [Frank’s future in doubt as Romero calls West Ham defeat ‘a disaster’ for Spurs](https://www.theguardian.com/football/2026/jan/17/thomas-frank-tottenham-west-ham-premier-league)
-- [Toulouse run 11 tries through ragged Sale as Thomas Ramos finds kicking perfection](https://www.theguardian.com/sport/2026/jan/17/toulouse-sale-champions-cup-rugby-union-match-report)
-- [Only a thrilling final can save a predictable Africa Cup of Nations from being forgotten | Jonathan Wilson](https://www.theguardian.com/football/2026/jan/17/only-a-thrilling-final-can-save-a-predictable-africa-cup-of-nations-from-being-forgotten)
-- [Arteta rails at Arsenal being denied ‘clear penalty’ as Forest hold leaders](https://www.theguardian.com/football/2026/jan/17/nottingham-forest-arsenal-premier-league-match-report)
-- [Keir Starmer says Trump’s threat to impose tariffs over Greenland ‘completely wrong’](https://www.theguardian.com/world/2026/jan/17/uk-politicians-condemn-trumps-threat-to-impose-tariffs-over-greenland)
-- [Israel objects to White House’s pick of leaders for ‘board of peace’](https://www.theguardian.com/world/2026/jan/17/israel-objects-to-white-houses-pick-of-leaders-for-board-of-peace)
-- [What happens to accidental heroes when the headlines fade? ‘You get your award and then there’s nothing’](https://www.theguardian.com/science/2026/jan/17/what-happens-accidental-heroes-when-headlines-fade-ntwnfb)
+- [Alex de Minaur v Mackenzie McDonald: Australian Open first round – live](https://www.theguardian.com/sport/live/2026/jan/19/alex-de-minaur-v-mackenzie-mcdonald-australian-open-first-round-live)
+- [Woman found dead on popular Australian tourist island K’gari](https://www.theguardian.com/australia-news/2026/jan/19/woman-found-dead-australian-island-kgari-dingoes-ntwnfb)
+- [CBS finally airs 60 Minutes segment on Venezuelan prisoners sent to Cecot in El Salvador](https://www.theguardian.com/media/2026/jan/19/cbs-60-minutes-venezuelan-prisoners-bari-weiss)
+- [15 years after Fukushima, Japan prepares to restart the world’s biggest nuclear plant](https://www.theguardian.com/world/2026/jan/19/japan-nuclear-plant-restart-kashiwazaki-kariwa-fukushima)
+- [Ukraine war briefing: Russian attacks kill two as Ukrainian strikes trigger blackouts in occupied south](https://www.theguardian.com/world/2026/jan/19/ukraine-war-briefing-russian-attacks-kill-two-as-ukrainian-strikes-trigger-blackouts-in-occupied-south)
+- [Portugal presidential election: Socialist party’s Seguro to face far-right leader in runoff](https://www.theguardian.com/world/2026/jan/19/portugal-presidential-election-socialist-party-seguro)
+- [High-speed train crash in southern Spain leaves at least 21 dead](https://www.theguardian.com/world/2026/jan/18/high-speed-train-crash-in-adamuz-cordoba-southern-spain)
+- [Women ‘being failed by underfunded and understaffed’ UK postnatal care](https://www.theguardian.com/society/2026/jan/19/women-being-failed-by-underfunded-and-understaffed-uk-postnatal-care)
+- [Two short but spectacular HS2 tunnels offer glimmer of hope for stalling project](https://www.theguardian.com/business/2026/jan/19/hs2-tunnels-chilterns)
+- [Arsenal overtake Chelsea at the top of WSL-dominated football rich list](https://www.theguardian.com/football/2026/jan/19/arsenal-overtake-chelsea-top-wsl-dominated-football-rich-list)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

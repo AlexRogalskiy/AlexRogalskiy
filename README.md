@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [TLS stripping on-device under Windows XP](https://kianbradley.com/2024/01/14/tls-on-xp.html)
-- [David Webb, prominent Hong Kong shareholder activist, dies at 60](https://www.seattletimes.com/business/david-webb-prominent-hong-kong-shareholder-activist-dies-at-60/)
-- [Geometric Transformer: Emergent Connectivity via High-Dimensional Manifold](https://zenodo.org/records/18285921)
-- [OSS Document Templates – Opinionated repo doc templates for open-source projects](https://github.com/Code-Cause-Collective/repo-oss-doc-templates)
-- [How scientists are using Claude to accelerate research and discovery](https://www.anthropic.com/news/accelerating-scientific-research)
-- [Trump wants nations to pay $1B to stay on his peace board](https://www.reuters.com/world/trump-wants-nations-pay-1-billion-stay-his-peace-board-report-says-2026-01-17/)
-- [The impact of interactive violence on children &lpar;2000&rpar; [pdf]](https://www.govinfo.gov/content/pkg/CHRG-106shrg78656/pdf/CHRG-106shrg78656.pdf)
-- [Ask HN: is it&#39;s ok to do engagement farming here?](https://news.ycombinator.com/item?id=46664495)
-- [What&#39;s on HTTP?](https://whatsonhttp.com/)
-- [Major plumbing headache haunts $13B U.S. carrier off the coast of Venezuela](https://www.npr.org/2026/01/17/nx-s1-5680167/major-plumbing-headache-haunts-13-billion-u-s-carrier-off-the-coast-of-venezuela)
+- [Ask HN: Year from today what will have been the worst behavior from AI corps?](https://news.ycombinator.com/item?id=46674813)
+- [Show HN: PixelRipple – AI ads agent for e-commerce](https://www.pixelripple.ai/)
+- [Poolsuite CLI – Ultra-summer internet radio from your terminal](https://github.com/jamespember/poolsuite-cli)
+- [WordWalker Spanish](https://wordwalker.ca/)
+- [Show HN: A 6.9B Moe LLM in Rust, Go, and Python](https://github.com/fumi-engineer/machine_learning)
+- [The Stirling Engine: A Wave of the Future Ago [video]](https://www.youtube.com/watch?v=KbnGlcQiL1c)
+- [Show HN: AI Tryon Product to Video Generator](https://aitryon.art/ai-product-to-video/)
+- [Watch Cursor build a 3M+ line browser in a week](https://twitter.com/mntruell/status/2012825801381580880)
+- [The Convolutional Neural Network](https://cocakoala.substack.com/p/the-convolutional-neural-network)
+- [Writing Your First Compiler](https://popovicu.com/posts/writing-your-first-compiler/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

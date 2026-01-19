@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [MIT&#39;s Computer Systems Security &lpar;2024&rpar;](https://css.csail.mit.edu/6.858/2024/)
-- [IRISC: An ARMv7 assembly interpreter and computer architecture simulator](https://polysoftit.co.uk/irisc-web/)
-- [If you put Apple icons in reverse it looks like someone getting good at design](https://mastodon.social/@heliographe_studio/115890819509545391)
-- [Light Mode InFFFFFFlation](https://willhbr.net/2025/10/20/light-mode-infffffflation/)
-- [Show HN: Speed Miners – A tiny RTS resource mini-game](https://speedminers.fun/)
-- [Show HN: ChunkHound, a local-first tool for understanding large codebases](https://github.com/chunkhound/chunkhound)
-- [A programming language based on grammatical cases of Turkish](https://github.com/kip-dili/kip)
-- [What twenty years of DevOps has failed to do](https://www.honeycomb.io/blog/you-had-one-job-why-twenty-years-of-devops-has-failed-to-do-it)
-- [The thing that brought me joy](https://www.stephenlewis.me/blog/the-thing-that-brought-me-joy/)
-- [Raising money fucked me up](https://blog.yakkomajuri.com/blog/raising-money-fucked-me-up)
+- [The Code-Only Agent](https://rijnard.com/blog/the-code-only-agent)
+- [At least 21 killed in Spain after crash involving high-speed trains](https://www.bbc.com/news/articles/cedw6ylpynyo)
+- [Prediction: Microsoft will eventually ship a Windows-themed Linux distro](https://gamesbymason.com/blog/2026/microsoft/)
+- [Show HN: Beats, a web-based drum machine](https://beats.lasagna.pizza)
+- [Police Invested Millions in Shadowy Phone-Tracking Software Won&#39;t Say How Used](https://www.texasobserver.org/texas-police-invest-tangles-sheriff-surveillance/)
+- [Stirling Cycle Machine Analysis](https://ohioopen.library.ohio.edu/opentextbooks/9/)
+- [Show HN: Dock – Slack minus the bloat, tax, and 90-day memory loss](https://getdock.io/)
+- [Dead Internet Theory](https://kudmitry.com/articles/dead-internet-theory/)
+- [Prediction markets are ushering in a world in which news becomes about gambling](https://www.msn.com/en-us/money/markets/america-is-slow-walking-into-a-polymarket-disaster/ar-AA1Upfdb)
+- [Flux 2 Klein pure C inference](https://github.com/antirez/flux2.c)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

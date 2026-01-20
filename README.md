@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Alex de Minaur v Mackenzie McDonald: Australian Open first round – live](https://www.theguardian.com/sport/live/2026/jan/19/alex-de-minaur-v-mackenzie-mcdonald-australian-open-first-round-live)
-- [Woman found dead on popular Australian tourist island K’gari](https://www.theguardian.com/australia-news/2026/jan/19/woman-found-dead-australian-island-kgari-dingoes-ntwnfb)
-- [CBS finally airs 60 Minutes segment on Venezuelan prisoners sent to Cecot in El Salvador](https://www.theguardian.com/media/2026/jan/19/cbs-60-minutes-venezuelan-prisoners-bari-weiss)
-- [15 years after Fukushima, Japan prepares to restart the world’s biggest nuclear plant](https://www.theguardian.com/world/2026/jan/19/japan-nuclear-plant-restart-kashiwazaki-kariwa-fukushima)
-- [Ukraine war briefing: Russian attacks kill two as Ukrainian strikes trigger blackouts in occupied south](https://www.theguardian.com/world/2026/jan/19/ukraine-war-briefing-russian-attacks-kill-two-as-ukrainian-strikes-trigger-blackouts-in-occupied-south)
-- [Portugal presidential election: Socialist party’s Seguro to face far-right leader in runoff](https://www.theguardian.com/world/2026/jan/19/portugal-presidential-election-socialist-party-seguro)
-- [High-speed train crash in southern Spain leaves at least 21 dead](https://www.theguardian.com/world/2026/jan/18/high-speed-train-crash-in-adamuz-cordoba-southern-spain)
-- [Women ‘being failed by underfunded and understaffed’ UK postnatal care](https://www.theguardian.com/society/2026/jan/19/women-being-failed-by-underfunded-and-understaffed-uk-postnatal-care)
-- [Two short but spectacular HS2 tunnels offer glimmer of hope for stalling project](https://www.theguardian.com/business/2026/jan/19/hs2-tunnels-chilterns)
-- [Arsenal overtake Chelsea at the top of WSL-dominated football rich list](https://www.theguardian.com/football/2026/jan/19/arsenal-overtake-chelsea-top-wsl-dominated-football-rich-list)
+- [After four shark attacks in 48 hours, NSW authorities urge beachgoers ‘just go to a pool’](https://www.theguardian.com/australia-news/2026/jan/20/shark-attack-nsw-coast-fourth-incident-man-surfer)
+- [Ukraine war briefing: Zelenskyy says military innovation will ‘transform’ air defences](https://www.theguardian.com/world/2026/jan/20/ukraine-war-briefing-zelenskyy-says-military-innovation-will-transform-air-defences)
+- [Madison Keys gets Australian Open title defence off to jittery start](https://www.theguardian.com/sport/2026/jan/20/madison-keys-australian-open-title-defence-womens-tennis)
+- [‘Make America Go Away’: spoof Maga caps soar in popularity amid Greenland crisis](https://www.theguardian.com/world/2026/jan/20/greenland-trump-make-america-go-away-maga-caps)
+- [Intense geomagnetic storms could make auroras visible in southern US](https://www.theguardian.com/us-news/2026/jan/19/aurora-visibility-north-south)
+- [‘The struggle continues’: MLK Day celebrated amid tense political climate](https://www.theguardian.com/us-news/2026/jan/19/mlk-day-celebrations)
+- [Prostate cancer is most commonly diagnosed cancer across UK, study finds](https://www.theguardian.com/society/2026/jan/20/prostate-cancer-is-most-commonly-diagnosed-cancer-across-uk-study-finds)
+- [Don’t rely on BMI alone when diagnosing eating disorders in children, says NHS England](https://www.theguardian.com/society/2026/jan/20/nhs-england-guidance-bmi-eating-disorders-children)
+- [UK exposed to ‘serious harm’ by failure to tackle AI risks, MPs warn](https://www.theguardian.com/business/2026/jan/20/uk-ai-risks-mps-government-bank-of-england-fca)
+- [UK ministers scrap foreign students target in shift to overseas hubs strategy](https://www.theguardian.com/politics/2026/jan/20/uk-ministers-scrap-international-students-target-overseas-hubs)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

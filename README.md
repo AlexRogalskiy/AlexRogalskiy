@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ask HN: Year from today what will have been the worst behavior from AI corps?](https://news.ycombinator.com/item?id=46674813)
-- [Show HN: PixelRipple – AI ads agent for e-commerce](https://www.pixelripple.ai/)
-- [Poolsuite CLI – Ultra-summer internet radio from your terminal](https://github.com/jamespember/poolsuite-cli)
-- [WordWalker Spanish](https://wordwalker.ca/)
-- [Show HN: A 6.9B Moe LLM in Rust, Go, and Python](https://github.com/fumi-engineer/machine_learning)
-- [The Stirling Engine: A Wave of the Future Ago [video]](https://www.youtube.com/watch?v=KbnGlcQiL1c)
-- [Show HN: AI Tryon Product to Video Generator](https://aitryon.art/ai-product-to-video/)
-- [Watch Cursor build a 3M+ line browser in a week](https://twitter.com/mntruell/status/2012825801381580880)
-- [The Convolutional Neural Network](https://cocakoala.substack.com/p/the-convolutional-neural-network)
-- [Writing Your First Compiler](https://popovicu.com/posts/writing-your-first-compiler/)
+- [The Good Hallucinations](https://chris-hartwig.com/blog/you-want-hallucinated-code/)
+- [Good listeners connect more easily with strangers, study finds](https://phys.org/news/2025-12-good-easily-strangers.html)
+- [Flying with Photons: Rendering Novel Views of Propagating Light](https://anaghmalik.com/FlyingWithPhotons/)
+- [The Paper 2](https://zenodo.org/records/18304357)
+- [F-16 Falcon Strike, modern combat flight SIM for Atari XL/XE](https://webchrono.pl/F16FalconStrike/index.html)
+- [Keeping 20k GPUs Healthy](https://modal.com/blog/gpu-health)
+- [Show HN: Circe – Deterministic, offline-verifiable receipts for AI agent actions](https://github.com/wv26296-ux/circe-receipts)
+- [CoreSpeed: Agent Runtime Infrastructure](https://corespeed.io)
+- [Open Reimplementation of Google Widevine Content Decryption Module for Browsers](https://github.com/tchebb/openwv)
+- [Idiomatic Rust – A peer-reviewed collection of Rust articles/talks/repos](https://github.com/rust-lang-nursery/rust-cookbook)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

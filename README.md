@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The Code-Only Agent](https://rijnard.com/blog/the-code-only-agent)
-- [At least 21 killed in Spain after crash involving high-speed trains](https://www.bbc.com/news/articles/cedw6ylpynyo)
-- [Prediction: Microsoft will eventually ship a Windows-themed Linux distro](https://gamesbymason.com/blog/2026/microsoft/)
-- [Show HN: Beats, a web-based drum machine](https://beats.lasagna.pizza)
-- [Police Invested Millions in Shadowy Phone-Tracking Software Won&#39;t Say How Used](https://www.texasobserver.org/texas-police-invest-tangles-sheriff-surveillance/)
-- [Stirling Cycle Machine Analysis](https://ohioopen.library.ohio.edu/opentextbooks/9/)
-- [Show HN: Dock – Slack minus the bloat, tax, and 90-day memory loss](https://getdock.io/)
-- [Dead Internet Theory](https://kudmitry.com/articles/dead-internet-theory/)
-- [Prediction markets are ushering in a world in which news becomes about gambling](https://www.msn.com/en-us/money/markets/america-is-slow-walking-into-a-polymarket-disaster/ar-AA1Upfdb)
-- [Flux 2 Klein pure C inference](https://github.com/antirez/flux2.c)
+- [Go 1.26 Interactive Tour](https://antonz.org/go-1-26/)
+- [Legal Structures for Latin American Startups &lpar;2021&rpar;](https://latamlist.com/legal-structures-for-latin-american-startups/)
+- [Nova Launcher Added Facebook and Google Ads Tracking](https://lemdro.id/post/lemdro.id/35049920)
+- [Porsche Sold More Electrified Cars in Europe in 2025 Than Pure Gas-Powered Cars](https://newsroom.porsche.com/en/2026/company/porsche-deliveries-2025-41516.html)
+- [Scaling long-running autonomous coding](https://simonwillison.net/2026/Jan/19/scaling-long-running-autonomous-coding/)
+- [Reticulum, a secure and anonymous mesh networking stack](https://github.com/markqvist/Reticulum)
+- [Nanolang: A tiny experimental language designed to be targeted by coding LLMs](https://github.com/jordanhubbard/nanolang)
+- [Use Social Media Mindfully](https://danielleheberling.xyz/blog/mindful-social-media/)
+- [The assistant axis: situating and stabilizing the character of LLMs](https://www.anthropic.com/research/assistant-axis)
+- [Simple Sabotage Field Manual &lpar;1944&rpar; [pdf]](https://www.cia.gov/static/5c875f3ec660e092cf893f60b4a288df/SimpleSabotage.pdf)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

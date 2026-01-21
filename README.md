@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [After four shark attacks in 48 hours, NSW authorities urge beachgoers ‘just go to a pool’](https://www.theguardian.com/australia-news/2026/jan/20/shark-attack-nsw-coast-fourth-incident-man-surfer)
-- [Ukraine war briefing: Zelenskyy says military innovation will ‘transform’ air defences](https://www.theguardian.com/world/2026/jan/20/ukraine-war-briefing-zelenskyy-says-military-innovation-will-transform-air-defences)
-- [Madison Keys gets Australian Open title defence off to jittery start](https://www.theguardian.com/sport/2026/jan/20/madison-keys-australian-open-title-defence-womens-tennis)
-- [‘Make America Go Away’: spoof Maga caps soar in popularity amid Greenland crisis](https://www.theguardian.com/world/2026/jan/20/greenland-trump-make-america-go-away-maga-caps)
-- [Intense geomagnetic storms could make auroras visible in southern US](https://www.theguardian.com/us-news/2026/jan/19/aurora-visibility-north-south)
-- [‘The struggle continues’: MLK Day celebrated amid tense political climate](https://www.theguardian.com/us-news/2026/jan/19/mlk-day-celebrations)
-- [Prostate cancer is most commonly diagnosed cancer across UK, study finds](https://www.theguardian.com/society/2026/jan/20/prostate-cancer-is-most-commonly-diagnosed-cancer-across-uk-study-finds)
-- [Don’t rely on BMI alone when diagnosing eating disorders in children, says NHS England](https://www.theguardian.com/society/2026/jan/20/nhs-england-guidance-bmi-eating-disorders-children)
-- [UK exposed to ‘serious harm’ by failure to tackle AI risks, MPs warn](https://www.theguardian.com/business/2026/jan/20/uk-ai-risks-mps-government-bank-of-england-fca)
-- [UK ministers scrap foreign students target in shift to overseas hubs strategy](https://www.theguardian.com/politics/2026/jan/20/uk-ministers-scrap-international-students-target-overseas-hubs)
+- [Australian Open 2026: Alcaraz in action after Sabalenka eases through – live](https://www.theguardian.com/sport/live/2026/jan/21/aryna-sabalenka-carlos-alcaraz-australian-open-tennis-second-round-live)
+- [New Zealand prime minister sets date for 2026 election](https://www.theguardian.com/world/2026/jan/21/new-zealand-prime-minister-sets-date-for-2026-election)
+- [Ukraine war briefing: Kyiv to replace Chinese-made Mavic drones](https://www.theguardian.com/world/2026/jan/21/ukraine-war-briefing-kyiv-to-replace-chinese-made-mavic-drones)
+- [China sees an opportunity in Greenland, but not in the way that Trump thinks](https://www.theguardian.com/world/2026/jan/21/china-strategic-opportunity-greenland-us-donald-trump)
+- [Judge orders release of actor Timothy Busfield pending child sex abuse case](https://www.theguardian.com/us-news/2026/jan/20/timothy-busfield-child-sex-abuse-case)
+- [Nearly 400 millionaires and billionaires call for higher taxes on super-rich](https://www.theguardian.com/business/2026/jan/21/millionaires-billionaires-taxes-super-rich-mark-ruffalo-wef-davos)
+- [Judi Dench backs campaign to protect London’s green spaces from developers](https://www.theguardian.com/environment/2026/jan/21/judi-dench-backs-campaign-protect-london-green-spaces-from-developers)
+- [UK grassroots music venues show lowest decline since 2018 as sector stabilises post-pandemic](https://www.theguardian.com/music/2026/jan/21/uk-grassroots-music-venues-show-lowest-decline-since-2018-as-sector-stabilises-post-pandemic)
+- [‘Crunch time’ on rising costs of Send provision in England, says thinktank](https://www.theguardian.com/education/2026/jan/21/crunch-time-send-special-needs-education-england-ifs)
+- [Trump has growing stranglehold over EU and UK energy supply, study shows](https://www.theguardian.com/world/2026/jan/21/trump-us-stranglehold-eu-uk-energy-supply-lng)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

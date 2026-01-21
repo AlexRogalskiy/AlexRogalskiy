@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Good Hallucinations](https://chris-hartwig.com/blog/you-want-hallucinated-code/)
-- [Good listeners connect more easily with strangers, study finds](https://phys.org/news/2025-12-good-easily-strangers.html)
-- [Flying with Photons: Rendering Novel Views of Propagating Light](https://anaghmalik.com/FlyingWithPhotons/)
-- [The Paper 2](https://zenodo.org/records/18304357)
-- [F-16 Falcon Strike, modern combat flight SIM for Atari XL/XE](https://webchrono.pl/F16FalconStrike/index.html)
-- [Keeping 20k GPUs Healthy](https://modal.com/blog/gpu-health)
-- [Show HN: Circe – Deterministic, offline-verifiable receipts for AI agent actions](https://github.com/wv26296-ux/circe-receipts)
-- [CoreSpeed: Agent Runtime Infrastructure](https://corespeed.io)
-- [Open Reimplementation of Google Widevine Content Decryption Module for Browsers](https://github.com/tchebb/openwv)
-- [Idiomatic Rust – A peer-reviewed collection of Rust articles/talks/repos](https://github.com/rust-lang-nursery/rust-cookbook)
+- [DOGE employees may have improperly accessed social security data, DOJ says](https://www.axios.com/2026/01/20/doge-employees-social-security-information-court-filing)
+- [ChatGPT recommended a scam and I spent $300](https://old.reddit.com/r/soylent/comments/1qii7d5/soylent_aus_is_this_a_scam_i_just_spent_so_much/)
+- [CT Scans of 18650 Lithium-Ion Batteries [video]](https://www.youtube.com/watch?v=-Y23nfAOiXQ)
+- [Show HN: Ballparkguess.com](https://ballparkguess.com/)
+- [Instagram Solved Its Justin Bieber Problem &lpar;2015&rpar;](https://www.wired.com/2015/11/how-instagram-solved-its-justin-bieber-problem/)
+- [Show HN: A Simple MCP Server That Lets Agents Talk to Users](https://github.com/fellowgeek/mcp-speak/)
+- [Elon Musk floats idea of buying Ryanair after calling CEO &#39;an idiot&#39;](https://www.theguardian.com/technology/2026/jan/20/elon-musk-buying-ryanair-ceo-tesla-michael-oleary-starlink)
+- [I rejected &quot;Scalability&quot; to build a logistics nightmare &lpar;works&rpar;](https://www.indiehackers.com/post/why-i-rejected-scalability-to-build-a-logistics-nightmare-that-actually-works-b89e2478a4)
+- [I Burned $160k Trying to Solve &quot;Online Tailoring&quot;](https://www.indiehackers.com/post/how-i-burned-160-000-trying-to-solve-online-tailoring-the-engineering-reality-check-fbd7e0ccdd)
+- [Sam Altman&#39;s reply to Elon Musk&#39;s tweet telling people not to use ChatGPT](https://twitter.com/sama/status/2013703158459978076)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

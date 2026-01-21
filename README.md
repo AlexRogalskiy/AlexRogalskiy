@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Go 1.26 Interactive Tour](https://antonz.org/go-1-26/)
-- [Legal Structures for Latin American Startups &lpar;2021&rpar;](https://latamlist.com/legal-structures-for-latin-american-startups/)
-- [Nova Launcher Added Facebook and Google Ads Tracking](https://lemdro.id/post/lemdro.id/35049920)
-- [Porsche Sold More Electrified Cars in Europe in 2025 Than Pure Gas-Powered Cars](https://newsroom.porsche.com/en/2026/company/porsche-deliveries-2025-41516.html)
-- [Scaling long-running autonomous coding](https://simonwillison.net/2026/Jan/19/scaling-long-running-autonomous-coding/)
-- [Reticulum, a secure and anonymous mesh networking stack](https://github.com/markqvist/Reticulum)
-- [Nanolang: A tiny experimental language designed to be targeted by coding LLMs](https://github.com/jordanhubbard/nanolang)
-- [Use Social Media Mindfully](https://danielleheberling.xyz/blog/mindful-social-media/)
-- [The assistant axis: situating and stabilizing the character of LLMs](https://www.anthropic.com/research/assistant-axis)
-- [Simple Sabotage Field Manual &lpar;1944&rpar; [pdf]](https://www.cia.gov/static/5c875f3ec660e092cf893f60b4a288df/SimpleSabotage.pdf)
+- [Carney says old world order &#39;is not coming back&#39;](https://www.bbc.com/news/articles/cly3d28p4p8o)
+- [Verizon starts requiring 365 days of paid service before it will unlock phones](https://arstechnica.com/tech-policy/2026/01/verizon-starts-requiring-365-days-of-paid-service-before-it-will-unlock-phones/)
+- [Who owns Rudolph&#39;s nose?](https://creativelawcenter.com/copyright-rudolph-reindeer/)
+- [Show HN: macOS native DAW with Git branching model](https://www.scratchtrackaudio.com)
+- [Claude Chill: Fix Claude Code&#39;s flickering in terminal](https://github.com/davidbeesley/claude-chill)
+- [Show HN: Parallel Agentic Search on the Twitter Algorithm](https://www.morphllm.com/playground/na/warpgrep?repo=xai-org%2Fx-algorithm)
+- [California is free of drought for the first time in 25 years](https://www.latimes.com/california/story/2026-01-09/california-has-no-areas-of-dryness-first-time-in-25-years)
+- [Lunar Radio Telescope to Unlock Cosmic Mysteries](https://spectrum.ieee.org/lunar-radio-telescope)
+- [Provably unmasking malicious behavior through execution traces](https://arxiv.org/abs/2512.13821)
+- [Which AI Lies Best? A game theory classic designed by John Nash](https://so-long-sucker.vercel.app/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

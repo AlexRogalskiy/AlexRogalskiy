@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Australian Open 2026: Alcaraz in action after Sabalenka eases through – live](https://www.theguardian.com/sport/live/2026/jan/21/aryna-sabalenka-carlos-alcaraz-australian-open-tennis-second-round-live)
-- [New Zealand prime minister sets date for 2026 election](https://www.theguardian.com/world/2026/jan/21/new-zealand-prime-minister-sets-date-for-2026-election)
-- [Ukraine war briefing: Kyiv to replace Chinese-made Mavic drones](https://www.theguardian.com/world/2026/jan/21/ukraine-war-briefing-kyiv-to-replace-chinese-made-mavic-drones)
-- [China sees an opportunity in Greenland, but not in the way that Trump thinks](https://www.theguardian.com/world/2026/jan/21/china-strategic-opportunity-greenland-us-donald-trump)
-- [Judge orders release of actor Timothy Busfield pending child sex abuse case](https://www.theguardian.com/us-news/2026/jan/20/timothy-busfield-child-sex-abuse-case)
-- [Nearly 400 millionaires and billionaires call for higher taxes on super-rich](https://www.theguardian.com/business/2026/jan/21/millionaires-billionaires-taxes-super-rich-mark-ruffalo-wef-davos)
-- [Judi Dench backs campaign to protect London’s green spaces from developers](https://www.theguardian.com/environment/2026/jan/21/judi-dench-backs-campaign-protect-london-green-spaces-from-developers)
-- [UK grassroots music venues show lowest decline since 2018 as sector stabilises post-pandemic](https://www.theguardian.com/music/2026/jan/21/uk-grassroots-music-venues-show-lowest-decline-since-2018-as-sector-stabilises-post-pandemic)
-- [‘Crunch time’ on rising costs of Send provision in England, says thinktank](https://www.theguardian.com/education/2026/jan/21/crunch-time-send-special-needs-education-england-ifs)
-- [Trump has growing stranglehold over EU and UK energy supply, study shows](https://www.theguardian.com/world/2026/jan/21/trump-us-stranglehold-eu-uk-energy-supply-lng)
+- [Australian Open 2026: Francesco Maestrelli v Novak Djokovic – live](https://www.theguardian.com/sport/live/2026/jan/22/australian-open-tennis-2026-novak-djokovic-francesco-maestrelli-second-round-live)
+- [Trump declaration of Greenland framework deal met with scepticism as doubts persist](https://www.theguardian.com/world/2026/jan/22/trump-greenland-framework-future-deal-reactions)
+- [Ukraine war briefing: Zelenskyy expected in Davos after all to meet Trump](https://www.theguardian.com/world/2026/jan/22/ukraine-war-briefing-zelenskyy-expected-in-davos-after-all-to-meet-trump)
+- [New Zealand storms: people missing after landslide hits campsite as minister compares east coast to ‘war zone’](https://www.theguardian.com/world/2026/jan/22/new-zealand-storms-people-missing-after-mount-maunganui-campsite-landslide-as-minister-compares-east-coast-to-war-zone)
+- [Our Town review: Michael Sheen brings warmth and wit to a Welsh-set Our Town](https://www.theguardian.com/stage/2026/jan/22/our-town-review-michael-sheen-moves-american-classic-about-small-town-life-to-wales)
+- [Judge-only trials in England and Wales will not wipe out crown court backlog, report says](https://www.theguardian.com/law/2026/jan/22/judge-only-trials-england-wales-crown-court-backlog-report)
+- [Liverpool rise up football rich list but Premier League shut out of top four](https://www.theguardian.com/football/2026/jan/22/liverpool-football-rich-list-premier-league-real-madrid-barcelona-bayern-munich-psg)
+- [Four in five blind people struggle with gap at UK train stations, survey finds](https://www.theguardian.com/society/2026/jan/22/blind-partially-sighted-rail-travel-anxiety-survey)
+- [After the Bondi terror attack people keep calling me a hero. But I am not a hero. I’m a mum who was at a Hanukah event | Jessica Rozen](https://www.theguardian.com/commentisfree/2026/jan/22/bondi-terror-attack-people-calling-me-hero)
+- [Hong Kong national security trial of three pro-democracy activists to open](https://www.theguardian.com/world/2026/jan/22/hong-kong-national-security-trial-pro-democracy-activists-chow-hang-tung-lee-cheuk-yan-albert-ho)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

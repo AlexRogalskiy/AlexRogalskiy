@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Carney says old world order &#39;is not coming back&#39;](https://www.bbc.com/news/articles/cly3d28p4p8o)
-- [Verizon starts requiring 365 days of paid service before it will unlock phones](https://arstechnica.com/tech-policy/2026/01/verizon-starts-requiring-365-days-of-paid-service-before-it-will-unlock-phones/)
-- [Who owns Rudolph&#39;s nose?](https://creativelawcenter.com/copyright-rudolph-reindeer/)
-- [Show HN: macOS native DAW with Git branching model](https://www.scratchtrackaudio.com)
-- [Claude Chill: Fix Claude Code&#39;s flickering in terminal](https://github.com/davidbeesley/claude-chill)
-- [Show HN: Parallel Agentic Search on the Twitter Algorithm](https://www.morphllm.com/playground/na/warpgrep?repo=xai-org%2Fx-algorithm)
-- [California is free of drought for the first time in 25 years](https://www.latimes.com/california/story/2026-01-09/california-has-no-areas-of-dryness-first-time-in-25-years)
-- [Lunar Radio Telescope to Unlock Cosmic Mysteries](https://spectrum.ieee.org/lunar-radio-telescope)
-- [Provably unmasking malicious behavior through execution traces](https://arxiv.org/abs/2512.13821)
-- [Which AI Lies Best? A game theory classic designed by John Nash](https://so-long-sucker.vercel.app/)
+- [Significant US farm losses persist, despite federal assistance](https://www.fb.org/market-intel/significant-farm-losses-persist-despite-federal-assistance)
+- [Internet voting is insecure and should not be used in public elections](https://blog.citp.princeton.edu/2026/01/16/internet-voting-is-insecure-and-should-not-be-used-in-public-elections/)
+- [I&#39;ll pass on your zoom call](https://operand.online/chronicle/pass.zoom)
+- [Threat actors expand abuse of Microsoft Visual Studio Code](https://www.jamf.com/blog/threat-actors-expand-abuse-of-visual-studio-code/)
+- [Convert potentially dangerous PDFs to safe PDFs](https://github.com/freedomofpress/dangerzone)
+- [Mote: An Interactive Ecosystem Simulation [video]](https://www.youtube.com/watch?v=Hju0H3NHxVI)
+- [Jerry &lpar;YC S17&rpar; Is Hiring](https://www.ycombinator.com/companies/jerry-inc/jobs/QaoK3rw-software-engineer-core-automation-marketplace)
+- [Show HN: TerabyteDeals – Compare storage prices by $/TB](https://terabytedeals.com)
+- [Setting Up a Cluster of Tiny PCs for Parallel Computing](https://www.kenkoonwong.com/blog/parallel-computing/)
+- [Show HN: Rails UI](https://railsui.com/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

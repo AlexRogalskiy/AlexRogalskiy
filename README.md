@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [DOGE employees may have improperly accessed social security data, DOJ says](https://www.axios.com/2026/01/20/doge-employees-social-security-information-court-filing)
-- [ChatGPT recommended a scam and I spent $300](https://old.reddit.com/r/soylent/comments/1qii7d5/soylent_aus_is_this_a_scam_i_just_spent_so_much/)
-- [CT Scans of 18650 Lithium-Ion Batteries [video]](https://www.youtube.com/watch?v=-Y23nfAOiXQ)
-- [Show HN: Ballparkguess.com](https://ballparkguess.com/)
-- [Instagram Solved Its Justin Bieber Problem &lpar;2015&rpar;](https://www.wired.com/2015/11/how-instagram-solved-its-justin-bieber-problem/)
-- [Show HN: A Simple MCP Server That Lets Agents Talk to Users](https://github.com/fellowgeek/mcp-speak/)
-- [Elon Musk floats idea of buying Ryanair after calling CEO &#39;an idiot&#39;](https://www.theguardian.com/technology/2026/jan/20/elon-musk-buying-ryanair-ceo-tesla-michael-oleary-starlink)
-- [I rejected &quot;Scalability&quot; to build a logistics nightmare &lpar;works&rpar;](https://www.indiehackers.com/post/why-i-rejected-scalability-to-build-a-logistics-nightmare-that-actually-works-b89e2478a4)
-- [I Burned $160k Trying to Solve &quot;Online Tailoring&quot;](https://www.indiehackers.com/post/how-i-burned-160-000-trying-to-solve-online-tailoring-the-engineering-reality-check-fbd7e0ccdd)
-- [Sam Altman&#39;s reply to Elon Musk&#39;s tweet telling people not to use ChatGPT](https://twitter.com/sama/status/2013703158459978076)
+- [SlimEdge: Lightweight Distributed DNN Deployment on Constrained Hardware](https://arxiv.org/abs/2512.22136)
+- [High speed graphics rendering research with tinygrad/tinyJIT](https://github.com/quantbagel/gtinygrad)
+- [Show HN: Laptop Stickers – cheap individual short run stickers](https://laptopstickers.store/)
+- [Libcurl Memory Use Some Years Later](https://daniel.haxx.se/blog/2026/01/21/libcurl-memory-use-some-years-later/)
+- [Waymo founder John Krafcik: Tesla&#39;s Full Self-Driving has &#39;bad case of myopia&#39;](https://electrek.co/2026/01/20/waymo-founder-john-krafcik-teslas-full-self-driving-myopia/)
+- [Infinite Jest](https://infinijest.com)
+- [Show HN: I built an AI that calls you and practices spoken English with you](https://englishcall.online/)
+- [Why Big Tech Performance Reviews Aren&#39;t Meritocratic](https://medium.com/data-science-collective/big-tech-performance-review-01fff2c5924d)
+- [Time Until Someone Points Out This Is Not a Real Study](https://journal-preliminary-results.fly.dev/38472951)
+- [Agree or Disagree](https://a-or-d.lovable.app)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

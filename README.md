@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [SlimEdge: Lightweight Distributed DNN Deployment on Constrained Hardware](https://arxiv.org/abs/2512.22136)
-- [High speed graphics rendering research with tinygrad/tinyJIT](https://github.com/quantbagel/gtinygrad)
-- [Show HN: Laptop Stickers – cheap individual short run stickers](https://laptopstickers.store/)
-- [Libcurl Memory Use Some Years Later](https://daniel.haxx.se/blog/2026/01/21/libcurl-memory-use-some-years-later/)
-- [Waymo founder John Krafcik: Tesla&#39;s Full Self-Driving has &#39;bad case of myopia&#39;](https://electrek.co/2026/01/20/waymo-founder-john-krafcik-teslas-full-self-driving-myopia/)
-- [Infinite Jest](https://infinijest.com)
-- [Show HN: I built an AI that calls you and practices spoken English with you](https://englishcall.online/)
-- [Why Big Tech Performance Reviews Aren&#39;t Meritocratic](https://medium.com/data-science-collective/big-tech-performance-review-01fff2c5924d)
-- [Time Until Someone Points Out This Is Not a Real Study](https://journal-preliminary-results.fly.dev/38472951)
-- [Agree or Disagree](https://a-or-d.lovable.app)
+- [Show HN: Glean – RSS reader with AI-powered smart sorting and MCP integration](https://github.com/LeslieLeung/glean)
+- [Intel puts consumer chip production on back burner](https://www.theregister.com/2026/01/23/intel_earnings_q4_2025/)
+- [I Overengineered a Spinning Top](https://www.youtube.com/watch?v=Wp5NodfvvF4)
+- [Man, these New York Times games are hard A computational perspective](https://arxiv.org/abs/2509.10846)
+- [ChatGPT Self Portrait](https://thezvi.substack.com/p/chatgpt-self-portrait)
+- [Introducing: Postgres Best Practices](https://supabase.com/blog/postgres-best-practices-for-ai-agents)
+- [TikTok USDS Joint Venture LLC Established Under U.S. Regulatory Requirements](https://newsroom.tiktok.com/announcement-from-the-new-tiktok-usds-joint-venture-llc?lang=en)
+- [Thomas Edison: The Unintentional Founder of Hollywood](https://www.saturdayeveningpost.com/2021/03/thomas-edison-the-unintentional-founder-of-hollywood/)
+- [Underground Resistance Aims to Sabotage AI with Poisoned Data](https://www.forbes.com/sites/craigsmith/2026/01/21/poison-fountain-and-the-rise-of-an-underground-resistance-to-ai/)
+- [The Cscript Style Guide – CScript is the standard C](https://github.com/domenukk/CScript)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Bugs Apple Loves](https://www.bugsappleloves.com)
-- [Stunnel](https://www.stunnel.org/)
-- [Why medieval city-builder video games are historically inaccurate &lpar;2020&rpar;](https://www.leidenmedievalistsblog.nl/articles/why-medieval-city-builder-video-games-are-historically-inaccurate)
-- [Improving the usability of C libraries in Swift](https://www.swift.org/blog/improving-usability-of-c-libraries-in-swift/)
-- [Anthropic Economic Index economic primitives](https://www.anthropic.com/research/anthropic-economic-index-january-2026-report)
-- [Extracting a UART Password via SPI Flash Instruction Tracing](https://zuernerd.github.io/blog/2026/01/07/switch-password.html)
-- [Scaling PostgreSQL to power 800M ChatGPT users](https://openai.com/index/scaling-postgresql/)
-- [Capital One to acquire Brex for $5.15B](https://www.reuters.com/legal/transactional/capital-one-buy-fintech-firm-brex-515-billion-deal-2026-01-22/)
-- [Why does SSH send 100 packets per keystroke?](https://eieio.games/blog/ssh-sends-100-packets-per-keystroke/)
-- [&#39;Active&#39; sitting is better for brain health: review of studies](https://www.sciencealert.com/not-all-sitting-is-equal-one-type-was-just-linked-to-better-brain-health)
+- [Caroline Ellison Former Alameda CEO Released from Prison After 440 Days](https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26450)
+- [Everybody&#39;s at each other&#39;s throats&#39;: James Cameron left the US permanently](https://www.theguardian.com/film/2026/jan/23/james-cameron-left-the-us-permanently-covid-new-zealand)
+- [Open-source self-driving for 325 car models from 27 brands](https://comma.ai)
+- [Noora Health &lpar;YC W14&rpar; Is Hiring AI/ML Engineer](https://www.ycombinator.com/companies/noora-health/jobs/2B4RxLG-ai-ml-engineer)
+- [Wilson Lin on FastRender: a browser built by parallel agents](https://simonwillison.net/2026/Jan/23/fastrender/)
+- [Mental Models &lpar;2018&rpar;](https://fs.blog/mental-models/)
+- [Unrolling the Codex agent loop](https://openai.com/index/unrolling-the-codex-agent-loop/)
+- [Banned C++ features in Chromium](https://chromium.googlesource.com/chromium/src/+/main/styleguide/c++/c++-features.md)
+- [Certificate Transparency Log Explorer](https://certs.swerdlow.dev)
+- [New YC homepage](https://www.ycombinator.com/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

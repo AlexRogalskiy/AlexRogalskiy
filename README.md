@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: Glean – RSS reader with AI-powered smart sorting and MCP integration](https://github.com/LeslieLeung/glean)
-- [Intel puts consumer chip production on back burner](https://www.theregister.com/2026/01/23/intel_earnings_q4_2025/)
-- [I Overengineered a Spinning Top](https://www.youtube.com/watch?v=Wp5NodfvvF4)
-- [Man, these New York Times games are hard A computational perspective](https://arxiv.org/abs/2509.10846)
-- [ChatGPT Self Portrait](https://thezvi.substack.com/p/chatgpt-self-portrait)
-- [Introducing: Postgres Best Practices](https://supabase.com/blog/postgres-best-practices-for-ai-agents)
-- [TikTok USDS Joint Venture LLC Established Under U.S. Regulatory Requirements](https://newsroom.tiktok.com/announcement-from-the-new-tiktok-usds-joint-venture-llc?lang=en)
-- [Thomas Edison: The Unintentional Founder of Hollywood](https://www.saturdayeveningpost.com/2021/03/thomas-edison-the-unintentional-founder-of-hollywood/)
-- [Underground Resistance Aims to Sabotage AI with Poisoned Data](https://www.forbes.com/sites/craigsmith/2026/01/21/poison-fountain-and-the-rise-of-an-underground-resistance-to-ai/)
-- [The Cscript Style Guide – CScript is the standard C](https://github.com/domenukk/CScript)
+- [NASA about to send people to the moon – in a spacecraft not everyone thinks safe](https://www.cnn.com/2026/01/23/science/artemis-2-orion-capsule-heat-shield)
+- [Have We Been Wrong About Language for 70 Years? New Study Challenges Theory](https://scitechdaily.com/have-we-been-wrong-about-language-for-70-years-new-study-challenges-long-held-theory/)
+- [Health insurance execs shift blame for costly, confusing health care system](https://www.statnews.com/2026/01/22/health-insurance-execs-blame-high-costs-hospitals-doctors-pharma/)
+- [Get Shit Done](https://github.com/glittercowboy/get-shit-done)
+- [Fuggerei](https://www.fugger.de/en/fuggerei)
+- [Ask HN: How are you enforcing permissions for AI agent tool calls in production?](https://news.ycombinator.com/item?id=46740645)
+- [Caroline Ellison Former Alameda CEO Released from Prison After 440 Days](https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26450)
+- [The Epic Survey of Mason and Dixon](https://www.nspe.org/career-growth/pe-magazine/march-2014/the-epic-survey-mason-dixon)
+- [Everybody&#39;s at each other&#39;s throats&#39;: James Cameron left the US permanently](https://www.theguardian.com/film/2026/jan/23/james-cameron-left-the-us-permanently-covid-new-zealand)
+- [Agency Recruiters can sell retained searches](https://talnet.co/posts/how-agency-recruiters-can-sell-retained-searches-20260242311174)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

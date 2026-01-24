@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Australian Open 2026: Sabalenka wins tense match; Medvedev, Alcaraz and Gauff in action – live](https://www.theguardian.com/sport/live/2026/jan/23/australian-open-2026-melbourne-day-6-sabalenka-alcaraz-moutet-gauff-baptiste-live)
-- [Ukraine war briefing: Russians must compromise, Zelenskyy says as envoys race to Abu Dhabi](https://www.theguardian.com/world/2026/jan/23/ukraine-war-briefing-zelenskyy-russia-must-compromise)
-- [TikTok announces it has finalized deal to establish US entity, sidestepping ban](https://www.theguardian.com/us-news/2026/jan/22/tiktok-us-venture-oracle)
-- [Two dead and six missing after landslides hit house and campground in New Zealand](https://www.theguardian.com/world/2026/jan/23/two-confirmed-dead-and-more-presumed-buried-after-landslides-hit-house-and-campground-in-new-zealand)
-- [MPs ask Serious Fraud Office to investigate UK home insulation sector](https://www.theguardian.com/environment/2026/jan/23/mps-ask-sfo-investigate-uk-home-insulation-sector)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2026/jan/23/premier-league-10-things-to-look-out-for-this-weekend)
-- [Six injured after knife attack at Kurdish demonstration in Antwerp](https://www.theguardian.com/world/2026/jan/22/six-injured-after-knife-attack-at-kurdish-demonstration-in-antwerp-belgium)
-- [JP Morgan chief Jamie Dimon took home $43m pay last year](https://www.theguardian.com/business/2026/jan/22/jp-morgan-jamie-dimon-pay)
-- [Rural and coastal areas of England to get more cancer doctors](https://www.theguardian.com/society/2026/jan/22/nhs-cancer-doctors-health-inequality-england)
-- [White House posts digitally altered image of woman arrested after ICE protest](https://www.theguardian.com/us-news/2026/jan/22/white-house-ice-protest-arrest-altered-image)
+- [Australian Open 2026: Sinner trails Spizzirri, Keys and Pegula ease through – live](https://www.theguardian.com/sport/live/2026/jan/24/australian-open-tennis-2026-jannik-sinner-madison-keys-live)
+- [Extra Geography review – a sweet and spiky coming-of-age debut](https://www.theguardian.com/film/2026/jan/24/extra-geography-movie-review-debut)
+- [New Zealand landslide: rescue efforts called off for six people buried in disaster](https://www.theguardian.com/world/2026/jan/24/new-zealand-landslide-rescue-efforts-called-off-for-at-least-six-people-buried-in-disaster)
+- [Ukraine war briefing: Russia launches strikes on Kyiv and Kharkhiv during Abu Dhabi talks](https://www.theguardian.com/world/2026/jan/24/ukraine-war-briefing-russia-launches-strikes-on-kyiv-and-kharkhiv-during-abu-dhabi-talks)
+- [US immigration agents detain two-year-old Minnesota girl: ‘depravity beyond words’](https://www.theguardian.com/us-news/2026/jan/23/us-immigration-two-year-old-minnesota-girl)
+- [‘Use extreme caution’: manhunt widens for alleged triple murderer presumed armed in remote NSW](https://www.theguardian.com/australia-news/2026/jan/24/lake-cargelligo-julian-ingram-search-widens-nsw-police-ntwnfb)
+- [Black and white and sent back over: end of panda diplomacy as Japan returns bears to China](https://www.theguardian.com/world/2026/jan/24/black-and-white-and-sent-back-over-end-of-panda-diplomacy-as-japan-returns-bears-to-china)
+- [US military says it struck vessel in eastern Pacific, killing two people](https://www.theguardian.com/us-news/2026/jan/23/us-military-strike-vessel-eastern-pacific)
+- [Monster winter storm threatens half of US with at least 16 states declaring emergencies](https://www.theguardian.com/us-news/2026/jan/23/winter-storm-emergency-declarations)
+- [Colorado investigators confirm Hunter S Thompson’s 2005 death was a suicide](https://www.theguardian.com/books/2026/jan/23/hunter-thompson-journalist-suicide-investigation)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

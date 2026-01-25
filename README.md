@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [NASA about to send people to the moon – in a spacecraft not everyone thinks safe](https://www.cnn.com/2026/01/23/science/artemis-2-orion-capsule-heat-shield)
-- [Have We Been Wrong About Language for 70 Years? New Study Challenges Theory](https://scitechdaily.com/have-we-been-wrong-about-language-for-70-years-new-study-challenges-long-held-theory/)
-- [Health insurance execs shift blame for costly, confusing health care system](https://www.statnews.com/2026/01/22/health-insurance-execs-blame-high-costs-hospitals-doctors-pharma/)
-- [Get Shit Done](https://github.com/glittercowboy/get-shit-done)
-- [Fuggerei](https://www.fugger.de/en/fuggerei)
-- [Ask HN: How are you enforcing permissions for AI agent tool calls in production?](https://news.ycombinator.com/item?id=46740645)
-- [Caroline Ellison Former Alameda CEO Released from Prison After 440 Days](https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26450)
-- [The Epic Survey of Mason and Dixon](https://www.nspe.org/career-growth/pe-magazine/march-2014/the-epic-survey-mason-dixon)
-- [Everybody&#39;s at each other&#39;s throats&#39;: James Cameron left the US permanently](https://www.theguardian.com/film/2026/jan/23/james-cameron-left-the-us-permanently-covid-new-zealand)
-- [Agency Recruiters can sell retained searches](https://talnet.co/posts/how-agency-recruiters-can-sell-retained-searches-20260242311174)
+- [The Responsibility of Intellectuals](https://www.nybooks.com/articles/1967/02/23/a-special-supplement-the-responsibility-of-intelle/)
+- [US SEC: India refused to serve summons to Adani Group under Hague Convention](https://economictimes.indiatimes.com/news/company/corporate-trends/us-regulator-seeks-to-bypass-indian-government-to-serve-gautam-adani-summons/articleshow/127144686.cms?from=mdr)
+- [Alex Honnold completes Taipei 101 skyscraper climb without ropes or safety net](https://www.cnn.com/sport/live-news/taiwan-alex-honnold-climb-taipei-101-01-25-26-intl-hnk)
+- [The Bay Area Has Lost Its Soul. No Wonder Everyone&#39;s Leaving [video]](https://www.youtube.com/watch?v=9_bsaF5TTEE)
+- [Prototyping NixOS with FDE, tang and Podman using Claude.AI](https://claude.ai/public/artifacts/e7cdb55a-3960-4dc9-bd1a-3c73a3145fb9)
+- [Show HN: VM-curator – a TUI alternative to libvirt and virt-manager](https://github.com/mroboff/vm-curator)
+- [nvidia-smi hangs indefinitely after ~66 days](https://github.com/NVIDIA/open-gpu-kernel-modules/issues/971)
+- [Kb_text_shape: Harfbuzz like single file C/C++ text shaping library](https://github.com/JimmyLefevre/kb)
+- [ADSL Works over Wet String](https://www.revk.uk/2017/12/its-official-adsl-works-over-wet-string.html)
+- [AI Adoption Rates by Country](https://www.visualcapitalist.com/ai-adoption-rates-by-country/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

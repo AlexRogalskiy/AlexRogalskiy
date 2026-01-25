@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Australian Open 2026: Sinner trails Spizzirri, Keys and Pegula ease through – live](https://www.theguardian.com/sport/live/2026/jan/24/australian-open-tennis-2026-jannik-sinner-madison-keys-live)
-- [Extra Geography review – a sweet and spiky coming-of-age debut](https://www.theguardian.com/film/2026/jan/24/extra-geography-movie-review-debut)
-- [New Zealand landslide: rescue efforts called off for six people buried in disaster](https://www.theguardian.com/world/2026/jan/24/new-zealand-landslide-rescue-efforts-called-off-for-at-least-six-people-buried-in-disaster)
-- [Ukraine war briefing: Russia launches strikes on Kyiv and Kharkhiv during Abu Dhabi talks](https://www.theguardian.com/world/2026/jan/24/ukraine-war-briefing-russia-launches-strikes-on-kyiv-and-kharkhiv-during-abu-dhabi-talks)
-- [US immigration agents detain two-year-old Minnesota girl: ‘depravity beyond words’](https://www.theguardian.com/us-news/2026/jan/23/us-immigration-two-year-old-minnesota-girl)
-- [‘Use extreme caution’: manhunt widens for alleged triple murderer presumed armed in remote NSW](https://www.theguardian.com/australia-news/2026/jan/24/lake-cargelligo-julian-ingram-search-widens-nsw-police-ntwnfb)
-- [Black and white and sent back over: end of panda diplomacy as Japan returns bears to China](https://www.theguardian.com/world/2026/jan/24/black-and-white-and-sent-back-over-end-of-panda-diplomacy-as-japan-returns-bears-to-china)
-- [US military says it struck vessel in eastern Pacific, killing two people](https://www.theguardian.com/us-news/2026/jan/23/us-military-strike-vessel-eastern-pacific)
-- [Monster winter storm threatens half of US with at least 16 states declaring emergencies](https://www.theguardian.com/us-news/2026/jan/23/winter-storm-emergency-declarations)
-- [Colorado investigators confirm Hunter S Thompson’s 2005 death was a suicide](https://www.theguardian.com/books/2026/jan/23/hunter-thompson-journalist-suicide-investigation)
+- [Australian Open 2026: Alcaraz takes on Paul in fourth round; Sabalenka defeats brave Mboko](https://www.theguardian.com/sport/live/2026/jan/25/australian-open-2026-sabalenka-alcaraz-in-action-live)
+- [Minneapolis shooting latest: Alex Pretti’s parents say ‘please get the truth out’ after son fatally shot by federal agents](https://www.theguardian.com/us-news/live/2026/jan/24/minneapolis-shooting-live)
+- [Ukraine war briefing: Kyiv and Moscow set to hold more face-to-face talks as US hails ‘big step’ forward](https://www.theguardian.com/world/2026/jan/25/ukraine-war-briefing-kyiv-and-moscow-set-to-hold-more-face-to-face-talks-as-us-hails-big-step-forward)
+- [Myanmar election enters final stage amid airstrikes and exclusions](https://www.theguardian.com/world/2026/jan/25/myanmar-election-enters-final-stage-amid-airstrikes-and-exclusions)
+- [Protesters supporting Palestine Action hunger striker arrested outside prison](https://www.theguardian.com/uk-news/2026/jan/24/protesters-supporting-palestine-action-hunger-striker-arrested-outside-prison)
+- [Snow, sleet and power outages: 140m Americans under warnings for major winter storm](https://www.theguardian.com/us-news/2026/jan/24/winter-storm-moves-across-us)
+- [Home Office to launch ‘British FBI’ to deal with serious crime UK-wide](https://www.theguardian.com/uk-news/2026/jan/24/home-office-to-launch-british-fbi-to-deal-with-serious-uk-wide)
+- [Arne Slot says Liverpool ‘ran out of energy’ in defeat at Bournemouth](https://www.theguardian.com/football/2026/jan/24/arne-slot-says-liverpool-ran-out-of-energy-in-defeat-at-bournemouth)
+- [Starmer allies urge him to block Andy Burnham from running in byelection](https://www.theguardian.com/politics/2026/jan/24/andy-burnham-applies-to-stand-for-labour-in-gorton-and-denton-byelection)
+- [Storm Ingrid washes away part of Teignmouth’s historic pier](https://www.theguardian.com/uk-news/2026/jan/24/storm-ingrid-washes-away-part-of-teignmouths-historic-pier)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

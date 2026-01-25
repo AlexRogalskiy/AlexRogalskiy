@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Caroline Ellison Former Alameda CEO Released from Prison After 440 Days](https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26450)
-- [Everybody&#39;s at each other&#39;s throats&#39;: James Cameron left the US permanently](https://www.theguardian.com/film/2026/jan/23/james-cameron-left-the-us-permanently-covid-new-zealand)
-- [Open-source self-driving for 325 car models from 27 brands](https://comma.ai)
-- [Noora Health &lpar;YC W14&rpar; Is Hiring AI/ML Engineer](https://www.ycombinator.com/companies/noora-health/jobs/2B4RxLG-ai-ml-engineer)
-- [Wilson Lin on FastRender: a browser built by parallel agents](https://simonwillison.net/2026/Jan/23/fastrender/)
-- [Mental Models &lpar;2018&rpar;](https://fs.blog/mental-models/)
-- [Unrolling the Codex agent loop](https://openai.com/index/unrolling-the-codex-agent-loop/)
-- [Banned C++ features in Chromium](https://chromium.googlesource.com/chromium/src/+/main/styleguide/c++/c++-features.md)
-- [Certificate Transparency Log Explorer](https://certs.swerdlow.dev)
-- [New YC homepage](https://www.ycombinator.com/)
+- [Alex Honnold completes Taipei 101 skyscraper climb without ropes or safety net](https://www.cnn.com/sport/live-news/taiwan-alex-honnold-climb-taipei-101-01-25-26-intl-hnk)
+- [Two Weeks Until Tapeout](https://essenceia.github.io/projects/two_weeks_until_tapeout/)
+- [Adoption of EVs tied to real-world reductions in air pollution: study](https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/)
+- [We X-Rayed a Suspicious FTDI USB Cable](https://eclypsium.com/blog/xray-counterfeit-usb-cable/)
+- [Poland&#39;s energy grid was targeted by never-before-seen wiper malware](https://arstechnica.com/security/2026/01/wiper-malware-targeted-poland-energy-grid-but-failed-to-knock-out-electricity/)
+- [First Design Engineer Hire – Build Games at Gym Class &lpar;YC W22&rpar;](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ywXHGBv-design-engineer-senior-staff-principal)
+- [I added a Bluesky comment section to my blog](https://micahcantor.com/blog/bluesky-comment-section.html)
+- [Postmortem: Our first VLEO satellite mission &lpar;with imagery and flight data&rpar;](https://albedo.com/post/clarity-1-what-worked-and-where-we-go-next)
+- [Show HN: StormWatch – Weather emergency dashboard with prep checklists](https://jeisey.github.io/stormwatch/)
+- [Agent orchestration for the timid](https://substack.com/inbox/post/185649875)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

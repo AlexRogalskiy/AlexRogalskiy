@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Australian Open 2026: Alcaraz takes on Paul in fourth round; Sabalenka defeats brave Mboko](https://www.theguardian.com/sport/live/2026/jan/25/australian-open-2026-sabalenka-alcaraz-in-action-live)
-- [Minneapolis shooting latest: Alex Pretti’s parents say ‘please get the truth out’ after son fatally shot by federal agents](https://www.theguardian.com/us-news/live/2026/jan/24/minneapolis-shooting-live)
-- [Ukraine war briefing: Kyiv and Moscow set to hold more face-to-face talks as US hails ‘big step’ forward](https://www.theguardian.com/world/2026/jan/25/ukraine-war-briefing-kyiv-and-moscow-set-to-hold-more-face-to-face-talks-as-us-hails-big-step-forward)
-- [Myanmar election enters final stage amid airstrikes and exclusions](https://www.theguardian.com/world/2026/jan/25/myanmar-election-enters-final-stage-amid-airstrikes-and-exclusions)
-- [Protesters supporting Palestine Action hunger striker arrested outside prison](https://www.theguardian.com/uk-news/2026/jan/24/protesters-supporting-palestine-action-hunger-striker-arrested-outside-prison)
-- [Snow, sleet and power outages: 140m Americans under warnings for major winter storm](https://www.theguardian.com/us-news/2026/jan/24/winter-storm-moves-across-us)
-- [Home Office to launch ‘British FBI’ to deal with serious crime UK-wide](https://www.theguardian.com/uk-news/2026/jan/24/home-office-to-launch-british-fbi-to-deal-with-serious-uk-wide)
-- [Arne Slot says Liverpool ‘ran out of energy’ in defeat at Bournemouth](https://www.theguardian.com/football/2026/jan/24/arne-slot-says-liverpool-ran-out-of-energy-in-defeat-at-bournemouth)
-- [Starmer allies urge him to block Andy Burnham from running in byelection](https://www.theguardian.com/politics/2026/jan/24/andy-burnham-applies-to-stand-for-labour-in-gorton-and-denton-byelection)
-- [Storm Ingrid washes away part of Teignmouth’s historic pier](https://www.theguardian.com/uk-news/2026/jan/24/storm-ingrid-washes-away-part-of-teignmouths-historic-pier)
+- [Spotless Pegula ends Keys’ Australian Open reign with serve of apple pie and cheese | Tumaini Carayol](https://www.theguardian.com/sport/2026/jan/26/jessica-pegula-madison-keys-australian-open-tennis-womens-singles)
+- [Seahawks set up Patriots Super Bowl clash after beating Rams in barnburner](https://www.theguardian.com/sport/2026/jan/25/seahawks-rams-nfc-championship-game-nfl-playoffs-football)
+- [America feels like a country on the brink of an authoritarian takeover | Francine Prose](https://www.theguardian.com/commentisfree/2026/jan/25/america-feels-like-a-country-on-the-brink-of-an-authoritarian-takeover)
+- [Trump news at a glance: Pretti killing a ‘wake-up call’ say Obamas as Clinton urges Americans to speak out](https://www.theguardian.com/us-news/2026/jan/26/trump-administration-briefing-latest-news-updates-today)
+- [Philippines ferry with 350 on board capsizes leaving 15 dead and dozens missing](https://www.theguardian.com/world/2026/jan/26/philippines-ferry-capsizes-sinks-death-toll)
+- [China’s top ranking general under investigation for alleged violations amid ongoing purge of leadership](https://www.theguardian.com/world/2026/jan/26/china-top-ranking-general-zhang-youxia-investigation)
+- [Ukraine war briefing: US security agreement ‘100% ready’ to be signed, Zelenskyy says](https://www.theguardian.com/world/2026/jan/26/ukraine-war-briefing-us-security-agreement-volodymyr-zelenskyy)
+- [New Zealand landslide: six missing named as police confirm victims are unlikely to be found alive](https://www.theguardian.com/world/2026/jan/26/new-zealand-landslide-mount-maunganui-missing-people-named)
+- [NHS to increase accuracy of bowel cancer test in England](https://www.theguardian.com/society/2026/jan/26/nhs-to-increase-accuracy-of-bowel-cancer-test-in-england)
+- [UK among 10 countries to build 100GW wind power grid in North Sea](https://www.theguardian.com/environment/2026/jan/26/uk-among-10-countries-to-build-100gw-wind-power-grid-in-north-sea)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

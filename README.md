@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Responsibility of Intellectuals](https://www.nybooks.com/articles/1967/02/23/a-special-supplement-the-responsibility-of-intelle/)
-- [US SEC: India refused to serve summons to Adani Group under Hague Convention](https://economictimes.indiatimes.com/news/company/corporate-trends/us-regulator-seeks-to-bypass-indian-government-to-serve-gautam-adani-summons/articleshow/127144686.cms?from=mdr)
-- [Alex Honnold completes Taipei 101 skyscraper climb without ropes or safety net](https://www.cnn.com/sport/live-news/taiwan-alex-honnold-climb-taipei-101-01-25-26-intl-hnk)
-- [The Bay Area Has Lost Its Soul. No Wonder Everyone&#39;s Leaving [video]](https://www.youtube.com/watch?v=9_bsaF5TTEE)
-- [Prototyping NixOS with FDE, tang and Podman using Claude.AI](https://claude.ai/public/artifacts/e7cdb55a-3960-4dc9-bd1a-3c73a3145fb9)
-- [Show HN: VM-curator – a TUI alternative to libvirt and virt-manager](https://github.com/mroboff/vm-curator)
-- [nvidia-smi hangs indefinitely after ~66 days](https://github.com/NVIDIA/open-gpu-kernel-modules/issues/971)
-- [Kb_text_shape: Harfbuzz like single file C/C++ text shaping library](https://github.com/JimmyLefevre/kb)
-- [ADSL Works over Wet String](https://www.revk.uk/2017/12/its-official-adsl-works-over-wet-string.html)
-- [AI Adoption Rates by Country](https://www.visualcapitalist.com/ai-adoption-rates-by-country/)
+- [Trump says US used secret weapon to disable Venezuelan equipment in Maduro raid](https://apnews.com/article/trump-venezuela-weapon-maduro-drug-strikes-c052fd24a350a04a458f501b4b536e62)
+- [The Politics of Struggling Americans](https://www.gojiberries.io/the-politics-of-struggling-americans/)
+- [A Poem That Behaves Like a Machine](https://medium.com/@darwingosal/a-poem-that-behaves-like-a-machine-737fce2791f4)
+- [Environmentalists worry Google behind bid to control Oregon town&#39;s water](https://www.sfgate.com/national-parks/article/mount-hood-water-google-21307223.php)
+- [Gemini team, please add URL query parameter support &lpar;?q= or?prompt=&rpar;](https://news.ycombinator.com/item?id=46761567)
+- [A New Hardware Class of 2026](https://www.recordsofthought.com/signal-to-source)
+- [The Atelier: Craft, Code, and the Coming Guild](https://jamesmunsch.com/words/2026-01-18-the-atelier--craft--code--and-the-coming-guild.html)
+- [Show HN: WhyThere – Compare cities side-by-side to decide where to move](https://whythere.life)
+- [We built an AI coding tool that stores nothing on our servers](https://shakespeare.diy)
+- [Central Banks Hit Next Stage in Cross-Border Payment Project](https://www.pymnts.com/news/cross-border-commerce/cross-border-payments/2026/central-banks-hit-next-stage-in-agora-cross-border-payment-project/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

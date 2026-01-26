@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Alex Honnold completes Taipei 101 skyscraper climb without ropes or safety net](https://www.cnn.com/sport/live-news/taiwan-alex-honnold-climb-taipei-101-01-25-26-intl-hnk)
-- [Two Weeks Until Tapeout](https://essenceia.github.io/projects/two_weeks_until_tapeout/)
-- [Adoption of EVs tied to real-world reductions in air pollution: study](https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/)
-- [We X-Rayed a Suspicious FTDI USB Cable](https://eclypsium.com/blog/xray-counterfeit-usb-cable/)
-- [Poland&#39;s energy grid was targeted by never-before-seen wiper malware](https://arstechnica.com/security/2026/01/wiper-malware-targeted-poland-energy-grid-but-failed-to-knock-out-electricity/)
-- [First Design Engineer Hire – Build Games at Gym Class &lpar;YC W22&rpar;](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ywXHGBv-design-engineer-senior-staff-principal)
-- [I added a Bluesky comment section to my blog](https://micahcantor.com/blog/bluesky-comment-section.html)
-- [Postmortem: Our first VLEO satellite mission &lpar;with imagery and flight data&rpar;](https://albedo.com/post/clarity-1-what-worked-and-where-we-go-next)
-- [Show HN: StormWatch – Weather emergency dashboard with prep checklists](https://jeisey.github.io/stormwatch/)
-- [Agent orchestration for the timid](https://substack.com/inbox/post/185649875)
+- [Microsoft suspects some PCs might not boot after Windows 11 January 2026 Update](https://www.windowslatest.com/2026/01/25/microsoft-suspects-some-pcs-might-not-boot-after-windows-11-january-2026-update-kb5074109/)
+- [Clawdbot - open source personal AI assistant](https://github.com/clawdbot/clawdbot)
+- [Scientists identify brain waves that define the limits of &#39;you&#39;](https://www.sciencealert.com/scientists-identify-brain-waves-that-define-the-limits-of-you)
+- [Show HN: FaceTime-style calls with an AI Companion &lpar;Live2D and long-term memory&rpar;](https://thebeni.ai/)
+- [Show HN: A small programming language where everything is pass-by-value](https://github.com/Jcparkyn/herd)
+- [Case study: Creative math – How AI fakes proofs](https://tomaszmachnik.pl/case-study-math-en.html)
+- [The future of software engineering is SRE](https://swizec.com/blog/the-future-of-software-engineering-is-sre/)
+- [The &#39;3.5% rule&#39;: How a small minority can change the world &lpar;2019&rpar;](https://www.bbc.com/future/article/20190513-it-only-takes-35-of-people-to-change-the-world)
+- [Oneplus phone update introduces hardware anti-rollback](https://consumerrights.wiki/w/Oneplus_phone_update_introduces_hardware_anti-rollback)
+- [I was right about ATProto key management](https://notes.nora.codes/atproto-again/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

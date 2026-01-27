@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Trump says US used secret weapon to disable Venezuelan equipment in Maduro raid](https://apnews.com/article/trump-venezuela-weapon-maduro-drug-strikes-c052fd24a350a04a458f501b4b536e62)
-- [The Politics of Struggling Americans](https://www.gojiberries.io/the-politics-of-struggling-americans/)
-- [A Poem That Behaves Like a Machine](https://medium.com/@darwingosal/a-poem-that-behaves-like-a-machine-737fce2791f4)
-- [Environmentalists worry Google behind bid to control Oregon town&#39;s water](https://www.sfgate.com/national-parks/article/mount-hood-water-google-21307223.php)
-- [Gemini team, please add URL query parameter support &lpar;?q= or?prompt=&rpar;](https://news.ycombinator.com/item?id=46761567)
-- [A New Hardware Class of 2026](https://www.recordsofthought.com/signal-to-source)
-- [The Atelier: Craft, Code, and the Coming Guild](https://jamesmunsch.com/words/2026-01-18-the-atelier--craft--code--and-the-coming-guild.html)
-- [Show HN: WhyThere – Compare cities side-by-side to decide where to move](https://whythere.life)
-- [We built an AI coding tool that stores nothing on our servers](https://shakespeare.diy)
-- [Central Banks Hit Next Stage in Cross-Border Payment Project](https://www.pymnts.com/news/cross-border-commerce/cross-border-payments/2026/central-banks-hit-next-stage-in-agora-cross-border-payment-project/)
+- [How Clawdbot Remembers Everything](https://twitter.com/manthanguptaa/status/2015780646770323543)
+- [Thermus Aquaticus](https://en.wikipedia.org/wiki/Thermus_aquaticus)
+- [Roo Code 3.43.0 – Intelligent Context Condensation v2 – Settings Cleanup](https://docs.roocode.com/update-notes/v3.43.0)
+- [Frame Experiments [video]](https://www.youtube.com/shorts/oYd79OV6v1M)
+- [Eyes On – News](https://eyeson.news/)
+- [Teammates, Not Coworkers](https://luke.hsiao.dev/blog/teammates-not-coworkers/)
+- [100 years of Telly bt Jenny List](https://hackaday.com/2026/01/26/one-hundred-years-of-telly/)
+- [Pizza Hut Staff Assaults Zomato Delivery Boy Over Low Ratings](https://www.news18.com/cities/hyderabad-news/pizza-hut-staff-assaults-hyderabad-zomato-delivery-boy-over-low-ratings-video-ws-l-9856937.html)
+- [Microsoft Jan 22nd &lpar;Outlook Outage&rpar; Root Cause Analysis Released](https://old.reddit.com/r/sysadmin/comments/1qo15q8/microsoft_jan_22nd_root_cause_analysis_released/)
+- [Bad Claude&#39;s Constitution](https://badclaude.com/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

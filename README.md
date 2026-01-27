@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Spotless Pegula ends Keys’ Australian Open reign with serve of apple pie and cheese | Tumaini Carayol](https://www.theguardian.com/sport/2026/jan/26/jessica-pegula-madison-keys-australian-open-tennis-womens-singles)
-- [Seahawks set up Patriots Super Bowl clash after beating Rams in barnburner](https://www.theguardian.com/sport/2026/jan/25/seahawks-rams-nfc-championship-game-nfl-playoffs-football)
-- [America feels like a country on the brink of an authoritarian takeover | Francine Prose](https://www.theguardian.com/commentisfree/2026/jan/25/america-feels-like-a-country-on-the-brink-of-an-authoritarian-takeover)
-- [Trump news at a glance: Pretti killing a ‘wake-up call’ say Obamas as Clinton urges Americans to speak out](https://www.theguardian.com/us-news/2026/jan/26/trump-administration-briefing-latest-news-updates-today)
-- [Philippines ferry with 350 on board capsizes leaving 15 dead and dozens missing](https://www.theguardian.com/world/2026/jan/26/philippines-ferry-capsizes-sinks-death-toll)
-- [China’s top ranking general under investigation for alleged violations amid ongoing purge of leadership](https://www.theguardian.com/world/2026/jan/26/china-top-ranking-general-zhang-youxia-investigation)
-- [Ukraine war briefing: US security agreement ‘100% ready’ to be signed, Zelenskyy says](https://www.theguardian.com/world/2026/jan/26/ukraine-war-briefing-us-security-agreement-volodymyr-zelenskyy)
-- [New Zealand landslide: six missing named as police confirm victims are unlikely to be found alive](https://www.theguardian.com/world/2026/jan/26/new-zealand-landslide-mount-maunganui-missing-people-named)
-- [NHS to increase accuracy of bowel cancer test in England](https://www.theguardian.com/society/2026/jan/26/nhs-to-increase-accuracy-of-bowel-cancer-test-in-england)
-- [UK among 10 countries to build 100GW wind power grid in North Sea](https://www.theguardian.com/environment/2026/jan/26/uk-among-10-countries-to-build-100gw-wind-power-grid-in-north-sea)
+- [Australian Open 2026 quarter-finals: Zverev v Tien, Sabalenka through to semis– live](https://www.theguardian.com/sport/live/2026/jan/27/australian-open-2026-quarter-finals-zverev-tien-live-updates-tennis)
+- [Trump says he will impose new tariffs on South Korea as he criticises delays in trade deal](https://www.theguardian.com/world/2026/jan/27/trump-raises-south-korea-tariffs-carmakers-shares-fall)
+- [Extreme heatwave may break records in Victoria as firefighters warn of bushfire risk in ‘very dry’ state](https://www.theguardian.com/environment/2026/jan/27/victoria-melbourne-weather-forecast-fire-danger-extreme-heatwave-bushfire-risk)
+- [What happens to the human body in 49C heat? Australians are finding out](https://www.theguardian.com/australia-news/2026/jan/27/what-happens-to-the-human-body-in-49c-heat-australians-are-finding-out)
+- [US winter storm: at least 30 people dead and nearly 200m under cold alerts](https://www.theguardian.com/us-news/2026/jan/26/winter-storm-snow-deaths-power-outages-travel)
+- [Trump’s ICE crackdown faces reckoning as outrage mounts over Alex Pretti shooting](https://www.theguardian.com/us-news/2026/jan/26/donald-trump-administration-reviewing-alex-pretti-shooting)
+- [Ukraine war briefing: Nato chief warns of ‘harshest winter’ in a decade as Russian attacks cut power in Kharkiv](https://www.theguardian.com/world/2026/jan/27/ukraine-war-briefing-mark-rutte-nato-russian-attack-kharkiv-power-outages-kyiv-monastery)
+- [French lawmakers vote to ban social media use by under-15s](https://www.theguardian.com/world/2026/jan/27/france-social-media-ban-under-15s)
+- [‘The world is hurting right now’: politics and protest hit the Sundance film festival](https://www.theguardian.com/film/2026/jan/26/sundance-film-festival-politics-ice-protest)
+- [Frank &amp; Louis review – moving drama of dementia and caregiving in prison](https://www.theguardian.com/film/2026/jan/26/frank-louis-review-drama-caregiving-prison)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

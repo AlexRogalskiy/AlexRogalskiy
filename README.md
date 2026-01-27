@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Microsoft suspects some PCs might not boot after Windows 11 January 2026 Update](https://www.windowslatest.com/2026/01/25/microsoft-suspects-some-pcs-might-not-boot-after-windows-11-january-2026-update-kb5074109/)
-- [Clawdbot - open source personal AI assistant](https://github.com/clawdbot/clawdbot)
-- [Scientists identify brain waves that define the limits of &#39;you&#39;](https://www.sciencealert.com/scientists-identify-brain-waves-that-define-the-limits-of-you)
-- [Show HN: FaceTime-style calls with an AI Companion &lpar;Live2D and long-term memory&rpar;](https://thebeni.ai/)
-- [Show HN: A small programming language where everything is pass-by-value](https://github.com/Jcparkyn/herd)
-- [Case study: Creative math – How AI fakes proofs](https://tomaszmachnik.pl/case-study-math-en.html)
-- [The future of software engineering is SRE](https://swizec.com/blog/the-future-of-software-engineering-is-sre/)
-- [The &#39;3.5% rule&#39;: How a small minority can change the world &lpar;2019&rpar;](https://www.bbc.com/future/article/20190513-it-only-takes-35-of-people-to-change-the-world)
-- [Oneplus phone update introduces hardware anti-rollback](https://consumerrights.wiki/w/Oneplus_phone_update_introduces_hardware_anti-rollback)
-- [I was right about ATProto key management](https://notes.nora.codes/atproto-again/)
+- [iPhone 5s Gets New Software Update 13 Years After Launch](https://www.macrumors.com/2026/01/26/iphone-5s-software-update/)
+- [Y Combinator website no longer lists Canada as a country it invests in](https://betakit.com/y-combinator-website-no-longer-lists-canada-as-a-country-it-invests-in/)
+- [You have to know how to drive the car](https://www.seangoedecke.com/knowing-how-to-drive-the-car/)
+- [People who know the formula for WD-40](https://www.wsj.com/business/the-secret-society-of-people-who-know-the-formula-for-wd-40-e9c0ff54)
+- [Dithering – Part 2: The Ordered Dithering](https://visualrambling.space/dithering-part-2/)
+- [ChatGPT Containers can now run bash, pip/npm install packages and download files](https://simonwillison.net/2026/Jan/26/chatgpt-containers/)
+- [Show HN: TetrisBench – Gemini Flash reaches 66% win rate on Tetris against Opus](https://tetrisbench.com/tetrisbench/)
+- [AI code and software craft](https://alexwennerberg.com/blog/2026-01-25-slop.html)
+- [Fedora Asahi Remix is now working on Apple M3](https://bsky.app/profile/did:plc:okydh7e54e2nok65kjxdklvd/post/3mdd55paffk2o)
+- [JuiceSSH – Give me my pro features back](https://nproject.io/blog/juicessh-give-me-back-my-pro-features/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

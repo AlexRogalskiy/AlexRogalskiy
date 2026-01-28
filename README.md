@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Australian Open 2026 quarter-finals: Zverev v Tien, Sabalenka through to semis– live](https://www.theguardian.com/sport/live/2026/jan/27/australian-open-2026-quarter-finals-zverev-tien-live-updates-tennis)
-- [Trump says he will impose new tariffs on South Korea as he criticises delays in trade deal](https://www.theguardian.com/world/2026/jan/27/trump-raises-south-korea-tariffs-carmakers-shares-fall)
-- [Extreme heatwave may break records in Victoria as firefighters warn of bushfire risk in ‘very dry’ state](https://www.theguardian.com/environment/2026/jan/27/victoria-melbourne-weather-forecast-fire-danger-extreme-heatwave-bushfire-risk)
-- [What happens to the human body in 49C heat? Australians are finding out](https://www.theguardian.com/australia-news/2026/jan/27/what-happens-to-the-human-body-in-49c-heat-australians-are-finding-out)
-- [US winter storm: at least 30 people dead and nearly 200m under cold alerts](https://www.theguardian.com/us-news/2026/jan/26/winter-storm-snow-deaths-power-outages-travel)
-- [Trump’s ICE crackdown faces reckoning as outrage mounts over Alex Pretti shooting](https://www.theguardian.com/us-news/2026/jan/26/donald-trump-administration-reviewing-alex-pretti-shooting)
-- [Ukraine war briefing: Nato chief warns of ‘harshest winter’ in a decade as Russian attacks cut power in Kharkiv](https://www.theguardian.com/world/2026/jan/27/ukraine-war-briefing-mark-rutte-nato-russian-attack-kharkiv-power-outages-kyiv-monastery)
-- [French lawmakers vote to ban social media use by under-15s](https://www.theguardian.com/world/2026/jan/27/france-social-media-ban-under-15s)
-- [‘The world is hurting right now’: politics and protest hit the Sundance film festival](https://www.theguardian.com/film/2026/jan/26/sundance-film-festival-politics-ice-protest)
-- [Frank &amp; Louis review – moving drama of dementia and caregiving in prison](https://www.theguardian.com/film/2026/jan/26/frank-louis-review-drama-caregiving-prison)
+- [Australian Open 2026 quarter-finals: Pegula v Anisimova; Rybakina stuns Swiatek – live](https://www.theguardian.com/sport/live/2026/jan/28/australian-open-2026-quarter-finals-rybakina-v-swiatek-pegula-v-anisimova-live-updates-tennis-)
+- [New Zealand could see more deadly landslides as climate crisis triggers intense storms, experts warn](https://www.theguardian.com/world/2026/jan/28/new-zealand-landslides-climate-crisis-storms)
+- [‘This train isn’t going to stop’: shocking Sundance film shows promises and perils of AI](https://www.theguardian.com/film/2026/jan/27/sundance-ai-documentary-daniel-roher)
+- [Stephen Colbert announces date of final episode of The Late Show](https://www.theguardian.com/tv-and-radio/2026/jan/27/stephen-colbert-final-episode-the-late-show)
+- [Doomsday Clock at 85 seconds to midnight amid threats from climate crisis and AI](https://www.theguardian.com/us-news/2026/jan/27/doomsday-clock-seconds-to-midnight)
+- [French former senator found guilty of drugging MP with intent to sexually assault her](https://www.theguardian.com/world/2026/jan/28/french-former-senator-found-guilty-of-drugging-mp-with-intent-to-sexually-assault-her)
+- [Seven out of 10 UK mothers feel overloaded, research reveals](https://www.theguardian.com/society/2026/jan/28/seven-out-of-10-uk-mothers-feel-overloaded-research-reveals)
+- [Two-year-old pots two Guinness World Records with snooker trick shots](https://www.theguardian.com/uk-news/2026/jan/28/two-year-old-pots-two-guinness-world-records-with-snooker-trick-shots)
+- [Coinbase adverts banned in UK for suggesting crypto could ease cost of living crisis](https://www.theguardian.com/technology/2026/jan/28/coinbase-adverts-banned-uk-crypto)
+- [Minnesota raids continue as DHS report indicates two agents fired guns at Alex Pretti](https://www.theguardian.com/us-news/2026/jan/27/minnesota-ice-raids-alex-pretti-killing-dhs-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

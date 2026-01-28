@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [iPhone 5s Gets New Software Update 13 Years After Launch](https://www.macrumors.com/2026/01/26/iphone-5s-software-update/)
-- [Y Combinator website no longer lists Canada as a country it invests in](https://betakit.com/y-combinator-website-no-longer-lists-canada-as-a-country-it-invests-in/)
-- [You have to know how to drive the car](https://www.seangoedecke.com/knowing-how-to-drive-the-car/)
-- [People who know the formula for WD-40](https://www.wsj.com/business/the-secret-society-of-people-who-know-the-formula-for-wd-40-e9c0ff54)
-- [Dithering – Part 2: The Ordered Dithering](https://visualrambling.space/dithering-part-2/)
-- [ChatGPT Containers can now run bash, pip/npm install packages and download files](https://simonwillison.net/2026/Jan/26/chatgpt-containers/)
-- [Show HN: TetrisBench – Gemini Flash reaches 66% win rate on Tetris against Opus](https://tetrisbench.com/tetrisbench/)
-- [AI code and software craft](https://alexwennerberg.com/blog/2026-01-25-slop.html)
-- [Fedora Asahi Remix is now working on Apple M3](https://bsky.app/profile/did:plc:okydh7e54e2nok65kjxdklvd/post/3mdd55paffk2o)
-- [JuiceSSH – Give me my pro features back](https://nproject.io/blog/juicessh-give-me-back-my-pro-features/)
+- [Apple MacBook Pro order deliveries delayed until mid March](https://www.apple.com/shop/buy-mac/macbook-pro/16-inch-space-black-standard-display-apple-m4-max-with-16-core-cpu-and-40-core-gpu-48gb-memory-1tb)
+- [Is coding dead because AI has taken over it?](https://www.jehuamanna.com/blog/2026/is-coding-dead/)
+- [Super Monkey Ball ported to a website](https://monkeyball-online.pages.dev/)
+- [AI found 12 vulnerabilities in OpenSSL](https://aisle.com/blog/aisle-discovered-12-out-of-12-openssl-vulnerabilities)
+- [Thief of $90M in seized U.S.-controlled crypto is gov&#39;t contractor&#39;s son](https://www.web3isgoinggreat.com/single/lick-theft)
+- [TikTok settles just before social media addiction trial to begin](https://www.bbc.com/news/articles/c24g8v6qr1mo)
+- [Time Station Emulator](https://github.com/kangtastic/timestation)
+- [How many chess games are possible?](https://win-vector.com/2026/01/27/how-many-chess-games-are-possible/)
+- [Try text scaling support in Chrome Canary](https://www.joshtumath.uk/posts/2026-01-27-try-text-scaling-support-in-chrome-canary/)
+- [Lennart Poettering, Christian Brauner founded a new company](https://amutable.com/about)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

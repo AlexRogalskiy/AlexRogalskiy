@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [How Clawdbot Remembers Everything](https://twitter.com/manthanguptaa/status/2015780646770323543)
-- [Thermus Aquaticus](https://en.wikipedia.org/wiki/Thermus_aquaticus)
-- [Roo Code 3.43.0 – Intelligent Context Condensation v2 – Settings Cleanup](https://docs.roocode.com/update-notes/v3.43.0)
-- [Frame Experiments [video]](https://www.youtube.com/shorts/oYd79OV6v1M)
-- [Eyes On – News](https://eyeson.news/)
-- [Teammates, Not Coworkers](https://luke.hsiao.dev/blog/teammates-not-coworkers/)
-- [100 years of Telly bt Jenny List](https://hackaday.com/2026/01/26/one-hundred-years-of-telly/)
-- [Pizza Hut Staff Assaults Zomato Delivery Boy Over Low Ratings](https://www.news18.com/cities/hyderabad-news/pizza-hut-staff-assaults-hyderabad-zomato-delivery-boy-over-low-ratings-video-ws-l-9856937.html)
-- [Microsoft Jan 22nd &lpar;Outlook Outage&rpar; Root Cause Analysis Released](https://old.reddit.com/r/sysadmin/comments/1qo15q8/microsoft_jan_22nd_root_cause_analysis_released/)
-- [Bad Claude&#39;s Constitution](https://badclaude.com/)
+- [Android&#39;s full desktop interface leaks: New status bar, Chrome Extensions](https://9to5google.com/2026/01/27/android-desktop-leak/)
+- [Amazon Discontinuing One Palm?](https://news.ycombinator.com/item?id=46790734)
+- [Ups retires its fleet of MD-11 cargo aircraft](https://www.pbs.org/newshour/nation/ups-retires-its-fleet-of-md-11-cargo-aircraft-involved-in-deadly-kentucky-crash)
+- [Rye pollen&#39;s cancer-fighting structure revealed for first time](https://phys.org/news/2026-01-rye-pollen-cancer-revealed.html)
+- [Book: &quot;Beading with Algorithms: Cellular Automata in Peyote Stitch.&quot;](https://mathstodon.xyz/@gwenbeads/115968206227675487)
+- [Where can I find startups looking for fractional product leads?](https://news.ycombinator.com/item?id=46790671)
+- [Who Contributed to PostgreSQL Development in 2025?](http://rhaas.blogspot.com/2026/01/who-contributed-to-postgresql.html)
+- [Ask HN: In agent/automation incidents, what slows recovery?](https://news.ycombinator.com/item?id=46790611)
+- [The Librarians Film](https://thelibrariansfilm.com/)
+- [&#39;A militia that kills&#39;: uproar in Italy over ICE security role in Italy](https://www.theguardian.com/us-news/2026/jan/27/italy-ice-security-role-winter-olympics)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

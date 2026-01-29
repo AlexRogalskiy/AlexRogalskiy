@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Apple MacBook Pro order deliveries delayed until mid March](https://www.apple.com/shop/buy-mac/macbook-pro/16-inch-space-black-standard-display-apple-m4-max-with-16-core-cpu-and-40-core-gpu-48gb-memory-1tb)
-- [Is coding dead because AI has taken over it?](https://www.jehuamanna.com/blog/2026/is-coding-dead/)
-- [Super Monkey Ball ported to a website](https://monkeyball-online.pages.dev/)
-- [AI found 12 vulnerabilities in OpenSSL](https://aisle.com/blog/aisle-discovered-12-out-of-12-openssl-vulnerabilities)
-- [Thief of $90M in seized U.S.-controlled crypto is gov&#39;t contractor&#39;s son](https://www.web3isgoinggreat.com/single/lick-theft)
-- [TikTok settles just before social media addiction trial to begin](https://www.bbc.com/news/articles/c24g8v6qr1mo)
-- [Time Station Emulator](https://github.com/kangtastic/timestation)
-- [How many chess games are possible?](https://win-vector.com/2026/01/27/how-many-chess-games-are-possible/)
-- [Try text scaling support in Chrome Canary](https://www.joshtumath.uk/posts/2026-01-27-try-text-scaling-support-in-chrome-canary/)
-- [Lennart Poettering, Christian Brauner founded a new company](https://amutable.com/about)
+- [Questom &lpar;YC F25&rpar; is hiring an engineer](https://www.ycombinator.com/companies/questom/jobs/UBebsyO-founding-engineer)
+- [Maine’s ‘Lobster Lady’ who fished for nearly a century dies aged 105](https://www.theguardian.com/us-news/2026/jan/28/maine-lobster-lady-dies-aged-105)
+- [Render Mermaid diagrams as SVGs or ASCII art](https://github.com/lukilabs/beautiful-mermaid)
+- [Show HN: Shelvy Books](https://shelvybooks.com)
+- [Ross Stevens Donates $100M to Pay Every US Olympian and Paralympian $200k](https://www.townandcountrymag.com/leisure/sporting/a70171886/ross-stevens-american-olympians-donation/)
+- [UK Government’s ‘AI Skills Hub’ was delivered by PwC for £4.1M](https://mahadk.com/posts/ai-skills-hub)
+- [Tesla ending Models S and X production](https://www.cnbc.com/2026/01/28/tesla-ending-model-s-x-production.html)
+- [Bf-Tree: modern read-write-optimized concurrent larger-than-memory range index](https://github.com/microsoft/bf-tree)
+- [Somebody used spoofed ADSB signals to raster the meme of JD Vance](https://alecmuffett.com/article/143548)
+- [Show HN: A MitM proxy to see what your LLM tools are sending](https://github.com/jmuncor/sherlock)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

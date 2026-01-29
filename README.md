@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Android&#39;s full desktop interface leaks: New status bar, Chrome Extensions](https://9to5google.com/2026/01/27/android-desktop-leak/)
-- [Amazon Discontinuing One Palm?](https://news.ycombinator.com/item?id=46790734)
-- [Ups retires its fleet of MD-11 cargo aircraft](https://www.pbs.org/newshour/nation/ups-retires-its-fleet-of-md-11-cargo-aircraft-involved-in-deadly-kentucky-crash)
-- [Rye pollen&#39;s cancer-fighting structure revealed for first time](https://phys.org/news/2026-01-rye-pollen-cancer-revealed.html)
-- [Book: &quot;Beading with Algorithms: Cellular Automata in Peyote Stitch.&quot;](https://mathstodon.xyz/@gwenbeads/115968206227675487)
-- [Where can I find startups looking for fractional product leads?](https://news.ycombinator.com/item?id=46790671)
-- [Who Contributed to PostgreSQL Development in 2025?](http://rhaas.blogspot.com/2026/01/who-contributed-to-postgresql.html)
-- [Ask HN: In agent/automation incidents, what slows recovery?](https://news.ycombinator.com/item?id=46790611)
-- [The Librarians Film](https://thelibrariansfilm.com/)
-- [&#39;A militia that kills&#39;: uproar in Italy over ICE security role in Italy](https://www.theguardian.com/us-news/2026/jan/27/italy-ice-security-role-winter-olympics)
+- [We can&#39;t send mail farther than 500 miles &lpar;2002&rpar;](https://web.mit.edu/jemorris/humor/500-miles)
+- [ESR on LLM Coding](https://twitter.com/esrtweet/status/2016713740658344301)
+- [FOSDEM 2012 Schedule Chart](https://rgbcu.be/dump/fosdem/2012)
+- [AI Prompt to Write in Minimalist Style of Ernest Hemingway](https://tools.eq4c.com/ai-prompts/ai-prompt-to-write-in-minimalist-style-of-ernest-hemingway/)
+- [Show HN: The Unix compress algorithm with approximate matches](https://news.ycombinator.com/item?id=46805644)
+- [Stratus VOS](https://en.wikipedia.org/wiki/Stratus_VOS)
+- [Was serving GPT-5 profitable?](https://twitter.com/i/status/2016652644560097377)
+- [Breaking the Spell of Vibe Coding](https://www.fast.ai/posts/2026-01-28-dark-flow/)
+- [The reason cancer immunotherapy often fails](https://www.sciencedaily.com/releases/2026/01/260128075323.htm)
+- [Explore Cartoon Characters](https://acartooncharacters.com/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

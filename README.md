@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Australian Open 2026 quarter-finals: Pegula v Anisimova; Rybakina stuns Swiatek – live](https://www.theguardian.com/sport/live/2026/jan/28/australian-open-2026-quarter-finals-rybakina-v-swiatek-pegula-v-anisimova-live-updates-tennis-)
-- [New Zealand could see more deadly landslides as climate crisis triggers intense storms, experts warn](https://www.theguardian.com/world/2026/jan/28/new-zealand-landslides-climate-crisis-storms)
-- [‘This train isn’t going to stop’: shocking Sundance film shows promises and perils of AI](https://www.theguardian.com/film/2026/jan/27/sundance-ai-documentary-daniel-roher)
-- [Stephen Colbert announces date of final episode of The Late Show](https://www.theguardian.com/tv-and-radio/2026/jan/27/stephen-colbert-final-episode-the-late-show)
-- [Doomsday Clock at 85 seconds to midnight amid threats from climate crisis and AI](https://www.theguardian.com/us-news/2026/jan/27/doomsday-clock-seconds-to-midnight)
-- [French former senator found guilty of drugging MP with intent to sexually assault her](https://www.theguardian.com/world/2026/jan/28/french-former-senator-found-guilty-of-drugging-mp-with-intent-to-sexually-assault-her)
-- [Seven out of 10 UK mothers feel overloaded, research reveals](https://www.theguardian.com/society/2026/jan/28/seven-out-of-10-uk-mothers-feel-overloaded-research-reveals)
-- [Two-year-old pots two Guinness World Records with snooker trick shots](https://www.theguardian.com/uk-news/2026/jan/28/two-year-old-pots-two-guinness-world-records-with-snooker-trick-shots)
-- [Coinbase adverts banned in UK for suggesting crypto could ease cost of living crisis](https://www.theguardian.com/technology/2026/jan/28/coinbase-adverts-banned-uk-crypto)
-- [Minnesota raids continue as DHS report indicates two agents fired guns at Alex Pretti](https://www.theguardian.com/us-news/2026/jan/27/minnesota-ice-raids-alex-pretti-killing-dhs-report)
+- [US congressman meets five-year-old Liam Ramos and his father at ICE detention center – as it happened](https://www.theguardian.com/us-news/live/2026/jan/28/ilhan-omar-attack-trump-minneapolis-ecuador-embassy-rubio-venezuela-machado-iran-iraq-latest-news-updates)
+- [Ukraine war briefing: Russia pounds cities across country ahead of fresh round of peace talks](https://www.theguardian.com/world/2026/jan/29/ukraine-war-briefing-russia-pounds-cities-across-country-ahead-of-fresh-round-of-peace-talks)
+- [South Korea’s ‘world-first’ AI laws face pushback amid bid to become leading tech power](https://www.theguardian.com/world/2026/jan/29/south-korea-world-first-ai-regulation-laws)
+- [Meta wows Wall Street despite spending billions on AI and facing social media addiction trial](https://www.theguardian.com/technology/2026/jan/28/meta-earnings-fourth-quarter)
+- [Food sector calls for transition period if UK and EU agree post-Brexit rules reset](https://www.theguardian.com/politics/2026/jan/29/food-sector-transition-period-uk-eu-brexit-reset)
+- [UK probably needs large new factory to meet target of 1.3m cars a year, say industry boss](https://www.theguardian.com/business/2026/jan/29/britain-car-building-target-2035-industry)
+- [No 1 for nuns! Níall McLaughlin is architecture’s discreet daredevil – and deserves its top award](https://www.theguardian.com/artanddesign/2026/jan/29/niall-mclaughlin-riba-gold-medal-nuns-daredevil)
+- [Households in England and Wales must splash out more as water bills rise again](https://www.theguardian.com/money/2026/jan/29/households-in-england-and-wales-must-splash-out-more-as-water-bills-rise-again)
+- [Paul Dano reacts to Tarantino criticism: ‘I was incredibly grateful that the world spoke up for me’](https://www.theguardian.com/film/2026/jan/29/paul-dano-quentin-tarantino-comments)
+- [Drama at the opera as Royal Opera chief steps in for sick tenor](https://www.theguardian.com/music/2026/jan/28/drama-at-the-opera-as-royal-opera-chief-steps-in-for-sick-tenor)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

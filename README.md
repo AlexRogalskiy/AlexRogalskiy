@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [We can&#39;t send mail farther than 500 miles &lpar;2002&rpar;](https://web.mit.edu/jemorris/humor/500-miles)
-- [ESR on LLM Coding](https://twitter.com/esrtweet/status/2016713740658344301)
-- [FOSDEM 2012 Schedule Chart](https://rgbcu.be/dump/fosdem/2012)
-- [AI Prompt to Write in Minimalist Style of Ernest Hemingway](https://tools.eq4c.com/ai-prompts/ai-prompt-to-write-in-minimalist-style-of-ernest-hemingway/)
-- [Show HN: The Unix compress algorithm with approximate matches](https://news.ycombinator.com/item?id=46805644)
-- [Stratus VOS](https://en.wikipedia.org/wiki/Stratus_VOS)
-- [Was serving GPT-5 profitable?](https://twitter.com/i/status/2016652644560097377)
-- [Breaking the Spell of Vibe Coding](https://www.fast.ai/posts/2026-01-28-dark-flow/)
-- [The reason cancer immunotherapy often fails](https://www.sciencedaily.com/releases/2026/01/260128075323.htm)
-- [Explore Cartoon Characters](https://acartooncharacters.com/)
+- [Your Own AI Developer on GitHub](https://rellfy.com/blog/your-own-ai-developer-on-github/)
+- [ClipMind – Search your clipboard by meaning using local embeddings](https://github.com/arpitg1304/clipmind)
+- [Building a Year-Long Battery-Powered Wi-Fi Temperature Sensor](https://medium.com/@lee.harding/building-a-year-long-battery-powered-wifi-temperature-sensor-8b1d1f42542a)
+- [Moltbook](https://www.moltbook.com/)
+- [Medical journal publishes a letter on AI with a fake reference to itself](https://retractionwatch.com/2026/01/28/medical-journal-publishes-a-paper-on-ai-with-a-fake-reference-to-itself/)
+- [Ask HN: How do you force yourself to take breaks while coding?](https://news.ycombinator.com/item?id=46820352)
+- [Infostealers added Clawdbot to their target lists before security teams knew](https://venturebeat.com/security/clawdbot-exploits-48-hours-what-broke)
+- [MoltBot Guide – Open-source AI assistant I&#39;m betting on](https://moltai.bot)
+- [Strangerbench: A benchmark for AI forecasting after training cut-off dates](https://github.com/firasd/strangerbench)
+- [Can a Pendulum be a Battery? [video]](https://www.youtube.com/watch?v=uqmT1GzRXWI)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [US congressman meets five-year-old Liam Ramos and his father at ICE detention center – as it happened](https://www.theguardian.com/us-news/live/2026/jan/28/ilhan-omar-attack-trump-minneapolis-ecuador-embassy-rubio-venezuela-machado-iran-iraq-latest-news-updates)
-- [Ukraine war briefing: Russia pounds cities across country ahead of fresh round of peace talks](https://www.theguardian.com/world/2026/jan/29/ukraine-war-briefing-russia-pounds-cities-across-country-ahead-of-fresh-round-of-peace-talks)
-- [South Korea’s ‘world-first’ AI laws face pushback amid bid to become leading tech power](https://www.theguardian.com/world/2026/jan/29/south-korea-world-first-ai-regulation-laws)
-- [Meta wows Wall Street despite spending billions on AI and facing social media addiction trial](https://www.theguardian.com/technology/2026/jan/28/meta-earnings-fourth-quarter)
-- [Food sector calls for transition period if UK and EU agree post-Brexit rules reset](https://www.theguardian.com/politics/2026/jan/29/food-sector-transition-period-uk-eu-brexit-reset)
-- [UK probably needs large new factory to meet target of 1.3m cars a year, say industry boss](https://www.theguardian.com/business/2026/jan/29/britain-car-building-target-2035-industry)
-- [No 1 for nuns! Níall McLaughlin is architecture’s discreet daredevil – and deserves its top award](https://www.theguardian.com/artanddesign/2026/jan/29/niall-mclaughlin-riba-gold-medal-nuns-daredevil)
-- [Households in England and Wales must splash out more as water bills rise again](https://www.theguardian.com/money/2026/jan/29/households-in-england-and-wales-must-splash-out-more-as-water-bills-rise-again)
-- [Paul Dano reacts to Tarantino criticism: ‘I was incredibly grateful that the world spoke up for me’](https://www.theguardian.com/film/2026/jan/29/paul-dano-quentin-tarantino-comments)
-- [Drama at the opera as Royal Opera chief steps in for sick tenor](https://www.theguardian.com/music/2026/jan/28/drama-at-the-opera-as-royal-opera-chief-steps-in-for-sick-tenor)
+- [Carlos Alcaraz v Alexander Zverev: Australian Open 2026 men’s semi-final – live](https://www.theguardian.com/sport/live/2026/jan/30/australian-open-2026-mens-tennis-semi-final-live-carlos-alcaraz-v-alexander-zverev)
+- [Trump sues IRS and US treasury for $10bn over leak of tax returns](https://www.theguardian.com/us-news/2026/jan/29/trump-sues-tax-return-leak)
+- [Company handling Australia’s immigration detention playing key role in Trump’s ICE migrant crackdown](https://www.theguardian.com/australia-news/2026/jan/29/australia-immigration-detention-company-involved-trump-ice-migrant-crackdown)
+- [Keir Starmer opens door to UK visit by Xi Jinping after bilateral talks](https://www.theguardian.com/politics/2026/jan/29/keir-starmer-opens-door-to-uk-visit-by-xi-jinping-after-bilateral-talks)
+- [Ukraine war briefing: Zelenskyy and Merz welcome Trump truce claim and condemn Russia attacks](https://www.theguardian.com/world/2026/jan/30/ukraine-war-briefing-zelenskyy-and-merz-welcome-trump-truce-claim-and-condemn-russia-attacks)
+- [‘We shouldn’t be surprised’: bushfires in Victoria push threatened species to the brink](https://www.theguardian.com/environment/2026/jan/30/victoria-bushfires-threatened-species-australia)
+- [Woman faints after being caned 140 times under Indonesian province’s sharia law](https://www.theguardian.com/world/2026/jan/30/indonesia-sharia-law-woman-caned-140-times-faints)
+- [Venezuela approves bill to open oil sector to foreign investment after US pressure](https://www.theguardian.com/world/2026/jan/30/venezuela-approves-bill-to-open-oil-sector-to-foreign-investment-after-us-pressure)
+- [NHS medical negligence persisting in England ‘despite 24 years of warnings’](https://www.theguardian.com/society/2026/jan/30/nhs-medical-negligence-persisting-in-england-despite-24-years-of-warnings)
+- [‘Chilling’ hacking network is targeting vulnerable children, charity warns](https://www.theguardian.com/society/2026/jan/30/hacking-network-targeting-vulnerable-children-charity-warns-com)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

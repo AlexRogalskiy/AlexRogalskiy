@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Questom &lpar;YC F25&rpar; is hiring an engineer](https://www.ycombinator.com/companies/questom/jobs/UBebsyO-founding-engineer)
-- [Maine’s ‘Lobster Lady’ who fished for nearly a century dies aged 105](https://www.theguardian.com/us-news/2026/jan/28/maine-lobster-lady-dies-aged-105)
-- [Render Mermaid diagrams as SVGs or ASCII art](https://github.com/lukilabs/beautiful-mermaid)
-- [Show HN: Shelvy Books](https://shelvybooks.com)
-- [Ross Stevens Donates $100M to Pay Every US Olympian and Paralympian $200k](https://www.townandcountrymag.com/leisure/sporting/a70171886/ross-stevens-american-olympians-donation/)
-- [UK Government’s ‘AI Skills Hub’ was delivered by PwC for £4.1M](https://mahadk.com/posts/ai-skills-hub)
-- [Tesla ending Models S and X production](https://www.cnbc.com/2026/01/28/tesla-ending-model-s-x-production.html)
-- [Bf-Tree: modern read-write-optimized concurrent larger-than-memory range index](https://github.com/microsoft/bf-tree)
-- [Somebody used spoofed ADSB signals to raster the meme of JD Vance](https://alecmuffett.com/article/143548)
-- [Show HN: A MitM proxy to see what your LLM tools are sending](https://github.com/jmuncor/sherlock)
+- [Two days of oatmeal reduce cholesterol level](https://www.uni-bonn.de/en/news/017-2026)
+- [9front OS](https://9front.org/)
+- [Software is mostly all you need](https://softwarefordays.com/post/software-is-mostly-all-you-need/)
+- [Grid: Forever free, local-first, browser-based 3D printing/CNC/laser slicer](https://grid.space/stem/)
+- [Cutting Up Curved Things](https://campedersen.com/tessellation)
+- [Backseat Software](https://blog.mikeswanson.com/backseat-software/)
+- [The WiFi only works when it&#39;s raining &lpar;2024&rpar;](https://predr.ag/blog/wifi-only-works-when-its-raining/)
+- [The Hallucination Defense](https://niyikiza.com/posts/hallucination-defense/)
+- [Flameshot](https://github.com/flameshot-org/flameshot)
+- [PlayStation 2 Recompilation Project Is Absolutely Incredible](https://redgamingtech.com/playstation-2-recompilation-project-is-absolutely-incredible/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

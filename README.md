@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Carlos Alcaraz v Alexander Zverev: Australian Open 2026 men’s semi-final – live](https://www.theguardian.com/sport/live/2026/jan/30/australian-open-2026-mens-tennis-semi-final-live-carlos-alcaraz-v-alexander-zverev)
-- [Trump sues IRS and US treasury for $10bn over leak of tax returns](https://www.theguardian.com/us-news/2026/jan/29/trump-sues-tax-return-leak)
-- [Company handling Australia’s immigration detention playing key role in Trump’s ICE migrant crackdown](https://www.theguardian.com/australia-news/2026/jan/29/australia-immigration-detention-company-involved-trump-ice-migrant-crackdown)
-- [Keir Starmer opens door to UK visit by Xi Jinping after bilateral talks](https://www.theguardian.com/politics/2026/jan/29/keir-starmer-opens-door-to-uk-visit-by-xi-jinping-after-bilateral-talks)
-- [Ukraine war briefing: Zelenskyy and Merz welcome Trump truce claim and condemn Russia attacks](https://www.theguardian.com/world/2026/jan/30/ukraine-war-briefing-zelenskyy-and-merz-welcome-trump-truce-claim-and-condemn-russia-attacks)
-- [‘We shouldn’t be surprised’: bushfires in Victoria push threatened species to the brink](https://www.theguardian.com/environment/2026/jan/30/victoria-bushfires-threatened-species-australia)
-- [Woman faints after being caned 140 times under Indonesian province’s sharia law](https://www.theguardian.com/world/2026/jan/30/indonesia-sharia-law-woman-caned-140-times-faints)
-- [Venezuela approves bill to open oil sector to foreign investment after US pressure](https://www.theguardian.com/world/2026/jan/30/venezuela-approves-bill-to-open-oil-sector-to-foreign-investment-after-us-pressure)
-- [NHS medical negligence persisting in England ‘despite 24 years of warnings’](https://www.theguardian.com/society/2026/jan/30/nhs-medical-negligence-persisting-in-england-despite-24-years-of-warnings)
-- [‘Chilling’ hacking network is targeting vulnerable children, charity warns](https://www.theguardian.com/society/2026/jan/30/hacking-network-targeting-vulnerable-children-charity-warns-com)
+- [Ukraine war briefing: Zelenskyy fears rising US-Iran tensions will scupper key peace talks in UAE](https://www.theguardian.com/world/2026/jan/31/ukraine-war-briefing-rising-us-iran-tensions-key-peace-talks-in-uae)
+- [Trump news at a glance: Epstein files release shows emails with Trump officials past and present](https://www.theguardian.com/us-news/2026/jan/30/trump-administration-news-updates)
+- [Thousands march in anti-ICE protest in New York City: ‘If it’s them today, it’s us tomorrow’](https://www.theguardian.com/us-news/2026/jan/30/new-york-city-ice-trump-protest)
+- [Heatwave across Australia’s south-east continues for eighth day ahead of a welcome cool change](https://www.theguardian.com/australia-news/2026/jan/31/australia-heatwave-bom-weather-forecast-hot-temperature-eighth-day-cool-change)
+- [I endured the Melania film so you don’t have to – my only regret is not buying popcorn so one of my senses was entertained | Caitlin Cassidy](https://www.theguardian.com/film/commentisfree/2026/jan/31/melania-film-donald-trump-documentary-cinema-sydney-australia)
+- [The arrest of Don Lemon is blatant censorship. And he is not the only one | Seth Stern](https://www.theguardian.com/commentisfree/2026/jan/30/don-lemon-arrest-first-amendment-journalism)
+- [New type of Bordeaux wine to gain official status as result of climate pressure](https://www.theguardian.com/food/2026/jan/31/new-type-of-bordeaux-wine-to-gain-official-status-as-result-of-climate-pressure)
+- [One in seven food delivery businesses in England are ‘dark kitchens’, study shows](https://www.theguardian.com/business/2026/jan/31/one-in-seven-food-delivery-businesses-england-dark-kitchens)
+- [Atlanta FBI boss reportedly ousted after questioning DoJ’s renewed interest in 2020 election](https://www.theguardian.com/us-news/2026/jan/30/atlanta-fbi-boss-reportedly-ousted-fulton-county)
+- [Premier League news: Carrick vows United will not ease up; Isak saga is behind us, says Howe](https://www.theguardian.com/football/2026/jan/30/premier-league-news-michael-carrick-manchester-united-newcastle-eddie-howe-the-talk)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

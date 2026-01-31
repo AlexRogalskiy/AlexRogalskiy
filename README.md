@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Two days of oatmeal reduce cholesterol level](https://www.uni-bonn.de/en/news/017-2026)
-- [9front OS](https://9front.org/)
-- [Software is mostly all you need](https://softwarefordays.com/post/software-is-mostly-all-you-need/)
-- [Grid: Forever free, local-first, browser-based 3D printing/CNC/laser slicer](https://grid.space/stem/)
-- [Cutting Up Curved Things](https://campedersen.com/tessellation)
-- [Backseat Software](https://blog.mikeswanson.com/backseat-software/)
-- [The WiFi only works when it&#39;s raining &lpar;2024&rpar;](https://predr.ag/blog/wifi-only-works-when-its-raining/)
-- [The Hallucination Defense](https://niyikiza.com/posts/hallucination-defense/)
-- [Flameshot](https://github.com/flameshot-org/flameshot)
-- [PlayStation 2 Recompilation Project Is Absolutely Incredible](https://redgamingtech.com/playstation-2-recompilation-project-is-absolutely-incredible/)
+- [Show HN: I trained a 9M speech model to fix my Mandarin tones](https://simedw.com/2026/01/31/ear-pronunication-via-ctc/)
+- [Show HN: Foundry – Turns your repeated workflows into one-click commands](https://github.com/lekt9/openclaw-foundry)
+- [175K+ publicly-exposed Ollama AI instances discovered](https://www.techradar.com/pro/security/over-175-000-publicly-exposed-ollama-ai-servers-discovered-worldwide-so-fix-now)
+- [The $100B megadeal between OpenAI and Nvidia is on ice](https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3)
+- [Stonebraker on CAP theorem and Databases &lpar;2010&rpar;](https://perspectives.mvdirona.com/2010/04/stonebraker-on-cap-theorem-and-databases/)
+- [Show HN: I built an AI conversation partner to practice speaking languages](https://apps.apple.com/us/app/talkbits-speak-naturally/id6756824177)
+- [I trapped an AI model inside an art installation &lpar;2025&rpar; [video]](https://www.youtube.com/watch?v=7fNYj0EXxMs)
+- [P vs. NP and the Difficulty of Computation: A ruliological approach](https://writings.stephenwolfram.com/2026/01/p-vs-np-and-the-difficulty-of-computation-a-ruliological-approach/)
+- [Peerweb: Decentralized website hosting via WebTorrent](https://peerweb.lol/)
+- [Antirender: remove the glossy shine on architectural renderings](https://antirender.com/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

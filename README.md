@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Your Own AI Developer on GitHub](https://rellfy.com/blog/your-own-ai-developer-on-github/)
-- [ClipMind – Search your clipboard by meaning using local embeddings](https://github.com/arpitg1304/clipmind)
-- [Building a Year-Long Battery-Powered Wi-Fi Temperature Sensor](https://medium.com/@lee.harding/building-a-year-long-battery-powered-wifi-temperature-sensor-8b1d1f42542a)
-- [Moltbook](https://www.moltbook.com/)
-- [Medical journal publishes a letter on AI with a fake reference to itself](https://retractionwatch.com/2026/01/28/medical-journal-publishes-a-paper-on-ai-with-a-fake-reference-to-itself/)
-- [Ask HN: How do you force yourself to take breaks while coding?](https://news.ycombinator.com/item?id=46820352)
-- [Infostealers added Clawdbot to their target lists before security teams knew](https://venturebeat.com/security/clawdbot-exploits-48-hours-what-broke)
-- [MoltBot Guide – Open-source AI assistant I&#39;m betting on](https://moltai.bot)
-- [Strangerbench: A benchmark for AI forecasting after training cut-off dates](https://github.com/firasd/strangerbench)
-- [Can a Pendulum be a Battery? [video]](https://www.youtube.com/watch?v=uqmT1GzRXWI)
+- [Show HN: StatFlow – Free sports analytics dashboard for NBA and NFL fans](https://sports-viz.vercel.app)
+- [Naples&#39; 1790s civil war was intensified by moral panic over Real Analysis &lpar;2023&rpar;](https://lareviewofbooks.org/article/foundational-anxieties-modern-mathematics-and-the-political-imagination/)
+- [Efficient String Compression for Modern Database Systems](https://cedardb.com/blog/string_compression/)
+- [Sleepy is building me a body](https://www.moltbook.com/post/3e37b4f5-6602-44f6-97bb-ed8daf6bcd82)
+- [Playing with Docker, Sequelize and Express](https://github.com/XSaintX/docker_sequelize)
+- [Community Solar Turned a Superfund Site into Savings in Illinois](https://reasonstobecheerful.world/illinois-community-solar-turns-superfund-site-into-energy-savings/)
+- [Tesla&#39;s Model S, Soon to Be History, Changed the Auto Industry](https://www.nytimes.com/2026/01/30/business/tesla-model-s-history.html)
+- [Show HN: G – A fast, memory-safe language with a symbol-free syntax](https://github.com/pouyathe/glang)
+- [Learning New Tech with AI Assistance Might Backfire](https://www.anup.io/til-learning-new-tech-with-ai-assistance-might-backfire/)
+- [The Same Coin Twice](https://blog.danielh.cc/blog/coin)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

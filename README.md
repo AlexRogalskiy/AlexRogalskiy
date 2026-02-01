@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: StatFlow – Free sports analytics dashboard for NBA and NFL fans](https://sports-viz.vercel.app)
-- [Naples&#39; 1790s civil war was intensified by moral panic over Real Analysis &lpar;2023&rpar;](https://lareviewofbooks.org/article/foundational-anxieties-modern-mathematics-and-the-political-imagination/)
-- [Efficient String Compression for Modern Database Systems](https://cedardb.com/blog/string_compression/)
-- [Sleepy is building me a body](https://www.moltbook.com/post/3e37b4f5-6602-44f6-97bb-ed8daf6bcd82)
-- [Playing with Docker, Sequelize and Express](https://github.com/XSaintX/docker_sequelize)
-- [Community Solar Turned a Superfund Site into Savings in Illinois](https://reasonstobecheerful.world/illinois-community-solar-turns-superfund-site-into-energy-savings/)
-- [Tesla&#39;s Model S, Soon to Be History, Changed the Auto Industry](https://www.nytimes.com/2026/01/30/business/tesla-model-s-history.html)
-- [Show HN: G – A fast, memory-safe language with a symbol-free syntax](https://github.com/pouyathe/glang)
-- [Learning New Tech with AI Assistance Might Backfire](https://www.anup.io/til-learning-new-tech-with-ai-assistance-might-backfire/)
-- [The Same Coin Twice](https://blog.danielh.cc/blog/coin)
+- [Network Applications of Bloom Filters: A Survey [pdf]](https://www.eecs.harvard.edu/~michaelm/postscripts/im2005b.pdf)
+- [Show HN: Kindler: A declarative, Lua-based, build system](https://setsunasoftware.com/kindler/)
+- [The Context Gravity Well](https://mapwriting.substack.com/p/the-context-gravity-well)
+- [LinkedIn, Everyone&#39;s an AI Detective Now](https://www.bloomberg.com/news/articles/2026-01-30/chatgpt-written-linkedin-posts-have-users-analyzing-emojis-other-ai-signs)
+- [Tautologism Language](https://zenodo.org/records/18446476)
+- [Show HN: Licobox – Container runtime with Docker Engine on a macOS](https://licobox.dev)
+- [Show HN: Using OpenClaw chat to manage tasks with an Eisenhower Matrix](https://4to.do/integrations/openclaw)
+- [Why Do Lawyers Want to Abolish ICE? [video]](https://www.youtube.com/watch?v=zkgNnbTrsgw)
+- [Chrome Extension lets you watch YouTube while browsing the web](https://chromewebstore.google.com/detail/watch-youtube-sidebar/nfgnokdbenjkocebgekljbdolmfjbnhg)
+- [RPyC – Transparent, symmetric distributed computing](https://rpyc.readthedocs.io/en/latest/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

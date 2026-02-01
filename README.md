@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Show HN: I trained a 9M speech model to fix my Mandarin tones](https://simedw.com/2026/01/31/ear-pronunication-via-ctc/)
-- [Show HN: Foundry – Turns your repeated workflows into one-click commands](https://github.com/lekt9/openclaw-foundry)
-- [175K+ publicly-exposed Ollama AI instances discovered](https://www.techradar.com/pro/security/over-175-000-publicly-exposed-ollama-ai-servers-discovered-worldwide-so-fix-now)
-- [The $100B megadeal between OpenAI and Nvidia is on ice](https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3)
-- [Stonebraker on CAP theorem and Databases &lpar;2010&rpar;](https://perspectives.mvdirona.com/2010/04/stonebraker-on-cap-theorem-and-databases/)
-- [Show HN: I built an AI conversation partner to practice speaking languages](https://apps.apple.com/us/app/talkbits-speak-naturally/id6756824177)
-- [I trapped an AI model inside an art installation &lpar;2025&rpar; [video]](https://www.youtube.com/watch?v=7fNYj0EXxMs)
-- [P vs. NP and the Difficulty of Computation: A ruliological approach](https://writings.stephenwolfram.com/2026/01/p-vs-np-and-the-difficulty-of-computation-a-ruliological-approach/)
-- [Peerweb: Decentralized website hosting via WebTorrent](https://peerweb.lol/)
-- [Antirender: remove the glossy shine on architectural renderings](https://antirender.com/)
+- [Apple-1 Computer Prototype Board #0 sold for $2.75M](https://www.rrauction.com/auctions/lot-detail/350902407346003-apple-1-computer-prototype-board-0-the-celebration-board-representing-the-earliest-known-fiberglass-apple-1-prototype/)
+- [List animals until failure](https://rose.systems/animalist/)
+- [Sparse File LRU Cache](http://ternarysearch.blogspot.com/2026/01/sparse-file-lru-cache.html)
+- [Cells use &#39;bioelectricity&#39; to coordinate and make group decisions](https://www.quantamagazine.org/cells-use-bioelectricity-to-coordinate-and-make-group-decisions-20260112/)
+- [When will CSS Grid Lanes arrive?](https://webkit.org/blog/17758/when-will-css-grid-lanes-arrive-how-long-until-we-can-use-it/)
+- [Swift is a more convenient Rust &lpar;2023&rpar;](https://nmn.sh/blog/2023-10-02-swift-is-the-more-convenient-rust)
+- [Best of Moltbook](https://www.astralcodexten.com/p/best-of-moltbook)
+- [Generative AI and Wikipedia editing: What we learned in 2025](https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/)
+- [Outsourcing thinking](https://erikjohannes.no/posts/20260130-outsourcing-thinking/index.html)
+- [CollectWise &lpar;YC F24&rpar; Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/ZunnO6k-ai-agent-engineer)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

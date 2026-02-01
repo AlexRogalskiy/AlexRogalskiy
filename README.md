@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine war briefing: Zelenskyy fears rising US-Iran tensions will scupper key peace talks in UAE](https://www.theguardian.com/world/2026/jan/31/ukraine-war-briefing-rising-us-iran-tensions-key-peace-talks-in-uae)
-- [Trump news at a glance: Epstein files release shows emails with Trump officials past and present](https://www.theguardian.com/us-news/2026/jan/30/trump-administration-news-updates)
-- [Thousands march in anti-ICE protest in New York City: ‘If it’s them today, it’s us tomorrow’](https://www.theguardian.com/us-news/2026/jan/30/new-york-city-ice-trump-protest)
-- [Heatwave across Australia’s south-east continues for eighth day ahead of a welcome cool change](https://www.theguardian.com/australia-news/2026/jan/31/australia-heatwave-bom-weather-forecast-hot-temperature-eighth-day-cool-change)
-- [I endured the Melania film so you don’t have to – my only regret is not buying popcorn so one of my senses was entertained | Caitlin Cassidy](https://www.theguardian.com/film/commentisfree/2026/jan/31/melania-film-donald-trump-documentary-cinema-sydney-australia)
-- [The arrest of Don Lemon is blatant censorship. And he is not the only one | Seth Stern](https://www.theguardian.com/commentisfree/2026/jan/30/don-lemon-arrest-first-amendment-journalism)
-- [New type of Bordeaux wine to gain official status as result of climate pressure](https://www.theguardian.com/food/2026/jan/31/new-type-of-bordeaux-wine-to-gain-official-status-as-result-of-climate-pressure)
-- [One in seven food delivery businesses in England are ‘dark kitchens’, study shows](https://www.theguardian.com/business/2026/jan/31/one-in-seven-food-delivery-businesses-england-dark-kitchens)
-- [Atlanta FBI boss reportedly ousted after questioning DoJ’s renewed interest in 2020 election](https://www.theguardian.com/us-news/2026/jan/30/atlanta-fbi-boss-reportedly-ousted-fulton-county)
-- [Premier League news: Carrick vows United will not ease up; Isak saga is behind us, says Howe](https://www.theguardian.com/football/2026/jan/30/premier-league-news-michael-carrick-manchester-united-newcastle-eddie-howe-the-talk)
+- [Jarrell Miller’s hairpiece punched off during MSG fight … and boxer goes on to claim victory](https://www.theguardian.com/sport/2026/jan/31/boxer-hairpiece-knocked-off-jarrell-miller-kingsley-ibeh-undercard)
+- [Ukraine war briefing: US reports ’constructive’ peace talks with Russia as Zelenskyy pushes for ‘results’](https://www.theguardian.com/world/2026/feb/01/ukraine-war-briefing-us-reports-constructive-peace-talks-with-russia)
+- [More than 120 dead after multiple suicide and gun attacks in Pakistan, officials say](https://www.theguardian.com/world/2026/feb/01/dozens-killed-multiple-attacks-pakistan)
+- [Konaté offered to make early Liverpool return after father’s death, Slot reveals](https://www.theguardian.com/football/2026/feb/01/ibrahima-konate-arne-slot-liverpool-newcastle)
+- [Walk this way: new Australian hikes to try in 2026](https://www.theguardian.com/travel/2026/feb/01/new-hikes-walks-australia-2026)
+- [Trump says Iran ‘talking to’ US and hints at deal to avoid military strikes](https://www.theguardian.com/world/2026/jan/31/trump-hints-at-deal-with-iran-to-avoid-military-strikes)
+- [Shooting at Mardi Gras parade in Louisiana leaves six people injured](https://www.theguardian.com/us-news/2026/jan/31/mardi-gras-parade-shooting-louisiana)
+- [Crystal Palace have been chewed up and spat out after their moment in the sun | Jonathan Wilson](https://www.theguardian.com/football/2026/jan/31/crystal-palace-fa-cup-oliver-glasner-premier-league)
+- [Keir Starmer calls on Andrew to testify in US over Jeffrey Epstein links](https://www.theguardian.com/uk-news/2026/jan/31/keir-starmer-andrew-mountbatten-windsor-testify-us-jeffrey-epstein-links)
+- [Enzo Fernández seals thrilling Chelsea fightback to shatter 10-man West Ham](https://www.theguardian.com/football/2026/jan/31/chelsea-west-ham-premier-league-match-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

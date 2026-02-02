@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Jarrell Miller’s hairpiece punched off during MSG fight … and boxer goes on to claim victory](https://www.theguardian.com/sport/2026/jan/31/boxer-hairpiece-knocked-off-jarrell-miller-kingsley-ibeh-undercard)
-- [Ukraine war briefing: US reports ’constructive’ peace talks with Russia as Zelenskyy pushes for ‘results’](https://www.theguardian.com/world/2026/feb/01/ukraine-war-briefing-us-reports-constructive-peace-talks-with-russia)
-- [More than 120 dead after multiple suicide and gun attacks in Pakistan, officials say](https://www.theguardian.com/world/2026/feb/01/dozens-killed-multiple-attacks-pakistan)
-- [Konaté offered to make early Liverpool return after father’s death, Slot reveals](https://www.theguardian.com/football/2026/feb/01/ibrahima-konate-arne-slot-liverpool-newcastle)
-- [Walk this way: new Australian hikes to try in 2026](https://www.theguardian.com/travel/2026/feb/01/new-hikes-walks-australia-2026)
-- [Trump says Iran ‘talking to’ US and hints at deal to avoid military strikes](https://www.theguardian.com/world/2026/jan/31/trump-hints-at-deal-with-iran-to-avoid-military-strikes)
-- [Shooting at Mardi Gras parade in Louisiana leaves six people injured](https://www.theguardian.com/us-news/2026/jan/31/mardi-gras-parade-shooting-louisiana)
-- [Crystal Palace have been chewed up and spat out after their moment in the sun | Jonathan Wilson](https://www.theguardian.com/football/2026/jan/31/crystal-palace-fa-cup-oliver-glasner-premier-league)
-- [Keir Starmer calls on Andrew to testify in US over Jeffrey Epstein links](https://www.theguardian.com/uk-news/2026/jan/31/keir-starmer-andrew-mountbatten-windsor-testify-us-jeffrey-epstein-links)
-- [Enzo Fernández seals thrilling Chelsea fightback to shatter 10-man West Ham](https://www.theguardian.com/football/2026/jan/31/chelsea-west-ham-premier-league-match-report)
+- [Grammys 2026: winners Bad Bunny and Olivia Dean share anti-ICE comments on stage – live!](https://www.theguardian.com/music/live/2026/feb/01/grammys-2026-winners-losers-live)
+- [Trump news at a glance: Kennedy Center to close; Epstein case ‘over’, says deputy US attorney general](https://www.theguardian.com/us-news/2026/feb/02/trump-administration-news-updates-today)
+- [Kennedy Center will halt entertainment operations for two years, Trump says](https://www.theguardian.com/us-news/2026/feb/01/kennedy-center-dc-closed-trump)
+- [American Psycho review – yuppies making a killing offers a chilling origin story for our corrupt times](https://www.theguardian.com/stage/2026/feb/02/american-psycho-review-almeida-theatre-london-rupert-goold)
+- [Dyson PencilVac Fluffycones review: an ultra-light vacuum you’ll actually enjoy using](https://www.theguardian.com/thefilter/2026/feb/02/dyson-pencilvac-fluffycones-review)
+- [Snapchat blocks more than 400,000 Australian accounts but warns of ‘significant gaps’ in under-16s social media ban](https://www.theguardian.com/australia-news/2026/feb/02/snapchat-blocks-more-than-400000-australian-accounts-but-warns-of-significant-gaps-in-under-16s-social-media-ban)
+- [My youngest is starting school for the first time. How can I best preserve his relentless curiosity? | Shadi Khan Saif](https://www.theguardian.com/commentisfree/2026/feb/02/australia-back-to-school-first-day-children-learning-curiosity)
+- [Bomb cyclone brings freezing temperatures and snow to millions in US](https://www.theguardian.com/us-news/2026/feb/01/bomb-cyclone-snow-cold-weather-storm-us)
+- [European football: Mbappé wins it late for Real Madrid after Bellingham limps off](https://www.theguardian.com/football/2026/feb/01/european-football-mbappe-real-madrid-after-bellingham-limps-off)
+- [Mandelson resigns from Labour to prevent ‘further embarrassment’ over Epstein links](https://www.theguardian.com/politics/2026/feb/01/mandelson-should-testify-before-us-congress-about-his-links-to-epstein-uk-minister-says)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Apple-1 Computer Prototype Board #0 sold for $2.75M](https://www.rrauction.com/auctions/lot-detail/350902407346003-apple-1-computer-prototype-board-0-the-celebration-board-representing-the-earliest-known-fiberglass-apple-1-prototype/)
-- [List animals until failure](https://rose.systems/animalist/)
-- [Sparse File LRU Cache](http://ternarysearch.blogspot.com/2026/01/sparse-file-lru-cache.html)
-- [Cells use &#39;bioelectricity&#39; to coordinate and make group decisions](https://www.quantamagazine.org/cells-use-bioelectricity-to-coordinate-and-make-group-decisions-20260112/)
-- [When will CSS Grid Lanes arrive?](https://webkit.org/blog/17758/when-will-css-grid-lanes-arrive-how-long-until-we-can-use-it/)
-- [Swift is a more convenient Rust &lpar;2023&rpar;](https://nmn.sh/blog/2023-10-02-swift-is-the-more-convenient-rust)
-- [Best of Moltbook](https://www.astralcodexten.com/p/best-of-moltbook)
-- [Generative AI and Wikipedia editing: What we learned in 2025](https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/)
-- [Outsourcing thinking](https://erikjohannes.no/posts/20260130-outsourcing-thinking/index.html)
-- [CollectWise &lpar;YC F24&rpar; Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/ZunnO6k-ai-agent-engineer)
+- [ICE protester says her Global Entry was revoked after agent scanned her face](https://arstechnica.com/tech-policy/2026/01/ice-protester-says-her-global-entry-was-revoked-after-agent-scanned-her-face/)
+- [Notepad++ hijacked by state-sponsored actors](https://notepad-plus-plus.org/news/hijacked-incident-info-update/)
+- [Actors: A Model of Concurrent Computation [pdf] &lpar;1985&rpar;](https://apps.dtic.mil/sti/tr/pdf/ADA157917.pdf)
+- [Show HN: Wikipedia as a doomscrollable social media feed](https://xikipedia.org)
+- [Time Machine-style Backups with rsync &lpar;2018&rpar;](https://samuelhewitt.com/blog/2018-06-05-time-machine-style-backups-with-rsync)
+- [History and Timeline of the Proco Rat Pedal &lpar;2021&rpar;](https://web.archive.org/web/20211030011207/https://thejhsshow.com/articles/history-and-timeline-of-the-proco-rat-pedal)
+- [Two kinds of AI users are emerging](https://martinalderson.com/posts/two-kinds-of-ai-users-are-emerging/)
+- [Show HN: NanoClaw – “Clawdbot” in 500 lines of TS with Apple container isolation](https://github.com/gavrielc/nanoclaw)
+- [Treasures found on HS2 route stored in secret warehouse](https://www.bbc.com/news/articles/c93v21q5xdvo)
+- [Defeating a 40-year-old copy protection dongle](https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Network Applications of Bloom Filters: A Survey [pdf]](https://www.eecs.harvard.edu/~michaelm/postscripts/im2005b.pdf)
-- [Show HN: Kindler: A declarative, Lua-based, build system](https://setsunasoftware.com/kindler/)
-- [The Context Gravity Well](https://mapwriting.substack.com/p/the-context-gravity-well)
-- [LinkedIn, Everyone&#39;s an AI Detective Now](https://www.bloomberg.com/news/articles/2026-01-30/chatgpt-written-linkedin-posts-have-users-analyzing-emojis-other-ai-signs)
-- [Tautologism Language](https://zenodo.org/records/18446476)
-- [Show HN: Licobox – Container runtime with Docker Engine on a macOS](https://licobox.dev)
-- [Show HN: Using OpenClaw chat to manage tasks with an Eisenhower Matrix](https://4to.do/integrations/openclaw)
-- [Why Do Lawyers Want to Abolish ICE? [video]](https://www.youtube.com/watch?v=zkgNnbTrsgw)
-- [Chrome Extension lets you watch YouTube while browsing the web](https://chromewebstore.google.com/detail/watch-youtube-sidebar/nfgnokdbenjkocebgekljbdolmfjbnhg)
-- [RPyC – Transparent, symmetric distributed computing](https://rpyc.readthedocs.io/en/latest/)
+- [The GenAI era started. AI Fashion show &lpar;Part 130a&rpar;](http://codrutapoenaru.blogspot.com/2026/02/the-era-of-genai-started.html)
+- [Is Your Minneapolis Tree Secretly Suffering?](https://www.thegentlearbor.com/the-problem)
+- [BYOC Isn&#39;t &quot;SaaS Anywhere&quot;: A Design Playbook](https://www.tensor9.com/resources/byoc-playbook/)
+- [NanoStorage: High-performance LocalStorage compression using native API](https://github.com/qanteSm/NanoStorage)
+- [The Bots Are Talking About Enslaving Us Now](https://www.youtube.com/watch?v=8diNn0Go3-M)
+- [Show HN: Claw-daw – offline, deterministic terminal-first DAW](https://www.clawdaw.com)
+- [The Wild Markets Behind Polymarket&#39;s &#39;Truth Machine&#39;](https://www.wsj.com/finance/regulation/polymarket-prediction-markets-kalshi-dd4702d6)
+- [Palmer Luckey told you so](https://www.businessinsider.com/palmer-luckey-america-worlds-gun-store-defense-tech-2025-12)
+- [RentAHuman: A marketplace where AI agents hire humans](https://rentahuman.ai)
+- [Show HN: Earth Grief Collective](https://childrensbookforall.org/support-group/4)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

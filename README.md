@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The GenAI era started. AI Fashion show &lpar;Part 130a&rpar;](http://codrutapoenaru.blogspot.com/2026/02/the-era-of-genai-started.html)
-- [Is Your Minneapolis Tree Secretly Suffering?](https://www.thegentlearbor.com/the-problem)
-- [BYOC Isn&#39;t &quot;SaaS Anywhere&quot;: A Design Playbook](https://www.tensor9.com/resources/byoc-playbook/)
-- [NanoStorage: High-performance LocalStorage compression using native API](https://github.com/qanteSm/NanoStorage)
-- [The Bots Are Talking About Enslaving Us Now](https://www.youtube.com/watch?v=8diNn0Go3-M)
-- [Show HN: Claw-daw – offline, deterministic terminal-first DAW](https://www.clawdaw.com)
-- [The Wild Markets Behind Polymarket&#39;s &#39;Truth Machine&#39;](https://www.wsj.com/finance/regulation/polymarket-prediction-markets-kalshi-dd4702d6)
-- [Palmer Luckey told you so](https://www.businessinsider.com/palmer-luckey-america-worlds-gun-store-defense-tech-2025-12)
-- [RentAHuman: A marketplace where AI agents hire humans](https://rentahuman.ai)
-- [Show HN: Earth Grief Collective](https://childrensbookforall.org/support-group/4)
+- [Innovation Biopics](https://arbesman.substack.com/p/innovation-biopics)
+- [Viewing Forth](https://programmingsimplicity.substack.com/p/viewing-forth)
+- [33rpm – A vinyl screensaver for your Mac](https://33rpm.noonpacific.com/)
+- [The Recent 0-Days in Node.js and React Were Found by an AI](https://winfunc.com/blog/recent-0-days-in-nodejs-and-react-were-found-by-an-ai)
+- [The Coherence Premium](https://www.joanwestenberg.com/the-coherence-premium/)
+- [Zai/GLM-OCR](https://huggingface.co/zai-org/GLM-OCR)
+- [xAI engineer fired for leaking secret &quot;Human Emulator&quot; project – Macrohard](https://www.youtube.com/watch?v=0hDMSS1p-UY)
+- [Predicting Math.random&lpar;&rpar; in Firefox Using Z3 SMT-Solver](https://yurichev.com/blog/xorshift/)
+- [AI After Drug Development](https://asteriskmag.substack.com/p/ai-after-drug-development)
+- [Opus 4.5 designed a political Magic the Gathering set](https://github.com/FeSens/Mirrodin-Manifest)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

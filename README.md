@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Grammys 2026: winners Bad Bunny and Olivia Dean share anti-ICE comments on stage – live!](https://www.theguardian.com/music/live/2026/feb/01/grammys-2026-winners-losers-live)
-- [Trump news at a glance: Kennedy Center to close; Epstein case ‘over’, says deputy US attorney general](https://www.theguardian.com/us-news/2026/feb/02/trump-administration-news-updates-today)
-- [Kennedy Center will halt entertainment operations for two years, Trump says](https://www.theguardian.com/us-news/2026/feb/01/kennedy-center-dc-closed-trump)
-- [American Psycho review – yuppies making a killing offers a chilling origin story for our corrupt times](https://www.theguardian.com/stage/2026/feb/02/american-psycho-review-almeida-theatre-london-rupert-goold)
-- [Dyson PencilVac Fluffycones review: an ultra-light vacuum you’ll actually enjoy using](https://www.theguardian.com/thefilter/2026/feb/02/dyson-pencilvac-fluffycones-review)
-- [Snapchat blocks more than 400,000 Australian accounts but warns of ‘significant gaps’ in under-16s social media ban](https://www.theguardian.com/australia-news/2026/feb/02/snapchat-blocks-more-than-400000-australian-accounts-but-warns-of-significant-gaps-in-under-16s-social-media-ban)
-- [My youngest is starting school for the first time. How can I best preserve his relentless curiosity? | Shadi Khan Saif](https://www.theguardian.com/commentisfree/2026/feb/02/australia-back-to-school-first-day-children-learning-curiosity)
-- [Bomb cyclone brings freezing temperatures and snow to millions in US](https://www.theguardian.com/us-news/2026/feb/01/bomb-cyclone-snow-cold-weather-storm-us)
-- [European football: Mbappé wins it late for Real Madrid after Bellingham limps off](https://www.theguardian.com/football/2026/feb/01/european-football-mbappe-real-madrid-after-bellingham-limps-off)
-- [Mandelson resigns from Labour to prevent ‘further embarrassment’ over Epstein links](https://www.theguardian.com/politics/2026/feb/01/mandelson-should-testify-before-us-congress-about-his-links-to-epstein-uk-minister-says)
+- [Ukraine war briefing: Kyiv under Russian missile attack after Trump says US may have ‘good news’ on war](https://www.theguardian.com/world/2026/feb/03/ukraine-war-briefing-kyiv-under-russian-missile-attack)
+- [Mark of Cain singer comes out as trans ‘to finally live as myself’](https://www.theguardian.com/music/2026/feb/03/mark-of-cain-singer-josie-scott-comes-out-as-trans-to-finally-live-as-myself)
+- [Trump unveils $12bn critical minerals stockpile scheme in apparent move to counter China’s dominance](https://www.theguardian.com/us-news/2026/feb/03/trump-critical-minerals-stockpile-project-vault)
+- [Boy swims four hours through rough seas to save mother and siblings off Western Australia](https://www.theguardian.com/australia-news/2026/feb/03/boy-swims-four-hours-rescue-family-western-australia)
+- [The exiled Awami league members plotting a political comeback in Bangladesh – from India](https://www.theguardian.com/world/2026/feb/03/exiled-awami-league-members-political-comeback-india)
+- [Palantir beats Wall Street expectations amid Trump immigration crackdown](https://www.theguardian.com/technology/2026/feb/02/palantir-financial-results-ice-trump-immigration)
+- [Figure skater forced to scrap Olympic routine after Minions music copyright dispute](https://www.theguardian.com/sport/2026/feb/03/figure-skating-minions-music-copyright-olympics)
+- [Iran’s top diplomat says government is ready for talks with US on a nuclear deal](https://www.theguardian.com/world/2026/feb/02/iran-abbas-araghchi-talks-us-nuclear-deal)
+- [Beijing condemns Dalai Lama’s Grammy win as ‘anti-China political manipulation’](https://www.theguardian.com/world/2026/feb/02/grammys-2026-dalai-lama-first-grammy-award-win)
+- [Bill and Hillary Clinton agree to testify in House Epstein investigation](https://www.theguardian.com/us-news/2026/feb/02/bill-clinton-interview-rejected-epstein)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

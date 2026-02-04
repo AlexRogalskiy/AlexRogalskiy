@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Banning lead in gas worked. The proof is in our hair](https://attheu.utah.edu/health-medicine/banning-lead-in-gas-worked-the-proof-is-in-our-hair/)
-- [GitHub discusses giving maintainers control to disable PRs](https://github.com/orgs/community/discussions/185387)
-- [How does misalignment scale with model intelligence and task complexity?](https://alignment.anthropic.com/2026/hot-mess-of-ai/)
-- [Firefox Getting New Controls to Turn Off AI Features](https://www.macrumors.com/2026/02/02/firefox-ai-toggle/)
-- [Julia](https://borretti.me/fiction/julia)
-- [The TSA&#39;s New $45 Fee to Fly Without ID Is Illegal](https://www.frommers.com/tips/airfare/the-tsa-new-45-fee-to-fly-without-id-is-illegal-says-regulatory-expert/)
-- [Court orders restart of all US offshore wind power construction](https://arstechnica.com/science/2026/02/court-orders-restart-of-all-us-offshore-wind-construction/)
-- [xAI joins SpaceX](https://www.spacex.com/updates#xai-joins-spacex)
-- [GitHub experience various partial-outages/degradations](https://www.githubstatus.com?todayis=2026-02-02)
-- [Anki ownership transferred to AnkiHub](https://forums.ankiweb.net/t/ankis-growing-up/68610)
+- [Notepad++ supply chain attack breakdown](https://securelist.com/notepad-supply-chain-attack/118708/)
+- [FlashAttention-T: Towards Tensorized Attention](https://dl.acm.org/doi/10.1145/3774934.3786425)
+- [Data centers in space makes no sense](https://civai.org/blog/space-data-centers)
+- [China Moon Mission: Aiming for 2030 lunar landing](https://spectrum.ieee.org/china-moon-mission-mengzhou-artemis)
+- [AliSQL: Alibaba&#39;s open-source MySQL with vector and DuckDB engines](https://github.com/alibaba/AliSQL)
+- [Y Combinator will let founders receive funds in stablecoins](https://fortune.com/2026/02/03/famed-startup-incubator-y-combinator-to-let-founders-receive-funds-in-stablecoins/)
+- [Xcode 26.3 – Developers can leverage coding agents directly in Xcode](https://www.apple.com/newsroom/2026/02/xcode-26-point-3-unlocks-the-power-of-agentic-coding/)
+- [Deno Sandbox](https://deno.com/blog/introducing-deno-sandbox)
+- [221 Cannon is Not For Sale](https://fredbenenson.com/blog/2026/02/03/221-cannon-is-not-for-sale/)
+- [1 kilobyte is precisely 1000 bytes?](https://waspdev.com/articles/2026-01-11/kilobyte-is-1000-bytes)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

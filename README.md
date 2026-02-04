@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Innovation Biopics](https://arbesman.substack.com/p/innovation-biopics)
-- [Viewing Forth](https://programmingsimplicity.substack.com/p/viewing-forth)
-- [33rpm – A vinyl screensaver for your Mac](https://33rpm.noonpacific.com/)
-- [The Recent 0-Days in Node.js and React Were Found by an AI](https://winfunc.com/blog/recent-0-days-in-nodejs-and-react-were-found-by-an-ai)
-- [The Coherence Premium](https://www.joanwestenberg.com/the-coherence-premium/)
-- [Zai/GLM-OCR](https://huggingface.co/zai-org/GLM-OCR)
-- [xAI engineer fired for leaking secret &quot;Human Emulator&quot; project – Macrohard](https://www.youtube.com/watch?v=0hDMSS1p-UY)
-- [Predicting Math.random&lpar;&rpar; in Firefox Using Z3 SMT-Solver](https://yurichev.com/blog/xorshift/)
-- [AI After Drug Development](https://asteriskmag.substack.com/p/ai-after-drug-development)
-- [Opus 4.5 designed a political Magic the Gathering set](https://github.com/FeSens/Mirrodin-Manifest)
+- [Adrian Conejo Arias and child vs. Noem, Bondi, et al. [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.txwd.1172886492/gov.uscourts.txwd.1172886492.9.0.pdf)
+- [Book Review: &#39;The Elements of Power&#39;](https://www.nytimes.com/2026/01/16/books/review/the-elements-of-power-nicolas-niarchos.html)
+- [I Miss Thinking Hard](https://www.jernesto.com/articles/thinking_hard)
+- [The Computer Chronicles – Artificial Intelligence &lpar;1984&rpar;](https://www.youtube.com/watch?v=_S3m0V_ZF_Q)
+- [Show HN: AI-credit – measure AI contribution to a codebase](https://ai-credits.vercel.app)
+- [What Is Overfitting?](https://aws.amazon.com/what-is/overfitting/)
+- [Show HN: OpenClaw Assistant – Replace Google Assistant with Any AI](https://github.com/yuga-hashimoto/OpenClawAssistant)
+- [Stop overpaying for OpenClaw: Multi-model routing guide](https://velvetshark.com/openclaw-multi-model-routing)
+- [Data Agent Ready Database: Designing the Next-Gen Enterprise Data Warehouse](https://www.databend.com/blog/category-product/databend-agent-ready-database)
+- [SHOW HN: Notepad++ Vulnerability Checker](https://github.com/nHunter0/Notepad-vulnerability-checker)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

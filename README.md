@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine war briefing: Kyiv under Russian missile attack after Trump says US may have ‘good news’ on war](https://www.theguardian.com/world/2026/feb/03/ukraine-war-briefing-kyiv-under-russian-missile-attack)
-- [Mark of Cain singer comes out as trans ‘to finally live as myself’](https://www.theguardian.com/music/2026/feb/03/mark-of-cain-singer-josie-scott-comes-out-as-trans-to-finally-live-as-myself)
-- [Trump unveils $12bn critical minerals stockpile scheme in apparent move to counter China’s dominance](https://www.theguardian.com/us-news/2026/feb/03/trump-critical-minerals-stockpile-project-vault)
-- [Boy swims four hours through rough seas to save mother and siblings off Western Australia](https://www.theguardian.com/australia-news/2026/feb/03/boy-swims-four-hours-rescue-family-western-australia)
-- [The exiled Awami league members plotting a political comeback in Bangladesh – from India](https://www.theguardian.com/world/2026/feb/03/exiled-awami-league-members-political-comeback-india)
-- [Palantir beats Wall Street expectations amid Trump immigration crackdown](https://www.theguardian.com/technology/2026/feb/02/palantir-financial-results-ice-trump-immigration)
-- [Figure skater forced to scrap Olympic routine after Minions music copyright dispute](https://www.theguardian.com/sport/2026/feb/03/figure-skating-minions-music-copyright-olympics)
-- [Iran’s top diplomat says government is ready for talks with US on a nuclear deal](https://www.theguardian.com/world/2026/feb/02/iran-abbas-araghchi-talks-us-nuclear-deal)
-- [Beijing condemns Dalai Lama’s Grammy win as ‘anti-China political manipulation’](https://www.theguardian.com/world/2026/feb/02/grammys-2026-dalai-lama-first-grammy-award-win)
-- [Bill and Hillary Clinton agree to testify in House Epstein investigation](https://www.theguardian.com/us-news/2026/feb/02/bill-clinton-interview-rejected-epstein)
+- [Mother says asking 13-year-old son to swim four hours to save family ‘one of the hardest decisions’ ever made](https://www.theguardian.com/australia-news/2026/feb/04/mother-13-year-old-boy-swim-four-hours-save-family)
+- [Ukraine war briefing: second round of Abu Dhabi talks set for tense start after ‘massive’ strikes on Kyiv](https://www.theguardian.com/world/2026/feb/04/ukraine-war-briefing-second-round-talks-abu-dhabi-russia-strike)
+- [Judge temporarily halts ICE from using teargas and projectiles on protesters in Portland](https://www.theguardian.com/us-news/2026/feb/03/portland-judge-ice-teargas-projectiles)
+- [Elon Musk calls Spanish PM a ‘tyrant’ over plan to ban under-16s from social media and curb hateful content](https://www.theguardian.com/media/2026/feb/04/spain-under-16-social-media-ban-elon-musk-insults)
+- [US shoots down Iranian drone flying towards aircraft carrier, navy says](https://www.theguardian.com/us-news/2026/feb/03/us-shoots-down-iranian-drone-arabian-sea-navy-says)
+- [Lucy Letby documentary reveals first admission of ‘tiny’ doubt from doctors who accused her](https://www.theguardian.com/uk-news/2026/feb/04/lucy-letby-documentary-reveals-first-admission-of-tiny-doubt-from-doctors-who-accused-her)
+- [Trump-led abuses amid ‘democratic recession’ put human rights in peril, HRW report says](https://www.theguardian.com/global-development/2026/feb/04/trump-us-china-russia-democratic-recession-peril-human-rights-watch)
+- [One in six autistic pupils in UK have not attended school at all since September](https://www.theguardian.com/education/2026/feb/04/one-in-six-autistic-pupils-in-uk-have-not-attended-school-at-all-since-september)
+- [Cost of UK’s drug price with US will come out of NHS budget](https://www.theguardian.com/society/2026/feb/04/cost-of-uks-drug-price-with-us-will-come-out-of-nhs-budget)
+- [Women in tech and finance at higher risk from AI job losses, report says](https://www.theguardian.com/business/2026/feb/04/women-tech-finance-higher-risk-ai-job-losses-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

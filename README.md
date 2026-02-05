@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Mother says asking 13-year-old son to swim four hours to save family ‘one of the hardest decisions’ ever made](https://www.theguardian.com/australia-news/2026/feb/04/mother-13-year-old-boy-swim-four-hours-save-family)
-- [Ukraine war briefing: second round of Abu Dhabi talks set for tense start after ‘massive’ strikes on Kyiv](https://www.theguardian.com/world/2026/feb/04/ukraine-war-briefing-second-round-talks-abu-dhabi-russia-strike)
-- [Judge temporarily halts ICE from using teargas and projectiles on protesters in Portland](https://www.theguardian.com/us-news/2026/feb/03/portland-judge-ice-teargas-projectiles)
-- [Elon Musk calls Spanish PM a ‘tyrant’ over plan to ban under-16s from social media and curb hateful content](https://www.theguardian.com/media/2026/feb/04/spain-under-16-social-media-ban-elon-musk-insults)
-- [US shoots down Iranian drone flying towards aircraft carrier, navy says](https://www.theguardian.com/us-news/2026/feb/03/us-shoots-down-iranian-drone-arabian-sea-navy-says)
-- [Lucy Letby documentary reveals first admission of ‘tiny’ doubt from doctors who accused her](https://www.theguardian.com/uk-news/2026/feb/04/lucy-letby-documentary-reveals-first-admission-of-tiny-doubt-from-doctors-who-accused-her)
-- [Trump-led abuses amid ‘democratic recession’ put human rights in peril, HRW report says](https://www.theguardian.com/global-development/2026/feb/04/trump-us-china-russia-democratic-recession-peril-human-rights-watch)
-- [One in six autistic pupils in UK have not attended school at all since September](https://www.theguardian.com/education/2026/feb/04/one-in-six-autistic-pupils-in-uk-have-not-attended-school-at-all-since-september)
-- [Cost of UK’s drug price with US will come out of NHS budget](https://www.theguardian.com/society/2026/feb/04/cost-of-uks-drug-price-with-us-will-come-out-of-nhs-budget)
-- [Women in tech and finance at higher risk from AI job losses, report says](https://www.theguardian.com/business/2026/feb/04/women-tech-finance-higher-risk-ai-job-losses-report)
+- [Savannah Guthrie releases video appealing for proof her missing mother is alive](https://www.theguardian.com/us-news/2026/feb/04/savannah-guthrie-missing-mother-video)
+- [Suspect identified in disappearance of four-year-old Gus Lamont in outback South Australia](https://www.theguardian.com/australia-news/2026/feb/05/gus-lamont-disappearance-four-year-old-outback-major-crime-ntwnfb)
+- [‘Major failing’ in psychiatric care before Joel Cauchi stabbed six people at Bondi Junction, coroner finds](https://www.theguardian.com/australia-news/2026/feb/05/major-failing-in-psychiatric-care-before-joel-cauchi-stabbed-six-people-at-bondi-junction-coroner-finds)
+- [‘Grave moment’: end of US-Russia nuclear pact comes at worst possible time, UN chief warns](https://www.theguardian.com/world/2026/feb/05/russia-us-nuclear-new-start-treaty-expires-un-warning)
+- [In America, the social fabric is starting to collapse. Australia must also learn that words shape our world | Martin Luther King III](https://www.theguardian.com/commentisfree/2026/feb/05/in-america-the-social-fabric-is-starting-to-collapse-australia-must-also-learn-that-words-shape-our-world)
+- [Google parent earnings beat projections amid plans to invest deeply in AI](https://www.theguardian.com/technology/2026/feb/04/google-alphabet-earnings-report)
+- [Email appears to confirm photo of Andrew Mountbatten-Windsor and Virginia Giuffre is real](https://www.theguardian.com/uk-news/2026/feb/05/email-appears-to-confirm-photo-of-andrew-mountbatten-windsor-and-virginia-giuffre-is-real)
+- [Flawed economic models mean climate crisis could crash global economy, experts warn](https://www.theguardian.com/environment/2026/feb/05/flawed-economic-models-mean-climate-crisis-could-crash-global-economy-experts-warn)
+- [Minister defends long delays to UK military spending plan](https://www.theguardian.com/politics/2026/feb/05/minister-luke-pollard-defends-long-delays-uk-military-spending-plan)
+- [Green energy sector drove more than 90% of China’s investment growth last year, analysis finds](https://www.theguardian.com/world/2026/feb/05/china-green-energy-sector-investment-growth)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

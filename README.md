@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Adrian Conejo Arias and child vs. Noem, Bondi, et al. [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.txwd.1172886492/gov.uscourts.txwd.1172886492.9.0.pdf)
-- [Book Review: &#39;The Elements of Power&#39;](https://www.nytimes.com/2026/01/16/books/review/the-elements-of-power-nicolas-niarchos.html)
-- [I Miss Thinking Hard](https://www.jernesto.com/articles/thinking_hard)
-- [The Computer Chronicles – Artificial Intelligence &lpar;1984&rpar;](https://www.youtube.com/watch?v=_S3m0V_ZF_Q)
-- [Show HN: AI-credit – measure AI contribution to a codebase](https://ai-credits.vercel.app)
-- [What Is Overfitting?](https://aws.amazon.com/what-is/overfitting/)
-- [Show HN: OpenClaw Assistant – Replace Google Assistant with Any AI](https://github.com/yuga-hashimoto/OpenClawAssistant)
-- [Stop overpaying for OpenClaw: Multi-model routing guide](https://velvetshark.com/openclaw-multi-model-routing)
-- [Data Agent Ready Database: Designing the Next-Gen Enterprise Data Warehouse](https://www.databend.com/blog/category-product/databend-agent-ready-database)
-- [SHOW HN: Notepad++ Vulnerability Checker](https://github.com/nHunter0/Notepad-vulnerability-checker)
+- [Show HN: I&#39;ve been running OpenClaw on a $640 Mac Mini for a week. Honest report](https://github.com/openclaw/openclaw)
+- [Show HN: Tiny PWA to encrypt files using Passkeys](https://filokey.github.io/)
+- [Doc2Calendar – I built an LLM pipeline to parse complex PDF schedules](https://www.doc2calendar.com/)
+- [Ask HN: Is Connecting via SSH Risky?](https://news.ycombinator.com/item?id=46895494)
+- [Betterment Data Breach](https://haveibeenpwned.com/Breach/Betterment)
+- [Show HN: Buquet – Durable queues and workflows using only S3](https://horv.co/buquet.html)
+- [AI Command and Staff–Operational Evidence and Insights from Wargaming](https://www.militarystrategymagazine.com/article/ai-command-and-staff-operational-evidence-and-insights-from-wargaming/)
+- [Understanding the Political Disconnect](https://www.swarthmore.edu/understanding-political-disconnect)
+- [How to Connect with Your Developer Audience &lpar;2022&rpar;](https://maida.kim/how-to-build-developer-audience/)
+- [Open secrets about Hacker News](https://bengtan.com/blog/open-secrets-hacker-news/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

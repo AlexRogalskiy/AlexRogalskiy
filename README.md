@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: I&#39;ve been running OpenClaw on a $640 Mac Mini for a week. Honest report](https://github.com/openclaw/openclaw)
-- [Show HN: Tiny PWA to encrypt files using Passkeys](https://filokey.github.io/)
-- [Doc2Calendar – I built an LLM pipeline to parse complex PDF schedules](https://www.doc2calendar.com/)
-- [Ask HN: Is Connecting via SSH Risky?](https://news.ycombinator.com/item?id=46895494)
-- [Betterment Data Breach](https://haveibeenpwned.com/Breach/Betterment)
-- [Show HN: Buquet – Durable queues and workflows using only S3](https://horv.co/buquet.html)
-- [AI Command and Staff–Operational Evidence and Insights from Wargaming](https://www.militarystrategymagazine.com/article/ai-command-and-staff-operational-evidence-and-insights-from-wargaming/)
-- [Understanding the Political Disconnect](https://www.swarthmore.edu/understanding-political-disconnect)
-- [How to Connect with Your Developer Audience &lpar;2022&rpar;](https://maida.kim/how-to-build-developer-audience/)
-- [Open secrets about Hacker News](https://bengtan.com/blog/open-secrets-hacker-news/)
+- [Overseas transfer of map data could cost Korea up to $136B, study warns](https://www.koreaherald.com/article/10669626)
+- [&#39;Ripping&#39; Clips for YouTube Reaction Videos Can Violate the DMCA, Court Rules](https://torrentfreak.com/ripping-clips-for-youtube-reaction-videos-can-violate-the-dmca-court-rules/)
+- [I2P is currently facing an ongoing attack on its network](https://news.ycombinator.com/item?id=46908950)
+- [Digging into UUID, ULID, and implementing my own](https://atlas9.dev/blog/id-type.html)
+- [Our Kona EBM a 96% vs. 2% Sudoku Benchmark](https://logicalintelligence.com/blog/energy-based-model-sudoku-demo)
+- [I Gave Claude Code Infinity Gauntlet of LLMs](https://github.com/Pickle-Pixel/HydraMCP)
+- [Rdrama Down for the last 2 days](https://news.ycombinator.com/item?id=46908830)
+- [I shipped 706 commits in 5 days with Taskwarrior and Claude Code](https://news.ycombinator.com/item?id=46908809)
+- [&#39; injection&#39; claims in ski jump competition investigation by WADA](https://www.theguardian.com/sport/2026/feb/05/penis-injection-doping-claims-in-winter-olympics-ski-jumping-investigated-by-wada)
+- [Corpus Lifetime free. Track gold, stocks, mutualfunds and net worth in one place](https://icorpus.vercel.app/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

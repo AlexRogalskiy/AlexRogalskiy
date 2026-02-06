@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Child prodigies rarely become elite performers](https://www.economist.com/science-and-technology/2026/01/14/why-child-prodigies-rarely-become-elite-performers)
-- [OpenClaw is what Apple intelligence should have been](https://www.jakequist.com/thoughts/openclaw-is-what-apple-intelligence-should-have-been)
-- [Steam Hardware: Launch timing and other FAQs](https://store.steampowered.com/news/group/45479024/view/625565405086220583)
-- [Why More Companies Are Recognizing the Benefits of Keeping Older Employees](https://longevity.stanford.edu/why-more-companies-are-recognizing-the-benefits-of-keeping-older-employees/)
-- [As Rocks May Think](https://evjang.com/2026/02/04/rocks.html)
-- [A real-world benchmark for AI code review](https://www.qodo.ai/blog/how-we-built-a-real-world-benchmark-for-ai-code-review/)
-- [Show HN: Morph – Videos of AI testing your PR, embedded in GitHub](https://morphllm.com/products/glance)
-- [Tell HN: Another round of Zendesk email spam](https://news.ycombinator.com/item?id=46890418)
-- [Claude Code for Infrastructure](https://www.fluid.sh/)
-- [Building a 24-bit arcade CRT display adapter from scratch](https://www.scd31.com/posts/building-an-arcade-display-adapter)
+- [I reversed Tower of Fantasy&#39;s anti-cheat driver: a BYOVD toolkit never loaded](https://vespalec.com/blog/tower-of-flaws/)
+- [What&#39;s at the Other End of 8.8.8.8?](https://blog.nono.io/post/8.8.8.8/)
+- [GitHub Actions is slowly killing engineering teams](https://www.iankduncan.com/engineering/2026-02-05-github-actions-killing-your-team/)
+- [C isn&#39;t a programming language anymore &lpar;2022&rpar;](https://faultlore.com/blah/c-isnt-a-language/)
+- [Show HN: Local task classifier and dispatcher on RTX 3080](https://github.com/resilientworkflowsentinel/resilient-workflow-sentinel)
+- [The RCE that AMD won&#39;t fix](https://mrbruh.com/amd/)
+- [Show HN: Calfkit – an SDK to build distributed, event-driven AI agents on Kafka](https://github.com/calf-ai/calfkit-sdk)
+- [India&#39;s female workers watching hours of abusive content to train AI](https://www.theguardian.com/global-development/2026/feb/05/in-the-end-you-feel-blank-indias-female-workers-watching-hours-of-abusive-content-to-train-ai)
+- [What if writing tests was a joyful experience? &lpar;2023&rpar;](https://blog.janestreet.com/the-joy-of-expect-tests/)
+- [Review of 1984 by Isaac Asimov &lpar;1980&rpar;](https://www.newworker.org/ncptrory/1984.htm)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

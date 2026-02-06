@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Savannah Guthrie releases video appealing for proof her missing mother is alive](https://www.theguardian.com/us-news/2026/feb/04/savannah-guthrie-missing-mother-video)
-- [Suspect identified in disappearance of four-year-old Gus Lamont in outback South Australia](https://www.theguardian.com/australia-news/2026/feb/05/gus-lamont-disappearance-four-year-old-outback-major-crime-ntwnfb)
-- [‘Major failing’ in psychiatric care before Joel Cauchi stabbed six people at Bondi Junction, coroner finds](https://www.theguardian.com/australia-news/2026/feb/05/major-failing-in-psychiatric-care-before-joel-cauchi-stabbed-six-people-at-bondi-junction-coroner-finds)
-- [‘Grave moment’: end of US-Russia nuclear pact comes at worst possible time, UN chief warns](https://www.theguardian.com/world/2026/feb/05/russia-us-nuclear-new-start-treaty-expires-un-warning)
-- [In America, the social fabric is starting to collapse. Australia must also learn that words shape our world | Martin Luther King III](https://www.theguardian.com/commentisfree/2026/feb/05/in-america-the-social-fabric-is-starting-to-collapse-australia-must-also-learn-that-words-shape-our-world)
-- [Google parent earnings beat projections amid plans to invest deeply in AI](https://www.theguardian.com/technology/2026/feb/04/google-alphabet-earnings-report)
-- [Email appears to confirm photo of Andrew Mountbatten-Windsor and Virginia Giuffre is real](https://www.theguardian.com/uk-news/2026/feb/05/email-appears-to-confirm-photo-of-andrew-mountbatten-windsor-and-virginia-giuffre-is-real)
-- [Flawed economic models mean climate crisis could crash global economy, experts warn](https://www.theguardian.com/environment/2026/feb/05/flawed-economic-models-mean-climate-crisis-could-crash-global-economy-experts-warn)
-- [Minister defends long delays to UK military spending plan](https://www.theguardian.com/politics/2026/feb/05/minister-luke-pollard-defends-long-delays-uk-military-spending-plan)
-- [Green energy sector drove more than 90% of China’s investment growth last year, analysis finds](https://www.theguardian.com/world/2026/feb/05/china-green-energy-sector-investment-growth)
+- [Beautifully strange: Australian landscapes photographed from the sky – in pictures](https://www.theguardian.com/artanddesign/gallery/2026/feb/06/australian-landscapes-photographed-from-sky)
+- [That’s a wrasse! Rare fish spotted for first time since 2009 in kelp forest in Western Australia](https://www.theguardian.com/environment/2026/feb/06/braun-wrasse-rare-fish-kelp-forest-western-australia)
+- [Victims of Colorado funeral home scam prepare to testify: ‘Justice is missing’](https://www.theguardian.com/us-news/2026/feb/05/colorado-funeral-home-scam-sentencing)
+- [Ukraine war briefing: Kyiv and Moscow hold major prisoner exchange](https://www.theguardian.com/world/2026/feb/06/ukraine-war-briefing-kyiv-and-moscow-hold-major-prisoner-exchange)
+- [Japan cherry blossom festival cancelled because of unruly tourist ‘crisis’](https://www.theguardian.com/world/2026/feb/06/japan-cherry-blossom-festival-cancelled-tourists)
+- [Jewish Australians must be safe from fear or harassment. But shielding Isaac Herzog from legitimate protest is not the answer | George Newhouse](https://www.theguardian.com/commentisfree/2026/feb/06/israel-president-issac-herzog-legitimate-protest-ntwnfb)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2026/feb/06/ten-things-to-look-out-for-premier-league)
+- [Bielle-Biarrey stars as France outplay Ireland to lay down a Six Nations marker](https://www.theguardian.com/sport/2026/feb/05/france-ireland-six-nations-match-report)
+- [Amazon reveals plans to spend $200bn in one year the day after Bezos guts Washington Post](https://www.theguardian.com/technology/2026/feb/05/amazon-ai-robotics-bezos-washington-post)
+- [Most statin side-effects not caused by the drugs, study finds](https://www.theguardian.com/society/2026/feb/05/majority-statins-side-effects-not-caused-by-drug)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

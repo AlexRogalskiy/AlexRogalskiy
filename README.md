@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [I reversed Tower of Fantasy&#39;s anti-cheat driver: a BYOVD toolkit never loaded](https://vespalec.com/blog/tower-of-flaws/)
-- [What&#39;s at the Other End of 8.8.8.8?](https://blog.nono.io/post/8.8.8.8/)
-- [GitHub Actions is slowly killing engineering teams](https://www.iankduncan.com/engineering/2026-02-05-github-actions-killing-your-team/)
-- [C isn&#39;t a programming language anymore &lpar;2022&rpar;](https://faultlore.com/blah/c-isnt-a-language/)
-- [Show HN: Local task classifier and dispatcher on RTX 3080](https://github.com/resilientworkflowsentinel/resilient-workflow-sentinel)
-- [The RCE that AMD won&#39;t fix](https://mrbruh.com/amd/)
-- [Show HN: Calfkit – an SDK to build distributed, event-driven AI agents on Kafka](https://github.com/calf-ai/calfkit-sdk)
-- [India&#39;s female workers watching hours of abusive content to train AI](https://www.theguardian.com/global-development/2026/feb/05/in-the-end-you-feel-blank-indias-female-workers-watching-hours-of-abusive-content-to-train-ai)
-- [What if writing tests was a joyful experience? &lpar;2023&rpar;](https://blog.janestreet.com/the-joy-of-expect-tests/)
-- [Review of 1984 by Isaac Asimov &lpar;1980&rpar;](https://www.newworker.org/ncptrory/1984.htm)
+- [Make Trust Irrelevant: A Gamer&#39;s Take on Agentic AI Safety](https://github.com/Deso-PK/make-trust-irrelevant)
+- [Female Asian Elephant Calf Born at the Smithsonian National Zoo](https://www.si.edu/newsdesk/releases/female-asian-elephant-calf-born-smithsonians-national-zoo-and-conservation?user_id=66c4bf745d78644b3aa57b08&utm_medium=email&utm_placement=newsletter&utm_source=join1440)
+- [Why I Joined OpenAI](https://www.brendangregg.com/blog/2026-02-07/why-i-joined-openai.html)
+- [I&#39;m going to cure my girlfriend&#39;s brain tumor](https://andrewjrod.substack.com/p/im-going-to-cure-my-girlfriends-brain)
+- [Introducing the Developer Knowledge API and MCP Server](https://developers.googleblog.com/introducing-the-developer-knowledge-api-and-mcp-server/)
+- [Show HN: R3forth, a ColorForth-inspired language with a tiny VM](https://github.com/phreda4/r3)
+- [OpenCiv3: Open-source, cross-platform reimagining of Civilization III](https://openciv3.org/)
+- [Show HN: Look Ma, No Linux: Shell, App Installer, Vi, Cc on ESP32-S3 / BreezyBox](https://github.com/valdanylchuk/breezydemo)
+- [Monty: A minimal, secure Python interpreter written in Rust for use by AI](https://github.com/pydantic/monty)
+- [Show HN: I spent 4 years building a UI design tool with only the features I use](https://vecti.com)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

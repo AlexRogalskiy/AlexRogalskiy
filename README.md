@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Overseas transfer of map data could cost Korea up to $136B, study warns](https://www.koreaherald.com/article/10669626)
-- [&#39;Ripping&#39; Clips for YouTube Reaction Videos Can Violate the DMCA, Court Rules](https://torrentfreak.com/ripping-clips-for-youtube-reaction-videos-can-violate-the-dmca-court-rules/)
-- [I2P is currently facing an ongoing attack on its network](https://news.ycombinator.com/item?id=46908950)
-- [Digging into UUID, ULID, and implementing my own](https://atlas9.dev/blog/id-type.html)
-- [Our Kona EBM a 96% vs. 2% Sudoku Benchmark](https://logicalintelligence.com/blog/energy-based-model-sudoku-demo)
-- [I Gave Claude Code Infinity Gauntlet of LLMs](https://github.com/Pickle-Pixel/HydraMCP)
-- [Rdrama Down for the last 2 days](https://news.ycombinator.com/item?id=46908830)
-- [I shipped 706 commits in 5 days with Taskwarrior and Claude Code](https://news.ycombinator.com/item?id=46908809)
-- [&#39; injection&#39; claims in ski jump competition investigation by WADA](https://www.theguardian.com/sport/2026/feb/05/penis-injection-doping-claims-in-winter-olympics-ski-jumping-investigated-by-wada)
-- [Corpus Lifetime free. Track gold, stocks, mutualfunds and net worth in one place](https://icorpus.vercel.app/)
+- [Porting Doom to My WebAssembly VM](https://irreducible.io/blog/porting-doom-to-wasm/)
+- [Cognitive Style and Visual Attention in Multimodal Museum Exhibitions](https://www.mdpi.com/2075-5309/15/16/2968)
+- [Full-Blown Cross-Assembler in a Bash Script](https://hackaday.com/2026/02/06/full-blown-cross-assembler-in-a-bash-script/)
+- [Logic Puzzles: Why the Liar Is the Helpful One](https://blog.szczepan.org/blog/knights-and-knaves/)
+- [Optical Combs Help Radio Telescopes Work Together](https://hackaday.com/2026/02/03/optical-combs-help-radio-telescopes-work-together/)
+- [Show HN: Myanon – fast, deterministic MySQL dump anonymizer](https://github.com/ppomes/myanon)
+- [The Tao of Programming](http://www.canonical.org/~kragen/tao-of-programming.html)
+- [Forcing Rust: How Big Tech Lobbied the Government into a Language Mandate](https://medium.com/@ognian.milanov/forcing-rust-how-big-tech-lobbied-the-government-into-a-language-mandate-40ee80cbc148)
+- [PanelBench: We evaluated Cursor&#39;s Visual Editor on 89 test cases. 43 fail](https://www.tryinspector.com/blog/code-first-design-tools)
+- [Can You Draw Every Flag in PowerPoint? &lpar;Part 2&rpar; [video]](https://www.youtube.com/watch?v=BztF7MODsKI)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

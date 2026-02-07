@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Beautifully strange: Australian landscapes photographed from the sky – in pictures](https://www.theguardian.com/artanddesign/gallery/2026/feb/06/australian-landscapes-photographed-from-sky)
-- [That’s a wrasse! Rare fish spotted for first time since 2009 in kelp forest in Western Australia](https://www.theguardian.com/environment/2026/feb/06/braun-wrasse-rare-fish-kelp-forest-western-australia)
-- [Victims of Colorado funeral home scam prepare to testify: ‘Justice is missing’](https://www.theguardian.com/us-news/2026/feb/05/colorado-funeral-home-scam-sentencing)
-- [Ukraine war briefing: Kyiv and Moscow hold major prisoner exchange](https://www.theguardian.com/world/2026/feb/06/ukraine-war-briefing-kyiv-and-moscow-hold-major-prisoner-exchange)
-- [Japan cherry blossom festival cancelled because of unruly tourist ‘crisis’](https://www.theguardian.com/world/2026/feb/06/japan-cherry-blossom-festival-cancelled-tourists)
-- [Jewish Australians must be safe from fear or harassment. But shielding Isaac Herzog from legitimate protest is not the answer | George Newhouse](https://www.theguardian.com/commentisfree/2026/feb/06/israel-president-issac-herzog-legitimate-protest-ntwnfb)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2026/feb/06/ten-things-to-look-out-for-premier-league)
-- [Bielle-Biarrey stars as France outplay Ireland to lay down a Six Nations marker](https://www.theguardian.com/sport/2026/feb/05/france-ireland-six-nations-match-report)
-- [Amazon reveals plans to spend $200bn in one year the day after Bezos guts Washington Post](https://www.theguardian.com/technology/2026/feb/05/amazon-ai-robotics-bezos-washington-post)
-- [Most statin side-effects not caused by the drugs, study finds](https://www.theguardian.com/society/2026/feb/05/majority-statins-side-effects-not-caused-by-drug)
+- [Colorado funeral home owner sentenced to 40 years for abusing 189 bodies](https://www.theguardian.com/us-news/2026/feb/06/colorado-funeral-home-owner-jailed)
+- [Ukraine war briefing: Zelenskyy calls for faster action to boost air defences as Trump hails ‘very good’ peace talks](https://www.theguardian.com/world/2026/feb/07/ukraine-war-briefing-zelenskyy-calls-for-faster-action-to-boost-air-defences-as-trump-hails-very-good-peace-talks)
+- [Pentagon to cut ties with Harvard over ‘wokesters’, ending training, programs and fellowships](https://www.theguardian.com/us-news/2026/feb/06/harvard-military-pete-hegseth)
+- [Trump news at a glance: Trump creates distance, but no apology, after promoting racist video of Obamas](https://www.theguardian.com/us-news/2026/feb/06/trump-news-at-a-glance-briefing-today-latest)
+- [One person dead from Nipah virus in Bangladesh, WHO says](https://www.theguardian.com/world/2026/feb/07/one-person-dead-from-nipah-virus-in-bangladesh-who-says)
+- [‘Take them away, crush them’: Australia faces an ebike surge that some say poses a health emergency](https://www.theguardian.com/australia-news/2026/feb/07/take-them-away-crush-them-australia-faces-an-ebike-surge-that-some-say-poses-a-health-emergency)
+- [The pro-democracy People’s party is leading the polls, but Thailand has been here before](https://www.theguardian.com/world/2026/feb/07/the-pro-democracy-peoples-party-is-leading-the-polls-but-thailand-has-been-here-before)
+- [Rapper Lil Jon confirms son is dead after police find body in pond near Atlanta](https://www.theguardian.com/us-news/2026/feb/06/rapper-lil-jon-confirms-son-dead)
+- [Intimate and enormous: Milano Cortina opening ceremony tries something different](https://www.theguardian.com/sport/2026/feb/06/intimate-and-enormous-milano-cortina-opening-ceremony-winter-olympics-2026)
+- [Man, 18, charged with murder of De Montfort University student Khaleed Oladipo](https://www.theguardian.com/uk-news/2026/feb/06/man-18-charged-with-of-de-montfort-university-student-khaleed-oladipo)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Porting Doom to My WebAssembly VM](https://irreducible.io/blog/porting-doom-to-wasm/)
-- [Cognitive Style and Visual Attention in Multimodal Museum Exhibitions](https://www.mdpi.com/2075-5309/15/16/2968)
-- [Full-Blown Cross-Assembler in a Bash Script](https://hackaday.com/2026/02/06/full-blown-cross-assembler-in-a-bash-script/)
-- [Logic Puzzles: Why the Liar Is the Helpful One](https://blog.szczepan.org/blog/knights-and-knaves/)
-- [Optical Combs Help Radio Telescopes Work Together](https://hackaday.com/2026/02/03/optical-combs-help-radio-telescopes-work-together/)
-- [Show HN: Myanon – fast, deterministic MySQL dump anonymizer](https://github.com/ppomes/myanon)
-- [The Tao of Programming](http://www.canonical.org/~kragen/tao-of-programming.html)
-- [Forcing Rust: How Big Tech Lobbied the Government into a Language Mandate](https://medium.com/@ognian.milanov/forcing-rust-how-big-tech-lobbied-the-government-into-a-language-mandate-40ee80cbc148)
-- [PanelBench: We evaluated Cursor&#39;s Visual Editor on 89 test cases. 43 fail](https://www.tryinspector.com/blog/code-first-design-tools)
-- [Can You Draw Every Flag in PowerPoint? &lpar;Part 2&rpar; [video]](https://www.youtube.com/watch?v=BztF7MODsKI)
+- [Ask HN: Do we need &quot;metadata in source code&quot; syntax that LLMs will never delete?](https://news.ycombinator.com/item?id=46931315)
+- [Pentagon cutting ties w/ &quot;woke&quot; Harvard, ending military training &amp; fellowships](https://www.cbsnews.com/news/pentagon-says-its-cutting-ties-with-woke-harvard-discontinuing-military-training-fellowships/)
+- [Can Quantum-Mechanical Description of Physical Reality Be Considered Complete? [pdf]](https://cds.cern.ch/record/405662/files/PhysRev.47.777.pdf)
+- [Kessler Syndrome Has Started [video]](https://www.tiktok.com/@cjtrowbridge/video/7602634355160206623)
+- [Complex Heterodynes Explained](https://tomverbeure.github.io/2026/02/07/Complex-Heterodyne.html)
+- [EVs Are a Failed Experiment](https://spectator.org/evs-are-a-failed-experiment/)
+- [MemAlign: Building Better LLM Judges from Human Feedback with Scalable Memory](https://www.databricks.com/blog/memalign-building-better-llm-judges-human-feedback-scalable-memory)
+- [CCC &lpar;Claude&#39;s C Compiler&rpar; on Compiler Explorer](https://godbolt.org/z/asjc13sa6)
+- [Homeland Security Spying on Reddit Users](https://www.kenklippenstein.com/p/homeland-security-spies-on-reddit)
+- [Actors with Tokio &lpar;2021&rpar;](https://ryhl.io/blog/actors-with-tokio/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

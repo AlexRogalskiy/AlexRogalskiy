@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Colorado funeral home owner sentenced to 40 years for abusing 189 bodies](https://www.theguardian.com/us-news/2026/feb/06/colorado-funeral-home-owner-jailed)
-- [Ukraine war briefing: Zelenskyy calls for faster action to boost air defences as Trump hails ‘very good’ peace talks](https://www.theguardian.com/world/2026/feb/07/ukraine-war-briefing-zelenskyy-calls-for-faster-action-to-boost-air-defences-as-trump-hails-very-good-peace-talks)
-- [Pentagon to cut ties with Harvard over ‘wokesters’, ending training, programs and fellowships](https://www.theguardian.com/us-news/2026/feb/06/harvard-military-pete-hegseth)
-- [Trump news at a glance: Trump creates distance, but no apology, after promoting racist video of Obamas](https://www.theguardian.com/us-news/2026/feb/06/trump-news-at-a-glance-briefing-today-latest)
-- [One person dead from Nipah virus in Bangladesh, WHO says](https://www.theguardian.com/world/2026/feb/07/one-person-dead-from-nipah-virus-in-bangladesh-who-says)
-- [‘Take them away, crush them’: Australia faces an ebike surge that some say poses a health emergency](https://www.theguardian.com/australia-news/2026/feb/07/take-them-away-crush-them-australia-faces-an-ebike-surge-that-some-say-poses-a-health-emergency)
-- [The pro-democracy People’s party is leading the polls, but Thailand has been here before](https://www.theguardian.com/world/2026/feb/07/the-pro-democracy-peoples-party-is-leading-the-polls-but-thailand-has-been-here-before)
-- [Rapper Lil Jon confirms son is dead after police find body in pond near Atlanta](https://www.theguardian.com/us-news/2026/feb/06/rapper-lil-jon-confirms-son-dead)
-- [Intimate and enormous: Milano Cortina opening ceremony tries something different](https://www.theguardian.com/sport/2026/feb/06/intimate-and-enormous-milano-cortina-opening-ceremony-winter-olympics-2026)
-- [Man, 18, charged with murder of De Montfort University student Khaleed Oladipo](https://www.theguardian.com/uk-news/2026/feb/06/man-18-charged-with-of-de-montfort-university-student-khaleed-oladipo)
+- [Thai voters head to the polls with three main parties vying to form government](https://www.theguardian.com/world/2026/feb/08/thai-voters-head-to-the-polls-with-three-main-parties-vying-to-form-government)
+- [The world heard JD Vance being booed at the Olympics. Except for viewers in the US | Bryan Armen Graham](https://www.theguardian.com/sport/2026/feb/07/jd-vance-boos-winter-olympics)
+- [Ukraine war briefing: Zelenskyy hints June deadline for peace with Russia could be linked to US midterms](https://www.theguardian.com/world/2026/feb/08/ukraine-war-briefing-zelenskyy-hints-june-deadline-for-peace-with-russia-could-be-linked-to-us-midterms)
+- [Why has food become another joyless way to self-optimise? | Emma Beddington](https://www.theguardian.com/commentisfree/2026/feb/08/ood-joyless-self-optimise-diet-microbiome-health)
+- [In the decade since my sons left home, walking has brought us together](https://www.theguardian.com/travel/2026/feb/08/empty-nester-sons-left-home-walking-camino-together)
+- [&#39;We will pay,&#39; Savannah Guthrie says in desperate video plea to potential kidnappers of her mother](https://www.theguardian.com/us-news/2026/feb/07/savannah-guthrie-video-kidnapping-mother)
+- [‘Sea puppy pancakes’: what it’s like to pat a 300kg wild stingray](https://www.theguardian.com/world/2026/feb/08/wild-stingrays-new-zealand-north-island-gisborne)
+- [UK’s ‘unsung army’ of full-time unpaid carers needs more support, report says](https://www.theguardian.com/society/2026/feb/08/full-time-unpaid-carers-support-resolution-foundation-report)
+- [Minneapolis protesters arrested during one-month anniversary of Renee Good’s death](https://www.theguardian.com/us-news/2026/feb/07/minneapolis-protesters-arrested-renee-good)
+- [‘No end in sight’ to Britain’s wet weather as dozens of flood warnings issued](https://www.theguardian.com/uk-news/2026/feb/07/no-end-in-sight-to-britains-wet-weather-as-dozens-of-flood-warnings-issued)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

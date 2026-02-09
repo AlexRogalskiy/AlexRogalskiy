@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ask HN: Do we need &quot;metadata in source code&quot; syntax that LLMs will never delete?](https://news.ycombinator.com/item?id=46931315)
-- [Pentagon cutting ties w/ &quot;woke&quot; Harvard, ending military training &amp; fellowships](https://www.cbsnews.com/news/pentagon-says-its-cutting-ties-with-woke-harvard-discontinuing-military-training-fellowships/)
-- [Can Quantum-Mechanical Description of Physical Reality Be Considered Complete? [pdf]](https://cds.cern.ch/record/405662/files/PhysRev.47.777.pdf)
-- [Kessler Syndrome Has Started [video]](https://www.tiktok.com/@cjtrowbridge/video/7602634355160206623)
-- [Complex Heterodynes Explained](https://tomverbeure.github.io/2026/02/07/Complex-Heterodyne.html)
-- [EVs Are a Failed Experiment](https://spectator.org/evs-are-a-failed-experiment/)
-- [MemAlign: Building Better LLM Judges from Human Feedback with Scalable Memory](https://www.databricks.com/blog/memalign-building-better-llm-judges-human-feedback-scalable-memory)
-- [CCC &lpar;Claude&#39;s C Compiler&rpar; on Compiler Explorer](https://godbolt.org/z/asjc13sa6)
-- [Homeland Security Spying on Reddit Users](https://www.kenklippenstein.com/p/homeland-security-spies-on-reddit)
-- [Actors with Tokio &lpar;2021&rpar;](https://ryhl.io/blog/actors-with-tokio/)
+- [Caffeine content for coffee, tea, soda and more](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/caffeine/art-20049372)
+- [Researchers find brain mechanism behind &#39;flashes of intuition&#39;](https://medicalxpress.com/news/2026-02-brain-mechanism-intuition.html)
+- [We Improved Rails Response Times by 87% – Fast Retro Blog](https://fastretro.app/blog/how-we-improved-rails-response-times-by-87-percent)
+- [Paris cybercrime unit searches X office; Musk summoned](https://www.reuters.com/world/europe/paris-prosecutors-cybercrime-unit-searches-french-office-musks-x-2026-02-03/)
+- [Memory Infrastructure for AI Systems – Cascade, PyTorch Memory, Hebbian Mind](https://cipscorps.io/#)
+- [SpaceX prioritizes lunar &#39;self-growing city&#39; over Mars project](https://www.reuters.com/science/musk-says-spacex-prioritise-building-self-growing-city-moon-2026-02-08/)
+- [The Surprising Similarity Between the US and Chinese Internets [audio]](https://www.bloomberg.com/news/audio/2026-02-03/odd-lots-the-us-and-chinese-internets-similarities-podcast)
+- [Reality Asset Existence Manifesto &lpar;RAEM&rpar; – v0.1](https://news.ycombinator.com/item?id=46941486)
+- [CIA Erased the World Factbook with No Warning](https://www.techdirt.com/2026/02/06/the-cia-erased-the-world-factbook-with-no-warning-and-told-everyone-to-stay-curious/)
+- [OpenAI Super Bowl 2026 – Codex – You Can Just Build Things](https://www.youtube.com/watch?v=aCN9iCXNJqQ)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

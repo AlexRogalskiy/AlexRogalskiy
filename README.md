@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Thai voters head to the polls with three main parties vying to form government](https://www.theguardian.com/world/2026/feb/08/thai-voters-head-to-the-polls-with-three-main-parties-vying-to-form-government)
-- [The world heard JD Vance being booed at the Olympics. Except for viewers in the US | Bryan Armen Graham](https://www.theguardian.com/sport/2026/feb/07/jd-vance-boos-winter-olympics)
-- [Ukraine war briefing: Zelenskyy hints June deadline for peace with Russia could be linked to US midterms](https://www.theguardian.com/world/2026/feb/08/ukraine-war-briefing-zelenskyy-hints-june-deadline-for-peace-with-russia-could-be-linked-to-us-midterms)
-- [Why has food become another joyless way to self-optimise? | Emma Beddington](https://www.theguardian.com/commentisfree/2026/feb/08/ood-joyless-self-optimise-diet-microbiome-health)
-- [In the decade since my sons left home, walking has brought us together](https://www.theguardian.com/travel/2026/feb/08/empty-nester-sons-left-home-walking-camino-together)
-- [&#39;We will pay,&#39; Savannah Guthrie says in desperate video plea to potential kidnappers of her mother](https://www.theguardian.com/us-news/2026/feb/07/savannah-guthrie-video-kidnapping-mother)
-- [‘Sea puppy pancakes’: what it’s like to pat a 300kg wild stingray](https://www.theguardian.com/world/2026/feb/08/wild-stingrays-new-zealand-north-island-gisborne)
-- [UK’s ‘unsung army’ of full-time unpaid carers needs more support, report says](https://www.theguardian.com/society/2026/feb/08/full-time-unpaid-carers-support-resolution-foundation-report)
-- [Minneapolis protesters arrested during one-month anniversary of Renee Good’s death](https://www.theguardian.com/us-news/2026/feb/07/minneapolis-protesters-arrested-renee-good)
-- [‘No end in sight’ to Britain’s wet weather as dozens of flood warnings issued](https://www.theguardian.com/uk-news/2026/feb/07/no-end-in-sight-to-britains-wet-weather-as-dozens-of-flood-warnings-issued)
+- [Super Bowl LX: Relentless Seahawks pummel Patriots to claim their second title](https://www.theguardian.com/sport/2026/feb/08/super-bowl-lx-seahawks-patriots)
+- [ABC to air Four Corners episode on Bondi terror attack despite preemptive criticism by Asio](https://www.theguardian.com/media/2026/feb/09/abc-four-corners-episode-bondi-terror-attack-asio-warning)
+- [Christchurch gunman seeks to appeal convictions and withdraw guilty plea](https://www.theguardian.com/world/2026/feb/09/christchurch-shooter-brenton-tarrant-conviction-appeal-guilty-plea)
+- [Jimmy Lai, Hong Kong pro-democracy figure, sentenced to 20 years in prison for national security offences](https://www.theguardian.com/world/2026/feb/09/jimmy-lai-sentencing-china-hong-kong-pro-democracy-businessman)
+- [Ukraine war briefing: Zelenskyy says Russian energy sites are legitimate targets](https://www.theguardian.com/world/2026/feb/09/ukraine-war-briefing-zelenskyy-says-russian-energy-sites-are-legitimate-targets)
+- [Isaac Herzog meets survivors of Bondi terror attack, saying ‘when one Jew is hurt, all Jews feel their pain’](https://www.theguardian.com/australia-news/2026/feb/09/isaac-herzog-israeli-president-arrives-sydney-australia-ntwnfb)
+- [‘Pulling up the drawbridge’: Alf Dubs criticises Shabana Mahmood’s plans for child refugees](https://www.theguardian.com/politics/2026/feb/09/alf-dubs-shabana-mahmood-labour-plans-child-refugees)
+- [‘Take the vaccine, please,’ Dr Oz urges amid rising measles cases in US](https://www.theguardian.com/us-news/2026/feb/08/dr-mehmet-oz-measles-vaccine)
+- [The kindness of strangers: my teenage son was on a date at a fancy restaurant when a fellow diner helped pay the bill](https://www.theguardian.com/lifeandstyle/2026/feb/09/the-kindness-of-strangers-my-teenage-son-was-on-a-date-at-a-fancy-restaurant-when-a-fellow-diner-helped-pay-the-bill)
+- [European football: PSG thrash Marseille and return to summit of Ligue 1](https://www.theguardian.com/football/2026/feb/08/european-football-psg-thrash-marseille-to-return-to-summit-of-ligue-1)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

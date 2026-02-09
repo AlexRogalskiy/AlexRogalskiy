@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Vouch](https://twitter.com/mitchellh/status/2020252149117313349)
-- [Haskell for all: Beyond agentic coding](https://haskellforall.com/2026/02/beyond-agentic-coding)
-- [Show HN: LocalGPT – A local-first AI assistant in Rust with persistent memory](https://github.com/localgpt-app/localgpt)
-- [The silent death of good code](https://amit.prasad.me/blog/rip-good-code)
-- [FDA intends to take action against non-FDA-approved GLP-1 drugs](https://www.fda.gov/news-events/press-announcements/fda-intends-take-action-against-non-fda-approved-glp-1-drugs)
-- [Microsoft account bugs locked me out of Notepad – Are thin clients ruining PCs?](https://www.windowscentral.com/microsoft/windows-11/windows-locked-me-out-of-notepad-is-the-thin-client-era-ruining-pcs)
-- [Brookhaven Lab&#39;s RHIC concludes 25-year run with final collisions](https://www.hpcwire.com/off-the-wire/brookhaven-labs-rhic-concludes-25-year-run-with-final-collisions/)
-- [Speed up responses with fast mode](https://code.claude.com/docs/en/fast-mode)
-- [Show HN: I saw this cool navigation reveal, so I made a simple HTML+CSS version](https://github.com/Momciloo/fun-with-clip-path)
-- [I write games in C &lpar;yes, C&rpar; &lpar;2016&rpar;](https://jonathanwhiting.com/writing/blog/games_in_c/)
+- [NanoClaw now supports Claude&#39;s Agent Swarms in containers](https://twitter.com/Gavriel_Cohen/status/2020701159175155874)
+- [Every book recommended on the Odd Lots Discord](https://odd-lots-books.netlify.app/)
+- [AI makes the easy part easier and the hard part harder](https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder)
+- [Show HN: A custom font that displays Cistercian numerals using ligatures](https://bobbiec.github.io/cistercian-font.html)
+- [Toma &lpar;YC W24&rpar; Is Hiring Founding Engineers](https://www.ycombinator.com/companies/toma/jobs/oONUnCf-founding-engineer-ai-products)
+- [Reverse Engineering the Prom for the SGI O2](https://mattst88.com/blog/2026/02/08/Reverse_Engineering_the_PROM_for_the_SGI_O2/)
+- [Stop Generating, Start Thinking](https://localghost.dev/blog/stop-generating-start-thinking/)
+- [Shifts in U.S. Social Media Use, 2020–2024: Decline, Fragmentation, Polarization &lpar;2025&rpar;](https://arxiv.org/abs/2510.25417)
+- [Art of Roads in Games](https://sandboxspirit.com/blog/art-of-roads-in-games/)
+- [More Mac malware from Google search](https://eclecticlight.co/2026/01/30/more-malware-from-google-search/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

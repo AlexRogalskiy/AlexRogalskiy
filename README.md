@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Super Bowl LX: Relentless Seahawks pummel Patriots to claim their second title](https://www.theguardian.com/sport/2026/feb/08/super-bowl-lx-seahawks-patriots)
-- [ABC to air Four Corners episode on Bondi terror attack despite preemptive criticism by Asio](https://www.theguardian.com/media/2026/feb/09/abc-four-corners-episode-bondi-terror-attack-asio-warning)
-- [Christchurch gunman seeks to appeal convictions and withdraw guilty plea](https://www.theguardian.com/world/2026/feb/09/christchurch-shooter-brenton-tarrant-conviction-appeal-guilty-plea)
-- [Jimmy Lai, Hong Kong pro-democracy figure, sentenced to 20 years in prison for national security offences](https://www.theguardian.com/world/2026/feb/09/jimmy-lai-sentencing-china-hong-kong-pro-democracy-businessman)
-- [Ukraine war briefing: Zelenskyy says Russian energy sites are legitimate targets](https://www.theguardian.com/world/2026/feb/09/ukraine-war-briefing-zelenskyy-says-russian-energy-sites-are-legitimate-targets)
-- [Isaac Herzog meets survivors of Bondi terror attack, saying ‘when one Jew is hurt, all Jews feel their pain’](https://www.theguardian.com/australia-news/2026/feb/09/isaac-herzog-israeli-president-arrives-sydney-australia-ntwnfb)
-- [‘Pulling up the drawbridge’: Alf Dubs criticises Shabana Mahmood’s plans for child refugees](https://www.theguardian.com/politics/2026/feb/09/alf-dubs-shabana-mahmood-labour-plans-child-refugees)
-- [‘Take the vaccine, please,’ Dr Oz urges amid rising measles cases in US](https://www.theguardian.com/us-news/2026/feb/08/dr-mehmet-oz-measles-vaccine)
-- [The kindness of strangers: my teenage son was on a date at a fancy restaurant when a fellow diner helped pay the bill](https://www.theguardian.com/lifeandstyle/2026/feb/09/the-kindness-of-strangers-my-teenage-son-was-on-a-date-at-a-fancy-restaurant-when-a-fellow-diner-helped-pay-the-bill)
-- [European football: PSG thrash Marseille and return to summit of Ligue 1](https://www.theguardian.com/football/2026/feb/08/european-football-psg-thrash-marseille-to-return-to-summit-of-ligue-1)
+- [‘A free limo is hard to turn away’: how car diplomacy turbo charges politics in the Pacific](https://www.theguardian.com/world/2026/feb/10/car-diplomacy-turbo-charges-politics-pacific)
+- [‘PM comes out fighting’: what the UK papers say as Starmer battles on](https://www.theguardian.com/media/2026/feb/10/keir-starmer-survives-calls-to-resign-epstein-mandelson-uk-papers)
+- [Federal judge blocks California from enforcing ICE mask ban](https://www.theguardian.com/us-news/2026/feb/09/judge-california-ice-masks)
+- [Trump threatens to block new bridge in latest tirade against Canada](https://www.theguardian.com/us-news/2026/feb/09/trump-gordie-howe-bridge-canada)
+- [Ukraine war briefing: France to start making weapons with Kyiv](https://www.theguardian.com/world/2026/feb/10/ukraine-war-briefing-france-to-start-making-weapons-with-kyiv)
+- [Parents of Melbourne methanol-poisoning victims ‘shocked’ by $185 fines handed to Laos hostel staff](https://www.theguardian.com/world/2026/feb/10/parents-of-melbourne-methanol-poisoning-victims-shocked-by-185-fines-handed-to-laos-hostel-staff)
+- [US judges dismiss lawsuits accusing Neil Gaiman of sexual assault](https://www.theguardian.com/books/2026/feb/09/us-judges-lawsuits-neil-gaiman)
+- [Serco accused of ‘petty and vindictive’ removal of artwork from court cells](https://www.theguardian.com/law/2026/feb/10/serco-removes-artwork-court-cells-england-wales)
+- [Lower-income families face 137-year wait for living standards to double, says UK thinktank](https://www.theguardian.com/uk-news/2026/feb/10/lower-income-families-living-standards)
+- [Actor Catherine O’Hara died of a blood clot in her lungs, death certificate says](https://www.theguardian.com/culture/2026/feb/09/catherine-o-hara-actor-cause-of-death)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

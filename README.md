@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Caffeine content for coffee, tea, soda and more](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/caffeine/art-20049372)
-- [Researchers find brain mechanism behind &#39;flashes of intuition&#39;](https://medicalxpress.com/news/2026-02-brain-mechanism-intuition.html)
-- [We Improved Rails Response Times by 87% – Fast Retro Blog](https://fastretro.app/blog/how-we-improved-rails-response-times-by-87-percent)
-- [Paris cybercrime unit searches X office; Musk summoned](https://www.reuters.com/world/europe/paris-prosecutors-cybercrime-unit-searches-french-office-musks-x-2026-02-03/)
-- [Memory Infrastructure for AI Systems – Cascade, PyTorch Memory, Hebbian Mind](https://cipscorps.io/#)
-- [SpaceX prioritizes lunar &#39;self-growing city&#39; over Mars project](https://www.reuters.com/science/musk-says-spacex-prioritise-building-self-growing-city-moon-2026-02-08/)
-- [The Surprising Similarity Between the US and Chinese Internets [audio]](https://www.bloomberg.com/news/audio/2026-02-03/odd-lots-the-us-and-chinese-internets-similarities-podcast)
-- [Reality Asset Existence Manifesto &lpar;RAEM&rpar; – v0.1](https://news.ycombinator.com/item?id=46941486)
-- [CIA Erased the World Factbook with No Warning](https://www.techdirt.com/2026/02/06/the-cia-erased-the-world-factbook-with-no-warning-and-told-everyone-to-stay-curious/)
-- [OpenAI Super Bowl 2026 – Codex – You Can Just Build Things](https://www.youtube.com/watch?v=aCN9iCXNJqQ)
+- [Scientists Send Secure Quantum Keys over 62Mi of Fiber–Without Trusted Devices](https://singularityhub.com/2026/02/09/scientists-send-secure-quantum-keys-over-62-miles-of-fiber-without-trusted-devices/)
+- [Younghoon Kim &lpar;claims highest IQ of 276&rpar; speaks about Jesus](https://www.youtube.com/watch?v=B55knDYYWxM)
+- [CIA announces new acquisition framework to speed tech adoption](https://www.nextgov.com/acquisition/2026/02/cia-announces-new-acquisition-framework-speed-tech-adoption/411285/)
+- [SBX Avalanche Survival System](https://www.safeback.no/sbx)
+- [De-Enshittify Windows 11: OneDrive](https://www.thurrott.com/windows/windows-11/332529/de-enshittify-windows-11-onedrive)
+- [Gradient.horse](https://gradient.horse)
+- [Claude /fast mode consumes money fast](https://news.ycombinator.com/item?id=46955265)
+- [CLIProxyAPIPlus – use antigravity, Gemini CLI, &amp; more with Claude Code / etc.](https://github.com/router-for-me/CLIProxyAPIPlus)
+- [Electric Cars Are Making It Easier to Breathe, Study Finds](https://www.thedrive.com/news/electric-cars-are-making-it-easier-to-breath-study)
+- [FDA Takes Steps to Ease Path for Non-Petroleum Food Colors](https://www.jdsupra.com/legalnews/fda-takes-steps-to-ease-path-for-non-1066153/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

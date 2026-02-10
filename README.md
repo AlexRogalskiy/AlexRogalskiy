@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [NanoClaw now supports Claude&#39;s Agent Swarms in containers](https://twitter.com/Gavriel_Cohen/status/2020701159175155874)
-- [Every book recommended on the Odd Lots Discord](https://odd-lots-books.netlify.app/)
-- [AI makes the easy part easier and the hard part harder](https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder)
-- [Show HN: A custom font that displays Cistercian numerals using ligatures](https://bobbiec.github.io/cistercian-font.html)
-- [Toma &lpar;YC W24&rpar; Is Hiring Founding Engineers](https://www.ycombinator.com/companies/toma/jobs/oONUnCf-founding-engineer-ai-products)
-- [Reverse Engineering the Prom for the SGI O2](https://mattst88.com/blog/2026/02/08/Reverse_Engineering_the_PROM_for_the_SGI_O2/)
-- [Stop Generating, Start Thinking](https://localghost.dev/blog/stop-generating-start-thinking/)
-- [Shifts in U.S. Social Media Use, 2020–2024: Decline, Fragmentation, Polarization &lpar;2025&rpar;](https://arxiv.org/abs/2510.25417)
-- [Art of Roads in Games](https://sandboxspirit.com/blog/art-of-roads-in-games/)
-- [More Mac malware from Google search](https://eclecticlight.co/2026/01/30/more-malware-from-google-search/)
+- [Frontier AI agents violate ethical constraints 30–50% of time, pressured by KPIs](https://arxiv.org/abs/2512.20798)
+- [Why &quot;just prompt better&quot; doesn&#39;t work](https://www.bicameral-ai.com/blog/tech-debt-meeting)
+- [Rust implementation of Mistral&#39;s Voxtral Mini 4B Realtime runs in your browser](https://github.com/TrevorS/voxtral-mini-realtime-rs)
+- [Pure C, CPU-only inference with Mistral Voxtral Realtime 4B speech to text model](https://github.com/antirez/voxtral.c)
+- [What functional programmers get wrong about systems](https://www.iankduncan.com/engineering/2026-02-09-what-functional-programmers-get-wrong-about-systems/)
+- [The shadowy world of abandoned oil tankers](https://www.bbc.com/news/articles/cddg885344do)
+- [LiftKit – UI where &quot;everything derives from the golden ratio&quot;](https://www.chainlift.io/liftkit)
+- [Game Theory Patterns at Work &lpar;2016&rpar;](https://daeus.blog/2026/01/18/game-theory-patterns-at-work/)
+- [Data exfil from agents in messaging apps](https://www.promptarmor.com/resources/llm-data-exfiltration-via-url-previews-(with-openclaw-example-and-test))
+- [Discord Alternatives, Ranked](https://taggart-tech.com/discord-alternatives/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [‘A free limo is hard to turn away’: how car diplomacy turbo charges politics in the Pacific](https://www.theguardian.com/world/2026/feb/10/car-diplomacy-turbo-charges-politics-pacific)
-- [‘PM comes out fighting’: what the UK papers say as Starmer battles on](https://www.theguardian.com/media/2026/feb/10/keir-starmer-survives-calls-to-resign-epstein-mandelson-uk-papers)
-- [Federal judge blocks California from enforcing ICE mask ban](https://www.theguardian.com/us-news/2026/feb/09/judge-california-ice-masks)
-- [Trump threatens to block new bridge in latest tirade against Canada](https://www.theguardian.com/us-news/2026/feb/09/trump-gordie-howe-bridge-canada)
-- [Ukraine war briefing: France to start making weapons with Kyiv](https://www.theguardian.com/world/2026/feb/10/ukraine-war-briefing-france-to-start-making-weapons-with-kyiv)
-- [Parents of Melbourne methanol-poisoning victims ‘shocked’ by $185 fines handed to Laos hostel staff](https://www.theguardian.com/world/2026/feb/10/parents-of-melbourne-methanol-poisoning-victims-shocked-by-185-fines-handed-to-laos-hostel-staff)
-- [US judges dismiss lawsuits accusing Neil Gaiman of sexual assault](https://www.theguardian.com/books/2026/feb/09/us-judges-lawsuits-neil-gaiman)
-- [Serco accused of ‘petty and vindictive’ removal of artwork from court cells](https://www.theguardian.com/law/2026/feb/10/serco-removes-artwork-court-cells-england-wales)
-- [Lower-income families face 137-year wait for living standards to double, says UK thinktank](https://www.theguardian.com/uk-news/2026/feb/10/lower-income-families-living-standards)
-- [Actor Catherine O’Hara died of a blood clot in her lungs, death certificate says](https://www.theguardian.com/culture/2026/feb/09/catherine-o-hara-actor-cause-of-death)
+- [Tumbler Ridge school shooting: PM Carney ‘devastated’ by attack that left 10 dead including suspect – latest updates](https://www.theguardian.com/world/live/2026/feb/11/tumbler-ridge-school-shooting-live-updates-number-dead-suspect-deceased)
+- [Person detained for questioning in Nancy Guthrie disappearance](https://www.theguardian.com/us-news/2026/feb/10/savannah-guthrie-missing-mom-nancy)
+- [‘Women’s freedoms are at stake’: concern at rise of Islamist party before Bangladesh election](https://www.theguardian.com/world/2026/feb/11/bangladesh-election-islamist-party-women-freedoms)
+- [Artist accuses AirAsia of using his mural on plane without consent](https://www.theguardian.com/world/2026/feb/11/ernest-zacharevic-sues-air-asia-plane-street-mural)
+- [Ukraine war briefing: UK promises to double troop numbers in Norway to deter Putin](https://www.theguardian.com/world/2026/feb/11/ukraine-war-briefing-uk-promises-to-double-troop-numbers-in-norway-to-deter-putin)
+- [Britney Spears sells rights to music catalog for undisclosed sum, say reports](https://www.theguardian.com/music/2026/feb/10/britney-spears-sells-rights-music-catalog)
+- [Antisemitic incidents in UK spiked after Manchester synagogue terror attack](https://www.theguardian.com/news/2026/feb/11/antisemitic-incidents-spiked-manchester-synagogue-terror-attack)
+- [‘Unsustainable’ gaps in policing of franchise businesses must end, MPs say](https://www.theguardian.com/business/2026/feb/11/unsustainable-gaps-policing-franchise-businesses-mps)
+- [MPs call on welfare bosses to speed up redress over carer’s allowance scandal](https://www.theguardian.com/society/2026/feb/11/mps-call-on-welfare-bosses-speed-up-redress-carers-allowance-scandal)
+- [Lark Rise to Candleford review – tender, evocative tribute to rural lives in transition](https://www.theguardian.com/stage/2026/feb/11/lark-rise-to-candleford-review-watermill-theatre-newbury)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Scientists Send Secure Quantum Keys over 62Mi of Fiber–Without Trusted Devices](https://singularityhub.com/2026/02/09/scientists-send-secure-quantum-keys-over-62-miles-of-fiber-without-trusted-devices/)
-- [Younghoon Kim &lpar;claims highest IQ of 276&rpar; speaks about Jesus](https://www.youtube.com/watch?v=B55knDYYWxM)
-- [CIA announces new acquisition framework to speed tech adoption](https://www.nextgov.com/acquisition/2026/02/cia-announces-new-acquisition-framework-speed-tech-adoption/411285/)
-- [SBX Avalanche Survival System](https://www.safeback.no/sbx)
-- [De-Enshittify Windows 11: OneDrive](https://www.thurrott.com/windows/windows-11/332529/de-enshittify-windows-11-onedrive)
-- [Gradient.horse](https://gradient.horse)
-- [Claude /fast mode consumes money fast](https://news.ycombinator.com/item?id=46955265)
-- [CLIProxyAPIPlus – use antigravity, Gemini CLI, &amp; more with Claude Code / etc.](https://github.com/router-for-me/CLIProxyAPIPlus)
-- [Electric Cars Are Making It Easier to Breathe, Study Finds](https://www.thedrive.com/news/electric-cars-are-making-it-easier-to-breath-study)
-- [FDA Takes Steps to Ease Path for Non-Petroleum Food Colors](https://www.jdsupra.com/legalnews/fda-takes-steps-to-ease-path-for-non-1066153/)
+- [A simpler way to remove explicit images from Search](https://blog.google/products-and-platforms/products/search/remove-explicit-images/)
+- [We&#39;re all called Julia, or maybe ChatGPT calls itself Julia](https://solresol.substack.com/p/were-all-called-julia-or-maybe-chatgpt)
+- [5,300-year-old &#39;bow drill&#39; rewrites story of ancient Egyptian tools](https://www.ncl.ac.uk/press/articles/latest/2026/02/ancientegyptiandrillbit/)
+- [Search the public domain through image embeddings](https://faenum.com)
+- [Beautiful iOS SSH Terminal with GPU Acceleration](https://github.com/eriklangille/clauntty)
+- [Wall Street&#39;s anything-but-tech trade shakes up US stock market](https://www.ft.com/content/577b97f6-2416-48b9-9bd3-717bb202ca71)
+- [Show HN: Obsidian Visual Skills – Generate Canvas, Excalidraw, Mermaid from Text](https://github.com/axtonliu/axton-obsidian-visual-skills)
+- [It&#39;s Time to Rage Against the AI Music Machine](https://time.com/7338205/rage-against-ai-generated-music/)
+- [Show HN: Askill – A package manager for AI agent skills with AI safety scoring](https://github.com/avibe-bot/askill)
+- [AI is now a magic decompiler](https://stephenjayakar.com/posts/magic-decomp/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

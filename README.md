@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Frontier AI agents violate ethical constraints 30–50% of time, pressured by KPIs](https://arxiv.org/abs/2512.20798)
-- [Why &quot;just prompt better&quot; doesn&#39;t work](https://www.bicameral-ai.com/blog/tech-debt-meeting)
-- [Rust implementation of Mistral&#39;s Voxtral Mini 4B Realtime runs in your browser](https://github.com/TrevorS/voxtral-mini-realtime-rs)
-- [Pure C, CPU-only inference with Mistral Voxtral Realtime 4B speech to text model](https://github.com/antirez/voxtral.c)
-- [What functional programmers get wrong about systems](https://www.iankduncan.com/engineering/2026-02-09-what-functional-programmers-get-wrong-about-systems/)
-- [The shadowy world of abandoned oil tankers](https://www.bbc.com/news/articles/cddg885344do)
-- [LiftKit – UI where &quot;everything derives from the golden ratio&quot;](https://www.chainlift.io/liftkit)
-- [Game Theory Patterns at Work &lpar;2016&rpar;](https://daeus.blog/2026/01/18/game-theory-patterns-at-work/)
-- [Data exfil from agents in messaging apps](https://www.promptarmor.com/resources/llm-data-exfiltration-via-url-previews-(with-openclaw-example-and-test))
-- [Discord Alternatives, Ranked](https://taggart-tech.com/discord-alternatives/)
+- [YouTube&#39;s $60B revenue revealed amid paid subscriber push](https://www.bbc.com/news/articles/crkrkd2xlx6o)
+- [End of an era for me: no more self-hosted git](https://www.kraxel.org/blog/2026/01/thank-you-ai/)
+- [Rivian R2: Electric Mid-Size SUV](https://rivian.com/r2)
+- [Fun With Pinball](https://www.funwithpinball.com/exhibits/small-boards)
+- [The Day the Telnet Died](https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/)
+- [The Falkirk Wheel](https://www.scottishcanals.co.uk/visit/canals/visit-the-forth-clyde-canal/attractions/the-falkirk-wheel)
+- [Tambo 1.0: Open-source toolkit for agents that render React components](https://github.com/tambo-ai/tambo)
+- [Show HN: Sol LeWitt-style instruction-based drawings in the browser](https://intervolz.com/sollewitt/)
+- [How did Windows 95 get permission to put Weezer video &#39;Buddy Holly&#39; on the CD?](https://devblogs.microsoft.com/oldnewthing/20260210-00/?p=112052)
+- [Markdown CLI viewer with VI keybindings](https://github.com/taf2/mdvi)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

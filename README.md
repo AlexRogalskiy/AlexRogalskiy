@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [YouTube&#39;s $60B revenue revealed amid paid subscriber push](https://www.bbc.com/news/articles/crkrkd2xlx6o)
-- [End of an era for me: no more self-hosted git](https://www.kraxel.org/blog/2026/01/thank-you-ai/)
-- [Rivian R2: Electric Mid-Size SUV](https://rivian.com/r2)
-- [Fun With Pinball](https://www.funwithpinball.com/exhibits/small-boards)
-- [The Day the Telnet Died](https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/)
-- [The Falkirk Wheel](https://www.scottishcanals.co.uk/visit/canals/visit-the-forth-clyde-canal/attractions/the-falkirk-wheel)
-- [Tambo 1.0: Open-source toolkit for agents that render React components](https://github.com/tambo-ai/tambo)
-- [Show HN: Sol LeWitt-style instruction-based drawings in the browser](https://intervolz.com/sollewitt/)
-- [How did Windows 95 get permission to put Weezer video &#39;Buddy Holly&#39; on the CD?](https://devblogs.microsoft.com/oldnewthing/20260210-00/?p=112052)
-- [Markdown CLI viewer with VI keybindings](https://github.com/taf2/mdvi)
+- [Show HN: Double blind entropy using Drand for verifiably fair randomness](https://blockrand.net/live.html)
+- [The Problem with LLMs](https://www.deobald.ca/essays/2026-02-10-the-problem-with-llms/)
+- [Lessons from Zig](https://www.vinniefalco.com/p/lessons-from-zig)
+- [Heroku is not dead](https://nombiezinja.com/word-things/2026/2/8/heroku-is-not-dead)
+- [From 34% to 96%: The Porting Initiative Delivers – Hologram v0.7.0](https://hologram.page/blog/porting-initiative-delivers-hologram-v0-7-0)
+- [GPT-5 outperforms federal judges in legal reasoning experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6155012)
+- [Discord/Twitch/Snapchat age verification bypass](https://age-verifier.kibty.town/)
+- [Covering electricity price increases from our data centers](https://www.anthropic.com/news/covering-electricity-price-increases)
+- [Reports of Telnet&#39;s death have been greatly exaggerated](https://www.terracenetworks.com/blog/2026-02-11-telnet-routing)
+- [Show HN: Agent Alcove – Claude, GPT, and Gemini debate across forums](https://agentalcove.ai)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

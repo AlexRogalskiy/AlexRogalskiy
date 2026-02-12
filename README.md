@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Tumbler Ridge school shooting: PM Carney ‘devastated’ by attack that left 10 dead including suspect – latest updates](https://www.theguardian.com/world/live/2026/feb/11/tumbler-ridge-school-shooting-live-updates-number-dead-suspect-deceased)
-- [Person detained for questioning in Nancy Guthrie disappearance](https://www.theguardian.com/us-news/2026/feb/10/savannah-guthrie-missing-mom-nancy)
-- [‘Women’s freedoms are at stake’: concern at rise of Islamist party before Bangladesh election](https://www.theguardian.com/world/2026/feb/11/bangladesh-election-islamist-party-women-freedoms)
-- [Artist accuses AirAsia of using his mural on plane without consent](https://www.theguardian.com/world/2026/feb/11/ernest-zacharevic-sues-air-asia-plane-street-mural)
-- [Ukraine war briefing: UK promises to double troop numbers in Norway to deter Putin](https://www.theguardian.com/world/2026/feb/11/ukraine-war-briefing-uk-promises-to-double-troop-numbers-in-norway-to-deter-putin)
-- [Britney Spears sells rights to music catalog for undisclosed sum, say reports](https://www.theguardian.com/music/2026/feb/10/britney-spears-sells-rights-music-catalog)
-- [Antisemitic incidents in UK spiked after Manchester synagogue terror attack](https://www.theguardian.com/news/2026/feb/11/antisemitic-incidents-spiked-manchester-synagogue-terror-attack)
-- [‘Unsustainable’ gaps in policing of franchise businesses must end, MPs say](https://www.theguardian.com/business/2026/feb/11/unsustainable-gaps-policing-franchise-businesses-mps)
-- [MPs call on welfare bosses to speed up redress over carer’s allowance scandal](https://www.theguardian.com/society/2026/feb/11/mps-call-on-welfare-bosses-speed-up-redress-carers-allowance-scandal)
-- [Lark Rise to Candleford review – tender, evocative tribute to rural lives in transition](https://www.theguardian.com/stage/2026/feb/11/lark-rise-to-candleford-review-watermill-theatre-newbury)
+- [Sean Dyche sacked by Nottingham Forest after Wolves draw](https://www.theguardian.com/football/2026/feb/11/nottingham-forest-wolves-premier-league-match-report)
+- [Fears former Canberra boy has been executed in Iran, as Australia makes representations to Tehran](https://www.theguardian.com/australia-news/2026/feb/12/fears-former-canberra-boy-has-been-executed-in-iran-as-australia-makes-representations-to-tehran)
+- [Comedians pick on me for my loud laugh – but nothing will make me stop | Jane Howard](https://www.theguardian.com/culture/2026/feb/12/loud-laugh-comedy-shows)
+- [Monks bring balm for America’s wounds as Washington cheers peace odyssey](https://www.theguardian.com/us-news/2026/feb/11/buddhist-monks-peace-walk-washington-dc)
+- [Tarique Rahman promises era of clean politics as Bangladesh holds first election since fall of Hasina](https://www.theguardian.com/world/2026/feb/12/tarique-rahman-bnp-bangladesh-election)
+- [Canadian police identify suspect in school massacre that left nine dead](https://www.theguardian.com/world/2026/feb/11/tumbler-ridge-canada-shooting-school-mark-carney)
+- [Ukraine war briefing: Elections will be held only after ceasefire, says Zelenskyy](https://www.theguardian.com/world/2026/feb/12/ukraine-war-briefing-elections-only-after-ceasefire-zelenskyy)
+- [One in 14 children who die in England have closely related parents, study finds](https://www.theguardian.com/society/2026/feb/12/one-in-14-children-who-die-in-england-have-closely-related-parents-study-finds)
+- [Parents of children taken in to care should get more help, say experts after Victoria Marten death](https://www.theguardian.com/society/2026/feb/12/parents-children-taken-in-to-care-review-victoria-marten-death)
+- [Housing market in England and Wales ‘showing tentative signs of recovery’](https://www.theguardian.com/business/2026/feb/12/housing-market-in-england-wales-rics-sales-house-prices)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

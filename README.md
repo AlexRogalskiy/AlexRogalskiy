@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [A simpler way to remove explicit images from Search](https://blog.google/products-and-platforms/products/search/remove-explicit-images/)
-- [We&#39;re all called Julia, or maybe ChatGPT calls itself Julia](https://solresol.substack.com/p/were-all-called-julia-or-maybe-chatgpt)
-- [5,300-year-old &#39;bow drill&#39; rewrites story of ancient Egyptian tools](https://www.ncl.ac.uk/press/articles/latest/2026/02/ancientegyptiandrillbit/)
-- [Search the public domain through image embeddings](https://faenum.com)
-- [Beautiful iOS SSH Terminal with GPU Acceleration](https://github.com/eriklangille/clauntty)
-- [Wall Street&#39;s anything-but-tech trade shakes up US stock market](https://www.ft.com/content/577b97f6-2416-48b9-9bd3-717bb202ca71)
-- [Show HN: Obsidian Visual Skills – Generate Canvas, Excalidraw, Mermaid from Text](https://github.com/axtonliu/axton-obsidian-visual-skills)
-- [It&#39;s Time to Rage Against the AI Music Machine](https://time.com/7338205/rage-against-ai-generated-music/)
-- [Show HN: Askill – A package manager for AI agent skills with AI safety scoring](https://github.com/avibe-bot/askill)
-- [AI is now a magic decompiler](https://stephenjayakar.com/posts/magic-decomp/)
+- [Victorian Engineering Connections Diagram from the Brunel Museum](https://thebrunelmuseum.com/engineering-connections/)
+- [Self-Distillation Enables Continual Learning](https://self-distillation.github.io/SDFT.html)
+- [Distributed Llama](https://github.com/b4rtaz/distributed-llama)
+- [GLM-5 was trained on Huawei chips](https://glm5.net/)
+- [Show HN: Prompt Builder – A block-based editor for composing AI prompts](https://www.promptbuilder.space/)
+- [Dawson&#39;s Creek star James Van Der Beek has died at 48 from Stage 3 colon cancer](https://www.npr.org/2026/02/11/nx-s1-5552216/james-van-der-beek-dead-dawsons-creek)
+- [ClawShield – Security audit tool for OpenClaw deployments](https://github.com/policygate/clawshield)
+- [Conversations Happen in Cars](https://oedmethod.substack.com/p/best-conversations-are-in-cars)
+- [I built an app that lets you search for anything in your house like Google](https://apps.apple.com/us/app/shelver-home-organization/id6756636954)
+- [Motorola&#39;s Password Pill Was Just One Idea](https://hackaday.com/2026/02/11/motorolas-password-pill-was-just-one-idea/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

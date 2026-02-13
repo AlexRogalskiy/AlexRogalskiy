@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Show HN: Double blind entropy using Drand for verifiably fair randomness](https://blockrand.net/live.html)
-- [The Problem with LLMs](https://www.deobald.ca/essays/2026-02-10-the-problem-with-llms/)
-- [Lessons from Zig](https://www.vinniefalco.com/p/lessons-from-zig)
-- [Heroku is not dead](https://nombiezinja.com/word-things/2026/2/8/heroku-is-not-dead)
-- [From 34% to 96%: The Porting Initiative Delivers – Hologram v0.7.0](https://hologram.page/blog/porting-initiative-delivers-hologram-v0-7-0)
-- [GPT-5 outperforms federal judges in legal reasoning experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6155012)
-- [Discord/Twitch/Snapchat age verification bypass](https://age-verifier.kibty.town/)
-- [Covering electricity price increases from our data centers](https://www.anthropic.com/news/covering-electricity-price-increases)
-- [Reports of Telnet&#39;s death have been greatly exaggerated](https://www.terracenetworks.com/blog/2026-02-11-telnet-routing)
-- [Show HN: Agent Alcove – Claude, GPT, and Gemini debate across forums](https://agentalcove.ai)
+- [Skip the Tips: A game to select &quot;No Tip&quot; but dark patterns try to stop you](https://skipthe.tips/)
+- [AWS Adds support for nested virtualization](https://github.com/aws/aws-sdk-go-v2/commit/3dca5e45d5ad05460b93410087833cbaa624754e)
+- [Resizing windows on macOS Tahoe – the saga continues](https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/)
+- [Ring cancels its partnership with Flock Safety after surveillance backlash](https://www.theverge.com/news/878447/ring-flock-partnership-canceled)
+- [Recoverable and Irrecoverable Decisions](https://herbertlui.net/recoverable-and-irrecoverable-decisions/)
+- [Welcoming Discord users amidst the challenge of Age Verification](https://matrix.org/blog/2026/02/welcome-discord/)
+- [Fixing retail with land value capture](https://worksinprogress.co/issue/fixing-retail-with-land-value-capture/)
+- [Rari – Rust-powered React framework](https://rari.build/)
+- [How to Have a Bad Career – David Patterson &lpar;2016&rpar; [video]](https://www.youtube.com/watch?v=Rn1w4MRHIhc)
+- [Anthropic raises $30B in Series G funding at $380B post-money valuation](https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

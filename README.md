@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Victorian Engineering Connections Diagram from the Brunel Museum](https://thebrunelmuseum.com/engineering-connections/)
-- [Self-Distillation Enables Continual Learning](https://self-distillation.github.io/SDFT.html)
-- [Distributed Llama](https://github.com/b4rtaz/distributed-llama)
-- [GLM-5 was trained on Huawei chips](https://glm5.net/)
-- [Show HN: Prompt Builder – A block-based editor for composing AI prompts](https://www.promptbuilder.space/)
-- [Dawson&#39;s Creek star James Van Der Beek has died at 48 from Stage 3 colon cancer](https://www.npr.org/2026/02/11/nx-s1-5552216/james-van-der-beek-dead-dawsons-creek)
-- [ClawShield – Security audit tool for OpenClaw deployments](https://github.com/policygate/clawshield)
-- [Conversations Happen in Cars](https://oedmethod.substack.com/p/best-conversations-are-in-cars)
-- [I built an app that lets you search for anything in your house like Google](https://apps.apple.com/us/app/shelver-home-organization/id6756636954)
-- [Motorola&#39;s Password Pill Was Just One Idea](https://hackaday.com/2026/02/11/motorolas-password-pill-was-just-one-idea/)
+- [A Geometric Solution to the Coulomb Barrier via 10D Phase-Alignment](https://sharetext.io/d0bm1suz)
+- [ICE Masks Up in More Ways Than One](https://www.kenklippenstein.com/p/exclusive-ice-masks-up-in-more-ways)
+- [Better hardware means OpenAI, Anthropic, etc. are doomed in the future?](https://news.ycombinator.com/item?id=46998801)
+- [Cloud-Claw: Run OpenClaw with 1 Click on Cloudflare to Create Personal Agent](https://github.com/miantiao-me/cloud-claw)
+- [RBC – It Stands for Big Chicken](https://www.reallybigchicken.com/)
+- [Goldman&#39;s India Push Pays Off in Crowded Wall Street Field](https://www.bloomberg.com/news/articles/2026-02-10/goldman-s-push-bears-fruit-in-india-s-crowded-wall-street-field)
+- [I built JoyPass: surprise gestures like breakfast in bed, now in Apple Wallet](https://joypass.co)
+- [LLM Reasoning Failures](https://arxiv.org/abs/2602.06176)
+- [Megalancer.com](https://megalancer.com/)
+- [I improved 15 LLMs at coding in one afternoon. Only the harness changed](https://twitter.com/_can1357/status/2021828033640911196)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

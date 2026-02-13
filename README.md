@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Sean Dyche sacked by Nottingham Forest after Wolves draw](https://www.theguardian.com/football/2026/feb/11/nottingham-forest-wolves-premier-league-match-report)
-- [Fears former Canberra boy has been executed in Iran, as Australia makes representations to Tehran](https://www.theguardian.com/australia-news/2026/feb/12/fears-former-canberra-boy-has-been-executed-in-iran-as-australia-makes-representations-to-tehran)
-- [Comedians pick on me for my loud laugh – but nothing will make me stop | Jane Howard](https://www.theguardian.com/culture/2026/feb/12/loud-laugh-comedy-shows)
-- [Monks bring balm for America’s wounds as Washington cheers peace odyssey](https://www.theguardian.com/us-news/2026/feb/11/buddhist-monks-peace-walk-washington-dc)
-- [Tarique Rahman promises era of clean politics as Bangladesh holds first election since fall of Hasina](https://www.theguardian.com/world/2026/feb/12/tarique-rahman-bnp-bangladesh-election)
-- [Canadian police identify suspect in school massacre that left nine dead](https://www.theguardian.com/world/2026/feb/11/tumbler-ridge-canada-shooting-school-mark-carney)
-- [Ukraine war briefing: Elections will be held only after ceasefire, says Zelenskyy](https://www.theguardian.com/world/2026/feb/12/ukraine-war-briefing-elections-only-after-ceasefire-zelenskyy)
-- [One in 14 children who die in England have closely related parents, study finds](https://www.theguardian.com/society/2026/feb/12/one-in-14-children-who-die-in-england-have-closely-related-parents-study-finds)
-- [Parents of children taken in to care should get more help, say experts after Victoria Marten death](https://www.theguardian.com/society/2026/feb/12/parents-children-taken-in-to-care-review-victoria-marten-death)
-- [Housing market in England and Wales ‘showing tentative signs of recovery’](https://www.theguardian.com/business/2026/feb/12/housing-market-in-england-wales-rics-sales-house-prices)
+- [US man linked to Wieambilla shooters sentenced to three years in prison](https://www.theguardian.com/australia-news/2026/feb/13/us-man-linked-to-wieambilla-shooters-jailed-years-ntwnfb)
+- [Gold thief flees scene of the crime on donkey in central Turkey – video](https://www.theguardian.com/world/video/2026/feb/13/gold-thief-flees-scene-of-the-on-donkey-in-central-turkey-video)
+- [Bangladesh election: BNP claims win in historic first election since overthrow of Hasina](https://www.theguardian.com/world/2026/feb/13/bangladesh-election-bnp-wins)
+- [Top lawyer at Goldman Sachs resigns after revelation of Epstein relationship](https://www.theguardian.com/us-news/2026/feb/12/goldman-sachs-lawyer-resigns-jeffrey-epstein)
+- [Ukraine war briefing: Rubio to meet Zelenskyy in Munich as Russian strikes leave thousands without power](https://www.theguardian.com/world/2026/feb/13/ukraine-war-briefing-marco-rubio-meet-volodymyr-zelenskyy-munich)
+- [Feathers, lace and Jacob Elordi’s gold tooth: Wuthering Heights premieres in Australia – in pictures](https://www.theguardian.com/culture/gallery/2026/feb/13/wuthering-heights-premiere-australia-gallery-in-pictures)
+- [In a pickle: couple charged with felony battery after pickleball brawl at Florida country club](https://www.theguardian.com/us-news/2026/feb/12/florida-pickleball-brawl)
+- [Trump nominates hospitality executive to lead National Park Service](https://www.theguardian.com/us-news/2026/feb/12/trump-nominates-scott-socha-national-park-service)
+- [Sussan Ley to quit politics after being deposed as Liberal leader, triggering contentious byelection](https://www.theguardian.com/australia-news/2026/feb/13/sussan-ley-to-quit-politics-byelection-liberal-party-leadership-spill)
+- [Tony Blair’s thinktank accuses Ed Miliband of driving up energy prices](https://www.theguardian.com/environment/2026/feb/13/tony-blair-institute-thinktank-ed-miliband-energy-prices)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

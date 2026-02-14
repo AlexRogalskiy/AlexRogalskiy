@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [A Geometric Solution to the Coulomb Barrier via 10D Phase-Alignment](https://sharetext.io/d0bm1suz)
-- [ICE Masks Up in More Ways Than One](https://www.kenklippenstein.com/p/exclusive-ice-masks-up-in-more-ways)
-- [Better hardware means OpenAI, Anthropic, etc. are doomed in the future?](https://news.ycombinator.com/item?id=46998801)
-- [Cloud-Claw: Run OpenClaw with 1 Click on Cloudflare to Create Personal Agent](https://github.com/miantiao-me/cloud-claw)
-- [RBC – It Stands for Big Chicken](https://www.reallybigchicken.com/)
-- [Goldman&#39;s India Push Pays Off in Crowded Wall Street Field](https://www.bloomberg.com/news/articles/2026-02-10/goldman-s-push-bears-fruit-in-india-s-crowded-wall-street-field)
-- [I built JoyPass: surprise gestures like breakfast in bed, now in Apple Wallet](https://joypass.co)
-- [LLM Reasoning Failures](https://arxiv.org/abs/2602.06176)
-- [Megalancer.com](https://megalancer.com/)
-- [I improved 15 LLMs at coding in one afternoon. Only the harness changed](https://twitter.com/_can1357/status/2021828033640911196)
+- [Elephant trunk whiskers exhibit material intelligence](https://www.mpg.de/26113474/elephant-trunk-whiskers-exhibit-material-intelligence)
+- [Buddhist monks vs. Trump&#39;s fake &quot;Board of Peace&quot;](https://www.salon.com/2026/02/13/buddhist-monks-vs-trumps-fake-board-of-peace/)
+- [Why ads are coming to your AI chatbot](https://www.ft.com/content/c9acd1f7-4864-4bd7-9ada-d2e13f05b906)
+- [On the philosophical relevance of Gödel&#39;s incompleteness theorems [pdf]](https://philpapers.org/archive/RAAOTP.pdf)
+- [Ask HN: Exceptionally well-written research papers in CS/ML/AI?](https://news.ycombinator.com/item?id=47011353)
+- [Oh, good: Discord&#39;s age verification rollout has ties to Palantir co-founder](https://www.pcgamer.com/software/platforms/oh-good-discords-age-verification-rollout-has-ties-to-palantir-co-founder-and-panopticon-architect-peter-thiel/)
+- [Zvec is a lightweight, fast, in-process vector database](https://github.com/alibaba/zvec)
+- [OpenAI accuses DeepSeek of &quot;free-riding&quot; on American R&amp;D](https://restofworld.org/2026/openai-deepseek-distillation-dispute-us-china/)
+- [Painting Is a Program, Poetry Is a Prompt: Rethinking AI&#39;s Role](https://news.ycombinator.com/item?id=47011309)
+- [US FTC ramps up scrutiny of Microsoft over AI, cloud practices](https://www.reuters.com/legal/litigation/us-ftc-ramps-up-scrutiny-microsoft-over-ai-cloud-practices-questions-rivals-2026-02-13/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

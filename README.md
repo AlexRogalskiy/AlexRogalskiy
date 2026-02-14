@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [US man linked to Wieambilla shooters sentenced to three years in prison](https://www.theguardian.com/australia-news/2026/feb/13/us-man-linked-to-wieambilla-shooters-jailed-years-ntwnfb)
-- [Gold thief flees scene of the crime on donkey in central Turkey – video](https://www.theguardian.com/world/video/2026/feb/13/gold-thief-flees-scene-of-the-on-donkey-in-central-turkey-video)
-- [Bangladesh election: BNP claims win in historic first election since overthrow of Hasina](https://www.theguardian.com/world/2026/feb/13/bangladesh-election-bnp-wins)
-- [Top lawyer at Goldman Sachs resigns after revelation of Epstein relationship](https://www.theguardian.com/us-news/2026/feb/12/goldman-sachs-lawyer-resigns-jeffrey-epstein)
-- [Ukraine war briefing: Rubio to meet Zelenskyy in Munich as Russian strikes leave thousands without power](https://www.theguardian.com/world/2026/feb/13/ukraine-war-briefing-marco-rubio-meet-volodymyr-zelenskyy-munich)
-- [Feathers, lace and Jacob Elordi’s gold tooth: Wuthering Heights premieres in Australia – in pictures](https://www.theguardian.com/culture/gallery/2026/feb/13/wuthering-heights-premiere-australia-gallery-in-pictures)
-- [In a pickle: couple charged with felony battery after pickleball brawl at Florida country club](https://www.theguardian.com/us-news/2026/feb/12/florida-pickleball-brawl)
-- [Trump nominates hospitality executive to lead National Park Service](https://www.theguardian.com/us-news/2026/feb/12/trump-nominates-scott-socha-national-park-service)
-- [Sussan Ley to quit politics after being deposed as Liberal leader, triggering contentious byelection](https://www.theguardian.com/australia-news/2026/feb/13/sussan-ley-to-quit-politics-byelection-liberal-party-leadership-spill)
-- [Tony Blair’s thinktank accuses Ed Miliband of driving up energy prices](https://www.theguardian.com/environment/2026/feb/13/tony-blair-institute-thinktank-ed-miliband-energy-prices)
+- [US strikes second alleged drug boat in a week, bringing death toll to 133](https://www.theguardian.com/us-news/2026/feb/13/us-boat-strike-caribbean-drugs)
+- [Trump news at a glance: Alexandria Ocasio-Cortez blasts president’s ‘age of authoritarianism’ at European conference](https://www.theguardian.com/us-news/2026/feb/13/trump-news-at-a-glance-updates-latest-today)
+- [Ocasio-Cortez says US military aid to Israel ‘enabled a genocide in Gaza’](https://www.theguardian.com/us-news/2026/feb/13/alexandria-ocasio-cortez-israel-military-aid)
+- [Western US states fail to negotiate crucial Colorado River deal: ‘Mother nature isn’t going to bail us out’](https://www.theguardian.com/us-news/2026/feb/13/colorado-river-crucial-deadline)
+- [Shadowlands review – Hugh Bonneville charms in a weepie that’s as creaky as an old library](https://www.theguardian.com/stage/2026/feb/13/shadowlands-review-aldwych-theatre-london-hugh-bonneville)
+- [Blaming immigrants for problems is wrong, says Guardiola after Ratcliffe comments](https://www.theguardian.com/football/2026/feb/13/blaming-immigrants-for-problems-is-wrong-says-pep-guardiola-manchester-city-after-sir-jim-ratcliffe-comments)
+- [Arne Slot insists he wants ‘vital’ Ibrahima Konaté to sign new Liverpool deal](https://www.theguardian.com/football/2026/feb/13/arne-slot-ibrahima-konate-liverpool-contract-premier-league)
+- [Keir Starmer to call on UK and Europe to step up commitments to Nato](https://www.theguardian.com/world/2026/feb/13/keir-starmer-to-call-on-uk-and-europe-to-step-up-commitments-to-nato)
+- [Trump sends second aircraft carrier to Middle East in effort to increase pressure on Iran](https://www.theguardian.com/world/2026/feb/13/trump-sends-second-aircraft-carrier-middle-east-iran)
+- [Ilia Malinin falls twice as Kazakhstan’s Shaidorov stuns field for Olympic gold](https://www.theguardian.com/sport/2026/feb/13/ilia-malinin-olympics-figure-skating-mikhail-shaidorov)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

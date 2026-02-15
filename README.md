@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [US strikes second alleged drug boat in a week, bringing death toll to 133](https://www.theguardian.com/us-news/2026/feb/13/us-boat-strike-caribbean-drugs)
-- [Trump news at a glance: Alexandria Ocasio-Cortez blasts president’s ‘age of authoritarianism’ at European conference](https://www.theguardian.com/us-news/2026/feb/13/trump-news-at-a-glance-updates-latest-today)
-- [Ocasio-Cortez says US military aid to Israel ‘enabled a genocide in Gaza’](https://www.theguardian.com/us-news/2026/feb/13/alexandria-ocasio-cortez-israel-military-aid)
-- [Western US states fail to negotiate crucial Colorado River deal: ‘Mother nature isn’t going to bail us out’](https://www.theguardian.com/us-news/2026/feb/13/colorado-river-crucial-deadline)
-- [Shadowlands review – Hugh Bonneville charms in a weepie that’s as creaky as an old library](https://www.theguardian.com/stage/2026/feb/13/shadowlands-review-aldwych-theatre-london-hugh-bonneville)
-- [Blaming immigrants for problems is wrong, says Guardiola after Ratcliffe comments](https://www.theguardian.com/football/2026/feb/13/blaming-immigrants-for-problems-is-wrong-says-pep-guardiola-manchester-city-after-sir-jim-ratcliffe-comments)
-- [Arne Slot insists he wants ‘vital’ Ibrahima Konaté to sign new Liverpool deal](https://www.theguardian.com/football/2026/feb/13/arne-slot-ibrahima-konate-liverpool-contract-premier-league)
-- [Keir Starmer to call on UK and Europe to step up commitments to Nato](https://www.theguardian.com/world/2026/feb/13/keir-starmer-to-call-on-uk-and-europe-to-step-up-commitments-to-nato)
-- [Trump sends second aircraft carrier to Middle East in effort to increase pressure on Iran](https://www.theguardian.com/world/2026/feb/13/trump-sends-second-aircraft-carrier-middle-east-iran)
-- [Ilia Malinin falls twice as Kazakhstan’s Shaidorov stuns field for Olympic gold](https://www.theguardian.com/sport/2026/feb/13/ilia-malinin-olympics-figure-skating-mikhail-shaidorov)
+- [Assailants kill at least 32 in north-west Nigerian villages, residents say](https://www.theguardian.com/world/2026/feb/14/assailants-kill-raids-northwest-nigeria-villages-residents-say)
+- [Unions and Labour MPs call on Starmer to end ‘narrow factional agenda’](https://www.theguardian.com/politics/2026/feb/14/unions-and-labour-mps-call-on-starmer-to-end-narrow-factional-agenda)
+- [Mohamed Salah recaptures scintillating form as Liverpool see off Brighton](https://www.theguardian.com/football/2026/feb/14/liverpool-brighton-fa-cup-fourth-round-match-report)
+- [More than 60 children infected in north London measles outbreak](https://www.theguardian.com/society/2026/feb/14/more-than-60-children-infected-in-north-london-measles-outbreak)
+- [BrewDog could be broken up as craft beer business put up for sale](https://www.theguardian.com/business/2026/feb/14/brewdog-could-be-broken-up-as-craft-beer-business-put-up-for-sale)
+- [Four new astronauts arrive via SpaceX rocket at International Space Station](https://www.theguardian.com/science/2026/feb/14/international-space-station-full-crew)
+- [Nobel laureate transferred to prison in northern Iran without warning](https://www.theguardian.com/world/2026/feb/14/nobel-laureate-transferred-to-prison-in-northern-iran-without-warning)
+- [Keith Andrews’s gravity-defying miracle has Brentford dreaming of Europe | Jonathan Wilson](https://www.theguardian.com/football/2026/feb/14/keith-andrewss-gravity-defying-miracle-has-brentford-dreaming-of-europe)
+- [Sandro Tonali fires Newcastle past 10-man Aston Villa on bad night for officials](https://www.theguardian.com/football/2026/feb/14/aston-villa-newcastle-fa-cup-fourth-round-match-report)
+- [Dina Asher-Smith blasts back to form with 60m UK Indoor Championships record](https://www.theguardian.com/sport/2026/feb/14/dina-asher-smith-blasts-back-to-form-with-60m-uk-indoor-championships-record)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

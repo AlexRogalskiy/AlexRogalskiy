@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [NPMX – a fast, modern browser for the NPM registry](https://npmx.dev)
-- [What dating apps are optimizing. Hint: It isn&#39;t love](https://phys.org/news/2026-02-dating-apps-optimizing-hint-isnt.html)
-- [An AI Agent Published a Hit Piece on Me – More Things Have Happened](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/)
-- [OpenAI has deleted the word &#39;safely&#39; from its mission](https://theconversation.com/openai-has-deleted-the-word-safely-from-its-mission-and-its-new-structure-is-a-test-for-whether-ai-serves-society-or-shareholders-274467)
-- [Show HN: Data Engineering Book – An open source, community-driven guide](https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md)
-- [The EU moves to kill infinite scrolling](https://www.politico.eu/article/tiktok-meta-facebook-instagram-brussels-kill-infinite-scrolling/)
-- [GPT-5.2 derives a new result in theoretical physics](https://openai.com/index/new-result-theoretical-physics/)
-- [I&#39;m not worried about AI job loss](https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss)
-- [Show HN: Skill that lets Claude Code/Codex spin up VMs and GPUs](https://cloudrouter.dev/)
-- [Age of Empires: 25 years of pathfinding problems with C++ [video]](https://www.youtube.com/watch?v=lEBQveBCtKY)
+- [NewPipe: YouTube client without vertical videos and algorithmic feed](https://newpipe.net/)
+- [I love the work of the ArchWiki maintainers](https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/)
+- [Show HN: Off Grid – Run AI text, image gen, vision offline on your phone](https://github.com/alichherawalla/off-grid-mobile)
+- [Colored Petri Nets, LLMs, and distributed applications](https://blog.sao.dev/cpns-llms-distributed-apps/)
+- [Descent, ported to the web](https://mrdoob.github.io/three-descent/)
+- [News publishers limit Internet Archive access due to AI scraping concerns](https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/)
+- [uBlock filter list to hide all YouTube Shorts](https://github.com/i5heu/ublock-hide-yt-shorts/)
+- [Amsterdam Compiler Kit](https://github.com/davidgiven/ack)
+- [A review of M Disc archival capability with long term testing results &lpar;2016&rpar;](http://www.microscopy-uk.org.uk/mag/artsep16/mol-mdisc-review.html)
+- [My smart sleep mask broadcasts users&#39; brainwaves to an open MQTT broker](https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

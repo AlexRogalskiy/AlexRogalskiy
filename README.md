@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Elephant trunk whiskers exhibit material intelligence](https://www.mpg.de/26113474/elephant-trunk-whiskers-exhibit-material-intelligence)
-- [Buddhist monks vs. Trump&#39;s fake &quot;Board of Peace&quot;](https://www.salon.com/2026/02/13/buddhist-monks-vs-trumps-fake-board-of-peace/)
-- [Why ads are coming to your AI chatbot](https://www.ft.com/content/c9acd1f7-4864-4bd7-9ada-d2e13f05b906)
-- [On the philosophical relevance of Gödel&#39;s incompleteness theorems [pdf]](https://philpapers.org/archive/RAAOTP.pdf)
-- [Ask HN: Exceptionally well-written research papers in CS/ML/AI?](https://news.ycombinator.com/item?id=47011353)
-- [Oh, good: Discord&#39;s age verification rollout has ties to Palantir co-founder](https://www.pcgamer.com/software/platforms/oh-good-discords-age-verification-rollout-has-ties-to-palantir-co-founder-and-panopticon-architect-peter-thiel/)
-- [Zvec is a lightweight, fast, in-process vector database](https://github.com/alibaba/zvec)
-- [OpenAI accuses DeepSeek of &quot;free-riding&quot; on American R&amp;D](https://restofworld.org/2026/openai-deepseek-distillation-dispute-us-china/)
-- [Painting Is a Program, Poetry Is a Prompt: Rethinking AI&#39;s Role](https://news.ycombinator.com/item?id=47011309)
-- [US FTC ramps up scrutiny of Microsoft over AI, cloud practices](https://www.reuters.com/legal/litigation/us-ftc-ramps-up-scrutiny-microsoft-over-ai-cloud-practices-questions-rivals-2026-02-13/)
+- [Show HN: Give a Voice to Your AI Agent](https://fellowgeek.github.io/mcp-speak/)
+- [Interview with CEO of rsync.net: &quot;no firewalls and no routers&quot; &lpar;2021&rpar;](https://web.archive.org/web/20210318194443/https://console.dev/qa/rsync-john-kozubik/)
+- [TextBar – tiny app that lets you add any text to macOS menu bar](https://github.com/richie5um/TextBar)
+- [Exploring Rust Traits](https://beej.us/blog/data/rust-trait-impl/)
+- [Aristotle and the so-called Tragic Flaw](https://jonathanbate.substack.com/p/aristotle-and-the-so-called-tragic)
+- [Show HN: Letta – Git-Based Memory for Coding Agents](https://www.letta.com/)
+- [Mimir: GPU Computational Kernels in Rust](https://github.com/ccleavinger/mimir)
+- [Show HN: Generate unique icon sets and extend them later in the same style](https://iconsmint.com)
+- [Quamina and Claude, Case 1](https://www.tbray.org/ongoing/When/202x/2026/02/06/Q-Plus-C-Ch1)
+- [Show HN: Quoracle: Self-replicating multi-LLM-consensus agents &lpar;Elixir&rpar;](https://github.com/shelvick/quoracle)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

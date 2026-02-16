@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: Give a Voice to Your AI Agent](https://fellowgeek.github.io/mcp-speak/)
-- [Interview with CEO of rsync.net: &quot;no firewalls and no routers&quot; &lpar;2021&rpar;](https://web.archive.org/web/20210318194443/https://console.dev/qa/rsync-john-kozubik/)
-- [TextBar – tiny app that lets you add any text to macOS menu bar](https://github.com/richie5um/TextBar)
-- [Exploring Rust Traits](https://beej.us/blog/data/rust-trait-impl/)
-- [Aristotle and the so-called Tragic Flaw](https://jonathanbate.substack.com/p/aristotle-and-the-so-called-tragic)
-- [Show HN: Letta – Git-Based Memory for Coding Agents](https://www.letta.com/)
-- [Mimir: GPU Computational Kernels in Rust](https://github.com/ccleavinger/mimir)
-- [Show HN: Generate unique icon sets and extend them later in the same style](https://iconsmint.com)
-- [Quamina and Claude, Case 1](https://www.tbray.org/ongoing/When/202x/2026/02/06/Q-Plus-C-Ch1)
-- [Show HN: Quoracle: Self-replicating multi-LLM-consensus agents &lpar;Elixir&rpar;](https://github.com/shelvick/quoracle)
+- [Fake job recruiters hide malware in developer coding challenges](https://www.bleepingcomputer.com/news/security/fake-job-recruiters-hide-malware-in-developer-coding-challenges/)
+- [Drink Whole Milk, Eat Red Meat, and Use ChatGPT](https://www.theatlantic.com/technology/2026/02/rfk-jr-hhs-ai-chatbots/686007/)
+- [Show HN: Evolved x86 AVX-512 kernels for NF4 LLM inference](https://github.com/Anuar81/genesis-kernel)
+- [DHS has reportedly sent out subpoenas to identify ICE critics online](https://www.engadget.com/big-tech/homeland-security-has-reportedly-sent-out-hundreds-of-subpoenas-to-identify-ice-critics-online-135245457.html)
+- [Show HN: Wapuubot, an open source AI agent in your WordPress admin](https://github.com/MattPearce/wapuubot)
+- [&#39;Dark matter, not a black hole, could power Milky Way&#39;s heart&#39;](https://ras.ac.uk/news-and-press/research-highlights/dark-matter-not-black-hole-could-power-milky-ways-heart)
+- [Ancient Robots](https://code.chuanqisun.com/ancient-robots/)
+- [Codex CLI might silently re-route your GPT-5.3 traffic to GPT-5.2 instead](https://twitter.com/banteg/status/2023112622950813824)
+- [Show HN: JeffTube](https://jmail.world/jefftube)
+- [Make Your Own OpenClaw](https://blog.alexboden.ca/occam-claw/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

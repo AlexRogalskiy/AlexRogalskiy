@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [NewPipe: YouTube client without vertical videos and algorithmic feed](https://newpipe.net/)
-- [I love the work of the ArchWiki maintainers](https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/)
-- [Show HN: Off Grid – Run AI text, image gen, vision offline on your phone](https://github.com/alichherawalla/off-grid-mobile)
-- [Colored Petri Nets, LLMs, and distributed applications](https://blog.sao.dev/cpns-llms-distributed-apps/)
-- [Descent, ported to the web](https://mrdoob.github.io/three-descent/)
-- [News publishers limit Internet Archive access due to AI scraping concerns](https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/)
-- [uBlock filter list to hide all YouTube Shorts](https://github.com/i5heu/ublock-hide-yt-shorts/)
-- [Amsterdam Compiler Kit](https://github.com/davidgiven/ack)
-- [A review of M Disc archival capability with long term testing results &lpar;2016&rpar;](http://www.microscopy-uk.org.uk/mag/artsep16/mol-mdisc-review.html)
-- [My smart sleep mask broadcasts users&#39; brainwaves to an open MQTT broker](https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/)
+- [The heavy reality of Venezuela&#39;s oil](https://www.reuters.com/graphics/USA-VENEZUELA/OIL-RESERVES/mypmqearlpr/)
+- [Arm wants a bigger slice of the chip business](https://www.economist.com/business/2026/02/12/arm-wants-a-bigger-slice-of-the-chip-business)
+- [Pink noise reduces REM sleep and may harm sleep quality](https://www.pennmedicine.org/news/pink-noise-reduces-rem-sleep-and-may-harm-sleep-quality)
+- [JavaScript-heavy approaches are not compatible with long-term performance goals](https://sgom.es/posts/2026-02-13-js-heavy-approaches-are-not-compatible-with-long-term-performance-goals/)
+- [Error payloads in Zig](https://srcreigh.ca/posts/error-payloads-in-zig/)
+- [Continuous batching from first principles &lpar;2025&rpar;](https://huggingface.co/blog/continuous_batching)
+- [Magnus Carlsen Wins the Freestyle &lpar;Chess960&rpar; World Championship](https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/)
+- [I’m joining OpenAI](https://steipete.me/posts/2026/openclaw)
+- [GNU Pies – Program Invocation and Execution Supervisor](https://www.gnu.org.ua/software/pies/)
+- [Show HN: VOOG – Moog-style polyphonic synthesizer in Python with tkinter GUI](https://github.com/gpasquero/voog)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

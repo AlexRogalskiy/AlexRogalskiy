@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Assailants kill at least 32 in north-west Nigerian villages, residents say](https://www.theguardian.com/world/2026/feb/14/assailants-kill-raids-northwest-nigeria-villages-residents-say)
-- [Unions and Labour MPs call on Starmer to end ‘narrow factional agenda’](https://www.theguardian.com/politics/2026/feb/14/unions-and-labour-mps-call-on-starmer-to-end-narrow-factional-agenda)
-- [Mohamed Salah recaptures scintillating form as Liverpool see off Brighton](https://www.theguardian.com/football/2026/feb/14/liverpool-brighton-fa-cup-fourth-round-match-report)
-- [More than 60 children infected in north London measles outbreak](https://www.theguardian.com/society/2026/feb/14/more-than-60-children-infected-in-north-london-measles-outbreak)
-- [BrewDog could be broken up as craft beer business put up for sale](https://www.theguardian.com/business/2026/feb/14/brewdog-could-be-broken-up-as-craft-beer-business-put-up-for-sale)
-- [Four new astronauts arrive via SpaceX rocket at International Space Station](https://www.theguardian.com/science/2026/feb/14/international-space-station-full-crew)
-- [Nobel laureate transferred to prison in northern Iran without warning](https://www.theguardian.com/world/2026/feb/14/nobel-laureate-transferred-to-prison-in-northern-iran-without-warning)
-- [Keith Andrews’s gravity-defying miracle has Brentford dreaming of Europe | Jonathan Wilson](https://www.theguardian.com/football/2026/feb/14/keith-andrewss-gravity-defying-miracle-has-brentford-dreaming-of-europe)
-- [Sandro Tonali fires Newcastle past 10-man Aston Villa on bad night for officials](https://www.theguardian.com/football/2026/feb/14/aston-villa-newcastle-fa-cup-fourth-round-match-report)
-- [Dina Asher-Smith blasts back to form with 60m UK Indoor Championships record](https://www.theguardian.com/sport/2026/feb/14/dina-asher-smith-blasts-back-to-form-with-60m-uk-indoor-championships-record)
+- [Kim Jong-un unveils housing for families of North Koreans killed in Ukraine war](https://www.theguardian.com/world/2026/feb/16/north-korea-housing-ukraine-war-families)
+- [Wuthering Heights rakes in $77m at global box office in opening weekend](https://www.theguardian.com/film/2026/feb/16/wuthering-heights-box-office-opening-weekend)
+- [Gus Lamont: police return to South Australia home of missing four-year-old in search for new evidence](https://www.theguardian.com/australia-news/2026/feb/16/gus-lamont-update-south-australia-police-search-home-ntwnfb)
+- [Ukraine war briefing: Drone attack on Russian port sparks fires ahead of fresh peace talks](https://www.theguardian.com/world/2026/feb/16/ukraine-war-briefing-drone-attack-on-russian-port-sparks-fires-ahead-of-fresh-peace-talks)
+- [What next for Greenland and Ukraine? Questions after the Munich security conference](https://www.theguardian.com/world/2026/feb/16/munich-security-conference-greenland-ukraine)
+- [China hopes for a bumper lunar new year as world’s biggest migration begins](https://www.theguardian.com/world/2026/feb/16/chinese-lunar-new-year-china-migration-economy)
+- [Intermittent fasting no better than typical weight loss diets, study finds](https://www.theguardian.com/science/2026/feb/16/intermittent-fasting-no-better-than-typical-weight-loss-diet-study-finds)
+- [A new diagnosis of ‘profound autism’ is under consideration. Here’s what parents need to know](https://www.theguardian.com/society/2026/feb/15/profound-autism-meaning-what-is-parents-need-to-know)
+- [Makers of AI chatbots that put children at risk face big fines or UK ban](https://www.theguardian.com/technology/2026/feb/15/ai-chatbots-children-risk-fines-uk-ban)
+- [James Trafford could leave Manchester City after being frozen out by Donnarumma](https://www.theguardian.com/football/2026/feb/15/james-trafford-could-leave-manchester-city-gianluigi-donnarumma)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

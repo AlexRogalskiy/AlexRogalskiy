@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The heavy reality of Venezuela&#39;s oil](https://www.reuters.com/graphics/USA-VENEZUELA/OIL-RESERVES/mypmqearlpr/)
-- [Arm wants a bigger slice of the chip business](https://www.economist.com/business/2026/02/12/arm-wants-a-bigger-slice-of-the-chip-business)
-- [Pink noise reduces REM sleep and may harm sleep quality](https://www.pennmedicine.org/news/pink-noise-reduces-rem-sleep-and-may-harm-sleep-quality)
-- [JavaScript-heavy approaches are not compatible with long-term performance goals](https://sgom.es/posts/2026-02-13-js-heavy-approaches-are-not-compatible-with-long-term-performance-goals/)
-- [Error payloads in Zig](https://srcreigh.ca/posts/error-payloads-in-zig/)
-- [Continuous batching from first principles &lpar;2025&rpar;](https://huggingface.co/blog/continuous_batching)
-- [Magnus Carlsen Wins the Freestyle &lpar;Chess960&rpar; World Championship](https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/)
-- [I’m joining OpenAI](https://steipete.me/posts/2026/openclaw)
-- [GNU Pies – Program Invocation and Execution Supervisor](https://www.gnu.org.ua/software/pies/)
-- [Show HN: VOOG – Moog-style polyphonic synthesizer in Python with tkinter GUI](https://github.com/gpasquero/voog)
+- [Why Affordability and the Vibecession Are Real Economic Problems](https://newsletter.mikekonczal.com/p/why-affordability-and-the-vibecession)
+- [Dark web agent spotted bedroom wall clue to rescue girl from abuse](https://www.bbc.com/news/articles/cx2gn239exlo)
+- [AI is destroying Open Source, and it&#39;s not even good yet](https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/)
+- [Building for an audience of one: starting and finishing side projects with AI](https://codemade.net/blog/building-for-one/)
+- [Show HN: Scanned 1927-1945 Daily USFS Work Diary](https://forestrydiary.com/)
+- [Running NanoClaw in a Docker Shell Sandbox](https://www.docker.com/blog/run-nanoclaw-in-docker-shell-sandboxes/)
+- [Rise of the Triforce](https://dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/)
+- [Study: Self-generated Agent Skills are useless](https://arxiv.org/abs/2602.12670)
+- [Show HN: Free Alternative to Wispr Flow, Superwhisper, and Monologue](https://github.com/zachlatta/freeflow)
+- [Turing Labs &lpar;YC W20&rpar; Is Hiring – Founding GTM Sales Hacker](https://news.ycombinator.com/item?id=47040268)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

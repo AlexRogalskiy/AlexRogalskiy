@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Fake job recruiters hide malware in developer coding challenges](https://www.bleepingcomputer.com/news/security/fake-job-recruiters-hide-malware-in-developer-coding-challenges/)
-- [Drink Whole Milk, Eat Red Meat, and Use ChatGPT](https://www.theatlantic.com/technology/2026/02/rfk-jr-hhs-ai-chatbots/686007/)
-- [Show HN: Evolved x86 AVX-512 kernels for NF4 LLM inference](https://github.com/Anuar81/genesis-kernel)
-- [DHS has reportedly sent out subpoenas to identify ICE critics online](https://www.engadget.com/big-tech/homeland-security-has-reportedly-sent-out-hundreds-of-subpoenas-to-identify-ice-critics-online-135245457.html)
-- [Show HN: Wapuubot, an open source AI agent in your WordPress admin](https://github.com/MattPearce/wapuubot)
-- [&#39;Dark matter, not a black hole, could power Milky Way&#39;s heart&#39;](https://ras.ac.uk/news-and-press/research-highlights/dark-matter-not-black-hole-could-power-milky-ways-heart)
-- [Ancient Robots](https://code.chuanqisun.com/ancient-robots/)
-- [Codex CLI might silently re-route your GPT-5.3 traffic to GPT-5.2 instead](https://twitter.com/banteg/status/2023112622950813824)
-- [Show HN: JeffTube](https://jmail.world/jefftube)
-- [Make Your Own OpenClaw](https://blog.alexboden.ca/occam-claw/)
+- [The quality cost of vibe coding: an audit of OpenClaw&#39;s 180K-star codebase](https://medium.com/@erashu212/i-ran-quality-gates-against-openclaw-180k-stars-2-080-violations-score-zero-7b9911d0a678)
+- [Kill Switch – X-Files S5E11 Transcript](https://www.insidethex.co.uk/transcrp/scrp511.htm)
+- [Textise – Text-Only and Accessibility Tools](https://www.textise.net/)
+- [What it feels like to be replaced by AI: an interactive experience](https://iphonehungry.github.io/ai-big-easy/easy-button/)
+- [RSS Lookup – Find RSS Feeds on Any URL](https://www.rsslookup.com/)
+- [Show HN: Mind Spectrum – Data-driven SEO and digital marketing for SMEs](https://mindspectrum.org)
+- [Vaccine Makers Curtail Research and Cut Jobs](https://www.nytimes.com/2026/02/16/health/rfk-vaccine-manufacturers.html)
+- [Show HN: Swapface – Real-time, hyperrealistic AI face swap for Windows and Mac](https://aiswapface.org)
+- [An Agile Approach to a Legacy System [pdf]](https://cdn.pols.co.uk/papers/agile-approach-to-legacy-systems.pdf)
+- [Programming Is Free](https://idiallo.com/blog/programming-tools-are-free)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

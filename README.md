@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Kim Jong-un unveils housing for families of North Koreans killed in Ukraine war](https://www.theguardian.com/world/2026/feb/16/north-korea-housing-ukraine-war-families)
-- [Wuthering Heights rakes in $77m at global box office in opening weekend](https://www.theguardian.com/film/2026/feb/16/wuthering-heights-box-office-opening-weekend)
-- [Gus Lamont: police return to South Australia home of missing four-year-old in search for new evidence](https://www.theguardian.com/australia-news/2026/feb/16/gus-lamont-update-south-australia-police-search-home-ntwnfb)
-- [Ukraine war briefing: Drone attack on Russian port sparks fires ahead of fresh peace talks](https://www.theguardian.com/world/2026/feb/16/ukraine-war-briefing-drone-attack-on-russian-port-sparks-fires-ahead-of-fresh-peace-talks)
-- [What next for Greenland and Ukraine? Questions after the Munich security conference](https://www.theguardian.com/world/2026/feb/16/munich-security-conference-greenland-ukraine)
-- [China hopes for a bumper lunar new year as world’s biggest migration begins](https://www.theguardian.com/world/2026/feb/16/chinese-lunar-new-year-china-migration-economy)
-- [Intermittent fasting no better than typical weight loss diets, study finds](https://www.theguardian.com/science/2026/feb/16/intermittent-fasting-no-better-than-typical-weight-loss-diet-study-finds)
-- [A new diagnosis of ‘profound autism’ is under consideration. Here’s what parents need to know](https://www.theguardian.com/society/2026/feb/15/profound-autism-meaning-what-is-parents-need-to-know)
-- [Makers of AI chatbots that put children at risk face big fines or UK ban](https://www.theguardian.com/technology/2026/feb/15/ai-chatbots-children-risk-fines-uk-ban)
-- [James Trafford could leave Manchester City after being frozen out by Donnarumma](https://www.theguardian.com/football/2026/feb/15/james-trafford-could-leave-manchester-city-gianluigi-donnarumma)
+- [Trump news at a glance: Ukraine must reach a deal with Russia ‘fast’, says president before trilateral talks](https://www.theguardian.com/us-news/2026/feb/17/trump-administration-news-updates-today)
+- [Ukraine war briefing: Kyiv’s forces made fastest battlefield gains since 2023, analysis finds](https://www.theguardian.com/world/2026/feb/17/ukraine-war-briefing-kyivs-forces-made-fastest-battlefield-gains-since-2023-analysis-finds)
+- [Frederick Wiseman, prolific documentary film-maker, dies aged 96](https://www.theguardian.com/film/2026/feb/17/frederick-wiseman-dies-documentary-film-maker-dead-aged-96)
+- [Taylor Swift concert attack plot: 21-year-old man charged with terrorism in Austria](https://www.theguardian.com/music/2026/feb/17/taylor-swift-austria-vienna-concert-terrorism-attack-plot)
+- [Anderson Cooper to leave 60 Minutes amid turmoil at CBS News](https://www.theguardian.com/media/2026/feb/16/anderson-cooper-to-leave-60-minutes)
+- [‘I just want to stop hearing about it’: a weary South Korea awaits verdict on Yoon insurrection charges](https://www.theguardian.com/world/2026/feb/17/yoon-suk-yeol-south-korea-trial-verdict)
+- [Met deploys drones and ebikes to help catch adolescent phone thieves](https://www.theguardian.com/uk-news/2026/feb/17/met-police-drones-ebikes-phone-thieves-gangs-recruit-children-london)
+- [A Hymn to Life by Gisèle Pelicot review – a unique memoir by a figure of astonishing power](https://www.theguardian.com/books/2026/feb/17/a-hymn-to-life-by-gisele-pelicot-memoir-review)
+- [Six Sarah Ferguson-linked companies to close after Epstein revelations](https://www.theguardian.com/uk-news/2026/feb/16/six-sarah-ferguson-linked-companies-to-close-after-epstein-revelations)
+- [Two British skiers killed in French Alps named](https://www.theguardian.com/world/2026/feb/16/two-british-skiers-killed-in-french-alps-named)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

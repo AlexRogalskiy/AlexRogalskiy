@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Trump news at a glance: Ukraine must reach a deal with Russia ‘fast’, says president before trilateral talks](https://www.theguardian.com/us-news/2026/feb/17/trump-administration-news-updates-today)
-- [Ukraine war briefing: Kyiv’s forces made fastest battlefield gains since 2023, analysis finds](https://www.theguardian.com/world/2026/feb/17/ukraine-war-briefing-kyivs-forces-made-fastest-battlefield-gains-since-2023-analysis-finds)
-- [Frederick Wiseman, prolific documentary film-maker, dies aged 96](https://www.theguardian.com/film/2026/feb/17/frederick-wiseman-dies-documentary-film-maker-dead-aged-96)
-- [Taylor Swift concert attack plot: 21-year-old man charged with terrorism in Austria](https://www.theguardian.com/music/2026/feb/17/taylor-swift-austria-vienna-concert-terrorism-attack-plot)
-- [Anderson Cooper to leave 60 Minutes amid turmoil at CBS News](https://www.theguardian.com/media/2026/feb/16/anderson-cooper-to-leave-60-minutes)
-- [‘I just want to stop hearing about it’: a weary South Korea awaits verdict on Yoon insurrection charges](https://www.theguardian.com/world/2026/feb/17/yoon-suk-yeol-south-korea-trial-verdict)
-- [Met deploys drones and ebikes to help catch adolescent phone thieves](https://www.theguardian.com/uk-news/2026/feb/17/met-police-drones-ebikes-phone-thieves-gangs-recruit-children-london)
-- [A Hymn to Life by Gisèle Pelicot review – a unique memoir by a figure of astonishing power](https://www.theguardian.com/books/2026/feb/17/a-hymn-to-life-by-gisele-pelicot-memoir-review)
-- [Six Sarah Ferguson-linked companies to close after Epstein revelations](https://www.theguardian.com/uk-news/2026/feb/16/six-sarah-ferguson-linked-companies-to-close-after-epstein-revelations)
-- [Two British skiers killed in French Alps named](https://www.theguardian.com/world/2026/feb/16/two-british-skiers-killed-in-french-alps-named)
+- [Radio Free Asia resumes broadcasts to China after Trump cuts forced near closure](https://www.theguardian.com/world/2026/feb/18/radio-free-asia-china-broadcasts)
+- [Ukraine skeleton racer gifted $200,000 by Shakhtar Donetsk owner after Winter Olympics ban](https://www.theguardian.com/sport/2026/feb/18/ukraine-skeleton-racer-heraskevych-gifted-200000-winter-olympics-helmet-ban)
+- [Wealthy Americans top ‘golden visa’ surge in New Zealand and applications from China double](https://www.theguardian.com/world/2026/feb/18/new-zealand-golden-visa-applications-america-china)
+- [Trump news at a glance: Hillary Clinton urges Trump administration to release millions of withheld Epstein files](https://www.theguardian.com/us-news/2026/feb/17/trump-administration-news-updates)
+- [Six skiers found but 10 still missing after avalanche in California](https://www.theguardian.com/us-news/2026/feb/17/california-storm-snow-rain-floods)
+- [Ukraine war briefing: Zelenskyy says Trump exerting ‘unfair’ pressure on Kyiv during Geneva talks](https://www.theguardian.com/world/2026/feb/18/ukraine-war-briefing-zelenskyy-says-trump-pressure-geneva-talks)
+- [Lunar new year 2026: year of the fire horse around the world – in pictures](https://www.theguardian.com/lifeandstyle/gallery/2026/feb/18/lunar-new-year-2026-in-pictures)
+- [Vinícius Júnior takes aim at racist ‘cowards’ after Benfica’s defeat by Real Madrid](https://www.theguardian.com/football/2026/feb/18/vinicius-junior-racist-cowards-benfica-defeat-by-real-madrid)
+- [Nigel Farage unveils Reform UK frontbench team and warns over dissent](https://www.theguardian.com/politics/2026/feb/17/nigel-farage-unveils-reform-uk-frontbench-team)
+- [One in nine new homes in England built in areas of flood risk, study shows](https://www.theguardian.com/environment/2026/feb/18/one-in-nine-new-homes-in-england-built-in-areas-of-flood-risk-study-shows)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The quality cost of vibe coding: an audit of OpenClaw&#39;s 180K-star codebase](https://medium.com/@erashu212/i-ran-quality-gates-against-openclaw-180k-stars-2-080-violations-score-zero-7b9911d0a678)
-- [Kill Switch – X-Files S5E11 Transcript](https://www.insidethex.co.uk/transcrp/scrp511.htm)
-- [Textise – Text-Only and Accessibility Tools](https://www.textise.net/)
-- [What it feels like to be replaced by AI: an interactive experience](https://iphonehungry.github.io/ai-big-easy/easy-button/)
-- [RSS Lookup – Find RSS Feeds on Any URL](https://www.rsslookup.com/)
-- [Show HN: Mind Spectrum – Data-driven SEO and digital marketing for SMEs](https://mindspectrum.org)
-- [Vaccine Makers Curtail Research and Cut Jobs](https://www.nytimes.com/2026/02/16/health/rfk-vaccine-manufacturers.html)
-- [Show HN: Swapface – Real-time, hyperrealistic AI face swap for Windows and Mac](https://aiswapface.org)
-- [An Agile Approach to a Legacy System [pdf]](https://cdn.pols.co.uk/papers/agile-approach-to-legacy-systems.pdf)
-- [Programming Is Free](https://idiallo.com/blog/programming-tools-are-free)
+- [Pidgin Plugins](https://pidgin.im/plugins/)
+- [How the Olympics Are Mixed Live 4k Miles Away [video]](https://www.youtube.com/watch?v=ZAJSaN8Z3Ik)
+- [Meshcore IRC Bridge](https://github.com/daniel-j-h/meshcore-irc-bridge)
+- [Copper-rs the deterministic OS for robotics gets full observability](https://www.copper-robotics.com/whats-new/unlock-full-observability-with-copper-rs-v013)
+- [Show HN: Verified 16.7M Mac chip architecture on $60 Android phone](https://news.ycombinator.com/item?id=47056968)
+- [Multi-Language MCP Server Performance Benchmark](https://www.tmdevlab.com/mcp-server-performance-benchmark.html)
+- [Stop building generic AI chatbots: 45% of support leaders are ahead](https://ideatolaunch.co/blog/why-the-world-doesn-t-need-another-generic-ai-chatbot-and-how-to-build-one-peopl-mlpqrtft)
+- [A Local-Algebraic Route to Emergent Gravity &lpar;100 Pages&rpar;](https://news.ycombinator.com/item?id=47056911)
+- [Cultivating Praxia](https://tasshin.com/blog/cultivating-praxia/)
+- [Managing Docker Composes via GitOps](https://news.ycombinator.com/item?id=47056882)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

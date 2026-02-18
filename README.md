@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Why Affordability and the Vibecession Are Real Economic Problems](https://newsletter.mikekonczal.com/p/why-affordability-and-the-vibecession)
-- [Dark web agent spotted bedroom wall clue to rescue girl from abuse](https://www.bbc.com/news/articles/cx2gn239exlo)
-- [AI is destroying Open Source, and it&#39;s not even good yet](https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/)
-- [Building for an audience of one: starting and finishing side projects with AI](https://codemade.net/blog/building-for-one/)
-- [Show HN: Scanned 1927-1945 Daily USFS Work Diary](https://forestrydiary.com/)
-- [Running NanoClaw in a Docker Shell Sandbox](https://www.docker.com/blog/run-nanoclaw-in-docker-shell-sandboxes/)
-- [Rise of the Triforce](https://dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/)
-- [Study: Self-generated Agent Skills are useless](https://arxiv.org/abs/2602.12670)
-- [Show HN: Free Alternative to Wispr Flow, Superwhisper, and Monologue](https://github.com/zachlatta/freeflow)
-- [Turing Labs &lpar;YC W20&rpar; Is Hiring – Founding GTM Sales Hacker](https://news.ycombinator.com/item?id=47040268)
+- [Halt and Catch Fire: TV&#39;s Best Drama You&#39;ve Probably Never Heard Of &lpar;2021&rpar;](https://www.sceneandheardnu.com/content/halt-and-catch-fire)
+- [It&#39;s not just you, YouTube is partially down in outage](https://9to5google.com/2026/02/17/youtube-outage-february-2026/)
+- [Thousands of CEOs just admitted AI had no impact on employment or productivity](https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/)
+- [Advice, not control: the role of Remote Assistance in Waymo&#39;s operations](https://waymo.com/blog/?modal=short-advice-not-control-the-role-of-remote-assistance)
+- [Google Public CA is down](https://status.pki.goog/incidents/5oJEbcU3ZfMfySTSXXd3)
+- [Minimal x86 Kernel Zig](https://github.com/lopespm/zig-minimal-kernel-x86)
+- [Create bootable ISO image files which are compatible with the Amiga CD32](https://github.com/fuseoppl/isocd-win)
+- [&#39;My Words Are Like an Uncontrollable Dog&#39;: On Life with Nonfluent Aphasia &lpar;2025&rpar;](https://thereader.mitpress.mit.edu/my-words-are-like-an-uncontrollable-dog-on-life-with-nonfluent-aphasia/)
+- [I Use Obsidian &lpar;2023&rpar;](https://stephango.com/vault)
+- [I swear the UFO is coming any minute](https://www.experimental-history.com/p/i-swear-the-ufo-is-coming-any-minute)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

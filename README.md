@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Pidgin Plugins](https://pidgin.im/plugins/)
-- [How the Olympics Are Mixed Live 4k Miles Away [video]](https://www.youtube.com/watch?v=ZAJSaN8Z3Ik)
-- [Meshcore IRC Bridge](https://github.com/daniel-j-h/meshcore-irc-bridge)
-- [Copper-rs the deterministic OS for robotics gets full observability](https://www.copper-robotics.com/whats-new/unlock-full-observability-with-copper-rs-v013)
-- [Show HN: Verified 16.7M Mac chip architecture on $60 Android phone](https://news.ycombinator.com/item?id=47056968)
-- [Multi-Language MCP Server Performance Benchmark](https://www.tmdevlab.com/mcp-server-performance-benchmark.html)
-- [Stop building generic AI chatbots: 45% of support leaders are ahead](https://ideatolaunch.co/blog/why-the-world-doesn-t-need-another-generic-ai-chatbot-and-how-to-build-one-peopl-mlpqrtft)
-- [A Local-Algebraic Route to Emergent Gravity &lpar;100 Pages&rpar;](https://news.ycombinator.com/item?id=47056911)
-- [Cultivating Praxia](https://tasshin.com/blog/cultivating-praxia/)
-- [Managing Docker Composes via GitOps](https://news.ycombinator.com/item?id=47056882)
+- [Brendan Carr defends FCC role in dropped Colbert interview: &#39;No censorship&#39;](https://www.washingtonpost.com/business/2026/02/18/colbert-james-talarico-fcc-segment-cbs/)
+- [The Far-Fetched Mission to Reclaim Islands That Host a Key U.S. Military Base](https://www.wsj.com/world/uk/the-far-fetched-mission-to-reclaim-islands-that-host-a-key-u-s-military-base-bc34f8c5)
+- [Prompt Repetition Improves Non-Reasoning LLMs [pdf]](https://arxiv.org/abs/2512.14982)
+- [Reddit bans user site-wide unless they pay for Reddit ads](https://xcancel.com/mountainweekly/status/2024018391074230311)
+- [C++26: Std:Is_within_lifetime](https://www.sandordargo.com/blog/2026/02/18/cpp26-std_is_within_lifetime)
+- [Beyond Body Count: How Many Past Partners Are Too Many?](https://www.stevestewartwilliams.com/p/beyond-body-count-how-many-past-partners)
+- [Ukranian controls Home Assistant over LoRa radio when their power grid goes down](https://old.reddit.com/r/homeassistant/comments/1r8ftc0/i_control_my_home_assistant_over_lora_radio_when/)
+- [Fluxer: Free and open source instant messaging and VoIP platform](https://github.com/fluxerapp/fluxer)
+- [The Biophysical World Inside a Jam-Packed Cell](https://www.quantamagazine.org/the-biophysical-world-inside-a-jam-packed-cell-20260218/)
+- [TimesFM &lpar;Time Series Foundation Model&rpar;](https://github.com/google-research/timesfm)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

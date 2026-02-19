@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Radio Free Asia resumes broadcasts to China after Trump cuts forced near closure](https://www.theguardian.com/world/2026/feb/18/radio-free-asia-china-broadcasts)
-- [Ukraine skeleton racer gifted $200,000 by Shakhtar Donetsk owner after Winter Olympics ban](https://www.theguardian.com/sport/2026/feb/18/ukraine-skeleton-racer-heraskevych-gifted-200000-winter-olympics-helmet-ban)
-- [Wealthy Americans top ‘golden visa’ surge in New Zealand and applications from China double](https://www.theguardian.com/world/2026/feb/18/new-zealand-golden-visa-applications-america-china)
-- [Trump news at a glance: Hillary Clinton urges Trump administration to release millions of withheld Epstein files](https://www.theguardian.com/us-news/2026/feb/17/trump-administration-news-updates)
-- [Six skiers found but 10 still missing after avalanche in California](https://www.theguardian.com/us-news/2026/feb/17/california-storm-snow-rain-floods)
-- [Ukraine war briefing: Zelenskyy says Trump exerting ‘unfair’ pressure on Kyiv during Geneva talks](https://www.theguardian.com/world/2026/feb/18/ukraine-war-briefing-zelenskyy-says-trump-pressure-geneva-talks)
-- [Lunar new year 2026: year of the fire horse around the world – in pictures](https://www.theguardian.com/lifeandstyle/gallery/2026/feb/18/lunar-new-year-2026-in-pictures)
-- [Vinícius Júnior takes aim at racist ‘cowards’ after Benfica’s defeat by Real Madrid](https://www.theguardian.com/football/2026/feb/18/vinicius-junior-racist-cowards-benfica-defeat-by-real-madrid)
-- [Nigel Farage unveils Reform UK frontbench team and warns over dissent](https://www.theguardian.com/politics/2026/feb/17/nigel-farage-unveils-reform-uk-frontbench-team)
-- [One in nine new homes in England built in areas of flood risk, study shows](https://www.theguardian.com/environment/2026/feb/18/one-in-nine-new-homes-in-england-built-in-areas-of-flood-risk-study-shows)
+- [‘It’s a catastrophe’: Wellington rages as millions of litres of raw sewage pour into ocean](https://www.theguardian.com/world/2026/feb/19/wellington-raw-sewage-leak-spill-water-new-zealand)
+- [US military ready for possible Iran strikes but Trump yet to make decision, reports say](https://www.theguardian.com/us-news/2026/feb/18/trump-iran-us-military-reports)
+- [Year of the fire horse - explained: the Chinese zodiac sign that’s all about intensity](https://www.theguardian.com/lifeandstyle/2026/feb/19/fire-horse-zodiac-sign-lunar-new-year-explained-predictions)
+- [Ebay buys Depop for $1.2bn in bid to capture younger shoppers](https://www.theguardian.com/technology/2026/feb/19/ebay-buys-depop-from-etsy)
+- [Ukraine war briefing: Trump sees conflict as ‘very unfair’ for war dead and US taxpayers, says White House](https://www.theguardian.com/world/2026/feb/19/ukraine-war-briefing-trump-sees-conflict-as-very-unfair-for-war-dead-and-us-taxpayers-says-white-house)
+- [Police seize art posters depicting Trump, Putin and Netanyahu in Nazi uniforms from Canberra bar](https://www.theguardian.com/australia-news/2026/feb/19/police-seize-art-posters-depicting-trump-putin-and-netanyahu-in-nazi-uniforms-from-canberra-bar-ntwnfb)
+- [Shia LaBeouf allegedly called queer man homophobic slurs before New Orleans arrest](https://www.theguardian.com/film/2026/feb/18/shia-labeouf-arrest-new-orleans)
+- [US civil rights agency sues Coca-Cola bottler over event that excluded men](https://www.theguardian.com/us-news/2026/feb/18/coca-cola-equal-employment-sued)
+- [Deadly avalanches not uncommon in California mountains where skiers died](https://www.theguardian.com/us-news/2026/feb/18/avalanche-california-castle-peak)
+- [Milano Cortina Winter Olympics 2026 day 12 – in pictures](https://www.theguardian.com/sport/gallery/2026/feb/18/milano-cortina-winter-olympics-2026-day-12-in-pictures)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

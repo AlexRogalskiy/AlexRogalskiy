@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Halt and Catch Fire: TV&#39;s Best Drama You&#39;ve Probably Never Heard Of &lpar;2021&rpar;](https://www.sceneandheardnu.com/content/halt-and-catch-fire)
-- [It&#39;s not just you, YouTube is partially down in outage](https://9to5google.com/2026/02/17/youtube-outage-february-2026/)
-- [Thousands of CEOs just admitted AI had no impact on employment or productivity](https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/)
-- [Advice, not control: the role of Remote Assistance in Waymo&#39;s operations](https://waymo.com/blog/?modal=short-advice-not-control-the-role-of-remote-assistance)
-- [Google Public CA is down](https://status.pki.goog/incidents/5oJEbcU3ZfMfySTSXXd3)
-- [Minimal x86 Kernel Zig](https://github.com/lopespm/zig-minimal-kernel-x86)
-- [Create bootable ISO image files which are compatible with the Amiga CD32](https://github.com/fuseoppl/isocd-win)
-- [&#39;My Words Are Like an Uncontrollable Dog&#39;: On Life with Nonfluent Aphasia &lpar;2025&rpar;](https://thereader.mitpress.mit.edu/my-words-are-like-an-uncontrollable-dog-on-life-with-nonfluent-aphasia/)
-- [I Use Obsidian &lpar;2023&rpar;](https://stephango.com/vault)
-- [I swear the UFO is coming any minute](https://www.experimental-history.com/p/i-swear-the-ufo-is-coming-any-minute)
+- [Electrobun v1: Build fast, tiny, and cross-platform desktop apps with TypeScript](https://blackboard.sh/blog/electrobun-v1/)
+- [Anthropic officially bans using subscription auth for third party use](https://code.claude.com/docs/en/legal-and-compliance)
+- [Step 3.5 Flash: Fast Enough to Think. Reliable Enough to Act](https://static.stepfun.com/blog/step-3.5-flash/)
+- [Minecraft Java is switching from OpenGL to Vulkan](https://www.gamingonlinux.com/2026/02/minecraft-java-is-switching-from-opengl-to-vulkan-for-the-vibrant-visuals-update/)
+- [15 years of FP64 segmentation, and why the Blackwell Ultra breaks the pattern](https://nicolasdickenmann.com/blog/the-great-fp64-divide.html)
+- [How AI is affecting productivity and jobs in Europe](https://cepr.org/voxeu/columns/how-ai-affecting-productivity-and-jobs-europe)
+- [Microsoft guide to pirating Harry Potter for LLM training &lpar;2024&rpar; [removed]](https://devblogs.microsoft.com/azure-sql/langchain-with-sqlvectorstore-example/)
+- [Closing this as we are no longer pursuing Swift adoption](https://github.com/LadybirdBrowser/ladybird/issues/933)
+- [Sizing chaos](https://pudding.cool/2026/02/womens-sizing/)
+- [Metriport &lpar;YC S22&rpar; is hiring a security engineer to harden healthcare infra](https://www.ycombinator.com/companies/metriport/jobs/XC2AF8s-senior-security-engineer)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

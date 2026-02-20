@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [‘It’s a catastrophe’: Wellington rages as millions of litres of raw sewage pour into ocean](https://www.theguardian.com/world/2026/feb/19/wellington-raw-sewage-leak-spill-water-new-zealand)
-- [US military ready for possible Iran strikes but Trump yet to make decision, reports say](https://www.theguardian.com/us-news/2026/feb/18/trump-iran-us-military-reports)
-- [Year of the fire horse - explained: the Chinese zodiac sign that’s all about intensity](https://www.theguardian.com/lifeandstyle/2026/feb/19/fire-horse-zodiac-sign-lunar-new-year-explained-predictions)
-- [Ebay buys Depop for $1.2bn in bid to capture younger shoppers](https://www.theguardian.com/technology/2026/feb/19/ebay-buys-depop-from-etsy)
-- [Ukraine war briefing: Trump sees conflict as ‘very unfair’ for war dead and US taxpayers, says White House](https://www.theguardian.com/world/2026/feb/19/ukraine-war-briefing-trump-sees-conflict-as-very-unfair-for-war-dead-and-us-taxpayers-says-white-house)
-- [Police seize art posters depicting Trump, Putin and Netanyahu in Nazi uniforms from Canberra bar](https://www.theguardian.com/australia-news/2026/feb/19/police-seize-art-posters-depicting-trump-putin-and-netanyahu-in-nazi-uniforms-from-canberra-bar-ntwnfb)
-- [Shia LaBeouf allegedly called queer man homophobic slurs before New Orleans arrest](https://www.theguardian.com/film/2026/feb/18/shia-labeouf-arrest-new-orleans)
-- [US civil rights agency sues Coca-Cola bottler over event that excluded men](https://www.theguardian.com/us-news/2026/feb/18/coca-cola-equal-employment-sued)
-- [Deadly avalanches not uncommon in California mountains where skiers died](https://www.theguardian.com/us-news/2026/feb/18/avalanche-california-castle-peak)
-- [Milano Cortina Winter Olympics 2026 day 12 – in pictures](https://www.theguardian.com/sport/gallery/2026/feb/18/milano-cortina-winter-olympics-2026-day-12-in-pictures)
+- [Six victims of California avalanche identified as part of close-knit friend group](https://www.theguardian.com/us-news/2026/feb/19/california-avalanche-victims)
+- [Trump labor secretary’s husband barred from department over sexual assault allegations, reports say](https://www.theguardian.com/us-news/2026/feb/19/us-labor-secretary-husband)
+- [Eric Dane, Grey’s Anatomy and Euphoria star, dies aged 53](https://www.theguardian.com/tv-and-radio/2026/feb/20/eric-dane-dies-aged-53-death-greys-anatomy-euphoria-star)
+- [Trump defends tariffs in pre-midterms appearance in battleground Georgia](https://www.theguardian.com/us-news/2026/feb/19/trump-tariffs-georgia)
+- [Australian PM says former prince Andrew has suffered ‘extraordinary fall’ but that won’t prompt another republic referendum](https://www.theguardian.com/australia-news/2026/feb/20/pm-anthony-albanese-australia-republic-comments-former-prince-andrew-arrest-ntwnfb)
+- [Climber convicted of manslaughter after leaving girlfriend on Austria’s highest peak to get help](https://www.theguardian.com/world/2026/feb/20/austria-climber-convicted-manslaughter-girlfriend-kerstin-g-grossglockner-mountain)
+- [Ukraine war briefing: EU eager for membership talks with Kyiv to begin ‘as soon as possible’](https://www.theguardian.com/world/2026/feb/20/ukraine-war-briefing-eu-eager-for-membership-talks-with-kyiv-to-begin-as-soon-as-possible)
+- [Roblox sued by Los Angeles over claims platform ‘makes children easy prey for pedophiles’](https://www.theguardian.com/games/2026/feb/20/los-angeles-sues-roblox-la-county)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2026/feb/20/premier-league-10-things-to-look-out-for-this-weekend)
+- [Domenicali pleads for calm over fears new rules will wreck Formula One](https://www.theguardian.com/sport/2026/feb/20/domenicali-pleads-for-calm-over-fears-new-rules-will-wreck-formula-one)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

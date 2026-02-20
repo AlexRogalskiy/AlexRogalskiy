@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Brendan Carr defends FCC role in dropped Colbert interview: &#39;No censorship&#39;](https://www.washingtonpost.com/business/2026/02/18/colbert-james-talarico-fcc-segment-cbs/)
-- [The Far-Fetched Mission to Reclaim Islands That Host a Key U.S. Military Base](https://www.wsj.com/world/uk/the-far-fetched-mission-to-reclaim-islands-that-host-a-key-u-s-military-base-bc34f8c5)
-- [Prompt Repetition Improves Non-Reasoning LLMs [pdf]](https://arxiv.org/abs/2512.14982)
-- [Reddit bans user site-wide unless they pay for Reddit ads](https://xcancel.com/mountainweekly/status/2024018391074230311)
-- [C++26: Std:Is_within_lifetime](https://www.sandordargo.com/blog/2026/02/18/cpp26-std_is_within_lifetime)
-- [Beyond Body Count: How Many Past Partners Are Too Many?](https://www.stevestewartwilliams.com/p/beyond-body-count-how-many-past-partners)
-- [Ukranian controls Home Assistant over LoRa radio when their power grid goes down](https://old.reddit.com/r/homeassistant/comments/1r8ftc0/i_control_my_home_assistant_over_lora_radio_when/)
-- [Fluxer: Free and open source instant messaging and VoIP platform](https://github.com/fluxerapp/fluxer)
-- [The Biophysical World Inside a Jam-Packed Cell](https://www.quantamagazine.org/the-biophysical-world-inside-a-jam-packed-cell-20260218/)
-- [TimesFM &lpar;Time Series Foundation Model&rpar;](https://github.com/google-research/timesfm)
+- [LLaMAudit: Perform AI detection using local or open models](https://github.com/devrupt-io/LLaMAudit)
+- [Google AI Pro and Ultra now includes Google Developer Program premium benefits](https://blog.google/innovation-and-ai/technology/developers-tools/gdp-premium-ai-pro-ultra/)
+- [Micron Is Spending $200B to Break the AI Memory Bottleneck](https://www.wsj.com/tech/micron-is-spending-200-billion-to-break-the-ai-memory-bottleneck-a4cc74a1)
+- [How much sleep does a banker need? A US court will decide](https://www.ft.com/content/60b3dd1c-112a-470c-aa77-1bc697d13cf7)
+- [Microsoft&#39;s new 10k-year data storage medium: glass](https://arstechnica.com/science/2026/02/microsofts-new-10000-year-data-storage-medium-glass/)
+- [PostgreSQL Bloat Is a Feature, Not a Bug](https://rogerwelin.github.io/2026/02/11/postgresql-bloat-is-a-feature-not-a-bug/)
+- [Follow the Money is phasing out U.S. tech – follow the journey](https://www.ftm.eu/articles/follow-the-money-is-phasing-out-us-tech)
+- [AI Rivalry at AI Summit](https://twitter.com/CNBCTV18News/status/2024428069851959500)
+- [Three Engineers Charged with Stealing Trade Secrets from Leading Tech Companies](https://www.justice.gov/usao-ndca/pr/silicon-valley-engineers-charged-stealing-trade-secrets-leading-tech-companies-and)
+- [Show HN: GameZipper – 12 Free HTML5 Browser Games &lpar;No Ads, No Login&rpar;](https://gamezipper.com/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

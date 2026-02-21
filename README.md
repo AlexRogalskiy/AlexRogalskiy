@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [LLaMAudit: Perform AI detection using local or open models](https://github.com/devrupt-io/LLaMAudit)
-- [Google AI Pro and Ultra now includes Google Developer Program premium benefits](https://blog.google/innovation-and-ai/technology/developers-tools/gdp-premium-ai-pro-ultra/)
-- [Micron Is Spending $200B to Break the AI Memory Bottleneck](https://www.wsj.com/tech/micron-is-spending-200-billion-to-break-the-ai-memory-bottleneck-a4cc74a1)
-- [How much sleep does a banker need? A US court will decide](https://www.ft.com/content/60b3dd1c-112a-470c-aa77-1bc697d13cf7)
-- [Microsoft&#39;s new 10k-year data storage medium: glass](https://arstechnica.com/science/2026/02/microsofts-new-10000-year-data-storage-medium-glass/)
-- [PostgreSQL Bloat Is a Feature, Not a Bug](https://rogerwelin.github.io/2026/02/11/postgresql-bloat-is-a-feature-not-a-bug/)
-- [Follow the Money is phasing out U.S. tech – follow the journey](https://www.ftm.eu/articles/follow-the-money-is-phasing-out-us-tech)
-- [AI Rivalry at AI Summit](https://twitter.com/CNBCTV18News/status/2024428069851959500)
-- [Three Engineers Charged with Stealing Trade Secrets from Leading Tech Companies](https://www.justice.gov/usao-ndca/pr/silicon-valley-engineers-charged-stealing-trade-secrets-leading-tech-companies-and)
-- [Show HN: GameZipper – 12 Free HTML5 Browser Games &lpar;No Ads, No Login&rpar;](https://gamezipper.com/)
+- [Saturn&#39;s Rings Came from a Two-Moon Collision About 100M Years Ago](https://gizmodo.com/saturns-rings-came-from-a-two-moon-collision-about-100-million-years-ago-study-says-2000721450)
+- [A man who triggered the AI explosion&lpar;2020&rpar; – Alex Krizhevsky [video]](https://www.youtube.com/watch?v=gwzwkv2hO5k)
+- [How to Use Goosetown for Parallel Agentic Engineering](https://block.github.io/goose/blog/2026/02/19/gastown-explained-goosetown/)
+- [Checkset – a Ruby gem for repeatable verifications using Playwright](https://afomera.dev/posts/2026-02-20-checkset-introduction)
+- [Understanding LLM from scratch Using middle school math](https://medium.com/data-science/understanding-llms-from-scratch-using-middle-school-math-e602d27ec876)
+- [Process Isolation on NetBSD with Chroot&lpar;2&rpar;](https://overeducated-redneck.net/blurgh/netbsd-chroot-isolation.html)
+- [Hardware LLM at 16K Tokens/s](https://taalas.com/products/)
+- [With Nvidia&#39;s GB10 Superchip, I&#39;m Running Serious AI Models in My Living Room](https://www.pcmag.com/news/nvidia-gb10-superchip-running-ai-models-in-my-living-room)
+- [Former Debian Project Leader Cautions Against Cover-Up and Censorship in Debian](https://techrights.org/n/2026/02/20/Former_Debian_Project_Leader_Branden_Robinson_Cautions_Against_.shtml)
+- [TabType – Universal text expansion for macOS for your context](https://tabtype.app)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

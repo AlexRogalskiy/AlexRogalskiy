@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Six victims of California avalanche identified as part of close-knit friend group](https://www.theguardian.com/us-news/2026/feb/19/california-avalanche-victims)
-- [Trump labor secretary’s husband barred from department over sexual assault allegations, reports say](https://www.theguardian.com/us-news/2026/feb/19/us-labor-secretary-husband)
-- [Eric Dane, Grey’s Anatomy and Euphoria star, dies aged 53](https://www.theguardian.com/tv-and-radio/2026/feb/20/eric-dane-dies-aged-53-death-greys-anatomy-euphoria-star)
-- [Trump defends tariffs in pre-midterms appearance in battleground Georgia](https://www.theguardian.com/us-news/2026/feb/19/trump-tariffs-georgia)
-- [Australian PM says former prince Andrew has suffered ‘extraordinary fall’ but that won’t prompt another republic referendum](https://www.theguardian.com/australia-news/2026/feb/20/pm-anthony-albanese-australia-republic-comments-former-prince-andrew-arrest-ntwnfb)
-- [Climber convicted of manslaughter after leaving girlfriend on Austria’s highest peak to get help](https://www.theguardian.com/world/2026/feb/20/austria-climber-convicted-manslaughter-girlfriend-kerstin-g-grossglockner-mountain)
-- [Ukraine war briefing: EU eager for membership talks with Kyiv to begin ‘as soon as possible’](https://www.theguardian.com/world/2026/feb/20/ukraine-war-briefing-eu-eager-for-membership-talks-with-kyiv-to-begin-as-soon-as-possible)
-- [Roblox sued by Los Angeles over claims platform ‘makes children easy prey for pedophiles’](https://www.theguardian.com/games/2026/feb/20/los-angeles-sues-roblox-la-county)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2026/feb/20/premier-league-10-things-to-look-out-for-this-weekend)
-- [Domenicali pleads for calm over fears new rules will wreck Formula One](https://www.theguardian.com/sport/2026/feb/20/domenicali-pleads-for-calm-over-fears-new-rules-will-wreck-formula-one)
+- [OpenAI considered alerting Canadian police about school shooting suspect months ago](https://www.theguardian.com/world/2026/feb/21/tumbler-ridge-shooter-chatgpt-openai)
+- [US military strike kills three in second alleged drug boat attack this week](https://www.theguardian.com/us-news/2026/feb/20/us-military-strike-drug-smuggling-pacific)
+- [US citizen shot and killed by federal immigration agent last year, new records show](https://www.theguardian.com/us-news/2026/feb/20/us-citizen-killed-federal-immigration-agent)
+- [Nightly raids and violent beatings: Australia urged to accept citizens trapped in Syria as conditions in Roj camp deteriorate](https://www.theguardian.com/australia-news/2026/feb/21/as-conditions-in-roj-camp-deteriorate-australia-urged-to-accept-citizens-trapped-in-syria)
+- [Why is South Korea angry that Yoon Suk Yeol wasn’t sentenced to death?](https://www.theguardian.com/world/2026/feb/21/south-korea-anger-yoon-suk-yeol-life-sentence)
+- [Furious Trump signs global 10% duty after supreme court issues tariff blow](https://www.theguardian.com/us-news/2026/feb/20/trump-tariff-scotus-response)
+- [Tactical, influential and mad about Rupert: Anna Murdoch-Mann remembered after her death aged 81](https://www.theguardian.com/us-news/2026/feb/20/anna-murdoch-mann-dies)
+- [Officials investigate deadly California avalanche for possible criminal negligence](https://www.theguardian.com/us-news/2026/feb/20/california-avalanche-investigation-criminal-negligence)
+- [Constitution Hill could switch to Flat full-time after triumphant debut](https://www.theguardian.com/sport/2026/feb/20/constitution-hill-could-switch-to-flat-full-time-after-triumphant-debut)
+- [USA and Canada to meet in Olympic men’s ice hockey gold medal game](https://www.theguardian.com/sport/2026/feb/20/usa-canada-mens-hockey-gold-medal-milano-cortina)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

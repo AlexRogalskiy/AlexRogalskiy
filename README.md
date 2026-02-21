@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [An AI Agent Published a Hit Piece on Me – The Operator Came Forward](https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/)
-- [Pi for Excel: AI sidebar add-in for Excel, powered by Pi](https://github.com/tmustier/pi-for-excel)
-- [An ARM Homelab Server, or a Minisforum MS-R1 Review](https://sour.coffee/2026/02/20/an-arm-homelab-server-or-a-minisforum-ms-r1-review/)
-- [MuMu Player &lpar;NetEase&rpar; silently runs 17 reconnaissance commands every 30 minutes](https://gist.github.com/interpiduser5/547d8a7baec436f24b7cce89dd4ae1ea)
-- [Show HN: A small, simple music theory library in C99](https://github.com/thelowsunoverthemoon/mahler.c)
-- [Show HN: Ghostty-based terminal with vertical tabs and notifications](https://github.com/manaflow-ai/cmux)
-- [We&#39;re no longer attracting top talent: the brain drain killing American science](https://www.theguardian.com/us-news/2026/feb/19/trump-science-funding-cuts)
-- [Overall, the colorectal cancer story is encouraging](https://www.hankgreen.com/crc)
-- [AI is not a coworker, it&#39;s an exoskeleton](https://www.kasava.dev/blog/ai-as-exoskeleton)
-- [Micropayments as a reality check for news sites](https://blog.zgp.org/micropayments-as-a-reality-check-for-news-sites/)
+- [Excessive token usage in Claude Code](https://github.com/anthropics/claude-code/issues/16856)
+- [What Is OAuth?](https://leaflet.pub/p/did:plc:3vdrgzr2zybocs45yfhcr6ur/3mfd2oxx5v22b)
+- [Cord: Coordinating Trees of AI Agents](https://www.june.kim/cord)
+- [Show HN: I built a 55K-word email marketing knowledge base and Claude Code skill](https://www.emailmarketingskill.com/)
+- [Lexega Turns SQL into Signals](https://lexega.com/blog/how-lexega-turns-sql-into-signals)
+- [CERN rebuilt the original browser from 1989 &lpar;2019&rpar;](https://worldwideweb.cern.ch)
+- [Across the US, people are dismantling and destroying Flock surveillance cameras](https://www.bloodinthemachine.com/p/across-the-us-people-are-dismantling)
+- [Don&#39;t create .gitkeep files, use .gitignore instead &lpar;2023&rpar;](https://adamj.eu/tech/2023/09/18/git-dont-create-gitkeep/)
+- [Turn Dependabot Off](https://words.filippo.io/dependabot/)
+- [Show HN: Mines.fyi – all the mines in the US in a leaflet visualization](https://mines.fyi/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

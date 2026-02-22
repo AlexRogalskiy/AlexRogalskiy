@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Excessive token usage in Claude Code](https://github.com/anthropics/claude-code/issues/16856)
-- [What Is OAuth?](https://leaflet.pub/p/did:plc:3vdrgzr2zybocs45yfhcr6ur/3mfd2oxx5v22b)
-- [Cord: Coordinating Trees of AI Agents](https://www.june.kim/cord)
-- [Show HN: I built a 55K-word email marketing knowledge base and Claude Code skill](https://www.emailmarketingskill.com/)
-- [Lexega Turns SQL into Signals](https://lexega.com/blog/how-lexega-turns-sql-into-signals)
-- [CERN rebuilt the original browser from 1989 &lpar;2019&rpar;](https://worldwideweb.cern.ch)
-- [Across the US, people are dismantling and destroying Flock surveillance cameras](https://www.bloodinthemachine.com/p/across-the-us-people-are-dismantling)
-- [Don&#39;t create .gitkeep files, use .gitignore instead &lpar;2023&rpar;](https://adamj.eu/tech/2023/09/18/git-dont-create-gitkeep/)
-- [Turn Dependabot Off](https://words.filippo.io/dependabot/)
-- [Show HN: Mines.fyi – all the mines in the US in a leaflet visualization](https://mines.fyi/)
+- [People Loved the Dot-Com Boom. The A.I. Boom, Not So Much](https://www.nytimes.com/2026/02/21/technology/ai-boom-backlash.html)
+- [Japanese Woodblock Print Search](https://ukiyo-e.org/)
+- [Palantir&#39;s secret weapon isn&#39;t AI – it&#39;s Ontology. An open-source deep dive](https://github.com/Leading-AI-IO/palantir-ontology-strategy)
+- [A Botnet Accidentally Destroyed I2P](https://www.sambent.com/a-botnet-accidentally-destroyed-i2p-the-full-story/)
+- [How I use Claude Code: Separation of planning and execution](https://boristane.com/blog/how-i-use-claude-code/)
+- [Evidence of the bouba-kiki effect in naïve baby chicks](https://www.science.org/doi/10.1126/science.adq7188)
+- [Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU](https://github.com/xaskasdf/ntransformer)
+- [EDuke32 – Duke Nukem 3D &lpar;Open-Source&rpar;](https://www.eduke32.com/)
+- [Inputlag.science – Repository of knowledge about input lag in gaming](https://inputlag.science)
+- [Parse, Don&#39;t Validate and Type-Driven Design in Rust](https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

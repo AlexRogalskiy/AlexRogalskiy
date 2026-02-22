@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Saturn&#39;s Rings Came from a Two-Moon Collision About 100M Years Ago](https://gizmodo.com/saturns-rings-came-from-a-two-moon-collision-about-100-million-years-ago-study-says-2000721450)
-- [A man who triggered the AI explosion&lpar;2020&rpar; – Alex Krizhevsky [video]](https://www.youtube.com/watch?v=gwzwkv2hO5k)
-- [How to Use Goosetown for Parallel Agentic Engineering](https://block.github.io/goose/blog/2026/02/19/gastown-explained-goosetown/)
-- [Checkset – a Ruby gem for repeatable verifications using Playwright](https://afomera.dev/posts/2026-02-20-checkset-introduction)
-- [Understanding LLM from scratch Using middle school math](https://medium.com/data-science/understanding-llms-from-scratch-using-middle-school-math-e602d27ec876)
-- [Process Isolation on NetBSD with Chroot&lpar;2&rpar;](https://overeducated-redneck.net/blurgh/netbsd-chroot-isolation.html)
-- [Hardware LLM at 16K Tokens/s](https://taalas.com/products/)
-- [With Nvidia&#39;s GB10 Superchip, I&#39;m Running Serious AI Models in My Living Room](https://www.pcmag.com/news/nvidia-gb10-superchip-running-ai-models-in-my-living-room)
-- [Former Debian Project Leader Cautions Against Cover-Up and Censorship in Debian](https://techrights.org/n/2026/02/20/Former_Debian_Project_Leader_Branden_Robinson_Cautions_Against_.shtml)
-- [TabType – Universal text expansion for macOS for your context](https://tabtype.app)
+- [I scanned 30 popular AI projects for tamper-evident LLM evidence. 0 had it](https://github.com/Haserjian/assay)
+- [BEMoji CSS Framework: BEM, but make it unreadable](https://tomhayes.github.io/BEMoji/)
+- [Ferret-UI Lite – Apple on-device end-to-end GUI agent](https://arxiv.org/abs/2509.26539)
+- [Open source IoT board with 400 MHz dual-core RISC-V chip and lots of I/O for $29](https://liliputing.com/olimex-esp32-p4-pc-is-an-open-source-iot-board-with-a-400-mhz-dual-core-risc-v-chip-and-plenty-of-i-o-for-29/)
+- [Ferret-UI Lite: Lessons from Building Small On-Device GUI Agents](https://machinelearning.apple.com/research/ferret-ui)
+- [ECS Library for TypeScript](https://github.com/2khan/oecs)
+- [Comparing Job Offers](https://longviewy.com/pay-raise-math-for-comparing-job-offers/)
+- [Influencers want to adopt the &#39;analog lifestyle&#39; for 2026](https://www.latimes.com/california/story/2026-02-21/analog-lifestyle-trend)
+- [Cal.com – Open Scheduling Infrastructure](https://cal.com/)
+- [Show HN: Trawlx - Tweet text, likes, and retweets as JSON, no API keys](https://github.com/timstarkk/trawlx)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [OpenAI considered alerting Canadian police about school shooting suspect months ago](https://www.theguardian.com/world/2026/feb/21/tumbler-ridge-shooter-chatgpt-openai)
-- [US military strike kills three in second alleged drug boat attack this week](https://www.theguardian.com/us-news/2026/feb/20/us-military-strike-drug-smuggling-pacific)
-- [US citizen shot and killed by federal immigration agent last year, new records show](https://www.theguardian.com/us-news/2026/feb/20/us-citizen-killed-federal-immigration-agent)
-- [Nightly raids and violent beatings: Australia urged to accept citizens trapped in Syria as conditions in Roj camp deteriorate](https://www.theguardian.com/australia-news/2026/feb/21/as-conditions-in-roj-camp-deteriorate-australia-urged-to-accept-citizens-trapped-in-syria)
-- [Why is South Korea angry that Yoon Suk Yeol wasn’t sentenced to death?](https://www.theguardian.com/world/2026/feb/21/south-korea-anger-yoon-suk-yeol-life-sentence)
-- [Furious Trump signs global 10% duty after supreme court issues tariff blow](https://www.theguardian.com/us-news/2026/feb/20/trump-tariff-scotus-response)
-- [Tactical, influential and mad about Rupert: Anna Murdoch-Mann remembered after her death aged 81](https://www.theguardian.com/us-news/2026/feb/20/anna-murdoch-mann-dies)
-- [Officials investigate deadly California avalanche for possible criminal negligence](https://www.theguardian.com/us-news/2026/feb/20/california-avalanche-investigation-criminal-negligence)
-- [Constitution Hill could switch to Flat full-time after triumphant debut](https://www.theguardian.com/sport/2026/feb/20/constitution-hill-could-switch-to-flat-full-time-after-triumphant-debut)
-- [USA and Canada to meet in Olympic men’s ice hockey gold medal game](https://www.theguardian.com/sport/2026/feb/20/usa-canada-mens-hockey-gold-medal-milano-cortina)
+- [NFL receiver Ronald Moore dies at age of 25: ‘Way too soon. Way too special’](https://www.theguardian.com/sport/2026/feb/21/nfl-receiver-ronald-moore-dies-at-age-of-25-purdue-arizona-cardinals)
+- [Ukraine war briefing: Kyiv condemns ‘blackmail’ by Hungary and Slovakia in energy supplies dispute](https://www.theguardian.com/world/2026/feb/22/ukraine-war-briefing-kyiv-condemns-hungary-slovakia-energy-supply-dispute)
+- [Huckabee’s Israel land remarks condemned as ‘dangerous’ as controversy rumbles on](https://www.theguardian.com/us-news/2026/feb/22/mike-huckabee-israel-comments-condemned-arab-muslim-countries)
+- [All nine bodies of skiers killed in California avalanche recovered](https://www.theguardian.com/us-news/2026/feb/21/california-avalanche-bodies-recovered)
+- [Government’s response to Maccabi Tel Aviv fan ban was ‘clumsy’, say MPs](https://www.theguardian.com/uk-news/2026/feb/22/governments-response-to-maccabi-tel-aviv-fan-ban-was-clumsy-say-mps)
+- [Pakistan strikes militant hideouts on Afghan border after surge in attacks](https://www.theguardian.com/world/2026/feb/21/pakistan-strikes-militant-hideouts-on-afghan-border-after-surge-in-attacks)
+- [Ilia Malinin performs to Fear as he completes cathartic Olympic gala routine](https://www.theguardian.com/sport/2026/feb/21/ilia-malinin-performs-to-fear-as-he-completes-cathartic-olympic-gala-routine)
+- [Chelsea’s Fofana and Burnley’s Hannibal abused by online racists](https://www.theguardian.com/football/2026/feb/21/burnley-racial-abuse-hannibal-mejbri-social-media-chelsea)
+- [Ministers to set out plans to halve attainment gap in England’s schools](https://www.theguardian.com/education/2026/feb/21/ministers-to-set-out-plans-to-halve-attainment-gap-in-england-schools)
+- [O’Reilly doubles up as Manchester City sink Newcastle to keep up title chase](https://www.theguardian.com/football/2026/feb/21/manchester-city-newcastle-premier-league-match-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [I scanned 30 popular AI projects for tamper-evident LLM evidence. 0 had it](https://github.com/Haserjian/assay)
-- [BEMoji CSS Framework: BEM, but make it unreadable](https://tomhayes.github.io/BEMoji/)
-- [Ferret-UI Lite – Apple on-device end-to-end GUI agent](https://arxiv.org/abs/2509.26539)
-- [Open source IoT board with 400 MHz dual-core RISC-V chip and lots of I/O for $29](https://liliputing.com/olimex-esp32-p4-pc-is-an-open-source-iot-board-with-a-400-mhz-dual-core-risc-v-chip-and-plenty-of-i-o-for-29/)
-- [Ferret-UI Lite: Lessons from Building Small On-Device GUI Agents](https://machinelearning.apple.com/research/ferret-ui)
-- [ECS Library for TypeScript](https://github.com/2khan/oecs)
-- [Comparing Job Offers](https://longviewy.com/pay-raise-math-for-comparing-job-offers/)
-- [Influencers want to adopt the &#39;analog lifestyle&#39; for 2026](https://www.latimes.com/california/story/2026-02-21/analog-lifestyle-trend)
-- [Cal.com – Open Scheduling Infrastructure](https://cal.com/)
-- [Show HN: Trawlx - Tweet text, likes, and retweets as JSON, no API keys](https://github.com/timstarkk/trawlx)
+- [Writing Against the Global Lobotomy](https://kerkour.com/writing-against-the-global-lobotomy)
+- [Quarkus: Supersonic Subatomic Java](https://github.com/quarkusio/quarkus)
+- [Forge-Specific Git Repository Folders](https://nesbitt.io/2026/02/22/forge-specific-repository-folders.html)
+- [Unsung heroes: Flickr&#39;s URLs scheme](https://unsung.aresluna.org/unsung-heroes-flickrs-urls-scheme/)
+- [Xweather Live – Interactive global vector weather map &lpar;ad-free&rpar;&rpar;](https://live.xweather.com/)
+- [Volumetric Non-Invasive Cardiac Mapping for Global Arrhythmia Characterization](https://arxiv.org/abs/2510.17539)
+- [A tool to tell you what LLMs can run on your machine](https://github.com/AlexsJones/llmfit)
+- [Show HN: OpenGem – A Load-Balanced Gemini API Proxy &lpar;No API Key Required&rpar;](https://github.com/arifozgun/OpenGem)
+- [Web Verbs](https://github.com/nlweb-ai/MSR-Web-Verbs)
+- [FizzBuzz in Fortran 1](https://mveg.es/posts/fizzbuzz-in-fortran-1/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

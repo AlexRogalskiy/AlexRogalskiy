@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [People Loved the Dot-Com Boom. The A.I. Boom, Not So Much](https://www.nytimes.com/2026/02/21/technology/ai-boom-backlash.html)
-- [Japanese Woodblock Print Search](https://ukiyo-e.org/)
-- [Palantir&#39;s secret weapon isn&#39;t AI – it&#39;s Ontology. An open-source deep dive](https://github.com/Leading-AI-IO/palantir-ontology-strategy)
-- [A Botnet Accidentally Destroyed I2P](https://www.sambent.com/a-botnet-accidentally-destroyed-i2p-the-full-story/)
-- [How I use Claude Code: Separation of planning and execution](https://boristane.com/blog/how-i-use-claude-code/)
-- [Evidence of the bouba-kiki effect in naïve baby chicks](https://www.science.org/doi/10.1126/science.adq7188)
-- [Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU](https://github.com/xaskasdf/ntransformer)
-- [EDuke32 – Duke Nukem 3D &lpar;Open-Source&rpar;](https://www.eduke32.com/)
-- [Inputlag.science – Repository of knowledge about input lag in gaming](https://inputlag.science)
-- [Parse, Don&#39;t Validate and Type-Driven Design in Rust](https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/)
+- [Freemediaheckyeah](https://fmhy.net/)
+- [LGP to take Mister Car Wash private in $3.1B deal](https://www.alternativeswatch.com/2026/02/22/lgp-take-mister-car-wash-private-3-1-billion-deal/)
+- [The JavaScript Oxidation Compiler](https://oxc.rs/)
+- [Agentic Software Engineering Book](https://agenticse-book.github.io/)
+- [Aqua: A CLI message tool for AI agents](https://github.com/quailyquaily/aqua)
+- [$30B for laptops yielded a generation less cognitively capable than parents](https://www.yahoo.com/news/articles/u-spent-30-billion-ditch-110200869.html)
+- [Google restricting Google AI Pro/Ultra subscribers for using OpenClaw](https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778)
+- [Using the new bridges of FreeBSD 15](https://blog.feld.me/posts/2026/02/using-new-bridges-freebsd-15/)
+- [Show HN: CIA World Factbook Archive &lpar;1990–2025&rpar;, searchable and exportable](https://cia-factbook-archive.fly.dev/)
+- [The Tears of Donald Knuth &lpar;2015&rpar;](https://cacm.acm.org/opinion/the-tears-of-donald-knuth/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

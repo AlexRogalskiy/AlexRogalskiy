@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [NFL receiver Ronald Moore dies at age of 25: ‘Way too soon. Way too special’](https://www.theguardian.com/sport/2026/feb/21/nfl-receiver-ronald-moore-dies-at-age-of-25-purdue-arizona-cardinals)
-- [Ukraine war briefing: Kyiv condemns ‘blackmail’ by Hungary and Slovakia in energy supplies dispute](https://www.theguardian.com/world/2026/feb/22/ukraine-war-briefing-kyiv-condemns-hungary-slovakia-energy-supply-dispute)
-- [Huckabee’s Israel land remarks condemned as ‘dangerous’ as controversy rumbles on](https://www.theguardian.com/us-news/2026/feb/22/mike-huckabee-israel-comments-condemned-arab-muslim-countries)
-- [All nine bodies of skiers killed in California avalanche recovered](https://www.theguardian.com/us-news/2026/feb/21/california-avalanche-bodies-recovered)
-- [Government’s response to Maccabi Tel Aviv fan ban was ‘clumsy’, say MPs](https://www.theguardian.com/uk-news/2026/feb/22/governments-response-to-maccabi-tel-aviv-fan-ban-was-clumsy-say-mps)
-- [Pakistan strikes militant hideouts on Afghan border after surge in attacks](https://www.theguardian.com/world/2026/feb/21/pakistan-strikes-militant-hideouts-on-afghan-border-after-surge-in-attacks)
-- [Ilia Malinin performs to Fear as he completes cathartic Olympic gala routine](https://www.theguardian.com/sport/2026/feb/21/ilia-malinin-performs-to-fear-as-he-completes-cathartic-olympic-gala-routine)
-- [Chelsea’s Fofana and Burnley’s Hannibal abused by online racists](https://www.theguardian.com/football/2026/feb/21/burnley-racial-abuse-hannibal-mejbri-social-media-chelsea)
-- [Ministers to set out plans to halve attainment gap in England’s schools](https://www.theguardian.com/education/2026/feb/21/ministers-to-set-out-plans-to-halve-attainment-gap-in-england-schools)
-- [O’Reilly doubles up as Manchester City sink Newcastle to keep up title chase](https://www.theguardian.com/football/2026/feb/21/manchester-city-newcastle-premier-league-match-report)
+- [Ukraine war briefing: Russian embassy in Seoul raises ‘victory will be ours’ banner, drawing complaints](https://www.theguardian.com/world/2026/feb/23/ukraine-war-briefing-russian-embassy-raises-victory-will-be-ours-banner-over-seoul-embassy-drawing-complaints)
+- [Duterte refuses to attend ICC pre-trial hearing, as former Philippine leader’s ‘drug war’ case begins](https://www.theguardian.com/world/2026/feb/23/rodrigo-duterte-drug-war-case-icc-pre-trial-hearing-international-criminal-court-ntwnfb)
+- [Violence erupts after Mexican security forces kill drug cartel boss ‘El Mencho’](https://www.theguardian.com/world/2026/feb/22/mexican-security-forces-reportedly-kill-drug-cartel-boss-el-mencho)
+- [UK job vacancies ‘fall to lowest level since pandemic’](https://www.theguardian.com/business/2026/feb/23/uk-job-vacancies-fall-to-lowest-level-since-pandemic)
+- [Bafta awards 2026 backstage and afterparties – in pictures](https://www.theguardian.com/film/gallery/2026/feb/23/bafta-awards-2026-after-party-backstage-baftas-gallery-in-pictures)
+- [‘Trump’s reign of terror must end’: California Democrats plot national return to power](https://www.theguardian.com/us-news/2026/feb/22/california-democratic-convention-trump)
+- [Inquiry into Andrew’s Epstein links not ruled out as police searches continue](https://www.theguardian.com/uk-news/2026/feb/22/inquiry-into-former-prince-andrew-epstein-links-not-ruled-out-as-police-searches-continue)
+- [Send support for schoolchildren in England to be given £4bn overhaul](https://www.theguardian.com/education/2026/feb/22/bridget-phillipson-overhaul-send-support-schools-england)
+- [Michael Carrick says he has not spoken to Jim Ratcliffe since last month](https://www.theguardian.com/football/2026/feb/22/michael-carrick-jim-ratcliffe-manchester-united)
+- [‘The Brits are coming again’: Team GB hail their greatest ever Winter Olympics](https://www.theguardian.com/sport/2026/feb/22/team-gb-greatest-performance-winter-olympics-2026-milano-cortina)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

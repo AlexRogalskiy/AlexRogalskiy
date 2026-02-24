@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Writing Against the Global Lobotomy](https://kerkour.com/writing-against-the-global-lobotomy)
-- [Quarkus: Supersonic Subatomic Java](https://github.com/quarkusio/quarkus)
-- [Forge-Specific Git Repository Folders](https://nesbitt.io/2026/02/22/forge-specific-repository-folders.html)
-- [Unsung heroes: Flickr&#39;s URLs scheme](https://unsung.aresluna.org/unsung-heroes-flickrs-urls-scheme/)
-- [Xweather Live – Interactive global vector weather map &lpar;ad-free&rpar;&rpar;](https://live.xweather.com/)
-- [Volumetric Non-Invasive Cardiac Mapping for Global Arrhythmia Characterization](https://arxiv.org/abs/2510.17539)
-- [A tool to tell you what LLMs can run on your machine](https://github.com/AlexsJones/llmfit)
-- [Show HN: OpenGem – A Load-Balanced Gemini API Proxy &lpar;No API Key Required&rpar;](https://github.com/arifozgun/OpenGem)
-- [Web Verbs](https://github.com/nlweb-ai/MSR-Web-Verbs)
-- [FizzBuzz in Fortran 1](https://mveg.es/posts/fizzbuzz-in-fortran-1/)
+- [Show HN: LexReviewer – Because &quot;Chat with PDF&quot; is broken for legal workflows](https://github.com/LexStack-AI/LexReviewer)
+- [Strategic choices: When both options are good](https://longform.asmartbear.com/strategic-choices/)
+- [Why is the toilet often called the debug chair?](https://blog.ptidej.net/debug-chair/)
+- [Intel XeSS 3: expanded support for Core Ultra/Core Ultra 2 and Arc A, B series](https://www.intel.com/content/www/us/en/download/785597/intel-arc-graphics-windows.html)
+- [Railway surpasses 1M deployments per day](https://railway.com/stats)
+- [An Open Fan Differs from Turboprop and How It Beats Turbofans [video]](https://www.youtube.com/watch?v=fT7Zi_xF8Ts)
+- [FreeBSD 2025 Q4 Status Report](https://www.freebsd.org/status/report-2025-10-2025-12/)
+- [United States Withdrawal from the Joint Comprehensive Plan of Action](https://en.wikipedia.org/wiki/United_States_withdrawal_from_the_Joint_Comprehensive_Plan_of_Action)
+- [Show HN: LookTake – Try anyone&#39;s makeup, outfit, or hairstyle on your photo](https://about.looktake.io/)
+- [Debunking Cato&#39;s &quot;Immigrants Use Less Welfare&quot; Claim](https://samuelgabrielsg.substack.com/p/debunking-catos-immigrants-use-less)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

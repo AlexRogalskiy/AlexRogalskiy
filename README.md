@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine war briefing: Russian embassy in Seoul raises ‘victory will be ours’ banner, drawing complaints](https://www.theguardian.com/world/2026/feb/23/ukraine-war-briefing-russian-embassy-raises-victory-will-be-ours-banner-over-seoul-embassy-drawing-complaints)
-- [Duterte refuses to attend ICC pre-trial hearing, as former Philippine leader’s ‘drug war’ case begins](https://www.theguardian.com/world/2026/feb/23/rodrigo-duterte-drug-war-case-icc-pre-trial-hearing-international-criminal-court-ntwnfb)
-- [Violence erupts after Mexican security forces kill drug cartel boss ‘El Mencho’](https://www.theguardian.com/world/2026/feb/22/mexican-security-forces-reportedly-kill-drug-cartel-boss-el-mencho)
-- [UK job vacancies ‘fall to lowest level since pandemic’](https://www.theguardian.com/business/2026/feb/23/uk-job-vacancies-fall-to-lowest-level-since-pandemic)
-- [Bafta awards 2026 backstage and afterparties – in pictures](https://www.theguardian.com/film/gallery/2026/feb/23/bafta-awards-2026-after-party-backstage-baftas-gallery-in-pictures)
-- [‘Trump’s reign of terror must end’: California Democrats plot national return to power](https://www.theguardian.com/us-news/2026/feb/22/california-democratic-convention-trump)
-- [Inquiry into Andrew’s Epstein links not ruled out as police searches continue](https://www.theguardian.com/uk-news/2026/feb/22/inquiry-into-former-prince-andrew-epstein-links-not-ruled-out-as-police-searches-continue)
-- [Send support for schoolchildren in England to be given £4bn overhaul](https://www.theguardian.com/education/2026/feb/22/bridget-phillipson-overhaul-send-support-schools-england)
-- [Michael Carrick says he has not spoken to Jim Ratcliffe since last month](https://www.theguardian.com/football/2026/feb/22/michael-carrick-jim-ratcliffe-manchester-united)
-- [‘The Brits are coming again’: Team GB hail their greatest ever Winter Olympics](https://www.theguardian.com/sport/2026/feb/22/team-gb-greatest-performance-winter-olympics-2026-milano-cortina)
+- [The 23 Australian children stuck in Syria are not responsible for their parents. They need our government’s support to return | Donald Rothwell](https://www.theguardian.com/australia-news/commentisfree/2026/feb/24/australian-children-in-syria-roj-camp-support-ntwnfb)
+- [‘What’s up with all these monkeys’: Djungelskog the orangutan comforted Punch – but can the Ikea toy help me?](https://www.theguardian.com/world/2026/feb/24/punch-monkey-djungelskog-ikea-toy)
+- [Millions under road travel bans as blizzard conditions slam US north-east](https://www.theguardian.com/us-news/2026/feb/23/snow-blizzard-new-york-boston)
+- [Explosion in Moscow kills Russian police officer after attacker detonates device, officials say](https://www.theguardian.com/world/2026/feb/24/police-officer-killed-device-explosion-moscow-russia)
+- [FedEx sues US government, seeking ‘full refund’ over Trump tariffs](https://www.theguardian.com/us-news/2026/feb/23/fedex-lawsuit-trump-tariffs)
+- [Chris Baghsarian: human remains found in search for kidnapped Sydney man, NSW police say](https://www.theguardian.com/australia-news/2026/feb/24/chris-baghsarian-human-remains-kidnapped-sydney-police)
+- [US accuses China of ‘massively’ expanding nuclear arsenal amid fears of new arms race](https://www.theguardian.com/world/2026/feb/24/us-accuses-china-of-massively-expanding-nuclear-arsenal-amid-fears-of-new-arms-race)
+- [Drugs, denial and stigma: the babies and children swept up in Fiji’s HIV nightmare](https://www.theguardian.com/world/2026/feb/24/drugs-denial-and-stigma-babies-and-children-fiji-hiv-epidemic)
+- [Paramount Skydance reportedly increases bid for Warner Bros Discovery](https://www.theguardian.com/media/2026/feb/23/paramount-skydance-bid-warner-bros-discovery)
+- [Mexican drug cartel boss ‘El Mencho’ tracked through romantic partner](https://www.theguardian.com/world/2026/feb/23/el-mencho-mexican-drug-cartel-boss-killing-violence)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

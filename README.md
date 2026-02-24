@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Freemediaheckyeah](https://fmhy.net/)
-- [LGP to take Mister Car Wash private in $3.1B deal](https://www.alternativeswatch.com/2026/02/22/lgp-take-mister-car-wash-private-3-1-billion-deal/)
-- [The JavaScript Oxidation Compiler](https://oxc.rs/)
-- [Agentic Software Engineering Book](https://agenticse-book.github.io/)
-- [Aqua: A CLI message tool for AI agents](https://github.com/quailyquaily/aqua)
-- [$30B for laptops yielded a generation less cognitively capable than parents](https://www.yahoo.com/news/articles/u-spent-30-billion-ditch-110200869.html)
-- [Google restricting Google AI Pro/Ultra subscribers for using OpenClaw](https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778)
-- [Using the new bridges of FreeBSD 15](https://blog.feld.me/posts/2026/02/using-new-bridges-freebsd-15/)
-- [Show HN: CIA World Factbook Archive &lpar;1990–2025&rpar;, searchable and exportable](https://cia-factbook-archive.fly.dev/)
-- [The Tears of Donald Knuth &lpar;2015&rpar;](https://cacm.acm.org/opinion/the-tears-of-donald-knuth/)
+- [Blood test boosts Alzheimer&#39;s diagnosis accuracy to 94.5%, clinical study shows](https://medicalxpress.com/news/2026-02-blood-boosts-alzheimer-diagnosis-accuracy.html)
+- [Show HN: X86CSS – An x86 CPU emulator written in CSS](https://lyra.horse/x86css/)
+- [I Turned Off ChatGPT&#39;s Memory](https://every.to/also-true-for-humans/why-i-turned-off-chatgpt-s-memory)
+- [NIST Seeking Public Comment on AI Agent Security &lpar;Deadline: March 9, 2026&rpar;](https://www.federalregister.gov/documents/2026/01/08/2026-00206/request-for-information-regarding-security-considerations-for-artificial-intelligence-agents)
+- [Iowa farmers are leading the fight for repair](https://www.ifixit.com/News/115722/iowa-farmers-are-leading-the-fight-for-repair)
+- [Show HN: Steerling-8B, a language model that can explain any token it generates](https://www.guidelabs.ai/post/steerling-8b-base-model-release/)
+- [Shatner is making an album with 35 metal icons](https://www.guitarworld.com/artists/guitarists/william-shatner-announces-all-star-metal-album)
+- [I Ported Coreboot to the ThinkPad X270](https://dork.dev/posts/2026-02-20-ported-coreboot/)
+- [Why Your Load Balancer Still Sends Traffic to Dead Backends](https://singh-sanjay.com/2026/01/12/health-checks-client-vs-server-side-lb.html)
+- [Making Wolfram Tech Available as a Foundation Tool for LLM Systems](https://writings.stephenwolfram.com/2026/02/making-wolfram-tech-available-as-a-foundation-tool-for-llm-systems/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

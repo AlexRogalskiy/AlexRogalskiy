@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: LexReviewer – Because &quot;Chat with PDF&quot; is broken for legal workflows](https://github.com/LexStack-AI/LexReviewer)
-- [Strategic choices: When both options are good](https://longform.asmartbear.com/strategic-choices/)
-- [Why is the toilet often called the debug chair?](https://blog.ptidej.net/debug-chair/)
-- [Intel XeSS 3: expanded support for Core Ultra/Core Ultra 2 and Arc A, B series](https://www.intel.com/content/www/us/en/download/785597/intel-arc-graphics-windows.html)
-- [Railway surpasses 1M deployments per day](https://railway.com/stats)
-- [An Open Fan Differs from Turboprop and How It Beats Turbofans [video]](https://www.youtube.com/watch?v=fT7Zi_xF8Ts)
-- [FreeBSD 2025 Q4 Status Report](https://www.freebsd.org/status/report-2025-10-2025-12/)
-- [United States Withdrawal from the Joint Comprehensive Plan of Action](https://en.wikipedia.org/wiki/United_States_withdrawal_from_the_Joint_Comprehensive_Plan_of_Action)
-- [Show HN: LookTake – Try anyone&#39;s makeup, outfit, or hairstyle on your photo](https://about.looktake.io/)
-- [Debunking Cato&#39;s &quot;Immigrants Use Less Welfare&quot; Claim](https://samuelgabrielsg.substack.com/p/debunking-catos-immigrants-use-less)
+- [Memrail launches decision infrastructure, introduces decision plane](https://www.thefloridatribune.com/article/895167532-cadenzai-launches-memrail-decision-infrastructure-for-production-systems)
+- [vLLM &lpar;high-throughput LLM serving engine&rpar;](https://github.com/vllm-project/vllm)
+- [Show HN: Open-source self-hostable backend – try to break my live instance &lpar;48h&rpar;](https://news.ycombinator.com/item?id=47147235)
+- [Aitracker – Track Claude, Codex, Gemini usage and costs from your terminal](https://github.com/j0nl1/aitracker)
+- [Double-buffering for LLM context windows: seamless handoff at zero extra cost](https://marklubin.me/posts/hopping-context-windows/)
+- [Use a SaaS Boilerplate to Ship Faster](https://launchsaas.org/blog/why-use-saas-boilerplate-ship-faster)
+- [Tuna: A new, modern, modal launcher for macOS](https://tunaformac.com)
+- [Ask HN: Share your productive usage of OpenClaw](https://news.ycombinator.com/item?id=47147183)
+- [Show HN: Shed – Run commands over HTTPS instead of SSH &lpar;lambdas / containers&rpar;](https://github.com/Oranda-IO/Shed)
+- [Gawk 5.4.0 is released, with replaced MinRX matcher](https://lists.gnu.org/archive/html/info-gnu/2026-02/msg00011.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [The 23 Australian children stuck in Syria are not responsible for their parents. They need our government’s support to return | Donald Rothwell](https://www.theguardian.com/australia-news/commentisfree/2026/feb/24/australian-children-in-syria-roj-camp-support-ntwnfb)
-- [‘What’s up with all these monkeys’: Djungelskog the orangutan comforted Punch – but can the Ikea toy help me?](https://www.theguardian.com/world/2026/feb/24/punch-monkey-djungelskog-ikea-toy)
-- [Millions under road travel bans as blizzard conditions slam US north-east](https://www.theguardian.com/us-news/2026/feb/23/snow-blizzard-new-york-boston)
-- [Explosion in Moscow kills Russian police officer after attacker detonates device, officials say](https://www.theguardian.com/world/2026/feb/24/police-officer-killed-device-explosion-moscow-russia)
-- [FedEx sues US government, seeking ‘full refund’ over Trump tariffs](https://www.theguardian.com/us-news/2026/feb/23/fedex-lawsuit-trump-tariffs)
-- [Chris Baghsarian: human remains found in search for kidnapped Sydney man, NSW police say](https://www.theguardian.com/australia-news/2026/feb/24/chris-baghsarian-human-remains-kidnapped-sydney-police)
-- [US accuses China of ‘massively’ expanding nuclear arsenal amid fears of new arms race](https://www.theguardian.com/world/2026/feb/24/us-accuses-china-of-massively-expanding-nuclear-arsenal-amid-fears-of-new-arms-race)
-- [Drugs, denial and stigma: the babies and children swept up in Fiji’s HIV nightmare](https://www.theguardian.com/world/2026/feb/24/drugs-denial-and-stigma-babies-and-children-fiji-hiv-epidemic)
-- [Paramount Skydance reportedly increases bid for Warner Bros Discovery](https://www.theguardian.com/media/2026/feb/23/paramount-skydance-bid-warner-bros-discovery)
-- [Mexican drug cartel boss ‘El Mencho’ tracked through romantic partner](https://www.theguardian.com/world/2026/feb/23/el-mencho-mexican-drug-cartel-boss-killing-violence)
+- [Trump calls out supreme court’s ‘unfortunate’ tariff ruling and blasts Democrats as ‘crazy’ in speech full of well-trodden rants – live](https://www.theguardian.com/us-news/live/2026/feb/24/trump-state-of-the-union-address-congress-watch-updates)
+- [South Korea’s birthrate rises for second year with experts saying ‘echo boomers’ behind boost](https://www.theguardian.com/world/2026/feb/25/south-korea-birth-rate-increase-rise-echo-boomers)
+- [Bomb threat at the Lodge that forced Albanese’s evacuation linked to opposition to Chinese dance group](https://www.theguardian.com/australia-news/2026/feb/24/anthony-albanese-evacuated-from-official-canberra-residence-due-to-security-threat-ntwnfb)
+- [Caribbean leaders call for ‘de-escalation and dialogue’ amid US oil embargo on Cuba](https://www.theguardian.com/world/2026/feb/25/caricom-summit-2026-caribbean-leaders-us-military-strikes)
+- [Now everyone can come to the cottage as Heated Rivalry house listed on Airbnb](https://www.theguardian.com/tv-and-radio/2026/feb/25/heated-rivalry-cottage-house-airbnb)
+- [Democrats to investigate whether DoJ withheld Epstein files on Trump abuse claim](https://www.theguardian.com/us-news/2026/feb/24/democrats-epstein-trump)
+- [Man convicted of killing 70-year-old grocery store owner executed in Florida](https://www.theguardian.com/us-news/2026/feb/24/florida-execution-melvin-trotter)
+- [Half of Britons avoid calling GP when they are ill, survey finds](https://www.theguardian.com/society/2026/feb/25/half-of-britons-avoid-calling-gp-when-they-are-ill-survey-nhs)
+- [Marco Rubio delivers rare briefing to top US lawmakers on Iran amid tensions](https://www.theguardian.com/us-news/2026/feb/24/marco-rubio-iran-briefing)
+- [Swansea bow to co-owner Snoop Dogg with guard of honour before kick-off](https://www.theguardian.com/football/2026/feb/24/swansea-preston-snoop-dogg-championship-roundup)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

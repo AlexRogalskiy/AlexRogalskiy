@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Blood test boosts Alzheimer&#39;s diagnosis accuracy to 94.5%, clinical study shows](https://medicalxpress.com/news/2026-02-blood-boosts-alzheimer-diagnosis-accuracy.html)
-- [Show HN: X86CSS – An x86 CPU emulator written in CSS](https://lyra.horse/x86css/)
-- [I Turned Off ChatGPT&#39;s Memory](https://every.to/also-true-for-humans/why-i-turned-off-chatgpt-s-memory)
-- [NIST Seeking Public Comment on AI Agent Security &lpar;Deadline: March 9, 2026&rpar;](https://www.federalregister.gov/documents/2026/01/08/2026-00206/request-for-information-regarding-security-considerations-for-artificial-intelligence-agents)
-- [Iowa farmers are leading the fight for repair](https://www.ifixit.com/News/115722/iowa-farmers-are-leading-the-fight-for-repair)
-- [Show HN: Steerling-8B, a language model that can explain any token it generates](https://www.guidelabs.ai/post/steerling-8b-base-model-release/)
-- [Shatner is making an album with 35 metal icons](https://www.guitarworld.com/artists/guitarists/william-shatner-announces-all-star-metal-album)
-- [I Ported Coreboot to the ThinkPad X270](https://dork.dev/posts/2026-02-20-ported-coreboot/)
-- [Why Your Load Balancer Still Sends Traffic to Dead Backends](https://singh-sanjay.com/2026/01/12/health-checks-client-vs-server-side-lb.html)
-- [Making Wolfram Tech Available as a Foundation Tool for LLM Systems](https://writings.stephenwolfram.com/2026/02/making-wolfram-tech-available-as-a-foundation-tool-for-llm-systems/)
+- [Anthropic Drops Flagship Safety Pledge](https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/)
+- [Corgi Labs &lpar;YC W23&rpar; Is Hiring](https://www.ycombinator.com/companies/corgi-labs/jobs/ZiEIf7a-founders-associate)
+- [Amazon accused of widespread scheme to inflate prices across the economy](https://www.thebignewsletter.com/p/amazon-busted-for-widespread-price)
+- [US Military leaders meet with Anthropic to argue against Claude safeguards](https://www.theguardian.com/us-news/2026/feb/24/anthropic-claude-military-ai)
+- [Mercury 2: The fastest reasoning LLM, powered by diffusion](https://www.inceptionlabs.ai/blog/introducing-mercury-2)
+- [Show HN: Moonshine Open-Weights STT models – higher accuracy than WhisperLargev3](https://github.com/moonshine-ai/moonshine)
+- [Pi – A minimal terminal coding harness](https://pi.dev)
+- [Show HN: Recursively apply patterns for pathfinding](https://pattern-pathfinder.vercel.app/?fixtureId=%7B%22path%22%3A%22site%2Fexamples%2F_intro.fixture.tsx%22%7D)
+- [Looks like it is happening](https://www.math.columbia.edu/~woit/wordpress/?p=15500)
+- [Mac mini will be made at a new facility in Houston](https://www.apple.com/newsroom/2026/02/apple-accelerates-us-manufacturing-with-mac-mini-production/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

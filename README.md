@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Trump calls out supreme court’s ‘unfortunate’ tariff ruling and blasts Democrats as ‘crazy’ in speech full of well-trodden rants – live](https://www.theguardian.com/us-news/live/2026/feb/24/trump-state-of-the-union-address-congress-watch-updates)
-- [South Korea’s birthrate rises for second year with experts saying ‘echo boomers’ behind boost](https://www.theguardian.com/world/2026/feb/25/south-korea-birth-rate-increase-rise-echo-boomers)
-- [Bomb threat at the Lodge that forced Albanese’s evacuation linked to opposition to Chinese dance group](https://www.theguardian.com/australia-news/2026/feb/24/anthony-albanese-evacuated-from-official-canberra-residence-due-to-security-threat-ntwnfb)
-- [Caribbean leaders call for ‘de-escalation and dialogue’ amid US oil embargo on Cuba](https://www.theguardian.com/world/2026/feb/25/caricom-summit-2026-caribbean-leaders-us-military-strikes)
-- [Now everyone can come to the cottage as Heated Rivalry house listed on Airbnb](https://www.theguardian.com/tv-and-radio/2026/feb/25/heated-rivalry-cottage-house-airbnb)
-- [Democrats to investigate whether DoJ withheld Epstein files on Trump abuse claim](https://www.theguardian.com/us-news/2026/feb/24/democrats-epstein-trump)
-- [Man convicted of killing 70-year-old grocery store owner executed in Florida](https://www.theguardian.com/us-news/2026/feb/24/florida-execution-melvin-trotter)
-- [Half of Britons avoid calling GP when they are ill, survey finds](https://www.theguardian.com/society/2026/feb/25/half-of-britons-avoid-calling-gp-when-they-are-ill-survey-nhs)
-- [Marco Rubio delivers rare briefing to top US lawmakers on Iran amid tensions](https://www.theguardian.com/us-news/2026/feb/24/marco-rubio-iran-briefing)
-- [Swansea bow to co-owner Snoop Dogg with guard of honour before kick-off](https://www.theguardian.com/football/2026/feb/24/swansea-preston-snoop-dogg-championship-roundup)
+- [Ukraine war briefing: Kyiv to accelerate placement of anti-drone nets across frontline](https://www.theguardian.com/world/2026/feb/26/ukraine-war-briefing-kyiv-to-accelerate-placement-of-anti-drone-nets-across-frontline)
+- [Cuba says it killed heavily armed exiles who attacked from US-registered speedboat](https://www.theguardian.com/world/2026/feb/25/cuba-says-border-guards-killed-four-gunmen-on-us-registered-speedboat)
+- [Kash Patel fires FBI officials linked to Trump documents case, reports say](https://www.theguardian.com/us-news/2026/feb/25/fbi-kash-patel-trump-mar-a-lago-documents)
+- [Middle East travel warnings expanded as tensions between US and Iran increase](https://www.theguardian.com/world/2026/feb/26/us-iran-middle-east-travel-warnings)
+- [‘Rest in power, Power’: Wu-Tang Clan collaborator Oliver ‘Power’ Grant dead at 52](https://www.theguardian.com/music/2026/feb/26/wu-tang-clan-collaborator-oliver-power-grant-death)
+- [Jacinda Ardern living and working in Australia after move from US](https://www.theguardian.com/world/2026/feb/26/jacinda-ardern-living-in-australia-former-nz-new-zealand-pm)
+- [Vance says Minnesota’s Medicaid funds halted as part of Trump’s ‘war on fraud’](https://www.theguardian.com/us-news/2026/feb/25/jd-vance-minnesota-medicaid)
+- [Cruel comments, racism and cover-ups: key findings from England’s maternity care report](https://www.theguardian.com/lifeandstyle/2026/feb/26/nhs-england-maternity-care-report-key-takeaways)
+- [CPS issues new guidance on ‘honour’-based and dowry abuse](https://www.theguardian.com/society/2026/feb/26/cps-guidance-honour-based-dowry-abuse)
+- [NHS maternity units often cover up harmful errors in childbirth, report finds](https://www.theguardian.com/society/2026/feb/26/nhs-england-maternity-cover-up-childbirth-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

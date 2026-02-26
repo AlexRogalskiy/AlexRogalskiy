@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Memrail launches decision infrastructure, introduces decision plane](https://www.thefloridatribune.com/article/895167532-cadenzai-launches-memrail-decision-infrastructure-for-production-systems)
-- [vLLM &lpar;high-throughput LLM serving engine&rpar;](https://github.com/vllm-project/vllm)
-- [Show HN: Open-source self-hostable backend – try to break my live instance &lpar;48h&rpar;](https://news.ycombinator.com/item?id=47147235)
-- [Aitracker – Track Claude, Codex, Gemini usage and costs from your terminal](https://github.com/j0nl1/aitracker)
-- [Double-buffering for LLM context windows: seamless handoff at zero extra cost](https://marklubin.me/posts/hopping-context-windows/)
-- [Use a SaaS Boilerplate to Ship Faster](https://launchsaas.org/blog/why-use-saas-boilerplate-ship-faster)
-- [Tuna: A new, modern, modal launcher for macOS](https://tunaformac.com)
-- [Ask HN: Share your productive usage of OpenClaw](https://news.ycombinator.com/item?id=47147183)
-- [Show HN: Shed – Run commands over HTTPS instead of SSH &lpar;lambdas / containers&rpar;](https://github.com/Oranda-IO/Shed)
-- [Gawk 5.4.0 is released, with replaced MinRX matcher](https://lists.gnu.org/archive/html/info-gnu/2026-02/msg00011.html)
+- [Show HN: DeltaMemory – Persistent cognitive memory for production AI agents](https://www.deltamemory.com/)
+- [Gender markers are useless, so why not abolish them?](https://policyoptions.irpp.org/2021/11/gender-markers-are-useless-so-why-not-abolish-them/)
+- [Show HN: Director-AI – token-level NLI+RAG](https://github.com/anulum/director-ai)
+- [LazyGravity – I made my phone control Antigravity so I never leave bed](https://news.ycombinator.com/item?id=47161616)
+- [Ask HN: Books about Communication](https://news.ycombinator.com/item?id=47161605)
+- [US role as global talent hub in doubt amid Donald Trump&#39;s visa crackdown](https://www.ft.com/content/c8114fd1-771b-49ac-98c3-a8acf6177626)
+- [That&#39;s it. Bill Gates is DONE](https://www.youtube.com/watch?v=NZWT75CKZko)
+- [The Intelligent OS: Making Al agents more helpful for Android apps](https://android-developers.googleblog.com/2026/02/the-intelligent-os-making-ai-agents.html)
+- [Deep Learning Crash Course](https://github.com/DeepTrackAI/DeepLearningCrashCourse)
+- [Test drive Linux distros online](https://distrosea.com/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

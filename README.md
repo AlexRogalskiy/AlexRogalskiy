@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Anthropic Drops Flagship Safety Pledge](https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/)
-- [Corgi Labs &lpar;YC W23&rpar; Is Hiring](https://www.ycombinator.com/companies/corgi-labs/jobs/ZiEIf7a-founders-associate)
-- [Amazon accused of widespread scheme to inflate prices across the economy](https://www.thebignewsletter.com/p/amazon-busted-for-widespread-price)
-- [US Military leaders meet with Anthropic to argue against Claude safeguards](https://www.theguardian.com/us-news/2026/feb/24/anthropic-claude-military-ai)
-- [Mercury 2: The fastest reasoning LLM, powered by diffusion](https://www.inceptionlabs.ai/blog/introducing-mercury-2)
-- [Show HN: Moonshine Open-Weights STT models – higher accuracy than WhisperLargev3](https://github.com/moonshine-ai/moonshine)
-- [Pi – A minimal terminal coding harness](https://pi.dev)
-- [Show HN: Recursively apply patterns for pathfinding](https://pattern-pathfinder.vercel.app/?fixtureId=%7B%22path%22%3A%22site%2Fexamples%2F_intro.fixture.tsx%22%7D)
-- [Looks like it is happening](https://www.math.columbia.edu/~woit/wordpress/?p=15500)
-- [Mac mini will be made at a new facility in Houston](https://www.apple.com/newsroom/2026/02/apple-accelerates-us-manufacturing-with-mac-mini-production/)
+- [RAM now represents 35 percent of bill of materials for HP PCs](https://arstechnica.com/gadgets/2026/02/ram-now-represents-35-percent-of-bill-of-materials-for-hp-pcs/)
+- [Show HN: OpenSwarm – Multi‑Agent Claude CLI Orchestrator for Linear/GitHub](https://github.com/Intrect-io/OpenSwarm)
+- [Show HN: ZSE – Open-source LLM inference engine with 3.9s cold starts](https://github.com/Zyora-Dev/zse)
+- [Tech companies shouldn&#39;t be bullied into doing surveillance](https://www.eff.org/deeplinks/2026/02/tech-companies-shouldnt-be-bullied-doing-surveillance)
+- [First Website &lpar;1992&rpar;](https://info.cern.ch)
+- [How will OpenAI compete?](https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x)
+- [An autopsy of AI-generated 3D slop](https://aircada.com/blog/ai-vs-human-3d-ecommerce)
+- [Making MCP cheaper via CLI](https://kanyilmaz.me/2026/02/23/cli-vs-mcp.html)
+- [Jimi Hendrix was a systems engineer](https://spectrum.ieee.org/jimi-hendrix-systems-engineer)
+- [PA bench: Evaluating web agents on real world personal assistant workflows](https://vibrantlabs.com/blog/pa-bench)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [RAM now represents 35 percent of bill of materials for HP PCs](https://arstechnica.com/gadgets/2026/02/ram-now-represents-35-percent-of-bill-of-materials-for-hp-pcs/)
-- [Show HN: OpenSwarm – Multi‑Agent Claude CLI Orchestrator for Linear/GitHub](https://github.com/Intrect-io/OpenSwarm)
-- [Show HN: ZSE – Open-source LLM inference engine with 3.9s cold starts](https://github.com/Zyora-Dev/zse)
-- [Tech companies shouldn&#39;t be bullied into doing surveillance](https://www.eff.org/deeplinks/2026/02/tech-companies-shouldnt-be-bullied-doing-surveillance)
-- [First Website &lpar;1992&rpar;](https://info.cern.ch)
-- [How will OpenAI compete?](https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x)
-- [An autopsy of AI-generated 3D slop](https://aircada.com/blog/ai-vs-human-3d-ecommerce)
-- [Making MCP cheaper via CLI](https://kanyilmaz.me/2026/02/23/cli-vs-mcp.html)
-- [Jimi Hendrix was a systems engineer](https://spectrum.ieee.org/jimi-hendrix-systems-engineer)
-- [PA bench: Evaluating web agents on real world personal assistant workflows](https://vibrantlabs.com/blog/pa-bench)
+- [The Hunt for Dark Breakfast – Can we derive breakfasts we have never observed?](https://moultano.wordpress.com/2026/02/22/the-hunt-for-dark-breakfast/)
+- [Google Workers Seek &#39;Red Lines&#39; on Military A.I., Echoing Anthropic](https://www.nytimes.com/2026/02/26/technology/google-deepmind-letter-pentagon.html)
+- [LiteLLM &lpar;YC W23&rpar;: Founding Reliability Engineer – $200K-$270K and 0.5-1.0% equity](https://www.ycombinator.com/companies/litellm/jobs/unlCynJ-founding-reliability-performance-engineer)
+- [Statement from Dario Amodei on our discussions with the Department of War](https://www.anthropic.com/news/statement-department-of-war)
+- [Hydroph0bia – fixed SecureBoot bypass for UEFI firmware from Insyde H2O &lpar;2025&rpar;](https://coderush.me/hydroph0bia-part3/)
+- [Smartphone market forecast to decline this year due to memory shortage](https://www.idc.com/resource-center/press-releases/wwsmartphoneforecast4q25/)
+- [Layoffs at Block](https://twitter.com/jack/status/2027129697092731343)
+- [What does &quot; 2&gt;&amp;1 &quot; mean?](https://stackoverflow.com/questions/818255/what-does-21-mean)
+- [Launch HN: Cardboard &lpar;YC W26&rpar; – Agentic video editor](https://www.usecardboard.com/)
+- [OsmAnd&#39;s Faster Offline Navigation &lpar;2025&rpar;](https://osmand.net/blog/fast-routing/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

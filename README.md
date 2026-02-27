@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: DeltaMemory – Persistent cognitive memory for production AI agents](https://www.deltamemory.com/)
-- [Gender markers are useless, so why not abolish them?](https://policyoptions.irpp.org/2021/11/gender-markers-are-useless-so-why-not-abolish-them/)
-- [Show HN: Director-AI – token-level NLI+RAG](https://github.com/anulum/director-ai)
-- [LazyGravity – I made my phone control Antigravity so I never leave bed](https://news.ycombinator.com/item?id=47161616)
-- [Ask HN: Books about Communication](https://news.ycombinator.com/item?id=47161605)
-- [US role as global talent hub in doubt amid Donald Trump&#39;s visa crackdown](https://www.ft.com/content/c8114fd1-771b-49ac-98c3-a8acf6177626)
-- [That&#39;s it. Bill Gates is DONE](https://www.youtube.com/watch?v=NZWT75CKZko)
-- [The Intelligent OS: Making Al agents more helpful for Android apps](https://android-developers.googleblog.com/2026/02/the-intelligent-os-making-ai-agents.html)
-- [Deep Learning Crash Course](https://github.com/DeepTrackAI/DeepLearningCrashCourse)
-- [Test drive Linux distros online](https://distrosea.com/)
+- [Show HN: Toggl lock‑screen widget for real‑time time tracking](https://apps.apple.com/ca/app/toggl-lockscreen-widget/id6756894639)
+- [How Anthropic Teams use Claude Code [pdf]](https://www-cdn.anthropic.com/58284b19e702b49db9302d5b6f135ad8871e7658.pdf)
+- [User Interview #3](https://twitter.com/AviSchiffmann/status/2026798365489725742)
+- [Show HN: CodeLeash: framework for quality agent development, NOT an orchestrator](https://codeleash.dev/)
+- [Principia Mathematica, Vol. 1](https://www.gutenberg.org/cache/epub/78050/pg78050-images.html)
+- [Show HN: VeryBot – Self-hosted AI assistant for work](https://github.com/charlie0077/verybot)
+- [The Hunt for Dark Breakfast – Can we derive breakfasts we have never observed?](https://moultano.wordpress.com/2026/02/22/the-hunt-for-dark-breakfast/)
+- [Hong Kong jailed my dad to stop me speaking out, says activist](https://www.bbc.com/news/articles/cly897pv4j9o)
+- [Parakeet.cpp – Parakeet ASR inference in pure C++ with Metal GPU acceleration](https://github.com/Frikallo/parakeet.cpp)
+- [Preserving the Web Is Not the Problem. Losing It Is](https://www.techdirt.com/2026/02/17/preserving-the-web-is-not-the-problem-losing-it-is/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine war briefing: Kyiv to accelerate placement of anti-drone nets across frontline](https://www.theguardian.com/world/2026/feb/26/ukraine-war-briefing-kyiv-to-accelerate-placement-of-anti-drone-nets-across-frontline)
-- [Cuba says it killed heavily armed exiles who attacked from US-registered speedboat](https://www.theguardian.com/world/2026/feb/25/cuba-says-border-guards-killed-four-gunmen-on-us-registered-speedboat)
-- [Kash Patel fires FBI officials linked to Trump documents case, reports say](https://www.theguardian.com/us-news/2026/feb/25/fbi-kash-patel-trump-mar-a-lago-documents)
-- [Middle East travel warnings expanded as tensions between US and Iran increase](https://www.theguardian.com/world/2026/feb/26/us-iran-middle-east-travel-warnings)
-- [‘Rest in power, Power’: Wu-Tang Clan collaborator Oliver ‘Power’ Grant dead at 52](https://www.theguardian.com/music/2026/feb/26/wu-tang-clan-collaborator-oliver-power-grant-death)
-- [Jacinda Ardern living and working in Australia after move from US](https://www.theguardian.com/world/2026/feb/26/jacinda-ardern-living-in-australia-former-nz-new-zealand-pm)
-- [Vance says Minnesota’s Medicaid funds halted as part of Trump’s ‘war on fraud’](https://www.theguardian.com/us-news/2026/feb/25/jd-vance-minnesota-medicaid)
-- [Cruel comments, racism and cover-ups: key findings from England’s maternity care report](https://www.theguardian.com/lifeandstyle/2026/feb/26/nhs-england-maternity-care-report-key-takeaways)
-- [CPS issues new guidance on ‘honour’-based and dowry abuse](https://www.theguardian.com/society/2026/feb/26/cps-guidance-honour-based-dowry-abuse)
-- [NHS maternity units often cover up harmful errors in childbirth, report finds](https://www.theguardian.com/society/2026/feb/26/nhs-england-maternity-cover-up-childbirth-report)
+- [Counting underway in Gorton and Denton amid high turnout for crucial byelection – UK politics live](https://www.theguardian.com/politics/live/2026/feb/27/gorton-and-denton-byelection-result-labour-green-party-reform-uk-politics-latest-news)
+- [Pakistan bombs Kabul after intensifying border clashes with Afghanistan](https://www.theguardian.com/world/2026/feb/27/afghanistan-pakistan-strikes-kabul)
+- [From a leaked photo to questions on UFOs: key points from Hillary Clinton’s Epstein testimony](https://www.theguardian.com/us-news/2026/feb/27/hillary-clinton-deposition-testimony-jeffrey-epstein)
+- [Texas airspace closed after military reportedly downs US drone on accident](https://www.theguardian.com/us-news/2026/feb/26/texas-airspace-closed-drone-laser)
+- [Woman at heart of US trial says she was addicted to social media at age six](https://www.theguardian.com/technology/2026/feb/26/us-trial-social-media-addiction)
+- [Ukraine war briefing: IMF approves $8.1bn loan for Kyiv](https://www.theguardian.com/world/2026/feb/27/ukraine-war-briefing-imf-approves-81bn-loan-for-kyiv)
+- [Vegetarians have ‘substantially lower risk’ of five types of cancer](https://www.theguardian.com/society/2026/feb/27/vegetarians-have-substantially-lower-risk-of-five-types-of-cancer)
+- [On a dancefloor at 2am, I heard Jacinda Ardern’s husband say they were moving to Australia. I don’t blame them | Johanna Cosgrove](https://www.theguardian.com/commentisfree/2026/feb/27/jacinda-ardern-living-australia-leaving-new-zealand-same)
+- [Burger King cooks up AI chatbot to spot if employees say ‘please’ and ‘thank you’](https://www.theguardian.com/us-news/2026/feb/26/burger-king-ai-chatbot-employees-please-thank-you)
+- [Netflix declines to match Paramount offer for Warner Bros Discovery](https://www.theguardian.com/media/2026/feb/26/netflix-paramount-warner-bros)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

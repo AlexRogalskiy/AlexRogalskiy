@@ -98,6 +98,14 @@
     <img src="https://github-readme-stats.vercel.app/api?username=AlexRogalskiy&show_icons=true&count_private=true" alt="GitHub statistics" />
 </div>
 
+<div id="statistics_github_metrics_base_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
+    <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/generated/metrics-base.svg" alt="GitHub base metrics" />
+</div>
+
+<div id="statistics_github_metrics_achievements_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
+    <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/generated/metrics-achievements.svg" alt="GitHub achievements metrics" />
+</div>
+
 <div id="statistics_github_summary_block_id" align="center" style="align-content: center; text-align:center;">
     <a href="https://profile-summary-for-github.com/user/AlexRogalskiy" target="_blank">
         <img src="https://img.shields.io/badge/Visit%20statistics-on%20github-7CBAE6.svg?logo=github&style=for-the-badge" alt="GitHub profile summary" />
@@ -149,23 +157,19 @@
     <a href="https://codepen.io/alexrogalskiy"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/social/codepen.svg" width="30" height="30" alt="CodePen"></a>&nbsp;
     <a href="https://profile.codersrank.io/user/alexrogalskiy"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/social/codersrank.svg" width="30" height="30" alt="CodersRank"></a>&nbsp;
     <a href="https://sourcerer.io/alexrogalskiy" title="See my profile on Sourcerer"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/social/sourcerer.svg" width="30" height="30" alt="Sourcerer"></a>
+    <a href="https://quine.sh/profile/AlexRogalskiy" title="See my profile on Quine"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/social/quine.svg" width="30" height="30" alt="Quine"></a>
 </div>
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/quote.png" alt="Quotes icon" width="30px" height="30px" style="max-width:100%;"> _Quotes_
 
 <div id="quotes_block_id" align="center" style="align-content: center">
-    <img width="100%" height="300px" style="min-height: 250px" src="https://styled-quotes.vercel.app/api?backgroundColor=%23FFFFFF&opacity=0.3&colorPattern=%23FFE0E9&fontColor=%230A83DC" alt="Quotes" />
+    <img width="100%" height="300px" style="min-height: 250px" src="https://styled-quotes.vercel.app/api?theme=arabesque&layout=pluto" alt="Styled Quotes" />
 </div>
-<!--
-<div id="quotes_block_id" align="center" style="align-content: center">
-    <img width="600" src="https://github-readme-quotes.herokuapp.com/quote?theme=default_repocard&animation=default&layout=default&quoteCategory=programming" alt="Quotes" />
-</div>
--->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/chart.png" alt="Graphs & Charts icon" width="30px" height="30px" style="max-width:100%;"> _Graphs & Charts_
 
 <div id="charts_block_id" align="center" style="align-content: center">
-    <img width="100%" style="min-height: 250px" src="https://styled-charts.vercel.app/api?url=https://raw.githubusercontent.com/plotly/plotly.js/master/test/image/mocks/1.json&width=600&height=400" alt="Graphs & Charts" />
+    <img width="100%" style="min-height: 250px" src="https://styled-charts.vercel.app/api?url=https://raw.githubusercontent.com/plotly/plotly.js/master/test/image/mocks/1.json&width=600&height=400" alt="Styled Charts" />
 </div>
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/camera.png" alt="Image of the Day icon" width="30px" height="30px" style="max-width:100%;"> _Image of the Day_
@@ -176,37 +180,47 @@
     </a>
 </div>
 
+## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/about.png" alt="Proverb of the Day icon" width="30px" height="30px" style="max-width:100%;"> _Proverb of the Day_
+
+<div id="proverbs_block_id" align="center" style="align-content: center">
+    <img width="100%" height="200px" src="https://styled-proverbs.vercel.app/api?theme=default_repocard&layout=churchill" alt="Styled Proverbs" />
+</div>
+
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/document.png" alt="Word of the Day icon" width="30px" height="30px" style="max-width:100%;"> _Word of the Day_
+
+<div id="words_lang_block_id" align="center" style="align-content: center">
+    <img width="100%" height="400px" src="https://styled-wotd.vercel.app/api?theme=default_repocard&layout=default" alt="Styled Word of the Day" />
+</div>
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/Colours/yellow_streak_380.php" target="_blank"><i>yellow streak</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/Quizzes/Mixed_7/each_to_their_own_163.php" target="_blank"><i>each to their own</i></a>
 <span> = </span>
-<span>If someone has a yellow streak, they can sometimes act in a cowardly way and not be very brave.</span>
+<span>You can say "each to their own" when you want to point out that we're all different and we all like different things.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/Quizzes/Crime_1/bent_1142.php" target="_blank"><i>bent</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/L/loaded_1__1546.php" target="_blank"><i>loaded (1)</i></a>
 <span> = </span>
-<span>dishonest, corrupt</span>
+<span>wealthy, rich</span>
 </div>
 <!--views:slang-rss-marker:end-->
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Truth/Truth_will_out_942.php" target="_blank"><i>Truth will out</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Talking_1/Better_the_foot_slip_than_the_tongue_929.php" target="_blank"><i>Better the foot slip than the tongue</i></a>
 <span> = </span>
-<span>In the end, what is true will come to be known. The truth always appears eventually, despite all efforts to hide it. It is impossible to keep something secret forever.</span>
+<span>It is better to take a bad step in walking than to say the wrong thing in talking. We can do a lot of damage when we say something by mistake. The elliptical nature of this saying may make it difficult to understand. The full version might be something like: "It is better that your foot should slip than that your tongue should slip."</span>
 </div>
 <!--views:saying-rss-marker:end-->
 
 <!--views:phrase-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/Quizzes/let/let_off_2__2067.php" target="_blank"><i>let off (2)</i></a>
+<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/C/catch_up_2__2034.php" target="_blank"><i>catch up (2)</i></a>
 <span> = </span>
-<span>to make something explode</span>
+<span>If two people meet again after a while and catch up, they tell each other what they've been doing.</span>
 </div>
 <!--views:phrase-rss-marker:end-->
 
@@ -215,10 +229,10 @@
 <!--views:pinterest-marker:start-->
 <div id="pinterest_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <p align="center" style="text-align:center;">
-        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;0c&#x2F;e4&#x2F;86&#x2F;0ce486e795f9c0df220a941279222f5a.jpg" alt="Meritocracy has earned a place as our Word of the Day. Get example sentences and more at Dictionary.com! #English #Writing #Learn #Vocabulary #Spelling" />
-        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;67&#x2F;12&#x2F;ac&#x2F;6712acb65313c852a63915c351828152.jpg" alt="Are you up for some badinage? It&#39;s the Word of the Day. Learn how to say it and more at Dictionary.com!" />
-        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;8a&#x2F;d2&#x2F;58&#x2F;8ad258391b5e71bb0e7bfddb9d926cc4.jpg" alt="Today&#39;s #WordOfTheDay isn&#39;t splashy, but it is plashy. Click through to see where it comes from." />
-        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;47&#x2F;a5&#x2F;c2&#x2F;47a5c2db4e81f77a4a9b1f0fdf39091d.jpg" alt="Don&#39;t get swept up. Limerence is the Word of the Day. Get example sentences and more at Dictionary.com." />
+        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;66&#x2F;e3&#x2F;5b&#x2F;66e35b47b6b487e02878e253ba2755a3.jpg" alt=" " />
+        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;1b&#x2F;2e&#x2F;95&#x2F;1b2e958c998eb6cd78e4c41b8f06f03c.jpg" alt="Stalwart is the Word of the Day, and we&#39;re sticking to it. Click to get example sentences and more." />
+        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;49&#x2F;1d&#x2F;9e&#x2F;491d9e266dc592f370e390c396a498e9.jpg" alt="Some words are worth the wait. Cunctation is the Word of the Day. Learn more at Dictionary.com! " />
+        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;df&#x2F;87&#x2F;d3&#x2F;df87d3856aba2de7e7090573eb3319ab.jpg" alt="We&#39;re having a word party, and you&#39;re invited. Shivoo is the Word of the Day. Learn how to pronounce it and more at Dictionary.com. " />
     </p>
     <p align="center" style="text-align:center;">
         <i>Above are the latest pictures posted by</i>
@@ -236,8 +250,8 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/642578732305072128" target="_blank"><i>“May we raise children who love the unloved things”</i></a></summary>
-<p>by Nicolette Sowder</p><p>May we raise children<br/>who love the unloved<br/>things&ndash;the dandelion, the<br/>worms and spiderlings.<br/>Children who sense<br/>the rose needs the thorn</p><p>&amp; run into rainswept days<br/>the same way they<br/>turn towards sun&hellip;</p><p>And when they’re grown &amp;<br/>someone has to speak for those<br/>who have no voice</p><p>may they draw upon that<br/>wilder bond, those days of<br/>tending tender things</p><p>and be the ones.</p>
+<summary><a href="https://apoemaday.tumblr.com/post/653356015828467713" target="_blank"><i>“Yet, a stirring in me seems...”</i></a></summary>
+<p>by Tatsuji Miyoshi</p><p>Yet, a stirring in me seems like Spring,<br/>mumbles an old man to himself<br/>so mumbles fate as it embraces its own lonesome knees<br/>on a flat stone in a burnt-over field<br/>so mumbles the old man like an echo calling back from across the valley<br/>a sad life’s tale that has come to an end, wrapped in indigent tatters, <br/>with no wife, no family, no neighbors,<br/>no fame, no hope, no work, no birthplace to return to<br/>Once he had an agile wife, gentle family, homey habits and neighbors<br/>he possessed such a modest yet wholesome happiness<br/>On the flat stone in the burnt field<br/>over the shoulders of bombed-out buildings, disfigured <br/>and frightened against the mercury-colored background<br/>far beyond geometric canals disappearing into the twilight rain <br/>he hears children’s songs as poor sick kids begin to sing—<br/>their voices, scattered, cold yet happy, are city lights beginning to blink<br/>Ah, those rose-colored eyes begin to shine in the distance, winking,<br/>but what do they have to do with me now?<br/>Sinking heavy and dark against the sky farther out<br/>the mountain ridges block out and shut down this day of my life <br/>to finally fold it into nothingness in the dusk<br/>this gentle listlessness refusing to leave from under a willow idly swaying in the wind<br/>lingering for a long long time<br/>this solitary feeling, this stirring is like Spring&hellip;<br/>The field is wildly overgrown with weeds<br/>—the field all around is now withered and in distress <br/>the canal water is putrid, heavy and stagnant<br/>a flock of sparrows takes flight from bricks scattered about crumbling walls <br/>It is evening when every small bird in town,<br/>like a whimsical memory, beats its feeble wings to take off<br/>in a gloomy wintry rain falling like a mist<br/>yet the stirring &hellip; the stirring has brought this man a memory of some distant past<br/>of a hazy spring day with cherry blossoms in full bloom<br/>Out of his obscure mindscape where scant light illuminates his feelings like <br/>a locust dying of hunger in the sands of a distant desert, <br/>the old man mumbles to himself, with no one around to hear him,<br/>Yet the stirring in me, the stirring seems just like Spring<br/></p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->
@@ -247,10 +261,10 @@
 <!--views:instagram-marker:start-->
 <div id="instagram_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <p align="center" style="text-align:center;">
-        <img width="200" src="https:&#x2F;&#x2F;instagram.flwo4-1.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c0.160.1280.1280a&#x2F;s640x640&#x2F;147317430_416556439653823_1032390497261390485_n.jpg?_nc_ht&#x3D;instagram.flwo4-1.fna.fbcdn.net&amp;_nc_cat&#x3D;107&amp;_nc_ohc&#x3D;QcfsUdMGJg0AX_7scgl&amp;tp&#x3D;1&amp;oh&#x3D;0de13c00f2c36d446b7774600fc13720&amp;oe&#x3D;604EA7B0" alt="-🇺🇸- St. Valentine’s day at Outlet Village Pulkovo! @ov_pulkovo 🥰  Valentines Day is the most romantic holiday of the year. On February 14, Outlet Village Pulkovo will create a special atmosphere in honor of all couples.  🎼From 13:00 to 18:00 live music will be played at the outlet, which will bring a festive mood.   📸Also, from 13:00 to 18:00, all couples can take a memorable photo on Polaroid.   🤗A charming mime will walk around the territory to capture the lovers at the outlet.  👝And at the Information center you can get a complimentary shopper bag for a picture in Instagram Stories.   🌟Outlet Village Pulkovo stores have prepared additional discounts and special offers for the holiday. Treat yourself and your significant other with beneficial shopping!  -🇷🇺- День всех влюбленных в Outlet Village Pulkovo! @ov_pulkovo ❤  День святого Валентина – самый романтичный праздник в году. 14 февраля в Outlet Village Пулково в честь всех влюбленных создаст особую атмосферу.  🎷С 13:00 до 18:00 в аутлете будет играть живая музыка, которая подарит праздничное настроение.  📸 Также с 13:00 до 18:00 все пары смогут сделать памятную фотографию на Polaroid.  😇 Обаятельный мим будет гулять по территории, чтобы запечатлеть возлюбленных в аутлете.  🛍А в Информационном центре аутлета за фотографию в Instagram Stories вам подарят стильный шопер.  😍 Магазины Outlet Village Пулково подготовили дополнительные скидки и специальные предложения к празднику. Порадуйте себя и вашу вторую половинку выгодным шопингом!  #visitpetersburg #russiatravel #spb #welcome #tourism #vacations" />
-        <img width="200" src="https:&#x2F;&#x2F;instagram.flwo4-2.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;s640x640&#x2F;147290615_225958462506972_6172015558840803486_n.jpg?_nc_ht&#x3D;instagram.flwo4-2.fna.fbcdn.net&amp;_nc_cat&#x3D;100&amp;_nc_ohc&#x3D;NHik5MoiAO0AX8WfmHm&amp;tp&#x3D;1&amp;oh&#x3D;a49817835d41ba9b7d9e3e631dbf16af&amp;oe&#x3D;60266DDF" alt="Помните легендарный советский автомобиль СМЗ С-3А на котором ездили Трус, Балбес и Бывалый из фильма «Операция «Ы» или новые приключения Шурика»?🤓  А что если мы скажем, что вы можете увидеть этот автомобиль и другие шедевры отечественного автопрома своими глазами ?!  В  @ov_pulkovo проходит бесплатная 🆓 выставка советских ретро автомобилей @velgutsgarage.ru 🚘  Мы настолько вдохновились, что решили смонтировать для вас видео и погрузить в историю советского автомобилестроения.  Visit Petersburg ✅ рекомендует посетить данную выставку всей семьей 👨‍👩‍👧‍👦  📸 @lizlizliss   #visitpetersburg #events #car #volga #piter #art #travel #see #tiktok #spb #speed #drift" />
-        <img width="200" src="https:&#x2F;&#x2F;instagram.flwo4-2.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;e35&#x2F;146735045_480931243310523_1763051824217641625_n.jpg?_nc_ht&#x3D;instagram.flwo4-2.fna.fbcdn.net&amp;_nc_cat&#x3D;103&amp;_nc_ohc&#x3D;jpzFIQMNHO4AX9vMpqY&amp;tp&#x3D;1&amp;oh&#x3D;b0f49447857222604fd07cce3406fae9&amp;oe&#x3D;6026B361" alt="Уматурман 14 февраля 2021 в 20:00 в концертном зале А2❤️  Группа «Uma2rman» - это проект двух родных братьев Владимира и Сергея Кристовских 🎼  В 2004 году и «Прасковья», и лирическая композиция «Проститься» стали абсолютными хитами, а группу признали «Лучшим дебютом» на премии MTVRussian Music Awards🏆  Успех коллектива закрепила песня «Ночной дозор», ставшая саундтреком для одноименного блокбастера Тимура Бекмамбетова  Первая пластинка группы «В городе N» разошлась тиражом более 1 000 000 экземпляров и получила статус платиновой  ❗️14 февраля 2021 в 20:00 на сцене концертного зала А2 состоится концерт Uma2rman!   Братья Кристовские порадуют своих поклонников любимыми хитами “Прасковья”, “Ночной дозор”, “Проститься” и многими другими  Спешите, пока билеты есть в наличии🔝 на Kassir.ru  #visitpetersburg #концерт #14февраля #деньвсехвлюбленных #питер #спб #кудасходитьспб#местапитер" />
-        <img width="200" src="https:&#x2F;&#x2F;instagram.flwo4-1.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c0.179.1440.1440a&#x2F;s640x640&#x2F;146085299_861850097719201_3256704652696938466_n.jpg?_nc_ht&#x3D;instagram.flwo4-1.fna.fbcdn.net&amp;_nc_cat&#x3D;101&amp;_nc_ohc&#x3D;WPdazY0tcDQAX_LGtg1&amp;tp&#x3D;1&amp;oh&#x3D;66418ff165123ca82ac5ad1186cb8426&amp;oe&#x3D;604F2EA0" alt="Всем любви ❤️  Нам очень хочется порадовать вас и сделать как можно больше сюрпризов в преддверии Дня всех влюблённых 👩‍❤️‍💋‍👨  Мы разыграем два билета в кинотеатр @cinema_grand_palace — единственный премиум-кинотеатр, расположенный в самом сердце Петербурга на Невском проспекте. Здесь 7 совершенно разных, при этом максимально комфортных и камерных VIP-кинозала от 2 до 40 мест. При этом каждый зал можно арендовать под персональный просмотр в кругу своих друзей и близких. Это место ценят за особую атмосферу комфорта, роскоши и неповторимого сервиса.   Шикарный подарок, не так ли?😍   Условия простые😌  ✅Подпишись на @visitpetersburg и @cinema_grand_palace   ✅ Поставь лайк этой публикации   ✅Сделай репост этой записи к себе в сторис с отметкой @visitpetersburg и @cinema_grand_palace   ✅ Напиши в комментариях своё любимое место для свиданий в Петербурге и отметь двух друзей   ‼️Важно‼️ 🛑 Один комментарий – один участник   ✅ Ваш аккаунт должен быть открытым   Вот и всё😉  🗓 Итоги подведём 11 февраля.  ❗️Участвовать могут только живые профили, аккаунты, созданные для участия в конкурсах учитываться не будут❗️  🔢 Победителя определим с помощью генератора случайных чисел.  С любовью, ваш Visit Petersburg 💚💛" />
+        <img width="200" src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.flwo4-2.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cs640x640%7C%7C228255498_616372899489038_7307912407649789622_n.jpg%3F_nc_ht%3Dinstagram.flwo4-2.fna.fbcdn.net%26_nc_cat%3D102%26_nc_ohc%3DgUS9jHjVyl4AX_B2V_v%26edm%3DAAWvnRQBAAAA%26ccb%3D7-4%26oh%3D522f67a9be445fa08deffaec7e3033f1%26oe%3D610FDF0D%26_nc_sid%3De7738c" alt="Открыта вторая очередь музейно-исторического парка «Остров фортов»!😍  В @kronshtadt.rf cтало больше площадок для детей и молодёжи, а также возведён скейтпарк😁  Новое парковое пространство украшают арт-объекты на морской тематики. В их числе знак «Нулевой километр», композиции «Компас» и «Сад камней»  #visitpetersburg #ябылвспб2021 #раскусироссию #путешествияпороссии #кронштадт #островфортов" />
+        <img width="200" src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.flwo4-2.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cc135.0.809.809a%7C%7Cs640x640%7C%7C226518202_584366442568228_3136692917736043489_n.jpg%3F_nc_ht%3Dinstagram.flwo4-2.fna.fbcdn.net%26_nc_cat%3D104%26_nc_ohc%3DXXcW_2VV9aQAX__c75E%26edm%3DAAWvnRQBAAAA%26ccb%3D7-4%26oh%3D0f3e6aed65c1fbc437cc56e0eef4a75b%26oe%3D610F234E%26_nc_sid%3De7738c" alt="Почему Васильевский остров так называется❓  Так и говорили: «Василию – на остров», когда передавали что-то Василию Корчмину, тогда его артиллерийская батарея размещалась на стрелке В.О.  Согласно первоначальной планировке именно на острове должен был быть центр Петербурга. Однако люди неохотно сюда переселялись, виной тому изолированность от других районов.  Долгое время добраться до острова можно было только с переправой или по платным временным мостам. Васильевский остров можно легко оплыть на кораблике, это очень популярный маршрут сейчас, он займет всего 2 часа 30 минут.  На Университетской набережной находятся сфинксы, которым более 35 веков, их видно с воды на рейсе Балтийский круиз. Этот рейс проходит вокруг всего острова, с теплохода открываются удивительные виды на новые панорамы Петербурга. Когда корабль выйдет в Финский залив, вы увидите новые вантовые мосты, необычные жилые комплексы на набережных острова, Лахта-центр, стадион, и огромный флаг «Зенита».  Билеты доступны на @boattour_spb 😍 А также напоминаем, что более 25 разных водных прогулок ждут вас, выбрать именно свою можно в информационных туристических офисах на Дворцовой площади, площади Восстания, на Садовой, д.37 и на Садовой, д. 14  #visitpetersburg #spb #tourism #покажипитер #путешествуй #ябылвспб2021 #boattour #петербург #круиз #васильевскийостров #лахтацентр" />
+        <img width="200" src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.flwo4-1.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cs640x640%7C%7C226463185_336679311433891_390043718953420112_n.jpg%3F_nc_ht%3Dinstagram.flwo4-1.fna.fbcdn.net%26_nc_cat%3D107%26_nc_ohc%3DrBjJIcjMcSIAX9ZoMFK%26edm%3DAAWvnRQBAAAA%26ccb%3D7-4%26oh%3D599ecfa980610c556148a52e3862affe%26oe%3D610F9CBB%26_nc_sid%3De7738c" alt="🌟31 июля в Петербурге пройдёт музыкальное событие CINEMA ORCHESTRA MEDLEY!  Вы услышите легендарные саундтреки из фильмов: Гладиатор, Начало, Интерестеллар, Гарри Поттер, Звёздные войны, Пираты Карибского моря,Бэтмен, Ла-Ла-Лэнд и другие в исполнении симфонического оркестра, органа, рояля, скрипки и виолончели😍  🎉Уникальное проект, который уже завоевал тысячи сердец!! 31 июля и 22 августа легендарные концерты Imperial Orchestra снова в городе!  Не пропустите!🔥  🗓 31 июля  📍КСК Тинькофф-Арена   ⏩ Подробности @music_salon_classica   #visitpetersburg #spb #piter #ябылвспб2021 #event" />
+        <img width="200" src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.flwo4-1.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cs640x640%7C%7C226606142_106626725015482_2887555672166263743_n.jpg%3F_nc_ht%3Dinstagram.flwo4-1.fna.fbcdn.net%26_nc_cat%3D110%26_nc_ohc%3Dh1E6PdVASQAAX8ZtGxk%26edm%3DAAWvnRQBAAAA%26ccb%3D7-4%26oh%3Da526f10a00d160ca16d6192949bd3cb1%26oe%3D610E2C37%26_nc_sid%3De7738c" alt="💥 Конкурс  Выиграй вкусный приз от @subwayrussia_official!  Как? Успей в тройке первых написать нам, почему Subway называется именно так.  Подсказку ищи у нас в stories и обязательно скачивай приложение Subway – промокоды на подарки раздают там 📲  Удачи! 🌠  #visitpetersburg #spb #tourism #покажипитер #путешествуй #ябылвспб2021 #раскусироссию #путешествияпороссии" />
     </p>
     <p align="center" style="text-align:center;">
         <i>Above are the latest pictures posted by</i>
@@ -268,9 +282,9 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>-14°C (<i>scattered clouds</i>), humidity: 85%, pressure: 1022 (mbar), wind: /west/ 2 (m/s), cloudy: 40%</b>
+        <b>21°C (<i>clear sky</i>), humidity: 50%, pressure: 1013 (mbar), wind: /west/ 4 (m/s), cloudy: 0%</b>
         <br />
-        Today, the Sun rises at <b>08:50 am</b> and sets at <b>17:36 pm</b>.
+        Today, the Sun rises at <b>03:44 am</b> and sets at <b>22:21 pm</b>.
     </p>
 </div>
 
@@ -281,161 +295,161 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [How to Disable Reddit’s “Open in App” Pop-Up](https://www.howtogeek.com/713115/how-to-disable-reddits-open-in-app-pop-up/)
-* [JLab's New Affordable USB-C Talk Series Microphones Start at $50](https://www.reviewgeek.com/70542/jlabs-new-affordable-usb-c-talk-series-microphones-start-at-50/)
-* [SLING TV Unlocks 100 Primetime Channels for Free Until Valentine's Day](https://www.reviewgeek.com/70533/sling-tv-unlocks-100-primetime-channels-for-free-until-valentines-day/)
-* [Amazon Has a Bunch of Deals on Fire and Echo Devices for Valentine's Day](https://www.reviewgeek.com/70517/amazon-has-a-bunch-of-deals-on-fire-and-echo-devices-for-valentines-day/)
-* [Zoom's New Face Filters Will Lighten Up Your Next Video Call](https://www.reviewgeek.com/70485/zooms-new-face-filters-will-lighten-up-your-next-video-call/)
-* ['Forza Horizon 4' is Coming to Steam, No Longer a Microsoft Store Exclusive](https://www.reviewgeek.com/70488/forza-horizon-4-is-coming-to-steam-no-longer-a-microsoft-store-exclusive/)
-* [How to Use 3D Facial Effects on Zoom](https://www.howtogeek.com/713042/how-to-use-3d-facial-effects-on-zoom/)
-* [Google Play Store vs. Google Store: What’s the Difference?](https://www.howtogeek.com/708991/google-play-store-vs.-google-store-whats-the-difference/)
-* ['Cyberpunk 2077' Game Developer Hacked and Blackmailed, Irony Lost on No One](https://www.reviewgeek.com/70483/cyberpunk-2077-game-developer-hacked-and-blackmailed-irony-lost-on-no-one/)
-* [Update Your New Chromecast to Fix Its Stupid Reboot Bug](https://www.reviewgeek.com/70481/update-your-new-chromecast-to-fix-its-stupid-reboot-bug/)
+* [Everything Apple Announced At the WWDC 2021 Keynote](https://www.reviewgeek.com/86892/everything-apple-announced-at-the-wwdc-2021-keynote/)
+* [What’s New in iOS 15, iPadOS 15, and macOS Monterey](https://www.howtogeek.com/732836/whats-new-in-ios-15-ipados-15-and-macos-monterey/)
+* [Paramount+ Adds Over 1,000 New Movies to Its Library](https://www.reviewgeek.com/86893/paramount-adds-over-1000-new-movie-to-its-library/)
+* [macOS Monterey Brings the Jack](https://www.reviewgeek.com/86884/macos-monterey-brings-the-jack/)
+* [Apple Health Lets You Share Data With Family and Doctors in iOS 15](https://www.reviewgeek.com/86855/apple-health-lets-you-share-data-with-family-and-doctors-in-ios-15/)
+* [Siri is Coming to Ecobee And More This Fall and Apple Embraces Matter Smart Home](https://www.reviewgeek.com/86827/siri-is-coming-to-ecobee-and-more-this-fall-and-apple-embraces-matter-smart-home/)
+* [watchOS 8 Brings More Health Features, Photos and Timer Improvements](https://www.reviewgeek.com/86829/watchos-8-brings-more-health-features-photos-and-timer-improvements/)
+* [Apple's Privacy Updates Will You Help Recover Grandma's Password (Again)](https://www.reviewgeek.com/86820/apples-privacy-updates-will-you-help-recover-grandmas-password-again/)
+* [Upcoming iOS 15 Update Lets Android Friends Join FaceTime Calls (And Much More)](https://www.reviewgeek.com/86806/upcoming-ios-15-update-lets-android-friends-join-facetime-calls-and-much-more/)
+* [iPad OS 15 Promises Multitasking That Doesn't Suck, Also Better Widgets](https://www.reviewgeek.com/86832/ipad-os-15-promises-multitasking-that-doesnt-suck-also-better-widgets/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Dependency Hijacking Software Supply Chain Attack Hits More Than 35 Orgs](https://blog.sonatype.com/dependency-hijacking-software-supply-chain-attack-hits-more-than-35-organizations)
-- [CEO of Unilever: “Every Country Is Shifting Towards Plant-Based Diets”](https://thebeet.com/ceo-of-unilever-every-country-is-shifting-towards-plant-based-diets/)
-- [0-day used to DoS Minecraft server](https://www.openwall.com/lists/oss-security/2021/02/09/7)
-- [Guix SD: risk of local privilege escalation via setuid programs](https://guix.gnu.org/blog/2021/risk-of-local-privilege-escalation-via-setuid-programs/)
-- [PHPetite: A Single File Blog Generator](https://phpetite.org/)
-- [Chia Network Business Whitepaper [pdf]](https://www.chia.net/assets/Chia-Business-Whitepaper-2021-02-09-v1.0.pdf)
-- [Excel Now Turing Complete](https://www.microsoft.com/en-us/research/blog/lambda-the-ultimatae-excel-worksheet-function/?OCID=msr_blog_lambda_tw&ocid=usoc_TWITTER_M365_spl100001841896010)
-- [Apple – Legal](https://www.apple.com/legal/)
-- [The Tuxedo Polaris Linux Laptop: Overview](https://boilingsteam.com/the-polaris-gaming-linux-laptop-from-tuxedo/)
-- [Will Google’s Core Update in May Decimate Your Traffic? How to Prepare](https://capitalandgrowth.org/answers/Article/3544243/Will-Google-s-Core-Update-in-May-Decimate-Your-Traffic-How-to-Prepare)
+- [The Enshittificator [video]](https://vimeo.com/1168468796)
+- [SUNN O&rpar;&rpar;&rpar; HalfLife Fer Mmxxv](https://sunn.southernlord.com/sunn-o-halflife-fer-mmxxv/)
+- [YouTube now determines your watch list [video]](https://www.youtube.com/watch?v=7U_LhzgwJ4U&list=RD7U_LhzgwJ4U)
+- [Binance&#39;s MAGA-Branding Strategy](https://www.thenation.com/article/economy/binance-crypto-trump/)
+- [As We May Think &lpar;1945&rpar;](https://en.wikipedia.org/wiki/As_We_May_Think)
+- [Estimating π with a Coin](https://arxiv.org/abs/2602.14487)
+- [The Mountain Eagle Is Now Online](https://www.mountaineagle.net/articles/display/?entry_short=the-mountain-eagle-is-now-online)
+- [German Tank Problem](https://en.wikipedia.org/wiki/German_tank_problem)
+- [Latency](https://cheat.sh/latency)
+- [Show HN: Agents-lint – detect stale paths and context rot in AGENTS.md files](https://github.com/giacomo/agents-lint)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Coronavirus live news: annual vaccine may be needed, says J&J chief; Spain tops 3m cases](https://www.theguardian.com/world/live/2021/feb/10/coronavirus-live-news-annual-vaccine-may-be-needed-says-jj-chief-spain-tops-3m-cases)
-- [Sim-swapping: UK police arrest eight over attacks on celebrities](https://www.theguardian.com/uk-news/2021/feb/10/sim-swapping-uk-police-arrest-eight-over-attacks-on-celebrities)
-- [Trump impeachment: Senate votes to proceed with trial](https://www.theguardian.com/us-news/2021/feb/09/trump-impeachment-senate-vote-trial)
-- [Care homes failed by lack of PPE during UK Covid first wave, say MPs](https://www.theguardian.com/society/2021/feb/10/care-homes-failed-by-lack-of-ppe-during-uk-covid-first-wave-say-mps)
-- [Elton John and Michael Caine star in video to promote Covid vaccination](https://www.theguardian.com/world/2021/feb/10/elton-john-and-michael-caine-star-in-video-to-promote-covid-vaccination)
-- [Thousands of clinically vulnerable not reached at start of Covid crisis, watchdog finds](https://www.theguardian.com/world/2021/feb/10/thousands-of-clinically-vulnerable-not-reached-at-start-of-covid-crisis-watchdog-finds)
-- [Steep rise in UK's consumption of organic food](https://www.theguardian.com/environment/2021/feb/10/steep-rise-in-uks-consumption-of-organic-food)
-- [Ryan Reynolds and Rob McElhenney complete takeover of Wrexham](https://www.theguardian.com/football/2021/feb/09/ryan-reynolds-and-rob-mcelhenney-complete-takeover-of-wrexham)
-- [Scott McTominay sinks West Ham to put Manchester United in quarter-final](https://www.theguardian.com/football/2021/feb/09/manchester-united-west-ham-fa-cup-fifth-round-match-report)
-- [Swedish embassy in Minsk harbours two Belarusians for five months](https://www.theguardian.com/world/2021/feb/09/swedish-embassy-in-minsk-harbours-two-belarusians-for-five-months)
+- [At least 15 killed as cash-laden military cargo plane crashes in Bolivia](https://www.theguardian.com/world/2026/feb/28/at-least-15-killed-as-cash-laden-military-cargo-plane-crashes-in-bolivia)
+- [Trump administration warns tariff refund process ‘will take time’](https://www.theguardian.com/us-news/2026/feb/27/trump-tariff-refunds)
+- [New Orleans police obtain new Shia LaBeouf arrest warrant in battery case](https://www.theguardian.com/film/2026/feb/27/new-orleans-police-shia-labeouf)
+- [Trump ‘not happy’ with Iran situation and says military force is still an option](https://www.theguardian.com/world/2026/feb/27/us-urges-citizens-leave-israel-threat-strike-iran)
+- [North Dakota judge finalizes $345m judgment against Greenpeace in pipeline case](https://www.theguardian.com/us-news/2026/feb/27/north-dakota-greenpeace-access-pipeline-energy-transfer)
+- [Renee Good’s family says Trump hasn’t contacted them after her death](https://www.theguardian.com/us-news/2026/feb/27/renee-good-death-trump-administration)
+- [Bill Clinton says in House testimony he had ‘no idea’ about Epstein’s crimes](https://www.theguardian.com/us-news/2026/feb/27/bill-clinton-testimony-jeffrey-epstein-investigation)
+- [LA superintendent placed on leave after FBI raid on home and district office](https://www.theguardian.com/us-news/2026/feb/27/los-angeles-superintendent-fbi-raid)
+- [Trump orders US agencies to stop use of Anthropic technology amid dispute over ethics of AI](https://www.theguardian.com/us-news/2026/feb/27/trump-anthropic-ai-federal-agencies)
+- [Trump suggests US could carry out ‘friendly takeover’ of Cuba](https://www.theguardian.com/us-news/2026/feb/27/trump-cuba-regime-change)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Turtle visual cortex is non-retinotopic](https://blog.jordan.matelsky.com/365papers/141/)
-- [Github1s – One second to read GitHub code with VS Code](https://github.com/conwnet/github1s)
-- [iRacing Telemetry with F#](https://markjames.dev/2021-02-09-iracing-telemetry-fsharp/)
-- [An SQL Solution for Jupyter](https://blog.jupyter.org/an-sql-solution-for-jupyter-ef4a00a0d925)
-- [GlobalSign: RSA-1024 leaf certificate issued after 2013-12-31](https://bugzilla.mozilla.org/show_bug.cgi?id=1690807)
-- [SDL Moves to GitHub](https://discourse.libsdl.org/t/sdl-moving-to-github/28700/5)
-- [OpenStreetMap proven to be a highly accurate map in top US cities](https://eng.lyft.com/how-lyft-discovered-openstreetmap-is-the-freshest-map-for-rideshare-a7a41bf92ec)
-- [Haxe 4.2](https://community.haxe.org/t/haxe-4-2-0-is-released/2888)
-- [Lumi is hiring to build a marketplace for sustainable factories – work anywhere](https://www.lumi.com/jobs)
-- [Cops are playing music while citizens are filming to trigger copyright filters](https://twitter.com/jason_koebler/status/1359213426740895744)
+- [OpenAI reaches deal to deploy AI models on U.S. DoW classified network](https://www.reuters.com/business/openai-reaches-deal-deploy-ai-models-us-department-war-classified-network-2026-02-28/)
+- [Please, please, please stop using passkeys for encrypting user data](https://blog.timcappalli.me/p/passkeys-prf-warning/)
+- [OpenAI agrees with Dept. of War to deploy models in their classified network](https://twitter.com/sama/status/2027578652477821175)
+- [Statement on the comments from Secretary of War Pete Hegseth](https://www.anthropic.com/news/statement-comments-secretary-war)
+- [We Will Not Be Divided](https://notdivided.org)
+- [Qt45: A small polymerase ribozyme that can synthesize itself](https://www.science.org/doi/10.1126/science.adt2760)
+- [Emuko: Fast RISC-V emulator written in Rust, boots Linux](https://github.com/wkoszek/emuko)
+- [I am directing the Department of War to designate Anthropic a supply-chain risk](https://twitter.com/secwar/status/2027507717469049070)
+- [Otters as Bioindicators of Estuarine Health](https://emt.pensoft.net/article/185117/)
+- [President Trump bans Anthropic from use in government systems](https://www.npr.org/2026/02/27/nx-s1-5729118/trump-anthropic-pentagon-openai-ai-weapons-ban)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
-- [Microsoft issues green light for Windows 10 2004. (But what's the point?)](https://www.computerworld.com/article/3606837/microsoft-issues-green-light-for-windows-10-2004-but-whats-the-point.html#tk.rss_all)
-- [10 handy hidden Android features you probably forget to use](https://www.computerworld.com/article/3250847/handy-hidden-android-features.html#tk.rss_all)
-- [It’s time for an App Store scam app crackdown](https://www.computerworld.com/article/3606732/its-time-for-an-app-store-scam-app-crackdown.html#tk.rss_all)
-- [Microsoft to replace legacy Edge in April with Chromium-based version](https://www.computerworld.com/article/3606788/microsoft-to-replace-legacy-edge-in-april-with-chromium-based-version.html#tk.rss_all)
-- [US IT jobs grow in January, defying broader employment struggles](https://www.computerworld.com/article/3542681/us-it-jobs-grow-in-january-defying-broader-employment-struggles.html#tk.rss_all)
-- [Ahead of Patch Tuesday, a cautionary tale](https://www.computerworld.com/article/3606391/ahead-of-patch-tuesday-a-cautionary-tale.html#tk.rss_all)
-- [The future of work: Coming sooner than you think](https://www.cio.com/article/3606349/the-future-of-work-coming-sooner-than-you-think.html#tk.rss_all)
-- [Remote work 2.0 — when WFH really means 'work from anywhere'](https://www.computerworld.com/article/3604736/remote-work-20-when-wfh-really-means-work-from-anywhere.html#tk.rss_all)
-- [Is there a human consequence to WFH?](https://www.computerworld.com/article/3606470/is-there-a-human-consequence-to-wfh.html#tk.rss_all)
-- [Tech event calendar 2021: Upcoming US shows, conferences, and IT expos](https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all)
+- [Kill meetings &lpar;before meetings kill your company&rpar;](https://www.computerworld.com/article/3714934/kill-meetings-before-meetings-kill-your-company.html#tk.rss_all)
+- [McDonald&#39;s serves up a master class in how not to explain a system outage](https://www.computerworld.com/article/3714932/mcdonalds-serves-up-a-master-class-in-how-not-to-explain-a-system-outage.html#tk.rss_all)
+- [Report: Scale cuts off subsidiary’s remote workers in several countries](https://www.computerworld.com/article/3714686/report-scale-cuts-off-subsidiarys-remote-workers-in-several-countries.html#tk.rss_all)
+- [Apple will continue to enhance its DMA compliance](https://www.computerworld.com/article/3714931/apple-will-continue-to-enhance-its-dma-compliance.html#tk.rss_all)
+- [AI is on a fast track, but hype and immaturity could derail it](https://www.computerworld.com/article/3714940/ai-is-on-a-fast-track-but-hype-and-immaturity-could-derail-it.html#tk.rss_all)
+- [Why even hybrid RTO mandates are hurting overall job satisfaction](https://www.computerworld.com/article/3714928/why-even-hybrid-return-to-office-mandates-are-hurting-overall-job-satisfaction.html#tk.rss_all)
+- [Microsoft’s Copilot AI set to operate locally on future PCs, says Intel](https://www.computerworld.com/article/3714605/microsofts-copilot-ai-set-to-operate-locally-on-future-pcs-says-intel.html#tk.rss_all)
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [If you get an unexpected call from Apple Support, you’re being hacked](https://www.computerworld.com/article/3714823/if-you-get-an-unexpected-call-from-apple-support-youre-being-hacked.html#tk.rss_all)
+- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
-- [What the Team Up of Palantir with IBM Means for AI & Cloud](https://www.informationweek.com/big-data/ai-machine-learning/what-the-team-up-of-palantir-with-ibm-means-for-ai-and-cloud/d/d-id/1340102?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [What's New in IT Security?](https://www.informationweek.com/strategic-cio/security-and-risk-strategy/whats-new-in-it-security/a/d-id/1340099?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [How to Explain AI, ML, and NLP to Business Leaders in Plain Language](https://www.informationweek.com/big-data/ai-machine-learning/how-to-explain-ai-ml-and-nlp-to-business-leaders-in-plain-language/a/d-id/1340052?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [The 'It' Factors in IT Transformation](https://www.informationweek.com/strategic-cio/digital-business/the-it-factors-in-it-transformation/a/d-id/1340063?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [How to Keep Machine Learning Steady and Balanced](https://www.informationweek.com/big-data/ai-machine-learning/how-to-keep-machine-learning-steady-and-balanced/a/d-id/1340067?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [New Opportunities from Tech-Driven Industry Convergence](https://www.informationweek.com/strategic-cio/it-strategy/new-opportunities-from-tech-driven-industry-convergence/a/d-id/1340027?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [What Comes Next for AWS with Jassy to Become Amazon CEO](https://www.informationweek.com/cloud/what-comes-next-for-aws-with-jassy-to-become-amazon-ceo/d/d-id/1340057?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Aegis Sciences CIO on Scaling IT to Meet COVID Testing Demand](https://www.informationweek.com/strategic-cio/aegis-sciences-cio-on-scaling-it-to-meet-covid-testing-demand/a/d-id/1340053?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Why the Financial Services Industry is Embracing the Cloud](https://www.informationweek.com/cloud/why-the-financial-services-industry-is-embracing-the-cloud/a/d-id/1340050?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [RISE with SAP Gives CIOs a Simpler Path to S/4HANA Cloud](https://www.informationweek.com/software/enterprise-applications/rise-with-sap-gives-cios-a-simpler-path-to-s-4hana-cloud/d/d-id/1340040?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [Spotting DevSecOps Warning Signs and Responding to Failures](https://www.informationweek.com/devops/spotting-devsecops-warning-signs-and-responding-to-failures)
+- [IT and Finance/Marketing/Engineering: Let&#39;s Just Get Along](https://www.informationweek.com/it-life/it-and-finance-marketing-engineering-let-s-just-get-along)
+- [How Organizations Can Engage Tech Talent in Today’s Labor Market](https://www.informationweek.com/strategic-cio/how-organizations-can-engage-tech-talent-in-today-s-labor-market)
+- [BaaS, Social Payment Apps Gain Traction](https://www.informationweek.com/fintech/baas-social-payment-apps-gain-traction)
+- [CIOs Face IT Spending Squeeze, Security Woes, Higher Expectations in 2023](https://www.informationweek.com/strategic-cio/cios-face-it-spending-squeeze-security-woes-higher-expectations-in-2023)
+- [Cloud Certifications: A Differentiating Factor in the Tech Industry](https://www.informationweek.com/cloud/cloud-certifications-a-differentiating-factor-in-the-tech-industry)
+- [Tips to Achieve Enterprise ML Success](https://www.informationweek.com/big-data/tips-to-achieve-enterprise-ml-success)
+- [Buttoning Up Cybersecurity to Avoid Fashion Retailer&#39;s Fate](https://www.informationweek.com/security-and-risk-strategy/buttoning-up-cybersecurity-to-avoid-fashion-retailer-s-fate)
+- [Why Your IT Organization Needs to Embrace Continuous Improvement](https://www.informationweek.com/strategic-cio/why-your-it-organization-needs-to-embrace-continuous-improvement)
+- [Your Apple Watch Might Save Your Life](https://www.informationweek.com/healthcare/your-apple-watch-might-save-your-life)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
-- [Should you care about quantum computing?](https://www.infoworld.com/article/3606573/should-you-care-about-quantum-computing.html#tk.rss_all)
-- [Java 17 proposal would enhance PRNGs](https://www.infoworld.com/article/3606833/java-17-proposal-would-enhance-prngs.html#tk.rss_all)
-- [Homebrew 3 brings Apple Silicon support](https://www.infoworld.com/article/3606748/homebrew-3-brings-apple-silicon-support.html#tk.rss_all)
-- [How to use implicit and explicit operators in C#](https://www.infoworld.com/article/3606436/how-to-use-implicit-and-explicit-operators-in-csharp.html#tk.rss_all)
-- [Hidden figures: 7 Black programmers you should know](https://www.infoworld.com/article/3606070/hidden-figures-7-black-programmers-you-should-know.html#tk.rss_all)
-- [7 best practices for remote development teams](https://www.infoworld.com/article/3601728/7-best-practices-for-remote-development-teams.html#tk.rss_all)
-- [The future of work: Coming sooner than you think](https://www.cio.com/article/3606349/the-future-of-work-coming-sooner-than-you-think.html#tk.rss_all)
-- [GitHub increases developer’s cut of GitHub Marketplace sales](https://www.infoworld.com/article/3606490/github-increases-developers-cut-of-github-marketplace-sales.html#tk.rss_all)
-- [You’re doing cloud-based AI and machine learning wrong](https://www.infoworld.com/article/3606135/youre-doing-cloud-based-ai-and-machine-learning-wrong.html#tk.rss_all)
-- [Visual Studio Code 1.53 brings customizable search mode](https://www.infoworld.com/article/3606191/visual-studio-code-153-brings-customizable-search-mode.html#tk.rss_all)
+- [Ubuntu 22.10 shines on MicroPython, microcontrollers](https://www.infoworld.com/article/3677575/ubuntu-22-10-shines-on-micropython-microcontrollers.html#tk.rss_all)
+- [Condensers promise to accelerate Java programs](https://www.infoworld.com/article/3677770/condensers-promise-to-accelerate-java-programs.html#tk.rss_all)
+- [Why openness always matters](https://www.infoworld.com/article/3677572/why-openness-always-matters.html#tk.rss_all)
+- [Why you’re getting cloud security wrong](https://www.infoworld.com/article/3677570/why-youre-getting-cloud-security-wrong.html#tk.rss_all)
+- [IT career roadmap: Full-stack developer](https://www.infoworld.com/article/3676691/it-career-roadmap-full-stack-developer.html#tk.rss_all)
+- [The best new features and fixes in Python 3.11](https://www.infoworld.com/article/3660550/the-best-new-features-and-fixes-in-python-311.html#tk.rss_all)
+- [12 ggplot extensions for snazzier R graphics](https://www.infoworld.com/article/3667496/12-ggplot-extensions-for-snazzier-r-graphics.html#tk.rss_all)
+- [Sysdig’s new Cost Advisor aims to cut Kubernetes costs](https://www.infoworld.com/article/3677851/sysdigs-new-cost-advisor-aims-to-cut-kubernetes-costs.html#tk.rss_all)
+- [Postgres is eating relational](https://www.infoworld.com/article/3677629/postgres-is-eating-relational.html#tk.rss_all)
+- [Most reported CVEs for Docker Hub images are harmless](https://www.infoworld.com/article/3677550/most-reported-cves-for-docker-hub-images-are-harmless.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Facebook sued for data-sharing practices with third parties](https://www.computerweekly.com/news/252496091/Facebook-sued-for-data-sharing-practices-with-third-parties)
-- [IR35 private sector reforms: Deloitte confirms post-April 2021 ban on PSCs](https://www.computerweekly.com/news/252496082/IR35-private-sector-reforms-Deloitte-confirms-post-April-2021-ban-on-PSCs)
-- [Data breaches are a ticking timebomb for consumers](https://www.computerweekly.com/news/252496079/Data-breaches-are-a-ticking-timebomb-for-consumers)
-- [IBM refreshes entry-level FlashSystem arrays with a little NVMe](https://www.computerweekly.com/news/252496017/IBM-refreshes-entry-level-FlashSystem-arrays-with-a-little-NVMe)
-- [Cyberpunk 2077 developer refuses to pay up after ransomware attack](https://www.computerweekly.com/news/252496068/Cyberpunk-2077-developer-refuses-to-pay-up-after-ransomware-attack)
-- [‘Batman Begins’ cyber attack is a warning to CNI providers](https://www.computerweekly.com/news/252496071/Batman-Begins-cyber-attack-is-a-warning-to-CNI-providers)
-- [Data teams struggle to maximise business benefits](https://www.computerweekly.com/news/252496070/Data-teams-struggle-to-maximise-business-benefits)
-- [NHS reports fewer phishing emails in 2020](https://www.computerweekly.com/news/252496065/NHS-reports-fewer-phishing-emails-in-2020)
-- [Security Think Tank: Biden has a chance to renew cyber alliances](https://www.computerweekly.com/opinion/Security-Think-Tank-Biden-has-a-chance-to-renew-cyber-alliances)
-- [Russia’s Sber launches international AI contest for children](https://www.computerweekly.com/news/252496062/Russias-Sber-launches-international-AI-contest-for-children)
+- [Apple patches new iPhone zero-day](https://www.computerweekly.com/news/252526494/Apple-patches-new-iPhone-zero-day)
+- [Google Cloud in 2022: What’s in it for the enterprise?](https://www.computerweekly.com/news/252526440/Google-Cloud-in-2022-Whats-in-it-for-the-enterprise)
+- [Dutch lawyers raise human rights concerns over hacked cryptophone data](https://www.computerweekly.com/news/252526497/Dutch-lawyers-raise-human-rights-concerns-over-hacked-cryptophone-data)
+- [Sainsbury’s outsources for cloud-first benefits](https://www.computerweekly.com/news/252526486/Sainsburys-outsources-for-cloud-first-benefits)
+- [Apple puts pressure on manufacturing partners to decarbonise their operations through yearly audits](https://www.computerweekly.com/news/252526492/Apple-puts-pressure-on-manufacturing-partners-to-decarbonise-their-operations-through-yearly-audits)
+- [US authorities charge two Chinese spies over telco security probe](https://www.computerweekly.com/news/252526477/US-authorities-charge-two-Chinese-spies-over-telco-security-probe)
+- [UK needs stronger regional innovation clusters outside South East](https://www.computerweekly.com/news/252526479/UK-needs-stronger-regional-innovation-clusters-outside-Southeast)
+- [UK finance regulator investigates big tech finance threats and benefits](https://www.computerweekly.com/news/252526476/UK-finance-regulator-investigates-big-tech-finance-threats-and-benefits)
+- [Germany: European Court of Justice asked to rule on legality of hacked EncroChat phone evidence](https://www.computerweekly.com/news/252526474/Germany-European-Court-of-Justice-asked-to-rule-on-legality-of-hacked-EncroChat-phone-evidence)
+- [Digital-first businesses more willing to accept some fraud](https://www.computerweekly.com/news/252526439/Digital-first-businesses-more-willing-to-accept-some-fraud)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Big Reference Source?](https://www.reddit.com/r/InformationTechnology/comments/lgh948/big_reference_source/)
-- [Any Successful Zero-Touch Deployments out there? (PC)](https://www.reddit.com/r/InformationTechnology/comments/lggwsd/any_successful_zerotouch_deployments_out_there_pc/)
-- [What is Horizon PKI automation Hub and how does it work?](https://www.reddit.com/r/InformationTechnology/comments/lgfxbx/what_is_horizon_pki_automation_hub_and_how_does/)
-- [Can I get into cyber security with no certs and just with my degree in cyber security?](https://www.reddit.com/r/InformationTechnology/comments/lgce8e/can_i_get_into_cyber_security_with_no_certs_and/)
-- [How private is working from home on a private device?](https://www.reddit.com/r/InformationTechnology/comments/lg9kmy/how_private_is_working_from_home_on_a_private/)
-- [cs850m](https://www.reddit.com/r/InformationTechnology/comments/lg88qu/cs850m/)
-- [How to answer Interview questions](https://www.reddit.com/r/InformationTechnology/comments/lg52oo/how_to_answer_interview_questions/)
-- [IT Learning](https://www.reddit.com/r/InformationTechnology/comments/lg4zwd/it_learning/)
-- [Website Tagging Software for testing?](https://www.reddit.com/r/InformationTechnology/comments/lg3rzo/website_tagging_software_for_testing/)
-- [Im burnt out](https://www.reddit.com/r/InformationTechnology/comments/lfv7aj/im_burnt_out/)
+- [Too Much Information and Options. I want to kick start my IT CAREER.](https://www.reddit.com/r/InformationTechnology/comments/ydcauj/too_much_information_and_options_i_want_to_kick/)
+- [IT | CYBERSECURITY | MUSIC | FUNNY](https://www.reddit.com/r/InformationTechnology/comments/yd5ky1/it_cybersecurity_music_funny/)
+- [Trying to get my head deepnin IT for my career.](https://www.reddit.com/r/InformationTechnology/comments/yctcq7/trying_to_get_my_head_deepnin_it_for_my_career/)
+- [Rapid 7 nexpose](https://www.reddit.com/r/InformationTechnology/comments/ycjjdr/rapid_7_nexpose/)
+- [Potential Switch of my Career Path to IT-Possible Testimonials, Things I should know, Academia, Etc.](https://www.reddit.com/r/InformationTechnology/comments/yced8x/potential_switch_of_my_career_path_to_itpossible/)
+- [Company device control and monitoring](https://www.reddit.com/r/InformationTechnology/comments/yc5swr/company_device_control_and_monitoring/)
+- [Admin rights](https://www.reddit.com/r/InformationTechnology/comments/ybzwyi/admin_rights/)
+- [For those that are 50+ and successfully made a career change.](https://www.reddit.com/r/InformationTechnology/comments/ybzgn8/for_those_that_are_50_and_successfully_made_a/)
+- [U.K. petition](https://www.reddit.com/r/InformationTechnology/comments/ybltjy/uk_petition/)
+- [Lots of News](https://www.reddit.com/r/InformationTechnology/comments/yawhg6/lots_of_news/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
-- [Telus and Google Cloud ink 10-year collaboration deal](https://www.itworldcanada.com/article/telus-and-google-cloud-inks-10-year-collaboration-deal/442170)
-- [Cyberattack on Florida water treatment plant raises alarms in Canada](https://www.itworldcanada.com/article/cyberattack-on-florida-water-treatment-plant-raises-alarms-in-canada/442088)
-- [Technicity West: Experts urge municipalities to participate in pilots and play nice with neighbours](https://www.itworldcanada.com/article/technicity-west-vendors-want-to-address-use-cases-not-the-nice-to-haves/442060)
-- [Technicity West panel dives deep into effective digital enablement](https://www.itworldcanada.com/article/technicity-west-digital-enablement-and-innovation-panel/441942)
-- [Technicity West: Citizen engagement a serious challenge for those without access](https://www.itworldcanada.com/article/accessibility-for-those-who-have-access-going-digital-a-double-edged-sword-for-municipalities/442013)
-- [Data loss, credential compromise up in phishing attacks in 2020, says vendor report](https://www.itworldcanada.com/article/data-loss-credential-compromise-up-in-phishing-attacks-in-2020-says-vendor-report/442082)
-- [SpaceX Starlink satellite internet now taking pre-orders in Canada](https://www.itworldcanada.com/article/spacex-starlink-satellite-internet-now-taking-pre-orders-in-canada/442101)
-- [Hashtag Trending – Tesla loves Bitcoin; Unionization at Amazon; Twitter’s verified users love fake news](https://www.itworldcanada.com/article/hashtag-trending-tesla-loves-bitcoin-unionization-at-amazon-twitters-verified-users-love-fake-news/442068)
-- [Government funded high-speed internet coming to rural Niagara region](https://www.itworldcanada.com/article/government-funded-high-speed-internet-coming-to-rural-niagara-region/442043)
-- [The rise of the fake commute, and why it’s good for your mental health – CNN](https://www.itworldcanada.com/post/the-rise-of-the-fake-commute-and-why-its-good-for-your-mental-health-cnn)
+- [Privacy rights must be respected in digital ID systems, say Canadian regulators](https://www.itworldcanada.com/article/privacy-rights-must-be-respected-in-digital-id-systems-say-canadian-regulators/509796)
+- [BlackBerry secure communication suite gets the nod for NATO networks](https://www.itworldcanada.com/article/blackberry-secure-communication-suite-gets-the-nod-for-nato-networks/509814)
+- [Coffee Briefing October 25, 2022 – Hootsuite partners with WHO; Sparrow receives C$1 million in funding; Visa’s Installments available at Canada’s largest retailers; and more](https://www.itworldcanada.com/article/coffee-briefing-october-25-2022-hootsuite-partners-with-who-sparrow-receives-c1-million-in-funding-visas-installments-available-at-canadas-largest-retailers-and-more/509760)
+- [Failure to start is one of the biggest mistakes CISOs make, MapleSEC conference told](https://www.itworldcanada.com/article/failure-to-start-is-one-of-the-biggest-mistakes-cisos-make-maplesec-conference-told/509805)
+- [MapleSEC, Myth and More: This Week In Ransomware – Oct 23rd, 2022](https://www.itworldcanada.com/article/maplesec-myth-and-more-this-week-in-ransomware-oct-23rd-2022/509621)
+- [Canadian CIO Association &lpar;CIOCAN&rpar; – New chapter chairs](https://www.itworldcanada.com/article/canadian-cio-association-ciocan-new-chapter-chairs/509780)
+- [Trilliant brings water consumption tracking into data-driven age](https://www.itworldcanada.com/article/trilliant-brings-water-consumption-tracking-into-data-driven-age/509773)
+- [Meta threatens to cancel news sharing over Bill C-18](https://www.itworldcanada.com/article/meta-threatens-to-cancel-news-sharing-over-bill-c-18/509748)
+- [Cyber Security Today, Oct. 24, 2022 – A new ransomware data removal tool is found, a warning that exploit proofs-of-concepts in Github may not be safe, and more](https://www.itworldcanada.com/article/cyber-security-today-oct-24-2022-a-new-ransomware-data-removal-tool-is-found-a-warning-that-exploit-proofs-of-concepts-in-github-may-not-be-safe-and-more/509655)
+- [Hashtag Trending Oct. 24 – Meta mulls news sharing in Canada; incredible new astronomy camera; new anti-cockroach lasers](https://www.itworldcanada.com/article/hashtag-trending-oct-24-meta-mulls-news-sharing-in-canada-incredible-new-astronomy-camera-new-anti-cockroach-lasers/509688)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#68](https://github.com/AlexRogalskiy/java-patterns/pull/68) in [AlexRogalskiy/java-patterns](https://github.com/AlexRogalskiy/java-patterns)
-2. 🎉 Merged PR [#67](https://github.com/AlexRogalskiy/java-patterns/pull/67) in [AlexRogalskiy/java-patterns](https://github.com/AlexRogalskiy/java-patterns)
-3. 🎉 Merged PR [#66](https://github.com/AlexRogalskiy/java-patterns/pull/66) in [AlexRogalskiy/java-patterns](https://github.com/AlexRogalskiy/java-patterns)
-4. 🎉 Merged PR [#65](https://github.com/AlexRogalskiy/java-patterns/pull/65) in [AlexRogalskiy/java-patterns](https://github.com/AlexRogalskiy/java-patterns)
-5. 🎉 Merged PR [#100](https://github.com/AlexRogalskiy/AlexRogalskiy/pull/100) in [AlexRogalskiy/AlexRogalskiy](https://github.com/AlexRogalskiy/AlexRogalskiy)
+1. ❗️ Opened issue [#94](https://github.com/littlerobots/version-catalog-update-plugin/issues/94) in [littlerobots/version-catalog-update-plugin](https://github.com/littlerobots/version-catalog-update-plugin)
+2. 🗣 Commented on [#298](https://github.com/microsoft/tsdoc/issues/298) in [microsoft/tsdoc](https://github.com/microsoft/tsdoc)
+3. 🎉 Merged PR [#482](https://github.com/AlexRogalskiy/java-patterns/pull/482) in [AlexRogalskiy/java-patterns](https://github.com/AlexRogalskiy/java-patterns)
+4. 💪 Opened PR [#482](https://github.com/AlexRogalskiy/java-patterns/pull/482) in [AlexRogalskiy/java-patterns](https://github.com/AlexRogalskiy/java-patterns)
+5. 💪 Opened PR [#481](https://github.com/AlexRogalskiy/java-patterns/pull/481) in [AlexRogalskiy/java-patterns](https://github.com/AlexRogalskiy/java-patterns)
 <!--END_SECTION:activity-->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/links.png" alt="Links icon" width="30px" height="30px" style="max-width:100%;"> _Links_

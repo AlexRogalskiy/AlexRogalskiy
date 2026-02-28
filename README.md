@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Counting underway in Gorton and Denton amid high turnout for crucial byelection – UK politics live](https://www.theguardian.com/politics/live/2026/feb/27/gorton-and-denton-byelection-result-labour-green-party-reform-uk-politics-latest-news)
-- [Pakistan bombs Kabul after intensifying border clashes with Afghanistan](https://www.theguardian.com/world/2026/feb/27/afghanistan-pakistan-strikes-kabul)
-- [From a leaked photo to questions on UFOs: key points from Hillary Clinton’s Epstein testimony](https://www.theguardian.com/us-news/2026/feb/27/hillary-clinton-deposition-testimony-jeffrey-epstein)
-- [Texas airspace closed after military reportedly downs US drone on accident](https://www.theguardian.com/us-news/2026/feb/26/texas-airspace-closed-drone-laser)
-- [Woman at heart of US trial says she was addicted to social media at age six](https://www.theguardian.com/technology/2026/feb/26/us-trial-social-media-addiction)
-- [Ukraine war briefing: IMF approves $8.1bn loan for Kyiv](https://www.theguardian.com/world/2026/feb/27/ukraine-war-briefing-imf-approves-81bn-loan-for-kyiv)
-- [Vegetarians have ‘substantially lower risk’ of five types of cancer](https://www.theguardian.com/society/2026/feb/27/vegetarians-have-substantially-lower-risk-of-five-types-of-cancer)
-- [On a dancefloor at 2am, I heard Jacinda Ardern’s husband say they were moving to Australia. I don’t blame them | Johanna Cosgrove](https://www.theguardian.com/commentisfree/2026/feb/27/jacinda-ardern-living-australia-leaving-new-zealand-same)
-- [Burger King cooks up AI chatbot to spot if employees say ‘please’ and ‘thank you’](https://www.theguardian.com/us-news/2026/feb/26/burger-king-ai-chatbot-employees-please-thank-you)
-- [Netflix declines to match Paramount offer for Warner Bros Discovery](https://www.theguardian.com/media/2026/feb/26/netflix-paramount-warner-bros)
+- [At least 15 killed as cash-laden military cargo plane crashes in Bolivia](https://www.theguardian.com/world/2026/feb/28/at-least-15-killed-as-cash-laden-military-cargo-plane-crashes-in-bolivia)
+- [Trump administration warns tariff refund process ‘will take time’](https://www.theguardian.com/us-news/2026/feb/27/trump-tariff-refunds)
+- [New Orleans police obtain new Shia LaBeouf arrest warrant in battery case](https://www.theguardian.com/film/2026/feb/27/new-orleans-police-shia-labeouf)
+- [Trump ‘not happy’ with Iran situation and says military force is still an option](https://www.theguardian.com/world/2026/feb/27/us-urges-citizens-leave-israel-threat-strike-iran)
+- [North Dakota judge finalizes $345m judgment against Greenpeace in pipeline case](https://www.theguardian.com/us-news/2026/feb/27/north-dakota-greenpeace-access-pipeline-energy-transfer)
+- [Renee Good’s family says Trump hasn’t contacted them after her death](https://www.theguardian.com/us-news/2026/feb/27/renee-good-death-trump-administration)
+- [Bill Clinton says in House testimony he had ‘no idea’ about Epstein’s crimes](https://www.theguardian.com/us-news/2026/feb/27/bill-clinton-testimony-jeffrey-epstein-investigation)
+- [LA superintendent placed on leave after FBI raid on home and district office](https://www.theguardian.com/us-news/2026/feb/27/los-angeles-superintendent-fbi-raid)
+- [Trump orders US agencies to stop use of Anthropic technology amid dispute over ethics of AI](https://www.theguardian.com/us-news/2026/feb/27/trump-anthropic-ai-federal-agencies)
+- [Trump suggests US could carry out ‘friendly takeover’ of Cuba](https://www.theguardian.com/us-news/2026/feb/27/trump-cuba-regime-change)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

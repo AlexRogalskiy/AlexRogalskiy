@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: Toggl lock‑screen widget for real‑time time tracking](https://apps.apple.com/ca/app/toggl-lockscreen-widget/id6756894639)
-- [How Anthropic Teams use Claude Code [pdf]](https://www-cdn.anthropic.com/58284b19e702b49db9302d5b6f135ad8871e7658.pdf)
-- [User Interview #3](https://twitter.com/AviSchiffmann/status/2026798365489725742)
-- [Show HN: CodeLeash: framework for quality agent development, NOT an orchestrator](https://codeleash.dev/)
-- [Principia Mathematica, Vol. 1](https://www.gutenberg.org/cache/epub/78050/pg78050-images.html)
-- [Show HN: VeryBot – Self-hosted AI assistant for work](https://github.com/charlie0077/verybot)
-- [The Hunt for Dark Breakfast – Can we derive breakfasts we have never observed?](https://moultano.wordpress.com/2026/02/22/the-hunt-for-dark-breakfast/)
-- [Hong Kong jailed my dad to stop me speaking out, says activist](https://www.bbc.com/news/articles/cly897pv4j9o)
-- [Parakeet.cpp – Parakeet ASR inference in pure C++ with Metal GPU acceleration](https://github.com/Frikallo/parakeet.cpp)
-- [Preserving the Web Is Not the Problem. Losing It Is](https://www.techdirt.com/2026/02/17/preserving-the-web-is-not-the-problem-losing-it-is/)
+- [The Enshittificator [video]](https://vimeo.com/1168468796)
+- [SUNN O&rpar;&rpar;&rpar; HalfLife Fer Mmxxv](https://sunn.southernlord.com/sunn-o-halflife-fer-mmxxv/)
+- [YouTube now determines your watch list [video]](https://www.youtube.com/watch?v=7U_LhzgwJ4U&list=RD7U_LhzgwJ4U)
+- [Binance&#39;s MAGA-Branding Strategy](https://www.thenation.com/article/economy/binance-crypto-trump/)
+- [As We May Think &lpar;1945&rpar;](https://en.wikipedia.org/wiki/As_We_May_Think)
+- [Estimating π with a Coin](https://arxiv.org/abs/2602.14487)
+- [The Mountain Eagle Is Now Online](https://www.mountaineagle.net/articles/display/?entry_short=the-mountain-eagle-is-now-online)
+- [German Tank Problem](https://en.wikipedia.org/wiki/German_tank_problem)
+- [Latency](https://cheat.sh/latency)
+- [Show HN: Agents-lint – detect stale paths and context rot in AGENTS.md files](https://github.com/giacomo/agents-lint)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

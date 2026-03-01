@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [At least 15 killed as cash-laden military cargo plane crashes in Bolivia](https://www.theguardian.com/world/2026/feb/28/at-least-15-killed-as-cash-laden-military-cargo-plane-crashes-in-bolivia)
-- [Trump administration warns tariff refund process ‘will take time’](https://www.theguardian.com/us-news/2026/feb/27/trump-tariff-refunds)
-- [New Orleans police obtain new Shia LaBeouf arrest warrant in battery case](https://www.theguardian.com/film/2026/feb/27/new-orleans-police-shia-labeouf)
-- [Trump ‘not happy’ with Iran situation and says military force is still an option](https://www.theguardian.com/world/2026/feb/27/us-urges-citizens-leave-israel-threat-strike-iran)
-- [North Dakota judge finalizes $345m judgment against Greenpeace in pipeline case](https://www.theguardian.com/us-news/2026/feb/27/north-dakota-greenpeace-access-pipeline-energy-transfer)
-- [Renee Good’s family says Trump hasn’t contacted them after her death](https://www.theguardian.com/us-news/2026/feb/27/renee-good-death-trump-administration)
-- [Bill Clinton says in House testimony he had ‘no idea’ about Epstein’s crimes](https://www.theguardian.com/us-news/2026/feb/27/bill-clinton-testimony-jeffrey-epstein-investigation)
-- [LA superintendent placed on leave after FBI raid on home and district office](https://www.theguardian.com/us-news/2026/feb/27/los-angeles-superintendent-fbi-raid)
-- [Trump orders US agencies to stop use of Anthropic technology amid dispute over ethics of AI](https://www.theguardian.com/us-news/2026/feb/27/trump-anthropic-ai-federal-agencies)
-- [Trump suggests US could carry out ‘friendly takeover’ of Cuba](https://www.theguardian.com/us-news/2026/feb/27/trump-cuba-regime-change)
+- [US-Israel war on Iran: Ayatollah Ali Khamenei confirmed dead by state media – latest reports](https://www.theguardian.com/us-news/live/2026/mar/01/us-israel-war-on-iran-ayatollah-ali-khamenei-i-dead-latest-reports)
+- [Leeds’ Maika Sivo stars in demolition of Hull KR in Las Vegas](https://www.theguardian.com/sport/2026/mar/01/leeds-maika-sivo-stars-in-demolition-of-hull-kr-in-las-vegas)
+- [Ukraine war briefing: Zelenskyy says Russia peace talks will depend on situation in Middle East](https://www.theguardian.com/world/2026/mar/01/ukraine-war-briefing-zelenskyy-says-russia-peace-talks-will-depend-on-situation-in-middle-east)
+- [Ayatollah Ali Khamenei obituary](https://www.theguardian.com/world/2026/mar/01/ayatollah-ali-khameini-obituary)
+- [This year’s Brit awards found a flicker of chaos – but the winners were never in doubt](https://www.theguardian.com/music/2026/mar/01/this-years-brit-awards-found-a-flicker-of-chaos-but-the-winners-were-never-in-doubt)
+- [Hundreds of thousands of travellers stranded or diverted amid air space closures in Middle East](https://www.theguardian.com/us-news/2026/mar/01/hundreds-of-thousands-of-travellers-stranded-or-diverted-amid-air-space-closures-in-middle-east)
+- [Harry, Olivia, and a disco-tastic surprise from Dua Lipa: the Brit awards 2026 – in pictures](https://www.theguardian.com/music/gallery/2026/mar/01/harry-olivia-and-a-disco-tastic-surprise-from-dua-lipa-the-brit-awards-2026-in-pictures)
+- [Inside Trump’s decision to attack Iran: ‘a window of opportunity’](https://www.theguardian.com/us-news/2026/feb/28/trump-attack-iran-opportunity)
+- [Pilot ‘crawls out’ after plane crashes on to beach in Gosport](https://www.theguardian.com/uk-news/2026/feb/28/pilot-crawls-out-after-plane-crashes-on-to-beach-in-gosport)
+- [Explosions rock Dubai, Bahrain, Jordan and Kuwait as war spreads across Middle East](https://www.theguardian.com/world/2026/feb/28/dubais-famous-fairmont-hotel-in-flames-after-iranian-air-strike)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

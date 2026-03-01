@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Enshittificator [video]](https://vimeo.com/1168468796)
-- [SUNN O&rpar;&rpar;&rpar; HalfLife Fer Mmxxv](https://sunn.southernlord.com/sunn-o-halflife-fer-mmxxv/)
-- [YouTube now determines your watch list [video]](https://www.youtube.com/watch?v=7U_LhzgwJ4U&list=RD7U_LhzgwJ4U)
-- [Binance&#39;s MAGA-Branding Strategy](https://www.thenation.com/article/economy/binance-crypto-trump/)
-- [As We May Think &lpar;1945&rpar;](https://en.wikipedia.org/wiki/As_We_May_Think)
-- [Estimating π with a Coin](https://arxiv.org/abs/2602.14487)
-- [The Mountain Eagle Is Now Online](https://www.mountaineagle.net/articles/display/?entry_short=the-mountain-eagle-is-now-online)
-- [German Tank Problem](https://en.wikipedia.org/wiki/German_tank_problem)
-- [Latency](https://cheat.sh/latency)
-- [Show HN: Agents-lint – detect stale paths and context rot in AGENTS.md files](https://github.com/giacomo/agents-lint)
+- [Show HN: Word-doodle – browser-based generative doodle text art engine](https://github.com/j-ncel/word-doodle)
+- [Show HN: SpecLock – AI Constraint Engine that stops AI from breaking locked code](https://github.com/sgroy10/speclock)
+- [Show HN: A GFM+GF-MathJax/Latex HTML formatting adventure](https://github.com/scottvr/phart/blob/main/docs/GHM-LATEX.md)
+- [Diffusion Models &lpar;2024&rpar;](https://andrewkchan.dev/posts/diffusion.html)
+- [Show HN: I built a free AI study tool– paste notes, get flashcards in 10 seconds](https://prepareyourself.app)
+- [Josh Collison and Dwarkesh Patel Interview Elon Musk [video]](https://www.youtube.com/watch?v=BYXbuik3dgA)
+- [Human brain cells on a chip learned to play Doom in a week](https://www.newscientist.com/article/2517389-human-brain-cells-on-a-chip-learned-to-play-doom-in-a-week/)
+- [Malm Whale in Gothenburg](https://www.atlasobscura.com/places/malm-whale)
+- [Plugtest](https://en.wikipedia.org/wiki/Plugtest)
+- [Show HN: EmCogni Code, the context engine for the &quot;why&quot; behind your codebase](https://www.emcogni.com/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

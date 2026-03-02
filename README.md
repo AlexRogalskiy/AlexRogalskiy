@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [US-Israel war on Iran: Ayatollah Ali Khamenei confirmed dead by state media – latest reports](https://www.theguardian.com/us-news/live/2026/mar/01/us-israel-war-on-iran-ayatollah-ali-khamenei-i-dead-latest-reports)
-- [Leeds’ Maika Sivo stars in demolition of Hull KR in Las Vegas](https://www.theguardian.com/sport/2026/mar/01/leeds-maika-sivo-stars-in-demolition-of-hull-kr-in-las-vegas)
-- [Ukraine war briefing: Zelenskyy says Russia peace talks will depend on situation in Middle East](https://www.theguardian.com/world/2026/mar/01/ukraine-war-briefing-zelenskyy-says-russia-peace-talks-will-depend-on-situation-in-middle-east)
-- [Ayatollah Ali Khamenei obituary](https://www.theguardian.com/world/2026/mar/01/ayatollah-ali-khameini-obituary)
-- [This year’s Brit awards found a flicker of chaos – but the winners were never in doubt](https://www.theguardian.com/music/2026/mar/01/this-years-brit-awards-found-a-flicker-of-chaos-but-the-winners-were-never-in-doubt)
-- [Hundreds of thousands of travellers stranded or diverted amid air space closures in Middle East](https://www.theguardian.com/us-news/2026/mar/01/hundreds-of-thousands-of-travellers-stranded-or-diverted-amid-air-space-closures-in-middle-east)
-- [Harry, Olivia, and a disco-tastic surprise from Dua Lipa: the Brit awards 2026 – in pictures](https://www.theguardian.com/music/gallery/2026/mar/01/harry-olivia-and-a-disco-tastic-surprise-from-dua-lipa-the-brit-awards-2026-in-pictures)
-- [Inside Trump’s decision to attack Iran: ‘a window of opportunity’](https://www.theguardian.com/us-news/2026/feb/28/trump-attack-iran-opportunity)
-- [Pilot ‘crawls out’ after plane crashes on to beach in Gosport](https://www.theguardian.com/uk-news/2026/feb/28/pilot-crawls-out-after-plane-crashes-on-to-beach-in-gosport)
-- [Explosions rock Dubai, Bahrain, Jordan and Kuwait as war spreads across Middle East](https://www.theguardian.com/world/2026/feb/28/dubais-famous-fairmont-hotel-in-flames-after-iranian-air-strike)
+- [US-Israel war on Iran live updates: conflict spreads to Lebanon as IDF strikes Hezbollah after attack on Israel](https://www.theguardian.com/world/live/2026/mar/02/us-israel-war-iran-live-updates-attacks-strikes-tehran-lebanon-beirut-hezbollah-dubai-latest-news)
+- [Dan Simmons, author of Hyperion and The Terror, dies aged 77](https://www.theguardian.com/books/2026/mar/02/author-dan-simmons-death-hyperion-terror)
+- [Formula One’s Australian Grand Prix hit by travel chaos amid Middle East crisis](https://www.theguardian.com/sport/2026/mar/02/formula-one-f1-australian-gp-grand-prix-middle-east-travel-chaos)
+- [Israel strikes Hezbollah in Lebanon after Iran-allied group launches missiles over the border](https://www.theguardian.com/world/2026/mar/02/israel-idf-strikes-hezbollah-beirut-lebanon-iran-war)
+- [Oil prices rise as Iran war threatens shipping through strait of Hormuz](https://www.theguardian.com/world/2026/mar/02/oil-prices-iran-war-strait-of-hormuz-shipping)
+- [Disbelief as crocodile captured in Newcastle creek thousands of kilometres from natural habitat](https://www.theguardian.com/environment/2026/mar/02/crocodile-captured-newcastle-creek-australia)
+- [UK to allow US to use British bases for defensive strikes against Iran](https://www.theguardian.com/politics/2026/mar/01/uk-to-allow-us-to-use-british-bases-for-defensive-strikes-against-iran)
+- [Ukraine war briefing: Starmer says Ukrainian experts will help shoot down Iranian drone attacks in Gulf](https://www.theguardian.com/world/2026/mar/02/ukraine-war-briefing-drone-experts-to-stop-iran-drone-attacks-starmer)
+- [Actor awards 2026 red carpet – in pictures](https://www.theguardian.com/film/gallery/2026/mar/02/the-actor-awards-2026-red-carpet-gallery-images-in-pictures)
+- [Three in four women unaware menopause can trigger new mental illness, poll finds](https://www.theguardian.com/society/2026/mar/01/menopause-mental-illness-royal-college-of-psychiatrists-poll)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

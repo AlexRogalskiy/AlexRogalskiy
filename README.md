@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: Word-doodle – browser-based generative doodle text art engine](https://github.com/j-ncel/word-doodle)
-- [Show HN: SpecLock – AI Constraint Engine that stops AI from breaking locked code](https://github.com/sgroy10/speclock)
-- [Show HN: A GFM+GF-MathJax/Latex HTML formatting adventure](https://github.com/scottvr/phart/blob/main/docs/GHM-LATEX.md)
-- [Diffusion Models &lpar;2024&rpar;](https://andrewkchan.dev/posts/diffusion.html)
-- [Show HN: I built a free AI study tool– paste notes, get flashcards in 10 seconds](https://prepareyourself.app)
-- [Josh Collison and Dwarkesh Patel Interview Elon Musk [video]](https://www.youtube.com/watch?v=BYXbuik3dgA)
-- [Human brain cells on a chip learned to play Doom in a week](https://www.newscientist.com/article/2517389-human-brain-cells-on-a-chip-learned-to-play-doom-in-a-week/)
-- [Malm Whale in Gothenburg](https://www.atlasobscura.com/places/malm-whale)
-- [Plugtest](https://en.wikipedia.org/wiki/Plugtest)
-- [Show HN: EmCogni Code, the context engine for the &quot;why&quot; behind your codebase](https://www.emcogni.com/)
+- [ClawHost – One-click, self-hosted OpenClaw deployments you own](https://news.ycombinator.com/item?id=47213733)
+- [Show HN: Minimalist LaTeX template for books, monographs, and theses](https://github.com/pmichaillat/latex-book)
+- [Ask HN: Free Collaboration Tools for Non Profits?](https://news.ycombinator.com/item?id=47213697)
+- [Static taint analysis for LLM agents](https://deepclause.substack.com/p/static-taint-analysis-for-llm-agents)
+- [Show HN: HN Bot Detector - Detects LLM-Generated Comments on Hacker News](https://github.com/umairnadeem/hn-bot-detector)
+- [What does everyone think of this &quot;anti-social&quot; network?](https://char.social/)
+- [He lived on the street. Now turns raw dryland into frugal homestead [video]](https://www.youtube.com/watch?v=xa63fqDHmTQ)
+- [How I used Cursor to Migrate Frameworks](https://kentcdodds.com/blog/how-i-used-cursor-to-migrate-frameworks)
+- [How are engineering teams handling AI compliance?](https://news.ycombinator.com/item?id=47213668)
+- [A Program Binary Becomes a Running Process](https://buildsoftwaresystems.com/post/program-binary-to-running-process/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

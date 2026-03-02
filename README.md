@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Samsung Galaxy update removes Android recovery menu tools, including sideloading](https://9to5google.com/2026/02/27/samsung-galaxy-update-android-recovery-menu-removed/)
-- [Microgpt](http://karpathy.github.io/2026/02/12/microgpt/)
-- [Running a One Trillion-Parameter LLM Locally on AMD Ryzen AI Max+ Cluster](https://www.amd.com/en/developer/resources/technical-articles/2026/how-to-run-a-one-trillion-parameter-llm-locally-an-amd.html)
-- [Show HN: Xmloxide – an agent made rust replacement for libxml2](https://github.com/jonwiggins/xmloxide)
-- [The Windows 95 user interface: A case study in usability engineering &lpar;1996&rpar;](https://dl.acm.org/doi/fullHtml/10.1145/238386.238611)
-- [Building a Minimal Transformer for 10-digit Addition](https://alexlitzenberger.com/blog/post.html?post=/building_a_minimal_transformer_for_10_digit_addition)
-- [We do not think Anthropic should be designated as a supply chain risk](https://twitter.com/OpenAI/status/2027846016423321831)
-- [Our Agreement with the Department of War](https://openai.com/index/our-agreement-with-the-department-of-war)
-- [Qwen3.5 122B and 35B models offer Sonnet 4.5 performance on local computers](https://venturebeat.com/technology/alibabas-new-open-source-qwen3-5-medium-models-offer-sonnet-4-5-performance)
-- [Block the “Upgrade to Tahoe” Alerts](https://robservatory.com/block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator/)
+- [Show HN: Timber – Ollama for classical ML models, 336x faster than Python](https://github.com/kossisoroyce/timber)
+- [If AI writes code, should the session be part of the commit?](https://github.com/mandel-macaque/memento)
+- [Show HN: Logira – eBPF runtime auditing for AI agent runs](https://github.com/melonattacker/logira)
+- [Right-sizes LLM models to your system&#39;s RAM, CPU, and GPU](https://github.com/AlexsJones/llmfit)
+- [Allegations of insider trading over prediction-market bets tied to Iran conflict](https://www.morningstar.com/news/marketwatch/20260301140/allegations-of-insider-trading-over-prediction-market-bets-tied-to-iran-conflict)
+- [Little Free Library](https://littlefreelibrary.org/)
+- [WebMCP is available for early preview](https://developer.chrome.com/blog/webmcp-epp)
+- [You Don&#39;t Have To](https://www.scottsmitelli.com/articles/you-dont-have-to/)
+- [When does MCP make sense vs CLI?](https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html)
+- [Show HN: Audio Toolkit for Agents](https://github.com/shiehn/sas-audio-processor)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

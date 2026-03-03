@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Show HN: Timber – Ollama for classical ML models, 336x faster than Python](https://github.com/kossisoroyce/timber)
-- [If AI writes code, should the session be part of the commit?](https://github.com/mandel-macaque/memento)
-- [Show HN: Logira – eBPF runtime auditing for AI agent runs](https://github.com/melonattacker/logira)
-- [Right-sizes LLM models to your system&#39;s RAM, CPU, and GPU](https://github.com/AlexsJones/llmfit)
-- [Allegations of insider trading over prediction-market bets tied to Iran conflict](https://www.morningstar.com/news/marketwatch/20260301140/allegations-of-insider-trading-over-prediction-market-bets-tied-to-iran-conflict)
-- [Little Free Library](https://littlefreelibrary.org/)
-- [WebMCP is available for early preview](https://developer.chrome.com/blog/webmcp-epp)
-- [You Don&#39;t Have To](https://www.scottsmitelli.com/articles/you-dont-have-to/)
-- [When does MCP make sense vs CLI?](https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html)
-- [Show HN: Audio Toolkit for Agents](https://github.com/shiehn/sas-audio-processor)
+- [U.S. Troops Were Told Iran War Is for &quot;Armageddon,&quot;](https://jonathanlarsen.substack.com/p/us-troops-were-told-iran-war-is-for)
+- [Do AI Agents Make Money in 2026? Or Is It Just Mac Minis and Vibes?](https://www.siliconsnark.com/do-ai-agents-actually-make-money-in-2026-or-is-it-just-mac-minis-and-vibes/)
+- [Ars Technica Fires Reporter After AI Controversy Involving Fabricated Quotes](https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes)
+- [How to Build Your Own Quantum Computer](https://physics.aps.org/articles/v19/24)
+- [Closure of the Weatheradio Service in Canada](https://www.rac.ca/rac-responds-to-the-closure-of-the-weatherradio-service-in-canada/)
+- [Seed of Might Color Correction Process &lpar;2023&rpar; [pdf]](https://andrewvanner.github.io/som/SoM_CC_Process_Day.pdf)
+- [The workers behind Meta’s smart glasses can see everything](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything)
+- [The 185-Microsecond Type Hint](https://blog.sturdystatistics.com/posts/type_hint/)
+- [Show HN: I built a sub-500ms latency voice agent from scratch](https://www.ntik.me/posts/voice-agent)
+- [Welcome &lpar;back&rpar; to Macintosh](https://take.surf/2026/03/01/welcome-back-to-macintosh)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

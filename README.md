@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [ClawHost – One-click, self-hosted OpenClaw deployments you own](https://news.ycombinator.com/item?id=47213733)
-- [Show HN: Minimalist LaTeX template for books, monographs, and theses](https://github.com/pmichaillat/latex-book)
-- [Ask HN: Free Collaboration Tools for Non Profits?](https://news.ycombinator.com/item?id=47213697)
-- [Static taint analysis for LLM agents](https://deepclause.substack.com/p/static-taint-analysis-for-llm-agents)
-- [Show HN: HN Bot Detector - Detects LLM-Generated Comments on Hacker News](https://github.com/umairnadeem/hn-bot-detector)
-- [What does everyone think of this &quot;anti-social&quot; network?](https://char.social/)
-- [He lived on the street. Now turns raw dryland into frugal homestead [video]](https://www.youtube.com/watch?v=xa63fqDHmTQ)
-- [How I used Cursor to Migrate Frameworks](https://kentcdodds.com/blog/how-i-used-cursor-to-migrate-frameworks)
-- [How are engineering teams handling AI compliance?](https://news.ycombinator.com/item?id=47213668)
-- [A Program Binary Becomes a Running Process](https://buildsoftwaresystems.com/post/program-binary-to-running-process/)
+- [The Interface Theory of Perception [pdf]](https://sites.socsci.uci.edu/~ddhoff/interface.pdf)
+- [The Support Agent Who Never Burns Out](https://news.ycombinator.com/item?id=47227826)
+- [Beijing Doesn&#39;t Think Like Washington–and the Iran Conflict Shows Why](https://carnegieendowment.org/emissary/2026/03/iran-china-us-intervention-strategy)
+- [Show HN: Personal AI gateway for OpenClaw – tokenomics](https://github.com/rickcrawford/tokenomics)
+- [Dabao evaluation board for Baochip-1X](https://www.crowdsupply.com/baochip/dabao)
+- [U.S. Troops Were Told Iran War Is for &quot;Armageddon,&quot;](https://jonathanlarsen.substack.com/p/us-troops-were-told-iran-war-is-for)
+- [A brief history of logic [pdf]](https://www.cs.rice.edu/~vardi/comp409/history.pdf)
+- [Working on multiple tasks in parallel using 1 OpenClaw Agent](https://openclaw-setup.me/blog/usage-tips/run-multiple-openclaw-sessions-concurrently/)
+- [He wanted to use ChatGPT to create sustainable housing. It took over his life](https://www.theguardian.com/technology/ng-interactive/2026/feb/28/chatgpt-ai-chatbot-mental-health)
+- [Whats Up with Claude Lately?](https://news.ycombinator.com/item?id=47227740)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

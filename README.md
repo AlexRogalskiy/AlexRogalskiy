@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [US-Israel war on Iran live updates: conflict spreads to Lebanon as IDF strikes Hezbollah after attack on Israel](https://www.theguardian.com/world/live/2026/mar/02/us-israel-war-iran-live-updates-attacks-strikes-tehran-lebanon-beirut-hezbollah-dubai-latest-news)
-- [Dan Simmons, author of Hyperion and The Terror, dies aged 77](https://www.theguardian.com/books/2026/mar/02/author-dan-simmons-death-hyperion-terror)
-- [Formula One’s Australian Grand Prix hit by travel chaos amid Middle East crisis](https://www.theguardian.com/sport/2026/mar/02/formula-one-f1-australian-gp-grand-prix-middle-east-travel-chaos)
-- [Israel strikes Hezbollah in Lebanon after Iran-allied group launches missiles over the border](https://www.theguardian.com/world/2026/mar/02/israel-idf-strikes-hezbollah-beirut-lebanon-iran-war)
-- [Oil prices rise as Iran war threatens shipping through strait of Hormuz](https://www.theguardian.com/world/2026/mar/02/oil-prices-iran-war-strait-of-hormuz-shipping)
-- [Disbelief as crocodile captured in Newcastle creek thousands of kilometres from natural habitat](https://www.theguardian.com/environment/2026/mar/02/crocodile-captured-newcastle-creek-australia)
-- [UK to allow US to use British bases for defensive strikes against Iran](https://www.theguardian.com/politics/2026/mar/01/uk-to-allow-us-to-use-british-bases-for-defensive-strikes-against-iran)
-- [Ukraine war briefing: Starmer says Ukrainian experts will help shoot down Iranian drone attacks in Gulf](https://www.theguardian.com/world/2026/mar/02/ukraine-war-briefing-drone-experts-to-stop-iran-drone-attacks-starmer)
-- [Actor awards 2026 red carpet – in pictures](https://www.theguardian.com/film/gallery/2026/mar/02/the-actor-awards-2026-red-carpet-gallery-images-in-pictures)
-- [Three in four women unaware menopause can trigger new mental illness, poll finds](https://www.theguardian.com/society/2026/mar/01/menopause-mental-illness-royal-college-of-psychiatrists-poll)
+- [Israel-US war on Iran live: fire at US embassy in Riyadh after drone strike; Netanyahu says war ‘could take some time’](https://www.theguardian.com/world/live/2026/mar/02/us-israel-war-iran-live-updates-attacks-strikes-tehran-lebanon-beirut-hezbollah-dubai-latest-news)
+- [US strikes on Iran triggered by Israel’s plan to launch attack, Rubio says](https://www.theguardian.com/us-news/2026/mar/02/rubio-us-attack-israel-iran)
+- [Some flights depart Middle East amid travel chaos as US urges its citizens to leave region](https://www.theguardian.com/world/2026/mar/03/flights-depart-middle-east-travel-chaos)
+- [China’s Two Sessions to reveal Xi’s economic and defence plans as military purge casts shadow](https://www.theguardian.com/world/2026/mar/03/china-two-sessions-president-xi-economy-defence-technology)
+- [Lily Allen review – pop star makes much-anticipated comeback – but where is the West End Girl?](https://www.theguardian.com/music/2026/mar/03/lily-allen-review-west-end-girl-live-tour)
+- [US supreme court blocks California privacy protections for trans students](https://www.theguardian.com/us-news/2026/mar/02/us-supreme-court-california-trans-students-privacy-law)
+- [Ukraine war briefing: Russia’s army records slowest advance since 2024 amid Starlink cut, data shows](https://www.theguardian.com/world/2026/mar/03/ukraine-war-briefing-russia-army-records-slowest-advance-since-2024-amid-starlink-cut-data-shows)
+- [‘We’ll run out of food this week’: Israel’s Iran war brings new Gaza siege](https://www.theguardian.com/world/2026/mar/02/iran-attacks-gaza-under-siege)
+- [Supreme court hands Republicans win over preserving New York City voting district](https://www.theguardian.com/us-news/2026/mar/02/supreme-court-new-york-city-republican-district)
+- [‘It was surreal’: holidaymakers on first flight out of Abu Dhabi describe petrifying experience](https://www.theguardian.com/world/2026/mar/02/holidaymakers-first-flight-out-of-abu-dhabi-describe-petrifying-experience)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

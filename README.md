@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Interface Theory of Perception [pdf]](https://sites.socsci.uci.edu/~ddhoff/interface.pdf)
-- [The Support Agent Who Never Burns Out](https://news.ycombinator.com/item?id=47227826)
-- [Beijing Doesn&#39;t Think Like Washington–and the Iran Conflict Shows Why](https://carnegieendowment.org/emissary/2026/03/iran-china-us-intervention-strategy)
-- [Show HN: Personal AI gateway for OpenClaw – tokenomics](https://github.com/rickcrawford/tokenomics)
-- [Dabao evaluation board for Baochip-1X](https://www.crowdsupply.com/baochip/dabao)
-- [U.S. Troops Were Told Iran War Is for &quot;Armageddon,&quot;](https://jonathanlarsen.substack.com/p/us-troops-were-told-iran-war-is-for)
-- [A brief history of logic [pdf]](https://www.cs.rice.edu/~vardi/comp409/history.pdf)
-- [Working on multiple tasks in parallel using 1 OpenClaw Agent](https://openclaw-setup.me/blog/usage-tips/run-multiple-openclaw-sessions-concurrently/)
-- [He wanted to use ChatGPT to create sustainable housing. It took over his life](https://www.theguardian.com/technology/ng-interactive/2026/feb/28/chatgpt-ai-chatbot-mental-health)
-- [Whats Up with Claude Lately?](https://news.ycombinator.com/item?id=47227740)
+- [Pipe: Pubsub without the infrastructure. stream data between machines using SSH](https://pipe.pico.sh/)
+- [Show HN: The Janitor – A 58MB Rust static analyzer to block AI-generated PR slop](https://github.com/GhrammR/the-janitor)
+- [OpenAI is working on its own GitHub competitor](https://www.neowin.net/news/openai-is-reportedly-working-on-its-own-github-competitor/)
+- [Ask HN: What is the &quot;Control Plane&quot; for local AI agents?](https://news.ycombinator.com/item?id=47242849)
+- [Stock plunge sparks trading halt in South Korea&#39;s key indexes](https://www.channelnewsasia.com/business/asian-markets-kospi-plunge-iran-war-middle-east-5968971)
+- [Dr. Jebra Faushay: &quot;The 80s: You Just Had to Be There&quot;](https://twitter.com/JebraFaushay/status/2015608814385402024)
+- [A Few Claude Skills for R Users](https://rworks.dev/posts/claude-skills-for-r-users)
+- [Show HN: Atlas – Portfolio health dashboard for multi-repo teams &lpar;Python CLI&rpar;](https://github.com/nxtg-ai/repoatlas)
+- [Sitescroll](https://sitescroll.fun/)
+- [General-Purpose Psychology Agent &lpar;Claude Code&rpar;](https://github.com/safety-quotient-lab/psychology-agent)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [U.S. Troops Were Told Iran War Is for &quot;Armageddon,&quot;](https://jonathanlarsen.substack.com/p/us-troops-were-told-iran-war-is-for)
-- [Do AI Agents Make Money in 2026? Or Is It Just Mac Minis and Vibes?](https://www.siliconsnark.com/do-ai-agents-actually-make-money-in-2026-or-is-it-just-mac-minis-and-vibes/)
-- [Ars Technica Fires Reporter After AI Controversy Involving Fabricated Quotes](https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes)
-- [How to Build Your Own Quantum Computer](https://physics.aps.org/articles/v19/24)
-- [Closure of the Weatheradio Service in Canada](https://www.rac.ca/rac-responds-to-the-closure-of-the-weatherradio-service-in-canada/)
-- [Seed of Might Color Correction Process &lpar;2023&rpar; [pdf]](https://andrewvanner.github.io/som/SoM_CC_Process_Day.pdf)
-- [The workers behind Meta’s smart glasses can see everything](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything)
-- [The 185-Microsecond Type Hint](https://blog.sturdystatistics.com/posts/type_hint/)
-- [Show HN: I built a sub-500ms latency voice agent from scratch](https://www.ntik.me/posts/voice-agent)
-- [Welcome &lpar;back&rpar; to Macintosh](https://take.surf/2026/03/01/welcome-back-to-macintosh)
+- [California&#39;s Digital Age Assurance Act, and FOSS](https://runxiyu.org/comp/ab1043/)
+- [Speculative Speculative Decoding &lpar;SSD&rpar;](https://arxiv.org/abs/2603.03251)
+- [Mac external displays for designers and developers, part 2](https://bjango.com/articles/macexternaldisplays2/)
+- [Graphics Programming Resources](https://develop--gpvm-website.netlify.app/resources/)
+- [Weave – A language aware merge algorithm based on entities](https://github.com/Ataraxy-Labs/weave)
+- [TikTok will not introduce end-to-end encryption, saying it makes users less safe](https://www.bbc.com/news/articles/cly2m5e5ke4o)
+- [The largest acidic geyser has been putting on quite a show](https://www.usgs.gov/observatories/yvo/news/echinus-geyser-back-action-now)
+- [Motorola GrapheneOS devices will be bootloader unlockable/relockable](https://grapheneos.social/@GrapheneOS/116160393783585567)
+- [Vibe coding for PMs](https://www.ddmckinnon.com/2026/02/11/my-%f0%9f%8c%b6-take-on-vibe-coding-for-pms/)
+- [Lenovo’s new ThinkPads score 10/10 for repairability](https://www.ifixit.com/News/115827/new-thinkpads-score-perfect-10-repairability)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

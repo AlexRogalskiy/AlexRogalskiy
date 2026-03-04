@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Israel-US war on Iran live: fire at US embassy in Riyadh after drone strike; Netanyahu says war ‘could take some time’](https://www.theguardian.com/world/live/2026/mar/02/us-israel-war-iran-live-updates-attacks-strikes-tehran-lebanon-beirut-hezbollah-dubai-latest-news)
-- [US strikes on Iran triggered by Israel’s plan to launch attack, Rubio says](https://www.theguardian.com/us-news/2026/mar/02/rubio-us-attack-israel-iran)
-- [Some flights depart Middle East amid travel chaos as US urges its citizens to leave region](https://www.theguardian.com/world/2026/mar/03/flights-depart-middle-east-travel-chaos)
-- [China’s Two Sessions to reveal Xi’s economic and defence plans as military purge casts shadow](https://www.theguardian.com/world/2026/mar/03/china-two-sessions-president-xi-economy-defence-technology)
-- [Lily Allen review – pop star makes much-anticipated comeback – but where is the West End Girl?](https://www.theguardian.com/music/2026/mar/03/lily-allen-review-west-end-girl-live-tour)
-- [US supreme court blocks California privacy protections for trans students](https://www.theguardian.com/us-news/2026/mar/02/us-supreme-court-california-trans-students-privacy-law)
-- [Ukraine war briefing: Russia’s army records slowest advance since 2024 amid Starlink cut, data shows](https://www.theguardian.com/world/2026/mar/03/ukraine-war-briefing-russia-army-records-slowest-advance-since-2024-amid-starlink-cut-data-shows)
-- [‘We’ll run out of food this week’: Israel’s Iran war brings new Gaza siege](https://www.theguardian.com/world/2026/mar/02/iran-attacks-gaza-under-siege)
-- [Supreme court hands Republicans win over preserving New York City voting district](https://www.theguardian.com/us-news/2026/mar/02/supreme-court-new-york-city-republican-district)
-- [‘It was surreal’: holidaymakers on first flight out of Abu Dhabi describe petrifying experience](https://www.theguardian.com/world/2026/mar/02/holidaymakers-first-flight-out-of-abu-dhabi-describe-petrifying-experience)
+- [North Carolina US Senate candidates set for November showdown as court rulings in Texas add confusion at some polls – live updates](https://www.theguardian.com/us-news/live/2026/mar/03/midterms-live-election-updates-texas-cornyn-paxton-talarico-crockett-north-carolina-arkansas)
+- [Middle East crisis live: US says nearly 2,000 targets hit in Iran war; Trump says navy may escort tankers through Strait of Hormuz](https://www.theguardian.com/world/live/2026/mar/04/iran-war-live-updates-us-israel-latest-news-strait-of-hormuz-middle-east-crisis)
+- [Ukraine war briefing: Merz tells Trump Ukraine must not give up more territory](https://www.theguardian.com/world/2026/mar/04/ukraine-war-briefing-merz-tells-trump-ukraine-must-not-give-up-more-territory)
+- [DHS launches investigation into Greg Bovino’s alleged remarks about Jewish lawyer – report](https://www.theguardian.com/us-news/2026/mar/03/dhs-investigation-greg-bovino-remarks)
+- [My grandfather narrowly avoided death under the Iranian regime. But I am not celebrating Trump’s illegal war | Anonymous](https://www.theguardian.com/world/commentisfree/2026/mar/04/my-grandfather-narrowly-avoided-death-under-the-iranian-regime-but-i-am-not-celebrating-trumps-war)
+- [More than 220m children will be obese by 2040 without drastic action, report warns](https://www.theguardian.com/society/2026/mar/04/more-than-220m-children-will-be-obese-by-2040-without-drastic-action-report-warns)
+- [MPs say Starmer’s UK-EU reset lacks ‘direction, definition and drive’](https://www.theguardian.com/politics/2026/mar/04/mps-say-starmers-uk-eu-reset-lacks-direction-definition-and-drive)
+- [Redlight to Limelight review – the powerful tale of 500 sex workers who formed a film collective](https://www.theguardian.com/tv-and-radio/2026/mar/04/redlight-to-limelight-review-kolkata-sex-workers-bipuljit-basu-bbc-iplayer)
+- [Flagship Harry Potter store to open on London’s Oxford Street](https://www.theguardian.com/film/2026/mar/04/flagship-harry-potter-store-to-open-on-londons-oxford-street)
+- [UK puts emergency brake on study visas for four countries’ nationals](https://www.theguardian.com/uk-news/2026/mar/03/uk-puts-emergency-brake-on-study-visas-for-four-countries-nationals)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

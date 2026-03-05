@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [North Carolina US Senate candidates set for November showdown as court rulings in Texas add confusion at some polls – live updates](https://www.theguardian.com/us-news/live/2026/mar/03/midterms-live-election-updates-texas-cornyn-paxton-talarico-crockett-north-carolina-arkansas)
-- [Middle East crisis live: US says nearly 2,000 targets hit in Iran war; Trump says navy may escort tankers through Strait of Hormuz](https://www.theguardian.com/world/live/2026/mar/04/iran-war-live-updates-us-israel-latest-news-strait-of-hormuz-middle-east-crisis)
-- [Ukraine war briefing: Merz tells Trump Ukraine must not give up more territory](https://www.theguardian.com/world/2026/mar/04/ukraine-war-briefing-merz-tells-trump-ukraine-must-not-give-up-more-territory)
-- [DHS launches investigation into Greg Bovino’s alleged remarks about Jewish lawyer – report](https://www.theguardian.com/us-news/2026/mar/03/dhs-investigation-greg-bovino-remarks)
-- [My grandfather narrowly avoided death under the Iranian regime. But I am not celebrating Trump’s illegal war | Anonymous](https://www.theguardian.com/world/commentisfree/2026/mar/04/my-grandfather-narrowly-avoided-death-under-the-iranian-regime-but-i-am-not-celebrating-trumps-war)
-- [More than 220m children will be obese by 2040 without drastic action, report warns](https://www.theguardian.com/society/2026/mar/04/more-than-220m-children-will-be-obese-by-2040-without-drastic-action-report-warns)
-- [MPs say Starmer’s UK-EU reset lacks ‘direction, definition and drive’](https://www.theguardian.com/politics/2026/mar/04/mps-say-starmers-uk-eu-reset-lacks-direction-definition-and-drive)
-- [Redlight to Limelight review – the powerful tale of 500 sex workers who formed a film collective](https://www.theguardian.com/tv-and-radio/2026/mar/04/redlight-to-limelight-review-kolkata-sex-workers-bipuljit-basu-bbc-iplayer)
-- [Flagship Harry Potter store to open on London’s Oxford Street](https://www.theguardian.com/film/2026/mar/04/flagship-harry-potter-store-to-open-on-londons-oxford-street)
-- [UK puts emergency brake on study visas for four countries’ nationals](https://www.theguardian.com/uk-news/2026/mar/03/uk-puts-emergency-brake-on-study-visas-for-four-countries-nationals)
+- [Iran war briefing: US reportedly ready to provide support to Kurdish fighters if they enter conflict](https://www.theguardian.com/world/2026/mar/05/iran-war-briefing-israel-us-support-kurds-conflict-what-we-know-so-far-day-six)
+- [China sets lowest GDP growth target for decades as it braces for economic slowdown](https://www.theguardian.com/world/2026/mar/05/china-gdp-growth-target-economic-slowdown)
+- [Ukraine war briefing: Russia claims LNG tanker in Mediterranean hit by drones](https://www.theguardian.com/world/2026/mar/05/ukraine-war-briefing-putin-blames-ukraine-for-sinking-of-tanker-off-coast-of-libya)
+- [Louisiana mayor convicted of raping 16-year-old boy at her home while still in office](https://www.theguardian.com/us-news/2026/mar/04/louisiana-mayor-convicted-rape-16-year-old)
+- [Aston Martin reveal fears over nerve damage will prevent F1 team from finishing Australian GP](https://www.theguardian.com/sport/2026/mar/05/f1-formula-one-melbourne-australian-gp-grand-prix-aston-martin)
+- [Nepal votes in election pitting entrenched old guard against a powerful youth movement](https://www.theguardian.com/world/2026/mar/05/nepal-election-2026-voting-balen-shah-sharma-oli)
+- [Tasmanian salmon farms blocked from using antibiotic florfenicol after detection in wild fish 10km away](https://www.theguardian.com/australia-news/2026/mar/05/tasmanian-salmon-farms-antibiotic-florfenicol-ban)
+- [US may not have capacity to take down full barrage of Iranian drones, officials warn](https://www.theguardian.com/world/2026/mar/04/us-interceptors-iranian-drones)
+- [BBC to call for permanent charter and end of political appointments to board](https://www.theguardian.com/media/2026/mar/05/bbc-call-for-permanent-charter-end-political-appointments-board)
+- [Economic abuse by a partner contributes to one death every 19 days, report finds](https://www.theguardian.com/uk-news/2026/mar/05/economic-abuse-partner-deaths-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

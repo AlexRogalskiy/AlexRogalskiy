@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [California&#39;s Digital Age Assurance Act, and FOSS](https://runxiyu.org/comp/ab1043/)
-- [Speculative Speculative Decoding &lpar;SSD&rpar;](https://arxiv.org/abs/2603.03251)
-- [Mac external displays for designers and developers, part 2](https://bjango.com/articles/macexternaldisplays2/)
-- [Graphics Programming Resources](https://develop--gpvm-website.netlify.app/resources/)
-- [Weave – A language aware merge algorithm based on entities](https://github.com/Ataraxy-Labs/weave)
-- [TikTok will not introduce end-to-end encryption, saying it makes users less safe](https://www.bbc.com/news/articles/cly2m5e5ke4o)
-- [The largest acidic geyser has been putting on quite a show](https://www.usgs.gov/observatories/yvo/news/echinus-geyser-back-action-now)
-- [Motorola GrapheneOS devices will be bootloader unlockable/relockable](https://grapheneos.social/@GrapheneOS/116160393783585567)
-- [Vibe coding for PMs](https://www.ddmckinnon.com/2026/02/11/my-%f0%9f%8c%b6-take-on-vibe-coding-for-pms/)
-- [Lenovo’s new ThinkPads score 10/10 for repairability](https://www.ifixit.com/News/115827/new-thinkpads-score-perfect-10-repairability)
+- [Regulator contacts Meta over workers watching intimate AI glasses videos](https://www.bbc.com/news/articles/c0q33nvj0qpo)
+- [What Python&#39;s asyncio primitives get wrong about shared state](https://www.inngest.com/blog/no-lost-updates-python-asyncio)
+- [Jensen Huang says Nvidia is pulling back from OpenAI and Anthropic](https://techcrunch.com/2026/03/04/jensen-huang-says-nvidia-is-pulling-back-from-openai-and-anthropic-but-his-explanation-raises-more-questions-than-it-answers/)
+- [US tech firms pledge at White House to bear costs of energy for datacenters](https://www.theguardian.com/us-news/2026/mar/04/us-tech-companies-energy-cost-pledge-white-house)
+- [Chaos and Dystopian news for the dead internet survivors](https://www.fubardaily.com)
+- [What&#39;s driving rising business costs?](https://libertystreeteconomics.newyorkfed.org/2026/03/whats-driving-rising-business-costs/)
+- [Google Workspace CLI](https://github.com/googleworkspace/cli)
+- [Dario Amodei calls OpenAI’s messaging around military deal ‘straight up lies’](https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/)
+- [NRC issues first commercial reactor construction approval in 10 years [pdf]](https://www.nrc.gov/sites/default/files/cdn/doc-collection-news/2026/26-028.pdf)
+- [BMW Group to deploy humanoid robots in production in Germany for the first time](https://www.press.bmwgroup.com/global/article/detail/T0455864EN/bmw-group-to-deploy-humanoid-robots-in-production-in-germany-for-the-first-time?language=en)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

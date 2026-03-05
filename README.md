@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Pipe: Pubsub without the infrastructure. stream data between machines using SSH](https://pipe.pico.sh/)
-- [Show HN: The Janitor – A 58MB Rust static analyzer to block AI-generated PR slop](https://github.com/GhrammR/the-janitor)
-- [OpenAI is working on its own GitHub competitor](https://www.neowin.net/news/openai-is-reportedly-working-on-its-own-github-competitor/)
-- [Ask HN: What is the &quot;Control Plane&quot; for local AI agents?](https://news.ycombinator.com/item?id=47242849)
-- [Stock plunge sparks trading halt in South Korea&#39;s key indexes](https://www.channelnewsasia.com/business/asian-markets-kospi-plunge-iran-war-middle-east-5968971)
-- [Dr. Jebra Faushay: &quot;The 80s: You Just Had to Be There&quot;](https://twitter.com/JebraFaushay/status/2015608814385402024)
-- [A Few Claude Skills for R Users](https://rworks.dev/posts/claude-skills-for-r-users)
-- [Show HN: Atlas – Portfolio health dashboard for multi-repo teams &lpar;Python CLI&rpar;](https://github.com/nxtg-ai/repoatlas)
-- [Sitescroll](https://sitescroll.fun/)
-- [General-Purpose Psychology Agent &lpar;Claude Code&rpar;](https://github.com/safety-quotient-lab/psychology-agent)
+- [Show HN: Poppy – a simple app to stay intentional with relationships](https://poppy-connection-keeper.netlify.app/)
+- [Franken Style: a nobuild CSS framework inspired by tailwind and Shadcn](https://franken.style/)
+- [BM25](https://arpitbhayani.me/blogs/bm25/)
+- [Ask HN: MacBook or ThinkPad for Compsci](https://news.ycombinator.com/item?id=47257320)
+- [Show HN: Textideo – Generate video, audio, and 3D assets in one timeline](https://textideo.com/image-to-3d)
+- [A new way of editing videos](https://kudoflix.com/)
+- [China Tells Top Refiners to Suspend Diesel and Gasoline Exports](https://www.bloomberg.com/news/articles/2026-03-05/china-tells-top-refiners-to-suspend-diesel-and-gasoline-exports)
+- [Home Made GPS Receiver](http://www.aholme.co.uk/GPS/Main.htm)
+- [Sound and Silence: What made Alexander Graham Bell invent the telephone? &lpar;1998&rpar;](https://www.newyorker.com/magazine/1998/04/13/sound-and-silence)
+- [TerraPower gets OK to start construction of its first nuclear plant](https://arstechnica.com/science/2026/03/terrapower-gets-ok-to-start-construction-of-its-first-nuclear-plant/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

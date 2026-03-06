@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Iran war briefing: US reportedly ready to provide support to Kurdish fighters if they enter conflict](https://www.theguardian.com/world/2026/mar/05/iran-war-briefing-israel-us-support-kurds-conflict-what-we-know-so-far-day-six)
-- [China sets lowest GDP growth target for decades as it braces for economic slowdown](https://www.theguardian.com/world/2026/mar/05/china-gdp-growth-target-economic-slowdown)
-- [Ukraine war briefing: Russia claims LNG tanker in Mediterranean hit by drones](https://www.theguardian.com/world/2026/mar/05/ukraine-war-briefing-putin-blames-ukraine-for-sinking-of-tanker-off-coast-of-libya)
-- [Louisiana mayor convicted of raping 16-year-old boy at her home while still in office](https://www.theguardian.com/us-news/2026/mar/04/louisiana-mayor-convicted-rape-16-year-old)
-- [Aston Martin reveal fears over nerve damage will prevent F1 team from finishing Australian GP](https://www.theguardian.com/sport/2026/mar/05/f1-formula-one-melbourne-australian-gp-grand-prix-aston-martin)
-- [Nepal votes in election pitting entrenched old guard against a powerful youth movement](https://www.theguardian.com/world/2026/mar/05/nepal-election-2026-voting-balen-shah-sharma-oli)
-- [Tasmanian salmon farms blocked from using antibiotic florfenicol after detection in wild fish 10km away](https://www.theguardian.com/australia-news/2026/mar/05/tasmanian-salmon-farms-antibiotic-florfenicol-ban)
-- [US may not have capacity to take down full barrage of Iranian drones, officials warn](https://www.theguardian.com/world/2026/mar/04/us-interceptors-iranian-drones)
-- [BBC to call for permanent charter and end of political appointments to board](https://www.theguardian.com/media/2026/mar/05/bbc-call-for-permanent-charter-end-political-appointments-board)
-- [Economic abuse by a partner contributes to one death every 19 days, report finds](https://www.theguardian.com/uk-news/2026/mar/05/economic-abuse-partner-deaths-report)
+- [Iran war live updates: US temporarily lets India buy Russian oil amid energy fears; Israeli military launches strikes on Beirut](https://www.theguardian.com/world/live/2026/mar/06/iran-war-live-updates-us-temporarily-lets-india-buy-russian-oil-amid-energy-fears-israeli-military-launches-strikes-on-beirut)
+- [Canadian backpacker Piper James died ‘as a result of drowning’ following dingo attack at K’gari, coroner says](https://www.theguardian.com/australia-news/2026/mar/06/piper-james-kgari-cause-of-death-drowning-dingo-attack-coroner)
+- [Hard core! Apple peeling champion slices through competition to produce nearly four-metre strip of skin](https://www.theguardian.com/lifeandstyle/2026/mar/06/stanthorpe-apple-peeling-champion-kerrie-stratford-queensland)
+- [Ukraine war briefing: Trump urges Zelenskyy to ‘get a deal done’ with Russia](https://www.theguardian.com/world/2026/mar/06/ukraine-war-briefing-trump-urges-zelenskyy-to-get-a-deal-done-with-russia)
+- [How Flightradar24 became the go-to platform for the world to watch global aviation crises unfold](https://www.theguardian.com/world/2026/mar/06/iran-war-flight-chaos-flightradar24-tracking)
+- [Bernard LaFayette, civil rights leader who helped launch Voting Rights Act, dies aged 85](https://www.theguardian.com/us-news/2026/mar/05/bernard-lafayette-civil-rights-leader-dies)
+- [‘I think I could run even faster’: the NZ teenager shattering athletics records](https://www.theguardian.com/world/2026/mar/06/new-zealand-teenager-running-prodigy-sam-ruthe)
+- [Sci-fi surgery as doctor in UK directs robot to remove a prostate in Gibraltar](https://www.theguardian.com/uk-news/2026/mar/06/sci-fi-surgery-as-doctor-in-uk-directs-robot-to-remove-a-prostate-in-gibraltar)
+- [FA Cup fifth round: things to look out for this weekend](https://www.theguardian.com/football/2026/mar/06/fa-cup-fifth-round-things-to-look-out-for-this-weekend)
+- [Lowly Li snaps back at fans as Lowry endures another difficult day](https://www.theguardian.com/sport/2026/mar/05/li-haotong-swears-arnold-palmer-invitational-shane-lowry)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

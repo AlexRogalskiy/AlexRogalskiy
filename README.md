@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: Poppy – a simple app to stay intentional with relationships](https://poppy-connection-keeper.netlify.app/)
-- [Franken Style: a nobuild CSS framework inspired by tailwind and Shadcn](https://franken.style/)
-- [BM25](https://arpitbhayani.me/blogs/bm25/)
-- [Ask HN: MacBook or ThinkPad for Compsci](https://news.ycombinator.com/item?id=47257320)
-- [Show HN: Textideo – Generate video, audio, and 3D assets in one timeline](https://textideo.com/image-to-3d)
-- [A new way of editing videos](https://kudoflix.com/)
-- [China Tells Top Refiners to Suspend Diesel and Gasoline Exports](https://www.bloomberg.com/news/articles/2026-03-05/china-tells-top-refiners-to-suspend-diesel-and-gasoline-exports)
-- [Home Made GPS Receiver](http://www.aholme.co.uk/GPS/Main.htm)
-- [Sound and Silence: What made Alexander Graham Bell invent the telephone? &lpar;1998&rpar;](https://www.newyorker.com/magazine/1998/04/13/sound-and-silence)
-- [TerraPower gets OK to start construction of its first nuclear plant](https://arstechnica.com/science/2026/03/terrapower-gets-ok-to-start-construction-of-its-first-nuclear-plant/)
+- [Verak – Fake Seller Detection for Digital Marketplaces](https://www.verak.io/demo)
+- [One Agent SDK – Embed Claude Code in Your App with Codex and Kimi](https://odysa.github.io/one-agent-sdk/)
+- [Don&#39;t Call It &#39;Intelligence&#39;](https://www.theatlantic.com/ideas/2026/03/intelligence-concept/686121/)
+- [Parakaryon: The only species with a unknown position in the tree of life](https://en.wikipedia.org/wiki/Parakaryon)
+- [Warden by Sentry](https://warden.sentry.dev/)
+- [Show HN: kg Food Log: Reveal the molecules in your foods](https://kg.enzom.dev/)
+- [On the need for a censorship API for legal compliance reasons in some areas](https://lists.debian.org/debian-legal/2026/03/msg00018.html)
+- [Breaking Down 50M Pins: A Smarter Way to Design 3D IC Packages](https://www.allaboutcircuits.com/industry-articles/breaking-down-50-million-pins-a-smarter-way-to-design-3d-ic-packages/)
+- [Show HN: Gluon – Project management with impact-based task prioritization](https://apps.apple.com/us/app/gluon-project-manager/id6758938759)
+- [What I&#39;m learning trying to build a dance theater piece like a startup](https://news.ycombinator.com/item?id=47270660)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

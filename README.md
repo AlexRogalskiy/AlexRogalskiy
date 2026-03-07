@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Iran war live updates: US temporarily lets India buy Russian oil amid energy fears; Israeli military launches strikes on Beirut](https://www.theguardian.com/world/live/2026/mar/06/iran-war-live-updates-us-temporarily-lets-india-buy-russian-oil-amid-energy-fears-israeli-military-launches-strikes-on-beirut)
-- [Canadian backpacker Piper James died ‘as a result of drowning’ following dingo attack at K’gari, coroner says](https://www.theguardian.com/australia-news/2026/mar/06/piper-james-kgari-cause-of-death-drowning-dingo-attack-coroner)
-- [Hard core! Apple peeling champion slices through competition to produce nearly four-metre strip of skin](https://www.theguardian.com/lifeandstyle/2026/mar/06/stanthorpe-apple-peeling-champion-kerrie-stratford-queensland)
-- [Ukraine war briefing: Trump urges Zelenskyy to ‘get a deal done’ with Russia](https://www.theguardian.com/world/2026/mar/06/ukraine-war-briefing-trump-urges-zelenskyy-to-get-a-deal-done-with-russia)
-- [How Flightradar24 became the go-to platform for the world to watch global aviation crises unfold](https://www.theguardian.com/world/2026/mar/06/iran-war-flight-chaos-flightradar24-tracking)
-- [Bernard LaFayette, civil rights leader who helped launch Voting Rights Act, dies aged 85](https://www.theguardian.com/us-news/2026/mar/05/bernard-lafayette-civil-rights-leader-dies)
-- [‘I think I could run even faster’: the NZ teenager shattering athletics records](https://www.theguardian.com/world/2026/mar/06/new-zealand-teenager-running-prodigy-sam-ruthe)
-- [Sci-fi surgery as doctor in UK directs robot to remove a prostate in Gibraltar](https://www.theguardian.com/uk-news/2026/mar/06/sci-fi-surgery-as-doctor-in-uk-directs-robot-to-remove-a-prostate-in-gibraltar)
-- [FA Cup fifth round: things to look out for this weekend](https://www.theguardian.com/football/2026/mar/06/fa-cup-fifth-round-things-to-look-out-for-this-weekend)
-- [Lowly Li snaps back at fans as Lowry endures another difficult day](https://www.theguardian.com/sport/2026/mar/05/li-haotong-swears-arnold-palmer-invitational-shane-lowry)
+- [Middle East crisis live: explosions rock Tehran as Iran war enters second week](https://www.theguardian.com/world/live/2026/mar/07/middle-east-crisis-live-tehran-explosions-beirut-trump-israel-iran-war-second-week)
+- [Canadian PM Mark Carney says former prince Andrew should be removed from royal line of succession](https://www.theguardian.com/world/2026/mar/07/canadian-pm-mark-carney-says-former-prince-andrew-should-be-removed-from-royal-line-of-succession)
+- [Trump news at a glance: president marks first week of Iran attacks with call for nation’s ‘unconditional surrender’](https://www.theguardian.com/us-news/2026/mar/06/trump-administration-news-updates-today)
+- [Mary Said What She Said review – Isabelle Huppert shimmers as Mary, Queen of Scots](https://www.theguardian.com/stage/2026/mar/07/mary-said-what-she-said-adelaide-festival-review-isabelle-huppert)
+- [Jesse Jackson hailed as ‘ambassador of hope’ at memorial attended by Clintons, Obama and Biden](https://www.theguardian.com/us-news/2026/mar/06/jesse-jackson-memorial-service-chicago)
+- [London man charged with manslaughter in case that links alleged domestic abuse to suicide](https://www.theguardian.com/uk-news/2026/mar/06/london-man-charged-manslaughter-gillian-morand-suicide)
+- [Mikel Arteta keeps focus to ensure Stag party doesn’t end in tears for Arsenal](https://www.theguardian.com/football/2026/mar/06/mikel-arteta-keeps-focus-to-ensure-stag-party-doesnt-end-in-tears-for-arsenal)
+- [He was meant to take De Bruyne’s crown. Instead, Foden’s City career is flatlining](https://www.theguardian.com/football/2026/mar/06/phil-foden-manchester-city-career-flatlining-kevin-de-bruyne)
+- [Osborne and wobbly Crowley finish off Wales to keep Ireland in Six Nations hunt](https://www.theguardian.com/sport/2026/mar/06/ireland-wales-six-nations-rugby-union-match-report)
+- [Robertson and Salah help Liverpool to redemption over Wolves in FA Cup tie](https://www.theguardian.com/football/2026/mar/06/wolves-liverpool-fa-cup-fifth-round-match-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Verak – Fake Seller Detection for Digital Marketplaces](https://www.verak.io/demo)
-- [One Agent SDK – Embed Claude Code in Your App with Codex and Kimi](https://odysa.github.io/one-agent-sdk/)
-- [Don&#39;t Call It &#39;Intelligence&#39;](https://www.theatlantic.com/ideas/2026/03/intelligence-concept/686121/)
-- [Parakaryon: The only species with a unknown position in the tree of life](https://en.wikipedia.org/wiki/Parakaryon)
-- [Warden by Sentry](https://warden.sentry.dev/)
-- [Show HN: kg Food Log: Reveal the molecules in your foods](https://kg.enzom.dev/)
-- [On the need for a censorship API for legal compliance reasons in some areas](https://lists.debian.org/debian-legal/2026/03/msg00018.html)
-- [Breaking Down 50M Pins: A Smarter Way to Design 3D IC Packages](https://www.allaboutcircuits.com/industry-articles/breaking-down-50-million-pins-a-smarter-way-to-design-3d-ic-packages/)
-- [Show HN: Gluon – Project management with impact-based task prioritization](https://apps.apple.com/us/app/gluon-project-manager/id6758938759)
-- [What I&#39;m learning trying to build a dance theater piece like a startup](https://news.ycombinator.com/item?id=47270660)
+- [AI Dev News Digest: March 6th, 2026](https://www.everydev.ai/p/news-ai-dev-news-digest-march-6th-2026)
+- [LLMs will supplant most human-driven vulnerability research](https://twitter.com/tqbf/status/2030102845089804473)
+- [The Filthy Human Hands &lpar;FHH&rpar; License v1.0](https://git.disroot.org/bsdclown/filthy_human_hands)
+- [Anthropic Unveils Amazon Inspired Marketplace](https://www.bloomberg.com/news/articles/2026-03-06/anthropic-unveils-amazon-inspired-marketplace-for-ai-software)
+- [Show HN: Glad-IA-Tor – Tired of Vibecoded Products? Come and Roast Them for Free](https://glad-ia-tor.com/)
+- [Ontology &lpar;Information Science&rpar;](https://en.wikipedia.org/wiki/Ontology_(information_science))
+- [Show HN: Wireframable – Generate wireframes from any website URL](https://wireframable.com/)
+- [Google Always-On Memory Agent](https://github.com/GoogleCloudPlatform/generative-ai/tree/main/gemini/agents/always-on-memory-agent)
+- [Tractography](https://en.wikipedia.org/wiki/Tractography)
+- [Show HN: SurvivalIndex – which developer tools do AI agents choose?](https://survivalindex.org/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

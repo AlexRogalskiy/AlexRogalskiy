@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [How to install and start using LineageOS on your phone](https://lockywolf.net/2026-02-19_How-to-install-and-start-using-LineageOS-on-your-phone.d/index.html)
-- [Where things stand with the Department of War](https://www.anthropic.com/news/where-stand-department-war)
-- [The next generations of Bubble Tea, Lip Gloss, and Bubbles are available now](https://charm.land/blog/v2/)
-- [Stop Using Grey Text &lpar;2025&rpar;](https://catskull.net/stop-using-grey-text.html)
-- [Labor market impacts of AI: A new measure and early evidence](https://www.anthropic.com/research/labor-market-impacts)
-- [A standard protocol to handle and discard low-effort, AI-Generated pull requests](https://406.fail/)
-- [Ethiopia gets $350M World Bank financing for its digital ID project &lpar;2024&rpar;](https://www.mariblock.com/stories/ethiopia-to-get-350-million-world-bank-financing-for-its-digital-id-project)
-- [Proton Mail Helped FBI Unmask Anonymous &#39;Stop Cop City&#39; Protester](https://www.404media.co/proton-mail-helped-fbi-unmask-anonymous-stop-cop-city-protestor/)
-- [Structured AI &lpar;YC F25&rpar; Is Hiring](https://www.ycombinator.com/companies/structured-ai/jobs/3cQY6Cu-mechanical-design-engineer-founding-team-consultant)
-- [GLiNER2: Unified Schema-Based Information Extraction](https://github.com/fastino-ai/GLiNER2)
+- [Can a wealthy family change the course of a deadly brain disease?](https://www.science.org/content/article/can-wealthy-family-change-course-deadly-brain-disease)
+- [UUID package coming to Go standard library](https://github.com/golang/go/issues/62026)
+- [LLMs work best when the user defines their acceptance criteria first](https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code)
+- [Game about Data of America](https://americaindata.com/)
+- [Show HN: Kula – Lightweight, self-contained Linux server monitoring tool](https://github.com/c0m4r/kula)
+- [Tell HN: I&#39;m 60 years old. Claude Code has ignited a passion again](https://news.ycombinator.com/item?id=47282777)
+- [Plasma Bigscreen – 10-foot interface for KDE plasma](https://plasma-bigscreen.org)
+- [C# strings silently kill your SQL Server indexes in Dapper](https://consultwithgriff.com/dapper-nvarchar-implicit-conversion-performance-trap)
+- [this css proves me human](https://will-keleher.com/posts/this-css-makes-me-human/)
+- [Art Bits from HyperCard](https://archives.somnolescent.net/web/mari_v2/junk/hypercard/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

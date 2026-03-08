@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Middle East crisis live: explosions rock Tehran as Iran war enters second week](https://www.theguardian.com/world/live/2026/mar/07/middle-east-crisis-live-tehran-explosions-beirut-trump-israel-iran-war-second-week)
-- [Canadian PM Mark Carney says former prince Andrew should be removed from royal line of succession](https://www.theguardian.com/world/2026/mar/07/canadian-pm-mark-carney-says-former-prince-andrew-should-be-removed-from-royal-line-of-succession)
-- [Trump news at a glance: president marks first week of Iran attacks with call for nation’s ‘unconditional surrender’](https://www.theguardian.com/us-news/2026/mar/06/trump-administration-news-updates-today)
-- [Mary Said What She Said review – Isabelle Huppert shimmers as Mary, Queen of Scots](https://www.theguardian.com/stage/2026/mar/07/mary-said-what-she-said-adelaide-festival-review-isabelle-huppert)
-- [Jesse Jackson hailed as ‘ambassador of hope’ at memorial attended by Clintons, Obama and Biden](https://www.theguardian.com/us-news/2026/mar/06/jesse-jackson-memorial-service-chicago)
-- [London man charged with manslaughter in case that links alleged domestic abuse to suicide](https://www.theguardian.com/uk-news/2026/mar/06/london-man-charged-manslaughter-gillian-morand-suicide)
-- [Mikel Arteta keeps focus to ensure Stag party doesn’t end in tears for Arsenal](https://www.theguardian.com/football/2026/mar/06/mikel-arteta-keeps-focus-to-ensure-stag-party-doesnt-end-in-tears-for-arsenal)
-- [He was meant to take De Bruyne’s crown. Instead, Foden’s City career is flatlining](https://www.theguardian.com/football/2026/mar/06/phil-foden-manchester-city-career-flatlining-kevin-de-bruyne)
-- [Osborne and wobbly Crowley finish off Wales to keep Ireland in Six Nations hunt](https://www.theguardian.com/sport/2026/mar/06/ireland-wales-six-nations-rugby-union-match-report)
-- [Robertson and Salah help Liverpool to redemption over Wolves in FA Cup tie](https://www.theguardian.com/football/2026/mar/06/wolves-liverpool-fa-cup-fifth-round-match-report)
+- [Trump vague on Iran’s ‘unconditional surrender’ as he refuses to rule out US troop deployment](https://www.theguardian.com/world/2026/mar/07/trump-ground-troops-iran)
+- [Trump says Iran being ‘decimated’ but refuses to rule out US troop deployment – Middle East crisis live](https://www.theguardian.com/world/live/2026/mar/07/middle-east-crisis-live-tehran-explosions-beirut-trump-israel-iran-war-second-week)
+- [Australian Grand Prix: F1 race – live](https://www.theguardian.com/sport/live/2026/mar/08/australian-grand-prix-f1-melbourne-race-live)
+- [Three teenagers charged with murder after man stabbed while trying to intervene in Melbourne train station fight](https://www.theguardian.com/australia-news/2026/mar/08/three-teenagers-charged-with-after-man-stabbed-while-trying-to-intervene-in-melbourne-train-station-fight-ntwnfb)
+- [Ukraine war briefing: Zelenskyy offers help to Saudi Crown prince on combatting Iranian drones](https://www.theguardian.com/world/2026/mar/08/ukraine-war-briefing-zelenskyy-offers-help-to-saudi-crown-prince-on-combatting-iranian-drones)
+- [Trump news at a glance: US leader says Iran being ‘decimated’; admits US troop deployment not off the table](https://www.theguardian.com/us-news/2026/mar/08/trump-news-at-a-glance-us-leader-says-iran-being-decimated-admits-us-troop-deployment-not-off-the-table)
+- [Sonay Kartal shocks Navarro at Indian Wells while Draper starts title defence in style](https://www.theguardian.com/sport/2026/mar/07/jack-draper-begins-indian-wells-title-defence-with-victory-over-roberto-bautista-agut)
+- [New Employment Rights Act ‘a huge boost for women in the workplace’](https://www.theguardian.com/law/2026/mar/08/new-employment-rights-act-a-huge-boost-for-women-in-the-workplace)
+- [Milano Cortina Winter Paralympics 2026: day one – in pictures](https://www.theguardian.com/sport/gallery/2026/mar/07/milan-cortina-winter-olympics-2026-day-one-in-pictures-we-take-a-look-at-the-best-images-from-the-opening-day-of-the-games-including-curling-downhill-skiing-and-ice-hockey)
+- [Trump tells Starmer help not needed even as US uses UK bases for Iran strikes](https://www.theguardian.com/us-news/2026/mar/07/trump-starmer-iran-criticism)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

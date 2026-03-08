@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Can a wealthy family change the course of a deadly brain disease?](https://www.science.org/content/article/can-wealthy-family-change-course-deadly-brain-disease)
-- [UUID package coming to Go standard library](https://github.com/golang/go/issues/62026)
-- [LLMs work best when the user defines their acceptance criteria first](https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code)
-- [Game about Data of America](https://americaindata.com/)
-- [Show HN: Kula – Lightweight, self-contained Linux server monitoring tool](https://github.com/c0m4r/kula)
-- [Tell HN: I&#39;m 60 years old. Claude Code has ignited a passion again](https://news.ycombinator.com/item?id=47282777)
-- [Plasma Bigscreen – 10-foot interface for KDE plasma](https://plasma-bigscreen.org)
-- [C# strings silently kill your SQL Server indexes in Dapper](https://consultwithgriff.com/dapper-nvarchar-implicit-conversion-performance-trap)
-- [this css proves me human](https://will-keleher.com/posts/this-css-makes-me-human/)
-- [Art Bits from HyperCard](https://archives.somnolescent.net/web/mari_v2/junk/hypercard/)
+- [Will Claude Code ruin our team?](https://justinjackson.ca/claude-code-ruin)
+- [MonoGame: A .NET framework for making cross-platform games](https://github.com/MonoGame/MonoGame)
+- [They all said Hormuz closure would be brief. What if they were wrong?](https://www.lloydslist.com/LL1156532/They-all-said-Hormuz-closure-would-be-brief-What-if-they-were-wrong)
+- [&quot;Warn about PyPy being unmaintained&quot;](https://github.com/astral-sh/uv/pull/17643)
+- [Cloud VM benchmarks 2026: performance/price for 44 VM types over 7 providers](https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html)
+- [Put the zip code first](https://zipcodefirst.com)
+- [Lisp-style C++ template meta programming](https://github.com/mistivia/lmp)
+- [The stagnancy of publishing and the disappearance of the midlist](https://www.honest-broker.com/p/the-day-ny-publishing-lost-its-soul)
+- [LLM Writing Tropes.md](https://tropes.fyi/tropes-md)
+- [Effort to prevent government officials from engaging in prediction markets](https://www.merkley.senate.gov/merkley-klobuchar-launch-new-effort-to-ban-federal-elected-officials-profiting-from-prediction-markets/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

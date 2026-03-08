@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [AI Dev News Digest: March 6th, 2026](https://www.everydev.ai/p/news-ai-dev-news-digest-march-6th-2026)
-- [LLMs will supplant most human-driven vulnerability research](https://twitter.com/tqbf/status/2030102845089804473)
-- [The Filthy Human Hands &lpar;FHH&rpar; License v1.0](https://git.disroot.org/bsdclown/filthy_human_hands)
-- [Anthropic Unveils Amazon Inspired Marketplace](https://www.bloomberg.com/news/articles/2026-03-06/anthropic-unveils-amazon-inspired-marketplace-for-ai-software)
-- [Show HN: Glad-IA-Tor – Tired of Vibecoded Products? Come and Roast Them for Free](https://glad-ia-tor.com/)
-- [Ontology &lpar;Information Science&rpar;](https://en.wikipedia.org/wiki/Ontology_(information_science))
-- [Show HN: Wireframable – Generate wireframes from any website URL](https://wireframable.com/)
-- [Google Always-On Memory Agent](https://github.com/GoogleCloudPlatform/generative-ai/tree/main/gemini/agents/always-on-memory-agent)
-- [Tractography](https://en.wikipedia.org/wiki/Tractography)
-- [Show HN: SurvivalIndex – which developer tools do AI agents choose?](https://survivalindex.org/)
+- [Forcing Flash Attention onto a TPU and Learning the Hard Way](https://archerzhang.me/forcing-flash-attention-onto-a-tpu)
+- [Mechanical Movements Animated](https://507movements.com/)
+- [Show HN: Pipe Checker – paste a sales deal and it checks BANT qualification](https://pipechecker.onrender.com/)
+- [Juno – J Web IDE](https://jsoftware.github.io/juno/app/)
+- [ReverseLM Playground](https://scottinallca.ps/reverse-lm/)
+- [Integrating AI-Driven Predictive Analytics for Cybersecurity Risk Mitigation [pdf]](https://www.researchgate.net/profile/Adeyinka-Oluwatomisin/publication/401488012_Integrating_AI-Driven_Predictive_Analytics_for_Proactive_Cybersecurity_Risk_Mitigation_in_Large-Scale_IT_Program_Management/links/69a6decf940e2d5e03cc6b60/Integrating-AI-Driven-Predictive-Analytics-for-Proactive-Cybersecurity-Risk-Mitigation-in-Large-Scale-IT-Program-Management.pdf)
+- [Msspproviders.io: a searchable directory of managed security service providers](https://msspproviders.io)
+- [Old Versions of Programs, Drivers and Games](https://www.oldversion.com/)
+- [Zero Sum Game](https://code.chuanqisun.com/zero-sum-game/)
+- [Karabiner-Elements is a powerful tool for customizing keyboards on macOS](https://github.com/pqrs-org/Karabiner-Elements)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

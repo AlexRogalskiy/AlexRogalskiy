@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Forcing Flash Attention onto a TPU and Learning the Hard Way](https://archerzhang.me/forcing-flash-attention-onto-a-tpu)
-- [Mechanical Movements Animated](https://507movements.com/)
-- [Show HN: Pipe Checker – paste a sales deal and it checks BANT qualification](https://pipechecker.onrender.com/)
-- [Juno – J Web IDE](https://jsoftware.github.io/juno/app/)
-- [ReverseLM Playground](https://scottinallca.ps/reverse-lm/)
-- [Integrating AI-Driven Predictive Analytics for Cybersecurity Risk Mitigation [pdf]](https://www.researchgate.net/profile/Adeyinka-Oluwatomisin/publication/401488012_Integrating_AI-Driven_Predictive_Analytics_for_Proactive_Cybersecurity_Risk_Mitigation_in_Large-Scale_IT_Program_Management/links/69a6decf940e2d5e03cc6b60/Integrating-AI-Driven-Predictive-Analytics-for-Proactive-Cybersecurity-Risk-Mitigation-in-Large-Scale-IT-Program-Management.pdf)
-- [Msspproviders.io: a searchable directory of managed security service providers](https://msspproviders.io)
-- [Old Versions of Programs, Drivers and Games](https://www.oldversion.com/)
-- [Zero Sum Game](https://code.chuanqisun.com/zero-sum-game/)
-- [Karabiner-Elements is a powerful tool for customizing keyboards on macOS](https://github.com/pqrs-org/Karabiner-Elements)
+- [The First Multi-Behavior Brain Upload](https://twitter.com/alexwg/status/2030217301929132323)
+- [FlashKeeper: Where SpiSpy meets Stateless Laptop &lpar;2024&rpar;](https://cfp.3mdeb.com/qubes-os-summit-2024/talk/FCENX9/)
+- [Sandvault – Run AI agents isolated in a sandboxed macOS user account](https://github.com/webcoyote/sandvault)
+- [The Wrapper](https://www.robpanico.com/articles/display/?entry_short=the-wrapper)
+- [Show HN: Kroot – dependency-graph root cause analysis for Kubernetes](https://github.com/AnonJon/kroot)
+- [Show HN: A community catalog of CI certified agents](https://github.com/justindobbs/awesome-certified-agents)
+- [Euclid – a hyper minimalist digital clock like no other](https://euclid.tulv.in/)
+- [An Executive Decision Maker &lpar;2022&rpar;](https://circuitcellar.com/research-design-hub/projects/executive-decision-maker/)
+- [Magnet-Metadata-API: Torrent Metadata API Service](https://github.com/felipemarinho97/magnet-metadata-api)
+- [Show HN: Salvobase – MongoDB-compatible DB in Go maintained by AI agents](https://news.ycombinator.com/item?id=47304607)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

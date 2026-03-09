@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Will Claude Code ruin our team?](https://justinjackson.ca/claude-code-ruin)
-- [MonoGame: A .NET framework for making cross-platform games](https://github.com/MonoGame/MonoGame)
-- [They all said Hormuz closure would be brief. What if they were wrong?](https://www.lloydslist.com/LL1156532/They-all-said-Hormuz-closure-would-be-brief-What-if-they-were-wrong)
-- [&quot;Warn about PyPy being unmaintained&quot;](https://github.com/astral-sh/uv/pull/17643)
-- [Cloud VM benchmarks 2026: performance/price for 44 VM types over 7 providers](https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html)
-- [Put the zip code first](https://zipcodefirst.com)
-- [Lisp-style C++ template meta programming](https://github.com/mistivia/lmp)
-- [The stagnancy of publishing and the disappearance of the midlist](https://www.honest-broker.com/p/the-day-ny-publishing-lost-its-soul)
-- [LLM Writing Tropes.md](https://tropes.fyi/tropes-md)
-- [Effort to prevent government officials from engaging in prediction markets](https://www.merkley.senate.gov/merkley-klobuchar-launch-new-effort-to-ban-federal-elected-officials-profiting-from-prediction-markets/)
+- [Claude helped select targets for Iran strikes, possibly including school](https://twitter.com/robertwrighter/status/2030482402628214841)
+- [Ask HN: What Are You Working On? &lpar;March 2026&rpar;](https://news.ycombinator.com/item?id=47303111)
+- [Last Statements](https://walzr.com/last-statements)
+- [Linux Internals: How /proc/self/mem writes to unwritable memory &lpar;2021&rpar;](https://offlinemark.com/an-obscure-quirk-of-proc/)
+- [Blacksky AppView](https://github.com/blacksky-algorithms/atproto)
+- [Lil Finder Guy](https://basicappleguy.com/basicappleblog/lil-finder-guy)
+- [Artificial-life: A simple &lpar;300 lines of code&rpar; reproduction of Computational Life](https://github.com/Rabrg/artificial-life)
+- [Agent Safehouse – macOS-native sandboxing for local agents](https://agent-safehouse.dev/)
+- [We should revisit literate programming in the agent era](https://silly.business/blog/we-should-revisit-literate-programming-in-the-agent-era/)
+- [Show HN: I built a real-time OSINT dashboard pulling 15 live global feeds](https://github.com/BigBodyCobain/Shadowbroker)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

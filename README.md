@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Trump vague on Iran’s ‘unconditional surrender’ as he refuses to rule out US troop deployment](https://www.theguardian.com/world/2026/mar/07/trump-ground-troops-iran)
-- [Trump says Iran being ‘decimated’ but refuses to rule out US troop deployment – Middle East crisis live](https://www.theguardian.com/world/live/2026/mar/07/middle-east-crisis-live-tehran-explosions-beirut-trump-israel-iran-war-second-week)
-- [Australian Grand Prix: F1 race – live](https://www.theguardian.com/sport/live/2026/mar/08/australian-grand-prix-f1-melbourne-race-live)
-- [Three teenagers charged with murder after man stabbed while trying to intervene in Melbourne train station fight](https://www.theguardian.com/australia-news/2026/mar/08/three-teenagers-charged-with-after-man-stabbed-while-trying-to-intervene-in-melbourne-train-station-fight-ntwnfb)
-- [Ukraine war briefing: Zelenskyy offers help to Saudi Crown prince on combatting Iranian drones](https://www.theguardian.com/world/2026/mar/08/ukraine-war-briefing-zelenskyy-offers-help-to-saudi-crown-prince-on-combatting-iranian-drones)
-- [Trump news at a glance: US leader says Iran being ‘decimated’; admits US troop deployment not off the table](https://www.theguardian.com/us-news/2026/mar/08/trump-news-at-a-glance-us-leader-says-iran-being-decimated-admits-us-troop-deployment-not-off-the-table)
-- [Sonay Kartal shocks Navarro at Indian Wells while Draper starts title defence in style](https://www.theguardian.com/sport/2026/mar/07/jack-draper-begins-indian-wells-title-defence-with-victory-over-roberto-bautista-agut)
-- [New Employment Rights Act ‘a huge boost for women in the workplace’](https://www.theguardian.com/law/2026/mar/08/new-employment-rights-act-a-huge-boost-for-women-in-the-workplace)
-- [Milano Cortina Winter Paralympics 2026: day one – in pictures](https://www.theguardian.com/sport/gallery/2026/mar/07/milan-cortina-winter-olympics-2026-day-one-in-pictures-we-take-a-look-at-the-best-images-from-the-opening-day-of-the-games-including-curling-downhill-skiing-and-ice-hockey)
-- [Trump tells Starmer help not needed even as US uses UK bases for Iran strikes](https://www.theguardian.com/us-news/2026/mar/07/trump-starmer-iran-criticism)
+- [US military kills six in strike on alleged drug boat in Pacific](https://www.theguardian.com/us-news/2026/mar/09/us-military-drug-boat-strike-pacific)
+- [VPN apps rocket up download charts in Australia as porn websites begin blocking users](https://www.theguardian.com/australia-news/2026/mar/09/vpn-downloads-australia-porn-sites-blocking-users)
+- [Lewis Hamilton confident Ferrari ‘in the fight’ with Mercedes for 2026 F1 championship](https://www.theguardian.com/sport/2026/mar/09/lewis-hamilton-ferrari-mercedes-2026-f1-championship)
+- [Raducanu loses in 52 minutes to No 6 seed Anisimova in Indian Wells third round](https://www.theguardian.com/sport/2026/mar/09/emma-raducanu-loses-52-minutes-amanda-anisimova-indian-wells-tennis)
+- [The half-abandoned Japanese island at the heart of tensions with China](https://www.theguardian.com/world/2026/mar/09/kasasa-island-japan-china-tension)
+- [Cancer death rate in Britain down by almost a third since 1980s](https://www.theguardian.com/society/2026/mar/09/cancer-death-rate-fall-britain-report)
+- [NHS England pauses new referrals for masculinising or feminising hormone treatment in under-18s](https://www.theguardian.com/society/2026/mar/09/nhs-england-pauses-new-referrals-masculinising-feminising-hormone-treatment-under-18s)
+- [Labour to set up new extremism whistleblowing service for university staff](https://www.theguardian.com/society/2026/mar/09/labour-to-set-up-new-extremism-whistleblowing-service-for-university-staff)
+- [Britain’s job market ‘floundering’ as companies remain cautious about hiring](https://www.theguardian.com/business/2026/mar/09/britain-job-market-floundering-companies-cautious-hiring)
+- [Rare items of Charles Dickens’ clothing to go on display in London](https://www.theguardian.com/books/2026/mar/09/rare-items-of-charles-dickens-clothing-to-go-on-display-in-london)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

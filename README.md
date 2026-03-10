@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [US military kills six in strike on alleged drug boat in Pacific](https://www.theguardian.com/us-news/2026/mar/09/us-military-drug-boat-strike-pacific)
-- [VPN apps rocket up download charts in Australia as porn websites begin blocking users](https://www.theguardian.com/australia-news/2026/mar/09/vpn-downloads-australia-porn-sites-blocking-users)
-- [Lewis Hamilton confident Ferrari ‘in the fight’ with Mercedes for 2026 F1 championship](https://www.theguardian.com/sport/2026/mar/09/lewis-hamilton-ferrari-mercedes-2026-f1-championship)
-- [Raducanu loses in 52 minutes to No 6 seed Anisimova in Indian Wells third round](https://www.theguardian.com/sport/2026/mar/09/emma-raducanu-loses-52-minutes-amanda-anisimova-indian-wells-tennis)
-- [The half-abandoned Japanese island at the heart of tensions with China](https://www.theguardian.com/world/2026/mar/09/kasasa-island-japan-china-tension)
-- [Cancer death rate in Britain down by almost a third since 1980s](https://www.theguardian.com/society/2026/mar/09/cancer-death-rate-fall-britain-report)
-- [NHS England pauses new referrals for masculinising or feminising hormone treatment in under-18s](https://www.theguardian.com/society/2026/mar/09/nhs-england-pauses-new-referrals-masculinising-feminising-hormone-treatment-under-18s)
-- [Labour to set up new extremism whistleblowing service for university staff](https://www.theguardian.com/society/2026/mar/09/labour-to-set-up-new-extremism-whistleblowing-service-for-university-staff)
-- [Britain’s job market ‘floundering’ as companies remain cautious about hiring](https://www.theguardian.com/business/2026/mar/09/britain-job-market-floundering-companies-cautious-hiring)
-- [Rare items of Charles Dickens’ clothing to go on display in London](https://www.theguardian.com/books/2026/mar/09/rare-items-of-charles-dickens-clothing-to-go-on-display-in-london)
+- [Middle East crisis live: oil prices fall back sharply as Trump claims Iran war will be over ‘very soon’](https://www.theguardian.com/world/live/2026/mar/09/iran-war-live-updates-new-supreme-leader-mojtaba-khamenei-oil-prices-soar)
+- [New Zealand Covid response among world’s best but ‘scars’ remain, inquiry finds](https://www.theguardian.com/world/2026/mar/10/new-zealand-covid-response-inquiry-royal-commission-findings)
+- [Vague and contradictory Trump says Iran war ‘won’, but not ‘won enough’](https://www.theguardian.com/world/2026/mar/10/trump-iran-war-over-pretty-quickly)
+- [Trump’s Iran war will reinforce North Korea’s view that nuclear weapons are the only path to security](https://www.theguardian.com/world/2026/mar/10/north-korea-nuclear-weapons-trump-iran-war)
+- [More Iran women’s football team members expected to seek asylum in Australia](https://www.theguardian.com/football/2026/mar/10/iran-womens-football-team-asylum-australia)
+- [Three Australians jailed for more than a decade over Melbourne man’s shooting death in Bali](https://www.theguardian.com/australia-news/2026/mar/10/zivan-radmanovic-bali-shooting-death-three-men-sentenced-ntwnfb)
+- [‘We believe he is being supported’: $250,000 reward to help police find accused triple murderer Julian Ingram](https://www.theguardian.com/australia-news/2026/mar/10/lake-cargelligo-julian-ingram-nsw-police-reward-ntwnfb)
+- [Kids, Wait Till You Hear This! by Liza Minnelli review – a heady brew of gossip, glamour and defiance](https://www.theguardian.com/books/2026/mar/10/kids-wait-till-you-hear-this-by-liza-minnelli-review-a-heady-brew-of-gossip-glamour-and-defiance)
+- [Black people up to 48 times more likely to be stopped and searched in richest areas of London](https://www.theguardian.com/law/2026/mar/10/black-people-up-to-48-times-more-likely-stop-and-search-london-richest-areas)
+- [Jack Draper sets up Djokovic clash after beating Cerundolo at Indian Wells](https://www.theguardian.com/sport/2026/mar/09/jack-draper-novak-djokovic-cameron-norrie-indian-wells-tennis)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

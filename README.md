@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Claude helped select targets for Iran strikes, possibly including school](https://twitter.com/robertwrighter/status/2030482402628214841)
-- [Ask HN: What Are You Working On? &lpar;March 2026&rpar;](https://news.ycombinator.com/item?id=47303111)
-- [Last Statements](https://walzr.com/last-statements)
-- [Linux Internals: How /proc/self/mem writes to unwritable memory &lpar;2021&rpar;](https://offlinemark.com/an-obscure-quirk-of-proc/)
-- [Blacksky AppView](https://github.com/blacksky-algorithms/atproto)
-- [Lil Finder Guy](https://basicappleguy.com/basicappleblog/lil-finder-guy)
-- [Artificial-life: A simple &lpar;300 lines of code&rpar; reproduction of Computational Life](https://github.com/Rabrg/artificial-life)
-- [Agent Safehouse – macOS-native sandboxing for local agents](https://agent-safehouse.dev/)
-- [We should revisit literate programming in the agent era](https://silly.business/blog/we-should-revisit-literate-programming-in-the-agent-era/)
-- [Show HN: I built a real-time OSINT dashboard pulling 15 live global feeds](https://github.com/BigBodyCobain/Shadowbroker)
+- [Learnings from Paying Artists Royalties for AI-Generated Art](https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/)
+- [The “JVG algorithm” only wins on tiny numbers](https://scottaaronson.blog/?p=9615)
+- [Two Years of Emacs Solo: 35 Modules, Zero External Packages, and a Full Refactor](https://www.rahuljuliato.com/posts/emacs-solo-two-years)
+- [No, it doesn&#39;t cost Anthropic $5k per Claude Code user](https://martinalderson.com/posts/no-it-doesnt-cost-anthropic-5k-per-claude-code-user/)
+- [So you want to write an “app” &lpar;2025&rpar;](https://arcanenibble.github.io/so-you-want-to-write-an-app.html)
+- [OpenAI is walking away from expanding its Stargate data center with Oracle](https://www.cnbc.com/2026/03/09/oracle-is-building-yesterdays-data-centers-with-tomorrows-debt.html)
+- [The first airplane fatality](https://www.amusingplanet.com/2026/03/thomas-selfridge-first-airplane-fatality.html)
+- [Notes on Baking at the South Pole](https://www.newyorker.com/culture/the-weekend-essay/the-most-beautiful-freezer-in-the-world)
+- [Bluesky CEO Jay Graber is stepping down](https://bsky.social/about/blog/03-09-2026-a-new-chapter-for-bluesky)
+- [Durdraw – ANSI art editor for Unix-like systems](https://durdraw.org/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

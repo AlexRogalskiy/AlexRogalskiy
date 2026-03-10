@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The First Multi-Behavior Brain Upload](https://twitter.com/alexwg/status/2030217301929132323)
-- [FlashKeeper: Where SpiSpy meets Stateless Laptop &lpar;2024&rpar;](https://cfp.3mdeb.com/qubes-os-summit-2024/talk/FCENX9/)
-- [Sandvault – Run AI agents isolated in a sandboxed macOS user account](https://github.com/webcoyote/sandvault)
-- [The Wrapper](https://www.robpanico.com/articles/display/?entry_short=the-wrapper)
-- [Show HN: Kroot – dependency-graph root cause analysis for Kubernetes](https://github.com/AnonJon/kroot)
-- [Show HN: A community catalog of CI certified agents](https://github.com/justindobbs/awesome-certified-agents)
-- [Euclid – a hyper minimalist digital clock like no other](https://euclid.tulv.in/)
-- [An Executive Decision Maker &lpar;2022&rpar;](https://circuitcellar.com/research-design-hub/projects/executive-decision-maker/)
-- [Magnet-Metadata-API: Torrent Metadata API Service](https://github.com/felipemarinho97/magnet-metadata-api)
-- [Show HN: Salvobase – MongoDB-compatible DB in Go maintained by AI agents](https://news.ycombinator.com/item?id=47304607)
+- [Collecting AI Prompting Files in One Place](https://news.ycombinator.com/item?id=47318928)
+- [Startups.RIP](https://startups.rip/)
+- [What&#39;s Tech&#39;in?](https://news.ycombinator.com/item?id=47318902)
+- [Meta, Google Pivot in Addiction Trial to Accuser&#39;s History](https://www.bloomberg.com/news/articles/2026-03-09/meta-google-pivot-in-addiction-trial-to-accuser-s-home-life)
+- [Phlex: Ruby gem for building HTML and SVG view components](https://www.phlex.fun/)
+- [EQT eyes potential $6B sale of Linux pioneer SUSE, sources say](https://www.reuters.com/business/eqt-eyes-potential-6-billion-sale-linux-pioneer-suse-sources-say-2026-03-09)
+- [Nextvi 4.0 – A small, hackable vi/ex editor with an optional patch system](https://github.com/kyx0r/nextvi)
+- [Personal MCP server on every Claude platform without Auth0](https://github.com/crumrine/fastmcp-personal-auth)
+- [SSH Secret Menu](https://twitter.com/rebane2001/status/2031037389347406054)
+- [Strict Monospace Font with Nerd Fonts and Emoji for AI and Human, AI-CLIs Users](https://www.npmjs.com/package/@monolex/codexmono)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

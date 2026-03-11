@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Learnings from Paying Artists Royalties for AI-Generated Art](https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/)
-- [The “JVG algorithm” only wins on tiny numbers](https://scottaaronson.blog/?p=9615)
-- [Two Years of Emacs Solo: 35 Modules, Zero External Packages, and a Full Refactor](https://www.rahuljuliato.com/posts/emacs-solo-two-years)
-- [No, it doesn&#39;t cost Anthropic $5k per Claude Code user](https://martinalderson.com/posts/no-it-doesnt-cost-anthropic-5k-per-claude-code-user/)
-- [So you want to write an “app” &lpar;2025&rpar;](https://arcanenibble.github.io/so-you-want-to-write-an-app.html)
-- [OpenAI is walking away from expanding its Stargate data center with Oracle](https://www.cnbc.com/2026/03/09/oracle-is-building-yesterdays-data-centers-with-tomorrows-debt.html)
-- [The first airplane fatality](https://www.amusingplanet.com/2026/03/thomas-selfridge-first-airplane-fatality.html)
-- [Notes on Baking at the South Pole](https://www.newyorker.com/culture/the-weekend-essay/the-most-beautiful-freezer-in-the-world)
-- [Bluesky CEO Jay Graber is stepping down](https://bsky.social/about/blog/03-09-2026-a-new-chapter-for-bluesky)
-- [Durdraw – ANSI art editor for Unix-like systems](https://durdraw.org/)
+- [Writing my own text editor, and daily-driving it](https://blog.jsbarretto.com/post/text-editor)
+- [Zig – Type Resolution Redesign and Language Changes](https://ziglang.org/devlog/2026/#2026-03-10)
+- [Universal vaccine against respiratory infections and allergens](https://med.stanford.edu/news/all-news/2026/02/universal-vaccine.html)
+- [U+237C ⍼ Is Azimuth](https://ionathan.ch/2026/02/16/angzarr.html)
+- [Cloudflare crawl endpoint](https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/)
+- [RISC-V Is Sloooow](https://marcin.juszkiewicz.com.pl/2026/03/10/risc-v-is-sloooow/)
+- [Tell HN: Apple development certificate server seems down?](https://news.ycombinator.com/item?id=47328034)
+- [Agents that run while I sleep](https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep)
+- [Mesh over Bluetooth LE, TCP, or Reticulum](https://github.com/torlando-tech/columba)
+- [FFmpeg-over-IP – Connect to remote FFmpeg servers](https://github.com/steelbrain/ffmpeg-over-ip)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

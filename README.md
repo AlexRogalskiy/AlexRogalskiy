@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Middle East crisis live: oil prices fall back sharply as Trump claims Iran war will be over ‘very soon’](https://www.theguardian.com/world/live/2026/mar/09/iran-war-live-updates-new-supreme-leader-mojtaba-khamenei-oil-prices-soar)
-- [New Zealand Covid response among world’s best but ‘scars’ remain, inquiry finds](https://www.theguardian.com/world/2026/mar/10/new-zealand-covid-response-inquiry-royal-commission-findings)
-- [Vague and contradictory Trump says Iran war ‘won’, but not ‘won enough’](https://www.theguardian.com/world/2026/mar/10/trump-iran-war-over-pretty-quickly)
-- [Trump’s Iran war will reinforce North Korea’s view that nuclear weapons are the only path to security](https://www.theguardian.com/world/2026/mar/10/north-korea-nuclear-weapons-trump-iran-war)
-- [More Iran women’s football team members expected to seek asylum in Australia](https://www.theguardian.com/football/2026/mar/10/iran-womens-football-team-asylum-australia)
-- [Three Australians jailed for more than a decade over Melbourne man’s shooting death in Bali](https://www.theguardian.com/australia-news/2026/mar/10/zivan-radmanovic-bali-shooting-death-three-men-sentenced-ntwnfb)
-- [‘We believe he is being supported’: $250,000 reward to help police find accused triple murderer Julian Ingram](https://www.theguardian.com/australia-news/2026/mar/10/lake-cargelligo-julian-ingram-nsw-police-reward-ntwnfb)
-- [Kids, Wait Till You Hear This! by Liza Minnelli review – a heady brew of gossip, glamour and defiance](https://www.theguardian.com/books/2026/mar/10/kids-wait-till-you-hear-this-by-liza-minnelli-review-a-heady-brew-of-gossip-glamour-and-defiance)
-- [Black people up to 48 times more likely to be stopped and searched in richest areas of London](https://www.theguardian.com/law/2026/mar/10/black-people-up-to-48-times-more-likely-stop-and-search-london-richest-areas)
-- [Jack Draper sets up Djokovic clash after beating Cerundolo at Indian Wells](https://www.theguardian.com/sport/2026/mar/09/jack-draper-novak-djokovic-cameron-norrie-indian-wells-tennis)
+- [Iran war live updates: Regime issues threat against protesters; drone reportedly hits major US diplomatic facility in Iraq](https://www.theguardian.com/world/live/2026/mar/11/iran-war-live-updates-trump-oil-hormuz-protestors-us-israel-beirut-middle-east-latest-news)
+- [‘If I go home, we don’t have enough money’: the low-paid Filipino workers caught up in the war on Iran](https://www.theguardian.com/world/2026/mar/11/iran-war-filipino-workers-israel)
+- [‘My lovely distraction’: live stream of kākāpō – world’s fattest parrot – and her chicks captivates New Zealand](https://www.theguardian.com/world/2026/mar/11/kakapo-cam-live-stream-parrot-new-zealand)
+- [Ukraine war briefing: Zelenskyy accuses Hungary of ‘banditry’ over $82m of seized gold](https://www.theguardian.com/world/2026/mar/11/ukraine-war-briefing-zelenskyy-accuses-hungary-of-banditry-over-82m-of-seized-gold)
+- [Shabana Mahmood approves police request to ban Al Quds march in London](https://www.theguardian.com/politics/2026/mar/11/shabana-mahmood-approves-police-request-to-ban-al-quds-march-in-london)
+- [Louis Theroux: Inside the Manosphere review – why doesn’t he focus more on the impact on women?](https://www.theguardian.com/tv-and-radio/2026/mar/11/louis-theroux-inside-the-manosphere-review-why-doesnt-he-focus-more-on-the-impact-on-women)
+- [How a bid for freedom by Iran’s women footballers unfolded in Australia](https://www.theguardian.com/australia-news/2026/mar/10/how-iranian-women-footballers-bid-for-freedom-went-deep-into-extra-time)
+- [Igor Tudor says he was protecting Kinsky with Spurs substitution at Atlético](https://www.theguardian.com/football/2026/mar/10/tudor-says-he-was-protecting-kinsky-with-tottenham-substitution)
+- [Sabalenka powers past Osaka to reach Indian Wells quarter-finals](https://www.theguardian.com/sport/2026/mar/10/sabalenka-powers-past-osaka-to-reach-indian-wells-quarter-finals)
+- [Woman charged with attempted murder in shooting at home of Rihanna](https://www.theguardian.com/music/2026/mar/10/rihanna-shooting-woman-charged)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

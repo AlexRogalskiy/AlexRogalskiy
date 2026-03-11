@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Collecting AI Prompting Files in One Place](https://news.ycombinator.com/item?id=47318928)
-- [Startups.RIP](https://startups.rip/)
-- [What&#39;s Tech&#39;in?](https://news.ycombinator.com/item?id=47318902)
-- [Meta, Google Pivot in Addiction Trial to Accuser&#39;s History](https://www.bloomberg.com/news/articles/2026-03-09/meta-google-pivot-in-addiction-trial-to-accuser-s-home-life)
-- [Phlex: Ruby gem for building HTML and SVG view components](https://www.phlex.fun/)
-- [EQT eyes potential $6B sale of Linux pioneer SUSE, sources say](https://www.reuters.com/business/eqt-eyes-potential-6-billion-sale-linux-pioneer-suse-sources-say-2026-03-09)
-- [Nextvi 4.0 – A small, hackable vi/ex editor with an optional patch system](https://github.com/kyx0r/nextvi)
-- [Personal MCP server on every Claude platform without Auth0](https://github.com/crumrine/fastmcp-personal-auth)
-- [SSH Secret Menu](https://twitter.com/rebane2001/status/2031037389347406054)
-- [Strict Monospace Font with Nerd Fonts and Emoji for AI and Human, AI-CLIs Users](https://www.npmjs.com/package/@monolex/codexmono)
+- [Ask HN: How are you managing &quot;prompt fatigue&quot; and lazy LLM outputs?](https://news.ycombinator.com/item?id=47331614)
+- [Show HN: ClawSoc – Observe Your AI Agent in an AI Society](https://clawsoc.io)
+- [Promptbuilder Tool](https://promptengine.business)
+- [Show HN: Magicly – an aesthetic new tab with a magic orb](https://chromewebstore.google.com/detail/magicly/lphplecibkpifdmohbockmaloepgpbbl)
+- [.NET 11 Preview 2 is now available](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-2/)
+- [MacBook Neo Review: No Other Budget Laptop Can Compete](https://gizmodo.com/macbook-neo-review-no-other-budget-laptop-can-compete-2000731635)
+- [Signal Design for Good Correlation](https://www.cambridge.org/core/books/signal-design-for-good-correlation/4A48F8F2070E0EB093283A792A1DF9FA)
+- [How the &quot;godfathers of AI&quot; have shaped our mission](https://ctsmyth.substack.com/p/standing-with-giants)
+- [Show HN: CryptoFlora – Visualize SHA256 to a flower using Rose curves](https://crypto-flora.tonytonyjan.net/)
+- [Preview a website before DNS changes – etchosts.link](https://etchosts.link/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

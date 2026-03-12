@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Iran war live updates: Regime issues threat against protesters; drone reportedly hits major US diplomatic facility in Iraq](https://www.theguardian.com/world/live/2026/mar/11/iran-war-live-updates-trump-oil-hormuz-protestors-us-israel-beirut-middle-east-latest-news)
-- [‘If I go home, we don’t have enough money’: the low-paid Filipino workers caught up in the war on Iran](https://www.theguardian.com/world/2026/mar/11/iran-war-filipino-workers-israel)
-- [‘My lovely distraction’: live stream of kākāpō – world’s fattest parrot – and her chicks captivates New Zealand](https://www.theguardian.com/world/2026/mar/11/kakapo-cam-live-stream-parrot-new-zealand)
-- [Ukraine war briefing: Zelenskyy accuses Hungary of ‘banditry’ over $82m of seized gold](https://www.theguardian.com/world/2026/mar/11/ukraine-war-briefing-zelenskyy-accuses-hungary-of-banditry-over-82m-of-seized-gold)
-- [Shabana Mahmood approves police request to ban Al Quds march in London](https://www.theguardian.com/politics/2026/mar/11/shabana-mahmood-approves-police-request-to-ban-al-quds-march-in-london)
-- [Louis Theroux: Inside the Manosphere review – why doesn’t he focus more on the impact on women?](https://www.theguardian.com/tv-and-radio/2026/mar/11/louis-theroux-inside-the-manosphere-review-why-doesnt-he-focus-more-on-the-impact-on-women)
-- [How a bid for freedom by Iran’s women footballers unfolded in Australia](https://www.theguardian.com/australia-news/2026/mar/10/how-iranian-women-footballers-bid-for-freedom-went-deep-into-extra-time)
-- [Igor Tudor says he was protecting Kinsky with Spurs substitution at Atlético](https://www.theguardian.com/football/2026/mar/10/tudor-says-he-was-protecting-kinsky-with-tottenham-substitution)
-- [Sabalenka powers past Osaka to reach Indian Wells quarter-finals](https://www.theguardian.com/sport/2026/mar/10/sabalenka-powers-past-osaka-to-reach-indian-wells-quarter-finals)
-- [Woman charged with attempted murder in shooting at home of Rihanna](https://www.theguardian.com/music/2026/mar/10/rihanna-shooting-woman-charged)
+- [Middle East crisis live: Iraqi tankers hit as Iran targets oil supplies; US orders petroleum reserve release in bid to calm markets](https://www.theguardian.com/world/live/2026/mar/11/iran-war-live-updates-trump-oil-hormuz-protestors-us-israel-beirut-middle-east-latest-news)
+- [Quit fossil fuels to stem deadly floods in Brazil’s coffee heartland, say scientists](https://www.theguardian.com/world/2026/mar/12/quit-fossil-fuels-to-stem-deadly-floods-in-brazils-coffee-heartland-say-scientists)
+- [Noma chef resigns amid shocking allegations of physical abuse of staff](https://www.theguardian.com/food/2026/mar/11/noma-chef-resigns-rene-redzepi)
+- [Trump news at a glance: Trump says war is won but ‘we don’t want to leave early’ as oil prices rise again](https://www.theguardian.com/us-news/2026/mar/12/trump-administration-news-updates-today)
+- [Ukraine war briefing: row between Kyiv and Hungary over pipeline carrying Russian oil deepens](https://www.theguardian.com/world/2026/mar/12/ukraine-war-briefing-row-between-kyiv-and-hungary-over-pipeline-carrying-russian-oil-deepens)
+- [Israel bombards Beirut suburbs and southern Lebanon as conflict with Hezbollah escalates](https://www.theguardian.com/world/2026/mar/12/israel-bombards-beirut-southern-lebanon-hezbollah)
+- [‘Convincing’ AI scams drove UK fraud cases to record 444,000 last year](https://www.theguardian.com/money/2026/mar/12/ai-scams-uk-fraud-artificial-intelligence-mobile-bank-online-shopping-cifas)
+- [China’s rubber-stamp parliament set to approve ‘ethnic unity’ law](https://www.theguardian.com/world/2026/mar/12/china-ethnic-unity-law-parliament)
+- [‘Sly stowaway’ fox finds new home at Bronx Zoo after illicit transatlantic trip](https://www.theguardian.com/uk-news/2026/mar/11/stowaway-fox-travels-on-cargo-ship-from-england-to-us)
+- [Championship roundup: Coventry pull away as Middlesbrough lose to Charlton](https://www.theguardian.com/football/2026/mar/11/championship-roundup-coventry-preston-eight-points-middlesbrough)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ask HN: How are you managing &quot;prompt fatigue&quot; and lazy LLM outputs?](https://news.ycombinator.com/item?id=47331614)
-- [Show HN: ClawSoc – Observe Your AI Agent in an AI Society](https://clawsoc.io)
-- [Promptbuilder Tool](https://promptengine.business)
-- [Show HN: Magicly – an aesthetic new tab with a magic orb](https://chromewebstore.google.com/detail/magicly/lphplecibkpifdmohbockmaloepgpbbl)
-- [.NET 11 Preview 2 is now available](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-2/)
-- [MacBook Neo Review: No Other Budget Laptop Can Compete](https://gizmodo.com/macbook-neo-review-no-other-budget-laptop-can-compete-2000731635)
-- [Signal Design for Good Correlation](https://www.cambridge.org/core/books/signal-design-for-good-correlation/4A48F8F2070E0EB093283A792A1DF9FA)
-- [How the &quot;godfathers of AI&quot; have shaped our mission](https://ctsmyth.substack.com/p/standing-with-giants)
-- [Show HN: CryptoFlora – Visualize SHA256 to a flower using Rose curves](https://crypto-flora.tonytonyjan.net/)
-- [Preview a website before DNS changes – etchosts.link](https://etchosts.link/)
+- [Show HN: AutoICD API – AI clinical coding platform for ICD-10 and SNOMED](https://autoicdapi.com)
+- [Everyone&#39;s new favorite protein bar hit with class-action lawsuit over calories](https://www.nbcnewyork.com/news/david-protein-bar-calories-class-action-lawsuit/6475387/)
+- [Quantsynth – Forecast evaluation and dataset analysis before modeling](https://quantsynth.org/)
+- [Show HN: MCP server for ICD-10 and SNOMED clinical coding](https://github.com/fcggamou/autoicd-mcp)
+- [Tetris Is Hard with Just One Piece Type](https://arxiv.org/abs/2603.09958)
+- [Why Big Nations Lose Small Wars: The Politics of Asymmetric Conflict](https://www.researchgate.net/publication/259380603_Why_Big_Nations_Lose_Small_Wars_The_Politics_of_Asymmetric_Conflict)
+- [I Stopped Writing Prompts and Started Writing Systems](https://medium.com/@robert.shane.kirkpatrick/i-stopped-writing-prompts-and-started-writing-systems-the-results-werent-even-close-c1d4d2f64c1a)
+- [Fossil Version 2.28](https://fossil-scm.org/home/info/version-2.28)
+- [The United States Could Lose the Gulf](https://foreignpolicy.com/2026/03/05/iran-israel-united-states-war-gulf-countries-alliances/)
+- [Oil hits $100 a barrel despite deal to release record amount of reserves](https://www.bbc.com/news/articles/c1w5141vx53o)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

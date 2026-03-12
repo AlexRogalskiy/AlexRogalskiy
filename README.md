@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Writing my own text editor, and daily-driving it](https://blog.jsbarretto.com/post/text-editor)
-- [Zig – Type Resolution Redesign and Language Changes](https://ziglang.org/devlog/2026/#2026-03-10)
-- [Universal vaccine against respiratory infections and allergens](https://med.stanford.edu/news/all-news/2026/02/universal-vaccine.html)
-- [U+237C ⍼ Is Azimuth](https://ionathan.ch/2026/02/16/angzarr.html)
-- [Cloudflare crawl endpoint](https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/)
-- [RISC-V Is Sloooow](https://marcin.juszkiewicz.com.pl/2026/03/10/risc-v-is-sloooow/)
-- [Tell HN: Apple development certificate server seems down?](https://news.ycombinator.com/item?id=47328034)
-- [Agents that run while I sleep](https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep)
-- [Mesh over Bluetooth LE, TCP, or Reticulum](https://github.com/torlando-tech/columba)
-- [FFmpeg-over-IP – Connect to remote FFmpeg servers](https://github.com/steelbrain/ffmpeg-over-ip)
+- [DHS Contracts Explorer – Hacked data from the Office of Industry Partnership](https://micahflee.github.io/ice-contracts/)
+- [Urea prices](https://tradingeconomics.com/commodity/urea)
+- [How much of HN is AI?](https://lcamtuf.substack.com/p/how-much-of-hn-is-ai)
+- [Show HN: s@: decentralized social networking over static sites](http://satproto.org/)
+- [Show HN: Autoresearch@home](https://www.ensue-network.ai/autoresearch)
+- [Show HN: A context-aware permission guard for Claude Code](https://github.com/manuelschipper/nah/)
+- [Atlassian to cut roughly 1,600 jobs in pivot to AI](https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/)
+- [Preliminary data from a longitudinal AI impact study](https://newsletter.getdx.com/p/ai-productivity-gains-are-10-not)
+- [Britain is ejecting hereditary nobles from Parliament after 700 years](https://apnews.com/article/uk-house-of-lords-hereditary-peers-expelled-535df8781dd01e8970acda1dca99d3d4)
+- [Meticulous &lpar;YC S21&rpar; is hiring to redefine software dev](https://jobs.ashbyhq.com/meticulous/3197ae3d-bb26-4750-9ed7-b830f640515e)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

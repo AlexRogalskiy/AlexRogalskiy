@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: AutoICD API – AI clinical coding platform for ICD-10 and SNOMED](https://autoicdapi.com)
-- [Everyone&#39;s new favorite protein bar hit with class-action lawsuit over calories](https://www.nbcnewyork.com/news/david-protein-bar-calories-class-action-lawsuit/6475387/)
-- [Quantsynth – Forecast evaluation and dataset analysis before modeling](https://quantsynth.org/)
-- [Show HN: MCP server for ICD-10 and SNOMED clinical coding](https://github.com/fcggamou/autoicd-mcp)
-- [Tetris Is Hard with Just One Piece Type](https://arxiv.org/abs/2603.09958)
-- [Why Big Nations Lose Small Wars: The Politics of Asymmetric Conflict](https://www.researchgate.net/publication/259380603_Why_Big_Nations_Lose_Small_Wars_The_Politics_of_Asymmetric_Conflict)
-- [I Stopped Writing Prompts and Started Writing Systems](https://medium.com/@robert.shane.kirkpatrick/i-stopped-writing-prompts-and-started-writing-systems-the-results-werent-even-close-c1d4d2f64c1a)
-- [Fossil Version 2.28](https://fossil-scm.org/home/info/version-2.28)
-- [The United States Could Lose the Gulf](https://foreignpolicy.com/2026/03/05/iran-israel-united-states-war-gulf-countries-alliances/)
-- [Oil hits $100 a barrel despite deal to release record amount of reserves](https://www.bbc.com/news/articles/c1w5141vx53o)
+- [From Optician to $62k MRR in 3 Months: AI Code Editors Reshaping SaaS](https://news.ycombinator.com/item?id=47360567)
+- [CLI-Anything](https://github.com/HKUDS/CLI-Anything)
+- [We compare model quality in Cursor](https://cursor.com/blog/cursorbench)
+- [An Overview of the Amoeba Distributed Operating System – Tanenbaum](https://dl.acm.org/doi/pdf/10.1145/1041500.1041502)
+- [T4a – Terminals for Agents](https://github.com/denoland/t4a)
+- [Fast non-Chromium browser for AI agents: LightPanda](https://lightpanda.io)
+- [Kobalt Tools](https://kbalt.com/)
+- [Give Your AI Agent a Live Status Page](https://clawjetty.com/###)
+- [Enabling Media Router by default undermines Brave&#39;s privacy claims](https://news.ycombinator.com/item?id=47360431)
+- [Rackup, a Toolchain Manager for Racket](https://samth.github.io/rackup/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

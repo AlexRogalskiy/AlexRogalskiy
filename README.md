@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Middle East crisis live: Iraqi tankers hit as Iran targets oil supplies; US orders petroleum reserve release in bid to calm markets](https://www.theguardian.com/world/live/2026/mar/11/iran-war-live-updates-trump-oil-hormuz-protestors-us-israel-beirut-middle-east-latest-news)
-- [Quit fossil fuels to stem deadly floods in Brazil’s coffee heartland, say scientists](https://www.theguardian.com/world/2026/mar/12/quit-fossil-fuels-to-stem-deadly-floods-in-brazils-coffee-heartland-say-scientists)
-- [Noma chef resigns amid shocking allegations of physical abuse of staff](https://www.theguardian.com/food/2026/mar/11/noma-chef-resigns-rene-redzepi)
-- [Trump news at a glance: Trump says war is won but ‘we don’t want to leave early’ as oil prices rise again](https://www.theguardian.com/us-news/2026/mar/12/trump-administration-news-updates-today)
-- [Ukraine war briefing: row between Kyiv and Hungary over pipeline carrying Russian oil deepens](https://www.theguardian.com/world/2026/mar/12/ukraine-war-briefing-row-between-kyiv-and-hungary-over-pipeline-carrying-russian-oil-deepens)
-- [Israel bombards Beirut suburbs and southern Lebanon as conflict with Hezbollah escalates](https://www.theguardian.com/world/2026/mar/12/israel-bombards-beirut-southern-lebanon-hezbollah)
-- [‘Convincing’ AI scams drove UK fraud cases to record 444,000 last year](https://www.theguardian.com/money/2026/mar/12/ai-scams-uk-fraud-artificial-intelligence-mobile-bank-online-shopping-cifas)
-- [China’s rubber-stamp parliament set to approve ‘ethnic unity’ law](https://www.theguardian.com/world/2026/mar/12/china-ethnic-unity-law-parliament)
-- [‘Sly stowaway’ fox finds new home at Bronx Zoo after illicit transatlantic trip](https://www.theguardian.com/uk-news/2026/mar/11/stowaway-fox-travels-on-cargo-ship-from-england-to-us)
-- [Championship roundup: Coventry pull away as Middlesbrough lose to Charlton](https://www.theguardian.com/football/2026/mar/11/championship-roundup-coventry-preston-eight-points-middlesbrough)
+- [Middle East crisis live: rescue effort under way after US refuelling plane with five onboard crashes in Iraq](https://www.theguardian.com/world/live/2026/mar/13/iran-war-news-live-updates-us-israel-middle-east-crisis-latest)
+- [Draper knocked out as Medvedev capitalises on controversial call in Indian Wells](https://www.theguardian.com/sport/2026/mar/13/cameron-norrie-carlos-alcaraz-jack-draper-indian-wells-tennis)
+- [The kill line v Chinamaxxing: a window into how China and the US see each other](https://www.theguardian.com/world/ng-interactive/2026/mar/13/chinamaxxing-social-media-trend-gen-z-china-us)
+- [Ukraine war briefing: Putin envoy says US better understands importance of Russian oil amid energy crisis](https://www.theguardian.com/world/2026/mar/13/ukraine-war-briefing-putin-envoy-says-us-better-understands-importance-of-russian-oil-amid-energy-crisis)
+- [‘IG is a drug’: jury to deliberate as US trial over social media addiction wraps up](https://www.theguardian.com/technology/2026/mar/12/social-media-addiction-trial)
+- [Suspect dead after ramming vehicle into Michigan synagogue, officials say](https://www.theguardian.com/us-news/2026/mar/12/temple-israel-synagogue-shooter-police)
+- [BBC World Service funding freeze risks ‘opening door to hostile states’, MPs say](https://www.theguardian.com/media/2026/mar/13/bbc-world-service-funding-freeze-risks-opening-door-to-hostile-states-mps-say)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2026/mar/13/premier-league-10-things-to-look-out-for-this-weekend)
+- [Redress schemes for Post Office Horizon scandal have serious failings, MPs find](https://www.theguardian.com/uk-news/2026/mar/13/post-office-horizon-scandal-redress-schemes-serious-failings-mps-find)
+- [SUV drivers could face extra charges for driving in London](https://www.theguardian.com/uk-news/2026/mar/13/suv-drivers-could-face-extra-charges-for-driving-in-london)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

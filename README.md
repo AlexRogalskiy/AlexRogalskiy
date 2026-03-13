@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [DHS Contracts Explorer – Hacked data from the Office of Industry Partnership](https://micahflee.github.io/ice-contracts/)
-- [Urea prices](https://tradingeconomics.com/commodity/urea)
-- [How much of HN is AI?](https://lcamtuf.substack.com/p/how-much-of-hn-is-ai)
-- [Show HN: s@: decentralized social networking over static sites](http://satproto.org/)
-- [Show HN: Autoresearch@home](https://www.ensue-network.ai/autoresearch)
-- [Show HN: A context-aware permission guard for Claude Code](https://github.com/manuelschipper/nah/)
-- [Atlassian to cut roughly 1,600 jobs in pivot to AI](https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/)
-- [Preliminary data from a longitudinal AI impact study](https://newsletter.getdx.com/p/ai-productivity-gains-are-10-not)
-- [Britain is ejecting hereditary nobles from Parliament after 700 years](https://apnews.com/article/uk-house-of-lords-hereditary-peers-expelled-535df8781dd01e8970acda1dca99d3d4)
-- [Meticulous &lpar;YC S21&rpar; is hiring to redefine software dev](https://jobs.ashbyhq.com/meticulous/3197ae3d-bb26-4750-9ed7-b830f640515e)
+- [Can You Instruct a Robot to Make a PBJ Sandwich?](https://pbj.deliberateinc.com/)
+- [Golden Sets: Regression Engineering for Probabilistic Systems](https://heavythoughtcloud.com/knowledge/designing-a-golden-set)
+- [“This is not the computer for you”](https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/)
+- [Shall I implement it? No](https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0)
+- [Innocent woman jailed after being misidentified using AI facial recognition](https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case)
+- [Bringing Chrome to ARM64 Linux Devices](https://blog.chromium.org/2026/03/bringing-chrome-to-arm64-linux-devices.html)
+- [Launch HN: IonRouter &lpar;YC W26&rpar; – High-throughput, low-cost inference](https://ionrouter.io)
+- [Bubble Sorted Amen Break](https://parametricavocado.itch.io/amen-sorting)
+- [Converge &lpar;YC S23&rpar; Is Hiring a Founding Platform Engineer &lpar;NYC, Onsite&rpar;](https://www.runconverge.com/careers/founding-platform-engineer)
+- [Show HN: OneCLI – Vault for AI Agents in Rust](https://github.com/onecli/onecli)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

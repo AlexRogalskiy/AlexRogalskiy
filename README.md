@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [From Optician to $62k MRR in 3 Months: AI Code Editors Reshaping SaaS](https://news.ycombinator.com/item?id=47360567)
-- [CLI-Anything](https://github.com/HKUDS/CLI-Anything)
-- [We compare model quality in Cursor](https://cursor.com/blog/cursorbench)
-- [An Overview of the Amoeba Distributed Operating System – Tanenbaum](https://dl.acm.org/doi/pdf/10.1145/1041500.1041502)
-- [T4a – Terminals for Agents](https://github.com/denoland/t4a)
-- [Fast non-Chromium browser for AI agents: LightPanda](https://lightpanda.io)
-- [Kobalt Tools](https://kbalt.com/)
-- [Give Your AI Agent a Live Status Page](https://clawjetty.com/###)
-- [Enabling Media Router by default undermines Brave&#39;s privacy claims](https://news.ycombinator.com/item?id=47360431)
-- [Rackup, a Toolchain Manager for Racket](https://samth.github.io/rackup/)
+- [&#39;Not built right the first time&#39;, Musk&#39;s xAI is starting over again, again](https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/)
+- [The Most Accurately Predicted Genocide in History](https://thewalrus.ca/sudan-genocide/)
+- [Show HN: Lazy as a Service – Antigravity Extension](https://github.com/lakathekolla/laas)
+- [I Fixed Green Screens [video]](https://www.youtube.com/watch?v=3Ploi723hg4)
+- [The Middle Loop](https://annievella.com/posts/the-middle-loop/)
+- [Meta Delays Rollout of New A.I. Model After Performance Concerns](https://www.nytimes.com/2026/03/12/technology/meta-avocado-ai-model-delayed.html)
+- [Revenue can hide unprofitable freelance clients](https://news.ycombinator.com/item?id=47373093)
+- [Nanoclaw flavor that allows you set it up as an Executive Assistant](https://github.com/taslim/nanoclaw-gws-ea)
+- [Show HN: Reflex Engine SDK – local action validation with replayable artifacts](https://github.com/caminodynamics/reflex-engine-sdk)
+- [Apple&#39;s adorable Finder guy has broken the internet](https://www.macworld.com/article/3082576/apples-adorable-finder-guy-has-broken-the-internet.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

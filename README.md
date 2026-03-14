@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Middle East crisis live: rescue effort under way after US refuelling plane with five onboard crashes in Iraq](https://www.theguardian.com/world/live/2026/mar/13/iran-war-news-live-updates-us-israel-middle-east-crisis-latest)
-- [Draper knocked out as Medvedev capitalises on controversial call in Indian Wells](https://www.theguardian.com/sport/2026/mar/13/cameron-norrie-carlos-alcaraz-jack-draper-indian-wells-tennis)
-- [The kill line v Chinamaxxing: a window into how China and the US see each other](https://www.theguardian.com/world/ng-interactive/2026/mar/13/chinamaxxing-social-media-trend-gen-z-china-us)
-- [Ukraine war briefing: Putin envoy says US better understands importance of Russian oil amid energy crisis](https://www.theguardian.com/world/2026/mar/13/ukraine-war-briefing-putin-envoy-says-us-better-understands-importance-of-russian-oil-amid-energy-crisis)
-- [‘IG is a drug’: jury to deliberate as US trial over social media addiction wraps up](https://www.theguardian.com/technology/2026/mar/12/social-media-addiction-trial)
-- [Suspect dead after ramming vehicle into Michigan synagogue, officials say](https://www.theguardian.com/us-news/2026/mar/12/temple-israel-synagogue-shooter-police)
-- [BBC World Service funding freeze risks ‘opening door to hostile states’, MPs say](https://www.theguardian.com/media/2026/mar/13/bbc-world-service-funding-freeze-risks-opening-door-to-hostile-states-mps-say)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2026/mar/13/premier-league-10-things-to-look-out-for-this-weekend)
-- [Redress schemes for Post Office Horizon scandal have serious failings, MPs find](https://www.theguardian.com/uk-news/2026/mar/13/post-office-horizon-scandal-redress-schemes-serious-failings-mps-find)
-- [SUV drivers could face extra charges for driving in London](https://www.theguardian.com/uk-news/2026/mar/13/suv-drivers-could-face-extra-charges-for-driving-in-london)
+- [Middle East crisis live: Iran threatens to attack US-linked oil targets after strikes on its Kharg Island](https://www.theguardian.com/world/live/2026/mar/13/iran-war-news-live-updates-us-israel-middle-east-crisis-latest)
+- [Fake rooms, props and a script to lure victims: inside an abandoned Cambodia scam centre](https://www.theguardian.com/technology/2026/mar/14/inside-abandoned-scam-centre-cambodia-thai-border)
+- [Meta reportedly plans sweeping layoffs as AI costs increase](https://www.theguardian.com/technology/2026/mar/13/meta-layoffs-ai)
+- [The Claudia Winkleman Show review – yes we love her, but this chatshow is a mess](https://www.theguardian.com/tv-and-radio/2026/mar/13/the-claudia-winkleman-show-review-bbc)
+- [The environmental cost of datacentres is rising. Is it time to quit AI?](https://www.theguardian.com/australia-news/2026/mar/13/ai-datacentres-environmental-impacts)
+- [Hollywood in the gantry: Welsh derby gets Wrexham-heavy makeover](https://www.theguardian.com/football/2026/mar/13/hollywood-in-the-gantry-welsh-derby-gets-wrexham-heavy-makeover)
+- [Premier League news: Arteta denies his team ‘block’ at set pieces; Slot rues Isak absence](https://www.theguardian.com/football/2026/mar/13/premier-league-news-manchester-united-chelsea-liverpool-arsenal-newcastle)
+- [‘Every time I lose, boom’: Guardiola offers feisty defence of City’s tactics](https://www.theguardian.com/football/2026/mar/13/pep-guardiola-feisty-defence-manchester-city-tactics)
+- [Anti-ICE protesters accused of being part of antifa found guilty of support for terrorism in Texas](https://www.theguardian.com/us-news/2026/mar/13/texas-terrorism-trial)
+- [Catholic priest in Louisiana charged with child sexual abuse](https://www.theguardian.com/us-news/2026/mar/13/catholic-priest-louisiana-charged)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

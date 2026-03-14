@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Can You Instruct a Robot to Make a PBJ Sandwich?](https://pbj.deliberateinc.com/)
-- [Golden Sets: Regression Engineering for Probabilistic Systems](https://heavythoughtcloud.com/knowledge/designing-a-golden-set)
-- [“This is not the computer for you”](https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/)
-- [Shall I implement it? No](https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0)
-- [Innocent woman jailed after being misidentified using AI facial recognition](https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case)
-- [Bringing Chrome to ARM64 Linux Devices](https://blog.chromium.org/2026/03/bringing-chrome-to-arm64-linux-devices.html)
-- [Launch HN: IonRouter &lpar;YC W26&rpar; – High-throughput, low-cost inference](https://ionrouter.io)
-- [Bubble Sorted Amen Break](https://parametricavocado.itch.io/amen-sorting)
-- [Converge &lpar;YC S23&rpar; Is Hiring a Founding Platform Engineer &lpar;NYC, Onsite&rpar;](https://www.runconverge.com/careers/founding-platform-engineer)
-- [Show HN: OneCLI – Vault for AI Agents in Rust](https://github.com/onecli/onecli)
+- [Optimizing Content for Agents](https://cra.mr/optimizing-content-for-agents/)
+- [An investigation of the forces behind the age-verification bills](https://old.reddit.com/r/linux/comments/1rshc1f/i_traced_2_billion_in_nonprofit_grants_and_45/)
+- [Our Experience with I-Ready](https://moultano.wordpress.com/2026/03/12/our-experience-with-i-ready/)
+- [Games with loot boxes to get minimum 16 age rating across Europe](https://www.bbc.com/news/articles/cge84xqjg5lo)
+- [I Found 39 Algolia Admin Keys Exposed Across Open Source Documentation Sites](https://benzimmermann.dev/blog/algolia-docsearch-admin-keys)
+- [Stanford researchers report first recording of a blue whale&#39;s heart rate &lpar;2019&rpar;](https://news.stanford.edu/stories/2019/11/first-ever-recording-blue-whales-heart-rate)
+- [Mouser: An open source alternative to Logi-Plus mouse software](https://github.com/TomBadash/MouseControl)
+- [Hammerspoon](https://github.com/Hammerspoon/hammerspoon)
+- [Your phone is an entire computer](https://medhir.com/blog/your-phone-is-an-entire-computer)
+- [Show HN: Context Gateway – Compress agent context before it hits the LLM](https://github.com/Compresr-ai/Context-Gateway)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [&#39;Not built right the first time&#39;, Musk&#39;s xAI is starting over again, again](https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/)
-- [The Most Accurately Predicted Genocide in History](https://thewalrus.ca/sudan-genocide/)
-- [Show HN: Lazy as a Service – Antigravity Extension](https://github.com/lakathekolla/laas)
-- [I Fixed Green Screens [video]](https://www.youtube.com/watch?v=3Ploi723hg4)
-- [The Middle Loop](https://annievella.com/posts/the-middle-loop/)
-- [Meta Delays Rollout of New A.I. Model After Performance Concerns](https://www.nytimes.com/2026/03/12/technology/meta-avocado-ai-model-delayed.html)
-- [Revenue can hide unprofitable freelance clients](https://news.ycombinator.com/item?id=47373093)
-- [Nanoclaw flavor that allows you set it up as an Executive Assistant](https://github.com/taslim/nanoclaw-gws-ea)
-- [Show HN: Reflex Engine SDK – local action validation with replayable artifacts](https://github.com/caminodynamics/reflex-engine-sdk)
-- [Apple&#39;s adorable Finder guy has broken the internet](https://www.macworld.com/article/3082576/apples-adorable-finder-guy-has-broken-the-internet.html)
+- [How Discord Stores Trillions of Messages](https://discord.com/blog/how-discord-stores-trillions-of-messages)
+- [Robinhood Is Hiring](https://twitter.com/JobsNowPR/status/2032866987815125447)
+- [Queueing Theory of Traffic](https://jslandy.com/traffic-queue/)
+- [OpenMW Xbox-UI Fork](https://ilikegothmommys.gitlab.io/openmw-xbox/)
+- [Free Iran War Monitor](https://iran.airealist.org/)
+- [This 18 year old has 12 $200 Codex Plans](https://www.youtube.com/watch?v=i4TBE3Et3I8)
+- [Nvidia Is Planning to Launch an Open-Source AI Agent Platform](https://www.wired.com/story/nvidia-planning-ai-agent-platform-launch-open-source/)
+- [EA Lays Off Staff Following Record-Breaking Battlefield 6 Launch](https://www.ign.com/articles/ea-lays-off-staff-across-all-battlefield-studios-following-record-breaking-battlefield-6-launch)
+- [Paper: AI models are faking their step by step thinking](https://twitter.com/thetripathi58/status/2032775838329090191)
+- [Dreamfarm product copied by large competitors](https://www.news.com.au/lifestyle/home/interiors/ripped-off-kmart-slammed-for-unaustralian-act/news-story/cc61c88042ba27688f00d8534c9ad3d3)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

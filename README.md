@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Middle East crisis live: Iran threatens to attack US-linked oil targets after strikes on its Kharg Island](https://www.theguardian.com/world/live/2026/mar/13/iran-war-news-live-updates-us-israel-middle-east-crisis-latest)
-- [Fake rooms, props and a script to lure victims: inside an abandoned Cambodia scam centre](https://www.theguardian.com/technology/2026/mar/14/inside-abandoned-scam-centre-cambodia-thai-border)
-- [Meta reportedly plans sweeping layoffs as AI costs increase](https://www.theguardian.com/technology/2026/mar/13/meta-layoffs-ai)
-- [The Claudia Winkleman Show review – yes we love her, but this chatshow is a mess](https://www.theguardian.com/tv-and-radio/2026/mar/13/the-claudia-winkleman-show-review-bbc)
-- [The environmental cost of datacentres is rising. Is it time to quit AI?](https://www.theguardian.com/australia-news/2026/mar/13/ai-datacentres-environmental-impacts)
-- [Hollywood in the gantry: Welsh derby gets Wrexham-heavy makeover](https://www.theguardian.com/football/2026/mar/13/hollywood-in-the-gantry-welsh-derby-gets-wrexham-heavy-makeover)
-- [Premier League news: Arteta denies his team ‘block’ at set pieces; Slot rues Isak absence](https://www.theguardian.com/football/2026/mar/13/premier-league-news-manchester-united-chelsea-liverpool-arsenal-newcastle)
-- [‘Every time I lose, boom’: Guardiola offers feisty defence of City’s tactics](https://www.theguardian.com/football/2026/mar/13/pep-guardiola-feisty-defence-manchester-city-tactics)
-- [Anti-ICE protesters accused of being part of antifa found guilty of support for terrorism in Texas](https://www.theguardian.com/us-news/2026/mar/13/texas-terrorism-trial)
-- [Catholic priest in Louisiana charged with child sexual abuse](https://www.theguardian.com/us-news/2026/mar/13/catholic-priest-louisiana-charged)
+- [Middle East crisis live: Trump ‘surprised’ Iran has targeted Gulf countries and claims US ‘decimated’ Kharg Island](https://www.theguardian.com/world/live/2026/mar/15/iran-war-news-live-updates-us-israel-middle-east-crisis-latest-kharg-island)
+- [Trump news at a glance: president says Iran’s Kharg Island ‘demolished’ and threatens more strikes ‘just for fun’](https://www.theguardian.com/us-news/2026/mar/15/trump-administration-news-updates-today)
+- [Ukraine war briefing: six people killed as Russia unleashes missile and drone attacks, officials say](https://www.theguardian.com/world/2026/mar/15/ukraine-war-briefing-six-people-killed-as-russia-unleashes-missile-and-drone-attacks-officials-say)
+- [Trump says US may strike Iran’s Kharg Island oil export hub ‘just for fun’](https://www.theguardian.com/world/2026/mar/14/us-kharg-island-oil-export-hub)
+- [Scheffler searches for form with Masters looming as Åberg leads the way at Players](https://www.theguardian.com/sport/2026/mar/14/scottie-scheffler-the-masters-golf-the-players-championship-ludvig-aberg)
+- [London’s Burning actor John Alford, 54, dies in prison](https://www.theguardian.com/society/2026/mar/14/londons-burning-actor-john-alford-54-dies-in-prison)
+- [I’m a middle-aged mother who hoped boxing would fix anxiety. Instead it knocked me out | Anna Spargo-Ryan](https://www.theguardian.com/commentisfree/2026/mar/15/middle-aged-mother-anxiety-boxing)
+- [France win Six Nations with last kick as Thomas Ramos sinks England in thriller](https://www.theguardian.com/sport/2026/mar/14/france-win-six-nations-with-last-kick-as-thomas-ramos-sinks-england-in-thriller)
+- [F1 cancels Bahrain and Saudi Arabia GPs because of Middle East war](https://www.theguardian.com/sport/2026/mar/14/formula-one-cancel-bahrain-saudi-arabia-grand-prix-war-middle-east)
+- [Mavropanos earns vital draw for West Ham to hurt Manchester City title hopes](https://www.theguardian.com/football/2026/mar/14/west-ham-manchester-city-premier-league-match-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

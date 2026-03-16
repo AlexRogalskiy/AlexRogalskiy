@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [How Discord Stores Trillions of Messages](https://discord.com/blog/how-discord-stores-trillions-of-messages)
-- [Robinhood Is Hiring](https://twitter.com/JobsNowPR/status/2032866987815125447)
-- [Queueing Theory of Traffic](https://jslandy.com/traffic-queue/)
-- [OpenMW Xbox-UI Fork](https://ilikegothmommys.gitlab.io/openmw-xbox/)
-- [Free Iran War Monitor](https://iran.airealist.org/)
-- [This 18 year old has 12 $200 Codex Plans](https://www.youtube.com/watch?v=i4TBE3Et3I8)
-- [Nvidia Is Planning to Launch an Open-Source AI Agent Platform](https://www.wired.com/story/nvidia-planning-ai-agent-platform-launch-open-source/)
-- [EA Lays Off Staff Following Record-Breaking Battlefield 6 Launch](https://www.ign.com/articles/ea-lays-off-staff-across-all-battlefield-studios-following-record-breaking-battlefield-6-launch)
-- [Paper: AI models are faking their step by step thinking](https://twitter.com/thetripathi58/status/2032775838329090191)
-- [Dreamfarm product copied by large competitors](https://www.news.com.au/lifestyle/home/interiors/ripped-off-kmart-slammed-for-unaustralian-act/news-story/cc61c88042ba27688f00d8534c9ad3d3)
+- [ShellScribe: AI-powered terminal session logger for your whole dev life](https://luinbytes.github.io/shellscribe/)
+- [Ironies of Automation &lpar;1983&rpar; [pdf]](https://ckrybus.com/static/papers/Bainbridge_1983_Automatica.pdf)
+- [What&#39;s the link between tattoos and vision loss?](https://theconversation.com/whats-the-link-between-tattoos-and-vision-loss-2-optometrists-explain-276049)
+- [Cog – A cognitive architecture for Claude Code &lpar;just Markdown files&rpar;](https://github.com/marciopuga/cog)
+- [ASCII and Unicode quotation marks &lpar;2007&rpar;](https://www.cl.cam.ac.uk/~mgk25/ucs/quotes.html)
+- [The Blade Runner File: A Usenet Debate &lpar;1989&rpar;](https://scribble.com/uwi/br/br-file.html)
+- [Nuke the Hormuz](https://www.chinatalk.media/p/its-time)
+- [Physicists break high-temperature superconductivity record at ambient pressure](https://phys.org/news/2026-03-ceramic-shatters-longstanding-high-temperature.html)
+- [FlyingWire – Semiconductor Building Digital Nervous Systems Deployed on Tape](https://www.siliconimist.com/p/flyingwire-mike-chieco)
+- [Lawmakers seek watchdog probe into former acting CISA chief&#39;s polygraph failures](https://www.nextgov.com/people/2026/03/lawmakers-seek-watchdog-probe-former-acting-cisa-chiefs-polygraph-failures/412122/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

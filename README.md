@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Treasure hunter freed from jail after refusing to turn over shipwreck gold](https://www.bbc.com/news/articles/cg4g7kn99q3o)
-- [Tree Search Distillation for Language Models Using PPO](https://ayushtambde.com/blog/tree-search-distillation-for-language-models-using-ppo/)
-- [How Kernel Anti-Cheats Work: A Deep Dive into Modern Game Protection](https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/)
-- [SBCL Fibers – Lightweight Cooperative Threads](https://atgreen.github.io/repl-yell/posts/sbcl-fibers/)
-- [Airbus is preparing two uncrewed combat aircraft](https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-is-preparing-two-uncrewed-combat-aircraft-from-kratos-for-first-flight-with-a-european)
-- [Show HN: GrobPaint: Somewhere Between MS Paint and Paint.net](https://github.com/groverburger/grobpaint)
-- [Ageless Linux – Software for humans of indeterminate age](https://agelesslinux.org/)
-- [Changes to OpenTTD Distribution on Steam](https://www.openttd.org/news/2026/03/14/steam-changes)
-- [Allow me to get to know you, mistakes and all](https://sebi.io/posts/2026-03-14-allow-me-to-get-to-know-you-mistakes-and-all/)
-- [Learning Creative Coding](https://stigmollerhansen.dk/resume/learning-creative-coding/)
+- [AI tools are making me lose interest in CS fundamentals](https://news.ycombinator.com/item?id=47394291)
+- [Federal Right to Privacy Act – Draft legislation](https://righttoprivacyact.github.io)
+- [How I write software with LLMs](https://www.stavros.io/posts/how-i-write-software-with-llms/)
+- [Quillx is an open standard for disclosing AI involvement in software projects](https://github.com/QAInsights/AIx)
+- [What is agentic engineering?](https://simonwillison.net/guides/agentic-engineering-patterns/what-is-agentic-engineering/)
+- [An experiment to use GitHub Actions as a control plane for a PaaS](https://towlion.github.io)
+- [Cannabinoids remove plaque-forming Alzheimer&#39;s proteins from brain cells &lpar;2016&rpar;](https://www.salk.edu/news-release/cannabinoids-remove-plaque-forming-alzheimers-proteins-from-brain-cells/)
+- [The Linux Programming Interface as a university course text](https://man7.org/tlpi/academic/index.html)
+- [Nasdaq&#39;s Shame](https://keubiko.substack.com/p/nasdaqs-shame)
+- [A new Bigfoot documentary helps explain our conspiracy-minded era](https://www.msn.com/en-us/news/us/a-new-bigfoot-documentary-helps-explain-our-conspiracy-minded-era/ar-AA1Yv6px)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

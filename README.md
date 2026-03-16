@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Middle East crisis live: Trump ‘surprised’ Iran has targeted Gulf countries and claims US ‘decimated’ Kharg Island](https://www.theguardian.com/world/live/2026/mar/15/iran-war-news-live-updates-us-israel-middle-east-crisis-latest-kharg-island)
-- [Trump news at a glance: president says Iran’s Kharg Island ‘demolished’ and threatens more strikes ‘just for fun’](https://www.theguardian.com/us-news/2026/mar/15/trump-administration-news-updates-today)
-- [Ukraine war briefing: six people killed as Russia unleashes missile and drone attacks, officials say](https://www.theguardian.com/world/2026/mar/15/ukraine-war-briefing-six-people-killed-as-russia-unleashes-missile-and-drone-attacks-officials-say)
-- [Trump says US may strike Iran’s Kharg Island oil export hub ‘just for fun’](https://www.theguardian.com/world/2026/mar/14/us-kharg-island-oil-export-hub)
-- [Scheffler searches for form with Masters looming as Åberg leads the way at Players](https://www.theguardian.com/sport/2026/mar/14/scottie-scheffler-the-masters-golf-the-players-championship-ludvig-aberg)
-- [London’s Burning actor John Alford, 54, dies in prison](https://www.theguardian.com/society/2026/mar/14/londons-burning-actor-john-alford-54-dies-in-prison)
-- [I’m a middle-aged mother who hoped boxing would fix anxiety. Instead it knocked me out | Anna Spargo-Ryan](https://www.theguardian.com/commentisfree/2026/mar/15/middle-aged-mother-anxiety-boxing)
-- [France win Six Nations with last kick as Thomas Ramos sinks England in thriller](https://www.theguardian.com/sport/2026/mar/14/france-win-six-nations-with-last-kick-as-thomas-ramos-sinks-england-in-thriller)
-- [F1 cancels Bahrain and Saudi Arabia GPs because of Middle East war](https://www.theguardian.com/sport/2026/mar/14/formula-one-cancel-bahrain-saudi-arabia-grand-prix-war-middle-east)
-- [Mavropanos earns vital draw for West Ham to hurt Manchester City title hopes](https://www.theguardian.com/football/2026/mar/14/west-ham-manchester-city-premier-league-match-report)
+- [Middle East crisis live: Trump increases pressure on allies over strait of Hormuz; flights suspended at Dubai airport](https://www.theguardian.com/world/live/2026/mar/16/iran-war-live-updates-news-oil-trump-hormuz-dubai-airport-israel-targets)
+- [Free Palestine and ICE out: how this year’s Oscars got political](https://www.theguardian.com/film/2026/mar/15/how-oscars-2026-got-political-palestine-ice)
+- [Blown call ends World Baseball Classic semi-final as USA squeeze past Dominican Republic](https://www.theguardian.com/sport/2026/mar/15/usa-dominican-republic-world-baseball-classic)
+- [Conan’s bits, O’Connell’s fangs and Jafar Panahi unimpressed: Oscars 2026 viral moments](https://www.theguardian.com/film/2026/mar/15/conan-oconnell-fangs-panahi-oscar-2026-viral-moments)
+- [Warner Bros wins a record 11 Oscars as One Battle After Another and Sinners dominate awards](https://www.theguardian.com/film/2026/mar/16/warner-bros-wins-a-record-11-oscars-as-one-battle-after-another-and-sinners-dominate-awards)
+- [One Battle After Another sweeps the Oscars as Michael B Jordan and Jessie Buckley win big](https://www.theguardian.com/film/2026/mar/15/oscars-2026-best-picture-one-battle-after-another-win)
+- [Father and son amateur cricketers combine for mammoth partnership of 590](https://www.theguardian.com/sport/2026/mar/16/father-son-cricketers-590-partnership)
+- [Ukraine war briefing: Zelenskyy wants new system to control Ukraine drone sales](https://www.theguardian.com/world/2026/mar/16/ukraine-war-briefing-zelenskyy-wants-new-system-to-control-ukraine-drone-sales)
+- [Billy Crystal pays tribute to Rob Reiner at the Oscars](https://www.theguardian.com/film/2026/mar/16/billy-crystal-pays-tribute-to-rob-reiner-at-the-oscars)
+- [Jannik Sinnner ends wait for title with Indian Wells win over Daniil Medvedev](https://www.theguardian.com/sport/2026/mar/15/indian-wells-tennis-2026-finals)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Middle East crisis live: Trump increases pressure on allies over strait of Hormuz; flights suspended at Dubai airport](https://www.theguardian.com/world/live/2026/mar/16/iran-war-live-updates-news-oil-trump-hormuz-dubai-airport-israel-targets)
-- [Free Palestine and ICE out: how this year’s Oscars got political](https://www.theguardian.com/film/2026/mar/15/how-oscars-2026-got-political-palestine-ice)
-- [Blown call ends World Baseball Classic semi-final as USA squeeze past Dominican Republic](https://www.theguardian.com/sport/2026/mar/15/usa-dominican-republic-world-baseball-classic)
-- [Conan’s bits, O’Connell’s fangs and Jafar Panahi unimpressed: Oscars 2026 viral moments](https://www.theguardian.com/film/2026/mar/15/conan-oconnell-fangs-panahi-oscar-2026-viral-moments)
-- [Warner Bros wins a record 11 Oscars as One Battle After Another and Sinners dominate awards](https://www.theguardian.com/film/2026/mar/16/warner-bros-wins-a-record-11-oscars-as-one-battle-after-another-and-sinners-dominate-awards)
-- [One Battle After Another sweeps the Oscars as Michael B Jordan and Jessie Buckley win big](https://www.theguardian.com/film/2026/mar/15/oscars-2026-best-picture-one-battle-after-another-win)
-- [Father and son amateur cricketers combine for mammoth partnership of 590](https://www.theguardian.com/sport/2026/mar/16/father-son-cricketers-590-partnership)
-- [Ukraine war briefing: Zelenskyy wants new system to control Ukraine drone sales](https://www.theguardian.com/world/2026/mar/16/ukraine-war-briefing-zelenskyy-wants-new-system-to-control-ukraine-drone-sales)
-- [Billy Crystal pays tribute to Rob Reiner at the Oscars](https://www.theguardian.com/film/2026/mar/16/billy-crystal-pays-tribute-to-rob-reiner-at-the-oscars)
-- [Jannik Sinnner ends wait for title with Indian Wells win over Daniil Medvedev](https://www.theguardian.com/sport/2026/mar/15/indian-wells-tennis-2026-finals)
+- [Middle East crisis live: Trump seeks to delay summit with China’s Xi amid Iran war; US embassy in Baghdad reportedly targeted in air attack](https://www.theguardian.com/world/live/2026/mar/17/iran-war-live-updates-news-israel-trump-strikes-us-embassy-baghdad-strait-of-hormuz-middle-east-latest)
+- [Trump news at a glance: president threatens allies for not wading into strait of Hormuz as Iran conflict continues](https://www.theguardian.com/us-news/2026/mar/16/trump-administration-news-updates-today)
+- [Afghanistan accuses Pakistan of deadly strike on Kabul hospital](https://www.theguardian.com/world/2026/mar/16/afghanistan-accuses-pakistan-of-kabul-hospital-strike-killed)
+- [Trump predicts US will have ‘honour of taking Cuba’ amid power blackout](https://www.theguardian.com/world/2026/mar/17/donald-trump-can-take-cuba-oil)
+- [Ukraine war briefing: Russia agrees to stop recruiting Kenyans in fight against Kyiv](https://www.theguardian.com/world/2026/mar/17/ukraine-war-briefing-russia-agrees-stop-recruiting-kenyans)
+- [Train delays: compensation claims to be easier under Great British Railways](https://www.theguardian.com/business/2026/mar/17/train-delays-compensation-claims-great-british-railways)
+- [Cannabis is not an effective treatment for common mental health conditions, says review](https://www.theguardian.com/society/2026/mar/16/cannabis-inot-effective-treatment-for-common-mental-health-conditions-review)
+- [Reduced physical activity due to global heating will lead to rise in health issues, study says](https://www.theguardian.com/environment/2026/mar/16/reduced-physical-activity-due-to-global-heating-rise-health-issues-study)
+- [Max Dowman has inspired Arsenal in hunt for silverware, says Mikel Arteta](https://www.theguardian.com/football/2026/mar/16/mikel-arteta-max-dowman-arsenal-silverware-quest)
+- [Thousands of flights canceled as winter storm marches across US](https://www.theguardian.com/us-news/2026/mar/16/winter-storm-airport-flight-delays-snow-tornado)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [AI tools are making me lose interest in CS fundamentals](https://news.ycombinator.com/item?id=47394291)
-- [Federal Right to Privacy Act – Draft legislation](https://righttoprivacyact.github.io)
-- [How I write software with LLMs](https://www.stavros.io/posts/how-i-write-software-with-llms/)
-- [Quillx is an open standard for disclosing AI involvement in software projects](https://github.com/QAInsights/AIx)
-- [What is agentic engineering?](https://simonwillison.net/guides/agentic-engineering-patterns/what-is-agentic-engineering/)
-- [An experiment to use GitHub Actions as a control plane for a PaaS](https://towlion.github.io)
-- [Cannabinoids remove plaque-forming Alzheimer&#39;s proteins from brain cells &lpar;2016&rpar;](https://www.salk.edu/news-release/cannabinoids-remove-plaque-forming-alzheimers-proteins-from-brain-cells/)
-- [The Linux Programming Interface as a university course text](https://man7.org/tlpi/academic/index.html)
-- [Nasdaq&#39;s Shame](https://keubiko.substack.com/p/nasdaqs-shame)
-- [A new Bigfoot documentary helps explain our conspiracy-minded era](https://www.msn.com/en-us/news/us/a-new-bigfoot-documentary-helps-explain-our-conspiracy-minded-era/ar-AA1Yv6px)
+- [Jepsen: MariaDB Galera Cluster 12.1.2](https://jepsen.io/analyses/mariadb-galera-cluster-12.1.2)
+- [US SEC preparing to scrap quarterly reporting requirement](https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/)
+- [AnswerThis &lpar;YC F25&rpar; Is Hiring](https://www.ycombinator.com/companies/answerthis/jobs/CNdatw5-founding-engineering-lead)
+- [Beyond has dropped “meat” from its name and expanded its high-protein drink line](https://plantbasednews.org/news/alternative-protein/beyond-meat-not-the-moment-rebrand/)
+- [Leanstral: Open-source agent for trustworthy coding and formal proof engineering](https://mistral.ai/news/leanstral)
+- [Meta’s renewed commitment to jemalloc](https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/)
+- [Language model teams as distributed systems](https://arxiv.org/abs/2603.12229)
+- [The “small web” is bigger than you might think](https://kevinboone.me/small_web_is_big.html)
+- [The American Healthcare Conundrum](https://github.com/rexrodeo/american-healthcare-conundrum)
+- [Launch HN: Voygr &lpar;YC W26&rpar; – A better maps API for agents and AI apps](https://news.ycombinator.com/item?id=47401042)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

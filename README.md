@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [ShellScribe: AI-powered terminal session logger for your whole dev life](https://luinbytes.github.io/shellscribe/)
-- [Ironies of Automation &lpar;1983&rpar; [pdf]](https://ckrybus.com/static/papers/Bainbridge_1983_Automatica.pdf)
-- [What&#39;s the link between tattoos and vision loss?](https://theconversation.com/whats-the-link-between-tattoos-and-vision-loss-2-optometrists-explain-276049)
-- [Cog – A cognitive architecture for Claude Code &lpar;just Markdown files&rpar;](https://github.com/marciopuga/cog)
-- [ASCII and Unicode quotation marks &lpar;2007&rpar;](https://www.cl.cam.ac.uk/~mgk25/ucs/quotes.html)
-- [The Blade Runner File: A Usenet Debate &lpar;1989&rpar;](https://scribble.com/uwi/br/br-file.html)
-- [Nuke the Hormuz](https://www.chinatalk.media/p/its-time)
-- [Physicists break high-temperature superconductivity record at ambient pressure](https://phys.org/news/2026-03-ceramic-shatters-longstanding-high-temperature.html)
-- [FlyingWire – Semiconductor Building Digital Nervous Systems Deployed on Tape](https://www.siliconimist.com/p/flyingwire-mike-chieco)
-- [Lawmakers seek watchdog probe into former acting CISA chief&#39;s polygraph failures](https://www.nextgov.com/people/2026/03/lawmakers-seek-watchdog-probe-former-acting-cisa-chiefs-polygraph-failures/412122/)
+- [SEC Prepares Proposal to Eliminate Quarterly Reporting Requirement](https://www.wsj.com/finance/regulation/sec-prepares-proposal-to-eliminate-quarterly-reporting-requirement-1d700bbb)
+- [The third agent is me [video]](https://www.youtube.com/watch?v=HbWu_eYIHKQ)
+- [Monkey Island for Commodore 64 Ground Up](https://pixeldust.se/monkey-island-project)
+- [Reverse engineering a no-name Chinese smartwatch BLE protocol &lpar;Jieli chipset&rpar;](https://github.com/TruthGh0st/C30-20-Pro-BLE-Reverse-Engineering)
+- [French Bees Are Making M&amp;M-Contaminated Blue and Green Honey &lpar;2012&rpar;](https://www.smithsonianmag.com/smart-news/french-bees-are-making-mm-contaminated-blue-and-green-honey-63756956/)
+- [The Billionaire Backlash Against a Philanthropic Dream](https://www.nytimes.com/2026/03/15/business/the-billionaire-backlash-against-a-philanthropic-dream.html)
+- [Boot ROM Security on Silicon Macs &lpar;M1/M2/M3&rpar;](https://oliviagallucci.com/boot-rom-security-on-silicon-macs-m1-m2-m3/)
+- [The Building Blocks of Agentic AI](https://ai.meta.com/blog/introducing-pytorch-native-agentic-stack/?_fb_noscript=1)
+- [Cloud Appreciation Society](https://cloudappreciationsociety.org/)
+- [Jepsen: MariaDB Galera Cluster 12.1.2](https://jepsen.io/analyses/mariadb-galera-cluster-12.1.2)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

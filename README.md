@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [SEC Prepares Proposal to Eliminate Quarterly Reporting Requirement](https://www.wsj.com/finance/regulation/sec-prepares-proposal-to-eliminate-quarterly-reporting-requirement-1d700bbb)
-- [The third agent is me [video]](https://www.youtube.com/watch?v=HbWu_eYIHKQ)
-- [Monkey Island for Commodore 64 Ground Up](https://pixeldust.se/monkey-island-project)
-- [Reverse engineering a no-name Chinese smartwatch BLE protocol &lpar;Jieli chipset&rpar;](https://github.com/TruthGh0st/C30-20-Pro-BLE-Reverse-Engineering)
-- [French Bees Are Making M&amp;M-Contaminated Blue and Green Honey &lpar;2012&rpar;](https://www.smithsonianmag.com/smart-news/french-bees-are-making-mm-contaminated-blue-and-green-honey-63756956/)
-- [The Billionaire Backlash Against a Philanthropic Dream](https://www.nytimes.com/2026/03/15/business/the-billionaire-backlash-against-a-philanthropic-dream.html)
-- [Boot ROM Security on Silicon Macs &lpar;M1/M2/M3&rpar;](https://oliviagallucci.com/boot-rom-security-on-silicon-macs-m1-m2-m3/)
-- [The Building Blocks of Agentic AI](https://ai.meta.com/blog/introducing-pytorch-native-agentic-stack/?_fb_noscript=1)
-- [Cloud Appreciation Society](https://cloudappreciationsociety.org/)
-- [Jepsen: MariaDB Galera Cluster 12.1.2](https://jepsen.io/analyses/mariadb-galera-cluster-12.1.2)
+- [Forget Flags and Scripts: Just Rename the File](https://robertsdotpm.github.io/software_engineering/program_names_as_input.html)
+- [Life in Hitler&#39;s Capital](https://www.newyorker.com/magazine/2026/03/16/stay-alive-berlin-1939-1945-ian-buruma-book-review)
+- [Study finds scientists&#39; jokes mostly fall flat](https://www.nature.com/articles/d41586-026-00854-9)
+- [SQLite WAL-reset database corruption bug](https://sqlite.org/wal.html#walresetbug)
+- [We optimized Dash&#39;s relevance judge with DSPy](https://dropbox.tech/machine-learning/optimizing-dropbox-dash-relevance-judge-with-dspy)
+- [TrustAgentAI – Cryptographic receipts for MCP tool calls &lpar;non-repudiation layer&rpar;](https://news.ycombinator.com/item?id=47421489)
+- [Bonanza or Bubble? Where AI Goes from Here](https://www.bloomberg.com/news/articles/2026-03-18/is-an-ai-bubble-set-to-burst-navigating-the-artificial-intelligence-boom)
+- [Gas Town by Kilo](https://kilo.ai/gastown)
+- [GSD 2](https://github.com/gsd-build/gsd-2)
+- [I built a runtime guardrail that stops AI agents from doing dumb things](https://news.ycombinator.com/item?id=47421451)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

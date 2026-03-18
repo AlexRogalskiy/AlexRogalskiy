@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Jepsen: MariaDB Galera Cluster 12.1.2](https://jepsen.io/analyses/mariadb-galera-cluster-12.1.2)
-- [US SEC preparing to scrap quarterly reporting requirement](https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/)
-- [AnswerThis &lpar;YC F25&rpar; Is Hiring](https://www.ycombinator.com/companies/answerthis/jobs/CNdatw5-founding-engineering-lead)
-- [Beyond has dropped “meat” from its name and expanded its high-protein drink line](https://plantbasednews.org/news/alternative-protein/beyond-meat-not-the-moment-rebrand/)
-- [Leanstral: Open-source agent for trustworthy coding and formal proof engineering](https://mistral.ai/news/leanstral)
-- [Meta’s renewed commitment to jemalloc](https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/)
-- [Language model teams as distributed systems](https://arxiv.org/abs/2603.12229)
-- [The “small web” is bigger than you might think](https://kevinboone.me/small_web_is_big.html)
-- [The American Healthcare Conundrum](https://github.com/rexrodeo/american-healthcare-conundrum)
-- [Launch HN: Voygr &lpar;YC W26&rpar; – A better maps API for agents and AI apps](https://news.ycombinator.com/item?id=47401042)
+- [Launch an autonomous AI agent with sandboxed execution in 2 lines of code](https://amaiya.github.io/onprem/examples_agent.html)
+- [The pleasures of poor product design](https://www.inconspicuous.info/p/the-pleasures-of-poor-product-design)
+- [A tale about fixing eBPF spinlock issues in the Linux kernel](https://rovarma.com/articles/a-tale-about-fixing-ebpf-spinlock-issues-in-the-linux-kernel/)
+- [Why AI systems don&#39;t learn – On autonomous learning from cognitive science](https://arxiv.org/abs/2603.15381)
+- [Mistral AI Releases Forge](https://mistral.ai/news/forge)
+- [Get Shit Done: A meta-prompting, context engineering and spec-driven dev system](https://github.com/gsd-build/get-shit-done)
+- [Launch HN: Kita &lpar;YC W26&rpar; – Automate credit review in emerging markets](https://news.ycombinator.com/item?id=47417335)
+- [A Decade of Slug](https://terathon.com/blog/decade-slug.html)
+- [Java 26 is here](https://hanno.codes/2026/03/17/java-26-is-here/)
+- [Python 3.15&#39;s JIT is now back on track](https://fidget-spinner.github.io/posts/jit-on-track.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

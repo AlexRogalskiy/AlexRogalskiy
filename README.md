@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Middle East crisis live: Trump seeks to delay summit with China’s Xi amid Iran war; US embassy in Baghdad reportedly targeted in air attack](https://www.theguardian.com/world/live/2026/mar/17/iran-war-live-updates-news-israel-trump-strikes-us-embassy-baghdad-strait-of-hormuz-middle-east-latest)
-- [Trump news at a glance: president threatens allies for not wading into strait of Hormuz as Iran conflict continues](https://www.theguardian.com/us-news/2026/mar/16/trump-administration-news-updates-today)
-- [Afghanistan accuses Pakistan of deadly strike on Kabul hospital](https://www.theguardian.com/world/2026/mar/16/afghanistan-accuses-pakistan-of-kabul-hospital-strike-killed)
-- [Trump predicts US will have ‘honour of taking Cuba’ amid power blackout](https://www.theguardian.com/world/2026/mar/17/donald-trump-can-take-cuba-oil)
-- [Ukraine war briefing: Russia agrees to stop recruiting Kenyans in fight against Kyiv](https://www.theguardian.com/world/2026/mar/17/ukraine-war-briefing-russia-agrees-stop-recruiting-kenyans)
-- [Train delays: compensation claims to be easier under Great British Railways](https://www.theguardian.com/business/2026/mar/17/train-delays-compensation-claims-great-british-railways)
-- [Cannabis is not an effective treatment for common mental health conditions, says review](https://www.theguardian.com/society/2026/mar/16/cannabis-inot-effective-treatment-for-common-mental-health-conditions-review)
-- [Reduced physical activity due to global heating will lead to rise in health issues, study says](https://www.theguardian.com/environment/2026/mar/16/reduced-physical-activity-due-to-global-heating-rise-health-issues-study)
-- [Max Dowman has inspired Arsenal in hunt for silverware, says Mikel Arteta](https://www.theguardian.com/football/2026/mar/16/mikel-arteta-max-dowman-arsenal-silverware-quest)
-- [Thousands of flights canceled as winter storm marches across US](https://www.theguardian.com/us-news/2026/mar/16/winter-storm-airport-flight-delays-snow-tornado)
+- [Middle East crisis live: Iran vows revenge for killing of security chief; Israel signals imminent Beirut strike](https://www.theguardian.com/world/live/2026/mar/18/iran-war-live-updates-oil-prices-hormuz-trump-larijani-key-leader-killed-israel-strikes)
+- [Venezuela 3-2 United States: World Baseball Classic final – as it happened](https://www.theguardian.com/sport/live/2026/mar/17/world-baseball-classic-championship-game-usa-venezuela-live-updates)
+- [Banksy has been unmasked &lpar;again&rpar;. But does this major Reuters investigation actually tell us something new?](https://www.theguardian.com/culture/2026/mar/18/banksy-identity-revealed-real-name-bristol-born-man-reuters-investigation)
+- [Isolated and exposed: can New Zealand’s fragile economic recovery withstand the global oil shock?](https://www.theguardian.com/world/2026/mar/18/new-zealand-economy-global-oil-shocks)
+- [‘Almost human’: life-size replicas of the dead help mend broken hearts in India](https://www.theguardian.com/world/2026/mar/18/india-workshop-replicas-dead-people-help-grief)
+- [‘Basics’ of life in Britain have been sold for profit, says Polanski](https://www.theguardian.com/politics/2026/mar/18/basics-of-life-in-britain-have-been-sold-for-profit-says-polanski)
+- [Andy Burnham tees off bid to bring Ryder Cup golf tournament to Bolton](https://www.theguardian.com/uk-news/2026/mar/18/andy-burnham-tees-off-bid-ryder-cup-golf-bolton)
+- [How you walk reveals to others how you are feeling, researchers say](https://www.theguardian.com/science/2026/mar/18/how-you-walk-reveals-to-others-how-you-are-feeling-researchers-say)
+- [Graves in England and Wales could be reused after 100 years](https://www.theguardian.com/society/2026/mar/18/graves-england-and-wales-reused-100-years)
+- [Millions of children dying from preventable causes, report reveals](https://www.theguardian.com/global-development/2026/mar/18/millions-children-worldwide-dying-preventable-causes-under-five-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Middle East crisis live: Iran vows revenge for killing of security chief; Israel signals imminent Beirut strike](https://www.theguardian.com/world/live/2026/mar/18/iran-war-live-updates-oil-prices-hormuz-trump-larijani-key-leader-killed-israel-strikes)
-- [Venezuela 3-2 United States: World Baseball Classic final – as it happened](https://www.theguardian.com/sport/live/2026/mar/17/world-baseball-classic-championship-game-usa-venezuela-live-updates)
-- [Banksy has been unmasked &lpar;again&rpar;. But does this major Reuters investigation actually tell us something new?](https://www.theguardian.com/culture/2026/mar/18/banksy-identity-revealed-real-name-bristol-born-man-reuters-investigation)
-- [Isolated and exposed: can New Zealand’s fragile economic recovery withstand the global oil shock?](https://www.theguardian.com/world/2026/mar/18/new-zealand-economy-global-oil-shocks)
-- [‘Almost human’: life-size replicas of the dead help mend broken hearts in India](https://www.theguardian.com/world/2026/mar/18/india-workshop-replicas-dead-people-help-grief)
-- [‘Basics’ of life in Britain have been sold for profit, says Polanski](https://www.theguardian.com/politics/2026/mar/18/basics-of-life-in-britain-have-been-sold-for-profit-says-polanski)
-- [Andy Burnham tees off bid to bring Ryder Cup golf tournament to Bolton](https://www.theguardian.com/uk-news/2026/mar/18/andy-burnham-tees-off-bid-ryder-cup-golf-bolton)
-- [How you walk reveals to others how you are feeling, researchers say](https://www.theguardian.com/science/2026/mar/18/how-you-walk-reveals-to-others-how-you-are-feeling-researchers-say)
-- [Graves in England and Wales could be reused after 100 years](https://www.theguardian.com/society/2026/mar/18/graves-england-and-wales-reused-100-years)
-- [Millions of children dying from preventable causes, report reveals](https://www.theguardian.com/global-development/2026/mar/18/millions-children-worldwide-dying-preventable-causes-under-five-report)
+- [FBI probing US counter-terrorism chief who resigned over Iran war, reports say](https://www.theguardian.com/us-news/2026/mar/19/fbi-probing-counterterrorism-official-who-resigned-over-iran-war-reports-say)
+- [Russian oil tanker heading to Cuba amid US economic blockade](https://www.theguardian.com/world/2026/mar/19/cuba-us-economic-blockade-trump-russian-oil-tanker)
+- [Ukraine war briefing: Ukraine strikes Russian aircraft sites 800km from border](https://www.theguardian.com/world/2026/mar/19/ukraine-war-briefing-ukraine-strikes-russian-aircraft-sites-800km-from-border)
+- [Ban corporate donations to UK political parties to protect elections, says thinktank](https://www.theguardian.com/politics/2026/mar/19/corporate-donations-uk-political-parties-foreign-interference-bill-loopholes-centax)
+- [UK to double steel tariffs to 50% to save plants from collapse](https://www.theguardian.com/business/2026/mar/19/uk-steel-tariffs-competition-peter-kyle-tata-steel-port-talbot)
+- [Instagram worse for mental health than WhatsApp, global study finds](https://www.theguardian.com/media/2026/mar/19/instagram-worse-mental-health-whatsapp-global-study-finds)
+- [Check mates: analysis of medieval chess sets reveal vision of equality and mutual respect](https://www.theguardian.com/world/2026/mar/19/medieval-chess-set-equality-respect)
+- [Derek Owusu and Seán Hewitt shortlisted for Dylan Thomas prize](https://www.theguardian.com/books/2026/mar/19/shortlist-writers-announced-2026-swansea-university-dylan-thomas-prize)
+- [Seoul raises terror alert as it prepares to host BTS comeback concert](https://www.theguardian.com/music/2026/mar/19/bts-comeback-concert-seoul-terror-alert-level)
+- [GLP-1 diabetes drugs could stop anxiety and depression worsening, study finds](https://www.theguardian.com/science/2026/mar/18/glp-1-type-2-diabetes-drugs-semaglutide-anxiety-depression)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Launch an autonomous AI agent with sandboxed execution in 2 lines of code](https://amaiya.github.io/onprem/examples_agent.html)
-- [The pleasures of poor product design](https://www.inconspicuous.info/p/the-pleasures-of-poor-product-design)
-- [A tale about fixing eBPF spinlock issues in the Linux kernel](https://rovarma.com/articles/a-tale-about-fixing-ebpf-spinlock-issues-in-the-linux-kernel/)
-- [Why AI systems don&#39;t learn – On autonomous learning from cognitive science](https://arxiv.org/abs/2603.15381)
-- [Mistral AI Releases Forge](https://mistral.ai/news/forge)
-- [Get Shit Done: A meta-prompting, context engineering and spec-driven dev system](https://github.com/gsd-build/get-shit-done)
-- [Launch HN: Kita &lpar;YC W26&rpar; – Automate credit review in emerging markets](https://news.ycombinator.com/item?id=47417335)
-- [A Decade of Slug](https://terathon.com/blog/decade-slug.html)
-- [Java 26 is here](https://hanno.codes/2026/03/17/java-26-is-here/)
-- [Python 3.15&#39;s JIT is now back on track](https://fidget-spinner.github.io/posts/jit-on-track.html)
+- [Mozilla to launch free built-in VPN in upcoming Firefox 149](https://cyberinsider.com/mozilla-to-launch-free-built-in-vpn-in-upcoming-firefox-149/)
+- [We Have Learned Nothing](https://colossus.com/article/we-have-learned-nothing-startup-pundits/)
+- [A sufficiently detailed spec is code](https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code)
+- [Cook: A simple CLI for orchestrating Claude Code](https://rjcorwin.github.io/cook/)
+- [Autoresearch for SAT Solvers](https://github.com/iliazintchenko/agent-sat)
+- [Austin’s surge of new housing construction drove down rents](https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents)
+- [RX – a new random-access JSON alternative](https://github.com/creationix/rx)
+- [What’s on HTTP?](https://whatsonhttp.com/)
+- [Warranty Void If Regenerated](https://nearzero.software/p/warranty-void-if-regenerated)
+- [Show HN: Playing LongTurn FreeCiv with Friends](https://github.com/ndroo/freeciv.andrewmcgrath.info)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

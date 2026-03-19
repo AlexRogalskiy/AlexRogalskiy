@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Forget Flags and Scripts: Just Rename the File](https://robertsdotpm.github.io/software_engineering/program_names_as_input.html)
-- [Life in Hitler&#39;s Capital](https://www.newyorker.com/magazine/2026/03/16/stay-alive-berlin-1939-1945-ian-buruma-book-review)
-- [Study finds scientists&#39; jokes mostly fall flat](https://www.nature.com/articles/d41586-026-00854-9)
-- [SQLite WAL-reset database corruption bug](https://sqlite.org/wal.html#walresetbug)
-- [We optimized Dash&#39;s relevance judge with DSPy](https://dropbox.tech/machine-learning/optimizing-dropbox-dash-relevance-judge-with-dspy)
-- [TrustAgentAI – Cryptographic receipts for MCP tool calls &lpar;non-repudiation layer&rpar;](https://news.ycombinator.com/item?id=47421489)
-- [Bonanza or Bubble? Where AI Goes from Here](https://www.bloomberg.com/news/articles/2026-03-18/is-an-ai-bubble-set-to-burst-navigating-the-artificial-intelligence-boom)
-- [Gas Town by Kilo](https://kilo.ai/gastown)
-- [GSD 2](https://github.com/gsd-build/gsd-2)
-- [I built a runtime guardrail that stops AI agents from doing dumb things](https://news.ycombinator.com/item?id=47421451)
+- [Meta Confronts Rogue AI Agents After Data Exposure](https://www.findarticles.com/meta-confronts-rogue-ai-agents-after-data-exposure/)
+- [Can Reese&#39;s have too many pieces? The line-extension conundrum](https://www.ft.com/content/5b54115e-ff07-4063-a335-50834f6d79a3)
+- [FreeFlow – seamless speech to text in any app](https://github.com/build-trust/freeflow/tree/main)
+- [Afroman wins Ohio lawsuit over music videos: &#39;We did it – freedom of speech &#39;](https://www.nbcnews.com/pop-culture/pop-culture-news/afroman-sued-ohio-deputies-music-video-showing-raid-home-says-got-free-rcna264138)
+- [Meta will invest $600B in the US, focused on AI data centers](https://www.engadget.com/ai/meta-says-it-will-invest-600-billion-in-the-us-with-ai-data-centers-front-and-center-195000377.html)
+- [If you are not doing $10k per month, your problem is not what you think it is](https://news.ycombinator.com/item?id=47434799)
+- [No Semicolons Needed](https://terts.dev/blog/no-semicolons-needed/)
+- [Tiny Fish Passed an Intelligence Test That Once Distinguished Great Apes](https://www.sciencealert.com/this-tiny-fish-passed-an-intelligence-test-that-once-distinguished-great-apes)
+- [New Open Source Release](https://news.ycombinator.com/item?id=47434784)
+- [SkillNet: Create, Evaluate, and Connect AI Skills](https://arxiv.org/abs/2603.04448)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

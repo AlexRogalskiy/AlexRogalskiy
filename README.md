@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Mozilla to launch free built-in VPN in upcoming Firefox 149](https://cyberinsider.com/mozilla-to-launch-free-built-in-vpn-in-upcoming-firefox-149/)
-- [We Have Learned Nothing](https://colossus.com/article/we-have-learned-nothing-startup-pundits/)
-- [A sufficiently detailed spec is code](https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code)
-- [Cook: A simple CLI for orchestrating Claude Code](https://rjcorwin.github.io/cook/)
-- [Autoresearch for SAT Solvers](https://github.com/iliazintchenko/agent-sat)
-- [Austin’s surge of new housing construction drove down rents](https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents)
-- [RX – a new random-access JSON alternative](https://github.com/creationix/rx)
-- [What’s on HTTP?](https://whatsonhttp.com/)
-- [Warranty Void If Regenerated](https://nearzero.software/p/warranty-void-if-regenerated)
-- [Show HN: Playing LongTurn FreeCiv with Friends](https://github.com/ndroo/freeciv.andrewmcgrath.info)
+- [Full Disclosure: A Third &lpar;and Fourth&rpar; Azure Sign-In Log Bypass Found](https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found)
+- [Drugwars for the TI-82/83/83 Calculators](https://gist.github.com/mattmanning/1002653/b7a1e88479a10eaae3bd5298b8b2c86e16fb4404)
+- [Push events into a running session with channels](https://code.claude.com/docs/en/channels)
+- [Wayland set the Linux Desktop back by 10 years?](https://omar.yt/posts/wayland-set-the-linux-desktop-back-by-10-years)
+- [The day I discovered type design](https://www.marksimonson.com/notebook/view/the-day-i-discovered-type-design/)
+- [Be intentional about how AI changes your codebase](https://aicode.swerdlow.dev)
+- [EsoLang-Bench: Evaluating Genuine Reasoning in LLMs via Esoteric Languages](https://esolang-bench.vercel.app/)
+- [Cockpit is a web-based graphical interface for servers](https://github.com/cockpit-project/cockpit)
+- [Waymo Safety Impact](https://waymo.com/safety/impact/)
+- [Clockwise acquired by Salesforce and shutting down next week](https://www.getclockwise.com)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Meta Confronts Rogue AI Agents After Data Exposure](https://www.findarticles.com/meta-confronts-rogue-ai-agents-after-data-exposure/)
-- [Can Reese&#39;s have too many pieces? The line-extension conundrum](https://www.ft.com/content/5b54115e-ff07-4063-a335-50834f6d79a3)
-- [FreeFlow – seamless speech to text in any app](https://github.com/build-trust/freeflow/tree/main)
-- [Afroman wins Ohio lawsuit over music videos: &#39;We did it – freedom of speech &#39;](https://www.nbcnews.com/pop-culture/pop-culture-news/afroman-sued-ohio-deputies-music-video-showing-raid-home-says-got-free-rcna264138)
-- [Meta will invest $600B in the US, focused on AI data centers](https://www.engadget.com/ai/meta-says-it-will-invest-600-billion-in-the-us-with-ai-data-centers-front-and-center-195000377.html)
-- [If you are not doing $10k per month, your problem is not what you think it is](https://news.ycombinator.com/item?id=47434799)
-- [No Semicolons Needed](https://terts.dev/blog/no-semicolons-needed/)
-- [Tiny Fish Passed an Intelligence Test That Once Distinguished Great Apes](https://www.sciencealert.com/this-tiny-fish-passed-an-intelligence-test-that-once-distinguished-great-apes)
-- [New Open Source Release](https://news.ycombinator.com/item?id=47434784)
-- [SkillNet: Create, Evaluate, and Connect AI Skills](https://arxiv.org/abs/2603.04448)
+- [Why Tech Bros Are Now Obsessed with Taste](https://www.newyorker.com/culture/infinite-scroll/why-tech-bros-are-now-obsessed-with-taste)
+- [Yan Tan Tethera](https://en.wikipedia.org/wiki/Yan_tan_tethera)
+- [Hexagonal tic-tac-toe is ridiculous [video]](https://www.youtube.com/watch?v=EzLzkcRZurk)
+- [Counting Sheep](https://en.wikipedia.org/wiki/Counting_sheep)
+- [Toast Sandwich](https://en.wikipedia.org/wiki/Toast_sandwich)
+- [Lessons from Building Claude Code: How We Use Skills](https://twitter.com/trq212/status/2033949937936085378)
+- [Kimchi probiotic promotes the excretion of nanoplastics from the gut](https://www.dongascience.com/en/news/76761)
+- [Widespread Trivvy GitHub Actions Tag Compromise Exposes CI/CD Secrets](https://socket.dev/blog/trivy-under-attack-again-github-actions-compromise)
+- [Show HN: A GUI configurator for hidutil, the native macOS keyboard editor](https://ualexk.github.io/macOS-keyboard-configurator-hidutil/)
+- [Show HN: FastPlay, a Windows video player focused on speed and usability](https://github.com/CalvinSturm/FastPlay)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [FBI probing US counter-terrorism chief who resigned over Iran war, reports say](https://www.theguardian.com/us-news/2026/mar/19/fbi-probing-counterterrorism-official-who-resigned-over-iran-war-reports-say)
-- [Russian oil tanker heading to Cuba amid US economic blockade](https://www.theguardian.com/world/2026/mar/19/cuba-us-economic-blockade-trump-russian-oil-tanker)
-- [Ukraine war briefing: Ukraine strikes Russian aircraft sites 800km from border](https://www.theguardian.com/world/2026/mar/19/ukraine-war-briefing-ukraine-strikes-russian-aircraft-sites-800km-from-border)
-- [Ban corporate donations to UK political parties to protect elections, says thinktank](https://www.theguardian.com/politics/2026/mar/19/corporate-donations-uk-political-parties-foreign-interference-bill-loopholes-centax)
-- [UK to double steel tariffs to 50% to save plants from collapse](https://www.theguardian.com/business/2026/mar/19/uk-steel-tariffs-competition-peter-kyle-tata-steel-port-talbot)
-- [Instagram worse for mental health than WhatsApp, global study finds](https://www.theguardian.com/media/2026/mar/19/instagram-worse-mental-health-whatsapp-global-study-finds)
-- [Check mates: analysis of medieval chess sets reveal vision of equality and mutual respect](https://www.theguardian.com/world/2026/mar/19/medieval-chess-set-equality-respect)
-- [Derek Owusu and Seán Hewitt shortlisted for Dylan Thomas prize](https://www.theguardian.com/books/2026/mar/19/shortlist-writers-announced-2026-swansea-university-dylan-thomas-prize)
-- [Seoul raises terror alert as it prepares to host BTS comeback concert](https://www.theguardian.com/music/2026/mar/19/bts-comeback-concert-seoul-terror-alert-level)
-- [GLP-1 diabetes drugs could stop anxiety and depression worsening, study finds](https://www.theguardian.com/science/2026/mar/18/glp-1-type-2-diabetes-drugs-semaglutide-anxiety-depression)
+- [Reliant on imported fuel, Pacific islands appeal for help as oil prices surge](https://www.theguardian.com/world/2026/mar/20/reliant-on-imported-fuel-pacific-islands-appeal-for-help-as-oil-prices-surge)
+- [Trump news at a glance: president claims ignorance of Israel’s plan to strike Iranian gasfield, exposing rift](https://www.theguardian.com/us-news/2026/mar/19/trump-news-latest-updates-today)
+- [China has been preparing for a global energy crisis for years. It is paying off now](https://www.theguardian.com/world/2026/mar/20/china-oil-reserves-global-energy-crisis)
+- [Trump mocks Japan about Pearl Harbor in response to question about Iran war](https://www.theguardian.com/world/2026/mar/19/trump-mocks-japan-pearl-harbor-iran-war)
+- [Viktor Orbán refuses to agree to €90bn loan for Ukraine as EU leaders accuse him of betrayal](https://www.theguardian.com/world/2026/mar/19/hungary-orban-ukraine-loan-veto-eu-summit-europe)
+- [Rightwing narrative fuelling false belief UK public oppose net zero, study finds](https://www.theguardian.com/environment/2026/mar/20/uk-public-support-net-zero-rightwing-media-rories-reform-analysis)
+- [Shrinkflation takes a bite out of Easter eggs as shoppers pay more for less](https://www.theguardian.com/business/2026/mar/20/shrinkflation-takes-a-bite-out-of-easter-eggs-as-shoppers-pay-more-for-less)
+- [Natural History Museum tops UK attraction list with record visitors](https://www.theguardian.com/culture/2026/mar/20/natural-history-museum-tops-uk-attraction-list-with-record-visitors)
+- [Premier League and Carabao Cup: things to look out for this weekend](https://www.theguardian.com/football/2026/mar/20/premier-league-and-carabao-cup-things-to-look-out-for-this-weekend)
+- [AC/DC guitarist Stevie Young hospitalised ahead of Buenos Aires concerts](https://www.theguardian.com/music/2026/mar/20/stevie-young-hospital-acdc-guitarist-buenos-aires-argentina)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

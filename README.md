@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Reliant on imported fuel, Pacific islands appeal for help as oil prices surge](https://www.theguardian.com/world/2026/mar/20/reliant-on-imported-fuel-pacific-islands-appeal-for-help-as-oil-prices-surge)
-- [Trump news at a glance: president claims ignorance of Israel’s plan to strike Iranian gasfield, exposing rift](https://www.theguardian.com/us-news/2026/mar/19/trump-news-latest-updates-today)
-- [China has been preparing for a global energy crisis for years. It is paying off now](https://www.theguardian.com/world/2026/mar/20/china-oil-reserves-global-energy-crisis)
-- [Trump mocks Japan about Pearl Harbor in response to question about Iran war](https://www.theguardian.com/world/2026/mar/19/trump-mocks-japan-pearl-harbor-iran-war)
-- [Viktor Orbán refuses to agree to €90bn loan for Ukraine as EU leaders accuse him of betrayal](https://www.theguardian.com/world/2026/mar/19/hungary-orban-ukraine-loan-veto-eu-summit-europe)
-- [Rightwing narrative fuelling false belief UK public oppose net zero, study finds](https://www.theguardian.com/environment/2026/mar/20/uk-public-support-net-zero-rightwing-media-rories-reform-analysis)
-- [Shrinkflation takes a bite out of Easter eggs as shoppers pay more for less](https://www.theguardian.com/business/2026/mar/20/shrinkflation-takes-a-bite-out-of-easter-eggs-as-shoppers-pay-more-for-less)
-- [Natural History Museum tops UK attraction list with record visitors](https://www.theguardian.com/culture/2026/mar/20/natural-history-museum-tops-uk-attraction-list-with-record-visitors)
-- [Premier League and Carabao Cup: things to look out for this weekend](https://www.theguardian.com/football/2026/mar/20/premier-league-and-carabao-cup-things-to-look-out-for-this-weekend)
-- [AC/DC guitarist Stevie Young hospitalised ahead of Buenos Aires concerts](https://www.theguardian.com/music/2026/mar/20/stevie-young-hospital-acdc-guitarist-buenos-aires-argentina)
+- [Nicholas Brendon, Buffy the Vampire Slayer actor, dies at 54](https://www.theguardian.com/tv-and-radio/2026/mar/20/nicholas-brendon-buffy-the-vampire-slayer-actor-dies)
+- [Ukraine war briefing: Children ordered to leave key Ukrainian stronghold as Russians advance](https://www.theguardian.com/world/2026/mar/21/ukraine-war-briefing-children-ordered-to-leave-key-ukrainian-stronghold-as-russians-advance)
+- [Musk responsible for Twitter investors’ stock dropping when he bought company, jury rules](https://www.theguardian.com/technology/2026/mar/20/elon-musk-twitter-investors-lawsuit)
+- [Thousands ordered to evacuate as Hawaii hit by severe flash floods](https://www.theguardian.com/us-news/2026/mar/20/hawaii-oahu-flash-floods)
+- [US lifts sanctions on Iranian oil at sea in bid to ease supply pressures](https://www.theguardian.com/us-news/2026/mar/20/us-sanctions-iranian-oil)
+- [Territorians in path of Tropical Cyclone Narelle told to take cover in bathrooms as storm intensifies](https://www.theguardian.com/australia-news/2026/mar/21/tropical-cyclone-narelle-nt-prepares-queensland-support-payments)
+- [Jack Draper blown away in straight sets by US star Reilly Opelka at Miami Open](https://www.theguardian.com/sport/2026/mar/20/jack-draper-blown-away-in-straight-sets-by-us-star-reilly-opelka-at-miami-open)
+- [USA’s Jordan Anthony wins 60m world gold after his blood clot ‘the size of a soccer ball’](https://www.theguardian.com/sport/2026/mar/20/jordan-anthony-wins-60m-world-indoor-championships-blood-clot-recovery)
+- [Coroner ‘cannot be satisfied’ that Ricky Hatton intended to take his own life](https://www.theguardian.com/sport/2026/mar/20/coroner-cannot-be-satisfied-that-ricky-hatton-intended-to-take-his-own-life)
+- [Moyes seeks clarity over Premier League’s decision not to deduct points from Chelsea](https://www.theguardian.com/football/2026/mar/20/david-moyes-everton-points-deduction-premier-league-chelsea-fine)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

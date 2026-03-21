@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Why Tech Bros Are Now Obsessed with Taste](https://www.newyorker.com/culture/infinite-scroll/why-tech-bros-are-now-obsessed-with-taste)
-- [Yan Tan Tethera](https://en.wikipedia.org/wiki/Yan_tan_tethera)
-- [Hexagonal tic-tac-toe is ridiculous [video]](https://www.youtube.com/watch?v=EzLzkcRZurk)
-- [Counting Sheep](https://en.wikipedia.org/wiki/Counting_sheep)
-- [Toast Sandwich](https://en.wikipedia.org/wiki/Toast_sandwich)
-- [Lessons from Building Claude Code: How We Use Skills](https://twitter.com/trq212/status/2033949937936085378)
-- [Kimchi probiotic promotes the excretion of nanoplastics from the gut](https://www.dongascience.com/en/news/76761)
-- [Widespread Trivvy GitHub Actions Tag Compromise Exposes CI/CD Secrets](https://socket.dev/blog/trivy-under-attack-again-github-actions-compromise)
-- [Show HN: A GUI configurator for hidutil, the native macOS keyboard editor](https://ualexk.github.io/macOS-keyboard-configurator-hidutil/)
-- [Show HN: FastPlay, a Windows video player focused on speed and usability](https://github.com/CalvinSturm/FastPlay)
+- [CopySpeak – A lightweight tool for quick AI text-to-speech](https://github.com/ilyaizen/CopySpeak)
+- [FTC order directing Intuit to stop deceptive TurboTax ads thrown out by US court](https://www.reuters.com/world/us-appeals-court-tosses-ftc-order-against-intuit-over-turbotax-advertising-2026-03-20/)
+- [Show HN: AI chat, search, notes, collaborate, channels, cloud drive in one place](https://github.com/NitroRCr/nyaai)
+- [Coastal Grotesque](https://www.tabletmag.com/sections/arts-letters/articles/coastal-grotesque-bret-easton-ellis)
+- [Show HN: An open-source AI Scrum Team that lives natively in GitHub Issues](https://github.com/plusai-solutions/ai-scrum-master-template)
+- [Crimson Desert refuses to launch on Intel Arc GPUs, developer says seek refunds](https://www.club386.com/crimson-desert-refuses-to-launch-on-millions-of-intel-arc-gpus-developer-recommends-seeking-refunds/)
+- [Money isn&#39;t going to solve the burnout problem](https://blogs.gentoo.org/mgorny/2026/03/07/money-isnt-going-to-solve-the-burnout-problem/)
+- [Best laptop Apple ever made [video]](https://www.youtube.com/watch?v=JpPIrmZB828)
+- [Uber to Invest Up to $1.25B in Rivian Robotaxis](https://www.wsj.com/business/autos/uber-to-invest-up-to-1-25-billion-in-rivian-robotaxis-8b295925)
+- [Buy Now, Pay Later Makes Billions Off People&#39;s Struggles [video]](https://www.youtube.com/watch?v=0mYvLHJd9ww)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

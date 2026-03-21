@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Full Disclosure: A Third &lpar;and Fourth&rpar; Azure Sign-In Log Bypass Found](https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found)
-- [Drugwars for the TI-82/83/83 Calculators](https://gist.github.com/mattmanning/1002653/b7a1e88479a10eaae3bd5298b8b2c86e16fb4404)
-- [Push events into a running session with channels](https://code.claude.com/docs/en/channels)
-- [Wayland set the Linux Desktop back by 10 years?](https://omar.yt/posts/wayland-set-the-linux-desktop-back-by-10-years)
-- [The day I discovered type design](https://www.marksimonson.com/notebook/view/the-day-i-discovered-type-design/)
-- [Be intentional about how AI changes your codebase](https://aicode.swerdlow.dev)
-- [EsoLang-Bench: Evaluating Genuine Reasoning in LLMs via Esoteric Languages](https://esolang-bench.vercel.app/)
-- [Cockpit is a web-based graphical interface for servers](https://github.com/cockpit-project/cockpit)
-- [Waymo Safety Impact](https://waymo.com/safety/impact/)
-- [Clockwise acquired by Salesforce and shutting down next week](https://www.getclockwise.com)
+- [Linux Applications Programming by Example: The Fundamental APIs &lpar;2nd Edition&rpar;](https://github.com/arnoldrobbins/LinuxByExample-2e)
+- [Show HN: Red Grid Link – peer-to-peer team tracking over Bluetooth, no servers](https://github.com/RedGridTactical/RedGridLink)
+- [Ghostling](https://github.com/ghostty-org/ghostling)
+- [Show HN: We built a terminal-only Bluesky / AT Proto client written in Fortran](https://github.com/FormerLab/fortransky)
+- [We rewrote our Rust WASM parser in TypeScript and it got faster](https://www.openui.com/blog/rust-wasm-parser)
+- [Show HN: Baltic shadow fleet tracker – live AIS, cable proximity alerts](https://github.com/FormerLab/shadow-fleet-tracker-light)
+- [OpenCode – Open source AI coding agent](https://opencode.ai/)
+- [A Japanese glossary of chopsticks faux pas](https://www.nippon.com/en/japan-data/h01362/)
+- [NumKong: 2&#39;000 Mixed Precision Kernels for All](https://ashvardanian.com/posts/numkong/)
+- [Our commitment to Windows quality](https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

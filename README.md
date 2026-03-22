@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Linux Applications Programming by Example: The Fundamental APIs &lpar;2nd Edition&rpar;](https://github.com/arnoldrobbins/LinuxByExample-2e)
-- [Show HN: Red Grid Link – peer-to-peer team tracking over Bluetooth, no servers](https://github.com/RedGridTactical/RedGridLink)
-- [Ghostling](https://github.com/ghostty-org/ghostling)
-- [Show HN: We built a terminal-only Bluesky / AT Proto client written in Fortran](https://github.com/FormerLab/fortransky)
-- [We rewrote our Rust WASM parser in TypeScript and it got faster](https://www.openui.com/blog/rust-wasm-parser)
-- [Show HN: Baltic shadow fleet tracker – live AIS, cable proximity alerts](https://github.com/FormerLab/shadow-fleet-tracker-light)
-- [OpenCode – Open source AI coding agent](https://opencode.ai/)
-- [A Japanese glossary of chopsticks faux pas](https://www.nippon.com/en/japan-data/h01362/)
-- [NumKong: 2&#39;000 Mixed Precision Kernels for All](https://ashvardanian.com/posts/numkong/)
-- [Our commitment to Windows quality](https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/)
+- [Ant Mill](https://en.wikipedia.org/wiki/Ant_mill)
+- [The Three Pillars of JavaScript Bloat](https://43081j.com/2026/03/three-pillars-of-javascript-bloat)
+- [Chest Fridge &lpar;2009&rpar;](https://mtbest.net/chest-fridge/)
+- [The Impact of AI on Game Dev Jobs. Open to Work Crisis](https://darkounity.com/blog-post?id=the-impact-of-ai-on-game-dev-jobs-open-to-work-crisis--1774128585922)
+- [Floci – A free, open-source local AWS emulator](https://github.com/hectorvent/floci)
+- [Professional video editing, right in the browser with WebGPU and WASM](https://tooscut.app/)
+- [Do Not Turn Child Protection into Internet Access Control](https://news.dyne.org/child-protection-is-not-access-control/)
+- [Tinybox – Offline AI device 120B parameters](https://tinygrad.org/#tinybox)
+- [Common Lisp Development Tooling](https://www.creativetension.co/posts/common-lisp-development-tooling)
+- [Show HN: Atomic – Self-hosted, semantically-connected personal knowledge base](https://github.com/kenforthewin/atomic)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Nicholas Brendon, Buffy the Vampire Slayer actor, dies at 54](https://www.theguardian.com/tv-and-radio/2026/mar/20/nicholas-brendon-buffy-the-vampire-slayer-actor-dies)
-- [Ukraine war briefing: Children ordered to leave key Ukrainian stronghold as Russians advance](https://www.theguardian.com/world/2026/mar/21/ukraine-war-briefing-children-ordered-to-leave-key-ukrainian-stronghold-as-russians-advance)
-- [Musk responsible for Twitter investors’ stock dropping when he bought company, jury rules](https://www.theguardian.com/technology/2026/mar/20/elon-musk-twitter-investors-lawsuit)
-- [Thousands ordered to evacuate as Hawaii hit by severe flash floods](https://www.theguardian.com/us-news/2026/mar/20/hawaii-oahu-flash-floods)
-- [US lifts sanctions on Iranian oil at sea in bid to ease supply pressures](https://www.theguardian.com/us-news/2026/mar/20/us-sanctions-iranian-oil)
-- [Territorians in path of Tropical Cyclone Narelle told to take cover in bathrooms as storm intensifies](https://www.theguardian.com/australia-news/2026/mar/21/tropical-cyclone-narelle-nt-prepares-queensland-support-payments)
-- [Jack Draper blown away in straight sets by US star Reilly Opelka at Miami Open](https://www.theguardian.com/sport/2026/mar/20/jack-draper-blown-away-in-straight-sets-by-us-star-reilly-opelka-at-miami-open)
-- [USA’s Jordan Anthony wins 60m world gold after his blood clot ‘the size of a soccer ball’](https://www.theguardian.com/sport/2026/mar/20/jordan-anthony-wins-60m-world-indoor-championships-blood-clot-recovery)
-- [Coroner ‘cannot be satisfied’ that Ricky Hatton intended to take his own life](https://www.theguardian.com/sport/2026/mar/20/coroner-cannot-be-satisfied-that-ricky-hatton-intended-to-take-his-own-life)
-- [Moyes seeks clarity over Premier League’s decision not to deduct points from Chelsea](https://www.theguardian.com/football/2026/mar/20/david-moyes-everton-points-deduction-premier-league-chelsea-fine)
+- [Middle East crisis live: Trump gives Iran 48-hour ultimatum to open strait of Hormuz; 100 injured in Israel](https://www.theguardian.com/world/live/2026/mar/22/middle-east-crisis-live-iran-war-trump-ultimatum-major-attack-strait-of-hormuz-open-israel-hit-tehran-retaliation)
+- [Cuba’s power grid collapses in third nationwide blackout amid US oil blockade](https://www.theguardian.com/world/2026/mar/22/cubas-power-grid-collapses-in-third-nationwide-blackout-amid-us-oil-blockade)
+- [Ukraine war briefing: US, Ukrainian negotiators meet in Florida as Russian attacks kill more civilians](https://www.theguardian.com/world/2026/mar/22/ukraine-war-briefing-us-ukrainian-negotiators-meet-in-florida-as-russian-attacks-kill-more-civilians)
+- [Trump news at a glance: president says ICE agents at airports would ‘do security like no one has ever seen before’](https://www.theguardian.com/us-news/2026/mar/22/trump-news-latest-updates-today)
+- [Saturday Night Live UK review – it didn’t fail and it could have been a lot worse](https://www.theguardian.com/culture/2026/mar/22/saturday-night-live-uk-review-it-didnt-fail-and-it-could-have-been-a-lot-worse)
+- [‘So awesome’: BTS fans on K-pop’s biggest comeback](https://www.theguardian.com/music/2026/mar/22/bts-concert-arirang-kpop-fans-comeback-south-korea-seoul)
+- [Naomi Osaka casts doubt on tennis future after first-round defeat in Miami](https://www.theguardian.com/sport/2026/mar/22/naomi-osaka-tennis-future-miami-gibson-norrie-michelsen)
+- [Hawaii urges residents to ‘leave now’ amid worst flooding in over 20 years](https://www.theguardian.com/us-news/2026/mar/21/hawaii-flooding-warnings)
+- [Trump threatens to send ICE to airports on Monday amid DHS funding standoff](https://www.theguardian.com/us-news/2026/mar/21/trump-threatens-to-send-ice-agents-to-airports-unless-dhs-deal-reached)
+- [Strike on Sudan hospital kills at least 64 and wounds 89 more, WHO reports](https://www.theguardian.com/world/2026/mar/21/strike-on-sudan-hospital-kills-wounds-world-health-organization-reports)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

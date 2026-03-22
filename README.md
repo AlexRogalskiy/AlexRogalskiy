@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [CopySpeak – A lightweight tool for quick AI text-to-speech](https://github.com/ilyaizen/CopySpeak)
-- [FTC order directing Intuit to stop deceptive TurboTax ads thrown out by US court](https://www.reuters.com/world/us-appeals-court-tosses-ftc-order-against-intuit-over-turbotax-advertising-2026-03-20/)
-- [Show HN: AI chat, search, notes, collaborate, channels, cloud drive in one place](https://github.com/NitroRCr/nyaai)
-- [Coastal Grotesque](https://www.tabletmag.com/sections/arts-letters/articles/coastal-grotesque-bret-easton-ellis)
-- [Show HN: An open-source AI Scrum Team that lives natively in GitHub Issues](https://github.com/plusai-solutions/ai-scrum-master-template)
-- [Crimson Desert refuses to launch on Intel Arc GPUs, developer says seek refunds](https://www.club386.com/crimson-desert-refuses-to-launch-on-millions-of-intel-arc-gpus-developer-recommends-seeking-refunds/)
-- [Money isn&#39;t going to solve the burnout problem](https://blogs.gentoo.org/mgorny/2026/03/07/money-isnt-going-to-solve-the-burnout-problem/)
-- [Best laptop Apple ever made [video]](https://www.youtube.com/watch?v=JpPIrmZB828)
-- [Uber to Invest Up to $1.25B in Rivian Robotaxis](https://www.wsj.com/business/autos/uber-to-invest-up-to-1-25-billion-in-rivian-robotaxis-8b295925)
-- [Buy Now, Pay Later Makes Billions Off People&#39;s Struggles [video]](https://www.youtube.com/watch?v=0mYvLHJd9ww)
+- [RedwoodSDK – Realtime: One line, one hook, and sync](https://rwsdk.com/realtime)
+- [Vesuvius Challenge](https://scrollprize.org/)
+- [Show HN: AWB – Benchmark that tests your AI coding workflow, not just the model](https://github.com/xmpuspus/ai-workflow-benchmark)
+- [Show HN: Skill Lab – CLI tool for testing and optimizing agent skills](https://github.com/8ddieHu0314/Skill-Lab)
+- [Sashiko: An agentic Linux kernel code review system](https://sashiko.dev/)
+- [Show HN: Clinical Trial Finder and Ranker](https://clifton-topaz.vercel.app/)
+- [Mexico’s monarch butterfly population is up more than 60% over last year](https://mexiconewsdaily.com/news/mexico-monarch-butterfly-populations-up-2026/)
+- [Show HN: Cultivation &gt; Accumulation &lpar;For AI Agentic Memory&rpar;](https://wibomd.substack.com/p/cultivation-accumulation)
+- [China and the Future of Science](https://scholarstage.substack.com/p/china-and-the-future-of-science)
+- [Anyone know how long it will take to re-start Qatar&#39;s helium plants?](https://news.ycombinator.com/item?id=47474260)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

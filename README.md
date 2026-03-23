@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Middle East crisis live: Trump gives Iran 48-hour ultimatum to open strait of Hormuz; 100 injured in Israel](https://www.theguardian.com/world/live/2026/mar/22/middle-east-crisis-live-iran-war-trump-ultimatum-major-attack-strait-of-hormuz-open-israel-hit-tehran-retaliation)
-- [Cuba’s power grid collapses in third nationwide blackout amid US oil blockade](https://www.theguardian.com/world/2026/mar/22/cubas-power-grid-collapses-in-third-nationwide-blackout-amid-us-oil-blockade)
-- [Ukraine war briefing: US, Ukrainian negotiators meet in Florida as Russian attacks kill more civilians](https://www.theguardian.com/world/2026/mar/22/ukraine-war-briefing-us-ukrainian-negotiators-meet-in-florida-as-russian-attacks-kill-more-civilians)
-- [Trump news at a glance: president says ICE agents at airports would ‘do security like no one has ever seen before’](https://www.theguardian.com/us-news/2026/mar/22/trump-news-latest-updates-today)
-- [Saturday Night Live UK review – it didn’t fail and it could have been a lot worse](https://www.theguardian.com/culture/2026/mar/22/saturday-night-live-uk-review-it-didnt-fail-and-it-could-have-been-a-lot-worse)
-- [‘So awesome’: BTS fans on K-pop’s biggest comeback](https://www.theguardian.com/music/2026/mar/22/bts-concert-arirang-kpop-fans-comeback-south-korea-seoul)
-- [Naomi Osaka casts doubt on tennis future after first-round defeat in Miami](https://www.theguardian.com/sport/2026/mar/22/naomi-osaka-tennis-future-miami-gibson-norrie-michelsen)
-- [Hawaii urges residents to ‘leave now’ amid worst flooding in over 20 years](https://www.theguardian.com/us-news/2026/mar/21/hawaii-flooding-warnings)
-- [Trump threatens to send ICE to airports on Monday amid DHS funding standoff](https://www.theguardian.com/us-news/2026/mar/21/trump-threatens-to-send-ice-agents-to-airports-unless-dhs-deal-reached)
-- [Strike on Sudan hospital kills at least 64 and wounds 89 more, WHO reports](https://www.theguardian.com/world/2026/mar/21/strike-on-sudan-hospital-kills-wounds-world-health-organization-reports)
+- [Earth being ‘pushed beyond its limits’ as energy imbalance reaches record high](https://www.theguardian.com/environment/2026/mar/23/earth-being-pushed-beyond-its-limits-as-energy-imbalance-reaches-record-high)
+- [Socialist Emmanuel Grégoire elected Paris mayor, as National Rally fails to take key cities](https://www.theguardian.com/world/2026/mar/22/paris-mayoral-race-socialist-emmanuel-gregoire-projected-to-win)
+- [What the Epstein case teaches us about grooming – podcast](https://www.theguardian.com/news/audio/2026/mar/23/what-the-epstein-case-teaches-us-about-grooming-podcast)
+- [Barry Keoghan says online abuse means he ‘doesn’t want to go outside’ any more](https://www.theguardian.com/film/2026/mar/23/barry-keoghan-says-online-abuse-means-he-doesnt-want-to-go-outside-any-more)
+- [Ukraine war briefing: Russia trying to ‘intensify’ attacks; US-Ukraine talks end](https://www.theguardian.com/world/2026/mar/23/ukraine-war-briefing-russia-trying-to-intensify-attacks-us-ukraine-talks-end)
+- [I discovered three new geckos in Cambodia’s limestone caves – and that’s not all we found](https://www.theguardian.com/environment/2026/mar/22/i-discovered-three-new-geckos-in-cambodia-limestone-caves-and-thats-not-all-we-found-aoe)
+- [Student debt eats away home deposit savings to tune of £2,000 a year, says Barclays](https://www.theguardian.com/money/2026/mar/23/student-debt-eats-away-home-deposit-savings-to-tune-of-2000-a-year-says-barclays)
+- [Thousands of care leavers in England ‘locked out’ of work as firms slow to adapt](https://www.theguardian.com/business/2026/mar/23/thousands-of-care-leavers-in-england-locked-out-of-work-as-firms-slow-to-adapt)
+- [In Our Blood: The Forever Chemicals Scandal review – no one should have to live like this](https://www.theguardian.com/tv-and-radio/2026/mar/22/in-our-blood-the-forever-chemicals-scandal-review-no-one-should-have-to-live-like-this)
+- [Iran vows to destroy Middle East water and energy facilities if US attacks power plants](https://www.theguardian.com/world/2026/mar/22/iran-says-destroy-middle-east-infrastructure-us-energy-sites)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

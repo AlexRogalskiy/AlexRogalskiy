@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Ant Mill](https://en.wikipedia.org/wiki/Ant_mill)
-- [The Three Pillars of JavaScript Bloat](https://43081j.com/2026/03/three-pillars-of-javascript-bloat)
-- [Chest Fridge &lpar;2009&rpar;](https://mtbest.net/chest-fridge/)
-- [The Impact of AI on Game Dev Jobs. Open to Work Crisis](https://darkounity.com/blog-post?id=the-impact-of-ai-on-game-dev-jobs-open-to-work-crisis--1774128585922)
-- [Floci – A free, open-source local AWS emulator](https://github.com/hectorvent/floci)
-- [Professional video editing, right in the browser with WebGPU and WASM](https://tooscut.app/)
-- [Do Not Turn Child Protection into Internet Access Control](https://news.dyne.org/child-protection-is-not-access-control/)
-- [Tinybox – Offline AI device 120B parameters](https://tinygrad.org/#tinybox)
-- [Common Lisp Development Tooling](https://www.creativetension.co/posts/common-lisp-development-tooling)
-- [Show HN: Atomic – Self-hosted, semantically-connected personal knowledge base](https://github.com/kenforthewin/atomic)
+- [GoGoGrandparent &lpar;YC S16&rpar; is hiring Back end Engineers](https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer)
+- [&quot;Collaboration&quot; Is Bullshit](https://www.joanwestenberg.com/collaboration-is-bullshit/)
+- [Intuitions for Tranformer Circuits](https://www.connorjdavis.com/p/intuitions-for-transformer-circuits)
+- [Migrating the American Express Payment Network, Twice](https://americanexpress.io/migrating-the-payments-network-twice/)
+- [They&#39;re Vibe-Coding Spam Now](https://tedium.co/2026/02/25/vibe-coded-email-spam/)
+- [GrapheneOS will remain usable by anyone without requiring personal information](https://grapheneos.social/@GrapheneOS/116261301913660830)
+- [Teaching Claude to QA a mobile app](https://christophermeiklejohn.com/ai/zabriskie/development/android/ios/2026/03/22/teaching-claude-to-qa-a-mobile-app.html)
+- [The gold standard of optimization: A look under the hood of RollerCoaster Tycoon](https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/)
+- [PC Gamer recommends RSS readers in a 37mb article that just keeps downloading](https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/)
+- [What Young Workers Are Doing to AI-Proof Themselves](https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

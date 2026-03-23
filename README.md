@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [RedwoodSDK – Realtime: One line, one hook, and sync](https://rwsdk.com/realtime)
-- [Vesuvius Challenge](https://scrollprize.org/)
-- [Show HN: AWB – Benchmark that tests your AI coding workflow, not just the model](https://github.com/xmpuspus/ai-workflow-benchmark)
-- [Show HN: Skill Lab – CLI tool for testing and optimizing agent skills](https://github.com/8ddieHu0314/Skill-Lab)
-- [Sashiko: An agentic Linux kernel code review system](https://sashiko.dev/)
-- [Show HN: Clinical Trial Finder and Ranker](https://clifton-topaz.vercel.app/)
-- [Mexico’s monarch butterfly population is up more than 60% over last year](https://mexiconewsdaily.com/news/mexico-monarch-butterfly-populations-up-2026/)
-- [Show HN: Cultivation &gt; Accumulation &lpar;For AI Agentic Memory&rpar;](https://wibomd.substack.com/p/cultivation-accumulation)
-- [China and the Future of Science](https://scholarstage.substack.com/p/china-and-the-future-of-science)
-- [Anyone know how long it will take to re-start Qatar&#39;s helium plants?](https://news.ycombinator.com/item?id=47474260)
+- [Using LLMs to fix GitHub&#39;s unreliable topic tagging](https://trendshift.io/topics)
+- [Show HN: Smriti – Like Git, but for reasoning state](https://github.com/himanshudongre/smriti/blob/main/README.md)
+- [Inspect – Why I stopped code review and started triaging by dependency graphs](https://inspect.ataraxy-labs.com/)
+- [Trickle Down Effects](https://gomakethings.com/trickle-down-effects/)
+- [Uber&#39;s Deal Blitz to Stop a Robotaxi Monopoly](https://www.businessinsider.com/uber-robotaxi-strategy-deals-partnerships-rivian-waymo-tesla-zoox-2026-3)
+- [Biomechanics of the Hand](https://ouhsc.edu/bserdac/dthompso/web/namics/hand.htm)
+- [Everyone is wrong about NotebookLM](https://medium.com/@stunspot/everyone-is-wrong-about-notebooklm-802770aa12f7)
+- [54-Point Security Gap Across 12 Cloud Firewalls &lpar;2026&rpar;](https://secureiqlab.com/acfw-v2-comparative-report/)
+- [The Effectiveness of Skills.md](https://jdsemrau.substack.com/p/the-absurd-effectiveness-of-skillsmd)
+- [Pruner – local proxy that cuts Claude Code API bills by 20–70%](https://onegotoai.github.io/Pruner/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

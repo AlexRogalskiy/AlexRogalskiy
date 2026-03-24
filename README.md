@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [GoGoGrandparent &lpar;YC S16&rpar; is hiring Back end Engineers](https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer)
-- [&quot;Collaboration&quot; Is Bullshit](https://www.joanwestenberg.com/collaboration-is-bullshit/)
-- [Intuitions for Tranformer Circuits](https://www.connorjdavis.com/p/intuitions-for-transformer-circuits)
-- [Migrating the American Express Payment Network, Twice](https://americanexpress.io/migrating-the-payments-network-twice/)
-- [They&#39;re Vibe-Coding Spam Now](https://tedium.co/2026/02/25/vibe-coded-email-spam/)
-- [GrapheneOS will remain usable by anyone without requiring personal information](https://grapheneos.social/@GrapheneOS/116261301913660830)
-- [Teaching Claude to QA a mobile app](https://christophermeiklejohn.com/ai/zabriskie/development/android/ios/2026/03/22/teaching-claude-to-qa-a-mobile-app.html)
-- [The gold standard of optimization: A look under the hood of RollerCoaster Tycoon](https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/)
-- [PC Gamer recommends RSS readers in a 37mb article that just keeps downloading](https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/)
-- [What Young Workers Are Doing to AI-Proof Themselves](https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284)
+- [Sunsetting the Techempower Framework Benchmarks](https://github.com/TechEmpower/FrameworkBenchmarks/issues/10932)
+- [Epoch confirms GPT5.4 Pro solved a frontier math open problem](https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs)
+- [I created my first AI-assisted pull request](https://nelson.cloud/i-created-my-first-ai-assisted-pull-request-and-i-feel-like-a-fraud/)
+- [Windows 3.1 tiled background .bmp archive](https://github.com/andreasjansson/win-3.1-backgrounds)
+- [IRIX 3dfx Voodoo driver and glide2x IRIX port](https://sdz-mods.com/index.php/2026/03/23/irix-3dfx-voodoo-driver-glide2x-irix-port/)
+- [The Resolv hack: How one compromised key printed $23M](https://www.chainalysis.com/blog/lessons-from-the-resolv-hack/)
+- [Claude Code Cheat Sheet](https://cc.storyfox.cz)
+- [FCC updates covered list to include foreign-made consumer routers](https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers)
+- [How I&#39;m Productive with Claude Code](https://neilkakkar.com/productive-with-claude-code.html)
+- [A retro terminal music player inspired by Winamp](https://github.com/bjarneo/cliamp)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

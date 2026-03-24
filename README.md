@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Using LLMs to fix GitHub&#39;s unreliable topic tagging](https://trendshift.io/topics)
-- [Show HN: Smriti – Like Git, but for reasoning state](https://github.com/himanshudongre/smriti/blob/main/README.md)
-- [Inspect – Why I stopped code review and started triaging by dependency graphs](https://inspect.ataraxy-labs.com/)
-- [Trickle Down Effects](https://gomakethings.com/trickle-down-effects/)
-- [Uber&#39;s Deal Blitz to Stop a Robotaxi Monopoly](https://www.businessinsider.com/uber-robotaxi-strategy-deals-partnerships-rivian-waymo-tesla-zoox-2026-3)
-- [Biomechanics of the Hand](https://ouhsc.edu/bserdac/dthompso/web/namics/hand.htm)
-- [Everyone is wrong about NotebookLM](https://medium.com/@stunspot/everyone-is-wrong-about-notebooklm-802770aa12f7)
-- [54-Point Security Gap Across 12 Cloud Firewalls &lpar;2026&rpar;](https://secureiqlab.com/acfw-v2-comparative-report/)
-- [The Effectiveness of Skills.md](https://jdsemrau.substack.com/p/the-absurd-effectiveness-of-skillsmd)
-- [Pruner – local proxy that cuts Claude Code API bills by 20–70%](https://onegotoai.github.io/Pruner/)
+- [PwC will say goodbye to staff who aren&#39;t convinced about AI](https://www.theregister.com/2026/03/19/pwc_ai/)
+- [StackOverflow&#39;s questions per day have fallen 99%](https://meta.stackoverflow.com/questions/433864/do-you-agree-with-gergely-that-stack-overflow-is-almost-dead)
+- [Music manuscripts from Cologne now linked to digitized copies](https://rism.info/library_collections/2026/03/19/Music-manuscripts-from-Cologne.html)
+- [Where did 400 MiB go?](https://frn.sh/pmem/)
+- [Naomi Klein and Karen Hao: The Empire of AI and the Fight for Our Future [video]](https://www.youtube.com/watch?v=Z1B__Efqacc)
+- [The Equal Vote Coalition](https://www.equal.vote/)
+- [App for comparing your kid&#39;s development](https://appstoreconnect.apple.com/login?targetUrl=%2Fapps%2F6757778539%2Fdistribution%2Fios%2Fversion%2Fdeliverable&authResult=FAILED)
+- [ArrowJS – The first UI framework for the agentic era](https://arrow-js.com/)
+- [Show HN: RoverBook – PostHog for AI Agents](https://github.com/rtrvr-ai/rover/tree/main/packages/roverbook)
+- [Pharaoh – structural codebase maps for AI coding agents](https://pharaoh.so/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

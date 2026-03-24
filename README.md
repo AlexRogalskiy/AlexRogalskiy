@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Earth being ‘pushed beyond its limits’ as energy imbalance reaches record high](https://www.theguardian.com/environment/2026/mar/23/earth-being-pushed-beyond-its-limits-as-energy-imbalance-reaches-record-high)
-- [Socialist Emmanuel Grégoire elected Paris mayor, as National Rally fails to take key cities](https://www.theguardian.com/world/2026/mar/22/paris-mayoral-race-socialist-emmanuel-gregoire-projected-to-win)
-- [What the Epstein case teaches us about grooming – podcast](https://www.theguardian.com/news/audio/2026/mar/23/what-the-epstein-case-teaches-us-about-grooming-podcast)
-- [Barry Keoghan says online abuse means he ‘doesn’t want to go outside’ any more](https://www.theguardian.com/film/2026/mar/23/barry-keoghan-says-online-abuse-means-he-doesnt-want-to-go-outside-any-more)
-- [Ukraine war briefing: Russia trying to ‘intensify’ attacks; US-Ukraine talks end](https://www.theguardian.com/world/2026/mar/23/ukraine-war-briefing-russia-trying-to-intensify-attacks-us-ukraine-talks-end)
-- [I discovered three new geckos in Cambodia’s limestone caves – and that’s not all we found](https://www.theguardian.com/environment/2026/mar/22/i-discovered-three-new-geckos-in-cambodia-limestone-caves-and-thats-not-all-we-found-aoe)
-- [Student debt eats away home deposit savings to tune of £2,000 a year, says Barclays](https://www.theguardian.com/money/2026/mar/23/student-debt-eats-away-home-deposit-savings-to-tune-of-2000-a-year-says-barclays)
-- [Thousands of care leavers in England ‘locked out’ of work as firms slow to adapt](https://www.theguardian.com/business/2026/mar/23/thousands-of-care-leavers-in-england-locked-out-of-work-as-firms-slow-to-adapt)
-- [In Our Blood: The Forever Chemicals Scandal review – no one should have to live like this](https://www.theguardian.com/tv-and-radio/2026/mar/22/in-our-blood-the-forever-chemicals-scandal-review-no-one-should-have-to-live-like-this)
-- [Iran vows to destroy Middle East water and energy facilities if US attacks power plants](https://www.theguardian.com/world/2026/mar/22/iran-says-destroy-middle-east-infrastructure-us-energy-sites)
+- [Middle East crisis live: Iran dismisses Trump claim of talks; von der Leyen says global energy situation is ‘critical’](https://www.theguardian.com/world/live/2026/mar/24/iran-war-live-updates-trump-ursula-von-der-leyen-oil-prices-energy-crisis-israel-strikes)
+- [Ukraine war briefing: Russia setting up long-range drone bases in Belarus, Zelenskyy says](https://www.theguardian.com/world/2026/mar/24/ukraine-war-briefing-russia-setting-up-long-range-drone-bases-in-belarus-zelenskyy-says)
+- [Teenage boxer Isis Sio out of coma after being knocked out in fourth professional fight](https://www.theguardian.com/sport/2026/mar/23/teenage-boxer-isis-sio-in-coma-after-being-knocked-out-in-fourth-professional-fight)
+- [New Zealand to give cash payments to some low income families as global fuel crisis worsens](https://www.theguardian.com/world/2026/mar/24/new-zealand-cash-payments-families-global-fuel-crisis)
+- [Hong Kong police can demand phone and computer passwords under amended national security law](https://www.theguardian.com/world/2026/mar/24/hong-kong-phone-passwords-national-security-law)
+- [Bill Cosby found guilty of sexual assault and ordered to pay $59.25m in damages](https://www.theguardian.com/us-news/2026/mar/23/bill-cosby-guilty-sexual-assault-civil-trial)
+- [Tonga PM welcomes US deal to explore deep-sea minerals amid environmental concerns](https://www.theguardian.com/world/2026/mar/24/tonga-us-deal-deep-sea-minerals-environmental-concern)
+- [‘A miracle’: Canadian flight attendant ejected from plane survives New York crash](https://www.theguardian.com/us-news/2026/mar/23/canadian-flight-attendant-survives-new-york-plane-crash-laguardia)
+- [Trump news at a glance: president touts ‘strong talks’ with Iran that Iran says have not happened](https://www.theguardian.com/us-news/2026/mar/23/trump-news-latest-updates-today)
+- [Senate confirms Trump loyalist Markwayne Mullin as homeland security secretary](https://www.theguardian.com/us-news/2026/mar/23/senate-markwayne-mullin-confirmed)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

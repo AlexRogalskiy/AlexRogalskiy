@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Middle East crisis live: Iran dismisses Trump claim of talks; von der Leyen says global energy situation is ‘critical’](https://www.theguardian.com/world/live/2026/mar/24/iran-war-live-updates-trump-ursula-von-der-leyen-oil-prices-energy-crisis-israel-strikes)
-- [Ukraine war briefing: Russia setting up long-range drone bases in Belarus, Zelenskyy says](https://www.theguardian.com/world/2026/mar/24/ukraine-war-briefing-russia-setting-up-long-range-drone-bases-in-belarus-zelenskyy-says)
-- [Teenage boxer Isis Sio out of coma after being knocked out in fourth professional fight](https://www.theguardian.com/sport/2026/mar/23/teenage-boxer-isis-sio-in-coma-after-being-knocked-out-in-fourth-professional-fight)
-- [New Zealand to give cash payments to some low income families as global fuel crisis worsens](https://www.theguardian.com/world/2026/mar/24/new-zealand-cash-payments-families-global-fuel-crisis)
-- [Hong Kong police can demand phone and computer passwords under amended national security law](https://www.theguardian.com/world/2026/mar/24/hong-kong-phone-passwords-national-security-law)
-- [Bill Cosby found guilty of sexual assault and ordered to pay $59.25m in damages](https://www.theguardian.com/us-news/2026/mar/23/bill-cosby-guilty-sexual-assault-civil-trial)
-- [Tonga PM welcomes US deal to explore deep-sea minerals amid environmental concerns](https://www.theguardian.com/world/2026/mar/24/tonga-us-deal-deep-sea-minerals-environmental-concern)
-- [‘A miracle’: Canadian flight attendant ejected from plane survives New York crash](https://www.theguardian.com/us-news/2026/mar/23/canadian-flight-attendant-survives-new-york-plane-crash-laguardia)
-- [Trump news at a glance: president touts ‘strong talks’ with Iran that Iran says have not happened](https://www.theguardian.com/us-news/2026/mar/23/trump-news-latest-updates-today)
-- [Senate confirms Trump loyalist Markwayne Mullin as homeland security secretary](https://www.theguardian.com/us-news/2026/mar/23/senate-markwayne-mullin-confirmed)
+- [Middle East crisis live: Fire at Kuwait airport after drone attack; elite US airborne division reportedly headed to region](https://www.theguardian.com/world/live/2026/mar/24/iran-war-live-updates-trump-ursula-von-der-leyen-oil-prices-energy-crisis-israel-strikes)
+- [Hong Kong bookstore staff arrested for allegedly selling ‘seditious’ Jimmy Lai biography, broadcaster reports](https://www.theguardian.com/world/2026/mar/25/hong-kong-bookstore-staff-arrested-jimmy-lai-biography)
+- [Lebo M sues comedian Learnmore Jonasi claiming Circle of Life misrepresentation](https://www.theguardian.com/culture/2026/mar/25/ebo-m-lion-king-circle-of-life-chant-learnmore-jonasi-lawsuit)
+- [ABC switches to BBC programming as staff walk off the job for 24-hour strike](https://www.theguardian.com/media/2026/mar/25/abc-staff-strike)
+- [Ukraine war briefing: Moldova declares emergency after Russian attack cuts key power line](https://www.theguardian.com/world/2026/mar/25/ukraine-war-briefing-moldova-declares-emergency-after-russian-attack-cuts-key-power-line)
+- [Democrats flip seat in Florida state house in district that includes Trump’s Mar-a-Lago](https://www.theguardian.com/us-news/2026/mar/24/democrats-flip-florida-seat-emily-gregory-mar-a-lago)
+- [More young people want to vote in New Zealand’s Māori electorates. What are they and how do they work?](https://www.theguardian.com/world/2026/mar/25/new-zealand-maori-electorates-explained)
+- [Philippines declares ‘national energy emergency’ and boosts coal power as Iran war grinds on](https://www.theguardian.com/world/2026/mar/25/philippines-declares-national-energy-emergency-iran-war)
+- [Reacher star Alan Ritchson acted in self-defense in neighbor fight, Tennessee police say](https://www.theguardian.com/tv-and-radio/2026/mar/25/reacher-star-alan-ritchson-neighbour-fight-self-defense-ntwnfb)
+- [Public satisfaction with the NHS rises for first time since 2019](https://www.theguardian.com/society/2026/mar/25/public-satisfaction-with-nhs-rises-wes-streeting)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

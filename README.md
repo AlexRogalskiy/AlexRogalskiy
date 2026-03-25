@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [PwC will say goodbye to staff who aren&#39;t convinced about AI](https://www.theregister.com/2026/03/19/pwc_ai/)
-- [StackOverflow&#39;s questions per day have fallen 99%](https://meta.stackoverflow.com/questions/433864/do-you-agree-with-gergely-that-stack-overflow-is-almost-dead)
-- [Music manuscripts from Cologne now linked to digitized copies](https://rism.info/library_collections/2026/03/19/Music-manuscripts-from-Cologne.html)
-- [Where did 400 MiB go?](https://frn.sh/pmem/)
-- [Naomi Klein and Karen Hao: The Empire of AI and the Fight for Our Future [video]](https://www.youtube.com/watch?v=Z1B__Efqacc)
-- [The Equal Vote Coalition](https://www.equal.vote/)
-- [App for comparing your kid&#39;s development](https://appstoreconnect.apple.com/login?targetUrl=%2Fapps%2F6757778539%2Fdistribution%2Fios%2Fversion%2Fdeliverable&authResult=FAILED)
-- [ArrowJS – The first UI framework for the agentic era](https://arrow-js.com/)
-- [Show HN: RoverBook – PostHog for AI Agents](https://github.com/rtrvr-ai/rover/tree/main/packages/roverbook)
-- [Pharaoh – structural codebase maps for AI coding agents](https://pharaoh.so/)
+- [Ask HN: Any recommended engineering/dev related Slack channels?](https://news.ycombinator.com/item?id=47513148)
+- [How to Keep Secrets Out of the Sandbox](https://sandbox0.ai/blog/2026-03/keep-api-keys-out-of-ai-agents)
+- [Meta ordered to pay $375M in New Mexico trial over child exploitation](https://www.reuters.com/sustainability/boards-policy-regulation/jury-orders-meta-pay-375-mln-new-mexico-lawsuit-over-child-sexual-exploitation-2026-03-24/)
+- [Safer vibecoding via old hacker habits](http://addxorrol.blogspot.com/2026/03/slightly-safer-vibecoding-by-adopting.html)
+- [Show HN: Necessary Cuts – an interactive fiction fragment](https://necessarycuts.com/play)
+- [Show HN: GitHub Actions for Agents](https://news.ycombinator.com/item?id=47513068)
+- [Warfare of Imperial China Map](https://chinawarfare.pages.dev/)
+- [US Army raises enlistment age to 42 and removes marijuana waiver requirement](https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN42922-AR_601-210-000-WEB-1.pdf)
+- [ADFT: Deterministic offline AD investigation toolkit](https://github.com/Kjean13/ADFT)
+- [Signed: A Portfolio for Investors](https://zachholman.com/posts/signed-a-portfolio-for-investors)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

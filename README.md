@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ask HN: Any recommended engineering/dev related Slack channels?](https://news.ycombinator.com/item?id=47513148)
-- [How to Keep Secrets Out of the Sandbox](https://sandbox0.ai/blog/2026-03/keep-api-keys-out-of-ai-agents)
-- [Meta ordered to pay $375M in New Mexico trial over child exploitation](https://www.reuters.com/sustainability/boards-policy-regulation/jury-orders-meta-pay-375-mln-new-mexico-lawsuit-over-child-sexual-exploitation-2026-03-24/)
-- [Safer vibecoding via old hacker habits](http://addxorrol.blogspot.com/2026/03/slightly-safer-vibecoding-by-adopting.html)
-- [Show HN: Necessary Cuts – an interactive fiction fragment](https://necessarycuts.com/play)
-- [Show HN: GitHub Actions for Agents](https://news.ycombinator.com/item?id=47513068)
-- [Warfare of Imperial China Map](https://chinawarfare.pages.dev/)
-- [US Army raises enlistment age to 42 and removes marijuana waiver requirement](https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN42922-AR_601-210-000-WEB-1.pdf)
-- [ADFT: Deterministic offline AD investigation toolkit](https://github.com/Kjean13/ADFT)
-- [Signed: A Portfolio for Investors](https://zachholman.com/posts/signed-a-portfolio-for-investors)
+- [Made this tool so your docs never get stale just in 2 simple steps](https://news.ycombinator.com/item?id=47526603)
+- [Getting Global Age Assurance Right: What We Got Wrong and What&#39;s Changing](https://discord.com/blog/getting-global-age-assurance-right-what-we-got-wrong-and-whats-changing)
+- [10.3&quot; Color E Ink Tablet Android 14OS &lpar;Bigme B1051C&rpar;](https://store.bigme.vip/products/bigme-b1051c-ulta-thin-color-e-ink-tablet-with-android-14os)
+- [Ask HN: How did you figure out what you wanted to do with your life?](https://news.ycombinator.com/item?id=47526588)
+- [Polygraphs Aren&#39;t Accurate. Are There Better Options?](https://undark.org/2026/03/25/lie-detection-polygraph-accuracy/)
+- [Zero Days: Electric Motorcycles Are a Security Nightmare](https://persephonekarnstein.github.io/post/zero-days/)
+- [TSA boss warns of airport shutdowns; no deal yet on day 40 of DHS funding fight](https://apnews.com/article/airport-wait-times-shutdown-dhs-congress-tsa-391cbd731bed2e8433ab7f1a96ca9663)
+- [Isrib](https://en.wikipedia.org/wiki/ISRIB)
+- [Gold, a &#39;safe haven&#39; in uncertain times: Why is it crashing amid a war?](https://theconversation.com/gold-is-meant-to-be-a-safe-haven-in-uncertain-times-why-is-it-crashing-amid-a-war-279095)
+- [Disney cancels $1B OpenAI partnership amid Sora shutdown plans](https://arstechnica.com/ai/2026/03/the-end-of-sora-also-means-the-end-of-disneys-1-billion-openai-investment/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

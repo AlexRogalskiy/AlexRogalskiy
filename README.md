@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Middle East crisis live: Fire at Kuwait airport after drone attack; elite US airborne division reportedly headed to region](https://www.theguardian.com/world/live/2026/mar/24/iran-war-live-updates-trump-ursula-von-der-leyen-oil-prices-energy-crisis-israel-strikes)
-- [Hong Kong bookstore staff arrested for allegedly selling ‘seditious’ Jimmy Lai biography, broadcaster reports](https://www.theguardian.com/world/2026/mar/25/hong-kong-bookstore-staff-arrested-jimmy-lai-biography)
-- [Lebo M sues comedian Learnmore Jonasi claiming Circle of Life misrepresentation](https://www.theguardian.com/culture/2026/mar/25/ebo-m-lion-king-circle-of-life-chant-learnmore-jonasi-lawsuit)
-- [ABC switches to BBC programming as staff walk off the job for 24-hour strike](https://www.theguardian.com/media/2026/mar/25/abc-staff-strike)
-- [Ukraine war briefing: Moldova declares emergency after Russian attack cuts key power line](https://www.theguardian.com/world/2026/mar/25/ukraine-war-briefing-moldova-declares-emergency-after-russian-attack-cuts-key-power-line)
-- [Democrats flip seat in Florida state house in district that includes Trump’s Mar-a-Lago](https://www.theguardian.com/us-news/2026/mar/24/democrats-flip-florida-seat-emily-gregory-mar-a-lago)
-- [More young people want to vote in New Zealand’s Māori electorates. What are they and how do they work?](https://www.theguardian.com/world/2026/mar/25/new-zealand-maori-electorates-explained)
-- [Philippines declares ‘national energy emergency’ and boosts coal power as Iran war grinds on](https://www.theguardian.com/world/2026/mar/25/philippines-declares-national-energy-emergency-iran-war)
-- [Reacher star Alan Ritchson acted in self-defense in neighbor fight, Tennessee police say](https://www.theguardian.com/tv-and-radio/2026/mar/25/reacher-star-alan-ritchson-neighbour-fight-self-defense-ntwnfb)
-- [Public satisfaction with the NHS rises for first time since 2019](https://www.theguardian.com/society/2026/mar/25/public-satisfaction-with-nhs-rises-wes-streeting)
+- [Middle East crisis live: Trump insists Iran wants a deal despite initial rejection; China sees ‘glimmer of hope’ for talks](https://www.theguardian.com/world/live/2026/mar/26/iran-war-live-updates-trump-deal-us-military-strikes-israel-lebanon-hezbollah)
+- [Ukraine war briefing: Zelenskyy says US has linked security guarantees to ceding of Donbas](https://www.theguardian.com/world/2026/mar/26/ukraine-war-briefing-zelenskyy-says-us-has-linked-security-guarantees-to-ceding-of-donbas)
+- [House of Lords pushes for Australian-style social media ban for under-16s](https://www.theguardian.com/uk-news/2026/mar/26/social-media-ban-under-16s-uk-house-lords)
+- [Trump praises ICE agents he sent to US airports and again suggests deploying national guard amid DHS shutdown – as it happened](https://www.theguardian.com/us-news/live/2026/mar/25/donald-trump-classified-documents-us-politics-live-latest)
+- [Esther Perel provided couples therapy for a man and his AI ‘girlfriend’ and now I fear for the human race | Emily Mulligan](https://www.theguardian.com/commentisfree/2026/mar/26/esther-perel-man-ai-girlfriend-couples-counselling)
+- [Ministers consider charging tourists to access UK national museum collections](https://www.theguardian.com/culture/2026/mar/26/ministers-tourist-fees-arts-museum-collections-uk)
+- [British suppliers to be prioritised for contracts in sectors vital to national security](https://www.theguardian.com/business/2026/mar/26/british-suppliers-to-be-prioritised-for-contracts-in-sectors-vital-to-national-security)
+- [Teeth ’n’ Smiles review – Self Esteem makes a mesmeric rock star but the drama doesn’t dazzle](https://www.theguardian.com/stage/2026/mar/26/teeth-n-smiles-review-theatre-duke-yorks-theatre-london-self-esteem)
+- [Strike on alleged drug vessel kills four in the Caribbean, US military says](https://www.theguardian.com/us-news/2026/mar/25/latest-caribbean-strike-boat-four-killed)
+- [UK armed forces authorised to board Russian tankers in British waters](https://www.theguardian.com/uk-news/2026/mar/25/uk-armed-forces-authorised-to-board-russia-tankers-shadow-fleet)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

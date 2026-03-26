@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Meta ordered to pay $375M in New Mexico trial over child exploitation](https://www.reuters.com/sustainability/boards-policy-regulation/jury-orders-meta-pay-375-mln-new-mexico-lawsuit-over-child-sexual-exploitation-2026-03-24/)
-- [US Army raises enlistment age to 42 and removes marijuana waiver requirement](https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN42922-AR_601-210-000-WEB-1.pdf)
-- [Show HN: DuckDB community extension for prefiltered HNSW using ACORN-1](https://github.com/cigrainger/duckdb-hnsw-acorn)
-- [In Edison’s Revenge, Data Centers Are Transitioning From AC to DC](https://spectrum.ieee.org/data-center-dc)
-- [Zero-Cost POSIX Compliance: Encoding the Socket State Machine in Lean&#39;s Types](https://ngrislain.github.io/blog/2026-3-25-zerocost-posix-compliance-encoding-the-socket-state-machine-in-lean-4s-type-system/)
-- [Flighty Airports](https://flighty.com/airports)
-- [A Compiler Writing Journey](https://github.com/DoctorWkt/acwj)
-- [I wanted to build vertical SaaS for pest control, so I took a technician job](https://www.onhand.pro/p/i-wanted-to-build-vertical-saas-for-pest-control-i-took-a-technician-job-instead)
-- [Goodbye to Sora](https://twitter.com/soraofficialapp/status/2036532795984715896)
-- [Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains](https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/)
+- [Show HN: Robust LLM Extractor for Websites in TypeScript](https://github.com/lightfeed/extractor)
+- [False claims in a widely-cited paper](https://statmodeling.stat.columbia.edu/2026/03/24/false-claims-in-a-published-no-corrections-no-consequences-welcome-to-the-business-school/)
+- [Woman who never stopped updating her lost dog&#39;s chip reunites with him after 11y](https://www.cbc.ca/radio/asithappens/11-year-dog-reunion-9.7140780)
+- [Show HN: A plain-text cognitive architecture for Claude Code](https://lab.puga.com.br/cog/)
+- [&quot;Disregard That&quot; Attacks](https://calpaterson.com/disregard.html)
+- [Running Tesla Model 3&#39;s computer on my desk using parts from crashed cars](https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/)
+- [Health NZ staff told to stop using ChatGPT to write clinical notes](https://www.rnz.co.nz/news/national/590645/health-nz-staff-told-to-stop-using-chatgpt-to-write-clinical-notes)
+- [The EU still wants to scan  your private messages and photos](https://fightchatcontrol.eu/?foo=bar)
+- [Sodium-ion EV battery breakthrough delivers 11-min charging and 450 km range](https://electrek.co/2026/03/25/sodium-ion-ev-battery-delivers-11-min-charging-450-km-range/)
+- [FreeCAD  v1.1](https://blog.freecad.org/2026/03/25/freecad-version-1-1-released/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

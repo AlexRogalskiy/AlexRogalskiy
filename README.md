@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Made this tool so your docs never get stale just in 2 simple steps](https://news.ycombinator.com/item?id=47526603)
-- [Getting Global Age Assurance Right: What We Got Wrong and What&#39;s Changing](https://discord.com/blog/getting-global-age-assurance-right-what-we-got-wrong-and-whats-changing)
-- [10.3&quot; Color E Ink Tablet Android 14OS &lpar;Bigme B1051C&rpar;](https://store.bigme.vip/products/bigme-b1051c-ulta-thin-color-e-ink-tablet-with-android-14os)
-- [Ask HN: How did you figure out what you wanted to do with your life?](https://news.ycombinator.com/item?id=47526588)
-- [Polygraphs Aren&#39;t Accurate. Are There Better Options?](https://undark.org/2026/03/25/lie-detection-polygraph-accuracy/)
-- [Zero Days: Electric Motorcycles Are a Security Nightmare](https://persephonekarnstein.github.io/post/zero-days/)
-- [TSA boss warns of airport shutdowns; no deal yet on day 40 of DHS funding fight](https://apnews.com/article/airport-wait-times-shutdown-dhs-congress-tsa-391cbd731bed2e8433ab7f1a96ca9663)
-- [Isrib](https://en.wikipedia.org/wiki/ISRIB)
-- [Gold, a &#39;safe haven&#39; in uncertain times: Why is it crashing amid a war?](https://theconversation.com/gold-is-meant-to-be-a-safe-haven-in-uncertain-times-why-is-it-crashing-amid-a-war-279095)
-- [Disney cancels $1B OpenAI partnership amid Sora shutdown plans](https://arstechnica.com/ai/2026/03/the-end-of-sora-also-means-the-end-of-disneys-1-billion-openai-investment/)
+- [Ship with Claude – Free Starter Pack &lpar;Maintainable AI-Assisted Projects&rpar;](https://panavy.gumroad.com/l/skmaha)
+- [Systemd-free antiX 26: Debian 13, in bonsai form](https://www.theregister.com/2026/03/24/antix_26_bonsai_trixie/)
+- [Ask HN: How has your DevOps/SRE changed since AI was adopted in your company?](https://news.ycombinator.com/item?id=47539056)
+- [Show HN: Sylve – A management plane for FreeBSD &lpar;ZFS, VMs, jails, clustering&rpar;](https://sylve.io)
+- [Does a hit song really need 9 writers? &lpar;2019&rpar;](https://www.bbc.com/news/entertainment-arts-48395059)
+- [If you are a published author you may be entitled to compensation](https://www.anthropiccopyrightsettlement.com)
+- [Tom paxton – lyndon Johnson told the nation [video]](https://www.youtube.com/watch?v=uXcG3tXYNF8)
+- [OpenCodex – A developer hub to showcase projects and profiles](https://opencodex.app)
+- [Sign Errors in &quot;The Four Laws of Black Hole Mechanics&quot;](https://arxiv.org/abs/2603.25171)
+- [Show HN: Agent Kernel – 3 MD files that turn any AI into a self-aware Agent](https://agent-kernel.dev/?release=v1.23.0)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

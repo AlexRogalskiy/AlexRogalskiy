@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Middle East crisis live: Trump insists Iran wants a deal despite initial rejection; China sees ‘glimmer of hope’ for talks](https://www.theguardian.com/world/live/2026/mar/26/iran-war-live-updates-trump-deal-us-military-strikes-israel-lebanon-hezbollah)
-- [Ukraine war briefing: Zelenskyy says US has linked security guarantees to ceding of Donbas](https://www.theguardian.com/world/2026/mar/26/ukraine-war-briefing-zelenskyy-says-us-has-linked-security-guarantees-to-ceding-of-donbas)
-- [House of Lords pushes for Australian-style social media ban for under-16s](https://www.theguardian.com/uk-news/2026/mar/26/social-media-ban-under-16s-uk-house-lords)
-- [Trump praises ICE agents he sent to US airports and again suggests deploying national guard amid DHS shutdown – as it happened](https://www.theguardian.com/us-news/live/2026/mar/25/donald-trump-classified-documents-us-politics-live-latest)
-- [Esther Perel provided couples therapy for a man and his AI ‘girlfriend’ and now I fear for the human race | Emily Mulligan](https://www.theguardian.com/commentisfree/2026/mar/26/esther-perel-man-ai-girlfriend-couples-counselling)
-- [Ministers consider charging tourists to access UK national museum collections](https://www.theguardian.com/culture/2026/mar/26/ministers-tourist-fees-arts-museum-collections-uk)
-- [British suppliers to be prioritised for contracts in sectors vital to national security](https://www.theguardian.com/business/2026/mar/26/british-suppliers-to-be-prioritised-for-contracts-in-sectors-vital-to-national-security)
-- [Teeth ’n’ Smiles review – Self Esteem makes a mesmeric rock star but the drama doesn’t dazzle](https://www.theguardian.com/stage/2026/mar/26/teeth-n-smiles-review-theatre-duke-yorks-theatre-london-self-esteem)
-- [Strike on alleged drug vessel kills four in the Caribbean, US military says](https://www.theguardian.com/us-news/2026/mar/25/latest-caribbean-strike-boat-four-killed)
-- [UK armed forces authorised to board Russian tankers in British waters](https://www.theguardian.com/uk-news/2026/mar/25/uk-armed-forces-authorised-to-board-russia-tankers-shadow-fleet)
+- [Middle East crisis live: Trump pausing strikes on Iran energy sites; Houthis say ‘no reason’ to halt Red Sea shipping](https://www.theguardian.com/world/live/2026/mar/27/iran-war-live-updates-trump-negotiations-bombing-hormuz-energy-oil-prices-middle-east)
+- [Human rights experts raise concerns over Olympics transgender women athlete ban](https://www.theguardian.com/sport/2026/mar/27/olympics-transgender-women-athlete-ban-human-rights-response-ntwnfb)
+- [Two humanitarian aid boats heading to Cuba have gone missing, Mexico says](https://www.theguardian.com/world/2026/mar/27/cuba-humanitarian-aid-boats-missing)
+- [Phillies’ Alec Bohm sues parents for millions alleging they siphoned money from his accounts](https://www.theguardian.com/sport/2026/mar/26/alec-bohm-phillies-parents-lawsuit-baseball)
+- [‘Accountability has arrived’: dual US court losses show shifting tide against Meta and co](https://www.theguardian.com/technology/2026/mar/26/us-court-social-media-meta-youtube)
+- [UK government must urgently apologise for forced adoption, MPs say](https://www.theguardian.com/society/2026/mar/27/uk-government-urgently-apologise-forced-adoption-mps-say)
+- [C-3PO head used in Star Wars sequel The Empire Strikes Back sells for more than $1m at auction](https://www.theguardian.com/film/2026/mar/27/star-wars-c3po-robot-head-sold-auction)
+- [Coco Gauff marches into Miami Open final with easy win over Karolina Muchova](https://www.theguardian.com/sport/2026/mar/26/they-think-its-muchova-it-is-now-coco-gauff-miami-open-tennis)
+- [Putin asks oligarchs to donate to Russia’s dwindling defence budget](https://www.theguardian.com/world/2026/mar/26/putin-asks-oligarchs-to-donate-to-russias-dwindling-defence-budget)
+- [Under fives should have at most hour a day of screen time, under new UK advice](https://www.theguardian.com/society/2026/mar/26/under-fives-should-have-at-most-hour-a-day-of-screen-time-under-new-uk-advice)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Middle East crisis live: Trump pausing strikes on Iran energy sites; Houthis say ‘no reason’ to halt Red Sea shipping](https://www.theguardian.com/world/live/2026/mar/27/iran-war-live-updates-trump-negotiations-bombing-hormuz-energy-oil-prices-middle-east)
-- [Human rights experts raise concerns over Olympics transgender women athlete ban](https://www.theguardian.com/sport/2026/mar/27/olympics-transgender-women-athlete-ban-human-rights-response-ntwnfb)
-- [Two humanitarian aid boats heading to Cuba have gone missing, Mexico says](https://www.theguardian.com/world/2026/mar/27/cuba-humanitarian-aid-boats-missing)
-- [Phillies’ Alec Bohm sues parents for millions alleging they siphoned money from his accounts](https://www.theguardian.com/sport/2026/mar/26/alec-bohm-phillies-parents-lawsuit-baseball)
-- [‘Accountability has arrived’: dual US court losses show shifting tide against Meta and co](https://www.theguardian.com/technology/2026/mar/26/us-court-social-media-meta-youtube)
-- [UK government must urgently apologise for forced adoption, MPs say](https://www.theguardian.com/society/2026/mar/27/uk-government-urgently-apologise-forced-adoption-mps-say)
-- [C-3PO head used in Star Wars sequel The Empire Strikes Back sells for more than $1m at auction](https://www.theguardian.com/film/2026/mar/27/star-wars-c3po-robot-head-sold-auction)
-- [Coco Gauff marches into Miami Open final with easy win over Karolina Muchova](https://www.theguardian.com/sport/2026/mar/26/they-think-its-muchova-it-is-now-coco-gauff-miami-open-tennis)
-- [Putin asks oligarchs to donate to Russia’s dwindling defence budget](https://www.theguardian.com/world/2026/mar/26/putin-asks-oligarchs-to-donate-to-russias-dwindling-defence-budget)
-- [Under fives should have at most hour a day of screen time, under new UK advice](https://www.theguardian.com/society/2026/mar/26/under-fives-should-have-at-most-hour-a-day-of-screen-time-under-new-uk-advice)
+- [Tiger Woods released on bail hours after arrest at crash scene on suspicion of DUI](https://www.theguardian.com/sport/2026/mar/27/tiger-woods-rollover-crash-florida-jupiter-island)
+- [Middle East crisis live: Strike reportedly injures 12 American soldiers at US base in Saudi; Rubio expects war to end in weeks](https://www.theguardian.com/world/live/2026/mar/28/middle-east-crisis-live-iran-war-updates-trump-us-negotiations-israel-strikes-lebanon-tehran-syria-explosions)
+- [Sinner continues Zverev domination to set up Miami Open final against Lehecka](https://www.theguardian.com/sport/2026/mar/28/jannik-sinner-alexander-zverev-jiri-lehecka-miami-open-tennis-semi-final)
+- [KP Sharma Oli: Nepal’s former prime minister arrested over alleged role in deadly protest crackdown](https://www.theguardian.com/world/2026/mar/28/kp-sharma-oli-nepal-arrested-alleged-role-protest-crackdown-ntwnfb)
+- [Ukraine war briefing: Rubio stridently denies US is demanding Kyiv give up eastern Donbas to Russia](https://www.theguardian.com/world/2026/mar/28/ukraine-war-briefing-rubio-zelenskyy-deal-donbas-to-russia)
+- [Tuchel’s chemistry-free team of strangers and second-choicers goes to war with itself | Barney Ronay](https://www.theguardian.com/football/2026/mar/28/tuchels-chemistry-free-team-of-strangers-and-second-choicers-goes-to-war-with-itself)
+- [‘I’m disappointed’: Tuchel unimpressed by Wembley crowd’s booing of Ben White](https://www.theguardian.com/football/2026/mar/27/im-disappointed-tuchel-unimpressed-by-wembley-crowds-booing-of-ben-white)
+- [Three killed as tourist helicopter crashes on Hawaiian island of Kauai](https://www.theguardian.com/us-news/2026/mar/27/hawaii-kauai-helicopter-crash)
+- [Ben White goes from hero to villain on England return in draw with Uruguay](https://www.theguardian.com/football/2026/mar/27/england-uruguay-international-friendly-match-report)
+- [‘Break your silence’: Jane Fonda leads rally against Trump crackdown on arts and media](https://www.theguardian.com/us-news/2026/mar/27/jane-fonda-kennedy-center-rally-trump)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

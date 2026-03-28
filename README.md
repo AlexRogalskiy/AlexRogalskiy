@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ship with Claude – Free Starter Pack &lpar;Maintainable AI-Assisted Projects&rpar;](https://panavy.gumroad.com/l/skmaha)
-- [Systemd-free antiX 26: Debian 13, in bonsai form](https://www.theregister.com/2026/03/24/antix_26_bonsai_trixie/)
-- [Ask HN: How has your DevOps/SRE changed since AI was adopted in your company?](https://news.ycombinator.com/item?id=47539056)
-- [Show HN: Sylve – A management plane for FreeBSD &lpar;ZFS, VMs, jails, clustering&rpar;](https://sylve.io)
-- [Does a hit song really need 9 writers? &lpar;2019&rpar;](https://www.bbc.com/news/entertainment-arts-48395059)
-- [If you are a published author you may be entitled to compensation](https://www.anthropiccopyrightsettlement.com)
-- [Tom paxton – lyndon Johnson told the nation [video]](https://www.youtube.com/watch?v=uXcG3tXYNF8)
-- [OpenCodex – A developer hub to showcase projects and profiles](https://opencodex.app)
-- [Sign Errors in &quot;The Four Laws of Black Hole Mechanics&quot;](https://arxiv.org/abs/2603.25171)
-- [Show HN: Agent Kernel – 3 MD files that turn any AI into a self-aware Agent](https://agent-kernel.dev/?release=v1.23.0)
+- [Programmatic SEO is just noise based on my last 5 years experience](https://news.ycombinator.com/item?id=47551534)
+- [He suddenly couldn&#39;t speak in space. NASA astronaut says his medical scare remai](https://phys.org/news/2026-03-suddenly-couldnt-space-nasa-astronaut.html)
+- [The AI Boom Is Missing the Secret Sauce of the 1990s](https://www.bloomberg.com/news/articles/2026-03-27/why-today-s-ai-boom-won-t-repeat-the-1990s-economy)
+- [Australia&#39;s Social Media Ban Runs into a Wave of Teen Workarounds](https://www.bloomberg.com/news/articles/2026-03-27/instagram-and-tiktok-ban-for-australian-kids-is-put-to-the-test)
+- [Gulf Countries&#39; Frustration with the US Grows as War Wears On](https://www.bloomberg.com/news/articles/2026-03-27/gulf-countries-frustration-with-the-us-grows-as-war-wears-on)
+- [Tyler Cowen on the state of economics and AI](https://arnoldkling.substack.com/p/tyler-cowen-on-the-state-of-economics)
+- [Social Security Should Be a Forced Savings Program Not a Welfare Program](https://marginalrevolution.com/marginalrevolution/2026/03/social-security-should-be-a-forced-savings-program-not-a-welfare-program.html)
+- [PonderingEffects](https://wiki.alopex.li/PonderingEffects)
+- [How to use mutliple Android devices together to make music and more](https://codeberg.org/ohmstone/android-multi-device-demo)
+- [Everyone is building a software factory](https://blog.exe.dev/bones-of-the-software-factory)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

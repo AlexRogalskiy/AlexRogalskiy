@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [HandyMKV for MakeMKV and HandBrake Automation](https://github.com/dmars8047/handymkv)
-- [Agent-to-Agent Pair Programming](https://axeldelafosse.com/blog/agent-to-agent-pair-programming)
-- [From 0% to 36% on Day 1 of ARC-AGI-3](https://www.symbolica.ai/blog/arc-agi-3)
-- [Judge blocks Pentagon effort to &#39;punish&#39; Anthropic with supply chain risk label](https://www.cnn.com/2026/03/26/business/anthropic-pentagon-injunction-supply-chain-risk)
-- [Chicago artist creates tourism posters for city&#39;s neighborhoods](https://www.chicagotribune.com/2026/03/25/chicago-neighborhood-posters/)
-- [Order Granting Preliminary Injunction – Anthropic vs. U.S. Department of War [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.cand.465515/gov.uscourts.cand.465515.134.0.pdf)
-- [Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer](https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/)
-- [We rewrote JSONata with AI in a day, saved $500k/year](https://www.reco.ai/blog/we-rewrote-jsonata-with-ai)
-- [Anthropic Subprocessor Changes](https://trust.anthropic.com)
-- [Apple discontinues the Mac Pro](https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/)
+- [AMD&#39;s Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip](https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/)
+- [Don&#39;t YOLO your file system](https://jai.scs.stanford.edu/)
+- [Show HN: Twitch Roulette – Find live streamers who need views the most](https://twitchroulette.net/)
+- [DOJ confirms FBI Director Kash Patel&#39;s personal email was hacked](https://arstechnica.com/tech-policy/2026/03/doj-confirms-fbi-director-kash-patels-personal-email-was-hacked/)
+- [Velxio 2.0 – Emulate Arduino, ESP32, and Raspberry Pi 3 in the Browser](https://github.com/davidmonterocrespo24/velxio)
+- [Colorado House passes bill to limit surveillance pricing and wage setting](https://coloradonewsline.com/briefs/surveillance-pricing-wage-setting/)
+- [ISBN Visualization](https://annas-archive.gd/isbn-visualization?)
+- [Make macOS consistently bad unironically](https://lr0.org/blog/p/macos/)
+- [Capability-Based Security for Redox: Namespace and CWD as Capabilities](https://www.redox-os.org/news/nlnet-cap-nsmgr-cwd/)
+- [The Future of SCIP](https://sourcegraph.com/blog/the-future-of-scip)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

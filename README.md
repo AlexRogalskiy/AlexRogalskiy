@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Tiger Woods released on bail hours after arrest at crash scene on suspicion of DUI](https://www.theguardian.com/sport/2026/mar/27/tiger-woods-rollover-crash-florida-jupiter-island)
-- [Middle East crisis live: Strike reportedly injures 12 American soldiers at US base in Saudi; Rubio expects war to end in weeks](https://www.theguardian.com/world/live/2026/mar/28/middle-east-crisis-live-iran-war-updates-trump-us-negotiations-israel-strikes-lebanon-tehran-syria-explosions)
-- [Sinner continues Zverev domination to set up Miami Open final against Lehecka](https://www.theguardian.com/sport/2026/mar/28/jannik-sinner-alexander-zverev-jiri-lehecka-miami-open-tennis-semi-final)
-- [KP Sharma Oli: Nepal’s former prime minister arrested over alleged role in deadly protest crackdown](https://www.theguardian.com/world/2026/mar/28/kp-sharma-oli-nepal-arrested-alleged-role-protest-crackdown-ntwnfb)
-- [Ukraine war briefing: Rubio stridently denies US is demanding Kyiv give up eastern Donbas to Russia](https://www.theguardian.com/world/2026/mar/28/ukraine-war-briefing-rubio-zelenskyy-deal-donbas-to-russia)
-- [Tuchel’s chemistry-free team of strangers and second-choicers goes to war with itself | Barney Ronay](https://www.theguardian.com/football/2026/mar/28/tuchels-chemistry-free-team-of-strangers-and-second-choicers-goes-to-war-with-itself)
-- [‘I’m disappointed’: Tuchel unimpressed by Wembley crowd’s booing of Ben White](https://www.theguardian.com/football/2026/mar/27/im-disappointed-tuchel-unimpressed-by-wembley-crowds-booing-of-ben-white)
-- [Three killed as tourist helicopter crashes on Hawaiian island of Kauai](https://www.theguardian.com/us-news/2026/mar/27/hawaii-kauai-helicopter-crash)
-- [Ben White goes from hero to villain on England return in draw with Uruguay](https://www.theguardian.com/football/2026/mar/27/england-uruguay-international-friendly-match-report)
-- [‘Break your silence’: Jane Fonda leads rally against Trump crackdown on arts and media](https://www.theguardian.com/us-news/2026/mar/27/jane-fonda-kennedy-center-rally-trump)
+- [Formula One 2026: Japanese Grand Prix race updates – live](https://www.theguardian.com/sport/live/2026/mar/29/formula-one-japanese-gp-grand-prix-f1-race-live-updates)
+- [Goodbye Graaff-Reinet: South African town’s name change stirs racial tensions](https://www.theguardian.com/world/2026/mar/29/graaff-reinet-robert-sobukwe-south-african-town-name-change-stirs-racial-tensions)
+- [Faithful, sensitive, forgiving: overthinkers like me make the best partners | Polly Hudson](https://www.theguardian.com/commentisfree/2026/mar/29/overthinkers-faithful-sensitive-forgiving-lovers-)
+- [Man arrested in Derby after car hits multiple pedestrians, with some seriously injured](https://www.theguardian.com/uk-news/2026/mar/29/man-arrested-in-derby-after-car-hits-multiple-pedestrians-with-some-seriously-injured)
+- [Trump news at a glance: No Kings rallies draw millions to US streets in protest against president](https://www.theguardian.com/us-news/2026/mar/29/trump-news-at-a-glance-no-kings-rallies-draw-millions-to-us-streets-in-protest-against-president)
+- [Moses Itauma knocks out Jermaine Franklin to extend unbeaten record](https://www.theguardian.com/sport/2026/mar/28/moses-itauma-inflicts-first-knockout-defeat-on-jermaine-franklin)
+- [Ukraine war briefing: Zelenskyy drums up defence agreements with Gulf states on countering missiles and drones](https://www.theguardian.com/world/2026/mar/29/ukraine-war-briefing-zelenskyy-drums-up-defence-agreements-with-gulf-states-on-countering-missiles-and-drones)
+- [Lack of specialist staff hinders support for Send children, teacher survey finds](https://www.theguardian.com/education/2026/mar/29/lack-of-specialist-staff-hinders-support-for-send-children-teacher-survey-finds)
+- [Houthi forces enter Iran conflict with missile attacks on Israeli military sites](https://www.theguardian.com/world/2026/mar/28/houthi-forces-enter-iran-conflict-with-missile-attacks-on-israeli-military-sites)
+- [JD Vance leads CPAC poll for next Republican presidential candidate](https://www.theguardian.com/us-news/2026/mar/28/jd-vance-leads-cpac-poll-republican-presidential-candidate)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

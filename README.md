@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Programmatic SEO is just noise based on my last 5 years experience](https://news.ycombinator.com/item?id=47551534)
-- [He suddenly couldn&#39;t speak in space. NASA astronaut says his medical scare remai](https://phys.org/news/2026-03-suddenly-couldnt-space-nasa-astronaut.html)
-- [The AI Boom Is Missing the Secret Sauce of the 1990s](https://www.bloomberg.com/news/articles/2026-03-27/why-today-s-ai-boom-won-t-repeat-the-1990s-economy)
-- [Australia&#39;s Social Media Ban Runs into a Wave of Teen Workarounds](https://www.bloomberg.com/news/articles/2026-03-27/instagram-and-tiktok-ban-for-australian-kids-is-put-to-the-test)
-- [Gulf Countries&#39; Frustration with the US Grows as War Wears On](https://www.bloomberg.com/news/articles/2026-03-27/gulf-countries-frustration-with-the-us-grows-as-war-wears-on)
-- [Tyler Cowen on the state of economics and AI](https://arnoldkling.substack.com/p/tyler-cowen-on-the-state-of-economics)
-- [Social Security Should Be a Forced Savings Program Not a Welfare Program](https://marginalrevolution.com/marginalrevolution/2026/03/social-security-should-be-a-forced-savings-program-not-a-welfare-program.html)
-- [PonderingEffects](https://wiki.alopex.li/PonderingEffects)
-- [How to use mutliple Android devices together to make music and more](https://codeberg.org/ohmstone/android-multi-device-demo)
-- [Everyone is building a software factory](https://blog.exe.dev/bones-of-the-software-factory)
+- [OpenYak – An open-source Cowork that runs any model and owns your filesystem](https://github.com/openyak/desktop)
+- [The Fastest Man Alive? [video]](https://www.youtube.com/shorts/R7OoEXaOVY0)
+- [How to Do Any Work](https://drive.google.com/uc?id=1wurJsO1vZYiynrTxDLroiQX2fBnKmldo&export=download)
+- [Generalized Linear Model](https://en.wikipedia.org/wiki/Generalized_linear_model)
+- [Data Centers Under Fire: A Systemic Security Challenge](https://www.datacenterknowledge.com/physical-security/data-centers-under-fire-a-growing-critical-infrastructure-risk)
+- [Mark Zuckerberg texted Elon Musk to offer help with DOGE](https://techcrunch.com/2026/03/28/mark-zuckerberg-texted-elon-musk-to-offer-help-with-doge/)
+- [Thinking in the Margins](https://theamericanscholar.org/thinking-in-the-margins/)
+- [The Revenge of the Data Scientist](https://hamel.dev/blog/posts/revenge/)
+- [Eval-Driven Development: Applying TDD Principles to AI Agent Prompts](https://iris-eval.com/blog/eval-driven-development)
+- [Vanilla Claude vs. GitAuto Test Generation](https://gitauto.ai/blog/vanilla-claude-vs-gitauto-test-generation)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

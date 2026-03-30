@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Formula One 2026: Japanese Grand Prix race updates – live](https://www.theguardian.com/sport/live/2026/mar/29/formula-one-japanese-gp-grand-prix-f1-race-live-updates)
-- [Goodbye Graaff-Reinet: South African town’s name change stirs racial tensions](https://www.theguardian.com/world/2026/mar/29/graaff-reinet-robert-sobukwe-south-african-town-name-change-stirs-racial-tensions)
-- [Faithful, sensitive, forgiving: overthinkers like me make the best partners | Polly Hudson](https://www.theguardian.com/commentisfree/2026/mar/29/overthinkers-faithful-sensitive-forgiving-lovers-)
-- [Man arrested in Derby after car hits multiple pedestrians, with some seriously injured](https://www.theguardian.com/uk-news/2026/mar/29/man-arrested-in-derby-after-car-hits-multiple-pedestrians-with-some-seriously-injured)
-- [Trump news at a glance: No Kings rallies draw millions to US streets in protest against president](https://www.theguardian.com/us-news/2026/mar/29/trump-news-at-a-glance-no-kings-rallies-draw-millions-to-us-streets-in-protest-against-president)
-- [Moses Itauma knocks out Jermaine Franklin to extend unbeaten record](https://www.theguardian.com/sport/2026/mar/28/moses-itauma-inflicts-first-knockout-defeat-on-jermaine-franklin)
-- [Ukraine war briefing: Zelenskyy drums up defence agreements with Gulf states on countering missiles and drones](https://www.theguardian.com/world/2026/mar/29/ukraine-war-briefing-zelenskyy-drums-up-defence-agreements-with-gulf-states-on-countering-missiles-and-drones)
-- [Lack of specialist staff hinders support for Send children, teacher survey finds](https://www.theguardian.com/education/2026/mar/29/lack-of-specialist-staff-hinders-support-for-send-children-teacher-survey-finds)
-- [Houthi forces enter Iran conflict with missile attacks on Israeli military sites](https://www.theguardian.com/world/2026/mar/28/houthi-forces-enter-iran-conflict-with-missile-attacks-on-israeli-military-sites)
-- [JD Vance leads CPAC poll for next Republican presidential candidate](https://www.theguardian.com/us-news/2026/mar/28/jd-vance-leads-cpac-poll-republican-presidential-candidate)
+- [Middle East crisis live: Trump says he wants to ‘take the oil’ in Iran and could seize Kharg Island ‘easily’](https://www.theguardian.com/world/live/2026/mar/30/iran-war-live-updates-trump-oil-kharg-island-houthis-israel-lebanon-middle-east)
+- [‘Wow, people were so angry at Labour!’ Green MP Hannah Spencer on politics, plumbing, smears and snobbery](https://www.theguardian.com/lifeandstyle/2026/mar/30/wow-people-were-so-angry-at-labour-green-mp-hannah-spencer-on-politics-plumbing-smears-and-snobbery)
+- [Five EU governments found to ‘consistently’ dismantle rule of law](https://www.theguardian.com/law/2026/mar/30/five-eu-governments-consistently-dismantle-rule-of-law-finds-civil-liberties-union-for-europe)
+- [Urgent action needed to prevent surge in digital violence in Africa, experts say](https://www.theguardian.com/global-development/2026/mar/30/urgent-action-needed-to-prevent-surge-in-digital-violence-in-africa-experts-say)
+- [Malnourished children and desperate mothers: the healthcare facility on the frontline of Nigeria’s hunger crisis](https://www.theguardian.com/world/2026/mar/30/malnourished-children-and-desperate-mothers-the-healthcare-facility-on-the-frontline-of-nigerias-hunger-crisis)
+- [‘I’m an old bastard looking back’: the bizarre renaissance of piano-jammer Bruce Hornsby](https://www.theguardian.com/music/2026/mar/30/bruce-hornsby-interview-the-way-it-is-renaissance-new-album-indigo-park)
+- [Will Trump bring peace, or more bombs? Shady speculators seem to bet right every time | Nesrine Malik](https://www.theguardian.com/commentisfree/2026/mar/30/trump-bombs-betting-markets-speculators)
+- [Big retailers say UK jobs at risk from guaranteed hours reforms](https://www.theguardian.com/law/2026/mar/30/big-retailers-uk-jobs-at-risk-guaranteed-hours-reforms)
+- [Kim Novak says Sydney Sweeney is ‘totally wrong to play me’ in biopic](https://www.theguardian.com/film/2026/mar/30/kim-novak-sydney-sweeney-wrong-casting-biopic-sammy-davis-jr-scandalous)
+- [Dezi Freeman shot dead by police after seven-month manhunt](https://www.theguardian.com/australia-news/2026/mar/30/dezi-freeman-shot-dead-police-shooting-victoria-porepunkah-ntwnfb)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

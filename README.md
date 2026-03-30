@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [OpenYak – An open-source Cowork that runs any model and owns your filesystem](https://github.com/openyak/desktop)
-- [The Fastest Man Alive? [video]](https://www.youtube.com/shorts/R7OoEXaOVY0)
-- [How to Do Any Work](https://drive.google.com/uc?id=1wurJsO1vZYiynrTxDLroiQX2fBnKmldo&export=download)
-- [Generalized Linear Model](https://en.wikipedia.org/wiki/Generalized_linear_model)
-- [Data Centers Under Fire: A Systemic Security Challenge](https://www.datacenterknowledge.com/physical-security/data-centers-under-fire-a-growing-critical-infrastructure-risk)
-- [Mark Zuckerberg texted Elon Musk to offer help with DOGE](https://techcrunch.com/2026/03/28/mark-zuckerberg-texted-elon-musk-to-offer-help-with-doge/)
-- [Thinking in the Margins](https://theamericanscholar.org/thinking-in-the-margins/)
-- [The Revenge of the Data Scientist](https://hamel.dev/blog/posts/revenge/)
-- [Eval-Driven Development: Applying TDD Principles to AI Agent Prompts](https://iris-eval.com/blog/eval-driven-development)
-- [Vanilla Claude vs. GitAuto Test Generation](https://gitauto.ai/blog/vanilla-claude-vs-gitauto-test-generation)
+- [Show HN: Free, Open-Source WhisperFlow That Just Works](https://typedwith.ai/)
+- [PDS OLM to PST Converter Online](https://www.perfectdatasolutions.com/en/olm/olm-to-pst-converter.html)
+- [GitHub phishers use fake OpenClaw tokens to drain crypto wallets](https://www.csoonline.com/article/4150456/github-phishers-use-fake-openclaw-tokens-to-drain-crypto-wallets.html)
+- [Corn tortillas in California now must contain folic acid](https://apnews.com/article/folic-acid-birth-defect-latino-corn-tortilla-13bad611bd3cc590d0e098635791eb04)
+- [Boris Cherny&#39;s favorite hidden and under-utilized features in Claude Code](https://xcancel.com/bcherny/status/2038454336355999749)
+- [Show HN: Tidbits – Quick save any text without switching windows](https://www.tidbits.tools)
+- [Gravity Well Arena: space combat built on real time dilation](https://sean-reid.github.io/gravity/)
+- [The Last Generation](https://www.newyorker.com/magazine/2026/03/30/the-last-generation)
+- [Open Source Silicon: wafer.space and the business of open silicon projects](https://www.siliconimist.com/p/waferspace-tim-mithro-ansell)
+- [Google employees new AI tool Agent Smith got so popular that it was restricted](https://www.businessinsider.com/google-agent-smith-employees-ai-driven-coding-2026-3)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: Free, Open-Source WhisperFlow That Just Works](https://typedwith.ai/)
-- [PDS OLM to PST Converter Online](https://www.perfectdatasolutions.com/en/olm/olm-to-pst-converter.html)
-- [GitHub phishers use fake OpenClaw tokens to drain crypto wallets](https://www.csoonline.com/article/4150456/github-phishers-use-fake-openclaw-tokens-to-drain-crypto-wallets.html)
-- [Corn tortillas in California now must contain folic acid](https://apnews.com/article/folic-acid-birth-defect-latino-corn-tortilla-13bad611bd3cc590d0e098635791eb04)
-- [Boris Cherny&#39;s favorite hidden and under-utilized features in Claude Code](https://xcancel.com/bcherny/status/2038454336355999749)
-- [Show HN: Tidbits – Quick save any text without switching windows](https://www.tidbits.tools)
-- [Gravity Well Arena: space combat built on real time dilation](https://sean-reid.github.io/gravity/)
-- [The Last Generation](https://www.newyorker.com/magazine/2026/03/30/the-last-generation)
-- [Open Source Silicon: wafer.space and the business of open silicon projects](https://www.siliconimist.com/p/waferspace-tim-mithro-ansell)
-- [Google employees new AI tool Agent Smith got so popular that it was restricted](https://www.businessinsider.com/google-agent-smith-employees-ai-driven-coding-2026-3)
+- [Delve – Fake Compliance as a Service – Part II](https://substack.com/home/post/p-192665132)
+- [California to impose new AI regulations in defiance of Trump call](https://www.theguardian.com/us-news/2026/mar/30/california-ai-regulations-trump)
+- [Anthropic, The Pentagon, and the Future of Autonomous Weapons](https://www.bloomberg.com/news/articles/2026-03-28/anthropic-s-fight-with-us-military-over-future-of-autonomous-weapons)
+- [Show HN: An AI Operating System](https://getariaos.com/)
+- [Archive review: a gorgeous sci-fi movie that fails the Black Mirror test &lpar;2020&rpar;](https://www.polygon.com/2020/7/10/21320614/archive-review-vod-movie-theo-james-stacy-martin-westworld-black-mirror/)
+- [What to Know About California&#39;s Executive Order on A.I](https://www.nytimes.com/2026/03/30/technology/california-ai-executive-order.html)
+- [Tropical geckos are more adaptable than we thought](https://phys.org/news/2026-03-tropical-geckos-australia-thought.html)
+- [Purple Lifeform Photographed Sprouting &#39;Tentacles&#39; on the ISS](https://www.sciencealert.com/purple-lifeform-photographed-sprouting-tentacles-on-the-iss)
+- [Pairs of atoms observed existing in two places at once for the first time](https://phys.org/news/2026-03-pairs-atoms.html)
+- [Americans Have Never Been All That Excited About Going to the Moon](https://www.nytimes.com/2026/03/30/science/nasa-astronauts-moon-americans-mood.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

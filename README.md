@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Middle East crisis live: Trump says he wants to ‘take the oil’ in Iran and could seize Kharg Island ‘easily’](https://www.theguardian.com/world/live/2026/mar/30/iran-war-live-updates-trump-oil-kharg-island-houthis-israel-lebanon-middle-east)
-- [‘Wow, people were so angry at Labour!’ Green MP Hannah Spencer on politics, plumbing, smears and snobbery](https://www.theguardian.com/lifeandstyle/2026/mar/30/wow-people-were-so-angry-at-labour-green-mp-hannah-spencer-on-politics-plumbing-smears-and-snobbery)
-- [Five EU governments found to ‘consistently’ dismantle rule of law](https://www.theguardian.com/law/2026/mar/30/five-eu-governments-consistently-dismantle-rule-of-law-finds-civil-liberties-union-for-europe)
-- [Urgent action needed to prevent surge in digital violence in Africa, experts say](https://www.theguardian.com/global-development/2026/mar/30/urgent-action-needed-to-prevent-surge-in-digital-violence-in-africa-experts-say)
-- [Malnourished children and desperate mothers: the healthcare facility on the frontline of Nigeria’s hunger crisis](https://www.theguardian.com/world/2026/mar/30/malnourished-children-and-desperate-mothers-the-healthcare-facility-on-the-frontline-of-nigerias-hunger-crisis)
-- [‘I’m an old bastard looking back’: the bizarre renaissance of piano-jammer Bruce Hornsby](https://www.theguardian.com/music/2026/mar/30/bruce-hornsby-interview-the-way-it-is-renaissance-new-album-indigo-park)
-- [Will Trump bring peace, or more bombs? Shady speculators seem to bet right every time | Nesrine Malik](https://www.theguardian.com/commentisfree/2026/mar/30/trump-bombs-betting-markets-speculators)
-- [Big retailers say UK jobs at risk from guaranteed hours reforms](https://www.theguardian.com/law/2026/mar/30/big-retailers-uk-jobs-at-risk-guaranteed-hours-reforms)
-- [Kim Novak says Sydney Sweeney is ‘totally wrong to play me’ in biopic](https://www.theguardian.com/film/2026/mar/30/kim-novak-sydney-sweeney-wrong-casting-biopic-sammy-davis-jr-scandalous)
-- [Dezi Freeman shot dead by police after seven-month manhunt](https://www.theguardian.com/australia-news/2026/mar/30/dezi-freeman-shot-dead-police-shooting-victoria-porepunkah-ntwnfb)
+- [US-based dissident artist put on trial in China over satirical Mao sculptures, says rights group](https://www.theguardian.com/world/2026/mar/31/dissident-artist-gao-zhen-tried-china-satirical-mao-sculptures-rights-group)
+- [Viktor Orbán has the support of both Russia and the US – but that could be a double-edged sword | Péter Krekó](https://www.theguardian.com/commentisfree/2026/mar/31/viktor-orban-us-russian-support-hungary-iran-war-voters)
+- [35,000 pints of stolen Guinness, 950 wheels of pilfered cheese: can the UK’s cargo theft crisis be stopped?](https://www.theguardian.com/uk-news/2026/mar/31/stolen-guinness-cheese-crime-cargo-theft-crisis-mike-dawber)
+- [James McAvoy: ‘I’ve been “that Scottish person”, reduced to a noise that comes out of my mouth’](https://www.theguardian.com/film/2026/mar/31/james-mcavoy-scottish-glasgow-hollywood-x-men-hip-hop-hoax)
+- [Rubbish and recycling in England: what’s changing and why it matters](https://www.theguardian.com/environment/2026/mar/31/rubbish-recycling-england-changes-reforms)
+- [‘Extremely rare’ Bob Dylan draft lyrics discovered inside Allen Ginsberg book](https://www.theguardian.com/music/2026/mar/31/rare-bob-dylan-draft-lyrics-allen-ginsberg-book)
+- [Manila’s transport workers struggle to make ends meet as Philippines feels force of oil crisis](https://www.theguardian.com/world/2026/mar/31/manilas-transport-workers-struggle-to-make-ends-meet-as-philippines-feels-force-of-oil-crisis)
+- [Ukraine war briefing: allies asked Kyiv about reducing attacks on Russian energy sector, Zelenskyy says](https://www.theguardian.com/world/2026/mar/31/ukraine-war-briefing-allies-asked-kyiv-about-reducing-attacks-on-russian-energy-sector-zelenskyy-says)
+- [Ron DeSantis signs bill renaming Palm Beach airport after Donald Trump](https://www.theguardian.com/us-news/2026/mar/30/donald-trump-palm-beach-airport-ron-desantis)
+- [Sad faces all round as Bolivia’s clowns protest over decree threatening their livelihoods](https://www.theguardian.com/world/2026/mar/31/bolivia-clown-protests-decree-school-holiday-parties)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

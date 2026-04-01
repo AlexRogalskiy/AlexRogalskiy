@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [US-based dissident artist put on trial in China over satirical Mao sculptures, says rights group](https://www.theguardian.com/world/2026/mar/31/dissident-artist-gao-zhen-tried-china-satirical-mao-sculptures-rights-group)
-- [Viktor Orbán has the support of both Russia and the US – but that could be a double-edged sword | Péter Krekó](https://www.theguardian.com/commentisfree/2026/mar/31/viktor-orban-us-russian-support-hungary-iran-war-voters)
-- [35,000 pints of stolen Guinness, 950 wheels of pilfered cheese: can the UK’s cargo theft crisis be stopped?](https://www.theguardian.com/uk-news/2026/mar/31/stolen-guinness-cheese-crime-cargo-theft-crisis-mike-dawber)
-- [James McAvoy: ‘I’ve been “that Scottish person”, reduced to a noise that comes out of my mouth’](https://www.theguardian.com/film/2026/mar/31/james-mcavoy-scottish-glasgow-hollywood-x-men-hip-hop-hoax)
-- [Rubbish and recycling in England: what’s changing and why it matters](https://www.theguardian.com/environment/2026/mar/31/rubbish-recycling-england-changes-reforms)
-- [‘Extremely rare’ Bob Dylan draft lyrics discovered inside Allen Ginsberg book](https://www.theguardian.com/music/2026/mar/31/rare-bob-dylan-draft-lyrics-allen-ginsberg-book)
-- [Manila’s transport workers struggle to make ends meet as Philippines feels force of oil crisis](https://www.theguardian.com/world/2026/mar/31/manilas-transport-workers-struggle-to-make-ends-meet-as-philippines-feels-force-of-oil-crisis)
-- [Ukraine war briefing: allies asked Kyiv about reducing attacks on Russian energy sector, Zelenskyy says](https://www.theguardian.com/world/2026/mar/31/ukraine-war-briefing-allies-asked-kyiv-about-reducing-attacks-on-russian-energy-sector-zelenskyy-says)
-- [Ron DeSantis signs bill renaming Palm Beach airport after Donald Trump](https://www.theguardian.com/us-news/2026/mar/30/donald-trump-palm-beach-airport-ron-desantis)
-- [Sad faces all round as Bolivia’s clowns protest over decree threatening their livelihoods](https://www.theguardian.com/world/2026/mar/31/bolivia-clown-protests-decree-school-holiday-parties)
+- [Country diary: It is our duty to delight in the dandelion | Josie George](https://www.theguardian.com/environment/2026/apr/01/country-diary-it-is-our-duty-to-delight-in-the-dandelion)
+- [Middle East crisis live: war will end in ‘two or three weeks’ claims Trump; Rubio says US will ‘reexamine’ relationship with Nato](https://www.theguardian.com/world/live/2026/mar/31/iran-latest-updates-trump-threats-oil-spill-dubai-tehran-jerusalem-strikes)
+- [Chancellor meets UK supermarket bosses to discuss cost of living](https://www.theguardian.com/business/2026/apr/01/chancellor-meets-uk-supermarket-bosses-discuss-cost-living)
+- [I wore Meta’s smartglasses for a month – and it left me feeling like a creep](https://www.theguardian.com/technology/2026/apr/01/i-wore-metas-smartglasses-for-a-month-and-it-left-me-feeling-like-a-creep)
+- [NHS England to offer weight-loss drugs to 1.2m people to reduce risk of heart attacks and strokes](https://www.theguardian.com/science/2026/apr/01/nhs-england-weight-loss-drugs-reduce-risk-heart-attacks-strokes-semaglutide-wegovy)
+- [Why every woman can see herself in the story of a German celebrity couple’s split | Fatma Aydemir](https://www.theguardian.com/commentisfree/2026/apr/01/why-every-woman-can-see-herself-in-the-story-of-a-german-celebrity-couples-split)
+- [The best theatre to stream this month: Patrick Stewart reads Shakespeare’s sonnets – all 154 of them](https://www.theguardian.com/stage/2026/apr/01/the-best-theatre-to-stream-this-month-patrick-stewart-performs-shakespeares-sonnets)
+- [Molly the border collie rescued after a week waiting for injured owner in New Zealand’s remote backcountry](https://www.theguardian.com/world/2026/apr/01/molly-border-collie-rescued-new-zealand)
+- [Stephen Lewis, Canadian politician and social activist, dies aged 88](https://www.theguardian.com/world/2026/apr/01/stephen-lewis-canadian-politician-and-social-activist-dies-aged-88)
+- [Ukraine war briefing: Ukraine calls Hungary ‘a disgrace’ after leaked calls with Moscow emerge](https://www.theguardian.com/world/2026/apr/01/ukraine-war-briefing-ukraine-calls-hungary-a-disgrace-after-leaked-calls-with-moscow-emerge)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Semantic – Reducing LLM &quot;Agent Loops&quot; by 27.78% via AST Logic Graphs](https://github.com/concensure/Semantic)
-- [Ollama is now powered by MLX on Apple Silicon in preview](https://ollama.com/blog/mlx)
-- [Axios Compromised on NPM – Malicious Versions Drop Remote Access Trojan](https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan)
-- [Artemis II is not safe to fly](https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm)
-- [Incident March 30th, 2026 – Accidental CDN Caching](https://blog.railway.com/p/incident-report-march-30-2026-accidental-cdn-caching)
-- [Universal Claude.md – cut Claude output tokens by 63%](https://github.com/drona23/claude-token-efficient)
-- [Show HN: I turned a sketch into a 3D-print pegboard for my kid with an AI agent](https://github.com/virpo/pegboard)
-- [Android Developer Verification](https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html)
-- [OpenGridWorks: The Electricity Infrasctructure, Mapped](https://www.opengridworks.com)
-- [Learn Claude Code by doing, not reading](https://claude.nagdy.me/)
+- [I built a 516-panel financial terminal in 3 weeks using AI](https://neuberg.ai/)
+- [Analyzing Geekbench 6 under Intel&#39;s BOT](https://www.geekbench.com/blog/2026/03/analyzing-geekbench-6-under-intels-bot/)
+- [We intercepted the White House app&#39;s network traffic](https://www.atomic.computer/blog/white-house-app-network-traffic-analysis/)
+- [Neanderthals survived on a knife&#39;s edge for 350k years](https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years)
+- [Ordinary Lab Gloves May Have Skewed Microplastic Data](https://nautil.us/ordinary-lab-gloves-may-have-skewed-microplastic-data-1279386)
+- [A dot a day keeps the clutter away](https://scottlawsonbc.com/post/dot-system)
+- [Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs](https://prismml.com/)
+- [Ministack &lpar;Replacement for LocalStack&rpar;](https://ministack.org/)
+- [OpenAI closes funding round at an $852B valuation](https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html)
+- [I Traced My Traffic Through a Home Tailscale Exit Node](https://tech.stonecharioteer.com/posts/2026/tailscale-exit-nodes/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

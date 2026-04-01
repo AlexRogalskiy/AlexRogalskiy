@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Delve – Fake Compliance as a Service – Part II](https://substack.com/home/post/p-192665132)
-- [California to impose new AI regulations in defiance of Trump call](https://www.theguardian.com/us-news/2026/mar/30/california-ai-regulations-trump)
-- [Anthropic, The Pentagon, and the Future of Autonomous Weapons](https://www.bloomberg.com/news/articles/2026-03-28/anthropic-s-fight-with-us-military-over-future-of-autonomous-weapons)
-- [Show HN: An AI Operating System](https://getariaos.com/)
-- [Archive review: a gorgeous sci-fi movie that fails the Black Mirror test &lpar;2020&rpar;](https://www.polygon.com/2020/7/10/21320614/archive-review-vod-movie-theo-james-stacy-martin-westworld-black-mirror/)
-- [What to Know About California&#39;s Executive Order on A.I](https://www.nytimes.com/2026/03/30/technology/california-ai-executive-order.html)
-- [Tropical geckos are more adaptable than we thought](https://phys.org/news/2026-03-tropical-geckos-australia-thought.html)
-- [Purple Lifeform Photographed Sprouting &#39;Tentacles&#39; on the ISS](https://www.sciencealert.com/purple-lifeform-photographed-sprouting-tentacles-on-the-iss)
-- [Pairs of atoms observed existing in two places at once for the first time](https://phys.org/news/2026-03-pairs-atoms.html)
-- [Americans Have Never Been All That Excited About Going to the Moon](https://www.nytimes.com/2026/03/30/science/nasa-astronauts-moon-americans-mood.html)
+- [JPMorgan and Pimco Warn Bond Markets Miss Slowdown Risks](https://catenaa.com/markets/global-markets/bond-market-slowdown-risks/)
+- [NASA&#39;s asteroid Bennu sample reveals a hidden chemical patchwork](https://www.sciencedaily.com/releases/2026/03/260331231739.htm)
+- [After 40 years NEW mario glitch discovered [video]](https://www.youtube.com/watch?v=bNulp6cDqUU)
+- [OnlyOffice suspends Nextcloud partnership over &#39;illegal&#39; Euro-Office fork](https://www.neowin.net/news/onlyoffice-suspends-nextcloud-partnership-over-unapproved-euro-office-fork/)
+- [We built a 60-page ERP knowledge base in 24 hours using AI](https://www.professionalslobby.com/news/erpedia-ai-knowledge-platform-launch)
+- [Russia goes after VPNs as &#39;great crackdown&#39; gathers pace](https://www.yahoo.com/news/articles/russia-goes-vpns-great-crackdown-082317909.html)
+- [The p-Adic Numbers of Hensel &lpar;1938&rpar;](https://www.jstor.org/stable/2303739)
+- [Improve Coding Agents&#39; Performance with Gemini API Docs MCP and Agent Skills](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-docsmcp-agent-skills/)
+- [President signs order to restrict mailin ballots in likely unconstitutional move](https://www.theguardian.com/us-news/2026/mar/31/trump-executive-order-restrict-mail-in-ballots)
+- [Adaptive Block-Scaled Data Types](https://arxiv.org/abs/2603.28765)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

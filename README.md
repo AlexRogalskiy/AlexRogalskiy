@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [I built a 516-panel financial terminal in 3 weeks using AI](https://neuberg.ai/)
-- [Analyzing Geekbench 6 under Intel&#39;s BOT](https://www.geekbench.com/blog/2026/03/analyzing-geekbench-6-under-intels-bot/)
-- [We intercepted the White House app&#39;s network traffic](https://www.atomic.computer/blog/white-house-app-network-traffic-analysis/)
-- [Neanderthals survived on a knife&#39;s edge for 350k years](https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years)
-- [Ordinary Lab Gloves May Have Skewed Microplastic Data](https://nautil.us/ordinary-lab-gloves-may-have-skewed-microplastic-data-1279386)
-- [A dot a day keeps the clutter away](https://scottlawsonbc.com/post/dot-system)
-- [Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs](https://prismml.com/)
-- [Ministack &lpar;Replacement for LocalStack&rpar;](https://ministack.org/)
-- [OpenAI closes funding round at an $852B valuation](https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html)
-- [I Traced My Traffic Through a Home Tailscale Exit Node](https://tech.stonecharioteer.com/posts/2026/tailscale-exit-nodes/)
+- [Steam on Linux Use Skyrocketed Above 5% in March](https://www.phoronix.com/news/Steam-On-Linux-Tops-5p)
+- [Show HN: Semantic atlas of 188 constitutions in 3D &lpar;30k articles, embeddings&rpar;](https://constitutionalmap.ai/en)
+- [The Claude Code Leak](https://build.ms/2026/4/1/the-claude-code-leak/)
+- [Solar Balconies Take Europe by Storm](https://hackaday.com/2026/03/31/solar-balconies-take-europe-by-storm/)
+- [Trinity Large Thinking](https://openrouter.ai/arcee-ai/trinity-large-thinking)
+- [Weather.com/Retro](https://weather.com/retro/)
+- [Quantum computing bombshells that are not April Fools](https://scottaaronson.blog/?p=9665)
+- [A new C++ back end for ocamlc](https://github.com/ocaml/ocaml/pull/14701)
+- [IPv6 address, as a sentence you can remember](https://sentence2ipv6.tib3rius.com/)
+- [SolveSpace &lpar;open source 2D/3D CAD&rpar; working on Windows 2000 &lpar;2025&rpar;](https://github.com/solvespace/solvespace/issues/1036)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

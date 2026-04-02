@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [JPMorgan and Pimco Warn Bond Markets Miss Slowdown Risks](https://catenaa.com/markets/global-markets/bond-market-slowdown-risks/)
-- [NASA&#39;s asteroid Bennu sample reveals a hidden chemical patchwork](https://www.sciencedaily.com/releases/2026/03/260331231739.htm)
-- [After 40 years NEW mario glitch discovered [video]](https://www.youtube.com/watch?v=bNulp6cDqUU)
-- [OnlyOffice suspends Nextcloud partnership over &#39;illegal&#39; Euro-Office fork](https://www.neowin.net/news/onlyoffice-suspends-nextcloud-partnership-over-unapproved-euro-office-fork/)
-- [We built a 60-page ERP knowledge base in 24 hours using AI](https://www.professionalslobby.com/news/erpedia-ai-knowledge-platform-launch)
-- [Russia goes after VPNs as &#39;great crackdown&#39; gathers pace](https://www.yahoo.com/news/articles/russia-goes-vpns-great-crackdown-082317909.html)
-- [The p-Adic Numbers of Hensel &lpar;1938&rpar;](https://www.jstor.org/stable/2303739)
-- [Improve Coding Agents&#39; Performance with Gemini API Docs MCP and Agent Skills](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-docsmcp-agent-skills/)
-- [President signs order to restrict mailin ballots in likely unconstitutional move](https://www.theguardian.com/us-news/2026/mar/31/trump-executive-order-restrict-mail-in-ballots)
-- [Adaptive Block-Scaled Data Types](https://arxiv.org/abs/2603.28765)
+- [A Guide to the AI Tribes](https://micheljusten.substack.com/p/a-guide-to-the-ai-tribes)
+- [Salomi, a research repo on extreme low-bit transformer quantization](https://github.com/OrionsLock/SALOMI)
+- [Your sign-up form is a weapon](https://bytemash.net/posts/subscription-bombing-your-signup-form-is-a-weapon/)
+- [Show HN: Open-agent-SDK – Claude Code&#39;s internals, extracted and open-sourced](https://github.com/codeany-ai/open-agent-sdk-typescript)
+- [Neural Particle Automata: Learning Self-Organizing Particle Dynamics](https://arxiv.org/abs/2601.16096)
+- [&#39;Unsustainable&#39;: Congressional Scrutiny of Kalshi, Polymarket Explodes](https://www.politico.com/news/2026/04/01/congress-kalshi-polymarket-regulation-00852370)
+- [&#39;Think Everybody Dead&#39;: How the Threat of AI Is Fueling a New Political Alliance](https://www.politico.com/news/magazine/2026/04/01/silicon-valley-bernie-sanders-ai-coalition-00850895)
+- [macOS menu bar companion for Claude Code sessions](https://github.com/sayantan94/Pulse)
+- [A Proposed Improvement to the Diet Coke and Mentos Experiment &lpar;2016&rpar;](https://physics.stackexchange.com/questions/168554/a-proposed-improvement-to-the-diet-coke-and-mentos-experiment)
+- [MLflow Command Injection Vulnerability](https://nvd.nist.gov/vuln/detail/CVE-2025-11201)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

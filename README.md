@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Country diary: It is our duty to delight in the dandelion | Josie George](https://www.theguardian.com/environment/2026/apr/01/country-diary-it-is-our-duty-to-delight-in-the-dandelion)
-- [Middle East crisis live: war will end in ‘two or three weeks’ claims Trump; Rubio says US will ‘reexamine’ relationship with Nato](https://www.theguardian.com/world/live/2026/mar/31/iran-latest-updates-trump-threats-oil-spill-dubai-tehran-jerusalem-strikes)
-- [Chancellor meets UK supermarket bosses to discuss cost of living](https://www.theguardian.com/business/2026/apr/01/chancellor-meets-uk-supermarket-bosses-discuss-cost-living)
-- [I wore Meta’s smartglasses for a month – and it left me feeling like a creep](https://www.theguardian.com/technology/2026/apr/01/i-wore-metas-smartglasses-for-a-month-and-it-left-me-feeling-like-a-creep)
-- [NHS England to offer weight-loss drugs to 1.2m people to reduce risk of heart attacks and strokes](https://www.theguardian.com/science/2026/apr/01/nhs-england-weight-loss-drugs-reduce-risk-heart-attacks-strokes-semaglutide-wegovy)
-- [Why every woman can see herself in the story of a German celebrity couple’s split | Fatma Aydemir](https://www.theguardian.com/commentisfree/2026/apr/01/why-every-woman-can-see-herself-in-the-story-of-a-german-celebrity-couples-split)
-- [The best theatre to stream this month: Patrick Stewart reads Shakespeare’s sonnets – all 154 of them](https://www.theguardian.com/stage/2026/apr/01/the-best-theatre-to-stream-this-month-patrick-stewart-performs-shakespeares-sonnets)
-- [Molly the border collie rescued after a week waiting for injured owner in New Zealand’s remote backcountry](https://www.theguardian.com/world/2026/apr/01/molly-border-collie-rescued-new-zealand)
-- [Stephen Lewis, Canadian politician and social activist, dies aged 88](https://www.theguardian.com/world/2026/apr/01/stephen-lewis-canadian-politician-and-social-activist-dies-aged-88)
-- [Ukraine war briefing: Ukraine calls Hungary ‘a disgrace’ after leaked calls with Moscow emerge](https://www.theguardian.com/world/2026/apr/01/ukraine-war-briefing-ukraine-calls-hungary-a-disgrace-after-leaked-calls-with-moscow-emerge)
+- [Middle East crisis live: Markets and oil prices suffer after Trump defends Iran war in prime-time address](https://www.theguardian.com/world/live/2026/apr/02/middle-east-crisis-live-trump-prime-time-address-white-house-iran-war-israel-strait-hormuz)
+- [The dark side of the balloon boom – is it time they were banned?](https://www.theguardian.com/environment/2026/apr/02/the-dark-side-of-the-balloon-boom-is-it-time-they-were-banned)
+- [Denmark’s unique political model is in crisis – I blame the boomerang effect | Rune Lykkeberg](https://www.theguardian.com/commentisfree/2026/apr/02/denmark-unique-political-model-crisis-boomerang-effect)
+- [Endo dreams of sushi: a trip around Japan with one of the world’s greatest chefs](https://www.theguardian.com/news/ng-interactive/2026/apr/02/endo-kazutoshi-sushi-japan-greatest-chef)
+- [Sauna and cold plunge: where does the evidence stand? – podcast](https://www.theguardian.com/science/audio/2026/apr/02/sauna-and-cold-plunge-where-does-the-evidence-stand-podcast)
+- [Chris Rokos: the camera-shy billionaire behind the biggest UK university donation in modern times](https://www.theguardian.com/education/2026/apr/02/chris-rokos-the-camera-shy-billionaire-behind-the-biggest-uk-university-donation-in-modern-times)
+- [‘Weak and pathetic’: why is the EU not using its leverage to stop Israel?](https://www.theguardian.com/world/2026/apr/02/why-eu-not-using-leverage-israel-lebanon-gaza)
+- [Polymarket and other prediction platforms driving oil market, traders say](https://www.theguardian.com/business/2026/apr/02/energy-traders-polymarket-prediction-datafeeds-global-oil-market)
+- [Not if, but when: how Spain’s coastal towns are preparing for tsunamis](https://www.theguardian.com/environment/2026/apr/02/how-spain-coastal-towns-preparing-for-tsunamis)
+- [Rationale for Iran war questioned after Trump says ‘I don’t care’ about regime’s uranium stockpiles](https://www.theguardian.com/world/2026/apr/02/trump-iran-war-rationale-uranium-stockpiles)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

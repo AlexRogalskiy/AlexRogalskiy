@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Middle East crisis live: Markets and oil prices suffer after Trump defends Iran war in prime-time address](https://www.theguardian.com/world/live/2026/apr/02/middle-east-crisis-live-trump-prime-time-address-white-house-iran-war-israel-strait-hormuz)
-- [The dark side of the balloon boom – is it time they were banned?](https://www.theguardian.com/environment/2026/apr/02/the-dark-side-of-the-balloon-boom-is-it-time-they-were-banned)
-- [Denmark’s unique political model is in crisis – I blame the boomerang effect | Rune Lykkeberg](https://www.theguardian.com/commentisfree/2026/apr/02/denmark-unique-political-model-crisis-boomerang-effect)
-- [Endo dreams of sushi: a trip around Japan with one of the world’s greatest chefs](https://www.theguardian.com/news/ng-interactive/2026/apr/02/endo-kazutoshi-sushi-japan-greatest-chef)
-- [Sauna and cold plunge: where does the evidence stand? – podcast](https://www.theguardian.com/science/audio/2026/apr/02/sauna-and-cold-plunge-where-does-the-evidence-stand-podcast)
-- [Chris Rokos: the camera-shy billionaire behind the biggest UK university donation in modern times](https://www.theguardian.com/education/2026/apr/02/chris-rokos-the-camera-shy-billionaire-behind-the-biggest-uk-university-donation-in-modern-times)
-- [‘Weak and pathetic’: why is the EU not using its leverage to stop Israel?](https://www.theguardian.com/world/2026/apr/02/why-eu-not-using-leverage-israel-lebanon-gaza)
-- [Polymarket and other prediction platforms driving oil market, traders say](https://www.theguardian.com/business/2026/apr/02/energy-traders-polymarket-prediction-datafeeds-global-oil-market)
-- [Not if, but when: how Spain’s coastal towns are preparing for tsunamis](https://www.theguardian.com/environment/2026/apr/02/how-spain-coastal-towns-preparing-for-tsunamis)
-- [Rationale for Iran war questioned after Trump says ‘I don’t care’ about regime’s uranium stockpiles](https://www.theguardian.com/world/2026/apr/02/trump-iran-war-rationale-uranium-stockpiles)
+- [‘I lost a $3m brand deal. I was like: OK, losers!’ Swedish pop provocateur Zara Larsson on fame, fun and fighting the power](https://www.theguardian.com/music/2026/apr/03/zara-larsson-popstar-interview-on-fame-fun-fighting-the-power-lush-life)
+- [NHS rehabilitation care staff shortage fails stroke patients, say health leaders](https://www.theguardian.com/society/2026/apr/03/nhs-rehabiliation-care-staff-shortage-stroke-patients)
+- [Experience: I climbed the tallest tropical tree in the world](https://www.theguardian.com/lifeandstyle/2026/apr/03/experience-i-climbed-the-tallest-tropical-tree-in-the-world)
+- [Stop brunch! How a rustic Catalan meal is taking the fight to bland food and overtourism | Abbas Asaria](https://www.theguardian.com/commentisfree/2026/apr/03/stop-brunch-rustic-catalan-meal-food-overtourism-barcelona)
+- [A day in the life of Asia’s fuel crisis](https://www.theguardian.com/world/2026/apr/03/asia-fuel-crisis-iran-war-ordinary-workers)
+- [Nuns who broke back into their Austrian convent ‘are step closer to being able to stay’](https://www.theguardian.com/world/2026/apr/03/nuns-who-broke-back-into-their-austrian-convent-are-step-closer-to-being-able-to-stay)
+- [Hungary elections: what is at stake and who is likely to win?](https://www.theguardian.com/world/2026/apr/03/hungary-elections-viktor-orban-who-will-win)
+- [Canadian woman held with daughter by ICE is released after nearly three weeks of detention](https://www.theguardian.com/world/2026/apr/03/canadian-ice-detention-mother-daughter-tania-warner-released)
+- [‘Food security timebomb’: a visual guide to the Gulf fertiliser blockade](https://www.theguardian.com/world/2026/apr/03/visual-guide-gulf-fertiliser-blockade)
+- [The families torn apart by the Minab school bombing – podcast](https://www.theguardian.com/news/audio/2026/apr/03/the-families-torn-apart-by-the-minab-school-bombing-podcast)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

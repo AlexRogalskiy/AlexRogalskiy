@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Steam on Linux Use Skyrocketed Above 5% in March](https://www.phoronix.com/news/Steam-On-Linux-Tops-5p)
-- [Show HN: Semantic atlas of 188 constitutions in 3D &lpar;30k articles, embeddings&rpar;](https://constitutionalmap.ai/en)
-- [The Claude Code Leak](https://build.ms/2026/4/1/the-claude-code-leak/)
-- [Solar Balconies Take Europe by Storm](https://hackaday.com/2026/03/31/solar-balconies-take-europe-by-storm/)
-- [Trinity Large Thinking](https://openrouter.ai/arcee-ai/trinity-large-thinking)
-- [Weather.com/Retro](https://weather.com/retro/)
-- [Quantum computing bombshells that are not April Fools](https://scottaaronson.blog/?p=9665)
-- [A new C++ back end for ocamlc](https://github.com/ocaml/ocaml/pull/14701)
-- [IPv6 address, as a sentence you can remember](https://sentence2ipv6.tib3rius.com/)
-- [SolveSpace &lpar;open source 2D/3D CAD&rpar; working on Windows 2000 &lpar;2025&rpar;](https://github.com/solvespace/solvespace/issues/1036)
+- [The open web isn&#39;t dying, we&#39;re killing it](https://ouvre-boite.com/the-open-web-isnt-dying-were-killing-it/)
+- [Post Mortem: axios NPM supply chain compromise](https://github.com/axios/axios/issues/10636)
+- [Tor Alva: The Tallest 3D-Printed Building in the World](https://cacm.acm.org/blogcacm/tor-alva-the-tallest-3d-printed-building-in-the-world/)
+- [A Few Good Magazines From the 70s and 80s](https://www.bi6.us/CO/MG.HTML)
+- [Show HN: Made a little Artemis II tracker](https://artemis-ii-tracker.com/)
+- [Memo: A language that remembers only the last 12 lines of code](https://danieltemkin.com/Esolangs/Memo/)
+- [ParadeDB &lpar;YC S23&rpar; Is Hiring Database Internal Engineers &lpar;Rust&rpar;](https://paradedb.notion.site/)
+- [Tailscale&#39;s new macOS home](https://tailscale.com/blog/macos-notch-escape)
+- [George Goble has died](https://www.legacy.com/us/obituaries/wlfi/name/george-goble-obituary?id=61144779)
+- [Cursor 3](https://cursor.com/blog/cursor-3)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

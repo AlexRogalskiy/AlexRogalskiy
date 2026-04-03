@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [A Guide to the AI Tribes](https://micheljusten.substack.com/p/a-guide-to-the-ai-tribes)
-- [Salomi, a research repo on extreme low-bit transformer quantization](https://github.com/OrionsLock/SALOMI)
-- [Your sign-up form is a weapon](https://bytemash.net/posts/subscription-bombing-your-signup-form-is-a-weapon/)
-- [Show HN: Open-agent-SDK – Claude Code&#39;s internals, extracted and open-sourced](https://github.com/codeany-ai/open-agent-sdk-typescript)
-- [Neural Particle Automata: Learning Self-Organizing Particle Dynamics](https://arxiv.org/abs/2601.16096)
-- [&#39;Unsustainable&#39;: Congressional Scrutiny of Kalshi, Polymarket Explodes](https://www.politico.com/news/2026/04/01/congress-kalshi-polymarket-regulation-00852370)
-- [&#39;Think Everybody Dead&#39;: How the Threat of AI Is Fueling a New Political Alliance](https://www.politico.com/news/magazine/2026/04/01/silicon-valley-bernie-sanders-ai-coalition-00850895)
-- [macOS menu bar companion for Claude Code sessions](https://github.com/sayantan94/Pulse)
-- [A Proposed Improvement to the Diet Coke and Mentos Experiment &lpar;2016&rpar;](https://physics.stackexchange.com/questions/168554/a-proposed-improvement-to-the-diet-coke-and-mentos-experiment)
-- [MLflow Command Injection Vulnerability](https://nvd.nist.gov/vuln/detail/CVE-2025-11201)
+- [Can servers use elicitation for HITL scenarios?](https://realarcherl.github.io/posts/mcp_security/)
+- [Dlarc: The Radio Geek&#39;s Doomscrolling Antidote](https://www.radioworld.com/news-and-business/news-makers/dlarc-the-radio-geeks-doomscrolling-antidote)
+- [A Rave Review of Superpowers &lpar;For Claude Code&rpar;](https://emschwartz.me/a-rave-review-of-superpowers-for-claude-code/)
+- [It&#39;s Time to Take Down Your Smart Cameras [video]](https://www.youtube.com/watch?v=UMIwNiwQewQ)
+- [Emacs ATX April 2026 meetup [video]](https://www.youtube.com/watch?v=465GSalM6oI)
+- [The Whispering Earring](https://gwern.net/doc/fiction/science-fiction/2012-10-03-yvain-thewhisperingearring.html)
+- [Microsoft Readies $10B AI Investment Plan in Japan](https://www.bloomberg.com/news/articles/2026-04-03/microsoft-drafts-10-billion-investment-plan-in-ai-hungry-japan)
+- [Pool compute to run powerful open models](https://docs.anarchai.org/)
+- [Show HN: Minimal Brain Teaser Web Game &lpar;Handcrafted, No AI&rpar;](https://mehuleo.github.io/encircle/)
+- [Government of Verdis](https://verdisgov.org/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

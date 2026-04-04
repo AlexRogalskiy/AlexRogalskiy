@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The open web isn&#39;t dying, we&#39;re killing it](https://ouvre-boite.com/the-open-web-isnt-dying-were-killing-it/)
-- [Post Mortem: axios NPM supply chain compromise](https://github.com/axios/axios/issues/10636)
-- [Tor Alva: The Tallest 3D-Printed Building in the World](https://cacm.acm.org/blogcacm/tor-alva-the-tallest-3d-printed-building-in-the-world/)
-- [A Few Good Magazines From the 70s and 80s](https://www.bi6.us/CO/MG.HTML)
-- [Show HN: Made a little Artemis II tracker](https://artemis-ii-tracker.com/)
-- [Memo: A language that remembers only the last 12 lines of code](https://danieltemkin.com/Esolangs/Memo/)
-- [ParadeDB &lpar;YC S23&rpar; Is Hiring Database Internal Engineers &lpar;Rust&rpar;](https://paradedb.notion.site/)
-- [Tailscale&#39;s new macOS home](https://tailscale.com/blog/macos-notch-escape)
-- [George Goble has died](https://www.legacy.com/us/obituaries/wlfi/name/george-goble-obituary?id=61144779)
-- [Cursor 3](https://cursor.com/blog/cursor-3)
+- [Europe asks if reviving nuclear is the answer to energy shocks](https://www.bbc.com/news/articles/c4g8k8vq8gno)
+- [Gold overtakes U.S. Treasuries as the largest foreign reserve asset](https://economictimes.indiatimes.com/news/international/us/gold-overtakes-u-s-treasuries-as-the-worlds-largest-foreign-reserve-asset-in-2026-can-gold-challenge-the-u-s-dollars-dominance-and-hold-its-ground/articleshow/126420128.cms?from=mdr)
+- [Show HN: Travel Hacking Toolkit – Points search and trip planning with AI](https://github.com/borski/travel-hacking-toolkit)
+- [Delve Removed from Y Combinator](https://www.ycombinator.com/companies/delve)
+- [The FAA’s flight restriction for drones is an attempt to criminalize filming ICE](https://www.eff.org/deeplinks/2026/04/faas-temporary-flight-restriction-drones-blatant-attempt-criminalize-filming-ice)
+- [Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw](https://news.ycombinator.com/item?id=47633396)
+- [Fake Fans](https://www.wordsfromeliza.com/p/fake-fans)
+- [Run Linux containers on Android, no root required](https://github.com/ExTV/Podroid)
+- [The house is a work of art: Frank Lloyd Wright](https://aeon.co/essays/frank-lloyd-wright-as-a-mirror-of-the-american-condition)
+- [Show HN: TinyOS – A minimalist RTOS for Cortex-M written in C](https://github.com/cmc-labo/tinyos-rtos)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

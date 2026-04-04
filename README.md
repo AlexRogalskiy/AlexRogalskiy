@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Can servers use elicitation for HITL scenarios?](https://realarcherl.github.io/posts/mcp_security/)
-- [Dlarc: The Radio Geek&#39;s Doomscrolling Antidote](https://www.radioworld.com/news-and-business/news-makers/dlarc-the-radio-geeks-doomscrolling-antidote)
-- [A Rave Review of Superpowers &lpar;For Claude Code&rpar;](https://emschwartz.me/a-rave-review-of-superpowers-for-claude-code/)
-- [It&#39;s Time to Take Down Your Smart Cameras [video]](https://www.youtube.com/watch?v=UMIwNiwQewQ)
-- [Emacs ATX April 2026 meetup [video]](https://www.youtube.com/watch?v=465GSalM6oI)
-- [The Whispering Earring](https://gwern.net/doc/fiction/science-fiction/2012-10-03-yvain-thewhisperingearring.html)
-- [Microsoft Readies $10B AI Investment Plan in Japan](https://www.bloomberg.com/news/articles/2026-04-03/microsoft-drafts-10-billion-investment-plan-in-ai-hungry-japan)
-- [Pool compute to run powerful open models](https://docs.anarchai.org/)
-- [Show HN: Minimal Brain Teaser Web Game &lpar;Handcrafted, No AI&rpar;](https://mehuleo.github.io/encircle/)
-- [Government of Verdis](https://verdisgov.org/)
+- [Latest Lenovo Legion tablet impresses in gaming and emulation tests](https://www.notebookcheck.net/Latest-Lenovo-Legion-tablet-impresses-in-gaming-and-emulation-tests.1264795.0.html)
+- [Series Seed &lpar;Sane Edition&rpar;: The Goldilocks Financing for Seed-Stage Startups](https://www.flux.law/blog/series-seed-sane-edition)
+- [Delve sets the record straight on anonymous attacks](https://delve.co/blog/delve-sets-the-record-straight-on-anonymous-attacks)
+- [Electron and React and TypeScript and Tailwind and Shadcn Starter Kit](https://github.com/p32929/electron-shadcn-typescript)
+- [CCheckpoints: A checkpoint system for Claude Code CLI sessions](https://github.com/p32929/ccheckpoints)
+- [ModelReins – The Browser for AI Tools](https://modelreins.com)
+- [Netflix just dropped their first public model on Hugging Face: VOID](https://huggingface.co/netflix/void-model)
+- [Did Anyone Predict the Industrial Revolution?](https://lostfutures.substack.com/p/did-anyone-predict-the-industrial)
+- [Japan to require language proficiency proof for engineer, specialist visa](https://english.kyodonews.net/articles/-/73562)
+- [Electricity Price Hub](https://electricity.heatmap.news/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

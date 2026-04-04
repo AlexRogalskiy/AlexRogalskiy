@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [‘I lost a $3m brand deal. I was like: OK, losers!’ Swedish pop provocateur Zara Larsson on fame, fun and fighting the power](https://www.theguardian.com/music/2026/apr/03/zara-larsson-popstar-interview-on-fame-fun-fighting-the-power-lush-life)
-- [NHS rehabilitation care staff shortage fails stroke patients, say health leaders](https://www.theguardian.com/society/2026/apr/03/nhs-rehabiliation-care-staff-shortage-stroke-patients)
-- [Experience: I climbed the tallest tropical tree in the world](https://www.theguardian.com/lifeandstyle/2026/apr/03/experience-i-climbed-the-tallest-tropical-tree-in-the-world)
-- [Stop brunch! How a rustic Catalan meal is taking the fight to bland food and overtourism | Abbas Asaria](https://www.theguardian.com/commentisfree/2026/apr/03/stop-brunch-rustic-catalan-meal-food-overtourism-barcelona)
-- [A day in the life of Asia’s fuel crisis](https://www.theguardian.com/world/2026/apr/03/asia-fuel-crisis-iran-war-ordinary-workers)
-- [Nuns who broke back into their Austrian convent ‘are step closer to being able to stay’](https://www.theguardian.com/world/2026/apr/03/nuns-who-broke-back-into-their-austrian-convent-are-step-closer-to-being-able-to-stay)
-- [Hungary elections: what is at stake and who is likely to win?](https://www.theguardian.com/world/2026/apr/03/hungary-elections-viktor-orban-who-will-win)
-- [Canadian woman held with daughter by ICE is released after nearly three weeks of detention](https://www.theguardian.com/world/2026/apr/03/canadian-ice-detention-mother-daughter-tania-warner-released)
-- [‘Food security timebomb’: a visual guide to the Gulf fertiliser blockade](https://www.theguardian.com/world/2026/apr/03/visual-guide-gulf-fertiliser-blockade)
-- [The families torn apart by the Minab school bombing – podcast](https://www.theguardian.com/news/audio/2026/apr/03/the-families-torn-apart-by-the-minab-school-bombing-podcast)
+- [NCAA women’s Final Four: UCLA top Texas; South Carolina take down UConn – live updates](https://www.theguardian.com/sport/live/2026/apr/03/uconn-south-carolina-ucla-texas-final-four-live-updates)
+- [Middle East crisis live: US and Iranian forces race to recover missing pilot from downed jet; Israel bombards Beirut](https://www.theguardian.com/world/live/2026/apr/04/middle-east-crisis-live-us-iran-war-missing-pilot-downed-jet-israel-bombards-beirut)
+- [‘There’s more to life than work’: Bangkok’s young people embrace mass outdoor aerobics sessions](https://www.theguardian.com/artanddesign/2026/apr/04/bangkok-thalland-young-people-mass-outdoor-aerobics-sessions)
+- [Ukraine war briefing: Russian army records almost no territorial gains for first time since 2023, analysis shows](https://www.theguardian.com/world/2026/apr/04/ukraine-war-briefing-russian-army-almost-no-territorial-gains-first-time-since-2023-analysis)
+- [A ‘masculinity crisis’ is brewing in UK schools, union says](https://www.theguardian.com/education/2026/apr/04/masculinity-crisis-brewing-uk-schools-teachers-union)
+- [The most beautiful coast in the world? Exploring New Zealand’s overlooked Nelson Tasman by sand and sea](https://www.theguardian.com/travel/2026/apr/04/new-zealand-south-island-nelson-tasman-coast)
+- [‘India is going to face a food crisis’: Farmers panic over fertiliser shortages amid Iran war](https://www.theguardian.com/world/2026/apr/04/india-fuel-crisis-fertiliser-shortage-farming)
+- [Trump announces ‘fraud’ crackdown in Democratic states as arrests begin in California](https://www.theguardian.com/us-news/2026/apr/03/trump-vance-fraud-arrest-crackdown-california)
+- [Northampton hold off Castres in 49-41 epic to reach Champions Cup quarter-finals](https://www.theguardian.com/sport/2026/apr/03/northampton-castres-champions-cup-rugby-union-match-report)
+- [Sadiq Khan protection officers ‘leave bag with guns and Taser on south London street’](https://www.theguardian.com/politics/2026/apr/03/sadiq-khan-protection-officers-leave-bag-with-guns-and-taser-on-south-london-street)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

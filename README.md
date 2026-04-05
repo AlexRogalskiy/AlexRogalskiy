@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Latest Lenovo Legion tablet impresses in gaming and emulation tests](https://www.notebookcheck.net/Latest-Lenovo-Legion-tablet-impresses-in-gaming-and-emulation-tests.1264795.0.html)
-- [Series Seed &lpar;Sane Edition&rpar;: The Goldilocks Financing for Seed-Stage Startups](https://www.flux.law/blog/series-seed-sane-edition)
-- [Delve sets the record straight on anonymous attacks](https://delve.co/blog/delve-sets-the-record-straight-on-anonymous-attacks)
-- [Electron and React and TypeScript and Tailwind and Shadcn Starter Kit](https://github.com/p32929/electron-shadcn-typescript)
-- [CCheckpoints: A checkpoint system for Claude Code CLI sessions](https://github.com/p32929/ccheckpoints)
-- [ModelReins – The Browser for AI Tools](https://modelreins.com)
-- [Netflix just dropped their first public model on Hugging Face: VOID](https://huggingface.co/netflix/void-model)
-- [Did Anyone Predict the Industrial Revolution?](https://lostfutures.substack.com/p/did-anyone-predict-the-industrial)
-- [Japan to require language proficiency proof for engineer, specialist visa](https://english.kyodonews.net/articles/-/73562)
-- [Electricity Price Hub](https://electricity.heatmap.news/)
+- [Kids Toys, Adult Issues](https://shampoooty.myportfolio.com/port)
+- [What if the browser built the UI for you?](https://jonno.nz/posts/what-if-your-browser-built-the-ui-for-you/)
+- [Why aren&#39;t qualified candidates getting hired?](https://justapplied.substack.com/p/the-job-market-is-broken-were-trying)
+- [US forces locate and evacuate downed airman in Iran](https://www.foxnews.com/live-news/second-us-fighter-jet-downed-by-strait-of-hormuz-as-search-for-f-15e-crew-member-in-iran-continues)
+- [Bevel Health CEO: WHOOP just filed a lawsuit against us](https://twitter.com/greyngyen/status/2040100105336799659)
+- [Limiting Not Just Screen Time, but Screen Space](https://www.noemamag.com/limiting-not-just-screen-time-but-screen-space/)
+- [AI that copied musical artist files copyright claim against that artist](https://twitter.com/VladTheInflator/status/2039577001531768906)
+- [Pre-Critical Recursive Cutoff: A Boundary Condition for AI Irreversibility](https://zenodo.org/records/18824181)
+- [The Spaceballs sequel will be released in April next year](https://www.engadget.com/entertainment/tv-movies/the-spaceballs-sequel-will-be-released-in-april-next-year-213543871.html)
+- [Don&#39;t Buy the DGX Spark: NVFP4 Still Missing After 6 Months](https://old.reddit.com/r/LocalLLaMA/comments/1scf1x8/dont_buy_the_dgx_spark_nvfp4_still_missing_after/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

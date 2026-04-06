@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Middle East crisis live: second US crew member of downed fighter jet rescued from Iran – reports](https://www.theguardian.com/world/live/2026/apr/05/middle-east-crisis-live-iran-israel-us-war-trump-strait-hormuz-missing-pilot-downed)
-- [Man charged with impaired driving after after hitting Louisiana crowd celebrating Lao New Year](https://www.theguardian.com/us-news/2026/apr/04/louisiana-parade-car-crash)
-- [Ukraine war briefing: Slovakia PM calls on EU to lift sanctions on Russian oil and gas](https://www.theguardian.com/world/2026/apr/05/ukraine-war-briefing-slovakia-pm-calls-on-eu-to-lift-sanctions-on-russian-oil-and-gas)
-- [Deontay Wilder beats battling Derek Chisora as epic bout goes the distance](https://www.theguardian.com/sport/2026/apr/05/deontay-wilder-beats-derek-chisora-epic-bout-split-decision)
-- [Arteta says Arsenal must ‘look in the mirror’ after Southampton defeat](https://www.theguardian.com/football/2026/apr/04/arteta-says-arsenal-must-look-in-the-mirror-after-southampton-defeat)
-- [Two more arrested on suspicion of murder after pedestrian dies in Barnsley collision](https://www.theguardian.com/uk-news/2026/apr/04/man-woman-arrested-barnsley-collision)
-- [Rise in number of girls being identified as victims in county lines exploitation, data shows](https://www.theguardian.com/uk-news/2026/apr/04/county-lines-drugs-girls-exploitation-data)
-- [Three-week-old mountain lion cub rescued by California biologists](https://www.theguardian.com/us-news/2026/apr/04/mountain-lion-cub-crimson-california)
-- [Shea Charles stuns Arsenal to send Southampton into FA Cup semis](https://www.theguardian.com/football/2026/apr/04/southampton-arsenal-fa-cup-match-report)
-- [‘Things aren’t what people think they are’: Rosenior attempts to calm Fernández storm](https://www.theguardian.com/football/2026/apr/04/liam-rosenior-enzo-fernandez-chelsea-port-vale)
+- [Middle East crisis live: Tehran warns Trump over strait of Hormuz threat; Netanyahu suggests Israel helped US rescue airman](https://www.theguardian.com/world/live/2026/apr/06/iran-war-live-updates-trump-hormuz-oil-netanyahu-israel)
+- [‘Barbara Windsor smacked our bottoms!’ Pet Shop Boys on showstopping visuals, horrified bosses – and snubbing the queen](https://www.theguardian.com/music/2026/apr/06/pet-shop-boys-wild-visuals-snubbing-the-queen-barbara-windsor)
+- [‘We don’t want pity’: Ukrainian war veterans face off in amputee boxing championship](https://www.theguardian.com/sport/2026/apr/06/ukraine-war-veterans-amputee-boxing-championship)
+- [My mother, Audrey Hepburn: the star’s son Sean on her movies, marriages, good works and fascist parents](https://www.theguardian.com/lifeandstyle/2026/apr/06/audrey-hepburn-sean-hepburn-ferrer-biography)
+- [We&#39;ve gone mad for puzzles. This makes sense – it’s reassuring to have answers in these perplexing times | Joseph de Weck](https://www.theguardian.com/commentisfree/2026/apr/06/puzzles-reassuring-answers-perplexing-times)
+- [My maddening battle with chronic fatigue syndrome: ‘On my worst days, it feels almost demonic’ – podcast](https://www.theguardian.com/news/audio/2026/apr/06/my-maddening-battle-with-chronic-fatigue-syndrome-on-my-worst-days-it-feels-almost-demonic-podcast)
+- [Sick pay rule changes to benefit up to 9.6m UK workers, TUC says](https://www.theguardian.com/law/2026/apr/06/sick-pay-rule-changes-benefit-uk-workers-tuc)
+- [Cruise ship caught on reef off tiny Fiji island where Cast Away filmed](https://www.theguardian.com/world/2026/apr/06/cruise-ship-grounded-reef-fiji-cast-away-island-monuriki)
+- [Artemis II astronauts expected to reach far side of moon on Monday](https://www.theguardian.com/science/2026/apr/05/artemis-ii-astronauts-nasa-far-side-of-moon)
+- [As a celebrant, I prefer funerals to weddings. This is why | Jackie Bailey](https://www.theguardian.com/commentisfree/2026/apr/06/celebrant-funerals-weddings)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

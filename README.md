@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Kids Toys, Adult Issues](https://shampoooty.myportfolio.com/port)
-- [What if the browser built the UI for you?](https://jonno.nz/posts/what-if-your-browser-built-the-ui-for-you/)
-- [Why aren&#39;t qualified candidates getting hired?](https://justapplied.substack.com/p/the-job-market-is-broken-were-trying)
-- [US forces locate and evacuate downed airman in Iran](https://www.foxnews.com/live-news/second-us-fighter-jet-downed-by-strait-of-hormuz-as-search-for-f-15e-crew-member-in-iran-continues)
-- [Bevel Health CEO: WHOOP just filed a lawsuit against us](https://twitter.com/greyngyen/status/2040100105336799659)
-- [Limiting Not Just Screen Time, but Screen Space](https://www.noemamag.com/limiting-not-just-screen-time-but-screen-space/)
-- [AI that copied musical artist files copyright claim against that artist](https://twitter.com/VladTheInflator/status/2039577001531768906)
-- [Pre-Critical Recursive Cutoff: A Boundary Condition for AI Irreversibility](https://zenodo.org/records/18824181)
-- [The Spaceballs sequel will be released in April next year](https://www.engadget.com/entertainment/tv-movies/the-spaceballs-sequel-will-be-released-in-april-next-year-213543871.html)
-- [Don&#39;t Buy the DGX Spark: NVFP4 Still Missing After 6 Months](https://old.reddit.com/r/LocalLLaMA/comments/1scf1x8/dont_buy_the_dgx_spark_nvfp4_still_missing_after/)
+- [The Extinction of the Junior Engineer](https://michaelnovati.substack.com/p/the-extinction-of-the-junior-engineer)
+- [An Inside Look at OpenAI and Anthropic&#39;s Finances Ahead of Their IPOs](https://www.wsj.com/tech/ai/openai-anthropic-ipo-finances-04b3cfb9)
+- [Realtime monitor of count of animals slaughtered in the US this year](https://animalclock.org/)
+- [Bump Mesh: A vibe-coded, open-source tool for texturing 3D prints](https://www.youtube.com/watch?v=rTBkjR7JvzI)
+- [Drop, formerly Massdrop, ends most collaborations and rebrands under Corsair](https://drop.com/)
+- [TSMC plans 12 fabs in Arizona as supply chain shifts from passive to active](https://www.digitimes.com/news/a20260402PD213/tsmc-arizona-fab-expansion-supply-chain-usa.html)
+- [Stop Pushing AI Generated Code to Git](https://blog.tombert.com/Posts/Technical/2026/04-April/Stop-Pushing-AI-Generated-Code-to-Git)
+- [Eight years of wanting, three months of building with AI](https://simonwillison.net/2026/Apr/5/building-with-ai/)
+- [The Reason VO₂ Max Declines with Age](https://www.gethealthspan.com/research/article/why-vo2-max-declines-with-age)
+- [Hierarchical-Context-Compressor](https://github.com/reyavir/hierarchical-context-compressor)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

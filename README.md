@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [AI that copied musical artist files copyright claim against that artist](https://twitter.com/VladTheInflator/status/2039577001531768906)
-- [Show HN: mailtrim – find what&#39;s actually filling your Gmail inbox](https://news.ycombinator.com/item?id=47645719)
-- [Writing Lisp Is AI Resistant and I&#39;m Sad](https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/)
-- [Introduction to Computer Music [pdf]](https://composerprogrammer.com/introductiontocomputermusic.pdf)
-- [Isseven](https://isseven.app/)
-- [Shooting down ideas is not a skill](https://scottlawsonbc.com/post/shooting-down-ideas)
-- [Show HN: Contrapunk – Real-time counterpoint harmony from guitar input, in Rust](https://contrapunk.com/)
-- [AWS Engineer Reports PostgreSQL Perf Halved by Linux 7.0, Fix May Not Be Easy](https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop)
-- [Advice to Young People, the Lies I Tell Myself &lpar;2024&rpar;](https://jxnl.co/writing/2024/06/01/advice-to-young-people/)
-- [Show HN: M. C. Escher spiral in WebGL inspired by 3Blue1Brown](https://static.laszlokorte.de/escher/)
+- [Media scraper Gallery-dl is moving to Codeberg after receiving a DMCA notice](https://github.com/mikf/gallery-dl/discussions/9304)
+- [An open-source 240-antenna array to bounce signals off the Moon](https://moonrf.com/)
+- [The 1987 game &quot;The Last Ninja&quot; was 40 kilobytes](https://twitter.com/exQUIZitely/status/2040777977521398151)
+- [Case study: recovery of a corrupted 12 TB multi-device pool](https://github.com/kdave/btrfs-progs/issues/1107)
+- [We replaced Node.js with Bun for 5x throughput](https://trigger.dev/blog/firebun)
+- [Stamp It All Programs Must Report Their Version – Michael Stapelberg](https://michael.stapelberg.ch/posts/2026-04-05-stamp-it-all-programs-must-report-their-version/)
+- [Employers use your personal data to figure out the lowest salary you&#39;ll accept](https://www.marketwatch.com/story/employers-are-using-your-personal-data-to-figure-out-the-lowest-salary-youll-accept-c2b968fb)
+- [Show HN: I built a tiny LLM to demystify how language models work](https://github.com/arman-bd/guppylm)
+- [Show HN: YouTube search barely works, I made a search form with advanced filters](https://playlists.at/youtube/search/)
+- [Show HN: Gemma Gem – AI model embedded in a browser – no API keys, no cloud](https://github.com/kessler/gemma-gem)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

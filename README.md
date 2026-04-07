@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Media scraper Gallery-dl is moving to Codeberg after receiving a DMCA notice](https://github.com/mikf/gallery-dl/discussions/9304)
-- [An open-source 240-antenna array to bounce signals off the Moon](https://moonrf.com/)
-- [The 1987 game &quot;The Last Ninja&quot; was 40 kilobytes](https://twitter.com/exQUIZitely/status/2040777977521398151)
-- [Case study: recovery of a corrupted 12 TB multi-device pool](https://github.com/kdave/btrfs-progs/issues/1107)
-- [We replaced Node.js with Bun for 5x throughput](https://trigger.dev/blog/firebun)
-- [Stamp It All Programs Must Report Their Version – Michael Stapelberg](https://michael.stapelberg.ch/posts/2026-04-05-stamp-it-all-programs-must-report-their-version/)
-- [Employers use your personal data to figure out the lowest salary you&#39;ll accept](https://www.marketwatch.com/story/employers-are-using-your-personal-data-to-figure-out-the-lowest-salary-youll-accept-c2b968fb)
-- [Show HN: I built a tiny LLM to demystify how language models work](https://github.com/arman-bd/guppylm)
-- [Show HN: YouTube search barely works, I made a search form with advanced filters](https://playlists.at/youtube/search/)
-- [Show HN: Gemma Gem – AI model embedded in a browser – no API keys, no cloud](https://github.com/kessler/gemma-gem)
+- [Solod – A Subset of Go That Translates to C](https://github.com/solod-dev/solod)
+- [After 20 years I turned off Google Adsense for my websites &lpar;2025&rpar;](https://blog.ericgoldman.org/archives/2025/06/after-20-years-i-turned-off-google-adsense-for-my-websites.htm)
+- [Anthropic expands partnership with Google and Broadcom for next-gen compute](https://www.anthropic.com/news/google-broadcom-partnership-compute)
+- [Show HN: Hippo, biologically inspired memory for AI agents](https://github.com/kitfunso/hippo-memory)
+- [HackerRank &lpar;YC S11&rpar; Is Hiring](https://news.ycombinator.com/item?id=47667011)
+- [Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS](https://github.com/matthartman/ghost-pepper)
+- [Show HN: TTF-DOOM – A raycaster running inside TrueType font hinting](https://github.com/4RH1T3CT0R7/ttf-doom)
+- [Agent Reading Test](https://agentreadingtest.com)
+- [SOM: A minimal Smalltalk for teaching of and research on Virtual Machines](http://som-st.github.io/)
+- [The cult of vibe coding is dogfooding run amok](https://bramcohen.com/p/the-cult-of-vibe-coding-is-insane)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

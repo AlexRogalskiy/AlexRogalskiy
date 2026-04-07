@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Extinction of the Junior Engineer](https://michaelnovati.substack.com/p/the-extinction-of-the-junior-engineer)
-- [An Inside Look at OpenAI and Anthropic&#39;s Finances Ahead of Their IPOs](https://www.wsj.com/tech/ai/openai-anthropic-ipo-finances-04b3cfb9)
-- [Realtime monitor of count of animals slaughtered in the US this year](https://animalclock.org/)
-- [Bump Mesh: A vibe-coded, open-source tool for texturing 3D prints](https://www.youtube.com/watch?v=rTBkjR7JvzI)
-- [Drop, formerly Massdrop, ends most collaborations and rebrands under Corsair](https://drop.com/)
-- [TSMC plans 12 fabs in Arizona as supply chain shifts from passive to active](https://www.digitimes.com/news/a20260402PD213/tsmc-arizona-fab-expansion-supply-chain-usa.html)
-- [Stop Pushing AI Generated Code to Git](https://blog.tombert.com/Posts/Technical/2026/04-April/Stop-Pushing-AI-Generated-Code-to-Git)
-- [Eight years of wanting, three months of building with AI](https://simonwillison.net/2026/Apr/5/building-with-ai/)
-- [The Reason VO₂ Max Declines with Age](https://www.gethealthspan.com/research/article/why-vo2-max-declines-with-age)
-- [Hierarchical-Context-Compressor](https://github.com/reyavir/hierarchical-context-compressor)
+- [ClearSpec – Turn vague goals into specs that AI agents can execute](https://www.clearspec.dev/)
+- [Global human population has surpassed Earth&#39;s sustainable carrying capacity](https://iopscience.iop.org/article/10.1088/1748-9326/ae51aa)
+- [Are We Augmented by AI Yet?](https://unskilled.blog/posts/are-we-augmented-by-ai-yet/)
+- [Asia&#39;s EVolution: How the Toyota Prius Comes to Die in Mongolia [video]](https://www.youtube.com/watch?v=KyEVDmoh5lo)
+- [Show HN: A Framework for Evaluating Coding Agents on Sequential SWE](https://arxiv.org/abs/2604.03035)
+- [Mark Zuckerberg&#39;s turbulent bet on AI](https://www.ft.com/content/cd3c6867-2f73-417d-a299-fb91a57bfe08)
+- [OpenAI, Anthropic, Google unite to combat model copying in China](https://www.businesstimes.com.sg/international/global/openai-anthropic-google-unite-combat-model-copying-china)
+- [Google AI Edge Eloquent &lpar;iOS&rpar;](https://apps.apple.com/us/app/google-ai-edge-eloquent/id6756505519)
+- [Happiness is a maintenance problem, not a discovery problem](https://gist.github.com/emeitch/390360452a9f5e37fa39ff91c836edbd)
+- [Sync Chrome Tabs Across Multiple Computers](https://www.rabbitpair.com/en/blog/chrome-tab-sync-across-devices-guide)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

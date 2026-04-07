@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Middle East crisis live: Tehran warns Trump over strait of Hormuz threat; Netanyahu suggests Israel helped US rescue airman](https://www.theguardian.com/world/live/2026/apr/06/iran-war-live-updates-trump-hormuz-oil-netanyahu-israel)
-- [‘Barbara Windsor smacked our bottoms!’ Pet Shop Boys on showstopping visuals, horrified bosses – and snubbing the queen](https://www.theguardian.com/music/2026/apr/06/pet-shop-boys-wild-visuals-snubbing-the-queen-barbara-windsor)
-- [‘We don’t want pity’: Ukrainian war veterans face off in amputee boxing championship](https://www.theguardian.com/sport/2026/apr/06/ukraine-war-veterans-amputee-boxing-championship)
-- [My mother, Audrey Hepburn: the star’s son Sean on her movies, marriages, good works and fascist parents](https://www.theguardian.com/lifeandstyle/2026/apr/06/audrey-hepburn-sean-hepburn-ferrer-biography)
-- [We&#39;ve gone mad for puzzles. This makes sense – it’s reassuring to have answers in these perplexing times | Joseph de Weck](https://www.theguardian.com/commentisfree/2026/apr/06/puzzles-reassuring-answers-perplexing-times)
-- [My maddening battle with chronic fatigue syndrome: ‘On my worst days, it feels almost demonic’ – podcast](https://www.theguardian.com/news/audio/2026/apr/06/my-maddening-battle-with-chronic-fatigue-syndrome-on-my-worst-days-it-feels-almost-demonic-podcast)
-- [Sick pay rule changes to benefit up to 9.6m UK workers, TUC says](https://www.theguardian.com/law/2026/apr/06/sick-pay-rule-changes-benefit-uk-workers-tuc)
-- [Cruise ship caught on reef off tiny Fiji island where Cast Away filmed](https://www.theguardian.com/world/2026/apr/06/cruise-ship-grounded-reef-fiji-cast-away-island-monuriki)
-- [Artemis II astronauts expected to reach far side of moon on Monday](https://www.theguardian.com/science/2026/apr/05/artemis-ii-astronauts-nasa-far-side-of-moon)
-- [As a celebrant, I prefer funerals to weddings. This is why | Jackie Bailey](https://www.theguardian.com/commentisfree/2026/apr/06/celebrant-funerals-weddings)
+- [Middle East crisis live: Trump says he is ‘not at all’ worried about possible war crimes as his deadline nears](https://www.theguardian.com/world/live/2026/apr/07/iran-war-live-updates-trump-hormuz-threats-deadline-strikes-middle-east-conflict)
+- [‘Italy has the best benefits’: Milan takes on Dubai as home for the super-rich](https://www.theguardian.com/business/2026/apr/07/milan-dubai-super-wealthy-italy-rich)
+- [‘Coke and booze didn’t help my creativity’: Joe Eszterhas on his wild times – and his supernatural, anti-woke Basic Instinct reboot](https://www.theguardian.com/film/2026/apr/07/joe-eszterhas-basic-instinct-reboot-flashdance-jagged-edge-showgirls-hunter-s-thompson)
+- [‘I see it as trafficking’: the brutal reality of life as a foreign student in the UK](https://www.theguardian.com/education/ng-interactive/2026/apr/07/brutal-reality-of-life-as-a-foreign-student-in-the-uk)
+- [A gangster, a bogus inheritance and a dead 19-year-old: the mystery Patrick Radden Keefe couldn’t ignore](https://www.theguardian.com/lifeandstyle/2026/apr/07/london-falling-patrick-radden-keefe-zac-brettler)
+- [From ‘stink bugs’ to ‘enemies of the people’: how Viktor Orbán blazed a trail for Trump’s media assaults](https://www.theguardian.com/commentisfree/2026/apr/07/viktor-orban-donald-trump-media-assault-hungary-election)
+- [Hungary pipeline false-flag claims swirl as JD Vance makes election intervention](https://www.theguardian.com/world/2026/apr/06/hungary-puts-gas-pipeline-under-military-protection-amid-false-flag-accusations)
+- [Ben Roberts-Smith arrested: former Australian soldier to be charged with five war crime murders in Afghanistan](https://www.theguardian.com/australia-news/2026/apr/07/ben-roberts-smith-arrested-brs-australian-soldier-sas-alleged-war-crimes-ntwnfb)
+- [Trump’s homeland security secretary mulls removing customs agents from airports to punish sanctuary cities – as it happened](https://www.theguardian.com/us-news/live/2026/apr/06/trump-iran-war-congress-us-politics-live)
+- [Accused Pinochet agent turned Bondi nanny Adriana Rivas to be extradited to Chile](https://www.theguardian.com/australia-news/2026/apr/07/bondi-nanny-adriana-rivas-accused-pinochet-agent-extradited)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

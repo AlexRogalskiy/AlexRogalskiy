@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Middle East crisis live: Trump says he is ‘not at all’ worried about possible war crimes as his deadline nears](https://www.theguardian.com/world/live/2026/apr/07/iran-war-live-updates-trump-hormuz-threats-deadline-strikes-middle-east-conflict)
-- [‘Italy has the best benefits’: Milan takes on Dubai as home for the super-rich](https://www.theguardian.com/business/2026/apr/07/milan-dubai-super-wealthy-italy-rich)
-- [‘Coke and booze didn’t help my creativity’: Joe Eszterhas on his wild times – and his supernatural, anti-woke Basic Instinct reboot](https://www.theguardian.com/film/2026/apr/07/joe-eszterhas-basic-instinct-reboot-flashdance-jagged-edge-showgirls-hunter-s-thompson)
-- [‘I see it as trafficking’: the brutal reality of life as a foreign student in the UK](https://www.theguardian.com/education/ng-interactive/2026/apr/07/brutal-reality-of-life-as-a-foreign-student-in-the-uk)
-- [A gangster, a bogus inheritance and a dead 19-year-old: the mystery Patrick Radden Keefe couldn’t ignore](https://www.theguardian.com/lifeandstyle/2026/apr/07/london-falling-patrick-radden-keefe-zac-brettler)
-- [From ‘stink bugs’ to ‘enemies of the people’: how Viktor Orbán blazed a trail for Trump’s media assaults](https://www.theguardian.com/commentisfree/2026/apr/07/viktor-orban-donald-trump-media-assault-hungary-election)
-- [Hungary pipeline false-flag claims swirl as JD Vance makes election intervention](https://www.theguardian.com/world/2026/apr/06/hungary-puts-gas-pipeline-under-military-protection-amid-false-flag-accusations)
-- [Ben Roberts-Smith arrested: former Australian soldier to be charged with five war crime murders in Afghanistan](https://www.theguardian.com/australia-news/2026/apr/07/ben-roberts-smith-arrested-brs-australian-soldier-sas-alleged-war-crimes-ntwnfb)
-- [Trump’s homeland security secretary mulls removing customs agents from airports to punish sanctuary cities – as it happened](https://www.theguardian.com/us-news/live/2026/apr/06/trump-iran-war-congress-us-politics-live)
-- [Accused Pinochet agent turned Bondi nanny Adriana Rivas to be extradited to Chile](https://www.theguardian.com/australia-news/2026/apr/07/bondi-nanny-adriana-rivas-accused-pinochet-agent-extradited)
+- [Middle East crisis live: Iran war ceasefire doesn’t include Lebanon, says Israel; Trump says uranium will be ‘taken care of’](https://www.theguardian.com/world/live/2026/apr/08/iran-war-ceasefire-live-updates-trump-deadline-middle-east-crisis-latest-news)
+- [‘This is about people’s livelihoods’: how surging tool thefts are leaving tradespeople penniless and afraid](https://www.theguardian.com/uk-news/2026/apr/08/surging-tool-thefts-leaving-tradespeople-penniless-afraid)
+- [‘People are so judgmental’: the growing cohort of over-55s facing homelessness](https://www.theguardian.com/society/2026/apr/08/over-55s-facing-homelessness-rising-costs-social-housing)
+- [The Boys season five review – it’s the final outing for this gory splatterfest](https://www.theguardian.com/tv-and-radio/2026/apr/08/the-boys-season-five-review-prime-video)
+- [Turkey to race ahead of EU on battery storage amid fossil fuel crisis](https://www.theguardian.com/world/2026/apr/08/turkey-ahead-eu-battery-storage-fossil-fuel-crisis)
+- [Don’t look at who voted to call the slave trade ‘the gravest crime’, look at who didn’t | Kenneth Mohammed](https://www.theguardian.com/global-development/2026/apr/08/slave-trade-uk-eu-ghana-un-resolution-slavery)
+- [Germans pining for Gerhard Schröder forget his errors and ties to Putin. The SPD needs a fresh approach | Katja Hoyer](https://www.theguardian.com/commentisfree/2026/apr/08/germany-gerhard-schroder-errors-putin-spd-russia)
+- [AI-generated Lego videos and Trump’s poo-bombing: welcome to the Iran-US slopaganda wars | Mark Alfano and Michał Klincewicz for the Conversation](https://www.theguardian.com/commentisfree/2026/apr/08/lego-videos-iran-trump-ai-video-meme-propaganda-movie-animation)
+- [‘Desperately searching for any sort of exit ramp’: US political leaders react as Trump announces ceasefire](https://www.theguardian.com/us-news/2026/apr/07/trump-ceasefire-iran-us-political)
+- [Oil prices plunge and stocks jump after Trump announces conditional ceasefire with Iran](https://www.theguardian.com/world/2026/apr/08/oil-prices-stock-today-futures-crude-donald-trump-iran-ceasefire)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

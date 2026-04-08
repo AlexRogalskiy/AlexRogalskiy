@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Solod – A Subset of Go That Translates to C](https://github.com/solod-dev/solod)
-- [After 20 years I turned off Google Adsense for my websites &lpar;2025&rpar;](https://blog.ericgoldman.org/archives/2025/06/after-20-years-i-turned-off-google-adsense-for-my-websites.htm)
-- [Anthropic expands partnership with Google and Broadcom for next-gen compute](https://www.anthropic.com/news/google-broadcom-partnership-compute)
-- [Show HN: Hippo, biologically inspired memory for AI agents](https://github.com/kitfunso/hippo-memory)
-- [HackerRank &lpar;YC S11&rpar; Is Hiring](https://news.ycombinator.com/item?id=47667011)
-- [Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS](https://github.com/matthartman/ghost-pepper)
-- [Show HN: TTF-DOOM – A raycaster running inside TrueType font hinting](https://github.com/4RH1T3CT0R7/ttf-doom)
-- [Agent Reading Test](https://agentreadingtest.com)
-- [SOM: A minimal Smalltalk for teaching of and research on Virtual Machines](http://som-st.github.io/)
-- [The cult of vibe coding is dogfooding run amok](https://bramcohen.com/p/the-cult-of-vibe-coding-is-insane)
+- [Protect Your Shed](https://dylanbutler.dev/blog/protect-your-shed/)
+- [LLM scraper bots are overloading acme.com&#39;s HTTPS server](http://acme.com/updates/archive/229.html)
+- [JSIR: A High-Level IR for JavaScript](https://discourse.llvm.org/t/rfc-jsir-a-high-level-ir-for-javascript/90456)
+- [Xilem – An experimental Rust native UI framework](https://github.com/linebender/xilem)
+- [US and Iran agree to provisional ceasefire](https://www.theguardian.com/us-news/2026/apr/07/trump-iran-war-ceasefire)
+- [Move Detroit](https://www.movedetroit.com/program)
+- [Bitcoin and quantum computing](https://nehanarula.org/2026/04/03/bitcoin-and-quantum-computing.html)
+- [Show HN: An interactive map of Tolkien&#39;s Middle-earth](https://middle-earth-interactive-map.web.app/)
+- [S3 Files](https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html)
+- [Show HN: Gemma 4 Multimodal Fine-Tuner for Apple Silicon](https://github.com/mattmireles/gemma-tuner-multimodal)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

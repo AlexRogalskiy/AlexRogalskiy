@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [ClearSpec – Turn vague goals into specs that AI agents can execute](https://www.clearspec.dev/)
-- [Global human population has surpassed Earth&#39;s sustainable carrying capacity](https://iopscience.iop.org/article/10.1088/1748-9326/ae51aa)
-- [Are We Augmented by AI Yet?](https://unskilled.blog/posts/are-we-augmented-by-ai-yet/)
-- [Asia&#39;s EVolution: How the Toyota Prius Comes to Die in Mongolia [video]](https://www.youtube.com/watch?v=KyEVDmoh5lo)
-- [Show HN: A Framework for Evaluating Coding Agents on Sequential SWE](https://arxiv.org/abs/2604.03035)
-- [Mark Zuckerberg&#39;s turbulent bet on AI](https://www.ft.com/content/cd3c6867-2f73-417d-a299-fb91a57bfe08)
-- [OpenAI, Anthropic, Google unite to combat model copying in China](https://www.businesstimes.com.sg/international/global/openai-anthropic-google-unite-combat-model-copying-china)
-- [Google AI Edge Eloquent &lpar;iOS&rpar;](https://apps.apple.com/us/app/google-ai-edge-eloquent/id6756505519)
-- [Happiness is a maintenance problem, not a discovery problem](https://gist.github.com/emeitch/390360452a9f5e37fa39ff91c836edbd)
-- [Sync Chrome Tabs Across Multiple Computers](https://www.rabbitpair.com/en/blog/chrome-tab-sync-across-devices-guide)
+- [KOS Protocol – A kos.json file for AI agents to read verified facts](https://kosprotocol.dev)
+- [Ask HN: Is it possible to escape captive portal webview limitations?](https://news.ycombinator.com/item?id=47685245)
+- [Show HN: The Spotify for AI Agents – StarSinger MCP](https://mcp.starsinger.ai/)
+- [$ npx port-grid – Scans your ports. Shows live previews. Kill from the UI](https://twitter.com/Jeroen_Ransijn/status/2041733263430238405)
+- [The Open-Source Recipe for Teaching a Robot to Fold Your Clothes](https://huggingface.co/spaces/lerobot/robot-folding)
+- [The Building Block Economy](https://mitchellh.com/writing/building-block-economy)
+- [Show HN: HN: a collection of web desktops with real browsers](https://win9-5.com/demo)
+- [Claude Code Chase Thread](https://i.postimg.cc/7Y9sjHb4/Screenshot-2026-04-07-at-10-35-06-PM.png)
+- [Anthropic may have leaked Claude Code source on purpose](https://www.ft.com/content/59249643-a221-4494-bcb5-62e5f4fedc8e)
+- [Steve Jobs iPhone 2007 Presentation &lpar;Full Transcript, PDF&rpar;](https://singjupost.com/wp-content/uploads/2014/07/Steve-Jobs-iPhone-2007-Presentation-Full-Transcript.pdf)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

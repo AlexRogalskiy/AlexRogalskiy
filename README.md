@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Protect Your Shed](https://dylanbutler.dev/blog/protect-your-shed/)
-- [LLM scraper bots are overloading acme.com&#39;s HTTPS server](http://acme.com/updates/archive/229.html)
-- [JSIR: A High-Level IR for JavaScript](https://discourse.llvm.org/t/rfc-jsir-a-high-level-ir-for-javascript/90456)
-- [Xilem – An experimental Rust native UI framework](https://github.com/linebender/xilem)
-- [US and Iran agree to provisional ceasefire](https://www.theguardian.com/us-news/2026/apr/07/trump-iran-war-ceasefire)
-- [Move Detroit](https://www.movedetroit.com/program)
-- [Bitcoin and quantum computing](https://nehanarula.org/2026/04/03/bitcoin-and-quantum-computing.html)
-- [Show HN: An interactive map of Tolkien&#39;s Middle-earth](https://middle-earth-interactive-map.web.app/)
-- [S3 Files](https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html)
-- [Show HN: Gemma 4 Multimodal Fine-Tuner for Apple Silicon](https://github.com/mattmireles/gemma-tuner-multimodal)
+- [App Store sees 84% surge in new apps as AI coding tools take off](https://9to5mac.com/2026/04/06/app-store-sees-84-surge-in-new-apps-as-ai-coding-tools-take-off/)
+- [Newly created Polymarket accounts win big on well-timed Iran ceasefire bets](https://www.theguardian.com/business/2026/apr/08/polymarket-trump-us-iran-ceasefire)
+- [LittleSnitch for Linux](https://obdev.at/products/littlesnitch-linux/index.html)
+- [Show HN: Is Hormuz open yet?](https://www.ishormuzopenyet.com/)
+- [John Deere to pay $99M in right-to-repair settlement](https://www.thedrive.com/news/john-deere-to-pay-99-million-in-monumental-right-to-repair-settlement)
+- [USB for Software Developers: An introduction to writing userspace USB drivers](https://werwolv.net/posts/usb_for_sw_devs/)
+- [Expanding Swift&#39;s IDE Support](https://swift.org/blog/expanding-swift-ide-support/)
+- [Show HN: Orange Juice – Small UX improvements that make HN easier to read](http://oj-hn.com/)
+- [I&#39;ve been waiting over a month for Anthropic to respond to my billing issue](https://nickvecchioni.github.io/thoughts/2026/04/08/anthropic-support-doesnt-exist/)
+- [Understanding the Kalman filter with a simple radar example](https://kalmanfilter.net)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

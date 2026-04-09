@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Middle East crisis live: Iran war ceasefire doesn’t include Lebanon, says Israel; Trump says uranium will be ‘taken care of’](https://www.theguardian.com/world/live/2026/apr/08/iran-war-ceasefire-live-updates-trump-deadline-middle-east-crisis-latest-news)
-- [‘This is about people’s livelihoods’: how surging tool thefts are leaving tradespeople penniless and afraid](https://www.theguardian.com/uk-news/2026/apr/08/surging-tool-thefts-leaving-tradespeople-penniless-afraid)
-- [‘People are so judgmental’: the growing cohort of over-55s facing homelessness](https://www.theguardian.com/society/2026/apr/08/over-55s-facing-homelessness-rising-costs-social-housing)
-- [The Boys season five review – it’s the final outing for this gory splatterfest](https://www.theguardian.com/tv-and-radio/2026/apr/08/the-boys-season-five-review-prime-video)
-- [Turkey to race ahead of EU on battery storage amid fossil fuel crisis](https://www.theguardian.com/world/2026/apr/08/turkey-ahead-eu-battery-storage-fossil-fuel-crisis)
-- [Don’t look at who voted to call the slave trade ‘the gravest crime’, look at who didn’t | Kenneth Mohammed](https://www.theguardian.com/global-development/2026/apr/08/slave-trade-uk-eu-ghana-un-resolution-slavery)
-- [Germans pining for Gerhard Schröder forget his errors and ties to Putin. The SPD needs a fresh approach | Katja Hoyer](https://www.theguardian.com/commentisfree/2026/apr/08/germany-gerhard-schroder-errors-putin-spd-russia)
-- [AI-generated Lego videos and Trump’s poo-bombing: welcome to the Iran-US slopaganda wars | Mark Alfano and Michał Klincewicz for the Conversation](https://www.theguardian.com/commentisfree/2026/apr/08/lego-videos-iran-trump-ai-video-meme-propaganda-movie-animation)
-- [‘Desperately searching for any sort of exit ramp’: US political leaders react as Trump announces ceasefire](https://www.theguardian.com/us-news/2026/apr/07/trump-ceasefire-iran-us-political)
-- [Oil prices plunge and stocks jump after Trump announces conditional ceasefire with Iran](https://www.theguardian.com/world/2026/apr/08/oil-prices-stock-today-futures-crude-donald-trump-iran-ceasefire)
+- [George Clooney calls Donald Trump’s ‘a whole civilization will die tonight’ threat to Iran a war crime](https://www.theguardian.com/film/2026/apr/09/george-clooney-trump-civilisation-will-die-tonight-war-crime-comments)
+- [Middle East crisis live: Red Cross ‘outraged’ as Israeli strikes on Lebanon kill at least 254; strait of Hormuz impasse continues](https://www.theguardian.com/world/live/2026/apr/09/iran-war-ceasefire-live-strait-of-hormuz-israel-strikes-middle-east-crisis-latest-news)
+- [‘I had poked the bear right in the eye’: my fight to renounce my Russian citizenship](https://www.theguardian.com/world/2026/apr/09/i-had-poked-the-bear-right-in-the-eye-my-fight-to-renounce-my-russian-citizenship)
+- [Injured and abandoned: hundreds of Gaza amputees left stranded in Egypt](https://www.theguardian.com/global-development/2026/apr/09/gaza-amputees-stranded-in-egypt-life-changing-injuries)
+- [Consumers urged to ‘completely avoid’ UK-caught cod as population plunges](https://www.theguardian.com/environment/2026/apr/09/consumers-urged-to-completely-avoid-uk-caught-cod-as-population-plunges)
+- [You, Me &amp; Tuscany review – slick romcom offers solidly charming getaway](https://www.theguardian.com/film/2026/apr/09/you-me-tuscany-romcom-review)
+- [‘My background cringes me out’: Jack Whitehall on poshness, comedy and his lockdown romance](https://www.theguardian.com/tv-and-radio/2026/apr/09/my-background-cringes-me-out-jack-whitehall-on-poshness-comedy-and-his-lockdown-romance)
+- [Give all UK households a set amount of subsidised energy, says thinktank](https://www.theguardian.com/business/2026/apr/09/give-all-uk-households-a-set-amount-of-subsidised-energy-says-thinktank)
+- [AI can’t wield a paint brush, but it did help me transform my home](https://www.theguardian.com/lifeandstyle/2026/apr/09/ai-diy-home)
+- [Iran is a turning point for Europe’s liberation – from Donald Trump](https://www.theguardian.com/commentisfree/2026/apr/09/iran-is-a-turning-point-for-europes-liberation-from-donald-trump)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

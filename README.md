@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [KOS Protocol – A kos.json file for AI agents to read verified facts](https://kosprotocol.dev)
-- [Ask HN: Is it possible to escape captive portal webview limitations?](https://news.ycombinator.com/item?id=47685245)
-- [Show HN: The Spotify for AI Agents – StarSinger MCP](https://mcp.starsinger.ai/)
-- [$ npx port-grid – Scans your ports. Shows live previews. Kill from the UI](https://twitter.com/Jeroen_Ransijn/status/2041733263430238405)
-- [The Open-Source Recipe for Teaching a Robot to Fold Your Clothes](https://huggingface.co/spaces/lerobot/robot-folding)
-- [The Building Block Economy](https://mitchellh.com/writing/building-block-economy)
-- [Show HN: HN: a collection of web desktops with real browsers](https://win9-5.com/demo)
-- [Claude Code Chase Thread](https://i.postimg.cc/7Y9sjHb4/Screenshot-2026-04-07-at-10-35-06-PM.png)
-- [Anthropic may have leaked Claude Code source on purpose](https://www.ft.com/content/59249643-a221-4494-bcb5-62e5f4fedc8e)
-- [Steve Jobs iPhone 2007 Presentation &lpar;Full Transcript, PDF&rpar;](https://singjupost.com/wp-content/uploads/2014/07/Steve-Jobs-iPhone-2007-Presentation-Full-Transcript.pdf)
+- [How can I get your attention?](https://news.ycombinator.com/item?id=47699235)
+- [On Partners, Mario, &amp; Pi](https://www.foggynotions.day/#on-partners-mario-pi)
+- [The Waymo Rule for AI-Generated Code](https://rng.md/posts/the-waymo-rule-for-ai-generated-code/)
+- [Know the Owners – Explore the ownership structures behind name brand products](https://knowtheowners.com/)
+- [Pizza Tycoon simulated traffic on a 25 MHz CPU](https://pizzalegacy.nl/blog/traffic-system.html)
+- [Alignment Risk Update for Claude Mythos [pdf]](https://www-cdn.anthropic.com/79c2d46d997783b9d2fb3241de43218158e5f25c.pdf)
+- [Bash Owns the Loop](https://www.nibzard.com/wrappers/)
+- [Under the hood of MDN&#39;s new front end](https://developer.mozilla.org/en-US/blog/mdn-front-end-deep-dive/)
+- [Open Source Security at Astral](https://astral.sh/blog/open-source-security-at-astral)
+- [Show HN: Jsonl Viewer – An offline JSON Lines viewer in a single HTML file](https://news.ycombinator.com/item?id=47699179)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

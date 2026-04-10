@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [George Clooney calls Donald Trump’s ‘a whole civilization will die tonight’ threat to Iran a war crime](https://www.theguardian.com/film/2026/apr/09/george-clooney-trump-civilisation-will-die-tonight-war-crime-comments)
-- [Middle East crisis live: Red Cross ‘outraged’ as Israeli strikes on Lebanon kill at least 254; strait of Hormuz impasse continues](https://www.theguardian.com/world/live/2026/apr/09/iran-war-ceasefire-live-strait-of-hormuz-israel-strikes-middle-east-crisis-latest-news)
-- [‘I had poked the bear right in the eye’: my fight to renounce my Russian citizenship](https://www.theguardian.com/world/2026/apr/09/i-had-poked-the-bear-right-in-the-eye-my-fight-to-renounce-my-russian-citizenship)
-- [Injured and abandoned: hundreds of Gaza amputees left stranded in Egypt](https://www.theguardian.com/global-development/2026/apr/09/gaza-amputees-stranded-in-egypt-life-changing-injuries)
-- [Consumers urged to ‘completely avoid’ UK-caught cod as population plunges](https://www.theguardian.com/environment/2026/apr/09/consumers-urged-to-completely-avoid-uk-caught-cod-as-population-plunges)
-- [You, Me &amp; Tuscany review – slick romcom offers solidly charming getaway](https://www.theguardian.com/film/2026/apr/09/you-me-tuscany-romcom-review)
-- [‘My background cringes me out’: Jack Whitehall on poshness, comedy and his lockdown romance](https://www.theguardian.com/tv-and-radio/2026/apr/09/my-background-cringes-me-out-jack-whitehall-on-poshness-comedy-and-his-lockdown-romance)
-- [Give all UK households a set amount of subsidised energy, says thinktank](https://www.theguardian.com/business/2026/apr/09/give-all-uk-households-a-set-amount-of-subsidised-energy-says-thinktank)
-- [AI can’t wield a paint brush, but it did help me transform my home](https://www.theguardian.com/lifeandstyle/2026/apr/09/ai-diy-home)
-- [Iran is a turning point for Europe’s liberation – from Donald Trump](https://www.theguardian.com/commentisfree/2026/apr/09/iran-is-a-turning-point-for-europes-liberation-from-donald-trump)
+- [Middle East crisis live: Trump casts doubt on Iran war ceasefire over continued closure of strait of Hormuz](https://www.theguardian.com/world/live/2026/apr/10/iran-war-live-updates-trump-ceasefire-strait-hormuz-israel-lebanon-hezbollah)
+- [‘I’m not a commercial director – I’m not even a professional film-maker’: Jim Jarmusch on the seven-year journey to make his new film](https://www.theguardian.com/film/2026/apr/10/im-not-a-commercial-director-im-not-even-a-professional-film-maker-jim-jarmusch-on-the-seven-year-journey-to-make-his-new-film)
+- [Experience: my house was taken over by 70,000 bees](https://www.theguardian.com/lifeandstyle/2026/apr/09/experience-my-house-was-taken-over-by-70000-bees)
+- [Who is Péter Magyar, the man leading the polls as Hungary prepares for election?](https://www.theguardian.com/world/2026/apr/10/peter-magyar-leading-polls-hungary-election-tisza-opposition)
+- [Malcolm in the Middle: Life’s Still Unfair review – the TV magic they’ve created here is absolutely miraculous](https://www.theguardian.com/tv-and-radio/2026/apr/10/malcolm-in-the-middle-lifes-still-unfair-review-disney-plus)
+- [Islamabad prepares to host historic negotiations between Iran and the US](https://www.theguardian.com/world/2026/apr/10/islamabad-pakistan-negotiations-iran-us)
+- [Cuban president tells NBC he won’t resign under US pressure, as Russia backs old ally](https://www.theguardian.com/world/2026/apr/10/cuban-president-tells-nbc-he-wont-resign-under-us-pressure-as-russia-backs-old-ally)
+- [Lava bursts forth as Hawaii’s Kilauea volcano erupts](https://www.theguardian.com/us-news/2026/apr/09/hawaii-kilauea-volcano-eruption)
+- [Artemis II crew hails ‘golden age of space travel’ as they prepare for return](https://www.theguardian.com/science/2026/apr/09/artemis-crew-nasa-return)
+- [Smithsonian museum director to move to Guggenheim: ‘a moment of change’](https://www.theguardian.com/us-news/2026/apr/09/smithsonian-museum-director-move-guggenheim)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [App Store sees 84% surge in new apps as AI coding tools take off](https://9to5mac.com/2026/04/06/app-store-sees-84-surge-in-new-apps-as-ai-coding-tools-take-off/)
-- [Newly created Polymarket accounts win big on well-timed Iran ceasefire bets](https://www.theguardian.com/business/2026/apr/08/polymarket-trump-us-iran-ceasefire)
-- [LittleSnitch for Linux](https://obdev.at/products/littlesnitch-linux/index.html)
-- [Show HN: Is Hormuz open yet?](https://www.ishormuzopenyet.com/)
-- [John Deere to pay $99M in right-to-repair settlement](https://www.thedrive.com/news/john-deere-to-pay-99-million-in-monumental-right-to-repair-settlement)
-- [USB for Software Developers: An introduction to writing userspace USB drivers](https://werwolv.net/posts/usb_for_sw_devs/)
-- [Expanding Swift&#39;s IDE Support](https://swift.org/blog/expanding-swift-ide-support/)
-- [Show HN: Orange Juice – Small UX improvements that make HN easier to read](http://oj-hn.com/)
-- [I&#39;ve been waiting over a month for Anthropic to respond to my billing issue](https://nickvecchioni.github.io/thoughts/2026/04/08/anthropic-support-doesnt-exist/)
-- [Understanding the Kalman filter with a simple radar example](https://kalmanfilter.net)
+- [CollectWise &lpar;YC F24&rpar; Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/Ktc6m6o-ai-agent-engineer)
+- [Hip-hop pioneer, Afrika Bambaataa, dies aged 68](https://www.bbc.co.uk/news/articles/c2evppm30p7o)
+- [The Raft Consensus Algorithm Explained Through &quot;Mean Girls&quot;](https://www.cockroachlabs.com/blog/raft-is-so-fetch/)
+- [Microsoft PhotoDNA scanning problem](https://www.elevenforum.com/t/microsoft-photodna-scanning-problem-it-is-comical-now.45961/)
+- [Apple&#39;s New iPhone Update Is Restricting Internet Freedom in the UK](https://bigbrotherwatch.org.uk/blog/apples-new-iphone-update-is-restricting-internet-freedom-in-the-uk/)
+- [Many African families spend fortunes burying their dead](https://davidoks.blog/p/how-funerals-keep-africa-poor)
+- [The Training Example Lie Bracket](https://pbement.com/posts/lie_brackets/)
+- [Microsoft is employing dark patterns to goad users into paying for storage?](https://lzon.ca/posts/other/microsoft-user-abuse/)
+- [Moving from WordPress to Jekyll &lpar;and static site generators in general&rpar;](https://www.demandsphere.com/blog/rebuilding-demandsphere-with-jekyll-and-claude-code/)
+- [Charcuterie – Visual similarity Unicode explorer](https://charcuterie.elastiq.ch/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

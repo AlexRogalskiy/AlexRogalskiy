@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [How can I get your attention?](https://news.ycombinator.com/item?id=47699235)
-- [On Partners, Mario, &amp; Pi](https://www.foggynotions.day/#on-partners-mario-pi)
-- [The Waymo Rule for AI-Generated Code](https://rng.md/posts/the-waymo-rule-for-ai-generated-code/)
-- [Know the Owners – Explore the ownership structures behind name brand products](https://knowtheowners.com/)
-- [Pizza Tycoon simulated traffic on a 25 MHz CPU](https://pizzalegacy.nl/blog/traffic-system.html)
-- [Alignment Risk Update for Claude Mythos [pdf]](https://www-cdn.anthropic.com/79c2d46d997783b9d2fb3241de43218158e5f25c.pdf)
-- [Bash Owns the Loop](https://www.nibzard.com/wrappers/)
-- [Under the hood of MDN&#39;s new front end](https://developer.mozilla.org/en-US/blog/mdn-front-end-deep-dive/)
-- [Open Source Security at Astral](https://astral.sh/blog/open-source-security-at-astral)
-- [Show HN: Jsonl Viewer – An offline JSON Lines viewer in a single HTML file](https://news.ycombinator.com/item?id=47699179)
+- [First man convicted under Take It Down Act kept making AI nudes after arrest](https://arstechnica.com/tech-policy/2026/04/first-man-convicted-under-take-it-down-act-kept-making-ai-nudes-after-arrest/)
+- [Reverse-engineering an encrypted IoT protocol](https://smlx.dev/posts/goodwe-sems-protocol-teardown/)
+- [MemPalace – A Masterclass in Grifting](https://twitter.com/AdvicebyAimar/status/2041559354034344438)
+- [A Minecraft mod that reveals the Alpha world under bedrock](https://multision.dev/alphabelow/)
+- [Scaling AI is now constrained by energy, cooling and physics](https://blog.se.com/digital-transformation/artificial-intelligence/2026/02/13/scaling-ai-in-the-real-world-how-power-cooling-and-physics-now-define-data-center-strategy/)
+- [Book Review: Savage Money &lpar;2024&rpar;](https://entropicthoughts.com/book-review-savage-money)
+- [Show HN: Every AI writing tool sounds the same, this one sounds like you](https://toneswap.app)
+- [&lpar;YT&rpar; Economics Explained: Job Losses Across Sectors [video]](https://www.youtube.com/watch?v=1zlD0K09IKE)
+- [Zig – Incremental Compilation with LLVM](https://ziglang.org/devlog/2026/#2026-04-08)
+- [Zed&#39;s Agent Stats](https://zed.dev/blog/agent-metrics)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

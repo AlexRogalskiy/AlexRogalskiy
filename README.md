@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [First man convicted under Take It Down Act kept making AI nudes after arrest](https://arstechnica.com/tech-policy/2026/04/first-man-convicted-under-take-it-down-act-kept-making-ai-nudes-after-arrest/)
-- [Reverse-engineering an encrypted IoT protocol](https://smlx.dev/posts/goodwe-sems-protocol-teardown/)
-- [MemPalace – A Masterclass in Grifting](https://twitter.com/AdvicebyAimar/status/2041559354034344438)
-- [A Minecraft mod that reveals the Alpha world under bedrock](https://multision.dev/alphabelow/)
-- [Scaling AI is now constrained by energy, cooling and physics](https://blog.se.com/digital-transformation/artificial-intelligence/2026/02/13/scaling-ai-in-the-real-world-how-power-cooling-and-physics-now-define-data-center-strategy/)
-- [Book Review: Savage Money &lpar;2024&rpar;](https://entropicthoughts.com/book-review-savage-money)
-- [Show HN: Every AI writing tool sounds the same, this one sounds like you](https://toneswap.app)
-- [&lpar;YT&rpar; Economics Explained: Job Losses Across Sectors [video]](https://www.youtube.com/watch?v=1zlD0K09IKE)
-- [Zig – Incremental Compilation with LLVM](https://ziglang.org/devlog/2026/#2026-04-08)
-- [Zed&#39;s Agent Stats](https://zed.dev/blog/agent-metrics)
+- [Is it possible to live without killing?&lpar;2024&rpar;](https://worldbuilding.stackexchange.com/questions/254210/is-it-possible-to-live-without-killing)
+- [A plan for Europe&#39;s tech fightback](https://www.economist.com/by-invitation/2026/04/09/a-plan-for-europes-tech-fightback)
+- [Book Summary: Learn Python the Hard Way](https://fagnerbrack.com/book-summary-learn-python-the-hard-way-c2da8a30bbe9)
+- [Meta boots law firm ads seeking clients to sue over alleged FB, IG addiction](https://nypost.com/2026/04/09/business/meta-boots-law-firm-ads-looking-for-clients-to-sue-over-alleged-facebook-instagram-addiction/)
+- [We Only Learn from Error](https://nathanclonts.com/we-only-learn-from-error/)
+- [Musk faces fresh opposition after landing permit for Mississippi power plant](https://www.cnbc.com/2026/04/10/musks-xai-draws-more-opposition-over-mississippi-power-plant-permit.html)
+- [Show HN: HyperFlow – A self-improving agent framework built on LangGraph](https://news.ycombinator.com/item?id=47727255)
+- [ESP32-P4 SIMD Explained](https://bitbanksoftware.blogspot.com/2026/04/esp32-p4-simd-explained.html)
+- [Quien – A better WHOIS lookup tool](https://github.com/retlehs/quien/)
+- [The AI-Assisted Breach of Mexico&#39;s Government Infrastructure [pdf]](https://cdn.prod.website-files.com/69944dd945f20ca4a27a7c47/69d8bb5aea59e31efb3b8a7f_Tech_Report_ai_breach_mex_gov.pdf)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

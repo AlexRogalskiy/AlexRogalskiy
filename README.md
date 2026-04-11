@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Middle East crisis live: Trump casts doubt on Iran war ceasefire over continued closure of strait of Hormuz](https://www.theguardian.com/world/live/2026/apr/10/iran-war-live-updates-trump-ceasefire-strait-hormuz-israel-lebanon-hezbollah)
-- [‘I’m not a commercial director – I’m not even a professional film-maker’: Jim Jarmusch on the seven-year journey to make his new film](https://www.theguardian.com/film/2026/apr/10/im-not-a-commercial-director-im-not-even-a-professional-film-maker-jim-jarmusch-on-the-seven-year-journey-to-make-his-new-film)
-- [Experience: my house was taken over by 70,000 bees](https://www.theguardian.com/lifeandstyle/2026/apr/09/experience-my-house-was-taken-over-by-70000-bees)
-- [Who is Péter Magyar, the man leading the polls as Hungary prepares for election?](https://www.theguardian.com/world/2026/apr/10/peter-magyar-leading-polls-hungary-election-tisza-opposition)
-- [Malcolm in the Middle: Life’s Still Unfair review – the TV magic they’ve created here is absolutely miraculous](https://www.theguardian.com/tv-and-radio/2026/apr/10/malcolm-in-the-middle-lifes-still-unfair-review-disney-plus)
-- [Islamabad prepares to host historic negotiations between Iran and the US](https://www.theguardian.com/world/2026/apr/10/islamabad-pakistan-negotiations-iran-us)
-- [Cuban president tells NBC he won’t resign under US pressure, as Russia backs old ally](https://www.theguardian.com/world/2026/apr/10/cuban-president-tells-nbc-he-wont-resign-under-us-pressure-as-russia-backs-old-ally)
-- [Lava bursts forth as Hawaii’s Kilauea volcano erupts](https://www.theguardian.com/us-news/2026/apr/09/hawaii-kilauea-volcano-eruption)
-- [Artemis II crew hails ‘golden age of space travel’ as they prepare for return](https://www.theguardian.com/science/2026/apr/09/artemis-crew-nasa-return)
-- [Smithsonian museum director to move to Guggenheim: ‘a moment of change’](https://www.theguardian.com/us-news/2026/apr/09/smithsonian-museum-director-move-guggenheim)
+- [American Classic review – I defy you not to fall in love with Kevin Kline and Laura Linney’s tender comedy](https://www.theguardian.com/tv-and-radio/2026/apr/11/american-classic-review-kevin-kline-laura-linney-comedy)
+- [Cuba’s doctors were a lifeline for the world. Now the Caribbean is shamefully complicit in the US drive to expel them | Kenneth Mohammed](https://www.theguardian.com/global-development/2026/apr/11/cuba-doctors-lifeline-world-caribbean-complicit-us-expel)
+- [An environmental disaster in Moldova has Russia’s fingerprints all over it | Paula Erizanu](https://www.theguardian.com/commentisfree/2026/apr/11/environmental-disaster-moldova-russia-ukraine-war-drinking-water)
+- [‘Just the beginning’: Artemis II crew splashes down after record-breaking moon flyby](https://www.theguardian.com/science/2026/apr/10/artemis-ii-landing-return-moon-mission)
+- [Ukraine war briefing: doubts linger in Kyiv over Moscow’s promise to uphold Orthodox Easter ceasefire](https://www.theguardian.com/world/2026/apr/11/ukraine-war-briefing-doubts-linger-in-kyiv-over-moscows-promise-to-uphold-orthodox-easter-ceasefire)
+- [RMIT drops misconduct case against student who accused university of being ‘complicit in Gaza genocide’](https://www.theguardian.com/australia-news/2026/apr/11/rmit-drops-misconduct-case-student-gaza-claims-ntwnfb)
+- [Ichiro Suzuki statue unveiling goes awry as bronze bat snaps during ceremony](https://www.theguardian.com/sport/2026/apr/10/ichiro-suzuki-statue-bat-snaps-seattle-mariners)
+- [Rory McIlroy surges into six-shot Masters lead with stunning second-round flourish](https://www.theguardian.com/sport/2026/apr/11/rory-mcilroy-six-shot-masters-lead--stunning-second-round-golf)
+- [Survivors of Epstein’s abuse accuse Melania Trump of ‘shifting burden’ on to victims](https://www.theguardian.com/us-news/2026/apr/10/epstein-survivors-melania-trump-reaction)
+- [European football: Real Madrid held at home by Girona to extend winless run](https://www.theguardian.com/football/2026/apr/10/european-football-real-madrid-girona-marseille-monaco-paris-fc-roma)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

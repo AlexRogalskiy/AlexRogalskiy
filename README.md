@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [CollectWise &lpar;YC F24&rpar; Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/Ktc6m6o-ai-agent-engineer)
-- [Hip-hop pioneer, Afrika Bambaataa, dies aged 68](https://www.bbc.co.uk/news/articles/c2evppm30p7o)
-- [The Raft Consensus Algorithm Explained Through &quot;Mean Girls&quot;](https://www.cockroachlabs.com/blog/raft-is-so-fetch/)
-- [Microsoft PhotoDNA scanning problem](https://www.elevenforum.com/t/microsoft-photodna-scanning-problem-it-is-comical-now.45961/)
-- [Apple&#39;s New iPhone Update Is Restricting Internet Freedom in the UK](https://bigbrotherwatch.org.uk/blog/apples-new-iphone-update-is-restricting-internet-freedom-in-the-uk/)
-- [Many African families spend fortunes burying their dead](https://davidoks.blog/p/how-funerals-keep-africa-poor)
-- [The Training Example Lie Bracket](https://pbement.com/posts/lie_brackets/)
-- [Microsoft is employing dark patterns to goad users into paying for storage?](https://lzon.ca/posts/other/microsoft-user-abuse/)
-- [Moving from WordPress to Jekyll &lpar;and static site generators in general&rpar;](https://www.demandsphere.com/blog/rebuilding-demandsphere-with-jekyll-and-claude-code/)
-- [Charcuterie – Visual similarity Unicode explorer](https://charcuterie.elastiq.ch/)
+- [Quien – A better WHOIS lookup tool](https://github.com/retlehs/quien/)
+- [Artemis II safely splashes down](https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/)
+- [Italo Calvino: A traveller in a world of uncertainty](https://www.historytoday.com/archive/portrait-author-historian/italo-calvino-traveller-world-uncertainty)
+- [Sam Altman&#39;s response to Molotov cocktail incident](https://blog.samaltman.com/2279512)
+- [Filing the corners off my MacBooks](https://kentwalters.com/posts/corners/)
+- [Installing every* Firefox extension](https://jack.cab/blog/every-firefox-extension)
+- [Nowhere is safe](https://steveblank.com/2026/04/09/nowhere-is-safe/)
+- [Chimpanzees in Uganda locked in eight-year &#39;civil war&#39;, say researchers](https://www.bbc.com/news/articles/cr71lkzv49po)
+- [Watgo – A WebAssembly Toolkit for Go](https://eli.thegreenplace.net/2026/watgo-a-webassembly-toolkit-for-go/)
+- [Show HN: FluidCAD – Parametric CAD with JavaScript](https://fluidcad.io/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

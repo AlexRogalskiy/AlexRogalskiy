@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [American Classic review – I defy you not to fall in love with Kevin Kline and Laura Linney’s tender comedy](https://www.theguardian.com/tv-and-radio/2026/apr/11/american-classic-review-kevin-kline-laura-linney-comedy)
-- [Cuba’s doctors were a lifeline for the world. Now the Caribbean is shamefully complicit in the US drive to expel them | Kenneth Mohammed](https://www.theguardian.com/global-development/2026/apr/11/cuba-doctors-lifeline-world-caribbean-complicit-us-expel)
-- [An environmental disaster in Moldova has Russia’s fingerprints all over it | Paula Erizanu](https://www.theguardian.com/commentisfree/2026/apr/11/environmental-disaster-moldova-russia-ukraine-war-drinking-water)
-- [‘Just the beginning’: Artemis II crew splashes down after record-breaking moon flyby](https://www.theguardian.com/science/2026/apr/10/artemis-ii-landing-return-moon-mission)
-- [Ukraine war briefing: doubts linger in Kyiv over Moscow’s promise to uphold Orthodox Easter ceasefire](https://www.theguardian.com/world/2026/apr/11/ukraine-war-briefing-doubts-linger-in-kyiv-over-moscows-promise-to-uphold-orthodox-easter-ceasefire)
-- [RMIT drops misconduct case against student who accused university of being ‘complicit in Gaza genocide’](https://www.theguardian.com/australia-news/2026/apr/11/rmit-drops-misconduct-case-student-gaza-claims-ntwnfb)
-- [Ichiro Suzuki statue unveiling goes awry as bronze bat snaps during ceremony](https://www.theguardian.com/sport/2026/apr/10/ichiro-suzuki-statue-bat-snaps-seattle-mariners)
-- [Rory McIlroy surges into six-shot Masters lead with stunning second-round flourish](https://www.theguardian.com/sport/2026/apr/11/rory-mcilroy-six-shot-masters-lead--stunning-second-round-golf)
-- [Survivors of Epstein’s abuse accuse Melania Trump of ‘shifting burden’ on to victims](https://www.theguardian.com/us-news/2026/apr/10/epstein-survivors-melania-trump-reaction)
-- [European football: Real Madrid held at home by Girona to extend winless run](https://www.theguardian.com/football/2026/apr/10/european-football-real-madrid-girona-marseille-monaco-paris-fc-roma)
+- [Middle East crisis live: US and Iran fail to reach a deal after marathon peace talks in Pakistan](https://www.theguardian.com/world/live/2026/apr/12/middle-east-crisis-live-us-iran-pakistan-peace-talks-jd-vance-delegation-leaves-without-a-deal)
+- [Gout Gout smashes 20-second barrier to set new 200m national record at Australian championships](https://www.theguardian.com/sport/2026/apr/12/australian-athletics-sydney-national-championships-gout-lachlan-kennedy-report)
+- [‘Everything is gone’: Israel destroys entire villages in Lebanon](https://www.theguardian.com/world/2026/apr/12/how-israeli-offensive-destroyed-entire-villages-in-lebanon)
+- [The Artemis II crew made it through 10 days in space – but could they have survived my first office job? | Polly Hudson](https://www.theguardian.com/commentisfree/2026/apr/12/artemis-crew-made-it-through-10-days-in-space-but-could-they-survive-my-first-office-job)
+- [The Last Ship review – Sting’s sincere but cloying musical stars the man himself – and Shaggy](https://www.theguardian.com/stage/2026/apr/12/the-last-ship-review-sting-musical-shaggy-brisbane-qpac-glasshouse-theatre-australia-whats-on)
+- [Ukraine war briefing: Easter truce falters as Russia and Ukraine exchange prisoners](https://www.theguardian.com/world/2026/apr/12/ukraine-war-briefing-easter-truce-falters-russia-ukraine-exchange-prisoners)
+- [Manhattan DA’s office to investigate Eric Swalwell over sexual assault allegations](https://www.theguardian.com/us-news/2026/apr/11/eric-swalwell-manhattan-da-investigation)
+- [Cameron Young reels in Rory McIlroy with pack on their tails for Masters finale](https://www.theguardian.com/sport/2026/apr/12/cameron-young-reels-in-rory-mcilroy-with-pack-on-their-tails-for-masters-finale)
+- [Golden eagles could be reintroduced to England after more than 150 years](https://www.theguardian.com/environment/2026/apr/12/golden-eagles-reintroduced-england-150-years)
+- [Man arrested for allegedly damaging US military aircraft in Shannon airport](https://www.theguardian.com/uk-news/2026/apr/11/man-arrested-for-allegedly-damaging-us-military-aircraft-in-shannon-airport)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

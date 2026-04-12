@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Quien – A better WHOIS lookup tool](https://github.com/retlehs/quien/)
-- [Artemis II safely splashes down](https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/)
-- [Italo Calvino: A traveller in a world of uncertainty](https://www.historytoday.com/archive/portrait-author-historian/italo-calvino-traveller-world-uncertainty)
-- [Sam Altman&#39;s response to Molotov cocktail incident](https://blog.samaltman.com/2279512)
-- [Filing the corners off my MacBooks](https://kentwalters.com/posts/corners/)
-- [Installing every* Firefox extension](https://jack.cab/blog/every-firefox-extension)
-- [Nowhere is safe](https://steveblank.com/2026/04/09/nowhere-is-safe/)
-- [Chimpanzees in Uganda locked in eight-year &#39;civil war&#39;, say researchers](https://www.bbc.com/news/articles/cr71lkzv49po)
-- [Watgo – A WebAssembly Toolkit for Go](https://eli.thegreenplace.net/2026/watgo-a-webassembly-toolkit-for-go/)
-- [Show HN: FluidCAD – Parametric CAD with JavaScript](https://fluidcad.io/)
+- [Excellence Is a Habit](https://www.flyingbarron.com/2026/04/excellence-is-habit.html)
+- [Building a Z-Machine in the worst possible language – Whitebeard&#39;s Realm](https://whitebeard.blog/posts/building-a-z-machine-in-elm/)
+- [How a dancer with ALS used brainwaves to perform live](https://www.electronicspecifier.com/products/sensors/how-a-dancer-with-als-used-brainwaves-to-perform-live/)
+- [The End of Eleventy](https://brennan.day/the-end-of-eleventy/)
+- [Used Graphify to turn incidents into a queryable knowledge graph](https://github.com/Rootly-AI-Labs/rootly-graphify-importer)
+- [Software Preservation Group: C++ History Collection](https://softwarepreservation.computerhistory.org/c_plus_plus/)
+- [Midnight Captain – A midnight commander inspired file manager](https://github.com/duguyue100/midnight-captain)
+- [Apple Silicon and Virtual Machines: Beating the 2 VM Limit &lpar;2023&rpar;](https://khronokernel.com/macos/2023/08/08/AS-VM.html)
+- [447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane](https://zenodo.org/records/19513269)
+- [Dark Castle](https://darkcastle.co.uk/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

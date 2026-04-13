@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Emergency Prices: How Private Equity Captured the Ambulance Market](https://www.thebignewsletter.com/p/code-red-why-your-city-cant-affordor)
-- [The Center Has a Bias](https://lucumr.pocoo.org/2026/4/11/the-center-has-a-bias/)
-- [Code on Incus: Security-Hardened Container Runtime for AI Coding Agents](https://github.com/mensfeld/code-on-incus)
-- [Find spaces to work and remote workers to connect with](https://opentotalk.it)
-- [What comes after Open Source?](https://news.ycombinator.com/item?id=47736201)
-- [Jonathan Blow on Italo Calvino and Video Games [video]](https://www.youtube.com/watch?v=vI16Txc7x1s)
-- [Aids Info Disk: a playthrough of the first-ever ransomware](https://marnetto.net/2026/03/14/aids-info-disk)
-- [Scrum Master Interview Questions for the AI Era](https://age-of-product.com/10-scrum-master-interview-questions-ai-era/)
-- [Show HN: Two Claudes collaborating through shared memory on a $100 mini-PC](https://news.ycombinator.com/item?id=47736181)
-- [The Brainrot Industrial Complex](https://jshamsul.com/essays/2026-04-12-brainrot-industrial-complex)
+- [Reconciling Two UC Berkeleys – The Soapbox](https://www.dailycal.org/opinion/the_soapbox/reconciling-two-uc-berkeleys/article_0fe38fc6-1399-4e4c-9aac-5c0deabf2800.html)
+- [My Dialogue with Jonathan Zittrain](https://marginalrevolution.com/marginalrevolution/2026/04/my-dialogue-with-jonathan-zittrain.html)
+- [Your Single Use iPhone [video]](https://www.youtube.com/watch?v=NG-lLt5X3Rs)
+- [A unified Go SDK for working with large language models](https://github.com/aarock1234/ai)
+- [Lightweight internet radio management tool](https://github.com/tchovi/AirBoneRadio)
+- [Code Review Is the New Bottleneck for Engineering Teams](https://newsletter.eng-leadership.com/p/code-review-is-the-new-bottleneck)
+- [End of the Orban Era](https://www.bloomberg.com/news/articles/2026-04-12/end-of-the-orban-era-the-party-is-just-starting-for-hungarians)
+- [Self-Improving AI Agent](https://github.com/NousResearch/hermes-agent)
+- [Jyf](https://news.ycombinator.com/item?id=47747603)
+- [Show HN: Cryptr a shell utility for encrypting and decrypting files with OpenSSL](https://github.com/nodesocket/cryptr)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

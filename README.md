@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Excellence Is a Habit](https://www.flyingbarron.com/2026/04/excellence-is-habit.html)
-- [Building a Z-Machine in the worst possible language – Whitebeard&#39;s Realm](https://whitebeard.blog/posts/building-a-z-machine-in-elm/)
-- [How a dancer with ALS used brainwaves to perform live](https://www.electronicspecifier.com/products/sensors/how-a-dancer-with-als-used-brainwaves-to-perform-live/)
-- [The End of Eleventy](https://brennan.day/the-end-of-eleventy/)
-- [Used Graphify to turn incidents into a queryable knowledge graph](https://github.com/Rootly-AI-Labs/rootly-graphify-importer)
-- [Software Preservation Group: C++ History Collection](https://softwarepreservation.computerhistory.org/c_plus_plus/)
-- [Midnight Captain – A midnight commander inspired file manager](https://github.com/duguyue100/midnight-captain)
-- [Apple Silicon and Virtual Machines: Beating the 2 VM Limit &lpar;2023&rpar;](https://khronokernel.com/macos/2023/08/08/AS-VM.html)
-- [447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane](https://zenodo.org/records/19513269)
-- [Dark Castle](https://darkcastle.co.uk/)
+- [Haunt, the 70s text adventure game, is now playable on a website](https://haunt.madebywindmill.com)
+- [All elementary functions from a single binary operator](https://arxiv.org/abs/2603.21852)
+- [State of Homelab 2026](https://mrlokans.work/posts/state-of-homelab-2026/)
+- [Taking on CUDA with ROCm: &#39;One Step After Another&#39;](https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/)
+- [A Perfectable Programming Language](https://alok.github.io/lean-pages/perfectable-lean/)
+- [Uncharted island soon to appear on nautical charts](https://www.awi.de/en/about-us/service/press/single-view/unkartierte-insel-demnaechst-auf-seekarten-verzeichnet.html)
+- [Google removes &quot;Doki Doki Literature Club&quot; from Google Play](https://bsky.app/profile/serenityforge.com/post/3mj3r4nbiws2t)
+- [The peril of laziness lost](https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/)
+- [Show HN: boringBar – a taskbar-style dock replacement for macOS](https://boringbar.app/)
+- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

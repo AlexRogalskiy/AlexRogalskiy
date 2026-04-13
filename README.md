@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Middle East crisis live: US and Iran fail to reach a deal after marathon peace talks in Pakistan](https://www.theguardian.com/world/live/2026/apr/12/middle-east-crisis-live-us-iran-pakistan-peace-talks-jd-vance-delegation-leaves-without-a-deal)
-- [Gout Gout smashes 20-second barrier to set new 200m national record at Australian championships](https://www.theguardian.com/sport/2026/apr/12/australian-athletics-sydney-national-championships-gout-lachlan-kennedy-report)
-- [‘Everything is gone’: Israel destroys entire villages in Lebanon](https://www.theguardian.com/world/2026/apr/12/how-israeli-offensive-destroyed-entire-villages-in-lebanon)
-- [The Artemis II crew made it through 10 days in space – but could they have survived my first office job? | Polly Hudson](https://www.theguardian.com/commentisfree/2026/apr/12/artemis-crew-made-it-through-10-days-in-space-but-could-they-survive-my-first-office-job)
-- [The Last Ship review – Sting’s sincere but cloying musical stars the man himself – and Shaggy](https://www.theguardian.com/stage/2026/apr/12/the-last-ship-review-sting-musical-shaggy-brisbane-qpac-glasshouse-theatre-australia-whats-on)
-- [Ukraine war briefing: Easter truce falters as Russia and Ukraine exchange prisoners](https://www.theguardian.com/world/2026/apr/12/ukraine-war-briefing-easter-truce-falters-russia-ukraine-exchange-prisoners)
-- [Manhattan DA’s office to investigate Eric Swalwell over sexual assault allegations](https://www.theguardian.com/us-news/2026/apr/11/eric-swalwell-manhattan-da-investigation)
-- [Cameron Young reels in Rory McIlroy with pack on their tails for Masters finale](https://www.theguardian.com/sport/2026/apr/12/cameron-young-reels-in-rory-mcilroy-with-pack-on-their-tails-for-masters-finale)
-- [Golden eagles could be reintroduced to England after more than 150 years](https://www.theguardian.com/environment/2026/apr/12/golden-eagles-reintroduced-england-150-years)
-- [Man arrested for allegedly damaging US military aircraft in Shannon airport](https://www.theguardian.com/uk-news/2026/apr/11/man-arrested-for-allegedly-damaging-us-military-aircraft-in-shannon-airport)
+- [Middle East crisis live: Iran warns US blockade of strait of Hormuz would violate ceasefire](https://www.theguardian.com/world/live/2026/apr/13/iran-war-live-news-ceasefire-peace-talks-us-trump-strait-hormuz-blockade-middle-east-crisis-latest-updates)
+- [‘I just want to feel like me again’: the women still waiting for breast reconstruction years after lockdown](https://www.theguardian.com/society/2026/apr/13/i-just-want-to-feel-like-me-again-the-women-still-waiting-for-breast-reconstruction-years-after-lockdown)
+- [The incredible life of the ‘bird man’ refugee who brought tweets, chirps and trills to British radio](https://www.theguardian.com/film/2026/apr/13/ludwig-koch-bird-man-refugee-film-alarm-notes)
+- [Mysterious Lake District barn joins national treasures on heritage list](https://www.theguardian.com/culture/2026/apr/13/mysterious-lake-district-barn-national-treasures-heritage)
+- [€1m Picasso painting to be won for €100 in charity raffle](https://www.theguardian.com/artanddesign/2026/apr/13/picasso-tete-de-femme-charity-raffle)
+- [‘A cauldron of people with their tops off!’ Goldie, Estelle, Courtney Pine, Flo and more pick great moments in Black British music](https://www.theguardian.com/culture/2026/apr/13/goldie-estelle-courtney-flo-black-british-music-v-a-london)
+- [Donald Trump launches extraordinary attack on Pope Leo calling him ‘weak’ and ‘terrible’](https://www.theguardian.com/world/2026/apr/13/donald-trump-pope-leo)
+- [Hungarian opposition ousts Viktor Orbán after 16 years in power](https://www.theguardian.com/world/2026/apr/12/viktor-orban-concedes-defeat-as-opposition-wins-hungarian-election)
+- [Euphoria season three review – grubby, desperate and absolutely not worth the wait](https://www.theguardian.com/tv-and-radio/2026/apr/13/euphoria-season-three-review-sydney-sweeney-zendaya-hbo)
+- [Massive Attack frontman Robert Del Naja among 500 arrested at Palestine Action protest](https://www.theguardian.com/music/2026/apr/13/robert-del-naja-massive-attack-arrested-palestine-action-protest-trafalgar-square-london)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

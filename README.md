@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Haunt, the 70s text adventure game, is now playable on a website](https://haunt.madebywindmill.com)
-- [All elementary functions from a single binary operator](https://arxiv.org/abs/2603.21852)
-- [State of Homelab 2026](https://mrlokans.work/posts/state-of-homelab-2026/)
-- [Taking on CUDA with ROCm: &#39;One Step After Another&#39;](https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/)
-- [A Perfectable Programming Language](https://alok.github.io/lean-pages/perfectable-lean/)
-- [Uncharted island soon to appear on nautical charts](https://www.awi.de/en/about-us/service/press/single-view/unkartierte-insel-demnaechst-auf-seekarten-verzeichnet.html)
-- [Google removes &quot;Doki Doki Literature Club&quot; from Google Play](https://bsky.app/profile/serenityforge.com/post/3mj3r4nbiws2t)
-- [The peril of laziness lost](https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/)
-- [Show HN: boringBar – a taskbar-style dock replacement for macOS](https://boringbar.app/)
-- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
+- [Hacker compromises A16Z-backed phone farm, calling them the &#39;antichrist&#39;](https://www.404media.co/hacker-compromises-a16z-backed-phone-farm-tries-to-post-memes-calling-a16z-the-antichrist/)
+- [A new spam policy for &quot;back button hijacking&quot;](https://developers.google.com/search/blog/2026/04/back-button-hijacking)
+- [DaVinci Resolve releases Photo Editor](https://www.blackmagicdesign.com/products/davinciresolve/photo)
+- [Lean proved this program correct; then I found a bug](https://kirancodes.me/posts/log-who-watches-the-watchers.html)
+- [Why it’s impossible to measure England’s coastline](https://www.bbc.com/travel/article/20260410-why-its-impossible-to-measure-englands-coastline)
+- [WiiFin – Jellyfin Client for Nintendo Wii](https://github.com/fabienmillet/WiiFin)
+- [The AI revolution in math has arrived](https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/)
+- [N-Day-Bench – Can LLMs find real vulnerabilities in real codebases?](https://ndaybench.winfunc.com)
+- [GitHub Stacked PRs](https://github.github.com/gh-stack/)
+- [GAIA – Open-source framework for building AI agents that run on local hardware](https://amd-gaia.ai/docs)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Reconciling Two UC Berkeleys – The Soapbox](https://www.dailycal.org/opinion/the_soapbox/reconciling-two-uc-berkeleys/article_0fe38fc6-1399-4e4c-9aac-5c0deabf2800.html)
-- [My Dialogue with Jonathan Zittrain](https://marginalrevolution.com/marginalrevolution/2026/04/my-dialogue-with-jonathan-zittrain.html)
-- [Your Single Use iPhone [video]](https://www.youtube.com/watch?v=NG-lLt5X3Rs)
-- [A unified Go SDK for working with large language models](https://github.com/aarock1234/ai)
-- [Lightweight internet radio management tool](https://github.com/tchovi/AirBoneRadio)
-- [Code Review Is the New Bottleneck for Engineering Teams](https://newsletter.eng-leadership.com/p/code-review-is-the-new-bottleneck)
-- [End of the Orban Era](https://www.bloomberg.com/news/articles/2026-04-12/end-of-the-orban-era-the-party-is-just-starting-for-hungarians)
-- [Self-Improving AI Agent](https://github.com/NousResearch/hermes-agent)
-- [Jyf](https://news.ycombinator.com/item?id=47747603)
-- [Show HN: Cryptr a shell utility for encrypting and decrypting files with OpenSSL](https://github.com/nodesocket/cryptr)
+- [Spektrafilm – Open-source Film Simulation](https://github.com/andreavolpato/spektrafilm)
+- [Chinese Room](https://en.wikipedia.org/wiki/Chinese_room)
+- [How to talk about open source without making a mess](https://dirkriehle.com/2026/04/13/for-the-press-how-to-talk-about-open-source-without-making-a-mess/)
+- [Analysis of 320k careers suggests that productive researchers stay that way](https://www.nature.com/articles/d41586-026-00744-0)
+- [The Cadaver Synod: Putting a Dead Pope on Trial &lpar;2019&rpar;](https://daily.jstor.org/the-cadaver-synod-putting-a-dead-pope-on-trial/)
+- [Como hackear O face pelo email só quero ter acesso a conta](https://news.ycombinator.com/item?id=47761253)
+- [Stardrop Supply Chain Attack Targets Venture Capital Firms, Luxury Brands](https://opensourcemalware.com/blog/stardrop-attack)
+- [Adding multilingual support to my puzzle game](https://qcgeneral29.itch.io/lets-learn/devlog/1489057/lets-learn-japanese)
+- [Pepsi was warned $7 for Doritos was too much. Now they are paying the price](https://www.independent.co.uk/us/money/pepsico-doritos-high-prices-b2952994.html)
+- [Fake Linux leader using Slack to con devs into giving up their secrets](https://www.theregister.com/2026/04/13/linux_foundation_social_engineering/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

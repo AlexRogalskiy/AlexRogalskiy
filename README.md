@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Middle East crisis live: Iran warns US blockade of strait of Hormuz would violate ceasefire](https://www.theguardian.com/world/live/2026/apr/13/iran-war-live-news-ceasefire-peace-talks-us-trump-strait-hormuz-blockade-middle-east-crisis-latest-updates)
-- [‘I just want to feel like me again’: the women still waiting for breast reconstruction years after lockdown](https://www.theguardian.com/society/2026/apr/13/i-just-want-to-feel-like-me-again-the-women-still-waiting-for-breast-reconstruction-years-after-lockdown)
-- [The incredible life of the ‘bird man’ refugee who brought tweets, chirps and trills to British radio](https://www.theguardian.com/film/2026/apr/13/ludwig-koch-bird-man-refugee-film-alarm-notes)
-- [Mysterious Lake District barn joins national treasures on heritage list](https://www.theguardian.com/culture/2026/apr/13/mysterious-lake-district-barn-national-treasures-heritage)
-- [€1m Picasso painting to be won for €100 in charity raffle](https://www.theguardian.com/artanddesign/2026/apr/13/picasso-tete-de-femme-charity-raffle)
-- [‘A cauldron of people with their tops off!’ Goldie, Estelle, Courtney Pine, Flo and more pick great moments in Black British music](https://www.theguardian.com/culture/2026/apr/13/goldie-estelle-courtney-flo-black-british-music-v-a-london)
-- [Donald Trump launches extraordinary attack on Pope Leo calling him ‘weak’ and ‘terrible’](https://www.theguardian.com/world/2026/apr/13/donald-trump-pope-leo)
-- [Hungarian opposition ousts Viktor Orbán after 16 years in power](https://www.theguardian.com/world/2026/apr/12/viktor-orban-concedes-defeat-as-opposition-wins-hungarian-election)
-- [Euphoria season three review – grubby, desperate and absolutely not worth the wait](https://www.theguardian.com/tv-and-radio/2026/apr/13/euphoria-season-three-review-sydney-sweeney-zendaya-hbo)
-- [Massive Attack frontman Robert Del Naja among 500 arrested at Palestine Action protest](https://www.theguardian.com/music/2026/apr/13/robert-del-naja-massive-attack-arrested-palestine-action-protest-trafalgar-square-london)
+- [‘My life has become a rollercoaster’: Francesca Albanese on death threats, danger and dread after accusing Israel of genocide](https://www.theguardian.com/law/2026/apr/14/my-life-has-become-a-rollercoaster-francesca-albanese-death-threats-danger-dread-accusing-israel-genocide)
+- [Helium: the invisible gas that powers AI, and why it’s in short supply – podcast](https://www.theguardian.com/science/audio/2026/apr/14/helium-the-invisible-gas-that-powers-ai-and-why-its-in-short-supply-podcast)
+- [Art, sex, nature: why is everything sold to us as a means to an end, rather than an end in itself?](https://www.theguardian.com/news/2026/apr/14/art-sex-nature-why-is-everything-sold-to-us-as-a-means-to-an-end-rather-than-an-end-in-itself)
+- [Iran tries to cosy up to Europe to increase pressure on US](https://www.theguardian.com/world/2026/apr/14/iran-cosy-up-europe-increase-pressure-us)
+- [African scientists hail mushrooming global interest in conserving fungi](https://www.theguardian.com/environment/2026/apr/14/african-scientists-fungal-conservation-movement-aoe)
+- [On the streets of Dublin I met fuel protesters and the people who support them – yet our leaders still don’t get it | Caelainn Hogan](https://www.theguardian.com/commentisfree/2026/apr/14/dublin-ireland-leaders-fuel-bills-iran-war-fossil-fuels)
+- [Rock and Roll Hall of Fame: Phil Collins, Oasis, Sade and Wu-Tang Clan among 2026 inductees](https://www.theguardian.com/music/2026/apr/14/rock-and-roll-hall-of-fame-class-of-2026-inductees)
+- [Mark Carney secures majority government in Canada after special election win](https://www.theguardian.com/world/2026/apr/14/canada-special-election-results-pm-mark-carney-majority-government)
+- [Trump deletes post with AI image of himself as Jesus-like figure after outcry](https://www.theguardian.com/us-news/2026/apr/13/trump-ai-image-christ-like-figure-backlash)
+- [US starts naval blockade of Iranian ports after deadline passes](https://www.theguardian.com/world/2026/apr/13/deadline-passes-for-us-blockade-on-ships-using-iranian-ports-to-begin)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

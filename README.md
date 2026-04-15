@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [‘My life has become a rollercoaster’: Francesca Albanese on death threats, danger and dread after accusing Israel of genocide](https://www.theguardian.com/law/2026/apr/14/my-life-has-become-a-rollercoaster-francesca-albanese-death-threats-danger-dread-accusing-israel-genocide)
-- [Helium: the invisible gas that powers AI, and why it’s in short supply – podcast](https://www.theguardian.com/science/audio/2026/apr/14/helium-the-invisible-gas-that-powers-ai-and-why-its-in-short-supply-podcast)
-- [Art, sex, nature: why is everything sold to us as a means to an end, rather than an end in itself?](https://www.theguardian.com/news/2026/apr/14/art-sex-nature-why-is-everything-sold-to-us-as-a-means-to-an-end-rather-than-an-end-in-itself)
-- [Iran tries to cosy up to Europe to increase pressure on US](https://www.theguardian.com/world/2026/apr/14/iran-cosy-up-europe-increase-pressure-us)
-- [African scientists hail mushrooming global interest in conserving fungi](https://www.theguardian.com/environment/2026/apr/14/african-scientists-fungal-conservation-movement-aoe)
-- [On the streets of Dublin I met fuel protesters and the people who support them – yet our leaders still don’t get it | Caelainn Hogan](https://www.theguardian.com/commentisfree/2026/apr/14/dublin-ireland-leaders-fuel-bills-iran-war-fossil-fuels)
-- [Rock and Roll Hall of Fame: Phil Collins, Oasis, Sade and Wu-Tang Clan among 2026 inductees](https://www.theguardian.com/music/2026/apr/14/rock-and-roll-hall-of-fame-class-of-2026-inductees)
-- [Mark Carney secures majority government in Canada after special election win](https://www.theguardian.com/world/2026/apr/14/canada-special-election-results-pm-mark-carney-majority-government)
-- [Trump deletes post with AI image of himself as Jesus-like figure after outcry](https://www.theguardian.com/us-news/2026/apr/13/trump-ai-image-christ-like-figure-backlash)
-- [US starts naval blockade of Iranian ports after deadline passes](https://www.theguardian.com/world/2026/apr/13/deadline-passes-for-us-blockade-on-ships-using-iranian-ports-to-begin)
+- [Nicole Kidman reveals she is training to become a death doula to ‘provide solace and care’ to dying](https://www.theguardian.com/film/2026/apr/15/nicole-kidman-death-doula)
+- [Viral victory: Iran is beating the land of tech bros in the social media wars](https://www.theguardian.com/world/2026/apr/15/iran-beating-us-social-media-wars)
+- [My month in the tradwife world: ‘I can’t pretend I’m not enjoying myself at all ...’](https://www.theguardian.com/lifeandstyle/2026/apr/15/my-month-tradwife-world-cant-pretend-im-not-enjoying-myself)
+- [‘This craving to go viral is tiresome’: the artists who’re sick of the pressure to promote on social media](https://www.theguardian.com/culture/2026/apr/15/viral-artists-social-media-videos-stewart-lee-werner-herzog)
+- [Hungary beware: authoritarianism can be checked, but it is rarely dismissed with a single blow | Blanche Leridon](https://www.theguardian.com/commentisfree/2026/apr/15/hungary-authoritarianism-poland-rule-of-law)
+- [Margo’s Got Money Troubles review – Michelle Pfeiffer’s career renaissance starts here](https://www.theguardian.com/tv-and-radio/2026/apr/15/margos-got-money-troubles-review-elle-fanning-apple-tv)
+- [Air New Zealand&#39;s economy Skynest bunk beds set for launch](https://www.theguardian.com/business/2026/apr/15/air-new-zealand-skynest-bunk-beds-sleep-pods-economy)
+- [Ukraine war briefing: Orbán’s defeat in Hungary could unlock €90bn loan for Ukraine, says EU official](https://www.theguardian.com/world/2026/apr/15/ukraine-war-briefing-orbans-defeat-in-hungary-could-unlock-90bn-loan-for-ukraine-says-eu-official)
+- [Is the EU back in vogue? – podcast](https://www.theguardian.com/news/audio/2026/apr/15/is-the-eu-back-in-vogue-podcast)
+- [Sheinbaum vows to ‘defend Mexicans at every level’ amid anger at Trump over migrant deaths](https://www.theguardian.com/world/2026/apr/15/mexico-president-claudia-sheinbaum-donald-trump-ice-deaths)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

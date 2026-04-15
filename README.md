@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Hacker compromises A16Z-backed phone farm, calling them the &#39;antichrist&#39;](https://www.404media.co/hacker-compromises-a16z-backed-phone-farm-tries-to-post-memes-calling-a16z-the-antichrist/)
-- [A new spam policy for &quot;back button hijacking&quot;](https://developers.google.com/search/blog/2026/04/back-button-hijacking)
-- [DaVinci Resolve releases Photo Editor](https://www.blackmagicdesign.com/products/davinciresolve/photo)
-- [Lean proved this program correct; then I found a bug](https://kirancodes.me/posts/log-who-watches-the-watchers.html)
-- [Why it’s impossible to measure England’s coastline](https://www.bbc.com/travel/article/20260410-why-its-impossible-to-measure-englands-coastline)
-- [WiiFin – Jellyfin Client for Nintendo Wii](https://github.com/fabienmillet/WiiFin)
-- [The AI revolution in math has arrived](https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/)
-- [N-Day-Bench – Can LLMs find real vulnerabilities in real codebases?](https://ndaybench.winfunc.com)
-- [GitHub Stacked PRs](https://github.github.com/gh-stack/)
-- [GAIA – Open-source framework for building AI agents that run on local hardware](https://amd-gaia.ai/docs)
+- [Dependency cooldowns turn you into a free-rider](https://calpaterson.com/deps.html)
+- [Not all elementary functions can be expressed with exp-minus-log](https://www.stylewarning.com/posts/not-all-elementary/)
+- [OpenAI&#39;s $852B valuation faces investor scrutiny amid strategy shift, FT reports](https://www.reuters.com/legal/transactional/openai-investors-question-852-billion-valuation-strategy-shifts-ft-reports-2026-04-14/)
+- [Don&#39;t feel like exercising? Maybe it&#39;s the wrong time of day for you](https://www.bbc.com/news/articles/cd6lzpxwx50o)
+- [Apple App Store threatened to remove Grok over deepfakes: Letter](https://www.nbcnews.com/tech/tech-news/apple-threat-remove-grok-app-store-deepfake-letter-musk-x-ai-rcna331677)
+- [Stop Flock](https://stopflock.com)
+- [Free, fast diagnostic tools for DNS, email authentication, and network security](https://mrdns.com/)
+- [Trusted access for the next era of cyber defense](https://openai.com/index/scaling-trusted-access-for-cyber-defense/)
+- [Tell HN: Fiverr left customer files public and searchable](https://news.ycombinator.com/item?id=47769796)
+- [I wrote to Flock&#39;s privacy contact to opt out of their domestic spying program](https://honeypot.net/2026/04/14/i-wrote-to-flocks-privacy.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

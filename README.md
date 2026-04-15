@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Spektrafilm – Open-source Film Simulation](https://github.com/andreavolpato/spektrafilm)
-- [Chinese Room](https://en.wikipedia.org/wiki/Chinese_room)
-- [How to talk about open source without making a mess](https://dirkriehle.com/2026/04/13/for-the-press-how-to-talk-about-open-source-without-making-a-mess/)
-- [Analysis of 320k careers suggests that productive researchers stay that way](https://www.nature.com/articles/d41586-026-00744-0)
-- [The Cadaver Synod: Putting a Dead Pope on Trial &lpar;2019&rpar;](https://daily.jstor.org/the-cadaver-synod-putting-a-dead-pope-on-trial/)
-- [Como hackear O face pelo email só quero ter acesso a conta](https://news.ycombinator.com/item?id=47761253)
-- [Stardrop Supply Chain Attack Targets Venture Capital Firms, Luxury Brands](https://opensourcemalware.com/blog/stardrop-attack)
-- [Adding multilingual support to my puzzle game](https://qcgeneral29.itch.io/lets-learn/devlog/1489057/lets-learn-japanese)
-- [Pepsi was warned $7 for Doritos was too much. Now they are paying the price](https://www.independent.co.uk/us/money/pepsico-doritos-high-prices-b2952994.html)
-- [Fake Linux leader using Slack to con devs into giving up their secrets](https://www.theregister.com/2026/04/13/linux_foundation_social_engineering/)
+- [The Economic Value of Eliminating Cancer](https://www.nber.org/papers/w35052)
+- [The Economist Is Putting Names &lpar;and Faces&rpar; to Its Magazine](https://www.nytimes.com/2026/04/13/business/media/economist-magazine-videos.html)
+- [The tech jobs bust is real. Don&#39;t blame AI &lpar;yet&rpar;](https://www.economist.com/finance-and-economics/2026/04/13/the-tech-jobs-bust-is-real-dont-blame-ai-yet)
+- [Avatar: Aang: The Last Airbender Surfaces Online Months Before Paramount+ Debut](https://www.cartoonbrew.com/feature-film/avatar-aang-last-airbender-leaks-online-259953.html)
+- [Show HN: Firefox Sidebar Local LLM](https://github.com/skorotkiewicz/firefox-ai)
+- [Show HN: Fz.ax – Four thousand weeks of your life, as hexagons](https://fz.ax)
+- [Feature Request: Support Agents.md. #6235](https://github.com/anthropics/claude-code/issues/6235)
+- [A tax revolt is under way in America](https://economist.com/united-states/2026/04/14/a-tax-revolt-is-under-way-in-america)
+- [Show HN: Why Rotating Vectors Makes Compression Beautiful](https://demos.connectai.blog/quantization_blog.html)
+- [Photocatalytic Water Splitting](https://en.wikipedia.org/wiki/Photocatalytic_water_splitting)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

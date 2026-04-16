@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Dependency cooldowns turn you into a free-rider](https://calpaterson.com/deps.html)
-- [Not all elementary functions can be expressed with exp-minus-log](https://www.stylewarning.com/posts/not-all-elementary/)
-- [OpenAI&#39;s $852B valuation faces investor scrutiny amid strategy shift, FT reports](https://www.reuters.com/legal/transactional/openai-investors-question-852-billion-valuation-strategy-shifts-ft-reports-2026-04-14/)
-- [Don&#39;t feel like exercising? Maybe it&#39;s the wrong time of day for you](https://www.bbc.com/news/articles/cd6lzpxwx50o)
-- [Apple App Store threatened to remove Grok over deepfakes: Letter](https://www.nbcnews.com/tech/tech-news/apple-threat-remove-grok-app-store-deepfake-letter-musk-x-ai-rcna331677)
-- [Stop Flock](https://stopflock.com)
-- [Free, fast diagnostic tools for DNS, email authentication, and network security](https://mrdns.com/)
-- [Trusted access for the next era of cyber defense](https://openai.com/index/scaling-trusted-access-for-cyber-defense/)
-- [Tell HN: Fiverr left customer files public and searchable](https://news.ycombinator.com/item?id=47769796)
-- [I wrote to Flock&#39;s privacy contact to opt out of their domestic spying program](https://honeypot.net/2026/04/14/i-wrote-to-flocks-privacy.html)
+- [Darkbloom – Private inference on idle Macs](https://darkbloom.dev)
+- [RedSun: System user access on Win 11/10 and Server with the April 2026 Update](https://github.com/Nightmare-Eclipse/RedSun)
+- [Show HN: Hiraeth – AWS Emulator](https://github.com/SethPyle376/hiraeth)
+- [Stealth signals are bypassing Iran’s internet blackout](https://spectrum.ieee.org/iran-internet-blackout-satellite-tv)
+- [A Better Ludum Dare; Or, How to Ruin a Legacy](https://ldjam.com/events/ludum-dare/59/$425291/$425292)
+- [Agent - Native Mac OS X coding ide/harness](https://github.com/macOS26/Agent)
+- [YouTube users get option to set their Shorts time limit to zero minutes](https://www.theverge.com/streaming/912898/youtube-shorts-feed-limit-zero-minutes)
+- [I made a terminal pager](https://theleo.zone/posts/pager/)
+- [The buns in McDonald&#39;s Japan&#39;s burger photos are all slightly askew](https://www.mcdonalds.co.jp/en/menu/burger/)
+- [Hacker News CLI &lpar;2014&rpar;](https://pythonhosted.org/hackernews-cli/commands.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

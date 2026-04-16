@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Economic Value of Eliminating Cancer](https://www.nber.org/papers/w35052)
-- [The Economist Is Putting Names &lpar;and Faces&rpar; to Its Magazine](https://www.nytimes.com/2026/04/13/business/media/economist-magazine-videos.html)
-- [The tech jobs bust is real. Don&#39;t blame AI &lpar;yet&rpar;](https://www.economist.com/finance-and-economics/2026/04/13/the-tech-jobs-bust-is-real-dont-blame-ai-yet)
-- [Avatar: Aang: The Last Airbender Surfaces Online Months Before Paramount+ Debut](https://www.cartoonbrew.com/feature-film/avatar-aang-last-airbender-leaks-online-259953.html)
-- [Show HN: Firefox Sidebar Local LLM](https://github.com/skorotkiewicz/firefox-ai)
-- [Show HN: Fz.ax – Four thousand weeks of your life, as hexagons](https://fz.ax)
-- [Feature Request: Support Agents.md. #6235](https://github.com/anthropics/claude-code/issues/6235)
-- [A tax revolt is under way in America](https://economist.com/united-states/2026/04/14/a-tax-revolt-is-under-way-in-america)
-- [Show HN: Why Rotating Vectors Makes Compression Beautiful](https://demos.connectai.blog/quantization_blog.html)
-- [Photocatalytic Water Splitting](https://en.wikipedia.org/wiki/Photocatalytic_water_splitting)
+- [Git blame your Claude Code setup](https://breaking-changes.blog/treat-your-claude-code-setup-like-a-dev-project/)
+- [A short note on interpretability and minds](https://ericjmichaud.com/interp-and-minds/)
+- [Gemini for Mac](https://gemini.google/mac/)
+- [Show HN : ec – terminal nativie Git conflict resolver](https://github.com/chojs23/ec)
+- [Why Israel is Trying to Conquer 10% of Lebanon [video]](https://www.youtube.com/watch?v=LwdSfdEkXPA)
+- [Open source telemetry solved – Trackables](https://trackables.org)
+- [They Lie So](https://unintendedconsequenc.es/they-lie-so-truly/)
+- [AI as an attorney? Student uses ChatGPT, Gemini to sue UW](https://www.kuow.org/stories/ai-as-attorney-this-student-is-using-it-to-sue-uw-over-alleged-racial-discrimination)
+- [A Look into NaviDial, Japan&#39;s Legacy Phone Service](https://www.tokyodev.com/articles/a-look-into-navidial-japan-s-legacy-phone-service)
+- [Private decentralized inference on consumer hardware [pdf]](https://github.com/Layr-Labs/d-inference/blob/master/papers/dginf-private-inference.pdf)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

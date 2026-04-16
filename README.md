@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Nicole Kidman reveals she is training to become a death doula to ‘provide solace and care’ to dying](https://www.theguardian.com/film/2026/apr/15/nicole-kidman-death-doula)
-- [Viral victory: Iran is beating the land of tech bros in the social media wars](https://www.theguardian.com/world/2026/apr/15/iran-beating-us-social-media-wars)
-- [My month in the tradwife world: ‘I can’t pretend I’m not enjoying myself at all ...’](https://www.theguardian.com/lifeandstyle/2026/apr/15/my-month-tradwife-world-cant-pretend-im-not-enjoying-myself)
-- [‘This craving to go viral is tiresome’: the artists who’re sick of the pressure to promote on social media](https://www.theguardian.com/culture/2026/apr/15/viral-artists-social-media-videos-stewart-lee-werner-herzog)
-- [Hungary beware: authoritarianism can be checked, but it is rarely dismissed with a single blow | Blanche Leridon](https://www.theguardian.com/commentisfree/2026/apr/15/hungary-authoritarianism-poland-rule-of-law)
-- [Margo’s Got Money Troubles review – Michelle Pfeiffer’s career renaissance starts here](https://www.theguardian.com/tv-and-radio/2026/apr/15/margos-got-money-troubles-review-elle-fanning-apple-tv)
-- [Air New Zealand&#39;s economy Skynest bunk beds set for launch](https://www.theguardian.com/business/2026/apr/15/air-new-zealand-skynest-bunk-beds-sleep-pods-economy)
-- [Ukraine war briefing: Orbán’s defeat in Hungary could unlock €90bn loan for Ukraine, says EU official](https://www.theguardian.com/world/2026/apr/15/ukraine-war-briefing-orbans-defeat-in-hungary-could-unlock-90bn-loan-for-ukraine-says-eu-official)
-- [Is the EU back in vogue? – podcast](https://www.theguardian.com/news/audio/2026/apr/15/is-the-eu-back-in-vogue-podcast)
-- [Sheinbaum vows to ‘defend Mexicans at every level’ amid anger at Trump over migrant deaths](https://www.theguardian.com/world/2026/apr/15/mexico-president-claudia-sheinbaum-donald-trump-ice-deaths)
+- [‘Fame quickly became a nightmare’: Preston on Big Brother, falling from a balcony – and reforming the Ordinary Boys](https://www.theguardian.com/music/2026/apr/16/preston-big-brother-fall-balcony-ordinary-boys-kylie-olly-murs)
+- [Can you stop malaria crossing borders? One nation’s bid to wipe out the disease](https://www.theguardian.com/global-development/2026/apr/16/eliminate-malaria-eswatini-swaziland-migration-disease-climate)
+- [Can anyone stop Jordan Bardella in France? A crowded field could gift the election to the far right](https://www.theguardian.com/commentisfree/2026/apr/16/jordan-bardella-france-crowded-field-gift-election-far-right)
+- [US launches fifth strike on alleged Pacific drug boat in a week, killing three](https://www.theguardian.com/us-news/2026/apr/16/us-launches-fifth-strike-on-alleged-pacific-drug-boat-in-a-week-killing-three)
+- [Geelong fire: blaze at one of Australia’s two oil refineries extinguished after 13 hours as fuel supply fears remain](https://www.theguardian.com/australia-news/2026/apr/16/viva-oil-refinery-fire-corio-geelong-victoria-fuel-prices)
+- [Russia pummels Ukraine with drone and missile strikes, killing at least 12](https://www.theguardian.com/world/2026/apr/16/russia-drone-missile-strikes-ukraine-kyiv-dnipro)
+- [How South Korea plans to use the Iran crisis to spur a renewables revolution](https://www.theguardian.com/world/2026/apr/16/south-korea-solar-power-renewables-revolution)
+- [When the ‘Dubai dream’ goes wrong - podcast](https://www.theguardian.com/news/audio/2026/apr/16/when-the-dubai-dream-goes-wrong-podcast)
+- [Trump news at a glance: president renews threats against federal reserve chair, pushes his replacement](https://www.theguardian.com/us-news/2026/apr/15/trump-news-at-a-glance-latest-updates-today)
+- [Bernie Sanders’ effort to block US weapons sales to Israel fails in Senate](https://www.theguardian.com/us-news/2026/apr/15/bernie-sanders-pushes-military-block-israel)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [‘Fame quickly became a nightmare’: Preston on Big Brother, falling from a balcony – and reforming the Ordinary Boys](https://www.theguardian.com/music/2026/apr/16/preston-big-brother-fall-balcony-ordinary-boys-kylie-olly-murs)
-- [Can you stop malaria crossing borders? One nation’s bid to wipe out the disease](https://www.theguardian.com/global-development/2026/apr/16/eliminate-malaria-eswatini-swaziland-migration-disease-climate)
-- [Can anyone stop Jordan Bardella in France? A crowded field could gift the election to the far right](https://www.theguardian.com/commentisfree/2026/apr/16/jordan-bardella-france-crowded-field-gift-election-far-right)
-- [US launches fifth strike on alleged Pacific drug boat in a week, killing three](https://www.theguardian.com/us-news/2026/apr/16/us-launches-fifth-strike-on-alleged-pacific-drug-boat-in-a-week-killing-three)
-- [Geelong fire: blaze at one of Australia’s two oil refineries extinguished after 13 hours as fuel supply fears remain](https://www.theguardian.com/australia-news/2026/apr/16/viva-oil-refinery-fire-corio-geelong-victoria-fuel-prices)
-- [Russia pummels Ukraine with drone and missile strikes, killing at least 12](https://www.theguardian.com/world/2026/apr/16/russia-drone-missile-strikes-ukraine-kyiv-dnipro)
-- [How South Korea plans to use the Iran crisis to spur a renewables revolution](https://www.theguardian.com/world/2026/apr/16/south-korea-solar-power-renewables-revolution)
-- [When the ‘Dubai dream’ goes wrong - podcast](https://www.theguardian.com/news/audio/2026/apr/16/when-the-dubai-dream-goes-wrong-podcast)
-- [Trump news at a glance: president renews threats against federal reserve chair, pushes his replacement](https://www.theguardian.com/us-news/2026/apr/15/trump-news-at-a-glance-latest-updates-today)
-- [Bernie Sanders’ effort to block US weapons sales to Israel fails in Senate](https://www.theguardian.com/us-news/2026/apr/15/bernie-sanders-pushes-military-block-israel)
+- [Middle East crisis live: UN chief calls for Israel-Lebanon ceasefire to be ‘fully’ respected as it comes into effect](https://www.theguardian.com/world/live/2026/apr/17/middle-east-crisis-live-news-israel-lebanon-ceasefire-iran-war-us-latest-updates)
+- [‘How do I end a call?’: the elderly Japanese people determined to master smartphones](https://www.theguardian.com/technology/2026/apr/17/japanese-over-70s-mobile-master-smartphones)
+- [Experience: I won the world’s deepest underground marathon](https://www.theguardian.com/lifeandstyle/2026/apr/17/experience-i-won-the-worlds-deepest-underground-marathon)
+- [‘He’d gaze at the stars and go: I’m gonna be up there one day’: Prince by those who knew him best, 10 years after his death](https://www.theguardian.com/music/2026/apr/17/gaze-stars-gonna-be-up-there-one-day-prince-those-who-knew-him-best-10-years-after-death)
+- [I want to reform our country because a strong Germany is a precondition for a strong Europe](https://www.theguardian.com/commentisfree/2026/apr/17/i-want-to-reform-our-country-because-a-strong-germany-is-a-precondition-for-a-strong-europe)
+- [‘It feels like death is certain’: lives and limbs lost to crocodile attacks on the banks of Kenya’s rising Lake Turkana](https://www.theguardian.com/world/2026/apr/17/crocodile-attacks-kenya-lake-turkana-rising-water)
+- [Ben Roberts-Smith granted bail after being charged with five counts of war crime murder](https://www.theguardian.com/australia-news/2026/apr/17/ben-roberts-smith-brs-bail-decision-war-crimes-trial-ntwnfb)
+- [Border wars, rising costs or a marital reprieve: why are Thai men racing to enlist in the Army?](https://www.theguardian.com/weather/2026/apr/17/why-are-thai-men-enlisting-army-thailand)
+- [Prince Harry and Meghan meet with survivors of Bondi terror attack](https://www.theguardian.com/australia-news/2026/apr/17/prince-harry-meghan-meet-survivors-of-bondi-terror-attack-ntwnfb)
+- [UK Tory MP who defected to Reform advises One Nation in Australian byelection campaign](https://www.theguardian.com/australia-news/2026/apr/17/uk-tory-mp-who-defected-to-reform-advises-one-nation-in-australian-byelection-campaign)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

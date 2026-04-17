@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Git blame your Claude Code setup](https://breaking-changes.blog/treat-your-claude-code-setup-like-a-dev-project/)
-- [A short note on interpretability and minds](https://ericjmichaud.com/interp-and-minds/)
-- [Gemini for Mac](https://gemini.google/mac/)
-- [Show HN : ec – terminal nativie Git conflict resolver](https://github.com/chojs23/ec)
-- [Why Israel is Trying to Conquer 10% of Lebanon [video]](https://www.youtube.com/watch?v=LwdSfdEkXPA)
-- [Open source telemetry solved – Trackables](https://trackables.org)
-- [They Lie So](https://unintendedconsequenc.es/they-lie-so-truly/)
-- [AI as an attorney? Student uses ChatGPT, Gemini to sue UW](https://www.kuow.org/stories/ai-as-attorney-this-student-is-using-it-to-sue-uw-over-alleged-racial-discrimination)
-- [A Look into NaviDial, Japan&#39;s Legacy Phone Service](https://www.tokyodev.com/articles/a-look-into-navidial-japan-s-legacy-phone-service)
-- [Private decentralized inference on consumer hardware [pdf]](https://github.com/Layr-Labs/d-inference/blob/master/papers/dginf-private-inference.pdf)
+- [Engineer open-sources radar system that&#39;s 95% cheaper than $250k offerings](https://www.tomshardware.com/maker-stem/open-source-radar-system-is-95-percent-cheaper-than-usd250-000-commercial-offerings-has-20-kilometer-range-moroccan-engineer-designs-aeris-10-radar-shares-it-on-github)
+- [Running Your Own AS: Direct Hetzner Peering](https://blog.hofstede.it/running-your-own-as-direct-hetzner-peering-a-fourth-edge-and-bringing-the-home-lan-into-the-fabric/)
+- [Taste.md](https://pablostanley.substack.com/p/tastemd)
+- [FCC exempts Netgear from ban on foreign routers, doesn&#39;t explain why](https://arstechnica.com/tech-policy/2026/04/fcc-exempts-netgear-from-ban-on-foreign-routers-doesnt-explain-why/)
+- [The Iranian Teens Behind Lego Trump [video]](https://www.youtube.com/watch?v=SQfI9NTtDE4)
+- [Iran&#39;s Lego Slopaganda Creator [video]](https://www.youtube.com/watch?v=i5Q_v370OJg)
+- [Flowsta Sign It](https://flowsta.com/sign-it/)
+- [Long-term adaptation pathways for Venice and its lagoon under sea-level rise [pdf]](https://www.nature.com/articles/s41598-026-39108-z)
+- [Billionaire Andrew Forrest takes Meta to court over scam ads using his likeness](https://www.abc.net.au/news/2026-04-17/andrew-forrest-battles-meta-over-fake-ads/106574806)
+- [Bluesky has been dealing with a DDoS attack for nearly a full day](https://www.theverge.com/tech/913638/bluesky-has-been-dealing-with-a-ddos-attack-for-nearly-a-full-day)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

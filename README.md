@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Darkbloom – Private inference on idle Macs](https://darkbloom.dev)
-- [RedSun: System user access on Win 11/10 and Server with the April 2026 Update](https://github.com/Nightmare-Eclipse/RedSun)
-- [Show HN: Hiraeth – AWS Emulator](https://github.com/SethPyle376/hiraeth)
-- [Stealth signals are bypassing Iran’s internet blackout](https://spectrum.ieee.org/iran-internet-blackout-satellite-tv)
-- [A Better Ludum Dare; Or, How to Ruin a Legacy](https://ldjam.com/events/ludum-dare/59/$425291/$425292)
-- [Agent - Native Mac OS X coding ide/harness](https://github.com/macOS26/Agent)
-- [YouTube users get option to set their Shorts time limit to zero minutes](https://www.theverge.com/streaming/912898/youtube-shorts-feed-limit-zero-minutes)
-- [I made a terminal pager](https://theleo.zone/posts/pager/)
-- [The buns in McDonald&#39;s Japan&#39;s burger photos are all slightly askew](https://www.mcdonalds.co.jp/en/menu/burger/)
-- [Hacker News CLI &lpar;2014&rpar;](https://pythonhosted.org/hackernews-cli/commands.html)
+- [FCC exempts Netgear from ban on foreign routers, doesn&#39;t explain why](https://arstechnica.com/tech-policy/2026/04/fcc-exempts-netgear-from-ban-on-foreign-routers-doesnt-explain-why/)
+- [Discourse Is Not Going Closed Source](https://blog.discourse.org/2026/04/discourse-is-not-going-closed-source/)
+- [Substrate AI Is Hiring Harness Engineers](https://www.ycombinator.com/companies/substrate/jobs/QJU9023-harness-engineer)
+- [US Bill Mandates On-Device Age Verification](https://reclaimthenet.org/us-bill-mandates-on-device-age-verification)
+- [Show HN: Spice simulation → oscilloscope → verification with Claude Code](https://lucasgerads.com/blog/lecroy-mcp-spice-demo/)
+- [New unsealed records reveal Amazon&#39;s price-fixing tactics, California AG claims](https://www.theguardian.com/us-news/ng-interactive/2026/apr/16/amazon-price-fixing-california-lawsuit)
+- [Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine](https://github.com/gainsec/autoprober)
+- [A Better R Programming Experience Thanks to Tree-sitter](https://ropensci.org/blog/2026/04/02/tree-sitter-overview/)
+- [The &quot;Passive Income&quot; trap ate a generation of entrepreneurs](https://www.joanwestenberg.com/the-passive-income-trap-ate-a-generation-of-entrepreneurs/)
+- [Official Clojure Documentary page with Video, Shownotes, and Links](https://clojure.org/about/documentary)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

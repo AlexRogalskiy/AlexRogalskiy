@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Middle East crisis live: UN chief calls for Israel-Lebanon ceasefire to be ‘fully’ respected as it comes into effect](https://www.theguardian.com/world/live/2026/apr/17/middle-east-crisis-live-news-israel-lebanon-ceasefire-iran-war-us-latest-updates)
-- [‘How do I end a call?’: the elderly Japanese people determined to master smartphones](https://www.theguardian.com/technology/2026/apr/17/japanese-over-70s-mobile-master-smartphones)
-- [Experience: I won the world’s deepest underground marathon](https://www.theguardian.com/lifeandstyle/2026/apr/17/experience-i-won-the-worlds-deepest-underground-marathon)
-- [‘He’d gaze at the stars and go: I’m gonna be up there one day’: Prince by those who knew him best, 10 years after his death](https://www.theguardian.com/music/2026/apr/17/gaze-stars-gonna-be-up-there-one-day-prince-those-who-knew-him-best-10-years-after-death)
-- [I want to reform our country because a strong Germany is a precondition for a strong Europe](https://www.theguardian.com/commentisfree/2026/apr/17/i-want-to-reform-our-country-because-a-strong-germany-is-a-precondition-for-a-strong-europe)
-- [‘It feels like death is certain’: lives and limbs lost to crocodile attacks on the banks of Kenya’s rising Lake Turkana](https://www.theguardian.com/world/2026/apr/17/crocodile-attacks-kenya-lake-turkana-rising-water)
-- [Ben Roberts-Smith granted bail after being charged with five counts of war crime murder](https://www.theguardian.com/australia-news/2026/apr/17/ben-roberts-smith-brs-bail-decision-war-crimes-trial-ntwnfb)
-- [Border wars, rising costs or a marital reprieve: why are Thai men racing to enlist in the Army?](https://www.theguardian.com/weather/2026/apr/17/why-are-thai-men-enlisting-army-thailand)
-- [Prince Harry and Meghan meet with survivors of Bondi terror attack](https://www.theguardian.com/australia-news/2026/apr/17/prince-harry-meghan-meet-survivors-of-bondi-terror-attack-ntwnfb)
-- [UK Tory MP who defected to Reform advises One Nation in Australian byelection campaign](https://www.theguardian.com/australia-news/2026/apr/17/uk-tory-mp-who-defected-to-reform-advises-one-nation-in-australian-byelection-campaign)
+- [‘A defeat for Putin’: Ukrainians hope Magyar’s victory will mark new era with Hungary](https://www.theguardian.com/world/2026/apr/18/ukraine-hungary-election-magyar-orban-europe)
+- [The impossible promise: are we witnessing the return of fascism?](https://www.theguardian.com/news/2026/apr/18/the-impossible-promise-are-we-witnessing-the-return-of-fascism)
+- [Lost Federico García Lorca verse discovered 93 years after it was written](https://www.theguardian.com/culture/2026/apr/18/lost-federico-garcia-lorca-verse-discovered-93-years-after-it-was-written)
+- [Estranged husband of Australian mushroom murderer Erin Patterson to pen memoir about case](https://www.theguardian.com/australia-news/2026/apr/18/erin-patterson-estranged-husband-simon-patterson-australia-mushroom-murders-memoir-ntwnfb)
+- [Iran says strait of Hormuz ‘completely open’ but sounds warning on US blockade](https://www.theguardian.com/world/2026/apr/17/strait-of-hormuz-now-open-to-commercial-vessels)
+- [Iron will: Australia’s richest person counts the cost as court orders she share mining millions with rival family](https://www.theguardian.com/business/2026/apr/18/gina-rinehart-australian-mining-billionaire-court-ruling-rival-family-ntwnfb)
+- [Ukraine war briefing: Russia seeking to bring Belarus back into the war, says Zelenskyy](https://www.theguardian.com/world/2026/apr/18/ukraine-war-briefing-russia-seeking-to-bring-belarus-back-into-the-war-says-zelenskyy)
+- [Inside smoky shelters, a fast-paced, illegal card game has taken off in Solomon Islands](https://www.theguardian.com/world/2026/apr/18/inside-smoky-shelters-a-fast-paced-card-game-has-taken-off-in-solomon-islands)
+- [Arsenal will not play for a draw in Manchester City face-off, insists Arteta](https://www.theguardian.com/football/2026/apr/17/mikel-arteta-manchester-city-arsenal-tactics-bukayo-saka-injury)
+- [Rashford faces summer in post-loan limbo but Carrick says door at United is not closed](https://www.theguardian.com/football/2026/apr/17/marcus-rashford-faces-summer-post-loan-limbo-michael-carrick-door-manchester-united-not-closed)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

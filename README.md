@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Two Magicians Warn the Supreme Court About Junk Science](https://www.nytimes.com/2026/04/16/us/politics/the-docket-supreme-court-penn-teller.html)
-- [Development Gets Better with Age](https://www.allthingsdistributed.com/2025/10/better-with-age.html)
-- [The Digital Ouija Effect – Emergent Behavior in AI Models](https://kennethreitz.org/essays/2026-04-17-the_digital_ouija_effect)
-- [Why AI Needs a Sense of Smell](https://www.noemamag.com/why-ai-needs-a-sense-of-smell/)
-- [India drops proposal to mandate national ID app on smartphones after pushback](https://www.reuters.com/world/china/india-drops-proposal-mandate-national-id-app-aadhaar-smartphones-after-pushback-2026-04-17/)
-- [Google Told to Share Search Data with AI Rivals in EU Proposal](https://www.bloomberg.com/news/articles/2026-04-16/google-told-to-share-search-data-with-ai-rivals-in-eu-proposal)
-- [Brave Origin Released](https://support.brave.app/hc/en-us/articles/38561489788173-What-is-Brave-Origin)
-- [Anthropic Nerfed Opus 4.6 Before the 4.7 Launch](https://fagnerbrack.com/how-anthropic-nerfed-opus-4-6-before-the-4-7-launch-c932e383f4f6)
-- [Exposing the flaw in tap to pay [video]](https://www.youtube.com/watch?v=PPJ6NJkmDAo)
-- [In this U.S. hot spot for data centers, voters have turned against them](https://www.washingtonpost.com/business/2026/04/15/data-centers-poll-virginia/)
+- [Show HN: Customer Reviews can be represented through Voice capture/generation](https://customersvoices.com)
+- [Garbage Collection Without Unsafe Code](https://fitzgen.com/2024/02/06/safe-gc.html)
+- [First trailer released for western starring AI version of Val Kilmer](https://www.theguardian.com/film/2026/apr/16/first-trailer-released-for-ai-val-kilmer-western)
+- [Ask HN: Where do I submit a bug report for Windows Snipping Tool?](https://news.ycombinator.com/item?id=47821827)
+- [Thiel-backed startup develops AI to adjudicate the truth of journalism](https://techcrunch.com/2026/04/15/can-ai-judge-journalism-a-thiel-backed-startup-says-yes-even-if-it-risks-chilling-whistleblowers/)
+- [AI answers break down, and what each one looks like](https://substack.com/@hanaleegoldin/note/c-244676181)
+- [Windows Server 2025 Runs Better on ARM](https://jasoneckert.github.io/myblog/server-2025-arm64/)
+- [Fake partisan avatars emerge on social media](https://www.nytimes.com/2026/04/17/business/media/artificial-intelligence-trump-social-media.html)
+- [DocuHog – The DocuSign Local Simulator](https://github.com/dwelch2344/docuhog)
+- [Show HN: SnapReceipts Snap a receipt, split the bill instantly](https://snapreceipts.fyi/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

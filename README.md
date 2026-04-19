@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Casus Belli Engineering](https://marcosmagueta.com/blog/casus-belli-engineering/)
-- [Landmark ancient-genome study shows surprise acceleration of human evolution](https://www.nature.com/articles/d41586-026-01204-5)
-- [A simplified model of Fil-C](https://www.corsix.org/content/simplified-model-of-fil-c)
-- [Arc Prize Foundation &lpar;YC W26&rpar; Is Hiring a Platform Engineer for ARC-AGI-4](https://www.ycombinator.com/companies/arc-prize-foundation/jobs/AKZRZDN-platform-engineer-benchmark-lead)
-- [&quot;cat readme.txt&quot; is not safe if you use iTerm2](https://blog.calif.io/p/mad-bugs-even-cat-readmetxt-is-not)
-- [All 12 moonwalkers had &quot;lunar hay fever&quot; from dust smelling like gunpowder &lpar;2018&rpar;](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon)
-- [Show HN: Smol machines – subsecond coldstart, portable virtual machines](https://github.com/smol-machines/smolvm)
-- [Show HN: PanicLock – Close your MacBook lid disable TouchID –&gt; password unlock](https://github.com/paniclock/paniclock/)
-- [Hyperscalers have already outspent most famous US megaprojects](https://twitter.com/finmoorhouse/status/2044933442236776794)
-- [NASA Force](https://nasaforce.gov/)
+- [NASA Shuts Off Instrument on Voyager 1 to Keep Spacecraft Operating](https://science.nasa.gov/blogs/voyager/2026/04/17/nasa-shuts-off-instrument-on-voyager-1-to-keep-spacecraft-operating/)
+- [Zero-Copy GPU Inference from WebAssembly on Apple Silicon](https://abacusnoir.com/2026/04/18/zero-copy-gpu-inference-from-webassembly-on-apple-silicon/)
+- [Dad brains: How fatherhood rewires the male mind](https://www.bbc.com/future/article/20260417-fatherhood-how-the-male-brain-and-body-prepare-for-childcare)
+- [My first impressions on ROCm and Strix Halo](https://blog.marcoinacio.com/posts/my-first-impressions-rocm-strix-halo/)
+- [NIST scientists create &#39;any wavelength&#39; lasers](https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits)
+- [Optimizing Ruby Path Methods](https://byroot.github.io/ruby/performance/2026/04/18/faster-paths.html)
+- [Thoughts and feelings around Claude Design](https://samhenri.gold/blog/20260418-claude-design/)
+- [College instructor turns to typewriters to curb AI-written work](https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/)
+- [UpCodes &lpar;YC S17&rpar; is hiring SDRs to help make construction more productive](https://up.codes/careers?utm_source=HN)
+- [PgQue: Zero-Bloat Postgres Queue](https://github.com/NikolayS/pgque)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

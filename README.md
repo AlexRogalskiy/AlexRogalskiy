@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [‘A defeat for Putin’: Ukrainians hope Magyar’s victory will mark new era with Hungary](https://www.theguardian.com/world/2026/apr/18/ukraine-hungary-election-magyar-orban-europe)
-- [The impossible promise: are we witnessing the return of fascism?](https://www.theguardian.com/news/2026/apr/18/the-impossible-promise-are-we-witnessing-the-return-of-fascism)
-- [Lost Federico García Lorca verse discovered 93 years after it was written](https://www.theguardian.com/culture/2026/apr/18/lost-federico-garcia-lorca-verse-discovered-93-years-after-it-was-written)
-- [Estranged husband of Australian mushroom murderer Erin Patterson to pen memoir about case](https://www.theguardian.com/australia-news/2026/apr/18/erin-patterson-estranged-husband-simon-patterson-australia-mushroom-murders-memoir-ntwnfb)
-- [Iran says strait of Hormuz ‘completely open’ but sounds warning on US blockade](https://www.theguardian.com/world/2026/apr/17/strait-of-hormuz-now-open-to-commercial-vessels)
-- [Iron will: Australia’s richest person counts the cost as court orders she share mining millions with rival family](https://www.theguardian.com/business/2026/apr/18/gina-rinehart-australian-mining-billionaire-court-ruling-rival-family-ntwnfb)
-- [Ukraine war briefing: Russia seeking to bring Belarus back into the war, says Zelenskyy](https://www.theguardian.com/world/2026/apr/18/ukraine-war-briefing-russia-seeking-to-bring-belarus-back-into-the-war-says-zelenskyy)
-- [Inside smoky shelters, a fast-paced, illegal card game has taken off in Solomon Islands](https://www.theguardian.com/world/2026/apr/18/inside-smoky-shelters-a-fast-paced-card-game-has-taken-off-in-solomon-islands)
-- [Arsenal will not play for a draw in Manchester City face-off, insists Arteta](https://www.theguardian.com/football/2026/apr/17/mikel-arteta-manchester-city-arsenal-tactics-bukayo-saka-injury)
-- [Rashford faces summer in post-loan limbo but Carrick says door at United is not closed](https://www.theguardian.com/football/2026/apr/17/marcus-rashford-faces-summer-post-loan-limbo-michael-carrick-door-manchester-united-not-closed)
+- [Iran closes strait of Hormuz again ‘until US lifts blockade’](https://www.theguardian.com/world/2026/apr/18/iran-closes-strait-of-hormuz-again-until-us-lifts-blockade)
+- [Sincere dialogue needed to ease Cuba’s ‘grave humanitarian crisis’, say Mexico, Spain and Brazil](https://www.theguardian.com/world/2026/apr/19/sincere-dialogue-needed-to-ease-cubas-grave-humanitarian-crisis-say-mexico-spain-and-brazil)
+- [Did Harry and Meghan tour Australia to make money – or cosplay a return to royal life?](https://www.theguardian.com/uk-news/ng-interactive/2026/apr/19/harry-meghan-tour-australia-money-cosplay-royal-life)
+- [NFL will not investigate Mike Vrabel’s behavior amid Dianna Russini fallout](https://www.theguardian.com/sport/2026/apr/18/nfl-mike-vrabel-dianna-russini-investigation)
+- [Real Sociedad lift Copa del Rey after Marrero shootout heroics sink Atlético](https://www.theguardian.com/football/2026/apr/18/atletico-madrid-real-sociedad-copa-del-rey-final-match-report)
+- [Jon Ossoff calls out ‘Mar-a-Lago mafia’ amid presidential bid rumors](https://www.theguardian.com/us-news/2026/apr/18/jon-ossoff-fiery-speech-presidential-rumors)
+- [The Crucible holds tribute to former player and commentator John Virgo](https://www.theguardian.com/sport/2026/apr/18/the-crucible-holds-tribute-to-former-player-and-commentator-john-virgo)
+- [The Murder Line review – Minnie Driver’s mischievous crime caper is on the edge of excellence](https://www.theguardian.com/tv-and-radio/2026/apr/18/the-murder-line-review-minnie-driver-itv)
+- [Manchester United hold on after Cunha’s cool finish to hand Chelsea latest loss](https://www.theguardian.com/football/2026/apr/18/chelsea-manchester-united-premier-league-match-report)
+- [Queen Elizabeth II: Her Story, Our Century review – apparently she was very good at shaking hands](https://www.theguardian.com/tv-and-radio/2026/apr/18/queen-elizabeth-ii-her-story-our-century-review-royal-family-documentary-bbc-one-iplayer)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

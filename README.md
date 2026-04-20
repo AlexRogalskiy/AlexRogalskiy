@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Iran closes strait of Hormuz again ‘until US lifts blockade’](https://www.theguardian.com/world/2026/apr/18/iran-closes-strait-of-hormuz-again-until-us-lifts-blockade)
-- [Sincere dialogue needed to ease Cuba’s ‘grave humanitarian crisis’, say Mexico, Spain and Brazil](https://www.theguardian.com/world/2026/apr/19/sincere-dialogue-needed-to-ease-cubas-grave-humanitarian-crisis-say-mexico-spain-and-brazil)
-- [Did Harry and Meghan tour Australia to make money – or cosplay a return to royal life?](https://www.theguardian.com/uk-news/ng-interactive/2026/apr/19/harry-meghan-tour-australia-money-cosplay-royal-life)
-- [NFL will not investigate Mike Vrabel’s behavior amid Dianna Russini fallout](https://www.theguardian.com/sport/2026/apr/18/nfl-mike-vrabel-dianna-russini-investigation)
-- [Real Sociedad lift Copa del Rey after Marrero shootout heroics sink Atlético](https://www.theguardian.com/football/2026/apr/18/atletico-madrid-real-sociedad-copa-del-rey-final-match-report)
-- [Jon Ossoff calls out ‘Mar-a-Lago mafia’ amid presidential bid rumors](https://www.theguardian.com/us-news/2026/apr/18/jon-ossoff-fiery-speech-presidential-rumors)
-- [The Crucible holds tribute to former player and commentator John Virgo](https://www.theguardian.com/sport/2026/apr/18/the-crucible-holds-tribute-to-former-player-and-commentator-john-virgo)
-- [The Murder Line review – Minnie Driver’s mischievous crime caper is on the edge of excellence](https://www.theguardian.com/tv-and-radio/2026/apr/18/the-murder-line-review-minnie-driver-itv)
-- [Manchester United hold on after Cunha’s cool finish to hand Chelsea latest loss](https://www.theguardian.com/football/2026/apr/18/chelsea-manchester-united-premier-league-match-report)
-- [Queen Elizabeth II: Her Story, Our Century review – apparently she was very good at shaking hands](https://www.theguardian.com/tv-and-radio/2026/apr/18/queen-elizabeth-ii-her-story-our-century-review-royal-family-documentary-bbc-one-iplayer)
+- [Handcuffs, dog bites and avian warfare: how personal grudges sullied Alfred Hitchcock’s reputation](https://www.theguardian.com/film/2026/apr/20/alfred-hitchcock-the-birds-tippi-hedren-tension-performances)
+- [‘The Moon and The Zoo’: Simon Armitage poem celebrates 200 years of ZSL](https://www.theguardian.com/science/2026/apr/19/the-moon-and-the-zoo-simon-armitage-poem-celebrates-200-years-of-zsl)
+- [V&amp;A East Storehouse and Norwich Castle among finalists for museum of the year](https://www.theguardian.com/culture/2026/apr/20/v-and-a-east-storehouse-norwich-castle-national-museum-of-the-year-art-fund)
+- [Kevin review – Aubrey Plaza’s new cat comedy is so irretrievably bad it must never be allowed to happen again](https://www.theguardian.com/tv-and-radio/2026/apr/20/kevin-review-aubrey-plaza-cat-comedy-cartoon-amazon-prime)
+- [Get a grip on ‘scandal’ of  illegal child social care in England, ministers are told](https://www.theguardian.com/society/2026/apr/20/get-to-grips-on-illegal-child-social-care-in-england-ministers-are-told)
+- [England left with ‘toilet deserts’ as public facilities decline by 14% in a decade](https://www.theguardian.com/society/2026/apr/20/england-left-with-toilet-deserts-as-public-facilities-decline-by-14-in-a-decade)
+- [The key questions Keir Starmer must answer over Mandelson appointment](https://www.theguardian.com/politics/2026/apr/20/the-key-questions-keir-starmer-must-answer-over-mandelson-appointment)
+- [‘She’d been drinking with Julie Walters. I heard a crash’: Victoria Wood’s genius – by her friends, fans and actors](https://www.theguardian.com/stage/2026/apr/20/victoria-wood-julie-walters-dinnerladies-acorn-antiques)
+- [Arrests fuel fears among Madagascar’s gen Z protesters that new regime no better than one they overthrew](https://www.theguardian.com/world/2026/apr/20/madagascar-gen-z-protesters-fear-new-regime)
+- [‘Every time I write, I doubt myself’: Michael Rosen at 80 on deep grief, self-belief and chocolate cake](https://www.theguardian.com/books/2026/apr/20/michael-rosen-at-80-grief-self-belief-chocolate-cake)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

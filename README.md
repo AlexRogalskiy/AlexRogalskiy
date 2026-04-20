@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: Customer Reviews can be represented through Voice capture/generation](https://customersvoices.com)
-- [Garbage Collection Without Unsafe Code](https://fitzgen.com/2024/02/06/safe-gc.html)
-- [First trailer released for western starring AI version of Val Kilmer](https://www.theguardian.com/film/2026/apr/16/first-trailer-released-for-ai-val-kilmer-western)
-- [Ask HN: Where do I submit a bug report for Windows Snipping Tool?](https://news.ycombinator.com/item?id=47821827)
-- [Thiel-backed startup develops AI to adjudicate the truth of journalism](https://techcrunch.com/2026/04/15/can-ai-judge-journalism-a-thiel-backed-startup-says-yes-even-if-it-risks-chilling-whistleblowers/)
-- [AI answers break down, and what each one looks like](https://substack.com/@hanaleegoldin/note/c-244676181)
-- [Windows Server 2025 Runs Better on ARM](https://jasoneckert.github.io/myblog/server-2025-arm64/)
-- [Fake partisan avatars emerge on social media](https://www.nytimes.com/2026/04/17/business/media/artificial-intelligence-trump-social-media.html)
-- [DocuHog – The DocuSign Local Simulator](https://github.com/dwelch2344/docuhog)
-- [Show HN: SnapReceipts Snap a receipt, split the bill instantly](https://snapreceipts.fyi/)
+- [Robots Are Quietly Building the Future of Renewable Energy](https://oilprice.com/Energy/Energy-General/Robots-Are-Quietly-Building-the-Future-of-Renewable-Energy.html)
+- [OSS agents that kill idle cloud clusters before they eat your budget](https://github.com/CruiseAI/digitaltap-oss)
+- [Luanjo](https://news.ycombinator.com/item?id=47830353)
+- [AI is about to make the global e-waste crisis worse](https://restofworld.org/2026/global-ewaste-crisis/)
+- [Show HN: Lfk – a yazi inspired, Vim-like keyboard focused fast Kubernetes TUI](https://github.com/janosmiko/lfk)
+- [Washington DC on track for most volatile temperature year since 1959](https://www.williamangel.net/blog/2026/04/19/Washington_DC_On_Track_For_Stormy_2026.html)
+- [Theseus, a Static Windows Emulator](https://neugierig.org/software/blog/2026/04/theseus.html)
+- [Choice Against Cost: Sparse Autoencoder Findings in Three Small Language Models](https://substack.com/home/post/p-194758516)
+- [SoK: Security of Autonomous LLM Agents in Agentic Commerce](https://arxiv.org/abs/2604.15367)
+- [Avoiding a Culture of Emergencies](https://blog.staysaasy.com/p/avoiding-a-culture-of-emergencies)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

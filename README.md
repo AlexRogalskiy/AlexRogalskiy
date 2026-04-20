@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [NASA Shuts Off Instrument on Voyager 1 to Keep Spacecraft Operating](https://science.nasa.gov/blogs/voyager/2026/04/17/nasa-shuts-off-instrument-on-voyager-1-to-keep-spacecraft-operating/)
-- [Zero-Copy GPU Inference from WebAssembly on Apple Silicon](https://abacusnoir.com/2026/04/18/zero-copy-gpu-inference-from-webassembly-on-apple-silicon/)
-- [Dad brains: How fatherhood rewires the male mind](https://www.bbc.com/future/article/20260417-fatherhood-how-the-male-brain-and-body-prepare-for-childcare)
-- [My first impressions on ROCm and Strix Halo](https://blog.marcoinacio.com/posts/my-first-impressions-rocm-strix-halo/)
-- [NIST scientists create &#39;any wavelength&#39; lasers](https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits)
-- [Optimizing Ruby Path Methods](https://byroot.github.io/ruby/performance/2026/04/18/faster-paths.html)
-- [Thoughts and feelings around Claude Design](https://samhenri.gold/blog/20260418-claude-design/)
-- [College instructor turns to typewriters to curb AI-written work](https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/)
-- [UpCodes &lpar;YC S17&rpar; is hiring SDRs to help make construction more productive](https://up.codes/careers?utm_source=HN)
-- [PgQue: Zero-Bloat Postgres Queue](https://github.com/NikolayS/pgque)
+- [Contra Benn Jordan, data center &lpar;and all&rpar; sub-audible infrasound issues are fake](https://blog.andymasley.com/p/contra-benn-jordan-data-center-and)
+- [Claude Token Counter, now with model comparisons](https://simonwillison.net/2026/Apr/20/claude-token-counts/)
+- [Show HN: A lightweight way to make agents talk without paying for API usage](https://juanpabloaj.com/2026/04/16/a-lightweight-way-to-make-agents-talk-without-paying-for-api-usage/)
+- [Show HN: Run TRELLIS.2 Image-to-3D generation natively on Apple Silicon](https://github.com/shivampkumar/trellis-mac)
+- [Sudo for Windows](https://github.com/microsoft/sudo)
+- [Swiss AI Initiative &lpar;2023&rpar;](https://www.swiss-ai.org)
+- [2,100 Swiss municipalities showing which provider handles their official email](https://mxmap.ch/)
+- [Stop trying to engineer your way out of listening to people](https://ashley.rolfmore.com/stop-trying-to-engineer-your-way-out-of-listening-to-people/)
+- [I wrote a CHIP-8 emulator in my own programming language](https://github.com/navid-m/chip8emu)
+- [Scientific datasets are riddled with copy-paste errors](https://www.sciencedetective.org/scientific-datasets-are-riddled-with-copy-paste-errors/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

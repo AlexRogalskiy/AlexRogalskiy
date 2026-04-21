@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Handcuffs, dog bites and avian warfare: how personal grudges sullied Alfred Hitchcock’s reputation](https://www.theguardian.com/film/2026/apr/20/alfred-hitchcock-the-birds-tippi-hedren-tension-performances)
-- [‘The Moon and The Zoo’: Simon Armitage poem celebrates 200 years of ZSL](https://www.theguardian.com/science/2026/apr/19/the-moon-and-the-zoo-simon-armitage-poem-celebrates-200-years-of-zsl)
-- [V&amp;A East Storehouse and Norwich Castle among finalists for museum of the year](https://www.theguardian.com/culture/2026/apr/20/v-and-a-east-storehouse-norwich-castle-national-museum-of-the-year-art-fund)
-- [Kevin review – Aubrey Plaza’s new cat comedy is so irretrievably bad it must never be allowed to happen again](https://www.theguardian.com/tv-and-radio/2026/apr/20/kevin-review-aubrey-plaza-cat-comedy-cartoon-amazon-prime)
-- [Get a grip on ‘scandal’ of  illegal child social care in England, ministers are told](https://www.theguardian.com/society/2026/apr/20/get-to-grips-on-illegal-child-social-care-in-england-ministers-are-told)
-- [England left with ‘toilet deserts’ as public facilities decline by 14% in a decade](https://www.theguardian.com/society/2026/apr/20/england-left-with-toilet-deserts-as-public-facilities-decline-by-14-in-a-decade)
-- [The key questions Keir Starmer must answer over Mandelson appointment](https://www.theguardian.com/politics/2026/apr/20/the-key-questions-keir-starmer-must-answer-over-mandelson-appointment)
-- [‘She’d been drinking with Julie Walters. I heard a crash’: Victoria Wood’s genius – by her friends, fans and actors](https://www.theguardian.com/stage/2026/apr/20/victoria-wood-julie-walters-dinnerladies-acorn-antiques)
-- [Arrests fuel fears among Madagascar’s gen Z protesters that new regime no better than one they overthrew](https://www.theguardian.com/world/2026/apr/20/madagascar-gen-z-protesters-fear-new-regime)
-- [‘Every time I write, I doubt myself’: Michael Rosen at 80 on deep grief, self-belief and chocolate cake](https://www.theguardian.com/books/2026/apr/20/michael-rosen-at-80-grief-self-belief-chocolate-cake)
+- [Almost half of EU’s busiest flight routes are ‘hard or impossible’ to book on trains – report](https://www.theguardian.com/environment/2026/apr/21/almost-half-of-eus-busiest-flight-routes-are-hard-or-impossible-to-book-on-trains-report)
+- [AI job scams are booming – and I was fooled by one. Here is how to avoid them](https://www.theguardian.com/money/2026/apr/21/how-to-avoid-ai-online-job-recruitment-scams)
+- [‘I’ve had white knuckle moments’: Michael Socha on This Is England, his patchy beard – and seedy new casino thriller The Cage](https://www.theguardian.com/tv-and-radio/2026/apr/21/michael-socha-interview-the-cage-this-is-england-sheridan-smith)
+- [Picasso’s Guernica is the ultimate emblem of the horrors of war. It has no place in Spain&#39;s partisan squabbles | María Ramírez](https://www.theguardian.com/commentisfree/2026/apr/21/picasso-guernica-horrors-war-spain-partisan-squabbles-madrid-franco)
+- [On the trail with the hunters who believe shooting big game can save Africa’s wildlife](https://www.theguardian.com/environment/2026/apr/21/hunters-who-believe-shooting-big-game-can-save-africa-wildlife)
+- [Canadian woman killed after gunman opens fire at Mexico’s Teotihuacán pyramids](https://www.theguardian.com/world/2026/apr/20/canadian-woman-killed-after-gunman-opens-fire-at-mexicos-teotihuacan-pyramids)
+- [Embattled New Zealand prime minister survives leadership vote and blames media for ‘soap opera’](https://www.theguardian.com/world/2026/apr/21/new-zealand-prime-minister-christopher-luxon-leadership-vote)
+- [Fifteen years after Steve Jobs, Tim Cook leaves a dramatically different Apple](https://www.theguardian.com/technology/2026/apr/20/tim-cook-apple-steve-jobs)
+- [Ukraine war briefing: EU moves to unlock €90bn loan as Orbán exits](https://www.theguardian.com/world/2026/apr/21/ukraine-war-briefing-eu-moves-to-unlock-90bn-loan-as-orban-exits)
+- [Madonna offers reward after vintage Coachella costume goes missing](https://www.theguardian.com/music/2026/apr/21/madonna-coachella-2026-costume-missing)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

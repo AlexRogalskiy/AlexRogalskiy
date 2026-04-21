@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Contra Benn Jordan, data center &lpar;and all&rpar; sub-audible infrasound issues are fake](https://blog.andymasley.com/p/contra-benn-jordan-data-center-and)
-- [Claude Token Counter, now with model comparisons](https://simonwillison.net/2026/Apr/20/claude-token-counts/)
-- [Show HN: A lightweight way to make agents talk without paying for API usage](https://juanpabloaj.com/2026/04/16/a-lightweight-way-to-make-agents-talk-without-paying-for-api-usage/)
-- [Show HN: Run TRELLIS.2 Image-to-3D generation natively on Apple Silicon](https://github.com/shivampkumar/trellis-mac)
-- [Sudo for Windows](https://github.com/microsoft/sudo)
-- [Swiss AI Initiative &lpar;2023&rpar;](https://www.swiss-ai.org)
-- [2,100 Swiss municipalities showing which provider handles their official email](https://mxmap.ch/)
-- [Stop trying to engineer your way out of listening to people](https://ashley.rolfmore.com/stop-trying-to-engineer-your-way-out-of-listening-to-people/)
-- [I wrote a CHIP-8 emulator in my own programming language](https://github.com/navid-m/chip8emu)
-- [Scientific datasets are riddled with copy-paste errors](https://www.sciencedetective.org/scientific-datasets-are-riddled-with-copy-paste-errors/)
+- [How to make a fast dynamic language interpreter](https://zef-lang.dev/implementation)
+- [Jujutsu megamerges for fun and profit](https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit)
+- [OpenAI ad partner now selling ChatGPT ad placements based on “prompt relevance”](https://www.adweek.com/media/exclusive-leaked-deck-reveals-stackadapts-playbook-for-chatgpt-ads/)
+- [John Ternus to become Apple CEO](https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/)
+- [F-35 is built for the wrong war](https://warontherocks.com/cogs-of-war/the-f-35-is-a-masterpiece-built-for-the-wrong-war/)
+- [Soul Player C64 – A real transformer running on a 1 MHz Commodore 64](https://github.com/gizmo64k/soulplayer-c64)
+- [Kimi vendor verifier – verify accuracy of inference providers](https://www.kimi.com/blog/kimi-vendor-verifier)
+- [Bloom &lpar;YC P26&rpar; Is Hiring](https://www.ycombinator.com/companies/trybloom/jobs)
+- [Quantum Computers Are Not a Threat to 128-Bit Symmetric Keys](https://words.filippo.io/128-bits/)
+- [Deezer says 44% of songs uploaded to its platform daily are AI-generated](https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Robots Are Quietly Building the Future of Renewable Energy](https://oilprice.com/Energy/Energy-General/Robots-Are-Quietly-Building-the-Future-of-Renewable-Energy.html)
-- [OSS agents that kill idle cloud clusters before they eat your budget](https://github.com/CruiseAI/digitaltap-oss)
-- [Luanjo](https://news.ycombinator.com/item?id=47830353)
-- [AI is about to make the global e-waste crisis worse](https://restofworld.org/2026/global-ewaste-crisis/)
-- [Show HN: Lfk – a yazi inspired, Vim-like keyboard focused fast Kubernetes TUI](https://github.com/janosmiko/lfk)
-- [Washington DC on track for most volatile temperature year since 1959](https://www.williamangel.net/blog/2026/04/19/Washington_DC_On_Track_For_Stormy_2026.html)
-- [Theseus, a Static Windows Emulator](https://neugierig.org/software/blog/2026/04/theseus.html)
-- [Choice Against Cost: Sparse Autoencoder Findings in Three Small Language Models](https://substack.com/home/post/p-194758516)
-- [SoK: Security of Autonomous LLM Agents in Agentic Commerce](https://arxiv.org/abs/2604.15367)
-- [Avoiding a Culture of Emergencies](https://blog.staysaasy.com/p/avoiding-a-culture-of-emergencies)
+- [Making the most pickproof lock yet [video]](https://www.youtube.com/watch?v=-qUu8kIliy8)
+- [The Beauty of Bonsai Styles](https://longwoodgardens.org/blog/2023-05-17/beauty-bonsai-styles)
+- [SSA without Dominance for Higher-Order Programs](https://arxiv.org/abs/2604.09961)
+- [Show HN: Kachilu Browser – a local browser automation CLI for AI agents](https://github.com/kachilu-inc/kachilu-browser)
+- [A Roblox cheat and one AI tool brought down Vercel&#39;s platform](https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform)
+- [Advancing BDD Software Testing: Dynamic Scenario Re-Usability and Step Auto-Comp](https://arxiv.org/abs/2402.15928)
+- [Show HN: A fake small claims court for petty complaints](https://benlirio.com/petty-small-claims/)
+- [Spotting Specification Gaps with Small Proof-Oriented Tests](https://risemsr.github.io/blog/2026-04-16-spotting-specs/)
+- [Ancient Mughal tradition of pigeon-rearing thrives in India&#39;s capital](https://www.reuters.com/world/india/ancient-mughal-tradition-pigeon-rearing-thrives-indias-capital-2026-04-21/)
+- [&quot;Capital Punishment&quot; Trivia Game](https://games-by-will.com/capital-punishment/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Making the most pickproof lock yet [video]](https://www.youtube.com/watch?v=-qUu8kIliy8)
-- [The Beauty of Bonsai Styles](https://longwoodgardens.org/blog/2023-05-17/beauty-bonsai-styles)
-- [SSA without Dominance for Higher-Order Programs](https://arxiv.org/abs/2604.09961)
-- [Show HN: Kachilu Browser – a local browser automation CLI for AI agents](https://github.com/kachilu-inc/kachilu-browser)
-- [A Roblox cheat and one AI tool brought down Vercel&#39;s platform](https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform)
-- [Advancing BDD Software Testing: Dynamic Scenario Re-Usability and Step Auto-Comp](https://arxiv.org/abs/2402.15928)
-- [Show HN: A fake small claims court for petty complaints](https://benlirio.com/petty-small-claims/)
-- [Spotting Specification Gaps with Small Proof-Oriented Tests](https://risemsr.github.io/blog/2026-04-16-spotting-specs/)
-- [Ancient Mughal tradition of pigeon-rearing thrives in India&#39;s capital](https://www.reuters.com/world/india/ancient-mughal-tradition-pigeon-rearing-thrives-indias-capital-2026-04-21/)
-- [&quot;Capital Punishment&quot; Trivia Game](https://games-by-will.com/capital-punishment/)
+- [So This is Peak Smartphone [video]](https://www.youtube.com/watch?v=c347oYQO57A)
+- [The most overenginereed Chromium extension?](https://www.superchargebrowser.com/performance/)
+- [Ubuntu 26.04 is more than just a performance bump for thrill-seeking gamers](https://www.zdnet.com/article/ubuntu-26-04-performance/)
+- [Reverse-engineering infrared-based electronic shelf labels](https://www.furrtek.org/?a=esl)
+- [Rivian R2 won&#39;t have A/C buttons followed by CEO&#39;s decision](https://theevreport.com/rivian-r2s-screen-heavy-interior-was-a-top-down-ceo-decision)
+- [1981 Spanish cooking oil disaster](https://en.wikipedia.org/wiki/Toxic_oil_syndrome)
+- [Zero Days Clock](https://zerodayclock.com/)
+- [Paraloid B-72](https://en.wikipedia.org/wiki/Paraloid_B-72)
+- [Five Simple Steps to Fix America](https://geohot.github.io//blog/jekyll/update/2026/04/18/five-simple-steps.html)
+- [The Dangers of Nicotine Biohacking](https://www.lung.org/blog/nicotine-biohack-dangers)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

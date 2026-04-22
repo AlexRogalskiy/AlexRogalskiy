@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Almost half of EU’s busiest flight routes are ‘hard or impossible’ to book on trains – report](https://www.theguardian.com/environment/2026/apr/21/almost-half-of-eus-busiest-flight-routes-are-hard-or-impossible-to-book-on-trains-report)
-- [AI job scams are booming – and I was fooled by one. Here is how to avoid them](https://www.theguardian.com/money/2026/apr/21/how-to-avoid-ai-online-job-recruitment-scams)
-- [‘I’ve had white knuckle moments’: Michael Socha on This Is England, his patchy beard – and seedy new casino thriller The Cage](https://www.theguardian.com/tv-and-radio/2026/apr/21/michael-socha-interview-the-cage-this-is-england-sheridan-smith)
-- [Picasso’s Guernica is the ultimate emblem of the horrors of war. It has no place in Spain&#39;s partisan squabbles | María Ramírez](https://www.theguardian.com/commentisfree/2026/apr/21/picasso-guernica-horrors-war-spain-partisan-squabbles-madrid-franco)
-- [On the trail with the hunters who believe shooting big game can save Africa’s wildlife](https://www.theguardian.com/environment/2026/apr/21/hunters-who-believe-shooting-big-game-can-save-africa-wildlife)
-- [Canadian woman killed after gunman opens fire at Mexico’s Teotihuacán pyramids](https://www.theguardian.com/world/2026/apr/20/canadian-woman-killed-after-gunman-opens-fire-at-mexicos-teotihuacan-pyramids)
-- [Embattled New Zealand prime minister survives leadership vote and blames media for ‘soap opera’](https://www.theguardian.com/world/2026/apr/21/new-zealand-prime-minister-christopher-luxon-leadership-vote)
-- [Fifteen years after Steve Jobs, Tim Cook leaves a dramatically different Apple](https://www.theguardian.com/technology/2026/apr/20/tim-cook-apple-steve-jobs)
-- [Ukraine war briefing: EU moves to unlock €90bn loan as Orbán exits](https://www.theguardian.com/world/2026/apr/21/ukraine-war-briefing-eu-moves-to-unlock-90bn-loan-as-orban-exits)
-- [Madonna offers reward after vintage Coachella costume goes missing](https://www.theguardian.com/music/2026/apr/21/madonna-coachella-2026-costume-missing)
+- [Millions in India stripped of vote before critical state election, as government seeks to ‘purify’ electoral roll](https://www.theguardian.com/world/2026/apr/22/india-west-bengal-state-elections-millions-stripped-of-vote)
+- [Criminal Record season two review – Peter Capaldi is just devastating in this intense crime thriller](https://www.theguardian.com/tv-and-radio/2026/apr/22/criminal-record-season-two-review-peter-capaldi-cush-jumbo)
+- [From Barcelona to Paris, cities thrive with women in charge. It’s all about sharing public space | Melissa and Chris Bruntlett](https://www.theguardian.com/commentisfree/2026/apr/22/cities-barcelona-paris-women-share-public-space)
+- [Temporary accommodation linked to deaths of 104 children in England in six years](https://www.theguardian.com/society/2026/apr/22/temporary-accommodation-deaths-children-england)
+- [The Pentagon released its UFO videos – so I went to the US to chase aliens. This is what I found](https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens)
+- [Israel’s death penalty law could spell suspension from rights body role, says chief](https://www.theguardian.com/world/2026/apr/22/israel-death-penalty-law-rights-body-council-of-europe)
+- [Pollen season in UK and mainland Europe extended by climate breakdown](https://www.theguardian.com/environment/2026/apr/22/pollen-season-in-uk-and-mainland-europe-extended-by-climate-breakdown)
+- [To see or not to see? Every single Shakespeare play – ranked!](https://www.theguardian.com/stage/ng-interactive/2026/apr/22/every-shakespeare-play-ranked-lear-antony-cleopatra-hamlet)
+- [Ukraine war briefing: Quick loan in pipeline as Druzhba reopens](https://www.theguardian.com/world/2026/apr/22/ukraine-war-briefing-quick-loan-in-pipeline-as-druzhba-reopens)
+- [Condom prices could rise 30% due to Iran war, says world’s top producer Karex](https://www.theguardian.com/society/2026/apr/22/condom-prices-iran-war-cost-price-rise-karex)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

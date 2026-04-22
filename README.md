@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [How to make a fast dynamic language interpreter](https://zef-lang.dev/implementation)
-- [Jujutsu megamerges for fun and profit](https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit)
-- [OpenAI ad partner now selling ChatGPT ad placements based on “prompt relevance”](https://www.adweek.com/media/exclusive-leaked-deck-reveals-stackadapts-playbook-for-chatgpt-ads/)
-- [John Ternus to become Apple CEO](https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/)
-- [F-35 is built for the wrong war](https://warontherocks.com/cogs-of-war/the-f-35-is-a-masterpiece-built-for-the-wrong-war/)
-- [Soul Player C64 – A real transformer running on a 1 MHz Commodore 64](https://github.com/gizmo64k/soulplayer-c64)
-- [Kimi vendor verifier – verify accuracy of inference providers](https://www.kimi.com/blog/kimi-vendor-verifier)
-- [Bloom &lpar;YC P26&rpar; Is Hiring](https://www.ycombinator.com/companies/trybloom/jobs)
-- [Quantum Computers Are Not a Threat to 128-Bit Symmetric Keys](https://words.filippo.io/128-bits/)
-- [Deezer says 44% of songs uploaded to its platform daily are AI-generated](https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/)
+- [FBI looks into dead or missing scientists tied to NASA, Blue Origin, SpaceX](https://fortune.com/2026/04/21/scientists-disappear-die-nasa-space-blue-origin-spacex/)
+- [Global growth in solar &quot;the largest ever observed for any source&quot;](https://arstechnica.com/science/2026/04/global-growth-in-solar-the-largest-ever-observed-for-any-source/)
+- [San Diego rents declined following surge in supply](https://www.kpbs.org/news/economy/2026/03/27/san-diego-rents-declined-more-than-19-of-nations-top-20-markets-following-surge-in-supply)
+- [Drunk Post: Things I&#39;ve Learned as a Senior Engineer](https://luminousmen.substack.com/p/drunk-post-things-ive-learned-as)
+- [SpaceX says it has agreement to acquire Cursor for $60B](https://twitter.com/spacex/status/2046713419978453374)
+- [Claude Code to be removed from Anthropic&#39;s Pro plan?](https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a)
+- [ChatGPT Images 2.0](https://openai.com/index/introducing-chatgpt-images-2-0/)
+- [Framework Laptop 13 Pro](https://frame.work/laptop13pro)
+- [Cal.diy: open-source community edition of cal.com](https://github.com/calcom/cal.diy)
+- [Meta to start capturing employee mouse movements, keystrokes for AI training](https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

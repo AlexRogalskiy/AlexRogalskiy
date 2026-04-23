@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [So This is Peak Smartphone [video]](https://www.youtube.com/watch?v=c347oYQO57A)
-- [The most overenginereed Chromium extension?](https://www.superchargebrowser.com/performance/)
-- [Ubuntu 26.04 is more than just a performance bump for thrill-seeking gamers](https://www.zdnet.com/article/ubuntu-26-04-performance/)
-- [Reverse-engineering infrared-based electronic shelf labels](https://www.furrtek.org/?a=esl)
-- [Rivian R2 won&#39;t have A/C buttons followed by CEO&#39;s decision](https://theevreport.com/rivian-r2s-screen-heavy-interior-was-a-top-down-ceo-decision)
-- [1981 Spanish cooking oil disaster](https://en.wikipedia.org/wiki/Toxic_oil_syndrome)
-- [Zero Days Clock](https://zerodayclock.com/)
-- [Paraloid B-72](https://en.wikipedia.org/wiki/Paraloid_B-72)
-- [Five Simple Steps to Fix America](https://geohot.github.io//blog/jekyll/update/2026/04/18/five-simple-steps.html)
-- [The Dangers of Nicotine Biohacking](https://www.lung.org/blog/nicotine-biohack-dangers)
+- [DragonRuby&#39;s Seventh Year – Where We Started and Where We&#39;re Going](https://dragonruby.itch.io/dragonruby-gtk/devlog/1497015/dragonrubys-seventh-year-where-we-started-and-where-were-going)
+- [Pokemon Red and the Evolution of FSM](https://www.makonea.com/en-US/blog/Pokemon-Red-and-the-Evolution-of-FSM)
+- [Hackers tricked Sri Lanka&#39;s Treasury into sending $2.5M to the wrong account](https://www.ft.lk/top-story/Treasury-rocked-by-2-5-m-fraud/26-791019)
+- [MartinLoop – The control plane for autonomous AI agents](https://github.com/Keesan12/martin-loop)
+- [In the age of AI, why do Australian company boards have few technology experts?](https://theconversation.com/in-the-age-of-ai-why-do-australian-company-boards-have-so-few-technology-experts-279752)
+- [Low Contrast UI Pandemic](https://news.ycombinator.com/item?id=47872206)
+- [A Boy That Cried Mythos: Verification Is Collapsing Trust in Anthropic](https://www.flyingpenguin.com/the-boy-that-cried-mythos-verification-is-collapsing-trust-in-anthropic/)
+- [Choose Boring Technology](https://mcfunley.com/choose-boring-technology)
+- [Show HN: MailScrub – terminal UI for bulk Gmail unsubscribing](https://github.com/brooksc/MailScrub)
+- [Search, Experience, Credence – classification of resources](https://en.wikipedia.org/wiki/SEC_classification_of_goods_and_services)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

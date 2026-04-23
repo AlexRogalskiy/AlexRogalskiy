@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [FBI looks into dead or missing scientists tied to NASA, Blue Origin, SpaceX](https://fortune.com/2026/04/21/scientists-disappear-die-nasa-space-blue-origin-spacex/)
-- [Global growth in solar &quot;the largest ever observed for any source&quot;](https://arstechnica.com/science/2026/04/global-growth-in-solar-the-largest-ever-observed-for-any-source/)
-- [San Diego rents declined following surge in supply](https://www.kpbs.org/news/economy/2026/03/27/san-diego-rents-declined-more-than-19-of-nations-top-20-markets-following-surge-in-supply)
-- [Drunk Post: Things I&#39;ve Learned as a Senior Engineer](https://luminousmen.substack.com/p/drunk-post-things-ive-learned-as)
-- [SpaceX says it has agreement to acquire Cursor for $60B](https://twitter.com/spacex/status/2046713419978453374)
-- [Claude Code to be removed from Anthropic&#39;s Pro plan?](https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a)
-- [ChatGPT Images 2.0](https://openai.com/index/introducing-chatgpt-images-2-0/)
-- [Framework Laptop 13 Pro](https://frame.work/laptop13pro)
-- [Cal.diy: open-source community edition of cal.com](https://github.com/calcom/cal.diy)
-- [Meta to start capturing employee mouse movements, keystrokes for AI training](https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/)
+- [It&#39;s time to reclaim the word &quot;Palantir&quot; for JRR Tolkien](https://www.zig.art/p/its-time-to-reclaim-the-word-palantir)
+- [Borrow-checking without type-checking](https://www.scattered-thoughts.net/writing/borrow-checking-without-type-checking/)
+- [Flow Map Learning via Nongradient Vector Flow [pdf]](https://openreview.net/pdf?id=C1bkDPqvDW)
+- [Tempest vs. Tempest: The Making and Remaking of Atari&#39;s Iconic Video Game](https://tempest.homemade.systems)
+- [OpenAI&#39;s response to the Axios developer tool compromise](https://openai.com/index/axios-developer-tool-compromise/)
+- [Approximating Hyperbolic Tangent](https://jtomschroeder.com/blog/approximating-tanh/)
+- [Bring your own Agent to MS Teams](https://microsoft.github.io/teams-sdk/blog/bring-your-agent-to-teams/)
+- [The Neon King of New Orleans](https://gardenandgun.com/new-orleans-neon-king)
+- [Apple fixes bug that cops used to extract deleted chat messages from iPhones](https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/)
+- [The Illuminated Man: an unconventional portrait of JG Ballard](https://www.theguardian.com/books/2026/apr/20/the-illuminated-man-by-christopher-priest-and-nina-allan-review-an-unconventional-portrait-of-jg-ballard)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

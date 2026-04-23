@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Millions in India stripped of vote before critical state election, as government seeks to ‘purify’ electoral roll](https://www.theguardian.com/world/2026/apr/22/india-west-bengal-state-elections-millions-stripped-of-vote)
-- [Criminal Record season two review – Peter Capaldi is just devastating in this intense crime thriller](https://www.theguardian.com/tv-and-radio/2026/apr/22/criminal-record-season-two-review-peter-capaldi-cush-jumbo)
-- [From Barcelona to Paris, cities thrive with women in charge. It’s all about sharing public space | Melissa and Chris Bruntlett](https://www.theguardian.com/commentisfree/2026/apr/22/cities-barcelona-paris-women-share-public-space)
-- [Temporary accommodation linked to deaths of 104 children in England in six years](https://www.theguardian.com/society/2026/apr/22/temporary-accommodation-deaths-children-england)
-- [The Pentagon released its UFO videos – so I went to the US to chase aliens. This is what I found](https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens)
-- [Israel’s death penalty law could spell suspension from rights body role, says chief](https://www.theguardian.com/world/2026/apr/22/israel-death-penalty-law-rights-body-council-of-europe)
-- [Pollen season in UK and mainland Europe extended by climate breakdown](https://www.theguardian.com/environment/2026/apr/22/pollen-season-in-uk-and-mainland-europe-extended-by-climate-breakdown)
-- [To see or not to see? Every single Shakespeare play – ranked!](https://www.theguardian.com/stage/ng-interactive/2026/apr/22/every-shakespeare-play-ranked-lear-antony-cleopatra-hamlet)
-- [Ukraine war briefing: Quick loan in pipeline as Druzhba reopens](https://www.theguardian.com/world/2026/apr/22/ukraine-war-briefing-quick-loan-in-pipeline-as-druzhba-reopens)
-- [Condom prices could rise 30% due to Iran war, says world’s top producer Karex](https://www.theguardian.com/society/2026/apr/22/condom-prices-iran-war-cost-price-rise-karex)
+- [Pilot’s selfie led to mid-air collision in F-15K fighter jet, says South Korea’s air force](https://www.theguardian.com/world/2026/apr/23/south-korea-air-force-selfie-crash-apology)
+- [‘Apprenticeship penalty’ on benefits forces young people from poorer UK families to quit](https://www.theguardian.com/education/2026/apr/23/apprenticeship-penalty-poorer-uk-families-benefits-young-people-quit-training)
+- [Number of billionaires globally could reach 4,000 in next five years](https://www.theguardian.com/news/2026/apr/23/billionaires-super-rich-global-wealth-gap-economy)
+- [One ship, three deaths: the shocking truth behind working conditions on a Chinese trawler](https://www.theguardian.com/environment/2026/apr/23/ship-deaths-working-conditions-chinese-trawler)
+- [Use of toxic Pfas in consumer goods must be urgently restricted, MPs say](https://www.theguardian.com/environment/2026/apr/23/use-of-toxic-pfas-in-consumer-goods-must-be-urgently-restricted-mps-say)
+- [To be human is to live with friction. That’s something AI boosters will never understand | Alexander Hurst](https://www.theguardian.com/commentisfree/2026/apr/23/humanity-friction-artificial-intelligence-capitalism-black-mirror)
+- [How to find a career you love – for gen Z and everyone else: ‘You don’t want your life’s compass to be dread’](https://www.theguardian.com/us-news/2026/apr/23/jodi-kantor-interview-how-to-start-gen-z-careers-jobs)
+- [‘Lawrence is karma’: the gangster who became an icon of Modi’s India](https://www.theguardian.com/world/2026/apr/23/lawrence-bishnoi-gangster-icon-modi-india)
+- [Czech journalists threaten to strike over plan to scrap licence fees](https://www.theguardian.com/world/2026/apr/23/czech-journalists-threaten-to-strike-over-plan-to-scrap-licence-fees)
+- [‘Pacific ashtray’: Australian billionaire’s plan to ship and burn waste in Fiji condemned by villagers](https://www.theguardian.com/world/2026/apr/23/waste-incinerator-fiji-plan-australians-ian-malouf-rob-cromb-kookai)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

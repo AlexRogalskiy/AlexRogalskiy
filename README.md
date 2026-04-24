@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Pilot’s selfie led to mid-air collision in F-15K fighter jet, says South Korea’s air force](https://www.theguardian.com/world/2026/apr/23/south-korea-air-force-selfie-crash-apology)
-- [‘Apprenticeship penalty’ on benefits forces young people from poorer UK families to quit](https://www.theguardian.com/education/2026/apr/23/apprenticeship-penalty-poorer-uk-families-benefits-young-people-quit-training)
-- [Number of billionaires globally could reach 4,000 in next five years](https://www.theguardian.com/news/2026/apr/23/billionaires-super-rich-global-wealth-gap-economy)
-- [One ship, three deaths: the shocking truth behind working conditions on a Chinese trawler](https://www.theguardian.com/environment/2026/apr/23/ship-deaths-working-conditions-chinese-trawler)
-- [Use of toxic Pfas in consumer goods must be urgently restricted, MPs say](https://www.theguardian.com/environment/2026/apr/23/use-of-toxic-pfas-in-consumer-goods-must-be-urgently-restricted-mps-say)
-- [To be human is to live with friction. That’s something AI boosters will never understand | Alexander Hurst](https://www.theguardian.com/commentisfree/2026/apr/23/humanity-friction-artificial-intelligence-capitalism-black-mirror)
-- [How to find a career you love – for gen Z and everyone else: ‘You don’t want your life’s compass to be dread’](https://www.theguardian.com/us-news/2026/apr/23/jodi-kantor-interview-how-to-start-gen-z-careers-jobs)
-- [‘Lawrence is karma’: the gangster who became an icon of Modi’s India](https://www.theguardian.com/world/2026/apr/23/lawrence-bishnoi-gangster-icon-modi-india)
-- [Czech journalists threaten to strike over plan to scrap licence fees](https://www.theguardian.com/world/2026/apr/23/czech-journalists-threaten-to-strike-over-plan-to-scrap-licence-fees)
-- [‘Pacific ashtray’: Australian billionaire’s plan to ship and burn waste in Fiji condemned by villagers](https://www.theguardian.com/world/2026/apr/23/waste-incinerator-fiji-plan-australians-ian-malouf-rob-cromb-kookai)
+- [NFL draft 2026: Mendoza goes No 1 as Rams surprise with move for QB Ty Simpson at No 13](https://www.theguardian.com/sport/2026/apr/24/nfl-draft-2026-first-round-picks)
+- [Actor felt ‘mocked’ by Rebel Wilson’s wife in Instagram post referencing Finding Nemo, court hears](https://www.theguardian.com/film/2026/apr/24/actor-mocked-rebel-wilson-wife-instagram-post-defamation-trial-ntwnfb)
+- [‘I nearly quit to become a fencing teacher’: Iron Maiden on 50 years of heavy metal, hard living – and hopeless communication skills](https://www.theguardian.com/music/2026/apr/24/i-nearly-quit-to-become-a-fencing-teacher-iron-maiden-on-50-years-of-heavy-metal-hard-living-and-hopeless-communication-skills)
+- [Largest-ever ban on toxic chemicals in EU hit by ‘extremely frustrating’ delays](https://www.theguardian.com/environment/2026/apr/24/toxic-chemicals-eu-delays-pollution-report)
+- [Europe is in a profound state of crisis. Luckily, we know what to do | Nathalie Tocci and Anu Bradford](https://www.theguardian.com/commentisfree/2026/apr/24/europe-profound-state-of-crisis-assess-threats-remedy)
+- [Experience: I’ve won £1m on the lottery – twice](https://www.theguardian.com/lifeandstyle/2026/apr/24/experience-ive-won-1m-on-the-lottery-twice)
+- [In ‘deep shit’: tourist stranded in excrement for three hours after long-drop toilet collapses in Australian outback](https://www.theguardian.com/australia-news/2026/apr/24/in-deep-shit-tourist-stranded-waist-deep-in-excrement-for-three-hours-after-long-drop-toilet-collapses)
+- [How a simple consumer data breach spiralled into a national security crisis in US-South Korea relations](https://www.theguardian.com/world/2026/apr/24/coupang-data-breach-south-korea-us-relations)
+- [Trump claims US has total control over strait of Hormuz after Iran seizes two container ships](https://www.theguardian.com/us-news/2026/apr/23/trump-claims-us-has-total-control-over-strait-of-hormuz-as-iran-seizes-two-container-ships)
+- [Trump says he will ‘probably put a big tariff on the UK’ if it doesn’t drop digital services tax](https://www.theguardian.com/us-news/2026/apr/24/trump-tariff-uk-digital-services-tax-warning)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [It&#39;s time to reclaim the word &quot;Palantir&quot; for JRR Tolkien](https://www.zig.art/p/its-time-to-reclaim-the-word-palantir)
-- [Borrow-checking without type-checking](https://www.scattered-thoughts.net/writing/borrow-checking-without-type-checking/)
-- [Flow Map Learning via Nongradient Vector Flow [pdf]](https://openreview.net/pdf?id=C1bkDPqvDW)
-- [Tempest vs. Tempest: The Making and Remaking of Atari&#39;s Iconic Video Game](https://tempest.homemade.systems)
-- [OpenAI&#39;s response to the Axios developer tool compromise](https://openai.com/index/axios-developer-tool-compromise/)
-- [Approximating Hyperbolic Tangent](https://jtomschroeder.com/blog/approximating-tanh/)
-- [Bring your own Agent to MS Teams](https://microsoft.github.io/teams-sdk/blog/bring-your-agent-to-teams/)
-- [The Neon King of New Orleans](https://gardenandgun.com/new-orleans-neon-king)
-- [Apple fixes bug that cops used to extract deleted chat messages from iPhones](https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/)
-- [The Illuminated Man: an unconventional portrait of JG Ballard](https://www.theguardian.com/books/2026/apr/20/the-illuminated-man-by-christopher-priest-and-nina-allan-review-an-unconventional-portrait-of-jg-ballard)
+- [Habitual coffee intake shapes the microbiome, modifies physiology and cognition](https://www.nature.com/articles/s41467-026-71264-8)
+- [A quick look at Mythos run on Firefox: too much hype?](https://xark.es/b/mythos-firefox-150)
+- [DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro)
+- [DeepSeek v4](https://api-docs.deepseek.com/)
+- [Why I Write &lpar;1946&rpar;](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/)
+- [Show HN: Tolaria – Open-source macOS app to manage Markdown knowledge bases](https://github.com/refactoringhq/tolaria)
+- [US special forces soldier arrested after allegedly winning $400k on Maduro raid](https://www.cnn.com/2026/04/23/politics/us-special-forces-soldier-arrested-maduro-raid-trade)
+- [TorchTPU: Running PyTorch Natively on TPUs at Google Scale](https://developers.googleblog.com/torchtpu-running-pytorch-natively-on-tpus-at-google-scale/)
+- [Using the internet like it&#39;s 1999](https://joshblais.com/blog/using-the-internet-like-its-1999/)
+- [Girl, 10, finds rare Mexican axolotl under Welsh bridge](https://www.bbc.com/news/articles/c9d4zgnqpqeo)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

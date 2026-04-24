@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [DragonRuby&#39;s Seventh Year – Where We Started and Where We&#39;re Going](https://dragonruby.itch.io/dragonruby-gtk/devlog/1497015/dragonrubys-seventh-year-where-we-started-and-where-were-going)
-- [Pokemon Red and the Evolution of FSM](https://www.makonea.com/en-US/blog/Pokemon-Red-and-the-Evolution-of-FSM)
-- [Hackers tricked Sri Lanka&#39;s Treasury into sending $2.5M to the wrong account](https://www.ft.lk/top-story/Treasury-rocked-by-2-5-m-fraud/26-791019)
-- [MartinLoop – The control plane for autonomous AI agents](https://github.com/Keesan12/martin-loop)
-- [In the age of AI, why do Australian company boards have few technology experts?](https://theconversation.com/in-the-age-of-ai-why-do-australian-company-boards-have-so-few-technology-experts-279752)
-- [Low Contrast UI Pandemic](https://news.ycombinator.com/item?id=47872206)
-- [A Boy That Cried Mythos: Verification Is Collapsing Trust in Anthropic](https://www.flyingpenguin.com/the-boy-that-cried-mythos-verification-is-collapsing-trust-in-anthropic/)
-- [Choose Boring Technology](https://mcfunley.com/choose-boring-technology)
-- [Show HN: MailScrub – terminal UI for bulk Gmail unsubscribing](https://github.com/brooksc/MailScrub)
-- [Search, Experience, Credence – classification of resources](https://en.wikipedia.org/wiki/SEC_classification_of_goods_and_services)
+- [Intel Arc Pro B70 Review](https://www.pugetsystems.com/labs/articles/intel-arc-pro-b70-review/)
+- [ASML&#39;s latest chipmaking gear is too pricey, even for TSMC](https://theedgemalaysia.com/node/800964)
+- [Intel Arc Pro B70 benchmarks for LLMs and video generation](https://github.com/PMZFX/intel-arc-pro-b70-benchmarks)
+- [DeepSeek&#39;s Sequel Set to Extend China&#39;s Reach in Open-Source A.I](https://www.nytimes.com/2026/04/24/business/china-ai-deepseek-open-source.html)
+- [Ubuntu 26.04 LTS Released](https://lwn.net/Articles/1069399/)
+- [AI Resume Reviewer](https://www.thehumancapitalhub.com/ai-resume-reviewer)
+- [Show HN: GitRails-Let agents call only the GitHub endpoints and params you allow](https://github.com/maxawzsinger/gitrails/blob/main/README.md)
+- [The AI Science Separation](https://www.thewirechina.com/2026/04/19/the-ai-science-separation/)
+- [We&#39;re Using So Much AI That Computing Firepower Is Running Out](https://www.wsj.com/tech/ai/ai-is-using-so-much-energy-that-computing-firepower-is-running-out-156e5c85)
+- [Grok Voice Think Fast 1.0](https://x.ai/news/grok-voice-think-fast-1)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

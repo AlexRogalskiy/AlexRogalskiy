@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [NFL draft 2026: Mendoza goes No 1 as Rams surprise with move for QB Ty Simpson at No 13](https://www.theguardian.com/sport/2026/apr/24/nfl-draft-2026-first-round-picks)
-- [Actor felt ‘mocked’ by Rebel Wilson’s wife in Instagram post referencing Finding Nemo, court hears](https://www.theguardian.com/film/2026/apr/24/actor-mocked-rebel-wilson-wife-instagram-post-defamation-trial-ntwnfb)
-- [‘I nearly quit to become a fencing teacher’: Iron Maiden on 50 years of heavy metal, hard living – and hopeless communication skills](https://www.theguardian.com/music/2026/apr/24/i-nearly-quit-to-become-a-fencing-teacher-iron-maiden-on-50-years-of-heavy-metal-hard-living-and-hopeless-communication-skills)
-- [Largest-ever ban on toxic chemicals in EU hit by ‘extremely frustrating’ delays](https://www.theguardian.com/environment/2026/apr/24/toxic-chemicals-eu-delays-pollution-report)
-- [Europe is in a profound state of crisis. Luckily, we know what to do | Nathalie Tocci and Anu Bradford](https://www.theguardian.com/commentisfree/2026/apr/24/europe-profound-state-of-crisis-assess-threats-remedy)
-- [Experience: I’ve won £1m on the lottery – twice](https://www.theguardian.com/lifeandstyle/2026/apr/24/experience-ive-won-1m-on-the-lottery-twice)
-- [In ‘deep shit’: tourist stranded in excrement for three hours after long-drop toilet collapses in Australian outback](https://www.theguardian.com/australia-news/2026/apr/24/in-deep-shit-tourist-stranded-waist-deep-in-excrement-for-three-hours-after-long-drop-toilet-collapses)
-- [How a simple consumer data breach spiralled into a national security crisis in US-South Korea relations](https://www.theguardian.com/world/2026/apr/24/coupang-data-breach-south-korea-us-relations)
-- [Trump claims US has total control over strait of Hormuz after Iran seizes two container ships](https://www.theguardian.com/us-news/2026/apr/23/trump-claims-us-has-total-control-over-strait-of-hormuz-as-iran-seizes-two-container-ships)
-- [Trump says he will ‘probably put a big tariff on the UK’ if it doesn’t drop digital services tax](https://www.theguardian.com/us-news/2026/apr/24/trump-tariff-uk-digital-services-tax-warning)
+- [Middle East crisis live: Witkoff and Kushner headed to Pakistan for Iran negotiations](https://www.theguardian.com/world/live/2026/apr/25/middle-east-crisis-live-witkoff-and-kushner-head-to-pakistan-for-iran-negotiations)
+- [Lily Allen’s ‘revenge’, Harry Styles’ Dorothy and Debbie Harry’s T-shirt – 20 onstage dresses ranked!](https://www.theguardian.com/fashion/2026/apr/25/lily-allen-revenge-harry-styles-dorothy-debbie-harry-t-shirt-20-onstage-dresses-ranked)
+- [Altman apologizes after OpenAI failed to alert police before fatal Canada shooting](https://www.theguardian.com/us-news/2026/apr/25/altman-apologizes-after-openai-failed-to-alert-police-before-fatal-canada-shooting)
+- [US military kills two more people in strike on alleged drug boat in Pacific](https://www.theguardian.com/us-news/2026/apr/24/us-military-strike-boat-pacific)
+- [UK position on Falklands will not change, No 10 says after leaked Pentagon memo](https://www.theguardian.com/uk-news/2026/apr/24/uk-position-falklands-unchanged-leaked-pentagon-memo)
+- [Ukraine war briefing: Zelenskyy holds talks in Azerbaijan, Saudi Arabia on ‘security and energy’](https://www.theguardian.com/world/2026/apr/25/ukraine-war-briefing-zelenskyy-holds-talks-in-azerbaijan-saudi-arabia-on-security-and-energy)
+- [Trump news at a glance: as president’s relations with Nato fray, EU leaders explore their options](https://www.theguardian.com/us-news/2026/apr/24/trump-news-at-a-glance-latest-updates-today)
+- [New global panel aims to accelerate move away from fossil fuels](https://www.theguardian.com/environment/2026/apr/25/new-global-panel-aims-to-accelerate-move-away-from-fossil-fuels)
+- [European football: Betis and Bellerín deny Real Madrid, Eta’s Union lose at Leipzig](https://www.theguardian.com/football/2026/apr/24/european-football-betis-real-madrid-leipzig-union-berlin-lens-napoli)
+- [Three boys and two men charged over rape of teenage girl in Kent](https://www.theguardian.com/uk-news/2026/apr/24/three-boys-and-two-men-charged-over-of-teenage-girl-in-kent)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

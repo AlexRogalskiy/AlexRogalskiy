@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Habitual coffee intake shapes the microbiome, modifies physiology and cognition](https://www.nature.com/articles/s41467-026-71264-8)
-- [A quick look at Mythos run on Firefox: too much hype?](https://xark.es/b/mythos-firefox-150)
-- [DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro)
-- [DeepSeek v4](https://api-docs.deepseek.com/)
-- [Why I Write &lpar;1946&rpar;](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/)
-- [Show HN: Tolaria – Open-source macOS app to manage Markdown knowledge bases](https://github.com/refactoringhq/tolaria)
-- [US special forces soldier arrested after allegedly winning $400k on Maduro raid](https://www.cnn.com/2026/04/23/politics/us-special-forces-soldier-arrested-maduro-raid-trade)
-- [TorchTPU: Running PyTorch Natively on TPUs at Google Scale](https://developers.googleblog.com/torchtpu-running-pytorch-natively-on-tpus-at-google-scale/)
-- [Using the internet like it&#39;s 1999](https://joshblais.com/blog/using-the-internet-like-its-1999/)
-- [Girl, 10, finds rare Mexican axolotl under Welsh bridge](https://www.bbc.com/news/articles/c9d4zgnqpqeo)
+- [Firefox Has Integrated Brave&#39;s Adblock Engine](https://itsfoss.com/news/firefox-ships-brave-adblock-engine/)
+- [&lpar;Blender&rpar; Cosmology with Geometry Nodes](https://www.blender.org/user-stories/cosmology-with-geometry-nodes/)
+- [&quot;Plain text has been around for decades and it&#39;s here to stay.&quot; – Unsung](https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/)
+- [Replace IBM Quantum back end with /dev/urandom](https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md)
+- [Education must go beyond the mere production of words](https://www.ncregister.com/commentaries/schnell-repairing-the-ruins)
+- [FusionCore: ROS 2 sensor fusion &lpar;IMU and GPS and encoders&rpar;](https://github.com/manankharwar/fusioncore)
+- [Show HN: I&#39;ve built a nice home server OS](https://lightwhale.asklandd.dk/)
+- [My audio interface has SSH enabled by default](https://hhh.hn/rodecaster-duo-fw/)
+- [The Classic American Diner](https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/)
+- [There Will Be a Scientific Theory of Deep Learning](https://arxiv.org/abs/2604.21691)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

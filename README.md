@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Intel Arc Pro B70 Review](https://www.pugetsystems.com/labs/articles/intel-arc-pro-b70-review/)
-- [ASML&#39;s latest chipmaking gear is too pricey, even for TSMC](https://theedgemalaysia.com/node/800964)
-- [Intel Arc Pro B70 benchmarks for LLMs and video generation](https://github.com/PMZFX/intel-arc-pro-b70-benchmarks)
-- [DeepSeek&#39;s Sequel Set to Extend China&#39;s Reach in Open-Source A.I](https://www.nytimes.com/2026/04/24/business/china-ai-deepseek-open-source.html)
-- [Ubuntu 26.04 LTS Released](https://lwn.net/Articles/1069399/)
-- [AI Resume Reviewer](https://www.thehumancapitalhub.com/ai-resume-reviewer)
-- [Show HN: GitRails-Let agents call only the GitHub endpoints and params you allow](https://github.com/maxawzsinger/gitrails/blob/main/README.md)
-- [The AI Science Separation](https://www.thewirechina.com/2026/04/19/the-ai-science-separation/)
-- [We&#39;re Using So Much AI That Computing Firepower Is Running Out](https://www.wsj.com/tech/ai/ai-is-using-so-much-energy-that-computing-firepower-is-running-out-156e5c85)
-- [Grok Voice Think Fast 1.0](https://x.ai/news/grok-voice-think-fast-1)
+- [Firebase Competitor hits 1.3M Session Replays](https://rejourney.co/engineering/2026-04-23/rejourney-1-3-million-session-replays)
+- [Turbo Vision 2.0 – a modern port](https://github.com/magiblot/tvision)
+- [Show HN: Built an AI that maps 17 facial dimensions and shows what to improve](https://realsmile.online)
+- [138k LOC removed from Linux kernel to defend against LLMs](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=64edfa65062dc4509ba75978116b2f6d392346f5)
+- [Show HN: Collaborative sentence builder with real-time voting](https://www.sentensus.com/)
+- [Explaining Projects Need to Scale](https://lowhangingdata.com/article/tool-job-fit/)
+- [ratarmount: Access large tarballs as a filesystem efficiently](https://github.com/mxmlnkn/ratarmount)
+- [Superfetation](https://en.wikipedia.org/wiki/Superfetation)
+- [When Your Digital Life Vanishes](https://www.newyorker.com/magazine/2026/04/27/when-your-digital-life-vanishes)
+- [I scraped Reddit for 51 founder complaints and turned them into 17 SaaS ideas](https://webmatrices.com/app-ideas)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

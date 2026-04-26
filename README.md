@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Firebase Competitor hits 1.3M Session Replays](https://rejourney.co/engineering/2026-04-23/rejourney-1-3-million-session-replays)
-- [Turbo Vision 2.0 – a modern port](https://github.com/magiblot/tvision)
-- [Show HN: Built an AI that maps 17 facial dimensions and shows what to improve](https://realsmile.online)
-- [138k LOC removed from Linux kernel to defend against LLMs](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=64edfa65062dc4509ba75978116b2f6d392346f5)
-- [Show HN: Collaborative sentence builder with real-time voting](https://www.sentensus.com/)
-- [Explaining Projects Need to Scale](https://lowhangingdata.com/article/tool-job-fit/)
-- [ratarmount: Access large tarballs as a filesystem efficiently](https://github.com/mxmlnkn/ratarmount)
-- [Superfetation](https://en.wikipedia.org/wiki/Superfetation)
-- [When Your Digital Life Vanishes](https://www.newyorker.com/magazine/2026/04/27/when-your-digital-life-vanishes)
-- [I scraped Reddit for 51 founder complaints and turned them into 17 SaaS ideas](https://webmatrices.com/app-ideas)
+- [What are some unforeseen / elusive edge cases you have seen in your career?](https://www.reddit.com/r/ExperiencedDevs/s/FIQYb1Fg8x)
+- [Get Free Picks Everyday. Best Sports Analysis App in Market](https://probaly.net/)
+- [Show HN: Browse GitHub repos in Emacs without cloning](https://github.com/agzam/remoto.el)
+- [Maine&#39;s governor vetoes data center moratorium](https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/)
+- [All About USB-C: Resistors and Emarkers &lpar;2023&rpar;](https://hackaday.com/2023/01/04/all-about-usb-c-resistors-and-emarkers/)
+- [I asked my local LLM to add 23 numbers and got seven wrong answers](https://viggy28.dev/article/local-llm-seven-wrong-answers/)
+- [Godot 4.7 Beta with HDR Output, Ray-Tracing Improvements and Editor Enhancements](https://www.phoronix.com/news/Godot-4.7-Beta)
+- [White House Correspondents&#39; Dinner shooting suspect worked as California teacher](https://www.cnn.com/2026/04/26/us/white-house-correspondents-dinner-shooter-teacher-invs)
+- [Show HN: RewardGuard – detect reward hacking in RL training loops](https://github.com/Giovan321/Reward-Guard)
+- [Electric trucks in China have ditched diesel, now they&#39;re ditching the driver](https://thedriven.io/2026/04/25/electric-trucks-in-china-have-already-ditched-diesel-now-theyre-ditching-the-driver/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

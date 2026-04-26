@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Middle East crisis live: Witkoff and Kushner headed to Pakistan for Iran negotiations](https://www.theguardian.com/world/live/2026/apr/25/middle-east-crisis-live-witkoff-and-kushner-head-to-pakistan-for-iran-negotiations)
-- [Lily Allen’s ‘revenge’, Harry Styles’ Dorothy and Debbie Harry’s T-shirt – 20 onstage dresses ranked!](https://www.theguardian.com/fashion/2026/apr/25/lily-allen-revenge-harry-styles-dorothy-debbie-harry-t-shirt-20-onstage-dresses-ranked)
-- [Altman apologizes after OpenAI failed to alert police before fatal Canada shooting](https://www.theguardian.com/us-news/2026/apr/25/altman-apologizes-after-openai-failed-to-alert-police-before-fatal-canada-shooting)
-- [US military kills two more people in strike on alleged drug boat in Pacific](https://www.theguardian.com/us-news/2026/apr/24/us-military-strike-boat-pacific)
-- [UK position on Falklands will not change, No 10 says after leaked Pentagon memo](https://www.theguardian.com/uk-news/2026/apr/24/uk-position-falklands-unchanged-leaked-pentagon-memo)
-- [Ukraine war briefing: Zelenskyy holds talks in Azerbaijan, Saudi Arabia on ‘security and energy’](https://www.theguardian.com/world/2026/apr/25/ukraine-war-briefing-zelenskyy-holds-talks-in-azerbaijan-saudi-arabia-on-security-and-energy)
-- [Trump news at a glance: as president’s relations with Nato fray, EU leaders explore their options](https://www.theguardian.com/us-news/2026/apr/24/trump-news-at-a-glance-latest-updates-today)
-- [New global panel aims to accelerate move away from fossil fuels](https://www.theguardian.com/environment/2026/apr/25/new-global-panel-aims-to-accelerate-move-away-from-fossil-fuels)
-- [European football: Betis and Bellerín deny Real Madrid, Eta’s Union lose at Leipzig](https://www.theguardian.com/football/2026/apr/24/european-football-betis-real-madrid-leipzig-union-berlin-lens-napoli)
-- [Three boys and two men charged over rape of teenage girl in Kent](https://www.theguardian.com/uk-news/2026/apr/24/three-boys-and-two-men-charged-over-of-teenage-girl-in-kent)
+- [Suspect ‘armed with knives and guns’ charged after shooting at White House correspondents’ dinner - follow live](https://www.theguardian.com/us-news/live/2026/apr/26/donald-trump-evacuated-from-white-house-correspondents-dinner-after-loud-bangs-heard-live)
+- [‘We went under the table screaming’: reactions from the White House correspondents’ dinner shooting](https://www.theguardian.com/us-news/2026/apr/25/white-house-correspondents-dinner-reactions)
+- [Teenagers are calling time on the handshake. I salute them, from a safe distance | Polly Hudson](https://www.theguardian.com/commentisfree/2026/apr/26/teenagers-are-calling-time-on-the-handshake-i-salute-them-from-a-safe-distance)
+- [Joe Turner’s Come and Gone review – August Wilson play makes uneven return to Broadway](https://www.theguardian.com/stage/2026/apr/26/joe-turners-come-and-gone-review-broadway)
+- [Ukraine war briefing: Zelenskyy signs agreement with Azerbaijan as death toll from Russian attacks rises to 10](https://www.theguardian.com/world/2026/apr/26/ukraine-war-briefing-zelenskyy-signs-agreement-with-azerbaijan-as-death-tolls-from-russian-attacks-rises-to-10)
+- [Ronnie O’Sullivan dominant as he takes big lead against John Higgins](https://www.theguardian.com/sport/2026/apr/25/mark-allen-beats-kyren-wilson-world-snooker-championship-ronnie-o-sullivan-john-higgins)
+- [Key figure in Mandelson vetting scandal will not give evidence before MPs](https://www.theguardian.com/politics/2026/apr/25/key-figure-in-mandelson-vetting-scandal-will-not-give-evidence-before-mps)
+- [Mikel Arteta criticises red card escapes for Newcastle’s Pope and City’s Khusanov](https://www.theguardian.com/football/2026/apr/25/angry-mikel-arteta-slams-red-card-decisions-after-arsenal-beat-newcastle)
+- [Militants and separatists launch coordinated attacks across Mali](https://www.theguardian.com/world/2026/apr/25/militants-and-separatists-launch-coordinated-attacks-across-mali)
+- [The moment I knew: The banana bread was terrible but seeing him baking made me fall for him](https://www.theguardian.com/lifeandstyle/2026/apr/25/relationships-moment-knew-candles-kiss-during-blackout)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Firefox Has Integrated Brave&#39;s Adblock Engine](https://itsfoss.com/news/firefox-ships-brave-adblock-engine/)
-- [&lpar;Blender&rpar; Cosmology with Geometry Nodes](https://www.blender.org/user-stories/cosmology-with-geometry-nodes/)
-- [&quot;Plain text has been around for decades and it&#39;s here to stay.&quot; – Unsung](https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/)
-- [Replace IBM Quantum back end with /dev/urandom](https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md)
-- [Education must go beyond the mere production of words](https://www.ncregister.com/commentaries/schnell-repairing-the-ruins)
-- [FusionCore: ROS 2 sensor fusion &lpar;IMU and GPS and encoders&rpar;](https://github.com/manankharwar/fusioncore)
-- [Show HN: I&#39;ve built a nice home server OS](https://lightwhale.asklandd.dk/)
-- [My audio interface has SSH enabled by default](https://hhh.hn/rodecaster-duo-fw/)
-- [The Classic American Diner](https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/)
-- [There Will Be a Scientific Theory of Deep Learning](https://arxiv.org/abs/2604.21691)
+- [A Home Made PBX](https://wandel.ca/homepage/pbx.html)
+- [EU Age Control: The trojan horse for digital IDs](https://juraj.bednar.io/en/blog-en/2026/04/17/eu-age-control-the-trojan-horse-for-digital-ids/)
+- [Reviving BrowserID in 2026](https://wakamoleguy.com/p/reviving-browserid-in-2026)
+- [Does Internet Advertising Work?](https://freakonomics.com/podcast/does-advertising-actually-work-part-2-digital-ep-441/)
+- [Tell HN: An app is silently installing itself on my iPhone every day](https://news.ycombinator.com/item?id=47906253)
+- [The Super Nintendo Cartridges](https://fabiensanglard.net/snes_carts/)
+- [Why has there been so little progress on Alzheimer&#39;s disease?](https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/)
+- [DeepSeek-V4 on Day 0: From Fast Inference to Verified RL with SGLang and Miles](https://www.lmsys.org/blog/2026-04-25-deepseek-v4/)
+- [USB Cheat Sheet &lpar;2022&rpar;](https://fabiensanglard.net/usbcheat/index.html)
+- [America&#39;s Geothermal Breakthrough](https://oilprice.com/Alternative-Energy/Geothermal-Energy/Americas-Geothermal-Breakthrough-Could-Unlock-a-150-Gigawatt-Energy-Revolution.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Suspect ‘armed with knives and guns’ charged after shooting at White House correspondents’ dinner - follow live](https://www.theguardian.com/us-news/live/2026/apr/26/donald-trump-evacuated-from-white-house-correspondents-dinner-after-loud-bangs-heard-live)
-- [‘We went under the table screaming’: reactions from the White House correspondents’ dinner shooting](https://www.theguardian.com/us-news/2026/apr/25/white-house-correspondents-dinner-reactions)
-- [Teenagers are calling time on the handshake. I salute them, from a safe distance | Polly Hudson](https://www.theguardian.com/commentisfree/2026/apr/26/teenagers-are-calling-time-on-the-handshake-i-salute-them-from-a-safe-distance)
-- [Joe Turner’s Come and Gone review – August Wilson play makes uneven return to Broadway](https://www.theguardian.com/stage/2026/apr/26/joe-turners-come-and-gone-review-broadway)
-- [Ukraine war briefing: Zelenskyy signs agreement with Azerbaijan as death toll from Russian attacks rises to 10](https://www.theguardian.com/world/2026/apr/26/ukraine-war-briefing-zelenskyy-signs-agreement-with-azerbaijan-as-death-tolls-from-russian-attacks-rises-to-10)
-- [Ronnie O’Sullivan dominant as he takes big lead against John Higgins](https://www.theguardian.com/sport/2026/apr/25/mark-allen-beats-kyren-wilson-world-snooker-championship-ronnie-o-sullivan-john-higgins)
-- [Key figure in Mandelson vetting scandal will not give evidence before MPs](https://www.theguardian.com/politics/2026/apr/25/key-figure-in-mandelson-vetting-scandal-will-not-give-evidence-before-mps)
-- [Mikel Arteta criticises red card escapes for Newcastle’s Pope and City’s Khusanov](https://www.theguardian.com/football/2026/apr/25/angry-mikel-arteta-slams-red-card-decisions-after-arsenal-beat-newcastle)
-- [Militants and separatists launch coordinated attacks across Mali](https://www.theguardian.com/world/2026/apr/25/militants-and-separatists-launch-coordinated-attacks-across-mali)
-- [The moment I knew: The banana bread was terrible but seeing him baking made me fall for him](https://www.theguardian.com/lifeandstyle/2026/apr/25/relationships-moment-knew-candles-kiss-during-blackout)
+- [Zombie politics is the new norm and Starmer’s dying premiership is the latest instalment | Nesrine Malik](https://www.theguardian.com/commentisfree/2026/apr/27/zombie-politics-keir-starmer-labour)
+- [There will be mud! Could my child &lpar;and buggy&rpar; survive a day at a sculpture park?](https://www.theguardian.com/artanddesign/2026/apr/27/children-art-exhibition-yorkshire-sculpture-park)
+- [‘I needed to be in that strange, flat place’: how an Orkney garden healed a writer](https://www.theguardian.com/environment/2026/apr/27/victoria-bennett-writer-garden-orkney-scotland-apothecary-sea)
+- [Phantoms of July review – interlocking tales hop across time in funny-quirky fable with a point](https://www.theguardian.com/film/2026/apr/27/phantoms-of-july-review)
+- [Dozens of toys recalled in the UK after asbestos found in play sand](https://www.theguardian.com/money/2026/apr/27/dozens-of-toys-recalled-in-the-uk-after-asbestos-found-in-play-sand)
+- [Four-fifths of UK mental health nurses say their workload is unmanageable](https://www.theguardian.com/society/2026/apr/27/four-fifths-uk-mental-health-nurses-say-workload-unmanageable)
+- [A pasta bake and a sumac salad: Sami Tamimi’s prep-ahead sharing recipes](https://www.theguardian.com/food/2026/apr/27/pasta-bake-sumac-salad-prep-ahead-recipes-sami-tamimi)
+- [Deadly Israeli attacks worsen Gaza’s water shortage crisis](https://www.theguardian.com/world/2026/apr/27/israeli-attacks-gaza-clean-water-shortage-crisis-disease-palestine)
+- [King Charles visits Trump: what are the potential pitfalls for the monarch?](https://www.theguardian.com/uk-news/2026/apr/27/king-charles-visits-trump-what-are-the-potential-pitfalls-for-the-monarch)
+- [‘Tracey Emin said they’re all about death’: Johnnie Shand Kydd on his dog-walk photographs – and capturing the hard-partying YBAs](https://www.theguardian.com/artanddesign/2026/apr/27/tracey-emin-johnnie-shand-kydd-dog-walk-photographs-ybas)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [What are some unforeseen / elusive edge cases you have seen in your career?](https://www.reddit.com/r/ExperiencedDevs/s/FIQYb1Fg8x)
-- [Get Free Picks Everyday. Best Sports Analysis App in Market](https://probaly.net/)
-- [Show HN: Browse GitHub repos in Emacs without cloning](https://github.com/agzam/remoto.el)
-- [Maine&#39;s governor vetoes data center moratorium](https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/)
-- [All About USB-C: Resistors and Emarkers &lpar;2023&rpar;](https://hackaday.com/2023/01/04/all-about-usb-c-resistors-and-emarkers/)
-- [I asked my local LLM to add 23 numbers and got seven wrong answers](https://viggy28.dev/article/local-llm-seven-wrong-answers/)
-- [Godot 4.7 Beta with HDR Output, Ray-Tracing Improvements and Editor Enhancements](https://www.phoronix.com/news/Godot-4.7-Beta)
-- [White House Correspondents&#39; Dinner shooting suspect worked as California teacher](https://www.cnn.com/2026/04/26/us/white-house-correspondents-dinner-shooter-teacher-invs)
-- [Show HN: RewardGuard – detect reward hacking in RL training loops](https://github.com/Giovan321/Reward-Guard)
-- [Electric trucks in China have ditched diesel, now they&#39;re ditching the driver](https://thedriven.io/2026/04/25/electric-trucks-in-china-have-already-ditched-diesel-now-theyre-ditching-the-driver/)
+- [Txtfold – summarize large files for LLMs](https://github.com/kristiandupont/txtfold)
+- [The Silencing Engine](https://kitchencloset.com/realstuff/essays/the_silencing_engine/)
+- [Show HN: ChatForm – Create an AI chat form in 1 minute](https://chatform.000ooo.ooo/)
+- [Draft&#39;s knowledge graph engine – deterministic codebase understanding for AI](https://www.getdraft.dev/blog/local-graph-engine/)
+- [Why the Future Doesn&#39;t Need US](https://web.archive.org/web/20160210081017/http://www.wired.com/2000/04/joy-2/)
+- [The Publishing Mystery That No One Wants to Talk About](https://www.theatlantic.com/books/2026/04/who-really-wrote-autistic-author-woody-brown-novel/686814/)
+- [AMD&#39;s Zen: Coming Back from the Dead](https://clamtech.org/?dest=zen1)
+- [Coyote vs. Acme &lpar;1990&rpar;](https://www.newyorker.com/magazine/1990/02/26/coyote-v-acme)
+- [Learning About FPGAs in Finance](https://www.semidesignjobs.com/blog/fpgas-in-finance-hft)
+- [Show HN: Another experiment with an Erdos problem and LLMs](https://news.ycombinator.com/item?id=47917671)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

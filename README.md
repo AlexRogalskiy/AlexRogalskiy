@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [A Home Made PBX](https://wandel.ca/homepage/pbx.html)
-- [EU Age Control: The trojan horse for digital IDs](https://juraj.bednar.io/en/blog-en/2026/04/17/eu-age-control-the-trojan-horse-for-digital-ids/)
-- [Reviving BrowserID in 2026](https://wakamoleguy.com/p/reviving-browserid-in-2026)
-- [Does Internet Advertising Work?](https://freakonomics.com/podcast/does-advertising-actually-work-part-2-digital-ep-441/)
-- [Tell HN: An app is silently installing itself on my iPhone every day](https://news.ycombinator.com/item?id=47906253)
-- [The Super Nintendo Cartridges](https://fabiensanglard.net/snes_carts/)
-- [Why has there been so little progress on Alzheimer&#39;s disease?](https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/)
-- [DeepSeek-V4 on Day 0: From Fast Inference to Verified RL with SGLang and Miles](https://www.lmsys.org/blog/2026-04-25-deepseek-v4/)
-- [USB Cheat Sheet &lpar;2022&rpar;](https://fabiensanglard.net/usbcheat/index.html)
-- [America&#39;s Geothermal Breakthrough](https://oilprice.com/Alternative-Energy/Geothermal-Energy/Americas-Geothermal-Breakthrough-Could-Unlock-a-150-Gigawatt-Energy-Revolution.html)
+- [The Prompt API](https://developer.chrome.com/docs/ai/prompt-api)
+- [EvanFlow – A TDD driven feedback loop for Claude Code](https://github.com/evanklem/evanflow)
+- [TurboQuant: A First-Principles Walkthrough](https://arkaung.github.io/interactive-turboquant/)
+- [Google banks on AI edge to catch up to cloud rivals Amazon and Microsoft](https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c)
+- [FreeBSD Device Drivers Book](https://github.com/ebrandi/FDD-book)
+- [Butterflies are in decline across North America, a look at the Western Monarch](https://www.smithsonianmag.com/science-nature/butterflies-are-in-dramatic-decline-across-north-america-a-close-look-at-the-western-monarch-shows-why-180988582/)
+- [Show HN: AI memory with biological decay &lpar;52% recall&rpar;](https://github.com/sachitrafa/YourMemory)
+- [Sawe becomes first athlete to run a sub-two-hour marathon in a competitive race](https://www.bbc.com/sport/athletics/articles/crm1m7e0zwzo)
+- [I bought Friendster for $30k – Here&#39;s what I&#39;m doing with it](https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d)
+- [MoQ Boy](https://moq.dev/blog/moq-boy/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

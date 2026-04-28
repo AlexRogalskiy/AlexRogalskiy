@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Txtfold – summarize large files for LLMs](https://github.com/kristiandupont/txtfold)
-- [The Silencing Engine](https://kitchencloset.com/realstuff/essays/the_silencing_engine/)
-- [Show HN: ChatForm – Create an AI chat form in 1 minute](https://chatform.000ooo.ooo/)
-- [Draft&#39;s knowledge graph engine – deterministic codebase understanding for AI](https://www.getdraft.dev/blog/local-graph-engine/)
-- [Why the Future Doesn&#39;t Need US](https://web.archive.org/web/20160210081017/http://www.wired.com/2000/04/joy-2/)
-- [The Publishing Mystery That No One Wants to Talk About](https://www.theatlantic.com/books/2026/04/who-really-wrote-autistic-author-woody-brown-novel/686814/)
-- [AMD&#39;s Zen: Coming Back from the Dead](https://clamtech.org/?dest=zen1)
-- [Coyote vs. Acme &lpar;1990&rpar;](https://www.newyorker.com/magazine/1990/02/26/coyote-v-acme)
-- [Learning About FPGAs in Finance](https://www.semidesignjobs.com/blog/fpgas-in-finance-hft)
-- [Show HN: Another experiment with an Erdos problem and LLMs](https://news.ycombinator.com/item?id=47917671)
+- [What Claude Shannon Knew in 1950 That We&#39;re Pretending Is New](https://www.thecontentwrangler.com/p/what-claude-shannon-knew-in-1950)
+- [Billionaire tax proposal in California on track to qualify for ballot](https://www.boston25news.com/news/national/billionaire-tax/CB6SLQIFI42VDPRJQ37OBMS4TY/)
+- [Nvidia&#39;s Reaches New Record at Nearly $5.3T Value](https://www.forbes.com/sites/antoniopequenoiv/2026/04/27/nvidia-sets-new-record-with-nearly-53-trillion-value-after-ai-darling-surges-4/)
+- [Ideavalu – AI generates startup ideas based on your esperience](https://www.ideavalu.com)
+- [Nocord HF – A discord style FT8 client written in Golang](https://github.com/kyleomalley/nocordhf)
+- [A new Moore&#39;s Law for AI agents](https://theaidigest.org/time-horizons)
+- [The Technological Republic, in brief](https://twitter.com/PalantirTech/status/2045574398573453312)
+- [Gardens, Not Roads: Cultivating Open Source Communities](https://tarakiyee.com/gardens-not-roads-cultivating-open-source-communities/)
+- [Peerloop – Review three products, get three reviews on yours](https://peerloop.xyz/)
+- [HNSW vector search beyond available RAM for ESP32P4](https://github.com/brunokeymolen/nn20db-sdk)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

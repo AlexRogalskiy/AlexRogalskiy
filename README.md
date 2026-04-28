@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Zombie politics is the new norm and Starmer’s dying premiership is the latest instalment | Nesrine Malik](https://www.theguardian.com/commentisfree/2026/apr/27/zombie-politics-keir-starmer-labour)
-- [There will be mud! Could my child &lpar;and buggy&rpar; survive a day at a sculpture park?](https://www.theguardian.com/artanddesign/2026/apr/27/children-art-exhibition-yorkshire-sculpture-park)
-- [‘I needed to be in that strange, flat place’: how an Orkney garden healed a writer](https://www.theguardian.com/environment/2026/apr/27/victoria-bennett-writer-garden-orkney-scotland-apothecary-sea)
-- [Phantoms of July review – interlocking tales hop across time in funny-quirky fable with a point](https://www.theguardian.com/film/2026/apr/27/phantoms-of-july-review)
-- [Dozens of toys recalled in the UK after asbestos found in play sand](https://www.theguardian.com/money/2026/apr/27/dozens-of-toys-recalled-in-the-uk-after-asbestos-found-in-play-sand)
-- [Four-fifths of UK mental health nurses say their workload is unmanageable](https://www.theguardian.com/society/2026/apr/27/four-fifths-uk-mental-health-nurses-say-workload-unmanageable)
-- [A pasta bake and a sumac salad: Sami Tamimi’s prep-ahead sharing recipes](https://www.theguardian.com/food/2026/apr/27/pasta-bake-sumac-salad-prep-ahead-recipes-sami-tamimi)
-- [Deadly Israeli attacks worsen Gaza’s water shortage crisis](https://www.theguardian.com/world/2026/apr/27/israeli-attacks-gaza-clean-water-shortage-crisis-disease-palestine)
-- [King Charles visits Trump: what are the potential pitfalls for the monarch?](https://www.theguardian.com/uk-news/2026/apr/27/king-charles-visits-trump-what-are-the-potential-pitfalls-for-the-monarch)
-- [‘Tracey Emin said they’re all about death’: Johnnie Shand Kydd on his dog-walk photographs – and capturing the hard-partying YBAs](https://www.theguardian.com/artanddesign/2026/apr/27/tracey-emin-johnnie-shand-kydd-dog-walk-photographs-ybas)
+- [Media freedom ‘under sustained attack’ across EU as public trust drops, report finds](https://www.theguardian.com/media/2026/apr/28/media-freedom-under-sustained-attack-across-eu-as-public-trust-drops-report-finds)
+- [Welsh Labour faces ‘existential’ change as party braces for May election defeat](https://www.theguardian.com/politics/2026/apr/28/welsh-labour-may-elections-senedd-plaid-cymru-reform-uk)
+- [‘Shortcomings and failures’ could sink Aukus nuclear submarines plan, UK inquiry warns](https://www.theguardian.com/world/2026/apr/28/aukus-nuclear-submarines-funding-uk-inquiry)
+- [Victorian Society publishes list of most endangered buildings in England and Wales](https://www.theguardian.com/artanddesign/2026/apr/28/most-endangered-buildings-list-england-wales-victorian-society)
+- [‘The doorbell went at 5am. Six masked men were outside’: Belarus Free Theatre bring totalitarian terror to the Venice Biennale](https://www.theguardian.com/artanddesign/2026/apr/28/belarus-free-theatre-venice-biennale)
+- [Giorgia Meloni clung to her relationship with Trump – now it’s starting to look like a liability | Riccardo Alcaro](https://www.theguardian.com/commentisfree/2026/apr/28/giorgia-meloni-donald-trump-italian-prime-minister-europe-us-iran-war)
+- [Rachel Reeves’s fiscal rules buffer should be ‘significantly larger’, say peers](https://www.theguardian.com/business/2026/apr/28/rachel-reevess-fiscal-rules-buffer-should-be-significantly-larger-say-peers)
+- [What is a food intolerance, and how do you know if you have one? – podcast](https://www.theguardian.com/science/audio/2026/apr/28/what-is-a-food-intolerance-and-how-do-you-know-if-you-have-one-podcast)
+- [Asian mothers, bad feelings: notes on an all-conquering stereotype](https://www.theguardian.com/lifeandstyle/2026/apr/28/asian-mothers-bad-feelings-tiger-mom-stereotype)
+- [Israel’s direction poses ‘existential threat’ to Judaism, UK’s leading progressive rabbis warn](https://www.theguardian.com/world/2026/apr/28/israels-direction-poses-existential-threat-to-judaism-uks-leading-progressive-rabbis-warn)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

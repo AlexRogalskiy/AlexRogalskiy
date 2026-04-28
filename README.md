@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The Prompt API](https://developer.chrome.com/docs/ai/prompt-api)
-- [EvanFlow – A TDD driven feedback loop for Claude Code](https://github.com/evanklem/evanflow)
-- [TurboQuant: A First-Principles Walkthrough](https://arkaung.github.io/interactive-turboquant/)
-- [Google banks on AI edge to catch up to cloud rivals Amazon and Microsoft](https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c)
-- [FreeBSD Device Drivers Book](https://github.com/ebrandi/FDD-book)
-- [Butterflies are in decline across North America, a look at the Western Monarch](https://www.smithsonianmag.com/science-nature/butterflies-are-in-dramatic-decline-across-north-america-a-close-look-at-the-western-monarch-shows-why-180988582/)
-- [Show HN: AI memory with biological decay &lpar;52% recall&rpar;](https://github.com/sachitrafa/YourMemory)
-- [Sawe becomes first athlete to run a sub-two-hour marathon in a competitive race](https://www.bbc.com/sport/athletics/articles/crm1m7e0zwzo)
-- [I bought Friendster for $30k – Here&#39;s what I&#39;m doing with it](https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d)
-- [MoQ Boy](https://moq.dev/blog/moq-boy/)
+- [San Francisco, AI capital of the world, is an economic laggard](https://www.economist.com/finance-and-economics/2026/04/26/san-francisco-ai-capital-of-the-world-is-an-economic-laggard)
+- [LingBot-Map: Streaming 3D reconstruction with geometric context transformer](https://technology.robbyant.com/lingbot-map)
+- [Show HN: AgentSwift – Open-source iOS builder agent](https://github.com/hpennington/agentswift)
+- [Ted Nyman – High Performance Git](https://gitperf.com/)
+- [Integrated by Design](https://vivianvoss.net/blog/integrated-by-design-launch)
+- [Talkie: a 13B vintage language model from 1930](https://talkie-lm.com/introducing-talkie)
+- [Three men are facing charges in Toronto SMS Blaster arrests](https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/)
+- [Is my blue your blue?](https://ismy.blue/)
+- [Super ZSNES – GPU Powered SNES Emulator](https://zsnes.com/)
+- [Easyduino: Open Source PCB Devboards for KiCad](https://github.com/Hanqaqa/Easyduino)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

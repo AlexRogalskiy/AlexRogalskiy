@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [San Francisco, AI capital of the world, is an economic laggard](https://www.economist.com/finance-and-economics/2026/04/26/san-francisco-ai-capital-of-the-world-is-an-economic-laggard)
-- [LingBot-Map: Streaming 3D reconstruction with geometric context transformer](https://technology.robbyant.com/lingbot-map)
-- [Show HN: AgentSwift – Open-source iOS builder agent](https://github.com/hpennington/agentswift)
-- [Ted Nyman – High Performance Git](https://gitperf.com/)
-- [Integrated by Design](https://vivianvoss.net/blog/integrated-by-design-launch)
-- [Talkie: a 13B vintage language model from 1930](https://talkie-lm.com/introducing-talkie)
-- [Three men are facing charges in Toronto SMS Blaster arrests](https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/)
-- [Is my blue your blue?](https://ismy.blue/)
-- [Super ZSNES – GPU Powered SNES Emulator](https://zsnes.com/)
-- [Easyduino: Open Source PCB Devboards for KiCad](https://github.com/Hanqaqa/Easyduino)
+- [Bugs Rust won&#39;t catch](https://corrode.dev/blog/bugs-rust-wont-catch/)
+- [When the Internet Was a Place](https://www.frontporchrepublic.com/2025/09/when-the-internet-was-a-place/)
+- [We decreased our LLM costs with Opus](https://www.mendral.com/blog/frontier-model-lower-costs)
+- [Regression: malware reminder on every read still causes subagent refusals](https://github.com/anthropics/claude-code/issues/49363)
+- [How ChatGPT serves ads](https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/)
+- [Claude for Creative Work](https://www.anthropic.com/news/claude-for-creative-work)
+- [Apple CMF &lpar;Color-Matching Functions&rpar; 2026](https://www.lttlabs.com/articles/2026/04/11/apple-studio-display-xdr-display-testing-results)
+- [Before GitHub](https://lucumr.pocoo.org/2026/4/28/before-github/)
+- [I won a championship that doesn&#39;t exist](https://ron.stoner.com/How_I_Won_a_Championship_That_Doesnt_Exist/)
+- [Ghostty is leaving GitHub](https://mitchellh.com/writing/ghostty-leaving-github)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

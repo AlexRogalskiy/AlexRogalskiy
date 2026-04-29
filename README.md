@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Media freedom ‘under sustained attack’ across EU as public trust drops, report finds](https://www.theguardian.com/media/2026/apr/28/media-freedom-under-sustained-attack-across-eu-as-public-trust-drops-report-finds)
-- [Welsh Labour faces ‘existential’ change as party braces for May election defeat](https://www.theguardian.com/politics/2026/apr/28/welsh-labour-may-elections-senedd-plaid-cymru-reform-uk)
-- [‘Shortcomings and failures’ could sink Aukus nuclear submarines plan, UK inquiry warns](https://www.theguardian.com/world/2026/apr/28/aukus-nuclear-submarines-funding-uk-inquiry)
-- [Victorian Society publishes list of most endangered buildings in England and Wales](https://www.theguardian.com/artanddesign/2026/apr/28/most-endangered-buildings-list-england-wales-victorian-society)
-- [‘The doorbell went at 5am. Six masked men were outside’: Belarus Free Theatre bring totalitarian terror to the Venice Biennale](https://www.theguardian.com/artanddesign/2026/apr/28/belarus-free-theatre-venice-biennale)
-- [Giorgia Meloni clung to her relationship with Trump – now it’s starting to look like a liability | Riccardo Alcaro](https://www.theguardian.com/commentisfree/2026/apr/28/giorgia-meloni-donald-trump-italian-prime-minister-europe-us-iran-war)
-- [Rachel Reeves’s fiscal rules buffer should be ‘significantly larger’, say peers](https://www.theguardian.com/business/2026/apr/28/rachel-reevess-fiscal-rules-buffer-should-be-significantly-larger-say-peers)
-- [What is a food intolerance, and how do you know if you have one? – podcast](https://www.theguardian.com/science/audio/2026/apr/28/what-is-a-food-intolerance-and-how-do-you-know-if-you-have-one-podcast)
-- [Asian mothers, bad feelings: notes on an all-conquering stereotype](https://www.theguardian.com/lifeandstyle/2026/apr/28/asian-mothers-bad-feelings-tiger-mom-stereotype)
-- [Israel’s direction poses ‘existential threat’ to Judaism, UK’s leading progressive rabbis warn](https://www.theguardian.com/world/2026/apr/28/israels-direction-poses-existential-threat-to-judaism-uks-leading-progressive-rabbis-warn)
+- [In the coming AI future, Britain must not end up at the mercy of US tech giants | Rafael Behr](https://www.theguardian.com/commentisfree/2026/apr/29/ai-panic-uk-government-us-dependent-technology-trump)
+- [‘People assume we’re grifters’: disabled Britons report rise in abuse over blue badges](https://www.theguardian.com/world/2026/apr/29/disabled-britons-report-rise-in-abuse-blue-badges)
+- [Babies exposed to air pollution during pregnancy take longer to learn to speak, research finds](https://www.theguardian.com/environment/2026/apr/29/babies-exposed-to-air-pollution-during-pregnancy-take-longer-to-learn-to-speak-research-finds)
+- [Urban areas host 80% of England’s homes at high risk of flooding, study finds](https://www.theguardian.com/environment/2026/apr/29/england-homes-high-risk-flooding-towns-cities-urban-environment-study)
+- [Tagine pasta and spicy, slow-cooked lamb: Nargisse Benkabbou’s recipes for a Moroccan feast](https://www.theguardian.com/food/2026/apr/29/tagine-pasta-spicy-slow-cooked-lamb-moroccan-feast-recipes-nargisse-benkabbou)
+- [New Zealand officials reject ‘comfort women’ statue after objections from Japan](https://www.theguardian.com/world/2026/apr/29/new-zealand-japanese-comfort-women-statue)
+- [Earlier specialised care could prevent 10,000 miscarriages a year, UK study finds](https://www.theguardian.com/society/2026/apr/29/miscarriages-graded-specialised-care-uk-study)
+- [‘It’ll be in my Guardian obituary’: David Balfe on inspiring Blur’s Country House and tripping on Top of the Pops](https://www.theguardian.com/music/2026/apr/29/dave-balfe-inspiring-blur-country-house-tripping-top-of-the-pops)
+- [All the right moves! 17 personal trainers on the exercise they always recommend – from planks to face pulls](https://www.theguardian.com/lifeandstyle/2026/apr/29/17-personal-trainers-exercise-they-always-recommend-planks-face-pulls)
+- [Widow’s Bay review – Matthew Rhys’ intoxicating comedy-horror is an absolute blast](https://www.theguardian.com/tv-and-radio/2026/apr/29/widows-bay-review-matthew-rhys-intoxicating-comedy-horror-is-an-absolute-blast)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

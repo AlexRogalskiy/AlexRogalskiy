@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [What Claude Shannon Knew in 1950 That We&#39;re Pretending Is New](https://www.thecontentwrangler.com/p/what-claude-shannon-knew-in-1950)
-- [Billionaire tax proposal in California on track to qualify for ballot](https://www.boston25news.com/news/national/billionaire-tax/CB6SLQIFI42VDPRJQ37OBMS4TY/)
-- [Nvidia&#39;s Reaches New Record at Nearly $5.3T Value](https://www.forbes.com/sites/antoniopequenoiv/2026/04/27/nvidia-sets-new-record-with-nearly-53-trillion-value-after-ai-darling-surges-4/)
-- [Ideavalu – AI generates startup ideas based on your esperience](https://www.ideavalu.com)
-- [Nocord HF – A discord style FT8 client written in Golang](https://github.com/kyleomalley/nocordhf)
-- [A new Moore&#39;s Law for AI agents](https://theaidigest.org/time-horizons)
-- [The Technological Republic, in brief](https://twitter.com/PalantirTech/status/2045574398573453312)
-- [Gardens, Not Roads: Cultivating Open Source Communities](https://tarakiyee.com/gardens-not-roads-cultivating-open-source-communities/)
-- [Peerloop – Review three products, get three reviews on yours](https://peerloop.xyz/)
-- [HNSW vector search beyond available RAM for ESP32P4](https://github.com/brunokeymolen/nn20db-sdk)
+- [$2,500 bug bounty for real-world AI misalignment](https://github.com/Hodlatoor/SyntheticOutlaw/)
+- [Tech is in turmoil but the rest of corporate America isn&#39;t](https://fortune.com/2026/04/28/tech-layoffs-ai-disruption-corporate-america-doesnt-one-silicon-valley-ceo-knows-why/)
+- [Mistral Workflows: durable AI orchestration built on Temporal](https://mistral.ai/news/workflows)
+- [RingCore – a minimal async runtime built on io_uring](https://crates.io/crates/ringcore)
+- [The unflattering secrets revealed so far in Elon Musk&#39;s latest legal feud](https://www.washingtonpost.com/technology/2026/04/23/musk-altman-lawsuit-trial-openai/)
+- [Complexity in a Systems Engineering Context&lpar;2019&rpar; [pdf]](https://www.sei.cmu.edu/documents/4245/2019_017_001_552583.pdf)
+- [The Downgrading of the American Tech Worker](https://nymag.com/intelligencer/article/after-layoffs-meta-is-training-ai-on-its-own-workers.html)
+- [Perplexity Builds Accuracy into Frontier AI](https://www.perplexity.ai/hub/blog/how-perplexity-builds-accuracy-into-frontier-ai)
+- [PTP/1.0 – Prompt Transport Protocol](https://gpt.gekko.de/ptp-prompt-transport-protocol-rfc/)
+- [pnpm v11 Released](https://pnpm.io/blog/releases/11.0)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

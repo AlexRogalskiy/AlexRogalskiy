@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [In the coming AI future, Britain must not end up at the mercy of US tech giants | Rafael Behr](https://www.theguardian.com/commentisfree/2026/apr/29/ai-panic-uk-government-us-dependent-technology-trump)
-- [‘People assume we’re grifters’: disabled Britons report rise in abuse over blue badges](https://www.theguardian.com/world/2026/apr/29/disabled-britons-report-rise-in-abuse-blue-badges)
-- [Babies exposed to air pollution during pregnancy take longer to learn to speak, research finds](https://www.theguardian.com/environment/2026/apr/29/babies-exposed-to-air-pollution-during-pregnancy-take-longer-to-learn-to-speak-research-finds)
-- [Urban areas host 80% of England’s homes at high risk of flooding, study finds](https://www.theguardian.com/environment/2026/apr/29/england-homes-high-risk-flooding-towns-cities-urban-environment-study)
-- [Tagine pasta and spicy, slow-cooked lamb: Nargisse Benkabbou’s recipes for a Moroccan feast](https://www.theguardian.com/food/2026/apr/29/tagine-pasta-spicy-slow-cooked-lamb-moroccan-feast-recipes-nargisse-benkabbou)
-- [New Zealand officials reject ‘comfort women’ statue after objections from Japan](https://www.theguardian.com/world/2026/apr/29/new-zealand-japanese-comfort-women-statue)
-- [Earlier specialised care could prevent 10,000 miscarriages a year, UK study finds](https://www.theguardian.com/society/2026/apr/29/miscarriages-graded-specialised-care-uk-study)
-- [‘It’ll be in my Guardian obituary’: David Balfe on inspiring Blur’s Country House and tripping on Top of the Pops](https://www.theguardian.com/music/2026/apr/29/dave-balfe-inspiring-blur-country-house-tripping-top-of-the-pops)
-- [All the right moves! 17 personal trainers on the exercise they always recommend – from planks to face pulls](https://www.theguardian.com/lifeandstyle/2026/apr/29/17-personal-trainers-exercise-they-always-recommend-planks-face-pulls)
-- [Widow’s Bay review – Matthew Rhys’ intoxicating comedy-horror is an absolute blast](https://www.theguardian.com/tv-and-radio/2026/apr/29/widows-bay-review-matthew-rhys-intoxicating-comedy-horror-is-an-absolute-blast)
+- [The Rendlesham Forest mystery: ‘It’s the perfect storm of a UFO case’](https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case)
+- [Simply divine: the extraordinary supernatural visions of Francisco de Zurbarán](https://www.theguardian.com/artanddesign/2026/apr/30/simply-divine-the-extraordinary-supernatural-visions-of-francisco-de-zurbaran)
+- [Sub-two-hour marathon, spooky houses explained and why is UK health in decline? – podcast](https://www.theguardian.com/science/audio/2026/apr/30/sub-two-hour-marathon-spooky-houses-explained-and-why-is-uk-health-in-decline-podcast)
+- [As a Ukrainian journalist, I’ve covered the US for 20 years. I find it increasingly shocking](https://www.theguardian.com/world/2026/apr/30/as-a-ukrainian-journalist-ive-covered-the-us-for-20-years-i-find-it-increasingly-shocking)
+- [I took an algorithm to court in Sweden. The algorithm won | Charlotta Kronblad](https://www.theguardian.com/commentisfree/2026/apr/30/i-took-an-algorithm-to-court-in-sweden-the-algorithm-won)
+- [Return of Aparicio painting to Prado exemplifies trajectory of human taste](https://www.theguardian.com/artanddesign/2026/apr/30/return-aparicio-painting-prado-year-famine-madrid-spain-exhibition)
+- [US father and daughter admit selling fake Picasso and Banksy works, duping art world](https://www.theguardian.com/us-news/2026/apr/30/father-daughter-fake-picasso-warhol-banksy-artworks)
+- [Christchurch gunman fails in bid to appeal against guilty pleas in New Zealand court](https://www.theguardian.com/world/2026/apr/30/christchurch-gunman-shooter-mosque-attacker-appeal-fails-ntwnfb)
+- [Oil price hits wartime high after Trump warns Iran blockade could last ‘months’](https://www.theguardian.com/world/2026/apr/30/oil-price-news-highest-since-2022-us-iran-ceasefire-strait-of-hormuz)
+- [Bondi royal commission: report calls for better policing of Jewish festivals after ‘high’ terror risk flagged for Hanukah event](https://www.theguardian.com/australia-news/2026/apr/30/bondi-beach-antisemitism-royal-commission-findings-ntwnfb)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

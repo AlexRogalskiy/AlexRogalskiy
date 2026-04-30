@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [$2,500 bug bounty for real-world AI misalignment](https://github.com/Hodlatoor/SyntheticOutlaw/)
-- [Tech is in turmoil but the rest of corporate America isn&#39;t](https://fortune.com/2026/04/28/tech-layoffs-ai-disruption-corporate-america-doesnt-one-silicon-valley-ceo-knows-why/)
-- [Mistral Workflows: durable AI orchestration built on Temporal](https://mistral.ai/news/workflows)
-- [RingCore – a minimal async runtime built on io_uring](https://crates.io/crates/ringcore)
-- [The unflattering secrets revealed so far in Elon Musk&#39;s latest legal feud](https://www.washingtonpost.com/technology/2026/04/23/musk-altman-lawsuit-trial-openai/)
-- [Complexity in a Systems Engineering Context&lpar;2019&rpar; [pdf]](https://www.sei.cmu.edu/documents/4245/2019_017_001_552583.pdf)
-- [The Downgrading of the American Tech Worker](https://nymag.com/intelligencer/article/after-layoffs-meta-is-training-ai-on-its-own-workers.html)
-- [Perplexity Builds Accuracy into Frontier AI](https://www.perplexity.ai/hub/blog/how-perplexity-builds-accuracy-into-frontier-ai)
-- [PTP/1.0 – Prompt Transport Protocol](https://gpt.gekko.de/ptp-prompt-transport-protocol-rfc/)
-- [pnpm v11 Released](https://pnpm.io/blog/releases/11.0)
+- [Queen Camilla Unites Winnie-the-Pooh with a Long-Lost Friend](https://www.nytimes.com/2026/04/29/books/queen-camilla-winnie-the-pooh.html)
+- [Collective Speed Is Not the Summation of Individual Speed](https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/)
+- [Free Solar Radiation, Heat Flux,Temperature,Humidity Data from Dtdss Algorithm](https://cloud.fiaos.org/data/)
+- [Copy Fail: 732 Bytes to Root on Every Major Linux Distribution](https://xint.io/blog/copy-fail-linux-distributions)
+- [What it takes to transpose a matrix](https://gudok.xyz/transpose/)
+- [Meta&#39;s multi-billion-dollar Graviton deal](https://www.tomshardware.com/tech-industry/artificial-intelligence/metas-multi-billion-dollar-graviton-deal-exposes-new-bottleneck-in-ai-infrastructure)
+- [Tell HN: VS Code v1.117.0 automatically adds GitHub Copilot as your co author](https://news.ycombinator.com/item?id=47958353)
+- [Incompressible Knowledge Probes: Measuring what frontier models know](https://01.me/research/ikp/)
+- [Humanoid Robots Will Work as Baggage Handlers at Tokyo Airport](https://www.engadget.com/2160602/humanoid-robots-will-work-as-baggage-handlers-at-tokyo-airport/)
+- [Iran Proposes Bitcoin Oil Toll](https://decrypt.co/363641/iran-bitcoin-payments-oil-ships-seeking-hormuz-passage)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

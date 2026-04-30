@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Bugs Rust won&#39;t catch](https://corrode.dev/blog/bugs-rust-wont-catch/)
-- [When the Internet Was a Place](https://www.frontporchrepublic.com/2025/09/when-the-internet-was-a-place/)
-- [We decreased our LLM costs with Opus](https://www.mendral.com/blog/frontier-model-lower-costs)
-- [Regression: malware reminder on every read still causes subagent refusals](https://github.com/anthropics/claude-code/issues/49363)
-- [How ChatGPT serves ads](https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/)
-- [Claude for Creative Work](https://www.anthropic.com/news/claude-for-creative-work)
-- [Apple CMF &lpar;Color-Matching Functions&rpar; 2026](https://www.lttlabs.com/articles/2026/04/11/apple-studio-display-xdr-display-testing-results)
-- [Before GitHub](https://lucumr.pocoo.org/2026/4/28/before-github/)
-- [I won a championship that doesn&#39;t exist](https://ron.stoner.com/How_I_Won_a_Championship_That_Doesnt_Exist/)
-- [Ghostty is leaving GitHub](https://mitchellh.com/writing/ghostty-leaving-github)
+- [Monad Tutorials Timeline](https://wiki.haskell.org/Monad_tutorials_timeline)
+- [Biology is a Burrito: A text- and visual-based journey through a living cell](https://burrito.bio/essays/biology-is-a-burrito)
+- [Where the goblins came from](https://openai.com/index/where-the-goblins-came-from/)
+- [Finetuning Activates Verbatim Recall of Copyrighted Books in LLMs](https://github.com/cauchy221/Alignment-Whack-a-Mole-Code)
+- [Functional Programmers need to take a look at Zig](https://pure-systems.org/posts/2026-04-29-functional-programmers-need-to-take-a-look-at-zig.html)
+- [The Zig project&#39;s rationale for their firm anti-AI contribution policy](https://simonwillison.net/2026/Apr/30/zig-anti-ai/)
+- [A Grounded Conceptual Model for Ownership Types in Rust](https://cacm.acm.org/research-highlights/a-grounded-conceptual-model-for-ownership-types-in-rust/)
+- [Craig Venter has died](https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79)
+- [Joby kicks off NYC electric air taxi demos with historic JFK flight](https://www.flyingmag.com/joby-nyc-electric-air-taxi-jfk-airport/)
+- [Mike: open-source legal AI](https://mikeoss.com/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

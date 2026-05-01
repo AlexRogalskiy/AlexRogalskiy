@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Queen Camilla Unites Winnie-the-Pooh with a Long-Lost Friend](https://www.nytimes.com/2026/04/29/books/queen-camilla-winnie-the-pooh.html)
-- [Collective Speed Is Not the Summation of Individual Speed](https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/)
-- [Free Solar Radiation, Heat Flux,Temperature,Humidity Data from Dtdss Algorithm](https://cloud.fiaos.org/data/)
-- [Copy Fail: 732 Bytes to Root on Every Major Linux Distribution](https://xint.io/blog/copy-fail-linux-distributions)
-- [What it takes to transpose a matrix](https://gudok.xyz/transpose/)
-- [Meta&#39;s multi-billion-dollar Graviton deal](https://www.tomshardware.com/tech-industry/artificial-intelligence/metas-multi-billion-dollar-graviton-deal-exposes-new-bottleneck-in-ai-infrastructure)
-- [Tell HN: VS Code v1.117.0 automatically adds GitHub Copilot as your co author](https://news.ycombinator.com/item?id=47958353)
-- [Incompressible Knowledge Probes: Measuring what frontier models know](https://01.me/research/ikp/)
-- [Humanoid Robots Will Work as Baggage Handlers at Tokyo Airport](https://www.engadget.com/2160602/humanoid-robots-will-work-as-baggage-handlers-at-tokyo-airport/)
-- [Iran Proposes Bitcoin Oil Toll](https://decrypt.co/363641/iran-bitcoin-payments-oil-ships-seeking-hormuz-passage)
+- [The Starlink hack that doomed Russian troops [video]](https://www.thetimes.com/video/originals/article/starlink-hack-doomed-russian-troops-jgr0w9jkp)
+- [Insights into software job openings – may2026](https://corvi.careers/blog/global_software-engineering_jobs_may_2026/)
+- [Shivon Zilis Operated as Elon Musk&#39;s OpenAI Insider](https://www.wired.com/story/model-behavior-why-everything-in-musk-v-altman-leads-back-to-shivon-zelis/)
+- [Japan Airlines begins humanoid robot trials at Tokyo&#39;s Haneda airport as labor s](https://www.cnbc.com/2026/05/01/japan-airlines-humanoid-robots-haneda-labor-shortage.html)
+- [Elon Musk Seemingly Admits xAI Has Used OpenAI&#39;s Models to Train Its Own](https://www.wired.com/story/elon-musk-distill-openai-models-partly-xai/)
+- [LA-SF rail will cost about $126B, with service beginning around 2040](https://ktla.com/news/california/california-high-speed-rail-cost-increase/)
+- [Show HN: Git repositories hosted directly on Freenet](https://github.com/freenet/freenet-git)
+- [U.S. Aims to Penalize Disabled Adults Who Live with Their Families](https://www.propublica.org/article/trump-social-security-ssi-disability-benefits-cuts-parents-children)
+- [AliothPress – self-hosted, cloud-native CMS with a wizard-based installation](https://aliothpress.com/)
+- [One solar storm could trigger a catastrophic collision in orbit](https://spectrum.ieee.org/kessler-syndrome-crash-clock)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

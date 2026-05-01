@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Monad Tutorials Timeline](https://wiki.haskell.org/Monad_tutorials_timeline)
-- [Biology is a Burrito: A text- and visual-based journey through a living cell](https://burrito.bio/essays/biology-is-a-burrito)
-- [Where the goblins came from](https://openai.com/index/where-the-goblins-came-from/)
-- [Finetuning Activates Verbatim Recall of Copyrighted Books in LLMs](https://github.com/cauchy221/Alignment-Whack-a-Mole-Code)
-- [Functional Programmers need to take a look at Zig](https://pure-systems.org/posts/2026-04-29-functional-programmers-need-to-take-a-look-at-zig.html)
-- [The Zig project&#39;s rationale for their firm anti-AI contribution policy](https://simonwillison.net/2026/Apr/30/zig-anti-ai/)
-- [A Grounded Conceptual Model for Ownership Types in Rust](https://cacm.acm.org/research-highlights/a-grounded-conceptual-model-for-ownership-types-in-rust/)
-- [Craig Venter has died](https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79)
-- [Joby kicks off NYC electric air taxi demos with historic JFK flight](https://www.flyingmag.com/joby-nyc-electric-air-taxi-jfk-airport/)
-- [Mike: open-source legal AI](https://mikeoss.com/)
+- [Show HN: Winpodx – run Windows apps on Linux as native windows](https://github.com/kernalix7/winpodx)
+- [OpenWarp](https://openwarp.zerx.dev)
+- [The Hearts of the Super Nintendo](https://fabiensanglard.net/snes_hearts/)
+- [CPanel and WHM Authentication Bypass – CVE-2026-41940](https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/)
+- [Snowball Earth may hide a far stranger climate cycle than anyone expected](https://sciencex.com/news/2026-04-snowball-earth-stranger-climate.html)
+- [Can I disable all data collection from my vehicle?](https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle)
+- [Vercel’s pricing page](https://theupsellgame.com/)
+- [Follow-up to Carrot disclosure: Forgejo](https://dustri.org/b/follow-up-to-carrot-disclosure-forgejo.html)
+- [Does Postgres Scale?](https://www.dbos.dev/blog/benchmarking-workflow-execution-scalability-on-postgres)
+- [Full-Text Search with DuckDB](https://peterdohertys.website/blog-posts/full-text-search-w-duckdb.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

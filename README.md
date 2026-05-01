@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [The Rendlesham Forest mystery: ‘It’s the perfect storm of a UFO case’](https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case)
-- [Simply divine: the extraordinary supernatural visions of Francisco de Zurbarán](https://www.theguardian.com/artanddesign/2026/apr/30/simply-divine-the-extraordinary-supernatural-visions-of-francisco-de-zurbaran)
-- [Sub-two-hour marathon, spooky houses explained and why is UK health in decline? – podcast](https://www.theguardian.com/science/audio/2026/apr/30/sub-two-hour-marathon-spooky-houses-explained-and-why-is-uk-health-in-decline-podcast)
-- [As a Ukrainian journalist, I’ve covered the US for 20 years. I find it increasingly shocking](https://www.theguardian.com/world/2026/apr/30/as-a-ukrainian-journalist-ive-covered-the-us-for-20-years-i-find-it-increasingly-shocking)
-- [I took an algorithm to court in Sweden. The algorithm won | Charlotta Kronblad](https://www.theguardian.com/commentisfree/2026/apr/30/i-took-an-algorithm-to-court-in-sweden-the-algorithm-won)
-- [Return of Aparicio painting to Prado exemplifies trajectory of human taste](https://www.theguardian.com/artanddesign/2026/apr/30/return-aparicio-painting-prado-year-famine-madrid-spain-exhibition)
-- [US father and daughter admit selling fake Picasso and Banksy works, duping art world](https://www.theguardian.com/us-news/2026/apr/30/father-daughter-fake-picasso-warhol-banksy-artworks)
-- [Christchurch gunman fails in bid to appeal against guilty pleas in New Zealand court](https://www.theguardian.com/world/2026/apr/30/christchurch-gunman-shooter-mosque-attacker-appeal-fails-ntwnfb)
-- [Oil price hits wartime high after Trump warns Iran blockade could last ‘months’](https://www.theguardian.com/world/2026/apr/30/oil-price-news-highest-since-2022-us-iran-ceasefire-strait-of-hormuz)
-- [Bondi royal commission: report calls for better policing of Jewish festivals after ‘high’ terror risk flagged for Hanukah event](https://www.theguardian.com/australia-news/2026/apr/30/bondi-beach-antisemitism-royal-commission-findings-ntwnfb)
+- [Hope is contagious and science is king: 10 big lessons on ending the fossil fuel era](https://www.theguardian.com/environment/2026/may/01/santa-marta-colombia-climate-conference-ending-fossil-fuel-era)
+- [My advice to Hannah Spencer? Before calling out MPs’ boozing, try to understand the reasons behind it | Gaby Hinsliff](https://www.theguardian.com/commentisfree/2026/may/01/advice-hannah-spencer-mps-drinking-culture-parliament)
+- [‘Completely horrible’: UK job hunters share frustration with AI interviews](https://www.theguardian.com/technology/2026/may/01/uk-job-hunters-frustration-ai-interviews)
+- [Man who pocketed tiles from medieval priory as boy returns them 60 years later](https://www.theguardian.com/culture/2026/may/01/man-returns-medieval-tiles-shropshire-priory-60-years-later)
+- [Helen Goh’s springtime spinach sponge cake with cream cheese icing – recipe | The sweet spot](https://www.theguardian.com/food/2026/may/01/springtime-spinach-cake-recipe-helen-goh)
+- [Nearly twice as many men as women standing in May elections in UK](https://www.theguardian.com/politics/2026/may/01/men-women-candidates-may-elections-england-scotland-wales)
+- [Claire’s expected to return to UK high streets with about 50 stores from June](https://www.theguardian.com/business/2026/may/01/claires-expected-to-return-to-uk-high-streets-with-about-50-stores-from-june)
+- [Slip into summer: what to wear with a return-to-the-90s ‘It’ dress](https://www.theguardian.com/fashion/gallery/2026/may/01/what-to-wear-with-90s-summer-it-dress-womenswear)
+- [Myanmar’s former leader Aung San Suu Kyi moved to house arrest in Naypyidaw](https://www.theguardian.com/world/2026/may/01/myanmar-aung-san-suu-kyi-house-arrest)
+- [The devil wears Primark: is the romcom reporter about to get the sack?](https://www.theguardian.com/film/2026/may/01/the-devil-wears-prada-2-romcom-reporter-heroine)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

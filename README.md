@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Hope is contagious and science is king: 10 big lessons on ending the fossil fuel era](https://www.theguardian.com/environment/2026/may/01/santa-marta-colombia-climate-conference-ending-fossil-fuel-era)
-- [My advice to Hannah Spencer? Before calling out MPs’ boozing, try to understand the reasons behind it | Gaby Hinsliff](https://www.theguardian.com/commentisfree/2026/may/01/advice-hannah-spencer-mps-drinking-culture-parliament)
-- [‘Completely horrible’: UK job hunters share frustration with AI interviews](https://www.theguardian.com/technology/2026/may/01/uk-job-hunters-frustration-ai-interviews)
-- [Man who pocketed tiles from medieval priory as boy returns them 60 years later](https://www.theguardian.com/culture/2026/may/01/man-returns-medieval-tiles-shropshire-priory-60-years-later)
-- [Helen Goh’s springtime spinach sponge cake with cream cheese icing – recipe | The sweet spot](https://www.theguardian.com/food/2026/may/01/springtime-spinach-cake-recipe-helen-goh)
-- [Nearly twice as many men as women standing in May elections in UK](https://www.theguardian.com/politics/2026/may/01/men-women-candidates-may-elections-england-scotland-wales)
-- [Claire’s expected to return to UK high streets with about 50 stores from June](https://www.theguardian.com/business/2026/may/01/claires-expected-to-return-to-uk-high-streets-with-about-50-stores-from-june)
-- [Slip into summer: what to wear with a return-to-the-90s ‘It’ dress](https://www.theguardian.com/fashion/gallery/2026/may/01/what-to-wear-with-90s-summer-it-dress-womenswear)
-- [Myanmar’s former leader Aung San Suu Kyi moved to house arrest in Naypyidaw](https://www.theguardian.com/world/2026/may/01/myanmar-aung-san-suu-kyi-house-arrest)
-- [The devil wears Primark: is the romcom reporter about to get the sack?](https://www.theguardian.com/film/2026/may/01/the-devil-wears-prada-2-romcom-reporter-heroine)
+- [Hope out of chaos: how the dark era of Trump is creating a new approach to global politics](https://www.theguardian.com/world/2026/may/02/dark-era-trump-creating-new-approach-global-politics)
+- [Cuba says Trump’s fresh sanctions on its economy amount to ‘collective punishment’](https://www.theguardian.com/world/2026/may/02/cuba-trump-new-sanctions-economy)
+- [US appeals court blocks mail-order access to abortion drugs](https://www.theguardian.com/world/2026/may/01/us-court-blocks-mail-order-abortion-drugs-mifepristone)
+- [Gerry Conway, creator of the Punisher in Spider-Man comics, dies at 73](https://www.theguardian.com/culture/2026/may/01/gerry-conway-punisher-spider-man-comics)
+- [US withdrawing 5,000 troops from Germany after Merz says US ‘humiliated’ by Iran](https://www.theguardian.com/us-news/2026/may/01/trump-threatens-withdraw-troops-italy-spain-strait-hormuz)
+- [Allen and Wu toil in 100-minute frame ‘embarrassment’, Higgins leads Murphy](https://www.theguardian.com/sport/2026/may/01/world-snooker-championship-allen-wu-record-100-minute-frame-crucible)
+- [Calvert-Lewin eases Leeds to verge of safety in dominant win over Burnley](https://www.theguardian.com/football/2026/may/01/leeds-burnley-premier-league-match-report)
+- [Peter Kay show stopped and 19-year-old in custody after ‘suspicious bag’ found](https://www.theguardian.com/culture/2026/may/01/peter-kay-show-stopped-and-19-year-old-in-custody-after-suspicious-bag-found)
+- [Lando Norris takes Miami GP sprint pole as lightning fears loom over F1 return](https://www.theguardian.com/sport/2026/may/01/miami-grand-prix-mercedes-f1)
+- [PSG and Bayern in ‘different world’ to tired Premier League teams, says Arteta](https://www.theguardian.com/football/2026/may/01/psg-and-bayern-in-different-world-to-tired-premier-league-teams-says-arteta)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

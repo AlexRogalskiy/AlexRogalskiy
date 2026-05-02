@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Show HN: Winpodx – run Windows apps on Linux as native windows](https://github.com/kernalix7/winpodx)
-- [OpenWarp](https://openwarp.zerx.dev)
-- [The Hearts of the Super Nintendo](https://fabiensanglard.net/snes_hearts/)
-- [CPanel and WHM Authentication Bypass – CVE-2026-41940](https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/)
-- [Snowball Earth may hide a far stranger climate cycle than anyone expected](https://sciencex.com/news/2026-04-snowball-earth-stranger-climate.html)
-- [Can I disable all data collection from my vehicle?](https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle)
-- [Vercel’s pricing page](https://theupsellgame.com/)
-- [Follow-up to Carrot disclosure: Forgejo](https://dustri.org/b/follow-up-to-carrot-disclosure-forgejo.html)
-- [Does Postgres Scale?](https://www.dbos.dev/blog/benchmarking-workflow-execution-scalability-on-postgres)
-- [Full-Text Search with DuckDB](https://peterdohertys.website/blog-posts/full-text-search-w-duckdb.html)
+- [CollectWise &lpar;YC F24&rpar; Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/rEWfZ6R-senior-forward-deployed-engineer)
+- [Ask Jeeves Shut Down](https://www.ask.com/)
+- [Governor – a Claude Code plugin to reduce token/context waste](https://github.com/0xhimanshu/governor)
+- [I built the Playwright for desktop apps. 80% token savings](https://github.com/lahfir/agent-desktop)
+- [Job Postings for Software Engineers Are Rapidly Rising](https://www.citadelsecurities.com/news-and-insights/2026-global-intelligence-crisis/)
+- [Good developers learn to program. Most courses teach a language](https://evilgeniuslabs.ca/blog/good-developers-learn-to-program-not-a-language)
+- [A Report on Burnout in Open Source Software Communities &lpar;2025&rpar; [pdf]](https://mirandaheath.website/static/oss_burnout_report_mh_25.pdf)
+- [Ti-84 Evo](https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo)
+- [Whimsical Animations Course Open House](https://courses.joshwcomeau.com/wham/open-house/00-introduction)
+- [Lib0xc: A set of C standard library-adjacent APIs for safer systems programming](https://github.com/microsoft/lib0xc)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

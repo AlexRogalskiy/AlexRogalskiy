@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Starlink hack that doomed Russian troops [video]](https://www.thetimes.com/video/originals/article/starlink-hack-doomed-russian-troops-jgr0w9jkp)
-- [Insights into software job openings – may2026](https://corvi.careers/blog/global_software-engineering_jobs_may_2026/)
-- [Shivon Zilis Operated as Elon Musk&#39;s OpenAI Insider](https://www.wired.com/story/model-behavior-why-everything-in-musk-v-altman-leads-back-to-shivon-zelis/)
-- [Japan Airlines begins humanoid robot trials at Tokyo&#39;s Haneda airport as labor s](https://www.cnbc.com/2026/05/01/japan-airlines-humanoid-robots-haneda-labor-shortage.html)
-- [Elon Musk Seemingly Admits xAI Has Used OpenAI&#39;s Models to Train Its Own](https://www.wired.com/story/elon-musk-distill-openai-models-partly-xai/)
-- [LA-SF rail will cost about $126B, with service beginning around 2040](https://ktla.com/news/california/california-high-speed-rail-cost-increase/)
-- [Show HN: Git repositories hosted directly on Freenet](https://github.com/freenet/freenet-git)
-- [U.S. Aims to Penalize Disabled Adults Who Live with Their Families](https://www.propublica.org/article/trump-social-security-ssi-disability-benefits-cuts-parents-children)
-- [AliothPress – self-hosted, cloud-native CMS with a wizard-based installation](https://aliothpress.com/)
-- [One solar storm could trigger a catastrophic collision in orbit](https://spectrum.ieee.org/kessler-syndrome-crash-clock)
+- [Isbell Duality &lpar;2022&rpar;](https://www.alphaxiv.org/abs/2212.11079)
+- [You Have No Idea How Much You Still Use BlackBerry](https://www.wsj.com/tech/blackberry-qnx-software-cars-bf2a2280)
+- [GrapheneOS: The Linux kernel is a fundamentally anti-security project](https://twitter.com/GrapheneOS/status/2035450069118296272)
+- [Evenpairs – Curated Introductions for Professionals](https://evenpairs.com/)
+- [Why does it take so long to release black fan versions?](https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions)
+- [Texico: Learn the principles of programming without even touching a computer](https://www3.nhk.or.jp/nhkworld/en/shows/texico/)
+- [Dominant Resource Fairness: Fair Allocation of Multiple Resource Types [pdf]](https://amplab.cs.berkeley.edu/wp-content/uploads/2011/06/Dominant-Resource-Fairness-Fair-Allocation-of-Multiple-Resource-Types.pdf)
+- [Beware the Hats: A Warning from the Streets of Majorca](https://fshot.org/techzone/bewareofhats.php)
+- [AI-CLI – Generate anything from your terminal](https://ai-cli.dev/)
+- [Show HN: Raptor – fast, energy efficient small file uploads to S3](https://github.com/proxylity/raptor)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

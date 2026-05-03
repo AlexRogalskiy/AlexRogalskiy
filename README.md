@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Isbell Duality &lpar;2022&rpar;](https://www.alphaxiv.org/abs/2212.11079)
-- [You Have No Idea How Much You Still Use BlackBerry](https://www.wsj.com/tech/blackberry-qnx-software-cars-bf2a2280)
-- [GrapheneOS: The Linux kernel is a fundamentally anti-security project](https://twitter.com/GrapheneOS/status/2035450069118296272)
-- [Evenpairs – Curated Introductions for Professionals](https://evenpairs.com/)
-- [Why does it take so long to release black fan versions?](https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions)
-- [Texico: Learn the principles of programming without even touching a computer](https://www3.nhk.or.jp/nhkworld/en/shows/texico/)
-- [Dominant Resource Fairness: Fair Allocation of Multiple Resource Types [pdf]](https://amplab.cs.berkeley.edu/wp-content/uploads/2011/06/Dominant-Resource-Fairness-Fair-Allocation-of-Multiple-Resource-Types.pdf)
-- [Beware the Hats: A Warning from the Streets of Majorca](https://fshot.org/techzone/bewareofhats.php)
-- [AI-CLI – Generate anything from your terminal](https://ai-cli.dev/)
-- [Show HN: Raptor – fast, energy efficient small file uploads to S3](https://github.com/proxylity/raptor)
+- [Show HN: Keryx: TypeScript framework where one Action becomes HTTP, WS, CLI, MCP](https://www.keryxjs.com)
+- [The Reality of Being a Man in Your 50s in South Korea](https://indignified.com/the-hidden-realities-of-midlife-masculinity-in-south-korea/)
+- [Mouse Pointer as a Mere Mortal](https://unsung.aresluna.org/mouse-pointer-as-a-mere-mortal/)
+- [Quantum Machine Learning: A Pragmatic Guide for Classical ML Engineers](https://pawankjha.substack.com/p/quantum-machine-learning-the-pragmatic)
+- [Redesigning Agent Skills – two missing parts](https://simianwords.bearblog.dev/what-agent-skills-misses-now/)
+- [NodeMind – binary document index, 48× smaller than float32 RAG, no GPU required](https://github.com/QLNI/NodeMind)
+- [MX Script: a scripting language for one file web APIs](https://www.mxscript.com/)
+- [Under sea internet cables need backup](https://restofworld.org/2026/iraq-big-tech-gulf-war-data/)
+- [The Duke in His Domain &lpar;1957&rpar;](https://www.newyorker.com/magazine/1957/11/09/marlon-brando-profile-truman-capote)
+- [Saudi Arabia ranks 2nd globally in data center market attractiveness](https://saudigazette.com.sa/article/661023/saudi-arabia/saudi-arabia-ranks-2nd-globally-in-data-center-market-attractiveness)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

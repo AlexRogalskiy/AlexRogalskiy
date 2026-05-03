@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Hope out of chaos: how the dark era of Trump is creating a new approach to global politics](https://www.theguardian.com/world/2026/may/02/dark-era-trump-creating-new-approach-global-politics)
-- [Cuba says Trump’s fresh sanctions on its economy amount to ‘collective punishment’](https://www.theguardian.com/world/2026/may/02/cuba-trump-new-sanctions-economy)
-- [US appeals court blocks mail-order access to abortion drugs](https://www.theguardian.com/world/2026/may/01/us-court-blocks-mail-order-abortion-drugs-mifepristone)
-- [Gerry Conway, creator of the Punisher in Spider-Man comics, dies at 73](https://www.theguardian.com/culture/2026/may/01/gerry-conway-punisher-spider-man-comics)
-- [US withdrawing 5,000 troops from Germany after Merz says US ‘humiliated’ by Iran](https://www.theguardian.com/us-news/2026/may/01/trump-threatens-withdraw-troops-italy-spain-strait-hormuz)
-- [Allen and Wu toil in 100-minute frame ‘embarrassment’, Higgins leads Murphy](https://www.theguardian.com/sport/2026/may/01/world-snooker-championship-allen-wu-record-100-minute-frame-crucible)
-- [Calvert-Lewin eases Leeds to verge of safety in dominant win over Burnley](https://www.theguardian.com/football/2026/may/01/leeds-burnley-premier-league-match-report)
-- [Peter Kay show stopped and 19-year-old in custody after ‘suspicious bag’ found](https://www.theguardian.com/culture/2026/may/01/peter-kay-show-stopped-and-19-year-old-in-custody-after-suspicious-bag-found)
-- [Lando Norris takes Miami GP sprint pole as lightning fears loom over F1 return](https://www.theguardian.com/sport/2026/may/01/miami-grand-prix-mercedes-f1)
-- [PSG and Bayern in ‘different world’ to tired Premier League teams, says Arteta](https://www.theguardian.com/football/2026/may/01/psg-and-bayern-in-different-world-to-tired-premier-league-teams-says-arteta)
+- [TV tonight: let the David Attenborough 100th birthday celebrations begin!](https://www.theguardian.com/tv-and-radio/2026/may/03/tv-tonight-let-the-david-attenborough-100th-birthday-celebrations-begin)
+- [Polanski takes combative approach as Greens enter media spotlight](https://www.theguardian.com/politics/2026/may/03/zack-polanski-punchy-approach-green-party-media-spotlight)
+- [From shared toothbrushes to mid-sex water bladders, You Be the Judge tries to settle domestic disputes. But what happened next?](https://www.theguardian.com/lifeandstyle/2026/may/03/shared-toothbrushes-water-bladders-you-be-the-judge-domestic-disputes-but-what-happened-next)
+- [My mother is addicted to gaming and emotionally unavailable. What should I do? | Ask Annalisa Barbieri](https://www.theguardian.com/lifeandstyle/2026/may/03/elderly-mother-addicted-gaming-shut-off-emotionally-annalisa-barbieri)
+- [Willy’s, Margate, Kent: ‘It chortles in the face of small plates’ – restaurant review | Grace Dent on restaurants](https://www.theguardian.com/food/2026/may/03/willys-margate-kent-restaurant-review-grace-dent)
+- [‘You’re not one of us, are you?’: How a Ukrainian soldier survived two weeks in a Russian dugout](https://www.theguardian.com/news/ng-interactive/2026/may/03/youre-not-one-of-us-are-you-how-a-ukrainian-soldier-survived-two-weeks-in-a-russian-dugout)
+- [Welcome to Anxietyland: I used alcohol to hide my fear – but booze became a very bad friend](https://www.theguardian.com/society/ng-interactive/2026/may/02/dissociation-confusion-and-the-downward-spiral-welcome-to-anxietyland)
+- [Trump says Iran has not yet ‘paid a big enough price’ as he reviews new peace proposal](https://www.theguardian.com/world/2026/may/03/trump-says-iran-has-not-yet-paid-a-big-enough-price-as-he-reviews-new-peace-proposal)
+- [Mexican governor and mayor indicted by US for drug trafficking step down](https://www.theguardian.com/world/2026/may/03/mexican-governor-and-mayor-indicted-by-us-for-drug-trafficking-step-down)
+- [Ukraine war briefing: Russia tries for a foothold in Ukraine’s eastern ‘fortress belt’, continues attacks on civilians](https://www.theguardian.com/world/2026/may/03/ukraine-war-briefing-russia-tries-for-a-foothold-in-ukraines-eastern-fortress-belt-continues-attacks-on-civilians)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

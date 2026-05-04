@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: Keryx: TypeScript framework where one Action becomes HTTP, WS, CLI, MCP](https://www.keryxjs.com)
-- [The Reality of Being a Man in Your 50s in South Korea](https://indignified.com/the-hidden-realities-of-midlife-masculinity-in-south-korea/)
-- [Mouse Pointer as a Mere Mortal](https://unsung.aresluna.org/mouse-pointer-as-a-mere-mortal/)
-- [Quantum Machine Learning: A Pragmatic Guide for Classical ML Engineers](https://pawankjha.substack.com/p/quantum-machine-learning-the-pragmatic)
-- [Redesigning Agent Skills – two missing parts](https://simianwords.bearblog.dev/what-agent-skills-misses-now/)
-- [NodeMind – binary document index, 48× smaller than float32 RAG, no GPU required](https://github.com/QLNI/NodeMind)
-- [MX Script: a scripting language for one file web APIs](https://www.mxscript.com/)
-- [Under sea internet cables need backup](https://restofworld.org/2026/iraq-big-tech-gulf-war-data/)
-- [The Duke in His Domain &lpar;1957&rpar;](https://www.newyorker.com/magazine/1957/11/09/marlon-brando-profile-truman-capote)
-- [Saudi Arabia ranks 2nd globally in data center market attractiveness](https://saudigazette.com.sa/article/661023/saudi-arabia/saudi-arabia-ranks-2nd-globally-in-data-center-market-attractiveness)
+- [Emergency Radio in Switzerland](https://www.rega.ch/en/our-missions/sites-and-infrastructure/emergency-radio)
+- [The AI Revolution Hollywood Feared Is Happening – In India](https://www.hollywoodreporter.com/business/digital/india-ai-filmmaking-1236548136/)
+- [Stop Treating Agent Sandboxes as Cattle](https://opencomputer.dev/blog/stop-treating-sandboxes-as-cattle/)
+- [Interview with Josh Fisher – Inventing VLIW, Multiflow, Itanium, VLIW&#39;s Success [video]](https://www.youtube.com/watch?v=ZF8ohzWmuzI)
+- [Personal Loan Eligibility Calculator Online – SMFG India Credit](https://www.smfgindiacredit.com/personal-loan-eligibility-calculator.aspx)
+- [Copy.fail: a small Linux kernel bug with an unusually big blast radius](https://jorijn.com/en/blog/copy-fail-cve-2026-31431-linux-kernel-bug-explained/)
+- [Stitch Together Lots of Little HTML Pages with Navigations for Interactions](https://blog.jim-nielsen.com/2026/small-html-pages/)
+- [Show HN: Kula – a family health platform that makes sense of your data](https://news.ycombinator.com/item?id=48004708)
+- [Apple discontinues $599 base Mac mini. Entry-level model starts at $799 with 512](https://macdailynews.com/2026/05/01/apple-discontinues-599-base-mac-mini-entry-level-model-now-starts-at-799-with-512gb-storage-amid-surging-demand/)
+- [Pake: Webpage to desktop app in one command using rust](https://github.com/tw93/Pake)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

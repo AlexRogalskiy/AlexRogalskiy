@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge](https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/)
-- [Windows API Is Successful Cross-Platform API](https://retrocoding.net/windows-api-is-successful-cross-platform-api)
-- [Open source does not imply open community](https://blog.feld.me/posts/2026/04/open-source-does-not-imply-open-community/)
-- [Care Homes and Hotels in Japan Shut as Expansion Strategy Unravels](https://www.newsonjapan.com/article/149075.php)
-- [Maryland Is First to Ban A.I.-Driven Price Increases in Grocery Stores](https://www.nytimes.com/2026/05/01/business/surveillance-pricing-groceries-maryland.html)
-- [Clandestine network smuggling Starlink tech into Iran to beat internet blackout](https://www.bbc.com/news/articles/cvgzk91leweo)
-- [A Couple Million Lines of Haskell: Production Engineering at Mercury](https://blog.haskell.org/a-couple-million-lines-of-haskell/)
-- [Voice-AI-for-Beginners – A curated learning path for developers](https://github.com/mahimairaja/voiceai)
-- [Clojurists Together – Q2 2026 Open Source Funding Announcement](https://www.clojuriststogether.org/news/q2-2026-funding-announcement/)
-- [Show HN: State of the Art of Coding Models, According to Hacker News Commenters](https://hnup.date/hn-sota)
+- [Humanoid Robot Actuators: The Complete Engineering Guide](https://www.firgelli.com/pages/humanoid-robot-actuators)
+- [The text mode lie: why modern TUIs are a nightmare for accessibility](https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility)
+- [Let&#39;s Buy Spirit Air](https://letsbuyspiritair.com/)
+- [The &#39;Hidden&#39; Costs of Great Abstractions](https://jdgr.net/the-hidden-costs-of-great-abstractions)
+- [Agentic Coding Is a Trap](https://larsfaye.com/articles/agentic-coding-is-a-trap)
+- [DeepClaude – Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper](https://github.com/aattaran/deepclaude)
+- [Introduction to Atom](https://validator.w3.org/feed/docs/atom.html)
+- [Make your own microforest &lpar;2025&rpar;](https://ambrook.com/offrange/environment/a-forest-in-your-pocket)
+- [New statue in London, attributed to Banksy, of a suited man, blinded by a flag](https://www.smithsonianmag.com/smart-news/attributed-to-banksy-a-new-statue-of-a-suited-man-blinded-by-a-flag-and-walking-off-a-ledge-appeared-in-central-london-180988662/)
+- [Why TUIs are back](https://wiki.alcidesfonseca.com/blog/why-tuis-are-back/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

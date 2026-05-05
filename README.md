@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [TV tonight: a stalker thriller with soft, soapy edges](https://www.theguardian.com/tv-and-radio/2026/may/04/tv-tonight-number-one-fan-virgin-island)
-- [Japan sees largest protest in support of pacifist constitution as PM Takaichi pushes revisions](https://www.theguardian.com/world/2026/may/04/japan-sees-largest-protest-in-support-of-pacifist-constitution-as-pm-takaichi-pushes-revisions)
-- [Women in developing countries hardest hit by rising debt burden, UN research finds](https://www.theguardian.com/world/2026/may/04/women-in-developing-countries-hardest-hit-by-rising-debt-burden-un-research-finds)
-- [Could Iran’s escalating economic crisis weaken negotiating position with US?](https://www.theguardian.com/world/2026/may/04/could-irans-escalating-economic-crisis-weaken-negotiating-position-with-us)
-- [Sketches of Spain at arms: Sim, the anarchist illustrator who drew the civil war from the frontline](https://www.theguardian.com/artanddesign/2026/may/04/sim-spanish-civil-war-artist-jose-luis-rey-vila-barcelona-exhibition)
-- [Yes, the king&#39;s US visit will go down in history: it marked the death throes of an old era | Nesrine Malik](https://www.theguardian.com/commentisfree/2026/may/04/king-charles-us-visit-donald-trump-history-end-era)
-- [Mummy, is this a video game? The dangers of showing kids art on a screen](https://www.theguardian.com/artanddesign/2026/may/04/young-at-art-immersive-art-gallery-frameless-london-children)
-- [Spring soup and bean and cheese quesadillas: Thomasina Miers’ Mexican-inspired seasonal recipes](https://www.theguardian.com/food/2026/may/04/spring-soup-and-bean-and-cheese-quesadillas-recipes-thomasina-miers)
-- [Security or justice? Syria faces post-Assad reckoning after string of arrests](https://www.theguardian.com/world/2026/may/04/syria-justice-assad-regime-arrests-2013-tadamon-massacres)
-- [‘Living library’: inside the marine biobanks racing to protect ocean species from extinction](https://www.theguardian.com/environment/2026/may/04/marine-biobanks-protect-ocean-species)
+- [‘Extreme demands’: Finnish cross-country ski psychodrama Guts finds global success](https://www.theguardian.com/world/2026/may/05/guts-tv-series-finnish-cross-country-ski-psychodrama)
+- [Next Scottish government faces ‘really difficult’ spending choices, economists say](https://www.theguardian.com/politics/2026/may/05/next-scottish-government-must-make-really-difficult-spending-decisions)
+- [Michael Spicer: ‘Monty Python taught me that authority figures must earn our respect’](https://www.theguardian.com/stage/2026/may/05/michael-spicer-the-room-next-door-comedian)
+- [The man who blew up a nuclear power station and disappeared](https://www.theguardian.com/world/2026/may/05/the-man-who-blew-up-a-nuclear-power-station-koeberg-south-africa)
+- [‘Nobody’s going out!’ Why is Britain’s nightlife in such decline – and can anything save it?](https://www.theguardian.com/music/2026/may/05/why-is-britains-nightlife-in-decline)
+- [Explosion at fireworks factory in China kills at least 21 people , state media says](https://www.theguardian.com/world/2026/may/05/fireworks-factory-explosion-china-kills-workers)
+- [Canadian fiddler sues Google after AI Overview wrongly claimed he was a sex offender](https://www.theguardian.com/music/2026/may/05/canadian-ashley-macisaac-fiddler-musician-singer-songwriter-sues-google-ai-sex-offender-ntwnfb)
+- [British crew member in need of urgent medical care amid suspected hantavirus outbreak on cruise ship](https://www.theguardian.com/science/2026/may/04/cruise-ship-suspected-hantavirus-outbreak-blocked-docking-cape-verde)
+- [Ukraine war briefing: Duelling ceasefires as Zelenskyy floats open-ended truce](https://www.theguardian.com/world/2026/may/05/ukraine-war-briefing-duelling-ceasefires-as-zelenskyy-floats-open-ended-truce)
+- [Modern slavery at record levels in UK and expected to worsen, report warns](https://www.theguardian.com/world/2026/may/05/modern-slavery-record-levels-uk-worsen-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

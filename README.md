@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Humanoid Robot Actuators: The Complete Engineering Guide](https://www.firgelli.com/pages/humanoid-robot-actuators)
-- [The text mode lie: why modern TUIs are a nightmare for accessibility](https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility)
-- [Let&#39;s Buy Spirit Air](https://letsbuyspiritair.com/)
-- [The &#39;Hidden&#39; Costs of Great Abstractions](https://jdgr.net/the-hidden-costs-of-great-abstractions)
-- [Agentic Coding Is a Trap](https://larsfaye.com/articles/agentic-coding-is-a-trap)
-- [DeepClaude – Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper](https://github.com/aattaran/deepclaude)
-- [Introduction to Atom](https://validator.w3.org/feed/docs/atom.html)
-- [Make your own microforest &lpar;2025&rpar;](https://ambrook.com/offrange/environment/a-forest-in-your-pocket)
-- [New statue in London, attributed to Banksy, of a suited man, blinded by a flag](https://www.smithsonianmag.com/smart-news/attributed-to-banksy-a-new-statue-of-a-suited-man-blinded-by-a-flag-and-walking-off-a-ledge-appeared-in-central-london-180988662/)
-- [Why TUIs are back](https://wiki.alcidesfonseca.com/blog/why-tuis-are-back/)
+- [About 10% of AMC movie showings sell zero tickets. This site finds them](https://walzr.com/empty-screenings)
+- [Train Your Own LLM from Scratch](https://github.com/angelos-p/llm-from-scratch)
+- [CVE-2026-31431: Copy Fail vs. rootless containers](https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/)
+- [Pulitzer Prize Winner in International Reporting](https://www.pulitzer.org/winners/dake-kang-garance-burke-byron-tau-aniruddha-ghosal-and-yael-grauer-contributor-associated)
+- [What I&#39;m Hearing About Cognitive Debt &lpar;So Far&rpar;](https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/)
+- [The Car That Watches You Back: The Advertising Infrastructure of Modern Cars](https://nobodyaskedforthis.lol/posts/connected-car/)
+- [Bun is being ported from Zig to Rust](https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5)
+- [Y Combinator&#39;s Stake in OpenAI &lpar;0.6%&rpar;](https://daringfireball.net/2026/05/y_combinators_stake_in_openai)
+- [Agent Skills](https://addyosmani.com/blog/agent-skills/)
+- [When Networking Doesn&#39;t Work](https://www.os2museum.com/wp/when-networking-doesnt-work/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

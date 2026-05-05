@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Emergency Radio in Switzerland](https://www.rega.ch/en/our-missions/sites-and-infrastructure/emergency-radio)
-- [The AI Revolution Hollywood Feared Is Happening – In India](https://www.hollywoodreporter.com/business/digital/india-ai-filmmaking-1236548136/)
-- [Stop Treating Agent Sandboxes as Cattle](https://opencomputer.dev/blog/stop-treating-sandboxes-as-cattle/)
-- [Interview with Josh Fisher – Inventing VLIW, Multiflow, Itanium, VLIW&#39;s Success [video]](https://www.youtube.com/watch?v=ZF8ohzWmuzI)
-- [Personal Loan Eligibility Calculator Online – SMFG India Credit](https://www.smfgindiacredit.com/personal-loan-eligibility-calculator.aspx)
-- [Copy.fail: a small Linux kernel bug with an unusually big blast radius](https://jorijn.com/en/blog/copy-fail-cve-2026-31431-linux-kernel-bug-explained/)
-- [Stitch Together Lots of Little HTML Pages with Navigations for Interactions](https://blog.jim-nielsen.com/2026/small-html-pages/)
-- [Show HN: Kula – a family health platform that makes sense of your data](https://news.ycombinator.com/item?id=48004708)
-- [Apple discontinues $599 base Mac mini. Entry-level model starts at $799 with 512](https://macdailynews.com/2026/05/01/apple-discontinues-599-base-mac-mini-entry-level-model-now-starts-at-799-with-512gb-storage-amid-surging-demand/)
-- [Pake: Webpage to desktop app in one command using rust](https://github.com/tw93/Pake)
+- [Ask HN: Why would we care about &quot;extended time horizons&quot; and LLMs?](https://news.ycombinator.com/item?id=48018160)
+- [Why China Didn&#39;t Colonise the World](https://twitter.com/petruch10/status/2051127478132113892)
+- [Taiwan Could Learn from Ukraine. Informally, Connections Are Growing](https://www.nytimes.com/2026/05/05/world/europe/ukraine-taiwan-drones.html)
+- [How&#39;s you experience building an app on Cloudflare? &lpar;Workers, D1,R2 etc.&rpar;](https://news.ycombinator.com/item?id=48018109)
+- [Why is Apple&#39;s R&amp;D run rate suddenly $40B/yr.?](https://asymco.com/2026/05/04/why-is-apples-rd-run-rate-suddenly-40-billion-yr/)
+- [OpenAI can&#39;t build working RSS feeds](https://openai.com/news/rss.xml)
+- [Cybercrime investigations in practice: Insights from the LockerGoga case](https://www.sciencedirect.com/science/article/pii/S2666281726000685)
+- [Anthropic Unveils $1.5B Joint Venture with Wall Street Firms](https://www.wsj.com/business/deals/anthropic-nears-1-5-billion-joint-venture-with-wall-street-firms-8f5448ee)
+- [Kids bypass age verification with fake moustaches](https://www.theregister.com/2026/05/04/uk_online_safety_act_age_checks_subvert/)
+- [About 10% of AMC movie showings sell zero tickets. This site finds them](https://walzr.com/empty-screenings)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

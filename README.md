@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [About 10% of AMC movie showings sell zero tickets. This site finds them](https://walzr.com/empty-screenings)
-- [Train Your Own LLM from Scratch](https://github.com/angelos-p/llm-from-scratch)
-- [CVE-2026-31431: Copy Fail vs. rootless containers](https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/)
-- [Pulitzer Prize Winner in International Reporting](https://www.pulitzer.org/winners/dake-kang-garance-burke-byron-tau-aniruddha-ghosal-and-yael-grauer-contributor-associated)
-- [What I&#39;m Hearing About Cognitive Debt &lpar;So Far&rpar;](https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/)
-- [The Car That Watches You Back: The Advertising Infrastructure of Modern Cars](https://nobodyaskedforthis.lol/posts/connected-car/)
-- [Bun is being ported from Zig to Rust](https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5)
-- [Y Combinator&#39;s Stake in OpenAI &lpar;0.6%&rpar;](https://daringfireball.net/2026/05/y_combinators_stake_in_openai)
-- [Agent Skills](https://addyosmani.com/blog/agent-skills/)
-- [When Networking Doesn&#39;t Work](https://www.os2museum.com/wp/when-networking-doesnt-work/)
+- [Industry-Leading 245TB Micron 6600 Ion Data Center SSD Now Shipping](https://investors.micron.com/news-releases/news-release-details/industry-leading-245tb-micron-6600-ion-data-center-ssd-now)
+- [Ombudsman column: The Pentagon is trying to silence me](https://www.stripes.com/opinion/2026-04-23/stripes-former-ombudsman-pentagon-trying-to-silence-21465037.html)
+- [Agents can now create Cloudflare accounts, buy domains, and deploy](https://blog.cloudflare.com/agents-stripe-projects/)
+- [StarFighter 16-Inch](https://us.starlabs.systems/pages/starfighter)
+- [Telus Uses AI to Alter Call-Agent Accents](https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63)
+- [YouTube, your RSS feeds are broken](https://openrss.org/blog/youtube-your-feeds-are-broken)
+- [Write some software, give it away for free](https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026)
+- [Why most product tours get skipped](https://productonboarding.com/articles/why-product-tours-get-skipped)
+- [.de TLD offline due to DNSSEC?](https://dnssec-analyzer.verisignlabs.com/nic.de)
+- [California farmers to destroy 420k peach trees following Del Monte bankruptcy](https://www.sfgate.com/centralcoast/article/usda-aid-california-farmers-22240694.php)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

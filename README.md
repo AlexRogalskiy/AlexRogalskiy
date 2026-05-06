@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ask HN: Why would we care about &quot;extended time horizons&quot; and LLMs?](https://news.ycombinator.com/item?id=48018160)
-- [Why China Didn&#39;t Colonise the World](https://twitter.com/petruch10/status/2051127478132113892)
-- [Taiwan Could Learn from Ukraine. Informally, Connections Are Growing](https://www.nytimes.com/2026/05/05/world/europe/ukraine-taiwan-drones.html)
-- [How&#39;s you experience building an app on Cloudflare? &lpar;Workers, D1,R2 etc.&rpar;](https://news.ycombinator.com/item?id=48018109)
-- [Why is Apple&#39;s R&amp;D run rate suddenly $40B/yr.?](https://asymco.com/2026/05/04/why-is-apples-rd-run-rate-suddenly-40-billion-yr/)
-- [OpenAI can&#39;t build working RSS feeds](https://openai.com/news/rss.xml)
-- [Cybercrime investigations in practice: Insights from the LockerGoga case](https://www.sciencedirect.com/science/article/pii/S2666281726000685)
-- [Anthropic Unveils $1.5B Joint Venture with Wall Street Firms](https://www.wsj.com/business/deals/anthropic-nears-1-5-billion-joint-venture-with-wall-street-firms-8f5448ee)
-- [Kids bypass age verification with fake moustaches](https://www.theregister.com/2026/05/04/uk_online_safety_act_age_checks_subvert/)
-- [About 10% of AMC movie showings sell zero tickets. This site finds them](https://walzr.com/empty-screenings)
+- [You built the product. Now test if people want it](https://www.viral.ad/)
+- [Knitting Bullshit](https://katedaviesdesigns.com/2026/04/29/knitting-bullshit/)
+- [Why LLM APIs Shouldn&#39;t Ship UTF-8&quot;, &quot;Stop Wasting Bandwidth on LLM Text APIs](https://github.com/wdunn001/codec)
+- [CLI2API: Turn Your Claude Subscription into an OpenAI-Compatible API](https://github.com/zhusq20/CLI2API)
+- [An ode to swapping computer warez in the 80s](https://suno.com/song/79267d82-c558-4981-a7e5-3b0a7939dea9)
+- [Software Development Job Postings on Indeed in the United States](https://fred.stlouisfed.org/series/IHLIDXUSTPSOFTDEVE)
+- [Pyramid of the Capitalist System &lpar;1911&rpar;](https://publicdomainreview.org/collection/pyramid-of-the-capitalist-system/)
+- [Show HN: App that marks each hour of your day as yours or lost to your phone](https://apps.apple.com/us/app/oh-my-hours/id6760450002)
+- [OpenAI favors more flexible datacenter deals](https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-has-effectively-abandoned-first-party-stargate-data-centers-in-favor-of-more-flexible-deals-company-now-prefers-to-lease-compute-and-says-stargate-is-an-umbrella-term)
+- [Detection of an atmosphere on a trans-Neptunian object beyond Pluto](https://www.nature.com/articles/s41550-026-02846-1)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

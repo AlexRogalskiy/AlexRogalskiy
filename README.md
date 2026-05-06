@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [‘Extreme demands’: Finnish cross-country ski psychodrama Guts finds global success](https://www.theguardian.com/world/2026/may/05/guts-tv-series-finnish-cross-country-ski-psychodrama)
-- [Next Scottish government faces ‘really difficult’ spending choices, economists say](https://www.theguardian.com/politics/2026/may/05/next-scottish-government-must-make-really-difficult-spending-decisions)
-- [Michael Spicer: ‘Monty Python taught me that authority figures must earn our respect’](https://www.theguardian.com/stage/2026/may/05/michael-spicer-the-room-next-door-comedian)
-- [The man who blew up a nuclear power station and disappeared](https://www.theguardian.com/world/2026/may/05/the-man-who-blew-up-a-nuclear-power-station-koeberg-south-africa)
-- [‘Nobody’s going out!’ Why is Britain’s nightlife in such decline – and can anything save it?](https://www.theguardian.com/music/2026/may/05/why-is-britains-nightlife-in-decline)
-- [Explosion at fireworks factory in China kills at least 21 people , state media says](https://www.theguardian.com/world/2026/may/05/fireworks-factory-explosion-china-kills-workers)
-- [Canadian fiddler sues Google after AI Overview wrongly claimed he was a sex offender](https://www.theguardian.com/music/2026/may/05/canadian-ashley-macisaac-fiddler-musician-singer-songwriter-sues-google-ai-sex-offender-ntwnfb)
-- [British crew member in need of urgent medical care amid suspected hantavirus outbreak on cruise ship](https://www.theguardian.com/science/2026/may/04/cruise-ship-suspected-hantavirus-outbreak-blocked-docking-cape-verde)
-- [Ukraine war briefing: Duelling ceasefires as Zelenskyy floats open-ended truce](https://www.theguardian.com/world/2026/may/05/ukraine-war-briefing-duelling-ceasefires-as-zelenskyy-floats-open-ended-truce)
-- [Modern slavery at record levels in UK and expected to worsen, report warns](https://www.theguardian.com/world/2026/may/05/modern-slavery-record-levels-uk-worsen-report)
+- [Sick British crew member to be urgently evacuated as hantavirus-hit cruise ship heads to Spain](https://www.theguardian.com/world/2026/may/05/british-crew-member-dutch-mv-hondius-cruise-ship-hantavirus-cases)
+- [Rare pregnancy complication has put UK women into ‘emergency surgery’](https://www.theguardian.com/lifeandstyle/2026/may/06/rare-pregnancy-complication-uk-women-emergency-surgery-placenta-accreta-spectrum)
+- [Palestinian ambassador protests to Foreign Office over ’erasure’ by British Museum](https://www.theguardian.com/world/2026/may/06/palestinian-ambassador-protest-foreign-office-british-museum)
+- [New Mexico proposes $3.7bn fine for Meta and sweeping changes to its social platforms](https://www.theguardian.com/technology/2026/may/05/new-mexico-meta-court-fine)
+- [May elections: What’s at stake across England, Wales and Scotland?](https://www.theguardian.com/politics/2026/may/06/may-elections-hopes-fears-parties-england-wales-scotland-key-takeaways)
+- [EU trade deal could force UK to restrict use of weedkiller linked to cancer](https://www.theguardian.com/environment/2026/may/06/eu-trade-deal-could-force-uk-restrict-glyphosate-weedkiller-linked-to-cancer)
+- [Gibraltar dumping all of its raw sewage into Mediterranean](https://www.theguardian.com/world/2026/may/06/uk-territory-gibraltar-dumps-raw-sewage-mediterranean)
+- [Thoran and chaat: Romy Gill’s Indian-style asparagus recipes](https://www.theguardian.com/food/2026/may/06/thoran-and-chaat-indian-style-asparagus-recipes-romy-gill)
+- [Attempts to stop prison drone drug deliveries hampered by crumbling Victorian walls](https://www.theguardian.com/society/2026/may/06/prison-drone-drug-deliveries-crumbling-victorian-walls)
+- [‘In times like this, it pays to be Italian’: Mind Enterprises, the Campari-necking Italo disco revivalists who became a meme](https://www.theguardian.com/music/2026/may/06/mind-enterprises-italo-disco-revivalists-electro)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

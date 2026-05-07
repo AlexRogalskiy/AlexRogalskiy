@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Industry-Leading 245TB Micron 6600 Ion Data Center SSD Now Shipping](https://investors.micron.com/news-releases/news-release-details/industry-leading-245tb-micron-6600-ion-data-center-ssd-now)
-- [Ombudsman column: The Pentagon is trying to silence me](https://www.stripes.com/opinion/2026-04-23/stripes-former-ombudsman-pentagon-trying-to-silence-21465037.html)
-- [Agents can now create Cloudflare accounts, buy domains, and deploy](https://blog.cloudflare.com/agents-stripe-projects/)
-- [StarFighter 16-Inch](https://us.starlabs.systems/pages/starfighter)
-- [Telus Uses AI to Alter Call-Agent Accents](https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63)
-- [YouTube, your RSS feeds are broken](https://openrss.org/blog/youtube-your-feeds-are-broken)
-- [Write some software, give it away for free](https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026)
-- [Why most product tours get skipped](https://productonboarding.com/articles/why-product-tours-get-skipped)
-- [.de TLD offline due to DNSSEC?](https://dnssec-analyzer.verisignlabs.com/nic.de)
-- [California farmers to destroy 420k peach trees following Del Monte bankruptcy](https://www.sfgate.com/centralcoast/article/usda-aid-california-farmers-22240694.php)
+- [Building the TD4 4-Bit CPU](https://jayakody2000lk.blogspot.com/2026/05/building-td4-4-bit-cpu.html)
+- [ProgramBench: Can Language Models Rebuild Programs from Scratch?](https://arxiv.org/abs/2605.03546)
+- [Diskless Linux boot using ZFS, iSCSI and PXE](https://aniket.foo/posts/20260505-netboot/)
+- [Permacomputing Principles](https://permacomputing.net/principles/)
+- [The Vatican&#39;s Website in Latin](https://www.vatican.va/latin/latin_index.html)
+- [RSS Feeds Send Me More Traffic Than Google](https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google/)
+- [What British people mean when they say &#39;sorry&#39;](https://www.bbc.com/travel/article/20260506-what-british-people-really-mean-when-they-say-sorry)
+- [SQLite Is a Library of Congress Recommended Storage Format](https://sqlite.org/locrsf.html)
+- [Show HN: PHP-fts – Full-text search engine in pure PHP, no extensions](https://github.com/olivier-ls/php-fts)
+- [Inkscape 1.4.4](https://inkscape.org/doc/release_notes/1.4.4/Inkscape_1.4.4.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

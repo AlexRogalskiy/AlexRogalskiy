@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Sick British crew member to be urgently evacuated as hantavirus-hit cruise ship heads to Spain](https://www.theguardian.com/world/2026/may/05/british-crew-member-dutch-mv-hondius-cruise-ship-hantavirus-cases)
-- [Rare pregnancy complication has put UK women into ‘emergency surgery’](https://www.theguardian.com/lifeandstyle/2026/may/06/rare-pregnancy-complication-uk-women-emergency-surgery-placenta-accreta-spectrum)
-- [Palestinian ambassador protests to Foreign Office over ’erasure’ by British Museum](https://www.theguardian.com/world/2026/may/06/palestinian-ambassador-protest-foreign-office-british-museum)
-- [New Mexico proposes $3.7bn fine for Meta and sweeping changes to its social platforms](https://www.theguardian.com/technology/2026/may/05/new-mexico-meta-court-fine)
-- [May elections: What’s at stake across England, Wales and Scotland?](https://www.theguardian.com/politics/2026/may/06/may-elections-hopes-fears-parties-england-wales-scotland-key-takeaways)
-- [EU trade deal could force UK to restrict use of weedkiller linked to cancer](https://www.theguardian.com/environment/2026/may/06/eu-trade-deal-could-force-uk-restrict-glyphosate-weedkiller-linked-to-cancer)
-- [Gibraltar dumping all of its raw sewage into Mediterranean](https://www.theguardian.com/world/2026/may/06/uk-territory-gibraltar-dumps-raw-sewage-mediterranean)
-- [Thoran and chaat: Romy Gill’s Indian-style asparagus recipes](https://www.theguardian.com/food/2026/may/06/thoran-and-chaat-indian-style-asparagus-recipes-romy-gill)
-- [Attempts to stop prison drone drug deliveries hampered by crumbling Victorian walls](https://www.theguardian.com/society/2026/may/06/prison-drone-drug-deliveries-crumbling-victorian-walls)
-- [‘In times like this, it pays to be Italian’: Mind Enterprises, the Campari-necking Italo disco revivalists who became a meme](https://www.theguardian.com/music/2026/may/06/mind-enterprises-italo-disco-revivalists-electro)
+- [Arthur Miller opens up about marriage to Marilyn Monroe in newly unearthed recordings](https://www.theguardian.com/culture/2026/may/07/arthur-miller-opens-up-about-marriage-to-marilyn-monroe-in-newly-unearthed-recordings)
+- [My kids are taking their first big exams – and revealing my own anxieties about AI and long division | Emma Brockes](https://www.theguardian.com/commentisfree/2026/may/07/kids-year-big-exams-anxieties-ai-long-division)
+- [Rachel Roddy’s recipe for spring chicken thighs with spring onions, mint and peas | A kitchen in Rome](https://www.theguardian.com/food/2026/may/07/spring-chicken-thighs-spring-onions-mint-peas-recipe-rachel-roddy)
+- [Rewilding giants: captive elephants rehomed in Europe’s first sanctuary](https://www.theguardian.com/world/2026/may/07/captive-elephants-rehomed-europe-first-sanctuary)
+- [UAE’s ruling royal family benefits from more than €71m in EU farming subsidies](https://www.theguardian.com/world/2026/may/07/uae-ruling-royal-family-eu-farming-subsidies)
+- [‘They have built a machine that pulls out their mother tongue’: why Tibet’s children think they are Chinese](https://www.theguardian.com/global-development/2026/may/07/tibet-children-chinese-mandarin-school-preschool-language-culture)
+- [Cut UK speed limits to reduce Iran war impact on consumers, thinktank urges](https://www.theguardian.com/business/2026/may/07/lower-speed-limits-uk-oil-prices-ippr-thinktank)
+- [100 years on Earth: celebrating David Attenborough’s birthday – podcast](https://www.theguardian.com/science/audio/2026/may/07/100-years-on-earth-celebrating-david-attenborough-birthday-podcast)
+- [Revealed: Russia’s top secret spy school teaching hacking and election meddling](https://www.theguardian.com/world/2026/may/07/revealed-russia-top-secret-spy-school-hacking-western-electoral-interference)
+- [New Hungarian PM’s voters want action on climate and LGBTQ+ rights, poll finds](https://www.theguardian.com/world/2026/may/07/peter-magyar-climate-lgbtq-progressive-hungary)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

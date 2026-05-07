@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [You built the product. Now test if people want it](https://www.viral.ad/)
-- [Knitting Bullshit](https://katedaviesdesigns.com/2026/04/29/knitting-bullshit/)
-- [Why LLM APIs Shouldn&#39;t Ship UTF-8&quot;, &quot;Stop Wasting Bandwidth on LLM Text APIs](https://github.com/wdunn001/codec)
-- [CLI2API: Turn Your Claude Subscription into an OpenAI-Compatible API](https://github.com/zhusq20/CLI2API)
-- [An ode to swapping computer warez in the 80s](https://suno.com/song/79267d82-c558-4981-a7e5-3b0a7939dea9)
-- [Software Development Job Postings on Indeed in the United States](https://fred.stlouisfed.org/series/IHLIDXUSTPSOFTDEVE)
-- [Pyramid of the Capitalist System &lpar;1911&rpar;](https://publicdomainreview.org/collection/pyramid-of-the-capitalist-system/)
-- [Show HN: App that marks each hour of your day as yours or lost to your phone](https://apps.apple.com/us/app/oh-my-hours/id6760450002)
-- [OpenAI favors more flexible datacenter deals](https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-has-effectively-abandoned-first-party-stargate-data-centers-in-favor-of-more-flexible-deals-company-now-prefers-to-lease-compute-and-says-stargate-is-an-umbrella-term)
-- [Detection of an atmosphere on a trans-Neptunian object beyond Pluto](https://www.nature.com/articles/s41550-026-02846-1)
+- [Don&#39;t Automate Your Moat: Matching AI Autonomy to Risk and Competitive Stakes](https://www.oreilly.com/radar/dont-automate-your-moat-matching-ai-autonomy-to-risk-and-competitive-stakes/)
+- [LAWS: A new transform operation turning LLM inference into cheap cache lookups](https://arxiv.org/abs/2605.04069)
+- [Elon Musk&#39;s Lawyers Ask OpenAI&#39;s President Why He Is Worth $30B](https://www.nytimes.com/2026/05/04/technology/elon-musk-greg-brockman-openai-trial.html)
+- [Publishers sue Meta, claiming it violated copyrights in training AI with books](https://www.washingtonpost.com/national-security/2026/05/05/publishers-sue-meta-ai-copyright/)
+- [Red Button, Blue Button](https://softmax.com/blog/red-button-blue-button)
+- [ABG – An Online Bioinformatics Lab](https://abg-discord.vercel.app/)
+- [&#39;FOMO has proven a stronger incentive than poor stock performance&#39; Goldman Sachs](https://fortune.com/2026/05/06/is-ai-a-bubble-goldman-sachs-skeptics-overhyped/)
+- [Europe Tech Tools](https://news.ycombinator.com/item?id=48045626)
+- [Prompt API: No web standard should require users to agree an ads company&#39;s TOC](https://wil.to/posts/googles-prompt-api/)
+- [GitHub outage: CCR and CCA failing to start for PR comments](https://www.githubstatus.com/incidents/qp0lxr014sw8)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

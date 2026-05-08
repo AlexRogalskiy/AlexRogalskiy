@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Arthur Miller opens up about marriage to Marilyn Monroe in newly unearthed recordings](https://www.theguardian.com/culture/2026/may/07/arthur-miller-opens-up-about-marriage-to-marilyn-monroe-in-newly-unearthed-recordings)
-- [My kids are taking their first big exams – and revealing my own anxieties about AI and long division | Emma Brockes](https://www.theguardian.com/commentisfree/2026/may/07/kids-year-big-exams-anxieties-ai-long-division)
-- [Rachel Roddy’s recipe for spring chicken thighs with spring onions, mint and peas | A kitchen in Rome](https://www.theguardian.com/food/2026/may/07/spring-chicken-thighs-spring-onions-mint-peas-recipe-rachel-roddy)
-- [Rewilding giants: captive elephants rehomed in Europe’s first sanctuary](https://www.theguardian.com/world/2026/may/07/captive-elephants-rehomed-europe-first-sanctuary)
-- [UAE’s ruling royal family benefits from more than €71m in EU farming subsidies](https://www.theguardian.com/world/2026/may/07/uae-ruling-royal-family-eu-farming-subsidies)
-- [‘They have built a machine that pulls out their mother tongue’: why Tibet’s children think they are Chinese](https://www.theguardian.com/global-development/2026/may/07/tibet-children-chinese-mandarin-school-preschool-language-culture)
-- [Cut UK speed limits to reduce Iran war impact on consumers, thinktank urges](https://www.theguardian.com/business/2026/may/07/lower-speed-limits-uk-oil-prices-ippr-thinktank)
-- [100 years on Earth: celebrating David Attenborough’s birthday – podcast](https://www.theguardian.com/science/audio/2026/may/07/100-years-on-earth-celebrating-david-attenborough-birthday-podcast)
-- [Revealed: Russia’s top secret spy school teaching hacking and election meddling](https://www.theguardian.com/world/2026/may/07/revealed-russia-top-secret-spy-school-hacking-western-electoral-interference)
-- [New Hungarian PM’s voters want action on climate and LGBTQ+ rights, poll finds](https://www.theguardian.com/world/2026/may/07/peter-magyar-climate-lgbtq-progressive-hungary)
+- [Elections 2026 live: Labour suffers early losses as Reform UK surges in England](https://www.theguardian.com/politics/live/2026/may/07/elections-2026-local-scotland-wales-reform-green-labour-conservatives-live-news-updates)
+- [Labour losses pile up in England local elections as Reform UK makes gains](https://www.theguardian.com/politics/2026/may/08/labour-reform-uk-england-local-elections-2026-scotland-wales)
+- [‘We’re not Lady Gaga and Elton John’: unmasking Angine de Poitrine, the year’s buzziest, dottiest band](https://www.theguardian.com/music/2026/may/08/unmasking-angine-de-poitrine-rock-duo-quebec-khn-klek)
+- [Experience: I am the best lightsaber fighter in Europe](https://www.theguardian.com/lifeandstyle/2026/may/08/experience-i-am-the-best-lightsaber-fighter-in-europe)
+- [‘Being human helps’: despite rise of AI is there still hope for Europe’s translators?](https://www.theguardian.com/technology/2026/may/08/being-human-helps-despite-rise-of-ai-is-there-still-hope-for-europes-translators)
+- [‘I see it as trafficking’: the brutal reality of life as a foreign student in the UK – podcast](https://www.theguardian.com/news/audio/2026/may/08/i-see-it-as-trafficking-the-brutal-reality-of-life-as-a-foreign-student-in-the-uk-podcast)
+- [Story of enslaved boy featured in 1748 Joshua Reynolds portrait emerges in new study](https://www.theguardian.com/world/2026/may/08/study-sheds-light-on-story-of-enslaved-boy-jersey-featured-in-1748-joshua-reynolds-portrait)
+- [Happy centenary, David! Attenborough’s 100 most spectacular TV moments](https://www.theguardian.com/tv-and-radio/ng-interactive/2026/may/08/david-attenborough-100-most-spectacular-screen-moments)
+- [Does Trump basically own the US supreme court now? – podcast](https://www.theguardian.com/politics/audio/2026/may/08/does-trump-own-the-us-supreme-court-now-podcast)
+- [Former China defence ministers convicted of corruption in latest purge of military leaders](https://www.theguardian.com/world/2026/may/08/china-defence-ministers-corruption-military-leaders-purge)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

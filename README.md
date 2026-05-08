@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Don&#39;t Automate Your Moat: Matching AI Autonomy to Risk and Competitive Stakes](https://www.oreilly.com/radar/dont-automate-your-moat-matching-ai-autonomy-to-risk-and-competitive-stakes/)
-- [LAWS: A new transform operation turning LLM inference into cheap cache lookups](https://arxiv.org/abs/2605.04069)
-- [Elon Musk&#39;s Lawyers Ask OpenAI&#39;s President Why He Is Worth $30B](https://www.nytimes.com/2026/05/04/technology/elon-musk-greg-brockman-openai-trial.html)
-- [Publishers sue Meta, claiming it violated copyrights in training AI with books](https://www.washingtonpost.com/national-security/2026/05/05/publishers-sue-meta-ai-copyright/)
-- [Red Button, Blue Button](https://softmax.com/blog/red-button-blue-button)
-- [ABG – An Online Bioinformatics Lab](https://abg-discord.vercel.app/)
-- [&#39;FOMO has proven a stronger incentive than poor stock performance&#39; Goldman Sachs](https://fortune.com/2026/05/06/is-ai-a-bubble-goldman-sachs-skeptics-overhyped/)
-- [Europe Tech Tools](https://news.ycombinator.com/item?id=48045626)
-- [Prompt API: No web standard should require users to agree an ads company&#39;s TOC](https://wil.to/posts/googles-prompt-api/)
-- [GitHub outage: CCR and CCA failing to start for PR comments](https://www.githubstatus.com/incidents/qp0lxr014sw8)
+- [Wasabi: Native WebSocket and MQTT 5 for VBA using Assembly thunks](https://github.com/uesleibros/wasabi)
+- [The case of Canvas–Longitudinal datafication through learning management systems](https://www.researchgate.net/publication/341046070_The_case_of_Canvas_Longitudinal_datafication_through_learning_management_systems)
+- [RubyLLM 1.15: Image Editing, Cost Tracking and Less Tool Boilerplate](https://paolino.me/rubyllm-1-15/)
+- [Honest Conversation with Bob Weiner about GNU Hyperbole](https://www.youtube.com/watch?v=iuwn8GpRj7w)
+- [Thinking about custom software in a new way](https://jerodsanto.net/2026/01/thinking-about-custom-software-in-a-new-way/)
+- [Agentic Engineering](https://addyosmani.com/blog/agentic-engineering/)
+- [Widget &lpar;Beer&rpar;](https://en.wikipedia.org/wiki/Widget_(beer))
+- [Dissolving arterial plaque by isolating the vessel from blood flow](https://www.cureus.com/articles/488870-closed-loop-extracorporeal-vascular-cleaning-by-staged-chemical-dissolution)
+- [Cisco to buy unit 8200 affiliated company that tracks all your API keys](https://www.timesofisrael.com/us-tech-giant-cisco-buys-israeli-ai-cyber-startup-to-protect-digital-workforce/)
+- [Supreme Court signals it may end Cisco human rights suit](https://www.washingtonpost.com/politics/2026/05/02/supreme-court-cisco-torture-china/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

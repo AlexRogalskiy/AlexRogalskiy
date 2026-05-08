@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Building the TD4 4-Bit CPU](https://jayakody2000lk.blogspot.com/2026/05/building-td4-4-bit-cpu.html)
-- [ProgramBench: Can Language Models Rebuild Programs from Scratch?](https://arxiv.org/abs/2605.03546)
-- [Diskless Linux boot using ZFS, iSCSI and PXE](https://aniket.foo/posts/20260505-netboot/)
-- [Permacomputing Principles](https://permacomputing.net/principles/)
-- [The Vatican&#39;s Website in Latin](https://www.vatican.va/latin/latin_index.html)
-- [RSS Feeds Send Me More Traffic Than Google](https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google/)
-- [What British people mean when they say &#39;sorry&#39;](https://www.bbc.com/travel/article/20260506-what-british-people-really-mean-when-they-say-sorry)
-- [SQLite Is a Library of Congress Recommended Storage Format](https://sqlite.org/locrsf.html)
-- [Show HN: PHP-fts – Full-text search engine in pure PHP, no extensions](https://github.com/olivier-ls/php-fts)
-- [Inkscape 1.4.4](https://inkscape.org/doc/release_notes/1.4.4/Inkscape_1.4.4.html)
+- [Komai: a fine Matrix chat app you can get to love](https://etke.cc/blog/introducing-komai)
+- [GNU IFUNC is the real culprit behind CVE-2024-3094](https://github.com/robertdfrench/ifuncd-up)
+- [Gambling ads on social media reach more than twice as many men as women: study](https://www.cam.ac.uk/research/news/gambling-ads-on-social-media-reach-more-than-twice-as-many-men-as-women)
+- [Plasticity and language in the anaesthetized human hippocampus](https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain)
+- [Maybe you shouldn&#39;t install new software for a bit](https://xeiaso.net/blog/2026/abstain-from-install/)
+- [Nonprofit hospitals spend billions on consultants with no clear effect](https://www.uchicagomedicine.org/forefront/research-and-discoveries-articles/nonprofit-hospitals-spend-billions-on-management-consultants)
+- [Canvas is down as ShinyHunters threatens to leak schools’ data](https://www.theverge.com/tech/926458/canvas-shinyhunters-breach)
+- [Cloudflare to cut about 20% workforce](https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/)
+- [Two Home Affairs officials suspended after AI &#39;hallucinations&#39; found](https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/)
+- [Creating for a niche](https://www.davesnider.com/posts/working-in-a-niche)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

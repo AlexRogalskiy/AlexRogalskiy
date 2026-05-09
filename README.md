@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Wasabi: Native WebSocket and MQTT 5 for VBA using Assembly thunks](https://github.com/uesleibros/wasabi)
-- [The case of Canvas–Longitudinal datafication through learning management systems](https://www.researchgate.net/publication/341046070_The_case_of_Canvas_Longitudinal_datafication_through_learning_management_systems)
-- [RubyLLM 1.15: Image Editing, Cost Tracking and Less Tool Boilerplate](https://paolino.me/rubyllm-1-15/)
-- [Honest Conversation with Bob Weiner about GNU Hyperbole](https://www.youtube.com/watch?v=iuwn8GpRj7w)
-- [Thinking about custom software in a new way](https://jerodsanto.net/2026/01/thinking-about-custom-software-in-a-new-way/)
-- [Agentic Engineering](https://addyosmani.com/blog/agentic-engineering/)
-- [Widget &lpar;Beer&rpar;](https://en.wikipedia.org/wiki/Widget_(beer))
-- [Dissolving arterial plaque by isolating the vessel from blood flow](https://www.cureus.com/articles/488870-closed-loop-extracorporeal-vascular-cleaning-by-staged-chemical-dissolution)
-- [Cisco to buy unit 8200 affiliated company that tracks all your API keys](https://www.timesofisrael.com/us-tech-giant-cisco-buys-israeli-ai-cyber-startup-to-protect-digital-workforce/)
-- [Supreme Court signals it may end Cisco human rights suit](https://www.washingtonpost.com/politics/2026/05/02/supreme-court-cisco-torture-china/)
+- [A Technical Dive into Formalization of Chess Tactics](https://lichess.org/@/heroku/blog/gofchess--a-technical-dive-into-formalization-of-chess-tactics/KULHdYDn)
+- [Show HN: My New Projects Website](https://apps.weichart.de)
+- [The Making of Steven Spielberg&#39;s Jurassic Park &lpar;2012&rpar;](https://www.blu-ray.com/news/?id=8186)
+- [Deepsec: The security harness for finding vulnerabilities](https://vercel.com/blog/introducing-deepsec-find-and-fix-vulnerabilities-in-your-code-base)
+- [Watts Wasting Texas Water [pdf]](https://www.sierraclub.org/sites/default/files/2026-05/texaswaterreport_final.pdf)
+- [Aurora: A Leverage-Aware Optimizer for Rectangular Matrices](https://blog.tilderesearch.com/blog/aurora)
+- [Snapseed 4.0 – Note from the Team](https://old.reddit.com/r/snapseed/comments/1t7j7yt/snapseed_40_a_note_from_the_snapseed_team/)
+- [Fertilizer time bomb threatens to drive up Europe&#39;s food prices](https://www.politico.eu/article/europe-farmer-fertilizer-prices-iran-war-inflation/)
+- [Italy looks to Libyan gas fields to replace supply shortages from Iran war](https://www.politico.eu/article/italy-libya-gas-replace-supply-shortage-iran-war/)
+- [How to Build Vector Search from Scratch in Python](https://www.kdnuggets.com/how-to-build-vector-search-from-scratch-in-python)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

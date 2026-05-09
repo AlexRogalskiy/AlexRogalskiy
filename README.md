@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Elections 2026 live: Labour suffers early losses as Reform UK surges in England](https://www.theguardian.com/politics/live/2026/may/07/elections-2026-local-scotland-wales-reform-green-labour-conservatives-live-news-updates)
-- [Labour losses pile up in England local elections as Reform UK makes gains](https://www.theguardian.com/politics/2026/may/08/labour-reform-uk-england-local-elections-2026-scotland-wales)
-- [‘We’re not Lady Gaga and Elton John’: unmasking Angine de Poitrine, the year’s buzziest, dottiest band](https://www.theguardian.com/music/2026/may/08/unmasking-angine-de-poitrine-rock-duo-quebec-khn-klek)
-- [Experience: I am the best lightsaber fighter in Europe](https://www.theguardian.com/lifeandstyle/2026/may/08/experience-i-am-the-best-lightsaber-fighter-in-europe)
-- [‘Being human helps’: despite rise of AI is there still hope for Europe’s translators?](https://www.theguardian.com/technology/2026/may/08/being-human-helps-despite-rise-of-ai-is-there-still-hope-for-europes-translators)
-- [‘I see it as trafficking’: the brutal reality of life as a foreign student in the UK – podcast](https://www.theguardian.com/news/audio/2026/may/08/i-see-it-as-trafficking-the-brutal-reality-of-life-as-a-foreign-student-in-the-uk-podcast)
-- [Story of enslaved boy featured in 1748 Joshua Reynolds portrait emerges in new study](https://www.theguardian.com/world/2026/may/08/study-sheds-light-on-story-of-enslaved-boy-jersey-featured-in-1748-joshua-reynolds-portrait)
-- [Happy centenary, David! Attenborough’s 100 most spectacular TV moments](https://www.theguardian.com/tv-and-radio/ng-interactive/2026/may/08/david-attenborough-100-most-spectacular-screen-moments)
-- [Does Trump basically own the US supreme court now? – podcast](https://www.theguardian.com/politics/audio/2026/may/08/does-trump-own-the-us-supreme-court-now-podcast)
-- [Former China defence ministers convicted of corruption in latest purge of military leaders](https://www.theguardian.com/world/2026/may/08/china-defence-ministers-corruption-military-leaders-purge)
+- [TV tonight: jazz club crooning, dad dancing and Simply Red hits](https://www.theguardian.com/tv-and-radio/2026/may/09/tv-tonight-jazz-club-crooning-dad-dancing-and-simply-red-hits)
+- [‘The odds are not in our favour’: who sets the Doomsday Clock – and what can they tell us about the future of humanity?](https://www.theguardian.com/science/2026/may/09/doomsday-clock-ai-iran-ukraine-war-climate-breakdown-nuclear-apocalypse)
+- [Blind date: ‘I hope my handshake wasn’t too much of a red flag’](https://www.theguardian.com/lifeandstyle/2026/may/09/blind-date-katie-jonathan)
+- [Tim Dowling: I’ve come to respect the fox. But our dog is still a hardliner](https://www.theguardian.com/lifeandstyle/2026/may/09/tim-dowling-i-respect-the-fox-but-our-dog-is-still-a-hardliner)
+- [Worried Britons ‘prepping’ for major disruption with stash of tins and cash, survey shows](https://www.theguardian.com/business/2026/may/09/worried-britons-prepping-for-major-disruption-with-stash-of-tins-and-cash-survey-shows)
+- [Infected, at sea: how the deadly hantavirus turned a dream cruise into tragedy](https://www.theguardian.com/news/ng-interactive/2026/may/09/how-hantavirus-turned-hondius-dream-cruise-into-tragedy)
+- [Meera Sodha’s recipe for chopped broad bean trofie with mint and lemon | Meera Sodha recipes](https://www.theguardian.com/food/2026/may/09/chopped-broad-bean-trofie-mint-lemon-recipe-meera-sodha)
+- [At the Venice Biennale I saw anger at Russia and Israel – and its leadership pretending everything was fine | Charlotte Higgins](https://www.theguardian.com/commentisfree/2026/may/09/venice-biennale-anger-russia-israel-art-festival)
+- [A recipe for disaster: the Becky Barnicoat cartoon](https://www.theguardian.com/lifeandstyle/picture/2026/may/09/recipe-for-disaster-becky-barnicoat-cartoon)
+- [France has a record number of presidential hopefuls. Will any of them be able to hold back the far right?](https://www.theguardian.com/world/2026/may/09/france-has-a-record-number-of-presidential-hopefuls-will-any-of-them-be-able-to-hold-back-the-far-right)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

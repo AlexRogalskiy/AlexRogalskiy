@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Komai: a fine Matrix chat app you can get to love](https://etke.cc/blog/introducing-komai)
-- [GNU IFUNC is the real culprit behind CVE-2024-3094](https://github.com/robertdfrench/ifuncd-up)
-- [Gambling ads on social media reach more than twice as many men as women: study](https://www.cam.ac.uk/research/news/gambling-ads-on-social-media-reach-more-than-twice-as-many-men-as-women)
-- [Plasticity and language in the anaesthetized human hippocampus](https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain)
-- [Maybe you shouldn&#39;t install new software for a bit](https://xeiaso.net/blog/2026/abstain-from-install/)
-- [Nonprofit hospitals spend billions on consultants with no clear effect](https://www.uchicagomedicine.org/forefront/research-and-discoveries-articles/nonprofit-hospitals-spend-billions-on-management-consultants)
-- [Canvas is down as ShinyHunters threatens to leak schools’ data](https://www.theverge.com/tech/926458/canvas-shinyhunters-breach)
-- [Cloudflare to cut about 20% workforce](https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/)
-- [Two Home Affairs officials suspended after AI &#39;hallucinations&#39; found](https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/)
-- [Creating for a niche](https://www.davesnider.com/posts/working-in-a-niche)
+- [Using Claude Code: The unreasonable effectiveness of HTML](https://twitter.com/trq212/status/2052809885763747935)
+- [Over 97% of the &#39;Linux&#39; Foundation&#39;s Budget Goes Not to Linux](https://techrights.org/n/2026/05/08/Over_97_of_the_Linux_Foundation_s_Budget_Goes_Not_to_Linux.shtml)
+- [A recent experience with ChatGPT 5.5 Pro](https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/)
+- [Meta Shuts Down End-to-End Encryption for Instagram Messaging](https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging)
+- [Mux &lpar;YC W16&rpar; Is Hiring](https://www.mux.com/jobs)
+- [When is your birthday? The math behind hash collisions](https://0xkrt26.github.io/math_behind_security/2026/05/08/birthday-problem.html)
+- [You gave me a u32. I gave you root. &lpar;io_uring ZCRX freelist LPE&rpar;](https://ze3tar.github.io/post-zcrx.html)
+- [Google broke reCAPTCHA for de-googled Android users](https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users)
+- [Teaching Claude Why](https://www.anthropic.com/research/teaching-claude-why)
+- [AI is breaking two vulnerability cultures](https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

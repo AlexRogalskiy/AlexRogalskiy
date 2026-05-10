@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Using Claude Code: The unreasonable effectiveness of HTML](https://twitter.com/trq212/status/2052809885763747935)
-- [Over 97% of the &#39;Linux&#39; Foundation&#39;s Budget Goes Not to Linux](https://techrights.org/n/2026/05/08/Over_97_of_the_Linux_Foundation_s_Budget_Goes_Not_to_Linux.shtml)
-- [A recent experience with ChatGPT 5.5 Pro](https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/)
-- [Meta Shuts Down End-to-End Encryption for Instagram Messaging](https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging)
-- [Mux &lpar;YC W16&rpar; Is Hiring](https://www.mux.com/jobs)
-- [When is your birthday? The math behind hash collisions](https://0xkrt26.github.io/math_behind_security/2026/05/08/birthday-problem.html)
-- [You gave me a u32. I gave you root. &lpar;io_uring ZCRX freelist LPE&rpar;](https://ze3tar.github.io/post-zcrx.html)
-- [Google broke reCAPTCHA for de-googled Android users](https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users)
-- [Teaching Claude Why](https://www.anthropic.com/research/teaching-claude-why)
-- [AI is breaking two vulnerability cultures](https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures)
+- [Gemini API File Search is now multimodal](https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/)
+- [Show HN: Building a web server in assembly to give my life &lpar;a lack of&rpar; meaning](https://github.com/imtomt/ymawky)
+- [Sparse Cholesky Elimination Tree](https://www.reidatcheson.com/sparse/linear/cholesky/2026/04/09/etree.html)
+- [France moves to break encrypted messaging](https://reclaimthenet.org/france-moves-to-break-encrypted-messaging)
+- [Show HN: Rust but Lisp](https://github.com/ThatXliner/rust-but-lisp)
+- [Local privilege escalation via execve&lpar;&rpar;](https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc)
+- [Surfel-based global illumination on the web](https://juretriglav.si/surfel-based-global-illumination-on-the-web/)
+- [Meta&#39;s embrace of AI is making its employees miserable](https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html)
+- [Show HN: I made a Clojure-like language in Go, boots in 7ms](https://github.com/nooga/let-go)
+- [Zed Editor Theme-Builder](https://zed.dev/theme-builder)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [TV tonight: jazz club crooning, dad dancing and Simply Red hits](https://www.theguardian.com/tv-and-radio/2026/may/09/tv-tonight-jazz-club-crooning-dad-dancing-and-simply-red-hits)
-- [‘The odds are not in our favour’: who sets the Doomsday Clock – and what can they tell us about the future of humanity?](https://www.theguardian.com/science/2026/may/09/doomsday-clock-ai-iran-ukraine-war-climate-breakdown-nuclear-apocalypse)
-- [Blind date: ‘I hope my handshake wasn’t too much of a red flag’](https://www.theguardian.com/lifeandstyle/2026/may/09/blind-date-katie-jonathan)
-- [Tim Dowling: I’ve come to respect the fox. But our dog is still a hardliner](https://www.theguardian.com/lifeandstyle/2026/may/09/tim-dowling-i-respect-the-fox-but-our-dog-is-still-a-hardliner)
-- [Worried Britons ‘prepping’ for major disruption with stash of tins and cash, survey shows](https://www.theguardian.com/business/2026/may/09/worried-britons-prepping-for-major-disruption-with-stash-of-tins-and-cash-survey-shows)
-- [Infected, at sea: how the deadly hantavirus turned a dream cruise into tragedy](https://www.theguardian.com/news/ng-interactive/2026/may/09/how-hantavirus-turned-hondius-dream-cruise-into-tragedy)
-- [Meera Sodha’s recipe for chopped broad bean trofie with mint and lemon | Meera Sodha recipes](https://www.theguardian.com/food/2026/may/09/chopped-broad-bean-trofie-mint-lemon-recipe-meera-sodha)
-- [At the Venice Biennale I saw anger at Russia and Israel – and its leadership pretending everything was fine | Charlotte Higgins](https://www.theguardian.com/commentisfree/2026/may/09/venice-biennale-anger-russia-israel-art-festival)
-- [A recipe for disaster: the Becky Barnicoat cartoon](https://www.theguardian.com/lifeandstyle/picture/2026/may/09/recipe-for-disaster-becky-barnicoat-cartoon)
-- [France has a record number of presidential hopefuls. Will any of them be able to hold back the far right?](https://www.theguardian.com/world/2026/may/09/france-has-a-record-number-of-presidential-hopefuls-will-any-of-them-be-able-to-hold-back-the-far-right)
+- [Iran’s Revolutionary Guards threaten US sites in Middle East if tankers come under fire](https://www.theguardian.com/world/2026/may/10/iran-threatens-us-sites-in-middle-east-if-tankers-come-under-fire)
+- [‘They’ve invented a spurious pseudo-disease’: why are so many men being told they have low testosterone?](https://www.theguardian.com/society/2026/may/10/invented-spurious-pseudo-disease-why-are-so-many-men-being-told-they-have-low-testosterone)
+- [My husband’s weight loss is triggering my eating disorders. What can I do? | Annalisa Barbieri](https://www.theguardian.com/lifeandstyle/2026/may/10/husbands-weight-loss-triggering-eating-disorders-annalisa-barbieri)
+- [Donald Trump will arrive in Beijing this week knowing that Xi holds all the cards | Simon Tisdall](https://www.theguardian.com/commentisfree/2026/may/10/donald-trump-xi-jinping-beijing-summit-iran-taiwan)
+- [Mitsu, London EC2: ‘Determinedly fun and delicious’ – restaurant review | Grace Dent on restaurants](https://www.theguardian.com/food/2026/may/10/mitsu-london-ec2-restaurant-review-grace-dent)
+- [Are you a ‘time optimist’? I’m sorry, we can’t be friends | Polly Hudson](https://www.theguardian.com/commentisfree/2026/may/10/are-you-time-optimist-sorry-cant-be-friends)
+- [Tehran, Taiwan, trade … what are the hazards facing Trump on Xi summit tightrope?](https://www.theguardian.com/news/ng-interactive/2026/may/10/tehran-taiwan-trade-donald-trump-xi-jinping-us-china-summit)
+- [Hantavirus is not easily spread, but is global heating upping our exposure?](https://www.theguardian.com/world/2026/may/10/hantavirus-is-not-easily-spread-but-is-global-heating-upping-our-exposure)
+- [Defence sovereignty: Europe races to build the low-cost weapons of future](https://www.theguardian.com/world/2026/may/10/defence-sovereignty-europe-builds-low-cost-weapons-drones)
+- [Vladimir Putin suggests Ukraine war is ‘coming to an end’](https://www.theguardian.com/world/2026/may/10/vladimir-putin-suggests-ukraine-war-is-coming-to-an-end)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

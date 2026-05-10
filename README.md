@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [A Technical Dive into Formalization of Chess Tactics](https://lichess.org/@/heroku/blog/gofchess--a-technical-dive-into-formalization-of-chess-tactics/KULHdYDn)
-- [Show HN: My New Projects Website](https://apps.weichart.de)
-- [The Making of Steven Spielberg&#39;s Jurassic Park &lpar;2012&rpar;](https://www.blu-ray.com/news/?id=8186)
-- [Deepsec: The security harness for finding vulnerabilities](https://vercel.com/blog/introducing-deepsec-find-and-fix-vulnerabilities-in-your-code-base)
-- [Watts Wasting Texas Water [pdf]](https://www.sierraclub.org/sites/default/files/2026-05/texaswaterreport_final.pdf)
+- [Agent Harness Engineering](https://twitter.com/addyosmani/status/2053231239721885918)
+- [Late-interaction rerank made our F1 worse, not better – a negative result](https://sverklo.com/blog/late-interaction-rerank-made-our-f1-worse/)
+- [A Field Study of Institutional Control in an AI-Staffed Prediction-Market Desk](https://github.com/wes-zheng/ai_institutions/blob/main/technical_report/paper.md)
+- [When life gives you lemons, write better error messages](https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f)
+- [Zeta2.1: 3x Fewer Tokens, 50ms Faster](https://zed.dev/blog/zeta2-1)
+- [Scouting&#39;s Real Crisis Is Not Marketing. It Is Decades of Neglect.](https://www.untendedfire.org/2026/05/09/scoutings-real-crisis-is-not-marketing-it-is-decades-of-neglect/)
+- [Giant Virginia Data Center Project Upended by Clerical Error](https://www.bloomberg.com/news/articles/2026-05-08/giant-data-center-project-in-virginia-upended-by-clerical-error)
+- [NYC School District Hit by Malware Attack as Well as Canvas Hack](https://www.bloomberg.com/news/articles/2026-05-08/canvas-hack-on-nyc-schools-comes-amid-separate-malware-attack)
+- [Student hackers revenge on final exams &#39;ShinyHunters&#39; attacks nearly 9k schools](https://fortune.com/2026/05/08/student-hackers-get-revenge-on-final-exams-as-shinyhunters-takes-down-nearly-9000-schools-study-software/)
 - [Aurora: A Leverage-Aware Optimizer for Rectangular Matrices](https://blog.tilderesearch.com/blog/aurora)
-- [Snapseed 4.0 – Note from the Team](https://old.reddit.com/r/snapseed/comments/1t7j7yt/snapseed_40_a_note_from_the_snapseed_team/)
-- [Fertilizer time bomb threatens to drive up Europe&#39;s food prices](https://www.politico.eu/article/europe-farmer-fertilizer-prices-iran-war-inflation/)
-- [Italy looks to Libyan gas fields to replace supply shortages from Iran war](https://www.politico.eu/article/italy-libya-gas-replace-supply-shortage-iran-war/)
-- [How to Build Vector Search from Scratch in Python](https://www.kdnuggets.com/how-to-build-vector-search-from-scratch-in-python)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

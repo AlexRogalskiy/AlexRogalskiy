@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Agent Harness Engineering](https://twitter.com/addyosmani/status/2053231239721885918)
-- [Late-interaction rerank made our F1 worse, not better – a negative result](https://sverklo.com/blog/late-interaction-rerank-made-our-f1-worse/)
-- [A Field Study of Institutional Control in an AI-Staffed Prediction-Market Desk](https://github.com/wes-zheng/ai_institutions/blob/main/technical_report/paper.md)
-- [When life gives you lemons, write better error messages](https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f)
-- [Zeta2.1: 3x Fewer Tokens, 50ms Faster](https://zed.dev/blog/zeta2-1)
-- [Scouting&#39;s Real Crisis Is Not Marketing. It Is Decades of Neglect.](https://www.untendedfire.org/2026/05/09/scoutings-real-crisis-is-not-marketing-it-is-decades-of-neglect/)
-- [Giant Virginia Data Center Project Upended by Clerical Error](https://www.bloomberg.com/news/articles/2026-05-08/giant-data-center-project-in-virginia-upended-by-clerical-error)
-- [NYC School District Hit by Malware Attack as Well as Canvas Hack](https://www.bloomberg.com/news/articles/2026-05-08/canvas-hack-on-nyc-schools-comes-amid-separate-malware-attack)
-- [Student hackers revenge on final exams &#39;ShinyHunters&#39; attacks nearly 9k schools](https://fortune.com/2026/05/08/student-hackers-get-revenge-on-final-exams-as-shinyhunters-takes-down-nearly-9000-schools-study-software/)
-- [Aurora: A Leverage-Aware Optimizer for Rectangular Matrices](https://blog.tilderesearch.com/blog/aurora)
+- [The Firmbyte Gap: Why the Most Valuable Connections Never Happen](https://bjro.dev/posts/the-firmbyte-gap/)
+- [Why you&#39;re probably going to lose money on Polymarket](https://www.msn.com/en-us/money/investment/why-you-re-probably-going-to-lose-money-on-polymarket/ar-AA22PkvU)
+- [Voting Before the Secret Ballot](https://www.historytoday.com/archive/feature/voting-secret-ballot)
+- [Basic linear algebra algorithms &lpar;since C++26&rpar;](https://en.cppreference.com/cpp/numeric/linalg)
+- [ShinyHunters claims – 9k schools affected by Instructure Canvas data breach](https://edscoop.com/shinyhunters-claims-nearly-9000-schools-affected-by-canvas-data-breach/)
+- [Everyone gets faster writes: We turned off FPW&#39;s in Neon](https://neon.com/blog/turning-off-fpw-for-faster-writes)
+- [What Makes Axavive Different from Other Supplements?](https://news.ycombinator.com/item?id=48091366)
+- [Does structured prompting change how LLMs reason, or just what they say?](https://doi.org/10.5281/zenodo.20116625)
+- [Democratizing AI Psychosis: Why Smart People Are Captured by AI Hype](https://perilous.tech/democratizing-ai-psychosis-why-smart-people-are-captured-by-ai-hype/)
+- [Do you take after your dad&#39;s RNA?](https://knowablemagazine.org/content/article/living-world/2026/epigenetic-effects-of-sperm-on-offspring)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Iran’s Revolutionary Guards threaten US sites in Middle East if tankers come under fire](https://www.theguardian.com/world/2026/may/10/iran-threatens-us-sites-in-middle-east-if-tankers-come-under-fire)
-- [‘They’ve invented a spurious pseudo-disease’: why are so many men being told they have low testosterone?](https://www.theguardian.com/society/2026/may/10/invented-spurious-pseudo-disease-why-are-so-many-men-being-told-they-have-low-testosterone)
-- [My husband’s weight loss is triggering my eating disorders. What can I do? | Annalisa Barbieri](https://www.theguardian.com/lifeandstyle/2026/may/10/husbands-weight-loss-triggering-eating-disorders-annalisa-barbieri)
-- [Donald Trump will arrive in Beijing this week knowing that Xi holds all the cards | Simon Tisdall](https://www.theguardian.com/commentisfree/2026/may/10/donald-trump-xi-jinping-beijing-summit-iran-taiwan)
-- [Mitsu, London EC2: ‘Determinedly fun and delicious’ – restaurant review | Grace Dent on restaurants](https://www.theguardian.com/food/2026/may/10/mitsu-london-ec2-restaurant-review-grace-dent)
-- [Are you a ‘time optimist’? I’m sorry, we can’t be friends | Polly Hudson](https://www.theguardian.com/commentisfree/2026/may/10/are-you-time-optimist-sorry-cant-be-friends)
-- [Tehran, Taiwan, trade … what are the hazards facing Trump on Xi summit tightrope?](https://www.theguardian.com/news/ng-interactive/2026/may/10/tehran-taiwan-trade-donald-trump-xi-jinping-us-china-summit)
-- [Hantavirus is not easily spread, but is global heating upping our exposure?](https://www.theguardian.com/world/2026/may/10/hantavirus-is-not-easily-spread-but-is-global-heating-upping-our-exposure)
-- [Defence sovereignty: Europe races to build the low-cost weapons of future](https://www.theguardian.com/world/2026/may/10/defence-sovereignty-europe-builds-low-cost-weapons-drones)
-- [Vladimir Putin suggests Ukraine war is ‘coming to an end’](https://www.theguardian.com/world/2026/may/10/vladimir-putin-suggests-ukraine-war-is-coming-to-an-end)
+- [TV tonight: children of the blitz tell stories of loss, defiance and love](https://www.theguardian.com/tv-and-radio/2026/may/11/tv-tonight-children-of-the-blitz-tell-stories-of-loss-defiance-and-love)
+- [Wales has been hit by a political earthquake – and the UK government is in a very tricky position | Will Hayward](https://www.theguardian.com/commentisfree/2026/may/11/wales-political-earthquake-uk-government-plaid-cymru-keir-starmer-labour)
+- [‘It’s like we went bankrupt overnight’: poorest Somalis suffer as piles of worthless shillings mount up](https://www.theguardian.com/world/2026/may/11/poorest-somalis-hit-hardest-currency-shillings-mobile-money)
+- [Delayed Great British Railways’ first station to open at Cambridge South in June](https://www.theguardian.com/business/2026/may/11/delayed-cambridge-south-station-open-june-great-british-railways)
+- [Minority groups brace for surge in racism after Reform UK election gains](https://www.theguardian.com/politics/2026/may/11/minority-groups-racism-fears-reform-uk-elections)
+- [David Gingell’s recipe for roast chicken with braised peas and lettuce](https://www.theguardian.com/food/2026/may/11/roast-chicken-braised-peas-lettuce-recipe-david-gingell)
+- [Cambridge University seeks deal with Saudi defence ministry despite rights concerns](https://www.theguardian.com/education/2026/may/11/cambridge-university-judge-business-school-saudi-defence-ministry)
+- [Country diary: Nesting mallard, owl and woodcock – this is the ‘human shield’ effect | Susie White](https://www.theguardian.com/environment/2026/may/11/country-diary-nesting-mallard-owl-and-woodcock-this-is-the-human-shield-effect)
+- [‘Being offended isn’t the worst thing. Being poor is’: how Robby Hoffman became a controversial comedy sensation](https://www.theguardian.com/lifeandstyle/2026/may/11/robby-hoffman-controversial-comedy-sensation-netflix)
+- [‘London is a case study in hope’: Sadiq Khan on 10 years as mayor](https://www.theguardian.com/politics/2026/may/11/sadiq-khan-10-years-london-mayor-labour-environment)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

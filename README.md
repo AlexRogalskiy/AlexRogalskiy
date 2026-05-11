@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Gemini API File Search is now multimodal](https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/)
-- [Show HN: Building a web server in assembly to give my life &lpar;a lack of&rpar; meaning](https://github.com/imtomt/ymawky)
-- [Sparse Cholesky Elimination Tree](https://www.reidatcheson.com/sparse/linear/cholesky/2026/04/09/etree.html)
-- [France moves to break encrypted messaging](https://reclaimthenet.org/france-moves-to-break-encrypted-messaging)
-- [Show HN: Rust but Lisp](https://github.com/ThatXliner/rust-but-lisp)
-- [Local privilege escalation via execve&lpar;&rpar;](https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc)
-- [Surfel-based global illumination on the web](https://juretriglav.si/surfel-based-global-illumination-on-the-web/)
-- [Meta&#39;s embrace of AI is making its employees miserable](https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html)
-- [Show HN: I made a Clojure-like language in Go, boots in 7ms](https://github.com/nooga/let-go)
-- [Zed Editor Theme-Builder](https://zed.dev/theme-builder)
+- [7 lines of code, 3 minutes: Implement a programming language &lpar;2010&rpar;](https://matt.might.net/articles/implementing-a-programming-language/)
+- [The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene &lpar;2024&rpar;](https://www.openculture.com/2024/10/the-greatest-shot-in-television.html)
+- [Show HN: adamsreview – better multi-agent PR reviews for Claude Code](https://github.com/adamjgmiller/adamsreview)
+- [I&#39;m going back to writing code by hand](https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/)
+- [An AI coding agent, used to write code, needs to reduce your maintenance costs](https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs)
+- [PS3 Emulator Devs Politely Ask That People Stop Flooding It with AI PRs](https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656)
+- [Running local models on an M4 with 24GB memory](https://jola.dev/posts/running-local-models-on-m4)
+- [How Fast Does Claude, Acting as a User Space IP Stack, Respond to Pings?](https://dunkels.com/adam/claude-user-space-ip-stack-ping/)
+- [Obsidian plugin was abused to deploy a remote access trojan](https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/)
+- [Maryland citizens hit with $2B power grid upgrade for out-of-state AI](https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

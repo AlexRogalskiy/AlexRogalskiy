@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [7 lines of code, 3 minutes: Implement a programming language &lpar;2010&rpar;](https://matt.might.net/articles/implementing-a-programming-language/)
-- [The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene &lpar;2024&rpar;](https://www.openculture.com/2024/10/the-greatest-shot-in-television.html)
-- [Show HN: adamsreview – better multi-agent PR reviews for Claude Code](https://github.com/adamjgmiller/adamsreview)
-- [I&#39;m going back to writing code by hand](https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/)
-- [An AI coding agent, used to write code, needs to reduce your maintenance costs](https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs)
-- [PS3 Emulator Devs Politely Ask That People Stop Flooding It with AI PRs](https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656)
-- [Running local models on an M4 with 24GB memory](https://jola.dev/posts/running-local-models-on-m4)
-- [How Fast Does Claude, Acting as a User Space IP Stack, Respond to Pings?](https://dunkels.com/adam/claude-user-space-ip-stack-ping/)
-- [Obsidian plugin was abused to deploy a remote access trojan](https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/)
-- [Maryland citizens hit with $2B power grid upgrade for out-of-state AI](https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises)
+- [Extremely Low Frequencies](https://computer.rip/2026-05-09-extremely-low-frequencies.html)
+- [Productivity isn&#39;t about going faster](https://humanpro.co/articles/productivity-isnt-about-going-faster/)
+- [Why Everyone&#39;s Picking Up a PSP Again in 2026](https://gardinerbryant.com/psp-in-2026/)
+- [Software Internals Book Club](https://eatonphil.com/bookclub.html)
+- [Claude Platform on AWS](https://claude.com/blog/claude-platform-on-aws)
+- [They Live &lpar;1988&rpar; inspired Adblocker](https://github.com/davmlaw/they_live_adblocker)
+- [Griffin PowerMate driver for modern macOS](https://github.com/jameslockman/Griffin-PowerMate-Driver)
+- [Postmortem: TanStack npm supply-chain compromise](https://tanstack.com/blog/npm-supply-chain-compromise-postmortem)
+- [I let AI build a tool to help me figure out what was waking me up at night](https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/)
+- [Interaction Models](https://thinkingmachines.ai/blog/interaction-models/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

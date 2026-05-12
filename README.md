@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [TV tonight: children of the blitz tell stories of loss, defiance and love](https://www.theguardian.com/tv-and-radio/2026/may/11/tv-tonight-children-of-the-blitz-tell-stories-of-loss-defiance-and-love)
-- [Wales has been hit by a political earthquake – and the UK government is in a very tricky position | Will Hayward](https://www.theguardian.com/commentisfree/2026/may/11/wales-political-earthquake-uk-government-plaid-cymru-keir-starmer-labour)
-- [‘It’s like we went bankrupt overnight’: poorest Somalis suffer as piles of worthless shillings mount up](https://www.theguardian.com/world/2026/may/11/poorest-somalis-hit-hardest-currency-shillings-mobile-money)
-- [Delayed Great British Railways’ first station to open at Cambridge South in June](https://www.theguardian.com/business/2026/may/11/delayed-cambridge-south-station-open-june-great-british-railways)
-- [Minority groups brace for surge in racism after Reform UK election gains](https://www.theguardian.com/politics/2026/may/11/minority-groups-racism-fears-reform-uk-elections)
-- [David Gingell’s recipe for roast chicken with braised peas and lettuce](https://www.theguardian.com/food/2026/may/11/roast-chicken-braised-peas-lettuce-recipe-david-gingell)
-- [Cambridge University seeks deal with Saudi defence ministry despite rights concerns](https://www.theguardian.com/education/2026/may/11/cambridge-university-judge-business-school-saudi-defence-ministry)
-- [Country diary: Nesting mallard, owl and woodcock – this is the ‘human shield’ effect | Susie White](https://www.theguardian.com/environment/2026/may/11/country-diary-nesting-mallard-owl-and-woodcock-this-is-the-human-shield-effect)
-- [‘Being offended isn’t the worst thing. Being poor is’: how Robby Hoffman became a controversial comedy sensation](https://www.theguardian.com/lifeandstyle/2026/may/11/robby-hoffman-controversial-comedy-sensation-netflix)
-- [‘London is a case study in hope’: Sadiq Khan on 10 years as mayor](https://www.theguardian.com/politics/2026/may/11/sadiq-khan-10-years-london-mayor-labour-environment)
+- [TV tonight: Mel Giedroyc’s very fun escape room show](https://www.theguardian.com/tv-and-radio/2026/may/12/tv-tonight-mel-giedroycs-very-fun-escape-room-show)
+- [Seven-day weeks and ‘debt bondage’: China’s first electric car plant in Europe mired in allegations of worker abuse](https://www.theguardian.com/global-development/2026/may/12/china-first-electric-car-plant-europe-allegations-worker-abuse)
+- [Teen bedroom art installation shines spotlight on Ukraine’s stolen children](https://www.theguardian.com/world/2026/may/12/teen-bedroom-art-installation-shines-spotlight-on-ukraines-stolen-children)
+- [Wes Streeting faces narrow road to Labour members’ favour](https://www.theguardian.com/politics/2026/may/12/wes-streeting-faces-narrow-road-to-labour-members-favour)
+- [Will Starmer’s old Labour tribute strategy rescue him from the abyss? Probably not, but there’s a logic to it | Gaby Hinsliff](https://www.theguardian.com/commentisfree/2026/may/12/keir-starmer-labour-reset-gordon-brown-harriet-harman)
+- [Lamb with peas and broad beans, caponata and vignarola: Conor Gadd’s recipes for Italian-style spring vegetables](https://www.theguardian.com/food/2026/may/12/lamb-peas-broad-beans-caponata-vignarola-recipes-conor-gadd)
+- [Cannes spotlight reverts to auteurs as Hollywood retreats from film festival](https://www.theguardian.com/film/2026/may/12/cannes-film-festival-comeback-auteurs-hollywood-retreats)
+- [Hot divorcee summer: get ready for big hats, hot sex and don’t-care energy](https://www.theguardian.com/lifeandstyle/2026/may/12/hot-divorcee-summer)
+- [‘I couldn’t breathe’: the sinister spread of France’s killer seaweed](https://www.theguardian.com/news/2026/may/12/i-couldnt-breathe-the-sinister-spread-of-frances-killer-seaweed)
+- [Yes, Europe’s leaders are finally standing up to Trump. Here’s why | Mujtaba Rahman](https://www.theguardian.com/commentisfree/2026/may/12/friedrich-merz-europe-leaders-standing-up-to-trump)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

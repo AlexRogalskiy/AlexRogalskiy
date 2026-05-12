@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Firmbyte Gap: Why the Most Valuable Connections Never Happen](https://bjro.dev/posts/the-firmbyte-gap/)
-- [Why you&#39;re probably going to lose money on Polymarket](https://www.msn.com/en-us/money/investment/why-you-re-probably-going-to-lose-money-on-polymarket/ar-AA22PkvU)
-- [Voting Before the Secret Ballot](https://www.historytoday.com/archive/feature/voting-secret-ballot)
-- [Basic linear algebra algorithms &lpar;since C++26&rpar;](https://en.cppreference.com/cpp/numeric/linalg)
-- [ShinyHunters claims – 9k schools affected by Instructure Canvas data breach](https://edscoop.com/shinyhunters-claims-nearly-9000-schools-affected-by-canvas-data-breach/)
-- [Everyone gets faster writes: We turned off FPW&#39;s in Neon](https://neon.com/blog/turning-off-fpw-for-faster-writes)
-- [What Makes Axavive Different from Other Supplements?](https://news.ycombinator.com/item?id=48091366)
-- [Does structured prompting change how LLMs reason, or just what they say?](https://doi.org/10.5281/zenodo.20116625)
-- [Democratizing AI Psychosis: Why Smart People Are Captured by AI Hype](https://perilous.tech/democratizing-ai-psychosis-why-smart-people-are-captured-by-ai-hype/)
-- [Do you take after your dad&#39;s RNA?](https://knowablemagazine.org/content/article/living-world/2026/epigenetic-effects-of-sperm-on-offspring)
+- [Sony&#39;s Metamorphosis: HDTV Demo Laserdisc &lpar;1990&rpar; [video]](https://www.youtube.com/watch?v=YW26YMe8iUQ)
+- [Sweden is the first country in the world prescribed by doctors](https://visitsweden.com/the-swedish-prescription/)
+- [The Software Layer of China-US Tech Diplomacy](https://thediplomat.com/2026/05/the-software-layer-of-china-us-tech-diplomacy/)
+- [Soul.md](https://3798.substack.com/p/soulmd)
+- [Byron Allen Is Buying BuzzFeed, Will Become CEO](https://variety.com/2026/digital/news/byron-allen-buying-buzzfeed-ceo-1236745206/)
+- [Lojban](https://en.wikipedia.org/wiki/Lojban)
+- [Claude Code and Blender MCP](https://hydroxide.dev/articles/blender-mcp-claude-code/)
+- [Screenshots of Old Desktop OSes](http://www.typewritten.org/Media/)
+- [I tried building AI agents and ended up needing an institution](https://github.com/wes-zheng/ai_institutions)
+- [Rendering the Sky, Sunsets, and Planets](https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

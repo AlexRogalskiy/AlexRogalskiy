@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [TV tonight: Mel Giedroyc’s very fun escape room show](https://www.theguardian.com/tv-and-radio/2026/may/12/tv-tonight-mel-giedroycs-very-fun-escape-room-show)
-- [Seven-day weeks and ‘debt bondage’: China’s first electric car plant in Europe mired in allegations of worker abuse](https://www.theguardian.com/global-development/2026/may/12/china-first-electric-car-plant-europe-allegations-worker-abuse)
-- [Teen bedroom art installation shines spotlight on Ukraine’s stolen children](https://www.theguardian.com/world/2026/may/12/teen-bedroom-art-installation-shines-spotlight-on-ukraines-stolen-children)
-- [Wes Streeting faces narrow road to Labour members’ favour](https://www.theguardian.com/politics/2026/may/12/wes-streeting-faces-narrow-road-to-labour-members-favour)
-- [Will Starmer’s old Labour tribute strategy rescue him from the abyss? Probably not, but there’s a logic to it | Gaby Hinsliff](https://www.theguardian.com/commentisfree/2026/may/12/keir-starmer-labour-reset-gordon-brown-harriet-harman)
-- [Lamb with peas and broad beans, caponata and vignarola: Conor Gadd’s recipes for Italian-style spring vegetables](https://www.theguardian.com/food/2026/may/12/lamb-peas-broad-beans-caponata-vignarola-recipes-conor-gadd)
-- [Cannes spotlight reverts to auteurs as Hollywood retreats from film festival](https://www.theguardian.com/film/2026/may/12/cannes-film-festival-comeback-auteurs-hollywood-retreats)
-- [Hot divorcee summer: get ready for big hats, hot sex and don’t-care energy](https://www.theguardian.com/lifeandstyle/2026/may/12/hot-divorcee-summer)
-- [‘I couldn’t breathe’: the sinister spread of France’s killer seaweed](https://www.theguardian.com/news/2026/may/12/i-couldnt-breathe-the-sinister-spread-of-frances-killer-seaweed)
-- [Yes, Europe’s leaders are finally standing up to Trump. Here’s why | Mujtaba Rahman](https://www.theguardian.com/commentisfree/2026/may/12/friedrich-merz-europe-leaders-standing-up-to-trump)
+- [TV tonight: a stirring exploration of some grim goings on in Ruislip](https://www.theguardian.com/tv-and-radio/2026/may/13/tv-tonight-a-stirring-exploration-of-some-grim-goings-on-in-ruislip)
+- [Trump Tower on Gold Coast scrapped because brand &#39;toxic to Australians&#39;](https://www.theguardian.com/australia-news/2026/may/13/trump-tower-australia-gold-coast-scrapped-ntwnfb)
+- [Labour-supporting unions predict Starmer will not lead party into next election](https://www.theguardian.com/politics/2026/may/13/labour-unions-keir-starmer-leader-election)
+- [Labour needs a battle of ideas now, not a scramble to snatch the keys to No 10 | Rafael Behr](https://www.theguardian.com/commentisfree/2026/may/13/labour-battle-of-ideas-no-10-keir-starmer-leadership)
+- [On Monday morning it was a busy South Sudan hospital. By Tuesday night it was a bombed-out shell](https://www.theguardian.com/global-development/2026/may/13/south-sudan-hospital-msf-bombed-healthcare-attacks-jonglei)
+- [Coconut dal, cheesy pickle toasties, carrot halva cakes: Ravinder Bhogal’s tastes of home – recipes](https://www.theguardian.com/food/2026/may/13/south-asian-coconut-dal-cheesy-pickle-toasties-carrot-halva-recipes-cakes-ravinder-bhogal)
+- [Chelsea flower show garden designers clash over use of AI](https://www.theguardian.com/lifeandstyle/2026/may/13/chelsea-flower-show-garden-designers-clash-over-ai)
+- [Trump due in China for high-stakes summit with Xi Jinping, as Iran war looms over talks](https://www.theguardian.com/world/2026/may/13/trump-china-summit-xi-jinping-talks)
+- [Getting children to eat their vegetables starts in the womb, researchers suggest](https://www.theguardian.com/society/2026/may/13/children-eat-vegetables-starts-in-womb-researchers-suggest)
+- [‘We’re not out to get anyone – we just want to slow you down’: why do lollipop people face so much road rage?](https://www.theguardian.com/lifeandstyle/2026/may/13/why-do-lollipop-people-face-so-much-road-rage)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

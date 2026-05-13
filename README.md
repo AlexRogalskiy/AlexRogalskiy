@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Extremely Low Frequencies](https://computer.rip/2026-05-09-extremely-low-frequencies.html)
-- [Productivity isn&#39;t about going faster](https://humanpro.co/articles/productivity-isnt-about-going-faster/)
-- [Why Everyone&#39;s Picking Up a PSP Again in 2026](https://gardinerbryant.com/psp-in-2026/)
-- [Software Internals Book Club](https://eatonphil.com/bookclub.html)
-- [Claude Platform on AWS](https://claude.com/blog/claude-platform-on-aws)
-- [They Live &lpar;1988&rpar; inspired Adblocker](https://github.com/davmlaw/they_live_adblocker)
-- [Griffin PowerMate driver for modern macOS](https://github.com/jameslockman/Griffin-PowerMate-Driver)
-- [Postmortem: TanStack npm supply-chain compromise](https://tanstack.com/blog/npm-supply-chain-compromise-postmortem)
-- [I let AI build a tool to help me figure out what was waking me up at night](https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/)
-- [Interaction Models](https://thinkingmachines.ai/blog/interaction-models/)
+- [Deterministic Fully-Static Whole-Binary Translation Without Heuristics](https://arxiv.org/abs/2605.08419)
+- [We tested super-resolution pre-filter for LPR OCR. It did nothing](https://www.wink.co/documentation/Neural-Super-Resolution-Pre-Filter-LPR-2026)
+- [Zero-native – Build native desktop apps with web UI](https://zero-native.dev)
+- [My graduation cap runs Rust](https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/)
+- [When &quot;idle&quot; isn&#39;t idle: how a Linux kernel optimization became a QUIC bug](https://blog.cloudflare.com/quic-death-spiral-fix/)
+- [Kraftwerk&#39;s radical 1976 track](https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem)
+- [Tell NYT, Atlantic, USA Today to keep Wayback Machine](https://www.savethearchive.com/newsleaders/)
+- [Restore full BambuNetwork support for Bambu Lab printers](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)
+- [EFF to 4th Circuit: Electronic Device Searches at the Border Require a Warrant](https://www.eff.org/deeplinks/2026/05/eff-fourth-circuit-electronic-device-searches-border-require-warrant)
+- [Scrcpy v4.0](https://github.com/Genymobile/scrcpy/releases/tag/v4.0)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

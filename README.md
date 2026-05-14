@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Deterministic Fully-Static Whole-Binary Translation Without Heuristics](https://arxiv.org/abs/2605.08419)
-- [We tested super-resolution pre-filter for LPR OCR. It did nothing](https://www.wink.co/documentation/Neural-Super-Resolution-Pre-Filter-LPR-2026)
-- [Zero-native – Build native desktop apps with web UI](https://zero-native.dev)
-- [My graduation cap runs Rust](https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/)
-- [When &quot;idle&quot; isn&#39;t idle: how a Linux kernel optimization became a QUIC bug](https://blog.cloudflare.com/quic-death-spiral-fix/)
-- [Kraftwerk&#39;s radical 1976 track](https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem)
-- [Tell NYT, Atlantic, USA Today to keep Wayback Machine](https://www.savethearchive.com/newsleaders/)
-- [Restore full BambuNetwork support for Bambu Lab printers](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)
-- [EFF to 4th Circuit: Electronic Device Searches at the Border Require a Warrant](https://www.eff.org/deeplinks/2026/05/eff-fourth-circuit-electronic-device-searches-border-require-warrant)
-- [Scrcpy v4.0](https://github.com/Genymobile/scrcpy/releases/tag/v4.0)
+- [Built to help my dad pass CCNA, now were changing how people learn networking](https://switchlab.dev/)
+- [Claude for Small Business](https://www.anthropic.com/news/claude-for-small-business)
+- [Arena AI Model ELO History](https://mayerwin.github.io/AI-Arena-History/)
+- [Microsoft BitLocker – YellowKey zero-day exploit](https://www.tomshardware.com/tech-industry/cyber-security/microsoft-bitlocker-protected-drives-can-now-be-opened-with-just-some-files-on-a-usb-stick-yellowkey-zero-day-exploit-demonstrates-an-apparent-backdoor)
+- [Show HN: Nibble](https://github.com/glouw/nibble)
+- [Cisco workforce reductions](https://blogs.cisco.com/news/our-path-forward)
+- [delta time](https://www.deltatime.life/)
+- [Avoiding and reducing microplastic false positives from dry glove contact](https://pubs.rsc.org/en/content/articlelanding/2026/ay/d5ay01801c)
+- [Scorched Earth 2000 – Web](http://www.scorch2000.com/web/)
+- [The other half of AI safety](https://personalaisafety.com/p/the-other-half-of-ai-safety)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

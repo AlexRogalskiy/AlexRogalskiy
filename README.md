@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [TV tonight: a stirring exploration of some grim goings on in Ruislip](https://www.theguardian.com/tv-and-radio/2026/may/13/tv-tonight-a-stirring-exploration-of-some-grim-goings-on-in-ruislip)
-- [Trump Tower on Gold Coast scrapped because brand &#39;toxic to Australians&#39;](https://www.theguardian.com/australia-news/2026/may/13/trump-tower-australia-gold-coast-scrapped-ntwnfb)
-- [Labour-supporting unions predict Starmer will not lead party into next election](https://www.theguardian.com/politics/2026/may/13/labour-unions-keir-starmer-leader-election)
-- [Labour needs a battle of ideas now, not a scramble to snatch the keys to No 10 | Rafael Behr](https://www.theguardian.com/commentisfree/2026/may/13/labour-battle-of-ideas-no-10-keir-starmer-leadership)
-- [On Monday morning it was a busy South Sudan hospital. By Tuesday night it was a bombed-out shell](https://www.theguardian.com/global-development/2026/may/13/south-sudan-hospital-msf-bombed-healthcare-attacks-jonglei)
-- [Coconut dal, cheesy pickle toasties, carrot halva cakes: Ravinder Bhogal’s tastes of home – recipes](https://www.theguardian.com/food/2026/may/13/south-asian-coconut-dal-cheesy-pickle-toasties-carrot-halva-recipes-cakes-ravinder-bhogal)
-- [Chelsea flower show garden designers clash over use of AI](https://www.theguardian.com/lifeandstyle/2026/may/13/chelsea-flower-show-garden-designers-clash-over-ai)
-- [Trump due in China for high-stakes summit with Xi Jinping, as Iran war looms over talks](https://www.theguardian.com/world/2026/may/13/trump-china-summit-xi-jinping-talks)
-- [Getting children to eat their vegetables starts in the womb, researchers suggest](https://www.theguardian.com/society/2026/may/13/children-eat-vegetables-starts-in-womb-researchers-suggest)
-- [‘We’re not out to get anyone – we just want to slow you down’: why do lollipop people face so much road rage?](https://www.theguardian.com/lifeandstyle/2026/may/13/why-do-lollipop-people-face-so-much-road-rage)
+- [Trump China visit live: Xi Jinping warns US and China could ‘come into conflict’ if Taiwan issue mishandled, state media reports](https://www.theguardian.com/us-news/live/2026/may/14/donald-trump-china-xi-jinping-live-updates-talks-meeting-summit-visit-beijing-latest-news)
+- [Rachel Roddy’s recipe for orzo with peas, broad beans, asparagus, parmesan and lemon | A kitchen in Rome](https://www.theguardian.com/food/2026/may/14/orzo-peas-broad-beans-asparagus-parmesan-lemon-recipe-rachel-roddy)
+- [You’ve heard the king’s speech – but I think a better one might run like this | David Blunkett](https://www.theguardian.com/commentisfree/2026/may/14/kings-speech-david-blunkett-government-cost-of-living)
+- [Rise in sickle cell disease prompts NHS call for more Black blood donors](https://www.theguardian.com/society/2026/may/14/rise-in-sickle-cell-disease-prompts-call-for-black-blood-donors)
+- [Farage’s Clacton-on-Sea constituency worst ‘tree desert’ in England, research shows](https://www.theguardian.com/environment/2026/may/14/clacton-on-sea-tree-desert-woodland-trust)
+- [Most famous image of JMW Turner not a self-portrait, says expert](https://www.theguardian.com/artanddesign/2026/may/14/most-famous-image-turner-not-self-portrait-says-expert)
+- [And did those feet in ancient time: walking Britain’s oldest paths](https://www.theguardian.com/travel/2026/may/14/walking-britain-ancient-paths-nicholas-crane)
+- [Thursday news quiz: station to station, and doing the locomotive after Ted Lasso](https://www.theguardian.com/lifeandstyle/2026/may/14/the-guardian-thursday-quiz-general-knowledge-topical-news-trivia-247)
+- [As the right moves in on antisemitism, where does that leave the Jewish left?](https://www.theguardian.com/news/2026/may/14/as-the-right-moves-in-on-antisemitism-where-does-that-leave-the-jewish-left)
+- [Angela Rayner cleared by HMRC over tax affairs paving the way for potential leadership bid](https://www.theguardian.com/politics/2026/may/14/angela-rayner-cleared-hmrc-tax-affairs-labour-leadership-starmer)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

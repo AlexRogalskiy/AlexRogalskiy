@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Trump China visit live: Xi Jinping warns US and China could ‘come into conflict’ if Taiwan issue mishandled, state media reports](https://www.theguardian.com/us-news/live/2026/may/14/donald-trump-china-xi-jinping-live-updates-talks-meeting-summit-visit-beijing-latest-news)
-- [Rachel Roddy’s recipe for orzo with peas, broad beans, asparagus, parmesan and lemon | A kitchen in Rome](https://www.theguardian.com/food/2026/may/14/orzo-peas-broad-beans-asparagus-parmesan-lemon-recipe-rachel-roddy)
-- [You’ve heard the king’s speech – but I think a better one might run like this | David Blunkett](https://www.theguardian.com/commentisfree/2026/may/14/kings-speech-david-blunkett-government-cost-of-living)
-- [Rise in sickle cell disease prompts NHS call for more Black blood donors](https://www.theguardian.com/society/2026/may/14/rise-in-sickle-cell-disease-prompts-call-for-black-blood-donors)
-- [Farage’s Clacton-on-Sea constituency worst ‘tree desert’ in England, research shows](https://www.theguardian.com/environment/2026/may/14/clacton-on-sea-tree-desert-woodland-trust)
-- [Most famous image of JMW Turner not a self-portrait, says expert](https://www.theguardian.com/artanddesign/2026/may/14/most-famous-image-turner-not-self-portrait-says-expert)
-- [And did those feet in ancient time: walking Britain’s oldest paths](https://www.theguardian.com/travel/2026/may/14/walking-britain-ancient-paths-nicholas-crane)
-- [Thursday news quiz: station to station, and doing the locomotive after Ted Lasso](https://www.theguardian.com/lifeandstyle/2026/may/14/the-guardian-thursday-quiz-general-knowledge-topical-news-trivia-247)
-- [As the right moves in on antisemitism, where does that leave the Jewish left?](https://www.theguardian.com/news/2026/may/14/as-the-right-moves-in-on-antisemitism-where-does-that-leave-the-jewish-left)
-- [Angela Rayner cleared by HMRC over tax affairs paving the way for potential leadership bid](https://www.theguardian.com/politics/2026/may/14/angela-rayner-cleared-hmrc-tax-affairs-labour-leadership-starmer)
+- [Trump China visit live: US president says a lot of problems ‘settled’, as he meets with Xi on final day of summit](https://www.theguardian.com/world/live/2026/may/15/trump-china-visit-live-updates-xi-jinping-talks-meeting-summit-latest-news)
+- [All in the mind: are exercise slides the next ugly shoe?](https://www.theguardian.com/fashion/2026/may/14/are-exercise-slides-the-next-ugly-shoe-nike-mind-hoka)
+- [Marlboro maker accused of ‘exploiting’ young people with new global ad campaign](https://www.theguardian.com/society/2026/may/15/marlboro-maker-philip-morris-international-young-people-new-global-advertising-campaign)
+- [Helen Goh’s recipe for Thai mango and coconut sticky rice | The sweet spot](https://www.theguardian.com/food/2026/may/15/thai-mango-coconut-sticky-rice-recipe-helen-goh)
+- [After four bloody years, the war on Ukraine might be turning into Putin’s undoing | Rajan Menon](https://www.theguardian.com/commentisfree/2026/may/15/russia-war-ukraine-vladimir-putin-economy-casualties)
+- [Wood burning is reintroducing lead pollution into the air, US scientists find](https://www.theguardian.com/environment/2026/may/15/wood-burning-for-heat-reintroducing-lead-pollution-into-the-air-us-scientists-find)
+- [Britons to vote in inaugural contest to find nation’s favourite butterfly](https://www.theguardian.com/environment/2026/may/15/britain-vote-contest-find-nation-favourite-butterfly)
+- [An Ideal Husband review – Oscar Wilde’s comedy gets the gleefully camp glow-up it deserves](https://www.theguardian.com/stage/2026/may/15/an-ideal-husband-review-lyric-hammersmith-london)
+- [If Labour didn’t exist, would you invent it? Streeting, Rayner, Burnham – you need to tell us why](https://www.theguardian.com/commentisfree/2026/may/15/labour-wes-streeting-angela-rayner-andy-burnham-leader)
+- [Nymphomaniacs and sex droughts: what I learned while studying women’s pleasure](https://www.theguardian.com/society/2026/may/15/nymphomaniacs-sex-droughts-what-i-learned-while-studying-womens-pleasure)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

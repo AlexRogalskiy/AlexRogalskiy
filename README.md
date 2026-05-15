@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Built to help my dad pass CCNA, now were changing how people learn networking](https://switchlab.dev/)
-- [Claude for Small Business](https://www.anthropic.com/news/claude-for-small-business)
-- [Arena AI Model ELO History](https://mayerwin.github.io/AI-Arena-History/)
-- [Microsoft BitLocker – YellowKey zero-day exploit](https://www.tomshardware.com/tech-industry/cyber-security/microsoft-bitlocker-protected-drives-can-now-be-opened-with-just-some-files-on-a-usb-stick-yellowkey-zero-day-exploit-demonstrates-an-apparent-backdoor)
-- [Show HN: Nibble](https://github.com/glouw/nibble)
-- [Cisco workforce reductions](https://blogs.cisco.com/news/our-path-forward)
-- [delta time](https://www.deltatime.life/)
-- [Avoiding and reducing microplastic false positives from dry glove contact](https://pubs.rsc.org/en/content/articlelanding/2026/ay/d5ay01801c)
-- [Scorched Earth 2000 – Web](http://www.scorch2000.com/web/)
-- [The other half of AI safety](https://personalaisafety.com/p/the-other-half-of-ai-safety)
+- [How Claude Code works in large codebases](https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start)
+- [Coldkey – Post-quantum age key generation and paper backup tool](https://github.com/pike00/coldkey)
+- [Details of the Daring Airdrop at Tristan Da Cunha](https://www.tristandc.com/government/news-2026-05-11-airdrop.php)
+- [reCAPTCHA Mobile Verification Is Bringing the Play Integrity API to Desktops](https://discuss.grapheneos.org/d/35428-recaptcha-mobile-verification-is-bringing-the-play-integrity-api-to-desktops)
+- [Mullvad exit IPs are surprisingly identifying](https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/)
+- [Access to frontier AI will soon be limited by economic and security constraints](https://writing.antonleicht.me/p/cut-off)
+- [UFerris a Versatile Learner Board for Rust Embedded Beginners](https://www.theembeddedrustacean.com/uferris)
+- [LLM Policy for Rust Compiler](https://github.com/rust-lang/rust-forge/pull/1040)
+- [More than sixty percent of the United States is experiencing drought conditions](https://news.vt.edu/articles/2026/05/drought-united-states-la-nina-expert.html)
+- [Ontario auditors find doctors&#39; AI note takers routinely blow basic facts](https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

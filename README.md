@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [ChatGPT-Linked Mass Shootings Drive Developer Liability Concerns](https://news.bloomberglaw.com/litigation/chatgpt-linked-mass-shootings-drive-developer-liability-concerns)
-- [Major Atlassian Outage](https://status.atlassian.com/)
-- [Don&#39;t Be Discouraged to Code by Hand](https://seongminpark.com/coding-by-hand/)
-- [Saorsa, a new kind of social media built around what is happening in the world](https://saorsa.ai)
-- [You Won&#39;t Finish This Article. Why people online don&#39;t read to the end. &lpar;2013&rpar;](https://slate.com/technology/2013/06/how-people-read-online-why-you-wont-finish-this-article.html)
-- [I work on self-improving AI despite the risks](https://twitter.com/jeffclune/status/2054637385850511360)
-- [AI coders are carrying half-open laptops through airports, offices, ice rinks](https://www.businessinsider.com/coders-keep-laptops-open-in-public-ai-agent-2026-5)
-- [The End of Claude Code Automation](https://www.vincentschmalbach.com/the-end-of-claude-code-automation/)
-- [Shining](https://shining.302chanwoo.com/)
-- [A Streaming First Language for Generative UI](https://github.com/thesysdev/openui)
+- [Agentic SDLC: How OpenSearch accelerates engineering with its own engine](https://opensearch.org/blog/harness-first-agentic-sdlc-how-opensearch-builds-software-using-its-own-search-engine/)
+- [UK Government Kicks Out Palantir](https://shkspr.mobi/blog/2026/05/uk-government-kicks-out-palantir/)
+- [Show HN: QUptime, quorum based decentralized uptime tool](https://github.com/Axodouble/QUptime)
+- [Multi-LLM trading harness with live leaderboard on Alpaca paper trades](https://github.com/achaljhawar/1rok)
+- [What Are the Different Types of AI Testing Tools?](https://news.ycombinator.com/item?id=48144848)
+- [The Power of the Breath](https://medicine.yale.edu/news-article/the-power-of-the-breath/)
+- [Social Media Bans Are for Kids. What About Adults?](https://pmz1.substack.com/p/social-media-bans-are-for-kids-what)
+- [How climate-resilient homes in India are reducing dependence on air conditioners](https://www.thehindu.com/sci-tech/energy-and-environment/how-climate-resilient-homes-in-india-are-reducing-dependence-on-air-conditioners/article70919326.ece)
+- [OpenAI just lost its enterprise AI crown to Anthropic](https://www.businessinsider.com/anthropic-tops-openai-business-ai-adoption-ramp-index-2026-5)
+- [Edith Eger, Auschwitz Survivor Who Helped Others Cope with Trauma, Dies at 98](https://www.wsj.com/world/edith-eva-eger-dead-13268534)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [How Claude Code works in large codebases](https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start)
-- [Coldkey – Post-quantum age key generation and paper backup tool](https://github.com/pike00/coldkey)
-- [Details of the Daring Airdrop at Tristan Da Cunha](https://www.tristandc.com/government/news-2026-05-11-airdrop.php)
-- [reCAPTCHA Mobile Verification Is Bringing the Play Integrity API to Desktops](https://discuss.grapheneos.org/d/35428-recaptcha-mobile-verification-is-bringing-the-play-integrity-api-to-desktops)
-- [Mullvad exit IPs are surprisingly identifying](https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/)
-- [Access to frontier AI will soon be limited by economic and security constraints](https://writing.antonleicht.me/p/cut-off)
-- [UFerris a Versatile Learner Board for Rust Embedded Beginners](https://www.theembeddedrustacean.com/uferris)
-- [LLM Policy for Rust Compiler](https://github.com/rust-lang/rust-forge/pull/1040)
-- [More than sixty percent of the United States is experiencing drought conditions](https://news.vt.edu/articles/2026/05/drought-united-states-la-nina-expert.html)
-- [Ontario auditors find doctors&#39; AI note takers routinely blow basic facts](https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771)
+- [&#39;No way to prevent this,&#39; says only package manager where this regularly happens](https://kevinpatel.xyz/posts/no-way-to-prevent-this/)
+- [Show HN: Epiq – Distributed Git based issue tracker TUI](https://ljtn.github.io/epiq/)
+- [NYT and Vaping: How to Lie by Saying Only True Things &lpar;2022&rpar;](https://gwern.net/vaping)
+- [The main thing about P2P meth is that there&#39;s so much of it &lpar;2021&rpar;](https://dynomight.net/p2p-meth/)
+- [Erlang/OTP 29.0](https://www.erlang.org/news/188)
+- [SQL patterns I use to catch transaction fraud](https://analytics.fixelsmith.com/posts/sql-fraud-patterns/)
+- [Orthrus-Qwen3: up to 7.8×tokens/forward on Qwen3, identical output distribution](https://github.com/chiennv2000/orthrus)
+- [How to Write to SSDs [pdf]](https://www.vldb.org/pvldb/vol19/p1469-lee.pdf)
+- [I believe there are entire companies right now under AI psychosis](https://twitter.com/mitchellh/status/2055380239711457578)
+- [California bill would require patches or refunds when online games shut down](https://arstechnica.com/gaming/2026/05/bill-to-keep-online-games-playable-clears-key-hurdle-in-california/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

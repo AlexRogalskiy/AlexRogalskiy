@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Trump China visit live: US president says a lot of problems ‘settled’, as he meets with Xi on final day of summit](https://www.theguardian.com/world/live/2026/may/15/trump-china-visit-live-updates-xi-jinping-talks-meeting-summit-latest-news)
-- [All in the mind: are exercise slides the next ugly shoe?](https://www.theguardian.com/fashion/2026/may/14/are-exercise-slides-the-next-ugly-shoe-nike-mind-hoka)
-- [Marlboro maker accused of ‘exploiting’ young people with new global ad campaign](https://www.theguardian.com/society/2026/may/15/marlboro-maker-philip-morris-international-young-people-new-global-advertising-campaign)
-- [Helen Goh’s recipe for Thai mango and coconut sticky rice | The sweet spot](https://www.theguardian.com/food/2026/may/15/thai-mango-coconut-sticky-rice-recipe-helen-goh)
-- [After four bloody years, the war on Ukraine might be turning into Putin’s undoing | Rajan Menon](https://www.theguardian.com/commentisfree/2026/may/15/russia-war-ukraine-vladimir-putin-economy-casualties)
-- [Wood burning is reintroducing lead pollution into the air, US scientists find](https://www.theguardian.com/environment/2026/may/15/wood-burning-for-heat-reintroducing-lead-pollution-into-the-air-us-scientists-find)
-- [Britons to vote in inaugural contest to find nation’s favourite butterfly](https://www.theguardian.com/environment/2026/may/15/britain-vote-contest-find-nation-favourite-butterfly)
-- [An Ideal Husband review – Oscar Wilde’s comedy gets the gleefully camp glow-up it deserves](https://www.theguardian.com/stage/2026/may/15/an-ideal-husband-review-lyric-hammersmith-london)
-- [If Labour didn’t exist, would you invent it? Streeting, Rayner, Burnham – you need to tell us why](https://www.theguardian.com/commentisfree/2026/may/15/labour-wes-streeting-angela-rayner-andy-burnham-leader)
-- [Nymphomaniacs and sex droughts: what I learned while studying women’s pleasure](https://www.theguardian.com/society/2026/may/15/nymphomaniacs-sex-droughts-what-i-learned-while-studying-womens-pleasure)
+- [Capes, crinkles and couture: the best red carpet looks from the Cannes film festival – in pictures](https://www.theguardian.com/fashion/gallery/2026/may/16/capes-crinkles-and-couture-the-best-red-carpet-looks-from-the-cannes-film-festival-in-pictures)
+- [Who’s in, who’s out, and how many have you read? The story behind our 100 best novels list](https://www.theguardian.com/books/ng-interactive/2026/may/16/story-behind-100-best-novels-all-time)
+- [The 100 best novels of all time](https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time)
+- [‘It will be mayhem if we win’: Hearts fans await title decider with Celtic](https://www.theguardian.com/football/2026/may/16/heart-of-midlothian-fans-title-decider-celtic-scottish-premier-league)
+- [Blind date: ‘Distance shouldn’t stand in the way of love … I did have to catch the last train home though’](https://www.theguardian.com/lifeandstyle/2026/may/16/blind-date-frances-eddie)
+- [Tim Dowling: our fantastic Mr Fox may have done us a favour](https://www.theguardian.com/lifeandstyle/2026/may/16/tim-dowling-our-fantastic-mr-fox)
+- [It wasn’t exactly The Devil Wears Prada, but my time working at Vogue in the 90s was preposterous fun | Charlotte Higgins](https://www.theguardian.com/commentisfree/2026/may/16/the-devil-wears-prada-vogue-glossy-magazine-industry)
+- [Our purrfect child goes rogue: the Becky Barnicoat cartoon](https://www.theguardian.com/lifeandstyle/picture/2026/may/16/our-purrfect-child-goes-rogue-the-becky-barnicoat-cartoon)
+- [Down and then out in Paris and London? Why Starmer isn’t the only one with a popularity problem](https://www.theguardian.com/world/ng-interactive/2026/may/16/down-and-then-out-in-paris-and-london-why-starmer-isnt-the-only-one-with-a-popularity-problem)
+- [From Normal to Ania Magliano: your complete entertainment guide to the week ahead](https://www.theguardian.com/culture/2026/may/16/entertainment-guide-week-ahead-cinema-theatre-art-music-ania-magliano-normal-odenkirk-wheatley)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

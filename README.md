@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Agentic SDLC: How OpenSearch accelerates engineering with its own engine](https://opensearch.org/blog/harness-first-agentic-sdlc-how-opensearch-builds-software-using-its-own-search-engine/)
-- [UK Government Kicks Out Palantir](https://shkspr.mobi/blog/2026/05/uk-government-kicks-out-palantir/)
-- [Show HN: QUptime, quorum based decentralized uptime tool](https://github.com/Axodouble/QUptime)
-- [Multi-LLM trading harness with live leaderboard on Alpaca paper trades](https://github.com/achaljhawar/1rok)
-- [What Are the Different Types of AI Testing Tools?](https://news.ycombinator.com/item?id=48144848)
-- [The Power of the Breath](https://medicine.yale.edu/news-article/the-power-of-the-breath/)
-- [Social Media Bans Are for Kids. What About Adults?](https://pmz1.substack.com/p/social-media-bans-are-for-kids-what)
-- [How climate-resilient homes in India are reducing dependence on air conditioners](https://www.thehindu.com/sci-tech/energy-and-environment/how-climate-resilient-homes-in-india-are-reducing-dependence-on-air-conditioners/article70919326.ece)
-- [OpenAI just lost its enterprise AI crown to Anthropic](https://www.businessinsider.com/anthropic-tops-openai-business-ai-adoption-ramp-index-2026-5)
-- [Edith Eger, Auschwitz Survivor Who Helped Others Cope with Trauma, Dies at 98](https://www.wsj.com/world/edith-eva-eger-dead-13268534)
+- [Xbox Is Now XBOX](https://www.theverge.com/news/931918/microsoft-xbox-rebrand-caps)
+- [Frosthyon: AI assistant for 3D and general workflows](https://lumithyon.com)
+- [Who&#39;s composing music for my washing machine?](https://podcasts.apple.com/us/podcast/whos-composing-music-for-my-washing-machine/id73329284?i=1000767558254)
+- [Agent Harness Engineering](https://www.oreilly.com/radar/agent-harness-engineering/)
+- [Ask HN: Share concrete examples of benefits from AI usage](https://news.ycombinator.com/item?id=48156955)
+- [The ISO 216 &quot;A4&quot; paper system is broken &lpar;rounding errors&rpar; [video]](https://www.youtube.com/watch?v=XllQPr8FtPE)
+- [Ebola outbreak with uncommon strain erupts in Congo and Uganda; 65 deaths](https://arstechnica.com/health/2026/05/ebola-outbreak-confirmed-in-congo-and-uganda-246-suspected-cases-65-deaths/)
+- [Accelerating Dynamics of Collective Attention](https://pmc.ncbi.nlm.nih.gov/articles/PMC6465266/)
+- [AtOnce](https://atonce.com)
+- [Show HN: AI that audits your codebase in 60 seconds](https://triyambakam-apex-corp.hf.space)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

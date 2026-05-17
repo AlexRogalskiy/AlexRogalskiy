@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Capes, crinkles and couture: the best red carpet looks from the Cannes film festival – in pictures](https://www.theguardian.com/fashion/gallery/2026/may/16/capes-crinkles-and-couture-the-best-red-carpet-looks-from-the-cannes-film-festival-in-pictures)
-- [Who’s in, who’s out, and how many have you read? The story behind our 100 best novels list](https://www.theguardian.com/books/ng-interactive/2026/may/16/story-behind-100-best-novels-all-time)
-- [The 100 best novels of all time](https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time)
-- [‘It will be mayhem if we win’: Hearts fans await title decider with Celtic](https://www.theguardian.com/football/2026/may/16/heart-of-midlothian-fans-title-decider-celtic-scottish-premier-league)
-- [Blind date: ‘Distance shouldn’t stand in the way of love … I did have to catch the last train home though’](https://www.theguardian.com/lifeandstyle/2026/may/16/blind-date-frances-eddie)
-- [Tim Dowling: our fantastic Mr Fox may have done us a favour](https://www.theguardian.com/lifeandstyle/2026/may/16/tim-dowling-our-fantastic-mr-fox)
-- [It wasn’t exactly The Devil Wears Prada, but my time working at Vogue in the 90s was preposterous fun | Charlotte Higgins](https://www.theguardian.com/commentisfree/2026/may/16/the-devil-wears-prada-vogue-glossy-magazine-industry)
-- [Our purrfect child goes rogue: the Becky Barnicoat cartoon](https://www.theguardian.com/lifeandstyle/picture/2026/may/16/our-purrfect-child-goes-rogue-the-becky-barnicoat-cartoon)
-- [Down and then out in Paris and London? Why Starmer isn’t the only one with a popularity problem](https://www.theguardian.com/world/ng-interactive/2026/may/16/down-and-then-out-in-paris-and-london-why-starmer-isnt-the-only-one-with-a-popularity-problem)
-- [From Normal to Ania Magliano: your complete entertainment guide to the week ahead](https://www.theguardian.com/culture/2026/may/16/entertainment-guide-week-ahead-cinema-theatre-art-music-ania-magliano-normal-odenkirk-wheatley)
+- [Passenger banned from Qantas after allegedly biting attendant on flight from Australia to US](https://www.theguardian.com/business/2026/may/17/qantas-passenger-banned-alleged-biting-flight-attendant-melbourne-tahiti-dallas-ntwnfb)
+- [TV tonight: Timothy Spall’s hit murder mystery comedy returns](https://www.theguardian.com/tv-and-radio/2026/may/17/tv-tonight-timothy-spalls-hit-mystery-comedy-returns)
+- [The ungovernable country? Why Britain keeps losing prime ministers](https://www.theguardian.com/politics/2026/may/17/the-ungovernable-country-why-britain-keeps-losing-prime-ministers)
+- [‘It’s no longer exceptional’: Karachi struggles under brutal new reality of extreme heat](https://www.theguardian.com/world/2026/may/17/its-no-longer-exceptional-karachi-struggles-under-brutal-new-reality-of-extreme-heat)
+- [Auguste, London E8: ‘Some fleeting moments of greatness’ – restaurant review | Grace Dent on restaurants](https://www.theguardian.com/food/2026/may/17/auguste-london-e8-restaurant-review-grace-dent)
+- [Am I being taken for a fool by my family over taking care of my mum? | Annalisa Barbieri](https://www.theguardian.com/lifeandstyle/2026/may/17/taken-for-fool-by-family-over-mum-annalisa-barbieri)
+- [It may not feel like it, but hope is on the horizon: Trump, Netanyahu and Putin’s powers appear to be waning | Simon Tisdall](https://www.theguardian.com/commentisfree/2026/may/17/hope-horizon-trump-netanyahu-putin-powers-waning)
+- [‘Feels like an illusion’: how Trump seizing Maduro has changed little in Venezuela](https://www.theguardian.com/world/ng-interactive/2026/may/17/feels-like-an-illusion-how-trump-seizing-maduro-has-changed-little-in-venezuela)
+- [Republican Louisiana senator Bill Cassidy loses primary after Trump intervenes to oust him](https://www.theguardian.com/us-news/2026/may/17/republican-louisiana-senator-bill-cassidy-results-primary-trump)
+- [Federal funding for Trump’s $400m ballroom in jeopardy after Senate ruling](https://www.theguardian.com/us-news/2026/may/17/federal-funding-trump-ballroom-jeopardy-senate-ruling)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

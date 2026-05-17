@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Xbox Is Now XBOX](https://www.theverge.com/news/931918/microsoft-xbox-rebrand-caps)
-- [Frosthyon: AI assistant for 3D and general workflows](https://lumithyon.com)
-- [Who&#39;s composing music for my washing machine?](https://podcasts.apple.com/us/podcast/whos-composing-music-for-my-washing-machine/id73329284?i=1000767558254)
-- [Agent Harness Engineering](https://www.oreilly.com/radar/agent-harness-engineering/)
-- [Ask HN: Share concrete examples of benefits from AI usage](https://news.ycombinator.com/item?id=48156955)
-- [The ISO 216 &quot;A4&quot; paper system is broken &lpar;rounding errors&rpar; [video]](https://www.youtube.com/watch?v=XllQPr8FtPE)
-- [Ebola outbreak with uncommon strain erupts in Congo and Uganda; 65 deaths](https://arstechnica.com/health/2026/05/ebola-outbreak-confirmed-in-congo-and-uganda-246-suspected-cases-65-deaths/)
-- [Accelerating Dynamics of Collective Attention](https://pmc.ncbi.nlm.nih.gov/articles/PMC6465266/)
-- [AtOnce](https://atonce.com)
-- [Show HN: AI that audits your codebase in 60 seconds](https://triyambakam-apex-corp.hf.space)
+- [The Mythical Agent-Month](https://wesmckinney.com/blog/mythical-agent-month/)
+- [Programmers Spend Their Time – Probably Dance](https://probablydance.com/2026/02/10/how-programmers-spend-their-time/)
+- [Global Energy Flow – Real-Time Energy Intelligence](https://global-energy-flow.com/)
+- [Show HN: Codiff, a local diff review tool](https://github.com/nkzw-tech/codiff/releases)
+- [How we made Notion available offline](https://www.notion.com/blog/how-we-made-notion-available-offline)
+- [We let four AIs run radio stations. Here&#39;s what happened.](https://andonlabs.com/blog/andon-fm)
+- [Show HN: Give your AI agent a brain that understands your codebase](https://github.com/bitloops/bitloops)
+- [Compared a few OpenClaw hosting setups](https://docs.google.com/spreadsheets/d/1tVqYh8fAWLAFAuuM3-G0WVoFqY6VKJ8pgFdS3zvux80/edit?gid=2137144791#gid=2137144791)
+- [Forum](https://bestsugardaddyapps.com/forum/)
+- [A blog post is a query for people who will route interesting stuff to you](https://www.henrikkarlsson.xyz/p/search-query)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

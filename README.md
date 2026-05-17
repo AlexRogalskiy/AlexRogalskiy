@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [&#39;No way to prevent this,&#39; says only package manager where this regularly happens](https://kevinpatel.xyz/posts/no-way-to-prevent-this/)
-- [Show HN: Epiq – Distributed Git based issue tracker TUI](https://ljtn.github.io/epiq/)
-- [NYT and Vaping: How to Lie by Saying Only True Things &lpar;2022&rpar;](https://gwern.net/vaping)
-- [The main thing about P2P meth is that there&#39;s so much of it &lpar;2021&rpar;](https://dynomight.net/p2p-meth/)
-- [Erlang/OTP 29.0](https://www.erlang.org/news/188)
-- [SQL patterns I use to catch transaction fraud](https://analytics.fixelsmith.com/posts/sql-fraud-patterns/)
-- [Orthrus-Qwen3: up to 7.8×tokens/forward on Qwen3, identical output distribution](https://github.com/chiennv2000/orthrus)
-- [How to Write to SSDs [pdf]](https://www.vldb.org/pvldb/vol19/p1469-lee.pdf)
-- [I believe there are entire companies right now under AI psychosis](https://twitter.com/mitchellh/status/2055380239711457578)
-- [California bill would require patches or refunds when online games shut down](https://arstechnica.com/gaming/2026/05/bill-to-keep-online-games-playable-clears-key-hurdle-in-california/)
+- [Tesla Solar Roof is on life support as it pivot to panels](https://electrek.co/2026/05/14/tesla-solar-roof-promise-vs-reality-pivot-panels/)
+- [Grafana Labs internal source code accessed](https://twitter.com/grafana/status/2055827123236171827)
+- [Hosting a website on an 8-bit microcontroller](https://maurycyz.com/projects/mcusite/)
+- [Self-Distillation Enables Continual Learning [pdf]](https://arxiv.org/abs/2601.19897)
+- [Fisker went bankrupt and owners built an open source car company from the ashes](https://electrek.co/2026/05/16/fisker-ocean-open-source-ev-story-after-bankruptcy/)
+- [A nicer voltmeter clock](https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock)
+- [MCP Hello Page](https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page)
+- [Zerostack – A Unix-inspired coding agent written in pure Rust](https://crates.io/crates/zerostack/1.0.0)
+- [OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens](https://openai.com/index/malta-chatgpt-plus-partnership/)
+- [Halt and Catch Fire](https://unstack.io/halt-and-catch-fire)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Passenger banned from Qantas after allegedly biting attendant on flight from Australia to US](https://www.theguardian.com/business/2026/may/17/qantas-passenger-banned-alleged-biting-flight-attendant-melbourne-tahiti-dallas-ntwnfb)
-- [TV tonight: Timothy Spall’s hit murder mystery comedy returns](https://www.theguardian.com/tv-and-radio/2026/may/17/tv-tonight-timothy-spalls-hit-mystery-comedy-returns)
-- [The ungovernable country? Why Britain keeps losing prime ministers](https://www.theguardian.com/politics/2026/may/17/the-ungovernable-country-why-britain-keeps-losing-prime-ministers)
-- [‘It’s no longer exceptional’: Karachi struggles under brutal new reality of extreme heat](https://www.theguardian.com/world/2026/may/17/its-no-longer-exceptional-karachi-struggles-under-brutal-new-reality-of-extreme-heat)
-- [Auguste, London E8: ‘Some fleeting moments of greatness’ – restaurant review | Grace Dent on restaurants](https://www.theguardian.com/food/2026/may/17/auguste-london-e8-restaurant-review-grace-dent)
-- [Am I being taken for a fool by my family over taking care of my mum? | Annalisa Barbieri](https://www.theguardian.com/lifeandstyle/2026/may/17/taken-for-fool-by-family-over-mum-annalisa-barbieri)
-- [It may not feel like it, but hope is on the horizon: Trump, Netanyahu and Putin’s powers appear to be waning | Simon Tisdall](https://www.theguardian.com/commentisfree/2026/may/17/hope-horizon-trump-netanyahu-putin-powers-waning)
-- [‘Feels like an illusion’: how Trump seizing Maduro has changed little in Venezuela](https://www.theguardian.com/world/ng-interactive/2026/may/17/feels-like-an-illusion-how-trump-seizing-maduro-has-changed-little-in-venezuela)
-- [Republican Louisiana senator Bill Cassidy loses primary after Trump intervenes to oust him](https://www.theguardian.com/us-news/2026/may/17/republican-louisiana-senator-bill-cassidy-results-primary-trump)
-- [Federal funding for Trump’s $400m ballroom in jeopardy after Senate ruling](https://www.theguardian.com/us-news/2026/may/17/federal-funding-trump-ballroom-jeopardy-senate-ruling)
+- [A new start after 60: I dedicated myself 100% to saving soil – and a life of wild adventure began](https://www.theguardian.com/lifeandstyle/2026/may/18/a-new-start-after-60-i-dedicated-myself-100-to-saving-soil-and-a-life-of-wild-adventure-began)
+- [TV tonight: a sparky new history series with Lucy Worsley](https://www.theguardian.com/tv-and-radio/2026/may/18/tv-tonight-a-sparky-new-history-series-with-lucy-worsley)
+- [Preppy polo players, timeless tuxedos and … fishing rods: the history of the Ralph Lauren catwalk – in pictures](https://www.theguardian.com/fashion/gallery/2026/may/18/ralph-lauren-catwalk-book-pictures-bridget-foley)
+- [The result of normalising Reform’s ideas? Neighbour is turned against neighbour | Nesrine Malik](https://www.theguardian.com/commentisfree/2026/may/18/reform-uk-neighbours-immigration-ethnic-minorities)
+- [‘When your signal goes down, something’s going on’: life next to a US air base in the UK](https://www.theguardian.com/uk-news/2026/may/18/when-your-signal-goes-down-somethings-going-on-life-next-to-a-us-air-base-in-the-uk)
+- [Kenji Morimoto’s recipes for asparagus kimchi](https://www.theguardian.com/food/2026/may/18/asparagus-kimchi-spring-tart-recipes-kenji-morimoto)
+- [UK’s next ambassador to Japan may be called to give evidence in Mandelson inquiry](https://www.theguardian.com/politics/2026/may/18/uk-ambassador-japan-corin-robertson-mandelson-inquiry)
+- [Two-thirds of NHS nurses believe lack of staff is putting patients at risk, survey finds](https://www.theguardian.com/society/2026/may/18/nhs-nurses-believe-lack-of-staff-putting-patients-at-risk-survey-finds)
+- [After dinosaurs, it’s spot the dog! But can a child really learn anything in a gallery?](https://www.theguardian.com/artanddesign/2026/may/18/national-museum-cardiff-can-a-child-really-learn-anything-in-a-gallery)
+- [How to become emotionally mature – at any age: ‘We often don’t realise the hurt we’re causing’](https://www.theguardian.com/lifeandstyle/2026/may/18/how-to-become-emotionally-mature-at-any-age-we-often-dont-realise-the-hurt-were-causing)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

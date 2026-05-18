@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Mythical Agent-Month](https://wesmckinney.com/blog/mythical-agent-month/)
-- [Programmers Spend Their Time – Probably Dance](https://probablydance.com/2026/02/10/how-programmers-spend-their-time/)
-- [Global Energy Flow – Real-Time Energy Intelligence](https://global-energy-flow.com/)
-- [Show HN: Codiff, a local diff review tool](https://github.com/nkzw-tech/codiff/releases)
-- [How we made Notion available offline](https://www.notion.com/blog/how-we-made-notion-available-offline)
-- [We let four AIs run radio stations. Here&#39;s what happened.](https://andonlabs.com/blog/andon-fm)
-- [Show HN: Give your AI agent a brain that understands your codebase](https://github.com/bitloops/bitloops)
-- [Compared a few OpenClaw hosting setups](https://docs.google.com/spreadsheets/d/1tVqYh8fAWLAFAuuM3-G0WVoFqY6VKJ8pgFdS3zvux80/edit?gid=2137144791#gid=2137144791)
-- [Forum](https://bestsugardaddyapps.com/forum/)
-- [A blog post is a query for people who will route interesting stuff to you](https://www.henrikkarlsson.xyz/p/search-query)
+- [DeerFlow 2.0 – Deep Exploration and Efficient Research Flow](https://github.com/bytedance/deer-flow)
+- [More than 100 UK datacentres plan to burn gas to generate electricity](https://www.theguardian.com/business/2026/may/18/uk-datacentres-plan-to-burn-gas-to-generate-electricity)
+- [SFC vs. Vizio Ruling on General Public License Compliance](https://www.dlapiper.com/en-us/insights/publications/2026/01/sfc-v-vizio-ruling-on-general-public-license-compliance-key-takeaways)
+- [Animated 3D map of Chongqing metro [video]](https://www.bilibili.com/video/BV16Z421W7o3/?spm_id_from=333.1387.homepage.video_card.click)
+- [2ality Blog: Temporarily Offline because of AI](https://2ality.com)
+- [Ask HN: Which AI harness comes close to Claude Code?](https://news.ycombinator.com/item?id=48176033)
+- [Code Orange: Fail Small is complete. The result is a stronger Cloudflare network](https://blog.cloudflare.com/code-orange-fail-small-complete/)
+- [`Never-ending&#39; AI slop strains corporate hacking reward schemes](https://www.ft.com/content/dbec4441-02dc-4053-8500-85677973d324)
+- [Spring Physics in my Word Game? A technical deep dive into SvelteJS animations](https://colechamberlin.substack.com/p/spring-physics-in-my-word-game)
+- [Ask HN: Favorite In-Depth Deep Dives](https://news.ycombinator.com/item?id=48175971)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

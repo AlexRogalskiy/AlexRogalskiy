@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Tesla Solar Roof is on life support as it pivot to panels](https://electrek.co/2026/05/14/tesla-solar-roof-promise-vs-reality-pivot-panels/)
-- [Grafana Labs internal source code accessed](https://twitter.com/grafana/status/2055827123236171827)
-- [Hosting a website on an 8-bit microcontroller](https://maurycyz.com/projects/mcusite/)
-- [Self-Distillation Enables Continual Learning [pdf]](https://arxiv.org/abs/2601.19897)
-- [Fisker went bankrupt and owners built an open source car company from the ashes](https://electrek.co/2026/05/16/fisker-ocean-open-source-ev-story-after-bankruptcy/)
-- [A nicer voltmeter clock](https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock)
-- [MCP Hello Page](https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page)
-- [Zerostack – A Unix-inspired coding agent written in pure Rust](https://crates.io/crates/zerostack/1.0.0)
-- [OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens](https://openai.com/index/malta-chatgpt-plus-partnership/)
-- [Halt and Catch Fire](https://unstack.io/halt-and-catch-fire)
+- [Étienne Ghys: The Shape of Letters: From Leonardo da Vinci to Donald Knuth](https://www.youtube.com/watch?v=1OIxzewWilc)
+- [America&#39;s Most-Spoken Languages After English and Spanish](https://www.visualcapitalist.com/mapped-americas-most-spoken-languages-after-english-and-spanish/)
+- [WriteUp: 16 Bytes of x86 that turn Matrix rain into sound](https://hellmood.111mb.de//wake_up_16b_writeup.html)
+- [Fabricked: Misconfiguring Infinity Fabric to Break AMD SEV-SNP](https://xca-attacks.github.io/fabricked/)
+- [The History of ThinkPad: From IBM’s Bento Box to Lenovo’s AI Workstations](https://www.jdhodges.com/blog/thinkpad-history/)
+- [Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely](https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base)
+- [GenCAD](https://gencad.github.io/)
+- [Prolog Coding Horror](https://www.metalevel.at/prolog/horror)
+- [VoIP brings back old-fashioned pay phones to rural Vermont &lpar;2025&rpar;](https://spectrum.ieee.org/payphone-voip)
+- [Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep](https://github.com/MinishLab/semble)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

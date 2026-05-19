@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [DeerFlow 2.0 – Deep Exploration and Efficient Research Flow](https://github.com/bytedance/deer-flow)
-- [More than 100 UK datacentres plan to burn gas to generate electricity](https://www.theguardian.com/business/2026/may/18/uk-datacentres-plan-to-burn-gas-to-generate-electricity)
-- [SFC vs. Vizio Ruling on General Public License Compliance](https://www.dlapiper.com/en-us/insights/publications/2026/01/sfc-v-vizio-ruling-on-general-public-license-compliance-key-takeaways)
-- [Animated 3D map of Chongqing metro [video]](https://www.bilibili.com/video/BV16Z421W7o3/?spm_id_from=333.1387.homepage.video_card.click)
-- [2ality Blog: Temporarily Offline because of AI](https://2ality.com)
-- [Ask HN: Which AI harness comes close to Claude Code?](https://news.ycombinator.com/item?id=48176033)
-- [Code Orange: Fail Small is complete. The result is a stronger Cloudflare network](https://blog.cloudflare.com/code-orange-fail-small-complete/)
-- [`Never-ending&#39; AI slop strains corporate hacking reward schemes](https://www.ft.com/content/dbec4441-02dc-4053-8500-85677973d324)
-- [Spring Physics in my Word Game? A technical deep dive into SvelteJS animations](https://colechamberlin.substack.com/p/spring-physics-in-my-word-game)
-- [Ask HN: Favorite In-Depth Deep Dives](https://news.ycombinator.com/item?id=48175971)
+- [Migrate from Stainless to APIMatic CodeGen](https://migrate-from-stainless.apimatic.io/)
+- [A NixOS GUI](https://kalken.github.io//ezblog/#ezconf)
+- [Why is rendering text so complicated? [video]](https://www.youtube.com/watch?v=4soZ33MvlW4)
+- [Humble Tech Book Bundle: The Ultimate Functional Programming](https://www.humblebundle.com/books/ultimate-functional-programming-pragmatic-programmers-books)
+- [End of a Semester](https://mtendekuyokwa.github.io/blog/end-of-semester/)
+- [Using Claude to apply a book, not just summarize it](https://lswith.io/posts/how-i-approached-showing-your-work/)
+- [Automate the Food &lpar;2024&rpar;](https://chisness.substack.com/p/automate-the-food)
+- [SpaceX IPO set to ensure Elon Musk cannot be fired](https://www.ft.com/content/00382ab9-3dfe-468c-8966-853cd787dd43)
+- [OpenJDK: Project Leyden](https://openjdk.org/projects/leyden/)
+- [What&#39;s Easy Now? What&#39;s Hard Now?](https://brooker.co.za/blog/2026/05/18/whats-easy-whats-hard.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

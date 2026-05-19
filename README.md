@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Étienne Ghys: The Shape of Letters: From Leonardo da Vinci to Donald Knuth](https://www.youtube.com/watch?v=1OIxzewWilc)
-- [America&#39;s Most-Spoken Languages After English and Spanish](https://www.visualcapitalist.com/mapped-americas-most-spoken-languages-after-english-and-spanish/)
-- [WriteUp: 16 Bytes of x86 that turn Matrix rain into sound](https://hellmood.111mb.de//wake_up_16b_writeup.html)
-- [Fabricked: Misconfiguring Infinity Fabric to Break AMD SEV-SNP](https://xca-attacks.github.io/fabricked/)
-- [The History of ThinkPad: From IBM’s Bento Box to Lenovo’s AI Workstations](https://www.jdhodges.com/blog/thinkpad-history/)
-- [Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely](https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base)
-- [GenCAD](https://gencad.github.io/)
-- [Prolog Coding Horror](https://www.metalevel.at/prolog/horror)
-- [VoIP brings back old-fashioned pay phones to rural Vermont &lpar;2025&rpar;](https://spectrum.ieee.org/payphone-voip)
-- [Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep](https://github.com/MinishLab/semble)
+- [PyTorch Landscape](https://pytorch.landscape2.io)
+- [Codex-maxxing](https://jxnl.co/writing/2026/05/10/codex-maxxing/)
+- [Show HN: Hsrs – Type-Safe Haskell Bindings Generator for Rust](https://github.com/harmont-dev/hsrs)
+- [LLMCap – A proxy that hard-stops LLM API calls when you hit a dollar cap](https://www.llmcap.io/)
+- [Peter Neumann has died](https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html)
+- [Peter Salus has died](https://www.tuhs.org/pipermail/tuhs/2026-May/033750.html)
+- [The last six months in LLMs in five minutes](https://simonwillison.net/2026/May/19/5-minute-llms/)
+- [Pope Leo XIV’s first encyclical Magnifica humanitas to be published May 25](https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html)
+- [Click &lpar;2016&rpar;](https://clickclickclick.click/)
+- [Alignment pretraining: AI discourse creates self-fulfilling &lpar;mis&rpar;alignment](https://arxiv.org/abs/2601.10160)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

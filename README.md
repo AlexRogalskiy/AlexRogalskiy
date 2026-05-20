@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Migrate from Stainless to APIMatic CodeGen](https://migrate-from-stainless.apimatic.io/)
-- [A NixOS GUI](https://kalken.github.io//ezblog/#ezconf)
-- [Why is rendering text so complicated? [video]](https://www.youtube.com/watch?v=4soZ33MvlW4)
-- [Humble Tech Book Bundle: The Ultimate Functional Programming](https://www.humblebundle.com/books/ultimate-functional-programming-pragmatic-programmers-books)
-- [End of a Semester](https://mtendekuyokwa.github.io/blog/end-of-semester/)
-- [Using Claude to apply a book, not just summarize it](https://lswith.io/posts/how-i-approached-showing-your-work/)
-- [Automate the Food &lpar;2024&rpar;](https://chisness.substack.com/p/automate-the-food)
-- [SpaceX IPO set to ensure Elon Musk cannot be fired](https://www.ft.com/content/00382ab9-3dfe-468c-8966-853cd787dd43)
-- [OpenJDK: Project Leyden](https://openjdk.org/projects/leyden/)
-- [What&#39;s Easy Now? What&#39;s Hard Now?](https://brooker.co.za/blog/2026/05/18/whats-easy-whats-hard.html)
+- [Ex-Apple engineer says Apple deliberately slows older phones via updates](https://www.macobserver.com/news/ex-apple-software-engineer-claims-apple-deliberately-slows-down-old-iphone-models/)
+- [Most Theoretical Physicists Are Doing Engineering](https://danieltan.weblog.lol/2026/05/most-theoretical-physicists-are-doing-engineering)
+- [Extended Cyber Kill Chain for AI-Era Threats](https://github.com/gouravnagar-infosec/ai-kill-chain)
+- [Missing RAF pilot found strapped in his sunken Hurricane laid to rest](https://www.thetimes.com/uk/history/article/missing-raf-pilot-george-morley-fidler-hurricane-france-funeral-6xdrwwpg9)
+- [Playing Wireless Audio on OpenBSD](https://xosc.org/bluetooth.html)
+- [Zig by Example](https://github.com/boringcollege/zig-by-example)
+- [OpenAI for Singapore](https://openai.com/index/introducing-openai-for-singapore/)
+- [Infomaniak transitions to a foundation model to protect user data privacy](https://news.infomaniak.com/en/infomaniak-foundation-sovereign-cloud/)
+- [International Orange](https://en.wikipedia.org/wiki/International_orange)
+- [UK Supermarkets may be asked to freeze prices of milk, eggs and bread](https://www.thetimes.com/uk/politics/article/supermarkets-freeze-prices-iran-war-0b8tlmh8c)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

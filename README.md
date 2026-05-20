@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [TV tonight: Jack Thorne’s new forbidden love drama](https://www.theguardian.com/tv-and-radio/2026/may/19/tv-tonight-falling-paapa-essiedu-keeley-hawes)
-- [After the painful ruse of Starmerism, the left should be cautious about Andy Burnham | Owen Jones](https://www.theguardian.com/commentisfree/2026/may/19/painful-starmerism-left-cautious-andy-burnham-greens-labour)
-- [Peter Mandelson scandal: the key questions that remain unanswered](https://www.theguardian.com/politics/2026/may/19/peter-mandelson-scandal-key-questions-unanswered)
-- [‘An accessible space’: the Chelsea garden visitors can see, hear, feel, taste and touch their way round](https://www.theguardian.com/lifeandstyle/2026/may/19/chelsea-flower-show-accessible-sensory-garden-sightsavers)
-- [José Pizarro’s recipe for spiced crab croquetas](https://www.theguardian.com/food/2026/may/19/spiced-crab-croquetas-recipe-jose-pizarro)
-- [Thames Water rescue deal threatened by uncertainty over next prime minister](https://www.theguardian.com/uk-news/2026/may/19/thames-water-rescue-deal-threatened-uncertainty-prime-minister)
-- [‘Huge milestone’ as Libyan militia commander accused of torture to appear at ICC](https://www.theguardian.com/world/2026/may/19/libya-militia-commander-refugees-international-criminal-court)
-- [‘She compared her dachshund to my newborn baby’: should you be able to take your dog everywhere?](https://www.theguardian.com/lifeandstyle/2026/may/19/should-you-be-able-to-take-your-dog-everywhere)
-- [‘How can nudity be so provocative?’ Florentina Holzinger on rocking Venice with naked jetskiers, human bells and urine divers](https://www.theguardian.com/artanddesign/2026/may/19/nudity-florentina-holzinger-venice-biennale-naked-jetskiers-urine-divers)
-- [‘Come in for one minute’: Israeli survivor’s appeal to doubters as 7 October exhibition opens in London](https://www.theguardian.com/uk-news/2026/may/19/israel-survivor-appeal-7-october-nova-exhibition-london)
+- [A moment that changed me: My diagnosis seemed like a death sentence – how have I survived for another 40 years?](https://www.theguardian.com/lifeandstyle/2026/may/20/a-moment-that-changed-me-hiv-diagnosis-survived-40-years)
+- [TV tonight: exploring Marilyn Monroe’s links to organised crime](https://www.theguardian.com/tv-and-radio/2026/may/20/tv-tonight-exploring-marilyn-monroes-links-to-organised)
+- [‘Attainment at all costs’ approach could undermine Send changes, school leaders in England say](https://www.theguardian.com/education/2026/may/20/attainment-at-all-costs-approach-send-changes-schools-england)
+- [The balance of global power is shifting fast, but Britain is stuck in the same old Brexit rut | Rafael Behr](https://www.theguardian.com/commentisfree/2026/may/20/global-power-britain-brexit)
+- [‘A world-class producer’: English wines toast record gold medal haul](https://www.theguardian.com/food/2026/may/20/english-wine-win-gold-medals-international-wine-challenge)
+- [Özlem Warren’s recipes for chicken shish and Turkish-style rice pilaf](https://www.theguardian.com/food/2026/may/20/chicken-shish-and-turkish-style-rice-pilaf-recipe-ozlem-warren)
+- [Jai Arrow drops NRL retirement bombshell after motor neurone disease diagnosis](https://www.theguardian.com/sport/2026/may/20/jai-arrow-motor-neurone-disease-mnd-diagnosis-nrl-retirement)
+- [Xi Jinping and Vladimir Putin meet in Beijing less than a week after Trump visit](https://www.theguardian.com/world/2026/may/20/china-russia-xi-jinping-vladimir-putin-meet-beijing-after-trump-visit)
+- [Billy Joel condemns upcoming biopic about his early life as ‘legally and professionally misguided’](https://www.theguardian.com/music/2026/may/20/billy-joel-condemns-upcoming-biopic-about-his-early-life-as-legally-and-professionally-misguided)
+- [‘We tell the truth!’ Meet the NaNaz, the over-50s punks raging about pensions, recycling bins and menopause](https://www.theguardian.com/music/2026/may/20/real-riot-women-nanaz-female-punk-band-newport)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [A moment that changed me: My diagnosis seemed like a death sentence – how have I survived for another 40 years?](https://www.theguardian.com/lifeandstyle/2026/may/20/a-moment-that-changed-me-hiv-diagnosis-survived-40-years)
-- [TV tonight: exploring Marilyn Monroe’s links to organised crime](https://www.theguardian.com/tv-and-radio/2026/may/20/tv-tonight-exploring-marilyn-monroes-links-to-organised)
-- [‘Attainment at all costs’ approach could undermine Send changes, school leaders in England say](https://www.theguardian.com/education/2026/may/20/attainment-at-all-costs-approach-send-changes-schools-england)
-- [The balance of global power is shifting fast, but Britain is stuck in the same old Brexit rut | Rafael Behr](https://www.theguardian.com/commentisfree/2026/may/20/global-power-britain-brexit)
-- [‘A world-class producer’: English wines toast record gold medal haul](https://www.theguardian.com/food/2026/may/20/english-wine-win-gold-medals-international-wine-challenge)
-- [Özlem Warren’s recipes for chicken shish and Turkish-style rice pilaf](https://www.theguardian.com/food/2026/may/20/chicken-shish-and-turkish-style-rice-pilaf-recipe-ozlem-warren)
-- [Jai Arrow drops NRL retirement bombshell after motor neurone disease diagnosis](https://www.theguardian.com/sport/2026/may/20/jai-arrow-motor-neurone-disease-mnd-diagnosis-nrl-retirement)
-- [Xi Jinping and Vladimir Putin meet in Beijing less than a week after Trump visit](https://www.theguardian.com/world/2026/may/20/china-russia-xi-jinping-vladimir-putin-meet-beijing-after-trump-visit)
-- [Billy Joel condemns upcoming biopic about his early life as ‘legally and professionally misguided’](https://www.theguardian.com/music/2026/may/20/billy-joel-condemns-upcoming-biopic-about-his-early-life-as-legally-and-professionally-misguided)
-- [‘We tell the truth!’ Meet the NaNaz, the over-50s punks raging about pensions, recycling bins and menopause](https://www.theguardian.com/music/2026/may/20/real-riot-women-nanaz-female-punk-band-newport)
+- [England must harvest rainfall and take action on water usage, Lords warn](https://www.theguardian.com/environment/2026/may/21/england-harvest-rainfall-water-usage-shortages-house-of-lords-report)
+- [Tentacles, pointy teeth and the T-rex of the sea: the Natural History Museum on beasts that once ruled the oceans](https://www.theguardian.com/environment/2026/may/21/natural-history-museum-jurassic-oceans-monsters-of-the-deep)
+- [Have no doubt: the campaign to sack Misan Harriman is part of an assault on black figures in public life | Afua Hirsch](https://www.theguardian.com/commentisfree/2026/may/21/misan-harriman-black-figures-public-life-london-southbank-centre-uk-culture)
+- [‘We feel let down’: sustainable chefs in UK mourn end of Michelin green star](https://www.theguardian.com/food/2026/may/21/sustainable-chefs-in-uk-mourn-loss-of-michelin-green-star)
+- [Rachel Roddy’s recipe for ricotta and breadcrumb balls in tomato, chilli and basil sauce | A kitchen in Rome](https://www.theguardian.com/food/2026/may/21/ricotta-and-breadcrumb-balls-polpette-recipe-tomato-chilli-and-basil-sauce-rachel-roddy)
+- [Toxic chemicals in pet flea treatments harming wildlife, UK study warns](https://www.theguardian.com/lifeandstyle/2026/may/21/toxic-chemicals-in-pet-flea-treatments-harming-wildlife-uk-study-warns)
+- [Thursday news quiz: Eurovision winners, Tesla swimmers and Strictly zingers](https://www.theguardian.com/lifeandstyle/2026/may/21/the-guardian-thursday-quiz-general-knowledge-topical-news-trivia-248)
+- [‘Give every item a long life’: Vinted boss on how the site is moving beyond fashion](https://www.theguardian.com/business/2026/may/21/vinted-boss-adam-jay-fashion-uk-clothes-retail)
+- [AI will help make a Nobel prize-winning discovery within a year, says Anthropic co-founder](https://www.theguardian.com/technology/2026/may/21/ai-nobel-prize-winning-discovery-robots-jack-clark-anthropic)
+- [Care review – this searing portrayal of dementia raises urgent questions for us all](https://www.theguardian.com/stage/2026/may/21/care-review-young-vic-london-dementia)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

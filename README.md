@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [India&#39;s hottest district shuts at 10 am as mercury breaches 48 C mark](https://www.hindustantimes.com/india-news/indias-hottest-district-banda-shuts-at-10-am-as-mercury-breaches-48-degrees-celsius-mark-101779240653594.html)
-- [Testing MiniMax M2.7 via API on three real ML and coding workflows](https://andlukyane.com//blog/minimax-m27-workflows)
-- [GitHub Compromised](https://twitter.com/i/status/2056949168208552080)
-- [Evals will break](https://wanglun1996.github.io/blog/your-evals-will-break.html)
-- [FiveThirtyEight articles on the Internet Archive](https://fivethirtyeightindex.com/)
-- [Railway Blocked by Google Cloud](https://status.railway.com/?date=20260519)
-- [GitHub is investigating unauthorized access to their internal repositories](https://twitter.com/github/status/2056884788179726685)
-- [HTML-in-Canvas Demos](https://github.com/GoogleChromeLabs/css-web-ui-demos/blob/main/html-in-canvas/awesome-html-in-canvas.md)
-- [Remove–AI–Watermarks – CLI and library for removing AI watermarks from images](https://github.com/wiltodelta/remove-ai-watermarks)
-- [OpenAI Adopts Google&#39;s SynthID Watermark for AI Images with Verification Tool](https://openai.com/index/advancing-content-provenance/)
+- [OpenAI to confidentially file for IPO as soon as Friday](https://www.cnbc.com/2026/05/20/openai-ipo-filing.html)
+- [Haskell Foundation 2026 Update](https://discourse.haskell.org/t/haskell-foundation-2026-update/14136)
+- [Intuit to lay off over 3k employees to refocus on AI](https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/)
+- [The Letter S, by Donald Knuth &lpar;1980&rpar; [pdf]](https://gwern.net/doc/design/typography/1980-knuth.pdf)
+- [Show HN: I reverse engineered Apple&#39;s video wallpapers](https://github.com/kageroumado/phosphene)
+- [DOS Zone](https://dos.zone/)
+- [Show HN: CPU-only transcription for YouTube, TikTok, X, Instagram videos](https://github.com/kouhxp/yapsnap)
+- [Anthropic is expanding to Colossus2. Will use GB200](https://twitter.com/nottombrown/status/2057194829986300375)
+- [SpaceX S-1](https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm)
+- [Colorado Amended SB051 &lpar;Age Verification Bill&rpar; to Exclude Open Source Projects](https://legiscan.com/CO/bill/SB051/2026)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

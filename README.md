@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ex-Apple engineer says Apple deliberately slows older phones via updates](https://www.macobserver.com/news/ex-apple-software-engineer-claims-apple-deliberately-slows-down-old-iphone-models/)
-- [Most Theoretical Physicists Are Doing Engineering](https://danieltan.weblog.lol/2026/05/most-theoretical-physicists-are-doing-engineering)
-- [Extended Cyber Kill Chain for AI-Era Threats](https://github.com/gouravnagar-infosec/ai-kill-chain)
-- [Missing RAF pilot found strapped in his sunken Hurricane laid to rest](https://www.thetimes.com/uk/history/article/missing-raf-pilot-george-morley-fidler-hurricane-france-funeral-6xdrwwpg9)
-- [Playing Wireless Audio on OpenBSD](https://xosc.org/bluetooth.html)
-- [Zig by Example](https://github.com/boringcollege/zig-by-example)
-- [OpenAI for Singapore](https://openai.com/index/introducing-openai-for-singapore/)
-- [Infomaniak transitions to a foundation model to protect user data privacy](https://news.infomaniak.com/en/infomaniak-foundation-sovereign-cloud/)
-- [International Orange](https://en.wikipedia.org/wiki/International_orange)
-- [UK Supermarkets may be asked to freeze prices of milk, eggs and bread](https://www.thetimes.com/uk/politics/article/supermarkets-freeze-prices-iran-war-0b8tlmh8c)
+- [Anthropic says it&#39;s about to have its first profitable quarter](https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/)
+- [Jeff Bezos says bottom half of earners should pay zero in income taxes](https://www.cnbc.com/2026/05/20/jeff-bezos-income-taxes.html)
+- [OpenAI Stargate: where the US sites stand](https://epoch.ai/blog/openai-stargate-where-the-us-sites-stand)
+- [Meta Begins Laying Off Employees as It Transforms Around AI](https://www.wsj.com/tech/ai/meta-begins-laying-off-thousands-of-employees-as-it-transforms-around-ai-3c31a9eb)
+- [Wispr Flow Is Broken](https://old.reddit.com/r/WisprFlow/comments/1thejf4/wisprflow_what_is_going_on/)
+- [Put yourself in a loop with your coding agents](https://github.com/AsteroidHunter/expediter)
+- [Dumbshit.app](https://dumbshit.app)
+- [DiffsHub](https://diffshub.com/)
+- [PR Diff Speed Matters](https://twitter.com/mitchellh/status/2057229385963618787)
+- [[RFC] Open Access to Standards Documents – LLVM Project](https://discourse.llvm.org/t/rfc-open-access-to-standards-documents/90856)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

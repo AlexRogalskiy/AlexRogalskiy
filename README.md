@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Anthropic says it&#39;s about to have its first profitable quarter](https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/)
-- [Jeff Bezos says bottom half of earners should pay zero in income taxes](https://www.cnbc.com/2026/05/20/jeff-bezos-income-taxes.html)
-- [OpenAI Stargate: where the US sites stand](https://epoch.ai/blog/openai-stargate-where-the-us-sites-stand)
-- [Meta Begins Laying Off Employees as It Transforms Around AI](https://www.wsj.com/tech/ai/meta-begins-laying-off-thousands-of-employees-as-it-transforms-around-ai-3c31a9eb)
-- [Wispr Flow Is Broken](https://old.reddit.com/r/WisprFlow/comments/1thejf4/wisprflow_what_is_going_on/)
-- [Put yourself in a loop with your coding agents](https://github.com/AsteroidHunter/expediter)
-- [Dumbshit.app](https://dumbshit.app)
-- [DiffsHub](https://diffshub.com/)
-- [PR Diff Speed Matters](https://twitter.com/mitchellh/status/2057229385963618787)
-- [[RFC] Open Access to Standards Documents – LLVM Project](https://discourse.llvm.org/t/rfc-open-access-to-standards-documents/90856)
+- [Efficient, SQL-backed C++ project indexer designed for large codebases](https://github.com/walti1972/mcp-cpp-project-indexer)
+- [Former Price Andrew sexual misconduct being examined](https://www.abc.net.au/news/2025-11-01/virginia-giuffre-voice-finally-heard-prince-andrew-epstein-fight/105957478)
+- [Samsung Chip Workers to Get Average $340k Bonus in AI Boom](https://www.bloomberg.com/news/articles/2026-05-21/samsung-chip-workers-to-get-average-340-000-bonus-in-ai-boom)
+- [Why does the arrow &lpar;-&gt;&rpar; operator in C exist?](https://stackoverflow.com/questions/13366083/why-does-the-arrow-operator-in-c-exist)
+- [Welcome to John Regehr&#39;s Integers in C quiz](https://acepace.net/integerQuiz/)
+- [PopPy: Opportunistically Exploiting Parallelism in Python Compound AI Apps](https://arxiv.org/abs/2605.18697)
+- [Use your Intel iMac as an external display for Apple Silicon Macs](https://github.com/swellweb/targetBridge)
+- [SpaceX tries to launch a bigger Starship, hits a series of last-minute problems](https://apnews.com/article/spacex-musk-starship-rocket-launch-eee2fd12d03e7c3c2e24753eb80c0d17)
+- [Interview with the Engineer of Uruky, a Privacy Search Engine](https://theprivacydad.com/interview-with-the-engineer-of-uruky-a-private-search-engine/)
+- [SpaceX is heavily reliant on Starlink for growth and profit](https://www.cnbc.com/2026/05/21/spacex-starlink-growth-profit-nasdaq-ipo.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

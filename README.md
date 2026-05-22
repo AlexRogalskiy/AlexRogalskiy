@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [OpenAI to confidentially file for IPO as soon as Friday](https://www.cnbc.com/2026/05/20/openai-ipo-filing.html)
-- [Haskell Foundation 2026 Update](https://discourse.haskell.org/t/haskell-foundation-2026-update/14136)
-- [Intuit to lay off over 3k employees to refocus on AI](https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/)
-- [The Letter S, by Donald Knuth &lpar;1980&rpar; [pdf]](https://gwern.net/doc/design/typography/1980-knuth.pdf)
-- [Show HN: I reverse engineered Apple&#39;s video wallpapers](https://github.com/kageroumado/phosphene)
-- [DOS Zone](https://dos.zone/)
-- [Show HN: CPU-only transcription for YouTube, TikTok, X, Instagram videos](https://github.com/kouhxp/yapsnap)
-- [Anthropic is expanding to Colossus2. Will use GB200](https://twitter.com/nottombrown/status/2057194829986300375)
-- [SpaceX S-1](https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm)
-- [Colorado Amended SB051 &lpar;Age Verification Bill&rpar; to Exclude Open Source Projects](https://legiscan.com/CO/bill/SB051/2026)
+- [CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs](https://arxiv.org/abs/2605.19269)
+- [Show HN: KVBoost – chunk-level KV cache reuse for HuggingFace, 5–48x faster TTFT](https://pythongiant.github.io/KVBoost/)
+- [Slumber a TUI HTTP Client](https://slumber.lucaspickering.me)
+- [Show HN: Spec-Driven Development Workflow for Claude Code](https://news.ycombinator.com/item?id=48231575)
+- [Cleve Moler &lpar;Matlab, MathWorks&rpar; passed away on May 20, 2026](https://www.mathworks.com/company/aboutus/founders/clevemoler.html)
+- [Samsung chip workers will get an average $340k bonus as AI profits soar](https://qz.com/samsung-chip-workers-bonus-ai-profits-052126)
+- [Uv is fantastic, but its package management UX is a mess](https://www.loopwerk.io/articles/2026/uv-ux-mess/)
+- [Multi-Stream LLMs: new paper on parallelizing/separating prompts, thinking, I/O](https://arxiv.org/abs/2605.12460)
+- [Using Kagi Search with Low Vision](https://veroniiiica.com/using-kagi-search-with-low-vision/)
+- [Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD](https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

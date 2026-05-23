@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Efficient, SQL-backed C++ project indexer designed for large codebases](https://github.com/walti1972/mcp-cpp-project-indexer)
-- [Former Price Andrew sexual misconduct being examined](https://www.abc.net.au/news/2025-11-01/virginia-giuffre-voice-finally-heard-prince-andrew-epstein-fight/105957478)
-- [Samsung Chip Workers to Get Average $340k Bonus in AI Boom](https://www.bloomberg.com/news/articles/2026-05-21/samsung-chip-workers-to-get-average-340-000-bonus-in-ai-boom)
-- [Why does the arrow &lpar;-&gt;&rpar; operator in C exist?](https://stackoverflow.com/questions/13366083/why-does-the-arrow-operator-in-c-exist)
-- [Welcome to John Regehr&#39;s Integers in C quiz](https://acepace.net/integerQuiz/)
-- [PopPy: Opportunistically Exploiting Parallelism in Python Compound AI Apps](https://arxiv.org/abs/2605.18697)
-- [Use your Intel iMac as an external display for Apple Silicon Macs](https://github.com/swellweb/targetBridge)
-- [SpaceX tries to launch a bigger Starship, hits a series of last-minute problems](https://apnews.com/article/spacex-musk-starship-rocket-launch-eee2fd12d03e7c3c2e24753eb80c0d17)
-- [Interview with the Engineer of Uruky, a Privacy Search Engine](https://theprivacydad.com/interview-with-the-engineer-of-uruky-a-private-search-engine/)
-- [SpaceX is heavily reliant on Starlink for growth and profit](https://www.cnbc.com/2026/05/21/spacex-starlink-growth-profit-nasdaq-ipo.html)
+- [Arsenal&#39;s title win should be studied by politicians everywhere](https://www.theguardian.com/commentisfree/2026/may/22/keir-starmer-arsenal-politics-premier-league)
+- [Strengthening Singapore&#39;s AI Future](https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership/)
+- [Microsoft Agrees to $250M Settlement with Activision Blizzard Shareholders](https://www.law.com/delbizcourt/2026/05/22/microsoft-agrees-to-250m-settlement-with-activision-blizzard-shareholders/)
+- [White House ordering agencies to place its new app on all employees&#39; govt phones](https://www.govexec.com/management/2026/05/white-house-ordering-agencies-place-its-new-app-all-employees-government-phones/413738/)
+- [US tells foreigners seeking green cards: Return to your countries to apply](https://www.reuters.com/legal/government/uscis-tells-foreigners-seeking-green-cards-return-your-countries-apply-2026-05-22/)
+- [Publishing&#39;s Latest Piracy Problem: Audiobooks on YouTube](https://www.nytimes.com/2026/05/21/books/audiobook-piracy-youtube.html)
+- [Judge considers ordering Meta to revamp its apps](https://www.politico.com/news/2026/05/22/meta-judge-trial-public-nuisance-facebook-00934485)
+- [Crypto industry braces for quantum computing threat](https://www.ft.com/content/99c1c1e7-1a1c-479c-9fc8-e21aea5c3f0e)
+- [Waymo suspends all freeway rides over safety](https://www.latimes.com/business/story/2026-05-22/waymo-suspends-all-freeway-rides-over-safety)
+- [Starbucks scraps AI inventory tool after nine months](https://qz.com/starbucks-scraps-ai-inventory-tool-nomadgo-052226)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

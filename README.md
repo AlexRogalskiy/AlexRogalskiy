@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Multimedia arts project wins Sycamore Gap tree commission after public vote](https://www.theguardian.com/artanddesign/2026/may/23/peoples-tree-wins-sycamore-gap-art-vote)
-- [‘I thought I was the saviour of the planet’: how Game of Thrones’ Hannah Murray found a wellness cult – and lost her mind](https://www.theguardian.com/film/2026/may/23/hannah-murray-interview-wellness-cult-sectioned)
-- [From Maximum Pleasure Guaranteed to Stephen Sondheim: the week in rave reviews](https://www.theguardian.com/culture/2026/may/23/from-maximum-pleasure-guaranteed-to-stephen-sondheim-the-week-in-rave-reviews)
-- [Meera Sodha’s vegetarian recipe for crispy one-pan spaghetti with gochujang and mozzarella |. Meera Sodha recipes](https://www.theguardian.com/food/2026/may/23/crispy-one-pan-spaghetti-gochujang-mozzarella-vegetarian-recipe-meera-sodha)
-- [Stephen Hawking’s father worried his son ‘does not study much’, diaries reveal](https://www.theguardian.com/science/2026/may/23/stephen-hawking-father-worried-son-does-not-study-much-diaries)
-- [Tim Dowling: the band shuns my new jokes. But telling the old ones proves even riskier](https://www.theguardian.com/lifeandstyle/2026/may/23/tim-dowling-the-band-shuns-my-new-jokes)
-- [Blind date: ‘Would we meet again? Stay tuned, divas’](https://www.theguardian.com/lifeandstyle/2026/may/23/blind-date-colman-ben)
-- [From The Mandalorian and Grogu to Dear England: your complete entertainment guide to the week ahead](https://www.theguardian.com/culture/2026/may/23/entertainment-guide-week-ahead-mandalorian-grogu-dear-england--cinema-theatre-art-music)
-- [This is how to defeat Vladimir Putin | Timothy Garton Ash](https://www.theguardian.com/commentisfree/2026/may/23/defeat-vladimir-putin-russia-ukraine-nato-eu)
-- [Sort your life out in four increasingly complicated steps: The Becky Barnicoat cartoon](https://www.theguardian.com/lifeandstyle/picture/2026/may/23/sort-your-life-out-in-four-increasingly-complicated-steps-the-becky-barnicoat-cartoon)
+- [Ukraine war briefing: Zelenskyy sounds warning on Oreshnik missiles as Russia strikes Kyiv](https://www.theguardian.com/world/2026/may/24/ukraine-war-briefing-zelenskyy-sounds-warning-after-russia-strikes-kyiv-with-oreshnik-missile)
+- [Shark attack: man dies on Great Barrier Reef in far north Queensland](https://www.theguardian.com/australia-news/2026/may/24/shark-attack-man-dies-great-barrier-reef-far-north-queensland)
+- [Squeals of horror over price caps – but how are we going to fix our broken food system?](https://www.theguardian.com/business/2026/may/24/horror-price-caps-fix-broken-food-system-analysis)
+- [I’m worried my colleague is lying about having cancer | Ask Annalisa Barbieri](https://www.theguardian.com/lifeandstyle/2026/may/24/worried-colleague-lying-about-having-cancer-ask-annalisa-barbieri)
+- [‘We’re expanding the cinematic toolbox’: AI fault lines on show at Cannes](https://www.theguardian.com/technology/2026/may/24/cinematic-toolbox-ai-fault-lines-cannes)
+- [‘My partner was cheating. I wouldn’t have told anybody else’: people who found the right friend at the right time](https://www.theguardian.com/lifeandstyle/2026/may/24/people-who-found-the-right-friend-at-the-right-time)
+- [Fenix, London W1: ‘Big, bright, brash, dumbed down, shameless and open to all’ – restaurant review | Grace Dent on restaurants](https://www.theguardian.com/food/2026/may/24/fenix-london-w1-grace-dent-restaurant-review)
+- [‘There is profound disappointment in him’: mood in Russia turns against Putin](https://www.theguardian.com/world/ng-interactive/2026/may/24/there-is-profound-disappointment-in-him-mood-in-russia-turns-against-putin)
+- [Suspected gunman dies after exchange of fire with Secret Service agents at White House checkpoint](https://www.theguardian.com/us-news/2026/may/23/gunshots-white-house)
+- [Former prosecutor calls for EU statute blocking US sanctions on ICC members](https://www.theguardian.com/law/2026/may/24/former-international-criminal-court-prosecutor-calls-for-eu-statute-blocking-us-sanctions-on-icc-members)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

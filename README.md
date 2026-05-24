@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Arsenal&#39;s title win should be studied by politicians everywhere](https://www.theguardian.com/commentisfree/2026/may/22/keir-starmer-arsenal-politics-premier-league)
-- [Strengthening Singapore&#39;s AI Future](https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership/)
-- [Microsoft Agrees to $250M Settlement with Activision Blizzard Shareholders](https://www.law.com/delbizcourt/2026/05/22/microsoft-agrees-to-250m-settlement-with-activision-blizzard-shareholders/)
-- [White House ordering agencies to place its new app on all employees&#39; govt phones](https://www.govexec.com/management/2026/05/white-house-ordering-agencies-place-its-new-app-all-employees-government-phones/413738/)
-- [US tells foreigners seeking green cards: Return to your countries to apply](https://www.reuters.com/legal/government/uscis-tells-foreigners-seeking-green-cards-return-your-countries-apply-2026-05-22/)
-- [Publishing&#39;s Latest Piracy Problem: Audiobooks on YouTube](https://www.nytimes.com/2026/05/21/books/audiobook-piracy-youtube.html)
-- [Judge considers ordering Meta to revamp its apps](https://www.politico.com/news/2026/05/22/meta-judge-trial-public-nuisance-facebook-00934485)
-- [Crypto industry braces for quantum computing threat](https://www.ft.com/content/99c1c1e7-1a1c-479c-9fc8-e21aea5c3f0e)
-- [Waymo suspends all freeway rides over safety](https://www.latimes.com/business/story/2026-05-22/waymo-suspends-all-freeway-rides-over-safety)
-- [Starbucks scraps AI inventory tool after nine months](https://qz.com/starbucks-scraps-ai-inventory-tool-nomadgo-052226)
+- [Show HN: Logo Fonts](https://logofonts.surge.sh/)
+- [Why Every IKEA Product Has a Weird Name [video]](https://www.youtube.com/watch?v=c89T2snPvNo)
+- [Testing](https://news.ycombinator.com/item?id=48254733)
+- [Meta&#39;s Claudeonomics leaderboard](https://www.indiatoday.in/technology/news/story/meta-shuts-down-internal-claudeonomics-ai-tool-after-employees-started-leaking-data-to-public-2893581-2026-04-09)
+- [I tracked down the thief who stole $200k of Lego [video]](https://www.youtube.com/watch?v=wscQpkcwgNU)
+- [Limerick](https://www.worldwidewords.org/surprise.html)
+- [We Were Wrong About Fasting Study Finds](https://www.sciencealert.com/we-were-wrong-about-fasting-massive-study-finds)
+- [C Constructs That Still Don&#39;t Work in C++ – and a Few That Changed](https://lospino.so/blog/c-constructs-that-still-dont-work-in-cpp/)
+- [A Data Mining Adventure into the World of Lichess Puzzle Database](https://lichess.org/@/heroku/blog/how-many-different-backrank-mates-are-there/gSUlcRkl)
+- [The Verification Problem &lpar;On OpenAI&#39;s Erdős Disproof&rpar;](https://korbonits.com/blog/2026-05-23-the-verification-problem/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

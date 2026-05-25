@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine war briefing: Zelenskyy sounds warning on Oreshnik missiles as Russia strikes Kyiv](https://www.theguardian.com/world/2026/may/24/ukraine-war-briefing-zelenskyy-sounds-warning-after-russia-strikes-kyiv-with-oreshnik-missile)
-- [Shark attack: man dies on Great Barrier Reef in far north Queensland](https://www.theguardian.com/australia-news/2026/may/24/shark-attack-man-dies-great-barrier-reef-far-north-queensland)
-- [Squeals of horror over price caps – but how are we going to fix our broken food system?](https://www.theguardian.com/business/2026/may/24/horror-price-caps-fix-broken-food-system-analysis)
-- [I’m worried my colleague is lying about having cancer | Ask Annalisa Barbieri](https://www.theguardian.com/lifeandstyle/2026/may/24/worried-colleague-lying-about-having-cancer-ask-annalisa-barbieri)
-- [‘We’re expanding the cinematic toolbox’: AI fault lines on show at Cannes](https://www.theguardian.com/technology/2026/may/24/cinematic-toolbox-ai-fault-lines-cannes)
-- [‘My partner was cheating. I wouldn’t have told anybody else’: people who found the right friend at the right time](https://www.theguardian.com/lifeandstyle/2026/may/24/people-who-found-the-right-friend-at-the-right-time)
-- [Fenix, London W1: ‘Big, bright, brash, dumbed down, shameless and open to all’ – restaurant review | Grace Dent on restaurants](https://www.theguardian.com/food/2026/may/24/fenix-london-w1-grace-dent-restaurant-review)
-- [‘There is profound disappointment in him’: mood in Russia turns against Putin](https://www.theguardian.com/world/ng-interactive/2026/may/24/there-is-profound-disappointment-in-him-mood-in-russia-turns-against-putin)
-- [Suspected gunman dies after exchange of fire with Secret Service agents at White House checkpoint](https://www.theguardian.com/us-news/2026/may/23/gunshots-white-house)
-- [Former prosecutor calls for EU statute blocking US sanctions on ICC members](https://www.theguardian.com/law/2026/may/24/former-international-criminal-court-prosecutor-calls-for-eu-statute-blocking-us-sanctions-on-icc-members)
+- [A year after nationalisation, is South Western Railway delivering?](https://www.theguardian.com/uk-news/2026/may/25/south-western-rail-nationalisation-peter-hendy-rollout-reliability)
+- [Anita Rani celebrates awesome women: best podcasts of the week](https://www.theguardian.com/tv-and-radio/2026/may/25/anita-rani-celebrates-awesome-women-best-podcasts-of-the-week)
+- [Whistler by Ann Patchett review – a saccharine story of reunion](https://www.theguardian.com/books/2026/may/25/whistler-by-ann-patchett-review-a-saccharine-story-of-reunion)
+- [Kraken review – fjord-based rampage is monster movie with environmental message](https://www.theguardian.com/film/2026/may/25/kraken-review-fjord-based-rampage-is-monster-movie-with-environmental-message)
+- [Ministers urged to act as households in Great Britain face energy bill ‘anxiety’](https://www.theguardian.com/money/2026/may/25/ministers-urged-act-energy-bill-anxiety-price-cap-great-britain)
+- [HMRC made us wait a year for £150,000 tax rebate](https://www.theguardian.com/money/2026/may/25/hmrc-inheritance-tax-iht-rebate-refund-delay-late)
+- [Half of UK adults say they spend less than three hours a week outside in nature](https://www.theguardian.com/environment/2026/may/25/half-of-uk-adults-say-they-spend-less-than-three-hours-a-week-outside-in-nature)
+- [‘Massive’ child abuse scandal in France as school staff investigated for violence and sexual assault](https://www.theguardian.com/world/2026/may/25/massive-child-abuse-scandal-in-france-as-school-staff-investigated-for-violence-and-sexual-assault)
+- [Sweden’s PM puts IVF at centre of re-election bid amid record low birthrate](https://www.theguardian.com/world/2026/may/25/sweden-pm-ivf-re-election-record-low-birthrate)
+- [Origami dragons and a story arcade! The joy of museums aimed at children](https://www.theguardian.com/artanddesign/2026/may/25/the-joy-of-museums-aimed-at-children)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

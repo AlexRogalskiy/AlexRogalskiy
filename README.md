@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: Logo Fonts](https://logofonts.surge.sh/)
-- [Why Every IKEA Product Has a Weird Name [video]](https://www.youtube.com/watch?v=c89T2snPvNo)
-- [Testing](https://news.ycombinator.com/item?id=48254733)
-- [Meta&#39;s Claudeonomics leaderboard](https://www.indiatoday.in/technology/news/story/meta-shuts-down-internal-claudeonomics-ai-tool-after-employees-started-leaking-data-to-public-2893581-2026-04-09)
-- [I tracked down the thief who stole $200k of Lego [video]](https://www.youtube.com/watch?v=wscQpkcwgNU)
-- [Limerick](https://www.worldwidewords.org/surprise.html)
-- [We Were Wrong About Fasting Study Finds](https://www.sciencealert.com/we-were-wrong-about-fasting-massive-study-finds)
-- [C Constructs That Still Don&#39;t Work in C++ – and a Few That Changed](https://lospino.so/blog/c-constructs-that-still-dont-work-in-cpp/)
-- [A Data Mining Adventure into the World of Lichess Puzzle Database](https://lichess.org/@/heroku/blog/how-many-different-backrank-mates-are-there/gSUlcRkl)
-- [The Verification Problem &lpar;On OpenAI&#39;s Erdős Disproof&rpar;](https://korbonits.com/blog/2026-05-23-the-verification-problem/)
+- [AI Makes Adding Features Faster – So Why Not Add Just One More?](https://grith.ai/blog/just-one-more-feature?nop)
+- [Ask HN: How to get back into programming without AI?](https://news.ycombinator.com/item?id=48263955)
+- [Your Token Was an Equity Grant All Along](https://artsabintsev.substack.com/p/your-token-was-an-equity-grant-all)
+- [I built a scanner that found 41 live AWS keys in 900 Terraform state files](https://vechron.com/2026/05/i-found-900-s3-buckets-exposing-terraform-state-files-41-had-live-aws-credentials/)
+- [A free directory of ecommerce operations tools and checklists](https://www.storeops.directory/)
+- [Linus Torvalds to &#39;start being more hardnosed&#39; about &#39;pointless pull requests&#39;](https://www.theregister.com/oses/2026/05/25/linus-torvalds-to-start-being-more-hardnosed-about-pointless-pull-requests-some-of-which-come-from-ais/5245549)
+- [Introducing vtermux](https://www.mcpantz.org/blog/2026/05/24/introducing-vtermux/)
+- [MCP Apps: interactive UIs for MCP tools](https://apps.extensions.modelcontextprotocol.io/api/)
+- [European social media newbies step forward as users drift from X](https://www.euractiv.com/news/european-social-media-newbies-step-forward-as-users-drift-from-x/)
+- [Vulnerability Spoiler Alert – Exposing Patches Before CVEs](https://vulnerabilityspoileralert.com)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

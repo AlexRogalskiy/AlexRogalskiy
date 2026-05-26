@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [A year after nationalisation, is South Western Railway delivering?](https://www.theguardian.com/uk-news/2026/may/25/south-western-rail-nationalisation-peter-hendy-rollout-reliability)
-- [Anita Rani celebrates awesome women: best podcasts of the week](https://www.theguardian.com/tv-and-radio/2026/may/25/anita-rani-celebrates-awesome-women-best-podcasts-of-the-week)
-- [Whistler by Ann Patchett review – a saccharine story of reunion](https://www.theguardian.com/books/2026/may/25/whistler-by-ann-patchett-review-a-saccharine-story-of-reunion)
-- [Kraken review – fjord-based rampage is monster movie with environmental message](https://www.theguardian.com/film/2026/may/25/kraken-review-fjord-based-rampage-is-monster-movie-with-environmental-message)
-- [Ministers urged to act as households in Great Britain face energy bill ‘anxiety’](https://www.theguardian.com/money/2026/may/25/ministers-urged-act-energy-bill-anxiety-price-cap-great-britain)
-- [HMRC made us wait a year for £150,000 tax rebate](https://www.theguardian.com/money/2026/may/25/hmrc-inheritance-tax-iht-rebate-refund-delay-late)
-- [Half of UK adults say they spend less than three hours a week outside in nature](https://www.theguardian.com/environment/2026/may/25/half-of-uk-adults-say-they-spend-less-than-three-hours-a-week-outside-in-nature)
-- [‘Massive’ child abuse scandal in France as school staff investigated for violence and sexual assault](https://www.theguardian.com/world/2026/may/25/massive-child-abuse-scandal-in-france-as-school-staff-investigated-for-violence-and-sexual-assault)
-- [Sweden’s PM puts IVF at centre of re-election bid amid record low birthrate](https://www.theguardian.com/world/2026/may/25/sweden-pm-ivf-re-election-record-low-birthrate)
-- [Origami dragons and a story arcade! The joy of museums aimed at children](https://www.theguardian.com/artanddesign/2026/may/25/the-joy-of-museums-aimed-at-children)
+- [‘Embarrassment for Japan’: PM wants to cut sales tax but cash registers say no](https://www.theguardian.com/world/2026/may/26/japan-pm-sanae-takaichi-pledged-sales-tax-cut-systems-arent-designed)
+- [TV tonight: Tom Hanks’s epic new documentary series](https://www.theguardian.com/tv-and-radio/2026/may/26/tv-tonight-tom-hankss-epic-new-documentary-series)
+- [‘I’m throwing everything at it’: one young man’s search for a job in Britain’s ‘worklessness capital’](https://www.theguardian.com/environment/2026/may/26/young-people-grimsby-unemployment-jobs)
+- [Heatwaves are becoming the norm. This is what Britain will look like in the year 2052 | Bill McGuire](https://www.theguardian.com/commentisfree/2026/may/26/heatwaves-britain-2052-sleep-hot-houses-water-climate)
+- [UK security services helped devise act that gave amnesty over Troubles killings](https://www.theguardian.com/uk-news/2026/may/26/british-security-services-helped-form-act-amnesty-troubles-killings-northern-ireland)
+- [Asparagus tart and fattoush: Sami Tamimi’s Palestinian recipes for spring](https://www.theguardian.com/food/2026/may/26/asparagus-tart-fattoush-recipes-sami-tamimi)
+- [Saint Levant: the pop star from Gaza caught between passionate fandom and bitter disapproval](https://www.theguardian.com/news/2026/may/26/saint-levant-the-pop-star-from-gaza-caught-between-passionate-fandom-and-bitter-disapproval)
+- [I stopped checking the weather forecast – and got a series of wonderful surprises](https://www.theguardian.com/lifeandstyle/2026/may/26/stopped-checking-uk-weather-forecast-surprises)
+- [UK consumers likely to face higher prices ‘for many months to come’](https://www.theguardian.com/business/2026/may/26/uk-consumers-likely-to-face-higher-prices-for-many-months-to-come)
+- [Trial of Jeffrey Donaldson for alleged sex offences to begin in Newry](https://www.theguardian.com/uk-news/2026/may/26/trial-jeffrey-donaldson-dup-alleged-sex-offences-to-begin-newry-northern-ireland)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

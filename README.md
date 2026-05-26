@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [AI Makes Adding Features Faster – So Why Not Add Just One More?](https://grith.ai/blog/just-one-more-feature?nop)
-- [Ask HN: How to get back into programming without AI?](https://news.ycombinator.com/item?id=48263955)
-- [Your Token Was an Equity Grant All Along](https://artsabintsev.substack.com/p/your-token-was-an-equity-grant-all)
-- [I built a scanner that found 41 live AWS keys in 900 Terraform state files](https://vechron.com/2026/05/i-found-900-s3-buckets-exposing-terraform-state-files-41-had-live-aws-credentials/)
-- [A free directory of ecommerce operations tools and checklists](https://www.storeops.directory/)
-- [Linus Torvalds to &#39;start being more hardnosed&#39; about &#39;pointless pull requests&#39;](https://www.theregister.com/oses/2026/05/25/linus-torvalds-to-start-being-more-hardnosed-about-pointless-pull-requests-some-of-which-come-from-ais/5245549)
-- [Introducing vtermux](https://www.mcpantz.org/blog/2026/05/24/introducing-vtermux/)
-- [MCP Apps: interactive UIs for MCP tools](https://apps.extensions.modelcontextprotocol.io/api/)
-- [European social media newbies step forward as users drift from X](https://www.euractiv.com/news/european-social-media-newbies-step-forward-as-users-drift-from-x/)
-- [Vulnerability Spoiler Alert – Exposing Patches Before CVEs](https://vulnerabilityspoileralert.com)
+- [Ask HN: Is anyone working at least 4 hours daily on an Apple Vision Pro?](https://news.ycombinator.com/item?id=48275508)
+- [Logseq Doctor: heal your flat old Markdown files before importing to Logseq](https://github.com/andreoliwa/logseq-doctor)
+- [Secureblue Goes SUID-Less](https://github.com/secureblue/secureblue/releases/tag/v4.9.1)
+- [Why Is It So Hard to Be Ordinary?](https://www.newyorker.com/culture/open-questions/why-is-it-so-hard-to-be-ordinary)
+- [One of my reliable signs that an early-stage company is in trouble](https://xcancel.com/marcrandolph/status/2057995577133351413?s=20)
+- [Ask HN: Best Free Local STT?](https://news.ycombinator.com/item?id=48275395)
+- [John Cleese on Creativity in Management [video]](https://www.youtube.com/watch?v=Pb5oIIPO62g)
+- [Why and How to Run Local Models in Zed](https://zed.dev/blog/local-ai-in-zed)
+- [Ask HN: Is Codex serving worse models or is it just the harness getting worse?](https://news.ycombinator.com/item?id=48275336)
+- [Gelatine Sculpt Benefits for Weight Loss – Expert Guide 2026](https://finance.yahoo.com/sectors/healthcare/articles/gelatine-sculpt-exploding-2026-viral-142500234.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

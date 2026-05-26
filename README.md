@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Companies Are Just a Graph of Algorithms](https://danielmiessler.com/blog/companies-graph-of-algorithms)
-- [Jira Is Turing-Complete](https://seriot.ch/computation/jira.html)
-- [The Eternal Sloptember](https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html)
-- [A fundamental principle of aeronautical engineering has been overturned](https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/)
-- [Migrating from Go to Rust](https://corrode.dev/learn/migration-guides/go-to-rust/)
-- [Building Pi with Pi](https://lucumr.pocoo.org/2026/5/24/pi-oss/)
-- [Flick &lpar;YC F25&rpar; Is Hiring Front End Engineer to Build Figma for AI Filmmaking](https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-senior-frontend-engineer)
-- [Memory has grown to nearly two-thirds of AI chip component costs](https://epoch.ai/data-insights/ai-chip-component-cost-shares)
-- [Show HN: Audiomass – a free, open-source multitrack audio editor for the web](https://audiomass.co/?multitrack=1)
-- [DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost](https://esengine.github.io/DeepSeek-Reasonix/)
+- [Notes on Pope Leo XIV&#39;s Encyclical on AI](https://simonwillison.net/2026/May/25/encyclical-on-ai/)
+- [The User Is Visibly Frustrated](https://pscanf.com/s/354/)
+- [Motorola phones have started hijacking the Amazon app to insert affiliate codes](https://9to5google.com/2026/05/25/motorola-amazon-app-hijacking-behavior/)
+- [Earthion: A New Mega Drive-Style Shoot-Em-Up](https://earthiongame.com/)
+- [Does anybody like React?](https://jsx.lol)
+- [Designing for and against the manufactured normalcy field &lpar;2012&rpar;](https://www.urbanhonking.com/ideasfordozens/2012/06/24/designing-for-and-against-the-manufactured-normalcy-field/index.html)
+- [CVE-2026-28952: Apple macOS 26.5 Kernel Vuln found by Claude](https://support.apple.com/en-us/127115)
+- [Performance of Rust Language [pdf]](https://github.com/yugr/rust-slides/)
+- [Nobody cracks open a programming book anymore](https://unix.foo/posts/nobody-cracks-open-a-programming-book/)
+- [Using AI to write better code more slowly](https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

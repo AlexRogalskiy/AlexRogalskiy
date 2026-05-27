@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Notes on Pope Leo XIV&#39;s Encyclical on AI](https://simonwillison.net/2026/May/25/encyclical-on-ai/)
-- [The User Is Visibly Frustrated](https://pscanf.com/s/354/)
-- [Motorola phones have started hijacking the Amazon app to insert affiliate codes](https://9to5google.com/2026/05/25/motorola-amazon-app-hijacking-behavior/)
-- [Earthion: A New Mega Drive-Style Shoot-Em-Up](https://earthiongame.com/)
-- [Does anybody like React?](https://jsx.lol)
-- [Designing for and against the manufactured normalcy field &lpar;2012&rpar;](https://www.urbanhonking.com/ideasfordozens/2012/06/24/designing-for-and-against-the-manufactured-normalcy-field/index.html)
-- [CVE-2026-28952: Apple macOS 26.5 Kernel Vuln found by Claude](https://support.apple.com/en-us/127115)
-- [Performance of Rust Language [pdf]](https://github.com/yugr/rust-slides/)
-- [Nobody cracks open a programming book anymore](https://unix.foo/posts/nobody-cracks-open-a-programming-book/)
-- [Using AI to write better code more slowly](https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/)
+- [The just-say-no engineer was a ZIRP phenomenon](https://www.seangoedecke.com/the-just-say-no-engineer-was-a-zirp-phenomenon/)
+- [Where does next-token prediction leave us?](https://pop.rdi.sh/where-does-next-token-prediction-leave-us/)
+- [Tunecat: Simple Internet Radio](https://codeberg.org/lindenii/tunecat/)
+- [Stripe is friendly to “friendly fraud”](https://www.gingerlime.com/2026/stripe-seem-friendly-to-friendly-fraud/)
+- [Erin Brockovich made a map to track data centers around the country](https://www.niemanlab.org/2026/05/erin-brockovich-made-a-map-to-track-data-centers-around-the-country/)
+- [Sonny Rollins, jazz saxophonist, has died](https://www.rollingstone.com/music/music-news/sonny-rollins-jazz-legend-saxophone-colossus-dead-obit-1234715446/)
+- [Cloudflare Flagship](https://developers.cloudflare.com/flagship/)
+- [From Rust to Ruby](https://xlii.space/eng/from-rust-to-ruby/)
+- [Big tech&#39;s anti-labor playbook has come for Wikipedia](https://medium.com/@jakeorlowitz/wikipedia-is-doing-the-capitalist-thing-56a393232943)
+- [The worst job interview I ever had](https://www.oliverio.dev/blog/the-worst-job-interview-i-had)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

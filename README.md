@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [‘Embarrassment for Japan’: PM wants to cut sales tax but cash registers say no](https://www.theguardian.com/world/2026/may/26/japan-pm-sanae-takaichi-pledged-sales-tax-cut-systems-arent-designed)
-- [TV tonight: Tom Hanks’s epic new documentary series](https://www.theguardian.com/tv-and-radio/2026/may/26/tv-tonight-tom-hankss-epic-new-documentary-series)
-- [‘I’m throwing everything at it’: one young man’s search for a job in Britain’s ‘worklessness capital’](https://www.theguardian.com/environment/2026/may/26/young-people-grimsby-unemployment-jobs)
-- [Heatwaves are becoming the norm. This is what Britain will look like in the year 2052 | Bill McGuire](https://www.theguardian.com/commentisfree/2026/may/26/heatwaves-britain-2052-sleep-hot-houses-water-climate)
-- [UK security services helped devise act that gave amnesty over Troubles killings](https://www.theguardian.com/uk-news/2026/may/26/british-security-services-helped-form-act-amnesty-troubles-killings-northern-ireland)
-- [Asparagus tart and fattoush: Sami Tamimi’s Palestinian recipes for spring](https://www.theguardian.com/food/2026/may/26/asparagus-tart-fattoush-recipes-sami-tamimi)
-- [Saint Levant: the pop star from Gaza caught between passionate fandom and bitter disapproval](https://www.theguardian.com/news/2026/may/26/saint-levant-the-pop-star-from-gaza-caught-between-passionate-fandom-and-bitter-disapproval)
-- [I stopped checking the weather forecast – and got a series of wonderful surprises](https://www.theguardian.com/lifeandstyle/2026/may/26/stopped-checking-uk-weather-forecast-surprises)
-- [UK consumers likely to face higher prices ‘for many months to come’](https://www.theguardian.com/business/2026/may/26/uk-consumers-likely-to-face-higher-prices-for-many-months-to-come)
-- [Trial of Jeffrey Donaldson for alleged sex offences to begin in Newry](https://www.theguardian.com/uk-news/2026/may/26/trial-jeffrey-donaldson-dup-alleged-sex-offences-to-begin-newry-northern-ireland)
+- [Energy price cap in Great Britain to rise by 13% from July](https://www.theguardian.com/money/2026/may/27/energy-price-cap-great-britain-rise-july-gas-electricity-iran-war)
+- [Fieldwork As a Sex Object by Meena Kandasamy review – story of a deepfake sex tape](https://www.theguardian.com/books/2026/may/27/fieldwork-as-a-sex-object-by-meena-kandasamy-review-story-of-a-deepfake-sex-tape)
+- [Children seeing extreme violence while held needlessly in jail, says England and Wales watchdog](https://www.theguardian.com/society/2026/may/27/children-violence-remand-jail-england-wales-watchdog)
+- [Neolithic treasures and sparkling seas on Orkney – all for £2 bus fares](https://www.theguardian.com/travel/2026/may/27/orkney-neolithic-treasures-sparkling-seas-orkney-bus-fares)
+- [Bullet in the Head review – John Woo’s Vietnam war fever dream is an explosive masterpiece](https://www.theguardian.com/film/2026/may/27/bullet-in-the-head-review-john-woo-rerelease)
+- [A trip to the future: the best of Belfast photo festival – in pictures](https://www.theguardian.com/artanddesign/gallery/2026/may/27/the-best-of-belfast-photo-festival-in-pictures)
+- [Nearly in one in five UK girls receive unwanted images online, poll finds](https://www.theguardian.com/society/2026/may/27/girls-unwanted-images-misogyny-abuse-harassment-online-uk-survey-barnardos)
+- [Kiln-free recycled tile startup agrees pilot deal with major UK supplier](https://www.theguardian.com/business/2026/may/27/recycled-tile-startup-pilot-deal-dekiln-johnson-tiles)
+- [A moment that changed me: I was turning 40 with an arthritis diagnosis – on a whim I took up my favourite teen hobby again](https://www.theguardian.com/lifeandstyle/2026/may/27/a-moment-that-changed-me-turning-40-arthritis-diagnosis-teen-hobby-kickboxing)
+- [Muslims gather for Eid al-Adha in Indonesia, the Philippines and Malaysia – in pictures](https://www.theguardian.com/world/gallery/2026/may/27/eid-al-adha-muslims-gather-indonesia-philippines-malaysia-ntwnfb)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

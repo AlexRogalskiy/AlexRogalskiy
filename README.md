@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ask HN: Is anyone working at least 4 hours daily on an Apple Vision Pro?](https://news.ycombinator.com/item?id=48275508)
-- [Logseq Doctor: heal your flat old Markdown files before importing to Logseq](https://github.com/andreoliwa/logseq-doctor)
-- [Secureblue Goes SUID-Less](https://github.com/secureblue/secureblue/releases/tag/v4.9.1)
-- [Why Is It So Hard to Be Ordinary?](https://www.newyorker.com/culture/open-questions/why-is-it-so-hard-to-be-ordinary)
-- [One of my reliable signs that an early-stage company is in trouble](https://xcancel.com/marcrandolph/status/2057995577133351413?s=20)
-- [Ask HN: Best Free Local STT?](https://news.ycombinator.com/item?id=48275395)
-- [John Cleese on Creativity in Management [video]](https://www.youtube.com/watch?v=Pb5oIIPO62g)
-- [Why and How to Run Local Models in Zed](https://zed.dev/blog/local-ai-in-zed)
-- [Ask HN: Is Codex serving worse models or is it just the harness getting worse?](https://news.ycombinator.com/item?id=48275336)
-- [Gelatine Sculpt Benefits for Weight Loss – Expert Guide 2026](https://finance.yahoo.com/sectors/healthcare/articles/gelatine-sculpt-exploding-2026-viral-142500234.html)
+- [Vibe Coding as a Security Architect](https://rakkhi.substack.com/p/vibe-coding-as-security-architect)
+- [Show HN: I built a samurai-themed playable Résumé with React, Phaser, + Laravel](https://rzeczko.com/)
+- [Switch between three keyboard languages](https://mnaoumov.dev/posts/2023-12-17-switch-between-three-keyboard-languages/)
+- [Vigolium: Open-Source Vulnerability Scanner](https://www.helpnetsecurity.com/2026/05/27/vigolium-open-source-vulnerability-scanner/)
+- [This Film Cost $500,000 to Make. $400,000 Was AI Compute Costs](https://www.wsj.com/cio-journal/this-cannes-film-cost-500-000-to-make-400-000-was-ai-compute-costs-a823b08d)
+- [Cyberduck – Talk with a Duck](https://rubberduckdebugging.com/cyberduck/)
+- [Bangladesh measles cases: children die within months](https://www.bbc.com/news/articles/cwy2d5d7wn5o)
+- [Federal Bureau of Investigations Internet Crime Report 2025 [pdf]](https://www.ic3.gov/AnnualReport/Reports/2025_IC3Report.pdf)
+- [California cheese mogul turned to AI agents to save his $50M business](https://finance.yahoo.com/sectors/technology/articles/meet-the-california-cheese-mogul-who-turned-to-ai-agents-to-save-his-iconic-50-million-business-120000449.html)
+- [Four Big Takeaways from the FBI&#39;s Report on Internet Crime](https://www.wsj.com/tech/cybersecurity/internet-crime-fbi-report-fd7c16e8)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

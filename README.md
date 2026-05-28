@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Energy price cap in Great Britain to rise by 13% from July](https://www.theguardian.com/money/2026/may/27/energy-price-cap-great-britain-rise-july-gas-electricity-iran-war)
-- [Fieldwork As a Sex Object by Meena Kandasamy review – story of a deepfake sex tape](https://www.theguardian.com/books/2026/may/27/fieldwork-as-a-sex-object-by-meena-kandasamy-review-story-of-a-deepfake-sex-tape)
-- [Children seeing extreme violence while held needlessly in jail, says England and Wales watchdog](https://www.theguardian.com/society/2026/may/27/children-violence-remand-jail-england-wales-watchdog)
-- [Neolithic treasures and sparkling seas on Orkney – all for £2 bus fares](https://www.theguardian.com/travel/2026/may/27/orkney-neolithic-treasures-sparkling-seas-orkney-bus-fares)
-- [Bullet in the Head review – John Woo’s Vietnam war fever dream is an explosive masterpiece](https://www.theguardian.com/film/2026/may/27/bullet-in-the-head-review-john-woo-rerelease)
-- [A trip to the future: the best of Belfast photo festival – in pictures](https://www.theguardian.com/artanddesign/gallery/2026/may/27/the-best-of-belfast-photo-festival-in-pictures)
-- [Nearly in one in five UK girls receive unwanted images online, poll finds](https://www.theguardian.com/society/2026/may/27/girls-unwanted-images-misogyny-abuse-harassment-online-uk-survey-barnardos)
-- [Kiln-free recycled tile startup agrees pilot deal with major UK supplier](https://www.theguardian.com/business/2026/may/27/recycled-tile-startup-pilot-deal-dekiln-johnson-tiles)
-- [A moment that changed me: I was turning 40 with an arthritis diagnosis – on a whim I took up my favourite teen hobby again](https://www.theguardian.com/lifeandstyle/2026/may/27/a-moment-that-changed-me-turning-40-arthritis-diagnosis-teen-hobby-kickboxing)
-- [Muslims gather for Eid al-Adha in Indonesia, the Philippines and Malaysia – in pictures](https://www.theguardian.com/world/gallery/2026/may/27/eid-al-adha-muslims-gather-indonesia-philippines-malaysia-ntwnfb)
+- [Five people have been found trapped in a flooded cave in Laos. How will divers get them out?](https://www.theguardian.com/world/2026/may/28/flooded-cave-in-laos-rescue-mission-people-trapped-how-will-divers-get-them-out)
+- [TV tonight: turning absurd movie dreams into a strange reality](https://www.theguardian.com/tv-and-radio/2026/may/28/tv-tonight-turning-absurd-movie-dreams-into-a-strange-reality)
+- [Greener pasture of a shepherd’s life lures Chinese workers penned in by ‘996’ jobs](https://www.theguardian.com/world/2026/may/28/chinese-workers-apply-mongolian-farmer-hiring-shepherd-job-advert)
+- [Britain ‘sleepwalking into a food crisis’ without urgent action, experts say](https://www.theguardian.com/environment/2026/may/28/britain-sleepwalking-into-a-food-crisis-without-urgent-action-experts-say)
+- [Rachel Roddy’s recipe for tozzetti, AKA dipping biscuits with chocolate chips and orange](https://www.theguardian.com/food/2026/may/28/tozzetti-dipping-biscuits-recipe-chocolate-chips-and-orange-rachel-roddy)
+- [If you’re still on Elon Musk’s X, ask yourself this: why? | Jonathan Liew](https://www.theguardian.com/commentisfree/2026/may/28/still-on-x-ask-yourself-why-platform-twitter-malign-actors-misinformation)
+- [Cigarette butts for free food? How one group is asking people to rethink litter](https://www.theguardian.com/environment/2026/may/28/wastebar-cigarette-butts-waste-free-food-netherlands)
+- [What is killing Sumatra’s elephants? The battle to save one of our rarest animals](https://www.theguardian.com/environment/2026/may/28/elephants-deaths-spur-move-for-sanctuary-in-indonesia-aoe)
+- [Thursday news quiz: A shooting pooch, avatar anger and a collective noun for ‘Derren Brown’](https://www.theguardian.com/lifeandstyle/2026/may/28/the-guardian-thursday-quiz-general-knowledge-topical-news-trivia-249)
+- [Sol Campbell: ‘PSG are favourites but sometimes you need a little luck’](https://www.theguardian.com/football/2026/may/28/sol-campbell-psg-favourites-luck-arsenal-champions-league-interview)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

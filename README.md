@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The just-say-no engineer was a ZIRP phenomenon](https://www.seangoedecke.com/the-just-say-no-engineer-was-a-zirp-phenomenon/)
-- [Where does next-token prediction leave us?](https://pop.rdi.sh/where-does-next-token-prediction-leave-us/)
-- [Tunecat: Simple Internet Radio](https://codeberg.org/lindenii/tunecat/)
-- [Stripe is friendly to “friendly fraud”](https://www.gingerlime.com/2026/stripe-seem-friendly-to-friendly-fraud/)
-- [Erin Brockovich made a map to track data centers around the country](https://www.niemanlab.org/2026/05/erin-brockovich-made-a-map-to-track-data-centers-around-the-country/)
-- [Sonny Rollins, jazz saxophonist, has died](https://www.rollingstone.com/music/music-news/sonny-rollins-jazz-legend-saxophone-colossus-dead-obit-1234715446/)
-- [Cloudflare Flagship](https://developers.cloudflare.com/flagship/)
-- [From Rust to Ruby](https://xlii.space/eng/from-rust-to-ruby/)
-- [Big tech&#39;s anti-labor playbook has come for Wikipedia](https://medium.com/@jakeorlowitz/wikipedia-is-doing-the-capitalist-thing-56a393232943)
-- [The worst job interview I ever had](https://www.oliverio.dev/blog/the-worst-job-interview-i-had)
+- [Hallucinate – Massively Multiplayer Online Rave](https://hallucinate.site)
+- [RamAIn &lpar;YC W26&rpar; Is Hiring](https://www.ycombinator.com/companies/ramain/jobs/hqvmyKN-founding-gtm-engineer)
+- [Google employee charged with $1M Polymarket insider trading bet on search term](https://www.cnbc.com/2026/05/27/google-employee-polymarket-insider-trading.html)
+- [Can we have the day off?](https://mlsu.io/posts/day-off/)
+- [I analysed 20 years of my chats](https://drobinin.com/posts/am-i-a-bad-friend/)
+- [FBI Arrests CIA Official with $40M in Gold Bars in His Home](https://www.nytimes.com/2026/05/27/us/politics/fbi-arrest-cia-official-gold-bars.html)
+- [Warm up your MacBook &lpar;2019&rpar;](https://z3ugma.github.io/2019/11/18/warm-up-your-macbook/)
+- [YouTube to automatically label AI-generated videos](https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/)
+- [I&#39;m Getting into Mesh Networks &lpar;Meshtastic, MeshCore, and Reticulum&rpar;](https://www.jonaharagon.com/posts/im-getting-into-mesh-networks-meshtastic-meshcore-and-reticulum/)
+- [Rust &lpar;and Slint&rpar; on a Jailbroken Kindle](https://sverre.me/blog/rust-on-kindle/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

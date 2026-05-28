@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Vibe Coding as a Security Architect](https://rakkhi.substack.com/p/vibe-coding-as-security-architect)
-- [Show HN: I built a samurai-themed playable Résumé with React, Phaser, + Laravel](https://rzeczko.com/)
-- [Switch between three keyboard languages](https://mnaoumov.dev/posts/2023-12-17-switch-between-three-keyboard-languages/)
-- [Vigolium: Open-Source Vulnerability Scanner](https://www.helpnetsecurity.com/2026/05/27/vigolium-open-source-vulnerability-scanner/)
-- [This Film Cost $500,000 to Make. $400,000 Was AI Compute Costs](https://www.wsj.com/cio-journal/this-cannes-film-cost-500-000-to-make-400-000-was-ai-compute-costs-a823b08d)
-- [Cyberduck – Talk with a Duck](https://rubberduckdebugging.com/cyberduck/)
-- [Bangladesh measles cases: children die within months](https://www.bbc.com/news/articles/cwy2d5d7wn5o)
-- [Federal Bureau of Investigations Internet Crime Report 2025 [pdf]](https://www.ic3.gov/AnnualReport/Reports/2025_IC3Report.pdf)
-- [California cheese mogul turned to AI agents to save his $50M business](https://finance.yahoo.com/sectors/technology/articles/meet-the-california-cheese-mogul-who-turned-to-ai-agents-to-save-his-iconic-50-million-business-120000449.html)
-- [Four Big Takeaways from the FBI&#39;s Report on Internet Crime](https://www.wsj.com/tech/cybersecurity/internet-crime-fbi-report-fd7c16e8)
+- [Giant cockroach statue brings new life to shrinking Nara village](https://mainichi.jp/english/articles/20260527/p2g/00m/0na/048000c)
+- [Ottawa&#39;s latest deal with U.S. data giant Palantir raises warnings](https://www.thestar.com/politics/federal/ottawas-latest-deal-with-us-data-giant-palantir-raises-warnings/article_fe486987-5e93-4b51-8c17-48b0a8f58e0d.html)
+- [The Ridgeway](https://www.historic-uk.com/HistoryMagazine/DestinationsUK/The-Ridgeway/)
+- [Google engineer charged with using inside information to win $1.2M on Polymarket](https://www.washingtonpost.com/technology/2026/05/27/google-employee-charged-with-insider-trading-polymarket/)
+- [TopRec &lpar;toprec.io&rpar; – AI screening and CRM for recruiters and hiring teams](https://toprec.io)
+- [The fog is alive: bacteria in fog droplets clear toxins from air](https://news.asu.edu/20260514-environment-and-sustainability-fog-alive-researchers-discover-bacteria-fog-droplets-clear)
+- [Rust Will Save Linux from AI, Says Greg Kroah-Hartman](https://www.zdnet.com/article/rust-will-save-linux-from-ai-says-greg-kroah-hartman/)
+- [Amazon to Acquire Apple&#39;s Globalstar Stake in Satellite Deal](https://www.macrumors.com/2026/05/27/amazon-apple-globalstar-deal/)
+- [Ebola exposed Americans blocked from US return](https://arstechnica.com/health/2026/05/us-walls-itself-off-from-ebola-beefed-up-travel-ban-no-citizen-repatriation/)
+- [AI Is Starting to Hit Power Grid Limits Simple, Crédible, Ouvre La Discussion](https://nypost.com/2026/05/22/business/data-center-debacle-roiling-midterms-as-ai-may-have-to-pay/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

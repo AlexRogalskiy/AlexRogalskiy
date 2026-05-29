@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Giant cockroach statue brings new life to shrinking Nara village](https://mainichi.jp/english/articles/20260527/p2g/00m/0na/048000c)
-- [Ottawa&#39;s latest deal with U.S. data giant Palantir raises warnings](https://www.thestar.com/politics/federal/ottawas-latest-deal-with-us-data-giant-palantir-raises-warnings/article_fe486987-5e93-4b51-8c17-48b0a8f58e0d.html)
-- [The Ridgeway](https://www.historic-uk.com/HistoryMagazine/DestinationsUK/The-Ridgeway/)
-- [Google engineer charged with using inside information to win $1.2M on Polymarket](https://www.washingtonpost.com/technology/2026/05/27/google-employee-charged-with-insider-trading-polymarket/)
-- [TopRec &lpar;toprec.io&rpar; – AI screening and CRM for recruiters and hiring teams](https://toprec.io)
-- [The fog is alive: bacteria in fog droplets clear toxins from air](https://news.asu.edu/20260514-environment-and-sustainability-fog-alive-researchers-discover-bacteria-fog-droplets-clear)
-- [Rust Will Save Linux from AI, Says Greg Kroah-Hartman](https://www.zdnet.com/article/rust-will-save-linux-from-ai-says-greg-kroah-hartman/)
-- [Amazon to Acquire Apple&#39;s Globalstar Stake in Satellite Deal](https://www.macrumors.com/2026/05/27/amazon-apple-globalstar-deal/)
-- [Ebola exposed Americans blocked from US return](https://arstechnica.com/health/2026/05/us-walls-itself-off-from-ebola-beefed-up-travel-ban-no-citizen-repatriation/)
-- [AI Is Starting to Hit Power Grid Limits Simple, Crédible, Ouvre La Discussion](https://nypost.com/2026/05/22/business/data-center-debacle-roiling-midterms-as-ai-may-have-to-pay/)
+- [The £5 coffee that tells a story of global economic turmoil](https://www.bbc.co.uk/news/articles/cr5pp1m6z06o)
+- [Reuters: Tesla&#39;s FSD safety claims are misleading marketing, not safety research](https://electrek.co/2026/05/28/tesla-fsd-safety-stats-misleading-reuters-investigation/)
+- [Under the River](https://shopify.engineering/under-the-river)
+- [China is building launch pads near its nuclear missile silos](https://www.reuters.com/graphics/CHINA-MILITARY/NUCLEAR/zjpqmbrlqpx/)
+- [Gloss](https://getgloss.dev/)
+- [Multi-cloud spend visibility and waste detection in one CLI](https://github.com/sumankondla-88/costctl)
+- [Zot now supports Claude Opus 4.8](https://www.zot.sh)
+- [Conversational LLM Client Made in Tkinter](https://meltdown.merkoba.com/index.html)
+- [Volkswagen blocks Home Assistant by requiring client assertion](https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967)
+- [The One Terminal you will need](https://oterminal-web.zeabur.app)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

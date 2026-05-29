@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Five people have been found trapped in a flooded cave in Laos. How will divers get them out?](https://www.theguardian.com/world/2026/may/28/flooded-cave-in-laos-rescue-mission-people-trapped-how-will-divers-get-them-out)
-- [TV tonight: turning absurd movie dreams into a strange reality](https://www.theguardian.com/tv-and-radio/2026/may/28/tv-tonight-turning-absurd-movie-dreams-into-a-strange-reality)
-- [Greener pasture of a shepherd’s life lures Chinese workers penned in by ‘996’ jobs](https://www.theguardian.com/world/2026/may/28/chinese-workers-apply-mongolian-farmer-hiring-shepherd-job-advert)
-- [Britain ‘sleepwalking into a food crisis’ without urgent action, experts say](https://www.theguardian.com/environment/2026/may/28/britain-sleepwalking-into-a-food-crisis-without-urgent-action-experts-say)
-- [Rachel Roddy’s recipe for tozzetti, AKA dipping biscuits with chocolate chips and orange](https://www.theguardian.com/food/2026/may/28/tozzetti-dipping-biscuits-recipe-chocolate-chips-and-orange-rachel-roddy)
-- [If you’re still on Elon Musk’s X, ask yourself this: why? | Jonathan Liew](https://www.theguardian.com/commentisfree/2026/may/28/still-on-x-ask-yourself-why-platform-twitter-malign-actors-misinformation)
-- [Cigarette butts for free food? How one group is asking people to rethink litter](https://www.theguardian.com/environment/2026/may/28/wastebar-cigarette-butts-waste-free-food-netherlands)
-- [What is killing Sumatra’s elephants? The battle to save one of our rarest animals](https://www.theguardian.com/environment/2026/may/28/elephants-deaths-spur-move-for-sanctuary-in-indonesia-aoe)
-- [Thursday news quiz: A shooting pooch, avatar anger and a collective noun for ‘Derren Brown’](https://www.theguardian.com/lifeandstyle/2026/may/28/the-guardian-thursday-quiz-general-knowledge-topical-news-trivia-249)
-- [Sol Campbell: ‘PSG are favourites but sometimes you need a little luck’](https://www.theguardian.com/football/2026/may/28/sol-campbell-psg-favourites-luck-arsenal-champions-league-interview)
+- [TV tonight: how did Olly Murs pull off his Soccer Aid spectacular?](https://www.theguardian.com/tv-and-radio/2026/may/29/tv-tonight-how-did-olly-murs-pull-off-his-soccer-aid-spectacular)
+- [CMAT shares ‘deep sadness’ over body-shaming after BBC Radio 1 Big Weekend performance](https://www.theguardian.com/music/2026/may/29/cmat-shares-deep-sadness-over-body-shaming-bbc-radio-1-big-weekend)
+- [Air pollution slows lung growth during childhood, UK study shows](https://www.theguardian.com/environment/2026/may/29/air-pollution-slows-lung-growth-childhood-uk-study)
+- [‘It feels unfair’: the Britons struggling to get a mortgage since Iran war began](https://www.theguardian.com/money/2026/may/29/britons-struggling-mortgage-since-iran-war-began)
+- [Strappy days: what to wear with the classic summer dress](https://www.theguardian.com/fashion/gallery/2026/may/29/what-to-wear-with-strappy-summer-dress)
+- [Helen Goh’s recipe for gooseberry and almond pies | The sweet spot](https://www.theguardian.com/food/2026/may/29/gooseberry-and-almond-pies-recipe-helen-goh)
+- [We know what former SNP chief Peter Murrell bought with £400,000 of embezzled funds. What I’d like to know is why | Gaby Hinsliff](https://www.theguardian.com/commentisfree/2026/may/29/snp-chief-peter-murrell-embezzled-funds-guilty)
+- [Russian drone crashes into Romanian apartments, wounding two people and starting fire](https://www.theguardian.com/world/2026/may/29/russian-drone-romanian-apartments-wounding-two-people-and-starting-fire)
+- [‘I can gauge John’s reaction: that’s good, stick that in’: Paul McCartney on how old bandmates – and Oasis – inspired his nostalgic new album](https://www.theguardian.com/music/2026/may/29/paul-mccartney-bandmates-oasis-nostalgic-new-album-the-boys-of-dungeon-lane)
+- [Star City review – Anna Maxwell Martin is terrifying in a fascinating space race thriller](https://www.theguardian.com/tv-and-radio/2026/may/29/star-city-review-anna-maxwell-martin-is-terrifying-in-a-fascinating-space-race-thriller)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

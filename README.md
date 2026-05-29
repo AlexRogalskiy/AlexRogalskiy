@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Hallucinate – Massively Multiplayer Online Rave](https://hallucinate.site)
-- [RamAIn &lpar;YC W26&rpar; Is Hiring](https://www.ycombinator.com/companies/ramain/jobs/hqvmyKN-founding-gtm-engineer)
-- [Google employee charged with $1M Polymarket insider trading bet on search term](https://www.cnbc.com/2026/05/27/google-employee-polymarket-insider-trading.html)
-- [Can we have the day off?](https://mlsu.io/posts/day-off/)
-- [I analysed 20 years of my chats](https://drobinin.com/posts/am-i-a-bad-friend/)
-- [FBI Arrests CIA Official with $40M in Gold Bars in His Home](https://www.nytimes.com/2026/05/27/us/politics/fbi-arrest-cia-official-gold-bars.html)
-- [Warm up your MacBook &lpar;2019&rpar;](https://z3ugma.github.io/2019/11/18/warm-up-your-macbook/)
-- [YouTube to automatically label AI-generated videos](https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/)
-- [I&#39;m Getting into Mesh Networks &lpar;Meshtastic, MeshCore, and Reticulum&rpar;](https://www.jonaharagon.com/posts/im-getting-into-mesh-networks-meshtastic-meshcore-and-reticulum/)
-- [Rust &lpar;and Slint&rpar; on a Jailbroken Kindle](https://sverre.me/blog/rust-on-kindle/)
+- [Python utility package for building Claude Code hooks](https://github.com/RasmusGodske/claude-hook-utils)
+- [The most spectacular rocket explosion since N1 just happened in Florida](https://arstechnica.com/space/2026/05/blue-origins-new-glenn-rocket-just-exploded-during-a-static-fire-test/)
+- [Cars are trying to spy on you, and it&#39;s only just the beginning](https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse)
+- [Italians and Dutch share the same gestural instinct for teaching](https://www.mpi.nl/news/italians-and-dutch-share-same-gestural-instinct-teaching)
+- [Blue Origin&#39;s New Glenn blows up during static fire test](https://twitter.com/nasaspaceflight/status/2060164928472854821)
+- [The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin](https://minimaxir.com/2026/05/openrouter-hy3/)
+- [SF startup is testing robots in Airbnbs, and trashing them, lawsuit claims](https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/)
+- [Garnix &lpar;A Nix CI&rpar; is shutting down](https://discourse.nixos.org/t/garnix-is-shutting-down-not-oc/77895)
+- [GitHub bans security researcher who posted zero-day Windows exploits](https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-further-retaliation)
+- [I made a million dollar product from my dorm room &lpar;2025&rpar;](https://nick.winans.io/blog/nice-nano/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

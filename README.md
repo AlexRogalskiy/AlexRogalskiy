@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Python utility package for building Claude Code hooks](https://github.com/RasmusGodske/claude-hook-utils)
-- [The most spectacular rocket explosion since N1 just happened in Florida](https://arstechnica.com/space/2026/05/blue-origins-new-glenn-rocket-just-exploded-during-a-static-fire-test/)
-- [Cars are trying to spy on you, and it&#39;s only just the beginning](https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse)
-- [Italians and Dutch share the same gestural instinct for teaching](https://www.mpi.nl/news/italians-and-dutch-share-same-gestural-instinct-teaching)
-- [Blue Origin&#39;s New Glenn blows up during static fire test](https://twitter.com/nasaspaceflight/status/2060164928472854821)
-- [The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin](https://minimaxir.com/2026/05/openrouter-hy3/)
-- [SF startup is testing robots in Airbnbs, and trashing them, lawsuit claims](https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/)
-- [Garnix &lpar;A Nix CI&rpar; is shutting down](https://discourse.nixos.org/t/garnix-is-shutting-down-not-oc/77895)
-- [GitHub bans security researcher who posted zero-day Windows exploits](https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-further-retaliation)
-- [I made a million dollar product from my dorm room &lpar;2025&rpar;](https://nick.winans.io/blog/nice-nano/)
+- [Records Show UC Sharing Data with US Customs and Border Protection](https://www.dailycal.org/news/uc/records-show-uc-sharing-data-with-us-customs-and-border-protection/article_785ac3ca-9ab2-4ab0-bbb8-07742e62d3d8.html)
+- [Perry Compiles TypeScript directly to executables using SWC and LLVM](https://www.perryts.com/)
+- [Show HN: VT Code – open-source terminal coding agent in Rust](https://github.com/vinhnx/VTCode)
+- [Naphtha shortages in Japan](https://www.nippon.com/en/japan-data/h02783/)
+- [WH proposes rules giving political appointees final approval on research grants](https://www.scientificamerican.com/article/white-house-proposes-new-rules-giving-political-appointees-final-say-on-research-grants/)
+- [Ember.js 7.0](https://blog.emberjs.com/ember-released-7-0/)
+- [What Is a Dickover?](https://daringfireball.net/2026/05/what_is_a_dickover)
+- [MCP is dead?](https://www.quandri.io/engineering-blog/mcp-is-dead)
+- [Show HN: Open-source private home security camera system &lpar;end-to-end encryption&rpar;](https://github.com/secluso/core)
+- [Free full BGP feed. IPv4 and IPv6 &lpar;2020&rpar;](https://lukasz.bromirski.net/post/bgp-w-labie-3/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

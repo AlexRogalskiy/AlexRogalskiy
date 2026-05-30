@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [TV tonight: how did Olly Murs pull off his Soccer Aid spectacular?](https://www.theguardian.com/tv-and-radio/2026/may/29/tv-tonight-how-did-olly-murs-pull-off-his-soccer-aid-spectacular)
-- [CMAT shares ‘deep sadness’ over body-shaming after BBC Radio 1 Big Weekend performance](https://www.theguardian.com/music/2026/may/29/cmat-shares-deep-sadness-over-body-shaming-bbc-radio-1-big-weekend)
-- [Air pollution slows lung growth during childhood, UK study shows](https://www.theguardian.com/environment/2026/may/29/air-pollution-slows-lung-growth-childhood-uk-study)
-- [‘It feels unfair’: the Britons struggling to get a mortgage since Iran war began](https://www.theguardian.com/money/2026/may/29/britons-struggling-mortgage-since-iran-war-began)
-- [Strappy days: what to wear with the classic summer dress](https://www.theguardian.com/fashion/gallery/2026/may/29/what-to-wear-with-strappy-summer-dress)
-- [Helen Goh’s recipe for gooseberry and almond pies | The sweet spot](https://www.theguardian.com/food/2026/may/29/gooseberry-and-almond-pies-recipe-helen-goh)
-- [We know what former SNP chief Peter Murrell bought with £400,000 of embezzled funds. What I’d like to know is why | Gaby Hinsliff](https://www.theguardian.com/commentisfree/2026/may/29/snp-chief-peter-murrell-embezzled-funds-guilty)
-- [Russian drone crashes into Romanian apartments, wounding two people and starting fire](https://www.theguardian.com/world/2026/may/29/russian-drone-romanian-apartments-wounding-two-people-and-starting-fire)
-- [‘I can gauge John’s reaction: that’s good, stick that in’: Paul McCartney on how old bandmates – and Oasis – inspired his nostalgic new album](https://www.theguardian.com/music/2026/may/29/paul-mccartney-bandmates-oasis-nostalgic-new-album-the-boys-of-dungeon-lane)
-- [Star City review – Anna Maxwell Martin is terrifying in a fascinating space race thriller](https://www.theguardian.com/tv-and-radio/2026/may/29/star-city-review-anna-maxwell-martin-is-terrifying-in-a-fascinating-space-race-thriller)
+- [TV tonight: the weird, wild story of kidnapped racehorse Shergar](https://www.theguardian.com/tv-and-radio/2026/may/30/tv-tonight-the-weird-wild-story-of-kidnapped-racehorse-shergar)
+- [Blind date: ‘Most awkward moment? When he said his dad set up the date for him’](https://www.theguardian.com/lifeandstyle/2026/may/30/blind-date-ailsa-mike)
+- [‘Nature’s soap opera’: how a wildlife artist’s nestboxes became a YouTube hit](https://www.theguardian.com/environment/2026/may/30/wildlife-artist-robert-fuller-nestboxes-youtube)
+- [Tim Dowling: at least with two identical pairs of shoes I can make a swift exit](https://www.theguardian.com/lifeandstyle/2026/may/30/tim-dowling-at-least-with-two-identical-pairs-of-shoes-i-can-make-a-swift-exit)
+- [Getting old is no picnic: the Becky Barnicoat cartoon](https://www.theguardian.com/lifeandstyle/picture/2026/may/30/getting-old-is-no-picnic-the-becky-barnicoat-cartoon)
+- [‘There is no way to stop this’: ‘Biotech Barbie’ Cathy Tie on her mission to genetically modify babies](https://www.theguardian.com/science/2026/may/30/there-is-no-way-to-stop-this-biotech-barbie-cathy-tie-on-her-mission-to-genetically-modify-babies)
+- [Meera Sodha’s recipe for saffron milk cake | Meera Sodha recipes](https://www.theguardian.com/food/2026/may/30/saffron-milk-cake-recipe-meera-sodha)
+- [Arsenal fans use ‘trains, planes and automobiles’ in race to Budapest for Champions League final](https://www.theguardian.com/football/2026/may/30/arsenal-fans-race-budapest-champions-league-final)
+- [A broken economy and an emboldened regime: Iranians abandoned to endure fallout from war](https://www.theguardian.com/news/ng-interactive/2026/may/30/iran-broken-economy-emboldened-regime-iranians-abandoned-fallout-of-war)
+- [More than 150 million people will watch tonight’s Champions League final. It’s PSG v Arsenal – and most of Africa | Sean Jacobs](https://www.theguardian.com/commentisfree/2026/may/30/arsenal-champions-league-final-paris-saint-germain-africa)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

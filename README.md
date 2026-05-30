@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The £5 coffee that tells a story of global economic turmoil](https://www.bbc.co.uk/news/articles/cr5pp1m6z06o)
-- [Reuters: Tesla&#39;s FSD safety claims are misleading marketing, not safety research](https://electrek.co/2026/05/28/tesla-fsd-safety-stats-misleading-reuters-investigation/)
-- [Under the River](https://shopify.engineering/under-the-river)
-- [China is building launch pads near its nuclear missile silos](https://www.reuters.com/graphics/CHINA-MILITARY/NUCLEAR/zjpqmbrlqpx/)
-- [Gloss](https://getgloss.dev/)
-- [Multi-cloud spend visibility and waste detection in one CLI](https://github.com/sumankondla-88/costctl)
-- [Zot now supports Claude Opus 4.8](https://www.zot.sh)
-- [Conversational LLM Client Made in Tkinter](https://meltdown.merkoba.com/index.html)
-- [Volkswagen blocks Home Assistant by requiring client assertion](https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967)
-- [The One Terminal you will need](https://oterminal-web.zeabur.app)
+- [A Weekend in Claude Design Saves 3 Weeks of Claude Code](https://cashandcache.substack.com/p/the-prototype-tax-how-a-weekend-in)
+- [The 12 Futures of AI](https://medium.com/@butsch_79/the-12-futures-of-ai-a42d67bd9a20)
+- [The Biggest Tell That Something Was Written by AI](https://www.theatlantic.com/technology/2026/05/how-to-tell-ai-writing/687345/)
+- [Indian court ruling on Google keyword ads could reshape online advertising](https://www.reuters.com/business/media-telecom/indian-court-ruling-google-keyword-ads-could-reshape-online-advertising-2026-05-29/)
+- [The next frontier of the luxury airline arms race might be waged in the toilet](https://www.cnn.com/travel/first-class-toilets-emirates-airbus-travel-intl-spc)
+- [Poor sleep linked to rising cancer risk in under-50s](https://www.theguardian.com/society/2026/may/30/poor-sleep-linked-rising-cancer-risk-under-50s)
+- [Records Show UC Sharing Data with US Customs and Border Protection](https://www.dailycal.org/news/uc/records-show-uc-sharing-data-with-us-customs-and-border-protection/article_785ac3ca-9ab2-4ab0-bbb8-07742e62d3d8.html)
+- [Ask HN: What could happen if human beings become obsolete?](https://news.ycombinator.com/item?id=48332831)
+- [HeavensLive: The Marketplace That Gives You Free Money to Start – No Strings](https://www.heavenslive.com)
+- [Mean Hand](https://portfolio.anna-zhang.com/projects/mean-hand)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

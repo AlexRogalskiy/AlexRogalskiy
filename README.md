@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [A Weekend in Claude Design Saves 3 Weeks of Claude Code](https://cashandcache.substack.com/p/the-prototype-tax-how-a-weekend-in)
-- [The 12 Futures of AI](https://medium.com/@butsch_79/the-12-futures-of-ai-a42d67bd9a20)
-- [The Biggest Tell That Something Was Written by AI](https://www.theatlantic.com/technology/2026/05/how-to-tell-ai-writing/687345/)
-- [Indian court ruling on Google keyword ads could reshape online advertising](https://www.reuters.com/business/media-telecom/indian-court-ruling-google-keyword-ads-could-reshape-online-advertising-2026-05-29/)
-- [The next frontier of the luxury airline arms race might be waged in the toilet](https://www.cnn.com/travel/first-class-toilets-emirates-airbus-travel-intl-spc)
-- [Poor sleep linked to rising cancer risk in under-50s](https://www.theguardian.com/society/2026/may/30/poor-sleep-linked-rising-cancer-risk-under-50s)
-- [Records Show UC Sharing Data with US Customs and Border Protection](https://www.dailycal.org/news/uc/records-show-uc-sharing-data-with-us-customs-and-border-protection/article_785ac3ca-9ab2-4ab0-bbb8-07742e62d3d8.html)
-- [Ask HN: What could happen if human beings become obsolete?](https://news.ycombinator.com/item?id=48332831)
-- [HeavensLive: The Marketplace That Gives You Free Money to Start – No Strings](https://www.heavenslive.com)
-- [Mean Hand](https://portfolio.anna-zhang.com/projects/mean-hand)
+- [A Complexity Theory of AI Value Accrual](https://twitter.com/hypersoren/status/2056866328003174707)
+- [Google infringed trademark allowing competitors use brand name as an ad keyword](https://economictimes.indiatimes.com/tech/technology/ettech-explainer-why-google-was-fined-rs-30-lakh-in-hindware-trademark-case/articleshow/131390977.cms?from=mdr)
+- [Dell Confirms XPS Laptop with Nvidia N1X at Computex](https://videocardz.com/newz/dell-confirms-xps-laptop-with-nvidia-n1x-at-computex)
+- [High Tech Heroes #37: Sherwin Gooch Interviews Jef Raskin &lpar;1989?&rpar;](https://www.youtube.com/watch?v=1qvrOEExlps)
+- [Codex generated code that bypasses security constraints](https://twitter.com/sluongng/status/2060746160558543217)
+- [Why Don&#39;t Computers Just Use One Type of Memory?](https://www.youtube.com/watch?v=TfhL5kBiQVI)
+- [Show HN: News about positive advances in medicine, climate tech, research](https://thegoodreport.co/)
+- [The SpaceX IPO is great for Elon Musk and terrible for you](https://www.theverge.com/ai-artificial-intelligence/940001/elon-musk-spacex-ipo-ai)
+- [A pictorial introduction to differential geometry &lpar;2017&rpar;](https://arxiv.org/abs/1709.08492)
+- [How LLMs Work](https://arpitbhayani.me/blogs/how-llms-work/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

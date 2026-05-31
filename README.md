@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Records Show UC Sharing Data with US Customs and Border Protection](https://www.dailycal.org/news/uc/records-show-uc-sharing-data-with-us-customs-and-border-protection/article_785ac3ca-9ab2-4ab0-bbb8-07742e62d3d8.html)
-- [Perry Compiles TypeScript directly to executables using SWC and LLVM](https://www.perryts.com/)
-- [Show HN: VT Code – open-source terminal coding agent in Rust](https://github.com/vinhnx/VTCode)
-- [Naphtha shortages in Japan](https://www.nippon.com/en/japan-data/h02783/)
-- [WH proposes rules giving political appointees final approval on research grants](https://www.scientificamerican.com/article/white-house-proposes-new-rules-giving-political-appointees-final-say-on-research-grants/)
-- [Ember.js 7.0](https://blog.emberjs.com/ember-released-7-0/)
-- [What Is a Dickover?](https://daringfireball.net/2026/05/what_is_a_dickover)
-- [MCP is dead?](https://www.quandri.io/engineering-blog/mcp-is-dead)
-- [Show HN: Open-source private home security camera system &lpar;end-to-end encryption&rpar;](https://github.com/secluso/core)
-- [Free full BGP feed. IPv4 and IPv6 &lpar;2020&rpar;](https://lukasz.bromirski.net/post/bgp-w-labie-3/)
+- [Ahoy, DECmate II the little PDP-8 that could](http://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html)
+- [Building a LangGraph pipeline for production data engineering](https://labyrinthanalyticsconsulting.com/blog/building-first-langgraph-pipeline)
+- [Mechanical Pencin: A website about the hidden engineering in everyday objects](https://mechanical-pencil.com/)
+- [Microsoft Office 2019 and 2021 for Mac view-only conversion](https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026))
+- [Cheese Paper: a text editor specifically designed for writing](https://brie.gay/cheese-paper/)
+- [Shantell Sans &lpar;2023&rpar;](https://shantellsans.com/process)
+- [The AV2 Video Standard Has Released &lpar;Final v1.0 Specification&rpar;](https://av2.aomedia.org)
+- [Design Engineering Magazine](https://interfaces.dev/)
+- [wolfSSL releases a new product; wolfCOSE a zero alloc C embbedded COSE stack](https://github.com/wolfSSL/wolfCOSE)
+- [Domain expertise has always been the real moat](https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Recruiter who was allowed to buy back his insolvent firm falls behind on payments after offering staff Vegas trip](https://www.theguardian.com/business/2026/may/31/recruiter-insolvent-firm-payments-premier-group-recruitment-hmrc)
-- [From bikinis to cat bowls: how museum gift stores became the place to shop](https://www.theguardian.com/culture/2026/may/31/bikinis-cat-bowls-museum-gift-shops)
-- [‘Your devices could be at risk’: how antivirus scams trade on fear](https://www.theguardian.com/money/2026/may/31/virus-software-scam-trade-fear-urgent-renewal)
-- [TV tonight: a major new culture wars drama from the great Russell T Davies](https://www.theguardian.com/tv-and-radio/2026/may/31/tv-tonight-a-major-new-culture-wars-drama-from-the-great-russell-t-davies)
-- [Skof, Manchester M4: ‘Proof that fine dining can be magical’ – restaurant review | Grace Dent on restaurants](https://www.theguardian.com/food/2026/may/31/skof-manchester-m4-grace-dent-restaurant-review)
-- [Badenoch-supporting US rapper Azealia Banks to attend Spectator summer party in London](https://www.theguardian.com/music/2026/may/31/badenoch-supporting-us-rapper-azealia-banks-to-attend-spectator-summer-party-in-london)
-- [I feel a lot of affection for a friend at work – could I be in love? | Ask Annalisa Barbieri](https://www.theguardian.com/lifeandstyle/2026/may/31/affection-friend-work-could-i-be-in-love-annalisa-barbieri)
-- [‘The potential is huge’: Plymouth hopes defence money will have it sailing again](https://www.theguardian.com/uk-news/2026/may/31/defence-money-plymouth-regeneration-plans)
-- [‘One day I thought, that’s enough’: the people fighting back against pothole-riddled roads](https://www.theguardian.com/world/2026/may/31/one-day-i-thought-thats-enough-the-people-fighting-back-against-pothole-riddled-roads)
-- [When will the EU punch its weight in a perilous world? That’s the question countries eager to join should be asking | Simon Tisdall](https://www.theguardian.com/commentisfree/2026/may/31/eu-perilous-world-countries-join)
+- [Middle East crisis live: Kuwait reports missile and drone attack; US says it struck Iran radar sites over weekend](https://www.theguardian.com/world/live/2026/jun/01/iran-war-live-news-updates-kuwait-missile-drone-attack-us-strikes-iran-radar-sites)
+- [Striped rock dismissed as natural in 1928 reclassified as UK’s oldest cave art](https://www.theguardian.com/science/2026/jun/01/striped-rock-dismissed-as-natural-reclassified-uk-oldest-cave-art-mumbles-south-wales)
+- [Family’s 90-year search for answers after father vanished in Francoist uprising – photo essay](https://www.theguardian.com/artanddesign/2026/jun/01/spain-family-answers-search-franco-uprising-disappeared-photo-essay)
+- [‘Cheap’ parking at Stansted airport cost me hundreds of pounds](https://www.theguardian.com/money/2026/jun/01/cheap-parking-stansted-airport-hundreds-pounds-meet-greet)
+- [‘A slap-up meal for €12’: my search for the perfect old-school Turin tavern](https://www.theguardian.com/travel/2026/jun/01/perfect-old-school-turin-tavern-piole-piola-italy)
+- [Land by Maggie O’Farrell review – an ambitious story of mapmaking in Ireland](https://www.theguardian.com/books/2026/jun/01/land-by-maggie-ofarrell-review-an-ambitious-story-of-mapmaking-in-ireland)
+- [Wildfires devastating richer areas but fewer hectares burned globally – study](https://www.theguardian.com/world/2026/jun/01/wildfires-devastating-richer-areas-but-fewer-hectares-burned-globally-study)
+- [The Guest review – the risks of protecting refugees in the Poland-Belarus danger zone](https://www.theguardian.com/film/2026/jun/01/the-guest-review-the-risks-of-protecting-refugees-in-the-poland-belarus-danger-zone)
+- [Strictly’s Anton and Craig have strong opinions: best podcasts of the week](https://www.theguardian.com/tv-and-radio/2026/jun/01/strictlys-anton-and-craig-have-strong-opinions-best-podcasts-of-the-week)
+- [A new start after 60: I became my husband’s carer – and saw travel, nature and love anew](https://www.theguardian.com/lifeandstyle/2026/jun/01/a-new-start-after-60-i-became-my-husbands-carer-and-saw-travel-nature-and-love-anew)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

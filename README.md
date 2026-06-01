@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Ahoy, DECmate II the little PDP-8 that could](http://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html)
-- [Building a LangGraph pipeline for production data engineering](https://labyrinthanalyticsconsulting.com/blog/building-first-langgraph-pipeline)
-- [Mechanical Pencin: A website about the hidden engineering in everyday objects](https://mechanical-pencil.com/)
-- [Microsoft Office 2019 and 2021 for Mac view-only conversion](https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026))
-- [Cheese Paper: a text editor specifically designed for writing](https://brie.gay/cheese-paper/)
-- [Shantell Sans &lpar;2023&rpar;](https://shantellsans.com/process)
-- [The AV2 Video Standard Has Released &lpar;Final v1.0 Specification&rpar;](https://av2.aomedia.org)
-- [Design Engineering Magazine](https://interfaces.dev/)
-- [wolfSSL releases a new product; wolfCOSE a zero alloc C embbedded COSE stack](https://github.com/wolfSSL/wolfCOSE)
-- [Domain expertise has always been the real moat](https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/)
+- [Nvidia RTX Spark](https://www.nvidia.com/en-us/products/rtx-spark/)
+- [Rubin Tracks Skyscraper-Size Asteroids and Failed Supernovas](https://www.quantamagazine.org/rubin-tracks-skyscraper-size-asteroids-failed-supernovas-and-interstellar-visitors-20260515/)
+- [Chuwi Minibook X](https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/)
+- [ChatGPT for Google Sheets exfiltrates workbooks](https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration)
+- [Codex just found a &quot;workaround&quot; of not having sudo on my PC](https://twitter.com/i/status/2060746160558543217)
+- [Show HN: Streambed – Stream Postgres to Iceberg on S3, Supports Postgres Wire](https://github.com/viggy28/streambed)
+- [Re: [PATCH] OOM_pardon, a.k.a. don&#39;t kill my xlock &lpar;2004&rpar;](https://lwn.net/Articles/104185/)
+- [Meta launches Instagram, Facebook, and WhatsApp subscriptions](https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/)
+- [The Speed of Prototyping in the Age of AI](https://darylcecile.net/notes/speed-of-prototyping-age-of-ai)
+- [Odysseus – self-hosted AI workspace](https://github.com/pewdiepie-archdaemon/odysseus)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

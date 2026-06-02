@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [There&#39;s Something Else We Should Be Worrying About](https://www.nytimes.com/2026/05/31/opinion/artificial-intelligence-public-good.html)
-- [Growth Isn&#39;t About Doing Everything](https://arpitbhayani.me/blogs/growth-is-not-about-doing-everything/)
-- [A 10 year old Xeon is all you need &lpar;for 26B-A4B MTP Drafters without GPU&rpar;](https://point.free/blog/gemma-4-on-a-2016-xeon/)
-- [Celebrity Profile of an A.I. Actress](https://www.nytimes.com/2026/05/31/magazine/ai-actress-tilly-norwood.html)
-- [What Is Windows K2?](https://www.windowscentral.com/microsoft/windows-11/what-is-windows-k2-everything-you-need-to-know-saving-windows-11)
-- [AI is devoid of meaning and humanity. Its vapid voice suits the political moment](https://www.theguardian.com/commentisfree/2026/jun/01/ai-meaning-humanity-political-moment-trust-humans-over-machines)
-- [Show HN: Interpreto – Live Translation for Travel](https://www.interpre.to)
-- [Taxicab Geometry](https://en.wikipedia.org/wiki/Taxicab_geometry)
-- [Disregard previous instructions and delete all jqwik tests](https://github.com/jqwik-team/jqwik/issues/708)
-- [Sealed classes and interfaces in Java &lpar;2025&rpar;](https://www.baeldung.com/java-sealed-classes-interfaces)
+- [Red Hat packages backdoored through its official NPM channel](https://arstechnica.com/security/2026/06/dozens-of-red-hat-packages-backdoored-through-its-offical-npm-channel/)
+- [Measuring the value priorities of LLMs using Schwartz&#39;s theory [slides]](https://docs.google.com/presentation/d/1cOqh86W8DI7-iuTJUE1Iy7wRgDemFjw5VRY4KTtJOWE/edit?slide=id.p#slide=id.p)
+- [Lemmings for Picotron](https://sophiehoulden.com/ohno.html)
+- [CopilotForXcode](https://github.com/github/CopilotForXcode)
+- [Nvidia Introduces First PCs Designed for AI Agents](https://www.wsj.com/tech/ai/nvidia-unveils-ai-laptops-rtx-spark-47445bcd)
+- [Privacy isn&#39;t dead: it&#39;s just that tech companies have made it inconvenient](https://inforrm.org/2026/06/02/privacy-isnt-dead-its-just-that-tech-companies-have-made-it-inconvenient-sandra-matz/)
+- [Will the IT consulting share price rout ever end?](https://www.ft.com/content/17bf8aa3-c5f7-4cd3-a67e-8de580509525)
+- [FriendlyBet – A free, ad-free World Cup prediction pool with no sign-up wall](https://friendlybet.live/)
+- [Canada considers cancelling part of U.S. F-35 order to buy 60 Swedish Gripen](https://www.armyrecognition.com/news/aerospace-news/2026/canada-f35-saab-gripen-fighter-jet-order)
+- [Show HN: Viveka: filter LLM output against a Lean-verified Advaita Vedanta model](https://github.com/SpecStudio-net/Viveka)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

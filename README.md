@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Nvidia RTX Spark](https://www.nvidia.com/en-us/products/rtx-spark/)
-- [Rubin Tracks Skyscraper-Size Asteroids and Failed Supernovas](https://www.quantamagazine.org/rubin-tracks-skyscraper-size-asteroids-failed-supernovas-and-interstellar-visitors-20260515/)
-- [Chuwi Minibook X](https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/)
-- [ChatGPT for Google Sheets exfiltrates workbooks](https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration)
-- [Codex just found a &quot;workaround&quot; of not having sudo on my PC](https://twitter.com/i/status/2060746160558543217)
-- [Show HN: Streambed – Stream Postgres to Iceberg on S3, Supports Postgres Wire](https://github.com/viggy28/streambed)
-- [Re: [PATCH] OOM_pardon, a.k.a. don&#39;t kill my xlock &lpar;2004&rpar;](https://lwn.net/Articles/104185/)
-- [Meta launches Instagram, Facebook, and WhatsApp subscriptions](https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/)
-- [The Speed of Prototyping in the Age of AI](https://darylcecile.net/notes/speed-of-prototyping-age-of-ai)
-- [Odysseus – self-hosted AI workspace](https://github.com/pewdiepie-archdaemon/odysseus)
+- [strace-ui, Bonsai_term, and the TUI renaissance](https://blog.janestreet.com/strace-ui-bonsai-term-and-the-tui-renaissance/)
+- [macOS needs its grid back](https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/)
+- [Crystal Nights &lpar;2008&rpar;](https://www.gregegan.net/MISC/CRYSTAL/Crystal.html)
+- [How is Groq raising more money?](https://www.zach.be/p/how-the-hell-is-groq-raising-more)
+- [Can the stockmarket swallow Anthropic, SpaceX and OpenAI?](https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai)
+- [Age verification for social media, the beginning of the end for a free internet?](https://mullvad.net/en/blog/age-verification-for-social-media-the-beginning-of-the-end-for-a-free-internet)
+- [Chipotlai Max](https://github.com/cyberpapiii/chipotlai-max)
+- [OpenAI frontier models and Codex are now available on AWS](https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/)
+- [Alphabet announces $80B equity capital raise to expand AI infra and compute](https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx)
+- [Debug Project](https://debug.com/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

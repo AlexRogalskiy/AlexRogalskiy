@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Middle East crisis live: Kuwait reports missile and drone attack; US says it struck Iran radar sites over weekend](https://www.theguardian.com/world/live/2026/jun/01/iran-war-live-news-updates-kuwait-missile-drone-attack-us-strikes-iran-radar-sites)
-- [Striped rock dismissed as natural in 1928 reclassified as UK’s oldest cave art](https://www.theguardian.com/science/2026/jun/01/striped-rock-dismissed-as-natural-reclassified-uk-oldest-cave-art-mumbles-south-wales)
-- [Family’s 90-year search for answers after father vanished in Francoist uprising – photo essay](https://www.theguardian.com/artanddesign/2026/jun/01/spain-family-answers-search-franco-uprising-disappeared-photo-essay)
-- [‘Cheap’ parking at Stansted airport cost me hundreds of pounds](https://www.theguardian.com/money/2026/jun/01/cheap-parking-stansted-airport-hundreds-pounds-meet-greet)
-- [‘A slap-up meal for €12’: my search for the perfect old-school Turin tavern](https://www.theguardian.com/travel/2026/jun/01/perfect-old-school-turin-tavern-piole-piola-italy)
-- [Land by Maggie O’Farrell review – an ambitious story of mapmaking in Ireland](https://www.theguardian.com/books/2026/jun/01/land-by-maggie-ofarrell-review-an-ambitious-story-of-mapmaking-in-ireland)
-- [Wildfires devastating richer areas but fewer hectares burned globally – study](https://www.theguardian.com/world/2026/jun/01/wildfires-devastating-richer-areas-but-fewer-hectares-burned-globally-study)
-- [The Guest review – the risks of protecting refugees in the Poland-Belarus danger zone](https://www.theguardian.com/film/2026/jun/01/the-guest-review-the-risks-of-protecting-refugees-in-the-poland-belarus-danger-zone)
-- [Strictly’s Anton and Craig have strong opinions: best podcasts of the week](https://www.theguardian.com/tv-and-radio/2026/jun/01/strictlys-anton-and-craig-have-strong-opinions-best-podcasts-of-the-week)
-- [A new start after 60: I became my husband’s carer – and saw travel, nature and love anew](https://www.theguardian.com/lifeandstyle/2026/jun/01/a-new-start-after-60-i-became-my-husbands-carer-and-saw-travel-nature-and-love-anew)
+- [Germany World Cup 2026 team guide](https://www.theguardian.com/football/2026/jun/02/germany-world-cup-2026-team-guide)
+- [Cobolli and co left surveying wreckage as men’s seeds keep falling in French Open](https://www.theguardian.com/sport/2026/jun/02/cobolli-and-co-left-surveying-wreckage-as-mens-seeds-keep-falling-in-french-open)
+- [Tonight the Music Seems So Loud by Sathnam Sanghera review – a heartbreaking portrait of George Michael](https://www.theguardian.com/books/2026/jun/02/tonight-the-music-seems-so-loud-by-sathnam-sanghera-review-a-heartbreaking-portrait-of-george-michael)
+- [Somerset detectorist strikes gold with ‘spectacular’ Roman ring find](https://www.theguardian.com/uk-news/2026/jun/02/somerset-detectorist-roman-ring-find-ilminster)
+- [Tripe soup and bitter coffee in the dining car: a nostalgic ride through Poland on a communist-era train](https://www.theguardian.com/travel/2026/jun/02/nostalgic-ride-communist-era-train-poland)
+- [Köln 75 review – how a legendary jazz-improv show was cajoled into being by a German teenager](https://www.theguardian.com/film/2026/jun/02/koln-75-review-keith-jarrett)
+- [I surrendered my driving licence after a spinal injury but the DVLA revoked it](https://www.theguardian.com/money/2026/jun/02/dvla-surrendered-driving-licence-spinal-injury)
+- [‘I wasn’t expecting that!’: Joel Meyerowitz and the art of surprise – in pictures](https://www.theguardian.com/artanddesign/gallery/2026/jun/02/i-wasnt-expecting-that-joel-meyerowitz-and-the-art-of-surprise-in-pictures)
+- [TV tonight: Rebekah Vardy speaks out on the Wagatha Christie case](https://www.theguardian.com/tv-and-radio/2026/jun/02/tv-tonight-rebekah-vardy-speaks-out-on-the-wagatha-christie-case)
+- [‘Like a Klingon prison’: inside Barack Obama’s audacious, near-windowless, $850m presidential library](https://www.theguardian.com/artanddesign/2026/jun/02/klingon-prison-barack-obamas-presidential-library-chicago)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

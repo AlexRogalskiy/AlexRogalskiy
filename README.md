@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Germany World Cup 2026 team guide](https://www.theguardian.com/football/2026/jun/02/germany-world-cup-2026-team-guide)
-- [Cobolli and co left surveying wreckage as men’s seeds keep falling in French Open](https://www.theguardian.com/sport/2026/jun/02/cobolli-and-co-left-surveying-wreckage-as-mens-seeds-keep-falling-in-french-open)
-- [Tonight the Music Seems So Loud by Sathnam Sanghera review – a heartbreaking portrait of George Michael](https://www.theguardian.com/books/2026/jun/02/tonight-the-music-seems-so-loud-by-sathnam-sanghera-review-a-heartbreaking-portrait-of-george-michael)
-- [Somerset detectorist strikes gold with ‘spectacular’ Roman ring find](https://www.theguardian.com/uk-news/2026/jun/02/somerset-detectorist-roman-ring-find-ilminster)
-- [Tripe soup and bitter coffee in the dining car: a nostalgic ride through Poland on a communist-era train](https://www.theguardian.com/travel/2026/jun/02/nostalgic-ride-communist-era-train-poland)
-- [Köln 75 review – how a legendary jazz-improv show was cajoled into being by a German teenager](https://www.theguardian.com/film/2026/jun/02/koln-75-review-keith-jarrett)
-- [I surrendered my driving licence after a spinal injury but the DVLA revoked it](https://www.theguardian.com/money/2026/jun/02/dvla-surrendered-driving-licence-spinal-injury)
-- [‘I wasn’t expecting that!’: Joel Meyerowitz and the art of surprise – in pictures](https://www.theguardian.com/artanddesign/gallery/2026/jun/02/i-wasnt-expecting-that-joel-meyerowitz-and-the-art-of-surprise-in-pictures)
-- [TV tonight: Rebekah Vardy speaks out on the Wagatha Christie case](https://www.theguardian.com/tv-and-radio/2026/jun/02/tv-tonight-rebekah-vardy-speaks-out-on-the-wagatha-christie-case)
-- [‘Like a Klingon prison’: inside Barack Obama’s audacious, near-windowless, $850m presidential library](https://www.theguardian.com/artanddesign/2026/jun/02/klingon-prison-barack-obamas-presidential-library-chicago)
+- [UK media groups given power to opt out of Google AI search summaries](https://www.theguardian.com/business/2026/jun/03/uk-media-groups-power-opt-out-google-ai-search-summaries)
+- [How to invest £50 a month: tips for people at different ages](https://www.theguardian.com/money/2026/jun/03/how-to-invest-50-a-month-tips-different-life-stages)
+- [From churches and castles to wonderfully weird Portmeirion: exploring Wales’s north-west coast on foot and by train](https://www.theguardian.com/travel/2026/jun/03/portmeirion-wales-north-west-coast-cambrian-line)
+- [Noted Surrey colony of at-risk swifts destroyed during nesting season](https://www.theguardian.com/environment/2026/jun/03/noted-surrey-colony-of-at-risk-swifts-destroyed-during-nesting-season)
+- [Women behind the lens: ‘Once naked, they formed a circle. The kicking and screaming occurred naturally’](https://www.theguardian.com/global-development/2026/jun/03/women-behind-the-lens-peru-ana-elisa-sotelo)
+- [Affection review – memory loss thriller that keeps you guessing benefits from winning performances](https://www.theguardian.com/film/2026/jun/03/affection-review)
+- [Wimmy Road Boyz by Sufiyaan Salam review – an electric debut set on Manchester’s Curry Mile](https://www.theguardian.com/books/2026/jun/03/wimmy-road-boyz-by-sufiyaan-salam-review-an-electric-debut-set-on-manchesters-curry-mile)
+- [‘Quite shocking’: why was a vulnerable customer sent a £8,400 energy bill?](https://www.theguardian.com/business/2026/jun/03/energy-bill-scottishpower-charging-error-price-cap)
+- [Pot shot takes top spot in World Food Photography awards 2026 – in pictures](https://www.theguardian.com/artanddesign/gallery/2026/jun/03/world-food-photography-awards-2026-in-pictures)
+- [California primary election results: governor’s race too close to call](https://www.theguardian.com/us-news/2026/jun/03/california-governor-election)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

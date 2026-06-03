@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Red Hat packages backdoored through its official NPM channel](https://arstechnica.com/security/2026/06/dozens-of-red-hat-packages-backdoored-through-its-offical-npm-channel/)
-- [Measuring the value priorities of LLMs using Schwartz&#39;s theory [slides]](https://docs.google.com/presentation/d/1cOqh86W8DI7-iuTJUE1Iy7wRgDemFjw5VRY4KTtJOWE/edit?slide=id.p#slide=id.p)
-- [Lemmings for Picotron](https://sophiehoulden.com/ohno.html)
-- [CopilotForXcode](https://github.com/github/CopilotForXcode)
-- [Nvidia Introduces First PCs Designed for AI Agents](https://www.wsj.com/tech/ai/nvidia-unveils-ai-laptops-rtx-spark-47445bcd)
-- [Privacy isn&#39;t dead: it&#39;s just that tech companies have made it inconvenient](https://inforrm.org/2026/06/02/privacy-isnt-dead-its-just-that-tech-companies-have-made-it-inconvenient-sandra-matz/)
-- [Will the IT consulting share price rout ever end?](https://www.ft.com/content/17bf8aa3-c5f7-4cd3-a67e-8de580509525)
-- [FriendlyBet – A free, ad-free World Cup prediction pool with no sign-up wall](https://friendlybet.live/)
-- [Canada considers cancelling part of U.S. F-35 order to buy 60 Swedish Gripen](https://www.armyrecognition.com/news/aerospace-news/2026/canada-f35-saab-gripen-fighter-jet-order)
-- [Show HN: Viveka: filter LLM output against a Lean-verified Advaita Vedanta model](https://github.com/SpecStudio-net/Viveka)
+- [Greatest Bird Names of All Time](https://birdhistory.substack.com/p/the-100-greatest-bird-names-of-all)
+- [UK media groups given power to opt out of Google AI search summaries](https://www.theguardian.com/business/2026/jun/03/uk-media-groups-power-opt-out-google-ai-search-summaries)
+- [Drones, spider cams and AI will bring World Cup 2026 to your TV](https://www.rte.ie/brainstorm/2026/0602/1575716-world-cup-2026-broadcasting-technology-spider-cameras-var-drones-ai/)
+- [An MCP tool that lets ChatGPT check if a store is AI-readable](https://www.bridgetoagent.com/api/mcp)
+- [Leiden Declaration on Artificial Intelligence and Mathematics](https://leidendeclaration.ai/)
+- [Slim Binaries &lpar;1997&rpar;](https://dl.acm.org/doi/10.1145/265563.265576)
+- [A harness for every task: dynamic workflows in Claude Code](https://twitter.com/trq212/status/2061907337154367865)
+- [Nvidia Vera–The CPU for Agents [video]](https://www.youtube.com/watch?v=vLfrBembjsk)
+- [Can we trust AI to build a better version of itself?](https://www.ft.com/content/7cc7800f-18ed-47d8-9539-221ae3e16182)
+- [open-spdd: Design Philosophy](https://github.com/gszhangwei/open-spdd/blob/main/docs/design-philosophy.md)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

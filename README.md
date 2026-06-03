@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [strace-ui, Bonsai_term, and the TUI renaissance](https://blog.janestreet.com/strace-ui-bonsai-term-and-the-tui-renaissance/)
-- [macOS needs its grid back](https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/)
-- [Crystal Nights &lpar;2008&rpar;](https://www.gregegan.net/MISC/CRYSTAL/Crystal.html)
-- [How is Groq raising more money?](https://www.zach.be/p/how-the-hell-is-groq-raising-more)
-- [Can the stockmarket swallow Anthropic, SpaceX and OpenAI?](https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai)
-- [Age verification for social media, the beginning of the end for a free internet?](https://mullvad.net/en/blog/age-verification-for-social-media-the-beginning-of-the-end-for-a-free-internet)
-- [Chipotlai Max](https://github.com/cyberpapiii/chipotlai-max)
-- [OpenAI frontier models and Codex are now available on AWS](https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/)
-- [Alphabet announces $80B equity capital raise to expand AI infra and compute](https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx)
-- [Debug Project](https://debug.com/)
+- [The Unreasonable Redundancy of Nature&#39;s Protein Folds](https://research.ligo.bio/posts/unreasonable-redundancy-of-natural-protein-folds/)
+- [U of T researchers demonstrate AI worm could target any online device](https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device)
+- [Capstone – multi-platform, multi-architecture disassembly framework](https://www.capstone-engine.org/)
+- [Roku LT Operating System open source distribution](https://blog.roku.com/developer/roku-lt-os)
+- [AI outperforms law professors in Stanford Law study](https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/)
+- [Pluto.jl 1.0 release – reactive notebook for Julia](https://discourse.julialang.org/t/pluto-1-0-release/137296)
+- [Use your Nvidia GPU&#39;s VRAM as swap space on Linux](https://github.com/c0dejedi/nbd-vram)
+- [Show HN: Paseo – Beautiful open-source coding agent interface](https://github.com/getpaseo/paseo)
+- [4K years ago, Mohenjo-daro grew more equal over time](https://archaeologymag.com/2026/05/mohenjo-daro-grew-more-equal-over-time/)
+- [CT scans of BYD car parts](https://www.lumafield.com/scan-of-the-month/byd)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

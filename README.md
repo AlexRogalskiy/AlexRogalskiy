@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [UK media groups given power to opt out of Google AI search summaries](https://www.theguardian.com/business/2026/jun/03/uk-media-groups-power-opt-out-google-ai-search-summaries)
-- [How to invest £50 a month: tips for people at different ages](https://www.theguardian.com/money/2026/jun/03/how-to-invest-50-a-month-tips-different-life-stages)
-- [From churches and castles to wonderfully weird Portmeirion: exploring Wales’s north-west coast on foot and by train](https://www.theguardian.com/travel/2026/jun/03/portmeirion-wales-north-west-coast-cambrian-line)
-- [Noted Surrey colony of at-risk swifts destroyed during nesting season](https://www.theguardian.com/environment/2026/jun/03/noted-surrey-colony-of-at-risk-swifts-destroyed-during-nesting-season)
-- [Women behind the lens: ‘Once naked, they formed a circle. The kicking and screaming occurred naturally’](https://www.theguardian.com/global-development/2026/jun/03/women-behind-the-lens-peru-ana-elisa-sotelo)
-- [Affection review – memory loss thriller that keeps you guessing benefits from winning performances](https://www.theguardian.com/film/2026/jun/03/affection-review)
-- [Wimmy Road Boyz by Sufiyaan Salam review – an electric debut set on Manchester’s Curry Mile](https://www.theguardian.com/books/2026/jun/03/wimmy-road-boyz-by-sufiyaan-salam-review-an-electric-debut-set-on-manchesters-curry-mile)
-- [‘Quite shocking’: why was a vulnerable customer sent a £8,400 energy bill?](https://www.theguardian.com/business/2026/jun/03/energy-bill-scottishpower-charging-error-price-cap)
-- [Pot shot takes top spot in World Food Photography awards 2026 – in pictures](https://www.theguardian.com/artanddesign/gallery/2026/jun/03/world-food-photography-awards-2026-in-pictures)
-- [California primary election results: governor’s race too close to call](https://www.theguardian.com/us-news/2026/jun/03/california-governor-election)
+- [London hit by second day of Tube strike disruption](https://www.theguardian.com/uk-news/2026/jun/03/london-braces-second-day-rmt-tube-strike-disruption)
+- [‘An equal and habitable world is possible’: academics set out sweeping vision for planetary survival](https://www.theguardian.com/environment/2026/jun/04/world-inequality-lab-equality-academics-planetary-survival)
+- [‘Happiness is not just about GDP’: ambitious plan or utopia?](https://www.theguardian.com/environment/2026/jun/04/happiness-is-not-just-about-gdp-ambitious-plan-or-utopia)
+- [‘I’m asking people to do a lot, but that’s what it means to be a human’: Roberto dos Santos on directing the first straight-to-VHS movie in 20 years](https://www.theguardian.com/film/2026/jun/04/roberto-dos-santos-on-directing-the-first-straight-to-vhs-movie-in-20-years)
+- [‘It’ll never be like that again’: Sonny Rollins and Steve Schapiro on jazz’s golden age – in pictures](https://www.theguardian.com/artanddesign/gallery/2026/jun/04/itll-never-be-like-that-again-sonny-rollins-and-steve-schapiro-on-jazzs-golden-age-in-pictures)
+- [The Traveller – an 18th century explorer far ahead of his time](https://www.theguardian.com/books/2026/jun/04/the-traveller-an-18th-century-explorer-far-ahead-of-his-time)
+- [An almost wild camping trip: alternative family fun in the Peak District](https://www.theguardian.com/travel/2026/jun/04/almost-wild-camping-trip-family-escape-peak-district-derbyshire)
+- [A good life  for the 99% isn’t a pipe dream: it can be done. Here’s how](https://www.theguardian.com/commentisfree/2026/jun/04/a-good-life-for-the-99-isnt-a-pipe-dream-it-can-be-done-heres-how)
+- [Israel and Lebanon agree to renew ceasefire as Trump seeks to overcome barriers to Iran deal](https://www.theguardian.com/world/2026/jun/04/israel-lebanon-renew-ceasefire-hezbollah-trump-iran-deal-middle-east-us)
+- [TV tonight: zooming in on 10 iconic David Beckham photos](https://www.theguardian.com/tv-and-radio/2026/jun/04/tv-tonight-zooming-in-on-10-iconic-david-beckham-photos)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

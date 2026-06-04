@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The Unreasonable Redundancy of Nature&#39;s Protein Folds](https://research.ligo.bio/posts/unreasonable-redundancy-of-natural-protein-folds/)
-- [U of T researchers demonstrate AI worm could target any online device](https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device)
-- [Capstone – multi-platform, multi-architecture disassembly framework](https://www.capstone-engine.org/)
-- [Roku LT Operating System open source distribution](https://blog.roku.com/developer/roku-lt-os)
-- [AI outperforms law professors in Stanford Law study](https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/)
-- [Pluto.jl 1.0 release – reactive notebook for Julia](https://discourse.julialang.org/t/pluto-1-0-release/137296)
-- [Use your Nvidia GPU&#39;s VRAM as swap space on Linux](https://github.com/c0dejedi/nbd-vram)
-- [Show HN: Paseo – Beautiful open-source coding agent interface](https://github.com/getpaseo/paseo)
-- [4K years ago, Mohenjo-daro grew more equal over time](https://archaeologymag.com/2026/05/mohenjo-daro-grew-more-equal-over-time/)
-- [CT scans of BYD car parts](https://www.lumafield.com/scan-of-the-month/byd)
+- [The SpaceX IPO Will Be the Theft of the Century](https://montanaskeptic.substack.com/p/the-spacex-ipo-will-be-the-theft)
+- [I built a vulnerable app and spent $1,500 seeing if LLMs could hack it](https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/)
+- [U.S. to dismantle system tracking Atlantic currents that are at risk of collapse](https://e360.yale.edu/digest/trump-ooi-amoc)
+- [Dumbphone 2](https://dumb.co/)
+- [The ways we contain Claude across products](https://www.anthropic.com/engineering/how-we-contain-claude)
+- [Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes](https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html)
+- [&quot;They&#39;re made out of weights&quot;](https://maxleiter.com/blog/weights)
+- [Journey to JPEG XL: open-source experiments shaped the future of image coding](https://opensource.googleblog.com/2026/06/journey-to-jpeg-xl-how-open-source-experiments-shaped-the-future-of-image-coding.html)
+- [A Mathematician&#39;s Lament &lpar;2002&rpar; [pdf]](https://worrydream.com/refs/Lockhart_2002_-_A_Mathematician%27s_Lament.pdf)
+- [Ableton Extensions SDK](https://www.ableton.com/en/live/extensions/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

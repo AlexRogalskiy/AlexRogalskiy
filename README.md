@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Greatest Bird Names of All Time](https://birdhistory.substack.com/p/the-100-greatest-bird-names-of-all)
-- [UK media groups given power to opt out of Google AI search summaries](https://www.theguardian.com/business/2026/jun/03/uk-media-groups-power-opt-out-google-ai-search-summaries)
-- [Drones, spider cams and AI will bring World Cup 2026 to your TV](https://www.rte.ie/brainstorm/2026/0602/1575716-world-cup-2026-broadcasting-technology-spider-cameras-var-drones-ai/)
-- [An MCP tool that lets ChatGPT check if a store is AI-readable](https://www.bridgetoagent.com/api/mcp)
-- [Leiden Declaration on Artificial Intelligence and Mathematics](https://leidendeclaration.ai/)
-- [Slim Binaries &lpar;1997&rpar;](https://dl.acm.org/doi/10.1145/265563.265576)
-- [A harness for every task: dynamic workflows in Claude Code](https://twitter.com/trq212/status/2061907337154367865)
-- [Nvidia Vera–The CPU for Agents [video]](https://www.youtube.com/watch?v=vLfrBembjsk)
-- [Can we trust AI to build a better version of itself?](https://www.ft.com/content/7cc7800f-18ed-47d8-9539-221ae3e16182)
-- [open-spdd: Design Philosophy](https://github.com/gszhangwei/open-spdd/blob/main/docs/design-philosophy.md)
+- [Persistent Memory for Coding Agents](https://www.agent-memory.dev/)
+- [Hscli – A Scriptable Help Scout CLI for Terminals, CI, and AI Agents](https://wavyx.github.io/hscli/)
+- [AgentRein – Our agent charged $5k by mistake, so we built a rollback enginer](https://www.agentrein.com/)
+- [The Complete Website Growth Strategy: SEO, GA4, Search Console, and Google Ads](https://medium.com/@allahverdiyev.tural/the-complete-website-growth-strategy-seo-ga4-search-console-and-google-ads-ff1ebaf4aaa5)
+- [Octopus genome and evolution of cephalopod neural, morphological novelties [pdf]](https://www.nature.com/articles/nature14668)
+- [Zig Structs of Arrays &lpar;2024&rpar;](https://andreashohmann.com/zig-struct-of-arrays/)
+- [H-1B Crackdown on Indian Workers Erodes a Texas Real Estate Boom](https://www.bloomberg.com/features/2026-dallas-h1b-housing-market)
+- [Time for a re-think of long-term antidepressant use](https://adelaide.edu.au/about/news/2026/time-for-a-re-think-of-long-term-antidepressant-use/)
+- [Popular Weight-Loss Drug Found to Slow Biological Aging in Landmark Human Trial](https://scitechdaily.com/popular-weight-loss-drug-found-to-slow-biological-aging-in-landmark-human-trial/)
+- [&#39;An equal and habitable world is possible&#39; Vision for planetary survival](https://www.theguardian.com/environment/2026/jun/04/world-inequality-lab-equality-academics-planetary-survival)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

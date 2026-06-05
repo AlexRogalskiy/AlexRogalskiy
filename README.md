@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Persistent Memory for Coding Agents](https://www.agent-memory.dev/)
-- [Hscli – A Scriptable Help Scout CLI for Terminals, CI, and AI Agents](https://wavyx.github.io/hscli/)
-- [AgentRein – Our agent charged $5k by mistake, so we built a rollback enginer](https://www.agentrein.com/)
-- [The Complete Website Growth Strategy: SEO, GA4, Search Console, and Google Ads](https://medium.com/@allahverdiyev.tural/the-complete-website-growth-strategy-seo-ga4-search-console-and-google-ads-ff1ebaf4aaa5)
-- [Octopus genome and evolution of cephalopod neural, morphological novelties [pdf]](https://www.nature.com/articles/nature14668)
-- [Zig Structs of Arrays &lpar;2024&rpar;](https://andreashohmann.com/zig-struct-of-arrays/)
-- [H-1B Crackdown on Indian Workers Erodes a Texas Real Estate Boom](https://www.bloomberg.com/features/2026-dallas-h1b-housing-market)
-- [Time for a re-think of long-term antidepressant use](https://adelaide.edu.au/about/news/2026/time-for-a-re-think-of-long-term-antidepressant-use/)
-- [Popular Weight-Loss Drug Found to Slow Biological Aging in Landmark Human Trial](https://scitechdaily.com/popular-weight-loss-drug-found-to-slow-biological-aging-in-landmark-human-trial/)
-- [&#39;An equal and habitable world is possible&#39; Vision for planetary survival](https://www.theguardian.com/environment/2026/jun/04/world-inequality-lab-equality-academics-planetary-survival)
+- [24. Gulaschprogrammiernacht started, Streams of Talks are available](https://streaming.media.ccc.de/gpn24)
+- [Show HN: Encoding Audio Inside PNG Images [video]](https://www.youtube.com/watch?v=XityrCGbHm4)
+- [Americans lead AI data centre backlash, global poll finds](https://www.ft.com/content/ed07dc6c-aabe-4e4d-a508-4d2b4f24a852)
+- [Satya Nadella &#39;Not Sure&#39; Who Said Microsoft Wanted to Make Addictive AI](https://www.404media.co/satya-nadella-not-sure-who-said-microsoft-wanted-to-make-addictive-ai-is-looking-for-guy-who-did-this/)
+- [Birds masturbate, and that&#39;s perfectly normal](https://theconversation.com/birds-masturbate-and-thats-perfectly-normal-284232)
+- [I Didn&#39;t Become a Developer to Review AI Slop](https://www.builder.io/blog/developers-drowning-in-ai-prs)
+- [Laptop makers are sacrificing ports and repairability for designs](https://news.ycombinator.com/item?id=48408562)
+- [How much value is AI creating?](https://www.ft.com/content/8e9ae7a4-7209-4e2c-aa36-f3af77d6ce1f)
+- [Anthropic tops AI Arena rankings as it files for IPO](https://liveclip.substack.com/p/anthropic-files-for-ipo-state-of-ai)
+- [Anatomy of a Claude Code Session](https://codewithmukesh.com/blog/anatomy-claude-code-session/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

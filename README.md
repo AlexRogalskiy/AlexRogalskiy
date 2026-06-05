@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [London hit by second day of Tube strike disruption](https://www.theguardian.com/uk-news/2026/jun/03/london-braces-second-day-rmt-tube-strike-disruption)
-- [‘An equal and habitable world is possible’: academics set out sweeping vision for planetary survival](https://www.theguardian.com/environment/2026/jun/04/world-inequality-lab-equality-academics-planetary-survival)
-- [‘Happiness is not just about GDP’: ambitious plan or utopia?](https://www.theguardian.com/environment/2026/jun/04/happiness-is-not-just-about-gdp-ambitious-plan-or-utopia)
-- [‘I’m asking people to do a lot, but that’s what it means to be a human’: Roberto dos Santos on directing the first straight-to-VHS movie in 20 years](https://www.theguardian.com/film/2026/jun/04/roberto-dos-santos-on-directing-the-first-straight-to-vhs-movie-in-20-years)
-- [‘It’ll never be like that again’: Sonny Rollins and Steve Schapiro on jazz’s golden age – in pictures](https://www.theguardian.com/artanddesign/gallery/2026/jun/04/itll-never-be-like-that-again-sonny-rollins-and-steve-schapiro-on-jazzs-golden-age-in-pictures)
-- [The Traveller – an 18th century explorer far ahead of his time](https://www.theguardian.com/books/2026/jun/04/the-traveller-an-18th-century-explorer-far-ahead-of-his-time)
-- [An almost wild camping trip: alternative family fun in the Peak District](https://www.theguardian.com/travel/2026/jun/04/almost-wild-camping-trip-family-escape-peak-district-derbyshire)
-- [A good life  for the 99% isn’t a pipe dream: it can be done. Here’s how](https://www.theguardian.com/commentisfree/2026/jun/04/a-good-life-for-the-99-isnt-a-pipe-dream-it-can-be-done-heres-how)
-- [Israel and Lebanon agree to renew ceasefire as Trump seeks to overcome barriers to Iran deal](https://www.theguardian.com/world/2026/jun/04/israel-lebanon-renew-ceasefire-hezbollah-trump-iran-deal-middle-east-us)
-- [TV tonight: zooming in on 10 iconic David Beckham photos](https://www.theguardian.com/tv-and-radio/2026/jun/04/tv-tonight-zooming-in-on-10-iconic-david-beckham-photos)
+- [New claimants seek to sue Elon Musk’s xAI after Labour MP’s test case](https://www.theguardian.com/technology/2026/jun/05/grok-ai-elon-musk-jess-asato-labour-mp-lawsuit)
+- [Alice and Steve to Proud: the seven best shows to stream this week](https://www.theguardian.com/tv-and-radio/2026/jun/05/alice-and-steve-to-proud-the-seven-best-shows-to-stream-this-week)
+- [How the insatiable thirst of datacenters is leaving communities across the US high and dry](https://www.theguardian.com/environment/2026/jun/04/how-the-insatiable-thirst-of-datacenters-is-leaving-communities-across-the-us-high-and-dry)
+- [Watersports, biking and island escapes: readers’ favourite family holidays](https://www.theguardian.com/travel/2026/jun/05/readers-favourite-family-holidays-uk-europe)
+- [An economic draft? Drive to get young Neets in the military divides opinion](https://www.theguardian.com/society/2026/jun/05/economic-draft-young-neets-military-divides-opinion)
+- [The Children by Melissa Albert review – intriguing fairytale of creativity’s dangers](https://www.theguardian.com/books/2026/jun/05/the-children-by-melissa-albert-review-intriguing-fairytale-of-creativitys-dangers)
+- [Homes for sale with water views in England and Scotland – in pictures](https://www.theguardian.com/money/gallery/2026/jun/05/homes-for-sale-with-water-views-in-england-and-scotland-in-pictures)
+- [Hourglass album review – Simone Dinnerstein gives Glass room to breathe](https://www.theguardian.com/music/2026/jun/05/hourglass-album-review-philip-glass-simone-dinnerstein-baroklyn)
+- [James Handy, known for roles in Top Gun: Maverick and Jumanji, dies at home after fatal stabbing](https://www.theguardian.com/culture/2026/jun/05/james-handy-actor-top-gun-maverick-jumanji-dies-fatal-stabbing)
+- [‘Extremely intelligent’ Japanese bear that attacked four people still at large, police say](https://www.theguardian.com/world/2026/jun/05/bear-attacked-four-people-japan-missing-at-large)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

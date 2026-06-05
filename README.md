@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The SpaceX IPO Will Be the Theft of the Century](https://montanaskeptic.substack.com/p/the-spacex-ipo-will-be-the-theft)
-- [I built a vulnerable app and spent $1,500 seeing if LLMs could hack it](https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/)
-- [U.S. to dismantle system tracking Atlantic currents that are at risk of collapse](https://e360.yale.edu/digest/trump-ooi-amoc)
-- [Dumbphone 2](https://dumb.co/)
-- [The ways we contain Claude across products](https://www.anthropic.com/engineering/how-we-contain-claude)
-- [Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes](https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html)
-- [&quot;They&#39;re made out of weights&quot;](https://maxleiter.com/blog/weights)
-- [Journey to JPEG XL: open-source experiments shaped the future of image coding](https://opensource.googleblog.com/2026/06/journey-to-jpeg-xl-how-open-source-experiments-shaped-the-future-of-image-coding.html)
-- [A Mathematician&#39;s Lament &lpar;2002&rpar; [pdf]](https://worrydream.com/refs/Lockhart_2002_-_A_Mathematician%27s_Lament.pdf)
-- [Ableton Extensions SDK](https://www.ableton.com/en/live/extensions/)
+- [Dear Microsoft, enough is enough](https://www.politico.eu/sponsored-content/dear-microsoft-enough-is-enough/)
+- [The Pentagon is running an AI propaganda mill targeting Latin America](https://theintercept.com/2026/06/02/la-tilde-propaganda-latin-america-pentagon/)
+- [C++: The Documentary Released Today](https://herbsutter.com/2026/06/04/c-the-documentary-released-today/)
+- [Magenta RealTime 2: Open and Local Live Music Models](https://magenta.withgoogle.com/magenta-realtime-2)
+- [Azure Linux 4.0 is Microsoft&#39;s first general-purpose Linux](https://www.boxofcables.dev/azure-linux-4-0-is-microsofts-first-general-purpose-linux/)
+- [The Causes of Long Covid](https://www.science.org/content/blog-post/causes-long-covid)
+- [Delacroix&#39;s Entry of the Crusaders into Constantinople Restored](https://www.louvre.fr/en/explore/life-at-the-museum/delacroix-s-entry-of-the-crusaders-into-constantinople-restored-to-its-original-glory)
+- [Meta enables ADB on deprecated Portal devices [video]](https://fb.watch/HxPu0fSyeH/)
+- [Open Code Review – An AI-powered code review CLI tool](https://github.com/alibaba/open-code-review)
+- [South Korean Forums Will Need to Scan Every Images with AI Censorship Tools](https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

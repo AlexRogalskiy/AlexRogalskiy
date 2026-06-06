@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [New claimants seek to sue Elon Musk’s xAI after Labour MP’s test case](https://www.theguardian.com/technology/2026/jun/05/grok-ai-elon-musk-jess-asato-labour-mp-lawsuit)
-- [Alice and Steve to Proud: the seven best shows to stream this week](https://www.theguardian.com/tv-and-radio/2026/jun/05/alice-and-steve-to-proud-the-seven-best-shows-to-stream-this-week)
-- [How the insatiable thirst of datacenters is leaving communities across the US high and dry](https://www.theguardian.com/environment/2026/jun/04/how-the-insatiable-thirst-of-datacenters-is-leaving-communities-across-the-us-high-and-dry)
-- [Watersports, biking and island escapes: readers’ favourite family holidays](https://www.theguardian.com/travel/2026/jun/05/readers-favourite-family-holidays-uk-europe)
-- [An economic draft? Drive to get young Neets in the military divides opinion](https://www.theguardian.com/society/2026/jun/05/economic-draft-young-neets-military-divides-opinion)
-- [The Children by Melissa Albert review – intriguing fairytale of creativity’s dangers](https://www.theguardian.com/books/2026/jun/05/the-children-by-melissa-albert-review-intriguing-fairytale-of-creativitys-dangers)
-- [Homes for sale with water views in England and Scotland – in pictures](https://www.theguardian.com/money/gallery/2026/jun/05/homes-for-sale-with-water-views-in-england-and-scotland-in-pictures)
-- [Hourglass album review – Simone Dinnerstein gives Glass room to breathe](https://www.theguardian.com/music/2026/jun/05/hourglass-album-review-philip-glass-simone-dinnerstein-baroklyn)
-- [James Handy, known for roles in Top Gun: Maverick and Jumanji, dies at home after fatal stabbing](https://www.theguardian.com/culture/2026/jun/05/james-handy-actor-top-gun-maverick-jumanji-dies-fatal-stabbing)
-- [‘Extremely intelligent’ Japanese bear that attacked four people still at large, police say](https://www.theguardian.com/world/2026/jun/05/bear-attacked-four-people-japan-missing-at-large)
+- [TV tonight: a terribly entertaining holiday party gets out of hand](https://www.theguardian.com/tv-and-radio/2026/jun/06/tv-tonight-a-terribly-entertaining-holiday-party-gets-out-of-hand)
+- [From Masters of the Universe to Monteverdi: your complete entertainment guide to the week ahead](https://www.theguardian.com/culture/2026/jun/06/entertainment-guide-week-ahead-masters-universe-garsingon-opera-cinema-theatre-art-music)
+- [Blind date: ‘It felt like taking part in Blind Date was a lifelong thing she wanted to do’](https://www.theguardian.com/lifeandstyle/2026/jun/06/blind-date-theo-laurine)
+- [Removing ‘invisibility cloaks’ and safely skipping chemo: new weapons in war on cancer shared at US conference](https://www.theguardian.com/science/2026/jun/06/new-weapons-war-on-cancer-asco-conference-takeaways)
+- [My mother was forced to give me up for adoption. But when we finally met decades later, it was far from a fairytale ending](https://www.theguardian.com/society/2026/jun/06/reconnecting-with-estranged-mother-forced-to-give-me-up-for-adoption-reunion)
+- [Palaeolithic cave paintings, life under a Delhi flyover and restaurants critics’ tips for ordering a perfect meal](https://www.theguardian.com/news/2026/jun/06/palaeolithic-cave-paintings-life-under-a-delhi-flyover-and-restaurants-critics-tips-for-ordering-a-perfect-meal)
+- [Predator or prey? The confounding case of the missing sea eagle](https://www.theguardian.com/news/ng-interactive/2026/jun/06/missing-white-tailed-sea-eagle-north-york-moors)
+- [Tim Dowling: I’m on an ebiking holiday in Romania. There will be blood](https://www.theguardian.com/lifeandstyle/2026/jun/06/tim-dowling-ebiking-holiday-romania)
+- [From Cape Fear to Zoh Amba: the week in rave reviews](https://www.theguardian.com/culture/2026/jun/06/from-cape-fear-to-zoh-amba-the-week-in-rave-reviews)
+- [Meera Sodha’s vegan recipe for freekeh salad with fennel, apple, tofu and dill | The new vegan](https://www.theguardian.com/food/2026/jun/06/freekeh-salad-with-fennel-apple-tofu-and-dill-vegan-recipe-meera-sodha)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

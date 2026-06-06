@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [24. Gulaschprogrammiernacht started, Streams of Talks are available](https://streaming.media.ccc.de/gpn24)
-- [Show HN: Encoding Audio Inside PNG Images [video]](https://www.youtube.com/watch?v=XityrCGbHm4)
-- [Americans lead AI data centre backlash, global poll finds](https://www.ft.com/content/ed07dc6c-aabe-4e4d-a508-4d2b4f24a852)
-- [Satya Nadella &#39;Not Sure&#39; Who Said Microsoft Wanted to Make Addictive AI](https://www.404media.co/satya-nadella-not-sure-who-said-microsoft-wanted-to-make-addictive-ai-is-looking-for-guy-who-did-this/)
-- [Birds masturbate, and that&#39;s perfectly normal](https://theconversation.com/birds-masturbate-and-thats-perfectly-normal-284232)
-- [I Didn&#39;t Become a Developer to Review AI Slop](https://www.builder.io/blog/developers-drowning-in-ai-prs)
-- [Laptop makers are sacrificing ports and repairability for designs](https://news.ycombinator.com/item?id=48408562)
-- [How much value is AI creating?](https://www.ft.com/content/8e9ae7a4-7209-4e2c-aa36-f3af77d6ce1f)
-- [Anthropic tops AI Arena rankings as it files for IPO](https://liveclip.substack.com/p/anthropic-files-for-ipo-state-of-ai)
-- [Anatomy of a Claude Code Session](https://codewithmukesh.com/blog/anatomy-claude-code-session/)
+- [AI Has Come for Serif Fonts](https://www.wired.com/story/ai-has-come-for-serif-fonts/)
+- [Thanks largely to robots Ukraine&#39;s now talking about winning, not just surviving](https://www.defenseone.com/technology/2026/06/ukraine-robots-winning/413902/)
+- [The Anger Isn&#39;t at the Tool](https://mamonas.dev/posts/the-anger-isnt-at-the-tool/)
+- [Small PRs, big speedups: The Ruby performance work you almost missed](https://mensfeld.pl/2026/06/ruby-performance-roundup/)
+- [Crypto&#39;s True Believers Demand to Be Taken Seriously](https://www.vanityfair.com/news/story/cryptos-true-believers)
+- [Free Online Survival Game – Arcade Style with Sonar Ping](https://news.ycombinator.com/item?id=48421567)
+- [Jürgen Schmidhuber: World Models, RL and Year That Changed AI](https://www.the-information-bottleneck.com/jurgen-schmidhuber-world-models-rl-and-the-year-that-changed-ai-part-1/)
+- [Making Claude a Chemist](https://www.anthropic.com/research/making-claude-a-chemist)
+- [Sites in Codex](https://developers.openai.com/codex/sites)
+- [Show HN: Nanocode-CLI – A lightweight terminal-based AI coding assistant](https://github.com/hit9/nanocode)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [AI Has Come for Serif Fonts](https://www.wired.com/story/ai-has-come-for-serif-fonts/)
-- [Thanks largely to robots Ukraine&#39;s now talking about winning, not just surviving](https://www.defenseone.com/technology/2026/06/ukraine-robots-winning/413902/)
-- [The Anger Isn&#39;t at the Tool](https://mamonas.dev/posts/the-anger-isnt-at-the-tool/)
-- [Small PRs, big speedups: The Ruby performance work you almost missed](https://mensfeld.pl/2026/06/ruby-performance-roundup/)
-- [Crypto&#39;s True Believers Demand to Be Taken Seriously](https://www.vanityfair.com/news/story/cryptos-true-believers)
-- [Free Online Survival Game – Arcade Style with Sonar Ping](https://news.ycombinator.com/item?id=48421567)
-- [Jürgen Schmidhuber: World Models, RL and Year That Changed AI](https://www.the-information-bottleneck.com/jurgen-schmidhuber-world-models-rl-and-the-year-that-changed-ai-part-1/)
-- [Making Claude a Chemist](https://www.anthropic.com/research/making-claude-a-chemist)
-- [Sites in Codex](https://developers.openai.com/codex/sites)
-- [Show HN: Nanocode-CLI – A lightweight terminal-based AI coding assistant](https://github.com/hit9/nanocode)
+- [Story Engine – High-Intensity Strategic Simulation Test Report](https://gist.github.com/wangkening3-eng/1d5411673ea84e328f0a06a83dc1fd8e)
+- [7 Ways New Engineers Can Flourish in the Age of AI](https://spectrum.ieee.org/7-ways-engineers-flourish-ai)
+- [Quibi – Billion Dollar Company liquidated in less than a year of launch](https://en.wikipedia.org/wiki/Quibi)
+- [Ask HN: Alternatives to Hotline Telegram CRM?](https://news.ycombinator.com/item?id=48432281)
+- [A User&#39;s Guide to Midlife](https://www.nytimes.com/interactive/2024/06/24/well/live/midlife-health-body-changes-guide.html)
+- [Reverse-engineering SwiftUIs DocumentGroup to restyle and group untouchable tabs](https://github.com/uncSoft/Tabberwocky)
+- [Show HN: Cook perfectly with highly precise recipes](https://reloadium.com/reloadium-recipes/)
+- [Sorry, I&#39;m Not Available. Talk to the A.I. Version of Me](https://www.nytimes.com/2026/06/06/business/dealbook/ai-digital-twin.html)
+- [The 29th International Obfuscated C Code Contest &lpar;IOCCC&rpar; 2025 Winners](https://www.ioccc.org/2025/)
+- [New AR Drawing App Challenges the $10/Month Subscription Model on Android](https://play.google.com/store/apps/details?id=com.VionixStudio.ARDraw.car.bike.jet&hl=en_US)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

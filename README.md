@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [TV tonight: a terribly entertaining holiday party gets out of hand](https://www.theguardian.com/tv-and-radio/2026/jun/06/tv-tonight-a-terribly-entertaining-holiday-party-gets-out-of-hand)
-- [From Masters of the Universe to Monteverdi: your complete entertainment guide to the week ahead](https://www.theguardian.com/culture/2026/jun/06/entertainment-guide-week-ahead-masters-universe-garsingon-opera-cinema-theatre-art-music)
-- [Blind date: ‘It felt like taking part in Blind Date was a lifelong thing she wanted to do’](https://www.theguardian.com/lifeandstyle/2026/jun/06/blind-date-theo-laurine)
-- [Removing ‘invisibility cloaks’ and safely skipping chemo: new weapons in war on cancer shared at US conference](https://www.theguardian.com/science/2026/jun/06/new-weapons-war-on-cancer-asco-conference-takeaways)
-- [My mother was forced to give me up for adoption. But when we finally met decades later, it was far from a fairytale ending](https://www.theguardian.com/society/2026/jun/06/reconnecting-with-estranged-mother-forced-to-give-me-up-for-adoption-reunion)
-- [Palaeolithic cave paintings, life under a Delhi flyover and restaurants critics’ tips for ordering a perfect meal](https://www.theguardian.com/news/2026/jun/06/palaeolithic-cave-paintings-life-under-a-delhi-flyover-and-restaurants-critics-tips-for-ordering-a-perfect-meal)
-- [Predator or prey? The confounding case of the missing sea eagle](https://www.theguardian.com/news/ng-interactive/2026/jun/06/missing-white-tailed-sea-eagle-north-york-moors)
-- [Tim Dowling: I’m on an ebiking holiday in Romania. There will be blood](https://www.theguardian.com/lifeandstyle/2026/jun/06/tim-dowling-ebiking-holiday-romania)
-- [From Cape Fear to Zoh Amba: the week in rave reviews](https://www.theguardian.com/culture/2026/jun/06/from-cape-fear-to-zoh-amba-the-week-in-rave-reviews)
-- [Meera Sodha’s vegan recipe for freekeh salad with fennel, apple, tofu and dill | The new vegan](https://www.theguardian.com/food/2026/jun/06/freekeh-salad-with-fennel-apple-tofu-and-dill-vegan-recipe-meera-sodha)
+- [Social housing lists ‘would take 119 years to clear at current building rate’](https://www.theguardian.com/society/2026/jun/07/social-housing-119-years-waitlist-current-building-rate)
+- [‘Poisoned’ AI: the ChatGPT shopping scams that lead to fake websites](https://www.theguardian.com/money/2026/jun/07/ai-chatgpt-shopping-scams-fake-websites)
+- [Car industry pressing EU for further delay to Brexit EV tariffs](https://www.theguardian.com/business/2026/jun/07/eu-uk-car-industry-lobbying-second-brexit-ev-tariff-delay)
+- [‘I don’t think we’ve ever felt closer’: five writers on their most memorable family holidays](https://www.theguardian.com/travel/2026/jun/07/memorable-family-holidays-interrail-naples-glamping-finland)
+- [TV tonight: Kevin Bridges warms up for World Cup fever](https://www.theguardian.com/tv-and-radio/2026/jun/07/tv-tonight-kevin-bridges-warms-up-for-world-cup-fever)
+- [Bar Shrimp, Manchester M1: ‘This is meaningful, highly adept cooking’ – restaurant review | Grace Dent on restaurants](https://www.theguardian.com/food/2026/jun/07/bar-shrimp-manchester-m1-grace-dent-restaurant-review)
+- [Trump’s failure to maintain ceasefires is part of the new world disorder – and ordinary people pay the price | Simon Tisdall](https://www.theguardian.com/commentisfree/2026/jun/07/donald-trump-ceasefire-failure-ukraine-iran-gaza-lebanon-gaza)
+- [‘My partners’ mum is cruel towards him and I worry how she’ll be with our future kids&#39; | Annalisa Barbieri](https://www.theguardian.com/lifeandstyle/2026/jun/07/my-partners-mum-is-cruel-towards-him-and-i-worry-how-shell-be-with-our-future-kids)
+- [Hello, goodbye: the Beatles’ chaotic, controversial final tour – as never seen before](https://www.theguardian.com/music/2026/jun/07/the-beatles-unseen-photographs-chaotic-controversial-final-tour-jim-marshall)
+- [Could this one man have been behind terrorist attacks on Jewish communities across Europe?](https://www.theguardian.com/news/ng-interactive/2026/jun/07/could-this-one-man-have-been-behind-terrorist-attacks-on-jewish-communities-across-europe)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

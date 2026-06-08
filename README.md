@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Story Engine – High-Intensity Strategic Simulation Test Report](https://gist.github.com/wangkening3-eng/1d5411673ea84e328f0a06a83dc1fd8e)
-- [7 Ways New Engineers Can Flourish in the Age of AI](https://spectrum.ieee.org/7-ways-engineers-flourish-ai)
-- [Quibi – Billion Dollar Company liquidated in less than a year of launch](https://en.wikipedia.org/wiki/Quibi)
-- [Ask HN: Alternatives to Hotline Telegram CRM?](https://news.ycombinator.com/item?id=48432281)
-- [A User&#39;s Guide to Midlife](https://www.nytimes.com/interactive/2024/06/24/well/live/midlife-health-body-changes-guide.html)
-- [Reverse-engineering SwiftUIs DocumentGroup to restyle and group untouchable tabs](https://github.com/uncSoft/Tabberwocky)
-- [Show HN: Cook perfectly with highly precise recipes](https://reloadium.com/reloadium-recipes/)
-- [Sorry, I&#39;m Not Available. Talk to the A.I. Version of Me](https://www.nytimes.com/2026/06/06/business/dealbook/ai-digital-twin.html)
-- [The 29th International Obfuscated C Code Contest &lpar;IOCCC&rpar; 2025 Winners](https://www.ioccc.org/2025/)
-- [New AR Drawing App Challenges the $10/Month Subscription Model on Android](https://play.google.com/store/apps/details?id=com.VionixStudio.ARDraw.car.bike.jet&hl=en_US)
+- [How to Train Your Goblin](https://goblins.mchen.workers.dev/)
+- [Show HN: FinMind AI – an AI copilot for investing and daily finances](https://finmindai-moneyverse.vercel.app/)
+- [Show HN: One API Key for 45 AI Models – Pay per Token, OpenAI Compatible](https://modelhub-api.com)
+- [Show HN: Evolution of my AGENTS.md](https://news.ycombinator.com/item?id=48441845)
+- [I&#39;m making an extension to hide Pinterest slop because the platform sucks now](https://pinsift.space/)
+- [&quot;The Law Doesn&#39;t Apply to Me&quot;: Why Sovereign Citizen Arguments Always Fail](https://kylaleelawyer.substack.com/p/the-law-doesnt-apply-to-me-why-sovereign)
+- [What is your craziest idea to launch in this AI era?](https://news.ycombinator.com/item?id=48441776)
+- [Show HN: SeaTicket – AI agent that resolve issues from GitHub, email and forums](https://news.ycombinator.com/item?id=48441713)
+- [SalaryPeel – A fast, visual, ad-free net salary calculator for expats](https://salarypeel.com/)
+- [Exercises in benchmarking, evals, and experimental design, part 6](https://www.patreon.com/posts/exercises-in-and-160473058)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

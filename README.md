@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Social housing lists ‘would take 119 years to clear at current building rate’](https://www.theguardian.com/society/2026/jun/07/social-housing-119-years-waitlist-current-building-rate)
-- [‘Poisoned’ AI: the ChatGPT shopping scams that lead to fake websites](https://www.theguardian.com/money/2026/jun/07/ai-chatgpt-shopping-scams-fake-websites)
-- [Car industry pressing EU for further delay to Brexit EV tariffs](https://www.theguardian.com/business/2026/jun/07/eu-uk-car-industry-lobbying-second-brexit-ev-tariff-delay)
-- [‘I don’t think we’ve ever felt closer’: five writers on their most memorable family holidays](https://www.theguardian.com/travel/2026/jun/07/memorable-family-holidays-interrail-naples-glamping-finland)
-- [TV tonight: Kevin Bridges warms up for World Cup fever](https://www.theguardian.com/tv-and-radio/2026/jun/07/tv-tonight-kevin-bridges-warms-up-for-world-cup-fever)
-- [Bar Shrimp, Manchester M1: ‘This is meaningful, highly adept cooking’ – restaurant review | Grace Dent on restaurants](https://www.theguardian.com/food/2026/jun/07/bar-shrimp-manchester-m1-grace-dent-restaurant-review)
-- [Trump’s failure to maintain ceasefires is part of the new world disorder – and ordinary people pay the price | Simon Tisdall](https://www.theguardian.com/commentisfree/2026/jun/07/donald-trump-ceasefire-failure-ukraine-iran-gaza-lebanon-gaza)
-- [‘My partners’ mum is cruel towards him and I worry how she’ll be with our future kids&#39; | Annalisa Barbieri](https://www.theguardian.com/lifeandstyle/2026/jun/07/my-partners-mum-is-cruel-towards-him-and-i-worry-how-shell-be-with-our-future-kids)
-- [Hello, goodbye: the Beatles’ chaotic, controversial final tour – as never seen before](https://www.theguardian.com/music/2026/jun/07/the-beatles-unseen-photographs-chaotic-controversial-final-tour-jim-marshall)
-- [Could this one man have been behind terrorist attacks on Jewish communities across Europe?](https://www.theguardian.com/news/ng-interactive/2026/jun/07/could-this-one-man-have-been-behind-terrorist-attacks-on-jewish-communities-across-europe)
+- [Can you solve it? Do you have a snout for numbers?](https://www.theguardian.com/science/2026/jun/08/can-you-solve-it-do-you-have-a-snout-for-numbers)
+- [Hong Kong protests and the erasure of the individual – in pictures](https://www.theguardian.com/world/gallery/2026/jun/08/hong-kong-protests-how-was-your-dream-in-pictures)
+- [West Ireland’s magical landscape: where limestone rivers, Hollywood legend and Irish myth converge](https://www.theguardian.com/travel/2026/jun/08/ireland-joyce-country-western-lakes-unesco-geopark-county-galway-mayo)
+- [More than 1,300 deaths a month in England due to long A&amp;E waits, figures suggest](https://www.theguardian.com/society/2026/jun/08/more-than-1300-deaths-a-month-in-england-due-to-long-ae-waits-figures-suggest)
+- [ScottishPower sent six cheques addressed to my late brother](https://www.theguardian.com/money/2026/jun/08/scottishpower-cheques-late-brother-relatives)
+- [‘Now people stop to ask their names and even stroke them’: Nigerians embrace dogs as pets](https://www.theguardian.com/global-development/2026/jun/08/nigeria-dogs-pets-ownership-animal-welfare)
+- [My Memory Is Full of Ghosts review – deeply moving visual hymn for the bombed-out Syrian city of Homs](https://www.theguardian.com/film/2026/jun/08/my-memory-is-full-of-ghosts-review-deeply-moving-visual-hymn-for-the-bombed-out-syrian-city-of-homs)
+- [A fascinating history of the World Cup: best podcasts of the week](https://www.theguardian.com/tv-and-radio/2026/jun/08/a-fascinating-history-of-the-world-cup-best-podcasts-of-the-week)
+- [No electricity, no gas, no sleep: Cubans on edge amid endless outages](https://www.theguardian.com/world/2026/jun/08/cuba-power-outages-electricity)
+- [A British Childhood by Frank Cottrell-Boyce review – are we raising a bookless generation?](https://www.theguardian.com/books/2026/jun/08/a-british-childhood-by-frank-cottrell-boyce-review-are-we-raising-a-bookless-generation)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

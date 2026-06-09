@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [How to Train Your Goblin](https://goblins.mchen.workers.dev/)
-- [Show HN: FinMind AI – an AI copilot for investing and daily finances](https://finmindai-moneyverse.vercel.app/)
-- [Show HN: One API Key for 45 AI Models – Pay per Token, OpenAI Compatible](https://modelhub-api.com)
-- [Show HN: Evolution of my AGENTS.md](https://news.ycombinator.com/item?id=48441845)
-- [I&#39;m making an extension to hide Pinterest slop because the platform sucks now](https://pinsift.space/)
-- [&quot;The Law Doesn&#39;t Apply to Me&quot;: Why Sovereign Citizen Arguments Always Fail](https://kylaleelawyer.substack.com/p/the-law-doesnt-apply-to-me-why-sovereign)
-- [What is your craziest idea to launch in this AI era?](https://news.ycombinator.com/item?id=48441776)
-- [Show HN: SeaTicket – AI agent that resolve issues from GitHub, email and forums](https://news.ycombinator.com/item?id=48441713)
-- [SalaryPeel – A fast, visual, ad-free net salary calculator for expats](https://salarypeel.com/)
-- [Exercises in benchmarking, evals, and experimental design, part 6](https://www.patreon.com/posts/exercises-in-and-160473058)
+- [SpaceX CFO telecom analyst discuss](https://twitter.com/elonmusk/status/2064196509780893957)
+- [Suprised to see the open data sources on internet](https://news.ycombinator.com/item?id=48457048)
+- [Stop Asking Claude to Agree with You](https://www.questionpro.com/engineering/engineering/developer%20tools/ai%20&%20machine%20learning/stop-asking-claude-to-agree-with-you/)
+- [NASA&#39;s X-59 Aircraft Flies Supersonic for First Time](https://www.nasa.gov/aeronautics/x-59-first-supersonic-flight/)
+- [SpaceX offers details on orbital data center satellites](https://spacenews.com/spacex-offers-details-on-orbital-data-center-satellites/)
+- [Show HN: I created an app to copy OTP from Google Voice to your macOS Clipboard](https://github.com/ptrinh/Notiful)
+- [iPhone almost like a birth control device, fertility rates falling after 2007](https://www.indiatoday.in/technology/news/story/iphone-almost-like-a-birth-control-device-fertility-rates-falling-after-2007-research-2923822-2026-06-09)
+- [Ask HN: Do you need go-to-market strategy at early stage?](https://news.ycombinator.com/item?id=48456858)
+- [Built to benefit everyone: our plan By Sam Altman and Jakub Pachocki](https://openai.com/index/built-to-benefit-everyone-our-plan/)
+- [Show HN: Clawcall – give your self-hosted OpenClaw agent inbound phone calls](https://github.com/CODEANDTRUST/clawcall)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

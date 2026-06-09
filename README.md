@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Can you solve it? Do you have a snout for numbers?](https://www.theguardian.com/science/2026/jun/08/can-you-solve-it-do-you-have-a-snout-for-numbers)
-- [Hong Kong protests and the erasure of the individual – in pictures](https://www.theguardian.com/world/gallery/2026/jun/08/hong-kong-protests-how-was-your-dream-in-pictures)
-- [West Ireland’s magical landscape: where limestone rivers, Hollywood legend and Irish myth converge](https://www.theguardian.com/travel/2026/jun/08/ireland-joyce-country-western-lakes-unesco-geopark-county-galway-mayo)
-- [More than 1,300 deaths a month in England due to long A&amp;E waits, figures suggest](https://www.theguardian.com/society/2026/jun/08/more-than-1300-deaths-a-month-in-england-due-to-long-ae-waits-figures-suggest)
-- [ScottishPower sent six cheques addressed to my late brother](https://www.theguardian.com/money/2026/jun/08/scottishpower-cheques-late-brother-relatives)
-- [‘Now people stop to ask their names and even stroke them’: Nigerians embrace dogs as pets](https://www.theguardian.com/global-development/2026/jun/08/nigeria-dogs-pets-ownership-animal-welfare)
-- [My Memory Is Full of Ghosts review – deeply moving visual hymn for the bombed-out Syrian city of Homs](https://www.theguardian.com/film/2026/jun/08/my-memory-is-full-of-ghosts-review-deeply-moving-visual-hymn-for-the-bombed-out-syrian-city-of-homs)
-- [A fascinating history of the World Cup: best podcasts of the week](https://www.theguardian.com/tv-and-radio/2026/jun/08/a-fascinating-history-of-the-world-cup-best-podcasts-of-the-week)
-- [No electricity, no gas, no sleep: Cubans on edge amid endless outages](https://www.theguardian.com/world/2026/jun/08/cuba-power-outages-electricity)
-- [A British Childhood by Frank Cottrell-Boyce review – are we raising a bookless generation?](https://www.theguardian.com/books/2026/jun/08/a-british-childhood-by-frank-cottrell-boyce-review-are-we-raising-a-bookless-generation)
+- [TV tonight: the American version of Martin Clunes comedy Doc Martin](https://www.theguardian.com/tv-and-radio/2026/jun/09/tv-tonight-the-american-version-of-martin-clunes-comedy-doc-martin)
+- [Young people need money because our system is rigged. Here’s a way to give it to them | Polly Toynbee](https://www.theguardian.com/commentisfree/2026/jun/09/young-people-money-citizens-advance-generations-older-people)
+- [‘They are isolated … they are alone’: Zelenskyy on Russia, Putin’s lies – and fighting back](https://www.theguardian.com/world/ng-interactive/2026/jun/09/volodymyr-zelenskyy-interview-russia-putin-drone-warfare-ukraine)
+- [Healthy cooperation: how northern universities are linking with NHS trusts to drive innovation](https://www.theguardian.com/business/2026/jun/09/northern-universities-nhs-trusts-huddersfield-manchester)
+- [José Pizarro’s recipe for duck legs with cherries and amontillado](https://www.theguardian.com/food/2026/jun/09/duck-legs-cherries-and-amontillado-recipe-jose-pizarro)
+- [‘We want to see him in Ukraine’: Zelenskyy hopes to invite King Charles on state visit](https://www.theguardian.com/uk-news/2026/jun/09/zelenskyy-hopes-to-invite-king-charles-state-visit-ukraine)
+- [Parents caring for seriously ill children in UK could get financial support under ‘Hugh’s law’](https://www.theguardian.com/society/2026/jun/09/parents-carer-seriously-ill-children-financial-support-hughs-law)
+- [World’s first wind-powered underwater datacentre starts operating in China](https://www.theguardian.com/world/2026/jun/09/worlds-first-wind-powered-underwater-datacentre-starts-operating-in-china)
+- [Ministers could ban London councils ‘dumping’ homeless families miles away](https://www.theguardian.com/society/2026/jun/09/ministers-could-ban-london-councils-dumping-homeless-families-miles-away)
+- [‘You’re treated like this is the end’: Meet the dementia rebels – diagnosed and determined to change people’s minds](https://www.theguardian.com/society/2026/jun/09/dementia-rebels-diagnosed-determined-change-peoples-minds)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

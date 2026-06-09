@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Cannibalism](https://b-ark.ca/2026/06/07/cannibalism.html)
-- [Richard Scolyer Has Died](https://www.bbc.com/news/articles/c14yz5jg476o)
-- [1k Data Breaches Later, the Disclosure Lag Is Worse](https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/)
-- [Dopamine Fracking](https://igerman.cc/blog/dopamine-fracking/)
-- [Texas grid flags risks as data centers, crypto sites fail voltage tests](https://www.reuters.com/business/energy/texas-grid-flags-risks-data-centers-crypto-sites-fail-voltage-tests-2026-06-05/)
-- [Algorithmic Monocultures in Hiring](https://algorithmichiring.github.io/)
-- [New drug &#39;functionally cures&#39; many hepatitis B virus infections](https://www.science.org/content/article/new-drug-functionally-cures-many-hepatitis-b-virus-infections?user_id=66c4bf745d78644b3aa57b08)
-- [DeepSeek V4 Pro beats GPT-5.5 Pro on precision](https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision)
-- [1worldflag: A blue dot on a transparent background](https://1worldflag.com/)
-- [APC–2 – A professional record cutter for producing original playback discs](https://teenage.engineering/products/apc-2)
+- [CRDTs merge concurrent edits. Why not concurrent creation?](https://loro.dev/blog/mergeable-containers)
+- [Porting the ThinkPad X61 to Coreboot](https://blog.aheymans.xyz/post/thinkpad_x61/)
+- [GoGoGrandparent &lpar;YC S16&rpar; is hiring Back end Engineers](https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer)
+- [Job: Head of Stonehenge](https://www.english-heritage.org.uk/about/our-people/careers-with-us/job-search/default-job-page/?jobRef=16449)
+- [Federal judge blocks H1B visa $100K fee](https://www.alaskasnewssource.com/2026/06/08/federal-judge-blocks-h1-b-visa-100k-fee/)
+- [Confidential submission of draft S-1 to the SEC](https://openai.com/index/openai-submits-confidential-s-1/)
+- [Apple bets cheaper AI will woo small developers](https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/)
+- [FrontierCode](https://cognition.ai/blog/frontier-code)
+- [I&#39;m building a parallel internet, and it&#39;s called The Thinnernet](https://inavoyage.blogspot.com/2026/06/im-building-parallel-internet-and-its.html)
+- [Surveillance is not safety: A statement on the UK&#39;s latest threat to privacy [pdf]](https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

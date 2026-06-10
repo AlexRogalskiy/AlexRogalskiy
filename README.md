@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [SpaceX CFO telecom analyst discuss](https://twitter.com/elonmusk/status/2064196509780893957)
-- [Suprised to see the open data sources on internet](https://news.ycombinator.com/item?id=48457048)
-- [Stop Asking Claude to Agree with You](https://www.questionpro.com/engineering/engineering/developer%20tools/ai%20&%20machine%20learning/stop-asking-claude-to-agree-with-you/)
-- [NASA&#39;s X-59 Aircraft Flies Supersonic for First Time](https://www.nasa.gov/aeronautics/x-59-first-supersonic-flight/)
-- [SpaceX offers details on orbital data center satellites](https://spacenews.com/spacex-offers-details-on-orbital-data-center-satellites/)
-- [Show HN: I created an app to copy OTP from Google Voice to your macOS Clipboard](https://github.com/ptrinh/Notiful)
-- [iPhone almost like a birth control device, fertility rates falling after 2007](https://www.indiatoday.in/technology/news/story/iphone-almost-like-a-birth-control-device-fertility-rates-falling-after-2007-research-2923822-2026-06-09)
-- [Ask HN: Do you need go-to-market strategy at early stage?](https://news.ycombinator.com/item?id=48456858)
-- [Built to benefit everyone: our plan By Sam Altman and Jakub Pachocki](https://openai.com/index/built-to-benefit-everyone-our-plan/)
-- [Show HN: Clawcall – give your self-hosted OpenClaw agent inbound phone calls](https://github.com/CODEANDTRUST/clawcall)
+- [SlimTide Metabolism Support Reviews – Weight-Loss Guide 2026](https://finance.yahoo.com/sectors/healthcare/articles/slimtide-capsules-updated-warning-2026-192100591.html)
+- [Telescope Rancher Became the Hot New Job in Texas](https://www.youtube.com/watch?v=bN48vEqaQs8)
+- [How Silicon Valley Misreads the Lord of the Rings](https://theconversation.com/how-silicon-valley-misreads-the-lord-of-the-rings-282862)
+- [How to Build Utopia &lpar;By Mythos&rpar;](https://aiking.dwyer.co.za/utopia)
+- [Things I Hate](https://news.ycombinator.com/item?id=48472031)
+- [Command injection in NLTK collocations via eval&lpar;&rpar;](https://aydinnyunus.github.io/2026/06/07/command-injection-nltk-collocations-eval/)
+- [Run a fleet of bug hunters on your infrastructure and apps](https://github.com/Matador-og/huntbot)
+- [Google Chrome is killing all uBlock Origin bypasses, Edge, Opera to follow](https://www.neowin.net/news/google-chrome-is-killing-all-ublock-origin-bypasses-microsoft-edge-opera-to-follow/)
+- [List StarWhisper on Hacker News &lpar;Show HN&rpar;](https://news.ycombinator.com/show)
+- [Railroads are unnecessary: no ship in Liverpool waits for Manchester goods &lpar;1826&rpar;](https://hansard.parliament.uk/Commons/1826-04-06/debates/03e51364-f8af-412e-9796-f29949be21e1/LiverpoolAndManchesterRailwayBill#contribution-9eb87fbc-b23c-4239-8719-0aa0aba8d1b9)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

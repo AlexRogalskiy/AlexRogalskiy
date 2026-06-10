@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [TV tonight: the American version of Martin Clunes comedy Doc Martin](https://www.theguardian.com/tv-and-radio/2026/jun/09/tv-tonight-the-american-version-of-martin-clunes-comedy-doc-martin)
-- [Young people need money because our system is rigged. Here’s a way to give it to them | Polly Toynbee](https://www.theguardian.com/commentisfree/2026/jun/09/young-people-money-citizens-advance-generations-older-people)
-- [‘They are isolated … they are alone’: Zelenskyy on Russia, Putin’s lies – and fighting back](https://www.theguardian.com/world/ng-interactive/2026/jun/09/volodymyr-zelenskyy-interview-russia-putin-drone-warfare-ukraine)
-- [Healthy cooperation: how northern universities are linking with NHS trusts to drive innovation](https://www.theguardian.com/business/2026/jun/09/northern-universities-nhs-trusts-huddersfield-manchester)
-- [José Pizarro’s recipe for duck legs with cherries and amontillado](https://www.theguardian.com/food/2026/jun/09/duck-legs-cherries-and-amontillado-recipe-jose-pizarro)
-- [‘We want to see him in Ukraine’: Zelenskyy hopes to invite King Charles on state visit](https://www.theguardian.com/uk-news/2026/jun/09/zelenskyy-hopes-to-invite-king-charles-state-visit-ukraine)
-- [Parents caring for seriously ill children in UK could get financial support under ‘Hugh’s law’](https://www.theguardian.com/society/2026/jun/09/parents-carer-seriously-ill-children-financial-support-hughs-law)
-- [World’s first wind-powered underwater datacentre starts operating in China](https://www.theguardian.com/world/2026/jun/09/worlds-first-wind-powered-underwater-datacentre-starts-operating-in-china)
-- [Ministers could ban London councils ‘dumping’ homeless families miles away](https://www.theguardian.com/society/2026/jun/09/ministers-could-ban-london-councils-dumping-homeless-families-miles-away)
-- [‘You’re treated like this is the end’: Meet the dementia rebels – diagnosed and determined to change people’s minds](https://www.theguardian.com/society/2026/jun/09/dementia-rebels-diagnosed-determined-change-peoples-minds)
+- [Middle East crisis live: Iran launches broad retaliatory attacks after US strikes over downed helicopter](https://www.theguardian.com/world/live/2026/jun/10/iran-war-updates-missile-strikes-trump-us-retaliation-middle-east-crisis-war-live)
+- [More than half of clean energy schemes needed for Labour’s 2030 target offered grid connection](https://www.theguardian.com/environment/2026/jun/10/labour-renewable-energy-projects-halfway-long-delay)
+- [Salary sacrifice: max out this pension tax break while you can](https://www.theguardian.com/money/2026/jun/10/salary-sacrifice-pension-tax-break-uk-scheme)
+- [Public procurement of electricity could save GB households £200 a year, says thinktank](https://www.theguardian.com/environment/2026/jun/10/public-procurement-electricity-could-save-households)
+- [An epic bikepacking trip on west Sweden’s newest cycle trail](https://www.theguardian.com/travel/2026/jun/10/sweden-cycle-trail-forest-lake-scandinavia)
+- [Boogie Nights review – Paul Thomas Anderson’s porn epic is still gaudy, seedy fun](https://www.theguardian.com/film/2026/jun/10/boogie-nights-review-paul-thomas-anderson-porn-movie)
+- [Stolen Revolution by Bozorgmehr Sharafedin and Yeganeh Torbati review – Iran’s recent history explained](https://www.theguardian.com/books/2026/jun/10/stolen-revolution-by-bozorgmehr-sharafedin-and-yeganeh-torbati-review-irans-recent-history-explained)
+- [Chinese activist in UK told by X that abusive deepfakes do not breach rules](https://www.theguardian.com/technology/2026/jun/10/chinese-activist-uk-apple-peiqing-ni-x-deepfakes)
+- [‘Pioneering photography’: early images of Newhaven’s fishers – in pictures](https://www.theguardian.com/artanddesign/gallery/2026/jun/10/pioneering-photography-david-hill-and-robert-adamson-newhaven-fishers-in-pictures)
+- [A moment that changed me: I climbed a tower aged nine, alone – and discovered how I wanted to live](https://www.theguardian.com/lifeandstyle/2026/jun/10/a-moment-that-changed-me-climbed-tower-aged-nine-discovered-how-i-wanted-to-live)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

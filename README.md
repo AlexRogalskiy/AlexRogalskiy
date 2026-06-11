@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Middle East crisis live: Iran launches broad retaliatory attacks after US strikes over downed helicopter](https://www.theguardian.com/world/live/2026/jun/10/iran-war-updates-missile-strikes-trump-us-retaliation-middle-east-crisis-war-live)
-- [More than half of clean energy schemes needed for Labour’s 2030 target offered grid connection](https://www.theguardian.com/environment/2026/jun/10/labour-renewable-energy-projects-halfway-long-delay)
-- [Salary sacrifice: max out this pension tax break while you can](https://www.theguardian.com/money/2026/jun/10/salary-sacrifice-pension-tax-break-uk-scheme)
-- [Public procurement of electricity could save GB households £200 a year, says thinktank](https://www.theguardian.com/environment/2026/jun/10/public-procurement-electricity-could-save-households)
-- [An epic bikepacking trip on west Sweden’s newest cycle trail](https://www.theguardian.com/travel/2026/jun/10/sweden-cycle-trail-forest-lake-scandinavia)
-- [Boogie Nights review – Paul Thomas Anderson’s porn epic is still gaudy, seedy fun](https://www.theguardian.com/film/2026/jun/10/boogie-nights-review-paul-thomas-anderson-porn-movie)
-- [Stolen Revolution by Bozorgmehr Sharafedin and Yeganeh Torbati review – Iran’s recent history explained](https://www.theguardian.com/books/2026/jun/10/stolen-revolution-by-bozorgmehr-sharafedin-and-yeganeh-torbati-review-irans-recent-history-explained)
-- [Chinese activist in UK told by X that abusive deepfakes do not breach rules](https://www.theguardian.com/technology/2026/jun/10/chinese-activist-uk-apple-peiqing-ni-x-deepfakes)
-- [‘Pioneering photography’: early images of Newhaven’s fishers – in pictures](https://www.theguardian.com/artanddesign/gallery/2026/jun/10/pioneering-photography-david-hill-and-robert-adamson-newhaven-fishers-in-pictures)
-- [A moment that changed me: I climbed a tower aged nine, alone – and discovered how I wanted to live](https://www.theguardian.com/lifeandstyle/2026/jun/10/a-moment-that-changed-me-climbed-tower-aged-nine-discovered-how-i-wanted-to-live)
+- [Ryanair investigated over charging parents to sit with their children](https://www.theguardian.com/business/2026/jun/11/ryanair-investigated-over-charging-parents-children-uk-cma)
+- [Middle East crisis live: US and Iran trade strikes again, after Trump warns Tehran will ‘pay the price’ for stalled talks](https://www.theguardian.com/world/live/2026/jun/11/iran-war-news-us-strikes-donald-trump-stalled-peace-talks-middle-east-crisis)
+- [‘I’m hoping to meet a river goddess’: a wild journey through Britain’s mythic waterways](https://www.theguardian.com/travel/2026/jun/11/wild-journey-through-britain-mythic-waterways-river-goddess)
+- [Frida Slattery As Herself by Ana Kinsella review – will-they-won’t-they in a skilful theatrical romance](https://www.theguardian.com/books/2026/jun/11/frida-slattery-as-herself-by-ana-kinsella-review-will-they-wont-they-in-a-skilful-theatrical-romance)
+- [Fields of the Gods: Mexico’s football pitches from above – photo essay](https://www.theguardian.com/world/2026/jun/11/mexico-football-pitches-aerial-photo-essay)
+- [TV tonight: the World Cup kicks off with three opening ceremonies](https://www.theguardian.com/tv-and-radio/2026/jun/11/tv-tonight-the-world-cup-kicks-off-with-three-opening-ceremonies)
+- [How the Belfast stabbing was the spark to a fuse loaded with grievance and provocation](https://www.theguardian.com/uk-news/2026/jun/11/how-the-belfast-stabbing-was-the-spark-to-a-fuse-loaded-with-grievance-and-provocation)
+- [David Sullivan is a relic – the day of the celebrity ‘porn baron’ is over. But the vileness he peddled is much worse now | Joan Smith](https://www.theguardian.com/commentisfree/2026/jun/11/david-sullivan-relic-day-celebrity-porn-baron-over-vileness-much-worse-now)
+- [Millions of homes in London, Essex and Kent at risk of sinking as climate crisis worsens](https://www.theguardian.com/environment/2026/jun/11/millions-homes-london-essex-and-kent-sinking-climate-crisis-subsidence)
+- [Thursday news quiz: A resigning boss, Buffy’s loss and a theatre getting cross](https://www.theguardian.com/lifeandstyle/2026/jun/11/the-guardian-thursday-quiz-general-knowledge-topical-news-trivia-251)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

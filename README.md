@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [SlimTide Metabolism Support Reviews – Weight-Loss Guide 2026](https://finance.yahoo.com/sectors/healthcare/articles/slimtide-capsules-updated-warning-2026-192100591.html)
-- [Telescope Rancher Became the Hot New Job in Texas](https://www.youtube.com/watch?v=bN48vEqaQs8)
-- [How Silicon Valley Misreads the Lord of the Rings](https://theconversation.com/how-silicon-valley-misreads-the-lord-of-the-rings-282862)
-- [How to Build Utopia &lpar;By Mythos&rpar;](https://aiking.dwyer.co.za/utopia)
-- [Things I Hate](https://news.ycombinator.com/item?id=48472031)
-- [Command injection in NLTK collocations via eval&lpar;&rpar;](https://aydinnyunus.github.io/2026/06/07/command-injection-nltk-collocations-eval/)
-- [Run a fleet of bug hunters on your infrastructure and apps](https://github.com/Matador-og/huntbot)
-- [Google Chrome is killing all uBlock Origin bypasses, Edge, Opera to follow](https://www.neowin.net/news/google-chrome-is-killing-all-ublock-origin-bypasses-microsoft-edge-opera-to-follow/)
-- [List StarWhisper on Hacker News &lpar;Show HN&rpar;](https://news.ycombinator.com/show)
-- [Railroads are unnecessary: no ship in Liverpool waits for Manchester goods &lpar;1826&rpar;](https://hansard.parliament.uk/Commons/1826-04-06/debates/03e51364-f8af-412e-9796-f29949be21e1/LiverpoolAndManchesterRailwayBill#contribution-9eb87fbc-b23c-4239-8719-0aa0aba8d1b9)
+- [Your Package Manager Is Lying to You](https://blog.gaborkoos.com/posts/2026-06-11-Your-Package-Manager-Is-Lying-to-You/)
+- [Show HN: Aegis – post-quantum cyberdefense proxy &lpar;687 attacks, 0 breaches, 40d&rpar;](https://github.com/conchaestradamiguelangel-droid/aegis)
+- [Phantomix – Open-source browser AI agent, free alternative to OpenAI Operator](https://github.com/dimitrisdimitrov5-blip/Phantomix)
+- [Macaroni – a single HTML file messenger](https://github.com/vanyapr/makaroshki)
+- [I got inside a North Korean hiring scam](https://indicator.media/p/i-got-inside-a-north-korean-hiring-scam-what-i-found-reveals-a-troubling-shift-in-tactics)
+- [Ask HN: Want to build something open source on nights and weekends together?](https://news.ycombinator.com/item?id=48486932)
+- [Show HN: NightCity Tracer is an open-source Blue Team Simulator](https://thomassimmer.github.io/nightcity-tracer/)
+- [Gordon Wood&#39;s Proust](https://thelampmagazine.com/blog/gordon-woods-proust)
+- [Cybercriminals claim breach of Oracle PeopleSoft servers at 100 organizations](https://techcrunch.com/2026/06/10/cybercriminals-claim-breach-of-oracle-peoplesoft-servers-at-100-plus-organizations/)
+- [The AI Resist List](https://airesistlist.org/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

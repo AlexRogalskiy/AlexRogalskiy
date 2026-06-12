@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Your Package Manager Is Lying to You](https://blog.gaborkoos.com/posts/2026-06-11-Your-Package-Manager-Is-Lying-to-You/)
-- [Show HN: Aegis – post-quantum cyberdefense proxy &lpar;687 attacks, 0 breaches, 40d&rpar;](https://github.com/conchaestradamiguelangel-droid/aegis)
-- [Phantomix – Open-source browser AI agent, free alternative to OpenAI Operator](https://github.com/dimitrisdimitrov5-blip/Phantomix)
-- [Macaroni – a single HTML file messenger](https://github.com/vanyapr/makaroshki)
-- [I got inside a North Korean hiring scam](https://indicator.media/p/i-got-inside-a-north-korean-hiring-scam-what-i-found-reveals-a-troubling-shift-in-tactics)
-- [Ask HN: Want to build something open source on nights and weekends together?](https://news.ycombinator.com/item?id=48486932)
-- [Show HN: NightCity Tracer is an open-source Blue Team Simulator](https://thomassimmer.github.io/nightcity-tracer/)
-- [Gordon Wood&#39;s Proust](https://thelampmagazine.com/blog/gordon-woods-proust)
-- [Cybercriminals claim breach of Oracle PeopleSoft servers at 100 organizations](https://techcrunch.com/2026/06/10/cybercriminals-claim-breach-of-oracle-peoplesoft-servers-at-100-plus-organizations/)
-- [The AI Resist List](https://airesistlist.org/)
+- [Doclang-Project/Doclang](https://github.com/doclang-project/doclang)
+- [Show HN: MicroECS – entity component system library in Python/NumPy](https://github.com/Meehai/microecs)
+- [Show HN: Real-time ISS tracker with live NOAA solar wind visualisation](https://mujib77.github.io/plasma-net/)
+- [Microservices for the Benefits, Not the Hustle](https://kiss-and-solid.com/blog/microservices-for-the-benefits)
+- [Matchmakers Are Busy, but Worried](https://www.tabletmag.com/sections/community/articles/matchmaker-business-booming)
+- [Humans prefer to walk anticlockwise, scientists find – but reason is unclear](https://www.theguardian.com/science/2026/jun/10/humans-prefer-to-walk-anticlockwise-scientists-find-reason-unclear)
+- [SSL Certificate Expiry Explained](https://urlwatch.io/blog/ssl-certificate-expiry.php)
+- [AUR Report Thread](https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/FGXPCB3ZVCJIV7FX323SBAX2JHYB7ZS4/)
+- [AUR Packages Compromised with Infostealer and Rootkit](https://discourse.ifin.network/t/400-aur-packages-compromised-with-infostealer-and-rootkit/577)
+- [Zepto&#39;s published search architecture only applies to logged-in users](https://medium.com/@abhij89/zeptos-llm-search-works-great-unless-you-re-a-new-user-c13e138de331)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

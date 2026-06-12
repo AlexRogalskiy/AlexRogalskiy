@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Validation, Docs, tests, and database schemas from one source of truth](https://github.com/justhamade/triadjs)
-- [OpenAI mulls slashing prices as it competes with Anthropic for users](https://www.cnbc.com/2026/06/11/openai-mulls-slashing-prices-ahead-of-competition-from-anthropic-wsj.html)
-- [Are insecure code completions in PyCharm a vulnerability?](https://sethmlarson.dev/are-insecure-code-completions-a-vulnerability)
-- [AI agent runs amok in Fedora and elsewhere](https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/)
-- [Deficient executive control in transformer attention](https://academic.oup.com/pnasnexus/article/5/6/pgag149/8698838)
-- [Unix GC Remastered](https://mohandacherir.github.io/Qdiv7/posts/unix_new_gc/)
-- [Sequoyah’s syllabary created a written language for the Cherokee](https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/)
-- [What is it like to be a bat? &lpar;1974&rpar; [pdf]](https://www.sas.upenn.edu/~cavitch/pdf-library/Nagel_Bat.pdf)
-- [Raspberry Pi 5 – 16GB RAM](https://www.adafruit.com/product/6125?src=raspberrypi)
-- [πFS](https://github.com/philipl/pifs)
+- [AI agent bankrupted their operator while trying to scan DN42](https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/)
+- [Device Clock Generation &lpar;2025&rpar;](https://zipcpu.com/blog/2025/12/17/devclk.html)
+- [Claude Fable is relentlessly proactive](https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/)
+- [Removing &#39;um&#39; from a recording is harder than it sounds](https://doug.sh/posts/erm-a-local-cli-that-strips-ums-uhs-and-erms-from-speech/)
+- [Nobody ever gets credit for fixing problems that never happened &lpar;2001&rpar; [pdf]](https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf)
+- [If you are asking for human attention, demonstrate human effort](https://tombedor.dev/human-attention-and-human-effort/)
+- [A jacket that harvests drinking water from the air](https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/)
+- [Show HN: FablePool – pool money behind a prompt, and Fable builds it in public](https://fablepool.com)
+- [Show HN: Boo – Screen-style terminal multiplexer built on libghostty](https://github.com/coder/boo)
+- [Apple didn&#39;t revolutionize power supplies; new transistors did &lpar;2012&rpar;](https://www.righto.com/2012/02/apple-didnt-revolutionize-power.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

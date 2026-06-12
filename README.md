@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ryanair investigated over charging parents to sit with their children](https://www.theguardian.com/business/2026/jun/11/ryanair-investigated-over-charging-parents-children-uk-cma)
-- [Middle East crisis live: US and Iran trade strikes again, after Trump warns Tehran will ‘pay the price’ for stalled talks](https://www.theguardian.com/world/live/2026/jun/11/iran-war-news-us-strikes-donald-trump-stalled-peace-talks-middle-east-crisis)
-- [‘I’m hoping to meet a river goddess’: a wild journey through Britain’s mythic waterways](https://www.theguardian.com/travel/2026/jun/11/wild-journey-through-britain-mythic-waterways-river-goddess)
-- [Frida Slattery As Herself by Ana Kinsella review – will-they-won’t-they in a skilful theatrical romance](https://www.theguardian.com/books/2026/jun/11/frida-slattery-as-herself-by-ana-kinsella-review-will-they-wont-they-in-a-skilful-theatrical-romance)
-- [Fields of the Gods: Mexico’s football pitches from above – photo essay](https://www.theguardian.com/world/2026/jun/11/mexico-football-pitches-aerial-photo-essay)
-- [TV tonight: the World Cup kicks off with three opening ceremonies](https://www.theguardian.com/tv-and-radio/2026/jun/11/tv-tonight-the-world-cup-kicks-off-with-three-opening-ceremonies)
-- [How the Belfast stabbing was the spark to a fuse loaded with grievance and provocation](https://www.theguardian.com/uk-news/2026/jun/11/how-the-belfast-stabbing-was-the-spark-to-a-fuse-loaded-with-grievance-and-provocation)
-- [David Sullivan is a relic – the day of the celebrity ‘porn baron’ is over. But the vileness he peddled is much worse now | Joan Smith](https://www.theguardian.com/commentisfree/2026/jun/11/david-sullivan-relic-day-celebrity-porn-baron-over-vileness-much-worse-now)
-- [Millions of homes in London, Essex and Kent at risk of sinking as climate crisis worsens](https://www.theguardian.com/environment/2026/jun/11/millions-homes-london-essex-and-kent-sinking-climate-crisis-subsidence)
-- [Thursday news quiz: A resigning boss, Buffy’s loss and a theatre getting cross](https://www.theguardian.com/lifeandstyle/2026/jun/11/the-guardian-thursday-quiz-general-knowledge-topical-news-trivia-251)
+- [SpaceX to list on US stock market today after raising $75bn in largest IPO ever – business live](https://www.theguardian.com/business/live/2026/jun/12/spacex-float-us-stock-market-share-elon-musk-trillionaire-largest-ipo-ever-live-news-updates)
+- [UK economy shrank by 0.1% in April as Iran war held back growth](https://www.theguardian.com/business/2026/jun/12/uk-economy-gdp-shrank-april-iran-war-held-back-growth)
+- [Homes for sale in cultural hotspots in England and Scotland – in pictures](https://www.theguardian.com/money/gallery/2026/jun/12/homes-in-cultural-hotspots-for-sale-in-england-and-scotland-in-pictures)
+- [20 ways Taylor Swift remade pop culture in her image](https://www.theguardian.com/music/ng-interactive/2026/jun/12/taylor-swift-20-years-pop-culture-star-debut)
+- [Hairpin bends and bears on the highway: readers’ favourite European road trips](https://www.theguardian.com/travel/2026/jun/12/readers-favourite-european-road-trips)
+- [The underwater wonders I saw on my once-in-a-lifetime trip to the Galápagos](https://www.theguardian.com/environment/2026/jun/12/darwin-and-wolf-islands-galapagos-wildlife-science-expedition)
+- [Diane Keaton’s nail clippers for $960: what’s behind the new boom in celebrity estate auctions?](https://www.theguardian.com/film/2026/jun/12/diane-keaton-dead-celebrity-auctions)
+- [I Will Find You to Sugar: the seven best shows to stream this week](https://www.theguardian.com/tv-and-radio/2026/jun/12/i-will-find-you-to-sugar-the-seven-best-shows-to-stream-this-week)
+- [TV tonight: a hugely entertaining series about the Roswell alien autopsy](https://www.theguardian.com/tv-and-radio/2026/jun/12/tv-tonight-the-alien-autopsy-scandal)
+- [Emergency hospital admissions fell after introduction of London’s T-charge and Ulez, study suggests](https://www.theguardian.com/environment/2026/jun/12/emergency-hospital-admissions-reduced-london-t-charge-ulez-air-quality)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

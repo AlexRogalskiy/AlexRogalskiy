@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Doclang-Project/Doclang](https://github.com/doclang-project/doclang)
-- [Show HN: MicroECS – entity component system library in Python/NumPy](https://github.com/Meehai/microecs)
-- [Show HN: Real-time ISS tracker with live NOAA solar wind visualisation](https://mujib77.github.io/plasma-net/)
-- [Microservices for the Benefits, Not the Hustle](https://kiss-and-solid.com/blog/microservices-for-the-benefits)
-- [Matchmakers Are Busy, but Worried](https://www.tabletmag.com/sections/community/articles/matchmaker-business-booming)
-- [Humans prefer to walk anticlockwise, scientists find – but reason is unclear](https://www.theguardian.com/science/2026/jun/10/humans-prefer-to-walk-anticlockwise-scientists-find-reason-unclear)
-- [SSL Certificate Expiry Explained](https://urlwatch.io/blog/ssl-certificate-expiry.php)
-- [AUR Report Thread](https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/FGXPCB3ZVCJIV7FX323SBAX2JHYB7ZS4/)
-- [AUR Packages Compromised with Infostealer and Rootkit](https://discourse.ifin.network/t/400-aur-packages-compromised-with-infostealer-and-rootkit/577)
-- [Zepto&#39;s published search architecture only applies to logged-in users](https://medium.com/@abhij89/zeptos-llm-search-works-great-unless-you-re-a-new-user-c13e138de331)
+- [Show HN: World Cup – customizable dashboard and PDF printout](https://freecodecollective.github.io/world-cup-2026/)
+- [Fisher Catches and Releases Great White Shark in Massachusetts [video]](https://www.youtube.com/watch?v=yFIcUT8Q1RU)
+- [Leaving Mozilla](https://blog.unitedheroes.net/5751)
+- [Show HN: GripLock – walk in real life to conquer terrain](https://griplock.alephz.com/)
+- [Harness engineering for coding agent users](https://martinfowler.com/articles/harness-engineering.html)
+- [Russian mathematician wanted on terrorism charges detained in Armenia](https://caliber.az/en/post/russian-mathematician-wanted-on-terrorism-charges-detained-in-armenia)
+- [Shepherd&#39;s Dog: A Game by the Most Dangerous AI Model](https://koenvangilst.nl/lab/claude-fable-shepherds-dog)
+- [Show HN: FinMind AI – Like Bloomberg Terminal Meets ChatGPT](https://finmindai-moneyverse.vercel.app/)
+- [Ask HN: What features do you miss in Google Docs for desktop?](https://news.ycombinator.com/item?id=48513703)
+- [Too many people are shockingly bad at prioritisation](https://economist.com/business/2026/06/11/too-many-people-are-shockingly-bad-at-prioritisation)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

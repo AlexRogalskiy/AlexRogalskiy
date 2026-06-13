@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [SpaceX to list on US stock market today after raising $75bn in largest IPO ever – business live](https://www.theguardian.com/business/live/2026/jun/12/spacex-float-us-stock-market-share-elon-musk-trillionaire-largest-ipo-ever-live-news-updates)
-- [UK economy shrank by 0.1% in April as Iran war held back growth](https://www.theguardian.com/business/2026/jun/12/uk-economy-gdp-shrank-april-iran-war-held-back-growth)
-- [Homes for sale in cultural hotspots in England and Scotland – in pictures](https://www.theguardian.com/money/gallery/2026/jun/12/homes-in-cultural-hotspots-for-sale-in-england-and-scotland-in-pictures)
-- [20 ways Taylor Swift remade pop culture in her image](https://www.theguardian.com/music/ng-interactive/2026/jun/12/taylor-swift-20-years-pop-culture-star-debut)
-- [Hairpin bends and bears on the highway: readers’ favourite European road trips](https://www.theguardian.com/travel/2026/jun/12/readers-favourite-european-road-trips)
-- [The underwater wonders I saw on my once-in-a-lifetime trip to the Galápagos](https://www.theguardian.com/environment/2026/jun/12/darwin-and-wolf-islands-galapagos-wildlife-science-expedition)
-- [Diane Keaton’s nail clippers for $960: what’s behind the new boom in celebrity estate auctions?](https://www.theguardian.com/film/2026/jun/12/diane-keaton-dead-celebrity-auctions)
-- [I Will Find You to Sugar: the seven best shows to stream this week](https://www.theguardian.com/tv-and-radio/2026/jun/12/i-will-find-you-to-sugar-the-seven-best-shows-to-stream-this-week)
-- [TV tonight: a hugely entertaining series about the Roswell alien autopsy](https://www.theguardian.com/tv-and-radio/2026/jun/12/tv-tonight-the-alien-autopsy-scandal)
-- [Emergency hospital admissions fell after introduction of London’s T-charge and Ulez, study suggests](https://www.theguardian.com/environment/2026/jun/12/emergency-hospital-admissions-reduced-london-t-charge-ulez-air-quality)
+- [Lena Dunham’s romcom Too Much convinced me to propose on the spot](https://www.theguardian.com/culture/2026/jun/13/cultural-awakening-lena-dunham-netflix-romcom-too-much)
+- [Public control of water and energy at heart of Burnham agenda, sources say](https://www.theguardian.com/politics/2026/jun/13/andy-burnham-public-control-essentials-water-energy)
+- [The Guide #246: Does World Cup fever leave you in a cold sweat? Here’s how to escape the footie](https://www.theguardian.com/culture/2026/jun/12/world-cup-avoid-tv-film-music-this-summer)
+- [UK parents support an under-16 social media ban – but what do their children think?](https://www.theguardian.com/uk-news/2026/jun/13/parents-teenagers-children-under-16-social-media-ban-tiktok-instagram)
+- [G’wed: this underrated gem of a comedy is filthy, heartwarming and packed with ideas](https://www.theguardian.com/tv-and-radio/2026/jun/13/gwed-season-3-comedy-scouse-sitcom-itv)
+- [TV tonight: Jason Derulo feels the heat at Capital’s Summertime Ball](https://www.theguardian.com/tv-and-radio/2026/jun/13/tv-tonight-jason-derulo-feels-the-heat-at-capitals-summertime-ball)
+- [From Olivia Rodrigo to The Fall of Sir Douglas Weatherford: your complete entertainment guide to the week ahead](https://www.theguardian.com/culture/2026/jun/13/entertainment-guide-week-ahead-disclosure-day-olivia-rodrigo-douglas-weatherford-cinema-theatre-art-music)
+- [‘Have you ever been around someone you just know is evil?’ Melinda French Gates on meeting Jeffrey Epstein, giving away billions, and her post-divorce peace](https://www.theguardian.com/society/2026/jun/13/melinda-french-gates-interview-jeffrey-epstein-fighting-for-womens-health)
+- [Swiss wait to hear result of ballot on capping population at 10 million](https://www.theguardian.com/world/2026/jun/13/swiss-wait-to-hear-result-of-ballot-on-capping-population-at-10-million)
+- [Blind date: ‘Her one dating request was “no one in finance”. I work in finance’](https://www.theguardian.com/lifeandstyle/2026/jun/13/blind-date-yusuf-hannah)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

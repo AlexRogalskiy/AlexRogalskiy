@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [AI agent bankrupted their operator while trying to scan DN42](https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/)
-- [Device Clock Generation &lpar;2025&rpar;](https://zipcpu.com/blog/2025/12/17/devclk.html)
-- [Claude Fable is relentlessly proactive](https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/)
-- [Removing &#39;um&#39; from a recording is harder than it sounds](https://doug.sh/posts/erm-a-local-cli-that-strips-ums-uhs-and-erms-from-speech/)
-- [Nobody ever gets credit for fixing problems that never happened &lpar;2001&rpar; [pdf]](https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf)
-- [If you are asking for human attention, demonstrate human effort](https://tombedor.dev/human-attention-and-human-effort/)
-- [A jacket that harvests drinking water from the air](https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/)
-- [Show HN: FablePool – pool money behind a prompt, and Fable builds it in public](https://fablepool.com)
-- [Show HN: Boo – Screen-style terminal multiplexer built on libghostty](https://github.com/coder/boo)
-- [Apple didn&#39;t revolutionize power supplies; new transistors did &lpar;2012&rpar;](https://www.righto.com/2012/02/apple-didnt-revolutionize-power.html)
+- [Shepherd&#39;s Dog: A Game by the Most Dangerous AI Model](https://koenvangilst.nl/lab/claude-fable-shepherds-dog)
+- [There is a shadow hanging over this Fable thing](https://12gramsofcarbon.com/p/tech-things-there-is-a-massive-shadow)
+- [On CPU Physics and CPU Cycles](https://6it.dev/blog/on-cpu-physics-and-cpu-cycles-80730)
+- [Our response to the US ban on Fable 5 and Mythos 5](https://isaacus.com/blog/our-response-to-the-us-ban-on-fable-5-and-mythos-5)
+- [A generic dynamic array in C that stores no capacity and needs no struct](https://gist.github.com/alurm/2ca14be134d719fe7431217a6b18d91e)
+- [Open source AI must win](https://opensourceaimustwin.com/?share=v2)
+- [TycoonLE: A Jax reinforcement learning environment for long-horizon planning](https://github.com/vrtnis/tycoon-learning-environment)
+- [Statement on US government directive to suspend access to Fable 5 and Mythos 5](https://www.anthropic.com/news/fable-mythos-access)
+- [Show HN: Putt.day a daily mini golf game](https://putt.day/)
+- [Twenty One Zero-Days in FFmpeg](https://depthfirst.com/research/21-zero-days-in-ffmpeg)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

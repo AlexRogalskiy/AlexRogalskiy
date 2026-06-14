@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: World Cup – customizable dashboard and PDF printout](https://freecodecollective.github.io/world-cup-2026/)
-- [Fisher Catches and Releases Great White Shark in Massachusetts [video]](https://www.youtube.com/watch?v=yFIcUT8Q1RU)
-- [Leaving Mozilla](https://blog.unitedheroes.net/5751)
-- [Show HN: GripLock – walk in real life to conquer terrain](https://griplock.alephz.com/)
-- [Harness engineering for coding agent users](https://martinfowler.com/articles/harness-engineering.html)
-- [Russian mathematician wanted on terrorism charges detained in Armenia](https://caliber.az/en/post/russian-mathematician-wanted-on-terrorism-charges-detained-in-armenia)
-- [Shepherd&#39;s Dog: A Game by the Most Dangerous AI Model](https://koenvangilst.nl/lab/claude-fable-shepherds-dog)
-- [Show HN: FinMind AI – Like Bloomberg Terminal Meets ChatGPT](https://finmindai-moneyverse.vercel.app/)
-- [Ask HN: What features do you miss in Google Docs for desktop?](https://news.ycombinator.com/item?id=48513703)
-- [Too many people are shockingly bad at prioritisation](https://economist.com/business/2026/06/11/too-many-people-are-shockingly-bad-at-prioritisation)
+- [Trial of 12mph bike lane speed limit grinds gears of Dutch cyclists](https://www.theguardian.com/world/2026/jun/14/trial-of-12mph-bike-lane-speed-limit-grinds-gears-of-dutch-cyclists)
+- [Cursed Knowledge](https://obscura.com/cursed-knowledge/)
+- [An architectural blueprint to excise MS-DOS device debt &lpar;CON, NUL&rpar; from Windows](https://feedbackportal.microsoft.com/feedback/idea/dca14930-b767-f111-9b47-6045bdbd0989)
+- [New Brunswick woman sues OpenAI, alleging ChatGPT led to daughter&#39;s death](https://www.cbc.ca/news/canada/new-brunswick/sue-open-ai-suicide-chat-gpt-9.7234630)
+- [Don&#39;t trust large context windows](https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows)
+- [China Is Propping Up the World Economy by Importing Less Oil](https://www.wsj.com/business/energy-oil/china-is-propping-up-the-world-economy-by-importing-a-lot-less-oil-f12d7813)
+- [Introduction to &lpar;Multimodal&rpar; LLM-as-a-Judge](https://yinghonglan.substack.com/p/introduction-to-multimodal-llm-as)
+- [Mining And refining: uranium and plutonium &lpar;2024&rpar;](https://hackaday.com/2024/04/24/mining-and-refining-uranium-and-plutonium/)
+- [How an astrophysicist uses Codex to help simulate black holes](https://openai.com/index/using-codex-to-simulate-black-holes/)
+- [AI: Surgeon&#39;s Assistant or Commodity on a Meter?](https://replicated.wiki/blog/stream.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

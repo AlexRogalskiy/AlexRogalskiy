@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Lena Dunham’s romcom Too Much convinced me to propose on the spot](https://www.theguardian.com/culture/2026/jun/13/cultural-awakening-lena-dunham-netflix-romcom-too-much)
-- [Public control of water and energy at heart of Burnham agenda, sources say](https://www.theguardian.com/politics/2026/jun/13/andy-burnham-public-control-essentials-water-energy)
-- [The Guide #246: Does World Cup fever leave you in a cold sweat? Here’s how to escape the footie](https://www.theguardian.com/culture/2026/jun/12/world-cup-avoid-tv-film-music-this-summer)
-- [UK parents support an under-16 social media ban – but what do their children think?](https://www.theguardian.com/uk-news/2026/jun/13/parents-teenagers-children-under-16-social-media-ban-tiktok-instagram)
-- [G’wed: this underrated gem of a comedy is filthy, heartwarming and packed with ideas](https://www.theguardian.com/tv-and-radio/2026/jun/13/gwed-season-3-comedy-scouse-sitcom-itv)
-- [TV tonight: Jason Derulo feels the heat at Capital’s Summertime Ball](https://www.theguardian.com/tv-and-radio/2026/jun/13/tv-tonight-jason-derulo-feels-the-heat-at-capitals-summertime-ball)
-- [From Olivia Rodrigo to The Fall of Sir Douglas Weatherford: your complete entertainment guide to the week ahead](https://www.theguardian.com/culture/2026/jun/13/entertainment-guide-week-ahead-disclosure-day-olivia-rodrigo-douglas-weatherford-cinema-theatre-art-music)
-- [‘Have you ever been around someone you just know is evil?’ Melinda French Gates on meeting Jeffrey Epstein, giving away billions, and her post-divorce peace](https://www.theguardian.com/society/2026/jun/13/melinda-french-gates-interview-jeffrey-epstein-fighting-for-womens-health)
-- [Swiss wait to hear result of ballot on capping population at 10 million](https://www.theguardian.com/world/2026/jun/13/swiss-wait-to-hear-result-of-ballot-on-capping-population-at-10-million)
-- [Blind date: ‘Her one dating request was “no one in finance”. I work in finance’](https://www.theguardian.com/lifeandstyle/2026/jun/13/blind-date-yusuf-hannah)
+- [Australia 2-0 Turkey: World Cup 2026 – live reaction](https://www.theguardian.com/football/live/2026/jun/14/fifa-world-cup-2026-live-socceroos-australia-v-turkey-updates-aus-vs-tur-group-d-match-score-latest)
+- [Make platforms that promote violent content pay towards riot costs, Streeting says](https://www.theguardian.com/politics/2026/jun/14/make-platforms-that-promote-violent-content-pay-towards-riot-costs-streeting-says)
+- [Trial of 12mph bike lane speed limit grinds gears of Dutch cyclists](https://www.theguardian.com/world/2026/jun/14/trial-of-12mph-bike-lane-speed-limit-grinds-gears-of-dutch-cyclists)
+- [‘I should know better’: tech expert lost £70,000 in one simple phone call](https://www.theguardian.com/money/2026/jun/14/i-should-know-better-tech-expert-lost-70000-in-one-simple-phone-call)
+- [From Sussex to Scotland, my road trip through four centuries of British holidays](https://www.theguardian.com/travel/2026/jun/14/sussex-to-scotland-road-trip-british-holidays-history)
+- [Illegal dump becomes ‘symbol of north-south divide’ at heart of Makerfield byelection](https://www.theguardian.com/politics/2026/jun/14/illegal-dump-symbol-north-south-divide-makerfield-byelection)
+- [Minister defends changes to UK workers’ rights against costs backlash](https://www.theguardian.com/law/2026/jun/14/minister-kate-dearden-defends-uk-workers-rights-reforms-business-backlash-costs)
+- [TV tonight: a brilliant series about Nelson Mandela’s fight for freedom](https://www.theguardian.com/tv-and-radio/2026/jun/14/tv-tonight-a-brilliant-series-about-nelson-mandelas-fight-for-freedom)
+- [‘A point of resistance’: the Normandy village that said ‘non’ to Pete Hegseth](https://www.theguardian.com/world/2026/jun/14/normandy-village-legrune-sur-mer-protest-d-day-pete-hegseth)
+- [How Brexit has made Britain poorer – in charts](https://www.theguardian.com/politics/2026/jun/14/how-uk-economy-changed-since-brexit-vote-charts)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

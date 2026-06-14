@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Shepherd&#39;s Dog: A Game by the Most Dangerous AI Model](https://koenvangilst.nl/lab/claude-fable-shepherds-dog)
-- [There is a shadow hanging over this Fable thing](https://12gramsofcarbon.com/p/tech-things-there-is-a-massive-shadow)
-- [On CPU Physics and CPU Cycles](https://6it.dev/blog/on-cpu-physics-and-cpu-cycles-80730)
-- [Our response to the US ban on Fable 5 and Mythos 5](https://isaacus.com/blog/our-response-to-the-us-ban-on-fable-5-and-mythos-5)
-- [A generic dynamic array in C that stores no capacity and needs no struct](https://gist.github.com/alurm/2ca14be134d719fe7431217a6b18d91e)
-- [Open source AI must win](https://opensourceaimustwin.com/?share=v2)
-- [TycoonLE: A Jax reinforcement learning environment for long-horizon planning](https://github.com/vrtnis/tycoon-learning-environment)
-- [Statement on US government directive to suspend access to Fable 5 and Mythos 5](https://www.anthropic.com/news/fable-mythos-access)
-- [Show HN: Putt.day a daily mini golf game](https://putt.day/)
-- [Twenty One Zero-Days in FFmpeg](https://depthfirst.com/research/21-zero-days-in-ffmpeg)
+- [Tribblix: The retro Illumos distribution](http://tribblix.org/)
+- [Phoenix LiveView 1.2 Released](https://phoenixframework.org/blog/phoenix-liveview-1-2-released)
+- [Pac-Man, but you&#39;re the ghost](https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost)
+- [Software Architecture Guide &lpar;2019&rpar;](https://martinfowler.com/architecture/)
+- [Free SQL→ER diagram tool, runs in the browser, nothing uploaded](https://sqltoerdiagram.com/)
+- [The redistribution of housing wealth caused by rent control [pdf]](https://www.rhawa.org/file/secure/shs-the-impact-of-rent-control-in-st-paul.pdf)
+- [Making Claude a Chemist](https://www.anthropic.com/research/making-claude-a-chemist)
+- [Weave: Merging based on language structure and not lines](https://ataraxy-labs.github.io/weave/)
+- [Building a serial and VGA &quot;everything console&quot;](http://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html)
+- [Apt Encounters of the Third Kind](https://igor-blue.github.io/2021/03/24/apt1.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

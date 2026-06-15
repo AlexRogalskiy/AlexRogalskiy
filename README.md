@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Trial of 12mph bike lane speed limit grinds gears of Dutch cyclists](https://www.theguardian.com/world/2026/jun/14/trial-of-12mph-bike-lane-speed-limit-grinds-gears-of-dutch-cyclists)
-- [Cursed Knowledge](https://obscura.com/cursed-knowledge/)
-- [An architectural blueprint to excise MS-DOS device debt &lpar;CON, NUL&rpar; from Windows](https://feedbackportal.microsoft.com/feedback/idea/dca14930-b767-f111-9b47-6045bdbd0989)
-- [New Brunswick woman sues OpenAI, alleging ChatGPT led to daughter&#39;s death](https://www.cbc.ca/news/canada/new-brunswick/sue-open-ai-suicide-chat-gpt-9.7234630)
-- [Don&#39;t trust large context windows](https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows)
-- [China Is Propping Up the World Economy by Importing Less Oil](https://www.wsj.com/business/energy-oil/china-is-propping-up-the-world-economy-by-importing-a-lot-less-oil-f12d7813)
-- [Introduction to &lpar;Multimodal&rpar; LLM-as-a-Judge](https://yinghonglan.substack.com/p/introduction-to-multimodal-llm-as)
-- [Mining And refining: uranium and plutonium &lpar;2024&rpar;](https://hackaday.com/2024/04/24/mining-and-refining-uranium-and-plutonium/)
-- [How an astrophysicist uses Codex to help simulate black holes](https://openai.com/index/using-codex-to-simulate-black-holes/)
-- [AI: Surgeon&#39;s Assistant or Commodity on a Meter?](https://replicated.wiki/blog/stream.html)
+- [I think a global AI pause almost certainly won&#39;t happen](https://www.lesswrong.com/posts/mtNZG7Ee6JfBKhE2H/why-i-think-a-global-ai-pause-almost-certainly-won-t-happen)
+- [AI demands more engineering discipline. Not less](https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline)
+- [Why AI hasn&#39;t replaced software engineers, and won&#39;t](https://simonwillison.net/2026/Jun/14/why-ai-hasnt-replaced-software-engineers/)
+- [Heisenbug](https://en.wikipedia.org/wiki/Heisenbug)
+- [The Null in Your Not IN](https://boringsql.com/posts/not-in-null/)
+- [A frontier without an ecosystem is not stable](https://twitter.com/i/status/2066182223213293753)
+- [New Hetzner price increase &lpar;As of 15 June&rpar;](https://www.hetzner.com/cloud/)
+- [Successful Psilocybin Treatment of Alzheimer](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2026.1813281/full)
+- [Show HN: Toothpaste Picking Manager](https://github.com/notlibrary/tpm)
+- [World’s nuclear arsenals expanded and upgraded](https://www.sipri.org/media/press-release/2026/increasing-focus-nuclear-weapons-amid-heightened-escalation-risks-new-sipri-yearbook-out-now)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

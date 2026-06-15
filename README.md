@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Tribblix: The retro Illumos distribution](http://tribblix.org/)
-- [Phoenix LiveView 1.2 Released](https://phoenixframework.org/blog/phoenix-liveview-1-2-released)
-- [Pac-Man, but you&#39;re the ghost](https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost)
-- [Software Architecture Guide &lpar;2019&rpar;](https://martinfowler.com/architecture/)
-- [Free SQL→ER diagram tool, runs in the browser, nothing uploaded](https://sqltoerdiagram.com/)
-- [The redistribution of housing wealth caused by rent control [pdf]](https://www.rhawa.org/file/secure/shs-the-impact-of-rent-control-in-st-paul.pdf)
-- [Making Claude a Chemist](https://www.anthropic.com/research/making-claude-a-chemist)
-- [Weave: Merging based on language structure and not lines](https://ataraxy-labs.github.io/weave/)
-- [Building a serial and VGA &quot;everything console&quot;](http://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html)
-- [Apt Encounters of the Third Kind](https://igor-blue.github.io/2021/03/24/apt1.html)
+- [Dalus &lpar;YC W25&rpar; Is Hiring a Senior Software Engineer in Germany](https://www.ycombinator.com/companies/dalus/jobs/5IDmKJt-senior-software-frontend-engineer-germany-office)
+- [Curl will not accept vulnerability reports during July 2026](https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/)
+- [Apple Foundation Models](https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models)
+- [Even more batteries included with Emacs](https://karthinks.com/software/even-more-batteries-included-with-emacs/)
+- [21 years and counting of &#39;eight fallacies of distributed computing&#39; &lpar;2025&rpar;](https://blog.apnic.net/2025/12/08/21-years-and-counting-of-eight-fallacies-of-distributed-computing/)
+- [Your ePub Is fine](https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/)
+- [Windows 11 users are tired of MS account requirements creeping into everything](https://www.windowscentral.com/microsoft/windows-11/windows-11-users-are-tired-of-microsoft-account-requirements-and-workarounds)
+- [Chaosnet &lpar;1981&rpar;](https://tumbleweed.nu/r/lm-3/uv/amber.html)
+- [Show HN: Discover Wikipedia articles popular on Hacker News](https://www.orangecrumbs.com/)
+- [Show HN: Kage – Shadow any website to a single binary for offline viewing](https://github.com/tamnd/kage)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

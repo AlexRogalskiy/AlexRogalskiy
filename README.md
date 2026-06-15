@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Australia 2-0 Turkey: World Cup 2026 – live reaction](https://www.theguardian.com/football/live/2026/jun/14/fifa-world-cup-2026-live-socceroos-australia-v-turkey-updates-aus-vs-tur-group-d-match-score-latest)
-- [Make platforms that promote violent content pay towards riot costs, Streeting says](https://www.theguardian.com/politics/2026/jun/14/make-platforms-that-promote-violent-content-pay-towards-riot-costs-streeting-says)
-- [Trial of 12mph bike lane speed limit grinds gears of Dutch cyclists](https://www.theguardian.com/world/2026/jun/14/trial-of-12mph-bike-lane-speed-limit-grinds-gears-of-dutch-cyclists)
-- [‘I should know better’: tech expert lost £70,000 in one simple phone call](https://www.theguardian.com/money/2026/jun/14/i-should-know-better-tech-expert-lost-70000-in-one-simple-phone-call)
-- [From Sussex to Scotland, my road trip through four centuries of British holidays](https://www.theguardian.com/travel/2026/jun/14/sussex-to-scotland-road-trip-british-holidays-history)
-- [Illegal dump becomes ‘symbol of north-south divide’ at heart of Makerfield byelection](https://www.theguardian.com/politics/2026/jun/14/illegal-dump-symbol-north-south-divide-makerfield-byelection)
-- [Minister defends changes to UK workers’ rights against costs backlash](https://www.theguardian.com/law/2026/jun/14/minister-kate-dearden-defends-uk-workers-rights-reforms-business-backlash-costs)
-- [TV tonight: a brilliant series about Nelson Mandela’s fight for freedom](https://www.theguardian.com/tv-and-radio/2026/jun/14/tv-tonight-a-brilliant-series-about-nelson-mandelas-fight-for-freedom)
-- [‘A point of resistance’: the Normandy village that said ‘non’ to Pete Hegseth](https://www.theguardian.com/world/2026/jun/14/normandy-village-legrune-sur-mer-protest-d-day-pete-hegseth)
-- [How Brexit has made Britain poorer – in charts](https://www.theguardian.com/politics/2026/jun/14/how-uk-economy-changed-since-brexit-vote-charts)
+- [Keir Starmer set to announce under-16s social media ban – UK politics live](https://www.theguardian.com/politics/live/2026/jun/15/keir-starmer-social-media-ban-under-16s-tik-tok-instagram-snapchat-twitter-x-meta-uk-politics-latest-news-updates)
+- [Oil price falls to three-month low and markets rally after US-Iran peace deal – business live](https://www.theguardian.com/business/live/2026/jun/15/oil-price-low-stock-markets-rally-us-iran-peace-deal-ftse-wall-street-live-news-updates)
+- [World Cup 2026: Iran arrive in US amid protests as Spain and Belgium enter tournament – live](https://www.theguardian.com/football/live/2026/jun/15/world-cup-2026-news-iran-arrive-in-us-amid-protests-spain-belgium-egypt-enter-tournament-live)
+- [Japan leave it late and Germany’s magnificent seven | World Cup Daily](https://www.theguardian.com/football/video/2026/jun/15/japan-leave-it-late-and-germanys-magnificent-seven-world-cup-daily)
+- [The problem with ‘loneliness influencers’ isn’t their friendlessness – it’s the air of cosy defeatism | Rachel Connolly](https://www.theguardian.com/commentisfree/2026/jun/15/influencers-loneliness-video-trend)
+- [Labour MPs urge Starmer to set targets to boost number of male teachers in England](https://www.theguardian.com/politics/2026/jun/15/labour-mps-keir-starmer-set-targets-boost-number-male-teachers-england)
+- [Is it true that … you have five seconds’ grace after dropping food on the floor?](https://www.theguardian.com/lifeandstyle/2026/jun/15/is-it-true-that-you-have-five-seconds-grace-after-you-drop-food-on-the-floor)
+- [Son of Norway’s crown princess convicted of rape and sentenced to four years in prison](https://www.theguardian.com/world/2026/jun/15/son-norway-crown-princess-convicted-rape-marius-borg-hoiby)
+- [Australia’s Sigma drops out of talks to buy UK’s Boots](https://www.theguardian.com/business/2026/jun/15/sigma-healthcare-uk-boots-takeover)
+- [Middle East crisis live: US and Iran say peace deal reached as European leaders warn Tehran ‘must never acquire a nuclear weapon’](https://www.theguardian.com/world/live/2026/jun/15/iran-us-peace-deal-live-updates-trump-israel-lebanon-hormuz-nuclear-program-europe-response)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

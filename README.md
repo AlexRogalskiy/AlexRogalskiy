@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Dalus &lpar;YC W25&rpar; Is Hiring a Senior Software Engineer in Germany](https://www.ycombinator.com/companies/dalus/jobs/5IDmKJt-senior-software-frontend-engineer-germany-office)
-- [Curl will not accept vulnerability reports during July 2026](https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/)
-- [Apple Foundation Models](https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models)
-- [Even more batteries included with Emacs](https://karthinks.com/software/even-more-batteries-included-with-emacs/)
-- [21 years and counting of &#39;eight fallacies of distributed computing&#39; &lpar;2025&rpar;](https://blog.apnic.net/2025/12/08/21-years-and-counting-of-eight-fallacies-of-distributed-computing/)
-- [Your ePub Is fine](https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/)
-- [Windows 11 users are tired of MS account requirements creeping into everything](https://www.windowscentral.com/microsoft/windows-11/windows-11-users-are-tired-of-microsoft-account-requirements-and-workarounds)
-- [Chaosnet &lpar;1981&rpar;](https://tumbleweed.nu/r/lm-3/uv/amber.html)
-- [Show HN: Discover Wikipedia articles popular on Hacker News](https://www.orangecrumbs.com/)
-- [Show HN: Kage – Shadow any website to a single binary for offline viewing](https://github.com/tamnd/kage)
+- [I Could&#39;ve Rickrolled the FIFA World Cup. All I Needed Was My ID](https://bobdahacker.com/blog/fifa-hack)
+- [John Carmack on Fabrice Bellard](https://twitter.com/ID_AA_Carmack/status/2064095424420487226)
+- [The time the x86 emulator team found code so bad they fixed it during emulation](https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419)
+- [Show HN: Garden of Flowers – an archive of pictorial typography before ASCII art](https://garden-of-flowers.heikkilotvonen.com/)
+- [Humanity isn&#39;t ready for the coming intelligence explosion](https://www.economist.com/by-invitation/2026/06/15/humanity-isnt-ready-for-the-coming-intelligence-explosion)
+- [Amazon Announces Multibillion-Dollar Data Center in Missouri](https://www.narracomm.com/amazon-announces-multibillion-dollar-data-center-in-missouri/)
+- [Reviews have become expensive, rewrites have become cheap](http://ishmeetbindra.com/posts/reviews-have-become-expensive-rewrites-have-become-cheap/)
+- [Banned Book Library in a Wi-Fi Smart Light Bulb](https://www.richardosgood.com/posts/banned-book-library/)
+- [Why I email complete strangers](https://www.goodinternetmagazine.com/why-i-email-complete-strangers/)
+- [Peopleless economy? Not technically impossible](https://gmalandrakis.com/writings/ad-economicum.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

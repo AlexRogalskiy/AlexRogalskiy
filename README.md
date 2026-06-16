@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [I think a global AI pause almost certainly won&#39;t happen](https://www.lesswrong.com/posts/mtNZG7Ee6JfBKhE2H/why-i-think-a-global-ai-pause-almost-certainly-won-t-happen)
-- [AI demands more engineering discipline. Not less](https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline)
-- [Why AI hasn&#39;t replaced software engineers, and won&#39;t](https://simonwillison.net/2026/Jun/14/why-ai-hasnt-replaced-software-engineers/)
-- [Heisenbug](https://en.wikipedia.org/wiki/Heisenbug)
-- [The Null in Your Not IN](https://boringsql.com/posts/not-in-null/)
-- [A frontier without an ecosystem is not stable](https://twitter.com/i/status/2066182223213293753)
-- [New Hetzner price increase &lpar;As of 15 June&rpar;](https://www.hetzner.com/cloud/)
-- [Successful Psilocybin Treatment of Alzheimer](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2026.1813281/full)
-- [Show HN: Toothpaste Picking Manager](https://github.com/notlibrary/tpm)
-- [World’s nuclear arsenals expanded and upgraded](https://www.sipri.org/media/press-release/2026/increasing-focus-nuclear-weapons-amid-heightened-escalation-risks-new-sipri-yearbook-out-now)
+- [Pure-Dart I2P: decentralized file sharing](https://github.com/geograms/i2p-dart)
+- [Greed Is Learned: Visible Incentives as Reward-Hacking Triggers](https://arxiv.org/abs/2606.16914)
+- [Show HN: Kitchen Rush, Overcooked inspired LLM tool calling benchmark](https://github.com/bassimeledath/kitchen-rush)
+- [Movebound: The Art of Zugzwang](https://www.thearticle.com/movebound-the-art-of-zugzwang)
+- [Discovery debt: The debt that doesn&#39;t slow you down](https://www.leadinginproduct.com/p/discovery-debt)
+- [The US government&#39;s Anthropic models ban was never about an AI jailbreak](https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/)
+- [Why do South Koreans love AI so much?](https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/)
+- [Cross-Language Data Types](https://ekxide.io/blog/cross-language-data-types/)
+- [Show HN: A spreadsheet where your code never reads B7](https://github.com/logisky/LogiSheets/discussions/415)
+- [Show HN: GitHits Public Beta 0.9](https://githits.com/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

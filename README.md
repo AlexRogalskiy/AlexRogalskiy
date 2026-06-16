@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Keir Starmer set to announce under-16s social media ban – UK politics live](https://www.theguardian.com/politics/live/2026/jun/15/keir-starmer-social-media-ban-under-16s-tik-tok-instagram-snapchat-twitter-x-meta-uk-politics-latest-news-updates)
-- [Oil price falls to three-month low and markets rally after US-Iran peace deal – business live](https://www.theguardian.com/business/live/2026/jun/15/oil-price-low-stock-markets-rally-us-iran-peace-deal-ftse-wall-street-live-news-updates)
-- [World Cup 2026: Iran arrive in US amid protests as Spain and Belgium enter tournament – live](https://www.theguardian.com/football/live/2026/jun/15/world-cup-2026-news-iran-arrive-in-us-amid-protests-spain-belgium-egypt-enter-tournament-live)
-- [Japan leave it late and Germany’s magnificent seven | World Cup Daily](https://www.theguardian.com/football/video/2026/jun/15/japan-leave-it-late-and-germanys-magnificent-seven-world-cup-daily)
-- [The problem with ‘loneliness influencers’ isn’t their friendlessness – it’s the air of cosy defeatism | Rachel Connolly](https://www.theguardian.com/commentisfree/2026/jun/15/influencers-loneliness-video-trend)
-- [Labour MPs urge Starmer to set targets to boost number of male teachers in England](https://www.theguardian.com/politics/2026/jun/15/labour-mps-keir-starmer-set-targets-boost-number-male-teachers-england)
-- [Is it true that … you have five seconds’ grace after dropping food on the floor?](https://www.theguardian.com/lifeandstyle/2026/jun/15/is-it-true-that-you-have-five-seconds-grace-after-you-drop-food-on-the-floor)
-- [Son of Norway’s crown princess convicted of rape and sentenced to four years in prison](https://www.theguardian.com/world/2026/jun/15/son-norway-crown-princess-convicted-rape-marius-borg-hoiby)
-- [Australia’s Sigma drops out of talks to buy UK’s Boots](https://www.theguardian.com/business/2026/jun/15/sigma-healthcare-uk-boots-takeover)
-- [Middle East crisis live: US and Iran say peace deal reached as European leaders warn Tehran ‘must never acquire a nuclear weapon’](https://www.theguardian.com/world/live/2026/jun/15/iran-us-peace-deal-live-updates-trump-israel-lebanon-hormuz-nuclear-program-europe-response)
+- [World Cup 2026: France enter fray; Tunisia hire Renard; Iran feel ‘oppressed’; official cleared – live](https://www.theguardian.com/football/live/2026/jun/16/world-cup-2026-news-france-enter-fray-iran-feel-oppressed-var-official-cleared-over-gesture-live)
+- [History for Cape Verde as Spain start with a stutter | World Cup Daily](https://www.theguardian.com/football/video/2026/jun/16/history-for-cape-verde-as-spain-start-with-a-stutter-world-cup-daily)
+- [Japan hikes interest rates to highest since 1995 to fight inflation from Iran war; Thames Water rescue in doubt – business live](https://www.theguardian.com/business/live/2026/jun/16/japan-hikes-interest-rates-inflation-iran-war-thames-water-rescue-nationalisation-latest-news-updates)
+- [Sly stage version of The Traitors to lure audiences with five different endings](https://www.theguardian.com/stage/2026/jun/16/the-traitors-play-gillian-lynne-theatre-five-different-endings-london)
+- [Thames Water nationalisation moves closer as government ‘objects to rescue deal’](https://www.theguardian.com/business/2026/jun/16/thames-water-nationalisation-rescue-deal-ofwat)
+- [Mamdani’s pied-à-terre tax isn’t far off Labour’s housing policy. Not that you’ll ever hear Starmer say it | Anna Minton](https://www.theguardian.com/commentisfree/2026/jun/16/zohran-mamdani-pied-a-terre-tax-new-york-keir-starmer)
+- [The bat that weighs the same as a teaspoon of salt – and the biologist who rediscovered it](https://www.theguardian.com/environment/2026/jun/16/iroro-tanshi-biologist-rediscovered-short-tailed-roundleaf-bat-teaspoon-salt-aoe)
+- [Unsure about Disclosure Day? You are not alone](https://www.theguardian.com/film/2026/jun/16/disclosure-day-spielberg-et-close-encounters-of-the-third-kind-et)
+- [Five-star service from mobility equipment firm saved our holiday](https://www.theguardian.com/money/2026/jun/16/five-star-service-from-mobility-equipment-firm-saved-our-holiday)
+- [Free as a bird: the Mexicans redefining gender – in pictures](https://www.theguardian.com/artanddesign/gallery/2026/jun/16/free-as-a-bird-the-mexicans-redefining-gender-in-pictures-pieter-henket-birds-of-mexico-city)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

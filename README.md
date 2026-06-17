@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [World Cup 2026: France enter fray; Tunisia hire Renard; Iran feel ‘oppressed’; official cleared – live](https://www.theguardian.com/football/live/2026/jun/16/world-cup-2026-news-france-enter-fray-iran-feel-oppressed-var-official-cleared-over-gesture-live)
-- [History for Cape Verde as Spain start with a stutter | World Cup Daily](https://www.theguardian.com/football/video/2026/jun/16/history-for-cape-verde-as-spain-start-with-a-stutter-world-cup-daily)
-- [Japan hikes interest rates to highest since 1995 to fight inflation from Iran war; Thames Water rescue in doubt – business live](https://www.theguardian.com/business/live/2026/jun/16/japan-hikes-interest-rates-inflation-iran-war-thames-water-rescue-nationalisation-latest-news-updates)
-- [Sly stage version of The Traitors to lure audiences with five different endings](https://www.theguardian.com/stage/2026/jun/16/the-traitors-play-gillian-lynne-theatre-five-different-endings-london)
-- [Thames Water nationalisation moves closer as government ‘objects to rescue deal’](https://www.theguardian.com/business/2026/jun/16/thames-water-nationalisation-rescue-deal-ofwat)
-- [Mamdani’s pied-à-terre tax isn’t far off Labour’s housing policy. Not that you’ll ever hear Starmer say it | Anna Minton](https://www.theguardian.com/commentisfree/2026/jun/16/zohran-mamdani-pied-a-terre-tax-new-york-keir-starmer)
-- [The bat that weighs the same as a teaspoon of salt – and the biologist who rediscovered it](https://www.theguardian.com/environment/2026/jun/16/iroro-tanshi-biologist-rediscovered-short-tailed-roundleaf-bat-teaspoon-salt-aoe)
-- [Unsure about Disclosure Day? You are not alone](https://www.theguardian.com/film/2026/jun/16/disclosure-day-spielberg-et-close-encounters-of-the-third-kind-et)
-- [Five-star service from mobility equipment firm saved our holiday](https://www.theguardian.com/money/2026/jun/16/five-star-service-from-mobility-equipment-firm-saved-our-holiday)
-- [Free as a bird: the Mexicans redefining gender – in pictures](https://www.theguardian.com/artanddesign/gallery/2026/jun/16/free-as-a-bird-the-mexicans-redefining-gender-in-pictures-pieter-henket-birds-of-mexico-city)
+- [UK inflation unexpectedly stays at 2.8% as food price falls offset transport costs](https://www.theguardian.com/business/2026/jun/17/uk-inflation-steady-despite-iran-conflict-fuel-prices)
+- [Cycling in the tracks of Britain’s camping pioneers from Oxford to Surrey](https://www.theguardian.com/travel/2026/jun/17/camping-and-caravanning-club-bike-ride-oxford-to-surrey)
+- [Silent carnivals, kabaddi players and home videos: Jarman award shortlist announced](https://www.theguardian.com/artanddesign/2026/jun/17/jarman-award-shortlist-announced)
+- [Cactus Pears review – tender and subtle story of forbidden love and a poignant awakening in India](https://www.theguardian.com/film/2026/jun/17/cactus-pears-review-forbidden-love-india-rohan-kanawade)
+- [‘Tax break tart’: hospitality tipped to exploit summer VAT cut on children’s meals](https://www.theguardian.com/business/2026/jun/17/hospitality-exploits-summer-vat-cut-kids-meals)
+- [Capital gains tax: more people have to pay, so here’s what you need to know](https://www.theguardian.com/money/2026/jun/17/capital-gains-tax-more-people-have-to-pay-so-heres-what-you-need-to-know)
+- [Morbid by Saul Justin Newman review – why everything you think you know about longevity is wrong](https://www.theguardian.com/books/2026/jun/17/morbid-by-saul-justin-newman-review-why-everything-you-think-you-know-about-longevity-is-wrong)
+- [‘I don’t like being stuck in an office’: the young people helping plant a ring of trees around London](https://www.theguardian.com/environment/2026/jun/17/young-people-mission-to-plant-a-ring-of-trees-around-london)
+- [‘It’s stronger than a drug!’ Transcendent portraits from Montreux jazz festival – in pictures](https://www.theguardian.com/artanddesign/gallery/2026/jun/17/its-stronger-than-a-drug-transcendent-portraits-from-montreux-jazz-festival-in-pictures-anoush-abrar)
+- [What happened on a historic night for Argentina? ‘Messi things’ | Pablo Iglesias Maurer](https://www.theguardian.com/football/2026/jun/17/lionel-messi-hat-trick-algeria-argentina-world-cup)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

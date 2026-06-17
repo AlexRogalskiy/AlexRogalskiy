@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Pure-Dart I2P: decentralized file sharing](https://github.com/geograms/i2p-dart)
-- [Greed Is Learned: Visible Incentives as Reward-Hacking Triggers](https://arxiv.org/abs/2606.16914)
-- [Show HN: Kitchen Rush, Overcooked inspired LLM tool calling benchmark](https://github.com/bassimeledath/kitchen-rush)
-- [Movebound: The Art of Zugzwang](https://www.thearticle.com/movebound-the-art-of-zugzwang)
-- [Discovery debt: The debt that doesn&#39;t slow you down](https://www.leadinginproduct.com/p/discovery-debt)
-- [The US government&#39;s Anthropic models ban was never about an AI jailbreak](https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/)
-- [Why do South Koreans love AI so much?](https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/)
-- [Cross-Language Data Types](https://ekxide.io/blog/cross-language-data-types/)
-- [Show HN: A spreadsheet where your code never reads B7](https://github.com/logisky/LogiSheets/discussions/415)
-- [Show HN: GitHits Public Beta 0.9](https://githits.com/)
+- [fastai: Style](https://docs.fast.ai/dev/style.html)
+- [Get Detach](https://news.ycombinator.com/item?id=48566728)
+- [From Chesterton&#39;s fence to Chesterton&#39;s gap](https://stephantul.github.io/blog/unfence/)
+- [A resumable orchestration system for long-running Claude workflows](https://github.com/afsalali1238/Incubator)
+- [Origin – Cursor&#39;s GitHub Competitor](https://cursor.com/origin)
+- [Ask HN: How has mobile development changed for you?](https://news.ycombinator.com/item?id=48566678)
+- [Non-frontal face recognition using GANs and memristor-based classifiers](https://arxiv.org/abs/2606.12074)
+- [The Battery Impact of 50 Open GitHub Issues on an M3 Mac](https://gopeek-lovat.vercel.app/blog-github-issues-battery-m3-mac.html)
+- [Custom Memcpy Implementation for ClickHouse](https://github.com/ClickHouse/ClickHouse/blob/master/base/glibc-compatibility/memcpy/memcpy.h)
+- [Fearless Concurrency on the GPU](https://arxiv.org/abs/2606.15991)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

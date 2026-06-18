@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [fastai: Style](https://docs.fast.ai/dev/style.html)
-- [Get Detach](https://news.ycombinator.com/item?id=48566728)
-- [From Chesterton&#39;s fence to Chesterton&#39;s gap](https://stephantul.github.io/blog/unfence/)
-- [A resumable orchestration system for long-running Claude workflows](https://github.com/afsalali1238/Incubator)
-- [Origin – Cursor&#39;s GitHub Competitor](https://cursor.com/origin)
-- [Ask HN: How has mobile development changed for you?](https://news.ycombinator.com/item?id=48566678)
-- [Non-frontal face recognition using GANs and memristor-based classifiers](https://arxiv.org/abs/2606.12074)
-- [The Battery Impact of 50 Open GitHub Issues on an M3 Mac](https://gopeek-lovat.vercel.app/blog-github-issues-battery-m3-mac.html)
-- [Custom Memcpy Implementation for ClickHouse](https://github.com/ClickHouse/ClickHouse/blob/master/base/glibc-compatibility/memcpy/memcpy.h)
-- [Fearless Concurrency on the GPU](https://arxiv.org/abs/2606.15991)
+- [An open-source AI just beat OpenAI&#39;s GPT-5.5 at coding &lpar;1/6th the price&rpar;](https://docs.z.ai/guides/llm/glm-5.2)
+- [GLM 5.2 playing text adventures](https://entropicthoughts.com/glm-5-2-playing-text-adventures)
+- [An Open Source Implementation of Notebook LM](https://github.com/lfnovo/open-notebook)
+- [Explaining Attention with Program Synthesis](https://arxiv.org/abs/2606.19317)
+- [Data Viz and Table Design from the Letterpress Era](https://chris-parmer.com/data-viz-from-the-letterpress-era/)
+- [Estimate and pay your Q2 taxes](https://www.kip-ai.com/estimate)
+- [Does Your Programming Language Ever Surprise You in a Good Way?](https://donraab.medium.com/does-your-programming-language-ever-surprise-you-in-a-good-way-eb29e1eba8d3)
+- [The Australian Government to Require SMS/MMS Sender ID Registraion](https://www.acma.gov.au/sms-sender-id-register)
+- [How to Become a Person After Smartphones Have Rotted Your Brain](https://www.thenewatlantis.com/publications/how-to-become-a-person-after-smartphones-have-rotted-your-brain)
+- [Six months of AI in 2026, and a whole lot of noise](https://jatniel.dev/en/bytes/six-months-of-ai-in-2026-and-a-whole-lot-of-noise)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

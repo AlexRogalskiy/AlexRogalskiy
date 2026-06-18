@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [UK inflation unexpectedly stays at 2.8% as food price falls offset transport costs](https://www.theguardian.com/business/2026/jun/17/uk-inflation-steady-despite-iran-conflict-fuel-prices)
-- [Cycling in the tracks of Britain’s camping pioneers from Oxford to Surrey](https://www.theguardian.com/travel/2026/jun/17/camping-and-caravanning-club-bike-ride-oxford-to-surrey)
-- [Silent carnivals, kabaddi players and home videos: Jarman award shortlist announced](https://www.theguardian.com/artanddesign/2026/jun/17/jarman-award-shortlist-announced)
-- [Cactus Pears review – tender and subtle story of forbidden love and a poignant awakening in India](https://www.theguardian.com/film/2026/jun/17/cactus-pears-review-forbidden-love-india-rohan-kanawade)
-- [‘Tax break tart’: hospitality tipped to exploit summer VAT cut on children’s meals](https://www.theguardian.com/business/2026/jun/17/hospitality-exploits-summer-vat-cut-kids-meals)
-- [Capital gains tax: more people have to pay, so here’s what you need to know](https://www.theguardian.com/money/2026/jun/17/capital-gains-tax-more-people-have-to-pay-so-heres-what-you-need-to-know)
-- [Morbid by Saul Justin Newman review – why everything you think you know about longevity is wrong](https://www.theguardian.com/books/2026/jun/17/morbid-by-saul-justin-newman-review-why-everything-you-think-you-know-about-longevity-is-wrong)
-- [‘I don’t like being stuck in an office’: the young people helping plant a ring of trees around London](https://www.theguardian.com/environment/2026/jun/17/young-people-mission-to-plant-a-ring-of-trees-around-london)
-- [‘It’s stronger than a drug!’ Transcendent portraits from Montreux jazz festival – in pictures](https://www.theguardian.com/artanddesign/gallery/2026/jun/17/its-stronger-than-a-drug-transcendent-portraits-from-montreux-jazz-festival-in-pictures-anoush-abrar)
-- [What happened on a historic night for Argentina? ‘Messi things’ | Pablo Iglesias Maurer](https://www.theguardian.com/football/2026/jun/17/lionel-messi-hat-trick-algeria-argentina-world-cup)
+- [Bank of England expected to leave interest rates on hold; UK unemployment falls – business live](https://www.theguardian.com/business/live/2026/jun/18/bank-of-england-interest-rates-uk-unemployment-wages-oil-price-stock-markets-latest-news-updates)
+- [UK unemployment rate falls to 4.9% and wages grow more than expected](https://www.theguardian.com/business/2026/jun/18/uk-unemployment-rate-falls-wages-interest-rates-iran-war)
+- [Mexico military brings down ‘unfortunate’ drone near South Korea World Cup training camp](https://www.theguardian.com/football/2026/jun/18/mexico-south-korea-drone-training-world-cup-2026)
+- [As Spielberg confirms whether ET was ‘slimy or dry’, we enter a new age of the celebrity interview](https://www.theguardian.com/film/2026/jun/18/steven-spielberg-et-was-moist-but-never-slimy)
+- [Here’s something London can be envious of: when New York parties, it really parties | Emma Brockes](https://www.theguardian.com/commentisfree/2026/jun/18/new-york-knicks-celebrations-arsenal-london)
+- [Fotofestiwal: the international festival of photography in Łódź – in pictures](https://www.theguardian.com/artanddesign/gallery/2026/jun/18/fotofestiwal-the-international-festival-of-photography-in-odz-in-pictures)
+- [La Cabina/El Televisor review – horror and anxiety on the air and down the line in Franco’s Spain](https://www.theguardian.com/film/2026/jun/18/la-cabina-el-televisor-review-horror-on-the-air-and-down-the-line-in-francos-spain)
+- [Pink flamingos and shimmering lemon groves: exploring Sicily’s Vendicari nature reserve](https://www.theguardian.com/travel/2026/jun/18/sicily-italy-vendicari-nature-reserve-wetland-birds)
+- [A Little Bit Bad by Cassandra Neyenesch review – a sparkling, subversive debut](https://www.theguardian.com/books/2026/jun/18/a-little-bit-bad-by-cassandra-neyenesch-review-a-sparkling-subversive-debut)
+- [Should my husband stop letting our kids climb over our neighbour’s fence to get their ball back?](https://www.theguardian.com/lifeandstyle/2026/jun/18/should-my-husband-stop-letting-kids-climb-over-neighbours-fence-get-ball-back)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

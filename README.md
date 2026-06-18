@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [NetNewsWire Status](https://inessential.com/2026/06/15/netnewswire-status.html)
-- [Semiclassical Gravity Efficiently Solves NP-Complete Problems](https://arxiv.org/abs/2606.14806)
-- [Stop Killing Games fails to secure EU law despite 1.3M signatures](https://www.dexerto.com/gaming/stop-killing-games-fails-to-secure-eu-law-despite-1-3m-signatures-3376431/)
-- [Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More](https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/)
-- [Humiliating IIS servers for fun and jail time](https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/)
-- [GrapheneOS has been ported to Android 17](https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon)
-- [Show HN: cuTile Rust: Safe, data-race-free GPU kernels in Rust](https://github.com/nvlabs/cutile-rs)
-- [Frood, an Alpine Initramfs NAS &lpar;2024&rpar;](https://words.filippo.io/frood/)
-- [Apple is about to make Hide My Email useless](https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless/)
-- [GPT‑NL: a sovereign language model for the Netherlands](https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/)
+- [I Hate Compilers](https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/)
+- [SteamOS Linux 3.8 released as stable](https://store.steampowered.com/news/app/1675200/view/697641379212298072)
+- [Nim Conf 2026 &lpar;Online, Sat June 20&rpar;](https://conf.nim-lang.org/)
+- [Apple boss Tim Cook says prices to rise due to memory chip costs](https://www.bbc.com/news/articles/c3wyxvqdx1zo)
+- [Local Qwen isn&#39;t a worse Opus, it&#39;s a different tool](https://blog.alexellis.io/local-ai-is-not-opus/)
+- [[x86] AI Compute Extensions &lpar;ACE&rpar; Specification](https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/)
+- [Midjourney Medical](https://www.midjourney.com/medical/blogpost)
+- [Taxonomy of the Occlupanida &lpar;parasitoids on bread bag tags&rpar;](https://www.horg.com/horg/?page_id=921)
+- [Clojure Hosted on Go](https://github.com/glojurelang/glojure)
+- [Storied Colors – a catalogue of named colors](https://storiedcolors.com/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

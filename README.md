@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Bank of England expected to leave interest rates on hold; UK unemployment falls – business live](https://www.theguardian.com/business/live/2026/jun/18/bank-of-england-interest-rates-uk-unemployment-wages-oil-price-stock-markets-latest-news-updates)
-- [UK unemployment rate falls to 4.9% and wages grow more than expected](https://www.theguardian.com/business/2026/jun/18/uk-unemployment-rate-falls-wages-interest-rates-iran-war)
-- [Mexico military brings down ‘unfortunate’ drone near South Korea World Cup training camp](https://www.theguardian.com/football/2026/jun/18/mexico-south-korea-drone-training-world-cup-2026)
-- [As Spielberg confirms whether ET was ‘slimy or dry’, we enter a new age of the celebrity interview](https://www.theguardian.com/film/2026/jun/18/steven-spielberg-et-was-moist-but-never-slimy)
-- [Here’s something London can be envious of: when New York parties, it really parties | Emma Brockes](https://www.theguardian.com/commentisfree/2026/jun/18/new-york-knicks-celebrations-arsenal-london)
-- [Fotofestiwal: the international festival of photography in Łódź – in pictures](https://www.theguardian.com/artanddesign/gallery/2026/jun/18/fotofestiwal-the-international-festival-of-photography-in-odz-in-pictures)
-- [La Cabina/El Televisor review – horror and anxiety on the air and down the line in Franco’s Spain](https://www.theguardian.com/film/2026/jun/18/la-cabina-el-televisor-review-horror-on-the-air-and-down-the-line-in-francos-spain)
-- [Pink flamingos and shimmering lemon groves: exploring Sicily’s Vendicari nature reserve](https://www.theguardian.com/travel/2026/jun/18/sicily-italy-vendicari-nature-reserve-wetland-birds)
-- [A Little Bit Bad by Cassandra Neyenesch review – a sparkling, subversive debut](https://www.theguardian.com/books/2026/jun/18/a-little-bit-bad-by-cassandra-neyenesch-review-a-sparkling-subversive-debut)
-- [Should my husband stop letting our kids climb over our neighbour’s fence to get their ball back?](https://www.theguardian.com/lifeandstyle/2026/jun/18/should-my-husband-stop-letting-kids-climb-over-neighbours-fence-get-ball-back)
+- [Makerfield byelection: Burnham’s decisive win intensifies pressure on Starmer to step aside – UK politics live](https://www.theguardian.com/politics/live/2026/jun/18/makerfield-byelection-keir-starmer-andy-burnham-robert-kenyon-labour-leadership-reform-aberdeen-arbroath-uk-politics-latest-news-updates)
+- [US-Iran talks in Switzerland abruptly called off, as Israel and Hezbollah trade attacks in Lebanon](https://www.theguardian.com/world/2026/jun/19/us-iran-talks-in-switzerland-cancelled)
+- [UK borrows more than expected as impact of Iran war takes toll](https://www.theguardian.com/business/2026/jun/19/uk-borrows-more-than-expected-as-impact-of-iran-war-takes-toll)
+- [How quickly could Andy Burnham become the UK’s prime minister?](https://www.theguardian.com/politics/2026/jun/17/how-quickly-could-andy-burnham-become-the-uks-prime-minister)
+- [This major Makerfield victory has made it inevitable: it’s now time for Keir Starmer to step aside | Neal Lawson](https://www.theguardian.com/commentisfree/2026/jun/19/makerfield-byelection-victory-keir-starmer-andy-burnham-reform)
+- [‘I’m 90 for goodness sake’: rainforest activist to pedal 104 miles down Thames](https://www.theguardian.com/environment/2026/jun/19/rainforest-activist-pedal-104-miles-thames)
+- [Elgar and Dvořák: Cello Concertos album review – Gerhardt’s readings are forthright, refreshing and thoughtful](https://www.theguardian.com/music/2026/jun/19/elgar-and-dvorak-cello-concertos-album-review-gerhardt)
+- [MPs urge Fujitsu to make ‘immediate’ payment to Post Office Horizon victims](https://www.theguardian.com/uk-news/2026/jun/19/fujitsu-immediate-payment-post-office-horizon-victims)
+- [Telegram questioned by Ofcom after arsonist who targeted Starmer-linked properties recruited on app](https://www.theguardian.com/technology/2026/jun/19/telegram-ofcom-arsonist-starmer-linked-properties)
+- [My trip to meet the scientists trying to refreeze the Arctic](https://www.theguardian.com/environment/2026/jun/19/scientists-refreeze-arctic-melting-sea-ice)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

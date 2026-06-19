@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [I Hate Compilers](https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/)
-- [SteamOS Linux 3.8 released as stable](https://store.steampowered.com/news/app/1675200/view/697641379212298072)
-- [Nim Conf 2026 &lpar;Online, Sat June 20&rpar;](https://conf.nim-lang.org/)
-- [Apple boss Tim Cook says prices to rise due to memory chip costs](https://www.bbc.com/news/articles/c3wyxvqdx1zo)
-- [Local Qwen isn&#39;t a worse Opus, it&#39;s a different tool](https://blog.alexellis.io/local-ai-is-not-opus/)
-- [[x86] AI Compute Extensions &lpar;ACE&rpar; Specification](https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/)
-- [Midjourney Medical](https://www.midjourney.com/medical/blogpost)
-- [Taxonomy of the Occlupanida &lpar;parasitoids on bread bag tags&rpar;](https://www.horg.com/horg/?page_id=921)
-- [Clojure Hosted on Go](https://github.com/glojurelang/glojure)
-- [Storied Colors – a catalogue of named colors](https://storiedcolors.com/)
+- [So You Want to Define a Well-Known URI](https://mnot.net/blog/2026/well_known_uris)
+- [DARPA Heavy Life Challenge](https://www.darpa.mil/research/challenges/lift)
+- [Many Let&#39;s Encrypt renewals had errors today](https://letsencrypt.status.io/#2026)
+- [Ice water drowning survival of young patient &lpar;2025&rpar;](https://www.jacc.org/doi/10.1016/j.jaccas.2025.104885)
+- [Datasette Apps: Host custom HTML applications inside Datasette](https://simonwillison.net/2026/Jun/18/datasette-apps/)
+- [Flexport &lpar;YC W14&rpar; Is Hiring in Indonesia, India, and Thailand](https://www.flexport.com/company/careers/)
+- [Zero-Touch OAuth for MCP](https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/)
+- [Show HN: Are You in the Weights?](https://www.intheweights.com/)
+- [Zork name origin got an update on Wikipedia](https://www.dpolakovic.space/blogs/zork-part2#update)
+- [I told them forced consent was unlawful. 5 years later it cost Elkjop €1.8M](https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

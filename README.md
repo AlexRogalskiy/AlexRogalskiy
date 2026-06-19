@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [An open-source AI just beat OpenAI&#39;s GPT-5.5 at coding &lpar;1/6th the price&rpar;](https://docs.z.ai/guides/llm/glm-5.2)
-- [GLM 5.2 playing text adventures](https://entropicthoughts.com/glm-5-2-playing-text-adventures)
-- [An Open Source Implementation of Notebook LM](https://github.com/lfnovo/open-notebook)
-- [Explaining Attention with Program Synthesis](https://arxiv.org/abs/2606.19317)
-- [Data Viz and Table Design from the Letterpress Era](https://chris-parmer.com/data-viz-from-the-letterpress-era/)
-- [Estimate and pay your Q2 taxes](https://www.kip-ai.com/estimate)
-- [Does Your Programming Language Ever Surprise You in a Good Way?](https://donraab.medium.com/does-your-programming-language-ever-surprise-you-in-a-good-way-eb29e1eba8d3)
-- [The Australian Government to Require SMS/MMS Sender ID Registraion](https://www.acma.gov.au/sms-sender-id-register)
-- [How to Become a Person After Smartphones Have Rotted Your Brain](https://www.thenewatlantis.com/publications/how-to-become-a-person-after-smartphones-have-rotted-your-brain)
-- [Six months of AI in 2026, and a whole lot of noise](https://jatniel.dev/en/bytes/six-months-of-ai-in-2026-and-a-whole-lot-of-noise)
+- [Someone Built a Kleopatra Alternative for PGP](https://github.com/developaaah/pgp-manager)
+- [Claude Code and Codex as one pipeline](https://www.unsiloed.ai/blog/guides/claude-code-codex-one-pipeline)
+- [Ask HN: Is Google&#39;s AI Mode and AI summaries now gone for everyone in EU?](https://news.ycombinator.com/item?id=48595587)
+- [Roar &lpar;1981 Film&rpar;](https://en.wikipedia.org/wiki/Roar_(film))
+- [Microsoft discovers new lightweight backdoor that steals cryptocurrency](https://www.techsentiments.com/article/2026/06/18/microsoft-discovers-new-lightweight-backdoor-that-steals-cryptocurrency-8268)
+- [Ask HN: Please recommend sci-fi books similar to &quot;children of time&quot; or &quot;anathem&quot;](https://news.ycombinator.com/item?id=48595560)
+- [Every independent nation should work on three things](https://news.ycombinator.com/item?id=48595558)
+- [Refund: A farce in one act by Frigyes Karinthy](http://rafiq-lis.blogspot.com/2013/02/the-refund-hilarious-literary-play.html)
+- [My suitcase robot gets high off a real gas sensor wired into the LLM sampler](https://old.reddit.com/r/LocalLLaMA/comments/1u9a17y/my_suitcase_robot_gets_high_now_off_a_real_gas/)
+- [Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28](https://www.jvm-weekly.com/p/project-valhalla-explained-how-a)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

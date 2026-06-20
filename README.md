@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [So You Want to Define a Well-Known URI](https://mnot.net/blog/2026/well_known_uris)
-- [DARPA Heavy Life Challenge](https://www.darpa.mil/research/challenges/lift)
-- [Many Let&#39;s Encrypt renewals had errors today](https://letsencrypt.status.io/#2026)
-- [Ice water drowning survival of young patient &lpar;2025&rpar;](https://www.jacc.org/doi/10.1016/j.jaccas.2025.104885)
-- [Datasette Apps: Host custom HTML applications inside Datasette](https://simonwillison.net/2026/Jun/18/datasette-apps/)
-- [Flexport &lpar;YC W14&rpar; Is Hiring in Indonesia, India, and Thailand](https://www.flexport.com/company/careers/)
-- [Zero-Touch OAuth for MCP](https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/)
-- [Show HN: Are You in the Weights?](https://www.intheweights.com/)
-- [Zork name origin got an update on Wikipedia](https://www.dpolakovic.space/blogs/zork-part2#update)
-- [I told them forced consent was unlawful. 5 years later it cost Elkjop €1.8M](https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/)
+- [I Stored a Website in a Favicon](https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/)
+- [Satellite reveals immense scale of GPS signal tampering](https://www.space.com/space-exploration/satellites/its-quite-a-bit-more-than-we-expected-satellite-reveals-immense-scale-of-gps-signal-tampering)
+- [How to feed a dictator](https://www.theguardian.com/film/2026/jun/09/how-to-feed-a-dictator-film)
+- [Hey, n00b, we didn&#39;t hire you to complete tasks](https://newsletter.kentbeck.com/p/hey-n00b-we-didnt-hire-you-to-complete)
+- [Ask HN: Will programmers write more efficient code during the memory shortage?](https://news.ycombinator.com/item?id=48604232)
+- [Surprising economics of load-balanced systems](https://brooker.co.za/blog/2020/08/06/erlang.html)
+- [Think of the children: How to force real ID for all internet traffic &lpar;2023&rpar;](https://nochan.net/b/Internet-Crap/20230829-Think-Of-The-Children/)
+- [Bobby Prince, composer for Doom, Wolfenstein 3D, and Duke Nukem 3D, has died](https://www.legacy.com/legacy/robert-bobby-prince-lll)
+- [Big Banana Car](https://bigbananacar.com/)
+- [John Jumper to join Anthropic](https://twitter.com/JohnJumperSci/status/2068001285173834106)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

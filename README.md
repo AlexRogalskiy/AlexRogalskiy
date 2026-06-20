@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Someone Built a Kleopatra Alternative for PGP](https://github.com/developaaah/pgp-manager)
-- [Claude Code and Codex as one pipeline](https://www.unsiloed.ai/blog/guides/claude-code-codex-one-pipeline)
-- [Ask HN: Is Google&#39;s AI Mode and AI summaries now gone for everyone in EU?](https://news.ycombinator.com/item?id=48595587)
-- [Roar &lpar;1981 Film&rpar;](https://en.wikipedia.org/wiki/Roar_(film))
-- [Microsoft discovers new lightweight backdoor that steals cryptocurrency](https://www.techsentiments.com/article/2026/06/18/microsoft-discovers-new-lightweight-backdoor-that-steals-cryptocurrency-8268)
-- [Ask HN: Please recommend sci-fi books similar to &quot;children of time&quot; or &quot;anathem&quot;](https://news.ycombinator.com/item?id=48595560)
-- [Every independent nation should work on three things](https://news.ycombinator.com/item?id=48595558)
-- [Refund: A farce in one act by Frigyes Karinthy](http://rafiq-lis.blogspot.com/2013/02/the-refund-hilarious-literary-play.html)
-- [My suitcase robot gets high off a real gas sensor wired into the LLM sampler](https://old.reddit.com/r/LocalLLaMA/comments/1u9a17y/my_suitcase_robot_gets_high_now_off_a_real_gas/)
-- [Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28](https://www.jvm-weekly.com/p/project-valhalla-explained-how-a)
+- [Ask HN: Using OPA/Rego to secure MCP tool execution. Does it make sense?](https://news.ycombinator.com/item?id=48606728)
+- [Show HN: AI Voice Generator for Creators](https://speakora.io/)
+- [I made SHORT SQUEEZE, a finance movie trailer created with AI](https://www.instagram.com/reel/DZy5nOKN7Pz/)
+- [Mastodon 4.6 Released](https://lwn.net/Articles/1078466/)
+- [Voxtral Realtime WebGPU – A Hugging Face Space by Mistralai](https://huggingface.co/spaces/mistralai/Voxtral-Realtime-WebGPU)
+- [Release 4.0.0 · HuggingFace/Transformers.js](https://github.com/huggingface/transformers.js/releases/tag/4.0.0)
+- [Big tech engineers need big egos](https://www.seangoedecke.com/big-tech-needs-big-egos/)
+- [Lisp in the Rust Type System](https://github.com/playX18/lisp-in-types/)
+- [Bevy 0.19](https://bevy.org/news/bevy-0-19/)
+- [Before SpaceX IPO, Investors in China Acquired Stakes](https://www.propublica.org/article/spacex-elon-musk-ipo-foreign-investors-china)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

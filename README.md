@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Makerfield byelection: Burnham’s decisive win intensifies pressure on Starmer to step aside – UK politics live](https://www.theguardian.com/politics/live/2026/jun/18/makerfield-byelection-keir-starmer-andy-burnham-robert-kenyon-labour-leadership-reform-aberdeen-arbroath-uk-politics-latest-news-updates)
-- [US-Iran talks in Switzerland abruptly called off, as Israel and Hezbollah trade attacks in Lebanon](https://www.theguardian.com/world/2026/jun/19/us-iran-talks-in-switzerland-cancelled)
-- [UK borrows more than expected as impact of Iran war takes toll](https://www.theguardian.com/business/2026/jun/19/uk-borrows-more-than-expected-as-impact-of-iran-war-takes-toll)
-- [How quickly could Andy Burnham become the UK’s prime minister?](https://www.theguardian.com/politics/2026/jun/17/how-quickly-could-andy-burnham-become-the-uks-prime-minister)
-- [This major Makerfield victory has made it inevitable: it’s now time for Keir Starmer to step aside | Neal Lawson](https://www.theguardian.com/commentisfree/2026/jun/19/makerfield-byelection-victory-keir-starmer-andy-burnham-reform)
-- [‘I’m 90 for goodness sake’: rainforest activist to pedal 104 miles down Thames](https://www.theguardian.com/environment/2026/jun/19/rainforest-activist-pedal-104-miles-thames)
-- [Elgar and Dvořák: Cello Concertos album review – Gerhardt’s readings are forthright, refreshing and thoughtful](https://www.theguardian.com/music/2026/jun/19/elgar-and-dvorak-cello-concertos-album-review-gerhardt)
-- [MPs urge Fujitsu to make ‘immediate’ payment to Post Office Horizon victims](https://www.theguardian.com/uk-news/2026/jun/19/fujitsu-immediate-payment-post-office-horizon-victims)
-- [Telegram questioned by Ofcom after arsonist who targeted Starmer-linked properties recruited on app](https://www.theguardian.com/technology/2026/jun/19/telegram-ofcom-arsonist-starmer-linked-properties)
-- [My trip to meet the scientists trying to refreeze the Arctic](https://www.theguardian.com/environment/2026/jun/19/scientists-refreeze-arctic-melting-sea-ice)
+- [‘Within 10 mins, Andy had nicked it’: illustrator on his ubiquitous image of Andy Burnham](https://www.theguardian.com/politics/2026/jun/20/stanley-chow-andy-burnham-illustration)
+- [David Guetta and Sia’s song Titanium got me through my fertility treatment](https://www.theguardian.com/culture/2026/jun/20/my-cultural-awakening-david-guetta-sia-titanium-fertility-treatment)
+- [‘It’s Russian roulette’: alarm as Europe backs critical minerals mines in water-stressed regions](https://www.theguardian.com/environment/2026/jun/20/europe-backs-critical-minerals-mines-water-stressed-regions)
+- [Great British summer savings: grab family deals on days out, films and more](https://www.theguardian.com/money/2026/jun/20/great-british-summer-savings-scheme-family-deals-films-vat-cut)
+- [Who warned of ‘climate instability’ in 1988? The Saturday quiz](https://www.theguardian.com/lifeandstyle/2026/jun/20/who-warned-of-climate-instability-in-1988-the-saturday-quiz)
+- [SUV buyers undeterred by warnings of risk to pedestrians, UK study finds](https://www.theguardian.com/world/2026/jun/20/suv-risks-warnings-road-safety-buyers-uk-study)
+- [Andy Burnham has shown that he can win. But can he govern Britain? | Gaby Hinsliff](https://www.theguardian.com/commentisfree/2026/jun/20/andy-burnham-britain-makerfield-mp)
+- [Tory byelection victory gives Badenoch vital evidence to justify abandoning net zero](https://www.theguardian.com/politics/2026/jun/20/tory-byelection-victory-gives-badenoch-vital-evidence-to-justify-abandoning-net-zero)
+- [Would You Rather: Decide to Survive – Romesh Ranganathan’s gameshow is so low-effort it’s almost avant garde](https://www.theguardian.com/tv-and-radio/2026/jun/20/would-you-rather-decide-to-survive-romesh-ranganathans-gameshow-is-so-low-effort-its-almost-avant-garde)
+- [Ten-man Paraguay hang on to seal World Cup win and send Turkey to early exit](https://www.theguardian.com/football/2026/jun/20/turkey-paraguay-world-cup-2026-group-d-match-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

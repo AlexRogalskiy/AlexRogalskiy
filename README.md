@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [‘Within 10 mins, Andy had nicked it’: illustrator on his ubiquitous image of Andy Burnham](https://www.theguardian.com/politics/2026/jun/20/stanley-chow-andy-burnham-illustration)
-- [David Guetta and Sia’s song Titanium got me through my fertility treatment](https://www.theguardian.com/culture/2026/jun/20/my-cultural-awakening-david-guetta-sia-titanium-fertility-treatment)
-- [‘It’s Russian roulette’: alarm as Europe backs critical minerals mines in water-stressed regions](https://www.theguardian.com/environment/2026/jun/20/europe-backs-critical-minerals-mines-water-stressed-regions)
-- [Great British summer savings: grab family deals on days out, films and more](https://www.theguardian.com/money/2026/jun/20/great-british-summer-savings-scheme-family-deals-films-vat-cut)
-- [Who warned of ‘climate instability’ in 1988? The Saturday quiz](https://www.theguardian.com/lifeandstyle/2026/jun/20/who-warned-of-climate-instability-in-1988-the-saturday-quiz)
-- [SUV buyers undeterred by warnings of risk to pedestrians, UK study finds](https://www.theguardian.com/world/2026/jun/20/suv-risks-warnings-road-safety-buyers-uk-study)
-- [Andy Burnham has shown that he can win. But can he govern Britain? | Gaby Hinsliff](https://www.theguardian.com/commentisfree/2026/jun/20/andy-burnham-britain-makerfield-mp)
-- [Tory byelection victory gives Badenoch vital evidence to justify abandoning net zero](https://www.theguardian.com/politics/2026/jun/20/tory-byelection-victory-gives-badenoch-vital-evidence-to-justify-abandoning-net-zero)
-- [Would You Rather: Decide to Survive – Romesh Ranganathan’s gameshow is so low-effort it’s almost avant garde](https://www.theguardian.com/tv-and-radio/2026/jun/20/would-you-rather-decide-to-survive-romesh-ranganathans-gameshow-is-so-low-effort-its-almost-avant-garde)
-- [Ten-man Paraguay hang on to seal World Cup win and send Turkey to early exit](https://www.theguardian.com/football/2026/jun/20/turkey-paraguay-world-cup-2026-group-d-match-report)
+- [Ukraine war briefing: Drones strike Russia’s Tyumen oil refinery 2,000km away, says Zelenskyy](https://www.theguardian.com/world/2026/jun/21/ukraine-war-briefing-drones-strike-russia-tyumen-oil-refinery-2000km-away-says-zelenskyy)
+- [Ueda inspires Japan to eliminate Tunisia in landmark 1,000th World Cup match](https://www.theguardian.com/football/2026/jun/21/japan-tunisia-world-cup-group-f-match-report)
+- [‘Build Vice City’: the GTA 6 scam that’s hitting Grand Theft Auto fans](https://www.theguardian.com/money/2026/jun/21/gta-6-grand-theft-auto-vi-beta-test-pre-release-scams-fake)
+- [Chic and cheerful: 15 hotels for affordable European glamour](https://www.theguardian.com/travel/2026/jun/21/15-hotels-affordable-european-glamour-greece-spain-france-portugal-italy)
+- [Brands using AI-generated influencers to promote products on social media](https://www.theguardian.com/technology/2026/jun/21/brands-using-ai-generated-influencers-to-promote-products-on-social-media)
+- [From the US-Mexico border to protests in Poland: highlights of PhotoEspaña 2026](https://www.theguardian.com/artanddesign/2026/jun/21/us-mexico-border-protests-poland-highlights-photoespana-2026-spain)
+- [I always take my Dad’s advice – and do the opposite | Jillian Pretzel](https://www.theguardian.com/commentisfree/2026/jun/20/fathers-advice-parenthood)
+- [Trump may survive the humiliation of the Iran deal. Netanyahu will not | Simon Tisdall](https://www.theguardian.com/commentisfree/2026/jun/21/donald-trump-iran-deal-benjamin-netanyahu-israel-pm-iran)
+- [Film producer’s 50 firms struck off companies register, leaving workers unable to chase fees](https://www.theguardian.com/film/2026/jun/21/film-producer-firms-companies-register-alan-latham)
+- [TV tonight: Free Nelson Mandela is unmissable TV](https://www.theguardian.com/tv-and-radio/2026/jun/21/tv-tonight-free-nelson-mandela-is-unmissable-tv)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

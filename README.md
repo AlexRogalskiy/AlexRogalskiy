@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ask HN: Using OPA/Rego to secure MCP tool execution. Does it make sense?](https://news.ycombinator.com/item?id=48606728)
-- [Show HN: AI Voice Generator for Creators](https://speakora.io/)
-- [I made SHORT SQUEEZE, a finance movie trailer created with AI](https://www.instagram.com/reel/DZy5nOKN7Pz/)
-- [Mastodon 4.6 Released](https://lwn.net/Articles/1078466/)
-- [Voxtral Realtime WebGPU – A Hugging Face Space by Mistralai](https://huggingface.co/spaces/mistralai/Voxtral-Realtime-WebGPU)
-- [Release 4.0.0 · HuggingFace/Transformers.js](https://github.com/huggingface/transformers.js/releases/tag/4.0.0)
-- [Big tech engineers need big egos](https://www.seangoedecke.com/big-tech-needs-big-egos/)
-- [Lisp in the Rust Type System](https://github.com/playX18/lisp-in-types/)
-- [Bevy 0.19](https://bevy.org/news/bevy-0-19/)
-- [Before SpaceX IPO, Investors in China Acquired Stakes](https://www.propublica.org/article/spacex-elon-musk-ipo-foreign-investors-china)
+- [Asked ChatGPT to disable the copy.fail module, it enabled it instead](https://chatgpt.com/share/6a37877e-73c8-83e9-bd53-28bd136fc259)
+- [The Wonderful Walkabouts of Harmen Hoek](https://jeffpolman.com/2024/04/30/the-wonderful-walkabouts-of-harmen-hoek/)
+- [Europeans should learn to love the air conditioner](https://www.economist.com/europe/2026/06/18/europeans-should-learn-to-love-the-air-conditioner)
+- [&quot;My Way&quot; Killings](https://en.wikipedia.org/wiki/My_Way_killings)
+- [Show HN: Domvault – self-hostable second brain with consent-based note sharing](https://github.com/dys5315/domvault)
+- [Show HN: Pyor – A desktop PR reviewer for the diffs GitHub chokes on](https://news.ycombinator.com/item?id=48616239)
+- [Show HN: Notedog – Git-friendly portable Markdown journal, edit from a laptop](https://notedog.run/)
+- [Show HN: Quikdown – 17 KB bidirectional Markdown parser and rich-fence editor](https://github.com/deftio/quikdown)
+- [Now that your newsletter is AI-generated, I&#39;ve Unsubscribed](https://idiallo.com/blog/unsubscribed-from-ai-generated-newsletters)
+- [All 4,582 abhangs of Sant Tukaram, translated and theme-mapped with AI](https://sant.ajinkya.ai/tukaram)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

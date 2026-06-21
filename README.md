@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [I Stored a Website in a Favicon](https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/)
-- [Satellite reveals immense scale of GPS signal tampering](https://www.space.com/space-exploration/satellites/its-quite-a-bit-more-than-we-expected-satellite-reveals-immense-scale-of-gps-signal-tampering)
-- [How to feed a dictator](https://www.theguardian.com/film/2026/jun/09/how-to-feed-a-dictator-film)
-- [Hey, n00b, we didn&#39;t hire you to complete tasks](https://newsletter.kentbeck.com/p/hey-n00b-we-didnt-hire-you-to-complete)
-- [Ask HN: Will programmers write more efficient code during the memory shortage?](https://news.ycombinator.com/item?id=48604232)
-- [Surprising economics of load-balanced systems](https://brooker.co.za/blog/2020/08/06/erlang.html)
-- [Think of the children: How to force real ID for all internet traffic &lpar;2023&rpar;](https://nochan.net/b/Internet-Crap/20230829-Think-Of-The-Children/)
-- [Bobby Prince, composer for Doom, Wolfenstein 3D, and Duke Nukem 3D, has died](https://www.legacy.com/legacy/robert-bobby-prince-lll)
-- [Big Banana Car](https://bigbananacar.com/)
-- [John Jumper to join Anthropic](https://twitter.com/JohnJumperSci/status/2068001285173834106)
+- [The 100k Whys of AI](https://lcamtuf.substack.com/p/the-100000-whys-of-ai)
+- [The Lost Story of Alan Turing&#39;s &quot;Delilah&quot; Project](https://spectrum.ieee.org/alan-turings-delilah)
+- [Building reliable agentic AI systems](https://martinfowler.com/articles/reliable-llm-bayer.html)
+- [Your brain was never designed for this much bad news](https://www.sciencedaily.com/releases/2026/06/260614012006.htm)
+- [Armstrong Effect](https://en.wikipedia.org/wiki/Armstrong_effect)
+- [Developers don&#39;t understand CORS &lpar;2019&rpar;](https://fosterelli.co/developers-dont-understand-cors)
+- [When I reject AI code even if it works](https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/)
+- [Project Fetch: Phase Two](https://www.anthropic.com/research/project-fetch-phase-two)
+- [Epoll vs. io_uring in Linux](https://sibexi.co/posts/epoll-vs-io_uring/)
+- [Renting a sewing machine from the library](https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

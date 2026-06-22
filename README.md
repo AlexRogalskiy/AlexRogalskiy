@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Asked ChatGPT to disable the copy.fail module, it enabled it instead](https://chatgpt.com/share/6a37877e-73c8-83e9-bd53-28bd136fc259)
-- [The Wonderful Walkabouts of Harmen Hoek](https://jeffpolman.com/2024/04/30/the-wonderful-walkabouts-of-harmen-hoek/)
-- [Europeans should learn to love the air conditioner](https://www.economist.com/europe/2026/06/18/europeans-should-learn-to-love-the-air-conditioner)
-- [&quot;My Way&quot; Killings](https://en.wikipedia.org/wiki/My_Way_killings)
-- [Show HN: Domvault – self-hostable second brain with consent-based note sharing](https://github.com/dys5315/domvault)
-- [Show HN: Pyor – A desktop PR reviewer for the diffs GitHub chokes on](https://news.ycombinator.com/item?id=48616239)
-- [Show HN: Notedog – Git-friendly portable Markdown journal, edit from a laptop](https://notedog.run/)
-- [Show HN: Quikdown – 17 KB bidirectional Markdown parser and rich-fence editor](https://github.com/deftio/quikdown)
-- [Now that your newsletter is AI-generated, I&#39;ve Unsubscribed](https://idiallo.com/blog/unsubscribed-from-ai-generated-newsletters)
-- [All 4,582 abhangs of Sant Tukaram, translated and theme-mapped with AI](https://sant.ajinkya.ai/tukaram)
+- [Should I change my writing style to shorts, because of AI/low attention span?](https://www.ssp.sh/brain/should-i-change-my-writing-because-of-ai/)
+- [On the Skin-Furrows of the Hand &lpar;1880&rpar; [pdf]](https://galton.org/fingerprints/faulds-1880-nature-furrows.pdf)
+- [Horsewood Reviews Reddit Is It a Breakthrough or Just Marketing?](https://finance.yahoo.com/sectors/healthcare/articles/horsewood-urgent-report-2026-horse-191100383.html)
+- [Show HN: Posting Machine – two of us running LinkedIn for 20 B2B founders](https://www.postingmachine.ai)
+- [P99 0ms* autocomplete for 240M domain names](https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names)
+- [If You&#39;re Searching for a New Skillet, Consider Stainless Steel](https://www.wired.com/story/stainless-steel-skillets-are-great/)
+- [Bain tests software takeover targets by vibecoding AI replicas](https://www.ft.com/content/e5bac4d1-b1f8-43a4-bd54-b182d5357af0)
+- [Why More Cores Stopped Saving Us](https://www.jonathanbeard.io/blog/2026/06/19/more-cores-stopped-saving-us.html)
+- [Ask HN: Can&#39;t Create an Account](https://news.ycombinator.com/item?id=48626691)
+- [Why the iPhone Will Fail &lpar;2007&rpar;](https://www.engadget.com/2007-06-27-why-the-iphone-will-fail.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

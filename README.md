@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The 100k Whys of AI](https://lcamtuf.substack.com/p/the-100000-whys-of-ai)
-- [The Lost Story of Alan Turing&#39;s &quot;Delilah&quot; Project](https://spectrum.ieee.org/alan-turings-delilah)
-- [Building reliable agentic AI systems](https://martinfowler.com/articles/reliable-llm-bayer.html)
-- [Your brain was never designed for this much bad news](https://www.sciencedaily.com/releases/2026/06/260614012006.htm)
-- [Armstrong Effect](https://en.wikipedia.org/wiki/Armstrong_effect)
-- [Developers don&#39;t understand CORS &lpar;2019&rpar;](https://fosterelli.co/developers-dont-understand-cors)
-- [When I reject AI code even if it works](https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/)
-- [Project Fetch: Phase Two](https://www.anthropic.com/research/project-fetch-phase-two)
-- [Epoll vs. io_uring in Linux](https://sibexi.co/posts/epoll-vs-io_uring/)
-- [Renting a sewing machine from the library](https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland)
+- [Deno Desktop](https://docs.deno.com/runtime/desktop/)
+- [Danish privacy activist Lars Andersen raided by police](https://twitter.com/LarsAnders1620/status/2068208864747540516#m)
+- [Sakana Fugu](https://sakana.ai/fugu/)
+- [1983 Northern Telecom Commodore Phone](https://www.oldtelephoneroom.ca/1983-northern-telecom-commodore-phone/)
+- [Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions](https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions)
+- [Japanese verb conjugation the simple hard way](https://underreacted.leaflet.pub/3mmevu6woys27)
+- [Rent collections are down in New York](https://www.politico.com/news/2026/06/21/rent-collections-are-down-in-new-york-and-no-ones-sure-why-00966982)
+- [Did my old job only exist because of fraud?](https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/)
+- [FDA advisors unanimously vote to approve Moderna&#39;s mRNA after agency drama](https://arstechnica.com/health/2026/06/fda-advisors-unanimously-vote-to-approve-modernas-mrna-after-agency-drama/)
+- [Apertus – Open Foundation Model for Sovereign AI](https://apertvs.ai/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

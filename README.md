@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine war briefing: Drones strike Russia’s Tyumen oil refinery 2,000km away, says Zelenskyy](https://www.theguardian.com/world/2026/jun/21/ukraine-war-briefing-drones-strike-russia-tyumen-oil-refinery-2000km-away-says-zelenskyy)
-- [Ueda inspires Japan to eliminate Tunisia in landmark 1,000th World Cup match](https://www.theguardian.com/football/2026/jun/21/japan-tunisia-world-cup-group-f-match-report)
-- [‘Build Vice City’: the GTA 6 scam that’s hitting Grand Theft Auto fans](https://www.theguardian.com/money/2026/jun/21/gta-6-grand-theft-auto-vi-beta-test-pre-release-scams-fake)
-- [Chic and cheerful: 15 hotels for affordable European glamour](https://www.theguardian.com/travel/2026/jun/21/15-hotels-affordable-european-glamour-greece-spain-france-portugal-italy)
-- [Brands using AI-generated influencers to promote products on social media](https://www.theguardian.com/technology/2026/jun/21/brands-using-ai-generated-influencers-to-promote-products-on-social-media)
-- [From the US-Mexico border to protests in Poland: highlights of PhotoEspaña 2026](https://www.theguardian.com/artanddesign/2026/jun/21/us-mexico-border-protests-poland-highlights-photoespana-2026-spain)
-- [I always take my Dad’s advice – and do the opposite | Jillian Pretzel](https://www.theguardian.com/commentisfree/2026/jun/20/fathers-advice-parenthood)
-- [Trump may survive the humiliation of the Iran deal. Netanyahu will not | Simon Tisdall](https://www.theguardian.com/commentisfree/2026/jun/21/donald-trump-iran-deal-benjamin-netanyahu-israel-pm-iran)
-- [Film producer’s 50 firms struck off companies register, leaving workers unable to chase fees](https://www.theguardian.com/film/2026/jun/21/film-producer-firms-companies-register-alan-latham)
-- [TV tonight: Free Nelson Mandela is unmissable TV](https://www.theguardian.com/tv-and-radio/2026/jun/21/tv-tonight-free-nelson-mandela-is-unmissable-tv)
+- [Iran hails ‘progress’ as first day of talks with US conclude after shaky start](https://www.theguardian.com/world/2026/jun/22/iran-us-talks-progress-pakistan-qatar-lebanon-israel)
+- [Paris taxi scam cost £493 but Monzo won’t help me](https://www.theguardian.com/money/2026/jun/22/paris-taxi-scam-monzo-bank-money-chargeback)
+- [Is it true that … beards are unhygienic?](https://www.theguardian.com/lifeandstyle/2026/jun/22/is-it-true-that-beards-are-unhygienic)
+- [Report on Nottingham NHS maternity scandal to reveal ‘horrendous’ failings](https://www.theguardian.com/society/2026/jun/22/nottingham-nhs-maternity-scandal-ockenden-report)
+- [Don’t worry, a politician can’t present the Today programme. Michael Grade is wrong about that – and GB News | Stewart Purvis and Chris Banatvala](https://www.theguardian.com/commentisfree/2026/jun/22/politician-present-bbc-radio-4-today-programme-michael-grade-gb-news)
+- [Oil prices fall and stock markets rise as US-Iran peace talks progress – business live](https://www.theguardian.com/business/live/2026/jun/22/oil-prices-fall-stock-markets-rise-us-iran-peace-talks-trump-burnham-starmer-pound-ftse-hormuz-business-live)
+- [Keir Starmer expected to announce resignation timetable, paving way for Burnham premiership - UK politics live](https://www.theguardian.com/politics/live/2026/jun/22/keir-starmer-resignation-timeable-andy-burnham-labour-leadership-prime-minister-latest-news-updates)
+- [Cape Verde do it again and Lamine Yamal spurs on Spain | World Cup Daily](https://www.theguardian.com/football/video/2026/jun/22/cape-verde-do-it-again-and-lamine-yamal-spurs-on-spain-world-cup-daily)
+- [Can you solve it? Dotty data and silly sentences](https://www.theguardian.com/science/2026/jun/22/can-you-solve-it-dotty-data-and-silly-sentences)
+- [Brexit: how it has hit your wallet at the supermarket and on holiday](https://www.theguardian.com/money/2026/jun/22/brexit-supermarket-holiday-travel-prices-costs-eu-passports)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

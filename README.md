@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Should I change my writing style to shorts, because of AI/low attention span?](https://www.ssp.sh/brain/should-i-change-my-writing-because-of-ai/)
-- [On the Skin-Furrows of the Hand &lpar;1880&rpar; [pdf]](https://galton.org/fingerprints/faulds-1880-nature-furrows.pdf)
-- [Horsewood Reviews Reddit Is It a Breakthrough or Just Marketing?](https://finance.yahoo.com/sectors/healthcare/articles/horsewood-urgent-report-2026-horse-191100383.html)
-- [Show HN: Posting Machine – two of us running LinkedIn for 20 B2B founders](https://www.postingmachine.ai)
-- [P99 0ms* autocomplete for 240M domain names](https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names)
-- [If You&#39;re Searching for a New Skillet, Consider Stainless Steel](https://www.wired.com/story/stainless-steel-skillets-are-great/)
-- [Bain tests software takeover targets by vibecoding AI replicas](https://www.ft.com/content/e5bac4d1-b1f8-43a4-bd54-b182d5357af0)
-- [Why More Cores Stopped Saving Us](https://www.jonathanbeard.io/blog/2026/06/19/more-cores-stopped-saving-us.html)
-- [Ask HN: Can&#39;t Create an Account](https://news.ycombinator.com/item?id=48626691)
-- [Why the iPhone Will Fail &lpar;2007&rpar;](https://www.engadget.com/2007-06-27-why-the-iphone-will-fail.html)
+- [Tapered Language Models](https://arxiv.org/abs/2606.23670)
+- [Will AI Kill Taylor Swifts: The Rise of Ultra-Personalized Music](https://ryanspahn.substack.com/p/how-listening-to-only-ai-music-changes)
+- [DepsGuard – Hardens Package Manager](https://depsguard.com/)
+- [Show HN: Code Stitcher – The anti-agentic workflow](https://github.com/ue-patcher/code_stitcher/releases)
+- [C++ Lifetime-End Pointer-Zap and OOTA Progress](https://people.kernel.org/paulmck/c-pointer-zap-and-oota-progress)
+- [Ask HN: NIST Randomness Beacon Interruption?](https://news.ycombinator.com/item?id=48640773)
+- [AI is accelerating the exposure of the gap between people](https://jaketao.com/ai-divide-people)
+- [URL and HTML to Markdown API Optimized for LLMs](https://markdownify-monorepo.vercel.app/)
+- [Ask HN: Do you use web apps on your smartphone?](https://news.ycombinator.com/item?id=48640748)
+- [Desktop Commander MCP](https://github.com/wonderwhy-er/DesktopCommanderMCP)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Iran hails ‘progress’ as first day of talks with US conclude after shaky start](https://www.theguardian.com/world/2026/jun/22/iran-us-talks-progress-pakistan-qatar-lebanon-israel)
-- [Paris taxi scam cost £493 but Monzo won’t help me](https://www.theguardian.com/money/2026/jun/22/paris-taxi-scam-monzo-bank-money-chargeback)
-- [Is it true that … beards are unhygienic?](https://www.theguardian.com/lifeandstyle/2026/jun/22/is-it-true-that-beards-are-unhygienic)
-- [Report on Nottingham NHS maternity scandal to reveal ‘horrendous’ failings](https://www.theguardian.com/society/2026/jun/22/nottingham-nhs-maternity-scandal-ockenden-report)
-- [Don’t worry, a politician can’t present the Today programme. Michael Grade is wrong about that – and GB News | Stewart Purvis and Chris Banatvala](https://www.theguardian.com/commentisfree/2026/jun/22/politician-present-bbc-radio-4-today-programme-michael-grade-gb-news)
-- [Oil prices fall and stock markets rise as US-Iran peace talks progress – business live](https://www.theguardian.com/business/live/2026/jun/22/oil-prices-fall-stock-markets-rise-us-iran-peace-talks-trump-burnham-starmer-pound-ftse-hormuz-business-live)
-- [Keir Starmer expected to announce resignation timetable, paving way for Burnham premiership - UK politics live](https://www.theguardian.com/politics/live/2026/jun/22/keir-starmer-resignation-timeable-andy-burnham-labour-leadership-prime-minister-latest-news-updates)
-- [Cape Verde do it again and Lamine Yamal spurs on Spain | World Cup Daily](https://www.theguardian.com/football/video/2026/jun/22/cape-verde-do-it-again-and-lamine-yamal-spurs-on-spain-world-cup-daily)
-- [Can you solve it? Dotty data and silly sentences](https://www.theguardian.com/science/2026/jun/22/can-you-solve-it-dotty-data-and-silly-sentences)
-- [Brexit: how it has hit your wallet at the supermarket and on holiday](https://www.theguardian.com/money/2026/jun/22/brexit-supermarket-holiday-travel-prices-costs-eu-passports)
+- [Europe heatwave live: UK issues rare red temperature warnings; French PM to hold crisis meeting after heat deaths](https://www.theguardian.com/world/live/2026/jun/23/europe-heatwave-live-news-updates-uk-red-temperature-warnings-40-degrees-france-heat-deaths-crisis-meeting)
+- [Amine Gouiri pounces to give Algeria victory and condemn Jordan to early World Cup exit](https://www.theguardian.com/football/2026/jun/23/algeria-jordan-world-cup-group-j-match-report)
+- [Remembering summer 1976: how the historic heatwave has become our new normal](https://www.theguardian.com/uk-news/2026/jun/23/heatwave-1976-extreme-heat-climate-crisis-new-normal)
+- [‘I feel entirely vindicated’: three Guardian columnists debate Brexit and its legacy | Aditya Chakrabortty, Polly Toynbee and Simon Jenkins](https://www.theguardian.com/commentisfree/2026/jun/23/three-guardian-columnists-debate-brexit-legacy)
+- [Drug that delays onset of type 1 diabetes approved in England and Wales](https://www.theguardian.com/society/2026/jun/23/drug-that-delays-onset-of-type-1-diabetes-approved-in-england-and-wales)
+- [Pajeon and japchae: Joo Won’s recipes for Korean-style vegetarian starters](https://www.theguardian.com/food/2026/jun/23/pajeon-japchae-recipes-korean-style-vegetarian-starters-joo-won)
+- [Karl Stefanovic embraces UK far-right activist Tommy Robinson in video promoting podcast](https://www.theguardian.com/media/2026/jun/23/karl-stefanovic-uk-far-right-tommy-robinson-podcast-video-ntwnfb)
+- [‘Compound shock effect’: why the Middle East crisis and El Niño could spell disaster in south-east Asia](https://www.theguardian.com/environment/2026/jun/23/iran-war-oil-prices-hormuz-el-nino-south-east-asia-impact)
+- [‘Nightmare’ shooting in Montreal leaves three dead including police officer and bystander](https://www.theguardian.com/world/2026/jun/23/canada-montreal-shooting-gunman-three-killed-suspect-police-cote-des-neiges)
+- [‘Canaries in the coalmine of populism’: an oral history of the Brexit campaign, told by those with a front row seat](https://www.theguardian.com/politics/2026/jun/23/brexit-campaign-oral-history-front-row-seat)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

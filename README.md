@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Deno Desktop](https://docs.deno.com/runtime/desktop/)
-- [Danish privacy activist Lars Andersen raided by police](https://twitter.com/LarsAnders1620/status/2068208864747540516#m)
-- [Sakana Fugu](https://sakana.ai/fugu/)
-- [1983 Northern Telecom Commodore Phone](https://www.oldtelephoneroom.ca/1983-northern-telecom-commodore-phone/)
-- [Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions](https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions)
-- [Japanese verb conjugation the simple hard way](https://underreacted.leaflet.pub/3mmevu6woys27)
-- [Rent collections are down in New York](https://www.politico.com/news/2026/06/21/rent-collections-are-down-in-new-york-and-no-ones-sure-why-00966982)
-- [Did my old job only exist because of fraud?](https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/)
-- [FDA advisors unanimously vote to approve Moderna&#39;s mRNA after agency drama](https://arstechnica.com/health/2026/06/fda-advisors-unanimously-vote-to-approve-modernas-mrna-after-agency-drama/)
-- [Apertus – Open Foundation Model for Sovereign AI](https://apertvs.ai/)
+- [Will It Mythos?](https://swelljoe.com/post/will-it-mythos/)
+- [Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models](https://arxiv.org/abs/2606.03748)
+- [VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO](https://arxiv.org/abs/2606.16140)
+- [1,700 free online courses from top universities](https://www.openculture.com/freeonlinecourses)
+- [An Introduction to YOLO26](https://blog.roboflow.com/yolo26/)
+- [In praise of memcached](https://jchri.st/blog/in-praise-of-memcached/)
+- [GLM-5.2 – How to Run Locally](https://unsloth.ai/docs/models/glm-5.2)
+- [Kyber &lpar;YC W23&rpar; Is Hiring a Head of Engineering](https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering)
+- [Job application asked for my SAT scores](https://mrmarket.lol/job-application-asked-for-my-sat-scores/)
+- [Japanese symbols that speak without words](https://arun.is/blog/japan-symbols/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

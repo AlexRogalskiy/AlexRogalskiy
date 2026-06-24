@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Europe heatwave live: UK issues rare red temperature warnings; French PM to hold crisis meeting after heat deaths](https://www.theguardian.com/world/live/2026/jun/23/europe-heatwave-live-news-updates-uk-red-temperature-warnings-40-degrees-france-heat-deaths-crisis-meeting)
-- [Amine Gouiri pounces to give Algeria victory and condemn Jordan to early World Cup exit](https://www.theguardian.com/football/2026/jun/23/algeria-jordan-world-cup-group-j-match-report)
-- [Remembering summer 1976: how the historic heatwave has become our new normal](https://www.theguardian.com/uk-news/2026/jun/23/heatwave-1976-extreme-heat-climate-crisis-new-normal)
-- [‘I feel entirely vindicated’: three Guardian columnists debate Brexit and its legacy | Aditya Chakrabortty, Polly Toynbee and Simon Jenkins](https://www.theguardian.com/commentisfree/2026/jun/23/three-guardian-columnists-debate-brexit-legacy)
-- [Drug that delays onset of type 1 diabetes approved in England and Wales](https://www.theguardian.com/society/2026/jun/23/drug-that-delays-onset-of-type-1-diabetes-approved-in-england-and-wales)
-- [Pajeon and japchae: Joo Won’s recipes for Korean-style vegetarian starters](https://www.theguardian.com/food/2026/jun/23/pajeon-japchae-recipes-korean-style-vegetarian-starters-joo-won)
-- [Karl Stefanovic embraces UK far-right activist Tommy Robinson in video promoting podcast](https://www.theguardian.com/media/2026/jun/23/karl-stefanovic-uk-far-right-tommy-robinson-podcast-video-ntwnfb)
-- [‘Compound shock effect’: why the Middle East crisis and El Niño could spell disaster in south-east Asia](https://www.theguardian.com/environment/2026/jun/23/iran-war-oil-prices-hormuz-el-nino-south-east-asia-impact)
-- [‘Nightmare’ shooting in Montreal leaves three dead including police officer and bystander](https://www.theguardian.com/world/2026/jun/23/canada-montreal-shooting-gunman-three-killed-suspect-police-cote-des-neiges)
-- [‘Canaries in the coalmine of populism’: an oral history of the Brexit campaign, told by those with a front row seat](https://www.theguardian.com/politics/2026/jun/23/brexit-campaign-oral-history-front-row-seat)
+- [Europe heatwave live: UK braces for record-breaking temperatures; Italy issues red alert for 16 cities](https://www.theguardian.com/world/live/2026/jun/24/europe-heatwave-live-news-updates-uk-record-breaking-temperatures-italy-red-alert)
+- [‘A real difference’: how community hubs help local people fight rising living costs](https://www.theguardian.com/money/2026/jun/24/community-hubs-living-costs-debt-advice-health-services-cafes)
+- [The Family Man by James Lasdun review – the killings that shocked America](https://www.theguardian.com/books/2026/jun/24/the-family-man-by-james-lasdun-review-the-killings-that-shocked-america)
+- [Hold the Fort review – gory goings-on at the neighbours association get-together](https://www.theguardian.com/film/2026/jun/24/hold-the-fort-review-comedy-horror)
+- [Which 16th-century artist painted on an upside down shopping list? Find out in the Art Fund museum of the year quiz](https://www.theguardian.com/artanddesign/2026/jun/24/fitzwilliam-museum-in-cambridge-art-fund-museum-of-the-year-quiz)
+- [‘Like a phoenix rising from its ashes’: queer Muslim life in France – in pictures](https://www.theguardian.com/artanddesign/gallery/2026/jun/24/queer-muslim-life-in-france-in-pictures-camille-farrah-lenain-made-of-smokeless-fire)
+- [Former WH Smith’s small suppliers to lose at least half of debts in rescue plan](https://www.theguardian.com/business/2026/jun/24/former-wh-smith-chain-suppliers-restructure-tg-jones)
+- [Deja viewing: the return of the cheapo compilation film](https://www.theguardian.com/film/2026/jun/24/jackass-best-and-last-demon-slayer-peppa-pig-compilation-movies)
+- [The ultimate beach hike: Portugal’s Fishermen’s Trail reveals the Algarve’s wild side](https://www.theguardian.com/travel/2026/jun/24/hiking-walking-holiday-portugal-algarve-fishermens-trail)
+- [A moment that changed me: A telegram arrived – and I had to choose between my head and my heart](https://www.theguardian.com/lifeandstyle/2026/jun/24/moment-changed-me-telegram-arrived-choose-head-heart)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

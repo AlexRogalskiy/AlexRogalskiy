@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Tapered Language Models](https://arxiv.org/abs/2606.23670)
-- [Will AI Kill Taylor Swifts: The Rise of Ultra-Personalized Music](https://ryanspahn.substack.com/p/how-listening-to-only-ai-music-changes)
-- [DepsGuard – Hardens Package Manager](https://depsguard.com/)
-- [Show HN: Code Stitcher – The anti-agentic workflow](https://github.com/ue-patcher/code_stitcher/releases)
-- [C++ Lifetime-End Pointer-Zap and OOTA Progress](https://people.kernel.org/paulmck/c-pointer-zap-and-oota-progress)
-- [Ask HN: NIST Randomness Beacon Interruption?](https://news.ycombinator.com/item?id=48640773)
-- [AI is accelerating the exposure of the gap between people](https://jaketao.com/ai-divide-people)
-- [URL and HTML to Markdown API Optimized for LLMs](https://markdownify-monorepo.vercel.app/)
-- [Ask HN: Do you use web apps on your smartphone?](https://news.ycombinator.com/item?id=48640748)
-- [Desktop Commander MCP](https://github.com/wonderwhy-er/DesktopCommanderMCP)
+- [Benchmark object storage in objects/s, not GB/s](https://fractalbits.com/blog/objects-per-second/)
+- [Dietary guidelines do not yield sufficient flavanol for cardiovascular benefit](https://pubs.rsc.org/en/content/articlehtml/2026/fo/d6fo00867d)
+- [AxLLM](https://axllm.dev/)
+- [RIP Fable](https://fable.rip)
+- [Lucid to lay off roughly 18% of U.S. workforce, COO Marc Winterhoff leaves](https://www.cnbc.com/2026/06/22/lucid-layoffs-evs.html)
+- [Clean sweep for Mamdani-backed candidates in New York&#39;s Democratic primary](https://www.bbc.com/news/articles/clye652m41po)
+- [2026 vs. 1996 Chevrolet Blazer IIHS crash test](https://www.youtube.com/watch?v=4U8Ero-3GxI)
+- [VoltanaLLM: Energy-Efficient LLM Serving](https://supercomputing-system-ai-lab.github.io/projects/voltana/)
+- [2003-era DDR2 memory prices jump up to 60%](https://www.tomshardware.com/pc-components/dram/ddr2-memory-prices-jump-up-to-60-percent)
+- [Sakana Fugu Technical Report](https://www.chapterpal.com/s/7ff4f6ba/sakana-fugu-technical-report)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

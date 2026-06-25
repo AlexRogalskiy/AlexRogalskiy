@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Benchmark object storage in objects/s, not GB/s](https://fractalbits.com/blog/objects-per-second/)
-- [Dietary guidelines do not yield sufficient flavanol for cardiovascular benefit](https://pubs.rsc.org/en/content/articlehtml/2026/fo/d6fo00867d)
-- [AxLLM](https://axllm.dev/)
-- [RIP Fable](https://fable.rip)
-- [Lucid to lay off roughly 18% of U.S. workforce, COO Marc Winterhoff leaves](https://www.cnbc.com/2026/06/22/lucid-layoffs-evs.html)
-- [Clean sweep for Mamdani-backed candidates in New York&#39;s Democratic primary](https://www.bbc.com/news/articles/clye652m41po)
-- [2026 vs. 1996 Chevrolet Blazer IIHS crash test](https://www.youtube.com/watch?v=4U8Ero-3GxI)
-- [VoltanaLLM: Energy-Efficient LLM Serving](https://supercomputing-system-ai-lab.github.io/projects/voltana/)
-- [2003-era DDR2 memory prices jump up to 60%](https://www.tomshardware.com/pc-components/dram/ddr2-memory-prices-jump-up-to-60-percent)
-- [Sakana Fugu Technical Report](https://www.chapterpal.com/s/7ff4f6ba/sakana-fugu-technical-report)
+- [How Big Tech Hides the True Cost of the AI Buildout [video]](https://www.youtube.com/watch?v=YrJzjC4kKCY)
+- [Ask HN: What do you do to save tokens?](https://news.ycombinator.com/item?id=48669496)
+- [India trades over four-fifths of the equity options. Nine in ten lose](https://indiadispatch.com/p/nse-ipo)
+- [Ask HN: What was the biggest contributor to your happiness in the past year?](https://news.ycombinator.com/item?id=48669468)
+- [Faster KNN search in Manticore: 2-pass HNSW, batched distances, and AVX-512](https://manticoresearch.com/blog/knn-hnsw-performance/)
+- [A 25-Year-Old Blog Looks Back at 40 Years of Computing](https://www.markround.com/blog/2026/06/17/25-its-only-when-you-look-back/)
+- [Nakba Exhibition in Canadian Museum of Human Rights](https://humanrights.ca/exhibition/palestine-uprooted-nakba-past-and-present)
+- [Treat the Context Window as a Data Assembly Problem](https://klr-pattern.github.io/pydantic-resolve/blog_context_assembly_for_llm/)
+- [Americans are inundated with suspected scams](https://apnews.com/article/poll-scams-law-enforcement-social-media-389f8d824b89fa434c297729f2aaf56d)
+- [The Ancient Horsemen Who Created the Modern World [pdf]](https://reich.hms.harvard.edu/sites/reich.hms.harvard.edu/files/inline-files/The%20Ancient%20Horsemen%20Who%20Created%20the%20Modern%20World%20-%20WSJ.pdf)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

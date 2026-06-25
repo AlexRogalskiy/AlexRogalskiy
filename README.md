@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Raspberry Pi Pico W as USB Wi-Fi Adapter](https://gitlab.com/baiyibai/pico-usb-wifi)
-- [&quot;Fix&quot; MacBook Neo Cursor Lag: Record 1 Pixel of the Screen Every 10 Seconds](https://gist.github.com/retroplasma/ec21767d0a8380c7ea9c2fbee1c7d6bf)
-- [The Teensy Executable Revisited](https://www.muppetlabs.com/~breadbox/software/tiny/revisit.html)
-- [The war on terror primed America for autocracy](https://www.economist.com/by-invitation/2026/06/02/how-the-war-on-terror-primed-america-for-autocracy)
-- [Qwen-AgentWorld: Language World Models for General Agents](https://arxiv.org/abs/2606.24597)
-- [DiffusionBench: Towards Holistic Evaluation of Generative Diffusion Transformers](https://github.com/End2End-Diffusion/diffusion-bench)
-- [Meta Pauses Employee-Tracking Program Following Internal Data Leak](https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/)
-- [Vulnerability reports are not special anymore](https://words.filippo.io/vuln-reports/)
-- [Extreme Heat conference cancelled due to extreme heat warning](https://www.lse.ac.uk/granthaminstitute/events/extreme-heat-improving-governance-and-strengthening-action-around-the-world/)
-- [Jerry&#39;s Map](http://www.jerrysmap.com/the-map)
+- [The Unbearable Cheapness of Open Weight Models](https://jamesoclaire.com/2026/06/25/the-unbearable-cheapness-of-open-weight-models/)
+- [Medical students are using popular research tool to pump out misleading studies](https://www.science.org/content/article/medical-students-are-using-popular-research-tool-pump-out-misleading-studies)
+- [Cloudflare launched self-managed OAuth for all](https://blog.cloudflare.com/oauth-for-all/)
+- [Zombie unicorns are haunting Silicon Valley](https://www.economist.com/business/2026/06/21/zombie-unicorns-are-haunting-silicon-valley)
+- [Bible as RAG Database](https://www.crosscanon.com/)
+- [Ending respiratory infections](https://blog.interceptfund.com/p/ending-respiratory-infections)
+- [Mixing Visual and Textual Code](https://arxiv.org/abs/2603.15855)
+- [What I&#39;m Finding About LLM Code Style and Token Costs](https://www.jimmont.com/llm-style-token-costs)
+- [LuaJIT 3.0 proposed syntax extensions](https://github.com/LuaJIT/LuaJIT/issues/1475)
+- [Blogging can just be stating the obvious](https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

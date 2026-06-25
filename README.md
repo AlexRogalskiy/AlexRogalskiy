@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Europe heatwave live: UK braces for record-breaking temperatures; Italy issues red alert for 16 cities](https://www.theguardian.com/world/live/2026/jun/24/europe-heatwave-live-news-updates-uk-record-breaking-temperatures-italy-red-alert)
-- [‘A real difference’: how community hubs help local people fight rising living costs](https://www.theguardian.com/money/2026/jun/24/community-hubs-living-costs-debt-advice-health-services-cafes)
-- [The Family Man by James Lasdun review – the killings that shocked America](https://www.theguardian.com/books/2026/jun/24/the-family-man-by-james-lasdun-review-the-killings-that-shocked-america)
-- [Hold the Fort review – gory goings-on at the neighbours association get-together](https://www.theguardian.com/film/2026/jun/24/hold-the-fort-review-comedy-horror)
-- [Which 16th-century artist painted on an upside down shopping list? Find out in the Art Fund museum of the year quiz](https://www.theguardian.com/artanddesign/2026/jun/24/fitzwilliam-museum-in-cambridge-art-fund-museum-of-the-year-quiz)
-- [‘Like a phoenix rising from its ashes’: queer Muslim life in France – in pictures](https://www.theguardian.com/artanddesign/gallery/2026/jun/24/queer-muslim-life-in-france-in-pictures-camille-farrah-lenain-made-of-smokeless-fire)
-- [Former WH Smith’s small suppliers to lose at least half of debts in rescue plan](https://www.theguardian.com/business/2026/jun/24/former-wh-smith-chain-suppliers-restructure-tg-jones)
-- [Deja viewing: the return of the cheapo compilation film](https://www.theguardian.com/film/2026/jun/24/jackass-best-and-last-demon-slayer-peppa-pig-compilation-movies)
-- [The ultimate beach hike: Portugal’s Fishermen’s Trail reveals the Algarve’s wild side](https://www.theguardian.com/travel/2026/jun/24/hiking-walking-holiday-portugal-algarve-fishermens-trail)
-- [A moment that changed me: A telegram arrived – and I had to choose between my head and my heart](https://www.theguardian.com/lifeandstyle/2026/jun/24/moment-changed-me-telegram-arrived-choose-head-heart)
+- [‘I hear he’s extremely liberal’: Trump offers first comments on Andy Burnham](https://www.theguardian.com/us-news/2026/jun/25/trump-first-comments-on-andy-burnham-liberal)
+- [TV tonight: a wonderful documentary about the late, great Rik Mayall](https://www.theguardian.com/tv-and-radio/2026/jun/25/tv-tonight-a-wonderful-documentary-about-the-late-great-rik-mayall)
+- [For the Record: An Incomplete History of Music review – it’s amazing that this staggering show exists](https://www.theguardian.com/tv-and-radio/2026/jun/25/for-the-record-an-incomplete-history-of-music-review-youtube-documentary)
+- [Weatherwatch: How UK firm’s low-cost tech can warn of volcanic eruptions](https://www.theguardian.com/news/2026/jun/25/weatherwatch-uk-firm-volcanotech-low-cost-sensor)
+- [’It can flip quickly from being idyllic’: the reality of life for young van dwellers priced out of Cornwall’s housing market](https://www.theguardian.com/environment/2026/jun/25/reality-life-cornwall-young-van-dwellers-priced-out-of-the-housing-market)
+- [Thursday news quiz: rare chicks, AI tricks and ‘begging Trump for pics’](https://www.theguardian.com/lifeandstyle/2026/jun/25/the-guardian-thursday-quiz-general-knowledge-topical-news-trivia-253)
+- [It’s not the bond markets Andy Burnham should be afraid of. It’s his own MPs | Aditya Chakrabortty](https://www.theguardian.com/commentisfree/2026/jun/25/bond-markets-andy-burnham-afraid-own-mp-labour)
+- [A US fighter pilot strangled a woman in England. Why did it end in a ‘degrading’ military trial?](https://www.theguardian.com/uk-news/ng-interactive/2026/jun/25/us-fighter-pilot-strangled-woman-england-why-military-trial)
+- [Rachel Roddy’s recipe for orecchiette with courgettes, parmesan cream and almonds | A kitchen in Rome](https://www.theguardian.com/food/2026/jun/25/orecchiette-with-courgettes-parmesan-cream-and-almonds-recipe-rachel-roddy)
+- [‘It’s like a furnace’: French struggle with heat-trap homes as climate inequality grows](https://www.theguardian.com/world/2026/jun/25/french-heat-trap-homes-climate-inequality-grows)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

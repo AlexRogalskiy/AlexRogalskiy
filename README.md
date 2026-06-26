@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [How Big Tech Hides the True Cost of the AI Buildout [video]](https://www.youtube.com/watch?v=YrJzjC4kKCY)
-- [Ask HN: What do you do to save tokens?](https://news.ycombinator.com/item?id=48669496)
-- [India trades over four-fifths of the equity options. Nine in ten lose](https://indiadispatch.com/p/nse-ipo)
-- [Ask HN: What was the biggest contributor to your happiness in the past year?](https://news.ycombinator.com/item?id=48669468)
-- [Faster KNN search in Manticore: 2-pass HNSW, batched distances, and AVX-512](https://manticoresearch.com/blog/knn-hnsw-performance/)
-- [A 25-Year-Old Blog Looks Back at 40 Years of Computing](https://www.markround.com/blog/2026/06/17/25-its-only-when-you-look-back/)
-- [Nakba Exhibition in Canadian Museum of Human Rights](https://humanrights.ca/exhibition/palestine-uprooted-nakba-past-and-present)
-- [Treat the Context Window as a Data Assembly Problem](https://klr-pattern.github.io/pydantic-resolve/blog_context_assembly_for_llm/)
-- [Americans are inundated with suspected scams](https://apnews.com/article/poll-scams-law-enforcement-social-media-389f8d824b89fa434c297729f2aaf56d)
-- [The Ancient Horsemen Who Created the Modern World [pdf]](https://reich.hms.harvard.edu/sites/reich.hms.harvard.edu/files/inline-files/The%20Ancient%20Horsemen%20Who%20Created%20the%20Modern%20World%20-%20WSJ.pdf)
+- [Soumitra Dutta – Technology, Innovation and Global Policy](https://soumitradutta.mobirisesite.com/)
+- [Optimus Cirrus](https://github.com/morganstanley/optimus-cirrus)
+- [A Fake Shell for Pangenomics](https://www.cs.cornell.edu/~asampson/blog/flash.html)
+- [Stop the bloatware in modern Linux. Noctalia V5 and labwc and dinit [video]](https://www.youtube.com/watch?v=z3sg8nXkvgo)
+- [Imaging exoplanets using Einstein Rings within 1 lifetime [video]](https://www.youtube.com/watch?v=go-50Dpzs20)
+- [Make a devtool agents want](https://betocmn.com/blog/make-a-devtool-agents-want/)
+- [New quantum computer sets a high watermark for accuracy](https://theconversation.com/a-new-quantum-computer-sets-a-high-watermark-for-accuracy-are-we-on-the-verge-of-a-big-breakthrough-285753)
+- [Heat, humidity and housing: why British heatwaves hit differently](https://theconversation.com/heat-humidity-and-housing-why-british-heatwaves-hit-differently-286064)
+- [Show HN: I replaced my X analytics dashboard for a daily &quot;what to do next&quot; brief](https://trumpet.house)
+- [We All Depend on Open Source. We Will Defend It Together](https://akrites.org/letter/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

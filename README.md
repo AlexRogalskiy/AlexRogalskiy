@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [‘I hear he’s extremely liberal’: Trump offers first comments on Andy Burnham](https://www.theguardian.com/us-news/2026/jun/25/trump-first-comments-on-andy-burnham-liberal)
-- [TV tonight: a wonderful documentary about the late, great Rik Mayall](https://www.theguardian.com/tv-and-radio/2026/jun/25/tv-tonight-a-wonderful-documentary-about-the-late-great-rik-mayall)
-- [For the Record: An Incomplete History of Music review – it’s amazing that this staggering show exists](https://www.theguardian.com/tv-and-radio/2026/jun/25/for-the-record-an-incomplete-history-of-music-review-youtube-documentary)
-- [Weatherwatch: How UK firm’s low-cost tech can warn of volcanic eruptions](https://www.theguardian.com/news/2026/jun/25/weatherwatch-uk-firm-volcanotech-low-cost-sensor)
-- [’It can flip quickly from being idyllic’: the reality of life for young van dwellers priced out of Cornwall’s housing market](https://www.theguardian.com/environment/2026/jun/25/reality-life-cornwall-young-van-dwellers-priced-out-of-the-housing-market)
-- [Thursday news quiz: rare chicks, AI tricks and ‘begging Trump for pics’](https://www.theguardian.com/lifeandstyle/2026/jun/25/the-guardian-thursday-quiz-general-knowledge-topical-news-trivia-253)
-- [It’s not the bond markets Andy Burnham should be afraid of. It’s his own MPs | Aditya Chakrabortty](https://www.theguardian.com/commentisfree/2026/jun/25/bond-markets-andy-burnham-afraid-own-mp-labour)
-- [A US fighter pilot strangled a woman in England. Why did it end in a ‘degrading’ military trial?](https://www.theguardian.com/uk-news/ng-interactive/2026/jun/25/us-fighter-pilot-strangled-woman-england-why-military-trial)
-- [Rachel Roddy’s recipe for orecchiette with courgettes, parmesan cream and almonds | A kitchen in Rome](https://www.theguardian.com/food/2026/jun/25/orecchiette-with-courgettes-parmesan-cream-and-almonds-recipe-rachel-roddy)
-- [‘It’s like a furnace’: French struggle with heat-trap homes as climate inequality grows](https://www.theguardian.com/world/2026/jun/25/french-heat-trap-homes-climate-inequality-grows)
+- [TV tonight: Graham Norton’s world-exclusive interview with Madonna](https://www.theguardian.com/tv-and-radio/2026/jun/26/tv-tonight-graham-nortons-world-exclusive-interview-with-madonna)
+- [Burnham has brought hope back to Labour – but he urnham has brought hope back to Labour – but he must understand how quickly it can be punctured understand how quickly it can be punctured | Andy Beckett](https://www.theguardian.com/commentisfree/2026/jun/26/andy-burnham-labour-hope-mp-makerfield-politics)
+- [Migrating swifts loyally return every year to nests in buildings, study finds](https://www.theguardian.com/environment/2026/jun/26/migrating-swifts-loyally-return-every-year-nests-buildings-study-finds)
+- [Porsche magnate puts historic Salzburg villa up for sale after row over private ‘tunnel for one’](https://www.theguardian.com/world/2026/jun/26/wolfgang-porsche-salzburg-villa-up-for-sale-tunnel-austria)
+- [Bizarre questions and an all-male ‘jury’: woman strangled by US pilot in Britain tells of airbase trial](https://www.theguardian.com/uk-news/2026/jun/26/male-jury-woman-strangled-by-us-pilot-britain-airbase-trial)
+- [Fossil fuel price surges can lead to worse air quality, study finds](https://www.theguardian.com/environment/2026/jun/26/fossil-fuel-price-surges-worse-air-quality-study-pollutionwatch)
+- [Helen Goh’s recipe for apricot traybake with rosemary, orange and vanilla sugar crust | The sweet spot](https://www.theguardian.com/food/2026/jun/26/apricot-traybake-with-sugar-crust-helen-goh)
+- [USA suffer late defeat to Turkey but eye Bosnia and Herzegovina in World Cup knockout stage](https://www.theguardian.com/football/2026/jun/26/turkey-usa-world-cup-2026-match-report)
+- [Boy, 14, charged with murder over death of teenager Lilly in Wales](https://www.theguardian.com/uk-news/2026/jun/26/boy-14-charged-death-teenage-girl-lilly-south-wales)
+- [UN agency pauses ship evacuations through strait of Hormuz after vessel struck](https://www.theguardian.com/world/2026/jun/25/un-pauses-ship-evacuations-through-strait-of-hormuz-after-vessel-attack)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

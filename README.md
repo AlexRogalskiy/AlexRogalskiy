@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The Unbearable Cheapness of Open Weight Models](https://jamesoclaire.com/2026/06/25/the-unbearable-cheapness-of-open-weight-models/)
-- [Medical students are using popular research tool to pump out misleading studies](https://www.science.org/content/article/medical-students-are-using-popular-research-tool-pump-out-misleading-studies)
-- [Cloudflare launched self-managed OAuth for all](https://blog.cloudflare.com/oauth-for-all/)
-- [Zombie unicorns are haunting Silicon Valley](https://www.economist.com/business/2026/06/21/zombie-unicorns-are-haunting-silicon-valley)
-- [Bible as RAG Database](https://www.crosscanon.com/)
-- [Ending respiratory infections](https://blog.interceptfund.com/p/ending-respiratory-infections)
-- [Mixing Visual and Textual Code](https://arxiv.org/abs/2603.15855)
-- [What I&#39;m Finding About LLM Code Style and Token Costs](https://www.jimmont.com/llm-style-token-costs)
-- [LuaJIT 3.0 proposed syntax extensions](https://github.com/LuaJIT/LuaJIT/issues/1475)
-- [Blogging can just be stating the obvious](https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/)
+- [Libre Barcode Project](https://graphicore.github.io/librebarcode/)
+- [What happened after 2k people tried to hack my AI assistant](https://www.fernandoi.cl/posts/hackmyclaw/)
+- [Framework&#39;s 10G Ethernet module exposes USB-C&#39;s complexity](https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/)
+- [The Garbage Collection Handbook: The Art of Automatic Memory Management &lpar;2nd Ed&rpar; &lpar;2023&rpar;](https://gchandbook.org/)
+- [The &#39;papers, please&#39; era of the internet will decimate your privacy](https://expression.fire.org/p/the-papers-please-era-of-the-internet)
+- [Un-0: Generating Images with Coupled Oscillators](https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/)
+- [Om Malik has died](https://om.co/2026/06/24/1966-2026/)
+- [An oral history of Bank Python &lpar;2021&rpar;](https://calpaterson.com/bank-python.html)
+- [Parallel Parentheses Matching](https://williamdue.github.io/blog/parallel-parentheses-matching)
+- [The Doorman&#39;s Fallacy in action](https://rozumem.xyz/posts/17)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

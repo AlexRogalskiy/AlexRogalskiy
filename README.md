@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Soumitra Dutta – Technology, Innovation and Global Policy](https://soumitradutta.mobirisesite.com/)
-- [Optimus Cirrus](https://github.com/morganstanley/optimus-cirrus)
-- [A Fake Shell for Pangenomics](https://www.cs.cornell.edu/~asampson/blog/flash.html)
-- [Stop the bloatware in modern Linux. Noctalia V5 and labwc and dinit [video]](https://www.youtube.com/watch?v=z3sg8nXkvgo)
-- [Imaging exoplanets using Einstein Rings within 1 lifetime [video]](https://www.youtube.com/watch?v=go-50Dpzs20)
-- [Make a devtool agents want](https://betocmn.com/blog/make-a-devtool-agents-want/)
-- [New quantum computer sets a high watermark for accuracy](https://theconversation.com/a-new-quantum-computer-sets-a-high-watermark-for-accuracy-are-we-on-the-verge-of-a-big-breakthrough-285753)
-- [Heat, humidity and housing: why British heatwaves hit differently](https://theconversation.com/heat-humidity-and-housing-why-british-heatwaves-hit-differently-286064)
-- [Show HN: I replaced my X analytics dashboard for a daily &quot;what to do next&quot; brief](https://trumpet.house)
-- [We All Depend on Open Source. We Will Defend It Together](https://akrites.org/letter/)
+- [Democrats and Republicans agree: AI is scary](https://economist.com/united-states/2026/06/25/democrats-and-republicans-agree-ai-is-scary)
+- [Mathematics: Its Content, Methods and Meaning](https://old.maa.org/press/maa-reviews/mathematics-its-content-methods-and-meaning)
+- [Ford execs say they made a mistake when they replaced human engineers with AI](https://www.neowin.net/news/ford-execs-say-they-made-a-mistake-when-they-replaced-human-engineers-with-ai/)
+- [We measured whether AI obeys architecture rules. Even Opus ignored them 60%](https://hunch-pi.vercel.app/blog/post?slug=ai-ignores-your-architecture)
+- [Show HN: OpenClaw Launch – deploy a managed OpenClaw AI agent in 30s](https://openclawlaunch.com)
+- [CraftsmanSHIP. Not CraftsmanSHIT](https://fagnerbrack.com/craftsmanship-not-craftsmanshit-88db7c982103)
+- [LFM2 VL WebGPU](https://huggingface.co/spaces/LiquidAI/LFM2-VL-WebGPU)
+- [Qwen3.5 WebGPU](https://huggingface.co/spaces/webml-community/Qwen3.5-WebGPU)
+- [Show HN: An LLM that designs M5Stack hardware builds](https://unitkit.pages.dev/)
+- [Explore the Leading Global Data Center Database](https://www.datacentermap.com/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

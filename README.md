@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Libre Barcode Project](https://graphicore.github.io/librebarcode/)
-- [What happened after 2k people tried to hack my AI assistant](https://www.fernandoi.cl/posts/hackmyclaw/)
-- [Framework&#39;s 10G Ethernet module exposes USB-C&#39;s complexity](https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/)
-- [The Garbage Collection Handbook: The Art of Automatic Memory Management &lpar;2nd Ed&rpar; &lpar;2023&rpar;](https://gchandbook.org/)
-- [The &#39;papers, please&#39; era of the internet will decimate your privacy](https://expression.fire.org/p/the-papers-please-era-of-the-internet)
-- [Un-0: Generating Images with Coupled Oscillators](https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/)
-- [Om Malik has died](https://om.co/2026/06/24/1966-2026/)
-- [An oral history of Bank Python &lpar;2021&rpar;](https://calpaterson.com/bank-python.html)
-- [Parallel Parentheses Matching](https://williamdue.github.io/blog/parallel-parentheses-matching)
-- [The Doorman&#39;s Fallacy in action](https://rozumem.xyz/posts/17)
+- [IBM MCGA Gate Array Reverse Engineering](https://github.com/schlae/IBM_MCGA)
+- [WordStar: A Writer&#39;s Word Processor &lpar;1996&rpar;](https://www.sfwriter.com/wordstar.htm)
+- [Anatomy of a Failed &lpar;Nation-State?&rpar; Attack](https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/)
+- [Show HN: Hacker News on a train station-style flip board](https://popflame.quickish.space/hn-flipboard/)
+- [Foreign funds help make housing unaffordable: research](https://news.mccombs.utexas.edu/research/foreign-funds-help-make-housing-unaffordable/)
+- [Om](https://daringfireball.net/2026/06/om)
+- [U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations](https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies)
+- [Why does kinetic energy increase quadratically, not linearly, with speed? &lpar;2011&rpar;](https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed)
+- [AI in mathematics is forcing big questions](https://spectrum.ieee.org/ai-in-mathematics)
+- [A C++ implementation of a fast hash map and hash set using hopscotch hashing](https://github.com/Tessil/hopscotch-map)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

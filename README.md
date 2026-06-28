@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Democrats and Republicans agree: AI is scary](https://economist.com/united-states/2026/06/25/democrats-and-republicans-agree-ai-is-scary)
-- [Mathematics: Its Content, Methods and Meaning](https://old.maa.org/press/maa-reviews/mathematics-its-content-methods-and-meaning)
-- [Ford execs say they made a mistake when they replaced human engineers with AI](https://www.neowin.net/news/ford-execs-say-they-made-a-mistake-when-they-replaced-human-engineers-with-ai/)
-- [We measured whether AI obeys architecture rules. Even Opus ignored them 60%](https://hunch-pi.vercel.app/blog/post?slug=ai-ignores-your-architecture)
-- [Show HN: OpenClaw Launch – deploy a managed OpenClaw AI agent in 30s](https://openclawlaunch.com)
-- [CraftsmanSHIP. Not CraftsmanSHIT](https://fagnerbrack.com/craftsmanship-not-craftsmanshit-88db7c982103)
-- [LFM2 VL WebGPU](https://huggingface.co/spaces/LiquidAI/LFM2-VL-WebGPU)
-- [Qwen3.5 WebGPU](https://huggingface.co/spaces/webml-community/Qwen3.5-WebGPU)
-- [Show HN: An LLM that designs M5Stack hardware builds](https://unitkit.pages.dev/)
-- [Explore the Leading Global Data Center Database](https://www.datacentermap.com/)
+- [Armadillo – A DNS Server in Gleam for Homelab Use](https://github.com/vshakitskiy/armadillo)
+- [South Korea&#39;s FoodNeverComes app helps users feel the rush of making purchases](https://www.fastcompany.com/91560432/dopamine-sites-fake-online-shopping-apps-let-you-pretend-to-buy-things-foodnevercomes)
+- [I wouldn&#39;t pay it either](https://www.lrb.co.uk/the-paper/v48/n11/simon-skinner/i-wouldn-t-pay-it-either)
+- [Trump Admin Releases Anthropic Mythos](https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/)
+- [On Computers](https://pebblebed.com/blog/computing-is-bigger)
+- [Martial Arts Anyone](https://news.ycombinator.com/item?id=48704786)
+- [AI is creating America&#39;s next underclass](https://thehill.com/opinion/technology/5942757-ai-demands-new-social-norms/)
+- [Using Local Coding Agents](https://magazine.sebastianraschka.com/p/using-local-coding-agents)
+- [Martial Artist Census](https://news.ycombinator.com/item?id=48704745)
+- [KoboldCPP: Run GGUF Models Easily with a KoboldAI UI. One File. Zero Install](https://github.com/LostRuins/koboldcpp)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

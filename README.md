@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Drama-laden draw leaves Iran in limbo as Egypt set up last-32 clash with Australia](https://www.theguardian.com/football/2026/jun/27/egypt-iran-world-cup-group-g-match-report)
-- [Meera Sodha’s recipe for spinach, pea and cheddar frittata | Meera Sodha recipes](https://www.theguardian.com/food/2026/jun/27/spinach-pea-cheddar-frittata-recipe-meera-sodha)
-- [‘I understand why some people think I’m a bitch’: world No 1 Aryna Sabalenka on screaming, stunt matches, and why she’s much nicer off court](https://www.theguardian.com/sport/2026/jun/27/aryna-sabalenka-interview-tennis-world-no-1-women-not-quitting-french-open)
-- [Tim Dowling: After 35 years in the UK, I’m still getting lost in translation](https://www.theguardian.com/lifeandstyle/2026/jun/27/tim-dowling-after-35-years-in-the-uk-im-still-getting-lost-in-translation)
-- [Venice protest planned for US ambassador’s superyacht visit](https://www.theguardian.com/world/2026/jun/27/venice-protest-planned-us-ambassador-superyacht-tour-tilman-fertitta)
-- [From Jon Snow: A Last Big Story to Muse: the week in rave reviews](https://www.theguardian.com/culture/2026/jun/27/from-jon-snow-a-last-big-story-to-muse-the-week-in-rave-reviews)
-- [Is this kitten fur real? The Becky Barnicoat cartoon](https://www.theguardian.com/lifeandstyle/picture/2026/jun/27/kitten-becky-barnicoat-cartoon)
-- [People in Britain used to agree to disagree. Since Brexit, they no longer dare to talk about difficult things | Elif Shafak](https://www.theguardian.com/commentisfree/2026/jun/27/people-britain-disagree-brexit-divided)
-- [Prosecutors in England and Wales expect rise in domestic abuse during World Cup](https://www.theguardian.com/society/2026/jun/27/prosecutors-cps-expect-rise-domestic-abuse-football-world-cup)
-- [Blind date: ‘She seemed to like me, but I’ve been wrong about this kind of thing before’](https://www.theguardian.com/lifeandstyle/2026/jun/27/blind-date-philip-carol)
+- [‘Hearty fare, red gingham tablecloths and chalkboard menus’: my search for the perfect bouchon in Lyon](https://www.theguardian.com/travel/2026/jun/28/perfect-bouchon-traditional-restaurant-lyon-france)
+- [Will Andy Burnham ‘go big’ in expanding the role of the state?](https://www.theguardian.com/politics/2026/jun/28/andy-burnham-nationalisation-pm-chancellor-thames-water)
+- [Lost your crypto access code? Be wary, there‘s a scam for that too](https://www.theguardian.com/money/2026/jun/28/scam-watch-panic-thats-just-what-fraudsters-are-waiting-for-to-steal-your-crypto-data)
+- [‘Enforcement mode’: Australia must take fight to tech giants to make social media ban stick, experts warn](https://www.theguardian.com/australia-news/2026/jun/28/enforcement-mode-australia-must-take-fight-to-tech-giants-to-make-social-media-ban-stick-experts-warn)
+- [Venezuela earthquakes: death toll rises again to more than 1,400](https://www.theguardian.com/world/2026/jun/27/venezuela-earthquakes-death-toll-rises-jorge-rodriguez)
+- [TV tonight: a schmaltzy ode to Taylor Swift’s love stories](https://www.theguardian.com/tv-and-radio/2026/jun/28/tv-tonight-a-schmaltzy-ode-to-taylor-swifts-love-stories)
+- [I wish my son wanted to spend more time with me | Ask Annalisa Barbieri](https://www.theguardian.com/lifeandstyle/2026/jun/28/wish-son-wanted-spend-more-time-with-me-annalisa-barbieri)
+- [Labour has abandoned the missions that brought it to power. Here&#39;s how Burnham could revive them. | Mariana Mazzucato](https://www.theguardian.com/commentisfree/2026/jun/28/labour-keir-starmer-government-five-missions-failed-andy-burnham-mariana-mazzucato)
+- [Zylia, London W1: ‘It’s not trying to reimagine Greek-Cypriot cuisine’ – restaurant review | Grace Dent on restaurants](https://www.theguardian.com/food/2026/jun/28/zylia-london-wc2-grace-dent-restaurant-review)
+- [David Sedaris on his Duolingo obsession: ‘“Today is the last day,” I told myself – but I was powerless to stop’](https://www.theguardian.com/books/2026/jun/28/david-sedaris-duolingo-obsession-the-land-and-its-people-memoir)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

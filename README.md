@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [IBM MCGA Gate Array Reverse Engineering](https://github.com/schlae/IBM_MCGA)
-- [WordStar: A Writer&#39;s Word Processor &lpar;1996&rpar;](https://www.sfwriter.com/wordstar.htm)
-- [Anatomy of a Failed &lpar;Nation-State?&rpar; Attack](https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/)
-- [Show HN: Hacker News on a train station-style flip board](https://popflame.quickish.space/hn-flipboard/)
-- [Foreign funds help make housing unaffordable: research](https://news.mccombs.utexas.edu/research/foreign-funds-help-make-housing-unaffordable/)
-- [Om](https://daringfireball.net/2026/06/om)
-- [U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations](https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies)
-- [Why does kinetic energy increase quadratically, not linearly, with speed? &lpar;2011&rpar;](https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed)
-- [AI in mathematics is forcing big questions](https://spectrum.ieee.org/ai-in-mathematics)
-- [A C++ implementation of a fast hash map and hash set using hopscotch hashing](https://github.com/Tessil/hopscotch-map)
+- [Wayfinder Router: deterministic routing of queries between local and hosted LLM](https://github.com/itsthelore/wayfinder-router)
+- [Ford hired AI and sacked humans. It backfired badly](https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html)
+- [Marfa Public Radio Puts You to Sleep](https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep)
+- [Feds Killed Polestar and Spared Volvo. That Should Terrify You](https://www.thedrive.com/news/feds-killed-polestar-and-spared-volvo-that-should-terrify-you)
+- [Response to AI slop is from Robin Williams](https://jayacunzo.com/blog/your-move-chief)
+- [Turning music into a chore is how I became a musician](https://the.scapegoat.dev/turning-music-into-a-chore-is-what-made-me-an-artist/)
+- [Show HN: Decomp Academy – Learn to decompile GameCube games into matching C](https://decomp-academy.dev)
+- [AMD Strix Halo RDMA Cluster Setup Guide](https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md)
+- [WAL-RUS: a Rust Rewrite of WAL-G for PostgreSQL Backups](https://clickhouse.com/blog/walrus-postgres-backups-in-rust)
+- [Choosing a Public DNS Resolver](https://evilbit.de/dns-resolver-guide.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

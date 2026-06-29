@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [‘Hearty fare, red gingham tablecloths and chalkboard menus’: my search for the perfect bouchon in Lyon](https://www.theguardian.com/travel/2026/jun/28/perfect-bouchon-traditional-restaurant-lyon-france)
-- [Will Andy Burnham ‘go big’ in expanding the role of the state?](https://www.theguardian.com/politics/2026/jun/28/andy-burnham-nationalisation-pm-chancellor-thames-water)
-- [Lost your crypto access code? Be wary, there‘s a scam for that too](https://www.theguardian.com/money/2026/jun/28/scam-watch-panic-thats-just-what-fraudsters-are-waiting-for-to-steal-your-crypto-data)
-- [‘Enforcement mode’: Australia must take fight to tech giants to make social media ban stick, experts warn](https://www.theguardian.com/australia-news/2026/jun/28/enforcement-mode-australia-must-take-fight-to-tech-giants-to-make-social-media-ban-stick-experts-warn)
-- [Venezuela earthquakes: death toll rises again to more than 1,400](https://www.theguardian.com/world/2026/jun/27/venezuela-earthquakes-death-toll-rises-jorge-rodriguez)
-- [TV tonight: a schmaltzy ode to Taylor Swift’s love stories](https://www.theguardian.com/tv-and-radio/2026/jun/28/tv-tonight-a-schmaltzy-ode-to-taylor-swifts-love-stories)
-- [I wish my son wanted to spend more time with me | Ask Annalisa Barbieri](https://www.theguardian.com/lifeandstyle/2026/jun/28/wish-son-wanted-spend-more-time-with-me-annalisa-barbieri)
-- [Labour has abandoned the missions that brought it to power. Here&#39;s how Burnham could revive them. | Mariana Mazzucato](https://www.theguardian.com/commentisfree/2026/jun/28/labour-keir-starmer-government-five-missions-failed-andy-burnham-mariana-mazzucato)
-- [Zylia, London W1: ‘It’s not trying to reimagine Greek-Cypriot cuisine’ – restaurant review | Grace Dent on restaurants](https://www.theguardian.com/food/2026/jun/28/zylia-london-wc2-grace-dent-restaurant-review)
-- [David Sedaris on his Duolingo obsession: ‘“Today is the last day,” I told myself – but I was powerless to stop’](https://www.theguardian.com/books/2026/jun/28/david-sedaris-duolingo-obsession-the-land-and-its-people-memoir)
+- [Pakistan carries out deadly airstrikes along Afghanistan border](https://www.theguardian.com/world/2026/jun/29/pakistan-deadly-airstrikes-afghanistan-border)
+- [One person a week in England dies with undiagnosed TB, study finds](https://www.theguardian.com/society/2026/jun/29/england-undiagnosed-tuberculosis-tb)
+- [The uneasy story about an alleged Russian spy: best podcasts of the week](https://www.theguardian.com/tv-and-radio/2026/jun/29/the-uneasy-story-about-an-alleged-russian-spy-best-podcasts-of-the-week)
+- [A Ukrainian military school graduation ceremony – photo essay](https://www.theguardian.com/world/2026/jun/29/ukraine-military-school-graduation-ceremony-photo-essay)
+- [Good for business – or profit at any cost? The controversial side of private equity – a visual explainer](https://www.theguardian.com/business/ng-interactive/2026/jun/29/private-equity-visual-explainer-uk-veterinary-sector)
+- [Your swimwear is probably made from plastic. Here are 11 more responsible alternatives](https://www.theguardian.com/thefilter/2026/jun/29/best-responsible-swimwear-tested-uk)
+- [Fragments of Ice review – fascinating chronicle of Soviet collapse through the lens of a Ukrainian ice skater](https://www.theguardian.com/film/2026/jun/29/fragments-of-ice-review-fascinating-chronicle-of-soviet-collapse-through-the-lens-of-a-ukrainian-ice-skater)
+- [Trekking through a living mountain culture: Spain’s Picos de Europa](https://www.theguardian.com/travel/2026/jun/29/adventure-travel-hike-picos-de-europa-spain)
+- [‘Buy the haystack’: how tracker funds beat searching for shares](https://www.theguardian.com/money/2026/jun/29/how-tracker-funds-beat-searching-for-shares)
+- [Ring Video Doorbell Pro review: night and day better with new 4K camera](https://www.theguardian.com/technology/2026/jun/29/ring-video-doorbell-pro-review)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

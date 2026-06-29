@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Wayfinder Router: deterministic routing of queries between local and hosted LLM](https://github.com/itsthelore/wayfinder-router)
-- [Ford hired AI and sacked humans. It backfired badly](https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html)
-- [Marfa Public Radio Puts You to Sleep](https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep)
-- [Feds Killed Polestar and Spared Volvo. That Should Terrify You](https://www.thedrive.com/news/feds-killed-polestar-and-spared-volvo-that-should-terrify-you)
-- [Response to AI slop is from Robin Williams](https://jayacunzo.com/blog/your-move-chief)
-- [Turning music into a chore is how I became a musician](https://the.scapegoat.dev/turning-music-into-a-chore-is-what-made-me-an-artist/)
-- [Show HN: Decomp Academy – Learn to decompile GameCube games into matching C](https://decomp-academy.dev)
-- [AMD Strix Halo RDMA Cluster Setup Guide](https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md)
-- [WAL-RUS: a Rust Rewrite of WAL-G for PostgreSQL Backups](https://clickhouse.com/blog/walrus-postgres-backups-in-rust)
-- [Choosing a Public DNS Resolver](https://evilbit.de/dns-resolver-guide.html)
+- [Lore – give your coding agent the decisions your team made](https://github.com/itsthelore/rac-core)
+- [Herdr: Agent multiplexer that lives in your terminal](https://github.com/ogulcancelik/herdr)
+- [Age verification is just a precursor to automated attribution of speech](https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026)
+- [HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88](https://danunparsed.com/p/hackerrank-open-source-ats)
+- [Knowledge Distillation of Black-Box Large Language Models &lpar;2024&rpar;](https://arxiv.org/abs/2401.07013)
+- [Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs](https://github.com/kamaludu/bash4llm/)
+- [TOP500 at ISC’26: We have a New Number 1 Supercomputer](https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number)
+- [Librepods: AirPods liberated](https://github.com/librepods-org/librepods)
+- [Historical memory prices 1960-2026](https://dam.stanford.edu/memory-prices.html)
+- [GLM 5.2 beats Claude in our benchmarks](https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Armadillo – A DNS Server in Gleam for Homelab Use](https://github.com/vshakitskiy/armadillo)
-- [South Korea&#39;s FoodNeverComes app helps users feel the rush of making purchases](https://www.fastcompany.com/91560432/dopamine-sites-fake-online-shopping-apps-let-you-pretend-to-buy-things-foodnevercomes)
-- [I wouldn&#39;t pay it either](https://www.lrb.co.uk/the-paper/v48/n11/simon-skinner/i-wouldn-t-pay-it-either)
-- [Trump Admin Releases Anthropic Mythos](https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/)
-- [On Computers](https://pebblebed.com/blog/computing-is-bigger)
-- [Martial Arts Anyone](https://news.ycombinator.com/item?id=48704786)
-- [AI is creating America&#39;s next underclass](https://thehill.com/opinion/technology/5942757-ai-demands-new-social-norms/)
-- [Using Local Coding Agents](https://magazine.sebastianraschka.com/p/using-local-coding-agents)
-- [Martial Artist Census](https://news.ycombinator.com/item?id=48704745)
-- [KoboldCPP: Run GGUF Models Easily with a KoboldAI UI. One File. Zero Install](https://github.com/LostRuins/koboldcpp)
+- [Replacing Systemd with OpenRC in Debian](https://danielcordova.me/blog/debian-openrc/)
+- [Greece&#39;s Parthenon gets a facelift, revealing a look not seen for 220 years](https://apnews.com/article/greece-acropolis-restoration-parthenon-tourism-da06640fcd747498613d31b64dac369a)
+- [Cybersecurity by the Book](https://www.justus.pw/posts/2026-06-29-cybersecurity-by-the-book.html)
+- [F-Droid and the Future of Open-Source Android; an Interview with DocWolle](https://gardinerbryant.com/f-droid-and-the-future-of-open-source/)
+- [Vincent Chan: Inside PayPal &lpar;2010&rpar;](https://paulgraham.com/paypal.html)
+- [Ask HN: How do I find first paying users for my app?](https://news.ycombinator.com/item?id=48715575)
+- [Europe&#39;s record heat has overwhelmed Paris mortuaries; left families in distress](https://apnews.com/article/france-europe-heat-wave-weather-climate-change-a9095af72d14cfdd9ca43637490083e9)
+- [CPJ undertakes review of documentation of journalists killed in Israel-Gaza war](https://cpj.org/2026/06/cpj-undertakes-review-of-its-documentation-of-journalists-killed-in-israel-gaza-war-since-2023/)
+- [Tensordyne Converts AI Matrix Math to Logs to Crank Up Inference Oomph](https://www.nextplatform.com/compute/2026/06/16/tensordyne-converts-ai-matrix-math-to-logs-to-crank-up-inference-oomph/5256558)
+- [Show HN: Spire](https://spire.synov8studio.com)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

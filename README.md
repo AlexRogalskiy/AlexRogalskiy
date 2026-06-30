@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Replacing Systemd with OpenRC in Debian](https://danielcordova.me/blog/debian-openrc/)
-- [Greece&#39;s Parthenon gets a facelift, revealing a look not seen for 220 years](https://apnews.com/article/greece-acropolis-restoration-parthenon-tourism-da06640fcd747498613d31b64dac369a)
-- [Cybersecurity by the Book](https://www.justus.pw/posts/2026-06-29-cybersecurity-by-the-book.html)
-- [F-Droid and the Future of Open-Source Android; an Interview with DocWolle](https://gardinerbryant.com/f-droid-and-the-future-of-open-source/)
-- [Vincent Chan: Inside PayPal &lpar;2010&rpar;](https://paulgraham.com/paypal.html)
-- [Ask HN: How do I find first paying users for my app?](https://news.ycombinator.com/item?id=48715575)
-- [Europe&#39;s record heat has overwhelmed Paris mortuaries; left families in distress](https://apnews.com/article/france-europe-heat-wave-weather-climate-change-a9095af72d14cfdd9ca43637490083e9)
-- [CPJ undertakes review of documentation of journalists killed in Israel-Gaza war](https://cpj.org/2026/06/cpj-undertakes-review-of-its-documentation-of-journalists-killed-in-israel-gaza-war-since-2023/)
-- [Tensordyne Converts AI Matrix Math to Logs to Crank Up Inference Oomph](https://www.nextplatform.com/compute/2026/06/16/tensordyne-converts-ai-matrix-math-to-logs-to-crank-up-inference-oomph/5256558)
-- [Show HN: Spire](https://spire.synov8studio.com)
+- [The op log was peer-to-peer the whole time](https://avelino.run/from-icloud-to-peers/)
+- [I built a free invoice generator for freelancers – no login, no subscription](https://quickinvoice-jade.vercel.app)
+- [Operation RYaN](https://en.wikipedia.org/wiki/Operation_RYAN)
+- [We built a P2P app with no servers. 1M users didn&#39;t miss them [Video]](https://www.youtube.com/watch?v=n76zGrt4aRY)
+- [Tangled CI runs on microVMs](https://blog.tangled.org/spindle-microvm/)
+- [Manifest-Driven Development](https://spacedock.md/blog/manifest-driven-development/)
+- [Meshtryoshka: Differentiable Mesh Rendering for Unbounded Scenes](https://danielxu9393.github.io/meshtryoshka-website/)
+- [OGN 3D Viewer – glider flights replayed in 3D in the browser](https://s-celles.github.io/ogn-3d-viewer/)
+- [PostgreSQL Management Platform](https://gilliomfrontlinedigital.com/)
+- [There&#39;s this mystery of what, actually, is this thing?: DeepMind&#39;s philosopher](https://www.theguardian.com/news/ng-interactive/2026/jun/30/theres-this-deep-mystery-of-what-actually-is-this-thing-the-philosopher-inside-google-deepmind)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

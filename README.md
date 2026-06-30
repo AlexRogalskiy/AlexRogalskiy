@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Pakistan carries out deadly airstrikes along Afghanistan border](https://www.theguardian.com/world/2026/jun/29/pakistan-deadly-airstrikes-afghanistan-border)
-- [One person a week in England dies with undiagnosed TB, study finds](https://www.theguardian.com/society/2026/jun/29/england-undiagnosed-tuberculosis-tb)
-- [The uneasy story about an alleged Russian spy: best podcasts of the week](https://www.theguardian.com/tv-and-radio/2026/jun/29/the-uneasy-story-about-an-alleged-russian-spy-best-podcasts-of-the-week)
-- [A Ukrainian military school graduation ceremony – photo essay](https://www.theguardian.com/world/2026/jun/29/ukraine-military-school-graduation-ceremony-photo-essay)
-- [Good for business – or profit at any cost? The controversial side of private equity – a visual explainer](https://www.theguardian.com/business/ng-interactive/2026/jun/29/private-equity-visual-explainer-uk-veterinary-sector)
-- [Your swimwear is probably made from plastic. Here are 11 more responsible alternatives](https://www.theguardian.com/thefilter/2026/jun/29/best-responsible-swimwear-tested-uk)
-- [Fragments of Ice review – fascinating chronicle of Soviet collapse through the lens of a Ukrainian ice skater](https://www.theguardian.com/film/2026/jun/29/fragments-of-ice-review-fascinating-chronicle-of-soviet-collapse-through-the-lens-of-a-ukrainian-ice-skater)
-- [Trekking through a living mountain culture: Spain’s Picos de Europa](https://www.theguardian.com/travel/2026/jun/29/adventure-travel-hike-picos-de-europa-spain)
-- [‘Buy the haystack’: how tracker funds beat searching for shares](https://www.theguardian.com/money/2026/jun/29/how-tracker-funds-beat-searching-for-shares)
-- [Ring Video Doorbell Pro review: night and day better with new 4K camera](https://www.theguardian.com/technology/2026/jun/29/ring-video-doorbell-pro-review)
+- [Cost to rewire Great Britain’s electricity network could reach £90bn in 2030s](https://www.theguardian.com/business/2026/jun/30/great-britain-electricity-network-90bn-pounds-2030s)
+- [Unite boss to face leadership challenge amid concerns over rise of Reform](https://www.theguardian.com/uk-news/2026/jun/30/unite-union-sharon-graham-leadership-challenge-reform-uk)
+- [Brompton sells stakes to Decathlon and Chinese Labubu backer](https://www.theguardian.com/business/2026/jun/30/brompton-sells-stakes-decathlon-bike-maker-sales)
+- [‘Commanding heights of the economy’: the postwar blueprint that inspires Burnham](https://www.theguardian.com/politics/2026/jun/30/andy-burnham-nationalisation-clement-attlee)
+- [Want to know what Andy Burnham would do in government? Take a look at his past | Frances Ryan](https://www.theguardian.com/commentisfree/2026/jun/30/andy-burnham-government-views-tax-welfare-social-care)
+- [Poppy seed potatoes and chicken kebabs: Nisha Katona’s recipes for home-style Indian favourites](https://www.theguardian.com/food/2026/jul/01/poppy-seed-potatoes-chicken-kebabs-indian-recipes-nisha-katona)
+- [‘I hadn’t seen people smiling until I arrived in the UK’: one man’s harrowing journey from Yemen to safety](https://www.theguardian.com/global-development/2026/jun/30/yemen-europe-killing-of-three-boys-unexploded-bomb-conscription)
+- [Chinese tycoon Guo Wengui sentenced to 30 years in US prison for fraud](https://www.theguardian.com/world/2026/jun/30/guo-wengui-chinese-tycoon-sentenced-us-prison-fraud)
+- [Morocco edge wild last-32 penalty shootout as Netherlands pay heavy price for misses](https://www.theguardian.com/football/2026/jun/30/netherlands-morocco-world-cup-2026-last-32-match-report)
+- [Never mind the Bayeux! Here’s some other great medieval art – and it’s free](https://www.theguardian.com/artanddesign/2026/jun/30/bayeux-great-medieval-art-cathedrals)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

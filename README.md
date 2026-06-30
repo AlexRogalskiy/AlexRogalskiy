@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Lore – give your coding agent the decisions your team made](https://github.com/itsthelore/rac-core)
-- [Herdr: Agent multiplexer that lives in your terminal](https://github.com/ogulcancelik/herdr)
-- [Age verification is just a precursor to automated attribution of speech](https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026)
-- [HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88](https://danunparsed.com/p/hackerrank-open-source-ats)
-- [Knowledge Distillation of Black-Box Large Language Models &lpar;2024&rpar;](https://arxiv.org/abs/2401.07013)
-- [Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs](https://github.com/kamaludu/bash4llm/)
-- [TOP500 at ISC’26: We have a New Number 1 Supercomputer](https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number)
-- [Librepods: AirPods liberated](https://github.com/librepods-org/librepods)
-- [Historical memory prices 1960-2026](https://dam.stanford.edu/memory-prices.html)
-- [GLM 5.2 beats Claude in our benchmarks](https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/)
+- [Popping the GPU Bubble](https://moondream.ai/blog/popping-the-gpu-bubble)
+- [Study suggests most Americans would be healthier without daylight saving time](https://med.stanford.edu/news/all-news/2025/09/daylight-saving-time.html)
+- [Exploring PDP-1 Lisp &lpar;1960&rpar;](https://obsolescence.dev/pdp1-lisp-introduction.html)
+- [Memory Safe Context Switching](https://fil-c.org/context_switches)
+- [LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active](https://longcat.chat/blog/longcat-2.0/)
+- [South Korea to spend $1T on more memory chip production and humanoid robots](https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/)
+- [.self: A new top-level domain designed to support self-hosting](https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/)
+- [Ornith-1.0: self-improving open-source models for agentic coding](https://github.com/deepreinforce-ai/Ornith-1)
+- [Qwen 3.6 27B is the sweet spot for local development](https://quesma.com/blog/qwen-36-is-awesome/)
+- [US Supreme Court rules geofence warrants require constitutional protections](https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

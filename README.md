@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Popping the GPU Bubble](https://moondream.ai/blog/popping-the-gpu-bubble)
-- [Study suggests most Americans would be healthier without daylight saving time](https://med.stanford.edu/news/all-news/2025/09/daylight-saving-time.html)
-- [Exploring PDP-1 Lisp &lpar;1960&rpar;](https://obsolescence.dev/pdp1-lisp-introduction.html)
-- [Memory Safe Context Switching](https://fil-c.org/context_switches)
-- [LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active](https://longcat.chat/blog/longcat-2.0/)
-- [South Korea to spend $1T on more memory chip production and humanoid robots](https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/)
-- [.self: A new top-level domain designed to support self-hosting](https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/)
-- [Ornith-1.0: self-improving open-source models for agentic coding](https://github.com/deepreinforce-ai/Ornith-1)
-- [Qwen 3.6 27B is the sweet spot for local development](https://quesma.com/blog/qwen-36-is-awesome/)
-- [US Supreme Court rules geofence warrants require constitutional protections](https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision)
+- [The first early human eggs from stem cells](https://www.conception.bio/science-and-updates/the-first-early-human-eggs-from-stem-cells)
+- [Claude Fable 5 available globally tomorrow](https://twitter.com/anthropicai/status/2072163884430229756)
+- [How employment changes when firms adopt generative AI](https://ramp.com/data/ai-jobs-impact)
+- [ArXiv&#39;s Next Chapter](https://blog.arxiv.org/2026/06/30/arxivs-next-chapter/)
+- [Forestiere Underground Gardens](https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens)
+- [Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5](https://twitter.com/AnthropicAI/status/2072106151890809341)
+- [Google copybara: moving code between repositories](https://github.com/google/copybara)
+- [Hatari – Online Atari ST/STE/TT/Falcon Emulator](https://hatari.frama.io/hatari/online/hatari.html)
+- [From brain waves to words: a new path to communication without surgery](https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1)
+- [I ported Kubernetes to the browser](https://ngrok.com/blog/i-ported-kubernetes-to-the-browser)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

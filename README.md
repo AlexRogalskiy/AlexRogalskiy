@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Cost to rewire Great Britain’s electricity network could reach £90bn in 2030s](https://www.theguardian.com/business/2026/jun/30/great-britain-electricity-network-90bn-pounds-2030s)
-- [Unite boss to face leadership challenge amid concerns over rise of Reform](https://www.theguardian.com/uk-news/2026/jun/30/unite-union-sharon-graham-leadership-challenge-reform-uk)
-- [Brompton sells stakes to Decathlon and Chinese Labubu backer](https://www.theguardian.com/business/2026/jun/30/brompton-sells-stakes-decathlon-bike-maker-sales)
-- [‘Commanding heights of the economy’: the postwar blueprint that inspires Burnham](https://www.theguardian.com/politics/2026/jun/30/andy-burnham-nationalisation-clement-attlee)
-- [Want to know what Andy Burnham would do in government? Take a look at his past | Frances Ryan](https://www.theguardian.com/commentisfree/2026/jun/30/andy-burnham-government-views-tax-welfare-social-care)
-- [Poppy seed potatoes and chicken kebabs: Nisha Katona’s recipes for home-style Indian favourites](https://www.theguardian.com/food/2026/jul/01/poppy-seed-potatoes-chicken-kebabs-indian-recipes-nisha-katona)
-- [‘I hadn’t seen people smiling until I arrived in the UK’: one man’s harrowing journey from Yemen to safety](https://www.theguardian.com/global-development/2026/jun/30/yemen-europe-killing-of-three-boys-unexploded-bomb-conscription)
-- [Chinese tycoon Guo Wengui sentenced to 30 years in US prison for fraud](https://www.theguardian.com/world/2026/jun/30/guo-wengui-chinese-tycoon-sentenced-us-prison-fraud)
-- [Morocco edge wild last-32 penalty shootout as Netherlands pay heavy price for misses](https://www.theguardian.com/football/2026/jun/30/netherlands-morocco-world-cup-2026-last-32-match-report)
-- [Never mind the Bayeux! Here’s some other great medieval art – and it’s free](https://www.theguardian.com/artanddesign/2026/jun/30/bayeux-great-medieval-art-cathedrals)
+- [ScottishPower owes me £1,000 in solar panel payments](https://www.theguardian.com/money/2026/jul/01/scottishpower-solar-panel-payments)
+- [‘The landscape offers the same russet and ochre hues as the Bayeux tapestry’: walking the 1066 trail in East Sussex](https://www.theguardian.com/travel/2026/jul/01/walking-1066-trail-battle-of-hastings-east-sussex)
+- [Click bait! Kraszna-Krausz photography book award winners – in pictures](https://www.theguardian.com/artanddesign/gallery/2026/jul/01/kraszna-krausz-photography-book-award-winners-in-pictures)
+- [Depraved by Daisy Dixon review – a history of dark and dangerous art](https://www.theguardian.com/books/2026/jul/01/depraved-by-daisy-dixon-review-a-history-of-dark-and-dangerous-art)
+- [When the right promotes heat-stress denial, ask yourself this: whose children’s lives is it willing to risk? | George Monbiot](https://www.theguardian.com/commentisfree/2026/jul/01/right-danger-heatwaves-children-class-politics-extreme-heat-billionaire-press)
+- [A moment that changed me: my grandpa risks his life to litter pick – and he taught me a profound lesson](https://www.theguardian.com/lifeandstyle/2026/jul/01/moment-that-changed-me-litter-picking-grandpa-good-citizen)
+- [TV tonight: the season finale of a gloomily gripping Welsh drama](https://www.theguardian.com/tv-and-radio/2026/jul/01/tv-tonight-the-season-finale-of-a-gloomily-gripping-welsh-drama)
+- [‘Complicated and expensive’: Burnham is right about the risks of nationalisation | Nils Pratley](https://www.theguardian.com/business/nils-pratley-on-finance/2026/jul/01/burnham-nationalisation-risks-welsh-water)
+- [Women behind the lens: ‘My grandma dressed like a celebrity, even matching the colour of her cigarettes to her outfits’](https://www.theguardian.com/global-development/2026/jul/01/women-behind-the-lens-gran-outfits-egyptian-photographer-farida-mahdy-grandmother-style-photos)
+- [Smoky chipotle tomatoes and chargrilled courgettes: Thomasina Miers’ barbecued meze recipes  | Sunday best](https://www.theguardian.com/food/2026/jul/01/smoky-chipotle-tomatoes-chargrilled-courgettes-barbecued-meze-recipes-thomasina-miers)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The op log was peer-to-peer the whole time](https://avelino.run/from-icloud-to-peers/)
-- [I built a free invoice generator for freelancers – no login, no subscription](https://quickinvoice-jade.vercel.app)
-- [Operation RYaN](https://en.wikipedia.org/wiki/Operation_RYAN)
-- [We built a P2P app with no servers. 1M users didn&#39;t miss them [Video]](https://www.youtube.com/watch?v=n76zGrt4aRY)
-- [Tangled CI runs on microVMs](https://blog.tangled.org/spindle-microvm/)
-- [Manifest-Driven Development](https://spacedock.md/blog/manifest-driven-development/)
-- [Meshtryoshka: Differentiable Mesh Rendering for Unbounded Scenes](https://danielxu9393.github.io/meshtryoshka-website/)
-- [OGN 3D Viewer – glider flights replayed in 3D in the browser](https://s-celles.github.io/ogn-3d-viewer/)
-- [PostgreSQL Management Platform](https://gilliomfrontlinedigital.com/)
-- [There&#39;s this mystery of what, actually, is this thing?: DeepMind&#39;s philosopher](https://www.theguardian.com/news/ng-interactive/2026/jun/30/theres-this-deep-mystery-of-what-actually-is-this-thing-the-philosopher-inside-google-deepmind)
+- [The young Chinese choosing life in &#39;ghost cities&#39;](https://www.ft.com/content/510b7c6c-04b4-4ba0-a6bb-5208de76572e)
+- [Trump made $1B from crypto, financial disclosure shows](https://abcnews.com/Politics/trump-made-1-billion-crypto-financial-disclosure-shows/story?id=134358357)
+- [Changing AI math could reduce the hardware burden](https://www.theregister.com/ai-and-ml/2026/06/30/changing-ai-math-could-reduce-the-hardware-burden-researchers-show/5264609)
+- [Berlin&#39;s Legendary XLt Subkultur Tours](https://xlterrestrials.substack.com/p/re-launch-the-xlterrestrials-subkultur)
+- [Zhuque-3, Long March 10B Aiming for Booster Recovery in July](https://www.china-in-space.com/p/zhuque-3-long-march-10b-aiming-for)
+- [Fox News Apologizes for Kevin O&#39;Leary&#39;s &#39;Chinese Communist&#39; Comments](https://www.sltrib.com/news/2026/06/25/kevin-oleary-retracts-chinese/)
+- [Claude Code uses prompt caching](https://code.claude.com/docs/en/prompt-caching)
+- [Show HN: ParaMetal: 3D Realtime Thermal Analysis SIM](https://parametal.com/)
+- [Many Australians can get three free hours of power from today](https://www.theguardian.com/environment/2026/jun/30/solar-sharer-offer-sso-three-free-hours-electricity-power-energy-australia)
+- [Prompt Caching – Claude Platform Docs](https://platform.claude.com/docs/en/build-with-claude/prompt-caching)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

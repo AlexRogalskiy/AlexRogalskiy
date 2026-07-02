@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The first early human eggs from stem cells](https://www.conception.bio/science-and-updates/the-first-early-human-eggs-from-stem-cells)
-- [Claude Fable 5 available globally tomorrow](https://twitter.com/anthropicai/status/2072163884430229756)
-- [How employment changes when firms adopt generative AI](https://ramp.com/data/ai-jobs-impact)
-- [ArXiv&#39;s Next Chapter](https://blog.arxiv.org/2026/06/30/arxivs-next-chapter/)
-- [Forestiere Underground Gardens](https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens)
-- [Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5](https://twitter.com/AnthropicAI/status/2072106151890809341)
-- [Google copybara: moving code between repositories](https://github.com/google/copybara)
-- [Hatari – Online Atari ST/STE/TT/Falcon Emulator](https://hatari.frama.io/hatari/online/hatari.html)
-- [From brain waves to words: a new path to communication without surgery](https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1)
-- [I ported Kubernetes to the browser](https://ngrok.com/blog/i-ported-kubernetes-to-the-browser)
+- [Kimi K2.7 Code is generally available in GitHub Copilot](https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/)
+- [Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers](https://senior-swe-bench.snorkel.ai/)
+- [Bring back crappy forums](https://tedium.co/2026/07/01/online-web-forums-retrospective/)
+- [Oomwoo, an open-source robot vacuum you build yourself](https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/)
+- [Global review confirms mRNA vaccines are safe, effective and full of promise](https://news.ubc.ca/2026/06/mrna-vaccines-are-safe-effective-and-full-of-promise/)
+- [The &lt;Usermedia&gt; HTML Element](https://developer.chrome.com/blog/usermedia-html-element)
+- [Healthy but sedentary people show early decline in cellular energy production](https://news.cuanschutz.edu/news-stories/healthy-but-sedentary-individuals-show-early-decline-in-cellular-energy-production)
+- [The Underhanded C Contest](https://underhanded-c.org/)
+- [Opening up &#39;Zero-Knowledge Proof&#39; technology to promote privacy in age assurance](https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/)
+- [ZCode – Harness for GLM-5.2](https://zcode.z.ai/en)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [ScottishPower owes me £1,000 in solar panel payments](https://www.theguardian.com/money/2026/jul/01/scottishpower-solar-panel-payments)
-- [‘The landscape offers the same russet and ochre hues as the Bayeux tapestry’: walking the 1066 trail in East Sussex](https://www.theguardian.com/travel/2026/jul/01/walking-1066-trail-battle-of-hastings-east-sussex)
-- [Click bait! Kraszna-Krausz photography book award winners – in pictures](https://www.theguardian.com/artanddesign/gallery/2026/jul/01/kraszna-krausz-photography-book-award-winners-in-pictures)
-- [Depraved by Daisy Dixon review – a history of dark and dangerous art](https://www.theguardian.com/books/2026/jul/01/depraved-by-daisy-dixon-review-a-history-of-dark-and-dangerous-art)
-- [When the right promotes heat-stress denial, ask yourself this: whose children’s lives is it willing to risk? | George Monbiot](https://www.theguardian.com/commentisfree/2026/jul/01/right-danger-heatwaves-children-class-politics-extreme-heat-billionaire-press)
-- [A moment that changed me: my grandpa risks his life to litter pick – and he taught me a profound lesson](https://www.theguardian.com/lifeandstyle/2026/jul/01/moment-that-changed-me-litter-picking-grandpa-good-citizen)
-- [TV tonight: the season finale of a gloomily gripping Welsh drama](https://www.theguardian.com/tv-and-radio/2026/jul/01/tv-tonight-the-season-finale-of-a-gloomily-gripping-welsh-drama)
-- [‘Complicated and expensive’: Burnham is right about the risks of nationalisation | Nils Pratley](https://www.theguardian.com/business/nils-pratley-on-finance/2026/jul/01/burnham-nationalisation-risks-welsh-water)
-- [Women behind the lens: ‘My grandma dressed like a celebrity, even matching the colour of her cigarettes to her outfits’](https://www.theguardian.com/global-development/2026/jul/01/women-behind-the-lens-gran-outfits-egyptian-photographer-farida-mahdy-grandmother-style-photos)
-- [Smoky chipotle tomatoes and chargrilled courgettes: Thomasina Miers’ barbecued meze recipes  | Sunday best](https://www.theguardian.com/food/2026/jul/01/smoky-chipotle-tomatoes-chargrilled-courgettes-barbecued-meze-recipes-thomasina-miers)
+- [TV tonight: inside the life of one of cinema’s most enigmatic stars](https://www.theguardian.com/tv-and-radio/2026/jul/02/tv-tonight-inside-the-life-of-one-of-cinemas-most-enigmatic-stars)
+- [Burnham’s No 10 North: could two-centre government be made to work?](https://www.theguardian.com/politics/2026/jul/02/burnhams-no-10-north-could-two-centre-government-be-made-to-work)
+- [Rachel Roddy’s recipe for peppered mussels with salty chips | A kitchen in Rome](https://www.theguardian.com/food/2026/jul/02/peppered-mussels-salty-chips-recipe-rachel-roddy)
+- [Starmer’s goodbye gift to Britain: a US pharma deal that could be more lethal than Covid | Aditya Chakrabortty](https://www.theguardian.com/commentisfree/2026/jul/02/keir-starmer-britain-pharma-deal-covid)
+- [EU-approved pesticide found to have potential effects on brain development](https://www.theguardian.com/environment/2026/jul/02/eu-approved-pesticide-found-to-have-potential-effects-on-brain-development)
+- [From Mrs Merton to Scorchio! It’s Caroline Aherne’s 10 best moments](https://www.theguardian.com/tv-and-radio/2026/jul/02/from-mrs-merton-to-scorchio-its-caroline-ahernes-10-best-moments)
+- [Billionaire to invest £35bn in small modular nuclear reactors roll out across UK](https://www.theguardian.com/business/2026/jul/02/billionaire-michal-solowow-small-modular-nuclear-reactors-uk)
+- [Thursday news quiz: stolen saplings, legal happenings and a missing giraffe](https://www.theguardian.com/lifeandstyle/2026/jul/02/the-guardian-thursday-quiz-general-knowledge-topical-news-trivia-254)
+- [‘Exploratory and curious animals’: mysterious rise in orca sightings off Northumberland coast](https://www.theguardian.com/environment/2026/jul/02/northumberland-coast-rise-orca-sightings)
+- [What is the ESS and how is it affecting visitors to EU nations this summer?](https://www.theguardian.com/business/2026/jul/02/what-is-the-ess-and-how-is-it-affecting-visitors-to-eu-nations-this-summer)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

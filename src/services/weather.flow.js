@@ -1,20 +1,29 @@
 'use strict';
 
 // configurations
-require('https').globalAgent.options.ca = require('ssl-root-cas').create()
+import {globalAgent} from 'https';
+
+import {create} from 'ssl-root-cas';
 
 // vendors
-const fetch = require('node-fetch')
-// services
-const { formatSideDirection, formatDateByShortPattern, formatDateByLongPattern, renderView } = require('../utils/commons')
+import fetch from 'node-fetch';
+
 // constants
-const { CONFIG_PROPS, SERVICE_PROPS } = require('../configs/constants')
+import {CONFIG_PROPS, SERVICE_PROPS} from '../configs/constants.js';
 
-async function runWeatherFlow() {
+// services
+import {
+  formatDateByLongPattern,
+  formatDateByShortPattern,
+  formatSideDirection, renderView
+} from '../utils/commons.js';
 
+globalAgent.options.ca = create();
+
+export async function runWeatherFlow() {
   const MODEL_DATA = {
-    refresh_date: formatDateByLongPattern(new Date())
-  }
+    refresh_date: formatDateByLongPattern(new Date()),
+  };
 
   async function updateWeatherPosts() {
     await fetch(
@@ -22,20 +31,20 @@ async function runWeatherFlow() {
     )
       .then(r => r.json())
       .then(r => {
-        MODEL_DATA.temperature = Math.round(r.main.temp)
-        MODEL_DATA.pressure = Math.round(r.main.pressure)
-        MODEL_DATA.humidity = Math.round(r.main.humidity)
+        MODEL_DATA.temperature = Math.round(r.main.temp);
+        MODEL_DATA.pressure = Math.round(r.main.pressure);
+        MODEL_DATA.humidity = Math.round(r.main.humidity);
 
-        MODEL_DATA.clouds = Math.round(r.clouds.all)
-        MODEL_DATA.wind = Math.round(r.wind.speed)
-        MODEL_DATA.wind_direction = formatSideDirection(r.wind.deg)
+        MODEL_DATA.clouds = Math.round(r.clouds.all);
+        MODEL_DATA.wind = Math.round(r.wind.speed);
+        MODEL_DATA.wind_direction = formatSideDirection(r.wind.deg);
 
-        MODEL_DATA.weather = r.weather[0].description
-        MODEL_DATA.weather_icon = r.weather[0].icon
+        MODEL_DATA.weather = r.weather[0].description;
+        MODEL_DATA.weather_icon = r.weather[0].icon;
 
-        MODEL_DATA.sunrise = formatDateByShortPattern(r.sys.sunrise)
-        MODEL_DATA.sunset = formatDateByShortPattern(r.sys.sunset)
-      })
+        MODEL_DATA.sunrise = formatDateByShortPattern(r.sys.sunrise);
+        MODEL_DATA.sunset = formatDateByShortPattern(r.sys.sunset);
+      });
   }
 
   async function updateWeatherView() {
@@ -45,17 +54,15 @@ async function runWeatherFlow() {
       MODEL_DATA,
       SERVICE_PROPS.WEATHER.placeholder,
       SERVICE_PROPS.WEATHER.replacer
-    )
+    );
   }
 
   /**
    * Fetching weather data
    */
-  await updateWeatherPosts()
+  await updateWeatherPosts();
   /**
    * Generating README Weather block by mustache template
    */
-  await updateWeatherView()
+  await updateWeatherView();
 }
-
-module.exports = runWeatherFlow

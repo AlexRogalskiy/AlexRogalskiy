@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Kimi K2.7 Code is generally available in GitHub Copilot](https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/)
-- [Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers](https://senior-swe-bench.snorkel.ai/)
-- [Bring back crappy forums](https://tedium.co/2026/07/01/online-web-forums-retrospective/)
-- [Oomwoo, an open-source robot vacuum you build yourself](https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/)
-- [Global review confirms mRNA vaccines are safe, effective and full of promise](https://news.ubc.ca/2026/06/mrna-vaccines-are-safe-effective-and-full-of-promise/)
-- [The &lt;Usermedia&gt; HTML Element](https://developer.chrome.com/blog/usermedia-html-element)
-- [Healthy but sedentary people show early decline in cellular energy production](https://news.cuanschutz.edu/news-stories/healthy-but-sedentary-individuals-show-early-decline-in-cellular-energy-production)
-- [The Underhanded C Contest](https://underhanded-c.org/)
-- [Opening up &#39;Zero-Knowledge Proof&#39; technology to promote privacy in age assurance](https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/)
-- [ZCode – Harness for GLM-5.2](https://zcode.z.ai/en)
+- [The Free Market Lie: Why Switzerland Has 25 Gbit Internet and America Doesn&#39;t](https://stefan.schueller.net/posts/the-free-market-lie/)
+- [Every AI Visibility Tool Is Lying to You](https://canonry.ai/blog/ai-visibility-tools-are-lying)
+- [14× faster embeddings: how we rebuilt the ONNX path in Manticore](https://manticoresearch.com/blog/onnx-embeddings-speedup/)
+- [CarPlay Is Additive](https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts)
+- [An American Privacy Emergency](https://scottaaronson.blog/?p=9902)
+- [Right to Local Intelligence](https://righttointelligence.org/)
+- [crustc: entirety of `rustc`, translated to C](https://github.com/FractalFir/crustc)
+- [Mystery identity of &#39;Green Boots&#39; climber is finally solved after DNA test](https://www.dailymail.com/news/article-15943905/Mystery-identity-Green-Boots-climber-macabre-landmark-frozen-ice-dying-Everest-finally-solved-DNA-test.html)
+- [Virginia bans sale of geolocation data](https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data)
+- [Lightning Memory-Mapped Database Manager &lpar;LMDB&rpar; 1.0](http://www.lmdb.tech/doc/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

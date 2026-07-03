@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [TV tonight: inside the life of one of cinema’s most enigmatic stars](https://www.theguardian.com/tv-and-radio/2026/jul/02/tv-tonight-inside-the-life-of-one-of-cinemas-most-enigmatic-stars)
-- [Burnham’s No 10 North: could two-centre government be made to work?](https://www.theguardian.com/politics/2026/jul/02/burnhams-no-10-north-could-two-centre-government-be-made-to-work)
-- [Rachel Roddy’s recipe for peppered mussels with salty chips | A kitchen in Rome](https://www.theguardian.com/food/2026/jul/02/peppered-mussels-salty-chips-recipe-rachel-roddy)
-- [Starmer’s goodbye gift to Britain: a US pharma deal that could be more lethal than Covid | Aditya Chakrabortty](https://www.theguardian.com/commentisfree/2026/jul/02/keir-starmer-britain-pharma-deal-covid)
-- [EU-approved pesticide found to have potential effects on brain development](https://www.theguardian.com/environment/2026/jul/02/eu-approved-pesticide-found-to-have-potential-effects-on-brain-development)
-- [From Mrs Merton to Scorchio! It’s Caroline Aherne’s 10 best moments](https://www.theguardian.com/tv-and-radio/2026/jul/02/from-mrs-merton-to-scorchio-its-caroline-ahernes-10-best-moments)
-- [Billionaire to invest £35bn in small modular nuclear reactors roll out across UK](https://www.theguardian.com/business/2026/jul/02/billionaire-michal-solowow-small-modular-nuclear-reactors-uk)
-- [Thursday news quiz: stolen saplings, legal happenings and a missing giraffe](https://www.theguardian.com/lifeandstyle/2026/jul/02/the-guardian-thursday-quiz-general-knowledge-topical-news-trivia-254)
-- [‘Exploratory and curious animals’: mysterious rise in orca sightings off Northumberland coast](https://www.theguardian.com/environment/2026/jul/02/northumberland-coast-rise-orca-sightings)
-- [What is the ESS and how is it affecting visitors to EU nations this summer?](https://www.theguardian.com/business/2026/jul/02/what-is-the-ess-and-how-is-it-affecting-visitors-to-eu-nations-this-summer)
+- [Tibetan man dies after setting himself on fire outside UN in New York, activists say](https://www.theguardian.com/world/2026/jul/03/tibet-china-man-tibetan-flag-set-himself-on-fire-dies-un-united-nations-new-york)
+- [TV tonight: it’s everyone’s favourite sheep-herding family](https://www.theguardian.com/tv-and-radio/2026/jul/03/tv-tonight-its-everyones-favourite-sheep-herding-family)
+- [‘Ridiculous’ for US to maintain current Nato support, Trump warns ahead of alliance summit](https://www.theguardian.com/us-news/2026/jul/03/trump-nato-alliance-support-ridiculous-ahead-of-summit)
+- [Manzambi dazzles as Switzerland cruise into last 16 with win over Algeria](https://www.theguardian.com/football/2026/jul/03/manzambi-switzerland-world-cup-algeria-match-report)
+- [Talk is of newlywed Taylor Swift taking a break from music. Did I take a nap and wake up in the 1950s? | Laura Snapes](https://www.theguardian.com/commentisfree/2026/jul/03/taylor-swift-wedding-travis-kelce-break-music)
+- [Spyware used against MEP investigating Pegasus abuses, report finds](https://www.theguardian.com/world/2026/jul/03/spyware-used-against-mep-investigating-pegasus-abuses-report-finds)
+- [Love story: what to wear to celebrate Taylor Swift’s wedding](https://www.theguardian.com/fashion/gallery/2026/jul/03/what-to-wear-american-wedding-taylor-swift-travis-kelce)
+- [Benjamina Ebuehi’s recipe for honey butter brioche with grilled peaches | The sweet spot](https://www.theguardian.com/food/2026/jul/03/benjamina-ebuehi-recipe-honey-butter-brioche-grilled-peaches)
+- [‘Bigger than football’: Norway fans’ Viking row makes waves at World Cup](https://www.theguardian.com/world/2026/jul/03/norway-fans-viking-row-world-cup)
+- [Experience: I’ve found a four-leaf clover every day for three years](https://www.theguardian.com/lifeandstyle/2026/jul/03/experience-four-leaf-clover-every-day-three-years-good-luck-symbol)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

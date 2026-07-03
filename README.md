@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [What Happened to the Fight for the Internet?](https://dustycloud.org/blog/what-happened-to-the-fight-for-the-internet/)
-- [Power House – a Rust/Python toolkit for verifiable computation artifacts](https://mfenx.com)
-- [Nomenclator &lpar;Nomenclature&rpar;](https://en.wikipedia.org/wiki/Nomenclator_(nomenclature))
-- [Age Checks That Don&#39;t Reveal Identity: Privacy Preserving Attribute Verification [pdf]](https://magarshak.com/papers/Personal.pdf)
-- [City on the Edge: Can San Francisco&#39;s soul survive techno-capitalism?](https://www.ft.com/content/e9a5639c-eaad-4c24-997b-1cdf9348851d)
-- [Show HN: Searchable directory of HN Job postings](https://gethnjobs.com/)
-- [On AI Text Detection](https://ethansmith2000.substack.com/p/ai-text-detection-arms-dealers-in)
-- [Ditching Vagrant](https://benjamintoll.com/2026/06/29/on-ditching-vagrant/)
-- [Show HN: PDFWix – Browser-Based PDF Tools for Everyday Workflows](https://www.pdfwix.com/)
-- [He sent a harsh email to ICE&#39;s top official. Federal agents tracked him down](https://www.npr.org/2026/07/01/nx-s1-5874124/dhs-tracks-ice-critic)
+- [AI is punishing game developers [video]](https://www.youtube.com/watch?v=59XdUJRzRxc)
+- [Show HN: Mobile View – a Chrome extension showing desktop and mobile at once](https://chromewebstore.google.com/detail/mobile-view-â-mobile-simu/hocbjiaeeijekejepphjihbpogikmofh)
+- [Agentrc – Dockerfile-shaped, governed packaging for AI agents](https://agentrc.ai/)
+- [First Principles of Model Routing](https://try.works/first-principles-of-model-routing)
+- [Instagram running ads promoting child sexual abuse material in India, BBC finds](https://www.bbc.co.uk/news/articles/cvgm4e0316zo)
+- [Anthropic moves to close loopholes that allow Chinese access to Claude](https://www.ft.com/content/ad033063-60f9-4c0c-8d8a-9193a83e6f60)
+- [Show HN: HTTPS://HN-Jobs.com](https://hn-jobs.com)
+- [Show HN: b10 – for files](https://github.com/wilds-land/b10)
+- [Free tool that finds your #1 digital workflow bottleneck in 5 minutes](https://flashconsult.ctonew.app)
+- [Nearly 1M people worldwide became millionaires in 2025, UBS report finds](https://www.reuters.com/markets/wealth/nearly-one-million-people-worldwide-became-millionaires-2025-ubs-report-finds-2026-06-30/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

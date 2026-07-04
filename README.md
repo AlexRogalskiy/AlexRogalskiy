@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Tibetan man dies after setting himself on fire outside UN in New York, activists say](https://www.theguardian.com/world/2026/jul/03/tibet-china-man-tibetan-flag-set-himself-on-fire-dies-un-united-nations-new-york)
-- [TV tonight: it’s everyone’s favourite sheep-herding family](https://www.theguardian.com/tv-and-radio/2026/jul/03/tv-tonight-its-everyones-favourite-sheep-herding-family)
-- [‘Ridiculous’ for US to maintain current Nato support, Trump warns ahead of alliance summit](https://www.theguardian.com/us-news/2026/jul/03/trump-nato-alliance-support-ridiculous-ahead-of-summit)
-- [Manzambi dazzles as Switzerland cruise into last 16 with win over Algeria](https://www.theguardian.com/football/2026/jul/03/manzambi-switzerland-world-cup-algeria-match-report)
-- [Talk is of newlywed Taylor Swift taking a break from music. Did I take a nap and wake up in the 1950s? | Laura Snapes](https://www.theguardian.com/commentisfree/2026/jul/03/taylor-swift-wedding-travis-kelce-break-music)
-- [Spyware used against MEP investigating Pegasus abuses, report finds](https://www.theguardian.com/world/2026/jul/03/spyware-used-against-mep-investigating-pegasus-abuses-report-finds)
-- [Love story: what to wear to celebrate Taylor Swift’s wedding](https://www.theguardian.com/fashion/gallery/2026/jul/03/what-to-wear-american-wedding-taylor-swift-travis-kelce)
-- [Benjamina Ebuehi’s recipe for honey butter brioche with grilled peaches | The sweet spot](https://www.theguardian.com/food/2026/jul/03/benjamina-ebuehi-recipe-honey-butter-brioche-grilled-peaches)
-- [‘Bigger than football’: Norway fans’ Viking row makes waves at World Cup](https://www.theguardian.com/world/2026/jul/03/norway-fans-viking-row-world-cup)
-- [Experience: I’ve found a four-leaf clover every day for three years](https://www.theguardian.com/lifeandstyle/2026/jul/03/experience-four-leaf-clover-every-day-three-years-good-luck-symbol)
+- [TV tonight: another chance to enjoy Catherine O’Hara in Schitt’s Creek](https://www.theguardian.com/tv-and-radio/2026/jul/04/tv-tonight-another-chance-to-enjoy-catherine-ohara-in-schitts-creek)
+- [Blind date: ‘I made him take a few too many selfies…’](https://www.theguardian.com/lifeandstyle/2026/jul/04/blind-date-lily-brodie)
+- [From Madonna to Minions &amp; Monsters: your complete entertainment guide to the week ahead](https://www.theguardian.com/culture/2026/jul/04/entertainment-week-ahead-minions-monsters-madonna-little-house-prairie-assassins-black-flag)
+- [As the US marks 250, does the special relationship still exist – or is the UK just irrelevant?](https://www.theguardian.com/news/ng-interactive/2026/jul/04/us-250-britain-special-relationship)
+- [Tim Dowling: our new electric car has a mind all of its own](https://www.theguardian.com/lifeandstyle/2026/jul/04/tim-dowling-our-new-electric-car-has-a-mind-all-of-its-own)
+- [Britain has so many stories. The reason we fund the arts together is so we can tell them | James Graham](https://www.theguardian.com/commentisfree/2026/jul/04/britain-stories-arts-funding-dear-england-sherwood)
+- [Cornwall van dwellers face homelessness amid council crackdown](https://www.theguardian.com/uk-news/2026/jul/04/cornwall-van-dwellers-face-homelessness-council-crackdown)
+- [Hunting the tardigrade: one small step in sequencing DNA of all life on Earth](https://www.theguardian.com/environment/2026/jul/04/hunting-tardigrade-sequencing-dna-life-earth-invertebrate-year)
+- [Meera Sodha’s vegetarian recipe for Beijing-style courgette pancakes with hot honey cucumbers | Meera Sodha recipes](https://www.theguardian.com/food/2026/jul/04/beijing-style-courgette-pancakes-hot-honey-cucumbers-recipe-meera-sodha)
+- [I’m taking the plunge and buying a new swimsuit: the Becky Barnicoat cartoon](https://www.theguardian.com/lifeandstyle/picture/2026/jul/04/im-taking-the-plunge-and-buying-a-new-swimsuit-the-becky-barnicoat-cartoon)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

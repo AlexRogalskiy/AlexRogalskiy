@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [AI is punishing game developers [video]](https://www.youtube.com/watch?v=59XdUJRzRxc)
-- [Show HN: Mobile View – a Chrome extension showing desktop and mobile at once](https://chromewebstore.google.com/detail/mobile-view-â-mobile-simu/hocbjiaeeijekejepphjihbpogikmofh)
-- [Agentrc – Dockerfile-shaped, governed packaging for AI agents](https://agentrc.ai/)
-- [First Principles of Model Routing](https://try.works/first-principles-of-model-routing)
-- [Instagram running ads promoting child sexual abuse material in India, BBC finds](https://www.bbc.co.uk/news/articles/cvgm4e0316zo)
-- [Anthropic moves to close loopholes that allow Chinese access to Claude](https://www.ft.com/content/ad033063-60f9-4c0c-8d8a-9193a83e6f60)
-- [Show HN: HTTPS://HN-Jobs.com](https://hn-jobs.com)
-- [Show HN: b10 – for files](https://github.com/wilds-land/b10)
-- [Free tool that finds your #1 digital workflow bottleneck in 5 minutes](https://flashconsult.ctonew.app)
-- [Nearly 1M people worldwide became millionaires in 2025, UBS report finds](https://www.reuters.com/markets/wealth/nearly-one-million-people-worldwide-became-millionaires-2025-ubs-report-finds-2026-06-30/)
+- [Magit 4.6 Released](https://emacsair.me/2026/07/01/magit-4.6/)
+- [Varela: Neuromancer-inspired self-mutating coding harness](https://github.com/ajensenwaud/varela/)
+- [This is complete software. Can you say that about yours?](https://nonogra.ph/this-is-complete-software-can-you-say-that-about-yours-07-04-2026)
+- [Show HN: RightIdea – Validate app ideas with real market data before you build](https://rightidea.app)
+- [A Sort of Buzzing Inside My Head](https://www.nybooks.com/online/2023/06/25/a-sort-of-buzzing-inside-my-head/)
+- [AI puts B Corps&#39; values to the test](https://www.fastcompany.com/91568793/ai-puts-b-corps-values-to-the-test)
+- [Show HN: High performance command guard and policy enforcement for Agents in Zig](https://github.com/christopherkarani/Orca)
+- [Show HN: Crew – Let Claude Code agents talk to each other](https://github.com/0xmmo/crew)
+- [Linux Looking to Retire a Number of Old ARM Platforms in Early 2027](https://www.phoronix.com/news/Linux-Drop-Old-ARM-2027)
+- [I am dreading our LLM-written incident report future](https://surfingcomplexity.blog/2026/06/19/i-am-dreading-our-llm-written-incident-report-future/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The Free Market Lie: Why Switzerland Has 25 Gbit Internet and America Doesn&#39;t](https://stefan.schueller.net/posts/the-free-market-lie/)
-- [Every AI Visibility Tool Is Lying to You](https://canonry.ai/blog/ai-visibility-tools-are-lying)
-- [14× faster embeddings: how we rebuilt the ONNX path in Manticore](https://manticoresearch.com/blog/onnx-embeddings-speedup/)
-- [CarPlay Is Additive](https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts)
-- [An American Privacy Emergency](https://scottaaronson.blog/?p=9902)
-- [Right to Local Intelligence](https://righttointelligence.org/)
-- [crustc: entirety of `rustc`, translated to C](https://github.com/FractalFir/crustc)
-- [Mystery identity of &#39;Green Boots&#39; climber is finally solved after DNA test](https://www.dailymail.com/news/article-15943905/Mystery-identity-Green-Boots-climber-macabre-landmark-frozen-ice-dying-Everest-finally-solved-DNA-test.html)
-- [Virginia bans sale of geolocation data](https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data)
-- [Lightning Memory-Mapped Database Manager &lpar;LMDB&rpar; 1.0](http://www.lmdb.tech/doc/)
+- [Agentic coding notes from Galapogos Island](https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post)
+- [Maybe you should learn something](https://www.marginalia.nu/log/a_135_learn/)
+- [Synthesis is harder than analysis](https://surfingcomplexity.blog/2026/07/03/synthesis-is-harder-than-analysis/)
+- [MSI Center – How to gain SYSTEM privileges in seconds](https://mrbruh.com/msicenter/)
+- [Soatok&#39;s Informal Guide to Threat Models](https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/)
+- [Odin, Wikipedia and engagement farming](https://katamari64.se/posts/2026/odin-wikipedia/)
+- [The circuit that lets your brain think and see](https://www.engineering.columbia.edu/about/news/circuit-lets-your-brain-think-and-see)
+- [The firefighting system of the Van der Heyden brothers in 17th century Amsterdam](https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department/)
+- [Giant trees have no trouble pumping water to top branches: new research](https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/)
+- [Steam Controller Auto-Charge – pilot to magnetic charging puck using CV](https://github.com/FossPrime/Steam-Controller-Auto-Charge)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

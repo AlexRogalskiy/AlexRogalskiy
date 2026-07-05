@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Magit 4.6 Released](https://emacsair.me/2026/07/01/magit-4.6/)
-- [Varela: Neuromancer-inspired self-mutating coding harness](https://github.com/ajensenwaud/varela/)
-- [This is complete software. Can you say that about yours?](https://nonogra.ph/this-is-complete-software-can-you-say-that-about-yours-07-04-2026)
-- [Show HN: RightIdea – Validate app ideas with real market data before you build](https://rightidea.app)
-- [A Sort of Buzzing Inside My Head](https://www.nybooks.com/online/2023/06/25/a-sort-of-buzzing-inside-my-head/)
-- [AI puts B Corps&#39; values to the test](https://www.fastcompany.com/91568793/ai-puts-b-corps-values-to-the-test)
-- [Show HN: High performance command guard and policy enforcement for Agents in Zig](https://github.com/christopherkarani/Orca)
-- [Show HN: Crew – Let Claude Code agents talk to each other](https://github.com/0xmmo/crew)
-- [Linux Looking to Retire a Number of Old ARM Platforms in Early 2027](https://www.phoronix.com/news/Linux-Drop-Old-ARM-2027)
-- [I am dreading our LLM-written incident report future](https://surfingcomplexity.blog/2026/06/19/i-am-dreading-our-llm-written-incident-report-future/)
+- [Megawatts by Microwave](https://computer.rip/2026-07-04-microwave-and-power.html)
+- [Ask HN: How Do You Connect OpenAI Secure MCP Tunnel with Claude Desktop](https://news.ycombinator.com/item?id=48791510)
+- [Small Change [pdf]](https://web.stanford.edu/class/comm1a/readings/gladwell-small-change.pdf)
+- [Fixing analog audio on the $2.58 HDMI-to-VGA adapter](https://nyanpasu64.gitlab.io/blog/hdmi-vga-dac-audio/)
+- [After hooking China on coffee, Starbucks ramps up consumer strategy](https://www.scmp.com/business/china-business/article/3359294/after-hooking-china-coffee-starbucks-ramps-consumer-strategy)
+- [The &#39;1776 Diet&#39;: What Americans ate during the nation&#39;s founding](https://www.foxnews.com/health/1776-diet-what-americans-really-ate-during-nations-founding)
+- [A gender-swap EarthBound for my daughter &lpar;2025&rpar;](https://tommy.reddad.net/post/2025-12-04-coilsnake/)
+- [Show HN: Codex-review – a read-only cross-model review skill for Claude Code](https://github.com/shimo4228/codex-review)
+- [Beeg float library, a Rust port of Fabrice Bellard&#39;s libbf](https://github.com/lifthrasiir/libbeef)
+- [Cuba&#39;s Green Solution to the U.S. Oil Blockade: Solar-Powered Electric Tricycles [video]](https://www.youtube.com/watch?v=eeg0CthbzTE)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

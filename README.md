@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [TV tonight: another chance to enjoy Catherine O’Hara in Schitt’s Creek](https://www.theguardian.com/tv-and-radio/2026/jul/04/tv-tonight-another-chance-to-enjoy-catherine-ohara-in-schitts-creek)
-- [Blind date: ‘I made him take a few too many selfies…’](https://www.theguardian.com/lifeandstyle/2026/jul/04/blind-date-lily-brodie)
-- [From Madonna to Minions &amp; Monsters: your complete entertainment guide to the week ahead](https://www.theguardian.com/culture/2026/jul/04/entertainment-week-ahead-minions-monsters-madonna-little-house-prairie-assassins-black-flag)
-- [As the US marks 250, does the special relationship still exist – or is the UK just irrelevant?](https://www.theguardian.com/news/ng-interactive/2026/jul/04/us-250-britain-special-relationship)
-- [Tim Dowling: our new electric car has a mind all of its own](https://www.theguardian.com/lifeandstyle/2026/jul/04/tim-dowling-our-new-electric-car-has-a-mind-all-of-its-own)
-- [Britain has so many stories. The reason we fund the arts together is so we can tell them | James Graham](https://www.theguardian.com/commentisfree/2026/jul/04/britain-stories-arts-funding-dear-england-sherwood)
-- [Cornwall van dwellers face homelessness amid council crackdown](https://www.theguardian.com/uk-news/2026/jul/04/cornwall-van-dwellers-face-homelessness-council-crackdown)
-- [Hunting the tardigrade: one small step in sequencing DNA of all life on Earth](https://www.theguardian.com/environment/2026/jul/04/hunting-tardigrade-sequencing-dna-life-earth-invertebrate-year)
-- [Meera Sodha’s vegetarian recipe for Beijing-style courgette pancakes with hot honey cucumbers | Meera Sodha recipes](https://www.theguardian.com/food/2026/jul/04/beijing-style-courgette-pancakes-hot-honey-cucumbers-recipe-meera-sodha)
-- [I’m taking the plunge and buying a new swimsuit: the Becky Barnicoat cartoon](https://www.theguardian.com/lifeandstyle/picture/2026/jul/04/im-taking-the-plunge-and-buying-a-new-swimsuit-the-becky-barnicoat-cartoon)
+- [Mysterious debris found on Queensland beaches could be ‘space balls’ – and may contain toxic rocket fuel](https://www.theguardian.com/australia-news/2026/jul/05/mysterious-debris-found-on-queensland-beaches-could-be-space-balls-and-may-contain-toxic-rocket-fuel)
+- [TV tonight: Ed Gamble’s provocative new comedy show](https://www.theguardian.com/tv-and-radio/2026/jul/05/tv-tonight-ed-gambles-provocative-new-comedy-show)
+- [How do I cope with my grief and guilt after losing my husband? | Ask Annalisa Barbieri](https://www.theguardian.com/lifeandstyle/2026/jul/05/how-cope-grief-guilt-death-husband-partner)
+- [‘He hadn’t been trying to scare us. He’d been trying to kill us’: how stalker neighbours turned our dream home into a nightmare](https://www.theguardian.com/world/2026/jul/05/dream-home-turned-nightmare-in-wales-stalker-neighbours-stalked-book)
+- [The immorality of world leaders is contagious. Thank heavens for the pope | Simon Tisdall](https://www.theguardian.com/commentisfree/2026/jul/05/world-leaders-immorality-pope-leo-war-criminals-corporations-catholic-church)
+- [Could Farage quit? Questions swirl over Reform UK leader’s future](https://www.theguardian.com/news/ng-interactive/2026/jul/05/nigel-farage-reform-uk-speculation-future)
+- [Appalachia, London N1: ‘The chicken is like Sunday dinner on performance steroids’ – restaurant review | Grace Dent on restaurants](https://www.theguardian.com/food/2026/jul/05/appalachia-london-n1-restaurant-review-grace-dent)
+- [From ‘heat panic’ to ‘sacrificed at the altar’: Europe’s air conditioning culture wars heat up](https://www.theguardian.com/environment/2026/jul/05/europe-air-conditioning-culture-wars-heat-up)
+- [Make Ed Miliband chancellor, ex-chief Treasury adviser tells Andy Burnham](https://www.theguardian.com/business/2026/jul/05/make-ed-miliband-chancellor-ex-chief-treasury-adviser-nicholas-stern-tells-andy-burnham)
+- [Roll up, roll up! Older generation find joy and fearlessness in circus](https://www.theguardian.com/stage/2026/jul/05/older-generation-signing-up-for-circus-uk)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

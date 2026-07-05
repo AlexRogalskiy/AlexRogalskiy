@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Agentic coding notes from Galapogos Island](https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post)
-- [Maybe you should learn something](https://www.marginalia.nu/log/a_135_learn/)
-- [Synthesis is harder than analysis](https://surfingcomplexity.blog/2026/07/03/synthesis-is-harder-than-analysis/)
-- [MSI Center – How to gain SYSTEM privileges in seconds](https://mrbruh.com/msicenter/)
-- [Soatok&#39;s Informal Guide to Threat Models](https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/)
-- [Odin, Wikipedia and engagement farming](https://katamari64.se/posts/2026/odin-wikipedia/)
-- [The circuit that lets your brain think and see](https://www.engineering.columbia.edu/about/news/circuit-lets-your-brain-think-and-see)
-- [The firefighting system of the Van der Heyden brothers in 17th century Amsterdam](https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department/)
-- [Giant trees have no trouble pumping water to top branches: new research](https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/)
-- [Steam Controller Auto-Charge – pilot to magnetic charging puck using CV](https://github.com/FossPrime/Steam-Controller-Auto-Charge)
+- [Mouse: Precision Editing Tools for AI Coding Agents](https://hic-ai.com)
+- [Shadcn/UI now defaults to Base UI instead of Radix](https://ui.shadcn.com/docs/changelog)
+- [Binary Coverage the Wrong Way](https://redvice.org/2026/coverage-the-wrong-way/)
+- [Moby Dick Workout](https://www.hogbaysoftware.com/posts/moby-dick-workout/)
+- [My ASN Journey series &lpar;2024&rpar;](https://www.animmouse.com/p/my-asn-journey/)
+- [Reading Minds with Ultrasound: Less-Invasive Technique for Brain&#39;s Intentions &lpar;2021&rpar;](https://www.caltech.edu/about/news/reading-minds-with-ultrasound-a-less-invasive-technique-to-decode-the-brains-intentions)
+- [President pardons 9 for Clean Air violations for &#39;fixing their car&#39;](https://www.msn.com/en-us/news/crime/trump-pardons-9-for-clean-air-violations-for-fixing-their-car/ar-AA27cSkT)
+- [University of Oxford Is Older Than the Aztec Empire and Other Facts of History &lpar;2013&rpar;](https://www.smithsonianmag.com/smart-news/university-oxford-older-than-aztec-empire-other-facts-will-change-your-perspective-history-1529607/)
+- [The Log Is the Agent](https://arxiv.org/abs/2605.21997)
+- [Backon – Python retry &lpar;zero deps, circuit breaker, async native&rpar;](https://github.com/Llucs/backon)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

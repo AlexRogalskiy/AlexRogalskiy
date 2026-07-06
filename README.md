@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Mouse: Precision Editing Tools for AI Coding Agents](https://hic-ai.com)
-- [Shadcn/UI now defaults to Base UI instead of Radix](https://ui.shadcn.com/docs/changelog)
-- [Binary Coverage the Wrong Way](https://redvice.org/2026/coverage-the-wrong-way/)
-- [Moby Dick Workout](https://www.hogbaysoftware.com/posts/moby-dick-workout/)
-- [My ASN Journey series &lpar;2024&rpar;](https://www.animmouse.com/p/my-asn-journey/)
-- [Reading Minds with Ultrasound: Less-Invasive Technique for Brain&#39;s Intentions &lpar;2021&rpar;](https://www.caltech.edu/about/news/reading-minds-with-ultrasound-a-less-invasive-technique-to-decode-the-brains-intentions)
-- [President pardons 9 for Clean Air violations for &#39;fixing their car&#39;](https://www.msn.com/en-us/news/crime/trump-pardons-9-for-clean-air-violations-for-fixing-their-car/ar-AA27cSkT)
-- [University of Oxford Is Older Than the Aztec Empire and Other Facts of History &lpar;2013&rpar;](https://www.smithsonianmag.com/smart-news/university-oxford-older-than-aztec-empire-other-facts-will-change-your-perspective-history-1529607/)
-- [The Log Is the Agent](https://arxiv.org/abs/2605.21997)
-- [Backon – Python retry &lpar;zero deps, circuit breaker, async native&rpar;](https://github.com/Llucs/backon)
+- [Shrimple – A Simpler, Nicer Markdown](https://qount25.dev/Shrimple/)
+- [The Sneakerweb](https://sneakerweb.org/)
+- [GPT-5.6 Sol Ultra will be in Codex](https://twitter.com/thsottiaux/status/2073933490513752151)
+- [Al Vigier: Canada&#39;s AI strategy shouldn&#39;t include secret Palantir bills](https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt)
+- [The Private Capture of Public Genius](https://www.wysr.xyz/p/the-private-capture-of-public-genius)
+- [Has_not_been_viewed_much](https://iamwillwang.com/notes/has-not-been-viewed-much/)
+- [Connections in Math: the two kinds of random](https://stillthinking.net/posts/connections-in-math-two-kinds-of-random/)
+- [Does code cleanliness affect coding agents? A controlled minimal-pair study](https://arxiv.org/abs/2605.20049)
+- [DNSGlobe – Rust TUI to watch DNS propagate around the world](https://github.com/514-labs/dnsglobe)
+- [Composite Video on the NES: Why&#39;s it so wobbly?](https://nicole.express/2026/phase-altering-by-line.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

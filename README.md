@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Megawatts by Microwave](https://computer.rip/2026-07-04-microwave-and-power.html)
-- [Ask HN: How Do You Connect OpenAI Secure MCP Tunnel with Claude Desktop](https://news.ycombinator.com/item?id=48791510)
-- [Small Change [pdf]](https://web.stanford.edu/class/comm1a/readings/gladwell-small-change.pdf)
-- [Fixing analog audio on the $2.58 HDMI-to-VGA adapter](https://nyanpasu64.gitlab.io/blog/hdmi-vga-dac-audio/)
-- [After hooking China on coffee, Starbucks ramps up consumer strategy](https://www.scmp.com/business/china-business/article/3359294/after-hooking-china-coffee-starbucks-ramps-consumer-strategy)
-- [The &#39;1776 Diet&#39;: What Americans ate during the nation&#39;s founding](https://www.foxnews.com/health/1776-diet-what-americans-really-ate-during-nations-founding)
-- [A gender-swap EarthBound for my daughter &lpar;2025&rpar;](https://tommy.reddad.net/post/2025-12-04-coilsnake/)
-- [Show HN: Codex-review – a read-only cross-model review skill for Claude Code](https://github.com/shimo4228/codex-review)
-- [Beeg float library, a Rust port of Fabrice Bellard&#39;s libbf](https://github.com/lifthrasiir/libbeef)
-- [Cuba&#39;s Green Solution to the U.S. Oil Blockade: Solar-Powered Electric Tricycles [video]](https://www.youtube.com/watch?v=eeg0CthbzTE)
+- [Show HN: See an AI shopping agent choose which products to recommend](https://catalogdoorman.netlify.app)
+- [Show HN: Clone. Swap your products in any viral reel](https://quinn.live/clone/)
+- [China&#39;s ByteDance discovers new scaling law that could sustain AI boom](https://www.scmp.com/tech/big-tech/article/3359373/chinas-bytedance-discovers-new-scaling-law-could-sustain-ai-boom)
+- [The Largest Vocabulary in Hip Hop](https://pudding.cool/projects/vocabulary/index.html)
+- [ByteDance and Alibaba to disable humanlike AI custom agents as new rules loom](https://www.scmp.com/tech/big-tech/article/3359482/bytedance-and-alibaba-disable-humanlike-ai-custom-agents-new-rules-loom)
+- [Big Tech Has Suddenly Flipped on the AI Jobs Wipeout Scenario](https://www.wsj.com/tech/ai/ai-workers-tech-ceos-job-losses-afc71e15)
+- [Why QR Code Phishing Is the New 2026 Security Blind Spot](https://www.acronis.com/en/blog/posts/qr-code-phishing-evasive-threats-2026/)
+- [PrivadoFinance](https://www.privadofinance.com)
+- [The Staged Reality of &quot;Lunch Atop a Skyscraper&quot;: What They Hid for 70 Years [video]](https://www.youtube.com/watch?v=5VdfCDnKUBQ)
+- [Android is almost dead – OSnews](https://www.osnews.com/story/145415/android-is-almost-dead/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

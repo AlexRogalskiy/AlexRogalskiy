@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Mysterious debris found on Queensland beaches could be ‘space balls’ – and may contain toxic rocket fuel](https://www.theguardian.com/australia-news/2026/jul/05/mysterious-debris-found-on-queensland-beaches-could-be-space-balls-and-may-contain-toxic-rocket-fuel)
-- [TV tonight: Ed Gamble’s provocative new comedy show](https://www.theguardian.com/tv-and-radio/2026/jul/05/tv-tonight-ed-gambles-provocative-new-comedy-show)
-- [How do I cope with my grief and guilt after losing my husband? | Ask Annalisa Barbieri](https://www.theguardian.com/lifeandstyle/2026/jul/05/how-cope-grief-guilt-death-husband-partner)
-- [‘He hadn’t been trying to scare us. He’d been trying to kill us’: how stalker neighbours turned our dream home into a nightmare](https://www.theguardian.com/world/2026/jul/05/dream-home-turned-nightmare-in-wales-stalker-neighbours-stalked-book)
-- [The immorality of world leaders is contagious. Thank heavens for the pope | Simon Tisdall](https://www.theguardian.com/commentisfree/2026/jul/05/world-leaders-immorality-pope-leo-war-criminals-corporations-catholic-church)
-- [Could Farage quit? Questions swirl over Reform UK leader’s future](https://www.theguardian.com/news/ng-interactive/2026/jul/05/nigel-farage-reform-uk-speculation-future)
-- [Appalachia, London N1: ‘The chicken is like Sunday dinner on performance steroids’ – restaurant review | Grace Dent on restaurants](https://www.theguardian.com/food/2026/jul/05/appalachia-london-n1-restaurant-review-grace-dent)
-- [From ‘heat panic’ to ‘sacrificed at the altar’: Europe’s air conditioning culture wars heat up](https://www.theguardian.com/environment/2026/jul/05/europe-air-conditioning-culture-wars-heat-up)
-- [Make Ed Miliband chancellor, ex-chief Treasury adviser tells Andy Burnham](https://www.theguardian.com/business/2026/jul/05/make-ed-miliband-chancellor-ex-chief-treasury-adviser-nicholas-stern-tells-andy-burnham)
-- [Roll up, roll up! Older generation find joy and fearlessness in circus](https://www.theguardian.com/stage/2026/jul/05/older-generation-signing-up-for-circus-uk)
+- [World Cup 2026: England set up Norway quarter-final after Mexico thriller; Trump lobbied for Balogun red-card reversal – live](https://www.theguardian.com/football/live/2026/jul/06/world-cup-2026-england-set-up-norway-quarter-final-after-mexico-thriller-trump-lobbied-for-balogun-red-card-reversal-live)
+- [Half of affordable new homes in rural England could be at risk if planning rules relaxed, analysis shows](https://www.theguardian.com/society/2026/jul/06/half-affordable-new-homes-rural-england-risk-planning-rules-relaxed-analysis)
+- [A Place in the Sun review – subversive exposé of picture-postcard luxury in the Canary Islands](https://www.theguardian.com/film/2026/jul/06/a-place-in-the-sun-review-expose-of-the-canary-islands)
+- [The Land and Its People by David Sedaris review – crankiness and charm](https://www.theguardian.com/books/2026/jul/06/the-land-and-its-people-by-david-sedaris-review-crankiness-and-charm)
+- [Wimbledon by Sarah Lee – in pictures](https://www.theguardian.com/sport/gallery/2026/jul/06/wimbledon-by-sarah-lee-in-pictures)
+- [Crete treats: a chef’s tour of her favourite Greek island](https://www.theguardian.com/travel/2026/jul/06/crete-treats-a-chefs-tour-of-her-favourite-greek-island)
+- [Sennheiser Momentum 5 headphones review: great sound meets exceptional battery life](https://www.theguardian.com/technology/2026/jul/06/sennheiser-momentum-5-headphones-review)
+- [John Lewis dishwasher leak forced buyers into hotels for eight months](https://www.theguardian.com/money/2026/jul/06/john-lewis-dishwasher-leak-repairs-insurance)
+- [The Rolling Stones keep the tunes coming: best podcasts of the week](https://www.theguardian.com/tv-and-radio/2026/jul/06/the-rolling-stones-keep-the-tunes-coming-best-podcasts-of-the-week)
+- [Likely origin of mysterious ‘space balls’ found on Queensland beaches revealed by Australian Space Agency](https://www.theguardian.com/australia-news/2026/jul/06/mysterious-space-balls-queensland-beaches-origin-source-australia)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

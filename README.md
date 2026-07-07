@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Shrimple – A Simpler, Nicer Markdown](https://qount25.dev/Shrimple/)
-- [The Sneakerweb](https://sneakerweb.org/)
-- [GPT-5.6 Sol Ultra will be in Codex](https://twitter.com/thsottiaux/status/2073933490513752151)
-- [Al Vigier: Canada&#39;s AI strategy shouldn&#39;t include secret Palantir bills](https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt)
-- [The Private Capture of Public Genius](https://www.wysr.xyz/p/the-private-capture-of-public-genius)
-- [Has_not_been_viewed_much](https://iamwillwang.com/notes/has-not-been-viewed-much/)
-- [Connections in Math: the two kinds of random](https://stillthinking.net/posts/connections-in-math-two-kinds-of-random/)
-- [Does code cleanliness affect coding agents? A controlled minimal-pair study](https://arxiv.org/abs/2605.20049)
-- [DNSGlobe – Rust TUI to watch DNS propagate around the world](https://github.com/514-labs/dnsglobe)
-- [Composite Video on the NES: Why&#39;s it so wobbly?](https://nicole.express/2026/phase-altering-by-line.html)
+- [How to sequence your own DNA at home](https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home)
+- [Small AI Models Gain Traction In places with unreliable networks](https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals)
+- [NSA and IETF: Fairness](https://blog.cr.yp.to/20260706-fairness.html)
+- [Ternlight – 7 MB embedding model that runs in browser &lpar;WASM&rpar;](https://ternlight-demo.vercel.app/)
+- [Fable turned reMarkable into Tom Riddle&#39;s diary from Harry Potter](https://github.com/MaximeRivest/Riddle)
+- [OpenSSH 10.4/10.4p1 Released](https://www.openssh.org/txt/release-10.4)
+- [Acronym Fatigue Series Introduction: why I&#39;m wary of acronyms](https://devz.cl/posts/acryonym-fatigue-series-why-i-m-wary-of-engineering-acronyms/)
+- [Poly/ML – A Standard ML Implementation](https://github.com/polyml/polyml)
+- [Full Writeup of the Windows GDID](https://github.com/SmtimesIWndr/gdid-reversal)
+- [Learning to code is still worthwhile](https://stevekrouse.com/learn-to-code)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

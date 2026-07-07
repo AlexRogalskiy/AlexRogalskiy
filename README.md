@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: See an AI shopping agent choose which products to recommend](https://catalogdoorman.netlify.app)
-- [Show HN: Clone. Swap your products in any viral reel](https://quinn.live/clone/)
-- [China&#39;s ByteDance discovers new scaling law that could sustain AI boom](https://www.scmp.com/tech/big-tech/article/3359373/chinas-bytedance-discovers-new-scaling-law-could-sustain-ai-boom)
-- [The Largest Vocabulary in Hip Hop](https://pudding.cool/projects/vocabulary/index.html)
-- [ByteDance and Alibaba to disable humanlike AI custom agents as new rules loom](https://www.scmp.com/tech/big-tech/article/3359482/bytedance-and-alibaba-disable-humanlike-ai-custom-agents-new-rules-loom)
-- [Big Tech Has Suddenly Flipped on the AI Jobs Wipeout Scenario](https://www.wsj.com/tech/ai/ai-workers-tech-ceos-job-losses-afc71e15)
-- [Why QR Code Phishing Is the New 2026 Security Blind Spot](https://www.acronis.com/en/blog/posts/qr-code-phishing-evasive-threats-2026/)
-- [PrivadoFinance](https://www.privadofinance.com)
-- [The Staged Reality of &quot;Lunch Atop a Skyscraper&quot;: What They Hid for 70 Years [video]](https://www.youtube.com/watch?v=5VdfCDnKUBQ)
-- [Android is almost dead – OSnews](https://www.osnews.com/story/145415/android-is-almost-dead/)
+- [I&#39;m Building a Secure USB Drive That Hides Itself](https://rootkitlabs.com/2026/06/22/I%27m-Building-a-Secure-USB-Drive/)
+- [200. milliseconds](https://200ms.thenodebook.com)
+- [Prompt Engineering Is Not Enough. Here Is How to Build Loop Engineering Instead](https://lightrains.com/blogs/prompt-engineering-to-loop-engineering/)
+- [Selling to the Assistant](https://dmonn.com/selling-to-the-assistant/)
+- [3D-Printed Micro Manipulator Can Achieve Accurate Sub-Micron Movement](https://www.hackster.io/news/this-3d-printed-micro-manipulator-can-achieve-accurate-sub-micron-movement-in-all-three-axes-04f25211c961)
+- [How LLMs Work](https://arpitbhayani.me/blogs/how-llms-work/)
+- [I Built the Only 2026 WWII Jeep](https://www.theautopian.com/i-bet-my-company-on-an-impossible-jeep-build-then-a-miracle-happened/)
+- [RAG](https://www.pinecone.io/learn/retrieval-augmented-generation/)
+- [Show HN: Tune agents trained on public data to work better with your code](https://news.ycombinator.com/item?id=48814010)
+- [AI STS Stack for underserved languages paper](https://kamalg2.substack.com/p/choosing-a-real-time-voice-ai-stack)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

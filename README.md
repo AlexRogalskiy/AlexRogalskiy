@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [World Cup 2026: England set up Norway quarter-final after Mexico thriller; Trump lobbied for Balogun red-card reversal – live](https://www.theguardian.com/football/live/2026/jul/06/world-cup-2026-england-set-up-norway-quarter-final-after-mexico-thriller-trump-lobbied-for-balogun-red-card-reversal-live)
-- [Half of affordable new homes in rural England could be at risk if planning rules relaxed, analysis shows](https://www.theguardian.com/society/2026/jul/06/half-affordable-new-homes-rural-england-risk-planning-rules-relaxed-analysis)
-- [A Place in the Sun review – subversive exposé of picture-postcard luxury in the Canary Islands](https://www.theguardian.com/film/2026/jul/06/a-place-in-the-sun-review-expose-of-the-canary-islands)
-- [The Land and Its People by David Sedaris review – crankiness and charm](https://www.theguardian.com/books/2026/jul/06/the-land-and-its-people-by-david-sedaris-review-crankiness-and-charm)
-- [Wimbledon by Sarah Lee – in pictures](https://www.theguardian.com/sport/gallery/2026/jul/06/wimbledon-by-sarah-lee-in-pictures)
-- [Crete treats: a chef’s tour of her favourite Greek island](https://www.theguardian.com/travel/2026/jul/06/crete-treats-a-chefs-tour-of-her-favourite-greek-island)
-- [Sennheiser Momentum 5 headphones review: great sound meets exceptional battery life](https://www.theguardian.com/technology/2026/jul/06/sennheiser-momentum-5-headphones-review)
-- [John Lewis dishwasher leak forced buyers into hotels for eight months](https://www.theguardian.com/money/2026/jul/06/john-lewis-dishwasher-leak-repairs-insurance)
-- [The Rolling Stones keep the tunes coming: best podcasts of the week](https://www.theguardian.com/tv-and-radio/2026/jul/06/the-rolling-stones-keep-the-tunes-coming-best-podcasts-of-the-week)
-- [Likely origin of mysterious ‘space balls’ found on Queensland beaches revealed by Australian Space Agency](https://www.theguardian.com/australia-news/2026/jul/06/mysterious-space-balls-queensland-beaches-origin-source-australia)
+- [TV tonight: six people join an Amish community for this new reality series](https://www.theguardian.com/tv-and-radio/2026/jul/07/tv-tonight-six-people-join-an-amish-community-for-this-new-reality-series)
+- [People keep asking me why I’m choosing to have a caesarean – here are my reasons | Sharon Gaffka](https://www.theguardian.com/commentisfree/2026/jul/07/chosen-caesarean-ockenden-amos-reports)
+- [US airman accused of exposing himself to 16-year-old girl avoided British trial](https://www.theguardian.com/uk-news/2026/jul/07/us-airman-accused-of-exposing-himself-to-16-year-old-girl-court-martial)
+- [June heatwave in UK led to ‘mass sleep deprivation’, poll suggests](https://www.theguardian.com/environment/2026/jul/07/june-heatwave-in-uk-led-to-mass-sleep-deprivation-poll-suggests)
+- [Tomato tart and a strawberry and elderflower trifle: Sally Abé’s summer recipes](https://www.theguardian.com/food/2026/jul/07/tomato-tart-and-a-strawberry-and-elderflower-trifle-recipes-sally-abe)
+- [Australian PM says Chinese missile test could have caused ‘considerable damage’ if weaponised](https://www.theguardian.com/world/2026/jul/07/chinese-government-tells-critics-not-to-overinterpret-missile-test-in-pacific-as-criticism-grows)
+- [Rapid endometriosis tests to be made available on NHS in England and Wales](https://www.theguardian.com/society/2026/jul/07/rapid-endometriosis-tests-to-be-made-available-on-nhs-in-england-and-wales)
+- [Together in prosaic dreams: anthology reveals Europeans’ anticlimactic subconscious](https://www.theguardian.com/world/2026/jul/07/prosaic-dreams-anthology-europe-wolfram-lotz)
+- [Student loan promotion in England and Wales amounted to mis-selling, MPs say](https://www.theguardian.com/money/2026/jul/07/promotion-student-loans-england-wales-mis-selling)
+- [Nato braces for difficult summit as Trump puts pressure on spending](https://www.theguardian.com/world/2026/jul/07/nato-braces-for-difficult-summit-as-trump-puts-pressure-on-spending)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

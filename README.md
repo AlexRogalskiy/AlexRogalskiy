@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [I&#39;m Building a Secure USB Drive That Hides Itself](https://rootkitlabs.com/2026/06/22/I%27m-Building-a-Secure-USB-Drive/)
-- [200. milliseconds](https://200ms.thenodebook.com)
-- [Prompt Engineering Is Not Enough. Here Is How to Build Loop Engineering Instead](https://lightrains.com/blogs/prompt-engineering-to-loop-engineering/)
-- [Selling to the Assistant](https://dmonn.com/selling-to-the-assistant/)
-- [3D-Printed Micro Manipulator Can Achieve Accurate Sub-Micron Movement](https://www.hackster.io/news/this-3d-printed-micro-manipulator-can-achieve-accurate-sub-micron-movement-in-all-three-axes-04f25211c961)
-- [How LLMs Work](https://arpitbhayani.me/blogs/how-llms-work/)
-- [I Built the Only 2026 WWII Jeep](https://www.theautopian.com/i-bet-my-company-on-an-impossible-jeep-build-then-a-miracle-happened/)
-- [RAG](https://www.pinecone.io/learn/retrieval-augmented-generation/)
-- [Show HN: Tune agents trained on public data to work better with your code](https://news.ycombinator.com/item?id=48814010)
-- [AI STS Stack for underserved languages paper](https://kamalg2.substack.com/p/choosing-a-real-time-voice-ai-stack)
+- [Meshdesk-The Private community sharing. free](https://meshdesk.pages.dev/)
+- [Switzerland bolted 5,000 solar panels onto a dam wall 8,000 feet up in the Alps](https://www.ecoportal.net/en/switzerland-5000-alpine-solar-muttsee-dam-winter-power/28487/)
+- [Run GLM 5.2 on 2 MacBooks with 128gb on RDMA with DS by antirez](https://twitter.com/antirez/status/2074516763526500488)
+- [Australia&#39;s teen social media ban fails to clear first hurdle in age checks](https://www.reuters.com/world/australias-teen-social-media-ban-fails-clear-first-hurdle-age-checks-says-study-2026-07-07/)
+- [Meta tests &#39;super sensing&#39; AI glasses that can record every moment](https://www.ft.com/content/ac282450-91a8-4597-8f60-9e6ef416865a)
+- [British &#39;First Fleet&#39; brought smallpox to Australia and may have killed millions](https://www.science.org/content/article/british-first-fleet-brought-smallpox-australia-and-may-have-killed-millions)
+- [DeFi manual yield farming is outdated](https://hodlycrypto.com/blog/why-smart-money-is-ditching-manual)
+- [Generative AI creates delicious, sustainable, and nutritious burgers](https://www.nature.com/articles/s41538-026-00953-x)
+- [GitHub AI agent leaks private repos when asked nicely](https://www.theregister.com/security/2026/07/07/github-ai-agent-leaks-private-repos-when-asked-nicely/5267924)
+- [Not All Miles Are Equal: Benchmarking Autonomous Safety](https://waymo.com/blog/2026/07/time-geo-crash-risk-effect/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

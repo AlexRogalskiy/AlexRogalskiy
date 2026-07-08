@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [How to sequence your own DNA at home](https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home)
-- [Small AI Models Gain Traction In places with unreliable networks](https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals)
-- [NSA and IETF: Fairness](https://blog.cr.yp.to/20260706-fairness.html)
-- [Ternlight – 7 MB embedding model that runs in browser &lpar;WASM&rpar;](https://ternlight-demo.vercel.app/)
-- [Fable turned reMarkable into Tom Riddle&#39;s diary from Harry Potter](https://github.com/MaximeRivest/Riddle)
-- [OpenSSH 10.4/10.4p1 Released](https://www.openssh.org/txt/release-10.4)
-- [Acronym Fatigue Series Introduction: why I&#39;m wary of acronyms](https://devz.cl/posts/acryonym-fatigue-series-why-i-m-wary-of-engineering-acronyms/)
-- [Poly/ML – A Standard ML Implementation](https://github.com/polyml/polyml)
-- [Full Writeup of the Windows GDID](https://github.com/SmtimesIWndr/gdid-reversal)
-- [Learning to code is still worthwhile](https://stevekrouse.com/learn-to-code)
+- [GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday](https://twitter.com/OpenAI/status/2074704958419792299)
+- [How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS](https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/)
+- [Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks](https://www.digipres.org/the-floppy-guide/)
+- [Is The Economist Always Wrong?](https://www.economist.com/interactive/finance-and-economics/2026/07/02/is-the-economist-always-wrong)
+- [LineageOS Statistics](https://stats.lineageos.org)
+- [Show HN: Chiptune Radio](https://chiptune-radio.alephvoid.com/)
+- [An interactive explorer for Benford&#39;s Law across real datasets](https://vatsalbakshi.com/blog/benfords-law/)
+- [Tenda firmware &lpar;multiple versions&rpar; contains hidden authentication backdoor](https://kb.cert.org/vuls/id/213560)
+- [Structure and Interpretation of Computer Programs Video Lectures &lpar;1986&rpar;](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/)
+- [GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup](https://www.gao.gov/products/gao-26-108193)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

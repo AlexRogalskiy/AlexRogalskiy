@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [TV tonight: six people join an Amish community for this new reality series](https://www.theguardian.com/tv-and-radio/2026/jul/07/tv-tonight-six-people-join-an-amish-community-for-this-new-reality-series)
-- [People keep asking me why I’m choosing to have a caesarean – here are my reasons | Sharon Gaffka](https://www.theguardian.com/commentisfree/2026/jul/07/chosen-caesarean-ockenden-amos-reports)
-- [US airman accused of exposing himself to 16-year-old girl avoided British trial](https://www.theguardian.com/uk-news/2026/jul/07/us-airman-accused-of-exposing-himself-to-16-year-old-girl-court-martial)
-- [June heatwave in UK led to ‘mass sleep deprivation’, poll suggests](https://www.theguardian.com/environment/2026/jul/07/june-heatwave-in-uk-led-to-mass-sleep-deprivation-poll-suggests)
-- [Tomato tart and a strawberry and elderflower trifle: Sally Abé’s summer recipes](https://www.theguardian.com/food/2026/jul/07/tomato-tart-and-a-strawberry-and-elderflower-trifle-recipes-sally-abe)
-- [Australian PM says Chinese missile test could have caused ‘considerable damage’ if weaponised](https://www.theguardian.com/world/2026/jul/07/chinese-government-tells-critics-not-to-overinterpret-missile-test-in-pacific-as-criticism-grows)
-- [Rapid endometriosis tests to be made available on NHS in England and Wales](https://www.theguardian.com/society/2026/jul/07/rapid-endometriosis-tests-to-be-made-available-on-nhs-in-england-and-wales)
-- [Together in prosaic dreams: anthology reveals Europeans’ anticlimactic subconscious](https://www.theguardian.com/world/2026/jul/07/prosaic-dreams-anthology-europe-wolfram-lotz)
-- [Student loan promotion in England and Wales amounted to mis-selling, MPs say](https://www.theguardian.com/money/2026/jul/07/promotion-student-loans-england-wales-mis-selling)
-- [Nato braces for difficult summit as Trump puts pressure on spending](https://www.theguardian.com/world/2026/jul/07/nato-braces-for-difficult-summit-as-trump-puts-pressure-on-spending)
+- [Middle East crisis live: Tehran targets Bahrain and Kuwait after fresh US strikes, testing fragile truce](https://www.theguardian.com/world/live/2026/jul/07/us-military-strikes-iran-war-latest-news-updates)
+- [Two in five Britons think Muslims cannot integrate in UK, poll finds](https://www.theguardian.com/uk-news/2026/jul/08/two-in-five-britons-think-muslims-cannot-integrate-in-uk-poll-finds)
+- [Palestinians brace as Israeli settler figures in coalition seek to cement West Bank gains before election](https://www.theguardian.com/world/2026/jul/08/palestinians-brace-as-israeli-settler-figures-in-coalition-seek-to-cement-west-bank-gains-before-election)
+- [Baldy Man, Gold Blend flirters and mash-mad Martians: TV’s golden age ads](https://www.theguardian.com/artanddesign/2026/jul/08/baldy-man-gold-blend-flirters-mash-martians-golden-age-ads-adverts)
+- [The battle over the Bell hotel: how a year of asylum protests tore apart a pretty, prosperous Essex town](https://www.theguardian.com/uk-news/2026/jul/08/battle-over-bell-hotel-asylum-protests-essex)
+- [From legal threats to ‘the worst haircut you can think of’: 25 years of The Office](https://www.theguardian.com/tv-and-radio/2026/jul/08/25-years-of-the-office-bbc-ricky-gervais-martin-freeman-mackenzie-crook)
+- [US charges Indian criminal gang leader with organising murder of Canadian Sikh activist](https://www.theguardian.com/world/2026/jul/08/murder-canada-sikh-activist-hardeep-singh-nijjar-indian-criminal-gang-leader-charged)
+- [Ukraine war briefing: Kyiv targets Kremlin ‘shadow’ tankers as Russian strikes continue in capital](https://www.theguardian.com/world/2026/jul/08/ukraine-war-briefing-kyiv-targets-kremlin-shadow-tankers-as-russian-strikes-continue-in-capital)
+- [Plenty of players but no grassroots: can China ever grow into a footballing giant?](https://www.theguardian.com/world/2026/jul/08/china-football-plenty-of-players-no-grassroots)
+- [Switzerland knock out Colombia on penalties to reach World Cup quarter-finals](https://www.theguardian.com/football/2026/jul/08/switzerland-colombia-world-cup-2026-last-16-match-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

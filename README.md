@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Middle East crisis live: Tehran targets Bahrain and Kuwait after fresh US strikes, testing fragile truce](https://www.theguardian.com/world/live/2026/jul/07/us-military-strikes-iran-war-latest-news-updates)
-- [Two in five Britons think Muslims cannot integrate in UK, poll finds](https://www.theguardian.com/uk-news/2026/jul/08/two-in-five-britons-think-muslims-cannot-integrate-in-uk-poll-finds)
-- [Palestinians brace as Israeli settler figures in coalition seek to cement West Bank gains before election](https://www.theguardian.com/world/2026/jul/08/palestinians-brace-as-israeli-settler-figures-in-coalition-seek-to-cement-west-bank-gains-before-election)
-- [Baldy Man, Gold Blend flirters and mash-mad Martians: TV’s golden age ads](https://www.theguardian.com/artanddesign/2026/jul/08/baldy-man-gold-blend-flirters-mash-martians-golden-age-ads-adverts)
-- [The battle over the Bell hotel: how a year of asylum protests tore apart a pretty, prosperous Essex town](https://www.theguardian.com/uk-news/2026/jul/08/battle-over-bell-hotel-asylum-protests-essex)
-- [From legal threats to ‘the worst haircut you can think of’: 25 years of The Office](https://www.theguardian.com/tv-and-radio/2026/jul/08/25-years-of-the-office-bbc-ricky-gervais-martin-freeman-mackenzie-crook)
-- [US charges Indian criminal gang leader with organising murder of Canadian Sikh activist](https://www.theguardian.com/world/2026/jul/08/murder-canada-sikh-activist-hardeep-singh-nijjar-indian-criminal-gang-leader-charged)
-- [Ukraine war briefing: Kyiv targets Kremlin ‘shadow’ tankers as Russian strikes continue in capital](https://www.theguardian.com/world/2026/jul/08/ukraine-war-briefing-kyiv-targets-kremlin-shadow-tankers-as-russian-strikes-continue-in-capital)
-- [Plenty of players but no grassroots: can China ever grow into a footballing giant?](https://www.theguardian.com/world/2026/jul/08/china-football-plenty-of-players-no-grassroots)
-- [Switzerland knock out Colombia on penalties to reach World Cup quarter-finals](https://www.theguardian.com/football/2026/jul/08/switzerland-colombia-world-cup-2026-last-16-match-report)
+- [Goodbye frump, hello TikTok: M&amp;S to celebrate 100 years with London fashion week show](https://www.theguardian.com/business/2026/jul/09/goodbye-frump-hello-tiktok-ms-100-years-london-fashion-week-show)
+- [A brilliant and bonkers day out: how art and spectacle transformed a former Durham mining town](https://www.theguardian.com/travel/2026/jul/09/bishop-auckland-durham-new-kynren-show)
+- [Trouble Was by Charlotte Edwardes review – a sharp child’s-eye view of adult neglect](https://www.theguardian.com/books/2026/jul/09/trouble-was-by-charlotte-edwardes-review-a-sharp-childs-eye-view-of-adult-neglect)
+- [‘Soul of the community’: Sabelo Mlangeni’s groundbreaking photography – in pictures](https://www.theguardian.com/artanddesign/gallery/2026/jul/09/soul-of-the-community-sabelo-mlangeni-groundbreaking-photography-in-pictures-james-barnor-prize)
+- [TV tonight: can Maura Higgins outsmart the Traitors US?](https://www.theguardian.com/tv-and-radio/2026/jul/09/tv-tonight-can-maura-higgins-outsmart-the-traitors-us)
+- [‘They said: wear angelic white’: British women who accused US airman of rape tell of American military trial](https://www.theguardian.com/uk-news/2026/jul/09/british-women-accused-us-airman-rape-american-military-trial)
+- [‘Here I can live a good life’: inside the Syrian commune where men are banned](https://www.theguardian.com/global-development/2026/jul/09/women-syria-female-led-communities-photographer-matteo-trevisan-communes-collectives-escaping-war)
+- [Low-e windows keep homes cool … but may set neighbours’ property on fire](https://www.theguardian.com/technology/2026/jul/09/low-e-windows-keep-homes-cool-but-may-set-neighbours-property-on-fire)
+- [Thursday news quiz: Joke candidates, blind injustice and Paul McCartney](https://www.theguardian.com/lifeandstyle/2026/jul/09/the-guardian-thursday-quiz-general-knowledge-topical-news-trivia-255)
+- [No evidence for ‘witches’ marks’ claims at old English buildings, historian says](https://www.theguardian.com/culture/2026/jul/09/no-evidence-witches-marks-claims-historic-english-buildings)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday](https://twitter.com/OpenAI/status/2074704958419792299)
-- [How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS](https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/)
-- [Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks](https://www.digipres.org/the-floppy-guide/)
-- [Is The Economist Always Wrong?](https://www.economist.com/interactive/finance-and-economics/2026/07/02/is-the-economist-always-wrong)
-- [LineageOS Statistics](https://stats.lineageos.org)
-- [Show HN: Chiptune Radio](https://chiptune-radio.alephvoid.com/)
-- [An interactive explorer for Benford&#39;s Law across real datasets](https://vatsalbakshi.com/blog/benfords-law/)
-- [Tenda firmware &lpar;multiple versions&rpar; contains hidden authentication backdoor](https://kb.cert.org/vuls/id/213560)
-- [Structure and Interpretation of Computer Programs Video Lectures &lpar;1986&rpar;](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/)
-- [GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup](https://www.gao.gov/products/gao-26-108193)
+- [Spider venom kills varroa mites without harming honeybees](https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming)
+- [What&#39;s slowing down the AI buildout](https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid)
+- [I think I have LLM burnout](https://www.alecscollon.com/blog/llm-burnout/)
+- [Remote Attestation](https://www.liamcvw.com/p/remote-attestation)
+- [MIRA: Multiplayer Interactive World Models Trained on Rocket League](https://mira-wm.com/)
+- [John Deere owners will get the right to repair equipment under FTC settlement](https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02)
+- [We made Grok 4.5, GPT-5.5, and Claude build the same apps](https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off)
+- [Rewriting Bun in Rust](https://bun.com/blog/bun-in-rust)
+- [Benchmarking coding agents on Databricks&#39; multi-million line codebase](https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase)
+- [Separating signal from noise in coding evaluations](https://openai.com/index/separating-signal-from-noise-coding-evaluations/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

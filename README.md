@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Spider venom kills varroa mites without harming honeybees](https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming)
-- [What&#39;s slowing down the AI buildout](https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid)
-- [I think I have LLM burnout](https://www.alecscollon.com/blog/llm-burnout/)
-- [Remote Attestation](https://www.liamcvw.com/p/remote-attestation)
-- [MIRA: Multiplayer Interactive World Models Trained on Rocket League](https://mira-wm.com/)
-- [John Deere owners will get the right to repair equipment under FTC settlement](https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02)
-- [We made Grok 4.5, GPT-5.5, and Claude build the same apps](https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off)
-- [Rewriting Bun in Rust](https://bun.com/blog/bun-in-rust)
-- [Benchmarking coding agents on Databricks&#39; multi-million line codebase](https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase)
-- [Separating signal from noise in coding evaluations](https://openai.com/index/separating-signal-from-noise-coding-evaluations/)
+- [Ben Bernanke Joins Anthropic Oversight Trust](https://www.anthropic.com/news/ben-bernanke)
+- [Build your own vulnerability harness](https://blog.cloudflare.com/build-your-own-vulnerability-harness/)
+- [Study: &quot;Mommy, do you love your phone more than me?&quot;](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1766665/full)
+- [Why American ambulance rides are so expensive](https://davidoks.blog/p/why-american-ambulance-rides-are)
+- [Building a real-time AI tutor for 5-year-olds](https://www.ello.com/blog/teaching-a-child-in-1000-ms)
+- [Interview with Mitchell Hashimoto about Ghostty and Zig](https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/)
+- [GPT-5.6](https://openai.com/index/gpt-5-6/)
+- [Launch HN: Context.dev &lpar;YC S26&rpar; – API to get structured data from any website](https://www.context.dev)
+- [Hy3](https://hy.tencent.com/research/hy3)
+- [A possible future for Damn Interesting](https://www.damninteresting.com/a-possible-future/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

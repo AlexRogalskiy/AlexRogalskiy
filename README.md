@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Goodbye frump, hello TikTok: M&amp;S to celebrate 100 years with London fashion week show](https://www.theguardian.com/business/2026/jul/09/goodbye-frump-hello-tiktok-ms-100-years-london-fashion-week-show)
-- [A brilliant and bonkers day out: how art and spectacle transformed a former Durham mining town](https://www.theguardian.com/travel/2026/jul/09/bishop-auckland-durham-new-kynren-show)
-- [Trouble Was by Charlotte Edwardes review – a sharp child’s-eye view of adult neglect](https://www.theguardian.com/books/2026/jul/09/trouble-was-by-charlotte-edwardes-review-a-sharp-childs-eye-view-of-adult-neglect)
-- [‘Soul of the community’: Sabelo Mlangeni’s groundbreaking photography – in pictures](https://www.theguardian.com/artanddesign/gallery/2026/jul/09/soul-of-the-community-sabelo-mlangeni-groundbreaking-photography-in-pictures-james-barnor-prize)
-- [TV tonight: can Maura Higgins outsmart the Traitors US?](https://www.theguardian.com/tv-and-radio/2026/jul/09/tv-tonight-can-maura-higgins-outsmart-the-traitors-us)
-- [‘They said: wear angelic white’: British women who accused US airman of rape tell of American military trial](https://www.theguardian.com/uk-news/2026/jul/09/british-women-accused-us-airman-rape-american-military-trial)
-- [‘Here I can live a good life’: inside the Syrian commune where men are banned](https://www.theguardian.com/global-development/2026/jul/09/women-syria-female-led-communities-photographer-matteo-trevisan-communes-collectives-escaping-war)
-- [Low-e windows keep homes cool … but may set neighbours’ property on fire](https://www.theguardian.com/technology/2026/jul/09/low-e-windows-keep-homes-cool-but-may-set-neighbours-property-on-fire)
-- [Thursday news quiz: Joke candidates, blind injustice and Paul McCartney](https://www.theguardian.com/lifeandstyle/2026/jul/09/the-guardian-thursday-quiz-general-knowledge-topical-news-trivia-255)
-- [No evidence for ‘witches’ marks’ claims at old English buildings, historian says](https://www.theguardian.com/culture/2026/jul/09/no-evidence-witches-marks-claims-historic-english-buildings)
+- [TV tonight: the return of Sally Phillips and Ben Miller’s family sitcom](https://www.theguardian.com/tv-and-radio/2026/jul/10/tv-tonight-the-return-of-sally-phillips-and-ben-millers-family-sitcom)
+- [South Korea chip maker SK hynix rides AI boom raising $26.5bn in huge US listing](https://www.theguardian.com/world/2026/jul/10/south-korea-chip-maker-sk-hynix-rides-ai-boom-raising-265bn-in-huge-us-listing)
+- [Reeves to launch City ‘skills compact’ committing firms to retrain staff in AI](https://www.theguardian.com/business/2026/jul/10/rachel-reeves-city-skills-compact-ai-training)
+- [Oasis reunion helps draw record 25m ‘music tourists’ to UK concerts](https://www.theguardian.com/business/2026/jul/10/oasis-reunion-uk-concerts-cold-play-lana-del-ray-beyonce-gigs-economy)
+- [This thinktank exposed fat cats and obscenely high pay. Guess what has happened to it? | Polly Toynbee](https://www.theguardian.com/commentisfree/2026/jul/10/high-pay-centre-thinktank-ceo-wages-anti-diversity)
+- [It’s coming home: what to wear to watch England’s World Cup quarter-final](https://www.theguardian.com/fashion/gallery/2026/jul/10/what-to-wear-watch-england-world-cup-quarter-final)
+- [Helen Goh’s recipe for rolled pavlova with strawberries and sumac | The sweet spot](https://www.theguardian.com/food/2026/jul/10/rolled-pavlova-strawberries-sumac-recipe-helen-goh)
+- [Country diary: I thought I was poking a hedgehog’s nest. I was wrong | Claire Stares](https://www.theguardian.com/environment/2026/jul/10/country-diary-i-thought-i-was-poking-a-hedgehogs-nest-i-was-wrong)
+- [Belgium take strength from ‘millions and millions’ of new fans before Spain clash](https://www.theguardian.com/football/2026/jul/10/belgium-rudi-garcia-world-cup-quarter-final-spain)
+- [Deadly H5 bird flu found in local Australian seabird for first time](https://www.theguardian.com/world/2026/jul/10/first-case-deadly-h5-bird-flu-local-australian-seabird-sa-coast-crested-tern)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

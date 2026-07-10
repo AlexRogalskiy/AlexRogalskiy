@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [I think I can get the original reasoning of Claude models. Is this real?](https://thinking-signature-demo-5g65bijswq-de.a.run.app/)
-- [Bun vs. Deno vs. Node.js: which JavaScript runtime wins in 2026?](https://botmonster.com/web-dev/bun-vs-deno-vs-nodejs-javascript-runtime-2026/)
-- [Show HN: Prompt Injection as an Egress Problem](https://www.vaibot.io/blog/prompt-injection-is-an-egress-problem)
-- [AI changes the economics of software rewrites](https://thetruthasiseeitnow.com/ai-slop-starts-with-the-codebase-itself/)
-- [LisaFPGA: The Apple Lisa computer implemented inside an FPGA](https://github.com/alexthecat123/LisaFPGA)
-- [Samsung chip division&#39;s 1-year profit beat past 40 years of profits, combined](https://www.tomshardware.com/tech-industry/samsungs-chip-division-expects-to-out-earn-its-entire-40-year-history-in-2026)
-- [Accelerating Harbor with Tensorlake](https://www.tensorlake.ai/blog/accelerating-harbor-with-tensorlake)
-- [Why LLMs get dates and times wrong &lpar;and how to fix it&rpar;](https://www.cronofy.com/blog/why-llms-get-dates-and-times-wrong)
-- [SpaceX closes below debut price in two-day slide after Nasdaq-100 inclusion](https://www.cnbc.com/2026/07/08/spacex-stock-nasdaq-100-ipo.html)
-- [Show HN: Computer Use with any models Clanker Secretary](https://twitter.com/tekbog/status/2075086378459898210)
+- [Turn off this Meta setting before someone generates AI images of you](https://www.malwarebytes.com/blog/ai/2026/07/turn-off-this-meta-setting-before-someone-generates-ai-images-of-you)
+- [TinyToT – Tree of Thoughts Inference Server](https://github.com/guilt/TinyToT)
+- [AI subscriptions cut quotas and raised prices in early 2026](https://wellstsai.com/en/post/ai-subscription-shakeout-2026-claude/)
+- [Reuters World News Podcast](https://www.reuters.com/podcasts/reuters-world-news/)
+- [China&#39;s provinces asked to bail out risk-fraught regional banks](https://www.chinabankingnews.com/p/chinas-provinces-asked-to-bail-out)
+- [Publishers Are Preparing to Opt Out of Google Search](https://www.adweek.com/media/publishers-opt-out-google-search/)
+- [Lisp as the Maxwell&#39;s Equations of Software](https://michaelnielsen.org/ddi/lisp-as-the-maxwells-equations-of-software/)
+- [Experiment with tiny quantum universe: time &#39;arises&#39; from changes in disorder](https://www.sciencedaily.com/releases/2026/07/260709160632.htm)
+- [Neuralwatt Doubling the Price](https://portal.neuralwatt.com/pricing)
+- [The great AI data centre cover-up](https://www.ft.com/content/7800ba0f-1420-49fe-b260-9838632a19a4)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

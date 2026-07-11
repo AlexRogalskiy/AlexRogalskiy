@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Turn off this Meta setting before someone generates AI images of you](https://www.malwarebytes.com/blog/ai/2026/07/turn-off-this-meta-setting-before-someone-generates-ai-images-of-you)
-- [TinyToT – Tree of Thoughts Inference Server](https://github.com/guilt/TinyToT)
-- [AI subscriptions cut quotas and raised prices in early 2026](https://wellstsai.com/en/post/ai-subscription-shakeout-2026-claude/)
-- [Reuters World News Podcast](https://www.reuters.com/podcasts/reuters-world-news/)
-- [China&#39;s provinces asked to bail out risk-fraught regional banks](https://www.chinabankingnews.com/p/chinas-provinces-asked-to-bail-out)
-- [Publishers Are Preparing to Opt Out of Google Search](https://www.adweek.com/media/publishers-opt-out-google-search/)
-- [Lisp as the Maxwell&#39;s Equations of Software](https://michaelnielsen.org/ddi/lisp-as-the-maxwells-equations-of-software/)
-- [Experiment with tiny quantum universe: time &#39;arises&#39; from changes in disorder](https://www.sciencedaily.com/releases/2026/07/260709160632.htm)
-- [Neuralwatt Doubling the Price](https://portal.neuralwatt.com/pricing)
-- [The great AI data centre cover-up](https://www.ft.com/content/7800ba0f-1420-49fe-b260-9838632a19a4)
+- [Show HN: Multi person realtime location tracking](https://tracktour.ir)
+- [Perforce and Unreal Lore&#39;s alternative, another way to use Git](https://github.com/zhuzhonghua/blackgit)
+- [How dementia is being defeated](https://www.economist.com/briefing/2026/07/09/how-dementia-is-being-defeated)
+- [Wlctl – a Rust TUI for Managing Wi-Fi/ETH/VPN Using NetworkManager](https://github.com/aashish-thapa/wlctl)
+- [Noisia: Harmful Workload Generator for PostgreSQL](https://github.com/lesovsky/noisia)
+- [The Four-Color Problem and Its Philosophical Significance &lpar;1979&rpar; [pdf]](http://www.thatmarcusfamily.org/philosophy/Course_Websites/Math_S08/Readings/tymoczko.pdf)
+- [Curious case, comparing output from multiple LLMs](https://github.com/vseryakov/backendjs/tree/master/examples/prompts)
+- [How Do You Steal $1,500M in 3 Minutes? [video]](https://www.youtube.com/watch?v=E2Onvy1tWY8)
+- [Meta removes AI feature on Instagram after global backlash](https://www.rnz.co.nz/news/science-and-technology/700735/missed-the-mark-meta-removes-ai-feature-on-instagram-after-global-backlash)
+- [Managing a small local AI budget &lpar;Mac M2 16gb&rpar;](https://millfolio.com/blog/local-ai-infra-tags/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

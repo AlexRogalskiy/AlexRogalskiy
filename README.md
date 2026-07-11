@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [TV tonight: the return of Sally Phillips and Ben Miller’s family sitcom](https://www.theguardian.com/tv-and-radio/2026/jul/10/tv-tonight-the-return-of-sally-phillips-and-ben-millers-family-sitcom)
-- [South Korea chip maker SK hynix rides AI boom raising $26.5bn in huge US listing](https://www.theguardian.com/world/2026/jul/10/south-korea-chip-maker-sk-hynix-rides-ai-boom-raising-265bn-in-huge-us-listing)
-- [Reeves to launch City ‘skills compact’ committing firms to retrain staff in AI](https://www.theguardian.com/business/2026/jul/10/rachel-reeves-city-skills-compact-ai-training)
-- [Oasis reunion helps draw record 25m ‘music tourists’ to UK concerts](https://www.theguardian.com/business/2026/jul/10/oasis-reunion-uk-concerts-cold-play-lana-del-ray-beyonce-gigs-economy)
-- [This thinktank exposed fat cats and obscenely high pay. Guess what has happened to it? | Polly Toynbee](https://www.theguardian.com/commentisfree/2026/jul/10/high-pay-centre-thinktank-ceo-wages-anti-diversity)
-- [It’s coming home: what to wear to watch England’s World Cup quarter-final](https://www.theguardian.com/fashion/gallery/2026/jul/10/what-to-wear-watch-england-world-cup-quarter-final)
-- [Helen Goh’s recipe for rolled pavlova with strawberries and sumac | The sweet spot](https://www.theguardian.com/food/2026/jul/10/rolled-pavlova-strawberries-sumac-recipe-helen-goh)
-- [Country diary: I thought I was poking a hedgehog’s nest. I was wrong | Claire Stares](https://www.theguardian.com/environment/2026/jul/10/country-diary-i-thought-i-was-poking-a-hedgehogs-nest-i-was-wrong)
-- [Belgium take strength from ‘millions and millions’ of new fans before Spain clash](https://www.theguardian.com/football/2026/jul/10/belgium-rudi-garcia-world-cup-quarter-final-spain)
-- [Deadly H5 bird flu found in local Australian seabird for first time](https://www.theguardian.com/world/2026/jul/10/first-case-deadly-h5-bird-flu-local-australian-seabird-sa-coast-crested-tern)
+- [Europe considering proposals to allow navigational fees in strait of Hormuz](https://www.theguardian.com/world/2026/jul/11/europe-considers-proposals-navigational-fees-strait-of-hormuz-iran-us)
+- [Haaland’s hometown hails ‘little boy who grew into a huge Viking’](https://www.theguardian.com/football/2026/jul/11/erling-haaland-hometown-bryne-norway-fans)
+- [My holiday from hell: I knew the apartment block was no-frills. I did not know it was a building site](https://www.theguardian.com/lifeandstyle/2026/jul/11/my-holiday-from-hell-i-knew-the-apartment-block-was-no-frills-i-did-not-know-it-was-a-building-site)
+- [Ukraine war briefing: Zelenskyy creates ‘long-range impact’ command to strike Russian energy sector](https://www.theguardian.com/world/2026/jul/11/ukraine-war-briefing-zelenskyy-long-range-impact-command-russian-energy-strikes)
+- [Trump-appointed judge dismisses seditious conspiracy case against Proud Boys](https://www.theguardian.com/us-news/2026/jul/10/proud-boys-seditious-conspiracy-case-dismissed)
+- [Peter Falconio murder 25 years on: new footage shows dying Australian outback killer’s refusal to reveal body’s location](https://www.theguardian.com/world/2026/jul/11/peter-falconio-murder-bradley-john-murdoch-nt-police-footage-ntwnfb)
+- [Crews again drain Trump’s troubled reflecting pool](https://www.theguardian.com/us-news/2026/jul/10/washington-reflecting-pool-trump)
+- [Tuchel fears more Haaland heroics as England seek identity against Norway](https://www.theguardian.com/football/2026/jul/11/thomas-tuchel-erling-haaland-england-norway-2026-world-cup-quarter-final)
+- [‘It’s good to do nothing’: why hundreds gathered to sit still on one Bangkok weekend](https://www.theguardian.com/world/2026/jul/11/its-good-to-do-nothing-why-hundreds-gathered-to-sit-still-on-one-bangkok-weekend)
+- [Man charged with Bedfordshire murder of his wife and daughters after arrest in South Africa](https://www.theguardian.com/uk-news/2026/jul/10/tshuma-charged-bedfordshire-murder-wife-daughters-arrest-south-africa)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

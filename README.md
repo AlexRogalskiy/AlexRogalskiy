@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Ben Bernanke Joins Anthropic Oversight Trust](https://www.anthropic.com/news/ben-bernanke)
-- [Build your own vulnerability harness](https://blog.cloudflare.com/build-your-own-vulnerability-harness/)
-- [Study: &quot;Mommy, do you love your phone more than me?&quot;](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1766665/full)
-- [Why American ambulance rides are so expensive](https://davidoks.blog/p/why-american-ambulance-rides-are)
-- [Building a real-time AI tutor for 5-year-olds](https://www.ello.com/blog/teaching-a-child-in-1000-ms)
-- [Interview with Mitchell Hashimoto about Ghostty and Zig](https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/)
-- [GPT-5.6](https://openai.com/index/gpt-5-6/)
-- [Launch HN: Context.dev &lpar;YC S26&rpar; – API to get structured data from any website](https://www.context.dev)
-- [Hy3](https://hy.tencent.com/research/hy3)
-- [A possible future for Damn Interesting](https://www.damninteresting.com/a-possible-future/)
+- [Einstein&#39;s relativity rules chemical bonds in heavy elements, new research shows](https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity)
+- [Moss &lpar;YC F25&rpar; Is Hiring](https://www.ycombinator.com/companies/moss/jobs/52LnqLQ-software-engineer-sdk)
+- [Apple sues OpenAI, accuses ex-employees of stealing trade secrets](https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/)
+- [GhostLock, a stack-UAF that has existed in ALL Linux distributions for 15 years](https://nebusec.ai/research/ionstack-part-2/)
+- [An update on residential proxies and the scraper situation](https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/)
+- [GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]](https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf)
+- [New York City to ban deceptive subscription practices](https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban)
+- [War Atlas: An interactive cartography of every named war in human history](https://waratlas.org)
+- [SpaceX wants to launch 100k more Starlink satellites for 100x the bandwidth](https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/)
+- [The tech of &#39;Terminator 2&#39; – an oral history &lpar;2017&rpar;](https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

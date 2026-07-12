@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Europe considering proposals to allow navigational fees in strait of Hormuz](https://www.theguardian.com/world/2026/jul/11/europe-considers-proposals-navigational-fees-strait-of-hormuz-iran-us)
-- [Haaland’s hometown hails ‘little boy who grew into a huge Viking’](https://www.theguardian.com/football/2026/jul/11/erling-haaland-hometown-bryne-norway-fans)
-- [My holiday from hell: I knew the apartment block was no-frills. I did not know it was a building site](https://www.theguardian.com/lifeandstyle/2026/jul/11/my-holiday-from-hell-i-knew-the-apartment-block-was-no-frills-i-did-not-know-it-was-a-building-site)
-- [Ukraine war briefing: Zelenskyy creates ‘long-range impact’ command to strike Russian energy sector](https://www.theguardian.com/world/2026/jul/11/ukraine-war-briefing-zelenskyy-long-range-impact-command-russian-energy-strikes)
-- [Trump-appointed judge dismisses seditious conspiracy case against Proud Boys](https://www.theguardian.com/us-news/2026/jul/10/proud-boys-seditious-conspiracy-case-dismissed)
-- [Peter Falconio murder 25 years on: new footage shows dying Australian outback killer’s refusal to reveal body’s location](https://www.theguardian.com/world/2026/jul/11/peter-falconio-murder-bradley-john-murdoch-nt-police-footage-ntwnfb)
-- [Crews again drain Trump’s troubled reflecting pool](https://www.theguardian.com/us-news/2026/jul/10/washington-reflecting-pool-trump)
-- [Tuchel fears more Haaland heroics as England seek identity against Norway](https://www.theguardian.com/football/2026/jul/11/thomas-tuchel-erling-haaland-england-norway-2026-world-cup-quarter-final)
-- [‘It’s good to do nothing’: why hundreds gathered to sit still on one Bangkok weekend](https://www.theguardian.com/world/2026/jul/11/its-good-to-do-nothing-why-hundreds-gathered-to-sit-still-on-one-bangkok-weekend)
-- [Man charged with Bedfordshire murder of his wife and daughters after arrest in South Africa](https://www.theguardian.com/uk-news/2026/jul/10/tshuma-charged-bedfordshire-murder-wife-daughters-arrest-south-africa)
+- [Kawan, London W1: ‘This dish is bound to work, we think. But it doesn’t. It’s hideous’ – restaurant review | Grace Dent on restaurants](https://www.theguardian.com/food/2026/jul/12/kawan-london-w1-grace-dent-restaurant-review)
+- [My husband no longer desires me, but engaging an escort has complicated things | Ask Annalisa Barbieri](https://www.theguardian.com/lifeandstyle/2026/jul/12/husband-no-longer-desires-me-escort)
+- [At last, a proper excuse for monoglots to learn another language: it helps keep your brain young | Rhiannon Lucy Cosslett](https://www.theguardian.com/commentisfree/2026/jul/12/learn-another-language-french-restaurant-service-multilingual)
+- [EU accused of dragging its feet over ban on trade with illegal Israeli settlements](https://www.theguardian.com/world/2026/jul/12/eu-accused-dragging-its-feet-ban-trade-israeli-settlements)
+- [A revolution in ruins: fury amid the rubble of a housing project in quake-hit Venezuela](https://www.theguardian.com/news/ng-interactive/2026/jul/12/a-revolution-in-ruins-fury-amid-the-rubble-of-a-housing-project-in-quake-hit-venezuela)
+- [‘They said to me, you were the best sex toy we ever had’: the pain, pleasure and paranoia of life in a throuple](https://www.theguardian.com/lifeandstyle/2026/jul/12/throuples-life-pain-pleasure-paranoia-best-sex-toy)
+- [Toronto shooting: two dead and four injured at Salsa on St Clair street festival](https://www.theguardian.com/world/2026/jul/12/toronto-shooting-two-dead-and-three-injured-as-police-search-for-active-shooter)
+- [My holiday from hell: we were 20 drunk teenagers in a Sicilian villa. I would like to apologise to our host](https://www.theguardian.com/lifeandstyle/2026/jul/12/my-holiday-from-hell-we-were-20-drunk-teenagers-in-a-sicilian-villa-i-would-like-to-apologise-to-our-host)
+- [‘We were kids dressed as gangsters, running riot’ – Alan Parker’s Bugsy Malone at 50, by its cast and crew](https://www.theguardian.com/film/2026/jul/12/we-were-kids-dressed-as-gangsters-running-riot-alan-parkers-bugsy-malone-at-50-by-its-cast-and-crew)
+- [The Westies review – this violent New York mob drama is like Peaky Blinders meets The Sopranos](https://www.theguardian.com/tv-and-radio/2026/jul/12/the-westies-review-irish-american-gang-drama-mgm-plus)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

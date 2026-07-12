@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: Multi person realtime location tracking](https://tracktour.ir)
-- [Perforce and Unreal Lore&#39;s alternative, another way to use Git](https://github.com/zhuzhonghua/blackgit)
-- [How dementia is being defeated](https://www.economist.com/briefing/2026/07/09/how-dementia-is-being-defeated)
-- [Wlctl – a Rust TUI for Managing Wi-Fi/ETH/VPN Using NetworkManager](https://github.com/aashish-thapa/wlctl)
-- [Noisia: Harmful Workload Generator for PostgreSQL](https://github.com/lesovsky/noisia)
-- [The Four-Color Problem and Its Philosophical Significance &lpar;1979&rpar; [pdf]](http://www.thatmarcusfamily.org/philosophy/Course_Websites/Math_S08/Readings/tymoczko.pdf)
-- [Curious case, comparing output from multiple LLMs](https://github.com/vseryakov/backendjs/tree/master/examples/prompts)
-- [How Do You Steal $1,500M in 3 Minutes? [video]](https://www.youtube.com/watch?v=E2Onvy1tWY8)
-- [Meta removes AI feature on Instagram after global backlash](https://www.rnz.co.nz/news/science-and-technology/700735/missed-the-mark-meta-removes-ai-feature-on-instagram-after-global-backlash)
-- [Managing a small local AI budget &lpar;Mac M2 16gb&rpar;](https://millfolio.com/blog/local-ai-infra-tags/)
+- [UK Cybercrime Journal: Argos Account Takeover Fraud](https://blog.bushidotoken.net/2026/07/uk-cybercrime-journal-argos-account.html)
+- [Ask HN: Do your tests clear &quot;If the tests pass, you cannot break the code&quot; bar?](https://news.ycombinator.com/item?id=48878448)
+- [Show HN: AsyncFutures – A Ruby gem for asynchronous/concurrent code execution](https://rubygems.org/gems/async_futures/versions/0.1.2)
+- [Proof of Concept for the recent Litematica path traversal bug which leads to RCE](https://github.com/AliensToEarth/litematica-rce)
+- [Built a tracker to estimate water wastage when talking to Claude](https://github.com/piyushkhemka/sip)
+- [BMW Warns of Unauthorized Production of &#39;Pirated&#39; Cars in Russia](https://www.themoscowtimes.com/2026/07/11/bmw-warns-of-unauthorized-production-of-pirated-cars-in-russia-a93223)
+- [SK Hynix CEO: worst memory shortage in 2027, will persist beyond 2030](https://www.reuters.com/world/asia-pacific/sk-hynix-ceo-sees-worst-ever-memory-supply-shortage-2027-says-demand-outstrip-2026-07-10/)
+- [Big Tech piles on $350B in debt to fuel AI data center race](https://www.latimes.com/business/story/2026-07-10/big-tech-piles-on-350-billion-in-debt-to-fuel-ai-data-center-race)
+- [Credit Sleeves Collapse Bubbles](https://medium.com/@mcgrathrpm/credit-sleeves-are-the-bubble-6c57a54b9cff)
+- [Can&#39;t Read Slop Anymore](https://blog.imraniqbal.org/cant-read-slop-anymore/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

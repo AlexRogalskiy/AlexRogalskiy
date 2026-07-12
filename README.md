@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Einstein&#39;s relativity rules chemical bonds in heavy elements, new research shows](https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity)
-- [Moss &lpar;YC F25&rpar; Is Hiring](https://www.ycombinator.com/companies/moss/jobs/52LnqLQ-software-engineer-sdk)
-- [Apple sues OpenAI, accuses ex-employees of stealing trade secrets](https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/)
-- [GhostLock, a stack-UAF that has existed in ALL Linux distributions for 15 years](https://nebusec.ai/research/ionstack-part-2/)
-- [An update on residential proxies and the scraper situation](https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/)
-- [GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]](https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf)
-- [New York City to ban deceptive subscription practices](https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban)
-- [War Atlas: An interactive cartography of every named war in human history](https://waratlas.org)
-- [SpaceX wants to launch 100k more Starlink satellites for 100x the bandwidth](https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/)
-- [The tech of &#39;Terminator 2&#39; – an oral history &lpar;2017&rpar;](https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/)
+- [Why Write Code in 2026](https://softwaredoug.com/blog/2026/07/09/write-code.html)
+- [Under federal rule, colleges must leave grads better off or lose financial aid](https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans)
+- [Why are US consumers so angry? It&#39;s not just high prices](https://www.theguardian.com/us-news/ng-interactive/2026/jun/04/us-consumer-rage-prices-economy)
+- [We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture](https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/)
+- [The Energetic Costs of Cellular Computation &lpar;2012&rpar;](https://arxiv.org/abs/1203.5426)
+- [What xAI&#39;s Grok Build CLI Actually Sends to xAI](https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547)
+- [A Erlang style pure Scheme Webserver and further](https://igropyr.com)
+- [A pure scheme web programming tool](https://goeteia.dev)
+- [A dock that wakes up reliably](https://fabiensanglard.net/tb4/index.html)
+- [Long Covid May Physically Damage the Nerves That Control the Stomach](https://www.ijidonline.com/article/S1201-9712(26)00608-9/fulltext)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

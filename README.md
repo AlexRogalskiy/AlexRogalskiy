@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Kawan, London W1: ‘This dish is bound to work, we think. But it doesn’t. It’s hideous’ – restaurant review | Grace Dent on restaurants](https://www.theguardian.com/food/2026/jul/12/kawan-london-w1-grace-dent-restaurant-review)
-- [My husband no longer desires me, but engaging an escort has complicated things | Ask Annalisa Barbieri](https://www.theguardian.com/lifeandstyle/2026/jul/12/husband-no-longer-desires-me-escort)
-- [At last, a proper excuse for monoglots to learn another language: it helps keep your brain young | Rhiannon Lucy Cosslett](https://www.theguardian.com/commentisfree/2026/jul/12/learn-another-language-french-restaurant-service-multilingual)
-- [EU accused of dragging its feet over ban on trade with illegal Israeli settlements](https://www.theguardian.com/world/2026/jul/12/eu-accused-dragging-its-feet-ban-trade-israeli-settlements)
-- [A revolution in ruins: fury amid the rubble of a housing project in quake-hit Venezuela](https://www.theguardian.com/news/ng-interactive/2026/jul/12/a-revolution-in-ruins-fury-amid-the-rubble-of-a-housing-project-in-quake-hit-venezuela)
-- [‘They said to me, you were the best sex toy we ever had’: the pain, pleasure and paranoia of life in a throuple](https://www.theguardian.com/lifeandstyle/2026/jul/12/throuples-life-pain-pleasure-paranoia-best-sex-toy)
-- [Toronto shooting: two dead and four injured at Salsa on St Clair street festival](https://www.theguardian.com/world/2026/jul/12/toronto-shooting-two-dead-and-three-injured-as-police-search-for-active-shooter)
-- [My holiday from hell: we were 20 drunk teenagers in a Sicilian villa. I would like to apologise to our host](https://www.theguardian.com/lifeandstyle/2026/jul/12/my-holiday-from-hell-we-were-20-drunk-teenagers-in-a-sicilian-villa-i-would-like-to-apologise-to-our-host)
-- [‘We were kids dressed as gangsters, running riot’ – Alan Parker’s Bugsy Malone at 50, by its cast and crew](https://www.theguardian.com/film/2026/jul/12/we-were-kids-dressed-as-gangsters-running-riot-alan-parkers-bugsy-malone-at-50-by-its-cast-and-crew)
-- [The Westies review – this violent New York mob drama is like Peaky Blinders meets The Sopranos](https://www.theguardian.com/tv-and-radio/2026/jul/12/the-westies-review-irish-american-gang-drama-mgm-plus)
+- [TV tonight: Chris Packham’s wondrous series about evolution](https://www.theguardian.com/tv-and-radio/2026/jul/13/tv-tonight-chris-packhams-wondrous-series-about-evolution)
+- [Struggling pub landlords given a lifeline by England’s World Cup heroes](https://www.theguardian.com/football/2026/jul/13/pub-landlords-lifeline-england-world-cup-heroes)
+- [June heatwave killed up to 440 people a day in England and Wales, data suggests](https://www.theguardian.com/environment/2026/jul/13/june-heatwave-killed-440-people-a-day-england-wales-data-suggests-climate-crisis)
+- [‘If a woman is killed, they say she fell, she took poison’: Pakistan’s devastating rise in ‘hidden’ sexual violence](https://www.theguardian.com/global-development/2026/jul/13/if-a-woman-is-killed-they-say-she-fell-she-took-poison-pakistans-devastating-rise-in-hidden-sexual-violence)
+- [Chakalaka and spicy wings: Nokx Majozi’s South African braai favourites](https://www.theguardian.com/food/2026/jul/13/chakalaka-spicy-chicken-wings-mango-south-african-braai-recipes-nokx-majozi)
+- [In Israel’s prisons, torture and death have become a norm that it barely tries to hide | Nesrine Malik](https://www.theguardian.com/commentisfree/2026/jul/13/israel-prison-torture-death-hussam-abu-safiya-palestine)
+- [Britons give classic round tomato the red card as coloured and vine varieties score](https://www.theguardian.com/food/2026/jul/13/british-classic-round-tomato-coloured-vine-varieties-score)
+- [‘No matter how bad, it is always fixable’: how Bea Elton cleans up the houses – and lives – of desperate people](https://www.theguardian.com/lifeandstyle/2026/jul/13/bea-elton-cleans-houses-cleaning)
+- [My holiday from hell: blizzards, black ice, a broken-down bus – would I ever make it to New York?](https://www.theguardian.com/lifeandstyle/2026/jul/13/my-holiday-from-hell-blizzards-black-ice-a-broken-down-bus-would-i-ever-make-it-to-new-york)
+- [Mastermind of €88m Louvre heist thought they ‘could have taken more’](https://www.theguardian.com/world/2026/jul/13/mastermind-of-88m-louvre-heist-thought-they-could-have-taken-more)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

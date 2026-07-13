@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Why Write Code in 2026](https://softwaredoug.com/blog/2026/07/09/write-code.html)
-- [Under federal rule, colleges must leave grads better off or lose financial aid](https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans)
-- [Why are US consumers so angry? It&#39;s not just high prices](https://www.theguardian.com/us-news/ng-interactive/2026/jun/04/us-consumer-rage-prices-economy)
-- [We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture](https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/)
-- [The Energetic Costs of Cellular Computation &lpar;2012&rpar;](https://arxiv.org/abs/1203.5426)
-- [What xAI&#39;s Grok Build CLI Actually Sends to xAI](https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547)
-- [A Erlang style pure Scheme Webserver and further](https://igropyr.com)
-- [A pure scheme web programming tool](https://goeteia.dev)
-- [A dock that wakes up reliably](https://fabiensanglard.net/tb4/index.html)
-- [Long Covid May Physically Damage the Nerves That Control the Stomach](https://www.ijidonline.com/article/S1201-9712(26)00608-9/fulltext)
+- [Beavis Ultrasound PnP ISA Sound Card Replica](https://github.com/schlae/BeavisUltrasound)
+- [Count Binface](https://countbinface.com)
+- [Modernizing Property Tax Assessments in Allegheny County](https://www.prohousingpgh.org/blog/new-report-modernizing-property-tax-assessments-in-allegheny-county)
+- [Ask HN: Add flag for AI-generated articles](https://news.ycombinator.com/item?id=48886741)
+- [Designing and assembling my first PCB](https://vilkeliskis.com/b/2026/0711.html)
+- [Why Vanilla JavaScript](https://guseyn.com/html/posts/why-vanilla-js.html)
+- [Cyberpunk Comics, Manga and Graphic Novels](https://shellzine.net/cyberpunk-comics/)
+- [Profiling the &quot;Abundance&quot; housing bottleneck with real data](https://laxmena.com/same-capacity-less-throughput)
+- [Kode Dot Programmable pocket device for makers, pentesters and geeks](https://kode.diy)
+- [Ask HN: What Are You Working On? &lpar;July 2026&rpar;](https://news.ycombinator.com/item?id=48884984)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

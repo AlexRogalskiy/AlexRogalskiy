@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [UK Cybercrime Journal: Argos Account Takeover Fraud](https://blog.bushidotoken.net/2026/07/uk-cybercrime-journal-argos-account.html)
-- [Ask HN: Do your tests clear &quot;If the tests pass, you cannot break the code&quot; bar?](https://news.ycombinator.com/item?id=48878448)
-- [Show HN: AsyncFutures – A Ruby gem for asynchronous/concurrent code execution](https://rubygems.org/gems/async_futures/versions/0.1.2)
-- [Proof of Concept for the recent Litematica path traversal bug which leads to RCE](https://github.com/AliensToEarth/litematica-rce)
-- [Built a tracker to estimate water wastage when talking to Claude](https://github.com/piyushkhemka/sip)
-- [BMW Warns of Unauthorized Production of &#39;Pirated&#39; Cars in Russia](https://www.themoscowtimes.com/2026/07/11/bmw-warns-of-unauthorized-production-of-pirated-cars-in-russia-a93223)
-- [SK Hynix CEO: worst memory shortage in 2027, will persist beyond 2030](https://www.reuters.com/world/asia-pacific/sk-hynix-ceo-sees-worst-ever-memory-supply-shortage-2027-says-demand-outstrip-2026-07-10/)
-- [Big Tech piles on $350B in debt to fuel AI data center race](https://www.latimes.com/business/story/2026-07-10/big-tech-piles-on-350-billion-in-debt-to-fuel-ai-data-center-race)
-- [Credit Sleeves Collapse Bubbles](https://medium.com/@mcgrathrpm/credit-sleeves-are-the-bubble-6c57a54b9cff)
-- [Can&#39;t Read Slop Anymore](https://blog.imraniqbal.org/cant-read-slop-anymore/)
+- [Sotheby&#39;s video showcases working Apple-1 serial number 01-0033](https://www.youtube.com/watch?v=NiOu3DL7t94)
+- [Nuclear Fusion Ready for Commercialization?](https://abc7news.com/post/inertia-worlds-1st-fusion-factory-lawrence-livermore-national-laboratory-aims-clean-energy-source-commercial-use/19482659/)
+- [Telling a tom from a snare with one microphone](https://drummate.app/blog/the-snare-has-wires)
+- [Beavis Ultrasound PnP ISA Sound Card Replica](https://github.com/schlae/BeavisUltrasound)
+- [Same agent tasks, 76% fewer LLM calls – we moved semantic cache inside the graph](https://github.com/insightitsGit/ChorusGraph/)
+- [Data Engineers Should Be Held to the Same Standards as Bakers](https://www.hermit-tech.com/blog/data-engineers-and-bakers)
+- [Bob&#39;s Research, stock analysis, filings read for you](https://www.bobsresearch.com/)
+- [TwoMillionKit: Private Cloud Compute in FoundationModels without an entitlement](https://github.com/insidegui/TwoMillionKit)
+- [&#39;Quality decays exponentially following AI arrival&#39;: Experts leaving in droves](https://www.techradar.com/pro/quality-decays-exponentially-following-ai-arrival-research-shows-experts-and-contributors-leaving-online-communities-amidst-silent-knowledge-reset)
+- [Red Hat&#39;s Project Lightwell. Interview with Mo Duffy](https://opensourcesecurity.io/2026/2026-07-lightwell-mo-duffy/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

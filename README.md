@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Beavis Ultrasound PnP ISA Sound Card Replica](https://github.com/schlae/BeavisUltrasound)
-- [Count Binface](https://countbinface.com)
-- [Modernizing Property Tax Assessments in Allegheny County](https://www.prohousingpgh.org/blog/new-report-modernizing-property-tax-assessments-in-allegheny-county)
-- [Ask HN: Add flag for AI-generated articles](https://news.ycombinator.com/item?id=48886741)
-- [Designing and assembling my first PCB](https://vilkeliskis.com/b/2026/0711.html)
-- [Why Vanilla JavaScript](https://guseyn.com/html/posts/why-vanilla-js.html)
-- [Cyberpunk Comics, Manga and Graphic Novels](https://shellzine.net/cyberpunk-comics/)
-- [Profiling the &quot;Abundance&quot; housing bottleneck with real data](https://laxmena.com/same-capacity-less-throughput)
-- [Kode Dot Programmable pocket device for makers, pentesters and geeks](https://kode.diy)
-- [Ask HN: What Are You Working On? &lpar;July 2026&rpar;](https://news.ycombinator.com/item?id=48884984)
+- [YouTrackDB is a general-use object-oriented graph database](https://github.com/JetBrains/youtrackdb)
+- [Agents.md – Dumb Human](https://gist.github.com/skorotkiewicz/2d4db4ceaf83aa54eb7f2066fdb961ff)
+- [Our Amish Language](https://www.thedial.world/articles/news/amish-pennsylvania-dutch)
+- [Japan develops a method to recover up to 90% of lithium from used EV batteries](https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/)
+- [Fundamentals of Wireless Communication](https://web.stanford.edu/~dntse/wireless_book.html)
+- [Satellite Tracker – Live Map of Starlink and 30k Satellites](https://satellitemap.space/)
+- [What will be left for us to work on?](https://www.normaltech.ai/p/what-will-be-left-for-us-to-work)
+- [Building Food Metadata with LLM Juries](https://careersatdoordash.com/blog/building-food-metadata-with-llm-juries-context-optimization-multimodal-ai/)
+- [Is x86 ready to ACE it?](https://chipsandcheese.com/p/is-x86-ready-to-ace-it)
+- [The Economics of Recursive Self-Improvement [pdf]](https://elasticity.institute/rsi-paper.pdf)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

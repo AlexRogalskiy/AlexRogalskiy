@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Sotheby&#39;s video showcases working Apple-1 serial number 01-0033](https://www.youtube.com/watch?v=NiOu3DL7t94)
-- [Nuclear Fusion Ready for Commercialization?](https://abc7news.com/post/inertia-worlds-1st-fusion-factory-lawrence-livermore-national-laboratory-aims-clean-energy-source-commercial-use/19482659/)
-- [Telling a tom from a snare with one microphone](https://drummate.app/blog/the-snare-has-wires)
-- [Beavis Ultrasound PnP ISA Sound Card Replica](https://github.com/schlae/BeavisUltrasound)
-- [Same agent tasks, 76% fewer LLM calls – we moved semantic cache inside the graph](https://github.com/insightitsGit/ChorusGraph/)
-- [Data Engineers Should Be Held to the Same Standards as Bakers](https://www.hermit-tech.com/blog/data-engineers-and-bakers)
-- [Bob&#39;s Research, stock analysis, filings read for you](https://www.bobsresearch.com/)
-- [TwoMillionKit: Private Cloud Compute in FoundationModels without an entitlement](https://github.com/insidegui/TwoMillionKit)
-- [&#39;Quality decays exponentially following AI arrival&#39;: Experts leaving in droves](https://www.techradar.com/pro/quality-decays-exponentially-following-ai-arrival-research-shows-experts-and-contributors-leaving-online-communities-amidst-silent-knowledge-reset)
-- [Red Hat&#39;s Project Lightwell. Interview with Mo Duffy](https://opensourcesecurity.io/2026/2026-07-lightwell-mo-duffy/)
+- [Show HN: Giving Claude Code and codex its voice using kokoro](https://github.com/softcane/aloud)
+- [Anthropic runs like Wile E. Coyote into the brick wall of consciousness research](https://www.theintrinsicperspective.com/p/anthropic-runs-like-wile-e-coyote)
+- [The Empire Strikes Back](https://scottsumner.substack.com/p/the-empire-strikes-back)
+- [A new kind of robot swims the seas and soars the skies](https://www.npr.org/2026/07/09/nx-s1-5885040/robot-flying-aerial-aquatic-mit-birds)
+- [Cat Is Being Nice? Think Again](https://www.nytimes.com/2026/07/10/science/cat-grooming-licking-research.html)
+- [Australia is offering free daytime electricity](https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/)
+- [TV Time is getting shut down. It&#39;s founder is building its replacement](https://www.neowin.net/news/tv-time-is-on-its-last-legs-its-founder-is-already-building-its-replacement/)
+- [IronCurtain – A secure* runtime for autonomous AI agents](https://github.com/provos/ironcurtain)
+- [Show HN: Codex Pet Web – put any Codex pet on any website](https://pets.caro.sh)
+- [Hands-On with iOS and iPadOS 27, macOS 27 Golden Gate, and Siri AI](https://eshumarneedi.com/2026/07/13/handson-with-ios-and-ipados.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [TV tonight: Chris Packham’s wondrous series about evolution](https://www.theguardian.com/tv-and-radio/2026/jul/13/tv-tonight-chris-packhams-wondrous-series-about-evolution)
-- [Struggling pub landlords given a lifeline by England’s World Cup heroes](https://www.theguardian.com/football/2026/jul/13/pub-landlords-lifeline-england-world-cup-heroes)
-- [June heatwave killed up to 440 people a day in England and Wales, data suggests](https://www.theguardian.com/environment/2026/jul/13/june-heatwave-killed-440-people-a-day-england-wales-data-suggests-climate-crisis)
-- [‘If a woman is killed, they say she fell, she took poison’: Pakistan’s devastating rise in ‘hidden’ sexual violence](https://www.theguardian.com/global-development/2026/jul/13/if-a-woman-is-killed-they-say-she-fell-she-took-poison-pakistans-devastating-rise-in-hidden-sexual-violence)
-- [Chakalaka and spicy wings: Nokx Majozi’s South African braai favourites](https://www.theguardian.com/food/2026/jul/13/chakalaka-spicy-chicken-wings-mango-south-african-braai-recipes-nokx-majozi)
-- [In Israel’s prisons, torture and death have become a norm that it barely tries to hide | Nesrine Malik](https://www.theguardian.com/commentisfree/2026/jul/13/israel-prison-torture-death-hussam-abu-safiya-palestine)
-- [Britons give classic round tomato the red card as coloured and vine varieties score](https://www.theguardian.com/food/2026/jul/13/british-classic-round-tomato-coloured-vine-varieties-score)
-- [‘No matter how bad, it is always fixable’: how Bea Elton cleans up the houses – and lives – of desperate people](https://www.theguardian.com/lifeandstyle/2026/jul/13/bea-elton-cleans-houses-cleaning)
-- [My holiday from hell: blizzards, black ice, a broken-down bus – would I ever make it to New York?](https://www.theguardian.com/lifeandstyle/2026/jul/13/my-holiday-from-hell-blizzards-black-ice-a-broken-down-bus-would-i-ever-make-it-to-new-york)
-- [Mastermind of €88m Louvre heist thought they ‘could have taken more’](https://www.theguardian.com/world/2026/jul/13/mastermind-of-88m-louvre-heist-thought-they-could-have-taken-more)
+- [Summer etiquette: 47 essential rules – from sex to sunloungers to shopping in swimming trunks](https://www.theguardian.com/lifeandstyle/2026/jul/14/summer-etiquette-47-essential-rules-from-sex-to-sunloungers-to-shopping-in-swimming-trunks)
+- [Sale of multimillion-dollar T rex skeleton is big headache for scientists](https://www.theguardian.com/science/2026/jul/14/t-rex-skeleton-sothebys-auction-new-york-scientists)
+- [‘He made wine and he shared it. What more do you want?’: Sam Neill remembered by his co-stars](https://www.theguardian.com/film/2026/jul/14/sam-neill-remembered-lindsay-duncan-charles-dance-peter-webber)
+- [‘This process has turned into a form of torture’: inside the trial of Erdoğan’s challenger](https://www.theguardian.com/news/2026/jul/14/this-process-has-turned-into-a-form-of-torture-inside-the-trial-of-erdogans-challenger)
+- [Who is ‘stealing’ Bali’s water? How tourism siphoned off a prized resource](https://www.theguardian.com/environment/2026/jul/14/bali-water-resource-tourism-rice-fields)
+- [Sweden prides itself on equality – so why is its political gender gap growing?](https://www.theguardian.com/world/2026/jul/14/sweden-prides-itself-on-equality-so-why-is-its-political-gender-gap-growing)
+- [Lamine Yamal enjoys birthday with a kickabout and a show before France World Cup semi-final test](https://www.theguardian.com/football/2026/jul/14/lamine-yamal-birthday-spain-vs-france-world-cup-semi-final)
+- [Sam Neill’s final films tell us a lot about who he was as an actor – and why we’ll miss him | Luke Buckmaster](https://www.theguardian.com/film/2026/jul/14/sam-neill-final-films-movies-who-was-actor)
+- [How is Pauline Hanson’s UK trip going down with the locals? | Fiona Katauskas](https://www.theguardian.com/commentisfree/picture/2026/jul/14/how-is-pauline-hansons-uk-trip-going-down-with-the-locals)
+- [Darline Graham Nordone: Lindsey Graham’s sister and interim US senator](https://www.theguardian.com/us-news/2026/jul/13/who-is-darline-graham-nordone-lindsey-graham)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

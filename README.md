@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Summer etiquette: 47 essential rules – from sex to sunloungers to shopping in swimming trunks](https://www.theguardian.com/lifeandstyle/2026/jul/14/summer-etiquette-47-essential-rules-from-sex-to-sunloungers-to-shopping-in-swimming-trunks)
-- [Sale of multimillion-dollar T rex skeleton is big headache for scientists](https://www.theguardian.com/science/2026/jul/14/t-rex-skeleton-sothebys-auction-new-york-scientists)
-- [‘He made wine and he shared it. What more do you want?’: Sam Neill remembered by his co-stars](https://www.theguardian.com/film/2026/jul/14/sam-neill-remembered-lindsay-duncan-charles-dance-peter-webber)
-- [‘This process has turned into a form of torture’: inside the trial of Erdoğan’s challenger](https://www.theguardian.com/news/2026/jul/14/this-process-has-turned-into-a-form-of-torture-inside-the-trial-of-erdogans-challenger)
-- [Who is ‘stealing’ Bali’s water? How tourism siphoned off a prized resource](https://www.theguardian.com/environment/2026/jul/14/bali-water-resource-tourism-rice-fields)
-- [Sweden prides itself on equality – so why is its political gender gap growing?](https://www.theguardian.com/world/2026/jul/14/sweden-prides-itself-on-equality-so-why-is-its-political-gender-gap-growing)
-- [Lamine Yamal enjoys birthday with a kickabout and a show before France World Cup semi-final test](https://www.theguardian.com/football/2026/jul/14/lamine-yamal-birthday-spain-vs-france-world-cup-semi-final)
-- [Sam Neill’s final films tell us a lot about who he was as an actor – and why we’ll miss him | Luke Buckmaster](https://www.theguardian.com/film/2026/jul/14/sam-neill-final-films-movies-who-was-actor)
-- [How is Pauline Hanson’s UK trip going down with the locals? | Fiona Katauskas](https://www.theguardian.com/commentisfree/picture/2026/jul/14/how-is-pauline-hansons-uk-trip-going-down-with-the-locals)
-- [Darline Graham Nordone: Lindsey Graham’s sister and interim US senator](https://www.theguardian.com/us-news/2026/jul/13/who-is-darline-graham-nordone-lindsey-graham)
+- [Trump again threatens to strike Iran’s power plants amid impasse over strait of Hormuz](https://www.theguardian.com/world/2026/jul/15/trump-iran-power-plants-strike-threat-strait-of-hormuz)
+- [The scary rise of locksmith scams: ‘I was shut out with my baby – and charged £2,200 to get back in’](https://www.theguardian.com/money/2026/jul/15/the-scary-rise-of-locksmith-scams-i-was-shut-out-with-my-baby-and-charged-2200-to-get-back-in)
+- [‘The world wasn’t ready for me’: Del LaGrace Volcano on photographing S&amp;M scenes, leather-clad lesbians and a drag king self-portrait](https://www.theguardian.com/artanddesign/2026/jul/15/del-lagrace-volcano-photography-s-and-m-leather-lesbians-drag-king)
+- [‘When she turns eight they will take her’: rising number of Afghan girls being sold into child marriage](https://www.theguardian.com/global-development/2026/jul/15/afghanistan-girls-sold-into-child-marriage)
+- [I investigated Palantir’s foothold in the British state – and what I found should worry us all | Peter Geoghegan](https://www.theguardian.com/commentisfree/2026/jul/15/palantir-british-state-political-access-us-tech-firm-nhs)
+- [Tender review – passion and dangerous promise in surreal horror romance](https://www.theguardian.com/stage/2026/jul/15/tender-review-bush-theatre-london)
+- [‘Diego, give us a hand’: Argentina v England revives historic tensions](https://www.theguardian.com/football/2026/jul/15/argentina-england-tensions-world-cup-football)
+- [What do new ‘buy now, pay later’ protections mean for you?](https://www.theguardian.com/business/2026/jul/15/what-do-new-buy-now-pay-later-protections-mean-for-you)
+- [Ride or Die review – Hannah Waddingham’s comedy caper is the perimenopausal TV of your dreams](https://www.theguardian.com/tv-and-radio/2026/jul/15/ride-or-die-review-hannah-waddinghams-comedy-thriller-prime-video)
+- [China has detained US nuclear seismology expert since 2024, family reveals](https://www.theguardian.com/law/2026/jul/15/youlin-chen-seismologist-detained-china)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

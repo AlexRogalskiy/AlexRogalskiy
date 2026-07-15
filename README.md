@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: Giving Claude Code and codex its voice using kokoro](https://github.com/softcane/aloud)
-- [Anthropic runs like Wile E. Coyote into the brick wall of consciousness research](https://www.theintrinsicperspective.com/p/anthropic-runs-like-wile-e-coyote)
-- [The Empire Strikes Back](https://scottsumner.substack.com/p/the-empire-strikes-back)
-- [A new kind of robot swims the seas and soars the skies](https://www.npr.org/2026/07/09/nx-s1-5885040/robot-flying-aerial-aquatic-mit-birds)
-- [Cat Is Being Nice? Think Again](https://www.nytimes.com/2026/07/10/science/cat-grooming-licking-research.html)
-- [Australia is offering free daytime electricity](https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/)
-- [TV Time is getting shut down. It&#39;s founder is building its replacement](https://www.neowin.net/news/tv-time-is-on-its-last-legs-its-founder-is-already-building-its-replacement/)
-- [IronCurtain – A secure* runtime for autonomous AI agents](https://github.com/provos/ironcurtain)
-- [Show HN: Codex Pet Web – put any Codex pet on any website](https://pets.caro.sh)
-- [Hands-On with iOS and iPadOS 27, macOS 27 Golden Gate, and Siri AI](https://eshumarneedi.com/2026/07/13/handson-with-ios-and-ipados.html)
+- [Show HN: Workaround – review and clean up your GitHub stars](https://workaround.run/dashboard)
+- [The Math Behind &quot;AI Will Take Your Job&quot; Is Laughably Wrong [video]](https://www.youtube.com/watch?v=sQGZXrzykpU)
+- [Lobste.rs is now running on SQLite](https://lobste.rs/s/ko1ji1/lobste_rs_is_now_running_on_sqlite)
+- [Meta used AI to tag workers who took leave to be laid off, lawsuit claims](https://www.theguardian.com/technology/2026/jul/14/meta-ai-mass-layoffs-lawsuit)
+- [You can write in LLMese, but you don&#39;t have to](https://passo.uno/write-docs-llms-language/)
+- [Job Hunters Are Using AI to Cheat in Interviews, and Failing at the Office](https://www.bloomberg.com/news/articles/2026-07-14/ai-tools-can-help-job-hunters-cheat-on-interviews-and-coding-tests)
+- [Electron isAccessibilitySupportEnabled broken when running JAWS since v34](https://github.com/electron/electron/issues/45856)
+- [How Brands Sneak in Cheaper Ingredients to Protect Their Profit Margins](https://www.bloomberg.com/news/articles/2026-07-14/from-chocolate-to-orange-juice-more-brands-sneak-in-cheaper-ingredients)
+- [Show HN: I turned lender underwriting criteria into a 7-question quiz](https://fundingexplained.com/business-funding-quiz/)
+- [Telstra outage blamed on known bug in obsolete server](https://ia.acs.org.au/article/2026/telstra-outage-blamed-on-known-bug-in-obsolete-server.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

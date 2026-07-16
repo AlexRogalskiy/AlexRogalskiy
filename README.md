@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Trump again threatens to strike Iran’s power plants amid impasse over strait of Hormuz](https://www.theguardian.com/world/2026/jul/15/trump-iran-power-plants-strike-threat-strait-of-hormuz)
-- [The scary rise of locksmith scams: ‘I was shut out with my baby – and charged £2,200 to get back in’](https://www.theguardian.com/money/2026/jul/15/the-scary-rise-of-locksmith-scams-i-was-shut-out-with-my-baby-and-charged-2200-to-get-back-in)
-- [‘The world wasn’t ready for me’: Del LaGrace Volcano on photographing S&amp;M scenes, leather-clad lesbians and a drag king self-portrait](https://www.theguardian.com/artanddesign/2026/jul/15/del-lagrace-volcano-photography-s-and-m-leather-lesbians-drag-king)
-- [‘When she turns eight they will take her’: rising number of Afghan girls being sold into child marriage](https://www.theguardian.com/global-development/2026/jul/15/afghanistan-girls-sold-into-child-marriage)
-- [I investigated Palantir’s foothold in the British state – and what I found should worry us all | Peter Geoghegan](https://www.theguardian.com/commentisfree/2026/jul/15/palantir-british-state-political-access-us-tech-firm-nhs)
-- [Tender review – passion and dangerous promise in surreal horror romance](https://www.theguardian.com/stage/2026/jul/15/tender-review-bush-theatre-london)
-- [‘Diego, give us a hand’: Argentina v England revives historic tensions](https://www.theguardian.com/football/2026/jul/15/argentina-england-tensions-world-cup-football)
-- [What do new ‘buy now, pay later’ protections mean for you?](https://www.theguardian.com/business/2026/jul/15/what-do-new-buy-now-pay-later-protections-mean-for-you)
-- [Ride or Die review – Hannah Waddingham’s comedy caper is the perimenopausal TV of your dreams](https://www.theguardian.com/tv-and-radio/2026/jul/15/ride-or-die-review-hannah-waddinghams-comedy-thriller-prime-video)
-- [China has detained US nuclear seismology expert since 2024, family reveals](https://www.theguardian.com/law/2026/jul/15/youlin-chen-seismologist-detained-china)
+- [‘Social media bans are likely to make things worse’: psychologist Candice Odgers on kids, tech and mental health](https://www.theguardian.com/society/2026/jul/16/psychologist-candice-odgers-kids-tech-mental-health-social-media-bans)
+- [What is Ukraine’s 40-day campaign against Russia and has it worked?](https://www.theguardian.com/world/2026/jul/16/ukraine-40-day-campaign-against-russia-has-it-worked)
+- [Robots, AI and drones: how the Dutch navy is using tech to transform its sea defences](https://www.theguardian.com/environment/2026/jul/16/robots-ai-and-drones-how-the-dutch-navy-is-using-tech-to-transform-its-sea-defences)
+- [‘The minute I had success, I stopped taking drugs’: John Waters on 60 years of screen carnage](https://www.theguardian.com/film/2026/jul/16/the-minute-i-had-success-i-stopped-taking-drugs-john-waters-on-60-years-of-screen-carnage)
+- [The most beautiful act of resistance I’ve seen: Madrid tenants fighting landlords with art | Leah Pattem](https://www.theguardian.com/commentisfree/2026/jul/16/madrid-landlords-art-investment-fund-creativity)
+- [The Dacre dynasty: how the Daily Mail’s fearsome former editor still shapes the British press](https://www.theguardian.com/news/ng-interactive/2026/jul/16/the-dacre-dynasty-how-the-daily-mails-fearsome-former-editor-still-shapes-the-british-press)
+- [Sam Neill’s cause of death revealed to be pneumonia](https://www.theguardian.com/film/2026/jul/16/sam-neill-died-cause-of-death-pneumonia)
+- [US attacks oil tanker in strait of Hormuz as strikes reported in Tehran](https://www.theguardian.com/world/2026/jul/16/us-attacks-oil-tanker-strait-of-hormuz-iran-tehran-strikes)
+- [Fears for New Zealand’s native species as first bird flu case emerges](https://www.theguardian.com/world/2026/jul/16/new-zealand-first-h5n1-bird-flu-case)
+- [R Kelly formally appeals to Donald Trump to commute his 31-year prison sentence](https://www.theguardian.com/us-news/2026/jul/16/r-kelly-donald-trump-appeal-commute-prison-sentence-ntwnfb)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

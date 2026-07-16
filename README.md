@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Jurassic Park computers in excruciating detail](https://fabiensanglard.net/jurrasic_park_computers/index.html)
-- [TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access](https://tailscale.com/security-bulletins)
-- [Data centers have hiked electricity prices on the public by $23B](https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills/)
-- [Solving 20 Erdős Problems with 20 Codex Accounts Running in Parallel](https://www.starfleetmath.com/)
-- [Vancouver PD website features Quick Escape button that wipes itself from history](https://vpd.ca/)
-- [LeMario: Training a JEPA World Model on Super Mario Bros](https://www.benjamin-bai.com/projects/lemario)
-- [Probably check on your smart appliances](https://xeiaso.net/notes/2026/check-your-smart-tv/)
-- [Financing the AI boom: from cash flows to debt [pdf]](https://www.bis.org/publ/bisbull120.pdf)
-- [Microsoft Patches a Record 570 Security Flaws](https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/)
-- [Dependabot version updates introduce default package cooldown](https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/)
+- [My Throw Decides My Aim](https://thegustafson.com/blog/my-throw-decides-my-aim)
+- [If you want to create a button from scratch, you must first create the universe](https://madcampos.dev/blog/2026/07/accessibility-from-scratch/)
+- [Making 768 servers look like 1](https://planetscale.com/blog/making-768-servers-look-like-1)
+- [Guerrilla London Bus Ads Mock Kylie Jenner&#39;s Meta Glasses Campaign](https://hyperallergic.com/guerrilla-london-bus-ads-mock-kylie-jenners-meta-glasses-campaign/)
+- [1,300 Beautiful Wildlife Illustrations from the 19th Century Now Restored](https://www.openculture.com/2026/07/explore-1300-beautiful-wildlife-illustrations-from-the-19th-century.html)
+- [Open Source, Free Tier Capable Whispr Using Cloudflare AI](https://github.com/PrestigePvP/Voicebox)
+- [The Tokio/Rayon Trap and Why Async/Await Fails Concurrency](https://pmbanugo.me/blog/why-async-await-complect-concurrency)
+- [Bluesky Trademarks ATProto](https://atproto.com/blog/at-protocol-trademark)
+- [Show HN: One More Letter](https://playonemoreletter.com/)
+- [Nul Characters in Strings in SQLite](https://sqlite.org/nulinstr.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

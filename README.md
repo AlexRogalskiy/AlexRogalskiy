@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: Workaround – review and clean up your GitHub stars](https://workaround.run/dashboard)
-- [The Math Behind &quot;AI Will Take Your Job&quot; Is Laughably Wrong [video]](https://www.youtube.com/watch?v=sQGZXrzykpU)
-- [Lobste.rs is now running on SQLite](https://lobste.rs/s/ko1ji1/lobste_rs_is_now_running_on_sqlite)
-- [Meta used AI to tag workers who took leave to be laid off, lawsuit claims](https://www.theguardian.com/technology/2026/jul/14/meta-ai-mass-layoffs-lawsuit)
-- [You can write in LLMese, but you don&#39;t have to](https://passo.uno/write-docs-llms-language/)
-- [Job Hunters Are Using AI to Cheat in Interviews, and Failing at the Office](https://www.bloomberg.com/news/articles/2026-07-14/ai-tools-can-help-job-hunters-cheat-on-interviews-and-coding-tests)
-- [Electron isAccessibilitySupportEnabled broken when running JAWS since v34](https://github.com/electron/electron/issues/45856)
-- [How Brands Sneak in Cheaper Ingredients to Protect Their Profit Margins](https://www.bloomberg.com/news/articles/2026-07-14/from-chocolate-to-orange-juice-more-brands-sneak-in-cheaper-ingredients)
-- [Show HN: I turned lender underwriting criteria into a 7-question quiz](https://fundingexplained.com/business-funding-quiz/)
-- [Telstra outage blamed on known bug in obsolete server](https://ia.acs.org.au/article/2026/telstra-outage-blamed-on-known-bug-in-obsolete-server.html)
+- [The lost joy of music piracy](https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming)
+- [How TypeScript devs can avoid getting pwned by malicious packages](https://builtbystef.com/blog/supply-chain-security/)
+- [Reynard: A real Firefox web browser for iOS 13 or later](https://github.com/minh-ton/reynard-browser)
+- [Stop saying that AI is just a tool and it only matters how it is used](https://www.frank.computer/blog/2025/05/just-a-tool.html)
+- [Business Finance Tips for Small Business Owners in the UAE and India](https://adilrashidlone.substack.com/p/business-finance-tips-for-small-business)
+- [Panix – the oldest commercial Internet provider in New York](https://panix.com/)
+- [Show HN: Complete the survey and get personal free AI toothpaste recommendation](https://tpmme.me)
+- [Which founders created the most wealth for others?](https://wealth-creators-omega.vercel.app)
+- [Don&#39;t Pee on My Leg and Call It Science](https://stager.tv/?p=4381)
+- [Show HN: AI Starter Templates in NextJS and OpenAI](https://suhasbhairav.com/ai-templates)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

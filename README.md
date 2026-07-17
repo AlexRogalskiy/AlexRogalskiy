@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The lost joy of music piracy](https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming)
-- [How TypeScript devs can avoid getting pwned by malicious packages](https://builtbystef.com/blog/supply-chain-security/)
-- [Reynard: A real Firefox web browser for iOS 13 or later](https://github.com/minh-ton/reynard-browser)
-- [Stop saying that AI is just a tool and it only matters how it is used](https://www.frank.computer/blog/2025/05/just-a-tool.html)
-- [Business Finance Tips for Small Business Owners in the UAE and India](https://adilrashidlone.substack.com/p/business-finance-tips-for-small-business)
-- [Panix – the oldest commercial Internet provider in New York](https://panix.com/)
-- [Show HN: Complete the survey and get personal free AI toothpaste recommendation](https://tpmme.me)
-- [Which founders created the most wealth for others?](https://wealth-creators-omega.vercel.app)
-- [Don&#39;t Pee on My Leg and Call It Science](https://stager.tv/?p=4381)
-- [Show HN: AI Starter Templates in NextJS and OpenAI](https://suhasbhairav.com/ai-templates)
+- [Neko Health raises $700M Series C ahead of US launch](https://www.nekohealth.com/gb/en/press/neko-health-raises-usd700m-series-c-ahead-of-us-launch)
+- [Show HN: 1board for the Whole World](https://1board.org/)
+- [I measured whether AI writes hollower tests than humans. It doesn&#39;t](https://driivai.github.io/voidguard/)
+- [OpenAI encrypts Codex agent instructions, blocking local audit trail](https://www.theregister.com/ai-and-ml/2026/07/15/openai-hides-codex-agent-instructions-behind-encryption-leaving-developers-in-the-dark/5271484)
+- [The Mar-a-Lago Accord&#39;s Economic Ripple Effect Widens](https://www.cfr.org/articles/the-mar-a-lago-accords-economic-ripple-effect-widens)
+- [Show HN: Scribe, a CLI that builds AI agent memory from your repos and sessions](https://getscribe.dev/)
+- [Show HN: No AI, just plain old JavaScript and Python RAD](https://jam-py-v7.github.io/jam-py-v7/)
+- [Guided Access in iPad with Brightness Shortcut](https://rdamodar.com.np/thought/2026/07/guided-access-in-ipad-with-brightness-shortcut/)
+- [Your Eye Health: It&#39;s Time to Talk About It](https://codedynasty.dev/posts/your-eye-health-its-time-to-talk-about-it)
+- [China Just Dropped Another Bomb on America&#39;s Frontier AI Companies](https://gizmodo.com/china-just-dropped-another-bomb-on-americas-frontier-ai-companies-2000786670)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

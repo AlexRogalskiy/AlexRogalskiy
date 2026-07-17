@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [‘Social media bans are likely to make things worse’: psychologist Candice Odgers on kids, tech and mental health](https://www.theguardian.com/society/2026/jul/16/psychologist-candice-odgers-kids-tech-mental-health-social-media-bans)
-- [What is Ukraine’s 40-day campaign against Russia and has it worked?](https://www.theguardian.com/world/2026/jul/16/ukraine-40-day-campaign-against-russia-has-it-worked)
-- [Robots, AI and drones: how the Dutch navy is using tech to transform its sea defences](https://www.theguardian.com/environment/2026/jul/16/robots-ai-and-drones-how-the-dutch-navy-is-using-tech-to-transform-its-sea-defences)
-- [‘The minute I had success, I stopped taking drugs’: John Waters on 60 years of screen carnage](https://www.theguardian.com/film/2026/jul/16/the-minute-i-had-success-i-stopped-taking-drugs-john-waters-on-60-years-of-screen-carnage)
-- [The most beautiful act of resistance I’ve seen: Madrid tenants fighting landlords with art | Leah Pattem](https://www.theguardian.com/commentisfree/2026/jul/16/madrid-landlords-art-investment-fund-creativity)
-- [The Dacre dynasty: how the Daily Mail’s fearsome former editor still shapes the British press](https://www.theguardian.com/news/ng-interactive/2026/jul/16/the-dacre-dynasty-how-the-daily-mails-fearsome-former-editor-still-shapes-the-british-press)
-- [Sam Neill’s cause of death revealed to be pneumonia](https://www.theguardian.com/film/2026/jul/16/sam-neill-died-cause-of-death-pneumonia)
-- [US attacks oil tanker in strait of Hormuz as strikes reported in Tehran](https://www.theguardian.com/world/2026/jul/16/us-attacks-oil-tanker-strait-of-hormuz-iran-tehran-strikes)
-- [Fears for New Zealand’s native species as first bird flu case emerges](https://www.theguardian.com/world/2026/jul/16/new-zealand-first-h5n1-bird-flu-case)
-- [R Kelly formally appeals to Donald Trump to commute his 31-year prison sentence](https://www.theguardian.com/us-news/2026/jul/16/r-kelly-donald-trump-appeal-commute-prison-sentence-ntwnfb)
+- [Philippines demands ‘racist’ Chinese state media video depicting Filipinos as monkeys be taken down](https://www.theguardian.com/world/2026/jul/17/philippines-china-racist-monkeys-video)
+- [Country diary: A magical encounter with a ‘fairy bird’ not seen here for 30 years | Mary Montague](https://www.theguardian.com/environment/2026/jul/17/country-diary-a-magical-encounter-with-a-fairy-bird-not-seen-here-for-30-years)
+- [As the UK and Europe battle deadly wildfires, what lessons can Australia offer?](https://www.theguardian.com/world/2026/jul/17/as-the-uk-and-europe-battle-deadly-wildfires-what-lessons-can-australia-offer)
+- [Jesy Nelson: Life Changing review – you just want to reach through the screen and hug the Little Mix star](https://www.theguardian.com/tv-and-radio/2026/jul/17/jesy-nelson-life-changing-review-prime-video)
+- [‘I used to do acid on a Wednesday. I don’t have time for that now’: alt-pop star Steve Lacy on his struggle to follow huge hit Bad Habit](https://www.theguardian.com/music/2026/jul/17/i-used-to-do-acid-on-a-wednesday-i-dont-have-time-for-that-now-alt-pop-star-steve-lacy-on-his-struggle-to-follow-huge-hit-bad-habit)
+- [Experience: I’m a world champion foosball player](https://www.theguardian.com/lifeandstyle/2026/jul/17/experience-im-a-world-champion-foosball-player)
+- [Marines board tanker amid blockade of Iranian ports as US expands strikes with attacks on bridges](https://www.theguardian.com/world/2026/jul/17/us-marines-board-ship-gulf-oman-expanded-airstrikes-iran)
+- [How Trump’s address was bluntly aimed at destabilizing the US electoral system](https://www.theguardian.com/us-news/2026/jul/16/trump-address-us-elections)
+- [‘I’m sorry but I’m unable to speak’: hero of India’s Cockroach party weakens on 19th day of hunger strike](https://www.theguardian.com/global-development/2026/jul/17/indian-protester-hunger-strike-modi-government-sonam-wangchuk)
+- [Trump makes unverified claims of China ‘election meddling’ as critics fear ploy to challenge midterm results](https://www.theguardian.com/us-news/2026/jul/16/trump-tv-address-thursday)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

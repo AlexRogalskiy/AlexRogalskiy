@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [My Throw Decides My Aim](https://thegustafson.com/blog/my-throw-decides-my-aim)
-- [If you want to create a button from scratch, you must first create the universe](https://madcampos.dev/blog/2026/07/accessibility-from-scratch/)
-- [Making 768 servers look like 1](https://planetscale.com/blog/making-768-servers-look-like-1)
-- [Guerrilla London Bus Ads Mock Kylie Jenner&#39;s Meta Glasses Campaign](https://hyperallergic.com/guerrilla-london-bus-ads-mock-kylie-jenners-meta-glasses-campaign/)
-- [1,300 Beautiful Wildlife Illustrations from the 19th Century Now Restored](https://www.openculture.com/2026/07/explore-1300-beautiful-wildlife-illustrations-from-the-19th-century.html)
-- [Open Source, Free Tier Capable Whispr Using Cloudflare AI](https://github.com/PrestigePvP/Voicebox)
-- [The Tokio/Rayon Trap and Why Async/Await Fails Concurrency](https://pmbanugo.me/blog/why-async-await-complect-concurrency)
-- [Bluesky Trademarks ATProto](https://atproto.com/blog/at-protocol-trademark)
-- [Show HN: One More Letter](https://playonemoreletter.com/)
-- [Nul Characters in Strings in SQLite](https://sqlite.org/nulinstr.html)
+- [How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues](https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/)
+- [GrapheneOS recommended for domestic abuse victims](https://privacypros.com.au/privacy-hub/articles/dv-safe-phone-australia/)
+- [M 3.9 Experimental Explosion – 147 Km ENE of Ponce Inlet, Florida](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t13l/executive)
+- [The Human-in-the-Loop Is Tired](https://pydantic.dev/articles/the-human-in-the-loop-is-tired)
+- [Show HN: Mojibake – A low-level Unicode library written in C](https://mojibake.zaerl.com/)
+- [The Little Book of Reinforcement Learning](https://github.com/alxndrTL/little-book-rl/)
+- [CVE-2026-25089: FortiSandbox unauthenticated command injection added to CISA KEV](https://hellorecon.com/blog/cve-2026-25089)
+- [&#39;Likweli&#39;: A new monkey species discovered in the Congo Basin](https://news.yale.edu/2026/07/15/meet-likweli-new-monkey-species-discovered-congo-basin)
+- [Ring-Zero: Scaling Zero RL to a Trillion Parameters for Emergent Reasoning](https://arxiv.org/abs/2607.12395)
+- [Mathematics of Data Science](https://arxiv.org/abs/2607.11938)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

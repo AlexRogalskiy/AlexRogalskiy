@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Philippines demands ‘racist’ Chinese state media video depicting Filipinos as monkeys be taken down](https://www.theguardian.com/world/2026/jul/17/philippines-china-racist-monkeys-video)
-- [Country diary: A magical encounter with a ‘fairy bird’ not seen here for 30 years | Mary Montague](https://www.theguardian.com/environment/2026/jul/17/country-diary-a-magical-encounter-with-a-fairy-bird-not-seen-here-for-30-years)
-- [As the UK and Europe battle deadly wildfires, what lessons can Australia offer?](https://www.theguardian.com/world/2026/jul/17/as-the-uk-and-europe-battle-deadly-wildfires-what-lessons-can-australia-offer)
-- [Jesy Nelson: Life Changing review – you just want to reach through the screen and hug the Little Mix star](https://www.theguardian.com/tv-and-radio/2026/jul/17/jesy-nelson-life-changing-review-prime-video)
-- [‘I used to do acid on a Wednesday. I don’t have time for that now’: alt-pop star Steve Lacy on his struggle to follow huge hit Bad Habit](https://www.theguardian.com/music/2026/jul/17/i-used-to-do-acid-on-a-wednesday-i-dont-have-time-for-that-now-alt-pop-star-steve-lacy-on-his-struggle-to-follow-huge-hit-bad-habit)
-- [Experience: I’m a world champion foosball player](https://www.theguardian.com/lifeandstyle/2026/jul/17/experience-im-a-world-champion-foosball-player)
-- [Marines board tanker amid blockade of Iranian ports as US expands strikes with attacks on bridges](https://www.theguardian.com/world/2026/jul/17/us-marines-board-ship-gulf-oman-expanded-airstrikes-iran)
-- [How Trump’s address was bluntly aimed at destabilizing the US electoral system](https://www.theguardian.com/us-news/2026/jul/16/trump-address-us-elections)
-- [‘I’m sorry but I’m unable to speak’: hero of India’s Cockroach party weakens on 19th day of hunger strike](https://www.theguardian.com/global-development/2026/jul/17/indian-protester-hunger-strike-modi-government-sonam-wangchuk)
-- [Trump makes unverified claims of China ‘election meddling’ as critics fear ploy to challenge midterm results](https://www.theguardian.com/us-news/2026/jul/16/trump-tv-address-thursday)
+- [‘We are preserving a tradition’: how Ghana’s sensationalist film posters became collectible art](https://www.theguardian.com/world/2026/jul/18/ghana-sensationalist-film-posters-collectible-art)
+- [Ukraine war briefing: Protests of Fedorov’s dismissal continue as Zelenskyy tries to repair rift with Poland](https://www.theguardian.com/world/2026/jul/18/ukraine-war-briefing-protests-of-fedorovs-dismissal-continue-as-zelenskyy-tries-to-repair-rift-with-poland)
+- [Paul Pelosi faces hit-and-run charge after he allegedly crashed into parked vehicle](https://www.theguardian.com/us-news/2026/jul/17/paul-pelosi-hit-and-run-charge)
+- [‘A revolutionary act to watch it’: the film India’s censors do not want you to see](https://www.theguardian.com/world/2026/jul/18/satluj-honey-trehan-film-india-censors-do-not-want-you-to-see)
+- [Democrats call for investigation into ICE officer shooting in Maine after new reports emerge](https://www.theguardian.com/us-news/2026/jul/17/ice-officer-maine-killing)
+- [Fact-checking Donald Trump’s address on Chinese election interference – video](https://www.theguardian.com/us-news/video/2026/jul/17/fact-checking-donald-trumps-address-on-chinese-election-interference-video)
+- [Republicans threaten Canada with sanctions over drifting wildfire smoke](https://www.theguardian.com/us-news/2026/jul/17/republicans-canada-sanctions-wildfire-smoke)
+- [Cuban dissident artist Luis Manuel Otero Alcántara cleared to travel to US](https://www.theguardian.com/world/2026/jul/17/cuban-dissident-artist-luis-manuel-otero-alcantara-cleared-to-travel-to-us)
+- [DeChambeau will play on at the Open despite anger over two-stroke penalty](https://www.theguardian.com/sport/2026/jul/17/bryson-dechambeau-the-open-participation-in-doubt-two-stroke-penalty-golf)
+- [First Night of the Proms review – 250th anniversary of US independence takes centre stage](https://www.theguardian.com/music/2026/jul/17/first-night-of-the-proms-review-250th-anniversary-of-us-independence-takes-centre-stage)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

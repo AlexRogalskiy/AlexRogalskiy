@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues](https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/)
-- [GrapheneOS recommended for domestic abuse victims](https://privacypros.com.au/privacy-hub/articles/dv-safe-phone-australia/)
-- [M 3.9 Experimental Explosion – 147 Km ENE of Ponce Inlet, Florida](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t13l/executive)
-- [The Human-in-the-Loop Is Tired](https://pydantic.dev/articles/the-human-in-the-loop-is-tired)
-- [Show HN: Mojibake – A low-level Unicode library written in C](https://mojibake.zaerl.com/)
-- [The Little Book of Reinforcement Learning](https://github.com/alxndrTL/little-book-rl/)
-- [CVE-2026-25089: FortiSandbox unauthenticated command injection added to CISA KEV](https://hellorecon.com/blog/cve-2026-25089)
-- [&#39;Likweli&#39;: A new monkey species discovered in the Congo Basin](https://news.yale.edu/2026/07/15/meet-likweli-new-monkey-species-discovered-congo-basin)
-- [Ring-Zero: Scaling Zero RL to a Trillion Parameters for Emergent Reasoning](https://arxiv.org/abs/2607.12395)
-- [Mathematics of Data Science](https://arxiv.org/abs/2607.11938)
+- [Mac gaming is finally getting the overpowered upgrade it deserves](https://www.macworld.com/article/3189951/apples-latest-game-porting-toolkit-beta-changed-how-i-think-about-mac-gaming.html)
+- [Moonstone: Modern, cross-platform Lua runtime and package manager written in Zig](https://moonstone.sh/)
+- [I Started a &quot;Dirt Notebook&quot;](https://pinewind.bearblog.dev/i-started-a-dirt-notebook/)
+- [DrDroid &lpar;YC W23&rpar; Is Hiring](https://www.ycombinator.com/companies/drdroid/jobs/w45QcNV-product-engineer-assignment-mandatory)
+- [Stenchill: 3D Printable Solder Paste Stencil Generator](https://www.stenchill.com/en/)
+- [The Isomorphic Labs Drug Design Engine unlocks a new frontier beyond AlphaFold](https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier)
+- [Kaiser nurses say AI, workplace surveillance are making their jobs, care worse](https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/)
+- [TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years](https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md)
+- [FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again](https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html)
+- [Open Book Touch: open-source e-reader](https://www.crowdsupply.com/oddly-specific-objects/open-book-touch)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

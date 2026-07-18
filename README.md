@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Neko Health raises $700M Series C ahead of US launch](https://www.nekohealth.com/gb/en/press/neko-health-raises-usd700m-series-c-ahead-of-us-launch)
-- [Show HN: 1board for the Whole World](https://1board.org/)
-- [I measured whether AI writes hollower tests than humans. It doesn&#39;t](https://driivai.github.io/voidguard/)
-- [OpenAI encrypts Codex agent instructions, blocking local audit trail](https://www.theregister.com/ai-and-ml/2026/07/15/openai-hides-codex-agent-instructions-behind-encryption-leaving-developers-in-the-dark/5271484)
-- [The Mar-a-Lago Accord&#39;s Economic Ripple Effect Widens](https://www.cfr.org/articles/the-mar-a-lago-accords-economic-ripple-effect-widens)
-- [Show HN: Scribe, a CLI that builds AI agent memory from your repos and sessions](https://getscribe.dev/)
-- [Show HN: No AI, just plain old JavaScript and Python RAD](https://jam-py-v7.github.io/jam-py-v7/)
-- [Guided Access in iPad with Brightness Shortcut](https://rdamodar.com.np/thought/2026/07/guided-access-in-ipad-with-brightness-shortcut/)
-- [Your Eye Health: It&#39;s Time to Talk About It](https://codedynasty.dev/posts/your-eye-health-its-time-to-talk-about-it)
-- [China Just Dropped Another Bomb on America&#39;s Frontier AI Companies](https://gizmodo.com/china-just-dropped-another-bomb-on-americas-frontier-ai-companies-2000786670)
+- [Rolling Stones match Beatles with 15th UK number one album](https://www.reuters.com/business/media-telecom/rolling-stones-match-beatles-with-15th-uk-number-one-album-2026-07-17/)
+- [Three workers digging in a field outside the data center](https://sign2.nl/websign/three-workers-digging-in-a-field-outside-the-data-center-by-dinnis-van-dijken/)
+- [Flathub&#39;s AI slop ban looks like it was the right call](https://www.omgubuntu.co.uk/2026/07/flathub-ai-slop-ban-data)
+- [Show HN: Scenario Tests for Distributed Systems](https://www.srinidhin.com/blog/11.html)
+- [ADHD friendly journaling: Garden of Roses and Thorns](https://thinkersutra.substack.com/p/rosesandthornsadhd)
+- [Critical thinking has become an AI‑era buzzword. But what does it mean?](https://theconversation.com/critical-thinking-has-become-an-ai-era-buzzword-but-what-does-it-actually-mean-and-how-do-we-teach-it-286363)
+- [The Adventures of a Donkey &lpar;1815&rpar;](https://gutenberg.org/cache/epub/79114/pg79114-images.html)
+- [California roadside icon Pea Soup Andersen&#39;s, closed for years, to be demolished](https://www.sfgate.com/centralcoast/article/pea-soup-andersens-demolition-22342288.php)
+- [Tabstack by Mozilla](https://tabstack.ai)
+- [What&#39;s New on World Emoji Day 2026](https://blog.emojipedia.org/whats-new-on-world-emoji-day-2026/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

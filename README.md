@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Rolling Stones match Beatles with 15th UK number one album](https://www.reuters.com/business/media-telecom/rolling-stones-match-beatles-with-15th-uk-number-one-album-2026-07-17/)
-- [Three workers digging in a field outside the data center](https://sign2.nl/websign/three-workers-digging-in-a-field-outside-the-data-center-by-dinnis-van-dijken/)
-- [Flathub&#39;s AI slop ban looks like it was the right call](https://www.omgubuntu.co.uk/2026/07/flathub-ai-slop-ban-data)
-- [Show HN: Scenario Tests for Distributed Systems](https://www.srinidhin.com/blog/11.html)
-- [ADHD friendly journaling: Garden of Roses and Thorns](https://thinkersutra.substack.com/p/rosesandthornsadhd)
-- [Critical thinking has become an AI‑era buzzword. But what does it mean?](https://theconversation.com/critical-thinking-has-become-an-ai-era-buzzword-but-what-does-it-actually-mean-and-how-do-we-teach-it-286363)
-- [The Adventures of a Donkey &lpar;1815&rpar;](https://gutenberg.org/cache/epub/79114/pg79114-images.html)
-- [California roadside icon Pea Soup Andersen&#39;s, closed for years, to be demolished](https://www.sfgate.com/centralcoast/article/pea-soup-andersens-demolition-22342288.php)
-- [Tabstack by Mozilla](https://tabstack.ai)
-- [What&#39;s New on World Emoji Day 2026](https://blog.emojipedia.org/whats-new-on-world-emoji-day-2026/)
+- [Show HN: Zlvox – 25 Free Developer Tools &lpar;AI, JSON, PDF&rpar; with Zero Tracking](https://zlvox.com/)
+- [Impro is a handbook for running a cult](https://www.seangoedecke.com/impro/)
+- [TCG Price and Portfolio Tracker](https://www.collectiblez.app/)
+- [Data centers have united Americans of both parties in a shared hatred](https://www.washingtonpost.com/technology/2026/07/18/how-data-centers-became-symbol-americans-rage/)
+- [Pygmalion as a Software Developer](https://kyle.au/blog/pygmalion-as-a-software-developer)
+- [AXI – Agent EXperience Interface](https://axi.md/)
+- [Private jets flock to Montana – but locals can&#39;t afford the trailer park](https://www.bbc.com/news/articles/ckg92d8d40yo)
+- [Two unexpected revelations in Warren Buffett&#39;s CNBC interview](https://www.cnbc.com/2026/07/18/two-unexpected-revelations-in-warren-buffetts-cnbc-interview.html)
+- [Archive.org Is Offline](https://archive.org)
+- [Google&#39;s Gemini delay: Coding stumbles, clashing teams and frustrated engineers](https://www.latimes.com/business/story/2026-07-17/inside-googles-gemini-delay-coding-stumbles-clashing-teams-frustrated-engineers)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

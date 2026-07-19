@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [‘We are preserving a tradition’: how Ghana’s sensationalist film posters became collectible art](https://www.theguardian.com/world/2026/jul/18/ghana-sensationalist-film-posters-collectible-art)
-- [Ukraine war briefing: Protests of Fedorov’s dismissal continue as Zelenskyy tries to repair rift with Poland](https://www.theguardian.com/world/2026/jul/18/ukraine-war-briefing-protests-of-fedorovs-dismissal-continue-as-zelenskyy-tries-to-repair-rift-with-poland)
-- [Paul Pelosi faces hit-and-run charge after he allegedly crashed into parked vehicle](https://www.theguardian.com/us-news/2026/jul/17/paul-pelosi-hit-and-run-charge)
-- [‘A revolutionary act to watch it’: the film India’s censors do not want you to see](https://www.theguardian.com/world/2026/jul/18/satluj-honey-trehan-film-india-censors-do-not-want-you-to-see)
-- [Democrats call for investigation into ICE officer shooting in Maine after new reports emerge](https://www.theguardian.com/us-news/2026/jul/17/ice-officer-maine-killing)
-- [Fact-checking Donald Trump’s address on Chinese election interference – video](https://www.theguardian.com/us-news/video/2026/jul/17/fact-checking-donald-trumps-address-on-chinese-election-interference-video)
-- [Republicans threaten Canada with sanctions over drifting wildfire smoke](https://www.theguardian.com/us-news/2026/jul/17/republicans-canada-sanctions-wildfire-smoke)
-- [Cuban dissident artist Luis Manuel Otero Alcántara cleared to travel to US](https://www.theguardian.com/world/2026/jul/17/cuban-dissident-artist-luis-manuel-otero-alcantara-cleared-to-travel-to-us)
-- [DeChambeau will play on at the Open despite anger over two-stroke penalty](https://www.theguardian.com/sport/2026/jul/17/bryson-dechambeau-the-open-participation-in-doubt-two-stroke-penalty-golf)
-- [First Night of the Proms review – 250th anniversary of US independence takes centre stage](https://www.theguardian.com/music/2026/jul/17/first-night-of-the-proms-review-250th-anniversary-of-us-independence-takes-centre-stage)
+- [Ukraine war briefing: Strikes devastate Russian warehouses ‘used for drones’](https://www.theguardian.com/world/2026/jul/19/ukraine-war-briefing-strikes-devastate-russian-warehouses-used-for-drones)
+- [Two US troops killed and one missing in Jordan after Iranian attacks](https://www.theguardian.com/world/2026/jul/18/iran-attacks-us-allies-in-middle-east-in-second-week-of-renewed-conflict)
+- [Lashes, langers, bozzers and belly bachelors: a new book decodes Cork’s local slang](https://www.theguardian.com/world/2026/jul/19/lashes-langers-bozzers-and-belly-bachelors-a-new-book-decodes-corks-local-slang)
+- [São Tomé and Príncipe heads to polls in tense presidential election](https://www.theguardian.com/world/2026/jul/19/sao-tome-and-principe-presidential-election)
+- [‘Something very special’: Tuchel reflects on World Cup after England claim third](https://www.theguardian.com/football/2026/jul/19/thomas-tuchel-world-cup-england-third-france)
+- [Andrew and Tristan Tate arrested in Miami on UK charges of rape and sex trafficking](https://www.theguardian.com/news/2026/jul/18/andrew-tristan-tate-arrested-miami)
+- [Saka hat-trick seals 6-4 England win over France in epic World Cup third-place playoff](https://www.theguardian.com/football/2026/jul/19/england-france-world-cup-third-place-playoff-match-report)
+- [Pauline Hanson tells London CPAC crowd she is ‘sick of hearing about white privilege’ and ‘fears for England’](https://www.theguardian.com/australia-news/2026/jul/18/pauline-hanson-barnaby-joyce-rift-rumours-tommy-robinson-podcast-cpac-ntwnfb)
+- [Fifa to announce record $15bn World Cup revenue, smashing expectations](https://www.theguardian.com/football/2026/jul/18/fifa-record-15bn-world-cup-revenue)
+- [Hungary’s president agrees to stand down after law change ends his term](https://www.theguardian.com/world/2026/jul/18/hungarys-president-agrees-to-stand-down-after-law-change-ends-his-term)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: Zlvox – 25 Free Developer Tools &lpar;AI, JSON, PDF&rpar; with Zero Tracking](https://zlvox.com/)
-- [Impro is a handbook for running a cult](https://www.seangoedecke.com/impro/)
-- [TCG Price and Portfolio Tracker](https://www.collectiblez.app/)
-- [Data centers have united Americans of both parties in a shared hatred](https://www.washingtonpost.com/technology/2026/07/18/how-data-centers-became-symbol-americans-rage/)
-- [Pygmalion as a Software Developer](https://kyle.au/blog/pygmalion-as-a-software-developer)
-- [AXI – Agent EXperience Interface](https://axi.md/)
-- [Private jets flock to Montana – but locals can&#39;t afford the trailer park](https://www.bbc.com/news/articles/ckg92d8d40yo)
-- [Two unexpected revelations in Warren Buffett&#39;s CNBC interview](https://www.cnbc.com/2026/07/18/two-unexpected-revelations-in-warren-buffetts-cnbc-interview.html)
-- [Archive.org Is Offline](https://archive.org)
-- [Google&#39;s Gemini delay: Coding stumbles, clashing teams and frustrated engineers](https://www.latimes.com/business/story/2026-07-17/inside-googles-gemini-delay-coding-stumbles-clashing-teams-frustrated-engineers)
+- [Show HN: An app to switch Android developer settings on/off in 1 tap](https://github.com/shubhang-d/Loophole/)
+- [Show HN: Unstuck – tells you when it&#39;s safe to start a task](https://waitingmode.app)
+- [Now Inhale &lpar;1959&rpar; [pdf]](https://www.mathfiction.net/files/EricFrankRussell-NowInhale.pdf)
+- [OpenTelemetry Go Compile-Time Instrumentation](https://opentelemetry.io/blog/2026/go-compile-time-instrumentation-v1/)
+- [Prime Flow Field Background Animation](https://www.brt.fyi/posts/prime-flow-field/)
+- [NextBSD](https://nextbsd.org/)
+- [Cmzip – a compression algorithm I built from scratch, beats zip](https://github.com/elpanamaxicraft-source/cmzip)
+- [New Mexico Denies Gas Pipeline Permit for Oracle Data Center](https://www.bloomberg.com/news/articles/2026-07-16/new-mexico-denies-gas-pipeline-permit-for-oracle-data-center)
+- [Show HN: A fast, free AI text humanizer powered by Groq Llama 3.3](https://zlvox.com/tools/ai-humanizer)
+- [Homo Floresiensis](https://en.wikipedia.org/wiki/Homo_floresiensis)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

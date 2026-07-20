@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [LLM-Integrated Multivariable Calculus Course](https://calculus.academa.ai/)
-- [FDA approves new kind of cholesterol pill](https://www.fda.gov/news-events/press-announcements/fda-approves-first-oral-pcsk9-inhibitor-lower-ldl-cholesterol-adults-high-cholesterol)
-- [I built a browser-based P2P file transfer tool using WebRTC](https://airdows.com/)
-- [Deepsec](https://github.com/vercel-labs/deepsec)
-- [AI Mania Is Eviscerating Global Decision-Making](https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3)
-- [Better and Cheaper Than IPTV](https://github.com/stupside/castor)
-- [Transcribe.cpp](https://workshop.cjpais.com/projects/transcribe-cpp)
-- [Codex Resets](https://codex-resets.com/)
-- [Mayor Mamdani Says Landlords Can&#39;t Use AI Images to Advertise](https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/)
-- [Real-Time LuaTeX: Recompiling Large Documents in 1ms [pdf]](https://www.tug.org/tug2026/preprints/lode-realtime.pdf)
+- [LoRA Speedrun – a public wall-clock leaderboard for fine-tuning techniques](https://github.com/Saivineeth147/lora-speedrun)
+- [Power companies are using eminent domain to seize land for data centers](https://fortune.com/2026/07/19/data-center-eminent-domain-public-use/)
+- [Claude Fable produced a counterexample to the Jacobian Conjecture](https://xcancel.com/__alpoge__/status/2079028340955197566)
+- [Big Tech Is Now Targeting Native American Land for Data Centers](https://www.nytimes.com/2026/07/09/us/data-centers-native-american-tribes.html)
+- [Moonshine: Lets you stream games from your PC to any device running Moonlight](https://github.com/hgaiser/moonshine)
+- [Biggest Probabilistic Computer Turns Noise into Answers](https://spectrum.ieee.org/biggest-probabilistic-computer)
+- [AI advice made people less accurate but more confident – sudy](https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study)
+- [A new Intel Itanium &lpar;IA-64&rpar; emulator that boots Windows](https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html)
+- [Orion Browser by Kagi](https://orionbrowser.com/)
+- [HomeLab #1: MikroTik as a Home Router](https://justsomebody.dev/blog/mikrotik-home-router)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

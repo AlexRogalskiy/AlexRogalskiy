@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine war briefing: Strikes devastate Russian warehouses ‘used for drones’](https://www.theguardian.com/world/2026/jul/19/ukraine-war-briefing-strikes-devastate-russian-warehouses-used-for-drones)
-- [Two US troops killed and one missing in Jordan after Iranian attacks](https://www.theguardian.com/world/2026/jul/18/iran-attacks-us-allies-in-middle-east-in-second-week-of-renewed-conflict)
-- [Lashes, langers, bozzers and belly bachelors: a new book decodes Cork’s local slang](https://www.theguardian.com/world/2026/jul/19/lashes-langers-bozzers-and-belly-bachelors-a-new-book-decodes-corks-local-slang)
-- [São Tomé and Príncipe heads to polls in tense presidential election](https://www.theguardian.com/world/2026/jul/19/sao-tome-and-principe-presidential-election)
-- [‘Something very special’: Tuchel reflects on World Cup after England claim third](https://www.theguardian.com/football/2026/jul/19/thomas-tuchel-world-cup-england-third-france)
-- [Andrew and Tristan Tate arrested in Miami on UK charges of rape and sex trafficking](https://www.theguardian.com/news/2026/jul/18/andrew-tristan-tate-arrested-miami)
-- [Saka hat-trick seals 6-4 England win over France in epic World Cup third-place playoff](https://www.theguardian.com/football/2026/jul/19/england-france-world-cup-third-place-playoff-match-report)
-- [Pauline Hanson tells London CPAC crowd she is ‘sick of hearing about white privilege’ and ‘fears for England’](https://www.theguardian.com/australia-news/2026/jul/18/pauline-hanson-barnaby-joyce-rift-rumours-tommy-robinson-podcast-cpac-ntwnfb)
-- [Fifa to announce record $15bn World Cup revenue, smashing expectations](https://www.theguardian.com/football/2026/jul/18/fifa-record-15bn-world-cup-revenue)
-- [Hungary’s president agrees to stand down after law change ends his term](https://www.theguardian.com/world/2026/jul/18/hungarys-president-agrees-to-stand-down-after-law-change-ends-his-term)
+- [World Cup 2026: latest news and reaction after Spain beat Argentina to win trophy](https://www.theguardian.com/football/live/2026/jul/20/world-cup-2026-final-reaction-news-spain-argentina)
+- [TV tonight: a serial killer’s sick, twisted game in The Dark](https://www.theguardian.com/tv-and-radio/2026/jul/20/tv-tonight-a-serial-killers-sick-twisted-game-in-the-dark)
+- [Iran vows not a ‘single drop’ of oil or gas will pass strait of Hormuz as US carries out ninth night of strikes – Middle East crisis live](https://www.theguardian.com/world/live/2026/jul/20/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-latest-news)
+- [Rising numbers of younger midwives quitting NHS in England, data shows](https://www.theguardian.com/society/2026/jul/20/younger-midwives-nhs-england-burnout-maternity-staffing)
+- [Andy Burnham says he will go ‘faster’ than Starmer. Why is that so hard?](https://www.theguardian.com/politics/2026/jul/20/andy-burnham-says-he-will-go-faster-than-keir-starmer)
+- [Why has Britain’s oldest political magazine become such a rabid cheerleader for Islamophobia? | Nesrine Malik](https://www.theguardian.com/commentisfree/2026/jul/20/islamophobia-spectator-britain-oldest-political-magazine)
+- [Retired UK civil servants failed by pension outsourcing, government says](https://www.theguardian.com/business/2026/jul/20/retired-uk-civil-servants-failed-pension-outsourcing-government-capita)
+- [‘It’s total devastation’: inside the Amazonian war against illegal gold mining](https://www.theguardian.com/world/2026/jul/20/brazil-gold-rush-illegal-mining-settlements-indigenous-lands)
+- [Starwatch: Identifying the Scorpion, mythical adversary of Orion](https://www.theguardian.com/science/2026/jul/20/starwatch-identifying-the-scorpion-mythical-adversary-of-orion)
+- [Pesto Trapanese, pasta pomodoro and torta caprese: Dara Klein’s favourite Italian recipes](https://www.theguardian.com/food/2026/jul/20/pesto-trapanese-pasta-pomodoro-torta-caprese-recipes-dara-klein)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

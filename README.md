@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: An app to switch Android developer settings on/off in 1 tap](https://github.com/shubhang-d/Loophole/)
-- [Show HN: Unstuck – tells you when it&#39;s safe to start a task](https://waitingmode.app)
-- [Now Inhale &lpar;1959&rpar; [pdf]](https://www.mathfiction.net/files/EricFrankRussell-NowInhale.pdf)
-- [OpenTelemetry Go Compile-Time Instrumentation](https://opentelemetry.io/blog/2026/go-compile-time-instrumentation-v1/)
-- [Prime Flow Field Background Animation](https://www.brt.fyi/posts/prime-flow-field/)
-- [NextBSD](https://nextbsd.org/)
-- [Cmzip – a compression algorithm I built from scratch, beats zip](https://github.com/elpanamaxicraft-source/cmzip)
-- [New Mexico Denies Gas Pipeline Permit for Oracle Data Center](https://www.bloomberg.com/news/articles/2026-07-16/new-mexico-denies-gas-pipeline-permit-for-oracle-data-center)
-- [Show HN: A fast, free AI text humanizer powered by Groq Llama 3.3](https://zlvox.com/tools/ai-humanizer)
-- [Homo Floresiensis](https://en.wikipedia.org/wiki/Homo_floresiensis)
+- [How to Build the ChatGPT Typing Effect in Modern JavaScript](https://jsdev.space/howto/chatgpt-typing-effect/)
+- [9 months building an advanced StarCraft reporting tool with Go and Claude](https://marianogappa.github.io/thoughts/building-an-advanced-starcraft-reporting-tool/)
+- [Do we just want slaves?](https://www.yashthapliyal.com/blog/do-we-just-want-slaves)
+- [Show HN: Claudexor – quota-aware routing for Claude Code, Codex, and Cursor](https://github.com/razzant/claudexor)
+- [Zoom is now Chrome only](https://zoom.us/test)
+- [Bloomberg&#39;s Last Stand](https://theterminalist.substack.com/p/bloombergs-last-stand)
+- [Unity ships a CLI that lets AI agents operate running game projects](https://runtimewire.com/article/unity-ships-a-cli-that-lets-ai-agents-operate-running-game-projects)
+- [Show HN: Ex Situ – open-source spatial index of displaced cultural artifacts](https://exsitu.app/map)
+- [Church was sacred, now it is theater](https://www.flocksafety.com/industries/places-of-worship)
+- [Looking for contributors – trie based memory efficient LLM runner](https://github.com/oteomamo/SALT)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

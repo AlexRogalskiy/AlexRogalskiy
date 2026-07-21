@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [World Cup 2026: latest news and reaction after Spain beat Argentina to win trophy](https://www.theguardian.com/football/live/2026/jul/20/world-cup-2026-final-reaction-news-spain-argentina)
-- [TV tonight: a serial killer’s sick, twisted game in The Dark](https://www.theguardian.com/tv-and-radio/2026/jul/20/tv-tonight-a-serial-killers-sick-twisted-game-in-the-dark)
-- [Iran vows not a ‘single drop’ of oil or gas will pass strait of Hormuz as US carries out ninth night of strikes – Middle East crisis live](https://www.theguardian.com/world/live/2026/jul/20/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-latest-news)
-- [Rising numbers of younger midwives quitting NHS in England, data shows](https://www.theguardian.com/society/2026/jul/20/younger-midwives-nhs-england-burnout-maternity-staffing)
-- [Andy Burnham says he will go ‘faster’ than Starmer. Why is that so hard?](https://www.theguardian.com/politics/2026/jul/20/andy-burnham-says-he-will-go-faster-than-keir-starmer)
-- [Why has Britain’s oldest political magazine become such a rabid cheerleader for Islamophobia? | Nesrine Malik](https://www.theguardian.com/commentisfree/2026/jul/20/islamophobia-spectator-britain-oldest-political-magazine)
-- [Retired UK civil servants failed by pension outsourcing, government says](https://www.theguardian.com/business/2026/jul/20/retired-uk-civil-servants-failed-pension-outsourcing-government-capita)
-- [‘It’s total devastation’: inside the Amazonian war against illegal gold mining](https://www.theguardian.com/world/2026/jul/20/brazil-gold-rush-illegal-mining-settlements-indigenous-lands)
-- [Starwatch: Identifying the Scorpion, mythical adversary of Orion](https://www.theguardian.com/science/2026/jul/20/starwatch-identifying-the-scorpion-mythical-adversary-of-orion)
-- [Pesto Trapanese, pasta pomodoro and torta caprese: Dara Klein’s favourite Italian recipes](https://www.theguardian.com/food/2026/jul/20/pesto-trapanese-pasta-pomodoro-torta-caprese-recipes-dara-klein)
+- [Meta’s smartglasses mean any child can be covertly filmed. In the age of AI, how do we tackle that risk?](https://www.theguardian.com/commentisfree/2026/jul/21/meta-smartglasses-child-filmed-ai-risk-technology)
+- [Wealth tax on UK’s super-rich could raise £10bn a year, Andy Burnham told](https://www.theguardian.com/business/2026/jul/21/uk-wealth-tax-super-rich-andy-burnham)
+- [Chinese warship holds live-fire drills inside Japan’s economic waters for first time](https://www.theguardian.com/world/2026/jul/21/chinese-ship-opens-fire-japan-economic-zone-south-china-sea)
+- [Almost 100 troops injured in recent weeks, Pentagon admits, as Iran launches reprisals on US allies](https://www.theguardian.com/world/2026/jul/21/us-troops-injured-killed-iran-war-attacks-pentagon)
+- [Sam Neill fans send sales of his Two Paddocks wine soaring in tribute to late actor](https://www.theguardian.com/film/2026/jul/21/sam-neill-wine-sales-two-paddocks-label)
+- [‘A guy did a runner in a Jaguar’: the petrol theft scandal – and the garage owner struggling to stop it](https://www.theguardian.com/uk-news/2026/jul/21/petrol-theft-crisis-uk)
+- [Andy Burnham’s plans could bring the UK closer to Europe than he realises](https://www.theguardian.com/commentisfree/2026/jul/21/andy-burnhams-plans-could-bring-the-uk-closer-to-europe-than-he-realises)
+- [As Sudan’s war crosses borders and millions are made refugees, could Ethiopia’s plan solve ‘humanity’s migration issue’?](https://www.theguardian.com/global-development/2026/jul/21/ethiopian-plan-sudanese-refugees-migration-crisis-education-work)
+- [Not enough water for UK’s datacentre plans, trade body says](https://www.theguardian.com/environment/2026/jul/21/not-enough-water-for-uks-datacentre-plans-trade-body-says)
+- [‘She was almost a Batman figure’: Mexico’s avenging Mother Courage](https://www.theguardian.com/news/ng-interactive/2026/jul/21/she-was-almost-a-batman-figure-mexicos-avenging-mother-courage)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

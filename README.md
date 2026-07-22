@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Show HN: Ex Situ – open-source spatial index of displaced cultural artifacts](https://exsitu.app/map)
-- [Bash for Browser Front End](https://alganet.github.io/terminal/?p=post:2026-07-21-00-Bash-for-Browser-Frontend&lang=en)
-- [Five US tech giants&#39; hidden debts soar to $1.65T on opaque AI funding](https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding)
-- [Running Doom on Our Custom CPU and Going Viral](https://www.armaangomes.com/blogs/doom/)
-- [A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste](https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/)
-- [Jane Street: Incremental](https://github.com/janestreet/incremental)
-- [Flock Credibility Lost as It Repeatedly Lies to City Councils, Police, &amp; Public](https://www.aclu.org/news/privacy-technology/tracking-alpr-cameras/flock-safety-credibility-lost-as-it-repeatedly-lies-to-city-councils-police-departments-and-public-across-the-country)
-- [Jellyfin founder Andrew leaves team](https://forum.jellyfin.org/t-project-leadership-changes)
-- [I wrote an bash enumerator because I was sick of xargs](https://numerlab.org/2025/07/20/bashumerate-enumerator/)
-- [Show HN: Immersive Gaussian Splat tour of grace cathedral, San Francisco](https://vincentwoo.com/3d/grace_cathedral/)
+- [Late.sh – a command-line Clubhouse for computer people](https://late.sh/)
+- [LG to ban residential proxies from smart TV apps](https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/)
+- [Ten Steps Towards Happiness &lpar;2015&rpar;](http://hintjens.com/blog:99)
+- [A flaky test exposed a Redis client use-after-free](https://buildkite.engineering/how-a-flaky-test-exposed-a-redis-use-after-free/)
+- [It&#39;s a shame what&#39;s happened to radio](https://blog.jimgrey.net/2026/07/21/its-a-shame-whats-happened-to-radio-3/)
+- [Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA](https://fireworks.ai/blog/kimik3-fable)
+- [Show HN: Computable – Buy, sell, and redeem GPU for the exact weeks you want](https://www.getcomputable.com/)
+- [Gemini last models: temperature, top_p, and top_k are deprecated and ignored](https://ai.google.dev/gemini-api/docs/latest-model)
+- [&quot;Drawing&quot; the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok](https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok)
+- [A digestion of the Jacobian conjecture counterexample](https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

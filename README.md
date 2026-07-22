@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [How to Build the ChatGPT Typing Effect in Modern JavaScript](https://jsdev.space/howto/chatgpt-typing-effect/)
-- [9 months building an advanced StarCraft reporting tool with Go and Claude](https://marianogappa.github.io/thoughts/building-an-advanced-starcraft-reporting-tool/)
-- [Do we just want slaves?](https://www.yashthapliyal.com/blog/do-we-just-want-slaves)
-- [Show HN: Claudexor – quota-aware routing for Claude Code, Codex, and Cursor](https://github.com/razzant/claudexor)
-- [Zoom is now Chrome only](https://zoom.us/test)
-- [Bloomberg&#39;s Last Stand](https://theterminalist.substack.com/p/bloombergs-last-stand)
-- [Unity ships a CLI that lets AI agents operate running game projects](https://runtimewire.com/article/unity-ships-a-cli-that-lets-ai-agents-operate-running-game-projects)
-- [Show HN: Ex Situ – open-source spatial index of displaced cultural artifacts](https://exsitu.app/map)
-- [Church was sacred, now it is theater](https://www.flocksafety.com/industries/places-of-worship)
-- [Looking for contributors – trie based memory efficient LLM runner](https://github.com/oteomamo/SALT)
+- [News Corp accuses search engine Brave of AI copyright infringement](https://www.semafor.com/article/07/21/2026/newscorp-accuses-search-engine-brave-of-ai-copyright-infringement)
+- [Study: Digital media may reshape people&#39;s willingness to invest cognitive effort](https://cs.ut.ee/en/news/digital-media-may-reshape-peoples-willingness-invest-cognitive-effort)
+- [How Anthropic runs large-scale code migrations with Claude Code](https://twitter.com/ClaudeDevs/status/2079654423828304282)
+- [India&#39;s Cockroach movement protesters show no sign of backing down](https://www.theguardian.com/world/2026/jul/21/india-cockroach-movement-protesters-delhi)
+- [Show HN: Public-safe skin packs for the Codex desktop app](https://codex-theme-gallery.howardhua.chatgpt.site/codex-skin-pack-installer)
+- [LanguageTool Joins Learneo](https://forum.languagetool.org/t/languagetool-joins-learneo/8865)
+- [Central Valley farmers reluctantly turn to solar as water supplies dry up](https://www.latimes.com/environment/story/2026-07-20/as-water-restrictions-hit-farmers-solar-is-making-sense)
+- [Terry Tao&#39;s ChatGPT Session about the Jacobian Conjecture](https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56)
+- [Airglow browser lets users modify YouTube, Gmail and Spotify in real time](https://runtimewire.com/article/airglow-browser-lets-users-modify-youtube-gmail-and-spotify-in-real-time)
+- [AppRelay](https://apprelay.io/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

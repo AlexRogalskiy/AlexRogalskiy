@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Meta’s smartglasses mean any child can be covertly filmed. In the age of AI, how do we tackle that risk?](https://www.theguardian.com/commentisfree/2026/jul/21/meta-smartglasses-child-filmed-ai-risk-technology)
-- [Wealth tax on UK’s super-rich could raise £10bn a year, Andy Burnham told](https://www.theguardian.com/business/2026/jul/21/uk-wealth-tax-super-rich-andy-burnham)
-- [Chinese warship holds live-fire drills inside Japan’s economic waters for first time](https://www.theguardian.com/world/2026/jul/21/chinese-ship-opens-fire-japan-economic-zone-south-china-sea)
-- [Almost 100 troops injured in recent weeks, Pentagon admits, as Iran launches reprisals on US allies](https://www.theguardian.com/world/2026/jul/21/us-troops-injured-killed-iran-war-attacks-pentagon)
-- [Sam Neill fans send sales of his Two Paddocks wine soaring in tribute to late actor](https://www.theguardian.com/film/2026/jul/21/sam-neill-wine-sales-two-paddocks-label)
-- [‘A guy did a runner in a Jaguar’: the petrol theft scandal – and the garage owner struggling to stop it](https://www.theguardian.com/uk-news/2026/jul/21/petrol-theft-crisis-uk)
-- [Andy Burnham’s plans could bring the UK closer to Europe than he realises](https://www.theguardian.com/commentisfree/2026/jul/21/andy-burnhams-plans-could-bring-the-uk-closer-to-europe-than-he-realises)
-- [As Sudan’s war crosses borders and millions are made refugees, could Ethiopia’s plan solve ‘humanity’s migration issue’?](https://www.theguardian.com/global-development/2026/jul/21/ethiopian-plan-sudanese-refugees-migration-crisis-education-work)
-- [Not enough water for UK’s datacentre plans, trade body says](https://www.theguardian.com/environment/2026/jul/21/not-enough-water-for-uks-datacentre-plans-trade-body-says)
-- [‘She was almost a Batman figure’: Mexico’s avenging Mother Courage](https://www.theguardian.com/news/ng-interactive/2026/jul/21/she-was-almost-a-batman-figure-mexicos-avenging-mother-courage)
+- [Rivers of magma once bubbled beneath crust of Mars, research suggests](https://www.theguardian.com/science/2026/jul/22/magma-rivers-beneath-mars-crust-study)
+- [‘I don’t know where the kids will go’: beloved football cage in east London to be demolished](https://www.theguardian.com/uk-news/2026/jul/22/beloved-football-cage-east-london-hackney-keith-miller-demolished)
+- [‘Risking blackouts’? How Great Britain’s grid operator was dragged into a political row](https://www.theguardian.com/business/2026/jul/22/risking-blackouts-great-britain-grid-operator-neso-heatwave)
+- [Rebel Wilson wins defamation case brought by co-star after bitter dispute](https://www.theguardian.com/australia-news/2026/jul/22/rebel-wilson-wins-defamation-case-charlotte-macinnes-ntwnfb)
+- [First ‘puffling’ sighting in three decades give hope for Dorset&#39;s struggling puffin colony – video](https://www.theguardian.com/uk-news/video/2026/jul/22/dorset-rare-puffling-sighting-baby-puffin-video)
+- [‘The bed you thought was safe, isn’t safe’: how Zoe Watts survived drug-facilitated rape – and fought back](https://www.theguardian.com/society/2026/jul/22/the-bed-you-thought-was-safe-isnt-safe-how-zoe-watts-survived-drug-facilitated-and-fought-back)
+- [‘The door slid open and my jaw dropped’: the astonishing sculptures only ever seen by 20 people](https://www.theguardian.com/artanddesign/2026/jul/22/ray-exworth-sculptures-jem-southam-sheds)
+- [My friends left Ukraine after the Russian invasion. Now I wonder if we live in the same world | Diana Berg](https://www.theguardian.com/commentisfree/2026/jul/22/my-friends-left-ukraine-after-the-russian-invasion-now-i-wonder-if-we-live-in-the-same-world)
+- [Japan records its first ‘cruelly hot day’ as cities swelter in 40-degree heat](https://www.theguardian.com/world/2026/jul/22/japan-heat-kokushobi-cruelly-hot-40c-weather)
+- [India’s Rahul Gandhi briefly detained as cockroach protests rock Delhi](https://www.theguardian.com/world/2026/jul/22/india-cockroach-janta-party-cjp-protests-rahul-gandhi-detained)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

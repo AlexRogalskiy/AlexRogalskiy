@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [News Corp accuses search engine Brave of AI copyright infringement](https://www.semafor.com/article/07/21/2026/newscorp-accuses-search-engine-brave-of-ai-copyright-infringement)
-- [Study: Digital media may reshape people&#39;s willingness to invest cognitive effort](https://cs.ut.ee/en/news/digital-media-may-reshape-peoples-willingness-invest-cognitive-effort)
-- [How Anthropic runs large-scale code migrations with Claude Code](https://twitter.com/ClaudeDevs/status/2079654423828304282)
-- [India&#39;s Cockroach movement protesters show no sign of backing down](https://www.theguardian.com/world/2026/jul/21/india-cockroach-movement-protesters-delhi)
-- [Show HN: Public-safe skin packs for the Codex desktop app](https://codex-theme-gallery.howardhua.chatgpt.site/codex-skin-pack-installer)
-- [LanguageTool Joins Learneo](https://forum.languagetool.org/t/languagetool-joins-learneo/8865)
-- [Central Valley farmers reluctantly turn to solar as water supplies dry up](https://www.latimes.com/environment/story/2026-07-20/as-water-restrictions-hit-farmers-solar-is-making-sense)
-- [Terry Tao&#39;s ChatGPT Session about the Jacobian Conjecture](https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56)
-- [Airglow browser lets users modify YouTube, Gmail and Spotify in real time](https://runtimewire.com/article/airglow-browser-lets-users-modify-youtube-gmail-and-spotify-in-real-time)
-- [AppRelay](https://apprelay.io/)
+- [The High Ponytail That Made Lydia Corbett Picasso&#39;s Muse](https://www.wsj.com/real-estate/lydia-corbett-picasso-muse-37f2e088)
+- [The Computer, De-Invented](https://daylightcomputer.com)
+- [Calm Technologies That Excite Me](https://abhi.now/blog/calm-technologies/)
+- [Show HN: Mcpgen – Turn OpenAPI/Postman Specs into Python MCP Servers](https://github.com/JnanaSrota/mcpgen)
+- [Why care about programming languages](https://ebellani.github.io/blog/2026/why-care-about-programming-languages/)
+- [How good is your AI Gateway?](https://www.highflame.com/blog/the-three-moments-your-ai-gateway-can-ruin/)
+- [Local AI that finds sensitive files on your Mac before attackers do](https://www.vaultsort.com/guardian)
+- [AI chatbots can be as effective as humans at emotional support, sometimes better](https://www.manchester.ac.uk/about/news/ai-chatbots-can-be-as-effective-as-humans-at-emotional-support--and-sometimes-better/)
+- [SteamForge – Modern PC Gaming Achievement Tracker &lpar;No Account Required&rpar;](https://steamforge.app/)
+- [India&#39;s solar push idles factories unable to shake reliance on China](https://www.reuters.com/business/energy/indias-solar-push-idles-factories-unable-shake-reliance-china-2026-07-23/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

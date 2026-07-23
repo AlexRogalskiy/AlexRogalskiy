@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Rivers of magma once bubbled beneath crust of Mars, research suggests](https://www.theguardian.com/science/2026/jul/22/magma-rivers-beneath-mars-crust-study)
-- [‘I don’t know where the kids will go’: beloved football cage in east London to be demolished](https://www.theguardian.com/uk-news/2026/jul/22/beloved-football-cage-east-london-hackney-keith-miller-demolished)
-- [‘Risking blackouts’? How Great Britain’s grid operator was dragged into a political row](https://www.theguardian.com/business/2026/jul/22/risking-blackouts-great-britain-grid-operator-neso-heatwave)
-- [Rebel Wilson wins defamation case brought by co-star after bitter dispute](https://www.theguardian.com/australia-news/2026/jul/22/rebel-wilson-wins-defamation-case-charlotte-macinnes-ntwnfb)
-- [First ‘puffling’ sighting in three decades give hope for Dorset&#39;s struggling puffin colony – video](https://www.theguardian.com/uk-news/video/2026/jul/22/dorset-rare-puffling-sighting-baby-puffin-video)
-- [‘The bed you thought was safe, isn’t safe’: how Zoe Watts survived drug-facilitated rape – and fought back](https://www.theguardian.com/society/2026/jul/22/the-bed-you-thought-was-safe-isnt-safe-how-zoe-watts-survived-drug-facilitated-and-fought-back)
-- [‘The door slid open and my jaw dropped’: the astonishing sculptures only ever seen by 20 people](https://www.theguardian.com/artanddesign/2026/jul/22/ray-exworth-sculptures-jem-southam-sheds)
-- [My friends left Ukraine after the Russian invasion. Now I wonder if we live in the same world | Diana Berg](https://www.theguardian.com/commentisfree/2026/jul/22/my-friends-left-ukraine-after-the-russian-invasion-now-i-wonder-if-we-live-in-the-same-world)
-- [Japan records its first ‘cruelly hot day’ as cities swelter in 40-degree heat](https://www.theguardian.com/world/2026/jul/22/japan-heat-kokushobi-cruelly-hot-40c-weather)
-- [India’s Rahul Gandhi briefly detained as cockroach protests rock Delhi](https://www.theguardian.com/world/2026/jul/22/india-cockroach-janta-party-cjp-protests-rahul-gandhi-detained)
+- [Alarm over hospital lung admissions for children in England’s poorest postcodes](https://www.theguardian.com/society/2026/jul/23/alarm-hospital-lung-admissions-children-england-poorest)
+- [‘Overdue reunion’: aviation hero’s long lost granddaughter uncovers secret past](https://www.theguardian.com/world/2026/jul/23/aviation-hero-arthur-whitten-brown-long-lost-granddaughter-uncovers-secret-past)
+- [Besieged by lobbyists, will UK ministers protect our ecosystems? No, they’ll chicken out | George Monbiot](https://www.theguardian.com/commentisfree/2026/jul/23/lobbyists-uk-environment-ministers-ecosystems-chicken-poultry-faming)
+- [Rachel Roddy’s ratatouille and potato gratin recipe](https://www.theguardian.com/food/2026/jul/23/ratatouille-and-potato-gratin-recipe-rachel-roddy)
+- [Total solar eclipse books out hotels two years in advance in New Zealand city](https://www.theguardian.com/world/2026/jul/23/total-solar-eclipse-new-zealand-2028-dunedin)
+- [What happened to Ryan Gosling’s ‘La La Hand’ on the La La Land poster?](https://www.theguardian.com/film/2026/jul/23/ryan-gosling-hand-la-la-land-poster-change)
+- [Houthis claim strikes on two Saudi tankers as US attacks on Iran widen](https://www.theguardian.com/world/2026/jul/23/houthis-claim-attack-ship-tanker-saudi-arabia-red-sea)
+- [‘People are looking at Scotland for good fun’: Glasgow prepares for Commonwealth Games](https://www.theguardian.com/sport/2026/jul/23/people-are-looking-at-scotland-for-good-fun-glasgow-prepares-for-commonwealth-games)
+- [‘People are scared their neighbours will call the police on them’: how the hosepipe ban got caught up in the culture wars](https://www.theguardian.com/environment/2026/jul/23/how-hosepipe-ban-got-caught-up-in-culture-war)
+- [US senator wants urgent answers from Barclays over Jes Staley’s ties to Jeffrey Epstein](https://www.theguardian.com/business/2026/jul/23/us-senator-barclays-jes-staley-jeffrey-epstein-failure-links-elizabeth-warren)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

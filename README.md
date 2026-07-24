@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The High Ponytail That Made Lydia Corbett Picasso&#39;s Muse](https://www.wsj.com/real-estate/lydia-corbett-picasso-muse-37f2e088)
-- [The Computer, De-Invented](https://daylightcomputer.com)
-- [Calm Technologies That Excite Me](https://abhi.now/blog/calm-technologies/)
-- [Show HN: Mcpgen – Turn OpenAPI/Postman Specs into Python MCP Servers](https://github.com/JnanaSrota/mcpgen)
-- [Why care about programming languages](https://ebellani.github.io/blog/2026/why-care-about-programming-languages/)
-- [How good is your AI Gateway?](https://www.highflame.com/blog/the-three-moments-your-ai-gateway-can-ruin/)
-- [Local AI that finds sensitive files on your Mac before attackers do](https://www.vaultsort.com/guardian)
-- [AI chatbots can be as effective as humans at emotional support, sometimes better](https://www.manchester.ac.uk/about/news/ai-chatbots-can-be-as-effective-as-humans-at-emotional-support--and-sometimes-better/)
-- [SteamForge – Modern PC Gaming Achievement Tracker &lpar;No Account Required&rpar;](https://steamforge.app/)
-- [India&#39;s solar push idles factories unable to shake reliance on China](https://www.reuters.com/business/energy/indias-solar-push-idles-factories-unable-shake-reliance-china-2026-07-23/)
+- [Uncle Bob: My current strategy is to not read any code written by my agents](https://xcancel.com/unclebobmartin/status/2080257779395154409)
+- [China&#39;s All-Out Push to Catch Up with American AI Chips](https://www.wsj.com/world/china/china-ai-chips-race-949050d0)
+- [Cookware Got Worse on Purpose: Who Owns Pyrex and All-Clad Now](https://www.worseonpurpose.com/p/your-cookware-got-worse-on-purpose)
+- [Is it even possible for the Chinese Labs to distill US models?](https://www.completeskeptic.com/p/is-it-even-possible-for-the-chinese)
+- [Zuckerberg Emojis](https://rybakov.com/blog/zuckerberg_emojis/)
+- [A Dying Art: The last of the morticians](https://harpers.org/archive/2026/08/a-dying-art-john-semley-mortuary-sciences-competition/)
+- [Amid security concerns, MIT to spend over $3M on over 500 surveillance cameras](https://thetech.com/2026/04/16/ai-surveillance-cameras)
+- [The Sad Wives of AI](https://www.wired.com/story/meet-the-sad-wives-of-ai/)
+- [Zitron: The Subprime Datacenter Crisis](https://www.wheresyoured.at/the-subprime-data-center-crisis/)
+- [Show HN: Generous free tier for SERP and AI web scraping](https://cloro.dev/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Alarm over hospital lung admissions for children in England’s poorest postcodes](https://www.theguardian.com/society/2026/jul/23/alarm-hospital-lung-admissions-children-england-poorest)
-- [‘Overdue reunion’: aviation hero’s long lost granddaughter uncovers secret past](https://www.theguardian.com/world/2026/jul/23/aviation-hero-arthur-whitten-brown-long-lost-granddaughter-uncovers-secret-past)
-- [Besieged by lobbyists, will UK ministers protect our ecosystems? No, they’ll chicken out | George Monbiot](https://www.theguardian.com/commentisfree/2026/jul/23/lobbyists-uk-environment-ministers-ecosystems-chicken-poultry-faming)
-- [Rachel Roddy’s ratatouille and potato gratin recipe](https://www.theguardian.com/food/2026/jul/23/ratatouille-and-potato-gratin-recipe-rachel-roddy)
-- [Total solar eclipse books out hotels two years in advance in New Zealand city](https://www.theguardian.com/world/2026/jul/23/total-solar-eclipse-new-zealand-2028-dunedin)
-- [What happened to Ryan Gosling’s ‘La La Hand’ on the La La Land poster?](https://www.theguardian.com/film/2026/jul/23/ryan-gosling-hand-la-la-land-poster-change)
-- [Houthis claim strikes on two Saudi tankers as US attacks on Iran widen](https://www.theguardian.com/world/2026/jul/23/houthis-claim-attack-ship-tanker-saudi-arabia-red-sea)
-- [‘People are looking at Scotland for good fun’: Glasgow prepares for Commonwealth Games](https://www.theguardian.com/sport/2026/jul/23/people-are-looking-at-scotland-for-good-fun-glasgow-prepares-for-commonwealth-games)
-- [‘People are scared their neighbours will call the police on them’: how the hosepipe ban got caught up in the culture wars](https://www.theguardian.com/environment/2026/jul/23/how-hosepipe-ban-got-caught-up-in-culture-war)
-- [US senator wants urgent answers from Barclays over Jes Staley’s ties to Jeffrey Epstein](https://www.theguardian.com/business/2026/jul/23/us-senator-barclays-jes-staley-jeffrey-epstein-failure-links-elizabeth-warren)
+- [India ‘cockroach’ activist Sonam Wangchuk ends hunger strike as protests spread](https://www.theguardian.com/world/2026/jul/24/india-cockroach-protest-sonam-wangchuk-ends-hunger-strike)
+- [Trump imposes fresh tariffs on more than 80 countries, drawing protests from US allies and trading partners](https://www.theguardian.com/us-news/2026/jul/23/trump-administration-trade-tariffs)
+- [Racy short story by Alan Turing offers glimpse of ‘playful, funny, cheeky’ side](https://www.theguardian.com/science/2026/jul/24/alan-turing-short-story)
+- [For outraged Germans, the Jens Spahn scandal is about more than his surrogate baby](https://www.theguardian.com/commentisfree/2026/jul/24/for-outraged-germans-the-jens-spahn-scandal-is-about-more-than-his-surrogate-baby)
+- [‘It’s more than backcombing a beehive!’ How tribute acts got massive – and put the live music scene back in the black](https://www.theguardian.com/music/2026/jul/24/its-more-than-backcombing-a-beehive-how-tribute-acts-got-massive-and-put-the-live-music-scene-back-in-the-black)
+- [Rare heron seen at Somerset estate where river has been allowed to run free](https://www.theguardian.com/environment/2026/jul/24/rare-night-heron-somerset-holnicote-river-reset)
+- [Ireland urged to put pressure on Germany over pro-Palestinian activist’s trial](https://www.theguardian.com/world/2026/jul/24/irish-pm-germany-pro-palestinian-activists-trial-ulm-5)
+- [Experience: I hunt for missing hikers in remote mountains](https://www.theguardian.com/lifeandstyle/2026/jul/24/experience-i-hunt-missing-hikers-remote-mountains-taiwan)
+- [‘We feel like we are failing’: Myanmar doctor speaks out as health system teeters on ‘brink of collapse’](https://www.theguardian.com/world/2026/jul/24/myanmar-healthcare-system-health-doctors)
+- [Prosecutors say blood stains on objects in D4vd’s home probably of victim](https://www.theguardian.com/us-news/2026/jul/23/d4vd-singer-police-evidence-hearing)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

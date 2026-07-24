@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Restructuring GitHub&#39;s bug bounty program](https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/)
-- [Honey Bee Colony Monitoring via Audio IoT Sensors, Tensorgrams and RNNs](https://arxiv.org/abs/2607.20386)
-- [Petals: Run LLMs at home, BitTorrent-style](https://petals.dev/)
-- [Codeberg Bans Cryptocurrency Projects](https://codeberg.org/Codeberg/org/pulls/1254)
-- [Medici family mystery may be solved after more than 400 years](https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria)
-- [Any text-to-SQL benchmark should address difficulties of real-world data stores](https://cacm.acm.org/blogcacm/if-you-think-you-can-do-real-world-text-to-sql/)
-- [All 253 Patterns from Christopher Alexander&#39;s a Pattern Language Summarized](https://claytondorge.com/patterns-list)
-- [Malleable Computing, Emacs, and You](http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html)
-- [Fairphone 6 wide camera experimental Linux support](https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/)
-- [John C. Dvorak has died](https://twitter.com/na_announce/status/2079952538040672302)
+- [Zitron: The Subprime Datacenter Crisis](https://www.wheresyoured.at/the-subprime-data-center-crisis/)
+- [Police Removed Prominent Scientists from the ADA Meeting. Researchers Respond](https://www.the-scientist.com/police-removed-prominent-scientists-from-the-ada-meeting-researchers-respond-74607)
+- [The Visual 6502](http://visual6502.org/JSSim/index.html)
+- [98.css](https://jdan.github.io/98.css/#status-bar)
+- [Couple pay &gt;$800k for a gene-editing therapy for their daughter. She died.](https://www.science.org/content/article/exclusive-death-girl-chinese-gene-editing-trial-was-never-made-public)
+- [Mourning Dan Williams](https://lwn.net/Articles/1084545/)
+- [Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models](https://news.ycombinator.com/item?id=49026810)
+- [Building on ATProto](https://lukekanies.com/writing/building-on-atproto/)
+- [A solid-state “atomic channel” for separating rare earth elements](https://pme.uchicago.edu/news-events/news/cleaner-route-purifying-rare-earth-elements)
+- [Why Sony can&#39;t bring back its classic Walkman models](https://obsoletesony.substack.com/p/why-sony-cant-bring-back-classic-walkman)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

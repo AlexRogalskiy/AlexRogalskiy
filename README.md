@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Uncle Bob: My current strategy is to not read any code written by my agents](https://xcancel.com/unclebobmartin/status/2080257779395154409)
-- [China&#39;s All-Out Push to Catch Up with American AI Chips](https://www.wsj.com/world/china/china-ai-chips-race-949050d0)
-- [Cookware Got Worse on Purpose: Who Owns Pyrex and All-Clad Now](https://www.worseonpurpose.com/p/your-cookware-got-worse-on-purpose)
-- [Is it even possible for the Chinese Labs to distill US models?](https://www.completeskeptic.com/p/is-it-even-possible-for-the-chinese)
-- [Zuckerberg Emojis](https://rybakov.com/blog/zuckerberg_emojis/)
-- [A Dying Art: The last of the morticians](https://harpers.org/archive/2026/08/a-dying-art-john-semley-mortuary-sciences-competition/)
-- [Amid security concerns, MIT to spend over $3M on over 500 surveillance cameras](https://thetech.com/2026/04/16/ai-surveillance-cameras)
-- [The Sad Wives of AI](https://www.wired.com/story/meet-the-sad-wives-of-ai/)
-- [Zitron: The Subprime Datacenter Crisis](https://www.wheresyoured.at/the-subprime-data-center-crisis/)
-- [Show HN: Generous free tier for SERP and AI web scraping](https://cloro.dev/)
+- [Companies are optimizing models for specific benchmarks](https://news.ycombinator.com/item?id=49044813)
+- [Split Screen – browser workspaces to replace tab sprawl &lpar;free, local&rpar;](https://github.com/MIR-2025/brave-ext/tree/main/splitscreen)
+- [A Tale of Two Tailnets](https://blog.exe.dev/a-tale-of-two-tailnets)
+- [Shawn Ryan announces partnership with glacier [video]](https://www.youtube.com/watch?v=yB05HiKCCuI[video])
+- [The Global Justice Report](https://globaljusticeproject.wid.world/global-justice-report/)
+- [Trump announces 2028 presidential bid](https://www.smh.com.au/world/trump-announces-2028-presidential-bid-20260725-p60iho.html)
+- [Uber: Whatdoyoudo – Darden MBA Case Study &lpar;2020&rpar;](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3207044)
+- [&quot;As millionaires we have a message for our new Prime Minister: Tax us.&quot;](https://proudtopay.org)
+- [Michael Stevens and Hannah Fry: The Rest Is Science](https://therestis.com/science)
+- [The Architecture of Deep Thought: Fight AI Speed with Cognitive Friction](https://varnam.substack.com/p/the-architecture-of-deep-thought)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

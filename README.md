@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Zitron: The Subprime Datacenter Crisis](https://www.wheresyoured.at/the-subprime-data-center-crisis/)
-- [Police Removed Prominent Scientists from the ADA Meeting. Researchers Respond](https://www.the-scientist.com/police-removed-prominent-scientists-from-the-ada-meeting-researchers-respond-74607)
-- [The Visual 6502](http://visual6502.org/JSSim/index.html)
-- [98.css](https://jdan.github.io/98.css/#status-bar)
-- [Couple pay &gt;$800k for a gene-editing therapy for their daughter. She died.](https://www.science.org/content/article/exclusive-death-girl-chinese-gene-editing-trial-was-never-made-public)
-- [Mourning Dan Williams](https://lwn.net/Articles/1084545/)
-- [Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models](https://news.ycombinator.com/item?id=49026810)
-- [Building on ATProto](https://lukekanies.com/writing/building-on-atproto/)
-- [A solid-state “atomic channel” for separating rare earth elements](https://pme.uchicago.edu/news-events/news/cleaner-route-purifying-rare-earth-elements)
-- [Why Sony can&#39;t bring back its classic Walkman models](https://obsoletesony.substack.com/p/why-sony-cant-bring-back-classic-walkman)
+- [Taylor Farms Called White House to Try to Delay Cyclospora Recall](https://www.wsj.com/health/taylor-farms-cyclospora-recall-delay-call-41fef0bc)
+- [Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach](https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize)
+- [Sperm Whales blow bubbles to achieve restful, vertical sleep](https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/)
+- [Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard](https://artificialanalysis.ai/models)
+- [Postgres LISTEN/NOTIFY actually scales](https://www.dbos.dev/blog/postgres-listen-notify-scalability)
+- [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5)
+- [Don&#39;t Take the Black Pill [video]](https://www.youtube.com/watch?v=zLZwpH5lCD4)
+- [Be skeptical of OpenAI&#39;s rogue hacker agent story](https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker)
+- [Unitree As2-W](https://www.unitree.com/As2-W/)
+- [Government orders GitHub to remove Bluetooth-based chat app Bitchat: Jack Dorsey](https://www.thehindu.com/news/national/government-orders-github-to-remove-bluetooth-based-chat-app-bitchat-over-security-concerns-jack-dorsey/article71262049.ece)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

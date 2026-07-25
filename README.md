@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [India ‘cockroach’ activist Sonam Wangchuk ends hunger strike as protests spread](https://www.theguardian.com/world/2026/jul/24/india-cockroach-protest-sonam-wangchuk-ends-hunger-strike)
-- [Trump imposes fresh tariffs on more than 80 countries, drawing protests from US allies and trading partners](https://www.theguardian.com/us-news/2026/jul/23/trump-administration-trade-tariffs)
-- [Racy short story by Alan Turing offers glimpse of ‘playful, funny, cheeky’ side](https://www.theguardian.com/science/2026/jul/24/alan-turing-short-story)
-- [For outraged Germans, the Jens Spahn scandal is about more than his surrogate baby](https://www.theguardian.com/commentisfree/2026/jul/24/for-outraged-germans-the-jens-spahn-scandal-is-about-more-than-his-surrogate-baby)
-- [‘It’s more than backcombing a beehive!’ How tribute acts got massive – and put the live music scene back in the black](https://www.theguardian.com/music/2026/jul/24/its-more-than-backcombing-a-beehive-how-tribute-acts-got-massive-and-put-the-live-music-scene-back-in-the-black)
-- [Rare heron seen at Somerset estate where river has been allowed to run free](https://www.theguardian.com/environment/2026/jul/24/rare-night-heron-somerset-holnicote-river-reset)
-- [Ireland urged to put pressure on Germany over pro-Palestinian activist’s trial](https://www.theguardian.com/world/2026/jul/24/irish-pm-germany-pro-palestinian-activists-trial-ulm-5)
-- [Experience: I hunt for missing hikers in remote mountains](https://www.theguardian.com/lifeandstyle/2026/jul/24/experience-i-hunt-missing-hikers-remote-mountains-taiwan)
-- [‘We feel like we are failing’: Myanmar doctor speaks out as health system teeters on ‘brink of collapse’](https://www.theguardian.com/world/2026/jul/24/myanmar-healthcare-system-health-doctors)
-- [Prosecutors say blood stains on objects in D4vd’s home probably of victim](https://www.theguardian.com/us-news/2026/jul/23/d4vd-singer-police-evidence-hearing)
+- [I grew up near Andy Burnham. This is what shaped our new PM](https://www.theguardian.com/news/ng-interactive/2026/jul/25/view-from-andy-burnham-hometown-warrington-culcheth)
+- [The UK’s first TikTok PM? Andy Burnham channels Zohran Mamdani as he hits social media](https://www.theguardian.com/politics/2026/jul/25/tiktok-andy-burnham-zohran-mamdani-social-media)
+- [From Charli xcx to Secret Lives of Gypsy Wives: the week in rave reviews](https://www.theguardian.com/culture/2026/jul/25/charli-xcx-secret-lives-gypsy-wives-week-rave-reviews)
+- [UK’s largest Muslim event goes ahead with added security as hate crime rises](https://www.theguardian.com/world/2026/jul/25/uk-largest-muslim-event-jalsa-salana-security-anti-muslim-hate-crime)
+- [Tim Dowling: my dog has post-traumatic sheep disorder](https://www.theguardian.com/lifeandstyle/2026/jul/25/tim-dowling-my-dog-has-post-traumatic-sheep-disorder)
+- [Reclaiming stolen childhoods: swimming classes resume in Gaza after three years of war](https://www.theguardian.com/world/2026/jul/25/swimming-classes-resume-gaza-after-three-years-war)
+- [Meera Sodha’s vegan recipe for cold tomato and tahini noodles with peanut, coriander and lime | The new vegan](https://www.theguardian.com/food/2026/jul/25/vegan-cold-tomato-tahini-noodles-recipe-peanut-coriander-lime-meera-sodha)
+- [‘I thought, I’ve tried everything else, why not give AI a shot?’: the long-lost family reunited by ChatGPT](https://www.theguardian.com/lifeandstyle/ng-interactive/2026/jul/25/long-lost-family-reunited-chatgpt-artificial-intelligence-ai)
+- [UK savings deals: the heat is on as banks offer up to 8%](https://www.theguardian.com/money/2026/jul/25/uk-savings-deals-banks-interest-rates)
+- [There are fussy kids, and then there are my kids: the Becky Barnicoat cartoon](https://www.theguardian.com/lifeandstyle/picture/2026/jul/25/there-are-fussy-kids-and-then-there-are-my-kids-the-becky-barnicoat-cartoon)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

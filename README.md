@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Companies are optimizing models for specific benchmarks](https://news.ycombinator.com/item?id=49044813)
-- [Split Screen – browser workspaces to replace tab sprawl &lpar;free, local&rpar;](https://github.com/MIR-2025/brave-ext/tree/main/splitscreen)
-- [A Tale of Two Tailnets](https://blog.exe.dev/a-tale-of-two-tailnets)
-- [Shawn Ryan announces partnership with glacier [video]](https://www.youtube.com/watch?v=yB05HiKCCuI[video])
-- [The Global Justice Report](https://globaljusticeproject.wid.world/global-justice-report/)
-- [Trump announces 2028 presidential bid](https://www.smh.com.au/world/trump-announces-2028-presidential-bid-20260725-p60iho.html)
-- [Uber: Whatdoyoudo – Darden MBA Case Study &lpar;2020&rpar;](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3207044)
-- [&quot;As millionaires we have a message for our new Prime Minister: Tax us.&quot;](https://proudtopay.org)
-- [Michael Stevens and Hannah Fry: The Rest Is Science](https://therestis.com/science)
-- [The Architecture of Deep Thought: Fight AI Speed with Cognitive Friction](https://varnam.substack.com/p/the-architecture-of-deep-thought)
+- [Introduction to LLM Inference](https://kraghavan.ca/llm-infrastructure/inference/2026/04/14/re-introduction-to-inference.html)
+- [What Love Island tells us about the changing face of dating](https://www.bbc.co.uk/news/articles/c935q2k6pxqo)
+- [Kaappi – r7rs scheme written in Zig](https://github.com/kaappi/kaappi)
+- [LLM-as-a-Judge Field Guide](https://kraghavan.ca/llm-infrastructure/evaluation/2026/07/25/llm-as-a-judge-field-guide.html)
+- [Only Pay for Human Ad Clicks](https://botaudit.co/)
+- [The Myth and the Medal&lpar;2015&rpar; [pdf]](https://www.ams.org/notices/201501/rnoti-p15.pdf)
+- [Maybe we should revisit microkernels](https://notes.hella.cheap/maybe-we-should-revisit-microkernels.html)
+- [Shoppers rewire grocery routines while digesting biggest price jump in 50 years](https://abcnews.com/US/wireStory/americans-rewire-grocery-shopping-routines-digesting-biggest-price-135077702)
+- [Thanatos Rising](https://theamericanscholar.org/thanatos-rising/)
+- [We respond to Yelp leads in 15 seconds. The average business takes 4 hours](https://hirejosie.ai/blog/chatgpt-yelp-ai-lead-response/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

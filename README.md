@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [I grew up near Andy Burnham. This is what shaped our new PM](https://www.theguardian.com/news/ng-interactive/2026/jul/25/view-from-andy-burnham-hometown-warrington-culcheth)
-- [The UK’s first TikTok PM? Andy Burnham channels Zohran Mamdani as he hits social media](https://www.theguardian.com/politics/2026/jul/25/tiktok-andy-burnham-zohran-mamdani-social-media)
-- [From Charli xcx to Secret Lives of Gypsy Wives: the week in rave reviews](https://www.theguardian.com/culture/2026/jul/25/charli-xcx-secret-lives-gypsy-wives-week-rave-reviews)
-- [UK’s largest Muslim event goes ahead with added security as hate crime rises](https://www.theguardian.com/world/2026/jul/25/uk-largest-muslim-event-jalsa-salana-security-anti-muslim-hate-crime)
-- [Tim Dowling: my dog has post-traumatic sheep disorder](https://www.theguardian.com/lifeandstyle/2026/jul/25/tim-dowling-my-dog-has-post-traumatic-sheep-disorder)
-- [Reclaiming stolen childhoods: swimming classes resume in Gaza after three years of war](https://www.theguardian.com/world/2026/jul/25/swimming-classes-resume-gaza-after-three-years-war)
-- [Meera Sodha’s vegan recipe for cold tomato and tahini noodles with peanut, coriander and lime | The new vegan](https://www.theguardian.com/food/2026/jul/25/vegan-cold-tomato-tahini-noodles-recipe-peanut-coriander-lime-meera-sodha)
-- [‘I thought, I’ve tried everything else, why not give AI a shot?’: the long-lost family reunited by ChatGPT](https://www.theguardian.com/lifeandstyle/ng-interactive/2026/jul/25/long-lost-family-reunited-chatgpt-artificial-intelligence-ai)
-- [UK savings deals: the heat is on as banks offer up to 8%](https://www.theguardian.com/money/2026/jul/25/uk-savings-deals-banks-interest-rates)
-- [There are fussy kids, and then there are my kids: the Becky Barnicoat cartoon](https://www.theguardian.com/lifeandstyle/picture/2026/jul/25/there-are-fussy-kids-and-then-there-are-my-kids-the-becky-barnicoat-cartoon)
+- [TV tonight: Ruth Madeley’s ambitious new drama about the end of the world](https://www.theguardian.com/tv-and-radio/2026/jul/26/tv-tonight-ruth-madeleys-ambitious-new-drama-about-the-end-of-the-world)
+- [How Trump could undermine the midterms](https://www.theguardian.com/news/ng-interactive/2026/jul/26/trump-undermine-us-midterms)
+- [A third of UK journalists have changed how or what they report over fears for safety, study finds](https://www.theguardian.com/media/2026/jul/26/uk-journalists-changed-how-what-report-fears-safety)
+- [Lennox. Manchester: ‘A boot camp of flavours’ – restaurant review](https://www.theguardian.com/food/2026/jul/26/lennox-manchester-grace-dent-restaurant-review)
+- [‘Scandalous, irrational and irresponsible’: French beekeepers’ fury at lifting of pesticides ban](https://www.theguardian.com/world/2026/jul/26/french-beekeepers-fury-lifting-of-pesticides-ban)
+- [Venezuela men sue aviation firms who flew them to notorious Salvadorian jail](https://www.theguardian.com/us-news/2026/jul/26/lawsuit-csi-aviation-globalx-cecot-deportation)
+- [My partner’s mother dominates him and it makes me feel helpless | Ask Annalisa Barbieri](https://www.theguardian.com/lifeandstyle/2026/jul/26/my-partners-mother-dominates-him-i-feel-helpless)
+- [How to keep cool in a heatwave: 25 tips from the people who know best, from a Rio lifeguard to an Egyptian archaeologist](https://www.theguardian.com/environment/2026/jul/26/how-to-keep-cool-in-a-heatwave-from-people-who-know-best)
+- [Typhoon Noul forces more than 715,000 from homes and cancels hundreds of flights in China and Hong Kong](https://www.theguardian.com/world/2026/jul/26/typhoon-noul-china-hong-kong)
+- [The Curse of Love Island review – the deaths are more complex than this documentary can handle](https://www.theguardian.com/tv-and-radio/2026/jul/26/the-curse-of-love-island-review-amazon-prime-video)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

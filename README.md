@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Taylor Farms Called White House to Try to Delay Cyclospora Recall](https://www.wsj.com/health/taylor-farms-cyclospora-recall-delay-call-41fef0bc)
-- [Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach](https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize)
-- [Sperm Whales blow bubbles to achieve restful, vertical sleep](https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/)
-- [Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard](https://artificialanalysis.ai/models)
-- [Postgres LISTEN/NOTIFY actually scales](https://www.dbos.dev/blog/postgres-listen-notify-scalability)
-- [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5)
-- [Don&#39;t Take the Black Pill [video]](https://www.youtube.com/watch?v=zLZwpH5lCD4)
-- [Be skeptical of OpenAI&#39;s rogue hacker agent story](https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker)
-- [Unitree As2-W](https://www.unitree.com/As2-W/)
-- [Government orders GitHub to remove Bluetooth-based chat app Bitchat: Jack Dorsey](https://www.thehindu.com/news/national/government-orders-github-to-remove-bluetooth-based-chat-app-bitchat-over-security-concerns-jack-dorsey/article71262049.ece)
+- [Humans haven&#39;t stopped evolving](https://www.harvardmagazine.com/research/harvard-human-evolution-genes-selective-pressure)
+- [JetZero](https://www.jetzero.aero)
+- [An ESP32 based plane radar for my desk](https://blog.ktz.me/esp32-plane-radar/)
+- [Show HN: I mapped every US golf course](https://golfcoursebrowser.com/)
+- [Show HN: What 180k words look like as a temporal knowledge graph &lpar;Oz series&rpar;](https://synaptale.com/graph?ch=100)
+- [Alien World Chemistry Found Inside Meteorite That Struck New Jersey Home](https://www.seti.org/news/alien-world-chemistry-found-inside-meteorite/)
+- [Systems and Delays](https://martin.janiczek.cz/2026/07/24/systems-and-delays.html)
+- [Inflect-Micro-v2: complete voice in 9.36M parameters](https://huggingface.co/owensong/Inflect-Micro-v2)
+- [DeepSeek pause fundraise after comments on compute gap to US leaked &lpar;transcript&rpar; [pdf]](https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf)
+- [Clinical failure rates over the decades: yikes](https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

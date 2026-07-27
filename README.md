@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [TV tonight: Ruth Madeley’s ambitious new drama about the end of the world](https://www.theguardian.com/tv-and-radio/2026/jul/26/tv-tonight-ruth-madeleys-ambitious-new-drama-about-the-end-of-the-world)
-- [How Trump could undermine the midterms](https://www.theguardian.com/news/ng-interactive/2026/jul/26/trump-undermine-us-midterms)
-- [A third of UK journalists have changed how or what they report over fears for safety, study finds](https://www.theguardian.com/media/2026/jul/26/uk-journalists-changed-how-what-report-fears-safety)
-- [Lennox. Manchester: ‘A boot camp of flavours’ – restaurant review](https://www.theguardian.com/food/2026/jul/26/lennox-manchester-grace-dent-restaurant-review)
-- [‘Scandalous, irrational and irresponsible’: French beekeepers’ fury at lifting of pesticides ban](https://www.theguardian.com/world/2026/jul/26/french-beekeepers-fury-lifting-of-pesticides-ban)
-- [Venezuela men sue aviation firms who flew them to notorious Salvadorian jail](https://www.theguardian.com/us-news/2026/jul/26/lawsuit-csi-aviation-globalx-cecot-deportation)
-- [My partner’s mother dominates him and it makes me feel helpless | Ask Annalisa Barbieri](https://www.theguardian.com/lifeandstyle/2026/jul/26/my-partners-mother-dominates-him-i-feel-helpless)
-- [How to keep cool in a heatwave: 25 tips from the people who know best, from a Rio lifeguard to an Egyptian archaeologist](https://www.theguardian.com/environment/2026/jul/26/how-to-keep-cool-in-a-heatwave-from-people-who-know-best)
-- [Typhoon Noul forces more than 715,000 from homes and cancels hundreds of flights in China and Hong Kong](https://www.theguardian.com/world/2026/jul/26/typhoon-noul-china-hong-kong)
-- [The Curse of Love Island review – the deaths are more complex than this documentary can handle](https://www.theguardian.com/tv-and-radio/2026/jul/26/the-curse-of-love-island-review-amazon-prime-video)
+- [TV tonight: the amazing story of the first animal to poo](https://www.theguardian.com/tv-and-radio/2026/jul/27/tv-tonight-the-amazing-story-of-the-first-animal-to-poo)
+- [Palestine Action activists face being sentenced as terrorists over bank damage](https://www.theguardian.com/uk-news/2026/jul/27/palestine-action-activists-face-being-sentenced-terrorists-damage-barclays-bank-burnley)
+- [Girlguiding redesigns uniforms to put focus on ‘self-expression and confidence’](https://www.theguardian.com/society/2026/jul/27/girlguiding-redesigns-uniforms-to-put-focus-on-self-expression-and-confidence)
+- [A TV and cinema calamity could be disastrous for what you watch and what you know. Act now to stop that | Alan Cumming, Benedict Cumberbatch and Benedict Wong](https://www.theguardian.com/commentisfree/ng-interactive/2026/jul/27/tv-cinema-paramount-warner-bros-merger-benedict-cumberbatch-alan-cumming-benedict-wong)
+- [Andy Burnham vows to use his ‘political capital’ to fix social care system](https://www.theguardian.com/society/2026/jul/27/andy-burnham-vows-to-use-his-political-capital-to-fix-social-care-system)
+- [Vegan pho and Thai fishless cakes: Richard Makin’s southeast Asian-style tofu recipes](https://www.theguardian.com/food/2026/jul/27/tofu-recipes-vegan-pho-thai-fishless-cakes-southeast-asian-style-richard-makin)
+- [What is a ‘fire cloud’, and how have they worsened wildfires in Europe?](https://www.theguardian.com/world/2026/jul/27/what-is-a-fire-cloud-pyrocumulonimbus-pyrocb-france-spain-wildfires)
+- [‘I thought it didn’t stand a cat’s chance in hell’: Andrew Ridgeley on Wham’s surreal trip to China](https://www.theguardian.com/film/2026/jul/27/andrew-ridgeley-wham-china-george-michael-lindsay-anderson)
+- [‘Her screams echo in my ears’: the trauma of so-called ‘honour killings’ in Pakistan](https://www.theguardian.com/global-development/2026/jul/27/her-screams-echo-in-my-ears-the-trauma-of-so-called-honour-killings-in-pakistan)
+- [He’s commander-in-chief of chaos. Now we’re all victims of Trump’s wars | Nesrine Malik](https://www.theguardian.com/commentisfree/2026/jul/27/commander-in-chief-of-chaos-victims-trump-wars)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

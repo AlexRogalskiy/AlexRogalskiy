@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Introduction to LLM Inference](https://kraghavan.ca/llm-infrastructure/inference/2026/04/14/re-introduction-to-inference.html)
-- [What Love Island tells us about the changing face of dating](https://www.bbc.co.uk/news/articles/c935q2k6pxqo)
-- [Kaappi – r7rs scheme written in Zig](https://github.com/kaappi/kaappi)
-- [LLM-as-a-Judge Field Guide](https://kraghavan.ca/llm-infrastructure/evaluation/2026/07/25/llm-as-a-judge-field-guide.html)
-- [Only Pay for Human Ad Clicks](https://botaudit.co/)
-- [The Myth and the Medal&lpar;2015&rpar; [pdf]](https://www.ams.org/notices/201501/rnoti-p15.pdf)
-- [Maybe we should revisit microkernels](https://notes.hella.cheap/maybe-we-should-revisit-microkernels.html)
-- [Shoppers rewire grocery routines while digesting biggest price jump in 50 years](https://abcnews.com/US/wireStory/americans-rewire-grocery-shopping-routines-digesting-biggest-price-135077702)
-- [Thanatos Rising](https://theamericanscholar.org/thanatos-rising/)
-- [We respond to Yelp leads in 15 seconds. The average business takes 4 hours](https://hirejosie.ai/blog/chatgpt-yelp-ai-lead-response/)
+- [Interconverting Std:Function with Copyable_function](https://quuxplusone.github.io/blog/2026/07/26/function-explosion/)
+- [JIT for the Code Vectorization Can&#39;t Optimize](https://medium.com/@DolphinDB_Inc/beyond-vectorization-dolphindbs-jit-compiler-gets-a-ground-up-rebuild-911ebf960fd6)
+- [A practical partitioner for distributed simulations on sparse dynamic domains](https://dl.acm.org/doi/10.1145/3787521)
+- [Doing general vibe math in Programming Language Theory](https://twitter.com/TimSweeneyEpic/status/2081458495006634477)
+- [I built a project management tool because every alternative felt too complicated](https://www.simplegantt.net)
+- [Searching for Robots Is Surprisingly Hard](https://rohboter.com/)
+- [Authoritative Dnsmasq in a MikroTik Container](https://op-co.de/blog/posts/mikrotik_authoritative_dnsmasq/)
+- [EU Fines Google $1.02B for Favoring Its Own Services](https://www.wsj.com/tech/google-fined-1-02-billion-under-eus-tech-antitrust-rules-7e8ae1fb)
+- [Waymo Is Racking Up Thousands of Dollars of Parking Fines in Austin](https://www.wsj.com/business/autos/waymo-is-racking-up-thousands-of-dollars-of-parking-fines-in-austin-d41483f5)
+- [RedHat 7.2 &lpar;2001&rpar;, Abiword 1.0, &amp; Sanger&#39;s Rule towards kernel development](https://inavoyage.blogspot.com/2026/07/redhat-72-2001-abiword-sangers-rule.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

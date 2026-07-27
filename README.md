@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Humans haven&#39;t stopped evolving](https://www.harvardmagazine.com/research/harvard-human-evolution-genes-selective-pressure)
-- [JetZero](https://www.jetzero.aero)
-- [An ESP32 based plane radar for my desk](https://blog.ktz.me/esp32-plane-radar/)
-- [Show HN: I mapped every US golf course](https://golfcoursebrowser.com/)
-- [Show HN: What 180k words look like as a temporal knowledge graph &lpar;Oz series&rpar;](https://synaptale.com/graph?ch=100)
-- [Alien World Chemistry Found Inside Meteorite That Struck New Jersey Home](https://www.seti.org/news/alien-world-chemistry-found-inside-meteorite/)
-- [Systems and Delays](https://martin.janiczek.cz/2026/07/24/systems-and-delays.html)
-- [Inflect-Micro-v2: complete voice in 9.36M parameters](https://huggingface.co/owensong/Inflect-Micro-v2)
-- [DeepSeek pause fundraise after comments on compute gap to US leaked &lpar;transcript&rpar; [pdf]](https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf)
-- [Clinical failure rates over the decades: yikes](https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes)
+- [PGSimCity - How PostgreSQL Works](https://nikolays.github.io/PGSimCity/)
+- [Fonts In Use – Find out where a font is used](https://fontsinuse.com/)
+- [Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary](https://github.com/vercel-labs/scriptc)
+- [US citizen charged after GrapheneOS phone wipes during airport search](https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html)
+- [Teaching Kids Forth](https://gracefulliberty.com/articles/teaching-kids-forth/)
+- [We have proof automation now](https://www.imperialviolet.org/2026/07/26/zstd-lean.html)
+- [Plasma Tunnels Reveal How Dying Satellites Fall to Earth](https://spectrum.ieee.org/space-debris-atmosphere-burn-up)
+- [Simulate cassette tape audio profiles using FFmpeg](https://github.com/AARomanov1985/Audio-Cassette-Simulation)
+- [How to Block Some of the Bots](https://nochan.net/b/Internet-Crap/20260606-How-To-Block-Some-Of-The-Bots/)
+- [Decker, a platform that builds on the legacy of Hypercard and classic macOS](https://beyondloom.com/decker/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

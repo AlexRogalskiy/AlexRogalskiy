@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Interconverting Std:Function with Copyable_function](https://quuxplusone.github.io/blog/2026/07/26/function-explosion/)
-- [JIT for the Code Vectorization Can&#39;t Optimize](https://medium.com/@DolphinDB_Inc/beyond-vectorization-dolphindbs-jit-compiler-gets-a-ground-up-rebuild-911ebf960fd6)
-- [A practical partitioner for distributed simulations on sparse dynamic domains](https://dl.acm.org/doi/10.1145/3787521)
-- [Doing general vibe math in Programming Language Theory](https://twitter.com/TimSweeneyEpic/status/2081458495006634477)
-- [I built a project management tool because every alternative felt too complicated](https://www.simplegantt.net)
-- [Searching for Robots Is Surprisingly Hard](https://rohboter.com/)
-- [Authoritative Dnsmasq in a MikroTik Container](https://op-co.de/blog/posts/mikrotik_authoritative_dnsmasq/)
-- [EU Fines Google $1.02B for Favoring Its Own Services](https://www.wsj.com/tech/google-fined-1-02-billion-under-eus-tech-antitrust-rules-7e8ae1fb)
-- [Waymo Is Racking Up Thousands of Dollars of Parking Fines in Austin](https://www.wsj.com/business/autos/waymo-is-racking-up-thousands-of-dollars-of-parking-fines-in-austin-d41483f5)
-- [RedHat 7.2 &lpar;2001&rpar;, Abiword 1.0, &amp; Sanger&#39;s Rule towards kernel development](https://inavoyage.blogspot.com/2026/07/redhat-72-2001-abiword-sangers-rule.html)
+- [How IMAX 70MM Film is Projected!](https://www.youtube.com/watch?v=7S_geBV5bLQ)
+- [I&#39;m Sorry, Dave](https://world.hey.com/dhh/i-m-sorry-dave-380ec27d)
+- [Show HN: My First OSS as a Teen](https://openotp.app)
+- [Show HN: Orchard – Let AI agents set up your app&#39;s back end with one prompt](https://orchard-dashboard.pages.dev/landing)
+- [QuickOn – Explainable AI for qualifying inbound B2B SaaS leads](https://www.quickon.in)
+- [Neutrino-1 8B](https://www.fermionresearch.com/models/neutrino-8b/)
+- [Seats on hundreds of Boeing 737MAX were incorrectly installed:US aviation agency](https://www.channelnewsasia.com/world/seats-hundreds-boeing-737-max-jets-were-incorrectly-installed-us-aviation-agency-6281886)
+- [AI crawlers don&#39;t render JavaScript – I audited my own 11 production sites](https://www.smithappstudio.com/blog/ai-crawlers-cant-see-your-spa-2026/)
+- [Framework Laptop 13 Pro review: better battery, worse price](https://arstechnica.com/gadgets/2026/07/framework-laptop-13-pro-review-much-better-battery-much-worse-price/)
+- [Neural Representation of Minimal Surfaces](https://arxiv.org/abs/2607.23437)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

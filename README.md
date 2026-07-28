@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
-- [Kill meetings &lpar;before meetings kill your company&rpar;](https://www.computerworld.com/article/3714934/kill-meetings-before-meetings-kill-your-company.html#tk.rss_all)
-- [McDonald&#39;s serves up a master class in how not to explain a system outage](https://www.computerworld.com/article/3714932/mcdonalds-serves-up-a-master-class-in-how-not-to-explain-a-system-outage.html#tk.rss_all)
-- [Report: Scale cuts off subsidiary’s remote workers in several countries](https://www.computerworld.com/article/3714686/report-scale-cuts-off-subsidiarys-remote-workers-in-several-countries.html#tk.rss_all)
-- [Apple will continue to enhance its DMA compliance](https://www.computerworld.com/article/3714931/apple-will-continue-to-enhance-its-dma-compliance.html#tk.rss_all)
-- [AI is on a fast track, but hype and immaturity could derail it](https://www.computerworld.com/article/3714940/ai-is-on-a-fast-track-but-hype-and-immaturity-could-derail-it.html#tk.rss_all)
-- [Why even hybrid RTO mandates are hurting overall job satisfaction](https://www.computerworld.com/article/3714928/why-even-hybrid-return-to-office-mandates-are-hurting-overall-job-satisfaction.html#tk.rss_all)
-- [Microsoft’s Copilot AI set to operate locally on future PCs, says Intel](https://www.computerworld.com/article/3714605/microsofts-copilot-ai-set-to-operate-locally-on-future-pcs-says-intel.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [If you get an unexpected call from Apple Support, you’re being hacked](https://www.computerworld.com/article/3714823/if-you-get-an-unexpected-call-from-apple-support-youre-being-hacked.html#tk.rss_all)
-- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
+- [Hackers are compromising hotel Wi-Fi gateways to hijack Microsoft 365 accounts](https://www.computerworld.com/article/4202088/hackers-are-compromising-hotel-wi-fi-gateways-to-hijack-microsoft-365-accounts-2.html)
+- [Samsung’s entry into AI-powered glasses forces CISOs to again consider corporate risk](https://www.computerworld.com/article/4202064/samsungs-entry-into-ai-powered-glasses-forces-cisos-to-again-consider-corporate-risk-2.html)
+- [Hugging Face CEO wants transparency after OpenAI’s AI incident](https://www.computerworld.com/article/4201963/hugging-face-ceo-calls-for-transparency-following-openais-ai-incident.html)
+- [The best thing about Apple’s smart glasses: what Cupertino rejects](https://www.computerworld.com/article/4201828/the-best-thing-about-apples-smart-glasses-what-cupertino-rejects.html)
+- [DEX buyer’s guide: Choose the right digital employee experience platform](https://www.computerworld.com/article/1612638/how-to-choose-digital-employee-experience-tool.html)
+- [As White House monitors latest OpenAI incident, Congress eyes an AI ‘kill switch’ for DHS](https://www.computerworld.com/article/4201314/the-white-house-is-monitoring-the-openai-incident-a-new-bill-could-give-government-agencies-an-ai-kill-switch.html)
+- [Google’s anti-search-scraping lawsuit dismissed](https://www.computerworld.com/article/4200873/googles-anti-search-scraping-lawsuit-dismissed.html)
+- [Microsoft explains why its West US Azure and cloud services failed](https://www.computerworld.com/article/4201166/microsoft-explains-why-its-west-us-azure-and-cloud-services-failed-2.html)
+- [Email threats changed after the Tycoon2FA take-down](https://www.computerworld.com/article/4201156/email-threats-changed-after-the-tycoon2fa-take-down.html)
+- [Google fined $1 billion for anticompetitive search and mobile app practices in EU](https://www.computerworld.com/article/4201121/google-fined-1-billion-for-anticompetitive-search-and-mobile-app-practices-in-eu.html)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

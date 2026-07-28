@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [PGSimCity - How PostgreSQL Works](https://nikolays.github.io/PGSimCity/)
-- [Fonts In Use – Find out where a font is used](https://fontsinuse.com/)
-- [Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary](https://github.com/vercel-labs/scriptc)
-- [US citizen charged after GrapheneOS phone wipes during airport search](https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html)
-- [Teaching Kids Forth](https://gracefulliberty.com/articles/teaching-kids-forth/)
-- [We have proof automation now](https://www.imperialviolet.org/2026/07/26/zstd-lean.html)
-- [Plasma Tunnels Reveal How Dying Satellites Fall to Earth](https://spectrum.ieee.org/space-debris-atmosphere-burn-up)
-- [Simulate cassette tape audio profiles using FFmpeg](https://github.com/AARomanov1985/Audio-Cassette-Simulation)
-- [How to Block Some of the Bots](https://nochan.net/b/Internet-Crap/20260606-How-To-Block-Some-Of-The-Bots/)
-- [Decker, a platform that builds on the legacy of Hypercard and classic macOS](https://beyondloom.com/decker/)
+- [Why do we think we understand the world more than we actually do?](https://thedecisionlab.com/biases/the-illusion-of-explanatory-depth)
+- [The age of token efficiency, the age of libraries](https://golemui.com/blog/the-age-of-token-efficiency/)
+- [Using an open model feels surprisingly good](https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/)
+- [An Uncomplicated Man](https://www.lrb.co.uk/the-paper/v48/n14/emily-wilson/an-uncomplicated-man)
+- [EYG: A Programming Language for Humans](https://crowdhailer.me/2026-06-08/a-programming-language-for-humans/)
+- [A $500 RL fine-tune of a 9B open model beat frontier models on catalog review](https://fermisense.com/when-machines-take-the-wheel/)
+- [Residential Proxies Are a National Security Threat](https://jacob.gold/posts/residential-proxies-are-a-national-security-threat/)
+- [Vehicle Motion Cues](https://support.apple.com/guide/iphone/iphone-comfortably-riding-a-vehicle-iph55564cb22/ios)
+- [The Burau representation of the braid group is faithful for n = 4](https://arxiv.org/abs/2607.05283)
+- [Netflix employee fired for sharing personal details in retreat trust exercise](https://nypost.com/2026/07/26/us-news/netflix-exec-goes-ballistic-after-being-fired-for-stunning-trust-exercise-confession-at-retreat-suit/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

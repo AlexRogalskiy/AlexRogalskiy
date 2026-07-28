@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [TV tonight: the amazing story of the first animal to poo](https://www.theguardian.com/tv-and-radio/2026/jul/27/tv-tonight-the-amazing-story-of-the-first-animal-to-poo)
-- [Palestine Action activists face being sentenced as terrorists over bank damage](https://www.theguardian.com/uk-news/2026/jul/27/palestine-action-activists-face-being-sentenced-terrorists-damage-barclays-bank-burnley)
-- [Girlguiding redesigns uniforms to put focus on ‘self-expression and confidence’](https://www.theguardian.com/society/2026/jul/27/girlguiding-redesigns-uniforms-to-put-focus-on-self-expression-and-confidence)
-- [A TV and cinema calamity could be disastrous for what you watch and what you know. Act now to stop that | Alan Cumming, Benedict Cumberbatch and Benedict Wong](https://www.theguardian.com/commentisfree/ng-interactive/2026/jul/27/tv-cinema-paramount-warner-bros-merger-benedict-cumberbatch-alan-cumming-benedict-wong)
-- [Andy Burnham vows to use his ‘political capital’ to fix social care system](https://www.theguardian.com/society/2026/jul/27/andy-burnham-vows-to-use-his-political-capital-to-fix-social-care-system)
-- [Vegan pho and Thai fishless cakes: Richard Makin’s southeast Asian-style tofu recipes](https://www.theguardian.com/food/2026/jul/27/tofu-recipes-vegan-pho-thai-fishless-cakes-southeast-asian-style-richard-makin)
-- [What is a ‘fire cloud’, and how have they worsened wildfires in Europe?](https://www.theguardian.com/world/2026/jul/27/what-is-a-fire-cloud-pyrocumulonimbus-pyrocb-france-spain-wildfires)
-- [‘I thought it didn’t stand a cat’s chance in hell’: Andrew Ridgeley on Wham’s surreal trip to China](https://www.theguardian.com/film/2026/jul/27/andrew-ridgeley-wham-china-george-michael-lindsay-anderson)
-- [‘Her screams echo in my ears’: the trauma of so-called ‘honour killings’ in Pakistan](https://www.theguardian.com/global-development/2026/jul/27/her-screams-echo-in-my-ears-the-trauma-of-so-called-honour-killings-in-pakistan)
-- [He’s commander-in-chief of chaos. Now we’re all victims of Trump’s wars | Nesrine Malik](https://www.theguardian.com/commentisfree/2026/jul/27/commander-in-chief-of-chaos-victims-trump-wars)
+- [US airman accused of ‘spree’ of rapes on sleeping women avoided UK courts](https://www.theguardian.com/uk-news/2026/jul/28/us-airman-accused-of-spree-of-rapes-on-sleeping-women-avoided-uk-courts)
+- [Scoop of the year! We taste-test 99 of 2026’s most unusual ice creams, from the unbeatable to the unlickable](https://www.theguardian.com/food/2026/jul/28/taste-test-99-unusual-ice-cream-flavours)
+- [‘She wasn’t acting, she wanted to live it’: how a fake pregnancy resulted in the wildest true crime film of the year](https://www.theguardian.com/film/2026/jul/28/a-child-of-my-own-fake-pregnancy-documentary-netflix)
+- [Nudists, peaceniks and freeloading travellers: the people keeping the Esperanto dream alive](https://www.theguardian.com/news/ng-interactive/2026/jul/28/nudists-peaceniks-freeloading-travellers-esperanto)
+- [Train drivers in Great Britain consider strike action over lack of toilets](https://www.theguardian.com/business/2026/jul/28/train-drivers-consider-strike-action-lack-of-toilets)
+- [‘We have lost everything’: extreme rainfall across Asia brings flash floods and typhoons](https://www.theguardian.com/environment/2026/jul/28/extreme-rainfall-asia-flash-floods-typhoons-climate-change)
+- [A dog saved Houssein Hamze from a bomb. When war returned, he stayed to care for Lebanon’s animals](https://www.theguardian.com/world/2026/jul/28/man-who-stayed-to-save-lebanon-wartime-animals-mashala-shelter)
+- [I thought my life would feel sorted when I turned 40. It doesn’t – and that’s OK | Carolin Würfel](https://www.theguardian.com/commentisfree/2026/jul/28/life-turn-40-east-germany-in-between)
+- [France and Spain race to contain huge wildfires before fresh heatwave begins](https://www.theguardian.com/world/2026/jul/27/france-and-spain-race-to-contain-huge-wildfires-before-fresh-heatwave-begins)
+- [Ukraine war briefing: Disastrous drone expo’s organiser appears in Kyiv court](https://www.theguardian.com/world/2026/jul/28/ukraine-war-briefing-disastrous-drone-expos-organiser-appears-in-kyiv-court)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

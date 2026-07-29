@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [How IMAX 70MM Film is Projected!](https://www.youtube.com/watch?v=7S_geBV5bLQ)
-- [I&#39;m Sorry, Dave](https://world.hey.com/dhh/i-m-sorry-dave-380ec27d)
-- [Show HN: My First OSS as a Teen](https://openotp.app)
-- [Show HN: Orchard – Let AI agents set up your app&#39;s back end with one prompt](https://orchard-dashboard.pages.dev/landing)
-- [QuickOn – Explainable AI for qualifying inbound B2B SaaS leads](https://www.quickon.in)
-- [Neutrino-1 8B](https://www.fermionresearch.com/models/neutrino-8b/)
-- [Seats on hundreds of Boeing 737MAX were incorrectly installed:US aviation agency](https://www.channelnewsasia.com/world/seats-hundreds-boeing-737-max-jets-were-incorrectly-installed-us-aviation-agency-6281886)
-- [AI crawlers don&#39;t render JavaScript – I audited my own 11 production sites](https://www.smithappstudio.com/blog/ai-crawlers-cant-see-your-spa-2026/)
-- [Framework Laptop 13 Pro review: better battery, worse price](https://arstechnica.com/gadgets/2026/07/framework-laptop-13-pro-review-much-better-battery-much-worse-price/)
-- [Neural Representation of Minimal Surfaces](https://arxiv.org/abs/2607.23437)
+- [New airliner sets record flying 24 hrs nonstop from Australia to France](https://arstechnica.com/gadgets/2026/07/new-airliner-sets-record-flying-24-hrs-nonstop-from-australia-to-france/)
+- [Show HN: PR review time decreased by N3MO:impact analyzer &lpar;15 days free trial&rpar;](https://n3mo.vercel.app)
+- [PJM board proposes backstop capacity auction, data center curtailment plans](https://finance.yahoo.com/energy/articles/pjm-board-proposes-backstop-capacity-100932204.html)
+- [China tests largest superconducting fusion magnets ever built](https://theprint.in/india/breakthrough-china-artificial-sun-project-6-5-tesla-magnet/2999321/)
+- [More Tailscale tricks for your jailbroken Kindle](https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes)
+- [Show HN: Firemaps Spain – Live wildfire map with wind flow for ES and PT](https://firemapsspain.online/)
+- [Manganin: Tools Matter](https://blog.manganin.dev/blog/tools-matter/)
+- [Israel Is Paying Millions to Train AI Chatbots How to Talk About Gaza](https://www.dropsitenews.com/p/israel-brad-parscale-ai-chatbots-gaza)
+- [Cross-platform Shadow AI: Find, score, and report unmanaged AI](https://www.npmjs.com/package/@guardion/shadow-ai)
+- [Show HN: Wordknots](https://wordknots.barapa.dev/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

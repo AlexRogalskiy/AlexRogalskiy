@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Why do we think we understand the world more than we actually do?](https://thedecisionlab.com/biases/the-illusion-of-explanatory-depth)
-- [The age of token efficiency, the age of libraries](https://golemui.com/blog/the-age-of-token-efficiency/)
-- [Using an open model feels surprisingly good](https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/)
-- [An Uncomplicated Man](https://www.lrb.co.uk/the-paper/v48/n14/emily-wilson/an-uncomplicated-man)
-- [EYG: A Programming Language for Humans](https://crowdhailer.me/2026-06-08/a-programming-language-for-humans/)
-- [A $500 RL fine-tune of a 9B open model beat frontier models on catalog review](https://fermisense.com/when-machines-take-the-wheel/)
-- [Residential Proxies Are a National Security Threat](https://jacob.gold/posts/residential-proxies-are-a-national-security-threat/)
-- [Vehicle Motion Cues](https://support.apple.com/guide/iphone/iphone-comfortably-riding-a-vehicle-iph55564cb22/ios)
-- [The Burau representation of the braid group is faithful for n = 4](https://arxiv.org/abs/2607.05283)
-- [Netflix employee fired for sharing personal details in retreat trust exercise](https://nypost.com/2026/07/26/us-news/netflix-exec-goes-ballistic-after-being-fired-for-stunning-trust-exercise-confession-at-retreat-suit/)
+- [More Tailscale tricks for your jailbroken Kindle](https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes)
+- [Cracking Windows Open: Porting RADV to Win32](https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html)
+- [User Interfaces of the Demo Scene](https://www.datagubbe.se/scenegui/)
+- [Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design](https://transformer-transformer.github.io/)
+- [Hooray for the Sockets Interface](https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/)
+- [Show HN: Lean4 Datalog DSL Based on Google Zanzibar for AI Projects](https://github.com/jagg-ix/zil-lean)
+- [LearnVector – Andrew Ng&#39;s AI company building one‑to‑one learning experiences](https://learnvector.ai/)
+- [Multiple Mouse Cursors in Wayland](https://blinry.org/multi-seat-wayland/)
+- [Lightweight Spring Boot Monitoring Without Prometheus and Grafana](https://pvrlabs.xyz/articles/lightweight-spring-boot-monitoring.html)
+- [The Difference Between a Button and a Link](https://unplannedobsolescence.com/blog/buttons-vs-links/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

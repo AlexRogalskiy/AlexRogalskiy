@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [US airman accused of ‘spree’ of rapes on sleeping women avoided UK courts](https://www.theguardian.com/uk-news/2026/jul/28/us-airman-accused-of-spree-of-rapes-on-sleeping-women-avoided-uk-courts)
-- [Scoop of the year! We taste-test 99 of 2026’s most unusual ice creams, from the unbeatable to the unlickable](https://www.theguardian.com/food/2026/jul/28/taste-test-99-unusual-ice-cream-flavours)
-- [‘She wasn’t acting, she wanted to live it’: how a fake pregnancy resulted in the wildest true crime film of the year](https://www.theguardian.com/film/2026/jul/28/a-child-of-my-own-fake-pregnancy-documentary-netflix)
-- [Nudists, peaceniks and freeloading travellers: the people keeping the Esperanto dream alive](https://www.theguardian.com/news/ng-interactive/2026/jul/28/nudists-peaceniks-freeloading-travellers-esperanto)
-- [Train drivers in Great Britain consider strike action over lack of toilets](https://www.theguardian.com/business/2026/jul/28/train-drivers-consider-strike-action-lack-of-toilets)
-- [‘We have lost everything’: extreme rainfall across Asia brings flash floods and typhoons](https://www.theguardian.com/environment/2026/jul/28/extreme-rainfall-asia-flash-floods-typhoons-climate-change)
-- [A dog saved Houssein Hamze from a bomb. When war returned, he stayed to care for Lebanon’s animals](https://www.theguardian.com/world/2026/jul/28/man-who-stayed-to-save-lebanon-wartime-animals-mashala-shelter)
-- [I thought my life would feel sorted when I turned 40. It doesn’t – and that’s OK | Carolin Würfel](https://www.theguardian.com/commentisfree/2026/jul/28/life-turn-40-east-germany-in-between)
-- [France and Spain race to contain huge wildfires before fresh heatwave begins](https://www.theguardian.com/world/2026/jul/27/france-and-spain-race-to-contain-huge-wildfires-before-fresh-heatwave-begins)
-- [Ukraine war briefing: Disastrous drone expo’s organiser appears in Kyiv court](https://www.theguardian.com/world/2026/jul/28/ukraine-war-briefing-disastrous-drone-expos-organiser-appears-in-kyiv-court)
+- [Suddenly the British right feels a political chill. It’s getting cold in Andy Burnham’s shadow | Rafael Behr](https://www.theguardian.com/commentisfree/2026/jul/29/british-right-political-chill-andy-burnham-tories-reform-keir-starmer)
+- [Cherry sundaes and banana splits: Helen Graves’ recipes for barbecued fruit](https://www.theguardian.com/food/2026/jul/29/barbecued-fruit-recipes-cherry-sundaes-banana-splits-helen-graves)
+- [Organic eggs have worse impact on climate than eggs from caged chickens](https://www.theguardian.com/environment/2026/jul/29/organic-eggs-climate-caged-chickens-carbon-emissions-environment)
+- [‘No plan, no budget, no promotion’: how a genre-mashing masterpiece by a forgotten New York beatnik blew Gen Z away](https://www.theguardian.com/culture/2026/jul/29/my-skyscraper-nirosta-steel-new-york-beatnik)
+- [Germany&#39;s leaders say the Berlin Pride attack targeted &#39;all of us&#39;.  What utter hypocrisy | Fatma Aydemir](https://www.theguardian.com/commentisfree/2026/jul/29/germany-leaders-berlin-pride-attack-queer-community)
+- [Magic circle: Stonehenge offers lucky visitors 20 minutes alone in monument](https://www.theguardian.com/uk-news/2026/jul/29/stonehenge-offers-visitors-20-minutes-alone-in-monument)
+- [‘The heat took him from me’: India’s death toll rises amid escalating heat crisis](https://www.theguardian.com/world/2026/jul/29/extreme-heat-deaths-india-climate-crisis-environment)
+- [From 400 hives to 35: the Gaza beekeeper refusing to let war end his life’s work](https://www.theguardian.com/artanddesign/2026/jul/29/gaza-beekeeper-refusing-to-let-war-end-lifes-work)
+- [‘Farage’s got to come clean or clear off’: what voters on Clacton beach think about their MP – and the country](https://www.theguardian.com/politics/2026/jul/29/nigel-farage-come-clean-or-clear-off-voters-clacton)
+- [AI tool will lead to more child refugees being treated as adults, charity warns](https://www.theguardian.com/global-development/2026/jul/29/uk-immigration-ai-age-facial-recognition-child-refugees-adults-bias)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

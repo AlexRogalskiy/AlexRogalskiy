@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [New airliner sets record flying 24 hrs nonstop from Australia to France](https://arstechnica.com/gadgets/2026/07/new-airliner-sets-record-flying-24-hrs-nonstop-from-australia-to-france/)
-- [Show HN: PR review time decreased by N3MO:impact analyzer &lpar;15 days free trial&rpar;](https://n3mo.vercel.app)
-- [PJM board proposes backstop capacity auction, data center curtailment plans](https://finance.yahoo.com/energy/articles/pjm-board-proposes-backstop-capacity-100932204.html)
-- [China tests largest superconducting fusion magnets ever built](https://theprint.in/india/breakthrough-china-artificial-sun-project-6-5-tesla-magnet/2999321/)
-- [More Tailscale tricks for your jailbroken Kindle](https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes)
-- [Show HN: Firemaps Spain – Live wildfire map with wind flow for ES and PT](https://firemapsspain.online/)
-- [Manganin: Tools Matter](https://blog.manganin.dev/blog/tools-matter/)
-- [Israel Is Paying Millions to Train AI Chatbots How to Talk About Gaza](https://www.dropsitenews.com/p/israel-brad-parscale-ai-chatbots-gaza)
-- [Cross-platform Shadow AI: Find, score, and report unmanaged AI](https://www.npmjs.com/package/@guardion/shadow-ai)
-- [Show HN: Wordknots](https://wordknots.barapa.dev/)
+- [DoorDash Air](https://twitter.com/stanleytang/status/2082451154907353112)
+- [Couple Stalked by eBay Settle for $56M](https://www.nytimes.com/2026/07/28/technology/ebay-settles-stalking-case.html)
+- [Is the bottleneck on AI at your company technical or organizational?](https://theworkingmodel.co/)
+- [The U.S. economy in 2026: What to watch for](https://siepr.stanford.edu/publications/policy-brief/us-economy-2026-what-watch)
+- [The Rise of Million-Dollar Companies with Just One Employee](https://www.wsj.com/tech/ai/the-rise-of-million-dollar-companies-with-just-one-employee-f36a77c1)
+- [Outside LLMs – Outside Lands and Codex](https://outsidellms.com/)
+- [Global surge in copper theft snares telecoms and trains](https://www.ft.com/content/5ee7595d-a85d-432d-b269-90f1b4cf1920)
+- [Test the Email Verification Protocol with an origin trial](https://developer.chrome.com/blog/email-verification-protocol-origin-trial)
+- [How IPTV delivery works, end to end](https://iptvproviders.online/)
+- [South Korea&#39;s AI Bubble Just Popped [video]](https://www.youtube.com/watch?v=hy90LdpEUvQ)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

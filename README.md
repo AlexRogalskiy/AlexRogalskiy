@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Suddenly the British right feels a political chill. It’s getting cold in Andy Burnham’s shadow | Rafael Behr](https://www.theguardian.com/commentisfree/2026/jul/29/british-right-political-chill-andy-burnham-tories-reform-keir-starmer)
-- [Cherry sundaes and banana splits: Helen Graves’ recipes for barbecued fruit](https://www.theguardian.com/food/2026/jul/29/barbecued-fruit-recipes-cherry-sundaes-banana-splits-helen-graves)
-- [Organic eggs have worse impact on climate than eggs from caged chickens](https://www.theguardian.com/environment/2026/jul/29/organic-eggs-climate-caged-chickens-carbon-emissions-environment)
-- [‘No plan, no budget, no promotion’: how a genre-mashing masterpiece by a forgotten New York beatnik blew Gen Z away](https://www.theguardian.com/culture/2026/jul/29/my-skyscraper-nirosta-steel-new-york-beatnik)
-- [Germany&#39;s leaders say the Berlin Pride attack targeted &#39;all of us&#39;.  What utter hypocrisy | Fatma Aydemir](https://www.theguardian.com/commentisfree/2026/jul/29/germany-leaders-berlin-pride-attack-queer-community)
-- [Magic circle: Stonehenge offers lucky visitors 20 minutes alone in monument](https://www.theguardian.com/uk-news/2026/jul/29/stonehenge-offers-visitors-20-minutes-alone-in-monument)
-- [‘The heat took him from me’: India’s death toll rises amid escalating heat crisis](https://www.theguardian.com/world/2026/jul/29/extreme-heat-deaths-india-climate-crisis-environment)
-- [From 400 hives to 35: the Gaza beekeeper refusing to let war end his life’s work](https://www.theguardian.com/artanddesign/2026/jul/29/gaza-beekeeper-refusing-to-let-war-end-lifes-work)
-- [‘Farage’s got to come clean or clear off’: what voters on Clacton beach think about their MP – and the country](https://www.theguardian.com/politics/2026/jul/29/nigel-farage-come-clean-or-clear-off-voters-clacton)
-- [AI tool will lead to more child refugees being treated as adults, charity warns](https://www.theguardian.com/global-development/2026/jul/29/uk-immigration-ai-age-facial-recognition-child-refugees-adults-bias)
+- [Death toll in Japan earthquake rises to 28 as aftershock and heat complicate rescue efforts](https://www.theguardian.com/world/2026/jul/30/japan-earthquake-death-toll-rises)
+- [The body snatchers: how a young Nigerian man was lured to London in an organ-trafficking plot](https://www.theguardian.com/news/ng-interactive/2026/jul/30/body-snatchers-young-nigerian-man-lured-london-organ-trafficking-plot)
+- [Burnham the crowd-pleaser knows how to make friends, but he’ll be defined by how he makes enemies | Andy Beckett](https://www.theguardian.com/commentisfree/2026/jul/30/andy-burnham-prime-minister-politics-change)
+- [Carmakers ‘delaying investment in UK factories until EV sales rules relaxed’](https://www.theguardian.com/business/2026/jul/30/carmakers-delaying-investment-in-uk-factories-until-ev-sales-rules-relaxed)
+- [‘It makes you feel you’ve got a really dirty house’: what’s behind the UK’s plagues of flies?](https://www.theguardian.com/environment/2026/jul/30/house-files-uk-plague-homes)
+- [‘People say I’m pouring Coca-Cola into fine malt whisky’: why is the National Theatre shaking up Sophocles?](https://www.theguardian.com/stage/2026/jul/30/sophocles-bergman-cate-blanchett-nina-hoss-electra-persona)
+- [Artists find creative haven in Côte d’Ivoire’s ‘calm and soothing’ Grand Bassam](https://www.theguardian.com/world/2026/jul/30/artists-creative-haven-cote-divoire-calm-soothing-grand-bassam)
+- [A rain festival with no rain: the Indian farmers bracing for a ‘super’ El Niño as monsoon arrives late](https://www.theguardian.com/global-development/2026/jul/30/rain-festival-indian-farmers-super-el-nino-raja-odisha)
+- [Deadly strikes on Ukrainian cities after Zelenskyy warns of ‘massive’ Russian attack](https://www.theguardian.com/world/2026/jul/30/ukraine-russia-missile-strikes-attack-kyiv)
+- [US launches fresh strikes on Iran after days-long pause, amid fears the war is widening](https://www.theguardian.com/world/2026/jul/30/us-strikes-iran-war-widening-iraq)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

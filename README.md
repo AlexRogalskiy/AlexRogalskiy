@@ -355,6 +355,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [OpenAI’s runaway AI agent also compromised a cloud platform customer](https://www.computerworld.com/article/4203049/openais-runaway-ai-agent-compromised-a-cloud-platform-customer.html)
+- [Apple preps for a wearable AI revolution](https://www.computerworld.com/article/4202882/apple-preps-for-a-wearable-ai-revolution.html)
+- [Q&amp;A: Nvidia genAI chief explains why open models matter in AI](https://www.computerworld.com/article/4202408/qa-nvidia-genai-chief-explains-why-open-models-matter-in-ai.html)
 - [AI has become Apple’s latest bug detective](https://www.computerworld.com/article/4202355/ai-has-become-apples-latest-bug-detective.html)
 - [Synsira Launches Kind Local Pro with 100% On-Device AI](https://www.computerworld.com/article/4202302/synsira-launches-kind-local-pro-with-100-on-device-ai.html)
 - [Anthropic rejects open-weight AI bans, calls for China chip controls and safety tests](https://www.computerworld.com/article/4202178/anthropic-rejects-open-weight-ai-bans-calls-for-china-chip-controls-and-safety-tests.html)
@@ -362,9 +365,6 @@
 - [Hackers are compromising hotel Wi-Fi gateways to hijack Microsoft 365 accounts](https://www.computerworld.com/article/4202088/hackers-are-compromising-hotel-wi-fi-gateways-to-hijack-microsoft-365-accounts-2.html)
 - [Samsung’s entry into AI-powered glasses forces CISOs to again consider corporate risk](https://www.computerworld.com/article/4202064/samsungs-entry-into-ai-powered-glasses-forces-cisos-to-again-consider-corporate-risk-2.html)
 - [Hugging Face CEO wants transparency after OpenAI’s AI incident](https://www.computerworld.com/article/4201963/hugging-face-ceo-calls-for-transparency-following-openais-ai-incident.html)
-- [The best thing about Apple’s smart glasses: what Cupertino rejects](https://www.computerworld.com/article/4201828/the-best-thing-about-apples-smart-glasses-what-cupertino-rejects.html)
-- [DEX buyer’s guide: Choose the right digital employee experience platform](https://www.computerworld.com/article/1612638/how-to-choose-digital-employee-experience-tool.html)
-- [As White House monitors latest OpenAI incident, Congress eyes an AI ‘kill switch’ for DHS](https://www.computerworld.com/article/4201314/the-white-house-is-monitoring-the-openai-incident-a-new-bill-could-give-government-agencies-an-ai-kill-switch.html)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

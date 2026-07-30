@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [More Tailscale tricks for your jailbroken Kindle](https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes)
-- [Cracking Windows Open: Porting RADV to Win32](https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html)
-- [User Interfaces of the Demo Scene](https://www.datagubbe.se/scenegui/)
-- [Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design](https://transformer-transformer.github.io/)
-- [Hooray for the Sockets Interface](https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/)
-- [Show HN: Lean4 Datalog DSL Based on Google Zanzibar for AI Projects](https://github.com/jagg-ix/zil-lean)
-- [LearnVector – Andrew Ng&#39;s AI company building one‑to‑one learning experiences](https://learnvector.ai/)
-- [Multiple Mouse Cursors in Wayland](https://blinry.org/multi-seat-wayland/)
-- [Lightweight Spring Boot Monitoring Without Prometheus and Grafana](https://pvrlabs.xyz/articles/lightweight-spring-boot-monitoring.html)
-- [The Difference Between a Button and a Link](https://unplannedobsolescence.com/blog/buttons-vs-links/)
+- [NSF pilots 4-year PhDs with industry research placements](https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four)
+- [Kuna: Decompiler Development in the Age of Coding Agents](https://noelo.org/blog/kuna-release/)
+- [Flume Water Monitor 915 MHz Security Is Pretty Good](https://waveformsecurity.com/blog/flume/)
+- [Logic for Programmers](https://logicforprogrammers.com/)
+- [Show HN: A local merge queue for parallel Claude Code agents](https://github.com/funador/claude-code-merge-queue)
+- [The Productivity Mirage](https://frantic.im/mirage/)
+- [Man and the Computer by John G. Kemeny &lpar;1972 book by the co-creator of BASIC&rpar;](https://archive.org/details/mancomputerbyjoh0000john)
+- [LLM Honeypot](https://llm2human.pages.dev/)
+- [AI&#39;s top startups are barely publishing their research](https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research)
+- [The Cold Email](https://zachholman.com/posts/cold-email)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [NSF pilots 4-year PhDs with industry research placements](https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four)
-- [Kuna: Decompiler Development in the Age of Coding Agents](https://noelo.org/blog/kuna-release/)
-- [Flume Water Monitor 915 MHz Security Is Pretty Good](https://waveformsecurity.com/blog/flume/)
-- [Logic for Programmers](https://logicforprogrammers.com/)
-- [Show HN: A local merge queue for parallel Claude Code agents](https://github.com/funador/claude-code-merge-queue)
-- [The Productivity Mirage](https://frantic.im/mirage/)
-- [Man and the Computer by John G. Kemeny &lpar;1972 book by the co-creator of BASIC&rpar;](https://archive.org/details/mancomputerbyjoh0000john)
-- [LLM Honeypot](https://llm2human.pages.dev/)
-- [AI&#39;s top startups are barely publishing their research](https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research)
-- [The Cold Email](https://zachholman.com/posts/cold-email)
+- [The AI trade now runs on borrowed money, and the lenders are repricing it](https://greyswansignals.com/?theme=dark)
+- [The Session You Cannot take with you](https://earendil.com/posts/session-portability/)
+- [The bond market isn&#39;t buying what Fed Chair Warsh is selling](https://www.reuters.com/commentary/reuters-open-interest/bond-market-isnt-buying-what-fed-chair-warsh-is-selling-2026-07-30/)
+- [A California aquifer may have crossed the point of no return](https://www.science.org/content/article/california-aquifer-may-have-crossed-point-no-return)
+- [The Religion of Speed](https://graybeard.ing/the-religion-of-speed/)
+- [The AI Aesthetic](https://blog.jim-nielsen.com/2026/ai-aesthetic/)
+- [Investigating three real-world incidents in our cybersecurity evaluations](https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals)
+- [I flagged two research papers for fake authors and both were accepted as orals](https://geospatialml.com/posts/reviewing-ai-slop/)
+- [Rune 1.1: adds Python, an Emacs editor, a symbol index and is now free](https://rune.build/blog/rune-1-1-release)
+- [Saber-toothed cats became inbred–and struggled to move–before they went extinct](https://www.science.org/content/article/saber-toothed-cats-became-inbred-and-struggled-move-they-went-extinct)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

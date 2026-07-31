@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Microsoft doubles down on multi-model AI as it builds a Copilot super app](https://www.computerworld.com/article/4203702/microsoft-doubles-down-on-multi-model-ai-as-it-builds-a-copilot-super-app-3.html)
+- [Microsoft confirms an AI worm is propagating through Copilot and other MS apps](https://www.computerworld.com/article/4203676/microsoft-confirms-an-ai-worm-is-propagating-through-copilot-and-other-ms-apps-2.html)
+- [Qualcomm shows Apple’s modem transition is almost complete](https://www.computerworld.com/article/4203487/qualcomm-shows-apples-modem-transition-is-almost-complete.html)
+- [Why Google Voice is your secret business weapon](https://www.computerworld.com/article/1627659/google-voice-business-users-guide.html)
 - [OpenAI’s runaway AI agent also compromised a cloud platform customer](https://www.computerworld.com/article/4203049/openais-runaway-ai-agent-compromised-a-cloud-platform-customer.html)
 - [Apple preps for a wearable AI revolution](https://www.computerworld.com/article/4202882/apple-preps-for-a-wearable-ai-revolution.html)
 - [Q&amp;A: Nvidia genAI chief explains why open models matter in AI](https://www.computerworld.com/article/4202408/qa-nvidia-genai-chief-explains-why-open-models-matter-in-ai.html)
 - [AI has become Apple’s latest bug detective](https://www.computerworld.com/article/4202355/ai-has-become-apples-latest-bug-detective.html)
 - [Synsira Launches Kind Local Pro with 100% On-Device AI](https://www.computerworld.com/article/4202302/synsira-launches-kind-local-pro-with-100-on-device-ai.html)
 - [Anthropic rejects open-weight AI bans, calls for China chip controls and safety tests](https://www.computerworld.com/article/4202178/anthropic-rejects-open-weight-ai-bans-calls-for-china-chip-controls-and-safety-tests.html)
-- [Microsoft’s Nadella calls out Big AI for hypocrisy — but what about his own company?](https://www.computerworld.com/article/4201955/microsofts-nadella-calls-out-big-ai-for-hypocrisy-but-what-about-his-own-company.html)
-- [Hackers are compromising hotel Wi-Fi gateways to hijack Microsoft 365 accounts](https://www.computerworld.com/article/4202088/hackers-are-compromising-hotel-wi-fi-gateways-to-hijack-microsoft-365-accounts-2.html)
-- [Samsung’s entry into AI-powered glasses forces CISOs to again consider corporate risk](https://www.computerworld.com/article/4202064/samsungs-entry-into-ai-powered-glasses-forces-cisos-to-again-consider-corporate-risk-2.html)
-- [Hugging Face CEO wants transparency after OpenAI’s AI incident](https://www.computerworld.com/article/4201963/hugging-face-ceo-calls-for-transparency-following-openais-ai-incident.html)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

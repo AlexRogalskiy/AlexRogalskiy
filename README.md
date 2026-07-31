@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Death toll in Japan earthquake rises to 28 as aftershock and heat complicate rescue efforts](https://www.theguardian.com/world/2026/jul/30/japan-earthquake-death-toll-rises)
-- [The body snatchers: how a young Nigerian man was lured to London in an organ-trafficking plot](https://www.theguardian.com/news/ng-interactive/2026/jul/30/body-snatchers-young-nigerian-man-lured-london-organ-trafficking-plot)
-- [Burnham the crowd-pleaser knows how to make friends, but he’ll be defined by how he makes enemies | Andy Beckett](https://www.theguardian.com/commentisfree/2026/jul/30/andy-burnham-prime-minister-politics-change)
-- [Carmakers ‘delaying investment in UK factories until EV sales rules relaxed’](https://www.theguardian.com/business/2026/jul/30/carmakers-delaying-investment-in-uk-factories-until-ev-sales-rules-relaxed)
-- [‘It makes you feel you’ve got a really dirty house’: what’s behind the UK’s plagues of flies?](https://www.theguardian.com/environment/2026/jul/30/house-files-uk-plague-homes)
-- [‘People say I’m pouring Coca-Cola into fine malt whisky’: why is the National Theatre shaking up Sophocles?](https://www.theguardian.com/stage/2026/jul/30/sophocles-bergman-cate-blanchett-nina-hoss-electra-persona)
-- [Artists find creative haven in Côte d’Ivoire’s ‘calm and soothing’ Grand Bassam](https://www.theguardian.com/world/2026/jul/30/artists-creative-haven-cote-divoire-calm-soothing-grand-bassam)
-- [A rain festival with no rain: the Indian farmers bracing for a ‘super’ El Niño as monsoon arrives late](https://www.theguardian.com/global-development/2026/jul/30/rain-festival-indian-farmers-super-el-nino-raja-odisha)
-- [Deadly strikes on Ukrainian cities after Zelenskyy warns of ‘massive’ Russian attack](https://www.theguardian.com/world/2026/jul/30/ukraine-russia-missile-strikes-attack-kyiv)
-- [US launches fresh strikes on Iran after days-long pause, amid fears the war is widening](https://www.theguardian.com/world/2026/jul/30/us-strikes-iran-war-widening-iraq)
+- [TV tonight: a great comedy drama about a flawed Muslim American](https://www.theguardian.com/tv-and-radio/2026/jul/31/tv-tonight-ramy-great-comedy-drama-about-flawed-muslim-american)
+- [Benjamina Ebuehi’s‘ summer berry dutch baby recipe](https://www.theguardian.com/food/2026/jul/31/summer-berry-dutch-baby-recipe-benjamina-ebuehi)
+- [Crop shop: what to wear with culottes](https://www.theguardian.com/fashion/gallery/2026/jul/31/what-to-wear-with-culottes)
+- [Think our basic rights are safe? In the age of oligarchs and corporate lobbying, think again | George Monbiot](https://www.theguardian.com/commentisfree/2026/jul/31/basic-rights-global-freedoms-prosecution-rajiv-menon)
+- [‘It’s alright for them’: private schools and golf courses stay green despite England’s hosepipe bans](https://www.theguardian.com/environment/2026/jul/31/england-hosepipe-ban-drought-private-schools-golf-courses-green-grass)
+- [Fifa to push ahead with consultation on plan while insisting ‘nobody is selling football’](https://www.theguardian.com/football/2026/jul/31/fifa-world-cup-privatisation-consultation-sell-off-plan)
+- [‘I was so self-assured in my early 20s. Then my frontal lobe hit’: Rachel Chinouriri, every pop star’s favourite UK pop star](https://www.theguardian.com/music/2026/jul/31/rachel-chinouriri-interview-favourite-uk-pop-star-second-album)
+- [Experience: I drive a bus for dogs](https://www.theguardian.com/lifeandstyle/2026/jul/31/experience-i-drive-a-bus-for-dogs)
+- [Will brutal wildfires force French leaders to take climate crisis seriously?](https://www.theguardian.com/world/2026/jul/31/wildfires-french-leaders-climate-crisis-elections)
+- [Soy sauce refills and reused jars: can Philippines’ tingi culture hold back deluge of plastic waste?](https://www.theguardian.com/environment/2026/jul/31/philippines-tingi-zero-waste-shop-reuse-refill-plastic)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

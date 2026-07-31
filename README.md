@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [DoorDash Air](https://twitter.com/stanleytang/status/2082451154907353112)
-- [Couple Stalked by eBay Settle for $56M](https://www.nytimes.com/2026/07/28/technology/ebay-settles-stalking-case.html)
-- [Is the bottleneck on AI at your company technical or organizational?](https://theworkingmodel.co/)
-- [The U.S. economy in 2026: What to watch for](https://siepr.stanford.edu/publications/policy-brief/us-economy-2026-what-watch)
-- [The Rise of Million-Dollar Companies with Just One Employee](https://www.wsj.com/tech/ai/the-rise-of-million-dollar-companies-with-just-one-employee-f36a77c1)
-- [Outside LLMs – Outside Lands and Codex](https://outsidellms.com/)
-- [Global surge in copper theft snares telecoms and trains](https://www.ft.com/content/5ee7595d-a85d-432d-b269-90f1b4cf1920)
-- [Test the Email Verification Protocol with an origin trial](https://developer.chrome.com/blog/email-verification-protocol-origin-trial)
-- [How IPTV delivery works, end to end](https://iptvproviders.online/)
-- [South Korea&#39;s AI Bubble Just Popped [video]](https://www.youtube.com/watch?v=hy90LdpEUvQ)
+- [Nvidia&#39;s $750B AI bet deepens fears of a circular tech bubble](https://www.latimes.com/business/story/2026-07-29/nvidias-750-billion-ai-bet-deepens-fears-of-circular-tech-bubble)
+- [Show HN: What should the GUI for AI agents look like?](https://marbleos.com/demo)
+- [The nation&#39;s harshest data privacy law collides with a political problem](https://www.politico.com/news/2026/07/24/new-jersey-data-privacy-law-politics-01011055)
+- [Let&#39;s Make the Worst Htmx](https://zserge.com/posts/worst-htmx-ever/)
+- [LinkedIn Introduces a &#39;Seems Like AI Slop&#39; Button](https://www.404media.co/linkedin-introduces-a-seems-like-ai-slop-button/)
+- [Oooo – Digital Tape Loops](https://oooo.audio/)
+- [Hi, Jinks](https://blog.gingerbeardman.com/2026/07/30/hi-jinks/)
+- [Disney+ removes 4K and HDR10 in Europe](https://www.flatpanelshd.com/news.php?subaction=showfull&id=1785420735)
+- [Claude Opus 5 jailbreak with a 3-word prompt](https://twitter.com/i/status/2082566186785480708)
+- [RosaicLabs, Atom RTL, and 32-Tile AMX: Trying to Piece Together a x86 Puzzle](https://chipsandcheese.com/p/rosaiclabs-atom-rtl-and-32-tile-amx)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

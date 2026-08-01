@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Nvidia&#39;s $750B AI bet deepens fears of a circular tech bubble](https://www.latimes.com/business/story/2026-07-29/nvidias-750-billion-ai-bet-deepens-fears-of-circular-tech-bubble)
-- [Show HN: What should the GUI for AI agents look like?](https://marbleos.com/demo)
-- [The nation&#39;s harshest data privacy law collides with a political problem](https://www.politico.com/news/2026/07/24/new-jersey-data-privacy-law-politics-01011055)
-- [Let&#39;s Make the Worst Htmx](https://zserge.com/posts/worst-htmx-ever/)
-- [LinkedIn Introduces a &#39;Seems Like AI Slop&#39; Button](https://www.404media.co/linkedin-introduces-a-seems-like-ai-slop-button/)
-- [Oooo – Digital Tape Loops](https://oooo.audio/)
-- [Hi, Jinks](https://blog.gingerbeardman.com/2026/07/30/hi-jinks/)
-- [Disney+ removes 4K and HDR10 in Europe](https://www.flatpanelshd.com/news.php?subaction=showfull&id=1785420735)
-- [Claude Opus 5 jailbreak with a 3-word prompt](https://twitter.com/i/status/2082566186785480708)
-- [RosaicLabs, Atom RTL, and 32-Tile AMX: Trying to Piece Together a x86 Puzzle](https://chipsandcheese.com/p/rosaiclabs-atom-rtl-and-32-tile-amx)
+- [Term-wm: Cross-platform floating/tiling terminal window multiplexer](https://crates.io/crates/term-wm)
+- [Show HN: Equivalency Kernel – mapping emotions to recursive system states](https://github.com/jamesberge-coder/equivalency-kernel)
+- [Global Call Threat Report &lpar;2025&rpar; [pdf]](https://work.hiya.com/hubfs/2025/Global%20Call%20Threat%20Report_2025Q2.pdf)
+- [Virtual accelerated GPU device for macOS VMs](https://reims-vgpu.com/)
+- [How to Build a Real-Time Indexing Pipeline with Redis and PostgreSQL 19](https://bytepith.com/article/postgresql-19-fixes-notify-redis-pipelines-scale)
+- [Geometric Dimensioning and Tolerancing](https://en.wikipedia.org/wiki/Geometric_dimensioning_and_tolerancing)
+- [Oslo Report](https://en.wikipedia.org/wiki/Oslo_Report)
+- [The coming de-enshittification boom &lpar;2025&rpar;](https://blog.zgp.org/de-enshittification/)
+- [Fine-Tuning from First Principles: LoRA, QLoRA, Serverless Fine-Tuning](https://debnsuma.github.io/my-blog/posts/lora-serverless-fine-tuning/)
+- [Hardening Google Cloud IAM with CEL Conditions and Deny Policies](https://cloud.google.com/blog/topics/developers-practitioners/generosity-under-conditions-hardening-google-cloud-access-management/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

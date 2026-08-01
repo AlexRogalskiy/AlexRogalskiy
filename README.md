@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Google has used AI to patch 1,072 vulnerabilities in Chrome](https://www.computerworld.com/article/4204037/google-has-used-ai-to-patch-1072-vulnerabilities-in-chrome.html)
+- [Apple’s Tim Cook era ends with a record $109B quarter](https://www.computerworld.com/article/4203974/apples-tim-cook-era-ends-with-a-record-109b-quarter.html)
+- [Reporter’s notebook: In Dubai’s sun and sand, AI, server farms, and optimism bloom](https://www.computerworld.com/article/4204008/reporters-notebook-in-dubais-sun-and-sand-ai-server-farms-and-optimism-bloom.html)
+- [Data center developer eyes disused newpaper printing plant](https://www.computerworld.com/article/4203999/data-center-developer-eyes-disused-newpaper-printing-plant-2.html)
+- [DefCon security conference bans smart glasses with recording capabilities](https://www.computerworld.com/article/4203983/defcon-security-conference-bans-smart-glasses-with-recording-capabilities-2.html)
+- [12 top productivity tips for Microsoft Edge](https://www.computerworld.com/article/1613111/microsoft-edge-productivity-tips.html)
 - [Microsoft doubles down on multi-model AI as it builds a Copilot super app](https://www.computerworld.com/article/4203702/microsoft-doubles-down-on-multi-model-ai-as-it-builds-a-copilot-super-app-3.html)
-- [Microsoft confirms an AI worm is propagating through Copilot and other MS apps](https://www.computerworld.com/article/4203676/microsoft-confirms-an-ai-worm-is-propagating-through-copilot-and-other-ms-apps-2.html)
+- [Copilot worm can spread through Microsoft Word docs](https://www.computerworld.com/article/4203676/copilot-worm-can-spread-through-microsoft-word-docs-2.html)
 - [Qualcomm shows Apple’s modem transition is almost complete](https://www.computerworld.com/article/4203487/qualcomm-shows-apples-modem-transition-is-almost-complete.html)
 - [Why Google Voice is your secret business weapon](https://www.computerworld.com/article/1627659/google-voice-business-users-guide.html)
-- [OpenAI’s runaway AI agent also compromised a cloud platform customer](https://www.computerworld.com/article/4203049/openais-runaway-ai-agent-compromised-a-cloud-platform-customer.html)
-- [Apple preps for a wearable AI revolution](https://www.computerworld.com/article/4202882/apple-preps-for-a-wearable-ai-revolution.html)
-- [Q&amp;A: Nvidia genAI chief explains why open models matter in AI](https://www.computerworld.com/article/4202408/qa-nvidia-genai-chief-explains-why-open-models-matter-in-ai.html)
-- [AI has become Apple’s latest bug detective](https://www.computerworld.com/article/4202355/ai-has-become-apples-latest-bug-detective.html)
-- [Synsira Launches Kind Local Pro with 100% On-Device AI](https://www.computerworld.com/article/4202302/synsira-launches-kind-local-pro-with-100-on-device-ai.html)
-- [Anthropic rejects open-weight AI bans, calls for China chip controls and safety tests](https://www.computerworld.com/article/4202178/anthropic-rejects-open-weight-ai-bans-calls-for-china-chip-controls-and-safety-tests.html)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

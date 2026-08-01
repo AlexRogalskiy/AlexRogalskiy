@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [TV tonight: a great comedy drama about a flawed Muslim American](https://www.theguardian.com/tv-and-radio/2026/jul/31/tv-tonight-ramy-great-comedy-drama-about-flawed-muslim-american)
-- [Benjamina Ebuehi’s‘ summer berry dutch baby recipe](https://www.theguardian.com/food/2026/jul/31/summer-berry-dutch-baby-recipe-benjamina-ebuehi)
-- [Crop shop: what to wear with culottes](https://www.theguardian.com/fashion/gallery/2026/jul/31/what-to-wear-with-culottes)
-- [Think our basic rights are safe? In the age of oligarchs and corporate lobbying, think again | George Monbiot](https://www.theguardian.com/commentisfree/2026/jul/31/basic-rights-global-freedoms-prosecution-rajiv-menon)
-- [‘It’s alright for them’: private schools and golf courses stay green despite England’s hosepipe bans](https://www.theguardian.com/environment/2026/jul/31/england-hosepipe-ban-drought-private-schools-golf-courses-green-grass)
-- [Fifa to push ahead with consultation on plan while insisting ‘nobody is selling football’](https://www.theguardian.com/football/2026/jul/31/fifa-world-cup-privatisation-consultation-sell-off-plan)
-- [‘I was so self-assured in my early 20s. Then my frontal lobe hit’: Rachel Chinouriri, every pop star’s favourite UK pop star](https://www.theguardian.com/music/2026/jul/31/rachel-chinouriri-interview-favourite-uk-pop-star-second-album)
-- [Experience: I drive a bus for dogs](https://www.theguardian.com/lifeandstyle/2026/jul/31/experience-i-drive-a-bus-for-dogs)
-- [Will brutal wildfires force French leaders to take climate crisis seriously?](https://www.theguardian.com/world/2026/jul/31/wildfires-french-leaders-climate-crisis-elections)
-- [Soy sauce refills and reused jars: can Philippines’ tingi culture hold back deluge of plastic waste?](https://www.theguardian.com/environment/2026/jul/31/philippines-tingi-zero-waste-shop-reuse-refill-plastic)
+- [‘Proteinmaxxing’ could lead to higher prices for infant formula, say experts](https://www.theguardian.com/business/2026/aug/01/proteinmaxxing-could-lead-to-higher-prices-for-infant-formula-say-experts)
+- [‘I felt sick that he was near my mum’: a top amputation surgeon had his own legs removed due to a fetish. Were his patients safe?](https://www.theguardian.com/uk-news/2026/aug/01/neil-hopper-surgeon-amputated-legs-fetish-extreme-mutilation-patients-questions)
+- [The idealism of the Esperanto movement, a plague of flies and a clinic in a deep salt mine](https://www.theguardian.com/news/2026/aug/01/the-idealism-of-the-esperanto-movement-a-plague-of-flies-and-a-clinic-in-a-deep-salt-mine)
+- [From Spider-Man: Brand New Day to Ariana Grande: your complete entertainment guide to the week ahead](https://www.theguardian.com/culture/2026/aug/01/entertainment-week-ahead-spider-man-brand-new-day-ariana-grande-album-ted-lasso)
+- [From Ish to Jared Leto: Hollywood’s Dark Secret – the week in rave reviews](https://www.theguardian.com/culture/2026/aug/01/from-ish-to-jared-leto-hollywoods-dark-secret-the-week-in-rave-reviews)
+- [The final hit: Is Glasgow’s 25-year gruesome gangland feud finally over?](https://www.theguardian.com/news/ng-interactive/2026/aug/01/glasgow-25-year-gruesome-gangland-feud-finally-over)
+- [Tim Dowling: can I conquer my wife’s book club? I can certainly divide it](https://www.theguardian.com/lifeandstyle/2026/aug/01/tim-dowling-can-i-conquer-book-club-can-certainly-divide-it)
+- [Like Burnham, I was an altar boy. His Catholic upbringing is shaping the way he governs |Julian Coman](https://www.theguardian.com/commentisfree/2026/aug/01/andy-burnham-catholic-faith-shaping-way-governs)
+- [Two weeks into the school holidays … and counting: the Becky Barnicoat cartoon](https://www.theguardian.com/lifeandstyle/picture/2026/aug/01/school-holidays-roll-on-september-becky-barnicoat-cartoon)
+- [Noma restaurant prepares to reopen under new leadership after abuse allegations](https://www.theguardian.com/world/2026/aug/01/noma-restaurant-reopens-new-leadership-abuse-allegations)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

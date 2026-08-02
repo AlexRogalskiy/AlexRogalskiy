@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Term-wm: Cross-platform floating/tiling terminal window multiplexer](https://crates.io/crates/term-wm)
-- [Show HN: Equivalency Kernel – mapping emotions to recursive system states](https://github.com/jamesberge-coder/equivalency-kernel)
-- [Global Call Threat Report &lpar;2025&rpar; [pdf]](https://work.hiya.com/hubfs/2025/Global%20Call%20Threat%20Report_2025Q2.pdf)
-- [Virtual accelerated GPU device for macOS VMs](https://reims-vgpu.com/)
-- [How to Build a Real-Time Indexing Pipeline with Redis and PostgreSQL 19](https://bytepith.com/article/postgresql-19-fixes-notify-redis-pipelines-scale)
-- [Geometric Dimensioning and Tolerancing](https://en.wikipedia.org/wiki/Geometric_dimensioning_and_tolerancing)
-- [Oslo Report](https://en.wikipedia.org/wiki/Oslo_Report)
-- [The coming de-enshittification boom &lpar;2025&rpar;](https://blog.zgp.org/de-enshittification/)
-- [Fine-Tuning from First Principles: LoRA, QLoRA, Serverless Fine-Tuning](https://debnsuma.github.io/my-blog/posts/lora-serverless-fine-tuning/)
-- [Hardening Google Cloud IAM with CEL Conditions and Deny Policies](https://cloud.google.com/blog/topics/developers-practitioners/generosity-under-conditions-hardening-google-cloud-access-management/)
+- [A Tech Founder Wanted to Start a New Country. An Actual Country Got in the Way](https://www.wsj.com/tech/a-tech-founder-wanted-to-start-a-new-country-an-actual-country-got-in-the-way-52cd21e5)
+- [Show HN: I don&#39;t code – I run a self-correcting protocol across 4 projects](https://github.com/Sovereign34/agent-protocol-notes)
+- [Pixel 11 specs and price leak with no surprises](https://www.theverge.com/tech/974238/pixel-11-specs-and-price-leak)
+- [U.S. sanctions Iranian firms for Bitcoin maritime insurance operation in Hormuz](https://home.treasury.gov/news/press-releases/sb0581)
+- [Game Industry Hardship Fund](https://itch.io/b/3802/game-industry-hardship-fund)
+- [ebookfs – a 9P eBook library filesystem](https://github.com/ramblingenzyme/ebookfs)
+- [ao486: x86-compatible Verilog core implementing all features of a 486 SX &lpar;2014&rpar;](https://github.com/alfikpl/ao486)
+- [Challenge GPT and Claude to Run Their Own Lemonade Stands[video]](https://www.youtube.com/watch?v=6Ide5pRLR8Y)
+- [Strangers pretrained a language model with HF PRs and a cron job](https://news.ycombinator.com/item?id=49141174)
+- [&#39;Naked Dressing&#39; Is Spreading and It&#39;s Making Things Awkward](https://www.wsj.com/style/fashion/naked-dressing-hailey-bieber-madonna-d2a1d94b)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

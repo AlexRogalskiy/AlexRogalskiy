@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [‘Proteinmaxxing’ could lead to higher prices for infant formula, say experts](https://www.theguardian.com/business/2026/aug/01/proteinmaxxing-could-lead-to-higher-prices-for-infant-formula-say-experts)
-- [‘I felt sick that he was near my mum’: a top amputation surgeon had his own legs removed due to a fetish. Were his patients safe?](https://www.theguardian.com/uk-news/2026/aug/01/neil-hopper-surgeon-amputated-legs-fetish-extreme-mutilation-patients-questions)
-- [The idealism of the Esperanto movement, a plague of flies and a clinic in a deep salt mine](https://www.theguardian.com/news/2026/aug/01/the-idealism-of-the-esperanto-movement-a-plague-of-flies-and-a-clinic-in-a-deep-salt-mine)
-- [From Spider-Man: Brand New Day to Ariana Grande: your complete entertainment guide to the week ahead](https://www.theguardian.com/culture/2026/aug/01/entertainment-week-ahead-spider-man-brand-new-day-ariana-grande-album-ted-lasso)
-- [From Ish to Jared Leto: Hollywood’s Dark Secret – the week in rave reviews](https://www.theguardian.com/culture/2026/aug/01/from-ish-to-jared-leto-hollywoods-dark-secret-the-week-in-rave-reviews)
-- [The final hit: Is Glasgow’s 25-year gruesome gangland feud finally over?](https://www.theguardian.com/news/ng-interactive/2026/aug/01/glasgow-25-year-gruesome-gangland-feud-finally-over)
-- [Tim Dowling: can I conquer my wife’s book club? I can certainly divide it](https://www.theguardian.com/lifeandstyle/2026/aug/01/tim-dowling-can-i-conquer-book-club-can-certainly-divide-it)
-- [Like Burnham, I was an altar boy. His Catholic upbringing is shaping the way he governs |Julian Coman](https://www.theguardian.com/commentisfree/2026/aug/01/andy-burnham-catholic-faith-shaping-way-governs)
-- [Two weeks into the school holidays … and counting: the Becky Barnicoat cartoon](https://www.theguardian.com/lifeandstyle/picture/2026/aug/01/school-holidays-roll-on-september-becky-barnicoat-cartoon)
-- [Noma restaurant prepares to reopen under new leadership after abuse allegations](https://www.theguardian.com/world/2026/aug/01/noma-restaurant-reopens-new-leadership-abuse-allegations)
+- [Shooting at In-N-Out Burger restaurant in Idaho leaves three people dead](https://www.theguardian.com/us-news/2026/aug/02/shooting-at-in-n-out-burger-restaurant-in-idaho-leaves-multiple-people-dead-police-say)
+- [Undercover police unit closed down over unjustified surveillance, spycops inquiry told](https://www.theguardian.com/uk-news/2026/aug/02/spycops-inquiry-undercover-police-unit-sds-closed-john-boutcher-unjustified-surveillance)
+- [‘This is where democracy beats totalitarianism’: Ukraine’s drone strike force takes the fight to Russia](https://www.theguardian.com/news/ng-interactive/2026/aug/02/this-is-where-democracy-beats-totalitarianism-ukraines-drone-strike-force-takes-the-fight-to-russia)
+- [‘£5,800 on a watch?!’ What happened when five couples kept separate money diaries – then revealed all to their partners?](https://www.theguardian.com/lifeandstyle/2026/aug/02/five-couples-separate-money-diaries-revealed-all-partners)
+- [Chez Rose, London W1: ‘One of the dining highlights of 2026’ – restaurant review](https://www.theguardian.com/food/2026/aug/02/chez-rose-london-w1-grace-dent-restaurant-review)
+- [Trump climbs down on Iran strikes after Saudi alarm and threats from Tehran](https://www.theguardian.com/world/2026/aug/02/trump-climbs-down-on-iran-strikes-after-saudi-alarm-and-threats-from-tehran)
+- [Anti-LGBTQ+ laws are on the rise across west Africa, campaigners warn](https://www.theguardian.com/world/2026/aug/02/anti-lgbtq-laws-are-on-the-rise-across-west-africa-campaigners-warn)
+- [‘Climate change kills’: Pedro Sánchez speaks plain truth to Spain’s deniers](https://www.theguardian.com/environment/2026/aug/02/climate-change-kills-pedro-sanchez-speaks-plain-truth-to-spains-deniers)
+- [Apparently, I’ve got ‘comfort creep’. I prefer to think of it as finally knowing what I like | Polly Hudson](https://www.theguardian.com/commentisfree/2026/aug/02/comfort-creep)
+- [Ukraine war briefing: Strikes on three Russian oil refineries and sanctioned ship](https://www.theguardian.com/world/2026/aug/02/ukraine-war-briefing-strikes-on-three-russian-oil-refineries-and-sanctioned-ship)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

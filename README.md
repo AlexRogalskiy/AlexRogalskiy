@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [What Liberal Arts Education Is for &lpar;2024&rpar;](https://innig.net/teaching/liberal-arts-manifesto)
-- [About 100 firefighters are convicted of arson, every year](https://www.firerescue1.com/arson-investigation/articles/expert-firefighter-arson-a-long-standing-issue-xHXLFAdYVcQPiuPU/)
-- [BMW Spider-Man in-car advertising](https://consumerrights.wiki/w/BMW_Spider-Man_in-car_advertising)
-- [The development pipeline is a production system](https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system)
-- [Flint: A Visualization Language for the AI Era](https://microsoft.github.io/flint-chart/)
-- [A Week in Matrix](https://piegames.de/dumps/a-week-in-matrix/)
-- [How to Exist](https://www.raptitude.com/2026/07/how-to-exist/)
-- [Show HN: I worked on a new browser for 2 years, today it passed Acid 3](https://code.intellios.ai/cwbrowser/)
-- [Loops &lpar;YC W22&rpar; Is Hiring a Product Educator](https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator)
-- [Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena](https://arxiv.org/abs/2607.28233)
+- [Running Kimi K3 on MI355X at Better Performance per Dollar Than B300](https://www.wafer.ai/blog/kimi-k3-mi355x)
+- [Don&#39;t credit the LLM](https://isaacsu.com/2026/08/dont-credit-the-llm/)
+- [MkLinux and the pimped-out Apple Workgroup Server 9150](http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html)
+- [Linux desktop market share has hit over 10% in North America](https://old.reddit.com/r/linux/comments/1vcpk8i/linux_desktop_market_share_has_hit_over_10_in/)
+- [Plug-in solar is coming. Plug-in batteries should follow](https://www.regen.co.uk/insights/plug-in-solar-is-coming-plug-in-batteries-should-follow)
+- [Deep-sea vehicles spot &#39;alien&#39; sharks deep beneath the waves in the Pacific](https://www.science.org/content/article/deep-sea-vehicles-spot-alien-sharks-deep-beneath-waves-pacific#)
+- [Four Time Scales for Technology Development and Deployment](https://rodneybrooks.com/four-time-scales-for-technology-development-and-deployment/)
+- [When random.bytes&lpar;&rpar; runs but doesn&#39;t work](https://insider.btcpp.dev/p/when-randombytes-runs-but-doesnt)
+- [Show HN: I&#39;m a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built](https://github.com/tom-ilan/cycloidal_gearbox)
+- [Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators](https://costperprompt.com/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

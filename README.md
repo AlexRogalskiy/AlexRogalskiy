@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Shooting at In-N-Out Burger restaurant in Idaho leaves three people dead](https://www.theguardian.com/us-news/2026/aug/02/shooting-at-in-n-out-burger-restaurant-in-idaho-leaves-multiple-people-dead-police-say)
-- [Undercover police unit closed down over unjustified surveillance, spycops inquiry told](https://www.theguardian.com/uk-news/2026/aug/02/spycops-inquiry-undercover-police-unit-sds-closed-john-boutcher-unjustified-surveillance)
-- [‘This is where democracy beats totalitarianism’: Ukraine’s drone strike force takes the fight to Russia](https://www.theguardian.com/news/ng-interactive/2026/aug/02/this-is-where-democracy-beats-totalitarianism-ukraines-drone-strike-force-takes-the-fight-to-russia)
-- [‘£5,800 on a watch?!’ What happened when five couples kept separate money diaries – then revealed all to their partners?](https://www.theguardian.com/lifeandstyle/2026/aug/02/five-couples-separate-money-diaries-revealed-all-partners)
-- [Chez Rose, London W1: ‘One of the dining highlights of 2026’ – restaurant review](https://www.theguardian.com/food/2026/aug/02/chez-rose-london-w1-grace-dent-restaurant-review)
-- [Trump climbs down on Iran strikes after Saudi alarm and threats from Tehran](https://www.theguardian.com/world/2026/aug/02/trump-climbs-down-on-iran-strikes-after-saudi-alarm-and-threats-from-tehran)
-- [Anti-LGBTQ+ laws are on the rise across west Africa, campaigners warn](https://www.theguardian.com/world/2026/aug/02/anti-lgbtq-laws-are-on-the-rise-across-west-africa-campaigners-warn)
-- [‘Climate change kills’: Pedro Sánchez speaks plain truth to Spain’s deniers](https://www.theguardian.com/environment/2026/aug/02/climate-change-kills-pedro-sanchez-speaks-plain-truth-to-spains-deniers)
-- [Apparently, I’ve got ‘comfort creep’. I prefer to think of it as finally knowing what I like | Polly Hudson](https://www.theguardian.com/commentisfree/2026/aug/02/comfort-creep)
-- [Ukraine war briefing: Strikes on three Russian oil refineries and sanctioned ship](https://www.theguardian.com/world/2026/aug/02/ukraine-war-briefing-strikes-on-three-russian-oil-refineries-and-sanctioned-ship)
+- [TV tonight: Strictly’s Amy Dowden and Carlos Gu join Celebrity Hunted](https://www.theguardian.com/tv-and-radio/2026/aug/03/tv-tonight-strictly-amy-dowden-carlos-gu-celebrity-hunted)
+- [NHS mental health trust plans £25m in cuts to jobs and services](https://www.theguardian.com/society/2026/aug/03/nhs-mental-health-trust-plans-25m-in-cuts-to-jobs-and-services)
+- [Finally, we have a PM for the digital age. But real change requires more than just being good on camera | Nesrine Malik](https://www.theguardian.com/commentisfree/2026/aug/03/andy-burnham-digital-age-political-success-good-on-camera)
+- [Pollock tacos and hake with saffron aïli and butter beans | Andy Beynon’s summer fish recipes](https://www.theguardian.com/food/2026/aug/03/summer-fish-recipes-pollock-tacos-hake-saffron-aioli-butter-beans-andy-beynon)
+- [Blanche formally rescinds Trump’s $1.8bn ‘anti-weaponization fund’ ahead of nomination hearing](https://www.theguardian.com/us-news/2026/aug/03/blanche-formally-rescinds-trumps-18bn-anti-weaponization-fund-ahead-of-nomination-hearing)
+- [Why has Trump stepped in to prop up Japan’s currency?](https://www.theguardian.com/world/2026/aug/03/trump-japan-currency-yen-explainer)
+- [New Zealand legislation making English an official language ridiculed as ‘pathetic’](https://www.theguardian.com/world/2026/aug/03/new-zealand-english-an-official-language-bill)
+- [Is Ireland’s unprotected ocean the weak link in European defence?](https://www.theguardian.com/world/2026/aug/03/is-irelands-unprotected-ocean-the-weak-link-in-european-defence)
+- [Liechtenstein’s archaic abortion laws need to be modernised. But a prince is standing in the way | Gabriella Alvarez-Hummel](https://www.theguardian.com/commentisfree/2026/aug/03/liechtenstein-abortion-law-modernised-prince-alois)
+- [‘Am I 68? 69?’ Irvine Welsh on growing old, getting clean, bashing out his new novel – and flirting with guns](https://www.theguardian.com/lifeandstyle/2026/aug/03/irvine-welsh-trainspotting-new-novel-can-nothing-save-us)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [A Tech Founder Wanted to Start a New Country. An Actual Country Got in the Way](https://www.wsj.com/tech/a-tech-founder-wanted-to-start-a-new-country-an-actual-country-got-in-the-way-52cd21e5)
-- [Show HN: I don&#39;t code – I run a self-correcting protocol across 4 projects](https://github.com/Sovereign34/agent-protocol-notes)
-- [Pixel 11 specs and price leak with no surprises](https://www.theverge.com/tech/974238/pixel-11-specs-and-price-leak)
-- [U.S. sanctions Iranian firms for Bitcoin maritime insurance operation in Hormuz](https://home.treasury.gov/news/press-releases/sb0581)
-- [Game Industry Hardship Fund](https://itch.io/b/3802/game-industry-hardship-fund)
-- [ebookfs – a 9P eBook library filesystem](https://github.com/ramblingenzyme/ebookfs)
-- [ao486: x86-compatible Verilog core implementing all features of a 486 SX &lpar;2014&rpar;](https://github.com/alfikpl/ao486)
-- [Challenge GPT and Claude to Run Their Own Lemonade Stands[video]](https://www.youtube.com/watch?v=6Ide5pRLR8Y)
-- [Strangers pretrained a language model with HF PRs and a cron job](https://news.ycombinator.com/item?id=49141174)
-- [&#39;Naked Dressing&#39; Is Spreading and It&#39;s Making Things Awkward](https://www.wsj.com/style/fashion/naked-dressing-hailey-bieber-madonna-d2a1d94b)
+- [The Ancient Roots of Modern Winemaking](https://nautil.us/the-ancient-roots-of-modern-winemaking-1281970)
+- [Return-to-office mandates are killing workplace trust](https://thehill.com/opinion/technology/5992056-office-attendance-backlash/)
+- [Only 1/8 turbines in Hungarian Paks NPP still operational, shutdown imminent](https://index.hu/gazdasag/2026/08/03/paksi-atomeromu-leallas-kormany-atomenergia-energia-veszelyhelyzet-energiavalsag-magyar-peter/)
+- [Go json/v2](https://pkg.go.dev/encoding/json/v2)
+- [Dijkstra: The End of Computing Science &lpar;2000&rpar; [pdf]](https://www.cs.utexas.edu/~EWD/ewd13xx/EWD1304.PDF)
+- [Show HN: Open-sourcing my market mental map](https://research.oguzbilgic.com)
+- [lexicon of computing &lpar;2001&rpar;](https://web.archive.org/web/20011128152100/http://www.cs.washington.edu/homes/klee/misc/lexicon.html)
+- [Netflix sued for $105M after unreleased Nicolas Cage movie is stolen](https://www.nbcnews.com/pop-culture/pop-culture-news/netflix-sued-105-million-unreleased-nicolas-cage-movie-stolen-desk-stu-rcna590214)
+- [Show HN: Kwayk – Reimplementing Quake in Qt Quick3D with Jolt Physics](https://github.com/glazunov999/Kwayk)
+- [How Go Players Disempower Themselves to AI](https://www.lesswrong.com/posts/nR3DkyivzF4ve97oM/how-go-players-disempower-themselves-to-ai)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

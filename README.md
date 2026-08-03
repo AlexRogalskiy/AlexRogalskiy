@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Running Kimi K3 on MI355X at Better Performance per Dollar Than B300](https://www.wafer.ai/blog/kimi-k3-mi355x)
-- [Don&#39;t credit the LLM](https://isaacsu.com/2026/08/dont-credit-the-llm/)
-- [MkLinux and the pimped-out Apple Workgroup Server 9150](http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html)
-- [Linux desktop market share has hit over 10% in North America](https://old.reddit.com/r/linux/comments/1vcpk8i/linux_desktop_market_share_has_hit_over_10_in/)
-- [Plug-in solar is coming. Plug-in batteries should follow](https://www.regen.co.uk/insights/plug-in-solar-is-coming-plug-in-batteries-should-follow)
-- [Deep-sea vehicles spot &#39;alien&#39; sharks deep beneath the waves in the Pacific](https://www.science.org/content/article/deep-sea-vehicles-spot-alien-sharks-deep-beneath-waves-pacific#)
-- [Four Time Scales for Technology Development and Deployment](https://rodneybrooks.com/four-time-scales-for-technology-development-and-deployment/)
-- [When random.bytes&lpar;&rpar; runs but doesn&#39;t work](https://insider.btcpp.dev/p/when-randombytes-runs-but-doesnt)
-- [Show HN: I&#39;m a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built](https://github.com/tom-ilan/cycloidal_gearbox)
-- [Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators](https://costperprompt.com/)
+- [AI migrated legacy COBOL programs to Java, bugs included](https://arxiv.org/abs/2607.28271)
+- [OpenAI&#39;s super PAC is funding AI-generated news site attacking industry critics](https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda)
+- [Qwen3.8-Max: A New Bar for Coding and Cowork](https://qwen.ai/blog?id=qwen3.8)
+- [RFC 9851: TLS 1.2 is in Feature Freeze](https://www.rfc-editor.org/rfc/rfc9851.html)
+- [Show HN: Isopolis – Isometric pixel map of SF](https://sf.isopolis.city/)
+- [CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K](https://github.com/johnsonjh/cpm386)
+- [Show HN: ssh ssh.place](https://ssh.place)
+- [Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours](https://github.com/pg83/shitty)
+- [The Computational Theory of Mind &lpar;2015&rpar;](https://plato.stanford.edu/entries/computational-mind/)
+- [Californians&#39; data deletion requests, DROP, become enforceable Aug. 1](https://www.nbcsandiego.com/nbc-7-responds-2/californians-data-deletion-requests-drop-become-enforceable-aug-1/4054771/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

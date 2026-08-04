@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [AI migrated legacy COBOL programs to Java, bugs included](https://arxiv.org/abs/2607.28271)
-- [OpenAI&#39;s super PAC is funding AI-generated news site attacking industry critics](https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda)
-- [Qwen3.8-Max: A New Bar for Coding and Cowork](https://qwen.ai/blog?id=qwen3.8)
-- [RFC 9851: TLS 1.2 is in Feature Freeze](https://www.rfc-editor.org/rfc/rfc9851.html)
-- [Show HN: Isopolis – Isometric pixel map of SF](https://sf.isopolis.city/)
-- [CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K](https://github.com/johnsonjh/cpm386)
-- [Show HN: ssh ssh.place](https://ssh.place)
-- [Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours](https://github.com/pg83/shitty)
-- [The Computational Theory of Mind &lpar;2015&rpar;](https://plato.stanford.edu/entries/computational-mind/)
-- [Californians&#39; data deletion requests, DROP, become enforceable Aug. 1](https://www.nbcsandiego.com/nbc-7-responds-2/californians-data-deletion-requests-drop-become-enforceable-aug-1/4054771/)
+- [Why did we wait so long for the bicycle? &lpar;2019&rpar;](https://blog.rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle)
+- [There Will Come Soft Rains &lpar;1950&rpar; [pdf]](https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf)
+- [Windows XP 2002 for the Itanium: Unbridled rage](https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/)
+- [ZX Spectrum System Tour: Text Mode](https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/)
+- [LLMs reward expertise](https://www.seangoedecke.com/llms-reward-expertise/)
+- [The Dunning-Kruger effect may just be a data artefact &lpar;2020&rpar;](https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real)
+- [KisakCOD – Open-source reimplementation of Call of Duty 4 Multiplayer](https://github.com/SwagSoftware/KisakCOD)
+- [Smaller, faster, safer: running Kimi and GLM at scale](https://blog.cloudflare.com/smaller-faster-safer-models/)
+- [Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years](https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase)
+- [Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone](https://github.com/leonickson1/Swiftlet)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

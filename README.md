@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Anthropic’s AI models accidentally hacked three companies](https://www.computerworld.com/article/4204528/anthropics-ai-models-accidentally-hacked-three-companies.html)
+- [Apple and the invisible wolf: AI slop drowns real security threats](https://www.computerworld.com/article/4204385/apple-and-the-invisible-wolf-ai-slop-drowns-real-security-threats.html)
+- [Alibaba takes aim at OpenAI and Anthropic with Qwen3.8-Max launch](https://www.computerworld.com/article/4204420/alibaba-takes-aim-at-openai-and-anthropic-with-qwen3-8-max-launch-2.html)
+- [How AI is killing smartphone apps in China](https://www.computerworld.com/article/4203560/how-ai-in-china-is-killing-smartphone-apps.html)
 - [Google has used AI to patch 1,072 vulnerabilities in Chrome](https://www.computerworld.com/article/4204037/google-has-used-ai-to-patch-1072-vulnerabilities-in-chrome.html)
 - [Apple’s Tim Cook era ends with a record $109B quarter](https://www.computerworld.com/article/4203974/apples-tim-cook-era-ends-with-a-record-109b-quarter.html)
 - [Reporter’s notebook: In Dubai’s sun and sand, AI, server farms, and optimism bloom](https://www.computerworld.com/article/4204008/reporters-notebook-in-dubais-sun-and-sand-ai-server-farms-and-optimism-bloom.html)
 - [Data center developer eyes disused newpaper printing plant](https://www.computerworld.com/article/4203999/data-center-developer-eyes-disused-newpaper-printing-plant-2.html)
 - [DefCon security conference bans smart glasses with recording capabilities](https://www.computerworld.com/article/4203983/defcon-security-conference-bans-smart-glasses-with-recording-capabilities-2.html)
 - [12 top productivity tips for Microsoft Edge](https://www.computerworld.com/article/1613111/microsoft-edge-productivity-tips.html)
-- [Microsoft doubles down on multi-model AI as it builds a Copilot super app](https://www.computerworld.com/article/4203702/microsoft-doubles-down-on-multi-model-ai-as-it-builds-a-copilot-super-app-3.html)
-- [Copilot worm can spread through Microsoft Word docs](https://www.computerworld.com/article/4203676/copilot-worm-can-spread-through-microsoft-word-docs-2.html)
-- [Qualcomm shows Apple’s modem transition is almost complete](https://www.computerworld.com/article/4203487/qualcomm-shows-apples-modem-transition-is-almost-complete.html)
-- [Why Google Voice is your secret business weapon](https://www.computerworld.com/article/1627659/google-voice-business-users-guide.html)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

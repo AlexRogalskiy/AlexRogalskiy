@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [TV tonight: Strictly’s Amy Dowden and Carlos Gu join Celebrity Hunted](https://www.theguardian.com/tv-and-radio/2026/aug/03/tv-tonight-strictly-amy-dowden-carlos-gu-celebrity-hunted)
-- [NHS mental health trust plans £25m in cuts to jobs and services](https://www.theguardian.com/society/2026/aug/03/nhs-mental-health-trust-plans-25m-in-cuts-to-jobs-and-services)
-- [Finally, we have a PM for the digital age. But real change requires more than just being good on camera | Nesrine Malik](https://www.theguardian.com/commentisfree/2026/aug/03/andy-burnham-digital-age-political-success-good-on-camera)
-- [Pollock tacos and hake with saffron aïli and butter beans | Andy Beynon’s summer fish recipes](https://www.theguardian.com/food/2026/aug/03/summer-fish-recipes-pollock-tacos-hake-saffron-aioli-butter-beans-andy-beynon)
-- [Blanche formally rescinds Trump’s $1.8bn ‘anti-weaponization fund’ ahead of nomination hearing](https://www.theguardian.com/us-news/2026/aug/03/blanche-formally-rescinds-trumps-18bn-anti-weaponization-fund-ahead-of-nomination-hearing)
-- [Why has Trump stepped in to prop up Japan’s currency?](https://www.theguardian.com/world/2026/aug/03/trump-japan-currency-yen-explainer)
-- [New Zealand legislation making English an official language ridiculed as ‘pathetic’](https://www.theguardian.com/world/2026/aug/03/new-zealand-english-an-official-language-bill)
-- [Is Ireland’s unprotected ocean the weak link in European defence?](https://www.theguardian.com/world/2026/aug/03/is-irelands-unprotected-ocean-the-weak-link-in-european-defence)
-- [Liechtenstein’s archaic abortion laws need to be modernised. But a prince is standing in the way | Gabriella Alvarez-Hummel](https://www.theguardian.com/commentisfree/2026/aug/03/liechtenstein-abortion-law-modernised-prince-alois)
-- [‘Am I 68? 69?’ Irvine Welsh on growing old, getting clean, bashing out his new novel – and flirting with guns](https://www.theguardian.com/lifeandstyle/2026/aug/03/irvine-welsh-trainspotting-new-novel-can-nothing-save-us)
+- [Careless whispers: what really happened between George Michael and Lindsay Anderson? The Wham! movie producer reveals all](https://www.theguardian.com/film/2026/aug/04/george-michael-lindsay-anderson-wham-movie-china-producer)
+- [Acrobatic, goofy and super-fast: the biama battles redefining Ivorian dance culture](https://www.theguardian.com/world/2026/aug/04/biama-dance-ivorian-pop-culture-cote-d-ivoire-tik-tok)
+- [Approval of east London datacentre labelled ‘slap in the face’ for local democracy](https://www.theguardian.com/uk-news/2026/aug/04/brick-lane-redevelopment-approval-datacentre-london)
+- [Cancer survivors need protection from future discrimination, say German politicians](https://www.theguardian.com/world/2026/aug/04/cancer-survivors-need-protection-from-future-discrimination-say-german-politicians)
+- [Herby frittata and a knockout fruit and feta salad: Sami Tamimi’s Arabic summer recipes](https://www.theguardian.com/food/2026/aug/04/herby-frittata-loquat-feta-salad-arabic-summer-recipes-sami-tamimi)
+- [‘They’re not alone’: Chris Hoy on his ambition to stop men dying of prostate cancer](https://www.theguardian.com/sport/2026/aug/04/sir-chris-hoy-cycling-stage-4-prostate-cancer-fundraising-screening)
+- [GPs’ breast cancer guidelines ‘miss’ 95% of women who will develop disease](https://www.theguardian.com/society/2026/aug/04/gps-breast-cancer-guidelines-miss-95-of-women-who-will-develop-disease)
+- [Reader Q&amp;A: ask our comedy critic anything ahead of the Edinburgh fringe](https://www.theguardian.com/stage/live/2026/aug/04/edinburgh-festival-fringe-2026-comedy-critic-reader-questions)
+- [UK plastic manufacturer could face legal action over toxic emissions](https://www.theguardian.com/business/2026/aug/04/plastic-manufacturer-legal-action-emissions-toxic-carcinogenic-chemical-environment)
+- [‘Fortnite on steroids’: the virtual gaming worlds transformed to train British soldiers](https://www.theguardian.com/uk-news/2026/aug/04/fortnite-on-steroids-the-virtual-gaming-worlds-transformed-to-train-british-soldiers)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

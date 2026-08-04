@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Ancient Roots of Modern Winemaking](https://nautil.us/the-ancient-roots-of-modern-winemaking-1281970)
-- [Return-to-office mandates are killing workplace trust](https://thehill.com/opinion/technology/5992056-office-attendance-backlash/)
-- [Only 1/8 turbines in Hungarian Paks NPP still operational, shutdown imminent](https://index.hu/gazdasag/2026/08/03/paksi-atomeromu-leallas-kormany-atomenergia-energia-veszelyhelyzet-energiavalsag-magyar-peter/)
-- [Go json/v2](https://pkg.go.dev/encoding/json/v2)
-- [Dijkstra: The End of Computing Science &lpar;2000&rpar; [pdf]](https://www.cs.utexas.edu/~EWD/ewd13xx/EWD1304.PDF)
-- [Show HN: Open-sourcing my market mental map](https://research.oguzbilgic.com)
-- [lexicon of computing &lpar;2001&rpar;](https://web.archive.org/web/20011128152100/http://www.cs.washington.edu/homes/klee/misc/lexicon.html)
-- [Netflix sued for $105M after unreleased Nicolas Cage movie is stolen](https://www.nbcnews.com/pop-culture/pop-culture-news/netflix-sued-105-million-unreleased-nicolas-cage-movie-stolen-desk-stu-rcna590214)
-- [Show HN: Kwayk – Reimplementing Quake in Qt Quick3D with Jolt Physics](https://github.com/glazunov999/Kwayk)
-- [How Go Players Disempower Themselves to AI](https://www.lesswrong.com/posts/nR3DkyivzF4ve97oM/how-go-players-disempower-themselves-to-ai)
+- [Ask HN: How are you operating AI infrastructure in production?](https://news.ycombinator.com/item?id=49164517)
+- [TikTok creator who documented her life with young-onset Alzheimer&#39;s dies by MAID](https://www.theglobeandmail.com/canada/article-tiktok-creator-rebecca-luna-young-onset-alzheimers-dies-maid/)
+- [France wildfires reveal hundreds of WW2 shells in village](https://www.bbc.com/news/articles/cgmkxjrrwdvo)
+- [Technorealists, the Silent Majority?](https://notes.erlend.sh/3ms6hviosx227)
+- [Indirect Lessons from Human Alignment](https://dynomight.net/human-alignment/)
+- [TransformKit](https://transform-kit.com)
+- [Effects of the New $100k Fee and Wage-Weighted Lottery on the H-1B Visa](https://budgetmodel.wharton.upenn.edu/p/2026-08-03-effects-of-the-new-100000-fee-and-wage-weighted-lottery-on-the-h-1b-visa/)
+- [Hot Set: Shooting Heat](https://theasc.com/article/hot-set-shooting-heat/)
+- [Relative Velocity and Closing Speed](https://eli.thegreenplace.net/2026/relative-velocity-and-closing-speed/)
+- [TerminalWidget Put Terminal Output on Your Desktop](https://terminalwidget.app/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

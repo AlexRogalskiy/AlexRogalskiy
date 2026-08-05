@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Careless whispers: what really happened between George Michael and Lindsay Anderson? The Wham! movie producer reveals all](https://www.theguardian.com/film/2026/aug/04/george-michael-lindsay-anderson-wham-movie-china-producer)
-- [Acrobatic, goofy and super-fast: the biama battles redefining Ivorian dance culture](https://www.theguardian.com/world/2026/aug/04/biama-dance-ivorian-pop-culture-cote-d-ivoire-tik-tok)
-- [Approval of east London datacentre labelled ‘slap in the face’ for local democracy](https://www.theguardian.com/uk-news/2026/aug/04/brick-lane-redevelopment-approval-datacentre-london)
-- [Cancer survivors need protection from future discrimination, say German politicians](https://www.theguardian.com/world/2026/aug/04/cancer-survivors-need-protection-from-future-discrimination-say-german-politicians)
-- [Herby frittata and a knockout fruit and feta salad: Sami Tamimi’s Arabic summer recipes](https://www.theguardian.com/food/2026/aug/04/herby-frittata-loquat-feta-salad-arabic-summer-recipes-sami-tamimi)
-- [‘They’re not alone’: Chris Hoy on his ambition to stop men dying of prostate cancer](https://www.theguardian.com/sport/2026/aug/04/sir-chris-hoy-cycling-stage-4-prostate-cancer-fundraising-screening)
-- [GPs’ breast cancer guidelines ‘miss’ 95% of women who will develop disease](https://www.theguardian.com/society/2026/aug/04/gps-breast-cancer-guidelines-miss-95-of-women-who-will-develop-disease)
-- [Reader Q&amp;A: ask our comedy critic anything ahead of the Edinburgh fringe](https://www.theguardian.com/stage/live/2026/aug/04/edinburgh-festival-fringe-2026-comedy-critic-reader-questions)
-- [UK plastic manufacturer could face legal action over toxic emissions](https://www.theguardian.com/business/2026/aug/04/plastic-manufacturer-legal-action-emissions-toxic-carcinogenic-chemical-environment)
-- [‘Fortnite on steroids’: the virtual gaming worlds transformed to train British soldiers](https://www.theguardian.com/uk-news/2026/aug/04/fortnite-on-steroids-the-virtual-gaming-worlds-transformed-to-train-british-soldiers)
+- [Ukraine war briefing: Russian soldier in Crimea shoots comrades and civilians](https://www.theguardian.com/world/2026/aug/05/ukraine-war-briefing-russian-soldier-crimea-shoots-comrades-civilians)
+- [‘I just want to find them’: deadly cloudbursts devastate Kashmir’s mountain communities](https://www.theguardian.com/world/2026/aug/05/kashmir-deadly-cloudbursts-devastate-mountain-communities-erratic-weather-climate-change)
+- [Hundreds camp in Rome heatwave as Meloni government cracks down on squats](https://www.theguardian.com/world/2026/aug/05/hundreds-camp-in-rome-heatwave-as-meloni-government-cracks-down-on-squats)
+- [Phoebe Bridgers: Lost Weekend review – long-awaited return is a thrilling, daring study in dislocation](https://www.theguardian.com/music/2026/aug/05/phoebe-bridgers-lost-weekend-review-long-awaited-return-is-a-thrilling-daring-study-in-dislocation)
+- [‘This isn’t some vendetta’ – Tulisa Contostavlos on taking on the tabloids, sex tapes and shame](https://www.theguardian.com/culture/2026/aug/05/tulisa-contostavlos-interview-n-dubz-press-regulation-campaign-sun-on-sunday-sting)
+- [Europe’s rivers are running dry, and the knock-on effects are disastrous | Yiannis Baboulias](https://www.theguardian.com/commentisfree/2026/aug/05/europe-rivers-running-dry-catastrophe-danube-rhine)
+- [‘I put a raging dent in Neil Young’s forehead!’ Tim Pope on his riotous videos for the Cure, Bowie, Queen, Soft Cell and more](https://www.theguardian.com/music/2026/aug/05/tim-pope-music-video-director-mtv-the-cure-bowie-queen-soft-cell-neil-young)
+- [Hundreds in Morocco gather near Ceuta border in anxious wait for missing loved ones](https://www.theguardian.com/world/2026/aug/05/hundreds-in-morocco-gather-near-ceuta-border-in-anxious-wait-for-missing-loved-ones)
+- [New Zealand capital delights in rare snowfall as southern city residents ski down world’s steepest street](https://www.theguardian.com/world/2026/aug/05/new-zealand-capital-rare-snow-wellington-dunedin-ski-down-worlds-steepest-street)
+- [‘Our new champion’: Philippines swept up in tennis fever after Alex Eala’s historic win](https://www.theguardian.com/world/2026/aug/05/alex-eala-philippines-tennis-fever)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

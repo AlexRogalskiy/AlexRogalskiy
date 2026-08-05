@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ask HN: How are you operating AI infrastructure in production?](https://news.ycombinator.com/item?id=49164517)
-- [TikTok creator who documented her life with young-onset Alzheimer&#39;s dies by MAID](https://www.theglobeandmail.com/canada/article-tiktok-creator-rebecca-luna-young-onset-alzheimers-dies-maid/)
-- [France wildfires reveal hundreds of WW2 shells in village](https://www.bbc.com/news/articles/cgmkxjrrwdvo)
-- [Technorealists, the Silent Majority?](https://notes.erlend.sh/3ms6hviosx227)
-- [Indirect Lessons from Human Alignment](https://dynomight.net/human-alignment/)
-- [TransformKit](https://transform-kit.com)
-- [Effects of the New $100k Fee and Wage-Weighted Lottery on the H-1B Visa](https://budgetmodel.wharton.upenn.edu/p/2026-08-03-effects-of-the-new-100000-fee-and-wage-weighted-lottery-on-the-h-1b-visa/)
-- [Hot Set: Shooting Heat](https://theasc.com/article/hot-set-shooting-heat/)
-- [Relative Velocity and Closing Speed](https://eli.thegreenplace.net/2026/relative-velocity-and-closing-speed/)
-- [TerminalWidget Put Terminal Output on Your Desktop](https://terminalwidget.app/)
+- [Compass, a local-first code graph built in Rust for humans and AI agents](https://github.com/crabbuild/compass)
+- [What Bitcoin sextortion emails actually earned](https://claude.ai/code/artifact/4806cb5d-8582-460e-ab31-2a321f1b23cb)
+- [Ling 3.0 Flash: openweight 124B-A5.1B competitive with MiniMax M2.7](https://huggingface.co/inclusionAI/Ling-3.0-flash)
+- [Show HN: QuietUtils – free browser-only PDF and image tools, no uploads](https://quietutils.com/)
+- [I made a tactile 3D map for my blind friend&#39;s birthday](https://www.reddit.com/r/BestofRedditorUpdates/comments/1vfwkrv/i_made_a_tactile_3d_map_for_my_blind_friends/)
+- [Upper Mesopotamia](https://en.wikipedia.org/wiki/Upper_Mesopotamia)
+- [Gwern&#39;s Guardian Angels](https://twitter.com/bekhovsgun/status/2084863523692093669)
+- [Saudi-led group completes $55B purchase of gaming giant EA](https://www.bbc.com/news/articles/cjejyl34345o)
+- [Electricity Pricing in the Age of AI](https://power2026.ai/)
+- [First Builder Battle Starts Thurs](https://line4line.dev/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Report: Passkey security issues could allow account takeover](https://www.computerworld.com/article/4205809/report-passkey-security-issues-could-allow-account-takeover-2.html)
+- [Microsoft moves to limit AI use by its employees](https://www.computerworld.com/article/4205739/microsoft-restricts-ai-use-for-its-employees.html)
+- [Apple’s memory crisis is a big red flag for tech](https://www.computerworld.com/article/4205686/apples-memory-crisis-is-a-big-red-flag-for-tech.html)
+- [6 things you should know about Google’s new selfie sign-in system](https://www.computerworld.com/article/4204562/google-selfie-security.html)
 - [‘Apple is one of the greatest companies of all time,’ says OpenAI](https://www.computerworld.com/article/4204910/apple-is-one-of-the-greatest-companies-of-all-time-says-openai.html)
 - [AI agents get better at IT ops, but only with humans in the loop](https://www.computerworld.com/article/4205062/ai-agents-get-better-at-it-ops-but-only-with-humans-in-the-loop.html)
 - [Surviving AI: Navigating workload creep, AI slop, and the new tech career playbook](https://www.computerworld.com/article/4196299/surviving-ai-navigating-workload-creep-ai-slop-and-the-new-tech-career-playbook.html)
 - [Anthropic’s AI models accidentally hacked three companies](https://www.computerworld.com/article/4204528/anthropics-ai-models-accidentally-hacked-three-companies.html)
 - [Apple and the invisible wolf: AI slop drowns real security threats](https://www.computerworld.com/article/4204385/apple-and-the-invisible-wolf-ai-slop-drowns-real-security-threats.html)
 - [Alibaba takes aim at OpenAI and Anthropic with Qwen3.8-Max launch](https://www.computerworld.com/article/4204420/alibaba-takes-aim-at-openai-and-anthropic-with-qwen3-8-max-launch-2.html)
-- [How AI is killing smartphone apps in China](https://www.computerworld.com/article/4203560/how-ai-in-china-is-killing-smartphone-apps.html)
-- [Google has used AI to patch 1,072 vulnerabilities in Chrome](https://www.computerworld.com/article/4204037/google-has-used-ai-to-patch-1072-vulnerabilities-in-chrome.html)
-- [Apple’s Tim Cook era ends with a record $109B quarter](https://www.computerworld.com/article/4203974/apples-tim-cook-era-ends-with-a-record-109b-quarter.html)
-- [Reporter’s notebook: In Dubai’s sun and sand, AI, server farms, and optimism bloom](https://www.computerworld.com/article/4204008/reporters-notebook-in-dubais-sun-and-sand-ai-server-farms-and-optimism-bloom.html)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

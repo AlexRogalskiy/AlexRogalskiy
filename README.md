@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine war briefing: Russian soldier in Crimea shoots comrades and civilians](https://www.theguardian.com/world/2026/aug/05/ukraine-war-briefing-russian-soldier-crimea-shoots-comrades-civilians)
-- [‘I just want to find them’: deadly cloudbursts devastate Kashmir’s mountain communities](https://www.theguardian.com/world/2026/aug/05/kashmir-deadly-cloudbursts-devastate-mountain-communities-erratic-weather-climate-change)
-- [Hundreds camp in Rome heatwave as Meloni government cracks down on squats](https://www.theguardian.com/world/2026/aug/05/hundreds-camp-in-rome-heatwave-as-meloni-government-cracks-down-on-squats)
-- [Phoebe Bridgers: Lost Weekend review – long-awaited return is a thrilling, daring study in dislocation](https://www.theguardian.com/music/2026/aug/05/phoebe-bridgers-lost-weekend-review-long-awaited-return-is-a-thrilling-daring-study-in-dislocation)
-- [‘This isn’t some vendetta’ – Tulisa Contostavlos on taking on the tabloids, sex tapes and shame](https://www.theguardian.com/culture/2026/aug/05/tulisa-contostavlos-interview-n-dubz-press-regulation-campaign-sun-on-sunday-sting)
-- [Europe’s rivers are running dry, and the knock-on effects are disastrous | Yiannis Baboulias](https://www.theguardian.com/commentisfree/2026/aug/05/europe-rivers-running-dry-catastrophe-danube-rhine)
-- [‘I put a raging dent in Neil Young’s forehead!’ Tim Pope on his riotous videos for the Cure, Bowie, Queen, Soft Cell and more](https://www.theguardian.com/music/2026/aug/05/tim-pope-music-video-director-mtv-the-cure-bowie-queen-soft-cell-neil-young)
-- [Hundreds in Morocco gather near Ceuta border in anxious wait for missing loved ones](https://www.theguardian.com/world/2026/aug/05/hundreds-in-morocco-gather-near-ceuta-border-in-anxious-wait-for-missing-loved-ones)
-- [New Zealand capital delights in rare snowfall as southern city residents ski down world’s steepest street](https://www.theguardian.com/world/2026/aug/05/new-zealand-capital-rare-snow-wellington-dunedin-ski-down-worlds-steepest-street)
-- [‘Our new champion’: Philippines swept up in tennis fever after Alex Eala’s historic win](https://www.theguardian.com/world/2026/aug/05/alex-eala-philippines-tennis-fever)
+- [‘Spectral lines’ and a giant plume: what science saw when the SpaceX rocket hit the moon](https://www.theguardian.com/science/2026/aug/06/spacex-rocket-crash-into-moon-impact)
+- [‘Basically, you give yourself to the man’: Trewley Precious Temple on her life as a Gypsy wife – and beyond](https://www.theguardian.com/tv-and-radio/2026/aug/06/basically-you-give-yourself-to-the-man-trewley-precious-temple-on-her-life-as-a-gypsy-wife-and-beyond)
+- [Fame the Musical review – stardom seekers light up the stage like a flame](https://www.theguardian.com/stage/2026/aug/06/fame-the-musical-review-theatre-royal-plymouth)
+- [Spain’s Pedro Sánchez is a progressive outlier in Europe – and over Ceuta, he is being made to pay for it | Eoghan Gilmartin](https://www.theguardian.com/world/2026/aug/06/spains-pedro-sanchez-is-a-progressive-outlier-in-europe-and-over-ceuta-he-is-being-made-to-pay-for-it)
+- [‘I’m not spying’: how Meta’s smartglasses have divided opinion](https://www.theguardian.com/technology/2026/aug/06/meta-ai-smart-glasses-privacy)
+- [‘They slammed their M16s against his skull’: inside the film about Amy Goodman’s fearless reporting](https://www.theguardian.com/film/2026/aug/06/amy-goodman-reporter-interview-steal-this-story-please-democracy-now-news)
+- [Nato to ‘urgently’ get air defences for Ukraine, as Zelenskyy warns of surge in Russian missile production](https://www.theguardian.com/world/2026/aug/06/ukraine-nato-air-defences-missiles-russia-zelenskyy-patriot)
+- [Man arrested at Trump’s California golf course wore earpiece and took photos, police say](https://www.theguardian.com/us-news/2026/aug/05/man-arrested-trump-california-golf-course)
+- [Plushies, Labubu dolls and Pokémon collectibles: claw machine craze sweeps Hong Kong](https://www.theguardian.com/world/ng-interactive/2026/aug/06/hong-kong-claw-machine-arcade-craze-addiction-regulation)
+- [Thar she blows! Hull Maritime Museum resurfaces with a walk-in whale and a ‘monkey mermaid’](https://www.theguardian.com/artanddesign/2026/aug/06/hull-maritime-museum-reboot-opening-whale-monkey-mermaid)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

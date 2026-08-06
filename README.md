@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Compass, a local-first code graph built in Rust for humans and AI agents](https://github.com/crabbuild/compass)
-- [What Bitcoin sextortion emails actually earned](https://claude.ai/code/artifact/4806cb5d-8582-460e-ab31-2a321f1b23cb)
-- [Ling 3.0 Flash: openweight 124B-A5.1B competitive with MiniMax M2.7](https://huggingface.co/inclusionAI/Ling-3.0-flash)
-- [Show HN: QuietUtils – free browser-only PDF and image tools, no uploads](https://quietutils.com/)
-- [I made a tactile 3D map for my blind friend&#39;s birthday](https://www.reddit.com/r/BestofRedditorUpdates/comments/1vfwkrv/i_made_a_tactile_3d_map_for_my_blind_friends/)
-- [Upper Mesopotamia](https://en.wikipedia.org/wiki/Upper_Mesopotamia)
-- [Gwern&#39;s Guardian Angels](https://twitter.com/bekhovsgun/status/2084863523692093669)
-- [Saudi-led group completes $55B purchase of gaming giant EA](https://www.bbc.com/news/articles/cjejyl34345o)
-- [Electricity Pricing in the Age of AI](https://power2026.ai/)
-- [First Builder Battle Starts Thurs](https://line4line.dev/)
+- [Two simple tests to see how your fitness compares with Elite older athletes](https://www.washingtonpost.com/wellness/2025/10/16/fitness-test-senior-athletes/)
+- [Teamsters sue California over self-driving truck rules](https://www.politico.com/news/2026/08/05/teamsters-sue-california-self-driving-truck-rules-01026055)
+- [Two sizes fit most: Postgres and ClickHouse](https://clickhouse.com/blog/ai-best-of-breed-data-stack)
+- [Touring the Consensus, Six Months In](https://theconsensus.dev/blog/2026/08/05/touring-the-consensus-six-months-in.html)
+- [How to Build an LLM-Powered Database Query Bot for Your Web App in 1 Day](https://www.semicolonandsons.com/articles/how-to-build-an-llm-powered-database-query-bot-for-web-apps-quickly)
+- [Smalltalk Report from 1991 to 1996](https://github.com/Ducasse/SmalltalkReportPDFArchive)
+- [Ask HN: Which model is best for pair-programming?](https://news.ycombinator.com/item?id=49192610)
+- [Caesars Entertainment – Responsible Gaming Exclusion](https://caesarsrewards.custhelp.com/app/answers/detail/a_id/650/~/caesars-entertainment---responsible-gaming-exclusion)
+- [Half of vaccines are binned – &#39;fridge-free&#39; versions could change that](https://www.bbc.co.uk/news/articles/ce85qe8j0nzo)
+- [Nevada Gaming Commission Excluded List](https://www.gaming.nv.gov/divisions/enforcement-division/excluded-persons-and-most-wanted/excluded-list/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

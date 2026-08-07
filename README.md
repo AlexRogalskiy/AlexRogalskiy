@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [‘Spectral lines’ and a giant plume: what science saw when the SpaceX rocket hit the moon](https://www.theguardian.com/science/2026/aug/06/spacex-rocket-crash-into-moon-impact)
-- [‘Basically, you give yourself to the man’: Trewley Precious Temple on her life as a Gypsy wife – and beyond](https://www.theguardian.com/tv-and-radio/2026/aug/06/basically-you-give-yourself-to-the-man-trewley-precious-temple-on-her-life-as-a-gypsy-wife-and-beyond)
-- [Fame the Musical review – stardom seekers light up the stage like a flame](https://www.theguardian.com/stage/2026/aug/06/fame-the-musical-review-theatre-royal-plymouth)
-- [Spain’s Pedro Sánchez is a progressive outlier in Europe – and over Ceuta, he is being made to pay for it | Eoghan Gilmartin](https://www.theguardian.com/world/2026/aug/06/spains-pedro-sanchez-is-a-progressive-outlier-in-europe-and-over-ceuta-he-is-being-made-to-pay-for-it)
-- [‘I’m not spying’: how Meta’s smartglasses have divided opinion](https://www.theguardian.com/technology/2026/aug/06/meta-ai-smart-glasses-privacy)
-- [‘They slammed their M16s against his skull’: inside the film about Amy Goodman’s fearless reporting](https://www.theguardian.com/film/2026/aug/06/amy-goodman-reporter-interview-steal-this-story-please-democracy-now-news)
-- [Nato to ‘urgently’ get air defences for Ukraine, as Zelenskyy warns of surge in Russian missile production](https://www.theguardian.com/world/2026/aug/06/ukraine-nato-air-defences-missiles-russia-zelenskyy-patriot)
-- [Man arrested at Trump’s California golf course wore earpiece and took photos, police say](https://www.theguardian.com/us-news/2026/aug/05/man-arrested-trump-california-golf-course)
-- [Plushies, Labubu dolls and Pokémon collectibles: claw machine craze sweeps Hong Kong](https://www.theguardian.com/world/ng-interactive/2026/aug/06/hong-kong-claw-machine-arcade-craze-addiction-regulation)
-- [Thar she blows! Hull Maritime Museum resurfaces with a walk-in whale and a ‘monkey mermaid’](https://www.theguardian.com/artanddesign/2026/aug/06/hull-maritime-museum-reboot-opening-whale-monkey-mermaid)
+- [‘Her face was beaten in’: how Taliban rule ushered in a new era of women being killed](https://www.theguardian.com/global-development/2026/aug/07/afghanistan-women-taliban-violence-battered-beaten)
+- [New Mexico court orders Meta to pay $567m over harms to children’s mental health](https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta)
+- [Houthi strikes kill dozens in Yemen, officials say, as Saudi Arabia warns of further attacks](https://www.theguardian.com/world/2026/aug/07/houthi-strikes-yemen-saudi-arabia-attacks-iran-war-middle-east-crisis)
+- [Ukraine war briefing: We will build missiles the way we built drones – Zelenskyy](https://www.theguardian.com/world/2026/aug/07/ukraine-war-briefing-build-missiles-freyja-programme-zelenskyy)
+- [After decades of decline, New Zealand’s wool industry is making a comeback](https://www.theguardian.com/world/2026/aug/07/new-zealand-nz-wool-price-industry-comeback)
+- [Trump signs new orders targeting birthright citizenship](https://www.theguardian.com/us-news/2026/aug/06/trump-birthright-citizenship-executive-orders)
+- [Typhoon Dim-sum: how Hong Kong put a tasty snack on the storm map](https://www.theguardian.com/world/2026/aug/07/typhoon-dim-sum-hong-kong-name-explainer)
+- [Arsenal hopes dashed after Vinícius Júnior extends Real Madrid contract to 2032](https://www.theguardian.com/football/2026/aug/06/arsenal-hopes-dashed-after-vinicius-junior-extends-real-madrid-contract-to-2032)
+- [Accused arsonist studied how to maximize Washington wildfire’s harm, police say](https://www.theguardian.com/us-news/2026/aug/06/washington-state-wildfires)
+- [‘It is British life’: No 10 vows to stop councils trying to limit standing in pubs](https://www.theguardian.com/uk-news/2026/aug/06/downing-street-stop-councils-restricting-standing-in-pubs)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

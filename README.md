@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
-- [Report: Passkey security issues could allow account takeover](https://www.computerworld.com/article/4205809/report-passkey-security-issues-could-allow-account-takeover-2.html)
+- [Cloudflare wants to provide the operating system for the AI-first enterprise](https://www.computerworld.com/article/4206390/cloudflare-wants-to-provide-the-operating-system-for-the-ai-first-enterprise-2.html)
+- [Granola lawsuit raises concerns over AI note-taking app privacy](https://www.computerworld.com/article/4206255/granola-lawsuit-raises-concerns-over-ai-note-taking-app-privacy.html)
+- [OpenAI’s ‘Rotten to the core’ defense is its weakest play yet](https://www.computerworld.com/article/4206066/openais-rotten-to-the-core-defense-is-its-weakest-play-yet.html)
+- [Enterprise passkey security under threat from malware](https://www.computerworld.com/article/4205809/enterprise-passkey-security-under-threat-from-malware.html)
 - [Microsoft moves to limit AI use by its employees](https://www.computerworld.com/article/4205739/microsoft-restricts-ai-use-for-its-employees.html)
 - [Apple’s memory crisis is a big red flag for tech](https://www.computerworld.com/article/4205686/apples-memory-crisis-is-a-big-red-flag-for-tech.html)
 - [6 things you should know about Google’s new selfie sign-in system](https://www.computerworld.com/article/4204562/google-selfie-security.html)
 - [‘Apple is one of the greatest companies of all time,’ says OpenAI](https://www.computerworld.com/article/4204910/apple-is-one-of-the-greatest-companies-of-all-time-says-openai.html)
 - [AI agents get better at IT ops, but only with humans in the loop](https://www.computerworld.com/article/4205062/ai-agents-get-better-at-it-ops-but-only-with-humans-in-the-loop.html)
 - [Surviving AI: Navigating workload creep, AI slop, and the new tech career playbook](https://www.computerworld.com/article/4196299/surviving-ai-navigating-workload-creep-ai-slop-and-the-new-tech-career-playbook.html)
-- [Anthropic’s AI models accidentally hacked three companies](https://www.computerworld.com/article/4204528/anthropics-ai-models-accidentally-hacked-three-companies.html)
-- [Apple and the invisible wolf: AI slop drowns real security threats](https://www.computerworld.com/article/4204385/apple-and-the-invisible-wolf-ai-slop-drowns-real-security-threats.html)
-- [Alibaba takes aim at OpenAI and Anthropic with Qwen3.8-Max launch](https://www.computerworld.com/article/4204420/alibaba-takes-aim-at-openai-and-anthropic-with-qwen3-8-max-launch-2.html)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

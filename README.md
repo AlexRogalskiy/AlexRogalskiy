@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Two simple tests to see how your fitness compares with Elite older athletes](https://www.washingtonpost.com/wellness/2025/10/16/fitness-test-senior-athletes/)
-- [Teamsters sue California over self-driving truck rules](https://www.politico.com/news/2026/08/05/teamsters-sue-california-self-driving-truck-rules-01026055)
-- [Two sizes fit most: Postgres and ClickHouse](https://clickhouse.com/blog/ai-best-of-breed-data-stack)
-- [Touring the Consensus, Six Months In](https://theconsensus.dev/blog/2026/08/05/touring-the-consensus-six-months-in.html)
-- [How to Build an LLM-Powered Database Query Bot for Your Web App in 1 Day](https://www.semicolonandsons.com/articles/how-to-build-an-llm-powered-database-query-bot-for-web-apps-quickly)
-- [Smalltalk Report from 1991 to 1996](https://github.com/Ducasse/SmalltalkReportPDFArchive)
-- [Ask HN: Which model is best for pair-programming?](https://news.ycombinator.com/item?id=49192610)
-- [Caesars Entertainment – Responsible Gaming Exclusion](https://caesarsrewards.custhelp.com/app/answers/detail/a_id/650/~/caesars-entertainment---responsible-gaming-exclusion)
-- [Half of vaccines are binned – &#39;fridge-free&#39; versions could change that](https://www.bbc.co.uk/news/articles/ce85qe8j0nzo)
-- [Nevada Gaming Commission Excluded List](https://www.gaming.nv.gov/divisions/enforcement-division/excluded-persons-and-most-wanted/excluded-list/)
+- [Pivotal role of reinforcement learning in modern large language models](https://news.harvard.edu/gazette/story/newsplus/pivotal-role-of-reinforcement-learning-in-modern-large-language-models/)
+- [Framing](https://en.wikipedia.org/wiki/Framing_(social_sciences))
+- [Meta ordered to pay $567M in New Mexico for teen mental health fund](https://www.reuters.com/world/new-mexico-court-orders-meta-pay-567-mln-teen-mental-health-fund-2026-08-06/)
+- [Executable Emoji](https://martypc.blogspot.com/2026/08/executable-emoji.html)
+- [pfSense 2.9.0 – New Features and Changes](https://docs.netgate.com/pfsense/en/latest/releases/2-9-0.html)
+- [&quot;The Persian MâR-Nâmeh Or, the Book for Taking Omens from Snakes&quot; &lpar;1892&rpar;](https://publicdomainreview.org/collection/marnameh/)
+- [AI Agent Attempted to Social Engineer Open Source Maintainer to Merge Malware](https://socket.dev/blog/ai-agent-open-source-malware)
+- [Palmer Luckey donated $6M to GOP and bundled more while reaping billions](https://www.theguardian.com/us-news/2026/aug/06/exclusive-palmer-luckey-political-fundraising)
+- [The Underground Economy Behind Children&#39;s Smartwatches in China](https://www.sixthtone.com/news/1017854)
+- [High-Quality Free Transparent PNG Images](https://pngdex.com/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [‘Her face was beaten in’: how Taliban rule ushered in a new era of women being killed](https://www.theguardian.com/global-development/2026/aug/07/afghanistan-women-taliban-violence-battered-beaten)
-- [New Mexico court orders Meta to pay $567m over harms to children’s mental health](https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta)
-- [Houthi strikes kill dozens in Yemen, officials say, as Saudi Arabia warns of further attacks](https://www.theguardian.com/world/2026/aug/07/houthi-strikes-yemen-saudi-arabia-attacks-iran-war-middle-east-crisis)
-- [Ukraine war briefing: We will build missiles the way we built drones – Zelenskyy](https://www.theguardian.com/world/2026/aug/07/ukraine-war-briefing-build-missiles-freyja-programme-zelenskyy)
-- [After decades of decline, New Zealand’s wool industry is making a comeback](https://www.theguardian.com/world/2026/aug/07/new-zealand-nz-wool-price-industry-comeback)
-- [Trump signs new orders targeting birthright citizenship](https://www.theguardian.com/us-news/2026/aug/06/trump-birthright-citizenship-executive-orders)
-- [Typhoon Dim-sum: how Hong Kong put a tasty snack on the storm map](https://www.theguardian.com/world/2026/aug/07/typhoon-dim-sum-hong-kong-name-explainer)
-- [Arsenal hopes dashed after Vinícius Júnior extends Real Madrid contract to 2032](https://www.theguardian.com/football/2026/aug/06/arsenal-hopes-dashed-after-vinicius-junior-extends-real-madrid-contract-to-2032)
-- [Accused arsonist studied how to maximize Washington wildfire’s harm, police say](https://www.theguardian.com/us-news/2026/aug/06/washington-state-wildfires)
-- [‘It is British life’: No 10 vows to stop councils trying to limit standing in pubs](https://www.theguardian.com/uk-news/2026/aug/06/downing-street-stop-councils-restricting-standing-in-pubs)
+- [Ukraine war briefing: Wildberries warehouse struck by Kyiv’s drones more than 2,000km from Russian border](https://www.theguardian.com/world/2026/aug/08/ukraine-war-briefing-wildberries-warehouse-struck-by-kyivs-drones-more-than-2000km-from-russian-border)
+- [Remains of 56 people found decomposing at Chicago funeral home](https://www.theguardian.com/us-news/2026/aug/07/chicago-funeral-home-bodies)
+- [Wasted medicine in England could fill 75 swimming pools a year, pharmacy group says](https://www.theguardian.com/business/2026/aug/08/wasted-medicine-in-england-could-fill-75-swimming-pools-a-year-pharmacy-group-says)
+- [Police investigating Ann Widdecombe murder reopen attempted burglary case from 2025](https://www.theguardian.com/politics/2026/aug/07/counter-terrorism-police-investigating-death-of-ann-widdecombe-reopen-2025-attempted-burglary-case)
+- [Spain to introduce temporary border checks on visitors from Italy](https://www.theguardian.com/world/2026/aug/07/spain-to-introduce-temporary-border-checks-on-visitors-from-italy)
+- [Will Lankshear starts off in style to see Middlesbrough past Wrexham](https://www.theguardian.com/football/2026/aug/07/middlesbrough-wrexham-carabao-cup-match-report)
+- [Leeds extend lead at top of Super League after thrilling late win at Wakefield](https://www.theguardian.com/sport/2026/aug/07/wakefield-leeds-super-league-match-report)
+- [US police officer accused of killing three people in Mexico arrested at border](https://www.theguardian.com/us-news/2026/aug/07/chad-eberle-arrested-police-killings)
+- [Sky Country: Indigenous fashion weaves culture and climate together](https://www.theguardian.com/fashion/ng-interactive/2026/aug/08/sky-country-indigenous-fashion-weaves-culture-and-climate-together)
+- [At least one person dead in California wildfire allegedly sparked by chainsaw](https://www.theguardian.com/us-news/2026/aug/07/sierra-nevada-foothills-fire-death)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

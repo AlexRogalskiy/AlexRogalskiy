@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Polish data center plans to send its waste heat to the neighbors](https://www.computerworld.com/article/4206808/polish-data-center-plans-to-send-its-waste-heat-to-the-neighbors-2.html)
+- [Airtable joins Evernote, Brightcove, WeTransfer and AOL in Bending Spoons portfolio](https://www.computerworld.com/article/4206777/airtable-joins-evernote-brightcove-wetransfer-and-aol-in-bending-spoons-portfolio-2.html)
+- [Wispr moves beyond AI dictation with note-taking assistant](https://www.computerworld.com/article/4206765/wispr-moves-beyond-ai-dictation-with-note-taking-assistant.html)
+- [DeepMind founder ascends to singular AI role at Google](https://www.computerworld.com/article/4206724/deepmind-founder-ascends-to-singular-ai-role-at-google.html)
 - [Cloudflare wants to provide the operating system for the AI-first enterprise](https://www.computerworld.com/article/4206390/cloudflare-wants-to-provide-the-operating-system-for-the-ai-first-enterprise-2.html)
 - [Granola lawsuit raises concerns over AI note-taking app privacy](https://www.computerworld.com/article/4206255/granola-lawsuit-raises-concerns-over-ai-note-taking-app-privacy.html)
 - [OpenAI’s ‘Rotten to the core’ defense is its weakest play yet](https://www.computerworld.com/article/4206066/openais-rotten-to-the-core-defense-is-its-weakest-play-yet.html)
 - [Enterprise passkey security under threat from malware](https://www.computerworld.com/article/4205809/enterprise-passkey-security-under-threat-from-malware.html)
 - [Microsoft moves to limit AI use by its employees](https://www.computerworld.com/article/4205739/microsoft-restricts-ai-use-for-its-employees.html)
 - [Apple’s memory crisis is a big red flag for tech](https://www.computerworld.com/article/4205686/apples-memory-crisis-is-a-big-red-flag-for-tech.html)
-- [6 things you should know about Google’s new selfie sign-in system](https://www.computerworld.com/article/4204562/google-selfie-security.html)
-- [‘Apple is one of the greatest companies of all time,’ says OpenAI](https://www.computerworld.com/article/4204910/apple-is-one-of-the-greatest-companies-of-all-time-says-openai.html)
-- [AI agents get better at IT ops, but only with humans in the loop](https://www.computerworld.com/article/4205062/ai-agents-get-better-at-it-ops-but-only-with-humans-in-the-loop.html)
-- [Surviving AI: Navigating workload creep, AI slop, and the new tech career playbook](https://www.computerworld.com/article/4196299/surviving-ai-navigating-workload-creep-ai-slop-and-the-new-tech-career-playbook.html)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

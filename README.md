@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Pivotal role of reinforcement learning in modern large language models](https://news.harvard.edu/gazette/story/newsplus/pivotal-role-of-reinforcement-learning-in-modern-large-language-models/)
-- [Framing](https://en.wikipedia.org/wiki/Framing_(social_sciences))
-- [Meta ordered to pay $567M in New Mexico for teen mental health fund](https://www.reuters.com/world/new-mexico-court-orders-meta-pay-567-mln-teen-mental-health-fund-2026-08-06/)
-- [Executable Emoji](https://martypc.blogspot.com/2026/08/executable-emoji.html)
-- [pfSense 2.9.0 – New Features and Changes](https://docs.netgate.com/pfsense/en/latest/releases/2-9-0.html)
-- [&quot;The Persian MâR-Nâmeh Or, the Book for Taking Omens from Snakes&quot; &lpar;1892&rpar;](https://publicdomainreview.org/collection/marnameh/)
-- [AI Agent Attempted to Social Engineer Open Source Maintainer to Merge Malware](https://socket.dev/blog/ai-agent-open-source-malware)
-- [Palmer Luckey donated $6M to GOP and bundled more while reaping billions](https://www.theguardian.com/us-news/2026/aug/06/exclusive-palmer-luckey-political-fundraising)
-- [The Underground Economy Behind Children&#39;s Smartwatches in China](https://www.sixthtone.com/news/1017854)
-- [High-Quality Free Transparent PNG Images](https://pngdex.com/)
+- [The Free Money AI Bond Buildout Is Gone](https://www.bloomberg.com/news/newsletters/2026-08-07/the-free-money-ai-bond-buildout-is-gone)
+- [Cuban government open to the idea of an Arab investor to develop &#39;Trump Island&#39;](https://english.elpais.com/international/2026-08-06/cuban-government-open-to-the-idea-of-an-arab-investor-to-develop-trump-island.html)
+- [Lucid whistleblower lawsuit links dismissed warning to Air recall that grew 16x](https://runtimewire.com/article/exclusive-lucid-whistleblower-lawsuit-links-dismissed-warning-to-air-recall-that)
+- [Translating the Renaissance: 17,000+ historical source texts](https://sourcelibrary.org)
+- [Wrangling Evals](https://sackfield.substack.com/p/wrangling-evals)
+- [Ask HN: How can I tell which LLM&#39;s have been trained on what?](https://news.ycombinator.com/item?id=49218466)
+- [The Hat and the Spectre – Recent Groundbreaking Discoveries in Mathematics](https://momath.org/the-hat/)
+- [Chenxiaolong/BasicSync: A simple app for running Syncthing on Android](https://github.com/chenxiaolong/BasicSync)
+- [Show HN: Framewrite – Turn any video into a document you&#39;ll use](https://framewrite.cc/)
+- [Obscura: Headless browser engine. For web scraping and AI agent automation](https://github.com/h4ckf0r0day/obscura)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

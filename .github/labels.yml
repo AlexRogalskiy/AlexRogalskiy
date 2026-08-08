@@ -77,3 +77,19 @@
   name: ":coffin: wontfix"
   color: "ffffff"
   description: ""
+- # investigate
+  name: ":mag: investigate"
+  color: "e6625b"
+  description: ""
+- # pinned
+  name: ":pushpin: pinned"
+  color: "28008e"
+  description: ""
+- # sponsor
+  name: ":sparkling_heart: sponsor"
+  color: "fedbf0"
+  description: ""
+- # stale
+  name: ":skull: stale"
+  color: "237da0"
+  description: ""

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Lines of code. 1,596 BTC gone](https://onekey.so/anzen/coldcard-entropy-failure/)
-- [Meta Ordered to Pay $942M to Address Harm to Kids from Social Media](https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7)
-- [Hackers Stalked Me by Hijacking a Smartwatch for Kids](https://www.wired.com/story/hackers-stalked-me-by-hijacking-a-smartwatch-for-kids/)
-- [Welcoming the Nepalese Government to Have I Been Pwned](https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/)
-- [Inside vLLM: Anatomy of a High-Throughput LLM Inference System &lpar;2025&rpar;](https://www.aleksagordic.com/blog/vllm)
-- [Bioengineered chewing gum may offer a way to fight HPV and other microbes](https://www.sciencedaily.com/releases/2026/08/260803080917.htm)
-- [AMD acquires Taalas to boost inference performance by etching models in silicon](https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344)
-- [Quake – 30th Anniversary Update](https://slayersclub.bethesda.net/en-US/news/quake-30th-anniversary-update)
-- [Herdr is joining Y Combinator. The runtime stays open](https://herdr.dev/blog/herdr-is-joining-y-combinator/)
-- [Can you reverse engineer an ASIC?](https://blog.janestreet.com/can-you-reverse-engineer-an-asic/)
+- [NASA to keep its 48-year-old Voyager 2 probe running for yet another year](https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year)
+- [The Nixpkgs core team has disbanded](https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413)
+- [U.S. Department of Energy Launches the Genesis Open Models Initiative](https://genesisopenmodels.anl.gov/)
+- [Water system controllers don&#39;t belong on the internet, says ex-NSA chief](https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070)
+- [Psychological Warfare in Reverse Engineering &lpar;2015&rpar;](https://github.com/xoreaxeaxeax/repsych)
+- [Ancient Library – 1,060 Greek/Latin texts, click any word to parse it](https://ancientlibrary.net/)
+- [Managing AI Coding Costs at Scale](https://www.databricks.com/blog/managing-ai-coding-costs-scale)
+- [Assembly Hall of Shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame)
+- [DeepSeek V4 Flash 0731](https://arcprize.org/results/deepseek-v4-flash-0731)
+- [Oracle bans AI-generated code from OpenJDK](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

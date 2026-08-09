@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine war briefing: Wildberries warehouse struck by Kyiv’s drones more than 2,000km from Russian border](https://www.theguardian.com/world/2026/aug/08/ukraine-war-briefing-wildberries-warehouse-struck-by-kyivs-drones-more-than-2000km-from-russian-border)
-- [Remains of 56 people found decomposing at Chicago funeral home](https://www.theguardian.com/us-news/2026/aug/07/chicago-funeral-home-bodies)
-- [Wasted medicine in England could fill 75 swimming pools a year, pharmacy group says](https://www.theguardian.com/business/2026/aug/08/wasted-medicine-in-england-could-fill-75-swimming-pools-a-year-pharmacy-group-says)
-- [Police investigating Ann Widdecombe murder reopen attempted burglary case from 2025](https://www.theguardian.com/politics/2026/aug/07/counter-terrorism-police-investigating-death-of-ann-widdecombe-reopen-2025-attempted-burglary-case)
-- [Spain to introduce temporary border checks on visitors from Italy](https://www.theguardian.com/world/2026/aug/07/spain-to-introduce-temporary-border-checks-on-visitors-from-italy)
-- [Will Lankshear starts off in style to see Middlesbrough past Wrexham](https://www.theguardian.com/football/2026/aug/07/middlesbrough-wrexham-carabao-cup-match-report)
-- [Leeds extend lead at top of Super League after thrilling late win at Wakefield](https://www.theguardian.com/sport/2026/aug/07/wakefield-leeds-super-league-match-report)
-- [US police officer accused of killing three people in Mexico arrested at border](https://www.theguardian.com/us-news/2026/aug/07/chad-eberle-arrested-police-killings)
-- [Sky Country: Indigenous fashion weaves culture and climate together](https://www.theguardian.com/fashion/ng-interactive/2026/aug/08/sky-country-indigenous-fashion-weaves-culture-and-climate-together)
-- [At least one person dead in California wildfire allegedly sparked by chainsaw](https://www.theguardian.com/us-news/2026/aug/07/sierra-nevada-foothills-fire-death)
+- [Thailand school shooting toll rises to nine after 12-year-old dies, police say](https://www.theguardian.com/world/2026/aug/09/thailand-school-shooting-toll-rises-to-nine-after-12-year-old-dies-police-say)
+- [Breakfast of champions: Australia’s best porridge makers cause a stir at inaugural national competition](https://www.theguardian.com/food/2026/aug/09/breakfast-of-champions-australia-porridge-championships-pearly-spurtle-pearl-beach-central-coast)
+- [‘Explosive’ wildfire forces 20,000 people to flee as British Columbia declares state of emergency](https://www.theguardian.com/world/2026/aug/08/canada-wildfires-british-columbia)
+- [Fifa launches new attack on media over alleged ‘concerted effort’ to undermine Gianni Infantino](https://www.theguardian.com/football/2026/aug/08/fifa-launches-new-attack-on-media-over-alleged-concerted-effort-to-undermine-gianni-infantino)
+- [Sky’s DiJonai Carrington posts ‘white privilege’ after ejection for hard foul on Sophie Cunningham](https://www.theguardian.com/sport/2026/aug/08/sophie-cunningham-foul-dijonai-carrington-ejected-wnba)
+- [Iran issues tough demands to reopen strait of Hormuz as deal still out of reach](https://www.theguardian.com/world/2026/aug/08/iran-issues-tough-demands-to-reopen-strait-of-hormuz-as-deal-remains-out-of-reach)
+- [Navy says it is spending 25% more time monitoring Russian vessels around UK waters](https://www.theguardian.com/uk-news/2026/aug/08/navy-says-it-is-spending-25-more-time-monitoring-russian-vessels-around-uk-waters)
+- [The moment I knew: As I packed, our future looked uncertain – then he gave me his fluffy pyjamas](https://www.theguardian.com/lifeandstyle/2026/aug/09/the-moment-i-knew-as-i-packed-our-future-looked-uncertain-then-he-gave-me-his-fluffy-pyjamas)
+- [When bird flu hit the UK, suffering seabirds died in their thousands. Australia’s wild flocks will soon do the same](https://www.theguardian.com/world/2026/aug/09/bird-flu-australia-thousands-of-deaths-expected-global-modelling)
+- [Hunter Biden talks about how his father’s cancer has spread and is causing him pain](https://www.theguardian.com/us-news/2026/aug/08/joe-biden-hunter-cancer)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Free Money AI Bond Buildout Is Gone](https://www.bloomberg.com/news/newsletters/2026-08-07/the-free-money-ai-bond-buildout-is-gone)
-- [Cuban government open to the idea of an Arab investor to develop &#39;Trump Island&#39;](https://english.elpais.com/international/2026-08-06/cuban-government-open-to-the-idea-of-an-arab-investor-to-develop-trump-island.html)
-- [Lucid whistleblower lawsuit links dismissed warning to Air recall that grew 16x](https://runtimewire.com/article/exclusive-lucid-whistleblower-lawsuit-links-dismissed-warning-to-air-recall-that)
-- [Translating the Renaissance: 17,000+ historical source texts](https://sourcelibrary.org)
-- [Wrangling Evals](https://sackfield.substack.com/p/wrangling-evals)
-- [Ask HN: How can I tell which LLM&#39;s have been trained on what?](https://news.ycombinator.com/item?id=49218466)
-- [The Hat and the Spectre – Recent Groundbreaking Discoveries in Mathematics](https://momath.org/the-hat/)
-- [Chenxiaolong/BasicSync: A simple app for running Syncthing on Android](https://github.com/chenxiaolong/BasicSync)
-- [Show HN: Framewrite – Turn any video into a document you&#39;ll use](https://framewrite.cc/)
-- [Obscura: Headless browser engine. For web scraping and AI agent automation](https://github.com/h4ckf0r0day/obscura)
+- [E.U. Nears Approval of Gene-Edited Crops as Olive Sector Eyes Applications](https://www.oliveoiltimes.com/world/e-u-nears-approval-of-gene-edited-crops-as-olive-sector-eyes-future-applications/144186)
+- [MRMS Renderer – Open-Source NOAA MRMS Radar Renderer for Python](https://github.com/Taylor-Creative-Development/mrms-renderer)
+- [Show HN: Qwen3.8-Max – Use Qwen Studio and MCP to Code Locally for Free](https://github.com/tohid4n/qwen3.8-max-local-coding)
+- [Retraction: The App Store Rejection of the Week That Was a Correct Rejection](https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week)
+- [Ms. Tippi Hedren – The Godmother of the Vietnamese Nail Industry](https://vietnamesemuseum.org/details/ms-tippi-hedren/)
+- [Alternate Routing Graph](https://agentchannels.org/)
+- [The Color Recession May Be Permanent](https://www.theatlantic.com/ideas/2026/08/colorless-gray-products-houses/688174/)
+- [DragonRuby Jam License – Free to All](https://dragonruby.itch.io/dragonruby-gtk/devlog/1620970/dragonruby-jam-license-free-to-all)
+- [I asked 4 AI companions what they were. They lied, then texted me the next day](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7244220)
+- [Real-time MCP interceptor that blocks .env reads and dangerous commands agents](https://marketnow.site/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

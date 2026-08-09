@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [NASA to keep its 48-year-old Voyager 2 probe running for yet another year](https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year)
-- [The Nixpkgs core team has disbanded](https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413)
-- [U.S. Department of Energy Launches the Genesis Open Models Initiative](https://genesisopenmodels.anl.gov/)
-- [Water system controllers don&#39;t belong on the internet, says ex-NSA chief](https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070)
-- [Psychological Warfare in Reverse Engineering &lpar;2015&rpar;](https://github.com/xoreaxeaxeax/repsych)
-- [Ancient Library – 1,060 Greek/Latin texts, click any word to parse it](https://ancientlibrary.net/)
-- [Managing AI Coding Costs at Scale](https://www.databricks.com/blog/managing-ai-coding-costs-scale)
-- [Assembly Hall of Shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame)
-- [DeepSeek V4 Flash 0731](https://arcprize.org/results/deepseek-v4-flash-0731)
-- [Oracle bans AI-generated code from OpenJDK](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code)
+- [ChatGPT starts blocking direct requests to copy an author&#39;s style](https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/)
+- [The phone book that led us to Assad&#39;s spy chief in hiding](https://www.bbc.com/news/articles/c4gyrzn8p94o)
+- [TheoremDB · A public workspace for machine mathematics](https://theoremdb.org/)
+- [Os8088: A powerful Mac-like OS for the IBM XT, 286, 386](https://os8088.com/)
+- [Dithered QR Codes](https://www.andrewt.net/dithered-qr-codes/wtf/)
+- [My server is a phone now](https://seg6.space/posts/phone-server/)
+- [Should you stop cracking your knuckles?](https://www.bbc.com/future/article/20260807-should-i-stop-cracking-my-knuckles)
+- [Shopify replaced Redis with MySQL for inventory reservations–and it scaled](https://shopify.engineering/scaling-inventory-reservations)
+- [Maryland Closes More of Cunningham Falls State Park After Second Beaver Attack](https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/)
+- [Open-source interactive map for the Aug 12 total solar eclipse](https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

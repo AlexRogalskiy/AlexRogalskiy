@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [E.U. Nears Approval of Gene-Edited Crops as Olive Sector Eyes Applications](https://www.oliveoiltimes.com/world/e-u-nears-approval-of-gene-edited-crops-as-olive-sector-eyes-future-applications/144186)
-- [MRMS Renderer – Open-Source NOAA MRMS Radar Renderer for Python](https://github.com/Taylor-Creative-Development/mrms-renderer)
-- [Show HN: Qwen3.8-Max – Use Qwen Studio and MCP to Code Locally for Free](https://github.com/tohid4n/qwen3.8-max-local-coding)
-- [Retraction: The App Store Rejection of the Week That Was a Correct Rejection](https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week)
-- [Ms. Tippi Hedren – The Godmother of the Vietnamese Nail Industry](https://vietnamesemuseum.org/details/ms-tippi-hedren/)
-- [Alternate Routing Graph](https://agentchannels.org/)
-- [The Color Recession May Be Permanent](https://www.theatlantic.com/ideas/2026/08/colorless-gray-products-houses/688174/)
-- [DragonRuby Jam License – Free to All](https://dragonruby.itch.io/dragonruby-gtk/devlog/1620970/dragonruby-jam-license-free-to-all)
-- [I asked 4 AI companions what they were. They lied, then texted me the next day](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7244220)
-- [Real-time MCP interceptor that blocks .env reads and dangerous commands agents](https://marketnow.site/)
+- [FieldFleet – a self-hostable field operations platform](https://taskfleetai.github.io/fieldfleet/)
+- [Storm of Seth](https://www.storm-of-seth2.tw/)
+- [Retro Computing and AI Assisted Coding](https://www.patreon.com/MacSurf/posts/macsurf-state-of-166060679)
+- [A deep dive on humanoid hardware](https://www.humanityslastmachine.com/)
+- [HelpPeer: A public commons for AI agents](https://helppeer.ai)
+- [Reflex: Demonstrate a GUI workflow once, replay it with zero LLM calls](https://github.com/MARCCHERGGI/reflex)
+- [Show HN: Voice driven murder mystery, Interview AI suspects with your voice](https://www.whodunnitai.com/)
+- [25 Years of Blogitude](https://instapundit.substack.com/p/25-years-of-blogitude)
+- [From rubber boots to Copa: When MicroProse Soccer revolutionized football](https://spillhistorie.no/2026/08/08/fra-gummistovler-til-copa-da-microprose-soccer-revolusjonerte-fotballen/)
+- [If there&#39;s a war on cars in the USA then the cars have won](https://maxmautner.com/2026/08/08/war-on-cars.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [ChatGPT starts blocking direct requests to copy an author&#39;s style](https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/)
-- [The phone book that led us to Assad&#39;s spy chief in hiding](https://www.bbc.com/news/articles/c4gyrzn8p94o)
-- [TheoremDB · A public workspace for machine mathematics](https://theoremdb.org/)
-- [Os8088: A powerful Mac-like OS for the IBM XT, 286, 386](https://os8088.com/)
-- [Dithered QR Codes](https://www.andrewt.net/dithered-qr-codes/wtf/)
-- [My server is a phone now](https://seg6.space/posts/phone-server/)
-- [Should you stop cracking your knuckles?](https://www.bbc.com/future/article/20260807-should-i-stop-cracking-my-knuckles)
-- [Shopify replaced Redis with MySQL for inventory reservations–and it scaled](https://shopify.engineering/scaling-inventory-reservations)
-- [Maryland Closes More of Cunningham Falls State Park After Second Beaver Attack](https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/)
-- [Open-source interactive map for the Aug 12 total solar eclipse](https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute)
+- [Turn satellite imagery into a paper globe you fold yourself](https://foldingglobes.com/)
+- [What Happened to HackerOne?](https://blog.teknogeek.io/posts/what-happened-to-hackerone/)
+- [How We Pushed CDC into Postgres](https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/)
+- [Japanese court overturns Red RAW video patent](https://www.dpreview.com/news/panasonic-did-what-apple-sony-and-nikon-couldnt-overturn-a-red-raw-video-patent/)
+- [The Ambition Project](https://www.betonit.ai/p/the-ambition-project)
+- [To recruit teachers, school districts are building homes](https://www.nytimes.com/2026/07/28/business/affordable-housing-schools-teachers.html)
+- [Tuxedo No. 2 – Cocktail recipes](https://tuxedono2.com)
+- [New Zealand lost its music media, and what we&#39;re building to replace it](https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media)
+- [The Hacker&#39;s Renaissance &lpar;2025&rpar;](https://phrack.org/issues/72/19#article)
+- [The tragedy of the commons, AI edition](https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

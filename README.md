@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [FieldFleet – a self-hostable field operations platform](https://taskfleetai.github.io/fieldfleet/)
-- [Storm of Seth](https://www.storm-of-seth2.tw/)
-- [Retro Computing and AI Assisted Coding](https://www.patreon.com/MacSurf/posts/macsurf-state-of-166060679)
-- [A deep dive on humanoid hardware](https://www.humanityslastmachine.com/)
-- [HelpPeer: A public commons for AI agents](https://helppeer.ai)
-- [Reflex: Demonstrate a GUI workflow once, replay it with zero LLM calls](https://github.com/MARCCHERGGI/reflex)
-- [Show HN: Voice driven murder mystery, Interview AI suspects with your voice](https://www.whodunnitai.com/)
-- [25 Years of Blogitude](https://instapundit.substack.com/p/25-years-of-blogitude)
-- [From rubber boots to Copa: When MicroProse Soccer revolutionized football](https://spillhistorie.no/2026/08/08/fra-gummistovler-til-copa-da-microprose-soccer-revolusjonerte-fotballen/)
-- [If there&#39;s a war on cars in the USA then the cars have won](https://maxmautner.com/2026/08/08/war-on-cars.html)
+- [Hatsune Miku](https://en.wikipedia.org/wiki/Hatsune_Miku)
+- [Meilisearch vs. Manticore: Setting the Record Straight](https://medium.com/@s_nikolaev/meilisearch-vs-manticore-setting-the-record-straight-e7d51aa08db2)
+- [Call centres using AI to &#39;whiten&#39; Indian accents &lpar;2025&rpar;](https://tech.yahoo.com/ai/articles/call-centres-using-ai-whiten-090000847.html)
+- [Kredit – Real-time Risk Intelligence for Agents](https://kredit.sh/)
+- [Mindscape: Chandra Sripada on How LLMs and Humans Are Cognitive Cousins](https://preposterousuniverse.com/podcast/2026/08/10/363-chandra-sripada-on-how-llms-and-humans-are-cognitive-cousins/)
+- [TLabel – A unified annotation format and converter for tactile robotics datasets](https://github.com/liesliy/tlabel)
+- [US President hid in catering cart for secret flight in Turkey amid Iran threat](https://www.theguardian.com/us-news/2026/aug/10/trump-secret-flight-nato-return)
+- [&quot;Operator, can you hear me?&quot; A Faithful Line into the UNISOC Baseband](https://arxiv.org/abs/2608.07143)
+- [Meghan O&#39;Gieblyn: Against Slop](https://www.nybooks.com/online/2026/07/11/against-slop-meghan-ogieblyn/)
+- [Capture the Flag](https://unik.cx/ctf/index.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

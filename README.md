@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Turn satellite imagery into a paper globe you fold yourself](https://foldingglobes.com/)
-- [What Happened to HackerOne?](https://blog.teknogeek.io/posts/what-happened-to-hackerone/)
-- [How We Pushed CDC into Postgres](https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/)
-- [Japanese court overturns Red RAW video patent](https://www.dpreview.com/news/panasonic-did-what-apple-sony-and-nikon-couldnt-overturn-a-red-raw-video-patent/)
-- [The Ambition Project](https://www.betonit.ai/p/the-ambition-project)
-- [To recruit teachers, school districts are building homes](https://www.nytimes.com/2026/07/28/business/affordable-housing-schools-teachers.html)
-- [Tuxedo No. 2 – Cocktail recipes](https://tuxedono2.com)
-- [New Zealand lost its music media, and what we&#39;re building to replace it](https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media)
-- [The Hacker&#39;s Renaissance &lpar;2025&rpar;](https://phrack.org/issues/72/19#article)
-- [The tragedy of the commons, AI edition](https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition)
+- [US President hid in catering cart for secret flight in Turkey amid Iran threat](https://www.theguardian.com/us-news/2026/aug/10/trump-secret-flight-nato-return)
+- [Hyperspace](https://hypercritical.co/hyperspace/)
+- [Recycle – Floppydisks](https://www.floppydisk.com/recycle)
+- [Antirez/h3.c: MiniMax H3 inference engine for Mac computers](https://github.com/antirez/h3.c)
+- [Chicken Scheme 6.0](https://code.call-cc.org/releases/6.0.0/NEWS)
+- [The UK&#39;s War on Anonymity Has Come to America](https://www.effort.news/uk-lobby)
+- [Show HN: Scroll through all 43252003274489856000 Rubik&#39;s Cube states](https://everycube.alen.is/)
+- [World Train Map – 1247 train routes around the world](https://worldtrainmap.com/)
+- [Confessions of a Long-Distance Sailor](https://arachnoid.com/lutusp/sailbook.html)
+- [Stop Killing Games: It&#39;s time to sue Sony, join us](https://www.massaschadeconsument.nl/collectieve-acties/playstation/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

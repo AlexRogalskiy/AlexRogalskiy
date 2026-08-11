@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Meta’s new local model forces enterprises to recalculate AI costs and ROI](https://www.computerworld.com/article/4207598/metas-new-local-model-forces-enterprises-to-recalculate-ai-costs-and-roi.html)
+- [Today’s AI hype-fest is partially IT’s fault](https://www.computerworld.com/article/4207473/todays-ai-hype-fest-is-partially-its-fault.html)
+- [Apple’s real memory problem isn’t cost, it’s supply](https://www.computerworld.com/article/4207328/apples-real-memory-problem-isnt-cost-its-supply.html)
+- [Tech sector adds jobs, defies overall US job market decline](https://www.computerworld.com/article/4207291/tech-sector-adds-jobs-defies-overall-us-job-market-decline.html)
 - [Polish data center plans to send its waste heat to the neighbors](https://www.computerworld.com/article/4206808/polish-data-center-plans-to-send-its-waste-heat-to-the-neighbors-2.html)
 - [Airtable joins Evernote, Brightcove, WeTransfer and AOL in Bending Spoons portfolio](https://www.computerworld.com/article/4206777/airtable-joins-evernote-brightcove-wetransfer-and-aol-in-bending-spoons-portfolio-2.html)
 - [Wispr moves beyond AI dictation with note-taking assistant](https://www.computerworld.com/article/4206765/wispr-moves-beyond-ai-dictation-with-note-taking-assistant.html)
 - [DeepMind founder ascends to singular AI role at Google](https://www.computerworld.com/article/4206724/deepmind-founder-ascends-to-singular-ai-role-at-google.html)
 - [Cloudflare wants to provide the operating system for the AI-first enterprise](https://www.computerworld.com/article/4206390/cloudflare-wants-to-provide-the-operating-system-for-the-ai-first-enterprise-2.html)
 - [Granola lawsuit raises concerns over AI note-taking app privacy](https://www.computerworld.com/article/4206255/granola-lawsuit-raises-concerns-over-ai-note-taking-app-privacy.html)
-- [OpenAI’s ‘Rotten to the core’ defense is its weakest play yet](https://www.computerworld.com/article/4206066/openais-rotten-to-the-core-defense-is-its-weakest-play-yet.html)
-- [Enterprise passkey security under threat from malware](https://www.computerworld.com/article/4205809/enterprise-passkey-security-under-threat-from-malware.html)
-- [Microsoft moves to limit AI use by its employees](https://www.computerworld.com/article/4205739/microsoft-restricts-ai-use-for-its-employees.html)
-- [Apple’s memory crisis is a big red flag for tech](https://www.computerworld.com/article/4205686/apples-memory-crisis-is-a-big-red-flag-for-tech.html)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

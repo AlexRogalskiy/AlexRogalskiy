@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [US President hid in catering cart for secret flight in Turkey amid Iran threat](https://www.theguardian.com/us-news/2026/aug/10/trump-secret-flight-nato-return)
-- [Hyperspace](https://hypercritical.co/hyperspace/)
-- [Recycle – Floppydisks](https://www.floppydisk.com/recycle)
-- [Antirez/h3.c: MiniMax H3 inference engine for Mac computers](https://github.com/antirez/h3.c)
-- [Chicken Scheme 6.0](https://code.call-cc.org/releases/6.0.0/NEWS)
-- [The UK&#39;s War on Anonymity Has Come to America](https://www.effort.news/uk-lobby)
-- [Show HN: Scroll through all 43252003274489856000 Rubik&#39;s Cube states](https://everycube.alen.is/)
-- [World Train Map – 1247 train routes around the world](https://worldtrainmap.com/)
-- [Confessions of a Long-Distance Sailor](https://arachnoid.com/lutusp/sailbook.html)
-- [Stop Killing Games: It&#39;s time to sue Sony, join us](https://www.massaschadeconsument.nl/collectieve-acties/playstation/)
+- [The Human Is the Loop](https://brentfitzgerald.com/posts/the-human-is-the-loop/)
+- [Company Offering &#39;100% Human-Written, Never AI&#39; Medical Research Is 100% AI](https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/)
+- [The lifesaving secret hidden inside a horseshoe crab&#39;s blue blood](https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/)
+- [New Bedford police officer accused of using Flock cameras to track ex-partner](https://newbedfordlight.org/new-bedford-police-officer-accused-of-using-flock-cameras-to-track-and-follow-ex-romantic-partner/)
+- [WorldClaw Agentic 3D open-world generation at scale](https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/)
+- [pg_clickhouse v0.10: Subquery pushdown and 1000x faster TPC-H queries](https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026)
+- [Emergent Introspective Awareness in Large Language Models](https://arxiv.org/abs/2601.01828)
+- [Compression is prediction](https://ngrok.com/blog/compression-is-prediction)
+- [Nvidia Nemotron 3.5 Lightning and NeMo Switchyard](https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/)
+- [Making holograms with a pen plotter](https://blog.jordan.matelsky.com/Penplotter-holography/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

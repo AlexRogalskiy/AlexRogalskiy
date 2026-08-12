@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Colombia earthquake live updates: rescuers race to free people from building rubble after more than 110 killed](https://www.theguardian.com/world/live/2026/aug/10/74-magnitude-earthquake-shakes-colombia-causing-serious-damage-latest-news)
-- [At a temple in Thailand, parents mourn a 12-year-old mass shooting victim, and a father pleads for forgiveness](https://www.theguardian.com/world/2026/aug/11/thailand-school-shooting-victim-naphat-chaimar-memorial)
-- [Trump hid in catering cart to board secret flight in Turkey amid Iran threat – reports](https://www.theguardian.com/us-news/2026/aug/10/trump-secret-flight-nato-return)
-- [Donald Trump says it would be a ‘terrible mistake’ to replace Fifa’s Gianni Infantino](https://www.theguardian.com/football/2026/aug/11/donald-trump-fifa-gianni-infantino)
-- [Premier League 2026-27 preview No 3: Bournemouth](https://www.theguardian.com/football/2026/aug/11/premier-league-2026-27-preview-bournemouth)
-- [Zuckerberg pushes ‘superintelligent’ AI for all as Meta drops open-source model](https://www.theguardian.com/technology/2026/aug/10/mark-zuckerberg-superintelligent-ai-essay-meta)
-- [Amanda Knox in Cartwheel review – rookie standup acquitted of murder tells her story](https://www.theguardian.com/stage/2026/aug/10/amanda-knox-in-cartwheel-review-rookie-standup-acquitted-of-tells-her-story)
-- [Trump signs order attempting to override CDC vaccine schedule and break up MMR shots](https://www.theguardian.com/us-news/2026/aug/10/trump-vaccines-executive-order-measles)
-- [Carabao Cup second-round draw: Chelsea host Luton, Forest at home to Leeds](https://www.theguardian.com/football/2026/aug/10/carabao-cup-second-round-draw-chelsea-luton-nottingham-forest-leeds)
-- [Britain’s Amy Hunt powers to emphatic 100m European gold to thrill home crowd](https://www.theguardian.com/sport/2026/aug/10/amy-hunt-womens-100m-2026-european-athletics-championships)
+- [New Zealand PM Christopher Luxon wins confidence vote, surviving second challenge to leadership](https://www.theguardian.com/world/2026/aug/12/nz-christopher-luxon-leadership-showdown-confidence-vote)
+- [Passenger jet billed as China’s answer to Boeing and Airbus prepares to make first international flight](https://www.theguardian.com/world/2026/aug/12/comac-c919-chinese-passenger-jet-china-plane-first-international-flight)
+- [Thailand suspends gun licences as teen shooter and grandparents he killed are cremated](https://www.theguardian.com/world/2026/aug/12/thailand-suspends-gun-licences-teenage-shooter-grandparents-cremated)
+- [A ‘body’ found in a suitcase was actually a sex doll. How did NSW police get it so wrong?](https://www.theguardian.com/australia-news/2026/aug/12/female-body-suitcase-sex-doll-nsw-police-explained)
+- [Floods, storms and landslides: Typhoon Dolphin ravages China – in pictures](https://www.theguardian.com/world/gallery/2026/aug/12/typhoon-dolphin-china-floods-storms-landslides-gallery-in-pictures)
+- [Trump’s Air Force One deception faces scrutiny over ‘decoy’ passengers](https://www.theguardian.com/us-news/2026/aug/11/trump-air-force-one-deception-democrats)
+- [Cook Islands election: PM Mark Brown speaks on the diplomatic crises that defined his year](https://www.theguardian.com/world/2026/aug/12/cook-islands-election-mark-brown-pm-prime-minister)
+- [Male redback spiders invite cannibalism through a ‘self-sacrificial somersault’ during sex – but why?](https://www.theguardian.com/environment/2026/aug/12/male-redback-spiders-invite-cannibalism-through-a-self-sacrificial-somersault-during-sex-but-why)
+- [Households near new pylons to get £250 taken off annual energy bills](https://www.theguardian.com/business/2026/aug/12/households-near-new-pylons-to-get-250-taken-off-annual-energy-bills)
+- [Suri Core 1.0 electric toothbrush review: this new budget model is still sustainable – and the one I’d buy](https://www.theguardian.com/thefilter/2026/aug/12/suri-core-1-0-electric-toothbrush-review)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

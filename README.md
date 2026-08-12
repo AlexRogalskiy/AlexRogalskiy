@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Hatsune Miku](https://en.wikipedia.org/wiki/Hatsune_Miku)
-- [Meilisearch vs. Manticore: Setting the Record Straight](https://medium.com/@s_nikolaev/meilisearch-vs-manticore-setting-the-record-straight-e7d51aa08db2)
-- [Call centres using AI to &#39;whiten&#39; Indian accents &lpar;2025&rpar;](https://tech.yahoo.com/ai/articles/call-centres-using-ai-whiten-090000847.html)
-- [Kredit – Real-time Risk Intelligence for Agents](https://kredit.sh/)
-- [Mindscape: Chandra Sripada on How LLMs and Humans Are Cognitive Cousins](https://preposterousuniverse.com/podcast/2026/08/10/363-chandra-sripada-on-how-llms-and-humans-are-cognitive-cousins/)
-- [TLabel – A unified annotation format and converter for tactile robotics datasets](https://github.com/liesliy/tlabel)
-- [US President hid in catering cart for secret flight in Turkey amid Iran threat](https://www.theguardian.com/us-news/2026/aug/10/trump-secret-flight-nato-return)
-- [&quot;Operator, can you hear me?&quot; A Faithful Line into the UNISOC Baseband](https://arxiv.org/abs/2608.07143)
-- [Meghan O&#39;Gieblyn: Against Slop](https://www.nybooks.com/online/2026/07/11/against-slop-meghan-ogieblyn/)
-- [Capture the Flag](https://unik.cx/ctf/index.html)
+- [Show HN: Lethe is a portable identity layer – user consented](https://lethe-ai.vercel.app)
+- [Mark Zuckerberg: The Future Is for Everyone](https://about.fb.com/news/2026/08/the-future-is-for-everyone/)
+- [Meta can&#39;t stop states&#39; $1.4T lawsuit from going to trial](https://arstechnica.com/tech-policy/2026/08/meta-cant-stop-states-1-4-trillion-lawsuit-from-going-to-trial/)
+- [World Encyclopaedia of Puppetry Arts](https://wepa.unima.org/en/)
+- [Rootless Container Sandbox for Claude Code and Codex](https://www.reddit.com/r/ClaudeAI/comments/1vm2w0e/a_lightweight_rootless_container_sandbox_for/)
+- [CVE-2026-53361 AF_Unix GC vs. MSG_PEEK use-after-free container escape](https://github.com/sgkdev/bad_garbage)
+- [DoorDash Flux: Delegating Engineering Work to Cloud Based Agents](https://careersatdoordash.com/blog/delegating-engineering-work-to-cloud-based-agents/)
+- [DARPA heavy lift challenge ends with winner at a 3.84:1 payload to weight ratio](https://dronexl.co/2026/08/10/darpa-lift-challenge-results-avidrone/)
+- [LSPs for LLMs](https://ianbarber.blog/2026/08/11/lsps-for-llms/)
+- [Hannah Arendt&#39;s American Education](https://www.newyorker.com/magazine/2026/08/17/hannah-arendt-life-of-the-mind-thomas-meyer-book-review-an-admirable-woman-arthur-cohen)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

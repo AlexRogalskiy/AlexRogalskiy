@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [New Zealand PM Christopher Luxon wins confidence vote, surviving second challenge to leadership](https://www.theguardian.com/world/2026/aug/12/nz-christopher-luxon-leadership-showdown-confidence-vote)
-- [Passenger jet billed as China’s answer to Boeing and Airbus prepares to make first international flight](https://www.theguardian.com/world/2026/aug/12/comac-c919-chinese-passenger-jet-china-plane-first-international-flight)
-- [Thailand suspends gun licences as teen shooter and grandparents he killed are cremated](https://www.theguardian.com/world/2026/aug/12/thailand-suspends-gun-licences-teenage-shooter-grandparents-cremated)
-- [A ‘body’ found in a suitcase was actually a sex doll. How did NSW police get it so wrong?](https://www.theguardian.com/australia-news/2026/aug/12/female-body-suitcase-sex-doll-nsw-police-explained)
-- [Floods, storms and landslides: Typhoon Dolphin ravages China – in pictures](https://www.theguardian.com/world/gallery/2026/aug/12/typhoon-dolphin-china-floods-storms-landslides-gallery-in-pictures)
-- [Trump’s Air Force One deception faces scrutiny over ‘decoy’ passengers](https://www.theguardian.com/us-news/2026/aug/11/trump-air-force-one-deception-democrats)
-- [Cook Islands election: PM Mark Brown speaks on the diplomatic crises that defined his year](https://www.theguardian.com/world/2026/aug/12/cook-islands-election-mark-brown-pm-prime-minister)
-- [Male redback spiders invite cannibalism through a ‘self-sacrificial somersault’ during sex – but why?](https://www.theguardian.com/environment/2026/aug/12/male-redback-spiders-invite-cannibalism-through-a-self-sacrificial-somersault-during-sex-but-why)
-- [Households near new pylons to get £250 taken off annual energy bills](https://www.theguardian.com/business/2026/aug/12/households-near-new-pylons-to-get-250-taken-off-annual-energy-bills)
-- [Suri Core 1.0 electric toothbrush review: this new budget model is still sustainable – and the one I’d buy](https://www.theguardian.com/thefilter/2026/aug/12/suri-core-1-0-electric-toothbrush-review)
+- [Ukraine war briefing: ‘With precision, as planned’ – Kyiv outlines battlefield gains](https://www.theguardian.com/world/2026/aug/13/ukraine-war-briefing-kyiv-outlines-battlefield-gains)
+- [With Hollywood struggling in China, can the Odyssey draw a crowd?](https://www.theguardian.com/film/2026/aug/13/hollywood-struggling-in-china-the-odyssey-imax-christopher-nolan-premiere)
+- [Travis Kelce says wedding to Taylor Swift was &#39;the best night of my life&#39; in first official comments](https://www.theguardian.com/music/2026/aug/13/travis-kelce-comments-taylor-swift-wedding-best-night-of-my-life)
+- [Potatoes ‘boil’ in the ground as record heatwave sweeps across swathes of Asia](https://www.theguardian.com/world/2026/aug/13/asia-heatwave-south-korea-potatoes-boil-ground-record-heat-hong-kong-japan)
+- [Nurses fainting in ‘inhumane’ conditions due to extreme heat, union warns](https://www.theguardian.com/society/2026/aug/13/nurses-fainting-inhumane-conditions-due-to-extreme-heat-uk-union-warns)
+- [Premier League 2026-27 preview No 7: Coventry](https://www.theguardian.com/football/2026/aug/13/premier-league-2026-2026-preview-7-coventry)
+- [Doué seals Super Cup glory for PSG after Madjo makes history for Aston Villa](https://www.theguardian.com/football/2026/aug/12/uefa-super-cup-aston-villa-psg-match-report)
+- [Atlético Madrid agree £34.1m deal for Tottenham’s Cristian Romero](https://www.theguardian.com/football/2026/aug/12/atletico-madrid-agree-deal-tottenham-cristian-romero)
+- [Karoline Leavitt will step down as White House press secretary, Trump says](https://www.theguardian.com/us-news/2026/aug/12/karoline-leavitt-resigns)
+- [Israeli militants besiege two Palestinian families in their West Bank homes](https://www.theguardian.com/world/2026/aug/12/israeli-militants-besiege-two-palestinian-families-in-their-west-bank-homes)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

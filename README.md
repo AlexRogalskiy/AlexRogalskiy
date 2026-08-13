@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The Human Is the Loop](https://brentfitzgerald.com/posts/the-human-is-the-loop/)
-- [Company Offering &#39;100% Human-Written, Never AI&#39; Medical Research Is 100% AI](https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/)
-- [The lifesaving secret hidden inside a horseshoe crab&#39;s blue blood](https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/)
-- [New Bedford police officer accused of using Flock cameras to track ex-partner](https://newbedfordlight.org/new-bedford-police-officer-accused-of-using-flock-cameras-to-track-and-follow-ex-romantic-partner/)
-- [WorldClaw Agentic 3D open-world generation at scale](https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/)
-- [pg_clickhouse v0.10: Subquery pushdown and 1000x faster TPC-H queries](https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026)
-- [Emergent Introspective Awareness in Large Language Models](https://arxiv.org/abs/2601.01828)
-- [Compression is prediction](https://ngrok.com/blog/compression-is-prediction)
-- [Nvidia Nemotron 3.5 Lightning and NeMo Switchyard](https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/)
-- [Making holograms with a pen plotter](https://blog.jordan.matelsky.com/Penplotter-holography/)
+- [Show HN: Ballet – Workflow automation that writes integrations against any API](https://www.ballet.dev/)
+- [Happy 45th Birthday to the IBM PC and Model F/XT](https://sharktastica.co.uk/articles/pc-fxt-45)
+- [Build Wide, Ship Narrow](https://adapt.com/blog/build-wide-ship-narrow)
+- [Principia Mathematica is modern and insightful](https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html)
+- [Process as a Proxy for Motivation](https://bengodfrey.dev/blog/process/)
+- [Thanks to social media, canned sardines are a scarcity on the supermarket shelf](https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/)
+- [Breaking the WAL](https://antithesis.com/blog/2026/wal-reset-bug/)
+- [Delta](https://zed.dev/blog/introducing-delta)
+- [Reflex &lpar;YC W23&rpar; Is hiring Growth and GTM Roles](https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer)
+- [HTML over WebSockets: real-time SPAs with barely any JavaScript](https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

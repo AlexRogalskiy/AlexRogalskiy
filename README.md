@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Lovable bolsters its AI software creation capacity, touts $400M funding round](https://www.computerworld.com/article/4208770/lovable-bolsters-its-ai-software-creation-capacity-touts-400m-funding-round.html)
+- [Researcher creates workaround for Microsoft Defender security patch](https://www.computerworld.com/article/4208774/researcher-creates-workaround-for-microsoft-defender-security-patch-2.html)
+- [Lovable raises another $400M, confirms new $13.3B valuation](https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/)
+- [IT infrastructure shortages are real and lasting. Here’s how to cope](https://www.networkworld.com/article/4206832/it-infrastructure-shortages-are-real-and-lasting-heres-how-to-cope.html)
+- [Apple’s response to RAM-ageddon? Lease, downgrade, refurbish, repair](https://www.computerworld.com/article/4208552/apples-response-to-ram-ageddon-lease-downgrade-refurbish-repair.html)
+- [AI policies work better when employees help write them](https://www.computerworld.com/article/4201233/ai-policies-work-better-when-employees-help-write-them.html)
 - [Anthropic to watermark AI-generated content](https://www.computerworld.com/article/4208149/anthropic-will-begin-watermarking-ai-generated-content.html)
 - [Apple’s price hikes are a warning to IT](https://www.computerworld.com/article/4207984/apples-price-hikes-are-a-warning-to-it.html)
 - [AI finds so many Windows flaws, Microsoft can’t keep up. Should you worry?](https://www.computerworld.com/article/4207441/ai-finds-so-many-windows-flaws-microsoft-cant-keep-up-should-you-worry.html)
 - [Meta’s local AI model prompts enterprises to rethink hardware-software cost trade-off](https://www.computerworld.com/article/4207598/metas-new-local-model-forces-enterprises-to-recalculate-ai-costs-and-roi.html)
-- [Today’s AI hype-fest is partially IT’s fault](https://www.computerworld.com/article/4207473/todays-ai-hype-fest-is-partially-its-fault.html)
-- [Apple’s real memory problem isn’t cost, it’s supply](https://www.computerworld.com/article/4207328/apples-real-memory-problem-isnt-cost-its-supply.html)
-- [Tech sector adds jobs, defies overall US job market decline](https://www.computerworld.com/article/4207291/tech-sector-adds-jobs-defies-overall-us-job-market-decline.html)
-- [Polish data center plans to send its waste heat to the neighbors](https://www.computerworld.com/article/4206808/polish-data-center-plans-to-send-its-waste-heat-to-the-neighbors-2.html)
-- [Airtable joins Evernote, Brightcove, WeTransfer and AOL in Bending Spoons portfolio](https://www.computerworld.com/article/4206777/airtable-joins-evernote-brightcove-wetransfer-and-aol-in-bending-spoons-portfolio-2.html)
-- [Wispr moves beyond AI dictation with note-taking assistant](https://www.computerworld.com/article/4206765/wispr-moves-beyond-ai-dictation-with-note-taking-assistant.html)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

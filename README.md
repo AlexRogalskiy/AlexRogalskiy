@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: Lethe is a portable identity layer – user consented](https://lethe-ai.vercel.app)
-- [Mark Zuckerberg: The Future Is for Everyone](https://about.fb.com/news/2026/08/the-future-is-for-everyone/)
-- [Meta can&#39;t stop states&#39; $1.4T lawsuit from going to trial](https://arstechnica.com/tech-policy/2026/08/meta-cant-stop-states-1-4-trillion-lawsuit-from-going-to-trial/)
-- [World Encyclopaedia of Puppetry Arts](https://wepa.unima.org/en/)
-- [Rootless Container Sandbox for Claude Code and Codex](https://www.reddit.com/r/ClaudeAI/comments/1vm2w0e/a_lightweight_rootless_container_sandbox_for/)
-- [CVE-2026-53361 AF_Unix GC vs. MSG_PEEK use-after-free container escape](https://github.com/sgkdev/bad_garbage)
-- [DoorDash Flux: Delegating Engineering Work to Cloud Based Agents](https://careersatdoordash.com/blog/delegating-engineering-work-to-cloud-based-agents/)
-- [DARPA heavy lift challenge ends with winner at a 3.84:1 payload to weight ratio](https://dronexl.co/2026/08/10/darpa-lift-challenge-results-avidrone/)
-- [LSPs for LLMs](https://ianbarber.blog/2026/08/11/lsps-for-llms/)
-- [Hannah Arendt&#39;s American Education](https://www.newyorker.com/magazine/2026/08/17/hannah-arendt-life-of-the-mind-thomas-meyer-book-review-an-admirable-woman-arthur-cohen)
+- [Specula: Scaling formal specs for autonomous model checking of system code](http://muratbuffalo.blogspot.com/2026/08/specula-scaling-formal-specifications.html)
+- [16GB EGPU for AI Inference, $699](https://www.amazon.com/GIGABYTE-Graphics-128-bit-Server-Grade-Thunderbolt/dp/B0GKFHSPN8)
+- [Show HN: I asked Claude to write DDIA as a live comic](https://systemscomic.com/ddia/read)
+- [How the smiley face was born](https://www.history.com/articles/smiley-face-history)
+- [Edge is dropping older extensions&lpar;Manifest V2&rpar;, affecting popular privacy tools](https://www.malwarebytes.com/blog/news/2026/08/edge-is-dropping-older-extensions-affecting-popular-privacy-tools)
+- [You&#39;re Absolutely Right](https://www.lesswrong.com/posts/u8TdDutDyaSxG76hn/you-re-absolutely-right)
+- [Show HN: Rule-lite – Tiny dependency-free TS engine for JSON conditional rules](https://github.com/tejas821/rule-lite)
+- [From assistance to execution: How enterprises put AI to work](https://openai.com/index/how-enterprises-put-ai-to-work/)
+- [A unified CLI for native OS keychains – x keyring](https://www.x-cmd.com/blog/260811/)
+- [OpenLiving - A data center you can live in [video]](https://www.youtube.com/watch?v=BwkBXNOPa_w)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

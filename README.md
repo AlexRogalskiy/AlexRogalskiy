@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Specula: Scaling formal specs for autonomous model checking of system code](http://muratbuffalo.blogspot.com/2026/08/specula-scaling-formal-specifications.html)
-- [16GB EGPU for AI Inference, $699](https://www.amazon.com/GIGABYTE-Graphics-128-bit-Server-Grade-Thunderbolt/dp/B0GKFHSPN8)
-- [Show HN: I asked Claude to write DDIA as a live comic](https://systemscomic.com/ddia/read)
-- [How the smiley face was born](https://www.history.com/articles/smiley-face-history)
-- [Edge is dropping older extensions&lpar;Manifest V2&rpar;, affecting popular privacy tools](https://www.malwarebytes.com/blog/news/2026/08/edge-is-dropping-older-extensions-affecting-popular-privacy-tools)
-- [You&#39;re Absolutely Right](https://www.lesswrong.com/posts/u8TdDutDyaSxG76hn/you-re-absolutely-right)
-- [Show HN: Rule-lite – Tiny dependency-free TS engine for JSON conditional rules](https://github.com/tejas821/rule-lite)
-- [From assistance to execution: How enterprises put AI to work](https://openai.com/index/how-enterprises-put-ai-to-work/)
-- [A unified CLI for native OS keychains – x keyring](https://www.x-cmd.com/blog/260811/)
-- [OpenLiving - A data center you can live in [video]](https://www.youtube.com/watch?v=BwkBXNOPa_w)
+- [Flock puts new &#39;guardrails&#39; on license-plate cameras. Critics skeptical](https://www.sfchronicle.com/crime/article/flock-cameras-ceo-surveillance-policy-22384139.php)
+- [Openleaf: Overleaf&#39;s workflow. Obsidian&#39;s interface. None of the cloud](https://github.com/vicky157/openleaf)
+- [The Jobless Boom Has Arrived](https://www.wsj.com/economy/jobs/the-jobless-boom-has-arrived-41361a06)
+- [Daily driving PostmarketOS &lpar;Summer 2026&rpar;](https://blog.senderolinux.com/daily-driving-postmarketos-summer-2026/)
+- [Air Purifiers as White Noise Machines](https://www.jefftk.com/p/air-purifiers-as-white-noise-machines)
+- [End-to-end encrypted .env sharing](https://github.com/p-arndt/shenv)
+- [How AI engines cite brands?](https://www.leapd.ai/blog/ai-visibility/how-chatgpt-google-ai-overviews-and-perplexity-source-information-in-2026)
+- [Ask HN: How are you preventing brainrot?](https://news.ycombinator.com/item?id=49294529)
+- [Ask HN: What is something produced by GenAI that you use regularly?](https://news.ycombinator.com/item?id=49294513)
+- [AI Coding Has Erased the Supposed Advantage of Statically Typed Languages](https://yyhh.org/blog/2026/08/ai-coding-has-erased-the-supposed-advantage-of-statically-typed-languages/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

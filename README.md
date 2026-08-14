@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [DeepSeek raises some V4 prices by more than 10x as AI demand strains capacity](https://www.computerworld.com/article/4209468/deepseek-raises-some-v4-prices-by-more-than-10x-as-ai-demand-strains-capacity-2.html)
+- [How Apple is leaving money on the table](https://www.computerworld.com/article/4209268/how-apple-is-leaving-money-on-the-table.html)
+- [Adobe now lets Workfront users assign tasks to AI agents](https://www.computerworld.com/article/4209291/adobe-now-lets-workfront-users-assign-tasks-to-ai-agents.html)
+- [It took $58 to break Microsoft’s SCCM, but a patch made it harder](https://www.computerworld.com/article/4209164/it-took-58-to-break-microsofts-sccm-but-a-patch-made-it-harder-2.html)
+- [OpenAI: Latest news and insights](https://www.computerworld.com/article/4015023/openai-latest-news-and-insights.html)
+- [Pixel 11 envy? Here’s how to unlock its best new feature on any Android device](https://www.computerworld.com/article/4208081/google-pixel-11-android.html)
 - [Lovable bolsters its AI software creation capacity, touts $400M funding round](https://www.computerworld.com/article/4208770/lovable-bolsters-its-ai-software-creation-capacity-touts-400m-funding-round.html)
-- [Researcher creates workaround for Microsoft Defender security patch](https://www.computerworld.com/article/4208774/researcher-creates-workaround-for-microsoft-defender-security-patch-2.html)
-- [Lovable raises another $400M, confirms new $13.3B valuation](https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/)
+- [Researcher bypasses Microsoft Defender security patch, seizing control](https://www.computerworld.com/article/4208774/researcher-bypasses-microsoft-defender-security-patch-seizing-control-2.html)
 - [IT infrastructure shortages are real and lasting. Here’s how to cope](https://www.networkworld.com/article/4206832/it-infrastructure-shortages-are-real-and-lasting-heres-how-to-cope.html)
 - [Apple’s response to RAM-ageddon? Lease, downgrade, refurbish, repair](https://www.computerworld.com/article/4208552/apples-response-to-ram-ageddon-lease-downgrade-refurbish-repair.html)
-- [AI policies work better when employees help write them](https://www.computerworld.com/article/4201233/ai-policies-work-better-when-employees-help-write-them.html)
-- [Anthropic to watermark AI-generated content](https://www.computerworld.com/article/4208149/anthropic-will-begin-watermarking-ai-generated-content.html)
-- [Apple’s price hikes are a warning to IT](https://www.computerworld.com/article/4207984/apples-price-hikes-are-a-warning-to-it.html)
-- [AI finds so many Windows flaws, Microsoft can’t keep up. Should you worry?](https://www.computerworld.com/article/4207441/ai-finds-so-many-windows-flaws-microsoft-cant-keep-up-should-you-worry.html)
-- [Meta’s local AI model prompts enterprises to rethink hardware-software cost trade-off](https://www.computerworld.com/article/4207598/metas-new-local-model-forces-enterprises-to-recalculate-ai-costs-and-roi.html)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

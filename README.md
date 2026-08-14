@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Show HN: Ballet – Workflow automation that writes integrations against any API](https://www.ballet.dev/)
-- [Happy 45th Birthday to the IBM PC and Model F/XT](https://sharktastica.co.uk/articles/pc-fxt-45)
-- [Build Wide, Ship Narrow](https://adapt.com/blog/build-wide-ship-narrow)
-- [Principia Mathematica is modern and insightful](https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html)
-- [Process as a Proxy for Motivation](https://bengodfrey.dev/blog/process/)
-- [Thanks to social media, canned sardines are a scarcity on the supermarket shelf](https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/)
-- [Breaking the WAL](https://antithesis.com/blog/2026/wal-reset-bug/)
-- [Delta](https://zed.dev/blog/introducing-delta)
-- [Reflex &lpar;YC W23&rpar; Is hiring Growth and GTM Roles](https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer)
-- [HTML over WebSockets: real-time SPAs with barely any JavaScript](https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/)
+- [US conducted mass spying campaign against leftwing and anti-ICE protesters](https://www.theguardian.com/us-news/2026/aug/13/us-government-spied-anti-ice-protesters)
+- [Bluesky Protocol Services](https://atproto.com/blog/introducing-bluesky-protocol-services)
+- [SparrowMap – Cameras that watch government vehicles](https://sparrowmap.com/)
+- [Blog about things you don&#39;t understand yet](https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/)
+- [NP-overrated](https://gruhn.me/blog/2026-08-13/)
+- [How Gödel&#39;s Proof Works &lpar;2020&rpar;](https://www.quantamagazine.org/how-godels-proof-works-20200714/)
+- [How Organizations Use AI: Evidence from ChatGPT [pdf]](https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf)
+- [Understanding is the new bottleneck](https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck)
+- [Single log line is 49KB+ &lpar;ext4&rpar; / 110KB+ &lpar;btrfs&rpar; of systemd-journald disk writes](https://github.com/systemd/systemd/issues/40262)
+- [Hello, me. It&#39;s been a while](https://themech.net/2026/08/hello-me-its-been-a-while/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

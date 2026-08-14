@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine war briefing: ‘With precision, as planned’ – Kyiv outlines battlefield gains](https://www.theguardian.com/world/2026/aug/13/ukraine-war-briefing-kyiv-outlines-battlefield-gains)
-- [With Hollywood struggling in China, can the Odyssey draw a crowd?](https://www.theguardian.com/film/2026/aug/13/hollywood-struggling-in-china-the-odyssey-imax-christopher-nolan-premiere)
-- [Travis Kelce says wedding to Taylor Swift was &#39;the best night of my life&#39; in first official comments](https://www.theguardian.com/music/2026/aug/13/travis-kelce-comments-taylor-swift-wedding-best-night-of-my-life)
-- [Potatoes ‘boil’ in the ground as record heatwave sweeps across swathes of Asia](https://www.theguardian.com/world/2026/aug/13/asia-heatwave-south-korea-potatoes-boil-ground-record-heat-hong-kong-japan)
-- [Nurses fainting in ‘inhumane’ conditions due to extreme heat, union warns](https://www.theguardian.com/society/2026/aug/13/nurses-fainting-inhumane-conditions-due-to-extreme-heat-uk-union-warns)
-- [Premier League 2026-27 preview No 7: Coventry](https://www.theguardian.com/football/2026/aug/13/premier-league-2026-2026-preview-7-coventry)
-- [Doué seals Super Cup glory for PSG after Madjo makes history for Aston Villa](https://www.theguardian.com/football/2026/aug/12/uefa-super-cup-aston-villa-psg-match-report)
-- [Atlético Madrid agree £34.1m deal for Tottenham’s Cristian Romero](https://www.theguardian.com/football/2026/aug/12/atletico-madrid-agree-deal-tottenham-cristian-romero)
-- [Karoline Leavitt will step down as White House press secretary, Trump says](https://www.theguardian.com/us-news/2026/aug/12/karoline-leavitt-resigns)
-- [Israeli militants besiege two Palestinian families in their West Bank homes](https://www.theguardian.com/world/2026/aug/12/israeli-militants-besiege-two-palestinian-families-in-their-west-bank-homes)
+- [Nigel Farage says he won’t attend count in Clacton byelection against Count Binface - UK politics live](https://www.theguardian.com/politics/live/2026/aug/14/clacton-byelection-nigel-farage-count-binface-reform-uk-finances-donations-investigation-latest-news-updates)
+- [‘Tiktok wouldn’t open at all’: Taiwan simulates an internet blackout, with an eye on China threat](https://www.theguardian.com/world/2026/aug/14/taiwan-taipei-internet-blackout-air-raid-drill-china-threat)
+- [Ukraine war briefing: Crimea bomb kills ‘Ukrainian sub commander who defected’](https://www.theguardian.com/world/2026/aug/14/ukraine-war-briefing-crimea-bomb-robert-shageyev-defected)
+- [‘So much more respect for myself’: NZ ultrarunner Sophie Woods on smashing a 2,000km alpine run record](https://www.theguardian.com/world/2026/aug/14/nz-ultrarunner-sophie-woods-via-alpina-record)
+- [US conducted ‘mass spying campaign’ against leftwing groups and anti-ICE protesters, records reveal](https://www.theguardian.com/us-news/2026/aug/13/us-government-spied-anti-ice-protesters)
+- [Premier League 2026-27 preview No 9: Everton](https://www.theguardian.com/football/2026/aug/14/premier-league-2026-27-preview-no-9-everton)
+- [Unemployed young people to join AI boot camps to get job-ready](https://www.theguardian.com/society/2026/aug/14/unemployed-young-people-to-join-ai-boot-camps-to-get-job-ready)
+- [The Schoolgirl Terrorist? review – by the end of this documentary you feel like you have sat through a nightmare](https://www.theguardian.com/tv-and-radio/2026/aug/13/the-schoolgirl-terrorist-review-television-channel-four)
+- [Leigh dent Leeds’ title ambitions as Super League set to reject NRL’s opening £7m offer](https://www.theguardian.com/sport/2026/aug/13/leeds-leigh-super-league-rugby-league-match-report)
+- [Rangers crash out of Europa League as Derek McInnes’s winless start goes on](https://www.theguardian.com/football/2026/aug/13/rangers-crash-out-of-europa-league-as-derek-mcinness-winless-start-goes-on)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

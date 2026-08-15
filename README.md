@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Flock puts new &#39;guardrails&#39; on license-plate cameras. Critics skeptical](https://www.sfchronicle.com/crime/article/flock-cameras-ceo-surveillance-policy-22384139.php)
-- [Openleaf: Overleaf&#39;s workflow. Obsidian&#39;s interface. None of the cloud](https://github.com/vicky157/openleaf)
-- [The Jobless Boom Has Arrived](https://www.wsj.com/economy/jobs/the-jobless-boom-has-arrived-41361a06)
-- [Daily driving PostmarketOS &lpar;Summer 2026&rpar;](https://blog.senderolinux.com/daily-driving-postmarketos-summer-2026/)
-- [Air Purifiers as White Noise Machines](https://www.jefftk.com/p/air-purifiers-as-white-noise-machines)
-- [End-to-end encrypted .env sharing](https://github.com/p-arndt/shenv)
-- [How AI engines cite brands?](https://www.leapd.ai/blog/ai-visibility/how-chatgpt-google-ai-overviews-and-perplexity-source-information-in-2026)
-- [Ask HN: How are you preventing brainrot?](https://news.ycombinator.com/item?id=49294529)
-- [Ask HN: What is something produced by GenAI that you use regularly?](https://news.ycombinator.com/item?id=49294513)
-- [AI Coding Has Erased the Supposed Advantage of Statically Typed Languages](https://yyhh.org/blog/2026/08/ai-coding-has-erased-the-supposed-advantage-of-statically-typed-languages/)
+- [Cox–Zucker Machine](https://en.wikipedia.org/wiki/Cox%E2%80%93Zucker_machine)
+- [Delete DoorDash](https://deletedoordash.com/)
+- [We need your help to make a faster and more secure Monero node a reality](https://reddit.com/r/Monero/comments/1vo7htb/we_need_your_help_to_make_a_faster_and_more/)
+- [Time-of-Check to Time-of-Use](https://en.wikipedia.org/wiki/Time-of-check_to_time-of-use)
+- [Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast](https://www.reuters.com/business/anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15/)
+- [Show HN: BeCharts – online chart maker &lpar;templates, CSV, PNG/SVG/PDF&rpar;](https://www.becharts.com/editor)
+- [How did a Usenet troll and encryption genius become a criminal mastermind?](https://magazine.atavist.com/2016/he-always-had-a-dark-side)
+- [Show HN: WMTrace – See how LLM text watermarks work &lpar;Anthropic just adopted one&rpar;](https://github.com/gtesei/llm-watermark)
+- [Someone is publishing a trove of zero-days](https://0day-rubbish.com/)
+- [OpenAI ditches Recall-style screenshot surveillance for friendly keylogging](https://www.theregister.com/ai-and-ml/2026/08/14/openai-ditches-recall-style-screenshot-surveillance-for-friendly-keylogging/5287618)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [US conducted mass spying campaign against leftwing and anti-ICE protesters](https://www.theguardian.com/us-news/2026/aug/13/us-government-spied-anti-ice-protesters)
-- [Bluesky Protocol Services](https://atproto.com/blog/introducing-bluesky-protocol-services)
-- [SparrowMap – Cameras that watch government vehicles](https://sparrowmap.com/)
-- [Blog about things you don&#39;t understand yet](https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/)
-- [NP-overrated](https://gruhn.me/blog/2026-08-13/)
-- [How Gödel&#39;s Proof Works &lpar;2020&rpar;](https://www.quantamagazine.org/how-godels-proof-works-20200714/)
-- [How Organizations Use AI: Evidence from ChatGPT [pdf]](https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf)
-- [Understanding is the new bottleneck](https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck)
-- [Single log line is 49KB+ &lpar;ext4&rpar; / 110KB+ &lpar;btrfs&rpar; of systemd-journald disk writes](https://github.com/systemd/systemd/issues/40262)
-- [Hello, me. It&#39;s been a while](https://themech.net/2026/08/hello-me-its-been-a-while/)
+- [Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive)
+- [The Ploopy A+ Trackball Is Here](https://blog.ploopy.co/the-aplus-is-finally-here-499)
+- [NSA and IETF, Part 9](https://blog.cr.yp.to/20260814-update.html)
+- [Simplifying and Refactoring Introductory Calculus](https://arxiv.org/abs/1811.03459)
+- [Corgi kills short-lived website that ranked its female employees](https://sf.gazetteer.co/corgi-kills-short-lived-website-that-ranked-its-female-employees)
+- [The case for overhauling American science](https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science)
+- [Stop sending me huge PRs; a rant](https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va)
+- [RISC-V: They should have known better](https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV)
+- [eigendrum](https://eigendrum.com/#p=circle)
+- [Going Dark, and the era of law enforcement hacking](https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

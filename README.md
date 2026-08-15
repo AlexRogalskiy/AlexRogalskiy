@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Nigel Farage says he won’t attend count in Clacton byelection against Count Binface - UK politics live](https://www.theguardian.com/politics/live/2026/aug/14/clacton-byelection-nigel-farage-count-binface-reform-uk-finances-donations-investigation-latest-news-updates)
-- [‘Tiktok wouldn’t open at all’: Taiwan simulates an internet blackout, with an eye on China threat](https://www.theguardian.com/world/2026/aug/14/taiwan-taipei-internet-blackout-air-raid-drill-china-threat)
-- [Ukraine war briefing: Crimea bomb kills ‘Ukrainian sub commander who defected’](https://www.theguardian.com/world/2026/aug/14/ukraine-war-briefing-crimea-bomb-robert-shageyev-defected)
-- [‘So much more respect for myself’: NZ ultrarunner Sophie Woods on smashing a 2,000km alpine run record](https://www.theguardian.com/world/2026/aug/14/nz-ultrarunner-sophie-woods-via-alpina-record)
-- [US conducted ‘mass spying campaign’ against leftwing groups and anti-ICE protesters, records reveal](https://www.theguardian.com/us-news/2026/aug/13/us-government-spied-anti-ice-protesters)
-- [Premier League 2026-27 preview No 9: Everton](https://www.theguardian.com/football/2026/aug/14/premier-league-2026-27-preview-no-9-everton)
-- [Unemployed young people to join AI boot camps to get job-ready](https://www.theguardian.com/society/2026/aug/14/unemployed-young-people-to-join-ai-boot-camps-to-get-job-ready)
-- [The Schoolgirl Terrorist? review – by the end of this documentary you feel like you have sat through a nightmare](https://www.theguardian.com/tv-and-radio/2026/aug/13/the-schoolgirl-terrorist-review-television-channel-four)
-- [Leigh dent Leeds’ title ambitions as Super League set to reject NRL’s opening £7m offer](https://www.theguardian.com/sport/2026/aug/13/leeds-leigh-super-league-rugby-league-match-report)
-- [Rangers crash out of Europa League as Derek McInnes’s winless start goes on](https://www.theguardian.com/football/2026/aug/13/rangers-crash-out-of-europa-league-as-derek-mcinness-winless-start-goes-on)
+- [Ukraine war briefing: Zelenskyy warns Egypt of food supply threat caused by Russian strikes in Black Sea](https://www.theguardian.com/world/2026/aug/15/ukraine-war-briefing-zelenskyy-warns-egypt-of-food-supply-threat-caused-by-russian-strikes-in-black-sea)
+- [Picasso print stolen from Milwaukee art gallery in 2018 found by landlord while cleaning apartment](https://www.theguardian.com/us-news/2026/aug/14/picasso-print-stolen-milwaukee)
+- [Strong 7.7-magnitude earthquake strikes eastern Indonesia, killing two](https://www.theguardian.com/world/2026/aug/15/indonesia-earthquake)
+- [At least six people dead and one wounded in mass shooting in rural Michigan](https://www.theguardian.com/us-news/2026/aug/14/michigan-mass-shooting-missaukee-county)
+- [He Had It Coming review – this messy crime-comedy has all the subtlety of a mallet to the crotch](https://www.theguardian.com/tv-and-radio/2026/aug/14/he-had-it-coming-review-messy-crime-comedy-bbc-iplayer)
+- [Trump downplays concerns about sailors onboard USS Abraham Lincoln amid record deployment](https://www.theguardian.com/us-news/2026/aug/14/trump-uss-abraham-lincoln-deployment)
+- [Jason Arday, professor at centre of Cambridge plagiarism row, found dead](https://www.theguardian.com/uk-news/2026/aug/14/jason-arday-found-dead-after-resigning-from-cambridge-over-plagiarism-claims)
+- [Trump threatens to declare strait of Hormuz ‘territory of the United States’](https://www.theguardian.com/us-news/2026/aug/14/trump-threat-strait-hormuz-us-territory)
+- [‘Not going to be an issue’: Mikel Arteta relaxed about Arsenal contract situation](https://www.theguardian.com/football/2026/aug/14/mikel-arteta-arsenal-contract-manchester-city-community-shield-premier-league)
+- [Raúl Jiménez’s injury-time penalty salvages point for Wolves against Blackburn](https://www.theguardian.com/football/2026/aug/14/wolves-blackburn-championship-match-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

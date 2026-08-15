@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [August’s Patch Tuesday is a monster: 751 fixes, with an exploited Windows flaw](https://www.computerworld.com/article/4209847/august-patch-tuesday-is-a-monster-751-fixes-with-an-exploited-windows-flaw.html)
+- [OpenAI loses its AI ethics lead](https://www.computerworld.com/article/4209796/openai-loses-its-ai-ethics-lead.html)
+- [Meta gives up control of Chinese AI startup Manus after eight months](https://www.computerworld.com/article/4209728/meta-gives-up-control-of-chinese-ai-startup-manus-after-eight-months.html)
+- [Microsoft brings Copilot apps together ahead of ‘super app’ overhaul](https://www.computerworld.com/article/4209764/microsoft-brings-copilot-apps-together-ahead-of-super-app-overhaul.html)
+- [Apple cracks China with Alibaba for iPhone AI](https://www.computerworld.com/article/4209632/apple-cracks-china-with-alibaba-for-iphone-ai.html)
+- [How to replace Edge as the default browser in Windows — and why you shouldn’t](https://www.computerworld.com/article/1713244/how-to-replace-edge-as-windows-default-browser.html)
 - [DeepSeek raises some V4 prices by more than 10x as AI demand strains capacity](https://www.computerworld.com/article/4209468/deepseek-raises-some-v4-prices-by-more-than-10x-as-ai-demand-strains-capacity-2.html)
 - [How Apple is leaving money on the table](https://www.computerworld.com/article/4209268/how-apple-is-leaving-money-on-the-table.html)
 - [Adobe now lets Workfront users assign tasks to AI agents](https://www.computerworld.com/article/4209291/adobe-now-lets-workfront-users-assign-tasks-to-ai-agents.html)
 - [It took $58 to break Microsoft’s SCCM, but a patch made it harder](https://www.computerworld.com/article/4209164/it-took-58-to-break-microsofts-sccm-but-a-patch-made-it-harder-2.html)
-- [OpenAI: Latest news and insights](https://www.computerworld.com/article/4015023/openai-latest-news-and-insights.html)
-- [Pixel 11 envy? Here’s how to unlock its best new feature on any Android device](https://www.computerworld.com/article/4208081/google-pixel-11-android.html)
-- [Lovable bolsters its AI software creation capacity, touts $400M funding round](https://www.computerworld.com/article/4208770/lovable-bolsters-its-ai-software-creation-capacity-touts-400m-funding-round.html)
-- [Researcher bypasses Microsoft Defender security patch, seizing control](https://www.computerworld.com/article/4208774/researcher-bypasses-microsoft-defender-security-patch-seizing-control-2.html)
-- [IT infrastructure shortages are real and lasting. Here’s how to cope](https://www.networkworld.com/article/4206832/it-infrastructure-shortages-are-real-and-lasting-heres-how-to-cope.html)
-- [Apple’s response to RAM-ageddon? Lease, downgrade, refurbish, repair](https://www.computerworld.com/article/4208552/apples-response-to-ram-ageddon-lease-downgrade-refurbish-repair.html)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive)
-- [The Ploopy A+ Trackball Is Here](https://blog.ploopy.co/the-aplus-is-finally-here-499)
-- [NSA and IETF, Part 9](https://blog.cr.yp.to/20260814-update.html)
-- [Simplifying and Refactoring Introductory Calculus](https://arxiv.org/abs/1811.03459)
-- [Corgi kills short-lived website that ranked its female employees](https://sf.gazetteer.co/corgi-kills-short-lived-website-that-ranked-its-female-employees)
-- [The case for overhauling American science](https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science)
-- [Stop sending me huge PRs; a rant](https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va)
-- [RISC-V: They should have known better](https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV)
-- [eigendrum](https://eigendrum.com/#p=circle)
-- [Going Dark, and the era of law enforcement hacking](https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/)
+- [Show HN: Mic Drop, a real-time multiplayer karaoke game](https://www.micdrop.gg/)
+- [Show HN: I built a native app for coding agents with Rust and GPUI](https://waku.sh)
+- [Big Pickle on SWE Atlas – Codebase QnA](https://github.com/PhillipChaffee/big-pickle-swe-atlas)
+- [Tea5767-Radio-Tuner](https://github.com/turtushig22-blip/tea5767-radio-tuner)
+- [Decoding smell: Study reveals how odor signals shapeshift in the wind](https://www.colorado.edu/today/2026/08/10/decoding-smell-study-reveals-how-odor-signals-shapeshift-wind)
+- [AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code](https://arxiv.org/abs/2608.13122)
+- [Software Engineering fundamentals matter more](https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/)
+- [SugarTrack – an offline Android logbook for blood sugar &lpar;no account, no cloud&rpar;](https://sugartrack-beta.vercel.app/)
+- [Show HN: Bribes.fyi – Compare bribes statistics department wise](https://bribes.fyi/compare)
+- [Bede Liu, a digital signal processing pioneer, has died](https://spectrum.ieee.org/digital-signal-processing)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

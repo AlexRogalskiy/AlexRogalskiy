@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Cox–Zucker Machine](https://en.wikipedia.org/wiki/Cox%E2%80%93Zucker_machine)
-- [Delete DoorDash](https://deletedoordash.com/)
-- [We need your help to make a faster and more secure Monero node a reality](https://reddit.com/r/Monero/comments/1vo7htb/we_need_your_help_to_make_a_faster_and_more/)
-- [Time-of-Check to Time-of-Use](https://en.wikipedia.org/wiki/Time-of-check_to_time-of-use)
-- [Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast](https://www.reuters.com/business/anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15/)
-- [Show HN: BeCharts – online chart maker &lpar;templates, CSV, PNG/SVG/PDF&rpar;](https://www.becharts.com/editor)
-- [How did a Usenet troll and encryption genius become a criminal mastermind?](https://magazine.atavist.com/2016/he-always-had-a-dark-side)
-- [Show HN: WMTrace – See how LLM text watermarks work &lpar;Anthropic just adopted one&rpar;](https://github.com/gtesei/llm-watermark)
-- [Someone is publishing a trove of zero-days](https://0day-rubbish.com/)
-- [OpenAI ditches Recall-style screenshot surveillance for friendly keylogging](https://www.theregister.com/ai-and-ml/2026/08/14/openai-ditches-recall-style-screenshot-surveillance-for-friendly-keylogging/5287618)
+- [South Korea proposes talks to officially end war with North](https://www.bbc.com/news/articles/c8en2z9jp2xo)
+- [RIS](https://github.com/santosardr/riskernel)
+- [Axiotron Modbook](https://en.wikipedia.org/wiki/Modbook)
+- [Ask HN: How would you market this service?](https://news.ycombinator.com/item?id=49316403)
+- [Data Center Fornicator [video]](https://www.youtube.com/watch?v=rkbcuajiPJA)
+- [Zapping Rocks Unlocks Stimulated Geologic Hydrogen](https://spectrum.ieee.org/stimulated-geologic-hydrogen)
+- [Show HN: Widen, a native Postgres GUI using Apple&#39;s on-device LLM](https://github.com/betocmn/widen)
+- [Installing NixOS on my car: Part 1](https://surrealdev.com/rooting-the-cadillac-part-1-lay-of-the-land/)
+- [Has the hallucination problem in AI been solved?](https://news.ycombinator.com/item?id=49316330)
+- [Systemic Risks in the Managed PostgreSQL Industry: Extension Risks](https://mehmetince.net/part-1-6-systemic-risks-in-the-managed-postgresql-industry-extension-risks-are-real-exploiting-postgis-memory-corruption-bug-at-neondb-supabase-and-many-more/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

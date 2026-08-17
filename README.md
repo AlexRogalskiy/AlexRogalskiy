@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Show HN: Mic Drop, a real-time multiplayer karaoke game](https://www.micdrop.gg/)
-- [Show HN: I built a native app for coding agents with Rust and GPUI](https://waku.sh)
-- [Big Pickle on SWE Atlas – Codebase QnA](https://github.com/PhillipChaffee/big-pickle-swe-atlas)
-- [Tea5767-Radio-Tuner](https://github.com/turtushig22-blip/tea5767-radio-tuner)
-- [Decoding smell: Study reveals how odor signals shapeshift in the wind](https://www.colorado.edu/today/2026/08/10/decoding-smell-study-reveals-how-odor-signals-shapeshift-wind)
-- [AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code](https://arxiv.org/abs/2608.13122)
-- [Software Engineering fundamentals matter more](https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/)
-- [SugarTrack – an offline Android logbook for blood sugar &lpar;no account, no cloud&rpar;](https://sugartrack-beta.vercel.app/)
-- [Show HN: Bribes.fyi – Compare bribes statistics department wise](https://bribes.fyi/compare)
-- [Bede Liu, a digital signal processing pioneer, has died](https://spectrum.ieee.org/digital-signal-processing)
+- [AGI-64 Brings Sierra Adventures to the Commodore 64](https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64)
+- [Rhombus 1.1 is now available](https://blog.racket-lang.org/2026/08/rhombus-v1.1.html)
+- [The Life and Death of Direct File [pdf]](https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf)
+- [The federal keyword lists that canceled billions in research funding](https://www.highereddive.com/news/inside-the-federal-keyword-lists-that-canceled-billions-in-research-funding/826203/)
+- [Reticulum – Decentralized Mesh Network](https://reticulum.network/)
+- [Qwen 3.8 27B is excellent, but it defaults to overthinking things](https://simonwillison.net/2026/Aug/16/qwen-38-27b/)
+- [Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee](https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/)
+- [Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter](https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion)
+- [Red queen hypothesis – a new way forward for self-improving AI](https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai)
+- [Models Are Getting Dumber on Purpose](https://w4g1.dev/blog/models-are-getting-dumber-on-purpose)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

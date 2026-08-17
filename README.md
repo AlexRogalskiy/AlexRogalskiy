@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [South Korea proposes talks to officially end war with North](https://www.bbc.com/news/articles/c8en2z9jp2xo)
-- [RIS](https://github.com/santosardr/riskernel)
-- [Axiotron Modbook](https://en.wikipedia.org/wiki/Modbook)
-- [Ask HN: How would you market this service?](https://news.ycombinator.com/item?id=49316403)
-- [Data Center Fornicator [video]](https://www.youtube.com/watch?v=rkbcuajiPJA)
-- [Zapping Rocks Unlocks Stimulated Geologic Hydrogen](https://spectrum.ieee.org/stimulated-geologic-hydrogen)
-- [Show HN: Widen, a native Postgres GUI using Apple&#39;s on-device LLM](https://github.com/betocmn/widen)
-- [Installing NixOS on my car: Part 1](https://surrealdev.com/rooting-the-cadillac-part-1-lay-of-the-land/)
-- [Has the hallucination problem in AI been solved?](https://news.ycombinator.com/item?id=49316330)
-- [Systemic Risks in the Managed PostgreSQL Industry: Extension Risks](https://mehmetince.net/part-1-6-systemic-risks-in-the-managed-postgresql-industry-extension-risks-are-real-exploiting-postgis-memory-corruption-bug-at-neondb-supabase-and-many-more/)
+- [Webcat: A tamper-evident seal for the open web](https://freedom.press/tech/news/webcat-a-tamper-evident-seal-for-the-open-web/)
+- [Job search tracker with real response-rate analytics](https://trackmyjob.app/)
+- [We turned off Pub/Sub and nobody noticed](https://incident.io/blog/we-turned-off-pub-sub-and-nobody-noticed)
+- [Ask HN: How do you keep track of all your codex/Claude sessions?](https://news.ycombinator.com/item?id=49325946)
+- [If Meta loses this trial, Instagram and Facebook could change forever](https://www.bbc.com/news/articles/clyqpx6xk69o)
+- [List of words banned by the USA government](https://pen.org/banned-words-list/?unique)
+- [Niu Lai &lpar;The Ox Comes&rpar;: Bad Chinese Animated Movie Becomes Viral Box Office Hit](https://economictimes.indiatimes.com/news/international/global-trends/niu-lai-aka-the-ox-comes-this-chinese-animated-movie-made-for-just-47-by-two-people-was-so-unbelievably-bad-that-people-started-buying-tickets-just-to-watch-it-it-has-now-earned-close-to-1-million/articleshow/133273636.cms?from=mdr)
+- [Sana.cpp – Nvidia&#39;s Sana T2I model in C++, 4.8x faster than PyTorch](https://github.com/cconthekeyboard/sana.cpp)
+- [Octopuses could help us conceptualize a different form of intelligence](https://www.cbc.ca/lite/story/1.6871036)
+- [Amodei Re. Regulation](https://twitter.com/DarioAmodei/status/2088758816376807762)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Australia v Bangladesh: first men’s Test, day four – live](https://www.theguardian.com/sport/live/2026/aug/16/australia-v-bangladesh-first-test-day-four-live-updates-darwin)
-- [Ukraine war briefing: Kyiv faces missile barrage after Zelenskyy targets Russian satellite network](https://www.theguardian.com/world/2026/aug/16/ukraine-war-briefing-kyiv-faces-missile-barrage-after-zelenskyy-targets-russian-satellite-network)
-- [NSW to begin Australia’s biggest gun buyback in decades in wake of Bondi terror attack](https://www.theguardian.com/australia-news/2026/aug/15/australia-nsw-gun-buyback-funding-deal-federal-government-ntwnfb)
-- [Amy Hunt claims third European Championships gold in relay triumph for ‘fantastic four’](https://www.theguardian.com/sport/2026/aug/15/british-sides-race-to-double-golden-glory-in-european-sprint-relays)
-- [Novak Djokovic suffers in Cincinnati heat as Thiago Agustín Tirante inflicts shock defeat](https://www.theguardian.com/sport/2026/aug/15/novak-djokovic-suffers-in-cincinnati-heat-as-thiago-agustin-tirante-inflicts-shock-defeat)
-- [Mission review – dangerous quest to mend a broken childhood](https://www.theguardian.com/film/2026/aug/15/mission-review-dangerous-quest-to-mend-a-broken-childhood)
-- [Trump shows off article on lower drug prices that says Biden deserves credit, not him](https://www.theguardian.com/us-news/2026/aug/15/trump-washington-post-drug-prices)
-- [Corgi high fashion and at the races: in pictures](https://www.theguardian.com/artanddesign/gallery/2026/aug/15/corgi-high-fashion-and-at-the-races-in-pictures)
-- [Kabul review – this thriller about Afghanistan’s abandonment is every bit as gripping as it is horrifying](https://www.theguardian.com/tv-and-radio/2026/aug/15/kabul-review-thriller-afghanistan-abandonment-bbc)
-- [Borges and Me review – a sweetly imagined literary odyssey through the Highlands](https://www.theguardian.com/film/2026/aug/15/borges-and-me-review-alan-cumming-fionn-whitehead)
+- [Trump orders cuts to South Korea joint drills despite warnings of North’s growing battlefield experience](https://www.theguardian.com/world/2026/aug/17/trump-cuts-south-korea-joint-drills-us-military-good-relationship-kim-jong-un)
+- [Ebola outbreak in Democratic Republic of Congo now deadliest in country’s history](https://www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history)
+- [After Hormuz, China looks to the promise – and peril – of the Arctic’s ‘ice silk road’](https://www.theguardian.com/world/2026/aug/17/strait-hormuz-alternative-china-ships-north-sea-route-arctic-ice-silk-road)
+- [25 Years in Afghanistan review – the extraordinary life of an optimist](https://www.theguardian.com/tv-and-radio/2026/aug/17/25-years-in-afghanistan-review-mir-hussain-documentary-itv)
+- [Summer jobs bounce back in UK thanks to busy calendar of sport and music](https://www.theguardian.com/business/2026/aug/17/summer-jobs-bounce-back-in-uk-thanks-to-busy-calendar-of-sport-and-music)
+- [Jared Kushner meets with Hamas ahead of talks with Netanyahu on Gaza](https://www.theguardian.com/us-news/2026/aug/16/jared-kushner-hamas-gaza-meeting)
+- [Five teenagers killed after car driven on wrong side of Irish motorway](https://www.theguardian.com/world/2026/aug/16/five-teenagers-killed-and-four-other-people-injured-in-ireland-car-crash)
+- [Wildfires kill two in Greece and torch Belgian nature reserve](https://www.theguardian.com/world/2026/aug/16/greek-island-salamis-belgium-high-fens-helicopters-wildfire)
+- [Amy Hunt’s ‘dream comes true’ with fourth European Championships gold](https://www.theguardian.com/sport/2026/aug/16/amy-hunts-dream-comes-true-with-fourth-european-championships-gold)
+- [Reform accused of targeting the most vulnerable with £50bn benefit cut](https://www.theguardian.com/society/2026/aug/16/jenrick-cuts-benefits-disabled-people-foreign-nationals)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

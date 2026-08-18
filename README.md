@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Webcat: A tamper-evident seal for the open web](https://freedom.press/tech/news/webcat-a-tamper-evident-seal-for-the-open-web/)
-- [Job search tracker with real response-rate analytics](https://trackmyjob.app/)
-- [We turned off Pub/Sub and nobody noticed](https://incident.io/blog/we-turned-off-pub-sub-and-nobody-noticed)
-- [Ask HN: How do you keep track of all your codex/Claude sessions?](https://news.ycombinator.com/item?id=49325946)
-- [If Meta loses this trial, Instagram and Facebook could change forever](https://www.bbc.com/news/articles/clyqpx6xk69o)
-- [List of words banned by the USA government](https://pen.org/banned-words-list/?unique)
-- [Niu Lai &lpar;The Ox Comes&rpar;: Bad Chinese Animated Movie Becomes Viral Box Office Hit](https://economictimes.indiatimes.com/news/international/global-trends/niu-lai-aka-the-ox-comes-this-chinese-animated-movie-made-for-just-47-by-two-people-was-so-unbelievably-bad-that-people-started-buying-tickets-just-to-watch-it-it-has-now-earned-close-to-1-million/articleshow/133273636.cms?from=mdr)
-- [Sana.cpp – Nvidia&#39;s Sana T2I model in C++, 4.8x faster than PyTorch](https://github.com/cconthekeyboard/sana.cpp)
-- [Octopuses could help us conceptualize a different form of intelligence](https://www.cbc.ca/lite/story/1.6871036)
-- [Amodei Re. Regulation](https://twitter.com/DarioAmodei/status/2088758816376807762)
+- [Satellite operators are in panic mode due to a worsening launch crisis](https://arstechnica.com/space/2026/08/theres-a-huge-launch-crunch-right-now-and-it-will-probably-get-worse/)
+- [S-1 – Independent Company Studies](https://s-1.vercel.app/)
+- [Unslop my deck – upload slide decks, read less slop](https://unslopmydeck.xyz/)
+- [What&#39;s Better Than Binary? – Advent of Computing Episode 187](https://adventofcomputing.libsyn.com/episode-187-whats-better-than-binary)
+- [The Benchmarkpocalypse](https://danluu.com/benchpocalypse/)
+- [Show HN: Turtle – Web Browser written from scratch for 2 years](https://news.ycombinator.com/item?id=49340294)
+- [.NET 11 Preview 7 is now available](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-7/)
+- [Email Client for the Terminal?](https://news.ycombinator.com/item?id=49340284)
+- [Dial-up internet – made a thing that lets you do it again](https://56k.rip/)
+- [Show HN: SacredCal – A 13-month, 364-day calendar built around seven-day cycles](https://sacredcal.one)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

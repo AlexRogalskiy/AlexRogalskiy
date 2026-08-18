@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Trump orders cuts to South Korea joint drills despite warnings of North’s growing battlefield experience](https://www.theguardian.com/world/2026/aug/17/trump-cuts-south-korea-joint-drills-us-military-good-relationship-kim-jong-un)
-- [Ebola outbreak in Democratic Republic of Congo now deadliest in country’s history](https://www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history)
-- [After Hormuz, China looks to the promise – and peril – of the Arctic’s ‘ice silk road’](https://www.theguardian.com/world/2026/aug/17/strait-hormuz-alternative-china-ships-north-sea-route-arctic-ice-silk-road)
-- [25 Years in Afghanistan review – the extraordinary life of an optimist](https://www.theguardian.com/tv-and-radio/2026/aug/17/25-years-in-afghanistan-review-mir-hussain-documentary-itv)
-- [Summer jobs bounce back in UK thanks to busy calendar of sport and music](https://www.theguardian.com/business/2026/aug/17/summer-jobs-bounce-back-in-uk-thanks-to-busy-calendar-of-sport-and-music)
-- [Jared Kushner meets with Hamas ahead of talks with Netanyahu on Gaza](https://www.theguardian.com/us-news/2026/aug/16/jared-kushner-hamas-gaza-meeting)
-- [Five teenagers killed after car driven on wrong side of Irish motorway](https://www.theguardian.com/world/2026/aug/16/five-teenagers-killed-and-four-other-people-injured-in-ireland-car-crash)
-- [Wildfires kill two in Greece and torch Belgian nature reserve](https://www.theguardian.com/world/2026/aug/16/greek-island-salamis-belgium-high-fens-helicopters-wildfire)
-- [Amy Hunt’s ‘dream comes true’ with fourth European Championships gold](https://www.theguardian.com/sport/2026/aug/16/amy-hunts-dream-comes-true-with-fourth-european-championships-gold)
-- [Reform accused of targeting the most vulnerable with £50bn benefit cut](https://www.theguardian.com/society/2026/aug/16/jenrick-cuts-benefits-disabled-people-foreign-nationals)
+- [Trump tells 10-year-old rescued by teen lifeguard: ‘I don’t know if I’d do it’](https://www.theguardian.com/us-news/2026/aug/17/trump-oval-office-california-resuced-teen-viral)
+- [Premier League 2026-27 preview No 13: Leeds](https://www.theguardian.com/football/2026/aug/18/premier-league-2026-27-preview-no-13-leeds)
+- [Arthur Fery gives Alex de Minaur stern test before bowing out in Cincinnati](https://www.theguardian.com/sport/2026/aug/17/arthur-fery-gives-alex-de-minaur-stern-test-before-bowing-out-in-cincinnati)
+- [Tupac Shakur murder trial: gang leader plotted killing to avenge beating of nephew, court hears](https://www.theguardian.com/music/2026/aug/17/tupac-shakur-murder-trial-duane-davis)
+- [Reform’s Tice accused of misinformation after urging people to enjoy heatwaves](https://www.theguardian.com/politics/2026/aug/17/reform-uk-richard-tice-stop-tackling-climate-crisis-enjoy-heat)
+- [Extreme heat more dangerous for people 60 and over than previously thought](https://www.theguardian.com/society/2026/aug/17/extreme-heat-more-dangerous-for-people-60-and-over-than-previously-thought)
+- [Rubin Colwill’s last-gasp free-kick earns Cardiff dramatic point against Wrexham](https://www.theguardian.com/football/2026/aug/17/wrexham-cardiff-championship-match-report)
+- [Burnham scraps restrictions on disabled people’s bus passes in England](https://www.theguardian.com/politics/2026/aug/17/burnham-scraps-restrictions-disabled-people-bus-passes-england)
+- [Luigi Mangione New York murder trial postponed after guilty plea in federal case](https://www.theguardian.com/us-news/2026/aug/17/luigi-mangione-new-york-murder-trial)
+- [Buried With Michael Sheen review – this vital look at a toxic waste scandal is deeply enraging TV](https://www.theguardian.com/tv-and-radio/2026/aug/17/buried-with-michael-sheen-review-welsh-pollution-scandal-bbc-two-iplayer)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

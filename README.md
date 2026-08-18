@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [AI inference is getting cheaper, but your agents are getting more expensive](https://www.computerworld.com/article/4210786/ai-inference-is-getting-cheaper-but-your-agents-are-getting-more-expensive.html)
+- [OpenAI president’s blog pushing agentic AI most notable for what it did not say](https://www.computerworld.com/article/4210729/openai-presidents-blog-pushing-agentic-ai-most-notable-for-what-it-did-not-say.html)
+- [US confounds Apple’s memory supply challenge](https://www.computerworld.com/article/4210562/us-confounds-apples-memory-supply-challenge.html)
+- [Moburst Launches Answerburst, a Purpose-Built AEO Practice for the AI Search Era](https://www.computerworld.com/article/4210451/moburst-launches-answerburst-a-purpose-built-aeo-practice-for-the-ai-search-era.html)
+- [Exchange CU1 delayed further as Microsoft races to verify AI-found flaws](https://www.computerworld.com/article/4210454/exchange-cu1-delayed-further-as-microsoft-races-to-verify-ai-found-flaws.html)
 - [August’s Patch Tuesday is a monster: 751 fixes, with an exploited Windows flaw](https://www.computerworld.com/article/4209847/august-patch-tuesday-is-a-monster-751-fixes-with-an-exploited-windows-flaw.html)
 - [OpenAI loses its AI ethics lead](https://www.computerworld.com/article/4209796/openai-loses-its-ai-ethics-lead.html)
 - [Meta gives up control of Chinese AI startup Manus after eight months](https://www.computerworld.com/article/4209728/meta-gives-up-control-of-chinese-ai-startup-manus-after-eight-months.html)
 - [Microsoft brings Copilot apps together ahead of ‘super app’ overhaul](https://www.computerworld.com/article/4209764/microsoft-brings-copilot-apps-together-ahead-of-super-app-overhaul.html)
 - [Apple cracks China with Alibaba for iPhone AI](https://www.computerworld.com/article/4209632/apple-cracks-china-with-alibaba-for-iphone-ai.html)
-- [How to replace Edge as the default browser in Windows — and why you shouldn’t](https://www.computerworld.com/article/1713244/how-to-replace-edge-as-windows-default-browser.html)
-- [DeepSeek raises some V4 prices by more than 10x as AI demand strains capacity](https://www.computerworld.com/article/4209468/deepseek-raises-some-v4-prices-by-more-than-10x-as-ai-demand-strains-capacity-2.html)
-- [How Apple is leaving money on the table](https://www.computerworld.com/article/4209268/how-apple-is-leaving-money-on-the-table.html)
-- [Adobe now lets Workfront users assign tasks to AI agents](https://www.computerworld.com/article/4209291/adobe-now-lets-workfront-users-assign-tasks-to-ai-agents.html)
-- [It took $58 to break Microsoft’s SCCM, but a patch made it harder](https://www.computerworld.com/article/4209164/it-took-58-to-break-microsofts-sccm-but-a-patch-made-it-harder-2.html)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

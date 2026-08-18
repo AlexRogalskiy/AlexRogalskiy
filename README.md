@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [AGI-64 Brings Sierra Adventures to the Commodore 64](https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64)
-- [Rhombus 1.1 is now available](https://blog.racket-lang.org/2026/08/rhombus-v1.1.html)
-- [The Life and Death of Direct File [pdf]](https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf)
-- [The federal keyword lists that canceled billions in research funding](https://www.highereddive.com/news/inside-the-federal-keyword-lists-that-canceled-billions-in-research-funding/826203/)
-- [Reticulum – Decentralized Mesh Network](https://reticulum.network/)
-- [Qwen 3.8 27B is excellent, but it defaults to overthinking things](https://simonwillison.net/2026/Aug/16/qwen-38-27b/)
-- [Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee](https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/)
-- [Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter](https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion)
-- [Red queen hypothesis – a new way forward for self-improving AI](https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai)
-- [Models Are Getting Dumber on Purpose](https://w4g1.dev/blog/models-are-getting-dumber-on-purpose)
+- [Google wins bankruptcy auction for Spirit Airlines emails, chats, documents](https://www.axios.com/2026/08/17/google-spirit-airlines-bankruptcy)
+- [Repair Cafe – Fix Your Broken Items](https://www.repaircafe.org/)
+- [How Bluesky draws its logo on screenshots](https://timmarinin.net/2026/bluesky-screenshots/)
+- [scScript for Linux](https://scapplications.com/)
+- [Quake Shareware, a CD-ROM just a little too full](https://fabiensanglard.net/quake_shareware_cd/index.html)
+- [Fairphone 6 and PostmarketOS working main camera](https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera)
+- [How do functions like alloca allocate memory from the stack?](https://devblogs.microsoft.com/oldnewthing/20260817-40/?p=112617)
+- [GPT-5.6 Sol Pricing Cut by 50%](https://openrouter.ai/openai/gpt-5.6-sol)
+- [Israel creates fake think tank in likely attempt to dupe AI chatbots](https://responsiblestatecraft.org/israel-influence-chatgpt/)
+- [GitHub degradation affects Cursor Origin, its new Git platform](https://status.cursor.com/incidents/l9h9vrd726jv)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

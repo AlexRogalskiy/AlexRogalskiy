@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Microsoft finally patches critical one-click Copilot vulnerability, almost eight months after learning of it](https://www.computerworld.com/article/4211325/microsoft-finally-patches-critical-one-click-copilot-vulnerability-more-than-eight-months-after-learning-of-it.html)
+- [AI’s attribution problem gets worse as models scale](https://www.computerworld.com/article/4211283/ais-attribution-problem-gets-worse-as-models-scale.html)
+- [Google buys data from bankrupt Spirit Airlines for AI training](https://www.computerworld.com/article/4211132/google-buys-data-from-a-bankrupt-airline-for-ai-training.html)
+- [Is Apple beginning a privacy reset?](https://www.computerworld.com/article/4210945/is-apple-beginning-a-privacy-reset.html)
+- [New malware turns Microsoft 365 and Azure into its control center](https://www.computerworld.com/article/4210979/new-malware-turns-microsoft-365-and-azure-into-its-control-center.html)
+- [Warning to enterprises: Vibe coding can be a threat](https://www.computerworld.com/article/4210633/warning-to-enterprises-vibe-coding-can-be-a-threat.html)
+- [GitHub restores services after nearly 8-hour outage disrupts Actions, APIs, PRs and Copilot](https://www.computerworld.com/article/4210869/github-restores-services-after-nearly-8-hour-outage-disrupts-actions-apis-prs-and-copilot-2.html)
 - [AI inference is getting cheaper, but your agents are getting more expensive](https://www.computerworld.com/article/4210786/ai-inference-is-getting-cheaper-but-your-agents-are-getting-more-expensive.html)
 - [OpenAI president’s blog pushing agentic AI most notable for what it did not say](https://www.computerworld.com/article/4210729/openai-presidents-blog-pushing-agentic-ai-most-notable-for-what-it-did-not-say.html)
 - [US confounds Apple’s memory supply challenge](https://www.computerworld.com/article/4210562/us-confounds-apples-memory-supply-challenge.html)
-- [Moburst Launches Answerburst, a Purpose-Built AEO Practice for the AI Search Era](https://www.computerworld.com/article/4210451/moburst-launches-answerburst-a-purpose-built-aeo-practice-for-the-ai-search-era.html)
-- [Exchange CU1 delayed further as Microsoft races to verify AI-found flaws](https://www.computerworld.com/article/4210454/exchange-cu1-delayed-further-as-microsoft-races-to-verify-ai-found-flaws.html)
-- [August’s Patch Tuesday is a monster: 751 fixes, with an exploited Windows flaw](https://www.computerworld.com/article/4209847/august-patch-tuesday-is-a-monster-751-fixes-with-an-exploited-windows-flaw.html)
-- [OpenAI loses its AI ethics lead](https://www.computerworld.com/article/4209796/openai-loses-its-ai-ethics-lead.html)
-- [Meta gives up control of Chinese AI startup Manus after eight months](https://www.computerworld.com/article/4209728/meta-gives-up-control-of-chinese-ai-startup-manus-after-eight-months.html)
-- [Microsoft brings Copilot apps together ahead of ‘super app’ overhaul](https://www.computerworld.com/article/4209764/microsoft-brings-copilot-apps-together-ahead-of-super-app-overhaul.html)
-- [Apple cracks China with Alibaba for iPhone AI](https://www.computerworld.com/article/4209632/apple-cracks-china-with-alibaba-for-iphone-ai.html)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Satellite operators are in panic mode due to a worsening launch crisis](https://arstechnica.com/space/2026/08/theres-a-huge-launch-crunch-right-now-and-it-will-probably-get-worse/)
-- [S-1 – Independent Company Studies](https://s-1.vercel.app/)
-- [Unslop my deck – upload slide decks, read less slop](https://unslopmydeck.xyz/)
-- [What&#39;s Better Than Binary? – Advent of Computing Episode 187](https://adventofcomputing.libsyn.com/episode-187-whats-better-than-binary)
-- [The Benchmarkpocalypse](https://danluu.com/benchpocalypse/)
-- [Show HN: Turtle – Web Browser written from scratch for 2 years](https://news.ycombinator.com/item?id=49340294)
-- [.NET 11 Preview 7 is now available](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-7/)
-- [Email Client for the Terminal?](https://news.ycombinator.com/item?id=49340284)
-- [Dial-up internet – made a thing that lets you do it again](https://56k.rip/)
-- [Show HN: SacredCal – A 13-month, 364-day calendar built around seven-day cycles](https://sacredcal.one)
+- [Palomar: A registry of Lean verified mathematics](https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/)
+- [Reasons to Avoid Seed Oils [video]](https://www.youtube.com/watch?v=EIKFuUnfeW4)
+- [Tech Transparency Project – Holding Big Tech Accountable](https://www.techtransparencyproject.org/)
+- [&quot;the mandate&quot; a short fiction by Grok 4.6 on technological singularity](https://www.echohive.ai/the-mandate-singularity-fiction)
+- [An Engineer as Civil Servant](https://govinsider.asia/intl-en/article/an-engineer-as-civil-servant)
+- [SniffCat – A free API for checking and reporting abusive IPs](https://sniffcat.com/)
+- [Show HN: Warp DD – AI that analyzes technology ecosystems in ~30 seconds](https://warpdd.com)
+- [Meta&#39;s blockbuster trial draws parallels to big tobacco](https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco)
+- [Keenpix – an OSS image CDN with predictable managed pricing](https://keenpix.com/)
+- [The End-State Fallacy: Where Is AI Security Headed?](https://endstatefallacy.com/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Trump tells 10-year-old rescued by teen lifeguard: ‘I don’t know if I’d do it’](https://www.theguardian.com/us-news/2026/aug/17/trump-oval-office-california-resuced-teen-viral)
-- [Premier League 2026-27 preview No 13: Leeds](https://www.theguardian.com/football/2026/aug/18/premier-league-2026-27-preview-no-13-leeds)
-- [Arthur Fery gives Alex de Minaur stern test before bowing out in Cincinnati](https://www.theguardian.com/sport/2026/aug/17/arthur-fery-gives-alex-de-minaur-stern-test-before-bowing-out-in-cincinnati)
-- [Tupac Shakur murder trial: gang leader plotted killing to avenge beating of nephew, court hears](https://www.theguardian.com/music/2026/aug/17/tupac-shakur-murder-trial-duane-davis)
-- [Reform’s Tice accused of misinformation after urging people to enjoy heatwaves](https://www.theguardian.com/politics/2026/aug/17/reform-uk-richard-tice-stop-tackling-climate-crisis-enjoy-heat)
-- [Extreme heat more dangerous for people 60 and over than previously thought](https://www.theguardian.com/society/2026/aug/17/extreme-heat-more-dangerous-for-people-60-and-over-than-previously-thought)
-- [Rubin Colwill’s last-gasp free-kick earns Cardiff dramatic point against Wrexham](https://www.theguardian.com/football/2026/aug/17/wrexham-cardiff-championship-match-report)
-- [Burnham scraps restrictions on disabled people’s bus passes in England](https://www.theguardian.com/politics/2026/aug/17/burnham-scraps-restrictions-disabled-people-bus-passes-england)
-- [Luigi Mangione New York murder trial postponed after guilty plea in federal case](https://www.theguardian.com/us-news/2026/aug/17/luigi-mangione-new-york-murder-trial)
-- [Buried With Michael Sheen review – this vital look at a toxic waste scandal is deeply enraging TV](https://www.theguardian.com/tv-and-radio/2026/aug/17/buried-with-michael-sheen-review-welsh-pollution-scandal-bbc-two-iplayer)
+- [Erin Patterson appeal live: mushroom murderer challenges convictions over fatal beef wellington lunch](https://www.theguardian.com/australia-news/live/2026/aug/19/erin-patterson-appeal-live-mushroom-murders-court-australia-victoria-ntwnfb)
+- [US-led drills to end six days early, South Korea says, amid Trump push for Kim Jong-un talks](https://www.theguardian.com/world/2026/aug/19/us-south-korea-army-drills-cut-trump-push-kim-jong-un-talks)
+- [Tupac Shakur trial: lawyers share full account of killing as witnesses still refuse to testify](https://www.theguardian.com/music/2026/aug/18/tupac-shakur-trial-day-one)
+- [Do not cut benefits for disabled young people, dozens of UK charities urge ministers](https://www.theguardian.com/society/2026/aug/19/benefits-disabled-young-people-uk-charities-letter)
+- [Premier League 2026-27 preview No 15: Manchester City](https://www.theguardian.com/football/2026/aug/19/premier-league-2026-27-preview-no-15-manchester-city)
+- [Shrews may grow bigger snouts in winter to cope with cold air, scientists say](https://www.theguardian.com/environment/2026/aug/19/shrews-bigger-snouts-winter-cold-air)
+- [Ulez led to better lung size and function among London children, study finds](https://www.theguardian.com/environment/2026/aug/18/ulez-better-lung-size-function-london-children)
+- [Introducing Ulez was my hardest decision as mayor of London – but now we know its astonishing impact | Sadiq Khan](https://www.theguardian.com/commentisfree/2026/aug/18/ulez-hardest-decision-mayor-london-impact-sadiq-khan)
+- [Three dead after family get into difficulty in water off Shoreham-by-Sea](https://www.theguardian.com/uk-news/2026/aug/18/three-dead-after-family-get-into-difficulty-in-water-off-shoreham-by-sea)
+- [Ukraine’s dismissed defence minister calls for wartime presidential election](https://www.theguardian.com/world/2026/aug/18/ukraines-dismissed-defence-minister-calls-for-wartime-presidential-election)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

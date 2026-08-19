@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Google wins bankruptcy auction for Spirit Airlines emails, chats, documents](https://www.axios.com/2026/08/17/google-spirit-airlines-bankruptcy)
-- [Repair Cafe – Fix Your Broken Items](https://www.repaircafe.org/)
-- [How Bluesky draws its logo on screenshots](https://timmarinin.net/2026/bluesky-screenshots/)
-- [scScript for Linux](https://scapplications.com/)
-- [Quake Shareware, a CD-ROM just a little too full](https://fabiensanglard.net/quake_shareware_cd/index.html)
-- [Fairphone 6 and PostmarketOS working main camera](https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera)
-- [How do functions like alloca allocate memory from the stack?](https://devblogs.microsoft.com/oldnewthing/20260817-40/?p=112617)
-- [GPT-5.6 Sol Pricing Cut by 50%](https://openrouter.ai/openai/gpt-5.6-sol)
-- [Israel creates fake think tank in likely attempt to dupe AI chatbots](https://responsiblestatecraft.org/israel-influence-chatgpt/)
-- [GitHub degradation affects Cursor Origin, its new Git platform](https://status.cursor.com/incidents/l9h9vrd726jv)
+- [OpenLogi](https://openlogi.org/en)
+- [The Integer](https://gist.github.com/17twenty/1f230ab8256f42d4cd3ba931b9bd440b)
+- [That Disgraceful, Disreputable, &lpar;Wonderful&rpar; Form of Punctuation: The Parenthesis](https://lithub.com/on-that-disgraceful-disreputable-wonderful-form-of-punctuation-the-parenthesis/)
+- [Tiny satellite will use the dark side of the Moon as a shield](https://www.cam.ac.uk/research/news/tiny-satellite-will-use-the-dark-side-of-the-moon-to-eavesdrop-on-whispers-from-the-early-universe)
+- [New paper shows that 37% of workers in US saw real wages decline from 2021-2024 [pdf]](https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf)
+- [Scientists stunned by children&#39;s lung recovery in ultra low emission zone](https://www.bbc.com/news/articles/c1l1r1zne1ro)
+- [Cerebras CS-4](https://www.cerebras.ai/cs4)
+- [Show HN: Interactive, animated architecture of any HuggingFace models](https://modelmap.cc)
+- [Solo – a .so loader for static Linux binaries](https://github.com/pg83/solo)
+- [The 90-year history of the binoculars bolted to scenic overlooks](https://www.dpreview.com/news/the-90-year-history-of-the-binoculars-bolted-to-scenic-overlooks/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

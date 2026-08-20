@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [OpenLogi](https://openlogi.org/en)
-- [The Integer](https://gist.github.com/17twenty/1f230ab8256f42d4cd3ba931b9bd440b)
-- [That Disgraceful, Disreputable, &lpar;Wonderful&rpar; Form of Punctuation: The Parenthesis](https://lithub.com/on-that-disgraceful-disreputable-wonderful-form-of-punctuation-the-parenthesis/)
-- [Tiny satellite will use the dark side of the Moon as a shield](https://www.cam.ac.uk/research/news/tiny-satellite-will-use-the-dark-side-of-the-moon-to-eavesdrop-on-whispers-from-the-early-universe)
-- [New paper shows that 37% of workers in US saw real wages decline from 2021-2024 [pdf]](https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf)
-- [Scientists stunned by children&#39;s lung recovery in ultra low emission zone](https://www.bbc.com/news/articles/c1l1r1zne1ro)
-- [Cerebras CS-4](https://www.cerebras.ai/cs4)
-- [Show HN: Interactive, animated architecture of any HuggingFace models](https://modelmap.cc)
-- [Solo – a .so loader for static Linux binaries](https://github.com/pg83/solo)
-- [The 90-year history of the binoculars bolted to scenic overlooks](https://www.dpreview.com/news/the-90-year-history-of-the-binoculars-bolted-to-scenic-overlooks/)
+- [Turns are Better than Radians](https://www.computerenhance.com/p/turns-are-better-than-radians)
+- [Universality of Gradient Descent Neural Network Training](https://arxiv.org/abs/2007.13664)
+- [Feature Request: Support AGENTS.md](https://github.com/anthropics/claude-code/issues/6235)
+- [Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a](https://os8088.com/spotlight/)
+- [DFlash 2: Keep Drafting Parallel](https://inco.ai/blog/dflash2/)
+- [Pressed Penny Machine Map](https://pennypresses.net/home/map.php)
+- [Unlocking a locked/deactivated e-waste Cricut Maker](https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/)
+- [Unsloth Dynamic 3.0 GGUFs](https://unsloth.ai/docs/basics/dynamic-3.0-ggufs)
+- [Go 1.27](https://go.dev/blog/go1.27)
+- [Google replaced Git tags for certain source code with obtaining via Google Drive](https://grapheneos.social/@GrapheneOS/117057099753905023)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

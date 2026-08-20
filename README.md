@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [When AI explains its decision, humans may stop thinking independently](https://www.computerworld.com/article/4211682/when-ai-explains-its-decision-humans-may-stop-thinking-independently-2.html)
+- [OpenAI ‘temporarily slows’ scaling efforts, also promises zero data retention for select frontier model customers](https://www.computerworld.com/article/4211661/openai-temporarily-slows-scaling-efforts-also-promises-zero-data-retention-for-select-frontier-model-customers.html)
+- [The Google Pixel 11 Pro XL: A smarter phone for getting things done](https://www.computerworld.com/article/4211520/google-pixel-11-pro-xl-review-a-smarter-phone-for-getting-things-done.html)
+- [Apple’s EU App Store truce: What changed — and who’s still angry?](https://www.computerworld.com/article/4211551/apples-eu-app-store-truce-what-changed-and-whos-still-angry.html)
 - [Microsoft finally patches critical one-click Copilot vulnerability, almost eight months after learning of it](https://www.computerworld.com/article/4211325/microsoft-finally-patches-critical-one-click-copilot-vulnerability-more-than-eight-months-after-learning-of-it.html)
 - [AI’s attribution problem gets worse as models scale](https://www.computerworld.com/article/4211283/ais-attribution-problem-gets-worse-as-models-scale.html)
 - [Google buys data from bankrupt Spirit Airlines for AI training](https://www.computerworld.com/article/4211132/google-buys-data-from-a-bankrupt-airline-for-ai-training.html)
 - [Is Apple beginning a privacy reset?](https://www.computerworld.com/article/4210945/is-apple-beginning-a-privacy-reset.html)
 - [New malware turns Microsoft 365 and Azure into its control center](https://www.computerworld.com/article/4210979/new-malware-turns-microsoft-365-and-azure-into-its-control-center.html)
 - [Warning to enterprises: Vibe coding can be a threat](https://www.computerworld.com/article/4210633/warning-to-enterprises-vibe-coding-can-be-a-threat.html)
-- [GitHub restores services after nearly 8-hour outage disrupts Actions, APIs, PRs and Copilot](https://www.computerworld.com/article/4210869/github-restores-services-after-nearly-8-hour-outage-disrupts-actions-apis-prs-and-copilot-2.html)
-- [AI inference is getting cheaper, but your agents are getting more expensive](https://www.computerworld.com/article/4210786/ai-inference-is-getting-cheaper-but-your-agents-are-getting-more-expensive.html)
-- [OpenAI president’s blog pushing agentic AI most notable for what it did not say](https://www.computerworld.com/article/4210729/openai-presidents-blog-pushing-agentic-ai-most-notable-for-what-it-did-not-say.html)
-- [US confounds Apple’s memory supply challenge](https://www.computerworld.com/article/4210562/us-confounds-apples-memory-supply-challenge.html)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

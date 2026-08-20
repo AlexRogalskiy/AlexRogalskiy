@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Palomar: A registry of Lean verified mathematics](https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/)
-- [Reasons to Avoid Seed Oils [video]](https://www.youtube.com/watch?v=EIKFuUnfeW4)
-- [Tech Transparency Project – Holding Big Tech Accountable](https://www.techtransparencyproject.org/)
-- [&quot;the mandate&quot; a short fiction by Grok 4.6 on technological singularity](https://www.echohive.ai/the-mandate-singularity-fiction)
-- [An Engineer as Civil Servant](https://govinsider.asia/intl-en/article/an-engineer-as-civil-servant)
-- [SniffCat – A free API for checking and reporting abusive IPs](https://sniffcat.com/)
-- [Show HN: Warp DD – AI that analyzes technology ecosystems in ~30 seconds](https://warpdd.com)
-- [Meta&#39;s blockbuster trial draws parallels to big tobacco](https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco)
-- [Keenpix – an OSS image CDN with predictable managed pricing](https://keenpix.com/)
-- [The End-State Fallacy: Where Is AI Security Headed?](https://endstatefallacy.com/)
+- [Bongard Problems](https://matthodges.com/posts/2026-08-19-bongard-problems/)
+- [The Sun Never Sets on the Ant Empire &lpar;2019&rpar;](https://sqonline.ucsd.edu/2019/05/the-sun-never-sets-on-the-ant-empire/)
+- [I wanted to talk to a turbine, so I spent 18 years building NthDimension](https://syscon.gr/blog/20260820.html)
+- [The Rats Terrorizing Everyone in Gaza](https://www.thenation.com/article/world/rats-gaza-vermin-crisis/)
+- [Ask HN: What are folks using as the storage engine for their context graphs?](https://news.ycombinator.com/item?id=49369745)
+- [Why Outdoor EV Charger Displays Are More Complicated Than They Look](https://duobond-display.com/news/display-interfaces-system-integration/521.html)
+- [Bill Ackman: Why We&#39;re Donating $400M to Brain Research](https://twitter.com/BillAckman/status/2090190151083532583)
+- [Lunar Volcanism](https://science.nasa.gov/moon/lunar-volcanism/)
+- [Does anyone find AI code review useful?](https://news.ycombinator.com/item?id=49369710)
+- [3D printing with weed trimmer line &lpar;2010&rpar;](https://reprap.org/forum/read.php?1,193637)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

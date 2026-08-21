@@ -355,6 +355,8 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Apple to OpenAI: Go to your room](https://www.computerworld.com/article/4212037/apple-to-openai-go-to-your-room.html)
+- [The Pixel 11 paradox](https://www.computerworld.com/article/4211078/google-pixel-11.html)
 - [When AI explains its decision, humans may stop thinking independently](https://www.computerworld.com/article/4211682/when-ai-explains-its-decision-humans-may-stop-thinking-independently-2.html)
 - [OpenAI ‘temporarily slows’ scaling efforts, also promises zero data retention for select frontier model customers](https://www.computerworld.com/article/4211661/openai-temporarily-slows-scaling-efforts-also-promises-zero-data-retention-for-select-frontier-model-customers.html)
 - [The Google Pixel 11 Pro XL: A smarter phone for getting things done](https://www.computerworld.com/article/4211520/google-pixel-11-pro-xl-review-a-smarter-phone-for-getting-things-done.html)
@@ -363,8 +365,6 @@
 - [AI’s attribution problem gets worse as models scale](https://www.computerworld.com/article/4211283/ais-attribution-problem-gets-worse-as-models-scale.html)
 - [Google buys data from bankrupt Spirit Airlines for AI training](https://www.computerworld.com/article/4211132/google-buys-data-from-a-bankrupt-airline-for-ai-training.html)
 - [Is Apple beginning a privacy reset?](https://www.computerworld.com/article/4210945/is-apple-beginning-a-privacy-reset.html)
-- [New malware turns Microsoft 365 and Azure into its control center](https://www.computerworld.com/article/4210979/new-malware-turns-microsoft-365-and-azure-into-its-control-center.html)
-- [Warning to enterprises: Vibe coding can be a threat](https://www.computerworld.com/article/4210633/warning-to-enterprises-vibe-coding-can-be-a-threat.html)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

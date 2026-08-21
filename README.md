@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Turns are Better than Radians](https://www.computerenhance.com/p/turns-are-better-than-radians)
-- [Universality of Gradient Descent Neural Network Training](https://arxiv.org/abs/2007.13664)
-- [Feature Request: Support AGENTS.md](https://github.com/anthropics/claude-code/issues/6235)
-- [Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a](https://os8088.com/spotlight/)
-- [DFlash 2: Keep Drafting Parallel](https://inco.ai/blog/dflash2/)
-- [Pressed Penny Machine Map](https://pennypresses.net/home/map.php)
-- [Unlocking a locked/deactivated e-waste Cricut Maker](https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/)
-- [Unsloth Dynamic 3.0 GGUFs](https://unsloth.ai/docs/basics/dynamic-3.0-ggufs)
-- [Go 1.27](https://go.dev/blog/go1.27)
-- [Google replaced Git tags for certain source code with obtaining via Google Drive](https://grapheneos.social/@GrapheneOS/117057099753905023)
+- [Berkeley Law prohibits AI use in classes &lpar;by default&rpar;](https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy/)
+- [It is a sign of the times that Amazon gets to call this fair use](http://observationalepidemiology.blogspot.com/2026/08/it-is-sign-of-times-that-amazon-gets-to.html)
+- [There&#39;s no such thing as a small software team anymore](https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/)
+- [Copyright does not protect AI-generated content in EU](https://mathstodon.xyz/@maxpool/117128107757895678)
+- [Stealth Model](https://openrouter.ai/stealth/ox-alpha)
+- [Detecting scraper bots through scroll behaviour](https://niki.cat/detecting-scraper-bots-through-scroll-behaviour)
+- [Aaron Swartz was prosecuted for scraping, while Meta does it without consequence](https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/)
+- [The August 17 outage, and the work ahead](https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/)
+- [SpacetimeDB: A Short Technical Review](https://strn.cat/posts/spacetime/)
+- [Show HN: Huzzah – a novel approach to coding with AI](https://www.danielvaughn.dev/posts/huzzah/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

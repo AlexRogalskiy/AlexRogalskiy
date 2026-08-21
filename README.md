@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Bongard Problems](https://matthodges.com/posts/2026-08-19-bongard-problems/)
-- [The Sun Never Sets on the Ant Empire &lpar;2019&rpar;](https://sqonline.ucsd.edu/2019/05/the-sun-never-sets-on-the-ant-empire/)
-- [I wanted to talk to a turbine, so I spent 18 years building NthDimension](https://syscon.gr/blog/20260820.html)
-- [The Rats Terrorizing Everyone in Gaza](https://www.thenation.com/article/world/rats-gaza-vermin-crisis/)
-- [Ask HN: What are folks using as the storage engine for their context graphs?](https://news.ycombinator.com/item?id=49369745)
-- [Why Outdoor EV Charger Displays Are More Complicated Than They Look](https://duobond-display.com/news/display-interfaces-system-integration/521.html)
-- [Bill Ackman: Why We&#39;re Donating $400M to Brain Research](https://twitter.com/BillAckman/status/2090190151083532583)
-- [Lunar Volcanism](https://science.nasa.gov/moon/lunar-volcanism/)
-- [Does anyone find AI code review useful?](https://news.ycombinator.com/item?id=49369710)
-- [3D printing with weed trimmer line &lpar;2010&rpar;](https://reprap.org/forum/read.php?1,193637)
+- [Framework responds to complaints that BIOS update bricks Ryzen 7040 laptops](https://arstechnica.com/gadgets/2026/08/framework-responds-to-complaints-that-bios-update-bricked-ryzen-7040-laptops/)
+- [Can Increasing the Hit Ratio Hurt Cache Throughput? &lpar;2024&rpar; [pdf]](https://www.cs.cmu.edu/~harchol/ValueTools24.pdf)
+- [Claude Academy](https://academy.claude.com/)
+- [AI companies destroy physical books – let&#39;s scan rare books before it&#39;s too late](https://annas-archive.gl/blog/physical-destruction.html)
+- [From Markup to Markdown: The Evolution of Technical Writing, Typesetting Tools](https://link.springer.com/book/10.1007/979-8-8688-2931-4)
+- [NYC sanitation workers fed up with being pricked by weight-loss drug needles](https://gothamist.com/news/nyc-sanitation-workers-fed-up-with-being-pricked-by-weight-loss-drug-needles)
+- [Big Food&#39;s Biggest Challenge: People Who Don&#39;t Want to Eat Anymore](https://www.wsj.com/business/packaged-food-weight-loss-drugs-0d0cf851)
+- [Excalidraw but ATProto](https://lexidraw.app)
+- [The Trump administration Turns a Blind Eye to White-Collar Crime](https://www.bloomberg.com/news/features/2026-03-23/trump-administration-fails-to-punish-white-collar-criminals)
+- [ATProto Documents-of-Record](https://requested.fyi/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

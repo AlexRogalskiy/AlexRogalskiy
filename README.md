@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Erin Patterson appeal live: prosecutors to seek life in prison without parole for triple murderer](https://www.theguardian.com/australia-news/live/2026/aug/20/erin-patterson-appeal-live-court-mushroom-murders-australia-victoria-ntwnfb)
-- [The boy behind the Baby Shark phenomenon: I used to hum it without even realising](https://www.theguardian.com/world/2026/aug/20/baby-shark-boy-geonroung-park-k-pop-wave)
-- [Prince Harry and Meghan ‘moving back to Britain this month’](https://www.theguardian.com/uk-news/2026/aug/19/prince-harry-and-meghan-moving-back-to-britain-this-month)
-- [‘Like a miracle’: 84-year-old woman pulled alive from rubble three days after Indonesian quake](https://www.theguardian.com/world/2026/aug/20/indonesia-earthquake-flores-miracle-rescue-elderly-woman-found-alive-in-rubble)
-- [‘Like a seagull in a stiff breeze’: what it’s like flying into Wellington, the world’s windiest city](https://www.theguardian.com/world/2026/aug/20/weather-el-nino-nz-wellington-worlds-windiest-city)
-- [More than 100 dead after goldmine collapses in Central African Republic](https://www.theguardian.com/world/2026/aug/20/gold-mine-collapse-deadly-landslide-central-african-republic)
-- [Young vapers ‘at risk of breathing problems and becoming smokers’](https://www.theguardian.com/society/2026/aug/20/young-vapers-at-risk-of-breathing-problems-and-becoming-smokers)
-- [Premier League 2026-27 preview No 17: Newcastle](https://www.theguardian.com/football/2026/aug/20/premier-league-2026-27-preview-no-17-newcastle)
-- [‘Really exceptional’: O’Neill hails Durán as Celtic surge towards Champions League](https://www.theguardian.com/football/2026/aug/19/celtic-lask-champions-league-playoff-match-report)
-- [Teenage ace Rafael Jódar endures defeat by Cobolli but his star is rising](https://www.theguardian.com/sport/2026/aug/19/jodar-beaten-cobolli-teenager-continues-impress-cincinnati-open-tennis)
+- [Sycophancy in stereo as former Trump hater Michael Cohen loses his nerve](https://www.theguardian.com/us-news/2026/aug/20/michael-cohen-trump-radio-interview)
+- [Zomi Frankcom was killed by IDF drones. Australia says Israel’s response ‘falls far short’. How did it happen and what’s next?](https://www.theguardian.com/australia-news/2026/aug/21/australian-aid-worker-zomi-frankcom-idf-cleared-what-happened-ntwnfb)
+- [Progressive Aisha Wahab wins California special election to fill Eric Swalwell seat](https://www.theguardian.com/us-news/2026/aug/20/california-special-election-results-eric-swalwell)
+- [Tupac Shakur trial: ‘Keffe D’ told detectives years ago his nephew fired the shots](https://www.theguardian.com/music/2026/aug/20/tupac-trial-keffe-davis-shooting)
+- [California oil pipeline can continue to operate, judge rules](https://www.theguardian.com/us-news/2026/aug/20/california-oil-pipeline-trump-judge-ruling)
+- [Lily Hooper’s family was told she’d been found alive. ‘She’s coming home,’ her father said – then tears of joy turned to grief](https://www.theguardian.com/australia-news/2026/aug/21/missing-teen-hiker-lily-hooper-body-found-what-happened-chris-minns-police)
+- [Zomi Frankcom did not deserve to die. Israel’s refusal to investigate her death and its failure to apologise is despicable | Geoffrey Robertson](https://www.theguardian.com/world/commentisfree/2026/aug/21/zomi-frankcom-killing-death-israel-idf-ntwnfb)
+- [Jailed ex-Pakistani PM Imran Khan in hospital after uproar over health](https://www.theguardian.com/world/2026/aug/20/imran-khan-hospital-pakistan)
+- [Premier League 2026-27 preview No 19: Sunderland](https://www.theguardian.com/football/2026/aug/21/premier-league-2026-27-preview-no-19-sunderland)
+- [Premier League: 10 things to look out for as the new season kicks off](https://www.theguardian.com/football/2026/aug/21/premier-league-10-things-to-look-out-for-as-new-season-kicks-off)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

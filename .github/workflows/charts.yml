@@ -1,0 +1,32 @@
+name: Graph charts
+
+on:
+  workflow_dispatch:
+
+jobs:
+  graph-charts:
+    name: Generate graph chart
+    runs-on: windows-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@master
+
+      - name: Create graph charts
+        uses: alexrogalskiy/github-action-charts@master
+        with:
+          url: "https://raw.githubusercontent.com/plotly/plotly.js/master/test/image/mocks/0.json"
+          name: "chart"
+          path: "images/generated"
+          width: 400
+          height: 400
+
+      - name: Commit update
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          branch: master
+          skip_dirty_check: true
+          commit_message: "docs: updates on GitHub charts\n\n Added information on GitHub charts"
+          commit_options: '--no-verify --signoff'
+          commit_user_name: GitHub Bot
+          commit_user_email: github-actions@nullables.io
+          commit_author: GitHub Bot <github-actions@nullables.io>

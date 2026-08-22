@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Framework responds to complaints that BIOS update bricks Ryzen 7040 laptops](https://arstechnica.com/gadgets/2026/08/framework-responds-to-complaints-that-bios-update-bricked-ryzen-7040-laptops/)
-- [Can Increasing the Hit Ratio Hurt Cache Throughput? &lpar;2024&rpar; [pdf]](https://www.cs.cmu.edu/~harchol/ValueTools24.pdf)
-- [Claude Academy](https://academy.claude.com/)
-- [AI companies destroy physical books – let&#39;s scan rare books before it&#39;s too late](https://annas-archive.gl/blog/physical-destruction.html)
-- [From Markup to Markdown: The Evolution of Technical Writing, Typesetting Tools](https://link.springer.com/book/10.1007/979-8-8688-2931-4)
-- [NYC sanitation workers fed up with being pricked by weight-loss drug needles](https://gothamist.com/news/nyc-sanitation-workers-fed-up-with-being-pricked-by-weight-loss-drug-needles)
-- [Big Food&#39;s Biggest Challenge: People Who Don&#39;t Want to Eat Anymore](https://www.wsj.com/business/packaged-food-weight-loss-drugs-0d0cf851)
-- [Excalidraw but ATProto](https://lexidraw.app)
-- [The Trump administration Turns a Blind Eye to White-Collar Crime](https://www.bloomberg.com/news/features/2026-03-23/trump-administration-fails-to-punish-white-collar-criminals)
-- [ATProto Documents-of-Record](https://requested.fyi/)
+- [Syntax](https://www.doc.cc/syntax)
+- [S&amp;P 500 CEO median pay hits $17.3M, widening CEO-worker ratio to 312-to-1](https://finance.yahoo.com/markets/stocks/articles/p-500-ceo-median-pay-234900518.html)
+- [Early Humans Likely Ate Carbs and Sugary Foods](https://www.history.com/articles/early-human-ancestors-diet-sugar-carbs)
+- [Show HN: I let an subagent workflow refactor my codebase for three days](https://github.com/ringlochid/oh-my-subagents)
+- [New human genome has almost no gaps](https://cen.acs.org/biological-chemistry/genomics/single-complete-diploid-human-genome/104/web/2026/08)
+- [Robots running into walls go viral ahead of 2026 World Humanoid Robot Games](https://mashable.com/tech/world-humanoid-robot-games-2026-running-fall-accident)
+- [Tesla&#39;s Solar Roof is Dead – Here&#39;s what went wrong](https://techcrunch.com/2026/08/21/teslas-solar-roof-is-dead-heres-what-went-wrong/)
+- [&#39;Betrayal&#39;: Ranchers lash out at Donald Trump&#39;s plan to cut tax on beef imports](https://www.ft.com/content/7aabb591-ca73-4d87-96ad-dac9a210e1d0)
+- [China&#39;s robots rock, box and mix drinks. Can they outperform humans?](https://www.ft.com/content/e16ded89-b618-4952-a0ab-96ef11d06582)
+- [Anthropic Could Aim to Raise $100B in Blockbuster IPO](https://www.nytimes.com/2026/08/21/technology/anthropic-ipo-100-billion.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

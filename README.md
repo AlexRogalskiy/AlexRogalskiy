@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Berkeley Law prohibits AI use in classes &lpar;by default&rpar;](https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy/)
-- [It is a sign of the times that Amazon gets to call this fair use](http://observationalepidemiology.blogspot.com/2026/08/it-is-sign-of-times-that-amazon-gets-to.html)
-- [There&#39;s no such thing as a small software team anymore](https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/)
-- [Copyright does not protect AI-generated content in EU](https://mathstodon.xyz/@maxpool/117128107757895678)
-- [Stealth Model](https://openrouter.ai/stealth/ox-alpha)
-- [Detecting scraper bots through scroll behaviour](https://niki.cat/detecting-scraper-bots-through-scroll-behaviour)
-- [Aaron Swartz was prosecuted for scraping, while Meta does it without consequence](https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/)
-- [The August 17 outage, and the work ahead](https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/)
-- [SpacetimeDB: A Short Technical Review](https://strn.cat/posts/spacetime/)
-- [Show HN: Huzzah – a novel approach to coding with AI](https://www.danielvaughn.dev/posts/huzzah/)
+- [US Debt-to-GDP Ratio](https://www.us-debt-clock.com/debt-to-gdp)
+- [There&#39;s no reason for software to be slow anymore](https://danluu.com/perf-opt/)
+- [Initial focus for our partnership with Motorola is a regular non-folding device](https://grapheneos.social/@GrapheneOS/117136278553665985)
+- [HN: The Good Parts &lpar;2016&rpar;](https://danluu.com/hn-comments/)
+- [Show HN: OzBrain, a shared brain for knowledge between agents and your team](https://ozbrain.com)
+- [Three important steps in my maturation process](https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/)
+- [SalesPatriot &lpar;YC W25&rpar; Is Hiring Forward Deployed Engineers](https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer)
+- [Rust Glancer: Rust LSP using 100x less RAM](https://rust-glancer.github.io/blog/hello-world/)
+- [Tumble Forth – from assembly to OS with C compiler &lpar;2023&rpar;](https://tumbleforth.hardcoded.net/)
+- [Scientists release biggest 2D map of the universe](https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

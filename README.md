@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Sycophancy in stereo as former Trump hater Michael Cohen loses his nerve](https://www.theguardian.com/us-news/2026/aug/20/michael-cohen-trump-radio-interview)
-- [Zomi Frankcom was killed by IDF drones. Australia says Israel’s response ‘falls far short’. How did it happen and what’s next?](https://www.theguardian.com/australia-news/2026/aug/21/australian-aid-worker-zomi-frankcom-idf-cleared-what-happened-ntwnfb)
-- [Progressive Aisha Wahab wins California special election to fill Eric Swalwell seat](https://www.theguardian.com/us-news/2026/aug/20/california-special-election-results-eric-swalwell)
-- [Tupac Shakur trial: ‘Keffe D’ told detectives years ago his nephew fired the shots](https://www.theguardian.com/music/2026/aug/20/tupac-trial-keffe-davis-shooting)
-- [California oil pipeline can continue to operate, judge rules](https://www.theguardian.com/us-news/2026/aug/20/california-oil-pipeline-trump-judge-ruling)
-- [Lily Hooper’s family was told she’d been found alive. ‘She’s coming home,’ her father said – then tears of joy turned to grief](https://www.theguardian.com/australia-news/2026/aug/21/missing-teen-hiker-lily-hooper-body-found-what-happened-chris-minns-police)
-- [Zomi Frankcom did not deserve to die. Israel’s refusal to investigate her death and its failure to apologise is despicable | Geoffrey Robertson](https://www.theguardian.com/world/commentisfree/2026/aug/21/zomi-frankcom-killing-death-israel-idf-ntwnfb)
-- [Jailed ex-Pakistani PM Imran Khan in hospital after uproar over health](https://www.theguardian.com/world/2026/aug/20/imran-khan-hospital-pakistan)
-- [Premier League 2026-27 preview No 19: Sunderland](https://www.theguardian.com/football/2026/aug/21/premier-league-2026-27-preview-no-19-sunderland)
-- [Premier League: 10 things to look out for as the new season kicks off](https://www.theguardian.com/football/2026/aug/21/premier-league-10-things-to-look-out-for-as-new-season-kicks-off)
+- [Australia v Bangladesh: second men’s Test, day one – live](https://www.theguardian.com/sport/live/2026/aug/22/aus-vs-ban-second-mens-test-day-one-live)
+- [Trump says he views strait of Hormuz as ‘American territory’](https://www.theguardian.com/us-news/2026/aug/21/trump-strait-of-hormuz-american-territory)
+- [Attack on Ukraine shopping centre that killed 16 is ‘terror by design’, says EU foreign policy chief](https://www.theguardian.com/world/2026/aug/22/ukraine-shopping-centre-attack-deaths-russia-terror-by-design-kaja-kallas-kryvyi-rih)
+- [Icons, new stars and First Nations excellence: 10 key shows from New Zealand fashion week](https://www.theguardian.com/fashion/ng-interactive/2026/aug/22/icons-new-stars-and-first-nations-excellence-10-key-shows-from-new-zealand-fashion-week)
+- [Meet Fat Papi, the little-known NZ rapper catapulted to Billboard 100 fame](https://www.theguardian.com/world/ng-interactive/2026/aug/22/fat-papi-rapper-prodshushy-freaked-out-song-billboard-hot-100)
+- [Australia’s national photographic portrait prize 2026 – in pictures](https://www.theguardian.com/artanddesign/gallery/2026/aug/22/australia-national-photographic-portrait-prize-2026-nathan-beard)
+- [‘She’s not afraid of anyone’: the prison writings of one of Hong Kong’s last outspoken democracy activists](https://www.theguardian.com/world/2026/aug/22/chow-hang-tung-tiananmen-prison-writings-hong-kong)
+- [Tesla recalls nearly 3m vehicles in China over door handle safety risks](https://www.theguardian.com/technology/2026/aug/21/china-tesla-vehicle-recall)
+- [Women’s Super League 2026-27 preview No 1: Arsenal](https://www.theguardian.com/football/2026/aug/22/womens-super-league-2026-27-preview-no-1-arsenal)
+- [Girl, 6, dies three days after Shoreham sea incident that killed parents and sister](https://www.theguardian.com/uk-news/2026/aug/21/girl-six-dies-three-days-after-being-pulled-from-sea-off-sussex-coast)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

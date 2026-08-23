@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [US Debt-to-GDP Ratio](https://www.us-debt-clock.com/debt-to-gdp)
-- [There&#39;s no reason for software to be slow anymore](https://danluu.com/perf-opt/)
-- [Initial focus for our partnership with Motorola is a regular non-folding device](https://grapheneos.social/@GrapheneOS/117136278553665985)
-- [HN: The Good Parts &lpar;2016&rpar;](https://danluu.com/hn-comments/)
-- [Show HN: OzBrain, a shared brain for knowledge between agents and your team](https://ozbrain.com)
-- [Three important steps in my maturation process](https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/)
-- [SalesPatriot &lpar;YC W25&rpar; Is Hiring Forward Deployed Engineers](https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer)
-- [Rust Glancer: Rust LSP using 100x less RAM](https://rust-glancer.github.io/blog/hello-world/)
-- [Tumble Forth – from assembly to OS with C compiler &lpar;2023&rpar;](https://tumbleforth.hardcoded.net/)
-- [Scientists release biggest 2D map of the universe](https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/)
+- [NanoGPT Speedrun Frontier](https://www.primeintellect.ai/research/nanogpt-speedrun)
+- [NetBSD and my life &lpar;2005&rpar;](https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html)
+- [hdiutil is deprecated in macOS 27 Golden Gate](https://lapcatsoftware.com/articles/2026/8/7.html)
+- [Why your local LLM feels dumber than it is](https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917)
+- [Figmimic – A bookmarklet to copy any webpage into Figma as editable layers](https://marcua.net/minitools/figmimic/)
+- [Thinking in Python](https://thinkinginpython.com/)
+- [Scrap &lpar;2006&rpar;](https://twitter.com/moxie/status/2091218652133732491)
+- [I set a trap for a book-marketing scammer &lpar;2025&rpar;](https://rwwgreene.substack.com/p/i-set-a-trap-for-a-book-marketing)
+- [Reading Maps – Journeys from fiction drawn on the real world](https://readingmaps.com/)
+- [ElevenLabs, TwelveLabs, ThirteenLabs](https://quantumi.sh/public/labs.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Syntax](https://www.doc.cc/syntax)
-- [S&amp;P 500 CEO median pay hits $17.3M, widening CEO-worker ratio to 312-to-1](https://finance.yahoo.com/markets/stocks/articles/p-500-ceo-median-pay-234900518.html)
-- [Early Humans Likely Ate Carbs and Sugary Foods](https://www.history.com/articles/early-human-ancestors-diet-sugar-carbs)
-- [Show HN: I let an subagent workflow refactor my codebase for three days](https://github.com/ringlochid/oh-my-subagents)
-- [New human genome has almost no gaps](https://cen.acs.org/biological-chemistry/genomics/single-complete-diploid-human-genome/104/web/2026/08)
-- [Robots running into walls go viral ahead of 2026 World Humanoid Robot Games](https://mashable.com/tech/world-humanoid-robot-games-2026-running-fall-accident)
-- [Tesla&#39;s Solar Roof is Dead – Here&#39;s what went wrong](https://techcrunch.com/2026/08/21/teslas-solar-roof-is-dead-heres-what-went-wrong/)
-- [&#39;Betrayal&#39;: Ranchers lash out at Donald Trump&#39;s plan to cut tax on beef imports](https://www.ft.com/content/7aabb591-ca73-4d87-96ad-dac9a210e1d0)
-- [China&#39;s robots rock, box and mix drinks. Can they outperform humans?](https://www.ft.com/content/e16ded89-b618-4952-a0ab-96ef11d06582)
-- [Anthropic Could Aim to Raise $100B in Blockbuster IPO](https://www.nytimes.com/2026/08/21/technology/anthropic-ipo-100-billion.html)
+- [&lpar;RFC+Hiring+Raising&rpar; Hyper Terawatt:Piston-Less V8 Engine Architecture](https://drive.google.com/file/d/18pYk3csOIm82M957FKuYJeTAZ6LCFh8-/view?usp=sharing)
+- [Phase.rs – a full featured MTG SIM in Rust](https://github.com/phase-rs/phase)
+- [Even More Formal Verification for BPF](https://lwn.net/Articles/1087069/)
+- [Grep: Structural Code Search](https://grep.codemod.com/)
+- [How to archive Everything and share It](https://aramzs.github.io/steal-the-internet/)
+- [Passive 3D Thermal &quot;Cloak&quot; Hides Objects from Heat, from Any Direction](https://www.electronicdesign.com/technologies/power/article/55399858/electronic-design-passive-3d-thermal-cloak-hides-objects-from-heat-from-any-direction)
+- [Ask HN: Anyone set up ways to easily obtain and read transcripts from Ted, YT?](https://news.ycombinator.com/item?id=49405684)
+- [Show HN: LayoutLens: AI-Powered Visual UI Testing](https://github.com/gojiplus/layoutlens)
+- [I Dream of Quieter Computing](https://henry.codes/writing/i-dream-of-quieter-computing/)
+- [Edify – Windows NLE: OpenFX, proxy editing, AI subs, vtuber tools &lpar;$29.99 once&rpar;](https://apps.microsoft.com/detail/9nkkk5k5s4ct?hl=en-US&gl=US)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

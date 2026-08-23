@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Australia v Bangladesh: second men’s Test, day one – live](https://www.theguardian.com/sport/live/2026/aug/22/aus-vs-ban-second-mens-test-day-one-live)
-- [Trump says he views strait of Hormuz as ‘American territory’](https://www.theguardian.com/us-news/2026/aug/21/trump-strait-of-hormuz-american-territory)
-- [Attack on Ukraine shopping centre that killed 16 is ‘terror by design’, says EU foreign policy chief](https://www.theguardian.com/world/2026/aug/22/ukraine-shopping-centre-attack-deaths-russia-terror-by-design-kaja-kallas-kryvyi-rih)
-- [Icons, new stars and First Nations excellence: 10 key shows from New Zealand fashion week](https://www.theguardian.com/fashion/ng-interactive/2026/aug/22/icons-new-stars-and-first-nations-excellence-10-key-shows-from-new-zealand-fashion-week)
-- [Meet Fat Papi, the little-known NZ rapper catapulted to Billboard 100 fame](https://www.theguardian.com/world/ng-interactive/2026/aug/22/fat-papi-rapper-prodshushy-freaked-out-song-billboard-hot-100)
-- [Australia’s national photographic portrait prize 2026 – in pictures](https://www.theguardian.com/artanddesign/gallery/2026/aug/22/australia-national-photographic-portrait-prize-2026-nathan-beard)
-- [‘She’s not afraid of anyone’: the prison writings of one of Hong Kong’s last outspoken democracy activists](https://www.theguardian.com/world/2026/aug/22/chow-hang-tung-tiananmen-prison-writings-hong-kong)
-- [Tesla recalls nearly 3m vehicles in China over door handle safety risks](https://www.theguardian.com/technology/2026/aug/21/china-tesla-vehicle-recall)
-- [Women’s Super League 2026-27 preview No 1: Arsenal](https://www.theguardian.com/football/2026/aug/22/womens-super-league-2026-27-preview-no-1-arsenal)
-- [Girl, 6, dies three days after Shoreham sea incident that killed parents and sister](https://www.theguardian.com/uk-news/2026/aug/21/girl-six-dies-three-days-after-being-pulled-from-sea-off-sussex-coast)
+- [Australia v Bangladesh: second men’s Test, day two – live](https://www.theguardian.com/sport/live/2026/aug/23/aus-vs-ban-second-mens-test-day-two-live)
+- [Sydney Marathon admits ‘unfortunate error’ as finisher’s medal depicts Munich stadium as race highlight](https://www.theguardian.com/australia-news/2026/aug/23/sydney-marathon-medal-allianz-stadium-munich-germany-unfortunate-error)
+- [Ukraine war briefing: Macron focuses on delivery of missile interceptors as Russian attacks intensify](https://www.theguardian.com/world/2026/aug/23/ukraine-war-briefing-macron-focuses-on-delivery-of-missile-interceptors-as-russian-attacks-intensify)
+- [José Mourinho marks Real Madrid return with late drama and touch of humility | Sid Lowe](https://www.theguardian.com/football/2026/aug/23/jose-mourinho-real-madrid-romance-espanyol-la-liga)
+- [Arthur Fils blasts past Flavio Cobolli to reach first Masters final in landmark win](https://www.theguardian.com/sport/2026/aug/23/arthur-fils-blasts-past-flavio-cobolli-to-reach-first-masters-1000-final)
+- [Women’s Super League 2026-27 preview No 2: Aston Villa](https://www.theguardian.com/football/2026/aug/23/womens-super-league-2026-27-preview-no-2-aston-villa)
+- [Shabana Azeez: ‘The most disgusting thing I’ve seen on The Pitt? American coffee’](https://www.theguardian.com/tv-and-radio/2026/jul/23/shabana-azeez-actor-interview-the-pitt)
+- [Meghan’s casting in The Gentlemen reportedly withdrawn](https://www.theguardian.com/film/2026/aug/22/meghan-markles-casting-in-the-gentlemen-reportedly-withdrawn-after-uk-backlash)
+- [Is this the end of Harry and Meghan’s American dream?](https://www.theguardian.com/news/ng-interactive/2026/aug/22/prince-harry-meghan-american-dream)
+- [Nancy Kassebaum Baker, former US senator from Kansas, dies aged 94](https://www.theguardian.com/us-news/2026/aug/22/nancy-kassebaum-baker-dies-aged-94)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

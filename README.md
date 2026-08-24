@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Australia v Bangladesh: second men’s Test, day two – live](https://www.theguardian.com/sport/live/2026/aug/23/aus-vs-ban-second-mens-test-day-two-live)
-- [Sydney Marathon admits ‘unfortunate error’ as finisher’s medal depicts Munich stadium as race highlight](https://www.theguardian.com/australia-news/2026/aug/23/sydney-marathon-medal-allianz-stadium-munich-germany-unfortunate-error)
-- [Ukraine war briefing: Macron focuses on delivery of missile interceptors as Russian attacks intensify](https://www.theguardian.com/world/2026/aug/23/ukraine-war-briefing-macron-focuses-on-delivery-of-missile-interceptors-as-russian-attacks-intensify)
-- [José Mourinho marks Real Madrid return with late drama and touch of humility | Sid Lowe](https://www.theguardian.com/football/2026/aug/23/jose-mourinho-real-madrid-romance-espanyol-la-liga)
-- [Arthur Fils blasts past Flavio Cobolli to reach first Masters final in landmark win](https://www.theguardian.com/sport/2026/aug/23/arthur-fils-blasts-past-flavio-cobolli-to-reach-first-masters-1000-final)
-- [Women’s Super League 2026-27 preview No 2: Aston Villa](https://www.theguardian.com/football/2026/aug/23/womens-super-league-2026-27-preview-no-2-aston-villa)
-- [Shabana Azeez: ‘The most disgusting thing I’ve seen on The Pitt? American coffee’](https://www.theguardian.com/tv-and-radio/2026/jul/23/shabana-azeez-actor-interview-the-pitt)
-- [Meghan’s casting in The Gentlemen reportedly withdrawn](https://www.theguardian.com/film/2026/aug/22/meghan-markles-casting-in-the-gentlemen-reportedly-withdrawn-after-uk-backlash)
-- [Is this the end of Harry and Meghan’s American dream?](https://www.theguardian.com/news/ng-interactive/2026/aug/22/prince-harry-meghan-american-dream)
-- [Nancy Kassebaum Baker, former US senator from Kansas, dies aged 94](https://www.theguardian.com/us-news/2026/aug/22/nancy-kassebaum-baker-dies-aged-94)
+- [US territories hit out at Trump plan to explore deep sea mining in the Pacific](https://www.theguardian.com/environment/2026/aug/24/trump-plans-critical-minerals-deep-sea-mining-pacific-islands)
+- [Burnham to visit Ukraine with promise of boost for Kyiv’s long-range missiles](https://www.theguardian.com/politics/2026/aug/24/andy-burnham-ukraine-long-range-missile-technology-kyiv-visit)
+- [Government vows to make business rate valuations for pubs and hotels fairer](https://www.theguardian.com/business/2026/aug/24/government-vows-to-make-business-rate-valuations-for-pubs-and-hotels-fairer)
+- [UK productivity growing faster than official figures suggest, thinktank finds](https://www.theguardian.com/business/2026/aug/24/uk-productivity-growing-faster-official-figures-resolution-foundation)
+- [Women’s Super League 2026-27 preview No 3: Birmingham City](https://www.theguardian.com/football/2026/aug/24/womens-super-league-2026-27-preview-no-3-birmingham-city)
+- [Ceferin brands Infantino’s failed World Cup plan as ‘even worse than the Super League’](https://www.theguardian.com/football/2026/aug/24/aleksander-ceferin-gianni-infantino-world-cup-fifa-uefa-super-league)
+- [Arthur Fils wins first Masters title after beating Frances Tiafoe in Cincinnati final](https://www.theguardian.com/sport/2026/aug/23/arthur-fils-masters-frances-tiafoe-cincinnati-tennis)
+- [Eight-year-old dies after contracting rare brain-eating amoeba in Louisiana](https://www.theguardian.com/us-news/2026/aug/23/child-dies-brain-eating-amoeba-infection-louisiana)
+- [Landslide at waste mound in Guinea capital kills 30, government says](https://www.theguardian.com/world/2026/aug/23/landslide-waste-mound-conakry-guinea-kills-dozens)
+- [European football: Torres double rescues PSG point after Rennes threaten shock win](https://www.theguardian.com/football/2026/aug/23/european-football-psg-rennes-torino-milan-elche-barcelona-bayern-munich-harry-kane)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [&lpar;RFC+Hiring+Raising&rpar; Hyper Terawatt:Piston-Less V8 Engine Architecture](https://drive.google.com/file/d/18pYk3csOIm82M957FKuYJeTAZ6LCFh8-/view?usp=sharing)
-- [Phase.rs – a full featured MTG SIM in Rust](https://github.com/phase-rs/phase)
-- [Even More Formal Verification for BPF](https://lwn.net/Articles/1087069/)
-- [Grep: Structural Code Search](https://grep.codemod.com/)
-- [How to archive Everything and share It](https://aramzs.github.io/steal-the-internet/)
-- [Passive 3D Thermal &quot;Cloak&quot; Hides Objects from Heat, from Any Direction](https://www.electronicdesign.com/technologies/power/article/55399858/electronic-design-passive-3d-thermal-cloak-hides-objects-from-heat-from-any-direction)
-- [Ask HN: Anyone set up ways to easily obtain and read transcripts from Ted, YT?](https://news.ycombinator.com/item?id=49405684)
-- [Show HN: LayoutLens: AI-Powered Visual UI Testing](https://github.com/gojiplus/layoutlens)
-- [I Dream of Quieter Computing](https://henry.codes/writing/i-dream-of-quieter-computing/)
-- [Edify – Windows NLE: OpenFX, proxy editing, AI subs, vtuber tools &lpar;$29.99 once&rpar;](https://apps.microsoft.com/detail/9nkkk5k5s4ct?hl=en-US&gl=US)
+- [Using Unicode Half-Stars Symbols in Ratings](https://kvibber.com/tech-tips/half-stars/)
+- [Due to need for &#39;absolute success,&#39; China delays critical Moon launch to 2027](https://arstechnica.com/space/2026/08/due-to-need-for-absolute-success-china-delays-critical-moon-launch-to-2027/)
+- [How Complex Systems Fail](https://how.complexsystems.fail/)
+- [Blueprint for how to be self sufficient in a 1/4 acre backyard](https://www.reddit.com/user/CandescentgenyVet/comments/1vw9dcj/blueprint_for_how_to_be_self_sufficient_in_a_14/)
+- [Hacker News in Uncompromised Detail](https://vale.rocks/posts/hacker-news)
+- [Show HN: LAN Sheriff – watch which servers your machine talks to, live on a map](https://github.com/291-Group/LAN-Sheriff)
+- [Oura lawsuit accuses it of misleading consumers about sleep-tracking accuracy](https://techcrunch.com/2026/08/21/oura-faces-lawsuit-accusing-it-of-misleading-consumers-about-sleep-tracking-accuracy/)
+- [Flock camera backlash adds fuel to midterm anti-AI frenzy](https://www.axios.com/2026/08/23/flock-cameras-data-centers-ai-midterms-2026-tech)
+- [Physical Activity at Work Linked to Higher Dementia Rates](https://www.medpagetoday.com/neurology/dementia/122675)
+- [Show HN: Application-Layer Parsing in eBPF](https://github.com/lbrndnr/beeper)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

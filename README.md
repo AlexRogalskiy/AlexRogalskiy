@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [NanoGPT Speedrun Frontier](https://www.primeintellect.ai/research/nanogpt-speedrun)
-- [NetBSD and my life &lpar;2005&rpar;](https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html)
-- [hdiutil is deprecated in macOS 27 Golden Gate](https://lapcatsoftware.com/articles/2026/8/7.html)
-- [Why your local LLM feels dumber than it is](https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917)
-- [Figmimic – A bookmarklet to copy any webpage into Figma as editable layers](https://marcua.net/minitools/figmimic/)
-- [Thinking in Python](https://thinkinginpython.com/)
-- [Scrap &lpar;2006&rpar;](https://twitter.com/moxie/status/2091218652133732491)
-- [I set a trap for a book-marketing scammer &lpar;2025&rpar;](https://rwwgreene.substack.com/p/i-set-a-trap-for-a-book-marketing)
-- [Reading Maps – Journeys from fiction drawn on the real world](https://readingmaps.com/)
-- [ElevenLabs, TwelveLabs, ThirteenLabs](https://quantumi.sh/public/labs.html)
+- [Migrating a Synology NAS to a UniFi UNAS Pro 8 with Robocopy, SMB Multichannel](https://www.hanselman.com/blog/migrating-a-synology-nas-to-a-unifi-unas-pro-8-with-robocopy-smb-multichannel-and-surprising-performance-traps)
+- [Everything I own, owned](https://schlarp.com/posts/everything-i-own-owned/)
+- [Parallel development without the headaches using Git worktree](https://barrd.dev/article/parallel-development-without-the-headaches-using-git-worktree/)
+- [The planet now has more trees than it did 35 years ago &lpar;2018&rpar;](https://psmag.com/environment/the-planet-now-has-more-trees-than-it-did-35-years-ago/)
+- [Implementation of GPT-2 in pure CMake](https://github.com/AlpinDale/gpt2.cmake)
+- [Declarative WebGPU with S-Expressions](https://hugodaniel.com/posts/declarative-webgpu-with-s-expressions/)
+- [Rural Village in Spain Is Welcoming Digital Nomads with Open Arms](https://www.cntraveler.com/story/this-rural-village-in-spain-is-welcoming-digital-nomads-with-open-arms)
+- [Decoding silent reading from non-invasive EEG](https://arxiv.org/abs/2608.20186)
+- [Google Workspace thinks my domain is an email provider &lpar;2025&rpar;](https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/)
+- [How I find problems to solve as a staff engineer](https://lalitm.com/post/find-problems-staff-engineer/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

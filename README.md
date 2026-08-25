@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Using Unicode Half-Stars Symbols in Ratings](https://kvibber.com/tech-tips/half-stars/)
-- [Due to need for &#39;absolute success,&#39; China delays critical Moon launch to 2027](https://arstechnica.com/space/2026/08/due-to-need-for-absolute-success-china-delays-critical-moon-launch-to-2027/)
-- [How Complex Systems Fail](https://how.complexsystems.fail/)
-- [Blueprint for how to be self sufficient in a 1/4 acre backyard](https://www.reddit.com/user/CandescentgenyVet/comments/1vw9dcj/blueprint_for_how_to_be_self_sufficient_in_a_14/)
-- [Hacker News in Uncompromised Detail](https://vale.rocks/posts/hacker-news)
-- [Show HN: LAN Sheriff – watch which servers your machine talks to, live on a map](https://github.com/291-Group/LAN-Sheriff)
-- [Oura lawsuit accuses it of misleading consumers about sleep-tracking accuracy](https://techcrunch.com/2026/08/21/oura-faces-lawsuit-accusing-it-of-misleading-consumers-about-sleep-tracking-accuracy/)
-- [Flock camera backlash adds fuel to midterm anti-AI frenzy](https://www.axios.com/2026/08/23/flock-cameras-data-centers-ai-midterms-2026-tech)
-- [Physical Activity at Work Linked to Higher Dementia Rates](https://www.medpagetoday.com/neurology/dementia/122675)
-- [Show HN: Application-Layer Parsing in eBPF](https://github.com/lbrndnr/beeper)
+- [Don&#39;t take your subagent&#39;s word for it](https://news.ycombinator.com/item?id=49428524)
+- [IBM Z and LinuxONE Dual-ISA Processor and AI Acceleration at Hot Chips 2026](https://www.servethehome.com/ibm-z-and-linuxone-dual-isa-processor-and-ai-acceleration-at-hot-chips-2026/)
+- [Show HN: Aquifer – Admission control for bursty vLLM traffic](https://github.com/rjpruitt16/aquifer)
+- [FDA approves first Alzheimer&#39;s blood test for Americans as young as 40](https://newatlas.com/brain/alzheimers-dementia/fda-approves-first-alzheimers-blood-test/)
+- [We gave every agent a computer](https://onecli.sh/blog/why-we-gave-every-agent-a-computer)
+- [Show HN: Hierarchical to-do calendar for solo founders](https://news.ycombinator.com/item?id=49428450)
+- [Canada to announce retaliatory tariffs as Trump tells leaders to &#39;fall in line&#39;](https://apnews.com/article/canada-trade-trump-ontario-53c4f83c8365c14b372b314396ae8179)
+- [AliExpress uses Inaudible sounds to fingerprint browsers](https://arstechnica.com/security/2026/08/aliexpress-caught-fingerprinting-visitors-after-sending-inaudible-sounds-to-browsers/)
+- [Show HN: PeerPixel, community-powered AI image generation](https://peerpixel.cc/)
+- [Trump admin to review Flock cameras in wake of Atlanta protest](https://www.wsj.com/tech/flock-cameras-are-spreading-across-america-the-backlash-is-growing-just-as-fast-fff74ed2)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

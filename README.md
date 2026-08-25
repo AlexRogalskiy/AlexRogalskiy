@@ -355,6 +355,8 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Apple’s folding iPhone has already launched – in your head](https://www.computerworld.com/article/4213098/apples-folding-iphone-has-already-launched-in-your-head.html)
+- [6 tips for better research with Microsoft Copilot](https://www.computerworld.com/article/4204609/microsoft-copilot-research-tips.html)
 - [ChatGPT wants Full Disk Access to your Mac and Messages](https://www.computerworld.com/article/4212509/chatgpt-wants-full-disk-access-to-your-mac-and-messages.html)
 - [New ‘Slack Code’ turns AI coding into a team activity](https://www.computerworld.com/article/4212446/new-slack-code-turns-ai-coding-into-a-team-activity.html)
 - [OpenAI adds an AI safety layer to detect misuse without retaining enterprise data](https://www.computerworld.com/article/4212412/openai-adds-an-ai-safety-layer-to-detect-misuse-without-retaining-enterprise-data-2.html)
@@ -363,8 +365,6 @@
 - [When AI explains its decision, humans may stop thinking independently](https://www.computerworld.com/article/4211682/when-ai-explains-its-decision-humans-may-stop-thinking-independently-2.html)
 - [OpenAI ‘temporarily slows’ scaling efforts, also promises zero data retention for select frontier model customers](https://www.computerworld.com/article/4211661/openai-temporarily-slows-scaling-efforts-also-promises-zero-data-retention-for-select-frontier-model-customers.html)
 - [The Google Pixel 11 Pro XL: A smarter phone for getting things done](https://www.computerworld.com/article/4211520/google-pixel-11-pro-xl-review-a-smarter-phone-for-getting-things-done.html)
-- [Apple’s EU App Store truce: What changed — and who’s still angry?](https://www.computerworld.com/article/4211551/apples-eu-app-store-truce-what-changed-and-whos-still-angry.html)
-- [Microsoft finally patches critical one-click Copilot vulnerability, almost eight months after learning of it](https://www.computerworld.com/article/4211325/microsoft-finally-patches-critical-one-click-copilot-vulnerability-more-than-eight-months-after-learning-of-it.html)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

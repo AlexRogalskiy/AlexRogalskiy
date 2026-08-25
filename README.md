@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Migrating a Synology NAS to a UniFi UNAS Pro 8 with Robocopy, SMB Multichannel](https://www.hanselman.com/blog/migrating-a-synology-nas-to-a-unifi-unas-pro-8-with-robocopy-smb-multichannel-and-surprising-performance-traps)
-- [Everything I own, owned](https://schlarp.com/posts/everything-i-own-owned/)
-- [Parallel development without the headaches using Git worktree](https://barrd.dev/article/parallel-development-without-the-headaches-using-git-worktree/)
-- [The planet now has more trees than it did 35 years ago &lpar;2018&rpar;](https://psmag.com/environment/the-planet-now-has-more-trees-than-it-did-35-years-ago/)
-- [Implementation of GPT-2 in pure CMake](https://github.com/AlpinDale/gpt2.cmake)
-- [Declarative WebGPU with S-Expressions](https://hugodaniel.com/posts/declarative-webgpu-with-s-expressions/)
-- [Rural Village in Spain Is Welcoming Digital Nomads with Open Arms](https://www.cntraveler.com/story/this-rural-village-in-spain-is-welcoming-digital-nomads-with-open-arms)
-- [Decoding silent reading from non-invasive EEG](https://arxiv.org/abs/2608.20186)
-- [Google Workspace thinks my domain is an email provider &lpar;2025&rpar;](https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/)
-- [How I find problems to solve as a staff engineer](https://lalitm.com/post/find-problems-staff-engineer/)
+- [Thomson Reuters Launches Its Own Frontier Model](https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model)
+- [How Universities Should Prepare Founders](https://paulgraham.com/prepare.html)
+- [Was Modern Art a CIA Psy-Op?](https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/)
+- [What languages are agent skills written in?](https://plicara.ai/research/agent-skill-languages/)
+- [Bookshelf – Self-hosted eBook library that runs on object storage](https://github.com/murerkinn/bookshelf)
+- [iCloud+ Hide My Email addresses will remain on icloud.com](https://developer.apple.com/news/?id=1ptvdtcm)
+- [Moon &lpar;2024&rpar;](https://ciechanow.ski/moon/)
+- [One corner of China’s internet is insisting that the Tang Dynasty never existed](https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk)
+- [Vintage Artificial Intelligence: Before It Got Awkward](https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/)
+- [Oceans hit highest temperature on record](https://www.bbc.com/news/articles/c62m4gpnp78o)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [US territories hit out at Trump plan to explore deep sea mining in the Pacific](https://www.theguardian.com/environment/2026/aug/24/trump-plans-critical-minerals-deep-sea-mining-pacific-islands)
-- [Burnham to visit Ukraine with promise of boost for Kyiv’s long-range missiles](https://www.theguardian.com/politics/2026/aug/24/andy-burnham-ukraine-long-range-missile-technology-kyiv-visit)
-- [Government vows to make business rate valuations for pubs and hotels fairer](https://www.theguardian.com/business/2026/aug/24/government-vows-to-make-business-rate-valuations-for-pubs-and-hotels-fairer)
-- [UK productivity growing faster than official figures suggest, thinktank finds](https://www.theguardian.com/business/2026/aug/24/uk-productivity-growing-faster-official-figures-resolution-foundation)
-- [Women’s Super League 2026-27 preview No 3: Birmingham City](https://www.theguardian.com/football/2026/aug/24/womens-super-league-2026-27-preview-no-3-birmingham-city)
-- [Ceferin brands Infantino’s failed World Cup plan as ‘even worse than the Super League’](https://www.theguardian.com/football/2026/aug/24/aleksander-ceferin-gianni-infantino-world-cup-fifa-uefa-super-league)
-- [Arthur Fils wins first Masters title after beating Frances Tiafoe in Cincinnati final](https://www.theguardian.com/sport/2026/aug/23/arthur-fils-masters-frances-tiafoe-cincinnati-tennis)
-- [Eight-year-old dies after contracting rare brain-eating amoeba in Louisiana](https://www.theguardian.com/us-news/2026/aug/23/child-dies-brain-eating-amoeba-infection-louisiana)
-- [Landslide at waste mound in Guinea capital kills 30, government says](https://www.theguardian.com/world/2026/aug/23/landslide-waste-mound-conakry-guinea-kills-dozens)
-- [European football: Torres double rescues PSG point after Rennes threaten shock win](https://www.theguardian.com/football/2026/aug/23/european-football-psg-rennes-torino-milan-elche-barcelona-bayern-munich-harry-kane)
+- [Ukraine war briefing: Ozon next in Kyiv’s sights as sheds of Wildberries rival burn](https://www.theguardian.com/world/2026/aug/25/ukraine-war-briefing-ozon-next-in-kyivs-sights-as-sheds-of-wildberries-rival-burn)
+- [Japan enlists 1,800 people to drag a 360-tonne castle keep using ropes and rollers](https://www.theguardian.com/world/2026/aug/25/japan-1800-people-move-pull-400-tonne-hirosaki-castle-with-ropes)
+- [Washington Post ordered to reinstate opinion writer fired over Charlie Kirk posts](https://www.theguardian.com/business/2026/aug/24/washington-post-reinstate-karen-attiah)
+- [Colombia’s new president Abelardo de la Espriella announces immigration crackdown](https://www.theguardian.com/world/2026/aug/25/colombia-immigration-crackdown-president-abelardo-de-la-espriella)
+- [‘Honest leaders are the first step to a better future’: Cockroach hunger striker targets India’s political class](https://www.theguardian.com/world/2026/aug/25/cockroach-hunger-striker-india-political-class)
+- [From mixed martial arts to mechanical dogs: the World Robot Conference 2026 – in pictures](https://www.theguardian.com/world/gallery/2026/aug/25/from-mixed-martial-arts-to-mechanical-dogs-the-world-robot-conference-2026-in-pictures)
+- [‘Immense drop-off’ in support contributing to care leaver deaths in England, review says](https://www.theguardian.com/society/2026/aug/25/care-leaver-deaths-isolation-drop-off-support-review)
+- [Women’s Super League 2026-27 preview No 4: Brighton](https://www.theguardian.com/football/2026/aug/25/womens-super-league-2026-27-preview-no-4-brighton)
+- [Glaring weakness in goal remains but early signs Xabi Alonso’s Chelsea should be fun | Jonathan Wilson](https://www.theguardian.com/football/2026/aug/24/premier-league-chelsea-xabi-alonso-fulham)
+- [Largest review of its kind confirms benefits of tai chi and other Chinese exercises](https://www.theguardian.com/society/2026/aug/24/largest-review-of-its-kind-confirms-benefits-of-tai-chi-and-other-chinese-exercises)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

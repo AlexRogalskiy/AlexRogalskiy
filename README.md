@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Thomson Reuters Launches Its Own Frontier Model](https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model)
-- [How Universities Should Prepare Founders](https://paulgraham.com/prepare.html)
-- [Was Modern Art a CIA Psy-Op?](https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/)
-- [What languages are agent skills written in?](https://plicara.ai/research/agent-skill-languages/)
-- [Bookshelf – Self-hosted eBook library that runs on object storage](https://github.com/murerkinn/bookshelf)
-- [iCloud+ Hide My Email addresses will remain on icloud.com](https://developer.apple.com/news/?id=1ptvdtcm)
-- [Moon &lpar;2024&rpar;](https://ciechanow.ski/moon/)
-- [One corner of China’s internet is insisting that the Tang Dynasty never existed](https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk)
-- [Vintage Artificial Intelligence: Before It Got Awkward](https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/)
-- [Oceans hit highest temperature on record](https://www.bbc.com/news/articles/c62m4gpnp78o)
+- [Letter from Dolly Parton to Eminem](https://twitter.com/Eminem/status/2092367272891310482)
+- [The brain may be about to have its Ozempic moment](https://www.economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment)
+- [Queryable Executables](https://fzakaria.com/2026/08/24/actually-queryable-executables)
+- [Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others](https://github.com/runetes/maiao)
+- [Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM](https://github.com/swimmingbrain/texbrain)
+- [Python&#39;s pre-declared constants are kinda weird](https://sebsite.pw/w/20260801-pythonconstants.html)
+- [When str.lower&lpar;&rpar; is a security vulnerability in Python – Seth Larson](https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability)
+- [C2PA Cameras Do Not Survive Contact with Reality](https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html)
+- [A brief history of federal lift ticket regulation](https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket)
+- [FDA authorizes first wearable device that monitors ketone and blood sugar levels](https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

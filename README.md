@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Don&#39;t take your subagent&#39;s word for it](https://news.ycombinator.com/item?id=49428524)
-- [IBM Z and LinuxONE Dual-ISA Processor and AI Acceleration at Hot Chips 2026](https://www.servethehome.com/ibm-z-and-linuxone-dual-isa-processor-and-ai-acceleration-at-hot-chips-2026/)
-- [Show HN: Aquifer – Admission control for bursty vLLM traffic](https://github.com/rjpruitt16/aquifer)
-- [FDA approves first Alzheimer&#39;s blood test for Americans as young as 40](https://newatlas.com/brain/alzheimers-dementia/fda-approves-first-alzheimers-blood-test/)
-- [We gave every agent a computer](https://onecli.sh/blog/why-we-gave-every-agent-a-computer)
-- [Show HN: Hierarchical to-do calendar for solo founders](https://news.ycombinator.com/item?id=49428450)
-- [Canada to announce retaliatory tariffs as Trump tells leaders to &#39;fall in line&#39;](https://apnews.com/article/canada-trade-trump-ontario-53c4f83c8365c14b372b314396ae8179)
-- [AliExpress uses Inaudible sounds to fingerprint browsers](https://arstechnica.com/security/2026/08/aliexpress-caught-fingerprinting-visitors-after-sending-inaudible-sounds-to-browsers/)
-- [Show HN: PeerPixel, community-powered AI image generation](https://peerpixel.cc/)
-- [Trump admin to review Flock cameras in wake of Atlanta protest](https://www.wsj.com/tech/flock-cameras-are-spreading-across-america-the-backlash-is-growing-just-as-fast-fff74ed2)
+- [AWS Activate Credits](https://aws.amazon.com/)
+- [Scottish photographer shot portraits of Alabama gingers to find American unity](https://www.al.com/news/2026/08/scottish-photographer-shot-stunning-portraits-of-alabama-gingers-to-find-what-unites-america.html)
+- [Show HN: Browser automation with no chromedriver and no Node driver](https://github.com/angeldevmobile/Orion)
+- [Bitcoin&#39;s $80k Test: A Renewed Rally Puts Prediction Markets on Alert](https://predx-article.fika.bar/bitcoin-s-80-000-test-a-renewed-rally-puts-prediction-mark-01M0VF5CMNQS1QF9HRPHP6E8T6)
+- [RL Contributes to Illegible Reasoning Traces in Hard Problems](https://arxiv.org/abs/2510.27338)
+- [Flipping Pages / Audrey Gu](https://audreygu.io/entry/flipping_pages)
+- [Cursor drops mandatory arbitration and class-action waiver, sends disputes to TX](https://tostracker.app/briefing/anysphere-cursor-arbitration-removed-2026-08)
+- [Agentic Context Management: Memory and Cost as Architecture Problems](https://arxiv.org/abs/2607.21503)
+- [Curves of Constant Width](https://www.ztlawton.com/socw/curves-of-constant-width.html)
+- [Wikinews](https://en.wikipedia.org/wiki/Wikinews)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

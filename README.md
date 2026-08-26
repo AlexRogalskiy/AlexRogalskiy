@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine war briefing: Ozon next in Kyiv’s sights as sheds of Wildberries rival burn](https://www.theguardian.com/world/2026/aug/25/ukraine-war-briefing-ozon-next-in-kyivs-sights-as-sheds-of-wildberries-rival-burn)
-- [Japan enlists 1,800 people to drag a 360-tonne castle keep using ropes and rollers](https://www.theguardian.com/world/2026/aug/25/japan-1800-people-move-pull-400-tonne-hirosaki-castle-with-ropes)
-- [Washington Post ordered to reinstate opinion writer fired over Charlie Kirk posts](https://www.theguardian.com/business/2026/aug/24/washington-post-reinstate-karen-attiah)
-- [Colombia’s new president Abelardo de la Espriella announces immigration crackdown](https://www.theguardian.com/world/2026/aug/25/colombia-immigration-crackdown-president-abelardo-de-la-espriella)
-- [‘Honest leaders are the first step to a better future’: Cockroach hunger striker targets India’s political class](https://www.theguardian.com/world/2026/aug/25/cockroach-hunger-striker-india-political-class)
-- [From mixed martial arts to mechanical dogs: the World Robot Conference 2026 – in pictures](https://www.theguardian.com/world/gallery/2026/aug/25/from-mixed-martial-arts-to-mechanical-dogs-the-world-robot-conference-2026-in-pictures)
-- [‘Immense drop-off’ in support contributing to care leaver deaths in England, review says](https://www.theguardian.com/society/2026/aug/25/care-leaver-deaths-isolation-drop-off-support-review)
-- [Women’s Super League 2026-27 preview No 4: Brighton](https://www.theguardian.com/football/2026/aug/25/womens-super-league-2026-27-preview-no-4-brighton)
-- [Glaring weakness in goal remains but early signs Xabi Alonso’s Chelsea should be fun | Jonathan Wilson](https://www.theguardian.com/football/2026/aug/24/premier-league-chelsea-xabi-alonso-fulham)
-- [Largest review of its kind confirms benefits of tai chi and other Chinese exercises](https://www.theguardian.com/society/2026/aug/24/largest-review-of-its-kind-confirms-benefits-of-tai-chi-and-other-chinese-exercises)
+- [Ukraine war briefing: Small batch of Patriots arrives as Zelenskyy pleads for more](https://www.theguardian.com/world/2026/aug/26/ukraine-war-briefing-small-batch-of-patriots-arrives-as-zelenskyy-pleads-for-more)
+- [In China, talking to AI is normal. Now the government fears it might replace human intimacy](https://www.theguardian.com/world/2026/aug/26/china-ai-companion-relationships-marriage-birth-rate-concern)
+- [Instagram CEO denies company hid low use of teen safety feature in Meta trial](https://www.theguardian.com/technology/2026/aug/25/instagram-ceo-teen-safety-lawsuit)
+- [‘So hacked off’: as election nears, New Zealanders despair at the main parties – and Opportunity knocks](https://www.theguardian.com/world/2026/aug/26/new-zealand-election-voters-despair-main-parties-and-opportunity-knocks)
+- [Serena Williams thrills New York crowd on US Open return with Alcaraz](https://www.theguardian.com/sport/2026/aug/26/serena-williams-carlos-alcaraz-us-open-tennis-mixed-doubles)
+- [Dogs blink more often when they see owners blinking, study finds](https://www.theguardian.com/science/2026/aug/26/dogs-blink-more-often-owners-blinking-study)
+- [Bruno Fernandes and Khadija Shaw land PFA Player of the Year awards](https://www.theguardian.com/football/2026/aug/25/bruno-fernandes-khadija-shaw-pfa-player-of-the-year)
+- [Celtic throw away four-goal aggregate lead to crash out of Champions League against Lask](https://www.theguardian.com/football/2026/aug/25/champions-league-celtic)
+- [De Zerbi hopes Sávio’s fresh start will help Spurs’ much-needed rebrand](https://www.theguardian.com/football/2026/aug/25/roberto-de-zerbi-savio-signing-tottenham-hotspur-rebrand)
+- [Father of USS Lincoln sailor detained by ICE released from detention](https://www.theguardian.com/us-news/2026/aug/25/father-uss-lincoln-sailor-detained-ice-released)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

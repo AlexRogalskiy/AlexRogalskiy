@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Meta’s plans to replace workers with AI fell flat, report says](https://www.computerworld.com/article/4214479/metas-plans-to-replace-workers-with-ai-fell-flat-report-says.html)
+- [AI deployments bring with them risks companies are ill-prepared for — analysts](https://www.computerworld.com/article/4214445/ai-deployments-bring-with-them-risks-companies-are-ill-prepared-for-analysts.html)
+- [Agentic AI – Ongoing coverage of its impact on the enterprise](https://www.computerworld.com/article/3843138/agentic-ai-ongoing-coverage-of-its-impact-on-the-enterprise.html)
+- [If OpenAI has nothing to hide, it has nothing to fear](https://www.computerworld.com/article/4214117/if-openai-has-nothing-to-hide-it-has-nothing-to-fear.html)
+- [What are ‘open’ AI models?](https://www.computerworld.com/article/4213156/what-are-open-ai-models.html)
+- [How to unlock Google’s new Pixel vibration wizardry on any Android phone](https://www.computerworld.com/article/3816566/google-pixel-vibration-android.html)
 - [Perplexity’s on-device AI offering promises data control and lower token costs](https://www.computerworld.com/article/4213821/perplexitys-on-device-ai-offering-promises-data-control-and-lower-token-costs.html)
 - [AI hits entry-level jobs for younger workers the hardest — study](https://www.computerworld.com/article/4213815/study-ai-hits-entry-level-jobs-for-young-people-the-hardest.html)
 - [Mac production returns to America with the newest Mac mini](https://www.computerworld.com/article/4213738/mac-production-returns-to-america-with-the-newest-mac-mini.html)
 - [Microsoft to China: So long, it’s been good to know ya….](https://www.computerworld.com/article/4213153/microsoft-to-china-so-long-its-been-good-to-know-ya.html)
-- [Apple’s folding iPhone has already launched – in your head](https://www.computerworld.com/article/4213098/apples-folding-iphone-has-already-launched-in-your-head.html)
-- [6 tips for better research with Microsoft Copilot](https://www.computerworld.com/article/4204609/microsoft-copilot-research-tips.html)
-- [ChatGPT wants Full Disk Access to your Mac and Messages](https://www.computerworld.com/article/4212509/chatgpt-wants-full-disk-access-to-your-mac-and-messages.html)
-- [New ‘Slack Code’ turns AI coding into a team activity](https://www.computerworld.com/article/4212446/new-slack-code-turns-ai-coding-into-a-team-activity.html)
-- [OpenAI adds an AI safety layer to detect misuse without retaining enterprise data](https://www.computerworld.com/article/4212412/openai-adds-an-ai-safety-layer-to-detect-misuse-without-retaining-enterprise-data-2.html)
-- [Apple to OpenAI: Go to your room](https://www.computerworld.com/article/4212037/apple-to-openai-go-to-your-room.html)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

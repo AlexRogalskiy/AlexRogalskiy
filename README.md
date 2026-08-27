@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Letter from Dolly Parton to Eminem](https://twitter.com/Eminem/status/2092367272891310482)
-- [The brain may be about to have its Ozempic moment](https://www.economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment)
-- [Queryable Executables](https://fzakaria.com/2026/08/24/actually-queryable-executables)
-- [Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others](https://github.com/runetes/maiao)
-- [Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM](https://github.com/swimmingbrain/texbrain)
-- [Python&#39;s pre-declared constants are kinda weird](https://sebsite.pw/w/20260801-pythonconstants.html)
-- [When str.lower&lpar;&rpar; is a security vulnerability in Python – Seth Larson](https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability)
-- [C2PA Cameras Do Not Survive Contact with Reality](https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html)
-- [A brief history of federal lift ticket regulation](https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket)
-- [FDA authorizes first wearable device that monitors ketone and blood sugar levels](https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar)
+- [Air Conditioning Is Not a Luxury, It Is a Necessity](https://humanprogress.org/ac-is-not-a-luxury-it-is-a-necessity/)
+- [Adentris &lpar;YC P25&rpar; Is Hiring](https://www.ycombinator.com/companies/adentris/jobs/ZpMXZ0C-founding-engineer-ai-rcm-healthcare-platform-typescript-python)
+- [Pollen Robotics &lpar;Hugging Face&rpar; Microduck](https://pollen-robotics.com/microduck/)
+- [Tell HN: PayPal Blocks GrapheneOS](https://news.ycombinator.com/item?id=49462253)
+- [Kusama Yayoi has died](https://www.nytimes.com/2026/08/26/arts/yayoi-kusama-dead.html)
+- [Laion Big Video Dataset](https://projects.laion.ai/bvd/)
+- [CEO fired developers to make room for AI. Developers create open source AI CEO](https://github.com/SenteLabsAI/OpenExecutive)
+- [Nvidia agrees to acquire Hugging Face for $13B](https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8)
+- [Mechanical Turk shutting down September 30](https://www.mturk.com/)
+- [Zohran and the Short Link](https://iamwillwang.com/notes/zohran-and-the-short-link/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

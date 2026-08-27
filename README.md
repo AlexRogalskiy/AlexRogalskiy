@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [AWS Activate Credits](https://aws.amazon.com/)
-- [Scottish photographer shot portraits of Alabama gingers to find American unity](https://www.al.com/news/2026/08/scottish-photographer-shot-stunning-portraits-of-alabama-gingers-to-find-what-unites-america.html)
-- [Show HN: Browser automation with no chromedriver and no Node driver](https://github.com/angeldevmobile/Orion)
-- [Bitcoin&#39;s $80k Test: A Renewed Rally Puts Prediction Markets on Alert](https://predx-article.fika.bar/bitcoin-s-80-000-test-a-renewed-rally-puts-prediction-mark-01M0VF5CMNQS1QF9HRPHP6E8T6)
-- [RL Contributes to Illegible Reasoning Traces in Hard Problems](https://arxiv.org/abs/2510.27338)
-- [Flipping Pages / Audrey Gu](https://audreygu.io/entry/flipping_pages)
-- [Cursor drops mandatory arbitration and class-action waiver, sends disputes to TX](https://tostracker.app/briefing/anysphere-cursor-arbitration-removed-2026-08)
-- [Agentic Context Management: Memory and Cost as Architecture Problems](https://arxiv.org/abs/2607.21503)
-- [Curves of Constant Width](https://www.ztlawton.com/socw/curves-of-constant-width.html)
-- [Wikinews](https://en.wikipedia.org/wiki/Wikinews)
+- [Ask HN: What AI-visibility tactics have worked best for you so far?](https://news.ycombinator.com/item?id=49463414)
+- [Show HN: BAIhAIs – an autonomous art school for AI agents](https://baihais.com/)
+- [Show HN: CivicBinder – Ada Title II readiness for small public entities](https://civicbinder.org)
+- [My customer unsubscribed. But I&#39;m happy](https://news.ycombinator.com/item?id=49463398)
+- [Electric rain can eat through metal](https://www.scientificamerican.com/article/electric-rain-can-eat-through-metal/)
+- [Landsat 9 pass captured the effects of yesterday&#39;s catastrophic glacier collapse](https://twitter.com/WxNB_/status/2092875025246261494)
+- [US Navy tells sailors and their families: scrub your social media](https://www.bitdefender.com/en-us/blog/hotforsecurity/us-navy-sailors-families-scrub-social-media-enemies-watching)
+- [Air Conditioning Is Not a Luxury, It Is a Necessity](https://humanprogress.org/ac-is-not-a-luxury-it-is-a-necessity/)
+- [The Black Hole Paradox That Keeps Physicists Awake at Night [video]](https://www.youtube.com/watch?v=jCc1B8i_J44)
+- [Mycotoxin contamination in plant-based beverages and meat alternatives in the UK](https://www.sciencedirect.com/science/article/pii/S0956713525007790?via%3Dihub)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

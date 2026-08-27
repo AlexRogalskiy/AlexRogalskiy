@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine war briefing: Small batch of Patriots arrives as Zelenskyy pleads for more](https://www.theguardian.com/world/2026/aug/26/ukraine-war-briefing-small-batch-of-patriots-arrives-as-zelenskyy-pleads-for-more)
-- [In China, talking to AI is normal. Now the government fears it might replace human intimacy](https://www.theguardian.com/world/2026/aug/26/china-ai-companion-relationships-marriage-birth-rate-concern)
-- [Instagram CEO denies company hid low use of teen safety feature in Meta trial](https://www.theguardian.com/technology/2026/aug/25/instagram-ceo-teen-safety-lawsuit)
-- [‘So hacked off’: as election nears, New Zealanders despair at the main parties – and Opportunity knocks](https://www.theguardian.com/world/2026/aug/26/new-zealand-election-voters-despair-main-parties-and-opportunity-knocks)
-- [Serena Williams thrills New York crowd on US Open return with Alcaraz](https://www.theguardian.com/sport/2026/aug/26/serena-williams-carlos-alcaraz-us-open-tennis-mixed-doubles)
-- [Dogs blink more often when they see owners blinking, study finds](https://www.theguardian.com/science/2026/aug/26/dogs-blink-more-often-owners-blinking-study)
-- [Bruno Fernandes and Khadija Shaw land PFA Player of the Year awards](https://www.theguardian.com/football/2026/aug/25/bruno-fernandes-khadija-shaw-pfa-player-of-the-year)
-- [Celtic throw away four-goal aggregate lead to crash out of Champions League against Lask](https://www.theguardian.com/football/2026/aug/25/champions-league-celtic)
-- [De Zerbi hopes Sávio’s fresh start will help Spurs’ much-needed rebrand](https://www.theguardian.com/football/2026/aug/25/roberto-de-zerbi-savio-signing-tottenham-hotspur-rebrand)
-- [Father of USS Lincoln sailor detained by ICE released from detention](https://www.theguardian.com/us-news/2026/aug/25/father-uss-lincoln-sailor-detained-ice-released)
+- [Why we’re all hooked on tinned fish](https://www.theguardian.com/food/2026/aug/27/why-were-all-hooked-on-tinned-fish)
+- [Carse in the wickets for Durham, Essex v Surrey, and more: county cricket day one – live](https://www.theguardian.com/sport/live/2026/aug/27/essex-v-surrey-glamorgan-v-hampshire-and-more-county-cricket-day-one-live)
+- [England v Pakistan: second men’s cricket Test, day one – live](https://www.theguardian.com/sport/live/2026/aug/27/england-v-pakistan-second-mens-cricket-test-day-one-live)
+- [A Britain of wildfires and flood risks: be sure, the climate crisis is real, and we will deal with it | Angela Eagle](https://www.theguardian.com/commentisfree/2026/aug/27/britain-wildfires-flood-risks-climate-crisis)
+- [Trump administration reportedly considering ‘new round of sweeping tariffs on semiconductors’ – business live](https://www.theguardian.com/business/live/2026/aug/27/asian-technology-shares-ride-high-ai-optimism-nvidias-stunning-results-jackson-hole-live-updates)
+- [RFK Jr lied in Senate confirmation hearings, newly revealed documents indicate](https://www.theguardian.com/us-news/2026/aug/27/rfk-jr-senate-confirmation-hearing-testimony-vaccines)
+- [Resonance: A Plague Tale Legacy review – picture-postcard retelling of haunting Minoan myth](https://www.theguardian.com/games/2026/aug/27/resonance-a-plague-tale-legacy-review)
+- [Honey, I shrunk the wine: why miniature bottles are big again](https://www.theguardian.com/food/2026/aug/27/honey-i-shrunk-the-wine-miniature-bottles)
+- [Ain’t nobody better: Chaka Khan’s 20 best songs – ranked!](https://www.theguardian.com/culture/2026/aug/27/aint-nobody-better-chaka-khan-20-best-songs-ranked)
+- [BBC to bring back Top Gear amid speculation about show’s next presenters](https://www.theguardian.com/tv-and-radio/2026/aug/27/bbc-top-gear-speculation-next-presenters)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

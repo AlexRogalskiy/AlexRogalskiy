@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Air Conditioning Is Not a Luxury, It Is a Necessity](https://humanprogress.org/ac-is-not-a-luxury-it-is-a-necessity/)
-- [Adentris &lpar;YC P25&rpar; Is Hiring](https://www.ycombinator.com/companies/adentris/jobs/ZpMXZ0C-founding-engineer-ai-rcm-healthcare-platform-typescript-python)
-- [Pollen Robotics &lpar;Hugging Face&rpar; Microduck](https://pollen-robotics.com/microduck/)
-- [Tell HN: PayPal Blocks GrapheneOS](https://news.ycombinator.com/item?id=49462253)
-- [Kusama Yayoi has died](https://www.nytimes.com/2026/08/26/arts/yayoi-kusama-dead.html)
-- [Laion Big Video Dataset](https://projects.laion.ai/bvd/)
-- [CEO fired developers to make room for AI. Developers create open source AI CEO](https://github.com/SenteLabsAI/OpenExecutive)
-- [Nvidia agrees to acquire Hugging Face for $13B](https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8)
-- [Mechanical Turk shutting down September 30](https://www.mturk.com/)
-- [Zohran and the Short Link](https://iamwillwang.com/notes/zohran-and-the-short-link/)
+- [EPA says power for data centers can sidestep pollution laws](https://www.epa.gov/newsreleases/epa-issues-permitting-guidance-further-president-trumps-agenda-promoting-data-centers)
+- [Interactive pattern discovery in binaries &lpar;FF-16-TUI&rpar;](https://github.com/HexLasso/FF-16-TUI)
+- [U.S. Sanctions Against the a/I Collective](https://www.inventati.org/)
+- [&quot;IT WoRKs BeTter in the App &quot;](https://shkspr.mobi/blog/2026/08/it-works-better-in-the-app/)
+- [Inception-style curved map for turn-by-turn directions](https://www.orbify.eu/demo/)
+- [Smaller reactors bring nuclear power closer to fulfilling its promise](https://www.nature.com/articles/d41586-026-02506-4)
+- [Show HN: Talos – An AI agent with a permission kernel between model and shell](https://talos-agent.ch/)
+- [Terry Rozier and the Teleprompt Operator](https://iainschmitt.com/post/terry-rozier-and-the-teleprompt-operator)
+- [What Running Kafka on VMs Taught Us About Systems Thinking](https://engineering.moniepoint.com/what-running-kafka-on-vms-taught-us-about-systems-thinking)
+- [ALMA Reveals Long-Lived Hotspots on Betelgeuse&#39;s Bubbling Surface](https://www.almaobservatory.org/en/audiences/alma-reveals-long-lived-hotspots-on-betelgeuses-bubbling-surface/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

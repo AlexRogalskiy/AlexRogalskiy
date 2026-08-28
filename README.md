@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Why we’re all hooked on tinned fish](https://www.theguardian.com/food/2026/aug/27/why-were-all-hooked-on-tinned-fish)
-- [Carse in the wickets for Durham, Essex v Surrey, and more: county cricket day one – live](https://www.theguardian.com/sport/live/2026/aug/27/essex-v-surrey-glamorgan-v-hampshire-and-more-county-cricket-day-one-live)
-- [England v Pakistan: second men’s cricket Test, day one – live](https://www.theguardian.com/sport/live/2026/aug/27/england-v-pakistan-second-mens-cricket-test-day-one-live)
-- [A Britain of wildfires and flood risks: be sure, the climate crisis is real, and we will deal with it | Angela Eagle](https://www.theguardian.com/commentisfree/2026/aug/27/britain-wildfires-flood-risks-climate-crisis)
-- [Trump administration reportedly considering ‘new round of sweeping tariffs on semiconductors’ – business live](https://www.theguardian.com/business/live/2026/aug/27/asian-technology-shares-ride-high-ai-optimism-nvidias-stunning-results-jackson-hole-live-updates)
-- [RFK Jr lied in Senate confirmation hearings, newly revealed documents indicate](https://www.theguardian.com/us-news/2026/aug/27/rfk-jr-senate-confirmation-hearing-testimony-vaccines)
-- [Resonance: A Plague Tale Legacy review – picture-postcard retelling of haunting Minoan myth](https://www.theguardian.com/games/2026/aug/27/resonance-a-plague-tale-legacy-review)
-- [Honey, I shrunk the wine: why miniature bottles are big again](https://www.theguardian.com/food/2026/aug/27/honey-i-shrunk-the-wine-miniature-bottles)
-- [Ain’t nobody better: Chaka Khan’s 20 best songs – ranked!](https://www.theguardian.com/culture/2026/aug/27/aint-nobody-better-chaka-khan-20-best-songs-ranked)
-- [BBC to bring back Top Gear amid speculation about show’s next presenters](https://www.theguardian.com/tv-and-radio/2026/aug/27/bbc-top-gear-speculation-next-presenters)
+- [England v Pakistan: second men’s cricket Test, day two – live](https://www.theguardian.com/sport/live/2026/aug/28/england-v-pakistan-second-mens-cricket-test-day-two-live)
+- [Families of 33 missing Britons rush to Nepal as fears grow of more floods](https://www.theguardian.com/world/2026/aug/28/families-missing-britons-nepal-flash-floods)
+- [Warwickshire v Nottinghamshire, Essex v Surrey, and more: county cricket, day two – live](https://www.theguardian.com/sport/live/2026/aug/28/warwickshire-v-nottinghamshire-essex-v-surrey-and-more-county-cricket-day-three-live)
+- [Emery and Watkins ‘shed tears’ saying goodbye; transfer latest; Celtic and Rangers punished: football – live](https://www.theguardian.com/football/live/2026/aug/28/transfer-latest-premier-league-news-european-draws-and-more-football-live)
+- [US Federal Reserve’s Kevin Warsh gears up for key Jackson Hole conference as inflation fears mount – business live](https://www.theguardian.com/business/live/2026/aug/28/us-federal-reserve-kevin-warsh-jackson-hole-conference-inflation-economy-ftse-stock-markets-latest-updates)
+- [Rob Reiner’s son Jake gives first interview after parents’ deaths: ‘I will never understand why this happened’](https://www.theguardian.com/film/2026/aug/28/rob-reiner-son-jake-interview-parents-death)
+- [Clown Show review – after 250 years, the American dream explodes over one anarchic night](https://www.theguardian.com/stage/2026/aug/28/clown-show-review-kings-theatre-edinburgh)
+- [A kids TV star to Jimmy Carr: who will host the new Top Gear?](https://www.theguardian.com/tv-and-radio/2026/aug/28/a-kids-tv-star-to-jimmy-carr-who-will-host-the-new-top-gear)
+- [Nepal rescue and California fires: photos of the day – Friday](https://www.theguardian.com/news/gallery/2026/aug/28/nepal-rescue-california-fires-photos-of-the-day-friday)
+- [Sweetener used in chewing gum and jam linked to strokes and heart attacks](https://www.theguardian.com/society/2026/aug/28/sweetener-xylitol-used-in-chewing-gum-and-jam-linked-to-strokes-and-heart-attacks-study)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

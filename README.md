@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ask HN: What AI-visibility tactics have worked best for you so far?](https://news.ycombinator.com/item?id=49463414)
-- [Show HN: BAIhAIs – an autonomous art school for AI agents](https://baihais.com/)
-- [Show HN: CivicBinder – Ada Title II readiness for small public entities](https://civicbinder.org)
-- [My customer unsubscribed. But I&#39;m happy](https://news.ycombinator.com/item?id=49463398)
-- [Electric rain can eat through metal](https://www.scientificamerican.com/article/electric-rain-can-eat-through-metal/)
-- [Landsat 9 pass captured the effects of yesterday&#39;s catastrophic glacier collapse](https://twitter.com/WxNB_/status/2092875025246261494)
-- [US Navy tells sailors and their families: scrub your social media](https://www.bitdefender.com/en-us/blog/hotforsecurity/us-navy-sailors-families-scrub-social-media-enemies-watching)
-- [Air Conditioning Is Not a Luxury, It Is a Necessity](https://humanprogress.org/ac-is-not-a-luxury-it-is-a-necessity/)
-- [The Black Hole Paradox That Keeps Physicists Awake at Night [video]](https://www.youtube.com/watch?v=jCc1B8i_J44)
-- [Mycotoxin contamination in plant-based beverages and meat alternatives in the UK](https://www.sciencedirect.com/science/article/pii/S0956713525007790?via%3Dihub)
+- [Cross-Agent Memory](https://lanes.sh/use-cases/shared-memory-across-agents)
+- [The Finn – an agent that lives in my router and complains about it](https://github.com/YuriKovalov22/the-finn)
+- [Grafana – GeoMap Carto Base layer now requires API key](https://github.com/grafana/grafana/issues/131638)
+- [Google Engineer Accused of Polymarket Insider Trading Says He Was Just Gambling](https://www.wired.com/story/google-engineer-accused-of-polymarket-insider-trading-says-he-was-just-gambling/)
+- [Do Rural Residents Have the Power to Say No to Data Centers?](https://barnraisingmedia.com/2026-election-do-rural-residents-have-the-power-to-say-no/)
+- [Walmart will accept Apple Pay](https://finance.yahoo.com/personal-finance/banking/article/walmart-will-finally-accept-apple-pay-but-heres-what-customers-should-know-190906007.html)
+- [Show HN: Booth – ambiguity detection and acceptance checks for LLM outputs](https://github.com/Vedantgitbot/booth)
+- [Show HN: SkyRoads &lpar;1993&rpar; – the DOS classic, ported natively to macOS and Linux](https://pedrocatalao.github.io/skyroads-sdl/)
+- [Do not look inside – you will](https://news.ycombinator.com/item?id=49478262)
+- [Over 8,300 Gitea servers vulnerable to code execution attacks](https://www.bleepingcomputer.com/news/security/over-8-300-gitea-servers-vulnerable-to-code-execution-attacks/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

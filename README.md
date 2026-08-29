@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Cross-Agent Memory](https://lanes.sh/use-cases/shared-memory-across-agents)
-- [The Finn – an agent that lives in my router and complains about it](https://github.com/YuriKovalov22/the-finn)
-- [Grafana – GeoMap Carto Base layer now requires API key](https://github.com/grafana/grafana/issues/131638)
-- [Google Engineer Accused of Polymarket Insider Trading Says He Was Just Gambling](https://www.wired.com/story/google-engineer-accused-of-polymarket-insider-trading-says-he-was-just-gambling/)
-- [Do Rural Residents Have the Power to Say No to Data Centers?](https://barnraisingmedia.com/2026-election-do-rural-residents-have-the-power-to-say-no/)
-- [Walmart will accept Apple Pay](https://finance.yahoo.com/personal-finance/banking/article/walmart-will-finally-accept-apple-pay-but-heres-what-customers-should-know-190906007.html)
-- [Show HN: Booth – ambiguity detection and acceptance checks for LLM outputs](https://github.com/Vedantgitbot/booth)
-- [Show HN: SkyRoads &lpar;1993&rpar; – the DOS classic, ported natively to macOS and Linux](https://pedrocatalao.github.io/skyroads-sdl/)
-- [Do not look inside – you will](https://news.ycombinator.com/item?id=49478262)
-- [Over 8,300 Gitea servers vulnerable to code execution attacks](https://www.bleepingcomputer.com/news/security/over-8-300-gitea-servers-vulnerable-to-code-execution-attacks/)
+- [Nepal&#39;s flood damage may cost up to a tenth of economy to rebuild](https://www.reuters.com/world/china/nepal-needs-least-4-billion-rebuilding-finance-minister-says-2026-08-29/)
+- [Pentagon&#39;s blacklisting of Anthropic was unlawful, US judge rules](https://www.theguardian.com/technology/2026/aug/28/us-court-rules-pentagon-anthropic-ban-illegal-trump-claude-ai)
+- [Walkable Cities](https://nartier.itch.io/walkable-cities)
+- [Some GitHub bounty repos are honeypots that farm free work from AI agents](https://oactodev.github.io/ninety-quid/report/)
+- [Five ways 3D printing is improving lab work](https://www.nature.com/articles/d41586-026-02535-z)
+- [Books Turned into Podcast Series](https://bookdialogues.com/home)
+- [Researcher Tricked Claude, Codex and Hermes into Running Malware](https://startupfortune.com/researcher-alon-hertz-tricked-claude-codex-and-hermes-into-running-malware/)
+- [SynapticChain: Single-wallet concurrency record &lpar;5,307 TPS from 1 key in Rust&rpar;](https://explorer.synapticchain.xyz)
+- [I built a financial visibility layer for multi-model AI applications](https://credlier.com/)
+- [Show HN: Kith – AI clinical notes for therapists from ambient session audio](https://www.kith.space)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

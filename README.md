@@ -355,6 +355,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Federal judge rules for Anthropic in Pentagon dispute, nullifies government supply chain risk designation](https://www.computerworld.com/article/4215393/federal-judge-rules-for-anthropic-in-pentagon-dispute-nullifies-government-supply-chain-risk-designation.html)
+- [Anthropic’s new framework will let AI agents control hardware](https://www.computerworld.com/article/4215388/anthropics-new-framework-lets-ai-agents-control-hardware.html)
+- [Cheap smartphones are dead. Apple doesn’t care](https://www.computerworld.com/article/4215364/cheap-smartphones-are-dead-apple-doesnt-care.html)
 - [Why AI doesn’t make companies more productive](https://www.computerworld.com/article/4215022/why-ai-doesnt-make-companies-more-productive.html)
 - [Your inbox secret sauce: 16 hidden Gmail gems for Android](https://www.computerworld.com/article/1702059/gmail-android.html)
 - [Photoshop’s new AI Assisted Editor offers a prompt-based editing option](https://www.computerworld.com/article/4214985/photoshops-new-ai-assisted-editor-offers-a-prompt-based-editing-option.html)
@@ -362,9 +365,6 @@
 - [Meta’s plans to replace workers with AI fell flat, report says](https://www.computerworld.com/article/4214479/metas-plans-to-replace-workers-with-ai-fell-flat-report-says.html)
 - [AI deployments bring with them risks companies are ill-prepared for — analysts](https://www.computerworld.com/article/4214445/ai-deployments-bring-with-them-risks-companies-are-ill-prepared-for-analysts.html)
 - [Agentic AI – Ongoing coverage of its impact on the enterprise](https://www.computerworld.com/article/3843138/agentic-ai-ongoing-coverage-of-its-impact-on-the-enterprise.html)
-- [If OpenAI has nothing to hide, it has nothing to fear](https://www.computerworld.com/article/4214117/if-openai-has-nothing-to-hide-it-has-nothing-to-fear.html)
-- [What are ‘open’ AI models?](https://www.computerworld.com/article/4213156/what-are-open-ai-models.html)
-- [How to unlock Google’s new Pixel vibration wizardry on any Android phone](https://www.computerworld.com/article/3816566/google-pixel-vibration-android.html)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

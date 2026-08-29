@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [EPA says power for data centers can sidestep pollution laws](https://www.epa.gov/newsreleases/epa-issues-permitting-guidance-further-president-trumps-agenda-promoting-data-centers)
-- [Interactive pattern discovery in binaries &lpar;FF-16-TUI&rpar;](https://github.com/HexLasso/FF-16-TUI)
-- [U.S. Sanctions Against the a/I Collective](https://www.inventati.org/)
-- [&quot;IT WoRKs BeTter in the App &quot;](https://shkspr.mobi/blog/2026/08/it-works-better-in-the-app/)
-- [Inception-style curved map for turn-by-turn directions](https://www.orbify.eu/demo/)
-- [Smaller reactors bring nuclear power closer to fulfilling its promise](https://www.nature.com/articles/d41586-026-02506-4)
-- [Show HN: Talos – An AI agent with a permission kernel between model and shell](https://talos-agent.ch/)
-- [Terry Rozier and the Teleprompt Operator](https://iainschmitt.com/post/terry-rozier-and-the-teleprompt-operator)
-- [What Running Kafka on VMs Taught Us About Systems Thinking](https://engineering.moniepoint.com/what-running-kafka-on-vms-taught-us-about-systems-thinking)
-- [ALMA Reveals Long-Lived Hotspots on Betelgeuse&#39;s Bubbling Surface](https://www.almaobservatory.org/en/audiences/alma-reveals-long-lived-hotspots-on-betelgeuses-bubbling-surface/)
+- [Autistici/inventati: Manifesto – who we are and what do we want &lpar;2002&rpar;](https://www.inventati.org/who/manifesto)
+- [e is a customizable self-aware Emacs-like editor written in Chez Scheme](https://github.com/paveluv/e)
+- [Samsung&#39;s Processing-in-Memory &lpar;PIM&rpar;](https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing)
+- [TurboKV: Insanely fast Rust key-value store](https://github.com/kingroryg/turbokv)
+- [Kumander Linux – A Linux Distro with a Windows 7 Desktop](https://www.kumander.org/)
+- [Our decision on Cursor following its acquisition by SpaceX](https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/)
+- [StemDeck, a free, open-source and local AI stem separator](https://github.com/stemdeckapp/stemdeck)
+- [Does the Sumerian King List Align with Paleoclimate Events?](https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/)
+- [9th Circuit sides with states in Kalshi gambling fight](https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/)
+- [I accidentally turned LLM memory into program analysis](https://pwning.systems/posts/llm-memory-program-analysis/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

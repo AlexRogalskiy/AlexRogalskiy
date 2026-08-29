@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [England v Pakistan: second men’s cricket Test, day two – live](https://www.theguardian.com/sport/live/2026/aug/28/england-v-pakistan-second-mens-cricket-test-day-two-live)
-- [Families of 33 missing Britons rush to Nepal as fears grow of more floods](https://www.theguardian.com/world/2026/aug/28/families-missing-britons-nepal-flash-floods)
-- [Warwickshire v Nottinghamshire, Essex v Surrey, and more: county cricket, day two – live](https://www.theguardian.com/sport/live/2026/aug/28/warwickshire-v-nottinghamshire-essex-v-surrey-and-more-county-cricket-day-three-live)
-- [Emery and Watkins ‘shed tears’ saying goodbye; transfer latest; Celtic and Rangers punished: football – live](https://www.theguardian.com/football/live/2026/aug/28/transfer-latest-premier-league-news-european-draws-and-more-football-live)
-- [US Federal Reserve’s Kevin Warsh gears up for key Jackson Hole conference as inflation fears mount – business live](https://www.theguardian.com/business/live/2026/aug/28/us-federal-reserve-kevin-warsh-jackson-hole-conference-inflation-economy-ftse-stock-markets-latest-updates)
-- [Rob Reiner’s son Jake gives first interview after parents’ deaths: ‘I will never understand why this happened’](https://www.theguardian.com/film/2026/aug/28/rob-reiner-son-jake-interview-parents-death)
-- [Clown Show review – after 250 years, the American dream explodes over one anarchic night](https://www.theguardian.com/stage/2026/aug/28/clown-show-review-kings-theatre-edinburgh)
-- [A kids TV star to Jimmy Carr: who will host the new Top Gear?](https://www.theguardian.com/tv-and-radio/2026/aug/28/a-kids-tv-star-to-jimmy-carr-who-will-host-the-new-top-gear)
-- [Nepal rescue and California fires: photos of the day – Friday](https://www.theguardian.com/news/gallery/2026/aug/28/nepal-rescue-california-fires-photos-of-the-day-friday)
-- [Sweetener used in chewing gum and jam linked to strokes and heart attacks](https://www.theguardian.com/society/2026/aug/28/sweetener-xylitol-used-in-chewing-gum-and-jam-linked-to-strokes-and-heart-attacks-study)
+- [Charli xcx, Reading Festival review – Pretentious? Just a bit. But Nietzsche would have loved it](https://www.theguardian.com/music/2026/aug/29/charli-xcx-reading-festival-review-pretentious-just-a-bit-but-nietzsche-would-have-loved-it)
+- [Transfer news, Liverpool v Nottingham Forest buildup, and more – matchday live](https://www.theguardian.com/football/live/2026/aug/29/transfer-news-liverpool-v-nottingham-forest-buildup-and-more-matchday-live)
+- [Exeter University approves deal with Saudi Arabia to train military officers and officials](https://www.theguardian.com/education/2026/aug/29/exeter-university-approves-deal-with-saudi-arabia-to-train-military-officers-and-officials)
+- [How to make a bestseller: insiders reveal the tricks of the book trade](https://www.theguardian.com/books/ng-interactive/2026/aug/29/how-to-make-a-bestseller-insiders-reveal-the-tricks-of-the-book-trade)
+- [‘In walked this big bundle of energy’: the day Dolly Parton came to Rotherham](https://www.theguardian.com/music/2026/aug/29/dolly-parton-rotherham-visit-imagination-library-launch)
+- [Itauma chases Tyson’s history and fights to save his soul in first world title bout](https://www.theguardian.com/sport/2026/aug/29/moses-itauma-filip-hrgovic-ibf-world-heavyweight-mike-tyson-boxing)
+- [Flipping marvellous: Yotam Ottolenghi on the joy of simple breakfasts – plus six exclusive recipes](https://www.theguardian.com/food/2026/aug/29/yotam-ottolenghi-simple-breakfasts-recipes)
+- [‘Now is a good time for players to speak up’: Lucy Bronze on Fifa and helping refugees](https://www.theguardian.com/football/2026/aug/29/lucy-bronze-chelsea-women-england-fifa-refugees)
+- [Australian Olympian Heath Ryan banned after alleged horse abuse investigation](https://www.theguardian.com/sport/2026/aug/29/australian-olympian-heath-ryan-banned-after-alleged-horse-abuse-investigation-ntwnfb)
+- [There is clearly trouble ahead for Harry and Meghan on their return to the UK. Here are five ways to avert it | Stephen Bates](https://www.theguardian.com/commentisfree/2026/aug/29/harry-meghan-uk-return-controversy-tips-sussexes)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

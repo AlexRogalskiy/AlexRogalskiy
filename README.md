@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Nepal&#39;s flood damage may cost up to a tenth of economy to rebuild](https://www.reuters.com/world/china/nepal-needs-least-4-billion-rebuilding-finance-minister-says-2026-08-29/)
-- [Pentagon&#39;s blacklisting of Anthropic was unlawful, US judge rules](https://www.theguardian.com/technology/2026/aug/28/us-court-rules-pentagon-anthropic-ban-illegal-trump-claude-ai)
-- [Walkable Cities](https://nartier.itch.io/walkable-cities)
-- [Some GitHub bounty repos are honeypots that farm free work from AI agents](https://oactodev.github.io/ninety-quid/report/)
-- [Five ways 3D printing is improving lab work](https://www.nature.com/articles/d41586-026-02535-z)
-- [Books Turned into Podcast Series](https://bookdialogues.com/home)
-- [Researcher Tricked Claude, Codex and Hermes into Running Malware](https://startupfortune.com/researcher-alon-hertz-tricked-claude-codex-and-hermes-into-running-malware/)
-- [SynapticChain: Single-wallet concurrency record &lpar;5,307 TPS from 1 key in Rust&rpar;](https://explorer.synapticchain.xyz)
-- [I built a financial visibility layer for multi-model AI applications](https://credlier.com/)
-- [Show HN: Kith – AI clinical notes for therapists from ambient session audio](https://www.kith.space)
+- [Java Is Memory Efficient](https://inside.java/2026/05/28/podcast-059/)
+- [Get up to $175 back for your pre-installed Windows 11 license](https://www.tomshardware.com/software/windows/site-provides-instructions-to-get-up-to-usd175-back-for-your-pre-installed-windows-11-license-new-portal-provides-legal-forms-but-warns-buyers-not-to-wipe-storage-first)
+- [Independent investigation of agents&#39; behavior in the Hugging Face incident](https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/)
+- [Xcena and Samsung&#39;s Near Memory Compute CXL Device](https://chipsandcheese.com/p/hot-chips-2026-xcena-and-samsungs)
+- [Show HN: Dice for Board Games and RPGs](https://onlinedice.app/)
+- [What happens to a country when everyone leaves? Tuvalu, an island nation [video]](https://www.youtube.com/watch?v=ACtDjk0_RHM)
+- [Show HN: Photo Manager That Find and Organize Screenshots with Private, Local AI](https://ringlochid.me/imagesage/index.html)
+- [Vacancies in PHP Development](https://blockchain4talent.com/)
+- [Debian weighs eight options in vote on LLM usage](https://lwn.net/Articles/1087134/)
+- [Iceland starts counting EU talks referendum; &#39;no&#39; moves ahead in close contest](https://www.reuters.com/world/europe/iceland-votes-whether-start-eu-membership-talks-2026-08-29/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

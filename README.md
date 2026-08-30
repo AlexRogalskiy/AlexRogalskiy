@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Charli xcx, Reading Festival review – Pretentious? Just a bit. But Nietzsche would have loved it](https://www.theguardian.com/music/2026/aug/29/charli-xcx-reading-festival-review-pretentious-just-a-bit-but-nietzsche-would-have-loved-it)
-- [Transfer news, Liverpool v Nottingham Forest buildup, and more – matchday live](https://www.theguardian.com/football/live/2026/aug/29/transfer-news-liverpool-v-nottingham-forest-buildup-and-more-matchday-live)
-- [Exeter University approves deal with Saudi Arabia to train military officers and officials](https://www.theguardian.com/education/2026/aug/29/exeter-university-approves-deal-with-saudi-arabia-to-train-military-officers-and-officials)
-- [How to make a bestseller: insiders reveal the tricks of the book trade](https://www.theguardian.com/books/ng-interactive/2026/aug/29/how-to-make-a-bestseller-insiders-reveal-the-tricks-of-the-book-trade)
-- [‘In walked this big bundle of energy’: the day Dolly Parton came to Rotherham](https://www.theguardian.com/music/2026/aug/29/dolly-parton-rotherham-visit-imagination-library-launch)
-- [Itauma chases Tyson’s history and fights to save his soul in first world title bout](https://www.theguardian.com/sport/2026/aug/29/moses-itauma-filip-hrgovic-ibf-world-heavyweight-mike-tyson-boxing)
-- [Flipping marvellous: Yotam Ottolenghi on the joy of simple breakfasts – plus six exclusive recipes](https://www.theguardian.com/food/2026/aug/29/yotam-ottolenghi-simple-breakfasts-recipes)
-- [‘Now is a good time for players to speak up’: Lucy Bronze on Fifa and helping refugees](https://www.theguardian.com/football/2026/aug/29/lucy-bronze-chelsea-women-england-fifa-refugees)
-- [Australian Olympian Heath Ryan banned after alleged horse abuse investigation](https://www.theguardian.com/sport/2026/aug/29/australian-olympian-heath-ryan-banned-after-alleged-horse-abuse-investigation-ntwnfb)
-- [There is clearly trouble ahead for Harry and Meghan on their return to the UK. Here are five ways to avert it | Stephen Bates](https://www.theguardian.com/commentisfree/2026/aug/29/harry-meghan-uk-return-controversy-tips-sussexes)
+- [Transfer latest as deadline looms, Premier League buildup and more – matchday live](https://www.theguardian.com/football/live/2026/aug/30/transfer-latest-premier-league-buildup-and-more-matchday-live)
+- [PC Andrew Harper’s killers will stay in prison as Burnham changes early release scheme](https://www.theguardian.com/politics/2026/aug/30/pc-andrew-harper-killers-excluded-early-release-scheme)
+- [‘I’ve had a very hectic career’: Mario Balotelli on Italian football’s troubles and his future](https://www.theguardian.com/football/2026/aug/30/mario-balotelli-interview-italy-saudi-arabia-maturity)
+- [Statins can reduce dementia risk by up to 15%, long-term study suggests](https://www.theguardian.com/society/2026/aug/30/statins-reduce-dementia-alzheimers-risk-study)
+- [One person killed and multiple wounded in shooting at rave party in Switzerland, police say](https://www.theguardian.com/world/2026/aug/30/shooting-rave-party-switzerland)
+- [Tuscany’s treasured islands: five to explore](https://www.theguardian.com/travel/2026/aug/30/exploring-tuscany-islands-archipelago)
+- [South West Water has worst environmental record in England, analysis shows](https://www.theguardian.com/environment/2026/aug/30/south-west-water-worst-environmental-record-england)
+- [On long road back from Brexit, north-east’s recovery rides on survival of Nissan’s ‘shining star’ plant](https://www.theguardian.com/business/2026/aug/30/brexit-north-east-recovery-rides-survival-nissan-plant)
+- [‘Tiny bit of rain and the sewage comes’: Brighton swimmers vent fury at sea pollution](https://www.theguardian.com/environment/2026/aug/30/sewage-brighton-swimmers-condemn-sea-pollution)
+- [Humanitarian crisis worsening in refuge for civilians fleeing Sudan’s civil war](https://www.theguardian.com/world/2026/aug/30/humanitarian-crisis-worsening-refuge-civilians-sudan-el-obeid)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

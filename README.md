@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Autistici/inventati: Manifesto – who we are and what do we want &lpar;2002&rpar;](https://www.inventati.org/who/manifesto)
-- [e is a customizable self-aware Emacs-like editor written in Chez Scheme](https://github.com/paveluv/e)
-- [Samsung&#39;s Processing-in-Memory &lpar;PIM&rpar;](https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing)
-- [TurboKV: Insanely fast Rust key-value store](https://github.com/kingroryg/turbokv)
-- [Kumander Linux – A Linux Distro with a Windows 7 Desktop](https://www.kumander.org/)
-- [Our decision on Cursor following its acquisition by SpaceX](https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/)
-- [StemDeck, a free, open-source and local AI stem separator](https://github.com/stemdeckapp/stemdeck)
-- [Does the Sumerian King List Align with Paleoclimate Events?](https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/)
-- [9th Circuit sides with states in Kalshi gambling fight](https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/)
-- [I accidentally turned LLM memory into program analysis](https://pwning.systems/posts/llm-memory-program-analysis/)
+- [California lawmakers unanimously pass Linux exemption from age-verification law](https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt)
+- [Algorithmic rent-pricing litigation expands under new state and local laws](https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws)
+- [FreeCORE TrueNAS Core – Continued](https://freecore.org/)
+- [Benjamin Franklin&#39;s Alter Egos Gave Him the Most Freedom](https://www.smithsonianmag.com/history/among-all-great-things-benjamin-franklin-invented-discovered-alter-egos-gave-him-most-freedom-180988824/)
+- [Open Oscar Server: open-source server compatible with AIM and ICQ clients](https://github.com/mk6i/open-oscar-server)
+- [Bug Blindness](https://danluu.com/bug-blind/)
+- [The Rise and Fall of Agent Civilizations](https://www.dwarkesh.com/p/openai-huggingface)
+- [Lawmakers added $1 to car insurance policies. That money paid for Flock cameras](https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/)
+- [Hy4 preview](https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/)
+- [Domain-Driven Agents](https://coldtake.dev/blog/domain-driven-agents)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

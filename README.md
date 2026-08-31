@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Transfer latest as deadline looms, Premier League buildup and more – matchday live](https://www.theguardian.com/football/live/2026/aug/30/transfer-latest-premier-league-buildup-and-more-matchday-live)
-- [PC Andrew Harper’s killers will stay in prison as Burnham changes early release scheme](https://www.theguardian.com/politics/2026/aug/30/pc-andrew-harper-killers-excluded-early-release-scheme)
-- [‘I’ve had a very hectic career’: Mario Balotelli on Italian football’s troubles and his future](https://www.theguardian.com/football/2026/aug/30/mario-balotelli-interview-italy-saudi-arabia-maturity)
-- [Statins can reduce dementia risk by up to 15%, long-term study suggests](https://www.theguardian.com/society/2026/aug/30/statins-reduce-dementia-alzheimers-risk-study)
-- [One person killed and multiple wounded in shooting at rave party in Switzerland, police say](https://www.theguardian.com/world/2026/aug/30/shooting-rave-party-switzerland)
-- [Tuscany’s treasured islands: five to explore](https://www.theguardian.com/travel/2026/aug/30/exploring-tuscany-islands-archipelago)
-- [South West Water has worst environmental record in England, analysis shows](https://www.theguardian.com/environment/2026/aug/30/south-west-water-worst-environmental-record-england)
-- [On long road back from Brexit, north-east’s recovery rides on survival of Nissan’s ‘shining star’ plant](https://www.theguardian.com/business/2026/aug/30/brexit-north-east-recovery-rides-survival-nissan-plant)
-- [‘Tiny bit of rain and the sewage comes’: Brighton swimmers vent fury at sea pollution](https://www.theguardian.com/environment/2026/aug/30/sewage-brighton-swimmers-condemn-sea-pollution)
-- [Humanitarian crisis worsening in refuge for civilians fleeing Sudan’s civil war](https://www.theguardian.com/world/2026/aug/30/humanitarian-crisis-worsening-refuge-civilians-sudan-el-obeid)
+- [Pacing and patience: heavyweight lessons Itauma must learn after harsh reality check | Donald McRae](https://www.theguardian.com/sport/2026/aug/31/pacing-and-patience-heavyweight-lessons-itauma-must-learn-after-harsh-reality-check)
+- [Premier League: 10 talking points from the weekend’s action](https://www.theguardian.com/football/2026/aug/31/premier-league-10-talking-points-from-the-weekend-action)
+- [Misbehaving Lord’s pitch is a return to unpredictable era of unplayable chaos](https://www.theguardian.com/sport/2026/aug/31/lords-pitch-england-pakistan-second-test-mcc)
+- [Katie Norris: Mother Succubus review – gothic comic enters a wickedly funny new era](https://www.theguardian.com/stage/2026/aug/31/katie-norris-mother-succubus-review)
+- [‘Breakthrough’ as Turkmenistan starts fixing ‘mindboggling’ methane mega-leaks](https://www.theguardian.com/environment/2026/aug/31/turkmenistan-methane-leaks-un-alerts-mars)
+- [Is it true that … mental health is affected by inflammation?](https://www.theguardian.com/lifeandstyle/2026/aug/31/is-it-true-that-mental-health-is-affected-by-inflammation)
+- [The hill I will die on: No self-respecting adult should use the term ‘picky bits’ | Laura Snapes](https://www.theguardian.com/commentisfree/2026/aug/31/the-hill-i-will-die-on-no-self-respecting-adult-picky-bits)
+- [Nepal-Tibet floods: rescuers race to reach 900 people believed trapped in hydropower tunnels](https://www.theguardian.com/world/2026/aug/31/nepal-tibet-floods-rescuers-hundreds-trapped-hydropower)
+- [Can you solve it? The fin-tastic fish puzzle](https://www.theguardian.com/science/2026/aug/31/can-you-solve-it-the-fin-tastic-fish-puzzle)
+- [My search for the perfect Polish dumplings in Gdańsk](https://www.theguardian.com/travel/2026/aug/31/perfect-pierogi-polish-dumplings-gdansk-poland)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

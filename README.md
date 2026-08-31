@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [California lawmakers unanimously pass Linux exemption from age-verification law](https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt)
-- [Algorithmic rent-pricing litigation expands under new state and local laws](https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws)
-- [FreeCORE TrueNAS Core – Continued](https://freecore.org/)
-- [Benjamin Franklin&#39;s Alter Egos Gave Him the Most Freedom](https://www.smithsonianmag.com/history/among-all-great-things-benjamin-franklin-invented-discovered-alter-egos-gave-him-most-freedom-180988824/)
-- [Open Oscar Server: open-source server compatible with AIM and ICQ clients](https://github.com/mk6i/open-oscar-server)
-- [Bug Blindness](https://danluu.com/bug-blind/)
-- [The Rise and Fall of Agent Civilizations](https://www.dwarkesh.com/p/openai-huggingface)
-- [Lawmakers added $1 to car insurance policies. That money paid for Flock cameras](https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/)
-- [Hy4 preview](https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/)
-- [Domain-Driven Agents](https://coldtake.dev/blog/domain-driven-agents)
+- [Meta Security Researcher&#39;s AI Agent Accidentally Deleted Her Emails](https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails)
+- [A 12TB Steam &quot;teraleak&quot; spills more than a decade of lost PC gaming history](https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/)
+- [OpenClaw 2.0, Accidentally](https://openclaw.ai/blog/openclaw-2-accidentally)
+- [P99 0 ms* autocomplete for 240M domain names](https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names)
+- [Transfer files over an Ethernet patch cable](https://maurycyz.com/misc/etherfiles/)
+- [Internet centralization and the original sin of NAT](https://dreamstation.systems/personal/ntppost.html)
+- [Understanding ChatGPT Work](https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/)
+- [How to build a diffusion language model](https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/)
+- [Matrox: Graphics for Professionals](https://www.abortretry.fail/p/matrox)
+- [“I just chose words carefully”](https://unsung.aresluna.org/i-just-chose-words-carefully/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

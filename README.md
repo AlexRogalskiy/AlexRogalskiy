@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Pacing and patience: heavyweight lessons Itauma must learn after harsh reality check | Donald McRae](https://www.theguardian.com/sport/2026/aug/31/pacing-and-patience-heavyweight-lessons-itauma-must-learn-after-harsh-reality-check)
-- [Premier League: 10 talking points from the weekend’s action](https://www.theguardian.com/football/2026/aug/31/premier-league-10-talking-points-from-the-weekend-action)
-- [Misbehaving Lord’s pitch is a return to unpredictable era of unplayable chaos](https://www.theguardian.com/sport/2026/aug/31/lords-pitch-england-pakistan-second-test-mcc)
-- [Katie Norris: Mother Succubus review – gothic comic enters a wickedly funny new era](https://www.theguardian.com/stage/2026/aug/31/katie-norris-mother-succubus-review)
-- [‘Breakthrough’ as Turkmenistan starts fixing ‘mindboggling’ methane mega-leaks](https://www.theguardian.com/environment/2026/aug/31/turkmenistan-methane-leaks-un-alerts-mars)
-- [Is it true that … mental health is affected by inflammation?](https://www.theguardian.com/lifeandstyle/2026/aug/31/is-it-true-that-mental-health-is-affected-by-inflammation)
-- [The hill I will die on: No self-respecting adult should use the term ‘picky bits’ | Laura Snapes](https://www.theguardian.com/commentisfree/2026/aug/31/the-hill-i-will-die-on-no-self-respecting-adult-picky-bits)
-- [Nepal-Tibet floods: rescuers race to reach 900 people believed trapped in hydropower tunnels](https://www.theguardian.com/world/2026/aug/31/nepal-tibet-floods-rescuers-hundreds-trapped-hydropower)
-- [Can you solve it? The fin-tastic fish puzzle](https://www.theguardian.com/science/2026/aug/31/can-you-solve-it-the-fin-tastic-fish-puzzle)
-- [My search for the perfect Polish dumplings in Gdańsk](https://www.theguardian.com/travel/2026/aug/31/perfect-pierogi-polish-dumplings-gdansk-poland)
+- [Football transfer deadline day: latest on Fernández, Alvarez, Ndiaye and more – live](https://www.theguardian.com/football/live/2026/sep/01/football-transfer-deadline-day-fernandez-alvarez-mudryk-ndiaye-latest-news-updates)
+- [BBC ‘fully committed to women’s football’ despite cancelling flagship highlights show](https://www.theguardian.com/football/2026/sep/01/bbc-fully-committed-to-womens-football-despite-cancelling-flagship-highlights-show)
+- [Man, 23, charged with murder after fatal Teesside house fire](https://www.theguardian.com/uk-news/2026/sep/01/man-23-charged-fatal-teesside-house-fire)
+- [‘The mountains are changing’: What the floods tell us about the future of India’s Himalayas](https://www.theguardian.com/world/2026/aug/31/this-is-india-what-the-nepal-tibet-floods-tell-us-about-the-future-of-indias-himalayas)
+- [Scaring monkeys? Detecting bedbugs? Meet the elite working dogs – in pictures](https://www.theguardian.com/artanddesign/gallery/2026/sep/01/elite-working-dogs-in-pictures-john-fabiano)
+- [Anita Brookner by Hermione Lee review – an enigmatic literary great given her due](https://www.theguardian.com/books/2026/sep/01/anita-brookner-by-hermione-lee-review-an-enigmatic-literary-great-given-her-due)
+- [My abusive and aggressive partner left me but O2 insists I meet him in person](https://www.theguardian.com/money/2026/sep/01/my-abusive-and-aggressive-partner-left-me-but-o2-insists-i-meet-him-in-person)
+- [A walking tour of Andalucía’s historic white villages: ‘Nightingales serenade us as we wind along lush river valleys’](https://www.theguardian.com/travel/2026/sep/01/walking-tour-andalucia-spain-historic-white-villages-pueblos-blancos)
+- [How misconceptions and woeful PR allowed Musk to shred USAID so easily | Jeremiah A Carew](https://www.theguardian.com/global-development/2026/sep/01/how-misconceptions-and-woeful-pr-allowed-musk-to-shred-usaid-so-easily)
+- [‘Alarm bells were going off’: parents tell of ordeal at Send school closed down after abuse allegations](https://www.theguardian.com/education/2026/sep/01/parents-tell-of-ordeal-at-send-school-closed-down-abuse)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

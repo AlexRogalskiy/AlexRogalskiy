@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Meta Security Researcher&#39;s AI Agent Accidentally Deleted Her Emails](https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails)
-- [A 12TB Steam &quot;teraleak&quot; spills more than a decade of lost PC gaming history](https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/)
-- [OpenClaw 2.0, Accidentally](https://openclaw.ai/blog/openclaw-2-accidentally)
-- [P99 0 ms* autocomplete for 240M domain names](https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names)
-- [Transfer files over an Ethernet patch cable](https://maurycyz.com/misc/etherfiles/)
-- [Internet centralization and the original sin of NAT](https://dreamstation.systems/personal/ntppost.html)
-- [Understanding ChatGPT Work](https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/)
-- [How to build a diffusion language model](https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/)
-- [Matrox: Graphics for Professionals](https://www.abortretry.fail/p/matrox)
-- [“I just chose words carefully”](https://unsung.aresluna.org/i-just-chose-words-carefully/)
+- [CollectWise &lpar;YC F24&rpar; Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/7U500pP-founding-customer-success-engineer)
+- [AI Can Make You Suck Faster Too](https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too)
+- [Vermell – Minimal, dependency-free C++ web framework using epoll](https://github.com/vermellcc/vermell)
+- [Restroom Archive](https://restroomarchive.com)
+- [GPU World](https://www.gpuworld.org/)
+- [Fastpotify](https://fastpotify.rocks/)
+- [RotaryCell: Making an unmodified rotary phone work over LTE with an ESP32-S3](https://github.com/fregacmols/RotaryCell)
+- [DoltLite: A SQLite fork with Git-style version control, built with 2k agent PRs](https://www.dolthub.com/blog/2026-08-31-doltlite-beta/)
+- [2004 RuneScape fit a multiplayer RPG into 56k dial-up](https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/)
+- [Evidence of Fraud in an Influential Study About Procrastination](https://datacolada.org/138)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

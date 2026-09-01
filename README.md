@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Claude weekly limit for &quot;20x&quot; plan is 10x; 20x applying to 5h limits](https://twitter.com/thsottiaux/status/2094254532020818191)
-- [Ask HN: Is Rust is a real niche programming language？](https://news.ycombinator.com/item?id=49506838)
-- [Breaking Claude Code Opus 5 Auto Mode](https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/)
-- [SK Hynix CEO sees memory chip shortage lasting until 2030](https://www.sammyfans.com/2026/08/29/sk-hynix-ceo-sees-memory-chip-shortage-lasting-until-2030/)
-- [Ask HN: Why is Founder Mode not working for Airbnb?](https://news.ycombinator.com/item?id=49506794)
-- [African-hosted 4-vCPU / 8-GB / 200-GB VPS for $5.89/month](https://news.ycombinator.com/item?id=49506792)
-- [Grok Bot&#39;s 10 Features That Separate It from the AI Agent Pack](https://pub.towardsai.net/grok-bots-10-features-that-actually-separate-it-from-the-ai-agent-pack-f5a619dfea79?sk=0e14b9868c1a24635ce509b7a518c187)
-- [McDonaldization](https://en.wikipedia.org/wiki/McDonaldization)
-- [We all share a 15-acre Georgian mansion for the price of a two-bed house](https://www.bbc.com/news/articles/cg7mglglvmgo)
-- [Show HN: Type](https://type.thingg.co/)
+- [1Password Supports the Ethnic Cleansing of Europe](https://www.alilleybrinker.com/blog/1password-funds-ethnic-cleansing/)
+- [Some of the greatest artists are in fact extreme bureaucratic talents](https://twitter.com/i/status/2094462115192951011)
+- [The Hugging Face hack could indicate cultural issues at OpenAI](https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/)
+- [Reverse engineering an Wii game for the first time](https://en.blog.bobh0724.net/2025/08/25/reverse-engineer-puyo20-wii/)
+- [12V Deep Cycle Battery](https://www.jrepower.com/products/12v-deep-cycle-battery/)
+- [Hertzfeld, Andy oral history, part 1 of 2 &lpar;2025&rpar;](https://www.computerhistory.org/collections/catalog/300000188/)
+- [Countries gear up to create lunar standard time](https://mainichi.jp/english/articles/20260830/p2g/00m/0sc/043000c)
+- [Can your GrokBot conquer the world?](https://agentofempires.com/)
+- [Drone simulator in Arduino serial monitor](https://kimsalmi.com/posts/2016/quadcopter/)
+- [Smuggled Infinities &lpar;2023&rpar;](https://adventurecapital.substack.com/p/smuggled-infinity)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

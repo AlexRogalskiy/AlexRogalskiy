@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Windows bug incorrectly tells users that Microsoft Defender Antivirus is turned off](https://www.computerworld.com/article/4216582/windows-bug-incorrectly-tells-users-that-microsoft-defender-antivirus-is-turned-off.html)
+- [At Hot Chips ‘26, all eyes were on AI costs, GPUs — and the future](https://www.computerworld.com/article/4216521/at-hot-chips-26-all-eyes-were-on-ai-costs-gpus-and-the-future.html)
+- [With new leadership, Apple will re-define success](https://www.computerworld.com/article/4216433/with-new-leadership-apple-will-re-define-success.html)
+- [Copilot Pages: Work side by side with AI](https://www.computerworld.com/article/4202427/copilot-pages-work-side-by-side-with-ai.html)
 - [Federal judge rules for Anthropic in Pentagon dispute, nullifies government supply chain risk designation](https://www.computerworld.com/article/4215393/federal-judge-rules-for-anthropic-in-pentagon-dispute-nullifies-government-supply-chain-risk-designation.html)
 - [Anthropic’s new framework will let AI agents control hardware](https://www.computerworld.com/article/4215388/anthropics-new-framework-lets-ai-agents-control-hardware.html)
 - [Cheap smartphones are dead. Apple doesn’t care](https://www.computerworld.com/article/4215364/cheap-smartphones-are-dead-apple-doesnt-care.html)
 - [Why AI doesn’t make companies more productive](https://www.computerworld.com/article/4215022/why-ai-doesnt-make-companies-more-productive.html)
 - [Your inbox secret sauce: 16 hidden Gmail gems for Android](https://www.computerworld.com/article/1702059/gmail-android.html)
 - [Photoshop’s new AI Assisted Editor offers a prompt-based editing option](https://www.computerworld.com/article/4214985/photoshops-new-ai-assisted-editor-offers-a-prompt-based-editing-option.html)
-- [UK says ‘no’ to backdoors, but the government isn’t listening](https://www.computerworld.com/article/4214958/uk-says-no-to-backdoors-but-the-government-isnt-listening.html)
-- [Meta’s plans to replace workers with AI fell flat, report says](https://www.computerworld.com/article/4214479/metas-plans-to-replace-workers-with-ai-fell-flat-report-says.html)
-- [AI deployments bring with them risks companies are ill-prepared for — analysts](https://www.computerworld.com/article/4214445/ai-deployments-bring-with-them-risks-companies-are-ill-prepared-for-analysts.html)
-- [Agentic AI – Ongoing coverage of its impact on the enterprise](https://www.computerworld.com/article/3843138/agentic-ai-ongoing-coverage-of-its-impact-on-the-enterprise.html)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

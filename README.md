@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Anthropic makes changes to stop AI agents running amok again](https://www.computerworld.com/article/4217275/anthropic-makes-changes-to-stop-ai-agents-running-amok-again-3.html)
+- [Citrix buys company that containerizes Windows desktop apps independently of the OS](https://www.computerworld.com/article/4217151/citrix-buys-company-that-containerizes-windows-desktop-apps-independently-of-the-os.html)
+- [Older workers are more bullish on AI than younger ones](https://www.computerworld.com/article/4217123/older-employees-are-more-positive-about-ai-than-younger-ones.html)
+- [What went wrong with Apple’s design group?](https://www.computerworld.com/article/4216898/what-went-wrong-with-apples-design-group.html)
+- [Q&amp;A: Serval CEO describes building an ‘AI-native’ alternative to ServiceNow](https://www.computerworld.com/article/4216413/qa-serval-ceo-describes-building-an-ai-native-alternative-to-servicenow.html)
+- [Microsoft 365 outage enters second day as search disruptions persist](https://www.computerworld.com/article/4216867/microsoft-365-outage-enters-second-day-as-search-disruptions-persist.html)
 - [Windows bug incorrectly tells users that Microsoft Defender Antivirus is turned off](https://www.computerworld.com/article/4216582/windows-bug-incorrectly-tells-users-that-microsoft-defender-antivirus-is-turned-off.html)
 - [At Hot Chips ‘26, all eyes were on AI costs, GPUs — and the future](https://www.computerworld.com/article/4216521/at-hot-chips-26-all-eyes-were-on-ai-costs-gpus-and-the-future.html)
 - [With new leadership, Apple will re-define success](https://www.computerworld.com/article/4216433/with-new-leadership-apple-will-re-define-success.html)
 - [Copilot Pages: Work side by side with AI](https://www.computerworld.com/article/4202427/copilot-pages-work-side-by-side-with-ai.html)
-- [Federal judge rules for Anthropic in Pentagon dispute, nullifies government supply chain risk designation](https://www.computerworld.com/article/4215393/federal-judge-rules-for-anthropic-in-pentagon-dispute-nullifies-government-supply-chain-risk-designation.html)
-- [Anthropic’s new framework will let AI agents control hardware](https://www.computerworld.com/article/4215388/anthropics-new-framework-lets-ai-agents-control-hardware.html)
-- [Cheap smartphones are dead. Apple doesn’t care](https://www.computerworld.com/article/4215364/cheap-smartphones-are-dead-apple-doesnt-care.html)
-- [Why AI doesn’t make companies more productive](https://www.computerworld.com/article/4215022/why-ai-doesnt-make-companies-more-productive.html)
-- [Your inbox secret sauce: 16 hidden Gmail gems for Android](https://www.computerworld.com/article/1702059/gmail-android.html)
-- [Photoshop’s new AI Assisted Editor offers a prompt-based editing option](https://www.computerworld.com/article/4214985/photoshops-new-ai-assisted-editor-offers-a-prompt-based-editing-option.html)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

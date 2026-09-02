@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [1Password Supports the Ethnic Cleansing of Europe](https://www.alilleybrinker.com/blog/1password-funds-ethnic-cleansing/)
-- [Some of the greatest artists are in fact extreme bureaucratic talents](https://twitter.com/i/status/2094462115192951011)
-- [The Hugging Face hack could indicate cultural issues at OpenAI](https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/)
-- [Reverse engineering an Wii game for the first time](https://en.blog.bobh0724.net/2025/08/25/reverse-engineer-puyo20-wii/)
-- [12V Deep Cycle Battery](https://www.jrepower.com/products/12v-deep-cycle-battery/)
-- [Hertzfeld, Andy oral history, part 1 of 2 &lpar;2025&rpar;](https://www.computerhistory.org/collections/catalog/300000188/)
-- [Countries gear up to create lunar standard time](https://mainichi.jp/english/articles/20260830/p2g/00m/0sc/043000c)
-- [Can your GrokBot conquer the world?](https://agentofempires.com/)
-- [Drone simulator in Arduino serial monitor](https://kimsalmi.com/posts/2016/quadcopter/)
-- [Smuggled Infinities &lpar;2023&rpar;](https://adventurecapital.substack.com/p/smuggled-infinity)
+- [How Trump Plans to Steal the Midterm Elections, According to a Whistleblower](https://gizmodo.com/heres-how-trump-plans-to-steal-the-midterm-elections-according-to-a-whistleblower-2000805711)
+- [ITA Controlled English &lpar;CE&rpar;](https://github.com/ce-store/ce-store)
+- [Attempto project: Attempto Control English &lpar;ACE&rpar; and its tools](https://attempto.ifi.uzh.ch/site/)
+- [Logica: Enhanced Datalog Compiled to SQL](https://logica-lang.github.io/)
+- [Climate Trace Releases May 2026 Emissions Data](https://climatetrace.org/news/climate-trace-releases-may-2026-emissions-data)
+- [Findings Report on the July 8th Telstra Outage [pdf]](https://www.telstra.com.au/content/dam/tcom/dynamic-media-projects/luke-campbell/TAP-Findings-for-Telstra-Outage.pdf)
+- [Care for a Little More AI?](https://proofsandprompts.com/2026/08/30/care-for-a-little-more-ai/)
+- [Where the brain ends and the mind begins](https://www.youtube.com/watch?v=XklvcYMSvAU)
+- [Qwen3.8-Max just got upgraded](https://twitter.com/Alibaba_Qwen/status/2094968708288680276)
+- [Thousands of University of Sydney staff on strike over AI and job security](https://www.theguardian.com/australia-news/2026/sep/02/we-have-had-enough-thousands-of-staff-at-the-university-of-sydney-walk-off-the-job-over-ai-job-security)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

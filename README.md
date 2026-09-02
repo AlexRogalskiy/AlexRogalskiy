@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Football transfer deadline day: latest on Fernández, Alvarez, Ndiaye and more – live](https://www.theguardian.com/football/live/2026/sep/01/football-transfer-deadline-day-fernandez-alvarez-mudryk-ndiaye-latest-news-updates)
-- [BBC ‘fully committed to women’s football’ despite cancelling flagship highlights show](https://www.theguardian.com/football/2026/sep/01/bbc-fully-committed-to-womens-football-despite-cancelling-flagship-highlights-show)
-- [Man, 23, charged with murder after fatal Teesside house fire](https://www.theguardian.com/uk-news/2026/sep/01/man-23-charged-fatal-teesside-house-fire)
-- [‘The mountains are changing’: What the floods tell us about the future of India’s Himalayas](https://www.theguardian.com/world/2026/aug/31/this-is-india-what-the-nepal-tibet-floods-tell-us-about-the-future-of-indias-himalayas)
-- [Scaring monkeys? Detecting bedbugs? Meet the elite working dogs – in pictures](https://www.theguardian.com/artanddesign/gallery/2026/sep/01/elite-working-dogs-in-pictures-john-fabiano)
-- [Anita Brookner by Hermione Lee review – an enigmatic literary great given her due](https://www.theguardian.com/books/2026/sep/01/anita-brookner-by-hermione-lee-review-an-enigmatic-literary-great-given-her-due)
-- [My abusive and aggressive partner left me but O2 insists I meet him in person](https://www.theguardian.com/money/2026/sep/01/my-abusive-and-aggressive-partner-left-me-but-o2-insists-i-meet-him-in-person)
-- [A walking tour of Andalucía’s historic white villages: ‘Nightingales serenade us as we wind along lush river valleys’](https://www.theguardian.com/travel/2026/sep/01/walking-tour-andalucia-spain-historic-white-villages-pueblos-blancos)
-- [How misconceptions and woeful PR allowed Musk to shred USAID so easily | Jeremiah A Carew](https://www.theguardian.com/global-development/2026/sep/01/how-misconceptions-and-woeful-pr-allowed-musk-to-shred-usaid-so-easily)
-- [‘Alarm bells were going off’: parents tell of ordeal at Send school closed down after abuse allegations](https://www.theguardian.com/education/2026/sep/01/parents-tell-of-ordeal-at-send-school-closed-down-abuse)
+- [Markets slide as inflation fears trigger global bond sell-off – business live](https://www.theguardian.com/business/live/2026/sep/02/bond-market-sell-off-shares-slide-oil-inflation-fears-latest-news-updates)
+- [Gingers of America: portraits of people with ginger hair across the US](https://www.theguardian.com/us-news/gallery/2026/sep/02/gingers-of-america-portraits-of-people-with-ginger-hair-across-the-us)
+- [Almost half of world’s farmers poisoned by pesticides every year, experts find](https://www.theguardian.com/environment/2026/sep/02/50-per-cent-world-farmers-poisoned-pesticides-every-year-experts)
+- [Conservative reshuffle is a response to shifting political tides](https://www.theguardian.com/politics/2026/sep/02/conservative-reshuffle-is-a-response-to-shifting-political-tides)
+- [My autistic son lives in fear of bailiffs from Ovo breaking into his flat](https://www.theguardian.com/money/2026/sep/02/ovo-energy-debt-demands-autistic-son)
+- [Whisky galore – and now plenty more besides: exploring the Scottish island of Islay](https://www.theguardian.com/travel/2026/sep/02/scotland-islay-whisky-food-and-drink-holiday-hebrides)
+- [Ukrainian film-maker criticises EU after it cuts Venice Biennale funding over Russia controversy](https://www.theguardian.com/film/2026/sep/02/ukrainian-film-maker-sergei-loznitsa-criticises-eu-cuts-venice-biennale-funding-russia-controversy)
+- [Hungry review – hippo horror sees multi-ton mammal run amok among bayou boat-trippers](https://www.theguardian.com/film/2026/sep/02/hungry-review-hippo-horror)
+- [UK must end all trade with Israel, says co-founder of BDS movement](https://www.theguardian.com/world/2026/sep/02/uk-must-end-all-trade-with-israel-says-co-founder-of-bds-movement)
+- [The Bridge by Colm Tóibín review – betrayal and survival in the High Pyrenees](https://www.theguardian.com/books/2026/sep/02/the-bridge-by-colm-toibin-review-betrayal-and-survival-in-the-high-pyrenees)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

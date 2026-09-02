@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [CollectWise &lpar;YC F24&rpar; Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/7U500pP-founding-customer-success-engineer)
-- [AI Can Make You Suck Faster Too](https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too)
-- [Vermell – Minimal, dependency-free C++ web framework using epoll](https://github.com/vermellcc/vermell)
-- [Restroom Archive](https://restroomarchive.com)
-- [GPU World](https://www.gpuworld.org/)
-- [Fastpotify](https://fastpotify.rocks/)
-- [RotaryCell: Making an unmodified rotary phone work over LTE with an ESP32-S3](https://github.com/fregacmols/RotaryCell)
-- [DoltLite: A SQLite fork with Git-style version control, built with 2k agent PRs](https://www.dolthub.com/blog/2026-08-31-doltlite-beta/)
-- [2004 RuneScape fit a multiplayer RPG into 56k dial-up](https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/)
-- [Evidence of Fraud in an Influential Study About Procrastination](https://datacolada.org/138)
+- [The Emergent Symbolic Structure of Artificial Neural Networks](https://arxiv.org/abs/2608.29530)
+- [WebFPGA](https://webfpga.io/)
+- [True Rate of Unemployment](https://www.lisep.org/tru)
+- [The efficient frontier of LLM inference](https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/)
+- [FBI Probes Service Selling 153M+ Drivers Licenses](https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/)
+- [My local model setup on an M4 Pro Mac Mini](https://lws.io/blog/my-local-model-setup/)
+- [Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos](https://masteranza.github.io/weedout/)
+- [Show HN: HN Match Maker – Matching &quot;Who Wants to Be Hired?&quot; With &quot;Who&#39;s Hiring?&quot;](https://hnmatchmaker.com/)
+- [Path to Astra: critical capabilities and frontier safeguards](https://openai.com/index/path-to-astra/)
+- [The ChatGPT/Codex app bundles a full copy of LibreOffice](https://simonwillison.net/2026/Sep/1/codex-libreoffice/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

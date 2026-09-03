@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Markets slide as inflation fears trigger global bond sell-off – business live](https://www.theguardian.com/business/live/2026/sep/02/bond-market-sell-off-shares-slide-oil-inflation-fears-latest-news-updates)
-- [Gingers of America: portraits of people with ginger hair across the US](https://www.theguardian.com/us-news/gallery/2026/sep/02/gingers-of-america-portraits-of-people-with-ginger-hair-across-the-us)
-- [Almost half of world’s farmers poisoned by pesticides every year, experts find](https://www.theguardian.com/environment/2026/sep/02/50-per-cent-world-farmers-poisoned-pesticides-every-year-experts)
-- [Conservative reshuffle is a response to shifting political tides](https://www.theguardian.com/politics/2026/sep/02/conservative-reshuffle-is-a-response-to-shifting-political-tides)
-- [My autistic son lives in fear of bailiffs from Ovo breaking into his flat](https://www.theguardian.com/money/2026/sep/02/ovo-energy-debt-demands-autistic-son)
-- [Whisky galore – and now plenty more besides: exploring the Scottish island of Islay](https://www.theguardian.com/travel/2026/sep/02/scotland-islay-whisky-food-and-drink-holiday-hebrides)
-- [Ukrainian film-maker criticises EU after it cuts Venice Biennale funding over Russia controversy](https://www.theguardian.com/film/2026/sep/02/ukrainian-film-maker-sergei-loznitsa-criticises-eu-cuts-venice-biennale-funding-russia-controversy)
-- [Hungry review – hippo horror sees multi-ton mammal run amok among bayou boat-trippers](https://www.theguardian.com/film/2026/sep/02/hungry-review-hippo-horror)
-- [UK must end all trade with Israel, says co-founder of BDS movement](https://www.theguardian.com/world/2026/sep/02/uk-must-end-all-trade-with-israel-says-co-founder-of-bds-movement)
-- [The Bridge by Colm Tóibín review – betrayal and survival in the High Pyrenees](https://www.theguardian.com/books/2026/sep/02/the-bridge-by-colm-toibin-review-betrayal-and-survival-in-the-high-pyrenees)
+- [‘I was never taught Welsh history’: Michael Sheen on reclaiming rebel leader Owain Glyndŵr](https://www.theguardian.com/culture/2026/sep/03/michael-sheen-on-playing-owain-glyndwr-wales)
+- [Down by the Hudson – ode to a New York swimming creek – in pictures](https://www.theguardian.com/artanddesign/gallery/2026/sep/03/down-by-the-hudson-ode-to-a-new-york-swimming-creek-in-pictures)
+- [‘Supersizing before our eyes’: UN warns of record El Niño approaching](https://www.theguardian.com/environment/2026/sep/03/el-nino-supersizing-before-our-eyes-united-nations)
+- [Wife of British man at risk of deportation from Sweden calls on Burnham to intervene](https://www.theguardian.com/world/2026/sep/03/wife-of-british-man-at-risk-of-deportation-from-sweden-calls-on-burnham-to-intervene)
+- [I camped in one of Britain’s last remaining rainforests](https://www.theguardian.com/travel/2026/sep/03/camping-britain-last-remaining-rainforests-dartmoor-devon)
+- [A Death of One’s Own by Terry Eagleton review – meditations on arriving at a full stop](https://www.theguardian.com/books/2026/sep/03/a-death-of-ones-own-by-terry-eagleton-review-meditations-on-arriving-at-a-full-stop)
+- [Lomu review – fascinatingly nuanced tribute to rugby’s first superstar](https://www.theguardian.com/film/2026/sep/03/lomu-review-fascinatingly-nuanced-tribute-to-rugbys-first-superstar)
+- [More than 800 students and teachers in Indonesia suffer food poisoning after eating government free meals](https://www.theguardian.com/world/2026/sep/03/indonesia-food-poisoning-hundreds-students-teachers-sick-government-free-meals)
+- [TV tonight: Richard Ayoade brings maximum contempt to new Taskmaster](https://www.theguardian.com/tv-and-radio/2026/sep/03/tv-tonight-richard-ayoade-brings-maximum-contempt-to-new-taskmaster)
+- [London’s first self-driving taxis for hire hit the streets](https://www.theguardian.com/technology/2026/sep/03/london-first-self-driving-taxis-for-hire-wayve-uber)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

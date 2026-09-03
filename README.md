@@ -355,6 +355,8 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [A look inside Apple’s relationships with Intel and TSMC](https://www.computerworld.com/article/4217583/a-look-inside-apples-relationships-with-intel-and-tsmc.html)
+- [The ultimate Chrome keyboard shortcut upgrade](https://www.computerworld.com/article/4216564/chrome-keyboard-shortcut.html)
 - [Anthropic makes changes to stop AI agents running amok again](https://www.computerworld.com/article/4217275/anthropic-makes-changes-to-stop-ai-agents-running-amok-again-3.html)
 - [Citrix buys company that containerizes Windows desktop apps independently of the OS](https://www.computerworld.com/article/4217151/citrix-buys-company-that-containerizes-windows-desktop-apps-independently-of-the-os.html)
 - [Older workers are more bullish on AI than younger ones](https://www.computerworld.com/article/4217123/older-employees-are-more-positive-about-ai-than-younger-ones.html)
@@ -363,8 +365,6 @@
 - [Microsoft 365 outage enters second day as search disruptions persist](https://www.computerworld.com/article/4216867/microsoft-365-outage-enters-second-day-as-search-disruptions-persist.html)
 - [Windows bug incorrectly tells users that Microsoft Defender Antivirus is turned off](https://www.computerworld.com/article/4216582/windows-bug-incorrectly-tells-users-that-microsoft-defender-antivirus-is-turned-off.html)
 - [At Hot Chips ‘26, all eyes were on AI costs, GPUs — and the future](https://www.computerworld.com/article/4216521/at-hot-chips-26-all-eyes-were-on-ai-costs-gpus-and-the-future.html)
-- [With new leadership, Apple will re-define success](https://www.computerworld.com/article/4216433/with-new-leadership-apple-will-re-define-success.html)
-- [Copilot Pages: Work side by side with AI](https://www.computerworld.com/article/4202427/copilot-pages-work-side-by-side-with-ai.html)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

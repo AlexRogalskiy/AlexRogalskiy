@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The Emergent Symbolic Structure of Artificial Neural Networks](https://arxiv.org/abs/2608.29530)
-- [WebFPGA](https://webfpga.io/)
-- [True Rate of Unemployment](https://www.lisep.org/tru)
-- [The efficient frontier of LLM inference](https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/)
-- [FBI Probes Service Selling 153M+ Drivers Licenses](https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/)
-- [My local model setup on an M4 Pro Mac Mini](https://lws.io/blog/my-local-model-setup/)
-- [Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos](https://masteranza.github.io/weedout/)
-- [Show HN: HN Match Maker – Matching &quot;Who Wants to Be Hired?&quot; With &quot;Who&#39;s Hiring?&quot;](https://hnmatchmaker.com/)
-- [Path to Astra: critical capabilities and frontier safeguards](https://openai.com/index/path-to-astra/)
-- [The ChatGPT/Codex app bundles a full copy of LibreOffice](https://simonwillison.net/2026/Sep/1/codex-libreoffice/)
+- [Launch HN: RonanRX &lpar;YC S26&rpar; – Personalized Peptides and GLP-1s](https://news.ycombinator.com/item?id=49543530)
+- [Reasons robotics is hard](https://secondthoughts.ai/p/14-reasons-robotics-is-hard)
+- [Nango &lpar;YC W23&rpar; is hiring across eng, product and GTM &lpar;SF and remote&rpar;](https://nango.dev/careers)
+- [Altair Basic Interpreter Source Code &lpar;1975&rpar; [pdf]](https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf)
+- [Fable 5.1 World Modeling](https://github.com/PhiloLabs/fable51-worlds)
+- [Muse Spark 1.3](https://developer.meta.com/ai/models/muse-spark/)
+- [Qantas Airbus A380 engine failure in 2010 &lpar;2023&rpar;](https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7)
+- [Async Rust vs RTOS showdown &lpar;2022&rpar;](https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/)
+- [Gemini 3.8 Flash and 3.8 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/)
+- [Google avoids a breakup of its ad tech business](https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

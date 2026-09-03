@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [How Trump Plans to Steal the Midterm Elections, According to a Whistleblower](https://gizmodo.com/heres-how-trump-plans-to-steal-the-midterm-elections-according-to-a-whistleblower-2000805711)
-- [ITA Controlled English &lpar;CE&rpar;](https://github.com/ce-store/ce-store)
-- [Attempto project: Attempto Control English &lpar;ACE&rpar; and its tools](https://attempto.ifi.uzh.ch/site/)
-- [Logica: Enhanced Datalog Compiled to SQL](https://logica-lang.github.io/)
-- [Climate Trace Releases May 2026 Emissions Data](https://climatetrace.org/news/climate-trace-releases-may-2026-emissions-data)
-- [Findings Report on the July 8th Telstra Outage [pdf]](https://www.telstra.com.au/content/dam/tcom/dynamic-media-projects/luke-campbell/TAP-Findings-for-Telstra-Outage.pdf)
-- [Care for a Little More AI?](https://proofsandprompts.com/2026/08/30/care-for-a-little-more-ai/)
-- [Where the brain ends and the mind begins](https://www.youtube.com/watch?v=XklvcYMSvAU)
-- [Qwen3.8-Max just got upgraded](https://twitter.com/Alibaba_Qwen/status/2094968708288680276)
-- [Thousands of University of Sydney staff on strike over AI and job security](https://www.theguardian.com/australia-news/2026/sep/02/we-have-had-enough-thousands-of-staff-at-the-university-of-sydney-walk-off-the-job-over-ai-job-security)
+- [Show HN: 2nd Release Canddiate for Back in Time 2.0.0](https://github.com/bit-team/backintime/releases/tag/v2.0.0-rc2)
+- [How Delhi Built a World-Class Metro for a Bargain](https://www.nytimes.com/2026/09/02/headway/india-delhi-metro-public-transit.html)
+- [Show HN: A register of agent-payment code that pays once when the reply is lost](https://aurumflux.co/retry-safety/)
+- [Gemini 3.8 Flash in Google Antigravity – Google Antigravity Blog](https://antigravity.google/blog/gemini-3-8-flash-in-google-antigravity)
+- [Claude Code skill: no emdashes](https://github.com/woutersf/claude-skill-no-emdashes)
+- [Upload died on Mac air M5. Apple networking needs reboot](https://frederikwouters.be/blog/have-you-tried-turning-it-off-and-on-again)
+- [CTTI is Exponential, RTTI is Linear](https://www.gingerbill.org/article/2026/09/02/ctti-is-exponential-rtti-is-linear/)
+- [Can AI Create PLC Attacks? Yes, but It&#39;s Not That Easy Yet](https://www.forescout.com/blog/can-ai-create-plc-attacks-yes-but-it%E2%80%99s-not-that-easy-yet/)
+- [The First Polynomial-Time Algorithm for the Győri-Lovász Theorem](https://arxiv.org/abs/2608.30945)
+- [RSA Factoring Challenge](https://en.wikipedia.org/wiki/RSA_Factoring_Challenge)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

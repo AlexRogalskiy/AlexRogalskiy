@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: 2nd Release Canddiate for Back in Time 2.0.0](https://github.com/bit-team/backintime/releases/tag/v2.0.0-rc2)
-- [How Delhi Built a World-Class Metro for a Bargain](https://www.nytimes.com/2026/09/02/headway/india-delhi-metro-public-transit.html)
-- [Show HN: A register of agent-payment code that pays once when the reply is lost](https://aurumflux.co/retry-safety/)
-- [Gemini 3.8 Flash in Google Antigravity – Google Antigravity Blog](https://antigravity.google/blog/gemini-3-8-flash-in-google-antigravity)
-- [Claude Code skill: no emdashes](https://github.com/woutersf/claude-skill-no-emdashes)
-- [Upload died on Mac air M5. Apple networking needs reboot](https://frederikwouters.be/blog/have-you-tried-turning-it-off-and-on-again)
-- [CTTI is Exponential, RTTI is Linear](https://www.gingerbill.org/article/2026/09/02/ctti-is-exponential-rtti-is-linear/)
-- [Can AI Create PLC Attacks? Yes, but It&#39;s Not That Easy Yet](https://www.forescout.com/blog/can-ai-create-plc-attacks-yes-but-it%E2%80%99s-not-that-easy-yet/)
-- [The First Polynomial-Time Algorithm for the Győri-Lovász Theorem](https://arxiv.org/abs/2608.30945)
-- [RSA Factoring Challenge](https://en.wikipedia.org/wiki/RSA_Factoring_Challenge)
+- [Power-hungry data centers are expanding in Europe](https://www.politico.eu/article/power-hungry-data-centers-are-expanding-in-europe-so-is-the-resistance/)
+- [Hacker News: I got hacked](https://www.google.com/)
+- [Show HN: Interactive map of the Japanese address system](https://japanmap.fyi)
+- [Nvidia&#39;s $12,930,300,000 acquisition of Hugging Face contains an easter egg](https://twitter.com/etnshow/status/2095526554365247839)
+- [Why do developers continue to write code by hand?](https://orchidfiles.com/why-write-code-by-hand/)
+- [Andrew Ng: The Biggest Opportunities in AI Aren&#39;t Where You Think [video]](https://www.youtube.com/watch?v=o-wv_szZ0V0)
+- [Nano LM Studio](https://github.com/Kosev-Lex/NanoLM-Studio)
+- [Show HN: AI game builder and editor built with Rails and Godot](https://app.fusionery.com/)
+- [Who is accountable for Frontier AI Companies agent&#39;s criminal actions?](https://news.ycombinator.com/item?id=49561197)
+- [Limiting Overshoot – Navigating exceedance of 1.5°C and pathways towards return](https://www.unep.org/resources/limiting-overshoot-navigating-exceedance)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

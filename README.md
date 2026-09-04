@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Launch HN: RonanRX &lpar;YC S26&rpar; – Personalized Peptides and GLP-1s](https://news.ycombinator.com/item?id=49543530)
-- [Reasons robotics is hard](https://secondthoughts.ai/p/14-reasons-robotics-is-hard)
-- [Nango &lpar;YC W23&rpar; is hiring across eng, product and GTM &lpar;SF and remote&rpar;](https://nango.dev/careers)
-- [Altair Basic Interpreter Source Code &lpar;1975&rpar; [pdf]](https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf)
-- [Fable 5.1 World Modeling](https://github.com/PhiloLabs/fable51-worlds)
-- [Muse Spark 1.3](https://developer.meta.com/ai/models/muse-spark/)
-- [Qantas Airbus A380 engine failure in 2010 &lpar;2023&rpar;](https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7)
-- [Async Rust vs RTOS showdown &lpar;2022&rpar;](https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/)
-- [Gemini 3.8 Flash and 3.8 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/)
-- [Google avoids a breakup of its ad tech business](https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html)
+- [Grep beats LSP? Why coding agents ignore your fancier tools](https://www.agentconnect.md/blog/grep-beat-lsp-harness/)
+- [A mysterious kidney disease has arrived in Texas](https://www.texasmonthly.com/news-politics/ckdu-kidney-disease-immigration/)
+- [From Hookswitch to Grave](https://computer.rip/2026-06-14-hookswitch-to-grave.html)
+- [Project Xanadu: Even More Hindsight &lpar;2025&rpar;](https://gwern.net/xanadu)
+- [GLP-1s are being linked to fewer serious infections, including TB](https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796)
+- [Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out](https://armature.tech/blog/which-tools-coding-agents-install)
+- [Tasklet &lpar;YC P26&rpar; Is Hiring a Customer Success Engineer](https://tasklet.ai/careers/customer-success-engineer)
+- [The asteroid currently hitting front end web development](https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/)
+- [GPT-6 Astra](https://openai.com/index/gpt-6-astra/)
+- [Qwen 3.8 27B available on Cerebras at 1500 tokens/s](https://inference-docs.cerebras.ai/models/overview)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

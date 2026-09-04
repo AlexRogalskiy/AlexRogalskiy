@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [‘I was never taught Welsh history’: Michael Sheen on reclaiming rebel leader Owain Glyndŵr](https://www.theguardian.com/culture/2026/sep/03/michael-sheen-on-playing-owain-glyndwr-wales)
-- [Down by the Hudson – ode to a New York swimming creek – in pictures](https://www.theguardian.com/artanddesign/gallery/2026/sep/03/down-by-the-hudson-ode-to-a-new-york-swimming-creek-in-pictures)
-- [‘Supersizing before our eyes’: UN warns of record El Niño approaching](https://www.theguardian.com/environment/2026/sep/03/el-nino-supersizing-before-our-eyes-united-nations)
-- [Wife of British man at risk of deportation from Sweden calls on Burnham to intervene](https://www.theguardian.com/world/2026/sep/03/wife-of-british-man-at-risk-of-deportation-from-sweden-calls-on-burnham-to-intervene)
-- [I camped in one of Britain’s last remaining rainforests](https://www.theguardian.com/travel/2026/sep/03/camping-britain-last-remaining-rainforests-dartmoor-devon)
-- [A Death of One’s Own by Terry Eagleton review – meditations on arriving at a full stop](https://www.theguardian.com/books/2026/sep/03/a-death-of-ones-own-by-terry-eagleton-review-meditations-on-arriving-at-a-full-stop)
-- [Lomu review – fascinatingly nuanced tribute to rugby’s first superstar](https://www.theguardian.com/film/2026/sep/03/lomu-review-fascinatingly-nuanced-tribute-to-rugbys-first-superstar)
-- [More than 800 students and teachers in Indonesia suffer food poisoning after eating government free meals](https://www.theguardian.com/world/2026/sep/03/indonesia-food-poisoning-hundreds-students-teachers-sick-government-free-meals)
-- [TV tonight: Richard Ayoade brings maximum contempt to new Taskmaster](https://www.theguardian.com/tv-and-radio/2026/sep/03/tv-tonight-richard-ayoade-brings-maximum-contempt-to-new-taskmaster)
-- [London’s first self-driving taxis for hire hit the streets](https://www.theguardian.com/technology/2026/sep/03/london-first-self-driving-taxis-for-hire-wayve-uber)
+- [British army told to halt non-essential training exercises to save money](https://www.theguardian.com/uk-news/2026/sep/04/british-army-halt-non-essential-training-exercises-save-money)
+- [UK has not done enough to prepare for shocks to food supplies, says watchdog](https://www.theguardian.com/business/2026/sep/04/uk-not-done-enough-to-prepare-for-shocks-to-food-supplies-says-watchdog)
+- [The Golden Hours by Louisa Young review – this continuation of the Cazalet Chronicles is a total delight](https://www.theguardian.com/books/2026/sep/04/the-golden-hours-by-louisa-young-review-this-continuation-of-the-cazalet-chronicles-is-a-total-delight)
+- [‘It feels like Italy with the volume turned down’: readers’ favourite &lpar;smaller&rpar; city breaks in Europe](https://www.theguardian.com/travel/2026/sep/04/readers-tips-small-city-breaks-europe)
+- [Save the Children aid for 1.5 million in need wiped out by Iran war oil shock](https://www.theguardian.com/business/2026/sep/04/save-the-children-iran-war-oil-charity-costs)
+- [Mr T: I Pity the Fool to Last Seen – the seven best shows to stream this week](https://www.theguardian.com/tv-and-radio/2026/sep/04/mr-t-i-pity-the-fool-to-last-seen-the-seven-best-shows-to-stream-this-week)
+- [Faces of Death review – rework of notorious video nasty turns horror voyeurism into moral panic fable](https://www.theguardian.com/film/2026/sep/04/faces-of-death-review-rework-of-notorious-video-nasty-turns-horror-voyeurism-into-moral-panic-fable)
+- [Revealed: how companies ‘secretly’ use billions of litres of public water in drought-hit England](https://www.theguardian.com/environment/2026/sep/04/revealed-how-companies-secretly-use-billions-of-litres-of-public-water-in-drought-hit-england)
+- [Vista, Saarikoski Songs, Three Preludes album review – Saariaho’s iridescent visions evocatively rendered](https://www.theguardian.com/music/2026/sep/04/kaija-saariaho-vista-saarikoski-songs-three-preludes-album-review)
+- [Homes for sale minutes away from a train station in England – in pictures](https://www.theguardian.com/money/gallery/2026/sep/04/homes-for-sale-minutes-away-from-a-train-station-in-england-in-pictures)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

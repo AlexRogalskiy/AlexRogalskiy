@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [ChatGPT, Claude, and Grok all went down at once; enterprises need a backup plan](https://www.computerworld.com/article/4218388/chatgpt-claude-and-grok-all-went-down-at-once-enterprises-need-a-backup-plan.html)
+- [Word and Outlook will stop trying to guess what you’re going to type](https://www.computerworld.com/article/4218285/word-and-outlook-will-stop-trying-to-guess-what-youre-going-to-type.html)
+- [Serious vulnerability threatens tens of thousands of Exchange servers](https://www.computerworld.com/article/4218267/serious-vulnerability-threatens-tens-of-thousands-of-exchange-servers.html)
+- [Why is Apple so quiet about what it offers the enterprise?](https://www.computerworld.com/article/4218195/why-is-apple-so-quiet-about-what-it-offers-the-enterprise.html)
+- [Adobe’s Slack integration brings AI content creation to workplace chats](https://www.computerworld.com/article/4218122/adobes-slack-integration-brings-ai-content-creation-to-workplace-chats.html)
 - [A look inside Apple’s relationships with Intel and TSMC](https://www.computerworld.com/article/4217583/a-look-inside-apples-relationships-with-intel-and-tsmc.html)
 - [The ultimate Chrome keyboard shortcut upgrade](https://www.computerworld.com/article/4216564/chrome-keyboard-shortcut.html)
 - [Anthropic makes changes to stop AI agents running amok again](https://www.computerworld.com/article/4217275/anthropic-makes-changes-to-stop-ai-agents-running-amok-again-3.html)
 - [Citrix buys company that containerizes Windows desktop apps independently of the OS](https://www.computerworld.com/article/4217151/citrix-buys-company-that-containerizes-windows-desktop-apps-independently-of-the-os.html)
 - [Older workers are more bullish on AI than younger ones](https://www.computerworld.com/article/4217123/older-employees-are-more-positive-about-ai-than-younger-ones.html)
-- [What went wrong with Apple’s design group?](https://www.computerworld.com/article/4216898/what-went-wrong-with-apples-design-group.html)
-- [Q&amp;A: Serval CEO describes building an ‘AI-native’ alternative to ServiceNow](https://www.computerworld.com/article/4216413/qa-serval-ceo-describes-building-an-ai-native-alternative-to-servicenow.html)
-- [Microsoft 365 outage enters second day as search disruptions persist](https://www.computerworld.com/article/4216867/microsoft-365-outage-enters-second-day-as-search-disruptions-persist.html)
-- [Windows bug incorrectly tells users that Microsoft Defender Antivirus is turned off](https://www.computerworld.com/article/4216582/windows-bug-incorrectly-tells-users-that-microsoft-defender-antivirus-is-turned-off.html)
-- [At Hot Chips ‘26, all eyes were on AI costs, GPUs — and the future](https://www.computerworld.com/article/4216521/at-hot-chips-26-all-eyes-were-on-ai-costs-gpus-and-the-future.html)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

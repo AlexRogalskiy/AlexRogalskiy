@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Nvidia-Hugging Face deal could require an enterprise AI rethink](https://www.computerworld.com/article/4218826/nvidia-hugging-face-deal-could-require-an-enterprise-ai-rethink.html)
+- [Macs don’t just do AI, they’re replacing the cloud for it](https://www.computerworld.com/article/4218761/macs-dont-just-do-ai-theyre-replacing-the-cloud-for-it.html)
+- [Nvidia lets you build your own AI clusters locally with PAIR software](https://www.computerworld.com/article/4218798/nvidia-lets-you-build-your-own-ai-clusters-locally-with-pair-software-2.html)
+- [Bidding war for defunct Spirit Airlines’ employee data will not die](https://www.computerworld.com/article/4218782/bidding-war-for-defunct-spirit-airlines-employee-data-will-not-die-2.html)
+- [Adobe replaces CEO with customer experience leader](https://www.computerworld.com/article/4218712/adobe-replaces-ceo-with-customer-experience-leader.html)
+- [Gmail labels: Your secret weapon against inbox chaos](https://www.computerworld.com/article/1663877/how-to-use-gmail-labels-to-tame-your-inbox.html)
+- [OpenAI launches GPT-6 Astra, its first model to cross a critical cybersecurity threshold](https://www.computerworld.com/article/4218691/openai-launches-gpt-6-astra-its-first-model-to-cross-a-critical-cybersecurity-threshold-3.html)
 - [ChatGPT, Claude, and Grok all went down at once; enterprises need a backup plan](https://www.computerworld.com/article/4218388/chatgpt-claude-and-grok-all-went-down-at-once-enterprises-need-a-backup-plan.html)
 - [Word and Outlook will stop trying to guess what you’re going to type](https://www.computerworld.com/article/4218285/word-and-outlook-will-stop-trying-to-guess-what-youre-going-to-type.html)
 - [Serious vulnerability threatens tens of thousands of Exchange servers](https://www.computerworld.com/article/4218267/serious-vulnerability-threatens-tens-of-thousands-of-exchange-servers.html)
-- [Why is Apple so quiet about what it offers the enterprise?](https://www.computerworld.com/article/4218195/why-is-apple-so-quiet-about-what-it-offers-the-enterprise.html)
-- [Adobe’s Slack integration brings AI content creation to workplace chats](https://www.computerworld.com/article/4218122/adobes-slack-integration-brings-ai-content-creation-to-workplace-chats.html)
-- [A look inside Apple’s relationships with Intel and TSMC](https://www.computerworld.com/article/4217583/a-look-inside-apples-relationships-with-intel-and-tsmc.html)
-- [The ultimate Chrome keyboard shortcut upgrade](https://www.computerworld.com/article/4216564/chrome-keyboard-shortcut.html)
-- [Anthropic makes changes to stop AI agents running amok again](https://www.computerworld.com/article/4217275/anthropic-makes-changes-to-stop-ai-agents-running-amok-again-3.html)
-- [Citrix buys company that containerizes Windows desktop apps independently of the OS](https://www.computerworld.com/article/4217151/citrix-buys-company-that-containerizes-windows-desktop-apps-independently-of-the-os.html)
-- [Older workers are more bullish on AI than younger ones](https://www.computerworld.com/article/4217123/older-employees-are-more-positive-about-ai-than-younger-ones.html)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

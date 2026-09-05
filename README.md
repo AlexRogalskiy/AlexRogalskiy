@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Power-hungry data centers are expanding in Europe](https://www.politico.eu/article/power-hungry-data-centers-are-expanding-in-europe-so-is-the-resistance/)
-- [Hacker News: I got hacked](https://www.google.com/)
-- [Show HN: Interactive map of the Japanese address system](https://japanmap.fyi)
-- [Nvidia&#39;s $12,930,300,000 acquisition of Hugging Face contains an easter egg](https://twitter.com/etnshow/status/2095526554365247839)
-- [Why do developers continue to write code by hand?](https://orchidfiles.com/why-write-code-by-hand/)
-- [Andrew Ng: The Biggest Opportunities in AI Aren&#39;t Where You Think [video]](https://www.youtube.com/watch?v=o-wv_szZ0V0)
-- [Nano LM Studio](https://github.com/Kosev-Lex/NanoLM-Studio)
-- [Show HN: AI game builder and editor built with Rails and Godot](https://app.fusionery.com/)
-- [Who is accountable for Frontier AI Companies agent&#39;s criminal actions?](https://news.ycombinator.com/item?id=49561197)
-- [Limiting Overshoot – Navigating exceedance of 1.5°C and pathways towards return](https://www.unep.org/resources/limiting-overshoot-navigating-exceedance)
+- [Imperial Colors Manifesto](https://qum.cz/imperial_colors/)
+- [Show HN: Mu, two-minute visualized lessons on modern AI](https://mu.vizuara.ai/)
+- [The U.N. backs a new world map showing Africa in its true relative size](https://www.npr.org/2026/09/04/nx-s1-5958611/africa-world-map-un-vote)
+- [Show HN: RagLeap Core – 46 AI Employees, open-source LangChain alt](https://github.com/antonyrag/ragleap-core)
+- [Microsoft says email spammers are adopting ASCII smuggling](https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/)
+- [Show HN: map data onto a globe](https://github.com/atlaslib/globe)
+- [Show HN: Free macOS App to import photos from memory card with file naming rules](https://github.com/jianfenglin-git/photo-batch-importer)
+- [Aerial Saw](https://en.wikipedia.org/wiki/Aerial_saw)
+- [Show HN: Hitomaki, a memento mori measured in toilet paper rolls](https://ag3497120.github.io/hitomaki/)
+- [El Niño Forecast to Be Strongest on Record](https://healthpolicy-watch.news/ongoing-el-nino-set-to-strongest-on-record-increasing-risks-of-extreme-weather-into-2027/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

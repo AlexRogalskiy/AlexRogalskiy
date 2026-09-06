@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [UK subsidence claims surge after hottest summer on record](https://www.theguardian.com/business/2026/sep/05/uk-insurers-surge-subsidence-claims-hottest-summer-on-record)
-- [Food delivery riders call on platforms to open up AI ‘black box’ they say has cut pay](https://www.theguardian.com/business/2026/sep/05/food-delivery-riders-platforms-open-ai-black-box-cut-pay)
-- [Colin from Accounts: a show so fearless and hilarious that I want to get a tattoo of it](https://www.theguardian.com/tv-and-radio/2026/sep/05/colin-from-accounts-a-show-so-fearless-and-hilarious-that-i-want-to-get-a-tattoo-of-it)
-- [A £500 gift or a free toothbrush: is it worth switching bank accounts?](https://www.theguardian.com/money/2026/sep/05/swich-bank-accounts-gift-free-toothbrush)
-- [A city break in Łódź, Poland’s capital of cinema and factories](https://www.theguardian.com/travel/2026/sep/05/city-break-lodz-poland-film-capital)
-- [What colour is octopus’s blood and how heavy is the sky? The kids’ quiz](https://www.theguardian.com/lifeandstyle/2026/sep/05/what-colour-is-octopus-blood-and-how-heavy-is-the-sky-the-kids-quiz)
-- [The Guide #259: What to watch this Oscars film season](https://www.theguardian.com/culture/2026/sep/04/what-to-watch-this-oscars-film-season)
-- [What links Baby Reindeer, Fleabag and Taskmaster? The Saturday quiz](https://www.theguardian.com/lifeandstyle/2026/sep/05/what-links-baby-reindeer-fleabag-and-taskmaster-the-saturday-quiz)
-- [TV tonight: Gary Lineker makes Z-listers do silly things for his new show](https://www.theguardian.com/tv-and-radio/2026/sep/05/tv-tonight-gary-lineker-makes-z-listers-do-silly-things-for-his-new-show)
-- [Losing a parent is a bewildering, lonely experience. Here are the things I wish I had known before | Gaby Hinsliff](https://www.theguardian.com/commentisfree/2026/sep/05/losing-parent-bewildering-lonely-experience)
+- [Volcanic ash cloud halts flights at five Indonesian airports, including Jakarta’s](https://www.theguardian.com/world/2026/sep/06/volcanic-ash-cloud-halts-flights-at-indonesias-main-international-airport)
+- [Broken feet, ripped-out hair and now a death sentence: the fate of twin sisters jailed over Iran protests](https://www.theguardian.com/world/2026/sep/06/taraneh-romina-rahimi-twin-sisters-jailed-over-iran-protests)
+- [Falklands row shows urgent need to commit to 3% target, says Labour defence committee chair](https://www.theguardian.com/politics/2026/sep/06/falklands-row-raise-defence-spending-tan-dhesi-labour)
+- [The student loan scam looking to dupe already anxious students](https://www.theguardian.com/money/2026/sep/06/student-loan-scam-maintenance-funds-dupe-students)
+- [‘Fabulous museums and no queues’: five of the best under-the-radar city breaks in Europe](https://www.theguardian.com/travel/2026/sep/06/under-radar-city-breaks-europe-hidden-gems)
+- [TV tonight: laughter and horror in a dark new Aussie crime comedy](https://www.theguardian.com/tv-and-radio/2026/sep/06/tv-tonight-laughter-and-horror-in-a-dark-new-aussie-comedy)
+- [Kintsu, Colchester, Essex: ‘Style as well as substance’ – restaurant review](https://www.theguardian.com/food/2026/sep/06/kintsu-colchester-essex-restaurant-review-grace-dent)
+- [Memory of water: the women reshaping Venice – in pictures](https://www.theguardian.com/world/2026/sep/06/memory-of-water-the-women-reshaping-venice-in-pictures)
+- [‘Britain’s Yellowstone’: restoration project aims to take the greed out of land acquisition](https://www.theguardian.com/environment/2026/sep/06/britain-yellowstone-restoration-project-take-greed-out-land-acquisition)
+- [I’ve always supported my dysfunctional siblings, but I’ve had enough. How can I divorce myself? | Annalisa Barbieri](https://www.theguardian.com/lifeandstyle/2026/sep/06/dysfunctional-siblings-divorce-myself-annalisa-barbieri)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

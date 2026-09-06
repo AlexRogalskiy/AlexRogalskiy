@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Imperial Colors Manifesto](https://qum.cz/imperial_colors/)
-- [Show HN: Mu, two-minute visualized lessons on modern AI](https://mu.vizuara.ai/)
-- [The U.N. backs a new world map showing Africa in its true relative size](https://www.npr.org/2026/09/04/nx-s1-5958611/africa-world-map-un-vote)
-- [Show HN: RagLeap Core – 46 AI Employees, open-source LangChain alt](https://github.com/antonyrag/ragleap-core)
-- [Microsoft says email spammers are adopting ASCII smuggling](https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/)
-- [Show HN: map data onto a globe](https://github.com/atlaslib/globe)
-- [Show HN: Free macOS App to import photos from memory card with file naming rules](https://github.com/jianfenglin-git/photo-batch-importer)
-- [Aerial Saw](https://en.wikipedia.org/wiki/Aerial_saw)
-- [Show HN: Hitomaki, a memento mori measured in toilet paper rolls](https://ag3497120.github.io/hitomaki/)
-- [El Niño Forecast to Be Strongest on Record](https://healthpolicy-watch.news/ongoing-el-nino-set-to-strongest-on-record-increasing-risks-of-extreme-weather-into-2027/)
+- [Celebrating Kazakhstan&#39;s first wild-born Przewalski&#39;s horse in 200 years](https://www.fauna-flora.org/news/celebrating-kazakhstans-first-wild-born-przewalskis-horse-in-200-years/)
+- [MCP server for 340k SVG icons](https://github.com/LeulAria/Aria-Icons)
+- [Our Suggestion Box](https://medium.com/luminasticity/our-suggestion-box-247d754ae1ad)
+- [Show HN: Slock – A one-bit messenger inside your capslock key](https://github.com/jonaraphael/slock)
+- [Archival Resource Keys &lpar;ARKs&rpar; serve as persistent identifiers](https://arks.org/)
+- [Reimagining projections for the interactive maps era &lpar;2021&rpar;](https://www.mapbox.com/blog/adaptive-projections)
+- [Site Is Closed on Sundays](https://v7.robweychert.com/)
+- [I built an interactive networking lab for learning network engineering](https://net-forge-kappa.vercel.app/)
+- [An advanced attacker is targeting Salesforce and ServiceNow instances worldwide](https://www.reco.ai/blog/city-forum-campaign-salesforce-servicenow)
+- [Show HN: Public message board for limited systems](https://anystation.net/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

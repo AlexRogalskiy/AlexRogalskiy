@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Celebrating Kazakhstan&#39;s first wild-born Przewalski&#39;s horse in 200 years](https://www.fauna-flora.org/news/celebrating-kazakhstans-first-wild-born-przewalskis-horse-in-200-years/)
-- [MCP server for 340k SVG icons](https://github.com/LeulAria/Aria-Icons)
-- [Our Suggestion Box](https://medium.com/luminasticity/our-suggestion-box-247d754ae1ad)
-- [Show HN: Slock – A one-bit messenger inside your capslock key](https://github.com/jonaraphael/slock)
-- [Archival Resource Keys &lpar;ARKs&rpar; serve as persistent identifiers](https://arks.org/)
-- [Reimagining projections for the interactive maps era &lpar;2021&rpar;](https://www.mapbox.com/blog/adaptive-projections)
-- [Site Is Closed on Sundays](https://v7.robweychert.com/)
-- [I built an interactive networking lab for learning network engineering](https://net-forge-kappa.vercel.app/)
-- [An advanced attacker is targeting Salesforce and ServiceNow instances worldwide](https://www.reco.ai/blog/city-forum-campaign-salesforce-servicenow)
-- [Show HN: Public message board for limited systems](https://anystation.net/)
+- [CRISPR editing of ANGPTL3: one-time precision therapy for dyslipidaemia](https://www.nature.com/articles/s41392-026-02605-8)
+- [1M Lines of AI-Assisted Code in 2025](https://jonathanclark.com/posts/ai-coding-million-lines-2025.html)
+- [Elizabeth Holmes A24 Movie – You Can See Everything – Official Teaser HD [video]](https://www.youtube.com/watch?v=GGJSRFWALTI)
+- [Wan 3.0 at 68% of Alibaba Cloud&#39;s international list price, Prime at 78%](https://reapi.ai/models/wan-3-0)
+- [Pandora&#39;s Vox: On Community in Cyberspace &lpar;1994&rpar;](https://gist.github.com/kolber/2131643)
+- [China Prepares for Space Warfare&lpar;apparently&rpar;](https://www.reuters.com/world/asia-pacific/us-china-arm-space-warfare-hunter-satellites-orbital-weapons-2026-09-02/)
+- [Show HN: Wb-Flow – Agentic Coding with Planned, Parallel Waves](https://github.com/wissemb11/wb-flow)
+- [Show HN: Remove people from photos by brushing over them](https://personremover.org/)
+- [Astra made Van Gogh in a single pre computed step of 5291 excalidraw shapes](https://twitter.com/hive_echo/status/2096848073033146580)
+- [Meta blocks accounts protesting Kushner-linked Albanian resort project](https://www.politico.eu/article/meta-blocks-accounts-politicians-journalists-and-activists-protesting-jared-kushner-linked-albania-resort/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

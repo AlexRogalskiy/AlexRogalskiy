@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Volcanic ash cloud halts flights at five Indonesian airports, including Jakarta’s](https://www.theguardian.com/world/2026/sep/06/volcanic-ash-cloud-halts-flights-at-indonesias-main-international-airport)
-- [Broken feet, ripped-out hair and now a death sentence: the fate of twin sisters jailed over Iran protests](https://www.theguardian.com/world/2026/sep/06/taraneh-romina-rahimi-twin-sisters-jailed-over-iran-protests)
-- [Falklands row shows urgent need to commit to 3% target, says Labour defence committee chair](https://www.theguardian.com/politics/2026/sep/06/falklands-row-raise-defence-spending-tan-dhesi-labour)
-- [The student loan scam looking to dupe already anxious students](https://www.theguardian.com/money/2026/sep/06/student-loan-scam-maintenance-funds-dupe-students)
-- [‘Fabulous museums and no queues’: five of the best under-the-radar city breaks in Europe](https://www.theguardian.com/travel/2026/sep/06/under-radar-city-breaks-europe-hidden-gems)
-- [TV tonight: laughter and horror in a dark new Aussie crime comedy](https://www.theguardian.com/tv-and-radio/2026/sep/06/tv-tonight-laughter-and-horror-in-a-dark-new-aussie-comedy)
-- [Kintsu, Colchester, Essex: ‘Style as well as substance’ – restaurant review](https://www.theguardian.com/food/2026/sep/06/kintsu-colchester-essex-restaurant-review-grace-dent)
-- [Memory of water: the women reshaping Venice – in pictures](https://www.theguardian.com/world/2026/sep/06/memory-of-water-the-women-reshaping-venice-in-pictures)
-- [‘Britain’s Yellowstone’: restoration project aims to take the greed out of land acquisition](https://www.theguardian.com/environment/2026/sep/06/britain-yellowstone-restoration-project-take-greed-out-land-acquisition)
-- [I’ve always supported my dysfunctional siblings, but I’ve had enough. How can I divorce myself? | Annalisa Barbieri](https://www.theguardian.com/lifeandstyle/2026/sep/06/dysfunctional-siblings-divorce-myself-annalisa-barbieri)
+- [First annual fall in UK house prices since November 2023, led by London and the south – business live](https://www.theguardian.com/business/live/2026/sep/07/uk-house-prices-fall-subdued-market-jlr-job-cuts-shares-oil-latest-news-updates)
+- [‘We can win here’: Zack Polanski presses the flesh in Holborn and St Pancras](https://www.theguardian.com/politics/2026/sep/07/we-can-win-here-zack-polanski-presses-the-flesh-in-holborn-and-st-pancras)
+- [England’s housing courts at breaking point as renters battle no-fault evictions](https://www.theguardian.com/society/2026/sep/07/englands-housing-courts-at-breaking-point-as-renters-battle-no-fault-evictions)
+- [Tiny cash buffers leave small UK TV firms at risk of going bust, analysis finds](https://www.theguardian.com/media/2026/sep/07/tiny-cash-buffers-leave-small-uk-tv-firms-at-risk-of-going-bust-analysis-finds)
+- [Unidentified Murder review – playful sendup of alien abduction and true crime influencers in Hong Kong](https://www.theguardian.com/film/2026/sep/07/unidentified-review-playful-sendup-of-alien-abduction-and-true-influencers-in-hong-kong)
+- [Ministers propose converting female prison estate into cells for men](https://www.theguardian.com/society/2026/sep/07/ministers-propose-converting-female-prison-estate-into-cells-for-men)
+- [Students: as cycle thefts soar, here’s how to protect your bike](https://www.theguardian.com/lifeandstyle/2026/sep/07/bike-theft-university-stolen-lock-insurance)
+- [A crucial look at the disappearance of Austin Tice: best podcasts of the week](https://www.theguardian.com/tv-and-radio/2026/sep/07/a-crucial-look-at-the-disappearance-of-austin-tice-best-podcasts-of-the-week)
+- [Going for gold: an early autumn road trip across Finland’s sparkling lake district](https://www.theguardian.com/travel/2026/sep/07/autumn-road-trip-finland-lake-district)
+- [Pixel 11 review: Google sets the bar for standard flagship phones](https://www.theguardian.com/technology/2026/sep/07/pixel-11-review-google-flagship-phones-battery-cameras-android)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [First annual fall in UK house prices since November 2023, led by London and the south – business live](https://www.theguardian.com/business/live/2026/sep/07/uk-house-prices-fall-subdued-market-jlr-job-cuts-shares-oil-latest-news-updates)
-- [‘We can win here’: Zack Polanski presses the flesh in Holborn and St Pancras](https://www.theguardian.com/politics/2026/sep/07/we-can-win-here-zack-polanski-presses-the-flesh-in-holborn-and-st-pancras)
-- [England’s housing courts at breaking point as renters battle no-fault evictions](https://www.theguardian.com/society/2026/sep/07/englands-housing-courts-at-breaking-point-as-renters-battle-no-fault-evictions)
-- [Tiny cash buffers leave small UK TV firms at risk of going bust, analysis finds](https://www.theguardian.com/media/2026/sep/07/tiny-cash-buffers-leave-small-uk-tv-firms-at-risk-of-going-bust-analysis-finds)
-- [Unidentified Murder review – playful sendup of alien abduction and true crime influencers in Hong Kong](https://www.theguardian.com/film/2026/sep/07/unidentified-review-playful-sendup-of-alien-abduction-and-true-influencers-in-hong-kong)
-- [Ministers propose converting female prison estate into cells for men](https://www.theguardian.com/society/2026/sep/07/ministers-propose-converting-female-prison-estate-into-cells-for-men)
-- [Students: as cycle thefts soar, here’s how to protect your bike](https://www.theguardian.com/lifeandstyle/2026/sep/07/bike-theft-university-stolen-lock-insurance)
-- [A crucial look at the disappearance of Austin Tice: best podcasts of the week](https://www.theguardian.com/tv-and-radio/2026/sep/07/a-crucial-look-at-the-disappearance-of-austin-tice-best-podcasts-of-the-week)
-- [Going for gold: an early autumn road trip across Finland’s sparkling lake district](https://www.theguardian.com/travel/2026/sep/07/autumn-road-trip-finland-lake-district)
-- [Pixel 11 review: Google sets the bar for standard flagship phones](https://www.theguardian.com/technology/2026/sep/07/pixel-11-review-google-flagship-phones-battery-cameras-android)
+- [Oil price approaches $100 a barrel after attacks on Saudi oil facilities – business live](https://www.theguardian.com/business/live/2026/sep/08/oil-price-approaches-100-a-barrel-saudi-attacks-bank-of-england-latest-news-updates)
+- [Why India’s economic data has sparked a furore](https://www.theguardian.com/world/2026/sep/07/why-indias-economic-data-faces-a-trust-deficit)
+- [‘It breaks my heart’: far-right’s big election victory sparks dismay in German state capital](https://www.theguardian.com/world/2026/sep/08/germany-afd-far-right-election-victory-saxony-anhalt)
+- [Newcastle admit they started planning for Eddie Howe’s exit at start of year](https://www.theguardian.com/football/2026/sep/08/eddie-howe-newcastle-exit-timing-matthias-jaissle-bruno-guimaraes-ross-wilson)
+- [The Newer World by Sebastian Barry review – a near-miracle of storytelling](https://www.theguardian.com/books/2026/sep/08/the-newer-world-by-sebastian-barry-review-a-near-miracle-of-storytelling)
+- [Better Go Mad in the Wild review – boozing, bantering hermits impart their spiritual wisdom](https://www.theguardian.com/film/2026/sep/08/better-go-mad-in-the-wild-review-boozing-bantering-hermits-impart-their-spiritual-wisdom)
+- [I paid my Ulez charge, but I am still receiving threats from TfL](https://www.theguardian.com/money/2026/sep/08/ulez-charge-fine-tfl-threats-appeal-rejected)
+- [‘So big and so close’: going on a bear hunt in northern Spain](https://www.theguardian.com/travel/2026/sep/08/brown-bear-conservation-tourism-northern-spain-asturias)
+- [Scarves, hijabs and a grand boubou: unmasking identity – in pictures](https://www.theguardian.com/artanddesign/gallery/2026/sep/08/scarves-hijabs-and-a-grand-boubou-unmasking-identity-in-pictures-souleymane-bachir-diaw)
+- [Tokyo tourist hotspot bans short-term rentals amid surge in complaints](https://www.theguardian.com/world/2026/sep/08/shinjuku-tokyo-tourism-hotspot-bans-short-term-rentals-airbnb-surge-in-complaints)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

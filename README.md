@@ -355,6 +355,8 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Sam Altman calls GPT-6 Astra rollout ‘messy’ as enterprise users wait for access](https://www.computerworld.com/article/4219264/sam-altman-calls-gpt-6-astra-rollout-messy-as-enterprise-users-wait-for-access-2.html)
+- [16 Gmail power moves for more efficient inbox management](https://www.computerworld.com/article/1689055/gmail-tips-snoozing-shortcuts-and-other-time-savers.html)
 - [How to automate your Gmail inbox — without AI](https://www.computerworld.com/article/1659094/how-gmail-filters-can-help-organize-your-inbox.html)
 - [Nvidia-Hugging Face deal could require an enterprise AI rethink](https://www.computerworld.com/article/4218826/nvidia-hugging-face-deal-could-require-an-enterprise-ai-rethink.html)
 - [Macs don’t just do AI, they’re replacing the cloud for it](https://www.computerworld.com/article/4218761/macs-dont-just-do-ai-theyre-replacing-the-cloud-for-it.html)
@@ -363,8 +365,6 @@
 - [Adobe replaces CEO with customer experience leader](https://www.computerworld.com/article/4218712/adobe-replaces-ceo-with-customer-experience-leader.html)
 - [Gmail labels: Your secret weapon against inbox chaos](https://www.computerworld.com/article/1663877/how-to-use-gmail-labels-to-tame-your-inbox.html)
 - [OpenAI launches GPT-6 Astra, its first model to cross a critical cybersecurity threshold](https://www.computerworld.com/article/4218691/openai-launches-gpt-6-astra-its-first-model-to-cross-a-critical-cybersecurity-threshold-3.html)
-- [ChatGPT, Claude, and Grok all went down at once; enterprises need a backup plan](https://www.computerworld.com/article/4218388/chatgpt-claude-and-grok-all-went-down-at-once-enterprises-need-a-backup-plan.html)
-- [Word and Outlook will stop trying to guess what you’re going to type](https://www.computerworld.com/article/4218285/word-and-outlook-will-stop-trying-to-guess-what-youre-going-to-type.html)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

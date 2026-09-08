@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [CRISPR editing of ANGPTL3: one-time precision therapy for dyslipidaemia](https://www.nature.com/articles/s41392-026-02605-8)
-- [1M Lines of AI-Assisted Code in 2025](https://jonathanclark.com/posts/ai-coding-million-lines-2025.html)
-- [Elizabeth Holmes A24 Movie – You Can See Everything – Official Teaser HD [video]](https://www.youtube.com/watch?v=GGJSRFWALTI)
-- [Wan 3.0 at 68% of Alibaba Cloud&#39;s international list price, Prime at 78%](https://reapi.ai/models/wan-3-0)
-- [Pandora&#39;s Vox: On Community in Cyberspace &lpar;1994&rpar;](https://gist.github.com/kolber/2131643)
-- [China Prepares for Space Warfare&lpar;apparently&rpar;](https://www.reuters.com/world/asia-pacific/us-china-arm-space-warfare-hunter-satellites-orbital-weapons-2026-09-02/)
-- [Show HN: Wb-Flow – Agentic Coding with Planned, Parallel Waves](https://github.com/wissemb11/wb-flow)
-- [Show HN: Remove people from photos by brushing over them](https://personremover.org/)
-- [Astra made Van Gogh in a single pre computed step of 5291 excalidraw shapes](https://twitter.com/hive_echo/status/2096848073033146580)
-- [Meta blocks accounts protesting Kushner-linked Albanian resort project](https://www.politico.eu/article/meta-blocks-accounts-politicians-journalists-and-activists-protesting-jared-kushner-linked-albania-resort/)
+- [UAE-based Falcon AI NSFW classifier among top global open-source models &lpar;2025&rpar;](https://www.middleeastainews.com/p/uae-ai-model-tops-50-million-monthly)
+- [PS5 emulator can now run the console version of GTA V](https://www.tomshardware.com/video-games/pc-gaming/ps5-emulator-can-now-run-the-console-version-of-gta-v-at-up-to-60-fps-on-pc-but-quickly-crashes-as-tweakers-continue-to-optimize-ps5-emulation-advancing-at-an-astronomical-pace-leading-up-to-gta-vi-launch)
+- [What is your thought about the future on video extend developing?](https://videoall.ai/video‑extend)
+- [Working with Git Worktrees in Magit](https://emacsredux.com/blog/2026/09/02/working-with-git-worktrees-in-magit/)
+- [0Pirate – AST-level code anonymizer and MCP proxy for frontier LLMs](https://pypi.org/project/0pirate/)
+- [JIT Context OS – Epistemic context runtime for coding agents](https://github.com/wojciechwiesner/jit-context)
+- [Show HN: MacDelta – A ChangeLog for Your Mac](https://macdelta.app)
+- [CodeMetrics.CLI for C# projects in VS Code and Visual Studio](https://github.com/quicksln/CodeMetrics.CLI)
+- [TrustNotch – Tamper-evident audit logs for AI agents, verifiable offline](https://trustnotch.com/)
+- [My first extension with 20 useful features](https://chromewebstore.google.com/detail/digital-shield-tab-suspen/pkonihncnkmbejhhjadaognganhinnhc)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

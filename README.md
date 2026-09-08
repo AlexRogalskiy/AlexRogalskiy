@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Switzerland&#39;s Federal Government Is Replacing Microsoft on 3k Computers](https://itsfoss.com/news/switzerland-replace-microssoft-pilot/)
-- [Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs](https://github.com/timgordontg/engrim)
-- [TiVo to charge money for skipping commercials in your own recordings](https://cordcuttersnews.com/tivo-plans-to-end-free-automatic-commercial-skipping-in-november-tests-paid-premium-replacement-service/)
-- [I refused to train the AI that could replace me](https://restofworld.org/2026/ai-training-jobs-expert-replacement/)
-- [Keep Our Servers Running](https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/)
-- [Has anybody seen my keys? A key-hierarchy strategy for rack-level security](https://rfd.shared.oxide.computer/rfd/0301)
-- [Show HN: GET Together – A social network where you don&#39;t need POST to Post](https://gettogether.dev)
-- [Making a Python interpreter in 1024 bytes](https://austinhenley.com/blog/python1024.html)
-- [Is mathematics about to enter the conservatory?](https://mbmccoy.dev/posts/mathematical-conservatory/)
-- [Signing TLS handshakes inside a TPM](https://bschaatsbergen.com/posts/go-tpm-tls/)
+- [Navier-Stokes – Tristan Buckmaster [pdf]](https://cims.nyu.edu/~tristanb/statement.pdf)
+- [Multi-Agents LLM Financial Trading Framework](https://github.com/TauricResearch/TradingAgents)
+- [My Feed, My Way](https://www.pm.gov.au/media/my-feed-my-way)
+- [Mistral raises €3B to make sovereign, open-weight AI the technology frontier](https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/)
+- [We have a year to fix security everywhere](https://jyn.dev/a-year-to-fix-security/)
+- [The VMs Powering Mobile Agents &lpar;Instinct, Claude Code&rpar;](https://rohanadwankar.github.io/posts/platforms.html)
+- [Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics](https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics)
+- [I tested 10 model/harness combinations on the same Three.js task](https://alvins82.github.io/hangar-harness-model-tests/)
+- [GamersNexus and LG: Or why rooting your TV is a bad idea](https://leaflet.pub/p/did:plc:yhgc5rlqhoezrx6fbawajxlh/3muwrqenzfk2n)
+- [How well do agents use test/verification techniques?](https://danluu.com/agentic-testing/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

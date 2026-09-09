@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Oil price approaches $100 a barrel after attacks on Saudi oil facilities – business live](https://www.theguardian.com/business/live/2026/sep/08/oil-price-approaches-100-a-barrel-saudi-attacks-bank-of-england-latest-news-updates)
-- [Why India’s economic data has sparked a furore](https://www.theguardian.com/world/2026/sep/07/why-indias-economic-data-faces-a-trust-deficit)
-- [‘It breaks my heart’: far-right’s big election victory sparks dismay in German state capital](https://www.theguardian.com/world/2026/sep/08/germany-afd-far-right-election-victory-saxony-anhalt)
-- [Newcastle admit they started planning for Eddie Howe’s exit at start of year](https://www.theguardian.com/football/2026/sep/08/eddie-howe-newcastle-exit-timing-matthias-jaissle-bruno-guimaraes-ross-wilson)
-- [The Newer World by Sebastian Barry review – a near-miracle of storytelling](https://www.theguardian.com/books/2026/sep/08/the-newer-world-by-sebastian-barry-review-a-near-miracle-of-storytelling)
-- [Better Go Mad in the Wild review – boozing, bantering hermits impart their spiritual wisdom](https://www.theguardian.com/film/2026/sep/08/better-go-mad-in-the-wild-review-boozing-bantering-hermits-impart-their-spiritual-wisdom)
-- [I paid my Ulez charge, but I am still receiving threats from TfL](https://www.theguardian.com/money/2026/sep/08/ulez-charge-fine-tfl-threats-appeal-rejected)
-- [‘So big and so close’: going on a bear hunt in northern Spain](https://www.theguardian.com/travel/2026/sep/08/brown-bear-conservation-tourism-northern-spain-asturias)
-- [Scarves, hijabs and a grand boubou: unmasking identity – in pictures](https://www.theguardian.com/artanddesign/gallery/2026/sep/08/scarves-hijabs-and-a-grand-boubou-unmasking-identity-in-pictures-souleymane-bachir-diaw)
-- [Tokyo tourist hotspot bans short-term rentals amid surge in complaints](https://www.theguardian.com/world/2026/sep/08/shinjuku-tokyo-tourism-hotspot-bans-short-term-rentals-airbnb-surge-in-complaints)
+- [US Open 2026 quarter-final: Ben Shelton v Carlos Alcaraz goes to final set – live](https://www.theguardian.com/sport/live/2026/sep/08/ben-shelton-v-carlos-alcaraz-us-open-2026-quarter-final-live-updates)
+- [Drinking very hot drinks could triple risk of oesophageal cancer, study finds](https://www.theguardian.com/society/2026/sep/09/hot-drinks-triples-risk-oesophageal-cancer-study)
+- [Tame Impala frontman announces he will no longer sign autographs due to ‘aggressive’ collectors](https://www.theguardian.com/music/2026/sep/09/tame-impala-autograph-ban-kevin-parker)
+- [Reform UK says migrant deal was ratified by far-right National Rally president](https://www.theguardian.com/world/2026/sep/09/reform-uk-national-rally-migrants-deal-farage-bardella)
+- [Apple expected to unveil folding iPhone as new CEO takes center stage](https://www.theguardian.com/technology/2026/sep/08/apple-new-folding-iphone)
+- [Strong, silent types? Meet the puesteros of Chile – in pictures](https://www.theguardian.com/artanddesign/gallery/2026/sep/09/strong-silent-types-meet-the-puesteros-of-chile-in-pictures)
+- [Polanski calls for report on ecosystem collapse to be published in full](https://www.theguardian.com/politics/2026/sep/09/zack-polanski-calls-report-ecosystem-collapse-published-greens)
+- [Europe’s wildest pilgrimage route: a trek through the mountains of north-west Sweden](https://www.theguardian.com/travel/2026/sep/09/europe-wildest-pilgrimage-trek-north-west-sweden-mountains)
+- [What Should My Children Do? by Daniel Susskind review – the case for embracing tech in the classroom](https://www.theguardian.com/books/2026/sep/09/what-should-my-children-do-by-daniel-susskind-review-the-case-for-embracing-tech-in-the-classroom)
+- [UK datacentres will create just 25% of jobs predicted by tech sector, analysis finds](https://www.theguardian.com/uk-news/2026/sep/09/uk-datacentres-will-create-just-25-of-jobs-predicted-by-tech-sector-analysis-finds)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

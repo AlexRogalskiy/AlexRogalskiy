@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Leap second proposal will keep software stacks in sync](https://www.computerworld.com/article/4220034/leap-second-proposal-will-keep-software-stacks-in-sync-2.html)
+- [Apple after Cook: The Ternus age begins this week](https://www.computerworld.com/article/4219454/apple-after-cook-the-ternus-age-begins-this-week.html)
+- [Swiss government explores replacing Microsoft 365 with open-source software](https://www.computerworld.com/article/4219743/swiss-authorities-want-to-replace-microsoft-365-with-open-source-software.html)
+- [Judge spares Google’s ad-tech business from a breakup](https://www.computerworld.com/article/4218844/judge-spares-googles-ad-tech-business-from-a-breakup.html)
+- [BigBear 2.0 phishing campaign hijacks Microsoft 365 sessions after MFA](https://www.computerworld.com/article/4219614/bigbear-2-0-phishing-campaign-hijacks-microsoft-365-sessions-after-mfa-2.html)
 - [Sam Altman calls GPT-6 Astra rollout ‘messy’ as enterprise users wait for access](https://www.computerworld.com/article/4219264/sam-altman-calls-gpt-6-astra-rollout-messy-as-enterprise-users-wait-for-access-2.html)
 - [16 Gmail power moves for more efficient inbox management](https://www.computerworld.com/article/1689055/gmail-tips-snoozing-shortcuts-and-other-time-savers.html)
+- [Google US antitrust trials: A timeline](https://www.computerworld.com/article/1635715/googles-us-antitrust-trials-a-timeline.html)
 - [How to automate your Gmail inbox — without AI](https://www.computerworld.com/article/1659094/how-gmail-filters-can-help-organize-your-inbox.html)
 - [Nvidia-Hugging Face deal could require an enterprise AI rethink](https://www.computerworld.com/article/4218826/nvidia-hugging-face-deal-could-require-an-enterprise-ai-rethink.html)
-- [Macs don’t just do AI, they’re replacing the cloud for it](https://www.computerworld.com/article/4218761/macs-dont-just-do-ai-theyre-replacing-the-cloud-for-it.html)
-- [Nvidia lets you build your own AI clusters locally with PAIR software](https://www.computerworld.com/article/4218798/nvidia-lets-you-build-your-own-ai-clusters-locally-with-pair-software-2.html)
-- [Bidding war for defunct Spirit Airlines’ employee data will not die](https://www.computerworld.com/article/4218782/bidding-war-for-defunct-spirit-airlines-employee-data-will-not-die-2.html)
-- [Adobe replaces CEO with customer experience leader](https://www.computerworld.com/article/4218712/adobe-replaces-ceo-with-customer-experience-leader.html)
-- [Gmail labels: Your secret weapon against inbox chaos](https://www.computerworld.com/article/1663877/how-to-use-gmail-labels-to-tame-your-inbox.html)
-- [OpenAI launches GPT-6 Astra, its first model to cross a critical cybersecurity threshold](https://www.computerworld.com/article/4218691/openai-launches-gpt-6-astra-its-first-model-to-cross-a-critical-cybersecurity-threshold-3.html)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

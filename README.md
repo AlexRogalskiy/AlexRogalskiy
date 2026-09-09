@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [UAE-based Falcon AI NSFW classifier among top global open-source models &lpar;2025&rpar;](https://www.middleeastainews.com/p/uae-ai-model-tops-50-million-monthly)
-- [PS5 emulator can now run the console version of GTA V](https://www.tomshardware.com/video-games/pc-gaming/ps5-emulator-can-now-run-the-console-version-of-gta-v-at-up-to-60-fps-on-pc-but-quickly-crashes-as-tweakers-continue-to-optimize-ps5-emulation-advancing-at-an-astronomical-pace-leading-up-to-gta-vi-launch)
-- [What is your thought about the future on video extend developing?](https://videoall.ai/video‑extend)
-- [Working with Git Worktrees in Magit](https://emacsredux.com/blog/2026/09/02/working-with-git-worktrees-in-magit/)
-- [0Pirate – AST-level code anonymizer and MCP proxy for frontier LLMs](https://pypi.org/project/0pirate/)
-- [JIT Context OS – Epistemic context runtime for coding agents](https://github.com/wojciechwiesner/jit-context)
-- [Show HN: MacDelta – A ChangeLog for Your Mac](https://macdelta.app)
-- [CodeMetrics.CLI for C# projects in VS Code and Visual Studio](https://github.com/quicksln/CodeMetrics.CLI)
-- [TrustNotch – Tamper-evident audit logs for AI agents, verifiable offline](https://trustnotch.com/)
-- [My first extension with 20 useful features](https://chromewebstore.google.com/detail/digital-shield-tab-suspen/pkonihncnkmbejhhjadaognganhinnhc)
+- [CMAPSS Jet Engine Simulated Data](https://data.nasa.gov/dataset/cmapss-jet-engine-simulated-data)
+- [Micro – A Personal AI Assistant](https://micro.mu)
+- [AI agent spends too much time waiting](https://github.com/quazardous/jobbox)
+- [Software for Humans](https://clankerfree.org/)
+- [iTerm2 Companion App](https://iterm2.com/companion-app.html)
+- [Tagatose – naturally occurring sugar has a low glycemic index](https://www.sciencedaily.com/releases/2026/01/260112214302.htm)
+- [Kalman Delta Networks](https://arxiv.org/abs/2609.07816)
+- [What LLM coding agents have taken from me](https://www.awanderingmind.blog/posts/2026-08-08-what-llm-coding-agents-have-taken-from-me.html)
+- [iPhone Ultra](https://www.apple.com/iphone-ultra/)
+- [The Harvard Expert on Dishonesty Who Is Accused of Lying](https://www.theatlantic.com/science/archive/2023/07/francesca-gino-harvard-research-retraction/674630/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

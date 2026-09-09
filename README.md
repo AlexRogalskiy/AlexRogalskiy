@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Navier-Stokes – Tristan Buckmaster [pdf]](https://cims.nyu.edu/~tristanb/statement.pdf)
-- [Multi-Agents LLM Financial Trading Framework](https://github.com/TauricResearch/TradingAgents)
-- [My Feed, My Way](https://www.pm.gov.au/media/my-feed-my-way)
-- [Mistral raises €3B to make sovereign, open-weight AI the technology frontier](https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/)
-- [We have a year to fix security everywhere](https://jyn.dev/a-year-to-fix-security/)
-- [The VMs Powering Mobile Agents &lpar;Instinct, Claude Code&rpar;](https://rohanadwankar.github.io/posts/platforms.html)
-- [Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics](https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics)
-- [I tested 10 model/harness combinations on the same Three.js task](https://alvins82.github.io/hangar-harness-model-tests/)
-- [GamersNexus and LG: Or why rooting your TV is a bad idea](https://leaflet.pub/p/did:plc:yhgc5rlqhoezrx6fbawajxlh/3muwrqenzfk2n)
-- [How well do agents use test/verification techniques?](https://danluu.com/agentic-testing/)
+- [Copyright does more harm than good and should be abolished](https://grapheneos.social/@GrapheneOS/117231186011306184)
+- [The Navier–Stokes Millennium Prize Problem](https://simonwillison.net/2026/Sep/8/on-navier-stokes/)
+- [AI Has a Discovery Problem](https://mhacevedo.com/posts/the-discovery-problem)
+- [A Biography of Lee Holloway, the Architect of Cloudflare&#39;s Technology &lpar;Part 1&rpar;](https://note.com/masakazu_urabe/n/n7815f5b64fab?hl=en)
+- [The Nonfiction Book Market is Collapsing?](https://dearheadofmine.substack.com/p/the-nonfiction-book-market-is-collapsing)
+- [27.5KB language-agnostic WebGPU syntax highlighter](https://gpu-lexer.vercel.app/)
+- [I resigned from Anthropic today](https://twitter.com/hilbertspaess/status/2097476196791709843#m)
+- [A Topological Picture Book, Rendered](https://e-infinity.space/picture-book/)
+- [Large language models develop novel social biases through adaptive exploration](https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH)
+- [How to build a printer](https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

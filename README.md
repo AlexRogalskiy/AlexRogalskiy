@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [CMAPSS Jet Engine Simulated Data](https://data.nasa.gov/dataset/cmapss-jet-engine-simulated-data)
-- [Micro – A Personal AI Assistant](https://micro.mu)
-- [AI agent spends too much time waiting](https://github.com/quazardous/jobbox)
-- [Software for Humans](https://clankerfree.org/)
-- [iTerm2 Companion App](https://iterm2.com/companion-app.html)
-- [Tagatose – naturally occurring sugar has a low glycemic index](https://www.sciencedaily.com/releases/2026/01/260112214302.htm)
-- [Kalman Delta Networks](https://arxiv.org/abs/2609.07816)
-- [What LLM coding agents have taken from me](https://www.awanderingmind.blog/posts/2026-08-08-what-llm-coding-agents-have-taken-from-me.html)
-- [iPhone Ultra](https://www.apple.com/iphone-ultra/)
-- [The Harvard Expert on Dishonesty Who Is Accused of Lying](https://www.theatlantic.com/science/archive/2023/07/francesca-gino-harvard-research-retraction/674630/)
+- [Thom&#39;s account on an exchange with OpenAI regarding non-sofic groups](https://mathstodon.xyz/@andreasthom/117240535270608201)
+- [DeepSeek Flash v4.1](https://xcancel.com/deepseek_ai/status/2097930608790167907#m)
+- [&#39;Unique&#39; partnership with Canada forming ahead of PM Carney speech: EU envoy](https://www.ctvnews.ca/politics/article/eu-envoy-says-a-unique-new-partnership-with-canada-forming-ahead-of-carney-speech/)
+- [DeepSeek-v4.1-Flash: Pushing the Limits of KV Cache Compression [pdf]](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash/blob/main/DeepSeek_V41_Tech_Report.pdf)
+- [Show HN: Spm – a package manager for agent skills per-repository](https://camunda.github.io/spm-cli/)
+- [Show HN: HushBox – Offline encrypted photo/video vault for iOS](https://apps.apple.com/us/app/hushbox-vault/id6796247228)
+- [Pixel 11 Pro Review](https://www.theguardian.com/technology/2026/sep/10/pixel-11-pro-review-googles-best-pocket-camera-goes-customisable)
+- [Average Opus 5 Response](https://www.reddit.com/r/ClaudeCode/comments/1w3rxkj/average_opus_5_response/)
+- [Workshop System – an analog modular synth with swappable RP2040 program cards](https://www.musicthing.co.uk/workshopsystem/)
+- [Proof-of-Age Verification for Steam in AU Now Only Possible Using a Credit Card](https://www.ign.com/articles/proof-of-age-verification-for-steam-in-australia-now-only-possible-using-a-credit-card)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

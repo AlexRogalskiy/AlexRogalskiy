@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Copyright does more harm than good and should be abolished](https://grapheneos.social/@GrapheneOS/117231186011306184)
-- [The Navier–Stokes Millennium Prize Problem](https://simonwillison.net/2026/Sep/8/on-navier-stokes/)
-- [AI Has a Discovery Problem](https://mhacevedo.com/posts/the-discovery-problem)
-- [A Biography of Lee Holloway, the Architect of Cloudflare&#39;s Technology &lpar;Part 1&rpar;](https://note.com/masakazu_urabe/n/n7815f5b64fab?hl=en)
-- [The Nonfiction Book Market is Collapsing?](https://dearheadofmine.substack.com/p/the-nonfiction-book-market-is-collapsing)
-- [27.5KB language-agnostic WebGPU syntax highlighter](https://gpu-lexer.vercel.app/)
-- [I resigned from Anthropic today](https://twitter.com/hilbertspaess/status/2097476196791709843#m)
-- [A Topological Picture Book, Rendered](https://e-infinity.space/picture-book/)
-- [Large language models develop novel social biases through adaptive exploration](https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH)
-- [How to build a printer](https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/)
+- [DeepSeek v4.1 Flash](https://twitter.com/deepseek_ai/status/2097930608790167907)
+- [OpenAI might have stolen another major proof](https://twitter.com/ValerioCapraro/status/2097791836269977996)
+- [All grown-ups were once children… but only few of them remember it](https://mathstodon.xyz/@tao/117244102901892965)
+- [Training a 3.8B LLM to 0.384 CORE for $998 – Hugo Vergnes](https://hugovergnes.github.io/little-lm-3-8b/)
+- [A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming](https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/)
+- [Show HN: What if the speed of light was 5 km/h?](https://rivendell.dmitrybrant.com/relativity/)
+- [Automattic&#39;s board forces CEO Matt Mullenweg into leave of absence](https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/)
+- [Factoring RSA 260](https://cognition.com/blog/factoring-rsa-260)
+- [iPhone Duo](https://www.apple.com/iphone-duo/)
+- [Apple Watch Series 12](https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

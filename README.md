@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [US Open 2026 quarter-final: Ben Shelton v Carlos Alcaraz goes to final set – live](https://www.theguardian.com/sport/live/2026/sep/08/ben-shelton-v-carlos-alcaraz-us-open-2026-quarter-final-live-updates)
-- [Drinking very hot drinks could triple risk of oesophageal cancer, study finds](https://www.theguardian.com/society/2026/sep/09/hot-drinks-triples-risk-oesophageal-cancer-study)
-- [Tame Impala frontman announces he will no longer sign autographs due to ‘aggressive’ collectors](https://www.theguardian.com/music/2026/sep/09/tame-impala-autograph-ban-kevin-parker)
-- [Reform UK says migrant deal was ratified by far-right National Rally president](https://www.theguardian.com/world/2026/sep/09/reform-uk-national-rally-migrants-deal-farage-bardella)
-- [Apple expected to unveil folding iPhone as new CEO takes center stage](https://www.theguardian.com/technology/2026/sep/08/apple-new-folding-iphone)
-- [Strong, silent types? Meet the puesteros of Chile – in pictures](https://www.theguardian.com/artanddesign/gallery/2026/sep/09/strong-silent-types-meet-the-puesteros-of-chile-in-pictures)
-- [Polanski calls for report on ecosystem collapse to be published in full](https://www.theguardian.com/politics/2026/sep/09/zack-polanski-calls-report-ecosystem-collapse-published-greens)
-- [Europe’s wildest pilgrimage route: a trek through the mountains of north-west Sweden](https://www.theguardian.com/travel/2026/sep/09/europe-wildest-pilgrimage-trek-north-west-sweden-mountains)
-- [What Should My Children Do? by Daniel Susskind review – the case for embracing tech in the classroom](https://www.theguardian.com/books/2026/sep/09/what-should-my-children-do-by-daniel-susskind-review-the-case-for-embracing-tech-in-the-classroom)
-- [UK datacentres will create just 25% of jobs predicted by tech sector, analysis finds](https://www.theguardian.com/uk-news/2026/sep/09/uk-datacentres-will-create-just-25-of-jobs-predicted-by-tech-sector-analysis-finds)
+- [John Lewis losses widen to £124m as shopper confidence dips](https://www.theguardian.com/business/2026/sep/10/john-lewis-losses-double-shopper-confidence-weakens-waitrose)
+- [Pixel 11 Pro review: Google’s best pocket camera goes customisable](https://www.theguardian.com/technology/2026/sep/10/pixel-11-pro-review-googles-best-pocket-camera-goes-customisable)
+- [‘That’s how it started’: Dambrauskas’ journey from Who Wants to Be a Millionaire to Champions League](https://www.theguardian.com/football/2026/sep/10/valdas-dambrauskas-sabah-manchester-united-arsenal-champions-league)
+- [Pressure review – stormy weather in tense D-day forecast retelling](https://www.theguardian.com/film/2026/sep/10/pressure-review-stormy-weather-in-tense-d-day-forecast-retelling)
+- [Mauricio Pochettino: ‘I am always open to help Tottenham. In whatever division’](https://www.theguardian.com/football/2026/sep/10/mauricio-pochettino-tottenham-united-states-world-cup-england)
+- [How the fate of a small furry animal reveals the ecological tragedy of Israel’s war on Lebanon | Hisham Younes](https://www.theguardian.com/environment/2026/sep/10/how-the-fate-of-a-small-furry-animal-reveals-the-ecological-tragedy-of-israels-war-on-lebanon)
+- [Chelsea’s 2016-17 Premier League title should be given to Spurs, says Pochettino](https://www.theguardian.com/football/2026/sep/10/chelsea-2016-17-premier-league-title-tottenham-mauricio-pochettino)
+- [Make tracks: 8 of the UK’s best walking and cycling trails on former railway lines](https://www.theguardian.com/travel/2026/sep/10/8-uk-best-walking-cycling-trails-former-railway-lines)
+- [Is Vaibhav Sooryavanshi a post-Test cricketer – or could he revolutionise the format? | Jonathan Liew](https://www.theguardian.com/sport/2026/sep/10/vaibhav-sooryavanshi-india-twenty-20-test-cricket)
+- [Ridiculed by the press – and now King Charles is joining in. Sorry, Harry, but what did you expect? | Emma Brockes](https://www.theguardian.com/commentisfree/2026/sep/10/harry-king-charles-press-sussex-letter)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

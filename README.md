@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [DeepSeek v4.1 Flash](https://twitter.com/deepseek_ai/status/2097930608790167907)
-- [OpenAI might have stolen another major proof](https://twitter.com/ValerioCapraro/status/2097791836269977996)
-- [All grown-ups were once children… but only few of them remember it](https://mathstodon.xyz/@tao/117244102901892965)
-- [Training a 3.8B LLM to 0.384 CORE for $998 – Hugo Vergnes](https://hugovergnes.github.io/little-lm-3-8b/)
-- [A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming](https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/)
-- [Show HN: What if the speed of light was 5 km/h?](https://rivendell.dmitrybrant.com/relativity/)
-- [Automattic&#39;s board forces CEO Matt Mullenweg into leave of absence](https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/)
-- [Factoring RSA 260](https://cognition.com/blog/factoring-rsa-260)
-- [iPhone Duo](https://www.apple.com/iphone-duo/)
-- [Apple Watch Series 12](https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/)
+- [Astra for Coding: Why Are We Doing This Again?](https://lucumr.pocoo.org/2026/9/7/astra-why/)
+- [We Replaced MMAP with Io_uring in Our Rust Query Engine. It Got Slower](https://www.conviva.ai/resource/we-replaced-mmap-with-io_uring-in-our-rust-query-engine-it-got-slower/)
+- [The Gemini app is now available for Windows](https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/)
+- [Exercise intensity is associated with cardiometabolic health](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2)
+- [Mexican student creates an acoustic fire extinguisher to put out fire in seconds](https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/)
+- [Herdr Studio](https://powerfooI.github.io/herdr-studio/)
+- [Google will buy half the electricity from one of Finland&#39;s nuclear power plants](https://www.bbc.com/news/articles/c8r6y4me2g6o)
+- [YuE2 · Frontier Music with Symbolic Planning](https://map-yue2.github.io/)
+- [Thelio Mira AI Linux Workstation: 192 GB GPU Memory](https://system76.com/workstations/thelio-mira-ai)
+- [Nine coding harnesses vs. your laptop](https://nasutton.notion.site/Nine-coding-harnesses-vs-your-laptop-3d139990182b80d59fa3cf500f0450ba?pvs=74)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

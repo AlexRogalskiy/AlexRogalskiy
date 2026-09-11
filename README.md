@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [John Lewis losses widen to £124m as shopper confidence dips](https://www.theguardian.com/business/2026/sep/10/john-lewis-losses-double-shopper-confidence-weakens-waitrose)
-- [Pixel 11 Pro review: Google’s best pocket camera goes customisable](https://www.theguardian.com/technology/2026/sep/10/pixel-11-pro-review-googles-best-pocket-camera-goes-customisable)
-- [‘That’s how it started’: Dambrauskas’ journey from Who Wants to Be a Millionaire to Champions League](https://www.theguardian.com/football/2026/sep/10/valdas-dambrauskas-sabah-manchester-united-arsenal-champions-league)
-- [Pressure review – stormy weather in tense D-day forecast retelling](https://www.theguardian.com/film/2026/sep/10/pressure-review-stormy-weather-in-tense-d-day-forecast-retelling)
-- [Mauricio Pochettino: ‘I am always open to help Tottenham. In whatever division’](https://www.theguardian.com/football/2026/sep/10/mauricio-pochettino-tottenham-united-states-world-cup-england)
-- [How the fate of a small furry animal reveals the ecological tragedy of Israel’s war on Lebanon | Hisham Younes](https://www.theguardian.com/environment/2026/sep/10/how-the-fate-of-a-small-furry-animal-reveals-the-ecological-tragedy-of-israels-war-on-lebanon)
-- [Chelsea’s 2016-17 Premier League title should be given to Spurs, says Pochettino](https://www.theguardian.com/football/2026/sep/10/chelsea-2016-17-premier-league-title-tottenham-mauricio-pochettino)
-- [Make tracks: 8 of the UK’s best walking and cycling trails on former railway lines](https://www.theguardian.com/travel/2026/sep/10/8-uk-best-walking-cycling-trails-former-railway-lines)
-- [Is Vaibhav Sooryavanshi a post-Test cricketer – or could he revolutionise the format? | Jonathan Liew](https://www.theguardian.com/sport/2026/sep/10/vaibhav-sooryavanshi-india-twenty-20-test-cricket)
-- [Ridiculed by the press – and now King Charles is joining in. Sorry, Harry, but what did you expect? | Emma Brockes](https://www.theguardian.com/commentisfree/2026/sep/10/harry-king-charles-press-sussex-letter)
+- [Solheim Cup golf 2026: Europe v USA, day one – live](https://www.theguardian.com/sport/live/2026/sep/11/solheim-cup-golf-2026-day-one-live)
+- [Lucas Debargue: Gershwin Variations album review – freshness and flair](https://www.theguardian.com/music/2026/sep/11/lucas-debargue-gershwin-variations-album-review)
+- [MPs urged not to take ‘extraordinary risk’ of forcing through assisted dying bill as vote looms](https://www.theguardian.com/society/2026/sep/10/mps-commons-extraordinary-risk-forcing-through-assisted-dying-bill)
+- [UK economy defies forecasts with surprise 0.4% growth in July](https://www.theguardian.com/business/2026/sep/11/uk-economy-defies-forecasts-with-surprise-04-growth-in-july)
+- [‘I never imagined such pleasure could be had from the simple sardine’: readers’ favourite foodie experiences in Europe](https://www.theguardian.com/travel/2026/sep/11/readers-favourite-food-experiences-europe)
+- [Mistakes, mistrust and misdirection: 25 years after 9/11, its dark legacy continues to unfold](https://www.theguardian.com/us-news/ng-interactive/2026/sep/11/september-11-dark-legacy)
+- [Homes for sale in a national park in England – in pictures](https://www.theguardian.com/money/gallery/2026/sep/11/homes-for-sale-in-a-national-park-in-england-in-pictures)
+- [Slow Horses to Neagley: the seven best shows to stream this week](https://www.theguardian.com/tv-and-radio/2026/sep/11/slow-horses-to-neagley-the-seven-best-shows-to-stream-this-week)
+- [A Thought Without Collision by Adrian Duncan review – a brilliant interrogation of philosophy and wonder](https://www.theguardian.com/books/2026/sep/11/a-thought-without-collision-by-adrian-duncan-review-a-brilliant-interrogation-of-philosophy-and-wonder)
+- [BredaPhoto Festival  – in pictures](https://www.theguardian.com/artanddesign/gallery/2026/sep/11/bredaphoto-festival-in-pictures)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

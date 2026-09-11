@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Thom&#39;s account on an exchange with OpenAI regarding non-sofic groups](https://mathstodon.xyz/@andreasthom/117240535270608201)
-- [DeepSeek Flash v4.1](https://xcancel.com/deepseek_ai/status/2097930608790167907#m)
-- [&#39;Unique&#39; partnership with Canada forming ahead of PM Carney speech: EU envoy](https://www.ctvnews.ca/politics/article/eu-envoy-says-a-unique-new-partnership-with-canada-forming-ahead-of-carney-speech/)
-- [DeepSeek-v4.1-Flash: Pushing the Limits of KV Cache Compression [pdf]](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash/blob/main/DeepSeek_V41_Tech_Report.pdf)
-- [Show HN: Spm – a package manager for agent skills per-repository](https://camunda.github.io/spm-cli/)
-- [Show HN: HushBox – Offline encrypted photo/video vault for iOS](https://apps.apple.com/us/app/hushbox-vault/id6796247228)
-- [Pixel 11 Pro Review](https://www.theguardian.com/technology/2026/sep/10/pixel-11-pro-review-googles-best-pocket-camera-goes-customisable)
-- [Average Opus 5 Response](https://www.reddit.com/r/ClaudeCode/comments/1w3rxkj/average_opus_5_response/)
-- [Workshop System – an analog modular synth with swappable RP2040 program cards](https://www.musicthing.co.uk/workshopsystem/)
-- [Proof-of-Age Verification for Steam in AU Now Only Possible Using a Credit Card](https://www.ign.com/articles/proof-of-age-verification-for-steam-in-australia-now-only-possible-using-a-credit-card)
+- [XPENG&#39;s Humanoid Robots production line is finished](https://www.youtube.com/watch?v=ZgBm8PdtpGo)
+- [Cross-Lingual Alignment Without Joint Training](https://arxiv.org/abs/2608.27115)
+- [Measuring Malicious Intermediary Attacks on the LLM Supply Chain](https://arxiv.org/abs/2604.08407)
+- [Congress Is Suddenly Waking Up to the AI Doomsday Threat](https://www.wsj.com/politics/policy/congress-is-suddenly-waking-up-to-the-ai-doomsday-threat-b40ab25a)
+- [DeepSeek v4.1 Flash Uncensored](https://huggingface.co/dealignai/DeepSeek-V4.1-Flash-UNCENSORED-FP8)
+- [Show HN: Oxlint plugin to auto-fix non-canonical Tailwind classes](https://github.com/maharshi365/oxlint-plugin-tailwind-canonical)
+- [Anthropic is lying: Moonshot is not routing to Claude](https://twitter.com/trydotworks/status/2098300730805284961)
+- [Proposal: Cmd/cgo: cgo without a C toolchain](https://github.com/golang/go/issues/81450)
+- [Predicting AI Job Exposure](https://www.ben-evans.com/benedictevans/2026/5/24/ai-job-exposure)
+- [Read Independent Fiction](https://eveningnotes.bearblog.dev/read-independent-serialized-fiction-and-short-fiction-web-novels-webcomics-fanfiction-short-story-magazines/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

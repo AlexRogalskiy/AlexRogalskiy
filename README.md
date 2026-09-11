@@ -355,6 +355,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Automattic CEO Matt Mullenweg is out: Does this mean long-term viability, or liability, for WordPress customers?](https://www.computerworld.com/article/4220918/automattic-ceo-matt-mullenweg-is-out-does-this-mean-long-term-viability-or-liability-for-wordpress-customers.html)
+- [How Apple is trying to normalize always-on AI](https://www.computerworld.com/article/4220782/how-apple-is-trying-to-normalize-always-on-ai.html)
+- [Qualcomm’s next Snapdragon mobile chip comes into focus with on-device AI](https://www.computerworld.com/article/4220719/qualcomms-next-snapdragon-mobile-chip-comes-into-focus-with-on-device-ai.html)
 - [Anthropic maps three AI futures for 2030; the most extreme could upend the economy](https://www.computerworld.com/article/4220493/anthropic-maps-three-ai-futures-for-2030-the-most-extreme-could-upend-the-economy.html)
 - [Layoff remorse: Gartner says at least one in three positions eliminated by AI will be restored by 2029–at a higher cost](https://www.computerworld.com/article/4220413/layoff-remorse-gartner-says-at-least-one-in-three-positions-eliminated-by-ai-will-be-restored-by-2029-at-a-higher-cost.html)
 - [The iPhone is now Apple’s ‘intelligent personal hub’](https://www.computerworld.com/article/4220404/the-iphone-is-now-apples-intelligent-personal-hub.html)
@@ -362,9 +365,6 @@
 - [No, AI is not killing jobs for everyone, studies say](https://www.computerworld.com/article/4220365/no-ai-is-not-killing-jobs-for-everyone-studies-say.html)
 - [Siri AI Recaps? Even if Apple builds it responsibly, others might not](https://www.computerworld.com/article/4220223/siri-ai-recaps-even-if-apple-builds-it-responsibly-others-might-not.html)
 - [AI notetakers at work could leave companies at risk for lawsuits](https://www.computerworld.com/article/4219742/ai-notetakers-at-work-could-leave-companies-at-risk-for-lawsuits.html)
-- [Wanna make your own Android ping tone? Ask Gemini](https://www.computerworld.com/article/4219782/android-gemini-custom-ringtones-notification-sounds.html)
-- [Leap second proposal will keep software stacks in sync](https://www.computerworld.com/article/4220034/leap-second-proposal-will-keep-software-stacks-in-sync-2.html)
-- [Apple after Cook: The Ternus age begins this week](https://www.computerworld.com/article/4219454/apple-after-cook-the-ternus-age-begins-this-week.html)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

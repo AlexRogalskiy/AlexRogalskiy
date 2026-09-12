@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Astra for Coding: Why Are We Doing This Again?](https://lucumr.pocoo.org/2026/9/7/astra-why/)
-- [We Replaced MMAP with Io_uring in Our Rust Query Engine. It Got Slower](https://www.conviva.ai/resource/we-replaced-mmap-with-io_uring-in-our-rust-query-engine-it-got-slower/)
-- [The Gemini app is now available for Windows](https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/)
-- [Exercise intensity is associated with cardiometabolic health](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2)
-- [Mexican student creates an acoustic fire extinguisher to put out fire in seconds](https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/)
-- [Herdr Studio](https://powerfooI.github.io/herdr-studio/)
-- [Google will buy half the electricity from one of Finland&#39;s nuclear power plants](https://www.bbc.com/news/articles/c8r6y4me2g6o)
-- [YuE2 · Frontier Music with Symbolic Planning](https://map-yue2.github.io/)
-- [Thelio Mira AI Linux Workstation: 192 GB GPU Memory](https://system76.com/workstations/thelio-mira-ai)
-- [Nine coding harnesses vs. your laptop](https://nasutton.notion.site/Nine-coding-harnesses-vs-your-laptop-3d139990182b80d59fa3cf500f0450ba?pvs=74)
+- [WeWorm: Zero-Click WeChat Worm](https://calif.io/research/weworm)
+- [Usenet rewind archive search engine](https://www.usenet-rewind.com/)
+- [Navier-Stokes Announcement](https://www.claymath.org/news/navier-stokes-announcement/)
+- [google.com/goto: Google&#39;s anti-scraping update](https://www.autom.dev/blog/google-search-goto-links)
+- [Starlink Signal Leakage Threatens Radio Astronomy&#39;s Most Critical Frequencies](https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies)
+- [OpenAI agents carried out an undisclosed attack on RubyGems](https://www.rubyhack.ai/)
+- [Project Blinkenlights](https://blinkenlights.de/en/)
+- [Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues](https://github.com/mirza-rizvi/ResolveHQ)
+- [AI researchers debate how close we are to recursive self-improvement](https://www.dwarkesh.com/p/john-beren-charlie)
+- [GrapheneOS&#39; rewritten Messages app is released](https://github.com/GrapheneOS/Messaging/releases/tag/13)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

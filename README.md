@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Teams and Copilot are changing addresses: update your firewalls](https://www.computerworld.com/article/4221272/teams-and-copilot-are-changing-addresses-update-your-firewalls.html)
+- [ConnectWise patches critical ScreenConnect authentication failure after five days](https://www.computerworld.com/article/4221257/connectwise-patches-critical-screenconnect-authentication-failure-after-five-days.html)
+- [Apple’s A20 Pro rewrites the rules for chip design — again](https://www.computerworld.com/article/4221227/apples-a20-pro-rewrites-the-rules-for-chip-design-again.html)
+- [Anthropic finds evidence of a fourth AI escaping from containment](https://www.computerworld.com/article/4221239/anthropic-finds-evidence-of-a-fourth-ai-escaping-from-containment-2.html)
+- [OpenAI pauses $200 Pro tier as Astra demand strains capacity](https://www.computerworld.com/article/4221098/openai-pauses-200-pro-tier-as-astra-demand-strains-capacity-2.html)
 - [Automattic CEO Matt Mullenweg is out: Does this mean long-term viability, or liability, for WordPress customers?](https://www.computerworld.com/article/4220918/automattic-ceo-matt-mullenweg-is-out-does-this-mean-long-term-viability-or-liability-for-wordpress-customers.html)
 - [How Apple is trying to normalize always-on AI](https://www.computerworld.com/article/4220782/how-apple-is-trying-to-normalize-always-on-ai.html)
 - [Qualcomm’s next Snapdragon mobile chip comes into focus with on-device AI](https://www.computerworld.com/article/4220719/qualcomms-next-snapdragon-mobile-chip-comes-into-focus-with-on-device-ai.html)
 - [Anthropic maps three AI futures for 2030; the most extreme could upend the economy](https://www.computerworld.com/article/4220493/anthropic-maps-three-ai-futures-for-2030-the-most-extreme-could-upend-the-economy.html)
 - [Layoff remorse: Gartner says at least one in three positions eliminated by AI will be restored by 2029–at a higher cost](https://www.computerworld.com/article/4220413/layoff-remorse-gartner-says-at-least-one-in-three-positions-eliminated-by-ai-will-be-restored-by-2029-at-a-higher-cost.html)
-- [The iPhone is now Apple’s ‘intelligent personal hub’](https://www.computerworld.com/article/4220404/the-iphone-is-now-apples-intelligent-personal-hub.html)
-- [Adobe Acrobat evolves beyond PDFs with enterprise search, AI content creation](https://www.computerworld.com/article/4220370/adobe-acrobat-evolves-beyond-pdfs-with-enterprise-search-ai-content-creation.html)
-- [No, AI is not killing jobs for everyone, studies say](https://www.computerworld.com/article/4220365/no-ai-is-not-killing-jobs-for-everyone-studies-say.html)
-- [Siri AI Recaps? Even if Apple builds it responsibly, others might not](https://www.computerworld.com/article/4220223/siri-ai-recaps-even-if-apple-builds-it-responsibly-others-might-not.html)
-- [AI notetakers at work could leave companies at risk for lawsuits](https://www.computerworld.com/article/4219742/ai-notetakers-at-work-could-leave-companies-at-risk-for-lawsuits.html)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

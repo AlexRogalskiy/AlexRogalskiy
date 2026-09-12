@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Solheim Cup golf 2026: Europe v USA, day one – live](https://www.theguardian.com/sport/live/2026/sep/11/solheim-cup-golf-2026-day-one-live)
-- [Lucas Debargue: Gershwin Variations album review – freshness and flair](https://www.theguardian.com/music/2026/sep/11/lucas-debargue-gershwin-variations-album-review)
-- [MPs urged not to take ‘extraordinary risk’ of forcing through assisted dying bill as vote looms](https://www.theguardian.com/society/2026/sep/10/mps-commons-extraordinary-risk-forcing-through-assisted-dying-bill)
-- [UK economy defies forecasts with surprise 0.4% growth in July](https://www.theguardian.com/business/2026/sep/11/uk-economy-defies-forecasts-with-surprise-04-growth-in-july)
-- [‘I never imagined such pleasure could be had from the simple sardine’: readers’ favourite foodie experiences in Europe](https://www.theguardian.com/travel/2026/sep/11/readers-favourite-food-experiences-europe)
-- [Mistakes, mistrust and misdirection: 25 years after 9/11, its dark legacy continues to unfold](https://www.theguardian.com/us-news/ng-interactive/2026/sep/11/september-11-dark-legacy)
-- [Homes for sale in a national park in England – in pictures](https://www.theguardian.com/money/gallery/2026/sep/11/homes-for-sale-in-a-national-park-in-england-in-pictures)
-- [Slow Horses to Neagley: the seven best shows to stream this week](https://www.theguardian.com/tv-and-radio/2026/sep/11/slow-horses-to-neagley-the-seven-best-shows-to-stream-this-week)
-- [A Thought Without Collision by Adrian Duncan review – a brilliant interrogation of philosophy and wonder](https://www.theguardian.com/books/2026/sep/11/a-thought-without-collision-by-adrian-duncan-review-a-brilliant-interrogation-of-philosophy-and-wonder)
-- [BredaPhoto Festival  – in pictures](https://www.theguardian.com/artanddesign/gallery/2026/sep/11/bredaphoto-festival-in-pictures)
+- [Solheim Cup golf 2026: Europe v USA, day two foursomes – live](https://www.theguardian.com/sport/live/2026/sep/12/solheim-cup-golf-2026-europe-v-usa-day-two-live)
+- [Shelton tips Tiafoe at US Open to move one win from ending 23-year drought](https://www.theguardian.com/sport/2026/sep/12/shelton-tips-tiafoe-at-us-open-to-move-one-win-from-ending-23-year-drought)
+- [Apocalypse: this end-of-days survival show is an absolute slam dunk](https://www.theguardian.com/tv-and-radio/2026/sep/12/apocalypse-this-end-of-days-survival-show-is-an-absolute-slam-dunk)
+- [Tim Dowling: how not to interview eminent scientists – a control freak’s guide](https://www.theguardian.com/lifeandstyle/2026/sep/12/tim-dowling-how-not-to-interview-eminent-scientists-a-control-freaks-guide)
+- [What is the UK’s heaviest and fastest flying duck? The Saturday quiz](https://www.theguardian.com/lifeandstyle/2026/sep/12/what-is-the-uks-heaviest-and-fastest-flying-duck-the-saturday-quiz)
+- [Kent is having a champagne moment: ‘English wine has gone from a joke to world-class’](https://www.theguardian.com/travel/2026/sep/12/kent-champagne-vineyard-english-wine-taittinger)
+- [Thousands of ebikes seized by London councils as anger rises over blocked paths](https://www.theguardian.com/uk-news/2026/sep/12/ebikes-seized-london-blocked-paths-lime-forest-voi)
+- [‘Costing billions’: is the pensions triple lock a lifeline or simply unaffordable?](https://www.theguardian.com/business/2026/sep/12/state-pensions-triple-lock-budget)
+- [The Guide #260: From Oasis to K-pop, music is going mad for the big-screen documentary](https://www.theguardian.com/culture/2026/sep/11/from-oasis-to-k-pop-music-is-going-mad-for-the-big-screen-documentary)
+- [TV tonight: surprise smash hit show Saturday Night Live UK is back!](https://www.theguardian.com/tv-and-radio/2026/sep/12/tv-tonight-surprise-smash-hit-show-saturday-night-like-uk-is-back)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

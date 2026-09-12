@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [XPENG&#39;s Humanoid Robots production line is finished](https://www.youtube.com/watch?v=ZgBm8PdtpGo)
-- [Cross-Lingual Alignment Without Joint Training](https://arxiv.org/abs/2608.27115)
-- [Measuring Malicious Intermediary Attacks on the LLM Supply Chain](https://arxiv.org/abs/2604.08407)
-- [Congress Is Suddenly Waking Up to the AI Doomsday Threat](https://www.wsj.com/politics/policy/congress-is-suddenly-waking-up-to-the-ai-doomsday-threat-b40ab25a)
-- [DeepSeek v4.1 Flash Uncensored](https://huggingface.co/dealignai/DeepSeek-V4.1-Flash-UNCENSORED-FP8)
-- [Show HN: Oxlint plugin to auto-fix non-canonical Tailwind classes](https://github.com/maharshi365/oxlint-plugin-tailwind-canonical)
-- [Anthropic is lying: Moonshot is not routing to Claude](https://twitter.com/trydotworks/status/2098300730805284961)
-- [Proposal: Cmd/cgo: cgo without a C toolchain](https://github.com/golang/go/issues/81450)
-- [Predicting AI Job Exposure](https://www.ben-evans.com/benedictevans/2026/5/24/ai-job-exposure)
-- [Read Independent Fiction](https://eveningnotes.bearblog.dev/read-independent-serialized-fiction-and-short-fiction-web-novels-webcomics-fanfiction-short-story-magazines/)
+- [Artemis: Google&#39;s new AI agent framework for mobile test automation](https://github.com/google/artemis)
+- [The Emperor&#39;s Old Clothes [pdf]](https://worrydream.com/refs/Hoare_1981_-_The_Emperors_Old_Clothes.pdf)
+- [Dissolving the Fermi Paradox &lpar;2018&rpar;](https://arxiv.org/abs/1806.02404)
+- [Ask HN: Why are the tech companies tracking humans?](https://news.ycombinator.com/item?id=49669460)
+- [City Layout Guessr Game](https://noahdarwinlee.com/citylayoutguessr/)
+- [Jetpack: Consensus Made Generally Fast &lpar;OSDI &#39;26&rpar;](http://muratbuffalo.blogspot.com/2026/09/jetpack-consensus-made-generally-fast.html)
+- [White House weighs Defense Production Act to expand US oil refining capacity](https://www.reuters.com/business/energy/white-house-weighs-how-use-defense-production-act-expand-us-oil-refining-2026-09-11/)
+- [A2ABreak: Systematic Security Analysis of the A2A Protocol](https://arxiv.org/abs/2609.10871)
+- [Russian developers used Claude to build &#39;kamikaze&#39; attack drone software](https://www.theguardian.com/world/2026/sep/12/ukraine-war-briefing-russian-developers-used-ai-to-build-kamikaze-attack-drone-software-anthropic-says)
+- [A Nix store is three functions](https://fzakaria.com/2026/09/11/a-nix-store-is-three-functions)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Artemis: Google&#39;s new AI agent framework for mobile test automation](https://github.com/google/artemis)
-- [The Emperor&#39;s Old Clothes [pdf]](https://worrydream.com/refs/Hoare_1981_-_The_Emperors_Old_Clothes.pdf)
-- [Dissolving the Fermi Paradox &lpar;2018&rpar;](https://arxiv.org/abs/1806.02404)
-- [Ask HN: Why are the tech companies tracking humans?](https://news.ycombinator.com/item?id=49669460)
-- [City Layout Guessr Game](https://noahdarwinlee.com/citylayoutguessr/)
-- [Jetpack: Consensus Made Generally Fast &lpar;OSDI &#39;26&rpar;](http://muratbuffalo.blogspot.com/2026/09/jetpack-consensus-made-generally-fast.html)
-- [White House weighs Defense Production Act to expand US oil refining capacity](https://www.reuters.com/business/energy/white-house-weighs-how-use-defense-production-act-expand-us-oil-refining-2026-09-11/)
-- [A2ABreak: Systematic Security Analysis of the A2A Protocol](https://arxiv.org/abs/2609.10871)
-- [Russian developers used Claude to build &#39;kamikaze&#39; attack drone software](https://www.theguardian.com/world/2026/sep/12/ukraine-war-briefing-russian-developers-used-ai-to-build-kamikaze-attack-drone-software-anthropic-says)
-- [A Nix store is three functions](https://fzakaria.com/2026/09/11/a-nix-store-is-three-functions)
+- [Guidance on Using CC Licenses in an AI Ecosystem](https://creativecommons.org/2026/09/03/guidance-on-using-cc-licenses-in-an-ai-ecosystem/)
+- [Created a local AI to save data](https://github.com/just-not-google/BiNeuron)
+- [Petroleum Refining](https://courses.ems.psu.edu/fsc432/node/2)
+- [Faulty reward functions in the wild &lpar;2016&rpar;](https://openai.com/index/faulty-reward-functions/)
+- [MetaPost library for black and white illustrations](https://github.com/jemmybutton/fiziko)
+- [Actuali: free Actual Budget client for iOS](https://actuali.mfazz.com/)
+- [Selling Out](https://www.seangoedecke.com/selling-out/)
+- [The Coxon psyop was a decade and more than a billion dollars in the making](https://xcancel.com/antibot/captcha)
+- [Jeff Bezos Earned His Amazon Fortune](https://humanprogress.org/jeff-bezos-earned-his-fortune/)
+- [Pedagogy in the Age of AI [video]](https://www.youtube.com/watch?v=N2a1J0UPeL4)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

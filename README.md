@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [WeWorm: Zero-Click WeChat Worm](https://calif.io/research/weworm)
-- [Usenet rewind archive search engine](https://www.usenet-rewind.com/)
-- [Navier-Stokes Announcement](https://www.claymath.org/news/navier-stokes-announcement/)
-- [google.com/goto: Google&#39;s anti-scraping update](https://www.autom.dev/blog/google-search-goto-links)
-- [Starlink Signal Leakage Threatens Radio Astronomy&#39;s Most Critical Frequencies](https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies)
-- [OpenAI agents carried out an undisclosed attack on RubyGems](https://www.rubyhack.ai/)
-- [Project Blinkenlights](https://blinkenlights.de/en/)
-- [Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues](https://github.com/mirza-rizvi/ResolveHQ)
-- [AI researchers debate how close we are to recursive self-improvement](https://www.dwarkesh.com/p/john-beren-charlie)
-- [GrapheneOS&#39; rewritten Messages app is released](https://github.com/GrapheneOS/Messaging/releases/tag/13)
+- [When Anyone Can Build Software, Who Decides What Not to Build?](https://architectureintel.com/when-anyone-can-build-software-who-decides-what-not-to-build-ae07fdb370e4)
+- [A wandering black hole caught feeding on the run](https://phys.org/news/2026-08-black-hole-caught.html)
+- [A succession crisis that tore England apart](https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart)
+- [Aligned to Whom?](https://hyperbo.la/w/aligned-to-whom/)
+- [After Math](https://terrytao.wordpress.com/2026/09/12/after-math/)
+- [The Interim Computer Museum](https://icm.museum/)
+- [Why are AI agents lying, cheating and coordinating?](https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating)
+- [Everyone should slow down AI development except for me](https://xeiaso.net/notes/2026/everyone-slowdown-but-me/)
+- [AgentsDock: An IDE designed for agentic AI research](https://agentsdock.net/)
+- [P&lpar;doom&rpar;](https://lucumr.pocoo.org/2026/9/12/pdoom/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Solheim Cup golf 2026: Europe v USA, day two foursomes – live](https://www.theguardian.com/sport/live/2026/sep/12/solheim-cup-golf-2026-europe-v-usa-day-two-live)
-- [Shelton tips Tiafoe at US Open to move one win from ending 23-year drought](https://www.theguardian.com/sport/2026/sep/12/shelton-tips-tiafoe-at-us-open-to-move-one-win-from-ending-23-year-drought)
-- [Apocalypse: this end-of-days survival show is an absolute slam dunk](https://www.theguardian.com/tv-and-radio/2026/sep/12/apocalypse-this-end-of-days-survival-show-is-an-absolute-slam-dunk)
-- [Tim Dowling: how not to interview eminent scientists – a control freak’s guide](https://www.theguardian.com/lifeandstyle/2026/sep/12/tim-dowling-how-not-to-interview-eminent-scientists-a-control-freaks-guide)
-- [What is the UK’s heaviest and fastest flying duck? The Saturday quiz](https://www.theguardian.com/lifeandstyle/2026/sep/12/what-is-the-uks-heaviest-and-fastest-flying-duck-the-saturday-quiz)
-- [Kent is having a champagne moment: ‘English wine has gone from a joke to world-class’](https://www.theguardian.com/travel/2026/sep/12/kent-champagne-vineyard-english-wine-taittinger)
-- [Thousands of ebikes seized by London councils as anger rises over blocked paths](https://www.theguardian.com/uk-news/2026/sep/12/ebikes-seized-london-blocked-paths-lime-forest-voi)
-- [‘Costing billions’: is the pensions triple lock a lifeline or simply unaffordable?](https://www.theguardian.com/business/2026/sep/12/state-pensions-triple-lock-budget)
-- [The Guide #260: From Oasis to K-pop, music is going mad for the big-screen documentary](https://www.theguardian.com/culture/2026/sep/11/from-oasis-to-k-pop-music-is-going-mad-for-the-big-screen-documentary)
-- [TV tonight: surprise smash hit show Saturday Night Live UK is back!](https://www.theguardian.com/tv-and-radio/2026/sep/12/tv-tonight-surprise-smash-hit-show-saturday-night-like-uk-is-back)
+- [France confronts arson problem after devastating summer of wildfires](https://www.theguardian.com/world/2026/sep/13/france-confronts-arson-problem-after-devastating-summer-of-wildfires)
+- [The AfD won a shock election in Germany. Elon Musk was thrilled](https://www.theguardian.com/technology/2026/sep/13/afd-germany-elon-musk)
+- [A taste of home: discovering Sweden’s local food heroes](https://www.theguardian.com/travel/2026/sep/13/a-taste-of-home-discovering-swedens-local-food-heroes)
+- [Tesco alerts police as supermarket becomes latest victim of scam ‘endorsement’ ads](https://www.theguardian.com/money/2026/sep/13/tesco-scam-endorsement-haaland-bellingham-casino)
+- [Mapped: the £150bn megaproject that aims to protect Britain from energy shocks](https://www.theguardian.com/business/ng-interactive/2026/sep/13/mapped-150bn-megaproject-aims-to-protect-britain-from-energy-shocks)
+- [‘Cheap iPhone deal’: warning over scam sites selling latest Apple mobiles](https://www.theguardian.com/money/2026/sep/13/cheap-iphone-18-pro-duo-deal-price-scam-sites-apple-mobiles)
+- [TV tonight: a jaw-dropping new end-of-the-world reality show](https://www.theguardian.com/tv-and-radio/2026/sep/13/tv-tonight-a-jaw-dropping-new-end-of-the-world-reality-show)
+- [Indonesian rescue crews searching for 140 people after ferry hit bad weather](https://www.theguardian.com/world/2026/sep/13/indonesian-rescue-crews-searching-for-140-people-after-ferry-hit-bad-weather)
+- [UK government to offer clearer guidance on student loans after repayment row](https://www.theguardian.com/money/2026/sep/13/student-loans-repayments-university-students-guidance)
+- [Burnham must understand Wales is ‘not a region in England’, says first minister](https://www.theguardian.com/politics/2026/sep/13/andy-burnham-wales-first-minister-rhun-ap-iorweth-senedd-devolution)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [When Anyone Can Build Software, Who Decides What Not to Build?](https://architectureintel.com/when-anyone-can-build-software-who-decides-what-not-to-build-ae07fdb370e4)
-- [A wandering black hole caught feeding on the run](https://phys.org/news/2026-08-black-hole-caught.html)
-- [A succession crisis that tore England apart](https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart)
-- [Aligned to Whom?](https://hyperbo.la/w/aligned-to-whom/)
-- [After Math](https://terrytao.wordpress.com/2026/09/12/after-math/)
-- [The Interim Computer Museum](https://icm.museum/)
-- [Why are AI agents lying, cheating and coordinating?](https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating)
-- [Everyone should slow down AI development except for me](https://xeiaso.net/notes/2026/everyone-slowdown-but-me/)
-- [AgentsDock: An IDE designed for agentic AI research](https://agentsdock.net/)
-- [P&lpar;doom&rpar;](https://lucumr.pocoo.org/2026/9/12/pdoom/)
+- [Of Gods and Languages: On &quot;When God Spoke Greek&quot; &lpar;2013&rpar;](https://lareviewofbooks.org/article/of-gods-and-languages-on-when-god-spoke-greek/)
+- [Airbnb Preventing the Use of BnB](https://www.theguardian.com/technology/2026/sep/14/portland-bnb-airbnb-silicon-valley-legal-battle-festival)
+- [Who gets to define the rules for AI?](https://cohere.com/blog/who-gets-to-define-the-rules-for-ai)
+- [Chess.com Leak Exposes 7.3M Users, Evidence Points to Scraping](https://securityaffairs.com/197174/breaking-news/chess-com-leak-exposes-7-3-million-users-evidence-points-to-scraping.html)
+- [Nike exits the S&amp;P 100 after 18 years and a $200B market-cap wipeout](https://fortune.com/2026/09/08/nike-stock-plummets-sp500-market-cap-index/)
+- [OEMpocalypse: Unprivileged Android app to root on Samsung, Xiaomi, others](https://calif.io/research/oempocalypse)
+- [The Malicious Use of Artificial Intelligence](https://arxiv.org/abs/1802.07228)
+- [The case against JPEG XL](https://giannirosato.com/blog/post/case-against-jxl/)
+- [Writing a better reality: The case for optimistic sci-fi &lpar;2022&rpar;](https://honisoit.com/2022/03/writing-a-better-reality-the-case-for-optimistic-sci-fi/)
+- [Open-source AI and open models reading list](https://www.interconnects.ai/p/open-source-ai-reading-list)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

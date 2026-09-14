@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Guidance on Using CC Licenses in an AI Ecosystem](https://creativecommons.org/2026/09/03/guidance-on-using-cc-licenses-in-an-ai-ecosystem/)
-- [Created a local AI to save data](https://github.com/just-not-google/BiNeuron)
-- [Petroleum Refining](https://courses.ems.psu.edu/fsc432/node/2)
-- [Faulty reward functions in the wild &lpar;2016&rpar;](https://openai.com/index/faulty-reward-functions/)
-- [MetaPost library for black and white illustrations](https://github.com/jemmybutton/fiziko)
-- [Actuali: free Actual Budget client for iOS](https://actuali.mfazz.com/)
-- [Selling Out](https://www.seangoedecke.com/selling-out/)
-- [The Coxon psyop was a decade and more than a billion dollars in the making](https://xcancel.com/antibot/captcha)
-- [Jeff Bezos Earned His Amazon Fortune](https://humanprogress.org/jeff-bezos-earned-his-fortune/)
-- [Pedagogy in the Age of AI [video]](https://www.youtube.com/watch?v=N2a1J0UPeL4)
+- [Open-source project: Use ChatGPT Web models directly in Codex](https://github.com/miuuyy/codex-chatgpt-web)
+- [Confessions of an Unrepentant Slop Snob](https://charity.wtf/p/confessions-of-an-unrepentant-slop)
+- [Show HN: Descles, response level LLM message control with HITL approval flows](https://www.descles.com/)
+- [If Astra was trained on 100k Blackwell GPUs, what happens with 1M Rubin?](https://twitter.com/JensenHuang/status/2096700264569090384)
+- [South Africa&#39;s weigh-and-pay shops are tackling &#39;poverty tax&#39; head on](https://www.theguardian.com/global-development/2026/sep/14/south-africa-weigh-and-pay-shops-food-poverty)
+- [Three Reasons Europe learned to distrust Big Tech before America did](https://thebulletin.org/premium/2026-09/three-reasons-europe-learned-to-distrust-big-tech-before-america-did/)
+- [My experience of September 11, 2001, from across the Hudson](https://medium.com/freedomofthought/if-nobody-loved-me-the-city-did-27ad19dbcb8a)
+- [Ansto nuclear reactor marks 20 years of health and technology innovation](https://www.abc.net.au/news/2026-09-14/ansto-opal-nuclear-reactor-celebrates-20-years/107132928)
+- [Teaching a fruit fly to play chess](https://flychess-hq.vercel.app)
+- [The Cost of Omelas – 10 centuries of total people killed by nation states](https://omelas-dj1.pages.dev)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [France confronts arson problem after devastating summer of wildfires](https://www.theguardian.com/world/2026/sep/13/france-confronts-arson-problem-after-devastating-summer-of-wildfires)
-- [The AfD won a shock election in Germany. Elon Musk was thrilled](https://www.theguardian.com/technology/2026/sep/13/afd-germany-elon-musk)
-- [A taste of home: discovering Sweden’s local food heroes](https://www.theguardian.com/travel/2026/sep/13/a-taste-of-home-discovering-swedens-local-food-heroes)
-- [Tesco alerts police as supermarket becomes latest victim of scam ‘endorsement’ ads](https://www.theguardian.com/money/2026/sep/13/tesco-scam-endorsement-haaland-bellingham-casino)
-- [Mapped: the £150bn megaproject that aims to protect Britain from energy shocks](https://www.theguardian.com/business/ng-interactive/2026/sep/13/mapped-150bn-megaproject-aims-to-protect-britain-from-energy-shocks)
-- [‘Cheap iPhone deal’: warning over scam sites selling latest Apple mobiles](https://www.theguardian.com/money/2026/sep/13/cheap-iphone-18-pro-duo-deal-price-scam-sites-apple-mobiles)
-- [TV tonight: a jaw-dropping new end-of-the-world reality show](https://www.theguardian.com/tv-and-radio/2026/sep/13/tv-tonight-a-jaw-dropping-new-end-of-the-world-reality-show)
-- [Indonesian rescue crews searching for 140 people after ferry hit bad weather](https://www.theguardian.com/world/2026/sep/13/indonesian-rescue-crews-searching-for-140-people-after-ferry-hit-bad-weather)
-- [UK government to offer clearer guidance on student loans after repayment row](https://www.theguardian.com/money/2026/sep/13/student-loans-repayments-university-students-guidance)
-- [Burnham must understand Wales is ‘not a region in England’, says first minister](https://www.theguardian.com/politics/2026/sep/13/andy-burnham-wales-first-minister-rhun-ap-iorweth-senedd-devolution)
+- [Premier League: 10 talking points from the weekend’s action](https://www.theguardian.com/football/2026/sep/14/premier-league-10-talking-points-from-the-weekends-action)
+- [One constant menace and post-Bazball malaise: England’s winners and losers | Simon Burnton](https://www.theguardian.com/sport/2026/sep/14/england-cricket-2026-season-winners-losers)
+- [Wigan dominate the present but NRL cash is key to Super League future](https://www.theguardian.com/sport/2026/sep/14/super-league-new-era-national-rugby-league-wigan-warriors)
+- [Phone coverage across the London tube? That’s sent me hurtling down a tunnel of despair | Lucy Pasha-Robinson](https://www.theguardian.com/commentisfree/2026/sep/14/phone-coverage-tube-london-underground-tube)
+- [Is it true that … having a hot drink will cool you down?](https://www.theguardian.com/lifeandstyle/2026/sep/14/is-it-true-that-having-a-hot-drink-will-cool-you-down)
+- [Freedom-loving Britain was at the heart of the 18th century slave trade – and this register proves it | William Pettigrew](https://www.theguardian.com/uk-news/commentisfree/2026/sep/14/slavery-britain-history-slave-trade-register-africans)
+- [Can you solve it? Do you have the brain of an engineer?](https://www.theguardian.com/science/2026/sep/14/can-you-solve-it-do-you-have-the-brain-of-an-engineer)
+- [‘Tidal wave’ of Pfas being launched to satisfy AI industry, campaigners warn](https://www.theguardian.com/environment/2026/sep/14/pfas-firms-tidal-wave-forever-chemicals-ai-industry-demand-datacentres)
+- [A spoonful of sugar: how South Africa’s weigh-and-pay shops are tackling ‘poverty tax’ head on](https://www.theguardian.com/global-development/2026/sep/14/south-africa-weigh-and-pay-shops-food-poverty)
+- [End Times Fascism by Naomi Klein and Astra Taylor review – the fightback starts here](https://www.theguardian.com/books/2026/sep/14/end-times-fascism-by-naomi-klein-and-astra-taylor-review-the-fightback-starts-here)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

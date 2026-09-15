@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Open-source project: Use ChatGPT Web models directly in Codex](https://github.com/miuuyy/codex-chatgpt-web)
-- [Confessions of an Unrepentant Slop Snob](https://charity.wtf/p/confessions-of-an-unrepentant-slop)
-- [Show HN: Descles, response level LLM message control with HITL approval flows](https://www.descles.com/)
-- [If Astra was trained on 100k Blackwell GPUs, what happens with 1M Rubin?](https://twitter.com/JensenHuang/status/2096700264569090384)
-- [South Africa&#39;s weigh-and-pay shops are tackling &#39;poverty tax&#39; head on](https://www.theguardian.com/global-development/2026/sep/14/south-africa-weigh-and-pay-shops-food-poverty)
-- [Three Reasons Europe learned to distrust Big Tech before America did](https://thebulletin.org/premium/2026-09/three-reasons-europe-learned-to-distrust-big-tech-before-america-did/)
-- [My experience of September 11, 2001, from across the Hudson](https://medium.com/freedomofthought/if-nobody-loved-me-the-city-did-27ad19dbcb8a)
-- [Ansto nuclear reactor marks 20 years of health and technology innovation](https://www.abc.net.au/news/2026-09-14/ansto-opal-nuclear-reactor-celebrates-20-years/107132928)
-- [Teaching a fruit fly to play chess](https://flychess-hq.vercel.app)
-- [The Cost of Omelas – 10 centuries of total people killed by nation states](https://omelas-dj1.pages.dev)
+- [Leak: EU Commission to pitch social media restrictions for under-15s](https://www.euronews.com/my-europe/2026/09/15/leak-eu-commission-to-pitch-social-media-restrictions-for-under-15s)
+- [Can Theoretical Physics Research Benefit from Language Agents?](https://arxiv.org/abs/2506.06214)
+- [KnowBench: Evaluating clinical AI with effort reduction](https://arxiv.org/abs/2609.15794)
+- [Web-Doc-Scanner: Best Web Document Scanner](https://web-doc-scanner.app/)
+- [Planning with Agents: Divided Worlds, Boundary Objects, and Thicker Interfaces](https://maggieappleton.com/planning-agents)
+- [Show HN: Jinfer – AI inference engine for the JVM. AI in a jar](https://qxotic.ai/)
+- [Kenwea Notary run a package&#39;s install scripts in a sandbox, get a signed verdict](https://www.kenwea.com/verify)
+- [Extensions, skills, and themes for Pi coding agent](https://github.com/tomsej/pi-ext)
+- [The emerging landscape of engineered bacteria cancer therapies &lpar;2025&rpar;](https://www.nature.com/articles/s41587-025-02623-x)
+- [Show HN: Radar, find Reddit threads where your software could help](https://getredditradar.com)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Of Gods and Languages: On &quot;When God Spoke Greek&quot; &lpar;2013&rpar;](https://lareviewofbooks.org/article/of-gods-and-languages-on-when-god-spoke-greek/)
-- [Airbnb Preventing the Use of BnB](https://www.theguardian.com/technology/2026/sep/14/portland-bnb-airbnb-silicon-valley-legal-battle-festival)
-- [Who gets to define the rules for AI?](https://cohere.com/blog/who-gets-to-define-the-rules-for-ai)
-- [Chess.com Leak Exposes 7.3M Users, Evidence Points to Scraping](https://securityaffairs.com/197174/breaking-news/chess-com-leak-exposes-7-3-million-users-evidence-points-to-scraping.html)
-- [Nike exits the S&amp;P 100 after 18 years and a $200B market-cap wipeout](https://fortune.com/2026/09/08/nike-stock-plummets-sp500-market-cap-index/)
-- [OEMpocalypse: Unprivileged Android app to root on Samsung, Xiaomi, others](https://calif.io/research/oempocalypse)
-- [The Malicious Use of Artificial Intelligence](https://arxiv.org/abs/1802.07228)
-- [The case against JPEG XL](https://giannirosato.com/blog/post/case-against-jxl/)
-- [Writing a better reality: The case for optimistic sci-fi &lpar;2022&rpar;](https://honisoit.com/2022/03/writing-a-better-reality-the-case-for-optimistic-sci-fi/)
-- [Open-source AI and open models reading list](https://www.interconnects.ai/p/open-source-ai-reading-list)
+- [Lingo.dev &lpar;YC F24&rpar; is hiring a senior content engineer &lpar;Remote, worldwide&rpar;](https://lingo.dev/en/careers/ff88132a-cb79-4d35-a6a0-a6230de7a013)
+- [Linux from Scratch](https://www.linuxfromscratch.org/)
+- [Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent](https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325)
+- [Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS](https://github.com/JamesRyanATX/fcbnerd)
+- [Charts built for Chat](https://dbtcharts.com/blog/charts-built-for-chat/)
+- [Backprop Alternative: Augmented Lagrangian Predictive Coding](https://pub.sakana.ai/pc-alm/)
+- [iOS 27, iPadOS 27, and macOS 27](https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/)
+- [Steam Frame starts at $1059](https://store.steampowered.com/hardware/steamframe)
+- [Pion, an agent designed to run any company autonomously](https://andonlabs.com/blog/why-we-built-pion)
+- [Cloudflare AKE cuts origin HelloRetryRequests from 52% to 3.7%](https://blog.cloudflare.com/automatic-key-exchange-for-origins/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

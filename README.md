@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Premier League: 10 talking points from the weekend’s action](https://www.theguardian.com/football/2026/sep/14/premier-league-10-talking-points-from-the-weekends-action)
-- [One constant menace and post-Bazball malaise: England’s winners and losers | Simon Burnton](https://www.theguardian.com/sport/2026/sep/14/england-cricket-2026-season-winners-losers)
-- [Wigan dominate the present but NRL cash is key to Super League future](https://www.theguardian.com/sport/2026/sep/14/super-league-new-era-national-rugby-league-wigan-warriors)
-- [Phone coverage across the London tube? That’s sent me hurtling down a tunnel of despair | Lucy Pasha-Robinson](https://www.theguardian.com/commentisfree/2026/sep/14/phone-coverage-tube-london-underground-tube)
-- [Is it true that … having a hot drink will cool you down?](https://www.theguardian.com/lifeandstyle/2026/sep/14/is-it-true-that-having-a-hot-drink-will-cool-you-down)
-- [Freedom-loving Britain was at the heart of the 18th century slave trade – and this register proves it | William Pettigrew](https://www.theguardian.com/uk-news/commentisfree/2026/sep/14/slavery-britain-history-slave-trade-register-africans)
-- [Can you solve it? Do you have the brain of an engineer?](https://www.theguardian.com/science/2026/sep/14/can-you-solve-it-do-you-have-the-brain-of-an-engineer)
-- [‘Tidal wave’ of Pfas being launched to satisfy AI industry, campaigners warn](https://www.theguardian.com/environment/2026/sep/14/pfas-firms-tidal-wave-forever-chemicals-ai-industry-demand-datacentres)
-- [A spoonful of sugar: how South Africa’s weigh-and-pay shops are tackling ‘poverty tax’ head on](https://www.theguardian.com/global-development/2026/sep/14/south-africa-weigh-and-pay-shops-food-poverty)
-- [End Times Fascism by Naomi Klein and Astra Taylor review – the fightback starts here](https://www.theguardian.com/books/2026/sep/14/end-times-fascism-by-naomi-klein-and-astra-taylor-review-the-fightback-starts-here)
+- [Leading UK retailers ‘breaking law’ by not refunding customers for returned goods, Which? finds](https://www.theguardian.com/business/2026/sep/15/uk-retailers-breaking-law-not-refunding-customers-returned-goods-which)
+- [Conservation ‘gateway drug’: farmers embrace ancient craft of hedge laying](https://www.theguardian.com/environment/2026/sep/15/conservation-gateway-drug-farmers-embrace-ancient-craft-of-hedge-laying)
+- [Pietersen was the original Bazball – and his return may be just what England need | Barney Ronay](https://www.theguardian.com/sport/2026/sep/15/pietersen-was-the-original-bazball-and-his-return-may-be-just-what-england-need)
+- [Who is Umar Kremlev, the Russian oligarch who reportedly helped pay for Donald Trump Jr’s wedding?](https://www.theguardian.com/us-news/2026/sep/15/who-is-umar-kremlev-russian-oligarch-donald-trump-jr)
+- [Are Manchester United as poor as the early Premier League table suggests?](https://www.theguardian.com/football/2026/sep/15/manchester-united-premier-league-analysis)
+- [Bank of England urged to slow or halt bond-selling to slash UK borrowing costs](https://www.theguardian.com/business/2026/sep/15/bank-of-england-bond-selling-cut-uk-borrowing-costs-john-healey)
+- [Trump facing AI backlash in Congress as push for guardrails intensifies](https://www.theguardian.com/technology/2026/sep/15/trump-ai-guardrails-democrats-republicans)
+- [UK pay growth slows to 3.9% before crunch interest rates decision](https://www.theguardian.com/business/2026/sep/15/uk-pay-growth-interest-rates-unemployment-inflation-oil-price)
+- [What would it take to make India’s cities better – and safer?](https://www.theguardian.com/world/2026/sep/13/this-is-india-cities-failing-residents-delhi-building-collapse)
+- [Help-to-buy scheme delivered ‘very high value for money,’ review finds](https://www.theguardian.com/money/2026/sep/15/help-to-buy-scheme-delivered-very-high-value-for-money-review-finds)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

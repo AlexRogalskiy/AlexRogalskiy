@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Leading UK retailers ‘breaking law’ by not refunding customers for returned goods, Which? finds](https://www.theguardian.com/business/2026/sep/15/uk-retailers-breaking-law-not-refunding-customers-returned-goods-which)
-- [Conservation ‘gateway drug’: farmers embrace ancient craft of hedge laying](https://www.theguardian.com/environment/2026/sep/15/conservation-gateway-drug-farmers-embrace-ancient-craft-of-hedge-laying)
-- [Pietersen was the original Bazball – and his return may be just what England need | Barney Ronay](https://www.theguardian.com/sport/2026/sep/15/pietersen-was-the-original-bazball-and-his-return-may-be-just-what-england-need)
-- [Who is Umar Kremlev, the Russian oligarch who reportedly helped pay for Donald Trump Jr’s wedding?](https://www.theguardian.com/us-news/2026/sep/15/who-is-umar-kremlev-russian-oligarch-donald-trump-jr)
-- [Are Manchester United as poor as the early Premier League table suggests?](https://www.theguardian.com/football/2026/sep/15/manchester-united-premier-league-analysis)
-- [Bank of England urged to slow or halt bond-selling to slash UK borrowing costs](https://www.theguardian.com/business/2026/sep/15/bank-of-england-bond-selling-cut-uk-borrowing-costs-john-healey)
-- [Trump facing AI backlash in Congress as push for guardrails intensifies](https://www.theguardian.com/technology/2026/sep/15/trump-ai-guardrails-democrats-republicans)
-- [UK pay growth slows to 3.9% before crunch interest rates decision](https://www.theguardian.com/business/2026/sep/15/uk-pay-growth-interest-rates-unemployment-inflation-oil-price)
-- [What would it take to make India’s cities better – and safer?](https://www.theguardian.com/world/2026/sep/13/this-is-india-cities-failing-residents-delhi-building-collapse)
-- [Help-to-buy scheme delivered ‘very high value for money,’ review finds](https://www.theguardian.com/money/2026/sep/15/help-to-buy-scheme-delivered-very-high-value-for-money-review-finds)
+- [‘We are prey’: discovery of seven women’s bodies fuels anger over femicide in South Africa](https://www.theguardian.com/world/2026/sep/16/discovery-women-bodies-anger-femicide-south-africa)
+- [Neagley review – this violent Reacher spinoff is a glorious hour off from normal life](https://www.theguardian.com/tv-and-radio/2026/sep/16/neagley-review-reacher-spinoff-amazon-prime-video)
+- [Bank of England expected to leave interest rates on hold on Thursday despite inflation hitting 3.1% – business live](https://www.theguardian.com/business/live/2026/sep/16/uk-inflation-expected-to-have-risen-in-august-as-cost-of-living-squeeze-tightens-business-live)
+- [Von der Leyen to set out challenges and opportunities for EU in ‘state of the Union’ speech – Europe live](https://www.theguardian.com/world/live/2026/sep/16/european-union-ursula-von-der-leyen-eu-europe-latest-news-updates)
+- [Record heatwaves bring Britain’s second-best butterfly season in 16 years](https://www.theguardian.com/environment/2026/sep/16/record-heatwaves-britain-second-best-butterfly-season)
+- [Barclaycard sent me a bill for someone else’s account](https://www.theguardian.com/money/2026/sep/16/barclaycard-bill-account-credit-card-payment)
+- [Al-Qaida and IS-linked violence in Africa’s Sahel belt set to hit record levels this year](https://www.theguardian.com/world/2026/sep/16/al-qaida-and-is-linked-violence-in-africas-sahel-belt-set-to-hit-record-levels-this-year)
+- [Redwood by Ben Macintyre review – a superbly wrought tale of cold war defection](https://www.theguardian.com/books/2026/sep/16/redwood-by-ben-macintyre-review-a-superbly-wrought-tale-of-cold-war-defection)
+- [The other side of Croatia: ‘a landscape that could out-Tuscany Tuscany’](https://www.theguardian.com/travel/2026/sep/16/culinary-tour-zagreb-county-croatia)
+- [‘Who do they dream of becoming?’ Teenage girls in America – in pictures](https://www.theguardian.com/artanddesign/gallery/2026/sep/16/teenage-girls-in-america-eva-verbeeck-in-pictures)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

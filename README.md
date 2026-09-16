@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Leak: EU Commission to pitch social media restrictions for under-15s](https://www.euronews.com/my-europe/2026/09/15/leak-eu-commission-to-pitch-social-media-restrictions-for-under-15s)
-- [Can Theoretical Physics Research Benefit from Language Agents?](https://arxiv.org/abs/2506.06214)
-- [KnowBench: Evaluating clinical AI with effort reduction](https://arxiv.org/abs/2609.15794)
-- [Web-Doc-Scanner: Best Web Document Scanner](https://web-doc-scanner.app/)
-- [Planning with Agents: Divided Worlds, Boundary Objects, and Thicker Interfaces](https://maggieappleton.com/planning-agents)
-- [Show HN: Jinfer – AI inference engine for the JVM. AI in a jar](https://qxotic.ai/)
-- [Kenwea Notary run a package&#39;s install scripts in a sandbox, get a signed verdict](https://www.kenwea.com/verify)
-- [Extensions, skills, and themes for Pi coding agent](https://github.com/tomsej/pi-ext)
-- [The emerging landscape of engineered bacteria cancer therapies &lpar;2025&rpar;](https://www.nature.com/articles/s41587-025-02623-x)
-- [Show HN: Radar, find Reddit threads where your software could help](https://getredditradar.com)
+- [Apple M5 Ultra Geekbench](https://browser.geekbench.com/v7/cpu/354092)
+- [Roundtables: Could AI kill us all?](https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/)
+- [DFOS is an open protocol for identities, signed records, delegated permissions](https://protocol.dfos.com)
+- [Klaus Programmieren](https://klausprogrammieren.com/)
+- [Due to DMA, Siri AI delayed in EU for iOS 27 and iPadOS 27](https://www.apple.com/newsroom/2026/06/due-to-dma-siri-ai-delayed-in-eu-for-ios-27-and-ipados-27/)
+- [Zelensky&#39;s strategy is national suicide](https://spectator.com/article/zelenskys-strategy-is-national-suicide/)
+- [Mozill&#39;s Built-In VPN in Firefox](https://news.ycombinator.com/item?id=49722942)
+- [Bootstrap from Twitter](https://getbootstrap.com/2.0.2/)
+- [GPT Image 2.5 Prompts](https://github.com/VulcanEon/awesome-gpt-image-2.5-prompts)
+- [How Streaks Work?](https://sheets.works/data-viz/streaks)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

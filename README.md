@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
-- [Microsoft’s AI Code of Conduct aims to curb AI behavior](https://www.computerworld.com/article/4221862/microsofts-ai-code-of-conduct-aims-to-curb-ai-behavior.html)
+- [Oracle forecasts 33% increase in restructuring costs as new round of layoffs hits](https://www.computerworld.com/article/4222308/oracle-forecasts-33-increase-in-restructuring-costs-as-new-round-of-layoffs-hits-2.html)
+- [Tech layoffs: A 2026 timeline](https://www.computerworld.com/article/3816579/tech-layoffs-this-year-a-timeline.html)
+- [Apple to OpenAI: If you have nothing to hide, you have nothing to fear](https://www.computerworld.com/article/4222216/apple-to-openai-if-you-have-nothing-to-hide-you-have-nothing-to-fear.html)
+- [Tech CEOs used to fear their boards. No more](https://www.computerworld.com/article/4221874/tech-ceos-used-to-fear-their-boards-no-more.html)
+- [Microsoft’s AI Code of Conduct aims to curb AI behavior but lacks specifics](https://www.computerworld.com/article/4221862/microsofts-ai-code-of-conduct-aims-to-curb-ai-behavior.html)
 - [12+ reasons to update to iOS 27 today](https://www.computerworld.com/article/4221738/12-reasons-to-update-to-ios-27-today.html)
 - [September Patch Tuesday: 963 CVEs, 2 exploited flaws, 1 message](https://www.computerworld.com/article/4221672/september-patch-tuesday-963-cves-2-exploited-flaws-1-message.html)
 - [Govern AI agents like workers. Just don’t pretend they’re human](https://www.computerworld.com/article/4213117/govern-ai-agents-like-workers-just-dont-pretend-theyre-human.html)
 - [General Robotics takes a new approach to building a robotic brain](https://www.computerworld.com/article/4221292/general-robotics-takes-a-new-approach-to-building-a-robotic-brain.html)
 - [Microsoft’s Patch Tuesday updates: Keeping up with the latest fixes](https://www.computerworld.com/article/3481576/microsofts-patch-tuesday-updates-keeping-up-with-the-latest-fixes.html)
-- [Teams and Copilot are changing addresses: update your firewalls](https://www.computerworld.com/article/4221272/teams-and-copilot-are-changing-addresses-update-your-firewalls.html)
-- [ConnectWise patches critical ScreenConnect authentication failure after five days](https://www.computerworld.com/article/4221257/connectwise-patches-critical-screenconnect-authentication-failure-after-five-days.html)
-- [Apple’s A20 Pro rewrites the rules for chip design — again](https://www.computerworld.com/article/4221227/apples-a20-pro-rewrites-the-rules-for-chip-design-again.html)
-- [Anthropic finds evidence of a fourth AI escaping from containment](https://www.computerworld.com/article/4221239/anthropic-finds-evidence-of-a-fourth-ai-escaping-from-containment-2.html)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

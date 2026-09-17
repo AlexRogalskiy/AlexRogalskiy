@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Datamimic – don&#39;t let your coding agent invent its own test world](https://github.com/rapiddweller/datamimic)
-- [Negativland, Culture Jamming, and the Art of Making Something New](https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/)
-- [Stay discoverable in search while disallowing AI training](https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/)
-- [Apple Reference Image: A New Approach for Verified Photography](https://security.apple.com/blog/apple-reference-image/)
-- [Saving Jet Fuel](https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html)
-- [Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA](https://nand2mario.github.io/posts/2026/zsst-voodoo/)
-- [German Rheinmetall open-sources its Battlesuite connected weapon system protcol](https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html)
-- [Jean-Pierre Serre turns 100](https://mathshistory.st-andrews.ac.uk/Biographies/Serre/)
-- [Building a Linux GPU Driver for the M4 Mac Mini in One Month](https://codyho.dev/blog/gpu-driver/)
-- [WangNet – 1.8 MB, zero-dependency Numberwang adjudication in 11 languages](https://github.com/GraafHenk/numberwang)
+- [Cloudflare/Security-Audit-Skill](https://github.com/cloudflare/security-audit-skill)
+- [Jev Ultrafast: A browser agent with a dynamic, indexed action space](https://github.com/browser-use/jev-ultrafast)
+- [Keys Not Included: recovering the signing keys for US driver&#39;s license barcodes](https://ryan.science/blog/keys-not-included)
+- [Monsanto&#39;s Cruel, and Dangerous, Monopolization on American Farming &lpar;2008&rpar;](https://www.vanityfair.com/news/2008/05/monsanto200805)
+- [Part-human part-mouse brain developed in science breakthrough](https://www.bbc.com/news/articles/c60m3k28j81mo)
+- [The Return of Sail Power: Cargo Ships Are Turning Back to the Wind](https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/)
+- [OpenSpec – A lightweight and configurable AI spec framework](https://openspec.dev/)
+- [HarnessTax: How Much Does the Harness Matter for Coding Agents?](https://harnesstax.github.io/)
+- [Breaking the 1.58-bit Barrier for Ternary LLMs](https://arxiv.org/abs/2609.16338)
+- [Backups Aren&#39;t Simple](https://filipovski.net/2026/09/16/backups-arent-simple.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

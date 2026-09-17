@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [‘We are prey’: discovery of seven women’s bodies fuels anger over femicide in South Africa](https://www.theguardian.com/world/2026/sep/16/discovery-women-bodies-anger-femicide-south-africa)
-- [Neagley review – this violent Reacher spinoff is a glorious hour off from normal life](https://www.theguardian.com/tv-and-radio/2026/sep/16/neagley-review-reacher-spinoff-amazon-prime-video)
-- [Bank of England expected to leave interest rates on hold on Thursday despite inflation hitting 3.1% – business live](https://www.theguardian.com/business/live/2026/sep/16/uk-inflation-expected-to-have-risen-in-august-as-cost-of-living-squeeze-tightens-business-live)
-- [Von der Leyen to set out challenges and opportunities for EU in ‘state of the Union’ speech – Europe live](https://www.theguardian.com/world/live/2026/sep/16/european-union-ursula-von-der-leyen-eu-europe-latest-news-updates)
-- [Record heatwaves bring Britain’s second-best butterfly season in 16 years](https://www.theguardian.com/environment/2026/sep/16/record-heatwaves-britain-second-best-butterfly-season)
-- [Barclaycard sent me a bill for someone else’s account](https://www.theguardian.com/money/2026/sep/16/barclaycard-bill-account-credit-card-payment)
-- [Al-Qaida and IS-linked violence in Africa’s Sahel belt set to hit record levels this year](https://www.theguardian.com/world/2026/sep/16/al-qaida-and-is-linked-violence-in-africas-sahel-belt-set-to-hit-record-levels-this-year)
-- [Redwood by Ben Macintyre review – a superbly wrought tale of cold war defection](https://www.theguardian.com/books/2026/sep/16/redwood-by-ben-macintyre-review-a-superbly-wrought-tale-of-cold-war-defection)
-- [The other side of Croatia: ‘a landscape that could out-Tuscany Tuscany’](https://www.theguardian.com/travel/2026/sep/16/culinary-tour-zagreb-county-croatia)
-- [‘Who do they dream of becoming?’ Teenage girls in America – in pictures](https://www.theguardian.com/artanddesign/gallery/2026/sep/16/teenage-girls-in-america-eva-verbeeck-in-pictures)
+- [Bank of England expected to slow bond-selling programme and hold interest rates today – business live](https://www.theguardian.com/business/live/2026/sep/17/bank-of-england-interest-rates-bond-buying-qt-stock-market-ftse-latest-news-updates)
+- [Peers call for UK to enact tobacco-style ban on gambling advertising](https://www.theguardian.com/society/2026/sep/17/peers-call-for-uk-to-enact-tobacco-style-ban-gambling-advertising)
+- [Access to nature inequalities ‘on par with Victorian Britain’s filthy air’](https://www.theguardian.com/environment/2026/sep/17/nature-access-inequalities-wildlife-trusts-green-blue-space-england)
+- [Beyond Bradford and the Brontës – new walking trail shows West Yorkshire’s natural beauty](https://www.theguardian.com/travel/2026/sep/17/bradford-pennine-gateway-walking-trail-west-yorkshire)
+- [The Strangers by Naomi Alderman review – where has this odd new species come from?](https://www.theguardian.com/books/2026/sep/17/the-strangers-by-naomi-alderman-review-where-has-this-odd-new-species-come-from)
+- [The Watergate Caper: Richard Nixon and the Death of the American Dream review – political scandal, 70s style](https://www.theguardian.com/film/2026/sep/17/the-watergate-caper-richard-nixon-and-the-death-of-the-american-dream-review-political-scandal-70s-style)
+- [OpenAI reveals cases of ‘concerning’ AI behaviour as it announces new disclosure system](https://www.theguardian.com/technology/2026/sep/17/openai-reports-concerning-ai-behaviour-jailbreak-talking-to-other-agents)
+- [TV tonight: romance scams to make your blood boil](https://www.theguardian.com/tv-and-radio/2026/sep/17/tv-tonight-romance-scams-to-make-your-blood-boil)
+- [Driving that’s too fast, too dangerous and utterly lawless: why do we tolerate this petro-masculinity? | George Monbiot](https://www.theguardian.com/commentisfree/2026/sep/17/driving-fast-dangerous-lawless-towns-countryside-suv-transport)
+- [Women in England with incurable breast cancer to get life-extending drug on NHS](https://www.theguardian.com/society/2026/sep/17/women-england-incurable-breast-cancer-life-extending-drug-enhertu-nhs)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

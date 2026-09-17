@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Apple M5 Ultra Geekbench](https://browser.geekbench.com/v7/cpu/354092)
-- [Roundtables: Could AI kill us all?](https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/)
-- [DFOS is an open protocol for identities, signed records, delegated permissions](https://protocol.dfos.com)
-- [Klaus Programmieren](https://klausprogrammieren.com/)
-- [Due to DMA, Siri AI delayed in EU for iOS 27 and iPadOS 27](https://www.apple.com/newsroom/2026/06/due-to-dma-siri-ai-delayed-in-eu-for-ios-27-and-ipados-27/)
-- [Zelensky&#39;s strategy is national suicide](https://spectator.com/article/zelenskys-strategy-is-national-suicide/)
-- [Mozill&#39;s Built-In VPN in Firefox](https://news.ycombinator.com/item?id=49722942)
-- [Bootstrap from Twitter](https://getbootstrap.com/2.0.2/)
-- [GPT Image 2.5 Prompts](https://github.com/VulcanEon/awesome-gpt-image-2.5-prompts)
-- [How Streaks Work?](https://sheets.works/data-viz/streaks)
+- [Write Your Novel in a Calendar](https://rebeccamakkai.substack.com/p/write-your-novel-in-a-calendar)
+- [A return to two-pizza culture](https://www.allthingsdistributed.com/2026/06/return-to-two-pizza-culture.html)
+- [Faster NumPy in the Browser](https://notebook.link/blog/the-last-mile-faster-numpy/)
+- [Show HN: Compute:Arena – Community submitted local AI benchmarks](https://computearena.ai)
+- [Show HN: Alidade – an open-source Web-GIS where the map is one JSON document](https://github.com/AysanZ/alidade)
+- [Open-jev: One-pass option scoring with Gemma 3 4B, similar to jev](https://github.com/daseinlabs/open-jev)
+- [Trae cuts monthly usage allowance to $200 &lpar;50% reduction&rpar;](https://www.trae.ai/pricing)
+- [Show HN: Clippety – Private video clipping in the browser](https://clippety.com/)
+- [Free invoice generator, 100% client-side – no signup, no server storage](https://www.InvoiceCraft.com)
+- [Great Plains Shelterbelt &lpar;1934 geoengineering project&rpar;](https://en.wikipedia.org/wiki/Great_Plains_Shelterbelt)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

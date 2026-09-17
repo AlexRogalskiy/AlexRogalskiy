@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Salesforce’s massive outage exposes the hidden risks of cloud dependencies](https://www.computerworld.com/article/4223052/salesforces-massive-outage-exposes-the-hidden-risks-of-cloud-dependencies-2.html)
+- [LinkedIn fights for the right to tell customers when the feds want their data](https://www.computerworld.com/article/4222967/linkedin-fights-for-the-right-to-tell-customers-when-the-feds-want-their-data-2.html)
+- [Big Tech’s AI safety rift signals disruption and disparity for enterprises](https://www.computerworld.com/article/4222898/big-techs-ai-safety-rift-signals-disruption-and-disparity-for-enterprises.html)
+- [Nextcloud adds desktop app for Euro-Office productivity suite](https://www.computerworld.com/article/4221689/nextcloud-adds-desktop-app-for-euro-office-productivity-suite.html)
+- [AWS bets that AI agents need an inbox, not another chat window](https://www.computerworld.com/article/4222890/aws-bets-that-ai-agents-need-an-inbox-not-another-chat-window-3.html)
+- [Apple just gave every iPhone photo a digital alibi](https://www.computerworld.com/article/4222803/apple-just-gave-every-iphone-photo-a-digital-alibi.html)
+- [Here’s why Microsoft supports open-source Chinese AI](https://www.computerworld.com/article/4221829/heres-why-microsoft-supports-open-source-chinese-ai.html)
+- [5 efficiency-enhancing Chrome extensions worth trying on Android](https://www.computerworld.com/article/4222336/chrome-android-extensions-efficiency.html)
 - [Oracle forecasts 33% increase in restructuring costs as new round of layoffs hits](https://www.computerworld.com/article/4222308/oracle-forecasts-33-increase-in-restructuring-costs-as-new-round-of-layoffs-hits-2.html)
 - [Tech layoffs: A 2026 timeline](https://www.computerworld.com/article/3816579/tech-layoffs-this-year-a-timeline.html)
-- [Apple to OpenAI: If you have nothing to hide, you have nothing to fear](https://www.computerworld.com/article/4222216/apple-to-openai-if-you-have-nothing-to-hide-you-have-nothing-to-fear.html)
-- [Tech CEOs used to fear their boards. No more](https://www.computerworld.com/article/4221874/tech-ceos-used-to-fear-their-boards-no-more.html)
-- [Microsoft’s AI Code of Conduct aims to curb AI behavior but lacks specifics](https://www.computerworld.com/article/4221862/microsofts-ai-code-of-conduct-aims-to-curb-ai-behavior.html)
-- [12+ reasons to update to iOS 27 today](https://www.computerworld.com/article/4221738/12-reasons-to-update-to-ios-27-today.html)
-- [September Patch Tuesday: 963 CVEs, 2 exploited flaws, 1 message](https://www.computerworld.com/article/4221672/september-patch-tuesday-963-cves-2-exploited-flaws-1-message.html)
-- [Govern AI agents like workers. Just don’t pretend they’re human](https://www.computerworld.com/article/4213117/govern-ai-agents-like-workers-just-dont-pretend-theyre-human.html)
-- [General Robotics takes a new approach to building a robotic brain](https://www.computerworld.com/article/4221292/general-robotics-takes-a-new-approach-to-building-a-robotic-brain.html)
-- [Microsoft’s Patch Tuesday updates: Keeping up with the latest fixes](https://www.computerworld.com/article/3481576/microsofts-patch-tuesday-updates-keeping-up-with-the-latest-fixes.html)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

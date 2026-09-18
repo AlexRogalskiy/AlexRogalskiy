@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Cloudflare/Security-Audit-Skill](https://github.com/cloudflare/security-audit-skill)
-- [Jev Ultrafast: A browser agent with a dynamic, indexed action space](https://github.com/browser-use/jev-ultrafast)
-- [Keys Not Included: recovering the signing keys for US driver&#39;s license barcodes](https://ryan.science/blog/keys-not-included)
-- [Monsanto&#39;s Cruel, and Dangerous, Monopolization on American Farming &lpar;2008&rpar;](https://www.vanityfair.com/news/2008/05/monsanto200805)
-- [Part-human part-mouse brain developed in science breakthrough](https://www.bbc.com/news/articles/c60m3k28j81mo)
-- [The Return of Sail Power: Cargo Ships Are Turning Back to the Wind](https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/)
-- [OpenSpec – A lightweight and configurable AI spec framework](https://openspec.dev/)
-- [HarnessTax: How Much Does the Harness Matter for Coding Agents?](https://harnesstax.github.io/)
-- [Breaking the 1.58-bit Barrier for Ternary LLMs](https://arxiv.org/abs/2609.16338)
-- [Backups Aren&#39;t Simple](https://filipovski.net/2026/09/16/backups-arent-simple.html)
+- [Jemalloc 5.4.0](https://github.com/jemalloc/jemalloc/releases/tag/5.4.0)
+- [The scourge of x86 emulation](https://fex-emu.com/Scourge-of-emulation/)
+- [Waymo in Singapore](https://waymo.com/waymo-in-singapore/)
+- [Pre-Greek: The lost language hidden within Ancient Greek](https://linguisticdiscovery.com/posts/pre-greek/)
+- [Code Scans](https://devin.ai/blog/introducing-code-scans)
+- [Hacking OpenAI](https://www.hacktron.ai/blog/hacking-openai)
+- [Shapelearn Qwen 3.8 27B &lpar;13.1 GB VRAM&rpar;](https://byteshape.com/blogs/Qwen3.8-27B/)
+- [Minimal Phone 2](https://minimalcompany.com/)
+- [Ask A Monk – A digital wilderness for thoughts with no immediate answer](https://askamonk.online)
+- [Telstra outage: The night a network decided the year was 2006](https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

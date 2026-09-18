@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Bank of England expected to slow bond-selling programme and hold interest rates today – business live](https://www.theguardian.com/business/live/2026/sep/17/bank-of-england-interest-rates-bond-buying-qt-stock-market-ftse-latest-news-updates)
-- [Peers call for UK to enact tobacco-style ban on gambling advertising](https://www.theguardian.com/society/2026/sep/17/peers-call-for-uk-to-enact-tobacco-style-ban-gambling-advertising)
-- [Access to nature inequalities ‘on par with Victorian Britain’s filthy air’](https://www.theguardian.com/environment/2026/sep/17/nature-access-inequalities-wildlife-trusts-green-blue-space-england)
-- [Beyond Bradford and the Brontës – new walking trail shows West Yorkshire’s natural beauty](https://www.theguardian.com/travel/2026/sep/17/bradford-pennine-gateway-walking-trail-west-yorkshire)
-- [The Strangers by Naomi Alderman review – where has this odd new species come from?](https://www.theguardian.com/books/2026/sep/17/the-strangers-by-naomi-alderman-review-where-has-this-odd-new-species-come-from)
-- [The Watergate Caper: Richard Nixon and the Death of the American Dream review – political scandal, 70s style](https://www.theguardian.com/film/2026/sep/17/the-watergate-caper-richard-nixon-and-the-death-of-the-american-dream-review-political-scandal-70s-style)
-- [OpenAI reveals cases of ‘concerning’ AI behaviour as it announces new disclosure system](https://www.theguardian.com/technology/2026/sep/17/openai-reports-concerning-ai-behaviour-jailbreak-talking-to-other-agents)
-- [TV tonight: romance scams to make your blood boil](https://www.theguardian.com/tv-and-radio/2026/sep/17/tv-tonight-romance-scams-to-make-your-blood-boil)
-- [Driving that’s too fast, too dangerous and utterly lawless: why do we tolerate this petro-masculinity? | George Monbiot](https://www.theguardian.com/commentisfree/2026/sep/17/driving-fast-dangerous-lawless-towns-countryside-suv-transport)
-- [Women in England with incurable breast cancer to get life-extending drug on NHS](https://www.theguardian.com/society/2026/sep/17/women-england-incurable-breast-cancer-life-extending-drug-enhertu-nhs)
+- [Japan raises interest rates to 31-year high as central bankers fight inflation; retail sales rise in Great Britain – business live](https://www.theguardian.com/business/live/2026/sep/18/japan-raises-interest-rates-central-bankers-fight-inflation-gb-retail-sales-rise-latest-news-updates)
+- [‘Outright racist’ activist Daniel Thomas will face ‘full force of law’ over any crimes, says home secretary](https://www.theguardian.com/politics/2026/sep/18/daniel-thomas-shabana-mahmood-far-right-extremism-asylum-sites)
+- [Revealed: How Russia use mobile ‘super-app’ Max to spy on its citizens](https://www.theguardian.com/world/2026/sep/18/russian-super-app-max-spy-citizens)
+- [No Land to Stand On by Mahmoud Khalil review – a searing account of political imprisonment](https://www.theguardian.com/books/2026/sep/18/no-land-to-stand-on-by-mahmoud-khalil-review-a-searing-account-of-political-imprisonment)
+- [The world’s rivers are at breaking point. Can we save them before it is too late?](https://www.theguardian.com/environment/2026/sep/17/down-to-earth-our-rivers-project)
+- [Homes with a standout facade for sale in England – in pictures](https://www.theguardian.com/money/gallery/2026/sep/18/homes-with-a-standout-facade-for-sale-in-england-in-pictures)
+- [Global leaders urged to join initiative to fight extreme inequality](https://www.theguardian.com/inequality/2026/sep/18/global-leaders-urged-to-join-initiative-to-fight-extreme-inequality)
+- [Former Labour deputy leader Tom Watson joins Palantir](https://www.theguardian.com/politics/2026/sep/18/former-labour-deputy-leader-tom-watson-joins-palantir)
+- [Paul, John... and Yvonne? The French novelist asking: what if a woman had written the Beatles’ greatest hits?](https://www.theguardian.com/books/2026/sep/18/author-michel-bussi-code-yesterday-one-woman-wrote-the-beatles-songs)
+- [Youth to Brothers: the seven best shows to watch this week](https://www.theguardian.com/tv-and-radio/2026/sep/18/the-seven-best-shows-to-watch-this-week)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -355,6 +355,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [An undisclosed Microsoft presentation is now central to a multi-million dollar antitrust fight](https://www.computerworld.com/article/4223616/an-undisclosed-microsoft-presentation-is-now-central-to-a-multi-million-dollar-antitrust-fight.html)
+- [Anthropic tries to make Claude stickier with launch of Docs and Slides](https://www.computerworld.com/article/4223177/anthropic-tries-to-make-claude-stickier-with-launch-of-docs-and-slides.html)
+- [Will Apple enter the server business?](https://www.computerworld.com/article/4223436/will-apple-enter-the-server-business.html)
 - [Salesforce’s massive outage exposes the hidden risks of cloud dependencies](https://www.computerworld.com/article/4223052/salesforces-massive-outage-exposes-the-hidden-risks-of-cloud-dependencies-2.html)
 - [LinkedIn fights for the right to tell customers when the feds want their data](https://www.computerworld.com/article/4222967/linkedin-fights-for-the-right-to-tell-customers-when-the-feds-want-their-data-2.html)
 - [Big Tech’s AI safety rift signals disruption and disparity for enterprises](https://www.computerworld.com/article/4222898/big-techs-ai-safety-rift-signals-disruption-and-disparity-for-enterprises.html)
@@ -362,9 +365,6 @@
 - [AWS bets that AI agents need an inbox, not another chat window](https://www.computerworld.com/article/4222890/aws-bets-that-ai-agents-need-an-inbox-not-another-chat-window-3.html)
 - [Apple just gave every iPhone photo a digital alibi](https://www.computerworld.com/article/4222803/apple-just-gave-every-iphone-photo-a-digital-alibi.html)
 - [Here’s why Microsoft supports open-source Chinese AI](https://www.computerworld.com/article/4221829/heres-why-microsoft-supports-open-source-chinese-ai.html)
-- [5 efficiency-enhancing Chrome extensions worth trying on Android](https://www.computerworld.com/article/4222336/chrome-android-extensions-efficiency.html)
-- [Oracle forecasts 33% increase in restructuring costs as new round of layoffs hits](https://www.computerworld.com/article/4222308/oracle-forecasts-33-increase-in-restructuring-costs-as-new-round-of-layoffs-hits-2.html)
-- [Tech layoffs: A 2026 timeline](https://www.computerworld.com/article/3816579/tech-layoffs-this-year-a-timeline.html)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

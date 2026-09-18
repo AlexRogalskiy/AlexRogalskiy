@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Write Your Novel in a Calendar](https://rebeccamakkai.substack.com/p/write-your-novel-in-a-calendar)
-- [A return to two-pizza culture](https://www.allthingsdistributed.com/2026/06/return-to-two-pizza-culture.html)
-- [Faster NumPy in the Browser](https://notebook.link/blog/the-last-mile-faster-numpy/)
-- [Show HN: Compute:Arena – Community submitted local AI benchmarks](https://computearena.ai)
-- [Show HN: Alidade – an open-source Web-GIS where the map is one JSON document](https://github.com/AysanZ/alidade)
-- [Open-jev: One-pass option scoring with Gemma 3 4B, similar to jev](https://github.com/daseinlabs/open-jev)
-- [Trae cuts monthly usage allowance to $200 &lpar;50% reduction&rpar;](https://www.trae.ai/pricing)
-- [Show HN: Clippety – Private video clipping in the browser](https://clippety.com/)
-- [Free invoice generator, 100% client-side – no signup, no server storage](https://www.InvoiceCraft.com)
-- [Great Plains Shelterbelt &lpar;1934 geoengineering project&rpar;](https://en.wikipedia.org/wiki/Great_Plains_Shelterbelt)
+- [BYOK vs. fixed subscription like GitHub Copilot, codex or Claude](https://news.ycombinator.com/item?id=49750964)
+- [Union Alpha is Pareto 26.9](https://twitter.com/unionalphaai/status/2100722366200557603)
+- [Chinese AI not powerful enough to see rogue-AI risks, says Huawei](https://www.reuters.com/world/china/huaweis-xu-says-chinese-ai-not-powerful-enough-yet-see-frontier-risks-2026-09-17/)
+- [Turns out, Astra cannot build manufacturing CAD yet](https://interpretai.tech/benchmark/cad)
+- [Ctenophores Aren&#39;t Just Beautiful – They&#39;re Biological Wonders &lpar;Image Gallery&rpar;](https://www.quantamagazine.org/ctenophores-arent-just-beautiful-theyre-biological-wonders-20260916/)
+- [WikiLeaks Founder Julian Assange Returns to X After 8 Years](https://twitter.com/JulianAssange/status/2100759920328966501)
+- [Planning permission for Mayo data centre overturned after appeal](https://www.westernpeople.ie/news/planning-permission-for-mayo-data-centre-overturned-after-appeal_arid-111262.html)
+- [I built a free AI tarot reader for Android](https://play.google.com/store/apps/details?id=com.earthbound_tarot&hl=en_US)
+- [Grok 4.7 Launching Soon](https://twitter.com/birdabo/status/2100578715499704551)
+- [The Wandervogel](https://medium.com/luminasticity/the-wandervogel-e74169996806)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

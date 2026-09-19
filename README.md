@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
-- [An undisclosed Microsoft presentation is now central to a multi-million dollar antitrust fight](https://www.computerworld.com/article/4223616/an-undisclosed-microsoft-presentation-is-now-central-to-a-multi-million-dollar-antitrust-fight.html)
+- [Microsoft mops up after Patch Tuesday broke logins, audio, Excel](https://www.computerworld.com/article/4223945/microsoft-mops-up-after-patch-tuesday-broke-logins-audio-excel.html)
+- [GhostCode attackers abuse device codes to take over Microsoft 365 accounts](https://www.computerworld.com/article/4223889/ghostcode-attackers-abuse-device-codes-to-take-over-microsoft-365-accounts.html)
+- [With Siri Recap, Apple threw a punch at OpenAI no one saw coming](https://www.computerworld.com/article/4223856/with-siri-recap-apple-threw-a-punch-at-openai-no-one-saw-coming.html)
+- [More and more people believe that AI will take away jobs rather than create new ones](https://www.computerworld.com/article/4223962/more-and-more-people-believe-that-ai-will-take-away-jobs-rather-than-create-new-ones.html)
+- [Why AI companies are really pumping the brakes on their models](https://www.computerworld.com/article/4223523/why-ai-companies-are-really-pumping-the-brakes-on-their-models.html)
+- [5 internet-improving Chrome extensions worth trying on Android](https://www.computerworld.com/article/4222361/chrome-android-extensions-internet.html)
+- [An undisclosed Microsoft presentation is now central to a multimillion-dollar antitrust fight](https://www.computerworld.com/article/4223616/an-undisclosed-microsoft-presentation-is-now-central-to-a-multi-million-dollar-antitrust-fight.html)
 - [Anthropic tries to make Claude stickier with launch of Docs and Slides](https://www.computerworld.com/article/4223177/anthropic-tries-to-make-claude-stickier-with-launch-of-docs-and-slides.html)
 - [Will Apple enter the server business?](https://www.computerworld.com/article/4223436/will-apple-enter-the-server-business.html)
 - [Salesforce’s massive outage exposes the hidden risks of cloud dependencies](https://www.computerworld.com/article/4223052/salesforces-massive-outage-exposes-the-hidden-risks-of-cloud-dependencies-2.html)
-- [LinkedIn fights for the right to tell customers when the feds want their data](https://www.computerworld.com/article/4222967/linkedin-fights-for-the-right-to-tell-customers-when-the-feds-want-their-data-2.html)
-- [Big Tech’s AI safety rift signals disruption and disparity for enterprises](https://www.computerworld.com/article/4222898/big-techs-ai-safety-rift-signals-disruption-and-disparity-for-enterprises.html)
-- [Nextcloud adds desktop app for Euro-Office productivity suite](https://www.computerworld.com/article/4221689/nextcloud-adds-desktop-app-for-euro-office-productivity-suite.html)
-- [AWS bets that AI agents need an inbox, not another chat window](https://www.computerworld.com/article/4222890/aws-bets-that-ai-agents-need-an-inbox-not-another-chat-window-3.html)
-- [Apple just gave every iPhone photo a digital alibi](https://www.computerworld.com/article/4222803/apple-just-gave-every-iphone-photo-a-digital-alibi.html)
-- [Here’s why Microsoft supports open-source Chinese AI](https://www.computerworld.com/article/4221829/heres-why-microsoft-supports-open-source-chinese-ai.html)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [BYOK vs. fixed subscription like GitHub Copilot, codex or Claude](https://news.ycombinator.com/item?id=49750964)
-- [Union Alpha is Pareto 26.9](https://twitter.com/unionalphaai/status/2100722366200557603)
-- [Chinese AI not powerful enough to see rogue-AI risks, says Huawei](https://www.reuters.com/world/china/huaweis-xu-says-chinese-ai-not-powerful-enough-yet-see-frontier-risks-2026-09-17/)
-- [Turns out, Astra cannot build manufacturing CAD yet](https://interpretai.tech/benchmark/cad)
-- [Ctenophores Aren&#39;t Just Beautiful – They&#39;re Biological Wonders &lpar;Image Gallery&rpar;](https://www.quantamagazine.org/ctenophores-arent-just-beautiful-theyre-biological-wonders-20260916/)
-- [WikiLeaks Founder Julian Assange Returns to X After 8 Years](https://twitter.com/JulianAssange/status/2100759920328966501)
-- [Planning permission for Mayo data centre overturned after appeal](https://www.westernpeople.ie/news/planning-permission-for-mayo-data-centre-overturned-after-appeal_arid-111262.html)
-- [I built a free AI tarot reader for Android](https://play.google.com/store/apps/details?id=com.earthbound_tarot&hl=en_US)
-- [Grok 4.7 Launching Soon](https://twitter.com/birdabo/status/2100578715499704551)
-- [The Wandervogel](https://medium.com/luminasticity/the-wandervogel-e74169996806)
+- [UK air traffic control outage caused by software defect, says operator](https://www.reuters.com/world/uk/uk-air-traffic-control-outage-caused-by-software-defect-says-operator-2026-09-18/)
+- [Claude couldn&#39;t hack OpenAI. Then Anthropic shipped Opus 5](https://thenewstack.io/claude-exploits-openai-forum/)
+- [MacSurf for Mac OS 8.6~10.6 &quot;Open Tabs&quot; Released](https://macsurf.org/download.html)
+- [SPC970-MechaLIBerator: PlayStation 2 SPC970 MechaCon dumper &lpar;with vuln detail&rpar;](https://github.com/Libbers/SPC970-MechaLIBerator)
+- [GPT-6 Astra Solves a WWI German Radio Cipher](https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio)
+- [AI hallucination of Chinese nuclear components almost led to US Military attack](https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/)
+- [Anthropic partnering with Accenture on embedded evaluation](https://www.anthropic.com/news/accenture-embedded-evaluation)
+- [Vipassana, Volini, and Viktor Frankl](https://jatin564991.substack.com/p/vipassana-volini-and-viktor-frankl)
+- [If math is more than proof, we need to better celebrate the rest of it](https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/)
+- [Apple M6 Pro Achieves the Highest Single-Core CPU Score in Geekbench 7](https://browser.geekbench.com/v7/cpu/389219)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

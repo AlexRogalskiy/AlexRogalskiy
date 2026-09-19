@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Jemalloc 5.4.0](https://github.com/jemalloc/jemalloc/releases/tag/5.4.0)
-- [The scourge of x86 emulation](https://fex-emu.com/Scourge-of-emulation/)
-- [Waymo in Singapore](https://waymo.com/waymo-in-singapore/)
-- [Pre-Greek: The lost language hidden within Ancient Greek](https://linguisticdiscovery.com/posts/pre-greek/)
-- [Code Scans](https://devin.ai/blog/introducing-code-scans)
-- [Hacking OpenAI](https://www.hacktron.ai/blog/hacking-openai)
-- [Shapelearn Qwen 3.8 27B &lpar;13.1 GB VRAM&rpar;](https://byteshape.com/blogs/Qwen3.8-27B/)
-- [Minimal Phone 2](https://minimalcompany.com/)
-- [Ask A Monk – A digital wilderness for thoughts with no immediate answer](https://askamonk.online)
-- [Telstra outage: The night a network decided the year was 2006](https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006)
+- [If math is more than proof, we need to better celebrate the rest of it](https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/)
+- [Human brain is two separate organs, Stanford Medicine-led research finds](https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html)
+- [NASA-IBM Lunar Foundation open-Source Geospatial AI Model](https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/)
+- [San Francisco Onion Futures Company](https://onionfutures.com/)
+- [SDCC – Small Device C Compiler](https://sdcc.sourceforge.net/)
+- [Science Is Open Software](https://jepedersen.dk/blog/202505_research/)
+- [Alibaba open-sources AI model that can detect cancer and nearly 150 conditions](https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions)
+- [How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip](https://spectrum.ieee.org/llms-for-chip-design)
+- [Claude Code now reads AGENTS.md if there is no Claude.md](https://code.claude.com/docs/en/changelog)
+- [Android 17 is the first since 3.x to add new APIs without releasing to the AOSP](https://grapheneos.social/@GrapheneOS/117282080803799576)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

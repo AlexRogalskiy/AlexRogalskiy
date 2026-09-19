@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Japan raises interest rates to 31-year high as central bankers fight inflation; retail sales rise in Great Britain – business live](https://www.theguardian.com/business/live/2026/sep/18/japan-raises-interest-rates-central-bankers-fight-inflation-gb-retail-sales-rise-latest-news-updates)
-- [‘Outright racist’ activist Daniel Thomas will face ‘full force of law’ over any crimes, says home secretary](https://www.theguardian.com/politics/2026/sep/18/daniel-thomas-shabana-mahmood-far-right-extremism-asylum-sites)
-- [Revealed: How Russia use mobile ‘super-app’ Max to spy on its citizens](https://www.theguardian.com/world/2026/sep/18/russian-super-app-max-spy-citizens)
-- [No Land to Stand On by Mahmoud Khalil review – a searing account of political imprisonment](https://www.theguardian.com/books/2026/sep/18/no-land-to-stand-on-by-mahmoud-khalil-review-a-searing-account-of-political-imprisonment)
-- [The world’s rivers are at breaking point. Can we save them before it is too late?](https://www.theguardian.com/environment/2026/sep/17/down-to-earth-our-rivers-project)
-- [Homes with a standout facade for sale in England – in pictures](https://www.theguardian.com/money/gallery/2026/sep/18/homes-with-a-standout-facade-for-sale-in-england-in-pictures)
-- [Global leaders urged to join initiative to fight extreme inequality](https://www.theguardian.com/inequality/2026/sep/18/global-leaders-urged-to-join-initiative-to-fight-extreme-inequality)
-- [Former Labour deputy leader Tom Watson joins Palantir](https://www.theguardian.com/politics/2026/sep/18/former-labour-deputy-leader-tom-watson-joins-palantir)
-- [Paul, John... and Yvonne? The French novelist asking: what if a woman had written the Beatles’ greatest hits?](https://www.theguardian.com/books/2026/sep/18/author-michel-bussi-code-yesterday-one-woman-wrote-the-beatles-songs)
-- [Youth to Brothers: the seven best shows to watch this week](https://www.theguardian.com/tv-and-radio/2026/sep/18/the-seven-best-shows-to-watch-this-week)
+- [Swimmer dies after being bitten by shark off popular Perth beach](https://www.theguardian.com/australia-news/2026/sep/18/swimmer-dies-after-being-bitten-by-shark-off-popular-perth-beach)
+- [‘He’s simply astonishing’: will Andrew Scott become the first out gay man to win the best actor Oscar?](https://www.theguardian.com/film/2026/sep/19/andrew-scott-best-actor-oscar-out-gay-elsinore-ian-charleson)
+- [Harrods seeks to recover abuse compensation costs from Mohamed Al Fayed’s estate](https://www.theguardian.com/business/2026/sep/19/harrods-mohamed-al-fayed-estate-compensation-bill-survivors-of-abuse)
+- [The Guide #261: There is so much good telly this autumn you may never go outside again](https://www.theguardian.com/culture/2026/sep/19/tv-this-autumn-hbo-the-war-the-paper)
+- [Youth: Sharon Horgan’s comedy about dating at 50 is utterly hilarious](https://www.theguardian.com/tv-and-radio/2026/sep/19/youth-sharon-horgans-comedy-dating-at-50-hbo-max)
+- [Spider season! Ten species you’ll see scuttling across Britain’s carpets and lawns this autumn](https://www.theguardian.com/environment/2026/sep/19/spider-season-ten-species-you-will-see-scuttling-across-britains-carpets-and-lawns-this-autumn)
+- [The David Bowie Centre is part of which museum? The Saturday quiz](https://www.theguardian.com/lifeandstyle/2026/sep/19/the-david-bowie-centre-is-part-of-which-museum-the-saturday-quiz)
+- [Meditating by the Dnipro: I’m an artist in Ukraine, searching for peace and a life between the missiles | Anna Ivanenko](https://www.theguardian.com/commentisfree/ng-interactive/2026/sep/19/ukraine-russia-artist-meditation-peace-between-missiles-dnipro-river)
+- [Tim Dowling: could the new dog’s tricks make her into a star?](https://www.theguardian.com/lifeandstyle/2026/sep/19/tim-dowling-could-the-new-dogs-tricks-make-her-into-a-star)
+- [Nine women in South Africa have been murdered since July. We are being told to be vigilant – but where are the warnings to men? | Nolethu Ndude](https://www.theguardian.com/global-development/2026/sep/19/nine-women-in-south-africa-have-been-murdered-since-july-we-are-being-told-to-be-vigilant-but-where-are-the-warnings-to-men)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

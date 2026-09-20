@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Swimmer dies after being bitten by shark off popular Perth beach](https://www.theguardian.com/australia-news/2026/sep/18/swimmer-dies-after-being-bitten-by-shark-off-popular-perth-beach)
-- [‘He’s simply astonishing’: will Andrew Scott become the first out gay man to win the best actor Oscar?](https://www.theguardian.com/film/2026/sep/19/andrew-scott-best-actor-oscar-out-gay-elsinore-ian-charleson)
-- [Harrods seeks to recover abuse compensation costs from Mohamed Al Fayed’s estate](https://www.theguardian.com/business/2026/sep/19/harrods-mohamed-al-fayed-estate-compensation-bill-survivors-of-abuse)
-- [The Guide #261: There is so much good telly this autumn you may never go outside again](https://www.theguardian.com/culture/2026/sep/19/tv-this-autumn-hbo-the-war-the-paper)
-- [Youth: Sharon Horgan’s comedy about dating at 50 is utterly hilarious](https://www.theguardian.com/tv-and-radio/2026/sep/19/youth-sharon-horgans-comedy-dating-at-50-hbo-max)
-- [Spider season! Ten species you’ll see scuttling across Britain’s carpets and lawns this autumn](https://www.theguardian.com/environment/2026/sep/19/spider-season-ten-species-you-will-see-scuttling-across-britains-carpets-and-lawns-this-autumn)
-- [The David Bowie Centre is part of which museum? The Saturday quiz](https://www.theguardian.com/lifeandstyle/2026/sep/19/the-david-bowie-centre-is-part-of-which-museum-the-saturday-quiz)
-- [Meditating by the Dnipro: I’m an artist in Ukraine, searching for peace and a life between the missiles | Anna Ivanenko](https://www.theguardian.com/commentisfree/ng-interactive/2026/sep/19/ukraine-russia-artist-meditation-peace-between-missiles-dnipro-river)
-- [Tim Dowling: could the new dog’s tricks make her into a star?](https://www.theguardian.com/lifeandstyle/2026/sep/19/tim-dowling-could-the-new-dogs-tricks-make-her-into-a-star)
-- [Nine women in South Africa have been murdered since July. We are being told to be vigilant – but where are the warnings to men? | Nolethu Ndude](https://www.theguardian.com/global-development/2026/sep/19/nine-women-in-south-africa-have-been-murdered-since-july-we-are-being-told-to-be-vigilant-but-where-are-the-warnings-to-men)
+- [Hundreds of drones target Moscow on last day of voting in Russia’s parliamentary election](https://www.theguardian.com/world/2026/sep/20/hundreds-of-drones-target-moscow-on-last-day-of-voting-in-russias-parliamentary-election)
+- [Thousands of pregnant women in England are reporting domestic abuse. Midwives are struggling to cope](https://www.theguardian.com/society/2026/sep/20/thousands-of-pregnant-women-in-england-are-reporting-domestic-abuse-midwives-are-struggling-to-cope)
+- [Why China is pushing back on US warnings over rapid AI development](https://www.theguardian.com/world/2026/sep/20/why-china-is-pushing-back-on-us-warnings-over-rapid-ai-development)
+- [Farage says he wants to ‘hijack’ Trump’s ICE czar to help secure UK border](https://www.theguardian.com/politics/2026/sep/20/farage-says-he-wants-to-hijack-trumps-ice-czar-to-help-secure-uk-border)
+- [Chiltern Railways enters public ownership in Labour nationalisation push](https://www.theguardian.com/business/2026/sep/20/chiltern-railways-enters-public-ownership-labour-nationalisation)
+- [10 of the best mountain huts in Europe: bunkrooms, bothies and bonhomie](https://www.theguardian.com/travel/2026/sep/20/best-mountain-huts-europe)
+- [‘Flip the table and rise up’: Lib Dems’ president in combative mood as party gathers in Brighton](https://www.theguardian.com/politics/2026/sep/20/lib-dem-president-josh-barbarinde-combative-mood-party-conference)
+- [Reαd carefully: how to spot – and avoid – a homoglyph attack](https://www.theguardian.com/money/2026/sep/20/how-to-spot-avoid-homoglyph-attack-scam)
+- [TV tonight: a spin-off from Abi Morgan’s soapy, glossy, entertaining divorce drama](https://www.theguardian.com/tv-and-radio/2026/sep/20/tv-tonight-a-spin-off-from-abi-morgans-soapy-glossy-entertaining-divorce-drama)
+- [Are global stock markets heading for a crash?](https://www.theguardian.com/business/ng-interactive/2026/sep/20/stock-market-crash-government-bond-yields)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

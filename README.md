@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Global Challenges in AI Safety for Biosecurity](https://www.lesswrong.com/posts/KH2JjfSrw6tJdmKzw/global-challenges-in-ai-safety-for-biosecurity)
-- [OnePlus Settled](https://finshots.in/archive/how-oneplus-settled/)
-- [I tried the new Fairphone, a phone designed to be repaired](https://www.fastcompany.com/91608879/i-tried-the-new-fairphone-a-phone-designed-to-be-repaired)
-- [Laser Your Way into Debug Mode on the RP2350](https://hackaday.com/2026/09/19/laser-your-way-into-debug-mode-on-the-rp2350/)
-- [Show HN: ChatGPT to Word – export a thread to a readable .docx](https://chatgpt2word.com)
-- [Show HN: Website Auditor –&gt; Test your brand&#39;s AI visibility, get growth plan](https://website-auditor.io/)
-- [Show HN: Web Tools List – browser tools grouped by the job, not the format](https://webtoolslist.com)
-- [Dropbox&#39;s Jan 1st 2027 terms of service](https://www.dropbox.com/terms2026)
-- [My Dad Died by Suicide. He Left Me with 694 Video Diaries to Explain Why – NYT](https://www.youtube.com/watch?v=Kimur4jkJT8)
-- [Show HN: Morse Code Translator – real-time text-to-Morse with audio](https://morsetranslator.me/)
+- [Can Skills Learned in Games Transfer to Real-World Work?](https://www.latent.space/p/good-start-labs)
+- [Show HN: A global music video channel like 90s MTV Select](https://selectm.tv)
+- [Methods, Provenance and Limitations Documentation for Asteroid Approach Reports](https://zenodo.org/records/22868834)
+- [Apple Fitness+ Layoffs Reported Ahead of Potential &#39;Major&#39; Changes](https://www.macrumors.com/2026/09/20/apple-fitness-plus-layoffs-reported/)
+- [Kev: Tiny Jev-like family of decision models built on top of Qwen3.5](https://github.com/jaredpalmer/kev/tree/main)
+- [Effective Altruism Is Evil](https://twitter.com/thetreygoff/status/2101520207223173611)
+- [State of Engineering Is Horribleium](https://twitter.com/v0xium/status/2101526107128529120)
+- [One researcher published the &#39;System 1 AI&#39; idea in 2025](https://www.youtube.com/watch?v=fyx7xz-vtMY)
+- [Where Do Chatbots Come From? What I Wish Everyone Knew About AI in 2026](https://www.lesswrong.com/posts/dww6cpbo2XoKbsxyw/where-do-chatbots-come-from-what-i-wish-everyone-knew-about)
+- [Sublime Text Build 4213](https://www.sublimetext.com/blog/articles/sublime-text-4213)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

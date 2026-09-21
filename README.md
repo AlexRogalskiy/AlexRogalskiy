@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Hundreds of drones target Moscow on last day of voting in Russia’s parliamentary election](https://www.theguardian.com/world/2026/sep/20/hundreds-of-drones-target-moscow-on-last-day-of-voting-in-russias-parliamentary-election)
-- [Thousands of pregnant women in England are reporting domestic abuse. Midwives are struggling to cope](https://www.theguardian.com/society/2026/sep/20/thousands-of-pregnant-women-in-england-are-reporting-domestic-abuse-midwives-are-struggling-to-cope)
-- [Why China is pushing back on US warnings over rapid AI development](https://www.theguardian.com/world/2026/sep/20/why-china-is-pushing-back-on-us-warnings-over-rapid-ai-development)
-- [Farage says he wants to ‘hijack’ Trump’s ICE czar to help secure UK border](https://www.theguardian.com/politics/2026/sep/20/farage-says-he-wants-to-hijack-trumps-ice-czar-to-help-secure-uk-border)
-- [Chiltern Railways enters public ownership in Labour nationalisation push](https://www.theguardian.com/business/2026/sep/20/chiltern-railways-enters-public-ownership-labour-nationalisation)
-- [10 of the best mountain huts in Europe: bunkrooms, bothies and bonhomie](https://www.theguardian.com/travel/2026/sep/20/best-mountain-huts-europe)
-- [‘Flip the table and rise up’: Lib Dems’ president in combative mood as party gathers in Brighton](https://www.theguardian.com/politics/2026/sep/20/lib-dem-president-josh-barbarinde-combative-mood-party-conference)
-- [Reαd carefully: how to spot – and avoid – a homoglyph attack](https://www.theguardian.com/money/2026/sep/20/how-to-spot-avoid-homoglyph-attack-scam)
-- [TV tonight: a spin-off from Abi Morgan’s soapy, glossy, entertaining divorce drama](https://www.theguardian.com/tv-and-radio/2026/sep/20/tv-tonight-a-spin-off-from-abi-morgans-soapy-glossy-entertaining-divorce-drama)
-- [Are global stock markets heading for a crash?](https://www.theguardian.com/business/ng-interactive/2026/sep/20/stock-market-crash-government-bond-yields)
+- [Nvidia boss says there is ‘0% chance’ AI destroys the world by 2030](https://www.theguardian.com/technology/2026/sep/21/nvidia-boss-jensen-huang-dismisses-warnings-ai-destroys-world-anthropic)
+- [‘Our culture is rich and we need our own space’: the fight to build a permanent centre for Deaf people](https://www.theguardian.com/artanddesign/2026/sep/21/deaf-city-hub-cultural-centre)
+- [‘It’s about to go global’: American college football rocks into Wembley – a photo essay](https://www.theguardian.com/sport/2026/sep/21/american-college-football-rocks-into-wembley-photo-essay)
+- [All the signs say another financial crisis is coming. Here’s why we need to prepare for it now | Larry Elliott](https://www.theguardian.com/commentisfree/2026/sep/21/financial-crisis-ai-oil-market-2008-crash-disruption)
+- [Justin Herbert has been the quarterback of tomorrow his entire NFL career. Whose fault is that?](https://www.theguardian.com/sport/2026/sep/21/justin-herbert-chargers-quarterback-nfl)
+- [Nish Kumar: Angry Humour from a Really Nice Guy review – enraged and extremely funny](https://www.theguardian.com/stage/2026/sep/21/nish-kumar-review-hackney-empire)
+- [Premier League: 10 talking points from the weekend’s action](https://www.theguardian.com/football/2026/sep/21/premier-league-10-talking-points-from-the-weekends-action)
+- [Asian shares rise amid optimism around US-Chinese talks on trade and AI; oil prices fall – business live](https://www.theguardian.com/business/live/2026/sep/21/asian-shares-rise-optimism-us-chinese-talks-trade-ai-oil-falls-live-updates)
+- [Exhausted by optimisation, I’m seeking solace in the past. As Sibelius’s swans soar skywards, so do my spirits | Joseph Earp](https://www.theguardian.com/commentisfree/2026/sep/21/exhausted-by-optimisation-classical-music-technology-sibelius-mahler)
+- [Legend of the White Dragon review – Power Rangers alumni back for more in low-budget superhero retread](https://www.theguardian.com/film/2026/sep/21/legend-of-the-white-dragon-review)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

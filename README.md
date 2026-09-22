@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Nvidia boss says there is ‘0% chance’ AI destroys the world by 2030](https://www.theguardian.com/technology/2026/sep/21/nvidia-boss-jensen-huang-dismisses-warnings-ai-destroys-world-anthropic)
-- [‘Our culture is rich and we need our own space’: the fight to build a permanent centre for Deaf people](https://www.theguardian.com/artanddesign/2026/sep/21/deaf-city-hub-cultural-centre)
-- [‘It’s about to go global’: American college football rocks into Wembley – a photo essay](https://www.theguardian.com/sport/2026/sep/21/american-college-football-rocks-into-wembley-photo-essay)
-- [All the signs say another financial crisis is coming. Here’s why we need to prepare for it now | Larry Elliott](https://www.theguardian.com/commentisfree/2026/sep/21/financial-crisis-ai-oil-market-2008-crash-disruption)
-- [Justin Herbert has been the quarterback of tomorrow his entire NFL career. Whose fault is that?](https://www.theguardian.com/sport/2026/sep/21/justin-herbert-chargers-quarterback-nfl)
-- [Nish Kumar: Angry Humour from a Really Nice Guy review – enraged and extremely funny](https://www.theguardian.com/stage/2026/sep/21/nish-kumar-review-hackney-empire)
-- [Premier League: 10 talking points from the weekend’s action](https://www.theguardian.com/football/2026/sep/21/premier-league-10-talking-points-from-the-weekends-action)
-- [Asian shares rise amid optimism around US-Chinese talks on trade and AI; oil prices fall – business live](https://www.theguardian.com/business/live/2026/sep/21/asian-shares-rise-optimism-us-chinese-talks-trade-ai-oil-falls-live-updates)
-- [Exhausted by optimisation, I’m seeking solace in the past. As Sibelius’s swans soar skywards, so do my spirits | Joseph Earp](https://www.theguardian.com/commentisfree/2026/sep/21/exhausted-by-optimisation-classical-music-technology-sibelius-mahler)
-- [Legend of the White Dragon review – Power Rangers alumni back for more in low-budget superhero retread](https://www.theguardian.com/film/2026/sep/21/legend-of-the-white-dragon-review)
+- [UK government borrowing jumps over forecast to £18.3bn in August, in ‘dismal picture’ ahead of the budget – business live](https://www.theguardian.com/business/live/2026/sep/22/uk-government-borrowing-august-fiscal-straightjacket-john-healey-bonds-latest-news-updates)
+- [Lions and Irons: the Dockers derby – a photo essay](https://www.theguardian.com/football/2026/sep/22/millwall-west-ham-dockers-derby-in-pictures)
+- [‘It’s bordering on exploitation’: how pseudoscience is duping football](https://www.theguardian.com/football/2026/sep/22/how-pseudoscience-is-duping-football-claire-marie-roberts-interview)
+- [There is a racism and cohesion crisis in Britain, and someone needs to lead us out of it. His name is Andy Burnham | Polly Toynbee](https://www.theguardian.com/commentisfree/2026/sep/22/racism-cohesion-crisis-britain-andy-burnham-extremists)
+- [Women’s Champions League: will OL Lyonnes or English trio topple a weakened Barcelona?](https://www.theguardian.com/football/2026/sep/22/womens-champions-league-preview-ol-lyonnes-arsenal-chelsea-manchester-city-barcelona)
+- [Meet Barbie Pig: new documentary reveals the wonders of life on the Pacific seabed](https://www.theguardian.com/environment/2026/sep/22/meet-barbie-pig-new-documentary-reveals-the-wonders-of-life-on-the-pacific-seabed)
+- [‘What we have is unique’: the Indian craftsmanship behind global luxury fashion](https://www.theguardian.com/world/2026/sep/21/the-indian-craftsmanship-behind-luxury-fashion)
+- [From paleo to intermittent fasting: are any diets actually good for us? - podcast](https://www.theguardian.com/lifeandstyle/audio/2026/sep/22/do-any-diets-actually-work-podcast)
+- [Doom Painting by AK Blakemore review – a dazzling epic of the Peasants’ Revolt](https://www.theguardian.com/books/2026/sep/22/doom-painting-by-ak-blakemore-review-a-dazzling-epic-of-the-peasants-revolt)
+- [Babystar review – a new arrival upends camera-ready life in disturbing family influencer satire](https://www.theguardian.com/film/2026/sep/22/babystar-review-a-new-arrival-upends-camera-ready-life-in-disturbing-family-influencer-satire)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Can Skills Learned in Games Transfer to Real-World Work?](https://www.latent.space/p/good-start-labs)
-- [Show HN: A global music video channel like 90s MTV Select](https://selectm.tv)
-- [Methods, Provenance and Limitations Documentation for Asteroid Approach Reports](https://zenodo.org/records/22868834)
-- [Apple Fitness+ Layoffs Reported Ahead of Potential &#39;Major&#39; Changes](https://www.macrumors.com/2026/09/20/apple-fitness-plus-layoffs-reported/)
-- [Kev: Tiny Jev-like family of decision models built on top of Qwen3.5](https://github.com/jaredpalmer/kev/tree/main)
-- [Effective Altruism Is Evil](https://twitter.com/thetreygoff/status/2101520207223173611)
-- [State of Engineering Is Horribleium](https://twitter.com/v0xium/status/2101526107128529120)
-- [One researcher published the &#39;System 1 AI&#39; idea in 2025](https://www.youtube.com/watch?v=fyx7xz-vtMY)
-- [Where Do Chatbots Come From? What I Wish Everyone Knew About AI in 2026](https://www.lesswrong.com/posts/dww6cpbo2XoKbsxyw/where-do-chatbots-come-from-what-i-wish-everyone-knew-about)
-- [Sublime Text Build 4213](https://www.sublimetext.com/blog/articles/sublime-text-4213)
+- [Xenobiome Command – a colony SIM that runs offline in the browser](https://play.xenobiome.net/?src=hn)
+- [Skill and UI kit to understand PRs faster](https://github.com/annanay25/explain-pr)
+- [She died at the San Diego border. A surveillance camera was in plain sight](https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/)
+- [Move On – export your AI chats, file GDPR deletion, escalate if ignored](https://github.com/ur-grue/move-on)
+- [Show HN: I made ShipStreak to keep daily shipping gaps public](https://www.shipstreak.space/?via=hn)
+- [Pakistan Orders Hospital Beds Clear for Mass Casualty Ahead of Protest](https://www.dropsitenews.com/p/pakistan-military-protest-imran-khan-sisters-detained-hospitals-beds)
+- [Ask HN: Is Astra&#39;s writing starting to bother anyone else?](https://news.ycombinator.com/item?id=49797581)
+- [QBZ &lpar;Qobuz desktop client for Linux&rpar; shutting down](https://qbz.lol/)
+- [Show HN: Cheap and easy throwaway VPN server](https://a.l3x.in/blog/throwaway-vpn/)
+- [AI staff complain of mental toll over fears of threat to society](https://www.ft.com/content/60870960-f433-48ca-bc2c-708686a69ae7)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

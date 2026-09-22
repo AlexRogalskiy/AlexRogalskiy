@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Grim Fandango Puzzle Document &lpar;1996&rpar; [pdf]](http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf)
-- [Mini-AGI – dynamic continual learning model trained from scratch on 8GB VRAM](https://github.com/volotat/mini-AGI/)
-- [AI chatbots give wrong answers to financial queries &#39;most of the time&#39;](https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666)
-- [Winning the visa lottery](https://www.aeaweb.org/research/immigration-restrictions-firms-workers)
-- [Deterministic Core, Non-Deterministic Shell](https://outdata.net/blog/260803)
-- [Why Backprop Goes Backward &lpar;2018&rpar;](https://gregorygundersen.com/blog/2018/04/15/backprop/)
-- [Amiga Unix, Again](https://amigaux.org/)
-- [What happened to the Snowden archive](https://libroot.org/posts/what-happened-to-the-snowden-archive)
-- [AX – Google’s Open Agentic Orchestrator](https://agentexecutor.io)
-- [Ogre Battle 64 Recompiled Project at 99.05%](https://github.com/lfarroco/ogre-battle-64-recomp)
+- [Can gzip be a language model?](https://nathan.rs/posts/gzip-lm/)
+- [Apple Music to open concert venue in Battersea Power Station](https://www.bbc.com/news/articles/c607l2j2rj8ro)
+- [Used ThinkPad Buyer&#39;s Guide &lpar;2019&rpar;](https://www.bobble.tech/free-stuff/used-thinkpad-buyers-guide)
+- [MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/mimo-v2-6-pro)
+- [Claude Status – Elevated errors for multiple models](https://status.claude.com/incidents/7g1qpkyz5gxh)
+- [Socrates vs. the Written Word &lpar;2011&rpar;](https://wondermark.com/socrates-vs-writing/)
+- [Looking forward to Git 2.56 – and 3.0](https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/)
+- [Spymarks, Not Watermarks](https://brand.io/article/spymarks/)
+- [I don&#39;t want to read what you didn&#39;t write](https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/)
+- [MiMo v2.6](https://mimo.xiaomi.com/mimo-v2-6)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

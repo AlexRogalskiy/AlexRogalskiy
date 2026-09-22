@@ -355,6 +355,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [California joins US states clamping down on data center gold rush](https://www.computerworld.com/article/4224681/california-joins-us-states-clamping-down-on-data-center-gold-rush-2.html)
+- [Gemini broke into 3 companies, but Google kept it quiet because ‘no damage was done’](https://www.computerworld.com/article/4224582/gemini-broke-into-3-companies-but-google-kept-it-quiet-because-no-damage-was-done-3.html)
+- [Microsoft is pulling the plug on Publisher. What now?](https://www.computerworld.com/article/4224008/microsoft-is-pulling-the-plug-on-publisher-what-now.html)
 - [Microsoft mops up after Patch Tuesday broke logins, audio, Excel](https://www.computerworld.com/article/4223945/microsoft-mops-up-after-patch-tuesday-broke-logins-audio-excel.html)
 - [GhostCode attackers abuse device codes to take over Microsoft 365 accounts](https://www.computerworld.com/article/4223889/ghostcode-attackers-abuse-device-codes-to-take-over-microsoft-365-accounts.html)
 - [With Siri Recap, Apple threw a punch at OpenAI no one saw coming](https://www.computerworld.com/article/4223856/with-siri-recap-apple-threw-a-punch-at-openai-no-one-saw-coming.html)
@@ -362,9 +365,6 @@
 - [Why AI companies are really pumping the brakes on their models](https://www.computerworld.com/article/4223523/why-ai-companies-are-really-pumping-the-brakes-on-their-models.html)
 - [5 internet-improving Chrome extensions worth trying on Android](https://www.computerworld.com/article/4222361/chrome-android-extensions-internet.html)
 - [An undisclosed Microsoft presentation is now central to a multimillion-dollar antitrust fight](https://www.computerworld.com/article/4223616/an-undisclosed-microsoft-presentation-is-now-central-to-a-multi-million-dollar-antitrust-fight.html)
-- [Anthropic tries to make Claude stickier with launch of Docs and Slides](https://www.computerworld.com/article/4223177/anthropic-tries-to-make-claude-stickier-with-launch-of-docs-and-slides.html)
-- [Will Apple enter the server business?](https://www.computerworld.com/article/4223436/will-apple-enter-the-server-business.html)
-- [Salesforce’s massive outage exposes the hidden risks of cloud dependencies](https://www.computerworld.com/article/4223052/salesforces-massive-outage-exposes-the-hidden-risks-of-cloud-dependencies-2.html)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

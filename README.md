@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [UK government borrowing jumps over forecast to £18.3bn in August, in ‘dismal picture’ ahead of the budget – business live](https://www.theguardian.com/business/live/2026/sep/22/uk-government-borrowing-august-fiscal-straightjacket-john-healey-bonds-latest-news-updates)
-- [Lions and Irons: the Dockers derby – a photo essay](https://www.theguardian.com/football/2026/sep/22/millwall-west-ham-dockers-derby-in-pictures)
-- [‘It’s bordering on exploitation’: how pseudoscience is duping football](https://www.theguardian.com/football/2026/sep/22/how-pseudoscience-is-duping-football-claire-marie-roberts-interview)
-- [There is a racism and cohesion crisis in Britain, and someone needs to lead us out of it. His name is Andy Burnham | Polly Toynbee](https://www.theguardian.com/commentisfree/2026/sep/22/racism-cohesion-crisis-britain-andy-burnham-extremists)
-- [Women’s Champions League: will OL Lyonnes or English trio topple a weakened Barcelona?](https://www.theguardian.com/football/2026/sep/22/womens-champions-league-preview-ol-lyonnes-arsenal-chelsea-manchester-city-barcelona)
-- [Meet Barbie Pig: new documentary reveals the wonders of life on the Pacific seabed](https://www.theguardian.com/environment/2026/sep/22/meet-barbie-pig-new-documentary-reveals-the-wonders-of-life-on-the-pacific-seabed)
-- [‘What we have is unique’: the Indian craftsmanship behind global luxury fashion](https://www.theguardian.com/world/2026/sep/21/the-indian-craftsmanship-behind-luxury-fashion)
-- [From paleo to intermittent fasting: are any diets actually good for us? - podcast](https://www.theguardian.com/lifeandstyle/audio/2026/sep/22/do-any-diets-actually-work-podcast)
-- [Doom Painting by AK Blakemore review – a dazzling epic of the Peasants’ Revolt](https://www.theguardian.com/books/2026/sep/22/doom-painting-by-ak-blakemore-review-a-dazzling-epic-of-the-peasants-revolt)
-- [Babystar review – a new arrival upends camera-ready life in disturbing family influencer satire](https://www.theguardian.com/film/2026/sep/22/babystar-review-a-new-arrival-upends-camera-ready-life-in-disturbing-family-influencer-satire)
+- [Prem Rugby 2026-27: the essential club-by-club guide to the new season](https://www.theguardian.com/sport/2026/sep/23/prem-rugby-2026-27-the-essential-club-by-club-guide-to-the-new-season)
+- [The Love Hypothesis review – hit BookTok romcom lacks spark on screen](https://www.theguardian.com/film/2026/sep/23/the-love-hypothesis-review-booktok-romcom)
+- [Which football stadiums have the highest and lowest Google ratings? | The Knowledge](https://www.theguardian.com/football/2026/sep/23/football-stadiums-highest-lowest-google-rating-the-knowledge)
+- [Somerset are poised to finish second again – and after 136 years it still hurts](https://www.theguardian.com/sport/2026/sep/23/somerset-second-again-county-championship-136-years-cricket)
+- [Glimpses into lives of Roman suburbanites in Bath revealed in rare finds](https://www.theguardian.com/science/2026/sep/23/archaeologists-clues-suburban-life-roman-times-bath)
+- [London buses in decline? Why public transport in global cities is slowing to a crawl – visualised](https://www.theguardian.com/uk-news/ng-interactive/2026/sep/23/london-buses-in-terminal-decline-why-public-transport-in-global-cities-is-slowing-to-a-crawl-visualised)
+- [From 50p gold hot pants to Paul Smith suits: how Kylie Minogue became one of pop’s ultimate chameleons](https://www.theguardian.com/fashion/2026/sep/23/how-kylie-minogue-became-pop-chameleon-gold-hot-pants)
+- [Bolognina: make tracks for Bologna’s bustling former rail workers’ quarter](https://www.theguardian.com/travel/2026/sep/23/bologna-bolognina-italy-city-break-restaurants-hotels)
+- [Flamingos, family and fear of nuclear disaster: award-winning photos at C/O Berlin – in pictures](https://www.theguardian.com/artanddesign/gallery/2026/sep/23/flamingos-family-and-fear-of-nuclear-disaster-award-winning-photos-at-co-berlin-in-pictures)
+- [Remake review – Ross McElwee’s magnificent and moving tribute to a tragic loss and the art it inspired](https://www.theguardian.com/film/2026/sep/23/remake-review-ross-mcelwees-magnificent-and-moving-tribute-to-a-tragic-loss-and-the-art-it-inspired)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Can gzip be a language model?](https://nathan.rs/posts/gzip-lm/)
-- [Apple Music to open concert venue in Battersea Power Station](https://www.bbc.com/news/articles/c607l2j2rj8ro)
-- [Used ThinkPad Buyer&#39;s Guide &lpar;2019&rpar;](https://www.bobble.tech/free-stuff/used-thinkpad-buyers-guide)
-- [MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/mimo-v2-6-pro)
-- [Claude Status – Elevated errors for multiple models](https://status.claude.com/incidents/7g1qpkyz5gxh)
-- [Socrates vs. the Written Word &lpar;2011&rpar;](https://wondermark.com/socrates-vs-writing/)
-- [Looking forward to Git 2.56 – and 3.0](https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/)
-- [Spymarks, Not Watermarks](https://brand.io/article/spymarks/)
-- [I don&#39;t want to read what you didn&#39;t write](https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/)
-- [MiMo v2.6](https://mimo.xiaomi.com/mimo-v2-6)
+- [Grammarly will send unhinged messages to all your users if you try to cancel](https://www.reddit.com/r/sysadmin/comments/1wjdpgx/psa_grammarly_will_send_unhinged_messages_to_all/)
+- [Data-only attacks are easier than you think &lpar;2024&rpar;](https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think)
+- [Transit rewards](https://waymo.com/blog/2026/09/transit-rewards/)
+- [The current balance of power in open models](https://www.interconnects.ai/p/the-current-balance-of-power-in-open)
+- [Microsoft killed FoxPro in 2007. Anyway, here&#39;s FoxPro revived](https://foxscript.org/)
+- [Native apps written in TypeScript and CSS](https://github.com/geastack/examples)
+- [Obscura: VPN that can&#39;t log your activity](https://obscura.com/#faq-technical)
+- [Pentagon says overreliance on AI contributed to missile strike on Iran school](https://www.bloomberg.com/graphics/2026-iran-school-attack/)
+- [SAML: A fractal of bad design](https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/)
+- [Unreal Agent](https://unreallabs.ai/blog/unreal-agent/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

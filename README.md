@@ -355,6 +355,8 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Review: M5 Ultra Mac Studio: Pure, unadulterated power](https://www.computerworld.com/article/4225059/review-m5-ultra-mac-studio-pure-unadulterated-power.html)
+- [Beware these fake websites selling subscriptions to AI assistants](https://www.computerworld.com/article/4224903/beware-these-fake-websites-selling-subscriptions-to-ai-assistants.html)
 - [California joins US states clamping down on data center gold rush](https://www.computerworld.com/article/4224681/california-joins-us-states-clamping-down-on-data-center-gold-rush-2.html)
 - [Gemini broke into 3 companies, but Google kept it quiet because ‘no damage was done’](https://www.computerworld.com/article/4224582/gemini-broke-into-3-companies-but-google-kept-it-quiet-because-no-damage-was-done-3.html)
 - [Microsoft is pulling the plug on Publisher. What now?](https://www.computerworld.com/article/4224008/microsoft-is-pulling-the-plug-on-publisher-what-now.html)
@@ -363,8 +365,6 @@
 - [With Siri Recap, Apple threw a punch at OpenAI no one saw coming](https://www.computerworld.com/article/4223856/with-siri-recap-apple-threw-a-punch-at-openai-no-one-saw-coming.html)
 - [More and more people believe that AI will take away jobs rather than create new ones](https://www.computerworld.com/article/4223962/more-and-more-people-believe-that-ai-will-take-away-jobs-rather-than-create-new-ones.html)
 - [Why AI companies are really pumping the brakes on their models](https://www.computerworld.com/article/4223523/why-ai-companies-are-really-pumping-the-brakes-on-their-models.html)
-- [5 internet-improving Chrome extensions worth trying on Android](https://www.computerworld.com/article/4222361/chrome-android-extensions-internet.html)
-- [An undisclosed Microsoft presentation is now central to a multimillion-dollar antitrust fight](https://www.computerworld.com/article/4223616/an-undisclosed-microsoft-presentation-is-now-central-to-a-multi-million-dollar-antitrust-fight.html)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

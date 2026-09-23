@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Xenobiome Command – a colony SIM that runs offline in the browser](https://play.xenobiome.net/?src=hn)
-- [Skill and UI kit to understand PRs faster](https://github.com/annanay25/explain-pr)
-- [She died at the San Diego border. A surveillance camera was in plain sight](https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/)
-- [Move On – export your AI chats, file GDPR deletion, escalate if ignored](https://github.com/ur-grue/move-on)
-- [Show HN: I made ShipStreak to keep daily shipping gaps public](https://www.shipstreak.space/?via=hn)
-- [Pakistan Orders Hospital Beds Clear for Mass Casualty Ahead of Protest](https://www.dropsitenews.com/p/pakistan-military-protest-imran-khan-sisters-detained-hospitals-beds)
-- [Ask HN: Is Astra&#39;s writing starting to bother anyone else?](https://news.ycombinator.com/item?id=49797581)
-- [QBZ &lpar;Qobuz desktop client for Linux&rpar; shutting down](https://qbz.lol/)
-- [Show HN: Cheap and easy throwaway VPN server](https://a.l3x.in/blog/throwaway-vpn/)
-- [AI staff complain of mental toll over fears of threat to society](https://www.ft.com/content/60870960-f433-48ca-bc2c-708686a69ae7)
+- [Show HN: Analysis of Games from Chess Olympiad with Opus 5.5 and Stockfish](https://olympiad2026.unremarkable.info/)
+- [Microsoft disrupts AI-assisted platform that compromised 12,000 accounts](https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/)
+- [Why Tool AIs Want to Be Agent AIs](https://gwern.net/tool-ai)
+- [Fearless SIMD v1.0 is here](https://linebender.org/blog/fearless-simd-1-0/)
+- [M6 Mac Mini uses soldered NAND storage again](https://www.macrumors.com/2026/09/22/new-mac-mini-ssd-cant-be-removed/)
+- [Show HN: Yass – Yet Another Spec Syntax Enters Beta](https://github.com/shakefu/yass)
+- [Building a docs site that screenshots itself](https://semaloop.com/blog/docs-that-screenshot-themselves)
+- [There is no epidemic of loneliness, but there is an epidemic of scurvy](https://www.experimental-history.com/p/there-is-no-epidemic-of-loneliness)
+- [Claude Code Hooks Explained: The Deterministic Layer Around Your Agent](https://blakecrosley.com/blog/claude-code-hooks-explained)
+- [Jevify skill – Gets your existing agents running on Jev](https://news.ycombinator.com/item?id=49812519)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Grammarly will send unhinged messages to all your users if you try to cancel](https://www.reddit.com/r/sysadmin/comments/1wjdpgx/psa_grammarly_will_send_unhinged_messages_to_all/)
-- [Data-only attacks are easier than you think &lpar;2024&rpar;](https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think)
-- [Transit rewards](https://waymo.com/blog/2026/09/transit-rewards/)
-- [The current balance of power in open models](https://www.interconnects.ai/p/the-current-balance-of-power-in-open)
-- [Microsoft killed FoxPro in 2007. Anyway, here&#39;s FoxPro revived](https://foxscript.org/)
-- [Native apps written in TypeScript and CSS](https://github.com/geastack/examples)
-- [Obscura: VPN that can&#39;t log your activity](https://obscura.com/#faq-technical)
-- [Pentagon says overreliance on AI contributed to missile strike on Iran school](https://www.bloomberg.com/graphics/2026-iran-school-attack/)
-- [SAML: A fractal of bad design](https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/)
-- [Unreal Agent](https://unreallabs.ai/blog/unreal-agent/)
+- [Early rogue AI agent activity and attempts to hack found on urlquery.net](https://transluce.org/agent-activity)
+- [Six-year-old breaks women&#39;s world Rubik&#39;s Cube record [video]](https://www.youtube.com/watch?v=UCMRgvyTm08)
+- [Contrastive Language Models](https://contrastive-lm.notion.site/)
+- [Ideas on modernizing the open-source desktop](https://lwn.net/SubscriberLink/1095425/2d9f411252325784/)
+- [Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest](https://github.com/nestrilabs/virtio-nvgpu)
+- [Show HN: An open-source manufacturing ERP/MES/QMS](https://carbon.ms/self-hosted)
+- [Feds Target AI Critics as &quot;Foreign Agents&quot;](https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign)
+- [Meta VR Glasses](https://www.meta.com/vr-glasses/)
+- [ArXiv receives multiyear commitments to support it as an independent nonprofit](https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/)
+- [Linux support is coming to Snapdragon X2 Series](https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

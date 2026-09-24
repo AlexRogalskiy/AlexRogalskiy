@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: Analysis of Games from Chess Olympiad with Opus 5.5 and Stockfish](https://olympiad2026.unremarkable.info/)
-- [Microsoft disrupts AI-assisted platform that compromised 12,000 accounts](https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/)
-- [Why Tool AIs Want to Be Agent AIs](https://gwern.net/tool-ai)
-- [Fearless SIMD v1.0 is here](https://linebender.org/blog/fearless-simd-1-0/)
-- [M6 Mac Mini uses soldered NAND storage again](https://www.macrumors.com/2026/09/22/new-mac-mini-ssd-cant-be-removed/)
-- [Show HN: Yass – Yet Another Spec Syntax Enters Beta](https://github.com/shakefu/yass)
-- [Building a docs site that screenshots itself](https://semaloop.com/blog/docs-that-screenshot-themselves)
-- [There is no epidemic of loneliness, but there is an epidemic of scurvy](https://www.experimental-history.com/p/there-is-no-epidemic-of-loneliness)
-- [Claude Code Hooks Explained: The Deterministic Layer Around Your Agent](https://blakecrosley.com/blog/claude-code-hooks-explained)
-- [Jevify skill – Gets your existing agents running on Jev](https://news.ycombinator.com/item?id=49812519)
+- [Super Resolution and Frame Generation on Snapdragon Mobile Platforms](https://www.qualcomm.com/developer/blog/2026/09/introducing-adreno-neural-fusion-sdk-for-snapdragon-mobile-platforms)
+- [Contrastive Language Model &lpar;CLM&rpar;: An Ultra-Fast System One Model](https://twitter.com/jackyk02/status/2102905335925424285)
+- [It took 20 yrs to start regulating social media – will AI controls come sooner?](https://www.rnz.co.nz/news/business/1557652/it-took-20-years-to-start-regulating-social-media-will-ai-controls-come-sooner)
+- [TabVault – Open-source tab manager with atomic crash recovery](https://github.com/jarvissing/tabvault)
+- [Tales from the Software Factory: The Cron and the VM](https://blog.exe.dev/cron-vs-vm)
+- [I built a language model out of cellular automata](https://ssenthilnathan3.github.io/blog/cellular-automata-language-model/)
+- [Update: Source Download – Inspect, grab assets, screenshot and record video/GIF](https://chromewebstore.google.com/detail/source-download/nockdgincmpfojabnhbofkddgcmnodpd)
+- [Omens of Exceptional Talent](https://guzey.com/talent/)
+- [Debian Inference Portal &lpar;Unofficial&rpar;](https://inference.debian.net/)
+- [Understanding Runtime Governance for Enterprise AI Deployment](https://news.ycombinator.com/item?id=49827032)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

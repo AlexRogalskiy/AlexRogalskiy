@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Prem Rugby 2026-27: the essential club-by-club guide to the new season](https://www.theguardian.com/sport/2026/sep/23/prem-rugby-2026-27-the-essential-club-by-club-guide-to-the-new-season)
-- [The Love Hypothesis review – hit BookTok romcom lacks spark on screen](https://www.theguardian.com/film/2026/sep/23/the-love-hypothesis-review-booktok-romcom)
-- [Which football stadiums have the highest and lowest Google ratings? | The Knowledge](https://www.theguardian.com/football/2026/sep/23/football-stadiums-highest-lowest-google-rating-the-knowledge)
-- [Somerset are poised to finish second again – and after 136 years it still hurts](https://www.theguardian.com/sport/2026/sep/23/somerset-second-again-county-championship-136-years-cricket)
-- [Glimpses into lives of Roman suburbanites in Bath revealed in rare finds](https://www.theguardian.com/science/2026/sep/23/archaeologists-clues-suburban-life-roman-times-bath)
-- [London buses in decline? Why public transport in global cities is slowing to a crawl – visualised](https://www.theguardian.com/uk-news/ng-interactive/2026/sep/23/london-buses-in-terminal-decline-why-public-transport-in-global-cities-is-slowing-to-a-crawl-visualised)
-- [From 50p gold hot pants to Paul Smith suits: how Kylie Minogue became one of pop’s ultimate chameleons](https://www.theguardian.com/fashion/2026/sep/23/how-kylie-minogue-became-pop-chameleon-gold-hot-pants)
-- [Bolognina: make tracks for Bologna’s bustling former rail workers’ quarter](https://www.theguardian.com/travel/2026/sep/23/bologna-bolognina-italy-city-break-restaurants-hotels)
-- [Flamingos, family and fear of nuclear disaster: award-winning photos at C/O Berlin – in pictures](https://www.theguardian.com/artanddesign/gallery/2026/sep/23/flamingos-family-and-fear-of-nuclear-disaster-award-winning-photos-at-co-berlin-in-pictures)
-- [Remake review – Ross McElwee’s magnificent and moving tribute to a tragic loss and the art it inspired](https://www.theguardian.com/film/2026/sep/23/remake-review-ross-mcelwees-magnificent-and-moving-tribute-to-a-tragic-loss-and-the-art-it-inspired)
+- [Global bond sell-off deepens amid fears US economy may be running too hot – business live](https://www.theguardian.com/business/live/2026/sep/24/global-bond-sell-off-us-economy-fears-stock-markets-ftse-dollar-pound-latest-news-updates)
+- [Greek PM: deal to return Parthenon marbles could still be reached with ‘political will and courage’](https://www.theguardian.com/artanddesign/2026/sep/24/greek-pm-deal-to-return-parthenon-marbles-could-still-be-reached-with-political-will-and-courage)
+- [Taking a deep dive in Helsinki’s subterranean city](https://www.theguardian.com/travel/2026/sep/24/helsinki-finland-underground-city-swimming-pool)
+- [Britain would not cut up the Bayeux tapestry. So seize this moment and reunite the Parthenon sculptures in Greece | Kyriakos Mitsotakis](https://www.theguardian.com/commentisfree/2026/sep/24/britain-bayeux-tapestry-greece-parthenon-sculptures-museum-kyriakos-mitsotakis)
+- [Forgotten Island review – best friends forever trapped in frantic DreamWorks animation](https://www.theguardian.com/film/2026/sep/24/forgotten-island-review-best-friends-forever-trapped-in-soulless-animation-dreamworks)
+- [Exit Party by Emily St John Mandel review – alternate visions of post-crisis America](https://www.theguardian.com/books/2026/sep/24/exit-party-by-emily-st-john-mandel-review-alternate-visions-of-post-crisis-america)
+- [‘Cash to trash’ levy on house developers too low to offset damage to Norfolk Broads, say critics](https://www.theguardian.com/environment/2026/sep/24/cash-to-trash-levy-house-developers-too-low-offset-nature-damage)
+- [Judge orders Trump White House to restore access to CNN, MS Now and Politico](https://www.theguardian.com/us-news/2026/sep/24/judge-orders-trump-restore-white-house-access-cnn-ms-now-politico-media-ban)
+- [TV tonight: inside the UK’s response to alleged Israeli war crimes in Gaza](https://www.theguardian.com/tv-and-radio/2026/sep/24/tv-tonight-inside-the-uks-response-to-alleged-israeli-war-crimes-in-gaza)
+- [Thursday news quiz: Long-haul flights, changing lights and a lot of Turkish cats](https://www.theguardian.com/lifeandstyle/2026/sep/24/the-guardian-thursday-quiz-general-knowledge-topical-news-trivia-266)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [The companies racing to build frontier AI are now racing to govern it](https://www.computerworld.com/article/4226400/the-companies-racing-to-build-frontier-ai-are-now-racing-to-govern-it-2.html)
+- [WordPress patches a critical severity security vulnerability](https://www.computerworld.com/article/4226366/wordpress-patches-a-critical-severity-security-vulnerability-2.html)
+- [Microsoft integrates SOC capabilities with Defender for enterprises](https://www.computerworld.com/article/4226225/microsoft-integrates-soc-capabilities-with-defender-for-enterprises-2.html)
+- [Jamf in the age of agentic IT: An interview with CEO Beth Tschida](https://www.computerworld.com/article/4226159/jamf-in-the-age-of-agentic-it-an-interview-with-ceo-beth-tschida.html)
+- [Five years later, you can finally buy Google Beam](https://www.computerworld.com/article/4225627/five-years-later-you-can-finally-buy-google-beam.html)
+- [Microsoft adds pay-as-you-go pricing for extra OneDrive storage](https://www.computerworld.com/article/4226046/microsoft-adds-pay-as-you-go-pricing-for-extra-onedrive-storage.html)
+- [UiPath’s new tool could unlock a much bigger wave of automated business processes](https://www.computerworld.com/article/4226128/uipaths-new-tool-could-unlock-a-much-bigger-wave-of-automated-business-processes-2.html)
+- [8 cool things Copilot can do in Word](https://www.computerworld.com/article/4216459/cool-things-copilot-can-do-in-microsoft-word.html)
 - [AI spend will jump 49.5% in 2026, says Gartner](https://www.computerworld.com/article/4225808/ai-spend-will-jump-49-5-in-2026-says-gartner-2.html)
 - [OpenAI’s new priorities for third-party assessments are a fine start, but they lack teeth](https://www.computerworld.com/article/4225779/openais-new-priorities-for-third-party-assessments-are-a-fine-start-but-they-lack-teeth-2.html)
-- [From admin to architect: Jamf’s vision for the autonomous Apple enterprise](https://www.computerworld.com/article/4225562/from-admin-to-architect-jamfs-vision-for-the-autonomous-apple-enterprise.html)
-- [Hello, Googlebook: The complete FAQ on Google’s Android-ChromeOS combo](https://www.computerworld.com/article/4224465/googlebook-android-chromeos-faq.html)
-- [Review: M5 Ultra Mac Studio: Pure, unadulterated power](https://www.computerworld.com/article/4225059/review-m5-ultra-mac-studio-pure-unadulterated-power.html)
-- [Beware these fake websites selling subscriptions to AI assistants](https://www.computerworld.com/article/4224903/beware-these-fake-websites-selling-subscriptions-to-ai-assistants.html)
-- [California joins US states clamping down on data center gold rush](https://www.computerworld.com/article/4224681/california-joins-us-states-clamping-down-on-data-center-gold-rush-2.html)
-- [Gemini broke into 3 companies, but Google kept it quiet because ‘no damage was done’](https://www.computerworld.com/article/4224582/gemini-broke-into-3-companies-but-google-kept-it-quiet-because-no-damage-was-done-3.html)
-- [Microsoft is pulling the plug on Publisher. What now?](https://www.computerworld.com/article/4224008/microsoft-is-pulling-the-plug-on-publisher-what-now.html)
-- [Microsoft mops up after Patch Tuesday broke logins, audio, Excel](https://www.computerworld.com/article/4223945/microsoft-mops-up-after-patch-tuesday-broke-logins-audio-excel.html)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

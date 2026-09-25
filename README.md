@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Super Resolution and Frame Generation on Snapdragon Mobile Platforms](https://www.qualcomm.com/developer/blog/2026/09/introducing-adreno-neural-fusion-sdk-for-snapdragon-mobile-platforms)
-- [Contrastive Language Model &lpar;CLM&rpar;: An Ultra-Fast System One Model](https://twitter.com/jackyk02/status/2102905335925424285)
-- [It took 20 yrs to start regulating social media – will AI controls come sooner?](https://www.rnz.co.nz/news/business/1557652/it-took-20-years-to-start-regulating-social-media-will-ai-controls-come-sooner)
-- [TabVault – Open-source tab manager with atomic crash recovery](https://github.com/jarvissing/tabvault)
-- [Tales from the Software Factory: The Cron and the VM](https://blog.exe.dev/cron-vs-vm)
-- [I built a language model out of cellular automata](https://ssenthilnathan3.github.io/blog/cellular-automata-language-model/)
-- [Update: Source Download – Inspect, grab assets, screenshot and record video/GIF](https://chromewebstore.google.com/detail/source-download/nockdgincmpfojabnhbofkddgcmnodpd)
-- [Omens of Exceptional Talent](https://guzey.com/talent/)
-- [Debian Inference Portal &lpar;Unofficial&rpar;](https://inference.debian.net/)
-- [Understanding Runtime Governance for Enterprise AI Deployment](https://news.ycombinator.com/item?id=49827032)
+- [Jensen Huang says with AI &#39;in order to save you, they&#39;ve got to hurt you first.&#39;](https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain)
+- [Basic Linear Algebra Subprograms &lpar;BLAS&rpar;](https://en.wikipedia.org/wiki/Basic_Linear_Algebra_Subprograms)
+- [CozyToolkit – Free everyday tools for creators](https://cozytoolkit.com/)
+- [The moon matters NASA chief: China may deny access to Moon&#39;s South Pole](https://arstechnica.com/space/2026/09/nasa-chief-concerned-china-may-deny-access-to-parts-of-south-pole/)
+- [Entrepreneurship and Industry in Europe](https://eudata.vercel.app/)
+- [Show HN: Reteach – AI tutor that feels human](https://www.reteach.study/)
+- [Google plans first test ofAl chips in space under Project Suncatcher](https://blog.google/innovation-and-ai/technology/research/google-project-suncatcher/)
+- [London&#39;s schools are running out of children](https://www.ft.com/content/5b019594-5b20-479a-8549-7b564127eb3f)
+- [Just how hot and dry was your summer? – UK postcode lookup](https://www.bbc.co.uk/news/articles/cy9zvw47v90o)
+- [AMBA – Free and Open Advanced Microcontroller Bus Architecture](https://www.arm.com/architecture/system-architectures/amba)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

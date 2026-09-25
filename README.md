@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Global bond sell-off deepens amid fears US economy may be running too hot – business live](https://www.theguardian.com/business/live/2026/sep/24/global-bond-sell-off-us-economy-fears-stock-markets-ftse-dollar-pound-latest-news-updates)
-- [Greek PM: deal to return Parthenon marbles could still be reached with ‘political will and courage’](https://www.theguardian.com/artanddesign/2026/sep/24/greek-pm-deal-to-return-parthenon-marbles-could-still-be-reached-with-political-will-and-courage)
-- [Taking a deep dive in Helsinki’s subterranean city](https://www.theguardian.com/travel/2026/sep/24/helsinki-finland-underground-city-swimming-pool)
-- [Britain would not cut up the Bayeux tapestry. So seize this moment and reunite the Parthenon sculptures in Greece | Kyriakos Mitsotakis](https://www.theguardian.com/commentisfree/2026/sep/24/britain-bayeux-tapestry-greece-parthenon-sculptures-museum-kyriakos-mitsotakis)
-- [Forgotten Island review – best friends forever trapped in frantic DreamWorks animation](https://www.theguardian.com/film/2026/sep/24/forgotten-island-review-best-friends-forever-trapped-in-soulless-animation-dreamworks)
-- [Exit Party by Emily St John Mandel review – alternate visions of post-crisis America](https://www.theguardian.com/books/2026/sep/24/exit-party-by-emily-st-john-mandel-review-alternate-visions-of-post-crisis-america)
-- [‘Cash to trash’ levy on house developers too low to offset damage to Norfolk Broads, say critics](https://www.theguardian.com/environment/2026/sep/24/cash-to-trash-levy-house-developers-too-low-offset-nature-damage)
-- [Judge orders Trump White House to restore access to CNN, MS Now and Politico](https://www.theguardian.com/us-news/2026/sep/24/judge-orders-trump-restore-white-house-access-cnn-ms-now-politico-media-ban)
-- [TV tonight: inside the UK’s response to alleged Israeli war crimes in Gaza](https://www.theguardian.com/tv-and-radio/2026/sep/24/tv-tonight-inside-the-uks-response-to-alleged-israeli-war-crimes-in-gaza)
-- [Thursday news quiz: Long-haul flights, changing lights and a lot of Turkish cats](https://www.theguardian.com/lifeandstyle/2026/sep/24/the-guardian-thursday-quiz-general-knowledge-topical-news-trivia-266)
+- [Week in wildlife: a tiny tiger-cat, backyard bears and a frilly pink sea cucumber](https://www.theguardian.com/environment/gallery/2026/sep/25/week-in-wildlife-a-tiny-tiger-cat-backyard-bears-and-a-frilly-pink-sea-cucumber)
+- [Plans are under way to finally help Britain’s unemployed young people – will Labour pull it off? | Polly Toynbee](https://www.theguardian.com/commentisfree/2026/sep/25/britain-unemployed-young-people-labour-plans-alan-milburn)
+- [Sagal Abdi-Wali: Labour’s candidate in Starmer’s former seat zeroes in on local issues amid Green challenge](https://www.theguardian.com/politics/2026/sep/25/sagal-abdi-wali-labour-byelection-starmer-local-issues-green-challenge)
+- [NHS bodies in England impose two-year minimum wait for ADHD and autism assessments](https://www.theguardian.com/society/2026/sep/24/nhs-integrated-care-boards-england-two-year-waiting-times-adhd-autism-assessments)
+- [‘I never choose the cautious option’: Royal Opera’s Jakub Hrůša on collaboration, control and conducting Wagner](https://www.theguardian.com/music/2026/sep/25/i-never-choose-the-cautious-option-royal-operas-jakub-hrusa-on-collaboration-control-and-conducting-wagner)
+- [Would you bet on the future of our planet?](https://www.theguardian.com/environment/2026/sep/24/down-to-earth-can-you-bet-on-the-future-of-the-climate)
+- [‘Everything is golden’: readers’ tips for a great autumn day out in the UK](https://www.theguardian.com/travel/2026/sep/25/readers-favourite-autumn-days-out-uk)
+- [‘She never accepted no’: Liam Neeson on dogged heroine behind Tuam mass baby grave film](https://www.theguardian.com/film/2026/sep/25/liam-neeson-tuam-babies-film-ireland-catherine-corless-dogged-heroine-monica-dolan)
+- [From bling and birds to ‘really fancy armour’ – the best dressed characters of the Bayeux tapestry](https://www.theguardian.com/fashion/2026/sep/25/bayeux-tapestry-fashion-medieval-experts)
+- [Homes for sale in foraging hotspots in England, Scotland and Wales – in pictures](https://www.theguardian.com/money/gallery/2026/sep/25/homes-for-sale-in-foraging-hotspots-in-england-scotland-and-wales-in-pictures)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

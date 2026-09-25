@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Early rogue AI agent activity and attempts to hack found on urlquery.net](https://transluce.org/agent-activity)
-- [Six-year-old breaks women&#39;s world Rubik&#39;s Cube record [video]](https://www.youtube.com/watch?v=UCMRgvyTm08)
-- [Contrastive Language Models](https://contrastive-lm.notion.site/)
-- [Ideas on modernizing the open-source desktop](https://lwn.net/SubscriberLink/1095425/2d9f411252325784/)
-- [Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest](https://github.com/nestrilabs/virtio-nvgpu)
-- [Show HN: An open-source manufacturing ERP/MES/QMS](https://carbon.ms/self-hosted)
-- [Feds Target AI Critics as &quot;Foreign Agents&quot;](https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign)
-- [Meta VR Glasses](https://www.meta.com/vr-glasses/)
-- [ArXiv receives multiyear commitments to support it as an independent nonprofit](https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/)
-- [Linux support is coming to Snapdragon X2 Series](https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux)
+- [Goodbye Google](https://robert.ocallahan.org/2026/09/goodbye-google.html)
+- [Show HN: Koi.rest – watch some fish and regain your balance](https://koi.rest)
+- [The Board Game of the Alpha Nerds &lpar;2014&rpar;](https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/)
+- [California is chasing wealth that has feet](https://blog.landeconomics.org/p/california-is-chasing-wealth-that)
+- [Opus 5.5 is good at explainer videos](https://launchvideo.io)
+- [Sourcehut account takeover via build logs &lpar;XSS in ansi2html&rpar;](https://blog.arusekk.pl/posts/srht-account-takeover/)
+- [Using LLMs to trace alchemical knowledge and decode 17th century letters](https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical)
+- [Stable &lpar;YC W20&rpar; Is Hiring Product Engineers](https://www.usestable.com/careers/product-engineer)
+- [Show HN: Whiteboard &lpar;YC W26&rpar; – An open-source IDE for thoughtful software design](https://github.com/devdotfast/whiteboard)
+- [Why is the liver so weirdly regenerative?](https://dynomight.substack.com/p/liver)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

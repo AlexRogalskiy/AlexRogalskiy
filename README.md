@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Goodbye Google](https://robert.ocallahan.org/2026/09/goodbye-google.html)
-- [Show HN: Koi.rest – watch some fish and regain your balance](https://koi.rest)
-- [The Board Game of the Alpha Nerds &lpar;2014&rpar;](https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/)
-- [California is chasing wealth that has feet](https://blog.landeconomics.org/p/california-is-chasing-wealth-that)
-- [Opus 5.5 is good at explainer videos](https://launchvideo.io)
-- [Sourcehut account takeover via build logs &lpar;XSS in ansi2html&rpar;](https://blog.arusekk.pl/posts/srht-account-takeover/)
-- [Using LLMs to trace alchemical knowledge and decode 17th century letters](https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical)
-- [Stable &lpar;YC W20&rpar; Is Hiring Product Engineers](https://www.usestable.com/careers/product-engineer)
-- [Show HN: Whiteboard &lpar;YC W26&rpar; – An open-source IDE for thoughtful software design](https://github.com/devdotfast/whiteboard)
-- [Why is the liver so weirdly regenerative?](https://dynomight.substack.com/p/liver)
+- [A single function Jev-like wrapper for LLMs, including vision models](http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html)
+- [We&#39;re gonna need a lot more mathematicians](https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/)
+- [HomelabFest will be in St. Louis in September 2027](https://www.homelabfest.org)
+- [Jury finds Facebook liable for deceiving users in Cambridge Analytica case](https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/)
+- [One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days](https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide)
+- [Lab on a Contact Lens Can Measure Stress Through Serotonin](https://spectrum.ieee.org/serotonin-stress-smart-contact-lens)
+- [What even is an OS now?](https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/)
+- [Revealing the details of how OpenAI agents hacked Hugging Face](https://swarmtraces.org/)
+- [Excel now supports multiple values in a single cell](https://techcommunity.microsoft.com/blog/microsoft365insiderblog/put-multiple-values-in-one-cell-with-lists-and-arrays-in-excel/4559395)
+- [How we learned to stop worrying and love campus surveillance](https://fnl.mit.edu/how-we-learned-to-stop-worrying-and-love-campus-surveillance/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

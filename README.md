@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [AI tools help hacker break in for $25 per target](https://www.computerworld.com/article/4226868/ai-tools-help-hacker-break-in-for-25-per-target-2.html)
+- [OpenAI wants you to use AI — but not to train its AI](https://www.computerworld.com/article/4226841/openai-wants-you-to-use-ai-but-not-to-train-its-ai.html)
+- [Microsoft’s new Copilot ‘super app’ unifies chat, code, agents](https://www.computerworld.com/article/4226817/microsofts-new-copilot-unifies-enterprise-context-for-chat-and-code.html)
+- [Adobe’s next platform for Creative Cloud? Your AI assistant](https://www.computerworld.com/article/4226747/adobes-next-platform-for-creative-cloud-your-ai-assistant.html)
+- [Google is set to launch a small AI data center into space](https://www.computerworld.com/article/4226924/google-launches-a-small-ai-data-center-in-space.html)
+- [iOS 27: Why you should learn to love Impersonation Risk Detection](https://www.computerworld.com/article/4226715/ios-27-why-you-should-learn-to-love-impersonation-risk-detection.html)
+- [Meta floats project to lay first petabit submarine fiberoptic cable](https://www.computerworld.com/article/4226684/meta-floats-project-to-lay-first-petabit-submarine-fiberoptic-cable-2.html)
+- [Google plans Gemini 4 release before year-end](https://www.computerworld.com/article/4226640/google-plans-gemini-4-release-before-year-end.html)
+- [Around the corner: Agentic AI PCs that cut token costs](https://www.computerworld.com/article/4226343/around-the-corner-agentic-ai-pcs-that-cut-token-costs.html)
 - [The companies racing to build frontier AI are now racing to govern it](https://www.computerworld.com/article/4226400/the-companies-racing-to-build-frontier-ai-are-now-racing-to-govern-it-2.html)
-- [WordPress patches a critical severity security vulnerability](https://www.computerworld.com/article/4226366/wordpress-patches-a-critical-severity-security-vulnerability-2.html)
-- [Microsoft integrates SOC capabilities with Defender for enterprises](https://www.computerworld.com/article/4226225/microsoft-integrates-soc-capabilities-with-defender-for-enterprises-2.html)
-- [Jamf in the age of agentic IT: An interview with CEO Beth Tschida](https://www.computerworld.com/article/4226159/jamf-in-the-age-of-agentic-it-an-interview-with-ceo-beth-tschida.html)
-- [Five years later, you can finally buy Google Beam](https://www.computerworld.com/article/4225627/five-years-later-you-can-finally-buy-google-beam.html)
-- [Microsoft adds pay-as-you-go pricing for extra OneDrive storage](https://www.computerworld.com/article/4226046/microsoft-adds-pay-as-you-go-pricing-for-extra-onedrive-storage.html)
-- [UiPath’s new tool could unlock a much bigger wave of automated business processes](https://www.computerworld.com/article/4226128/uipaths-new-tool-could-unlock-a-much-bigger-wave-of-automated-business-processes-2.html)
-- [8 cool things Copilot can do in Word](https://www.computerworld.com/article/4216459/cool-things-copilot-can-do-in-microsoft-word.html)
-- [AI spend will jump 49.5% in 2026, says Gartner](https://www.computerworld.com/article/4225808/ai-spend-will-jump-49-5-in-2026-says-gartner-2.html)
-- [OpenAI’s new priorities for third-party assessments are a fine start, but they lack teeth](https://www.computerworld.com/article/4225779/openais-new-priorities-for-third-party-assessments-are-a-fine-start-but-they-lack-teeth-2.html)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

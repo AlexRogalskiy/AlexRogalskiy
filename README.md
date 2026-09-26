@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Week in wildlife: a tiny tiger-cat, backyard bears and a frilly pink sea cucumber](https://www.theguardian.com/environment/gallery/2026/sep/25/week-in-wildlife-a-tiny-tiger-cat-backyard-bears-and-a-frilly-pink-sea-cucumber)
-- [Plans are under way to finally help Britain’s unemployed young people – will Labour pull it off? | Polly Toynbee](https://www.theguardian.com/commentisfree/2026/sep/25/britain-unemployed-young-people-labour-plans-alan-milburn)
-- [Sagal Abdi-Wali: Labour’s candidate in Starmer’s former seat zeroes in on local issues amid Green challenge](https://www.theguardian.com/politics/2026/sep/25/sagal-abdi-wali-labour-byelection-starmer-local-issues-green-challenge)
-- [NHS bodies in England impose two-year minimum wait for ADHD and autism assessments](https://www.theguardian.com/society/2026/sep/24/nhs-integrated-care-boards-england-two-year-waiting-times-adhd-autism-assessments)
-- [‘I never choose the cautious option’: Royal Opera’s Jakub Hrůša on collaboration, control and conducting Wagner](https://www.theguardian.com/music/2026/sep/25/i-never-choose-the-cautious-option-royal-operas-jakub-hrusa-on-collaboration-control-and-conducting-wagner)
-- [Would you bet on the future of our planet?](https://www.theguardian.com/environment/2026/sep/24/down-to-earth-can-you-bet-on-the-future-of-the-climate)
-- [‘Everything is golden’: readers’ tips for a great autumn day out in the UK](https://www.theguardian.com/travel/2026/sep/25/readers-favourite-autumn-days-out-uk)
-- [‘She never accepted no’: Liam Neeson on dogged heroine behind Tuam mass baby grave film](https://www.theguardian.com/film/2026/sep/25/liam-neeson-tuam-babies-film-ireland-catherine-corless-dogged-heroine-monica-dolan)
-- [From bling and birds to ‘really fancy armour’ – the best dressed characters of the Bayeux tapestry](https://www.theguardian.com/fashion/2026/sep/25/bayeux-tapestry-fashion-medieval-experts)
-- [Homes for sale in foraging hotspots in England, Scotland and Wales – in pictures](https://www.theguardian.com/money/gallery/2026/sep/25/homes-for-sale-in-foraging-hotspots-in-england-scotland-and-wales-in-pictures)
+- [AFL grand final 2026 live: Fremantle Dockers v Brisbane Lions](https://www.theguardian.com/sport/live/2026/sep/26/fremantle-dockers-vs-brisbane-lions-afl-grand-final-2026-live-updates-kick-off)
+- [The Guide #262: Why laughing at the movies isn’t always funny](https://www.theguardian.com/culture/2026/sep/25/why-laughing-at-the-movies-isnt-always-funny)
+- [Break Clause: two lovers flatshare during a breakup – and it makes for totally refreshing TV](https://www.theguardian.com/tv-and-radio/2026/sep/26/break-clause-two-lovers-flatshare-breakup-channel-4-dramedy)
+- [In his final UN speech, Macron may have given other leaders a valuable parting gift: the guts to stand up to Trump | Steve Bloomfield](https://www.theguardian.com/commentisfree/2026/sep/26/un-speech-macron-parting-gift-stand-up-to-trump)
+- [15 great small hotels, inns and restaurants with rooms for an autumn stay in the UK](https://www.theguardian.com/travel/ng-interactive/2026/sep/26/15-great-small-hotels-inns-and-restaurants-with-rooms-for-an-autumn-stay-in-the-uk)
+- [After a summer respite, Kyiv looks ahead to winter with dread](https://www.theguardian.com/world/2026/sep/26/after-summer-respite-kyiv-winter-dread)
+- [Which story was inspired by rogue waves hitting the Queen Mary? The Saturday quiz](https://www.theguardian.com/lifeandstyle/2026/sep/26/which-story-was-inspired-by-rogue-waves-hitting-the-queen-mary-the-saturday-quiz)
+- [Why do you close your eyes when you sneeze? The kids’ quiz](https://www.theguardian.com/lifeandstyle/2026/sep/26/why-do-you-close-your-eyes-when-you-sneeze-the-kids-quiz)
+- [‘The weaker he gets, the more dangerous he gets’: Trump lashes out as his power wanes](https://www.theguardian.com/news/ng-interactive/2026/sep/25/trump-lashes-out-un-fed-supreme-court)
+- [Gaza: a week in the life of five ordinary Palestinians](https://www.theguardian.com/global-development/ng-interactive/2026/sep/26/gaza-a-week-in-the-life-of-five-ordinary-palestinians)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

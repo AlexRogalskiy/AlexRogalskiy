@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Jensen Huang says with AI &#39;in order to save you, they&#39;ve got to hurt you first.&#39;](https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain)
-- [Basic Linear Algebra Subprograms &lpar;BLAS&rpar;](https://en.wikipedia.org/wiki/Basic_Linear_Algebra_Subprograms)
-- [CozyToolkit – Free everyday tools for creators](https://cozytoolkit.com/)
-- [The moon matters NASA chief: China may deny access to Moon&#39;s South Pole](https://arstechnica.com/space/2026/09/nasa-chief-concerned-china-may-deny-access-to-parts-of-south-pole/)
-- [Entrepreneurship and Industry in Europe](https://eudata.vercel.app/)
-- [Show HN: Reteach – AI tutor that feels human](https://www.reteach.study/)
-- [Google plans first test ofAl chips in space under Project Suncatcher](https://blog.google/innovation-and-ai/technology/research/google-project-suncatcher/)
-- [London&#39;s schools are running out of children](https://www.ft.com/content/5b019594-5b20-479a-8549-7b564127eb3f)
-- [Just how hot and dry was your summer? – UK postcode lookup](https://www.bbc.co.uk/news/articles/cy9zvw47v90o)
-- [AMBA – Free and Open Advanced Microcontroller Bus Architecture](https://www.arm.com/architecture/system-architectures/amba)
+- [Alberta&#39;s image as world&#39;s only rat-free region shattered by discovery of rat](https://www.theguardian.com/world/2026/sep/25/alberta-canada-rat-patrol)
+- [What Is Math&#39;s Mysterious Langlands Program About?](https://www.quantamagazine.org/what-is-maths-mysterious-langlands-program-really-about-20260909/)
+- [Thought on how to deal with AI crawlers](https://copepod.dev/human-required)
+- [Isn&#39;t it enough just to disconnect bloatware from internet instead of disabling?](https://f-droid.org/packages/io.github.dorumrr.de1984/)
+- [It&#39;s a Jev&#39;s World](https://www.bolna.ai/blog/testing-jev-on-real-phone-calls)
+- [The Sleazy World of Reddit Marketing, Everything Is Fake](https://larslofgren.com/reddit-marketing/)
+- [AI was supposed to hit new grads hard. So far, unemployment data says otherwise](https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/)
+- [About Jammertest](https://www.jammertest.no/about/)
+- [Novelist accused of using AI to write book removed from French prize list](https://www.theguardian.com/books/2026/sep/25/thelyson-orelien-goncourt-prize-france)
+- [Luhnify – Zero-PII API for ID, Vat and Passport Validation &lpar;&lt;100ms&rpar;](https://luhnify.com)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

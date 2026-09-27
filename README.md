@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Alberta&#39;s image as world&#39;s only rat-free region shattered by discovery of rat](https://www.theguardian.com/world/2026/sep/25/alberta-canada-rat-patrol)
-- [What Is Math&#39;s Mysterious Langlands Program About?](https://www.quantamagazine.org/what-is-maths-mysterious-langlands-program-really-about-20260909/)
-- [Thought on how to deal with AI crawlers](https://copepod.dev/human-required)
-- [Isn&#39;t it enough just to disconnect bloatware from internet instead of disabling?](https://f-droid.org/packages/io.github.dorumrr.de1984/)
-- [It&#39;s a Jev&#39;s World](https://www.bolna.ai/blog/testing-jev-on-real-phone-calls)
-- [The Sleazy World of Reddit Marketing, Everything Is Fake](https://larslofgren.com/reddit-marketing/)
-- [AI was supposed to hit new grads hard. So far, unemployment data says otherwise](https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/)
-- [About Jammertest](https://www.jammertest.no/about/)
-- [Novelist accused of using AI to write book removed from French prize list](https://www.theguardian.com/books/2026/sep/25/thelyson-orelien-goncourt-prize-france)
-- [Luhnify – Zero-PII API for ID, Vat and Passport Validation &lpar;&lt;100ms&rpar;](https://luhnify.com)
+- [Show HN: Ppgrid – Rasterising points in minutes, not hours](https://mrzk.io/posts/ppgrid-fast-continentscale-raster-interpolation/)
+- [An agent in a loop optimizing a renderer with the goal to minimize frame times](https://twitter.com/mitchellh/status/2060088112257372610)
+- [Friends embark on 20-year board game battle](https://www.bbc.co.uk/news/articles/cmvgyqyzk947o)
+- [MapleKit – The front end review toolkit](https://maple-kit.org)
+- [For 958 old to new 9Y0.2 blackened running water tail lamp assembly](https://www.porsche-km.com/productinfo/3194915.html)
+- [OpenAI and Anthropic are investigating cases of AI misbehaving, report says](https://madrobot.blog/2026/09/26/openai-anthropic-tens-of-thousands-ai-misbehaviour-incidents-axios/)
+- [Horizon Create and Horizon Studio](https://developers.meta.com/blog/meta-connect-recap-horizon-create-and-horizon-studio/)
+- [Trellis: Fractal Layouts for Web Apps](https://trellisui.com/)
+- [The SaaSpocalypse was more like a RenaiSaaS](https://www.stripeeconomics.com/p/the-saaspocalypse-was-more-like-a)
+- [I Found a $113,337 Af_alg Linux Local Privilege Escalation Before Copy Fail](https://idnsec.com/research/linux-local-privilege-escalation-with-af-alg/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

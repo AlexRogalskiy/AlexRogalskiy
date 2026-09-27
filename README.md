@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [AFL grand final 2026 live: Fremantle Dockers v Brisbane Lions](https://www.theguardian.com/sport/live/2026/sep/26/fremantle-dockers-vs-brisbane-lions-afl-grand-final-2026-live-updates-kick-off)
-- [The Guide #262: Why laughing at the movies isn’t always funny](https://www.theguardian.com/culture/2026/sep/25/why-laughing-at-the-movies-isnt-always-funny)
-- [Break Clause: two lovers flatshare during a breakup – and it makes for totally refreshing TV](https://www.theguardian.com/tv-and-radio/2026/sep/26/break-clause-two-lovers-flatshare-breakup-channel-4-dramedy)
-- [In his final UN speech, Macron may have given other leaders a valuable parting gift: the guts to stand up to Trump | Steve Bloomfield](https://www.theguardian.com/commentisfree/2026/sep/26/un-speech-macron-parting-gift-stand-up-to-trump)
-- [15 great small hotels, inns and restaurants with rooms for an autumn stay in the UK](https://www.theguardian.com/travel/ng-interactive/2026/sep/26/15-great-small-hotels-inns-and-restaurants-with-rooms-for-an-autumn-stay-in-the-uk)
-- [After a summer respite, Kyiv looks ahead to winter with dread](https://www.theguardian.com/world/2026/sep/26/after-summer-respite-kyiv-winter-dread)
-- [Which story was inspired by rogue waves hitting the Queen Mary? The Saturday quiz](https://www.theguardian.com/lifeandstyle/2026/sep/26/which-story-was-inspired-by-rogue-waves-hitting-the-queen-mary-the-saturday-quiz)
-- [Why do you close your eyes when you sneeze? The kids’ quiz](https://www.theguardian.com/lifeandstyle/2026/sep/26/why-do-you-close-your-eyes-when-you-sneeze-the-kids-quiz)
-- [‘The weaker he gets, the more dangerous he gets’: Trump lashes out as his power wanes](https://www.theguardian.com/news/ng-interactive/2026/sep/25/trump-lashes-out-un-fed-supreme-court)
-- [Gaza: a week in the life of five ordinary Palestinians](https://www.theguardian.com/global-development/ng-interactive/2026/sep/26/gaza-a-week-in-the-life-of-five-ordinary-palestinians)
+- [Israel game goes ahead after Irish players’ vote; reaction to Spain’s win over England – matchday live](https://www.theguardian.com/football/live/2026/sep/27/israel-republic-of-ireland-england-spain-matchday-live)
+- [‘It’s like the Scottish Upper East Side’: shame and snobbery as American students blamed for St Andrews classism](https://www.theguardian.com/education/2026/sep/27/st-andrews-university-class-divide-american-students)
+- [Gateshead’s fruitless trip south offers hint of Manchester City’s doomsday future](https://www.theguardian.com/football/2026/sep/27/national-league-gateshead-wealdstone)
+- [‘Viscerally dedicated to social issues’: behind Lula’s drive to win final term in Brazil’s crunch election](https://www.theguardian.com/world/2026/sep/27/viscerally-dedicated-to-social-issues-behind-lulas-drive-to-win-final-term-in-brazils-crunch-election)
+- [‘People are standing up and fighting back’: the north Devon revolt against a vast AI datacentre](https://www.theguardian.com/uk-news/2026/sep/27/people-are-standing-up-and-fighting-back-north-devon-ai-datacentre)
+- [61m tonnes of rubble: Gaza aid workers face delicate task of clearing ruins concealing up to 10,000 bodies](https://www.theguardian.com/world/2026/sep/27/rubble-gaza-un-aid-workers-ruins-dead-bodies)
+- [The best thing I ever ate? Mum’s boeuf à la mode on my 21st birthday](https://www.theguardian.com/food/2026/sep/27/best-thing-i-ever-ate-boeuf-a-la-mode-jeremy-lee)
+- [Footgolfers in arms race to replicate ‘the worst ball I’ve seen in my life’](https://www.theguardian.com/football/2026/sep/27/footgolfers-in-arms-race-to-replicate-the-worst-ball-ive-seen-in-my-life)
+- [Ever feel you’ve been cheated? Consequences could be profound after Manchester City guilty verdict | Jonathan Wilson](https://www.theguardian.com/football/2026/sep/27/ever-feel-youve-been-cheated-consequences-could-be-profound-after-manchester-city-guilty-verdict)
+- [‘Our house was under water’: Bangkok floods force thousands into shelters as disaster declared](https://www.theguardian.com/world/2026/sep/27/our-house-was-under-water-bangkok-floods-force-thousands-into-shelters-as-disaster-declared)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

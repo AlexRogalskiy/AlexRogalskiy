@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [What is the size of Yemen? &lpar;2024&rpar;](https://theborys.substack.com/p/what-is-the-size-of-yemen)
-- [Real-time feedback: My closing move in every interview](https://mgrebler.substack.com/p/real-time-feedback-my-closing-move)
-- [Welcome to the Medical Clinic at the Interplanetary Relay Station](https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/)
-- [DeepSeek Elastic Compute &lpar;DSec&rpar;](https://arxiv.org/abs/2609.22978)
-- [Reverse-engineering the Intel 8087&#39;s tangent algorithm: more than CORDIC](https://www.righto.com/2026/09/8087-tangent-cordic.html)
-- [Show HN: Reladraw – A diagram language where you decide where to place things](https://github.com/reladraw/reladraw)
-- [The Evolution of Vending Machines](https://www.saturdayeveningpost.com/2026/09/from-holy-water-to-frozen-meals-the-evolution-of-vending-machines/)
-- [Drawgent: Coding agent on a live Excalidraw canvas](https://tangled.org/yanndegat.tngl.sh/drawgent)
-- [Turning GLM-5.3-Flash into a Jev-like decision model](https://www.privatemode.ai/blog/system-one-from-glm-flash)
-- [Go Concurrency Distilled](https://antonz.org/go-concurrency-distilled/)
+- [An Antidote to Roko&#39;s Basilisk](https://news.ycombinator.com/item?id=49874609)
+- [Thinking fast and slow in AI: The role of metacognition &lpar;2021&rpar;](https://arxiv.org/abs/2110.01834)
+- [TabPFN and TabICL vs. tuned XGBoost: the model that doesn&#39;t train won 14/14](https://efraingaray.com/en/blog/tabpfn-vs-xgboost/)
+- [Owed a billion dollars in Nvidia stock](https://colo.to/nvidia-stock-narrative.html)
+- [Packing Binary Is Fun](https://hereticpleb.vercel.app/blog/packing-binary-is-fun-actually)
+- [Was silent reading unusual during Augustine&#39;s time?](https://www.historyofinformation.com/detail.php?entryid=4341)
+- [When did Google get so weird?](https://sancho.bearblog.dev/google-weird/)
+- [Self-Hosting on the Dark Web](https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/)
+- [Alan Kay&#39;s answer to “Did the ENIAC have a BIOS”?](https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11)
+- [Imp is a full port of DSPy to the BEAM](https://github.com/deepfates/imp)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

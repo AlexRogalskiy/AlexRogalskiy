@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: Ppgrid – Rasterising points in minutes, not hours](https://mrzk.io/posts/ppgrid-fast-continentscale-raster-interpolation/)
-- [An agent in a loop optimizing a renderer with the goal to minimize frame times](https://twitter.com/mitchellh/status/2060088112257372610)
-- [Friends embark on 20-year board game battle](https://www.bbc.co.uk/news/articles/cmvgyqyzk947o)
-- [MapleKit – The front end review toolkit](https://maple-kit.org)
-- [For 958 old to new 9Y0.2 blackened running water tail lamp assembly](https://www.porsche-km.com/productinfo/3194915.html)
-- [OpenAI and Anthropic are investigating cases of AI misbehaving, report says](https://madrobot.blog/2026/09/26/openai-anthropic-tens-of-thousands-ai-misbehaviour-incidents-axios/)
-- [Horizon Create and Horizon Studio](https://developers.meta.com/blog/meta-connect-recap-horizon-create-and-horizon-studio/)
-- [Trellis: Fractal Layouts for Web Apps](https://trellisui.com/)
-- [The SaaSpocalypse was more like a RenaiSaaS](https://www.stripeeconomics.com/p/the-saaspocalypse-was-more-like-a)
-- [I Found a $113,337 Af_alg Linux Local Privilege Escalation Before Copy Fail](https://idnsec.com/research/linux-local-privilege-escalation-with-af-alg/)
+- [CliffCompaction: Cost-Efficient Compaction for Long-Horizon Coding Agents](https://arxiv.org/abs/2609.26779)
+- [Chrome just added WebMCP to the inspector](https://twitter.com/gherget/status/2104146477140615521)
+- [We Compared 51k Paint Colors: 3 in 4 Have a Near-Identical Twin in Another Brand](https://usemuro.com/en/blog/paint-color-twins-across-brands)
+- [How my boss made InternalServerErrors disappear](https://bankstatementconverter.com/blog/posts/2026-09-28-how-my-boss-made-internal-server-errors-disappear/)
+- [Show HN: Shobr: Job seach CLI via browser automation, event-sourcing, LLMs](https://github.com/sebastiancarlos/shobr)
+- [Hunting a ShinyHunters-linked phishing cluster from one IOC](https://huntback.io/blog/shinyhunters-panel-cluster)
+- [Time.fyi](https://time.fyi/)
+- [MailAuthGuard – Open email authentication and deliverability auditor](https://github.com/benjaminsamson0210/mailauthguard-js)
+- [Boberger Niederung: Eight Habitats in One Nature Reserve](https://alsterrunde.com/boberger-niederung-eight-habitats-in-one-nature-reserve/)
+- [Underreported in the US: new site uses open source LLMs to find underovered news](https://pressaudit.org/f/findings/underreported-in-the-us?view=article-bias-heatmap&timeRange=7d)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

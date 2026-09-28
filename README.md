@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Israel game goes ahead after Irish players’ vote; reaction to Spain’s win over England – matchday live](https://www.theguardian.com/football/live/2026/sep/27/israel-republic-of-ireland-england-spain-matchday-live)
-- [‘It’s like the Scottish Upper East Side’: shame and snobbery as American students blamed for St Andrews classism](https://www.theguardian.com/education/2026/sep/27/st-andrews-university-class-divide-american-students)
-- [Gateshead’s fruitless trip south offers hint of Manchester City’s doomsday future](https://www.theguardian.com/football/2026/sep/27/national-league-gateshead-wealdstone)
-- [‘Viscerally dedicated to social issues’: behind Lula’s drive to win final term in Brazil’s crunch election](https://www.theguardian.com/world/2026/sep/27/viscerally-dedicated-to-social-issues-behind-lulas-drive-to-win-final-term-in-brazils-crunch-election)
-- [‘People are standing up and fighting back’: the north Devon revolt against a vast AI datacentre](https://www.theguardian.com/uk-news/2026/sep/27/people-are-standing-up-and-fighting-back-north-devon-ai-datacentre)
-- [61m tonnes of rubble: Gaza aid workers face delicate task of clearing ruins concealing up to 10,000 bodies](https://www.theguardian.com/world/2026/sep/27/rubble-gaza-un-aid-workers-ruins-dead-bodies)
-- [The best thing I ever ate? Mum’s boeuf à la mode on my 21st birthday](https://www.theguardian.com/food/2026/sep/27/best-thing-i-ever-ate-boeuf-a-la-mode-jeremy-lee)
-- [Footgolfers in arms race to replicate ‘the worst ball I’ve seen in my life’](https://www.theguardian.com/football/2026/sep/27/footgolfers-in-arms-race-to-replicate-the-worst-ball-ive-seen-in-my-life)
-- [Ever feel you’ve been cheated? Consequences could be profound after Manchester City guilty verdict | Jonathan Wilson](https://www.theguardian.com/football/2026/sep/27/ever-feel-youve-been-cheated-consequences-could-be-profound-after-manchester-city-guilty-verdict)
-- [‘Our house was under water’: Bangkok floods force thousands into shelters as disaster declared](https://www.theguardian.com/world/2026/sep/27/our-house-was-under-water-bangkok-floods-force-thousands-into-shelters-as-disaster-declared)
+- [Pope Leo to address Europe’s role in world on final day of France visit – Europe live](https://www.theguardian.com/world/live/2026/sep/28/europe-ukraine-defence-ministers-pope-leo-france-visit-latest-news-updates)
+- [UK housebuilders’ stocks surge on new homes scheme for first-time buyers – business live](https://www.theguardian.com/business/live/2026/sep/28/uk-housebuilders-stocks-new-homes-scheme-first-time-buyers-business-live-news)
+- [Warning Burnham’s social care plan could cost far more than he says, and take ‘decades’ to implement – UK politics live](https://www.theguardian.com/politics/live/2026/sep/28/labour-party-conference-healey-economy-streeting-miliband-andy-burnham-latest-news-updates)
+- [Avanti West Coast to be renationalised in March](https://www.theguardian.com/business/2026/sep/28/avanti-west-coast-to-be-renationalised-in-march)
+- [Children forced to give up school for work as fighting upends daily life in Yemen](https://www.theguardian.com/world/2026/sep/28/yemen-fighting-houthis-families-flee-displacement)
+- [Forget the famous names. Here is who actually deserves this year’s Nobel peace prize | Haakon Gjerløw](https://www.theguardian.com/commentisfree/2026/sep/28/donald-trump-nobel-peace-prize-volodymyr-zelenskyy)
+- [OK, now it’s time for the Patriots to panic about Drake Maye](https://www.theguardian.com/sport/2026/sep/28/new-england-patriots-drake-maye-quarterback)
+- [‘I’ve never watched a whole episode of Peep Show’: Matt King on surviving a stroke and reviving Super Hans](https://www.theguardian.com/tv-and-radio/2026/sep/28/peep-show-matt-king-interview-super-hans-comedy)
+- [Arsène Wenger and Arsenal: 30 years on from appointment that changed English football](https://www.theguardian.com/football/2026/sep/28/arsene-wenger-arsenal-30-years-on-from-transformation-english-football)
+- [Data shows England made inroads against Spain but they must be more clinical | Andrew Beasley](https://www.theguardian.com/football/2026/sep/28/england-spain-penalty-box-touches-nations-league)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

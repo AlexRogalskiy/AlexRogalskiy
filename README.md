@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [CliffCompaction: Cost-Efficient Compaction for Long-Horizon Coding Agents](https://arxiv.org/abs/2609.26779)
-- [Chrome just added WebMCP to the inspector](https://twitter.com/gherget/status/2104146477140615521)
-- [We Compared 51k Paint Colors: 3 in 4 Have a Near-Identical Twin in Another Brand](https://usemuro.com/en/blog/paint-color-twins-across-brands)
-- [How my boss made InternalServerErrors disappear](https://bankstatementconverter.com/blog/posts/2026-09-28-how-my-boss-made-internal-server-errors-disappear/)
-- [Show HN: Shobr: Job seach CLI via browser automation, event-sourcing, LLMs](https://github.com/sebastiancarlos/shobr)
-- [Hunting a ShinyHunters-linked phishing cluster from one IOC](https://huntback.io/blog/shinyhunters-panel-cluster)
-- [Time.fyi](https://time.fyi/)
-- [MailAuthGuard – Open email authentication and deliverability auditor](https://github.com/benjaminsamson0210/mailauthguard-js)
-- [Boberger Niederung: Eight Habitats in One Nature Reserve](https://alsterrunde.com/boberger-niederung-eight-habitats-in-one-nature-reserve/)
-- [Underreported in the US: new site uses open source LLMs to find underovered news](https://pressaudit.org/f/findings/underreported-in-the-us?view=article-bias-heatmap&timeRange=7d)
+- [Show HN: Core Metric Suite – 12 free, privacy-first web calculators](https://www.coremetricsuite.com/)
+- [The booming business of insuring against US gun violence](https://www.ft.com/content/5ad7c42c-b95d-47b8-8dfd-896c1deda1df)
+- [The feedback loop of mathematics research](https://blog.danromik.com/the-feedback-loop-of-mathematics-research)
+- [Show HN: Musebook – A Social Network for Muses](https://themusebook.co/)
+- [I build an B2C social media app and reached 28 payed subscriptions](https://mindfuse.io)
+- [Obliteratus Removes LLM Censorship](https://huggingface.co/spaces/pliny-the-prompter/obliteratus)
+- [Currency converter app – ECB rates &lpar;works offline as PWA&rpar;](https://riowallet.netlify.app/)
+- [Timeline of Emergent Capabilities](https://www.gleech.org/emergence)
+- [OpenAI scraps release of new model over safety concerns](https://www.theguardian.com/technology/2026/sep/28/openai-new-model-astra-release-scrapped)
+- [ContextMemory – Markdown memory for your llama.cpp/vLLM server](https://github.com/Kortexio/ContextMemory)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

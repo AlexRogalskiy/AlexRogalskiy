@@ -355,6 +355,8 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Try Google Drive Projects for fast, focused AI analysis](https://www.computerworld.com/article/4219866/google-drive-projects-focused-ai-analysis-in-google-workspace.html)
+- [Apple’s long, lonely game in the AR race](https://www.computerworld.com/article/4227608/apples-long-lonely-game-in-the-ar-race.html)
 - [AI tools help hacker break in for $25 per target](https://www.computerworld.com/article/4226868/ai-tools-help-hacker-break-in-for-25-per-target-2.html)
 - [OpenAI wants you to use AI — but not to train its AI](https://www.computerworld.com/article/4226841/openai-wants-you-to-use-ai-but-not-to-train-its-ai.html)
 - [Microsoft’s new Copilot ‘super app’ unifies chat, code, agents](https://www.computerworld.com/article/4226817/microsofts-new-copilot-unifies-enterprise-context-for-chat-and-code.html)
@@ -363,8 +365,6 @@
 - [iOS 27: Why you should learn to love Impersonation Risk Detection](https://www.computerworld.com/article/4226715/ios-27-why-you-should-learn-to-love-impersonation-risk-detection.html)
 - [Meta floats project to lay first petabit submarine fiberoptic cable](https://www.computerworld.com/article/4226684/meta-floats-project-to-lay-first-petabit-submarine-fiberoptic-cable-2.html)
 - [Google plans Gemini 4 release before year-end](https://www.computerworld.com/article/4226640/google-plans-gemini-4-release-before-year-end.html)
-- [Around the corner: Agentic AI PCs that cut token costs](https://www.computerworld.com/article/4226343/around-the-corner-agentic-ai-pcs-that-cut-token-costs.html)
-- [The companies racing to build frontier AI are now racing to govern it](https://www.computerworld.com/article/4226400/the-companies-racing-to-build-frontier-ai-are-now-racing-to-govern-it-2.html)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

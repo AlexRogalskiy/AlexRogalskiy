@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [An Antidote to Roko&#39;s Basilisk](https://news.ycombinator.com/item?id=49874609)
-- [Thinking fast and slow in AI: The role of metacognition &lpar;2021&rpar;](https://arxiv.org/abs/2110.01834)
-- [TabPFN and TabICL vs. tuned XGBoost: the model that doesn&#39;t train won 14/14](https://efraingaray.com/en/blog/tabpfn-vs-xgboost/)
-- [Owed a billion dollars in Nvidia stock](https://colo.to/nvidia-stock-narrative.html)
-- [Packing Binary Is Fun](https://hereticpleb.vercel.app/blog/packing-binary-is-fun-actually)
-- [Was silent reading unusual during Augustine&#39;s time?](https://www.historyofinformation.com/detail.php?entryid=4341)
-- [When did Google get so weird?](https://sancho.bearblog.dev/google-weird/)
-- [Self-Hosting on the Dark Web](https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/)
-- [Alan Kay&#39;s answer to “Did the ENIAC have a BIOS”?](https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11)
-- [Imp is a full port of DSPy to the BEAM](https://github.com/deepfates/imp)
+- [OpenAI: Tomorrow we are re-opening the Pro $200 subscription](https://twitter.com/thsottiaux/status/2104823812042940713)
+- [US Forces Exit Iraq](https://www.reuters.com/world/middle-east/us-forces-exit-iraq-after-two-decades-leaving-opening-iran-2026-09-29/)
+- [Tank Body Problem](http://www.jimsitu.com)
+- [1996 chat room simulator connected to Win95 and System 7 web desktops](https://lolchat.rip/)
+- [Show HN: Pac-Bench – How well can models one-shot a Pac-Man game?](https://jonclegg.github.io/pacman-bakeoff/)
+- [ESP32S3 cluster running 1.58-bit &lpar;BitNet&rpar; Language model](https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster)
+- [Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms](https://github.com/firelex/jeff)
+- [World Labs Is Joining AMD](https://www.worldlabs.ai/blog/amd-announcement)
+- [California farmers are struggling to sell grapes as demand for wine drops](https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops)
+- [Scientists solve 1840s space weather mystery](https://arstechnica.com/science/2026/09/scientists-solve-1840s-space-weather-mystery/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

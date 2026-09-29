@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Pope Leo to address Europe’s role in world on final day of France visit – Europe live](https://www.theguardian.com/world/live/2026/sep/28/europe-ukraine-defence-ministers-pope-leo-france-visit-latest-news-updates)
-- [UK housebuilders’ stocks surge on new homes scheme for first-time buyers – business live](https://www.theguardian.com/business/live/2026/sep/28/uk-housebuilders-stocks-new-homes-scheme-first-time-buyers-business-live-news)
-- [Warning Burnham’s social care plan could cost far more than he says, and take ‘decades’ to implement – UK politics live](https://www.theguardian.com/politics/live/2026/sep/28/labour-party-conference-healey-economy-streeting-miliband-andy-burnham-latest-news-updates)
-- [Avanti West Coast to be renationalised in March](https://www.theguardian.com/business/2026/sep/28/avanti-west-coast-to-be-renationalised-in-march)
-- [Children forced to give up school for work as fighting upends daily life in Yemen](https://www.theguardian.com/world/2026/sep/28/yemen-fighting-houthis-families-flee-displacement)
-- [Forget the famous names. Here is who actually deserves this year’s Nobel peace prize | Haakon Gjerløw](https://www.theguardian.com/commentisfree/2026/sep/28/donald-trump-nobel-peace-prize-volodymyr-zelenskyy)
-- [OK, now it’s time for the Patriots to panic about Drake Maye](https://www.theguardian.com/sport/2026/sep/28/new-england-patriots-drake-maye-quarterback)
-- [‘I’ve never watched a whole episode of Peep Show’: Matt King on surviving a stroke and reviving Super Hans](https://www.theguardian.com/tv-and-radio/2026/sep/28/peep-show-matt-king-interview-super-hans-comedy)
-- [Arsène Wenger and Arsenal: 30 years on from appointment that changed English football](https://www.theguardian.com/football/2026/sep/28/arsene-wenger-arsenal-30-years-on-from-transformation-english-football)
-- [Data shows England made inroads against Spain but they must be more clinical | Andrew Beasley](https://www.theguardian.com/football/2026/sep/28/england-spain-penalty-box-touches-nations-league)
+- [OpenAI scraps release of new model over safety concerns in internal testing](https://www.theguardian.com/technology/2026/sep/28/openai-new-model-astra-release-scrapped)
+- [Fifa accuses Uefa of ‘misinformation campaign’ against Gianni Infantino](https://www.theguardian.com/football/2026/sep/29/fifa-accuses-uefa-misinformation-campaign-gianni-infantino-influence-election)
+- [‘Goodison Gazza’ Billy Kenny: ‘The only time I’ve had peace was when I was locked up’](https://www.theguardian.com/football/2026/sep/29/billy-kenny-goodison-gazza-everton-interview)
+- [Every saint has a past: how man at heart of City’s first scandal became a United hero | Sean Ingle](https://www.theguardian.com/football/2026/sep/29/every-saint-has-a-past-lessons-from-citys-first-scandal-in-1906)
+- [‘Jaw-dropping’ play based on Pelicot rape trial comes to London for one night](https://www.theguardian.com/world/2026/sep/29/jaw-dropping-play-based-on-pelicot-trial-comes-to-london-for-one-night)
+- [Britons are not ageing healthily – we need to learn from countries that have made it a priority | Devi Sridhar](https://www.theguardian.com/commentisfree/2026/sep/29/britons-not-ageing-healthily-protect-nhs-social-care)
+- [County cricket 2026 awards: the good, the bad and the best man](https://www.theguardian.com/sport/2026/sep/29/county-championship-2026-awards-cricket)
+- [Large shark stuck in South Korean city canal draws 600,000 visitors](https://www.theguardian.com/world/2026/sep/29/large-shark-stuck-city-canal-south-korea-rescue)
+- [Rubio says foreign actor was ‘clearly’ behind suspected RAF Fairford bomb plot](https://www.theguardian.com/uk-news/2026/sep/29/raf-fairford-uk-bomb-plot-marco-rubio-claims-foreign-actor)
+- [Saunas, cinnamon buns and coastal scenery on the new rail route from Malmö to Oslo](https://www.theguardian.com/travel/2026/sep/29/saunas-cinnamon-buns-and-coastal-scenery-on-the-new-rail-route-from-malmo-to-oslo)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

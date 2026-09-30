@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [OpenAI scraps release of new model over safety concerns in internal testing](https://www.theguardian.com/technology/2026/sep/28/openai-new-model-astra-release-scrapped)
-- [Fifa accuses Uefa of ‘misinformation campaign’ against Gianni Infantino](https://www.theguardian.com/football/2026/sep/29/fifa-accuses-uefa-misinformation-campaign-gianni-infantino-influence-election)
-- [‘Goodison Gazza’ Billy Kenny: ‘The only time I’ve had peace was when I was locked up’](https://www.theguardian.com/football/2026/sep/29/billy-kenny-goodison-gazza-everton-interview)
-- [Every saint has a past: how man at heart of City’s first scandal became a United hero | Sean Ingle](https://www.theguardian.com/football/2026/sep/29/every-saint-has-a-past-lessons-from-citys-first-scandal-in-1906)
-- [‘Jaw-dropping’ play based on Pelicot rape trial comes to London for one night](https://www.theguardian.com/world/2026/sep/29/jaw-dropping-play-based-on-pelicot-trial-comes-to-london-for-one-night)
-- [Britons are not ageing healthily – we need to learn from countries that have made it a priority | Devi Sridhar](https://www.theguardian.com/commentisfree/2026/sep/29/britons-not-ageing-healthily-protect-nhs-social-care)
-- [County cricket 2026 awards: the good, the bad and the best man](https://www.theguardian.com/sport/2026/sep/29/county-championship-2026-awards-cricket)
-- [Large shark stuck in South Korean city canal draws 600,000 visitors](https://www.theguardian.com/world/2026/sep/29/large-shark-stuck-city-canal-south-korea-rescue)
-- [Rubio says foreign actor was ‘clearly’ behind suspected RAF Fairford bomb plot](https://www.theguardian.com/uk-news/2026/sep/29/raf-fairford-uk-bomb-plot-marco-rubio-claims-foreign-actor)
-- [Saunas, cinnamon buns and coastal scenery on the new rail route from Malmö to Oslo](https://www.theguardian.com/travel/2026/sep/29/saunas-cinnamon-buns-and-coastal-scenery-on-the-new-rail-route-from-malmo-to-oslo)
+- [Andy Burnham says rejoining the EU among all ‘the options’ being considered – UK politics live](https://www.theguardian.com/politics/live/2026/sep/30/andy-burnham-eu-brexit-rejoin-customs-union-fuel-duty-budget-latest-news-updates)
+- [Tough decisions for Andy Burnham – take our quiz and guess the tracks he picked for his tour of England’s regions](https://www.theguardian.com/politics/2026/sep/30/tough-decisions-for-andy-burnham-take-our-quiz-and-guess-the-tracks-he-picked-for-his-tour-of-englands-regions)
+- [I heard one thing loud and clear in Andy Burnham’s landmark speech: the left has won the arguments | Owen Jones](https://www.theguardian.com/commentisfree/2026/sep/30/andy-burnham-landmark-speech-left-won-arguments)
+- [Have any footballers ever scored with the first touch of their careers? | The Knowledge](https://www.theguardian.com/football/2026/sep/30/footballers-scoring-first-touch-of-careers-the-knowledge)
+- [Sixteen English councils spend more than 80% of core funding on social care](https://www.theguardian.com/society/2026/sep/30/councils-core-spending-social-care-england)
+- [Edinburgh joins UK universities heading for strikes as cuts spread through entire sector](https://www.theguardian.com/education/2026/sep/30/edinburgh-joins-uk-universities-dundee-nottingham-heading-for-strikes-cuts-through-sector)
+- [‘I needed to change’: Peter O’Mahony on ditching hard-edged ritual, and his love of gardening](https://www.theguardian.com/sport/2026/sep/30/peter-omahoney-ireland-six-nations-andy-farrell-british-irish-lions-munster-rassie-erasmus-rugby-union-gardening)
+- [Dropping Kelly and Toone could prove a World Cup masterstroke by Wiegman | Tom Garry](https://www.theguardian.com/football/2026/sep/30/dropping-toone-and-kelly-world-cup-masterstroke-wiegman)
+- [Energy bills in Great Britain forecast to jump by £276 a year from January](https://www.theguardian.com/money/2026/sep/30/energy-bills-great-britain-forecast-to-rise-iran-war)
+- [Half a million trees to be planted in England in three years, says government](https://www.theguardian.com/environment/2026/sep/30/half-million-trees-planted-england-three-years-angela-eagle)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

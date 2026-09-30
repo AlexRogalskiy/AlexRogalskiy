@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [OpenAI: Tomorrow we are re-opening the Pro $200 subscription](https://twitter.com/thsottiaux/status/2104823812042940713)
-- [US Forces Exit Iraq](https://www.reuters.com/world/middle-east/us-forces-exit-iraq-after-two-decades-leaving-opening-iran-2026-09-29/)
-- [Tank Body Problem](http://www.jimsitu.com)
-- [1996 chat room simulator connected to Win95 and System 7 web desktops](https://lolchat.rip/)
-- [Show HN: Pac-Bench – How well can models one-shot a Pac-Man game?](https://jonclegg.github.io/pacman-bakeoff/)
-- [ESP32S3 cluster running 1.58-bit &lpar;BitNet&rpar; Language model](https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster)
-- [Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms](https://github.com/firelex/jeff)
-- [World Labs Is Joining AMD](https://www.worldlabs.ai/blog/amd-announcement)
-- [California farmers are struggling to sell grapes as demand for wine drops](https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops)
-- [Scientists solve 1840s space weather mystery](https://arstechnica.com/science/2026/09/scientists-solve-1840s-space-weather-mystery/)
+- [PSSA: A non-transformer language model written from scratch in Rust](https://github.com/Sparticle62ops/pssa)
+- [RSS Feeds for Last.fm](https://lfm.xiffy.nl/)
+- [Responsible Release of AI-Generated Mathematics](https://agmai.org/general-sep29/)
+- [Ballmer Peak](https://en.wikipedia.org/wiki/Ballmer_Peak)
+- [NRC issues first U.S. construction permit for a BWRX-300 small modular reactor](https://www.gevernova.com/news/press-releases/nrc-issues-first-us-construction-permit-bwrx-300-small-modular-reactor-tva-clinch-river)
+- [Livenerf: Has Opus 5.5 been nerfed yet?](https://github.com/ninjahawk/livenerf)
+- [U.S. postal inspectors shut down website selling counterfeit postage labels](https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/)
+- [Show HN: Real-time Solar System with 526k asteroids and all tracked satellites](https://space.bl2.net/)
+- [We’re forgetting what darkness feels like](https://www.theguardian.com/environment/2026/sep/29/night-sky-darkness-city-regulation)
+- [Vermont replacing power plants with home batteries](https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

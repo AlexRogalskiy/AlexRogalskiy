@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: Core Metric Suite – 12 free, privacy-first web calculators](https://www.coremetricsuite.com/)
-- [The booming business of insuring against US gun violence](https://www.ft.com/content/5ad7c42c-b95d-47b8-8dfd-896c1deda1df)
-- [The feedback loop of mathematics research](https://blog.danromik.com/the-feedback-loop-of-mathematics-research)
-- [Show HN: Musebook – A Social Network for Muses](https://themusebook.co/)
-- [I build an B2C social media app and reached 28 payed subscriptions](https://mindfuse.io)
-- [Obliteratus Removes LLM Censorship](https://huggingface.co/spaces/pliny-the-prompter/obliteratus)
-- [Currency converter app – ECB rates &lpar;works offline as PWA&rpar;](https://riowallet.netlify.app/)
-- [Timeline of Emergent Capabilities](https://www.gleech.org/emergence)
-- [OpenAI scraps release of new model over safety concerns](https://www.theguardian.com/technology/2026/sep/28/openai-new-model-astra-release-scrapped)
-- [ContextMemory – Markdown memory for your llama.cpp/vLLM server](https://github.com/Kortexio/ContextMemory)
+- [Show HN: GeoGrandPrix – daily F1 geography game, can you beat your friends?](https://geograndprix.com/)
+- [Do Not Publish &lpar;FINAL_final_v2&rpar;](https://franciscocarloserra.github.io/do-not-publish/#win95.chat.office.patience.none.buzz.609930862.27)
+- [Ubicloud Machine Images](https://www.ubicloud.com/blog/announcing-ubicloud-machine-images)
+- [Eighteen-Wheeler E-Trucks Are China&#39;s Answer to Soaring Global Diesel Prices](https://www.bloomberg.com/news/features/2026-09-29/eighteen-wheeler-e-trucks-are-china-s-answer-to-soaring-global-diesel-prices)
+- [The Agents Are Among Us](https://taoofmac.com/space/blog/2026/09/30/0735)
+- [OpenAI DevDay Recap – what&#39;s new](https://openai.com/pl-PL/index/devday-2026-recap/)
+- [Show HN: Kguardian – seccomp profiles and NetworkPolicies from eBPF traces](https://github.com/kguardian-dev/kguardian)
+- [Doing a Machine Learning PhD While Working in Japan](https://www.tokyodev.com/articles/doing-a-machine-learning-phd-while-working-in-japan)
+- [The Rise of Unreviewed Drafts on ArXiv and Its Implications for Astronomy](https://arxiv.org/abs/2609.35787)
+- [Why Is Sam Altman a Free Man?](https://prospect.org/2026/09/29/artificial-intelligence-agents-openai-microsoft-sam-altman-greg-brockman-ah-nice/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

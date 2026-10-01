@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: GeoGrandPrix – daily F1 geography game, can you beat your friends?](https://geograndprix.com/)
-- [Do Not Publish &lpar;FINAL_final_v2&rpar;](https://franciscocarloserra.github.io/do-not-publish/#win95.chat.office.patience.none.buzz.609930862.27)
-- [Ubicloud Machine Images](https://www.ubicloud.com/blog/announcing-ubicloud-machine-images)
-- [Eighteen-Wheeler E-Trucks Are China&#39;s Answer to Soaring Global Diesel Prices](https://www.bloomberg.com/news/features/2026-09-29/eighteen-wheeler-e-trucks-are-china-s-answer-to-soaring-global-diesel-prices)
-- [The Agents Are Among Us](https://taoofmac.com/space/blog/2026/09/30/0735)
-- [OpenAI DevDay Recap – what&#39;s new](https://openai.com/pl-PL/index/devday-2026-recap/)
-- [Show HN: Kguardian – seccomp profiles and NetworkPolicies from eBPF traces](https://github.com/kguardian-dev/kguardian)
-- [Doing a Machine Learning PhD While Working in Japan](https://www.tokyodev.com/articles/doing-a-machine-learning-phd-while-working-in-japan)
-- [The Rise of Unreviewed Drafts on ArXiv and Its Implications for Astronomy](https://arxiv.org/abs/2609.35787)
-- [Why Is Sam Altman a Free Man?](https://prospect.org/2026/09/29/artificial-intelligence-agents-openai-microsoft-sam-altman-greg-brockman-ah-nice/)
+- [Five ways publishers are rethinking audience engagement](https://www.niemanlab.org/2026/09/how-publishers-are-rethinking-audience-engagement-five-takeaways-from-the-future-of-media-technology-conference/)
+- [Financing the AI Buildout](https://www.brookings.edu/articles/financing-the-ai-buildout/)
+- [Snapdragon Sound Elite Gen 2](https://www.qualcomm.com/audio/products/snapdragon-sound-elite-gen-2)
+- [A laser just photographed objects through six feet of concrete](https://newatlas.com/technology/pics-muon-laser-reveal-unseeable/)
+- [SB&amp;R – Chained Referral Campaign for Online Brands](https://apps.shopify.com/sb-r)
+- [RAM supply set to worsen, says Micron, as CEO celebrates &#39;much higher&#39; prices](https://www.theregister.com/systems/2026/10/01/ram-supply-set-to-worsen-says-micron-as-ceo-celebrates-much-higher-prices/5300346)
+- [Learning Steganography Is Easy, Learning Steganographic Reasoning Is Hard](https://arxiv.org/abs/2609.39838)
+- [Clausewitz on Operation Epic Fury](https://www.justsecurity.org/147675/clausewitz-operation-epic-fury/)
+- [The Cost of Vibe-Coding Games [video]](https://www.youtube.com/watch?v=5cbonpAgR5A)
+- [In Search of Northanger Abbey: Farleigh Hungerford Castle](https://englishhistoryauthors.blogspot.com/2026/08/in-search-of-northanger-abbey-farleigh.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

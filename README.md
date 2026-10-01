@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [OpenAI takes on Microsoft and Google with office productivity push](https://www.computerworld.com/article/4229031/openai-takes-on-microsoft-and-google-with-office-productivity-push.html)
+- [Trump’s answer to AI’s image problem: Industry self-regulation and a new name](https://www.computerworld.com/article/4228950/trumps-answer-to-ais-image-problem-industry-self-regulation-and-a-new-name-2.html)
+- [Apple issues urgent iOS patch as it navigates the spyware arms race](https://www.computerworld.com/article/4228858/apple-issues-urgent-ios-patch-as-it-navigates-the-spyware-arms-race.html)
+- [Your guide to Google Messages’ new hidden gestures](https://www.computerworld.com/article/4227776/google-messages-gestures.html)
 - [Meta’s next big AI bet is enterprise; its biggest hurdle may be trust](https://www.computerworld.com/article/4228531/metas-next-big-ai-bet-is-enterprise-its-biggest-hurdle-may-be-trust-3.html)
-- [Anthropic revelations suggest a much stronger AI negotiating stance for enterprise CIOs](https://www.computerworld.com/article/4228501/anthropic-revelations-suggest-a-much-stronger-ai-negotiating-stance-for-enterprise-cios-2.html)
+- [Anthropic’s lack of revenue diversification gives IT buyers negotiating power — and risk](https://www.computerworld.com/article/4228501/anthropic-revelations-suggest-a-much-stronger-ai-negotiating-stance-for-enterprise-cios-2.html)
 - [Meta’s ex launches agent rival to Meta’s Muse](https://www.computerworld.com/article/4228305/metas-ex-launches-agent-rival-to-metas-muse-2.html)
 - [Apple wasn’t late to AI, it was the adult in the room](https://www.computerworld.com/article/4228290/apple-wasnt-late-to-ai-it-was-the-adult-in-the-room.html)
 - [Is Microsoft truly serious about confronting AI’s dangers?](https://www.computerworld.com/article/4227873/is-microsoft-truly-serious-about-confronting-ais-dangers.html)
 - [Stop using ‘tech debt’ to refer to anything old](https://www.computerworld.com/article/4227193/stop-using-tech-debt-to-refer-to-anything-old.html)
-- [Try Google Drive Projects for fast, focused AI analysis](https://www.computerworld.com/article/4219866/google-drive-projects-focused-ai-analysis-in-google-workspace.html)
-- [Apple’s long, lonely game in the AR race](https://www.computerworld.com/article/4227608/apples-long-lonely-game-in-the-ar-race.html)
-- [AI tools help hacker break in for $25 per target](https://www.computerworld.com/article/4226868/ai-tools-help-hacker-break-in-for-25-per-target-2.html)
-- [OpenAI wants you to use AI — but not to train its AI](https://www.computerworld.com/article/4226841/openai-wants-you-to-use-ai-but-not-to-train-its-ai.html)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

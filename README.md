@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [PSSA: A non-transformer language model written from scratch in Rust](https://github.com/Sparticle62ops/pssa)
-- [RSS Feeds for Last.fm](https://lfm.xiffy.nl/)
-- [Responsible Release of AI-Generated Mathematics](https://agmai.org/general-sep29/)
-- [Ballmer Peak](https://en.wikipedia.org/wiki/Ballmer_Peak)
-- [NRC issues first U.S. construction permit for a BWRX-300 small modular reactor](https://www.gevernova.com/news/press-releases/nrc-issues-first-us-construction-permit-bwrx-300-small-modular-reactor-tva-clinch-river)
-- [Livenerf: Has Opus 5.5 been nerfed yet?](https://github.com/ninjahawk/livenerf)
-- [U.S. postal inspectors shut down website selling counterfeit postage labels](https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/)
-- [Show HN: Real-time Solar System with 526k asteroids and all tracked satellites](https://space.bl2.net/)
-- [We’re forgetting what darkness feels like](https://www.theguardian.com/environment/2026/sep/29/night-sky-darkness-city-regulation)
-- [Vermont replacing power plants with home batteries](https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms)
+- [Show HN: Yantra – an LALR&lpar;1&rpar; parser generator for C++](https://github.com/TantrixAuto/yantra)
+- [56k.rip – the 1996 dial-up internet experience](https://56k.rip/)
+- [The top secret URSALA, RAQUEL, and FARRAH satellites &lpar;2025&rpar;](https://www.thespacereview.com/article/4951/1)
+- [Functional Ultrasound Imaging &lpar;fUSI&rpar; from scratch](https://www.neuroai.science/p/functional-ultrasound-imaging-from)
+- [Gemini 4 Argon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/)
+- [Halfspace experimental IDE for solid modeling with distance fields](https://www.mattkeeter.com/projects/halfspace/)
+- [EDG C++ front-end goes public](https://edgcpp.org/#transition)
+- [Surprisingly complex waves reveal the brain&#39;s inner workings](https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/)
+- [Before pixels: Modular industrial dashboards](https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/)
+- [5x faster Edge Functions: V8 isolates to Firecracker MicroVMs](https://www.netlify.com/blog/edge-functions-firecracker-microvms/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

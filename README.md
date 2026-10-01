@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Andy Burnham says rejoining the EU among all ‘the options’ being considered – UK politics live](https://www.theguardian.com/politics/live/2026/sep/30/andy-burnham-eu-brexit-rejoin-customs-union-fuel-duty-budget-latest-news-updates)
-- [Tough decisions for Andy Burnham – take our quiz and guess the tracks he picked for his tour of England’s regions](https://www.theguardian.com/politics/2026/sep/30/tough-decisions-for-andy-burnham-take-our-quiz-and-guess-the-tracks-he-picked-for-his-tour-of-englands-regions)
-- [I heard one thing loud and clear in Andy Burnham’s landmark speech: the left has won the arguments | Owen Jones](https://www.theguardian.com/commentisfree/2026/sep/30/andy-burnham-landmark-speech-left-won-arguments)
-- [Have any footballers ever scored with the first touch of their careers? | The Knowledge](https://www.theguardian.com/football/2026/sep/30/footballers-scoring-first-touch-of-careers-the-knowledge)
-- [Sixteen English councils spend more than 80% of core funding on social care](https://www.theguardian.com/society/2026/sep/30/councils-core-spending-social-care-england)
-- [Edinburgh joins UK universities heading for strikes as cuts spread through entire sector](https://www.theguardian.com/education/2026/sep/30/edinburgh-joins-uk-universities-dundee-nottingham-heading-for-strikes-cuts-through-sector)
-- [‘I needed to change’: Peter O’Mahony on ditching hard-edged ritual, and his love of gardening](https://www.theguardian.com/sport/2026/sep/30/peter-omahoney-ireland-six-nations-andy-farrell-british-irish-lions-munster-rassie-erasmus-rugby-union-gardening)
-- [Dropping Kelly and Toone could prove a World Cup masterstroke by Wiegman | Tom Garry](https://www.theguardian.com/football/2026/sep/30/dropping-toone-and-kelly-world-cup-masterstroke-wiegman)
-- [Energy bills in Great Britain forecast to jump by £276 a year from January](https://www.theguardian.com/money/2026/sep/30/energy-bills-great-britain-forecast-to-rise-iran-war)
-- [Half a million trees to be planted in England in three years, says government](https://www.theguardian.com/environment/2026/sep/30/half-million-trees-planted-england-three-years-angela-eagle)
+- [UK 30-year borrowing costs hit 6%, highest since 1998, as government bond sell-off intensifies – business live](https://www.theguardian.com/business/live/2026/oct/01/uk-house-prices-september-mortgage-rates-bonds-stock-markets-manufacturing-latest-news-updates)
+- [Badenoch proposes welfare reform that would stop many jobless under-25s getting universal credit – UK politics live](https://www.theguardian.com/politics/live/2026/oct/01/universal-credit-benefits-welfare-conservatives-kemi-badenoch-andy-burnham-labour-latest-news-updates)
+- [Russia continues strikes on Ukraine as Zelenskyy visits frontline – Europe live](https://www.theguardian.com/world/live/2026/oct/01/europe-latest-news-updates-russia-strikes-ukraine-nato)
+- [RSC embraces ‘hugely challenging’ task of staging Susanna Clarke’s Piranesi and Virginia Woolf’s Mrs Dalloway](https://www.theguardian.com/stage/2026/oct/01/rsc-new-season-mrs-dalloway-piranesi)
+- [East of Eden review – Florence Pugh’s soapy Steinbeck adaptation is brilliant, compelling TV](https://www.theguardian.com/tv-and-radio/2026/oct/01/east-of-eden-review-florence-pugh-john-steinbeck)
+- [War, power games and impunity. I watched the farce that is the UN general assembly: what a tragedy, what a mess | Nesrine Malik](https://www.theguardian.com/commentisfree/2026/oct/01/war-power-games-impunity-un-general-assembly-ukraine-iran-palestine-sudan)
+- [You be the judge: should my girlfriend let me hang my football calendar in her flat?](https://www.theguardian.com/lifeandstyle/2026/oct/01/you-be-the-judge-should-my-girlfriend-let-me-put-up-my-football-calendar-in-her-flat)
+- [Rugby union power rankings: how the teams stand a year from World Cup](https://www.theguardian.com/sport/2026/oct/01/rugby-union-power-rankings-world-cup-2027)
+- [South Park has ​​AI datacentres​, sentient penises ​and a billionaire problem – in more ways than one](https://www.theguardian.com/tv-and-radio/2026/oct/01/south-park-has-ai-datacentres-sentient-penises-and-a-billionaire-problem-in-more-ways-than-one)
+- [Charity threatens legal action over two-year NHS wait for ADHD and autism assessments](https://www.theguardian.com/society/2026/oct/01/adhd-uk-two-year-wait-nhs-autism-west-yorkshire-icb-legal-action)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

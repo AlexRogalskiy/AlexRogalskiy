@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Show HN: Yantra – an LALR&lpar;1&rpar; parser generator for C++](https://github.com/TantrixAuto/yantra)
-- [56k.rip – the 1996 dial-up internet experience](https://56k.rip/)
-- [The top secret URSALA, RAQUEL, and FARRAH satellites &lpar;2025&rpar;](https://www.thespacereview.com/article/4951/1)
-- [Functional Ultrasound Imaging &lpar;fUSI&rpar; from scratch](https://www.neuroai.science/p/functional-ultrasound-imaging-from)
-- [Gemini 4 Argon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/)
-- [Halfspace experimental IDE for solid modeling with distance fields](https://www.mattkeeter.com/projects/halfspace/)
-- [EDG C++ front-end goes public](https://edgcpp.org/#transition)
-- [Surprisingly complex waves reveal the brain&#39;s inner workings](https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/)
-- [Before pixels: Modular industrial dashboards](https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/)
-- [5x faster Edge Functions: V8 isolates to Firecracker MicroVMs](https://www.netlify.com/blog/edge-functions-firecracker-microvms/)
+- [US tells France and Germany to release diesel stocks or face US export ban](https://www.reuters.com/business/energy/us-tells-france-germany-release-diesel-stocks-or-face-us-export-ban-sources-say-2026-10-01/)
+- [Shimano Bicycle Museum Review](https://inrng.com/2026/10/shimano-bicycle-museum/)
+- [Building reliable &lpar;and fast&rpar; directory sync](https://www.firezone.dev/blog/building-reliable-directory-sync)
+- [DeepSeek Harness Desktop for macOS and Windows](https://www.deepseek.com/en/harness/)
+- [How Singapore&#39;s government-run dating service works](https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works)
+- [Butterflies use optical illusions to dodge predators](https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators)
+- [Several vulnerabilities have been discovered in the Linux kernel](https://lwn.net/Articles/1097401/)
+- [Frog and Toad and the Increasingly Capable Machines](https://www.frogandtoad.ai/)
+- [CSS Bed: Classless CSS themes to use as starting points in web development](https://www.cssbed.com)
+- [Using Opus 5.5 to discover a new eyewitness record of the dodo](https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

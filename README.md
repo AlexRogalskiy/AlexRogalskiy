@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Five ways publishers are rethinking audience engagement](https://www.niemanlab.org/2026/09/how-publishers-are-rethinking-audience-engagement-five-takeaways-from-the-future-of-media-technology-conference/)
-- [Financing the AI Buildout](https://www.brookings.edu/articles/financing-the-ai-buildout/)
-- [Snapdragon Sound Elite Gen 2](https://www.qualcomm.com/audio/products/snapdragon-sound-elite-gen-2)
-- [A laser just photographed objects through six feet of concrete](https://newatlas.com/technology/pics-muon-laser-reveal-unseeable/)
-- [SB&amp;R – Chained Referral Campaign for Online Brands](https://apps.shopify.com/sb-r)
-- [RAM supply set to worsen, says Micron, as CEO celebrates &#39;much higher&#39; prices](https://www.theregister.com/systems/2026/10/01/ram-supply-set-to-worsen-says-micron-as-ceo-celebrates-much-higher-prices/5300346)
-- [Learning Steganography Is Easy, Learning Steganographic Reasoning Is Hard](https://arxiv.org/abs/2609.39838)
-- [Clausewitz on Operation Epic Fury](https://www.justsecurity.org/147675/clausewitz-operation-epic-fury/)
-- [The Cost of Vibe-Coding Games [video]](https://www.youtube.com/watch?v=5cbonpAgR5A)
-- [In Search of Northanger Abbey: Farleigh Hungerford Castle](https://englishhistoryauthors.blogspot.com/2026/08/in-search-of-northanger-abbey-farleigh.html)
+- [Tent Shamiyana Booking PHP Script – Complete Bartan and Event Booking System](https://news.ycombinator.com/item?id=49930929)
+- [Data-Driven Games](https://easel.games/blog/2026-oct-update)
+- [Siemens Slams the Door Shut on Promising Open-Source Radioss Project](https://www.phoronix.com/news/Siemens-Ends-OpenRadioss)
+- [Experimental Evidence on the Learning Impact of Generative AI](https://arxiv.org/abs/2607.08849)
+- [The Philadelphia Inquirer built Scrape, an AI tool to surface hyperlocal news](https://www.lenfestinstitute.org/solutions-resources/philadelphia-inquirer-scrape-ai-hyperlocal-news/)
+- [Science or Slop?](https://yerimoh.github.io/scientific-slop-demo/)
+- [Implementing Undo](https://www.youtube.com/watch?v=S6PqsZ65Mg4)
+- [Mermaid Infrastructure Diagrams in 3D](https://arcentry.com/blog/isometric-mermaid-diagrams-with-arcentry/)
+- [PipeWire Is Awesome](https://denilson.sa.nom.br/blog/2023-11-06/pipewire-is-awesome)
+- [AI is the new React for recruiters](https://lucaskostka.com/posts/ai-is-the-new-react)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

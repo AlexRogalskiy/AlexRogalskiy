@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Omnissa delivers a peek into the benefits of breaking through enterprise data silos](https://www.computerworld.com/article/4229789/omnissa-delivers-a-peek-into-the-benefits-of-breaking-through-enterprise-data-silos.html)
+- [Memory squeeze set to tighten through 2028, Micron says](https://www.computerworld.com/article/4229635/memory-squeeze-set-to-tighten-through-2028-micron-says-3.html)
+- [ServiceNow launches standalone AI service desk to provide support in Teams, Slack, and email](https://www.computerworld.com/article/4229579/servicenow-launches-standalone-ai-service-desk-to-provide-support-in-teams-slack-and-email-2.html)
+- [Will ‘move fast, ship quicker’ kill the Apple brand?](https://www.computerworld.com/article/4229674/will-move-fast-ship-quicker-kill-the-apple-brand.html)
 - [OpenAI takes on Microsoft and Google with office productivity push](https://www.computerworld.com/article/4229031/openai-takes-on-microsoft-and-google-with-office-productivity-push.html)
 - [Trump’s answer to AI’s image problem: Industry self-regulation and a new name](https://www.computerworld.com/article/4228950/trumps-answer-to-ais-image-problem-industry-self-regulation-and-a-new-name-2.html)
 - [Apple issues urgent iOS patch as it navigates the spyware arms race](https://www.computerworld.com/article/4228858/apple-issues-urgent-ios-patch-as-it-navigates-the-spyware-arms-race.html)
 - [Your guide to Google Messages’ new hidden gestures](https://www.computerworld.com/article/4227776/google-messages-gestures.html)
 - [Meta’s next big AI bet is enterprise; its biggest hurdle may be trust](https://www.computerworld.com/article/4228531/metas-next-big-ai-bet-is-enterprise-its-biggest-hurdle-may-be-trust-3.html)
 - [Anthropic’s lack of revenue diversification gives IT buyers negotiating power — and risk](https://www.computerworld.com/article/4228501/anthropic-revelations-suggest-a-much-stronger-ai-negotiating-stance-for-enterprise-cios-2.html)
-- [Meta’s ex launches agent rival to Meta’s Muse](https://www.computerworld.com/article/4228305/metas-ex-launches-agent-rival-to-metas-muse-2.html)
-- [Apple wasn’t late to AI, it was the adult in the room](https://www.computerworld.com/article/4228290/apple-wasnt-late-to-ai-it-was-the-adult-in-the-room.html)
-- [Is Microsoft truly serious about confronting AI’s dangers?](https://www.computerworld.com/article/4227873/is-microsoft-truly-serious-about-confronting-ais-dangers.html)
-- [Stop using ‘tech debt’ to refer to anything old](https://www.computerworld.com/article/4227193/stop-using-tech-debt-to-refer-to-anything-old.html)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

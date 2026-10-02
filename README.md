@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [UK 30-year borrowing costs hit 6%, highest since 1998, as government bond sell-off intensifies – business live](https://www.theguardian.com/business/live/2026/oct/01/uk-house-prices-september-mortgage-rates-bonds-stock-markets-manufacturing-latest-news-updates)
-- [Badenoch proposes welfare reform that would stop many jobless under-25s getting universal credit – UK politics live](https://www.theguardian.com/politics/live/2026/oct/01/universal-credit-benefits-welfare-conservatives-kemi-badenoch-andy-burnham-labour-latest-news-updates)
-- [Russia continues strikes on Ukraine as Zelenskyy visits frontline – Europe live](https://www.theguardian.com/world/live/2026/oct/01/europe-latest-news-updates-russia-strikes-ukraine-nato)
-- [RSC embraces ‘hugely challenging’ task of staging Susanna Clarke’s Piranesi and Virginia Woolf’s Mrs Dalloway](https://www.theguardian.com/stage/2026/oct/01/rsc-new-season-mrs-dalloway-piranesi)
-- [East of Eden review – Florence Pugh’s soapy Steinbeck adaptation is brilliant, compelling TV](https://www.theguardian.com/tv-and-radio/2026/oct/01/east-of-eden-review-florence-pugh-john-steinbeck)
-- [War, power games and impunity. I watched the farce that is the UN general assembly: what a tragedy, what a mess | Nesrine Malik](https://www.theguardian.com/commentisfree/2026/oct/01/war-power-games-impunity-un-general-assembly-ukraine-iran-palestine-sudan)
-- [You be the judge: should my girlfriend let me hang my football calendar in her flat?](https://www.theguardian.com/lifeandstyle/2026/oct/01/you-be-the-judge-should-my-girlfriend-let-me-put-up-my-football-calendar-in-her-flat)
-- [Rugby union power rankings: how the teams stand a year from World Cup](https://www.theguardian.com/sport/2026/oct/01/rugby-union-power-rankings-world-cup-2027)
-- [South Park has ​​AI datacentres​, sentient penises ​and a billionaire problem – in more ways than one](https://www.theguardian.com/tv-and-radio/2026/oct/01/south-park-has-ai-datacentres-sentient-penises-and-a-billionaire-problem-in-more-ways-than-one)
-- [Charity threatens legal action over two-year NHS wait for ADHD and autism assessments](https://www.theguardian.com/society/2026/oct/01/adhd-uk-two-year-wait-nhs-autism-west-yorkshire-icb-legal-action)
+- [Manchester City face appeal deadline, Nations League news and more: football – live](https://www.theguardian.com/football/live/2026/oct/02/manchester-city-appeal-deadline-nations-league-news-and-more-football-live)
+- [Global bond market steadies after French sell-off revives memories of the euro crisis – business live](https://www.theguardian.com/business/live/2026/oct/02/french-bond-sell-off-euro-crisis-cuts-tax-rises-eurozone-inflation-us-jobs-report-latest-news-updates)
+- [Greg Freeman: All Set the Bone review – ambitious alt-country double album spreads its talents a touch thin](https://www.theguardian.com/music/2026/oct/02/greg-freeman-all-set-the-bone-review-ambitious-alt-country-double-album-spreads-its-talents-a-touch-thin)
+- [The Filter Q&amp;A: ask the Guardian’s fashion stylist anything](https://www.theguardian.com/thefilter/live/2026/oct/02/the-filter-qa-ask-the-guardians-fashion-stylist-anything)
+- [Uzbekistan dominates chess Olympiad while England’s Sivanandan, 11, sets new world age record](https://www.theguardian.com/sport/2026/oct/02/uzbekistan-dominates-chess-olympiad-bodhana-sivanandan-sets-new-world-age-record)
+- [Kill Jackie review – Catherine Zeta-Jones’ assassin thriller is like Killing Eve … minus good characters or plot](https://www.theguardian.com/tv-and-radio/2026/oct/02/kill-jackie-review-catherine-zeta-jones-assassin-thriller-prime-video)
+- [‘I look at the footage to convince myself that you were alive’: how Ross McElwee made a film about unimaginable loss, grief and guilt](https://www.theguardian.com/film/2026/oct/02/ross-mcelwee-adrian-remake-devastating-new-documentary)
+- [The week in wildlife: a rescued orangutan, the chonkiest bear and a barn owl’s triumph](https://www.theguardian.com/environment/gallery/2026/oct/02/the-week-in-wildlife-a-rescued-orangutan-the-chonkiest-bear-and-a-barn-owls-triumph)
+- [Why boxing is still a box office smash hit even as the sport’s popularity wanes | Emma John](https://www.theguardian.com/sport/2026/oct/02/why-boxing-is-still-a-box-office-smash-hit-even-as-the-sports-popularity-wanes)
+- [Murder Before Evensong review – the Rev Richard Coles’s village mystery squeezes into cosy theatre](https://www.theguardian.com/stage/2026/oct/02/before-evensong-review-watermill-theatre)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

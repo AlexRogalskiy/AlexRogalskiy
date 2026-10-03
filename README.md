@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Trump’s Super Intelligence edict supercharges .si domain registrations](https://www.computerworld.com/article/4230104/trumps-super-intelligence-edict-supercharges-si-domain-registrations.html)
+- [How Meta stumbled onto a winning AI strategy](https://www.computerworld.com/article/4228463/how-meta-stumbled-onto-a-winning-ai-strategy.html)
+- [Facing the music: Apple, Samsung, and memory cost inflation](https://www.computerworld.com/article/4230148/facing-the-music-apple-samsung-and-memory-cost-inflation.html)
+- [US FTC will investigate Anthropic and OpenAI](https://www.computerworld.com/article/4230047/us-ftc-will-investigate-anthropic-and-openai.html)
+- [AI could boost software engineer productivity by 32.6%](https://www.computerworld.com/article/4228857/ai-could-boost-software-engineer-productivity-by-32-6-3.html)
+- [Microsoft adds support for Linux containers in WSL](https://www.computerworld.com/article/4230208/microsoft-adds-support-for-linux-containers-in-wsl.html)
 - [Omnissa delivers a peek into the benefits of breaking through enterprise data silos](https://www.computerworld.com/article/4229789/omnissa-delivers-a-peek-into-the-benefits-of-breaking-through-enterprise-data-silos.html)
 - [Memory squeeze set to tighten through 2028, Micron says](https://www.computerworld.com/article/4229635/memory-squeeze-set-to-tighten-through-2028-micron-says-3.html)
 - [ServiceNow launches standalone AI service desk to provide support in Teams, Slack, and email](https://www.computerworld.com/article/4229579/servicenow-launches-standalone-ai-service-desk-to-provide-support-in-teams-slack-and-email-2.html)
 - [Will ‘move fast, ship quicker’ kill the Apple brand?](https://www.computerworld.com/article/4229674/will-move-fast-ship-quicker-kill-the-apple-brand.html)
-- [OpenAI takes on Microsoft and Google with office productivity push](https://www.computerworld.com/article/4229031/openai-takes-on-microsoft-and-google-with-office-productivity-push.html)
-- [Trump’s answer to AI’s image problem: Industry self-regulation and a new name](https://www.computerworld.com/article/4228950/trumps-answer-to-ais-image-problem-industry-self-regulation-and-a-new-name-2.html)
-- [Apple issues urgent iOS patch as it navigates the spyware arms race](https://www.computerworld.com/article/4228858/apple-issues-urgent-ios-patch-as-it-navigates-the-spyware-arms-race.html)
-- [Your guide to Google Messages’ new hidden gestures](https://www.computerworld.com/article/4227776/google-messages-gestures.html)
-- [Meta’s next big AI bet is enterprise; its biggest hurdle may be trust](https://www.computerworld.com/article/4228531/metas-next-big-ai-bet-is-enterprise-its-biggest-hurdle-may-be-trust-3.html)
-- [Anthropic’s lack of revenue diversification gives IT buyers negotiating power — and risk](https://www.computerworld.com/article/4228501/anthropic-revelations-suggest-a-much-stronger-ai-negotiating-stance-for-enterprise-cios-2.html)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

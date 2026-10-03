@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Manchester City face appeal deadline, Nations League news and more: football – live](https://www.theguardian.com/football/live/2026/oct/02/manchester-city-appeal-deadline-nations-league-news-and-more-football-live)
-- [Global bond market steadies after French sell-off revives memories of the euro crisis – business live](https://www.theguardian.com/business/live/2026/oct/02/french-bond-sell-off-euro-crisis-cuts-tax-rises-eurozone-inflation-us-jobs-report-latest-news-updates)
-- [Greg Freeman: All Set the Bone review – ambitious alt-country double album spreads its talents a touch thin](https://www.theguardian.com/music/2026/oct/02/greg-freeman-all-set-the-bone-review-ambitious-alt-country-double-album-spreads-its-talents-a-touch-thin)
-- [The Filter Q&amp;A: ask the Guardian’s fashion stylist anything](https://www.theguardian.com/thefilter/live/2026/oct/02/the-filter-qa-ask-the-guardians-fashion-stylist-anything)
-- [Uzbekistan dominates chess Olympiad while England’s Sivanandan, 11, sets new world age record](https://www.theguardian.com/sport/2026/oct/02/uzbekistan-dominates-chess-olympiad-bodhana-sivanandan-sets-new-world-age-record)
-- [Kill Jackie review – Catherine Zeta-Jones’ assassin thriller is like Killing Eve … minus good characters or plot](https://www.theguardian.com/tv-and-radio/2026/oct/02/kill-jackie-review-catherine-zeta-jones-assassin-thriller-prime-video)
-- [‘I look at the footage to convince myself that you were alive’: how Ross McElwee made a film about unimaginable loss, grief and guilt](https://www.theguardian.com/film/2026/oct/02/ross-mcelwee-adrian-remake-devastating-new-documentary)
-- [The week in wildlife: a rescued orangutan, the chonkiest bear and a barn owl’s triumph](https://www.theguardian.com/environment/gallery/2026/oct/02/the-week-in-wildlife-a-rescued-orangutan-the-chonkiest-bear-and-a-barn-owls-triumph)
-- [Why boxing is still a box office smash hit even as the sport’s popularity wanes | Emma John](https://www.theguardian.com/sport/2026/oct/02/why-boxing-is-still-a-box-office-smash-hit-even-as-the-sports-popularity-wanes)
-- [Murder Before Evensong review – the Rev Richard Coles’s village mystery squeezes into cosy theatre](https://www.theguardian.com/stage/2026/oct/02/before-evensong-review-watermill-theatre)
+- [England and Scotland back in Nations League action; Manchester City latest – matchday live](https://www.theguardian.com/football/live/2026/oct/03/england-scotland-nations-league-action-manchester-city-latest-matchday-live)
+- [Formula One 2026: Bahrain Grand Prix in Malaysia qualifying – live](https://www.theguardian.com/sport/live/2026/oct/03/formula-one-2026-bahrain-grand-prix-in-malaysia-qualifying-live)
+- [Flydubai co-pilot used crash axe to attack captain, says UAE](https://www.theguardian.com/world/2026/oct/03/flydubai-co-pilot-used-crash-axe-to-attack-captain-says-uae)
+- [Prix de l’Arc de Triomphe 2026: horse-by-horse guide to all the runners](https://www.theguardian.com/sport/2026/oct/03/prix-de-larc-de-triomphe-2026-horse-by-horse-guide-to-all-the-runners)
+- [Thrown in with Giggs and Beckham: how Manchester United tried to get Billy Kenny](https://www.theguardian.com/football/2026/oct/03/billy-kenny-ryan-giggs-david-beckham-manchester-united-autobiography)
+- [The expansion of Heathrow would be an expensive disaster for Britain and the world. Burnham needs to block it | George Monbiot](https://www.theguardian.com/commentisfree/2026/oct/03/heathrow-third-runway-climate-warnings-economic-reality)
+- [BT accused of ‘bullying’ customers by pausing broadband in digital landline push](https://www.theguardian.com/business/2026/oct/03/bt-customers-broadband-digital-landline-switch-internet)
+- [The football horse that Andy Burnham rode in on is now bucking his vibe | Barney Ronay](https://www.theguardian.com/football/2026/oct/03/manchester-city-verdict-andy-burnham)
+- [Brazil’s neck-and-neck election offers test for growing pro-Trump Latin American bloc](https://www.theguardian.com/world/2026/oct/03/brazil-election-lula-bolsonaro-trump)
+- [&#39;There’s no such thing as democracy&#39; – Yanis Varoufakis | Radical Thinking with Aditya Chakrabortty](https://www.theguardian.com/politics/video/2026/oct/03/theres-no-such-thing-as-democracy-yanis-varoufakis-radical-thinking-with-aditya-chakrabortty)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

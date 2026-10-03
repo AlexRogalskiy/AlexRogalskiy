@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [US tells France and Germany to release diesel stocks or face US export ban](https://www.reuters.com/business/energy/us-tells-france-germany-release-diesel-stocks-or-face-us-export-ban-sources-say-2026-10-01/)
-- [Shimano Bicycle Museum Review](https://inrng.com/2026/10/shimano-bicycle-museum/)
-- [Building reliable &lpar;and fast&rpar; directory sync](https://www.firezone.dev/blog/building-reliable-directory-sync)
-- [DeepSeek Harness Desktop for macOS and Windows](https://www.deepseek.com/en/harness/)
-- [How Singapore&#39;s government-run dating service works](https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works)
-- [Butterflies use optical illusions to dodge predators](https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators)
-- [Several vulnerabilities have been discovered in the Linux kernel](https://lwn.net/Articles/1097401/)
-- [Frog and Toad and the Increasingly Capable Machines](https://www.frogandtoad.ai/)
-- [CSS Bed: Classless CSS themes to use as starting points in web development](https://www.cssbed.com)
-- [Using Opus 5.5 to discover a new eyewitness record of the dodo](https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness)
+- [An Update on Orion for Linux and Windows](https://blog.kagi.com/update-orion-linux-windows)
+- [Extra Big Ass Intelligence](https://www.extrabigassintelligence.com/)
+- [Cloudflare OHTTP gateway](https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/)
+- [Newgrounds.com – A community of games, music, and art](https://www.newgrounds.com/)
+- [Where Is the Planet](http://whereistheplanet.com)
+- [Things that apparently cause cancer](https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer)
+- [Barcodes are about to go extinct](https://thehustle.co/originals/why-barcodes-are-about-to-go-extinct)
+- [Show HN: Made an open-source Lego AI generator](https://github.com/anteloc/ldraw-nova)
+- [Updates to Full Disk Access in macOS](https://developer.apple.com/news/?id=p6zjojqw)
+- [Make Tmux the OS](https://matduggan.com/what-does-my-dream-os-ui-look-like/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

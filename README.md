@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Tent Shamiyana Booking PHP Script – Complete Bartan and Event Booking System](https://news.ycombinator.com/item?id=49930929)
-- [Data-Driven Games](https://easel.games/blog/2026-oct-update)
-- [Siemens Slams the Door Shut on Promising Open-Source Radioss Project](https://www.phoronix.com/news/Siemens-Ends-OpenRadioss)
-- [Experimental Evidence on the Learning Impact of Generative AI](https://arxiv.org/abs/2607.08849)
-- [The Philadelphia Inquirer built Scrape, an AI tool to surface hyperlocal news](https://www.lenfestinstitute.org/solutions-resources/philadelphia-inquirer-scrape-ai-hyperlocal-news/)
-- [Science or Slop?](https://yerimoh.github.io/scientific-slop-demo/)
-- [Implementing Undo](https://www.youtube.com/watch?v=S6PqsZ65Mg4)
-- [Mermaid Infrastructure Diagrams in 3D](https://arcentry.com/blog/isometric-mermaid-diagrams-with-arcentry/)
-- [PipeWire Is Awesome](https://denilson.sa.nom.br/blog/2023-11-06/pipewire-is-awesome)
-- [AI is the new React for recruiters](https://lucaskostka.com/posts/ai-is-the-new-react)
+- [Whistle: Speech to Text in 16.9 MB](https://cactuscompute.com/blog/whistle)
+- [New in Llama.cpp: Decision Models](https://huggingface.co/blog/ggml-org/decision-models-in-llamacpp)
+- [AI Effect](https://en.wikipedia.org/wiki/AI_effect)
+- [Apple changes full-disk access permissions to curb abuse from AI agents](https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/)
+- [Show HN: I turned 27 classic behavioral experiments into a browser game](https://twentyfun.com/games/mind-lab)
+- [Mark Zuckerberg Profile](https://colossus.com/article/mark-zuckerberg-profile/)
+- [French supercomputer maker Bull doubles output to boost Europe&#39;s AI ambitions](https://www.reuters.com/world/europe/french-supercomputer-maker-bull-doubles-output-boost-europes-ai-ambitions-2026-10-01/)
+- [Ideabrowser meets dark mirror – mobile apps you can build today that are WTF](https://trix.wtf/ideas/)
+- [Co-pilot on Flydubai flight was banned from flying by Oman for extremist views](https://www.france24.com/en/middle-east/20261003-co-pilot-on-flydubai-flight-was-banned-from-flying-by-oman-for-holding-extremist-views)
+- [Understanding Frontier Artificial Intelligence](https://casp.ac/reports/intelligence-explosion)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

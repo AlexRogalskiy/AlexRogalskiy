@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [An Update on Orion for Linux and Windows](https://blog.kagi.com/update-orion-linux-windows)
-- [Extra Big Ass Intelligence](https://www.extrabigassintelligence.com/)
-- [Cloudflare OHTTP gateway](https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/)
-- [Newgrounds.com – A community of games, music, and art](https://www.newgrounds.com/)
-- [Where Is the Planet](http://whereistheplanet.com)
-- [Things that apparently cause cancer](https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer)
-- [Barcodes are about to go extinct](https://thehustle.co/originals/why-barcodes-are-about-to-go-extinct)
-- [Show HN: Made an open-source Lego AI generator](https://github.com/anteloc/ldraw-nova)
-- [Updates to Full Disk Access in macOS](https://developer.apple.com/news/?id=p6zjojqw)
-- [Make Tmux the OS](https://matduggan.com/what-does-my-dream-os-ui-look-like/)
+- [Why don&#39;t more developers &quot;use the platform&quot;?](https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/)
+- [We&#39;re working on a new RuneScape MMO](https://play.runescape.com/4)
+- [Tell HN: Bob Cringely has died](https://news.ycombinator.com/item?id=49949438)
+- [We&#39;re going to need default hard budget caps on pretty much everything](https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/)
+- [Reasons I didn&#39;t become an EMT, ranked](https://ben.stolovitz.com/posts/reasons-not-emt-ranked/)
+- [Surely you have ultra-wideband radios on your bins too?](https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/)
+- [The work by Valve&#39;s Timur Kristóf on improving old AMD GPUs on Linux](https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU)
+- [RSS Feed Best Practices &lpar;2022&rpar;](https://kevincox.ca/2022/05/06/rss-feed-best-practices/)
+- [How to hack time, with C2PA](https://www.da.vidbuchanan.co.uk/blog/hacking-time.html)
+- [Hole Punch: Sling your spaceship around gravitational fields](https://notoriousbfg.com/hole-punch/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Whistle: Speech to Text in 16.9 MB](https://cactuscompute.com/blog/whistle)
-- [New in Llama.cpp: Decision Models](https://huggingface.co/blog/ggml-org/decision-models-in-llamacpp)
-- [AI Effect](https://en.wikipedia.org/wiki/AI_effect)
-- [Apple changes full-disk access permissions to curb abuse from AI agents](https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/)
-- [Show HN: I turned 27 classic behavioral experiments into a browser game](https://twentyfun.com/games/mind-lab)
-- [Mark Zuckerberg Profile](https://colossus.com/article/mark-zuckerberg-profile/)
-- [French supercomputer maker Bull doubles output to boost Europe&#39;s AI ambitions](https://www.reuters.com/world/europe/french-supercomputer-maker-bull-doubles-output-boost-europes-ai-ambitions-2026-10-01/)
-- [Ideabrowser meets dark mirror – mobile apps you can build today that are WTF](https://trix.wtf/ideas/)
-- [Co-pilot on Flydubai flight was banned from flying by Oman for extremist views](https://www.france24.com/en/middle-east/20261003-co-pilot-on-flydubai-flight-was-banned-from-flying-by-oman-for-holding-extremist-views)
-- [Understanding Frontier Artificial Intelligence](https://casp.ac/reports/intelligence-explosion)
+- [What happens when an AI model is put in a &quot;pain&quot; state? ResearchChamber.fun](https://researchchamber.fun/)
+- [Software Changeling](https://haironthecircuits.net/brain/software%20changeling.html)
+- [Canada, EU plan to link next-gen payment systems](https://www.theglobeandmail.com/politics/article-canada-eu-link-payment-systems-joint-statement-says/)
+- [What Is the Demoscene?](https://onthearts.com/p/what-is-the-demoscene)
+- [From SSH to REST: A Security-Driven Modernization of Slack&#39;s EMR Data Pipelines](https://slack.engineering/from-ssh-to-rest-a-security-driven-modernization-of-slacks-emr-data-pipelines/)
+- [What Does the Fourth Dimension Look Like?](https://www.quantamagazine.org/what-does-the-fourth-dimension-actually-look-like-20261001/)
+- [Smaller, distributed batteries could help the grid](https://www.technologyreview.com/2026/10/01/1145435/distributed-batteries/)
+- [PhotoSuite Is an Open Source Photoshop-Like Editor with Native PSD Support](https://linuxiac.com/photosuite-is-a-free-photoshop-like-editor-with-native-psd-support/)
+- [Hob](https://hob.dev)
+- [Year Million: Science at the Far Edge of Knowledge](https://en.wikipedia.org/wiki/Year_Million)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

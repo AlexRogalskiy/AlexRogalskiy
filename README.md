@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [England and Scotland back in Nations League action; Manchester City latest – matchday live](https://www.theguardian.com/football/live/2026/oct/03/england-scotland-nations-league-action-manchester-city-latest-matchday-live)
-- [Formula One 2026: Bahrain Grand Prix in Malaysia qualifying – live](https://www.theguardian.com/sport/live/2026/oct/03/formula-one-2026-bahrain-grand-prix-in-malaysia-qualifying-live)
-- [Flydubai co-pilot used crash axe to attack captain, says UAE](https://www.theguardian.com/world/2026/oct/03/flydubai-co-pilot-used-crash-axe-to-attack-captain-says-uae)
-- [Prix de l’Arc de Triomphe 2026: horse-by-horse guide to all the runners](https://www.theguardian.com/sport/2026/oct/03/prix-de-larc-de-triomphe-2026-horse-by-horse-guide-to-all-the-runners)
-- [Thrown in with Giggs and Beckham: how Manchester United tried to get Billy Kenny](https://www.theguardian.com/football/2026/oct/03/billy-kenny-ryan-giggs-david-beckham-manchester-united-autobiography)
-- [The expansion of Heathrow would be an expensive disaster for Britain and the world. Burnham needs to block it | George Monbiot](https://www.theguardian.com/commentisfree/2026/oct/03/heathrow-third-runway-climate-warnings-economic-reality)
-- [BT accused of ‘bullying’ customers by pausing broadband in digital landline push](https://www.theguardian.com/business/2026/oct/03/bt-customers-broadband-digital-landline-switch-internet)
-- [The football horse that Andy Burnham rode in on is now bucking his vibe | Barney Ronay](https://www.theguardian.com/football/2026/oct/03/manchester-city-verdict-andy-burnham)
-- [Brazil’s neck-and-neck election offers test for growing pro-Trump Latin American bloc](https://www.theguardian.com/world/2026/oct/03/brazil-election-lula-bolsonaro-trump)
-- [&#39;There’s no such thing as democracy&#39; – Yanis Varoufakis | Radical Thinking with Aditya Chakrabortty](https://www.theguardian.com/politics/video/2026/oct/03/theres-no-such-thing-as-democracy-yanis-varoufakis-radical-thinking-with-aditya-chakrabortty)
+- [England on a high after historic Croatia rout; Republic of Ireland v Israel and WSL buildup – matchday live](https://www.theguardian.com/football/live/2026/oct/04/buildup-to-republic-of-ireland-v-israel-wales-v-denmark-and-more-football-live)
+- [Bahrain Grand Prix in Malaysia delayed after heavy rain: Formula One 2026 – live](https://www.theguardian.com/sport/live/2026/oct/04/bahrain-grand-prix-formula-one-2026-live)
+- [Wakaliga Uganda review – a blistering superhero movie with hardboiled cops and a nefarious ‘girl with a voluminous bum’](https://www.theguardian.com/artanddesign/2026/oct/04/wakaliga-uganda-review-chisenhale-gallery-kibuuka-omumbaale)
+- [Revealed: Government quietly dropped plan to prepare England for wildfires](https://www.theguardian.com/world/2026/oct/04/government-dropped-plan-england-countryside-wildfires)
+- [Ninety years on, the lessons of the antifascist battle of Cable Street have never felt more relevant | Sarah Sackman](https://www.theguardian.com/commentisfree/2026/oct/04/ninety-years-antifascist-battle-cable-street-divide-fight-security)
+- [‘People complain about anything popular’: the RHS boss taking on traffic jams and Chelsea critics](https://www.theguardian.com/lifeandstyle/2026/oct/04/rhs-boss-wisley-traffic-compensation-chelsea-flower-show)
+- [Party conference will be more upbeat than last year, Tories say – but that’s not the whole story](https://www.theguardian.com/politics/2026/oct/04/conservative-party-conference-more-upbeat-last-year-tories-kemi-badenoch)
+- [‘They call every week’: the phishing attacks targeting past victims](https://www.theguardian.com/money/2026/oct/04/repeat-phishing-attacks-target-past-scam-victims)
+- [Alone with the stars, lynx and wolves in ‘Empty Spain’](https://www.theguardian.com/travel/2026/oct/04/empty-spain-extremadura-castile-and-leon-wildlife-holiday)
+- [Ministers explore how to stop regional leaders misusing planned new spending powers](https://www.theguardian.com/politics/2026/oct/04/ministers-regional-leaders-spending-powers-devolution)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [England on a high after historic Croatia rout; Republic of Ireland v Israel and WSL buildup – matchday live](https://www.theguardian.com/football/live/2026/oct/04/buildup-to-republic-of-ireland-v-israel-wales-v-denmark-and-more-football-live)
-- [Bahrain Grand Prix in Malaysia delayed after heavy rain: Formula One 2026 – live](https://www.theguardian.com/sport/live/2026/oct/04/bahrain-grand-prix-formula-one-2026-live)
-- [Wakaliga Uganda review – a blistering superhero movie with hardboiled cops and a nefarious ‘girl with a voluminous bum’](https://www.theguardian.com/artanddesign/2026/oct/04/wakaliga-uganda-review-chisenhale-gallery-kibuuka-omumbaale)
-- [Revealed: Government quietly dropped plan to prepare England for wildfires](https://www.theguardian.com/world/2026/oct/04/government-dropped-plan-england-countryside-wildfires)
-- [Ninety years on, the lessons of the antifascist battle of Cable Street have never felt more relevant | Sarah Sackman](https://www.theguardian.com/commentisfree/2026/oct/04/ninety-years-antifascist-battle-cable-street-divide-fight-security)
-- [‘People complain about anything popular’: the RHS boss taking on traffic jams and Chelsea critics](https://www.theguardian.com/lifeandstyle/2026/oct/04/rhs-boss-wisley-traffic-compensation-chelsea-flower-show)
-- [Party conference will be more upbeat than last year, Tories say – but that’s not the whole story](https://www.theguardian.com/politics/2026/oct/04/conservative-party-conference-more-upbeat-last-year-tories-kemi-badenoch)
-- [‘They call every week’: the phishing attacks targeting past victims](https://www.theguardian.com/money/2026/oct/04/repeat-phishing-attacks-target-past-scam-victims)
-- [Alone with the stars, lynx and wolves in ‘Empty Spain’](https://www.theguardian.com/travel/2026/oct/04/empty-spain-extremadura-castile-and-leon-wildlife-holiday)
-- [Ministers explore how to stop regional leaders misusing planned new spending powers](https://www.theguardian.com/politics/2026/oct/04/ministers-regional-leaders-spending-powers-devolution)
+- [Spain’s Sánchez calls snap election amid national housing crisis – Europe live](https://www.theguardian.com/world/live/2026/oct/05/europe-spain-pedro-sanchez-election-housing-france-school-protests-ukraine-russia-latest-news-updates)
+- [Karl review – straightforward tribute tells inside story of fashion world’s great eccentric Karl Lagerfeld](https://www.theguardian.com/film/2026/oct/05/karl-review-straightforward-tribute-tells-inside-story-of-fashion-worlds-great-eccentric-karl-lagerfeld)
+- [The Housekeeper by Rose Tremain review – a bloodless origin story for Du Maurier’s Rebecca](https://www.theguardian.com/books/2026/oct/05/the-housekeeper-by-rose-tremain-review-a-bloodless-origin-story-for-du-mauriers-rebecca)
+- [BT to buy broadband supplier TalkTalk, saving 900 jobs](https://www.theguardian.com/business/2026/oct/05/bt-buy-broadband-supplier-talktalk-jobs)
+- [Head of Jewish Greens says she may leave party over ‘Zionism is racism’ vote](https://www.theguardian.com/politics/2026/oct/05/head-of-jewish-greens-says-she-may-leave-party-over-zionism-is-racism-vote)
+- [Andrew Mountbatten-Windsor launches legal action against police over Epstein raids](https://www.theguardian.com/uk-news/2026/oct/05/andrew-mountbatten-windsor-court-action-police-epstein-raids)
+- [Anti-migrant protesters scuffle with police in Gosport after Channel rescue](https://www.theguardian.com/uk-news/2026/oct/05/anti-migrant-protesters-scuffle-police-gosport-channel-rescue)
+- [Play that funky Turbine Hall! How artist Tarek Atoui aims to take the Tate on a sonic odyssey](https://www.theguardian.com/artanddesign/2026/oct/05/tarek-atoui-tate-turbine-hall-sound-art)
+- [ICC delays plans for World Club Championship after ‘Big Three’ object](https://www.theguardian.com/sport/2026/oct/05/icc-delays-plans-for-world-club-championship-after-big-three-object)
+- [Czechia’s Santi Denia: ‘Anthony Gordon? What a player! He’s at the same level as Lamine Yamal’](https://www.theguardian.com/football/2026/oct/05/santi-denia-anthony-gordon-lamine-yamal-england-czechia)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

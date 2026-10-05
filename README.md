@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [What happens when an AI model is put in a &quot;pain&quot; state? ResearchChamber.fun](https://researchchamber.fun/)
-- [Software Changeling](https://haironthecircuits.net/brain/software%20changeling.html)
-- [Canada, EU plan to link next-gen payment systems](https://www.theglobeandmail.com/politics/article-canada-eu-link-payment-systems-joint-statement-says/)
-- [What Is the Demoscene?](https://onthearts.com/p/what-is-the-demoscene)
-- [From SSH to REST: A Security-Driven Modernization of Slack&#39;s EMR Data Pipelines](https://slack.engineering/from-ssh-to-rest-a-security-driven-modernization-of-slacks-emr-data-pipelines/)
-- [What Does the Fourth Dimension Look Like?](https://www.quantamagazine.org/what-does-the-fourth-dimension-actually-look-like-20261001/)
-- [Smaller, distributed batteries could help the grid](https://www.technologyreview.com/2026/10/01/1145435/distributed-batteries/)
-- [PhotoSuite Is an Open Source Photoshop-Like Editor with Native PSD Support](https://linuxiac.com/photosuite-is-a-free-photoshop-like-editor-with-native-psd-support/)
-- [Hob](https://hob.dev)
-- [Year Million: Science at the Far Edge of Knowledge](https://en.wikipedia.org/wiki/Year_Million)
+- [Show HN: Gutsy, subsecond decision model inference on CPU &lpar;Jev Style&rpar;, no API](https://github.com/kouhxp/gutsy)
+- [Ephemeral Testing](https://lemire.me/blog/2026/10/05/ephemeral-testing/)
+- [Becoming a Photographer](https://stanko.io/becoming-a-photographer-tIKMwUVuHnHG)
+- [GrandNode – open-source e-commerce platform on .NET 10 and MongoDB](https://github.com/grandnode/grandnode2)
+- [Sales of sub-€25,000 electric car models set to rise sevenfold](https://www.transportenvironment.org/articles/wave-of-affordable-electric-cars-is-boosting-consumers-choice-sales-of-sub-eur25-000-models-set-to-rise-sevenfold)
+- [Where Everyone Agrees, and That&#39;s the Problem](https://medium.com/@gurvinder372/article-28-where-everyone-agrees-and-thats-the-problem-ae0c105e077b)
+- [Huawei and Qualcomm Announce Broad Patent License Agreement](https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement)
+- [Own Your Slop – A Markdown reader that confirms you read it, properly](https://ownyourslop.com/)
+- [Show HN: I built a 3D globe of upcoming AI conferences](https://aieventsworld.com/en/)
+- [OpenInstinct Eve Agent](https://vercel.com/templates/eve/openinstinct-eve-agent)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

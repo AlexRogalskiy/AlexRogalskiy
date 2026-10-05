@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Why don&#39;t more developers &quot;use the platform&quot;?](https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/)
-- [We&#39;re working on a new RuneScape MMO](https://play.runescape.com/4)
-- [Tell HN: Bob Cringely has died](https://news.ycombinator.com/item?id=49949438)
-- [We&#39;re going to need default hard budget caps on pretty much everything](https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/)
-- [Reasons I didn&#39;t become an EMT, ranked](https://ben.stolovitz.com/posts/reasons-not-emt-ranked/)
-- [Surely you have ultra-wideband radios on your bins too?](https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/)
-- [The work by Valve&#39;s Timur Kristóf on improving old AMD GPUs on Linux](https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU)
-- [RSS Feed Best Practices &lpar;2022&rpar;](https://kevincox.ca/2022/05/06/rss-feed-best-practices/)
-- [How to hack time, with C2PA](https://www.da.vidbuchanan.co.uk/blog/hacking-time.html)
-- [Hole Punch: Sling your spaceship around gravitational fields](https://notoriousbfg.com/hole-punch/)
+- [Replacement of petroleum based products with plant-based materials &lpar;2025&rpar;](https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108)
+- [Nearly 200 people under observation after Irkutsk lab worker dies from plague](https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857)
+- [Powerless F1 drivers frustrated by Bahrain F1 software glitch](https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/)
+- [A 40ms Go garbage collector pause caused by swap](https://frn.sh/go-gc/)
+- [Self-hosted HTTP tunnels with SSH and Nginx](https://vincent.bernat.ch/en/blog/2026-http-over-ssh)
+- [In the wake of Tippett Studios’ closure, a digital archive appears online](https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/)
+- [Turn off Apple Intelligence on macOS 27 and get its disk space back](https://github.com/omlahore/RemoveMacAI)
+- [Improper redaction reveals Google Data Center water and electricity usage](https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/)
+- [A browser-native classic Visual Basic VB6 IDE](https://wieslawsoltes.github.io/VB6/)
+- [Xray-core concealed a certificate verification bypass vulnerability](https://github.com/net4people/bbs/issues/672)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

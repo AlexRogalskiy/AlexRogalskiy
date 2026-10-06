@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Replacement of petroleum based products with plant-based materials &lpar;2025&rpar;](https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108)
-- [Nearly 200 people under observation after Irkutsk lab worker dies from plague](https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857)
-- [Powerless F1 drivers frustrated by Bahrain F1 software glitch](https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/)
-- [A 40ms Go garbage collector pause caused by swap](https://frn.sh/go-gc/)
-- [Self-hosted HTTP tunnels with SSH and Nginx](https://vincent.bernat.ch/en/blog/2026-http-over-ssh)
-- [In the wake of Tippett Studios’ closure, a digital archive appears online](https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/)
-- [Turn off Apple Intelligence on macOS 27 and get its disk space back](https://github.com/omlahore/RemoveMacAI)
-- [Improper redaction reveals Google Data Center water and electricity usage](https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/)
-- [A browser-native classic Visual Basic VB6 IDE](https://wieslawsoltes.github.io/VB6/)
-- [Xray-core concealed a certificate verification bypass vulnerability](https://github.com/net4people/bbs/issues/672)
+- [German Bundeswehr Uses AI to Screen Applicants for Right-Wing Extremism](https://news.osna.fm/german-military-intelligence-uses-ai-to-screen-bundeswehr-applicants-for-right-wing-extremism/)
+- [We are going to kill &quot;unalive&quot;](https://www.anildash.com/2026/10/06/kill-unalive/)
+- [Resurrecting iChat Audio and Video Conferencing](https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/)
+- [Why Common Lisp is now the best programming language](https://www.vivienhenz.com/common-lisp)
+- [Samon: Designing a Zen Garden Raking Puzzle](https://gwern.net/doc/design/2026-10-03-gwern-samon.html)
+- [Ephemeral Testing](https://lemire.me/blog/2026/10/05/ephemeral-testing/)
+- [Example.com just launched the biggest redesign in decades](https://www.debugbear.com/blog/example-dot-com-redesign-history)
+- [ChatGPT is adding real cartoonists&#39; signatures to fake New Yorker cartoons](https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/)
+- [Global Solar Atlas: summary of solar power potential globally](https://globalsolaratlas.info/)
+- [Friendship ended with Deno, now Node is my best friend](https://dbushell.com/2026/10/03/deno-to-node/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -355,6 +355,8 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Tech execs are getting wise about ROI from AI](https://www.computerworld.com/article/4230147/tech-execs-are-getting-wise-about-roi-from-ai.html)
+- [Apple locks down Full Disk Access, and AI agents are the reason](https://www.computerworld.com/article/4230640/apple-locks-down-full-disk-access-and-ai-agents-are-the-reason.html)
 - [Trump’s Super Intelligence edict supercharges .si domain registrations](https://www.computerworld.com/article/4230104/trumps-super-intelligence-edict-supercharges-si-domain-registrations.html)
 - [How Meta stumbled onto a winning AI strategy](https://www.computerworld.com/article/4228463/how-meta-stumbled-onto-a-winning-ai-strategy.html)
 - [Facing the music: Apple, Samsung, and memory cost inflation](https://www.computerworld.com/article/4230148/facing-the-music-apple-samsung-and-memory-cost-inflation.html)
@@ -363,8 +365,6 @@
 - [Microsoft adds support for Linux containers in WSL](https://www.computerworld.com/article/4230208/microsoft-adds-support-for-linux-containers-in-wsl.html)
 - [Omnissa delivers a peek into the benefits of breaking through enterprise data silos](https://www.computerworld.com/article/4229789/omnissa-delivers-a-peek-into-the-benefits-of-breaking-through-enterprise-data-silos.html)
 - [Memory squeeze set to tighten through 2028, Micron says](https://www.computerworld.com/article/4229635/memory-squeeze-set-to-tighten-through-2028-micron-says-3.html)
-- [ServiceNow launches standalone AI service desk to provide support in Teams, Slack, and email](https://www.computerworld.com/article/4229579/servicenow-launches-standalone-ai-service-desk-to-provide-support-in-teams-slack-and-email-2.html)
-- [Will ‘move fast, ship quicker’ kill the Apple brand?](https://www.computerworld.com/article/4229674/will-move-fast-ship-quicker-kill-the-apple-brand.html)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Spain’s Sánchez calls snap election amid national housing crisis – Europe live](https://www.theguardian.com/world/live/2026/oct/05/europe-spain-pedro-sanchez-election-housing-france-school-protests-ukraine-russia-latest-news-updates)
-- [Karl review – straightforward tribute tells inside story of fashion world’s great eccentric Karl Lagerfeld](https://www.theguardian.com/film/2026/oct/05/karl-review-straightforward-tribute-tells-inside-story-of-fashion-worlds-great-eccentric-karl-lagerfeld)
-- [The Housekeeper by Rose Tremain review – a bloodless origin story for Du Maurier’s Rebecca](https://www.theguardian.com/books/2026/oct/05/the-housekeeper-by-rose-tremain-review-a-bloodless-origin-story-for-du-mauriers-rebecca)
-- [BT to buy broadband supplier TalkTalk, saving 900 jobs](https://www.theguardian.com/business/2026/oct/05/bt-buy-broadband-supplier-talktalk-jobs)
-- [Head of Jewish Greens says she may leave party over ‘Zionism is racism’ vote](https://www.theguardian.com/politics/2026/oct/05/head-of-jewish-greens-says-she-may-leave-party-over-zionism-is-racism-vote)
-- [Andrew Mountbatten-Windsor launches legal action against police over Epstein raids](https://www.theguardian.com/uk-news/2026/oct/05/andrew-mountbatten-windsor-court-action-police-epstein-raids)
-- [Anti-migrant protesters scuffle with police in Gosport after Channel rescue](https://www.theguardian.com/uk-news/2026/oct/05/anti-migrant-protesters-scuffle-police-gosport-channel-rescue)
-- [Play that funky Turbine Hall! How artist Tarek Atoui aims to take the Tate on a sonic odyssey](https://www.theguardian.com/artanddesign/2026/oct/05/tarek-atoui-tate-turbine-hall-sound-art)
-- [ICC delays plans for World Club Championship after ‘Big Three’ object](https://www.theguardian.com/sport/2026/oct/05/icc-delays-plans-for-world-club-championship-after-big-three-object)
-- [Czechia’s Santi Denia: ‘Anthony Gordon? What a player! He’s at the same level as Lamine Yamal’](https://www.theguardian.com/football/2026/oct/05/santi-denia-anthony-gordon-lamine-yamal-england-czechia)
+- [Badenoch claims of Tory air defence plan ‘we haven’t called it Iron Dome’ - despite phrase in press release - UK politics live](https://www.theguardian.com/politics/live/2026/oct/06/kemi-badenoch-conservatives-labour-reform-greens-uk-politics-latest-news)
+- [UK events firm that hosts arms fairs and comic shows sold to rival for £2bn](https://www.theguardian.com/business/2026/oct/06/informa-buy-clarion-blackstone-ftse-100)
+- [Euro dips further as French central bank chief warns the country risks being ‘strangled by interest rates’ – business live](https://www.theguardian.com/business/live/2026/oct/06/euro-france-central-bank-interest-rates-bonds-latest-live-updates)
+- [Trump suggests he would let Iran ‘take out’ Los Angeles or San Diego](https://www.theguardian.com/us-news/2026/oct/06/trump-suggests-let-iran-take-out-los-angeles-san-diego)
+- [‘A return to prison is always looming’: Iran nobel laureate recounts torture in jail and hopes for the future](https://www.theguardian.com/global-development/2026/oct/06/iranian-nobel-laureate-narges-mohammadi-recounts-prison-beating)
+- [The Craft review – cult high-school horror a reminder of the fearless 90s](https://www.theguardian.com/film/2026/oct/06/the-craft-review-30th-anniversary)
+- [Holding Lightning by Emily Lordi review – an intimate portrait of Whitney Houston](https://www.theguardian.com/music/2026/oct/06/holding-lightning-by-emily-lordi-review-an-intimate-portrait-of-whitney-houston)
+- [French school protests expected to grow on ‘day of mobilisation’ – Europe live](https://www.theguardian.com/world/live/2026/oct/06/europe-french-school-protests-paris-germany-afd-bulgaria-drones-russia-ukraine-latest-news-updates)
+- [Saints’ lopsided loss sours celebrations on 20th anniversary of ‘Domecoming’](https://www.theguardian.com/sport/2026/oct/06/nfl-saints-falcons-20th-anniversary-domecoming-new-orleans)
+- [The UK has a food waste problem and a food poverty problem – and we have a plan to fix them both | Charlotte Hill](https://www.theguardian.com/commentisfree/2026/oct/06/meals-wasted-uk-food-businesses-government)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: Gutsy, subsecond decision model inference on CPU &lpar;Jev Style&rpar;, no API](https://github.com/kouhxp/gutsy)
-- [Ephemeral Testing](https://lemire.me/blog/2026/10/05/ephemeral-testing/)
-- [Becoming a Photographer](https://stanko.io/becoming-a-photographer-tIKMwUVuHnHG)
-- [GrandNode – open-source e-commerce platform on .NET 10 and MongoDB](https://github.com/grandnode/grandnode2)
-- [Sales of sub-€25,000 electric car models set to rise sevenfold](https://www.transportenvironment.org/articles/wave-of-affordable-electric-cars-is-boosting-consumers-choice-sales-of-sub-eur25-000-models-set-to-rise-sevenfold)
-- [Where Everyone Agrees, and That&#39;s the Problem](https://medium.com/@gurvinder372/article-28-where-everyone-agrees-and-thats-the-problem-ae0c105e077b)
-- [Huawei and Qualcomm Announce Broad Patent License Agreement](https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement)
-- [Own Your Slop – A Markdown reader that confirms you read it, properly](https://ownyourslop.com/)
-- [Show HN: I built a 3D globe of upcoming AI conferences](https://aieventsworld.com/en/)
-- [OpenInstinct Eve Agent](https://vercel.com/templates/eve/openinstinct-eve-agent)
+- [Hosting Without Hyperscalers](https://ruuda.nl/2026/hosting-without-hyperscalers)
+- [One Shot Game Engine](https://www.reddit.com/r/accelerate/comments/1wxwz3c/can_ai_make_a_game_engine_yes/)
+- [We built a job queue on an LSM tree. This is what we learnt](https://zizq.io/blog/what-we-learnt-building-a-job-queue-on-an-lsm-tree)
+- [Dynamo, DynamoDB and Aurora DSQL &lpar;2025&rpar;](https://brooker.co.za/blog/2025/08/15/dynamo-dynamodb-dsql.html)
+- [Germany: Ex-spy chief arrested for espionage](https://www.dw.com/en/germany-ex-spy-chief-arrested-for-espionage-reports/a-79560278)
+- [European Spend Report 2026](https://www.spendesk.com/blog/european-spend-insights-2026/)
+- [Agentic Learning Without Retention](https://zenodo.org/records/22706328)
+- [Astronomers catch a star slowly snacking on a brown dwarf, 300 light years away](https://news.mit.edu/2026/astronomers-catch-star-slowly-snacking-on-brown-dwarf-1005)
+- [Gleam doesn&#39;t compile to Erlang source anymore](https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/)
+- [SatBleed: Security of Commoditized Communication Modules in Satellites](https://arxiv.org/abs/2610.06258)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

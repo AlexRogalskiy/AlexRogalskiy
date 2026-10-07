@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Badenoch claims of Tory air defence plan ‘we haven’t called it Iron Dome’ - despite phrase in press release - UK politics live](https://www.theguardian.com/politics/live/2026/oct/06/kemi-badenoch-conservatives-labour-reform-greens-uk-politics-latest-news)
-- [UK events firm that hosts arms fairs and comic shows sold to rival for £2bn](https://www.theguardian.com/business/2026/oct/06/informa-buy-clarion-blackstone-ftse-100)
-- [Euro dips further as French central bank chief warns the country risks being ‘strangled by interest rates’ – business live](https://www.theguardian.com/business/live/2026/oct/06/euro-france-central-bank-interest-rates-bonds-latest-live-updates)
-- [Trump suggests he would let Iran ‘take out’ Los Angeles or San Diego](https://www.theguardian.com/us-news/2026/oct/06/trump-suggests-let-iran-take-out-los-angeles-san-diego)
-- [‘A return to prison is always looming’: Iran nobel laureate recounts torture in jail and hopes for the future](https://www.theguardian.com/global-development/2026/oct/06/iranian-nobel-laureate-narges-mohammadi-recounts-prison-beating)
-- [The Craft review – cult high-school horror a reminder of the fearless 90s](https://www.theguardian.com/film/2026/oct/06/the-craft-review-30th-anniversary)
-- [Holding Lightning by Emily Lordi review – an intimate portrait of Whitney Houston](https://www.theguardian.com/music/2026/oct/06/holding-lightning-by-emily-lordi-review-an-intimate-portrait-of-whitney-houston)
-- [French school protests expected to grow on ‘day of mobilisation’ – Europe live](https://www.theguardian.com/world/live/2026/oct/06/europe-french-school-protests-paris-germany-afd-bulgaria-drones-russia-ukraine-latest-news-updates)
-- [Saints’ lopsided loss sours celebrations on 20th anniversary of ‘Domecoming’](https://www.theguardian.com/sport/2026/oct/06/nfl-saints-falcons-20th-anniversary-domecoming-new-orleans)
-- [The UK has a food waste problem and a food poverty problem – and we have a plan to fix them both | Charlotte Hill](https://www.theguardian.com/commentisfree/2026/oct/06/meals-wasted-uk-food-businesses-government)
+- [IMF chief warns energy shock, public debt and AI boom threaten global growth – business live](https://www.theguardian.com/business/live/2026/oct/07/imf-chief-warns-energy-shockk-public-debt-ai-boom-threaten-global-growth-uk-house-prices-standstill-latest-live-updates)
+- [Police routinely failing to investigate ‘revenge porn’ reports, research shows](https://www.theguardian.com/society/2026/oct/07/police-routinely-failing-to-investigate-revenge-porn-reports-research-shows)
+- [‘The nurse used the torch on her phone to do the op’: hospitals stripped of resources in Ukraine’s occupied territories](https://www.theguardian.com/world/2026/oct/07/the-nurse-used-the-torch-on-her-phone-to-do-the-op-hospitals-stripped-of-resources-in-ukraines-occupied-territories)
+- [Other Worlds Than These by Stephen King and Peter Straub review – a self-indulgent finale to the Talisman trilogy](https://www.theguardian.com/books/2026/oct/07/other-worlds-than-these-by-stephen-king-and-peter-straub-review-a-self-indulgent-finale-to-the-talisman-trilogy)
+- [‘I was drawn to the femminielli’: blurring gender in Naples – in pictures](https://www.theguardian.com/artanddesign/gallery/2026/oct/07/i-was-drawn-to-the-femminielli-blurring-gender-in-naples-in-pictures)
+- [Israel marks three years since 7 October attack by Hamas – live](https://www.theguardian.com/world/live/2026/oct/07/israel-october-7-anniversary-hamas-gaza-netanyahu-iran-latest-news-updates)
+- [Nicolas Ghesquière takes us into the future for Louis Vuitton show in Paris](https://www.theguardian.com/fashion/2026/oct/07/louis-vuitton-nicolas-ghesquiere-futuristic-show-paris-fashion-week)
+- [Badenoch expected to announce plan to cut inheritance tax and claim UK faces ‘battle of ideas’ over spending – UK politics live](https://www.theguardian.com/politics/live/2026/oct/07/kemi-badenoch-inheritance-tax-conservatives-tory-conference-labour-green-party-reform-latest-news-updates)
+- [Scottish film could steal The Jazz Singer’s crown as ‘world’s first talkie’](https://www.theguardian.com/uk-news/2026/oct/07/scottish-film-till-the-bells-ring-jazz-singer)
+- [Carrie review – the teenage hellraiser’s glorious return couldn’t come at a better time](https://www.theguardian.com/tv-and-radio/2026/oct/07/carrie-review-summer-h-howel-prime-video-horror)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Hosting Without Hyperscalers](https://ruuda.nl/2026/hosting-without-hyperscalers)
-- [One Shot Game Engine](https://www.reddit.com/r/accelerate/comments/1wxwz3c/can_ai_make_a_game_engine_yes/)
-- [We built a job queue on an LSM tree. This is what we learnt](https://zizq.io/blog/what-we-learnt-building-a-job-queue-on-an-lsm-tree)
-- [Dynamo, DynamoDB and Aurora DSQL &lpar;2025&rpar;](https://brooker.co.za/blog/2025/08/15/dynamo-dynamodb-dsql.html)
-- [Germany: Ex-spy chief arrested for espionage](https://www.dw.com/en/germany-ex-spy-chief-arrested-for-espionage-reports/a-79560278)
-- [European Spend Report 2026](https://www.spendesk.com/blog/european-spend-insights-2026/)
-- [Agentic Learning Without Retention](https://zenodo.org/records/22706328)
-- [Astronomers catch a star slowly snacking on a brown dwarf, 300 light years away](https://news.mit.edu/2026/astronomers-catch-star-slowly-snacking-on-brown-dwarf-1005)
-- [Gleam doesn&#39;t compile to Erlang source anymore](https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/)
-- [SatBleed: Security of Commoditized Communication Modules in Satellites](https://arxiv.org/abs/2610.06258)
+- [Books of the Times; Hackers as Heroes &lpar;1999&rpar;](https://archive.nytimes.com/www.nytimes.com/books/99/01/03/specials/levy-hackers.html)
+- [Are CAPTCHAs Still Bot-Hard?](https://halligan.pages.dev/)
+- [pg_plan_filter 1.0.0 Released](https://www.postgresql.org/about/news/pg_plan_filter-100-released-3352/)
+- [High Interest Rates Aren&#39;t Slowing AI Boom](https://www.nytimes.com/2026/10/05/business/ai-boom-interest-rates-fed.html)
+- [Show HN: GitHub Action to check AI-written code changes no files, without review](https://github.com/yuyuyuyuyu-dev/assert-no-unexpected-changes)
+- [Twenty-two pending curl vulnerabilities](https://daniel.haxx.se/blog/2026/10/07/twenty-two-pending-curl-vulnerabilities/)
+- [HN has lost the joy for me](https://news.ycombinator.com/item?id=49989504)
+- [Show HN: Neptune, a free and open-source terminal built in Rust](https://github.com/zevem/neptune)
+- [Longest traffic jam &lpar;number of vehicles&rpar;: Berlin 1990](https://www.guinnessworldrecords.com/world-records/461618-longest-traffic-jam-number-of-vehicles)
+- [Stack Overflow Developer Survey – Number of HN Comments by Year &lpar;Last 8 Years&rpar;](https://i.imgur.com/wN2XVEE.png)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

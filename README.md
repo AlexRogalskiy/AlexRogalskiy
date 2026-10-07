@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Atlassian’s critical flaw turns eight enterprise products into one big security problem](https://www.computerworld.com/article/4231552/atlassians-critical-flaw-turns-eight-enterprise-products-into-one-big-security-problem-2.html)
+- [Tech jobs decline as US hit with rising costs and economic instability](https://www.computerworld.com/article/4231304/tech-jobs-decline-as-us-hit-with-rising-costs-and-economic-instability.html)
+- [Apple’s AI privacy trick could be the compromise the EU needs](https://www.computerworld.com/article/4231223/apples-ai-privacy-trick-could-be-the-compromise-the-eu-needs.html)
+- [Windows 11 gains ground as price hike looms for Windows 10 security updates](https://www.computerworld.com/article/4231366/windows-11-gains-ground-as-price-hike-looms-for-windows-10-security-updates.html)
+- [OpenAI to begin watermarking AI-generated text](https://www.computerworld.com/article/4231404/openai-begins-watermarking-ai-generated-texts.html)
+- [How to build a ‘safe-to-fail’ culture for IT teams — and why you should](https://www.computerworld.com/article/4223580/how-to-build-a-safe-to-fail-culture-for-it-teams-and-why-you-should.html)
 - [Tech execs are getting wise about ROI from AI](https://www.computerworld.com/article/4230147/tech-execs-are-getting-wise-about-roi-from-ai.html)
 - [Apple locks down Full Disk Access, and AI agents are the reason](https://www.computerworld.com/article/4230640/apple-locks-down-full-disk-access-and-ai-agents-are-the-reason.html)
 - [Trump’s Super Intelligence edict supercharges .si domain registrations](https://www.computerworld.com/article/4230104/trumps-super-intelligence-edict-supercharges-si-domain-registrations.html)
 - [How Meta stumbled onto a winning AI strategy](https://www.computerworld.com/article/4228463/how-meta-stumbled-onto-a-winning-ai-strategy.html)
-- [Facing the music: Apple, Samsung, and memory cost inflation](https://www.computerworld.com/article/4230148/facing-the-music-apple-samsung-and-memory-cost-inflation.html)
-- [US FTC will investigate Anthropic and OpenAI](https://www.computerworld.com/article/4230047/us-ftc-will-investigate-anthropic-and-openai.html)
-- [AI could boost software engineer productivity by 32.6%](https://www.computerworld.com/article/4228857/ai-could-boost-software-engineer-productivity-by-32-6-3.html)
-- [Microsoft adds support for Linux containers in WSL](https://www.computerworld.com/article/4230208/microsoft-adds-support-for-linux-containers-in-wsl.html)
-- [Omnissa delivers a peek into the benefits of breaking through enterprise data silos](https://www.computerworld.com/article/4229789/omnissa-delivers-a-peek-into-the-benefits-of-breaking-through-enterprise-data-silos.html)
-- [Memory squeeze set to tighten through 2028, Micron says](https://www.computerworld.com/article/4229635/memory-squeeze-set-to-tighten-through-2028-micron-says-3.html)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

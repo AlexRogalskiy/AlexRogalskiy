@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [German Bundeswehr Uses AI to Screen Applicants for Right-Wing Extremism](https://news.osna.fm/german-military-intelligence-uses-ai-to-screen-bundeswehr-applicants-for-right-wing-extremism/)
-- [We are going to kill &quot;unalive&quot;](https://www.anildash.com/2026/10/06/kill-unalive/)
-- [Resurrecting iChat Audio and Video Conferencing](https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/)
-- [Why Common Lisp is now the best programming language](https://www.vivienhenz.com/common-lisp)
-- [Samon: Designing a Zen Garden Raking Puzzle](https://gwern.net/doc/design/2026-10-03-gwern-samon.html)
-- [Ephemeral Testing](https://lemire.me/blog/2026/10/05/ephemeral-testing/)
-- [Example.com just launched the biggest redesign in decades](https://www.debugbear.com/blog/example-dot-com-redesign-history)
-- [ChatGPT is adding real cartoonists&#39; signatures to fake New Yorker cartoons](https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/)
-- [Global Solar Atlas: summary of solar power potential globally](https://globalsolaratlas.info/)
-- [Friendship ended with Deno, now Node is my best friend](https://dbushell.com/2026/10/03/deno-to-node/)
+- [Shaders, WebGPU Components for React, Vue, Svelte, Solid, JavaScript and Framer](https://github.com/shader-effects-inc/shaders)
+- [Hackers obtain counterfeit TLS certificates for Google and other large services](https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/)
+- [The art of defusing a second world war bomb](https://www.theguardian.com/news/ng-interactive/2026/oct/06/it-could-knock-a-whole-street-down-the-art-of-defusing-a-second-world-war-bomb)
+- [Show HN: NanoMuse – An open-source AI agent for your phone and computer](https://github.com/nano-muse/nanoMuse)
+- [OpenWAM: An Open Framework for Composable World-Action Models](https://openwam.stanford.edu/)
+- [La Cueva BBS in Mexico in 1993 &lpar;session replay&rpar;](https://nanochess.org/la_cueva_bbs.html)
+- [Strands Decider 2B: a small, open-source, decision model](https://strandsagents.com/blog/introducing-strands-decider/)
+- [ESP32-C3 Adblock](https://github.com/M-Abozaid/esp32-c3-adblock)
+- [Jev-Driven SRE Diagnosis: What Worked and What Failed](https://www.sregym.com/blog/jev-driven-sre-diagnosis)
+- [AnyPS5: Port PS5 binaries to PC without emulation &lpar;87% system libraries mapped&rpar;](https://github.com/boykopovar/AnyPS5)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

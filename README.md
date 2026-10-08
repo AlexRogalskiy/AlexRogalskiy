@@ -355,6 +355,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Cisco brings collaborative agents and Claude into Webex chats](https://www.computerworld.com/article/4231779/cisco-brings-collaborative-agents-and-claude-into-webex-chats.html)
+- [LibreOffice touts ‘no AI’ as a feature](https://www.computerworld.com/article/4232129/libreoffice-no-ai-is-also-a-feature.html)
+- [How to navigate the Windows Insider Program](https://www.computerworld.com/article/1712240/how-to-preview-windows-features-and-updates.html)
 - [Atlassian’s critical flaw turns eight enterprise products into one big security problem](https://www.computerworld.com/article/4231552/atlassians-critical-flaw-turns-eight-enterprise-products-into-one-big-security-problem-2.html)
 - [Tech jobs decline as US hit with rising costs and economic instability](https://www.computerworld.com/article/4231304/tech-jobs-decline-as-us-hit-with-rising-costs-and-economic-instability.html)
 - [Apple’s AI privacy trick could be the compromise the EU needs](https://www.computerworld.com/article/4231223/apples-ai-privacy-trick-could-be-the-compromise-the-eu-needs.html)
@@ -362,9 +365,6 @@
 - [OpenAI to begin watermarking AI-generated text](https://www.computerworld.com/article/4231404/openai-begins-watermarking-ai-generated-texts.html)
 - [How to build a ‘safe-to-fail’ culture for IT teams — and why you should](https://www.computerworld.com/article/4223580/how-to-build-a-safe-to-fail-culture-for-it-teams-and-why-you-should.html)
 - [Tech execs are getting wise about ROI from AI](https://www.computerworld.com/article/4230147/tech-execs-are-getting-wise-about-roi-from-ai.html)
-- [Apple locks down Full Disk Access, and AI agents are the reason](https://www.computerworld.com/article/4230640/apple-locks-down-full-disk-access-and-ai-agents-are-the-reason.html)
-- [Trump’s Super Intelligence edict supercharges .si domain registrations](https://www.computerworld.com/article/4230104/trumps-super-intelligence-edict-supercharges-si-domain-registrations.html)
-- [How Meta stumbled onto a winning AI strategy](https://www.computerworld.com/article/4228463/how-meta-stumbled-onto-a-winning-ai-strategy.html)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

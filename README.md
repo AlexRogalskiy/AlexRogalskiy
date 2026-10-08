@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Shaders, WebGPU Components for React, Vue, Svelte, Solid, JavaScript and Framer](https://github.com/shader-effects-inc/shaders)
-- [Hackers obtain counterfeit TLS certificates for Google and other large services](https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/)
-- [The art of defusing a second world war bomb](https://www.theguardian.com/news/ng-interactive/2026/oct/06/it-could-knock-a-whole-street-down-the-art-of-defusing-a-second-world-war-bomb)
-- [Show HN: NanoMuse – An open-source AI agent for your phone and computer](https://github.com/nano-muse/nanoMuse)
-- [OpenWAM: An Open Framework for Composable World-Action Models](https://openwam.stanford.edu/)
-- [La Cueva BBS in Mexico in 1993 &lpar;session replay&rpar;](https://nanochess.org/la_cueva_bbs.html)
-- [Strands Decider 2B: a small, open-source, decision model](https://strandsagents.com/blog/introducing-strands-decider/)
-- [ESP32-C3 Adblock](https://github.com/M-Abozaid/esp32-c3-adblock)
-- [Jev-Driven SRE Diagnosis: What Worked and What Failed](https://www.sregym.com/blog/jev-driven-sre-diagnosis)
-- [AnyPS5: Port PS5 binaries to PC without emulation &lpar;87% system libraries mapped&rpar;](https://github.com/boykopovar/AnyPS5)
+- [Dat-ecosystem: high level applications built on top of P2P protocols](https://dat-ecosystem.org/)
+- [The people holding up the internet](https://sheets.works/data-viz/holding-up-the-internet)
+- [Classic PC demoscene productions running natively in the browser](https://treylorswift.github.io/demoscene-recomp/web/)
+- [“Math 2.0” will need to value mathematical progress more holistically](https://mathstodon.xyz/@tao/117395269325940185)
+- [A 100x faster* alternative to homebrew](https://github.com/zerobrewhq/zerobrew)
+- [Port of the TypeScript compiler, checker and lsp to Rust, by LLM](https://github.com/pingdotgg/ts-rust)
+- [Margaret Hamilton has died](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007)
+- [&#39;Jonathan&#39; is the oldest land animal on Earth](https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/)
+- [The Mathocalypse](https://scottaaronson.blog/?p=10169)
+- [Push ifs up and fors down: The idiom, its algebra, and its limits](https://debasishg.github.io/blog/push-ifs-up-fors-down/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

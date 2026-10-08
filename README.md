@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Books of the Times; Hackers as Heroes &lpar;1999&rpar;](https://archive.nytimes.com/www.nytimes.com/books/99/01/03/specials/levy-hackers.html)
-- [Are CAPTCHAs Still Bot-Hard?](https://halligan.pages.dev/)
-- [pg_plan_filter 1.0.0 Released](https://www.postgresql.org/about/news/pg_plan_filter-100-released-3352/)
-- [High Interest Rates Aren&#39;t Slowing AI Boom](https://www.nytimes.com/2026/10/05/business/ai-boom-interest-rates-fed.html)
-- [Show HN: GitHub Action to check AI-written code changes no files, without review](https://github.com/yuyuyuyuyu-dev/assert-no-unexpected-changes)
-- [Twenty-two pending curl vulnerabilities](https://daniel.haxx.se/blog/2026/10/07/twenty-two-pending-curl-vulnerabilities/)
-- [HN has lost the joy for me](https://news.ycombinator.com/item?id=49989504)
-- [Show HN: Neptune, a free and open-source terminal built in Rust](https://github.com/zevem/neptune)
-- [Longest traffic jam &lpar;number of vehicles&rpar;: Berlin 1990](https://www.guinnessworldrecords.com/world-records/461618-longest-traffic-jam-number-of-vehicles)
-- [Stack Overflow Developer Survey – Number of HN Comments by Year &lpar;Last 8 Years&rpar;](https://i.imgur.com/wN2XVEE.png)
+- [Macropay-Solutions PHP-Framework is out and fast](https://macropay-solutions.com)
+- [&#39;Bendy Tree&#39; in Co Down Wins Tree of the Year Competition](https://www.rte.ie/news/ireland/2026/1008/1594484-down-tree-of-the-year/)
+- [Ask HN: Preferred state management for enterprise Flutter in 2026?](https://news.ycombinator.com/item?id=50003115)
+- [Veda](https://github.com/vahmoh25/Veda)
+- [OpenAI Withdraws 3 Math Papers](https://github.com/openai/math/blob/main/history.md)
+- [KizunaShelf – a shelf for everything you love](https://kizunashelf.app/)
+- [From Expert-Guided Proof Search to Automated Open-Problem Solving](https://arxiv.org/abs/2610.09769)
+- [OpenAI withdraws three of their recent manuscripts](https://github.com/openai/math/pull/1/files/301488868beec11bfd897168433b0a64f5258559)
+- [Vallic Cloud is live: all the infrastructure, almost none of the ops](https://vallic.com/blog/vallic-cloud-live-all-infrastructure-almost-none-ops-115)
+- [The Beginning of Software Engineering](https://fosscomics.com/posts/5.%20The%20Beginning%20of%20Software%20Engineering/#comic-panel-hire-math-major)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

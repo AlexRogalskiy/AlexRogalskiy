@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [IMF chief warns energy shock, public debt and AI boom threaten global growth – business live](https://www.theguardian.com/business/live/2026/oct/07/imf-chief-warns-energy-shockk-public-debt-ai-boom-threaten-global-growth-uk-house-prices-standstill-latest-live-updates)
-- [Police routinely failing to investigate ‘revenge porn’ reports, research shows](https://www.theguardian.com/society/2026/oct/07/police-routinely-failing-to-investigate-revenge-porn-reports-research-shows)
-- [‘The nurse used the torch on her phone to do the op’: hospitals stripped of resources in Ukraine’s occupied territories](https://www.theguardian.com/world/2026/oct/07/the-nurse-used-the-torch-on-her-phone-to-do-the-op-hospitals-stripped-of-resources-in-ukraines-occupied-territories)
-- [Other Worlds Than These by Stephen King and Peter Straub review – a self-indulgent finale to the Talisman trilogy](https://www.theguardian.com/books/2026/oct/07/other-worlds-than-these-by-stephen-king-and-peter-straub-review-a-self-indulgent-finale-to-the-talisman-trilogy)
-- [‘I was drawn to the femminielli’: blurring gender in Naples – in pictures](https://www.theguardian.com/artanddesign/gallery/2026/oct/07/i-was-drawn-to-the-femminielli-blurring-gender-in-naples-in-pictures)
-- [Israel marks three years since 7 October attack by Hamas – live](https://www.theguardian.com/world/live/2026/oct/07/israel-october-7-anniversary-hamas-gaza-netanyahu-iran-latest-news-updates)
-- [Nicolas Ghesquière takes us into the future for Louis Vuitton show in Paris](https://www.theguardian.com/fashion/2026/oct/07/louis-vuitton-nicolas-ghesquiere-futuristic-show-paris-fashion-week)
-- [Badenoch expected to announce plan to cut inheritance tax and claim UK faces ‘battle of ideas’ over spending – UK politics live](https://www.theguardian.com/politics/live/2026/oct/07/kemi-badenoch-inheritance-tax-conservatives-tory-conference-labour-green-party-reform-latest-news-updates)
-- [Scottish film could steal The Jazz Singer’s crown as ‘world’s first talkie’](https://www.theguardian.com/uk-news/2026/oct/07/scottish-film-till-the-bells-ring-jazz-singer)
-- [Carrie review – the teenage hellraiser’s glorious return couldn’t come at a better time](https://www.theguardian.com/tv-and-radio/2026/oct/07/carrie-review-summer-h-howel-prime-video-horror)
+- [‘Spend time going down rabbit holes’: how the Avalanches created their wildest album yet](https://www.theguardian.com/music/2026/oct/08/the-avalanches-no-bad-memories-interview)
+- [Britons kept in dark about scale of climate crisis, say viewers of ‘first-of-its-kind’ emergency briefing](https://www.theguardian.com/environment/2026/oct/08/britons-kept-in-dark-scale-of-climate-crisis-first-of-its-kind-emergency-briefing)
+- [Royal Navy serviceman charged with spying to benefit foreign power](https://www.theguardian.com/uk-news/2026/oct/08/royal-navy-serviceman-arrested-under-national-security-act)
+- [French high school protests continue despite PM’s promise of action – Europe live](https://www.theguardian.com/world/live/2026/oct/08/france-protests-spain-housing-maria-del-carmen-abascal-burnham-merz-europe-latest-news)
+- [How the Kop’s chants propelled Andy Burnham to fight for Hillsborough justice](https://www.theguardian.com/football/2026/oct/08/how-the-kops-chants-propelled-andy-burnham-to-fight-for-hillsborough-justice)
+- [British consulate in East Jerusalem will stay open as UK mission, says Ed Miliband](https://www.theguardian.com/politics/2026/oct/08/uk-consulate-east-jerusalem-remain-open-uk-mission-ed-miliband)
+- [‘Vibrant, design-led and surprisingly green’: why the Dutch city of Eindhoven is perfect for a relaxed arty break](https://www.theguardian.com/travel/2026/oct/08/design-dutch-city-eindhoven-arty-break)
+- [Guardiola expected at Manchester City v PSG next week in show of support for owners](https://www.theguardian.com/football/2026/oct/08/manchester-city-pep-guardiola-owners-guilty-verdict)
+- [Below review – a killer snot-berg causes chaos for Josh Hartnett](https://www.theguardian.com/tv-and-radio/2026/oct/08/below-review-netflix-josh-hartnett-sea-monsters-thriller)
+- [‘Those memories are ours and no verdict changes that’: Manchester City fans’ views](https://www.theguardian.com/football/2026/oct/08/manchester-city-verdict-fans-views)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

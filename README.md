@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [‘Spend time going down rabbit holes’: how the Avalanches created their wildest album yet](https://www.theguardian.com/music/2026/oct/08/the-avalanches-no-bad-memories-interview)
-- [Britons kept in dark about scale of climate crisis, say viewers of ‘first-of-its-kind’ emergency briefing](https://www.theguardian.com/environment/2026/oct/08/britons-kept-in-dark-scale-of-climate-crisis-first-of-its-kind-emergency-briefing)
-- [Royal Navy serviceman charged with spying to benefit foreign power](https://www.theguardian.com/uk-news/2026/oct/08/royal-navy-serviceman-arrested-under-national-security-act)
-- [French high school protests continue despite PM’s promise of action – Europe live](https://www.theguardian.com/world/live/2026/oct/08/france-protests-spain-housing-maria-del-carmen-abascal-burnham-merz-europe-latest-news)
-- [How the Kop’s chants propelled Andy Burnham to fight for Hillsborough justice](https://www.theguardian.com/football/2026/oct/08/how-the-kops-chants-propelled-andy-burnham-to-fight-for-hillsborough-justice)
-- [British consulate in East Jerusalem will stay open as UK mission, says Ed Miliband](https://www.theguardian.com/politics/2026/oct/08/uk-consulate-east-jerusalem-remain-open-uk-mission-ed-miliband)
-- [‘Vibrant, design-led and surprisingly green’: why the Dutch city of Eindhoven is perfect for a relaxed arty break](https://www.theguardian.com/travel/2026/oct/08/design-dutch-city-eindhoven-arty-break)
-- [Guardiola expected at Manchester City v PSG next week in show of support for owners](https://www.theguardian.com/football/2026/oct/08/manchester-city-pep-guardiola-owners-guilty-verdict)
-- [Below review – a killer snot-berg causes chaos for Josh Hartnett](https://www.theguardian.com/tv-and-radio/2026/oct/08/below-review-netflix-josh-hartnett-sea-monsters-thriller)
-- [‘Those memories are ours and no verdict changes that’: Manchester City fans’ views](https://www.theguardian.com/football/2026/oct/08/manchester-city-verdict-fans-views)
+- [Labour wins Holborn and St Pancras byelection; Polanski ‘absolutely’ intends to remain Green party leader – UK politics live](https://www.theguardian.com/politics/live/2026/oct/09/holborn-st-pancras-byelection-result-zack-polanski-sagal-abdi-wali-uk-labour-green-party-uk-politics-latest-news)
+- [Oil prices fall as Trump pauses Iran attacks, China restarts fuel exports – business live](https://www.theguardian.com/business/live/2026/oct/09/oil-prices-crude-brent-trump-iran-us-war-midterm-elections-stocks-bonds-business-live)
+- [South Africa v Australia: first men’s cricket Test, day one – live](https://www.theguardian.com/sport/live/2026/oct/09/south-africa-v-australia-first-test-day-one-durban-kingsmead-cricket-ground-live-updates)
+- [OpenAI projected to bring in $20bn less in revenue than expected](https://www.theguardian.com/technology/2026/oct/09/openai-forecast-revenue-gap)
+- [Winner of 2026 Nobel peace prize to be announced - Europe live](https://www.theguardian.com/world/live/2026/oct/09/2026-nobel-peace-prize-winner-russia-ukraine-sudan-war-france-protests-poland-latest-news-updates)
+- [‘Is death necessary?’: why Peter Greenaway’s assisted dying drama is stuck in post-production hell](https://www.theguardian.com/film/2026/oct/09/is-death-necessary-why-peter-greenaways-assisted-dying-drama-is-stuck-in-post-production-hell)
+- [Matchbox the Movie to Poor Things: the seven best films to watch on TV this week](https://www.theguardian.com/tv-and-radio/2026/oct/09/matchbox-the-movie-to-poor-things-the-seven-best-films-to-watch-on-tv-this-week)
+- [A promising future now looks perilous for election loser Zack Polanski. He sowed, now he reaps | John Harris](https://www.theguardian.com/commentisfree/2026/oct/09/perilous-election-loser-zack-polanski-green-byelection-holborn-st-pancras)
+- [Everton owner The Friedkin Group exploring sale of club after two years](https://www.theguardian.com/football/2026/oct/09/everton-owner-friedkin-group-exploring-sale-club)
+- [Jess Williamson: A Mile South of Heaven review – alt-country singer’s love-hate affair with LA](https://www.theguardian.com/music/2026/oct/09/jess-williamson-a-mile-south-of-heaven-review)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

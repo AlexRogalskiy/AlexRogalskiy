@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Macropay-Solutions PHP-Framework is out and fast](https://macropay-solutions.com)
-- [&#39;Bendy Tree&#39; in Co Down Wins Tree of the Year Competition](https://www.rte.ie/news/ireland/2026/1008/1594484-down-tree-of-the-year/)
-- [Ask HN: Preferred state management for enterprise Flutter in 2026?](https://news.ycombinator.com/item?id=50003115)
-- [Veda](https://github.com/vahmoh25/Veda)
-- [OpenAI Withdraws 3 Math Papers](https://github.com/openai/math/blob/main/history.md)
-- [KizunaShelf – a shelf for everything you love](https://kizunashelf.app/)
-- [From Expert-Guided Proof Search to Automated Open-Problem Solving](https://arxiv.org/abs/2610.09769)
-- [OpenAI withdraws three of their recent manuscripts](https://github.com/openai/math/pull/1/files/301488868beec11bfd897168433b0a64f5258559)
-- [Vallic Cloud is live: all the infrastructure, almost none of the ops](https://vallic.com/blog/vallic-cloud-live-all-infrastructure-almost-none-ops-115)
-- [The Beginning of Software Engineering](https://fosscomics.com/posts/5.%20The%20Beginning%20of%20Software%20Engineering/#comic-panel-hire-math-major)
+- [The Two UX Gulfs: Evaluation and Execution – NN/G](https://www.nngroup.com/articles/two-ux-gulfs-evaluation-execution/)
+- [Prux is a minimal terminal coding agent](https://github.com/heng30/prux)
+- [Run Windows games &lpar;up to D3D9&rpar; in the browser](https://bottleship.pages.dev/)
+- [Writing blog posts while walking the dog](https://jacobtomlinson.dev/posts/2026/writing-blog-posts-while-walking-the-dog/)
+- [What the interns have wrought, 2026 edition](https://blog.janestreet.com/wrought-2026/)
+- [Snyk is reporting false CVE](https://github.com/github/advisory-database/pull/10132)
+- [Nuclear Weapon Storage Bunker](https://www.google.com/maps?q=Nuclear+weapon+storage+bunker,+kaliningrad&t=k)
+- [How big is a Git commit?](https://ratfactor.com/cards/git-commit-size)
+- [Bengio: &#39;If you prioritize safety, leave frontier AI companies&#39;](https://www.transformernews.ai/p/yoshua-bengio-if-you-prioritize-safety-leave-frontier-ai-companies)
+- [Where does your company draw the line on sensitive data in AI tools?](https://privatesuperintelligence.si/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

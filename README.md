@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Dat-ecosystem: high level applications built on top of P2P protocols](https://dat-ecosystem.org/)
-- [The people holding up the internet](https://sheets.works/data-viz/holding-up-the-internet)
-- [Classic PC demoscene productions running natively in the browser](https://treylorswift.github.io/demoscene-recomp/web/)
-- [“Math 2.0” will need to value mathematical progress more holistically](https://mathstodon.xyz/@tao/117395269325940185)
-- [A 100x faster* alternative to homebrew](https://github.com/zerobrewhq/zerobrew)
-- [Port of the TypeScript compiler, checker and lsp to Rust, by LLM](https://github.com/pingdotgg/ts-rust)
-- [Margaret Hamilton has died](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007)
-- [&#39;Jonathan&#39; is the oldest land animal on Earth](https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/)
-- [The Mathocalypse](https://scottaaronson.blog/?p=10169)
-- [Push ifs up and fors down: The idiom, its algebra, and its limits](https://debasishg.github.io/blog/push-ifs-up-fors-down/)
+- [OTel-Native by Design – Building Products That Export to Any Observability Stack](https://opentelemetry.io/blog/2026/otel-native-by-design/)
+- [Show HN: OldRoll, a free vintage photo editor for the browser](https://www.oldroll.io/)
+- [MXC - a sandboxed code execution system](https://github.com/microsoft/mxc)
+- [Show HN: Quake ported to safe Rust, playable in browser](https://quake-srp.pages.dev/)
+- [Keyboard differences between Windows and Macs](https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/)
+- [What should we tell our students?](https://terrytao.wordpress.com/2026/10/08/what-should-we-tell-our-students/)
+- [Reducing undefined behavior in the C language](https://lwn.net/Articles/1095811/)
+- [OpenAI, the Partition Principle, and Mathematics](https://karagila.org/2026/openai-pp/)
+- [Bevy 0.20](https://bevy.org/news/bevy-0-20/)
+- [AI-ready biological data: $1.8B global commitment](https://biohub.org/news/virtual-biology-initiative-expansion/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

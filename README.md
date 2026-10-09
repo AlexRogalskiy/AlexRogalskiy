@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Google wants to be the gatekeeper for enterprise AI agents](https://www.computerworld.com/article/4232827/google-wants-to-be-the-gatekeeper-for-enterprise-ai-agents.html)
+- [ICANN’s new TLD land rush draws 13 applicants for dot-agent alone, with AI a focus for new names](https://www.computerworld.com/article/4232743/icanns-new-tld-land-rush-draws-13-applicants-for-dot-agent-alone-with-ai-a-focus-for-new-names.html)
+- [Microsoft will let Copilot act on local files on Windows PCs](https://www.computerworld.com/article/4232487/microsoft-will-let-copilot-act-on-local-files-on-windows-pcs.html)
+- [Fast AI, slow rollback: the risk facing Apple IT teams](https://www.computerworld.com/article/4232577/fast-ai-slow-rollback-the-risk-facing-apple-it-teams.html)
+- [12 tricks for more efficient Android texting](https://www.computerworld.com/article/1612778/google-messages-android-texting-tricks.html)
 - [Cisco brings collaborative agents and Claude into Webex chats](https://www.computerworld.com/article/4231779/cisco-brings-collaborative-agents-and-claude-into-webex-chats.html)
 - [LibreOffice touts ‘no AI’ as a feature](https://www.computerworld.com/article/4232129/libreoffice-no-ai-is-also-a-feature.html)
 - [How to navigate the Windows Insider Program](https://www.computerworld.com/article/1712240/how-to-preview-windows-features-and-updates.html)
 - [Atlassian’s critical flaw turns eight enterprise products into one big security problem](https://www.computerworld.com/article/4231552/atlassians-critical-flaw-turns-eight-enterprise-products-into-one-big-security-problem-2.html)
 - [Tech jobs decline as US hit with rising costs and economic instability](https://www.computerworld.com/article/4231304/tech-jobs-decline-as-us-hit-with-rising-costs-and-economic-instability.html)
-- [Apple’s AI privacy trick could be the compromise the EU needs](https://www.computerworld.com/article/4231223/apples-ai-privacy-trick-could-be-the-compromise-the-eu-needs.html)
-- [Windows 11 gains ground as price hike looms for Windows 10 security updates](https://www.computerworld.com/article/4231366/windows-11-gains-ground-as-price-hike-looms-for-windows-10-security-updates.html)
-- [OpenAI to begin watermarking AI-generated text](https://www.computerworld.com/article/4231404/openai-begins-watermarking-ai-generated-texts.html)
-- [How to build a ‘safe-to-fail’ culture for IT teams — and why you should](https://www.computerworld.com/article/4223580/how-to-build-a-safe-to-fail-culture-for-it-teams-and-why-you-should.html)
-- [Tech execs are getting wise about ROI from AI](https://www.computerworld.com/article/4230147/tech-execs-are-getting-wise-about-roi-from-ai.html)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

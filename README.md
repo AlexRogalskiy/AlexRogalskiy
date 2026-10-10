@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Two UX Gulfs: Evaluation and Execution – NN/G](https://www.nngroup.com/articles/two-ux-gulfs-evaluation-execution/)
-- [Prux is a minimal terminal coding agent](https://github.com/heng30/prux)
-- [Run Windows games &lpar;up to D3D9&rpar; in the browser](https://bottleship.pages.dev/)
-- [Writing blog posts while walking the dog](https://jacobtomlinson.dev/posts/2026/writing-blog-posts-while-walking-the-dog/)
-- [What the interns have wrought, 2026 edition](https://blog.janestreet.com/wrought-2026/)
-- [Snyk is reporting false CVE](https://github.com/github/advisory-database/pull/10132)
-- [Nuclear Weapon Storage Bunker](https://www.google.com/maps?q=Nuclear+weapon+storage+bunker,+kaliningrad&t=k)
-- [How big is a Git commit?](https://ratfactor.com/cards/git-commit-size)
-- [Bengio: &#39;If you prioritize safety, leave frontier AI companies&#39;](https://www.transformernews.ai/p/yoshua-bengio-if-you-prioritize-safety-leave-frontier-ai-companies)
-- [Where does your company draw the line on sensitive data in AI tools?](https://privatesuperintelligence.si/)
+- [Phone 18 Pro in Everyday Life: Upgrades That Matter – and the Ones You Can Skip](https://thetechboom.com/2026/10/10/iphone-18-pro-everyday-life-real-benefits-australia/)
+- [Careless People: An entertaining book with few surprises](https://piotrmzakrzewski.substack.com/p/careless-people-an-entertaining-book)
+- [Mac.apk – Run Android Apps Natively on Apple Silicon Macs](https://github.com/kksimp/Mac.apk-Releases)
+- [Tesla Renames FSD to &#39;Assisted Driving&#39; in Europe](https://www.reuters.com/business/autos-transportation/tesla-renames-full-self-driving-assisted-driving-europe-it-chases-clearance-2026-10-09/)
+- [Zeroization, part 1: Wiping can make things worse](https://00f.net/2026/10/06/zeroization-1/)
+- [I expect rapid progress but not towards general superintelligence](https://www.interconnects.ai/p/i-expect-rapid-progress-but-not-towards)
+- [I Made Diablo First Person [video]](https://www.youtube.com/watch?v=xkpLG9keQF0)
+- [The Download: AI&#39;s refusal problem and weight-loss drug side effects](https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/)
+- [Could Nigerian eateries become as widespread as Chinese restaurants?](https://www.cnn.com/world/africa/could-nigerian-restaurants-become-as-common-as-chinese-restaurants-spc)
+- [Alan Turing – Intelligent Machinery, a Heretical Theory &lpar;1951&rpar;](https://turingarchive.kings.cam.ac.uk/publications-lectures-and-talks-amtb/amt-b-4)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

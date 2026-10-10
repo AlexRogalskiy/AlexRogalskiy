@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [OTel-Native by Design – Building Products That Export to Any Observability Stack](https://opentelemetry.io/blog/2026/otel-native-by-design/)
-- [Show HN: OldRoll, a free vintage photo editor for the browser](https://www.oldroll.io/)
-- [MXC - a sandboxed code execution system](https://github.com/microsoft/mxc)
-- [Show HN: Quake ported to safe Rust, playable in browser](https://quake-srp.pages.dev/)
-- [Keyboard differences between Windows and Macs](https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/)
-- [What should we tell our students?](https://terrytao.wordpress.com/2026/10/08/what-should-we-tell-our-students/)
-- [Reducing undefined behavior in the C language](https://lwn.net/Articles/1095811/)
-- [OpenAI, the Partition Principle, and Mathematics](https://karagila.org/2026/openai-pp/)
-- [Bevy 0.20](https://bevy.org/news/bevy-0-20/)
-- [AI-ready biological data: $1.8B global commitment](https://biohub.org/news/virtual-biology-initiative-expansion/)
+- [Computers Cannot Make Decisions](https://wiki.cateat.fish/art:computers_cannot_make_decisions)
+- [Food processing influences metabolism and brain activity](https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html)
+- [Telegram Desktop vulnerability allowed any user&#39;s file to be stolen](https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/)
+- [Put a price on breakthroughs](https://alexwang.ai/posts/put-a-price-on-breakthroughs/)
+- [REA Reverse – Engineer Anything](https://rea.tools/)
+- [Clinical trial of a prion disease drug candidate begins enrolling participants](https://www.broadinstitute.org/news/clinical-trial-prion-disease-drug-candidate-begins-enrolling-participants)
+- [Compiling Rust to readable C with Eurydice](https://lwn.net/Articles/1055211/)
+- [Atari Falcon](https://atarimuseum.nl/atari-falcon/)
+- [YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops](https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306)
+- [Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded](https://carrierexplode.com/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

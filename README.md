@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Labour wins Holborn and St Pancras byelection; Polanski ‘absolutely’ intends to remain Green party leader – UK politics live](https://www.theguardian.com/politics/live/2026/oct/09/holborn-st-pancras-byelection-result-zack-polanski-sagal-abdi-wali-uk-labour-green-party-uk-politics-latest-news)
-- [Oil prices fall as Trump pauses Iran attacks, China restarts fuel exports – business live](https://www.theguardian.com/business/live/2026/oct/09/oil-prices-crude-brent-trump-iran-us-war-midterm-elections-stocks-bonds-business-live)
-- [South Africa v Australia: first men’s cricket Test, day one – live](https://www.theguardian.com/sport/live/2026/oct/09/south-africa-v-australia-first-test-day-one-durban-kingsmead-cricket-ground-live-updates)
-- [OpenAI projected to bring in $20bn less in revenue than expected](https://www.theguardian.com/technology/2026/oct/09/openai-forecast-revenue-gap)
-- [Winner of 2026 Nobel peace prize to be announced - Europe live](https://www.theguardian.com/world/live/2026/oct/09/2026-nobel-peace-prize-winner-russia-ukraine-sudan-war-france-protests-poland-latest-news-updates)
-- [‘Is death necessary?’: why Peter Greenaway’s assisted dying drama is stuck in post-production hell](https://www.theguardian.com/film/2026/oct/09/is-death-necessary-why-peter-greenaways-assisted-dying-drama-is-stuck-in-post-production-hell)
-- [Matchbox the Movie to Poor Things: the seven best films to watch on TV this week](https://www.theguardian.com/tv-and-radio/2026/oct/09/matchbox-the-movie-to-poor-things-the-seven-best-films-to-watch-on-tv-this-week)
-- [A promising future now looks perilous for election loser Zack Polanski. He sowed, now he reaps | John Harris](https://www.theguardian.com/commentisfree/2026/oct/09/perilous-election-loser-zack-polanski-green-byelection-holborn-st-pancras)
-- [Everton owner The Friedkin Group exploring sale of club after two years](https://www.theguardian.com/football/2026/oct/09/everton-owner-friedkin-group-exploring-sale-club)
-- [Jess Williamson: A Mile South of Heaven review – alt-country singer’s love-hate affair with LA](https://www.theguardian.com/music/2026/oct/09/jess-williamson-a-mile-south-of-heaven-review)
+- [New Zealand v Australia: Bledisloe Cup rugby union international – live](https://www.theguardian.com/sport/live/2026/oct/10/nz-vs-aus-australia-wallabies-v-new-zealand-all-blacks-bledisloe-cup-rugby-union-test-live-updates)
+- [South Africa v Australia: first men’s cricket Test, day two – live](https://www.theguardian.com/sport/live/2026/oct/10/south-africa-v-australia-first-test-day-two-durban-kingsmead-cricket-ground-live-updates)
+- [Arsenal bid to close gap on City, lowly Spurs head to Manchester United – matchday live](https://www.theguardian.com/football/live/2026/oct/10/arsenal-bid-to-close-gap-on-city-lowly-spurs-head-to-manchester-united-matchday-live)
+- [‘Franchise cricket isn’t as rewarding’: Jonathan Trott on Lions pride and England ambitions](https://www.theguardian.com/sport/2026/oct/10/franchise-cricket-isnt-as-rewarding-jonathan-trott-on-lions-pride-and-england-ambitions)
+- [Recruitment boss accused of being behind ‘doxxing’ campaign against RNLI and anti-racism activists](https://www.theguardian.com/uk-news/2026/oct/10/recruitment-boss-accused-of-being-behind-doxxing-campaign-against-rnli-and-anti-racism-activists)
+- [Sliding Doors meets Biff’s Almanac: City saga stirs up a world of alternate histories | Max Rushden](https://www.theguardian.com/football/2026/oct/10/manchester-city-enzo-maresca)
+- [&#39;Gaza is a moral tear in the universe&#39; – Naomi Klein and Astra Taylor | Radical Thinking](https://www.theguardian.com/politics/video/2026/oct/10/gaza-is-a-moral-tear-in-the-universe-naomi-klein-and-astra-taylor-radical-thinking)
+- [‘Cockroach’ party rally: leader detained at airport as Delhi faces large youth protest](https://www.theguardian.com/world/2026/oct/10/cockroach-party-rally-delhi-protests-chief-election-officer-resigns)
+- [‘If voters aren’t better off by the next election, we’re screwed’: Labour insiders voice fears over budget](https://www.theguardian.com/uk-news/2026/oct/10/labour-fears-budget-burnham-healey)
+- [How to storm-proof your home, from roof tiles to garden fences](https://www.theguardian.com/money/2026/oct/10/storm-proof-home-roof-garden-pipes-flooding-winter)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Bidding war over key component could eliminate third hard disk maker](https://www.computerworld.com/article/4233232/bidding-war-over-key-component-could-eliminate-third-hard-disk-maker-2.html)
+- [Ransomware consultant said he would decrypt data, is accused of paying ransoms instead](https://www.computerworld.com/article/4233223/ransomware-consultant-said-he-would-decrypt-data-is-accused-of-paying-ransoms-instead-2.html)
+- [12 steps to smarter Google account security](https://www.computerworld.com/article/1615305/11-steps-to-smarter-google-account-security.html)
+- [Google makes its most powerful AI models pay-for-play as AI services struggle to turn users into customers](https://www.computerworld.com/article/4232971/google-makes-its-most-powerful-ai-models-pay-for-play-as-ai-services-struggle-to-turn-users-into-customers.html)
+- [Is Apple about to stitch up the smart home?](https://www.computerworld.com/article/4233204/is-apple-about-to-stitch-up-the-smart-home.html)
 - [Google wants to be the gatekeeper for enterprise AI agents](https://www.computerworld.com/article/4232827/google-wants-to-be-the-gatekeeper-for-enterprise-ai-agents.html)
 - [ICANN’s new TLD land rush draws 13 applicants for dot-agent alone, with AI a focus for new names](https://www.computerworld.com/article/4232743/icanns-new-tld-land-rush-draws-13-applicants-for-dot-agent-alone-with-ai-a-focus-for-new-names.html)
 - [Microsoft will let Copilot act on local files on Windows PCs](https://www.computerworld.com/article/4232487/microsoft-will-let-copilot-act-on-local-files-on-windows-pcs.html)
 - [Fast AI, slow rollback: the risk facing Apple IT teams](https://www.computerworld.com/article/4232577/fast-ai-slow-rollback-the-risk-facing-apple-it-teams.html)
 - [12 tricks for more efficient Android texting](https://www.computerworld.com/article/1612778/google-messages-android-texting-tricks.html)
-- [Cisco brings collaborative agents and Claude into Webex chats](https://www.computerworld.com/article/4231779/cisco-brings-collaborative-agents-and-claude-into-webex-chats.html)
-- [LibreOffice touts ‘no AI’ as a feature](https://www.computerworld.com/article/4232129/libreoffice-no-ai-is-also-a-feature.html)
-- [How to navigate the Windows Insider Program](https://www.computerworld.com/article/1712240/how-to-preview-windows-features-and-updates.html)
-- [Atlassian’s critical flaw turns eight enterprise products into one big security problem](https://www.computerworld.com/article/4231552/atlassians-critical-flaw-turns-eight-enterprise-products-into-one-big-security-problem-2.html)
-- [Tech jobs decline as US hit with rising costs and economic instability](https://www.computerworld.com/article/4231304/tech-jobs-decline-as-us-hit-with-rising-costs-and-economic-instability.html)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

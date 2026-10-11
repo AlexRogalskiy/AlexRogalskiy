@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Phone 18 Pro in Everyday Life: Upgrades That Matter – and the Ones You Can Skip](https://thetechboom.com/2026/10/10/iphone-18-pro-everyday-life-real-benefits-australia/)
-- [Careless People: An entertaining book with few surprises](https://piotrmzakrzewski.substack.com/p/careless-people-an-entertaining-book)
-- [Mac.apk – Run Android Apps Natively on Apple Silicon Macs](https://github.com/kksimp/Mac.apk-Releases)
-- [Tesla Renames FSD to &#39;Assisted Driving&#39; in Europe](https://www.reuters.com/business/autos-transportation/tesla-renames-full-self-driving-assisted-driving-europe-it-chases-clearance-2026-10-09/)
-- [Zeroization, part 1: Wiping can make things worse](https://00f.net/2026/10/06/zeroization-1/)
-- [I expect rapid progress but not towards general superintelligence](https://www.interconnects.ai/p/i-expect-rapid-progress-but-not-towards)
-- [I Made Diablo First Person [video]](https://www.youtube.com/watch?v=xkpLG9keQF0)
-- [The Download: AI&#39;s refusal problem and weight-loss drug side effects](https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/)
-- [Could Nigerian eateries become as widespread as Chinese restaurants?](https://www.cnn.com/world/africa/could-nigerian-restaurants-become-as-common-as-chinese-restaurants-spc)
-- [Alan Turing – Intelligent Machinery, a Heretical Theory &lpar;1951&rpar;](https://turingarchive.kings.cam.ac.uk/publications-lectures-and-talks-amtb/amt-b-4)
+- [My Love Letter to Sam Cooke and the Soul Stirrers&#39; &#39;Nearer to Thee&#39;](https://www.metrotimes.com/music-2/my-love-letter-to-sam-cooke-and-the-soul-stirrers-nearer-to-thee-2448650/)
+- [A simpler way to organize your work – Workflowy](https://workflowy.com/)
+- [I wish you the best in the Offline](https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/)
+- [The problem is noise, not N: why increasing the sample size isn&#39;t all that](https://statmodeling.stat.columbia.edu/2026/10/10/the-problem-is-noise-not-n-why-increasing-the-sample-size-isnt-all-that/)
+- [Token Meter](https://splunk.github.io/token-meter/)
+- [Audit the Market Before Building the Page](https://notemplate.online/?lang=en)
+- [Vow: Declare the packages and dotfiles your machines should have &lpar;without Nix&rpar;](https://github.com/Houdiee/vow)
+- [Stump the Chump with Adam Savage [video]](https://www.youtube.com/watch?v=_wGk4kFX_IA)
+- [3rd Yandex Cloud Data Center Was Hit](https://status.yandex.cloud/en/incidents/2136)
+- [Wealth Inequality](https://garyseconomics.org/introduction/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

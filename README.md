@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [New Zealand v Australia: Bledisloe Cup rugby union international – live](https://www.theguardian.com/sport/live/2026/oct/10/nz-vs-aus-australia-wallabies-v-new-zealand-all-blacks-bledisloe-cup-rugby-union-test-live-updates)
-- [South Africa v Australia: first men’s cricket Test, day two – live](https://www.theguardian.com/sport/live/2026/oct/10/south-africa-v-australia-first-test-day-two-durban-kingsmead-cricket-ground-live-updates)
-- [Arsenal bid to close gap on City, lowly Spurs head to Manchester United – matchday live](https://www.theguardian.com/football/live/2026/oct/10/arsenal-bid-to-close-gap-on-city-lowly-spurs-head-to-manchester-united-matchday-live)
-- [‘Franchise cricket isn’t as rewarding’: Jonathan Trott on Lions pride and England ambitions](https://www.theguardian.com/sport/2026/oct/10/franchise-cricket-isnt-as-rewarding-jonathan-trott-on-lions-pride-and-england-ambitions)
-- [Recruitment boss accused of being behind ‘doxxing’ campaign against RNLI and anti-racism activists](https://www.theguardian.com/uk-news/2026/oct/10/recruitment-boss-accused-of-being-behind-doxxing-campaign-against-rnli-and-anti-racism-activists)
-- [Sliding Doors meets Biff’s Almanac: City saga stirs up a world of alternate histories | Max Rushden](https://www.theguardian.com/football/2026/oct/10/manchester-city-enzo-maresca)
-- [&#39;Gaza is a moral tear in the universe&#39; – Naomi Klein and Astra Taylor | Radical Thinking](https://www.theguardian.com/politics/video/2026/oct/10/gaza-is-a-moral-tear-in-the-universe-naomi-klein-and-astra-taylor-radical-thinking)
-- [‘Cockroach’ party rally: leader detained at airport as Delhi faces large youth protest](https://www.theguardian.com/world/2026/oct/10/cockroach-party-rally-delhi-protests-chief-election-officer-resigns)
-- [‘If voters aren’t better off by the next election, we’re screwed’: Labour insiders voice fears over budget](https://www.theguardian.com/uk-news/2026/oct/10/labour-fears-budget-burnham-healey)
-- [How to storm-proof your home, from roof tiles to garden fences](https://www.theguardian.com/money/2026/oct/10/storm-proof-home-roof-garden-pipes-flooding-winter)
+- [South Africa v Australia: first men’s cricket Test, day three – live](https://www.theguardian.com/sport/live/2026/oct/11/south-africa-v-australia-first-test-day-three-durban-kingsmead-cricket-ground-live-updates)
+- [Manchester City face hostile Liverpool reception after guilty verdict – matchday live](https://www.theguardian.com/football/live/2026/oct/11/manchester-city-face-hostile-liverpool-reception-after-guilty-verdict-matchday-live)
+- [Robbie Savage the panto villain puts scepticism aside to leave Leicester reeling](https://www.theguardian.com/football/2026/oct/11/robbie-savage-peterborough-manager-leicester)
+- [‘Halloweenmas’: how the spooky one-nighter turned into a month-long spectacular](https://www.theguardian.com/business/2026/oct/11/halloween-from-one-night-to-month-long-celebration)
+- [The hill I will die on: Pumpkin-spiced latte is a con. It’s time to put an end to Big Autumn  | Chloë Hamilton](https://www.theguardian.com/commentisfree/2026/oct/11/the-hill-i-will-die-on-end-big-autumn-pumpkin-spiced-latte)
+- [‘It was a terrible thing’: Panama declares state of emergency as quake aftershocks rattle communities](https://www.theguardian.com/world/2026/oct/11/panama-eathquake-state-of-emergency)
+- [‘Cockroach’ party leader released as Delhi braces for second day of protests](https://www.theguardian.com/world/2026/oct/11/cockroach-party-leader-released-delhi-protests-second-day)
+- [Manchester-based composer creates requiem to honour enslaved Africans](https://www.theguardian.com/news/2026/oct/11/manchester-based-composer-creates-requiem-to-honour-enslaved-africans)
+- [‘We need less point scoring’: What party conference season taught us about UK climate action](https://www.theguardian.com/politics/2026/oct/11/party-conference-season-uk-climate-action-tories-greens-labour)
+- [‘You have a meeting’: the calendar phishing scam growing exponentially](https://www.theguardian.com/money/2026/oct/11/calendar-phishing-scam-meeting-renewal-google-microsoft-paypal)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Computers Cannot Make Decisions](https://wiki.cateat.fish/art:computers_cannot_make_decisions)
-- [Food processing influences metabolism and brain activity](https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html)
-- [Telegram Desktop vulnerability allowed any user&#39;s file to be stolen](https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/)
-- [Put a price on breakthroughs](https://alexwang.ai/posts/put-a-price-on-breakthroughs/)
-- [REA Reverse – Engineer Anything](https://rea.tools/)
-- [Clinical trial of a prion disease drug candidate begins enrolling participants](https://www.broadinstitute.org/news/clinical-trial-prion-disease-drug-candidate-begins-enrolling-participants)
-- [Compiling Rust to readable C with Eurydice](https://lwn.net/Articles/1055211/)
-- [Atari Falcon](https://atarimuseum.nl/atari-falcon/)
-- [YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops](https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306)
-- [Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded](https://carrierexplode.com/)
+- [3rd Yandex Cloud Data Center Was Hit](https://status.yandex.cloud/en/incidents/2136)
+- [GameBoy on E-Paper ESP32 at 30FPS [video]](https://www.youtube.com/watch?v=XiZmM6hwwAU)
+- [500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter](https://momo5502.com/posts/2026-10-09-game-decompilation/)
+- [PSPi 6 – Raspberry Pi in a PSP](https://github.com/othermod/PSPi-Version-6)
+- [Build your own decision model](https://nishtahir.com/build-your-own-decision-model/)
+- [A city-building game in which the city would prefer you didn&#39;t](https://housing.over.pizza/)
+- [Knuth reward check](https://www.thomas-huehn.com/knuth-reward-check/)
+- [Unikernels were hard. key word: were](https://ghuntley.com/unikernels/)
+- [I would like the value of my home to rise, while my property taxes fall](https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/)
+- [Talorys – A self-hosted personal AI agent on Cloudflare&#39;s free tier](https://github.com/rociiu/talorys)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

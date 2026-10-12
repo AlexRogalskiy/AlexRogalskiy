@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [My Love Letter to Sam Cooke and the Soul Stirrers&#39; &#39;Nearer to Thee&#39;](https://www.metrotimes.com/music-2/my-love-letter-to-sam-cooke-and-the-soul-stirrers-nearer-to-thee-2448650/)
-- [A simpler way to organize your work – Workflowy](https://workflowy.com/)
-- [I wish you the best in the Offline](https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/)
-- [The problem is noise, not N: why increasing the sample size isn&#39;t all that](https://statmodeling.stat.columbia.edu/2026/10/10/the-problem-is-noise-not-n-why-increasing-the-sample-size-isnt-all-that/)
-- [Token Meter](https://splunk.github.io/token-meter/)
-- [Audit the Market Before Building the Page](https://notemplate.online/?lang=en)
-- [Vow: Declare the packages and dotfiles your machines should have &lpar;without Nix&rpar;](https://github.com/Houdiee/vow)
-- [Stump the Chump with Adam Savage [video]](https://www.youtube.com/watch?v=_wGk4kFX_IA)
-- [3rd Yandex Cloud Data Center Was Hit](https://status.yandex.cloud/en/incidents/2136)
-- [Wealth Inequality](https://garyseconomics.org/introduction/)
+- [What is your seafood eating? Investigation traces problems in global feed supply](https://www.cbc.ca/news/world/outlaw-ocean-fishmeal-9.7312543)
+- [A loophole in Canada&#39;s species-at-risk law can leave wildlife in limbo](https://www.cbc.ca/news/canada/legal-loophole-undermining-species-at-risk-act-9.7368066)
+- [Girl bedrooms in the era of surveillance culture](https://sitarasgarden.substack.com/p/girl-bedrooms-in-the-era-of-surveillance)
+- [Valar Atomics sues early backer Day One Ventures over Series B pro-rata rights](https://app.dealroom.co/news/note/valar-atomics-sues-early-backer-day-one-ventures-over-series-b-allocation)
+- [A Memory of Pangea – Running a public-interest BBS in 1996](https://github.com/l3nz/pangea-2023/blob/main/Storia_en.md)
+- [Dgxtop v2: A Terminal Monitor for Nvidia GPUs on Linux and DGX Spark](https://dennysora.me/en/projects/tools/dgxtop/)
+- [Show HN: I asked Opus 5.5 to make a novel portal for NFT&#39;s that are not dead yet](https://www.jpeg.deals)
+- [A failed initial public offering from Nvidia-backed Firmus](https://www.thebignewsletter.com/p/monopoly-round-up-the-cockroaches)
+- [New certificate lifetime &lpar;letsencrypt&rpar; is 64 days. Or less](https://letsencrypt.org/2026/10/07/64-day-certs)
+- [Mistral releases open-weight Arabic realtime STT and dialect classifier](https://huggingface.co/collections/mistralai/mistral-mtnra)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

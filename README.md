@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [3rd Yandex Cloud Data Center Was Hit](https://status.yandex.cloud/en/incidents/2136)
-- [GameBoy on E-Paper ESP32 at 30FPS [video]](https://www.youtube.com/watch?v=XiZmM6hwwAU)
-- [500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter](https://momo5502.com/posts/2026-10-09-game-decompilation/)
-- [PSPi 6 – Raspberry Pi in a PSP](https://github.com/othermod/PSPi-Version-6)
-- [Build your own decision model](https://nishtahir.com/build-your-own-decision-model/)
-- [A city-building game in which the city would prefer you didn&#39;t](https://housing.over.pizza/)
-- [Knuth reward check](https://www.thomas-huehn.com/knuth-reward-check/)
-- [Unikernels were hard. key word: were](https://ghuntley.com/unikernels/)
-- [I would like the value of my home to rise, while my property taxes fall](https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/)
-- [Talorys – A self-hosted personal AI agent on Cloudflare&#39;s free tier](https://github.com/rociiu/talorys)
+- [Do not install Zod 4.6.6 – might be infected](https://github.com/colinhacks/zod/commit/d821685ea6732436fcdf786a81d076958471e467)
+- [Postgres isn&#39;t slow, your storage is](https://clickhouse.com/blog/posette-talk-recap-postgres-isnt-slow-your-storage-is)
+- [Research Firm Calls Anthropic&#39;s IPO &#39;Unprecedented Test of Investor Gullibity&#39;](https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html)
+- [Type-safe HTML templating in Zig](https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html)
+- [Will Linux phones become a viable alternative to the Android/iOS duopoly?](https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/)
+- [Crest – an Arc-inspired open-source browser for Mac](https://crestbrowser.com/)
+- [Doory – Open-Source Canva](https://github.com/shaongitbd/doory)
+- [Local Indexing to reduce tool calling and token usage](https://tedhaley.ca/pensieve/)
+- [Whatever became of holography? &lpar;2011&rpar;](https://www.americanscientist.org/article/whatever-became-of-holography)
+- [Illustration Beyond Proof](https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

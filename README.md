@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [South Africa v Australia: first men’s cricket Test, day three – live](https://www.theguardian.com/sport/live/2026/oct/11/south-africa-v-australia-first-test-day-three-durban-kingsmead-cricket-ground-live-updates)
-- [Manchester City face hostile Liverpool reception after guilty verdict – matchday live](https://www.theguardian.com/football/live/2026/oct/11/manchester-city-face-hostile-liverpool-reception-after-guilty-verdict-matchday-live)
-- [Robbie Savage the panto villain puts scepticism aside to leave Leicester reeling](https://www.theguardian.com/football/2026/oct/11/robbie-savage-peterborough-manager-leicester)
-- [‘Halloweenmas’: how the spooky one-nighter turned into a month-long spectacular](https://www.theguardian.com/business/2026/oct/11/halloween-from-one-night-to-month-long-celebration)
-- [The hill I will die on: Pumpkin-spiced latte is a con. It’s time to put an end to Big Autumn  | Chloë Hamilton](https://www.theguardian.com/commentisfree/2026/oct/11/the-hill-i-will-die-on-end-big-autumn-pumpkin-spiced-latte)
-- [‘It was a terrible thing’: Panama declares state of emergency as quake aftershocks rattle communities](https://www.theguardian.com/world/2026/oct/11/panama-eathquake-state-of-emergency)
-- [‘Cockroach’ party leader released as Delhi braces for second day of protests](https://www.theguardian.com/world/2026/oct/11/cockroach-party-leader-released-delhi-protests-second-day)
-- [Manchester-based composer creates requiem to honour enslaved Africans](https://www.theguardian.com/news/2026/oct/11/manchester-based-composer-creates-requiem-to-honour-enslaved-africans)
-- [‘We need less point scoring’: What party conference season taught us about UK climate action](https://www.theguardian.com/politics/2026/oct/11/party-conference-season-uk-climate-action-tories-greens-labour)
-- [‘You have a meeting’: the calendar phishing scam growing exponentially](https://www.theguardian.com/money/2026/oct/11/calendar-phishing-scam-meeting-renewal-google-microsoft-paypal)
+- [South Africa v Australia: first men’s cricket Test, day four – live](https://www.theguardian.com/sport/live/2026/oct/12/south-africa-v-australia-first-test-day-four-durban-kingsmead-cricket-ground-live-updates)
+- [Ukraine says Russia violated Trump’s ‘energy ceasefire’ – Europe live](https://www.theguardian.com/world/live/2026/oct/12/ukraine-russia-trump-energy-ceasefire-nato-zelenskyy-nobel-latest-news-updates)
+- [A Fidai Film review – Palestinian collage film transforms suppressed footage into works of art](https://www.theguardian.com/film/2026/oct/12/a-fidai-film-review-palestinian-collage-true-story)
+- [The Weight of Angels by John Boyne review – what if Oscar Wilde had lived?](https://www.theguardian.com/books/2026/oct/12/the-weight-of-angels-by-john-boyne-review-what-if-oscar-wilde-had-lived)
+- [AI less regulated than milk, Microsoft president says in warning over safety](https://www.theguardian.com/technology/2026/oct/12/ai-less-regulated-than-milk-microsoft-president-calls-for-tougher-rules)
+- [UK inflation pressures hit three-year high; Nobel prize for economics awarded today – business live](https://www.theguardian.com/business/live/2026/oct/12/uk-growth-inflation-pressures-oil-price-sveriges-riksbank-nobel-prize-economic-sciences-awarded-latest-news-updates)
+- [Premier League: 10 talking points from the weekend’s action](https://www.theguardian.com/football/2026/oct/12/premier-league-10-talking-points-from-the-weekend-action)
+- [‘I want to show you can rise above the hate’: Junior Nsemba on racism and his Rugby League World Cup dream](https://www.theguardian.com/sport/2026/oct/12/i-want-to-show-you-can-rise-above-the-hate-junior-nsemba-on-racism-and-his-rugby-league-world-cup-dream)
+- [The Browns are still the Browns. And Deshaun Watson is still Deshaun Watson](https://www.theguardian.com/sport/2026/oct/12/deshaun-watson-browns-jets-nfl-week-five-column)
+- [Roman fort found in Wales could prove myth of emperor’s camp is real](https://www.theguardian.com/uk-news/2026/oct/12/mythical-roman-fort-frenni-fawr-wales-emperor)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

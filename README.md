@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [South Africa v Australia: first men’s cricket Test, day four – live](https://www.theguardian.com/sport/live/2026/oct/12/south-africa-v-australia-first-test-day-four-durban-kingsmead-cricket-ground-live-updates)
-- [Ukraine says Russia violated Trump’s ‘energy ceasefire’ – Europe live](https://www.theguardian.com/world/live/2026/oct/12/ukraine-russia-trump-energy-ceasefire-nato-zelenskyy-nobel-latest-news-updates)
-- [A Fidai Film review – Palestinian collage film transforms suppressed footage into works of art](https://www.theguardian.com/film/2026/oct/12/a-fidai-film-review-palestinian-collage-true-story)
-- [The Weight of Angels by John Boyne review – what if Oscar Wilde had lived?](https://www.theguardian.com/books/2026/oct/12/the-weight-of-angels-by-john-boyne-review-what-if-oscar-wilde-had-lived)
-- [AI less regulated than milk, Microsoft president says in warning over safety](https://www.theguardian.com/technology/2026/oct/12/ai-less-regulated-than-milk-microsoft-president-calls-for-tougher-rules)
-- [UK inflation pressures hit three-year high; Nobel prize for economics awarded today – business live](https://www.theguardian.com/business/live/2026/oct/12/uk-growth-inflation-pressures-oil-price-sveriges-riksbank-nobel-prize-economic-sciences-awarded-latest-news-updates)
-- [Premier League: 10 talking points from the weekend’s action](https://www.theguardian.com/football/2026/oct/12/premier-league-10-talking-points-from-the-weekend-action)
-- [‘I want to show you can rise above the hate’: Junior Nsemba on racism and his Rugby League World Cup dream](https://www.theguardian.com/sport/2026/oct/12/i-want-to-show-you-can-rise-above-the-hate-junior-nsemba-on-racism-and-his-rugby-league-world-cup-dream)
-- [The Browns are still the Browns. And Deshaun Watson is still Deshaun Watson](https://www.theguardian.com/sport/2026/oct/12/deshaun-watson-browns-jets-nfl-week-five-column)
-- [Roman fort found in Wales could prove myth of emperor’s camp is real](https://www.theguardian.com/uk-news/2026/oct/12/mythical-roman-fort-frenni-fawr-wales-emperor)
+- [Two ships hit by drones of unknown origin off Bulgarian coast – Europe live](https://www.theguardian.com/world/live/2026/oct/13/ships-hit-sunk-drones-bulgaria-black-sea-ukraine-russia-war-france-spains-sweden-pope-leo-europe-latest-news-updates)
+- [South Africa v Australia: first men’s cricket Test, day five – live](https://www.theguardian.com/sport/live/2026/oct/13/south-africa-v-australia-first-test-day-five-durban-kingsmead-cricket-ground-live-updates)
+- [UK shoppers seek deals as grocery price inflation rises again](https://www.theguardian.com/business/2026/oct/13/uk-shoppers-deals-grocery-price-inflation-supermarkets-prices-halloween)
+- [Chip stocks slide after Broadcom boss likens AI investing to ‘casino’](https://www.theguardian.com/business/2026/oct/13/chip-stocks-broadcom-ai-samsung-shares-cxmt)
+- [It’s My Time review – Michelle Yeoh excels in Rocky-style quest to be Rubik’s Cube champ](https://www.theguardian.com/film/2026/oct/13/its-my-time-review-michelle-yeoh-excels-in-rocky-style-quest-to-be-rubiks-cube-champ)
+- [Generation Maybe by Camilla Cavendish review – what’s really behind the fertility gap?](https://www.theguardian.com/books/2026/oct/13/generation-maybe-by-camilla-cavendish-review-whats-really-behind-the-fertility-gap)
+- [IMF raises UK growth forecast as economist says Healey should ‘stay the course’](https://www.theguardian.com/business/2026/oct/13/john-healey-uk-finances-imf-gdp-growth-forecast-2026)
+- [Second wave of early prison releases under way in England and Wales](https://www.theguardian.com/society/2026/oct/13/second-wave-early-prison-releases-overcrowding-england-wales)
+- [Tyson review – deeply icky … and that’s before Trump shows up](https://www.theguardian.com/tv-and-radio/2026/oct/13/mike-tyson-review-boxing-superstar-trump-president)
+- [Latin American organised crime ‘may operate in 16 European countries’](https://www.theguardian.com/global-development/2026/oct/13/latin-america-organised-crime-cartels-drugs-cocaine-europe)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -355,6 +355,8 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [PC prices to remain elevated until end of 2027](https://www.computerworld.com/article/4233827/pc-prices-to-remain-elevated-until-end-of-2027.html)
+- [16 advanced Android messaging features you’ve probably never noticed](https://www.computerworld.com/article/4231992/google-messages-features-android.html)
 - [Bidding war over key component could eliminate third hard disk maker](https://www.computerworld.com/article/4233232/bidding-war-over-key-component-could-eliminate-third-hard-disk-maker-2.html)
 - [Ransomware consultant said he would decrypt data, is accused of paying ransoms instead](https://www.computerworld.com/article/4233223/ransomware-consultant-said-he-would-decrypt-data-is-accused-of-paying-ransoms-instead-2.html)
 - [12 steps to smarter Google account security](https://www.computerworld.com/article/1615305/11-steps-to-smarter-google-account-security.html)
@@ -363,8 +365,6 @@
 - [Google wants to be the gatekeeper for enterprise AI agents](https://www.computerworld.com/article/4232827/google-wants-to-be-the-gatekeeper-for-enterprise-ai-agents.html)
 - [ICANN’s new TLD land rush draws 13 applicants for dot-agent alone, with AI a focus for new names](https://www.computerworld.com/article/4232743/icanns-new-tld-land-rush-draws-13-applicants-for-dot-agent-alone-with-ai-a-focus-for-new-names.html)
 - [Microsoft will let Copilot act on local files on Windows PCs](https://www.computerworld.com/article/4232487/microsoft-will-let-copilot-act-on-local-files-on-windows-pcs.html)
-- [Fast AI, slow rollback: the risk facing Apple IT teams](https://www.computerworld.com/article/4232577/fast-ai-slow-rollback-the-risk-facing-apple-it-teams.html)
-- [12 tricks for more efficient Android texting](https://www.computerworld.com/article/1612778/google-messages-android-texting-tricks.html)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

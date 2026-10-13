@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [What is your seafood eating? Investigation traces problems in global feed supply](https://www.cbc.ca/news/world/outlaw-ocean-fishmeal-9.7312543)
-- [A loophole in Canada&#39;s species-at-risk law can leave wildlife in limbo](https://www.cbc.ca/news/canada/legal-loophole-undermining-species-at-risk-act-9.7368066)
-- [Girl bedrooms in the era of surveillance culture](https://sitarasgarden.substack.com/p/girl-bedrooms-in-the-era-of-surveillance)
-- [Valar Atomics sues early backer Day One Ventures over Series B pro-rata rights](https://app.dealroom.co/news/note/valar-atomics-sues-early-backer-day-one-ventures-over-series-b-allocation)
-- [A Memory of Pangea – Running a public-interest BBS in 1996](https://github.com/l3nz/pangea-2023/blob/main/Storia_en.md)
-- [Dgxtop v2: A Terminal Monitor for Nvidia GPUs on Linux and DGX Spark](https://dennysora.me/en/projects/tools/dgxtop/)
-- [Show HN: I asked Opus 5.5 to make a novel portal for NFT&#39;s that are not dead yet](https://www.jpeg.deals)
-- [A failed initial public offering from Nvidia-backed Firmus](https://www.thebignewsletter.com/p/monopoly-round-up-the-cockroaches)
-- [New certificate lifetime &lpar;letsencrypt&rpar; is 64 days. Or less](https://letsencrypt.org/2026/10/07/64-day-certs)
-- [Mistral releases open-weight Arabic realtime STT and dialect classifier](https://huggingface.co/collections/mistralai/mistral-mtnra)
+- [Sanity CMS Statistics: The Ultimate Report on AI, Market Share, and ROI](https://focusreactive.com/blog/sanity-cms-statistics-in-2026-the-ultimate-report/)
+- [Startups USUALLY start, in 12 steps](https://artifixsolutions.com/en/writings/how-startups-usually-start/)
+- [Gabriel Traveler &lpar;world travel vlogger; 3,200+ videos&rpar;](https://www.youtube.com/@GabrielTravelerVideos)
+- [Noperts: Reproducible proofs of non-Rupert polyhedra](https://github.com/tom7/noperts)
+- [Show HN: RL agent trained only in synthetic markets got better on real 2020crash](https://github.com/giack-hack/synthetic-markets-transfer)
+- [Small models may be able to self replicate within 3 months on IoT devices](https://www.aljazeera.com/economy/2026/10/13/ai-could-self-replicate-on-home-devices-within-months-anthropic-says)
+- [PGlite: Embeddable Postgres with real-time, reactive bindings](https://github.com/electric-sql/pglite)
+- [Show HN: Let Claude Code answer with a diagram page instead of a wall of text](https://github.com/QingYunA/answer-me-with-html)
+- [Where is all the new, good software?](https://www.natemeyvis.com/where-is-all-the-new-good-software/)
+- [Crypto thieves sell hardware wallets with secret eSIM](https://www.heise.de/en/news/Crypto-thieves-sell-hardware-wallets-with-secret-eSIM-11485188.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Do not install Zod 4.6.6 – might be infected](https://github.com/colinhacks/zod/commit/d821685ea6732436fcdf786a81d076958471e467)
-- [Postgres isn&#39;t slow, your storage is](https://clickhouse.com/blog/posette-talk-recap-postgres-isnt-slow-your-storage-is)
-- [Research Firm Calls Anthropic&#39;s IPO &#39;Unprecedented Test of Investor Gullibity&#39;](https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html)
-- [Type-safe HTML templating in Zig](https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html)
-- [Will Linux phones become a viable alternative to the Android/iOS duopoly?](https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/)
-- [Crest – an Arc-inspired open-source browser for Mac](https://crestbrowser.com/)
-- [Doory – Open-Source Canva](https://github.com/shaongitbd/doory)
-- [Local Indexing to reduce tool calling and token usage](https://tedhaley.ca/pensieve/)
-- [Whatever became of holography? &lpar;2011&rpar;](https://www.americanscientist.org/article/whatever-became-of-holography)
-- [Illustration Beyond Proof](https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/)
+- [Denmark set to allow return of &#39;physical force&#39; in school](https://www.lemonde.fr/en/international/article/2026/10/10/denmark-set-to-allow-the-return-of-physical-force-to-maintain-order-in-schools_6758443_4.html)
+- [A look at the math that OpenAI claims computes faster Fourier transforms](https://www.argmin.net/p/faster-fourier-transforms)
+- [AI models can provably hide arbitrary capabilities](https://arxiv.org/abs/2610.13928)
+- [Show HN: SolidCraft – Open-Source Parametric CAD in Rust &lpar;With MCP Support&rpar;](https://github.com/bherbruck/solidcraft)
+- [Blood cells from 80-year-old donor become stem cells with molecular age under 20](https://doi.org/10.1111/acel.70751)
+- [Show HN: An experimental pattern-first DAW that supports MCP](https://github.com/andrewfader/blokkily)
+- [Janas: Run LLMs larger than RAM by streaming experts from SSD](https://github.com/prabanta-dev/janas)
+- [AI is a tool and using it well takes skill](https://yyhh.org/blog/2026/10/ai-is-a-tool/)
+- [Phreak.ing – Internet Phone Switch](https://phreak.ing/)
+- [Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X](https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

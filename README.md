@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Two ships hit by drones of unknown origin off Bulgarian coast – Europe live](https://www.theguardian.com/world/live/2026/oct/13/ships-hit-sunk-drones-bulgaria-black-sea-ukraine-russia-war-france-spains-sweden-pope-leo-europe-latest-news-updates)
-- [South Africa v Australia: first men’s cricket Test, day five – live](https://www.theguardian.com/sport/live/2026/oct/13/south-africa-v-australia-first-test-day-five-durban-kingsmead-cricket-ground-live-updates)
-- [UK shoppers seek deals as grocery price inflation rises again](https://www.theguardian.com/business/2026/oct/13/uk-shoppers-deals-grocery-price-inflation-supermarkets-prices-halloween)
-- [Chip stocks slide after Broadcom boss likens AI investing to ‘casino’](https://www.theguardian.com/business/2026/oct/13/chip-stocks-broadcom-ai-samsung-shares-cxmt)
-- [It’s My Time review – Michelle Yeoh excels in Rocky-style quest to be Rubik’s Cube champ](https://www.theguardian.com/film/2026/oct/13/its-my-time-review-michelle-yeoh-excels-in-rocky-style-quest-to-be-rubiks-cube-champ)
-- [Generation Maybe by Camilla Cavendish review – what’s really behind the fertility gap?](https://www.theguardian.com/books/2026/oct/13/generation-maybe-by-camilla-cavendish-review-whats-really-behind-the-fertility-gap)
-- [IMF raises UK growth forecast as economist says Healey should ‘stay the course’](https://www.theguardian.com/business/2026/oct/13/john-healey-uk-finances-imf-gdp-growth-forecast-2026)
-- [Second wave of early prison releases under way in England and Wales](https://www.theguardian.com/society/2026/oct/13/second-wave-early-prison-releases-overcrowding-england-wales)
-- [Tyson review – deeply icky … and that’s before Trump shows up](https://www.theguardian.com/tv-and-radio/2026/oct/13/mike-tyson-review-boxing-superstar-trump-president)
-- [Latin American organised crime ‘may operate in 16 European countries’](https://www.theguardian.com/global-development/2026/oct/13/latin-america-organised-crime-cartels-drugs-cocaine-europe)
+- [Businesses could be barred from non-essential water use amid supply threat](https://www.theguardian.com/environment/2026/oct/14/businesses-barred-water-use-drought-england-supply-threat)
+- [‘At war with the obvious’: the everyday genius of William Eggleston – in pictures](https://www.theguardian.com/artanddesign/gallery/2026/oct/14/at-war-with-the-obvious-the-everyday-genius-of-william-eggleston-in-pictures)
+- [Energy bills through the roof? Five signs your house is leaking heat](https://www.theguardian.com/money/2026/oct/14/energy-bills-roof-house-leaking-heat)
+- [Ukrainian soldier to go on trial over sabotage of Nord Stream gas pipelines](https://www.theguardian.com/business/2026/oct/14/ukrainian-soldier-to-go-on-trial-over-sabotage-of-nord-stream-gas-pipelines)
+- [The Steps by Sylvester Stallone review – the inside story of Rocky](https://www.theguardian.com/books/2026/oct/14/the-steps-by-sylvester-stallone-review-the-inside-story-of-rocky)
+- [Kiri and Lou Go Raaa! review – delightful origin story for CBeebies’ prehistoric pals](https://www.theguardian.com/film/2026/oct/14/kiri-and-lou-go-raaa-review-delightful-origin-story-for-cbeebies-prehistoric-pals)
+- [How Europe’s most wanted cocaine trafficker turned Sierra Leone into the world’s first true narco state](https://www.theguardian.com/global-development/ng-interactive/2026/oct/14/europes-most-wanted-cocaine-trafficker-sierra-leone-crime-drugs-narco-state)
+- [A moment that changed me: I learned to read and write – at 42](https://www.theguardian.com/lifeandstyle/2026/oct/14/a-moment-that-changed-me-i-learned-to-read-at-42)
+- [Leaders of India’s Cockroach party jailed for violating ban on protest site](https://www.theguardian.com/world/2026/oct/14/leaders-of-indias-cockroach-party-jailed-for-violating-ban-on-protest-site)
+- [TV tonight: an Emmy-nominated US period drama finally lands on UK TV](https://www.theguardian.com/tv-and-radio/2026/oct/14/tv-tonight-an-emmy-nominated-us-period-drama-finally-lands-on-uk-tv)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

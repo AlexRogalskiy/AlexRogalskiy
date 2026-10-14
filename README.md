@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Denmark set to allow return of &#39;physical force&#39; in school](https://www.lemonde.fr/en/international/article/2026/10/10/denmark-set-to-allow-the-return-of-physical-force-to-maintain-order-in-schools_6758443_4.html)
-- [A look at the math that OpenAI claims computes faster Fourier transforms](https://www.argmin.net/p/faster-fourier-transforms)
-- [AI models can provably hide arbitrary capabilities](https://arxiv.org/abs/2610.13928)
-- [Show HN: SolidCraft – Open-Source Parametric CAD in Rust &lpar;With MCP Support&rpar;](https://github.com/bherbruck/solidcraft)
-- [Blood cells from 80-year-old donor become stem cells with molecular age under 20](https://doi.org/10.1111/acel.70751)
-- [Show HN: An experimental pattern-first DAW that supports MCP](https://github.com/andrewfader/blokkily)
-- [Janas: Run LLMs larger than RAM by streaming experts from SSD](https://github.com/prabanta-dev/janas)
-- [AI is a tool and using it well takes skill](https://yyhh.org/blog/2026/10/ai-is-a-tool/)
-- [Phreak.ing – Internet Phone Switch](https://phreak.ing/)
-- [Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X](https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html)
+- [AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs](https://github.com/android/ndk/issues/2260)
+- [Felix Rieseberg Homepage](https://felixrieseberg.com/)
+- [I built a tool to track what AI leaders say and how their views change on video](https://blumify.io/people)
+- [Do Frameworks Matter Anymore?](https://brookslybrand.com/posts/do-frameworks-matter-anymore/)
+- [Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine](https://pulseos.finance)
+- [Grace Hopper Celebration Cancelled](https://anitab.org/press-release)
+- [Recreational Programming](https://www.cphiri.dev/presentations/recreational-programming)
+- [AlphaNIST](https://alpha-nist.github.io/)
+- [PostEra &lpar;YC W20&rpar; Is Hiring AI Researchers for Drug Discovery](https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0)
+- [OpenAI engineer arrested in bugging of executive conference room](https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

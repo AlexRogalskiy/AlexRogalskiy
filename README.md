@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Sanity CMS Statistics: The Ultimate Report on AI, Market Share, and ROI](https://focusreactive.com/blog/sanity-cms-statistics-in-2026-the-ultimate-report/)
-- [Startups USUALLY start, in 12 steps](https://artifixsolutions.com/en/writings/how-startups-usually-start/)
-- [Gabriel Traveler &lpar;world travel vlogger; 3,200+ videos&rpar;](https://www.youtube.com/@GabrielTravelerVideos)
-- [Noperts: Reproducible proofs of non-Rupert polyhedra](https://github.com/tom7/noperts)
-- [Show HN: RL agent trained only in synthetic markets got better on real 2020crash](https://github.com/giack-hack/synthetic-markets-transfer)
-- [Small models may be able to self replicate within 3 months on IoT devices](https://www.aljazeera.com/economy/2026/10/13/ai-could-self-replicate-on-home-devices-within-months-anthropic-says)
-- [PGlite: Embeddable Postgres with real-time, reactive bindings](https://github.com/electric-sql/pglite)
-- [Show HN: Let Claude Code answer with a diagram page instead of a wall of text](https://github.com/QingYunA/answer-me-with-html)
-- [Where is all the new, good software?](https://www.natemeyvis.com/where-is-all-the-new-good-software/)
-- [Crypto thieves sell hardware wallets with secret eSIM](https://www.heise.de/en/news/Crypto-thieves-sell-hardware-wallets-with-secret-eSIM-11485188.html)
+- [Changes to Gemini model access and limits](https://support.google.com/gemini/answer/17004136?hl=en)
+- [Show HN:Rewind Alternative](https://citesilo.com)
+- [You can&#39;t make people more secure by making them less secure](https://pluralistic.net/2026/10/13/petards-r-us/#nobus)
+- [Multi Layer Archive from French Cybersecurity Agency](https://github.com/ANSSI-FR/MLA/)
+- [Building Git infrastructure for agent-scale development](https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/)
+- [Vocaloid DB Tool Application](https://archive.org/details/vocaloid-dbtool-application)
+- [See what your sky can capture before you buy a telescope](https://smarttelescopeatlas.com/en/)
+- [Ghost jobs in European tech: how long postings stay open](https://sottava.com/reports/ghost-jobs)
+- [Tool or automation? You make the decision each time](https://claude.ai/public/artifacts/81970b33-4697-4226-aef6-ca669d900d68)
+- [The Age of Reason Is Safely Behind Us: On defenses against distillation](https://blog.keyvan.net/p/the-age-of-reason-is-safely-behind)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

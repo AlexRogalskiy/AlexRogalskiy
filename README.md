@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Firefox takes aim at the enterprise browser market](https://www.computerworld.com/article/4234892/firefox-takes-aim-at-the-enterprise-browser-market.html)
+- [Workday launches Sana-based UI, autopilot agents, as it deepens its focus on AI](https://www.computerworld.com/article/4234434/workday-launches-sana-based-ui-autopilot-agents-as-it-deepens-its-focus-on-ai-2.html)
+- [Apple wants a seat at your home table](https://www.computerworld.com/article/4234415/apple-wants-a-seat-at-your-home-table.html)
+- [Mobile phone sales plunge to lowest level in 14 years](https://www.computerworld.com/article/4234747/cell-phone-sales-plunge-lowest-level-in-14-years.html)
+- [Microsoft separates decision-making from generative AI with a new model](https://www.computerworld.com/article/4234294/microsoft-separates-decision-making-from-generative-ai-with-a-new-model-2.html)
+- [Microsoft unveils Maia 300 AI chip](https://www.computerworld.com/article/4234722/microsoft-unveils-new-maia-300-ai-chip.html)
+- [Tether Is bridging the intelligence gap with free AI](https://www.computerworld.com/article/4234276/tether-is-bridging-the-intelligence-gap-with-free-ai.html)
 - [PC prices to remain elevated until end of 2027](https://www.computerworld.com/article/4233827/pc-prices-to-remain-elevated-until-end-of-2027.html)
 - [16 advanced Android messaging features you’ve probably never noticed](https://www.computerworld.com/article/4231992/google-messages-features-android.html)
 - [Bidding war over key component could eliminate third hard disk maker](https://www.computerworld.com/article/4233232/bidding-war-over-key-component-could-eliminate-third-hard-disk-maker-2.html)
-- [Ransomware consultant said he would decrypt data, is accused of paying ransoms instead](https://www.computerworld.com/article/4233223/ransomware-consultant-said-he-would-decrypt-data-is-accused-of-paying-ransoms-instead-2.html)
-- [12 steps to smarter Google account security](https://www.computerworld.com/article/1615305/11-steps-to-smarter-google-account-security.html)
-- [Google makes its most powerful AI models pay-for-play as AI services struggle to turn users into customers](https://www.computerworld.com/article/4232971/google-makes-its-most-powerful-ai-models-pay-for-play-as-ai-services-struggle-to-turn-users-into-customers.html)
-- [Is Apple about to stitch up the smart home?](https://www.computerworld.com/article/4233204/is-apple-about-to-stitch-up-the-smart-home.html)
-- [Google wants to be the gatekeeper for enterprise AI agents](https://www.computerworld.com/article/4232827/google-wants-to-be-the-gatekeeper-for-enterprise-ai-agents.html)
-- [ICANN’s new TLD land rush draws 13 applicants for dot-agent alone, with AI a focus for new names](https://www.computerworld.com/article/4232743/icanns-new-tld-land-rush-draws-13-applicants-for-dot-agent-alone-with-ai-a-focus-for-new-names.html)
-- [Microsoft will let Copilot act on local files on Windows PCs](https://www.computerworld.com/article/4232487/microsoft-will-let-copilot-act-on-local-files-on-windows-pcs.html)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

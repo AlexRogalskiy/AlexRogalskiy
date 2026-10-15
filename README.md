@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Businesses could be barred from non-essential water use amid supply threat](https://www.theguardian.com/environment/2026/oct/14/businesses-barred-water-use-drought-england-supply-threat)
-- [‘At war with the obvious’: the everyday genius of William Eggleston – in pictures](https://www.theguardian.com/artanddesign/gallery/2026/oct/14/at-war-with-the-obvious-the-everyday-genius-of-william-eggleston-in-pictures)
-- [Energy bills through the roof? Five signs your house is leaking heat](https://www.theguardian.com/money/2026/oct/14/energy-bills-roof-house-leaking-heat)
-- [Ukrainian soldier to go on trial over sabotage of Nord Stream gas pipelines](https://www.theguardian.com/business/2026/oct/14/ukrainian-soldier-to-go-on-trial-over-sabotage-of-nord-stream-gas-pipelines)
-- [The Steps by Sylvester Stallone review – the inside story of Rocky](https://www.theguardian.com/books/2026/oct/14/the-steps-by-sylvester-stallone-review-the-inside-story-of-rocky)
-- [Kiri and Lou Go Raaa! review – delightful origin story for CBeebies’ prehistoric pals](https://www.theguardian.com/film/2026/oct/14/kiri-and-lou-go-raaa-review-delightful-origin-story-for-cbeebies-prehistoric-pals)
-- [How Europe’s most wanted cocaine trafficker turned Sierra Leone into the world’s first true narco state](https://www.theguardian.com/global-development/ng-interactive/2026/oct/14/europes-most-wanted-cocaine-trafficker-sierra-leone-crime-drugs-narco-state)
-- [A moment that changed me: I learned to read and write – at 42](https://www.theguardian.com/lifeandstyle/2026/oct/14/a-moment-that-changed-me-i-learned-to-read-at-42)
-- [Leaders of India’s Cockroach party jailed for violating ban on protest site](https://www.theguardian.com/world/2026/oct/14/leaders-of-indias-cockroach-party-jailed-for-violating-ban-on-protest-site)
-- [TV tonight: an Emmy-nominated US period drama finally lands on UK TV](https://www.theguardian.com/tv-and-radio/2026/oct/14/tv-tonight-an-emmy-nominated-us-period-drama-finally-lands-on-uk-tv)
+- [UK economy unexpectedly grows in August despite fall in consumer spending](https://www.theguardian.com/business/2026/oct/15/uk-economy-unexpectedly-grows-01-in-august-despite-fuel-hit-to-household-budgets)
+- [Pretty in pink: the best of PhotoMonth 2026 – in pictures](https://www.theguardian.com/artanddesign/gallery/2026/oct/15/best-of-photomonth-2026-london-photography-festival-in-pictures)
+- [‘I introduce myself to anyone who looks a bit jumpy’: a security guard’s take on anti-shoplifting fixes](https://www.theguardian.com/business/2026/oct/15/security-guard-take-on-anti-shoplifting-fixes)
+- [No timeline for lifting Land Registry paywall as ownership remains opaque](https://www.theguardian.com/environment/2026/oct/15/no-timeline-for-lifting-land-registry-paywall-as-ownership-remains-opaque)
+- [The Welsh mountain inn that helped conquer Everest](https://www.theguardian.com/travel/2026/oct/15/pen-y-gwryd-hotel-snowdonia-wales-everest-mountaineering)
+- [The Floating World by Ben Eastham review – a compelling debut of art’s relation to money and power](https://www.theguardian.com/books/2026/oct/15/the-floating-world-by-ben-eastham-review-a-compelling-debut-of-arts-relation-to-money-and-power)
+- [By Design review – Juliette Lewis turns into a chair in hypnotic Lynchian drama](https://www.theguardian.com/film/2026/oct/15/by-design-review-juliette-lewis-turns-into-a-chair-in-hypnotic-lynchian-drama)
+- [Burnham v Swinney: will the UK PM overshadow the SNP’s conference?](https://www.theguardian.com/politics/2026/oct/15/andy-burnham-scotland-visit-snp-conference)
+- [Her royal heilness: Berlin show revisits the artist who turned the Queen into a Nazi](https://www.theguardian.com/artanddesign/2026/oct/15/the-queen-nazi-far-right-hamlet-christoph-schlingensief-berlin)
+- [Poland looks to economic heights in a country transformed since Soviet days](https://www.theguardian.com/world/2026/oct/15/poland-economy-heights-transformed-regional-tech-hub)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs](https://github.com/android/ndk/issues/2260)
-- [Felix Rieseberg Homepage](https://felixrieseberg.com/)
-- [I built a tool to track what AI leaders say and how their views change on video](https://blumify.io/people)
-- [Do Frameworks Matter Anymore?](https://brookslybrand.com/posts/do-frameworks-matter-anymore/)
-- [Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine](https://pulseos.finance)
-- [Grace Hopper Celebration Cancelled](https://anitab.org/press-release)
-- [Recreational Programming](https://www.cphiri.dev/presentations/recreational-programming)
-- [AlphaNIST](https://alpha-nist.github.io/)
-- [PostEra &lpar;YC W20&rpar; Is Hiring AI Researchers for Drug Discovery](https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0)
-- [OpenAI engineer arrested in bugging of executive conference room](https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/)
+- [Show HN: Flipflop, iroh-powered persistent tunnels for filesharing](https://github.com/andunieee/flipflop)
+- [Show HN: My Terminal Themes Web App](https://news.ycombinator.com/item?id=50098454)
+- [The Double Headed Stack Allocator](https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/)
+- [LFM2.5-24B-A2B: Built for fast on-device agents](https://www.liquid.ai/blog/lfm2-5-24b-a2b)
+- [Tiny Little Office](https://tinylittleoffice.com/)
+- [We’re releasing Jev 1.14.0 along with experimental features for dreamers](https://typesafe.ai/blog/jev-1-14)
+- [OpenCode 2.0](https://anoma.ly/notes/opencode-2-0/)
+- [Anthropic&#39;s Scion is heavily inspired by Mononoke](https://sunshowers.io/posts/anthropic-mononoke/)
+- [Fancy Curl Sites](https://nytpu.com/gemlog/2026-03-18)
+- [Things to know when you get cancer](https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

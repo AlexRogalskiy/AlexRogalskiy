@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [As phishing-as-a-service goes industrial, Microsoft takes down a marketplace behind 1 billion messages](https://www.computerworld.com/article/4235537/as-phishing-as-a-service-goes-industrial-microsoft-takes-down-a-marketplace-behind-1-billion-messages-2.html)
+- [Linus Torvalds has started using AI to develop the Linux kernel](https://www.computerworld.com/article/4235401/linus-torvalds-has-started-using-ai-to-develop-the-linux-kernel.html)
+- [The EU is investigating OpenAI and Anthropic following incidents involving AI agents](https://www.computerworld.com/article/4235408/the-eu-is-investigating-openai-and-anthropic-following-incidents-involving-ai-agents.html)
+- [Google positions Gemini 4 Argon for long-horizon agentic work](https://www.computerworld.com/article/4235123/google-positions-gemini-4-argon-for-long-horizon-agentic-work-2.html)
+- [China clears Alibaba’s Qwen AI just in time for iPhone Duo](https://www.computerworld.com/article/4235207/china-clears-alibabas-qwen-ai-just-in-time-for-iphone-duo.html)
+- [Microsoft knows it robbed publishers to train AI. It just doesn’t care](https://www.computerworld.com/article/4234688/microsoft-knows-it-robbed-publishers-to-train-ai-it-just-doesnt-care.html)
+- [Anthropic warns: AI models may soon spread among smart devices in the home](https://www.computerworld.com/article/4235166/anthropic-warns-ai-models-may-soon-spread-among-smart-devices-in-the-home.html)
+- [An Android widget revelation](https://www.computerworld.com/article/4234625/android-widget.html)
 - [Firefox takes aim at the enterprise browser market](https://www.computerworld.com/article/4234892/firefox-takes-aim-at-the-enterprise-browser-market.html)
 - [Workday launches Sana-based UI, autopilot agents, as it deepens its focus on AI](https://www.computerworld.com/article/4234434/workday-launches-sana-based-ui-autopilot-agents-as-it-deepens-its-focus-on-ai-2.html)
-- [Apple wants a seat at your home table](https://www.computerworld.com/article/4234415/apple-wants-a-seat-at-your-home-table.html)
-- [Mobile phone sales plunge to lowest level in 14 years](https://www.computerworld.com/article/4234747/cell-phone-sales-plunge-lowest-level-in-14-years.html)
-- [Microsoft separates decision-making from generative AI with a new model](https://www.computerworld.com/article/4234294/microsoft-separates-decision-making-from-generative-ai-with-a-new-model-2.html)
-- [Microsoft unveils Maia 300 AI chip](https://www.computerworld.com/article/4234722/microsoft-unveils-new-maia-300-ai-chip.html)
-- [Tether Is bridging the intelligence gap with free AI](https://www.computerworld.com/article/4234276/tether-is-bridging-the-intelligence-gap-with-free-ai.html)
-- [PC prices to remain elevated until end of 2027](https://www.computerworld.com/article/4233827/pc-prices-to-remain-elevated-until-end-of-2027.html)
-- [16 advanced Android messaging features you’ve probably never noticed](https://www.computerworld.com/article/4231992/google-messages-features-android.html)
-- [Bidding war over key component could eliminate third hard disk maker](https://www.computerworld.com/article/4233232/bidding-war-over-key-component-could-eliminate-third-hard-disk-maker-2.html)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Changes to Gemini model access and limits](https://support.google.com/gemini/answer/17004136?hl=en)
-- [Show HN:Rewind Alternative](https://citesilo.com)
-- [You can&#39;t make people more secure by making them less secure](https://pluralistic.net/2026/10/13/petards-r-us/#nobus)
-- [Multi Layer Archive from French Cybersecurity Agency](https://github.com/ANSSI-FR/MLA/)
-- [Building Git infrastructure for agent-scale development](https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/)
-- [Vocaloid DB Tool Application](https://archive.org/details/vocaloid-dbtool-application)
-- [See what your sky can capture before you buy a telescope](https://smarttelescopeatlas.com/en/)
-- [Ghost jobs in European tech: how long postings stay open](https://sottava.com/reports/ghost-jobs)
-- [Tool or automation? You make the decision each time](https://claude.ai/public/artifacts/81970b33-4697-4226-aef6-ca669d900d68)
-- [The Age of Reason Is Safely Behind Us: On defenses against distillation](https://blog.keyvan.net/p/the-age-of-reason-is-safely-behind)
+- [From manual tweaks to Ansible roles: first steps](https://gshell.dev/blog/ansible-first-steps/)
+- [The Baked Narrative: On the Homogenization of Visual Imagination](https://medium.com/@smoking2man/the-baked-narrative-on-the-homogenization-of-visual-imagination-in-generative-image-models-d56d4098dd73)
+- [Hinton: We&#39;re creating alien beings. I&#39;m willing to be selfish and choose humans](https://www.theguardian.com/us-news/2026/oct/13/geoffrey-hinton-trump-ai-tech)
+- [Farmfence – Bot/Scraper Detection](https://www.npmjs.com/package/farmfence)
+- [China Has a Blueprint for the Future – 3D printing &lpar;additive manufacturing&rpar;](https://www.newsweek.com/china-has-a-blueprint-for-the-future-12570833)
+- [AI-powered law firms draw lawyers from big firms](https://www.reuters.com/legal/legalindustry/ai-powered-law-firms-draw-lawyers-big-firms-2026-10-14/)
+- [WIF-01 Challenge for ACME &lpar;RFC 8555&rpar;](https://blog.zaita.io/the-acme-wif-challenge-is-amazing.html)
+- [Stop Solving Microservice Consistency in Your Application Code](https://medium.com/scalar-engineering/stop-solving-microservice-consistency-in-your-application-code-784f73802a4a)
+- [I gained 20k impressions on my LinkedIn profile in 100 days](https://news.ycombinator.com/item?id=50100060)
+- [AI crippleware in Hebrew and Chinese translations](https://fromhebrew.com)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Show HN: Flipflop, iroh-powered persistent tunnels for filesharing](https://github.com/andunieee/flipflop)
-- [Show HN: My Terminal Themes Web App](https://news.ycombinator.com/item?id=50098454)
-- [The Double Headed Stack Allocator](https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/)
-- [LFM2.5-24B-A2B: Built for fast on-device agents](https://www.liquid.ai/blog/lfm2-5-24b-a2b)
-- [Tiny Little Office](https://tinylittleoffice.com/)
-- [We’re releasing Jev 1.14.0 along with experimental features for dreamers](https://typesafe.ai/blog/jev-1-14)
-- [OpenCode 2.0](https://anoma.ly/notes/opencode-2-0/)
-- [Anthropic&#39;s Scion is heavily inspired by Mononoke](https://sunshowers.io/posts/anthropic-mononoke/)
-- [Fancy Curl Sites](https://nytpu.com/gemlog/2026-03-18)
-- [Things to know when you get cancer](https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/)
+- [Tesla makes cars that fly? [video]](https://www.youtube.com/watch?v=7p5LxFdc-Qg)
+- [Comparing Chromium Development at Google and Igalia](https://lwn.net/Articles/1094721/)
+- [Any window from your Mac, on your iPhone and iPad](https://github.com/Saffsanity/sill)
+- [Thank You, Deno](https://www.vlt.io/blog/competition-keeps-javascript-moving)
+- [RPKI now protects 70% of internet routes](https://ipinfo.io/blog/rpki-protects-70-internet-routes)
+- [Business accounts will consent to Meta scraping their websites Starting Oct. 30](https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/)
+- [BeBox is a Haiku application that emulates Be Inc.&#39;s BeBox](https://github.com/johnrash/bebox)
+- [What I self-host](https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/)
+- [New Withings Users Must Pay $99/Year for Apple Health Syncing](https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts)
+- [Someone on Torrent Sites Kept Fucking with My Sonarr](https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

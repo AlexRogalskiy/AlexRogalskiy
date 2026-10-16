@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [UK economy unexpectedly grows in August despite fall in consumer spending](https://www.theguardian.com/business/2026/oct/15/uk-economy-unexpectedly-grows-01-in-august-despite-fuel-hit-to-household-budgets)
-- [Pretty in pink: the best of PhotoMonth 2026 – in pictures](https://www.theguardian.com/artanddesign/gallery/2026/oct/15/best-of-photomonth-2026-london-photography-festival-in-pictures)
-- [‘I introduce myself to anyone who looks a bit jumpy’: a security guard’s take on anti-shoplifting fixes](https://www.theguardian.com/business/2026/oct/15/security-guard-take-on-anti-shoplifting-fixes)
-- [No timeline for lifting Land Registry paywall as ownership remains opaque](https://www.theguardian.com/environment/2026/oct/15/no-timeline-for-lifting-land-registry-paywall-as-ownership-remains-opaque)
-- [The Welsh mountain inn that helped conquer Everest](https://www.theguardian.com/travel/2026/oct/15/pen-y-gwryd-hotel-snowdonia-wales-everest-mountaineering)
-- [The Floating World by Ben Eastham review – a compelling debut of art’s relation to money and power](https://www.theguardian.com/books/2026/oct/15/the-floating-world-by-ben-eastham-review-a-compelling-debut-of-arts-relation-to-money-and-power)
-- [By Design review – Juliette Lewis turns into a chair in hypnotic Lynchian drama](https://www.theguardian.com/film/2026/oct/15/by-design-review-juliette-lewis-turns-into-a-chair-in-hypnotic-lynchian-drama)
-- [Burnham v Swinney: will the UK PM overshadow the SNP’s conference?](https://www.theguardian.com/politics/2026/oct/15/andy-burnham-scotland-visit-snp-conference)
-- [Her royal heilness: Berlin show revisits the artist who turned the Queen into a Nazi](https://www.theguardian.com/artanddesign/2026/oct/15/the-queen-nazi-far-right-hamlet-christoph-schlingensief-berlin)
-- [Poland looks to economic heights in a country transformed since Soviet days](https://www.theguardian.com/world/2026/oct/15/poland-economy-heights-transformed-regional-tech-hub)
+- [Trump calls Ukraine’s resumption of strikes on Russian oil refineries a ‘disgrace’](https://www.theguardian.com/world/2026/oct/16/trump-calls-ukraines-resumption-of-strikes-on-russian-oil-refineries-a-disgrace)
+- [UK ‘an outlier in Europe’ for letting Farage and other politicians present TV shows](https://www.theguardian.com/media/2026/oct/16/uk-outlier-europe-farage-politicians-present-tv-shows-gb-news)
+- [Jonathan Glazer says Israel’s retaliation over NAZA ‘more venal’ than anticipated](https://www.theguardian.com/film/2026/oct/16/jonathan-glazer-says-israels-retaliation-over-naza-more-venal-than-anticipated)
+- [Dogmatic Nordic liberals v eastern family values: culture-clash drama Fjord touches nerves in Norway and Romania](https://www.theguardian.com/film/2026/oct/16/fjord-cristian-mungiu-london-film-festival)
+- [Victoria Beckham, ‘duck face’ and onesies: nine things Zoolander predicted about fashion](https://www.theguardian.com/fashion/2026/oct/15/trump-duck-face-and-demna-nine-things-zoolander-got-right-about-the-state-of-fashion)
+- [Make Me Well by Xand van Tulleken – an eye-opening takedown of wellness myths](https://www.theguardian.com/books/2026/oct/16/make-me-well-by-xand-van-tulleken-an-eye-opening-takedown-of-wellness-myths)
+- [Four years after the promises of Cop15, our biodiversity targets are slipping away](https://www.theguardian.com/environment/2026/oct/14/four-years-after-the-promises-of-cop15-our-biodiversity-targets-are-slipping-away)
+- [The Audacity to Nobody Wants This: the seven best shows to stream this week](https://www.theguardian.com/tv-and-radio/2026/oct/16/the-audacity-to-nobody-wants-this-the-seven-best-shows-to-stream-this-week)
+- [‘A haven of soft light, warm sunshine and sandy beaches’: readers’ favourite autumn escapes](https://www.theguardian.com/travel/2026/oct/16/readers-favourite-sunny-autumn-holidays)
+- [Tories call for 5-year freeze on minimum wage to tackle youth unemployment](https://www.theguardian.com/society/2026/oct/16/tories-call-5-year-freeze-minimum-wage-youth-unemployment)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [From manual tweaks to Ansible roles: first steps](https://gshell.dev/blog/ansible-first-steps/)
-- [The Baked Narrative: On the Homogenization of Visual Imagination](https://medium.com/@smoking2man/the-baked-narrative-on-the-homogenization-of-visual-imagination-in-generative-image-models-d56d4098dd73)
-- [Hinton: We&#39;re creating alien beings. I&#39;m willing to be selfish and choose humans](https://www.theguardian.com/us-news/2026/oct/13/geoffrey-hinton-trump-ai-tech)
-- [Farmfence – Bot/Scraper Detection](https://www.npmjs.com/package/farmfence)
-- [China Has a Blueprint for the Future – 3D printing &lpar;additive manufacturing&rpar;](https://www.newsweek.com/china-has-a-blueprint-for-the-future-12570833)
-- [AI-powered law firms draw lawyers from big firms](https://www.reuters.com/legal/legalindustry/ai-powered-law-firms-draw-lawyers-big-firms-2026-10-14/)
-- [WIF-01 Challenge for ACME &lpar;RFC 8555&rpar;](https://blog.zaita.io/the-acme-wif-challenge-is-amazing.html)
-- [Stop Solving Microservice Consistency in Your Application Code](https://medium.com/scalar-engineering/stop-solving-microservice-consistency-in-your-application-code-784f73802a4a)
-- [I gained 20k impressions on my LinkedIn profile in 100 days](https://news.ycombinator.com/item?id=50100060)
-- [AI crippleware in Hebrew and Chinese translations](https://fromhebrew.com)
+- [Proofpoint to buy Varonis Systems in $6.3B all-cash deal](https://www.reuters.com/legal/transactional/proofpoint-buy-varonis-systems-63-billion-all-cash-deal-2026-10-15/)
+- [Computers Made of Human Brain Tissue Identify Braille Letters in Breakthrough](https://www.404media.co/computers-made-of-human-brain-tissue-identify-braille-letters-in-breakthrough/)
+- [KNOD: Offloading Linux network packet processing to AMD GPUs](https://www.servers99.com/blog/linux-knod-amd-gpu-network-offload/)
+- [Sift – Analyse every file with local LLMs](https://github.com/c0decave/sift)
+- [Ukraine&#39;s Starlink restrictions raise suspicions of Musk, Trump retaliation](https://www.axios.com/2026/10/14/ukraine-starlink-zelensky-spacex-musk-trump)
+- [The Tesla Roadster 2 Is Here–and It Flies](https://www.wired.com/story/tesla-roadster-2-launch/)
+- [Tesla&#39;s Flying Roadster Revealed [video]](https://www.youtube.com/watch?v=TWHXrLzUKJc)
+- [Technical Cofounder Wanted](https://inspiration-agent.emergent.host/)
+- [OpenClaw Enterprise – The Open Agent Platform](https://openclaw.ai/blog/openclaw-enterprise)
+- [Thoughts on Man&#39;s Purpose in Life](https://govleaders.org/rickover-purpose.php)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

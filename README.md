@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Proofpoint to buy Varonis Systems in $6.3B all-cash deal](https://www.reuters.com/legal/transactional/proofpoint-buy-varonis-systems-63-billion-all-cash-deal-2026-10-15/)
-- [Computers Made of Human Brain Tissue Identify Braille Letters in Breakthrough](https://www.404media.co/computers-made-of-human-brain-tissue-identify-braille-letters-in-breakthrough/)
-- [KNOD: Offloading Linux network packet processing to AMD GPUs](https://www.servers99.com/blog/linux-knod-amd-gpu-network-offload/)
-- [Sift – Analyse every file with local LLMs](https://github.com/c0decave/sift)
-- [Ukraine&#39;s Starlink restrictions raise suspicions of Musk, Trump retaliation](https://www.axios.com/2026/10/14/ukraine-starlink-zelensky-spacex-musk-trump)
-- [The Tesla Roadster 2 Is Here–and It Flies](https://www.wired.com/story/tesla-roadster-2-launch/)
-- [Tesla&#39;s Flying Roadster Revealed [video]](https://www.youtube.com/watch?v=TWHXrLzUKJc)
-- [Technical Cofounder Wanted](https://inspiration-agent.emergent.host/)
-- [OpenClaw Enterprise – The Open Agent Platform](https://openclaw.ai/blog/openclaw-enterprise)
-- [Thoughts on Man&#39;s Purpose in Life](https://govleaders.org/rickover-purpose.php)
+- [Rival Radar](https://rivalradar.me)
+- [Why Math Dumped OpenAI](https://raymyers.org/post/math-dumped-openai/)
+- [OpenAI outperforms Chinese models in cost per task](https://nikvdp.com/notes/cost-per-task-is-the-number-to-watch/)
+- [Fired Georgia officer gave Flock surveillance camera access to ICE agent husband](https://www.wbrc.com/2026/10/16/police-officer-fired-sharing-flock-login-with-husband-who-works-ice/)
+- [&#39;I&#39;m Not Going to Have Blood on My Hands&#39;](https://www.cjr.org/the-interview/nicole-noren-espn-producer-quit-protest-sports-betting-gambling-addiction-draftkings-im-not-going-to-have-blood-on-my-hands.php)
+- [Dha Best](http://kitchencooking.42web.io/)
+- [Ask HN: What is the most useful thing AI has done for you?](https://news.ycombinator.com/item?id=50128412)
+- [Show HN: Cwist; a hobby-grade C17 web framework that keeps your app simple](https://github.com/c4punks/cwist)
+- [Letters with &#39;suspicious substances&#39; sent to US senators and election offices](https://www.bbc.com/news/articles/cmq8n513x523o)
+- [Veda: An Operating System with Soul](https://github.com/vahmoh25/Veda/blob/main/documentation/images/paint.png)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

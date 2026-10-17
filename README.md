@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Trump calls Ukraine’s resumption of strikes on Russian oil refineries a ‘disgrace’](https://www.theguardian.com/world/2026/oct/16/trump-calls-ukraines-resumption-of-strikes-on-russian-oil-refineries-a-disgrace)
-- [UK ‘an outlier in Europe’ for letting Farage and other politicians present TV shows](https://www.theguardian.com/media/2026/oct/16/uk-outlier-europe-farage-politicians-present-tv-shows-gb-news)
-- [Jonathan Glazer says Israel’s retaliation over NAZA ‘more venal’ than anticipated](https://www.theguardian.com/film/2026/oct/16/jonathan-glazer-says-israels-retaliation-over-naza-more-venal-than-anticipated)
-- [Dogmatic Nordic liberals v eastern family values: culture-clash drama Fjord touches nerves in Norway and Romania](https://www.theguardian.com/film/2026/oct/16/fjord-cristian-mungiu-london-film-festival)
-- [Victoria Beckham, ‘duck face’ and onesies: nine things Zoolander predicted about fashion](https://www.theguardian.com/fashion/2026/oct/15/trump-duck-face-and-demna-nine-things-zoolander-got-right-about-the-state-of-fashion)
-- [Make Me Well by Xand van Tulleken – an eye-opening takedown of wellness myths](https://www.theguardian.com/books/2026/oct/16/make-me-well-by-xand-van-tulleken-an-eye-opening-takedown-of-wellness-myths)
-- [Four years after the promises of Cop15, our biodiversity targets are slipping away](https://www.theguardian.com/environment/2026/oct/14/four-years-after-the-promises-of-cop15-our-biodiversity-targets-are-slipping-away)
-- [The Audacity to Nobody Wants This: the seven best shows to stream this week](https://www.theguardian.com/tv-and-radio/2026/oct/16/the-audacity-to-nobody-wants-this-the-seven-best-shows-to-stream-this-week)
-- [‘A haven of soft light, warm sunshine and sandy beaches’: readers’ favourite autumn escapes](https://www.theguardian.com/travel/2026/oct/16/readers-favourite-sunny-autumn-holidays)
-- [Tories call for 5-year freeze on minimum wage to tackle youth unemployment](https://www.theguardian.com/society/2026/oct/16/tories-call-5-year-freeze-minimum-wage-youth-unemployment)
+- [Australia v New Zealand: Bledisloe Cup rugby union international – live](https://www.theguardian.com/sport/live/2026/oct/17/aus-vs-nz-australia-wallabies-v-new-zealand-all-blacks-bledisloe-cup-rugby-union-test-live-updates)
+- [Palantir patient data tech rejected by many NHS trusts in England](https://www.theguardian.com/technology/2026/oct/17/palantir-patient-data-tech-rejected-by-many-nhs-trusts-in-england)
+- [Which coffee chain was founded in London in 1971? The Saturday quiz](https://www.theguardian.com/games/2026/oct/17/which-coffee-chain-was-founded-in-london-in-1971-the-saturday-quiz)
+- [The Audacity: this witty tech-bro takedown from a Succession writer is packed with glorious one-liners](https://www.theguardian.com/tv-and-radio/2026/oct/17/the-audacity-this-witty-tech-bro-takedown-from-a-succession-writer-is-packed-with-glorious-one-liners)
+- [A Greece for all seasons: my autumn roadtrip through the Peloponnese](https://www.theguardian.com/travel/2026/oct/17/peloponnese-greece-road-trip-autumn)
+- [The Guide #265: Your favourite record labels, from Motown to Flying Nun](https://www.theguardian.com/culture/2026/oct/16/your-favourite-record-labels-from-motown-to-flying-nun)
+- [UK sees growing demand for help bridging gap between end of work and start of pension](https://www.theguardian.com/money/2026/oct/17/uk-pensions-retire-early-fixed-term-annuities)
+- [TV tonight: the return of hit mystery thriller Dark Winds](https://www.theguardian.com/tv-and-radio/2026/oct/17/tv-tonight-the-return-of-hit-mystery-thriller-dark-winds)
+- [Caring is sharing – baby’s first cold: the Edith Pritchett cartoon](https://www.theguardian.com/lifeandstyle/picture/2026/oct/17/caring-is-sharing-babys-first-cold-the-edith-pritchett-cartoon)
+- [Jackson Boxer’s vegan recipe for poached leeks with pickled pear and hazelnuts](https://www.theguardian.com/food/2026/oct/17/poached-leeks-pickled-pear-hazelnuts-vegan-recipe-jackson-boxer)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

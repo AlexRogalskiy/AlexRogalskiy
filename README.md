@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [October Patch Tuesday: 1,408 CVEs, 1 exploited flaw and a SharePoint surprise](https://www.computerworld.com/article/4236627/october-patch-tuesday-1408-cves-1-exploited-flaw-and-a-sharepoint-surprise.html)
+- [Microsoft’s Patch Tuesday updates: Keeping up with the latest fixes](https://www.computerworld.com/article/3481576/microsofts-patch-tuesday-updates-keeping-up-with-the-latest-fixes.html)
+- [AI datacenter capex will far exceed forecast revenue through 2030](https://www.computerworld.com/article/4236641/ai-datacenter-capex-will-far-exceed-forecast-revenue-through-2030-3.html)
+- [Apple’s big AI week ends with Mac + Muse AI supercomputers](https://www.computerworld.com/article/4236527/apples-big-ai-week-ends-with-mac-muse-ai-supercomputers.html)
+- [Xbow spent $40K on AI and cracked Google Chrome wide open](https://www.computerworld.com/article/4236592/xbow-spent-40k-on-ai-and-cracked-google-chrome-wide-open.html)
+- [Microsoft Surface Laptop Ultra: NVIDIA RTX Spark means business](https://www.computerworld.com/article/4235992/microsoft-surface-laptop-ultra-nvidia-rtx-spark-means-business.html)
+- [Windows 11 has now been optimized for 8 gigabytes of memory](https://www.computerworld.com/article/4236672/windows-11-has-now-been-optimized-for-8-gigabytes-of-memory.html)
+- [AI bot company Character.ai seeks bankruptcy protection](https://www.computerworld.com/article/4236464/ai-bot-company-character-ai-seeks-bankruptcy-protection.html)
+- [6 wild ways to make Android widgets more useful](https://www.computerworld.com/article/1613762/android-widgets-useful.html)
 - [No click required: How the ad industry became a pipeline for mercenary spyware](https://www.computerworld.com/article/4236153/no-click-required-how-the-ad-industry-became-a-pipeline-for-mercenary-spyware-2.html)
-- [TypeSafe’s Jev ‘even more susceptible to attack’ than LLMs, says security vendor](https://www.computerworld.com/article/4236138/typesafes-jev-even-more-susceptible-to-attack-than-llms-says-security-vendor-3.html)
-- [ServiceNow makes it easier to build AI agents, gives them verifiable identities](https://www.computerworld.com/article/4235892/servicenow-makes-it-easier-to-build-ai-agents-gives-them-verifiable-identities-3.html)
-- [Apple’s ‘Minions’ tech turns idle Macs into an AI data center](https://www.computerworld.com/article/4235901/apples-minions-tech-turns-idle-macs-into-an-ai-data-center.html)
-- [Arm-Qualcomm legal fight ends in limited verdict, larger stakes remain](https://www.computerworld.com/article/4235761/arm-qualcomm-legal-fight-ends-in-limited-verdict-larger-stakes-remain.html)
-- [Copilot pricing gets complicated](https://www.computerworld.com/article/4235201/microsofts-agent-push-complicates-copilot-pricing.html)
-- [As phishing-as-a-service goes industrial, Microsoft takes down a marketplace behind 1 billion messages](https://www.computerworld.com/article/4235537/as-phishing-as-a-service-goes-industrial-microsoft-takes-down-a-marketplace-behind-1-billion-messages-2.html)
-- [Linus Torvalds has started using AI to develop the Linux kernel](https://www.computerworld.com/article/4235401/linus-torvalds-has-started-using-ai-to-develop-the-linux-kernel.html)
-- [The EU is investigating OpenAI and Anthropic following incidents involving AI agents](https://www.computerworld.com/article/4235408/the-eu-is-investigating-openai-and-anthropic-following-incidents-involving-ai-agents.html)
-- [Google positions Gemini 4 Argon for long-horizon agentic work](https://www.computerworld.com/article/4235123/google-positions-gemini-4-argon-for-long-horizon-agentic-work-2.html)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

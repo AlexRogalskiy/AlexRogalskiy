@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Tesla makes cars that fly? [video]](https://www.youtube.com/watch?v=7p5LxFdc-Qg)
-- [Comparing Chromium Development at Google and Igalia](https://lwn.net/Articles/1094721/)
-- [Any window from your Mac, on your iPhone and iPad](https://github.com/Saffsanity/sill)
-- [Thank You, Deno](https://www.vlt.io/blog/competition-keeps-javascript-moving)
-- [RPKI now protects 70% of internet routes](https://ipinfo.io/blog/rpki-protects-70-internet-routes)
-- [Business accounts will consent to Meta scraping their websites Starting Oct. 30](https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/)
-- [BeBox is a Haiku application that emulates Be Inc.&#39;s BeBox](https://github.com/johnrash/bebox)
-- [What I self-host](https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/)
-- [New Withings Users Must Pay $99/Year for Apple Health Syncing](https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts)
-- [Someone on Torrent Sites Kept Fucking with My Sonarr](https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup)
+- [Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware](https://llmspeed.dev/)
+- [&quot;In every study that considered the question&quot;](https://unsung.aresluna.org/in-every-study-that-considered-the-question/)
+- [Butlerian Jihad](https://dune.fandom.com/wiki/Butlerian_Jihad)
+- [Flexport Is Hiring a Biz Ops Leader in Office of CEO](https://www.flexport.com/company/careers/)
+- [Nine-Inch Snails](https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/)
+- [FLUX 3 Image Klein](https://bfl.ai/blog/flux-3-image-klein)
+- [How the Claude Code team does code review](https://claude.dev/blog/solving-code-review-at-anthropic/)
+- [You could have invented transformers from memory](https://alexwang.ai/posts/associative-memory/)
+- [Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins)
+- [C++26: The New Debugging Header](https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

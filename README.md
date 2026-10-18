@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Rival Radar](https://rivalradar.me)
-- [Why Math Dumped OpenAI](https://raymyers.org/post/math-dumped-openai/)
-- [OpenAI outperforms Chinese models in cost per task](https://nikvdp.com/notes/cost-per-task-is-the-number-to-watch/)
-- [Fired Georgia officer gave Flock surveillance camera access to ICE agent husband](https://www.wbrc.com/2026/10/16/police-officer-fired-sharing-flock-login-with-husband-who-works-ice/)
-- [&#39;I&#39;m Not Going to Have Blood on My Hands&#39;](https://www.cjr.org/the-interview/nicole-noren-espn-producer-quit-protest-sports-betting-gambling-addiction-draftkings-im-not-going-to-have-blood-on-my-hands.php)
-- [Dha Best](http://kitchencooking.42web.io/)
-- [Ask HN: What is the most useful thing AI has done for you?](https://news.ycombinator.com/item?id=50128412)
-- [Show HN: Cwist; a hobby-grade C17 web framework that keeps your app simple](https://github.com/c4punks/cwist)
-- [Letters with &#39;suspicious substances&#39; sent to US senators and election offices](https://www.bbc.com/news/articles/cmq8n513x523o)
-- [Veda: An Operating System with Soul](https://github.com/vahmoh25/Veda/blob/main/documentation/images/paint.png)
+- [The Case for Ownership-First Development](https://twitter.com/i/status/2111574407814803936)
+- [Neural networks are not already clean](https://www.lesswrong.com/posts/Dkh7pXKjoNWkkxQDz/neural-networks-are-not-already-clean)
+- [Show HN: Guidedog an OSS static site generator for rst and md](https://github.com/insanai/guidedog)
+- [Explorable Explanations](https://worrydream.com/ExplorableExplanations/#update-2024)
+- [DeepSeek search and fetch – $0.75 per 1000 successful requests](https://api-docs.deepseek.com/guides/search/)
+- [Real World Haskell, Modernized](https://jaror.codeberg.page/real-world-haskell/)
+- [America&#39;s $10T AI infrastructure boom is starting to fray](https://www.ft.com/content/9ea5a37d-15c9-4d5b-94d6-719048c9cd3c)
+- [He Jiankui Affair](https://en.wikipedia.org/wiki/He_Jiankui_affair)
+- [JAXA is about to perform a Phobos sample return mission](https://www.science.org/content/article/audacious-space-heist-japan-aims-bring-home-bits-martian-moon)
+- [A Princeton PhD Applied to 2,300 Jobs. He Still Can&#39;t Get One](https://www.wsj.com/lifestyle/careers/labor-market-freeze-phd-graduate-f8e17d7c)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

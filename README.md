@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Australia v New Zealand: Bledisloe Cup rugby union international – live](https://www.theguardian.com/sport/live/2026/oct/17/aus-vs-nz-australia-wallabies-v-new-zealand-all-blacks-bledisloe-cup-rugby-union-test-live-updates)
-- [Palantir patient data tech rejected by many NHS trusts in England](https://www.theguardian.com/technology/2026/oct/17/palantir-patient-data-tech-rejected-by-many-nhs-trusts-in-england)
-- [Which coffee chain was founded in London in 1971? The Saturday quiz](https://www.theguardian.com/games/2026/oct/17/which-coffee-chain-was-founded-in-london-in-1971-the-saturday-quiz)
-- [The Audacity: this witty tech-bro takedown from a Succession writer is packed with glorious one-liners](https://www.theguardian.com/tv-and-radio/2026/oct/17/the-audacity-this-witty-tech-bro-takedown-from-a-succession-writer-is-packed-with-glorious-one-liners)
-- [A Greece for all seasons: my autumn roadtrip through the Peloponnese](https://www.theguardian.com/travel/2026/oct/17/peloponnese-greece-road-trip-autumn)
-- [The Guide #265: Your favourite record labels, from Motown to Flying Nun](https://www.theguardian.com/culture/2026/oct/16/your-favourite-record-labels-from-motown-to-flying-nun)
-- [UK sees growing demand for help bridging gap between end of work and start of pension](https://www.theguardian.com/money/2026/oct/17/uk-pensions-retire-early-fixed-term-annuities)
-- [TV tonight: the return of hit mystery thriller Dark Winds](https://www.theguardian.com/tv-and-radio/2026/oct/17/tv-tonight-the-return-of-hit-mystery-thriller-dark-winds)
-- [Caring is sharing – baby’s first cold: the Edith Pritchett cartoon](https://www.theguardian.com/lifeandstyle/picture/2026/oct/17/caring-is-sharing-babys-first-cold-the-edith-pritchett-cartoon)
-- [Jackson Boxer’s vegan recipe for poached leeks with pickled pear and hazelnuts](https://www.theguardian.com/food/2026/oct/17/poached-leeks-pickled-pear-hazelnuts-vegan-recipe-jackson-boxer)
+- [Heat pumps and insulation would cut UK living costs more than new oilfields, study suggests](https://www.theguardian.com/environment/2026/oct/18/heat-pumps-insulation-warm-homes-plan-beat-new-oilfields-cutting-uk-cost-of-living-study)
+- [‘It was like your worst nightmare’ – Ellie and Natasia on mums, music … and failing to make Bob Mortimer smile](https://www.theguardian.com/tv-and-radio/2026/oct/18/it-was-like-your-worst-nightmare-ellie-and-natasia-on-mums-music-and-failing-to-make-bob-mortimer-smile)
+- [‘We hang on to summer a little longer here’: five of the best places for autumn sun in Europe and Turkey](https://www.theguardian.com/travel/2026/oct/18/five-best-places-for-autumn-sun-europe-turkey)
+- [The last lace mill – in pictures](https://www.theguardian.com/artanddesign/gallery/2026/oct/18/the-last-lace-mill-in-pictures)
+- [£3,500 and no work done: the offer to help that’s really a roofing scam](https://www.theguardian.com/money/2026/oct/18/suspected-roofing-frauds-top-citizens-advice-scam-list)
+- [‘How do we welcome the stranger, with humanity or anger?’ The forgotten Germans who found refuge in Ireland](https://www.theguardian.com/stage/2026/oct/18/refuge-theatre-play-staatstheater-mainz)
+- [TV tonight: a very moreish drama about a hellish birthday party](https://www.theguardian.com/tv-and-radio/2026/oct/18/tv-tonight-a-very-moreish-drama-about-a-hellish-birthday-party)
+- [Intensifying drone attacks on ships in Black Sea bring war ever closer to Nato shores](https://www.theguardian.com/business/2026/oct/18/drone-attacks-ships-black-sea-russia-ukraine-war)
+- [There’s a lot of racism, a lot of hatred’: Far right gains predicted as Israel heads to the polls](https://www.theguardian.com/world/2026/oct/18/theres-a-lot-of-racism-a-lot-of-hatred-far-right-gains-predicted-as-israel-heads-to-the-polls)
+- [My longterm boyfriend died last year. Is it too soon to date someone new? | Ask Annalisa Barbieri](https://www.theguardian.com/lifeandstyle/2026/oct/18/dating-after-grief-annalisa-barbieri)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

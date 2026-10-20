@@ -355,6 +355,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Meta’s new commercial terms say if its AI makes a mistake, it will legally be the customer’s fault](https://www.computerworld.com/article/4237414/metas-new-commercial-terms-say-if-its-ai-makes-a-mistake-it-will-legally-be-the-customers-fault.html)
+- [4 ways to tame shadow AI &lpar;hint: you need them all&rpar;](https://www.computerworld.com/article/4229136/best-way-to-tame-shadow-ai-is-to-combine-tactics.html)
+- [Apple is gaining as the industry shrinks](https://www.computerworld.com/article/4237119/apple-is-gaining-as-the-industry-shrinks.html)
 - [October Patch Tuesday: 1,408 CVEs, 1 exploited flaw and a SharePoint surprise](https://www.computerworld.com/article/4236627/october-patch-tuesday-1408-cves-1-exploited-flaw-and-a-sharepoint-surprise.html)
 - [Microsoft’s Patch Tuesday updates: Keeping up with the latest fixes](https://www.computerworld.com/article/3481576/microsofts-patch-tuesday-updates-keeping-up-with-the-latest-fixes.html)
 - [AI datacenter capex will far exceed forecast revenue through 2030](https://www.computerworld.com/article/4236641/ai-datacenter-capex-will-far-exceed-forecast-revenue-through-2030-3.html)
@@ -362,9 +365,6 @@
 - [Xbow spent $40K on AI and cracked Google Chrome wide open](https://www.computerworld.com/article/4236592/xbow-spent-40k-on-ai-and-cracked-google-chrome-wide-open.html)
 - [Microsoft Surface Laptop Ultra: NVIDIA RTX Spark means business](https://www.computerworld.com/article/4235992/microsoft-surface-laptop-ultra-nvidia-rtx-spark-means-business.html)
 - [Windows 11 has now been optimized for 8 gigabytes of memory](https://www.computerworld.com/article/4236672/windows-11-has-now-been-optimized-for-8-gigabytes-of-memory.html)
-- [AI bot company Character.ai seeks bankruptcy protection](https://www.computerworld.com/article/4236464/ai-bot-company-character-ai-seeks-bankruptcy-protection.html)
-- [6 wild ways to make Android widgets more useful](https://www.computerworld.com/article/1613762/android-widgets-useful.html)
-- [No click required: How the ad industry became a pipeline for mercenary spyware](https://www.computerworld.com/article/4236153/no-click-required-how-the-ad-industry-became-a-pipeline-for-mercenary-spyware-2.html)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

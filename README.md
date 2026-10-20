@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Heat pumps and insulation would cut UK living costs more than new oilfields, study suggests](https://www.theguardian.com/environment/2026/oct/18/heat-pumps-insulation-warm-homes-plan-beat-new-oilfields-cutting-uk-cost-of-living-study)
-- [‘It was like your worst nightmare’ – Ellie and Natasia on mums, music … and failing to make Bob Mortimer smile](https://www.theguardian.com/tv-and-radio/2026/oct/18/it-was-like-your-worst-nightmare-ellie-and-natasia-on-mums-music-and-failing-to-make-bob-mortimer-smile)
-- [‘We hang on to summer a little longer here’: five of the best places for autumn sun in Europe and Turkey](https://www.theguardian.com/travel/2026/oct/18/five-best-places-for-autumn-sun-europe-turkey)
-- [The last lace mill – in pictures](https://www.theguardian.com/artanddesign/gallery/2026/oct/18/the-last-lace-mill-in-pictures)
-- [£3,500 and no work done: the offer to help that’s really a roofing scam](https://www.theguardian.com/money/2026/oct/18/suspected-roofing-frauds-top-citizens-advice-scam-list)
-- [‘How do we welcome the stranger, with humanity or anger?’ The forgotten Germans who found refuge in Ireland](https://www.theguardian.com/stage/2026/oct/18/refuge-theatre-play-staatstheater-mainz)
-- [TV tonight: a very moreish drama about a hellish birthday party](https://www.theguardian.com/tv-and-radio/2026/oct/18/tv-tonight-a-very-moreish-drama-about-a-hellish-birthday-party)
-- [Intensifying drone attacks on ships in Black Sea bring war ever closer to Nato shores](https://www.theguardian.com/business/2026/oct/18/drone-attacks-ships-black-sea-russia-ukraine-war)
-- [There’s a lot of racism, a lot of hatred’: Far right gains predicted as Israel heads to the polls](https://www.theguardian.com/world/2026/oct/18/theres-a-lot-of-racism-a-lot-of-hatred-far-right-gains-predicted-as-israel-heads-to-the-polls)
-- [My longterm boyfriend died last year. Is it too soon to date someone new? | Ask Annalisa Barbieri](https://www.theguardian.com/lifeandstyle/2026/oct/18/dating-after-grief-annalisa-barbieri)
+- [UK unemployment rate falls in pre-budget boost, but firms keep cutting vacancies in ‘jobs drought’ – business live](https://www.theguardian.com/business/live/2026/oct/20/uk-unemployment-rate-pre-budget-boost-wages-vacancies-latest-news-updates)
+- [Do not be distracted by global crises. Nature cannot wait for a better year – we must act now | Steven Guilbeault](https://www.theguardian.com/environment/2026/oct/20/do-not-be-distracted-by-other-global-crises-nature-cannot-wait-for-a-better-year-we-must-act-now)
+- [The CO2-absorbing building made of old sinks, windscreens and toilets: Ghent’s £17m design museum is a green marvel](https://www.theguardian.com/artanddesign/2026/oct/20/ghent-design-museum-co2-absorbing-recycling)
+- [Dwight Yorke: ‘I’m not a kid trying to get into management – I’m a manager’](https://www.theguardian.com/football/2026/oct/20/dwight-yorke-interview-manager-ghana-trinidad-and-tobago)
+- [Villarreal’s Iñigo Pérez ready to meet Iraola again in test of old bond](https://www.theguardian.com/football/2026/oct/20/liverpool-villarreal-inigo-perez-iraola-test-of-old-bond)
+- [What’s the future for the Green Party? Should it be socialism? | Joe Todd](https://www.theguardian.com/commentisfree/2026/oct/20/future-green-party-socialism-labour-radical-reform)
+- [She was harassed for crude remarks about Modi at a Cockroach protest. Now she can’t leave home](https://www.theguardian.com/world/2026/oct/19/this-is-india-student-protests-abuse-modi-cockroach-protests)
+- [Helen Haines loses leg as surgeons fight to save the other after alleged attack in Wangaratta](https://www.theguardian.com/australia-news/2026/oct/20/helen-haines-mp-alleged-attack-wangaratta-surgery-ntwnfb)
+- [Why have countries been pushing for a vital global climate report to be delayed?](https://www.theguardian.com/environment/2026/oct/20/countries-pushing-vital-global-climate-report-delayed)
+- [‘How green are our valleys?’: in the footsteps of miners on south Wales’s new forest trail](https://www.theguardian.com/travel/2026/oct/20/south-wales-new-forest-trail-old-mining-villages)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

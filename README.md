@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Case for Ownership-First Development](https://twitter.com/i/status/2111574407814803936)
-- [Neural networks are not already clean](https://www.lesswrong.com/posts/Dkh7pXKjoNWkkxQDz/neural-networks-are-not-already-clean)
-- [Show HN: Guidedog an OSS static site generator for rst and md](https://github.com/insanai/guidedog)
-- [Explorable Explanations](https://worrydream.com/ExplorableExplanations/#update-2024)
-- [DeepSeek search and fetch – $0.75 per 1000 successful requests](https://api-docs.deepseek.com/guides/search/)
-- [Real World Haskell, Modernized](https://jaror.codeberg.page/real-world-haskell/)
-- [America&#39;s $10T AI infrastructure boom is starting to fray](https://www.ft.com/content/9ea5a37d-15c9-4d5b-94d6-719048c9cd3c)
-- [He Jiankui Affair](https://en.wikipedia.org/wiki/He_Jiankui_affair)
-- [JAXA is about to perform a Phobos sample return mission](https://www.science.org/content/article/audacious-space-heist-japan-aims-bring-home-bits-martian-moon)
-- [A Princeton PhD Applied to 2,300 Jobs. He Still Can&#39;t Get One](https://www.wsj.com/lifestyle/careers/labor-market-freeze-phd-graduate-f8e17d7c)
+- [Show HN: I removed every float from GPT-2 for identical neural compression](https://github.com/tac0mania/taco)
+- [Vibecoding an LLVM TypeScript Compiler](https://news.ycombinator.com/item?id=50162270)
+- [What if the world hadn&#39;t built wind and solar?](https://www.theclimatebrink.com/p/what-if-the-world-hadnt-built-wind)
+- [Pikeru – a file picker with thumbnails, semantic search, and image viewer](https://github.com/dvhar/pikeru)
+- [Protect Your PII? Use Pirate Face to Scrub Prompts to Openrouter](https://pirateface.co/inference)
+- [Google Cloud networking is down in various regions](https://news.ycombinator.com/item?id=50162230)
+- [Learn the Tool Before You Fight It](https://medium.com/teatime-history/learn-the-tool-before-you-fight-it-61462bf50a1b)
+- [Hey](https://news.ycombinator.com/item?id=50162219)
+- [Vite+ an excellent toolchain for AI agent development](https://janmichalek.com/blog/vite-plus-agentni-vyvoj?lang=en)
+- [MicroG: Free-libre re-implementation of Google&#39;s proprietary Android user space](https://github.com/microg/GmsCore/wiki)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

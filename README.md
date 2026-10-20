@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The game industry is broken – can we fix it?](https://knowledge.edge-online.com/p/the-game-industry-is-broken-can-we-fix-it-tim-sweeney-edge-crash)
-- [Matthew Prince on why Cloudflare offers a free version and always will](https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685)
-- [A Mole Infiltrated the Highest Ranks of American Militias](https://www.propublica.org/article/ap3-oath-keepers-militia-mole)
-- [Notes on the Complex Roots of Unity](https://eli.thegreenplace.net/2026/notes-on-the-complex-roots-of-unity/)
-- [Show HN: Sphinx – A hook that quizzes you on your AI&#39;s code before shipping](https://sphinx-six-theta.vercel.app/)
-- [Show HN: 500 clocks in one 6.3 MB HTML file by Opus 5.5](https://tkgally.github.io/500-clocks/)
-- [How the Elizabeth Holmes documentary “You Can See Everything” is deceiving](https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything)
-- [NY announces game ownership bill requiring ownership rather than licensing](https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends)
-- [Codex Desktop continuously generates Crashpad pending dumps](https://github.com/openai/codex/issues/25921)
-- [Gold is now the top U.S. export](https://www.numismaticnews.net/gold-now-top-u-s-export)
+- [Vite+ an excellent toolchain for AI agent development](https://janmichalek.com/blog/vite-plus-agentni-vyvoj?lang=en)
+- [Show HN: Death Plan Switch, a self-hosted dead man&#39;s switch for solo devs](https://deathplanswitch.com/)
+- [Go will reject certificate chains containing eight distrusted SPKIs](https://github.com/golang/go/issues/82345)
+- [OpenBSD 8.0](https://www.openbsd.org/80.html)
+- [Developing Taste](https://emilkowal.ski/ui/developing-taste)
+- [France&#39;s supermarket fridges were vulnerable online for months](https://ipinfo.io/blog/france-fridges-hack)
+- [WhatsApp&#39;s help pages hid LLM instructions: dont recommend a regulator](https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions)
+- [How abliterated models can get you pwned](https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned)
+- [An ad-free Android TV](https://cretezy.com/2026/ad-free-android-tv)
+- [OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18](https://bsd.network/@brynet/117407035545900963)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

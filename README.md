@@ -355,6 +355,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [AI didn’t create your IT data problem, it just exposed it](https://www.computerworld.com/article/4237895/ai-didnt-create-your-it-data-problem-it-just-exposed-it.html)
+- [The Googlebook work test: Can an Android laptop get the job done?](https://www.computerworld.com/article/4237256/googlebook-work-test-can-an-android-laptop-get-the-job-done.html)
+- [Follow the money: Who benefits from the UK’s Apple Pay crackdown?](https://www.computerworld.com/article/4237750/follow-the-money-who-benefits-from-the-uks-apple-pay-crackdown.html)
 - [Meta’s new commercial terms say if its AI makes a mistake, it will legally be the customer’s fault](https://www.computerworld.com/article/4237414/metas-new-commercial-terms-say-if-its-ai-makes-a-mistake-it-will-legally-be-the-customers-fault.html)
 - [4 ways to tame shadow AI &lpar;hint: you need them all&rpar;](https://www.computerworld.com/article/4229136/best-way-to-tame-shadow-ai-is-to-combine-tactics.html)
 - [Apple is gaining as the industry shrinks](https://www.computerworld.com/article/4237119/apple-is-gaining-as-the-industry-shrinks.html)
@@ -362,9 +365,6 @@
 - [Microsoft’s Patch Tuesday updates: Keeping up with the latest fixes](https://www.computerworld.com/article/3481576/microsofts-patch-tuesday-updates-keeping-up-with-the-latest-fixes.html)
 - [AI datacenter capex will far exceed forecast revenue through 2030](https://www.computerworld.com/article/4236641/ai-datacenter-capex-will-far-exceed-forecast-revenue-through-2030-3.html)
 - [Apple’s big AI week ends with Mac + Muse AI supercomputers](https://www.computerworld.com/article/4236527/apples-big-ai-week-ends-with-mac-muse-ai-supercomputers.html)
-- [Xbow spent $40K on AI and cracked Google Chrome wide open](https://www.computerworld.com/article/4236592/xbow-spent-40k-on-ai-and-cracked-google-chrome-wide-open.html)
-- [Microsoft Surface Laptop Ultra: NVIDIA RTX Spark means business](https://www.computerworld.com/article/4235992/microsoft-surface-laptop-ultra-nvidia-rtx-spark-means-business.html)
-- [Windows 11 has now been optimized for 8 gigabytes of memory](https://www.computerworld.com/article/4236672/windows-11-has-now-been-optimized-for-8-gigabytes-of-memory.html)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

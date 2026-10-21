@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Vite+ an excellent toolchain for AI agent development](https://janmichalek.com/blog/vite-plus-agentni-vyvoj?lang=en)
-- [Show HN: Death Plan Switch, a self-hosted dead man&#39;s switch for solo devs](https://deathplanswitch.com/)
-- [Go will reject certificate chains containing eight distrusted SPKIs](https://github.com/golang/go/issues/82345)
-- [OpenBSD 8.0](https://www.openbsd.org/80.html)
-- [Developing Taste](https://emilkowal.ski/ui/developing-taste)
-- [France&#39;s supermarket fridges were vulnerable online for months](https://ipinfo.io/blog/france-fridges-hack)
-- [WhatsApp&#39;s help pages hid LLM instructions: dont recommend a regulator](https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions)
-- [How abliterated models can get you pwned](https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned)
-- [An ad-free Android TV](https://cretezy.com/2026/ad-free-android-tv)
-- [OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18](https://bsd.network/@brynet/117407035545900963)
+- [Pillowfort Is Closing](https://www.pillowfort.social/posts/8413273)
+- [Battlezone Online: BZFlag in the Browser](https://github.com/timriker/bzo)
+- [Nexus-CLI – Pure Go Bridge to DeepSeek R1/V3 with Claude Code and Ollama Support](https://github.com/xamrayev/nexus-cli)
+- [Setting Up SSH Keys on macOS with Touch ID](https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/)
+- [Using Claude to reduce the attack surface of code](https://www.anthropic.com/research/attack-surface-reduction)
+- [C# now beats Rust on WASM size](https://github.com/zion-sati/NetWasm)
+- [In Hilbert space, all things are quantumly possible](https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/)
+- [The Future of CSS](https://www.joshwcomeau.com/css/interop-2027/)
+- [Good type against all odds](https://unsung.aresluna.org/good-type-against-all-odds/)
+- [Muse exposes users&#39; personal and business secrets when they share conversations](https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

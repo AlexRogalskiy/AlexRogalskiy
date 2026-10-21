@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [UK unemployment rate falls in pre-budget boost, but firms keep cutting vacancies in ‘jobs drought’ – business live](https://www.theguardian.com/business/live/2026/oct/20/uk-unemployment-rate-pre-budget-boost-wages-vacancies-latest-news-updates)
-- [Do not be distracted by global crises. Nature cannot wait for a better year – we must act now | Steven Guilbeault](https://www.theguardian.com/environment/2026/oct/20/do-not-be-distracted-by-other-global-crises-nature-cannot-wait-for-a-better-year-we-must-act-now)
-- [The CO2-absorbing building made of old sinks, windscreens and toilets: Ghent’s £17m design museum is a green marvel](https://www.theguardian.com/artanddesign/2026/oct/20/ghent-design-museum-co2-absorbing-recycling)
-- [Dwight Yorke: ‘I’m not a kid trying to get into management – I’m a manager’](https://www.theguardian.com/football/2026/oct/20/dwight-yorke-interview-manager-ghana-trinidad-and-tobago)
-- [Villarreal’s Iñigo Pérez ready to meet Iraola again in test of old bond](https://www.theguardian.com/football/2026/oct/20/liverpool-villarreal-inigo-perez-iraola-test-of-old-bond)
-- [What’s the future for the Green Party? Should it be socialism? | Joe Todd](https://www.theguardian.com/commentisfree/2026/oct/20/future-green-party-socialism-labour-radical-reform)
-- [She was harassed for crude remarks about Modi at a Cockroach protest. Now she can’t leave home](https://www.theguardian.com/world/2026/oct/19/this-is-india-student-protests-abuse-modi-cockroach-protests)
-- [Helen Haines loses leg as surgeons fight to save the other after alleged attack in Wangaratta](https://www.theguardian.com/australia-news/2026/oct/20/helen-haines-mp-alleged-attack-wangaratta-surgery-ntwnfb)
-- [Why have countries been pushing for a vital global climate report to be delayed?](https://www.theguardian.com/environment/2026/oct/20/countries-pushing-vital-global-climate-report-delayed)
-- [‘How green are our valleys?’: in the footsteps of miners on south Wales’s new forest trail](https://www.theguardian.com/travel/2026/oct/20/south-wales-new-forest-trail-old-mining-villages)
+- [Helen Haines has lost both legs after Monday’s alleged attack but ‘her heart and mind in good shape’, husband says](https://www.theguardian.com/australia-news/2026/oct/21/helen-haines-loses-both-legs-after-mondays-alleged-attack-ntwnfb)
+- [UK approves Jackdaw gasfield in North Sea](https://www.theguardian.com/environment/2026/oct/21/jackdaw-gasfield-in-north-sea-approved)
+- [UK inflation rises by more than expected to 3.5% as war drives up fuel prices](https://www.theguardian.com/business/2026/oct/21/inflation-rises-middle-east-conflict-drives-up-fuel-prices)
+- [Three ideas for how to deal with Thames Water](https://www.theguardian.com/business/2026/oct/21/three-ideas-for-how-to-deal-with-thames-water)
+- [This Norwegian village is one of the fastest-warming places on Earth. How can its people save it?](https://www.theguardian.com/environment/2026/oct/21/norway-svalbard-environment-longyearbyen-climate-heating-glacier-permafrost)
+- [On Another Planet They Can Save Me by Lieke Marsman review – an astonishing memoir of terminal illness](https://www.theguardian.com/books/2026/oct/21/on-another-planet-they-can-save-me-by-lieke-marsman-review-an-astonishing-memoir-of-terminal-illness)
+- [Jess Phillips hopes supreme court ‘sees sense’ and overturns domestic abuse ruling](https://www.theguardian.com/society/2026/oct/21/jess-phillips-hopes-supreme-court-sees-sense-and-overturns-domestic-abuse-ruling)
+- [I closed my eyes and stuck my finger on a map of western Europe: ‘This is where we’re going on holiday!’](https://www.theguardian.com/travel/2026/oct/21/cevennes-mountains-south-central-france-holiday)
+- [‘I can charge my car for £6’: could new rules cut costs for EV drivers?](https://www.theguardian.com/money/2026/oct/21/charge-car-new-rules-ev-drivers-cross-pavement-gully)
+- [Light, camera … razor blades?! How photography became an art form – in pictures](https://www.theguardian.com/artanddesign/gallery/2026/oct/21/light-camera-razor-blades-how-photography-became-an-art-form-in-pictures-light-and-magic-birth-of-art-photography-tate-modern)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

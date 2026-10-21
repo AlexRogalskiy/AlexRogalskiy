@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: I removed every float from GPT-2 for identical neural compression](https://github.com/tac0mania/taco)
-- [Vibecoding an LLVM TypeScript Compiler](https://news.ycombinator.com/item?id=50162270)
-- [What if the world hadn&#39;t built wind and solar?](https://www.theclimatebrink.com/p/what-if-the-world-hadnt-built-wind)
-- [Pikeru – a file picker with thumbnails, semantic search, and image viewer](https://github.com/dvhar/pikeru)
-- [Protect Your PII? Use Pirate Face to Scrub Prompts to Openrouter](https://pirateface.co/inference)
-- [Google Cloud networking is down in various regions](https://news.ycombinator.com/item?id=50162230)
-- [Learn the Tool Before You Fight It](https://medium.com/teatime-history/learn-the-tool-before-you-fight-it-61462bf50a1b)
-- [Hey](https://news.ycombinator.com/item?id=50162219)
-- [Vite+ an excellent toolchain for AI agent development](https://janmichalek.com/blog/vite-plus-agentni-vyvoj?lang=en)
-- [MicroG: Free-libre re-implementation of Google&#39;s proprietary Android user space](https://github.com/microg/GmsCore/wiki)
+- [Show HN: See AI trends heat up in real time](https://ai-news.jagular.io)
+- [Ossdoctor – a health check for open source repos that fixes what&#39;s missing](https://github.com/jalensuggs77/ossdoctor)
+- [Burbank&#39;s Real-Time Intelligence Center](https://burbank-ledger.pages.dev/articles/rtic-surveillance/)
+- [Show HN: I spent two days building this online multiplayer game with Claude Code](https://pawnrush.xiaohan.dev/)
+- [Show HN: Grafista – AI graphic designer built to fight slop](https://grafista.io/)
+- [OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty](https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/)
+- [Launch HN: Alter &lpar;YC S25&rpar; – Access control for multi-user agents](https://alterauth.com/)
+- [Port of Coss.ui Components to Svelte](https://www.cossui-svelte.com/)
+- [In Race with U.S., China Struggles to Recruit Foreign A.I. Researchers](https://www.nytimes.com/2026/10/06/science/china-ai-research-recruitment.html)
+- [Building a Custom 3D-Printed Micro Helicopter [video]](https://www.youtube.com/watch?v=8z4W0IoFQ4g)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

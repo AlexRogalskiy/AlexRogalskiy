@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: See AI trends heat up in real time](https://ai-news.jagular.io)
-- [Ossdoctor – a health check for open source repos that fixes what&#39;s missing](https://github.com/jalensuggs77/ossdoctor)
-- [Burbank&#39;s Real-Time Intelligence Center](https://burbank-ledger.pages.dev/articles/rtic-surveillance/)
-- [Show HN: I spent two days building this online multiplayer game with Claude Code](https://pawnrush.xiaohan.dev/)
-- [Show HN: Grafista – AI graphic designer built to fight slop](https://grafista.io/)
-- [OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty](https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/)
-- [Launch HN: Alter &lpar;YC S25&rpar; – Access control for multi-user agents](https://alterauth.com/)
-- [Port of Coss.ui Components to Svelte](https://www.cossui-svelte.com/)
-- [In Race with U.S., China Struggles to Recruit Foreign A.I. Researchers](https://www.nytimes.com/2026/10/06/science/china-ai-research-recruitment.html)
-- [Building a Custom 3D-Printed Micro Helicopter [video]](https://www.youtube.com/watch?v=8z4W0IoFQ4g)
+- [Accrescent: A novel Android app store focused on security, privacy and usability](https://accrescent.app/)
+- [Apple Ordered to Open iPhone to Rival App Stores in Australia](https://forums.macrumors.com/threads/apple-ordered-to-open-iphone-to-rival-app-stores-in-australia.2492354/)
+- [As Politicians Argue About China, US Patients Find Cutting-Edge Treatment There](https://kffhealthnews.org/health-industry/china-cancer-drugs-foreign-travel-pharma-biotech-fda-regulation-clinical-trials/)
+- [Show HN: git-found, fixes &quot;Repository not found&quot; with multiple GitHub accounts](https://github.com/advaith334/git-found)
+- [Raycast Glaze](https://www.raycast.com/blog/meet-glaze)
+- [AI firms say UK has a year to head off datacentre protests](https://www.theguardian.com/uk-news/2026/oct/22/ai-firms-say-uk-has-a-year-to-head-off-datacentre-protests-before-construction-is-threatened)
+- [The CMS Isn&#39;t the Problem. The Boundary Is](https://compiledrogue.com/articles/the-cms-isnt-the-problem-the-boundary-is/)
+- [Mortal Kompute](https://mortalkompute.xyz/)
+- [IBM CEO says open weight models are now irresistibly good and cheap on-prem](https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640)
+- [AI revealed 400 years of seafaring history](https://www.bbc.com/news/articles/cr93z9zq5l9jo)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

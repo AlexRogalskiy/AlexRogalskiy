@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Helen Haines has lost both legs after Monday’s alleged attack but ‘her heart and mind in good shape’, husband says](https://www.theguardian.com/australia-news/2026/oct/21/helen-haines-loses-both-legs-after-mondays-alleged-attack-ntwnfb)
-- [UK approves Jackdaw gasfield in North Sea](https://www.theguardian.com/environment/2026/oct/21/jackdaw-gasfield-in-north-sea-approved)
-- [UK inflation rises by more than expected to 3.5% as war drives up fuel prices](https://www.theguardian.com/business/2026/oct/21/inflation-rises-middle-east-conflict-drives-up-fuel-prices)
-- [Three ideas for how to deal with Thames Water](https://www.theguardian.com/business/2026/oct/21/three-ideas-for-how-to-deal-with-thames-water)
-- [This Norwegian village is one of the fastest-warming places on Earth. How can its people save it?](https://www.theguardian.com/environment/2026/oct/21/norway-svalbard-environment-longyearbyen-climate-heating-glacier-permafrost)
-- [On Another Planet They Can Save Me by Lieke Marsman review – an astonishing memoir of terminal illness](https://www.theguardian.com/books/2026/oct/21/on-another-planet-they-can-save-me-by-lieke-marsman-review-an-astonishing-memoir-of-terminal-illness)
-- [Jess Phillips hopes supreme court ‘sees sense’ and overturns domestic abuse ruling](https://www.theguardian.com/society/2026/oct/21/jess-phillips-hopes-supreme-court-sees-sense-and-overturns-domestic-abuse-ruling)
-- [I closed my eyes and stuck my finger on a map of western Europe: ‘This is where we’re going on holiday!’](https://www.theguardian.com/travel/2026/oct/21/cevennes-mountains-south-central-france-holiday)
-- [‘I can charge my car for £6’: could new rules cut costs for EV drivers?](https://www.theguardian.com/money/2026/oct/21/charge-car-new-rules-ev-drivers-cross-pavement-gully)
-- [Light, camera … razor blades?! How photography became an art form – in pictures](https://www.theguardian.com/artanddesign/gallery/2026/oct/21/light-camera-razor-blades-how-photography-became-an-art-form-in-pictures-light-and-magic-birth-of-art-photography-tate-modern)
+- [Barclays profits jump ahead of looming bank tax; French bond yields hit fresh 24-year high – business live](https://www.theguardian.com/business/live/2026/oct/22/barclays-profits-jump-looming-bank-tax-french-bond-yields-hit-fresh-24-year-high-latest-live-updates)
+- [Female Life on Planet Earth by Laleh Khadivi review – a mother’s secret past in the Iranian revolution](https://www.theguardian.com/books/2026/oct/22/female-life-on-planet-earth-by-laleh-khadivi-review-a-mothers-secret-past-in-the-iranian-revolution)
+- [‘I wanted to create the female version of a man’s suit’: how Roland Mouret’s Galaxy dress took over the world](https://www.theguardian.com/fashion/2026/oct/22/i-wanted-to-create-the-female-version-of-a-mans-suit-how-roland-mourets-galaxy-dress-took-over-the-world)
+- [Take a stroll between Japan’s past and present – in pictures](https://www.theguardian.com/artanddesign/gallery/2026/oct/22/the-yokohama-project-by-giada-ripa-japan-in-pictures)
+- [10 nightime attractions around the UK this autumn](https://www.theguardian.com/travel/2026/oct/22/best-after-dark-attractions-light-festivals-uk-autumn)
+- [Man charged after allegedly making threats at Hannah Beazley’s electorate office while armed with nunchucks](https://www.theguardian.com/australia-news/2026/oct/22/man-with-nunchucks-arrested-wa-mp-hannah-beazley-ntwnfb)
+- [TV tonight: Leo Reich’s new London sitcom especially for gen z](https://www.theguardian.com/tv-and-radio/2026/oct/22/tv-tonight-leo-reichs-new-london-sitcom-especially-for-gen-z)
+- [Airbnb guests freed from chores involving ‘significant effort’ under new global rules](https://www.theguardian.com/australia-news/2026/oct/22/airbnb-guests-freed-from-chores-involving-significant-effort-under-new-global-rules)
+- [AI firms say UK has a year to head off datacentre protests before construction is threatened](https://www.theguardian.com/uk-news/2026/oct/22/ai-firms-say-uk-has-a-year-to-head-off-datacentre-protests-before-construction-is-threatened)
+- [Thursday news quiz: Liz is absurd, Apu finds words and a bloke steals a bird](https://www.theguardian.com/lifeandstyle/2026/oct/22/the-guardian-thursday-quiz-general-knowledge-topical-news-trivia-270)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

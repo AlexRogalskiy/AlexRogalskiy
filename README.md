@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Remediation in the era of AI: Fix what matters first](https://www.computerworld.com/article/4238649/remediation-in-the-era-of-ai-fix-what-matters-first.html)
+- [The Patch Apocalypse is here. Patching everything isn’t the answer.](https://www.computerworld.com/article/4238641/the-patch-apocalypse-is-here-patching-everything-isnt-the-answer.html)
+- [Rogue AI: When agents stop advising and start acting](https://www.computerworld.com/article/4238623/rogue-ai-when-agents-stop-advising-and-start-acting.html)
+- [AI isn’t hallucinating—but your data might be](https://www.computerworld.com/article/4238616/ai-isnt-hallucinating-but-your-data-might-be.html)
+- [Before you automate systems, decide which data wins](https://www.computerworld.com/article/4238605/before-you-automate-systems-decide-which-data-wins.html)
+- [Want a higher paying tech job? Employers seek AI fluency](https://www.computerworld.com/article/4237995/want-a-higher-paying-tech-job-employers-want-ai-fluency-expertise.html)
+- [The iPhone Duo reviews are in: expensive, late, and winning](https://www.computerworld.com/article/4238507/the-iphone-duo-reviews-are-in-expensive-late-and-winning.html)
+- [Microsoft expands sovereign cloud offerings as data control concerns grow](https://www.computerworld.com/article/4238397/microsoft-expands-sovereign-cloud-offerings-as-data-control-concerns-grow-2.html)
 - [AI didn’t create your IT data problem, it just exposed it](https://www.computerworld.com/article/4237895/ai-didnt-create-your-it-data-problem-it-just-exposed-it.html)
 - [The Googlebook work test: Can an Android laptop get the job done?](https://www.computerworld.com/article/4237256/googlebook-work-test-can-an-android-laptop-get-the-job-done.html)
-- [Follow the money: Who benefits from the UK’s Apple Pay crackdown?](https://www.computerworld.com/article/4237750/follow-the-money-who-benefits-from-the-uks-apple-pay-crackdown.html)
-- [Meta’s new commercial terms say if its AI makes a mistake, it will legally be the customer’s fault](https://www.computerworld.com/article/4237414/metas-new-commercial-terms-say-if-its-ai-makes-a-mistake-it-will-legally-be-the-customers-fault.html)
-- [4 ways to tame shadow AI &lpar;hint: you need them all&rpar;](https://www.computerworld.com/article/4229136/best-way-to-tame-shadow-ai-is-to-combine-tactics.html)
-- [Apple is gaining as the industry shrinks](https://www.computerworld.com/article/4237119/apple-is-gaining-as-the-industry-shrinks.html)
-- [October Patch Tuesday: 1,408 CVEs, 1 exploited flaw and a SharePoint surprise](https://www.computerworld.com/article/4236627/october-patch-tuesday-1408-cves-1-exploited-flaw-and-a-sharepoint-surprise.html)
-- [Microsoft’s Patch Tuesday updates: Keeping up with the latest fixes](https://www.computerworld.com/article/3481576/microsofts-patch-tuesday-updates-keeping-up-with-the-latest-fixes.html)
-- [AI datacenter capex will far exceed forecast revenue through 2030](https://www.computerworld.com/article/4236641/ai-datacenter-capex-will-far-exceed-forecast-revenue-through-2030-3.html)
-- [Apple’s big AI week ends with Mac + Muse AI supercomputers](https://www.computerworld.com/article/4236527/apples-big-ai-week-ends-with-mac-muse-ai-supercomputers.html)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

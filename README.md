@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Pillowfort Is Closing](https://www.pillowfort.social/posts/8413273)
-- [Battlezone Online: BZFlag in the Browser](https://github.com/timriker/bzo)
-- [Nexus-CLI – Pure Go Bridge to DeepSeek R1/V3 with Claude Code and Ollama Support](https://github.com/xamrayev/nexus-cli)
-- [Setting Up SSH Keys on macOS with Touch ID](https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/)
-- [Using Claude to reduce the attack surface of code](https://www.anthropic.com/research/attack-surface-reduction)
-- [C# now beats Rust on WASM size](https://github.com/zion-sati/NetWasm)
-- [In Hilbert space, all things are quantumly possible](https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/)
-- [The Future of CSS](https://www.joshwcomeau.com/css/interop-2027/)
-- [Good type against all odds](https://unsung.aresluna.org/good-type-against-all-odds/)
-- [Muse exposes users&#39; personal and business secrets when they share conversations](https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/)
+- [OpenAI CLI](https://github.com/openai/openai-cli)
+- [The recently proposed o&lpar;n log n&rpar; integer multiplication algorithm [pdf]](https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf)
+- [WorldTUI: I trained a 360M model to pretend to be a terminal](https://simedw.com/2026/10/21/world-model-terminal/)
+- [mitmproxy adds --emudhra option](https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b)
+- [There isn&#39;t an easy exploit for this PHP vulnerability](https://eliastaylor.com/noexploit/)
+- [Postgres recovery_prefetch can cause outages](https://ardentperf.com/2026/10/20/postgres-recovery_prefetch-considered-harmful-and-causing-outages/)
+- [Security Disclosure](https://blog.railway.com/p/security-disclosure-wednesday-october-21st)
+- [Rust Style Guide](https://google.github.io/styleguide/rustguide.html)
+- [GitLab critical patch release](https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/)
+- [Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case](https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

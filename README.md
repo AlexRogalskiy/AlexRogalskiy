@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [OpenAI CLI](https://github.com/openai/openai-cli)
-- [The recently proposed o&lpar;n log n&rpar; integer multiplication algorithm [pdf]](https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf)
-- [WorldTUI: I trained a 360M model to pretend to be a terminal](https://simedw.com/2026/10/21/world-model-terminal/)
-- [mitmproxy adds --emudhra option](https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b)
-- [There isn&#39;t an easy exploit for this PHP vulnerability](https://eliastaylor.com/noexploit/)
-- [Postgres recovery_prefetch can cause outages](https://ardentperf.com/2026/10/20/postgres-recovery_prefetch-considered-harmful-and-causing-outages/)
-- [Security Disclosure](https://blog.railway.com/p/security-disclosure-wednesday-october-21st)
-- [Rust Style Guide](https://google.github.io/styleguide/rustguide.html)
-- [GitLab critical patch release](https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/)
-- [Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case](https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html)
+- [This I Believe &lpar;1952&rpar;](https://www.awakin.org/v2/read/view.php?tid=468)
+- [The foolishness of &quot;natural language programming&quot; &lpar;1978&rpar;](https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html)
+- [Jank – The native Clojure dialect with seamless C++ interop](https://jank-lang.org/)
+- [Docker is weird](https://codeandcake.dev/posts/2026-10-22-docker-is-weird)
+- [We have traits at home](https://www.axelmagn.com/blog/202610-zig-traits/)
+- [Local Wikipedia: Wikipedia, but only for things a half hour walk from you](https://edjefferson.com/localwiki/)
+- [LLMs are making formal software verification feasible at a much larger scale](https://www.anthropic.com/research/formal-verification)
+- [Rule 30: one black cell](https://www.wolframcollatzmahler.com/rule30/index.html)
+- [How does Fable 5.1 hide messages in images?](https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images)
+- [Railpass](https://train.samismith.com/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Apple, please give family IT admins a pester button](https://www.computerworld.com/article/4239067/apple-please-give-family-it-admins-a-pester-button.html)
 - [Remediation in the era of AI: Fix what matters first](https://www.computerworld.com/article/4238649/remediation-in-the-era-of-ai-fix-what-matters-first.html)
 - [The Patch Apocalypse is here. Patching everything isn’t the answer.](https://www.computerworld.com/article/4238641/the-patch-apocalypse-is-here-patching-everything-isnt-the-answer.html)
 - [Rogue AI: When agents stop advising and start acting](https://www.computerworld.com/article/4238623/rogue-ai-when-agents-stop-advising-and-start-acting.html)
 - [AI isn’t hallucinating—but your data might be](https://www.computerworld.com/article/4238616/ai-isnt-hallucinating-but-your-data-might-be.html)
 - [Before you automate systems, decide which data wins](https://www.computerworld.com/article/4238605/before-you-automate-systems-decide-which-data-wins.html)
+- [Compromised security certificates blocked in Chrome, Firefox](https://www.computerworld.com/article/4239086/google-mozilla-revoke-emudhra-intermediates-after-private-key-compromise-3.html)
 - [Want a higher paying tech job? Employers seek AI fluency](https://www.computerworld.com/article/4237995/want-a-higher-paying-tech-job-employers-want-ai-fluency-expertise.html)
 - [The iPhone Duo reviews are in: expensive, late, and winning](https://www.computerworld.com/article/4238507/the-iphone-duo-reviews-are-in-expensive-late-and-winning.html)
 - [Microsoft expands sovereign cloud offerings as data control concerns grow](https://www.computerworld.com/article/4238397/microsoft-expands-sovereign-cloud-offerings-as-data-control-concerns-grow-2.html)
-- [AI didn’t create your IT data problem, it just exposed it](https://www.computerworld.com/article/4237895/ai-didnt-create-your-it-data-problem-it-just-exposed-it.html)
-- [The Googlebook work test: Can an Android laptop get the job done?](https://www.computerworld.com/article/4237256/googlebook-work-test-can-an-android-laptop-get-the-job-done.html)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

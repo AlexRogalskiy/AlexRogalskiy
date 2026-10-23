@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Barclays profits jump ahead of looming bank tax; French bond yields hit fresh 24-year high – business live](https://www.theguardian.com/business/live/2026/oct/22/barclays-profits-jump-looming-bank-tax-french-bond-yields-hit-fresh-24-year-high-latest-live-updates)
-- [Female Life on Planet Earth by Laleh Khadivi review – a mother’s secret past in the Iranian revolution](https://www.theguardian.com/books/2026/oct/22/female-life-on-planet-earth-by-laleh-khadivi-review-a-mothers-secret-past-in-the-iranian-revolution)
-- [‘I wanted to create the female version of a man’s suit’: how Roland Mouret’s Galaxy dress took over the world](https://www.theguardian.com/fashion/2026/oct/22/i-wanted-to-create-the-female-version-of-a-mans-suit-how-roland-mourets-galaxy-dress-took-over-the-world)
-- [Take a stroll between Japan’s past and present – in pictures](https://www.theguardian.com/artanddesign/gallery/2026/oct/22/the-yokohama-project-by-giada-ripa-japan-in-pictures)
-- [10 nightime attractions around the UK this autumn](https://www.theguardian.com/travel/2026/oct/22/best-after-dark-attractions-light-festivals-uk-autumn)
-- [Man charged after allegedly making threats at Hannah Beazley’s electorate office while armed with nunchucks](https://www.theguardian.com/australia-news/2026/oct/22/man-with-nunchucks-arrested-wa-mp-hannah-beazley-ntwnfb)
-- [TV tonight: Leo Reich’s new London sitcom especially for gen z](https://www.theguardian.com/tv-and-radio/2026/oct/22/tv-tonight-leo-reichs-new-london-sitcom-especially-for-gen-z)
-- [Airbnb guests freed from chores involving ‘significant effort’ under new global rules](https://www.theguardian.com/australia-news/2026/oct/22/airbnb-guests-freed-from-chores-involving-significant-effort-under-new-global-rules)
-- [AI firms say UK has a year to head off datacentre protests before construction is threatened](https://www.theguardian.com/uk-news/2026/oct/22/ai-firms-say-uk-has-a-year-to-head-off-datacentre-protests-before-construction-is-threatened)
-- [Thursday news quiz: Liz is absurd, Apu finds words and a bloke steals a bird](https://www.theguardian.com/lifeandstyle/2026/oct/22/the-guardian-thursday-quiz-general-knowledge-topical-news-trivia-270)
+- [‘The run ends in the centre of this beautiful village’: readers’ favourite small ski resorts in Europe](https://www.theguardian.com/travel/2026/oct/23/readers-favourite-small-ski-resorts-skiing-europe)
+- [‘The biggest motivation is fear’: High turnout among Israel’s Palestinians could unseat Netanyahu](https://www.theguardian.com/world/2026/oct/23/high-turnout-israel-palestinians-unseat-netanyahu)
+- [Under Fire by Humza Yousaf – a deeply affecting story of being stranded in Gaza](https://www.theguardian.com/books/2026/oct/23/under-fire-by-humza-yousaf-a-deeply-affecting-story-of-being-stranded-in-gaza)
+- [‘We’ve lost a basic sense of politeness’: UK readers reveal daily reality of public transport](https://www.theguardian.com/uk-news/2026/oct/23/antisocial-behaviour-public-transport-burnham-campaign)
+- [Nocturne to The One About Matthew Perry: the seven best shows to stream this week](https://www.theguardian.com/tv-and-radio/2026/oct/23/nocturne-to-the-one-about-matthew-perry-the-seven-best-shows-to-stream-this-week)
+- [Five homes in England to get sport lovers’ hearts racing – in pictures](https://www.theguardian.com/money/gallery/2026/oct/23/five-homes-in-england-for-sport-lovers-in-pictures)
+- [At Cop17, the pressure is on to rescue a deal that could end the destruction of nature](https://www.theguardian.com/environment/2026/oct/23/cop17-deal-that-could-end-the-destruction-of-nature-deadline-armenia)
+- [‘A form of anti-status status’ – how much would you pay for a plain tote bag?](https://www.theguardian.com/fashion/2026/oct/22/how-the-canvas-tote-bag-went-from-supermarket-staple-to-status-symbol)
+- [Apple Watch Ultra 4 review: longer battery life but still awaiting new features](https://www.theguardian.com/technology/2026/oct/23/apple-watch-ultra-4-review-longer-battery-life-health-tracking)
+- [Are we done with kindness or is there still a place for it? | First Dog on the Moon](https://www.theguardian.com/commentisfree/picture/2026/oct/23/are-we-done-with-kindness-or-is-there-still-a-place-for-it)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

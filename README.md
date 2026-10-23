@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Accrescent: A novel Android app store focused on security, privacy and usability](https://accrescent.app/)
-- [Apple Ordered to Open iPhone to Rival App Stores in Australia](https://forums.macrumors.com/threads/apple-ordered-to-open-iphone-to-rival-app-stores-in-australia.2492354/)
-- [As Politicians Argue About China, US Patients Find Cutting-Edge Treatment There](https://kffhealthnews.org/health-industry/china-cancer-drugs-foreign-travel-pharma-biotech-fda-regulation-clinical-trials/)
-- [Show HN: git-found, fixes &quot;Repository not found&quot; with multiple GitHub accounts](https://github.com/advaith334/git-found)
-- [Raycast Glaze](https://www.raycast.com/blog/meet-glaze)
-- [AI firms say UK has a year to head off datacentre protests](https://www.theguardian.com/uk-news/2026/oct/22/ai-firms-say-uk-has-a-year-to-head-off-datacentre-protests-before-construction-is-threatened)
-- [The CMS Isn&#39;t the Problem. The Boundary Is](https://compiledrogue.com/articles/the-cms-isnt-the-problem-the-boundary-is/)
-- [Mortal Kompute](https://mortalkompute.xyz/)
-- [IBM CEO says open weight models are now irresistibly good and cheap on-prem](https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640)
-- [AI revealed 400 years of seafaring history](https://www.bbc.com/news/articles/cr93z9zq5l9jo)
+- [LessMi – A Windows Rat in Python, Controlled Through Discord](https://github.com/MateAGYT/LessMi)
+- [Whistle speech-to-text running offline on a 16mb ESP32](https://github.com/andrisgauracs/whistle-esp32)
+- [The same AI request emits 8.5 times more CO2 in Texas than in Sweden](https://berget.ai/en/blog/per-request-co2-press-release)
+- [First PCB manufacturer with MCP support](https://community.aisler.net/t/integrate-aisler-with-your-ai-agent-mcp-server/5989)
+- [Netryx – Find where a street photo was taken, to the block, offline](https://github.com/sparkyniner/Netryx-Astra-V2-Geolocation-Tool)
+- [Monochrome – Mobile Browser for macOS](https://github.com/lucianmarin/monochrome)
+- [Breakthrough Method for Agile AI Driven Development](https://github.com/bmad-code-org/bmad-method)
+- [Show HN: A 200-item RLHF quality audit with Fleiss&#39; Kappa &lpar;0.68&rpar;](https://github.com/Danial-ui6/REYTHUN-IAA-SAMPLE-)
+- [Fatequery – Cast BaZi, Zi Wei, or a hexagram, then read your question](https://www.fatequery.site/)
+- [Show HN: Ctrl+V for Images on LinkedIn](https://paste-for-linkedin.peachjam.app/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [‘The run ends in the centre of this beautiful village’: readers’ favourite small ski resorts in Europe](https://www.theguardian.com/travel/2026/oct/23/readers-favourite-small-ski-resorts-skiing-europe)
-- [‘The biggest motivation is fear’: High turnout among Israel’s Palestinians could unseat Netanyahu](https://www.theguardian.com/world/2026/oct/23/high-turnout-israel-palestinians-unseat-netanyahu)
-- [Under Fire by Humza Yousaf – a deeply affecting story of being stranded in Gaza](https://www.theguardian.com/books/2026/oct/23/under-fire-by-humza-yousaf-a-deeply-affecting-story-of-being-stranded-in-gaza)
-- [‘We’ve lost a basic sense of politeness’: UK readers reveal daily reality of public transport](https://www.theguardian.com/uk-news/2026/oct/23/antisocial-behaviour-public-transport-burnham-campaign)
-- [Nocturne to The One About Matthew Perry: the seven best shows to stream this week](https://www.theguardian.com/tv-and-radio/2026/oct/23/nocturne-to-the-one-about-matthew-perry-the-seven-best-shows-to-stream-this-week)
-- [Five homes in England to get sport lovers’ hearts racing – in pictures](https://www.theguardian.com/money/gallery/2026/oct/23/five-homes-in-england-for-sport-lovers-in-pictures)
-- [At Cop17, the pressure is on to rescue a deal that could end the destruction of nature](https://www.theguardian.com/environment/2026/oct/23/cop17-deal-that-could-end-the-destruction-of-nature-deadline-armenia)
-- [‘A form of anti-status status’ – how much would you pay for a plain tote bag?](https://www.theguardian.com/fashion/2026/oct/22/how-the-canvas-tote-bag-went-from-supermarket-staple-to-status-symbol)
-- [Apple Watch Ultra 4 review: longer battery life but still awaiting new features](https://www.theguardian.com/technology/2026/oct/23/apple-watch-ultra-4-review-longer-battery-life-health-tracking)
-- [Are we done with kindness or is there still a place for it? | First Dog on the Moon](https://www.theguardian.com/commentisfree/picture/2026/oct/23/are-we-done-with-kindness-or-is-there-still-a-place-for-it)
+- [Blaze engulfs Hitler’s ‘Eagle’s Nest’ mountain retreat in Bavaria](https://www.theguardian.com/world/2026/oct/24/blaze-engulfs-hitlers-eagles-nest-mountain-retreat-in-bavaria)
+- [Most levelling up projects still unfinished years after funding allocated](https://www.theguardian.com/uk-news/2026/oct/24/most-conservative-party-levelling-up-projects-unfinished-funding-allocation)
+- [More than third of post offices in TG Jones stores to shut by early 2027](https://www.theguardian.com/business/2026/oct/24/more-than-third-of-post-offices-in-tg-jones-stores-to-shut-by-early-2027)
+- [What links Buckeyes, Crimson Tide and Wolverines? The Saturday quiz](https://www.theguardian.com/lifeandstyle/2026/oct/24/what-links-buckeyes-crimson-tide-and-wolverines-the-saturday-quiz)
+- [Can a £5.8bn scheme help revive Grimsby and other town centres?](https://www.theguardian.com/uk-news/2026/oct/24/can-new-scheme-help-revive-grimsby-britain-struggling-town-centres)
+- [‘It’s part of our history’: can the menú del día survive Spain’s changing eating habits?](https://www.theguardian.com/world/2026/oct/24/spain-diners-food-restaurants-menu-del-dia)
+- [The Guide #266: The knives are out at Netflix – maybe now it will make something worth watching](https://www.theguardian.com/culture/2026/oct/23/the-knives-are-out-at-netflix-maybe-now-it-will-make-something-worth-watching)
+- [At Aberfan, I saw fathers digging for their missing children. And the lessons society should have learned, it hasn’t | John Humphrys](https://www.theguardian.com/commentisfree/2026/oct/24/aberfan-disaster-missing-children-deaths-john-humphrys)
+- [A Course Called Ireland: Bill Murray clearly hated making his new golfing show – but it’s extremely fun to binge](https://www.theguardian.com/tv-and-radio/2026/oct/24/a-course-called-ireland-bill-murray-clearly-hated-making-his-new-golfing-show-but-its-extremely-fun-to-binge)
+- [Fast track to the slopes: 12 European ski resorts by rail – in less time than you may think](https://www.theguardian.com/travel/2026/oct/24/alps-ski-resorts-by-rail-train-from-uk)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

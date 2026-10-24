@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
-- [Apple, please give family IT admins a pester button](https://www.computerworld.com/article/4239067/apple-please-give-family-it-admins-a-pester-button.html)
-- [Remediation in the era of AI: Fix what matters first](https://www.computerworld.com/article/4238649/remediation-in-the-era-of-ai-fix-what-matters-first.html)
-- [The Patch Apocalypse is here. Patching everything isn’t the answer.](https://www.computerworld.com/article/4238641/the-patch-apocalypse-is-here-patching-everything-isnt-the-answer.html)
-- [Rogue AI: When agents stop advising and start acting](https://www.computerworld.com/article/4238623/rogue-ai-when-agents-stop-advising-and-start-acting.html)
-- [AI isn’t hallucinating—but your data might be](https://www.computerworld.com/article/4238616/ai-isnt-hallucinating-but-your-data-might-be.html)
-- [Before you automate systems, decide which data wins](https://www.computerworld.com/article/4238605/before-you-automate-systems-decide-which-data-wins.html)
-- [Compromised security certificates blocked in Chrome, Firefox](https://www.computerworld.com/article/4239086/google-mozilla-revoke-emudhra-intermediates-after-private-key-compromise-3.html)
-- [Want a higher paying tech job? Employers seek AI fluency](https://www.computerworld.com/article/4237995/want-a-higher-paying-tech-job-employers-want-ai-fluency-expertise.html)
-- [The iPhone Duo reviews are in: expensive, late, and winning](https://www.computerworld.com/article/4238507/the-iphone-duo-reviews-are-in-expensive-late-and-winning.html)
-- [Microsoft expands sovereign cloud offerings as data control concerns grow](https://www.computerworld.com/article/4238397/microsoft-expands-sovereign-cloud-offerings-as-data-control-concerns-grow-2.html)
+- [Google will pay people to use less electricity so its data centers can use more](https://www.computerworld.com/article/4239858/google-will-pay-people-to-use-less-electricity-so-its-data-centers-can-use-more.html)
+- [Hyperscalers allow more scrutiny of controversial data center plans](https://www.computerworld.com/article/4239855/hyperscalers-allow-more-scrutiny-of-controversial-data-center-plans-2.html)
+- [Matrix gains ground in Europe’s public sector — but replacing Teams is another matter](https://www.computerworld.com/article/4239735/matrix-gains-ground-in-europes-public-sector-but-replacing-teams-is-another-matter.html)
+- [OpenClaw creator spent $10 million on AI tokens last month](https://www.computerworld.com/article/4239772/openclaw-creator-spent-10-million-on-ai-tokens-last-month-2.html)
+- [Meta hit with $25 billion fine for illegally sharing user data](https://www.computerworld.com/article/4239751/meta-hit-with-25-billion-fine-for-illegally-sharing-user-data.html)
+- [iPhone Duo: The apps weren’t ready, but the market was](https://www.computerworld.com/article/4239786/iphone-duo-the-apps-werent-ready-but-the-market-was.html)
+- [SAP lets AI play key role in its certification renewal process](https://www.computerworld.com/article/4239660/sap-lets-ai-play-key-role-in-its-certification-renewal-process-2.html)
+- [eMudhra quits global TLS certificate market after compromise of CA signing keys](https://www.computerworld.com/article/4239619/emudhra-quits-global-tls-certificate-market-after-compromise-of-ca-signing-keys.html)
+- [7 out-of-sight Googlebook highlights](https://www.computerworld.com/article/4237886/googlebook-features.html)
+- [AI devours a fifth of companies’ IT budgets](https://www.computerworld.com/article/4239898/ai-accounts-for-one-fifth-of-companies-it-budgets.html)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

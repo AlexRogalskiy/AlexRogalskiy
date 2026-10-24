@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [LessMi – A Windows Rat in Python, Controlled Through Discord](https://github.com/MateAGYT/LessMi)
-- [Whistle speech-to-text running offline on a 16mb ESP32](https://github.com/andrisgauracs/whistle-esp32)
-- [The same AI request emits 8.5 times more CO2 in Texas than in Sweden](https://berget.ai/en/blog/per-request-co2-press-release)
-- [First PCB manufacturer with MCP support](https://community.aisler.net/t/integrate-aisler-with-your-ai-agent-mcp-server/5989)
-- [Netryx – Find where a street photo was taken, to the block, offline](https://github.com/sparkyniner/Netryx-Astra-V2-Geolocation-Tool)
-- [Monochrome – Mobile Browser for macOS](https://github.com/lucianmarin/monochrome)
-- [Breakthrough Method for Agile AI Driven Development](https://github.com/bmad-code-org/bmad-method)
-- [Show HN: A 200-item RLHF quality audit with Fleiss&#39; Kappa &lpar;0.68&rpar;](https://github.com/Danial-ui6/REYTHUN-IAA-SAMPLE-)
-- [Fatequery – Cast BaZi, Zi Wei, or a hexagram, then read your question](https://www.fatequery.site/)
-- [Show HN: Ctrl+V for Images on LinkedIn](https://paste-for-linkedin.peachjam.app/)
+- [Don&#39;t Embarrass Me, Claude](https://www.dev-log.me/dont-embarrass-me-claude/)
+- [Claude Duet Safety, Privacy, and Security](https://claude.com/resources/articles/claude-duet-safety-privacy-and-security)
+- [Spritz: Stream Local Videos via AirPlay, Cast and DLNA on Apple Silicon](https://github.com/Oolab-labs/spritz)
+- [Retroviral insertions contributed to divergence of human and chimpanzee brains](https://www.science.org/doi/10.1126/sciadv.aeg5791)
+- [All existing implementations of softmax and cross-entropy have a subtle bug](https://twitter.com/jon_barron/status/2113707875290042665)
+- [Pair Prompt and Agentic Interview](https://liveshortly.com)
+- [Show HN: Monkeytype for Developers](https://osdtype-w5vr-six.vercel.app/play)
+- [Show HN: Whyline – Git native decision history for coding agents](https://github.com/anishmoncivarghese/whyline)
+- [Two companies raised three in every ten venture dollars](https://datahyena.com/research/two-companies-raised-three-in-ten-venture-dollars/)
+- [Red Alert 2 Yuri&#39;s Revenge decompilation – rebuilding the lost source code](https://www.reddit.com/r/redalert2/comments/1xaep2v/ra2yr_decompilation_rebuilding_the_lost_source/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

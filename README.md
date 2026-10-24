@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [This I Believe &lpar;1952&rpar;](https://www.awakin.org/v2/read/view.php?tid=468)
-- [The foolishness of &quot;natural language programming&quot; &lpar;1978&rpar;](https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html)
-- [Jank – The native Clojure dialect with seamless C++ interop](https://jank-lang.org/)
-- [Docker is weird](https://codeandcake.dev/posts/2026-10-22-docker-is-weird)
-- [We have traits at home](https://www.axelmagn.com/blog/202610-zig-traits/)
-- [Local Wikipedia: Wikipedia, but only for things a half hour walk from you](https://edjefferson.com/localwiki/)
-- [LLMs are making formal software verification feasible at a much larger scale](https://www.anthropic.com/research/formal-verification)
-- [Rule 30: one black cell](https://www.wolframcollatzmahler.com/rule30/index.html)
-- [How does Fable 5.1 hide messages in images?](https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images)
-- [Railpass](https://train.samismith.com/)
+- [OBS Studio 33](https://github.com/obsproject/obs-studio/releases/tag/33.0.0)
+- [How close can pure functional programming get to C?](https://rtfeldman.com/fp-vs-c)
+- [How Block Blast harvests its players for ad money](https://ayoships.com/breakdowns/block-blast)
+- [Apple Security Research Device](https://security.apple.com/research-device/)
+- [Alzheimer&#39;s breakthrough: 2 hrs of sleep restored without clearing brain plaques](https://www.sciencedaily.com/releases/2026/10/261018084421.htm)
+- [Twelve years of distributed SQLite](https://philipotoole.com/twelve-years-of-distributed-sqlite/)
+- [Evolving Threat: http2shell is an RCE in Node, Python, and more](https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8)
+- [One Man&#39;s Pan Am 747 Replica [video]](https://www.youtube.com/watch?v=vAFwHGGfPz4)
+- [CVE Tracker](https://cve.0xosprey.com/)
+- [Show HN: Corgi, a helpful {agent, terminal} multiplexer](https://corgi.computer/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

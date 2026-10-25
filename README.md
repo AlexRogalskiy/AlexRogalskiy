@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Don&#39;t Embarrass Me, Claude](https://www.dev-log.me/dont-embarrass-me-claude/)
-- [Claude Duet Safety, Privacy, and Security](https://claude.com/resources/articles/claude-duet-safety-privacy-and-security)
-- [Spritz: Stream Local Videos via AirPlay, Cast and DLNA on Apple Silicon](https://github.com/Oolab-labs/spritz)
-- [Retroviral insertions contributed to divergence of human and chimpanzee brains](https://www.science.org/doi/10.1126/sciadv.aeg5791)
-- [All existing implementations of softmax and cross-entropy have a subtle bug](https://twitter.com/jon_barron/status/2113707875290042665)
-- [Pair Prompt and Agentic Interview](https://liveshortly.com)
-- [Show HN: Monkeytype for Developers](https://osdtype-w5vr-six.vercel.app/play)
-- [Show HN: Whyline – Git native decision history for coding agents](https://github.com/anishmoncivarghese/whyline)
-- [Two companies raised three in every ten venture dollars](https://datahyena.com/research/two-companies-raised-three-in-ten-venture-dollars/)
-- [Red Alert 2 Yuri&#39;s Revenge decompilation – rebuilding the lost source code](https://www.reddit.com/r/redalert2/comments/1xaep2v/ra2yr_decompilation_rebuilding_the_lost_source/)
+- [No Effect Before Its Cause: From Einstein to Lamport](https://www.itworkslocally.dev/posts/no-effect-before-its-cause)
+- [Not Palantir](https://notpalantir.eu/)
+- [Prompt Injection Techniques Every Red Teamer Should Test](https://fdzdev.medium.com/20-prompt-injection-techniques-every-red-teamer-should-test-b22359bfd57d)
+- [Universal Declaration of Human Rights &lpar;1948&rpar; [pdf]](https://www.un.org/sites/un2.un.org/files/2021/03/udhr.pdf)
+- [TaskWire An MCP-based taskboard for managing AI agent workflows](https://taskwire.si)
+- [There is no official XScreenSaver GitHub repository](https://github.com/cowmix/xscreensaver)
+- [Theoldreader Plus Hacker News Comments](https://github.com/lsferreira42/hn-theoldreader-comments)
+- [Free SEO audit and AI search tools. No sign-up](https://seowins.net/)
+- [AI Is Rotting Your Brain [video]](https://www.youtube.com/watch?v=ZumXpZzDsgo)
+- [Elevated errors for Claude Sonnet 5.5](https://status.claude.com/incidents/334jvgbrc4ff)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

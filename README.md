@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Blaze engulfs Hitler’s ‘Eagle’s Nest’ mountain retreat in Bavaria](https://www.theguardian.com/world/2026/oct/24/blaze-engulfs-hitlers-eagles-nest-mountain-retreat-in-bavaria)
-- [Most levelling up projects still unfinished years after funding allocated](https://www.theguardian.com/uk-news/2026/oct/24/most-conservative-party-levelling-up-projects-unfinished-funding-allocation)
-- [More than third of post offices in TG Jones stores to shut by early 2027](https://www.theguardian.com/business/2026/oct/24/more-than-third-of-post-offices-in-tg-jones-stores-to-shut-by-early-2027)
-- [What links Buckeyes, Crimson Tide and Wolverines? The Saturday quiz](https://www.theguardian.com/lifeandstyle/2026/oct/24/what-links-buckeyes-crimson-tide-and-wolverines-the-saturday-quiz)
-- [Can a £5.8bn scheme help revive Grimsby and other town centres?](https://www.theguardian.com/uk-news/2026/oct/24/can-new-scheme-help-revive-grimsby-britain-struggling-town-centres)
-- [‘It’s part of our history’: can the menú del día survive Spain’s changing eating habits?](https://www.theguardian.com/world/2026/oct/24/spain-diners-food-restaurants-menu-del-dia)
-- [The Guide #266: The knives are out at Netflix – maybe now it will make something worth watching](https://www.theguardian.com/culture/2026/oct/23/the-knives-are-out-at-netflix-maybe-now-it-will-make-something-worth-watching)
-- [At Aberfan, I saw fathers digging for their missing children. And the lessons society should have learned, it hasn’t | John Humphrys](https://www.theguardian.com/commentisfree/2026/oct/24/aberfan-disaster-missing-children-deaths-john-humphrys)
-- [A Course Called Ireland: Bill Murray clearly hated making his new golfing show – but it’s extremely fun to binge](https://www.theguardian.com/tv-and-radio/2026/oct/24/a-course-called-ireland-bill-murray-clearly-hated-making-his-new-golfing-show-but-its-extremely-fun-to-binge)
-- [Fast track to the slopes: 12 European ski resorts by rail – in less time than you may think](https://www.theguardian.com/travel/2026/oct/24/alps-ski-resorts-by-rail-train-from-uk)
+- [Ten days that could shake the world: democratic norms at stake in four pivotal elections](https://www.theguardian.com/world/ng-interactive/2026/oct/25/ten-days-shake-world-democratic-norms-pivotal-elections-brazil-israel-serbia-us)
+- [Israeli soldiers raze neighbourhood in Hebron, driving families from homes](https://www.theguardian.com/world/2026/oct/24/israel-soldiers-raze-west-bank-neighbourhood-hebron-families-from-homes)
+- [TV tonight: a horny drama stuffed with sex in a car, toilet and … city farm](https://www.theguardian.com/tv-and-radio/2026/oct/25/tv-tonight-a-horny-drama-stuffed-with-sex-in-a-car-toilet-and-city-farm)
+- [Eleven sustain gunshot wounds in shooting near Florida university](https://www.theguardian.com/us-news/2026/oct/25/eleven-sustain-gunshot-wounds-in-shooting-near-florida-university)
+- [Greg Wise on how he and Emma Thompson coped with failed IVF: ‘We hit an existential crisis – she was not a proper woman and I was not a proper man’](https://www.theguardian.com/lifeandstyle/2026/oct/25/greg-wise-on-how-he-and-emma-thompson-coped-with-failed-ivf-we-hit-an-existential-crisis-she-was-not-a-proper-woman-and-i-was-not-a-proper-man)
+- [Outlier, Glasgow G1: ‘This kind of carefully orchestrated can’t-be-arsedness is really quite magical’ – restaurant review | Grace Dent on restaurants](https://www.theguardian.com/food/2026/oct/25/outlier-glasgow-g1-grace-dent-restaurant-review)
+- [Emirati-linked firms’ ownership of Manchester land ‘up 39%’ in ten years](https://www.theguardian.com/uk-news/2026/oct/25/emirati-linked-firms-manchester-land)
+- [‘It’s magic’: scientists rediscover how to make ancient Roman colour-changing glass](https://www.theguardian.com/science/2026/oct/25/scientists-rediscover-ancient-roman-colour-changing-glass)
+- [Don’t call me ‘mumsy’ – the contempt behind that word makes me livid | Rhiannon Lucy Cosslett](https://www.theguardian.com/commentisfree/2026/oct/25/dont-call-me-mumsy-contempt-makes-me-livid-respect-mothers)
+- [‘That’s the way the city works’: how the UAE changed the face of Andy Burnham’s Manchester](https://www.theguardian.com/news/ng-interactive/2026/oct/25/thats-the-way-the-city-works-how-the-uae-changed-the-face-of-andy-burnhams-manchester)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

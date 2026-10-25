@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [OBS Studio 33](https://github.com/obsproject/obs-studio/releases/tag/33.0.0)
-- [How close can pure functional programming get to C?](https://rtfeldman.com/fp-vs-c)
-- [How Block Blast harvests its players for ad money](https://ayoships.com/breakdowns/block-blast)
-- [Apple Security Research Device](https://security.apple.com/research-device/)
-- [Alzheimer&#39;s breakthrough: 2 hrs of sleep restored without clearing brain plaques](https://www.sciencedaily.com/releases/2026/10/261018084421.htm)
-- [Twelve years of distributed SQLite](https://philipotoole.com/twelve-years-of-distributed-sqlite/)
-- [Evolving Threat: http2shell is an RCE in Node, Python, and more](https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8)
-- [One Man&#39;s Pan Am 747 Replica [video]](https://www.youtube.com/watch?v=vAFwHGGfPz4)
-- [CVE Tracker](https://cve.0xosprey.com/)
-- [Show HN: Corgi, a helpful {agent, terminal} multiplexer](https://corgi.computer/)
+- [Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness](https://github.com/slee-persis/GVS5H)
+- [Cerebras Deploys Trillion-Parameter AI Models](https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras)
+- [Why Gopher in 2026?](https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt)
+- [America has lost 200k of jobs in media, film and the arts. How much is AI?](https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class)
+- [We should be more ambitious with the software we build](https://danluu.com/ambitious/)
+- [Small Programs and Languages](https://ratfactor.com/cards/pl-small)
+- [The Importance of Limitations for Creativity and Learning &lpar;2023&rpar;](https://ratfactor.com/cards/limitations)
+- [Show HN: Steal My Bitcoin](https://stealmybitcoin.com/)
+- [Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz](https://missileer.watch)
+- [SpeedCrunch 1.1](https://www.speedcrunch.org/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

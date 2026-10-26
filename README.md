@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ten days that could shake the world: democratic norms at stake in four pivotal elections](https://www.theguardian.com/world/ng-interactive/2026/oct/25/ten-days-shake-world-democratic-norms-pivotal-elections-brazil-israel-serbia-us)
-- [Israeli soldiers raze neighbourhood in Hebron, driving families from homes](https://www.theguardian.com/world/2026/oct/24/israel-soldiers-raze-west-bank-neighbourhood-hebron-families-from-homes)
-- [TV tonight: a horny drama stuffed with sex in a car, toilet and … city farm](https://www.theguardian.com/tv-and-radio/2026/oct/25/tv-tonight-a-horny-drama-stuffed-with-sex-in-a-car-toilet-and-city-farm)
-- [Eleven sustain gunshot wounds in shooting near Florida university](https://www.theguardian.com/us-news/2026/oct/25/eleven-sustain-gunshot-wounds-in-shooting-near-florida-university)
-- [Greg Wise on how he and Emma Thompson coped with failed IVF: ‘We hit an existential crisis – she was not a proper woman and I was not a proper man’](https://www.theguardian.com/lifeandstyle/2026/oct/25/greg-wise-on-how-he-and-emma-thompson-coped-with-failed-ivf-we-hit-an-existential-crisis-she-was-not-a-proper-woman-and-i-was-not-a-proper-man)
-- [Outlier, Glasgow G1: ‘This kind of carefully orchestrated can’t-be-arsedness is really quite magical’ – restaurant review | Grace Dent on restaurants](https://www.theguardian.com/food/2026/oct/25/outlier-glasgow-g1-grace-dent-restaurant-review)
-- [Emirati-linked firms’ ownership of Manchester land ‘up 39%’ in ten years](https://www.theguardian.com/uk-news/2026/oct/25/emirati-linked-firms-manchester-land)
-- [‘It’s magic’: scientists rediscover how to make ancient Roman colour-changing glass](https://www.theguardian.com/science/2026/oct/25/scientists-rediscover-ancient-roman-colour-changing-glass)
-- [Don’t call me ‘mumsy’ – the contempt behind that word makes me livid | Rhiannon Lucy Cosslett](https://www.theguardian.com/commentisfree/2026/oct/25/dont-call-me-mumsy-contempt-makes-me-livid-respect-mothers)
-- [‘That’s the way the city works’: how the UAE changed the face of Andy Burnham’s Manchester](https://www.theguardian.com/news/ng-interactive/2026/oct/25/thats-the-way-the-city-works-how-the-uae-changed-the-face-of-andy-burnhams-manchester)
+- [Can you solve it? A magical melody from the Mozart of math](https://www.theguardian.com/science/2026/oct/26/can-you-solve-it-a-magical-melody-from-the-mozart-of-math)
+- [Stung with a parking fine for an 18-second airport stop to tackle a wasp](https://www.theguardian.com/money/2026/oct/26/airport-car-parks-ruthless-charges-parking-fine)
+- [Music Against the Night by Yiyun Li review – a virtuosic interrogation of the power of art](https://www.theguardian.com/books/2026/oct/26/music-against-the-night-by-yiyun-li-review-a-virtuosic-interrogation-of-the-power-of-art)
+- [‘It’s collective punishment’: nearly 2,000 Palestinians in Hebron displaced as Israeli forces take over homes](https://www.theguardian.com/world/2026/oct/26/collective-punishment-palestinians-displaced-israeli-forces-take-over-hebron-homes)
+- [The UAE has so much blood on its hands in Sudan. For its nominee to lead the UN would be an outrage | Nesrine Malik](https://www.theguardian.com/commentisfree/2026/oct/26/uae-sudan-lana-nusseibeh-un-secretary-general)
+- [Ever Since I Knew Myself review – confronting the scars of childhood](https://www.theguardian.com/film/2026/oct/26/ever-since-i-knew-myself-review-documentary-georgia)
+- [‘Meet my new après buddies!’: a joyous group skiing trip in Les Deux Alpes, France](https://www.theguardian.com/travel/2026/oct/26/group-skiing-trip-solo-travellers-les-deux-alpes-france-alps)
+- [A Sugababe reveals her hardcore system for dating: best podcasts of the week](https://www.theguardian.com/tv-and-radio/2026/oct/26/a-sugababe-reveals-her-hardcore-system-for-dating-best-podcasts-of-the-week)
+- [Igor Levit: Resistance album review – essential listening in a time of bullies and despots](https://www.theguardian.com/music/2026/oct/26/igor-levit-resistance-album-review)
+- [UK poised to miss reduced aid spending target of 0.3% of national income](https://www.theguardian.com/politics/2026/oct/26/uk-international-aid-target-spending-shortfall-budget-research)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

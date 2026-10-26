@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [No Effect Before Its Cause: From Einstein to Lamport](https://www.itworkslocally.dev/posts/no-effect-before-its-cause)
-- [Not Palantir](https://notpalantir.eu/)
-- [Prompt Injection Techniques Every Red Teamer Should Test](https://fdzdev.medium.com/20-prompt-injection-techniques-every-red-teamer-should-test-b22359bfd57d)
-- [Universal Declaration of Human Rights &lpar;1948&rpar; [pdf]](https://www.un.org/sites/un2.un.org/files/2021/03/udhr.pdf)
-- [TaskWire An MCP-based taskboard for managing AI agent workflows](https://taskwire.si)
-- [There is no official XScreenSaver GitHub repository](https://github.com/cowmix/xscreensaver)
-- [Theoldreader Plus Hacker News Comments](https://github.com/lsferreira42/hn-theoldreader-comments)
-- [Free SEO audit and AI search tools. No sign-up](https://seowins.net/)
-- [AI Is Rotting Your Brain [video]](https://www.youtube.com/watch?v=ZumXpZzDsgo)
-- [Elevated errors for Claude Sonnet 5.5](https://status.claude.com/incidents/334jvgbrc4ff)
+- [MustardOS is custom firmware &lpar;CFW&rpar; for handheld gaming devices](https://muos.dev/)
+- [PyMagic a tiny DSL to write models/specs in Python](https://pypi.org/project/pymagic-models/)
+- [Slavoj ŽIžek: Only Desperation Can Save Us from Ecology, AI, and War [video]](https://www.youtube.com/watch?v=_0LSqRzpxhU)
+- [Blackwell Brings NUMA Back, Inside One GPU](https://vincentzed.com/writing/blackwell-numa)
+- [Show HN: Hazzel – A terminal coding harness that stays small on purpose](https://github.com/mukundzha/hazzel)
+- [Show HN: Tabverse – a free, open-source, with self-hostable server Workona clone](https://news.ycombinator.com/item?id=50240121)
+- [Ask HN: Did crates.io stop processing new crate publishes?](https://news.ycombinator.com/item?id=50240115)
+- [Aw1-breaker – Sub-millisecond AST circuit breaker for AI agent tool calls](https://news.ycombinator.com/item?id=50240104)
+- [Data-Oriented Design in Yuku&#39;s Parser](https://www.arshad.fyi/writings/data-oriented-design-in-yukus-parser)
+- [Raspberry Pi Pico W Irrigation – Telegram and Google Calendar All on Pico](https://github.com/AdrianCX/picohive-irrigation)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

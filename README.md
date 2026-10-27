@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [MustardOS is custom firmware &lpar;CFW&rpar; for handheld gaming devices](https://muos.dev/)
-- [PyMagic a tiny DSL to write models/specs in Python](https://pypi.org/project/pymagic-models/)
-- [Slavoj ŽIžek: Only Desperation Can Save Us from Ecology, AI, and War [video]](https://www.youtube.com/watch?v=_0LSqRzpxhU)
-- [Blackwell Brings NUMA Back, Inside One GPU](https://vincentzed.com/writing/blackwell-numa)
-- [Show HN: Hazzel – A terminal coding harness that stays small on purpose](https://github.com/mukundzha/hazzel)
-- [Show HN: Tabverse – a free, open-source, with self-hostable server Workona clone](https://news.ycombinator.com/item?id=50240121)
-- [Ask HN: Did crates.io stop processing new crate publishes?](https://news.ycombinator.com/item?id=50240115)
-- [Aw1-breaker – Sub-millisecond AST circuit breaker for AI agent tool calls](https://news.ycombinator.com/item?id=50240104)
-- [Data-Oriented Design in Yuku&#39;s Parser](https://www.arshad.fyi/writings/data-oriented-design-in-yukus-parser)
-- [Raspberry Pi Pico W Irrigation – Telegram and Google Calendar All on Pico](https://github.com/AdrianCX/picohive-irrigation)
+- [New Python security updates explicitly block the eMudhra certificates by SPKI](https://news.ycombinator.com/item?id=50255510)
+- [Copyparty – file sharing server in a single Python file](https://copyparty.eu/)
+- [Sweden: Europe&#39;s most useful electric vehicle test case](https://omev.se/2026/10/27/sweden-europes-most-useful-electric-vehicle-test-case/)
+- [More additional blog posts and articles](https://terrytao.wordpress.com/2026/10/26/more-additional-blog-posts-and-articles/)
+- [Show HN: Crenox – Fast Git Secret Scanner](https://github.com/crenoxhq/crenox)
+- [A technical architecture decision tree for SAP Clean Core and S/4HANA migrations](https://medium.com/@snake09031999/tired-of-clean-core-buzzword-slides-the-technical-decision-tree-for-sap-s-4hana-btp-79fe0867fe00)
+- [Vienna Gödel Lecture 2026: Geoffrey Hinton [video]](https://www.youtube.com/watch?v=TNffIt8eRb0)
+- [Eurocracy: The Game](http://eurocracy.xyz/)
+- [GI Moment in Test](https://testflight.apple.com/join/2bw27SdQ)
+- [Whoops: Meta&#39;s Muse Share Links Disclosed All Sorts of Super-Sensitive User Data](https://www.techdirt.com/2026/10/26/whoops-metas-muse-share-links-disclosed-all-sorts-of-super-sensitive-user-data/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

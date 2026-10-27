@@ -355,6 +355,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Microsoft Teams to get AI protection against phishing and fraud](https://www.computerworld.com/article/4240393/microsoft-teams-gets-ai-protection-against-phishing-and-fraud.html)
+- [Apple’s triple-whammy week begins with iPad mini](https://www.computerworld.com/article/4240386/apples-triple-whammy-week-begins-with-ipad-mini.html)
+- [Technology has changed. So should the conversation.](https://www.computerworld.com/article/4239947/technology-has-changed-so-should-the-conversation.html)
 - [Google will pay people to use less electricity so its data centers can use more](https://www.computerworld.com/article/4239858/google-will-pay-people-to-use-less-electricity-so-its-data-centers-can-use-more.html)
 - [Hyperscalers allow more scrutiny of controversial data center plans](https://www.computerworld.com/article/4239855/hyperscalers-allow-more-scrutiny-of-controversial-data-center-plans-2.html)
 - [Matrix gains ground in Europe’s public sector — but replacing Teams is another matter](https://www.computerworld.com/article/4239735/matrix-gains-ground-in-europes-public-sector-but-replacing-teams-is-another-matter.html)
@@ -362,9 +365,6 @@
 - [Meta hit with $25 billion fine for illegally sharing user data](https://www.computerworld.com/article/4239751/meta-hit-with-25-billion-fine-for-illegally-sharing-user-data.html)
 - [iPhone Duo: The apps weren’t ready, but the market was](https://www.computerworld.com/article/4239786/iphone-duo-the-apps-werent-ready-but-the-market-was.html)
 - [SAP lets AI play key role in its certification renewal process](https://www.computerworld.com/article/4239660/sap-lets-ai-play-key-role-in-its-certification-renewal-process-2.html)
-- [eMudhra quits global TLS certificate market after compromise of CA signing keys](https://www.computerworld.com/article/4239619/emudhra-quits-global-tls-certificate-market-after-compromise-of-ca-signing-keys.html)
-- [7 out-of-sight Googlebook highlights](https://www.computerworld.com/article/4237886/googlebook-features.html)
-- [AI devours a fifth of companies’ IT budgets](https://www.computerworld.com/article/4239898/ai-accounts-for-one-fifth-of-companies-it-budgets.html)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

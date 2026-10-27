@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Can you solve it? A magical melody from the Mozart of math](https://www.theguardian.com/science/2026/oct/26/can-you-solve-it-a-magical-melody-from-the-mozart-of-math)
-- [Stung with a parking fine for an 18-second airport stop to tackle a wasp](https://www.theguardian.com/money/2026/oct/26/airport-car-parks-ruthless-charges-parking-fine)
-- [Music Against the Night by Yiyun Li review – a virtuosic interrogation of the power of art](https://www.theguardian.com/books/2026/oct/26/music-against-the-night-by-yiyun-li-review-a-virtuosic-interrogation-of-the-power-of-art)
-- [‘It’s collective punishment’: nearly 2,000 Palestinians in Hebron displaced as Israeli forces take over homes](https://www.theguardian.com/world/2026/oct/26/collective-punishment-palestinians-displaced-israeli-forces-take-over-hebron-homes)
-- [The UAE has so much blood on its hands in Sudan. For its nominee to lead the UN would be an outrage | Nesrine Malik](https://www.theguardian.com/commentisfree/2026/oct/26/uae-sudan-lana-nusseibeh-un-secretary-general)
-- [Ever Since I Knew Myself review – confronting the scars of childhood](https://www.theguardian.com/film/2026/oct/26/ever-since-i-knew-myself-review-documentary-georgia)
-- [‘Meet my new après buddies!’: a joyous group skiing trip in Les Deux Alpes, France](https://www.theguardian.com/travel/2026/oct/26/group-skiing-trip-solo-travellers-les-deux-alpes-france-alps)
-- [A Sugababe reveals her hardcore system for dating: best podcasts of the week](https://www.theguardian.com/tv-and-radio/2026/oct/26/a-sugababe-reveals-her-hardcore-system-for-dating-best-podcasts-of-the-week)
-- [Igor Levit: Resistance album review – essential listening in a time of bullies and despots](https://www.theguardian.com/music/2026/oct/26/igor-levit-resistance-album-review)
-- [UK poised to miss reduced aid spending target of 0.3% of national income](https://www.theguardian.com/politics/2026/oct/26/uk-international-aid-target-spending-shortfall-budget-research)
+- [‘The view from the Mournes was CS Lewis’s idea of Narnia’: how Northern Ireland inspired a magical kingdom](https://www.theguardian.com/travel/2026/oct/27/cs-lewis-narnia-inspiration-northern-ireland-belfast)
+- [The pest I’ll never forget: the rats stood six or seven deep on the lawn beside my dormitory](https://www.theguardian.com/lifeandstyle/2026/oct/27/the-pest-ill-never-forget-rats-stood-six-seven-deep-beside-dormitory)
+- [Michael Gambon: the authorised biography review – a brilliant actor, and a master deceiver](https://www.theguardian.com/books/2026/oct/27/michael-gambon-the-authorised-biography-review-a-brilliant-actor-and-a-master-deceiver)
+- [‘Lost’ 1978 David Bowie tour film to play arenas in 2027, remastered by Moonage Daydream director Brett Morgen](https://www.theguardian.com/music/2026/oct/27/lost-1978-david-bowie-tour-film-to-play-arenas-in-2027-remastered-by-moonage-daydream-director-brett-morgen)
+- [Is that a lion driving the car? Alluring images to buy in the Magnum Square Print Sale – in pictures](https://www.theguardian.com/artanddesign/gallery/2026/oct/27/is-that-a-lion-driving-the-car-alluring-images-to-buy-in-the-magnum-square-print-sale-in-pictures)
+- [Melting glaciers in Dolomites reveal cache of first world war munitions](https://www.theguardian.com/world/2026/oct/27/melting-glaciers-dolomites-first-world-war-munitions-italy)
+- [City of Masks review – theatreland ghost story with female phantom of the opera out for revenge](https://www.theguardian.com/film/2026/oct/27/city-of-masks-review-theatreland-ghost-story-with-female-phantom-of-the-opera-out-for-revenge)
+- [Israel election live: polls open in most consequential vote in country’s history](https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates)
+- [Kylian Mbappé dropped by Chinese brands for ‘offending national sentiments’](https://www.theguardian.com/football/2026/oct/27/kylian-mbappe-dropped-by-chinese-brands-for-offensive-mao-jokes)
+- [TV tonight: incredible photos of the ‘Black Is Beautiful’ movement](https://www.theguardian.com/tv-and-radio/2026/oct/27/tv-tonight-incredible-photos-of-the-black-is-beautiful-movement)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

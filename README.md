@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [UK to charge universities $1,200 per international student](https://africa.businessinsider.com/local/markets/uk-to-charge-universities-dollar1200-per-international-student-including-those-from/qe5rqbe)
-- [There are now 5 inference providers for abliterated DeepSeek](https://allmodels.io/llm/abliterated)
-- [I still teach OpenGL ES 3.0](https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html)
-- [16-bit Windows &lpar;Windows 1.x, 2.x, 3.0, 3.1, etc.&rpar; on 64-bit Windows](https://github.com/otya128/winevdm)
-- [Cross-request KV cache exposure in the GLM-5.3 Workers AI model &lpar;155 responses&rpar;](https://blog.cloudflare.com/kv-cache-exposure-remediation/)
-- [Is PHP Running on Your ColdFusion Server? How to Check, and Remove It](https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it)
-- [The Exponential Time Hypothesis Is False [pdf]](https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf)
-- [Three new discoveries in mathematics, computer science, and physics](https://openai.com/index/building-scientific-understanding-with-academic-communities/)
-- [Type Server Protocol](https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md)
-- [GPT-6.1 Terra](https://openai.com/index/introducing-gpt-6-1-terra/)
+- [Artificial Analysis Intelligence Index v5](https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5)
+- [Git for the US Code](https://lexifina.com/blog/git-for-the-us-code)
+- [Moxnox 1.0: NT-Like, POSIX-Compatible OS Running Atop Btrfs](https://github.com/maharmstone/moxnox)
+- [Hunger beats tenure: Advice for junior engineers](https://felixrieseberg.com/hunger-beats-tenure-advice-for-junior-engineers/)
+- [Early progress on accelerating drug development with Claude](https://www.anthropic.com/research/early-progress-drug-development)
+- [Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees](https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/)
+- [Code-execution flaw in UEFI firmware threatens most servers on planet Earth](https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/)
+- [Four Months of Zig](https://gracefulliberty.com/articles/four-months-of-zig/)
+- [Tailscale SSH: Investigation and remediation update](https://tailscale.com/ssh-investigation-update)
+- [Survival LLM: AI assistant and emergency library that runs on your own computer](https://www.brangus.io/survival-llm)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

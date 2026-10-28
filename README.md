@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [‘The view from the Mournes was CS Lewis’s idea of Narnia’: how Northern Ireland inspired a magical kingdom](https://www.theguardian.com/travel/2026/oct/27/cs-lewis-narnia-inspiration-northern-ireland-belfast)
-- [The pest I’ll never forget: the rats stood six or seven deep on the lawn beside my dormitory](https://www.theguardian.com/lifeandstyle/2026/oct/27/the-pest-ill-never-forget-rats-stood-six-seven-deep-beside-dormitory)
-- [Michael Gambon: the authorised biography review – a brilliant actor, and a master deceiver](https://www.theguardian.com/books/2026/oct/27/michael-gambon-the-authorised-biography-review-a-brilliant-actor-and-a-master-deceiver)
-- [‘Lost’ 1978 David Bowie tour film to play arenas in 2027, remastered by Moonage Daydream director Brett Morgen](https://www.theguardian.com/music/2026/oct/27/lost-1978-david-bowie-tour-film-to-play-arenas-in-2027-remastered-by-moonage-daydream-director-brett-morgen)
-- [Is that a lion driving the car? Alluring images to buy in the Magnum Square Print Sale – in pictures](https://www.theguardian.com/artanddesign/gallery/2026/oct/27/is-that-a-lion-driving-the-car-alluring-images-to-buy-in-the-magnum-square-print-sale-in-pictures)
-- [Melting glaciers in Dolomites reveal cache of first world war munitions](https://www.theguardian.com/world/2026/oct/27/melting-glaciers-dolomites-first-world-war-munitions-italy)
-- [City of Masks review – theatreland ghost story with female phantom of the opera out for revenge](https://www.theguardian.com/film/2026/oct/27/city-of-masks-review-theatreland-ghost-story-with-female-phantom-of-the-opera-out-for-revenge)
-- [Israel election live: polls open in most consequential vote in country’s history](https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates)
-- [Kylian Mbappé dropped by Chinese brands for ‘offending national sentiments’](https://www.theguardian.com/football/2026/oct/27/kylian-mbappe-dropped-by-chinese-brands-for-offensive-mao-jokes)
-- [TV tonight: incredible photos of the ‘Black Is Beautiful’ movement](https://www.theguardian.com/tv-and-radio/2026/oct/27/tv-tonight-incredible-photos-of-the-black-is-beautiful-movement)
+- [Israel election results live: vote count continues as exit polls suggest no clear winner](https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news)
+- [Jess Cartner-Morley on fashion: to nail this year’s British heritage look, just study Rivals](https://www.theguardian.com/fashion/2026/oct/28/jess-cartner-morley-on-fashion-british-heritage-look-rivals)
+- [Unlock the vaults! A glimpse of gothic Britain – in pictures](https://www.theguardian.com/artanddesign/gallery/2026/oct/28/unlock-the-vaults-a-glimpse-of-gothic-britain-in-pictures)
+- [Cycling in the wild heart of the Netherlands: an autumnal break in the Veluwe](https://www.theguardian.com/travel/2026/oct/28/cycling-nature-holiday-veluwe-netherlands)
+- [Peter Asher: Everywhere Man review – music-biz face from Beatles-buddy pop act to superstar producer](https://www.theguardian.com/film/2026/oct/28/peter-asher-everywhere-man-review-from-singer-of-beatles-cast-offs-to-super-star-producer)
+- [How rebuilding old mosques is bringing Sikhs, Hindus and Muslims together in Punjab](https://www.theguardian.com/global-development/2026/oct/28/punjab-india-mosques-restored-heal-sectarian-wounds)
+- [King Charles to discuss legacy of slavery with Commonwealth leaders at summit](https://www.theguardian.com/world/2026/oct/28/king-charles-confirms-he-will-discuss-legacy-of-slavery-at-commonwealth-summit)
+- [Flávio Bolsonaro flees Brazil after presidential election loss, reports say](https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled)
+- [A moment that changed me: I was always a pushover – until I stood up to some teenagers](https://www.theguardian.com/lifeandstyle/2026/oct/28/a-moment-that-changed-me-i-was-always-a-pushover-until-i-stood-up-to-some-teenagers)
+- [TV tonight: five sisters fight for justice after a shocking murder in Belfast](https://www.theguardian.com/tv-and-radio/2026/oct/28/tv-tonight-five-sisters-fight-for-justice-after-a-shocking-in-belfast)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

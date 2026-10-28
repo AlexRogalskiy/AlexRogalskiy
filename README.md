@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [New Python security updates explicitly block the eMudhra certificates by SPKI](https://news.ycombinator.com/item?id=50255510)
-- [Copyparty – file sharing server in a single Python file](https://copyparty.eu/)
-- [Sweden: Europe&#39;s most useful electric vehicle test case](https://omev.se/2026/10/27/sweden-europes-most-useful-electric-vehicle-test-case/)
-- [More additional blog posts and articles](https://terrytao.wordpress.com/2026/10/26/more-additional-blog-posts-and-articles/)
-- [Show HN: Crenox – Fast Git Secret Scanner](https://github.com/crenoxhq/crenox)
-- [A technical architecture decision tree for SAP Clean Core and S/4HANA migrations](https://medium.com/@snake09031999/tired-of-clean-core-buzzword-slides-the-technical-decision-tree-for-sap-s-4hana-btp-79fe0867fe00)
-- [Vienna Gödel Lecture 2026: Geoffrey Hinton [video]](https://www.youtube.com/watch?v=TNffIt8eRb0)
-- [Eurocracy: The Game](http://eurocracy.xyz/)
-- [GI Moment in Test](https://testflight.apple.com/join/2bw27SdQ)
-- [Whoops: Meta&#39;s Muse Share Links Disclosed All Sorts of Super-Sensitive User Data](https://www.techdirt.com/2026/10/26/whoops-metas-muse-share-links-disclosed-all-sorts-of-super-sensitive-user-data/)
+- [The Bitter Lesson for Humans](https://gfrm.in/posts/bitter-lesson-for-persons/)
+- [Amazon EC2 I7i instances are now available in Amazon Web Services China regions](https://www.amazonaws.cn/en/new/2026/amazon-ec2-i7i-instances/)
+- [UniFi Long-Range Poe Switching](https://blog.ui.com/article/introducing-unifi-long-range-switching)
+- [NoFlo 2.x Is Coming](https://bergie.iki.fi/blog/noflo-20-prep/)
+- [Pell Puzzles Review](https://dles.gg/reviews/pell-puzzles)
+- [Show HN: NoVul – Open-source Mac app to Find and fix vulnerabilities on your Mac](https://github.com/misbahsy/novul)
+- [IanVisits turns twenty – two decades of exploring London](https://www.ianvisits.co.uk/articles/ianvisits-turns-twenty-two-decades-of-exploring-london-93536/)
+- [AI is the real Soylent Green](https://www.danaco.se/ai-is-the-real-soylent-green/)
+- [Show HN: NoVul – Find and Fix Vulnerabilities On](https://news.ycombinator.com/item?id=50270234)
+- [Show HN: A Lego-like composable Framework for RSI](https://rsi-gear.github.io/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

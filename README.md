@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Microsoft offers exits to thousands of employees, including staff on AI and Copilot teams](https://www.computerworld.com/article/4241056/microsoft-offers-exits-to-thousands-including-employees-on-ai-and-copilot-teams.html)
+- [OpenAI bets on AI economics with lower-cost GPT-6.1 Terra](https://www.computerworld.com/article/4241023/openai-bets-on-ai-economics-with-lower-cost-gpt-6-1-terra-2.html)
+- [The right model at the right moment: Vendors push their agentic AI PC vision](https://www.computerworld.com/article/4240536/right-model-at-right-moment-vendors-push-agentic-ai-pc-vision.html)
+- [Apple confirms iPhone Duo problem. What will it do next?](https://www.computerworld.com/article/4241017/apple-confirms-iphone-duo-problem-what-will-it-do-next.html)
+- [No signal, no problem: Smaller models bring more AI capabilities on-device](https://www.computerworld.com/article/4239203/no-signal-no-problem-smaller-models-bring-more-ai-capabilities-on-device.html)
 - [Microsoft Teams to get AI protection against phishing and fraud](https://www.computerworld.com/article/4240393/microsoft-teams-gets-ai-protection-against-phishing-and-fraud.html)
 - [Apple’s triple-whammy week begins with iPad mini](https://www.computerworld.com/article/4240386/apples-triple-whammy-week-begins-with-ipad-mini.html)
 - [Technology has changed. So should the conversation.](https://www.computerworld.com/article/4239947/technology-has-changed-so-should-the-conversation.html)
 - [Google will pay people to use less electricity so its data centers can use more](https://www.computerworld.com/article/4239858/google-will-pay-people-to-use-less-electricity-so-its-data-centers-can-use-more.html)
 - [Hyperscalers allow more scrutiny of controversial data center plans](https://www.computerworld.com/article/4239855/hyperscalers-allow-more-scrutiny-of-controversial-data-center-plans-2.html)
-- [Matrix gains ground in Europe’s public sector — but replacing Teams is another matter](https://www.computerworld.com/article/4239735/matrix-gains-ground-in-europes-public-sector-but-replacing-teams-is-another-matter.html)
-- [OpenClaw creator spent $10 million on AI tokens last month](https://www.computerworld.com/article/4239772/openclaw-creator-spent-10-million-on-ai-tokens-last-month-2.html)
-- [Meta hit with $25 billion fine for illegally sharing user data](https://www.computerworld.com/article/4239751/meta-hit-with-25-billion-fine-for-illegally-sharing-user-data.html)
-- [iPhone Duo: The apps weren’t ready, but the market was](https://www.computerworld.com/article/4239786/iphone-duo-the-apps-werent-ready-but-the-market-was.html)
-- [SAP lets AI play key role in its certification renewal process](https://www.computerworld.com/article/4239660/sap-lets-ai-play-key-role-in-its-certification-renewal-process-2.html)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

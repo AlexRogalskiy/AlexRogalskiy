@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Artificial Analysis Intelligence Index v5](https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5)
-- [Git for the US Code](https://lexifina.com/blog/git-for-the-us-code)
-- [Moxnox 1.0: NT-Like, POSIX-Compatible OS Running Atop Btrfs](https://github.com/maharmstone/moxnox)
-- [Hunger beats tenure: Advice for junior engineers](https://felixrieseberg.com/hunger-beats-tenure-advice-for-junior-engineers/)
-- [Early progress on accelerating drug development with Claude](https://www.anthropic.com/research/early-progress-drug-development)
-- [Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees](https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/)
-- [Code-execution flaw in UEFI firmware threatens most servers on planet Earth](https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/)
-- [Four Months of Zig](https://gracefulliberty.com/articles/four-months-of-zig/)
-- [Tailscale SSH: Investigation and remediation update](https://tailscale.com/ssh-investigation-update)
-- [Survival LLM: AI assistant and emergency library that runs on your own computer](https://www.brangus.io/survival-llm)
+- [We Won&#39;t &quot;Just Hang Out&quot;](https://borretti.me/article/we-wont-just-hang-out)
+- [Zillow to pay $212.5M to settle class action for real estate venture](https://www.reuters.com/legal/government/zillow-pay-2125-million-settle-class-action-over-failed-real-estate-venture-2026-10-28/)
+- [Claude Code regularly sends each background agent’s transcript to its model](https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce)
+- [Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5](https://divagr.com/blog/qwenputer)
+- [GitLab Security Incident: Attempted Exploitation of CVE-2026-97229](https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html)
+- [StackOverflow now gets fewer than 1000 questions a month](https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1)
+- [Formlabs Studio 1 $699 Resin Printer](https://formlabs.com/products/form-studio-1-basic-founders-edition/)
+- [A Health Update](https://furbo.org/2026/10/28/a-health-update/)
+- [Nango &lpar;YC W23&rpar; Is Hiring Across Eng, FDE, Marketing, DevRel](https://nango.dev/careers)
+- [The case of the 9 bit AES key](https://v12.sh/blog/the-case-of-the-9bit-aes-key)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

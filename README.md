@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Bitter Lesson for Humans](https://gfrm.in/posts/bitter-lesson-for-persons/)
-- [Amazon EC2 I7i instances are now available in Amazon Web Services China regions](https://www.amazonaws.cn/en/new/2026/amazon-ec2-i7i-instances/)
-- [UniFi Long-Range Poe Switching](https://blog.ui.com/article/introducing-unifi-long-range-switching)
-- [NoFlo 2.x Is Coming](https://bergie.iki.fi/blog/noflo-20-prep/)
-- [Pell Puzzles Review](https://dles.gg/reviews/pell-puzzles)
-- [Show HN: NoVul – Open-source Mac app to Find and fix vulnerabilities on your Mac](https://github.com/misbahsy/novul)
-- [IanVisits turns twenty – two decades of exploring London](https://www.ianvisits.co.uk/articles/ianvisits-turns-twenty-two-decades-of-exploring-london-93536/)
-- [AI is the real Soylent Green](https://www.danaco.se/ai-is-the-real-soylent-green/)
-- [Show HN: NoVul – Find and Fix Vulnerabilities On](https://news.ycombinator.com/item?id=50270234)
-- [Show HN: A Lego-like composable Framework for RSI](https://rsi-gear.github.io/)
+- [Show HN: Find hidden technical issues across client websites](https://gotrama.com)
+- [EvilQwen](https://jacquesmattheij.com/evilqwen.png)
+- [Local-first means three different things](https://hologram.page/blog/local-first-means-three-different-things)
+- [Open Agent Primitives: run enterprise AI agents securely](https://openap.org)
+- [Between Fact and Fiction: unlock the void energy](https://zenodo.org/records/23629786)
+- [Everything I know about AI regulation I learned from music videos](https://www.technollama.co.uk/everything-i-know-about-ai-regulation-i-learned-from-music-videos)
+- [Australia Bans AI &#39;Emotional Intimacy&#39; with Children;](https://dsrupt.news/articles/australia-bans-ai-emotional-intimacy-with-children-chatbot-makers-will-keep-the/)
+- [Show HN: Orc-work-notify – Claude Code plugin with orc voice alerts](https://github.com/vagkaratzas/orc-work-notify)
+- [Agent&#39;s tests passed. Prove they could have failed](https://github.com/greenlitbooks/mustfail)
+- [The Early Access Playbook v2.0](https://docs.google.com/document/d/1bo9n52j_M4Nx094TObZQVAq1htlB6h9XlySLgFsH710/edit?usp=sharing)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

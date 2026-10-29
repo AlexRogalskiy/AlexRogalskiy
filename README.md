@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Israel election results live: vote count continues as exit polls suggest no clear winner](https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news)
-- [Jess Cartner-Morley on fashion: to nail this year’s British heritage look, just study Rivals](https://www.theguardian.com/fashion/2026/oct/28/jess-cartner-morley-on-fashion-british-heritage-look-rivals)
-- [Unlock the vaults! A glimpse of gothic Britain – in pictures](https://www.theguardian.com/artanddesign/gallery/2026/oct/28/unlock-the-vaults-a-glimpse-of-gothic-britain-in-pictures)
-- [Cycling in the wild heart of the Netherlands: an autumnal break in the Veluwe](https://www.theguardian.com/travel/2026/oct/28/cycling-nature-holiday-veluwe-netherlands)
-- [Peter Asher: Everywhere Man review – music-biz face from Beatles-buddy pop act to superstar producer](https://www.theguardian.com/film/2026/oct/28/peter-asher-everywhere-man-review-from-singer-of-beatles-cast-offs-to-super-star-producer)
-- [How rebuilding old mosques is bringing Sikhs, Hindus and Muslims together in Punjab](https://www.theguardian.com/global-development/2026/oct/28/punjab-india-mosques-restored-heal-sectarian-wounds)
-- [King Charles to discuss legacy of slavery with Commonwealth leaders at summit](https://www.theguardian.com/world/2026/oct/28/king-charles-confirms-he-will-discuss-legacy-of-slavery-at-commonwealth-summit)
-- [Flávio Bolsonaro flees Brazil after presidential election loss, reports say](https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled)
-- [A moment that changed me: I was always a pushover – until I stood up to some teenagers](https://www.theguardian.com/lifeandstyle/2026/oct/28/a-moment-that-changed-me-i-was-always-a-pushover-until-i-stood-up-to-some-teenagers)
-- [TV tonight: five sisters fight for justice after a shocking murder in Belfast](https://www.theguardian.com/tv-and-radio/2026/oct/28/tv-tonight-five-sisters-fight-for-justice-after-a-shocking-in-belfast)
+- [Sri Lanka v England: men’s cricket tri-series one-day international – live](https://www.theguardian.com/sport/live/2026/oct/29/sri-lanka-v-england-mens-cricket-tri-series-one-day-international-live)
+- [‘I earn £126,000 – but nothing’s left at the end of the month’: readers react to the budget](https://www.theguardian.com/uk-news/2026/oct/29/readers-react-to-budget-2026)
+- [Wicker review – Olivia Colman finds the perfect lover in intriguing folk-horror romance](https://www.theguardian.com/film/2026/oct/29/wicker-review-olivia-colman-finds-the-perfect-lover-in-intriguing-folk-horror-romance)
+- [Are You With Me Now? by Hanif Kureishi review – back to basics](https://www.theguardian.com/books/2026/oct/29/are-you-with-me-now-by-hanif-kureishi-review-back-to-basics)
+- [Surveillance and sabotage on the Deutsche Börse photography prize shortlist – in pictures](https://www.theguardian.com/artanddesign/gallery/2026/oct/29/deutsche-borse-photography-prize-shortlist-2027-in-pictures)
+- [Toblerone owner sues British vegan chocolate brand over chunky shape](https://www.theguardian.com/business/2026/oct/29/toblerone-owner-sues-british-vegan-chocolate-brand-over-chunky-shape)
+- [‘Looming stone towers like Maya temples’: a hike through Snowdonia’s slate country](https://www.theguardian.com/travel/2026/oct/29/snowdonia-slate-trail-walk-north-wales)
+- [‘Just come in’: 30 years of Maggie’s cancer care centres – in pictures](https://www.theguardian.com/artanddesign/gallery/2026/oct/29/30-years-of-maggies-centres-in-pictures)
+- [Angry Labour MPs urge leadership not to overrule energy secretary on Rosebank](https://www.theguardian.com/environment/2026/oct/29/labour-mps-rosebank-oilfield-decision-miatta-fahnbulleh-john-healey)
+- [Liz Truss has brought our divided nation together – in mockery of her | Emma Brockes](https://www.theguardian.com/commentisfree/2026/oct/29/liz-truss-new-book-prime-minister-divided-nation)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

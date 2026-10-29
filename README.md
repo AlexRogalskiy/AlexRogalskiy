@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Otter adds ‘Work’ mode to automate more meeting-related tasks](https://www.computerworld.com/article/4241172/otter-adds-work-mode-to-automate-more-meeting-related-tasks.html)
+- [It costs a lot more to use AI models in some languages](https://www.computerworld.com/article/4241844/ai-models-are-much-more-expensive-for-less-common-languages.html)
+- [Trump says Microsoft abuses visa laws. Microsoft disagrees. Who’s telling the truth?](https://www.computerworld.com/article/4241156/trump-says-microsoft-abuses-visa-laws-microsoft-disagrees-whos-telling-the-truth.html)
+- [Opera launches local browser AI, testing enterprise privacy and AI PC strategies](https://www.computerworld.com/article/4241584/opera-launches-local-browser-ai-testing-enterprise-privacy-and-ai-pc-strategies.html)
+- [The case for a full-circle Googlebook future](https://www.computerworld.com/article/4241218/googlebook-future.html)
+- [Apple updates iMac, MacBook Pro, and Creator Studio](https://www.computerworld.com/article/4241217/apple-updates-imac-macbook-pro-and-creator-studio.html)
 - [Microsoft offers exits to thousands of employees, including staff on AI and Copilot teams](https://www.computerworld.com/article/4241056/microsoft-offers-exits-to-thousands-including-employees-on-ai-and-copilot-teams.html)
 - [OpenAI bets on AI economics with lower-cost GPT-6.1 Terra](https://www.computerworld.com/article/4241023/openai-bets-on-ai-economics-with-lower-cost-gpt-6-1-terra-2.html)
 - [The right model at the right moment: Vendors push their agentic AI PC vision](https://www.computerworld.com/article/4240536/right-model-at-right-moment-vendors-push-agentic-ai-pc-vision.html)
 - [Apple confirms iPhone Duo problem. What will it do next?](https://www.computerworld.com/article/4241017/apple-confirms-iphone-duo-problem-what-will-it-do-next.html)
-- [No signal, no problem: Smaller models bring more AI capabilities on-device](https://www.computerworld.com/article/4239203/no-signal-no-problem-smaller-models-bring-more-ai-capabilities-on-device.html)
-- [Microsoft Teams to get AI protection against phishing and fraud](https://www.computerworld.com/article/4240393/microsoft-teams-gets-ai-protection-against-phishing-and-fraud.html)
-- [Apple’s triple-whammy week begins with iPad mini](https://www.computerworld.com/article/4240386/apples-triple-whammy-week-begins-with-ipad-mini.html)
-- [Technology has changed. So should the conversation.](https://www.computerworld.com/article/4239947/technology-has-changed-so-should-the-conversation.html)
-- [Google will pay people to use less electricity so its data centers can use more](https://www.computerworld.com/article/4239858/google-will-pay-people-to-use-less-electricity-so-its-data-centers-can-use-more.html)
-- [Hyperscalers allow more scrutiny of controversial data center plans](https://www.computerworld.com/article/4239855/hyperscalers-allow-more-scrutiny-of-controversial-data-center-plans-2.html)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

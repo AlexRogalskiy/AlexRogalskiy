@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [We Won&#39;t &quot;Just Hang Out&quot;](https://borretti.me/article/we-wont-just-hang-out)
-- [Zillow to pay $212.5M to settle class action for real estate venture](https://www.reuters.com/legal/government/zillow-pay-2125-million-settle-class-action-over-failed-real-estate-venture-2026-10-28/)
-- [Claude Code regularly sends each background agent’s transcript to its model](https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce)
-- [Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5](https://divagr.com/blog/qwenputer)
-- [GitLab Security Incident: Attempted Exploitation of CVE-2026-97229](https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html)
-- [StackOverflow now gets fewer than 1000 questions a month](https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1)
-- [Formlabs Studio 1 $699 Resin Printer](https://formlabs.com/products/form-studio-1-basic-founders-edition/)
-- [A Health Update](https://furbo.org/2026/10/28/a-health-update/)
-- [Nango &lpar;YC W23&rpar; Is Hiring Across Eng, FDE, Marketing, DevRel](https://nango.dev/careers)
-- [The case of the 9 bit AES key](https://v12.sh/blog/the-case-of-the-9bit-aes-key)
+- [Wasmer &lpar;YC S19&rpar; Is Hiring OS/Hypervisor Experts in Europe](https://www.workatastartup.com/jobs/98722)
+- [Pico CSS is no longer maintained](https://github.com/picocss/pico/discussions/754)
+- [Herdr has released native app](https://github.com/herdrdev/herdr-app)
+- [Cormac McCarthy&#39;s Library](https://cormacmccarthy.lib.utk.edu/)
+- [Show HN: I Turned DOOM into a Transformer](https://github.com/mottopanikeiku/doomformer)
+- [A Pig, the State, and War: Porco Rosso &lpar;Kurenai No Buta&rpar; &lpar;2014&rpar;](https://journal.animationstudies.org/article/id/66/)
+- [The Great American Rascal: Tom Sawyer at 150](https://claremontreviewofbooks.com/the-great-american-rascal/)
+- [Should a medical diagnosis reshape the past? &lpar;2025&rpar;](https://chengela.substack.com/p/should-a-medical-diagnosis-reshape)
+- [We ran AI agent swarms in Minecraft and Mindustry](https://labs.ycombinator.com/projects/games/index.html)
+- [Binance-hacker-1029 – $5.6B stolen from Binance](https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

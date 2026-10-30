@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: Find hidden technical issues across client websites](https://gotrama.com)
-- [EvilQwen](https://jacquesmattheij.com/evilqwen.png)
-- [Local-first means three different things](https://hologram.page/blog/local-first-means-three-different-things)
-- [Open Agent Primitives: run enterprise AI agents securely](https://openap.org)
-- [Between Fact and Fiction: unlock the void energy](https://zenodo.org/records/23629786)
-- [Everything I know about AI regulation I learned from music videos](https://www.technollama.co.uk/everything-i-know-about-ai-regulation-i-learned-from-music-videos)
-- [Australia Bans AI &#39;Emotional Intimacy&#39; with Children;](https://dsrupt.news/articles/australia-bans-ai-emotional-intimacy-with-children-chatbot-makers-will-keep-the/)
-- [Show HN: Orc-work-notify – Claude Code plugin with orc voice alerts](https://github.com/vagkaratzas/orc-work-notify)
-- [Agent&#39;s tests passed. Prove they could have failed](https://github.com/greenlitbooks/mustfail)
-- [The Early Access Playbook v2.0](https://docs.google.com/document/d/1bo9n52j_M4Nx094TObZQVAq1htlB6h9XlySLgFsH710/edit?usp=sharing)
+- [Reddit is moving to &quot;a logged-in-only experience,&quot; CEO says](https://arstechnica.com/gadgets/2026/10/reddit-will-require-you-to-log-in-eventually-ceo-confirms/)
+- [Manus please stop copy me ！ [video]](https://www.youtube.com/shorts/ijRkSFoZtMM)
+- [A software audit skill for solo builders](https://github.com/luigimorel/software-audit-skill)
+- [Google Custom Search API is shutting down: migration guide and alternatives](https://blog.apify.com/google-custom-search-api-alternative/)
+- [Monday.com&#39;s Shift to Embedded Engineering](https://blogs.timesofisrael.com/the-last-mile-inside-monday-coms-shift-to-embedded-ai-engineering/)
+- [Show HN: Ghostman – A fast, keyboard-driven TUI API client and webhook inspector](https://github.com/4yk5/Ghostman)
+- [Show HN: I rebuilt my about page with stats from GitHub, WakaTime and Goodreads](https://yedhu.me/about/)
+- [Show HN: Stochastic Lagrangian Control and Proportional Bias Routing for Moe](https://github.com/lambda-z-lab/lz-moe-slc)
+- [&#39;Elite North Korean hackers&#39; blamed for $6.3B Binance hack](https://www.theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates)
+- [Implant reported in a Trezor sold by CryptoBilis](https://trezor.io/blog/news/implant-reported-in-a-trezor-sold-by-cryptobilis)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

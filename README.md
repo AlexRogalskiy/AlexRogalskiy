@@ -355,6 +355,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Fake Anthropic AI previews lure in overeager employees](https://www.computerworld.com/article/4241914/fake-anthropic-ai-previews-lure-in-overeager-employees-2.html)
+- [Apple brings touch to the Mac with $2,899 OLED MacBook Pro](https://www.computerworld.com/article/4241873/apple-brings-touch-to-the-mac-with-2899-oled-macbook-pro.html)
+- [Anthropic and OpenAI diverge on who should pull the plug on risky AI](https://www.computerworld.com/article/4242101/anthropic-and-openai-diverge-on-who-should-pull-the-plug-on-risky-ai.html)
 - [Otter adds ‘Work’ mode to automate more meeting-related tasks](https://www.computerworld.com/article/4241172/otter-adds-work-mode-to-automate-more-meeting-related-tasks.html)
 - [It costs a lot more to use AI models in some languages](https://www.computerworld.com/article/4241844/ai-models-are-much-more-expensive-for-less-common-languages.html)
 - [Trump says Microsoft abuses visa laws. Microsoft disagrees. Who’s telling the truth?](https://www.computerworld.com/article/4241156/trump-says-microsoft-abuses-visa-laws-microsoft-disagrees-whos-telling-the-truth.html)
@@ -362,9 +365,6 @@
 - [The case for a full-circle Googlebook future](https://www.computerworld.com/article/4241218/googlebook-future.html)
 - [Apple updates iMac, MacBook Pro, and Creator Studio](https://www.computerworld.com/article/4241217/apple-updates-imac-macbook-pro-and-creator-studio.html)
 - [Microsoft offers exits to thousands of employees, including staff on AI and Copilot teams](https://www.computerworld.com/article/4241056/microsoft-offers-exits-to-thousands-including-employees-on-ai-and-copilot-teams.html)
-- [OpenAI bets on AI economics with lower-cost GPT-6.1 Terra](https://www.computerworld.com/article/4241023/openai-bets-on-ai-economics-with-lower-cost-gpt-6-1-terra-2.html)
-- [The right model at the right moment: Vendors push their agentic AI PC vision](https://www.computerworld.com/article/4240536/right-model-at-right-moment-vendors-push-agentic-ai-pc-vision.html)
-- [Apple confirms iPhone Duo problem. What will it do next?](https://www.computerworld.com/article/4241017/apple-confirms-iphone-duo-problem-what-will-it-do-next.html)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

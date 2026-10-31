@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [‘Elite North Korean hackers’ blamed for $6.3bn Binance hack – business live](https://www.theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates)
-- [Mahmood infuriates fellow ministers by failing to reveal impact of UK migration shake-up](https://www.theguardian.com/uk-news/2026/oct/30/shabana-mahmood-infuriates-ministers-migration-shake-up)
-- [‘Expect goosebumps!’: to celebrate Halloween, readers choose the spookiest places in the UK](https://www.theguardian.com/travel/2026/oct/30/readers-favourite-spooky-places-uk-halloween)
-- [Attention Seeking Behaviour by Aea Varfis-van Warmelo review – a slippery liar’s tale](https://www.theguardian.com/books/2026/oct/30/attention-seeking-behaviour-by-aea-varfis-van-warmelo-review-a-slippery-liars-tale)
-- [UK side-hustle tax-free allowance to rise to £3,000 next year](https://www.theguardian.com/politics/2026/oct/30/uk-side-hustle-tax-free-allowance-rise-3000)
-- [Homes without neighbours in England and Wales – in pictures](https://www.theguardian.com/money/gallery/2026/oct/30/homes-without-neighbours-england-and-wales-in-pictures)
-- [Black Doves to Stick: the seven best shows to stream this week](https://www.theguardian.com/tv-and-radio/2026/oct/30/black-doves-to-stick-the-seven-best-shows-to-stream-this-week)
-- [DIY socks, messy collars and cummerbunds: nine wardrobe updates from the catwalks](https://www.theguardian.com/fashion/2026/oct/29/diy-socks-messy-collars-and-cummberbunds-nine-wardrobe-updates-from-the-catwalks)
-- [Biodiversity Cop17 seems to be stalling. Is it time to reform the process?](https://www.theguardian.com/environment/2026/oct/30/biodiversity-cop17-process)
-- [TV tonight: who will win Celebrity Traitors? It’s time to find out](https://www.theguardian.com/tv-and-radio/2026/oct/30/tv-tonight-who-will-win-celebrity-traitors-its-time-to-find-out)
+- [Pakistan v Sri Lanka: tri-series cricket one-day international final – live](https://www.theguardian.com/sport/live/2026/oct/31/pakistan-v-sri-lanka-tri-series-odi-final-live)
+- [What links Suzi Quatro, Cream and Blink-182? The Saturday quiz](https://www.theguardian.com/lifeandstyle/2026/oct/31/what-links-suzi-quatro-cream-and-blink-182-the-saturday-quiz)
+- [Nigel’s ‘chiselled cheekbones’ make the news – Reform’s the Reformer, digested by John Crace](https://www.theguardian.com/books/2026/oct/31/nigel-farage-news-the-reformer-digested-by-john-crace)
+- [10 spine-chilling places to visit in Britain for Halloween](https://www.theguardian.com/travel/2026/oct/31/britain-spooky-places-to-visit-halloween)
+- [The Guide #267: Robert Pattinson embraced his inner low life and became one of the best actors of his era](https://www.theguardian.com/culture/2026/oct/30/robert-pattinsons-rogues-gallery-epitomises-the-era-of-the-prolific-actor)
+- [Yaga: chicken bones? Saltburn parties? This folk horror is so debauched, it’s hilarious](https://www.theguardian.com/tv-and-radio/2026/oct/31/yaga-folk-horror-hudson-williams-carrie-anne-moss)
+- [Budget 2026: how to beat the new savings tax rates](https://www.theguardian.com/money/2026/oct/31/budget-2026-how-to-beat-the-new-savings-tax-rates)
+- [How good is a mouse’s eyesight and what comes after space? The kids’ quiz](https://www.theguardian.com/lifeandstyle/2026/oct/31/how-good-is-a-mouses-eyesight-and-what-comes-after-space-the-kids-quiz)
+- [Avanti West Coast paid out £20m in ‘delay repay’ passenger refunds this summer](https://www.theguardian.com/business/2026/oct/31/avanti-west-coast-gwr-lner-train-delay-repay-passenger-refunds-compensation)
+- [TV tonight: Halloween weirdness with Heated Rivalry’s Hudson Williams](https://www.theguardian.com/tv-and-radio/2026/oct/31/tv-tonight-halloween-weirdness-with-heated-rivalrys-hudson-williams)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

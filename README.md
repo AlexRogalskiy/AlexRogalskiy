@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Wasmer &lpar;YC S19&rpar; Is Hiring OS/Hypervisor Experts in Europe](https://www.workatastartup.com/jobs/98722)
-- [Pico CSS is no longer maintained](https://github.com/picocss/pico/discussions/754)
-- [Herdr has released native app](https://github.com/herdrdev/herdr-app)
-- [Cormac McCarthy&#39;s Library](https://cormacmccarthy.lib.utk.edu/)
-- [Show HN: I Turned DOOM into a Transformer](https://github.com/mottopanikeiku/doomformer)
-- [A Pig, the State, and War: Porco Rosso &lpar;Kurenai No Buta&rpar; &lpar;2014&rpar;](https://journal.animationstudies.org/article/id/66/)
-- [The Great American Rascal: Tom Sawyer at 150](https://claremontreviewofbooks.com/the-great-american-rascal/)
-- [Should a medical diagnosis reshape the past? &lpar;2025&rpar;](https://chengela.substack.com/p/should-a-medical-diagnosis-reshape)
-- [We ran AI agent swarms in Minecraft and Mindustry](https://labs.ycombinator.com/projects/games/index.html)
-- [Binance-hacker-1029 – $5.6B stolen from Binance](https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8)
+- [Tell HN: Scribd Breached](https://news.ycombinator.com/item?id=50312756)
+- [Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game](https://tng.episodle.com/)
+- [Sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust](https://www.firezone.dev/blog/introducing-sanstun)
+- [Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man](https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/)
+- [Jules Verne&#39;s Lost Novel](https://blue-continuum.com/verne-paris)
+- [The oldest ice disappears and the Stone Age emerges from it](https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921)
+- [Infinite Mac: BeOS](https://blog.persistent.info/2026/10/infinite-mac-beos.html)
+- [My favourite PowerMac is a Nintendo Wii](https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/)
+- [Show HN: A working Nintendo in ~1GB of Qwen weights](https://github.com/dbreunig/nesformer)
+- [AI isn&#39;t replacing SREs, it&#39;s deskilling them](https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

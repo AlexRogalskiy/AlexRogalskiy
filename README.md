@@ -355,6 +355,8 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Smplify wants a human checkpoint between AI agents and your device fleet](https://www.computerworld.com/article/4242772/smplify-wants-a-human-checkpoint-between-ai-agents-and-your-device-fleet.html)
+- [Don’t trust AI to keep your secrets](https://www.computerworld.com/article/4242386/dont-trust-ai-to-keep-your-secrets.html)
 - [Fake Anthropic AI previews lure in overeager employees](https://www.computerworld.com/article/4241914/fake-anthropic-ai-previews-lure-in-overeager-employees-2.html)
 - [Apple brings touch to the Mac with $2,899 OLED MacBook Pro](https://www.computerworld.com/article/4241873/apple-brings-touch-to-the-mac-with-2899-oled-macbook-pro.html)
 - [Anthropic and OpenAI diverge on who should pull the plug on risky AI](https://www.computerworld.com/article/4242101/anthropic-and-openai-diverge-on-who-should-pull-the-plug-on-risky-ai.html)
@@ -363,8 +365,6 @@
 - [Trump says Microsoft abuses visa laws. Microsoft disagrees. Who’s telling the truth?](https://www.computerworld.com/article/4241156/trump-says-microsoft-abuses-visa-laws-microsoft-disagrees-whos-telling-the-truth.html)
 - [Opera launches local browser AI, testing enterprise privacy and AI PC strategies](https://www.computerworld.com/article/4241584/opera-launches-local-browser-ai-testing-enterprise-privacy-and-ai-pc-strategies.html)
 - [The case for a full-circle Googlebook future](https://www.computerworld.com/article/4241218/googlebook-future.html)
-- [Apple updates iMac, MacBook Pro, and Creator Studio](https://www.computerworld.com/article/4241217/apple-updates-imac-macbook-pro-and-creator-studio.html)
-- [Microsoft offers exits to thousands of employees, including staff on AI and Copilot teams](https://www.computerworld.com/article/4241056/microsoft-offers-exits-to-thousands-including-employees-on-ai-and-copilot-teams.html)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

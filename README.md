@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Reddit is moving to &quot;a logged-in-only experience,&quot; CEO says](https://arstechnica.com/gadgets/2026/10/reddit-will-require-you-to-log-in-eventually-ceo-confirms/)
-- [Manus please stop copy me ！ [video]](https://www.youtube.com/shorts/ijRkSFoZtMM)
-- [A software audit skill for solo builders](https://github.com/luigimorel/software-audit-skill)
-- [Google Custom Search API is shutting down: migration guide and alternatives](https://blog.apify.com/google-custom-search-api-alternative/)
-- [Monday.com&#39;s Shift to Embedded Engineering](https://blogs.timesofisrael.com/the-last-mile-inside-monday-coms-shift-to-embedded-ai-engineering/)
-- [Show HN: Ghostman – A fast, keyboard-driven TUI API client and webhook inspector](https://github.com/4yk5/Ghostman)
-- [Show HN: I rebuilt my about page with stats from GitHub, WakaTime and Goodreads](https://yedhu.me/about/)
-- [Show HN: Stochastic Lagrangian Control and Proportional Bias Routing for Moe](https://github.com/lambda-z-lab/lz-moe-slc)
-- [&#39;Elite North Korean hackers&#39; blamed for $6.3B Binance hack](https://www.theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates)
-- [Implant reported in a Trezor sold by CryptoBilis](https://trezor.io/blog/news/implant-reported-in-a-trezor-sold-by-cryptobilis)
+- [Nvidia Nemotron 3.5 Bolt E4B 4GB](https://research.nvidia.com/labs/nemotron/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB/)
+- [Ranji Smile: The forgotten chef who opened America&#39;s first Indian restaurant](https://www.bbc.com/news/articles/crm941n0413o)
+- [How to Get a Stable Public IP on macOS Using a VPS and Tailscale](https://zyvop.com/how-to-get-a-stable-public-ip-on-macos-using-a-vps-and-tailscale-p5dgv)
+- [Lspkit – a Rust Toolkit for Building Programming Language Toolsets](https://lspkit.dev/)
+- [Understanding the core 4 choices is where conscious creation begins](https://randomfuckingknowledge.substack.com/p/the-four-choices-that-change-how)
+- [Show HN: Readeck sync for Kobo&#39;s stock reader](https://github.com/fkaduk/kobodeck)
+- [Live benchmark of web scraping APIs and residential proxies &lpar;2026&rpar;](https://github.com/tianjun588/llm-web-scraping-benchmark)
+- [Show HN: Agent-arcade – Terminal games that pause when Claude Code/Codex is done](https://github.com/Kuldeep-045/agent-arcade)
+- [Name the UK Space Agency&#39;s Active Debris Removal Mission](https://space.blog.gov.uk/2026/10/15/name-the-uk-space-agencys-first-national-mission-%f0%9f%9b%b0%ef%b8%8f%f0%9f%8c%8d/)
+- [Do At-Proto Users Know This Is Public?](https://melaniekat.com/blog/public-on-pds/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

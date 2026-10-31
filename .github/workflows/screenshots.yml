@@ -14,7 +14,7 @@ jobs:
         include:
           - url: 'https://www.brainyquote.com/quote_of_the_day'
             width: 600
-            height: 500
+            height: 480
             tag: 'brainyquote'
     steps:
       - uses: actions/checkout@v2

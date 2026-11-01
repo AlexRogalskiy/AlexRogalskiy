@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Nvidia Nemotron 3.5 Bolt E4B 4GB](https://research.nvidia.com/labs/nemotron/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB/)
-- [Ranji Smile: The forgotten chef who opened America&#39;s first Indian restaurant](https://www.bbc.com/news/articles/crm941n0413o)
-- [How to Get a Stable Public IP on macOS Using a VPS and Tailscale](https://zyvop.com/how-to-get-a-stable-public-ip-on-macos-using-a-vps-and-tailscale-p5dgv)
-- [Lspkit – a Rust Toolkit for Building Programming Language Toolsets](https://lspkit.dev/)
-- [Understanding the core 4 choices is where conscious creation begins](https://randomfuckingknowledge.substack.com/p/the-four-choices-that-change-how)
-- [Show HN: Readeck sync for Kobo&#39;s stock reader](https://github.com/fkaduk/kobodeck)
-- [Live benchmark of web scraping APIs and residential proxies &lpar;2026&rpar;](https://github.com/tianjun588/llm-web-scraping-benchmark)
-- [Show HN: Agent-arcade – Terminal games that pause when Claude Code/Codex is done](https://github.com/Kuldeep-045/agent-arcade)
-- [Name the UK Space Agency&#39;s Active Debris Removal Mission](https://space.blog.gov.uk/2026/10/15/name-the-uk-space-agencys-first-national-mission-%f0%9f%9b%b0%ef%b8%8f%f0%9f%8c%8d/)
-- [Do At-Proto Users Know This Is Public?](https://melaniekat.com/blog/public-on-pds/)
+- [Show HN: Wafmeow – fast WAF fingerprinting in Go](https://github.com/Lu1sDV/wafmeow/)
+- [Show HN: Overhear – mention monitoring billed per search, not per month](https://overhear.dev/)
+- [Sayloe – Speak in one language, type in another on Mac](https://sayloe.com/)
+- [Chain Theory](https://theinnermostloop.substack.com/p/chain-theory)
+- [Show HN: OpenNorme – every law in Italy from 1861 in Git. One law per file](https://github.com/dej611/italian-laws-history)
+- [The Brutal Harvard Class That Suddenly Everyone Wants to Take](https://www.wsj.com/lifestyle/harvard-class-humanities-32e06366)
+- [We&#39;re Living in the Age of the Imperial CEO](https://www.wsj.com/tech/ai/anthropic-ipo-dual-class-stock-founder-control-4c43a56d)
+- [Never Trust an Artist](https://medium.com/luminasticity/never-trust-an-artist-d7ce73ad336c)
+- [Aqueous: The files you keep are compressed. Badly](https://lifthrasiir.github.io/aqueous/)
+- [Daylight Saving Time](https://en.wikipedia.org/wiki/Daylight_saving_time)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

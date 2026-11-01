@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Tell HN: Scribd Breached](https://news.ycombinator.com/item?id=50312756)
-- [Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game](https://tng.episodle.com/)
-- [Sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust](https://www.firezone.dev/blog/introducing-sanstun)
-- [Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man](https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/)
-- [Jules Verne&#39;s Lost Novel](https://blue-continuum.com/verne-paris)
-- [The oldest ice disappears and the Stone Age emerges from it](https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921)
-- [Infinite Mac: BeOS](https://blog.persistent.info/2026/10/infinite-mac-beos.html)
-- [My favourite PowerMac is a Nintendo Wii](https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/)
-- [Show HN: A working Nintendo in ~1GB of Qwen weights](https://github.com/dbreunig/nesformer)
-- [AI isn&#39;t replacing SREs, it&#39;s deskilling them](https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling)
+- [Pac-Man&#39;s Siren Call](https://unsung.aresluna.org/pac-mans-siren-call/)
+- [The AI cost of JavaScript frameworks](https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/)
+- [Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing](https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/)
+- [OTape](https://www.otape.org/)
+- [Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM &lpar;2024&rpar;](https://arxiv.org/abs/2409.02292)
+- [Altoids Project](https://uvdn7.github.io/altoids-project/)
+- [Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard](https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve)
+- [An Italian farmer found some unknown seeds in his attic and planted them](https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/)
+- [AI text watermarking and quality loss](https://blog.keyvan.net/p/ai-text-watermarking-and-quality)
+- [ChatGPT and Codex usage limits merging](https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

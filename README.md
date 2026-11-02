@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Carrick defiant after latest defeat, Liverpool v Arsenal buildup, WSL and more – matchday live](https://www.theguardian.com/football/live/2026/nov/01/carrick-defiant-after-latest-defeat-liverpool-v-arsenal-buildup-wsl-and-more-matchday-live)
-- [Rampant Salford hint that Beckham’s lofty ambitions are not a pipe dream](https://www.theguardian.com/football/2026/nov/01/salford-city-david-beckham-lofty-ambitions-football)
-- [Strauss: An Alpine Symphony album review – monumental work’s mystic vision guides Petrenko](https://www.theguardian.com/music/2026/nov/01/strauss-an-alpine-symphony-album-review)
-- [Dafne Keen and Harriet Walter on working with Patrick Stewart: ‘I’ve never seen anyone so ecstatic’](https://www.theguardian.com/culture/2026/nov/01/dafne-keen-and-harriet-walter-on-working-with-patrick-stewart-ive-never-seen-anyone-so-ecstatic)
-- [‘Progress takes time’: Stonewall CEO on turning down the heat on the trans debate](https://www.theguardian.com/society/2026/nov/01/progress-takes-time-stonewall-ceo-on-turning-down-the-heat-on-the-trans-debate)
-- [English children’s homes are in crisis. Does Denmark hold the answers?](https://www.theguardian.com/society/2026/nov/01/english-childrens-homes-crisis-denmark-care-system-model)
-- [A gift to scammers: why you should probably keep your birthday a secret](https://www.theguardian.com/money/2026/nov/01/do-not-share-date-of-birth-online-scam-fraudsters-advice)
-- [It’s snow time: the best winter activity holidays in Europe for non-skiers](https://www.theguardian.com/travel/2026/nov/01/its-snow-time-the-best-winter-activity-holidays-in-europe-for-non-skiers)
-- [Binance says 90% of losses from $6.3bn hack covered as FBI says North Korea behind attack](https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency)
-- [Merciless Jillaroos destroy Wales at Rugby League World Cup, piling on all-time record score](https://www.theguardian.com/sport/2026/nov/01/australia-jillaroos-wales-womens-rugby-league-world-cup-match-report)
+- [Crypto ‘scammers on overdrive’ as Binance customers pull billions from accounts after $6.3bn hack – business live](https://www.theguardian.com/business/live/2026/nov/02/crypto-scam-binance-billion-hack-business-live-latest-updates-news)
+- [Award‑winning Australian children’s author Craig Silvey jailed over child exploitation material](https://www.theguardian.com/australia-news/2026/nov/02/australian-author-craig-silvey-jailed-child-exploitation-material-ntwnfb)
+- [Meeting Elvis was ‘my biggest day with the Beatles’, says road manager’s book](https://www.theguardian.com/music/2026/nov/02/elvis-presley-the-beatles-mal-evans-memoir)
+- [Is it true that … drinking alcohol warms you up?](https://www.theguardian.com/lifeandstyle/2026/nov/02/is-it-true-that-drinking-alcohol-warm-you-up)
+- [Memo to King Charles: if the Dutch king can apologise for slavery, why can’t you? | Raoul de Jong](https://www.theguardian.com/commentisfree/2026/nov/02/king-charles-slavery-apology-caribbean-tour)
+- [Premier League: 10 talking points from the weekend’s action](https://www.theguardian.com/football/2026/nov/02/premier-league-10-talking-points-from-the-weekends-action)
+- [Zero passing yards, one win. Did the Bucs just reinvent the NFL in all the wrong ways?](https://www.theguardian.com/sport/2026/nov/02/tampa-bay-buccaneers-zero-passing-yards-nfl-atlanta-falcons)
+- [‘We both know how we feel about death and dying’: Rhys Ifans and Laura Linney on their brutally honest Parkinson’s drama](https://www.theguardian.com/film/2026/nov/02/rhys-ifans-laura-linney-onwards-sideways-film-interview-parkinsons-paul-mayhew-archer)
+- [Nine big oil firms on track to share more than $95bn profit two quarters in a row](https://www.theguardian.com/business/2026/nov/02/nine-of-world-biggest-oil-firms-95bn-profit-third-quarter-iran-war)
+- [‘Traitors in every family’: Hungary to unmask communist-era informants and confront past](https://www.theguardian.com/world/2026/nov/02/hungary-informant-names-revealed-communist-era-past)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

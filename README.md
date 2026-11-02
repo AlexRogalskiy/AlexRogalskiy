@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: Wafmeow – fast WAF fingerprinting in Go](https://github.com/Lu1sDV/wafmeow/)
-- [Show HN: Overhear – mention monitoring billed per search, not per month](https://overhear.dev/)
-- [Sayloe – Speak in one language, type in another on Mac](https://sayloe.com/)
-- [Chain Theory](https://theinnermostloop.substack.com/p/chain-theory)
-- [Show HN: OpenNorme – every law in Italy from 1861 in Git. One law per file](https://github.com/dej611/italian-laws-history)
-- [The Brutal Harvard Class That Suddenly Everyone Wants to Take](https://www.wsj.com/lifestyle/harvard-class-humanities-32e06366)
-- [We&#39;re Living in the Age of the Imperial CEO](https://www.wsj.com/tech/ai/anthropic-ipo-dual-class-stock-founder-control-4c43a56d)
-- [Never Trust an Artist](https://medium.com/luminasticity/never-trust-an-artist-d7ce73ad336c)
-- [Aqueous: The files you keep are compressed. Badly](https://lifthrasiir.github.io/aqueous/)
-- [Daylight Saving Time](https://en.wikipedia.org/wiki/Daylight_saving_time)
+- [Neuralink&#39;s Newest Brain Chip [video]](https://www.youtube.com/watch?v=Vna0hkq7U1g)
+- [BioWare co-founder: game execs &quot;have never made a game&quot; and don&#39;t get it](https://www.pcgamer.com/gaming-industry/none-of-these-people-have-ever-made-a-game-bioware-co-founder-greg-zeschuk-says-of-game-industry-executives-they-just-dont-know-how-it-works/)
+- [Antimony: CAD Software Evolved from Lisp Machines and Not Drafting Tables](https://www.mattkeeter.com/projects/antimony/3/)
+- [Google Trends data on &quot;will AI replace [job]&quot; searches for 56 jobs](https://scrollytelling.ai/what-jobs-will-ai-replace/)
+- [White Box Testing: Techniques, Examples and Best Practices](https://keploy.io/blog/community/white-box-testing)
+- [Show HN: XButForY - Showcase your X but for Y websites](https://xbutfory.com/)
+- [Free Ableton Live 10 Packs from GitHub](https://github.com/gabrielfalcao/ableton-packs-free)
+- [Show HN: HackerBlogs – the 9,434 blogs HN people keep sharing](https://hackerblogs.app)
+- [Do not use this tool for music files](https://github.com/gabrielfalcao/mp3-organizer)
+- [Proton&#39;s AI manifesto for software engineering](https://proton.me/blog/ai-manifesto)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

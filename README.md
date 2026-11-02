@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Pac-Man&#39;s Siren Call](https://unsung.aresluna.org/pac-mans-siren-call/)
-- [The AI cost of JavaScript frameworks](https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/)
-- [Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing](https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/)
-- [OTape](https://www.otape.org/)
-- [Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM &lpar;2024&rpar;](https://arxiv.org/abs/2409.02292)
-- [Altoids Project](https://uvdn7.github.io/altoids-project/)
-- [Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard](https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve)
-- [An Italian farmer found some unknown seeds in his attic and planted them](https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/)
-- [AI text watermarking and quality loss](https://blog.keyvan.net/p/ai-text-watermarking-and-quality)
-- [ChatGPT and Codex usage limits merging](https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits)
+- [China&#39;s First Frontier AI Export Controls: Mofcom Announcement No. 48](https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/)
+- [From Charlemagne to the Kitchen Boy: Reading the Hamburg Rathaus](https://alsterrunde.com/from-charlemagne-to-the-kitchen-boy-reading-the-hamburg-rathaus/)
+- [Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN](https://wikihack.netlify.app)
+- [F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix](https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/)
+- [Bones may release proteins that slow aging and extend life span](https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span)
+- [Trigger.dev customer environment variables exposed](https://trigger.dev/blog/security-incident-nov-2026)
+- [OccupySaaS](https://occupysaas.com/)
+- [Ask HN: Which TV do you recommend for privacy?](https://news.ycombinator.com/item?id=50328896)
+- [Mathematics has changed. Let&#39;s act like it](https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/)
+- [Seoul Viosys begins production of rare-earth-free white light emitter](https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

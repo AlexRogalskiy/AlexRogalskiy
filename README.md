@@ -355,6 +355,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Does AI actually save employees time? Data is contradictory](https://www.computerworld.com/article/4243686/does-ai-actually-save-employees-time-data-is-contradictory-2.html)
+- [Windows 11 upgrades stall amid ‘chipflation’ and ‘RAMageddon’](https://www.computerworld.com/article/4243258/windows-11-upgrades-stall-amid-chipflation-and-ramageddon.html)
+- [Apple Intelligence with Alibaba comes to China in December](https://www.computerworld.com/article/4243306/apple-intelligence-with-alibaba-comes-to-china-in-december.html)
 - [Smplify wants a human checkpoint between AI agents and your device fleet](https://www.computerworld.com/article/4242772/smplify-wants-a-human-checkpoint-between-ai-agents-and-your-device-fleet.html)
 - [Don’t trust AI to keep your secrets](https://www.computerworld.com/article/4242386/dont-trust-ai-to-keep-your-secrets.html)
 - [Fake Anthropic AI previews lure in overeager employees](https://www.computerworld.com/article/4241914/fake-anthropic-ai-previews-lure-in-overeager-employees-2.html)
@@ -362,9 +365,6 @@
 - [Anthropic and OpenAI diverge on who should pull the plug on risky AI](https://www.computerworld.com/article/4242101/anthropic-and-openai-diverge-on-who-should-pull-the-plug-on-risky-ai.html)
 - [Otter adds ‘Work’ mode to automate more meeting-related tasks](https://www.computerworld.com/article/4241172/otter-adds-work-mode-to-automate-more-meeting-related-tasks.html)
 - [It costs a lot more to use AI models in some languages](https://www.computerworld.com/article/4241844/ai-models-are-much-more-expensive-for-less-common-languages.html)
-- [Trump says Microsoft abuses visa laws. Microsoft disagrees. Who’s telling the truth?](https://www.computerworld.com/article/4241156/trump-says-microsoft-abuses-visa-laws-microsoft-disagrees-whos-telling-the-truth.html)
-- [Opera launches local browser AI, testing enterprise privacy and AI PC strategies](https://www.computerworld.com/article/4241584/opera-launches-local-browser-ai-testing-enterprise-privacy-and-ai-pc-strategies.html)
-- [The case for a full-circle Googlebook future](https://www.computerworld.com/article/4241218/googlebook-future.html)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

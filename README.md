@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [China&#39;s First Frontier AI Export Controls: Mofcom Announcement No. 48](https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/)
-- [From Charlemagne to the Kitchen Boy: Reading the Hamburg Rathaus](https://alsterrunde.com/from-charlemagne-to-the-kitchen-boy-reading-the-hamburg-rathaus/)
-- [Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN](https://wikihack.netlify.app)
-- [F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix](https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/)
-- [Bones may release proteins that slow aging and extend life span](https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span)
-- [Trigger.dev customer environment variables exposed](https://trigger.dev/blog/security-incident-nov-2026)
-- [OccupySaaS](https://occupysaas.com/)
-- [Ask HN: Which TV do you recommend for privacy?](https://news.ycombinator.com/item?id=50328896)
-- [Mathematics has changed. Let&#39;s act like it](https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/)
-- [Seoul Viosys begins production of rare-earth-free white light emitter](https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml)
+- [uBlock Origin filter to block autoplay videos in TechCrunch](https://cornfieldlabs.github.io/posts/ublock-stop-techcrunch-autoplay-video/post.html)
+- [Nvidia – open-source auto-ontology](https://github.com/NVIDIA/auto-ontology)
+- [Show HN: ReBirth 338 in Browser](https://margeux.com/rb338.html)
+- [Cloudflare experiencing multiple active incidents](https://www.cloudflarestatus.com/)
+- [Show HN: I built a little browser game to practice Vim commands](https://hjkl.duy.run)
+- [Open-Source 5G Ran Platforms: A Dual Perspective on Performance and Capabilities](https://arxiv.org/abs/2608.25820)
+- [Show HN: Hacker Times, a New York Times-inspired version of Hacker News](https://hackertimes.ca/)
+- [DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio)
+- [Scaling Git at OpenAI](https://openai.com/index/scaling-git-at-openai/)
+- [The SEC Should Block Anthropic&#39;s IPO to Protect the Public](https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

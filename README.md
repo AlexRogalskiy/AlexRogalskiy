@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Crypto ‘scammers on overdrive’ as Binance customers pull billions from accounts after $6.3bn hack – business live](https://www.theguardian.com/business/live/2026/nov/02/crypto-scam-binance-billion-hack-business-live-latest-updates-news)
-- [Award‑winning Australian children’s author Craig Silvey jailed over child exploitation material](https://www.theguardian.com/australia-news/2026/nov/02/australian-author-craig-silvey-jailed-child-exploitation-material-ntwnfb)
-- [Meeting Elvis was ‘my biggest day with the Beatles’, says road manager’s book](https://www.theguardian.com/music/2026/nov/02/elvis-presley-the-beatles-mal-evans-memoir)
-- [Is it true that … drinking alcohol warms you up?](https://www.theguardian.com/lifeandstyle/2026/nov/02/is-it-true-that-drinking-alcohol-warm-you-up)
-- [Memo to King Charles: if the Dutch king can apologise for slavery, why can’t you? | Raoul de Jong](https://www.theguardian.com/commentisfree/2026/nov/02/king-charles-slavery-apology-caribbean-tour)
-- [Premier League: 10 talking points from the weekend’s action](https://www.theguardian.com/football/2026/nov/02/premier-league-10-talking-points-from-the-weekends-action)
-- [Zero passing yards, one win. Did the Bucs just reinvent the NFL in all the wrong ways?](https://www.theguardian.com/sport/2026/nov/02/tampa-bay-buccaneers-zero-passing-yards-nfl-atlanta-falcons)
-- [‘We both know how we feel about death and dying’: Rhys Ifans and Laura Linney on their brutally honest Parkinson’s drama](https://www.theguardian.com/film/2026/nov/02/rhys-ifans-laura-linney-onwards-sideways-film-interview-parkinsons-paul-mayhew-archer)
-- [Nine big oil firms on track to share more than $95bn profit two quarters in a row](https://www.theguardian.com/business/2026/nov/02/nine-of-world-biggest-oil-firms-95bn-profit-third-quarter-iran-war)
-- [‘Traitors in every family’: Hungary to unmask communist-era informants and confront past](https://www.theguardian.com/world/2026/nov/02/hungary-informant-names-revealed-communist-era-past)
+- [Saudi state oil company reports jump in profits despite attacks; Australian central bank lifts rates – business live](https://www.theguardian.com/business/live/2026/nov/03/saudi-oil-company-profits-australian-central-bank-rates-brent-crude-crypto-hack-energy-prices-latest-news-updates)
+- [Henry Nowak ‘would have hated’ riots after his murder, says family](https://www.theguardian.com/uk-news/2026/nov/03/henry-nowak-would-have-hated-riots-after-his-murder-his-says-family)
+- [US strikes Iran’s Qeshm Island as Vance voices optimism about a deal](https://www.theguardian.com/world/2026/nov/03/us-strikes-irans-qeshm-island)
+- [John Lewis Christmas ad stars Kristin Scott Thomas as glamorous granny on a gift hunt](https://www.theguardian.com/media/2026/nov/03/john-lewis-christmas-advert-kristin-scott-thomas-glamorous-granny-gift-hunt)
+- [Honouring the departed: All Souls’ Day observed in India and Bangladesh – in pictures](https://www.theguardian.com/society/gallery/2026/nov/03/honouring-the-departed-all-souls-day-observed-in-india-and-bangladesh-in-pictures)
+- [From the US midterms to the hard right in Britain, empathy has become a dirty word in politics | John Harris](https://www.theguardian.com/commentisfree/2026/nov/03/us-midterms-hard-right-britain-empathy-politics)
+- [Law behind Bonfire Night among records sent from parliament to National Archives](https://www.theguardian.com/uk-news/2026/nov/03/law-behind-bonfire-night-among-records-sent-from-parliament-to-national-archives)
+- [‘I’ve been chased and shot at’: Denzel Bentley on trauma, street violence and brutal boxing politics](https://www.theguardian.com/sport/2026/nov/03/denzel-bentley-trauma-street-violence-boxing-politics)
+- [Don’t call it a remontada: Emery’s Camp Nou comeback focuses European blur](https://www.theguardian.com/football/2026/nov/03/unai-emery-aston-villa-barcelona-camp-nou-champions-league)
+- [Americans head to polls in midterm elections seen as referendum on Trump](https://www.theguardian.com/us-news/2026/nov/03/midterm-elections-americans-vote)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

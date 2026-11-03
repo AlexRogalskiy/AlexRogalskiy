@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Neuralink&#39;s Newest Brain Chip [video]](https://www.youtube.com/watch?v=Vna0hkq7U1g)
-- [BioWare co-founder: game execs &quot;have never made a game&quot; and don&#39;t get it](https://www.pcgamer.com/gaming-industry/none-of-these-people-have-ever-made-a-game-bioware-co-founder-greg-zeschuk-says-of-game-industry-executives-they-just-dont-know-how-it-works/)
-- [Antimony: CAD Software Evolved from Lisp Machines and Not Drafting Tables](https://www.mattkeeter.com/projects/antimony/3/)
-- [Google Trends data on &quot;will AI replace [job]&quot; searches for 56 jobs](https://scrollytelling.ai/what-jobs-will-ai-replace/)
-- [White Box Testing: Techniques, Examples and Best Practices](https://keploy.io/blog/community/white-box-testing)
-- [Show HN: XButForY - Showcase your X but for Y websites](https://xbutfory.com/)
-- [Free Ableton Live 10 Packs from GitHub](https://github.com/gabrielfalcao/ableton-packs-free)
-- [Show HN: HackerBlogs – the 9,434 blogs HN people keep sharing](https://hackerblogs.app)
-- [Do not use this tool for music files](https://github.com/gabrielfalcao/mp3-organizer)
-- [Proton&#39;s AI manifesto for software engineering](https://proton.me/blog/ai-manifesto)
+- [Flowchart for Claude Code](https://github.com/alexabbi/fcc)
+- [The smallest neural text-to-speech family](https://tts.ampixa.com/sanoTTS/)
+- [The fastest double-to-string algorithm you&#39;ve never heard of](https://vitaut.net/posts/2026/yy-dtoa/)
+- [Show HN: Try an AI agent wallet in the browser – buy a stamp from a bot](https://proof.zketernity.app/stamps/try.html)
+- [Product on 500 news sites in 3 minutes](https://pressdrop.io)
+- [Is now a good time to buy an LG TV?](https://blog.mattsbit.co.uk/2026/11/02/is-now-a-good-time-to-buy-an-lg-tv/)
+- [Djs: A Stoppable/Resumable JavaScript Engine in Rust with QuickJS Compatability](https://earendil-works.github.io/djs/)
+- [Show HN: Solvedle – daily logic puzzles with unique solutions](https://solvedle.com/)
+- [Show HN: Echo – Offline semantic image search for Windows &lpar;CLIP and FAISS&rpar;](https://github.com/kelvinolabanji/echo)
+- [Ideas That Refused to Die](https://www.amazon.com/clp/B0HPX524ZH)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

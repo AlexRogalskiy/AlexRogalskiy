@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [uBlock Origin filter to block autoplay videos in TechCrunch](https://cornfieldlabs.github.io/posts/ublock-stop-techcrunch-autoplay-video/post.html)
-- [Nvidia – open-source auto-ontology](https://github.com/NVIDIA/auto-ontology)
-- [Show HN: ReBirth 338 in Browser](https://margeux.com/rb338.html)
-- [Cloudflare experiencing multiple active incidents](https://www.cloudflarestatus.com/)
-- [Show HN: I built a little browser game to practice Vim commands](https://hjkl.duy.run)
-- [Open-Source 5G Ran Platforms: A Dual Perspective on Performance and Capabilities](https://arxiv.org/abs/2608.25820)
-- [Show HN: Hacker Times, a New York Times-inspired version of Hacker News](https://hackertimes.ca/)
-- [DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio)
-- [Scaling Git at OpenAI](https://openai.com/index/scaling-git-at-openai/)
-- [The SEC Should Block Anthropic&#39;s IPO to Protect the Public](https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/)
+- [The lost malloc&lpar;&rpar;](https://napcakes.nekoweb.org/posts/malloc/)
+- [AI stocks slide as Texas governor result raises data center risks](https://www.cnbc.com/2026/11/04/ai-stocks-texas-governor-data-centers.html)
+- [Jelly Sheet](https://mrdoob.github.io/codevember-2026/01/)
+- [Distinct cellular and genetic differences in colorectal cancer in young patients](https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients)
+- [Arrows to arrows, categories to queries &lpar;2025&rpar;](https://reasonablypolymorphic.com/blog/arrows-to-arrows/)
+- [Giant canyon on Mars is still tectonically active](https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today)
+- [C++26 Disapproved](https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/)
+- [The Internals of PostgreSQL](https://www.interdb.jp/pg/index.html)
+- [The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer](https://arxiv.org/abs/2605.29713)
+- [Safari introduces Adaptive Dark Mode in 27.3](https://webkit.org/blog/18541/introducing-adaptive-dark-mode/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Flowchart for Claude Code](https://github.com/alexabbi/fcc)
-- [The smallest neural text-to-speech family](https://tts.ampixa.com/sanoTTS/)
-- [The fastest double-to-string algorithm you&#39;ve never heard of](https://vitaut.net/posts/2026/yy-dtoa/)
-- [Show HN: Try an AI agent wallet in the browser – buy a stamp from a bot](https://proof.zketernity.app/stamps/try.html)
-- [Product on 500 news sites in 3 minutes](https://pressdrop.io)
-- [Is now a good time to buy an LG TV?](https://blog.mattsbit.co.uk/2026/11/02/is-now-a-good-time-to-buy-an-lg-tv/)
-- [Djs: A Stoppable/Resumable JavaScript Engine in Rust with QuickJS Compatability](https://earendil-works.github.io/djs/)
-- [Show HN: Solvedle – daily logic puzzles with unique solutions](https://solvedle.com/)
-- [Show HN: Echo – Offline semantic image search for Windows &lpar;CLIP and FAISS&rpar;](https://github.com/kelvinolabanji/echo)
-- [Ideas That Refused to Die](https://www.amazon.com/clp/B0HPX524ZH)
+- [Ask HN: Impact of US Elections on AI?](https://news.ycombinator.com/item?id=50362700)
+- [Ask HN: How to Keep the Edge as an Engineer?](https://news.ycombinator.com/item?id=50362698)
+- [Show HN: A privacy-first career toolkit &lpar;PDF manipulation runs in Browser/WASM&rpar;](https://www.onestoplinkedin.com)
+- [The Crimes of SEAL Team 6 &lpar;2017&rpar;](https://web.archive.org/web/20170110111518/https://theintercept.com/2017/01/10/the-crimes-of-seal-team-6/)
+- [Fossilised red blood cells found in 115M-year-old dinosaur&#39;s bone](https://www.theguardian.com/science/2026/nov/02/fossilised-red-blood-cells-aratasaurus-dinosaurs-bone)
+- [Show HN: Meteosource MCP server, weather data for AI assistants](https://mcp.meteosource.com/)
+- [You&#39;ll need nerves of steel to work with AI agents](https://orchidfiles.com/youll-need-nerves-of-steel-to-work-with-ai-agents/)
+- [Anthropic: Progress on provable inference for large language models](https://www.anthropic.com/research/provable-inference)
+- [Oh god. Oh no. We need to talk about life insurance [video]](https://www.youtube.com/watch?v=MXEhtkrbdJM)
+- [Show HN: HIPAA compliance evidence for Supabase RLS,functions,triggers,auditlogs](https://unitautogen.com/blog/hipaa-evidence-for-supabase.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

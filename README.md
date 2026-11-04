@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Saudi state oil company reports jump in profits despite attacks; Australian central bank lifts rates – business live](https://www.theguardian.com/business/live/2026/nov/03/saudi-oil-company-profits-australian-central-bank-rates-brent-crude-crypto-hack-energy-prices-latest-news-updates)
-- [Henry Nowak ‘would have hated’ riots after his murder, says family](https://www.theguardian.com/uk-news/2026/nov/03/henry-nowak-would-have-hated-riots-after-his-murder-his-says-family)
-- [US strikes Iran’s Qeshm Island as Vance voices optimism about a deal](https://www.theguardian.com/world/2026/nov/03/us-strikes-irans-qeshm-island)
-- [John Lewis Christmas ad stars Kristin Scott Thomas as glamorous granny on a gift hunt](https://www.theguardian.com/media/2026/nov/03/john-lewis-christmas-advert-kristin-scott-thomas-glamorous-granny-gift-hunt)
-- [Honouring the departed: All Souls’ Day observed in India and Bangladesh – in pictures](https://www.theguardian.com/society/gallery/2026/nov/03/honouring-the-departed-all-souls-day-observed-in-india-and-bangladesh-in-pictures)
-- [From the US midterms to the hard right in Britain, empathy has become a dirty word in politics | John Harris](https://www.theguardian.com/commentisfree/2026/nov/03/us-midterms-hard-right-britain-empathy-politics)
-- [Law behind Bonfire Night among records sent from parliament to National Archives](https://www.theguardian.com/uk-news/2026/nov/03/law-behind-bonfire-night-among-records-sent-from-parliament-to-national-archives)
-- [‘I’ve been chased and shot at’: Denzel Bentley on trauma, street violence and brutal boxing politics](https://www.theguardian.com/sport/2026/nov/03/denzel-bentley-trauma-street-violence-boxing-politics)
-- [Don’t call it a remontada: Emery’s Camp Nou comeback focuses European blur](https://www.theguardian.com/football/2026/nov/03/unai-emery-aston-villa-barcelona-camp-nou-champions-league)
-- [Americans head to polls in midterm elections seen as referendum on Trump](https://www.theguardian.com/us-news/2026/nov/03/midterm-elections-americans-vote)
+- [US midterm elections 2026 live updates: Democrats win control of Congress; El-Sayed wins Senate race in Michigan](https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates)
+- [M&amp;S takes more than a year to recover from cyber-attack as profits bounce back to £355m](https://www.theguardian.com/business/2026/nov/04/m-and-s-recover-from-cyber-attack-profits-bounce-back)
+- [Resounding wins for Democrats a wholesale rebuke of Trump’s Maga movement](https://www.theguardian.com/us-news/2026/nov/04/us-midterm-results-democrats-trump-analysis)
+- [These cruel new plans to ‘stop the boats’ show the government completely misunderstands refugees like me | Anonymous](https://www.theguardian.com/commentisfree/2026/nov/04/stop-the-boats-government-refugees-settlement-rules-syria-uk)
+- [Qatar pulls out of hosting 2028 Nations Championship owing to Middle East crisis](https://www.theguardian.com/sport/2026/nov/04/qatar-pulls-out-of-hosting-2028-nations-championship-owing-to-middle-east-crisis)
+- [Has a footballer ever run a marathon faster than James Milner? | The Knowledge](https://www.theguardian.com/football/2026/nov/04/footballer-run-marathon-faster-than-james-milner-the-knowledge)
+- [Choke of the century? Chengdu collapse sets up thrilling Chinese Super League climax](https://www.theguardian.com/football/2026/nov/04/choke-of-the-century-chengdu-collapse-sets-up-thrilling-chinese-super-league-climax)
+- [West Ham took too long to sack Nuno and now must trust Parker to do what he does best | Jacob Steinberg](https://www.theguardian.com/football/2026/nov/04/west-ham-took-too-long-to-sack-nuno-and-now-must-trust-parker-to-do-what-he-does-best)
+- [Broadcasters need content creators ‘more than creators need them’](https://www.theguardian.com/media/2026/nov/04/broadcasters-content-creators-youtube-bbc-itv-channel-4)
+- [A blue tsunami wipes out Republicans – podcast](https://www.theguardian.com/politics/audio/2026/nov/04/blue-tsunami-wipes-out-republicans-podcast)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

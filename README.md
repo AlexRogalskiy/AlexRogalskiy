@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ask HN: Impact of US Elections on AI?](https://news.ycombinator.com/item?id=50362700)
-- [Ask HN: How to Keep the Edge as an Engineer?](https://news.ycombinator.com/item?id=50362698)
-- [Show HN: A privacy-first career toolkit &lpar;PDF manipulation runs in Browser/WASM&rpar;](https://www.onestoplinkedin.com)
-- [The Crimes of SEAL Team 6 &lpar;2017&rpar;](https://web.archive.org/web/20170110111518/https://theintercept.com/2017/01/10/the-crimes-of-seal-team-6/)
-- [Fossilised red blood cells found in 115M-year-old dinosaur&#39;s bone](https://www.theguardian.com/science/2026/nov/02/fossilised-red-blood-cells-aratasaurus-dinosaurs-bone)
-- [Show HN: Meteosource MCP server, weather data for AI assistants](https://mcp.meteosource.com/)
-- [You&#39;ll need nerves of steel to work with AI agents](https://orchidfiles.com/youll-need-nerves-of-steel-to-work-with-ai-agents/)
-- [Anthropic: Progress on provable inference for large language models](https://www.anthropic.com/research/provable-inference)
-- [Oh god. Oh no. We need to talk about life insurance [video]](https://www.youtube.com/watch?v=MXEhtkrbdJM)
-- [Show HN: HIPAA compliance evidence for Supabase RLS,functions,triggers,auditlogs](https://unitautogen.com/blog/hipaa-evidence-for-supabase.html)
+- [What did the Romans ever give Scotland?](https://www.theguardian.com/artanddesign/2026/nov/05/what-did-the-romans-ever-give-scotland-heated-floors-flashy-sandals-sun-gods-and-a-lot-of-nails)
+- [Which is the by-product: caffeine or decaf coffee? [pdf]](https://onlinelibrary.wiley.com/doi/full/10.1002/fes3.4)
+- [Nova beat Fable 5 with Opus 4.8](https://novaagentos.ai/news/how-nova-beat-fable-5-with-opus-4-8)
+- [Plugin to Create Product Videos](https://news.ycombinator.com/item?id=50376689)
+- [LZAV 7.1: Enhanced Compression Ratio, Speed, and C/C++ Pointer Compliance](https://github.com/avaneev/lzav)
+- [Show HN: Solving a personal Problem, create internal tool for your App in mins](https://anadock.com/)
+- [CVS to break up $117B business, separating pharmacies from insurance](https://www.reuters.com/legal/transactional/cvs-health-split-two-separating-pharmacy-business-insurance-2026-11-04/)
+- [Ask HN: Can current AI models reverse engineer CUDA drivers?](https://news.ycombinator.com/item?id=50376606)
+- [Pro-Russian hackers claim responsibility for attacks on refrigerators in EU](https://swedenherald.com/article/pro-russian-hacker-groups-claim-responsibility-for-attacks-on-refrigeration-systems-across-europe)
+- [Slug Thug](https://slugthug.com)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

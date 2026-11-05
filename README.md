@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The lost malloc&lpar;&rpar;](https://napcakes.nekoweb.org/posts/malloc/)
-- [AI stocks slide as Texas governor result raises data center risks](https://www.cnbc.com/2026/11/04/ai-stocks-texas-governor-data-centers.html)
-- [Jelly Sheet](https://mrdoob.github.io/codevember-2026/01/)
-- [Distinct cellular and genetic differences in colorectal cancer in young patients](https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients)
-- [Arrows to arrows, categories to queries &lpar;2025&rpar;](https://reasonablypolymorphic.com/blog/arrows-to-arrows/)
-- [Giant canyon on Mars is still tectonically active](https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today)
-- [C++26 Disapproved](https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/)
-- [The Internals of PostgreSQL](https://www.interdb.jp/pg/index.html)
-- [The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer](https://arxiv.org/abs/2605.29713)
-- [Safari introduces Adaptive Dark Mode in 27.3](https://webkit.org/blog/18541/introducing-adaptive-dark-mode/)
+- [Want to Rent an Internet Address at the White House?](https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/)
+- [Altera Announces Agilex 2X, a Complete FPGA and SoC Portfolio](https://www.altera.com/newsroom/agilex-2x)
+- [Lemmings CSS Animation](https://markblah.github.io/lemmings/)
+- [Starfall – Affordable, routine access to microgravity](https://www.spacex.com/starfall)
+- [Images 2.6](https://openai.com/index/introducing-images-2-6/)
+- [A thousand fewer paths to root](https://openai.com/index/a-thousand-fewer-paths-to-root/)
+- [Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements](https://icode4.coffee/?p=1746)
+- [Residential proxies detected on White House network](https://layer3intel.com/blog/residential-proxies-white-house-network)
+- [Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s](https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra)
+- [Insects don&#39;t swarm at LED lights](https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

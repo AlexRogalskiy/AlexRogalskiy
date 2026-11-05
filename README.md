@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [US midterm elections 2026 live updates: Democrats win control of Congress; El-Sayed wins Senate race in Michigan](https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates)
-- [M&amp;S takes more than a year to recover from cyber-attack as profits bounce back to £355m](https://www.theguardian.com/business/2026/nov/04/m-and-s-recover-from-cyber-attack-profits-bounce-back)
-- [Resounding wins for Democrats a wholesale rebuke of Trump’s Maga movement](https://www.theguardian.com/us-news/2026/nov/04/us-midterm-results-democrats-trump-analysis)
-- [These cruel new plans to ‘stop the boats’ show the government completely misunderstands refugees like me | Anonymous](https://www.theguardian.com/commentisfree/2026/nov/04/stop-the-boats-government-refugees-settlement-rules-syria-uk)
-- [Qatar pulls out of hosting 2028 Nations Championship owing to Middle East crisis](https://www.theguardian.com/sport/2026/nov/04/qatar-pulls-out-of-hosting-2028-nations-championship-owing-to-middle-east-crisis)
-- [Has a footballer ever run a marathon faster than James Milner? | The Knowledge](https://www.theguardian.com/football/2026/nov/04/footballer-run-marathon-faster-than-james-milner-the-knowledge)
-- [Choke of the century? Chengdu collapse sets up thrilling Chinese Super League climax](https://www.theguardian.com/football/2026/nov/04/choke-of-the-century-chengdu-collapse-sets-up-thrilling-chinese-super-league-climax)
-- [West Ham took too long to sack Nuno and now must trust Parker to do what he does best | Jacob Steinberg](https://www.theguardian.com/football/2026/nov/04/west-ham-took-too-long-to-sack-nuno-and-now-must-trust-parker-to-do-what-he-does-best)
-- [Broadcasters need content creators ‘more than creators need them’](https://www.theguardian.com/media/2026/nov/04/broadcasters-content-creators-youtube-bbc-itv-channel-4)
-- [A blue tsunami wipes out Republicans – podcast](https://www.theguardian.com/politics/audio/2026/nov/04/blue-tsunami-wipes-out-republicans-podcast)
+- [Bank of England expected to raise interest rates today; FTSE 100 hits three-month high – business live](https://www.theguardian.com/business/live/2026/nov/05/bank-of-england-interest-rate-decision-pound-inflation-oil-iran-stock-markets-latest-news-updates)
+- [US midterm elections 2026 live: Democrats eye historic upset in Mississippi Senate race as Republican blame game begins](https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race)
+- [Black Doves review – Ben Whishaw, Keira Knightley and Sarah Lancashire are spine-tinglingly good](https://www.theguardian.com/tv-and-radio/2026/nov/05/black-doves-review-keira-knightley-ben-whishaw)
+- [Art is good for your health? Allow me a quick eyeroll | Emma Brockes](https://www.theguardian.com/commentisfree/2026/nov/05/art-health-eyeroll-dose-wellbeing-lists)
+- [You be the judge: should my wife keep out of our neighbours’ disputes?](https://www.theguardian.com/lifeandstyle/2026/nov/05/you-be-the-judge-wife-keep-out-neighbours-disputes)
+- [Sherrock’s synthetic success over Littler and why Netflix’s darts special felt so dissatisfying | Jonathan Liew](https://www.theguardian.com/sport/2026/nov/05/darts-fallon-sherrock-synthetic-success-luke-littler-netflix)
+- [Money-making Nations Championship project carries a cost for fans and players](https://www.theguardian.com/sport/2026/nov/05/rugby-union-nations-championship-finals-commercial)
+- [Uefa faces political flashpoint over Sevastopol’s ascent in Russian football](https://www.theguardian.com/football/2026/nov/05/uefa-fifa-ukraine-crimea-sevastopol-promotion-russia-war)
+- [American Hagwon by Min Jin Lee review – a gloriously immersive follow-up to Pachinko](https://www.theguardian.com/books/2026/nov/05/american-hagwon-by-min-jin-lee-review-a-gloriously-immersive-follow-up-to-pachinko)
+- [Trump-backed Republicans lose dozens of US midterm races, raising questions over his influence](https://www.theguardian.com/us-news/2026/nov/05/trump-endorsed-republicans-lose-midterm-election-races)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

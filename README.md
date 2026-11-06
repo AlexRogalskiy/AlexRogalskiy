@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Want to Rent an Internet Address at the White House?](https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/)
-- [Altera Announces Agilex 2X, a Complete FPGA and SoC Portfolio](https://www.altera.com/newsroom/agilex-2x)
-- [Lemmings CSS Animation](https://markblah.github.io/lemmings/)
-- [Starfall – Affordable, routine access to microgravity](https://www.spacex.com/starfall)
-- [Images 2.6](https://openai.com/index/introducing-images-2-6/)
-- [A thousand fewer paths to root](https://openai.com/index/a-thousand-fewer-paths-to-root/)
-- [Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements](https://icode4.coffee/?p=1746)
-- [Residential proxies detected on White House network](https://layer3intel.com/blog/residential-proxies-white-house-network)
-- [Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s](https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra)
-- [Insects don&#39;t swarm at LED lights](https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/)
+- [Living Maps: Bay Area tech since 1960s](https://tomorrowasusual.com/living-maps/bay-area-tech/)
+- [App Store 2026 in numbers: AI, pricing, abandoned apps](https://obelisk.club/research/app-store-2026)
+- [Multiplayer tanks that demolish real buildings from OpenStreetMap](https://worldstrike.fun/)
+- [Kugelblitz – Mac-Native Google Earth Alternative](https://apps.metaebene.me/en/kugelblitz)
+- [Blender&#39;s UI and Runtime: Much Faster Than GPUI](https://github.com/ppmpreetham/BUI)
+- [Hardcoded credentials and other issues in Tata Motors App](https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2026-0537)
+- [Britain to make salary disclosure in job ads mandatory](https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/)
+- [I struggle to believe that AI R&amp;D is ingenious](https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL)
+- [From Linux to Wikipedia: How Volunteers Build the Internet](https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/)
+- [Pwn.college](https://pwn.college/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

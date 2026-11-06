@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [What did the Romans ever give Scotland?](https://www.theguardian.com/artanddesign/2026/nov/05/what-did-the-romans-ever-give-scotland-heated-floors-flashy-sandals-sun-gods-and-a-lot-of-nails)
-- [Which is the by-product: caffeine or decaf coffee? [pdf]](https://onlinelibrary.wiley.com/doi/full/10.1002/fes3.4)
-- [Nova beat Fable 5 with Opus 4.8](https://novaagentos.ai/news/how-nova-beat-fable-5-with-opus-4-8)
-- [Plugin to Create Product Videos](https://news.ycombinator.com/item?id=50376689)
-- [LZAV 7.1: Enhanced Compression Ratio, Speed, and C/C++ Pointer Compliance](https://github.com/avaneev/lzav)
-- [Show HN: Solving a personal Problem, create internal tool for your App in mins](https://anadock.com/)
-- [CVS to break up $117B business, separating pharmacies from insurance](https://www.reuters.com/legal/transactional/cvs-health-split-two-separating-pharmacy-business-insurance-2026-11-04/)
-- [Ask HN: Can current AI models reverse engineer CUDA drivers?](https://news.ycombinator.com/item?id=50376606)
-- [Pro-Russian hackers claim responsibility for attacks on refrigerators in EU](https://swedenherald.com/article/pro-russian-hacker-groups-claim-responsibility-for-attacks-on-refrigeration-systems-across-europe)
-- [Slug Thug](https://slugthug.com)
+- [Show HN: Eski – an in-memory store in Odin, measured against Redis on one core](https://github.com/vighnesh-bheed/eski)
+- [Cisco to rewrite 98% of its legacy code using AI](https://www.tomshardware.com/tech-industry/big-tech/cisco-gives-27-year-old-engineer-unlimited-ai-tokens-to-rewrite-98-percent-of-the-companys-legacy-code-in-24-months-president-plucks-former-startup-founder-telling-him-to-go-nuts)
+- [Now indexed by Vuink,500K+ words. 742 turns.135 Knowledge domains – UKA-135](https://zenodo.org/records/23686384)
+- [Ask HN: Which social media platform is useful?](https://news.ycombinator.com/item?id=50389687)
+- [The Secret Leak Test: a prompt injection filter vs. attacks](https://hodor.gatebolt.com/blog/secret-leak-test)
+- [How Sustainable Is a Solar Powered Website? &lpar;2020&rpar;](https://solar.lowtechmagazine.com/2020/01/how-sustainable-is-a-solar-powered-website/)
+- [Brewlet](https://github.com/microsoft/brewlet)
+- [Decomp of David Horner&#39;s Drain Storm &lpar;1997&rpar;](https://github.com/pancirno/DrainStorm)
+- [Jolyboy](https://news.ycombinator.com/item?id=50389586)
+- [Chomsky and the Two Cultures of Statistical Learning](https://www.norvig.com/chomsky.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

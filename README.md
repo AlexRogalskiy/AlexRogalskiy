@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Smartsheet’s new AI tool tracks corporate strategies, suggests fixes](https://www.computerworld.com/article/4245034/smartsheets-new-ai-tool-tracks-corporate-strategies-suggests-fixes.html)
+- [HP’s next CEO loves confrontation](https://www.computerworld.com/article/4245256/hps-next-ceo-loves-confrontation.html)
+- [How to get early access to Android’s smart new scam shield](https://www.computerworld.com/article/4244097/android-scam-shield.html)
+- [Apple VP Tom Boger on MacBook Pro weight, design, and the return of the glowing logo](https://www.computerworld.com/article/4244657/apple-vp-tom-boger-on-macbook-pro-weight-design-and-the-return-of-the-glowing-logo.html)
 - [Tech layoffs: A 2026 timeline](https://www.computerworld.com/article/3816579/tech-layoffs-this-year-a-timeline.html)
 - [Get a load of Excel’s new multi-value cells](https://www.computerworld.com/article/4244163/get-a-load-of-excels-new-multi-value-cells.html)
 - [Microsoft files patent for AI that can alter what people say during live broadcasts](https://www.computerworld.com/article/4244752/microsoft-files-patent-for-ai-that-can-alter-what-people-say-during-live-broadcasts.html)
 - [Journify Raises $12M Series A Amid 5x Growth](https://www.computerworld.com/article/4244323/journify-raises-12m-series-a-amid-5x-growth-2.html)
 - [Apple’s Q4 results show the enterprise tide turning to local AI](https://www.computerworld.com/article/4243990/apples-q4-results-show-the-enterprise-tide-turning-to-local-ai.html)
 - [Google’s first AI data center in space is up and running](https://www.computerworld.com/article/4244229/googles-first-data-center-in-space-is-up-and-running.html)
-- [Zoomtopia 2026: Zoom Got It Done! Maybe…](https://www.computerworld.com/article/4243331/zoomtopia-2026-zoom-got-it-done-maybe.html)
-- [Does AI actually save employees time? Data is contradictory](https://www.computerworld.com/article/4243686/does-ai-actually-save-employees-time-data-is-contradictory-2.html)
-- [Windows 11 upgrades stall amid ‘chipflation’ and ‘RAMageddon’](https://www.computerworld.com/article/4243258/windows-11-upgrades-stall-amid-chipflation-and-ramageddon.html)
-- [Apple Intelligence with Alibaba comes to China in December](https://www.computerworld.com/article/4243306/apple-intelligence-with-alibaba-comes-to-china-in-december.html)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

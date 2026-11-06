@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Bank of England expected to raise interest rates today; FTSE 100 hits three-month high – business live](https://www.theguardian.com/business/live/2026/nov/05/bank-of-england-interest-rate-decision-pound-inflation-oil-iran-stock-markets-latest-news-updates)
-- [US midterm elections 2026 live: Democrats eye historic upset in Mississippi Senate race as Republican blame game begins](https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race)
-- [Black Doves review – Ben Whishaw, Keira Knightley and Sarah Lancashire are spine-tinglingly good](https://www.theguardian.com/tv-and-radio/2026/nov/05/black-doves-review-keira-knightley-ben-whishaw)
-- [Art is good for your health? Allow me a quick eyeroll | Emma Brockes](https://www.theguardian.com/commentisfree/2026/nov/05/art-health-eyeroll-dose-wellbeing-lists)
-- [You be the judge: should my wife keep out of our neighbours’ disputes?](https://www.theguardian.com/lifeandstyle/2026/nov/05/you-be-the-judge-wife-keep-out-neighbours-disputes)
-- [Sherrock’s synthetic success over Littler and why Netflix’s darts special felt so dissatisfying | Jonathan Liew](https://www.theguardian.com/sport/2026/nov/05/darts-fallon-sherrock-synthetic-success-luke-littler-netflix)
-- [Money-making Nations Championship project carries a cost for fans and players](https://www.theguardian.com/sport/2026/nov/05/rugby-union-nations-championship-finals-commercial)
-- [Uefa faces political flashpoint over Sevastopol’s ascent in Russian football](https://www.theguardian.com/football/2026/nov/05/uefa-fifa-ukraine-crimea-sevastopol-promotion-russia-war)
-- [American Hagwon by Min Jin Lee review – a gloriously immersive follow-up to Pachinko](https://www.theguardian.com/books/2026/nov/05/american-hagwon-by-min-jin-lee-review-a-gloriously-immersive-follow-up-to-pachinko)
-- [Trump-backed Republicans lose dozens of US midterm races, raising questions over his influence](https://www.theguardian.com/us-news/2026/nov/05/trump-endorsed-republicans-lose-midterm-election-races)
+- [Global stocks tumble as AI panic grips markets after Democrats’ midterm success – business live](https://www.theguardian.com/business/live/2026/nov/06/global-stocks-tumble-ai-panic-markets-democrats-midterms-success-jobs-oil-dollar-latest-news-updates)
+- [La Roux: Old Flames review – a breezy, hook-packed twist on a breakup album](https://www.theguardian.com/music/2026/nov/06/la-roux-old-flames-review)
+- [Seven people arrested in Glasgow after Bonfire Night violence across Scotland](https://www.theguardian.com/uk-news/2026/nov/06/arrests-glasgow-bonfire-night-violence-scotland)
+- [UK house prices fall at steepest rate in more than three years](https://www.theguardian.com/business/2026/nov/06/uk-house-prices-fall-at-steepest-rate-in-more-than-three-years)
+- [The Assassin review – will anybody save Keeley Hawes from this unbearably pathetic boy?](https://www.theguardian.com/tv-and-radio/2026/nov/06/the-assassin-review-keeley-hawes-amazon-prime-video)
+- [‘Too many stories exist only to make you think you’re on the right side’: Cristian Mungiu on Fjord, the Cannes winner that divided Europe](https://www.theguardian.com/film/2026/nov/06/too-many-stories-exist-only-to-make-you-think-youre-on-the-right-side-cristian-mungiu-on-fjord-his-disquieting-social-drama)
+- [Week in wildlife: an autumnal deer, golden jackals and an oily-kneed beetle](https://www.theguardian.com/environment/gallery/2026/nov/06/week-in-wildlife-an-autumnal-deer-golden-jackals-and-an-oily-kneed-beetle)
+- [Win at Everton would put Coventry on right side of history in survival fight](https://www.theguardian.com/football/2026/nov/06/coventry-everton-frank-lampard-premier-league-survival)
+- [Chess: Magnus Carlsen returns for Budapest battle before Sindarov targets classical crown](https://www.theguardian.com/sport/2026/nov/06/chess-magnus-carlsen-returns-for-budapest-battle-before-sindarov-targets-classical-crown)
+- [M&amp;S takes on John Lewis in Christmas ad battle with topless ‘shredded Santa’](https://www.theguardian.com/lifeandstyle/2026/nov/06/marks-and-spencer-john-lewis-christmas-ad-battle-james-norton-lucy-punch-topless-santa)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

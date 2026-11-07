@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
-- [Smartsheet’s new AI tool tracks corporate strategies, suggests fixes](https://www.computerworld.com/article/4245034/smartsheets-new-ai-tool-tracks-corporate-strategies-suggests-fixes.html)
-- [HP’s next CEO loves confrontation](https://www.computerworld.com/article/4245256/hps-next-ceo-loves-confrontation.html)
-- [How to get early access to Android’s smart new scam shield](https://www.computerworld.com/article/4244097/android-scam-shield.html)
-- [Apple VP Tom Boger on MacBook Pro weight, design, and the return of the glowing logo](https://www.computerworld.com/article/4244657/apple-vp-tom-boger-on-macbook-pro-weight-design-and-the-return-of-the-glowing-logo.html)
-- [Tech layoffs: A 2026 timeline](https://www.computerworld.com/article/3816579/tech-layoffs-this-year-a-timeline.html)
-- [Get a load of Excel’s new multi-value cells](https://www.computerworld.com/article/4244163/get-a-load-of-excels-new-multi-value-cells.html)
-- [Microsoft files patent for AI that can alter what people say during live broadcasts](https://www.computerworld.com/article/4244752/microsoft-files-patent-for-ai-that-can-alter-what-people-say-during-live-broadcasts.html)
-- [Journify Raises $12M Series A Amid 5x Growth](https://www.computerworld.com/article/4244323/journify-raises-12m-series-a-amid-5x-growth-2.html)
-- [Apple’s Q4 results show the enterprise tide turning to local AI](https://www.computerworld.com/article/4243990/apples-q4-results-show-the-enterprise-tide-turning-to-local-ai.html)
-- [Google’s first AI data center in space is up and running](https://www.computerworld.com/article/4244229/googles-first-data-center-in-space-is-up-and-running.html)
+- [A mole in the White House? Residential proxies are everywhere](https://www.computerworld.com/article/4245801/a-mole-in-the-white-house-residential-proxies-are-everywhere-3.html)
+- [Meta does a U-turn on controversial new AI terms for businesses](https://www.computerworld.com/article/4245784/meta-does-a-u-turn-on-controversial-new-ai-terms-for-businesses-2.html)
+- [Meta does a U-turn on controversial new AI terms for businesses](https://www.computerworld.com/article/4245784/meta-does-a-u-turn-on-controversial-new-ai-terms-for-businesses-2.html)
+- [Enterprises must take blame for their AI agents’ mistakes, say regulators](https://www.computerworld.com/article/4245769/enterprises-must-take-blame-for-their-ai-agents-mistakes-say-regulators-2.html)
+- [OpenAI buys tiny software developer to improve Codex](https://www.computerworld.com/article/4245735/openai-buys-tiny-software-developer-to-improve-codex-3.html)
+- [Box launches Architect, an AI-powered workflow builder](https://www.computerworld.com/article/4245613/box-launches-architect-ai-powered-workflow-builder-for-business-processes.html)
+- [Microsoft extends undisclosed usage restrictions on Copilot Chat for enterprise users](https://www.computerworld.com/article/4245658/microsoft-extends-undisclosed-usage-restrictions-on-copilot-chat-for-enterprise-users.html)
+- [Don’t mention the data center: OpenAI calls them ‘compute campuses’ instead](https://www.computerworld.com/article/4245623/dont-mention-the-data-center-openai-calls-them-compute-campuses-instead-2.html)
+- [Google is in trouble, deep](https://www.computerworld.com/article/4245683/google-is-in-trouble-deep.html)
+- [Google Pics: How to level up your visuals in Docs and Slides](https://www.computerworld.com/article/4229164/google-pics-how-to-level-up-your-visuals-in-docs-and-slides.html)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

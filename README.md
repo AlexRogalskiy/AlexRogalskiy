@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Global stocks tumble as AI panic grips markets after Democrats’ midterm success – business live](https://www.theguardian.com/business/live/2026/nov/06/global-stocks-tumble-ai-panic-markets-democrats-midterms-success-jobs-oil-dollar-latest-news-updates)
-- [La Roux: Old Flames review – a breezy, hook-packed twist on a breakup album](https://www.theguardian.com/music/2026/nov/06/la-roux-old-flames-review)
-- [Seven people arrested in Glasgow after Bonfire Night violence across Scotland](https://www.theguardian.com/uk-news/2026/nov/06/arrests-glasgow-bonfire-night-violence-scotland)
-- [UK house prices fall at steepest rate in more than three years](https://www.theguardian.com/business/2026/nov/06/uk-house-prices-fall-at-steepest-rate-in-more-than-three-years)
-- [The Assassin review – will anybody save Keeley Hawes from this unbearably pathetic boy?](https://www.theguardian.com/tv-and-radio/2026/nov/06/the-assassin-review-keeley-hawes-amazon-prime-video)
-- [‘Too many stories exist only to make you think you’re on the right side’: Cristian Mungiu on Fjord, the Cannes winner that divided Europe](https://www.theguardian.com/film/2026/nov/06/too-many-stories-exist-only-to-make-you-think-youre-on-the-right-side-cristian-mungiu-on-fjord-his-disquieting-social-drama)
-- [Week in wildlife: an autumnal deer, golden jackals and an oily-kneed beetle](https://www.theguardian.com/environment/gallery/2026/nov/06/week-in-wildlife-an-autumnal-deer-golden-jackals-and-an-oily-kneed-beetle)
-- [Win at Everton would put Coventry on right side of history in survival fight](https://www.theguardian.com/football/2026/nov/06/coventry-everton-frank-lampard-premier-league-survival)
-- [Chess: Magnus Carlsen returns for Budapest battle before Sindarov targets classical crown](https://www.theguardian.com/sport/2026/nov/06/chess-magnus-carlsen-returns-for-budapest-battle-before-sindarov-targets-classical-crown)
-- [M&amp;S takes on John Lewis in Christmas ad battle with topless ‘shredded Santa’](https://www.theguardian.com/lifeandstyle/2026/nov/06/marks-and-spencer-john-lewis-christmas-ad-battle-james-norton-lucy-punch-topless-santa)
+- [New Zealand election 2026 live results: Labour draws level with National as count continues in close race](https://www.theguardian.com/world/live/2026/nov/07/nz-general-election-2026-live-updates-results-new-zealand-polls)
+- [Arsenal and Manchester City in action, FA Cup first round news and more – matchday live](https://www.theguardian.com/football/live/2026/nov/07/arsenal-and-manchester-city-in-action-fa-cup-first-round-news-and-more-matchday-live)
+- [Infantino caught in the web as tide turns against Trump in midterms and leaves Fifa exposed | Barney Ronay](https://www.theguardian.com/football/2026/nov/07/gianni-infantino-fifa-donald-trump-democrats-republicans)
+- [England have been backed into a corner – it should bring out their best against Australia | Ugo Monye](https://www.theguardian.com/sport/2026/nov/07/england-have-been-backed-into-a-corner-it-should-bring-out-their-best-against-australia)
+- [Moscow has shuttered Novaya Gazeta – we told the truth and we paid the price | Elena Kostyuchenko](https://www.theguardian.com/commentisfree/2026/nov/07/moscow-novaya-gazeta-journalism-russia-newspaper)
+- [Why Woke 2.0 is taking on Trump and establishment politics | Nesrine Malik | Radical Thinking](https://www.theguardian.com/commentisfree/video/2026/nov/07/why-woke-20-is-taking-on-trump-and-establishment-politics-nesrine-malik-radical-thinking)
+- [Can AI really save you money on your heating bill? I spent two years testing to find out](https://www.theguardian.com/money/2026/nov/07/can-ai-save-you-money-heating-bill)
+- [Pineapple on pizza is an insult to our great Italian cuisine – and here’s why we secretly love it  | Luca Cesari](https://www.theguardian.com/commentisfree/2026/nov/07/pineapple-pizza-italian-food-insult-chef-sacked)
+- [Early release prisoners facing street homelessness, probation staff warn](https://www.theguardian.com/society/2026/nov/07/early-release-prisoners-street-homelessness-england)
+- [Albania’s restored stone houses throw open the doors to visitors](https://www.theguardian.com/travel/2026/nov/07/albania-restored-stone-tower-houses-holiday)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

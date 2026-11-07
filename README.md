@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: Eski – an in-memory store in Odin, measured against Redis on one core](https://github.com/vighnesh-bheed/eski)
-- [Cisco to rewrite 98% of its legacy code using AI](https://www.tomshardware.com/tech-industry/big-tech/cisco-gives-27-year-old-engineer-unlimited-ai-tokens-to-rewrite-98-percent-of-the-companys-legacy-code-in-24-months-president-plucks-former-startup-founder-telling-him-to-go-nuts)
-- [Now indexed by Vuink,500K+ words. 742 turns.135 Knowledge domains – UKA-135](https://zenodo.org/records/23686384)
-- [Ask HN: Which social media platform is useful?](https://news.ycombinator.com/item?id=50389687)
-- [The Secret Leak Test: a prompt injection filter vs. attacks](https://hodor.gatebolt.com/blog/secret-leak-test)
-- [How Sustainable Is a Solar Powered Website? &lpar;2020&rpar;](https://solar.lowtechmagazine.com/2020/01/how-sustainable-is-a-solar-powered-website/)
-- [Brewlet](https://github.com/microsoft/brewlet)
-- [Decomp of David Horner&#39;s Drain Storm &lpar;1997&rpar;](https://github.com/pancirno/DrainStorm)
-- [Jolyboy](https://news.ycombinator.com/item?id=50389586)
-- [Chomsky and the Two Cultures of Statistical Learning](https://www.norvig.com/chomsky.html)
+- [A lighter and less costly SDD workflow comapared to openspec](https://github.com/iswalterwu/dev-circuit-ultra)
+- [Inter-AI Morality: How AI Systems Treat One Another [pdf]](https://digitalminds.cam/inter-ai-morality.pdf)
+- [Mammoth Steppe](https://en.wikipedia.org/wiki/Mammoth_steppe)
+- [I built OneDollarClarity because I wanted a simple way to stop thinking](https://onedollarclarity.com/)
+- [Free open API of weekly resale sold-price medians](https://www.aiplannermail.com/free-resale-price-api/)
+- [A short history of the Troubled Teen Industry](https://www.lowimpactfruit.com/p/a-short-history-of-the-troubled-teen)
+- [Bong: DuckDuckGo bang alternative, open-source and self-hosted](https://bong.glendalab.com)
+- [Understanding the World: A Practical Worldview Framework[pdf]](https://zenodo.org/records/24029901)
+- [GenAI generates GenAI – A Diffusion Model That Generates Neural Networks](https://github.com/vagrillo/nngen)
+- [Show HN: Coding agent skills, tested on 15 backend tasks with hidden checks](https://github.com/globalmpc/backendskills)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

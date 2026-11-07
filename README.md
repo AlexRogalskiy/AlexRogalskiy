@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Living Maps: Bay Area tech since 1960s](https://tomorrowasusual.com/living-maps/bay-area-tech/)
-- [App Store 2026 in numbers: AI, pricing, abandoned apps](https://obelisk.club/research/app-store-2026)
-- [Multiplayer tanks that demolish real buildings from OpenStreetMap](https://worldstrike.fun/)
-- [Kugelblitz – Mac-Native Google Earth Alternative](https://apps.metaebene.me/en/kugelblitz)
-- [Blender&#39;s UI and Runtime: Much Faster Than GPUI](https://github.com/ppmpreetham/BUI)
-- [Hardcoded credentials and other issues in Tata Motors App](https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2026-0537)
-- [Britain to make salary disclosure in job ads mandatory](https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/)
-- [I struggle to believe that AI R&amp;D is ingenious](https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL)
-- [From Linux to Wikipedia: How Volunteers Build the Internet](https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/)
-- [Pwn.college](https://pwn.college/)
+- [The Components of Agent Memory](https://www.anthropic.com/research/components-of-agent-memory)
+- [Asahi Linux Progress Linux 7.3](https://asahilinux.org/2026/11/progress-report-7-3/)
+- [A barbarian tribe&#39;s mythic origin story is true, ancient DNA reveals](https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals)
+- [I toured Unitree&#39;s factory. I&#39;m more bullish on the West](https://josef.cn/blog/unitree)
+- [RealPage rent-pricing case wraps with nearly $360M to renters](https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/)
+- [Libghostty 1.0](https://mitchellh.com/writing/libghostty-1-0)
+- [Sodium-ion batteries approach cost parity with LFP](https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/)
+- [AI is dramatically accelerating AI research](https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai)
+- [Google has acquired Crusoe&#39;s data center site in southeast Wyoming](https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update)
+- [A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost](https://hightouch.com/blog/llm-judges-identity-resolution)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

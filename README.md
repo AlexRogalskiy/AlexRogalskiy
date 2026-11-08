@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [New Zealand election 2026 live results: Labour draws level with National as count continues in close race](https://www.theguardian.com/world/live/2026/nov/07/nz-general-election-2026-live-updates-results-new-zealand-polls)
-- [Arsenal and Manchester City in action, FA Cup first round news and more – matchday live](https://www.theguardian.com/football/live/2026/nov/07/arsenal-and-manchester-city-in-action-fa-cup-first-round-news-and-more-matchday-live)
-- [Infantino caught in the web as tide turns against Trump in midterms and leaves Fifa exposed | Barney Ronay](https://www.theguardian.com/football/2026/nov/07/gianni-infantino-fifa-donald-trump-democrats-republicans)
-- [England have been backed into a corner – it should bring out their best against Australia | Ugo Monye](https://www.theguardian.com/sport/2026/nov/07/england-have-been-backed-into-a-corner-it-should-bring-out-their-best-against-australia)
-- [Moscow has shuttered Novaya Gazeta – we told the truth and we paid the price | Elena Kostyuchenko](https://www.theguardian.com/commentisfree/2026/nov/07/moscow-novaya-gazeta-journalism-russia-newspaper)
-- [Why Woke 2.0 is taking on Trump and establishment politics | Nesrine Malik | Radical Thinking](https://www.theguardian.com/commentisfree/video/2026/nov/07/why-woke-20-is-taking-on-trump-and-establishment-politics-nesrine-malik-radical-thinking)
-- [Can AI really save you money on your heating bill? I spent two years testing to find out](https://www.theguardian.com/money/2026/nov/07/can-ai-save-you-money-heating-bill)
-- [Pineapple on pizza is an insult to our great Italian cuisine – and here’s why we secretly love it  | Luca Cesari](https://www.theguardian.com/commentisfree/2026/nov/07/pineapple-pizza-italian-food-insult-chef-sacked)
-- [Early release prisoners facing street homelessness, probation staff warn](https://www.theguardian.com/society/2026/nov/07/early-release-prisoners-street-homelessness-england)
-- [Albania’s restored stone houses throw open the doors to visitors](https://www.theguardian.com/travel/2026/nov/07/albania-restored-stone-tower-houses-holiday)
+- [Premier League buildup, FA Cup first round, WSL and more – matchday live](https://www.theguardian.com/football/live/2026/nov/08/premier-league-buildup-fa-cup-first-round-wsl-and-more-matchday-live)
+- [Australia 30-14 Fiji: Women’s Rugby League World Cup semi-final – live reaction](https://www.theguardian.com/sport/live/2026/nov/08/australia-jillaroos-vs-fiji-womens-rugby-league-world-cup-semi-final-live-updates)
+- [‘AI clog’: UK public bodies battle onslaught of chatbot-generated complaints](https://www.theguardian.com/technology/2026/nov/08/ai-clog-public-bodies-local-authorities-onslaught-chatbot-generated-correspondence)
+- [From the overblown to the ordinary? Met Gala 2027 to celebrate ‘poetics of everyday’](https://www.theguardian.com/fashion/2026/nov/08/met-gala-2027-theme-poetics-everyday)
+- [There is no ‘magic pill’ to fix young women’s anxiety. I should know – I once took propranolol myself | Rhiannon Lucy Cosslett](https://www.theguardian.com/commentisfree/2026/nov/08/magic-pill-young-women-anxiety-propranolol-beta-blockers-girls)
+- [Reintroduction of white-tailed eagles puts seabird colonies at risk of wipeout, say experts](https://www.theguardian.com/environment/2026/nov/08/reintroduction-white-tailed-eagles-seabird-colonies-risk-england-wales)
+- [Julián Alvarez’s Atlético redemption arc in full focus for visit of Barcelona](https://www.theguardian.com/football/2026/nov/08/julian-alvarezs-atletico-redemption-arc-in-full-focus-for-visit-of-barcelona)
+- [Female sports journalists have always faced sexism. Social media has made it vicious and relentless | Anjali Doshi](https://www.theguardian.com/sport/2026/nov/08/female-sports-journalists-sexism-social-media-vicious-relentless-cricket)
+- [The best men’s coats for autumn and winter: 48 favourites for £200 or less](https://www.theguardian.com/thefilter/2026/nov/08/best-mens-coats-autumn-winter-under-200-2026-uk)
+- [Trump’s shattered ‘mirror world’: American voters roundly reject president’s alternate reality](https://www.theguardian.com/us-news/ng-interactive/2026/nov/08/trump-midterms-voters-mirror-world)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

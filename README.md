@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [A lighter and less costly SDD workflow comapared to openspec](https://github.com/iswalterwu/dev-circuit-ultra)
-- [Inter-AI Morality: How AI Systems Treat One Another [pdf]](https://digitalminds.cam/inter-ai-morality.pdf)
-- [Mammoth Steppe](https://en.wikipedia.org/wiki/Mammoth_steppe)
-- [I built OneDollarClarity because I wanted a simple way to stop thinking](https://onedollarclarity.com/)
-- [Free open API of weekly resale sold-price medians](https://www.aiplannermail.com/free-resale-price-api/)
-- [A short history of the Troubled Teen Industry](https://www.lowimpactfruit.com/p/a-short-history-of-the-troubled-teen)
-- [Bong: DuckDuckGo bang alternative, open-source and self-hosted](https://bong.glendalab.com)
-- [Understanding the World: A Practical Worldview Framework[pdf]](https://zenodo.org/records/24029901)
-- [GenAI generates GenAI – A Diffusion Model That Generates Neural Networks](https://github.com/vagrillo/nngen)
-- [Show HN: Coding agent skills, tested on 15 backend tasks with hidden checks](https://github.com/globalmpc/backendskills)
+- [6th-grade Peano arithmetic broke OpenAI&#39;s $100B Yang-Mills mass gap proof](https://github.com/Dr-Logvinovich/round-square/blob/main/README.md)
+- [The Credit Card](https://phonecardmuseum.com/articles/banking-cards/the-credit-card/)
+- [Being a line cook without talking to AI](https://knhash.in/no-ai-line-cook/)
+- [NASA is looking for new astronauts to help grow its Artemis program](https://www.nbcnews.com/science/space/nasa-is-looking-for-new-astronauts-rcna608025)
+- [Category Theory Illustrated](https://abuseofnotation.github.io/category-theory-illustrated/)
+- [Show HN: Ferrule – copy-in React Native UI components for iOS, Android and web](https://leoanimesh.github.io/ferrule/)
+- [Investing vs. gambling: how to tell the difference](https://www.cfainstitute.org/insights/articles/investing-vs-gambling)
+- [The Rise of Microdramas](https://www.bbc.com/news/articles/cm87zv70jg9no)
+- [Show HN: Hacker News Column View](https://hn.orbitalchicken.com)
+- [The Great GOP Dummymander of 2026](https://www.nationalreview.com/corner/the-great-gop-dummymander-of-2026/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

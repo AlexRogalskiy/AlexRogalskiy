@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [6th-grade Peano arithmetic broke OpenAI&#39;s $100B Yang-Mills mass gap proof](https://github.com/Dr-Logvinovich/round-square/blob/main/README.md)
-- [The Credit Card](https://phonecardmuseum.com/articles/banking-cards/the-credit-card/)
-- [Being a line cook without talking to AI](https://knhash.in/no-ai-line-cook/)
-- [NASA is looking for new astronauts to help grow its Artemis program](https://www.nbcnews.com/science/space/nasa-is-looking-for-new-astronauts-rcna608025)
-- [Category Theory Illustrated](https://abuseofnotation.github.io/category-theory-illustrated/)
-- [Show HN: Ferrule – copy-in React Native UI components for iOS, Android and web](https://leoanimesh.github.io/ferrule/)
-- [Investing vs. gambling: how to tell the difference](https://www.cfainstitute.org/insights/articles/investing-vs-gambling)
-- [The Rise of Microdramas](https://www.bbc.com/news/articles/cm87zv70jg9no)
-- [Show HN: Hacker News Column View](https://hn.orbitalchicken.com)
-- [The Great GOP Dummymander of 2026](https://www.nationalreview.com/corner/the-great-gop-dummymander-of-2026/)
+- [STMicroelectronics streamlines AI model development for STM32 developers](https://newsroom.st.com/media-center/press-item.html/stmicroelectronics-streamlines-ai-model-development-for-stm32-developers-n4800.html)
+- [Claude Opus 5.5 Beats GPT-6 Astra in the Newest EDA Benchmark Leaderboard](https://deepsense.ai/blog/eda-benchmark-leaderboard-october-28th-2026/)
+- [Coordinated disturbances haunt grids worldwide](https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/)
+- [Show HN: Control Layer Demo for AI Coding Agents](https://github.com/MintCoderpro/mintigate-demo)
+- [The Evaluation-Industrial Complex](https://twitter.com/xeophon/status/2119563291412578575)
+- [0rwx Framework for AI Usage](https://0rwx.com/)
+- [Ask HN: Would you retry this timed-out job?](https://news.ycombinator.com/item?id=50422668)
+- [ChatGPT Desktop forwards your SSH agent to remote machines](https://news.ycombinator.com/item?id=50422628)
+- [&quot;What Good Is a New-Born Baby?&quot;](https://www.americanheritage.com/what-good-new-born-baby)
+- [My Idea of a New Web](https://demo.bonbonweb.org/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

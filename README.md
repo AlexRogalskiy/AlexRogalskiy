@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Premier League buildup, FA Cup first round, WSL and more – matchday live](https://www.theguardian.com/football/live/2026/nov/08/premier-league-buildup-fa-cup-first-round-wsl-and-more-matchday-live)
-- [Australia 30-14 Fiji: Women’s Rugby League World Cup semi-final – live reaction](https://www.theguardian.com/sport/live/2026/nov/08/australia-jillaroos-vs-fiji-womens-rugby-league-world-cup-semi-final-live-updates)
-- [‘AI clog’: UK public bodies battle onslaught of chatbot-generated complaints](https://www.theguardian.com/technology/2026/nov/08/ai-clog-public-bodies-local-authorities-onslaught-chatbot-generated-correspondence)
-- [From the overblown to the ordinary? Met Gala 2027 to celebrate ‘poetics of everyday’](https://www.theguardian.com/fashion/2026/nov/08/met-gala-2027-theme-poetics-everyday)
-- [There is no ‘magic pill’ to fix young women’s anxiety. I should know – I once took propranolol myself | Rhiannon Lucy Cosslett](https://www.theguardian.com/commentisfree/2026/nov/08/magic-pill-young-women-anxiety-propranolol-beta-blockers-girls)
-- [Reintroduction of white-tailed eagles puts seabird colonies at risk of wipeout, say experts](https://www.theguardian.com/environment/2026/nov/08/reintroduction-white-tailed-eagles-seabird-colonies-risk-england-wales)
-- [Julián Alvarez’s Atlético redemption arc in full focus for visit of Barcelona](https://www.theguardian.com/football/2026/nov/08/julian-alvarezs-atletico-redemption-arc-in-full-focus-for-visit-of-barcelona)
-- [Female sports journalists have always faced sexism. Social media has made it vicious and relentless | Anjali Doshi](https://www.theguardian.com/sport/2026/nov/08/female-sports-journalists-sexism-social-media-vicious-relentless-cricket)
-- [The best men’s coats for autumn and winter: 48 favourites for £200 or less](https://www.theguardian.com/thefilter/2026/nov/08/best-mens-coats-autumn-winter-under-200-2026-uk)
-- [Trump’s shattered ‘mirror world’: American voters roundly reject president’s alternate reality](https://www.theguardian.com/us-news/ng-interactive/2026/nov/08/trump-midterms-voters-mirror-world)
+- [Nvidia ‘honeytrap’ scandal rocks AI industry, as China denies spying claims – business live](https://www.theguardian.com/business/live/2026/nov/09/nvidia-jensen-huang-scandal-investigation-ai-industry-tech-stocks-recovery-slump-latest-news-updates)
+- [Rare call for more electricity supplies as wind power drops across Europe](https://www.theguardian.com/business/2026/nov/09/rare-call-more-electricity-supplies-windpower-drops-britain-energy-shortfall)
+- [‘A global political awakening’: how gen Z protests are sweeping the world](https://www.theguardian.com/world/2026/nov/06/gen-z-protests-sweeping-the-world)
+- [Premier League: 10 talking points from the weekend’s action](https://www.theguardian.com/football/2026/nov/09/premier-league-10-talking-points-weekend-action)
+- [‘I didn’t dance until I was 45’: how Jorge Drexler went from repressed doctor to rump-shaking Oscar-winner](https://www.theguardian.com/music/2026/nov/09/jorge-drexler-doctor-oscar-winner-the-motorcycle-diaries)
+- [The hill I will die on: Nobody just ‘rustles up’ a lasagne | Keren Levy](https://www.theguardian.com/commentisfree/2026/nov/09/the-hill-i-will-die-on-lasagne-food-meat-cheese)
+- [‘My father loved Duncan more than he loved us’: the 30-year passion at the heart of the Bloomsbury set – and the family raised in its image](https://www.theguardian.com/artanddesign/2026/nov/09/vanessa-bell-duncan-grant-art-paul-roche-cordelia-inside-bloomsbury-exhibition-charleston-tate-britain)
+- [Is it true that … dock leaves cure nettle stings?](https://www.theguardian.com/lifeandstyle/2026/nov/09/is-it-true-that-dock-leaves-cure-nettle-stings)
+- [‘A new age of climate extremes’: Earth accumulating heat at accelerating rate](https://www.theguardian.com/environment/2026/nov/09/cop31-climate-extremes-earth-global-heating)
+- [Can you solve it? The multi-choice maths quiz taking over the world](https://www.theguardian.com/science/2026/nov/09/can-you-solve-it-the-multi-choice-maths-quiz-taking-over-the-world)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

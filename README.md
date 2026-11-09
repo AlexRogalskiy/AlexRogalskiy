@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Kirlian Photography: Building Your Own Equipment](https://imagesco.com/articles/kirlian/kirlian-photography.html)
-- [Show HN: Maple – Sub-2-BPW Moe Pruning to Run Gemma 4 26B at 45 TPS on a 6GB GPU](https://github.com/AmSach/maple)
-- [ISponsorBlockTV: SponsorBlock client for all YouTube TV clients](https://github.com/dmunozv04/isponsorblocktv)
-- [Goodbye Claude, Hello Pi](https://caleb.software/posts/claude-to-pi.html)
-- [Consumer brain wave headsets threaten privacy](https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F)
-- [ZapFast: A fast, native WhatsApp client in Rust and egui](https://github.com/crmne/zapfast)
-- [Commodore PET – The Worlds First Personal Computer](https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/)
-- [GitHub New pull request overview page in public preview](https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/)
-- [Making any integer with four 2s &lpar;2025&rpar;](https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/)
-- [Claude Code&#39;s &quot;Don&#39;t Ask Again&quot; exposes passwords in 1,122 public GitHub files](https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again)
+- [Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation](https://arxiv.org/abs/2610.14162)
+- [Is Opus 5.5 nerfed? Thinking patterns changed on November 3](https://twitter.com/shanemelaugh/status/2119192075505893695)
+- [Show HN: Flide: Make Jev-like decision models up to 9.5x faster](https://github.com/OmniJev/Flide)
+- [A Critique of GPUI](https://blog.zortax.de/posts/a-critique-of-gpui)
+- [The Qlobe: Rotating Quine &lpar;2010&rpar;](http://mamememo.blogspot.com/2010/09/qlobe.html)
+- [RIP, Harvest](https://aphyr.com/posts/427-rip-harvest)
+- [Unlocking any car from X brand in most of the world](https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/)
+- [I&#39;m not convinced the AI bubble exists](https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists)
+- [When a language&#39;s creator and its owners strongly disagree [pdf]](https://isocpp.org/files/papers/P4454R0.pdf)
+- [Chimera Vocal Synth](https://chimera-vocal-synth.vercel.app/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

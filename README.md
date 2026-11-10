@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [STMicroelectronics streamlines AI model development for STM32 developers](https://newsroom.st.com/media-center/press-item.html/stmicroelectronics-streamlines-ai-model-development-for-stm32-developers-n4800.html)
-- [Claude Opus 5.5 Beats GPT-6 Astra in the Newest EDA Benchmark Leaderboard](https://deepsense.ai/blog/eda-benchmark-leaderboard-october-28th-2026/)
-- [Coordinated disturbances haunt grids worldwide](https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/)
-- [Show HN: Control Layer Demo for AI Coding Agents](https://github.com/MintCoderpro/mintigate-demo)
-- [The Evaluation-Industrial Complex](https://twitter.com/xeophon/status/2119563291412578575)
-- [0rwx Framework for AI Usage](https://0rwx.com/)
-- [Ask HN: Would you retry this timed-out job?](https://news.ycombinator.com/item?id=50422668)
-- [ChatGPT Desktop forwards your SSH agent to remote machines](https://news.ycombinator.com/item?id=50422628)
-- [&quot;What Good Is a New-Born Baby?&quot;](https://www.americanheritage.com/what-good-new-born-baby)
-- [My Idea of a New Web](https://demo.bonbonweb.org/)
+- [AI Bubble: The Calls Are Coming from Inside the House](https://roddubitsky.substack.com/p/ai-bubble-the-calls-are-coming-from)
+- [Databricks Statement on European Sovereignty](https://www.databricks.com/blog/databricks-commitment-european-sovereignty)
+- [GPT-6 Astra edited 131,072 weights in Qwen3.5-0.8B, with no backpropagation](https://twitter.com/ZhihuFrontier/status/2117541464158921136)
+- [The Programmer&#39;s Paradox: Little Things](https://theprogrammersparadox.blogspot.com/2026/10/little-things.html)
+- [Fossil CO2 emissions decrease by 0.4% in 2026](https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/fossil-co2-emissions-decrease-in-2026/)
+- [Show HN: Run multiple Claude Desktop instances side by side on macOS](https://github.com/Yuix-Networks/claude-orchestrator)
+- [How can I recover from sustained stress and avoid exhaustion?](https://andiroberts.com/leadership-questions/recover-from-sustained-stress)
+- [How and why we built Proton protocols: a new VPN client engine](https://protonvpn.com/blog/protun-technical)
+- [Agentic Development and Engineering Strategy](https://learnings.aleixmorgadas.dev/p/agentic-development-and-engineering)
+- [Show HN: Pg-interleave &lpar;Postgres proxy for reproducible race-condition tests&rpar;](https://github.com/alt-f6/pg-interleave)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

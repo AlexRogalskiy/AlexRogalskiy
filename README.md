@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation](https://arxiv.org/abs/2610.14162)
-- [Is Opus 5.5 nerfed? Thinking patterns changed on November 3](https://twitter.com/shanemelaugh/status/2119192075505893695)
-- [Show HN: Flide: Make Jev-like decision models up to 9.5x faster](https://github.com/OmniJev/Flide)
-- [A Critique of GPUI](https://blog.zortax.de/posts/a-critique-of-gpui)
-- [The Qlobe: Rotating Quine &lpar;2010&rpar;](http://mamememo.blogspot.com/2010/09/qlobe.html)
-- [RIP, Harvest](https://aphyr.com/posts/427-rip-harvest)
-- [Unlocking any car from X brand in most of the world](https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/)
-- [I&#39;m not convinced the AI bubble exists](https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists)
-- [When a language&#39;s creator and its owners strongly disagree [pdf]](https://isocpp.org/files/papers/P4454R0.pdf)
-- [Chimera Vocal Synth](https://chimera-vocal-synth.vercel.app/)
+- [M John Harrison becomes first science fiction author to win the Booker prize](https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize)
+- [Fireworks AI security breach impacts Notion and their customers](https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor)
+- [ClickHouse Acquires Xata](https://xata.io/blog/xata-is-joining-clickhouse)
+- [Amazon saves millions by replacing Sonnet 4.6 with Strands Decider](https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/)
+- [Your TV can see through walls](https://maurycyz.com/projects/fading/)
+- [Ultorg: The User Interface for Relational Databases](https://www.ultorg.com/)
+- [CoreWeave bond yield tops 16% as AI credit stress rises](https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html)
+- [Formalizing CPython](https://broyojo.com/python-formalization/)
+- [Locating the source of a mysterious beep](https://simonwillison.net/2026/Nov/9/mysterious-beeps/)
+- [Horible public key tricks](https://maurycyz.com/projects/badcert/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

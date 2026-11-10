@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Nvidia ‘honeytrap’ scandal rocks AI industry, as China denies spying claims – business live](https://www.theguardian.com/business/live/2026/nov/09/nvidia-jensen-huang-scandal-investigation-ai-industry-tech-stocks-recovery-slump-latest-news-updates)
-- [Rare call for more electricity supplies as wind power drops across Europe](https://www.theguardian.com/business/2026/nov/09/rare-call-more-electricity-supplies-windpower-drops-britain-energy-shortfall)
-- [‘A global political awakening’: how gen Z protests are sweeping the world](https://www.theguardian.com/world/2026/nov/06/gen-z-protests-sweeping-the-world)
-- [Premier League: 10 talking points from the weekend’s action](https://www.theguardian.com/football/2026/nov/09/premier-league-10-talking-points-weekend-action)
-- [‘I didn’t dance until I was 45’: how Jorge Drexler went from repressed doctor to rump-shaking Oscar-winner](https://www.theguardian.com/music/2026/nov/09/jorge-drexler-doctor-oscar-winner-the-motorcycle-diaries)
-- [The hill I will die on: Nobody just ‘rustles up’ a lasagne | Keren Levy](https://www.theguardian.com/commentisfree/2026/nov/09/the-hill-i-will-die-on-lasagne-food-meat-cheese)
-- [‘My father loved Duncan more than he loved us’: the 30-year passion at the heart of the Bloomsbury set – and the family raised in its image](https://www.theguardian.com/artanddesign/2026/nov/09/vanessa-bell-duncan-grant-art-paul-roche-cordelia-inside-bloomsbury-exhibition-charleston-tate-britain)
-- [Is it true that … dock leaves cure nettle stings?](https://www.theguardian.com/lifeandstyle/2026/nov/09/is-it-true-that-dock-leaves-cure-nettle-stings)
-- [‘A new age of climate extremes’: Earth accumulating heat at accelerating rate](https://www.theguardian.com/environment/2026/nov/09/cop31-climate-extremes-earth-global-heating)
-- [Can you solve it? The multi-choice maths quiz taking over the world](https://www.theguardian.com/science/2026/nov/09/can-you-solve-it-the-multi-choice-maths-quiz-taking-over-the-world)
+- [Jarvis Cocker on judging the Booker prize: ‘It’s just like being in a band’](https://www.theguardian.com/books/2026/nov/10/jarvis-cocker-on-judging-the-booker-prize-its-just-like-being-in-a-band)
+- [Will the Trump-supporting UK right share in his ignominy? No, it’s too dishonest for that | Polly Toynbee](https://www.theguardian.com/commentisfree/2026/nov/10/trump-supporting-uk-right-dishonest-british-rightwing-commentators-maga)
+- [Killing the Pope review – the truth behind the attempted murder of John Paul II](https://www.theguardian.com/books/2026/nov/10/killing-the-pope-review-the-truth-behind-the-attempted-of-john-paul-ii)
+- [Britons stockpiling water and food tins but not panic buying, figures show](https://www.theguardian.com/business/2026/nov/10/britons-stockpiling-water-food-tins-panic-buy-be-ready)
+- [Cop31 live: slight drop in fossil fuel emissions revealed as conference enters second day](https://www.theguardian.com/environment/live/2026/nov/10/cop31-live-fossil-fuel-carbon-emissions-climate-crisis-latest-news-updates)
+- [Viktor Orban’s brother detained in people-smuggling investigation, Hungarian PM says](https://www.theguardian.com/world/2026/nov/10/viktor-orban-brother-aron-detained-people-smuggling-investigation-hungarian-pm-says)
+- [Liberals like Messi but authoritarians prefer Ronaldo: how politics shapes sporting choices | Sean Ingle](https://www.theguardian.com/sport/2026/nov/10/how-politics-shapes-sporting-choices-messi-ronaldo-trump)
+- [Manchester City’s Kerstin Casparij: ‘I love football – but it takes over your life’](https://www.theguardian.com/football/2026/nov/10/manchester-citys-kerstin-casparij-i-love-football-but-it-takes-over-your-life)
+- [Grenades, grief and a deepening political divide: five takeaways from Sonia Gandhi’s new memoir](https://www.theguardian.com/world/2026/nov/09/this-is-india-sonia-gandhi-memoir-belonging)
+- [Nvidia and Jensen Huang sued by shareholders over affair with alleged Chinese spy](https://www.theguardian.com/technology/2026/nov/10/nvidia-jensen-huang-sued-donald-trump-fbi)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -355,6 +355,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Microsoft’s email security is unexpectedly blocking legitimate business mail](https://www.computerworld.com/article/4246562/microsofts-email-security-is-unexpectedly-blocking-legitimate-business-mail.html)
+- [5 big Windows headaches and how to fix them](https://www.computerworld.com/article/4245913/5-big-windows-headaches-and-how-to-fix-them.html)
+- [Getting ready for Apple’s next big thing: MacBook Neo 2](https://www.computerworld.com/article/4246085/getting-ready-for-apples-next-big-thing-macbook-neo-2.html)
 - [A mole in the White House? Residential proxies are everywhere](https://www.computerworld.com/article/4245801/a-mole-in-the-white-house-residential-proxies-are-everywhere-3.html)
 - [Meta does a U-turn on controversial new AI terms for businesses](https://www.computerworld.com/article/4245784/meta-does-a-u-turn-on-controversial-new-ai-terms-for-businesses-2.html)
 - [Meta does a U-turn on controversial new AI terms for businesses](https://www.computerworld.com/article/4245784/meta-does-a-u-turn-on-controversial-new-ai-terms-for-businesses-2.html)
@@ -362,9 +365,6 @@
 - [OpenAI buys tiny software developer to improve Codex](https://www.computerworld.com/article/4245735/openai-buys-tiny-software-developer-to-improve-codex-3.html)
 - [Box launches Architect, an AI-powered workflow builder](https://www.computerworld.com/article/4245613/box-launches-architect-ai-powered-workflow-builder-for-business-processes.html)
 - [Microsoft extends undisclosed usage restrictions on Copilot Chat for enterprise users](https://www.computerworld.com/article/4245658/microsoft-extends-undisclosed-usage-restrictions-on-copilot-chat-for-enterprise-users.html)
-- [Don’t mention the data center: OpenAI calls them ‘compute campuses’ instead](https://www.computerworld.com/article/4245623/dont-mention-the-data-center-openai-calls-them-compute-campuses-instead-2.html)
-- [Google is in trouble, deep](https://www.computerworld.com/article/4245683/google-is-in-trouble-deep.html)
-- [Google Pics: How to level up your visuals in Docs and Slides](https://www.computerworld.com/article/4229164/google-pics-how-to-level-up-your-visuals-in-docs-and-slides.html)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

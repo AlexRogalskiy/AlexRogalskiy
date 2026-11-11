@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Jarvis Cocker on judging the Booker prize: ‘It’s just like being in a band’](https://www.theguardian.com/books/2026/nov/10/jarvis-cocker-on-judging-the-booker-prize-its-just-like-being-in-a-band)
-- [Will the Trump-supporting UK right share in his ignominy? No, it’s too dishonest for that | Polly Toynbee](https://www.theguardian.com/commentisfree/2026/nov/10/trump-supporting-uk-right-dishonest-british-rightwing-commentators-maga)
-- [Killing the Pope review – the truth behind the attempted murder of John Paul II](https://www.theguardian.com/books/2026/nov/10/killing-the-pope-review-the-truth-behind-the-attempted-of-john-paul-ii)
-- [Britons stockpiling water and food tins but not panic buying, figures show](https://www.theguardian.com/business/2026/nov/10/britons-stockpiling-water-food-tins-panic-buy-be-ready)
-- [Cop31 live: slight drop in fossil fuel emissions revealed as conference enters second day](https://www.theguardian.com/environment/live/2026/nov/10/cop31-live-fossil-fuel-carbon-emissions-climate-crisis-latest-news-updates)
-- [Viktor Orban’s brother detained in people-smuggling investigation, Hungarian PM says](https://www.theguardian.com/world/2026/nov/10/viktor-orban-brother-aron-detained-people-smuggling-investigation-hungarian-pm-says)
-- [Liberals like Messi but authoritarians prefer Ronaldo: how politics shapes sporting choices | Sean Ingle](https://www.theguardian.com/sport/2026/nov/10/how-politics-shapes-sporting-choices-messi-ronaldo-trump)
-- [Manchester City’s Kerstin Casparij: ‘I love football – but it takes over your life’](https://www.theguardian.com/football/2026/nov/10/manchester-citys-kerstin-casparij-i-love-football-but-it-takes-over-your-life)
-- [Grenades, grief and a deepening political divide: five takeaways from Sonia Gandhi’s new memoir](https://www.theguardian.com/world/2026/nov/09/this-is-india-sonia-gandhi-memoir-belonging)
-- [Nvidia and Jensen Huang sued by shareholders over affair with alleged Chinese spy](https://www.theguardian.com/technology/2026/nov/10/nvidia-jensen-huang-sued-donald-trump-fbi)
+- [Cop31 live: World leaders to speak at climate crisis summit](https://www.theguardian.com/environment/live/2026/nov/11/climate-crisis-talks-turkey-latest-news-updates)
+- [Nvidia’s value tumbles by $430bn since spy allegations, as major US law firm hired to investigate claims – business live](https://www.theguardian.com/business/live/2026/nov/11/nvidia-spy-allegations-us-law-firm-hired-investigation-stock-markets-pound-dollar-ftse-nasdaq-latest-news-updates)
+- [Rivals review – this TV joy is so much more than just a romp](https://www.theguardian.com/tv-and-radio/2026/nov/11/rivals-review-disney-series-two-aidan-turner-danny-dyer-david-tennant)
+- [Which football club has had most international captains in the same team? | The Knowledge](https://www.theguardian.com/football/2026/nov/11/football-club-most-international-captains-same-team-the-knowledge)
+- [Vintage cars tackle slate mine slopes in Lakeland trial – in pictures](https://www.theguardian.com/artanddesign/gallery/2026/nov/11/lakeland-trial-vintage-cars-honister-slate-mine-in-pictures)
+- [Is No 10 still the best, or No 41? The myths and maths of Premier League shirt numbers](https://www.theguardian.com/football/2026/nov/11/is-no-10-still-the-best-or-no-41-the-myths-and-maths-of-premier-league-shirt-numbers)
+- [Aldi cuts hundreds of UK head office roles as part of global cost trimming](https://www.theguardian.com/business/2026/nov/11/aldi-cuts-hundreds-of-uk-head-office-and-logistics-roles-global-cost-trimming)
+- [AI has made it ‘close to impossible’ to assess university coursework, regulator says](https://www.theguardian.com/education/2026/nov/11/ai-close-to-impossible-assess-university-coursework-regulator)
+- [Back of the net! Scotland’s historic salmon fishers – in pictures](https://www.theguardian.com/artanddesign/gallery/2026/nov/11/scotland-salmon-fishers-in-pictures-colin-mcpherson)
+- [Mini record player on track for No 1 in Christmas toy parade](https://www.theguardian.com/lifeandstyle/2026/nov/11/mini-record-player-on-track-for-no-1-in-christmas-toy-parade)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

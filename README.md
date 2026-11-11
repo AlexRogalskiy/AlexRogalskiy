@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [AI Bubble: The Calls Are Coming from Inside the House](https://roddubitsky.substack.com/p/ai-bubble-the-calls-are-coming-from)
-- [Databricks Statement on European Sovereignty](https://www.databricks.com/blog/databricks-commitment-european-sovereignty)
-- [GPT-6 Astra edited 131,072 weights in Qwen3.5-0.8B, with no backpropagation](https://twitter.com/ZhihuFrontier/status/2117541464158921136)
-- [The Programmer&#39;s Paradox: Little Things](https://theprogrammersparadox.blogspot.com/2026/10/little-things.html)
-- [Fossil CO2 emissions decrease by 0.4% in 2026](https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/fossil-co2-emissions-decrease-in-2026/)
-- [Show HN: Run multiple Claude Desktop instances side by side on macOS](https://github.com/Yuix-Networks/claude-orchestrator)
-- [How can I recover from sustained stress and avoid exhaustion?](https://andiroberts.com/leadership-questions/recover-from-sustained-stress)
-- [How and why we built Proton protocols: a new VPN client engine](https://protonvpn.com/blog/protun-technical)
-- [Agentic Development and Engineering Strategy](https://learnings.aleixmorgadas.dev/p/agentic-development-and-engineering)
-- [Show HN: Pg-interleave &lpar;Postgres proxy for reproducible race-condition tests&rpar;](https://github.com/alt-f6/pg-interleave)
+- [The crisis of universal search and the return to environments of knowledge](https://medium.com/@smoking2man/the-crisis-of-universal-search-and-the-return-to-specialized-environments-of-knowledge-73cf20497eb4)
+- [Specialist: Open-source hardware, data pipeline, training, and deployment](https://specialist-ai.github.io/)
+- [I&#39;d rather use AI than Ansible](https://news.ycombinator.com/item?id=50451010)
+- [Modular Hardware for Rapid Prototyping](https://atech.dev/)
+- [Proton keeps your data secure in the age of AI](https://proton.me/blog/how-proton-keeps-your-data-secure)
+- [Sustainable AI: The Economics of Intelligence](https://muse.ai/s/sustainable-ai-the-economics-of-zxb68xexo9xsxrxuxb/ivDVErp6tuZh10FyjHbfrov4tcOPKcS3ilSk2uI2uIk)
+- [Pilot Purgatory Calculator – how much ARR is trapped in stalled pilots?](https://calc-arr.ardentfoundry.com/)
+- [US Data center construction blocked via China proxy organization](https://twitter.com/SamLyman33/status/2120126986341294387)
+- [Blunt Banhammer Blocks Basic Bots Ballistically](https://shkspr.mobi/blog/2026/11/blunt-banhammer-blocks-basic-bots-ballistically/)
+- [Ukraine Pivots to Israeli-Italian Satellite Tech to Bypass Starlink Restrictions](https://policy-wire.com/ukraine-pivots-to-israeli-italian-satellite-tech-to-bypass-starlink-restrictions/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

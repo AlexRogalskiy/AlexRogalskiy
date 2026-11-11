@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [M John Harrison becomes first science fiction author to win the Booker prize](https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize)
-- [Fireworks AI security breach impacts Notion and their customers](https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor)
-- [ClickHouse Acquires Xata](https://xata.io/blog/xata-is-joining-clickhouse)
-- [Amazon saves millions by replacing Sonnet 4.6 with Strands Decider](https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/)
-- [Your TV can see through walls](https://maurycyz.com/projects/fading/)
-- [Ultorg: The User Interface for Relational Databases](https://www.ultorg.com/)
-- [CoreWeave bond yield tops 16% as AI credit stress rises](https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html)
-- [Formalizing CPython](https://broyojo.com/python-formalization/)
-- [Locating the source of a mysterious beep](https://simonwillison.net/2026/Nov/9/mysterious-beeps/)
-- [Horible public key tricks](https://maurycyz.com/projects/badcert/)
+- [Greg Kurtzer&#39;s Ginux is now a userspace kernel](https://github.com/gmkurtzer/ginux)
+- [Protecting SSH Keys with macOS Secure Enclave](https://gatezh.com/posts/macos-secure-enclave-ssh-keys/)
+- [To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA](https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna)
+- [Hooked on Tuna](https://theconversation.com/hooked-on-tuna-people-have-been-harvesting-these-ocean-predators-for-44-000-years-292428)
+- [A great old-timey game-programming hack &lpar;2013&rpar;](https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html)
+- [LLMs Play Zachtronics&#39; TIS-100](https://tis-100.wincon.dev/)
+- [Tracking Anthropic-discovered vulnerabilities](https://www.vulncheck.com/blog/anthropic-glasswing-november-update)
+- [$30M Raised to Redo the CPU](https://tendrils.co/blog/2026-11-10/30m-raised)
+- [Apple has new Mac app coming to make running local AI models easy](https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/)
+- [Six Math Essentials](https://teorth.github.io/tao-web/six-math-essentials.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

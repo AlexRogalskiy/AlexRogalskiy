@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Hackers stole AI credentials to get $740,000 in free compute; Railway picked up the bill](https://www.computerworld.com/article/4247584/hackers-stole-ai-credentials-to-get-740000-in-free-compute-railway-picked-up-the-bill-2.html)
+- [Anthropic targets workplace collaboration with Claude Meetings](https://www.computerworld.com/article/4247466/anthropic-targets-workplace-collaboration-with-claude-meetings.html)
+- [The bad news for Microsoft in the Blue Tsunami](https://www.computerworld.com/article/4246999/bad-news-for-microsoft-in-blue-tsunami.html)
+- [Adobe opens Creative Cloud apps to third-party AI assistants](https://www.computerworld.com/article/4247247/adobe-opens-creative-cloud-apps-to-third-party-ai-assistants.html)
+- [Your new Android speed-typing superpower](https://www.computerworld.com/article/4246461/android-speed-typing.html)
 - [New malware doesn’t call home, it turns your Exchange server into its home](https://www.computerworld.com/article/4247180/new-malware-doesnt-call-home-it-turns-your-exchange-server-into-its-home-2.html)
 - [Midterm results will raise AI costs and compliance questions for IT leaders](https://www.computerworld.com/article/4246423/midterm-results-will-raise-ai-costs-and-compliance-questions-for-it-leaders.html)
 - [Anthropic unveils Claude Fable 5.2, Mythos 5.2 with coding gains and lower prices](https://www.computerworld.com/article/4246693/anthropic-unveils-claude-fable-5-2-mythos-5-2-with-coding-gains-and-lower-prices-2.html)
 - [After India, is Türkiye Apple’s next big bet?](https://www.computerworld.com/article/4246470/after-india-is-turkiye-apples-next-big-bet.html)
 - [Microsoft’s email security is unexpectedly blocking legitimate business mail](https://www.computerworld.com/article/4246562/microsofts-email-security-is-unexpectedly-blocking-legitimate-business-mail.html)
-- [5 big Windows headaches and how to fix them](https://www.computerworld.com/article/4245913/5-big-windows-headaches-and-how-to-fix-them.html)
-- [Getting ready for Apple’s next big thing: MacBook Neo 2](https://www.computerworld.com/article/4246085/getting-ready-for-apples-next-big-thing-macbook-neo-2.html)
-- [A mole in the White House? Residential proxies are everywhere](https://www.computerworld.com/article/4245801/a-mole-in-the-white-house-residential-proxies-are-everywhere-3.html)
-- [Meta does a U-turn on controversial new AI terms for businesses](https://www.computerworld.com/article/4245784/meta-does-a-u-turn-on-controversial-new-ai-terms-for-businesses-2.html)
-- [Meta does a U-turn on controversial new AI terms for businesses](https://www.computerworld.com/article/4245784/meta-does-a-u-turn-on-controversial-new-ai-terms-for-businesses-2.html)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

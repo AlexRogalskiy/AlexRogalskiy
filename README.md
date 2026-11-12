@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Cop31 live: World leaders to speak at climate crisis summit](https://www.theguardian.com/environment/live/2026/nov/11/climate-crisis-talks-turkey-latest-news-updates)
-- [Nvidia’s value tumbles by $430bn since spy allegations, as major US law firm hired to investigate claims – business live](https://www.theguardian.com/business/live/2026/nov/11/nvidia-spy-allegations-us-law-firm-hired-investigation-stock-markets-pound-dollar-ftse-nasdaq-latest-news-updates)
-- [Rivals review – this TV joy is so much more than just a romp](https://www.theguardian.com/tv-and-radio/2026/nov/11/rivals-review-disney-series-two-aidan-turner-danny-dyer-david-tennant)
-- [Which football club has had most international captains in the same team? | The Knowledge](https://www.theguardian.com/football/2026/nov/11/football-club-most-international-captains-same-team-the-knowledge)
-- [Vintage cars tackle slate mine slopes in Lakeland trial – in pictures](https://www.theguardian.com/artanddesign/gallery/2026/nov/11/lakeland-trial-vintage-cars-honister-slate-mine-in-pictures)
-- [Is No 10 still the best, or No 41? The myths and maths of Premier League shirt numbers](https://www.theguardian.com/football/2026/nov/11/is-no-10-still-the-best-or-no-41-the-myths-and-maths-of-premier-league-shirt-numbers)
-- [Aldi cuts hundreds of UK head office roles as part of global cost trimming](https://www.theguardian.com/business/2026/nov/11/aldi-cuts-hundreds-of-uk-head-office-and-logistics-roles-global-cost-trimming)
-- [AI has made it ‘close to impossible’ to assess university coursework, regulator says](https://www.theguardian.com/education/2026/nov/11/ai-close-to-impossible-assess-university-coursework-regulator)
-- [Back of the net! Scotland’s historic salmon fishers – in pictures](https://www.theguardian.com/artanddesign/gallery/2026/nov/11/scotland-salmon-fishers-in-pictures-colin-mcpherson)
-- [Mini record player on track for No 1 in Christmas toy parade](https://www.theguardian.com/lifeandstyle/2026/nov/11/mini-record-player-on-track-for-no-1-in-christmas-toy-parade)
+- [Cop31: ‘The crisis is upon us now’, Burnham tells climate summit](https://www.theguardian.com/environment/live/2026/nov/12/cop31-the-crisis-is-upon-us-now-burnham-due-to-tell-climate-summit)
+- [UK economy grows at fastest pace for more than two years](https://www.theguardian.com/business/2026/nov/12/uk-economy-grows-third-quarter-oil-price-ons-gdp)
+- [Harry Kane’s England caps record: an illustrious career in numbers and charts](https://www.theguardian.com/football/2026/nov/12/harry-kane-england-caps-record-career-in-numbers-charts)
+- [Fizzle of Shoaib Bashir’s algorithmic magic echoes wider decline of Test spin | Jonathan Liew](https://www.theguardian.com/sport/2026/nov/12/shoaib-bashir-england-spin-bowling-test-t20-data)
+- [You be the judge: should my sister stop calling me when she’s on the move?](https://www.theguardian.com/lifeandstyle/2026/nov/12/you-be-the-judge-should-my-sister-stop-calling-when-on-move)
+- [‘I railed against the stereotype of the humourless lesbian’: the cheeky, feminist photography of Jill Posener](https://www.theguardian.com/artanddesign/2026/nov/12/jill-posener-interview-radical-feminist-photography)
+- [The Booker prize winner described a dystopian Britain. But haven’t we been living in that since Brexit? | Zoe Williams](https://www.theguardian.com/commentisfree/2026/nov/12/brexits-gains-were-a-fiction-its-harms-are-real-we-dont-have-to-go-on-living-in-this-nightmare)
+- [Less drama, more listening, but is Kozo Tashima the candidate to topple Infantino?](https://www.theguardian.com/football/2026/nov/12/fifa-kozo-tashima-seeks-change-of-tone)
+- [Water industry bonus ban to be tightened as Ofwat warns of ‘damage to public trust’](https://www.theguardian.com/business/2026/nov/12/water-industry-bonus-ban-tightened-ofwat)
+- [Nvidia board reportedly deciding whether to oust CEO Jensen Huang as stock price plunges](https://www.theguardian.com/technology/2026/nov/12/nvidia-board-decision-ceo-jensen-huang-alleged-second-affair)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

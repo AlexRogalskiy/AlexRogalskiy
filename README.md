@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The crisis of universal search and the return to environments of knowledge](https://medium.com/@smoking2man/the-crisis-of-universal-search-and-the-return-to-specialized-environments-of-knowledge-73cf20497eb4)
-- [Specialist: Open-source hardware, data pipeline, training, and deployment](https://specialist-ai.github.io/)
-- [I&#39;d rather use AI than Ansible](https://news.ycombinator.com/item?id=50451010)
-- [Modular Hardware for Rapid Prototyping](https://atech.dev/)
-- [Proton keeps your data secure in the age of AI](https://proton.me/blog/how-proton-keeps-your-data-secure)
-- [Sustainable AI: The Economics of Intelligence](https://muse.ai/s/sustainable-ai-the-economics-of-zxb68xexo9xsxrxuxb/ivDVErp6tuZh10FyjHbfrov4tcOPKcS3ilSk2uI2uIk)
-- [Pilot Purgatory Calculator – how much ARR is trapped in stalled pilots?](https://calc-arr.ardentfoundry.com/)
-- [US Data center construction blocked via China proxy organization](https://twitter.com/SamLyman33/status/2120126986341294387)
-- [Blunt Banhammer Blocks Basic Bots Ballistically](https://shkspr.mobi/blog/2026/11/blunt-banhammer-blocks-basic-bots-ballistically/)
-- [Ukraine Pivots to Israeli-Italian Satellite Tech to Bypass Starlink Restrictions](https://policy-wire.com/ukraine-pivots-to-israeli-italian-satellite-tech-to-bypass-starlink-restrictions/)
+- [Claudia.gallery](https://claudia.gallery/)
+- [Employees taking 32% more leave for GTA 6 launch day](https://remote.com/gta)
+- [Atrocious Boeing Why? [video]](https://www.reddit.com/r/aviation/comments/1xtvs71/this_is_atrocious_boeing_why/)
+- [Show HN: Mu Dashboard – System and Browser Vitals](https://chromewebstore.google.com/detail/mu-dashboard-system-brows/glicheafndnenmakkbnolglbkbiidmbf)
+- [Hawley calls for Senate to pass data center moratorium](https://thehill.com/homenews/senate/6214878-hawley-calls-gop-data-center-moratorium/)
+- [Pixel3D Pixel Art Creation Tool](https://apps.apple.com/us/app/pixel3d-dream-to-3d-reality/id6479245806)
+- [LLM-Anthropic 0.31](https://simonwillison.net/2026/Nov/9/llm-anthropic/)
+- [Nvidia Multimedia Accelerator &lpar;1995&rpar;](https://web.archive.org/web/19961112163303/http://www.nvidia.com/corporate/prnv.html)
+- [I built Cashnix – an expense tracker to make managing personal finances easier](https://play.google.com/store/apps/details?id=com.warehouseapp.Spendora&hl=en_IN)
+- [Show HN: MFlare – Cloudflare usage and deploy status in the macOS menu bar](https://mflare.yuy1n.io/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

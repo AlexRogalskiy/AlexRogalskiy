@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Greg Kurtzer&#39;s Ginux is now a userspace kernel](https://github.com/gmkurtzer/ginux)
-- [Protecting SSH Keys with macOS Secure Enclave](https://gatezh.com/posts/macos-secure-enclave-ssh-keys/)
-- [To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA](https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna)
-- [Hooked on Tuna](https://theconversation.com/hooked-on-tuna-people-have-been-harvesting-these-ocean-predators-for-44-000-years-292428)
-- [A great old-timey game-programming hack &lpar;2013&rpar;](https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html)
-- [LLMs Play Zachtronics&#39; TIS-100](https://tis-100.wincon.dev/)
-- [Tracking Anthropic-discovered vulnerabilities](https://www.vulncheck.com/blog/anthropic-glasswing-november-update)
-- [$30M Raised to Redo the CPU](https://tendrils.co/blog/2026-11-10/30m-raised)
-- [Apple has new Mac app coming to make running local AI models easy](https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/)
-- [Six Math Essentials](https://teorth.github.io/tao-web/six-math-essentials.html)
+- [Humble Bundle just killed most of their security through vibecoding](https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/)
+- [I&#39;m Working on a FOSS Linux Pinbal Simulation Engine](https://www.getlazarus.org/forums/topic/17/)
+- [Darling Development Update – Q4 2026](https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/)
+- [Bad ideas that aren&#39;t bad anymore](https://devonestes.com/bad-ideas-that-arent-bad-anymore)
+- [Lean Grimoire](https://terrytao.wordpress.com/2026/11/11/lean-grimoire/)
+- [Critical RCE Vulnerability in Apache HTTP Server](https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability)
+- [A general purpose Apple Silicon layer for x86-64 PCs](https://github.com/tylertms/Stela)
+- [93% of paint splatters are valid Perl programs &lpar;2019&rpar;](https://www.mcmillen.dev/sigbovik/)
+- [Nvidia is preparing to oust Jensen Huang](https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad)
+- [Lock Your GitHub Actions](https://hugovk.dev/blog/2026/lock-github-actions/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

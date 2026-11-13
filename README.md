@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Cop31: ‘The crisis is upon us now’, Burnham tells climate summit](https://www.theguardian.com/environment/live/2026/nov/12/cop31-the-crisis-is-upon-us-now-burnham-due-to-tell-climate-summit)
-- [UK economy grows at fastest pace for more than two years](https://www.theguardian.com/business/2026/nov/12/uk-economy-grows-third-quarter-oil-price-ons-gdp)
-- [Harry Kane’s England caps record: an illustrious career in numbers and charts](https://www.theguardian.com/football/2026/nov/12/harry-kane-england-caps-record-career-in-numbers-charts)
-- [Fizzle of Shoaib Bashir’s algorithmic magic echoes wider decline of Test spin | Jonathan Liew](https://www.theguardian.com/sport/2026/nov/12/shoaib-bashir-england-spin-bowling-test-t20-data)
-- [You be the judge: should my sister stop calling me when she’s on the move?](https://www.theguardian.com/lifeandstyle/2026/nov/12/you-be-the-judge-should-my-sister-stop-calling-when-on-move)
-- [‘I railed against the stereotype of the humourless lesbian’: the cheeky, feminist photography of Jill Posener](https://www.theguardian.com/artanddesign/2026/nov/12/jill-posener-interview-radical-feminist-photography)
-- [The Booker prize winner described a dystopian Britain. But haven’t we been living in that since Brexit? | Zoe Williams](https://www.theguardian.com/commentisfree/2026/nov/12/brexits-gains-were-a-fiction-its-harms-are-real-we-dont-have-to-go-on-living-in-this-nightmare)
-- [Less drama, more listening, but is Kozo Tashima the candidate to topple Infantino?](https://www.theguardian.com/football/2026/nov/12/fifa-kozo-tashima-seeks-change-of-tone)
-- [Water industry bonus ban to be tightened as Ofwat warns of ‘damage to public trust’](https://www.theguardian.com/business/2026/nov/12/water-industry-bonus-ban-tightened-ofwat)
-- [Nvidia board reportedly deciding whether to oust CEO Jensen Huang as stock price plunges](https://www.theguardian.com/technology/2026/nov/12/nvidia-board-decision-ceo-jensen-huang-alleged-second-affair)
+- [Australia beat England by seven wickets in first men’s cricket one-day international – live reaction](https://www.theguardian.com/sport/live/2026/nov/13/australia-vs-england-cricket-odi-perth-live-scores)
+- [Leaders meet in Dublin amid search for lead EU negotiator for peace talks with Russia - Europe live](https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates)
+- [Microsoft outage live: ‘positive results for server stability’ reported, amid global disruption](https://www.theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news)
+- [Sheherazaad: Khudgarzi review | Ammar Kalia&#39;s global album of the month](https://www.theguardian.com/music/2026/nov/13/sheherazaad-khudgarzi-review)
+- [Microsoft ‘seeing positive results’ from attempts to fix global outage affecting Teams and Outlook](https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports)
+- [Heartland review – Jessica Chastain’s Netflix country music thriller is more miss than hit](https://www.theguardian.com/film/2026/nov/13/heartland-review-jessica-chastain-netflix)
+- [Chess: Carlsen comes to town with tantalising tests for London Classic Super Rapid](https://www.theguardian.com/sport/2026/nov/13/chess-carlsen-comes-to-town-with-tantalising-tests-for-london-classic-super-rapid)
+- [Ofsted’s menacing inspections are still disastrous. Schools should answer to the communities they serve | Simon Jenkins](https://www.theguardian.com/commentisfree/2026/nov/13/ofsted-inspections-schools-communities-statistics-teachers-parents)
+- [Sports quiz of the week: records, rancour, rivarly and recriminations](https://www.theguardian.com/sport/2026/nov/13/sports-quiz-week-football-hockey-nfl-rugby-golf-tennis-cricket)
+- [Week in wildlife: Scottish beavers, running giraffes and good news for dormice](https://www.theguardian.com/environment/gallery/2026/nov/13/week-in-wildlife-scottish-beavers-running-giraffes-and-good-news-for-dormice)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

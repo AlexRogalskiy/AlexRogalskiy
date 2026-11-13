@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Humble Bundle just killed most of their security through vibecoding](https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/)
-- [I&#39;m Working on a FOSS Linux Pinbal Simulation Engine](https://www.getlazarus.org/forums/topic/17/)
-- [Darling Development Update – Q4 2026](https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/)
-- [Bad ideas that aren&#39;t bad anymore](https://devonestes.com/bad-ideas-that-arent-bad-anymore)
-- [Lean Grimoire](https://terrytao.wordpress.com/2026/11/11/lean-grimoire/)
-- [Critical RCE Vulnerability in Apache HTTP Server](https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability)
-- [A general purpose Apple Silicon layer for x86-64 PCs](https://github.com/tylertms/Stela)
-- [93% of paint splatters are valid Perl programs &lpar;2019&rpar;](https://www.mcmillen.dev/sigbovik/)
-- [Nvidia is preparing to oust Jensen Huang](https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad)
-- [Lock Your GitHub Actions](https://hugovk.dev/blog/2026/lock-github-actions/)
+- [Global Microsoft Outage](https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk)
+- [Microsoft says attempts to fix global outage not going &#39;as expected&#39;](https://www.bbc.com/news/live/cq5y10ge3dp3t)
+- [Scientists claim the universe is twice as old as believed](https://geekspin.co/scientists-claim-the-universe-is-twice-as-old-as-believed/)
+- [Microsoft Outlook/365 still down after 12 hours](https://twitter.com/MSFT365Status/status/2121079061774491735)
+- [IceWM](https://ice-wm.org/)
+- [Switcher &lpar;2004&rpar;](https://folklore.org/Switcher.html)
+- [Brave Search API now accepts agentic payments via the x402 protocol](https://brave.com/blog/search-api-agentic-payments/)
+- [Nvidia employees petition to bring back Jensen Huang](https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/)
+- [Edge0-145B: Frontier AI Capabilities on Your Own Computer](https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer)
+- [Chinese frontier AI models carry the fingerprint of export-controlled GPUs](https://unemploymentlabs.com/checkpoint-forensics)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

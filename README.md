@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Claudia.gallery](https://claudia.gallery/)
-- [Employees taking 32% more leave for GTA 6 launch day](https://remote.com/gta)
-- [Atrocious Boeing Why? [video]](https://www.reddit.com/r/aviation/comments/1xtvs71/this_is_atrocious_boeing_why/)
-- [Show HN: Mu Dashboard – System and Browser Vitals](https://chromewebstore.google.com/detail/mu-dashboard-system-brows/glicheafndnenmakkbnolglbkbiidmbf)
-- [Hawley calls for Senate to pass data center moratorium](https://thehill.com/homenews/senate/6214878-hawley-calls-gop-data-center-moratorium/)
-- [Pixel3D Pixel Art Creation Tool](https://apps.apple.com/us/app/pixel3d-dream-to-3d-reality/id6479245806)
-- [LLM-Anthropic 0.31](https://simonwillison.net/2026/Nov/9/llm-anthropic/)
-- [Nvidia Multimedia Accelerator &lpar;1995&rpar;](https://web.archive.org/web/19961112163303/http://www.nvidia.com/corporate/prnv.html)
-- [I built Cashnix – an expense tracker to make managing personal finances easier](https://play.google.com/store/apps/details?id=com.warehouseapp.Spendora&hl=en_IN)
-- [Show HN: MFlare – Cloudflare usage and deploy status in the macOS menu bar](https://mflare.yuy1n.io/)
+- [Show HN: CTRL – realistic work simulations for engineering interviews](https://ctr-l.studio/app)
+- [Can anybody proof my cryptography algorithm?](https://confidex.me/en/cryptography)
+- [Ask HN: Using Sort as a Notepad](https://news.ycombinator.com/item?id=50480328)
+- [A data center with zero water use, 100% renewable energy and made from wood](https://www.theguardian.com/environment/2026/nov/12/datacentres-unpopular-sweden-ecodatacenter-falun)
+- [Before His Ouster, Jensen Huang Belittled the Executive Replacing Him](https://www.wsj.com/tech/jensen-huang-colette-kress-nvidia-ceo-eb289097)
+- [Local Control for the Logitech Harmony Hub and Its Remotes, Home Assistant](https://old.reddit.com/r/logitechharmony/comments/1xrh9ed/melodious_20_remote_pairing_android_tv_control/)
+- [People Vote for Anti-Immigration Parties Because They Don&#39;t Like Immigration](https://www.popularbydesign.org/p/people-vote-for-anti-immigration)
+- [Could China&#39;s battery-swapping e-trucks be the answer to EV range anxiety?](https://www.theguardian.com/environment/2026/nov/12/china-battery-swapping-e-trucks-catl-ev-range-anxiety)
+- [Where Are the &quot;Killer Apps&quot; of AI?](https://www.oreilly.com/radar/where-are-the-killer-apps-of-ai/)
+- [Show HN: Avatar/pet plugin changes attire based on topic Codex/Claude/DSH](https://github.com/hci-yeo/AdaptiveAgentAvatar)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -19,6 +19,10 @@ jobs:
       - name: Cookie fortune teller
         uses: vincetse/fortune-cookie-action@v4
 
-      - run: ./.github/scripts/process-comment.sh
+      - name: Updates file permissions
+        run: chmod +x ./.github/scripts/process-comment.sh
+
+      - name: Process comments
+        run: ./.github/scripts/process-comment.sh
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

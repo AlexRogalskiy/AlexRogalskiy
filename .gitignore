@@ -3,6 +3,7 @@
 
 # Log file
 *.log
+*.iml
 
 # BlueJ files
 *.ctxt
@@ -32,6 +33,7 @@ bin/
 tmp/
 build/*
 packages/
+coverage/
 target/
 log/
 site/

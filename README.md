@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Australia beat England by seven wickets in first men’s cricket one-day international – live reaction](https://www.theguardian.com/sport/live/2026/nov/13/australia-vs-england-cricket-odi-perth-live-scores)
-- [Leaders meet in Dublin amid search for lead EU negotiator for peace talks with Russia - Europe live](https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates)
-- [Microsoft outage live: ‘positive results for server stability’ reported, amid global disruption](https://www.theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news)
-- [Sheherazaad: Khudgarzi review | Ammar Kalia&#39;s global album of the month](https://www.theguardian.com/music/2026/nov/13/sheherazaad-khudgarzi-review)
-- [Microsoft ‘seeing positive results’ from attempts to fix global outage affecting Teams and Outlook](https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports)
-- [Heartland review – Jessica Chastain’s Netflix country music thriller is more miss than hit](https://www.theguardian.com/film/2026/nov/13/heartland-review-jessica-chastain-netflix)
-- [Chess: Carlsen comes to town with tantalising tests for London Classic Super Rapid](https://www.theguardian.com/sport/2026/nov/13/chess-carlsen-comes-to-town-with-tantalising-tests-for-london-classic-super-rapid)
-- [Ofsted’s menacing inspections are still disastrous. Schools should answer to the communities they serve | Simon Jenkins](https://www.theguardian.com/commentisfree/2026/nov/13/ofsted-inspections-schools-communities-statistics-teachers-parents)
-- [Sports quiz of the week: records, rancour, rivarly and recriminations](https://www.theguardian.com/sport/2026/nov/13/sports-quiz-week-football-hockey-nfl-rugby-golf-tennis-cricket)
-- [Week in wildlife: Scottish beavers, running giraffes and good news for dormice](https://www.theguardian.com/environment/gallery/2026/nov/13/week-in-wildlife-scottish-beavers-running-giraffes-and-good-news-for-dormice)
+- [Pochettino to Manchester United latest, WSL and Nations League buildup – matchday live](https://www.theguardian.com/football/live/2026/nov/14/pochettino-to-manchester-united-latest-wsl-and-nations-league-buildup-matchday-live)
+- [England ready to play first Test in Zimbabwe since bad-tempered 1996 tour](https://www.theguardian.com/sport/2026/nov/14/england-first-test-zimbabwe-since-1996-cricket-exclusive)
+- [De la Fuente feels the strain as Lamine Yamal club v country debate rages in Spain](https://www.theguardian.com/football/2026/nov/14/lamine-yamal-luis-de-la-fuente-spain-england-club-country)
+- [Tout offers £1m of U2 tickets on StubHub, raising questions about ‘bot’ clampdown](https://www.theguardian.com/money/2026/nov/14/u2-tickets-stubhub-bot-culture-secretary-resale)
+- [Hundreds of children in England prescribed weight-loss jabs, figures show](https://www.theguardian.com/science/2026/nov/14/children-iengland-prescribed-weight-loss-jabs)
+- [Power creates wars; wars create power. But these compelling acts of storytelling are breaking the loop | Charlotte Higgins](https://www.theguardian.com/commentisfree/2026/nov/14/ukraine-gaza-better-stories-war-artists-remembrance)
+- [Yalta became a byword for betrayal. Will Trump, Xi and Putin enact another carve-up?](https://www.theguardian.com/world/2026/nov/14/yalta-trump-xi-putin-china-apec)
+- [The Guide #269: The ident epidemic, and the true cost of movie-making](https://www.theguardian.com/culture/2026/nov/13/the-ident-epidemic-and-the-true-cost-of-movie-making)
+- [Why do whales need to live in the sea when they breathe air? The kids’ quiz](https://www.theguardian.com/lifeandstyle/2026/nov/14/why-do-whales-live-in-the-sea-kids-quiz)
+- [UK-EU breakthrough will allow airport-style checks at Eurotunnel to avoid border ‘chaos’](https://www.theguardian.com/travel/2026/nov/14/eurotunnel-drive-in-fingerprint-trial-folkestone-calais-border)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

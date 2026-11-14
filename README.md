@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Microsoft 365 services slowly come back online after global outage](https://www.computerworld.com/article/4248590/m365-services-slowly-come-back-online-after-global-outage.html)
 - [Microsoft struggles to get M365 services back online after widespread outage](https://www.computerworld.com/article/4248253/microsoft-struggles-to-get-m365-services-back-online-after-widespread-outage-2.html)
+- [Microsoft 365 caught a bug and the whole world sneezed](https://www.computerworld.com/article/4248396/microsoft-365-caught-a-bug-and-the-whole-world-sneezed.html)
+- [For November, Patch Tuesday means a to-do list that starts with Outlook](https://www.computerworld.com/article/4248384/for-november-patch-tuesday-means-a-to-do-list-that-starts-with-outlook.html)
 - [United Airlines becomes the latest enterprise to shut its door to customer bots](https://www.computerworld.com/article/4248152/united-airlines-becomes-the-latest-enterprise-to-shut-its-door-to-customer-bots.html)
 - [AI-related job creation to outpace losses by 2030, says Gartner](https://www.computerworld.com/article/4247895/ai-related-job-creation-to-outpace-losses-by-2030-says-gartner.html)
 - [US tech jobs grow in a ‘low-hire, low-fire’ market](https://www.computerworld.com/article/4247910/us-tech-jobs-grow-in-a-low-hire-low-fire-market.html)
 - [Claris Harbor could turn Mac fleets into on-prem AI servers](https://www.computerworld.com/article/4247680/claris-harbor-could-turn-mac-fleets-into-on-prem-ai-servers.html)
 - [Hackers stole AI credentials to get $740,000 in free compute; Railway picked up the bill](https://www.computerworld.com/article/4247584/hackers-stole-ai-credentials-to-get-740000-in-free-compute-railway-picked-up-the-bill-2.html)
 - [Anthropic targets workplace collaboration with Claude Meetings](https://www.computerworld.com/article/4247466/anthropic-targets-workplace-collaboration-with-claude-meetings.html)
-- [The bad news for Microsoft in the Blue Tsunami](https://www.computerworld.com/article/4246999/bad-news-for-microsoft-in-blue-tsunami.html)
-- [Adobe opens Creative Cloud apps to third-party AI assistants](https://www.computerworld.com/article/4247247/adobe-opens-creative-cloud-apps-to-third-party-ai-assistants.html)
-- [Your new Android speed-typing superpower](https://www.computerworld.com/article/4246461/android-speed-typing.html)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: CTRL – realistic work simulations for engineering interviews](https://ctr-l.studio/app)
-- [Can anybody proof my cryptography algorithm?](https://confidex.me/en/cryptography)
-- [Ask HN: Using Sort as a Notepad](https://news.ycombinator.com/item?id=50480328)
-- [A data center with zero water use, 100% renewable energy and made from wood](https://www.theguardian.com/environment/2026/nov/12/datacentres-unpopular-sweden-ecodatacenter-falun)
-- [Before His Ouster, Jensen Huang Belittled the Executive Replacing Him](https://www.wsj.com/tech/jensen-huang-colette-kress-nvidia-ceo-eb289097)
-- [Local Control for the Logitech Harmony Hub and Its Remotes, Home Assistant](https://old.reddit.com/r/logitechharmony/comments/1xrh9ed/melodious_20_remote_pairing_android_tv_control/)
-- [People Vote for Anti-Immigration Parties Because They Don&#39;t Like Immigration](https://www.popularbydesign.org/p/people-vote-for-anti-immigration)
-- [Could China&#39;s battery-swapping e-trucks be the answer to EV range anxiety?](https://www.theguardian.com/environment/2026/nov/12/china-battery-swapping-e-trucks-catl-ev-range-anxiety)
-- [Where Are the &quot;Killer Apps&quot; of AI?](https://www.oreilly.com/radar/where-are-the-killer-apps-of-ai/)
-- [Show HN: Avatar/pet plugin changes attire based on topic Codex/Claude/DSH](https://github.com/hci-yeo/AdaptiveAgentAvatar)
+- [This Week in Plasma: XWayland on Demand](https://blogs.kde.org/2026/11/14/this-week-in-plasma-xwayland-on-demand/)
+- [Tip](https://vivaldi.com/blog/tips/tip-639/)
+- [Jensen Huang Ouster at Nvidia:Bigger Governance and Coming Financial Train Wreck](https://www.nakedcapitalism.com/2026/11/jensen-huang-ouster-at-nvidia-bigger-governance-and-coming-financial-train-wreck-than-hank-greenberg-exit-from-aig.html)
+- [Who Cares about a Computation?](https://topos.institute/blog/2026-09-22-who-cares-about-a-computation/)
+- [Kitesurf is now open source](https://blog.cloudflare.com/kitesurf-open-source/)
+- [Show HN: Gamma PDF – AI-native PDF reader, self-hosted](https://gammapdf.com/)
+- [Sky sues household dodgy-box users in first case of its kind](https://www.independent.ie/business/sky-sues-household-dodgy-box-users-in-first-case-of-its-kind/a/164508875.html)
+- [Show HN: Language for API calls, load tests and MCP server](https://stampdrill.com/)
+- [Microsoft on FAA Ground Stop: It Wasn&#39;t Me](https://kotaku.com/microsoft-on-faa-ground-stop-it-wasnt-me-2000756749)
+- [Australia&#39;s First Computer Conference](https://www.pearcey.org.au/heritage/computing-history/australias-first-computer-conference/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

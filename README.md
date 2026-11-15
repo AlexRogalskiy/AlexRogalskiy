@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Pochettino to Manchester United latest, WSL and Nations League buildup – matchday live](https://www.theguardian.com/football/live/2026/nov/14/pochettino-to-manchester-united-latest-wsl-and-nations-league-buildup-matchday-live)
-- [England ready to play first Test in Zimbabwe since bad-tempered 1996 tour](https://www.theguardian.com/sport/2026/nov/14/england-first-test-zimbabwe-since-1996-cricket-exclusive)
-- [De la Fuente feels the strain as Lamine Yamal club v country debate rages in Spain](https://www.theguardian.com/football/2026/nov/14/lamine-yamal-luis-de-la-fuente-spain-england-club-country)
-- [Tout offers £1m of U2 tickets on StubHub, raising questions about ‘bot’ clampdown](https://www.theguardian.com/money/2026/nov/14/u2-tickets-stubhub-bot-culture-secretary-resale)
-- [Hundreds of children in England prescribed weight-loss jabs, figures show](https://www.theguardian.com/science/2026/nov/14/children-iengland-prescribed-weight-loss-jabs)
-- [Power creates wars; wars create power. But these compelling acts of storytelling are breaking the loop | Charlotte Higgins](https://www.theguardian.com/commentisfree/2026/nov/14/ukraine-gaza-better-stories-war-artists-remembrance)
-- [Yalta became a byword for betrayal. Will Trump, Xi and Putin enact another carve-up?](https://www.theguardian.com/world/2026/nov/14/yalta-trump-xi-putin-china-apec)
-- [The Guide #269: The ident epidemic, and the true cost of movie-making](https://www.theguardian.com/culture/2026/nov/13/the-ident-epidemic-and-the-true-cost-of-movie-making)
-- [Why do whales need to live in the sea when they breathe air? The kids’ quiz](https://www.theguardian.com/lifeandstyle/2026/nov/14/why-do-whales-live-in-the-sea-kids-quiz)
-- [UK-EU breakthrough will allow airport-style checks at Eurotunnel to avoid border ‘chaos’](https://www.theguardian.com/travel/2026/nov/14/eurotunnel-drive-in-fingerprint-trial-folkestone-calais-border)
+- [Australia v New Zealand: men’s Rugby League World Cup final – live](https://www.theguardian.com/sport/live/2026/nov/15/australia-kangaroos-vs-new-zealand-kiwis-mens-rugby-league-world-cup-final-live-updates)
+- [Spain v England Nations League buildup, WSL and more – matchday live](https://www.theguardian.com/football/live/2026/nov/15/spain-v-england-nations-league-buildup-wsl-and-more-matchday-live)
+- [Australia v England: second men’s cricket one-day international – live](https://www.theguardian.com/sport/live/2026/nov/15/australia-vs-england-cricket-second-odi-mens-one-day-international-adelaide-live-scores-updates)
+- [Terry Butcher: ‘I’ve learned to live with the Hand of God goal better’](https://www.theguardian.com/football/2026/nov/15/terry-butcher-ive-learned-to-live-with-the-hand-of-god-goal-better)
+- [AFC Wimbledon, a failed £87m investment bid and the challenge for fan ownership](https://www.theguardian.com/football/2026/nov/15/afc-wimbledon-a-failed-87m-investment-bid-and-the-challenge-for-fan-ownership)
+- [Alexander Zverev’s troubled start as world No 1 sums up dismal year for men’s tennis | Tumaini Carayol](https://www.theguardian.com/sport/2026/nov/15/alexander-zverev-world-no1-dismal-year-mens-tennis)
+- [Oxford is platforming race baiter Nathan Cofnas. I know how corrosive that will be for Black students | Ebony Riddell Bamber](https://www.theguardian.com/commentisfree/2026/nov/15/oxford-platforming-nathan-cofnas-black-students-frank-ellis)
+- [Looking for an ancient tree worth a detour? There’s an app for that](https://www.theguardian.com/environment/2026/nov/15/ancient-tree-worth-a-detour-digital-app-)
+- [Return of the wild oyster: conservationists bring shellfish back from local extinction off Scottish coast](https://www.theguardian.com/environment/2026/nov/15/return-of-the-wild-oyster-conservationists-bring-shellfish-back-from-local-extinction-off-scottish-coast)
+- [‘I’m scared about my future’: young people on the stress and desperation of jobseeking](https://www.theguardian.com/business/2026/nov/15/young-people-stress-seeking-a-job-mental-physical-health)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

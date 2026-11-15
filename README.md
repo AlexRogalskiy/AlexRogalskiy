@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [This Week in Plasma: XWayland on Demand](https://blogs.kde.org/2026/11/14/this-week-in-plasma-xwayland-on-demand/)
-- [Tip](https://vivaldi.com/blog/tips/tip-639/)
-- [Jensen Huang Ouster at Nvidia:Bigger Governance and Coming Financial Train Wreck](https://www.nakedcapitalism.com/2026/11/jensen-huang-ouster-at-nvidia-bigger-governance-and-coming-financial-train-wreck-than-hank-greenberg-exit-from-aig.html)
-- [Who Cares about a Computation?](https://topos.institute/blog/2026-09-22-who-cares-about-a-computation/)
-- [Kitesurf is now open source](https://blog.cloudflare.com/kitesurf-open-source/)
-- [Show HN: Gamma PDF – AI-native PDF reader, self-hosted](https://gammapdf.com/)
-- [Sky sues household dodgy-box users in first case of its kind](https://www.independent.ie/business/sky-sues-household-dodgy-box-users-in-first-case-of-its-kind/a/164508875.html)
-- [Show HN: Language for API calls, load tests and MCP server](https://stampdrill.com/)
-- [Microsoft on FAA Ground Stop: It Wasn&#39;t Me](https://kotaku.com/microsoft-on-faa-ground-stop-it-wasnt-me-2000756749)
-- [Australia&#39;s First Computer Conference](https://www.pearcey.org.au/heritage/computing-history/australias-first-computer-conference/)
+- [Testing with Agents in Apple platform development [video]](https://vimeo.com/1246961072)
+- [ForumNOX Hacking Forums](https://forumnox.com/)
+- [Medical volume renderer with transparent 3D anatomy](https://github.com/vangelov/volumesh)
+- [How to Setup Gentlemail](https://gentlemail.dev/deploy)
+- [WSJ Fabricated Statements from the Singapore Gov. On Jensen Huang and China Link](https://twitter.com/brianchau57/status/2121465308368265231)
+- [AWS made an official local emulator](https://chaosguru.substack.com/p/aws-finally-made-an-official-local)
+- [Sub-Planck structure in phase space and its relevance for quantum decoherence](https://www.nature.com/articles/35089017)
+- [I was wrong about dark mode](https://dbushell.com/2026/11/09/dark-mode/)
+- [Stock value as a distribution, not a price target](https://value-field.onrender.com)
+- [Automated High-Density Knife-Edge Laser Beam Profiler](https://github.com/turtushig22-blip/thorlabs-esp32-laser-beam-profiler)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

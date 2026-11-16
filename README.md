@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Testing with Agents in Apple platform development [video]](https://vimeo.com/1246961072)
-- [ForumNOX Hacking Forums](https://forumnox.com/)
-- [Medical volume renderer with transparent 3D anatomy](https://github.com/vangelov/volumesh)
-- [How to Setup Gentlemail](https://gentlemail.dev/deploy)
-- [WSJ Fabricated Statements from the Singapore Gov. On Jensen Huang and China Link](https://twitter.com/brianchau57/status/2121465308368265231)
-- [AWS made an official local emulator](https://chaosguru.substack.com/p/aws-finally-made-an-official-local)
-- [Sub-Planck structure in phase space and its relevance for quantum decoherence](https://www.nature.com/articles/35089017)
-- [I was wrong about dark mode](https://dbushell.com/2026/11/09/dark-mode/)
-- [Stock value as a distribution, not a price target](https://value-field.onrender.com)
-- [Automated High-Density Knife-Edge Laser Beam Profiler](https://github.com/turtushig22-blip/thorlabs-esp32-laser-beam-profiler)
+- [My Route to Hosting Videos for Websites, Apps and Subscription Services](https://tomj.pro/all-it-takes-hosting-videos-for-websites-apps-and-subscription-services/)
+- [Bandai Namco Just Landed a Critical Hit on Earnings](https://www.tradingview.com/chart/7832/dAU6ObRo-Bandai-Namco-The-IP-Empire-Is-Leveling-Up/)
+- [Ask HN: Startups are spamming helpdesk chats now?](https://news.ycombinator.com/item?id=50515458)
+- [HN Lists](https://news.ycombinator.com/lists)
+- [ColoTycoon – build your own web hosting empire](https://colotycoon.com)
+- [Elon Musk joins 165,000 others call for Nvidia to bring back Jensen Huang](https://www.theguardian.com/technology/2026/nov/16/elon-musk-tech-execs-open-letter-jensen-huang-return-nvidia-ceo)
+- [25 years of Xbox: How Microsoft&#39;s debut console defied the doubters](https://ravi64.com/25-years-of-xbox/)
+- [Show HN: A Postgres read-replica, but 10-50x faster for analytical queries](https://github.com/embeddable-hq/mason-data)
+- [Show HN: Real-time collaborative KiCad](https://junctioneda.com)
+- [A Philosophical of the Spacetime Fluid Hypothesis and Quantum Weak-Measurement](https://medium.com/@f9121212/a-philosophical-examination-of-the-spacetime-fluid-hypothesis-and-quantum-weak-measurement-12ec9d941cbb)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

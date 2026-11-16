@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Australia v New Zealand: men’s Rugby League World Cup final – live](https://www.theguardian.com/sport/live/2026/nov/15/australia-kangaroos-vs-new-zealand-kiwis-mens-rugby-league-world-cup-final-live-updates)
-- [Spain v England Nations League buildup, WSL and more – matchday live](https://www.theguardian.com/football/live/2026/nov/15/spain-v-england-nations-league-buildup-wsl-and-more-matchday-live)
-- [Australia v England: second men’s cricket one-day international – live](https://www.theguardian.com/sport/live/2026/nov/15/australia-vs-england-cricket-second-odi-mens-one-day-international-adelaide-live-scores-updates)
-- [Terry Butcher: ‘I’ve learned to live with the Hand of God goal better’](https://www.theguardian.com/football/2026/nov/15/terry-butcher-ive-learned-to-live-with-the-hand-of-god-goal-better)
-- [AFC Wimbledon, a failed £87m investment bid and the challenge for fan ownership](https://www.theguardian.com/football/2026/nov/15/afc-wimbledon-a-failed-87m-investment-bid-and-the-challenge-for-fan-ownership)
-- [Alexander Zverev’s troubled start as world No 1 sums up dismal year for men’s tennis | Tumaini Carayol](https://www.theguardian.com/sport/2026/nov/15/alexander-zverev-world-no1-dismal-year-mens-tennis)
-- [Oxford is platforming race baiter Nathan Cofnas. I know how corrosive that will be for Black students | Ebony Riddell Bamber](https://www.theguardian.com/commentisfree/2026/nov/15/oxford-platforming-nathan-cofnas-black-students-frank-ellis)
-- [Looking for an ancient tree worth a detour? There’s an app for that](https://www.theguardian.com/environment/2026/nov/15/ancient-tree-worth-a-detour-digital-app-)
-- [Return of the wild oyster: conservationists bring shellfish back from local extinction off Scottish coast](https://www.theguardian.com/environment/2026/nov/15/return-of-the-wild-oyster-conservationists-bring-shellfish-back-from-local-extinction-off-scottish-coast)
-- [‘I’m scared about my future’: young people on the stress and desperation of jobseeking](https://www.theguardian.com/business/2026/nov/15/young-people-stress-seeking-a-job-mental-physical-health)
+- [Cop31 live: diplomats divided as climate crisis talks enter second week](https://www.theguardian.com/environment/live/2026/nov/16/cop31-climate-crisis-talks-turkey-latest-news-updates)
+- [DWP glitch threatens my partner’s leave to remain](https://www.theguardian.com/money/2026/nov/16/leave-to-remain-housing-allowance-glitch-immigration-status)
+- [Elon Musk joins 165,000 others calling for Nvidia to bring back Jensen Huang in open letter](https://www.theguardian.com/technology/2026/nov/16/elon-musk-tech-execs-open-letter-jensen-huang-return-nvidia-ceo)
+- [Brock Purdy was once dismissed as a system guy. Now he is THE guy](https://www.theguardian.com/sport/2026/nov/16/brock-purdy-san-francisco-49ers-nfl)
+- [Migrants targeted, charity workers menaced for helping them. Are we that kind of society? | Natasha Walter](https://www.theguardian.com/commentisfree/2026/nov/16/charity-workers-migrants-violent-threats)
+- [Wales’ epic upset against All Blacks offers fresh hope for rank outsiders | Robert Kitson](https://www.theguardian.com/sport/2026/nov/16/wales-new-zealand-england-france-south-africa-rugby-union-nations-championship)
+- [European football body’s secret plan to go global leaves Fifa on tenterhooks](https://www.theguardian.com/football/2026/nov/16/fifa-waits-european-football-clubs-plan-global)
+- [‘Strangers gave me £2,409’: the online community helping people in debt](https://www.theguardian.com/money/2026/nov/16/online-community-helping-people-in-debt)
+- [Not All Those Who Wander Are Lost album review – Anna Lapwood](https://www.theguardian.com/music/2026/nov/16/anna-lapwood-not-all-those-who-wander-are-lost-album-review-lord-of-the-rings-organ)
+- [‘I have to sell my bum on OnlyFans to go on tour’: Kate Nash on fame, feminism and fighting the music business](https://www.theguardian.com/music/2026/nov/16/kate-nash-interview-cailin-spotify-bum-onlyfans)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Disk encryption on NetBSD – achieving secrecy](https://netbsd.org/~nia/disk-encrypt/)
-- [Kiri – The Modern Container Runtime](https://runkiri.com/)
-- [Show HN: Gawain – Require type hints on all Python variables](https://github.com/matheuzgomes/gawain)
-- [Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP](https://github.com/Tthanh2k6/turbo-browser-mcp)
-- [My favourite modern NES games](https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/)
-- [We&#39;re Asking an Appeals Court to Require a Warrant for ALPR Searches](https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches)
-- [Court denies motion to dismiss DRAM price fixing case](https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal)
-- [Show HN: A custom font based on the Jamaican flag alphabet](https://bobbiec.github.io/jamaican-font.html)
-- [How did Woz write the Apple 1 BASIC before building the computer?](https://retrocomputing.stackexchange.com/questions/17957)
-- [SpaceX catches the Starship to end Flight 15](https://www.spacex.com/launches/starship-flight-15)
+- [How to make almost anything](https://pub.cba.mit.edu/863.26/site/)
+- [Did the Apollo Guidance Computer use 60% of the ICs in 1963?](https://retrocomputing.stackexchange.com/questions/12158/did-the-apollo-guidance-computer-really-use-60-of-the-worlds-ics-in-1963)
+- [Debian Becomes Unresponsive after 6.1.0-55 Kernel Update](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1154101)
+- [Stop Filming in Log](https://digitalfilms.wordpress.com/2026/11/15/stop-filming-in-log/)
+- [Qwen4-Max](https://qwen.ai/blog?id=qwen4-max)
+- [Universal XSS in uBlock Origin from website-driven element picker](https://iter.ca/post/ubo-uxss/)
+- [Coles hit by a cybersecurity incident](https://www.colesgroup.com.au/updates/)
+- [Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack](https://forum.torproject.org/t/security-release-0-4-9-17/22454)
+- [Skydio&#39;s asymmetrical F10 Lightrunner solves a problem with fixed-wing drones](https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone)
+- [What&#39;s Next for Nvidia?](https://steveblank.com/2026/11/15/whats-next-for-nvidia/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

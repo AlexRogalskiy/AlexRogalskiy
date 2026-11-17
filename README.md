@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [My Route to Hosting Videos for Websites, Apps and Subscription Services](https://tomj.pro/all-it-takes-hosting-videos-for-websites-apps-and-subscription-services/)
-- [Bandai Namco Just Landed a Critical Hit on Earnings](https://www.tradingview.com/chart/7832/dAU6ObRo-Bandai-Namco-The-IP-Empire-Is-Leveling-Up/)
-- [Ask HN: Startups are spamming helpdesk chats now?](https://news.ycombinator.com/item?id=50515458)
-- [HN Lists](https://news.ycombinator.com/lists)
-- [ColoTycoon – build your own web hosting empire](https://colotycoon.com)
-- [Elon Musk joins 165,000 others call for Nvidia to bring back Jensen Huang](https://www.theguardian.com/technology/2026/nov/16/elon-musk-tech-execs-open-letter-jensen-huang-return-nvidia-ceo)
-- [25 years of Xbox: How Microsoft&#39;s debut console defied the doubters](https://ravi64.com/25-years-of-xbox/)
-- [Show HN: A Postgres read-replica, but 10-50x faster for analytical queries](https://github.com/embeddable-hq/mason-data)
-- [Show HN: Real-time collaborative KiCad](https://junctioneda.com)
-- [A Philosophical of the Spacetime Fluid Hypothesis and Quantum Weak-Measurement](https://medium.com/@f9121212/a-philosophical-examination-of-the-spacetime-fluid-hypothesis-and-quantum-weak-measurement-12ec9d941cbb)
+- [Programming a Language](https://nrinaudo.github.io/articles/pl.html)
+- [Did you &quot;make&quot; it? What words to use for AI projects](https://dbohdan.com/verb)
+- [Learning to Code in 2026: The Data](https://www.boot.dev/blog/jobs/job-data-on-learning-to-code-2026)
+- [Top WordPress to Sanity Migration Agencies &lpar;2026 Picks&rpar;](https://gitnation.com/contents/wordpress-to-sanity-migration-7-partners-to-consider)
+- [FrameOS – JSX and Tailwind on an ESP32](https://frameos.net/)
+- [Show HN: Rindraw – drawing and animation app for iPad, iPhone and Mac](https://rindraw.com/)
+- [Show HN: F1 Metrix, who was the Formula 1 GOAT? An homage to f1metrics](https://f1-metrix-front.vercel.app/#/)
+- [Mapping Localities of London and Surrounds](https://greenash.net.au/thoughts/2026/11/mapping-localities-of-london-and-surrounds/)
+- [OVH announces Olala mini 7A1B](https://corporate.ovhcloud.com/en/newsroom/news/ovh-olala-mini/)
+- [The Great Alpha School Debate](https://substack.nomoremarking.com/p/the-great-alpha-debate)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

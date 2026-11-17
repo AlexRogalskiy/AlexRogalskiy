@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [How to make almost anything](https://pub.cba.mit.edu/863.26/site/)
-- [Did the Apollo Guidance Computer use 60% of the ICs in 1963?](https://retrocomputing.stackexchange.com/questions/12158/did-the-apollo-guidance-computer-really-use-60-of-the-worlds-ics-in-1963)
-- [Debian Becomes Unresponsive after 6.1.0-55 Kernel Update](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1154101)
-- [Stop Filming in Log](https://digitalfilms.wordpress.com/2026/11/15/stop-filming-in-log/)
-- [Qwen4-Max](https://qwen.ai/blog?id=qwen4-max)
-- [Universal XSS in uBlock Origin from website-driven element picker](https://iter.ca/post/ubo-uxss/)
-- [Coles hit by a cybersecurity incident](https://www.colesgroup.com.au/updates/)
-- [Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack](https://forum.torproject.org/t/security-release-0-4-9-17/22454)
-- [Skydio&#39;s asymmetrical F10 Lightrunner solves a problem with fixed-wing drones](https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone)
-- [What&#39;s Next for Nvidia?](https://steveblank.com/2026/11/15/whats-next-for-nvidia/)
+- [Run your FreeBSD services from one console](https://jailops.net/)
+- [If an App Asks for Full Disk Access or System and App Protection Override](https://support.apple.com/en-us/149699)
+- [Mem Is Shutting Down](https://get.mem.ai/blog/mem-is-shutting-down)
+- [Why 3dfx 1 cards had such a washed out color output?](https://twitter.com/id_aa_carmack/status/2122478083319992513)
+- [Optimizely compromised, served malware on Zoom, GitLab](https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/)
+- [Windows 11 is collecting data on which coding agents and developer tools you use](https://xusheng.dev/posts/windows-coding-agent-telemetry/)
+- [How to Break into Security, Ptacek Edition &lpar;2012&rpar;](https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/)
+- [Spamhaus new email sender requirements in November](https://www.spamhaus.org/sender-guidelines/)
+- [BugMeNot has closed](https://www.bugmenot.com/)
+- [OpenCode Browse](https://opencode.ai/product/browse)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

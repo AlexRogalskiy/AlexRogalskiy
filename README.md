@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Cop31 live: diplomats divided as climate crisis talks enter second week](https://www.theguardian.com/environment/live/2026/nov/16/cop31-climate-crisis-talks-turkey-latest-news-updates)
-- [DWP glitch threatens my partner’s leave to remain](https://www.theguardian.com/money/2026/nov/16/leave-to-remain-housing-allowance-glitch-immigration-status)
-- [Elon Musk joins 165,000 others calling for Nvidia to bring back Jensen Huang in open letter](https://www.theguardian.com/technology/2026/nov/16/elon-musk-tech-execs-open-letter-jensen-huang-return-nvidia-ceo)
-- [Brock Purdy was once dismissed as a system guy. Now he is THE guy](https://www.theguardian.com/sport/2026/nov/16/brock-purdy-san-francisco-49ers-nfl)
-- [Migrants targeted, charity workers menaced for helping them. Are we that kind of society? | Natasha Walter](https://www.theguardian.com/commentisfree/2026/nov/16/charity-workers-migrants-violent-threats)
-- [Wales’ epic upset against All Blacks offers fresh hope for rank outsiders | Robert Kitson](https://www.theguardian.com/sport/2026/nov/16/wales-new-zealand-england-france-south-africa-rugby-union-nations-championship)
-- [European football body’s secret plan to go global leaves Fifa on tenterhooks](https://www.theguardian.com/football/2026/nov/16/fifa-waits-european-football-clubs-plan-global)
-- [‘Strangers gave me £2,409’: the online community helping people in debt](https://www.theguardian.com/money/2026/nov/16/online-community-helping-people-in-debt)
-- [Not All Those Who Wander Are Lost album review – Anna Lapwood](https://www.theguardian.com/music/2026/nov/16/anna-lapwood-not-all-those-who-wander-are-lost-album-review-lord-of-the-rings-organ)
-- [‘I have to sell my bum on OnlyFans to go on tour’: Kate Nash on fame, feminism and fighting the music business](https://www.theguardian.com/music/2026/nov/16/kate-nash-interview-cailin-spotify-bum-onlyfans)
+- [Apec and Asean summits live: protests await Trump in Manila, as Xi greets leaders in Shenzhen](https://www.theguardian.com/world/live/2026/nov/17/asean-apec-summit-2026-live-updates-trump-xi-putin-meeting-schedule-latest-news)
+- [Expert behind major NHS children’s gender review says she cannot back conversion practices ban](https://www.theguardian.com/politics/2026/nov/17/expert-nhs-gender-review-cannot-back-conversion-practices-ban)
+- [Cop31 live: first draft of agreement under pressure as climate negotiations enter final days](https://www.theguardian.com/environment/live/2026/nov/17/cop31-live-first-draft-of-agreement-under-pressure-as-negotiations-enter-final-days)
+- [China vows to take ‘necessary measures’ against US AI chip restrictions, as investors brace for Nvidia’s results – business live](https://www.theguardian.com/business/live/2026/nov/17/uk-jobs-market-wage-growth-payrolls-unemployment-milburn-china-us-chips-latest-news-updates)
+- [Declan Rice agrees new Arsenal contract making him club’s joint highest-paid player](https://www.theguardian.com/football/2026/nov/17/declan-rice-new-arsenal-contract-jurrien-timber)
+- [Tobacco group Imperial Brands to axe up to 4,600 jobs as it uses more AI](https://www.theguardian.com/business/2026/nov/17/uk-tobacco-imperial-brands-cut-jobs-cigarettes-ai)
+- [Actors in UK to get more rights over their ‘digital replicas’ in deal on AI protections](https://www.theguardian.com/technology/2026/nov/17/actors-uk-rights-digital-replicas-ai-protections)
+- [Belonging by Sonia Gandhi review – India’s elder stateswoman breaks her silence](https://www.theguardian.com/books/2026/nov/17/belonging-by-sonia-gandhi-review-indias-elder-stateswoman-breaks-her-silence)
+- [‘He wants to change lives’: the story behind Bukayo Saka’s Sócrates award](https://www.theguardian.com/football/2026/nov/17/he-wants-to-change-lives-the-story-behind-bukayo-sakas-socrates-award)
+- [Drought, early harvests and wet winters: can an experimental orchard save the UK’s cider industry?](https://www.theguardian.com/environment/2026/nov/17/farming-apple-growers-climate-breakdown-thatchers-cider-wildflowers-soil-water-insects-aoe)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Optimizely confirms massive cyberattack on customer websites injected stealer malware](https://www.computerworld.com/article/4249960/optimizely-confirms-massive-cyberattack-on-customer-websites-injected-stealer-malware-2.html)
+- [What Anthropic’s IPO means for IT buyers](https://www.computerworld.com/article/4249731/what-anthropics-ipo-means-for-it-buyers.html)
+- [California sues OpenAI, alleges 80-plus agent escapes hidden from public](https://www.computerworld.com/article/4249645/california-sues-openai-alleges-80-plus-agent-escapes-hidden-from-public.html)
+- [Hackers exploit Microsoft 365 outage to launch credential phishing campaign](https://www.computerworld.com/article/4249607/hackers-exploit-microsoft-365-outage-to-launch-credential-phishing-campaign.html)
 - [Microsoft outage: A cascading failure that started with an undetected bug](https://www.computerworld.com/article/4249364/microsoft-outage-a-cascading-failure-that-started-with-an-undetected-bug.html)
 - [Alibaba touts 62% lower task costs with Qwen4-Max, adds cyber safeguards](https://www.computerworld.com/article/4249020/alibaba-touts-62-lower-task-costs-with-qwen4-max-adds-cyber-safeguards-3.html)
 - [What can you safely tell AI at work?](https://www.computerworld.com/article/4244131/what-can-you-safely-tell-ai-at-work.html)
 - [Everything you always wanted to know about Secure Exclaves but were afraid to ask](https://www.computerworld.com/article/4249124/everything-you-always-wanted-to-know-about-secure-exclaves-but-were-afraid-to-ask.html)
 - [Enterprises to pay up to 20% more for Microsoft cloud services in some countries](https://www.computerworld.com/article/4248407/enterprises-to-pay-up-to-20-more-for-microsoft-cloud-services-in-some-countries.html)
 - [Microsoft 365 services slowly come back online after global outage](https://www.computerworld.com/article/4248590/m365-services-slowly-come-back-online-after-global-outage.html)
-- [Microsoft struggles to get M365 services back online after widespread outage](https://www.computerworld.com/article/4248253/microsoft-struggles-to-get-m365-services-back-online-after-widespread-outage-2.html)
-- [Microsoft 365 caught a bug and the whole world sneezed](https://www.computerworld.com/article/4248396/microsoft-365-caught-a-bug-and-the-whole-world-sneezed.html)
-- [For November, Patch Tuesday means a to-do list that starts with Outlook](https://www.computerworld.com/article/4248384/for-november-patch-tuesday-means-a-to-do-list-that-starts-with-outlook.html)
-- [United Airlines becomes the latest enterprise to shut its door to customer bots](https://www.computerworld.com/article/4248152/united-airlines-becomes-the-latest-enterprise-to-shut-its-door-to-customer-bots.html)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

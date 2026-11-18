@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Run your FreeBSD services from one console](https://jailops.net/)
-- [If an App Asks for Full Disk Access or System and App Protection Override](https://support.apple.com/en-us/149699)
-- [Mem Is Shutting Down](https://get.mem.ai/blog/mem-is-shutting-down)
-- [Why 3dfx 1 cards had such a washed out color output?](https://twitter.com/id_aa_carmack/status/2122478083319992513)
-- [Optimizely compromised, served malware on Zoom, GitLab](https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/)
-- [Windows 11 is collecting data on which coding agents and developer tools you use](https://xusheng.dev/posts/windows-coding-agent-telemetry/)
-- [How to Break into Security, Ptacek Edition &lpar;2012&rpar;](https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/)
-- [Spamhaus new email sender requirements in November](https://www.spamhaus.org/sender-guidelines/)
-- [BugMeNot has closed](https://www.bugmenot.com/)
-- [OpenCode Browse](https://opencode.ai/product/browse)
+- [Talos Linux](https://www.siderolabs.com/talos-linux)
+- [Australia&#39;s full national topographic library at your fingertips](https://www.ga.gov.au/news/australias-full-national-topographic-library-at-your-fingertips)
+- [AI is killing All About Berlin](https://nicolasbouliane.com/blog/death-by-ai)
+- [Why Fibonacci?](https://www.evilgeniuslabs.org/why-fibonacci)
+- [Interviewed at a YC startup, found out they used my LinkedIn without permission](https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/)
+- [Why is Gemini 4 Carbon taking so long?](https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/)
+- [Claude was trained on protein sequences at scale](http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/)
+- [GoGoGrandparent &lpar;YC S16&rpar; Is a Front End JavaScript / TypeScript Engineer](https://www.ycombinator.com/companies/gogograndparent/jobs/05woouL-front-end-javascript-typescript-engineer)
+- [Cerebras Disaggregated Inference](https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference)
+- [ID.me terms required for IRS sign-in](https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

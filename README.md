@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Apec and Asean summits live: protests await Trump in Manila, as Xi greets leaders in Shenzhen](https://www.theguardian.com/world/live/2026/nov/17/asean-apec-summit-2026-live-updates-trump-xi-putin-meeting-schedule-latest-news)
-- [Expert behind major NHS children’s gender review says she cannot back conversion practices ban](https://www.theguardian.com/politics/2026/nov/17/expert-nhs-gender-review-cannot-back-conversion-practices-ban)
-- [Cop31 live: first draft of agreement under pressure as climate negotiations enter final days](https://www.theguardian.com/environment/live/2026/nov/17/cop31-live-first-draft-of-agreement-under-pressure-as-negotiations-enter-final-days)
-- [China vows to take ‘necessary measures’ against US AI chip restrictions, as investors brace for Nvidia’s results – business live](https://www.theguardian.com/business/live/2026/nov/17/uk-jobs-market-wage-growth-payrolls-unemployment-milburn-china-us-chips-latest-news-updates)
-- [Declan Rice agrees new Arsenal contract making him club’s joint highest-paid player](https://www.theguardian.com/football/2026/nov/17/declan-rice-new-arsenal-contract-jurrien-timber)
-- [Tobacco group Imperial Brands to axe up to 4,600 jobs as it uses more AI](https://www.theguardian.com/business/2026/nov/17/uk-tobacco-imperial-brands-cut-jobs-cigarettes-ai)
-- [Actors in UK to get more rights over their ‘digital replicas’ in deal on AI protections](https://www.theguardian.com/technology/2026/nov/17/actors-uk-rights-digital-replicas-ai-protections)
-- [Belonging by Sonia Gandhi review – India’s elder stateswoman breaks her silence](https://www.theguardian.com/books/2026/nov/17/belonging-by-sonia-gandhi-review-indias-elder-stateswoman-breaks-her-silence)
-- [‘He wants to change lives’: the story behind Bukayo Saka’s Sócrates award](https://www.theguardian.com/football/2026/nov/17/he-wants-to-change-lives-the-story-behind-bukayo-sakas-socrates-award)
-- [Drought, early harvests and wet winters: can an experimental orchard save the UK’s cider industry?](https://www.theguardian.com/environment/2026/nov/17/farming-apple-growers-climate-breakdown-thatchers-cider-wildflowers-soil-water-insects-aoe)
+- [Shabana Mahmood pledges to tackle ‘corrosive and growing perception of two-tier policing’ – UK politics live](https://www.theguardian.com/politics/live/2026/nov/18/shabana-mahmood-andy-burnham-kemi-badenoch-pmqs-latest-news-updates)
+- [Australia v England – third and deciding men’s one-day cricket international – live](https://www.theguardian.com/sport/live/2026/nov/18/australia-vs-england-cricket-third-odi-mens-one-day-international-hobart-aus-v-eng-live-scores-updates)
+- [Valerie Solanas’s obscenely funny Scum Manifesto is an unignorable burst of female outrage | Emily Woof](https://www.theguardian.com/stage/2026/nov/18/valerie-solanas-scum-manifesto-andy-warhol-emily-woof)
+- [Cop31 live: clock running down on climate talks as deep divisions remain](https://www.theguardian.com/environment/live/2026/nov/18/cop31-climate-crisis-talks-turkey-latest-news-updates)
+- [Apec summit live: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’ in speech](https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china)
+- [Germany hits out after US criticises Ukraine’s deep strikes into Russia – Europe live](https://www.theguardian.com/world/live/2026/nov/18/europe-ukraine-russia-eu-germany-serbia-latest-news-updates)
+- [‘It was the whole team’: Cameron Bancroft blows lid off Australia’s sandpaper scandal](https://www.theguardian.com/sport/2026/nov/18/cameron-bancroft-sandpapergate-ball-tampering-australia-cricket-ntwnfb)
+- [Gjak by Dimosthenis Papamarkos review – sensational tales of wartime Greek struggle](https://www.theguardian.com/books/2026/nov/18/gjak-by-dimosthenis-papamarkos-review-sensational-tales-of-wartime-greek-struggle)
+- [David Lammy urges Andy Burnham to fight next election on rejoining EU](https://www.theguardian.com/politics/2026/nov/18/david-lammy-andy-burnham-campaign-rejoining-eu-election-brexit)
+- [Energy bills in Great Britain forecast to rise by 26% to £2,166 from January](https://www.theguardian.com/money/2026/nov/18/energy-bills-great-britain-forecast-rise)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

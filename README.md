@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Programming a Language](https://nrinaudo.github.io/articles/pl.html)
-- [Did you &quot;make&quot; it? What words to use for AI projects](https://dbohdan.com/verb)
-- [Learning to Code in 2026: The Data](https://www.boot.dev/blog/jobs/job-data-on-learning-to-code-2026)
-- [Top WordPress to Sanity Migration Agencies &lpar;2026 Picks&rpar;](https://gitnation.com/contents/wordpress-to-sanity-migration-7-partners-to-consider)
-- [FrameOS – JSX and Tailwind on an ESP32](https://frameos.net/)
-- [Show HN: Rindraw – drawing and animation app for iPad, iPhone and Mac](https://rindraw.com/)
-- [Show HN: F1 Metrix, who was the Formula 1 GOAT? An homage to f1metrics](https://f1-metrix-front.vercel.app/#/)
-- [Mapping Localities of London and Surrounds](https://greenash.net.au/thoughts/2026/11/mapping-localities-of-london-and-surrounds/)
-- [OVH announces Olala mini 7A1B](https://corporate.ovhcloud.com/en/newsroom/news/ovh-olala-mini/)
-- [The Great Alpha School Debate](https://substack.nomoremarking.com/p/the-great-alpha-debate)
+- [What&#39;s Left of Europe&#39;s Technological Sovereignty](https://www.youtube.com/watch?v=gojoOXWRg28)
+- [Show HN: Agent World – workflows and playbooks for multi-provider coding agents](https://github.com/hodkep/agent-world/)
+- [Photographer Sets World Record with Tiny Film Camera &lpar;Size of 2.48x2.41x2.48cm&rpar;](https://petapixel.com/2026/11/17/photographer-sets-world-record-with-tiny-film-camera/)
+- [Energy-Based Reasoners: 385x more efficient inference](https://energy-based-reasoners.github.io/)
+- [Men are more politically open-minded than women](https://www.schoolinfosystem.org/2026/10/28/male-students-show-more-tolerance-for-political-enemies-than-females-show-for-their-own-allies-2/)
+- [BigQuery Query Optimization: Myths vs. What Saves Money](https://www.alvin.ai/blog/bigquery-query-optimization)
+- [AI researcher at Anthropic hosts &quot;consensual non-consent&quot; orgies](https://twitter.com/aaronsibarium/status/2122361245357478085)
+- [Claude Gets Hella Paranoid](https://news.ycombinator.com/item?id=50543947)
+- [Windows Server 2028 will be secure by default, which could break some workflows](https://www.neowin.net/news/windows-server-2028-will-be-secure-by-default-which-could-break-some-workflows)
+- [Microsoft&#39;s Giant Outlook Outage](https://www.theverge.com/tech/1035364/microsoft-outlook-outage-notepad)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

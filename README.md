@@ -355,6 +355,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Microsoft brings AI inference closer to enterprise data with Windows Server 2028](https://www.computerworld.com/article/4250505/microsoft-brings-ai-inference-closer-to-enterprise-data-with-windows-server-2028-2.html)
+- [Security, security, security: What a week of outages means to IT &lpar;and you&rpar;](https://www.computerworld.com/article/4250250/security-security-security-what-a-week-of-outages-means-to-it-and-you.html)
+- [A refreshingly practical hidden Gemini treasure](https://www.computerworld.com/article/4249260/gemini-treasure.html)
 - [Optimizely confirms massive cyberattack on customer websites injected stealer malware](https://www.computerworld.com/article/4249960/optimizely-confirms-massive-cyberattack-on-customer-websites-injected-stealer-malware-2.html)
 - [What Anthropic’s IPO means for IT buyers](https://www.computerworld.com/article/4249731/what-anthropics-ipo-means-for-it-buyers.html)
 - [California sues OpenAI, alleges 80-plus agent escapes hidden from public](https://www.computerworld.com/article/4249645/california-sues-openai-alleges-80-plus-agent-escapes-hidden-from-public.html)
@@ -362,9 +365,6 @@
 - [Microsoft outage: A cascading failure that started with an undetected bug](https://www.computerworld.com/article/4249364/microsoft-outage-a-cascading-failure-that-started-with-an-undetected-bug.html)
 - [Alibaba touts 62% lower task costs with Qwen4-Max, adds cyber safeguards](https://www.computerworld.com/article/4249020/alibaba-touts-62-lower-task-costs-with-qwen4-max-adds-cyber-safeguards-3.html)
 - [What can you safely tell AI at work?](https://www.computerworld.com/article/4244131/what-can-you-safely-tell-ai-at-work.html)
-- [Everything you always wanted to know about Secure Exclaves but were afraid to ask](https://www.computerworld.com/article/4249124/everything-you-always-wanted-to-know-about-secure-exclaves-but-were-afraid-to-ask.html)
-- [Enterprises to pay up to 20% more for Microsoft cloud services in some countries](https://www.computerworld.com/article/4248407/enterprises-to-pay-up-to-20-more-for-microsoft-cloud-services-in-some-countries.html)
-- [Microsoft 365 services slowly come back online after global outage](https://www.computerworld.com/article/4248590/m365-services-slowly-come-back-online-after-global-outage.html)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

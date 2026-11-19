@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Shabana Mahmood pledges to tackle ‘corrosive and growing perception of two-tier policing’ – UK politics live](https://www.theguardian.com/politics/live/2026/nov/18/shabana-mahmood-andy-burnham-kemi-badenoch-pmqs-latest-news-updates)
-- [Australia v England – third and deciding men’s one-day cricket international – live](https://www.theguardian.com/sport/live/2026/nov/18/australia-vs-england-cricket-third-odi-mens-one-day-international-hobart-aus-v-eng-live-scores-updates)
-- [Valerie Solanas’s obscenely funny Scum Manifesto is an unignorable burst of female outrage | Emily Woof](https://www.theguardian.com/stage/2026/nov/18/valerie-solanas-scum-manifesto-andy-warhol-emily-woof)
-- [Cop31 live: clock running down on climate talks as deep divisions remain](https://www.theguardian.com/environment/live/2026/nov/18/cop31-climate-crisis-talks-turkey-latest-news-updates)
-- [Apec summit live: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’ in speech](https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china)
-- [Germany hits out after US criticises Ukraine’s deep strikes into Russia – Europe live](https://www.theguardian.com/world/live/2026/nov/18/europe-ukraine-russia-eu-germany-serbia-latest-news-updates)
-- [‘It was the whole team’: Cameron Bancroft blows lid off Australia’s sandpaper scandal](https://www.theguardian.com/sport/2026/nov/18/cameron-bancroft-sandpapergate-ball-tampering-australia-cricket-ntwnfb)
-- [Gjak by Dimosthenis Papamarkos review – sensational tales of wartime Greek struggle](https://www.theguardian.com/books/2026/nov/18/gjak-by-dimosthenis-papamarkos-review-sensational-tales-of-wartime-greek-struggle)
-- [David Lammy urges Andy Burnham to fight next election on rejoining EU](https://www.theguardian.com/politics/2026/nov/18/david-lammy-andy-burnham-campaign-rejoining-eu-election-brexit)
-- [Energy bills in Great Britain forecast to rise by 26% to £2,166 from January](https://www.theguardian.com/money/2026/nov/18/energy-bills-great-britain-forecast-rise)
+- [Cop31 live: ‘Lean in and move faster,’ climate summit told as deal remains elusive](https://www.theguardian.com/environment/live/2026/nov/19/cop31-climate-turkey-live-news-updates-)
+- [The unthinkable has come to pass: Tom Brady is a pretty good broadcaster](https://www.theguardian.com/sport/2026/nov/19/tom-brady-fox-broadcasts-nfl-booth)
+- [Anthropic to float on the stock market today as it raises $81bn in record IPO – business live](https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates)
+- [Badenoch says using amputee athletes to justify cutting disability benefits was ‘message of hope’ – UK politics live](https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates)
+- [BAE to slash 1,000 jobs across head office and air business to streamline orders](https://www.theguardian.com/business/2026/nov/19/bae-to-slash-1000-jobs-across-head-office-and-air-business-to-streamline-orders)
+- [Apec summit live: Trump says meeting with Xi and Putin ‘making history’ as trilateral talks begin](https://www.theguardian.com/world/live/2026/nov/19/apec-summit-trump-xi-putin-meeting-shenzhen-china)
+- [Is Donald Trump beyond caricature? Not at all – here’s his hilarious origin story](https://www.theguardian.com/stage/2026/nov/19/donald-review-trump-ustinov-studio-bath)
+- [When tech workers have to quit their jobs to raise the alarm, it’s time to worry | Isabelle Ferreras](https://www.theguardian.com/commentisfree/2026/nov/19/tech-workers-quit-jobs-raise-alarm-worry-ai-humanity-autocracies)
+- [World marathon champion Peres Jepchirchir banned for three years over doping](https://www.theguardian.com/sport/2026/nov/19/peres-jepchirchir-world-marathon-champion-banned-three-years-doping)
+- [You have to laugh at LIV’s collapse but the saga reveals money is golf’s core value | Jonathan Liew](https://www.theguardian.com/sport/2026/nov/19/liv-golf-tour-collapse-saudi-arabia-analysis)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

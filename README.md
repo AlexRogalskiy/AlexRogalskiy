@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [What&#39;s Left of Europe&#39;s Technological Sovereignty](https://www.youtube.com/watch?v=gojoOXWRg28)
-- [Show HN: Agent World – workflows and playbooks for multi-provider coding agents](https://github.com/hodkep/agent-world/)
-- [Photographer Sets World Record with Tiny Film Camera &lpar;Size of 2.48x2.41x2.48cm&rpar;](https://petapixel.com/2026/11/17/photographer-sets-world-record-with-tiny-film-camera/)
-- [Energy-Based Reasoners: 385x more efficient inference](https://energy-based-reasoners.github.io/)
-- [Men are more politically open-minded than women](https://www.schoolinfosystem.org/2026/10/28/male-students-show-more-tolerance-for-political-enemies-than-females-show-for-their-own-allies-2/)
-- [BigQuery Query Optimization: Myths vs. What Saves Money](https://www.alvin.ai/blog/bigquery-query-optimization)
-- [AI researcher at Anthropic hosts &quot;consensual non-consent&quot; orgies](https://twitter.com/aaronsibarium/status/2122361245357478085)
-- [Claude Gets Hella Paranoid](https://news.ycombinator.com/item?id=50543947)
-- [Windows Server 2028 will be secure by default, which could break some workflows](https://www.neowin.net/news/windows-server-2028-will-be-secure-by-default-which-could-break-some-workflows)
-- [Microsoft&#39;s Giant Outlook Outage](https://www.theverge.com/tech/1035364/microsoft-outlook-outage-notepad)
+- [My CTF Setup: BlackArch in Docker](https://coding-overhead.com/posts/blackarch-docker/)
+- [Game theory&#39;s cure for corruption &lpar;2015&rpar;](https://aeon.co/essays/game-theory-s-cure-for-corruption-make-us-all-cops)
+- [EUVD-2024-5409 Synology and Beestation – Improper Encoding or Escaping of Output](https://euvd.enisa.europa.eu/vulnerability/EUVD-2024-54098)
+- [The New Mind Control – The internet has spawned subtle forms of influence &lpar;2016&rpar;](https://aeon.co/essays/how-the-internet-flips-elections-and-alters-our-thoughts)
+- [DeepMind Employees Are Unionising](https://www.gdmunion.co.uk)
+- [Where do we go from here?](https://nicolasbouliane.com/blog/life-after-ai)
+- [How to Create a Virtual Background Using the Red5 WebRTC SDK](https://www.red5.net/blog/virtual-backgrounds-using-the-red5-webrtc-sdk/)
+- [What&#39;s New in PHP 8.6](https://www.php.net/releases/8.6/en.php)
+- [The gas pipeline where Ukraine is fighting an underground war with Russia](https://www.bbc.com/news/videos/c8p3vw4q6nzzo)
+- [Placky Explains Slide Rules &lpar;2021&rpar;](https://randomlyunique.com/plancky/2021/slide-rules/index.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

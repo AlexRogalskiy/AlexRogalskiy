@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Talos Linux](https://www.siderolabs.com/talos-linux)
-- [Australia&#39;s full national topographic library at your fingertips](https://www.ga.gov.au/news/australias-full-national-topographic-library-at-your-fingertips)
-- [AI is killing All About Berlin](https://nicolasbouliane.com/blog/death-by-ai)
-- [Why Fibonacci?](https://www.evilgeniuslabs.org/why-fibonacci)
-- [Interviewed at a YC startup, found out they used my LinkedIn without permission](https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/)
-- [Why is Gemini 4 Carbon taking so long?](https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/)
-- [Claude was trained on protein sequences at scale](http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/)
-- [GoGoGrandparent &lpar;YC S16&rpar; Is a Front End JavaScript / TypeScript Engineer](https://www.ycombinator.com/companies/gogograndparent/jobs/05woouL-front-end-javascript-typescript-engineer)
-- [Cerebras Disaggregated Inference](https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference)
-- [ID.me terms required for IRS sign-in](https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in)
+- [What&#39;s New in PHP 8.6](https://www.php.net/releases/8.6/en.php)
+- [SSD prices will start going down the second half of next year](https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html)
+- [Distributed, high-performance blob storage on SQLite](https://zerodha.tech/blog/high-performance-distributed-blob-storage/)
+- [15M web servers on one VM – smoltcp, DPDK, AF_XDP](https://kapteko.com/15-million-webservers/)
+- [Ruby2ßhell: Pre-authentication RCE on stock Rails](https://verialabs.com/ruby2shell/)
+- [Unreal Tournament 2004 in the Browser](https://ut2004.dev/)
+- [We need smart people who give a shit](https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/)
+- [Multiple vulnerabilities in Regexp and String case conversion](https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/)
+- [Palo Alto Networks to Acquire Applied Compute for $4.5B](https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquire-applied-compute-bringing-secure-open)
+- [Anthropic prices initial public offering](https://www.anthropic.com/news/anthropic-prices-initial-public-offering)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

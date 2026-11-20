@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Cop31 live: ‘Lean in and move faster,’ climate summit told as deal remains elusive](https://www.theguardian.com/environment/live/2026/nov/19/cop31-climate-turkey-live-news-updates-)
-- [The unthinkable has come to pass: Tom Brady is a pretty good broadcaster](https://www.theguardian.com/sport/2026/nov/19/tom-brady-fox-broadcasts-nfl-booth)
-- [Anthropic to float on the stock market today as it raises $81bn in record IPO – business live](https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates)
-- [Badenoch says using amputee athletes to justify cutting disability benefits was ‘message of hope’ – UK politics live](https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates)
-- [BAE to slash 1,000 jobs across head office and air business to streamline orders](https://www.theguardian.com/business/2026/nov/19/bae-to-slash-1000-jobs-across-head-office-and-air-business-to-streamline-orders)
-- [Apec summit live: Trump says meeting with Xi and Putin ‘making history’ as trilateral talks begin](https://www.theguardian.com/world/live/2026/nov/19/apec-summit-trump-xi-putin-meeting-shenzhen-china)
-- [Is Donald Trump beyond caricature? Not at all – here’s his hilarious origin story](https://www.theguardian.com/stage/2026/nov/19/donald-review-trump-ustinov-studio-bath)
-- [When tech workers have to quit their jobs to raise the alarm, it’s time to worry | Isabelle Ferreras](https://www.theguardian.com/commentisfree/2026/nov/19/tech-workers-quit-jobs-raise-alarm-worry-ai-humanity-autocracies)
-- [World marathon champion Peres Jepchirchir banned for three years over doping](https://www.theguardian.com/sport/2026/nov/19/peres-jepchirchir-world-marathon-champion-banned-three-years-doping)
-- [You have to laugh at LIV’s collapse but the saga reveals money is golf’s core value | Jonathan Liew](https://www.theguardian.com/sport/2026/nov/19/liv-golf-tour-collapse-saudi-arabia-analysis)
+- [Andy Burnham in Brussels as UK and EU close in on Brexit reset deal – live](https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates)
+- [Asian stocks headed for worst week since 2020 as Anthropic IPO fails to end AI rout – business live](https://www.theguardian.com/business/live/2026/nov/20/asia-stocks-worst-anthropic-ipo-ai-stock-market-latest-updates-news)
+- [Premier League returns, Pochettino readies for United test and more – football live](https://www.theguardian.com/football/live/2026/nov/20/weekend-football-countdown-live-news-updates)
+- [Cop31 live: crunch time as deeply divided climate talks enter final day](https://www.theguardian.com/world/live/2026/nov/20/cop31-climate-crisis-talks-turkey-latest-news-updates)
+- [British Library to outsource security and ‘repurpose’ reading rooms as business spaces](https://www.theguardian.com/books/2026/nov/20/british-library-outsource-security-reading-rooms-business-spaces)
+- [The Slightest Touch to California Schemin’: the seven best films to watch on TV this week](https://www.theguardian.com/tv-and-radio/2026/nov/20/the-seven-best-films-to-watch-on-tv-this-week)
+- [The month’s best experimental album: Stella Z’s ambient adventures into lucid dreaming](https://www.theguardian.com/music/2026/nov/20/stella-z-thunder-is-the-sky-dreaming-review-cdr)
+- [Take That: Dreamers review – 50-something boyband fail to relight the fire on nostalgia-drenched return](https://www.theguardian.com/music/2026/nov/20/take-that-dreamers-review-nostalgia)
+- [Household rush to stockpile emergency supplies sends British retail sales soaring](https://www.theguardian.com/world/2026/nov/20/rush-stockpile-emergency-supplies-sends-british-retail-sales-soaring)
+- [Joanne Young praised for bravery in exposing rape by husband and strangers](https://www.theguardian.com/society/2026/nov/20/joanne-young-drugged-raped-by-husband-praised-bravery-anonymity)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

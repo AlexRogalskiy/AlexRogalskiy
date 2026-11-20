@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Microsoft positions Copilot as a hub for team collaboration](https://www.computerworld.com/article/4250734/microsoft-positions-copilot-as-a-hub-for-team-collaboration.html)
+- [At Apple, the robots are coming](https://www.computerworld.com/article/4250765/at-apple-the-robots-are-coming.html)
 - [Microsoft brings AI inference closer to enterprise data with Windows Server 2028](https://www.computerworld.com/article/4250505/microsoft-brings-ai-inference-closer-to-enterprise-data-with-windows-server-2028-2.html)
+- [AI asked better questions than auditors in a large-scale KPMG test](https://www.computerworld.com/article/4251042/ai-asked-better-questions-than-auditors-in-large-scale-kpmg-test.html)
 - [Security, security, security: What a week of outages means to IT &lpar;and you&rpar;](https://www.computerworld.com/article/4250250/security-security-security-what-a-week-of-outages-means-to-it-and-you.html)
 - [A refreshingly practical hidden Gemini treasure](https://www.computerworld.com/article/4249260/gemini-treasure.html)
 - [Optimizely confirms massive cyberattack on customer websites injected stealer malware](https://www.computerworld.com/article/4249960/optimizely-confirms-massive-cyberattack-on-customer-websites-injected-stealer-malware-2.html)
 - [What Anthropic’s IPO means for IT buyers](https://www.computerworld.com/article/4249731/what-anthropics-ipo-means-for-it-buyers.html)
 - [California sues OpenAI, alleges 80-plus agent escapes hidden from public](https://www.computerworld.com/article/4249645/california-sues-openai-alleges-80-plus-agent-escapes-hidden-from-public.html)
 - [Hackers exploit Microsoft 365 outage to launch credential phishing campaign](https://www.computerworld.com/article/4249607/hackers-exploit-microsoft-365-outage-to-launch-credential-phishing-campaign.html)
-- [Microsoft outage: A cascading failure that started with an undetected bug](https://www.computerworld.com/article/4249364/microsoft-outage-a-cascading-failure-that-started-with-an-undetected-bug.html)
-- [Alibaba touts 62% lower task costs with Qwen4-Max, adds cyber safeguards](https://www.computerworld.com/article/4249020/alibaba-touts-62-lower-task-costs-with-qwen4-max-adds-cyber-safeguards-3.html)
-- [What can you safely tell AI at work?](https://www.computerworld.com/article/4244131/what-can-you-safely-tell-ai-at-work.html)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

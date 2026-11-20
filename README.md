@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [My CTF Setup: BlackArch in Docker](https://coding-overhead.com/posts/blackarch-docker/)
-- [Game theory&#39;s cure for corruption &lpar;2015&rpar;](https://aeon.co/essays/game-theory-s-cure-for-corruption-make-us-all-cops)
-- [EUVD-2024-5409 Synology and Beestation – Improper Encoding or Escaping of Output](https://euvd.enisa.europa.eu/vulnerability/EUVD-2024-54098)
-- [The New Mind Control – The internet has spawned subtle forms of influence &lpar;2016&rpar;](https://aeon.co/essays/how-the-internet-flips-elections-and-alters-our-thoughts)
-- [DeepMind Employees Are Unionising](https://www.gdmunion.co.uk)
-- [Where do we go from here?](https://nicolasbouliane.com/blog/life-after-ai)
-- [How to Create a Virtual Background Using the Red5 WebRTC SDK](https://www.red5.net/blog/virtual-backgrounds-using-the-red5-webrtc-sdk/)
-- [What&#39;s New in PHP 8.6](https://www.php.net/releases/8.6/en.php)
-- [The gas pipeline where Ukraine is fighting an underground war with Russia](https://www.bbc.com/news/videos/c8p3vw4q6nzzo)
-- [Placky Explains Slide Rules &lpar;2021&rpar;](https://randomlyunique.com/plancky/2021/slide-rules/index.html)
+- [Hutter Prize](https://en.wikipedia.org/wiki/Hutter_Prize)
+- [Ask HN: How do you identify video samples that were mistakenly deleted?](https://news.ycombinator.com/item?id=50572231)
+- [Infinite scroll and autoplay are fuelling a global problem](https://www.scimex.org/newsfeed/internet-related-addictions-are-a-global-health-threat-experts-argue)
+- [The Great Oxidation Event](https://en.wikipedia.org/wiki/Great_Oxidation_Event)
+- [Veterans of the 2008 Crash Protest Anthropic&#39;s IPO](https://www.motherjones.com/politics/2026/11/anthropic-ipo-nasdaq-protest/)
+- [We made GTA 6, world&#39;s biggest game – we should have working conditions to match](https://www.theguardian.com/commentisfree/2026/nov/18/gta-6-grand-theft-auto-vi-rockstar-employees-union-recognition)
+- [Show HN: MacVisor TPM – Virtual TPM Under Apple&#39;s Virtualization.framework](https://github.com/macvisor/macvisor-tpm)
+- [Agent memory benchmarks need more than an overall score](https://x.com/AgentMemoryL/)
+- [Being a designer in an AI-forward team](https://langfuse.com/blog/2026-11-19-comfortable-with-being-uncomfortable)
+- [AI Can Draw Any Frame. Animation Is Not Its Strong Suit](https://sbsgames.dev/blog/ai-sprite-animation)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

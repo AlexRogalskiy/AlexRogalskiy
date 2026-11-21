@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Hutter Prize](https://en.wikipedia.org/wiki/Hutter_Prize)
-- [Ask HN: How do you identify video samples that were mistakenly deleted?](https://news.ycombinator.com/item?id=50572231)
-- [Infinite scroll and autoplay are fuelling a global problem](https://www.scimex.org/newsfeed/internet-related-addictions-are-a-global-health-threat-experts-argue)
-- [The Great Oxidation Event](https://en.wikipedia.org/wiki/Great_Oxidation_Event)
-- [Veterans of the 2008 Crash Protest Anthropic&#39;s IPO](https://www.motherjones.com/politics/2026/11/anthropic-ipo-nasdaq-protest/)
-- [We made GTA 6, world&#39;s biggest game – we should have working conditions to match](https://www.theguardian.com/commentisfree/2026/nov/18/gta-6-grand-theft-auto-vi-rockstar-employees-union-recognition)
-- [Show HN: MacVisor TPM – Virtual TPM Under Apple&#39;s Virtualization.framework](https://github.com/macvisor/macvisor-tpm)
-- [Agent memory benchmarks need more than an overall score](https://x.com/AgentMemoryL/)
-- [Being a designer in an AI-forward team](https://langfuse.com/blog/2026-11-19-comfortable-with-being-uncomfortable)
-- [AI Can Draw Any Frame. Animation Is Not Its Strong Suit](https://sbsgames.dev/blog/ai-sprite-animation)
+- [Show HN: Learnmap, learn programming in a playful way](https://learnmap.sh)
+- [GameShark, cheat devices, and PlayStation runtime function patching](https://generalreasoning.com/blog/2026/11/19/gameshark-patching.html)
+- [Dragons and Serpents in Sussex](http://www.sussexarch.org.uk/saaf/dragon.html)
+- [Maestri – Infinite canvas for orchestrating agents](https://www.themaestri.app/en)
+- [Trump vows to prevent US companies from building data centres abroad](https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html)
+- [Notion – A New Shape for Work](https://www.notion.com/a-new-shape-for-work)
+- [Proof of the Riemann Hypothesis [01/01/2026]](https://robertedwardgrant.com/proof-of-the-riemann-hypothesis-a-geometric-constraint-on-prime-fluctuations/)
+- [Gemini training on chats opt-out is finally here](https://support.google.com/gemini/answer/13594961?hl=en)
+- [What&#39;s the difference between an integer and a pointer?](https://blog.regehr.org/archives/1621)
+- [Why Are Universal Sockets Dangerous?](https://oeelectrics.co.uk/universal-sockets-a-dangerous-convenience/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

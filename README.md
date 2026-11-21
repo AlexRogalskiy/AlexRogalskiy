@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Andy Burnham in Brussels as UK and EU close in on Brexit reset deal – live](https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates)
-- [Asian stocks headed for worst week since 2020 as Anthropic IPO fails to end AI rout – business live](https://www.theguardian.com/business/live/2026/nov/20/asia-stocks-worst-anthropic-ipo-ai-stock-market-latest-updates-news)
-- [Premier League returns, Pochettino readies for United test and more – football live](https://www.theguardian.com/football/live/2026/nov/20/weekend-football-countdown-live-news-updates)
-- [Cop31 live: crunch time as deeply divided climate talks enter final day](https://www.theguardian.com/world/live/2026/nov/20/cop31-climate-crisis-talks-turkey-latest-news-updates)
-- [British Library to outsource security and ‘repurpose’ reading rooms as business spaces](https://www.theguardian.com/books/2026/nov/20/british-library-outsource-security-reading-rooms-business-spaces)
-- [The Slightest Touch to California Schemin’: the seven best films to watch on TV this week](https://www.theguardian.com/tv-and-radio/2026/nov/20/the-seven-best-films-to-watch-on-tv-this-week)
-- [The month’s best experimental album: Stella Z’s ambient adventures into lucid dreaming](https://www.theguardian.com/music/2026/nov/20/stella-z-thunder-is-the-sky-dreaming-review-cdr)
-- [Take That: Dreamers review – 50-something boyband fail to relight the fire on nostalgia-drenched return](https://www.theguardian.com/music/2026/nov/20/take-that-dreamers-review-nostalgia)
-- [Household rush to stockpile emergency supplies sends British retail sales soaring](https://www.theguardian.com/world/2026/nov/20/rush-stockpile-emergency-supplies-sends-british-retail-sales-soaring)
-- [Joanne Young praised for bravery in exposing rape by husband and strangers](https://www.theguardian.com/society/2026/nov/20/joanne-young-drugged-raped-by-husband-praised-bravery-anonymity)
+- [Australia v England: first men’s T20 cricket international – live](https://www.theguardian.com/sport/live/2026/nov/21/australia-v-england-first-mens-t20-cricket-international-live)
+- [Cop31 live: climate talks drag into overtime as countries race to find agreement](https://www.theguardian.com/environment/live/2026/nov/21/cop31-climate-deal-latest-news-updates)
+- [Premier League resumes, Kane facing spell on sidelines: football news – matchday live](https://www.theguardian.com/football/live/2026/nov/21/premier-league-resumes-kane-facing-spell-on-sidelines-football-news-matchday-live)
+- [Telegraph departures signal concerns over direction under Axel Springer’s ownership](https://www.theguardian.com/media/2026/nov/21/telegraph-departures-direction-axel-springer-ownership)
+- [‘Trust was hard won’: Bell Pond, summer 1983, Worcester, Massachusetts – in pictures](https://www.theguardian.com/artanddesign/gallery/2026/nov/21/bell-pond-monograph-stephen-dirado-photographer)
+- [Letby trial doctor barred from treating patients was expert witness in another case](https://www.theguardian.com/uk-news/2026/nov/21/lucy-letby-trial-doctor-professor-peter-hindmarsh-barred-from-treating-patients-expert-witness-another-case)
+- [Did you come down with GTA flu? I won’t judge – I may even join you in Vice City | Imogen West-Knights](https://www.theguardian.com/commentisfree/2026/nov/21/gta-6-flu-vice-city-gamers-sick-day)
+- [You Can See Everything’s vibes-check approach is an insult to objective truth](https://www.theguardian.com/film/2026/nov/21/you-can-see-everything-vibes-truth-elizabeth-holmes-nathan-fielder)
+- [‘Like an invisible stealth tax’: ways to shield your cash from UK inflation](https://www.theguardian.com/money/2026/nov/21/ways-to-shield-savings-pensions-from-uk-inflation-cost-of-living)
+- [The Guide #270: Grand Theft Auto VI is everywhere – but is it really the cultural event of the decade?](https://www.theguardian.com/culture/2026/nov/20/grand-theft-auto-vi-is-everywhere-but-is-it-really-the-cultural-event-of-the-decade)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

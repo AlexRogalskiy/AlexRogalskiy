@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [&quot;I can tell you wrote this yourself&quot;](https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/)
-- [Jujutsu Primer](https://ethanlowman.com/posts/jj-primer/)
-- [FFmpeg 9.1 &#39;Gauss&#39;](https://ffmpeg.org/download.html#release_9.1)
-- [PostgreSQL 19](https://www.postgresql.org/docs/release/19.0/)
-- [What Comes After AGI?](https://institute.deepmind.com/essays/what-comes-after-agi/)
-- [Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup](https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/)
-- [OpenSSL: Buffer overflow in EVP_EncodeBlock&lpar;&rpar; &lpar;CVE-2026-121481, CVSS 9.8&rpar;](https://github.com/openssl/openssl/pull/33652)
-- [Vint Cerf on why TCP/IP was never patented](https://seremot.com/p/vint-cerf-on-why-tcpip-was-never)
-- [ChatGPT for SNES](https://www.bxfoundry.com/chatgpt_snes/)
-- [Synology Security Advisory](https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21)
+- [Surprisingly Adorable Insect Portraits](https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/)
+- [ClawDOS – An AI coding agent for DOS](http://ricapar.net/ClawDOS/)
+- [Backblaze Notice at Collection and Privacy Policy](https://www.backblaze.com/company/policy/privacy)
+- [Clojure will affect the way you think about programming &lpar;2017&rpar;](https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/)
+- [Catching Crumbs from the Table [pdf]](https://gwern.net/doc/fiction/science-fiction/2000-chiang.pdf)
+- [Serious cyberattack thought backed by wealthy operators](https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411)
+- [Sir Brian May adds new dimension to Hera asteroid](https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid)
+- [Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?](https://news.ycombinator.com/item?id=50583761)
+- [NINLIVE: The Nine Inch Nails live archive](https://ninlive.com/)
+- [Inkling 2 Mini](https://thinkingmachines.ai/news/inkling-2-mini/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

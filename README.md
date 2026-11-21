@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [21 ways Gemini can genuinely be useful on Android](https://www.computerworld.com/article/4007736/21-ways-gemini-can-genuinely-be-useful-on-android.html)
+- [Apple doesn’t need the smartest AI agent. It needs the most trusted one](https://www.computerworld.com/article/4251496/apple-doesnt-need-the-smartest-ai-agent-it-needs-the-most-trusted-one.html)
+- [Nadella: Here’s why Microsoft offered buyouts to 60,000 employees](https://www.computerworld.com/article/4251449/nadella-heres-why-microsoft-offered-buyouts-to-60000-employees.html)
+- [The AI boom is forecast to increase data center emissions by 70% by 2030](https://www.computerworld.com/article/4251430/the-ai-boom-is-expected-to-increase-data-center-emissions-by-70-percent-by-2030.html)
 - [Microsoft positions Copilot as a hub for team collaboration](https://www.computerworld.com/article/4250734/microsoft-positions-copilot-as-a-hub-for-team-collaboration.html)
 - [At Apple, the robots are coming](https://www.computerworld.com/article/4250765/at-apple-the-robots-are-coming.html)
 - [Microsoft brings AI inference closer to enterprise data with Windows Server 2028](https://www.computerworld.com/article/4250505/microsoft-brings-ai-inference-closer-to-enterprise-data-with-windows-server-2028-2.html)
 - [AI asked better questions than auditors in a large-scale KPMG test](https://www.computerworld.com/article/4251042/ai-asked-better-questions-than-auditors-in-large-scale-kpmg-test.html)
 - [Security, security, security: What a week of outages means to IT &lpar;and you&rpar;](https://www.computerworld.com/article/4250250/security-security-security-what-a-week-of-outages-means-to-it-and-you.html)
 - [A refreshingly practical hidden Gemini treasure](https://www.computerworld.com/article/4249260/gemini-treasure.html)
-- [Optimizely confirms massive cyberattack on customer websites injected stealer malware](https://www.computerworld.com/article/4249960/optimizely-confirms-massive-cyberattack-on-customer-websites-injected-stealer-malware-2.html)
-- [What Anthropic’s IPO means for IT buyers](https://www.computerworld.com/article/4249731/what-anthropics-ipo-means-for-it-buyers.html)
-- [California sues OpenAI, alleges 80-plus agent escapes hidden from public](https://www.computerworld.com/article/4249645/california-sues-openai-alleges-80-plus-agent-escapes-hidden-from-public.html)
-- [Hackers exploit Microsoft 365 outage to launch credential phishing campaign](https://www.computerworld.com/article/4249607/hackers-exploit-microsoft-365-outage-to-launch-credential-phishing-campaign.html)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Australia v England: first men’s T20 cricket international – live](https://www.theguardian.com/sport/live/2026/nov/21/australia-v-england-first-mens-t20-cricket-international-live)
-- [Cop31 live: climate talks drag into overtime as countries race to find agreement](https://www.theguardian.com/environment/live/2026/nov/21/cop31-climate-deal-latest-news-updates)
-- [Premier League resumes, Kane facing spell on sidelines: football news – matchday live](https://www.theguardian.com/football/live/2026/nov/21/premier-league-resumes-kane-facing-spell-on-sidelines-football-news-matchday-live)
-- [Telegraph departures signal concerns over direction under Axel Springer’s ownership](https://www.theguardian.com/media/2026/nov/21/telegraph-departures-direction-axel-springer-ownership)
-- [‘Trust was hard won’: Bell Pond, summer 1983, Worcester, Massachusetts – in pictures](https://www.theguardian.com/artanddesign/gallery/2026/nov/21/bell-pond-monograph-stephen-dirado-photographer)
-- [Letby trial doctor barred from treating patients was expert witness in another case](https://www.theguardian.com/uk-news/2026/nov/21/lucy-letby-trial-doctor-professor-peter-hindmarsh-barred-from-treating-patients-expert-witness-another-case)
-- [Did you come down with GTA flu? I won’t judge – I may even join you in Vice City | Imogen West-Knights](https://www.theguardian.com/commentisfree/2026/nov/21/gta-6-flu-vice-city-gamers-sick-day)
-- [You Can See Everything’s vibes-check approach is an insult to objective truth](https://www.theguardian.com/film/2026/nov/21/you-can-see-everything-vibes-truth-elizabeth-holmes-nathan-fielder)
-- [‘Like an invisible stealth tax’: ways to shield your cash from UK inflation](https://www.theguardian.com/money/2026/nov/21/ways-to-shield-savings-pensions-from-uk-inflation-cost-of-living)
-- [The Guide #270: Grand Theft Auto VI is everywhere – but is it really the cultural event of the decade?](https://www.theguardian.com/culture/2026/nov/20/grand-theft-auto-vi-is-everywhere-but-is-it-really-the-cultural-event-of-the-decade)
+- [Liverpool v Manchester United buildup and more Premier League news – matchday live](https://www.theguardian.com/football/live/2026/nov/22/liverpool-v-manchester-united-buildup-and-more-premier-league-news-matchday-live)
+- [Cop31 live: new draft deal under scrutiny as divided talks risk longest climate summit ever](https://www.theguardian.com/environment/live/2026/nov/22/cop31-climate-crisis-talks-turkey-latest-news-updates)
+- [It will soon be too late to regulate use of autonomous weapons, warns Red Cross](https://www.theguardian.com/science/2026/nov/22/red-cross-warns-too-late-regulate-autonomous-weapons-united-nations)
+- [‘I do a really good version of AC/DC’s Highway to Hell, which throws people’: Sharleen Spiteri’s honest playlist](https://www.theguardian.com/music/2026/nov/22/sharleen-spiteri-texas-honest-playlist-acdc-elvis-costello)
+- [Theresa May ‘aghast’ at Andy Burnham’s talk about rejoining EU](https://www.theguardian.com/politics/2026/nov/22/theresa-may-aghast-andy-burnham-talk-about-rejoining-eu)
+- [Highly lucrative: Bank of England directors illegally profited from post-abolition enslavement in Cuba](https://www.theguardian.com/news/2026/nov/22/bank-of-england-directors-illegally-profited-enslavement-cuba)
+- [Revealed: profiles of UK experts on gambling harm being hijacked to push illegal online casinos](https://www.theguardian.com/society/2026/nov/22/profiles-uk-experts-on-gambling-harm-hijacked-to-promote-online-casinos)
+- [César Azpilicueta: ‘At Chelsea a draw was a catastrophe – if you can’t perform, you’re out’](https://www.theguardian.com/football/2026/nov/22/cesar-azpilicueta-at-chelsea-a-draw-was-a-catastrophe-if-you-cant-perform-youre-out)
+- [Fire at confectionery factory in Indonesia leaves at least three dead and dozens missing](https://www.theguardian.com/world/2026/nov/22/fire-confectionary-factory-indonesia-jakarta)
+- [Lend them your ears! Julius Caesar is staged with just four actors – and a great big gong](https://www.theguardian.com/stage/2026/nov/22/julius-caesar-four-actors-sam-wanamaker-playhouse-review)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Surprisingly Adorable Insect Portraits](https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/)
-- [ClawDOS – An AI coding agent for DOS](http://ricapar.net/ClawDOS/)
-- [Backblaze Notice at Collection and Privacy Policy](https://www.backblaze.com/company/policy/privacy)
-- [Clojure will affect the way you think about programming &lpar;2017&rpar;](https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/)
-- [Catching Crumbs from the Table [pdf]](https://gwern.net/doc/fiction/science-fiction/2000-chiang.pdf)
-- [Serious cyberattack thought backed by wealthy operators](https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411)
-- [Sir Brian May adds new dimension to Hera asteroid](https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid)
-- [Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?](https://news.ycombinator.com/item?id=50583761)
-- [NINLIVE: The Nine Inch Nails live archive](https://ninlive.com/)
-- [Inkling 2 Mini](https://thinkingmachines.ai/news/inkling-2-mini/)
+- [Notes on the discrete Fourier transform &lpar;DFT&rpar;](https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/)
+- [Show HN: The Riemann Proof Handbook](https://github.com/tamnd/riemann-handbook)
+- [Fast-Anything: Don&#39;t rewrite it in Rust. Rewrite the 5% that&#39;s slow](https://github.com/EL4CTEO/fast-anything)
+- [Toyota, Nissan, and Honda to standardize parts to lower costs](https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/)
+- [Data Processing Incidents on Inference Providers](https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/)
+- [The Mythology of Conscious AI](https://www.noemamag.com/the-mythology-of-conscious-ai/)
+- [Sandwich Simulator](https://stulle.app/)
+- [PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors](https://github.com/sebaandrada-cell/PcapAnalyzer)
+- [Advice for the next 100 Rust GUIs](https://linebender.org/blog/next-100-guis/)
+- [Tasklet &lpar;YC P26&rpar; Is Hiring Product and Agent Infra Engineers](https://tasklet.ai/careers)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

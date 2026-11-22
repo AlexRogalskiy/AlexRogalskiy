@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: Learnmap, learn programming in a playful way](https://learnmap.sh)
-- [GameShark, cheat devices, and PlayStation runtime function patching](https://generalreasoning.com/blog/2026/11/19/gameshark-patching.html)
-- [Dragons and Serpents in Sussex](http://www.sussexarch.org.uk/saaf/dragon.html)
-- [Maestri – Infinite canvas for orchestrating agents](https://www.themaestri.app/en)
-- [Trump vows to prevent US companies from building data centres abroad](https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html)
-- [Notion – A New Shape for Work](https://www.notion.com/a-new-shape-for-work)
-- [Proof of the Riemann Hypothesis [01/01/2026]](https://robertedwardgrant.com/proof-of-the-riemann-hypothesis-a-geometric-constraint-on-prime-fluctuations/)
-- [Gemini training on chats opt-out is finally here](https://support.google.com/gemini/answer/13594961?hl=en)
-- [What&#39;s the difference between an integer and a pointer?](https://blog.regehr.org/archives/1621)
-- [Why Are Universal Sockets Dangerous?](https://oeelectrics.co.uk/universal-sockets-a-dangerous-convenience/)
+- [Lean Should Be Ashamed](https://news.ycombinator.com/item?id=50597676)
+- [Show HN: Tartelette – an RP2040 emulator and breakout simulator](https://pferreir.github.io/tartelette/)
+- [Kvrocks](https://www.percona.com/blog/inside-kvrocks/)
+- [87% of the Anthropic power will come from gas and 11% from coal in 2028](https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/)
+- [Is AI plagiarizing human research?](https://twitter.com/Robert_E_Grant_/status/2124338413662847228)
+- [Scientists build whole-Earth simulation to help find life on other planets](https://www.washington.edu/news/2026/11/02/whole-earth-simulation-exoplanets-alien-life/)
+- [Scientists sequenced a whale&#39;s entire genome using drones and whale snot](https://www.npr.org/2026/11/21/nx-s1-6044816/scientists-sequenced-a-whales-entire-genome-using-drones-and-whale-snot)
+- [Derivative flipping: another way of thinking about automatic differentiation](http://blog.sigfpe.com/2026/11/derivative-flipping.html)
+- [Your personal TV](https://github.com/joonfjp/yoltapp)
+- [The day the Riemann hypothesis fell to AI, I took my son for a walk](https://www.theintrinsicperspective.com/p/on-the-day-the-riemann-hypothesis)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Liverpool v Manchester United buildup and more Premier League news – matchday live](https://www.theguardian.com/football/live/2026/nov/22/liverpool-v-manchester-united-buildup-and-more-premier-league-news-matchday-live)
-- [Cop31 live: new draft deal under scrutiny as divided talks risk longest climate summit ever](https://www.theguardian.com/environment/live/2026/nov/22/cop31-climate-crisis-talks-turkey-latest-news-updates)
-- [It will soon be too late to regulate use of autonomous weapons, warns Red Cross](https://www.theguardian.com/science/2026/nov/22/red-cross-warns-too-late-regulate-autonomous-weapons-united-nations)
-- [‘I do a really good version of AC/DC’s Highway to Hell, which throws people’: Sharleen Spiteri’s honest playlist](https://www.theguardian.com/music/2026/nov/22/sharleen-spiteri-texas-honest-playlist-acdc-elvis-costello)
-- [Theresa May ‘aghast’ at Andy Burnham’s talk about rejoining EU](https://www.theguardian.com/politics/2026/nov/22/theresa-may-aghast-andy-burnham-talk-about-rejoining-eu)
-- [Highly lucrative: Bank of England directors illegally profited from post-abolition enslavement in Cuba](https://www.theguardian.com/news/2026/nov/22/bank-of-england-directors-illegally-profited-enslavement-cuba)
-- [Revealed: profiles of UK experts on gambling harm being hijacked to push illegal online casinos](https://www.theguardian.com/society/2026/nov/22/profiles-uk-experts-on-gambling-harm-hijacked-to-promote-online-casinos)
-- [César Azpilicueta: ‘At Chelsea a draw was a catastrophe – if you can’t perform, you’re out’](https://www.theguardian.com/football/2026/nov/22/cesar-azpilicueta-at-chelsea-a-draw-was-a-catastrophe-if-you-cant-perform-youre-out)
-- [Fire at confectionery factory in Indonesia leaves at least three dead and dozens missing](https://www.theguardian.com/world/2026/nov/22/fire-confectionary-factory-indonesia-jakarta)
-- [Lend them your ears! Julius Caesar is staged with just four actors – and a great big gong](https://www.theguardian.com/stage/2026/nov/22/julius-caesar-four-actors-sam-wanamaker-playhouse-review)
+- [Zelenskyy says Ukraine responsible for sinking Russian warship in Libya – Europe live](https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates)
+- [ICJ ruling on duty to prevent genocide places new onus on countries to act](https://www.theguardian.com/law/2026/nov/23/icj-ruling-duty-to-prevent-genocide-international-court-of-justice)
+- [Bill Wyman’s Rock &amp; Roll Lists review – greatest hits and biggest misses](https://www.theguardian.com/books/2026/nov/23/bill-wymans-rock-roll-lists-review-greatest-hits-and-biggest-misses)
+- [Natural England could be abolished as part of quango cull, says Louise Haigh](https://www.theguardian.com/politics/2026/nov/23/natural-england-could-be-abolished-quango-cull-louise-haigh)
+- [Adder Stone by Clare Clark review – the story of a drowned Welsh village](https://www.theguardian.com/books/2026/nov/23/adder-stone-by-clare-clark-review-the-story-of-a-drowned-welsh-village)
+- [Gas prices in Europe surge as forecast cold snap feeds supply shortage fears](https://www.theguardian.com/business/2026/nov/23/gas-prices-in-europe-surge-as-forecast-cold-snap-feeds-supply-shortage-fears)
+- [The Ravens have long been a model of stability. Now they’re going off the rails](https://www.theguardian.com/sport/2026/nov/23/baltimore-ravens-nfl-football)
+- [England and Ireland provide champagne rugby for north to tee up finals weekend | Robert Kitson](https://www.theguardian.com/sport/2026/nov/23/england-ireland-france-nations-championship-rugby-union)
+- [‘Haaland must be worried’: Thierno Barry’s rise has David Moyes purring](https://www.theguardian.com/football/2026/nov/23/thierno-barry-rise-david-moyes-purring-everton)
+- [Is it true that … we only use 10% of our brains?](https://www.theguardian.com/lifeandstyle/2026/nov/23/is-it-true-we-only-use-10-per-cent-brain)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

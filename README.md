@@ -355,6 +355,7 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Hyring Insight Reports 10x Revenue Growth in 3 months](https://www.computerworld.com/article/4251888/hyring-insight-reports-10x-revenue-growth-in-3-months-2.html)
 - [21 ways Gemini can genuinely be useful on Android](https://www.computerworld.com/article/4007736/21-ways-gemini-can-genuinely-be-useful-on-android.html)
 - [Apple doesn’t need the smartest AI agent. It needs the most trusted one](https://www.computerworld.com/article/4251496/apple-doesnt-need-the-smartest-ai-agent-it-needs-the-most-trusted-one.html)
 - [Nadella: Here’s why Microsoft offered buyouts to 60,000 employees](https://www.computerworld.com/article/4251449/nadella-heres-why-microsoft-offered-buyouts-to-60000-employees.html)
@@ -364,7 +365,6 @@
 - [Microsoft brings AI inference closer to enterprise data with Windows Server 2028](https://www.computerworld.com/article/4250505/microsoft-brings-ai-inference-closer-to-enterprise-data-with-windows-server-2028-2.html)
 - [AI asked better questions than auditors in a large-scale KPMG test](https://www.computerworld.com/article/4251042/ai-asked-better-questions-than-auditors-in-large-scale-kpmg-test.html)
 - [Security, security, security: What a week of outages means to IT &lpar;and you&rpar;](https://www.computerworld.com/article/4250250/security-security-security-what-a-week-of-outages-means-to-it-and-you.html)
-- [A refreshingly practical hidden Gemini treasure](https://www.computerworld.com/article/4249260/gemini-treasure.html)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

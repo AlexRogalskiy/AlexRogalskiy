@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Lean Should Be Ashamed](https://news.ycombinator.com/item?id=50597676)
-- [Show HN: Tartelette – an RP2040 emulator and breakout simulator](https://pferreir.github.io/tartelette/)
-- [Kvrocks](https://www.percona.com/blog/inside-kvrocks/)
-- [87% of the Anthropic power will come from gas and 11% from coal in 2028](https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/)
-- [Is AI plagiarizing human research?](https://twitter.com/Robert_E_Grant_/status/2124338413662847228)
-- [Scientists build whole-Earth simulation to help find life on other planets](https://www.washington.edu/news/2026/11/02/whole-earth-simulation-exoplanets-alien-life/)
-- [Scientists sequenced a whale&#39;s entire genome using drones and whale snot](https://www.npr.org/2026/11/21/nx-s1-6044816/scientists-sequenced-a-whales-entire-genome-using-drones-and-whale-snot)
-- [Derivative flipping: another way of thinking about automatic differentiation](http://blog.sigfpe.com/2026/11/derivative-flipping.html)
-- [Your personal TV](https://github.com/joonfjp/yoltapp)
-- [The day the Riemann hypothesis fell to AI, I took my son for a walk](https://www.theintrinsicperspective.com/p/on-the-day-the-riemann-hypothesis)
+- [LocallyAI app caught exfiltrating users&#39; iOS device IDs](https://twitter.com/private_llm/status/2124496262859047294)
+- [I Changed My Opinion on MCP](https://frantic.im/mcp/)
+- [Style Is Consistent Constraint](https://stephango.com/style)
+- [AI agents violate website scraping policies ~97% of the time &lpar;NeurIPS2026&rpar;](https://scrapebench.github.io/)
+- [Staying Safe in the Bugpocalypse](https://kellett.im/a/wasteland-survival-guide)
+- [Valve says it might have to raise the price of supply-limited Steam Machines](https://arstechnica.com/gaming/2026/11/valve-says-it-might-have-to-raise-the-price-of-supply-limited-steam-machines/)
+- [Watching as a giant star swallowed its neighbor and exploded](https://arstechnica.com/science/2026/11/astronomers-watched-a-star-spiral-to-its-death-inside-a-giant-companion/)
+- [China&#39;s Innovation Playbook; Bottom-Up Tech; Directed Autonomy; Going Global [video]](https://www.youtube.com/watch?v=bcfpqH1WnhM)
+- [Johnny.Decimal Introduction](https://johnnydecimal.com/documentation/introduction)
+- [You can&#39;t afford to keep your SSH keys on disk](https://jola.dev/posts/you-cant-afford-ssh-keys-disk)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

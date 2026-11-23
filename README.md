@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Notes on the discrete Fourier transform &lpar;DFT&rpar;](https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/)
-- [Show HN: The Riemann Proof Handbook](https://github.com/tamnd/riemann-handbook)
-- [Fast-Anything: Don&#39;t rewrite it in Rust. Rewrite the 5% that&#39;s slow](https://github.com/EL4CTEO/fast-anything)
-- [Toyota, Nissan, and Honda to standardize parts to lower costs](https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/)
-- [Data Processing Incidents on Inference Providers](https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/)
-- [The Mythology of Conscious AI](https://www.noemamag.com/the-mythology-of-conscious-ai/)
-- [Sandwich Simulator](https://stulle.app/)
-- [PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors](https://github.com/sebaandrada-cell/PcapAnalyzer)
-- [Advice for the next 100 Rust GUIs](https://linebender.org/blog/next-100-guis/)
-- [Tasklet &lpar;YC P26&rpar; Is Hiring Product and Agent Infra Engineers](https://tasklet.ai/careers)
+- [CollectWise &lpar;YC F24&rpar; Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/lgobCse-founding-customer-success-manager)
+- [Yes, 17M lines of Lean is a lot](https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/)
+- [A Partial Evaluator for C](https://phoenix.labri.fr/software/tempo/)
+- [XNU Linux: Full OS X GUI Userspace on Linux](https://github.com/AFK-surf/xnulinux)
+- [The New Docker: Built to Run on Trust](https://www.docker.com/blog/meet-the-new-docker-built-to-run-on-trust/)
+- [Treemap of the Riemann Hypothesis Lean Proof](https://pengowray.github.io/riemann-zeta-proof-visualizer/)
+- [Free alternative TV network built from the Internet Archive&#39;s forgotten videos](https://spelunkr.tv)
+- [What we learned operating auth for 1k APIs](https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/)
+- [0rwx – A simple model of AI usage, inspired by Unix permissions](https://0rwx.com/)
+- [Progress map for the Lean formalization of Alessandro Masullo&#39;s manuscript](https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

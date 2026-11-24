@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Zelenskyy says Ukraine responsible for sinking Russian warship in Libya – Europe live](https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates)
-- [ICJ ruling on duty to prevent genocide places new onus on countries to act](https://www.theguardian.com/law/2026/nov/23/icj-ruling-duty-to-prevent-genocide-international-court-of-justice)
-- [Bill Wyman’s Rock &amp; Roll Lists review – greatest hits and biggest misses](https://www.theguardian.com/books/2026/nov/23/bill-wymans-rock-roll-lists-review-greatest-hits-and-biggest-misses)
-- [Natural England could be abolished as part of quango cull, says Louise Haigh](https://www.theguardian.com/politics/2026/nov/23/natural-england-could-be-abolished-quango-cull-louise-haigh)
-- [Adder Stone by Clare Clark review – the story of a drowned Welsh village](https://www.theguardian.com/books/2026/nov/23/adder-stone-by-clare-clark-review-the-story-of-a-drowned-welsh-village)
-- [Gas prices in Europe surge as forecast cold snap feeds supply shortage fears](https://www.theguardian.com/business/2026/nov/23/gas-prices-in-europe-surge-as-forecast-cold-snap-feeds-supply-shortage-fears)
-- [The Ravens have long been a model of stability. Now they’re going off the rails](https://www.theguardian.com/sport/2026/nov/23/baltimore-ravens-nfl-football)
-- [England and Ireland provide champagne rugby for north to tee up finals weekend | Robert Kitson](https://www.theguardian.com/sport/2026/nov/23/england-ireland-france-nations-championship-rugby-union)
-- [‘Haaland must be worried’: Thierno Barry’s rise has David Moyes purring](https://www.theguardian.com/football/2026/nov/23/thierno-barry-rise-david-moyes-purring-everton)
-- [Is it true that … we only use 10% of our brains?](https://www.theguardian.com/lifeandstyle/2026/nov/23/is-it-true-we-only-use-10-per-cent-brain)
+- [Crystal Palace docked three WSL points for extra substitution against Everton](https://www.theguardian.com/football/2026/nov/24/crystal-palace-docked-three-points-wsl-extra-substitution-everton)
+- [David Squires on … Pochettino flying into a storm at Manchester United. Here we go again](https://www.theguardian.com/football/picture/2026/nov/24/david-squires-on-mauricio-pochettino-manchester-united-here-we-go-again)
+- [Salt and Donald vaporise target as England crush Australia in 13.1 overs to win second T20](https://www.theguardian.com/sport/2026/nov/24/salt-donald-blast-england-crushing-twenty20-victory-australia)
+- [Man admits murdering Soham killer Ian Huntley at high-security jail](https://www.theguardian.com/uk-news/2026/nov/24/man-admits-murdering-soham-killer-ian-huntley-jail)
+- [Farage suggests he wouldn’t work with Tories on campaign against rejoining EU and ‘will never trust them again’ – UK politics live](https://www.theguardian.com/politics/live/2026/nov/24/pip-review-stephen-timms-andy-burnham-disability-welfare-brexit-latest-news-updates)
+- [Barnet footballer Isiah Noel-Williams charged with three counts of rape](https://www.theguardian.com/uk-news/2026/nov/24/isiah-noel-williams-barnet-footballer-charged-with-rape)
+- [Trump must act now to stop a three-way nuclear arms race | Edward J Markey](https://www.theguardian.com/commentisfree/2026/nov/24/trump-stop-nuclear-arms-race-russia-china)
+- [Why is scandal-plagued Jensen Huang back at Nvidia? – Stateside with Kai and Carter](https://www.theguardian.com/us-news/video/2026/nov/24/jensen-huang-back-nvidia-stateside)
+- [Let’s hear it for the leftwing echo chamber | Zoe Williams](https://www.theguardian.com/commentisfree/2026/nov/24/lets-hear-it-for-the-leftwing-echo-chamber)
+- [Crunch time: Niki Segnit’s five rules for winter salads](https://www.theguardian.com/food/2026/nov/24/winter-salad-recipes-five-rules-niki-segnit)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

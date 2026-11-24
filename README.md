@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [CollectWise &lpar;YC F24&rpar; Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/lgobCse-founding-customer-success-manager)
-- [Yes, 17M lines of Lean is a lot](https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/)
-- [A Partial Evaluator for C](https://phoenix.labri.fr/software/tempo/)
-- [XNU Linux: Full OS X GUI Userspace on Linux](https://github.com/AFK-surf/xnulinux)
-- [The New Docker: Built to Run on Trust](https://www.docker.com/blog/meet-the-new-docker-built-to-run-on-trust/)
-- [Treemap of the Riemann Hypothesis Lean Proof](https://pengowray.github.io/riemann-zeta-proof-visualizer/)
-- [Free alternative TV network built from the Internet Archive&#39;s forgotten videos](https://spelunkr.tv)
-- [What we learned operating auth for 1k APIs](https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/)
-- [0rwx – A simple model of AI usage, inspired by Unix permissions](https://0rwx.com/)
-- [Progress map for the Lean formalization of Alessandro Masullo&#39;s manuscript](https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3)
+- [Investigation of Polymarket Insider Trading on the Reinstatement of Jensen Huang](https://deucalionn.vercel.app/polymarket-delit-initie-jensen-huang-nvidia/)
+- [Worshipping at the Altar of Brendan Gregg](https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg)
+- [Just a Few Bugs](https://www.justafewbugs.xyz/)
+- [Jevons Paradox in AI: Cheaper Tokens Won&#39;t Pay for Capex](https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/)
+- [2035 Came Early](https://fzakaria.com/2026/11/23/2035-came-early)
+- [AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years](https://www.phoronix.com/review/amd-epyc-9006-7601)
+- [Drone Maps of Salvage Yards](https://salvageyarddrone.wordpress.com/)
+- [Making a dumb TV just smart enough](https://qsantos.fr/2026/11/19/making-a-dumb-tv-just-smart-enough/)
+- [Rune: Rust VM for Emacs](https://github.com/CeleritasCelery/rune)
+- [New York Bans Subscription and Post-Purchase Fees on Cars](https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

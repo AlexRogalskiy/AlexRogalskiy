@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [LocallyAI app caught exfiltrating users&#39; iOS device IDs](https://twitter.com/private_llm/status/2124496262859047294)
-- [I Changed My Opinion on MCP](https://frantic.im/mcp/)
-- [Style Is Consistent Constraint](https://stephango.com/style)
-- [AI agents violate website scraping policies ~97% of the time &lpar;NeurIPS2026&rpar;](https://scrapebench.github.io/)
-- [Staying Safe in the Bugpocalypse](https://kellett.im/a/wasteland-survival-guide)
-- [Valve says it might have to raise the price of supply-limited Steam Machines](https://arstechnica.com/gaming/2026/11/valve-says-it-might-have-to-raise-the-price-of-supply-limited-steam-machines/)
-- [Watching as a giant star swallowed its neighbor and exploded](https://arstechnica.com/science/2026/11/astronomers-watched-a-star-spiral-to-its-death-inside-a-giant-companion/)
-- [China&#39;s Innovation Playbook; Bottom-Up Tech; Directed Autonomy; Going Global [video]](https://www.youtube.com/watch?v=bcfpqH1WnhM)
-- [Johnny.Decimal Introduction](https://johnnydecimal.com/documentation/introduction)
-- [You can&#39;t afford to keep your SSH keys on disk](https://jola.dev/posts/you-cant-afford-ssh-keys-disk)
+- [Quint Computing Secures €9.1M Round for German Quantum Computing](https://www.quint-computing.com/news/quint-computing-secures-9-1-million-record-first-funding-round/)
+- [A New Age of Sail](https://www.theatlantic.com/magazine/2027/01/neoliner-origin-wind-powered-cargo-ship/689402/)
+- [Ask HN: Everything will get breached. How do you limit the blast radius?](https://news.ycombinator.com/item?id=50626772)
+- [Compiling WebAssembly to RISC-V on the microcontroller itself](https://github.com/llllluca/wasmc)
+- [F1 agrees framework for switch to V8 engines from 2030, says FIA](https://www.reuters.com/sports/formula1/agreement-principle-f1-have-v8-engines-2030-says-brown-2026-11-20/)
+- [GameAnything – turn any novel, movie or photo into a game mod](https://github.com/AetherLabsAI/GameAnything)
+- [Tag Note Explained: User Agents](https://www.w3.org/blog/2026/tag-note-explained-user-agents/)
+- [How Religions changed, and how we know](https://howitevolved.com/)
+- [The Individual Exception](https://stratechery.com/2026/the-individual-exception/)
+- [Tether: Verified Stateful Policy Engine for System-Level Monitoring of Agents](https://arxiv.org/abs/2611.25599)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

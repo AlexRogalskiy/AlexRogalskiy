@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Quint Computing Secures €9.1M Round for German Quantum Computing](https://www.quint-computing.com/news/quint-computing-secures-9-1-million-record-first-funding-round/)
-- [A New Age of Sail](https://www.theatlantic.com/magazine/2027/01/neoliner-origin-wind-powered-cargo-ship/689402/)
-- [Ask HN: Everything will get breached. How do you limit the blast radius?](https://news.ycombinator.com/item?id=50626772)
-- [Compiling WebAssembly to RISC-V on the microcontroller itself](https://github.com/llllluca/wasmc)
-- [F1 agrees framework for switch to V8 engines from 2030, says FIA](https://www.reuters.com/sports/formula1/agreement-principle-f1-have-v8-engines-2030-says-brown-2026-11-20/)
-- [GameAnything – turn any novel, movie or photo into a game mod](https://github.com/AetherLabsAI/GameAnything)
-- [Tag Note Explained: User Agents](https://www.w3.org/blog/2026/tag-note-explained-user-agents/)
-- [How Religions changed, and how we know](https://howitevolved.com/)
-- [The Individual Exception](https://stratechery.com/2026/the-individual-exception/)
-- [Tether: Verified Stateful Policy Engine for System-Level Monitoring of Agents](https://arxiv.org/abs/2611.25599)
+- [Study: Sit-stand desks boost active work time by 43 minutes/day](https://stories.tamu.edu/news/2026/11/11/want-to-be-more-productive-at-work-show-your-boss-this-study/)
+- [Computer Science Achievement and Writing Skills Predict Vibe Coding Proficiency](https://arxiv.org/abs/2603.14133)
+- [RIEMANN a Mathematical Field Guide](https://alexisdpc.github.io/riemann/technical.html)
+- [Show HN: Plinth – Publish HTML from any coding agent and choose who can see it](https://github.com/mr0b0t0/plinth)
+- [Show HN: Just Dashboard, open-source Linux management dashboard](https://just-dashboard.com/)
+- [Are we over-optimizing AI SRE agents instead of solving the context problem?](https://www.elastic.co/observability-labs/blog/elastic-streams-telemetry-pipeline-s3)
+- [The Riemann Hypothesis Proof as a Mediaeval Fantasy RPG Map](https://marioschlosser.org/riemann/)
+- [Typographers Discuss the Euro &lpar;1996&rpar;](https://www.evertype.com/standards/euro/eurotypo.html)
+- [EU plans €50B tech fund to close gap with US and China](https://www.ft.com/content/53d4b629-7ae4-4d63-ac37-e773b1dd3af0)
+- [Nvidia Seeded Pirated Books and Shared Them with Adobe, Authors Allege](https://torrentfreak.com/nvidia-seeded-pirated-books-and-shared-them-with-adobe-authors-allege/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

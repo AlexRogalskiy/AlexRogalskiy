@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Investigation of Polymarket Insider Trading on the Reinstatement of Jensen Huang](https://deucalionn.vercel.app/polymarket-delit-initie-jensen-huang-nvidia/)
-- [Worshipping at the Altar of Brendan Gregg](https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg)
-- [Just a Few Bugs](https://www.justafewbugs.xyz/)
-- [Jevons Paradox in AI: Cheaper Tokens Won&#39;t Pay for Capex](https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/)
-- [2035 Came Early](https://fzakaria.com/2026/11/23/2035-came-early)
-- [AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years](https://www.phoronix.com/review/amd-epyc-9006-7601)
-- [Drone Maps of Salvage Yards](https://salvageyarddrone.wordpress.com/)
-- [Making a dumb TV just smart enough](https://qsantos.fr/2026/11/19/making-a-dumb-tv-just-smart-enough/)
-- [Rune: Rust VM for Emacs](https://github.com/CeleritasCelery/rune)
-- [New York Bans Subscription and Post-Purchase Fees on Cars](https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription)
+- [Show HN: Old Nvidia and ATI tech demos, running again in the browser](https://gpu-demo-gallery.pages.dev/)
+- [Taking over US Treasury subdomains for $3 each](https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each)
+- [Marginalia Search, Money, C++, Rust, AI, Stuff](https://www.marginalia.nu/log/a_141_marginalia_update/)
+- [A faster algorithm for extracting hexadecimal digits of π](https://www.stylewarning.com/posts/faster-digit-extraction/)
+- [Serving Qwen via AWS Lambdas for fun and 80x negative profit](https://noahbuilt.it/writing/qwen-on-5600-lambdas)
+- [Button Sounds – collection of professionally-recorded button clicks and presses](https://buttons.joshwcomeau.com/)
+- [Macrohistory in Six Facts](https://basilhalperin.com/essays/macrohistory.html)
+- [Bypassing iOS Safari&#39;s 60 FPS Limit to Build Web Applications That Feel Native](https://rida.dev/blog/bypassing-ios-safari-60-fps-limit)
+- [Lua for data representation &lpar;2025&rpar;](https://citrons.xyz/journal/2025-07-23)
+- [I&#39;ve been drinking wine in my kitchen](https://scottaaronson.blog/?p=10362)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

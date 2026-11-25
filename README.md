@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Crystal Palace docked three WSL points for extra substitution against Everton](https://www.theguardian.com/football/2026/nov/24/crystal-palace-docked-three-points-wsl-extra-substitution-everton)
-- [David Squires on … Pochettino flying into a storm at Manchester United. Here we go again](https://www.theguardian.com/football/picture/2026/nov/24/david-squires-on-mauricio-pochettino-manchester-united-here-we-go-again)
-- [Salt and Donald vaporise target as England crush Australia in 13.1 overs to win second T20](https://www.theguardian.com/sport/2026/nov/24/salt-donald-blast-england-crushing-twenty20-victory-australia)
-- [Man admits murdering Soham killer Ian Huntley at high-security jail](https://www.theguardian.com/uk-news/2026/nov/24/man-admits-murdering-soham-killer-ian-huntley-jail)
-- [Farage suggests he wouldn’t work with Tories on campaign against rejoining EU and ‘will never trust them again’ – UK politics live](https://www.theguardian.com/politics/live/2026/nov/24/pip-review-stephen-timms-andy-burnham-disability-welfare-brexit-latest-news-updates)
-- [Barnet footballer Isiah Noel-Williams charged with three counts of rape](https://www.theguardian.com/uk-news/2026/nov/24/isiah-noel-williams-barnet-footballer-charged-with-rape)
-- [Trump must act now to stop a three-way nuclear arms race | Edward J Markey](https://www.theguardian.com/commentisfree/2026/nov/24/trump-stop-nuclear-arms-race-russia-china)
-- [Why is scandal-plagued Jensen Huang back at Nvidia? – Stateside with Kai and Carter](https://www.theguardian.com/us-news/video/2026/nov/24/jensen-huang-back-nvidia-stateside)
-- [Let’s hear it for the leftwing echo chamber | Zoe Williams](https://www.theguardian.com/commentisfree/2026/nov/24/lets-hear-it-for-the-leftwing-echo-chamber)
-- [Crunch time: Niki Segnit’s five rules for winter salads](https://www.theguardian.com/food/2026/nov/24/winter-salad-recipes-five-rules-niki-segnit)
+- [‘Russia wants more than Ukraine,’ Germany’s Merz warns – Europe live](https://www.theguardian.com/world/live/2026/nov/25/ukraine-russia-energy-strikes-mark-rutte-donald-trump-friedrich-merz-germany-latest-news-updates)
+- [Campaigners call for emergency government support as average annual energy bill in Britain set to hit £2,166 – business live](https://www.theguardian.com/business/live/2026/nov/25/rise-energy-bills-britain-2166-impossible-high-millions-households-stocks-tumble-as-ai-rally-fizzles-live-updates)
+- [Burnham’s devolution plans risk ‘significant disparities’ for people in England, MPs say – UK politics live](https://www.theguardian.com/politics/live/2026/nov/25/andy-burnham-kemi-badenoch-pmqs-energy-bills-tiktok-welfare-benefits-timms-reform-brexit-devolution-latest-news-updates)
+- [AI&#39;s shock-and-awe raid on maths looks like pride before a fall | Rafael Behr](https://www.theguardian.com/commentisfree/2026/nov/25/ai-mathematics-human-knowledge-progress-technology-industry)
+- [‘I needed to purge it out of me’: the shocking true story behind harrowing drama Josephine](https://www.theguardian.com/film/2026/nov/25/josephine-movie-true-story)
+- [Sali Hughes on beauty: lactonic scents will have you smelling like cream soda – in a good way](https://www.theguardian.com/fashion/2026/nov/25/sali-hughes-on-beauty-lactonic-scents-smelling-like-cream-soda-strangely-nice-actually)
+- [The Slightest Touch review – running marathons in Colin Farrell and Emma Fogarty’s odd-couple friendship](https://www.theguardian.com/film/2026/nov/25/the-slightest-touch-review-warm-story-of-colin-farrell-and-emma-fogartys-odd-couple-friendship)
+- [Iowa town shelters in place as army prepares to detonate entire US stockpile of lead azide](https://www.theguardian.com/us-news/2026/nov/25/iowa-controlled-blast-lead-azide)
+- [‘Half price!’ ‘Only two left!’ How to resist the bargains you just don’t need – this Black Friday and beyond](https://www.theguardian.com/money/2026/nov/25/half-price-only-two-left-how-to-resist-the-bargains-you-just-dont-need-this-black-friday-and-beyond)
+- [All hostages rescued after Colombian security forces storm supermarket, says president](https://www.theguardian.com/world/2026/nov/25/hostages-freed-colombia-security-forces-storm-cartagena-supermarket)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Study: Sit-stand desks boost active work time by 43 minutes/day](https://stories.tamu.edu/news/2026/11/11/want-to-be-more-productive-at-work-show-your-boss-this-study/)
-- [Computer Science Achievement and Writing Skills Predict Vibe Coding Proficiency](https://arxiv.org/abs/2603.14133)
-- [RIEMANN a Mathematical Field Guide](https://alexisdpc.github.io/riemann/technical.html)
-- [Show HN: Plinth – Publish HTML from any coding agent and choose who can see it](https://github.com/mr0b0t0/plinth)
-- [Show HN: Just Dashboard, open-source Linux management dashboard](https://just-dashboard.com/)
-- [Are we over-optimizing AI SRE agents instead of solving the context problem?](https://www.elastic.co/observability-labs/blog/elastic-streams-telemetry-pipeline-s3)
-- [The Riemann Hypothesis Proof as a Mediaeval Fantasy RPG Map](https://marioschlosser.org/riemann/)
-- [Typographers Discuss the Euro &lpar;1996&rpar;](https://www.evertype.com/standards/euro/eurotypo.html)
-- [EU plans €50B tech fund to close gap with US and China](https://www.ft.com/content/53d4b629-7ae4-4d63-ac37-e773b1dd3af0)
-- [Nvidia Seeded Pirated Books and Shared Them with Adobe, Authors Allege](https://torrentfreak.com/nvidia-seeded-pirated-books-and-shared-them-with-adobe-authors-allege/)
+- [How we got GPUI into the browser [video]](https://www.youtube.com/watch?v=4fj9CynHK64)
+- [MikroTik: Forcing DNS through Pi-hole with automatic failover](https://rz01.org/routeros-pihole/)
+- [Intel One Mono font](https://github.com/intel/intel-one-mono)
+- [Interview: On OpenStreetMap Syria](https://blog.opencagedata.com/post/openstreetmap-interview-osm-syria)
+- [jjack: A CLI and TypeScript library to help jj users manage PR stacks on GitHub](https://github.com/david-crespo/jjack)
+- [Codex CLI gives its coding agent 26 ChatGPT account tools by default](https://getbelay.dev/reports/codex-apps/)
+- [Pullgym – An RL and eval env that scores agents on honest error bars](https://github.com/kekeandzeyu/pullgym)
+- [Gridpin – Offline geocoder, a country in a file](https://gridpin.dev/)
+- [A Python course in the browser from print&lpar;&rpar; to a tiny GPT](https://paulspythoncourse.com/)
+- [AI Has Changed VulnCheck&#39;s Exploit Delivery](https://www.vulncheck.com/blog/ai-has-changed-vulncheck)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

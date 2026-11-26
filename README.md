@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Show HN: Old Nvidia and ATI tech demos, running again in the browser](https://gpu-demo-gallery.pages.dev/)
-- [Taking over US Treasury subdomains for $3 each](https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each)
-- [Marginalia Search, Money, C++, Rust, AI, Stuff](https://www.marginalia.nu/log/a_141_marginalia_update/)
-- [A faster algorithm for extracting hexadecimal digits of π](https://www.stylewarning.com/posts/faster-digit-extraction/)
-- [Serving Qwen via AWS Lambdas for fun and 80x negative profit](https://noahbuilt.it/writing/qwen-on-5600-lambdas)
-- [Button Sounds – collection of professionally-recorded button clicks and presses](https://buttons.joshwcomeau.com/)
-- [Macrohistory in Six Facts](https://basilhalperin.com/essays/macrohistory.html)
-- [Bypassing iOS Safari&#39;s 60 FPS Limit to Build Web Applications That Feel Native](https://rida.dev/blog/bypassing-ios-safari-60-fps-limit)
-- [Lua for data representation &lpar;2025&rpar;](https://citrons.xyz/journal/2025-07-23)
-- [I&#39;ve been drinking wine in my kitchen](https://scottaaronson.blog/?p=10362)
+- [Moat: Your OpenRouter Replacement](https://commandcode.ai/moat)
+- [Lions&#39; Commentary on Unix: Why It Was Secretly Copied for 20 Years](https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/)
+- [Unconditional Integer Factorization in Subexponential Time](https://github.com/google-research/google-research/tree/4a7bc8ab0bc770e71a259b7966c500496b99010a/cogentic_research_papers/integer_factorization)
+- [Qualcomm&#39;s Oryon 3 Reaches the Top](https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top)
+- [OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster](https://twitter.com/thsottiaux/status/2125784147889393806)
+- [Minipg: PostgreSQL as a Single Executable](https://progrium.github.io/minipg/)
+- [Tell HN: Lots of Ask HNs again](https://news.ycombinator.com/item?id=50649864)
+- [Collection of preserved UI style guides](https://aresluna.org/ui-style-guides/)
+- [Bare Metal Qwen](https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os)
+- [Deploying a payphone on a tiny Pacific Island for fun and zero profit](https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

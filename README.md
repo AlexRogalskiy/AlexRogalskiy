@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [‘Russia wants more than Ukraine,’ Germany’s Merz warns – Europe live](https://www.theguardian.com/world/live/2026/nov/25/ukraine-russia-energy-strikes-mark-rutte-donald-trump-friedrich-merz-germany-latest-news-updates)
-- [Campaigners call for emergency government support as average annual energy bill in Britain set to hit £2,166 – business live](https://www.theguardian.com/business/live/2026/nov/25/rise-energy-bills-britain-2166-impossible-high-millions-households-stocks-tumble-as-ai-rally-fizzles-live-updates)
-- [Burnham’s devolution plans risk ‘significant disparities’ for people in England, MPs say – UK politics live](https://www.theguardian.com/politics/live/2026/nov/25/andy-burnham-kemi-badenoch-pmqs-energy-bills-tiktok-welfare-benefits-timms-reform-brexit-devolution-latest-news-updates)
-- [AI&#39;s shock-and-awe raid on maths looks like pride before a fall | Rafael Behr](https://www.theguardian.com/commentisfree/2026/nov/25/ai-mathematics-human-knowledge-progress-technology-industry)
-- [‘I needed to purge it out of me’: the shocking true story behind harrowing drama Josephine](https://www.theguardian.com/film/2026/nov/25/josephine-movie-true-story)
-- [Sali Hughes on beauty: lactonic scents will have you smelling like cream soda – in a good way](https://www.theguardian.com/fashion/2026/nov/25/sali-hughes-on-beauty-lactonic-scents-smelling-like-cream-soda-strangely-nice-actually)
-- [The Slightest Touch review – running marathons in Colin Farrell and Emma Fogarty’s odd-couple friendship](https://www.theguardian.com/film/2026/nov/25/the-slightest-touch-review-warm-story-of-colin-farrell-and-emma-fogartys-odd-couple-friendship)
-- [Iowa town shelters in place as army prepares to detonate entire US stockpile of lead azide](https://www.theguardian.com/us-news/2026/nov/25/iowa-controlled-blast-lead-azide)
-- [‘Half price!’ ‘Only two left!’ How to resist the bargains you just don’t need – this Black Friday and beyond](https://www.theguardian.com/money/2026/nov/25/half-price-only-two-left-how-to-resist-the-bargains-you-just-dont-need-this-black-friday-and-beyond)
-- [All hostages rescued after Colombian security forces storm supermarket, says president](https://www.theguardian.com/world/2026/nov/25/hostages-freed-colombia-security-forces-storm-cartagena-supermarket)
+- [UK net migration falls to 77,000, lowest since 1997 excluding Covid pandemic – UK politics live](https://www.theguardian.com/politics/live/2026/nov/26/uk-eu-food-deal-farage-penalty-compensation-reform-net-migration-latest-news-updates)
+- [EU leaders brace for tough talks on budget and Ukraine – Europe live](https://www.theguardian.com/world/live/2026/nov/26/eu-budget-summit-ukraine-russia-spain-serbia-elections-latest-news-updates)
+- [Norse Atlantic Airways suspends all flights as it makes urgent funding plea](https://www.theguardian.com/business/2026/nov/26/norse-atlantic-airways-suspends-all-flights-urgent-funding-plea)
+- [Michael Giles, co-founder and drummer of King Crimson, dies aged 84](https://www.theguardian.com/music/2026/nov/26/michael-giles-co-founder-and-drummer-of-king-crimson-dies-aged-84)
+- [Israel ‘officially sanctions’ torture of Palestinian prisoners to extract confessions, report concludes](https://www.theguardian.com/world/2026/nov/26/israel-officially-sanctions-torture-palestinian-prisoners-confessions-report)
+- [A vocal cohort of tech leaders celebrates Huang’s Nvidia return, but others are keeping quiet](https://www.theguardian.com/technology/2026/nov/26/jensen-huang-nvidia-tech)
+- [‘I was very aggressive. They threw me out of every school’ … Julie Delpy on acting, anger and predatory directors](https://www.theguardian.com/film/2026/nov/26/julie-delpy-acting-anger-predatory-directors)
+- [The dhow builders crafting giant historic ships in India – in pictures](https://www.theguardian.com/environment/2026/nov/26/tradition-giant-ships-india-shipbuilders-mandvi)
+- [Dozens of court cases in England and Wales affected by undisclosed AI use in 2026](https://www.theguardian.com/technology/2026/nov/26/dozens-of-court-cases-in-england-and-wales-affected-by-undisclosed-ai-use-in-2026)
+- [Citrus bars, mandarin drizzle cake, boozy compote and a lime bundt: Natalie Paull’s citrus bakes – recipes](https://www.theguardian.com/food/2026/nov/26/citrus-bars-drizzle-cakes-boozy-compote-bakes-recipes-natalie-paull)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

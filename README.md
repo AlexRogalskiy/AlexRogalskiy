@@ -355,6 +355,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Microsoft sets one-hour recovery goal after worst-ever M365 outage](https://www.computerworld.com/article/4253555/microsoft-sets-one-hour-recovery-goal-after-worst-ever-m365-outage.html)
+- [Why the Blue Tsunami may help Microsoft](https://www.computerworld.com/article/4251640/why-the-blue-tsunami-may-help-microsoft.html)
+- [Anthropic lets you install Claude ‘artifacts’ as Mac apps](https://www.computerworld.com/article/4253109/anthropic-lets-you-install-claude-artifacts-as-mac-apps.html)
 - [Got a Pixel 10 or Pixel 11? Get instant access to Google’s new Create My Widget system](https://www.computerworld.com/article/4250434/google-pixel-create-my-widget.html)
 - [OpenClaw launches an AI performance benchmark that it argues is more realistic than others](https://www.computerworld.com/article/4252841/openclaw-launches-an-ai-performance-benchmark-that-it-argues-is-more-realistic-than-others.html)
 - [Microsoft has an old, but new, idea for PC upgrades: Cloud PCs](https://www.computerworld.com/article/4252292/microsoft-has-an-old-but-new-idea-for-pc-upgrades-cloud-pcs.html)
@@ -362,9 +365,6 @@
 - [Nvidia CEO boomerang reinforces IT worries about AI risk exposure](https://www.computerworld.com/article/4252259/nvidia-ceo-boomerang-reinforces-it-worries-about-ai-risk-exposure-2.html)
 - [AI agent security concerns kick-start confidential computing](https://www.computerworld.com/article/4245310/ai-agent-security-concerns-kick-start-confidential-computing.html)
 - [Should Apple really move fast and break things?](https://www.computerworld.com/article/4252153/should-apple-really-move-fast-and-break-things.html)
-- [Hyring Insight Reports 10x Revenue Growth in 3 months](https://www.computerworld.com/article/4251888/hyring-insight-reports-10x-revenue-growth-in-3-months-2.html)
-- [21 ways Gemini can genuinely be useful on Android](https://www.computerworld.com/article/4007736/21-ways-gemini-can-genuinely-be-useful-on-android.html)
-- [Apple doesn’t need the smartest AI agent. It needs the most trusted one](https://www.computerworld.com/article/4251496/apple-doesnt-need-the-smartest-ai-agent-it-needs-the-most-trusted-one.html)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

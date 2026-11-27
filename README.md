@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [UK net migration falls to 77,000, lowest since 1997 excluding Covid pandemic – UK politics live](https://www.theguardian.com/politics/live/2026/nov/26/uk-eu-food-deal-farage-penalty-compensation-reform-net-migration-latest-news-updates)
-- [EU leaders brace for tough talks on budget and Ukraine – Europe live](https://www.theguardian.com/world/live/2026/nov/26/eu-budget-summit-ukraine-russia-spain-serbia-elections-latest-news-updates)
-- [Norse Atlantic Airways suspends all flights as it makes urgent funding plea](https://www.theguardian.com/business/2026/nov/26/norse-atlantic-airways-suspends-all-flights-urgent-funding-plea)
-- [Michael Giles, co-founder and drummer of King Crimson, dies aged 84](https://www.theguardian.com/music/2026/nov/26/michael-giles-co-founder-and-drummer-of-king-crimson-dies-aged-84)
-- [Israel ‘officially sanctions’ torture of Palestinian prisoners to extract confessions, report concludes](https://www.theguardian.com/world/2026/nov/26/israel-officially-sanctions-torture-palestinian-prisoners-confessions-report)
-- [A vocal cohort of tech leaders celebrates Huang’s Nvidia return, but others are keeping quiet](https://www.theguardian.com/technology/2026/nov/26/jensen-huang-nvidia-tech)
-- [‘I was very aggressive. They threw me out of every school’ … Julie Delpy on acting, anger and predatory directors](https://www.theguardian.com/film/2026/nov/26/julie-delpy-acting-anger-predatory-directors)
-- [The dhow builders crafting giant historic ships in India – in pictures](https://www.theguardian.com/environment/2026/nov/26/tradition-giant-ships-india-shipbuilders-mandvi)
-- [Dozens of court cases in England and Wales affected by undisclosed AI use in 2026](https://www.theguardian.com/technology/2026/nov/26/dozens-of-court-cases-in-england-and-wales-affected-by-undisclosed-ai-use-in-2026)
-- [Citrus bars, mandarin drizzle cake, boozy compote and a lime bundt: Natalie Paull’s citrus bakes – recipes](https://www.theguardian.com/food/2026/nov/26/citrus-bars-drizzle-cakes-boozy-compote-bakes-recipes-natalie-paull)
+- [Levski fans in hospital after Marseille violence; Premier League news – football live](https://www.theguardian.com/football/live/2026/nov/27/premier-league-news-levski-fans-marseille-violence-football)
+- [Labour backs bill to stop lawsuits used to silence journalists and whistleblowers](https://www.theguardian.com/media/2026/nov/27/labour-backs-bill-lawsuits-journalists-whistleblowers-slapps)
+- [Trump calling Putin ‘friend’ like declaring friendship with Hitler during WW2, Zelenskyy says – Europe live](https://www.theguardian.com/world/live/2026/nov/27/zelenskyy-putin-trump-comments-russia-ukraine-latest-news-updates)
+- [Australia v England: third men’s Twenty20 international – live](https://www.theguardian.com/sport/live/2026/nov/27/australia-v-england-third-mens-twenty20-international-live)
+- [Department for Work and Pensions takes services offline after ‘cyber incident’ – UK politics live](https://www.theguardian.com/politics/live/2026/nov/27/department-work-pensions-offline-cyber-incident-rosebank-slapps-latest-news-updates)
+- [Banks may pass on £1.5bn tax rise to customers, warns Bank of England chief](https://www.theguardian.com/business/2026/nov/27/bank-tax-rise-customers-bank-of-england-andrew-bailey)
+- [A Ghost Story for Christmas: The Bride’s Chamber review – Mark Gatiss just made his best spooky festive tale yet](https://www.theguardian.com/tv-and-radio/2026/nov/27/a-ghost-story-for-christmas-the-brides-chamber-review-mark-gatiss-bbc)
+- [Careless People author Sarah Wynn-Williams: ‘The silence is mine, it doesn’t have to be yours’](https://www.theguardian.com/books/2026/nov/27/careless-people-author-sarah-wynn-williams-the-silence-is-mine-it-doesnt-have-to-be-yours)
+- [Can Borussia Dortmund finally end their title wait? Three big questions for Bundesliga leaders](https://www.theguardian.com/football/2026/nov/27/borussia-dortmund-bundesliga)
+- [Cozy escapism or festive trash? How Netflix holiday movies took over Christmas](https://www.theguardian.com/film/2026/nov/27/netflix-christmas-holiday-movies)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

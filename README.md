@@ -355,6 +355,7 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [OpenAI’s GPT‑6.2 correction means you get less AI for the same fee](https://www.computerworld.com/article/4253890/openais-gpt%e2%80%916-2-correction-means-you-get-less-ai-for-the-same-fee-2.html)
 - [Microsoft sets one-hour recovery goal after worst-ever M365 outage](https://www.computerworld.com/article/4253555/microsoft-sets-one-hour-recovery-goal-after-worst-ever-m365-outage.html)
 - [Why the Blue Tsunami may help Microsoft](https://www.computerworld.com/article/4251640/why-the-blue-tsunami-may-help-microsoft.html)
 - [Anthropic lets you install Claude ‘artifacts’ as Mac apps](https://www.computerworld.com/article/4253109/anthropic-lets-you-install-claude-artifacts-as-mac-apps.html)
@@ -364,7 +365,6 @@
 - [Encryption has a new problem: AI is getting better at proving the impossible](https://www.computerworld.com/article/4252348/encryption-has-a-new-problem-ai-is-getting-better-at-proving-the-impossible.html)
 - [Nvidia CEO boomerang reinforces IT worries about AI risk exposure](https://www.computerworld.com/article/4252259/nvidia-ceo-boomerang-reinforces-it-worries-about-ai-risk-exposure-2.html)
 - [AI agent security concerns kick-start confidential computing](https://www.computerworld.com/article/4245310/ai-agent-security-concerns-kick-start-confidential-computing.html)
-- [Should Apple really move fast and break things?](https://www.computerworld.com/article/4252153/should-apple-really-move-fast-and-break-things.html)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

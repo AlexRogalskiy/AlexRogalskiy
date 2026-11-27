@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Moat: Your OpenRouter Replacement](https://commandcode.ai/moat)
-- [Lions&#39; Commentary on Unix: Why It Was Secretly Copied for 20 Years](https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/)
-- [Unconditional Integer Factorization in Subexponential Time](https://github.com/google-research/google-research/tree/4a7bc8ab0bc770e71a259b7966c500496b99010a/cogentic_research_papers/integer_factorization)
-- [Qualcomm&#39;s Oryon 3 Reaches the Top](https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top)
-- [OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster](https://twitter.com/thsottiaux/status/2125784147889393806)
-- [Minipg: PostgreSQL as a Single Executable](https://progrium.github.io/minipg/)
-- [Tell HN: Lots of Ask HNs again](https://news.ycombinator.com/item?id=50649864)
-- [Collection of preserved UI style guides](https://aresluna.org/ui-style-guides/)
-- [Bare Metal Qwen](https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os)
-- [Deploying a payphone on a tiny Pacific Island for fun and zero profit](https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/)
+- [&#39;Cyber incident&#39; forces UK Gov to take some services offline](https://www.bbc.co.uk/news/live/c6rrg94lgjrjt)
+- [Claude sabotaging SOTA ML research tasks](https://twitter.com/RealAstropulse/status/2126119408997466389)
+- [European Commission Declares Browser Competition a Digital Markets Act Priority](https://open-web-advocacy.org/es/blog/commission-responds-declares-browser-competition-a-dma-priority/)
+- [Indie web browser Ladybird enters alpha testing](https://www.theregister.com/software/2026/11/26/indie-web-browser-ladybird-enters-alpha-testing/5311914)
+- [The group chat where your AI talks behind your back](https://construct22.com/)
+- [Buy Nothing Day – Friday November 27th 2026](https://www.buynothingday.co.uk/)
+- [The need for a formally verifiable mainstream programming language](https://blainehansen.me/post/mainstream-verifiable-language/)
+- [The Cutthroat Business of Shipwrecks](https://daily.jstor.org/the-cutthroat-business-of-shipwrecks/)
+- [Hard Drive pricing has gotten bad](https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/)
+- [Novita, StreamLake, etc. are ByteDance Ark wrappers](https://kendell.dev/blog/arkwrapper/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

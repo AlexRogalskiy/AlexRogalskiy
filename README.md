@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [How we got GPUI into the browser [video]](https://www.youtube.com/watch?v=4fj9CynHK64)
-- [MikroTik: Forcing DNS through Pi-hole with automatic failover](https://rz01.org/routeros-pihole/)
-- [Intel One Mono font](https://github.com/intel/intel-one-mono)
-- [Interview: On OpenStreetMap Syria](https://blog.opencagedata.com/post/openstreetmap-interview-osm-syria)
-- [jjack: A CLI and TypeScript library to help jj users manage PR stacks on GitHub](https://github.com/david-crespo/jjack)
-- [Codex CLI gives its coding agent 26 ChatGPT account tools by default](https://getbelay.dev/reports/codex-apps/)
-- [Pullgym – An RL and eval env that scores agents on honest error bars](https://github.com/kekeandzeyu/pullgym)
-- [Gridpin – Offline geocoder, a country in a file](https://gridpin.dev/)
-- [A Python course in the browser from print&lpar;&rpar; to a tiny GPT](https://paulspythoncourse.com/)
-- [AI Has Changed VulnCheck&#39;s Exploit Delivery](https://www.vulncheck.com/blog/ai-has-changed-vulncheck)
+- [Ask HN: Is Claude Code nerfing AI and agent-harness projects?](https://news.ycombinator.com/item?id=50665232)
+- [British social security system techies yank services following &#39;cyber incident&#39;](https://www.theregister.com/security/2026/11/27/british-social-security-system-techies-yank-services-offline-following-cyber-incident/5312522)
+- [Show HN: Lelvo – Open-source, end-to-end encrypted photo backup with no servers](https://github.com/shahil-kv/Lelvo)
+- [How to run your whole system locally and catch integration bugs](https://www.lo1.dev/blog/bugs-between-services/)
+- [PDF Buddy: PDF Converter and AI](https://play.google.com/store/apps/details?id=com.pdfbuddy&hl=en_US)
+- [Clawdcursor, a desktop agent that runs UI tasks in the background](https://clawdcursor.com)
+- [Show HN: Hacker News Movies](https://hackerfilms.pages.dev)
+- [75% of Rockstar&#39;s workers have voted against a union deal](https://www.videogameschronicle.com/news/75-of-rockstars-workers-have-voted-against-unionizing/)
+- [Browse Gopher with Nothing but Unix](https://en.andros.dev/blog/500fbcb7/browse-gopher-with-nothing-but-unix/)
+- [Agent Builders 2026 Survey](https://docs.google.com/forms/d/e/1FAIpQLScTj21VCfGqYmfXMrn9C4fcMDXpxM1KKCK2AmfQ0Hn76j6Enw/viewform?usp=header)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Levski fans in hospital after Marseille violence; Premier League news – football live](https://www.theguardian.com/football/live/2026/nov/27/premier-league-news-levski-fans-marseille-violence-football)
-- [Labour backs bill to stop lawsuits used to silence journalists and whistleblowers](https://www.theguardian.com/media/2026/nov/27/labour-backs-bill-lawsuits-journalists-whistleblowers-slapps)
-- [Trump calling Putin ‘friend’ like declaring friendship with Hitler during WW2, Zelenskyy says – Europe live](https://www.theguardian.com/world/live/2026/nov/27/zelenskyy-putin-trump-comments-russia-ukraine-latest-news-updates)
-- [Australia v England: third men’s Twenty20 international – live](https://www.theguardian.com/sport/live/2026/nov/27/australia-v-england-third-mens-twenty20-international-live)
-- [Department for Work and Pensions takes services offline after ‘cyber incident’ – UK politics live](https://www.theguardian.com/politics/live/2026/nov/27/department-work-pensions-offline-cyber-incident-rosebank-slapps-latest-news-updates)
-- [Banks may pass on £1.5bn tax rise to customers, warns Bank of England chief](https://www.theguardian.com/business/2026/nov/27/bank-tax-rise-customers-bank-of-england-andrew-bailey)
-- [A Ghost Story for Christmas: The Bride’s Chamber review – Mark Gatiss just made his best spooky festive tale yet](https://www.theguardian.com/tv-and-radio/2026/nov/27/a-ghost-story-for-christmas-the-brides-chamber-review-mark-gatiss-bbc)
-- [Careless People author Sarah Wynn-Williams: ‘The silence is mine, it doesn’t have to be yours’](https://www.theguardian.com/books/2026/nov/27/careless-people-author-sarah-wynn-williams-the-silence-is-mine-it-doesnt-have-to-be-yours)
-- [Can Borussia Dortmund finally end their title wait? Three big questions for Bundesliga leaders](https://www.theguardian.com/football/2026/nov/27/borussia-dortmund-bundesliga)
-- [Cozy escapism or festive trash? How Netflix holiday movies took over Christmas](https://www.theguardian.com/film/2026/nov/27/netflix-christmas-holiday-movies)
+- [Manchester United v Brentford buildup, Premier League news and more – matchday live](https://www.theguardian.com/football/live/2026/nov/28/manchester-united-v-brentford-buildup-premier-league-news-and-more-matchday-live)
+- [Sly, subversive and surprisingly modern: why Agatha Christie is still making a killing](https://www.theguardian.com/books/2026/nov/28/sly-subversive-and-surprisingly-modern-why-agatha-christie-is-still-making-a-killing)
+- [South Africa have pushed the limits of rugby – time to show they still have the edge](https://www.theguardian.com/sport/2026/nov/28/south-africa-france-nations-championship-grand-final-rugby-union)
+- [The radical clarity of NAZA makes You Can See Everything seem irrelevant | Charlotte Higgins](https://www.theguardian.com/commentisfree/2026/nov/28/naza-you-can-see-everything-cannes-politics-war-cinema)
+- [Brit-splaining Botham and the impossible task of defining a sporting life without limits | Will Woodward](https://www.theguardian.com/sport/2026/nov/28/brit-splaining-ian-botham-sporting-life-without-limits)
+- [Unpaid TV licence or cycling on pavement could bar people from settling in UK](https://www.theguardian.com/uk-news/2026/nov/28/new-immigration-rules-uk-unpaid-tv-licence-cycling-pavement-adult-convictions)
+- [‘I told it to never call me again’: AI bots wreak havoc with UK restaurant bookings](https://www.theguardian.com/business/2026/nov/28/ai-bots-wreak-havoc-uk-restaurant-bookings-meta-muse)
+- [Basque to the future: Andoni Iraola fired up for first Merseyside derby](https://www.theguardian.com/football/2026/nov/28/andoni-iraola-first-merseyside-derby-liverpool-everton-premier-league)
+- [The Renéessance is over but Arsenal’s chaotic cycle will go on without further change | Suzanne Wrack](https://www.theguardian.com/football/2026/nov/28/renee-slegers-arsenal-womens-super-league)
+- [Village plea for replacement Royal Mail postbox hits the rocks &lpar;literally&rpar;](https://www.theguardian.com/business/2026/nov/28/mystery-of-the-missing-mailbox-oyal-mail-postbox-falls-on-stony-ground)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

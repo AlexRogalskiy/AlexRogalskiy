@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [1Password data breach included some customer info, internal source code](https://www.computerworld.com/article/4254145/1password-data-breach-included-some-customer-info-internal-source-code-2.html)
+- [Why SAP’s second 10,000-job overhaul in two years matters to CIOs](https://www.computerworld.com/article/4253982/why-saps-second-10000-job-overhaul-in-two-years-matters-to-cios-2.html)
+- [Who wants a lamp that wants to be wanted?](https://www.computerworld.com/article/4251660/who-wants-a-lamp-that-wants-to-be-wanted.html)
 - [OpenAI’s GPT‑6.2 correction means you get less AI for the same fee](https://www.computerworld.com/article/4253890/openais-gpt%e2%80%916-2-correction-means-you-get-less-ai-for-the-same-fee-2.html)
+- [Microsoft 365 Backup retention period extended to ten years](https://www.computerworld.com/article/4254127/microsoft-365-backup-extends-retention-period-from-two-to-ten-years.html)
 - [Microsoft sets one-hour recovery goal after worst-ever M365 outage](https://www.computerworld.com/article/4253555/microsoft-sets-one-hour-recovery-goal-after-worst-ever-m365-outage.html)
 - [Why the Blue Tsunami may help Microsoft](https://www.computerworld.com/article/4251640/why-the-blue-tsunami-may-help-microsoft.html)
 - [Anthropic lets you install Claude ‘artifacts’ as Mac apps](https://www.computerworld.com/article/4253109/anthropic-lets-you-install-claude-artifacts-as-mac-apps.html)
 - [Got a Pixel 10 or Pixel 11? Get instant access to Google’s new Create My Widget system](https://www.computerworld.com/article/4250434/google-pixel-create-my-widget.html)
 - [OpenClaw launches an AI performance benchmark that it argues is more realistic than others](https://www.computerworld.com/article/4252841/openclaw-launches-an-ai-performance-benchmark-that-it-argues-is-more-realistic-than-others.html)
-- [Microsoft has an old, but new, idea for PC upgrades: Cloud PCs](https://www.computerworld.com/article/4252292/microsoft-has-an-old-but-new-idea-for-pc-upgrades-cloud-pcs.html)
-- [Encryption has a new problem: AI is getting better at proving the impossible](https://www.computerworld.com/article/4252348/encryption-has-a-new-problem-ai-is-getting-better-at-proving-the-impossible.html)
-- [Nvidia CEO boomerang reinforces IT worries about AI risk exposure](https://www.computerworld.com/article/4252259/nvidia-ceo-boomerang-reinforces-it-worries-about-ai-risk-exposure-2.html)
-- [AI agent security concerns kick-start confidential computing](https://www.computerworld.com/article/4245310/ai-agent-security-concerns-kick-start-confidential-computing.html)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [&#39;Cyber incident&#39; forces UK Gov to take some services offline](https://www.bbc.co.uk/news/live/c6rrg94lgjrjt)
-- [Claude sabotaging SOTA ML research tasks](https://twitter.com/RealAstropulse/status/2126119408997466389)
-- [European Commission Declares Browser Competition a Digital Markets Act Priority](https://open-web-advocacy.org/es/blog/commission-responds-declares-browser-competition-a-dma-priority/)
-- [Indie web browser Ladybird enters alpha testing](https://www.theregister.com/software/2026/11/26/indie-web-browser-ladybird-enters-alpha-testing/5311914)
-- [The group chat where your AI talks behind your back](https://construct22.com/)
-- [Buy Nothing Day – Friday November 27th 2026](https://www.buynothingday.co.uk/)
-- [The need for a formally verifiable mainstream programming language](https://blainehansen.me/post/mainstream-verifiable-language/)
-- [The Cutthroat Business of Shipwrecks](https://daily.jstor.org/the-cutthroat-business-of-shipwrecks/)
-- [Hard Drive pricing has gotten bad](https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/)
-- [Novita, StreamLake, etc. are ByteDance Ark wrappers](https://kendell.dev/blog/arkwrapper/)
+- [FastLanes: Next-gen File Format [pdf]](https://research.vu.nl/files/447013431/afroozehphdthesis%20-%2069280d90f0bfd.pdf)
+- [Knuth: Moratorium on Error Reports](https://www-cs-faculty.stanford.edu/~knuth/moratorium.html)
+- [Unkernel: Real Linux kernel, compiled to WebAssembly](https://unkernel.dev)
+- [Atari Homebrew Awards Cancelled](https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/)
+- [Google&#39;s DeepCrossAttention achieves comparable model quality up to 3x faster](https://research.google/blog/supercharging-transformer-residual-connections/)
+- [Tabernetes: A Kubernetes cluster whose nodes are browser tabs](https://tabernet.es/)
+- [9/UX: a Macintosh-inspired desktop for 9front](https://progrium.github.io/9ux/)
+- [Prospero: Bloat-free, native AI coding harness with ImGui](https://github.com/skeeto/prospero)
+- [States sue SpaceX to stop Grok from generating child sex images, revenge porn](https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform)
+- [Michael Nielsen took down his book on neural nets](https://neuralnetworksanddeeplearning.com/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

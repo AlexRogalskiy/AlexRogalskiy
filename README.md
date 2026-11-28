@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ask HN: Is Claude Code nerfing AI and agent-harness projects?](https://news.ycombinator.com/item?id=50665232)
-- [British social security system techies yank services following &#39;cyber incident&#39;](https://www.theregister.com/security/2026/11/27/british-social-security-system-techies-yank-services-offline-following-cyber-incident/5312522)
-- [Show HN: Lelvo – Open-source, end-to-end encrypted photo backup with no servers](https://github.com/shahil-kv/Lelvo)
-- [How to run your whole system locally and catch integration bugs](https://www.lo1.dev/blog/bugs-between-services/)
-- [PDF Buddy: PDF Converter and AI](https://play.google.com/store/apps/details?id=com.pdfbuddy&hl=en_US)
-- [Clawdcursor, a desktop agent that runs UI tasks in the background](https://clawdcursor.com)
-- [Show HN: Hacker News Movies](https://hackerfilms.pages.dev)
-- [75% of Rockstar&#39;s workers have voted against a union deal](https://www.videogameschronicle.com/news/75-of-rockstars-workers-have-voted-against-unionizing/)
-- [Browse Gopher with Nothing but Unix](https://en.andros.dev/blog/500fbcb7/browse-gopher-with-nothing-but-unix/)
-- [Agent Builders 2026 Survey](https://docs.google.com/forms/d/e/1FAIpQLScTj21VCfGqYmfXMrn9C4fcMDXpxM1KKCK2AmfQ0Hn76j6Enw/viewform?usp=header)
+- [Show HN: Semantic Zoom, a Mac app that rewrites text into natural English](https://www.semantic-zoom.com/)
+- [Show HN: Cathedral Lab is an intelligence utility application](https://github.com/cathedral-cathedral-lab/CATHEDRAL-LAB)
+- [Ask HN: How do you maintain APIs](https://news.ycombinator.com/item?id=50676068)
+- [DoItNow: Daily Tasks and Focus](https://play.google.com/store/apps/details?id=com.afterwards.doitnow&hl=en_US)
+- [Fede&#39;s Guide to Type Systems: From Generics to Dependent Types](https://federicocarrone.com/articles/type-systems/)
+- [macOS but Better [video]](https://www.youtube.com/watch?v=abLEkywTtD4)
+- [Apex Neural Studio v1.0 – 100% offline local GGUF workstation for Windows](https://github.com/markaboucher61-hash/Apex-Neural-Studio/releases/tag/v1.0.0](https://github.com/markaboucher61-hash/Apex-Neural-Studio/releases/tag/v1.0.0)
+- [Pica: Local 2D vector design and animation MCP server &lpar;Bun, SVG, raw CDP&rpar;](https://github.com/nadeeshafdo/pica)
+- [Refusals and Fallback of Anthropic Models](https://platform.claude.com/docs/en/build-with-claude/refusals-and-fallback)
+- [SAP hit by hack: source code modified](https://www.techzine.eu/news/security/146116/sap-hit-by-hack-source-code-modified/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_
